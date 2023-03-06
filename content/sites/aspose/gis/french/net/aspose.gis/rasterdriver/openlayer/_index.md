@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: RasterDriver.OpenLayer
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Ouvre le calque pour la lecture.
+description: RasterDriver méthode. Ouvre le calque pour la lecture.
 type: docs
 weight: 20
 url: /fr/net/aspose.gis/rasterdriver/openlayer/
@@ -21,7 +21,7 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### Return_Value
 
-Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Exceptions
 
@@ -30,15 +30,15 @@ Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
 | ArgumentNullException | Le chemin est`null`. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les couches raster (voir[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les couches raster (voir[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Voir également
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* espace de noms [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* espace de noms [Aspose.Gis](../../rasterdriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -57,7 +57,7 @@ public RasterLayer OpenLayer(string path)
 
 ### Return_Value
 
-Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Exceptions
 
@@ -65,13 +65,13 @@ Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les couches raster (voir[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les couches raster (voir[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Voir également
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriver](../../rasterdriver)
-* espace de noms [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriver](../)
+* espace de noms [Aspose.Gis](../../rasterdriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 ### Return_Value
 
-Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Exceptions
 
@@ -98,14 +98,14 @@ Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les couches raster (voir[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les couches raster (voir[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Voir également
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriver](../../rasterdriver)
-* espace de noms [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriver](../)
+* espace de noms [Aspose.Gis](../../rasterdriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -125,7 +125,7 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 
 ### Return_Value
 
-Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Exceptions
 
@@ -134,14 +134,14 @@ Un exemple de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
 | ArgumentNullException | Le chemin est`null`. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les couches raster (voir[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les couches raster (voir[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Voir également
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* espace de noms [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* espace de noms [Aspose.Gis](../../rasterdriver/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: AsImage
+title: IGeometry.AsImage
 second_title: Aspose.GIS لمرجع .NET API
-description: قم بتصدير هذه الهندسة إلى تمثيل صورة .
+description: IGeometry طريقة. قم بتصدير هذه الهندسة إلى تمثيل صورة .
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/igeometry/asimage/
@@ -21,7 +21,7 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | width | Measurement | عرض الخريطة. |
 | height | Measurement | ارتفاع الخريطة. |
 | renderer | Renderer | عارض للاستخدام. |
-| symbolizer | VectorSymbolizer | رمز لاستخدامه في التقديم. إذا`null`، يتم استخدام الرمز الافتراضي. |
+| symbolizer | VectorSymbolizer | رمز لاستخدامه في التقديم. لو`null`، يتم استخدام الرمز الافتراضي. |
 
 ### استثناءات
 
@@ -29,18 +29,18 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | --- | --- |
 | ArgumentNullException | أي حجة`null`. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| [GisException](../../../aspose.gis/gisexception) | خطأ أثناء معالجة أو قراءة بيانات GIS. |
+| [GisException](../../../aspose.gis/gisexception/) | خطأ أثناء معالجة أو قراءة بيانات GIS. |
 | ArgumentException | وحدة العرض أو الارتفاع!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | العرض أو الارتفاع سالب أو صفر. |
 
 ### أنظر أيضا
 
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -60,7 +60,7 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | width | Measurement | عرض الخريطة. |
 | height | Measurement | ارتفاع الخريطة. |
 | renderer | Renderer | عارض للاستخدام. |
-| symbolizer | VectorSymbolizer | رمز لاستخدامه في التقديم. إذا`null`، يتم استخدام الرمز الافتراضي. |
+| symbolizer | VectorSymbolizer | رمز لاستخدامه في التقديم. لو`null`، يتم استخدام الرمز الافتراضي. |
 
 ### استثناءات
 
@@ -68,17 +68,17 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | --- | --- |
 | ArgumentNullException | أي حجة`null`. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| [GisException](../../../aspose.gis/gisexception) | خطأ أثناء معالجة أو قراءة بيانات GIS. |
+| [GisException](../../../aspose.gis/gisexception/) | خطأ أثناء معالجة أو قراءة بيانات GIS. |
 | ArgumentException | وحدة العرض أو الارتفاع!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | العرض أو الارتفاع سالب أو صفر. |
 
 ### أنظر أيضا
 
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -97,7 +97,7 @@ public Stream AsImage(Measurement width, Measurement height, Renderer renderer,
 | width | Measurement | عرض الخريطة. |
 | height | Measurement | ارتفاع الخريطة. |
 | renderer | Renderer | عارض للاستخدام. |
-| symbolizer | VectorSymbolizer | رمز لاستخدامه في التقديم. إذا`null`، يتم استخدام الرمز الافتراضي. |
+| symbolizer | VectorSymbolizer | رمز لاستخدامه في التقديم. لو`null`، يتم استخدام الرمز الافتراضي. |
 
 ### قيمة الإرجاع
 
@@ -109,17 +109,17 @@ public Stream AsImage(Measurement width, Measurement height, Renderer renderer,
 | --- | --- |
 | ArgumentNullException | أي حجة`null`. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| [GisException](../../../aspose.gis/gisexception) | خطأ أثناء معالجة أو قراءة بيانات GIS. |
+| [GisException](../../../aspose.gis/gisexception/) | خطأ أثناء معالجة أو قراءة بيانات GIS. |
 | ArgumentException | وحدة العرض أو الارتفاع!:SpatialReferencing.Unit.MapUnits . |
 | ArgumentOutOfRangeException | العرض أو الارتفاع سالب أو صفر. |
 
 ### أنظر أيضا
 
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
 * المجسم [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

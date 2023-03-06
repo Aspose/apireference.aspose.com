@@ -1,9 +1,9 @@
 ---
-title: GeographicDatum
+title: Class GeographicDatum
 second_title: Справочник по Aspose.GIS for .NET API
-description: Географические данные связывают долготу и широту с конкретным местом на Земле.
+description: Aspose.Gis.SpatialReferencing.GeographicDatum сорт. Географические данные связывают долготу и широту с конкретным местом на Земле.
 type: docs
-weight: 2020
+weight: 2120
 url: /ru/net/aspose.gis.spatialreferencing/geographicdatum/
 ---
 ## GeographicDatum class
@@ -18,35 +18,35 @@ public class GeographicDatum : IdentifiableObject
 
 | Имя | Описание |
 | --- | --- |
-| [GeographicDatum](geographicdatum)(string, Ellipsoid, BursaWolfParameters, Identifier) | Создает новый экземпляр. |
+| [GeographicDatum](geographicdatum/)(string, Ellipsoid, BursaWolfParameters, Identifier) | Создает новый экземпляр. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| static [Etrs89](../../aspose.gis.spatialreferencing/geographicdatum/etrs89) { get; } | Датам ETRS 89. |
-| static [Nad83](../../aspose.gis.spatialreferencing/geographicdatum/nad83) { get; } | Датам NAD 83. |
-| static [Osgb36](../../aspose.gis.spatialreferencing/geographicdatum/osgb36) { get; } | Датам OSGB 1936. |
-| static [Wgs72](../../aspose.gis.spatialreferencing/geographicdatum/wgs72) { get; } | Датум WGS 72. |
-| static [Wgs84](../../aspose.gis.spatialreferencing/geographicdatum/wgs84) { get; } | Датум WGS 84. |
-| [Ellipsoid](../../aspose.gis.spatialreferencing/geographicdatum/ellipsoid) { get; } | Эллипсоид, используемый в этой системе координат для аппроксимации Земли. |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | Если этот идентификатор объекта является идентификатором EPSG - вернуть его код. В противном случае - вернуть -1. |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | Идентификатор этого идентифицируемого объекта. |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | Имя этого объекта. |
-| [ToWgs84Parameters](../../aspose.gis.spatialreferencing/geographicdatum/towgs84parameters) { get; } | Параметры BursaWolf, которые можно использовать для преобразования координат в этой системе координат в координаты системы координат WGS84. |
+| static [Etrs89](../../aspose.gis.spatialreferencing/geographicdatum/etrs89/) { get; } | Датам ETRS 89. |
+| static [Nad83](../../aspose.gis.spatialreferencing/geographicdatum/nad83/) { get; } | Датам NAD 83. |
+| static [Osgb36](../../aspose.gis.spatialreferencing/geographicdatum/osgb36/) { get; } | Датам OSGB 1936. |
+| static [Wgs72](../../aspose.gis.spatialreferencing/geographicdatum/wgs72/) { get; } | Датум WGS 72. |
+| static [Wgs84](../../aspose.gis.spatialreferencing/geographicdatum/wgs84/) { get; } | Датум WGS 84. |
+| [Ellipsoid](../../aspose.gis.spatialreferencing/geographicdatum/ellipsoid/) { get; } | Эллипсоид, используемый в этой системе координат для аппроксимации Земли. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | Если этот идентификатор объекта является идентификатором EPSG - вернуть его код. В противном случае - вернуть -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | Идентификатор этого идентифицируемого объекта. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | Имя этого объекта. |
+| [ToWgs84Parameters](../../aspose.gis.spatialreferencing/geographicdatum/towgs84parameters/) { get; } | Параметры BursaWolf, которые можно использовать для преобразования координат в этой системе координат в координаты системы координат WGS84. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent)(GeographicDatum) | Определяет эквивалентность двух датумов. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными, например[`Name`](../identifiableobject/name) . |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, которая представляет текущий объект. |
-| static [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent)(GeographicDatum, GeographicDatum) | Определяет эквивалентность двух датумов. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными, например[`Name`](../identifiableobject/name) . |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum) | Определяет эквивалентность двух датумов. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными, например[`Name`](../identifiableobject/name/) . |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | Возвращает строку, которая представляет текущий объект. |
+| static [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum, GeographicDatum) | Определяет эквивалентность двух датумов. Одни и те же координаты эквивалентных датумов соответствуют одному и тому же месту на Земле. Некоторые параметры эквивалентных датумов могут быть разными, например[`Name`](../identifiableobject/name/) . |
 
 ### Смотрите также
 
-* class [IdentifiableObject](../identifiableobject)
-* пространство имен [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* class [IdentifiableObject](../identifiableobject/)
+* пространство имен [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * сборка [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

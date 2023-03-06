@@ -1,14 +1,14 @@
 ---
-title: DatabaseDriverOptions
+title: Class DatabaseDriverOptions
 second_title: Aspose.GIS för .NET API Referens
-description: Alternativ för enDatabaseDriver./databasedriver .
+description: Aspose.Gis.DatabaseDriverOptions klass. Alternativ för enDatabaseDriver .
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.gis/databasedriveroptions/
 ---
 ## DatabaseDriverOptions class
 
-Alternativ för en[`DatabaseDriver`](../databasedriver) .
+Alternativ för en[`DatabaseDriver`](../databasedriver/) .
 
 ```csharp
 public abstract class DatabaseDriverOptions : DriverOptions
@@ -18,24 +18,24 @@ public abstract class DatabaseDriverOptions : DriverOptions
 
 | namn | Beskrivning |
 | --- | --- |
-| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring) { get; set; } | Bestämmer om stänga en ostängdLinearRing i varje geometri. Standard till`false` . |
-| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints) { get; set; } | Bestämmer om lägga till en ny punkt i mitten till varje segment av geometri. Standard till`false` . |
-| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints) { get; set; } | Bestämmer om radera nära punkter i varje geometri. Standard till`false` . |
-| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance) { get; set; } | Bestämmer avstånd för[`DeleteNearPoints`](../driveroptions/deletenearpoints) . Standard till`0` . |
-| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance) { get; set; } | En tolerans att använda för att linjärisera kurvgeometrier. |
-| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel) { get; set; } | A[`PrecisionModel`](../precisionmodel) som kommer att tillämpas på M coordinate när geometrier läggs till[`VectorLayer`](../vectorlayer) eller när de läses från[`VectorLayer`](../vectorlayer) . Standardvärdet är[`Exact`](../precisionmodel/exact) . |
-| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments) { get; set; } | Bestämmer om raderingspunkter som ligger på samma segment i varje geometri. Standard till`false` . |
-| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance) { get; set; } | Bestämmer avstånd för[`SimplifySegments`](../driveroptions/simplifysegments) . Standard till`0` . |
-| [SpatialReferenceSystemMode](../../aspose.gis/databasedriveroptions/spatialreferencesystemmode) { get; set; } | Bestämmer hur de okända geometriernas SRS för databasen ska hanteras när de läggs till i lagret. Standardvärdet ärThrowException . |
-| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite) { get; set; } | Bestämmer om geometrier ska valideras när de läggs till i lagret. Om satt till`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid)anropas för each geometri när den läggs till i lagret och om valideringen misslyckas ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid) är`false` ),[`GisException`](../gisexception) kastas. |
-| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines) { get; set; } | Bestämmer om transformation av polygon eller multipolygon till linjesträng är tillåten. Standard till`false` . |
-| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel) { get; set; } | A[`PrecisionModel`](../precisionmodel)som kommer att tillämpas på X- och Y-koordinater när geometrier läggs till[`VectorLayer`](../vectorlayer) eller när de läses från[`VectorLayer`](../vectorlayer) . Standardvärdet är[`Exact`](../precisionmodel/exact) . |
-| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel) { get; set; } | A[`PrecisionModel`](../precisionmodel) som kommer att tillämpas på Z coordinate när geometrier läggs till[`VectorLayer`](../vectorlayer) eller när de läses från[`VectorLayer`](../vectorlayer) . Standardvärdet är[`Exact`](../precisionmodel/exact) . |
+| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring/) { get; set; } | Bestämmer om stänga en ostängdLinearRing i varje geometri. Standard till`false` . |
+| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints/) { get; set; } | Bestämmer om lägga till en ny punkt i mitten till varje segment av geometri. Standard till`false` . |
+| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints/) { get; set; } | Bestämmer om radera nära punkter i varje geometri. Standard till`false` . |
+| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance/) { get; set; } | Bestämmer avstånd för[`DeleteNearPoints`](../driveroptions/deletenearpoints/) . Standard till`0` . |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance/) { get; set; } | En tolerans att använda för att linjärisera kurvgeometrier. |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel/) { get; set; } | A[`PrecisionModel`](../precisionmodel/) som kommer att tillämpas på M coordinate när geometrier läggs till[`VectorLayer`](../vectorlayer/) eller när de läses från[`VectorLayer`](../vectorlayer/) . Standardvärdet är[`Exact`](../precisionmodel/exact/) . |
+| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments/) { get; set; } | Bestämmer om raderingspunkter som ligger på samma segment i varje geometri. Standard till`false` . |
+| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance/) { get; set; } | Bestämmer avstånd för[`SimplifySegments`](../driveroptions/simplifysegments/) . Standard till`0` . |
+| [SpatialReferenceSystemMode](../../aspose.gis/databasedriveroptions/spatialreferencesystemmode/) { get; set; } | Bestämmer hur de okända geometriernas SRS för databasen ska hanteras när de läggs till i lagret. Standardvärdet ärThrowException . |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite/) { get; set; } | Bestämmer om geometrier ska valideras när de läggs till i lagret. Om satt till`true` ,[`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) anropas för each geometri när den läggs till i lagret och om valideringen misslyckas ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) är`false` ),[`GisException`](../gisexception/) kastas. |
+| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines/) { get; set; } | Bestämmer om transformation av polygon eller multipolygon till linjesträng är tillåten. Standard till`false` . |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel/) { get; set; } | A[`PrecisionModel`](../precisionmodel/) som kommer att tillämpas på X- och Y-koordinater när geometrier läggs till[`VectorLayer`](../vectorlayer/) eller när de läses från[`VectorLayer`](../vectorlayer/) . Standardvärdet är[`Exact`](../precisionmodel/exact/) . |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel/) { get; set; } | A[`PrecisionModel`](../precisionmodel/) som kommer att tillämpas på Z coordinate när geometrier läggs till[`VectorLayer`](../vectorlayer/) eller när de läses från[`VectorLayer`](../vectorlayer/) . Standardvärdet är[`Exact`](../precisionmodel/exact/) . |
 
 ### Se även
 
-* class [DriverOptions](../driveroptions)
-* namnutrymme [Aspose.Gis](../../aspose.gis)
+* class [DriverOptions](../driveroptions/)
+* namnutrymme [Aspose.Gis](../../aspose.gis/)
 * hopsättning [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

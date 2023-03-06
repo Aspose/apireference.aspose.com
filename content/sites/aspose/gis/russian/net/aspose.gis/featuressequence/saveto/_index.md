@@ -1,7 +1,7 @@
 ---
-title: SaveTo
+title: FeaturesSequence.SaveTo
 second_title: Справочник по Aspose.GIS for .NET API
-description: Сохраняет последовательность объектов в слой.
+description: FeaturesSequence метод. Сохраняет последовательность объектов в слой.
 type: docs
 weight: 50
 url: /ru/net/aspose.gis/featuressequence/saveto/
@@ -24,15 +24,15 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Любой аргумент`null`. |
-| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| [GisException](../../gisexception/) | Ошибка чтения или записи функции в/из файла. |
 | IOException | Произошла ошибка ввода/вывода. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
 
 ### Смотрите также
 
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* пространство имен [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* пространство имен [Aspose.Gis](../../featuressequence/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -54,16 +54,16 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 
 | исключение | условие |
 | --- | --- |
-| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| [GisException](../../gisexception/) | Ошибка чтения или записи функции в/из файла. |
 | IOException | Произошла ошибка ввода/вывода. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
 
 ### Смотрите также
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* пространство имен [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* пространство имен [Aspose.Gis](../../featuressequence/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -86,17 +86,17 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 
 | исключение | условие |
 | --- | --- |
-| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| [GisException](../../gisexception/) | Ошибка чтения или записи функции в/из файла. |
 | IOException | Произошла ошибка ввода/вывода. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
-| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
+| NotSupportedException | Пространственная система отсчета, указанная в*options* не поддерживается*destinationDriver* . |
 
 ### Смотрите также
 
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* пространство имен [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* пространство имен [Aspose.Gis](../../featuressequence/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -120,18 +120,18 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 
 | исключение | условие |
 | --- | --- |
-| [GisException](../../gisexception) | Ошибка чтения или записи функции в/из файла. |
+| [GisException](../../gisexception/) | Ошибка чтения или записи функции в/из файла. |
 | IOException | Произошла ошибка ввода/вывода. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
-| NotSupportedException | Пространственная система отсчета, указанная в*options*не поддерживается*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | Ошибка преобразования геометрии объектов из исходной системы пространственной привязки в целевую систему пространственной привязки. |
+| NotSupportedException | Пространственная система отсчета, указанная в*options* не поддерживается*destinationDriver* . |
 
 ### Смотрите также
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* пространство имен [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* пространство имен [Aspose.Gis](../../featuressequence/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

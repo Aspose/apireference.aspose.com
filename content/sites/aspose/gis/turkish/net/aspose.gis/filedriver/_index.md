@@ -1,9 +1,9 @@
 ---
-title: FileDriver
+title: Class FileDriver
 second_title: Aspose.GIS for .NET API Referansı
-description: Belirli bir dosya tabanlı biçim için bir sürücü.
+description: Aspose.Gis.FileDriver sınıf. Belirli bir dosya tabanlı biçim için bir sürücü.
 type: docs
-weight: 170
+weight: 180
 url: /tr/net/aspose.gis/filedriver/
 ---
 ## FileDriver class
@@ -18,43 +18,43 @@ public abstract class FileDriver : Driver
 
 | İsim | Tanım |
 | --- | --- |
-| abstract [CanCreateDatasets](../../aspose.gis/filedriver/cancreatedatasets) { get; } | Bu sürücünün veri kümeleri oluşturup oluşturamayacağını gösteren bir değer alır. |
-| abstract [CanCreateLayers](../../aspose.gis/filedriver/cancreatelayers) { get; } | Bu sürücünün vektör katmanları oluşturup oluşturamayacağını gösteren bir değer alır. |
-| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets) { get; } | Bu sürücünün veri kümelerini açıp açamayacağını gösteren bir değer alır. |
-| abstract [CanOpenLayers](../../aspose.gis/filedriver/canopenlayers) { get; } | Bu sürücünün vektör katmanlarını açıp açamayacağını gösteren bir değer alır. |
+| abstract [CanCreateDatasets](../../aspose.gis/filedriver/cancreatedatasets/) { get; } | Bu sürücünün veri kümeleri oluşturup oluşturamayacağını gösteren bir değer alır. |
+| abstract [CanCreateLayers](../../aspose.gis/filedriver/cancreatelayers/) { get; } | Bu sürücünün vektör katmanları oluşturup oluşturamayacağını gösteren bir değer alır. |
+| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | Bu sürücünün veri kümelerini açıp açamayacağını gösteren bir değer alır. |
+| abstract [CanOpenLayers](../../aspose.gis/filedriver/canopenlayers/) { get; } | Bu sürücünün vektör katmanlarını açıp açamayacağını gösteren bir değer alır. |
 
 ## yöntemler
 
 | İsim | Tanım |
 | --- | --- |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset#createdataset)(AbstractPath) | Bir veri kümesi oluşturur. |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset#createdataset_2)(string) | Bir veri kümesi oluşturur. |
-| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset#createdataset_1)(AbstractPath, DriverOptions) | Bir veri kümesi oluşturur. |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset#createdataset_3)(string, DriverOptions) | Bir veri kümesi oluşturur. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer)(AbstractPath) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_4)(string) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_1)(AbstractPath, DriverOptions) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_3)(AbstractPath, SpatialReferenceSystem) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_5)(string, DriverOptions) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_7)(string, SpatialReferenceSystem) | Katmanı oluşturur ve ekleme için açar. |
-| abstract [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer#createlayer_6)(string, DriverOptions, SpatialReferenceSystem) | Katmanı oluşturur ve ekleme için açar. |
-| virtual [EditLayer](../../aspose.gis/filedriver/editlayer#editlayer)(AbstractPath, DriverOptions) | Düzenlemek için bir katman açar. |
-| [EditLayer](../../aspose.gis/filedriver/editlayer#editlayer_1)(string, DriverOptions) | Düzenlemek için bir katman açar. |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset#opendataset)(AbstractPath) | Veri kümesini açar. |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset#opendataset_2)(string) | Veri kümesini açar. |
-| virtual [OpenDataset](../../aspose.gis/filedriver/opendataset#opendataset_1)(AbstractPath, DriverOptions) | Veri kümesini açar. |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset#opendataset_3)(string, DriverOptions) | Veri kümesini açar. |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer#openlayer)(AbstractPath) | Okuma için katmanı açar. |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer#openlayer_2)(string) | Okuma için katmanı açar. |
-| abstract [OpenLayer](../../aspose.gis/filedriver/openlayer#openlayer_1)(AbstractPath, DriverOptions) | Okuma için katmanı açar. |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer#openlayer_3)(string, DriverOptions) | Okuma için katmanı açar. |
-| abstract [SupportsSpatialReferenceSystem](../../aspose.gis/filedriver/supportsspatialreferencesystem)(SpatialReferenceSystem) | Belirtilen uzamsal referans sisteminin sürücü tarafından desteklenip desteklenmediğini belirler. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/#createdataset)(AbstractPath) | Bir veri kümesi oluşturur. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/#createdataset_2)(string) | Bir veri kümesi oluşturur. |
+| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset/#createdataset_1)(AbstractPath, DriverOptions) | Bir veri kümesi oluşturur. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/#createdataset_3)(string, DriverOptions) | Bir veri kümesi oluşturur. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer)(AbstractPath) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_4)(string) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_1)(AbstractPath, DriverOptions) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_3)(AbstractPath, SpatialReferenceSystem) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_5)(string, DriverOptions) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_7)(string, SpatialReferenceSystem) | Katmanı oluşturur ve eklemek için açar. |
+| abstract [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_6)(string, DriverOptions, SpatialReferenceSystem) | Katmanı oluşturur ve eklemek için açar. |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/#editlayer)(AbstractPath, DriverOptions) | Düzenleme için bir katman açar. |
+| [EditLayer](../../aspose.gis/filedriver/editlayer/#editlayer_1)(string, DriverOptions) | Düzenleme için bir katman açar. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset)(AbstractPath) | Veri kümesini açar. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset_2)(string) | Veri kümesini açar. |
+| virtual [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset_1)(AbstractPath, DriverOptions) | Veri kümesini açar. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset_3)(string, DriverOptions) | Veri kümesini açar. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer)(AbstractPath) | Okumak için katmanı açar. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer_2)(string) | Okumak için katmanı açar. |
+| abstract [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer_1)(AbstractPath, DriverOptions) | Okumak için katmanı açar. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer_3)(string, DriverOptions) | Okumak için katmanı açar. |
+| abstract [SupportsSpatialReferenceSystem](../../aspose.gis/filedriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | Belirtilen uzamsal referans sisteminin sürücü tarafından desteklenip desteklenmediğini belirler. |
 
 ### Ayrıca bakınız
 
-* class [Driver](../driver)
-* ad alanı [Aspose.Gis](../../aspose.gis)
+* class [Driver](../driver/)
+* ad alanı [Aspose.Gis](../../aspose.gis/)
 * toplantı [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

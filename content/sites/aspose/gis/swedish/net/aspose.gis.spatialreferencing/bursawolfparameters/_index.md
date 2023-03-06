@@ -1,9 +1,9 @@
 ---
-title: BursaWolfParameters
+title: Class BursaWolfParameters
 second_title: Aspose.GIS för .NET API Referens
-description: Klass som innehåller parametrar för BursaWolfformeln för att transformera till en annan datum.
+description: Aspose.Gis.SpatialReferencing.BursaWolfParameters klass. Klass som innehåller parametrar för BursaWolfformeln för att transformera till en annan datum.
 type: docs
-weight: 1950
+weight: 2050
 url: /sv/net/aspose.gis.spatialreferencing/bursawolfparameters/
 ---
 ## BursaWolfParameters class
@@ -18,36 +18,36 @@ public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 
 | namn | Beskrivning |
 | --- | --- |
-| [BursaWolfParameters](bursawolfparameters#constructor)(double, double, double) | Skapar ny instans av[`BursaWolfParameters`](../bursawolfparameters) . |
-| [BursaWolfParameters](bursawolfparameters#constructor_1)(double, double, double, double, double, double, double) | Skapar ny instans av[`BursaWolfParameters`](../bursawolfparameters) . |
+| [BursaWolfParameters](bursawolfparameters/#constructor)(double, double, double) | Skapar ny instans av`BursaWolfParameters` . |
+| [BursaWolfParameters](bursawolfparameters/#constructor_1)(double, double, double, double, double, double, double) | Skapar ny instans av`BursaWolfParameters` . |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| static [Null](../../aspose.gis.spatialreferencing/bursawolfparameters/null) { get; } | Speciellt värde, som indikerar att parametrar är okända. |
-| [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx) { get; } | Dx i meter. |
-| [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy) { get; } | Dy i meter. |
-| [Dz](../../aspose.gis.spatialreferencing/bursawolfparameters/dz) { get; } | Dz i meter. |
-| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull) { get; } | Bestäm om denna instans är[`Null`](./null) . |
-| [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx) { get; } | Rx på några sekunder. |
-| [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry) { get; } | Ry på några sekunder. |
-| [Rz](../../aspose.gis.spatialreferencing/bursawolfparameters/rz) { get; } | Rz på sekunder. |
-| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale) { get; } | Skala i delar per miljon. |
+| static [Null](../../aspose.gis.spatialreferencing/bursawolfparameters/null/) { get; } | Speciellt värde, som indikerar att parametrar är okända. |
+| [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx/) { get; } | Dx i meter. |
+| [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy/) { get; } | Dy i meter. |
+| [Dz](../../aspose.gis.spatialreferencing/bursawolfparameters/dz/) { get; } | Dz i meter. |
+| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull/) { get; } | Bestäm om denna instans är[`Null`](./null/) . |
+| [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx/) { get; } | Rx på några sekunder. |
+| [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry/) { get; } | Ry på några sekunder. |
+| [Rz](../../aspose.gis.spatialreferencing/bursawolfparameters/rz/) { get; } | Rz på sekunder. |
+| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale/) { get; } | Skala i delar per miljon. |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals#equals)(BursaWolfParameters) | Anger om det aktuella objektet är lika med ett annat objekt av samma typ. |
-| override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals#equals_1)(object) | Bestämmer om det angivna objektet är lika med det aktuella objektet. |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode)() | Fungerar som standard hash-funktion. |
-| [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality) | Implementerar operatorn ==. |
-| [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality) | Implementerar operatorn !=. |
+| [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals)(BursaWolfParameters) | Anger om det aktuella objektet är lika med ett annat objekt av samma typ. |
+| override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals_1)(object) | Bestämmer om det angivna objektet är lika med det aktuella objektet. |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/)() | Fungerar som standard hash-funktion. |
+| [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality/) | Implementerar operatorn ==. |
+| [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality/) | Implementerar operatorn !=. |
 
 ### Se även
 
-* namnutrymme [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* namnutrymme [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * hopsättning [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

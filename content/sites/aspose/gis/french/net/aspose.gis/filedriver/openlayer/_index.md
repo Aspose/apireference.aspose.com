@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: FileDriver.OpenLayer
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Ouvre le calque pour la lecture.
+description: FileDriver méthode. Ouvre le calque pour la lecture.
 type: docs
 weight: 90
 url: /fr/net/aspose.gis/filedriver/openlayer/
@@ -20,22 +20,22 @@ public VectorLayer OpenLayer(string path)
 
 ### Return_Value
 
-Un exemple de[`VectorLayer`](../../vectorlayer).
+Un exemple de[`VectorLayer`](../../vectorlayer/).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture de la fonctionnalité à partir du fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture de la fonctionnalité à partir du fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les calques vectoriels (voir[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les calques vectoriels (voir[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Voir également
 
-* class [VectorLayer](../../vectorlayer)
-* class [FileDriver](../../filedriver)
-* espace de noms [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [FileDriver](../)
+* espace de noms [Aspose.Gis](../../filedriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public VectorLayer OpenLayer(AbstractPath path)
 
 ### Return_Value
 
-Un exemple de[`VectorLayer`](../../vectorlayer).
+Un exemple de[`VectorLayer`](../../vectorlayer/).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture de la fonctionnalité à partir du fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture de la fonctionnalité à partir du fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les calques vectoriels (voir[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les calques vectoriels (voir[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Voir également
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* espace de noms [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* espace de noms [Aspose.Gis](../../filedriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 
 ### Return_Value
 
-Un exemple de[`VectorLayer`](../../vectorlayer).
+Un exemple de[`VectorLayer`](../../vectorlayer/).
 
 ### Exceptions
 
@@ -98,16 +98,16 @@ Un exemple de[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture de la fonctionnalité à partir du fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture de la fonctionnalité à partir du fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les calques vectoriels (voir[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les calques vectoriels (voir[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Voir également
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* espace de noms [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* espace de noms [Aspose.Gis](../../filedriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 ### Return_Value
 
-Un exemple de[`VectorLayer`](../../vectorlayer).
+Un exemple de[`VectorLayer`](../../vectorlayer/).
 
 ### Exceptions
 
@@ -135,17 +135,17 @@ Un exemple de[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture de la fonctionnalité à partir du fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture de la fonctionnalité à partir du fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les calques vectoriels (voir[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les calques vectoriels (voir[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Voir également
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* espace de noms [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* espace de noms [Aspose.Gis](../../filedriver/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

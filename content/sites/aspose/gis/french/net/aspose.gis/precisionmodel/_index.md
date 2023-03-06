@@ -1,14 +1,14 @@
 ---
-title: PrecisionModel
+title: Class PrecisionModel
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: PrecisionModel./precisionmodel spécifie un nombre de chiffres significatifs dans une coordonnée.
+description: Aspose.Gis.PrecisionModel classe. PrecisionModel spécifie un nombre de chiffres significatifs dans une coordonnée.
 type: docs
-weight: 1210
+weight: 1310
 url: /fr/net/aspose.gis/precisionmodel/
 ---
 ## PrecisionModel class
 
-[`PrecisionModel`](../precisionmodel) spécifie un nombre de chiffres significatifs dans une coordonnée.
+`PrecisionModel` spécifie un nombre de chiffres significatifs dans une coordonnée.
 
 ```csharp
 public abstract class PrecisionModel : IEquatable<PrecisionModel>
@@ -18,32 +18,32 @@ public abstract class PrecisionModel : IEquatable<PrecisionModel>
 
 | Nom | La description |
 | --- | --- |
-| static [Exact](../../aspose.gis/precisionmodel/exact) { get; } | Renvoie un modèle de précision exacte. Selon le modèle de précision exacte, tous les chiffres d'une valeur double sont significatifs. |
-| [IsExact](../../aspose.gis/precisionmodel/isexact) { get; } | Obtient une valeur indiquant si ce modèle de précision est exact. |
-| [IsRounding](../../aspose.gis/precisionmodel/isrounding) { get; } | Obtient une valeur indiquant si ce modèle de précision est arrondi. |
-| abstract [SignificantDigits](../../aspose.gis/precisionmodel/significantdigits) { get; } | Obtient un nombre de chiffres significatifs dans un modèle de précision s'il est arrondi. |
+| static [Exact](../../aspose.gis/precisionmodel/exact/) { get; } | Renvoie un modèle de précision exacte. Selon le modèle de précision exacte, tous les chiffres d'une valeur double sont significatifs. |
+| [IsExact](../../aspose.gis/precisionmodel/isexact/) { get; } | Obtient une valeur indiquant si ce modèle de précision est exact. |
+| [IsRounding](../../aspose.gis/precisionmodel/isrounding/) { get; } | Obtient une valeur indiquant si ce modèle de précision est arrondi. |
+| abstract [SignificantDigits](../../aspose.gis/precisionmodel/significantdigits/) { get; } | Obtient un nombre de chiffres significatifs dans un modèle de précision s'il est arrondi. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| static [Rounding](../../aspose.gis/precisionmodel/rounding)(int) | Renvoie un modèle de précision d'arrondi. Selon le modèle de précision d'arrondi, seul un nombre limité de chiffres est significatif. |
-| override [Equals](../../aspose.gis/precisionmodel/equals#equals_1)(object) | Indique si l'objet courant est égal à un autre objet du même type. |
-| [Equals](../../aspose.gis/precisionmodel/equals#equals)(PrecisionModel) | Indique si l'objet courant est égal à un autre objet du même type. |
-| override [GetHashCode](../../aspose.gis/precisionmodel/gethashcode)() | Sert de fonction de hachage par défaut. |
-| [operator ==](../../aspose.gis/precisionmodel/op_equality) | Implémente l'opérateur ==. |
-| [operator !=](../../aspose.gis/precisionmodel/op_inequality) | Implémente l'opérateur !=. |
+| static [Rounding](../../aspose.gis/precisionmodel/rounding/)(int) | Renvoie un modèle de précision d'arrondi. Selon le modèle de précision d'arrondi, seul un nombre limité de chiffres est significatif. |
+| override [Equals](../../aspose.gis/precisionmodel/equals/#equals_1)(object) | Indique si l'objet courant est égal à un autre objet du même type. |
+| [Equals](../../aspose.gis/precisionmodel/equals/#equals)(PrecisionModel) | Indique si l'objet courant est égal à un autre objet du même type. |
+| override [GetHashCode](../../aspose.gis/precisionmodel/gethashcode/)() | Sert de fonction de hachage par défaut. |
+| [operator ==](../../aspose.gis/precisionmodel/op_equality/) | Implémente l'opérateur ==. |
+| [operator !=](../../aspose.gis/precisionmodel/op_inequality/) | Implémente l'opérateur !=. |
 
 ### Remarques
 
-Il existe deux types de PrecisionModel :  Exact[`PrecisionModel`](../precisionmodel) (tous les chiffres sont significatifs); Arrondi[`PrecisionModel`](../precisionmodel) (un certain nombre de chiffres sont significatifs). A[`PrecisionModel`](../precisionmodel) peut être réglé sur[`VectorLayer`](../vectorlayer) passant par[`DriverOptions`](../driveroptions) afin d'arrondir les coordonnées lors de l'écriture ou de la lecture de géométries.
+Il existe deux types de PrecisionModel :  Exact`PrecisionModel` (tous les chiffres sont significatifs); Arrondi`PrecisionModel` (un certain nombre de chiffres sont significatifs). A`PrecisionModel` peut être réglé sur[`VectorLayer`](../vectorlayer/) via[`DriverOptions`](../driveroptions/) afin d'arrondir les coordonnées lors de l'écriture ou de la lecture de géométries.
 
 ### Voir également
 
-* property [XYPrecisionModel](../driveroptions/xyprecisionmodel)
-* property [ZPrecisionModel](../driveroptions/zprecisionmodel)
-* property [MPrecisionModel](../driveroptions/mprecisionmodel)
-* espace de noms [Aspose.Gis](../../aspose.gis)
+* property [XYPrecisionModel](../driveroptions/xyprecisionmodel/)
+* property [ZPrecisionModel](../driveroptions/zprecisionmodel/)
+* property [MPrecisionModel](../driveroptions/mprecisionmodel/)
+* espace de noms [Aspose.Gis](../../aspose.gis/)
 * Assemblée [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

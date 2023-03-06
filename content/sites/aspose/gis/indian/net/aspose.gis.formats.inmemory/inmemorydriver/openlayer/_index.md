@@ -1,0 +1,35 @@
+---
+title: InMemoryDriver.OpenLayer
+second_title: .NET API संदर्भ के लिए Aspose.GIS
+description: InMemoryDriver तरक. पढ़ने के लए एक परत खलत है.
+type: docs
+weight: 50
+url: /hi/net/aspose.gis.formats.inmemory/inmemorydriver/openlayer/
+---
+## InMemoryDriver.OpenLayer method
+
+पढ़ने के लिए एक परत खोलता है.
+
+```csharp
+public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| path | AbstractPath | फ़ाइल का पथ। |
+| options | DriverOptions | चालक-विशिष्ट विकल्प। |
+
+### प्रतिलाभ की मात्रा
+
+का एक उदाहरण[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+
+### यह सभी देखें
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [InMemoryDriver](../)
+* नाम स्थान [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
+* सभा [Aspose.GIS](../../../)
+
+

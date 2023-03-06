@@ -1,14 +1,14 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters
+title: Class ProjectedSpatialReferenceSystemParameters
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Parámetros para crear SRS proyectado. Algunos de los parámetros tienen valores predeterminados. Algunos parámetros tienen valores predeterminados razonables por lo que no tiene que asignarlos solo. Si asignanull a esos parámetros se utilizará un valor predeterminado. ProjectionMethodName./projectedspatialreferencesystemparameters/projectionmethodname yBase./projectedspatialreferencesystemparameters/base no tiene valores predeterminados  tiene que asignar algunos nonull valor a estas propiedades.
+description: Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystemParameters clase. Parámetros para crear SRS proyectado. Algunos de los parámetros tienen valores predeterminados. Algunos parámetros tienen valores predeterminados razonables por lo que no tiene que asignarlos solo. Si asignanull a esos parámetros se utilizará un valor predeterminado. ProjectionMethodName yBase no tiene valores predeterminados  tiene que asignar algunos nonull valor a estas propiedades.
 type: docs
-weight: 2130
+weight: 2230
 url: /es/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters class
 
-Parámetros para crear SRS proyectado. Algunos de los parámetros tienen valores predeterminados. Algunos parámetros tienen valores predeterminados razonables, por lo que no tiene que asignarlos solo. Si asigna`null` a esos parámetros, se utilizará un valor predeterminado. [`ProjectionMethodName`](./projectionmethodname) y[`Base`](./base) no tiene valores predeterminados - tiene que asignar algunos no`null` valor a estas propiedades.
+Parámetros para crear SRS proyectado. Algunos de los parámetros tienen valores predeterminados. Algunos parámetros tienen valores predeterminados razonables, por lo que no tiene que asignarlos solo. Si asigna`null` a esos parámetros, se utilizará un valor predeterminado. [`ProjectionMethodName`](./projectionmethodname/) y[`Base`](./base/) no tiene valores predeterminados - tiene que asignar algunos no`null` valor a estas propiedades.
 
 ```csharp
 public class ProjectedSpatialReferenceSystemParameters
@@ -18,31 +18,31 @@ public class ProjectedSpatialReferenceSystemParameters
 
 | Nombre | Descripción |
 | --- | --- |
-| [ProjectedSpatialReferenceSystemParameters](projectedspatialreferencesystemparameters)() | Constructor predeterminado |
+| [ProjectedSpatialReferenceSystemParameters](projectedspatialreferencesystemparameters/)() | Constructor predeterminado |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder) { get; set; } | Orden de los ejes. Predeterminado aXY . |
-| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base) { get; set; } | SRS geográfico base (SRS al que se aplica la proyección). DEBE configurar esta propiedad para que no`null` valor para crear un SRS válido, esta propiedad no tiene ningún valor predeterminado. |
-| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit) { get; set; } | Unidades a utilizar en este SRS. El valor predeterminado es[`Meter`](../unit/meter) . |
-| [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name) { get; set; } | Nombre del SRS proyectado. El valor predeterminado es "Sin nombre". |
-| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier) { get; set; } | Identificador del método de proyección. No hay un valor predeterminado, puede configurar este parámetro para que no`null` value, si desea adjuntar el identificador a la proyección. Si lo hace, depende de usted asegurarse de que el identificador sea consistente en el nombre del método de proyección (el nombre del método de proyección no cambiará cuando establezca esta propiedad). |
-| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname) { get; set; } | Nombre del método de proyección. No hay valores predeterminados y DEBE configurar este parámetro para que no`null` valor, ya que SRS proyectado sin nombre de proyección es inútil. |
-| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis) { get; set; } | Eje que describe la dimensión X (horizontal). El valor predeterminado es el eje con dirección este. |
-| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis) { get; set; } | Eje que describe la dimensión Y (vertical). El valor predeterminado es el eje con dirección norte. |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder/) { get; set; } | Orden de los ejes. Predeterminado aXY . |
+| [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base/) { get; set; } | SRS geográfico base (SRS al que se aplica la proyección). DEBE configurar esta propiedad para que no`null` valor para crear un SRS válido, esta propiedad no tiene ningún valor predeterminado. |
+| [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit/) { get; set; } | Unidades a utilizar en este SRS. El valor predeterminado es[`Meter`](../unit/meter/) . |
+| [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name/) { get; set; } | Nombre del SRS proyectado. El valor predeterminado es "Sin nombre". |
+| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier/) { get; set; } | Identificador del método de proyección. No hay un valor predeterminado, puede configurar este parámetro para que no`null` value, si desea adjuntar el identificador a la proyección. Si lo hace, depende de usted asegurarse de que el identificador sea consistente en el nombre del método de proyección (el nombre del método de proyección no cambiará cuando establezca esta propiedad). |
+| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname/) { get; set; } | Nombre del método de proyección. No hay valores predeterminados y DEBE configurar este parámetro para que no`null` valor, ya que SRS proyectado sin nombre de proyección es inútil. |
+| [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis/) { get; set; } | Eje que describe la dimensión X (horizontal). El valor predeterminado es el eje con dirección este. |
+| [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/) { get; set; } | Eje que describe la dimensión Y (vertical). El valor predeterminado es el eje con dirección norte. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [AddProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter)(string, double) | Agrega un parámetro de proyección a este SRS. Si ya se agregó un parámetro con ese nombre, actualícelo. |
-| [GetProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter)(string) | Obtiene el parámetro de proyección con el nombre especificado. |
+| [AddProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/addprojectionparameter/)(string, double) | Agrega un parámetro de proyección a este SRS. Si ya se agregó un parámetro con ese nombre, actualícelo. |
+| [GetProjectionParameter](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter/)(string) | Obtiene el parámetro de proyección con el nombre especificado. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* espacio de nombres [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * asamblea [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: Feature
+title: Class Feature
 second_title: Справочник по Aspose.GIS for .NET API
-description: Географический объект состоящий из геометрии и определенных пользователем атрибутов.
+description: Aspose.Gis.Feature сорт. Географический объект состоящий из геометрии и определенных пользователем атрибутов.
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.gis/feature/
 ---
 ## Feature class
@@ -18,31 +18,31 @@ public class Feature
 
 | Имя | Описание |
 | --- | --- |
-| [Geometry](../../aspose.gis/feature/geometry) { get; set; } | Получает или задает геометрию объекта. Не может быть`null` , использовать[`Null`](../../aspose.gis.geometries/geometry/null) для указания отсутствующей геометрии. |
+| [Geometry](../../aspose.gis/feature/geometry/) { get; set; } | Получает или задает геометрию объекта. Не может быть`null` , использовать[`Null`](../../aspose.gis.geometries/geometry/null/) для указания отсутствующей геометрии. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [CopyValues](../../aspose.gis/feature/copyvalues)(Feature) | Копирует значения атрибутов из другого объекта. |
-| [GetValue](../../aspose.gis/feature/getvalue#getvalue)(string) | Получает значение атрибута. |
-| [GetValue&lt;T&gt;](../../aspose.gis/feature/getvalue#getvalue_1)(string) | Получает значение атрибута. |
-| [GetValueOrDefault](../../aspose.gis/feature/getvalueordefault#getvalueordefault)(string, object) | Получает значение атрибута или[`DefaultValue`](../featureattribute/defaultvalue) если значение не установлено или`нулевой` . |
-| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault#getvalueordefault_1)(string) | Получает значение атрибута или[`DefaultValue`](../featureattribute/defaultvalue) если значение не установлено или`нулевой` . |
-| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault#getvalueordefault_2)(string, object) | Получает значение атрибута или[`DefaultValue`](../featureattribute/defaultvalue) если значение не установлено или`нулевой` . |
-| [GetValues](../../aspose.gis/feature/getvalues)(object[], object) | Возвращает значения всех атрибутов в массиве. |
-| [GetValuesDump](../../aspose.gis/feature/getvaluesdump)(object) | Возвращает значения для всех атрибутов в массиве. Рассмотрите возможность использования[`GetValues`](./getvalues)способ избежать дополнительного выделения памяти. |
-| [GetValuesList&lt;T&gt;](../../aspose.gis/feature/getvalueslist)(string, string) | Получает значения последовательности атрибутов в виде списка. |
-| [IsValueNull](../../aspose.gis/feature/isvaluenull)(string) | Определяет, был ли указанный атрибут явно установлен в`нулевой` значение. |
-| [IsValueSet](../../aspose.gis/feature/isvalueset)(string) | Проверяет, установлено ли значение атрибута в этой функции. |
-| [SetValue&lt;T&gt;](../../aspose.gis/feature/setvalue)(string, T) | Устанавливает новое значение атрибута. |
-| [SetValueNull](../../aspose.gis/feature/setvaluenull)(string) | Устанавливает значение атрибута в`нулевой` . |
-| [SetValues](../../aspose.gis/feature/setvalues)(object[]) | Устанавливает новые значения для всех атрибутов. Также рассмотрите возможность использования[`CopyValues`](./copyvalues) метод для оптимизации значений параметров в одном вызове. |
-| [UnsetValue](../../aspose.gis/feature/unsetvalue)(string) | Удаляет значение атрибута из этой функции. |
+| [CopyValues](../../aspose.gis/feature/copyvalues/)(Feature) | Копирует значения атрибутов из другого объекта. |
+| [GetValue](../../aspose.gis/feature/getvalue/#getvalue)(string) | Получает значение атрибута. |
+| [GetValue&lt;T&gt;](../../aspose.gis/feature/getvalue/#getvalue_1)(string) | Получает значение атрибута. |
+| [GetValueOrDefault](../../aspose.gis/feature/getvalueordefault/#getvalueordefault)(string, object) | Получает значение атрибута или[`DefaultValue`](../featureattribute/defaultvalue/) если значение не установлено или`нулевой` . |
+| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault/#getvalueordefault_1)(string) | Получает значение атрибута или[`DefaultValue`](../featureattribute/defaultvalue/) если значение не установлено или`нулевой` . |
+| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault/#getvalueordefault_2)(string, object) | Получает значение атрибута или[`DefaultValue`](../featureattribute/defaultvalue/) если значение не установлено или`нулевой` . |
+| [GetValues](../../aspose.gis/feature/getvalues/)(object[], object) | Возвращает значения всех атрибутов в массиве. |
+| [GetValuesDump](../../aspose.gis/feature/getvaluesdump/)(object) | Возвращает значения для всех атрибутов в массиве. Рассмотрите возможность использования[`GetValues`](./getvalues/) способ избежать дополнительного выделения памяти. |
+| [GetValuesList&lt;T&gt;](../../aspose.gis/feature/getvalueslist/)(string, string) | Получает значения последовательности атрибутов в виде списка. |
+| [IsValueNull](../../aspose.gis/feature/isvaluenull/)(string) | Определяет, был ли указанный атрибут явно установлен в`нулевой` значение. |
+| [IsValueSet](../../aspose.gis/feature/isvalueset/)(string) | Проверяет, установлено ли значение атрибута в этой функции. |
+| [SetValue&lt;T&gt;](../../aspose.gis/feature/setvalue/)(string, T) | Устанавливает новое значение атрибута. |
+| [SetValueNull](../../aspose.gis/feature/setvaluenull/)(string) | Устанавливает значение атрибута в`нулевой` . |
+| [SetValues](../../aspose.gis/feature/setvalues/)(object[]) | Устанавливает новые значения для всех атрибутов. Также рассмотрите возможность использования[`CopyValues`](./copyvalues/) метод для оптимизации значений параметров в одном вызове. |
+| [UnsetValue](../../aspose.gis/feature/unsetvalue/)(string) | Удаляет значение атрибута из этой функции. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Gis](../../aspose.gis)
+* пространство имен [Aspose.Gis](../../aspose.gis/)
 * сборка [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

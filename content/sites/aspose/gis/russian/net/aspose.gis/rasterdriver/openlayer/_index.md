@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: RasterDriver.OpenLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Открывает слой для чтения.
+description: RasterDriver метод. Открывает слой для чтения.
 type: docs
 weight: 20
 url: /ru/net/aspose.gis/rasterdriver/openlayer/
@@ -21,7 +21,7 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### Возвращаемое значение
 
-Экземпляр[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Экземпляр[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Исключения
 
@@ -30,15 +30,15 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Смотрите также
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* пространство имен [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* пространство имен [Aspose.Gis](../../rasterdriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -57,7 +57,7 @@ public RasterLayer OpenLayer(string path)
 
 ### Возвращаемое значение
 
-Экземпляр[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Экземпляр[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Исключения
 
@@ -65,13 +65,13 @@ public RasterLayer OpenLayer(string path)
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Смотрите также
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriver](../../rasterdriver)
-* пространство имен [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriver](../)
+* пространство имен [Aspose.Gis](../../rasterdriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 ### Возвращаемое значение
 
-Экземпляр[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Экземпляр[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Исключения
 
@@ -98,14 +98,14 @@ public RasterLayer OpenLayer(AbstractPath path)
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Смотрите также
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriver](../../rasterdriver)
-* пространство имен [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriver](../)
+* пространство имен [Aspose.Gis](../../rasterdriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -125,7 +125,7 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Экземпляр[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Исключения
 
@@ -134,14 +134,14 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Драйвер не может открывать растровые слои (см.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Смотрите также
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* пространство имен [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* пространство имен [Aspose.Gis](../../rasterdriver/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: OsmXmlDriver
+title: Class OsmXmlDriver
 second_title: Aspose.GIS for .NET API Referansı
-description: OSM XML formatı için bir sürücü.
+description: Aspose.Gis.Formats.OsmXml.OsmXmlDriver sınıf. OSM XML formatı için bir sürücü.
 type: docs
-weight: 550
+weight: 620
 url: /tr/net/aspose.gis.formats.osmxml/osmxmldriver/
 ---
 ## OsmXmlDriver class
@@ -18,47 +18,47 @@ public sealed class OsmXmlDriver : FileDriver
 
 | İsim | Tanım |
 | --- | --- |
-| override [CanCreateDatasets](../../aspose.gis.formats.osmxml/osmxmldriver/cancreatedatasets) { get; } | Bu sürücünün veri kümeleri oluşturup oluşturamayacağını gösteren bir değer alır. |
-| override [CanCreateLayers](../../aspose.gis.formats.osmxml/osmxmldriver/cancreatelayers) { get; } | Bu sürücünün vektör katmanları oluşturup oluşturamayacağını gösteren bir değer alır. |
-| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets) { get; } | Bu sürücünün veri kümelerini açıp açamayacağını gösteren bir değer alır. |
-| override [CanOpenLayers](../../aspose.gis.formats.osmxml/osmxmldriver/canopenlayers) { get; } | Bu sürücünün vektör katmanlarını açıp açamayacağını gösteren bir değer alır. |
+| override [CanCreateDatasets](../../aspose.gis.formats.osmxml/osmxmldriver/cancreatedatasets/) { get; } | Bu sürücünün veri kümeleri oluşturup oluşturamayacağını gösteren bir değer alır. |
+| override [CanCreateLayers](../../aspose.gis.formats.osmxml/osmxmldriver/cancreatelayers/) { get; } | Bu sürücünün vektör katmanları oluşturup oluşturamayacağını gösteren bir değer alır. |
+| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | Bu sürücünün veri kümelerini açıp açamayacağını gösteren bir değer alır. |
+| override [CanOpenLayers](../../aspose.gis.formats.osmxml/osmxmldriver/canopenlayers/) { get; } | Bu sürücünün vektör katmanlarını açıp açamayacağını gösteren bir değer alır. |
 
 ## yöntemler
 
 | İsim | Tanım |
 | --- | --- |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath) | Bir veri kümesi oluşturur. |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string) | Bir veri kümesi oluşturur. |
-| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset)(AbstractPath, DriverOptions) | Bir veri kümesi oluşturur. |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset)(string, DriverOptions) | Bir veri kümesi oluşturur. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, DriverOptions) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(AbstractPath, SpatialReferenceSystem) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer#createlayer_7)(string, OsmXmlOptions) | Bir katman oluşturur ve onu yeni özellikler eklemek için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, SpatialReferenceSystem) | Katmanı oluşturur ve ekleme için açar. |
-| override [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | Bir katman oluşturur ve onu yeni özellikler eklemek için açar. |
-| [CreateLayer](../../aspose.gis/filedriver/createlayer)(string, DriverOptions, SpatialReferenceSystem) | Katmanı oluşturur ve ekleme için açar. |
-| [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer#createlayer_8)(string, OsmXmlOptions, SpatialReferenceSystem) | Bir katman oluşturur ve onu yeni özellikler eklemek için açar. |
-| virtual [EditLayer](../../aspose.gis/filedriver/editlayer)(AbstractPath, DriverOptions) | Düzenlemek için bir katman açar. |
-| [EditLayer](../../aspose.gis/filedriver/editlayer)(string, DriverOptions) | Düzenlemek için bir katman açar. |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset)(AbstractPath) | Veri kümesini açar. |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset)(string) | Veri kümesini açar. |
-| virtual [OpenDataset](../../aspose.gis/filedriver/opendataset)(AbstractPath, DriverOptions) | Veri kümesini açar. |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset)(string, DriverOptions) | Veri kümesini açar. |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer)(AbstractPath) | Okuma için katmanı açar. |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer)(string) | Okuma için katmanı açar. |
-| override [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer#openlayer_1)(AbstractPath, DriverOptions) | Okuma için bir katman açar. |
-| [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer#openlayer_2)(AbstractPath, OsmXmlOptions) | Okuma için bir katman açar. |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer)(string, DriverOptions) | Okuma için katmanı açar. |
-| [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer#openlayer_5)(string, OsmXmlOptions) | Okuma için bir katman açar. |
-| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.osmxml/osmxmldriver/supportsspatialreferencesystem)(SpatialReferenceSystem) | Belirtilen uzamsal referans sisteminin sürücü tarafından desteklenip desteklenmediğini belirler. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(AbstractPath) | Bir veri kümesi oluşturur. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(string) | Bir veri kümesi oluşturur. |
+| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset/)(AbstractPath, DriverOptions) | Bir veri kümesi oluşturur. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(string, DriverOptions) | Bir veri kümesi oluşturur. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, DriverOptions) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, SpatialReferenceSystem) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_7)(string, OsmXmlOptions) | Bir katman oluşturur ve yeni özellikler eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, SpatialReferenceSystem) | Katmanı oluşturur ve eklemek için açar. |
+| override [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | Bir katman oluşturur ve yeni özellikler eklemek için açar. |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions, SpatialReferenceSystem) | Katmanı oluşturur ve eklemek için açar. |
+| [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_8)(string, OsmXmlOptions, SpatialReferenceSystem) | Bir katman oluşturur ve yeni özellikler eklemek için açar. |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/)(AbstractPath, DriverOptions) | Düzenleme için bir katman açar. |
+| [EditLayer](../../aspose.gis/filedriver/editlayer/)(string, DriverOptions) | Düzenleme için bir katman açar. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath) | Veri kümesini açar. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string) | Veri kümesini açar. |
+| virtual [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath, DriverOptions) | Veri kümesini açar. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string, DriverOptions) | Veri kümesini açar. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(AbstractPath) | Okumak için katmanı açar. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string) | Okumak için katmanı açar. |
+| override [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer/#openlayer_1)(AbstractPath, DriverOptions) | Okumak için bir katman açar. |
+| [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer/#openlayer_2)(AbstractPath, OsmXmlOptions) | Okumak için bir katman açar. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string, DriverOptions) | Okumak için katmanı açar. |
+| [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer/#openlayer_5)(string, OsmXmlOptions) | Okumak için bir katman açar. |
+| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.osmxml/osmxmldriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | Belirtilen uzamsal referans sisteminin sürücü tarafından desteklenip desteklenmediğini belirler. |
 
 ### Ayrıca bakınız
 
-* class [FileDriver](../../aspose.gis/filedriver)
-* ad alanı [Aspose.Gis.Formats.OsmXml](../../aspose.gis.formats.osmxml)
+* class [FileDriver](../../aspose.gis/filedriver/)
+* ad alanı [Aspose.Gis.Formats.OsmXml](../../aspose.gis.formats.osmxml/)
 * toplantı [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

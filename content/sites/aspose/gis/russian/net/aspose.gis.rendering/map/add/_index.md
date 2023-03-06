@@ -1,14 +1,14 @@
 ---
-title: Add
+title: Map.Add
 second_title: Справочник по Aspose.GIS for .NET API
-description: СоздаетVectorMapLayeraspose.gis.rendering/vectormaplayer с символизатором по умолчанию и добавляет его на карту. Слои рендерятся в порядке добавления.
+description: Map метод. СоздаетVectorMapLayer с символизатором по умолчанию и добавляет его на карту. Слои рендерятся в порядке добавления.
 type: docs
 weight: 110
 url: /ru/net/aspose.gis.rendering/map/add/
 ---
 ## Add(VectorLayer, bool) {#add_7}
 
-Создает[`VectorMapLayer`](../../vectormaplayer) с символизатором по умолчанию и добавляет его на карту. Слои рендерятся в порядке добавления.
+Создает[`VectorMapLayer`](../../vectormaplayer/) с символизатором по умолчанию и добавляет его на карту. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(VectorLayer layer, bool keepOpen = false)
@@ -16,8 +16,8 @@ public void Add(VectorLayer layer, bool keepOpen = false)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| layer | VectorLayer | Векторный слой для представления[`VectorMapLayer`](../../vectormaplayer). |
-| keepOpen | Boolean | `true` оставить векторный слой открытым после[`Map`](../../map) объект удален; `false` чтобы удалить слой. |
+| layer | VectorLayer | Векторный слой для представления[`VectorMapLayer`](../../vectormaplayer/). |
+| keepOpen | Boolean | `true` оставить векторный слой открытым после[`Map`](../) объект удален; `false` чтобы удалить слой. |
 
 ### Исключения
 
@@ -27,16 +27,16 @@ public void Add(VectorLayer layer, bool keepOpen = false)
 
 ### Смотрите также
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [Map](../../map)
-* пространство имен [Aspose.Gis.Rendering](../../map)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [Map](../)
+* пространство имен [Aspose.Gis.Rendering](../../map/)
 * сборка [Aspose.GIS](../../../)
 
 ---
 
 ## Add(VectorLayer, VectorSymbolizer, bool) {#add_6}
 
-Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer/) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = false)
@@ -44,9 +44,9 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| layer | VectorLayer | Векторный слой для представления[`VectorMapLayer`](../../vectormaplayer). |
+| layer | VectorLayer | Векторный слой для представления[`VectorMapLayer`](../../vectormaplayer/). |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. Если`null`, используется символизатор по умолчанию. |
-| keepOpen | Boolean | `true` оставить векторный слой открытым после[`Map`](../../map) объект удален; `false` чтобы удалить слой. |
+| keepOpen | Boolean | `true` оставить векторный слой открытым после[`Map`](../) объект удален; `false` чтобы удалить слой. |
 
 ### Исключения
 
@@ -56,17 +56,17 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = 
 
 ### Смотрите также
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Map](../../map)
-* пространство имен [Aspose.Gis.Rendering](../../map)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Map](../)
+* пространство имен [Aspose.Gis.Rendering](../../map/)
 * сборка [Aspose.GIS](../../../)
 
 ---
 
 ## Add(VectorLayer, VectorSymbolizer, Labeling, bool) {#add_5}
 
-Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer/) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labeling, 
@@ -75,10 +75,10 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labelin
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| layer | VectorLayer | Векторный слой для представления[`VectorMapLayer`](../../vectormaplayer). |
+| layer | VectorLayer | Векторный слой для представления[`VectorMapLayer`](../../vectormaplayer/). |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. Если`null`, используется символизатор по умолчанию. |
-| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` , дефолт[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) будет использоваться. |
-| keepOpen | Boolean | `true` оставить слой открытым после[`Map`](../../map) объект утилизируется; в противном случае,`false` . |
+| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` , по умолчанию[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) будет использоваться. |
+| keepOpen | Boolean | `true` оставить слой открытым после[`Map`](../) объект утилизируется; в противном случае,`false` . |
 
 ### Исключения
 
@@ -88,18 +88,18 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labelin
 
 ### Смотрите также
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [Map](../../map)
-* пространство имен [Aspose.Gis.Rendering](../../map)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [Map](../)
+* пространство имен [Aspose.Gis.Rendering](../../map/)
 * сборка [Aspose.GIS](../../../)
 
 ---
 
 ## Add(FeaturesSequence) {#add}
 
-Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer/) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(FeaturesSequence featuresSequence)
@@ -107,7 +107,7 @@ public void Add(FeaturesSequence featuresSequence)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | Последовательность функций для представления[`VectorMapLayer`](../../vectormaplayer). |
+| featuresSequence | FeaturesSequence | Последовательность функций для представления[`VectorMapLayer`](../../vectormaplayer/). |
 
 ### Исключения
 
@@ -117,16 +117,16 @@ public void Add(FeaturesSequence featuresSequence)
 
 ### Смотрите также
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [Map](../../map)
-* пространство имен [Aspose.Gis.Rendering](../../map)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [Map](../)
+* пространство имен [Aspose.Gis.Rendering](../../map/)
 * сборка [Aspose.GIS](../../../)
 
 ---
 
 ## Add(FeaturesSequence, VectorSymbolizer) {#add_1}
 
-Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer/) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
@@ -134,7 +134,7 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | Последовательность функций для представления[`VectorMapLayer`](../../vectormaplayer). |
+| featuresSequence | FeaturesSequence | Последовательность функций для представления[`VectorMapLayer`](../../vectormaplayer/). |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. Если`null`, используется символизатор по умолчанию. |
 
 ### Исключения
@@ -145,17 +145,17 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
 
 ### Смотрите также
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Map](../../map)
-* пространство имен [Aspose.Gis.Rendering](../../map)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Map](../)
+* пространство имен [Aspose.Gis.Rendering](../../map/)
 * сборка [Aspose.GIS](../../../)
 
 ---
 
 ## Add(FeaturesSequence, VectorSymbolizer, Labeling) {#add_2}
 
-Создает и добавляет[`VectorMapLayer`](../../vectormaplayer) к карте. Слои рендерятся в порядке добавления.
+Создает и добавляет[`VectorMapLayer`](../../vectormaplayer/) к карте. Слои рендерятся в порядке добавления.
 
 ```csharp
 public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, Labeling labeling)
@@ -163,9 +163,9 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | Последовательность функций для представления[`VectorMapLayer`](../../vectormaplayer). |
+| featuresSequence | FeaturesSequence | Последовательность функций для представления[`VectorMapLayer`](../../vectormaplayer/). |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для рендеринга. |
-| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` ,[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) будет использоваться. |
+| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` ,[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) будет использоваться. |
 
 ### Исключения
 
@@ -175,11 +175,11 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, 
 
 ### Смотрите также
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [Map](../../map)
-* пространство имен [Aspose.Gis.Rendering](../../map)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [Map](../)
+* пространство имен [Aspose.Gis.Rendering](../../map/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -204,16 +204,16 @@ public void Add(MapLayer mapLayer)
 
 ### Смотрите также
 
-* class [MapLayer](../../maplayer)
-* class [Map](../../map)
-* пространство имен [Aspose.Gis.Rendering](../../map)
+* class [MapLayer](../../maplayer/)
+* class [Map](../)
+* пространство имен [Aspose.Gis.Rendering](../../map/)
 * сборка [Aspose.GIS](../../../)
 
 ---
 
 ## Add(RasterLayer, RasterColorizer, bool) {#add_3}
 
-Создает[`RasterMapLayer`](../../rastermaplayer) с колоризатором по умолчанию и добавляет его на карту.
+Создает[`RasterMapLayer`](../../rastermaplayer/) с колоризатором по умолчанию и добавляет его на карту.
 
 ```csharp
 public void Add(RasterLayer layer, RasterColorizer colorizer = null, bool keepOpen = false)
@@ -221,9 +221,9 @@ public void Add(RasterLayer layer, RasterColorizer colorizer = null, bool keepOp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| layer | RasterLayer | Векторный слой для представления[`RasterLayer`](../../../aspose.gis.raster/rasterlayer). |
+| layer | RasterLayer | Векторный слой для представления[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/). |
 | colorizer | RasterColorizer | Colorizer для использования для рендеринга. Если`null`, используется колоризатор по умолчанию. |
-| keepOpen | Boolean | `true` оставить растровый слой открытым после[`Map`](../../map) объект удален; `false` чтобы удалить слой. |
+| keepOpen | Boolean | `true` оставить растровый слой открытым после[`Map`](../) объект удален; `false` чтобы удалить слой. |
 
 ### Исключения
 
@@ -233,10 +233,10 @@ public void Add(RasterLayer layer, RasterColorizer colorizer = null, bool keepOp
 
 ### Смотрите также
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterColorizer](../../../aspose.gis.rendering.colorizers/rastercolorizer)
-* class [Map](../../map)
-* пространство имен [Aspose.Gis.Rendering](../../map)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterColorizer](../../../aspose.gis.rendering.colorizers/rastercolorizer/)
+* class [Map](../)
+* пространство имен [Aspose.Gis.Rendering](../../map/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: FileGdbCoordinatePrecisionGrid
+title: Class FileGdbCoordinatePrecisionGrid
 second_title: Aspose.GIS لمرجع .NET API
-description: شبكة دقة إحداثيات داخل طبقة FileGDB.
+description: Aspose.Gis.Formats.FileGdb.FileGdbCoordinatePrecisionGrid فصل. شبكة دقة إحداثيات داخل طبقة FileGDB.
 type: docs
-weight: 220
+weight: 250
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/
 ---
 ## FileGdbCoordinatePrecisionGrid class
@@ -18,29 +18,29 @@ public sealed class FileGdbCoordinatePrecisionGrid
 
 | اسم | وصف |
 | --- | --- |
-| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid)() | Default_Constructor |
+| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid/)() | Default_Constructor |
 
 ## الخصائص
 
 | اسم | وصف |
 | --- | --- |
-| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin) { get; set; } | الحصول على أصل إحداثيات M. أو تعيينه. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
-| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale) { get; set; } | الحصول على أو تحديد مقياس إحداثيات M. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
-| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin) { get; set; } | الحصول على أصل إحداثيات X أو تعيينه. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
-| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale) { get; set; } | الحصول على أو تحديد مقياس إحداثيات X و Y. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
-| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin) { get; set; } | الحصول على أصل إحداثيات Y أو تعيينه. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
-| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin) { get; set; } | الحصول على أصل إحداثيات Z أو تعيينه. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
-| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale) { get; set; } | الحصول على أو تحديد مقياس إحداثيات Z. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
+| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/) { get; set; } | الحصول على أو تحديد أصل إحداثيات M. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
+| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/) { get; set; } | الحصول على أو تحديد مقياس إحداثيات M. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
+| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/) { get; set; } | الحصول على أصل إحداثيات X أو تعيينه. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
+| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/) { get; set; } | الحصول على أو تحديد مقياس إحداثيات X و Y. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
+| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin/) { get; set; } | الحصول على أصل إحداثيات Y أو تعيينه. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
+| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/) { get; set; } | الحصول على أو تحديد أصل إحداثيات Z. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
+| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/) { get; set; } | الحصول على أو تحديد مقياس إحداثيات Z. إذا تم التعيين على`null` الافتراضي هو المستخدم. |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle)(IPoint, IPoint) | إنشاء جديد`FileGdbCoordinatePrecisionGrid` بحيث تكون جميع القيم داخل المستطيل قابلة للتمثيل. |
+| static [CreateFromRectangle](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle/)(IPoint, IPoint) | إنشاء جديد`FileGdbCoordinatePrecisionGrid` بحيث تكون جميع القيم داخل المستطيل قابلة للتمثيل. |
 
 ### ملاحظات
 
-تحدد شبكة دقة الإحداثيات المجال الصالح ودقة الإحداثيات في طبقة FileGDB . يحدد الأصل المسار لتنسيق شبكة الدقة في الفضاء. يحدد المقياس الدقة (المقياس أكبر ، تتم كتابة القيم الأكثر دقة) . تحدد الشبكة الدقيقة النطاق الصالح لقيم الإحداثيات: كل إحداثيات في[`VectorLayer`](../../aspose.gis/vectorlayer) يجب أن تكون ضمن هذا النطاق. الإحداثيات الموجودة خارج النطاق قد تتسبب في أخطاء قراءة لاحقًا وستتم معالجتها بشكل خاطئ بواسطة ArcGIS . إذا لم تحدد أي خصائص (احتفظ بها`null` ) سيتم استخدام القيم الافتراضية . تعتمد القيم الافتراضية على[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) التابع[`VectorLayer`](../../aspose.gis/vectorlayer) . للمناطق الجغرافية[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) الافتراضيات هي: للتوقع[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) الافتراضيات هي: أين`XY التسامح` و`التسامح` و`MT التسامح` هي قيم من[`FileGdbOptions`](../filegdboptions) .
+تحدد شبكة دقة الإحداثيات المجال الصالح ودقة الإحداثيات في طبقة FileGDB. يحدد الأصل المسار لتنسيق شبكة الدقة في الفضاء. يحدد المقياس الدقة (المقياس أكبر ، تتم كتابة القيم الأكثر دقة) . تحدد الشبكة الدقيقة النطاق الصالح لقيم الإحداثيات: كل إحداثيات في[`VectorLayer`](../../aspose.gis/vectorlayer/)يجب أن تكون ضمن هذا النطاق. قد تتسبب الإحداثيات الموجودة خارج النطاق في حدوث أخطاء في القراءة لاحقًا وستتم معالجتها بشكل خاطئ بواسطة ArcGIS . إذا لم تحدد أي خصائص (احتفظ بها`null` ) سيتم استخدام القيم الافتراضية . تعتمد القيم الافتراضية على[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) التابع[`VectorLayer`](../../aspose.gis/vectorlayer/) . للمناطق الجغرافية[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) الافتراضيات هي: للتوقعات[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) الافتراضيات هي: أين`XY التسامح` و`Z التسامح` و`MT التسامح` هي قيم من[`FileGdbOptions`](../filegdboptions/) .
 
 ```csharp
 XMin = XOrigin
@@ -75,7 +75,7 @@ MScale  = 1 / MTolerance  * 10
 
 ### أنظر أيضا
 
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb)
+* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../aspose.gis.formats.filegdb/)
 * المجسم [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

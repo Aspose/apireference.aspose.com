@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: GeoJsonDriver.CreateLayer
 second_title: Aspose.GIS for .NET API 参考
-description: 创建一个图层并打开它以添加新功能
+description: GeoJsonDriver 方法. 创建图层并打开它以添加新功能
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.geojson/geojsondriver/createlayer/
 ---
 ## CreateLayer(string, GeoJsonOptions) {#createlayer_9}
 
-创建一个图层并打开它以添加新功能。
+创建图层并打开它以添加新功能。
 
 ```csharp
 public VectorLayer CreateLayer(string path, GeoJsonOptions options)
@@ -21,27 +21,27 @@ public VectorLayer CreateLayer(string path, GeoJsonOptions options)
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
+的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 该图层已存在。 |
+| InvalidOperationException | 该层已存在。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [GeoJsonOptions](../../geojsonoptions)
-* class [GeoJsonDriver](../../geojsondriver)
-* 命名空间 [Aspose.Gis.Formats.GeoJson](../../geojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [GeoJsonOptions](../../geojsonoptions/)
+* class [GeoJsonDriver](../)
+* 命名空间 [Aspose.Gis.Formats.GeoJson](../../geojsondriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, GeoJsonOptions) {#createlayer_3}
 
-创建一个图层并打开它以添加新功能。
+创建图层并打开它以添加新功能。
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, GeoJsonOptions options)
@@ -54,28 +54,28 @@ public VectorLayer CreateLayer(AbstractPath path, GeoJsonOptions options)
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
+的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 该图层已存在。 |
+| InvalidOperationException | 该层已存在。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [GeoJsonOptions](../../geojsonoptions)
-* class [GeoJsonDriver](../../geojsondriver)
-* 命名空间 [Aspose.Gis.Formats.GeoJson](../../geojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [GeoJsonOptions](../../geojsonoptions/)
+* class [GeoJsonDriver](../)
+* 命名空间 [Aspose.Gis.Formats.GeoJson](../../geojsondriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-创建一个图层并打开它以添加新功能。
+创建图层并打开它以添加新功能。
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
@@ -90,29 +90,29 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
+的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 该图层已存在。 |
+| InvalidOperationException | 该层已存在。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [GeoJsonDriver](../../geojsondriver)
-* 命名空间 [Aspose.Gis.Formats.GeoJson](../../geojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [GeoJsonDriver](../)
+* 命名空间 [Aspose.Gis.Formats.GeoJson](../../geojsondriver/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, GeoJsonOptions, SpatialReferenceSystem) {#createlayer_4}
 
-创建一个图层并打开它以添加新功能。
+创建图层并打开它以添加新功能。
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, GeoJsonOptions options, 
@@ -127,23 +127,23 @@ public VectorLayer CreateLayer(AbstractPath path, GeoJsonOptions options,
 
 ### 返回值
 
-一个实例[`VectorLayer`](../../../aspose.gis/vectorlayer).
+的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| InvalidOperationException | 该图层已存在。 |
+| InvalidOperationException | 该层已存在。 |
 | NotSupportedException | 驱动程序不支持空间参考系统。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [GeoJsonOptions](../../geojsonoptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [GeoJsonDriver](../../geojsondriver)
-* 命名空间 [Aspose.Gis.Formats.GeoJson](../../geojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [GeoJsonOptions](../../geojsonoptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [GeoJsonDriver](../)
+* 命名空间 [Aspose.Gis.Formats.GeoJson](../../geojsondriver/)
 * 部件 [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

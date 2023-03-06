@@ -1,9 +1,9 @@
 ---
-title: Ellipsoid
+title: Class Ellipsoid
 second_title: Справочник по Aspose.GIS for .NET API
-description: Эллипсоид представляет собой эллипсоид который приближается к Земле.
+description: Aspose.Gis.SpatialReferencing.Ellipsoid сорт. Эллипсоид представляет собой эллипсоид который приближается к Земле.
 type: docs
-weight: 1970
+weight: 2070
 url: /ru/net/aspose.gis.spatialreferencing/ellipsoid/
 ---
 ## Ellipsoid class
@@ -18,37 +18,37 @@ public class Ellipsoid : IdentifiableObject
 
 | Имя | Описание |
 | --- | --- |
-| [Ellipsoid](ellipsoid)(string, double, double, Identifier) | Создает новый эллипсоид. |
+| [Ellipsoid](ellipsoid/)(string, double, double, Identifier) | Создает новый эллипсоид. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| static [Airy](../../aspose.gis.spatialreferencing/ellipsoid/airy) { get; } | Эллипсоид Эйри. |
-| static [Grs80](../../aspose.gis.spatialreferencing/ellipsoid/grs80) { get; } | Эллипсоид GRS 1980 года. |
-| static [Wgs72](../../aspose.gis.spatialreferencing/ellipsoid/wgs72) { get; } | Эллипсоид WGS 72. |
-| static [Wgs84](../../aspose.gis.spatialreferencing/ellipsoid/wgs84) { get; } | Эллипсоид WGS 84. |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode) { get; } | Если этот идентификатор объекта является идентификатором EPSG - вернуть его код. В противном случае - вернуть -1. |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier) { get; } | Идентификатор этого идентифицируемого объекта. |
-| [InverseFlattening](../../aspose.gis.spatialreferencing/ellipsoid/inverseflattening) { get; } | Обратное уплощение эллипсоида. 0, если это сфера. |
-| [IsSphere](../../aspose.gis.spatialreferencing/ellipsoid/issphere) { get; } | Определяет, является ли этот эллипсоид сферой. |
-| [IsValid](../../aspose.gis.spatialreferencing/ellipsoid/isvalid) { get; } | Определяет, является ли эллипсоид действительным: его большая полуось больше 0, а обратное сглаживание положительно или равно 0. |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name) { get; } | Имя этого объекта. |
-| [SemiMajorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semimajoraxis) { get; } | Большая полуось эллипсоида. |
-| [SemiMinorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semiminoraxis) { get; } | Малая полуось эллипсоида. Равен большой полуоси, если это сфера. |
+| static [Airy](../../aspose.gis.spatialreferencing/ellipsoid/airy/) { get; } | Эллипсоид Эйри. |
+| static [Grs80](../../aspose.gis.spatialreferencing/ellipsoid/grs80/) { get; } | Эллипсоид GRS 1980 года. |
+| static [Wgs72](../../aspose.gis.spatialreferencing/ellipsoid/wgs72/) { get; } | Эллипсоид WGS 72. |
+| static [Wgs84](../../aspose.gis.spatialreferencing/ellipsoid/wgs84/) { get; } | Эллипсоид WGS 84. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | Если этот идентификатор объекта является идентификатором EPSG - вернуть его код. В противном случае - вернуть -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | Идентификатор этого идентифицируемого объекта. |
+| [InverseFlattening](../../aspose.gis.spatialreferencing/ellipsoid/inverseflattening/) { get; } | Обратное уплощение эллипсоида. 0, если это сфера. |
+| [IsSphere](../../aspose.gis.spatialreferencing/ellipsoid/issphere/) { get; } | Определяет, является ли этот эллипсоид сферой. |
+| [IsValid](../../aspose.gis.spatialreferencing/ellipsoid/isvalid/) { get; } | Определяет, является ли эллипсоид действительным: его большая полуось больше 0, а обратное сглаживание положительно или равно 0. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | Имя этого объекта. |
+| [SemiMajorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semimajoraxis/) { get; } | Большая полуось эллипсоида. |
+| [SemiMinorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semiminoraxis/) { get; } | Малая полуось эллипсоида. Равен большой полуоси, если это сфера. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent)(Ellipsoid) | Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное сглаживание. |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring)() | Возвращает строку, которая представляет текущий объект. |
-| static [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent)(Ellipsoid, Ellipsoid) | Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное сглаживание. |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent/)(Ellipsoid) | Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное сглаживание. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | Возвращает строку, которая представляет текущий объект. |
+| static [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent/)(Ellipsoid, Ellipsoid) | Определяет эквивалентность двух эллипсоидов. Если эллипсоид A эквивалентен эллипсоиду B, то они имеют одинаковую большую полуось и обратное сглаживание. |
 
 ### Смотрите также
 
-* class [IdentifiableObject](../identifiableobject)
-* пространство имен [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* class [IdentifiableObject](../identifiableobject/)
+* пространство имен [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * сборка [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

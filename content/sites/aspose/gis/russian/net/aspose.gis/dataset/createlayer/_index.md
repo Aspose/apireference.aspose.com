@@ -1,7 +1,7 @@
 ---
-title: CreateLayer
+title: Dataset.CreateLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает новый векторный слой и открывает его для добавления.
+description: Dataset метод. Создает новый векторный слой и открывает его для добавления.
 type: docs
 weight: 70
 url: /ru/net/aspose.gis/dataset/createlayer/
@@ -16,13 +16,13 @@ public virtual VectorLayer CreateLayer()
 
 ### Возвращаемое значение
 
-А[`VectorLayer`](../../vectorlayer) открыт для записи.
+А[`VectorLayer`](../../vectorlayer/) открыт для записи.
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [Dataset](../../dataset)
-* пространство имен [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [Dataset](../)
+* пространство имен [Aspose.Gis](../../dataset/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -41,14 +41,14 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 ### Возвращаемое значение
 
-А[`VectorLayer`](../../vectorlayer) открыт для записи.
+А[`VectorLayer`](../../vectorlayer/) открыт для записи.
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* пространство имен [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* пространство имен [Aspose.Gis](../../dataset/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -69,23 +69,23 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 
 ### Возвращаемое значение
 
-А[`VectorLayer`](../../vectorlayer) открыт для записи.
+А[`VectorLayer`](../../vectorlayer/) открыт для записи.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | NotSupportedException | Создание слоя не поддерживается для этого набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| [GisException](../../gisexception) | Ошибка при создании слоя. |
+| IOException | Произошла ошибка ввода/вывода. |
+| [GisException](../../gisexception/) | Ошибка при создании слоя. |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* пространство имен [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* пространство имен [Aspose.Gis](../../dataset/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -106,22 +106,22 @@ public virtual VectorLayer CreateLayer(string name,
 
 ### Возвращаемое значение
 
-А[`VectorLayer`](../../vectorlayer) открыт для записи.
+А[`VectorLayer`](../../vectorlayer/) открыт для записи.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | NotSupportedException | Создание слоя не поддерживается для этого набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| [GisException](../../gisexception) | Ошибка при создании слоя. |
+| IOException | Произошла ошибка ввода/вывода. |
+| [GisException](../../gisexception/) | Ошибка при создании слоя. |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* пространство имен [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* пространство имен [Aspose.Gis](../../dataset/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -143,23 +143,23 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 
 ### Возвращаемое значение
 
-А[`VectorLayer`](../../vectorlayer) открыт для записи.
+А[`VectorLayer`](../../vectorlayer/) открыт для записи.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | NotSupportedException | Создание слоя не поддерживается для этого набора данных. |
-| IOException | Произошла ошибка ввода-вывода. |
-| [GisException](../../gisexception) | Ошибка при создании слоя. |
+| IOException | Произошла ошибка ввода/вывода. |
+| [GisException](../../gisexception/) | Ошибка при создании слоя. |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* пространство имен [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* пространство имен [Aspose.Gis](../../dataset/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: Create
+title: VectorLayer.Create
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Crée la couche et louvre pour ajouter de nouvelles fonctionnalités.
+description: VectorLayer méthode. Crée la couche et louvre pour ajouter de nouvelles fonctionnalités.
 type: docs
 weight: 10
 url: /fr/net/aspose.gis/vectorlayer/create/
@@ -29,14 +29,14 @@ Une couche en écriture seule.
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
-| [GisException](../../gisexception) | Erreur lors de l'écriture de la fonctionnalité dans le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de l'écriture de la fonctionnalité dans le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
 
 ### Voir également
 
-* class [FileDriver](../../filedriver)
-* class [VectorLayer](../../vectorlayer)
-* espace de noms [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [VectorLayer](../)
+* espace de noms [Aspose.Gis](../../vectorlayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -65,15 +65,15 @@ Une couche en écriture seule.
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
-| [GisException](../../gisexception) | Erreur lors de l'écriture de la fonctionnalité dans le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de l'écriture de la fonctionnalité dans le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
 
 ### Voir également
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [VectorLayer](../../vectorlayer)
-* espace de noms [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [VectorLayer](../)
+* espace de noms [Aspose.Gis](../../vectorlayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -101,15 +101,15 @@ Une couche en écriture seule.
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
-| [GisException](../../gisexception) | Erreur lors de l'écriture de la fonctionnalité dans le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de l'écriture de la fonctionnalité dans le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
 
 ### Voir également
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [VectorLayer](../../vectorlayer)
-* espace de noms [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [VectorLayer](../)
+* espace de noms [Aspose.Gis](../../vectorlayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -138,16 +138,16 @@ Une couche en écriture seule.
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
-| [GisException](../../gisexception) | Erreur lors de l'écriture de la fonctionnalité dans le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de l'écriture de la fonctionnalité dans le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
 
 ### Voir également
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [VectorLayer](../../vectorlayer)
-* espace de noms [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [VectorLayer](../)
+* espace de noms [Aspose.Gis](../../vectorlayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -169,23 +169,23 @@ public static VectorLayer Create(string path, FileDriver driver,
 
 ### Return_Value
 
-Un exemple de[`VectorLayer`](../../vectorlayer).
+Un exemple de[`VectorLayer`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le système de référence spatiale n'est pas pris en charge par le pilote. Utilisation[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) pour vérifier si le système de référence spatiale est pris en charge. |
+| NotSupportedException | Le système de référence spatiale n'est pas pris en charge par le pilote. Utilisation[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) pour vérifier si le système de référence spatiale est pris en charge. |
 
 ### Voir également
 
-* class [FileDriver](../../filedriver)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* espace de noms [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* espace de noms [Aspose.Gis](../../vectorlayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -207,24 +207,24 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 
 ### Return_Value
 
-Un exemple de[`VectorLayer`](../../vectorlayer).
+Un exemple de[`VectorLayer`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le système de référence spatiale n'est pas pris en charge par le pilote. Utilisation[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) pour vérifier si le système de référence spatiale est pris en charge. |
+| NotSupportedException | Le système de référence spatiale n'est pas pris en charge par le pilote. Utilisation[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) pour vérifier si le système de référence spatiale est pris en charge. |
 
 ### Voir également
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* espace de noms [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* espace de noms [Aspose.Gis](../../vectorlayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -247,7 +247,7 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 ### Return_Value
 
-Un exemple de[`VectorLayer`](../../vectorlayer).
+Un exemple de[`VectorLayer`](../).
 
 ### Exceptions
 
@@ -255,17 +255,17 @@ Un exemple de[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
-| [GisException](../../gisexception) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le système de référence spatiale n'est pas pris en charge par le pilote. Utilisation[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) pour vérifier si le système de référence spatiale est pris en charge. |
+| NotSupportedException | Le système de référence spatiale n'est pas pris en charge par le pilote. Utilisation[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) pour vérifier si le système de référence spatiale est pris en charge. |
 
 ### Voir également
 
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* espace de noms [Aspose.Gis](../../vectorlayer)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* espace de noms [Aspose.Gis](../../vectorlayer/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -288,7 +288,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 ### Return_Value
 
-Un exemple de[`VectorLayer`](../../vectorlayer).
+Un exemple de[`VectorLayer`](../).
 
 ### Exceptions
 
@@ -296,18 +296,18 @@ Un exemple de[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
-| [GisException](../../gisexception) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture ou de l'écriture de la fonctionnalité vers/depuis le fichier. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le système de référence spatiale n'est pas pris en charge par le pilote. Utilisation[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem) pour vérifier si le système de référence spatiale est pris en charge. |
+| NotSupportedException | Le système de référence spatiale n'est pas pris en charge par le pilote. Utilisation[`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) pour vérifier si le système de référence spatiale est pris en charge. |
 
 ### Voir également
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [VectorLayer](../../vectorlayer)
-* espace de noms [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorLayer](../)
+* espace de noms [Aspose.Gis](../../vectorlayer/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

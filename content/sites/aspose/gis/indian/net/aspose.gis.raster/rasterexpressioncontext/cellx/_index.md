@@ -1,0 +1,23 @@
+---
+title: RasterExpressionContext.CellX
+second_title: .NET API संदर्भ के लिए Aspose.GIS
+description: RasterExpressionContext संपत्त. स्तंभ मन xनर्देशंक प्रप्त य सेट करत है नंबरंग 0 से शुरू हत है
+type: docs
+weight: 20
+url: /hi/net/aspose.gis.raster/rasterexpressioncontext/cellx/
+---
+## RasterExpressionContext.CellX property
+
+स्तंभ मान (x-निर्देशांक) प्राप्त या सेट करता है। नंबरिंग 0 से शुरू होती है।
+
+```csharp
+public int CellX { get; }
+```
+
+### यह सभी देखें
+
+* struct [RasterExpressionContext](../)
+* नाम स्थान [Aspose.Gis.Raster](../../rasterexpressioncontext/)
+* सभा [Aspose.GIS](../../../)
+
+

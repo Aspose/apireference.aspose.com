@@ -1,7 +1,7 @@
 ---
-title: SaveTo
+title: FeaturesSequence.SaveTo
 second_title: Aspose.GIS لمرجع .NET API
-description: يحفظ تسلسل المعالم إلى طبقة.
+description: FeaturesSequence طريقة. يحفظ تسلسل المعالم إلى طبقة.
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/featuressequence/saveto/
@@ -24,15 +24,15 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 | استثناء | حالة |
 | --- | --- |
 | ArgumentNullException | أي حجة`null`. |
-| [GisException](../../gisexception) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
 
 ### أنظر أيضا
 
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* مساحة الاسم [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* مساحة الاسم [Aspose.Gis](../../featuressequence/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -54,16 +54,16 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 
 | استثناء | حالة |
 | --- | --- |
-| [GisException](../../gisexception) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
 
 ### أنظر أيضا
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [FeaturesSequence](../../featuressequence)
-* مساحة الاسم [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [FeaturesSequence](../)
+* مساحة الاسم [Aspose.Gis](../../featuressequence/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -86,17 +86,17 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 
 | استثناء | حالة |
 | --- | --- |
-| [GisException](../../gisexception) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
-| NotSupportedException | نظام الإسناد المكاني المحدد في*options*لا يدعمه*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
+| NotSupportedException | نظام الإسناد المكاني المحدد في*options* لا يدعمه*destinationDriver* . |
 
 ### أنظر أيضا
 
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* مساحة الاسم [Aspose.Gis](../../featuressequence)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* مساحة الاسم [Aspose.Gis](../../featuressequence/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
@@ -120,18 +120,18 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 
 | استثناء | حالة |
 | --- | --- |
-| [GisException](../../gisexception) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
-| NotSupportedException | نظام الإسناد المكاني المحدد في*options*لا يدعمه*destinationDriver* . |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
+| NotSupportedException | نظام الإسناد المكاني المحدد في*options* لا يدعمه*destinationDriver* . |
 
 ### أنظر أيضا
 
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* class [SavingOptions](../../savingoptions)
-* class [FeaturesSequence](../../featuressequence)
-* مساحة الاسم [Aspose.Gis](../../featuressequence)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../../filedriver/)
+* class [SavingOptions](../../savingoptions/)
+* class [FeaturesSequence](../)
+* مساحة الاسم [Aspose.Gis](../../featuressequence/)
 * المجسم [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

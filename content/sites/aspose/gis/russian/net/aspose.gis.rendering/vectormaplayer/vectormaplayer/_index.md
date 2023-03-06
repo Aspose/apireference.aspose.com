@@ -1,7 +1,7 @@
 ---
-title: VectorMapLayer
+title: VectorMapLayer.VectorMapLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает новый экземпляр с символизатором по умолчанию.
+description: VectorMapLayer строитель. Создает новый экземпляр с символизатором по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.gis.rendering/vectormaplayer/vectormaplayer/
@@ -26,9 +26,9 @@ public VectorMapLayer(FeaturesSequence featuresSequence)
 
 ### Смотрите также
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorMapLayer](../../vectormaplayer)
-* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorMapLayer](../)
+* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -54,10 +54,10 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### Смотрите также
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -75,7 +75,7 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | Последовательность признаков. |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для визуализации слоя. Если`null`, будет использоваться символизатор по умолчанию. |
-| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` , дефолт[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) будет использоваться. |
+| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` , по умолчанию[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) будет использоваться. |
 
 ### Исключения
 
@@ -85,11 +85,11 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### Смотрите также
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -105,7 +105,7 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | layer | VectorLayer | Векторный слой. |
-| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer) объект утилизируется; в противном случае,`false` . |
+| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../) объект утилизируется; в противном случае,`false` . |
 
 ### Исключения
 
@@ -115,9 +115,9 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 
 ### Смотрите также
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorMapLayer](../../vectormaplayer)
-* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorMapLayer](../)
+* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -134,7 +134,7 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 | --- | --- | --- |
 | layer | VectorLayer | Векторный слой. |
 | symbolizer | VectorSymbolizer | Символизатор, используемый для визуализации слоя. Если`null`, будет использоваться символизатор по умолчанию. |
-| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer) объект утилизируется; в противном случае,`false` . |
+| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../) объект утилизируется; в противном случае,`false` . |
 
 ### Исключения
 
@@ -144,10 +144,10 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 
 ### Смотрите также
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -165,8 +165,8 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 | --- | --- | --- |
 | layer | VectorLayer | Векторный слой. |
 | symbolizer | VectorSymbolizer | Символизатор для рендеринга слоя. Если`null` будет использоваться символизатор по умолчанию. |
-| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` , дефолт[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) будет использоваться. |
-| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../../vectormaplayer) объект утилизируется; в противном случае,`false` . |
+| labeling | Labeling | Надписи, используемые для подписи объектов в слое. Если`null` , по умолчанию[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) будет использоваться. |
+| keepOpen | Boolean | `true` оставить слой открытым после[`VectorMapLayer`](../) объект утилизируется; в противном случае,`false` . |
 
 ### Исключения
 
@@ -176,11 +176,11 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 
 ### Смотрите также
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* пространство имен [Aspose.Gis.Rendering](../../vectormaplayer/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

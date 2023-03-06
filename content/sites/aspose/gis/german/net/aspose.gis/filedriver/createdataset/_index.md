@@ -1,7 +1,7 @@
 ---
-title: CreateDataset
+title: FileDriver.CreateDataset
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Erstellt einen Datensatz.
+description: FileDriver methode. Erstellt einen Datensatz.
 type: docs
 weight: 50
 url: /de/net/aspose.gis/filedriver/createdataset/
@@ -20,23 +20,23 @@ public Dataset CreateDataset(string path)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../dataset).
+Eine Instanz von[`Dataset`](../../dataset/).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Erstellen des Datensatzes. |
+| [GisException](../../gisexception/) | Fehler beim Erstellen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Datensatz ist bereits vorhanden. |
 
 ### Siehe auch
 
-* class [Dataset](../../dataset)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -55,24 +55,24 @@ public Dataset CreateDataset(AbstractPath path)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../dataset).
+Eine Instanz von[`Dataset`](../../dataset/).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Erstellen des Datensatzes. |
+| [GisException](../../gisexception/) | Fehler beim Erstellen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Datensatz ist bereits vorhanden. |
 
 ### Siehe auch
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -92,7 +92,7 @@ public Dataset CreateDataset(string path, DriverOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../dataset).
+Eine Instanz von[`Dataset`](../../dataset/).
 
 ### Ausnahmen
 
@@ -100,17 +100,17 @@ Eine Instanz von[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Erstellen des Datensatzes. |
+| [GisException](../../gisexception/) | Fehler beim Erstellen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Datensatz ist bereits vorhanden. |
 
 ### Siehe auch
 
-* class [Dataset](../../dataset)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -130,7 +130,7 @@ public virtual Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`Dataset`](../../dataset).
+Eine Instanz von[`Dataset`](../../dataset/).
 
 ### Ausnahmen
 
@@ -138,18 +138,18 @@ Eine Instanz von[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Erstellen des Datensatzes. |
+| [GisException](../../gisexception/) | Fehler beim Erstellen des Datensatzes. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Treiber kann Datensätze nicht öffnen (siehe[`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | Datensatz ist bereits vorhanden. |
 
 ### Siehe auch
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: Dataset.CreateLayer
 second_title: Aspose.GIS for .NET API Referansı
-description: Yeni bir vektör katmanı oluşturur ve onu eklemek için açar.
+description: Dataset yöntem. Yeni bir vektör katmanı oluşturur ve onu ekleme için açar.
 type: docs
 weight: 70
 url: /tr/net/aspose.gis/dataset/createlayer/
 ---
 ## CreateLayer() {#createlayer}
 
-Yeni bir vektör katmanı oluşturur ve onu eklemek için açar.
+Yeni bir vektör katmanı oluşturur ve onu ekleme için açar.
 
 ```csharp
 public virtual VectorLayer CreateLayer()
@@ -16,20 +16,20 @@ public virtual VectorLayer CreateLayer()
 
 ### Geri dönüş değeri
 
-A[`VectorLayer`](../../vectorlayer) yazıya açıldı.
+A[`VectorLayer`](../../vectorlayer/) yazmak için açıldı.
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../vectorlayer)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(SpatialReferenceSystem) {#createlayer_2}
 
-Yeni bir vektör katmanı oluşturur ve onu eklemek için açar.
+Yeni bir vektör katmanı oluşturur ve onu ekleme için açar.
 
 ```csharp
 public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSystem)
@@ -41,21 +41,21 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 ### Geri dönüş değeri
 
-A[`VectorLayer`](../../vectorlayer) yazıya açıldı.
+A[`VectorLayer`](../../vectorlayer/) yazmak için açıldı.
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(DriverOptions, SpatialReferenceSystem) {#createlayer_1}
 
-Yeni bir vektör katmanı oluşturur ve onu eklemek için açar.
+Yeni bir vektör katmanı oluşturur ve onu ekleme için açar.
 
 ```csharp
 public virtual VectorLayer CreateLayer(DriverOptions options, 
@@ -69,7 +69,7 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 
 ### Geri dönüş değeri
 
-A[`VectorLayer`](../../vectorlayer) yazıya açıldı.
+A[`VectorLayer`](../../vectorlayer/) yazmak için açıldı.
 
 ### istisnalar
 
@@ -77,22 +77,22 @@ A[`VectorLayer`](../../vectorlayer) yazıya açıldı.
 | --- | --- |
 | NotSupportedException | Bu veri kümesi için katman oluşturma desteklenmiyor. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [GisException](../../gisexception) | Katman oluşturulurken hata oluştu. |
+| [GisException](../../gisexception/) | Katman oluşturulurken hata oluştu. |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(string, SpatialReferenceSystem) {#createlayer_4}
 
-Belirtilen ada sahip yeni bir vektör katmanı oluşturur ve onu eklemek için açar.
+Belirtilen ada sahip yeni bir vektör katmanı oluşturur ve onu ekleme için açar.
 
 ```csharp
 public virtual VectorLayer CreateLayer(string name, 
@@ -106,7 +106,7 @@ public virtual VectorLayer CreateLayer(string name,
 
 ### Geri dönüş değeri
 
-A[`VectorLayer`](../../vectorlayer) yazıya açıldı.
+A[`VectorLayer`](../../vectorlayer/) yazmak için açıldı.
 
 ### istisnalar
 
@@ -114,21 +114,21 @@ A[`VectorLayer`](../../vectorlayer) yazıya açıldı.
 | --- | --- |
 | NotSupportedException | Bu veri kümesi için katman oluşturma desteklenmiyor. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [GisException](../../gisexception) | Katman oluşturulurken hata oluştu. |
+| [GisException](../../gisexception/) | Katman oluşturulurken hata oluştu. |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(string, DriverOptions, SpatialReferenceSystem) {#createlayer_3}
 
-Belirtilen ada sahip yeni bir vektör katmanı oluşturur ve onu eklemek için açar.
+Belirtilen ada sahip yeni bir vektör katmanı oluşturur ve onu ekleme için açar.
 
 ```csharp
 public virtual VectorLayer CreateLayer(string name, DriverOptions options, 
@@ -143,7 +143,7 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 
 ### Geri dönüş değeri
 
-A[`VectorLayer`](../../vectorlayer) yazıya açıldı.
+A[`VectorLayer`](../../vectorlayer/) yazmak için açıldı.
 
 ### istisnalar
 
@@ -151,15 +151,15 @@ A[`VectorLayer`](../../vectorlayer) yazıya açıldı.
 | --- | --- |
 | NotSupportedException | Bu veri kümesi için katman oluşturma desteklenmiyor. |
 | IOException | Bir G/Ç hatası oluştu. |
-| [GisException](../../gisexception) | Katman oluşturulurken hata oluştu. |
+| [GisException](../../gisexception/) | Katman oluşturulurken hata oluştu. |
 
 ### Ayrıca bakınız
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* ad alanı [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* ad alanı [Aspose.Gis](../../dataset/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: FileDriver.OpenLayer
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Abre la capa para lectura.
+description: FileDriver método. Abre la capa para lectura.
 type: docs
 weight: 90
 url: /es/net/aspose.gis/filedriver/openlayer/
@@ -20,22 +20,22 @@ public VectorLayer OpenLayer(string path)
 
 ### Valor_devuelto
 
-una instancia de[`VectorLayer`](../../vectorlayer).
+una instancia de[`VectorLayer`](../../vectorlayer/).
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al leer la característica del archivo. |
+| [GisException](../../gisexception/) | Error al leer la característica del archivo. |
 | IOException | Se produjo un error de E/S. |
-| NotSupportedException | El controlador no puede abrir capas vectoriales (ver[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | El controlador no puede abrir capas vectoriales (ver[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ver también
 
-* class [VectorLayer](../../vectorlayer)
-* class [FileDriver](../../filedriver)
-* espacio de nombres [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [FileDriver](../)
+* espacio de nombres [Aspose.Gis](../../filedriver/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public VectorLayer OpenLayer(AbstractPath path)
 
 ### Valor_devuelto
 
-una instancia de[`VectorLayer`](../../vectorlayer).
+una instancia de[`VectorLayer`](../../vectorlayer/).
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al leer la característica del archivo. |
+| [GisException](../../gisexception/) | Error al leer la característica del archivo. |
 | IOException | Se produjo un error de E/S. |
-| NotSupportedException | El controlador no puede abrir capas vectoriales (ver[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | El controlador no puede abrir capas vectoriales (ver[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ver también
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* espacio de nombres [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* espacio de nombres [Aspose.Gis](../../filedriver/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 
 ### Valor_devuelto
 
-una instancia de[`VectorLayer`](../../vectorlayer).
+una instancia de[`VectorLayer`](../../vectorlayer/).
 
 ### Excepciones
 
@@ -98,16 +98,16 @@ una instancia de[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al leer la característica del archivo. |
+| [GisException](../../gisexception/) | Error al leer la característica del archivo. |
 | IOException | Se produjo un error de E/S. |
-| NotSupportedException | El controlador no puede abrir capas vectoriales (ver[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | El controlador no puede abrir capas vectoriales (ver[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ver también
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* espacio de nombres [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* espacio de nombres [Aspose.Gis](../../filedriver/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 ### Valor_devuelto
 
-una instancia de[`VectorLayer`](../../vectorlayer).
+una instancia de[`VectorLayer`](../../vectorlayer/).
 
 ### Excepciones
 
@@ -135,17 +135,17 @@ una instancia de[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
-| [GisException](../../gisexception) | Error al leer la característica del archivo. |
+| [GisException](../../gisexception/) | Error al leer la característica del archivo. |
 | IOException | Se produjo un error de E/S. |
-| NotSupportedException | El controlador no puede abrir capas vectoriales (ver[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | El controlador no puede abrir capas vectoriales (ver[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ver también
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* espacio de nombres [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* espacio de nombres [Aspose.Gis](../../filedriver/)
 * asamblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

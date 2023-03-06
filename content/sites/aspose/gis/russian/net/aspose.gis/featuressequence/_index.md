@@ -1,14 +1,14 @@
 ---
-title: FeaturesSequence
+title: Class FeaturesSequence
 second_title: Справочник по Aspose.GIS for .NET API
-description: FeaturesSequence./featuressequence представляет собой набор векторных объектов.
+description: Aspose.Gis.FeaturesSequence сорт. FeaturesSequence представляет собой набор векторных объектов.
 type: docs
-weight: 160
+weight: 170
 url: /ru/net/aspose.gis/featuressequence/
 ---
 ## FeaturesSequence class
 
-[`FeaturesSequence`](../featuressequence) представляет собой набор векторных объектов.
+`FeaturesSequence` представляет собой набор векторных объектов.
 
 ```csharp
 public abstract class FeaturesSequence : IEnumerable<Feature>
@@ -18,37 +18,38 @@ public abstract class FeaturesSequence : IEnumerable<Feature>
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Attributes](../../aspose.gis/featuressequence/attributes) { get; } | Получает коллекцию настраиваемых атрибутов для объектов в этом[`VectorLayer`](../vectorlayer) . |
-| abstract [SpatialReferenceSystem](../../aspose.gis/featuressequence/spatialreferencesystem) { get; } | Получает систему пространственной привязки этой последовательности объектов. |
+| abstract [Attributes](../../aspose.gis/featuressequence/attributes/) { get; } | Получает коллекцию настраиваемых атрибутов для объектов в этом[`VectorLayer`](../vectorlayer/) . |
+| abstract [SpatialReferenceSystem](../../aspose.gis/featuressequence/spatialreferencesystem/) { get; } | Получает систему пространственной привязки этой последовательности объектов. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.gis/featuressequence/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
-| virtual [GetExtent](../../aspose.gis/featuressequence/getextent)() | Получает пространственный экстент этого слоя. |
-| [SaveTo](../../aspose.gis/featuressequence/saveto#saveto)(AbstractPath, FileDriver) | Сохраняет последовательность объектов в слой. |
-| [SaveTo](../../aspose.gis/featuressequence/saveto#saveto_2)(string, FileDriver) | Сохраняет последовательность объектов в слой. |
-| [SaveTo](../../aspose.gis/featuressequence/saveto#saveto_1)(AbstractPath, FileDriver, SavingOptions) | Сохраняет последовательность объектов в слой. |
-| [SaveTo](../../aspose.gis/featuressequence/saveto#saveto_3)(string, FileDriver, SavingOptions) | Сохраняет последовательность объектов в слой. |
-| virtual [WhereEqual&lt;T&gt;](../../aspose.gis/featuressequence/whereequal)(string, T) | Выбирает объекты со значением атрибута, равным предоставленному значению. |
-| virtual [WhereGreater&lt;T&gt;](../../aspose.gis/featuressequence/wheregreater)(string, T) | Выбирает объекты со значением атрибута, превышающим предоставленное значение. |
-| virtual [WhereGreaterOrEqual&lt;T&gt;](../../aspose.gis/featuressequence/wheregreaterorequal)(string, T) | Выбирает объекты со значением атрибута, большим или равным указанному значению. |
-| virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects#whereintersects)(Extent) | Фильтрует объекты на основе экстента. |
-| [WhereIntersects](../../aspose.gis/featuressequence/whereintersects#whereintersects_1)(FeaturesSequence) | Фильтрует объекты на основе объединения всех геометрий в другой последовательности объектов. |
-| virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects#whereintersects_2)(IGeometry) | Фильтрует объекты на основе предоставленной геометрии. |
-| virtual [WhereNotEqual&lt;T&gt;](../../aspose.gis/featuressequence/wherenotequal)(string, T) | Выбирает объекты со значением атрибута, не равным предоставленному значению. |
-| virtual [WhereNotNull](../../aspose.gis/featuressequence/wherenotnull)(string) | Выбирает объекты с атрибутом, не равным нулю. |
-| virtual [WhereNull](../../aspose.gis/featuressequence/wherenull)(string) | Выбирает объекты с атрибутом, равным нулю. |
-| virtual [WhereSet](../../aspose.gis/featuressequence/whereset)(string) | Выбирает объекты с установленным атрибутом. |
-| virtual [WhereSmaller&lt;T&gt;](../../aspose.gis/featuressequence/wheresmaller)(string, T) | Выбирает объекты со значением атрибута меньше предоставленного значения. |
-| virtual [WhereSmallerOrEqual&lt;T&gt;](../../aspose.gis/featuressequence/wheresmallerorequal)(string, T) | Выбирает объекты со значением атрибута, меньшим или равным указанному значению. |
-| virtual [WhereUnset](../../aspose.gis/featuressequence/whereunset)(string) | Выбирает объекты, для которых указанный атрибут не установлен. |
+| abstract [GetEnumerator](../../aspose.gis/featuressequence/getenumerator/)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
+| virtual [GetExtent](../../aspose.gis/featuressequence/getextent/)() | Получает пространственный экстент этого слоя. |
+| [SaveTo](../../aspose.gis/featuressequence/saveto/#saveto)(AbstractPath, FileDriver) | Сохраняет последовательность объектов в слой. |
+| [SaveTo](../../aspose.gis/featuressequence/saveto/#saveto_2)(string, FileDriver) | Сохраняет последовательность объектов в слой. |
+| [SaveTo](../../aspose.gis/featuressequence/saveto/#saveto_1)(AbstractPath, FileDriver, SavingOptions) | Сохраняет последовательность объектов в слой. |
+| [SaveTo](../../aspose.gis/featuressequence/saveto/#saveto_3)(string, FileDriver, SavingOptions) | Сохраняет последовательность объектов в слой. |
+| [SplitTo](../../aspose.gis/featuressequence/splitto/)() | Разделить объекты по типу геометрии. |
+| virtual [WhereEqual&lt;T&gt;](../../aspose.gis/featuressequence/whereequal/)(string, T) | Выбирает объекты со значением атрибута, равным предоставленному значению. |
+| virtual [WhereGreater&lt;T&gt;](../../aspose.gis/featuressequence/wheregreater/)(string, T) | Выбирает объекты со значением атрибута, превышающим предоставленное значение. |
+| virtual [WhereGreaterOrEqual&lt;T&gt;](../../aspose.gis/featuressequence/wheregreaterorequal/)(string, T) | Выбирает объекты со значением атрибута, большим или равным указанному значению. |
+| virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/#whereintersects)(Extent) | Фильтрует объекты на основе экстента. |
+| [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/#whereintersects_1)(FeaturesSequence) | Фильтрует объекты на основе объединения всех геометрий в другой последовательности объектов. |
+| virtual [WhereIntersects](../../aspose.gis/featuressequence/whereintersects/#whereintersects_2)(IGeometry) | Фильтрует объекты на основе предоставленной геометрии. |
+| virtual [WhereNotEqual&lt;T&gt;](../../aspose.gis/featuressequence/wherenotequal/)(string, T) | Выбирает объекты со значением атрибута, не равным предоставленному значению. |
+| virtual [WhereNotNull](../../aspose.gis/featuressequence/wherenotnull/)(string) | Выбирает объекты с атрибутом, не равным нулю. |
+| virtual [WhereNull](../../aspose.gis/featuressequence/wherenull/)(string) | Выбирает объекты с атрибутом, равным нулю. |
+| virtual [WhereSet](../../aspose.gis/featuressequence/whereset/)(string) | Выбирает объекты с установленным атрибутом. |
+| virtual [WhereSmaller&lt;T&gt;](../../aspose.gis/featuressequence/wheresmaller/)(string, T) | Выбирает объекты со значением атрибута меньше предоставленного значения. |
+| virtual [WhereSmallerOrEqual&lt;T&gt;](../../aspose.gis/featuressequence/wheresmallerorequal/)(string, T) | Выбирает объекты со значением атрибута, меньшим или равным указанному значению. |
+| virtual [WhereUnset](../../aspose.gis/featuressequence/whereunset/)(string) | Выбирает объекты, для которых указанный атрибут не установлен. |
 
 ### Смотрите также
 
-* class [Feature](../feature)
-* пространство имен [Aspose.Gis](../../aspose.gis)
+* class [Feature](../feature/)
+* пространство имен [Aspose.Gis](../../aspose.gis/)
 * сборка [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

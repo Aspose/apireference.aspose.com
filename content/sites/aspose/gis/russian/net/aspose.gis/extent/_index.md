@@ -1,9 +1,9 @@
 ---
-title: Extent
+title: Class Extent
 second_title: Справочник по Aspose.GIS for .NET API
-description: Двумерная пространственная ограничивающая рамка.
+description: Aspose.Gis.Extent сорт. Двумерная пространственная ограничивающая рамка.
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.gis/extent/
 ---
 ## Extent class
@@ -18,51 +18,51 @@ public class Extent : IEquatable<Extent>
 
 | Имя | Описание |
 | --- | --- |
-| [Extent](extent#constructor)() | Создает новый экземпляр. |
-| [Extent](extent#constructor_1)(SpatialReferenceSystem) | Создает новый экземпляр. |
-| [Extent](extent#constructor_2)(double, double, double, double, SpatialReferenceSystem) | Создает новый экземпляр. |
+| [Extent](extent/#constructor)() | Создает новый экземпляр. |
+| [Extent](extent/#constructor_1)(SpatialReferenceSystem) | Создает новый экземпляр. |
+| [Extent](extent/#constructor_2)(double, double, double, double, SpatialReferenceSystem) | Создает новый экземпляр. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Center](../../aspose.gis/extent/center) { get; } | Центр экстента. |
-| [Height](../../aspose.gis/extent/height) { get; } | Высота экстента. |
-| [IsValid](../../aspose.gis/extent/isvalid) { get; } | Определяет, является ли это[`Extent`](../extent) действителен. |
-| [SpatialReferenceSystem](../../aspose.gis/extent/spatialreferencesystem) { get; set; } | [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) связанный с этим экстентом. Может быть`null` если[`SpatialReferenceSystem`](./spatialreferencesystem)неизвестно. Использовать[`GetTransformed`](./gettransformed) для преобразования экстента между разностными системами пространственной привязки. |
-| [Width](../../aspose.gis/extent/width) { get; } | Ширина экстента. |
-| [XMax](../../aspose.gis/extent/xmax) { get; set; } | Максимальное значение координаты X. |
-| [XMin](../../aspose.gis/extent/xmin) { get; set; } | Минимальное значение координаты X. |
-| [YMax](../../aspose.gis/extent/ymax) { get; set; } | Максимальное значение координаты Y. |
-| [YMin](../../aspose.gis/extent/ymin) { get; set; } | Минимальное значение координаты Y. |
+| [Center](../../aspose.gis/extent/center/) { get; } | Центр экстента. |
+| [Height](../../aspose.gis/extent/height/) { get; } | Высота экстента. |
+| [IsValid](../../aspose.gis/extent/isvalid/) { get; } | Определяет, является ли это`Extent` действителен. |
+| [SpatialReferenceSystem](../../aspose.gis/extent/spatialreferencesystem/) { get; set; } | [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) связанный с этим экстентом. Может быть`null` если[`SpatialReferenceSystem`](./spatialreferencesystem/) неизвестно. Использовать[`GetTransformed`](./gettransformed/) для преобразования экстента между разностными системами пространственной привязки. |
+| [Width](../../aspose.gis/extent/width/) { get; } | Ширина экстента. |
+| [XMax](../../aspose.gis/extent/xmax/) { get; set; } | Максимальное значение координаты X. |
+| [XMin](../../aspose.gis/extent/xmin/) { get; set; } | Минимальное значение координаты X. |
+| [YMax](../../aspose.gis/extent/ymax/) { get; set; } | Максимальное значение координаты Y. |
+| [YMin](../../aspose.gis/extent/ymin/) { get; set; } | Минимальное значение координаты Y. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.gis/extent/clone)() | Клонирует этот экземпляр. |
-| [Contains](../../aspose.gis/extent/contains#contains)(Extent) | Определяет, содержит ли этот экстент аргумент. |
-| [Contains](../../aspose.gis/extent/contains#contains_1)(IGeometry) | Определяет, содержит ли этот экстент аргумент. |
-| [Contains](../../aspose.gis/extent/contains#contains_2)(double, double) | Определяет, содержит ли этот экстент координату, определенную аргументами. |
-| [Equals](../../aspose.gis/extent/equals#equals)(Extent) | Указывает, равен ли текущий объект другому объекту того же типа. |
-| override [Equals](../../aspose.gis/extent/equals#equals_1)(object) | Определяет, равен ли указанный объект текущему объекту. |
-| override [GetHashCode](../../aspose.gis/extent/gethashcode)() | Служит хеш-функцией по умолчанию. |
-| [GetTransformed](../../aspose.gis/extent/gettransformed)(SpatialReferenceSystem) | Возвращает новый экстент в указанном[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem) который содержит этот экстент. |
-| [Grow](../../aspose.gis/extent/grow#grow)(Extent) | Увеличивает этот экстент, чтобы он включал аргумент. |
-| [Grow](../../aspose.gis/extent/grow#grow_1)(double, double) | Увеличивает этот экстент, чтобы он включал указанную точку. |
-| [GrowX](../../aspose.gis/extent/growx)(double) | Увеличивает этот экстент вдоль оси X, чтобы он включал указанное значение. |
-| [GrowY](../../aspose.gis/extent/growy)(double) | Увеличивает этот экстент по оси Y, чтобы он включал указанное значение. |
-| [Intersects](../../aspose.gis/extent/intersects#intersects)(Extent) | Определяет, пересекается ли этот экстент с аргументом. |
-| [Intersects](../../aspose.gis/extent/intersects#intersects_1)(IGeometry) | Определяет, пересекается ли этот экстент с аргументом. |
-| [Normalize](../../aspose.gis/extent/normalize)() | Свопы[`XMin`](./xmin) с[`XMax`](./xmax) если[`Width`](./width) отрицательно и [`YMin`](./ymin) с[`YMax`](./ymax) если[`Height`](./height) отрицательно. |
-| [ToPolygon](../../aspose.gis/extent/topolygon)() | Преобразует экстент в прямоугольный многоугольник, представляющий его. |
-| override [ToString](../../aspose.gis/extent/tostring)() | Возвращает строку, которая представляет текущий объект. |
-| [operator ==](../../aspose.gis/extent/op_equality) | Реализует оператор '=='. |
-| [operator !=](../../aspose.gis/extent/op_inequality) | Реализует оператор '!='. |
+| [Clone](../../aspose.gis/extent/clone/)() | Клонирует этот экземпляр. |
+| [Contains](../../aspose.gis/extent/contains/#contains)(Extent) | Определяет, содержит ли этот экстент аргумент. |
+| [Contains](../../aspose.gis/extent/contains/#contains_1)(IGeometry) | Определяет, содержит ли этот экстент аргумент. |
+| [Contains](../../aspose.gis/extent/contains/#contains_2)(double, double) | Определяет, содержит ли этот экстент координату, определенную аргументами. |
+| [Equals](../../aspose.gis/extent/equals/#equals)(Extent) | Указывает, равен ли текущий объект другому объекту того же типа. |
+| override [Equals](../../aspose.gis/extent/equals/#equals_1)(object) | Определяет, равен ли указанный объект текущему объекту. |
+| override [GetHashCode](../../aspose.gis/extent/gethashcode/)() | Служит хеш-функцией по умолчанию. |
+| [GetTransformed](../../aspose.gis/extent/gettransformed/)(SpatialReferenceSystem) | Возвращает новый экстент в указанном[`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) который содержит этот экстент. |
+| [Grow](../../aspose.gis/extent/grow/#grow)(Extent) | Увеличивает этот экстент, чтобы он включал аргумент. |
+| [Grow](../../aspose.gis/extent/grow/#grow_1)(double, double) | Увеличивает этот экстент, чтобы он включал указанную точку. |
+| [GrowX](../../aspose.gis/extent/growx/)(double) | Увеличивает этот экстент вдоль оси X, чтобы он включал указанное значение. |
+| [GrowY](../../aspose.gis/extent/growy/)(double) | Увеличивает этот экстент по оси Y, чтобы он включал указанное значение. |
+| [Intersects](../../aspose.gis/extent/intersects/#intersects)(Extent) | Определяет, пересекается ли этот экстент с аргументом. |
+| [Intersects](../../aspose.gis/extent/intersects/#intersects_1)(IGeometry) | Определяет, пересекается ли этот экстент с аргументом. |
+| [Normalize](../../aspose.gis/extent/normalize/)() | Свопы[`XMin`](./xmin/) с[`XMax`](./xmax/) если[`Width`](./width/) отрицательно и [`YMin`](./ymin/) с[`YMax`](./ymax/) если[`Height`](./height/) отрицательно. |
+| [ToPolygon](../../aspose.gis/extent/topolygon/)() | Преобразует экстент в прямоугольный многоугольник, представляющий его. |
+| override [ToString](../../aspose.gis/extent/tostring/)() | Возвращает строку, которая представляет текущий объект. |
+| [operator ==](../../aspose.gis/extent/op_equality/) | Реализует оператор '=='. |
+| [operator !=](../../aspose.gis/extent/op_inequality/) | Реализует оператор '!='. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Gis](../../aspose.gis)
+* пространство имен [Aspose.Gis](../../aspose.gis/)
 * сборка [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

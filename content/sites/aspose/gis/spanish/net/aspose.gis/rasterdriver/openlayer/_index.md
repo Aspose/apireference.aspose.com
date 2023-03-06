@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: RasterDriver.OpenLayer
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Abre la capa para lectura.
+description: RasterDriver método. Abre la capa para lectura.
 type: docs
 weight: 20
 url: /es/net/aspose.gis/rasterdriver/openlayer/
@@ -21,7 +21,7 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### Valor_devuelto
 
-una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Excepciones
 
@@ -30,15 +30,15 @@ una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
 | IOException | Se produjo un error de E/S. |
-| NotSupportedException | El controlador no puede abrir capas ráster (ver[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | El controlador no puede abrir capas ráster (ver[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ver también
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* espacio de nombres [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* espacio de nombres [Aspose.Gis](../../rasterdriver/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -57,7 +57,7 @@ public RasterLayer OpenLayer(string path)
 
 ### Valor_devuelto
 
-una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Excepciones
 
@@ -65,13 +65,13 @@ una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | el camino es`null`. |
 | IOException | Se produjo un error de E/S. |
-| NotSupportedException | El controlador no puede abrir capas ráster (ver[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | El controlador no puede abrir capas ráster (ver[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ver también
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriver](../../rasterdriver)
-* espacio de nombres [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriver](../)
+* espacio de nombres [Aspose.Gis](../../rasterdriver/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 ### Valor_devuelto
 
-una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Excepciones
 
@@ -98,14 +98,14 @@ una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | el camino es`null`. |
 | IOException | Se produjo un error de E/S. |
-| NotSupportedException | El controlador no puede abrir capas ráster (ver[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | El controlador no puede abrir capas ráster (ver[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ver también
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriver](../../rasterdriver)
-* espacio de nombres [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriver](../)
+* espacio de nombres [Aspose.Gis](../../rasterdriver/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -125,7 +125,7 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 
 ### Valor_devuelto
 
-una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Excepciones
 
@@ -134,14 +134,14 @@ una instancia de[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | El objeto de opciones tiene un tipo incorrecto para este controlador. |
 | ArgumentNullException | el camino es`null`. |
 | IOException | Se produjo un error de E/S. |
-| NotSupportedException | El controlador no puede abrir capas ráster (ver[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | El controlador no puede abrir capas ráster (ver[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Ver también
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* espacio de nombres [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* espacio de nombres [Aspose.Gis](../../rasterdriver/)
 * asamblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

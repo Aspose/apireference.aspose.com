@@ -1,7 +1,7 @@
 ---
-title: OpenDataset
+title: FileDriver.OpenDataset
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Ouvre le jeu de données.
+description: FileDriver méthode. Ouvre le jeu de données.
 type: docs
 weight: 80
 url: /fr/net/aspose.gis/filedriver/opendataset/
@@ -20,22 +20,22 @@ public Dataset OpenDataset(string path)
 
 ### Return_Value
 
-Un exemple de[`Dataset`](../../dataset).
+Un exemple de[`Dataset`](../../dataset/).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture de l'ensemble de données. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture de l'ensemble de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../canopendatasets/)). |
 
 ### Voir également
 
-* class [Dataset](../../dataset)
-* class [FileDriver](../../filedriver)
-* espace de noms [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [FileDriver](../)
+* espace de noms [Aspose.Gis](../../filedriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public Dataset OpenDataset(AbstractPath path)
 
 ### Return_Value
 
-Un exemple de[`Dataset`](../../dataset).
+Un exemple de[`Dataset`](../../dataset/).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture de l'ensemble de données. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture de l'ensemble de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../canopendatasets/)). |
 
 ### Voir également
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* espace de noms [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* espace de noms [Aspose.Gis](../../filedriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public Dataset OpenDataset(string path, DriverOptions options)
 
 ### Return_Value
 
-Un exemple de[`Dataset`](../../dataset).
+Un exemple de[`Dataset`](../../dataset/).
 
 ### Exceptions
 
@@ -98,16 +98,16 @@ Un exemple de[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture de l'ensemble de données. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture de l'ensemble de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../canopendatasets/)). |
 
 ### Voir également
 
-* class [Dataset](../../dataset)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* espace de noms [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* espace de noms [Aspose.Gis](../../filedriver/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 
 ### Return_Value
 
-Un exemple de[`Dataset`](../../dataset).
+Un exemple de[`Dataset`](../../dataset/).
 
 ### Exceptions
 
@@ -135,17 +135,17 @@ Un exemple de[`Dataset`](../../dataset).
 | --- | --- |
 | ArgumentException | L'objet Options a un type incorrect pour ce pilote. |
 | ArgumentNullException | Le chemin est`null`. |
-| [GisException](../../gisexception) | Erreur lors de la lecture de l'ensemble de données. |
+| [GisException](../../gisexception/) | Erreur lors de la lecture de l'ensemble de données. |
 | IOException | Une erreur d'E/S s'est produite. |
-| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../canopendatasets)). |
+| NotSupportedException | Le pilote ne peut pas ouvrir les ensembles de données (voir[`CanOpenDatasets`](../canopendatasets/)). |
 
 ### Voir également
 
-* class [Dataset](../../dataset)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* espace de noms [Aspose.Gis](../../filedriver)
+* class [Dataset](../../dataset/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* espace de noms [Aspose.Gis](../../filedriver/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

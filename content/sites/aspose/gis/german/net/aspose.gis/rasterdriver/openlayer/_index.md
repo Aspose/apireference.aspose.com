@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: RasterDriver.OpenLayer
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Öffnet die Ebene zum Lesen.
+description: RasterDriver methode. Öffnet die Ebene zum Lesen.
 type: docs
 weight: 20
 url: /de/net/aspose.gis/rasterdriver/openlayer/
@@ -21,7 +21,7 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### Rückgabewert
 
-Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Ausnahmen
 
@@ -30,15 +30,15 @@ Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Rasterebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Treiber kann Rasterebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Siehe auch
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* namensraum [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* namensraum [Aspose.Gis](../../rasterdriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -57,7 +57,7 @@ public RasterLayer OpenLayer(string path)
 
 ### Rückgabewert
 
-Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Ausnahmen
 
@@ -65,13 +65,13 @@ Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Rasterebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Treiber kann Rasterebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Siehe auch
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriver](../../rasterdriver)
-* namensraum [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriver](../)
+* namensraum [Aspose.Gis](../../rasterdriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 ### Rückgabewert
 
-Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Ausnahmen
 
@@ -98,14 +98,14 @@ Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Rasterebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Treiber kann Rasterebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Siehe auch
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriver](../../rasterdriver)
-* namensraum [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriver](../)
+* namensraum [Aspose.Gis](../../rasterdriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -125,7 +125,7 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Ausnahmen
 
@@ -134,14 +134,14 @@ Eine Instanz von[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
 | ArgumentNullException | Der Weg ist`null`. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Treiber kann Rasterebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Treiber kann Rasterebenen nicht öffnen (siehe[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Siehe auch
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* namensraum [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* namensraum [Aspose.Gis](../../rasterdriver/)
 * Montage [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

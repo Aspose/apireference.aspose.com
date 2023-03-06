@@ -1,12 +1,12 @@
 ---
-title: CreateLayer
+title: GeoJsonDriver.CreateLayer
 second_title: Aspose.GIS for .NET API Reference
-description: 
+description: GeoJsonDriver method. Creates a layer and opens it for adding new features.
 type: docs
 weight: 40
 url: /net/aspose.gis.formats.geojson/geojsondriver/createlayer/
 ---
-## GeoJsonDriver.CreateLayer method (1 of 4)
+## CreateLayer(string, GeoJsonOptions) {#createlayer_9}
 
 Creates a layer and opens it for adding new features.
 
@@ -21,7 +21,7 @@ public VectorLayer CreateLayer(string path, GeoJsonOptions options)
 
 ### Return Value
 
-An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Exceptions
 
@@ -31,15 +31,15 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [GeoJsonOptions](../../geojsonoptions)
-* class [GeoJsonDriver](../../geojsondriver)
-* namespace [Aspose.Gis.Formats.GeoJson](../../geojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [GeoJsonOptions](../../geojsonoptions/)
+* class [GeoJsonDriver](../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsondriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## GeoJsonDriver.CreateLayer method (2 of 4)
+## CreateLayer(AbstractPath, GeoJsonOptions) {#createlayer_3}
 
 Creates a layer and opens it for adding new features.
 
@@ -54,7 +54,7 @@ public VectorLayer CreateLayer(AbstractPath path, GeoJsonOptions options)
 
 ### Return Value
 
-An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Exceptions
 
@@ -64,16 +64,16 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [GeoJsonOptions](../../geojsonoptions)
-* class [GeoJsonDriver](../../geojsondriver)
-* namespace [Aspose.Gis.Formats.GeoJson](../../geojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [GeoJsonOptions](../../geojsonoptions/)
+* class [GeoJsonDriver](../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsondriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## GeoJsonDriver.CreateLayer method (3 of 4)
+## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
 Creates a layer and opens it for adding new features.
 
@@ -90,7 +90,7 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### Return Value
 
-An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Exceptions
 
@@ -100,17 +100,17 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [DriverOptions](../../../aspose.gis/driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [GeoJsonDriver](../../geojsondriver)
-* namespace [Aspose.Gis.Formats.GeoJson](../../geojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [DriverOptions](../../../aspose.gis/driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [GeoJsonDriver](../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsondriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## GeoJsonDriver.CreateLayer method (4 of 4)
+## CreateLayer(AbstractPath, GeoJsonOptions, SpatialReferenceSystem) {#createlayer_4}
 
 Creates a layer and opens it for adding new features.
 
@@ -127,7 +127,7 @@ public VectorLayer CreateLayer(AbstractPath path, GeoJsonOptions options,
 
 ### Return Value
 
-An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
+An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### Exceptions
 
@@ -138,12 +138,12 @@ An instance of [`VectorLayer`](../../../aspose.gis/vectorlayer).
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* class [GeoJsonOptions](../../geojsonoptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [GeoJsonDriver](../../geojsondriver)
-* namespace [Aspose.Gis.Formats.GeoJson](../../geojsondriver)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* class [GeoJsonOptions](../../geojsonoptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [GeoJsonDriver](../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsondriver/)
 * assembly [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

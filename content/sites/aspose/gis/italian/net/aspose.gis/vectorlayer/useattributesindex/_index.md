@@ -1,14 +1,14 @@
 ---
-title: UseAttributesIndex
+title: VectorLayer.UseAttributesIndex
 second_title: Riferimento API Aspose.GIS per .NET
-description: Carica lindice degli attributi per accelerare il filtraggio in base al valore degli attributi nei metodi di filtro comeWhereGreateraspose.gis/featuressequence/wheregreater. Se lindice non esiste lo crea prima. UsoforceRebuild per forzare la ricreazione dellindice.
+description: VectorLayer metodo. Carica lindice degli attributi per velocizzare il filtraggio in base al valore degli attributi nei metodi di filtro comeWhereGreater. Se lindice non esiste lo crea prima. UtilizzoforceRebuild per forzare la ricreazione dellindice.
 type: docs
-weight: 160
+weight: 180
 url: /it/net/aspose.gis/vectorlayer/useattributesindex/
 ---
 ## UseAttributesIndex(string, string, bool) {#useattributesindex_1}
 
-Carica l'indice degli attributi per accelerare il filtraggio in base al valore degli attributi nei metodi di filtro come[`WhereGreater`](../../featuressequence/wheregreater). Se l'indice non esiste, lo crea prima. Uso*forceRebuild* per forzare la ricreazione dell'indice.
+Carica l'indice degli attributi per velocizzare il filtraggio in base al valore degli attributi nei metodi di filtro come[`WhereGreater`](../../featuressequence/wheregreater/). Se l'indice non esiste, lo crea prima. Utilizzo*forceRebuild* per forzare la ricreazione dell'indice.
 
 ```csharp
 public void UseAttributesIndex(string indexPath, string attributeName, bool forceRebuild = false)
@@ -16,31 +16,31 @@ public void UseAttributesIndex(string indexPath, string attributeName, bool forc
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| indexPath | String | Percorso del file di indice. |
+| indexPath | String | Percorso del file indice. |
 | attributeName | String | Nome dell'attributo su cui costruire l'indice. |
-| forceRebuild | Boolean | Se ricreare l'indice anche se esiste già. |
+| forceRebuild | Boolean | Indica se ricreare l'indice anche se esiste già. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | L'argomento è`null`. |
-| ArgumentException | L'attributo con tale nome non esiste nel livello. |
+| ArgumentException | L'attributo con tale nome non esiste nel layer. |
 | IOException | Si è verificato un errore di I/O. |
-| InvalidOperationException | Indice per l'attributo specificato già caricato per questo livello. |
-| [GisException](../../gisexception) | Il file esiste e non è un file di indice degli attributi creato da Aspose.GIS. |
+| InvalidOperationException | Indice per l'attributo specificato già caricato per questo layer. |
+| [GisException](../../gisexception/) | Il file esiste e non è un file di indice degli attributi creato da Aspose.GIS. |
 
 ### Guarda anche
 
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
 
 ## UseAttributesIndex(AbstractPath, string, bool) {#useattributesindex}
 
-Carica l'indice degli attributi per accelerare il filtraggio in base al valore degli attributi nei metodi di filtro come[`WhereGreater`](../../featuressequence/wheregreater). Se l'indice non esiste, lo crea prima. Uso*forceRebuild* per forzare la ricreazione dell'indice.
+Carica l'indice degli attributi per velocizzare il filtraggio in base al valore degli attributi nei metodi di filtro come[`WhereGreater`](../../featuressequence/wheregreater/). Se l'indice non esiste, lo crea prima. Utilizzo*forceRebuild* per forzare la ricreazione dell'indice.
 
 ```csharp
 public virtual void UseAttributesIndex(AbstractPath indexPath, string attributeName, 
@@ -49,25 +49,25 @@ public virtual void UseAttributesIndex(AbstractPath indexPath, string attributeN
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| indexPath | AbstractPath | Percorso del file di indice. |
+| indexPath | AbstractPath | Percorso del file indice. |
 | attributeName | String | Nome dell'attributo su cui costruire l'indice. |
-| forceRebuild | Boolean | Se ricreare l'indice anche se esiste già. |
+| forceRebuild | Boolean | Indica se ricreare l'indice anche se esiste già. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
 | ArgumentNullException | L'argomento è`null`. |
-| ArgumentException | L'attributo con tale nome non esiste nel livello. |
+| ArgumentException | L'attributo con tale nome non esiste nel layer. |
 | IOException | Si è verificato un errore di I/O. |
-| InvalidOperationException | Indice per l'attributo specificato già caricato per questo livello. |
-| [GisException](../../gisexception) | Il file esiste e non è un file di indice degli attributi creato da Aspose.GIS. |
+| InvalidOperationException | Indice per l'attributo specificato già caricato per questo layer. |
+| [GisException](../../gisexception/) | Il file esiste e non è un file di indice degli attributi creato da Aspose.GIS. |
 
 ### Guarda anche
 
-* class [AbstractPath](../../abstractpath)
-* class [VectorLayer](../../vectorlayer)
-* spazio dei nomi [Aspose.Gis](../../vectorlayer)
+* class [AbstractPath](../../abstractpath/)
+* class [VectorLayer](../)
+* spazio dei nomi [Aspose.Gis](../../vectorlayer/)
 * assemblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

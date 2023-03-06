@@ -1,14 +1,14 @@
 ---
-title: CreateLayer
+title: Dataset.CreateLayer
 second_title: Aspose.GIS for .NET API 参考
-description: 创建一个新的矢量图层并将其打开以进行附加
+description: Dataset 方法. 创建一个新的矢量图层并打开它进行追加
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/dataset/createlayer/
 ---
 ## CreateLayer() {#createlayer}
 
-创建一个新的矢量图层并将其打开以进行附加。
+创建一个新的矢量图层并打开它进行追加。
 
 ```csharp
 public virtual VectorLayer CreateLayer()
@@ -16,20 +16,20 @@ public virtual VectorLayer CreateLayer()
 
 ### 返回值
 
-一个[`VectorLayer`](../../vectorlayer)开放写作。
+A[`VectorLayer`](../../vectorlayer/)为写作而打开。
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [Dataset](../../dataset)
-* 命名空间 [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [Dataset](../)
+* 命名空间 [Aspose.Gis](../../dataset/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(SpatialReferenceSystem) {#createlayer_2}
 
-创建一个新的矢量图层并将其打开以进行附加。
+创建一个新的矢量图层并打开它进行追加。
 
 ```csharp
 public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSystem)
@@ -41,21 +41,21 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 ### 返回值
 
-一个[`VectorLayer`](../../vectorlayer)开放写作。
+A[`VectorLayer`](../../vectorlayer/)为写作而打开。
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* 命名空间 [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* 命名空间 [Aspose.Gis](../../dataset/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(DriverOptions, SpatialReferenceSystem) {#createlayer_1}
 
-创建一个新的矢量图层并将其打开以进行附加。
+创建一个新的矢量图层并打开它进行追加。
 
 ```csharp
 public virtual VectorLayer CreateLayer(DriverOptions options, 
@@ -69,30 +69,30 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 
 ### 返回值
 
-一个[`VectorLayer`](../../vectorlayer)开放写作。
+A[`VectorLayer`](../../vectorlayer/)为写作而打开。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotSupportedException | 此数据集不支持创建图层。 |
+| NotSupportedException | 此数据集不支持图层创建。 |
 | IOException | 发生 I/O 错误。 |
-| [GisException](../../gisexception) | 创建图层时出错。 |
+| [GisException](../../gisexception/) | 创建图层时出错。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* 命名空间 [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* 命名空间 [Aspose.Gis](../../dataset/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(string, SpatialReferenceSystem) {#createlayer_4}
 
-创建一个具有指定名称的新矢量图层并打开它以进行附加。
+创建一个具有指定名称的新矢量图层并打开它进行追加。
 
 ```csharp
 public virtual VectorLayer CreateLayer(string name, 
@@ -106,29 +106,29 @@ public virtual VectorLayer CreateLayer(string name,
 
 ### 返回值
 
-一个[`VectorLayer`](../../vectorlayer)开放写作。
+A[`VectorLayer`](../../vectorlayer/)为写作而打开。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotSupportedException | 此数据集不支持创建图层。 |
+| NotSupportedException | 此数据集不支持图层创建。 |
 | IOException | 发生 I/O 错误。 |
-| [GisException](../../gisexception) | 创建图层时出错。 |
+| [GisException](../../gisexception/) | 创建图层时出错。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* 命名空间 [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* 命名空间 [Aspose.Gis](../../dataset/)
 * 部件 [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(string, DriverOptions, SpatialReferenceSystem) {#createlayer_3}
 
-创建一个具有指定名称的新矢量图层并打开它以进行附加。
+创建一个具有指定名称的新矢量图层并打开它进行追加。
 
 ```csharp
 public virtual VectorLayer CreateLayer(string name, DriverOptions options, 
@@ -143,23 +143,23 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 
 ### 返回值
 
-一个[`VectorLayer`](../../vectorlayer)开放写作。
+A[`VectorLayer`](../../vectorlayer/)为写作而打开。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotSupportedException | 此数据集不支持创建图层。 |
+| NotSupportedException | 此数据集不支持图层创建。 |
 | IOException | 发生 I/O 错误。 |
-| [GisException](../../gisexception) | 创建图层时出错。 |
+| [GisException](../../gisexception/) | 创建图层时出错。 |
 
 ### 也可以看看
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* 命名空间 [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* 命名空间 [Aspose.Gis](../../dataset/)
 * 部件 [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: Relate
+title: Geometry.Relate
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Détermine si la matrice dintersection DE9IM de cette géométrie et une géométrie spécifiée correspond au modèle fourni.
+description: Geometry méthode. Détermine si la matrice dintersection DE9IM de cette géométrie et une géométrie spécifiée correspond au modèle fourni.
 type: docs
 weight: 300
 url: /fr/net/aspose.gis.geometries/geometry/relate/
@@ -17,7 +17,7 @@ public bool Relate(IGeometry other, string intersectionPatternMatrix)
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | other | IGeometry | Une géométrie. |
-| intersectionPatternMatrix | String | Un modèle à faire correspondre. Cela doit être une chaîne d'une longueur égale à 9. Chaque caractère de la chaîne représente la dimension attendue d'une intersection : caractère 0 - entre les intérieurs des géométries.caractère 1 - entre l'intérieur de cette géométrie et la frontière d'une autre géométrie.caractère 2 - entre l'intérieur de cette géométrie et l'extérieur d'une autre géométrie.caractère 3 - entre la frontière de cette géométrie et l'intérieur d'une autre géométrie.caractère 4 - entre les limites des géométries.caractère 5 - entre la limite de cette géométrie et l'extérieur d'une autre géométrie.caractère 6 - entre l'extérieur de cette géométrie et l'intérieur d'une autre géométrie.caractère 7 - entre l'extérieur de cette géométrie et la frontière d'une autre géométrie.caractère 8 - entre les extérieurs des géométries. Les valeurs possibles de chaque caractère sont : * - de n'importe quelle valeur;F - pas d'intersection ;T - toute intersection ;0 - point d'intersection (par exemple point partagé) ;1 - intersection de lignes (par exemple, segment de ligne partagé) ;2 - intersection de zones (par exemple, partie partagée d'un polygone) ; Par exemple, un modèle d'intersection "F0*******" signifie qu'il ne devrait pas y avoir d'intersection entre les intérieurs de géométries et l'intersection entre les limites des géométries doit être un point. Voir OpenGIS Simple Features Specification pour plus de détails sur la matrice d'intersection motif. |
+| intersectionPatternMatrix | String | Un modèle à faire correspondre. Il doit s'agir d'une chaîne d'une longueur égale à 9. Chaque caractère de la chaîne représente la dimension attendue d'une intersection : caractère 0 - entre les intérieurs des géométries.caractère 1 - entre l'intérieur de cette géométrie et la limite d'une autre géométrie.caractère 2 - entre l'intérieur de cette géométrie et l'extérieur d'une autre géométrie.caractère 3 - entre la frontière de cette géométrie et l'intérieur d'une autre géométrie.caractère 4 - entre les limites des géométries.caractère 5 - entre la limite de cette géométrie et l'extérieur d'une autre géométrie.caractère 6 - entre l'extérieur de cette géométrie et l'intérieur d'une autre géométrie.caractère 7 - entre l'extérieur de cette géométrie et la frontière d'une autre géométrie.caractère 8 - entre les extérieurs des géométries. Les valeurs possibles de chaque caractère sont : * - de n'importe quelle valeur;F - pas d'intersection ;T - toute intersection ;0 - point d'intersection (par exemple point partagé) ;1 - intersection de lignes (par exemple, segment de ligne partagé) ;2 - intersection de zones (par exemple, partie partagée d'un polygone) ; Par exemple, un modèle d'intersection "F0*******" signifie qu'il ne devrait pas y avoir d'intersection entre les intérieurs de géométries et l'intersection entre les limites des géométries doit être un point. Voir OpenGIS Simple Features Specification pour plus de détails sur la matrice d'intersection motif. |
 
 ### Return_Value
 
@@ -29,7 +29,7 @@ public bool Relate(IGeometry other, string intersectionPatternMatrix)
 | --- | --- |
 | ArgumentNullException | *other* est`null`. |
 | ArgumentException | L'une des géométries est invalide de sorte que l'opération ne peut pas être terminée. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem) des géométries ne sont pas équivalentes. Vous pouvez utiliser[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation) afin de convertir des géométries dans le même système de référence spatial . |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) des géométries ne sont pas équivalentes. Vous pouvez utiliser[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) afin de convertir des géométries dans le même système de référence spatial . |
 
 ### Remarques
 
@@ -45,9 +45,9 @@ geometry.Relate(other, "T*F**FFF*");
 
 ### Voir également
 
-* interface [IGeometry](../../igeometry)
-* class [Geometry](../../geometry)
-* espace de noms [Aspose.Gis.Geometries](../../geometry)
+* interface [IGeometry](../../igeometry/)
+* class [Geometry](../)
+* espace de noms [Aspose.Gis.Geometries](../../geometry/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

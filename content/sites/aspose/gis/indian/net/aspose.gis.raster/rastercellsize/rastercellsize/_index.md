@@ -1,0 +1,23 @@
+---
+title: RasterCellSize.RasterCellSize
+second_title: .NET API संदर्भ के लिए Aspose.GIS
+description: RasterCellSize नर्मत. डफ़ल्ट कंस्ट्रक्टर
+type: docs
+weight: 10
+url: /hi/net/aspose.gis.raster/rastercellsize/rastercellsize/
+---
+## RasterCellSize constructor
+
+डिफ़ॉल्ट कंस्ट्रक्टर।
+
+```csharp
+public RasterCellSize()
+```
+
+### यह सभी देखें
+
+* class [RasterCellSize](../)
+* नाम स्थान [Aspose.Gis.Raster](../../rastercellsize/)
+* सभा [Aspose.GIS](../../../)
+
+

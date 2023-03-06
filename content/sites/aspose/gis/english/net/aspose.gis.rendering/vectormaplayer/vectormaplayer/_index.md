@@ -1,12 +1,12 @@
 ---
-title: VectorMapLayer
+title: VectorMapLayer.VectorMapLayer
 second_title: Aspose.GIS for .NET API Reference
-description: 
+description: VectorMapLayer constructor. Creates new instance with default symbolizer.
 type: docs
 weight: 10
 url: /net/aspose.gis.rendering/vectormaplayer/vectormaplayer/
 ---
-## VectorMapLayer constructor (1 of 6)
+## VectorMapLayer(FeaturesSequence) {#constructor}
 
 Creates new instance with default symbolizer.
 
@@ -26,14 +26,14 @@ public VectorMapLayer(FeaturesSequence featuresSequence)
 
 ### See Also
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorMapLayer](../../vectormaplayer)
-* namespace [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorMapLayer](../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer constructor (2 of 6)
+## VectorMapLayer(FeaturesSequence, VectorSymbolizer) {#constructor_1}
 
 Creates new instance with default symbolizer.
 
@@ -54,15 +54,15 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### See Also
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* namespace [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer constructor (3 of 6)
+## VectorMapLayer(FeaturesSequence, VectorSymbolizer, Labeling) {#constructor_2}
 
 Creates new instance with default symbolizer.
 
@@ -75,7 +75,7 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | Features sequence. |
 | symbolizer | VectorSymbolizer | Symbolizer to use to render layer. If `null`, default symbolizer will be used. |
-| labeling | Labeling | Labeling to use to label features in layer. If `null`, default [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) will be used. |
+| labeling | Labeling | Labeling to use to label features in layer. If `null`, default [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) will be used. |
 
 ### Exceptions
 
@@ -85,16 +85,16 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### See Also
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* namespace [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer constructor (4 of 6)
+## VectorMapLayer(VectorLayer, bool) {#constructor_5}
 
 Creates new instance with default symbolizer.
 
@@ -105,7 +105,7 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | layer | VectorLayer | Vector layer. |
-| keepOpen | Boolean | `true` to leave the layer open after the [`VectorMapLayer`](../../vectormaplayer) object is disposed; otherwise, `false`. |
+| keepOpen | Boolean | `true` to leave the layer open after the [`VectorMapLayer`](../) object is disposed; otherwise, `false`. |
 
 ### Exceptions
 
@@ -115,14 +115,14 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorMapLayer](../../vectormaplayer)
-* namespace [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorMapLayer](../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer constructor (5 of 6)
+## VectorMapLayer(VectorLayer, VectorSymbolizer, bool) {#constructor_4}
 
 Creates new instance.
 
@@ -134,7 +134,7 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 | --- | --- | --- |
 | layer | VectorLayer | Vector layer. |
 | symbolizer | VectorSymbolizer | Symbolizer to use to render layer. If `null`, default symbolizer will be used. |
-| keepOpen | Boolean | `true` to leave the layer open after the [`VectorMapLayer`](../../vectormaplayer) object is disposed; otherwise, `false`. |
+| keepOpen | Boolean | `true` to leave the layer open after the [`VectorMapLayer`](../) object is disposed; otherwise, `false`. |
 
 ### Exceptions
 
@@ -144,15 +144,15 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* namespace [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer constructor (6 of 6)
+## VectorMapLayer(VectorLayer, VectorSymbolizer, Labeling, bool) {#constructor_3}
 
 Creates new instance.
 
@@ -165,8 +165,8 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 | --- | --- | --- |
 | layer | VectorLayer | Vector layer. |
 | symbolizer | VectorSymbolizer | Symbolizer to use to render layer. If `null`, default symbolizer will be used. |
-| labeling | Labeling | Labeling to use to label features in layer. If `null`, default [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) will be used. |
-| keepOpen | Boolean | `true` to leave the layer open after the [`VectorMapLayer`](../../vectormaplayer) object is disposed; otherwise, `false`. |
+| labeling | Labeling | Labeling to use to label features in layer. If `null`, default [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) will be used. |
+| keepOpen | Boolean | `true` to leave the layer open after the [`VectorMapLayer`](../) object is disposed; otherwise, `false`. |
 
 ### Exceptions
 
@@ -176,11 +176,11 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 
 ### See Also
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* namespace [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
 * assembly [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

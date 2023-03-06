@@ -1,7 +1,7 @@
 ---
-title: AsImage
+title: IGeometry.AsImage
 second_title: Riferimento API Aspose.GIS per .NET
-description: Esporta questa geometria in una rappresentazione dellimmagine.
+description: IGeometry metodo. Esporta questa geometria in una rappresentazione dellimmagine.
 type: docs
 weight: 110
 url: /it/net/aspose.gis.geometries/igeometry/asimage/
@@ -20,8 +20,8 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | outputPath | AbstractPath | Percorso dell'immagine di output. |
 | width | Measurement | Larghezza della mappa. |
 | height | Measurement | Altezza della mappa. |
-| renderer | Renderer | Rendering da usare. |
-| symbolizer | VectorSymbolizer | Un simbolizzatore da utilizzare per il rendering. Se`null`, viene utilizzato il simbolizzatore predefinito. |
+| renderer | Renderer | Render da usare. |
+| symbolizer | VectorSymbolizer | Un simbolo da utilizzare per il rendering. Se`null`, viene utilizzato il simbolo predefinito. |
 
 ### Eccezioni
 
@@ -29,18 +29,18 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | --- | --- |
 | ArgumentNullException | Qualsiasi argomento`null`. |
 | IOException | Si è verificato un errore di I/O. |
-| [GisException](../../../aspose.gis/gisexception) | Errore durante l'elaborazione o la lettura dei dati GIS. |
+| [GisException](../../../aspose.gis/gisexception/) | Un errore durante l'elaborazione o la lettura dei dati GIS. |
 | ArgumentException | L'unità di larghezza o altezza è!:SpatialReferencing.Unit.MapUnits . |
-| ArgumentOutOfRangeException | Larghezza o altezza è negativa o zero. |
+| ArgumentOutOfRangeException | La larghezza o l'altezza è negativa o zero. |
 
 ### Guarda anche
 
-* class [AbstractPath](../../../aspose.gis/abstractpath)
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* spazio dei nomi [Aspose.Gis.Geometries](../../igeometry)
+* class [AbstractPath](../../../aspose.gis/abstractpath/)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* spazio dei nomi [Aspose.Gis.Geometries](../../igeometry/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
@@ -59,8 +59,8 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | outputPath | String | Percorso dell'immagine di output. |
 | width | Measurement | Larghezza della mappa. |
 | height | Measurement | Altezza della mappa. |
-| renderer | Renderer | Rendering da usare. |
-| symbolizer | VectorSymbolizer | Un simbolizzatore da utilizzare per il rendering. Se`null`, viene utilizzato il simbolizzatore predefinito. |
+| renderer | Renderer | Render da usare. |
+| symbolizer | VectorSymbolizer | Un simbolo da utilizzare per il rendering. Se`null`, viene utilizzato il simbolo predefinito. |
 
 ### Eccezioni
 
@@ -68,17 +68,17 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | --- | --- |
 | ArgumentNullException | Qualsiasi argomento`null`. |
 | IOException | Si è verificato un errore di I/O. |
-| [GisException](../../../aspose.gis/gisexception) | Errore durante l'elaborazione o la lettura dei dati GIS. |
+| [GisException](../../../aspose.gis/gisexception/) | Un errore durante l'elaborazione o la lettura dei dati GIS. |
 | ArgumentException | L'unità di larghezza o altezza è!:SpatialReferencing.Unit.MapUnits . |
-| ArgumentOutOfRangeException | Larghezza o altezza è negativa o zero. |
+| ArgumentOutOfRangeException | La larghezza o l'altezza è negativa o zero. |
 
 ### Guarda anche
 
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* spazio dei nomi [Aspose.Gis.Geometries](../../igeometry)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* spazio dei nomi [Aspose.Gis.Geometries](../../igeometry/)
 * assemblea [Aspose.GIS](../../../)
 
 ---
@@ -96,8 +96,8 @@ public Stream AsImage(Measurement width, Measurement height, Renderer renderer,
 | --- | --- | --- |
 | width | Measurement | Larghezza della mappa. |
 | height | Measurement | Altezza della mappa. |
-| renderer | Renderer | Rendering da usare. |
-| symbolizer | VectorSymbolizer | Un simbolizzatore da utilizzare per il rendering. Se`null`, viene utilizzato il simbolizzatore predefinito. |
+| renderer | Renderer | Render da usare. |
+| symbolizer | VectorSymbolizer | Un simbolo da utilizzare per il rendering. Se`null`, viene utilizzato il simbolo predefinito. |
 
 ### Valore di ritorno
 
@@ -109,17 +109,17 @@ L'immagine come flusso
 | --- | --- |
 | ArgumentNullException | Qualsiasi argomento`null`. |
 | IOException | Si è verificato un errore di I/O. |
-| [GisException](../../../aspose.gis/gisexception) | Errore durante l'elaborazione o la lettura dei dati GIS. |
+| [GisException](../../../aspose.gis/gisexception/) | Un errore durante l'elaborazione o la lettura dei dati GIS. |
 | ArgumentException | L'unità di larghezza o altezza è!:SpatialReferencing.Unit.MapUnits . |
-| ArgumentOutOfRangeException | Larghezza o altezza è negativa o zero. |
+| ArgumentOutOfRangeException | La larghezza o l'altezza è negativa o zero. |
 
 ### Guarda anche
 
-* struct [Measurement](../../../aspose.gis.rendering/measurement)
-* class [Renderer](../../../aspose.gis.rendering/renderer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* interface [IGeometry](../../igeometry)
-* spazio dei nomi [Aspose.Gis.Geometries](../../igeometry)
+* struct [Measurement](../../../aspose.gis.rendering/measurement/)
+* class [Renderer](../../../aspose.gis.rendering/renderer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* interface [IGeometry](../)
+* spazio dei nomi [Aspose.Gis.Geometries](../../igeometry/)
 * assemblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

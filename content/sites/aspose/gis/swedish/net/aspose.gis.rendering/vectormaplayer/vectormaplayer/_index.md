@@ -1,7 +1,7 @@
 ---
-title: VectorMapLayer
+title: VectorMapLayer.VectorMapLayer
 second_title: Aspose.GIS för .NET API Referens
-description: Skapar ny instans med standardsymbolizer.
+description: VectorMapLayer byggare. Skapar ny instans med standardsymbolizer.
 type: docs
 weight: 10
 url: /sv/net/aspose.gis.rendering/vectormaplayer/vectormaplayer/
@@ -26,9 +26,9 @@ public VectorMapLayer(FeaturesSequence featuresSequence)
 
 ### Se även
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorMapLayer](../../vectormaplayer)
-* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorMapLayer](../)
+* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -54,10 +54,10 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### Se även
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -75,7 +75,7 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | Funktioner sekvens. |
 | symbolizer | VectorSymbolizer | Symboliserare att använda för att rendera lager. Om`null`, kommer standardsymboliseraren att användas. |
-| labeling | Labeling | Märkning att använda för att märka funktioner i lager. Om`null` , standard[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) kommer att användas. |
+| labeling | Labeling | Märkning att använda för att märka funktioner i lager. Om`null` , standard[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) kommer att användas. |
 
 ### Undantag
 
@@ -85,11 +85,11 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 
 ### Se även
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -105,7 +105,7 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | layer | VectorLayer | Vektor lager. |
-| keepOpen | Boolean | `true` att lämna lagret öppet efter[`VectorMapLayer`](../../vectormaplayer) föremål kasseras; annat,`false` . |
+| keepOpen | Boolean | `true` att lämna lagret öppet efter[`VectorMapLayer`](../) föremål kasseras; annat,`false` . |
 
 ### Undantag
 
@@ -115,9 +115,9 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 
 ### Se även
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorMapLayer](../../vectormaplayer)
-* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorMapLayer](../)
+* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -134,7 +134,7 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 | --- | --- | --- |
 | layer | VectorLayer | Vektor lager. |
 | symbolizer | VectorSymbolizer | Symboliserare att använda för att rendera lager. Om`null`, kommer standardsymboliseraren att användas. |
-| keepOpen | Boolean | `true` att lämna lagret öppet efter[`VectorMapLayer`](../../vectormaplayer) föremål kasseras; annat,`false` . |
+| keepOpen | Boolean | `true` att lämna lagret öppet efter[`VectorMapLayer`](../) föremål kasseras; annat,`false` . |
 
 ### Undantag
 
@@ -144,10 +144,10 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepO
 
 ### Se även
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [VectorMapLayer](../../vectormaplayer)
-* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [VectorMapLayer](../)
+* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer/)
 * hopsättning [Aspose.GIS](../../../)
 
 ---
@@ -165,8 +165,8 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 | --- | --- | --- |
 | layer | VectorLayer | Vektor lager. |
 | symbolizer | VectorSymbolizer | Symboliserare att använda för att rendera lager. Om`null` standardsymboliseraren kommer att användas. |
-| labeling | Labeling | Märkning att använda för att märka funktioner i lager. Om`null` , standard[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) kommer att användas. |
-| keepOpen | Boolean | `true` att lämna lagret öppet efter[`VectorMapLayer`](../../vectormaplayer) föremål kasseras; annat,`false` . |
+| labeling | Labeling | Märkning att använda för att märka funktioner i lager. Om`null` , standard[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) kommer att användas. |
+| keepOpen | Boolean | `true` att lämna lagret öppet efter[`VectorMapLayer`](../) föremål kasseras; annat,`false` . |
 
 ### Undantag
 
@@ -176,11 +176,11 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 
 ### Se även
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [VectorMapLayer](../../vectormaplayer)
-* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [VectorMapLayer](../)
+* namnutrymme [Aspose.Gis.Rendering](../../vectormaplayer/)
 * hopsättning [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

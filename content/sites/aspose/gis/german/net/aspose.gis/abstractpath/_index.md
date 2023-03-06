@@ -1,14 +1,14 @@
 ---
-title: AbstractPath
+title: Class AbstractPath
 second_title: Aspose.GIS für .NET-API-Referenz
-description: EinAbstrakterPfad ist eine Basisklasse für Klassen die einen eindeutigen Ort in einer Umgebung angeben die einem Dateisystem ähnlich ist wie unter anderem ein lokales Dateisystem ein entfernter Dateispeicher oder ein ZIPArchiv.
+description: Aspose.Gis.AbstractPath klas. EinAbstrakterPfad ist eine Basisklasse für Klassen die einen eindeutigen Speicherort in einer Umgebung angeben die einem Dateisystem ähnlich ist wie unter anderem ein lokales Dateisystem ein entfernter Dateispeicher oder ein ZIPArchiv.
 type: docs
 weight: 10
 url: /de/net/aspose.gis/abstractpath/
 ---
 ## AbstractPath class
 
-Ein`AbstrakterPfad` ist eine Basisklasse für Klassen, die einen eindeutigen Ort in einer Umgebung angeben, die einem Dateisystem ähnlich ist, wie unter anderem ein lokales Dateisystem, ein entfernter Dateispeicher oder ein ZIP-Archiv.
+Ein`AbstrakterPfad` ist eine Basisklasse für Klassen, die einen eindeutigen Speicherort in einer Umgebung angeben, die einem Dateisystem ähnlich ist, wie unter anderem ein lokales Dateisystem, ein entfernter Dateispeicher oder ein ZIP-Archiv.
 
 ```csharp
 public abstract class AbstractPath
@@ -18,24 +18,24 @@ public abstract class AbstractPath
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [Location](../../aspose.gis/abstractpath/location) { get; } | Ruft eine Zeichenfolgendarstellung des Speicherorts davon ab`AbstrakterPfad` . |
-| abstract [Separator](../../aspose.gis/abstractpath/separator) { get; } | Ruft ein Trennzeichen ab, das verwendet wird, um Verzeichnisebenen der zu trennen[`Location`](./location) Schnur. |
+| abstract [Location](../../aspose.gis/abstractpath/location/) { get; } | Ruft eine Zeichenfolgendarstellung des Speicherorts davon ab`AbstrakterPfad` . |
+| abstract [Separator](../../aspose.gis/abstractpath/separator/) { get; } | Ruft ein Trennzeichen ab, das verwendet wird, um Verzeichnisebenen der zu trennen[`Location`](./location/) Schnur. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath)(string) | Erstellt eine[`AbstractPath`](../abstractpath) das einen Speicherort im lokalen Dateisystem darstellt. |
-| static [FromStream](../../aspose.gis/abstractpath/fromstream)(Stream) | Erstellt eine[`AbstractPath`](../abstractpath) von einemStream . |
-| virtual [Combine](../../aspose.gis/abstractpath/combine)(string) | Kombiniert dies[`AbstractPath`](../abstractpath) mit angegebenen Pfadkomponenten. |
-| abstract [Delete](../../aspose.gis/abstractpath/delete)() | Löscht eine Datei, auf die dieser Pfad zeigt. |
-| [GetExtension](../../aspose.gis/abstractpath/getextension)() | Gibt die Erweiterung davon zurück[`AbstractPath`](../abstractpath) . |
-| [GetFileName](../../aspose.gis/abstractpath/getfilename)() | Gibt den Dateinamen und die Erweiterung davon zurück[`AbstractPath`](../abstractpath) . |
-| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension)() | Gibt den Dateinamen davon zurück[`AbstractPath`](../abstractpath) ohne die Erweiterung. |
-| abstract [IsFile](../../aspose.gis/abstractpath/isfile)() | Ruft einen Wert ab, der angibt, ob dieser Pfad auf eine vorhandene Datei verweist, die zum Lesen geöffnet werden kann. |
-| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory)() | Gibt darin befindliche Pfade zurück`AbstrakterPfad` , wenn es sich um ein Verzeichnis handelt. |
-| abstract [Open](../../aspose.gis/abstractpath/open)(FileAccess) | Öffnet dies`AbstrakterPfad`als Datei. |
-| virtual [WithExtension](../../aspose.gis/abstractpath/withextension)(string) | Gibt eine neue zurück[`AbstractPath`](../abstractpath) mit der Dateierweiterung auf den angegebenen Wert geändert. |
+| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath/)(string) | Erstellt eine`AbstractPath` das einen Speicherort im lokalen Dateisystem darstellt. |
+| static [FromStream](../../aspose.gis/abstractpath/fromstream/)(Stream) | Erstellt eine`AbstractPath` von einemStream . |
+| virtual [Combine](../../aspose.gis/abstractpath/combine/)(string) | Kombiniert dies`AbstractPath` mit angegebenen Pfadkomponenten. |
+| abstract [Delete](../../aspose.gis/abstractpath/delete/)() | Löscht eine Datei, auf die dieser Pfad zeigt. |
+| [GetExtension](../../aspose.gis/abstractpath/getextension/)() | Gibt die Erweiterung davon zurück`AbstractPath` . |
+| [GetFileName](../../aspose.gis/abstractpath/getfilename/)() | Gibt den Dateinamen und die Erweiterung davon zurück`AbstractPath` . |
+| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension/)() | Gibt den Dateinamen davon zurück`AbstractPath` ohne die Erweiterung. |
+| abstract [IsFile](../../aspose.gis/abstractpath/isfile/)() | Ruft einen Wert ab, der angibt, ob dieser Pfad auf eine vorhandene Datei verweist, die zum Lesen geöffnet werden kann. |
+| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory/)() | Gibt darin befindliche Pfade zurück`AbstrakterPfad` , wenn es sich um ein Verzeichnis handelt. |
+| abstract [Open](../../aspose.gis/abstractpath/open/)(FileAccess) | Öffnet dies`AbstrakterPfad`als Datei. |
+| virtual [WithExtension](../../aspose.gis/abstractpath/withextension/)(string) | Gibt eine neue zurück`AbstractPath` mit der Dateierweiterung auf den angegebenen Wert geändert. |
 
 ### Bemerkungen
 
@@ -43,7 +43,7 @@ Ein`AbstrakterPfad` kann einen Speicherort in einem lokalen Dateisystem, einen S
 
 ### Siehe auch
 
-* namensraum [Aspose.Gis](../../aspose.gis)
+* namensraum [Aspose.Gis](../../aspose.gis/)
 * Montage [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

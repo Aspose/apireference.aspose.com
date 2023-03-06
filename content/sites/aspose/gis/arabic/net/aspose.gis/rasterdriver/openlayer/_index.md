@@ -1,14 +1,14 @@
 ---
-title: OpenLayer
+title: RasterDriver.OpenLayer
 second_title: Aspose.GIS لمرجع .NET API
-description: يفتح طبقة القراءة .
+description: RasterDriver طريقة. يفتح الطبقة للقراءة .
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/rasterdriver/openlayer/
 ---
 ## OpenLayer(AbstractPath, RasterDriverOptions) {#openlayer_1}
 
-يفتح طبقة القراءة .
+يفتح الطبقة للقراءة .
 
 ```csharp
 public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions options)
@@ -21,7 +21,7 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### قيمة الإرجاع
 
-مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
@@ -30,22 +30,22 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 | ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
 | ArgumentNullException | الطريق`null`. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح طبقات البيانات النقطية (انظر[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | لا يمكن للسائق فتح طبقات البيانات النقطية (انظر[`CanOpenLayers`](../canopenlayers/)). |
 
 ### أنظر أيضا
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* مساحة الاسم [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* مساحة الاسم [Aspose.Gis](../../rasterdriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(string) {#openlayer_2}
 
-يفتح طبقة القراءة .
+يفتح الطبقة للقراءة .
 
 ```csharp
 public RasterLayer OpenLayer(string path)
@@ -57,7 +57,7 @@ public RasterLayer OpenLayer(string path)
 
 ### قيمة الإرجاع
 
-مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
@@ -65,20 +65,20 @@ public RasterLayer OpenLayer(string path)
 | --- | --- |
 | ArgumentNullException | الطريق`null`. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح طبقات البيانات النقطية (انظر[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | لا يمكن للسائق فتح طبقات البيانات النقطية (انظر[`CanOpenLayers`](../canopenlayers/)). |
 
 ### أنظر أيضا
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriver](../../rasterdriver)
-* مساحة الاسم [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriver](../)
+* مساحة الاسم [Aspose.Gis](../../rasterdriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath) {#openlayer}
 
-يفتح طبقة القراءة .
+يفتح الطبقة للقراءة .
 
 ```csharp
 public RasterLayer OpenLayer(AbstractPath path)
@@ -90,7 +90,7 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 ### قيمة الإرجاع
 
-مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
@@ -98,21 +98,21 @@ public RasterLayer OpenLayer(AbstractPath path)
 | --- | --- |
 | ArgumentNullException | الطريق`null`. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح طبقات البيانات النقطية (انظر[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | لا يمكن للسائق فتح طبقات البيانات النقطية (انظر[`CanOpenLayers`](../canopenlayers/)). |
 
 ### أنظر أيضا
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriver](../../rasterdriver)
-* مساحة الاسم [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriver](../)
+* مساحة الاسم [Aspose.Gis](../../rasterdriver/)
 * المجسم [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(string, RasterDriverOptions) {#openlayer_3}
 
-يفتح طبقة القراءة .
+يفتح الطبقة للقراءة .
 
 ```csharp
 public RasterLayer OpenLayer(string path, RasterDriverOptions options)
@@ -125,7 +125,7 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 
 ### قيمة الإرجاع
 
-مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
@@ -134,14 +134,14 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 | ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
 | ArgumentNullException | الطريق`null`. |
 | IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح طبقات البيانات النقطية (انظر[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | لا يمكن للسائق فتح طبقات البيانات النقطية (انظر[`CanOpenLayers`](../canopenlayers/)). |
 
 ### أنظر أيضا
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* مساحة الاسم [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* مساحة الاسم [Aspose.Gis](../../rasterdriver/)
 * المجسم [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

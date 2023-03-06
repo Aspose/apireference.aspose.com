@@ -1,7 +1,7 @@
 ---
-title: AbstractPath
+title: Class AbstractPath
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Unruta abstracta es una clase base para clases que especifican una ubicación única en un entorno similar a un sistema de archivos como un sistema de archivos local un almacenamiento de archivos remoto o un archivo ZIP entre otros.
+description: Aspose.Gis.AbstractPath clase. Unruta abstracta es una clase base para clases que especifican una ubicación única en un entorno similar a un sistema de archivos como un sistema de archivos local un almacenamiento de archivos remoto o un archivo ZIP entre otros.
 type: docs
 weight: 10
 url: /es/net/aspose.gis/abstractpath/
@@ -18,24 +18,24 @@ public abstract class AbstractPath
 
 | Nombre | Descripción |
 | --- | --- |
-| abstract [Location](../../aspose.gis/abstractpath/location) { get; } | Obtiene una representación de cadena de la ubicación de este`ruta abstracta` . |
-| abstract [Separator](../../aspose.gis/abstractpath/separator) { get; } | Obtiene un carácter separador que se usa para separar los niveles de directorio del[`Location`](./location) cuerda. |
+| abstract [Location](../../aspose.gis/abstractpath/location/) { get; } | Obtiene una representación de cadena de la ubicación de este`ruta abstracta` . |
+| abstract [Separator](../../aspose.gis/abstractpath/separator/) { get; } | Obtiene un carácter separador que se usa para separar los niveles de directorio del[`Location`](./location/) cadena. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath)(string) | Crea un[`AbstractPath`](../abstractpath) que representa una ubicación en el sistema de archivos local. |
-| static [FromStream](../../aspose.gis/abstractpath/fromstream)(Stream) | Crea un[`AbstractPath`](../abstractpath) a partir de unaStream . |
-| virtual [Combine](../../aspose.gis/abstractpath/combine)(string) | Combina esto[`AbstractPath`](../abstractpath) con componentes de ruta especificados. |
-| abstract [Delete](../../aspose.gis/abstractpath/delete)() | Elimina un archivo al que apunta esta ruta. |
-| [GetExtension](../../aspose.gis/abstractpath/getextension)() | Devuelve la extensión de este[`AbstractPath`](../abstractpath) . |
-| [GetFileName](../../aspose.gis/abstractpath/getfilename)() | Devuelve el nombre del archivo y la extensión de este[`AbstractPath`](../abstractpath) . |
-| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension)() | Devuelve el nombre de archivo de este[`AbstractPath`](../abstractpath) sin la extensión. |
-| abstract [IsFile](../../aspose.gis/abstractpath/isfile)() | Obtiene un valor que indica si esta ruta apunta a un archivo existente que se puede abrir para lectura. |
-| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory)() | Devuelve las rutas ubicadas dentro de este`ruta abstracta` , si es un directorio. |
-| abstract [Open](../../aspose.gis/abstractpath/open)(FileAccess) | Abre esto`ruta abstracta`como archivo. |
-| virtual [WithExtension](../../aspose.gis/abstractpath/withextension)(string) | Devuelve un nuevo[`AbstractPath`](../abstractpath) con la extensión del archivo cambiada al valor especificado. |
+| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath/)(string) | Crea un`AbstractPath` que representa una ubicación en el sistema de archivos local. |
+| static [FromStream](../../aspose.gis/abstractpath/fromstream/)(Stream) | Crea un`AbstractPath` a partir de unaStream . |
+| virtual [Combine](../../aspose.gis/abstractpath/combine/)(string) | Combina esto`AbstractPath` con componentes de ruta especificados. |
+| abstract [Delete](../../aspose.gis/abstractpath/delete/)() | Elimina un archivo al que apunta esta ruta. |
+| [GetExtension](../../aspose.gis/abstractpath/getextension/)() | Devuelve la extensión de este`AbstractPath` . |
+| [GetFileName](../../aspose.gis/abstractpath/getfilename/)() | Devuelve el nombre del archivo y la extensión de este`AbstractPath` . |
+| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension/)() | Devuelve el nombre de archivo de este`AbstractPath` sin la extensión. |
+| abstract [IsFile](../../aspose.gis/abstractpath/isfile/)() | Obtiene un valor que indica si esta ruta apunta a un archivo existente que se puede abrir para lectura. |
+| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory/)() | Devuelve las rutas ubicadas dentro de este`ruta abstracta` , si es un directorio. |
+| abstract [Open](../../aspose.gis/abstractpath/open/)(FileAccess) | Abre esto`ruta abstracta`como archivo. |
+| virtual [WithExtension](../../aspose.gis/abstractpath/withextension/)(string) | Devuelve un nuevo`AbstractPath` con la extensión del archivo cambiada al valor especificado. |
 
 ### Observaciones
 
@@ -43,7 +43,7 @@ Un`ruta abstracta` puede especificar una ubicación en un sistema de archivos lo
 
 ### Ver también
 
-* espacio de nombres [Aspose.Gis](../../aspose.gis)
+* espacio de nombres [Aspose.Gis](../../aspose.gis/)
 * asamblea [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: OpenLayer
+title: FileDriver.OpenLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Открывает слой для чтения.
+description: FileDriver метод. Открывает слой для чтения.
 type: docs
 weight: 90
 url: /ru/net/aspose.gis/filedriver/openlayer/
@@ -20,22 +20,22 @@ public VectorLayer OpenLayer(string path)
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| [GisException](../../gisexception/) | Ошибка чтения функции из файла. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public VectorLayer OpenLayer(AbstractPath path)
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| [GisException](../../gisexception/) | Ошибка чтения функции из файла. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
@@ -98,16 +98,16 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| [GisException](../../gisexception/) | Ошибка чтения функции из файла. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
@@ -135,17 +135,17 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 | --- | --- |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка чтения функции из файла. |
+| [GisException](../../gisexception/) | Ошибка чтения функции из файла. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Драйвер не может открывать векторные слои (см.[`CanOpenLayers`](../canopenlayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

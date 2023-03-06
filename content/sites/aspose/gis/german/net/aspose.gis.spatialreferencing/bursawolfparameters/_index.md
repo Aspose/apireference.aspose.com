@@ -1,9 +1,9 @@
 ---
-title: BursaWolfParameters
+title: Class BursaWolfParameters
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Klasse die Parameter der BursaWolfFormel enthält um sie in ein anderes Datum umzuwandeln.
+description: Aspose.Gis.SpatialReferencing.BursaWolfParameters klas. Klasse die Parameter der BursaWolfFormel enthält um sie in ein anderes Datum umzuwandeln.
 type: docs
-weight: 1950
+weight: 2050
 url: /de/net/aspose.gis.spatialreferencing/bursawolfparameters/
 ---
 ## BursaWolfParameters class
@@ -18,36 +18,36 @@ public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 
 | Name | Beschreibung |
 | --- | --- |
-| [BursaWolfParameters](bursawolfparameters#constructor)(double, double, double) | Erstellt eine neue Instanz von[`BursaWolfParameters`](../bursawolfparameters) . |
-| [BursaWolfParameters](bursawolfparameters#constructor_1)(double, double, double, double, double, double, double) | Erstellt eine neue Instanz von[`BursaWolfParameters`](../bursawolfparameters) . |
+| [BursaWolfParameters](bursawolfparameters/#constructor)(double, double, double) | Erstellt eine neue Instanz von`BursaWolfParameters` . |
+| [BursaWolfParameters](bursawolfparameters/#constructor_1)(double, double, double, double, double, double, double) | Erstellt eine neue Instanz von`BursaWolfParameters` . |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| static [Null](../../aspose.gis.spatialreferencing/bursawolfparameters/null) { get; } | Sonderwert, der angibt, dass Parameter unbekannt sind. |
-| [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx) { get; } | Dx in Metern. |
-| [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy) { get; } | Dy in Metern. |
-| [Dz](../../aspose.gis.spatialreferencing/bursawolfparameters/dz) { get; } | Dz in Metern. |
-| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull) { get; } | Bestimmen Sie, ob diese Instanz ist[`Null`](./null) . |
-| [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx) { get; } | Rx in Sekunden. |
-| [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry) { get; } | Ry in Sekunden. |
-| [Rz](../../aspose.gis.spatialreferencing/bursawolfparameters/rz) { get; } | Rz in Sekunden. |
-| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale) { get; } | Skalierung in Teilen pro Million. |
+| static [Null](../../aspose.gis.spatialreferencing/bursawolfparameters/null/) { get; } | Sonderwert, der angibt, dass Parameter unbekannt sind. |
+| [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx/) { get; } | Dx in Metern. |
+| [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy/) { get; } | Dy in Metern. |
+| [Dz](../../aspose.gis.spatialreferencing/bursawolfparameters/dz/) { get; } | Dz in Metern. |
+| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull/) { get; } | Bestimmen Sie, ob diese Instanz ist[`Null`](./null/) . |
+| [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx/) { get; } | Rx in Sekunden. |
+| [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry/) { get; } | Ry in Sekunden. |
+| [Rz](../../aspose.gis.spatialreferencing/bursawolfparameters/rz/) { get; } | Rz in Sekunden. |
+| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale/) { get; } | Skalierung in Teilen pro Million. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals#equals)(BursaWolfParameters) | Gibt an, ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist. |
-| override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals#equals_1)(object) | Bestimmt, ob das angegebene Objekt gleich dem aktuellen Objekt ist. |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode)() | Dient als Standard-Hash-Funktion. |
-| [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality) | Implementiert den Operator ==. |
-| [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality) | Implementiert den Operator !=. |
+| [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals)(BursaWolfParameters) | Gibt an, ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist. |
+| override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals_1)(object) | Bestimmt, ob das angegebene Objekt gleich dem aktuellen Objekt ist. |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/)() | Dient als Standard-Hash-Funktion. |
+| [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality/) | Implementiert den Operator ==. |
+| [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality/) | Implementiert den Operator !=. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing)
+* namensraum [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
 * Montage [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

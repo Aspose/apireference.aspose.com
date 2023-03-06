@@ -1,14 +1,14 @@
 ---
-title: GetValueOrDefault
+title: Feature.GetValueOrDefault
 second_title: Aspose.GIS for .NET API Referansı
-description: Bir özniteliğin değerini alır veyaDefaultValueaspose.gis/featureattribute/defaultvalue değer ayarlanmamışsa veyahükümsüz .
+description: Feature yöntem. Bir özelliğin değerini alır veyaDefaultValue değer ayarlanmamışsa veyahükümsüz .
 type: docs
 weight: 40
 url: /tr/net/aspose.gis/feature/getvalueordefault/
 ---
 ## GetValueOrDefault&lt;T&gt;(string) {#getvalueordefault_1}
 
-Bir özniteliğin değerini alır veya[`DefaultValue`](../../featureattribute/defaultvalue) değer ayarlanmamışsa veya`hükümsüz` .
+Bir özelliğin değerini alır veya[`DefaultValue`](../../featureattribute/defaultvalue/) değer ayarlanmamışsa veya`hükümsüz` .
 
 ```csharp
 public T GetValueOrDefault<T>(string attributeName)
@@ -27,10 +27,10 @@ public T GetValueOrDefault<T>(string attributeName)
 
 | istisna | şart |
 | --- | --- |
-| ArgumentNullException | Özellik adı`null`. |
-| ArgumentException | Bu ada sahip öznitelik bu katmanda mevcut değil. |
-| InvalidOperationException | Özellik kilitli değil. |
-| InvalidOperationException | Bu özelliğin değeri bu özellik için ayarlanmamıştır. |
+| ArgumentNullException | öznitelik adı`null`. |
+| ArgumentException | Bu ada sahip özellik bu katmanda mevcut değil. |
+| InvalidOperationException | Öznitelik kilitli değil. |
+| InvalidOperationException | Bu özelliğin değeri, bu özellik için ayarlanmadı. |
 | InvalidCastException | İstenen tür uygulanmıyorIConvertible. |
 | InvalidCastException | Özelliğin değeri:`null`, ancak istenen tür bir değer türüdür. |
 | FormatException | Değer yanlış biçimde olduğundan dönüştürme başarısız oldu. |
@@ -42,15 +42,15 @@ Bu yöntem, değeri otomatik olarak genel tür parametresinde istenen türe dön
 
 ### Ayrıca bakınız
 
-* class [Feature](../../feature)
-* ad alanı [Aspose.Gis](../../feature)
+* class [Feature](../)
+* ad alanı [Aspose.Gis](../../feature/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## GetValueOrDefault(string, object) {#getvalueordefault}
 
-Bir özniteliğin değerini alır veya[`DefaultValue`](../../featureattribute/defaultvalue) değer ayarlanmamışsa veya`hükümsüz` .
+Bir özelliğin değerini alır veya[`DefaultValue`](../../featureattribute/defaultvalue/) değer ayarlanmamışsa veya`hükümsüz` .
 
 ```csharp
 public object GetValueOrDefault(string attributeName, object defaultValue = null)
@@ -59,7 +59,7 @@ public object GetValueOrDefault(string attributeName, object defaultValue = null
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | attributeName | String | Özelliğin adı. |
-| defaultValue | Object | Öznitelik değeri eksikse döndürülecek değer. Varsayılan değer`null` . |
+| defaultValue | Object | Öznitelik değeri eksikse döndürülecek değer. Varsayılan değer:`null` . |
 
 ### Geri dönüş değeri
 
@@ -69,22 +69,22 @@ public object GetValueOrDefault(string attributeName, object defaultValue = null
 
 | istisna | şart |
 | --- | --- |
-| ArgumentNullException | Özellik adı`null`. |
-| ArgumentException | Bu ada sahip öznitelik bu katmanda mevcut değil. |
-| InvalidOperationException | Özellik kilitli değil. |
-| InvalidOperationException | Bu özelliğin değeri bu özellik için ayarlanmamıştır. |
+| ArgumentNullException | öznitelik adı`null`. |
+| ArgumentException | Bu ada sahip özellik bu katmanda mevcut değil. |
+| InvalidOperationException | Öznitelik kilitli değil. |
+| InvalidOperationException | Bu özelliğin değeri, bu özellik için ayarlanmadı. |
 
 ### Ayrıca bakınız
 
-* class [Feature](../../feature)
-* ad alanı [Aspose.Gis](../../feature)
+* class [Feature](../)
+* ad alanı [Aspose.Gis](../../feature/)
 * toplantı [Aspose.GIS](../../../)
 
 ---
 
 ## GetValueOrDefault&lt;T&gt;(string, object) {#getvalueordefault_2}
 
-Bir özniteliğin değerini alır veya[`DefaultValue`](../../featureattribute/defaultvalue) değer ayarlanmamışsa veya`hükümsüz` .
+Bir özelliğin değerini alır veya[`DefaultValue`](../../featureattribute/defaultvalue/) değer ayarlanmamışsa veya`hükümsüz` .
 
 ```csharp
 public T GetValueOrDefault<T>(string attributeName, object defaultValue)
@@ -104,10 +104,10 @@ public T GetValueOrDefault<T>(string attributeName, object defaultValue)
 
 | istisna | şart |
 | --- | --- |
-| ArgumentNullException | Özellik adı`null`. |
-| ArgumentException | Bu ada sahip öznitelik bu katmanda mevcut değil. |
-| InvalidOperationException | Özellik kilitli değil. |
-| InvalidOperationException | Bu özelliğin değeri bu özellik için ayarlanmamıştır. |
+| ArgumentNullException | öznitelik adı`null`. |
+| ArgumentException | Bu ada sahip özellik bu katmanda mevcut değil. |
+| InvalidOperationException | Öznitelik kilitli değil. |
+| InvalidOperationException | Bu özelliğin değeri, bu özellik için ayarlanmadı. |
 | InvalidCastException | İstenen tür uygulanmıyorIConvertible. |
 | InvalidCastException | Özelliğin değeri:`null`, ancak istenen tür bir değer türüdür. |
 | FormatException | Değer yanlış biçimde olduğundan dönüştürme başarısız oldu. |
@@ -119,8 +119,8 @@ Bu yöntem, değeri otomatik olarak genel tür parametresinde istenen türe dön
 
 ### Ayrıca bakınız
 
-* class [Feature](../../feature)
-* ad alanı [Aspose.Gis](../../feature)
+* class [Feature](../)
+* ad alanı [Aspose.Gis](../../feature/)
 * toplantı [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

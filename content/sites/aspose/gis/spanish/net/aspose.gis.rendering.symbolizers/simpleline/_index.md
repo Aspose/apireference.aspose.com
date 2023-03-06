@@ -1,9 +1,9 @@
 ---
-title: SimpleLine
+title: Class SimpleLine
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Simbolizador de línea simple.
+description: Aspose.Gis.Rendering.Symbolizers.SimpleLine clase. Simbolizador de línea simple.
 type: docs
-weight: 1850
+weight: 1950
 url: /es/net/aspose.gis.rendering.symbolizers/simpleline/
 ---
 ## SimpleLine class
@@ -18,33 +18,33 @@ public class SimpleLine : VectorSymbolizer
 
 | Nombre | Descripción |
 | --- | --- |
-| [SimpleLine](simpleline#constructor)() | Crea nueva instancia. |
-| [SimpleLine](simpleline#constructor_1)(SimpleLine) | Inicializa una nueva instancia del[`SimpleLine`](../simpleline) clase. |
+| [SimpleLine](simpleline/#constructor)() | Crea nueva instancia. |
+| [SimpleLine](simpleline/#constructor_1)(SimpleLine) | Inicializa una nueva instancia del`SimpleLine` clase. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [CapStyle](../../aspose.gis.rendering.symbolizers/simpleline/capstyle) { get; set; } | Especifica cómo se representan las líneas en sus extremos. |
-| [Color](../../aspose.gis.rendering.symbolizers/simpleline/color) { get; set; } | Especifica el color y la transparencia dados a la línea. |
-| [DashOffset](../../aspose.gis.rendering.symbolizers/simpleline/dashoffset) { get; set; } | Especifica la distancia desde el comienzo de una línea hasta el comienzo de un patrón de guiones. |
-| [DashPattern](../../aspose.gis.rendering.symbolizers/simpleline/dashpattern) { get; set; } | Especifica una matriz de distancias que especifica las longitudes de guiones y espacios alternos en líneas discontinuas. |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simpleline/featurebasedconfiguration) { get; set; } | Una devolución de llamada que se usa para configurar este símbolo antes de representar una característica. |
-| [LineJoin](../../aspose.gis.rendering.symbolizers/simpleline/linejoin) { get; set; } | Determina cómo se representan las líneas en la intersección de los segmentos de línea. |
-| [Offset](../../aspose.gis.rendering.symbolizers/simpleline/offset) { get; set; } | Especifica el desplazamiento desde la línea original. Para una distancia positiva, el desplazamiento estará en el lado izquierdo de la línea de entrada (en relación con la dirección de la línea). Para una distancia negativa, estará en el lado derecho. |
-| [Style](../../aspose.gis.rendering.symbolizers/simpleline/style) { get; set; } | Especifica cómo deben dibujarse las líneas del símbolo. |
-| [Width](../../aspose.gis.rendering.symbolizers/simpleline/width) { get; set; } | Especifica el ancho de la línea. |
+| [CapStyle](../../aspose.gis.rendering.symbolizers/simpleline/capstyle/) { get; set; } | Especifica cómo se representan las líneas en sus extremos. |
+| [Color](../../aspose.gis.rendering.symbolizers/simpleline/color/) { get; set; } | Especifica el color y la transparencia dados a la línea. |
+| [DashOffset](../../aspose.gis.rendering.symbolizers/simpleline/dashoffset/) { get; set; } | Especifica la distancia desde el comienzo de una línea hasta el comienzo de un patrón de guiones. |
+| [DashPattern](../../aspose.gis.rendering.symbolizers/simpleline/dashpattern/) { get; set; } | Especifica una matriz de distancias que especifica las longitudes de guiones y espacios alternos en líneas discontinuas. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simpleline/featurebasedconfiguration/) { get; set; } | Una devolución de llamada que se usa para configurar este símbolo antes de representar una característica. |
+| [LineJoin](../../aspose.gis.rendering.symbolizers/simpleline/linejoin/) { get; set; } | Determina cómo se representan las líneas en la intersección de los segmentos de línea. |
+| [Offset](../../aspose.gis.rendering.symbolizers/simpleline/offset/) { get; set; } | Especifica el desplazamiento desde la línea original. Para una distancia positiva, el desplazamiento estará en el lado izquierdo de la línea de entrada (en relación con la dirección de la línea). Para una distancia negativa, estará en el lado derecho. |
+| [Style](../../aspose.gis.rendering.symbolizers/simpleline/style/) { get; set; } | Especifica cómo deben dibujarse las líneas del símbolo. |
+| [Width](../../aspose.gis.rendering.symbolizers/simpleline/width/) { get; set; } | Especifica el ancho de la línea. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Clone](../../aspose.gis.rendering.symbolizers/simpleline/clone)() | Clona esta instancia. |
+| [Clone](../../aspose.gis.rendering.symbolizers/simpleline/clone/)() | Clona esta instancia. |
 
 ### Ver también
 
-* class [VectorSymbolizer](../vectorsymbolizer)
-* espacio de nombres [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers)
+* class [VectorSymbolizer](../vectorsymbolizer/)
+* espacio de nombres [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
 * asamblea [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

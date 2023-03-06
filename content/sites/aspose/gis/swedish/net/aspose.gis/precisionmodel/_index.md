@@ -1,14 +1,14 @@
 ---
-title: PrecisionModel
+title: Class PrecisionModel
 second_title: Aspose.GIS för .NET API Referens
-description: PrecisionModel./precisionmodel anger ett antal signifikanta siffror i en koordinat.
+description: Aspose.Gis.PrecisionModel klass. PrecisionModel anger ett antal signifikanta siffror i en koordinat.
 type: docs
-weight: 1210
+weight: 1310
 url: /sv/net/aspose.gis/precisionmodel/
 ---
 ## PrecisionModel class
 
-[`PrecisionModel`](../precisionmodel) anger ett antal signifikanta siffror i en koordinat.
+`PrecisionModel` anger ett antal signifikanta siffror i en koordinat.
 
 ```csharp
 public abstract class PrecisionModel : IEquatable<PrecisionModel>
@@ -18,32 +18,32 @@ public abstract class PrecisionModel : IEquatable<PrecisionModel>
 
 | namn | Beskrivning |
 | --- | --- |
-| static [Exact](../../aspose.gis/precisionmodel/exact) { get; } | Returnerar en exakt precisionsmodell. Enligt exakt precisionsmodell är alla siffror i ett dubbelvärde signifikanta. |
-| [IsExact](../../aspose.gis/precisionmodel/isexact) { get; } | Får ett värde som indikerar om denna precisionsmodell är exakt. |
-| [IsRounding](../../aspose.gis/precisionmodel/isrounding) { get; } | Får ett värde som indikerar om denna precisionsmodell är avrundning. |
-| abstract [SignificantDigits](../../aspose.gis/precisionmodel/significantdigits) { get; } | Får ett antal signifikanta siffror i en precisionsmodell om den är avrundad. |
+| static [Exact](../../aspose.gis/precisionmodel/exact/) { get; } | Returnerar en exakt precisionsmodell. Enligt exakt precisionsmodell är alla siffror i ett dubbelvärde signifikanta. |
+| [IsExact](../../aspose.gis/precisionmodel/isexact/) { get; } | Får ett värde som indikerar om denna precisionsmodell är exakt. |
+| [IsRounding](../../aspose.gis/precisionmodel/isrounding/) { get; } | Får ett värde som indikerar om denna precisionsmodell är avrundning. |
+| abstract [SignificantDigits](../../aspose.gis/precisionmodel/significantdigits/) { get; } | Får ett antal signifikanta siffror i en precisionsmodell om den är avrundad. |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| static [Rounding](../../aspose.gis/precisionmodel/rounding)(int) | Returnerar en avrundningsprecisionsmodell. Enligt avrundningsprecisionsmodellen är endast ett begränsat antal siffror signifikanta. |
-| override [Equals](../../aspose.gis/precisionmodel/equals#equals_1)(object) | Anger om det aktuella objektet är lika med ett annat objekt av samma typ. |
-| [Equals](../../aspose.gis/precisionmodel/equals#equals)(PrecisionModel) | Anger om det aktuella objektet är lika med ett annat objekt av samma typ. |
-| override [GetHashCode](../../aspose.gis/precisionmodel/gethashcode)() | Fungerar som standard hash-funktion. |
-| [operator ==](../../aspose.gis/precisionmodel/op_equality) | Implementerar operatorn ==. |
-| [operator !=](../../aspose.gis/precisionmodel/op_inequality) | Implementerar operatorn !=. |
+| static [Rounding](../../aspose.gis/precisionmodel/rounding/)(int) | Returnerar en avrundningsprecisionsmodell. Enligt avrundningsprecisionsmodellen är endast ett begränsat antal siffror signifikanta. |
+| override [Equals](../../aspose.gis/precisionmodel/equals/#equals_1)(object) | Anger om det aktuella objektet är lika med ett annat objekt av samma typ. |
+| [Equals](../../aspose.gis/precisionmodel/equals/#equals)(PrecisionModel) | Anger om det aktuella objektet är lika med ett annat objekt av samma typ. |
+| override [GetHashCode](../../aspose.gis/precisionmodel/gethashcode/)() | Fungerar som standard hash-funktion. |
+| [operator ==](../../aspose.gis/precisionmodel/op_equality/) | Implementerar operatorn ==. |
+| [operator !=](../../aspose.gis/precisionmodel/op_inequality/) | Implementerar operatorn !=. |
 
 ### Anmärkningar
 
-Det finns två typer av PrecisionModel:  Exakt[`PrecisionModel`](../precisionmodel) (alla siffror är signifikanta); Avrundad[`PrecisionModel`](../precisionmodel) (något antal siffror är signifikanta). A[`PrecisionModel`](../precisionmodel) kan ställas in på[`VectorLayer`](../vectorlayer) via[`DriverOptions`](../driveroptions) för att runda koordinater när man skriver eller läser geometrier.
+Det finns två typer av PrecisionModel:  Exakt`PrecisionModel` (alla siffror är signifikanta); Avrundad`PrecisionModel` (något antal siffror är signifikanta). A`PrecisionModel` kan ställas in på[`VectorLayer`](../vectorlayer/) via[`DriverOptions`](../driveroptions/) för att runda koordinater när man skriver eller läser geometrier.
 
 ### Se även
 
-* property [XYPrecisionModel](../driveroptions/xyprecisionmodel)
-* property [ZPrecisionModel](../driveroptions/zprecisionmodel)
-* property [MPrecisionModel](../driveroptions/mprecisionmodel)
-* namnutrymme [Aspose.Gis](../../aspose.gis)
+* property [XYPrecisionModel](../driveroptions/xyprecisionmodel/)
+* property [ZPrecisionModel](../driveroptions/zprecisionmodel/)
+* property [MPrecisionModel](../driveroptions/mprecisionmodel/)
+* namnutrymme [Aspose.Gis](../../aspose.gis/)
 * hopsättning [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

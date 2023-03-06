@@ -1,7 +1,7 @@
 ---
-title: CreateLayer
+title: FileDriver.CreateLayer
 second_title: Aspose.GIS für .NET-API-Referenz
-description: Erstellt die Ebene und öffnet sie zum Anhängen.
+description: FileDriver methode. Erstellt die Ebene und öffnet sie zum Anhängen.
 type: docs
 weight: 60
 url: /de/net/aspose.gis/filedriver/createlayer/
@@ -20,22 +20,22 @@ public VectorLayer CreateLayer(string path)
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Schreiben des Features in die Datei. |
+| [GisException](../../gisexception/) | Fehler beim Schreiben des Features in die Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public VectorLayer CreateLayer(AbstractPath path)
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Schreiben des Features in die Datei. |
+| [GisException](../../gisexception/) | Fehler beim Schreiben des Features in die Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
@@ -98,16 +98,16 @@ Eine Instanz von[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
-| [GisException](../../gisexception) | Fehler beim Schreiben des Features in die Datei. |
+| [GisException](../../gisexception/) | Fehler beim Schreiben des Features in die Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
@@ -135,17 +135,17 @@ Eine Instanz von[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
-| [GisException](../../gisexception) | Fehler beim Schreiben des Features in die Datei. |
+| [GisException](../../gisexception/) | Fehler beim Schreiben des Features in die Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -165,23 +165,23 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Schreiben des Features in die Datei. |
+| [GisException](../../gisexception/) | Fehler beim Schreiben des Features in die Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Raumbezugssystem wird vom Treiber nicht unterstützt. Verwendung[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) um zu prüfen, ob das Raumbezugssystem unterstützt wird. |
+| NotSupportedException | Raumbezugssystem wird vom Treiber nicht unterstützt. Verwendung[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) um zu prüfen, ob das Raumbezugssystem unterstützt wird. |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -201,24 +201,24 @@ public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatial
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
-| [GisException](../../gisexception) | Fehler beim Schreiben des Features in die Datei. |
+| [GisException](../../gisexception/) | Fehler beim Schreiben des Features in die Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Raumbezugssystem wird vom Treiber nicht unterstützt. Verwendung[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) um zu prüfen, ob das Raumbezugssystem unterstützt wird. |
+| NotSupportedException | Raumbezugssystem wird vom Treiber nicht unterstützt. Verwendung[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) um zu prüfen, ob das Raumbezugssystem unterstützt wird. |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -240,7 +240,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
@@ -248,18 +248,18 @@ Eine Instanz von[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
-| [GisException](../../gisexception) | Fehler beim Schreiben des Features in die Datei. |
+| [GisException](../../gisexception/) | Fehler beim Schreiben des Features in die Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Raumbezugssystem wird vom Treiber nicht unterstützt. Verwendung[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) um zu prüfen, ob das Raumbezugssystem unterstützt wird. |
-| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Raumbezugssystem wird vom Treiber nicht unterstützt. Verwendung[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) um zu prüfen, ob das Raumbezugssystem unterstützt wird. |
+| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
 ---
@@ -281,7 +281,7 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### Rückgabewert
 
-Eine Instanz von[`VectorLayer`](../../vectorlayer).
+Eine Instanz von[`VectorLayer`](../../vectorlayer/).
 
 ### Ausnahmen
 
@@ -289,19 +289,19 @@ Eine Instanz von[`VectorLayer`](../../vectorlayer).
 | --- | --- |
 | ArgumentNullException | Der Weg ist`null`. |
 | ArgumentException | Das Optionsobjekt hat einen falschen Typ für diesen Treiber. |
-| [GisException](../../gisexception) | Fehler beim Schreiben des Features in die Datei. |
+| [GisException](../../gisexception/) | Fehler beim Schreiben des Features in die Datei. |
 | IOException | Ein E/A-Fehler ist aufgetreten. |
-| NotSupportedException | Raumbezugssystem wird vom Treiber nicht unterstützt. Verwendung[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) um zu prüfen, ob das Raumbezugssystem unterstützt wird. |
-| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Raumbezugssystem wird vom Treiber nicht unterstützt. Verwendung[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) um zu prüfen, ob das Raumbezugssystem unterstützt wird. |
+| NotSupportedException | Der Treiber kann keine Vektorebenen erstellen (siehe[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Siehe auch
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* namensraum [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* namensraum [Aspose.Gis](../../filedriver/)
 * Montage [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

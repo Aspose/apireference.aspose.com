@@ -1,14 +1,14 @@
 ---
-title: Map
+title: Class Map
 second_title: Riferimento API Aspose.GIS per .NET
-description: Map è una raccolta di livelli che possono essere visualizzati uno sopra laltro tramiteRenderer./renderer .
+description: Aspose.Gis.Rendering.Map classe. Map è una raccolta di livelli che possono essere visualizzati uno sopra laltro tramiteRenderer .
 type: docs
-weight: 1620
+weight: 1720
 url: /it/net/aspose.gis.rendering/map/
 ---
 ## Map class
 
-Map è una raccolta di livelli che possono essere visualizzati uno sopra l'altro tramite[`Renderer`](../renderer) .
+Map è una raccolta di livelli che possono essere visualizzati uno sopra l'altro tramite[`Renderer`](../renderer/) .
 
 ```csharp
 public class Map : IDisposable, IReadOnlyList<MapLayer>
@@ -18,43 +18,43 @@ public class Map : IDisposable, IReadOnlyList<MapLayer>
 
 | Nome | Descrizione |
 | --- | --- |
-| [Map](map)(Measurement, Measurement) | Crea una nuova istanza di`Carta geografica` classe. |
+| [Map](map/)(Measurement, Measurement) | Crea una nuova istanza di`Carta geografica` classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [BackgroundColor](../../aspose.gis.rendering/map/backgroundcolor) { get; set; } | Colore di sfondo della mappa. L'impostazione predefinita èTransparent . |
-| [Count](../../aspose.gis.rendering/map/count) { get; } | Ottiene il numero di livelli nella mappa. |
-| [Extent](../../aspose.gis.rendering/map/extent) { get; set; } | Specifica i limiti della mappa di cui eseguire il rendering. Se impostato su`null` , l'estensione viene calcolata durante il rendering per includere tutte le geometrie in tutti i livelli. |
-| [Height](../../aspose.gis.rendering/map/height) { get; set; } | Altezza visiva della mappa. |
-| [Item](../../aspose.gis.rendering/map/item) { get; } | Ottiene il livello in corrispondenza dell'indice specificato. |
-| [Padding](../../aspose.gis.rendering/map/padding) { get; set; } | Specifica il riempimento da aggiungere all'estensione. |
-| [Resolution](../../aspose.gis.rendering/map/resolution) { get; set; } | Risoluzione da utilizzare per eseguire il rendering di questa mappa e per convertirla[`Measurement`](../measurement) . Il valore predefinito è 96. |
-| [SpatialReferenceSystem](../../aspose.gis.rendering/map/spatialreferencesystem) { get; set; } | [`SpatialReferenceSystem`](./spatialreferencesystem) della mappa. |
-| [Width](../../aspose.gis.rendering/map/width) { get; set; } | Larghezza visiva della mappa. |
+| [BackgroundColor](../../aspose.gis.rendering/map/backgroundcolor/) { get; set; } | Colore di sfondo della mappa. L'impostazione predefinita èTransparent . |
+| [Count](../../aspose.gis.rendering/map/count/) { get; } | Ottiene il numero di livelli nella mappa. |
+| [Extent](../../aspose.gis.rendering/map/extent/) { get; set; } | Specifica i limiti della mappa di cui eseguire il rendering. Se impostato su`null` , l'estensione viene calcolata durante il rendering per includere tutte le geometrie in tutti i layer. |
+| [Height](../../aspose.gis.rendering/map/height/) { get; set; } | Altezza visiva della mappa. |
+| [Item](../../aspose.gis.rendering/map/item/) { get; } | Ottiene il livello in corrispondenza dell'indice specificato. |
+| [Padding](../../aspose.gis.rendering/map/padding/) { get; set; } | Specifica il riempimento da aggiungere all'estensione. |
+| [Resolution](../../aspose.gis.rendering/map/resolution/) { get; set; } | Risoluzione da utilizzare per il rendering di questa mappa e per la conversione tra[`Measurement`](../measurement/) . Il valore predefinito è 96. |
+| [SpatialReferenceSystem](../../aspose.gis.rendering/map/spatialreferencesystem/) { get; set; } | [`SpatialReferenceSystem`](./spatialreferencesystem/) della mappa. |
+| [Width](../../aspose.gis.rendering/map/width/) { get; set; } | Ampiezza visiva della mappa. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Add](../../aspose.gis.rendering/map/add#add)(FeaturesSequence) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer) alla mappa. I livelli vengono visualizzati in ordine aggiuntivo. |
-| [Add](../../aspose.gis.rendering/map/add#add_4)(MapLayer) | Aggiunge un livello alla mappa. I livelli vengono visualizzati in ordine aggiuntivo. |
-| [Add](../../aspose.gis.rendering/map/add#add_1)(FeaturesSequence, VectorSymbolizer) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer) alla mappa. I livelli vengono visualizzati in ordine aggiuntivo. |
-| [Add](../../aspose.gis.rendering/map/add#add_7)(VectorLayer, bool) | Crea a[`VectorMapLayer`](../vectormaplayer) con il simbolizzatore predefinito e lo aggiunge alla mappa. I livelli vengono visualizzati in ordine aggiuntivo. |
-| [Add](../../aspose.gis.rendering/map/add#add_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer) alla mappa. I livelli vengono visualizzati in ordine aggiuntivo. |
-| [Add](../../aspose.gis.rendering/map/add#add_3)(RasterLayer, RasterColorizer, bool) | Crea a[`RasterMapLayer`](../rastermaplayer) con il colorizer predefinito e lo aggiunge alla mappa. |
-| [Add](../../aspose.gis.rendering/map/add#add_6)(VectorLayer, VectorSymbolizer, bool) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer) alla mappa. I livelli vengono visualizzati in ordine aggiuntivo. |
-| [Add](../../aspose.gis.rendering/map/add#add_5)(VectorLayer, VectorSymbolizer, Labeling, bool) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer) alla mappa. I livelli vengono visualizzati in ordine aggiuntivo. |
-| [Dispose](../../aspose.gis.rendering/map/dispose)() | Smaltisce le risorse. |
-| [GetEnumerator](../../aspose.gis.rendering/map/getenumerator)() | Restituisce un enumeratore che scorre i livelli nella mappa. |
-| [Render](../../aspose.gis.rendering/map/render#render)(AbstractPath, Renderer) | Rendering della mappa in un file. |
-| [Render](../../aspose.gis.rendering/map/render#render_1)(string, Renderer) | Rendering della mappa in un file. |
+| [Add](../../aspose.gis.rendering/map/add/#add)(FeaturesSequence) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer/) alla mappa. I livelli vengono renderizzati in ordine aggiuntivo. |
+| [Add](../../aspose.gis.rendering/map/add/#add_4)(MapLayer) | Aggiunge un livello alla mappa. I livelli vengono renderizzati in ordine aggiuntivo. |
+| [Add](../../aspose.gis.rendering/map/add/#add_1)(FeaturesSequence, VectorSymbolizer) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer/) alla mappa. I livelli vengono renderizzati in ordine aggiuntivo. |
+| [Add](../../aspose.gis.rendering/map/add/#add_7)(VectorLayer, bool) | Crea un[`VectorMapLayer`](../vectormaplayer/) con il simbolo predefinito e lo aggiunge alla mappa. I livelli vengono renderizzati in ordine aggiuntivo. |
+| [Add](../../aspose.gis.rendering/map/add/#add_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer/) alla mappa. I livelli vengono renderizzati in ordine aggiuntivo. |
+| [Add](../../aspose.gis.rendering/map/add/#add_3)(RasterLayer, RasterColorizer, bool) | Crea un[`RasterMapLayer`](../rastermaplayer/) con colorizer predefinito e lo aggiunge alla mappa. |
+| [Add](../../aspose.gis.rendering/map/add/#add_6)(VectorLayer, VectorSymbolizer, bool) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer/) alla mappa. I livelli vengono renderizzati in ordine aggiuntivo. |
+| [Add](../../aspose.gis.rendering/map/add/#add_5)(VectorLayer, VectorSymbolizer, Labeling, bool) | Crea e aggiunge a[`VectorMapLayer`](../vectormaplayer/) alla mappa. I livelli vengono renderizzati in ordine aggiuntivo. |
+| [Dispose](../../aspose.gis.rendering/map/dispose/)() | Smaltisce le risorse. |
+| [GetEnumerator](../../aspose.gis.rendering/map/getenumerator/)() | Restituisce un enumeratore che scorre i layer nella mappa. |
+| [Render](../../aspose.gis.rendering/map/render/#render)(AbstractPath, Renderer) | Visualizza la mappa in un file. |
+| [Render](../../aspose.gis.rendering/map/render/#render_1)(string, Renderer) | Visualizza la mappa in un file. |
 
 ### Guarda anche
 
-* class [MapLayer](../maplayer)
-* spazio dei nomi [Aspose.Gis.Rendering](../../aspose.gis.rendering)
+* class [MapLayer](../maplayer/)
+* spazio dei nomi [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
 * assemblea [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

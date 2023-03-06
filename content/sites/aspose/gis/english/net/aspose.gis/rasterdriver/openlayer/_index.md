@@ -1,12 +1,12 @@
 ---
-title: OpenLayer
+title: RasterDriver.OpenLayer
 second_title: Aspose.GIS for .NET API Reference
-description: 
+description: RasterDriver method. Opens the layer for reading.
 type: docs
 weight: 20
 url: /net/aspose.gis/rasterdriver/openlayer/
 ---
-## RasterDriver.OpenLayer method (1 of 4)
+## OpenLayer(AbstractPath, RasterDriverOptions) {#openlayer_1}
 
 Opens the layer for reading.
 
@@ -21,7 +21,7 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### Return Value
 
-An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Exceptions
 
@@ -30,20 +30,20 @@ An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open raster layers (see [`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Driver can not open raster layers (see [`CanOpenLayers`](../canopenlayers/)). |
 
 ### See Also
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* namespace [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* namespace [Aspose.Gis](../../rasterdriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## RasterDriver.OpenLayer method (2 of 4)
+## OpenLayer(string) {#openlayer_2}
 
 Opens the layer for reading.
 
@@ -57,7 +57,7 @@ public RasterLayer OpenLayer(string path)
 
 ### Return Value
 
-An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Exceptions
 
@@ -65,18 +65,18 @@ An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | The path is `null`. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open raster layers (see [`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Driver can not open raster layers (see [`CanOpenLayers`](../canopenlayers/)). |
 
 ### See Also
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriver](../../rasterdriver)
-* namespace [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriver](../)
+* namespace [Aspose.Gis](../../rasterdriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## RasterDriver.OpenLayer method (3 of 4)
+## OpenLayer(AbstractPath) {#openlayer}
 
 Opens the layer for reading.
 
@@ -90,7 +90,7 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 ### Return Value
 
-An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Exceptions
 
@@ -98,19 +98,19 @@ An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | --- | --- |
 | ArgumentNullException | The path is `null`. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open raster layers (see [`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Driver can not open raster layers (see [`CanOpenLayers`](../canopenlayers/)). |
 
 ### See Also
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [AbstractPath](../../abstractpath)
-* class [RasterDriver](../../rasterdriver)
-* namespace [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [RasterDriver](../)
+* namespace [Aspose.Gis](../../rasterdriver/)
 * assembly [Aspose.GIS](../../../)
 
 ---
 
-## RasterDriver.OpenLayer method (4 of 4)
+## OpenLayer(string, RasterDriverOptions) {#openlayer_3}
 
 Opens the layer for reading.
 
@@ -125,7 +125,7 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 
 ### Return Value
 
-An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
+An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### Exceptions
 
@@ -134,14 +134,14 @@ An instance of [`RasterLayer`](../../../aspose.gis.raster/rasterlayer).
 | ArgumentException | Options object has an incorrect type for this driver. |
 | ArgumentNullException | The path is `null`. |
 | IOException | An I/O error occurred. |
-| NotSupportedException | Driver can not open raster layers (see [`CanOpenLayers`](../canopenlayers)). |
+| NotSupportedException | Driver can not open raster layers (see [`CanOpenLayers`](../canopenlayers/)). |
 
 ### See Also
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterDriverOptions](../../rasterdriveroptions)
-* class [RasterDriver](../../rasterdriver)
-* namespace [Aspose.Gis](../../rasterdriver)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterDriverOptions](../../rasterdriveroptions/)
+* class [RasterDriver](../)
+* namespace [Aspose.Gis](../../rasterdriver/)
 * assembly [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

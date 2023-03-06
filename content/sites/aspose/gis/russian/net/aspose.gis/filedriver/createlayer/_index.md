@@ -1,7 +1,7 @@
 ---
-title: CreateLayer
+title: FileDriver.CreateLayer
 second_title: Справочник по Aspose.GIS for .NET API
-description: Создает слой и открывает его для добавления.
+description: FileDriver метод. Создает слой и открывает его для добавления.
 type: docs
 weight: 60
 url: /ru/net/aspose.gis/filedriver/createlayer/
@@ -20,22 +20,22 @@ public VectorLayer CreateLayer(string path)
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| [GisException](../../gisexception/) | Ошибка записи функции в файл. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -54,23 +54,23 @@ public VectorLayer CreateLayer(AbstractPath path)
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| [GisException](../../gisexception/) | Ошибка записи функции в файл. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -90,7 +90,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
@@ -98,16 +98,16 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| [GisException](../../gisexception/) | Ошибка записи функции в файл. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -127,7 +127,7 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
@@ -135,17 +135,17 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| [GisException](../../gisexception/) | Ошибка записи функции в файл. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -165,23 +165,23 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| [GisException](../../gisexception/) | Ошибка записи функции в файл. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) чтобы проверить, поддерживается ли система пространственной привязки. |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -201,24 +201,24 @@ public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatial
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
-| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| [GisException](../../gisexception/) | Ошибка записи функции в файл. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) чтобы проверить, поддерживается ли система пространственной привязки. |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -240,7 +240,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
@@ -248,18 +248,18 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| [GisException](../../gisexception/) | Ошибка записи функции в файл. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
-| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) чтобы проверить, поддерживается ли система пространственной привязки. |
+| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
 ---
@@ -281,7 +281,7 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### Возвращаемое значение
 
-Экземпляр[`VectorLayer`](../../vectorlayer).
+Экземпляр[`VectorLayer`](../../vectorlayer/).
 
 ### Исключения
 
@@ -289,19 +289,19 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | --- | --- |
 | ArgumentNullException | Путь`null`. |
 | ArgumentException | Объект параметров имеет неверный тип для этого драйвера. |
-| [GisException](../../gisexception) | Ошибка записи функции в файл. |
+| [GisException](../../gisexception/) | Ошибка записи функции в файл. |
 | IOException | Произошла ошибка ввода/вывода. |
-| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem) чтобы проверить, поддерживается ли система пространственной привязки. |
-| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers)). |
+| NotSupportedException | Пространственная система отсчета не поддерживается драйвером. Использование[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) чтобы проверить, поддерживается ли система пространственной привязки. |
+| NotSupportedException | Драйвер не может создавать векторные слои (см.[`CanCreateLayers`](../cancreatelayers/)). |
 
 ### Смотрите также
 
-* class [VectorLayer](../../vectorlayer)
-* class [AbstractPath](../../abstractpath)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [FileDriver](../../filedriver)
-* пространство имен [Aspose.Gis](../../filedriver)
+* class [VectorLayer](../../vectorlayer/)
+* class [AbstractPath](../../abstractpath/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [FileDriver](../)
+* пространство имен [Aspose.Gis](../../filedriver/)
 * сборка [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

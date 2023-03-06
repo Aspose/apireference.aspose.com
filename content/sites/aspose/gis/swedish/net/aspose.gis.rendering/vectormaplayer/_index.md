@@ -1,14 +1,14 @@
 ---
-title: VectorMapLayer
+title: Class VectorMapLayer
 second_title: Aspose.GIS för .NET API Referens
-description: Ett lager inutiMap./map som representerar ett vektorlagerdata.
+description: Aspose.Gis.Rendering.VectorMapLayer klass. Ett lager inutiMap som representerar ett vektorlagerdata.
 type: docs
-weight: 1900
+weight: 2000
 url: /sv/net/aspose.gis.rendering/vectormaplayer/
 ---
 ## VectorMapLayer class
 
-Ett lager inuti[`Map`](../map) som representerar ett vektorlagerdata.
+Ett lager inuti[`Map`](../map/) som representerar ett vektorlagerdata.
 
 ```csharp
 public class VectorMapLayer : MapLayer
@@ -18,35 +18,35 @@ public class VectorMapLayer : MapLayer
 
 | namn | Beskrivning |
 | --- | --- |
-| [VectorMapLayer](vectormaplayer#constructor)(FeaturesSequence) | Skapar ny instans med standardsymbolizer. |
-| [VectorMapLayer](vectormaplayer#constructor_1)(FeaturesSequence, VectorSymbolizer) | Skapar ny instans med standardsymbolizer. |
-| [VectorMapLayer](vectormaplayer#constructor_5)(VectorLayer, bool) | Skapar ny instans med standardsymbolizer. |
-| [VectorMapLayer](vectormaplayer#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Skapar ny instans med standardsymbolizer. |
-| [VectorMapLayer](vectormaplayer#constructor_4)(VectorLayer, VectorSymbolizer, bool) | Skapar ny instans. |
-| [VectorMapLayer](vectormaplayer#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, bool) | Skapar ny instans. |
+| [VectorMapLayer](vectormaplayer/#constructor)(FeaturesSequence) | Skapar ny instans med standardsymbolizer. |
+| [VectorMapLayer](vectormaplayer/#constructor_1)(FeaturesSequence, VectorSymbolizer) | Skapar ny instans med standardsymbolizer. |
+| [VectorMapLayer](vectormaplayer/#constructor_5)(VectorLayer, bool) | Skapar ny instans med standardsymbolizer. |
+| [VectorMapLayer](vectormaplayer/#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling) | Skapar ny instans med standardsymbolizer. |
+| [VectorMapLayer](vectormaplayer/#constructor_4)(VectorLayer, VectorSymbolizer, bool) | Skapar ny instans. |
+| [VectorMapLayer](vectormaplayer/#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, bool) | Skapar ny instans. |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence) { get; } | Funktionssekvensen som representeras av detta`VectorMapLayer` . |
-| [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling) { get; set; } | Anger förvrängningsalternativ för kartlagret. |
-| [Opacity](../../aspose.gis.rendering/maplayer/opacity) { get; set; } | Opacitet för lagret. |
-| [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer) { get; set; } | Symboliserare att använda för att återge funktioner i lagret. |
+| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence/) { get; } | Funktionssekvensen som representeras av detta`VectorMapLayer` . |
+| [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling/) { get; set; } | Anger förvrängningsalternativ för kartlagret. |
+| [Opacity](../../aspose.gis.rendering/maplayer/opacity/) { get; set; } | Opacitet för lagret. |
+| [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer/) { get; set; } | Symboliserare att använda för att återge funktioner i lagret. |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose)() | Kastar resurser. |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld)(AbstractPath, SldImportOptions) | Importerar stil från Styled Layer Descriptor-fil som finns på den angivna sökvägen. |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld#importsld_1)(string, SldImportOptions) | Importerar stil från Styled Layer Descriptor-fil som finns på den angivna sökvägen. |
-| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring)(string, SldImportOptions) | Importerar stil från den angivna strängen för beskrivning av stillager. |
+| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose/)() | Kastar resurser. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld)(AbstractPath, SldImportOptions) | Importerar stil från Styled Layer Descriptor-fil som finns på den angivna sökvägen. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld_1)(string, SldImportOptions) | Importerar stil från Styled Layer Descriptor-fil som finns på den angivna sökvägen. |
+| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring/)(string, SldImportOptions) | Importerar stil från den angivna strängen för beskrivning av stillager. |
 
 ### Se även
 
-* class [MapLayer](../maplayer)
-* namnutrymme [Aspose.Gis.Rendering](../../aspose.gis.rendering)
+* class [MapLayer](../maplayer/)
+* namnutrymme [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
 * hopsättning [Aspose.GIS](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

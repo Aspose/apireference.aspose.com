@@ -1,14 +1,14 @@
 ---
-title: Add
+title: Map.Add
 second_title: Référence de l'API Aspose.GIS pour .NET
-description: Crée unVectorMapLayeraspose.gis.rendering/vectormaplayer avec le symboliseur par défaut et lajoute à la carte. Les calques sont rendus dans lordre supplémentaire.
+description: Map méthode. Crée unVectorMapLayer avec le symboliseur par défaut et lajoute à la carte. Les calques sont rendus dans lordre supplémentaire.
 type: docs
 weight: 110
 url: /fr/net/aspose.gis.rendering/map/add/
 ---
 ## Add(VectorLayer, bool) {#add_7}
 
-Crée un[`VectorMapLayer`](../../vectormaplayer) avec le symboliseur par défaut et l'ajoute à la carte. Les calques sont rendus dans l'ordre supplémentaire.
+Crée un[`VectorMapLayer`](../../vectormaplayer/) avec le symboliseur par défaut et l'ajoute à la carte. Les calques sont rendus dans l'ordre supplémentaire.
 
 ```csharp
 public void Add(VectorLayer layer, bool keepOpen = false)
@@ -16,8 +16,8 @@ public void Add(VectorLayer layer, bool keepOpen = false)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| layer | VectorLayer | Une couche vectorielle à représenter par[`VectorMapLayer`](../../vectormaplayer). |
-| keepOpen | Boolean | `true` pour laisser le calque vectoriel ouvert après la[`Map`](../../map) l'objet est supprimé ; `false` pour disposer la couche. |
+| layer | VectorLayer | Une couche vectorielle à représenter par[`VectorMapLayer`](../../vectormaplayer/). |
+| keepOpen | Boolean | `true` pour laisser le calque vectoriel ouvert après la[`Map`](../) l'objet est supprimé ; `false` pour disposer la couche. |
 
 ### Exceptions
 
@@ -27,16 +27,16 @@ public void Add(VectorLayer layer, bool keepOpen = false)
 
 ### Voir également
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [Map](../../map)
-* espace de noms [Aspose.Gis.Rendering](../../map)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [Map](../)
+* espace de noms [Aspose.Gis.Rendering](../../map/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
 
 ## Add(VectorLayer, VectorSymbolizer, bool) {#add_6}
 
-Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
+Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
 
 ```csharp
 public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = false)
@@ -44,9 +44,9 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = 
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| layer | VectorLayer | Une couche vectorielle à représenter par[`VectorMapLayer`](../../vectormaplayer). |
+| layer | VectorLayer | Une couche vectorielle à représenter par[`VectorMapLayer`](../../vectormaplayer/). |
 | symbolizer | VectorSymbolizer | Symboliseur à utiliser pour le rendu. Si`null`, le symboliseur par défaut est utilisé. |
-| keepOpen | Boolean | `true` pour laisser le calque vectoriel ouvert après la[`Map`](../../map) l'objet est supprimé ; `false` pour disposer la couche. |
+| keepOpen | Boolean | `true` pour laisser le calque vectoriel ouvert après la[`Map`](../) l'objet est supprimé ; `false` pour disposer la couche. |
 
 ### Exceptions
 
@@ -56,17 +56,17 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = 
 
 ### Voir également
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Map](../../map)
-* espace de noms [Aspose.Gis.Rendering](../../map)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Map](../)
+* espace de noms [Aspose.Gis.Rendering](../../map/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
 
 ## Add(VectorLayer, VectorSymbolizer, Labeling, bool) {#add_5}
 
-Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
+Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
 
 ```csharp
 public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labeling, 
@@ -75,10 +75,10 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labelin
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| layer | VectorLayer | Une couche vectorielle à représenter par[`VectorMapLayer`](../../vectormaplayer). |
+| layer | VectorLayer | Une couche vectorielle à représenter par[`VectorMapLayer`](../../vectormaplayer/). |
 | symbolizer | VectorSymbolizer | Symboliseur à utiliser pour le rendu. Si`null`, le symboliseur par défaut est utilisé. |
-| labeling | Labeling | Étiquetage à utiliser pour étiqueter les entités dans la couche. Si`null` , défaut[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) sera utilisé. |
-| keepOpen | Boolean | `true` pour laisser le calque ouvert après le[`Map`](../../map) l'objet est éliminé ; Par ailleurs,`false` . |
+| labeling | Labeling | Étiquetage à utiliser pour étiqueter les entités dans la couche. Si`null` , défaut[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) sera utilisé. |
+| keepOpen | Boolean | `true` pour laisser le calque ouvert après le[`Map`](../) l'objet est éliminé ; sinon,`false` . |
 
 ### Exceptions
 
@@ -88,18 +88,18 @@ public void Add(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labelin
 
 ### Voir également
 
-* class [VectorLayer](../../../aspose.gis/vectorlayer)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [Map](../../map)
-* espace de noms [Aspose.Gis.Rendering](../../map)
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [Map](../)
+* espace de noms [Aspose.Gis.Rendering](../../map/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
 
 ## Add(FeaturesSequence) {#add}
 
-Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
+Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
 
 ```csharp
 public void Add(FeaturesSequence featuresSequence)
@@ -107,7 +107,7 @@ public void Add(FeaturesSequence featuresSequence)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | Une séquence de caractéristiques à représenter par[`VectorMapLayer`](../../vectormaplayer). |
+| featuresSequence | FeaturesSequence | Une séquence de caractéristiques à représenter par[`VectorMapLayer`](../../vectormaplayer/). |
 
 ### Exceptions
 
@@ -117,16 +117,16 @@ public void Add(FeaturesSequence featuresSequence)
 
 ### Voir également
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [Map](../../map)
-* espace de noms [Aspose.Gis.Rendering](../../map)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [Map](../)
+* espace de noms [Aspose.Gis.Rendering](../../map/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
 
 ## Add(FeaturesSequence, VectorSymbolizer) {#add_1}
 
-Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
+Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
 
 ```csharp
 public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
@@ -134,7 +134,7 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | Une séquence de caractéristiques à représenter par[`VectorMapLayer`](../../vectormaplayer). |
+| featuresSequence | FeaturesSequence | Une séquence de caractéristiques à représenter par[`VectorMapLayer`](../../vectormaplayer/). |
 | symbolizer | VectorSymbolizer | Symboliseur à utiliser pour le rendu. Si`null`, le symboliseur par défaut est utilisé. |
 
 ### Exceptions
@@ -145,17 +145,17 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
 
 ### Voir également
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Map](../../map)
-* espace de noms [Aspose.Gis.Rendering](../../map)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Map](../)
+* espace de noms [Aspose.Gis.Rendering](../../map/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
 
 ## Add(FeaturesSequence, VectorSymbolizer, Labeling) {#add_2}
 
-Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
+Crée et ajoute un[`VectorMapLayer`](../../vectormaplayer/) à la carte. Les calques sont rendus dans l'ordre supplémentaire.
 
 ```csharp
 public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, Labeling labeling)
@@ -163,9 +163,9 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, 
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | Une séquence de caractéristiques à représenter par[`VectorMapLayer`](../../vectormaplayer). |
+| featuresSequence | FeaturesSequence | Une séquence de caractéristiques à représenter par[`VectorMapLayer`](../../vectormaplayer/). |
 | symbolizer | VectorSymbolizer | Symboliseur à utiliser pour le rendu. |
-| labeling | Labeling | Étiquetage à utiliser pour étiqueter les entités dans la couche. Si`null` ,[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling) sera utilisé. |
+| labeling | Labeling | Étiquetage à utiliser pour étiqueter les entités dans la couche. Si`null` ,[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/) sera utilisé. |
 
 ### Exceptions
 
@@ -175,11 +175,11 @@ public void Add(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, 
 
 ### Voir également
 
-* class [FeaturesSequence](../../../aspose.gis/featuressequence)
-* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer)
-* class [Labeling](../../../aspose.gis.rendering.labelings/labeling)
-* class [Map](../../map)
-* espace de noms [Aspose.Gis.Rendering](../../map)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [Map](../)
+* espace de noms [Aspose.Gis.Rendering](../../map/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
@@ -204,16 +204,16 @@ public void Add(MapLayer mapLayer)
 
 ### Voir également
 
-* class [MapLayer](../../maplayer)
-* class [Map](../../map)
-* espace de noms [Aspose.Gis.Rendering](../../map)
+* class [MapLayer](../../maplayer/)
+* class [Map](../)
+* espace de noms [Aspose.Gis.Rendering](../../map/)
 * Assemblée [Aspose.GIS](../../../)
 
 ---
 
 ## Add(RasterLayer, RasterColorizer, bool) {#add_3}
 
-Crée un[`RasterMapLayer`](../../rastermaplayer) avec le coloriseur par défaut et l'ajoute à la carte.
+Crée un[`RasterMapLayer`](../../rastermaplayer/) avec le coloriseur par défaut et l'ajoute à la carte.
 
 ```csharp
 public void Add(RasterLayer layer, RasterColorizer colorizer = null, bool keepOpen = false)
@@ -221,9 +221,9 @@ public void Add(RasterLayer layer, RasterColorizer colorizer = null, bool keepOp
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| layer | RasterLayer | Une couche vectorielle à représenter par[`RasterLayer`](../../../aspose.gis.raster/rasterlayer). |
+| layer | RasterLayer | Une couche vectorielle à représenter par[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/). |
 | colorizer | RasterColorizer | Un coloriseur à utiliser pour le rendu. Si`null`, le coloriseur par défaut est utilisé. |
-| keepOpen | Boolean | `true` pour laisser la couche raster ouverte après la[`Map`](../../map) l'objet est supprimé ; `false` pour disposer la couche. |
+| keepOpen | Boolean | `true` pour laisser la couche raster ouverte après la[`Map`](../) l'objet est supprimé ; `false` pour disposer la couche. |
 
 ### Exceptions
 
@@ -233,10 +233,10 @@ public void Add(RasterLayer layer, RasterColorizer colorizer = null, bool keepOp
 
 ### Voir également
 
-* class [RasterLayer](../../../aspose.gis.raster/rasterlayer)
-* class [RasterColorizer](../../../aspose.gis.rendering.colorizers/rastercolorizer)
-* class [Map](../../map)
-* espace de noms [Aspose.Gis.Rendering](../../map)
+* class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
+* class [RasterColorizer](../../../aspose.gis.rendering.colorizers/rastercolorizer/)
+* class [Map](../)
+* espace de noms [Aspose.Gis.Rendering](../../map/)
 * Assemblée [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+

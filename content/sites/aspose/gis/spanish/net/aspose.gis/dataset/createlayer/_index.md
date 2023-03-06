@@ -1,7 +1,7 @@
 ---
-title: CreateLayer
+title: Dataset.CreateLayer
 second_title: Referencia de API de Aspose.GIS para .NET
-description: Crea una nueva capa vectorial y la abre para agregarla.
+description: Dataset método. Crea una nueva capa vectorial y la abre para agregarla.
 type: docs
 weight: 70
 url: /es/net/aspose.gis/dataset/createlayer/
@@ -16,13 +16,13 @@ public virtual VectorLayer CreateLayer()
 
 ### Valor_devuelto
 
-A[`VectorLayer`](../../vectorlayer) abierto para escribir.
+A[`VectorLayer`](../../vectorlayer/) abierto para escribir.
 
 ### Ver también
 
-* class [VectorLayer](../../vectorlayer)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -41,14 +41,14 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 ### Valor_devuelto
 
-A[`VectorLayer`](../../vectorlayer) abierto para escribir.
+A[`VectorLayer`](../../vectorlayer/) abierto para escribir.
 
 ### Ver también
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -69,7 +69,7 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 
 ### Valor_devuelto
 
-A[`VectorLayer`](../../vectorlayer) abierto para escribir.
+A[`VectorLayer`](../../vectorlayer/) abierto para escribir.
 
 ### Excepciones
 
@@ -77,15 +77,15 @@ A[`VectorLayer`](../../vectorlayer) abierto para escribir.
 | --- | --- |
 | NotSupportedException | La creación de capas no es compatible con este conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
-| [GisException](../../gisexception) | Error al crear la capa. |
+| [GisException](../../gisexception/) | Error al crear la capa. |
 
 ### Ver también
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -106,7 +106,7 @@ public virtual VectorLayer CreateLayer(string name,
 
 ### Valor_devuelto
 
-A[`VectorLayer`](../../vectorlayer) abierto para escribir.
+A[`VectorLayer`](../../vectorlayer/) abierto para escribir.
 
 ### Excepciones
 
@@ -114,14 +114,14 @@ A[`VectorLayer`](../../vectorlayer) abierto para escribir.
 | --- | --- |
 | NotSupportedException | La creación de capas no es compatible con este conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
-| [GisException](../../gisexception) | Error al crear la capa. |
+| [GisException](../../gisexception/) | Error al crear la capa. |
 
 ### Ver también
 
-* class [VectorLayer](../../vectorlayer)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
 ---
@@ -143,7 +143,7 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 
 ### Valor_devuelto
 
-A[`VectorLayer`](../../vectorlayer) abierto para escribir.
+A[`VectorLayer`](../../vectorlayer/) abierto para escribir.
 
 ### Excepciones
 
@@ -151,15 +151,15 @@ A[`VectorLayer`](../../vectorlayer) abierto para escribir.
 | --- | --- |
 | NotSupportedException | La creación de capas no es compatible con este conjunto de datos. |
 | IOException | Se produjo un error de E/S. |
-| [GisException](../../gisexception) | Error al crear la capa. |
+| [GisException](../../gisexception/) | Error al crear la capa. |
 
 ### Ver también
 
-* class [VectorLayer](../../vectorlayer)
-* class [DriverOptions](../../driveroptions)
-* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem)
-* class [Dataset](../../dataset)
-* espacio de nombres [Aspose.Gis](../../dataset)
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* espacio de nombres [Aspose.Gis](../../dataset/)
 * asamblea [Aspose.GIS](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.GIS.dll -->
+
