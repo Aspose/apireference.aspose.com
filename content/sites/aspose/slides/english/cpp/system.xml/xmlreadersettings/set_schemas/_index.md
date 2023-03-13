@@ -1,12 +1,12 @@
 ---
-title: set_Schemas
+title: set_Schemas()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlSchemaSet to use when performing schema validation.
 type: docs
 weight: 417
 url: /cpp/system.xml/xmlreadersettings/set_schemas/
 ---
-## XmlReaderSettings::set_Schemas method
+## XmlReaderSettings::set_Schemas(const [SharedPtr](../../../system/sharedptr/)\<[Schema::XmlSchemaSet](../../../system.xml.schema/xmlschemaset/)\>\&) method
 
 
 Sets the XmlSchemaSet to use when performing schema validation.

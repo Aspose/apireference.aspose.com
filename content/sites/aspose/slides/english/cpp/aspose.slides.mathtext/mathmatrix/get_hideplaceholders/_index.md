@@ -1,15 +1,15 @@
 ---
-title: get_HidePlaceholders
+title: get_HidePlaceholders()
 second_title: Aspose.Slides for C++ API Reference
-description: "Hide the placeholders for empty matrix elements Default: false."
+description: "Hide the placeholders for empty matrix elements Default: false"
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/mathmatrix/get_hideplaceholders/
 ---
-## MathMatrix::get_HidePlaceholders method
+## MathMatrix::get_HidePlaceholders() method
 
 
-Hide the placeholders for empty matrix elements Default: false.
+Hide the placeholders for empty matrix elements Default: false
 
 ```cpp
 bool Aspose::Slides::MathText::MathMatrix::get_HidePlaceholders() override

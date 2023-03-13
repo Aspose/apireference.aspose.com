@@ -1,12 +1,12 @@
 ---
-title: get_KeepTextFlat
+title: get_KeepTextFlat()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets keeping text flat even if a 3-D Rotation effect was applied. Read bool.
 type: docs
 weight: 352
 url: /cpp/aspose.slides/textframeformat/get_keeptextflat/
 ---
-## TextFrameFormat::get_KeepTextFlat method
+## TextFrameFormat::get_KeepTextFlat() method
 
 
 Gets keeping text flat even if a 3-D Rotation effect was applied. Read **bool**.

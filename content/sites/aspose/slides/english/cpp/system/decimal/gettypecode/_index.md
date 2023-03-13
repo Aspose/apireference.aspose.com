@@ -1,12 +1,12 @@
 ---
-title: GetTypeCode
+title: GetTypeCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets object type code.
 type: docs
 weight: 378
 url: /cpp/system/decimal/gettypecode/
 ---
-## Decimal::GetTypeCode method
+## Decimal::GetTypeCode() const method
 
 
 Gets object type code.

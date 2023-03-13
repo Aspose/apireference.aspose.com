@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element into collection.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/httpheadervaluecollection/add/
 ---
-## HttpHeaderValueCollection::Add method
+## HttpHeaderValueCollection::Add(const T\&) method
 
 
 Adds element into collection.

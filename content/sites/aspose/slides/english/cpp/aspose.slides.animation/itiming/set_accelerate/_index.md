@@ -1,12 +1,12 @@
 ---
-title: set_Accelerate
+title: set_Accelerate()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the percentage of duration accelerate behavior effect. Write float.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/itiming/set_accelerate/
 ---
-## ITiming::set_Accelerate method
+## ITiming::set_Accelerate(**float**) method
 
 
 Describes the percentage of duration accelerate behavior effect. Write **float**.

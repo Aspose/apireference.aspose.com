@@ -1,12 +1,12 @@
 ---
-title: ConvertAll
+title: ConvertAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a list of elements converted to different type.
 type: docs
 weight: 352
 url: /cpp/system.collections.generic/list/convertall/
 ---
-## List::ConvertAll method
+## List::ConvertAll([Converter](../../../system/converter/)\<T, OutputType\>) method
 
 
 Creates a list of elements converted to different type.

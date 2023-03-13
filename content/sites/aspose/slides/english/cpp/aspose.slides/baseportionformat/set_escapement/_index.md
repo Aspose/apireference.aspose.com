@@ -1,12 +1,12 @@
 ---
-title: set_Escapement
+title: set_Escapement()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the superscript or subscript text. Value from -100% (subscript) to 100% (superscript). std::numeric_limits<float>::quiet_NaN() means value is undefined and should be inherited from the Master. Write float."
 type: docs
 weight: 482
 url: /cpp/aspose.slides/baseportionformat/set_escapement/
 ---
-## BasePortionFormat::set_Escapement method
+## BasePortionFormat::set_Escapement(**float**) method
 
 
 Sets the superscript or subscript text. Value from -100% (subscript) to 100% (superscript). **std::numeric_limits<float>::quiet_NaN()** means value is undefined and should be inherited from the Master. Write **float**.

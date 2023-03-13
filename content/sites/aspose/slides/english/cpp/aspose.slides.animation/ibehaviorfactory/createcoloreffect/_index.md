@@ -1,12 +1,12 @@
 ---
-title: CreateColorEffect
+title: CreateColorEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates color effect.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.animation/ibehaviorfactory/createcoloreffect/
 ---
-## IBehaviorFactory::CreateColorEffect method
+## IBehaviorFactory::CreateColorEffect() method
 
 
 Creates color effect.

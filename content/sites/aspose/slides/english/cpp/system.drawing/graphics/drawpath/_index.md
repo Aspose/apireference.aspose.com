@@ -1,12 +1,12 @@
 ---
-title: DrawPath
+title: DrawPath()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws the specified path using the specified pen.
 type: docs
 weight: 729
 url: /cpp/system.drawing/graphics/drawpath/
 ---
-## Graphics::DrawPath method
+## Graphics::DrawPath(const [SharedPtr](../../../system/sharedptr/)\<[Pen](../../pen/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)\>\&) method
 
 
 Draws the specified path using the specified pen.

@@ -1,12 +1,12 @@
 ---
-title: GetState
+title: GetState()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns current state.
 type: docs
 weight: 1
 url: /cpp/system.collections/invalidatable/getstate/
 ---
-## Invalidatable::GetState method
+## Invalidatable::GetState() method
 
 
 Returns current state.

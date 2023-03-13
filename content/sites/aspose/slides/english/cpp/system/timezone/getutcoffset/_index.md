@@ -1,12 +1,12 @@
 ---
-title: GetUtcOffset
+title: GetUtcOffset()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the UTC offset for the specified local time.
 type: docs
 weight: 27
 url: /cpp/system/timezone/getutcoffset/
 ---
-## TimeZone::GetUtcOffset method
+## TimeZone::GetUtcOffset([DateTime](../../datetime/)) method
 
 
 Returns the UTC offset for the specified local time.

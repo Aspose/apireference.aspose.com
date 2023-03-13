@@ -1,5 +1,5 @@
 ---
-title: reset
+title: reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets pointed object.
 type: docs

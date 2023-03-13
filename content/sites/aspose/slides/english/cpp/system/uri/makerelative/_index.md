@@ -1,12 +1,12 @@
 ---
-title: MakeRelative
+title: MakeRelative()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the difference between two Uri instances.
 type: docs
 weight: 365
 url: /cpp/system/uri/makerelative/
 ---
-## Uri::MakeRelative method
+## Uri::MakeRelative(const [SharedPtr](../../sharedptr/)\<[Uri](../)\>\&) method
 
 
 Determines the difference between two [Uri](../) instances.

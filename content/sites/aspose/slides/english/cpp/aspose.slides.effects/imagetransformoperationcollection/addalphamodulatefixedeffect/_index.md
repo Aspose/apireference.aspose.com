@@ -1,12 +1,12 @@
 ---
-title: AddAlphaModulateFixedEffect
+title: AddAlphaModulateFixedEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Alpha Modulate Fixed effect to the end of a collection.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addalphamodulatefixedeffect/
 ---
-## ImageTransformOperationCollection::AddAlphaModulateFixedEffect method
+## ImageTransformOperationCollection::AddAlphaModulateFixedEffect(**float**) method
 
 
 Adds the new Alpha Modulate Fixed effect to the end of a collection.

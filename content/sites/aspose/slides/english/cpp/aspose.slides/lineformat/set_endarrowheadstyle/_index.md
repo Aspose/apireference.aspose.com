@@ -1,12 +1,12 @@
 ---
-title: set_EndArrowheadStyle
+title: set_EndArrowheadStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the arrowhead style at the end of a line. Write LineArrowheadStyle.
 type: docs
 weight: 287
 url: /cpp/aspose.slides/lineformat/set_endarrowheadstyle/
 ---
-## LineFormat::set_EndArrowheadStyle method
+## LineFormat::set_EndArrowheadStyle([LineArrowheadStyle](../../linearrowheadstyle/)) method
 
 
 Sets the arrowhead style at the end of a line. Write [LineArrowheadStyle](../../linearrowheadstyle/).

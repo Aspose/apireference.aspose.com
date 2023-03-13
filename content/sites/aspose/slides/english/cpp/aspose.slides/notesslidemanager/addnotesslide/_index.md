@@ -1,12 +1,12 @@
 ---
-title: AddNotesSlide
+title: AddNotesSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the notes slide for the current slide, creating one if there isn't.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/notesslidemanager/addnotesslide/
 ---
-## NotesSlideManager::AddNotesSlide method
+## NotesSlideManager::AddNotesSlide() method
 
 
 Returns the notes slide for the current slide, creating one if there isn't.

@@ -1,12 +1,12 @@
 ---
-title: ThreadPool
+title: ThreadPool()
 second_title: Aspose.Slides for C++ API Reference
 description: No copying.
 type: docs
 weight: 105
 url: /cpp/system.threading/threadpool/threadpool/
 ---
-## ThreadPool::ThreadPool constructor
+## ThreadPool::ThreadPool(const [ThreadPool](../)\&) constructor
 
 
 No copying.

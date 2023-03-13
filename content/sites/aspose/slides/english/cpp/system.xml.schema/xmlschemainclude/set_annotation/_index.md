@@ -1,12 +1,12 @@
 ---
-title: set_Annotation
+title: set_Annotation()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the annotation value.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemainclude/set_annotation/
 ---
-## XmlSchemaInclude::set_Annotation method
+## XmlSchemaInclude::set_Annotation(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaAnnotation](../../xmlschemaannotation/)\>\&) method
 
 
 Sets the **annotation** value.

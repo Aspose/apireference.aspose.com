@@ -1,5 +1,5 @@
 ---
-title: UnmanagedMemoryStream
+title: UnmanagedMemoryStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of UnmanagedMemoryStream.
 type: docs

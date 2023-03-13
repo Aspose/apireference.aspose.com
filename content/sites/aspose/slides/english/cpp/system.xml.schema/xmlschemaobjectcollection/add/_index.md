@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds an XmlSchemaObject to the XmlSchemaObjectCollection.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/add/
 ---
-## XmlSchemaObjectCollection::Add method
+## XmlSchemaObjectCollection::Add(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaObject](../../xmlschemaobject/)\>\&) method
 
 
 Adds an [XmlSchemaObject](../../xmlschemaobject/) to the [XmlSchemaObjectCollection](../).

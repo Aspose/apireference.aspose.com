@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of a specific object from the collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ifontsubstrulecollection/remove/
 ---
-## IFontSubstRuleCollection::Remove method
+## IFontSubstRuleCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IFontSubstRule](../../ifontsubstrule/)\>) method
 
 
 Removes the first occurrence of a specific object from the collection.

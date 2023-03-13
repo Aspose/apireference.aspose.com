@@ -1,12 +1,12 @@
 ---
-title: get_Capacity
+title: get_Capacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets current capacity of string builder.
 type: docs
 weight: 53
 url: /cpp/system.text/stringbuilder/get_capacity/
 ---
-## StringBuilder::get_Capacity method
+## StringBuilder::get_Capacity() const method
 
 
 Gets current capacity of string builder.

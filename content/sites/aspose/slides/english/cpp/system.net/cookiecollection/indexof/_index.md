@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an index of the specified cookie.
 type: docs
 weight: 131
 url: /cpp/system.net/cookiecollection/indexof/
 ---
-## CookieCollection::IndexOf method
+## CookieCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[Cookie](../../cookie/)\>) method
 
 
 Returns an index of the specified cookie.

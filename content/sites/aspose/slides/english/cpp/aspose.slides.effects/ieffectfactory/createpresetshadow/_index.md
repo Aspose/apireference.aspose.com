@@ -1,12 +1,12 @@
 ---
-title: CreatePresetShadow
+title: CreatePresetShadow()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Preset shadow effect.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/ieffectfactory/createpresetshadow/
 ---
-## IEffectFactory::CreatePresetShadow method
+## IEffectFactory::CreatePresetShadow() method
 
 
 Creates Preset shadow effect.

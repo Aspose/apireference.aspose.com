@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the operation at the specified index. Write ColorOperation.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/coloroperationcollection/idx_set/
 ---
-## ColorOperationCollection::idx_set method
+## ColorOperationCollection::idx_set(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IColorOperation](../../icoloroperation/)\>) method
 
 
 Sets the operation at the specified index. Write [ColorOperation](../../coloroperation/).

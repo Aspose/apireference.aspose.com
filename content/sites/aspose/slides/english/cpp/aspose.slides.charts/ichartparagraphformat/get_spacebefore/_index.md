@@ -1,12 +1,12 @@
 ---
-title: get_SpaceBefore
+title: get_SpaceBefore()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the amount of space before the first line in a paragraph. Read float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/ichartparagraphformat/get_spacebefore/
 ---
-## IChartParagraphFormat::get_SpaceBefore method
+## IChartParagraphFormat::get_SpaceBefore() method
 
 
 Returns the amount of space before the first line in a paragraph. Read **float**.

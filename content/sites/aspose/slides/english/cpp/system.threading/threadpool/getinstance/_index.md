@@ -1,12 +1,12 @@
 ---
-title: GetInstance
+title: GetInstance()
 second_title: Aspose.Slides for C++ API Reference
 description: Implementation instance that holds list of jobs and other parameters.
 type: docs
 weight: 1
 url: /cpp/system.threading/threadpool/getinstance/
 ---
-## ThreadPool::GetInstance method
+## ThreadPool::GetInstance() method
 
 
 Implementation instance that holds list of jobs and other parameters.

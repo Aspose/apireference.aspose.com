@@ -1,12 +1,12 @@
 ---
-title: GetPointer
+title: GetPointer()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets pointed object (if any) or nullptr. Same as get().
 type: docs
 weight: 339
 url: /cpp/system/smartptr/getpointer/
 ---
-## SmartPtr::GetPointer method
+## SmartPtr::GetPointer() const method
 
 
 Gets pointed object (if any) or nullptr. Same as [get()](../get/).

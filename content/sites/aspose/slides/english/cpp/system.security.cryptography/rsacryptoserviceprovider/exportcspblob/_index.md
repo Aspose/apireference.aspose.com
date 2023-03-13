@@ -1,12 +1,12 @@
 ---
-title: ExportCspBlob
+title: ExportCspBlob()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports blob with information on key. Not implemented.
 type: docs
 weight: 131
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/exportcspblob/
 ---
-## RSACryptoServiceProvider::ExportCspBlob method
+## RSACryptoServiceProvider::ExportCspBlob(**bool**) method
 
 
 Exports blob with information on key. Not implemented.

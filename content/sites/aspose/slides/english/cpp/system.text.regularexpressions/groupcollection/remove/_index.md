@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables removing element from collection.
 type: docs
 weight: 40
 url: /cpp/system.text.regularexpressions/groupcollection/remove/
 ---
-## GroupCollection::Remove method
+## GroupCollection::Remove(const [GroupPtr](../../groupptr/)\&) method
 
 
 Disables removing element from collection.

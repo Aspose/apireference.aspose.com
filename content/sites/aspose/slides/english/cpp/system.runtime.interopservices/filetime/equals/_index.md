@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current object and the specified object are equal, i.e. represent the same file time.
 type: docs
 weight: 1
 url: /cpp/system.runtime.interopservices/filetime/equals/
 ---
-## FILETIME::Equals method
+## FILETIME::Equals(const [FILETIME](../)\&) const method
 
 
 Determines if the current object and the specified object are equal, i.e. represent the same file time.

@@ -1,12 +1,12 @@
 ---
-title: get_First
+title: get_First()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets pointer to the first element in the list.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/linkedlist/get_first/
 ---
-## LinkedList::get_First method
+## LinkedList::get_First() const method
 
 
 Gets pointer to the first element in the list.

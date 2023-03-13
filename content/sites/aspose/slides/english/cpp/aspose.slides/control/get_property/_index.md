@@ -1,12 +1,12 @@
 ---
-title: get_Property
+title: get_Property()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an ActiveX property at the specified index.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/control/get_property/
 ---
-## Control::get_Property method
+## Control::get_Property([System::String](../../../system/string/)) method
 
 
 Returns an ActiveX property at the specified index.

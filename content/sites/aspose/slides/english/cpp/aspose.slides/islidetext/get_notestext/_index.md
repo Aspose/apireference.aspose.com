@@ -1,15 +1,15 @@
 ---
-title: get_NotesText
+title: get_NotesText()
 second_title: Aspose.Slides for C++ API Reference
-description: The text on the notes page's shapes for this slide.
+description: The text on the notes page's shapes for this slide
 type: docs
 weight: 40
 url: /cpp/aspose.slides/islidetext/get_notestext/
 ---
-## ISlideText::get_NotesText method
+## ISlideText::get_NotesText() method
 
 
-The text on the notes page's shapes for this slide.
+The text on the notes page's shapes for this slide
 
 ```cpp
 virtual System::String Aspose::Slides::ISlideText::get_NotesText()=0

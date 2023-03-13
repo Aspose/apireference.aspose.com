@@ -1,12 +1,12 @@
 ---
-title: CopyFrom
+title: CopyFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies data from different object.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/asnencodeddata/copyfrom/
 ---
-## AsnEncodedData::CopyFrom method
+## AsnEncodedData::CopyFrom(const [SharedPtr](../../../system/sharedptr/)\<[AsnEncodedData](../)\>\&) method
 
 
 Copies data from different object.

@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the index of a specific portion in collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/iportioncollection/indexof/
 ---
-## IPortionCollection::IndexOf method
+## IPortionCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../iportion/)\>) method
 
 
 Determines the index of a specific portion in collection.

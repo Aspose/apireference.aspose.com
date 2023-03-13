@@ -1,12 +1,12 @@
 ---
-title: set_ReadTimeout
+title: set_ReadTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that determines whether the current stream can time out.
 type: docs
 weight: 66
 url: /cpp/system.net.sockets/networkstream/set_readtimeout/
 ---
-## NetworkStream::set_ReadTimeout method
+## NetworkStream::set_ReadTimeout(**int32_t**) method
 
 
 Sets a value that determines whether the current stream can time out.

@@ -1,12 +1,12 @@
 ---
-title: get_AcceptCharset
+title: get_AcceptCharset()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Accept-Charset' header.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/httprequestheaders/get_acceptcharset/
 ---
-## HttpRequestHeaders::get_AcceptCharset method
+## HttpRequestHeaders::get_AcceptCharset() method
 
 
 Returns a value of the 'Accept-Charset' header.

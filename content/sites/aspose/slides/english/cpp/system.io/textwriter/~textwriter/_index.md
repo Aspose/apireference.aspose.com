@@ -1,12 +1,12 @@
 ---
-title: ~TextWriter
+title: ~TextWriter()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 53
 url: /cpp/system.io/textwriter/~textwriter/
 ---
-## TextWriter::~TextWriter method
+## TextWriter::~TextWriter() method
 
 
 Destructor.

@@ -1,12 +1,12 @@
 ---
-title: get_AnimateShapes
+title: get_AnimateShapes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns shapes animation option. Read bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/ihtml5options/get_animateshapes/
 ---
-## IHtml5Options::get_AnimateShapes method
+## IHtml5Options::get_AnimateShapes() method
 
 
 Returns shapes animation option. Read **bool**.

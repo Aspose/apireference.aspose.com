@@ -1,12 +1,12 @@
 ---
-title: get_EndPosAlpha
+title: get_EndPosAlpha()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the end position (along the alpha gradient ramp) of the end alpha value (percents). Read float.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/ireflection/get_endposalpha/
 ---
-## IReflection::get_EndPosAlpha method
+## IReflection::get_EndPosAlpha() method
 
 
 Specifies the end position (along the alpha gradient ramp) of the end alpha value (percents). Read **float**.

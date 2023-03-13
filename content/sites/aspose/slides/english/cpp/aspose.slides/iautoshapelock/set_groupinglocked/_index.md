@@ -1,12 +1,12 @@
 ---
-title: set_GroupingLocked
+title: set_GroupingLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an adding this shape to a group is forbidden. Writes bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/iautoshapelock/set_groupinglocked/
 ---
-## IAutoShapeLock::set_GroupingLocked method
+## IAutoShapeLock::set_GroupingLocked(**bool**) method
 
 
 Determines whether an adding this shape to a group is forbidden. Writes **bool**.

@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the String value of the validated XML element or attribute.
 type: docs
 weight: 157
 url: /cpp/system.xml.schema/xmlatomicvalue/tostring/
 ---
-## XmlAtomicValue::ToString method
+## XmlAtomicValue::ToString() const method
 
 
 Returns the [String](../../../system/string/) value of the validated XML element or attribute.

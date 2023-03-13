@@ -1,5 +1,5 @@
 ---
-title: Shear
+title: Shear()
 second_title: Aspose.Slides for C++ API Reference
 description: Applies the specified shear vector to the matrix represented by the current object.
 type: docs

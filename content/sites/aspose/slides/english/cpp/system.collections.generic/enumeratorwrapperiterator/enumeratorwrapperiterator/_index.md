@@ -1,12 +1,12 @@
 ---
-title: EnumeratorWrapperIterator
+title: EnumeratorWrapperIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/enumeratorwrapperiterator/enumeratorwrapperiterator/
 ---
-## EnumeratorWrapperIterator::EnumeratorWrapperIterator constructor
+## EnumeratorWrapperIterator::EnumeratorWrapperIterator(const [SharedPtr](../../../system/sharedptr/)\<[IEnumerator](../../ienumerator/)\<Element\>\>\&) constructor
 
 
 

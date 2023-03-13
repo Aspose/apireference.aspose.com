@@ -34,10 +34,8 @@ template<typename Dict>class _KeyList : public System::Collections::Generic::_Ke
 | [const_iterator](../ienumerable/const_iterator/) [cbegin](../ienumerable/cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
 | [const_iterator](../ienumerable/const_iterator/) [cend](../ienumerable/cend/)() const | Gets iterator pointing right after the last const-qualified element (if any) of the collection. |
 | void [Clear](../ikvcollection/clear/)() override | Deletes all elements from container. |
-| **bool** [Contains](./contains/)(const [TKey](./tkey/)\&) const override | Checks if specified key is present in collection. |
-| **bool** [Contains](../ikvcollection/contains/)(const T\&) const override | Checks if item is present in container. |
+| **bool** [Contains](./contains/)(const [TKey](../_keycollection/tkey/)\&) const override | Checks if specified key is present in collection. |
 | void [CopyTo](../basekvcollection/copyto/)([ArrayPtr](../../system/arrayptr/)\<KV\>, int) override | Copies data to existing array elements. |
-| virtual void [CopyTo](../icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
 | [iterator](../ienumerable/iterator/) [end](../ienumerable/end/)() | Gets iterator pointing right after the last element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../ienumerable/getenumerator/) returns a copy-object of T. |
 | [const_iterator](../ienumerable/const_iterator/) [end](../ienumerable/end/)() const | Gets iterator pointing right after the last element (if any) of the const-qualified instance of the collection. |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
@@ -57,7 +55,7 @@ template<typename Dict>class _KeyList : public System::Collections::Generic::_Ke
 |  [ICollection](../icollection/icollection/)() | Default constructor. |
 |  [ICollection](../icollection/icollection/)(const [ICollection](../icollection/)\&) | Copy constructor. |
 |  [ICollection](../icollection/icollection/)([ICollection](../icollection/)\&&) | Move constructor. |
-| [TKey](./tkey/) [idx_get](./idx_get/)(int) const override | Gets key at specified position. |
+| [TKey](../_keycollection/tkey/) [idx_get](./idx_get/)(int) const override | Gets key at specified position. |
 | void [idx_set](../ikvcollection/idx_set/)(int, T) override | Setter function. |
 | int [IndexOf](../ikvcollection/indexof/)(const T\&) const override | Gets index of item in container. |
 | void [Insert](../ikvcollection/insert/)(int, const T\&) override | Inserts item at specified position. |

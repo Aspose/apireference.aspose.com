@@ -1,12 +1,12 @@
 ---
-title: get_LightPink
+title: get_LightPink()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFFFB6C1.
 type: docs
 weight: 1145
 url: /cpp/system.drawing/color/get_lightpink/
 ---
-## Color::get_LightPink method
+## Color::get_LightPink() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFFFB6C1.

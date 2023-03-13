@@ -1,12 +1,12 @@
 ---
-title: get_Delete
+title: get_Delete()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the 'DELETE' HTTP method.
 type: docs
 weight: 40
 url: /cpp/system.net.http/httpmethod/get_delete/
 ---
-## HttpMethod::get_Delete method
+## HttpMethod::get_Delete() method
 
 
 Returns the 'DELETE' HTTP method.

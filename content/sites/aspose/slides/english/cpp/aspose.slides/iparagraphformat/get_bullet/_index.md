@@ -1,12 +1,12 @@
 ---
-title: get_Bullet
+title: get_Bullet()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns bullet format of the paragraph. Read-only IBulletFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iparagraphformat/get_bullet/
 ---
-## IParagraphFormat::get_Bullet method
+## IParagraphFormat::get_Bullet() method
 
 
 Returns bullet format of the paragraph. Read-only [IBulletFormat](../../ibulletformat/).

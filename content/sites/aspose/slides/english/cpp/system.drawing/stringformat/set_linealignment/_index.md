@@ -1,12 +1,12 @@
 ---
-title: set_LineAlignment
+title: set_LineAlignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets vertical alignment of the string.
 type: docs
 weight: 79
 url: /cpp/system.drawing/stringformat/set_linealignment/
 ---
-## StringFormat::set_LineAlignment method
+## StringFormat::set_LineAlignment([StringAlignment](../../stringalignment/)) method
 
 
 Sets vertical alignment of the string.

@@ -1,12 +1,12 @@
 ---
-title: set_CompoundArray
+title: set_CompoundArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets an array of values that specifies a compound pen.
 type: docs
 weight: 287
 url: /cpp/system.drawing/pen/set_compoundarray/
 ---
-## Pen::set_CompoundArray method
+## Pen::set_CompoundArray(const [System::ArrayPtr](../../../system/arrayptr/)\<**float**\>\&) method
 
 
 Sets an array of values that specifies a compound pen.

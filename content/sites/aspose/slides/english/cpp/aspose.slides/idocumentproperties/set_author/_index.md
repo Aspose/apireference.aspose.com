@@ -1,12 +1,12 @@
 ---
-title: set_Author
+title: set_Author()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the author of a presentation. Write System::String."
 type: docs
 weight: 261
 url: /cpp/aspose.slides/idocumentproperties/set_author/
 ---
-## IDocumentProperties::set_Author method
+## IDocumentProperties::set_Author([System::String](../../../system/string/)) method
 
 
 Sets the author of a presentation. Write [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: ToByteArray
+title: ToByteArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts string or substring to array of bytes.
 type: docs
 weight: 482
 url: /cpp/system/string/tobytearray/
 ---
-## String::ToByteArray method
+## String::ToByteArray(**int32_t**, **int32_t**, **bool**) const method
 
 
 Converts string or substring to array of bytes.

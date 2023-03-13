@@ -1,12 +1,12 @@
 ---
-title: FieldType
+title: FieldType()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of FieldType class.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/fieldtype/fieldtype/
 ---
-## FieldType::FieldType constructor
+## FieldType::FieldType([System::String](../../../system/string/)) constructor
 
 
 Initializes a new instance of [FieldType](../) class.

@@ -1,12 +1,12 @@
 ---
-title: operator[]
+title: operator[]()
 second_title: Aspose.Slides for C++ API Reference
 description: Accessor function.
 type: docs
 weight: 27
 url: /cpp/system.collections/bitarray/operator[]/
 ---
-## BitArray::operator[] method
+## BitArray::operator[](int) method
 
 
 Accessor function.

@@ -1,12 +1,12 @@
 ---
-title: set_CurrentDirectory
+title: set_CurrentDirectory()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the specified directory as the current working directory.
 type: docs
 weight: 27
 url: /cpp/system/environment/set_currentdirectory/
 ---
-## Environment::set_CurrentDirectory method
+## Environment::set_CurrentDirectory(const [String](../../string/)\&) method
 
 
 Sets the specified directory as the current working directory.

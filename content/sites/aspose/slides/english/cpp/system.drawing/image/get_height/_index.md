@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the height of the image in pixels.
 type: docs
 weight: 92
 url: /cpp/system.drawing/image/get_height/
 ---
-## Image::get_Height method
+## Image::get_Height() const method
 
 
 Returns the height of the image in pixels.

@@ -1,5 +1,5 @@
 ---
-title: ReadToDescendant
+title: ReadToDescendant()
 second_title: Aspose.Slides for C++ API Reference
 description: Advances the XmlReader to the next descendant element with the specified qualified name.
 type: docs

@@ -1,7 +1,7 @@
 ---
 title: IPresentation
 second_title: Aspose.Slides for C++ API Reference
-description: Presentation document.
+description: Presentation document
 type: docs
 weight: 3186
 url: /cpp/aspose.slides/ipresentation/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/ipresentation/
 ## IPresentation class
 
 
-[Presentation](../presentation/) document.
+[Presentation](../presentation/) document
 
 ```cpp
 class IPresentation : public Aspose::Slides::IPresentationComponent,
@@ -105,6 +105,7 @@ class IPresentation : public Aspose::Slides::IPresentationComponent,
 | virtual void [Save](./save/)([System::String](../../system/string/), [Export::SaveFormat](../../aspose.slides.export/saveformat/), [System::SharedPtr](../../system/sharedptr/)\<[System::Web::HttpResponse](../../system.web/httpresponse/)\>, **bool**) | Sends the presentation to the client browser. This method is absent in ClientProfile versions of Aspose.Slide. |
 | virtual void [Save](./save/)([System::String](../../system/string/), [Export::SaveFormat](../../aspose.slides.export/saveformat/), [System::SharedPtr](../../system/sharedptr/)\<[Export::ISaveOptions](../../aspose.slides.export/isaveoptions/)\>, [System::SharedPtr](../../system/sharedptr/)\<[System::Web::HttpResponse](../../system.web/httpresponse/)\>, **bool**) | Sends the presentation to the client browser. This method is absent in ClientProfile versions of Aspose.Slide. |
 | virtual void [set_CurrentDateTime](./set_currentdatetime/)([System::DateTime](../../system/datetime/)) | Sets date and time which will substitute content of datetime fields. Time of this [Presentation](../presentation/) object creation by default. Write [System::DateTime](../../system/datetime/). |
+| virtual void [set_DocumentProperty](./set_documentproperty/)([System::String](../../system/string/), [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\>) | Set custom property defined by name. |
 | virtual void [set_FirstSlideNumber](./set_firstslidenumber/)(**int32_t**) | Represents the first slide number in the presentation. Write **int32_t**. |
 | virtual void [set_VbaProject](./set_vbaproject/)([System::SharedPtr](../../system/sharedptr/)\<[Vba::IVbaProject](../../aspose.slides.vba/ivbaproject/)\>) | Gets VBA project with presentation macros. Write [Vba::IVbaProject](../../aspose.slides.vba/ivbaproject/). |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |

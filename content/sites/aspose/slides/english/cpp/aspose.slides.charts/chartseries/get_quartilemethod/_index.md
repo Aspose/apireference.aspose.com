@@ -1,12 +1,12 @@
 ---
-title: get_QuartileMethod
+title: get_QuartileMethod()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents quartile method. Applies only to BoxAndWhisker charts.
 type: docs
 weight: 547
 url: /cpp/aspose.slides.charts/chartseries/get_quartilemethod/
 ---
-## ChartSeries::get_QuartileMethod method
+## ChartSeries::get_QuartileMethod() method
 
 
 Represents quartile method. Applies only to BoxAndWhisker charts.

@@ -1,12 +1,12 @@
 ---
-title: ToArray
+title: ToArray()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the array of prefix and namespace pairs in an Serialization::XmlSerializerNamespaces object."
 type: docs
 weight: 79
 url: /cpp/system.xml.serialization/xmlserializernamespaces/toarray/
 ---
-## XmlSerializerNamespaces::ToArray method
+## XmlSerializerNamespaces::ToArray() method
 
 
 Returns the array of prefix and namespace pairs in an [Serialization::XmlSerializerNamespaces](../) object.

@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the IPAddress class.
 type: docs
 weight: 222
 url: /cpp/system.net/ipaddress/tryparse/
 ---
-## IPAddress::TryParse method
+## IPAddress::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[IPAddress](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [IPAddress](../) class.

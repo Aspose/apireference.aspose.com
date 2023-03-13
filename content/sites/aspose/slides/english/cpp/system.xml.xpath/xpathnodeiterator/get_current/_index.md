@@ -1,12 +1,12 @@
 ---
-title: get_Current
+title: get_Current()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the XPathNavigator object for this XPathNodeIterator, positioned on the current context node.
 type: docs
 weight: 1
 url: /cpp/system.xml.xpath/xpathnodeiterator/get_current/
 ---
-## XPathNodeIterator::get_Current method
+## XPathNodeIterator::get_Current() method
 
 
 When overridden in a derived class, gets the [XPathNavigator](../../xpathnavigator/) object for this [XPathNodeIterator](../), positioned on the current context node.

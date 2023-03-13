@@ -1,12 +1,12 @@
 ---
-title: get_Address
+title: get_Address()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the address of the current proxy server.
 type: docs
 weight: 1
 url: /cpp/system.net/webproxy/get_address/
 ---
-## WebProxy::get_Address method
+## WebProxy::get_Address() method
 
 
 Gets the address of the current proxy server.

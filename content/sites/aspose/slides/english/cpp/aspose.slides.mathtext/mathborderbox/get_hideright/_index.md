@@ -1,12 +1,12 @@
 ---
-title: get_HideRight
+title: get_HideRight()
 second_title: Aspose.Slides for C++ API Reference
 description: Hide Right Edge (default is false) - specifies the hidden or shown state of the right edge of border box.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.mathtext/mathborderbox/get_hideright/
 ---
-## MathBorderBox::get_HideRight method
+## MathBorderBox::get_HideRight() method
 
 
 Hide Right Edge (default is false) - specifies the hidden or shown state of the right edge of border box.

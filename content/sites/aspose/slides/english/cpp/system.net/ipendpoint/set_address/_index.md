@@ -1,12 +1,12 @@
 ---
-title: set_Address
+title: set_Address()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the endpoint address.
 type: docs
 weight: 27
 url: /cpp/system.net/ipendpoint/set_address/
 ---
-## IPEndPoint::set_Address method
+## IPEndPoint::set_Address([System::SharedPtr](../../../system/sharedptr/)\<[IPAddress](../../ipaddress/)\>) method
 
 
 Sets the endpoint address.

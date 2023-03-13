@@ -1,12 +1,12 @@
 ---
-title: get_Date
+title: get_Date()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the datetime of the warning.
 type: docs
 weight: 40
 url: /cpp/system.net.http.headers/warningheadervalue/get_date/
 ---
-## WarningHeaderValue::get_Date method
+## WarningHeaderValue::get_Date() method
 
 
 Returns the datetime of the warning.

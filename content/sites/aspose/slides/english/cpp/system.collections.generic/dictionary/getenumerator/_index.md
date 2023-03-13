@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates enumerator object.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/dictionary/getenumerator/
 ---
-## Dictionary::GetEnumerator method
+## Dictionary::GetEnumerator() method
 
 
 Creates enumerator object.

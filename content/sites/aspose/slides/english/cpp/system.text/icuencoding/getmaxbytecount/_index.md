@@ -1,12 +1,12 @@
 ---
-title: GetMaxByteCount
+title: GetMaxByteCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Get the maximum number of bytes needed to encode a specified number of characters.
 type: docs
 weight: 105
 url: /cpp/system.text/icuencoding/getmaxbytecount/
 ---
-## ICUEncoding::GetMaxByteCount method
+## ICUEncoding::GetMaxByteCount(int) method
 
 
 Get the maximum number of bytes needed to encode a specified number of characters.

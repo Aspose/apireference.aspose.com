@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaKeyref
+title: XmlSchemaKeyref()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaKeyref class.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemakeyref/xmlschemakeyref/
 ---
-## XmlSchemaKeyref::XmlSchemaKeyref constructor
+## XmlSchemaKeyref::XmlSchemaKeyref() constructor
 
 
 Initializes a new instance of the [XmlSchemaKeyref](../) class.

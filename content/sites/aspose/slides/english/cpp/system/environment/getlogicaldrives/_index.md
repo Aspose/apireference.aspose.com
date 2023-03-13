@@ -1,12 +1,12 @@
 ---
-title: GetLogicalDrives
+title: GetLogicalDrives()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing the names of all logical drives on the current computer.
 type: docs
 weight: 352
 url: /cpp/system/environment/getlogicaldrives/
 ---
-## Environment::GetLogicalDrives method
+## Environment::GetLogicalDrives() method
 
 
 Returns an array containing the names of all logical drives on the current computer.

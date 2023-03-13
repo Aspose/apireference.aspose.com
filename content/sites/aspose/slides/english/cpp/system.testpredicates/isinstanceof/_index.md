@@ -1,12 +1,12 @@
 ---
-title: IsInstanceOf
+title: IsInstanceOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Is-instance-of-compares arguments for IsInstanceOf assertion translation.
 type: docs
 weight: 118
 url: /cpp/system.testpredicates/isinstanceof/
 ---
-## System::TestPredicates::IsInstanceOf function
+## System::TestPredicates::IsInstanceOf(const char *, const char *, const [TypeInfo](../../system/typeinfo/)\&, const T\&) function
 
 
 Is-instance-of-compares arguments for IsInstanceOf assertion translation.

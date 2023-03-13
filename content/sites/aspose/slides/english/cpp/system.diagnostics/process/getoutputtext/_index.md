@@ -1,12 +1,12 @@
 ---
-title: GetOutputText
+title: GetOutputText()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets process output text.
 type: docs
 weight: 131
 url: /cpp/system.diagnostics/process/getoutputtext/
 ---
-## Process::GetOutputText method
+## Process::GetOutputText() const method
 
 
 Gets process output text.

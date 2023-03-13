@@ -1,12 +1,12 @@
 ---
-title: get_Reference
+title: get_Reference()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a cell reference that contains the invalid formula.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.spreadsheet/details_cellinvalidformulaexception/get_reference/
 ---
-## Details_CellInvalidFormulaException::get_Reference method
+## Details_CellInvalidFormulaException::get_Reference() method
 
 
 Gets a cell reference that contains the invalid formula.

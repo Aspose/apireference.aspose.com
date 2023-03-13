@@ -1,12 +1,12 @@
 ---
-title: get_AMDesignator
+title: get_AMDesignator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets AM designator.
 type: docs
 weight: 235
 url: /cpp/system.globalization/datetimeformatinfo/get_amdesignator/
 ---
-## DateTimeFormatInfo::get_AMDesignator method
+## DateTimeFormatInfo::get_AMDesignator() const method
 
 
 Gets AM designator.

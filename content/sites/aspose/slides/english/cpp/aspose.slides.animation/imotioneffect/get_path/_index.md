@@ -1,12 +1,12 @@
 ---
-title: get_Path
+title: get_Path()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the path primitive followed by coordinates for the animation motion. Read IMotionPath.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/imotioneffect/get_path/
 ---
-## IMotionEffect::get_Path method
+## IMotionEffect::get_Path() method
 
 
 Specifies the path primitive followed by coordinates for the animation motion. Read [IMotionPath](../../imotionpath/).

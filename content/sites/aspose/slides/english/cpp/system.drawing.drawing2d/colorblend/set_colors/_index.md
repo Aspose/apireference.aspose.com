@@ -1,12 +1,12 @@
 ---
-title: set_Colors
+title: set_Colors()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets an array of colors to use at corresponding positions along a gradient.
 type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/colorblend/set_colors/
 ---
-## ColorBlend::set_Colors method
+## ColorBlend::set_Colors(const [ArrayPtr](../../../system/arrayptr/)\<[Color](../../../system.drawing/color/)\>\&) method
 
 
 Sets an array of colors to use at corresponding positions along a gradient.

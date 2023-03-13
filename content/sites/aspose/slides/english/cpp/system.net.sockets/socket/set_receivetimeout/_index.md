@@ -1,12 +1,12 @@
 ---
-title: set_ReceiveTimeout
+title: set_ReceiveTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a period after which a 'Receive' call will time out.
 type: docs
 weight: 261
 url: /cpp/system.net.sockets/socket/set_receivetimeout/
 ---
-## Socket::set_ReceiveTimeout method
+## Socket::set_ReceiveTimeout(**int32_t**) method
 
 
 Sets a period after which a 'Receive' call will time out.

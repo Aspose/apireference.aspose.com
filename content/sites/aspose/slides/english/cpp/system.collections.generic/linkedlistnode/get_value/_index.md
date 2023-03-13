@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets stored value.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/linkedlistnode/get_value/
 ---
-## LinkedListNode::get_Value method
+## LinkedListNode::get_Value() const method
 
 
 Gets stored value.

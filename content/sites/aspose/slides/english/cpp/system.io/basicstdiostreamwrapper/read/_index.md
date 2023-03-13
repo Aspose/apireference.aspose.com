@@ -1,5 +1,5 @@
 ---
-title: Read
+title: Read()
 second_title: Aspose.Slides for C++ API Reference
 description: If wrapping mode is binary, reads the specified number of bytes from the stream, otherwise read the specified number of characters and converts them to uint8_t type. Writes result of the reading to the specified byte array.
 type: docs

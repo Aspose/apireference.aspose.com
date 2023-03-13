@@ -1,12 +1,12 @@
 ---
-title: WriteDocType
+title: WriteDocType()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the DOCTYPE declaration with the specified name and optional attributes.
 type: docs
 weight: 222
 url: /cpp/system.xml/xmltextwriter/writedoctype/
 ---
-## XmlTextWriter::WriteDocType method
+## XmlTextWriter::WriteDocType(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Writes the DOCTYPE declaration with the specified name and optional attributes.

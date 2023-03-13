@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all comments from a collection.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/commentcollection/clear/
 ---
-## CommentCollection::Clear method
+## CommentCollection::Clear() method
 
 
 Removes all comments from a collection.

@@ -1,12 +1,12 @@
 ---
-title: set_PercentSymbol
+title: set_PercentSymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets percent symbol.
 type: docs
 weight: 131
 url: /cpp/system.globalization/numberformatinfo/set_percentsymbol/
 ---
-## NumberFormatInfo::set_PercentSymbol method
+## NumberFormatInfo::set_PercentSymbol(const [String](../../../system/string/)\&) method
 
 
 Sets percent symbol.

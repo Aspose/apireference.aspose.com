@@ -1,12 +1,12 @@
 ---
-title: GetSubstitutions
+title: GetSubstitutions()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the information about fonts that will be replaced on the presentation's rendering.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/fontsmanager/getsubstitutions/
 ---
-## FontsManager::GetSubstitutions method
+## FontsManager::GetSubstitutions() method
 
 
 Gets the information about fonts that will be replaced on the presentation's rendering.

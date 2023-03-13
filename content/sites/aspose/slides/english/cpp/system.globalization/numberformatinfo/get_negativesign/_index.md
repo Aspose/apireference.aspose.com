@@ -1,12 +1,12 @@
 ---
-title: get_NegativeSign
+title: get_NegativeSign()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets negative sign.
 type: docs
 weight: 222
 url: /cpp/system.globalization/numberformatinfo/get_negativesign/
 ---
-## NumberFormatInfo::get_NegativeSign method
+## NumberFormatInfo::get_NegativeSign() const method
 
 
 Gets negative sign.

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value at speified index.
 type: docs
 weight: 27
 url: /cpp/system.data/idatarecord/idx_get/
 ---
-## IDataRecord::idx_get method
+## IDataRecord::idx_get(const **int32_t**) method
 
 
 Gets value at speified index.

@@ -1,12 +1,12 @@
 ---
-title: get_Elements
+title: get_Elements()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an arry containing the elements of the matrix in the following order: m11, m12, m21, m22, dx, dy."
 type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/matrix/get_elements/
 ---
-## Matrix::get_Elements method
+## Matrix::get_Elements() const method
 
 
 Returns an arry containing the elements of the matrix in the following order: m11, m12, m21, m22, dx, dy.

@@ -1,12 +1,12 @@
 ---
-title: set_Separator
+title: set_Separator()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets or returns a Variant representing the separator used for the data labels on a chart. Write System::String."
 type: docs
 weight: 339
 url: /cpp/aspose.slides.charts/idatalabelformat/set_separator/
 ---
-## IDataLabelFormat::set_Separator method
+## IDataLabelFormat::set_Separator([System::String](../../../system/string/)) method
 
 
 Sets or returns a Variant representing the separator used for the data labels on a chart. Write [System::String](../../../system/string/).

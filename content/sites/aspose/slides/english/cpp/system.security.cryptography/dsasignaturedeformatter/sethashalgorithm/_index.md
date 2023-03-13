@@ -1,12 +1,12 @@
 ---
-title: SetHashAlgorithm
+title: SetHashAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/dsasignaturedeformatter/sethashalgorithm/
 ---
-## DSASignatureDeformatter::SetHashAlgorithm method
+## DSASignatureDeformatter::SetHashAlgorithm([String](../../../system/string/)) method
 
 
 NOT IMPLEMENTED.

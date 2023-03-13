@@ -1,12 +1,12 @@
 ---
-title: ExportParameters
+title: ExportParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports all parameters.
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography/rsa/exportparameters/
 ---
-## RSA::ExportParameters method
+## RSA::ExportParameters(**bool**) method
 
 
 Exports all parameters.

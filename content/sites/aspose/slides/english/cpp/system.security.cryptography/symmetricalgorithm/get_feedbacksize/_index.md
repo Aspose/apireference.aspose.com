@@ -1,12 +1,12 @@
 ---
-title: get_FeedbackSize
+title: get_FeedbackSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets feedback size of cryptographic operation.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/symmetricalgorithm/get_feedbacksize/
 ---
-## SymmetricAlgorithm::get_FeedbackSize method
+## SymmetricAlgorithm::get_FeedbackSize() method
 
 
 Gets feedback size of cryptographic operation.

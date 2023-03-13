@@ -1,12 +1,12 @@
 ---
-title: get_Labels
+title: get_Labels()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Labels of a series. Read-only IDataLabelCollection.
 type: docs
 weight: 196
 url: /cpp/aspose.slides.charts/chartseries/get_labels/
 ---
-## ChartSeries::get_Labels method
+## ChartSeries::get_Labels() method
 
 
 Returns the Labels of a series. Read-only [IDataLabelCollection](../../idatalabelcollection/).

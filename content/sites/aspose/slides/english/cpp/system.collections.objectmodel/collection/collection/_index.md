@@ -1,5 +1,5 @@
 ---
-title: Collection
+title: Collection()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates empty collection.
 type: docs

@@ -21,31 +21,28 @@ class MatchCollection : public System::Collections::Generic::List<MatchPtr>
 | --- | --- |
 | void [_add_range](../../system.collections.generic/list/_add_range/)(std::initializer_list\<T\>) | C++ specific. |
 | void [Add](../../system.collections.generic/list/add/)(const T\&) override | Adds element to the end of list. |
-| virtual void [Add](../../system.collections.generic/icollection/add/)(const T\&) | Adds element into collection. |
 | void [AddInitializer](../../system.collections.generic/list/addinitializer/)(int, const T) | Adds elements to list; used when translating initializers. |
 | void [AddRange](../../system.collections.generic/list/addrange/)([IEnumerablePtr](../../system.collections.generic/list/ienumerableptr/)) | Adds all elements from collection (or itself) to the end of current list. |
 | [SharedPtr](../../system/sharedptr/)\<[System::Collections::ObjectModel::ReadOnlyCollection](../../system.collections.objectmodel/readonlycollection/)\<T\>\> [AsReadOnly](../../system.collections.generic/list/asreadonly/)() | Gets read-only reference to this collection. |
-| [iterator](../../system.collections.generic/list/iterator/) [begin](../../system.collections.generic/list/begin/)() | Gets iterator to the first element of collection. |
-| [const_iterator](../../system.collections.generic/list/const_iterator/) [begin](../../system.collections.generic/list/begin/)() const | Gets iterator to the first element of the const-qualified collection. |
+| [iterator](../../system.collections.generic/ienumerable/iterator/) [begin](../../system.collections.generic/list/begin/)() | Gets iterator to the first element of collection. |
+| [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [begin](../../system.collections.generic/list/begin/)() const | Gets iterator to the first element of the const-qualified collection. |
 | int [BinarySearch](../../system.collections.generic/list/binarysearch/)(const T\&) const | Looks for item in a sorted list. |
 | int [BinarySearch](../../system.collections.generic/list/binarysearch/)(const T\&, const [SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::IComparer](../../system.collections.generic/icomparer/)\<T\>\>\&) const | Looks for item in a sorted list. |
 | int [BinarySearch](../../system.collections.generic/list/binarysearch/)(int, int, const T\&, const [SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::IComparer](../../system.collections.generic/icomparer/)\<T\>\>\&) const | Looks for item in a sorted list. |
-| [const_iterator](../../system.collections.generic/list/const_iterator/) [cbegin](../../system.collections.generic/list/cbegin/)() const | Gets iterator to the first const-qualified element of collection. |
-| [const_iterator](../../system.collections.generic/list/const_iterator/) [cend](../../system.collections.generic/list/cend/)() const | Gets iterator for a non-existent const-qualified element behind the end of the collection. |
+| [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [cbegin](../../system.collections.generic/list/cbegin/)() const | Gets iterator to the first const-qualified element of collection. |
+| [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [cend](../../system.collections.generic/list/cend/)() const | Gets iterator for a non-existent const-qualified element behind the end of the collection. |
 | void [Clear](../../system.collections.generic/list/clear/)() override | Deletes all elements. |
 | **bool** [Contains](../../system.collections.generic/list/contains/)(const T\&) const override | Checks if item is present in list. |
-| virtual **bool** [Contains](../../system.collections.generic/icollection/contains/)(const T\&) const | Checks if element is present in collection. |
 | [SharedPtr](../../system/sharedptr/)\<[List](../../system.collections.generic/list/)\<OutputType\>\> [ConvertAll](../../system.collections.generic/list/convertall/)([Converter](../../system/converter/)\<T, OutputType\>) | Creates a list of elements converted to different type. |
 | void [CopyTo](../../system.collections.generic/list/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) override | Copies list elements into existing array elements. |
 | void [CopyTo](../../system.collections.generic/list/copyto/)(const [System::ArrayPtr](../../system/arrayptr/)\<T\>\&) | Copies all elements into existing array elements. |
 | void [CopyTo](../../system.collections.generic/list/copyto/)(int, const [System::ArrayPtr](../../system/arrayptr/)\<T\>\&, int, int) | Copies elements starting from the specified index into existing array elements. |
-| virtual void [CopyTo](../../system.collections.generic/icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
 | [const_reverse_iterator](../../system.collections.generic/list/const_reverse_iterator/) [crbegin](../../system.collections.generic/list/crbegin/)() const | Gets a reverse iterator to the last const-qualified element of collection (first in reverse). |
 | [const_reverse_iterator](../../system.collections.generic/list/const_reverse_iterator/) [crend](../../system.collections.generic/list/crend/)() const | Gets a reverse iterator for a non-existent const-qualified element before the start of the collection. |
 | [vector_t](../../system.collections.generic/list/vector_t/)\& [data](../../system.collections.generic/list/data/)() | Underlying data structure access function. |
 | const [vector_t](../../system.collections.generic/list/vector_t/)\& [data](../../system.collections.generic/list/data/)() const | Underlying data structure access function. |
-| [iterator](../../system.collections.generic/list/iterator/) [end](../../system.collections.generic/list/end/)() | Gets iterator for a non-existent element behind the end of the collection. |
-| [const_iterator](../../system.collections.generic/list/const_iterator/) [end](../../system.collections.generic/list/end/)() const | Gets iterator for a non-existent element behind the end of the const-qualified collection. |
+| [iterator](../../system.collections.generic/ienumerable/iterator/) [end](../../system.collections.generic/list/end/)() | Gets iterator for a non-existent element behind the end of the collection. |
+| [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [end](../../system.collections.generic/list/end/)() const | Gets iterator for a non-existent element behind the end of the const-qualified collection. |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |
@@ -75,12 +72,9 @@ class MatchCollection : public System::Collections::Generic::List<MatchPtr>
 |  [ICollection](../../system.collections.generic/icollection/icollection/)([ICollection](../../system.collections.generic/icollection/)\&&) | Move constructor. |
 | T [idx_get](../../system.collections.generic/list/idx_get/)(int) const override | Gets element at specific position. |
 | void [idx_set](../../system.collections.generic/list/idx_set/)(int, T) override | Sets element at specific position. |
-| virtual void [idx_set](../../system.collections.generic/ilist/idx_set/)(int, T) | Sets element at specified index. |
 | int [IndexOf](../../system.collections.generic/list/indexof/)(const T\&) const override | Gets first index of specific item. |
 | int [IndexOf](../../system.collections.generic/list/indexof/)(const T\&, int) const | Looks for specific item in list. |
-| virtual int [IndexOf](../../system.collections.generic/ilist/indexof/)(const T\&) const | Gets index of first appearance of item in container. |
 | void [Insert](../../system.collections.generic/list/insert/)(int, const T\&) override | Inserts item at specified position. |
-| virtual void [Insert](../../system.collections.generic/ilist/insert/)(int, const T\&) | Inserts element into specified position, shifting other elements. |
 | void [InsertRange](../../system.collections.generic/list/insertrange/)(int, [IEnumerablePtr](../../system.collections.generic/list/ienumerableptr/)) | Inserts data range at specific position. |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
 | **bool** [IsReadOnly](./isreadonly/)() const | Marks collection as read-only. |
@@ -140,7 +134,6 @@ class MatchCollection : public System::Collections::Generic::List<MatchPtr>
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | **bool** [Remove](../../system.collections.generic/list/remove/)(const T\&) override | Removes first instance of specific item from list. |
-| virtual **bool** [Remove](../../system.collections.generic/icollection/remove/)(const T\&) | Deletes element from collection. |
 | int [RemoveAll](../../system.collections.generic/list/removeall/)([Predicate](../../system/predicate/)\<T\>) | Removes all elements matching specific predicate. |
 | void [RemoveAt](../../system.collections.generic/list/removeat/)(int) override | Removes item at specified position. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |

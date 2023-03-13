@@ -1,12 +1,12 @@
 ---
-title: MoveToNextAttribute
+title: MoveToNextAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves to the next attribute.
 type: docs
 weight: 482
 url: /cpp/system.xml/xmlvalidatingreader/movetonextattribute/
 ---
-## XmlValidatingReader::MoveToNextAttribute method
+## XmlValidatingReader::MoveToNextAttribute() method
 
 
 Moves to the next attribute.

@@ -1,12 +1,12 @@
 ---
-title: FromTicks
+title: FromTicks()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new TimeSpan object that represents the specified interval.
 type: docs
 weight: 443
 url: /cpp/system/timespan/fromticks/
 ---
-## TimeSpan::FromTicks method
+## TimeSpan::FromTicks(**int64_t**) method
 
 
 Returns a new [TimeSpan](../) object that represents the specified interval.

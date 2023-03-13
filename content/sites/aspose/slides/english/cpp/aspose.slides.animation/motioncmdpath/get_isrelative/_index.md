@@ -1,12 +1,12 @@
 ---
-title: get_IsRelative
+title: get_IsRelative()
 second_title: Aspose.Slides for C++ API Reference
 description: Determine command coordinates relative or not. Read bool.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/motioncmdpath/get_isrelative/
 ---
-## MotionCmdPath::get_IsRelative method
+## MotionCmdPath::get_IsRelative() method
 
 
 Determine command coordinates relative or not. Read **bool**.

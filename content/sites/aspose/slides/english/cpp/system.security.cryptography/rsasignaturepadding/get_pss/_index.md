@@ -1,12 +1,12 @@
 ---
-title: get_Pss
+title: get_Pss()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets PSS mode.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/rsasignaturepadding/get_pss/
 ---
-## RSASignaturePadding::get_Pss method
+## RSASignaturePadding::get_Pss() method
 
 
 Gets PSS mode.

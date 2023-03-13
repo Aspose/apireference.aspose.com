@@ -1,12 +1,12 @@
 ---
-title: get_AutoReset
+title: get_AutoReset()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if timer is in auto-reset mode.
 type: docs
 weight: 40
 url: /cpp/system.timers/timer/get_autoreset/
 ---
-## Timer::get_AutoReset method
+## Timer::get_AutoReset() const method
 
 
 Checks if timer is in auto-reset mode.

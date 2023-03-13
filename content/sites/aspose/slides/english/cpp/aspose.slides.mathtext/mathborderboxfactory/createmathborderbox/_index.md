@@ -1,7 +1,7 @@
 ---
-title: CreateMathBorderBox
+title: CreateMathBorderBox()
 second_title: Aspose.Slides for C++ API Reference
-description: Create a math border box by applying to the element.
+description: Create a math border box by applying to the element
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathborderboxfactory/createmathborderbox/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathborderboxfactory/createmathborderbox/
 ## MathBorderBoxFactory::CreateMathBorderBox([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Create a math border box by applying to the element.
+Create a math border box by applying to the element
 
 ```cpp
 System::SharedPtr<IMathBorderBox> Aspose::Slides::MathText::MathBorderBoxFactory::CreateMathBorderBox(System::SharedPtr<IMathElement> element) override
@@ -37,7 +37,7 @@ new border box element
 ## MathBorderBoxFactory::CreateMathBorderBox([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**) method
 
 
-Create a math border box by applying to the element.
+Create a math border box by applying to the element
 
 ```cpp
 System::SharedPtr<IMathBorderBox> Aspose::Slides::MathText::MathBorderBoxFactory::CreateMathBorderBox(System::SharedPtr<IMathElement> element, bool hideTop, bool hideBottom, bool hideLeft, bool hideRight, bool strikethroughHorizontal, bool strikethroughVertical, bool strikethroughBottomLeftToTopRight, bool strikethroughTopLeftToBottomRight) override

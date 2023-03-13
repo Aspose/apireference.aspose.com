@@ -1,12 +1,12 @@
 ---
-title: WriteTo
+title: WriteTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves the node to the specified XmlWriter. For XmlEntity nodes, this method has no effect.
 type: docs
 weight: 183
 url: /cpp/system.xml/xmlentity/writeto/
 ---
-## XmlEntity::WriteTo method
+## XmlEntity::WriteTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
 
 
 Saves the node to the specified [XmlWriter](../../xmlwriter/). For [XmlEntity](../) nodes, this method has no effect.

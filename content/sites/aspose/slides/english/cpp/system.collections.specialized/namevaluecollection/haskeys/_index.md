@@ -1,12 +1,12 @@
 ---
-title: HasKeys
+title: HasKeys()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value indicating whether the NameValueCollection contains keys that are not null.
 type: docs
 weight: 196
 url: /cpp/system.collections.specialized/namevaluecollection/haskeys/
 ---
-## NameValueCollection::HasKeys method
+## NameValueCollection::HasKeys() method
 
 
 Gets a value indicating whether the [NameValueCollection](../) contains keys that are not null.

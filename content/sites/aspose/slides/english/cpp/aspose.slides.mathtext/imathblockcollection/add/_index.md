@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds IMathBlock to the end of collection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathblockcollection/add/
 ---
-## IMathBlockCollection::Add method
+## IMathBlockCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IMathBlock](../../imathblock/)\>) method
 
 
 Adds [IMathBlock](../../imathblock/) to the end of collection.

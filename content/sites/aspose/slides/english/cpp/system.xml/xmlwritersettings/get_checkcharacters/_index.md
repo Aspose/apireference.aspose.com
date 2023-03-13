@@ -1,12 +1,12 @@
 ---
-title: get_CheckCharacters
+title: get_CheckCharacters()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates whether the XML writer should check to ensure that all characters in the document conform to the \"2.2 Characters\" section of the W3C .
 type: docs
 weight: 235
 url: /cpp/system.xml/xmlwritersettings/get_checkcharacters/
 ---
-## XmlWriterSettings::get_CheckCharacters method
+## XmlWriterSettings::get_CheckCharacters() method
 
 
 Returns a value that indicates whether the XML writer should check to ensure that all characters in the document conform to the \"2.2 Characters\" section of the W3C [XML 1.0 Recommendation](https://www.w3.org/TR/REC-xml/#charsets).

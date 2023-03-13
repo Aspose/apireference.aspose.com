@@ -1,12 +1,12 @@
 ---
-title: IsLeapYear
+title: IsLeapYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines of the specified year is a leap year.
 type: docs
 weight: 820
 url: /cpp/system/datetime/isleapyear/
 ---
-## DateTime::IsLeapYear method
+## DateTime::IsLeapYear(int) method
 
 
 Determines of the specified year is a leap year.

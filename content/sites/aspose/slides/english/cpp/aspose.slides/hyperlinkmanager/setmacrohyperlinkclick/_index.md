@@ -1,12 +1,12 @@
 ---
-title: SetMacroHyperlinkClick
+title: SetMacroHyperlinkClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Set Macro hyperlink on a click.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/hyperlinkmanager/setmacrohyperlinkclick/
 ---
-## HyperlinkManager::SetMacroHyperlinkClick method
+## HyperlinkManager::SetMacroHyperlinkClick([System::String](../../../system/string/)) method
 
 
 Set Macro hyperlink on a click.

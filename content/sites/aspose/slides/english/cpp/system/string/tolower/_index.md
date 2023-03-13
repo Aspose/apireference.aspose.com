@@ -1,5 +1,5 @@
 ---
-title: ToLower
+title: ToLower()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts all string's characters to lower case.
 type: docs

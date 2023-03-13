@@ -1,12 +1,12 @@
 ---
-title: get_Light2
+title: get_Light2()
 second_title: Aspose.Slides for C++ API Reference
 description: Second light color in the scheme. Read-only IColorFormat.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.theme/icolorscheme/get_light2/
 ---
-## IColorScheme::get_Light2 method
+## IColorScheme::get_Light2() method
 
 
 Second light color in the scheme. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

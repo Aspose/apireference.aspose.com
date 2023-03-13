@@ -1,12 +1,12 @@
 ---
-title: get_LayoutSlides
+title: get_LayoutSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a list of all layout slides that are defined in the presentation. Read-only IGlobalLayoutSlideCollection.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/ipresentation/get_layoutslides/
 ---
-## IPresentation::get_LayoutSlides method
+## IPresentation::get_LayoutSlides() method
 
 
 Returns a list of all layout slides that are defined in the presentation. Read-only [IGlobalLayoutSlideCollection](../../igloballayoutslidecollection/).

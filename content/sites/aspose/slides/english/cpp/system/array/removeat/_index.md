@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Not supported because array represented by the current object is read-only.
 type: docs
 weight: 157
 url: /cpp/system/array/removeat/
 ---
-## Array::RemoveAt method
+## Array::RemoveAt(int) method
 
 
 Not supported because array represented by the current object is read-only.

@@ -1,5 +1,5 @@
 ---
-title: GetUtcOffsetFromUtc
+title: GetUtcOffsetFromUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Internal helper function that returns the UTC offset for a UTC-datetime in a specified time zone. FOR INTERNAL USE.
 type: docs

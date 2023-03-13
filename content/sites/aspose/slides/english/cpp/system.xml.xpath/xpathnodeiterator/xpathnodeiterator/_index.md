@@ -1,12 +1,12 @@
 ---
-title: XPathNodeIterator
+title: XPathNodeIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XPathNodeIterator class.
 type: docs
 weight: 79
 url: /cpp/system.xml.xpath/xpathnodeiterator/xpathnodeiterator/
 ---
-## XPathNodeIterator::XPathNodeIterator constructor
+## XPathNodeIterator::XPathNodeIterator() constructor
 
 
 Initializes a new instance of the [XPathNodeIterator](../) class.

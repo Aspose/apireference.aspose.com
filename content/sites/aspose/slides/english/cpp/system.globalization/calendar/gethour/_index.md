@@ -1,12 +1,12 @@
 ---
-title: GetHour
+title: GetHour()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets hours for the specified time point.
 type: docs
 weight: 261
 url: /cpp/system.globalization/calendar/gethour/
 ---
-## Calendar::GetHour method
+## Calendar::GetHour([DateTime](../../../system/datetime/)) const method
 
 
 Gets hours for the specified time point.

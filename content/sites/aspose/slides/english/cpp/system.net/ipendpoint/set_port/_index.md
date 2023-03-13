@@ -1,12 +1,12 @@
 ---
-title: set_Port
+title: set_Port()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the port number.
 type: docs
 weight: 53
 url: /cpp/system.net/ipendpoint/set_port/
 ---
-## IPEndPoint::set_Port method
+## IPEndPoint::set_Port(**int32_t**) method
 
 
 Sets the port number.

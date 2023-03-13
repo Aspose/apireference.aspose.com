@@ -1,12 +1,12 @@
 ---
-title: get_FrameIndex
+title: get_FrameIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the frame index.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/presentationplayer/get_frameindex/
 ---
-## PresentationPlayer::get_FrameIndex method
+## PresentationPlayer::get_FrameIndex() method
 
 
 Gets the frame index.

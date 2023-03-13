@@ -1,12 +1,12 @@
 ---
-title: get_HighlightClick
+title: get_HighlightClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the hyperlink should be highlighted on click. Read bool.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/ihyperlink/get_highlightclick/
 ---
-## IHyperlink::get_HighlightClick method
+## IHyperlink::get_HighlightClick() method
 
 
 Determines whether the hyperlink should be highlighted on click. Read **bool**.

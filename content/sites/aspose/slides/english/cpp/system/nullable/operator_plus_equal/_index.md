@@ -1,5 +1,5 @@
 ---
-title: operator+=
+title: operator+=()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets the current object so that it represents a null-value.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_MouseWheelScrollLines
+title: get_MouseWheelScrollLines()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 937
 url: /cpp/system.windows.forms/systeminformation/get_mousewheelscrolllines/
 ---
-## SystemInformation::get_MouseWheelScrollLines method
+## SystemInformation::get_MouseWheelScrollLines() method
 
 
 NOT IMPLEMENTED.

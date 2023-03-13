@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns node by index. Read-only ISmartArtNode
 type: docs
 weight: 1
 url: /cpp/aspose.slides.smartart/ismartartnodecollection/idx_get/
 ---
-## ISmartArtNodeCollection::idx_get method
+## ISmartArtNodeCollection::idx_get(**int32_t**) method
 
 
 Returns node by index. Read-only [ISmartArtNode](../../ismartartnode/)

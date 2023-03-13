@@ -1,12 +1,12 @@
 ---
-title: WriteEntityRef
+title: WriteEntityRef()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes out an entity reference as &name;.
 type: docs
 weight: 339
 url: /cpp/system.xml/xmltextwriter/writeentityref/
 ---
-## XmlTextWriter::WriteEntityRef method
+## XmlTextWriter::WriteEntityRef(const [String](../../../system/string/)\&) method
 
 
 Writes out an entity reference as **&name**;.

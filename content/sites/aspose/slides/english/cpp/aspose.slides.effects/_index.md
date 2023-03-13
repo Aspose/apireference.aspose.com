@@ -25,7 +25,7 @@ url: /cpp/aspose.slides.effects/
 | [ColorChange](./colorchange/) | Represents a Color Change effect. Instances of FromColor are replaced with instances of ToColor. |
 | [ColorReplace](./colorreplace/) | Represents a Color Replacement effect. All effect colors are changed to a fixed color. Alpha values are unaffected. |
 | [Duotone](./duotone/) | Represents a [Duotone](./duotone/) effect. For each pixel, combines Color1 and Color2 through a linear interpolation to determine the new color for that pixel. |
-| [EffectFactory](./effectfactory/) | Allows to create effects. |
+| [EffectFactory](./effectfactory/) | Allows to create effects |
 | [FillOverlay](./filloverlay/) | Represents a Fill Overlay effect. A fill overlay may be used to specify an additional fill for an object and blend the two fills together. |
 | [Glow](./glow/) | Represents a [Glow](./glow/) effect, in which a color blurred outline is added outside the edges of the object. |
 | [GrayScale](./grayscale/) | Represents a Gray Scale effect. Converts all effect color values to a shade of gray, corresponding to their luminance. Effect alpha (opacity) values are unaffected. |
@@ -56,7 +56,7 @@ url: /cpp/aspose.slides.effects/
 | [IDuotone](./iduotone/) | Represents a [Duotone](./duotone/) effect. |
 | [IDuotoneEffectiveData](./iduotoneeffectivedata/) | Immutable object which represents a [Duotone](./duotone/) effect. For each pixel, combines clr1 and clr2 through a linear interpolation to determine the new color for that pixel. |
 | [IEffectEffectiveData](./ieffecteffectivedata/) | Base class for immutable objects, which represent effect. |
-| [IEffectFactory](./ieffectfactory/) | Allows to create effects' instances. |
+| [IEffectFactory](./ieffectfactory/) | Allows to create effects' instances |
 | [IFillOverlay](./ifilloverlay/) | Represents a Fill Overlay effect. A fill overlay may be used to specify an additional fill for an object and blend the two fills together. |
 | [IFillOverlayEffectiveData](./ifilloverlayeffectivedata/) | Immutable object which represents a Fill Overlay effect. A fill overlay may be used to specify an additional fill for an object and blend the two fills together. |
 | [IGlow](./iglow/) | Represents a [Glow](./glow/) effect, in which a color blurred outline is added outside the edges of the object. |
@@ -68,7 +68,7 @@ url: /cpp/aspose.slides.effects/
 | [IImageTransformOCollectionEffectiveData](./iimagetransformocollectioneffectivedata/) | Immutable object that represents a readonly collection of effective image transform effects. |
 | [IImageTransformOperation](./iimagetransformoperation/) | Represents abstract image transformation effect. |
 | [IImageTransformOperationCollection](./iimagetransformoperationcollection/) | Represents a collection of effects apllied to an image. |
-| [IImageTransformOperationFactory](./iimagetransformoperationfactory/) | Allows to create image effects' instances. |
+| [IImageTransformOperationFactory](./iimagetransformoperationfactory/) | Allows to create image effects' instances |
 | [IInnerShadow](./iinnershadow/) | Represents a inner shadow effect. |
 | [IInnerShadowEffectiveData](./iinnershadoweffectivedata/) | Immutable object which represents a inner shadow effect. |
 | [ILuminance](./iluminance/) | Represents a [Luminance](./luminance/) effect. Brightness linearly shifts all colors closer to white or black. Contrast scales all colors to be either closer or further apart. |
@@ -76,7 +76,7 @@ url: /cpp/aspose.slides.effects/
 | [ImageTransformOCollectionEffectiveData](./imagetransformocollectioneffectivedata/) | Immutable object that represents a readonly collection of effective image transform effects. |
 | [ImageTransformOperation](./imagetransformoperation/) | Represents abstract image transformation effect. |
 | [ImageTransformOperationCollection](./imagetransformoperationcollection/) | Represents a collection of effects apllied to an image. |
-| [ImageTransformOperationFactory](./imagetransformoperationfactory/) | Allows to create image transform operations. |
+| [ImageTransformOperationFactory](./imagetransformoperationfactory/) | Allows to create image transform operations |
 | [InnerShadow](./innershadow/) | Represents a Inner Shadow effect. |
 | [IOuterShadow](./ioutershadow/) | Represents an Outer Shadow effect. |
 | [IOuterShadowEffectiveData](./ioutershadoweffectivedata/) | Immutable object which represents an Outer Shadow effect. |

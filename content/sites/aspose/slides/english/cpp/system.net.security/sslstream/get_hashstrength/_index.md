@@ -1,12 +1,12 @@
 ---
-title: get_HashStrength
+title: get_HashStrength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the strength of the used hash algorithm.
 type: docs
 weight: 157
 url: /cpp/system.net.security/sslstream/get_hashstrength/
 ---
-## SslStream::get_HashStrength method
+## SslStream::get_HashStrength() method
 
 
 Returns the strength of the used hash algorithm.

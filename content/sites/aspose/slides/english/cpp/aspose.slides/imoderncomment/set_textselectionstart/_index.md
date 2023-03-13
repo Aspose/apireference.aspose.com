@@ -1,12 +1,12 @@
 ---
-title: set_TextSelectionStart
+title: set_TextSelectionStart()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets starting position of text selection in text frame if the comment associated with AutoShape. Write int32_t.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/imoderncomment/set_textselectionstart/
 ---
-## IModernComment::set_TextSelectionStart method
+## IModernComment::set_TextSelectionStart(**int32_t**) method
 
 
 Sets starting position of text selection in text frame if the comment associated with [AutoShape](../../autoshape/). Write **int32_t**.

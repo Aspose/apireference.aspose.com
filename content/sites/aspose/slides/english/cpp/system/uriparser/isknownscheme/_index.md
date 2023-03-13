@@ -1,12 +1,12 @@
 ---
-title: IsKnownScheme
+title: IsKnownScheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether the parser for a scheme is registered.
 type: docs
 weight: 1
 url: /cpp/system/uriparser/isknownscheme/
 ---
-## UriParser::IsKnownScheme method
+## UriParser::IsKnownScheme(const [String](../../string/)\&) method
 
 
 Indicates whether the parser for a scheme is registered.

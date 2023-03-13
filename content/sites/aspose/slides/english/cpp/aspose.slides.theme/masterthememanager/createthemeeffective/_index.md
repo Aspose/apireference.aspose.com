@@ -1,12 +1,12 @@
 ---
-title: CreateThemeEffective
+title: CreateThemeEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the theme object.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.theme/masterthememanager/createthemeeffective/
 ---
-## MasterThemeManager::CreateThemeEffective method
+## MasterThemeManager::CreateThemeEffective() method
 
 
 Returns the theme object.

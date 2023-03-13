@@ -1,12 +1,12 @@
 ---
-title: SetDigitSubstitution
+title: SetDigitSubstitution()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets digit substitution language and method.
 type: docs
 weight: 196
 url: /cpp/system.drawing/stringformat/setdigitsubstitution/
 ---
-## StringFormat::SetDigitSubstitution method
+## StringFormat::SetDigitSubstitution(**int32_t**, [StringDigitSubstitute](../../stringdigitsubstitute/)) method
 
 
 Sets digit substitution language and method.

@@ -1,12 +1,12 @@
 ---
-title: virtualizeEndConstIterator
+title: virtualizeEndConstIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing right after the last element (if any)of the const-qualified instance of the collection.
 type: docs
 weight: 235
 url: /cpp/aspose.slides.charts/piesplitcustompointcollection/virtualizeendconstiterator/
 ---
-## PieSplitCustomPointCollection::virtualizeEndConstIterator method
+## PieSplitCustomPointCollection::virtualizeEndConstIterator() const method
 
 
 Gets iterator pointing right after the last element (if any)of the const-qualified instance of the collection.

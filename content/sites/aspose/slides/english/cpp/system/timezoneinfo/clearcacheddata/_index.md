@@ -1,12 +1,12 @@
 ---
-title: ClearCachedData
+title: ClearCachedData()
 second_title: Aspose.Slides for C++ API Reference
 description: Clear cached time zone data.
 type: docs
 weight: 27
 url: /cpp/system/timezoneinfo/clearcacheddata/
 ---
-## TimeZoneInfo::ClearCachedData method
+## TimeZoneInfo::ClearCachedData() method
 
 
 Clear cached time zone data.

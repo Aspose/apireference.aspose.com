@@ -1,12 +1,12 @@
 ---
-title: GetObjectOrNull
+title: GetObjectOrNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets pointed object (if any) or nullptr. Same as get().
 type: docs
 weight: 313
 url: /cpp/system/smartptr/getobjectornull/
 ---
-## SmartPtr::GetObjectOrNull method
+## SmartPtr::GetObjectOrNull() const method
 
 
 Gets pointed object (if any) or nullptr. Same as [get()](../get/).

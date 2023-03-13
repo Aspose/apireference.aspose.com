@@ -1,12 +1,12 @@
 ---
-title: get_ImageTransform
+title: get_ImageTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the collection of image transform effects. Read-only Effects::IImageTransformOCollectionEffectiveData."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ipictureeffectivedata/get_imagetransform/
 ---
-## IPictureEffectiveData::get_ImageTransform method
+## IPictureEffectiveData::get_ImageTransform() method
 
 
 Returns the collection of image transform effects. Read-only [Effects::IImageTransformOCollectionEffectiveData](../../../aspose.slides.effects/iimagetransformocollectioneffectivedata/).

@@ -1,12 +1,12 @@
 ---
-title: Remainder
+title: Remainder()
 second_title: Aspose.Slides for C++ API Reference
 description: Computes the remainder after dividing two Decimal values.
 type: docs
 weight: 599
 url: /cpp/system/decimal/remainder/
 ---
-## Decimal::Remainder method
+## Decimal::Remainder(const [Decimal](../)\&, const [Decimal](../)\&) method
 
 
 Computes the remainder after dividing two [Decimal](../) values.

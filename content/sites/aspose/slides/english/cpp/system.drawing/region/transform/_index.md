@@ -1,5 +1,5 @@
 ---
-title: Transform
+title: Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Transforms this region by the specified matrix.
 type: docs

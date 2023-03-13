@@ -1,12 +1,12 @@
 ---
-title: get_Data
+title: get_Data()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.xml/dataobject/get_data/
 ---
-## DataObject::get_Data method
+## DataObject::get_Data() method
 
 
 

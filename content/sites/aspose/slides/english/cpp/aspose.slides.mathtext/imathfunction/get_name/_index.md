@@ -1,15 +1,15 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
-description: Function name For example, function names are sin and cos.
+description: Function name For example, function names are sin and cos
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathfunction/get_name/
 ---
-## IMathFunction::get_Name method
+## IMathFunction::get_Name() method
 
 
-Function name For example, function names are sin and cos.
+Function name For example, function names are sin and cos
 
 ```cpp
 virtual System::SharedPtr<IMathElement> Aspose::Slides::MathText::IMathFunction::get_Name()=0

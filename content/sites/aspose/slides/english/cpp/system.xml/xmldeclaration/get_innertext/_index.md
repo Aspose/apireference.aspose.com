@@ -1,12 +1,12 @@
 ---
-title: get_InnerText
+title: get_InnerText()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the concatenated values of the XmlDeclaration.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmldeclaration/get_innertext/
 ---
-## XmlDeclaration::get_InnerText method
+## XmlDeclaration::get_InnerText() method
 
 
 Returns the concatenated values of the [XmlDeclaration](../).

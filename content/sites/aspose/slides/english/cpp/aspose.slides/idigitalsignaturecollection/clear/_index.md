@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all signatures from collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/idigitalsignaturecollection/clear/
 ---
-## IDigitalSignatureCollection::Clear method
+## IDigitalSignatureCollection::Clear() method
 
 
 Removes all signatures from collection.

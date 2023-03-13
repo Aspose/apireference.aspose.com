@@ -28,7 +28,7 @@ url: /cpp/aspose.slides.charts/
 | [ChartDataPointCollection](./chartdatapointcollection/) | Represents collection of a series data point. |
 | [ChartDataPointLevel](./chartdatapointlevel/) | Represents data point level. Applies for Treemap and Sunburst chart. |
 | [ChartDataPointLevelsManager](./chartdatapointlevelsmanager/) | Container of data point levels. Applied for Treeamp and Sunburst series. Data point levels indexing is zero-based. |
-| [ChartDataWorkbook](./chartdataworkbook/) | Provides access to embedded Excel workbook. |
+| [ChartDataWorkbook](./chartdataworkbook/) | Provides access to embedded Excel workbook |
 | [ChartDataWorksheet](./chartdataworksheet/) | Represents worksheet associated with [IChartDataCell](./ichartdatacell/) |
 | [ChartDataWorksheetCollection](./chartdataworksheetcollection/) | Represents the collection of worksheets of chart data workbook. |
 | [ChartLinesFormat](./chartlinesformat/) | Represents gridlines format properties. |
@@ -44,7 +44,7 @@ url: /cpp/aspose.slides.charts/
 | [DataLabel](./datalabel/) | Represents a series labels. |
 | [DataLabelCollection](./datalabelcollection/) | Represents a series labels. |
 | [DataLabelFormat](./datalabelformat/) | Represents formatting options for [DataLabel](./datalabel/). |
-| [DataSourceTypeForErrorBarsCustomValues](./datasourcetypeforerrorbarscustomvalues/) | Specifies types of values in [ChartDataPoint::get_ErrorBarsCustomValues](./chartdatapoint/get_errorbarscustomvalues/) properties list. |
+| [DataSourceTypeForErrorBarsCustomValues](./datasourcetypeforerrorbarscustomvalues/) | Specifies types of values in [ChartDataPoint::get_ErrorBarsCustomValues](./chartdatapoint/get_errorbarscustomvalues/) properties list |
 | [DataTable](./datatable/) | Represents data table properties. |
 | [Details_AxesCompositionNotCombinableException](./details_axescompositionnotcombinableexception/) | Exception which thrown when axes composition of the series is not combinable with present axes composition in chart. |
 | [Details_CannotCombine2DAnd3DChartsException](./details_cannotcombine2dand3dchartsexception/) | Exception which thrown when trying to combine 2D and 3D chart types. |
@@ -69,7 +69,7 @@ url: /cpp/aspose.slides.charts/
 | [IChartDataPointCollection](./ichartdatapointcollection/) | Represents collection of a series data point. |
 | [IChartDataPointLevel](./ichartdatapointlevel/) | Represents data point level. Applies for Treemap and Sunburst chart. |
 | [IChartDataPointLevelsManager](./ichartdatapointlevelsmanager/) | Container of data point levels. Applied for Treeamp and Sunburst series. Data point levels indexing is zero-based. |
-| [IChartDataWorkbook](./ichartdataworkbook/) | Provides access to embedded Excel workbook. |
+| [IChartDataWorkbook](./ichartdataworkbook/) | Provides access to embedded Excel workbook |
 | [IChartDataWorksheet](./ichartdataworksheet/) | Represents worksheet associated with [IChartDataCell](./ichartdatacell/) |
 | [IChartDataWorksheetCollection](./ichartdataworksheetcollection/) | Represents the collection of worksheets of chart data workbook. |
 | [IChartLinesFormat](./ichartlinesformat/) | Represents gridlines format properties. |
@@ -88,7 +88,7 @@ url: /cpp/aspose.slides.charts/
 | [IDataLabel](./idatalabel/) | Represents a series labels. |
 | [IDataLabelCollection](./idatalabelcollection/) | Represents a series labels. |
 | [IDataLabelFormat](./idatalabelformat/) | Represents formatting options for [DataLabel](./datalabel/). |
-| [IDataSourceTypeForErrorBarsCustomValues](./idatasourcetypeforerrorbarscustomvalues/) | Specifies types of values in ChartDataPoint.ErrorBarsCustomValues properties list. |
+| [IDataSourceTypeForErrorBarsCustomValues](./idatasourcetypeforerrorbarscustomvalues/) | Specifies types of values in ChartDataPoint.ErrorBarsCustomValues properties list |
 | [IDataTable](./idatatable/) | Represents data table properties. |
 | [IDoubleChartValue](./idoublechartvalue/) | Represent double value which can be stored in pptx presentation document in two ways: 1) in cell/cells of workbook related to chart; 2) as literal value. |
 | [IErrorBarsCustomValues](./ierrorbarscustomvalues/) | Specifies the errors bar values. It shall be used only when the Error bars value type is Custom. |
@@ -107,8 +107,8 @@ url: /cpp/aspose.slides.charts/
 | [ISingleCellChartValue](./isinglecellchartvalue/) | Represents a chart data cell. |
 | [IStringChartValue](./istringchartvalue/) | Represent string value which can be stored in pptx presentation document in two ways: 1) in cell/cells of workbook related to chart; 2) as literal value. |
 | [IStringOrDoubleChartValue](./istringordoublechartvalue/) | Represent string or double value which can be stored in pptx presentation document in two ways: 1) in cell/cells of workbook related to chart; 2) as literal value. |
-| [ITrendline](./itrendline/) | Class represents trend line of chart series. |
-| [ITrendlineCollection](./itrendlinecollection/) | Represents a collection of TrendlineEx. |
+| [ITrendline](./itrendline/) | Class represents trend line of chart series |
+| [ITrendlineCollection](./itrendlinecollection/) | Represents a collection of TrendlineEx |
 | [IUpDownBarsManager](./iupdownbarsmanager/) | Provide access to up/down bars of Line- or Stock-chart. |
 | [Legend](./legend/) | Represents chart's legend properties. |
 | [LegendEntryCollection](./legendentrycollection/) | Represents legends collection. |
@@ -118,8 +118,8 @@ url: /cpp/aspose.slides.charts/
 | [Rotation3D](./rotation3d/) | Represents 3D rotation of a chart. |
 | [StringChartValue](./stringchartvalue/) | Represent string value which can be stored in pptx presentation document in two ways: 1) in cell/cells of workbook related to chart; 2) as literal value. |
 | [StringOrDoubleChartValue](./stringordoublechartvalue/) | Represent string or double value which can be stored in pptx presentation document in two ways: 1) in cell/cells of workbook related to chart; 2) as literal value. |
-| [Trendline](./trendline/) | Class represents trend line of chart series. |
-| [TrendlineCollection](./trendlinecollection/) | Represents a collection of [Trendline](./trendline/). |
+| [Trendline](./trendline/) | Class represents trend line of chart series |
+| [TrendlineCollection](./trendlinecollection/) | Represents a collection of [Trendline](./trendline/) |
 | [UpDownBarsManager](./updownbarsmanager/) | Provide access to up/down bars of Line- or Stock-chart. |
 ## Enums
 
@@ -129,7 +129,7 @@ url: /cpp/aspose.slides.charts/
 | [AxisPositionType](./axispositiontype/) | Determines a position of axis. |
 | [BubbleSizeRepresentationType](./bubblesizerepresentationtype/) | Specifies the possible ways to represent data as bubble chart sizes. |
 | [CategoryAxisType](./categoryaxistype/) | Represents a type of a category axis. |
-| [ChartDataSourceType](./chartdatasourcetype/) | Represents a type of data source of the chart. |
+| [ChartDataSourceType](./chartdatasourcetype/) | Represents a type of data source of the chart |
 | [ChartShapeType](./chartshapetype/) | Represents a shape of chart. |
 | [ChartType](./charttype/) | Represents a type of chart. |
 | [CombinableSeriesTypesGroup](./combinableseriestypesgroup/) | Enumeration of groups of combinable series types. Each element relates to group of types of chart series that can persist simultaneously in one [ChartSeriesGroup](./chartseriesgroup/). For example: [ChartType::PercentsStackedArea](./charttype/) series cannot be simultaneously with [ChartType::StackedArea](./charttype/) series in one [ChartSeriesGroup](./chartseriesgroup/). But two or more [ChartType::PercentsStackedArea](./charttype/) can be in one [ChartSeriesGroup](./chartseriesgroup/) simultaneously ([CombinableSeriesTypesGroup::AreaChart_PercentsStackedArea](./combinableseriestypesgroup/)). And [ChartType::Line](./charttype/) series can be with [ChartType::LineWithMarkers](./charttype/) series simultaneously in one [CombinableSeriesTypesGroup::LineChart_Line](./combinableseriestypesgroup/)[ChartSeriesGroup](./chartseriesgroup/). |
@@ -137,8 +137,8 @@ url: /cpp/aspose.slides.charts/
 | [DataSourceType](./datasourcetype/) | Data source types. |
 | [DisplayBlanksAsType](./displayblanksastype/) | Determines how missing data will be displayed. |
 | [DisplayUnitType](./displayunittype/) | Determines multiplicity of the displayed data. |
-| [ErrorBarType](./errorbartype/) | Represents type of error bar. |
-| [ErrorBarValueType](./errorbarvaluetype/) | Represents type of error bar value. |
+| [ErrorBarType](./errorbartype/) | Represents type of error bar |
+| [ErrorBarValueType](./errorbarvaluetype/) | Represents type of error bar value |
 | [LayoutTargetType](./layouttargettype/) | If layout of the plot area defined manually this property specifies whether to layout the plot area by its inside (not including axis and axis labels) or outside (including axis and axis labels). |
 | [LegendDataLabelPosition](./legenddatalabelposition/) | Determines position of data labels. |
 | [LegendPositionType](./legendpositiontype/) | Determines a position of legend on a chart. |
@@ -146,12 +146,12 @@ url: /cpp/aspose.slides.charts/
 | [ParentLabelLayoutType](./parentlabellayouttype/) | Represents layout of category data labels. Used with Treemap series only. |
 | [PictureType](./picturetype/) | Determines mode of bar picture filling. |
 | [PieSplitType](./piesplittype/) | Represents a type of splitting points in the second pie or bar on a pie-of-pie or bar-of-pie chart. |
-| [QuartileMethodType](./quartilemethodtype/) | Returns type of quartile method. |
+| [QuartileMethodType](./quartilemethodtype/) | Returns type of quartile method |
 | [StyleType](./styletype/) | Represents chart style. |
 | [TickLabelPositionType](./ticklabelpositiontype/) | Represents the position type of tick-mark labels on the specified axis. |
 | [TickMarkType](./tickmarktype/) | Represents the tick mark type for the specified axis. |
-| [TimeUnitType](./timeunittype/) | Represents the base unit for the category axis. |
-| [TrendlineType](./trendlinetype/) | Represents type of trend line. |
+| [TimeUnitType](./timeunittype/) | Represents the base unit for the category axis |
+| [TrendlineType](./trendlinetype/) | Represents type of trend line |
 ## Typedefs
 
 | Typedef | Description |

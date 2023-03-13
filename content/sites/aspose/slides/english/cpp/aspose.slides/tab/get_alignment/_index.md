@@ -1,12 +1,12 @@
 ---
-title: get_Alignment
+title: get_Alignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns align style of a tab. Read TabAlignment.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/tab/get_alignment/
 ---
-## Tab::get_Alignment method
+## Tab::get_Alignment() method
 
 
 Returns align style of a tab. Read [TabAlignment](../../tabalignment/).

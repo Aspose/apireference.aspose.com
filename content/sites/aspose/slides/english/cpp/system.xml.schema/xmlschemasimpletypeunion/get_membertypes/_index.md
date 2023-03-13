@@ -1,12 +1,12 @@
 ---
-title: get_MemberTypes
+title: get_MemberTypes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the array of qualified member names of built-in data types or simpleType elements defined in this schema (or another schema indicated by the specified namespace).
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemasimpletypeunion/get_membertypes/
 ---
-## XmlSchemaSimpleTypeUnion::get_MemberTypes method
+## XmlSchemaSimpleTypeUnion::get_MemberTypes() method
 
 
 Returns the array of qualified member names of built-in data types or **simpleType** elements defined in this schema (or another schema indicated by the specified namespace).

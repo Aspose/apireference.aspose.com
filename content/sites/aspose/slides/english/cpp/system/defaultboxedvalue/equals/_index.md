@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the equality of the boxed values represented by the current and specified objects.
 type: docs
 weight: 40
 url: /cpp/system/defaultboxedvalue/equals/
 ---
-## DefaultBoxedValue::Equals method
+## DefaultBoxedValue::Equals([ptr](../../object/ptr/)) method
 
 
 Determines the equality of the boxed values represented by the current and specified objects.

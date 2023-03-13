@@ -1,12 +1,12 @@
 ---
-title: get_ActualY
+title: get_ActualY()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies actual top of the chart element relative to the left top corner of the chart. Call method IChart::ValidateChartLayout before to get actual values. Read float."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/iactuallayout/get_actualy/
 ---
-## IActualLayout::get_ActualY method
+## IActualLayout::get_ActualY() method
 
 
 Specifies actual top of the chart element relative to the left top corner of the chart. Call method [IChart::ValidateChartLayout](../../ichart/validatechartlayout/) before to get actual values. Read **float**.

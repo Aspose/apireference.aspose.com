@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Atomizes the specified string and adds it to the NameTable.
 type: docs

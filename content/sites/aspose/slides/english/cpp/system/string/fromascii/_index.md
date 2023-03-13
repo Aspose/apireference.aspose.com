@@ -1,5 +1,5 @@
 ---
-title: FromAscii
+title: FromAscii()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates String from ASCII string.
 type: docs

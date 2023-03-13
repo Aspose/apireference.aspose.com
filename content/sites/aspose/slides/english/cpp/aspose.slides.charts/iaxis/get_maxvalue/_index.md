@@ -1,12 +1,12 @@
 ---
-title: get_MaxValue
+title: get_MaxValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the maximum value on the value axis. Read double.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/iaxis/get_maxvalue/
 ---
-## IAxis::get_MaxValue method
+## IAxis::get_MaxValue() method
 
 
 Represents the maximum value on the value axis. Read **double**.

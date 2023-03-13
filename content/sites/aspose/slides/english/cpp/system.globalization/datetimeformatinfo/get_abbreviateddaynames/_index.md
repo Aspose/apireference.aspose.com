@@ -1,12 +1,12 @@
 ---
-title: get_AbbreviatedDayNames
+title: get_AbbreviatedDayNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets abbreviated day names.
 type: docs
 weight: 261
 url: /cpp/system.globalization/datetimeformatinfo/get_abbreviateddaynames/
 ---
-## DateTimeFormatInfo::get_AbbreviatedDayNames method
+## DateTimeFormatInfo::get_AbbreviatedDayNames() const method
 
 
 Gets abbreviated day names.

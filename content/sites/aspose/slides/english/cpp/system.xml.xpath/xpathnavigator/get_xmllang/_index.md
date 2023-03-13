@@ -1,12 +1,12 @@
 ---
-title: get_XmlLang
+title: get_XmlLang()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the xml:lang scope for the current node."
 type: docs
 weight: 222
 url: /cpp/system.xml.xpath/xpathnavigator/get_xmllang/
 ---
-## XPathNavigator::get_XmlLang method
+## XPathNavigator::get_XmlLang() method
 
 
 Returns the **xml:lang** scope for the current node.

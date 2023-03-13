@@ -1,12 +1,12 @@
 ---
-title: Equals< float >
+title: Equals< float >()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two single-precision floating-point values.
 type: docs
 weight: 14
 url: /cpp/system.boxedvaluedetail/equals_less_float__greater/
 ---
-## System::BoxedValueDetail::Equals< float > function
+## System::BoxedValueDetail::Equals< float >(**float**, **float**) function
 
 
 Compares two single-precision floating-point values.

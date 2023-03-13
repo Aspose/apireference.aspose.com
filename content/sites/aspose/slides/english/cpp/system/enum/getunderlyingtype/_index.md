@@ -1,12 +1,12 @@
 ---
-title: GetUnderlyingType
+title: GetUnderlyingType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the underlying type of the enumeration.
 type: docs
 weight: 1
 url: /cpp/system/enum/getunderlyingtype/
 ---
-## Enum::GetUnderlyingType method
+## Enum::GetUnderlyingType() method
 
 
 Returns the underlying type of the enumeration.

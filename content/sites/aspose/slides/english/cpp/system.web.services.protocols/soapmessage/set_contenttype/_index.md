@@ -1,12 +1,12 @@
 ---
-title: set_ContentType
+title: set_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Content-Type' header.
 type: docs
 weight: 79
 url: /cpp/system.web.services.protocols/soapmessage/set_contenttype/
 ---
-## SoapMessage::set_ContentType method
+## SoapMessage::set_ContentType([String](../../../system/string/)) method
 
 
 Sets a value of the 'Content-Type' header.

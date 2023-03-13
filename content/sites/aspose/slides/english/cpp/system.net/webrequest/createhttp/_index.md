@@ -1,5 +1,5 @@
 ---
-title: CreateHttp
+title: CreateHttp()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new instance of the WebRequest class using the specified URI.
 type: docs

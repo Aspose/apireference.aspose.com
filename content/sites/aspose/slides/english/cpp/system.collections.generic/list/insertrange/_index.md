@@ -1,12 +1,12 @@
 ---
-title: InsertRange
+title: InsertRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts data range at specific position.
 type: docs
 weight: 456
 url: /cpp/system.collections.generic/list/insertrange/
 ---
-## List::InsertRange method
+## List::InsertRange(int, [IEnumerablePtr](../ienumerableptr/)) method
 
 
 Inserts data range at specific position.

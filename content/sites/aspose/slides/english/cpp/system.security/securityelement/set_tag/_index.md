@@ -1,12 +1,12 @@
 ---
-title: set_Tag
+title: set_Tag()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets tag name.
 type: docs
 weight: 79
 url: /cpp/system.security/securityelement/set_tag/
 ---
-## SecurityElement::set_Tag method
+## SecurityElement::set_Tag(const [String](../../../system/string/)\&) method
 
 
 Sets tag name.

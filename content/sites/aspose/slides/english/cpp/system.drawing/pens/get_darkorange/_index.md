@@ -1,12 +1,12 @@
 ---
-title: get_DarkOrange
+title: get_DarkOrange()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFF8C00.
 type: docs
 weight: 391
 url: /cpp/system.drawing/pens/get_darkorange/
 ---
-## Pens::get_DarkOrange method
+## Pens::get_DarkOrange() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFF8C00.

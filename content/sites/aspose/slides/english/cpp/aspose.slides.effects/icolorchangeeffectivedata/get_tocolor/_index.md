@@ -1,12 +1,12 @@
 ---
-title: get_ToColor
+title: get_ToColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Color which will replace. Read-only System::Drawing::Color."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/icolorchangeeffectivedata/get_tocolor/
 ---
-## IColorChangeEffectiveData::get_ToColor method
+## IColorChangeEffectiveData::get_ToColor() method
 
 
 Color which will replace. Read-only [System::Drawing::Color](../../../system.drawing/color/).

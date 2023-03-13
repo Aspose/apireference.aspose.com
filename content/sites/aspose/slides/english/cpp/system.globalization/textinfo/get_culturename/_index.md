@@ -1,12 +1,12 @@
 ---
-title: get_CultureName
+title: get_CultureName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets cluture name.
 type: docs
 weight: 118
 url: /cpp/system.globalization/textinfo/get_culturename/
 ---
-## TextInfo::get_CultureName method
+## TextInfo::get_CultureName() const method
 
 
 Gets cluture name.

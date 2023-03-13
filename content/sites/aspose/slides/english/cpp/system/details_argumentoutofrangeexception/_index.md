@@ -28,12 +28,13 @@ class Details_ArgumentOutOfRangeException : public System::Details_ArgumentExcep
 | **int32_t** [get_HResult](../details_exception/get_hresult/)() const | Returns a 32-bit integer value which is a HRESULT code associated with the exception reprsented by the current object. |
 | virtual [ExceptionWrapper](../exceptionwrapper/)\<[Details_Exception](../details_exception/)\> [get_InnerException](../details_exception/get_innerexception/)() const | Returns a reference to the object representing the inner exception. |
 | virtual [String](../string/) [get_Message](../details_exception/get_message/)() const | Returns the string containing the error destcription. |
+| [String](../string/) [get_ParamName](./get_paramname/)() |  |
 | virtual [String](../string/) [get_StackTrace](../details_exception/get_stacktrace/)() const | Returns the string containing the stack trace. |
 | virtual [ExceptionWrapper](../exceptionwrapper/)\<[Details_Exception](../details_exception/)\> [GetBaseException](../details_exception/getbaseexception/)() const | Returns the copy of Exception object representing the inner-most exception. |
 | Detail::SmartPtrCounter * [GetCounter](../object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual **int32_t** [GetHashCode](../object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../object/gethashcode/) method. Enables hashing of custom objects. |
-| virtual const [TypeInfo](../typeinfo/)\& [GetType](../object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../object/gettype/) call. |
-| virtual **bool** [Is](../object/is/)(const [TypeInfo](../typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
+| const [System::TypeInfo](../typeinfo/)\& [GetType](./gettype/)() const override | Gets actual type of object. Analog of C# [System.Object.GetType()](../object/gettype/) call. |
+| **bool** [Is](./is/)(const [System::TypeInfo](../typeinfo/)\&) const override |  |
 | void [Lock](../object/lock/)() | Implements C# lock() statement locking. Call directly or use [LockContext](../lockcontext/) sentry object. |
 | virtual [ptr](../object/ptr/) [MemberwiseClone](../object/memberwiseclone/)() const | Analog of C# [Object.MemberwiseClone()](../object/memberwiseclone/) method. Enables cloning custom types. |
 |  [Object](../object/object/)() | Creates object. Initializes all internal data structures. |
@@ -51,7 +52,7 @@ class Details_ArgumentOutOfRangeException : public System::Details_ArgumentExcep
 | [Object](../object/) * [SharedRefAdded](../object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | [String](../string/) [ToString](../details_exception/tostring/)() const override | Returns the string representation of the current object. |
-| static const [TypeInfo](../typeinfo/)\& [Type](../object/type/)() | Implements C# typeof([System.Object](../object/)) construct. |
+| static const [System::TypeInfo](../typeinfo/)\& [Type](./type/)() |  |
 | void [Unlock](../object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../lockcontext/) sentry object. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

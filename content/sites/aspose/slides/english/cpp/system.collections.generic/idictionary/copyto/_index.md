@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies dictionary contents into existing array elements.
 type: docs
 weight: 131
 url: /cpp/system.collections.generic/idictionary/copyto/
 ---
-## IDictionary::CopyTo method
+## IDictionary::CopyTo([ArrayPtr](../../../system/arrayptr/)\<[KeyValuePair](../../keyvaluepair/)\<TKey, TValue\>\>, int) method
 
 
 Copies dictionary contents into existing array elements.

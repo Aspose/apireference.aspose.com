@@ -1,12 +1,12 @@
 ---
-title: FromFileTime
+title: FromFileTime()
 second_title: Aspose.Slides for C++ API Reference
 description: ConvertWindows file time to date and time with local time offset.
 type: docs
 weight: 664
 url: /cpp/system/datetimeoffset/fromfiletime/
 ---
-## DateTimeOffset::FromFileTime method
+## DateTimeOffset::FromFileTime(**int64_t**) method
 
 
 [Convert](../../convert/)[Windows](../../../system.windows/) file time to date and time with local time offset.

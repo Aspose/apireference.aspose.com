@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified FillOverlay is equal to the current FillOverlay.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/filloverlay/equals/
 ---
-## FillOverlay::Equals method
+## FillOverlay::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [FillOverlay](../) is equal to the current [FillOverlay](../).

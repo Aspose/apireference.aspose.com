@@ -1,12 +1,12 @@
 ---
-title: get_Hue
+title: get_Hue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns hue percentage. Read-only float.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/ihsleffectivedata/get_hue/
 ---
-## IHSLEffectiveData::get_Hue method
+## IHSLEffectiveData::get_Hue() method
 
 
 Returns hue percentage. Read-only **float**.

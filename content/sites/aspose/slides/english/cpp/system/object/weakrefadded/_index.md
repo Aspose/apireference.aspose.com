@@ -1,12 +1,12 @@
 ---
-title: WeakRefAdded
+title: WeakRefAdded()
 second_title: Aspose.Slides for C++ API Reference
 description: Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector.
 type: docs
 weight: 79
 url: /cpp/system/object/weakrefadded/
 ---
-## Object::WeakRefAdded method
+## Object::WeakRefAdded() method
 
 
 Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector.

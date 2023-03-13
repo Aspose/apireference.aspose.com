@@ -1,12 +1,12 @@
 ---
-title: ReplaceRange
+title: ReplaceRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces a range of sibling nodes from the current node to the node specified.
 type: docs
 weight: 937
 url: /cpp/system.xml.xpath/xpathnavigator/replacerange/
 ---
-## XPathNavigator::ReplaceRange method
+## XPathNavigator::ReplaceRange([SharedPtr](../../../system/sharedptr/)\<[XPathNavigator](../)\>) method
 
 
 Replaces a range of sibling nodes from the current node to the node specified.

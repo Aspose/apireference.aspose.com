@@ -1,12 +1,12 @@
 ---
-title: get_AllCustomXmlParts
+title: get_AllCustomXmlParts()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns all custom data parts in the presentaion. Read-only ICustomXmlPart[].
 type: docs
 weight: 365
 url: /cpp/aspose.slides/ipresentation/get_allcustomxmlparts/
 ---
-## IPresentation::get_AllCustomXmlParts method
+## IPresentation::get_AllCustomXmlParts() method
 
 
 Returns all custom data parts in the presentaion. Read-only [ICustomXmlPart](../../icustomxmlpart/)[].

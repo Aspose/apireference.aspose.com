@@ -1,12 +1,12 @@
 ---
-title: get_MistyRose
+title: get_MistyRose()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFFFE4E1.
 type: docs
 weight: 1444
 url: /cpp/system.drawing/color/get_mistyrose/
 ---
-## Color::get_MistyRose method
+## Color::get_MistyRose() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFFFE4E1.

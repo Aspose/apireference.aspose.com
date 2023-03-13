@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Bitwise comparison operator.
 type: docs
 weight: 261
 url: /cpp/system.collections/bitarray/operator_equal_equal/
 ---
-## BitArray::operator== method
+## BitArray::operator==(const [BitArray](../)\&) const method
 
 
 Bitwise comparison operator.

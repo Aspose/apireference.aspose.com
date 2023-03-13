@@ -1,12 +1,12 @@
 ---
-title: begin
+title: begin()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator to the first element of collection.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlnamednodemap/begin/
 ---
-## XmlNamedNodeMap::begin method
+## XmlNamedNodeMap::begin() const method
 
 
 Gets iterator to the first element of collection.

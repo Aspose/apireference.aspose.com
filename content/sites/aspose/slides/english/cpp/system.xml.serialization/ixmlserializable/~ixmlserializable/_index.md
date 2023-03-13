@@ -1,12 +1,12 @@
 ---
-title: ~IXmlSerializable
+title: ~IXmlSerializable()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 40
 url: /cpp/system.xml.serialization/ixmlserializable/~ixmlserializable/
 ---
-## IXmlSerializable::~IXmlSerializable method
+## IXmlSerializable::~IXmlSerializable() method
 
 
 Destructor.

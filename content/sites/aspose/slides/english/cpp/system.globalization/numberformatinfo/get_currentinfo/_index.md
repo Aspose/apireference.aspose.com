@@ -1,12 +1,12 @@
 ---
-title: get_CurrentInfo
+title: get_CurrentInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets current thread culture-defined number format info.
 type: docs
 weight: 768
 url: /cpp/system.globalization/numberformatinfo/get_currentinfo/
 ---
-## NumberFormatInfo::get_CurrentInfo method
+## NumberFormatInfo::get_CurrentInfo() method
 
 
 Gets current thread culture-defined number format info.

@@ -1,12 +1,12 @@
 ---
-title: ReadContentAsDateTimeOffset
+title: ReadContentAsDateTimeOffset()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the text content at the current position as a DateTimeOffset object.
 type: docs
 weight: 365
 url: /cpp/system.xml/xmlreader/readcontentasdatetimeoffset/
 ---
-## XmlReader::ReadContentAsDateTimeOffset method
+## XmlReader::ReadContentAsDateTimeOffset() method
 
 
 Reads the text content at the current position as a [DateTimeOffset](../../../system/datetimeoffset/) object.

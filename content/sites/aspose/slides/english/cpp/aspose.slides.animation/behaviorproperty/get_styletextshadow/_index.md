@@ -1,15 +1,15 @@
 ---
-title: get_StyleTextShadow
+title: get_StyleTextShadow()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'style.textShadow' property.
+description: Represents 'style.textShadow' property
 type: docs
 weight: 339
 url: /cpp/aspose.slides.animation/behaviorproperty/get_styletextshadow/
 ---
-## BehaviorProperty::get_StyleTextShadow method
+## BehaviorProperty::get_StyleTextShadow() method
 
 
-Represents 'style.textShadow' property.
+Represents 'style.textShadow' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StyleTextShadow()

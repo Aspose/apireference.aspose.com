@@ -1,12 +1,12 @@
 ---
-title: get_Interval
+title: get_Interval()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets timer interval.
 type: docs
 weight: 14
 url: /cpp/system.timers/timer/get_interval/
 ---
-## Timer::get_Interval method
+## Timer::get_Interval() const method
 
 
 Gets timer interval.

@@ -1,12 +1,12 @@
 ---
-title: ReadContentAsBoolean
+title: ReadContentAsBoolean()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the text content at the current position as a Boolean.
 type: docs
 weight: 339
 url: /cpp/system.xml/xmlreader/readcontentasboolean/
 ---
-## XmlReader::ReadContentAsBoolean method
+## XmlReader::ReadContentAsBoolean() method
 
 
 Reads the text content at the current position as a [Boolean](../../../system/boolean/).

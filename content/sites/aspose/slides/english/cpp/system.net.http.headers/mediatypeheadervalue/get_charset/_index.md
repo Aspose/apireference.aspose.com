@@ -1,12 +1,12 @@
 ---
-title: get_CharSet
+title: get_CharSet()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a character set.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/mediatypeheadervalue/get_charset/
 ---
-## MediaTypeHeaderValue::get_CharSet method
+## MediaTypeHeaderValue::get_CharSet() method
 
 
 Gets a character set.

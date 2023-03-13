@@ -1,12 +1,12 @@
 ---
-title: WriteEndElement
+title: WriteEndElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes one element and pops the corresponding namespace scope.
 type: docs
 weight: 248
 url: /cpp/system.xml/xmltextwriter/writeendelement/
 ---
-## XmlTextWriter::WriteEndElement method
+## XmlTextWriter::WriteEndElement() method
 
 
 Closes one element and pops the corresponding namespace scope.

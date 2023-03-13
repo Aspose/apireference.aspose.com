@@ -1,12 +1,12 @@
 ---
-title: set_Method
+title: set_Method()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the HTTP request method.
 type: docs
 weight: 66
 url: /cpp/system.net.http/httprequestmessage/set_method/
 ---
-## HttpRequestMessage::set_Method method
+## HttpRequestMessage::set_Method([System::SharedPtr](../../../system/sharedptr/)\<[HttpMethod](../../httpmethod/)\>) method
 
 
 Sets the HTTP request method.

@@ -1,5 +1,5 @@
 ---
-title: HashSetPtr
+title: HashSetPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Null pointer constructor.
 type: docs

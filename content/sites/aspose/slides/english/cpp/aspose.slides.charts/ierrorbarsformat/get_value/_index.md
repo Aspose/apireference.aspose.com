@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value which is used with Fixed, Percentage and StandardDeviation value types to determine the length of the error bars. Read float.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/ierrorbarsformat/get_value/
 ---
-## IErrorBarsFormat::get_Value method
+## IErrorBarsFormat::get_Value() method
 
 
 Gets value which is used with Fixed, Percentage and StandardDeviation value types to determine the length of the error bars. Read **float**.

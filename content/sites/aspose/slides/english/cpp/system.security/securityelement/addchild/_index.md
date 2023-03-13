@@ -1,12 +1,12 @@
 ---
-title: AddChild
+title: AddChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds child tag.
 type: docs
 weight: 131
 url: /cpp/system.security/securityelement/addchild/
 ---
-## SecurityElement::AddChild method
+## SecurityElement::AddChild([SecurityElement](../)) method
 
 
 Adds child tag.

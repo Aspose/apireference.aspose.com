@@ -1,12 +1,12 @@
 ---
-title: get_RightToLeft
+title: get_RightToLeft()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if matching is done in right-to-left mode.
 type: docs
 weight: 40
 url: /cpp/system.text.regularexpressions/regex/get_righttoleft/
 ---
-## Regex::get_RightToLeft method
+## Regex::get_RightToLeft() method
 
 
 Checks if matching is done in right-to-left mode.

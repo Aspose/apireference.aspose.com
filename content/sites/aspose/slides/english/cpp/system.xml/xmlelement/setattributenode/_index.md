@@ -1,5 +1,5 @@
 ---
-title: SetAttributeNode
+title: SetAttributeNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified XmlAttribute.
 type: docs

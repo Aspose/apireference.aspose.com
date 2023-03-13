@@ -1,12 +1,12 @@
 ---
-title: operator*
+title: operator*()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets reference to pointed object. Asserts that pointer is not null.
 type: docs
 weight: 196
 url: /cpp/system/smartptr/operator_star/
 ---
-## SmartPtr::operator* method
+## SmartPtr::operator*() const method
 
 
 Gets reference to pointed object. Asserts that pointer is not null.

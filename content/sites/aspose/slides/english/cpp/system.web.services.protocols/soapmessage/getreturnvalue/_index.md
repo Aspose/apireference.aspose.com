@@ -1,12 +1,12 @@
 ---
-title: GetReturnValue
+title: GetReturnValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the return value of the XML Web service method.
 type: docs
 weight: 274
 url: /cpp/system.web.services.protocols/soapmessage/getreturnvalue/
 ---
-## SoapMessage::GetReturnValue method
+## SoapMessage::GetReturnValue() method
 
 
 Gets the return value of the XML [Web](../../../system.web/) service method.

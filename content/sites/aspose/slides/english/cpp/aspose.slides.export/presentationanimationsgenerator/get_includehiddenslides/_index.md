@@ -1,12 +1,12 @@
 ---
-title: get_IncludeHiddenSlides
+title: get_IncludeHiddenSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Get or sets if hidden slides should be included.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/presentationanimationsgenerator/get_includehiddenslides/
 ---
-## PresentationAnimationsGenerator::get_IncludeHiddenSlides method
+## PresentationAnimationsGenerator::get_IncludeHiddenSlides() const method
 
 
 Get or sets if hidden slides should be included.

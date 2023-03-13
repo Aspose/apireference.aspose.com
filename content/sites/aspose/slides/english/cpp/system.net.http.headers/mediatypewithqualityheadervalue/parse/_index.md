@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the MediaTypeWithQualityHeaderValue class.
 type: docs
 weight: 40
 url: /cpp/system.net.http.headers/mediatypewithqualityheadervalue/parse/
 ---
-## MediaTypeWithQualityHeaderValue::Parse method
+## MediaTypeWithQualityHeaderValue::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [MediaTypeWithQualityHeaderValue](../) class.

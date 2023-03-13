@@ -1,12 +1,12 @@
 ---
-title: set_BaseUnitScale
+title: set_BaseUnitScale()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the smallest time unit that is represented on the date axis. Write TimeUnitType.
 type: docs
 weight: 612
 url: /cpp/aspose.slides.charts/iaxis/set_baseunitscale/
 ---
-## IAxis::set_BaseUnitScale method
+## IAxis::set_BaseUnitScale([TimeUnitType](../../timeunittype/)) method
 
 
 Specifies the smallest time unit that is represented on the date axis. Write [TimeUnitType](../../timeunittype/).

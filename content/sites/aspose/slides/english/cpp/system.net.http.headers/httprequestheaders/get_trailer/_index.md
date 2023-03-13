@@ -1,12 +1,12 @@
 ---
-title: get_Trailer
+title: get_Trailer()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Trailer' header.
 type: docs
 weight: 508
 url: /cpp/system.net.http.headers/httprequestheaders/get_trailer/
 ---
-## HttpRequestHeaders::get_Trailer method
+## HttpRequestHeaders::get_Trailer() method
 
 
 Returns a value of the 'Trailer' header.

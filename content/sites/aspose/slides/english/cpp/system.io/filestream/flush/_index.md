@@ -1,5 +1,5 @@
 ---
-title: Flush
+title: Flush()
 second_title: Aspose.Slides for C++ API Reference
 description: Clears this stream's buffers and writes all buffered data to the underlying file.
 type: docs

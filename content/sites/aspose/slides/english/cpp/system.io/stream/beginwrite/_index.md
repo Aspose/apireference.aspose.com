@@ -1,12 +1,12 @@
 ---
-title: BeginWrite
+title: BeginWrite()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous write operation.
 type: docs
 weight: 131
 url: /cpp/system.io/stream/beginwrite/
 ---
-## Stream::BeginWrite method
+## Stream::BeginWrite([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int, int, [System::AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Initiates an asynchronous write operation.

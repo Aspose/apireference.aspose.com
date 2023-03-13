@@ -1,7 +1,7 @@
 ---
-title: LineTo
+title: LineTo()
 second_title: Aspose.Slides for C++ API Reference
-description: Adds line to the end of the path.
+description: Adds line to the end of the path
 type: docs
 weight: 79
 url: /cpp/aspose.slides/igeometrypath/lineto/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/igeometrypath/lineto/
 ## IGeometryPath::LineTo([System::Drawing::PointF](../../../system.drawing/pointf/)) method
 
 
-Adds line to the end of the path.
+Adds line to the end of the path
 
 ```cpp
 virtual void Aspose::Slides::IGeometryPath::LineTo(System::Drawing::PointF point)=0
@@ -31,7 +31,7 @@ virtual void Aspose::Slides::IGeometryPath::LineTo(System::Drawing::PointF point
 ## IGeometryPath::LineTo(**float**, **float**) method
 
 
-Adds line to the end of the path.
+Adds line to the end of the path
 
 ```cpp
 virtual void Aspose::Slides::IGeometryPath::LineTo(float x, float y)=0
@@ -53,7 +53,7 @@ virtual void Aspose::Slides::IGeometryPath::LineTo(float x, float y)=0
 ## IGeometryPath::LineTo([System::Drawing::PointF](../../../system.drawing/pointf/), **uint32_t**) method
 
 
-Adds line to the specified place of the path.
+Adds line to the specified place of the path
 
 ```cpp
 virtual void Aspose::Slides::IGeometryPath::LineTo(System::Drawing::PointF point, uint32_t index)=0
@@ -76,7 +76,7 @@ virtual void Aspose::Slides::IGeometryPath::LineTo(System::Drawing::PointF point
 ## IGeometryPath::LineTo(**float**, **float**, **uint32_t**) method
 
 
-Adds line to the specified place of the path.
+Adds line to the specified place of the path
 
 ```cpp
 virtual void Aspose::Slides::IGeometryPath::LineTo(float x, float y, uint32_t index)=0

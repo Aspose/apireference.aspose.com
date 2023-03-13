@@ -1,12 +1,12 @@
 ---
-title: set_SchemaType
+title: set_SchemaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the static XML Schema Definition Language (XSD) schema type of this validated XML node.
 type: docs
 weight: 118
 url: /cpp/system.xml.schema/xmlschemainfo/set_schematype/
 ---
-## XmlSchemaInfo::set_SchemaType method
+## XmlSchemaInfo::set_SchemaType(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaType](../../xmlschematype/)\>\&) method
 
 
 Sets the static XML [Schema](../../) Definition Language (XSD) schema type of this validated XML node.

@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: "Changes the XmlReader::get_ReadState to Closed."
 type: docs
 weight: 586
 url: /cpp/system.xml/xmltextreader/close/
 ---
-## XmlTextReader::Close method
+## XmlTextReader::Close() method
 
 
 Changes the [XmlReader::get_ReadState](../../xmlreader/get_readstate/) to **Closed**.

@@ -1,12 +1,12 @@
 ---
-title: crend
+title: crend()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a reverse iterator for a non-existent const-qualified element before the start of the collection.
 type: docs
 weight: 131
 url: /cpp/system.collections.generic/sortedlist/crend/
 ---
-## SortedList::crend method
+## SortedList::crend() const method
 
 
 Gets a reverse iterator for a non-existent const-qualified element before the start of the collection.

@@ -1,12 +1,12 @@
 ---
-title: CreateText
+title: CreateText()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new or opens existing file for writing UTF-8 encoded text.
 type: docs
 weight: 66
 url: /cpp/system.io/file/createtext/
 ---
-## File::CreateText method
+## File::CreateText(const [String](../../../system/string/)\&) method
 
 
 Creates a new or opens existing file for writing UTF-8 encoded text.

@@ -1,12 +1,12 @@
 ---
-title: Compare
+title: Compare()
 second_title: Aspose.Slides for C++ API Reference
 description: Comparison function.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/icomparer/compare/
 ---
-## IComparer::Compare method
+## IComparer::Compare([args_type](../args_type/), [args_type](../args_type/)) const method
 
 
 [Comparison](../../../system/comparison/) function.

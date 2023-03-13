@@ -1,5 +1,5 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified string representation of a date and time value to the equivalent DateTime object.
 type: docs

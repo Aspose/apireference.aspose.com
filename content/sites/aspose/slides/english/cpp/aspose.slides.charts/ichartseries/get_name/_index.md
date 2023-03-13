@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Return series name. Read-only IStringChartValue.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/ichartseries/get_name/
 ---
-## IChartSeries::get_Name method
+## IChartSeries::get_Name() method
 
 
 Return series name. Read-only [IStringChartValue](../../istringchartvalue/).

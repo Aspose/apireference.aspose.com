@@ -1,12 +1,12 @@
 ---
-title: get_DirectoryName
+title: get_DirectoryName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the full name of the directory in which the file represented by the current object is loctaed.
 type: docs
 weight: 27
 url: /cpp/system.io/fileinfo/get_directoryname/
 ---
-## FileInfo::get_DirectoryName method
+## FileInfo::get_DirectoryName() method
 
 
 Returns the full name of the directory in which the file represented by the current object is loctaed.

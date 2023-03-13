@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes fragment from builder.
 type: docs
 weight: 196
 url: /cpp/system.text/stringbuilder/remove/
 ---
-## StringBuilder::Remove method
+## StringBuilder::Remove(int, int) method
 
 
 Removes fragment from builder.

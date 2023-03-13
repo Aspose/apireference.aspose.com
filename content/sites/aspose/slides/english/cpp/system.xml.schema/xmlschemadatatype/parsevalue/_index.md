@@ -1,12 +1,12 @@
 ---
-title: ParseValue
+title: ParseValue()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, validates the string specified against a built-in or user-defined simple type.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemadatatype/parsevalue/
 ---
-## XmlSchemaDatatype::ParseValue method
+## XmlSchemaDatatype::ParseValue([String](../../../system/string/), [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../../system.xml/xmlnametable/)\>, [SharedPtr](../../../system/sharedptr/)\<[IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)\>) method
 
 
 When overridden in a derived class, validates the **string** specified against a built-in or user-defined simple type.

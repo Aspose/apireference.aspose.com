@@ -1,12 +1,12 @@
 ---
-title: CreateNavigator
+title: CreateNavigator()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XPathNavigator for navigating this object.
 type: docs
 weight: 339
 url: /cpp/system.xml/xmlnode/createnavigator/
 ---
-## XmlNode::CreateNavigator method
+## XmlNode::CreateNavigator() method
 
 
 Creates an XPathNavigator for navigating this object.

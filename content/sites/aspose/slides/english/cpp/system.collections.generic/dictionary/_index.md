@@ -36,7 +36,6 @@ template<typename TKey,typename TValue>class Dictionary : public System::Collect
 | virtual **bool** [Contains](../icollection/contains/)(const T\&) const | Checks if element is present in collection. |
 | virtual **bool** [ContainsKey](../idictionary/containskey/)(const TKey\&) const | Checks if container contains key. |
 | void [CopyTo](../idictionary/copyto/)([ArrayPtr](../../system/arrayptr/)\<[KeyValuePair](../keyvaluepair/)\<TKey, TValue\>\>, int) override | Copies dictionary contents into existing array elements. |
-| virtual void [CopyTo](../icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
 |  [Dictionary](./dictionary/)() | Creates empty dictionary. |
 |  [Dictionary](./dictionary/)(const [map_t](./map_t/)\&) | Copies data from map. |
 |  [Dictionary](./dictionary/)(int) | Overload which corresponds to creating pre-allocated dictionary; does no allocation, actually. |

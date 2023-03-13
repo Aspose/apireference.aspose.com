@@ -1,12 +1,12 @@
 ---
-title: get_ResponseUri
+title: get_ResponseUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the resource's URI.
 type: docs
 weight: 27
 url: /cpp/system.net/webresponse/get_responseuri/
 ---
-## WebResponse::get_ResponseUri method
+## WebResponse::get_ResponseUri() method
 
 
 Returns the resource's URI.

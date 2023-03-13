@@ -1,12 +1,12 @@
 ---
-title: set_Color
+title: set_Color()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the color of this brush.
 type: docs
 weight: 27
 url: /cpp/system.drawing/solidbrush/set_color/
 ---
-## SolidBrush::set_Color method
+## SolidBrush::set_Color([Color](../../color/)) method
 
 
 Sets the color of this brush.

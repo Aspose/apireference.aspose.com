@@ -1,12 +1,12 @@
 ---
-title: Encrypt
+title: Encrypt()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 105
 url: /cpp/system.io/file/encrypt/
 ---
-## File::Encrypt method
+## File::Encrypt(const [String](../../../system/string/)\&) method
 
 
 NOT IMPLEMENTED.

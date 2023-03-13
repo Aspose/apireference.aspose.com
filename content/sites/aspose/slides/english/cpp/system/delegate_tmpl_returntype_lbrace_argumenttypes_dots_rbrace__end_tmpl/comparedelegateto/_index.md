@@ -1,12 +1,12 @@
 ---
-title: CompareDelegateTo
+title: CompareDelegateTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two delegates for equality and alikeness.
 type: docs
 weight: 53
 url: /cpp/system/delegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/comparedelegateto/
 ---
-## Delegate< ReturnType(ArgumentTypes...)>::CompareDelegateTo method
+## Delegate< ReturnType(ArgumentTypes...)>::CompareDelegateTo(const [Delegate](../delegate/)\&) const method
 
 
 Compares two delegates for equality and alikeness.

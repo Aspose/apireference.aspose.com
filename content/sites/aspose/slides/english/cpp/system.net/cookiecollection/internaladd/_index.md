@@ -1,12 +1,12 @@
 ---
-title: InternalAdd
+title: InternalAdd()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified cookie to the collection.
 type: docs
 weight: 118
 url: /cpp/system.net/cookiecollection/internaladd/
 ---
-## CookieCollection::InternalAdd method
+## CookieCollection::InternalAdd([System::SharedPtr](../../../system/sharedptr/)\<[Cookie](../../cookie/)\>, **bool**) method
 
 
 Adds the specified cookie to the collection.

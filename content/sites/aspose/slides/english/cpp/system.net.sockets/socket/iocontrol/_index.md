@@ -1,5 +1,5 @@
 ---
-title: IOControl
+title: IOControl()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets low-level operating modes for the socket.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: GetFileName
+title: GetFileName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the file referenced by the specified path.
 type: docs
 weight: 53
 url: /cpp/system.io/path/getfilename/
 ---
-## Path::GetFileName method
+## Path::GetFileName(const [String](../../../system/string/)\&) method
 
 
 Returns the name of the file referenced by the specified path.

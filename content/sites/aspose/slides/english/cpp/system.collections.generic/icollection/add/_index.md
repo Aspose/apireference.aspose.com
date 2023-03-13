@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element into collection.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/icollection/add/
 ---
-## ICollection::Add method
+## ICollection::Add(const T\&) method
 
 
 Adds element into collection.

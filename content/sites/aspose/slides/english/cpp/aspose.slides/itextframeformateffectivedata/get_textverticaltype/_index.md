@@ -1,12 +1,12 @@
 ---
-title: get_TextVerticalType
+title: get_TextVerticalType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns text orientation. Read-only Slides::TextVerticalType."
 type: docs
 weight: 105
 url: /cpp/aspose.slides/itextframeformateffectivedata/get_textverticaltype/
 ---
-## ITextFrameFormatEffectiveData::get_TextVerticalType method
+## ITextFrameFormatEffectiveData::get_TextVerticalType() method
 
 
 Returns text orientation. Read-only [Slides::TextVerticalType](../../textverticaltype/).

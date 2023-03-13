@@ -1,12 +1,12 @@
 ---
-title: SetLength
+title: SetLength()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 170
 url: /cpp/system.io/unmanagedmemorystream/setlength/
 ---
-## UnmanagedMemoryStream::SetLength method
+## UnmanagedMemoryStream::SetLength(**int64_t**) method
 
 
 NOT IMPLEMENTED.

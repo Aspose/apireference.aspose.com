@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Return a number of adjustments. Read-only int32_t.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/adjustvaluecollection/get_count/
 ---
-## AdjustValueCollection::get_Count method
+## AdjustValueCollection::get_Count() method
 
 
 Return a number of adjustments. Read-only **int32_t**.

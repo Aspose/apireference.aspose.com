@@ -1,12 +1,12 @@
 ---
-title: CreateOuterShadow
+title: CreateOuterShadow()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Outer shadow effect.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/effectfactory/createoutershadow/
 ---
-## EffectFactory::CreateOuterShadow method
+## EffectFactory::CreateOuterShadow() method
 
 
 Creates Outer shadow effect.

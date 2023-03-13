@@ -1,12 +1,12 @@
 ---
-title: get_Size
+title: get_Size()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the size of a placeholder. Read-only PlaceholderSize.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/placeholder/get_size/
 ---
-## Placeholder::get_Size method
+## Placeholder::get_Size() method
 
 
 Gets the size of a placeholder. Read-only [PlaceholderSize](../../placeholdersize/).

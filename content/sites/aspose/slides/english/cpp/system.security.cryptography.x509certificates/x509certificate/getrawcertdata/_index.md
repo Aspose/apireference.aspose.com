@@ -1,12 +1,12 @@
 ---
-title: GetRawCertData
+title: GetRawCertData()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets raw data from certificate as array of bytes.
 type: docs
 weight: 235
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getrawcertdata/
 ---
-## X509Certificate::GetRawCertData method
+## X509Certificate::GetRawCertData() const method
 
 
 Gets raw data from certificate as array of bytes.

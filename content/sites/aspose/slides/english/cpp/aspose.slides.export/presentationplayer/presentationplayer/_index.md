@@ -1,12 +1,12 @@
 ---
-title: PresentationPlayer
+title: PresentationPlayer()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new instance of the PresentationPlayer.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/presentationplayer/presentationplayer/
 ---
-## PresentationPlayer::PresentationPlayer constructor
+## PresentationPlayer::PresentationPlayer([System::SharedPtr](../../../system/sharedptr/)\<[PresentationAnimationsGenerator](../../presentationanimationsgenerator/)\>, **double**) constructor
 
 
 Creates new instance of the [PresentationPlayer](../).

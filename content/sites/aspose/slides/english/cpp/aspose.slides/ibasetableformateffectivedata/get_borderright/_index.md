@@ -1,12 +1,12 @@
 ---
-title: get_BorderRight
+title: get_BorderRight()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns right border line format effective value. Read-only ILineFormatEffectiveData.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ibasetableformateffectivedata/get_borderright/
 ---
-## IBaseTableFormatEffectiveData::get_BorderRight method
+## IBaseTableFormatEffectiveData::get_BorderRight() method
 
 
 Returns right border line format effective value. Read-only [ILineFormatEffectiveData](../../ilineformateffectivedata/).

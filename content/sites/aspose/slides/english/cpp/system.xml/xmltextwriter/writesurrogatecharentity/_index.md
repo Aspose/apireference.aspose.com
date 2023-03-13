@@ -1,12 +1,12 @@
 ---
-title: WriteSurrogateCharEntity
+title: WriteSurrogateCharEntity()
 second_title: Aspose.Slides for C++ API Reference
 description: Generates and writes the surrogate character entity for the surrogate character pair.
 type: docs
 weight: 391
 url: /cpp/system.xml/xmltextwriter/writesurrogatecharentity/
 ---
-## XmlTextWriter::WriteSurrogateCharEntity method
+## XmlTextWriter::WriteSurrogateCharEntity(char16_t, char16_t) method
 
 
 Generates and writes the surrogate character entity for the surrogate character pair.

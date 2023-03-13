@@ -1,12 +1,12 @@
 ---
-title: get_Teal
+title: get_Teal()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF008080.
 type: docs
 weight: 1691
 url: /cpp/system.drawing/brushes/get_teal/
 ---
-## Brushes::get_Teal method
+## Brushes::get_Teal() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF008080.

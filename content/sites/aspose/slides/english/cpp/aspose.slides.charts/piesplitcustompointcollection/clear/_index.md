@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all items from the ICollection.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/piesplitcustompointcollection/clear/
 ---
-## PieSplitCustomPointCollection::Clear method
+## PieSplitCustomPointCollection::Clear() method
 
 
 Removes all items from the [ICollection](../../../system.collections.generic/icollection/).

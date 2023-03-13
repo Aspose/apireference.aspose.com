@@ -1,12 +1,12 @@
 ---
-title: get_FrameSize
+title: get_FrameSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets frame size.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/igifoptions/get_framesize/
 ---
-## IGifOptions::get_FrameSize method
+## IGifOptions::get_FrameSize() method
 
 
 Gets frame size.

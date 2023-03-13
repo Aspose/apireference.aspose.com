@@ -1,12 +1,12 @@
 ---
-title: get_Content
+title: get_Content()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns one of XmlSchemaSimpleTypeUnion, XmlSchemaSimpleTypeList, or XmlSchemaSimpleTypeRestriction.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemasimpletype/get_content/
 ---
-## XmlSchemaSimpleType::get_Content method
+## XmlSchemaSimpleType::get_Content() method
 
 
 Returns one of [XmlSchemaSimpleTypeUnion](../../xmlschemasimpletypeunion/), [XmlSchemaSimpleTypeList](../../xmlschemasimpletypelist/), or [XmlSchemaSimpleTypeRestriction](../../xmlschemasimpletyperestriction/).

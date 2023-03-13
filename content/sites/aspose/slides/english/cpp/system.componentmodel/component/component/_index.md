@@ -1,12 +1,12 @@
 ---
-title: Component
+title: Component()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/component/component/
 ---
-## Component::Component constructor
+## Component::Component() constructor
 
 
 RTTI information.

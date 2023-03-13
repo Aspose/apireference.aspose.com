@@ -1,12 +1,12 @@
 ---
-title: get_Factors
+title: get_Factors()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the array of blend factors of the gradient.
 type: docs
 weight: 14
 url: /cpp/system.drawing.drawing2d/blend/get_factors/
 ---
-## Blend::get_Factors method
+## Blend::get_Factors() const method
 
 
 Returns the array of blend factors of the gradient.

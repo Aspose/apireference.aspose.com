@@ -1,12 +1,12 @@
 ---
-title: MathSubscriptElement
+title: MathSubscriptElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathSubscriptElement class.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/mathsubscriptelement/mathsubscriptelement/
 ---
-## MathSubscriptElement::MathSubscriptElement constructor
+## MathSubscriptElement::MathSubscriptElement([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
 Initializes a new instance of the [MathSubscriptElement](../) class.

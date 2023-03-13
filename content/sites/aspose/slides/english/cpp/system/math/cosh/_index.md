@@ -1,12 +1,12 @@
 ---
-title: Cosh
+title: Cosh()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the hyperbolic cosine of the specified value.
 type: docs
 weight: 79
 url: /cpp/system/math/cosh/
 ---
-## Math::Cosh method
+## Math::Cosh(**double**) method
 
 
 Calculates the hyperbolic cosine of the specified value.

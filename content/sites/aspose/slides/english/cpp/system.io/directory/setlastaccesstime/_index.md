@@ -1,12 +1,12 @@
 ---
-title: SetLastAccessTime
+title: SetLastAccessTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the last access time of the specified entity as local time.
 type: docs
 weight: 235
 url: /cpp/system.io/directory/setlastaccesstime/
 ---
-## Directory::SetLastAccessTime method
+## Directory::SetLastAccessTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
 
 
 Sets the last access time of the specified entity as local time.

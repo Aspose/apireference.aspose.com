@@ -1,12 +1,12 @@
 ---
-title: get_BackgroundFillStyles
+title: get_BackgroundFillStyles()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of theme defined background fill styles. Read-only IFillFormatCollection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.theme/iformatscheme/get_backgroundfillstyles/
 ---
-## IFormatScheme::get_BackgroundFillStyles method
+## IFormatScheme::get_BackgroundFillStyles() method
 
 
 Returns a collection of theme defined background fill styles. Read-only [IFillFormatCollection](../../ifillformatcollection/).

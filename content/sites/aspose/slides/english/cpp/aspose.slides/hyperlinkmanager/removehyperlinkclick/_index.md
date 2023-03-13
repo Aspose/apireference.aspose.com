@@ -1,12 +1,12 @@
 ---
-title: RemoveHyperlinkClick
+title: RemoveHyperlinkClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes hyperlink on click.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/hyperlinkmanager/removehyperlinkclick/
 ---
-## HyperlinkManager::RemoveHyperlinkClick method
+## HyperlinkManager::RemoveHyperlinkClick() method
 
 
 Removes hyperlink on click.

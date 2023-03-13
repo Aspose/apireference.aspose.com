@@ -1,12 +1,12 @@
 ---
-title: get_Version
+title: get_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets information about sort version.
 type: docs
 weight: 53
 url: /cpp/system.globalization/compareinfo/get_version/
 ---
-## CompareInfo::get_Version method
+## CompareInfo::get_Version() const method
 
 
 Gets information about sort version.

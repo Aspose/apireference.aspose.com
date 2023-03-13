@@ -1,12 +1,12 @@
 ---
-title: get_IsClipEmpty
+title: get_IsClipEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1067
 url: /cpp/system.drawing/graphics/get_isclipempty/
 ---
-## Graphics::get_IsClipEmpty method
+## Graphics::get_IsClipEmpty() const method
 
 
 NOT IMPLEMENTED.

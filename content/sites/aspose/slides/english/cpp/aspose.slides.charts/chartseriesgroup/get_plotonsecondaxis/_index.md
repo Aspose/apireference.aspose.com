@@ -1,12 +1,12 @@
 ---
-title: get_PlotOnSecondAxis
+title: get_PlotOnSecondAxis()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates if series of this group is plotted on secondary axis. Read-only bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/chartseriesgroup/get_plotonsecondaxis/
 ---
-## ChartSeriesGroup::get_PlotOnSecondAxis method
+## ChartSeriesGroup::get_PlotOnSecondAxis() method
 
 
 Indicates if series of this group is plotted on secondary axis. Read-only **bool**.

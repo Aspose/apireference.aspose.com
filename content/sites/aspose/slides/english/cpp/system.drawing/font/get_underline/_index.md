@@ -1,12 +1,12 @@
 ---
-title: get_Underline
+title: get_Underline()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the font represented by the current object has the underline style applied.
 type: docs
 weight: 118
 url: /cpp/system.drawing/font/get_underline/
 ---
-## Font::get_Underline method
+## Font::get_Underline() method
 
 
 Determines if the font represented by the current object has the underline style applied.

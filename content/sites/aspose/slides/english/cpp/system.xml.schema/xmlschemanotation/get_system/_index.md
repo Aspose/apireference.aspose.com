@@ -1,12 +1,12 @@
 ---
-title: get_System
+title: get_System()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the system identifier.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemanotation/get_system/
 ---
-## XmlSchemaNotation::get_System method
+## XmlSchemaNotation::get_System() method
 
 
 Returns the **system** identifier.

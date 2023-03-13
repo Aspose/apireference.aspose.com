@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value at the specified row and column.
 type: docs
 weight: 14
 url: /cpp/system.drawing.imaging/colormatrix/idx_get/
 ---
-## ColorMatrix::idx_get method
+## ColorMatrix::idx_get(int, int) method
 
 
 Returns a value at the specified row and column.

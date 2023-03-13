@@ -1,12 +1,12 @@
 ---
-title: set_ReadTimeout
+title: set_ReadTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that determines whether the current stream can time out.
 type: docs
 weight: 274
 url: /cpp/system.io/stream/set_readtimeout/
 ---
-## Stream::set_ReadTimeout method
+## Stream::set_ReadTimeout(int) method
 
 
 Sets a value that determines whether the current stream can time out.

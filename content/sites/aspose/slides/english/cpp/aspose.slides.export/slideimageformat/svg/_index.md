@@ -1,12 +1,12 @@
 ---
-title: Svg
+title: Svg()
 second_title: Aspose.Slides for C++ API Reference
 description: Slides should converted to a SVG format.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/slideimageformat/svg/
 ---
-## SlideImageFormat::Svg method
+## SlideImageFormat::Svg([System::SharedPtr](../../../system/sharedptr/)\<[SVGOptions](../../svgoptions/)\>) method
 
 
 [Slides](../../../aspose.slides/) should converted to a SVG format.

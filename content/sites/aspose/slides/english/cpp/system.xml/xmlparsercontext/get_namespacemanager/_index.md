@@ -1,12 +1,12 @@
 ---
-title: get_NamespaceManager
+title: get_NamespaceManager()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlNamespaceManager.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlparsercontext/get_namespacemanager/
 ---
-## XmlParserContext::get_NamespaceManager method
+## XmlParserContext::get_NamespaceManager() method
 
 
 Returns the [XmlNamespaceManager](../../xmlnamespacemanager/).

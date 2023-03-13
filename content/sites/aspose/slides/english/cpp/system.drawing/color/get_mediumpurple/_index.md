@@ -1,12 +1,12 @@
 ---
-title: get_MediumPurple
+title: get_MediumPurple()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF9370DB.
 type: docs
 weight: 1340
 url: /cpp/system.drawing/color/get_mediumpurple/
 ---
-## Color::get_MediumPurple method
+## Color::get_MediumPurple() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF9370DB.

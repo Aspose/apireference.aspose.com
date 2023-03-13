@@ -1,12 +1,12 @@
 ---
-title: get_Enabled
+title: get_Enabled()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if timer is active.
 type: docs
 weight: 66
 url: /cpp/system.timers/timer/get_enabled/
 ---
-## Timer::get_Enabled method
+## Timer::get_Enabled() const method
 
 
 Checks if timer is active.

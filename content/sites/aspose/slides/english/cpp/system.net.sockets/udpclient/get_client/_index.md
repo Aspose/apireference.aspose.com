@@ -1,12 +1,12 @@
 ---
-title: get_Client
+title: get_Client()
 second_title: Aspose.Slides for C++ API Reference
 description: Used to provide the underlying network socket.
 type: docs
 weight: 1
 url: /cpp/system.net.sockets/udpclient/get_client/
 ---
-## UdpClient::get_Client method
+## UdpClient::get_Client() method
 
 
 Used to provide the underlying network socket.

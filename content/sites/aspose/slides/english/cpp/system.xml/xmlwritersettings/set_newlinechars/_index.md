@@ -1,12 +1,12 @@
 ---
-title: set_NewLineChars
+title: set_NewLineChars()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the character string to use for line breaks.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlwritersettings/set_newlinechars/
 ---
-## XmlWriterSettings::set_NewLineChars method
+## XmlWriterSettings::set_NewLineChars(const [String](../../../system/string/)\&) method
 
 
 Sets the character string to use for line breaks.

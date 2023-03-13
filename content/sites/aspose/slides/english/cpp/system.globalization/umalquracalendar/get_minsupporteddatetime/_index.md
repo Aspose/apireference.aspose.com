@@ -1,12 +1,12 @@
 ---
-title: get_MinSupportedDateTime
+title: get_MinSupportedDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Minimal point in time that is supported by the calendar.
 type: docs
 weight: 27
 url: /cpp/system.globalization/umalquracalendar/get_minsupporteddatetime/
 ---
-## UmAlQuraCalendar::get_MinSupportedDateTime method
+## UmAlQuraCalendar::get_MinSupportedDateTime() const method
 
 
 Minimal point in time that is supported by the calendar.

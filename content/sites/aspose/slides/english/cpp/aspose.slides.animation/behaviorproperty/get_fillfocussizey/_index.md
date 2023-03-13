@@ -1,15 +1,15 @@
 ---
-title: get_FillFocusSizeY
+title: get_FillFocusSizeY()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'fill.focussize.y' property.
+description: Represents 'fill.focussize.y' property
 type: docs
 weight: 690
 url: /cpp/aspose.slides.animation/behaviorproperty/get_fillfocussizey/
 ---
-## BehaviorProperty::get_FillFocusSizeY method
+## BehaviorProperty::get_FillFocusSizeY() method
 
 
-Represents 'fill.focussize.y' property.
+Represents 'fill.focussize.y' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_FillFocusSizeY()

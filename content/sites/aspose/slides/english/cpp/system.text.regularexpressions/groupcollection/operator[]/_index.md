@@ -1,12 +1,12 @@
 ---
-title: operator[]
+title: operator[]()
 second_title: Aspose.Slides for C++ API Reference
 description: Group accessor.
 type: docs
 weight: 66
 url: /cpp/system.text.regularexpressions/groupcollection/operator[]/
 ---
-## GroupCollection::operator[] method
+## GroupCollection::operator[](const [String](../../../system/string/)\&) const method
 
 
 [Group](../../group/) accessor.

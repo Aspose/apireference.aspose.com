@@ -1,12 +1,12 @@
 ---
-title: ReadOuterXml
+title: ReadOuterXml()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, reads the content, including markup, representing this node and all its children.
 type: docs
 weight: 950
 url: /cpp/system.xml/xmlreader/readouterxml/
 ---
-## XmlReader::ReadOuterXml method
+## XmlReader::ReadOuterXml() method
 
 
 When overridden in a derived class, reads the content, including markup, representing this node and all its children.

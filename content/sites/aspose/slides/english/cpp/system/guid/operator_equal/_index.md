@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: Assigns to the current object the GUID value represented by the specified Guid object.
 type: docs
 weight: 27
 url: /cpp/system/guid/operator_equal/
 ---
-## Guid::operator= method
+## Guid::operator=(const [Guid](../)\&) method
 
 
 Assigns to the current object the GUID value represented by the specified [Guid](../) object.

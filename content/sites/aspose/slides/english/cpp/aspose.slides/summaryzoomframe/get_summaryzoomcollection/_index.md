@@ -1,12 +1,12 @@
 ---
-title: get_SummaryZoomCollection
+title: get_SummaryZoomCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets ISummaryZoomSectionCollection for the Summary Zoom Frame object.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/summaryzoomframe/get_summaryzoomcollection/
 ---
-## SummaryZoomFrame::get_SummaryZoomCollection method
+## SummaryZoomFrame::get_SummaryZoomCollection() method
 
 
 Gets [ISummaryZoomSectionCollection](../../isummaryzoomsectioncollection/) for the Summary Zoom Frame object.

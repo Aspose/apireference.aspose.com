@@ -1,12 +1,12 @@
 ---
-title: get_LightSkyBlue
+title: get_LightSkyBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF87CEFA.
 type: docs
 weight: 950
 url: /cpp/system.drawing/pens/get_lightskyblue/
 ---
-## Pens::get_LightSkyBlue method
+## Pens::get_LightSkyBlue() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF87CEFA.

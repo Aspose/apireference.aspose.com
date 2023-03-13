@@ -1,12 +1,12 @@
 ---
-title: FromHtml
+title: FromHtml()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified HTML color representation to the equvivalent Color object.
 type: docs
 weight: 14
 url: /cpp/system.drawing/colortranslator/fromhtml/
 ---
-## ColorTranslator::FromHtml method
+## ColorTranslator::FromHtml(const [System::String](../../../system/string/)\&) method
 
 
 Converts the specified HTML color representation to the equvivalent [Color](../../color/) object.

@@ -1,5 +1,5 @@
 ---
-title: ReferenceEquals
+title: ReferenceEquals()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specialization of Object::ReferenceEquals for case of string and nullptr."
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: GetCultures
+title: GetCultures()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets cultures that fall into specified types.
 type: docs
 weight: 612
 url: /cpp/system.globalization/cultureinfo/getcultures/
 ---
-## CultureInfo::GetCultures method
+## CultureInfo::GetCultures([CultureTypes](../../culturetypes/)) method
 
 
 Gets cultures that fall into specified types.

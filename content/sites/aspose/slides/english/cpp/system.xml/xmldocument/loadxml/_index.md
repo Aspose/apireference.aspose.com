@@ -1,12 +1,12 @@
 ---
-title: LoadXml
+title: LoadXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Loads the XML document from the specified string.
 type: docs
 weight: 521
 url: /cpp/system.xml/xmldocument/loadxml/
 ---
-## XmlDocument::LoadXml method
+## XmlDocument::LoadXml([String](../../../system/string/)) method
 
 
 Loads the XML document from the specified string.

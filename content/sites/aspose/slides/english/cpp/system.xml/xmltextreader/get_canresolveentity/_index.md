@@ -1,12 +1,12 @@
 ---
-title: get_CanResolveEntity
+title: get_CanResolveEntity()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether this reader can parse and resolve entities.
 type: docs
 weight: 235
 url: /cpp/system.xml/xmltextreader/get_canresolveentity/
 ---
-## XmlTextReader::get_CanResolveEntity method
+## XmlTextReader::get_CanResolveEntity() method
 
 
 Returns a value indicating whether this reader can parse and resolve entities.

@@ -1,12 +1,12 @@
 ---
-title: ScaleTransform
+title: ScaleTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Applies the specified scale vector to the world transformation matrix of the current object.
 type: docs
 weight: 833
 url: /cpp/system.drawing/graphics/scaletransform/
 ---
-## Graphics::ScaleTransform method
+## Graphics::ScaleTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
 
 
 Applies the specified scale vector to the world transformation matrix of the current object.

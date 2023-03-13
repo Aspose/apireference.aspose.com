@@ -1,12 +1,12 @@
 ---
-title: set_BevelType
+title: set_BevelType()
 second_title: Aspose.Slides for C++ API Reference
 description: Bevel type. Write BevelPresetType.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ishapebevel/set_beveltype/
 ---
-## IShapeBevel::set_BevelType method
+## IShapeBevel::set_BevelType([BevelPresetType](../../bevelpresettype/)) method
 
 
 Bevel type. Write [BevelPresetType](../../bevelpresettype/).

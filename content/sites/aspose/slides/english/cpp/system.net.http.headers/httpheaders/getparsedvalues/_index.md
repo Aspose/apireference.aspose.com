@@ -1,12 +1,12 @@
 ---
-title: GetParsedValues
+title: GetParsedValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns parsed values by the specified header name.
 type: docs
 weight: 248
 url: /cpp/system.net.http.headers/httpheaders/getparsedvalues/
 ---
-## HttpHeaders::GetParsedValues method
+## HttpHeaders::GetParsedValues([String](../../../system/string/)) method
 
 
 Returns parsed values by the specified header name.

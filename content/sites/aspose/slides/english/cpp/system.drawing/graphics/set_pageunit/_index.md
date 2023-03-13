@@ -1,12 +1,12 @@
 ---
-title: set_PageUnit
+title: set_PageUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets measurement units used for page coordinates on the surface represented by the current object.
 type: docs
 weight: 209
 url: /cpp/system.drawing/graphics/set_pageunit/
 ---
-## Graphics::set_PageUnit method
+## Graphics::set_PageUnit([GraphicsUnit](../../graphicsunit/)) method
 
 
 Sets measurement units used for page coordinates on the surface represented by the current object.

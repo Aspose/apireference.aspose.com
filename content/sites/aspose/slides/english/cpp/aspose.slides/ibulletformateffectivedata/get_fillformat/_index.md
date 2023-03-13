@@ -1,12 +1,12 @@
 ---
-title: get_FillFormat
+title: get_FillFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the bullet fill format of a paragraph. Read-only IFillFormatEffectiveData.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/ibulletformateffectivedata/get_fillformat/
 ---
-## IBulletFormatEffectiveData::get_FillFormat method
+## IBulletFormatEffectiveData::get_FillFormat() method
 
 
 Returns the bullet fill format of a paragraph. Read-only [IFillFormatEffectiveData](../../ifillformateffectivedata/).

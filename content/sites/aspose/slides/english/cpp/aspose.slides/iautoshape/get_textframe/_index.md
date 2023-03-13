@@ -1,12 +1,12 @@
 ---
-title: get_TextFrame
+title: get_TextFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns TextFrameEx object for the AutoShapeEx. Read-only ITextFrame.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/iautoshape/get_textframe/
 ---
-## IAutoShape::get_TextFrame method
+## IAutoShape::get_TextFrame() method
 
 
 Returns TextFrameEx object for the AutoShapeEx. Read-only [ITextFrame](../../itextframe/).

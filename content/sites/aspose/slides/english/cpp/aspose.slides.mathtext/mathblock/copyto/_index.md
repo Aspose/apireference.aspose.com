@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copy to specified array.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.mathtext/mathblock/copyto/
 ---
-## MathBlock::CopyTo method
+## MathBlock::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>\>, **int32_t**) method
 
 
 Copy to specified array.

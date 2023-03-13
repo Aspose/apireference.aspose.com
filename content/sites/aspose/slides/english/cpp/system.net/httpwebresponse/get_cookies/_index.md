@@ -1,12 +1,12 @@
 ---
-title: get_Cookies
+title: get_Cookies()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns cookies associated with the web response.
 type: docs
 weight: 27
 url: /cpp/system.net/httpwebresponse/get_cookies/
 ---
-## HttpWebResponse::get_Cookies method
+## HttpWebResponse::get_Cookies() method
 
 
 Returns cookies associated with the web response.

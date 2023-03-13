@@ -1,12 +1,12 @@
 ---
-title: set_HasBorderOutline
+title: set_HasBorderOutline()
 second_title: Aspose.Slides for C++ API Reference
 description: True if the chart data table has outline borders. Write bool.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/datatable/set_hasborderoutline/
 ---
-## DataTable::set_HasBorderOutline method
+## DataTable::set_HasBorderOutline(**bool**) method
 
 
 True if the chart data table has outline borders. Write **bool**.

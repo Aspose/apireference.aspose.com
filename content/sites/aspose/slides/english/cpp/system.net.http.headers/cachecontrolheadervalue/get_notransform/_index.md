@@ -1,12 +1,12 @@
 ---
-title: get_NoTransform
+title: get_NoTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the value that determines if a cache or proxy must not change any part of the entity body.
 type: docs
 weight: 196
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_notransform/
 ---
-## CacheControlHeaderValue::get_NoTransform method
+## CacheControlHeaderValue::get_NoTransform() method
 
 
 Gets the value that determines if a cache or proxy must not change any part of the entity body.

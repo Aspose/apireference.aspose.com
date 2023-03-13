@@ -1,12 +1,12 @@
 ---
-title: Escape
+title: Escape()
 second_title: Aspose.Slides for C++ API Reference
 description: Escapes characters in XML string.
 type: docs
 weight: 222
 url: /cpp/system.security/securityelement/escape/
 ---
-## SecurityElement::Escape method
+## SecurityElement::Escape(const [String](../../../system/string/)\&) method
 
 
 Escapes characters in XML string.

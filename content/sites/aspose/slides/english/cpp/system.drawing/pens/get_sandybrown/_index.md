@@ -1,12 +1,12 @@
 ---
-title: get_SandyBrown
+title: get_SandyBrown()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFF4A460.
 type: docs
 weight: 1548
 url: /cpp/system.drawing/pens/get_sandybrown/
 ---
-## Pens::get_SandyBrown method
+## Pens::get_SandyBrown() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFF4A460.

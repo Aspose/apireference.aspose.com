@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the ContentDispositionHeaderValue class.
 type: docs
 weight: 287
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/tryparse/
 ---
-## ContentDispositionHeaderValue::TryParse method
+## ContentDispositionHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ContentDispositionHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [ContentDispositionHeaderValue](../) class.

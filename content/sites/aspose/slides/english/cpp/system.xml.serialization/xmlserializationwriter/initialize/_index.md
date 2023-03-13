@@ -1,12 +1,12 @@
 ---
-title: Initialize
+title: Initialize()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes XmlSerializationReader class.
 type: docs
 weight: 1
 url: /cpp/system.xml.serialization/xmlserializationwriter/initialize/
 ---
-## XmlSerializationWriter::Initialize method
+## XmlSerializationWriter::Initialize([System::SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../../system.xml/xmlwriter/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[XmlSerializerNamespaces](../../xmlserializernamespaces/)\>) method
 
 
 Initializes [XmlSerializationReader](../../xmlserializationreader/) class.

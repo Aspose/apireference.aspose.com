@@ -1,12 +1,12 @@
 ---
-title: get_ShowLeftPane
+title: get_ShowLeftPane()
 second_title: Aspose.Slides for C++ API Reference
 description: Show/hide left pane. Can be overridden in flashvars. Default is true.
 type: docs
 weight: 235
 url: /cpp/aspose.slides.export/iswfoptions/get_showleftpane/
 ---
-## ISwfOptions::get_ShowLeftPane method
+## ISwfOptions::get_ShowLeftPane() method
 
 
 Show/hide left pane. Can be overridden in flashvars. Default is true.

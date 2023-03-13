@@ -1,12 +1,12 @@
 ---
-title: GetManifestResourceNames
+title: GetManifestResourceNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets names of manifest resources.
 type: docs
 weight: 27
 url: /cpp/system.reflection/assembly/getmanifestresourcenames/
 ---
-## Assembly::GetManifestResourceNames method
+## Assembly::GetManifestResourceNames() const method
 
 
 Gets names of manifest resources.

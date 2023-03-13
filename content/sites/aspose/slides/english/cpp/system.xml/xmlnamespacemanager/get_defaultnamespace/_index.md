@@ -1,12 +1,12 @@
 ---
-title: get_DefaultNamespace
+title: get_DefaultNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the namespace URI for the default namespace.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlnamespacemanager/get_defaultnamespace/
 ---
-## XmlNamespaceManager::get_DefaultNamespace method
+## XmlNamespaceManager::get_DefaultNamespace() method
 
 
 Returns the namespace URI for the default namespace.

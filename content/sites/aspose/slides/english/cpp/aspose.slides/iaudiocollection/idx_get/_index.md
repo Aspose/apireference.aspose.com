@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the element at the specified index. Read-only IAudio.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iaudiocollection/idx_get/
 ---
-## IAudioCollection::idx_get method
+## IAudioCollection::idx_get(**int32_t**) method
 
 
 Gets the element at the specified index. Read-only [IAudio](../../iaudio/).

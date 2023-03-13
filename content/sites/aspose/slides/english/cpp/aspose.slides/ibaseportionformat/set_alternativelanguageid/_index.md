@@ -1,12 +1,12 @@
 ---
-title: set_AlternativeLanguageId
+title: set_AlternativeLanguageId()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the Id of an alternative language. Write System::String."
 type: docs
 weight: 560
 url: /cpp/aspose.slides/ibaseportionformat/set_alternativelanguageid/
 ---
-## IBasePortionFormat::set_AlternativeLanguageId method
+## IBasePortionFormat::set_AlternativeLanguageId([System::String](../../../system/string/)) method
 
 
 Sets the Id of an alternative language. Write [System::String](../../../system/string/).

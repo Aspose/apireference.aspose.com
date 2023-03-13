@@ -1,12 +1,12 @@
 ---
-title: get_ExportHiddenSlides
+title: get_ExportHiddenSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether hidden slides will be exported. The default value is false.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/igifoptions/get_exporthiddenslides/
 ---
-## IGifOptions::get_ExportHiddenSlides method
+## IGifOptions::get_ExportHiddenSlides() method
 
 
 Determines whether hidden slides will be exported. The default value is false.

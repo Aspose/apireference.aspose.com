@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if queue contains specific element using operator == to compare elements.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/queue/contains/
 ---
-## Queue::Contains method
+## Queue::Contains(const T\&) const method
 
 
 Checks if queue contains specific element using operator == to compare elements.

@@ -1,5 +1,5 @@
 ---
-title: Delete
+title: Delete()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the directory referred to by the path represented by the current object if the directory is empty.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_LinkEmbedController
+title: set_LinkEmbedController()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets a callback object which controlls how external object will be stored. Write Export::ILinkEmbedController."
 type: docs
 weight: 66
 url: /cpp/aspose.slides.export/texttohtmlconversionoptions/set_linkembedcontroller/
 ---
-## TextToHtmlConversionOptions::set_LinkEmbedController method
+## TextToHtmlConversionOptions::set_LinkEmbedController([System::SharedPtr](../../../system/sharedptr/)\<[Export::ILinkEmbedController](../../ilinkembedcontroller/)\>) method
 
 
 Sets a callback object which controlls how external object will be stored. Write [Export::ILinkEmbedController](../../ilinkembedcontroller/).

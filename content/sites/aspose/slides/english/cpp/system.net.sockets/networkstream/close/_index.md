@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the current instance after the specified time expires.
 type: docs
 weight: 222
 url: /cpp/system.net.sockets/networkstream/close/
 ---
-## NetworkStream::Close method
+## NetworkStream::Close(int) method
 
 
 Closes the current instance after the specified time expires.

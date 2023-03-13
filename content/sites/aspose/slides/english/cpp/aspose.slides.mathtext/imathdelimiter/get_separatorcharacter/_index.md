@@ -1,12 +1,12 @@
 ---
-title: get_SeparatorCharacter
+title: get_SeparatorCharacter()
 second_title: Aspose.Slides for C++ API Reference
 description: "Delimiter Separator Character specifies the character that separates arguments in the delimiter object. The default: '|'."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/imathdelimiter/get_separatorcharacter/
 ---
-## IMathDelimiter::get_SeparatorCharacter method
+## IMathDelimiter::get_SeparatorCharacter() method
 
 
 Delimiter Separator Character specifies the character that separates arguments in the delimiter object. The default: '|'.

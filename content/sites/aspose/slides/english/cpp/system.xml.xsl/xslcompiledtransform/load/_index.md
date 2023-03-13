@@ -1,5 +1,5 @@
 ---
-title: Load
+title: Load()
 second_title: Aspose.Slides for C++ API Reference
 description: Compiles the style sheet contained in the XmlReader.
 type: docs

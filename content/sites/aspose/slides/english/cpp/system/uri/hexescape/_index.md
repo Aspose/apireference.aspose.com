@@ -1,12 +1,12 @@
 ---
-title: HexEscape
+title: HexEscape()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hexadecimal equivalent of the specified character.
 type: docs
 weight: 430
 url: /cpp/system/uri/hexescape/
 ---
-## Uri::HexEscape method
+## Uri::HexEscape(char16_t) method
 
 
 Returns a hexadecimal equivalent of the specified character.

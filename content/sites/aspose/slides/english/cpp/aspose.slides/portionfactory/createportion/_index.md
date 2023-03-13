@@ -1,5 +1,5 @@
 ---
-title: CreatePortion
+title: CreatePortion()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an empty text portion.
 type: docs

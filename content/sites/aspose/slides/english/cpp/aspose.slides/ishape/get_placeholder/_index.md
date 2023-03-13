@@ -1,12 +1,12 @@
 ---
-title: get_Placeholder
+title: get_Placeholder()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the placeholder for a shape. Read-only IPlaceholder.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ishape/get_placeholder/
 ---
-## IShape::get_Placeholder method
+## IShape::get_Placeholder() method
 
 
 Returns the placeholder for a shape. Read-only [IPlaceholder](../../iplaceholder/).

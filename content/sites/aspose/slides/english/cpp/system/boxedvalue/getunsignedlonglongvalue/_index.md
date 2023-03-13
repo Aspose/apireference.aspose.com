@@ -1,12 +1,12 @@
 ---
-title: GetUnsignedLongLongValue
+title: GetUnsignedLongLongValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Always returns 0.
 type: docs
 weight: 105
 url: /cpp/system/boxedvalue/getunsignedlonglongvalue/
 ---
-## BoxedValue::GetUnsignedLongLongValue method
+## BoxedValue::GetUnsignedLongLongValue() method
 
 
 Always returns 0.

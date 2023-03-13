@@ -1,12 +1,12 @@
 ---
-title: get_CameraType
+title: get_CameraType()
 second_title: Aspose.Slides for C++ API Reference
 description: Camera type. Read CameraPresetType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/camera/get_cameratype/
 ---
-## Camera::get_CameraType method
+## Camera::get_CameraType() method
 
 
 [Camera](../) type. Read [CameraPresetType](../../camerapresettype/).

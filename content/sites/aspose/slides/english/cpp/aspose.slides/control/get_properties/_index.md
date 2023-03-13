@@ -1,12 +1,12 @@
 ---
-title: get_Properties
+title: get_Properties()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of ActiveX properties.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/control/get_properties/
 ---
-## Control::get_Properties method
+## Control::get_Properties() method
 
 
 Returns a collection of ActiveX properties.

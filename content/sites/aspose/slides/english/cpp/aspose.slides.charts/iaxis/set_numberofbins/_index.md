@@ -1,12 +1,12 @@
 ---
-title: set_NumberOfBins
+title: set_NumberOfBins()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies number of bins when AggregationType property value setted to AxisAggregationType::ByNumberOfBins. Applied to category axes. Used with Histogram or HistogramPareto series only."
 type: docs
 weight: 1080
 url: /cpp/aspose.slides.charts/iaxis/set_numberofbins/
 ---
-## IAxis::set_NumberOfBins method
+## IAxis::set_NumberOfBins(**uint32_t**) method
 
 
 Specifies number of bins when AggregationType property value setted to [AxisAggregationType::ByNumberOfBins](../../axisaggregationtype/). Applied to category axes. Used with Histogram or HistogramPareto series only.

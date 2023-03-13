@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the IPAddress class.
 type: docs
 weight: 235
 url: /cpp/system.net/ipaddress/parse/
 ---
-## IPAddress::Parse method
+## IPAddress::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [IPAddress](../) class.

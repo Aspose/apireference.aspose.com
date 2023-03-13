@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the underlying buffer at the specified index.
 type: docs
 weight: 27
 url: /cpp/system.net/socketaddress/idx_get/
 ---
-## SocketAddress::idx_get method
+## SocketAddress::idx_get(**int32_t**) method
 
 
 Gets a value of the underlying buffer at the specified index.

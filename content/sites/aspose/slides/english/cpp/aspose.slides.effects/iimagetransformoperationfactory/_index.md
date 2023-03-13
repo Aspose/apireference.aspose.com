@@ -1,7 +1,7 @@
 ---
 title: IImageTransformOperationFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create image effects' instances.
+description: Allows to create image effects' instances
 type: docs
 weight: 716
 url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/
 ## IImageTransformOperationFactory class
 
 
-Allows to create image effects' instances.
+Allows to create image effects' instances
 
 ```cpp
 class IImageTransformOperationFactory : public System::Object

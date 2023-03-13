@@ -1,15 +1,15 @@
 ---
-title: Seek
+title: Seek()
 second_title: Aspose.Slides for C++ API Reference
-description: Sets the position within the current stream.
+description: Sets the position within the current stream
 type: docs
 weight: 131
 url: /cpp/aspose.slides/streamwrapper/seek/
 ---
-## StreamWrapper::Seek method
+## StreamWrapper::Seek(**int64_t**, [System::IO::SeekOrigin](../../../system.io/seekorigin/)) method
 
 
-Sets the position within the current stream.
+Sets the position within the current stream
 
 ```cpp
 int64_t Aspose::Slides::StreamWrapper::Seek(int64_t offset, System::IO::SeekOrigin origin) override

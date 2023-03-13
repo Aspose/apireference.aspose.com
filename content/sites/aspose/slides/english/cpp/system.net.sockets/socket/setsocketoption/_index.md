@@ -1,5 +1,5 @@
 ---
-title: SetSocketOption
+title: SetSocketOption()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the specified socket option to the specified value.
 type: docs

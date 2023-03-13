@@ -1,12 +1,12 @@
 ---
-title: set_SharedMaxAge
+title: set_SharedMaxAge()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the shared maximum age value in seconds that overrides the 'max-age' directive in the 'Cache-Control'. header or the 'Expires' header for a shared cache.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_sharedmaxage/
 ---
-## CacheControlHeaderValue::set_SharedMaxAge method
+## CacheControlHeaderValue::set_SharedMaxAge([Nullable](../../../system/nullable/)\<[TimeSpan](../../../system/timespan/)\>) method
 
 
 Sets the shared maximum age value in seconds that overrides the 'max-age' directive in the 'Cache-Control'. header or the 'Expires' header for a shared cache.

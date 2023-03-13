@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current and the specified Color objects represent the same color.
 type: docs
 weight: 183
 url: /cpp/system.drawing/color/equals/
 ---
-## Color::Equals method
+## Color::Equals(const [Color](../)\&) const method
 
 
 Determines if the current and the specified [Color](../) objects represent the same color.

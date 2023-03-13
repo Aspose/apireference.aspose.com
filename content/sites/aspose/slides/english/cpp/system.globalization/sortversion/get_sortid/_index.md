@@ -1,12 +1,12 @@
 ---
-title: get_SortId
+title: get_SortId()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets unique identifier for this object.
 type: docs
 weight: 40
 url: /cpp/system.globalization/sortversion/get_sortid/
 ---
-## SortVersion::get_SortId method
+## SortVersion::get_SortId() method
 
 
 Gets unique identifier for this object.

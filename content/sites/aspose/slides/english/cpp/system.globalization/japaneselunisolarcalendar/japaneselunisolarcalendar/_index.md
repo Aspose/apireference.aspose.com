@@ -1,12 +1,12 @@
 ---
-title: JapaneseLunisolarCalendar
+title: JapaneseLunisolarCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.globalization/japaneselunisolarcalendar/japaneselunisolarcalendar/
 ---
-## JapaneseLunisolarCalendar::JapaneseLunisolarCalendar constructor
+## JapaneseLunisolarCalendar::JapaneseLunisolarCalendar() constructor
 
 
 Constructor.

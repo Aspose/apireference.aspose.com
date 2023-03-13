@@ -1,12 +1,12 @@
 ---
-title: set_Size
+title: set_Size()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the width and height of the rectangle represented by the current object.
 type: docs
 weight: 53
 url: /cpp/system.drawing/rectangle/set_size/
 ---
-## Rectangle::set_Size method
+## Rectangle::set_Size([Size](../../size/)) method
 
 
 Sets the width and height of the rectangle represented by the current object.

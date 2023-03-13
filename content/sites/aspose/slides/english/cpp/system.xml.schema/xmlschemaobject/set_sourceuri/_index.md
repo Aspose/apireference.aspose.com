@@ -1,12 +1,12 @@
 ---
-title: set_SourceUri
+title: set_SourceUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the source location for the file that loaded the schema.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemaobject/set_sourceuri/
 ---
-## XmlSchemaObject::set_SourceUri method
+## XmlSchemaObject::set_SourceUri(const [String](../../../system/string/)\&) method
 
 
 Sets the source location for the file that loaded the schema.

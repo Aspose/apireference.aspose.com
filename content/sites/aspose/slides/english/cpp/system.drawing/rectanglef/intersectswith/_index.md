@@ -1,12 +1,12 @@
 ---
-title: IntersectsWith
+title: IntersectsWith()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the rectangles represented by the current and specified objects intesect.
 type: docs
 weight: 287
 url: /cpp/system.drawing/rectanglef/intersectswith/
 ---
-## RectangleF::IntersectsWith method
+## RectangleF::IntersectsWith(const [RectangleF](../)\&) method
 
 
 Determines if the rectangles represented by the current and specified objects intesect.

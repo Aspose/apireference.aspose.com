@@ -1,5 +1,5 @@
 ---
-title: GetCertHash
+title: GetCertHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets hash for the current object as an array of bytes.
 type: docs

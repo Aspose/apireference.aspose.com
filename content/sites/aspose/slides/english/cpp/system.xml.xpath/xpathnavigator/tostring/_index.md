@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text value of the current node.
 type: docs
 weight: 1054
 url: /cpp/system.xml.xpath/xpathnavigator/tostring/
 ---
-## XPathNavigator::ToString method
+## XPathNavigator::ToString() const method
 
 
 Returns the text value of the current node.

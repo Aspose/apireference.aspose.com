@@ -1,5 +1,5 @@
 ---
-title: begin
+title: begin()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an iterator to the first element of the container. If the container is empty, the returned iterator will be equal to end().
 type: docs

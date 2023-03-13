@@ -1,12 +1,12 @@
 ---
-title: get_ParentSeries
+title: get_ParentSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns chart series in the parent series group at the specified index.
 type: docs
 weight: 820
 url: /cpp/aspose.slides.charts/ichartseries/get_parentseries/
 ---
-## IChartSeries::get_ParentSeries method
+## IChartSeries::get_ParentSeries(**int32_t**) method
 
 
 Returns chart series in the parent series group at the specified index.

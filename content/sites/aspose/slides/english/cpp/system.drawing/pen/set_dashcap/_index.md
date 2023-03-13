@@ -1,12 +1,12 @@
 ---
-title: set_DashCap
+title: set_DashCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that specifies the cap used at the both ends of a dashed line.
 type: docs
 weight: 209
 url: /cpp/system.drawing/pen/set_dashcap/
 ---
-## Pen::set_DashCap method
+## Pen::set_DashCap([Drawing2D::DashCap](../../../system.drawing.drawing2d/dashcap/)) method
 
 
 Sets a value that specifies the cap used at the both ends of a dashed line.

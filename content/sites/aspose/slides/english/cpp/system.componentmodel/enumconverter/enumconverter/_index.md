@@ -1,12 +1,12 @@
 ---
-title: EnumConverter
+title: EnumConverter()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/enumconverter/enumconverter/
 ---
-## EnumConverter::EnumConverter constructor
+## EnumConverter::EnumConverter(const [System::TypeInfo](../../../system/typeinfo/)\&) constructor
 
 
 RTTI information.

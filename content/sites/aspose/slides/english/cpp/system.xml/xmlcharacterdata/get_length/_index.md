@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the length of the data, in characters.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlcharacterdata/get_length/
 ---
-## XmlCharacterData::get_Length method
+## XmlCharacterData::get_Length() method
 
 
 Returns the length of the data, in characters.

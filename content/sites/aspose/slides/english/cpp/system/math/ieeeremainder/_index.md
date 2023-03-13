@@ -1,12 +1,12 @@
 ---
-title: IEEERemainder
+title: IEEERemainder()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the remainder resulting from the division of a specified number by another specified number.
 type: docs
 weight: 248
 url: /cpp/system/math/ieeeremainder/
 ---
-## Math::IEEERemainder method
+## Math::IEEERemainder(**double**, **double**) method
 
 
 Returns the remainder resulting from the division of a specified number by another specified number.

@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes specific item.
 type: docs
 weight: 66
 url: /cpp/system.collections.specialized/namevaluecollection/remove/
 ---
-## NameValueCollection::Remove method
+## NameValueCollection::Remove(const [String](../../../system/string/)\&) method
 
 
 Removes specific item.

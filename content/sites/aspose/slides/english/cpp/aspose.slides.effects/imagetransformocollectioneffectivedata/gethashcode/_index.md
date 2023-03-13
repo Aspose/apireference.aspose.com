@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Serves as a hash function for a particular type, suitable for use in hashing algorithms and data structures like a hash table.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.effects/imagetransformocollectioneffectivedata/gethashcode/
 ---
-## ImageTransformOCollectionEffectiveData::GetHashCode method
+## ImageTransformOCollectionEffectiveData::GetHashCode() const method
 
 
 Serves as a hash function for a particular type, suitable for use in hashing algorithms and data structures like a hash table.

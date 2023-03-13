@@ -1,12 +1,12 @@
 ---
-title: get_Status
+title: get_Status()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.x509certificates/x509chainstatus/get_status/
 ---
-## X509ChainStatus::get_Status method
+## X509ChainStatus::get_Status() method
 
 
 

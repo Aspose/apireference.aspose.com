@@ -1,5 +1,5 @@
 ---
-title: WriteNode
+title: WriteNode()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, copies everything from the reader to the writer and moves the reader to the start of the next sibling.
 type: docs

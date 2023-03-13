@@ -1,12 +1,12 @@
 ---
-title: get_InvariantInfo
+title: get_InvariantInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets invariant culture-defined number format info.
 type: docs
 weight: 781
 url: /cpp/system.globalization/numberformatinfo/get_invariantinfo/
 ---
-## NumberFormatInfo::get_InvariantInfo method
+## NumberFormatInfo::get_InvariantInfo() method
 
 
 Gets invariant culture-defined number format info.

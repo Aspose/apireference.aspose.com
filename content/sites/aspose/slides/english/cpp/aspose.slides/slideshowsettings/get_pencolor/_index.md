@@ -1,15 +1,15 @@
 ---
-title: get_PenColor
+title: get_PenColor()
 second_title: Aspose.Slides for C++ API Reference
-description: Pen Color for Slide Show.
+description: Pen Color for Slide Show
 type: docs
 weight: 105
 url: /cpp/aspose.slides/slideshowsettings/get_pencolor/
 ---
-## SlideShowSettings::get_PenColor method
+## SlideShowSettings::get_PenColor() method
 
 
-Pen Color for [Slide](../../slide/) Show.
+Pen Color for [Slide](../../slide/) Show
 
 ```cpp
 System::SharedPtr<IColorFormat> Aspose::Slides::SlideShowSettings::get_PenColor()

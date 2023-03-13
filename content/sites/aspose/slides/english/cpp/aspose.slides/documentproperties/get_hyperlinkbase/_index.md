@@ -1,12 +1,12 @@
 ---
-title: get_HyperlinkBase
+title: get_HyperlinkBase()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the HyperlinkBase document property. Read System::String."
 type: docs
 weight: 534
 url: /cpp/aspose.slides/documentproperties/get_hyperlinkbase/
 ---
-## DocumentProperties::get_HyperlinkBase method
+## DocumentProperties::get_HyperlinkBase() method
 
 
 Returns the HyperlinkBase document property. Read [System::String](../../../system/string/).

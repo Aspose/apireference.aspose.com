@@ -1,12 +1,12 @@
 ---
-title: EncryptValue
+title: EncryptValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Encrypts value using private key.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/rsa/encryptvalue/
 ---
-## RSA::EncryptValue method
+## RSA::EncryptValue([ByteArrayPtr](../../../system/bytearrayptr/)) method
 
 
 Encrypts value using private key.

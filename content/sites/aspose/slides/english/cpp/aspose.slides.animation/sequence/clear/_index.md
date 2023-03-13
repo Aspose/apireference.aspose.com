@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all effects from a collection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/sequence/clear/
 ---
-## Sequence::Clear method
+## Sequence::Clear() method
 
 
 Removes all effects from a collection.

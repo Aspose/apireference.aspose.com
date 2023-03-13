@@ -1,12 +1,12 @@
 ---
-title: get_Rectangle
+title: get_Rectangle()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 300
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_rectangle/
 ---
-## PathGradientBrush::get_Rectangle method
+## PathGradientBrush::get_Rectangle() method
 
 
 NOT IMPLEMENTED.

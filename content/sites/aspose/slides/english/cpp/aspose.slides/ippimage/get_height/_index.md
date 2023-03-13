@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a height of an image. Read-only int32_t.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/ippimage/get_height/
 ---
-## IPPImage::get_Height method
+## IPPImage::get_Height() method
 
 
 Returns a height of an image. Read-only **int32_t**.

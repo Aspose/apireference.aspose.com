@@ -1,12 +1,12 @@
 ---
-title: get_InterpolationMode
+title: get_InterpolationMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates the interpolation mode associated with the current object.
 type: docs
 weight: 92
 url: /cpp/system.drawing/graphics/get_interpolationmode/
 ---
-## Graphics::get_InterpolationMode method
+## Graphics::get_InterpolationMode() method
 
 
 Returns a value that indicates the interpolation mode associated with the current object.

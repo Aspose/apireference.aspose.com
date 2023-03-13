@@ -1,15 +1,15 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
-description: Element of matrix.
+description: Element of matrix
 type: docs
 weight: 209
 url: /cpp/aspose.slides.mathtext/mathmatrix/idx_get/
 ---
-## MathMatrix::idx_get method
+## MathMatrix::idx_get(**int32_t**, **int32_t**) method
 
 
-Element of matrix.
+Element of matrix
 
 ```cpp
 System::SharedPtr<IMathElement> Aspose::Slides::MathText::MathMatrix::idx_get(int32_t row, int32_t column) override

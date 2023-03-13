@@ -1,12 +1,12 @@
 ---
-title: get_WebName
+title: get_WebName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets IANA-compatible encoding name.
 type: docs
 weight: 53
 url: /cpp/system.text/encoding/get_webname/
 ---
-## Encoding::get_WebName method
+## Encoding::get_WebName() method
 
 
 Gets IANA-compatible encoding name.

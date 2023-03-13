@@ -1,12 +1,12 @@
 ---
-title: get_Worksheets
+title: get_Worksheets()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a collection of worksheets.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/chartdataworkbook/get_worksheets/
 ---
-## ChartDataWorkbook::get_Worksheets method
+## ChartDataWorkbook::get_Worksheets() method
 
 
 Gets a collection of worksheets.

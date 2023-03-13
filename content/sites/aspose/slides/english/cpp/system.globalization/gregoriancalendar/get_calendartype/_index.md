@@ -1,12 +1,12 @@
 ---
-title: get_CalendarType
+title: get_CalendarType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets Gregorian calendar type.
 type: docs
 weight: 14
 url: /cpp/system.globalization/gregoriancalendar/get_calendartype/
 ---
-## GregorianCalendar::get_CalendarType method
+## GregorianCalendar::get_CalendarType() const method
 
 
 Gets Gregorian calendar type.

@@ -1,12 +1,12 @@
 ---
-title: get_IsHeaderVisible
+title: get_IsHeaderVisible()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value indicating that a header placeholder is present. Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/basehandoutnotesslideheaderfootermanager/get_isheadervisible/
 ---
-## BaseHandoutNotesSlideHeaderFooterManager::get_IsHeaderVisible method
+## BaseHandoutNotesSlideHeaderFooterManager::get_IsHeaderVisible() method
 
 
 Gets value indicating that a header placeholder is present. Read **bool**.

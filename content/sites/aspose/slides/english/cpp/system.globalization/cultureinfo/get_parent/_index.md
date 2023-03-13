@@ -1,12 +1,12 @@
 ---
-title: get_Parent
+title: get_Parent()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets parent culture.
 type: docs
 weight: 196
 url: /cpp/system.globalization/cultureinfo/get_parent/
 ---
-## CultureInfo::get_Parent method
+## CultureInfo::get_Parent() const method
 
 
 Gets parent culture.

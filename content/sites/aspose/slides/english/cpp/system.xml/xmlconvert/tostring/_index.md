@@ -1,5 +1,5 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the Boolean to a String.
 type: docs

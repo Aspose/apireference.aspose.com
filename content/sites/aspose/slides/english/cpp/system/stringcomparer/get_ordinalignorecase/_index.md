@@ -1,12 +1,12 @@
 ---
-title: get_OrdinalIgnoreCase
+title: get_OrdinalIgnoreCase()
 second_title: Aspose.Slides for C++ API Reference
 description: Ordinal case-ignoring comparer singleton.
 type: docs
 weight: 14
 url: /cpp/system/stringcomparer/get_ordinalignorecase/
 ---
-## StringComparer::get_OrdinalIgnoreCase method
+## StringComparer::get_OrdinalIgnoreCase() method
 
 
 Ordinal case-ignoring comparer singleton.

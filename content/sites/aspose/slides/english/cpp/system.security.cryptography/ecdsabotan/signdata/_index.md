@@ -1,5 +1,5 @@
 ---
-title: SignData
+title: SignData()
 second_title: Aspose.Slides for C++ API Reference
 description: Computes the hash value of the specified data array, and signs the result.
 type: docs

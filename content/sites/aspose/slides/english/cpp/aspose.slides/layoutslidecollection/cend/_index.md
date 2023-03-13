@@ -1,12 +1,12 @@
 ---
-title: cend
+title: cend()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing right after the last const-qualified element (if any) of the collection.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/layoutslidecollection/cend/
 ---
-## LayoutSlideCollection::cend method
+## LayoutSlideCollection::cend() const method
 
 
 Gets iterator pointing right after the last const-qualified element (if any) of the collection.

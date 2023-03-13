@@ -1,12 +1,12 @@
 ---
-title: get_DocumentType
+title: get_DocumentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the node containing the DOCTYPE declaration.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmldocument/get_documenttype/
 ---
-## XmlDocument::get_DocumentType method
+## XmlDocument::get_DocumentType() method
 
 
 Returns the node containing the DOCTYPE declaration.

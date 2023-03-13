@@ -1,12 +1,12 @@
 ---
-title: set_MinFresh
+title: set_MinFresh()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value that determines the freshness lifetime.
 type: docs
 weight: 183
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_minfresh/
 ---
-## CacheControlHeaderValue::set_MinFresh method
+## CacheControlHeaderValue::set_MinFresh([Nullable](../../../system/nullable/)\<[TimeSpan](../../../system/timespan/)\>) method
 
 
 Sets the value that determines the freshness lifetime.

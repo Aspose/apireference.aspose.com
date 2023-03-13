@@ -1,12 +1,12 @@
 ---
-title: get_Shape
+title: get_Shape()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a shape inside group at the specified index. Read-only Aspose::Slides::IShape"
 type: docs
 weight: 27
 url: /cpp/aspose.slides/igroupshape/get_shape/
 ---
-## IGroupShape::get_Shape method
+## IGroupShape::get_Shape(**int32_t**) method
 
 
 Returns a shape inside group at the specified index. Read-only [Aspose::Slides::IShape](../../ishape/)

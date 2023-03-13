@@ -1,12 +1,12 @@
 ---
-title: get_HorizontalResizeBorderThickness
+title: get_HorizontalResizeBorderThickness()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 287
 url: /cpp/system.windows.forms/systeminformation/get_horizontalresizeborderthickness/
 ---
-## SystemInformation::get_HorizontalResizeBorderThickness method
+## SystemInformation::get_HorizontalResizeBorderThickness() method
 
 
 NOT IMPLEMENTED.

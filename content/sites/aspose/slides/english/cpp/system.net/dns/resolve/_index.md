@@ -1,12 +1,12 @@
 ---
-title: Resolve
+title: Resolve()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new IPHostEntry-class instance using the specified host name.
 type: docs
 weight: 40
 url: /cpp/system.net/dns/resolve/
 ---
-## Dns::Resolve method
+## Dns::Resolve([String](../../../system/string/)) method
 
 
 Creates a new IPHostEntry-class instance using the specified host name.

@@ -1,12 +1,12 @@
 ---
-title: Verify
+title: Verify()
 second_title: Aspose.Slides for C++ API Reference
 description: Verifies certificate chain.
 type: docs
 weight: 261
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/verify/
 ---
-## X509Certificate2::Verify method
+## X509Certificate2::Verify() const method
 
 
 Verifies certificate chain.

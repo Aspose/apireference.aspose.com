@@ -1,7 +1,7 @@
 ---
 title: ErrorBarValueType
 second_title: Aspose.Slides for C++ API Reference
-description: Represents type of error bar value.
+description: Represents type of error bar value
 type: docs
 weight: 1574
 url: /cpp/aspose.slides.charts/errorbarvaluetype/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/errorbarvaluetype/
 ## ErrorBarValueType enum
 
 
-Represents type of error bar value.
+Represents type of error bar value
 
 ```cpp
 enum class ErrorBarValueType

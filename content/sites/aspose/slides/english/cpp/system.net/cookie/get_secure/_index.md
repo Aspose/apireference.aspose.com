@@ -1,12 +1,12 @@
 ---
-title: get_Secure
+title: get_Secure()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the 'Secure' attribute's value.
 type: docs
 weight: 313
 url: /cpp/system.net/cookie/get_secure/
 ---
-## Cookie::get_Secure method
+## Cookie::get_Secure() const method
 
 
 Gets the 'Secure' attribute's value.

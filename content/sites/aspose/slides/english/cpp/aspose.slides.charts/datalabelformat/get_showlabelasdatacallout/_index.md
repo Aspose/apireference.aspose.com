@@ -1,12 +1,12 @@
 ---
-title: get_ShowLabelAsDataCallout
+title: get_ShowLabelAsDataCallout()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines either specified chart's data label will be displayed as data callout or as data label.
 type: docs
 weight: 300
 url: /cpp/aspose.slides.charts/datalabelformat/get_showlabelasdatacallout/
 ---
-## DataLabelFormat::get_ShowLabelAsDataCallout method
+## DataLabelFormat::get_ShowLabelAsDataCallout() method
 
 
 Determines either specified chart's data label will be displayed as data callout or as data label.

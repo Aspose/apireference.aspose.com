@@ -1,12 +1,12 @@
 ---
-title: WriteTo
+title: WriteTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the content of the underlying buffer to the specified stream.
 type: docs
 weight: 144
 url: /cpp/system.io/memorystream/writeto/
 ---
-## MemoryStream::WriteTo method
+## MemoryStream::WriteTo([SharedPtr](../../../system/sharedptr/)\<[Stream](../../stream/)\>) method
 
 
 Writes the content of the underlying buffer to the specified stream.

@@ -1,12 +1,12 @@
 ---
-title: GetEntryAssembly
+title: GetEntryAssembly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets entry assembly.
 type: docs
 weight: 118
 url: /cpp/system.reflection/assembly/getentryassembly/
 ---
-## Assembly::GetEntryAssembly method
+## Assembly::GetEntryAssembly() method
 
 
 Gets entry assembly.

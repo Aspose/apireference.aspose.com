@@ -1,5 +1,5 @@
 ---
-title: GetEnvironmentVariables
+title: GetEnvironmentVariables()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a dictionary containing all environment variables names and their values associated with the current process.
 type: docs

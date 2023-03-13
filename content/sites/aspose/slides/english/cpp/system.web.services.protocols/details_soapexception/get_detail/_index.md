@@ -1,12 +1,12 @@
 ---
-title: get_Detail
+title: get_Detail()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns details about the thrown exception.
 type: docs
 weight: 27
 url: /cpp/system.web.services.protocols/details_soapexception/get_detail/
 ---
-## Details_SoapException::get_Detail method
+## Details_SoapException::get_Detail() method
 
 
 Returns details about the thrown exception.

@@ -1,12 +1,12 @@
 ---
-title: get_TextFormat
+title: get_TextFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns text format. Read-only IChartTextFormat.
 type: docs
 weight: 287
 url: /cpp/aspose.slides.charts/trendline/get_textformat/
 ---
-## Trendline::get_TextFormat method
+## Trendline::get_TextFormat() method
 
 
 Returns text format. Read-only [IChartTextFormat](../../icharttextformat/).

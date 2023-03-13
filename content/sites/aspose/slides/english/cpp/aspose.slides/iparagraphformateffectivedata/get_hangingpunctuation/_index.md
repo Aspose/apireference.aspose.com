@@ -1,12 +1,12 @@
 ---
-title: get_HangingPunctuation
+title: get_HangingPunctuation()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the hanging punctuation is used in a paragraph. Read-only bool.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/iparagraphformateffectivedata/get_hangingpunctuation/
 ---
-## IParagraphFormatEffectiveData::get_HangingPunctuation method
+## IParagraphFormatEffectiveData::get_HangingPunctuation() method
 
 
 Determines whether the hanging punctuation is used in a paragraph. Read-only **bool**.

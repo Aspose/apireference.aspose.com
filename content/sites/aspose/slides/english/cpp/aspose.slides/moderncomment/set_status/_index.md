@@ -1,12 +1,12 @@
 ---
-title: set_Status
+title: set_Status()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the status of the comment. Write ModernCommentStatus.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/moderncomment/set_status/
 ---
-## ModernComment::set_Status method
+## ModernComment::set_Status([ModernCommentStatus](../../moderncommentstatus/)) method
 
 
 Sets the status of the comment. Write [ModernCommentStatus](../../moderncommentstatus/).

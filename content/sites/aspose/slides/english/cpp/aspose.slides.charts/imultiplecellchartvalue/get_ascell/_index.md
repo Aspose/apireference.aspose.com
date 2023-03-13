@@ -1,12 +1,12 @@
 ---
-title: get_AsCell
+title: get_AsCell()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a chart cell at the specified index.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/imultiplecellchartvalue/get_ascell/
 ---
-## IMultipleCellChartValue::get_AsCell method
+## IMultipleCellChartValue::get_AsCell(**int32_t**) method
 
 
 Returns a chart cell at the specified index.

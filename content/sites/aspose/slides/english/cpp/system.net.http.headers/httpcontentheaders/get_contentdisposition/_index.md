@@ -1,12 +1,12 @@
 ---
-title: get_ContentDisposition
+title: get_ContentDisposition()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-Disposition' header.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contentdisposition/
 ---
-## HttpContentHeaders::get_ContentDisposition method
+## HttpContentHeaders::get_ContentDisposition() method
 
 
 Gets a value of the 'Content-Disposition' header.

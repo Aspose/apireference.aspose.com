@@ -1,12 +1,12 @@
 ---
-title: CreateDuotone
+title: CreateDuotone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Duotone effect.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/createduotone/
 ---
-## IImageTransformOperationFactory::CreateDuotone method
+## IImageTransformOperationFactory::CreateDuotone() method
 
 
 Creates [Duotone](../../duotone/) effect.

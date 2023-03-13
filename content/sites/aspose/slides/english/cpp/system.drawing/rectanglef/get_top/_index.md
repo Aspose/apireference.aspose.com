@@ -1,12 +1,12 @@
 ---
-title: get_Top
+title: get_Top()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Y coordinate of the top edge of the rectangle represented by the current object.
 type: docs
 weight: 183
 url: /cpp/system.drawing/rectanglef/get_top/
 ---
-## RectangleF::get_Top method
+## RectangleF::get_Top() const method
 
 
 Returns the Y coordinate of the top edge of the rectangle represented by the current object.

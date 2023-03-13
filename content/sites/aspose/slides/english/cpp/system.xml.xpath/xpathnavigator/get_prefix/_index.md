@@ -1,12 +1,12 @@
 ---
-title: get_Prefix
+title: get_Prefix()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the namespace prefix associated with the current node.
 type: docs
 weight: 183
 url: /cpp/system.xml.xpath/xpathnavigator/get_prefix/
 ---
-## XPathNavigator::get_Prefix method
+## XPathNavigator::get_Prefix() method
 
 
 When overridden in a derived class, gets the namespace prefix associated with the current node.

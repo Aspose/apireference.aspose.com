@@ -1,12 +1,12 @@
 ---
-title: get_AttributeGroups
+title: get_AttributeGroups()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchemaObjectTable , for all attributes in the schema, which holds the post-compilation interpretation of the AttributeGroups value.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaredefine/get_attributegroups/
 ---
-## XmlSchemaRedefine::get_AttributeGroups method
+## XmlSchemaRedefine::get_AttributeGroups() method
 
 
 Returns the [XmlSchemaObjectTable](../../xmlschemaobjecttable/) , for all attributes in the schema, which holds the post-compilation interpretation of the **AttributeGroups** value.

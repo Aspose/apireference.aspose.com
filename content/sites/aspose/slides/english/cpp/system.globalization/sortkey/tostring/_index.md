@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts current object to its string representation.
 type: docs
 weight: 79
 url: /cpp/system.globalization/sortkey/tostring/
 ---
-## SortKey::ToString method
+## SortKey::ToString() const method
 
 
 Converts current object to its string representation.

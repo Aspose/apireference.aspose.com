@@ -1,12 +1,12 @@
 ---
-title: get_EncryptionPolicy
+title: get_EncryptionPolicy()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the encryption policy that is used by the current instance.
 type: docs
 weight: 313
 url: /cpp/system.net/servicepointmanager/get_encryptionpolicy/
 ---
-## ServicePointManager::get_EncryptionPolicy method
+## ServicePointManager::get_EncryptionPolicy() method
 
 
 Returns the encryption policy that is used by the current instance.

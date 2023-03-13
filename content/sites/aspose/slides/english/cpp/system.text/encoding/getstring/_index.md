@@ -1,5 +1,5 @@
 ---
-title: GetString
+title: GetString()
 second_title: Aspose.Slides for C++ API Reference
 description: Decodes a buffer of bytes into a string.
 type: docs

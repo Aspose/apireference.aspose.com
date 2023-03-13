@@ -1,12 +1,12 @@
 ---
-title: cbegin
+title: cbegin()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing to the first const-qualified element (if any) of the collection.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/textanimationcollection/cbegin/
 ---
-## TextAnimationCollection::cbegin method
+## TextAnimationCollection::cbegin() const method
 
 
 Gets iterator pointing to the first const-qualified element (if any) of the collection.

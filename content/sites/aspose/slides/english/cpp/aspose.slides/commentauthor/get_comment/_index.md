@@ -1,12 +1,12 @@
 ---
-title: get_Comment
+title: get_Comment()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns comment made by this author at the specified index. Read-only Aspose::Slides::IComment"
 type: docs
 weight: 79
 url: /cpp/aspose.slides/commentauthor/get_comment/
 ---
-## CommentAuthor::get_Comment method
+## CommentAuthor::get_Comment(**int32_t**) method
 
 
 Returns comment made by this author at the specified index. Read-only [Aspose::Slides::IComment](../../icomment/)

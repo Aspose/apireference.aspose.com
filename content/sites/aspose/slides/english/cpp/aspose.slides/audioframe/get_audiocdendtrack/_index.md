@@ -1,12 +1,12 @@
 ---
-title: get_AudioCdEndTrack
+title: get_AudioCdEndTrack()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a last track index Read int32_t.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/audioframe/get_audiocdendtrack/
 ---
-## AudioFrame::get_AudioCdEndTrack method
+## AudioFrame::get_AudioCdEndTrack() method
 
 
 Returns a last track index Read **int32_t**.

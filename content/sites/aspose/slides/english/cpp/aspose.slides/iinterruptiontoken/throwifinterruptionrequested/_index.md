@@ -1,12 +1,12 @@
 ---
-title: ThrowIfInterruptionRequested
+title: ThrowIfInterruptionRequested()
 second_title: Aspose.Slides for C++ API Reference
 description: Throws an if interruption was requested.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/iinterruptiontoken/throwifinterruptionrequested/
 ---
-## IInterruptionToken::ThrowIfInterruptionRequested method
+## IInterruptionToken::ThrowIfInterruptionRequested() method
 
 
 Throws an 

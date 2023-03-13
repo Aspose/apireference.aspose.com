@@ -1,12 +1,12 @@
 ---
-title: GetCallingAssembly
+title: GetCallingAssembly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets calling assembly.
 type: docs
 weight: 131
 url: /cpp/system.reflection/assembly/getcallingassembly/
 ---
-## Assembly::GetCallingAssembly method
+## Assembly::GetCallingAssembly() method
 
 
 Gets calling assembly.

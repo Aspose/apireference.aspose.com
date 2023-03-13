@@ -1,12 +1,12 @@
 ---
-title: get_Key
+title: get_Key()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.collections.generic.details/grouping/get_key/
 ---
-## Grouping::get_Key method
+## Grouping::get_Key() method
 
 
 

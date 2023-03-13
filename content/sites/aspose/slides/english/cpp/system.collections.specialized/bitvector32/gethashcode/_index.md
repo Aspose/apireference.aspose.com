@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hash code for the current object.
 type: docs
 weight: 53
 url: /cpp/system.collections.specialized/bitvector32/gethashcode/
 ---
-## BitVector32::GetHashCode method
+## BitVector32::GetHashCode() const method
 
 
 Returns a hash code for the current object.

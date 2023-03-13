@@ -1,12 +1,12 @@
 ---
-title: get_StylePreset
+title: get_StylePreset()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets builtin table style. Read TableStylePreset.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/table/get_stylepreset/
 ---
-## Table::get_StylePreset method
+## Table::get_StylePreset() method
 
 
 Gets builtin table style. Read [TableStylePreset](../../tablestylepreset/).

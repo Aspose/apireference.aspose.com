@@ -1,5 +1,5 @@
 ---
-title: Write
+title: Write()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes data to stream.
 type: docs

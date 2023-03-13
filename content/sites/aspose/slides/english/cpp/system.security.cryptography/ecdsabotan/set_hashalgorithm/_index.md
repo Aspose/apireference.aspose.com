@@ -1,12 +1,12 @@
 ---
-title: set_HashAlgorithm
+title: set_HashAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets hash algortihm.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/ecdsabotan/set_hashalgorithm/
 ---
-## ECDsaBotan::set_HashAlgorithm method
+## ECDsaBotan::set_HashAlgorithm(const [HashAlgorithmName](../../hashalgorithmname/)\&) method
 
 
 Sets hash algortihm.

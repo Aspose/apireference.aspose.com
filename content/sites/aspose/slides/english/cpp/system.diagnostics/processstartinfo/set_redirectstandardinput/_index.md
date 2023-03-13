@@ -1,12 +1,12 @@
 ---
-title: set_RedirectStandardInput
+title: set_RedirectStandardInput()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets RedirectStandardInput property.
 type: docs
 weight: 131
 url: /cpp/system.diagnostics/processstartinfo/set_redirectstandardinput/
 ---
-## ProcessStartInfo::set_RedirectStandardInput method
+## ProcessStartInfo::set_RedirectStandardInput(**bool**) method
 
 
 Sets RedirectStandardInput property.

@@ -1,12 +1,12 @@
 ---
-title: IsSamePosition
+title: IsSamePosition()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, determines whether the current XPathNavigator is at the same position as the specified XPathNavigator.
 type: docs
 weight: 716
 url: /cpp/system.xml.xpath/xpathnavigator/issameposition/
 ---
-## XPathNavigator::IsSamePosition method
+## XPathNavigator::IsSamePosition([SharedPtr](../../../system/sharedptr/)\<[XPathNavigator](../)\>) method
 
 
 When overridden in a derived class, determines whether the current [XPathNavigator](../) is at the same position as the specified [XPathNavigator](../).

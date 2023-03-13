@@ -1,5 +1,5 @@
 ---
-title: IsSurrogatePair
+title: IsSurrogatePair()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the two specified characters for a UTF-16 surrogate pair.
 type: docs

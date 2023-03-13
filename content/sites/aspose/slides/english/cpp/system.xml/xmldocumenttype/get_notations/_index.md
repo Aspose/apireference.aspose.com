@@ -1,12 +1,12 @@
 ---
-title: get_Notations
+title: get_Notations()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of XmlNotation nodes present in the document type declaration.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmldocumenttype/get_notations/
 ---
-## XmlDocumentType::get_Notations method
+## XmlDocumentType::get_Notations() method
 
 
 Returns the collection of [XmlNotation](../../xmlnotation/) nodes present in the document type declaration.

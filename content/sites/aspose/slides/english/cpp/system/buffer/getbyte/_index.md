@@ -1,5 +1,5 @@
 ---
-title: GetByte
+title: GetByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Interprets the specified typed array as a raw byte array and retrieves the byte value at specified byte offset.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_PercentGroupSeparator
+title: set_PercentGroupSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets group separator in percent values.
 type: docs
 weight: 599
 url: /cpp/system.globalization/numberformatinfo/set_percentgroupseparator/
 ---
-## NumberFormatInfo::set_PercentGroupSeparator method
+## NumberFormatInfo::set_PercentGroupSeparator(const [String](../../../system/string/)\&) method
 
 
 Sets group separator in percent values.

@@ -1,12 +1,12 @@
 ---
-title: AddAttribute
+title: AddAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds attribute to tag.
 type: docs
 weight: 118
 url: /cpp/system.security/securityelement/addattribute/
 ---
-## SecurityElement::AddAttribute method
+## SecurityElement::AddAttribute(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Adds attribute to tag.

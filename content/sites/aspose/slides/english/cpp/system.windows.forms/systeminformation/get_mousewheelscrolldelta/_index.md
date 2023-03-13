@@ -1,12 +1,12 @@
 ---
-title: get_MouseWheelScrollDelta
+title: get_MouseWheelScrollDelta()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 924
 url: /cpp/system.windows.forms/systeminformation/get_mousewheelscrolldelta/
 ---
-## SystemInformation::get_MouseWheelScrollDelta method
+## SystemInformation::get_MouseWheelScrollDelta() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: get_Data
+title: get_Data()
 second_title: Aspose.Slides for C++ API Reference
 description: returns the raw data stored in this bit vector...
 type: docs
 weight: 14
 url: /cpp/system.collections.specialized/bitvector32/get_data/
 ---
-## BitVector32::get_Data method
+## BitVector32::get_Data() method
 
 
 returns the raw data stored in this bit vector...

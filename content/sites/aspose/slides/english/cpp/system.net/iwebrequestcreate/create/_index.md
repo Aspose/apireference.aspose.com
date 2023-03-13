@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a WebRequest-class instance for the specified resource's URI.
 type: docs
 weight: 1
 url: /cpp/system.net/iwebrequestcreate/create/
 ---
-## IWebRequestCreate::Create method
+## IWebRequestCreate::Create([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Creates a WebRequest-class instance for the specified resource's URI.

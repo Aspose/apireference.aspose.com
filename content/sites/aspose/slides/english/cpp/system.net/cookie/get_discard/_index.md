@@ -1,12 +1,12 @@
 ---
-title: get_Discard
+title: get_Discard()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the 'Discard' attribute's value.
 type: docs
 weight: 79
 url: /cpp/system.net/cookie/get_discard/
 ---
-## Cookie::get_Discard method
+## Cookie::get_Discard() const method
 
 
 Gets the 'Discard' attribute's value.

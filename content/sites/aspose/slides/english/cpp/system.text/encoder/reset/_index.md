@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Cleans encoder internal state.
 type: docs
 weight: 66
 url: /cpp/system.text/encoder/reset/
 ---
-## Encoder::Reset method
+## Encoder::Reset() method
 
 
 Cleans encoder internal state.

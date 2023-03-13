@@ -1,5 +1,5 @@
 ---
-title: Decrement
+title: Decrement()
 second_title: Aspose.Slides for C++ API Reference
 description: Decrements value atomically.
 type: docs

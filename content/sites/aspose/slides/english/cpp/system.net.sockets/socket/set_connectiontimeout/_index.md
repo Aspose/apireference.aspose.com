@@ -1,12 +1,12 @@
 ---
-title: set_ConnectionTimeout
+title: set_ConnectionTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the connection timeout.
 type: docs
 weight: 807
 url: /cpp/system.net.sockets/socket/set_connectiontimeout/
 ---
-## Socket::set_ConnectionTimeout method
+## Socket::set_ConnectionTimeout(**int32_t**) method
 
 
 Sets the connection timeout.

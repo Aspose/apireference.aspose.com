@@ -1,12 +1,12 @@
 ---
-title: ImageAttributes
+title: ImageAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor.
 type: docs
 weight: 1
 url: /cpp/system.drawing.imaging/imageattributes/imageattributes/
 ---
-## ImageAttributes::ImageAttributes constructor
+## ImageAttributes::ImageAttributes() constructor
 
 
 Default constructor.

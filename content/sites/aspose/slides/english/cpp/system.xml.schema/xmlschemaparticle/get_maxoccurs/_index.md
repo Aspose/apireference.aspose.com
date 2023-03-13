@@ -1,12 +1,12 @@
 ---
-title: get_MaxOccurs
+title: get_MaxOccurs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the maximum number of times the particle can occur.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemaparticle/get_maxoccurs/
 ---
-## XmlSchemaParticle::get_MaxOccurs method
+## XmlSchemaParticle::get_MaxOccurs() method
 
 
 Returns the maximum number of times the particle can occur.

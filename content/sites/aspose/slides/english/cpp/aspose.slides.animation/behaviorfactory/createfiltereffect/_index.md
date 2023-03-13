@@ -1,12 +1,12 @@
 ---
-title: CreateFilterEffect
+title: CreateFilterEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates filter effect.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/behaviorfactory/createfiltereffect/
 ---
-## BehaviorFactory::CreateFilterEffect method
+## BehaviorFactory::CreateFilterEffect() method
 
 
 Creates filter effect.

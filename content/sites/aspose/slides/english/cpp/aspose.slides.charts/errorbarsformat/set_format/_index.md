@@ -1,12 +1,12 @@
 ---
-title: set_Format
+title: set_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the format of the error bars. Write IFormat.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/errorbarsformat/set_format/
 ---
-## ErrorBarsFormat::set_Format method
+## ErrorBarsFormat::set_Format([System::SharedPtr](../../../system/sharedptr/)\<[IFormat](../../iformat/)\>) method
 
 
 Represents the format of the error bars. Write [IFormat](../../iformat/).

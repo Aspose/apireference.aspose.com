@@ -1,5 +1,5 @@
 ---
-title: AddVideo
+title: AddVideo()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a copy of an video file from an another presentation.
 type: docs

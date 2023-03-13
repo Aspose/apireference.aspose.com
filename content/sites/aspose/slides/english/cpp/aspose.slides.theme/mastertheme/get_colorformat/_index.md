@@ -1,12 +1,12 @@
 ---
-title: get_ColorFormat
+title: get_ColorFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/aspose.slides.theme/mastertheme/get_colorformat/
 ---
-## MasterTheme::get_ColorFormat method
+## MasterTheme::get_ColorFormat([ColorSchemeIndex](../../../aspose.slides/colorschemeindex/)) method
 
 
 

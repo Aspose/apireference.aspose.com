@@ -1,12 +1,12 @@
 ---
-title: OpenWrite
+title: OpenWrite()
 second_title: Aspose.Slides for C++ API Reference
 description: Opens a file represented by the current object for writing only, in 'OpenOrCreate' mode with no sharing.
 type: docs
 weight: 222
 url: /cpp/system.io/fileinfo/openwrite/
 ---
-## FileInfo::OpenWrite method
+## FileInfo::OpenWrite() method
 
 
 Opens a file represented by the current object for writing only, in 'OpenOrCreate' mode with no sharing.

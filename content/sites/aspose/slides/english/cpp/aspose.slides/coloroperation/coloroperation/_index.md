@@ -1,5 +1,5 @@
 ---
-title: ColorOperation
+title: ColorOperation()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new color transform operation.
 type: docs

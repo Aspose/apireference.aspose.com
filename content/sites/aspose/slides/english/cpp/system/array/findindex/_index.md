@@ -1,12 +1,12 @@
 ---
-title: FindIndex
+title: FindIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Searches for the first element in the specified array that satisfies the conditions of the specified predicate.
 type: docs
 weight: 612
 url: /cpp/system/array/findindex/
 ---
-## Array::FindIndex method
+## Array::FindIndex([System::ArrayPtr](../../arrayptr/)\<T\>, [System::Predicate](../../predicate/)\<T\>) method
 
 
 Searches for the first element in the specified array that satisfies the conditions of the specified predicate.

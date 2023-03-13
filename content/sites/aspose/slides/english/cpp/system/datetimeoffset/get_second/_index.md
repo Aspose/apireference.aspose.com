@@ -1,12 +1,12 @@
 ---
-title: get_Second
+title: get_Second()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets second component of the current object.
 type: docs
 weight: 157
 url: /cpp/system/datetimeoffset/get_second/
 ---
-## DateTimeOffset::get_Second method
+## DateTimeOffset::get_Second() const method
 
 
 Gets second component of the current object.

@@ -1,12 +1,12 @@
 ---
-title: Not
+title: Not()
 second_title: Aspose.Slides for C++ API Reference
 description: Negates BitSet.
 type: docs
 weight: 196
 url: /cpp/system.collections/bitarray/not/
 ---
-## BitArray::Not method
+## BitArray::Not() method
 
 
 Negates BitSet.

@@ -1,12 +1,12 @@
 ---
-title: IndexOfName
+title: IndexOfName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the zero-based index of the specified key in the collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/itagcollection/indexofname/
 ---
-## ITagCollection::IndexOfName method
+## ITagCollection::IndexOfName([System::String](../../../system/string/)) method
 
 
 Returns the zero-based index of the specified key in the collection.

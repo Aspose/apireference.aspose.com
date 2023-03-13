@@ -1,12 +1,12 @@
 ---
-title: set_Formula
+title: set_Formula()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the formula in A1-style.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/chartdatacell/set_formula/
 ---
-## ChartDataCell::set_Formula method
+## ChartDataCell::set_Formula([System::String](../../../system/string/)) method
 
 
 Sets the formula in A1-style.

@@ -1,12 +1,12 @@
 ---
-title: Find
+title: Find()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs forward direction find of an element in the list.
 type: docs
 weight: 157
 url: /cpp/system.collections.generic/linkedlist/find/
 ---
-## LinkedList::Find method
+## LinkedList::Find(const T\&) const method
 
 
 Performs forward direction find of an **element** in the list.

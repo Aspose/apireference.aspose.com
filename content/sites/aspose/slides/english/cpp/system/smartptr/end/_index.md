@@ -1,5 +1,5 @@
 ---
-title: end
+title: end()
 second_title: Aspose.Slides for C++ API Reference
 description: Accessor for end() method of an underling collection. Only compiles if SmartPtr_ is specialization type with end() method.
 type: docs

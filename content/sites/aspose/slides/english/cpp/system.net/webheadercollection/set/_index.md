@@ -1,12 +1,12 @@
 ---
-title: Set
+title: Set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of the specified header.
 type: docs
 weight: 144
 url: /cpp/system.net/webheadercollection/set/
 ---
-## WebHeaderCollection::Set method
+## WebHeaderCollection::Set([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Sets the value of the specified header.

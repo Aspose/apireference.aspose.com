@@ -1,12 +1,12 @@
 ---
-title: get_ValidationType
+title: get_ValidationType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the XmlReader will perform validation or type assignment when reading.
 type: docs
 weight: 352
 url: /cpp/system.xml/xmlreadersettings/get_validationtype/
 ---
-## XmlReaderSettings::get_ValidationType method
+## XmlReaderSettings::get_ValidationType() method
 
 
 Returns a value indicating whether the [XmlReader](../../xmlreader/) will perform validation or type assignment when reading.

@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates hash algorithm based on name.
 type: docs
 weight: 118
 url: /cpp/system.security.cryptography/hashalgorithm/create/
 ---
-## HashAlgorithm::Create method
+## HashAlgorithm::Create(const [String](../../../system/string/)\&) method
 
 
 Creates hash algorithm based on name.

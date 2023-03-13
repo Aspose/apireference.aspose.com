@@ -1,12 +1,12 @@
 ---
-title: Asin
+title: Asin()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the arcsin of the specified value.
 type: docs
 weight: 14
 url: /cpp/system/math/asin/
 ---
-## Math::Asin method
+## Math::Asin(**double**) method
 
 
 Calculates the arcsin of the specified value.

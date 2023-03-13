@@ -1,12 +1,12 @@
 ---
-title: set_PercentNegativePattern
+title: set_PercentNegativePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets percent negative pattern.
 type: docs
 weight: 651
 url: /cpp/system.globalization/numberformatinfo/set_percentnegativepattern/
 ---
-## NumberFormatInfo::set_PercentNegativePattern method
+## NumberFormatInfo::set_PercentNegativePattern(int) method
 
 
 Sets percent negative pattern.

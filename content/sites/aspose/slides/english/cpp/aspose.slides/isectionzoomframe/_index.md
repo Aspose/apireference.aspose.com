@@ -41,7 +41,7 @@ class ISectionZoomFrame : public virtual Aspose::Slides::IZoomObject
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IHyperlinkManager](../ihyperlinkmanager/)\> [get_HyperlinkManager](../ihyperlinkcontainer/get_hyperlinkmanager/)() | Hyperlinks manager Read-only [IHyperlinkManager](../ihyperlinkmanager/). |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IHyperlink](../ihyperlink/)\> [get_HyperlinkMouseOver](../ihyperlinkcontainer/get_hyperlinkmouseover/)() | Returns the hyperlink defined for mouse over. Read [IHyperlink](../ihyperlink/). |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IPPImage](../ippimage/)\> [get_Image](../izoomobject/get_image/)() | Gets image for zoom object. Read [IPPImage](../ippimage/). |
-| virtual [ZoomImageType](../zoomimagetype/) [get_ImageType](../izoomobject/get_imagetype/)() | Gets the image type of a zoom object. Read [ZoomImageType](../zoomimagetype/). Default value: Preview. |
+| virtual [ZoomImageType](../zoomimagetype/) [get_ImageType](../izoomobject/get_imagetype/)() | Gets the image type of a zoom object. Read [ZoomImageType](../zoomimagetype/). Default value: Preview |
 | virtual **bool** [get_IsGrouped](../ishape/get_isgrouped/)() | Determines whether the shape is grouped. Read-only **bool**. |
 | virtual **bool** [get_IsTextHolder](../ishape/get_istextholder/)() | Determines whether the shape is TextHolder. Read-only **bool**. |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[ILineFormat](../ilineformat/)\> [get_LineFormat](../ishape/get_lineformat/)() | Returns the [LineFormat](../lineformat/) object that contains line formatting properties for a shape. Read-only [ILineFormat](../ilineformat/). |
@@ -51,14 +51,14 @@ class ISectionZoomFrame : public virtual Aspose::Slides::IZoomObject
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IPlaceholder](../iplaceholder/)\> [get_Placeholder](../ishape/get_placeholder/)() | Returns the placeholder for a shape. Read-only [IPlaceholder](../iplaceholder/). |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IPresentation](../ipresentation/)\> [get_Presentation](../ipresentationcomponent/get_presentation/)() | Returns the presentation. Read-only [IPresentation](../ipresentation/). |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IShapeFrame](../ishapeframe/)\> [get_RawFrame](../ishape/get_rawframe/)() | Returns the raw shape frame's properties. Read [IShapeFrame](../ishapeframe/). |
-| virtual **bool** [get_ReturnToParent](../izoomobject/get_returntoparent/)() | Gets the navigation behavior in slideshow. Read **bool**. Default value: false. |
+| virtual **bool** [get_ReturnToParent](../izoomobject/get_returntoparent/)() | Gets the navigation behavior in slideshow. Read **bool**. Default value: false |
 | virtual **float** [get_Rotation](../ishape/get_rotation/)() | Returns the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read **float**. |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IBaseShapeLock](../ibaseshapelock/)\> [get_ShapeLock](../ishape/get_shapelock/)() | Returns shape's locks. Read-only [IBaseShapeLock](../ibaseshapelock/). |
-| virtual **bool** [get_ShowBackground](../izoomobject/get_showbackground/)() | Gets value that specifies whether the Zoom will use the background of the destination slide. Read **bool**. Default value: true. |
+| virtual **bool** [get_ShowBackground](../izoomobject/get_showbackground/)() | Gets value that specifies whether the Zoom will use the background of the destination slide. Read **bool**. Default value: true |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IBaseSlide](../ibaseslide/)\> [get_Slide](../islidecomponent/get_slide/)() | Returns the base slide. Read-only [IBaseSlide](../ibaseslide/). |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[ISection](../isection/)\> [get_TargetSection](./get_targetsection/)() | Gets the section object that the [Section](../section/) Zoom object is linked to. Read [ISection](../isection/). |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IThreeDFormat](../ithreedformat/)\> [get_ThreeDFormat](../ishape/get_threedformat/)() | Returns the [ThreeDFormat](../threedformat/) object that contains line formatting properties for a shape. Read-only [IThreeDFormat](../ithreedformat/). |
-| virtual **float** [get_TransitionDuration](../izoomobject/get_transitionduration/)() | Gets the duration of the transition between Zoom and slide. Read **float**. Default value: 1.0f. |
+| virtual **float** [get_TransitionDuration](../izoomobject/get_transitionduration/)() | Gets the duration of the transition between Zoom and slide. Read **float**. Default value: 1.0f |
 | virtual **uint32_t** [get_UniqueId](../ishape/get_uniqueid/)() | Gets unique shape identifier in presentation scope. Read-only **uint32_t**. See also [IShape::get_OfficeInteropShapeId](../ishape/get_officeinteropshapeid/) for getting unique shape identifier in slide scope. |
 | virtual **float** [get_Width](../ishape/get_width/)() | Returns the width of the shape. Read **float**. |
 | virtual **float** [get_X](../ishape/get_x/)() | Returns the x-coordinate of the upper-left corner of the shape. Read **float**. |
@@ -92,14 +92,14 @@ class ISectionZoomFrame : public virtual Aspose::Slides::IZoomObject
 | virtual void [set_HyperlinkClick](../ihyperlinkcontainer/set_hyperlinkclick/)([System::SharedPtr](../../system/sharedptr/)\<[IHyperlink](../ihyperlink/)\>) | Sets the hyperlink defined for mouse click. Write [IHyperlink](../ihyperlink/). |
 | virtual void [set_HyperlinkMouseOver](../ihyperlinkcontainer/set_hyperlinkmouseover/)([System::SharedPtr](../../system/sharedptr/)\<[IHyperlink](../ihyperlink/)\>) | Sets the hyperlink defined for mouse over. Write [IHyperlink](../ihyperlink/). |
 | virtual void [set_Image](../izoomobject/set_image/)([System::SharedPtr](../../system/sharedptr/)\<[IPPImage](../ippimage/)\>) | Sets image for zoom object. Write [IPPImage](../ippimage/). |
-| virtual void [set_ImageType](../izoomobject/set_imagetype/)([ZoomImageType](../zoomimagetype/)) | Sets the image type of a zoom object. Write [ZoomImageType](../zoomimagetype/). Default value: Preview. |
+| virtual void [set_ImageType](../izoomobject/set_imagetype/)([ZoomImageType](../zoomimagetype/)) | Sets the image type of a zoom object. Write [ZoomImageType](../zoomimagetype/). Default value: Preview |
 | virtual void [set_Name](../ishape/set_name/)([System::String](../../system/string/)) | Sets the name of a shape. Write [System::String](../../system/string/). |
 | virtual void [set_RawFrame](../ishape/set_rawframe/)([System::SharedPtr](../../system/sharedptr/)\<[IShapeFrame](../ishapeframe/)\>) | Sets the raw shape frame's properties. Write [IShapeFrame](../ishapeframe/). |
-| virtual void [set_ReturnToParent](../izoomobject/set_returntoparent/)(**bool**) | Sets the navigation behavior in slideshow. Write **bool**. Default value: false. |
+| virtual void [set_ReturnToParent](../izoomobject/set_returntoparent/)(**bool**) | Sets the navigation behavior in slideshow. Write **bool**. Default value: false |
 | virtual void [set_Rotation](../ishape/set_rotation/)(**float**) | Sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Write **float**. |
-| virtual void [set_ShowBackground](../izoomobject/set_showbackground/)(**bool**) | Sets value that specifies whether the Zoom will use the background of the destination slide. Write **bool**. Default value: true. |
+| virtual void [set_ShowBackground](../izoomobject/set_showbackground/)(**bool**) | Sets value that specifies whether the Zoom will use the background of the destination slide. Write **bool**. Default value: true |
 | virtual void [set_TargetSection](./set_targetsection/)([System::SharedPtr](../../system/sharedptr/)\<[ISection](../isection/)\>) | Sets the section object that the [Section](../section/) Zoom object is linked to. Write [ISection](../isection/). |
-| virtual void [set_TransitionDuration](../izoomobject/set_transitionduration/)(**float**) | Sets the duration of the transition between Zoom and slide. Write **float**. Default value: 1.0f. |
+| virtual void [set_TransitionDuration](../izoomobject/set_transitionduration/)(**float**) | Sets the duration of the transition between Zoom and slide. Write **float**. Default value: 1.0f |
 | virtual void [set_Width](../ishape/set_width/)(**float**) | Sets the width of the shape. Write **float**. |
 | virtual void [set_X](../ishape/set_x/)(**float**) | Sets the x-coordinate of the upper-left corner of the shape. Write **float**. |
 | virtual void [set_Y](../ishape/set_y/)(**float**) | Sets the y-coordinate of the upper-left corner of the shape. Write **float**. |

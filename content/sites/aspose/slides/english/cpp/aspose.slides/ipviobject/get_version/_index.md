@@ -1,12 +1,12 @@
 ---
-title: get_Version
+title: get_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Version. Read-only uint32_t.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ipviobject/get_version/
 ---
-## IPVIObject::get_Version method
+## IPVIObject::get_Version() method
 
 
 Version. Read-only **uint32_t**.

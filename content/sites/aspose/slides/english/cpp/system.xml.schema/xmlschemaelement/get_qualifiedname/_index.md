@@ -1,12 +1,12 @@
 ---
-title: get_QualifiedName
+title: get_QualifiedName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the actual qualified name for the given element.
 type: docs
 weight: 326
 url: /cpp/system.xml.schema/xmlschemaelement/get_qualifiedname/
 ---
-## XmlSchemaElement::get_QualifiedName method
+## XmlSchemaElement::get_QualifiedName() method
 
 
 Returns the actual qualified name for the given element.

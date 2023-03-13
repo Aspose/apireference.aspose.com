@@ -1,12 +1,12 @@
 ---
-title: get_CurrentCulture
+title: get_CurrentCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Current culture comparer singleton.
 type: docs
 weight: 53
 url: /cpp/system/stringcomparer/get_currentculture/
 ---
-## StringComparer::get_CurrentCulture method
+## StringComparer::get_CurrentCulture() method
 
 
 Current culture comparer singleton.

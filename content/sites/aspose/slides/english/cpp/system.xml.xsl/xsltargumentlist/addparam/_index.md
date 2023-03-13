@@ -1,12 +1,12 @@
 ---
-title: AddParam
+title: AddParam()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a parameter to the XsltArgumentList and associates it with the namespace qualified name.
 type: docs
 weight: 40
 url: /cpp/system.xml.xsl/xsltargumentlist/addparam/
 ---
-## XsltArgumentList::AddParam method
+## XsltArgumentList::AddParam(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 Adds a parameter to the [XsltArgumentList](../) and associates it with the namespace qualified name.

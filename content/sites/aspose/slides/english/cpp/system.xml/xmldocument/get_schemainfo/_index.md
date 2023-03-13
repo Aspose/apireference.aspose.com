@@ -1,12 +1,12 @@
 ---
-title: get_SchemaInfo
+title: get_SchemaInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Post-Schema-Validation-Infoset (PSVI) of the node.
 type: docs
 weight: 222
 url: /cpp/system.xml/xmldocument/get_schemainfo/
 ---
-## XmlDocument::get_SchemaInfo method
+## XmlDocument::get_SchemaInfo() method
 
 
 Returns the Post-Schema-Validation-Infoset (PSVI) of the node.

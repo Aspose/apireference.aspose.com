@@ -1,12 +1,12 @@
 ---
-title: set_PresetShadowEffect
+title: set_PresetShadowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Preset shadow. Write Effects::IPresetShadow."
 type: docs
 weight: 157
 url: /cpp/aspose.slides/ieffectformat/set_presetshadoweffect/
 ---
-## IEffectFormat::set_PresetShadowEffect method
+## IEffectFormat::set_PresetShadowEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::IPresetShadow](../../../aspose.slides.effects/ipresetshadow/)\>) method
 
 
 Preset shadow. Write [Effects::IPresetShadow](../../../aspose.slides.effects/ipresetshadow/).

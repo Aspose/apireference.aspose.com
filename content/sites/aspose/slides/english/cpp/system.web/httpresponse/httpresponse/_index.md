@@ -1,12 +1,12 @@
 ---
-title: HttpResponse
+title: HttpResponse()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 1
 url: /cpp/system.web/httpresponse/httpresponse/
 ---
-## HttpResponse::HttpResponse constructor
+## HttpResponse::HttpResponse(const [System::SharedPtr](../../../system/sharedptr/)\<[System::IO::TextWriter](../../../system.io/textwriter/)\>\&) constructor
 
 
 Not implemented.

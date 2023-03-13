@@ -1,12 +1,12 @@
 ---
-title: set_Type
+title: set_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets type of error bars. Write ErrorBarType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ierrorbarsformat/set_type/
 ---
-## IErrorBarsFormat::set_Type method
+## IErrorBarsFormat::set_Type([ErrorBarType](../../errorbartype/)) method
 
 
 Sets type of error bars. Write [ErrorBarType](../../errorbartype/).

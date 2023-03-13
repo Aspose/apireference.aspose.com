@@ -1,12 +1,12 @@
 ---
-title: get_ContentLength
+title: get_ContentLength()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI info.
 type: docs
 weight: 1
 url: /cpp/system.net/ftpwebresponse/get_contentlength/
 ---
-## FtpWebResponse::get_ContentLength method
+## FtpWebResponse::get_ContentLength() method
 
 
 RTTI info.

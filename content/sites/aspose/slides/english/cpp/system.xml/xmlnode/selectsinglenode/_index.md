@@ -1,5 +1,5 @@
 ---
-title: SelectSingleNode
+title: SelectSingleNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Selects the first XmlNode that matches the XPath expression.
 type: docs

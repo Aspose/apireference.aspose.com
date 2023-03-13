@@ -1,5 +1,5 @@
 ---
-title: ReadElementContentAsFloat
+title: ReadElementContentAsFloat()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the current element and returns the contents as single-precision floating-point number.
 type: docs

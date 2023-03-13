@@ -1,7 +1,7 @@
 ---
-title: MathFraction
+title: MathFraction()
 second_title: Aspose.Slides for C++ API Reference
-description: Initializes MathFraction with the specified numerator, denominator and type.
+description: Initializes MathFraction with the specified numerator, denominator and type
 type: docs
 weight: 53
 url: /cpp/aspose.slides.mathtext/mathfraction/mathfraction/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathfraction/mathfraction/
 ## MathFraction::MathFraction([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [MathFractionTypes](../../mathfractiontypes/)) constructor
 
 
-Initializes [MathFraction](../) with the specified numerator, denominator and type.
+Initializes [MathFraction](../) with the specified numerator, denominator and type
 
 ```cpp
 Aspose::Slides::MathText::MathFraction::MathFraction(System::SharedPtr<IMathElement> numerator, System::SharedPtr<IMathElement> denominator, MathFractionTypes fractionType)
@@ -43,7 +43,7 @@ auto mathFraction = System::MakeObject<MathFraction>(System::MakeObject<Mathemat
 ## MathFraction::MathFraction([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
-Initializes a [MathFraction](../) of type 'Bar' with the specified numerator and denominator.
+Initializes a [MathFraction](../) of type 'Bar' with the specified numerator and denominator
 
 ```cpp
 Aspose::Slides::MathText::MathFraction::MathFraction(System::SharedPtr<IMathElement> numerator, System::SharedPtr<IMathElement> denominator)

@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts IMathBlock into the collection at the specified index.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/imathblockcollection/insert/
 ---
-## IMathBlockCollection::Insert method
+## IMathBlockCollection::Insert(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IMathBlock](../../imathblock/)\>) method
 
 
 Inserts [IMathBlock](../../imathblock/) into the collection at the specified index.

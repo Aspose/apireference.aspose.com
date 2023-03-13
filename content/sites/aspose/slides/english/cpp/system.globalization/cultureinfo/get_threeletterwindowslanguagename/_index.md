@@ -1,12 +1,12 @@
 ---
-title: get_ThreeLetterWindowsLanguageName
+title: get_ThreeLetterWindowsLanguageName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets three-letter code for language as defined in Windows API.
 type: docs
 weight: 105
 url: /cpp/system.globalization/cultureinfo/get_threeletterwindowslanguagename/
 ---
-## CultureInfo::get_ThreeLetterWindowsLanguageName method
+## CultureInfo::get_ThreeLetterWindowsLanguageName() const method
 
 
 Gets three-letter code for language as defined in [Windows](../../../system.windows/) API.

@@ -1,7 +1,7 @@
 ---
 title: SmartArt
 second_title: Aspose.Slides for C++ API Reference
-description: Represents a SmartArt diagram.
+description: Represents a SmartArt diagram
 type: docs
 weight: 66
 url: /cpp/aspose.slides.smartart/smartart/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.smartart/smartart/
 ## SmartArt class
 
 
-Represents a [SmartArt](./) diagram.
+Represents a [SmartArt](./) diagram
 
 ```cpp
 class SmartArt : public Aspose::Slides::GraphicalObject,

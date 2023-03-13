@@ -1,12 +1,12 @@
 ---
-title: set_IgnoreComments
+title: set_IgnoreComments()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether to ignore comments.
 type: docs
 weight: 261
 url: /cpp/system.xml/xmlreadersettings/set_ignorecomments/
 ---
-## XmlReaderSettings::set_IgnoreComments method
+## XmlReaderSettings::set_IgnoreComments(**bool**) method
 
 
 Sets a value indicating whether to ignore comments.

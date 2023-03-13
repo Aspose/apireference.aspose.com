@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes first instance of specific item from list.
 type: docs
 weight: 196
 url: /cpp/system.collections.generic/list/remove/
 ---
-## List::Remove method
+## List::Remove(const T\&) method
 
 
 Removes first instance of specific item from list.

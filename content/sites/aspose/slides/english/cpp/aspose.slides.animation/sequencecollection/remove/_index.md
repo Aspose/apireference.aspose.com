@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes specified sequence from a collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/sequencecollection/remove/
 ---
-## SequenceCollection::Remove method
+## SequenceCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[ISequence](../../isequence/)\>) method
 
 
 Removes specified sequence from a collection.

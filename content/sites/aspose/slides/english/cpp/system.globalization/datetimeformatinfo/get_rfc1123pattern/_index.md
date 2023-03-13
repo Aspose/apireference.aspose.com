@@ -1,12 +1,12 @@
 ---
-title: get_RFC1123Pattern
+title: get_RFC1123Pattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets RFC1123 pattern.
 type: docs
 weight: 547
 url: /cpp/system.globalization/datetimeformatinfo/get_rfc1123pattern/
 ---
-## DateTimeFormatInfo::get_RFC1123Pattern method
+## DateTimeFormatInfo::get_RFC1123Pattern() const method
 
 
 Gets RFC1123 pattern.

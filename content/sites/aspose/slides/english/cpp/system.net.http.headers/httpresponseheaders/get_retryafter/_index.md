@@ -1,12 +1,12 @@
 ---
-title: get_RetryAfter
+title: get_RetryAfter()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Retry-After' header.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/httpresponseheaders/get_retryafter/
 ---
-## HttpResponseHeaders::get_RetryAfter method
+## HttpResponseHeaders::get_RetryAfter() method
 
 
 Gets a value of the 'Retry-After' header.

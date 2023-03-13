@@ -1,12 +1,12 @@
 ---
-title: set_CalcMode
+title: set_CalcMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the interpolation mode for the animation Write PropertyCalcModeType.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/ipropertyeffect/set_calcmode/
 ---
-## IPropertyEffect::set_CalcMode method
+## IPropertyEffect::set_CalcMode([PropertyCalcModeType](../../propertycalcmodetype/)) method
 
 
 Specifies the interpolation mode for the animation Write [PropertyCalcModeType](../../propertycalcmodetype/).

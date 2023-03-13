@@ -1,12 +1,12 @@
 ---
-title: XmlDsigC14NWithCommentsTransform
+title: XmlDsigC14NWithCommentsTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.xml/xmldsigc14nwithcommentstransform/xmldsigc14nwithcommentstransform/
 ---
-## XmlDsigC14NWithCommentsTransform::XmlDsigC14NWithCommentsTransform constructor
+## XmlDsigC14NWithCommentsTransform::XmlDsigC14NWithCommentsTransform() constructor
 
 
 

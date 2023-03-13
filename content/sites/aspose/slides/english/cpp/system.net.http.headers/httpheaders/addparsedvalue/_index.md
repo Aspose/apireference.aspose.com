@@ -1,12 +1,12 @@
 ---
-title: AddParsedValue
+title: AddParsedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a header by the specified name and adds a parsed value to the header.
 type: docs
 weight: 157
 url: /cpp/system.net.http.headers/httpheaders/addparsedvalue/
 ---
-## HttpHeaders::AddParsedValue method
+## HttpHeaders::AddParsedValue([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Gets a header by the specified name and adds a parsed value to the header.

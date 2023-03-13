@@ -1,12 +1,12 @@
 ---
-title: SetCharAt
+title: SetCharAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets character at specified position.
 type: docs
 weight: 235
 url: /cpp/system/string/setcharat/
 ---
-## String::SetCharAt method
+## String::SetCharAt(int, char_t) method
 
 
 Sets character at specified position.

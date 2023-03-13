@@ -1,12 +1,12 @@
 ---
-title: CancelPendingRequests
+title: CancelPendingRequests()
 second_title: Aspose.Slides for C++ API Reference
 description: Cancels all pending requests.
 type: docs
 weight: 105
 url: /cpp/system.net.http/httpclient/cancelpendingrequests/
 ---
-## HttpClient::CancelPendingRequests method
+## HttpClient::CancelPendingRequests() method
 
 
 Cancels all pending requests.

@@ -1,12 +1,12 @@
 ---
-title: set_UserAgent
+title: set_UserAgent()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'User-Agent' header.
 type: docs
 weight: 638
 url: /cpp/system.net/httpwebrequest/set_useragent/
 ---
-## HttpWebRequest::set_UserAgent method
+## HttpWebRequest::set_UserAgent([System::String](../../../system/string/)) method
 
 
 Sets a value of the 'User-Agent' header.

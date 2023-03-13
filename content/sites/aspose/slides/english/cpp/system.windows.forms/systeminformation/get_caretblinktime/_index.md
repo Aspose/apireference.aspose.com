@@ -1,12 +1,12 @@
 ---
-title: get_CaretBlinkTime
+title: get_CaretBlinkTime()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 79
 url: /cpp/system.windows.forms/systeminformation/get_caretblinktime/
 ---
-## SystemInformation::get_CaretBlinkTime method
+## SystemInformation::get_CaretBlinkTime() method
 
 
 NOT IMPLEMENTED.

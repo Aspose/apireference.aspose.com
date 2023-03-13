@@ -1,12 +1,12 @@
 ---
-title: get_EnableBroadcast
+title: get_EnableBroadcast()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the socket allows broadcast packets.
 type: docs
 weight: 430
 url: /cpp/system.net.sockets/socket/get_enablebroadcast/
 ---
-## Socket::get_EnableBroadcast method
+## Socket::get_EnableBroadcast() method
 
 
 Gets a value that indicates if the socket allows broadcast packets.

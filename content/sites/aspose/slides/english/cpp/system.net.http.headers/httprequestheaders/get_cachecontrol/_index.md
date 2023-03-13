@@ -1,12 +1,12 @@
 ---
-title: get_CacheControl
+title: get_CacheControl()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Cache-Control' header.
 type: docs
 weight: 404
 url: /cpp/system.net.http.headers/httprequestheaders/get_cachecontrol/
 ---
-## HttpRequestHeaders::get_CacheControl method
+## HttpRequestHeaders::get_CacheControl() method
 
 
 Gets a value of the 'Cache-Control' header.

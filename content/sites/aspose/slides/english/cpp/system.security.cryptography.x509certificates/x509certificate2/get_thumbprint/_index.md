@@ -1,12 +1,12 @@
 ---
-title: get_Thumbprint
+title: get_Thumbprint()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the certificate thumbprint.
 type: docs
 weight: 235
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_thumbprint/
 ---
-## X509Certificate2::get_Thumbprint method
+## X509Certificate2::get_Thumbprint() const method
 
 
 Gets the certificate thumbprint.

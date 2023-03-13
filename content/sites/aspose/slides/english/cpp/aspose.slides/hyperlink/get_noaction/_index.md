@@ -1,12 +1,12 @@
 ---
-title: get_NoAction
+title: get_NoAction()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a special \"do nothing\" hyperlink. Read-only Hyperlink.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/hyperlink/get_noaction/
 ---
-## Hyperlink::get_NoAction method
+## Hyperlink::get_NoAction() method
 
 
 Returns a special \"do nothing\" hyperlink. Read-only [Hyperlink](../).

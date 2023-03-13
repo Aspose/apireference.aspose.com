@@ -1,12 +1,12 @@
 ---
-title: get_AcceptEncoding
+title: get_AcceptEncoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Accept-Encoding' header.
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/httprequestheaders/get_acceptencoding/
 ---
-## HttpRequestHeaders::get_AcceptEncoding method
+## HttpRequestHeaders::get_AcceptEncoding() method
 
 
 Returns a value of the 'Accept-Encoding' header.

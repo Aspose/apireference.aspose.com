@@ -1,12 +1,12 @@
 ---
-title: Supports
+title: Supports()
 second_title: Aspose.Slides for C++ API Reference
 description: Tests if the DOM implementation implements a specific feature.
 type: docs
 weight: 482
 url: /cpp/system.xml/xmlnode/supports/
 ---
-## XmlNode::Supports method
+## XmlNode::Supports([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Tests if the DOM implementation implements a specific feature.

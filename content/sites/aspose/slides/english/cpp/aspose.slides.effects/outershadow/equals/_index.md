@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified OuterShadow is equal to the current OuterShadow.
 type: docs
 weight: 261
 url: /cpp/aspose.slides.effects/outershadow/equals/
 ---
-## OuterShadow::Equals method
+## OuterShadow::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [OuterShadow](../) is equal to the current [OuterShadow](../).

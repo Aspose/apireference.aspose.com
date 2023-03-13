@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes category from chart.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/chartcategory/remove/
 ---
-## ChartCategory::Remove method
+## ChartCategory::Remove() method
 
 
 Removes category from chart.

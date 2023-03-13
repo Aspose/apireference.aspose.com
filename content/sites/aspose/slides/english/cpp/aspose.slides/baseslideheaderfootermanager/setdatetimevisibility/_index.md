@@ -1,12 +1,12 @@
 ---
-title: SetDateTimeVisibility
+title: SetDateTimeVisibility()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes slide date-time placeholder visibility.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/baseslideheaderfootermanager/setdatetimevisibility/
 ---
-## BaseSlideHeaderFooterManager::SetDateTimeVisibility method
+## BaseSlideHeaderFooterManager::SetDateTimeVisibility(**bool**) method
 
 
 Changes slide date-time placeholder visibility.

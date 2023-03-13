@@ -1,5 +1,5 @@
 ---
-title: Start
+title: Start()
 second_title: Aspose.Slides for C++ API Reference
 description: Starts process with pre-defined parameters.
 type: docs

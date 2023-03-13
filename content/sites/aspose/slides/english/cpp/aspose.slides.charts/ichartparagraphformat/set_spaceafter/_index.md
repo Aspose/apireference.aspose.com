@@ -1,12 +1,12 @@
 ---
-title: set_SpaceAfter
+title: set_SpaceAfter()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the amount of space after the last line in a paragraph. Write float.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/ichartparagraphformat/set_spaceafter/
 ---
-## IChartParagraphFormat::set_SpaceAfter method
+## IChartParagraphFormat::set_SpaceAfter(**float**) method
 
 
 Sets the amount of space after the last line in a paragraph. Write **float**.

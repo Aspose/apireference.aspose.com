@@ -1,12 +1,12 @@
 ---
-title: CreateSpecificCulture
+title: CreateSpecificCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates culture by name.
 type: docs
 weight: 573
 url: /cpp/system.globalization/cultureinfo/createspecificculture/
 ---
-## CultureInfo::CreateSpecificCulture method
+## CultureInfo::CreateSpecificCulture(const [String](../../../system/string/)\&) method
 
 
 Creates culture by name.

@@ -1,12 +1,12 @@
 ---
-title: DecoderReplacementFallbackBuffer
+title: DecoderReplacementFallbackBuffer()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.text/decoderreplacementfallbackbuffer/decoderreplacementfallbackbuffer/
 ---
-## DecoderReplacementFallbackBuffer::DecoderReplacementFallbackBuffer constructor
+## DecoderReplacementFallbackBuffer::DecoderReplacementFallbackBuffer(const [DecoderReplacementFallbackPtr](../../../system/decoderreplacementfallbackptr/)\&) constructor
 
 
 Constructor.

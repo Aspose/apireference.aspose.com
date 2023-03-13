@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the fill, line, effect styles of a title. Read-only IFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/icharttitle/get_format/
 ---
-## IChartTitle::get_Format method
+## IChartTitle::get_Format() method
 
 
 Returns the fill, line, effect styles of a title. Read-only [IFormat](../../iformat/).

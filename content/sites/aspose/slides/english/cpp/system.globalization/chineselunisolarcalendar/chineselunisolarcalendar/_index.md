@@ -1,12 +1,12 @@
 ---
-title: ChineseLunisolarCalendar
+title: ChineseLunisolarCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor.
 type: docs
 weight: 1
 url: /cpp/system.globalization/chineselunisolarcalendar/chineselunisolarcalendar/
 ---
-## ChineseLunisolarCalendar::ChineseLunisolarCalendar constructor
+## ChineseLunisolarCalendar::ChineseLunisolarCalendar() constructor
 
 
 Default constructor.

@@ -1,12 +1,12 @@
 ---
-title: set_CurrencySymbol
+title: set_CurrencySymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets currency symbol.
 type: docs
 weight: 183
 url: /cpp/system.globalization/numberformatinfo/set_currencysymbol/
 ---
-## NumberFormatInfo::set_CurrencySymbol method
+## NumberFormatInfo::set_CurrencySymbol(const [String](../../../system/string/)\&) method
 
 
 Sets currency symbol.

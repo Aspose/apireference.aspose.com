@@ -1,12 +1,12 @@
 ---
-title: Is3DChart
+title: Is3DChart()
 second_title: Aspose.Slides for C++ API Reference
 description: Return true if chartType  is one of 3D chart types.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/charttypecharacterizer/is3dchart/
 ---
-## ChartTypeCharacterizer::Is3DChart method
+## ChartTypeCharacterizer::Is3DChart([ChartType](../../charttype/)) method
 
 
 Return true if *chartType*  is one of 3D chart types.

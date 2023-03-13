@@ -1,12 +1,12 @@
 ---
-title: get_SocketErrorCode
+title: get_SocketErrorCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the socket error code.
 type: docs
 weight: 27
 url: /cpp/system.net.sockets/details_socketexception/get_socketerrorcode/
 ---
-## Details_SocketException::get_SocketErrorCode method
+## Details_SocketException::get_SocketErrorCode() method
 
 
 Gets the socket error code.

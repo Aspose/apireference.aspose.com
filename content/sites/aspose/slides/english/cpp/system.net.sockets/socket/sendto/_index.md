@@ -1,5 +1,5 @@
 ---
-title: SendTo
+title: SendTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Sends the specified data to the specified endpoint.
 type: docs

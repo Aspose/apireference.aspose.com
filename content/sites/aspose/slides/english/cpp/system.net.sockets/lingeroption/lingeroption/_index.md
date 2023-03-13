@@ -1,12 +1,12 @@
 ---
-title: LingerOption
+title: LingerOption()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 53
 url: /cpp/system.net.sockets/lingeroption/lingeroption/
 ---
-## LingerOption::LingerOption constructor
+## LingerOption::LingerOption(**bool**, **int32_t**) constructor
 
 
 Constructs a new instance.

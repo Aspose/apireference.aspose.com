@@ -1,5 +1,5 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Does nothing.
 type: docs

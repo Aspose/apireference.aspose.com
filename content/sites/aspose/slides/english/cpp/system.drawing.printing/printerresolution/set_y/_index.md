@@ -1,12 +1,12 @@
 ---
-title: set_Y
+title: set_Y()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets vertical resolution.
 type: docs
 weight: 40
 url: /cpp/system.drawing.printing/printerresolution/set_y/
 ---
-## PrinterResolution::set_Y method
+## PrinterResolution::set_Y(int) method
 
 
 Sets vertical resolution.

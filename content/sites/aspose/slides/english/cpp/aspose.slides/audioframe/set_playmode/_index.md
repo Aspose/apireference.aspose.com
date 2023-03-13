@@ -1,12 +1,12 @@
 ---
-title: set_PlayMode
+title: set_PlayMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the audio play mode. Write AudioPlayModePreset.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/audioframe/set_playmode/
 ---
-## AudioFrame::set_PlayMode method
+## AudioFrame::set_PlayMode([AudioPlayModePreset](../../audioplaymodepreset/)) method
 
 
 Sets the audio play mode. Write [AudioPlayModePreset](../../audioplaymodepreset/).

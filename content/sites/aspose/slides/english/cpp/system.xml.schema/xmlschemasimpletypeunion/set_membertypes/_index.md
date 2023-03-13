@@ -1,12 +1,12 @@
 ---
-title: set_MemberTypes
+title: set_MemberTypes()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the array of qualified member names of built-in data types or simpleType elements defined in this schema (or another schema indicated by the specified namespace).
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemasimpletypeunion/set_membertypes/
 ---
-## XmlSchemaSimpleTypeUnion::set_MemberTypes method
+## XmlSchemaSimpleTypeUnion::set_MemberTypes(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\>\&) method
 
 
 Sets the array of qualified member names of built-in data types or **simpleType** elements defined in this schema (or another schema indicated by the specified namespace).

@@ -1,12 +1,12 @@
 ---
-title: get_ContentLanguage
+title: get_ContentLanguage()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-Language' header.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contentlanguage/
 ---
-## HttpContentHeaders::get_ContentLanguage method
+## HttpContentHeaders::get_ContentLanguage() method
 
 
 Gets a value of the 'Content-Language' header.

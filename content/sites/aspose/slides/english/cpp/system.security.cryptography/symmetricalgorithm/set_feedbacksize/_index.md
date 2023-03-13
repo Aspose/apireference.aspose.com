@@ -1,12 +1,12 @@
 ---
-title: set_FeedbackSize
+title: set_FeedbackSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets feedback size of cryptographic operation.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_feedbacksize/
 ---
-## SymmetricAlgorithm::set_FeedbackSize method
+## SymmetricAlgorithm::set_FeedbackSize(int) method
 
 
 Sets feedback size of cryptographic operation.

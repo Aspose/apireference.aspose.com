@@ -1,12 +1,12 @@
 ---
-title: WriteSlideStart
+title: WriteSlideStart()
 second_title: Aspose.Slides for C++ API Reference
 description: Called to write html slide header. Called once per each of slides.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.export/embedallfontshtmlcontroller/writeslidestart/
 ---
-## EmbedAllFontsHtmlController::WriteSlideStart method
+## EmbedAllFontsHtmlController::WriteSlideStart([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlGenerator](../../ihtmlgenerator/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../../aspose.slides/islide/)\>) method
 
 
 Called to write html slide header. Called once per each of slides.

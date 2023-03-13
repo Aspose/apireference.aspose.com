@@ -1,12 +1,12 @@
 ---
-title: HasExtension
+title: HasExtension()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified path references a file with extension.
 type: docs
 weight: 183
 url: /cpp/system.io/path/hasextension/
 ---
-## Path::HasExtension method
+## Path::HasExtension(const [String](../../../system/string/)\&) method
 
 
 Determines if the specified path references a file with extension.

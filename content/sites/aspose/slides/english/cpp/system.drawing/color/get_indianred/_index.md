@@ -1,12 +1,12 @@
 ---
-title: get_IndianRed
+title: get_IndianRed()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFCD5C5C.
 type: docs
 weight: 963
 url: /cpp/system.drawing/color/get_indianred/
 ---
-## Color::get_IndianRed method
+## Color::get_IndianRed() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFCD5C5C.

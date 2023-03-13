@@ -1,12 +1,12 @@
 ---
-title: get_CurrentUICulture
+title: get_CurrentUICulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets user interface culture used by thread.
 type: docs
 weight: 66
 url: /cpp/system.threading/thread/get_currentuiculture/
 ---
-## Thread::get_CurrentUICulture method
+## Thread::get_CurrentUICulture() method
 
 
 Gets user interface culture used by thread.

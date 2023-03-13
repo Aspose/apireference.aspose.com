@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies container data into existing array elements.
 type: docs
 weight: 144
 url: /cpp/system.collections.generic/linkedlist/copyto/
 ---
-## LinkedList::CopyTo method
+## LinkedList::CopyTo([ArrayPtr](../../../system/arrayptr/)\<T\>, int) method
 
 
 Copies container data into existing array elements.

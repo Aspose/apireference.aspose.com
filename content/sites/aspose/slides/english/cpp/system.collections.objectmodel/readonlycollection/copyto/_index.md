@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies container elements to existing array elements.
 type: docs
 weight: 92
 url: /cpp/system.collections.objectmodel/readonlycollection/copyto/
 ---
-## ReadOnlyCollection::CopyTo method
+## ReadOnlyCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<T\>, int) method
 
 
 Copies container elements to existing array elements.

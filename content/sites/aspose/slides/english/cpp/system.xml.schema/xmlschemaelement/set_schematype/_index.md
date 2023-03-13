@@ -1,12 +1,12 @@
 ---
-title: set_SchemaType
+title: set_SchemaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the type of the element. This can either be a complex type or a simple type.
 type: docs
 weight: 300
 url: /cpp/system.xml.schema/xmlschemaelement/set_schematype/
 ---
-## XmlSchemaElement::set_SchemaType method
+## XmlSchemaElement::set_SchemaType(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaType](../../xmlschematype/)\>\&) method
 
 
 Sets the type of the element. This can either be a complex type or a simple type.

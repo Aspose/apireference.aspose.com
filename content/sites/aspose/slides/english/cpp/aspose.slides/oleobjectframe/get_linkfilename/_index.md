@@ -1,12 +1,12 @@
 ---
-title: get_LinkFileName
+title: get_LinkFileName()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the full path to a linked file. Short file name will be used. Read-only System::String."
 type: docs
 weight: 92
 url: /cpp/aspose.slides/oleobjectframe/get_linkfilename/
 ---
-## OleObjectFrame::get_LinkFileName method
+## OleObjectFrame::get_LinkFileName() method
 
 
 Returns the full path to a linked file. Short file name will be used. Read-only [System::String](../../../system/string/).

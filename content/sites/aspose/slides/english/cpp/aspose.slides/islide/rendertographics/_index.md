@@ -1,5 +1,5 @@
 ---
-title: RenderToGraphics
+title: RenderToGraphics()
 second_title: Aspose.Slides for C++ API Reference
 description: Renders certain slide to a Graphics object.
 type: docs

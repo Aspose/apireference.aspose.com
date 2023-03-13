@@ -1,12 +1,12 @@
 ---
-title: get_SizeLocked
+title: get_SizeLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a resizing this shape is forbidden. Read bool.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/iconnectorlock/get_sizelocked/
 ---
-## IConnectorLock::get_SizeLocked method
+## IConnectorLock::get_SizeLocked() method
 
 
 Determines whether a resizing this shape is forbidden. Read **bool**.

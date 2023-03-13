@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Serves as a hash function for a particular type, suitable for use in hashing algorithms and data structures like a hash table.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/transitionvaluebase/gethashcode/
 ---
-## TransitionValueBase::GetHashCode method
+## TransitionValueBase::GetHashCode() const method
 
 
 Serves as a hash function for a particular type, suitable for use in hashing algorithms and data structures like a hash table.

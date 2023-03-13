@@ -1,12 +1,12 @@
 ---
-title: get_IsAssistant
+title: get_IsAssistant()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the node as assistant. Read bool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.smartart/smartartnode/get_isassistant/
 ---
-## SmartArtNode::get_IsAssistant method
+## SmartArtNode::get_IsAssistant() method
 
 
 Returns the node as assistant. Read **bool**.

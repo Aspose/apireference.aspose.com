@@ -1,12 +1,12 @@
 ---
-title: set_ReadOnlyRecommended
+title: set_ReadOnlyRecommended()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets read-only recommendation. Write bool.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/iprotectionmanager/set_readonlyrecommended/
 ---
-## IProtectionManager::set_ReadOnlyRecommended method
+## IProtectionManager::set_ReadOnlyRecommended(**bool**) method
 
 
 Sets read-only recommendation. Write **bool**.

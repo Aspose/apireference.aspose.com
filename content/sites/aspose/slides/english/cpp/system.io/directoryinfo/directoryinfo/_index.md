@@ -1,12 +1,12 @@
 ---
-title: DirectoryInfo
+title: DirectoryInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instnace of DirectoryInfo class on the specified path.
 type: docs
 weight: 1
 url: /cpp/system.io/directoryinfo/directoryinfo/
 ---
-## DirectoryInfo::DirectoryInfo constructor
+## DirectoryInfo::DirectoryInfo(const [String](../../../system/string/)\&) constructor
 
 
 Constructs an instnace of [DirectoryInfo](../) class on the specified path.

@@ -1,12 +1,12 @@
 ---
-title: get_Status
+title: get_Status()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the status code.
 type: docs
 weight: 14
 url: /cpp/system.net/details_webexception/get_status/
 ---
-## Details_WebException::get_Status method
+## Details_WebException::get_Status() method
 
 
 Returns the status code.

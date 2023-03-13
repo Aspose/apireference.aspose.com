@@ -1,12 +1,12 @@
 ---
-title: TryGetTarget
+title: TryGetTarget()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the object (the target) referenced by the current WeakReference object.
 type: docs
 weight: 14
 url: /cpp/system/weakreference_tmpl_t__end_tmpl/trygettarget/
 ---
-## WeakReference< T >::TryGetTarget method
+## WeakReference< T >::TryGetTarget(const [SmartPtr](../../smartptr/)\<T\>\&) const method
 
 
 Gets the object (the target) referenced by the current WeakReference object.

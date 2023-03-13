@@ -1,12 +1,12 @@
 ---
-title: Duration
+title: Duration()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of TimeSpan object whose value is the absolute value of the current object.
 type: docs
 weight: 248
 url: /cpp/system/timespan/duration/
 ---
-## TimeSpan::Duration method
+## TimeSpan::Duration() const method
 
 
 Returns a new instance of [TimeSpan](../) object whose value is the absolute value of the current object.

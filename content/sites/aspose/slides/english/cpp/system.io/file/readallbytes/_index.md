@@ -1,12 +1,12 @@
 ---
-title: ReadAllBytes
+title: ReadAllBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the content of the specified binary file to a byte array.
 type: docs
 weight: 287
 url: /cpp/system.io/file/readallbytes/
 ---
-## File::ReadAllBytes method
+## File::ReadAllBytes(const [String](../../../system/string/)\&) method
 
 
 Reads the content of the specified binary file to a byte array.

@@ -1,15 +1,15 @@
 ---
-title: IsLicensed
+title: IsLicensed()
 second_title: Aspose.Slides for C++ API Reference
-description: Check if licence is applied to component.
+description: Check if licence is applied to component
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ilicense/islicensed/
 ---
-## ILicense::IsLicensed method
+## ILicense::IsLicensed() method
 
 
-Check if licence is applied to component.
+Check if licence is applied to component
 
 ```cpp
 virtual bool Aspose::Slides::ILicense::IsLicensed()=0

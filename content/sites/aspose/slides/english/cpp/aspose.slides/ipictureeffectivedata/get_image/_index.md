@@ -1,12 +1,12 @@
 ---
-title: get_Image
+title: get_Image()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the embedded image. Read-only IPPImage.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ipictureeffectivedata/get_image/
 ---
-## IPictureEffectiveData::get_Image method
+## IPictureEffectiveData::get_Image() method
 
 
 Returns the embedded image. Read-only [IPPImage](../../ippimage/).

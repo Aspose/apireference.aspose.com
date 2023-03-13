@@ -1,12 +1,12 @@
 ---
-title: get_ConnectionGroupName
+title: get_ConnectionGroupName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the name of the connection group.
 type: docs
 weight: 27
 url: /cpp/system.web.services.protocols/webclientprotocol/get_connectiongroupname/
 ---
-## WebClientProtocol::get_ConnectionGroupName method
+## WebClientProtocol::get_ConnectionGroupName() method
 
 
 Gets the name of the connection group.

@@ -1,12 +1,12 @@
 ---
-title: get_IsEmpty
+title: get_IsEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicate if the current object is \"empty\" i.e. does not represent any color.
 type: docs
 weight: 27
 url: /cpp/system.drawing/color/get_isempty/
 ---
-## Color::get_IsEmpty method
+## Color::get_IsEmpty() const method
 
 
 Returns a value that indicate if the current object is \"empty\" i.e. does not represent any color.

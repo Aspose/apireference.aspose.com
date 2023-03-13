@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaIdentityConstraint
+title: XmlSchemaIdentityConstraint()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaIdentityConstraint class.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/xmlschemaidentityconstraint/
 ---
-## XmlSchemaIdentityConstraint::XmlSchemaIdentityConstraint constructor
+## XmlSchemaIdentityConstraint::XmlSchemaIdentityConstraint() constructor
 
 
 Initializes a new instance of the [XmlSchemaIdentityConstraint](../) class.

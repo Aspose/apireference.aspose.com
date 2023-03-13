@@ -1,12 +1,12 @@
 ---
-title: Round
+title: Round()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a Size object from the specified SizeF object by rounding the SizeF object's width and height values to the nearest integer values.
 type: docs
 weight: 196
 url: /cpp/system.drawing/size/round/
 ---
-## Size::Round method
+## Size::Round(const [SizeF](../../sizef/)\&) method
 
 
 Constructs a [Size](../) object from the specified [SizeF](../../sizef/) object by rounding the [SizeF](../../sizef/) object's width and height values to the nearest integer values.

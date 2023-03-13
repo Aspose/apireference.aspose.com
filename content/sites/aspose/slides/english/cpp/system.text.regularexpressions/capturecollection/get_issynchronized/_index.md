@@ -1,12 +1,12 @@
 ---
-title: get_IsSynchronized
+title: get_IsSynchronized()
 second_title: Aspose.Slides for C++ API Reference
 description: Marks collection as unsynchronized.
 type: docs
 weight: 66
 url: /cpp/system.text.regularexpressions/capturecollection/get_issynchronized/
 ---
-## CaptureCollection::get_IsSynchronized method
+## CaptureCollection::get_IsSynchronized() const method
 
 
 Marks collection as unsynchronized.

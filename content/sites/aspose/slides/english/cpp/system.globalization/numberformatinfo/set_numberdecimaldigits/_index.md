@@ -1,12 +1,12 @@
 ---
-title: set_NumberDecimalDigits
+title: set_NumberDecimalDigits()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets number of decimal digits.
 type: docs
 weight: 79
 url: /cpp/system.globalization/numberformatinfo/set_numberdecimaldigits/
 ---
-## NumberFormatInfo::set_NumberDecimalDigits method
+## NumberFormatInfo::set_NumberDecimalDigits(int) method
 
 
 Sets number of decimal digits.

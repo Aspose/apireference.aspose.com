@@ -1,12 +1,12 @@
 ---
-title: ReadVbaProject
+title: ReadVbaProject()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads VBA project from OLE container.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.vba/ivbaprojectfactory/readvbaproject/
 ---
-## IVbaProjectFactory::ReadVbaProject method
+## IVbaProjectFactory::ReadVbaProject([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 Reads VBA project from OLE container.

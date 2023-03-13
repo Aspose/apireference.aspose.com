@@ -1,12 +1,12 @@
 ---
-title: set_XmlAsString
+title: set_XmlAsString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets xml data as UTF-8 string. Write System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icustomxmlpart/set_xmlasstring/
 ---
-## ICustomXmlPart::set_XmlAsString method
+## ICustomXmlPart::set_XmlAsString([System::String](../../../system/string/)) method
 
 
 Sets xml data as UTF-8 string. Write [System::String](../../../system/string/).

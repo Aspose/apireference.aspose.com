@@ -1,12 +1,12 @@
 ---
-title: set_Position
+title: set_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the stream's position.
 type: docs
 weight: 144
 url: /cpp/system.net.sockets/networkstream/set_position/
 ---
-## NetworkStream::set_Position method
+## NetworkStream::set_Position(**int64_t**) method
 
 
 Sets the stream's position.

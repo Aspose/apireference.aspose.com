@@ -1,5 +1,5 @@
 ---
-title: Read
+title: Read()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the specified number of bytes from the stream and writes them to the specified byte array.
 type: docs

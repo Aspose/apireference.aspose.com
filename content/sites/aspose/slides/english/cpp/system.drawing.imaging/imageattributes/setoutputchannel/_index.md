@@ -1,12 +1,12 @@
 ---
-title: SetOutputChannel
+title: SetOutputChannel()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 222
 url: /cpp/system.drawing.imaging/imageattributes/setoutputchannel/
 ---
-## ImageAttributes::SetOutputChannel method
+## ImageAttributes::SetOutputChannel([ColorChannelFlag](../../colorchannelflag/), [ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

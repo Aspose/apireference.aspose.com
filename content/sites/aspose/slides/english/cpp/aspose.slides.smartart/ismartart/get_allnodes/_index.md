@@ -1,12 +1,12 @@
 ---
-title: get_AllNodes
+title: get_AllNodes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns collections of all nodes in SmartArt object. Read-only ISmartArtNodeCollection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.smartart/ismartart/get_allnodes/
 ---
-## ISmartArt::get_AllNodes method
+## ISmartArt::get_AllNodes() method
 
 
 Returns collections of all nodes in [SmartArt](../../smartart/) object. Read-only [ISmartArtNodeCollection](../../ismartartnodecollection/).

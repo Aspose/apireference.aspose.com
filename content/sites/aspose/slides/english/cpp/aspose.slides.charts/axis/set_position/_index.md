@@ -1,12 +1,12 @@
 ---
-title: set_Position
+title: set_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents position of axis. Write AxisPositionType.
 type: docs
 weight: 794
 url: /cpp/aspose.slides.charts/axis/set_position/
 ---
-## Axis::set_Position method
+## Axis::set_Position([AxisPositionType](../../axispositiontype/)) method
 
 
 Represents position of axis. Write [AxisPositionType](../../axispositiontype/).

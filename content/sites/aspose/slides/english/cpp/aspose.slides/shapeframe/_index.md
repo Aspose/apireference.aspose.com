@@ -19,7 +19,7 @@ class ShapeFrame : public Aspose::Slides::IShapeFrame
 
 | Method | Description |
 | --- | --- |
-| [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\> [Clone](./clone/)() override | Clones. |
+| [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\> [Clone](./clone/)() override | Clones |
 | [System::SharedPtr](../../system/sharedptr/)\<[IShapeFrame](../ishapeframe/)\> [CloneT](./clonet/)() override | Clones. |
 | **bool** [Equals](./equals/)([System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\>) override | Returns a value indicating whether this instance is equal to a specified object. |
 | **bool** [Equals](./equals/)([System::SharedPtr](../../system/sharedptr/)\<[ShapeFrame](./)\>) | Returns a value indicating whether this instance is equal to a specified object. |

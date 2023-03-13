@@ -1,15 +1,15 @@
 ---
-title: get_StrokeEndArrow
+title: get_StrokeEndArrow()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'stroke.endArrow' property.
+description: Represents 'stroke.endArrow' property
 type: docs
 weight: 859
 url: /cpp/aspose.slides.animation/behaviorproperty/get_strokeendarrow/
 ---
-## BehaviorProperty::get_StrokeEndArrow method
+## BehaviorProperty::get_StrokeEndArrow() method
 
 
-Represents 'stroke.endArrow' property.
+Represents 'stroke.endArrow' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StrokeEndArrow()

@@ -1,12 +1,12 @@
 ---
-title: get_InnerShadowEffect
+title: get_InnerShadowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Inner shadow. Read-only Effects::IInnerShadowEffectiveData."
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ieffectformateffectivedata/get_innershadoweffect/
 ---
-## IEffectFormatEffectiveData::get_InnerShadowEffect method
+## IEffectFormatEffectiveData::get_InnerShadowEffect() method
 
 
 Inner shadow. Read-only [Effects::IInnerShadowEffectiveData](../../../aspose.slides.effects/iinnershadoweffectivedata/).

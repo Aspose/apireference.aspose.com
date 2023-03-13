@@ -1,12 +1,12 @@
 ---
-title: PulseAll
+title: PulseAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Notifies all waiting threads of a change in the object's state Not implemented.
 type: docs
 weight: 79
 url: /cpp/system.threading/monitor/pulseall/
 ---
-## Monitor::PulseAll method
+## Monitor::PulseAll(const [SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 Notifies all waiting threads of a change in the object's state Not implemented.

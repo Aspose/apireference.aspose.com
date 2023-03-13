@@ -1,12 +1,12 @@
 ---
-title: get_ItemType
+title: get_ItemType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the simpleType element that is derived from the type specified by the base value.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemasimpletypelist/get_itemtype/
 ---
-## XmlSchemaSimpleTypeList::get_ItemType method
+## XmlSchemaSimpleTypeList::get_ItemType() method
 
 
 Returns the **simpleType** element that is derived from the type specified by the base value.

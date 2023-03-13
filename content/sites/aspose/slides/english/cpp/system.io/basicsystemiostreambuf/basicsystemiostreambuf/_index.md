@@ -1,5 +1,5 @@
 ---
-title: BasicSystemIOStreamBuf
+title: BasicSystemIOStreamBuf()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of the BasicSystemIOStreamBuf.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: ResolveUri
+title: ResolveUri()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, resolves the absolute URI from the base and relative URIs.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlresolver/resolveuri/
 ---
-## XmlResolver::ResolveUri method
+## XmlResolver::ResolveUri([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/)) method
 
 
 When overridden in a derived class, resolves the absolute URI from the base and relative URIs.

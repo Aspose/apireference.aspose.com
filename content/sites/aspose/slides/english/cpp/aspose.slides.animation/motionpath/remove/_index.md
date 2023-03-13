@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes specified commans from the collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/motionpath/remove/
 ---
-## MotionPath::Remove method
+## MotionPath::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IMotionCmdPath](../../imotioncmdpath/)\>) method
 
 
 Removes specified commans from the collection.

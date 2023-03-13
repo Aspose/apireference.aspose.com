@@ -1,12 +1,12 @@
 ---
-title: IsValidDay
+title: IsValidDay()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks year, month, day and era values.
 type: docs
 weight: 482
 url: /cpp/system.globalization/calendar/isvalidday/
 ---
-## Calendar::IsValidDay method
+## Calendar::IsValidDay(int, int, int, int) const method
 
 
 Checks year, month, day and era values.

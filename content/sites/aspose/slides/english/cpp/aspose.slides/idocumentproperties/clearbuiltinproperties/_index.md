@@ -1,12 +1,12 @@
 ---
-title: ClearBuiltInProperties
+title: ClearBuiltInProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Clears and sets default values for all builtIn properties.
 type: docs
 weight: 651
 url: /cpp/aspose.slides/idocumentproperties/clearbuiltinproperties/
 ---
-## IDocumentProperties::ClearBuiltInProperties method
+## IDocumentProperties::ClearBuiltInProperties() method
 
 
 Clears and sets default values for all builtIn properties.

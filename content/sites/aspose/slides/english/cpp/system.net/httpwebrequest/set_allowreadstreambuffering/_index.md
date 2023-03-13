@@ -1,12 +1,12 @@
 ---
-title: set_AllowReadStreamBuffering
+title: set_AllowReadStreamBuffering()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicates if the data received from the resource must be buffered.
 type: docs
 weight: 92
 url: /cpp/system.net/httpwebrequest/set_allowreadstreambuffering/
 ---
-## HttpWebRequest::set_AllowReadStreamBuffering method
+## HttpWebRequest::set_AllowReadStreamBuffering(**bool**) method
 
 
 Sets a value indicates if the data received from the resource must be buffered.

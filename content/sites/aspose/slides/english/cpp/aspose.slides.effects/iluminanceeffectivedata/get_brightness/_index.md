@@ -1,12 +1,12 @@
 ---
-title: get_Brightness
+title: get_Brightness()
 second_title: Aspose.Slides for C++ API Reference
 description: Brightness. Read-only float.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/iluminanceeffectivedata/get_brightness/
 ---
-## ILuminanceEffectiveData::get_Brightness method
+## ILuminanceEffectiveData::get_Brightness() method
 
 
 Brightness. Read-only **float**.

@@ -1,5 +1,5 @@
 ---
-title: AddDataPointForBarSeries
+title: AddDataPointForBarSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: "Creates the new data point and adds it to the end of collection. Applicable for series which chartType is one of Column or Bar subtypes (see also ChartTypeCharacterizer::IsChartTypeColumn(ChartType) and ChartTypeCharacterizer::IsChartTypeBar(ChartType) method)."
 type: docs

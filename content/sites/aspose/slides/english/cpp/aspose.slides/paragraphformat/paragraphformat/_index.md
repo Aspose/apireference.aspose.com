@@ -1,12 +1,12 @@
 ---
-title: ParagraphFormat
+title: ParagraphFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of ParagraphFormat class.
 type: docs
 weight: 352
 url: /cpp/aspose.slides/paragraphformat/paragraphformat/
 ---
-## ParagraphFormat::ParagraphFormat constructor
+## ParagraphFormat::ParagraphFormat() constructor
 
 
 Initializes a new instance of [ParagraphFormat](../) class.

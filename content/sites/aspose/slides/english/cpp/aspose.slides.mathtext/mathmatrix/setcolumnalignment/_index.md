@@ -1,15 +1,15 @@
 ---
-title: SetColumnAlignment
+title: SetColumnAlignment()
 second_title: Aspose.Slides for C++ API Reference
-description: Set the horizontal alignment of the specified column.
+description: Set the horizontal alignment of the specified column
 type: docs
 weight: 261
 url: /cpp/aspose.slides.mathtext/mathmatrix/setcolumnalignment/
 ---
-## MathMatrix::SetColumnAlignment method
+## MathMatrix::SetColumnAlignment(**int32_t**, [MathHorizontalAlignment](../../mathhorizontalalignment/)) method
 
 
-Set the horizontal alignment of the specified column.
+Set the horizontal alignment of the specified column
 
 ```cpp
 void Aspose::Slides::MathText::MathMatrix::SetColumnAlignment(int32_t columnIndex, MathHorizontalAlignment val) override

@@ -1,12 +1,12 @@
 ---
-title: get_Graphics
+title: get_Graphics()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 27
 url: /cpp/system.drawing.printing/printpageeventargs/get_graphics/
 ---
-## PrintPageEventArgs::get_Graphics method
+## PrintPageEventArgs::get_Graphics() method
 
 
 NOT IMPLEMENTED.

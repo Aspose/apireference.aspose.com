@@ -1,12 +1,12 @@
 ---
-title: set_Font
+title: set_Font()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the bullet font of a paragraph with no inheritance. Write IFontData.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/bulletformat/set_font/
 ---
-## BulletFormat::set_Font method
+## BulletFormat::set_Font([System::SharedPtr](../../../system/sharedptr/)\<[IFontData](../../ifontdata/)\>) method
 
 
 Sets the bullet font of a paragraph with no inheritance. Write [IFontData](../../ifontdata/).

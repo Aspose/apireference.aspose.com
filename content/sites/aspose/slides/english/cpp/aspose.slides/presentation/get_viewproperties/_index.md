@@ -1,12 +1,12 @@
 ---
-title: get_ViewProperties
+title: get_ViewProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets presentation wide view properties. Read-only IViewProperties.
 type: docs
 weight: 339
 url: /cpp/aspose.slides/presentation/get_viewproperties/
 ---
-## Presentation::get_ViewProperties method
+## Presentation::get_ViewProperties() method
 
 
 Gets presentation wide view properties. Read-only [IViewProperties](../../iviewproperties/).

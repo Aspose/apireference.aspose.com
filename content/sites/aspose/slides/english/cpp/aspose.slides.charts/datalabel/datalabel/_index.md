@@ -1,12 +1,12 @@
 ---
-title: DataLabel
+title: DataLabel()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new instance of DataLabel class.
 type: docs
 weight: 274
 url: /cpp/aspose.slides.charts/datalabel/datalabel/
 ---
-## DataLabel::DataLabel constructor
+## DataLabel::DataLabel([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataPoint](../../ichartdatapoint/)\>) constructor
 
 
 Creates a new instance of [DataLabel](../) class.

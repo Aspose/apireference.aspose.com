@@ -1,12 +1,12 @@
 ---
-title: SetDefaultMasterNotesSlide
+title: SetDefaultMasterNotesSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets defalut master notes slide for related notes slide.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/imasternotesslidemanager/setdefaultmasternotesslide/
 ---
-## IMasterNotesSlideManager::SetDefaultMasterNotesSlide method
+## IMasterNotesSlideManager::SetDefaultMasterNotesSlide() method
 
 
 Sets defalut master notes slide for related notes slide.

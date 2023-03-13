@@ -1,12 +1,12 @@
 ---
-title: get_MonitorCount
+title: get_MonitorCount()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 807
 url: /cpp/system.windows.forms/systeminformation/get_monitorcount/
 ---
-## SystemInformation::get_MonitorCount method
+## SystemInformation::get_MonitorCount() method
 
 
 NOT IMPLEMENTED.

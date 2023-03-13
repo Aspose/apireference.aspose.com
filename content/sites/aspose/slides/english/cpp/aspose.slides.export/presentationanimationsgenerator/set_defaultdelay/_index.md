@@ -1,12 +1,12 @@
 ---
-title: set_DefaultDelay
+title: set_DefaultDelay()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets default delay time [ms].
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/presentationanimationsgenerator/set_defaultdelay/
 ---
-## PresentationAnimationsGenerator::set_DefaultDelay method
+## PresentationAnimationsGenerator::set_DefaultDelay(**int32_t**) method
 
 
 Sets default delay time [ms].

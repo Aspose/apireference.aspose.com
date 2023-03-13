@@ -1,12 +1,12 @@
 ---
-title: get_ConnectionLimit
+title: get_ConnectionLimit()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the maximum number of connections that are allowed by the current instance.
 type: docs
 weight: 209
 url: /cpp/system.net/servicepoint/get_connectionlimit/
 ---
-## ServicePoint::get_ConnectionLimit method
+## ServicePoint::get_ConnectionLimit() method
 
 
 Gets the maximum number of connections that are allowed by the current instance.

@@ -1,15 +1,15 @@
 ---
-title: MathBox
+title: MathBox()
 second_title: Aspose.Slides for C++ API Reference
-description: Initializes MathBox with the specified element as an argument.
+description: Initializes MathBox with the specified element as an argument
 type: docs
 weight: 144
 url: /cpp/aspose.slides.mathtext/mathbox/mathbox/
 ---
-## MathBox::MathBox constructor
+## MathBox::MathBox([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
-Initializes [MathBox](../) with the specified element as an argument.
+Initializes [MathBox](../) with the specified element as an argument
 
 ```cpp
 Aspose::Slides::MathText::MathBox::MathBox(System::SharedPtr<IMathElement> element)

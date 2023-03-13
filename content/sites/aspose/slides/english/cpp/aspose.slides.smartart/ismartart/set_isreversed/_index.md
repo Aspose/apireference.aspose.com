@@ -1,12 +1,12 @@
 ---
-title: set_IsReversed
+title: set_IsReversed()
 second_title: Aspose.Slides for C++ API Reference
 description: Return or set the state of the SmartArt diagram with regard to (left-to-right) LTR or (right-to-left) RTL, if the diagram supports reversal. Write bool.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.smartart/ismartart/set_isreversed/
 ---
-## ISmartArt::set_IsReversed method
+## ISmartArt::set_IsReversed(**bool**) method
 
 
 Return or set the state of the [SmartArt](../../smartart/) diagram with regard to (left-to-right) LTR or (right-to-left) RTL, if the diagram supports reversal. Write **bool**.

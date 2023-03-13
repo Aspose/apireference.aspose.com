@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns image by its index.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iimagecollection/idx_get/
 ---
-## IImageCollection::idx_get method
+## IImageCollection::idx_get(**int32_t**) method
 
 
 Returns image by its index.

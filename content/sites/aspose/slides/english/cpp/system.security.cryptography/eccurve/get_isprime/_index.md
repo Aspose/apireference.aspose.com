@@ -1,12 +1,12 @@
 ---
-title: get_IsPrime
+title: get_IsPrime()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/eccurve/get_isprime/
 ---
-## ECCurve::get_IsPrime method
+## ECCurve::get_IsPrime() const method
 
 
 

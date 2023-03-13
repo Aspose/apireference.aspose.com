@@ -1,12 +1,12 @@
 ---
-title: set_StrikethroughType
+title: set_StrikethroughType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the strikethrough type of a text. No inheritance applied. Write TextStrikethroughType.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/baseportionformat/set_strikethroughtype/
 ---
-## BasePortionFormat::set_StrikethroughType method
+## BasePortionFormat::set_StrikethroughType([TextStrikethroughType](../../textstrikethroughtype/)) method
 
 
 Sets the strikethrough type of a text. No inheritance applied. Write [TextStrikethroughType](../../textstrikethroughtype/).

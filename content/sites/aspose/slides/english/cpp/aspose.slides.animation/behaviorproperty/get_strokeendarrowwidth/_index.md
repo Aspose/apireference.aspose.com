@@ -1,15 +1,15 @@
 ---
-title: get_StrokeEndArrowWidth
+title: get_StrokeEndArrowWidth()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'stroke.endArrowWidth' property.
+description: Represents 'stroke.endArrowWidth' property
 type: docs
 weight: 898
 url: /cpp/aspose.slides.animation/behaviorproperty/get_strokeendarrowwidth/
 ---
-## BehaviorProperty::get_StrokeEndArrowWidth method
+## BehaviorProperty::get_StrokeEndArrowWidth() method
 
 
-Represents 'stroke.endArrowWidth' property.
+Represents 'stroke.endArrowWidth' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StrokeEndArrowWidth()

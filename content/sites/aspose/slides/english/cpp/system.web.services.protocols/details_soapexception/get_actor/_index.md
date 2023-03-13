@@ -1,12 +1,12 @@
 ---
-title: get_Actor
+title: get_Actor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the code piece where the exception is thrown when SOAP version 1.1 is used.
 type: docs
 weight: 1
 url: /cpp/system.web.services.protocols/details_soapexception/get_actor/
 ---
-## Details_SoapException::get_Actor method
+## Details_SoapException::get_Actor() method
 
 
 Returns the code piece where the exception is thrown when SOAP version 1.1 is used.

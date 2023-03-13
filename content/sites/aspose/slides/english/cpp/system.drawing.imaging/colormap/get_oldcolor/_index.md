@@ -1,12 +1,12 @@
 ---
-title: get_OldColor
+title: get_OldColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the old Color object representing the color to be converted.
 type: docs
 weight: 1
 url: /cpp/system.drawing.imaging/colormap/get_oldcolor/
 ---
-## ColorMap::get_OldColor method
+## ColorMap::get_OldColor() const method
 
 
 Returns the old [Color](../../../system.drawing/color/) object representing the color to be converted.

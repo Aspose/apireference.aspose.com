@@ -1,12 +1,12 @@
 ---
-title: GetAdjustmentRules
+title: GetAdjustmentRules()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array consisting of AdjustmentRule objects that represent adjustment rules that apply to the current TimeZoneInfo object.
 type: docs
 weight: 248
 url: /cpp/system/timezoneinfo/getadjustmentrules/
 ---
-## TimeZoneInfo::GetAdjustmentRules method
+## TimeZoneInfo::GetAdjustmentRules() const method
 
 
 Returns an array consisting of **AdjustmentRule** objects that represent adjustment rules that apply to the current [TimeZoneInfo](../) object.

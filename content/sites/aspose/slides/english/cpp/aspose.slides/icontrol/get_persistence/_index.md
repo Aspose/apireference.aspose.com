@@ -1,12 +1,12 @@
 ---
-title: get_Persistence
+title: get_Persistence()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the method used to store properties of the ActiveX control. Read only PersistenceType.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/icontrol/get_persistence/
 ---
-## IControl::get_Persistence method
+## IControl::get_Persistence() method
 
 
 Gets the method used to store properties of the ActiveX control. Read only [PersistenceType](../../persistencetype/).

@@ -1,12 +1,12 @@
 ---
-title: get_Direction
+title: get_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies which direction to cycle the hue around the color wheel. Read ColorDirection.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/coloreffect/get_direction/
 ---
-## ColorEffect::get_Direction method
+## ColorEffect::get_Direction() method
 
 
 Specifies which direction to cycle the hue around the color wheel. Read [ColorDirection](../../colordirection/).

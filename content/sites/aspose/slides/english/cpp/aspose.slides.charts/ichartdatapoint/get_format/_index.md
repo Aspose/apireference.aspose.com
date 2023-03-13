@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the formatting properties. Read IFormat.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/ichartdatapoint/get_format/
 ---
-## IChartDataPoint::get_Format method
+## IChartDataPoint::get_Format() method
 
 
 Represents the formatting properties. Read [IFormat](../../iformat/).

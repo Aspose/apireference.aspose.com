@@ -1,12 +1,12 @@
 ---
-title: set_BeginArrowheadLength
+title: set_BeginArrowheadLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the arrowhead length at the beginning of a line. Write LineArrowheadLength.
 type: docs
 weight: 365
 url: /cpp/aspose.slides/ilineformat/set_beginarrowheadlength/
 ---
-## ILineFormat::set_BeginArrowheadLength method
+## ILineFormat::set_BeginArrowheadLength([LineArrowheadLength](../../linearrowheadlength/)) method
 
 
 Sets the arrowhead length at the beginning of a line. Write [LineArrowheadLength](../../linearrowheadlength/).

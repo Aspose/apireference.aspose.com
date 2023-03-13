@@ -1,12 +1,12 @@
 ---
-title: Start
+title: Start()
 second_title: Aspose.Slides for C++ API Reference
 description: Starts time measurement.
 type: docs
 weight: 27
 url: /cpp/system.diagnostics/stopwatch/start/
 ---
-## Stopwatch::Start method
+## Stopwatch::Start() method
 
 
 Starts time measurement.

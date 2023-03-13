@@ -1,12 +1,12 @@
 ---
-title: set_ResponseNamespace
+title: set_ResponseNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the namespace associated with the SOAP response.
 type: docs
 weight: 196
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_responsenamespace/
 ---
-## SoapDocumentMethodAttribute::set_ResponseNamespace method
+## SoapDocumentMethodAttribute::set_ResponseNamespace([String](../../../system/string/)) method
 
 
 Sets the namespace associated with the SOAP response.

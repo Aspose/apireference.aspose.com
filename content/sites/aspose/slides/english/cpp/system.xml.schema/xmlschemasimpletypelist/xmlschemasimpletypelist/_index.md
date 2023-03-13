@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaSimpleTypeList
+title: XmlSchemaSimpleTypeList()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaSimpleTypeList class.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemasimpletypelist/xmlschemasimpletypelist/
 ---
-## XmlSchemaSimpleTypeList::XmlSchemaSimpleTypeList constructor
+## XmlSchemaSimpleTypeList::XmlSchemaSimpleTypeList() constructor
 
 
 Initializes a new instance of the [XmlSchemaSimpleTypeList](../) class.

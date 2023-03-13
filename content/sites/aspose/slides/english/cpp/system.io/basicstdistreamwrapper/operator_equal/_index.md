@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: Copy assignment operator. Deleted.
 type: docs
 weight: 27
 url: /cpp/system.io/basicstdistreamwrapper/operator_equal/
 ---
-## BasicSTDIStreamWrapper::operator= method
+## BasicSTDIStreamWrapper::operator=(const [BasicSTDIStreamWrapper](../)\&) method
 
 
 Copy assignment operator. Deleted.

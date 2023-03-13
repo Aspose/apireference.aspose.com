@@ -1,12 +1,12 @@
 ---
-title: CreateAlphaReplace
+title: CreateAlphaReplace()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Alpha replace effect.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/createalphareplace/
 ---
-## IImageTransformOperationFactory::CreateAlphaReplace method
+## IImageTransformOperationFactory::CreateAlphaReplace(**float**) method
 
 
 Creates Alpha replace effect.

@@ -1,12 +1,12 @@
 ---
-title: set_Schema
+title: set_Schema()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlSchema for the referenced schema.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaexternal/set_schema/
 ---
-## XmlSchemaExternal::set_Schema method
+## XmlSchemaExternal::set_Schema(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchema](../../xmlschema/)\>\&) method
 
 
 Sets the [XmlSchema](../../xmlschema/) for the referenced schema.

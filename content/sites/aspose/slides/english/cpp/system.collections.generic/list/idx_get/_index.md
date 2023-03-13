@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets element at specific position.
 type: docs
 weight: 261
 url: /cpp/system.collections.generic/list/idx_get/
 ---
-## List::idx_get method
+## List::idx_get(int) const method
 
 
 Gets element at specific position.

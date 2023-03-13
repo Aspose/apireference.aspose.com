@@ -1,5 +1,5 @@
 ---
-title: Get
+title: Get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the atomized string with the specified value.
 type: docs

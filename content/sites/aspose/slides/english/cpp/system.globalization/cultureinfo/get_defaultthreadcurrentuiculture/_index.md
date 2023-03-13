@@ -1,12 +1,12 @@
 ---
-title: get_DefaultThreadCurrentUICulture
+title: get_DefaultThreadCurrentUICulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets default UI culture in the current application domain.
 type: docs
 weight: 547
 url: /cpp/system.globalization/cultureinfo/get_defaultthreadcurrentuiculture/
 ---
-## CultureInfo::get_DefaultThreadCurrentUICulture method
+## CultureInfo::get_DefaultThreadCurrentUICulture() method
 
 
 Gets default UI culture in the current application domain.

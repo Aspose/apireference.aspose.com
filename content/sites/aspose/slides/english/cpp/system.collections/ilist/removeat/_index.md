@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the item from the list at the specified index.
 type: docs
 weight: 92
 url: /cpp/system.collections/ilist/removeat/
 ---
-## IList::RemoveAt method
+## IList::RemoveAt(int) method
 
 
 Removes the item from the list at the specified index.

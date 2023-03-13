@@ -1,12 +1,12 @@
 ---
-title: get_FillFormat
+title: get_FillFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a table fill properties object. Read-only IFillFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/tableformat/get_fillformat/
 ---
-## TableFormat::get_FillFormat method
+## TableFormat::get_FillFormat() method
 
 
 Returns a table fill properties object. Read-only [IFillFormat](../../ifillformat/).

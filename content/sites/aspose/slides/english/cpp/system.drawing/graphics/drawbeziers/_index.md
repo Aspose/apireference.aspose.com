@@ -1,5 +1,5 @@
 ---
-title: DrawBeziers
+title: DrawBeziers()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws a series of Bezier splines using the specified pen.
 type: docs

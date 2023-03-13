@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchemaObject at the specified index.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/idx_get/
 ---
-## XmlSchemaObjectCollection::idx_get method
+## XmlSchemaObjectCollection::idx_get(**int32_t**) method
 
 
 Returns the [XmlSchemaObject](../../xmlschemaobject/) at the specified index.

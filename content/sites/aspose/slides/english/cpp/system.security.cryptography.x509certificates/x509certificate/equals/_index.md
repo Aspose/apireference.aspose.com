@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two certificates.
 type: docs
 weight: 326
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/equals/
 ---
-## X509Certificate::Equals method
+## X509Certificate::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Compares two certificates.

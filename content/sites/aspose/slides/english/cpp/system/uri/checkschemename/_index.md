@@ -1,12 +1,12 @@
 ---
-title: CheckSchemeName
+title: CheckSchemeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified scheme is valid.
 type: docs
 weight: 469
 url: /cpp/system/uri/checkschemename/
 ---
-## Uri::CheckSchemeName method
+## Uri::CheckSchemeName(const [String](../../string/)\&) method
 
 
 Determines if the specified scheme is valid.

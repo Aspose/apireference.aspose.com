@@ -1,12 +1,12 @@
 ---
-title: IsValidAttributeName
+title: IsValidAttributeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if attribute name is valid.
 type: docs
 weight: 248
 url: /cpp/system.security/securityelement/isvalidattributename/
 ---
-## SecurityElement::IsValidAttributeName method
+## SecurityElement::IsValidAttributeName(const [String](../../../system/string/)\&) method
 
 
 Checks if attribute name is valid.

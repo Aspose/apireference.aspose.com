@@ -1,12 +1,12 @@
 ---
-title: set_Blend
+title: set_Blend()
 second_title: Aspose.Slides for C++ API Reference
 description: FillBlendMode. Write FillBlendMode.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/filloverlay/set_blend/
 ---
-## FillOverlay::set_Blend method
+## FillOverlay::set_Blend([FillBlendMode](../../../aspose.slides/fillblendmode/)) method
 
 
 FillBlendMode. Write [FillBlendMode](../../../aspose.slides/fillblendmode/).

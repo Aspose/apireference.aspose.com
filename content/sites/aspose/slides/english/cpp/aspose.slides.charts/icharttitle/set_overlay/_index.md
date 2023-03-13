@@ -1,12 +1,12 @@
 ---
-title: set_Overlay
+title: set_Overlay()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether other chart elements shall be allowed to overlap title. Write bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/icharttitle/set_overlay/
 ---
-## IChartTitle::set_Overlay method
+## IChartTitle::set_Overlay(**bool**) method
 
 
 Determines whether other chart elements shall be allowed to overlap title. Write **bool**.

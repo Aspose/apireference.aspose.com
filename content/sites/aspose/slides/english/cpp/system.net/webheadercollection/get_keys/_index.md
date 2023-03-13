@@ -1,12 +1,12 @@
 ---
-title: get_Keys
+title: get_Keys()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of header names that are stored in the collection.
 type: docs
 weight: 105
 url: /cpp/system.net/webheadercollection/get_keys/
 ---
-## WebHeaderCollection::get_Keys method
+## WebHeaderCollection::get_Keys() method
 
 
 Returns a collection of header names that are stored in the collection.

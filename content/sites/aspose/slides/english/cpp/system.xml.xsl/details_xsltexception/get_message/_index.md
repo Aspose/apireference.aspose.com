@@ -1,12 +1,12 @@
 ---
-title: get_Message
+title: get_Message()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the formatted error message describing the current exception.
 type: docs
 weight: 40
 url: /cpp/system.xml.xsl/details_xsltexception/get_message/
 ---
-## Details_XsltException::get_Message method
+## Details_XsltException::get_Message() const method
 
 
 Returns the formatted error message describing the current exception.

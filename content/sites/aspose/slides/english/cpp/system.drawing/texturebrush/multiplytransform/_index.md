@@ -1,12 +1,12 @@
 ---
-title: MultiplyTransform
+title: MultiplyTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Multiplies current object's transform matrix by the specified matrix.
 type: docs
 weight: 144
 url: /cpp/system.drawing/texturebrush/multiplytransform/
 ---
-## TextureBrush::MultiplyTransform method
+## TextureBrush::MultiplyTransform(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::Matrix](../../../system.drawing.drawing2d/matrix/)\>\&, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
 
 
 Multiplies current object's transform matrix by the specified matrix.

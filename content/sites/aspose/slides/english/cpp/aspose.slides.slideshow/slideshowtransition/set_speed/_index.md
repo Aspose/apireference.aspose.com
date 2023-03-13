@@ -1,12 +1,12 @@
 ---
-title: set_Speed
+title: set_Speed()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the transition speed that is to be used when transitioning from the current slide to the next. Write TransitionSpeed.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.slideshow/slideshowtransition/set_speed/
 ---
-## SlideShowTransition::set_Speed method
+## SlideShowTransition::set_Speed([TransitionSpeed](../../transitionspeed/)) method
 
 
 Specifies the transition speed that is to be used when transitioning from the current slide to the next. Write [TransitionSpeed](../../transitionspeed/).

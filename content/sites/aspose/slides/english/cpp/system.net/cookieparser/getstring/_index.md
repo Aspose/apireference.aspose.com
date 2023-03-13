@@ -1,12 +1,12 @@
 ---
-title: GetString
+title: GetString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of a cookie header.
 type: docs
 weight: 14
 url: /cpp/system.net/cookieparser/getstring/
 ---
-## CookieParser::GetString method
+## CookieParser::GetString() method
 
 
 Returns the string representation of a cookie header.

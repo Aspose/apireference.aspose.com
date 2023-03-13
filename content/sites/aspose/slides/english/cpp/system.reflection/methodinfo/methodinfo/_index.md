@@ -1,12 +1,12 @@
 ---
-title: MethodInfo
+title: MethodInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MethodInfo class.
 type: docs
 weight: 1
 url: /cpp/system.reflection/methodinfo/methodinfo/
 ---
-## MethodInfo::MethodInfo constructor
+## MethodInfo::MethodInfo(const [String](../../../system/string/)\&) constructor
 
 
 Initializes a new instance of the [MethodInfo](../) class.

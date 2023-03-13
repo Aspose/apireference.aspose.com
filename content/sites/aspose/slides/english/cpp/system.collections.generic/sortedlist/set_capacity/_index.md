@@ -1,12 +1,12 @@
 ---
-title: set_Capacity
+title: set_Capacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets current list capacity.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/sortedlist/set_capacity/
 ---
-## SortedList::set_Capacity method
+## SortedList::set_Capacity(int) method
 
 
 Sets current list capacity.

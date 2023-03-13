@@ -1,12 +1,12 @@
 ---
-title: get_Masters
+title: get_Masters()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a list of all master slides that are defined in the presentation. Read-only IMasterSlideCollection.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/presentation/get_masters/
 ---
-## Presentation::get_Masters method
+## Presentation::get_Masters() method
 
 
 Returns a list of all master slides that are defined in the presentation. Read-only [IMasterSlideCollection](../../imasterslidecollection/).

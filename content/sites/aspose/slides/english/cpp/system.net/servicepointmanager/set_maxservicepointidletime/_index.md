@@ -1,12 +1,12 @@
 ---
-title: set_MaxServicePointIdleTime
+title: set_MaxServicePointIdleTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the maximum idle time of the ServicePoint-class instances.
 type: docs
 weight: 92
 url: /cpp/system.net/servicepointmanager/set_maxservicepointidletime/
 ---
-## ServicePointManager::set_MaxServicePointIdleTime method
+## ServicePointManager::set_MaxServicePointIdleTime(**int32_t**) method
 
 
 Sets the maximum idle time of the ServicePoint-class instances.

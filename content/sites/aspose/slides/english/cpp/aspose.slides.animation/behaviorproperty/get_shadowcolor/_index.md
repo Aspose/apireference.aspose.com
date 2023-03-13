@@ -1,15 +1,15 @@
 ---
-title: get_ShadowColor
+title: get_ShadowColor()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'shadow.color' property.
+description: Represents 'shadow.color' property
 type: docs
 weight: 950
 url: /cpp/aspose.slides.animation/behaviorproperty/get_shadowcolor/
 ---
-## BehaviorProperty::get_ShadowColor method
+## BehaviorProperty::get_ShadowColor() method
 
 
-Represents 'shadow.color' property.
+Represents 'shadow.color' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ShadowColor()

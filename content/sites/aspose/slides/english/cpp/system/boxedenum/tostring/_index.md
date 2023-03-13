@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts boxed value represented by the current object to string.
 type: docs
 weight: 40
 url: /cpp/system/boxedenum/tostring/
 ---
-## BoxedEnum::ToString method
+## BoxedEnum::ToString() const method
 
 
 Converts boxed value represented by the current object to string.

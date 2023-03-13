@@ -1,7 +1,7 @@
 ---
 title: VbaReferenceFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create VBA project references via COM interface.
+description: Allows to create VBA project references via COM interface
 type: docs
 weight: 196
 url: /cpp/aspose.slides.vba/vbareferencefactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.vba/vbareferencefactory/
 ## VbaReferenceFactory class
 
 
-Allows to create VBA project references via COM interface.
+Allows to create VBA project references via COM interface
 
 ```cpp
 class VbaReferenceFactory : public Aspose::Slides::Vba::IVbaReferenceFactory

@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Provides support for iteration over the collection of nodes in the XmlNodeList.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlnodelist/getenumerator/
 ---
-## XmlNodeList::GetEnumerator method
+## XmlNodeList::GetEnumerator() method
 
 
 Provides support for iteration over the collection of nodes in the [XmlNodeList](../).

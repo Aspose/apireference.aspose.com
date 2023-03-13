@@ -1,12 +1,12 @@
 ---
-title: IsSeriesUsesXValueCoordinate
+title: IsSeriesUsesXValueCoordinate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns if specified series type uses X value coordinates.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/charttypecharacterizer/isseriesusesxvaluecoordinate/
 ---
-## ChartTypeCharacterizer::IsSeriesUsesXValueCoordinate method
+## ChartTypeCharacterizer::IsSeriesUsesXValueCoordinate([ChartType](../../charttype/)) method
 
 
 Returns if specified series type uses X value coordinates.

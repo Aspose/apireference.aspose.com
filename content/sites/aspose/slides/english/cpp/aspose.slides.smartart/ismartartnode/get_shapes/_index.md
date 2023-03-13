@@ -1,12 +1,12 @@
 ---
-title: get_Shapes
+title: get_Shapes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns collections of all shapes associated with the node. Read-only ISmartArtShapeCollection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.smartart/ismartartnode/get_shapes/
 ---
-## ISmartArtNode::get_Shapes method
+## ISmartArtNode::get_Shapes() method
 
 
 Returns collections of all shapes associated with the node. Read-only [ISmartArtShapeCollection](../../ismartartshapecollection/).

@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the XmlWriterSettings instance.
 type: docs
 weight: 378
 url: /cpp/system.xml/xmlwritersettings/clone/
 ---
-## XmlWriterSettings::Clone method
+## XmlWriterSettings::Clone() method
 
 
 Creates a copy of the [XmlWriterSettings](../) instance.

@@ -1,12 +1,12 @@
 ---
-title: get_CommentsAreaWidth
+title: get_CommentsAreaWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the width of the comment output area in pixels (Applies only if comments are displayed on the right).
 type: docs
 weight: 105
 url: /cpp/aspose.slides.export/notescommentslayoutingoptions/get_commentsareawidth/
 ---
-## NotesCommentsLayoutingOptions::get_CommentsAreaWidth method
+## NotesCommentsLayoutingOptions::get_CommentsAreaWidth() method
 
 
 Gets the width of the comment output area in pixels (Applies only if comments are displayed on the right).

@@ -1,12 +1,12 @@
 ---
-title: SetAll
+title: SetAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets all elements to specific value.
 type: docs
 weight: 235
 url: /cpp/system.collections/bitarray/setall/
 ---
-## BitArray::SetAll method
+## BitArray::SetAll(**bool**) method
 
 
 Sets all elements to specific value.

@@ -1,12 +1,12 @@
 ---
-title: get_ApplicationTemplate
+title: get_ApplicationTemplate()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the template of a application. Read System::String."
 type: docs
 weight: 144
 url: /cpp/aspose.slides/documentproperties/get_applicationtemplate/
 ---
-## DocumentProperties::get_ApplicationTemplate method
+## DocumentProperties::get_ApplicationTemplate() method
 
 
 Returns the template of a application. Read [System::String](../../../system/string/).

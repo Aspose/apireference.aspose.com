@@ -1,12 +1,12 @@
 ---
-title: get_Comment
+title: get_Comment()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the 'Comment' attribute's value.
 type: docs
 weight: 1
 url: /cpp/system.net/cookie/get_comment/
 ---
-## Cookie::get_Comment method
+## Cookie::get_Comment() const method
 
 
 Gets the 'Comment' attribute's value.

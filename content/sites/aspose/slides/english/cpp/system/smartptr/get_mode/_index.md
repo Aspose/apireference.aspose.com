@@ -1,12 +1,12 @@
 ---
-title: get_Mode
+title: get_Mode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets pointer mode.
 type: docs
 weight: 105
 url: /cpp/system/smartptr/get_mode/
 ---
-## SmartPtr::get_Mode method
+## SmartPtr::get_Mode() const method
 
 
 Gets pointer mode.

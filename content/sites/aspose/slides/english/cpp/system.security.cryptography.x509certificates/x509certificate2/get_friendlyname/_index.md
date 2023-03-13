@@ -1,12 +1,12 @@
 ---
-title: get_FriendlyName
+title: get_FriendlyName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the certificate's friendly name.
 type: docs
 weight: 170
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_friendlyname/
 ---
-## X509Certificate2::get_FriendlyName method
+## X509Certificate2::get_FriendlyName() const method
 
 
 Gets the certificate's friendly name.

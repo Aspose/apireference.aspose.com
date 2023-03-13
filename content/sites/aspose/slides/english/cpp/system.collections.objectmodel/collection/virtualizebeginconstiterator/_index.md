@@ -1,12 +1,12 @@
 ---
-title: virtualizeBeginConstIterator
+title: virtualizeBeginConstIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the implementation of begin const iterator for the current container.
 type: docs
 weight: 287
 url: /cpp/system.collections.objectmodel/collection/virtualizebeginconstiterator/
 ---
-## Collection::virtualizeBeginConstIterator method
+## Collection::virtualizeBeginConstIterator() const method
 
 
 Gets the implementation of begin const iterator for the current container.

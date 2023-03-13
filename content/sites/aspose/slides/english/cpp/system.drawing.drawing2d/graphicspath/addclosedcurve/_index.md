@@ -1,5 +1,5 @@
 ---
-title: AddClosedCurve
+title: AddClosedCurve()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified closed curve to the path represented by the current object.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: WriteStartElement
+title: WriteStartElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the specified start tag and associates it with the given namespace and prefix.
 type: docs
 weight: 235
 url: /cpp/system.xml/xmltextwriter/writestartelement/
 ---
-## XmlTextWriter::WriteStartElement method
+## XmlTextWriter::WriteStartElement(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Writes the specified start tag and associates it with the given namespace and prefix.

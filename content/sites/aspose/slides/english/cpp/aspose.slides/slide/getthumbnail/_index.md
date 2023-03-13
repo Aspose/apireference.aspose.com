@@ -1,5 +1,5 @@
 ---
-title: GetThumbnail
+title: GetThumbnail()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Thumbnail Bitmap object with custom scaling.
 type: docs

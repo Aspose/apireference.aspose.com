@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the qualified name of the current node.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlreader/get_name/
 ---
-## XmlReader::get_Name method
+## XmlReader::get_Name() method
 
 
 When overridden in a derived class, gets the qualified name of the current node.

@@ -1,12 +1,12 @@
 ---
-title: get_SlideShowType
+title: get_SlideShowType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the slide show type. Represented by the following SlideShowType ancestors: BrowsedAtKiosk, PresentedBySpeaker and BrowsedByIndividual"
 type: docs
 weight: 1
 url: /cpp/aspose.slides/slideshowsettings/get_slideshowtype/
 ---
-## SlideShowSettings::get_SlideShowType method
+## SlideShowSettings::get_SlideShowType() method
 
 
 Gets the slide show type. Represented by the following [SlideShowType](../../slideshowtype/) ancestors: [BrowsedAtKiosk](../../browsedatkiosk/), [PresentedBySpeaker](../../presentedbyspeaker/) and [BrowsedByIndividual](../../browsedbyindividual/)

@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Setter function.
 type: docs
 weight: 144
 url: /cpp/system.collections.generic/ikvcollection/idx_set/
 ---
-## IKVCollection::idx_set method
+## IKVCollection::idx_set(int, T) method
 
 
 Setter function.

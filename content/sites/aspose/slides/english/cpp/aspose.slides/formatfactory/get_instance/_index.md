@@ -1,12 +1,12 @@
 ---
-title: get_Instance
+title: get_Instance()
 second_title: Aspose.Slides for C++ API Reference
 description: Format factory static instance. Read-only FormatFactory.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/formatfactory/get_instance/
 ---
-## FormatFactory::get_Instance method
+## FormatFactory::get_Instance() method
 
 
 Format factory static instance. Read-only [FormatFactory](../).

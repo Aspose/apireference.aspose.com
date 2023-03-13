@@ -1,12 +1,12 @@
 ---
-title: GetKeyAlgorithmParametersString
+title: GetKeyAlgorithmParametersString()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets key information for the current certificate as a hexadecimal string.
 type: docs
 weight: 183
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getkeyalgorithmparametersstring/
 ---
-## X509Certificate::GetKeyAlgorithmParametersString method
+## X509Certificate::GetKeyAlgorithmParametersString() const method
 
 
 Gets key information for the current certificate as a hexadecimal string.

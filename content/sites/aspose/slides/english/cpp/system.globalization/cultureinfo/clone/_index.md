@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Clones culture info.
 type: docs
 weight: 391
 url: /cpp/system.globalization/cultureinfo/clone/
 ---
-## CultureInfo::Clone method
+## CultureInfo::Clone() method
 
 
 Clones culture info.

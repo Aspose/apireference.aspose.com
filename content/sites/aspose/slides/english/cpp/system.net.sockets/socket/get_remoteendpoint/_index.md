@@ -1,12 +1,12 @@
 ---
-title: get_RemoteEndPoint
+title: get_RemoteEndPoint()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the remote endpoint.
 type: docs
 weight: 66
 url: /cpp/system.net.sockets/socket/get_remoteendpoint/
 ---
-## Socket::get_RemoteEndPoint method
+## Socket::get_RemoteEndPoint() method
 
 
 Returns the remote endpoint.

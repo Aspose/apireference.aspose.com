@@ -1,12 +1,12 @@
 ---
-title: get_CategoryAxisType
+title: get_CategoryAxisType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the type of the category axis. Read Charts::CategoryAxisType."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/axis/get_categoryaxistype/
 ---
-## Axis::get_CategoryAxisType method
+## Axis::get_CategoryAxisType() method
 
 
 Specifies the type of the category axis. Read [Charts::CategoryAxisType](../../categoryaxistype/).

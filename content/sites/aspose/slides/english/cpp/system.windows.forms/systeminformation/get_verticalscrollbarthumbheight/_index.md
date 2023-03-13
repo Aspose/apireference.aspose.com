@@ -1,12 +1,12 @@
 ---
-title: get_VerticalScrollBarThumbHeight
+title: get_VerticalScrollBarThumbHeight()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1223
 url: /cpp/system.windows.forms/systeminformation/get_verticalscrollbarthumbheight/
 ---
-## SystemInformation::get_VerticalScrollBarThumbHeight method
+## SystemInformation::get_VerticalScrollBarThumbHeight() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the name of a slide. Write System::String."
 type: docs
 weight: 40
 url: /cpp/aspose.slides/baseslide/set_name/
 ---
-## BaseSlide::set_Name method
+## BaseSlide::set_Name([System::String](../../../system/string/)) method
 
 
 Sets the name of a slide. Write [System::String](../../../system/string/).

@@ -1,7 +1,7 @@
 ---
 title: TrendlineCollection
 second_title: Aspose.Slides for C++ API Reference
-description: Represents a collection of Trendline.
+description: Represents a collection of Trendline
 type: docs
 weight: 1379
 url: /cpp/aspose.slides.charts/trendlinecollection/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/trendlinecollection/
 ## TrendlineCollection class
 
 
-Represents a collection of [Trendline](../trendline/).
+Represents a collection of [Trendline](../trendline/)
 
 ```cpp
 class TrendlineCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeries>>,

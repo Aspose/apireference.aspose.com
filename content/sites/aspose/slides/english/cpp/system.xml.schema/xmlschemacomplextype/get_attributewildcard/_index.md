@@ -1,12 +1,12 @@
 ---
-title: get_AttributeWildcard
+title: get_AttributeWildcard()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-compilation value for anyAttribute for this complex type and its base type(s).
 type: docs
 weight: 222
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_attributewildcard/
 ---
-## XmlSchemaComplexType::get_AttributeWildcard method
+## XmlSchemaComplexType::get_AttributeWildcard() method
 
 
 Returns the post-compilation value for **anyAttribute** for this complex type and its base type(s).

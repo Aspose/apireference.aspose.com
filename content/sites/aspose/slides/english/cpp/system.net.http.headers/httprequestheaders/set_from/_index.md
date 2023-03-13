@@ -1,12 +1,12 @@
 ---
-title: set_From
+title: set_From()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'From' header.
 type: docs
 weight: 131
 url: /cpp/system.net.http.headers/httprequestheaders/set_from/
 ---
-## HttpRequestHeaders::set_From method
+## HttpRequestHeaders::set_From([String](../../../system/string/)) method
 
 
 Sets a value of the 'From' header.

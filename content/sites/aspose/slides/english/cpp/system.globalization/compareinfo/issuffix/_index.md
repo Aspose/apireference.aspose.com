@@ -1,5 +1,5 @@
 ---
-title: IsSuffix
+title: IsSuffix()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the specified string ends with the specified suffix using the specified compare options.
 type: docs

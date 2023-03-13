@@ -1,12 +1,12 @@
 ---
-title: IsBypassed
+title: IsBypassed()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the proxy server is not used for the specified URI.
 type: docs
 weight: 157
 url: /cpp/system.net/webproxy/isbypassed/
 ---
-## WebProxy::IsBypassed method
+## WebProxy::IsBypassed([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Checks if the proxy server is not used for the specified URI.

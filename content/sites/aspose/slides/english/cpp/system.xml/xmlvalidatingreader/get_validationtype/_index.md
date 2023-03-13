@@ -1,12 +1,12 @@
 ---
-title: get_ValidationType
+title: get_ValidationType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating the type of validation to perform.
 type: docs
 weight: 313
 url: /cpp/system.xml/xmlvalidatingreader/get_validationtype/
 ---
-## XmlValidatingReader::get_ValidationType method
+## XmlValidatingReader::get_ValidationType() method
 
 
 Returns a value indicating the type of validation to perform.

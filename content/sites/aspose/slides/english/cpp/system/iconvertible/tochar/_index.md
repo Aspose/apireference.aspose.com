@@ -1,12 +1,12 @@
 ---
-title: ToChar
+title: ToChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value of this instance to an equivalent Unicode character using the specified culture-specific formatting information.
 type: docs
 weight: 27
 url: /cpp/system/iconvertible/tochar/
 ---
-## IConvertible::ToChar method
+## IConvertible::ToChar([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to an equivalent Unicode character using the specified culture-specific formatting information.

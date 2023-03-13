@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified string representation of a GUID into equivalent Guid object.
 type: docs
 weight: 144
 url: /cpp/system/guid/parse/
 ---
-## Guid::Parse method
+## Guid::Parse(const [String](../../string/)\&) method
 
 
 Converts the specified string representation of a GUID into equivalent [Guid](../) object.

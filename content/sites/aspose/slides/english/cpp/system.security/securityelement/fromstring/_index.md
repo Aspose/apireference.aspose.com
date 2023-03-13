@@ -1,12 +1,12 @@
 ---
-title: FromString
+title: FromString()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates element from XML code.
 type: docs
 weight: 235
 url: /cpp/system.security/securityelement/fromstring/
 ---
-## SecurityElement::FromString method
+## SecurityElement::FromString(const [String](../../../system/string/)\&) method
 
 
 Creates element from XML code.

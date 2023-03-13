@@ -1,12 +1,12 @@
 ---
-title: get_DataLabelFormat
+title: get_DataLabelFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns format of the data label. Read-only IDataLabelFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/idatalabel/get_datalabelformat/
 ---
-## IDataLabel::get_DataLabelFormat method
+## IDataLabel::get_DataLabelFormat() method
 
 
 Returns format of the data label. Read-only [IDataLabelFormat](../../idatalabelformat/).

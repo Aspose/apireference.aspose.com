@@ -1,12 +1,12 @@
 ---
-title: get_PublicId
+title: get_PublicId()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the public identifier.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlparsercontext/get_publicid/
 ---
-## XmlParserContext::get_PublicId method
+## XmlParserContext::get_PublicId() method
 
 
 Returns the public identifier.

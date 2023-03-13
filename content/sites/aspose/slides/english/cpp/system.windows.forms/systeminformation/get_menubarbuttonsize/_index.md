@@ -1,12 +1,12 @@
 ---
-title: get_MenuBarButtonSize
+title: get_MenuBarButtonSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 664
 url: /cpp/system.windows.forms/systeminformation/get_menubarbuttonsize/
 ---
-## SystemInformation::get_MenuBarButtonSize method
+## SystemInformation::get_MenuBarButtonSize() method
 
 
 NOT IMPLEMENTED.

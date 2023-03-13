@@ -1,12 +1,12 @@
 ---
-title: set_Address
+title: set_Address()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the address of the current proxy server.
 type: docs
 weight: 14
 url: /cpp/system.net/webproxy/set_address/
 ---
-## WebProxy::set_Address method
+## WebProxy::set_Address([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Sets the address of the current proxy server.

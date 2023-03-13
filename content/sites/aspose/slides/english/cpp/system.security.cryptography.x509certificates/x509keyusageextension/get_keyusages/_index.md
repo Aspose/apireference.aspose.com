@@ -1,12 +1,12 @@
 ---
-title: get_KeyUsages
+title: get_KeyUsages()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets key usages.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/x509keyusageextension/get_keyusages/
 ---
-## X509KeyUsageExtension::get_KeyUsages method
+## X509KeyUsageExtension::get_KeyUsages() method
 
 
 Gets key usages.

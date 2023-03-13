@@ -1,12 +1,12 @@
 ---
-title: get_ImageTransformOperation
+title: get_ImageTransformOperation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns image transform operation at the specified index.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/picture/get_imagetransformoperation/
 ---
-## Picture::get_ImageTransformOperation method
+## Picture::get_ImageTransformOperation(**int32_t**) method
 
 
 Returns image transform operation at the specified index.

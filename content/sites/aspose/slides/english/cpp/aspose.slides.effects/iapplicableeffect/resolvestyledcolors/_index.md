@@ -1,12 +1,12 @@
 ---
-title: ResolveStyledColors
+title: ResolveStyledColors()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/iapplicableeffect/resolvestyledcolors/
 ---
-## IApplicableEffect::ResolveStyledColors method
+## IApplicableEffect::ResolveStyledColors([System::SharedPtr](../../../system/sharedptr/)\<[IBaseSlide](../../../aspose.slides/ibaseslide/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[StyleColorEffectiveData](../../../aspose.slides/stylecoloreffectivedata/)\>) method
 
 
 

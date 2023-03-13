@@ -1,15 +1,15 @@
 ---
-title: SwapXY
+title: SwapXY()
 second_title: Aspose.Slides for C++ API Reference
-description: Swap X and Y.
+description: Swap X and Y
 type: docs
 weight: 14
 url: /cpp/aspose.slides.drawing/vector2d32f/swapxy/
 ---
-## Vector2d32f::SwapXY method
+## Vector2d32f::SwapXY() method
 
 
-Swap X and Y.
+Swap X and Y
 
 ```cpp
 void Aspose::Slides::Drawing::Vector2d32f::SwapXY()

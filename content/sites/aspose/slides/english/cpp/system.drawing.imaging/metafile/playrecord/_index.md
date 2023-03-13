@@ -1,12 +1,12 @@
 ---
-title: PlayRecord
+title: PlayRecord()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 53
 url: /cpp/system.drawing.imaging/metafile/playrecord/
 ---
-## Metafile::PlayRecord method
+## Metafile::PlayRecord([EmfPlusRecordType](../../emfplusrecordtype/), **int32_t**, **int32_t**, [System::ByteArrayPtr](../../../system/bytearrayptr/)) method
 
 
 NOT IMPLEMENTED.

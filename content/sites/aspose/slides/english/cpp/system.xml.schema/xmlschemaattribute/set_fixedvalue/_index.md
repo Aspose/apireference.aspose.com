@@ -1,12 +1,12 @@
 ---
-title: set_FixedValue
+title: set_FixedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the fixed value for the attribute.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaattribute/set_fixedvalue/
 ---
-## XmlSchemaAttribute::set_FixedValue method
+## XmlSchemaAttribute::set_FixedValue(const [String](../../../system/string/)\&) method
 
 
 Sets the fixed value for the attribute.

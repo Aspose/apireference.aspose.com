@@ -1,12 +1,12 @@
 ---
-title: GetLogicalDrives
+title: GetLogicalDrives()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 105
 url: /cpp/system.io/directory/getlogicaldrives/
 ---
-## Directory::GetLogicalDrives method
+## Directory::GetLogicalDrives() method
 
 
 NOT IMPLEMENTED.

@@ -1,5 +1,5 @@
 ---
-title: SortVersion
+title: SortVersion()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs

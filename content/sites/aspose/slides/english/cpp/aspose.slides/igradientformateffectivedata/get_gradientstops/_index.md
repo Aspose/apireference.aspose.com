@@ -1,12 +1,12 @@
 ---
-title: get_GradientStops
+title: get_GradientStops()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of gradient stops. Read-only IGradientStopCollectionEffectiveData.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/igradientformateffectivedata/get_gradientstops/
 ---
-## IGradientFormatEffectiveData::get_GradientStops method
+## IGradientFormatEffectiveData::get_GradientStops() method
 
 
 Returns the collection of gradient stops. Read-only [IGradientStopCollectionEffectiveData](../../igradientstopcollectioneffectivedata/).

@@ -1,15 +1,15 @@
 ---
-title: get_FillAngle
+title: get_FillAngle()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'fill.angle' property.
+description: Represents 'fill.angle' property
 type: docs
 weight: 625
 url: /cpp/aspose.slides.animation/behaviorproperty/get_fillangle/
 ---
-## BehaviorProperty::get_FillAngle method
+## BehaviorProperty::get_FillAngle() method
 
 
-Represents 'fill.angle' property.
+Represents 'fill.angle' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_FillAngle()

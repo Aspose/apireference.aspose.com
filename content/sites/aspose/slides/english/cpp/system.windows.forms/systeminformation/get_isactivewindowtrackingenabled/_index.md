@@ -1,12 +1,12 @@
 ---
-title: get_IsActiveWindowTrackingEnabled
+title: get_IsActiveWindowTrackingEnabled()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 391
 url: /cpp/system.windows.forms/systeminformation/get_isactivewindowtrackingenabled/
 ---
-## SystemInformation::get_IsActiveWindowTrackingEnabled method
+## SystemInformation::get_IsActiveWindowTrackingEnabled() method
 
 
 NOT IMPLEMENTED.

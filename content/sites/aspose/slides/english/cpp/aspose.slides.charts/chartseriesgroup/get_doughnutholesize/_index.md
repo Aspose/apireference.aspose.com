@@ -1,12 +1,12 @@
 ---
-title: get_DoughnutHoleSize
+title: get_DoughnutHoleSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the size of the hole in a doughnut chart (can be between 0 and 90 percents of the size of the plot area.). Read uint8_t.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/chartseriesgroup/get_doughnutholesize/
 ---
-## ChartSeriesGroup::get_DoughnutHoleSize method
+## ChartSeriesGroup::get_DoughnutHoleSize() method
 
 
 Specifies the size of the hole in a doughnut chart (can be between 0 and 90 percents of the size of the plot area.). Read **uint8_t**.

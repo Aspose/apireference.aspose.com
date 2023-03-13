@@ -1,12 +1,12 @@
 ---
-title: get_VirtualScreen
+title: get_VirtualScreen()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1249
 url: /cpp/system.windows.forms/systeminformation/get_virtualscreen/
 ---
-## SystemInformation::get_VirtualScreen method
+## SystemInformation::get_VirtualScreen() method
 
 
 NOT IMPLEMENTED.

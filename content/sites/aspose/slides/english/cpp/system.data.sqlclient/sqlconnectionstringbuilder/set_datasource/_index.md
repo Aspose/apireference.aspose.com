@@ -1,12 +1,12 @@
 ---
-title: set_DataSource
+title: set_DataSource()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets data source (e. g. hostname and port).
 type: docs
 weight: 40
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_datasource/
 ---
-## SqlConnectionStringBuilder::set_DataSource method
+## SqlConnectionStringBuilder::set_DataSource(const [String](../../../system/string/)\&) method
 
 
 Gets data source (e. g. hostname and port).

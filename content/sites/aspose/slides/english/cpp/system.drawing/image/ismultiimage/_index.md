@@ -1,12 +1,12 @@
 ---
-title: IsMultiImage
+title: IsMultiImage()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns whether the original format is a multi-image.
 type: docs
 weight: 235
 url: /cpp/system.drawing/image/ismultiimage/
 ---
-## Image::IsMultiImage method
+## Image::IsMultiImage() const method
 
 
 Returns whether the original format is a multi-image.

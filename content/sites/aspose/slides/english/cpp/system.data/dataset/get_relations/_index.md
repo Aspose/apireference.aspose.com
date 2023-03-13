@@ -1,12 +1,12 @@
 ---
-title: get_Relations
+title: get_Relations()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets relations between tables in the data set.
 type: docs
 weight: 14
 url: /cpp/system.data/dataset/get_relations/
 ---
-## DataSet::get_Relations method
+## DataSet::get_Relations() method
 
 
 Gets relations between tables in the data set.

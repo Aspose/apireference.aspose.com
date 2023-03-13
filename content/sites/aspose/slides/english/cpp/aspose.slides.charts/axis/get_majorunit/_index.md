@@ -1,12 +1,12 @@
 ---
-title: get_MajorUnit
+title: get_MajorUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the major units for the date or value axis. Read double.
 type: docs
 weight: 300
 url: /cpp/aspose.slides.charts/axis/get_majorunit/
 ---
-## Axis::get_MajorUnit method
+## Axis::get_MajorUnit() method
 
 
 Represents the major units for the date or value axis. Read **double**.

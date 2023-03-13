@@ -1,12 +1,12 @@
 ---
-title: set_Use
+title: set_Use()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that determines the message encoding method.
 type: docs
 weight: 222
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_use/
 ---
-## SoapDocumentMethodAttribute::set_Use method
+## SoapDocumentMethodAttribute::set_Use([Description::SoapBindingUse](../../../system.web.services.description/soapbindinguse/)) method
 
 
 Sets a value that determines the message encoding method.

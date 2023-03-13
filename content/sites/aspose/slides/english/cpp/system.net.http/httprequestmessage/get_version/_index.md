@@ -1,12 +1,12 @@
 ---
-title: get_Version
+title: get_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the HTTP version.
 type: docs
 weight: 1
 url: /cpp/system.net.http/httprequestmessage/get_version/
 ---
-## HttpRequestMessage::get_Version method
+## HttpRequestMessage::get_Version() method
 
 
 Gets the HTTP version.

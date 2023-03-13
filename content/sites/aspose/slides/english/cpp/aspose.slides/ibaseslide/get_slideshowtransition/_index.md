@@ -1,12 +1,12 @@
 ---
-title: get_SlideShowTransition
+title: get_SlideShowTransition()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the TransitionEx object which contains information about how the specified slide advances during a slide show. Read-only ISlideShowTransition.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/ibaseslide/get_slideshowtransition/
 ---
-## IBaseSlide::get_SlideShowTransition method
+## IBaseSlide::get_SlideShowTransition() method
 
 
 Returns the TransitionEx object which contains information about how the specified slide advances during a slide show. Read-only [ISlideShowTransition](../../islideshowtransition/).

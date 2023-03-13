@@ -1,12 +1,12 @@
 ---
-title: set_Timeout
+title: set_Timeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the timespan to wait before the request times out.
 type: docs
 weight: 53
 url: /cpp/system.net.http/httpclient/set_timeout/
 ---
-## HttpClient::set_Timeout method
+## HttpClient::set_Timeout([TimeSpan](../../../system/timespan/)) method
 
 
 Sets the timespan to wait before the request times out.

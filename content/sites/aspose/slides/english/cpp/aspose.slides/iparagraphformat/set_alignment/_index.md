@@ -1,12 +1,12 @@
 ---
-title: set_Alignment
+title: set_Alignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the text alignment in a paragraph with no inheritance. Write TextAlignment.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/iparagraphformat/set_alignment/
 ---
-## IParagraphFormat::set_Alignment method
+## IParagraphFormat::set_Alignment([TextAlignment](../../textalignment/)) method
 
 
 Sets the text alignment in a paragraph with no inheritance. Write [TextAlignment](../../textalignment/).

@@ -1,12 +1,12 @@
 ---
-title: NullableBoolHelper
+title: NullableBoolHelper()
 second_title: Aspose.Slides for C++ API Reference
 description: Helper function to check if this and other are both not nulls and call a lambda if so. Used in implementation.s.
 type: docs
 weight: 92
 url: /cpp/system/nullable/nullableboolhelper/
 ---
-## Nullable::NullableBoolHelper method
+## Nullable::NullableBoolHelper(const T1\&, const std::function\<**bool**()>\&, **bool**) const method
 
 
 Helper function to check if this and **other** are both not nulls and call a lambda if so. Used in implementation.s.

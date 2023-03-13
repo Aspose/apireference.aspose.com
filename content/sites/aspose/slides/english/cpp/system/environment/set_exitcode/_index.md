@@ -1,12 +1,12 @@
 ---
-title: set_ExitCode
+title: set_ExitCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the specified value as exit code for the current process.
 type: docs
 weight: 53
 url: /cpp/system/environment/set_exitcode/
 ---
-## Environment::set_ExitCode method
+## Environment::set_ExitCode(int) method
 
 
 Sets the specified value as exit code for the current process.

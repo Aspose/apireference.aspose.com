@@ -1,12 +1,12 @@
 ---
-title: get_DataSourceTypeForBubbleSizes
+title: get_DataSourceTypeForBubbleSizes()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual in data points BubbleSize property object. In other words it specifies the type of value of ChartDataPointEx.BubbleSize.Data property. Read DataSourceType.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/ichartdatapointcollection/get_datasourcetypeforbubblesizes/
 ---
-## IChartDataPointCollection::get_DataSourceTypeForBubbleSizes method
+## IChartDataPointCollection::get_DataSourceTypeForBubbleSizes() method
 
 
 Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual in data points BubbleSize property object. In other words it specifies the type of value of ChartDataPointEx.BubbleSize.Data property. Read [DataSourceType](../../datasourcetype/).

@@ -1,12 +1,12 @@
 ---
-title: RotateTransform
+title: RotateTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Rotates the local geometric transformation by the specified angle in the specified order.
 type: docs
 weight: 144
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/rotatetransform/
 ---
-## PathGradientBrush::RotateTransform method
+## PathGradientBrush::RotateTransform(**float**, [Drawing2D::MatrixOrder](../../matrixorder/)) method
 
 
 Rotates the local geometric transformation by the specified angle in the specified order.

@@ -1,5 +1,5 @@
 ---
-title: GetCredential
+title: GetCredential()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns credentials for the specified URI and authentication type.
 type: docs

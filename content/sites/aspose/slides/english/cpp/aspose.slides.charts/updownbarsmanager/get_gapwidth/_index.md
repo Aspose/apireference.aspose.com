@@ -1,12 +1,12 @@
 ---
-title: get_GapWidth
+title: get_GapWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: GapWidth. Read int32_t.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/updownbarsmanager/get_gapwidth/
 ---
-## UpDownBarsManager::get_GapWidth method
+## UpDownBarsManager::get_GapWidth() method
 
 
 GapWidth. Read **int32_t**.

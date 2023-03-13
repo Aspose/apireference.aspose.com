@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares culture parameters.
 type: docs
 weight: 339
 url: /cpp/system.globalization/cultureinfo/operator_equal_equal/
 ---
-## CultureInfo::operator== method
+## CultureInfo::operator==(const [CultureInfo](../)\&) const method
 
 
 Compares culture parameters.

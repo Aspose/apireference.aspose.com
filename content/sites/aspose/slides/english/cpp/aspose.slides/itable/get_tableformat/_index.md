@@ -1,12 +1,12 @@
 ---
-title: get_TableFormat
+title: get_TableFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the TableFormat object that contains formatting properties for this table. Read-only ITableFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/itable/get_tableformat/
 ---
-## ITable::get_TableFormat method
+## ITable::get_TableFormat() method
 
 
 Returns the [TableFormat](../../tableformat/) object that contains formatting properties for this table. Read-only [ITableFormat](../../itableformat/).

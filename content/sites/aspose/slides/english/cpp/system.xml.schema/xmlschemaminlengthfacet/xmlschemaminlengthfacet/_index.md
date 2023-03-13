@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaMinLengthFacet
+title: XmlSchemaMinLengthFacet()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaMinLengthFacet class.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaminlengthfacet/xmlschemaminlengthfacet/
 ---
-## XmlSchemaMinLengthFacet::XmlSchemaMinLengthFacet constructor
+## XmlSchemaMinLengthFacet::XmlSchemaMinLengthFacet() constructor
 
 
 Initializes a new instance of the [XmlSchemaMinLengthFacet](../) class.

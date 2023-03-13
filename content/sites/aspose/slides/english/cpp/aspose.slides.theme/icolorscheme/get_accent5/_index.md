@@ -1,12 +1,12 @@
 ---
-title: get_Accent5
+title: get_Accent5()
 second_title: Aspose.Slides for C++ API Reference
 description: Fifth accent color in the scheme. Read-only IColorFormat.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.theme/icolorscheme/get_accent5/
 ---
-## IColorScheme::get_Accent5 method
+## IColorScheme::get_Accent5() method
 
 
 Fifth accent color in the scheme. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

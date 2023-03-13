@@ -1,5 +1,5 @@
 ---
-title: InsertClone
+title: InsertClone()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts a copy of a specified shape to specified position of the collection.
 type: docs

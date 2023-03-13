@@ -1,5 +1,5 @@
 ---
-title: Split
+title: Split()
 second_title: Aspose.Slides for C++ API Reference
 description: Splits string by regex matches.
 type: docs

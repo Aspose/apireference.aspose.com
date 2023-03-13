@@ -1,12 +1,12 @@
 ---
-title: TransformBlock
+title: TransformBlock()
 second_title: Aspose.Slides for C++ API Reference
 description: Processes block of data and copies data to output array.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/icryptotransform/transformblock/
 ---
-## ICryptoTransform::TransformBlock method
+## ICryptoTransform::TransformBlock([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int, int, [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int) method
 
 
 Processes block of data and copies data to output array.

@@ -1,12 +1,12 @@
 ---
-title: get_ReadState
+title: get_ReadState()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the state of the reader.
 type: docs
 weight: 209
 url: /cpp/system.xml/xmltextreader/get_readstate/
 ---
-## XmlTextReader::get_ReadState method
+## XmlTextReader::get_ReadState() method
 
 
 Returns the state of the reader.

@@ -1,12 +1,12 @@
 ---
-title: SetTemplateWeakPtr
+title: SetTemplateWeakPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Makes specific template argument to be treated as weak pointer instead of shared pointer (if applicable).
 type: docs
 weight: 66
 url: /cpp/system.collections.objectmodel/keyedcollection/settemplateweakptr/
 ---
-## KeyedCollection::SetTemplateWeakPtr method
+## KeyedCollection::SetTemplateWeakPtr(**uint32_t**) method
 
 
 Makes specific template argument to be treated as weak pointer instead of shared pointer (if applicable).

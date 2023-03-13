@@ -1,12 +1,12 @@
 ---
-title: set_Y
+title: set_Y()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of Y coordinate represented by the current object.
 type: docs
 weight: 66
 url: /cpp/system.drawing/point/set_y/
 ---
-## Point::set_Y method
+## Point::set_Y(int) method
 
 
 Sets the value of Y coordinate represented by the current object.

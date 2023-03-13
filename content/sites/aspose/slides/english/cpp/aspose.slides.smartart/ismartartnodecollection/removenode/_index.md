@@ -1,5 +1,5 @@
 ---
-title: RemoveNode
+title: RemoveNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Remove node or sub node by index.
 type: docs

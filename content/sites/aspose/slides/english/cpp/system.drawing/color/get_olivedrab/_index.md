@@ -1,12 +1,12 @@
 ---
-title: get_OliveDrab
+title: get_OliveDrab()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF6B8E23.
 type: docs
 weight: 1522
 url: /cpp/system.drawing/color/get_olivedrab/
 ---
-## Color::get_OliveDrab method
+## Color::get_OliveDrab() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF6B8E23.

@@ -1,12 +1,12 @@
 ---
-title: CustomLineCap
+title: CustomLineCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of CustomLineCap class that represents a user-defined line cap with the specified properties.
 type: docs
 weight: 1
 url: /cpp/system.drawing.drawing2d/customlinecap/customlinecap/
 ---
-## CustomLineCap::CustomLineCap constructor
+## CustomLineCap::CustomLineCap(const [SharedPtr](../../../system/sharedptr/)\<[GraphicsPath](../../graphicspath/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[GraphicsPath](../../graphicspath/)\>\&, [LineCap](../../linecap/), **float**) constructor
 
 
 Constructs a new instance of [CustomLineCap](../) class that represents a user-defined line cap with the specified properties.

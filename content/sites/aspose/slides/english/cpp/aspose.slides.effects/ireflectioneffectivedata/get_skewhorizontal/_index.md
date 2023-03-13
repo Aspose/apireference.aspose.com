@@ -1,12 +1,12 @@
 ---
-title: get_SkewHorizontal
+title: get_SkewHorizontal()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the horizontal skew angle. Read-only double.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.effects/ireflectioneffectivedata/get_skewhorizontal/
 ---
-## IReflectionEffectiveData::get_SkewHorizontal method
+## IReflectionEffectiveData::get_SkewHorizontal() method
 
 
 Specifies the horizontal skew angle. Read-only **double**.

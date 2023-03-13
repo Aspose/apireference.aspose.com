@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the element at the specified index. Read-only ICommentAuthor.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/icommentauthorcollection/idx_get/
 ---
-## ICommentAuthorCollection::idx_get method
+## ICommentAuthorCollection::idx_get(**int32_t**) method
 
 
 Gets the element at the specified index. Read-only [ICommentAuthor](../../icommentauthor/).

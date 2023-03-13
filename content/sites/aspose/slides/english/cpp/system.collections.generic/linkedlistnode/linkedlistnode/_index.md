@@ -1,12 +1,12 @@
 ---
-title: LinkedListNode
+title: LinkedListNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/linkedlistnode/linkedlistnode/
 ---
-## LinkedListNode::LinkedListNode constructor
+## LinkedListNode::LinkedListNode(const T\&) constructor
 
 
 Constructor.

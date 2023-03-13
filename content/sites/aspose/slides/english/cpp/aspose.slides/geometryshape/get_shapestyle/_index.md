@@ -1,12 +1,12 @@
 ---
-title: get_ShapeStyle
+title: get_ShapeStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns shape's style object. Read-only IShapeStyle.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/geometryshape/get_shapestyle/
 ---
-## GeometryShape::get_ShapeStyle method
+## GeometryShape::get_ShapeStyle() method
 
 
 Returns shape's style object. Read-only [IShapeStyle](../../ishapestyle/).

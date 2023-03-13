@@ -1,12 +1,12 @@
 ---
-title: get_DateTime3
+title: get_DateTime3()
 second_title: Aspose.Slides for C++ API Reference
 description: Current date and time in a third predefined format (DD Month YYYY for english). Read-only FieldType.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/fieldtype/get_datetime3/
 ---
-## FieldType::get_DateTime3 method
+## FieldType::get_DateTime3() method
 
 
 Current date and time in a third predefined format (DD Month YYYY for english). Read-only [FieldType](../).

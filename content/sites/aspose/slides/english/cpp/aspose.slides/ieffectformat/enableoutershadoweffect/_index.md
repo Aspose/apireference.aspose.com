@@ -1,12 +1,12 @@
 ---
-title: EnableOuterShadowEffect
+title: EnableOuterShadowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Enables outer shadow effect.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/ieffectformat/enableoutershadoweffect/
 ---
-## IEffectFormat::EnableOuterShadowEffect method
+## IEffectFormat::EnableOuterShadowEffect() method
 
 
 Enables outer shadow effect.

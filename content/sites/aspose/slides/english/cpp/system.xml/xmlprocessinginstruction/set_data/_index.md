@@ -1,12 +1,12 @@
 ---
-title: set_Data
+title: set_Data()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the content of the processing instruction, excluding the target.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlprocessinginstruction/set_data/
 ---
-## XmlProcessingInstruction::set_Data method
+## XmlProcessingInstruction::set_Data(const [String](../../../system/string/)\&) method
 
 
 Sets the content of the processing instruction, excluding the target.

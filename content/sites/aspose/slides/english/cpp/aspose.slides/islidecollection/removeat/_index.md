@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the element at the specified index of the collection.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/islidecollection/removeat/
 ---
-## ISlideCollection::RemoveAt method
+## ISlideCollection::RemoveAt(**int32_t**) method
 
 
 Removes the element at the specified index of the collection.

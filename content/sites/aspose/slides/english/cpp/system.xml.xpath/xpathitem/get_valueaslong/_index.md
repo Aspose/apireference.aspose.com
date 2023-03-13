@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsLong
+title: get_ValueAsLong()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the item's value as an Int64.
 type: docs
 weight: 118
 url: /cpp/system.xml.xpath/xpathitem/get_valueaslong/
 ---
-## XPathItem::get_ValueAsLong method
+## XPathItem::get_ValueAsLong() method
 
 
 When overridden in a derived class, gets the item's value as an [Int64](../../../system/int64/).

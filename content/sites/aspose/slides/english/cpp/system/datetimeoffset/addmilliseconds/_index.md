@@ -1,12 +1,12 @@
 ---
-title: AddMilliseconds
+title: AddMilliseconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a specified number of milliseconds to the DateTimeOffset object.
 type: docs
 weight: 326
 url: /cpp/system/datetimeoffset/addmilliseconds/
 ---
-## DateTimeOffset::AddMilliseconds method
+## DateTimeOffset::AddMilliseconds(**double**) const method
 
 
 Adds a specified number of milliseconds to the [DateTimeOffset](../) object.

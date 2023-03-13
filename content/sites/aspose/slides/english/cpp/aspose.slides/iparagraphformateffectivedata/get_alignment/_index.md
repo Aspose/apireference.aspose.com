@@ -1,12 +1,12 @@
 ---
-title: get_Alignment
+title: get_Alignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text alignment in a paragraph. Read-only TextAlignment.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/iparagraphformateffectivedata/get_alignment/
 ---
-## IParagraphFormatEffectiveData::get_Alignment method
+## IParagraphFormatEffectiveData::get_Alignment() method
 
 
 Returns the text alignment in a paragraph. Read-only [TextAlignment](../../textalignment/).

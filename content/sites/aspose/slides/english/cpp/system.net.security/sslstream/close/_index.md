@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the stream.
 type: docs
 weight: 482
 url: /cpp/system.net.security/sslstream/close/
 ---
-## SslStream::Close method
+## SslStream::Close() method
 
 
 Closes the stream.

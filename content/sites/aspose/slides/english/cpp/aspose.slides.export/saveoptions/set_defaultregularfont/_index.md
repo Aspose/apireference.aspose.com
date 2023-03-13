@@ -1,12 +1,12 @@
 ---
-title: set_DefaultRegularFont
+title: set_DefaultRegularFont()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets font used in case source font is not found. Writes System::String."
 type: docs
 weight: 66
 url: /cpp/aspose.slides.export/saveoptions/set_defaultregularfont/
 ---
-## SaveOptions::set_DefaultRegularFont method
+## SaveOptions::set_DefaultRegularFont([System::String](../../../system/string/)) method
 
 
 Sets font used in case source font is not found. Writes [System::String](../../../system/string/).

@@ -1,5 +1,5 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified string containing the string representation of a number to the equivalent double-precision floating-point value.
 type: docs

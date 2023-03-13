@@ -1,7 +1,7 @@
 ---
 title: ChartDataSourceType
 second_title: Aspose.Slides for C++ API Reference
-description: Represents a type of data source of the chart.
+description: Represents a type of data source of the chart
 type: docs
 weight: 1457
 url: /cpp/aspose.slides.charts/chartdatasourcetype/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/chartdatasourcetype/
 ## ChartDataSourceType enum
 
 
-Represents a type of data source of the chart.
+Represents a type of data source of the chart
 
 ```cpp
 enum class ChartDataSourceType

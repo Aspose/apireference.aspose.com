@@ -1,12 +1,12 @@
 ---
-title: get_RawValue
+title: get_RawValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns ajustment value \"as is\". Read int64_t.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iadjustvalue/get_rawvalue/
 ---
-## IAdjustValue::get_RawValue method
+## IAdjustValue::get_RawValue() method
 
 
 Returns ajustment value \"as is\". Read **int64_t**.

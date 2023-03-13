@@ -1,5 +1,5 @@
 ---
-title: SelectDescendants
+title: SelectDescendants()
 second_title: Aspose.Slides for C++ API Reference
 description: Selects all the descendant nodes of the current node that have a matching XPathNodeType.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the RetryConditionHeaderValue class.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/retryconditionheadervalue/parse/
 ---
-## RetryConditionHeaderValue::Parse method
+## RetryConditionHeaderValue::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [RetryConditionHeaderValue](../) class.

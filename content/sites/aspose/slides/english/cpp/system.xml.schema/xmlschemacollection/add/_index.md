@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the schema located by the given URL into the schema collection.
 type: docs

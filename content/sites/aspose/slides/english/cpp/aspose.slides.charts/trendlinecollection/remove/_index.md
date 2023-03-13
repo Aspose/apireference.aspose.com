@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified value.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/trendlinecollection/remove/
 ---
-## TrendlineCollection::Remove method
+## TrendlineCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[ITrendline](../../itrendline/)\>) method
 
 
 Removes the specified value.

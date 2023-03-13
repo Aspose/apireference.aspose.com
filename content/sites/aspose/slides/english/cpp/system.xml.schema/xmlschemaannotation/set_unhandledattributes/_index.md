@@ -1,12 +1,12 @@
 ---
-title: set_UnhandledAttributes
+title: set_UnhandledAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the qualified attributes that do not belong to the schema's target namespace.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaannotation/set_unhandledattributes/
 ---
-## XmlSchemaAnnotation::set_UnhandledAttributes method
+## XmlSchemaAnnotation::set_UnhandledAttributes(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../../system.xml/xmlattribute/)\>\>\&) method
 
 
 Sets the qualified attributes that do not belong to the schema's target namespace.

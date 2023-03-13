@@ -1,12 +1,12 @@
 ---
-title: set_Source
+title: set_Source()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the Uniform Resource Identifier (URI) source of the information.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemadocumentation/set_source/
 ---
-## XmlSchemaDocumentation::set_Source method
+## XmlSchemaDocumentation::set_Source(const [String](../../../system/string/)\&) method
 
 
 Sets the Uniform Resource Identifier (URI) source of the information.

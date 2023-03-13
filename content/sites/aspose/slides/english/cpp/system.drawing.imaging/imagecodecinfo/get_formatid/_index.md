@@ -1,12 +1,12 @@
 ---
-title: get_FormatID
+title: get_FormatID()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a GUID associated with the format of the codec represented by the current object.
 type: docs
 weight: 27
 url: /cpp/system.drawing.imaging/imagecodecinfo/get_formatid/
 ---
-## ImageCodecInfo::get_FormatID method
+## ImageCodecInfo::get_FormatID() const method
 
 
 Returns a GUID associated with the format of the codec represented by the current object.

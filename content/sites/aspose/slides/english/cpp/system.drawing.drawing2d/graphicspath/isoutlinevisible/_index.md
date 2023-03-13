@@ -1,12 +1,12 @@
 ---
-title: IsOutlineVisible
+title: IsOutlineVisible()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether the specified point is contained within (under) the outline of this GraphicsPath when drawn with the specified Pen. NOT EMPLEMENTED.
 type: docs
 weight: 430
 url: /cpp/system.drawing.drawing2d/graphicspath/isoutlinevisible/
 ---
-## GraphicsPath::IsOutlineVisible method
+## GraphicsPath::IsOutlineVisible(const [PointF](../../../system.drawing/pointf/)\&, const [SharedPtr](../../../system/sharedptr/)\<[Pen](../../../system.drawing/pen/)\>\&) method
 
 
 Indicates whether the specified point is contained within (under) the outline of this [GraphicsPath](../) when drawn with the specified [Pen](../../../system.drawing/pen/). NOT EMPLEMENTED.

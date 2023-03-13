@@ -1,12 +1,12 @@
 ---
-title: GetImageEncoders
+title: GetImageEncoders()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array of ImageCodecInfo objects that represent supported image encoders.
 type: docs
 weight: 1
 url: /cpp/system.drawing.imaging/imagecodecinfo/getimageencoders/
 ---
-## ImageCodecInfo::GetImageEncoders method
+## ImageCodecInfo::GetImageEncoders() method
 
 
 Returns an array of [ImageCodecInfo](../) objects that represent supported image encoders.

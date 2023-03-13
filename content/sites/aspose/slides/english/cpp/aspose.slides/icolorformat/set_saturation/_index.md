@@ -1,12 +1,12 @@
 ---
-title: set_Saturation
+title: set_Saturation()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the saturation component of a color in HSL representation. All color transformations are ignored. Write float.
 type: docs
 weight: 326
 url: /cpp/aspose.slides/icolorformat/set_saturation/
 ---
-## IColorFormat::set_Saturation method
+## IColorFormat::set_Saturation(**float**) method
 
 
 Sets the saturation component of a color in HSL representation. All color transformations are ignored. Write **float**.

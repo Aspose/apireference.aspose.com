@@ -1,12 +1,12 @@
 ---
-title: get_CreatedTime
+title: get_CreatedTime()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the date a presentation was created. Values are in UTC. Read System::DateTime."
 type: docs
 weight: 352
 url: /cpp/aspose.slides/idocumentproperties/get_createdtime/
 ---
-## IDocumentProperties::get_CreatedTime method
+## IDocumentProperties::get_CreatedTime() method
 
 
 Returns the date a presentation was created. Values are in UTC. Read [System::DateTime](../../../system/datetime/).

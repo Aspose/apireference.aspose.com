@@ -1,5 +1,5 @@
 ---
-title: Evaluate
+title: Evaluate()
 second_title: Aspose.Slides for C++ API Reference
 description: Evaluates the specified XPath expression and returns the typed result.
 type: docs

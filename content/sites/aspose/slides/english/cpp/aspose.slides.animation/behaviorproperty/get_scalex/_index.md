@@ -1,15 +1,15 @@
 ---
-title: get_ScaleX
+title: get_ScaleX()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'ScaleX' property.
+description: Represents 'ScaleX' property
 type: docs
 weight: 170
 url: /cpp/aspose.slides.animation/behaviorproperty/get_scalex/
 ---
-## BehaviorProperty::get_ScaleX method
+## BehaviorProperty::get_ScaleX() method
 
 
-Represents 'ScaleX' property.
+Represents 'ScaleX' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ScaleX()

@@ -1,12 +1,12 @@
 ---
-title: get_Frame
+title: get_Frame()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns control's frame. Read IShapeFrame.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/control/get_frame/
 ---
-## Control::get_Frame method
+## Control::get_Frame() method
 
 
 Returns control's frame. Read [IShapeFrame](../../ishapeframe/).

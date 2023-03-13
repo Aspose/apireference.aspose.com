@@ -1,12 +1,12 @@
 ---
-title: get_Images
+title: get_Images()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of all images in the presentation. Read-only IImageCollection.
 type: docs
 weight: 209
 url: /cpp/aspose.slides/ipresentation/get_images/
 ---
-## IPresentation::get_Images method
+## IPresentation::get_Images() method
 
 
 Returns the collection of all images in the presentation. Read-only [IImageCollection](../../iimagecollection/).

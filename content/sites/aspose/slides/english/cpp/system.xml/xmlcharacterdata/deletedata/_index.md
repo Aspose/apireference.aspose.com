@@ -1,12 +1,12 @@
 ---
-title: DeleteData
+title: DeleteData()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes a range of characters from the node.
 type: docs
 weight: 131
 url: /cpp/system.xml/xmlcharacterdata/deletedata/
 ---
-## XmlCharacterData::DeleteData method
+## XmlCharacterData::DeleteData(**int32_t**, **int32_t**) method
 
 
 Removes a range of characters from the node.

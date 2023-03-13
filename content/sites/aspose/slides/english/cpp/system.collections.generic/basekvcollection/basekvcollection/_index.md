@@ -1,12 +1,12 @@
 ---
-title: BaseKVCollection
+title: BaseKVCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates collection.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/basekvcollection/basekvcollection/
 ---
-## BaseKVCollection::BaseKVCollection constructor
+## BaseKVCollection::BaseKVCollection(const typename Dict::Ptr\&) constructor
 
 
 Creates collection.

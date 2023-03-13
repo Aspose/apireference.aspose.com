@@ -1,12 +1,12 @@
 ---
-title: set_TrustServerCertificate
+title: set_TrustServerCertificate()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether connection is protected using trust server certificate.
 type: docs
 weight: 92
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_trustservercertificate/
 ---
-## SqlConnectionStringBuilder::set_TrustServerCertificate method
+## SqlConnectionStringBuilder::set_TrustServerCertificate(**bool**) method
 
 
 Determines whether connection is protected using trust server certificate.

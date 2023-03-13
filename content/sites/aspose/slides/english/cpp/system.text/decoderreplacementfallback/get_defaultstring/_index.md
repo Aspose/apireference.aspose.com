@@ -1,12 +1,12 @@
 ---
-title: get_DefaultString
+title: get_DefaultString()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets replacement string.
 type: docs
 weight: 14
 url: /cpp/system.text/decoderreplacementfallback/get_defaultstring/
 ---
-## DecoderReplacementFallback::get_DefaultString method
+## DecoderReplacementFallback::get_DefaultString() const method
 
 
 Gets replacement string.

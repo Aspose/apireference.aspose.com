@@ -1,12 +1,12 @@
 ---
-title: get_RangeStartIndex
+title: get_RangeStartIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Get first index of continuous unicode range.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ifontfallbackrule/get_rangestartindex/
 ---
-## IFontFallBackRule::get_RangeStartIndex method
+## IFontFallBackRule::get_RangeStartIndex() method
 
 
 Get first index of continuous unicode range.

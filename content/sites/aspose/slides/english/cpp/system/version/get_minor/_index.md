@@ -1,12 +1,12 @@
 ---
-title: get_Minor
+title: get_Minor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the minor version.
 type: docs
 weight: 27
 url: /cpp/system/version/get_minor/
 ---
-## Version::get_Minor method
+## Version::get_Minor() const method
 
 
 Returns the minor version.

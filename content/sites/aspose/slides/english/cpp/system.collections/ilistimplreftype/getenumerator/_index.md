@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: IEnumerable.GetEnumerator() implementation Returns an enumerator that iterates through a collection.
 type: docs
 weight: 131
 url: /cpp/system.collections/ilistimplreftype/getenumerator/
 ---
-## IListImplRefType::GetEnumerator method
+## IListImplRefType::GetEnumerator() method
 
 
 [IEnumerable.GetEnumerator()](../../ienumerable/getenumerator/) implementation Returns an enumerator that iterates through a collection.

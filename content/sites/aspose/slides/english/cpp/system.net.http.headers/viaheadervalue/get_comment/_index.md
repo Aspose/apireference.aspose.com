@@ -1,12 +1,12 @@
 ---
-title: get_Comment
+title: get_Comment()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the comment from the 'Via' header value.
 type: docs
 weight: 40
 url: /cpp/system.net.http.headers/viaheadervalue/get_comment/
 ---
-## ViaHeaderValue::get_Comment method
+## ViaHeaderValue::get_Comment() method
 
 
 Returns the comment from the 'Via' header value.

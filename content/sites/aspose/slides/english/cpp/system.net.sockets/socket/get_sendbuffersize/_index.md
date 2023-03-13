@@ -1,12 +1,12 @@
 ---
-title: get_SendBufferSize
+title: get_SendBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the send buffer size.
 type: docs
 weight: 222
 url: /cpp/system.net.sockets/socket/get_sendbuffersize/
 ---
-## Socket::get_SendBufferSize method
+## Socket::get_SendBufferSize() method
 
 
 Gets the send buffer size.

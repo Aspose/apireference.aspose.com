@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets value at specified position.
 type: docs
 weight: 66
 url: /cpp/system.collections.specialized/stringcollection/idx_set/
 ---
-## StringCollection::idx_set method
+## StringCollection::idx_set(int, const [System::String](../../../system/string/)\&) method
 
 
 Sets value at specified position.

@@ -1,15 +1,15 @@
 ---
-title: RemoveEmbeddedFont
+title: RemoveEmbeddedFont()
 second_title: Aspose.Slides for C++ API Reference
-description: Removes the embedded font.
+description: Removes the embedded font
 type: docs
 weight: 92
 url: /cpp/aspose.slides/ifontsmanager/removeembeddedfont/
 ---
-## IFontsManager::RemoveEmbeddedFont method
+## IFontsManager::RemoveEmbeddedFont([System::SharedPtr](../../../system/sharedptr/)\<[IFontData](../../ifontdata/)\>) method
 
 
-Removes the embedded font.
+Removes the embedded font
 
 ```cpp
 virtual void Aspose::Slides::IFontsManager::RemoveEmbeddedFont(System::SharedPtr<IFontData> fontData)=0

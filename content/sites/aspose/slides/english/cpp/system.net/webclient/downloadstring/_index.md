@@ -1,5 +1,5 @@
 ---
-title: DownloadString
+title: DownloadString()
 second_title: Aspose.Slides for C++ API Reference
 description: Downloads the specified resource as a string.
 type: docs

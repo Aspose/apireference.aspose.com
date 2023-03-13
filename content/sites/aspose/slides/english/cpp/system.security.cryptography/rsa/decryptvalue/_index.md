@@ -1,12 +1,12 @@
 ---
-title: DecryptValue
+title: DecryptValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Decrypts value using private key.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/rsa/decryptvalue/
 ---
-## RSA::DecryptValue method
+## RSA::DecryptValue([ByteArrayPtr](../../../system/bytearrayptr/)) method
 
 
 Decrypts value using private key.

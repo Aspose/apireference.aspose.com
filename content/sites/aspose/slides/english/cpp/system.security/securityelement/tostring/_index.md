@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts tag to string.
 type: docs
 weight: 209
 url: /cpp/system.security/securityelement/tostring/
 ---
-## SecurityElement::ToString method
+## SecurityElement::ToString() const method
 
 
 Converts tag to string.

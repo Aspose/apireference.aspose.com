@@ -1,12 +1,12 @@
 ---
-title: get_Comments
+title: get_Comments()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the comments of a presentation. Read System::String."
 type: docs
 weight: 300
 url: /cpp/aspose.slides/idocumentproperties/get_comments/
 ---
-## IDocumentProperties::get_Comments method
+## IDocumentProperties::get_Comments() method
 
 
 Returns the comments of a presentation. Read [System::String](../../../system/string/).

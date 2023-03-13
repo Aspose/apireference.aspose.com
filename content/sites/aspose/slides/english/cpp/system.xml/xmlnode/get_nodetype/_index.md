@@ -1,12 +1,12 @@
 ---
-title: get_NodeType
+title: get_NodeType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of the current node, when overridden in a derived class.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlnode/get_nodetype/
 ---
-## XmlNode::get_NodeType method
+## XmlNode::get_NodeType() method
 
 
 Returns the type of the current node, when overridden in a derived class.

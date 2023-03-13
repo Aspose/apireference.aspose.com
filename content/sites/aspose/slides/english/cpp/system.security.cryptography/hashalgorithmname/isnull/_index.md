@@ -1,12 +1,12 @@
 ---
-title: IsNull
+title: IsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 209
 url: /cpp/system.security.cryptography/hashalgorithmname/isnull/
 ---
-## HashAlgorithmName::IsNull method
+## HashAlgorithmName::IsNull() const method
 
 
 

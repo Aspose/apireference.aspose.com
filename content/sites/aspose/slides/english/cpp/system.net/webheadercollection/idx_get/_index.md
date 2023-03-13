@@ -1,5 +1,5 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the header value using the specified request's header.
 type: docs

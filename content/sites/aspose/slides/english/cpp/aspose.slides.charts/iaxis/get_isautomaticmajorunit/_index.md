@@ -1,12 +1,12 @@
 ---
-title: get_IsAutomaticMajorUnit
+title: get_IsAutomaticMajorUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether the major unit of the axis is automatically assigned. Read bool.
 type: docs
 weight: 287
 url: /cpp/aspose.slides.charts/iaxis/get_isautomaticmajorunit/
 ---
-## IAxis::get_IsAutomaticMajorUnit method
+## IAxis::get_IsAutomaticMajorUnit() method
 
 
 Indicates whether the major unit of the axis is automatically assigned. Read **bool**.

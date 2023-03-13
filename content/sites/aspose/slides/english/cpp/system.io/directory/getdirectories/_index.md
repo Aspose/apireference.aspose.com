@@ -1,12 +1,12 @@
 ---
-title: GetDirectories
+title: GetDirectories()
 second_title: Aspose.Slides for C++ API Reference
 description: Searches for the directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.
 type: docs
 weight: 66
 url: /cpp/system.io/directory/getdirectories/
 ---
-## Directory::GetDirectories method
+## Directory::GetDirectories(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, [SearchOption](../../searchoption/)) method
 
 
 Searches for the directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.

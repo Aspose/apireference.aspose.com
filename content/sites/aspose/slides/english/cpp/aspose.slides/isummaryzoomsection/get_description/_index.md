@@ -1,12 +1,12 @@
 ---
-title: get_Description
+title: get_Description()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text description of the Summary Zoom Section object.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/isummaryzoomsection/get_description/
 ---
-## ISummaryZoomSection::get_Description method
+## ISummaryZoomSection::get_Description() method
 
 
 Returns the text description of the Summary Zoom [Section](../../section/) object.

@@ -1,12 +1,12 @@
 ---
-title: get_MacCodePage
+title: get_MacCodePage()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets Macintosh codepage.
 type: docs
 weight: 79
 url: /cpp/system.globalization/textinfo/get_maccodepage/
 ---
-## TextInfo::get_MacCodePage method
+## TextInfo::get_MacCodePage() const method
 
 
 Gets Macintosh codepage.

@@ -1,5 +1,5 @@
 ---
-title: IsNullOrEmpty
+title: IsNullOrEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if collection is null or empty.
 type: docs

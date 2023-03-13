@@ -1,12 +1,12 @@
 ---
-title: set_InnerXml
+title: set_InnerXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the markup representing the children of this node.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmldocumentfragment/set_innerxml/
 ---
-## XmlDocumentFragment::set_InnerXml method
+## XmlDocumentFragment::set_InnerXml([String](../../../system/string/)) method
 
 
 Sets the markup representing the children of this node.

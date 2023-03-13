@@ -1,12 +1,12 @@
 ---
-title: get_SigningKey
+title: get_SigningKey()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.xml/signedxml/get_signingkey/
 ---
-## SignedXml::get_SigningKey method
+## SignedXml::get_SigningKey() method
 
 
 

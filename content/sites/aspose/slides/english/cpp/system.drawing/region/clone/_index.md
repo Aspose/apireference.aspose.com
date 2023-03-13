@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a copy of the current object.
 type: docs
 weight: 66
 url: /cpp/system.drawing/region/clone/
 ---
-## Region::Clone method
+## Region::Clone() const method
 
 
 Returns a copy of the current object.

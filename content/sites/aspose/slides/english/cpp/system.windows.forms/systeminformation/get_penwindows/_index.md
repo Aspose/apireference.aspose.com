@@ -1,12 +1,12 @@
 ---
-title: get_PenWindows
+title: get_PenWindows()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 976
 url: /cpp/system.windows.forms/systeminformation/get_penwindows/
 ---
-## SystemInformation::get_PenWindows method
+## SystemInformation::get_PenWindows() method
 
 
 NOT IMPLEMENTED.

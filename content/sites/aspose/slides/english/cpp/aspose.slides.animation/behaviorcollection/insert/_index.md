@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts new behavior to a collection at the specified index.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/behaviorcollection/insert/
 ---
-## BehaviorCollection::Insert method
+## BehaviorCollection::Insert(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IBehavior](../../ibehavior/)\>) method
 
 
 Inserts new behavior to a collection at the specified index.

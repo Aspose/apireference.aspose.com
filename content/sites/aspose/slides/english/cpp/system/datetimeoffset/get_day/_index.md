@@ -1,12 +1,12 @@
 ---
-title: get_Day
+title: get_Day()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets day of the month of the current object.
 type: docs
 weight: 92
 url: /cpp/system/datetimeoffset/get_day/
 ---
-## DateTimeOffset::get_Day method
+## DateTimeOffset::get_Day() const method
 
 
 Gets day of the month of the current object.

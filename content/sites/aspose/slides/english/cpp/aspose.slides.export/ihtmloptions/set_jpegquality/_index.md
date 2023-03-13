@@ -1,12 +1,12 @@
 ---
-title: set_JpegQuality
+title: set_JpegQuality()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value determining the quality of the JPEG images inside PDF document. Write uint8_t.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.export/ihtmloptions/set_jpegquality/
 ---
-## IHtmlOptions::set_JpegQuality method
+## IHtmlOptions::set_JpegQuality(**uint8_t**) method
 
 
 Sets a value determining the quality of the JPEG images inside PDF document. Write **uint8_t**.

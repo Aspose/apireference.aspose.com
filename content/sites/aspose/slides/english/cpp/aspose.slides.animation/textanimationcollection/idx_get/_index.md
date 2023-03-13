@@ -1,5 +1,5 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns element by index.
 type: docs
@@ -25,7 +25,7 @@ System::SharedPtr<ITextAnimation> Aspose::Slides::Animation::TextAnimationCollec
 ## TextAnimationCollection::idx_get([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
 
 
-Returns all elements.
+Returns all elements
 
 ```cpp
 System::ArrayPtr<System::SharedPtr<ITextAnimation>> Aspose::Slides::Animation::TextAnimationCollection::idx_get(System::SharedPtr<IShape> shape) override

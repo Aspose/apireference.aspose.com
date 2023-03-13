@@ -1,12 +1,12 @@
 ---
-title: set_Subtype
+title: set_Subtype()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents subtype of filter effect. Write FilterEffectSubtype.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/ifiltereffect/set_subtype/
 ---
-## IFilterEffect::set_Subtype method
+## IFilterEffect::set_Subtype([FilterEffectSubtype](../../filtereffectsubtype/)) method
 
 
 Represents subtype of filter effect. Write [FilterEffectSubtype](../../filtereffectsubtype/).

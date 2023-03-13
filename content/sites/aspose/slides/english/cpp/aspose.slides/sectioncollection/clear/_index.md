@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all sections from the collection.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/sectioncollection/clear/
 ---
-## SectionCollection::Clear method
+## SectionCollection::Clear() method
 
 
 Removes all sections from the collection.

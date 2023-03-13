@@ -1,12 +1,12 @@
 ---
-title: get_Tag
+title: get_Tag()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets an object that provides additional data about the image.
 type: docs
 weight: 157
 url: /cpp/system.drawing/image/get_tag/
 ---
-## Image::get_Tag method
+## Image::get_Tag() const method
 
 
 Gets an object that provides additional data about the image.

@@ -1,12 +1,12 @@
 ---
-title: BeginResolve
+title: BeginResolve()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous operation to create a new IPHostEntry-class instance using the specified host name.
 type: docs
 weight: 157
 url: /cpp/system.net/dns/beginresolve/
 ---
-## Dns::BeginResolve method
+## Dns::BeginResolve([String](../../../system/string/), [AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Initiates an asynchronous operation to create a new IPHostEntry-class instance using the specified host name.

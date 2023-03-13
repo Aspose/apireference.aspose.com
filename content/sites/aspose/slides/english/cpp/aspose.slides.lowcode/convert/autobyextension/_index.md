@@ -1,12 +1,12 @@
 ---
-title: AutoByExtension
+title: AutoByExtension()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts Presentation using the passed output path extension to determine the required export format.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.lowcode/convert/autobyextension/
 ---
-## Convert::AutoByExtension method
+## Convert::AutoByExtension([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Converts [Presentation](../../../aspose.slides/presentation/) using the passed output path extension to determine the required export format.

@@ -1,12 +1,12 @@
 ---
-title: MovePrevious
+title: MovePrevious()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves to previous chracter.
 type: docs
 weight: 53
 url: /cpp/system.text/decoderexceptionfallbackbuffer/moveprevious/
 ---
-## DecoderExceptionFallbackBuffer::MovePrevious method
+## DecoderExceptionFallbackBuffer::MovePrevious() method
 
 
 Moves to previous chracter.

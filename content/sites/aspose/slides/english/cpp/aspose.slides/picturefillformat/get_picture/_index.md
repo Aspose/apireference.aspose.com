@@ -1,12 +1,12 @@
 ---
-title: get_Picture
+title: get_Picture()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the picture. Read-only ISlidesPicture.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/picturefillformat/get_picture/
 ---
-## PictureFillFormat::get_Picture method
+## PictureFillFormat::get_Picture() method
 
 
 Returns the picture. Read-only [ISlidesPicture](../../islidespicture/).

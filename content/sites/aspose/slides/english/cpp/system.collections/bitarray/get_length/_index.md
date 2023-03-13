@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets container size.
 type: docs
 weight: 66
 url: /cpp/system.collections/bitarray/get_length/
 ---
-## BitArray::get_Length method
+## BitArray::get_Length() const method
 
 
 Gets container size.

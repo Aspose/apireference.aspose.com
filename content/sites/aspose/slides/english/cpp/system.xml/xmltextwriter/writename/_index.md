@@ -1,12 +1,12 @@
 ---
-title: WriteName
+title: WriteName()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes out the specified name, ensuring it is a valid name according to the .
 type: docs
 weight: 482
 url: /cpp/system.xml/xmltextwriter/writename/
 ---
-## XmlTextWriter::WriteName method
+## XmlTextWriter::WriteName(const [String](../../../system/string/)\&) method
 
 
 Writes out the specified name, ensuring it is a valid name according to the [W3C XML 1.0 recommendation](https://www.w3.org/TR/1998/REC-xml-19980210#NT-Name).

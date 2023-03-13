@@ -1,12 +1,12 @@
 ---
-title: set_PieSplitBy
+title: set_PieSplitBy()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies how to determine which data points are in the second pie or bar on a pie-of-pie or bar-of-pie chart. Write PieSplitType.
 type: docs
 weight: 274
 url: /cpp/aspose.slides.charts/ichartseriesgroup/set_piesplitby/
 ---
-## IChartSeriesGroup::set_PieSplitBy method
+## IChartSeriesGroup::set_PieSplitBy([PieSplitType](../../piesplittype/)) method
 
 
 Specifies how to determine which data points are in the second pie or bar on a pie-of-pie or bar-of-pie chart. Write [PieSplitType](../../piesplittype/).

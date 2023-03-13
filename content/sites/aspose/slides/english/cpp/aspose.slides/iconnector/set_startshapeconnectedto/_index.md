@@ -1,12 +1,12 @@
 ---
-title: set_StartShapeConnectedTo
+title: set_StartShapeConnectedTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the shape to attach the beginning of the connector to. Write IShape.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/iconnector/set_startshapeconnectedto/
 ---
-## IConnector::set_StartShapeConnectedTo method
+## IConnector::set_StartShapeConnectedTo([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../ishape/)\>) method
 
 
 Sets the shape to attach the beginning of the connector to. Write [IShape](../../ishape/).

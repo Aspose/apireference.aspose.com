@@ -1,5 +1,5 @@
 ---
-title: LINQ_OfType
+title: LINQ_OfType()
 second_title: Aspose.Slides for C++ API Reference
 description: Filters the elements of the sequence based on the specified type.
 type: docs

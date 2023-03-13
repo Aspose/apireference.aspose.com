@@ -1,5 +1,5 @@
 ---
-title: FromXmlString
+title: FromXmlString()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes object using XML-encoded parameters. Not implemented.
 type: docs

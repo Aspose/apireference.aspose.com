@@ -1,12 +1,12 @@
 ---
-title: GetXml
+title: GetXml()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 144
 url: /cpp/system.security.cryptography.xml/signedxml/getxml/
 ---
-## SignedXml::GetXml method
+## SignedXml::GetXml() method
 
 
 

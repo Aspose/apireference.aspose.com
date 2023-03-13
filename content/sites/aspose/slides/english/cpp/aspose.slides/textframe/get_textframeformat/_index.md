@@ -1,12 +1,12 @@
 ---
-title: get_TextFrameFormat
+title: get_TextFrameFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the formatting object for this TextFrame object. Read-only ITextFrameFormat.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/textframe/get_textframeformat/
 ---
-## TextFrame::get_TextFrameFormat method
+## TextFrame::get_TextFrameFormat() method
 
 
 Returns the formatting object for this [TextFrame](../) object. Read-only [ITextFrameFormat](../../itextframeformat/).

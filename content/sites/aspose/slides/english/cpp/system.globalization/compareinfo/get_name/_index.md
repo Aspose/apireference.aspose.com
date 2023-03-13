@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets name of the culture associated with comparer.
 type: docs
 weight: 27
 url: /cpp/system.globalization/compareinfo/get_name/
 ---
-## CompareInfo::get_Name method
+## CompareInfo::get_Name() const method
 
 
 Gets name of the culture associated with comparer.

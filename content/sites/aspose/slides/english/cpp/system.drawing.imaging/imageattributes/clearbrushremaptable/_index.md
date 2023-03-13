@@ -1,12 +1,12 @@
 ---
-title: ClearBrushRemapTable
+title: ClearBrushRemapTable()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 14
 url: /cpp/system.drawing.imaging/imageattributes/clearbrushremaptable/
 ---
-## ImageAttributes::ClearBrushRemapTable method
+## ImageAttributes::ClearBrushRemapTable() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: ToUniversalTime
+title: ToUniversalTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts current object to a object that represents the UTC time,.
 type: docs
 weight: 456
 url: /cpp/system/datetimeoffset/touniversaltime/
 ---
-## DateTimeOffset::ToUniversalTime method
+## DateTimeOffset::ToUniversalTime() const method
 
 
 Converts current object to a object that represents the UTC time,.

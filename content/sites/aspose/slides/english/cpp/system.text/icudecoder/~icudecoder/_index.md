@@ -1,12 +1,12 @@
 ---
-title: ~ICUDecoder
+title: ~ICUDecoder()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.text/icudecoder/~icudecoder/
 ---
-## ICUDecoder::~ICUDecoder method
+## ICUDecoder::~ICUDecoder() method
 
 
 Destructor.

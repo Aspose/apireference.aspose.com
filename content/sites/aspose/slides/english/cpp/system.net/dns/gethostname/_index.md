@@ -1,12 +1,12 @@
 ---
-title: GetHostName
+title: GetHostName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the host name of the local machine.
 type: docs
 weight: 27
 url: /cpp/system.net/dns/gethostname/
 ---
-## Dns::GetHostName method
+## Dns::GetHostName() method
 
 
 Returns the host name of the local machine.

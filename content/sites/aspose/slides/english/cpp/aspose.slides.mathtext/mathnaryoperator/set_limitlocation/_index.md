@@ -1,12 +1,12 @@
 ---
-title: set_LimitLocation
+title: set_LimitLocation()
 second_title: Aspose.Slides for C++ API Reference
 description: The location of limits (subscript and superscript)
 type: docs
 weight: 79
 url: /cpp/aspose.slides.mathtext/mathnaryoperator/set_limitlocation/
 ---
-## MathNaryOperator::set_LimitLocation method
+## MathNaryOperator::set_LimitLocation([MathLimitLocations](../../mathlimitlocations/)) method
 
 
 The location of limits (subscript and superscript)

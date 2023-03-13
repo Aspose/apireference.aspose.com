@@ -1,12 +1,12 @@
 ---
-title: WriteString
+title: WriteString()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes the given text content.
 type: docs
 weight: 248
 url: /cpp/system.xml/xmlwriter/writestring/
 ---
-## XmlWriter::WriteString method
+## XmlWriter::WriteString(const [String](../../../system/string/)\&) method
 
 
 When overridden in a derived class, writes the given text content.

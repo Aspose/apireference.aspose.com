@@ -1,5 +1,5 @@
 ---
-title: GetTextElementEnumerator
+title: GetTextElementEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates enumerator to iterate through string's characters.
 type: docs

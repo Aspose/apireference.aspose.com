@@ -1,12 +1,12 @@
 ---
-title: set_NameTable
+title: set_NameTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlNameTable used for atomized string comparisons.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlreadersettings/set_nametable/
 ---
-## XmlReaderSettings::set_NameTable method
+## XmlReaderSettings::set_NameTable(const [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../xmlnametable/)\>\&) method
 
 
 Sets the [XmlNameTable](../../xmlnametable/) used for atomized string comparisons.

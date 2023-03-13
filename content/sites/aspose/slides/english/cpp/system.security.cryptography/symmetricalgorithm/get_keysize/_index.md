@@ -1,12 +1,12 @@
 ---
-title: get_KeySize
+title: get_KeySize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets key size of cryptographic operation.
 type: docs
 weight: 105
 url: /cpp/system.security.cryptography/symmetricalgorithm/get_keysize/
 ---
-## SymmetricAlgorithm::get_KeySize method
+## SymmetricAlgorithm::get_KeySize() method
 
 
 Gets key size of cryptographic operation.

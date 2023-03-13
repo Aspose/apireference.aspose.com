@@ -1,12 +1,12 @@
 ---
-title: set_Headers
+title: set_Headers()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the collection of the HTTP headers.
 type: docs
 weight: 157
 url: /cpp/system.net/webrequest/set_headers/
 ---
-## WebRequest::set_Headers method
+## WebRequest::set_Headers([System::SharedPtr](../../../system/sharedptr/)\<[WebHeaderCollection](../../webheadercollection/)\>) method
 
 
 Sets the collection of the HTTP headers.

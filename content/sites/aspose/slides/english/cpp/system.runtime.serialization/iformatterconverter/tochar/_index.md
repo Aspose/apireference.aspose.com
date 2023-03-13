@@ -1,12 +1,12 @@
 ---
-title: ToChar
+title: ToChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a char16_t.
 type: docs
 weight: 40
 url: /cpp/system.runtime.serialization/iformatterconverter/tochar/
 ---
-## IFormatterConverter::ToChar method
+## IFormatterConverter::ToChar([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a char16_t.

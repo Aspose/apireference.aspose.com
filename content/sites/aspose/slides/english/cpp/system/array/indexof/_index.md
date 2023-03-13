@@ -1,5 +1,5 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the index of the first occurrence of the specified item in the array.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_UseShellExecute
+title: set_UseShellExecute()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets UseShellExecute property.
 type: docs
 weight: 53
 url: /cpp/system.diagnostics/processstartinfo/set_useshellexecute/
 ---
-## ProcessStartInfo::set_UseShellExecute method
+## ProcessStartInfo::set_UseShellExecute(**bool**) method
 
 
 Sets UseShellExecute property.

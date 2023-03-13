@@ -1,12 +1,12 @@
 ---
-title: get_IsRunning
+title: get_IsRunning()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if stopwatch is running.
 type: docs
 weight: 79
 url: /cpp/system.diagnostics/stopwatch/get_isrunning/
 ---
-## Stopwatch::get_IsRunning method
+## Stopwatch::get_IsRunning() const method
 
 
 Checks if stopwatch is running.

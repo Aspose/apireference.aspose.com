@@ -1,12 +1,12 @@
 ---
-title: BoxedEnum
+title: BoxedEnum()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance that represents the specified enumeration value.
 type: docs
 weight: 1
 url: /cpp/system/boxedenum/boxedenum/
 ---
-## BoxedEnum::BoxedEnum constructor
+## BoxedEnum::BoxedEnum(E) constructor
 
 
 Constructs an instance that represents the specified enumeration value.

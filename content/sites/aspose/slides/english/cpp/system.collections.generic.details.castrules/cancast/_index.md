@@ -1,5 +1,5 @@
 ---
-title: CanCast
+title: CanCast()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks the cast possibility.
 type: docs
@@ -30,7 +30,6 @@ True when a non nullptr value is returns after casting, otherwise false.
 ## See Also
 
 * Struct [CastType](../casttype/)
-* Enum [Base64FormattingOptions](../../system/base64formattingoptions/)
 * Namespace [System::Collections::Generic::Details::CastRules](../)
 * Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::CastRules::CanCast(Source) function

@@ -1,5 +1,5 @@
 ---
-title: LoadOptions
+title: LoadOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new default load options.
 type: docs

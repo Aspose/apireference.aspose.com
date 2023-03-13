@@ -1,5 +1,5 @@
 ---
-title: RemoveNamedItem
+title: RemoveNamedItem()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the node from the XmlNamedNodeMap.
 type: docs

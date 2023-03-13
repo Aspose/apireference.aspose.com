@@ -1,12 +1,12 @@
 ---
-title: get_RefName
+title: get_RefName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of a group defined in this schema (or another schema indicated by the specified namespace).
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemagroupref/get_refname/
 ---
-## XmlSchemaGroupRef::get_RefName method
+## XmlSchemaGroupRef::get_RefName() method
 
 
 Returns the name of a group defined in this schema (or another schema indicated by the specified namespace).

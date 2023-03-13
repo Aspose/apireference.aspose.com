@@ -1,12 +1,12 @@
 ---
-title: ExportCspBlob
+title: ExportCspBlob()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports blob with key information.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/icspasymmetricalgorithm/exportcspblob/
 ---
-## ICspAsymmetricAlgorithm::ExportCspBlob method
+## ICspAsymmetricAlgorithm::ExportCspBlob(**bool**) method
 
 
 Exports blob with key information.

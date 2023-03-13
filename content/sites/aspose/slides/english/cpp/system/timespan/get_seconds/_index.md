@@ -1,12 +1,12 @@
 ---
-title: get_Seconds
+title: get_Seconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the seconds component of the time interval represented by the current TimeSpan object.
 type: docs
 weight: 105
 url: /cpp/system/timespan/get_seconds/
 ---
-## TimeSpan::get_Seconds method
+## TimeSpan::get_Seconds() const method
 
 
 Returns the seconds component of the time interval represented by the current [TimeSpan](../) object.

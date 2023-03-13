@@ -1,5 +1,5 @@
 ---
-title: AssemblyTypeRegistration
+title: AssemblyTypeRegistration()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates singleton, thus registering type in executing assembly.
 type: docs

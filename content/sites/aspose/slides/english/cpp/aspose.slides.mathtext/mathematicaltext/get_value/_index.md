@@ -1,15 +1,15 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
-description: Text value.
+description: Text value
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathematicaltext/get_value/
 ---
-## MathematicalText::get_Value method
+## MathematicalText::get_Value() method
 
 
-Text value.
+Text value
 
 ```cpp
 System::String Aspose::Slides::MathText::MathematicalText::get_Value() override

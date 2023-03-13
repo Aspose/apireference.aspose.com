@@ -1,12 +1,12 @@
 ---
-title: set_DefaultWebProxy
+title: set_DefaultWebProxy()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the global HTTP proxy.
 type: docs
 weight: 40
 url: /cpp/system.net/webrequest/set_defaultwebproxy/
 ---
-## WebRequest::set_DefaultWebProxy method
+## WebRequest::set_DefaultWebProxy([System::SharedPtr](../../../system/sharedptr/)\<[IWebProxy](../../iwebproxy/)\>) method
 
 
 Sets the global HTTP proxy.

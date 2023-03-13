@@ -1,12 +1,12 @@
 ---
-title: GetYear
+title: GetYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets year for the specified time point.
 type: docs
 weight: 66
 url: /cpp/system.globalization/japaneselunisolarcalendar/getyear/
 ---
-## JapaneseLunisolarCalendar::GetYear method
+## JapaneseLunisolarCalendar::GetYear([DateTime](../../../system/datetime/)) const method
 
 
 Gets year for the specified time point.

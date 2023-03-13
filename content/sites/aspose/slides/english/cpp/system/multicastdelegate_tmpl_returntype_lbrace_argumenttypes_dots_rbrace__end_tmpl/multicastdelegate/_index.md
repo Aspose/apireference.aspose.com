@@ -1,5 +1,5 @@
 ---
-title: MulticastDelegate
+title: MulticastDelegate()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an empty collection.
 type: docs

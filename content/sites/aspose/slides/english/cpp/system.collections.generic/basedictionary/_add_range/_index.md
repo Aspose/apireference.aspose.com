@@ -1,12 +1,12 @@
 ---
-title: _add_range
+title: _add_range()
 second_title: Aspose.Slides for C++ API Reference
 description: C++ specific.
 type: docs
 weight: 183
 url: /cpp/system.collections.generic/basedictionary/_add_range/
 ---
-## BaseDictionary::_add_range method
+## BaseDictionary::_add_range(std::initializer_list\<typename Map::value_type\>) method
 
 
 C++ specific.

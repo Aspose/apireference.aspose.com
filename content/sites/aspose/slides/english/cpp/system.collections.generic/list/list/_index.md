@@ -1,5 +1,5 @@
 ---
-title: List
+title: List()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates empty list.
 type: docs

@@ -1,15 +1,15 @@
 ---
-title: ResetLicense
+title: ResetLicense()
 second_title: Aspose.Slides for C++ API Reference
-description: Reset the license.
+description: Reset the license
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ilicense/resetlicense/
 ---
-## ILicense::ResetLicense method
+## ILicense::ResetLicense() method
 
 
-Reset the license.
+Reset the license
 
 ```cpp
 virtual void Aspose::Slides::ILicense::ResetLicense()=0

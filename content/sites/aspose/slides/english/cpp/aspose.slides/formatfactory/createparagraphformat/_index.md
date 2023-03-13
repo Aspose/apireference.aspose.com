@@ -1,12 +1,12 @@
 ---
-title: CreateParagraphFormat
+title: CreateParagraphFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new IParagraphFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/formatfactory/createparagraphformat/
 ---
-## FormatFactory::CreateParagraphFormat method
+## FormatFactory::CreateParagraphFormat() method
 
 
 Creates new [IParagraphFormat](../../iparagraphformat/).

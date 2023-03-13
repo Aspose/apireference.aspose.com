@@ -1,15 +1,15 @@
 ---
-title: WriteFont
+title: WriteFont()
 second_title: Aspose.Slides for C++ API Reference
-description: Writes data as base64 into HTML document itself.
+description: Writes data as base64 into HTML document itself
 type: docs
 weight: 105
 url: /cpp/aspose.slides.export/embedallfontshtmlcontroller/writefont/
 ---
-## EmbedAllFontsHtmlController::WriteFont method
+## EmbedAllFontsHtmlController::WriteFont([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlGenerator](../../ihtmlgenerator/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IFontData](../../../aspose.slides/ifontdata/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IFontData](../../../aspose.slides/ifontdata/)\>, [System::String](../../../system/string/), [System::String](../../../system/string/), [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
-Writes data as base64 into HTML document itself.
+Writes data as base64 into HTML document itself
 
 ```cpp
 virtual void Aspose::Slides::Export::EmbedAllFontsHtmlController::WriteFont(System::SharedPtr<IHtmlGenerator> generator, System::SharedPtr<IFontData> originalFont, System::SharedPtr<IFontData> substitutedFont, System::String fontStyle, System::String fontWeight, System::ArrayPtr<uint8_t> fontData)

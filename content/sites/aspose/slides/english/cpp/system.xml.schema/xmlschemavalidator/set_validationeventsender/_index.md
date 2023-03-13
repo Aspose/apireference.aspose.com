@@ -1,12 +1,12 @@
 ---
-title: set_ValidationEventSender
+title: set_ValidationEventSender()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the object sent as the sender object of a validation event.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemavalidator/set_validationeventsender/
 ---
-## XmlSchemaValidator::set_ValidationEventSender method
+## XmlSchemaValidator::set_ValidationEventSender(const [SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 Sets the object sent as the sender object of a validation event.

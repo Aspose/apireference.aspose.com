@@ -1,12 +1,12 @@
 ---
-title: EnumerableSelectManyAdapter
+title: EnumerableSelectManyAdapter()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.collections.generic.details/enumerableselectmanyadapter/enumerableselectmanyadapter/
 ---
-## EnumerableSelectManyAdapter::EnumerableSelectManyAdapter constructor
+## EnumerableSelectManyAdapter::EnumerableSelectManyAdapter([SharedPtr](../../../system/sharedptr/)\<[IEnumerable](../../../system.collections.generic/ienumerable/)\<Source\>\>, const [Func](../../../system/func/)\<Source, [SharedPtr](../../../system/sharedptr/)\<[IEnumerable](../../../system.collections.generic/ienumerable/)\<Result\>\>\>\&) constructor
 
 
 

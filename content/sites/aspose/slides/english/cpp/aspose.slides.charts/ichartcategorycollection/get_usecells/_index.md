@@ -1,12 +1,12 @@
 ---
-title: get_UseCells
+title: get_UseCells()
 second_title: Aspose.Slides for C++ API Reference
 description: If true then worksheet is used for storing categories (this case supports a multi-level categories). If false then worksheet is NOT used for storing values (and this case doesn't support a multi-level categories). Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ichartcategorycollection/get_usecells/
 ---
-## IChartCategoryCollection::get_UseCells method
+## IChartCategoryCollection::get_UseCells() method
 
 
 If true then worksheet is used for storing categories (this case supports a multi-level categories). If false then worksheet is NOT used for storing values (and this case doesn't support a multi-level categories). Read **bool**.

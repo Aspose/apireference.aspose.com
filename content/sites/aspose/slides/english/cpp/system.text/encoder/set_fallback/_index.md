@@ -1,12 +1,12 @@
 ---
-title: set_Fallback
+title: set_Fallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets error handling fallback.
 type: docs
 weight: 14
 url: /cpp/system.text/encoder/set_fallback/
 ---
-## Encoder::set_Fallback method
+## Encoder::set_Fallback(const [EncoderFallbackPtr](../../../system/encoderfallbackptr/)\&) method
 
 
 Sets error handling fallback.

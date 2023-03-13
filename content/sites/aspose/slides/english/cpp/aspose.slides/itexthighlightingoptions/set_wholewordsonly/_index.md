@@ -1,12 +1,12 @@
 ---
-title: set_WholeWordsOnly
+title: set_WholeWordsOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Set true to match only whole words, false - otherwise. Write bool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/itexthighlightingoptions/set_wholewordsonly/
 ---
-## ITextHighlightingOptions::set_WholeWordsOnly method
+## ITextHighlightingOptions::set_WholeWordsOnly(**bool**) method
 
 
 Set true to match only whole words, false - otherwise. Write **bool**.

@@ -1,12 +1,12 @@
 ---
-title: AssertThrows
+title: AssertThrows()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if function throws exception of any type.
 type: docs
 weight: 40
 url: /cpp/system/testtools/assertthrows/
 ---
-## TestTools::AssertThrows method
+## TestTools::AssertThrows(const std::function\<void()>\&) method
 
 
 Checks if function throws exception of any type.

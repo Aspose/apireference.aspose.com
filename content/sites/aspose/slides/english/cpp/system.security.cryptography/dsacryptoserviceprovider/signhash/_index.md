@@ -1,12 +1,12 @@
 ---
-title: SignHash
+title: SignHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Computes the signature of specified input value.
 type: docs
 weight: 196
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/signhash/
 ---
-## DSACryptoServiceProvider::SignHash method
+## DSACryptoServiceProvider::SignHash(const [ByteArrayPtr](../../../system/bytearrayptr/)\&, const [String](../../../system/string/)\&) method
 
 
 Computes the signature of specified input value.

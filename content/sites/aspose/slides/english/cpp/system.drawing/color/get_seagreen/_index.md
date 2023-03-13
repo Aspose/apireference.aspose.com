@@ -1,12 +1,12 @@
 ---
-title: get_SeaGreen
+title: get_SeaGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF2E8B57.
 type: docs
 weight: 1795
 url: /cpp/system.drawing/color/get_seagreen/
 ---
-## Color::get_SeaGreen method
+## Color::get_SeaGreen() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF2E8B57.

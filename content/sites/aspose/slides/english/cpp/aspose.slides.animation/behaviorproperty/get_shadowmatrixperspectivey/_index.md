@@ -1,15 +1,15 @@
 ---
-title: get_ShadowMatrixPerspectiveY
+title: get_ShadowMatrixPerspectiveY()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'shadow.matrix.perspectiveY' property.
+description: Represents 'shadow.matrix.perspectiveY' property
 type: docs
 weight: 1132
 url: /cpp/aspose.slides.animation/behaviorproperty/get_shadowmatrixperspectivey/
 ---
-## BehaviorProperty::get_ShadowMatrixPerspectiveY method
+## BehaviorProperty::get_ShadowMatrixPerspectiveY() method
 
 
-Represents 'shadow.matrix.perspectiveY' property.
+Represents 'shadow.matrix.perspectiveY' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ShadowMatrixPerspectiveY()

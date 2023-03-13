@@ -1,5 +1,5 @@
 ---
-title: XmlSchemaCollection
+title: XmlSchemaCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaCollection class.
 type: docs

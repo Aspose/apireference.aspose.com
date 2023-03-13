@@ -1,12 +1,12 @@
 ---
-title: get_ThreeLetterWindowsRegionName
+title: get_ThreeLetterWindowsRegionName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets 3 letter Windows region code.
 type: docs
 weight: 79
 url: /cpp/system.globalization/regioninfo/get_threeletterwindowsregionname/
 ---
-## RegionInfo::get_ThreeLetterWindowsRegionName method
+## RegionInfo::get_ThreeLetterWindowsRegionName() const method
 
 
 Gets 3 letter [Windows](../../../system.windows/) region code.

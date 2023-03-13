@@ -1,12 +1,12 @@
 ---
-title: get_ChildTable
+title: get_ChildTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets child table information.
 type: docs
 weight: 14
 url: /cpp/system.data/datarelation/get_childtable/
 ---
-## DataRelation::get_ChildTable method
+## DataRelation::get_ChildTable() method
 
 
 Gets child table information.

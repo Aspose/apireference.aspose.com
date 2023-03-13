@@ -1,12 +1,12 @@
 ---
-title: Type
+title: Type()
 second_title: Aspose.Slides for C++ API Reference
 description: "Shortcut to get System::TypeInfo object for the Pointee_ type."
 type: docs
 weight: 456
 url: /cpp/system/smartptr/type/
 ---
-## SmartPtr::Type method
+## SmartPtr::Type() method
 
 
 Shortcut to get [System::TypeInfo](../../typeinfo/) object for the Pointee_ type.

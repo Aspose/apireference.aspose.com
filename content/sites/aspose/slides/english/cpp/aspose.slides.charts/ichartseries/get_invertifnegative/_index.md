@@ -1,12 +1,12 @@
 ---
-title: get_InvertIfNegative
+title: get_InvertIfNegative()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the bar, column or bubble series shall invert its colors if the value is negative. Read bool.
 type: docs
 weight: 378
 url: /cpp/aspose.slides.charts/ichartseries/get_invertifnegative/
 ---
-## IChartSeries::get_InvertIfNegative method
+## IChartSeries::get_InvertIfNegative() method
 
 
 Specifies the bar, column or bubble series shall invert its colors if the value is negative. Read **bool**.

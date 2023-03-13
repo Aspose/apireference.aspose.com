@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables adding element into collection.
 type: docs
 weight: 14
 url: /cpp/system.text.regularexpressions/groupcollection/add/
 ---
-## GroupCollection::Add method
+## GroupCollection::Add(const [GroupPtr](../../groupptr/)\&) method
 
 
 Disables adding element into collection.

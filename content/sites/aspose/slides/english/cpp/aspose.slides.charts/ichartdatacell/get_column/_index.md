@@ -1,12 +1,12 @@
 ---
-title: get_Column
+title: get_Column()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the index of the column of worksheet in which the cell is located. Read-only int32_t.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ichartdatacell/get_column/
 ---
-## IChartDataCell::get_Column method
+## IChartDataCell::get_Column() method
 
 
 Returns the index of the column of worksheet in which the cell is located. Read-only **int32_t**.

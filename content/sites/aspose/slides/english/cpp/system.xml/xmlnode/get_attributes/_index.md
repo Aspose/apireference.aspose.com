@@ -1,12 +1,12 @@
 ---
-title: get_Attributes
+title: get_Attributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlAttributeCollection containing the attributes of this node.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlnode/get_attributes/
 ---
-## XmlNode::get_Attributes method
+## XmlNode::get_Attributes() method
 
 
 Returns an [XmlAttributeCollection](../../xmlattributecollection/) containing the attributes of this node.

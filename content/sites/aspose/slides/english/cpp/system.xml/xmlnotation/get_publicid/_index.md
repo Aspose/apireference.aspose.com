@@ -1,12 +1,12 @@
 ---
-title: get_PublicId
+title: get_PublicId()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the public identifier on the notation declaration.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlnotation/get_publicid/
 ---
-## XmlNotation::get_PublicId method
+## XmlNotation::get_PublicId() method
 
 
 Returns the value of the public identifier on the notation declaration.

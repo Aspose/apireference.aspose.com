@@ -1,7 +1,7 @@
 ---
 title: SmartArtShapeCollection
 second_title: Aspose.Slides for C++ API Reference
-description: Represents a collection of a SmartArt shapes.
+description: Represents a collection of a SmartArt shapes
 type: docs
 weight: 118
 url: /cpp/aspose.slides.smartart/smartartshapecollection/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.smartart/smartartshapecollection/
 ## SmartArtShapeCollection class
 
 
-Represents a collection of a [SmartArt](../smartart/) shapes.
+Represents a collection of a [SmartArt](../smartart/) shapes
 
 ```cpp
 class SmartArtShapeCollection : public Aspose::Slides::SmartArt::ISmartArtShapeCollection

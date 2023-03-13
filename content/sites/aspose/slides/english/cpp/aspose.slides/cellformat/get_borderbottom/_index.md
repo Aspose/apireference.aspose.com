@@ -1,12 +1,12 @@
 ---
-title: get_BorderBottom
+title: get_BorderBottom()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a bottom border line properties object. Read-only ILineFormat.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/cellformat/get_borderbottom/
 ---
-## CellFormat::get_BorderBottom method
+## CellFormat::get_BorderBottom() method
 
 
 Returns a bottom border line properties object. Read-only [ILineFormat](../../ilineformat/).

@@ -1,15 +1,15 @@
 ---
-title: GetChildren
+title: GetChildren()
 second_title: Aspose.Slides for C++ API Reference
-description: Get children elements.
+description: Get children elements
 type: docs
 weight: 157
 url: /cpp/aspose.slides.mathtext/matharray/getchildren/
 ---
-## MathArray::GetChildren method
+## MathArray::GetChildren() method
 
 
-Get children elements.
+Get children elements
 
 ```cpp
 System::ArrayPtr<System::SharedPtr<IMathElement>> Aspose::Slides::MathText::MathArray::GetChildren() override

@@ -1,12 +1,12 @@
 ---
-title: SetHashAlgorithm
+title: SetHashAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets hash algorithm associated with deformatter.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/asymmetricsignaturedeformatter/sethashalgorithm/
 ---
-## AsymmetricSignatureDeformatter::SetHashAlgorithm method
+## AsymmetricSignatureDeformatter::SetHashAlgorithm([System::String](../../../system/string/)) method
 
 
 Sets hash algorithm associated with deformatter.

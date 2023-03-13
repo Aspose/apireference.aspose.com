@@ -1,5 +1,5 @@
 ---
-title: setter_post_increment_wrap
+title: setter_post_increment_wrap()
 second_title: Aspose.Slides for C++ API Reference
 description: Translator translates C#'s post-increment expressions targeting class' property that has setter and getter defined, into invocation of this function.
 type: docs
@@ -37,7 +37,7 @@ The value of the property before incrementing
 
 * Namespace [System](../)
 * Library [Aspose.Slides](../../)
-## System::setter_post_increment_wrap([Host](../uricomponents/) *const, T(HostGet::*)(), void(HostSet::*)(T)) function
+## System::setter_post_increment_wrap(Host *const, T(HostGet::*)(), void(HostSet::*)(T)) function
 
 
 Translator translates C#'s post-increment expressions targeting instance's property that has setter and getter defined, into invocation of this function (overload for non-const getter).
@@ -60,7 +60,7 @@ template<typename T,typename Host,typename HostGet,typename HostSet> std::enable
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| host | [Host](../uricomponents/) *const | Instance to call getters and setters for. |
+| host | Host *const | Instance to call getters and setters for. |
 | pGetter | T(HostGet::*)() | Function pointer pointing to the property's getter function |
 | pSetter | void(HostSet::*)(T) | Function pointer pointing to the property's setter function |
 
@@ -70,10 +70,9 @@ The value of the property before incrementing
 
 ## See Also
 
-* Enum [UriComponents](../uricomponents/)
 * Namespace [System](../)
 * Library [Aspose.Slides](../../)
-## System::setter_post_increment_wrap([Host](../uricomponents/) *const, T(HostConstGet::*)() const, void(HostSet::*)(T)) function
+## System::setter_post_increment_wrap(Host *const, T(HostConstGet::*)() const, void(HostSet::*)(T)) function
 
 
 Translator translates C#'s post-increment expressions targeting instance's property that has setter and getter defined, into invocation of this function (overload for const getter).
@@ -96,7 +95,7 @@ template<typename T,typename Host,typename HostConstGet,typename HostSet> std::e
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| host | [Host](../uricomponents/) *const | Instance to call getters and setters for. |
+| host | Host *const | Instance to call getters and setters for. |
 | pGetter | T(HostConstGet::*)() const | Function pointer pointing to the property's getter function |
 | pSetter | void(HostSet::*)(T) | Function pointer pointing to the property's setter function |
 
@@ -106,6 +105,5 @@ The value of the property before incrementing
 
 ## See Also
 
-* Enum [UriComponents](../uricomponents/)
 * Namespace [System](../)
 * Library [Aspose.Slides](../../)

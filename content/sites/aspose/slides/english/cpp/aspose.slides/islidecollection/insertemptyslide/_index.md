@@ -1,12 +1,12 @@
 ---
-title: InsertEmptySlide
+title: InsertEmptySlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts a copy of a specified slide to specified position of the collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/islidecollection/insertemptyslide/
 ---
-## ISlideCollection::InsertEmptySlide method
+## ISlideCollection::InsertEmptySlide(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
 
 
 Inserts a copy of a specified slide to specified position of the collection.

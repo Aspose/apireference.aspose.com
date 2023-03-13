@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes all elements.
 type: docs
 weight: 105
 url: /cpp/system.collections/bitarray/clear/
 ---
-## BitArray::Clear method
+## BitArray::Clear() method
 
 
 Deletes all elements.

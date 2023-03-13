@@ -1,7 +1,7 @@
 ---
 title: OrganizationChartLayoutType
 second_title: Aspose.Slides for C++ API Reference
-description: Represents formatting type the child nodes in an organization chart.
+description: Represents formatting type the child nodes in an organization chart
 type: docs
 weight: 131
 url: /cpp/aspose.slides.smartart/organizationchartlayouttype/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.smartart/organizationchartlayouttype/
 ## OrganizationChartLayoutType enum
 
 
-Represents formatting type the child nodes in an organization chart.
+Represents formatting type the child nodes in an organization chart
 
 ```cpp
 enum class OrganizationChartLayoutType
@@ -19,7 +19,7 @@ enum class OrganizationChartLayoutType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Initial | 0 | Initial layout type. |
+| Initial | 0 | Initial layout type |
 | Standart | 1 | Places child nodes horizontally below the parent node. |
 | BothHanging | 2 | Places child nodes vertically below the parent node on both the left and the right side. |
 | LeftHanging | 3 | Places child nodes vertically below the parent node on the left side. |

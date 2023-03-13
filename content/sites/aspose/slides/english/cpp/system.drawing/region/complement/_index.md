@@ -1,5 +1,5 @@
 ---
-title: Complement
+title: Complement()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces the region represented by the current object with the portion of the region defined by the specified recangle that does not intersect with this region.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all cookies from the collection.
 type: docs
 weight: 92
 url: /cpp/system.net/cookiecollection/clear/
 ---
-## CookieCollection::Clear method
+## CookieCollection::Clear() method
 
 
 Removes all cookies from the collection.

@@ -1,5 +1,5 @@
 ---
-title: FromUtf8
+title: FromUtf8()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates String from utf8 string.
 type: docs

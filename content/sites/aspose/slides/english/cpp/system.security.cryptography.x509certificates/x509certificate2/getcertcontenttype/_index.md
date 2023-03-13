@@ -1,5 +1,5 @@
 ---
-title: GetCertContentType
+title: GetCertContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the type of certificate contained in the specified byte array.
 type: docs

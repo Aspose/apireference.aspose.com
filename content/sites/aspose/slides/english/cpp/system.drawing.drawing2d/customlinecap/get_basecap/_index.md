@@ -1,12 +1,12 @@
 ---
-title: get_BaseCap
+title: get_BaseCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the base line cap from which this custom cap is created.
 type: docs
 weight: 53
 url: /cpp/system.drawing.drawing2d/customlinecap/get_basecap/
 ---
-## CustomLineCap::get_BaseCap method
+## CustomLineCap::get_BaseCap() const method
 
 
 Returns the base line cap from which this custom cap is created.

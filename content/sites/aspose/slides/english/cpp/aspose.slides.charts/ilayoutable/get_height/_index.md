@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the height of the chart element as a fraction of the height of the chart. Read float.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/ilayoutable/get_height/
 ---
-## ILayoutable::get_Height method
+## ILayoutable::get_Height() method
 
 
 Specifies the height of the chart element as a fraction of the height of the chart. Read **float**.

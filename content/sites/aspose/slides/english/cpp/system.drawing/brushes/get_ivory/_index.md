@@ -1,12 +1,12 @@
 ---
-title: get_Ivory
+title: get_Ivory()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFFFFF0.
 type: docs
 weight: 742
 url: /cpp/system.drawing/brushes/get_ivory/
 ---
-## Brushes::get_Ivory method
+## Brushes::get_Ivory() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFFFFF0.

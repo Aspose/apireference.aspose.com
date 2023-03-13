@@ -1,12 +1,12 @@
 ---
-title: get_Modules
+title: get_Modules()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the list of all modules that are contained in the VBA project. Read-only IVbaModuleCollection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.vba/vbaproject/get_modules/
 ---
-## VbaProject::get_Modules method
+## VbaProject::get_Modules() method
 
 
 Returns the list of all modules that are contained in the VBA project. Read-only [IVbaModuleCollection](../../ivbamodulecollection/).

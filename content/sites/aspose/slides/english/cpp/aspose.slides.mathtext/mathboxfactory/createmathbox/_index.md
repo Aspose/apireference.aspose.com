@@ -1,15 +1,15 @@
 ---
-title: CreateMathBox
+title: CreateMathBox()
 second_title: Aspose.Slides for C++ API Reference
-description: Create a math box by applying to the element.
+description: Create a math box by applying to the element
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathboxfactory/createmathbox/
 ---
-## MathBoxFactory::CreateMathBox method
+## MathBoxFactory::CreateMathBox([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Create a math box by applying to the element.
+Create a math box by applying to the element
 
 ```cpp
 System::SharedPtr<IMathBox> Aspose::Slides::MathText::MathBoxFactory::CreateMathBox(System::SharedPtr<IMathElement> element) override

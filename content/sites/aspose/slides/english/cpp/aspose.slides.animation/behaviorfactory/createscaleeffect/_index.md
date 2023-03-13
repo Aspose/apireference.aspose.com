@@ -1,12 +1,12 @@
 ---
-title: CreateScaleEffect
+title: CreateScaleEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates scale effect.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/behaviorfactory/createscaleeffect/
 ---
-## BehaviorFactory::CreateScaleEffect method
+## BehaviorFactory::CreateScaleEffect() method
 
 
 Creates scale effect.

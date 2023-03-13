@@ -1,12 +1,12 @@
 ---
-title: set_Timing
+title: set_Timing()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines timing value for effect. Write ITiming.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.animation/effect/set_timing/
 ---
-## Effect::set_Timing method
+## Effect::set_Timing([System::SharedPtr](../../../system/sharedptr/)\<[ITiming](../../itiming/)\>) method
 
 
 Defines timing value for effect. Write [ITiming](../../itiming/).

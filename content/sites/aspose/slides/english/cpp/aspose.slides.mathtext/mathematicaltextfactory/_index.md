@@ -1,7 +1,7 @@
 ---
 title: MathematicalTextFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a MathematicalText element.
+description: Allows to create a MathematicalText element
 type: docs
 weight: 807
 url: /cpp/aspose.slides.mathtext/mathematicaltextfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathematicaltextfactory/
 ## MathematicalTextFactory class
 
 
-Allows to create a [MathematicalText](../mathematicaltext/) element.
+Allows to create a [MathematicalText](../mathematicaltext/) element
 
 ```cpp
 class MathematicalTextFactory : public Aspose::Slides::MathText::IMathematicalTextFactory
@@ -19,10 +19,10 @@ class MathematicalTextFactory : public Aspose::Slides::MathText::IMathematicalTe
 
 | Method | Description |
 | --- | --- |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathematicalText](../imathematicaltext/)\> [CreateMathematicalText](./createmathematicaltext/)() override | Create empty mathematical text element. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathematicalText](../imathematicaltext/)\> [CreateMathematicalText](./createmathematicaltext/)(char16_t) override | Create mathematical text element with the specified value. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathematicalText](../imathematicaltext/)\> [CreateMathematicalText](./createmathematicaltext/)([System::String](../../system/string/)) override | Create empty mathematical text element with the specified value. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathematicalText](../imathematicaltext/)\> [CreateMathematicalText](./createmathematicaltext/)([System::String](../../system/string/), [System::SharedPtr](../../system/sharedptr/)\<[IPortionFormat](../../aspose.slides/iportionformat/)\>) override | Create empty mathematical text element with the specified value and formatting properties. |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathematicalText](../imathematicaltext/)\> [CreateMathematicalText](./createmathematicaltext/)() override | Create empty mathematical text element |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathematicalText](../imathematicaltext/)\> [CreateMathematicalText](./createmathematicaltext/)(char16_t) override | Create mathematical text element with the specified value |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathematicalText](../imathematicaltext/)\> [CreateMathematicalText](./createmathematicaltext/)([System::String](../../system/string/)) override | Create empty mathematical text element with the specified value |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathematicalText](../imathematicaltext/)\> [CreateMathematicalText](./createmathematicaltext/)([System::String](../../system/string/), [System::SharedPtr](../../system/sharedptr/)\<[IPortionFormat](../../aspose.slides/iportionformat/)\>) override | Create empty mathematical text element with the specified value and formatting properties |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

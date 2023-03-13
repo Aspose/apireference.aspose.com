@@ -1,5 +1,5 @@
 ---
-title: SaveAdd
+title: SaveAdd()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a frame to the file or stream specified in a previous call to the Save() method.
 type: docs

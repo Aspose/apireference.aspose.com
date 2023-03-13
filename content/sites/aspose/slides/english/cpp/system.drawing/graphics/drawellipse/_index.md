@@ -1,5 +1,5 @@
 ---
-title: DrawEllipse
+title: DrawEllipse()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws the specified ellipse using the specified pen on the surface represented by the current object.
 type: docs

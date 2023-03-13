@@ -1,5 +1,5 @@
 ---
-title: EqualityComparerHashAdapter
+title: EqualityComparerHashAdapter()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates adapter with no comparator to use.
 type: docs

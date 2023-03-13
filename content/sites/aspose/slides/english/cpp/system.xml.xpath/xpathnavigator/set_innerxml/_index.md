@@ -1,12 +1,12 @@
 ---
-title: set_InnerXml
+title: set_InnerXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the markup representing the child nodes of the current node.
 type: docs
 weight: 339
 url: /cpp/system.xml.xpath/xpathnavigator/set_innerxml/
 ---
-## XPathNavigator::set_InnerXml method
+## XPathNavigator::set_InnerXml([String](../../../system/string/)) method
 
 
 Sets the markup representing the child nodes of the current node.

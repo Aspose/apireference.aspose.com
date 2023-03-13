@@ -1,12 +1,12 @@
 ---
-title: MoveNext
+title: MoveNext()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves to the next element.
 type: docs
 weight: 53
 url: /cpp/system.globalization/textelementenumerator/movenext/
 ---
-## TextElementEnumerator::MoveNext method
+## TextElementEnumerator::MoveNext() method
 
 
 Moves to the next element.

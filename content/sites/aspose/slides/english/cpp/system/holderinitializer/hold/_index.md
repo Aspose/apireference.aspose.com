@@ -1,12 +1,12 @@
 ---
-title: Hold
+title: Hold()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies passed lvalue to holder, then return the holder reference Caller should use this method to hold passed value unconditionally.
 type: docs
 weight: 27
 url: /cpp/system/holderinitializer/hold/
 ---
-## HolderInitializer::Hold method
+## HolderInitializer::Hold(const T\&) method
 
 
 Copies passed lvalue to holder, then return the holder reference Caller should use this method to hold passed value unconditionally.

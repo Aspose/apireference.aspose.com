@@ -1,12 +1,12 @@
 ---
-title: get_PublicKey
+title: get_PublicKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a sertificate PublicKey object.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_publickey/
 ---
-## X509Certificate2::get_PublicKey method
+## X509Certificate2::get_PublicKey() const method
 
 
 Gets a sertificate [PublicKey](../../publickey/) object.

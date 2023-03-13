@@ -1,12 +1,12 @@
 ---
-title: get_Exportable
+title: get_Exportable()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a flag indicating whether a key can be exported from a container.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/cspkeycontainerinfo/get_exportable/
 ---
-## CspKeyContainerInfo::get_Exportable method
+## CspKeyContainerInfo::get_Exportable() const method
 
 
 Gets a flag indicating whether a key can be exported from a container.

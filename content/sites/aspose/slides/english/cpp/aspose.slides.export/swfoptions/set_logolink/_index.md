@@ -1,12 +1,12 @@
 ---
-title: set_LogoLink
+title: set_LogoLink()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the full hyperlink address for a logo. Has an effect only if a set_LogoImageBytes() is specified.
 type: docs
 weight: 352
 url: /cpp/aspose.slides.export/swfoptions/set_logolink/
 ---
-## SwfOptions::set_LogoLink method
+## SwfOptions::set_LogoLink([System::String](../../../system/string/)) method
 
 
 Sets the full hyperlink address for a logo. Has an effect only if a [set_LogoImageBytes()](../set_logoimagebytes/) is specified.

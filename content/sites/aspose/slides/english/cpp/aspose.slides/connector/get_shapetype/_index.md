@@ -1,12 +1,12 @@
 ---
-title: get_ShapeType
+title: get_ShapeType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the AutoShape type. Read Slides::ShapeType."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/connector/get_shapetype/
 ---
-## Connector::get_ShapeType method
+## Connector::get_ShapeType() method
 
 
 Returns the [AutoShape](../../autoshape/) type. Read [Slides::ShapeType](../../shapetype/).

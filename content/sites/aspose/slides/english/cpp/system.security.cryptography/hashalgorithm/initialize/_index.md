@@ -1,12 +1,12 @@
 ---
-title: Initialize
+title: Initialize()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets hasher into initial state.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/hashalgorithm/initialize/
 ---
-## HashAlgorithm::Initialize method
+## HashAlgorithm::Initialize() method
 
 
 Resets hasher into initial state.

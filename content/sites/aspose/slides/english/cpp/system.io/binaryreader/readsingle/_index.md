@@ -1,12 +1,12 @@
 ---
-title: ReadSingle
+title: ReadSingle()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads 4 bytes from the input stream and returns them as a single-precision floating point value.
 type: docs
 weight: 222
 url: /cpp/system.io/binaryreader/readsingle/
 ---
-## BinaryReader::ReadSingle method
+## BinaryReader::ReadSingle() method
 
 
 Reads 4 bytes from the input stream and returns them as a single-precision floating point value.

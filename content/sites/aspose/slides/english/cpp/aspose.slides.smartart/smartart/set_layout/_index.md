@@ -1,12 +1,12 @@
 ---
-title: set_Layout
+title: set_Layout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets layout of the SmartArt object. Write SmartArtLayoutType.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.smartart/smartart/set_layout/
 ---
-## SmartArt::set_Layout method
+## SmartArt::set_Layout([SmartArtLayoutType](../../smartartlayouttype/)) method
 
 
 Sets layout of the [SmartArt](../) object. Write [SmartArtLayoutType](../../smartartlayouttype/).

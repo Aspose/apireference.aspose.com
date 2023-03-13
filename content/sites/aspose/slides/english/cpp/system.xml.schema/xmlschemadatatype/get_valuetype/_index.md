@@ -1,12 +1,12 @@
 ---
-title: get_ValueType
+title: get_ValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the type of the item.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemadatatype/get_valuetype/
 ---
-## XmlSchemaDatatype::get_ValueType method
+## XmlSchemaDatatype::get_ValueType() method
 
 
 When overridden in a derived class, gets the type of the item.

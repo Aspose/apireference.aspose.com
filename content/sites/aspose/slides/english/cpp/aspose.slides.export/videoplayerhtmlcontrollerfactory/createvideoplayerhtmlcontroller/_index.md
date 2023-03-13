@@ -1,12 +1,12 @@
 ---
-title: CreateVideoPlayerHtmlController
+title: CreateVideoPlayerHtmlController()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new VideoPlayerHtmlController.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/videoplayerhtmlcontrollerfactory/createvideoplayerhtmlcontroller/
 ---
-## VideoPlayerHtmlControllerFactory::CreateVideoPlayerHtmlController method
+## VideoPlayerHtmlControllerFactory::CreateVideoPlayerHtmlController([System::String](../../../system/string/), [System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Creates new **[VideoPlayerHtmlController](../../videoplayerhtmlcontroller/)**.

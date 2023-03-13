@@ -1,12 +1,12 @@
 ---
-title: get_PageScale
+title: get_PageScale()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the scaling between world units and page units for the current Graphics object.
 type: docs
 weight: 560
 url: /cpp/system.drawing/graphics/get_pagescale/
 ---
-## Graphics::get_PageScale method
+## Graphics::get_PageScale() const method
 
 
 Returns the scaling between world units and page units for the current [Graphics](../) object.

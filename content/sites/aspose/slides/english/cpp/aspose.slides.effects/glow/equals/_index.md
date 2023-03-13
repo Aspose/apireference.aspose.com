@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified Glow is equal to the current Glow.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/glow/equals/
 ---
-## Glow::Equals method
+## Glow::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [Glow](../) is equal to the current [Glow](../).

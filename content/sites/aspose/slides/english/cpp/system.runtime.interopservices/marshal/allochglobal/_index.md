@@ -1,5 +1,5 @@
 ---
-title: AllocHGlobal
+title: AllocHGlobal()
 second_title: Aspose.Slides for C++ API Reference
 description: Allocates unmanaged memory.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: WriteComment
+title: WriteComment()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes out a comment  containing the specified text.
 type: docs
 weight: 313
 url: /cpp/system.xml/xmltextwriter/writecomment/
 ---
-## XmlTextWriter::WriteComment method
+## XmlTextWriter::WriteComment([String](../../../system/string/)) method
 
 
 Writes out a comment **** containing the specified text.

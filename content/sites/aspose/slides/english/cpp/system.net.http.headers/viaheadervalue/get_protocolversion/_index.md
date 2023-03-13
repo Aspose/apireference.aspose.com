@@ -1,12 +1,12 @@
 ---
-title: get_ProtocolVersion
+title: get_ProtocolVersion()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the protocol version from the 'Via' header value.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/viaheadervalue/get_protocolversion/
 ---
-## ViaHeaderValue::get_ProtocolVersion method
+## ViaHeaderValue::get_ProtocolVersion() method
 
 
 Returns the protocol version from the 'Via' header value.

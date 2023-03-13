@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all controls from the collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/icontrolcollection/clear/
 ---
-## IControlCollection::Clear method
+## IControlCollection::Clear() method
 
 
 Removes all controls from the collection.

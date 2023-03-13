@@ -1,12 +1,12 @@
 ---
-title: get_EnumType
+title: get_EnumType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enum type EnumConverter is working with; not implemented.
 type: docs
 weight: 66
 url: /cpp/system.componentmodel/enumconverter/get_enumtype/
 ---
-## EnumConverter::get_EnumType method
+## EnumConverter::get_EnumType() method
 
 
 Gets enum type [EnumConverter](../) is working with; not implemented.

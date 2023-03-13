@@ -1,5 +1,5 @@
 ---
-title: CreateNode
+title: CreateNode()
 second_title: Aspose.Slides for C++ API Reference
 description: "Creates a XmlNode with the specified XmlNodeType, XmlNode::get_Prefix, XmlDocument::get_Name, and XmlNode::get_NamespaceURI."
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: ReadContentAsObject
+title: ReadContentAsObject()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the text content at the current position as an Object.
 type: docs
 weight: 326
 url: /cpp/system.xml/xmlreader/readcontentasobject/
 ---
-## XmlReader::ReadContentAsObject method
+## XmlReader::ReadContentAsObject() method
 
 
 Reads the text content at the current position as an [Object](../../../system/object/).

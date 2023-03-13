@@ -1,12 +1,12 @@
 ---
-title: RemoveNotesSlide
+title: RemoveNotesSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes notes slide of the current slide.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/inotesslidemanager/removenotesslide/
 ---
-## INotesSlideManager::RemoveNotesSlide method
+## INotesSlideManager::RemoveNotesSlide() method
 
 
 Removes notes slide of the current slide.

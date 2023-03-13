@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Duotone effect data with the inheritance applied.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/duotone/geteffective/
 ---
-## Duotone::GetEffective method
+## Duotone::GetEffective() method
 
 
 Gets effective [Duotone](../) effect data with the inheritance applied.

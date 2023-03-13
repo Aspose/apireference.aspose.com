@@ -1,12 +1,12 @@
 ---
-title: get_NumberFormat
+title: get_NumberFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number format information.
 type: docs
 weight: 261
 url: /cpp/system.globalization/cultureinfo/get_numberformat/
 ---
-## CultureInfo::get_NumberFormat method
+## CultureInfo::get_NumberFormat() const method
 
 
 Gets number format information.

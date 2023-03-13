@@ -1,12 +1,12 @@
 ---
-title: InsertGroupShape
+title: InsertGroupShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new GroupShape and inserts it to the collection at the specified index. GroupShape frame size and position will be fitted to content when new shape will be added into the GroupShape.
 type: docs
 weight: 365
 url: /cpp/aspose.slides/ishapecollection/insertgroupshape/
 ---
-## IShapeCollection::InsertGroupShape method
+## IShapeCollection::InsertGroupShape(**int32_t**) method
 
 
 Creates a new [GroupShape](../../groupshape/) and inserts it to the collection at the specified index. [GroupShape](../../groupshape/) frame size and position will be fitted to content when new shape will be added into the [GroupShape](../../groupshape/).

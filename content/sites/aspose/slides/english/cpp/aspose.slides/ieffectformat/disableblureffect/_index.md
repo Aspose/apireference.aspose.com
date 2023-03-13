@@ -1,12 +1,12 @@
 ---
-title: DisableBlurEffect
+title: DisableBlurEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables blur effect.
 type: docs
 weight: 326
 url: /cpp/aspose.slides/ieffectformat/disableblureffect/
 ---
-## IEffectFormat::DisableBlurEffect method
+## IEffectFormat::DisableBlurEffect() method
 
 
 Disables blur effect.

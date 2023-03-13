@@ -1,12 +1,12 @@
 ---
-title: get_Default
+title: get_Default()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets default encoding.
 type: docs
 weight: 521
 url: /cpp/system.text/encoding/get_default/
 ---
-## Encoding::get_Default method
+## Encoding::get_Default() method
 
 
 Gets default encoding.

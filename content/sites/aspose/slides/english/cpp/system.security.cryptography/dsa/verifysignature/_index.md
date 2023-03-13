@@ -1,12 +1,12 @@
 ---
-title: VerifySignature
+title: VerifySignature()
 second_title: Aspose.Slides for C++ API Reference
 description: Verify DSA signature for the specified data.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/dsa/verifysignature/
 ---
-## DSA::VerifySignature method
+## DSA::VerifySignature([ByteArrayPtr](../../../system/bytearrayptr/), [ByteArrayPtr](../../../system/bytearrayptr/)) method
 
 
 Verify [DSA](../) signature for the specified data.

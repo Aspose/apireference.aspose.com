@@ -1,5 +1,5 @@
 ---
-title: PointF
+title: PointF()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new PointF object and initializes its X and Y coordinates values with 0.
 type: docs

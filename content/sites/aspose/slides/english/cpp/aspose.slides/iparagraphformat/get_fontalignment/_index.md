@@ -1,12 +1,12 @@
 ---
-title: get_FontAlignment
+title: get_FontAlignment()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a font alignment in a paragraph with no inheritance. Read Slides::FontAlignment."
 type: docs
 weight: 365
 url: /cpp/aspose.slides/iparagraphformat/get_fontalignment/
 ---
-## IParagraphFormat::get_FontAlignment method
+## IParagraphFormat::get_FontAlignment() method
 
 
 Returns a font alignment in a paragraph with no inheritance. Read [Slides::FontAlignment](../../fontalignment/).

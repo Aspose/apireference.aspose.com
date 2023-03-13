@@ -1,12 +1,12 @@
 ---
-title: get_Connection
+title: get_Connection()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Connection' header.
 type: docs
 weight: 430
 url: /cpp/system.net.http.headers/httprequestheaders/get_connection/
 ---
-## HttpRequestHeaders::get_Connection method
+## HttpRequestHeaders::get_Connection() method
 
 
 Returns a value of the 'Connection' header.

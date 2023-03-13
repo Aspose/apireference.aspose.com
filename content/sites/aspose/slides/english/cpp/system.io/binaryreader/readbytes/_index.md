@@ -1,12 +1,12 @@
 ---
-title: ReadBytes
+title: ReadBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the specified number of bytes from the input stream.
 type: docs
 weight: 105
 url: /cpp/system.io/binaryreader/readbytes/
 ---
-## BinaryReader::ReadBytes method
+## BinaryReader::ReadBytes(int) method
 
 
 Reads the specified number of bytes from the input stream.

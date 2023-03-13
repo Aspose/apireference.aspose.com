@@ -1,12 +1,12 @@
 ---
-title: VerifyName
+title: VerifyName()
 second_title: Aspose.Slides for C++ API Reference
 description: Verifies that the name is a valid name according to the W3C Extended Markup Language recommendation.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlconvert/verifyname/
 ---
-## XmlConvert::VerifyName method
+## XmlConvert::VerifyName(const [String](../../../system/string/)\&) method
 
 
 Verifies that the name is a valid name according to the W3C Extended Markup Language recommendation.

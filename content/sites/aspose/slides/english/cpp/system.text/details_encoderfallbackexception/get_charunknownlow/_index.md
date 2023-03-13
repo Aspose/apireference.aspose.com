@@ -1,12 +1,12 @@
 ---
-title: get_CharUnknownLow
+title: get_CharUnknownLow()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets low character of pair that triggered error.
 type: docs
 weight: 27
 url: /cpp/system.text/details_encoderfallbackexception/get_charunknownlow/
 ---
-## Details_EncoderFallbackException::get_CharUnknownLow method
+## Details_EncoderFallbackException::get_CharUnknownLow() method
 
 
 Gets low character of pair that triggered error.

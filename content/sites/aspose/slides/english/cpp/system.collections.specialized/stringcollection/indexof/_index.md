@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Looks for specific string in container.
 type: docs
 weight: 144
 url: /cpp/system.collections.specialized/stringcollection/indexof/
 ---
-## StringCollection::IndexOf method
+## StringCollection::IndexOf(const [System::String](../../../system/string/)\&) const method
 
 
 Looks for specific string in container.

@@ -1,12 +1,12 @@
 ---
-title: HttpContentHeaders
+title: HttpContentHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 248
 url: /cpp/system.net.http.headers/httpcontentheaders/httpcontentheaders/
 ---
-## HttpContentHeaders::HttpContentHeaders constructor
+## HttpContentHeaders::HttpContentHeaders([HeaderFunc](../../headerfunc/)\<[Nullable](../../../system/nullable/)\<**int64_t**\>\>) constructor
 
 
 Constructs a new instance.

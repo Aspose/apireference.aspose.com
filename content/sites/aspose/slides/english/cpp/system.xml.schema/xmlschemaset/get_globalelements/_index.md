@@ -1,12 +1,12 @@
 ---
-title: get_GlobalElements
+title: get_GlobalElements()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns all the global elements in all the XML Schema definition language (XSD) schemas in the XmlSchemaSet.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemaset/get_globalelements/
 ---
-## XmlSchemaSet::get_GlobalElements method
+## XmlSchemaSet::get_GlobalElements() method
 
 
 Returns all the global elements in all the XML [Schema](../../) definition language (XSD) schemas in the [XmlSchemaSet](../).

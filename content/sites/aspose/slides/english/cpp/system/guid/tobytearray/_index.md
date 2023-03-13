@@ -1,12 +1,12 @@
 ---
-title: ToByteArray
+title: ToByteArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the GUID represented by the current object into array of bytes.
 type: docs
 weight: 66
 url: /cpp/system/guid/tobytearray/
 ---
-## Guid::ToByteArray method
+## Guid::ToByteArray() const method
 
 
 Converts the GUID represented by the current object into array of bytes.

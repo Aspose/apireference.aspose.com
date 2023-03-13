@@ -1,12 +1,12 @@
 ---
-title: FromBase64CharArray
+title: FromBase64CharArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Decodes base-64 encoded data represented as a range in the array of Unicode characters.
 type: docs
 weight: 53
 url: /cpp/system/convert/frombase64chararray/
 ---
-## Convert::FromBase64CharArray method
+## Convert::FromBase64CharArray(const [ArrayPtr](../../arrayptr/)\<char_t\>\&, int, int) method
 
 
 Decodes base-64 encoded data represented as a range in the array of Unicode characters.

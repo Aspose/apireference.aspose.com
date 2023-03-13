@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes element from set.
 type: docs
 weight: 118
 url: /cpp/system.collections.generic/hashset/remove/
 ---
-## HashSet::Remove method
+## HashSet::Remove(const T\&) method
 
 
 Removes element from set.

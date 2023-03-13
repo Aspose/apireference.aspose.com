@@ -1,12 +1,12 @@
 ---
-title: Color
+title: Color()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an \"empty\" instance of Color class that does not represent any color.
 type: docs
 weight: 1
 url: /cpp/system.drawing/color/color/
 ---
-## Color::Color constructor
+## Color::Color() constructor
 
 
 Constructs an \"empty\" instance of [Color](../) class that does not represent any color.

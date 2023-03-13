@@ -1,12 +1,12 @@
 ---
-title: FromWCS
+title: FromWCS()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates String from widestring.
 type: docs
 weight: 872
 url: /cpp/system/string/fromwcs/
 ---
-## String::FromWCS method
+## String::FromWCS(const std::wstring\&) method
 
 
 Creates [String](../) from widestring.

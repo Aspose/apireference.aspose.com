@@ -1,12 +1,12 @@
 ---
-title: get_DarkOrange
+title: get_DarkOrange()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFF8C00.
 type: docs
 weight: 378
 url: /cpp/system.drawing/brushes/get_darkorange/
 ---
-## Brushes::get_DarkOrange method
+## Brushes::get_DarkOrange() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFF8C00.

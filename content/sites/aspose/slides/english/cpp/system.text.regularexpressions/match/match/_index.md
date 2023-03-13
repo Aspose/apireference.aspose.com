@@ -1,12 +1,12 @@
 ---
-title: Match
+title: Match()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.text.regularexpressions/match/match/
 ---
-## Match::Match constructor
+## Match::Match(const [UStringPtr](../../ustringptr/)\&, int, int) constructor
 
 
 Constructor.

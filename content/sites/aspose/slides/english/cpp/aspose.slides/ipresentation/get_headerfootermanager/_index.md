@@ -1,12 +1,12 @@
 ---
-title: get_HeaderFooterManager
+title: get_HeaderFooterManager()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns HeaderFooter manager of the presentation. Read-only IPresentationHeaderFooterManager.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ipresentation/get_headerfootermanager/
 ---
-## IPresentation::get_HeaderFooterManager method
+## IPresentation::get_HeaderFooterManager() method
 
 
 Returns HeaderFooter manager of the presentation. Read-only [IPresentationHeaderFooterManager](../../ipresentationheaderfootermanager/).

@@ -1,5 +1,5 @@
 ---
-title: AddBeziers
+title: AddBeziers()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a sequence of connected cubic Bezier curves to the current figure.
 type: docs

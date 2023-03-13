@@ -1,12 +1,12 @@
 ---
-title: get_PatternFormat
+title: get_PatternFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the pattern fill format. Read-only IPatternFormatEffectiveData.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ifillformateffectivedata/get_patternformat/
 ---
-## IFillFormatEffectiveData::get_PatternFormat method
+## IFillFormatEffectiveData::get_PatternFormat() method
 
 
 Returns the pattern fill format. Read-only [IPatternFormatEffectiveData](../../ipatternformateffectivedata/).

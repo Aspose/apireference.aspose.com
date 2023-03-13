@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts key-value pair to string.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/keyvaluepair/tostring/
 ---
-## KeyValuePair::ToString method
+## KeyValuePair::ToString() const method
 
 
 Converts key-value pair to string.

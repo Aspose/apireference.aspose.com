@@ -1,12 +1,12 @@
 ---
-title: set_PaperName
+title: set_PaperName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the type of paper.
 type: docs
 weight: 66
 url: /cpp/system.drawing.printing/papersize/set_papername/
 ---
-## PaperSize::set_PaperName method
+## PaperSize::set_PaperName([System::String](../../../system/string/)) method
 
 
 Sets the name of the type of paper.

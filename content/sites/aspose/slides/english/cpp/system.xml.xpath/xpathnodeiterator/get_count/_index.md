@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the index of the last node in the selected set of nodes.
 type: docs
 weight: 27
 url: /cpp/system.xml.xpath/xpathnodeiterator/get_count/
 ---
-## XPathNodeIterator::get_Count method
+## XPathNodeIterator::get_Count() method
 
 
 Returns the index of the last node in the selected set of nodes.

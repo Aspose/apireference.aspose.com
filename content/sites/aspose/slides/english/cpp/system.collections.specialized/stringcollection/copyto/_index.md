@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copy elements to existing arra elements.
 type: docs
 weight: 105
 url: /cpp/system.collections.specialized/stringcollection/copyto/
 ---
-## StringCollection::CopyTo method
+## StringCollection::CopyTo(const [ArrayPtr](../../../system/arrayptr/)\<[System::String](../../../system/string/)\>\&, const **int32_t**) const method
 
 
 Copy elements to existing arra elements.

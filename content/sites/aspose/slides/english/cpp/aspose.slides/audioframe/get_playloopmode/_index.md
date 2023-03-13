@@ -1,12 +1,12 @@
 ---
-title: get_PlayLoopMode
+title: get_PlayLoopMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an audio is looped. Read bool.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/audioframe/get_playloopmode/
 ---
-## AudioFrame::get_PlayLoopMode method
+## AudioFrame::get_PlayLoopMode() method
 
 
 Determines whether an audio is looped. Read **bool**.

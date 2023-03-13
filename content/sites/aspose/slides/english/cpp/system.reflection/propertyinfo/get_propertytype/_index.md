@@ -1,12 +1,12 @@
 ---
-title: get_PropertyType
+title: get_PropertyType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets property type.
 type: docs
 weight: 27
 url: /cpp/system.reflection/propertyinfo/get_propertytype/
 ---
-## PropertyInfo::get_PropertyType method
+## PropertyInfo::get_PropertyType() method
 
 
 Gets property type.

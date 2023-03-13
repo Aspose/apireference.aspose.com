@@ -1,12 +1,12 @@
 ---
-title: get_BubbleSizeRepresentation
+title: get_BubbleSizeRepresentation()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies how the bubble size values are represented on the bubble chart. Read BubbleSizeRepresentationType.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.charts/chartseriesgroup/get_bubblesizerepresentation/
 ---
-## ChartSeriesGroup::get_BubbleSizeRepresentation method
+## ChartSeriesGroup::get_BubbleSizeRepresentation() method
 
 
 Specifies how the bubble size values are represented on the bubble chart. Read [BubbleSizeRepresentationType](../../bubblesizerepresentationtype/).

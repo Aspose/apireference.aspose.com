@@ -1,12 +1,12 @@
 ---
-title: get_Status
+title: get_Status()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the status of the comment. Read ModernCommentStatus.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/imoderncomment/get_status/
 ---
-## IModernComment::get_Status method
+## IModernComment::get_Status() method
 
 
 Returns the status of the comment. Read [ModernCommentStatus](../../moderncommentstatus/).

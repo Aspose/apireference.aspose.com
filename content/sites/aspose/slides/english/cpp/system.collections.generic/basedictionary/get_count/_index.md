@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets elements count.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/basedictionary/get_count/
 ---
-## BaseDictionary::get_Count method
+## BaseDictionary::get_Count() const method
 
 
 Gets elements count.

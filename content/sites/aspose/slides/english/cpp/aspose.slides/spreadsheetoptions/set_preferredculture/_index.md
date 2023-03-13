@@ -1,12 +1,12 @@
 ---
-title: set_PreferredCulture
+title: set_PreferredCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets preferred culture information for calculating some functions intended for use with languages that use the double-byte character set (DBCS).
 type: docs
 weight: 14
 url: /cpp/aspose.slides/spreadsheetoptions/set_preferredculture/
 ---
-## SpreadsheetOptions::set_PreferredCulture method
+## SpreadsheetOptions::set_PreferredCulture([System::SharedPtr](../../../system/sharedptr/)\<[System::Globalization::CultureInfo](../../../system.globalization/cultureinfo/)\>) method
 
 
 Sets preferred culture information for calculating some functions intended for use with languages that use the double-byte character set (DBCS).

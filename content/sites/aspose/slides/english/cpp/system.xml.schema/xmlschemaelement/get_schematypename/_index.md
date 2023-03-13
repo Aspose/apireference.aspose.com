@@ -1,12 +1,12 @@
 ---
-title: get_SchemaTypeName
+title: get_SchemaTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of a built-in data type defined in this schema or another schema indicated by the specified namespace.
 type: docs
 weight: 261
 url: /cpp/system.xml.schema/xmlschemaelement/get_schematypename/
 ---
-## XmlSchemaElement::get_SchemaTypeName method
+## XmlSchemaElement::get_SchemaTypeName() method
 
 
 Returns the name of a built-in data type defined in this schema or another schema indicated by the specified namespace.

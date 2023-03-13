@@ -1,12 +1,12 @@
 ---
-title: set_DefaultValue
+title: set_DefaultValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the default value for the attribute.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaattribute/set_defaultvalue/
 ---
-## XmlSchemaAttribute::set_DefaultValue method
+## XmlSchemaAttribute::set_DefaultValue(const [String](../../../system/string/)\&) method
 
 
 Sets the default value for the attribute.

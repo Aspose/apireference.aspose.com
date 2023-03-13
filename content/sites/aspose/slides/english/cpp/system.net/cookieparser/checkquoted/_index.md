@@ -1,12 +1,12 @@
 ---
-title: CheckQuoted
+title: CheckQuoted()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the specified string is wrapped in the quotes.
 type: docs
 weight: 53
 url: /cpp/system.net/cookieparser/checkquoted/
 ---
-## CookieParser::CheckQuoted method
+## CookieParser::CheckQuoted([String](../../../system/string/)) method
 
 
 Checks if the specified string is wrapped in the quotes.

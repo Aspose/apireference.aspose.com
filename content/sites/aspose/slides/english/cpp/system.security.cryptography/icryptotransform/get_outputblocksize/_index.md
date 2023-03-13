@@ -1,12 +1,12 @@
 ---
-title: get_OutputBlockSize
+title: get_OutputBlockSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Output block size.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/icryptotransform/get_outputblocksize/
 ---
-## ICryptoTransform::get_OutputBlockSize method
+## ICryptoTransform::get_OutputBlockSize() method
 
 
 Output block size.

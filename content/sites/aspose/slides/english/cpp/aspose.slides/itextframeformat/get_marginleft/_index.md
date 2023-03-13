@@ -1,12 +1,12 @@
 ---
-title: get_MarginLeft
+title: get_MarginLeft()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the left margin (points) in a TextFrame. Read double.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/itextframeformat/get_marginleft/
 ---
-## ITextFrameFormat::get_MarginLeft method
+## ITextFrameFormat::get_MarginLeft() method
 
 
 Returns the left margin (points) in a [TextFrame](../../textframe/). Read **double**.

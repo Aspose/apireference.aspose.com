@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data/datarelationcollection/getenumerator/
 ---
-## DataRelationCollection::GetEnumerator method
+## DataRelationCollection::GetEnumerator() method
 
 
 RTTI information.

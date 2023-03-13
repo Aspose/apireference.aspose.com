@@ -1,12 +1,12 @@
 ---
-title: get_RectangleAlign
+title: get_RectangleAlign()
 second_title: Aspose.Slides for C++ API Reference
 description: Rectangle alignment. Read RectangleAlignment.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.effects/reflection/get_rectanglealign/
 ---
-## Reflection::get_RectangleAlign method
+## Reflection::get_RectangleAlign() method
 
 
 Rectangle alignment. Read [RectangleAlignment](../../../aspose.slides/rectanglealignment/).

@@ -1,12 +1,12 @@
 ---
-title: CheckDiffForAny
+title: CheckDiffForAny()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks that any collection element adheres the predicate.
 type: docs
 weight: 27
 url: /cpp/system/collectionasserthelper/checkdiffforany/
 ---
-## CollectionAssertHelper::CheckDiffForAny method
+## CollectionAssertHelper::CheckDiffForAny(const std::function\<**bool**(int)>\&, const [System::SharedPtr](../../sharedptr/)\<[System::Collections::Generic::ICollection](../../../system.collections.generic/icollection/)\<**int32_t**\>\>\&) method
 
 
 Checks that any collection element adheres the predicate.

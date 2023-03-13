@@ -1,12 +1,12 @@
 ---
-title: ReadString
+title: ReadString()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the contents of an element or a text node as a string.
 type: docs
 weight: 690
 url: /cpp/system.xml/xmltextreader/readstring/
 ---
-## XmlTextReader::ReadString method
+## XmlTextReader::ReadString() method
 
 
 Reads the contents of an element or a text node as a string.

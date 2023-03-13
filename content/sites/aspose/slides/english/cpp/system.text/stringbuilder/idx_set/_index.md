@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets character at specified position.
 type: docs
 weight: 105
 url: /cpp/system.text/stringbuilder/idx_set/
 ---
-## StringBuilder::idx_set method
+## StringBuilder::idx_set(int, char_t) method
 
 
 Sets character at specified position.

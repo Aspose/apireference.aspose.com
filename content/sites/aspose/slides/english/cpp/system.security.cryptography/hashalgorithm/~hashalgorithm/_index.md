@@ -1,12 +1,12 @@
 ---
-title: ~HashAlgorithm
+title: ~HashAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/hashalgorithm/~hashalgorithm/
 ---
-## HashAlgorithm::~HashAlgorithm method
+## HashAlgorithm::~HashAlgorithm() method
 
 
 Destructor.

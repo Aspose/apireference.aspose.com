@@ -1,12 +1,12 @@
 ---
-title: get_CustomData
+title: get_CustomData()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the presentation's custom data. Read-only ICustomData.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/presentation/get_customdata/
 ---
-## Presentation::get_CustomData method
+## Presentation::get_CustomData() method
 
 
 Returns the presentation's custom data. Read-only [ICustomData](../../icustomdata/).

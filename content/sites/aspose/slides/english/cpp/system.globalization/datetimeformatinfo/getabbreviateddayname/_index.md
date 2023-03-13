@@ -1,12 +1,12 @@
 ---
-title: GetAbbreviatedDayName
+title: GetAbbreviatedDayName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets abbreviated week day name.
 type: docs
 weight: 638
 url: /cpp/system.globalization/datetimeformatinfo/getabbreviateddayname/
 ---
-## DateTimeFormatInfo::GetAbbreviatedDayName method
+## DateTimeFormatInfo::GetAbbreviatedDayName([DayOfWeek](../../../system/dayofweek/)) const method
 
 
 Gets abbreviated week day name.

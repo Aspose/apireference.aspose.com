@@ -1,12 +1,12 @@
 ---
-title: get_SupportsDaylightSavingTime
+title: get_SupportsDaylightSavingTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets flag indicating if time zone has daylight saving time rules.
 type: docs
 weight: 170
 url: /cpp/system/timezoneinfo/get_supportsdaylightsavingtime/
 ---
-## TimeZoneInfo::get_SupportsDaylightSavingTime method
+## TimeZoneInfo::get_SupportsDaylightSavingTime() const method
 
 
 Gets flag indicating if time zone has daylight saving time rules.

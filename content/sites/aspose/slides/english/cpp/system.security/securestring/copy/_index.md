@@ -1,12 +1,12 @@
 ---
-title: Copy
+title: Copy()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a duplicate of this secure string.
 type: docs
 weight: 79
 url: /cpp/system.security/securestring/copy/
 ---
-## SecureString::Copy method
+## SecureString::Copy() const method
 
 
 Creates a duplicate of this secure string.

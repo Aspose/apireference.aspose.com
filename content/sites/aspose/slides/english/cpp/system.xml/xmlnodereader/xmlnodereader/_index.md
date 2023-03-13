@@ -1,12 +1,12 @@
 ---
-title: XmlNodeReader
+title: XmlNodeReader()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an instance of the XmlNodeReader class using the specified XmlNode.
 type: docs
 weight: 274
 url: /cpp/system.xml/xmlnodereader/xmlnodereader/
 ---
-## XmlNodeReader::XmlNodeReader constructor
+## XmlNodeReader::XmlNodeReader(const [SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>\&) constructor
 
 
 Creates an instance of the [XmlNodeReader](../) class using the specified [XmlNode](../../xmlnode/).

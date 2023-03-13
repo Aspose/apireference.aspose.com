@@ -1,12 +1,12 @@
 ---
-title: get_Sound
+title: get_Sound()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the playing sound of the hyperlink. Read IAudio.
 type: docs
 weight: 170
 url: /cpp/aspose.slides/ihyperlink/get_sound/
 ---
-## IHyperlink::get_Sound method
+## IHyperlink::get_Sound() method
 
 
 Represents the playing sound of the hyperlink. Read [IAudio](../../iaudio/).

@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Frees data associated with object.
 type: docs
 weight: 235
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/dispose/
 ---
-## DSACryptoServiceProvider::Dispose method
+## DSACryptoServiceProvider::Dispose() method
 
 
 Frees data associated with object.

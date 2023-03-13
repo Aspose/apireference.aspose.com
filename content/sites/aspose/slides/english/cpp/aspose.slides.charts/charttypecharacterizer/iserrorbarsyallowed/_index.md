@@ -1,12 +1,12 @@
 ---
-title: IsErrorBarsYAllowed
+title: IsErrorBarsYAllowed()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns if error bars Y allowed for specified series type.
 type: docs
 weight: 261
 url: /cpp/aspose.slides.charts/charttypecharacterizer/iserrorbarsyallowed/
 ---
-## ChartTypeCharacterizer::IsErrorBarsYAllowed method
+## ChartTypeCharacterizer::IsErrorBarsYAllowed([ChartType](../../charttype/)) method
 
 
 Returns if error bars Y allowed for specified series type.

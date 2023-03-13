@@ -1,12 +1,12 @@
 ---
-title: set_AddClipboardFragmentHeader
+title: set_AddClipboardFragmentHeader()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets value, indicating if Clipboard headers should be added. Write bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/texttohtmlconversionoptions/set_addclipboardfragmentheader/
 ---
-## TextToHtmlConversionOptions::set_AddClipboardFragmentHeader method
+## TextToHtmlConversionOptions::set_AddClipboardFragmentHeader(**bool**) method
 
 
 Sets value, indicating if Clipboard headers should be added. Write **bool**.

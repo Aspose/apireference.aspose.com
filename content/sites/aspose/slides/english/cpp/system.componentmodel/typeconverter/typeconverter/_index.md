@@ -1,12 +1,12 @@
 ---
-title: TypeConverter
+title: TypeConverter()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/typeconverter/typeconverter/
 ---
-## TypeConverter::TypeConverter constructor
+## TypeConverter::TypeConverter() constructor
 
 
 Constructor.

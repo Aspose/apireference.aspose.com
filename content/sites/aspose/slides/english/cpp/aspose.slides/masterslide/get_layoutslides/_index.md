@@ -1,12 +1,12 @@
 ---
-title: get_LayoutSlides
+title: get_LayoutSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of child layout slides for this master slide. Read-only IMasterLayoutSlideCollection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/masterslide/get_layoutslides/
 ---
-## MasterSlide::get_LayoutSlides method
+## MasterSlide::get_LayoutSlides() method
 
 
 Returns the collection of child layout slides for this master slide. Read-only [IMasterLayoutSlideCollection](../../imasterlayoutslidecollection/).

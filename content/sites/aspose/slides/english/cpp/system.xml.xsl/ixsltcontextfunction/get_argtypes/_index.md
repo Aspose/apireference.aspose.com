@@ -1,12 +1,12 @@
 ---
-title: get_ArgTypes
+title: get_ArgTypes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the supplied XML Path Language (XPath) types for the function's argument list. This information can be used to discover the signature of the function which allows you to differentiate between overloaded functions.
 type: docs
 weight: 40
 url: /cpp/system.xml.xsl/ixsltcontextfunction/get_argtypes/
 ---
-## IXsltContextFunction::get_ArgTypes method
+## IXsltContextFunction::get_ArgTypes() method
 
 
 Returns the supplied XML Path Language ([XPath](../../../system.xml.xpath/)) types for the function's argument list. This information can be used to discover the signature of the function which allows you to differentiate between overloaded functions.

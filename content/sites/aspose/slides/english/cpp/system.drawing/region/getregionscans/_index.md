@@ -1,12 +1,12 @@
 ---
-title: GetRegionScans
+title: GetRegionScans()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array of RectangleF structures that approximate this Region after the specified matrix transformation is applied.
 type: docs
 weight: 27
 url: /cpp/system.drawing/region/getregionscans/
 ---
-## Region::GetRegionScans method
+## Region::GetRegionScans(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::Matrix](../../../system.drawing.drawing2d/matrix/)\>\&) const method
 
 
 Returns an array of [RectangleF](../../rectanglef/) structures that approximate this [Region](../) after the specified matrix transformation is applied.

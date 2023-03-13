@@ -1,12 +1,12 @@
 ---
-title: cend
+title: cend()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an iterator to the element following the last element of the container. This element acts as a placeholder; attempting to access it results in undefined behavior.
 type: docs
 weight: 443
 url: /cpp/system/array/cend/
 ---
-## Array::cend method
+## Array::cend() const method
 
 
 Returns an iterator to the element following the last element of the container. This element acts as a placeholder; attempting to access it results in undefined behavior.

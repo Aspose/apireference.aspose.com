@@ -1,12 +1,12 @@
 ---
-title: GetViaLength
+title: GetViaLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified index to an instance of the ViaHeaderValue class.
 type: docs
 weight: 131
 url: /cpp/system.net.http.headers/viaheadervalue/getvialength/
 ---
-## ViaHeaderValue::GetViaLength method
+## ViaHeaderValue::GetViaLength([String](../../../system/string/), **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 Converts a passed string from the specified index to an instance of the [ViaHeaderValue](../) class.

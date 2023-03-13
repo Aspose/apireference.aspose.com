@@ -1,12 +1,12 @@
 ---
-title: ReadAttributeValue
+title: ReadAttributeValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Parses the attribute value into one or more Text, EntityReference, or EndEntity nodes.
 type: docs
 weight: 560
 url: /cpp/system.xml/xmltextreader/readattributevalue/
 ---
-## XmlTextReader::ReadAttributeValue method
+## XmlTextReader::ReadAttributeValue() method
 
 
 Parses the attribute value into one or more **[Text](../../../system.text/)**, **EntityReference**, or **EndEntity** nodes.

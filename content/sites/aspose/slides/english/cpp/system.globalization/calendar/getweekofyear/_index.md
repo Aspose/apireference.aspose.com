@@ -1,12 +1,12 @@
 ---
-title: GetWeekOfYear
+title: GetWeekOfYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets week of the year for the specified time point.
 type: docs
 weight: 352
 url: /cpp/system.globalization/calendar/getweekofyear/
 ---
-## Calendar::GetWeekOfYear method
+## Calendar::GetWeekOfYear([DateTime](../../../system/datetime/), [CalendarWeekRule](../../calendarweekrule/), [DayOfWeek](../../../system/dayofweek/)) const method
 
 
 Gets week of the year for the specified time point.

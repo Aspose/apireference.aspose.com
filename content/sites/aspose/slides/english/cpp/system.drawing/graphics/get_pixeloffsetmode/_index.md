@@ -1,12 +1,12 @@
 ---
-title: get_PixelOffsetMode
+title: get_PixelOffsetMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates how the pixels are offset during rendering on the surface represented by the current object.
 type: docs
 weight: 118
 url: /cpp/system.drawing/graphics/get_pixeloffsetmode/
 ---
-## Graphics::get_PixelOffsetMode method
+## Graphics::get_PixelOffsetMode() method
 
 
 Returns a value that indicates how the pixels are offset during rendering on the surface represented by the current object.

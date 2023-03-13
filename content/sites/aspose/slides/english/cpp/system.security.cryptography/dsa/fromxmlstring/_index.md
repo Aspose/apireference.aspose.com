@@ -1,12 +1,12 @@
 ---
-title: FromXmlString
+title: FromXmlString()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes object using XML-encoded parameters.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/dsa/fromxmlstring/
 ---
-## DSA::FromXmlString method
+## DSA::FromXmlString([String](../../../system/string/)) method
 
 
 Initializes object using XML-encoded parameters.

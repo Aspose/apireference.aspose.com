@@ -1,5 +1,5 @@
 ---
-title: UriBuilder
+title: UriBuilder()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a UriBuilder object that represents that represents the specified URI.
 type: docs

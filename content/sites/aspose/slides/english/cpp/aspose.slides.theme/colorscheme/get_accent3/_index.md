@@ -1,12 +1,12 @@
 ---
-title: get_Accent3
+title: get_Accent3()
 second_title: Aspose.Slides for C++ API Reference
 description: Third accent color in the scheme. Read-only IColorFormat.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.theme/colorscheme/get_accent3/
 ---
-## ColorScheme::get_Accent3 method
+## ColorScheme::get_Accent3() method
 
 
 Third accent color in the scheme. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

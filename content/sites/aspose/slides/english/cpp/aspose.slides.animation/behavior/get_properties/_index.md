@@ -1,12 +1,12 @@
 ---
-title: get_Properties
+title: get_Properties()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents properties of behavior. Read-only IBehaviorPropertyCollection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/behavior/get_properties/
 ---
-## Behavior::get_Properties method
+## Behavior::get_Properties() method
 
 
 Represents properties of behavior. Read-only [IBehaviorPropertyCollection](../../ibehaviorpropertycollection/).

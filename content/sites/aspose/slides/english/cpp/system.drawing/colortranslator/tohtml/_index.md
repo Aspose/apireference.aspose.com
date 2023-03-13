@@ -1,12 +1,12 @@
 ---
-title: ToHtml
+title: ToHtml()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified Color object to the string representation of equivalent HTML color.
 type: docs
 weight: 27
 url: /cpp/system.drawing/colortranslator/tohtml/
 ---
-## ColorTranslator::ToHtml method
+## ColorTranslator::ToHtml(const [Color](../../color/)\&) method
 
 
 Converts the specified [Color](../../color/) object to the string representation of equivalent HTML color.

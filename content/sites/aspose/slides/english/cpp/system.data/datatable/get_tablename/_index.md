@@ -1,12 +1,12 @@
 ---
-title: get_TableName
+title: get_TableName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets table name.
 type: docs
 weight: 14
 url: /cpp/system.data/datatable/get_tablename/
 ---
-## DataTable::get_TableName method
+## DataTable::get_TableName() method
 
 
 Gets table name.

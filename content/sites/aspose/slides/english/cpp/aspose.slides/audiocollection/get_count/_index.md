@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a number of audio files in the collection. Read-only int32_t.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/audiocollection/get_count/
 ---
-## AudioCollection::get_Count method
+## AudioCollection::get_Count() method
 
 
 Returns a number of audio files in the collection. Read-only **int32_t**.

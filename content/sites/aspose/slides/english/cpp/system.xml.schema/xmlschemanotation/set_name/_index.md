@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the notation.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemanotation/set_name/
 ---
-## XmlSchemaNotation::set_Name method
+## XmlSchemaNotation::set_Name(const [String](../../../system/string/)\&) method
 
 
 Sets the name of the notation.

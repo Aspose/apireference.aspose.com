@@ -1,12 +1,12 @@
 ---
-title: ~EventWaitHandle
+title: ~EventWaitHandle()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.threading/eventwaithandle/~eventwaithandle/
 ---
-## EventWaitHandle::~EventWaitHandle method
+## EventWaitHandle::~EventWaitHandle() method
 
 
 Destructor.

@@ -1,12 +1,12 @@
 ---
-title: UrlEncodeUnicode
+title: UrlEncodeUnicode()
 second_title: Aspose.Slides for C++ API Reference
 description: Encodes URI fragment usign Unicode.
 type: docs
 weight: 79
 url: /cpp/system.web/httputility/urlencodeunicode/
 ---
-## HttpUtility::UrlEncodeUnicode method
+## HttpUtility::UrlEncodeUnicode(const [String](../../../system/string/)\&) method
 
 
 Encodes URI fragment usign Unicode.

@@ -1,12 +1,12 @@
 ---
-title: set_DefaultValue
+title: set_DefaultValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the default value of the element if its content is a simple type or content of the element is textOnly.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemaelement/set_defaultvalue/
 ---
-## XmlSchemaElement::set_DefaultValue method
+## XmlSchemaElement::set_DefaultValue(const [String](../../../system/string/)\&) method
 
 
 Sets the default value of the element if its content is a simple type or content of the element is **textOnly**.

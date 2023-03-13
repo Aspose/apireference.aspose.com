@@ -1,12 +1,12 @@
 ---
-title: set_To
+title: set_To()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes resulting color for the animation color change. Write IColorFormat.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/icoloreffect/set_to/
 ---
-## IColorEffect::set_To method
+## IColorEffect::set_To([System::SharedPtr](../../../system/sharedptr/)\<[IColorFormat](../../../aspose.slides/icolorformat/)\>) method
 
 
 Describes resulting color for the animation color change. Write [IColorFormat](../../../aspose.slides/icolorformat/).

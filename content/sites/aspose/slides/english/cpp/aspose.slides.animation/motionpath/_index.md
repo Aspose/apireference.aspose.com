@@ -19,7 +19,7 @@ class MotionPath : public Aspose::Slides::Animation::IMotionPath
 
 | Method | Description |
 | --- | --- |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMotionCmdPath](../imotioncmdpath/)\> [Add](./add/)([MotionCommandPathType](../motioncommandpathtype/), [System::ArrayPtr](../../system/arrayptr/)\<[System::Drawing::PointF](../../system.drawing/pointf/)\>, [MotionPathPointsType](../motionpathpointstype/), **bool**) override | Add new command to path. |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMotionCmdPath](../imotioncmdpath/)\> [Add](./add/)([MotionCommandPathType](../motioncommandpathtype/), [System::ArrayPtr](../../system/arrayptr/)\<[System::Drawing::PointF](../../system.drawing/pointf/)\>, [MotionPathPointsType](../motionpathpointstype/), **bool**) override | Add new command to path |
 | [iterator](./iterator/) [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [const_iterator](./const_iterator/) [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [const_iterator](./const_iterator/) [cbegin](./cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
@@ -39,7 +39,7 @@ class MotionPath : public Aspose::Slides::Animation::IMotionPath
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
 | [System::SharedPtr](../../system/sharedptr/)\<[IMotionCmdPath](../imotioncmdpath/)\> [idx_get](./idx_get/)(**int32_t**) override | Returns a command at the specified index. |
-| void [Insert](./insert/)(**int32_t**, [MotionCommandPathType](../motioncommandpathtype/), [System::ArrayPtr](../../system/arrayptr/)\<[System::Drawing::PointF](../../system.drawing/pointf/)\>, [MotionPathPointsType](../motionpathpointstype/), **bool**) override | Insert new command to path. |
+| void [Insert](./insert/)(**int32_t**, [MotionCommandPathType](../motioncommandpathtype/), [System::ArrayPtr](../../system/arrayptr/)\<[System::Drawing::PointF](../../system.drawing/pointf/)\>, [MotionPathPointsType](../motionpathpointstype/), **bool**) override | Insert new command to path |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
 | **bool** [LINQ_All](../../system.collections.generic/ienumerable/linq_all/)(std::function\<**bool**(T)>) | Determines whether all elements of a sequence satisfy a condition. |
 | **bool** [LINQ_Any](../../system.collections.generic/ienumerable/linq_any/)() | Determines whether a sequence contains any elements. |

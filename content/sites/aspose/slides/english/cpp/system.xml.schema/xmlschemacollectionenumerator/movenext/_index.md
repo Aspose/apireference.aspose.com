@@ -1,12 +1,12 @@
 ---
-title: MoveNext
+title: MoveNext()
 second_title: Aspose.Slides for C++ API Reference
 description: Advances the enumerator to the next schema in the collection.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemacollectionenumerator/movenext/
 ---
-## XmlSchemaCollectionEnumerator::MoveNext method
+## XmlSchemaCollectionEnumerator::MoveNext() method
 
 
 Advances the enumerator to the next schema in the collection.

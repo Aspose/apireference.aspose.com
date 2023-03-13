@@ -1,12 +1,12 @@
 ---
-title: SharedRefAdded
+title: SharedRefAdded()
 second_title: Aspose.Slides for C++ API Reference
 description: Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector.
 type: docs
 weight: 40
 url: /cpp/system/object/sharedrefadded/
 ---
-## Object::SharedRefAdded method
+## Object::SharedRefAdded() method
 
 
 Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector.

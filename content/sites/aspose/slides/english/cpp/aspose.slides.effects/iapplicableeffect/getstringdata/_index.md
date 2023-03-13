@@ -1,12 +1,12 @@
 ---
-title: GetStringData
+title: GetStringData()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/iapplicableeffect/getstringdata/
 ---
-## IApplicableEffect::GetStringData method
+## IApplicableEffect::GetStringData() method
 
 
 

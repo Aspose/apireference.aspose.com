@@ -1,5 +1,5 @@
 ---
-title: Matches
+title: Matches()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets all matches of regex in given string by matching repeatedly.
 type: docs

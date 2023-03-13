@@ -1,12 +1,12 @@
 ---
-title: set_Decelerate
+title: set_Decelerate()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the percentage of duration decelerate behavior effect. Write float.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/itiming/set_decelerate/
 ---
-## ITiming::set_Decelerate method
+## ITiming::set_Decelerate(**float**) method
 
 
 Describes the percentage of duration decelerate behavior effect. Write **float**.

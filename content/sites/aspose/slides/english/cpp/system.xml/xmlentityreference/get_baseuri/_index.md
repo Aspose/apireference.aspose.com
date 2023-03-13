@@ -1,12 +1,12 @@
 ---
-title: get_BaseURI
+title: get_BaseURI()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the base Uniform Resource Identifier (URI) of the current node.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlentityreference/get_baseuri/
 ---
-## XmlEntityReference::get_BaseURI method
+## XmlEntityReference::get_BaseURI() method
 
 
 Returns the base Uniform Resource Identifier (URI) of the current node.

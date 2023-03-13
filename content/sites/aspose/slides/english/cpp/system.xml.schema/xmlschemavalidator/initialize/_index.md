@@ -1,5 +1,5 @@
 ---
-title: Initialize
+title: Initialize()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes the state of the XmlSchemaValidator object.
 type: docs

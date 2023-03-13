@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, creates a new XPathNavigator positioned at the same node as this XPathNavigator.
 type: docs
 weight: 443
 url: /cpp/system.xml.xpath/xpathnavigator/clone/
 ---
-## XPathNavigator::Clone method
+## XPathNavigator::Clone() method
 
 
 When overridden in a derived class, creates a new [XPathNavigator](../) positioned at the same node as this [XPathNavigator](../).

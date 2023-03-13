@@ -1,12 +1,12 @@
 ---
-title: get_Context
+title: get_Context()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography.xml/transform/get_context/
 ---
-## Transform::get_Context method
+## Transform::get_Context() method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: get_NamespaceURI
+title: get_NamespaceURI()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the namespace URI of the current node.
 type: docs
 weight: 170
 url: /cpp/system.xml.xpath/xpathnavigator/get_namespaceuri/
 ---
-## XPathNavigator::get_NamespaceURI method
+## XPathNavigator::get_NamespaceURI() method
 
 
 When overridden in a derived class, gets the namespace URI of the current node.

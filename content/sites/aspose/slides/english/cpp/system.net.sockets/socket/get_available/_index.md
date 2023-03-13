@@ -1,12 +1,12 @@
 ---
-title: get_Available
+title: get_Available()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the number of bytes received from the network and available for reading.
 type: docs
 weight: 40
 url: /cpp/system.net.sockets/socket/get_available/
 ---
-## Socket::get_Available method
+## Socket::get_Available() method
 
 
 Gets the number of bytes received from the network and available for reading.

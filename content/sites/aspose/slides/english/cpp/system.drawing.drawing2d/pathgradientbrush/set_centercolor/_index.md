@@ -1,12 +1,12 @@
 ---
-title: set_CenterColor
+title: set_CenterColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a color that is at the center of the path filled by the current object.
 type: docs
 weight: 222
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_centercolor/
 ---
-## PathGradientBrush::set_CenterColor method
+## PathGradientBrush::set_CenterColor([Color](../../../system.drawing/color/)) method
 
 
 Sets a color that is at the center of the path filled by the current object.

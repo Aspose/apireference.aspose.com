@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies collection elements into existing array elements.
 type: docs
 weight: 183
 url: /cpp/system.collections.objectmodel/collection/copyto/
 ---
-## Collection::CopyTo method
+## Collection::CopyTo([ArrayPtr](../../../system/arrayptr/)\<T\>, int) method
 
 
 Copies collection elements into existing array elements.

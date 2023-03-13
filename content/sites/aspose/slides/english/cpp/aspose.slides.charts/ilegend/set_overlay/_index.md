@@ -1,12 +1,12 @@
 ---
-title: set_Overlay
+title: set_Overlay()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether other chart elements shall be allowed to overlap legend. Write bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ilegend/set_overlay/
 ---
-## ILegend::set_Overlay method
+## ILegend::set_Overlay(**bool**) method
 
 
 Determines whether other chart elements shall be allowed to overlap legend. Write **bool**.

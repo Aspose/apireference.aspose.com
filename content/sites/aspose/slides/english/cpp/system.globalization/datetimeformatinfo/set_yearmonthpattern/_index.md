@@ -1,12 +1,12 @@
 ---
-title: set_YearMonthPattern
+title: set_YearMonthPattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets year and month pattern.
 type: docs
 weight: 625
 url: /cpp/system.globalization/datetimeformatinfo/set_yearmonthpattern/
 ---
-## DateTimeFormatInfo::set_YearMonthPattern method
+## DateTimeFormatInfo::set_YearMonthPattern(const [String](../../../system/string/)\&) method
 
 
 Sets year and month pattern.

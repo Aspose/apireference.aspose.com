@@ -1,12 +1,12 @@
 ---
-title: CreateFontSelectionRulesMap
+title: CreateFontSelectionRulesMap()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 5435
 url: /cpp/aspose.slides/createfontselectionrulesmap/
 ---
-## Aspose::Slides::CreateFontSelectionRulesMap function
+## Aspose::Slides::CreateFontSelectionRulesMap(const [System::ArrayPtr](../../system/arrayptr/)\<[System::SharedPtr](../../system/sharedptr/)\<Fonts::FontSelectionRule\>\>\&) function
 
 
 

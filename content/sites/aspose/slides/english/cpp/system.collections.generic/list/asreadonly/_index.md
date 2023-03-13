@@ -1,12 +1,12 @@
 ---
-title: AsReadOnly
+title: AsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets read-only reference to this collection.
 type: docs
 weight: 326
 url: /cpp/system.collections.generic/list/asreadonly/
 ---
-## List::AsReadOnly method
+## List::AsReadOnly() method
 
 
 Gets read-only reference to this collection.

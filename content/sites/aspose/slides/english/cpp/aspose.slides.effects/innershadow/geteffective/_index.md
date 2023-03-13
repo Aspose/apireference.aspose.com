@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Inner Shadow effect data with the inheritance applied.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.effects/innershadow/geteffective/
 ---
-## InnerShadow::GetEffective method
+## InnerShadow::GetEffective() method
 
 
 Gets effective Inner Shadow effect data with the inheritance applied.

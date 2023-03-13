@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the length of the stream in bytes.
 type: docs
 weight: 209
 url: /cpp/system.io/memorystream/get_length/
 ---
-## MemoryStream::get_Length method
+## MemoryStream::get_Length() const method
 
 
 Returns the length of the stream in bytes.

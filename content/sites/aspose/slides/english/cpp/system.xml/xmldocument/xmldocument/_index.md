@@ -1,5 +1,5 @@
 ---
-title: XmlDocument
+title: XmlDocument()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlDocument class.
 type: docs

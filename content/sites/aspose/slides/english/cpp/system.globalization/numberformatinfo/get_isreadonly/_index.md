@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if format is read-only.
 type: docs
 weight: 14
 url: /cpp/system.globalization/numberformatinfo/get_isreadonly/
 ---
-## NumberFormatInfo::get_IsReadOnly method
+## NumberFormatInfo::get_IsReadOnly() const method
 
 
 Checks if format is read-only.

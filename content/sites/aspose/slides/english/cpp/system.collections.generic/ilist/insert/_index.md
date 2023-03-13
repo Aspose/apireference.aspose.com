@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts element into specified position, shifting other elements.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/ilist/insert/
 ---
-## IList::Insert method
+## IList::Insert(int, const T\&) method
 
 
 Inserts element into specified position, shifting other elements.

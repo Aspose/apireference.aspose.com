@@ -1,12 +1,12 @@
 ---
-title: get_Success
+title: get_Success()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if capturing was successful for this group.
 type: docs
 weight: 14
 url: /cpp/system.text.regularexpressions/group/get_success/
 ---
-## Group::get_Success method
+## Group::get_Success() method
 
 
 Checks if capturing was successful for this group.

@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the file.
 type: docs
 weight: 92
 url: /cpp/system.io/fileinfo/get_name/
 ---
-## FileInfo::get_Name method
+## FileInfo::get_Name() method
 
 
 Returns the name of the file.

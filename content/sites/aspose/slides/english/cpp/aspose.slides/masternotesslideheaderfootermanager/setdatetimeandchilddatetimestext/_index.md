@@ -1,12 +1,12 @@
 ---
-title: SetDateTimeAndChildDateTimesText
+title: SetDateTimeAndChildDateTimesText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets text to master slide date-time placeholder and all child date-time placeholders. Child placeholders mean placeholders are contained on depending notes slides. Depending notes slides use and depend on master notes slide.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/masternotesslideheaderfootermanager/setdatetimeandchilddatetimestext/
 ---
-## MasterNotesSlideHeaderFooterManager::SetDateTimeAndChildDateTimesText method
+## MasterNotesSlideHeaderFooterManager::SetDateTimeAndChildDateTimesText([System::String](../../../system/string/)) method
 
 
 Sets text to master slide date-time placeholder and all child date-time placeholders. Child placeholders mean placeholders are contained on depending notes slides. Depending notes slides use and depend on master notes slide.

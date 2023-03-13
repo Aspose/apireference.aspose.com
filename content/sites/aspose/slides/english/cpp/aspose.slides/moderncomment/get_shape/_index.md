@@ -1,12 +1,12 @@
 ---
-title: get_Shape
+title: get_Shape()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shape associated with the comment. Read-only IShape.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/moderncomment/get_shape/
 ---
-## ModernComment::get_Shape method
+## ModernComment::get_Shape() method
 
 
 Returns a shape associated with the comment. Read-only [IShape](../../ishape/).

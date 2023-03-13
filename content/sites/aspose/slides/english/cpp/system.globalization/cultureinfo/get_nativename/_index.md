@@ -1,12 +1,12 @@
 ---
-title: get_NativeName
+title: get_NativeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets culture native name.
 type: docs
 weight: 40
 url: /cpp/system.globalization/cultureinfo/get_nativename/
 ---
-## CultureInfo::get_NativeName method
+## CultureInfo::get_NativeName() const method
 
 
 Gets culture native name.

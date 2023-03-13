@@ -1,12 +1,12 @@
 ---
-title: set_Comparator
+title: set_Comparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets comparator object.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/compareradapter/set_comparator/
 ---
-## ComparerAdapter::set_Comparator method
+## ComparerAdapter::set_Comparator(const [SharedPtr](../../../system/sharedptr/)\<[IComparer](../../icomparer/)\<T\>\>\&) method
 
 
 Sets comparator object.

@@ -1,12 +1,12 @@
 ---
-title: GetByType
+title: GetByType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the first layout slide of specified type.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ilayoutslidecollection/getbytype/
 ---
-## ILayoutSlideCollection::GetByType method
+## ILayoutSlideCollection::GetByType([SlideLayoutType](../../slidelayouttype/)) method
 
 
 Returns the first layout slide of specified type.

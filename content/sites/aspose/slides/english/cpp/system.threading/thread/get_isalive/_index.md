@@ -1,12 +1,12 @@
 ---
-title: get_IsAlive
+title: get_IsAlive()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether thread is alive.
 type: docs
 weight: 92
 url: /cpp/system.threading/thread/get_isalive/
 ---
-## Thread::get_IsAlive method
+## Thread::get_IsAlive() method
 
 
 Checks whether thread is alive.

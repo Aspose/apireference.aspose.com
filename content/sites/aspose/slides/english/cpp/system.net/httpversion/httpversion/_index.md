@@ -1,12 +1,12 @@
 ---
-title: HttpVersion
+title: HttpVersion()
 second_title: Aspose.Slides for C++ API Reference
 description: The deleted default constructor.
 type: docs
 weight: 1
 url: /cpp/system.net/httpversion/httpversion/
 ---
-## HttpVersion::HttpVersion constructor
+## HttpVersion::HttpVersion() constructor
 
 
 The deleted default constructor.

@@ -1,5 +1,5 @@
 ---
-title: AddOleObjectFrame
+title: AddOleObjectFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new OLE object to the end of a collection.
 type: docs

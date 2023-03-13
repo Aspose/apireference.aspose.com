@@ -1,12 +1,12 @@
 ---
-title: get_ThemeManager
+title: get_ThemeManager()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns master theme manager. Read-only IMasterThemeManager.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/imasterthemeable/get_thememanager/
 ---
-## IMasterThemeable::get_ThemeManager method
+## IMasterThemeable::get_ThemeManager() method
 
 
 Returns master theme manager. Read-only [IMasterThemeManager](../../imasterthememanager/).

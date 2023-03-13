@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an IImageTransformOperation from the collection by it's index.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/idx_get/
 ---
-## IImageTransformOperationCollection::idx_get method
+## IImageTransformOperationCollection::idx_get(**int32_t**) method
 
 
 Returns an [IImageTransformOperation](../../iimagetransformoperation/) from the collection by it's index.

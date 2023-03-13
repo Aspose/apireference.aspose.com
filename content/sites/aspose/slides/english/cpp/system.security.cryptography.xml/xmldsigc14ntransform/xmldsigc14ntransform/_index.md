@@ -1,5 +1,5 @@
 ---
-title: XmlDsigC14NTransform
+title: XmlDsigC14NTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs

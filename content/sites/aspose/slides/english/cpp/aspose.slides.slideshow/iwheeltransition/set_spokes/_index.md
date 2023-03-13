@@ -1,12 +1,12 @@
 ---
-title: set_Spokes
+title: set_Spokes()
 second_title: Aspose.Slides for C++ API Reference
 description: Number spokes of wheel transition. Write uint32_t.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/iwheeltransition/set_spokes/
 ---
-## IWheelTransition::set_Spokes method
+## IWheelTransition::set_Spokes(**uint32_t**) method
 
 
 Number spokes of wheel transition. Write **uint32_t**.

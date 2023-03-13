@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds item to container.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/ikvcollection/add/
 ---
-## IKVCollection::Add method
+## IKVCollection::Add(const T\&) method
 
 
 Adds item to container.

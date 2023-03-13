@@ -1,12 +1,12 @@
 ---
-title: get_TypedValue
+title: get_TypedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the current item as a boxed object of the most appropriate type according to its schema type.
 type: docs
 weight: 40
 url: /cpp/system.xml.xpath/xpathitem/get_typedvalue/
 ---
-## XPathItem::get_TypedValue method
+## XPathItem::get_TypedValue() method
 
 
 When overridden in a derived class, gets the current item as a boxed object of the most appropriate type according to its schema type.

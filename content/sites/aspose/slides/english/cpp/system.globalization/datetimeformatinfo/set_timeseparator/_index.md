@@ -1,12 +1,12 @@
 ---
-title: set_TimeSeparator
+title: set_TimeSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets time separator.
 type: docs
 weight: 196
 url: /cpp/system.globalization/datetimeformatinfo/set_timeseparator/
 ---
-## DateTimeFormatInfo::set_TimeSeparator method
+## DateTimeFormatInfo::set_TimeSeparator(const [String](../../../system/string/)\&) method
 
 
 Sets time separator.

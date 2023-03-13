@@ -1,12 +1,12 @@
 ---
-title: get_HorizontalAxis
+title: get_HorizontalAxis()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the chart's horizontal axis. Read-only IAxis.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/iaxesmanager/get_horizontalaxis/
 ---
-## IAxesManager::get_HorizontalAxis method
+## IAxesManager::get_HorizontalAxis() method
 
 
 Gets the chart's horizontal axis. Read-only [IAxis](../../iaxis/).

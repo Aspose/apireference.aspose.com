@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Marks collection as read-only.
 type: docs
 weight: 53
 url: /cpp/system.text.regularexpressions/capturecollection/get_isreadonly/
 ---
-## CaptureCollection::get_IsReadOnly method
+## CaptureCollection::get_IsReadOnly() const method
 
 
 Marks collection as read-only.

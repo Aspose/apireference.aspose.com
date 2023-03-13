@@ -1,12 +1,12 @@
 ---
-title: get_FieldOfViewAngle
+title: get_FieldOfViewAngle()
 second_title: Aspose.Slides for C++ API Reference
 description: Camera FOV (0-180 deg, field of View). Read-only float.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icameraeffectivedata/get_fieldofviewangle/
 ---
-## ICameraEffectiveData::get_FieldOfViewAngle method
+## ICameraEffectiveData::get_FieldOfViewAngle() method
 
 
 [Camera](../../camera/) FOV (0-180 deg, field of View). Read-only **float**.

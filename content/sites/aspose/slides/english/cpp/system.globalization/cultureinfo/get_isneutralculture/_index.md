@@ -1,12 +1,12 @@
 ---
-title: get_IsNeutralCulture
+title: get_IsNeutralCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether the culture is neutral.
 type: docs
 weight: 92
 url: /cpp/system.globalization/cultureinfo/get_isneutralculture/
 ---
-## CultureInfo::get_IsNeutralCulture method
+## CultureInfo::get_IsNeutralCulture() const method
 
 
 Checks whether the culture is neutral.

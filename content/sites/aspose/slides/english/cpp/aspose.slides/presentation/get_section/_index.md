@@ -1,12 +1,12 @@
 ---
-title: get_Section
+title: get_Section()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a slide section defined in the presentation at the specified index. Read-only Aspose::Slides::ISection"
 type: docs
 weight: 495
 url: /cpp/aspose.slides/presentation/get_section/
 ---
-## Presentation::get_Section method
+## Presentation::get_Section(**int32_t**) method
 
 
 Returns a slide section defined in the presentation at the specified index. Read-only [Aspose::Slides::ISection](../../isection/)

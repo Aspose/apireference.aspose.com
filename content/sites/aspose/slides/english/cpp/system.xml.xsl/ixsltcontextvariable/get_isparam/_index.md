@@ -1,12 +1,12 @@
 ---
-title: get_IsParam
+title: get_IsParam()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the variable is an Extensible Stylesheet Language Transformations (XSLT) parameter. This can be a parameter to a style sheet or a template.
 type: docs
 weight: 14
 url: /cpp/system.xml.xsl/ixsltcontextvariable/get_isparam/
 ---
-## IXsltContextVariable::get_IsParam method
+## IXsltContextVariable::get_IsParam() method
 
 
 Returns a value indicating whether the variable is an Extensible Stylesheet Language Transformations (XSLT) parameter. This can be a parameter to a style sheet or a template.

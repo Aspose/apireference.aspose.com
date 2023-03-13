@@ -1,12 +1,12 @@
 ---
-title: CreateBlur
+title: CreateBlur()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Blur effect.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createblur/
 ---
-## ImageTransformOperationFactory::CreateBlur method
+## ImageTransformOperationFactory::CreateBlur(**double**, **bool**) method
 
 
 Creates [Blur](../../blur/) effect.

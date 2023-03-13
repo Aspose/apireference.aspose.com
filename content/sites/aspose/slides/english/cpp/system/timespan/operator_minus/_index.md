@@ -1,5 +1,5 @@
 ---
-title: operator-
+title: operator-()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of TimeSpan class that represents a time interval which is the result of subtraction of the time interval represented by the specified object from the time interval represented by the current object.
 type: docs

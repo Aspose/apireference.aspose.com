@@ -1,5 +1,5 @@
 ---
-title: FillPolygon
+title: FillPolygon()
 second_title: Aspose.Slides for C++ API Reference
 description: Fills the interiors of the specified polygon using the specified brush.
 type: docs

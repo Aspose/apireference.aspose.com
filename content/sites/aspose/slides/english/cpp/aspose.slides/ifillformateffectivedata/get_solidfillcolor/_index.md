@@ -1,12 +1,12 @@
 ---
-title: get_SolidFillColor
+title: get_SolidFillColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the fill color. Read-only System::Drawing::Color."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ifillformateffectivedata/get_solidfillcolor/
 ---
-## IFillFormatEffectiveData::get_SolidFillColor method
+## IFillFormatEffectiveData::get_SolidFillColor() method
 
 
 Returns the fill color. Read-only [System::Drawing::Color](../../../system.drawing/color/).

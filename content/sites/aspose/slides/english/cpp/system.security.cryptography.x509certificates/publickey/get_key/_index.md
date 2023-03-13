@@ -1,12 +1,12 @@
 ---
-title: get_Key
+title: get_Key()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets an RSACryptoServiceProvider or DSACryptoServiceProvider.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/publickey/get_key/
 ---
-## PublicKey::get_Key method
+## PublicKey::get_Key() const method
 
 
 Gets an [RSACryptoServiceProvider](../../../system.security.cryptography/rsacryptoserviceprovider/) or [DSACryptoServiceProvider](../../../system.security.cryptography/dsacryptoserviceprovider/).

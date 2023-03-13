@@ -1,5 +1,5 @@
 ---
-title: HtmlOptions
+title: HtmlOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new HtmlOptions object specifiing callback.
 type: docs

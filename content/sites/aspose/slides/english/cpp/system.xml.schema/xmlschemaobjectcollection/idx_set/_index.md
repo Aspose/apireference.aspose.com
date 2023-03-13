@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlSchemaObject at the specified index.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/idx_set/
 ---
-## XmlSchemaObjectCollection::idx_set method
+## XmlSchemaObjectCollection::idx_set(**int32_t**, [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaObject](../../xmlschemaobject/)\>) method
 
 
 Sets the [XmlSchemaObject](../../xmlschemaobject/) at the specified index.

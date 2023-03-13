@@ -1,12 +1,12 @@
 ---
-title: get_PreAuthenticate
+title: get_PreAuthenticate()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the request must be pre-authenticated.
 type: docs
 weight: 417
 url: /cpp/system.net/webrequest/get_preauthenticate/
 ---
-## WebRequest::get_PreAuthenticate method
+## WebRequest::get_PreAuthenticate() method
 
 
 Gets a value that indicates if the request must be pre-authenticated.

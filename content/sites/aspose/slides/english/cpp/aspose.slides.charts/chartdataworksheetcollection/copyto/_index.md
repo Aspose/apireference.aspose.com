@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copy to specified array.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/chartdataworksheetcollection/copyto/
 ---
-## ChartDataWorksheetCollection::CopyTo method
+## ChartDataWorksheetCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IChartDataWorksheet](../../ichartdataworksheet/)\>\>, **int32_t**) method
 
 
 Copy to specified array.

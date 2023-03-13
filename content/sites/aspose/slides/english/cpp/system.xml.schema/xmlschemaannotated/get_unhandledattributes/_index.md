@@ -1,12 +1,12 @@
 ---
-title: get_UnhandledAttributes
+title: get_UnhandledAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the qualified attributes that do not belong to the current schema's target namespace.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaannotated/get_unhandledattributes/
 ---
-## XmlSchemaAnnotated::get_UnhandledAttributes method
+## XmlSchemaAnnotated::get_UnhandledAttributes() method
 
 
 Returns the qualified attributes that do not belong to the current schema's target namespace.

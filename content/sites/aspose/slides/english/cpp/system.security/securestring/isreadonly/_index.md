@@ -1,12 +1,12 @@
 ---
-title: IsReadOnly
+title: IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets flag that indicates whether this object is marked read-only.
 type: docs
 weight: 105
 url: /cpp/system.security/securestring/isreadonly/
 ---
-## SecureString::IsReadOnly method
+## SecureString::IsReadOnly() const method
 
 
 Gets flag that indicates whether this object is marked read-only.

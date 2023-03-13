@@ -1,12 +1,12 @@
 ---
-title: operator-=
+title: operator-=()
 second_title: Aspose.Slides for C++ API Reference
 description: Assigns to the current object the time interval which is the result of subtraction of the time interval represented by the specified object from the time interval represented by the current object.
 type: docs
 weight: 313
 url: /cpp/system/timespan/operator_minus_equal/
 ---
-## TimeSpan::operator-= method
+## TimeSpan::operator-=([TimeSpan](../)) method
 
 
 Assigns to the current object the time interval which is the result of subtraction of the time interval represented by the specified object from the time interval represented by the current object.

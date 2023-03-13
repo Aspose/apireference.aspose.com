@@ -1,12 +1,12 @@
 ---
-title: ChangeType
+title: ChangeType()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1
 url: /cpp/system/convert/changetype/
 ---
-## Convert::ChangeType method
+## Convert::ChangeType(const [SharedPtr](../../sharedptr/)\<[Object](../../object/)\>\&, const [TypeInfo](../../typeinfo/)\&) method
 
 
 NOT IMPLEMENTED.

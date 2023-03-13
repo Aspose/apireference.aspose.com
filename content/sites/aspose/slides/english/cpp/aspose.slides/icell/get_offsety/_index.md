@@ -1,12 +1,12 @@
 ---
-title: get_OffsetY
+title: get_OffsetY()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a distance from top side of a table to top side of a cell. Read-only double.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icell/get_offsety/
 ---
-## ICell::get_OffsetY method
+## ICell::get_OffsetY() method
 
 
 Returns a distance from top side of a table to top side of a cell. Read-only **double**.

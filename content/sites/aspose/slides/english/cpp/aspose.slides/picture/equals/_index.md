@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares with specified object.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/picture/equals/
 ---
-## Picture::Equals method
+## Picture::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Compares with specified object.

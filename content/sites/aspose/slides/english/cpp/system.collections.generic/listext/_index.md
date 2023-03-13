@@ -25,13 +25,13 @@ template<typename T>class ListExt : public System::Collections::Generic::List<T>
 | void [AddInitializer](../list/addinitializer/)(int, const T) | Adds elements to list; used when translating initializers. |
 | void [AddRange](../list/addrange/)([IEnumerablePtr](../list/ienumerableptr/)) | Adds all elements from collection (or itself) to the end of current list. |
 | [SharedPtr](../../system/sharedptr/)\<[System::Collections::ObjectModel::ReadOnlyCollection](../../system.collections.objectmodel/readonlycollection/)\<T\>\> [AsReadOnly](../list/asreadonly/)() | Gets read-only reference to this collection. |
-| [iterator](../list/iterator/) [begin](../list/begin/)() | Gets iterator to the first element of collection. |
-| [const_iterator](../list/const_iterator/) [begin](../list/begin/)() const | Gets iterator to the first element of the const-qualified collection. |
+| [iterator](../ienumerable/iterator/) [begin](../list/begin/)() | Gets iterator to the first element of collection. |
+| [const_iterator](../ienumerable/const_iterator/) [begin](../list/begin/)() const | Gets iterator to the first element of the const-qualified collection. |
 | int [BinarySearch](../list/binarysearch/)(const T\&) const | Looks for item in a sorted list. |
 | int [BinarySearch](../list/binarysearch/)(const T\&, const [SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::IComparer](../icomparer/)\<T\>\>\&) const | Looks for item in a sorted list. |
 | int [BinarySearch](../list/binarysearch/)(int, int, const T\&, const [SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::IComparer](../icomparer/)\<T\>\>\&) const | Looks for item in a sorted list. |
-| [const_iterator](../list/const_iterator/) [cbegin](../list/cbegin/)() const | Gets iterator to the first const-qualified element of collection. |
-| [const_iterator](../list/const_iterator/) [cend](../list/cend/)() const | Gets iterator for a non-existent const-qualified element behind the end of the collection. |
+| [const_iterator](../ienumerable/const_iterator/) [cbegin](../list/cbegin/)() const | Gets iterator to the first const-qualified element of collection. |
+| [const_iterator](../ienumerable/const_iterator/) [cend](../list/cend/)() const | Gets iterator for a non-existent const-qualified element behind the end of the collection. |
 | void [Clear](../list/clear/)() override | Deletes all elements. |
 | **bool** [Contains](../list/contains/)(const T\&) const override | Checks if item is present in list. |
 | [SharedPtr](../../system/sharedptr/)\<[List](../list/)\<OutputType\>\> [ConvertAll](../list/convertall/)([Converter](../../system/converter/)\<T, OutputType\>) | Creates a list of elements converted to different type. |
@@ -46,8 +46,8 @@ template<typename T>class ListExt : public System::Collections::Generic::List<T>
 | [const_reverse_iterator](../list/const_reverse_iterator/) [crend](../list/crend/)() const | Gets a reverse iterator for a non-existent const-qualified element before the start of the collection. |
 | [vector_t](../list/vector_t/)\& [data](../list/data/)() | Underlying data structure access function. |
 | const [vector_t](../list/vector_t/)\& [data](../list/data/)() const | Underlying data structure access function. |
-| [iterator](../list/iterator/) [end](../list/end/)() | Gets iterator for a non-existent element behind the end of the collection. |
-| [const_iterator](../list/const_iterator/) [end](../list/end/)() const | Gets iterator for a non-existent element behind the end of the const-qualified collection. |
+| [iterator](../ienumerable/iterator/) [end](../list/end/)() | Gets iterator for a non-existent element behind the end of the collection. |
+| [const_iterator](../ienumerable/const_iterator/) [end](../list/end/)() const | Gets iterator for a non-existent element behind the end of the const-qualified collection. |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |
@@ -178,7 +178,6 @@ template<typename T>class ListExt : public System::Collections::Generic::List<T>
 | [BaseTypes](./basetypes/) |  |
 | [ValueType](./valuetype/) |  |
 | [BaseType](./basetype/) |  |
-| [BaseType](./basetype/) | Interface type. |
 ## See Also
 
 * Class [List](../list/)

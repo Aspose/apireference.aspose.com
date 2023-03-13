@@ -1,12 +1,12 @@
 ---
-title: FontSubstRuleCollection
+title: FontSubstRuleCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 105
 url: /cpp/aspose.slides/fontsubstrulecollection/fontsubstrulecollection/
 ---
-## FontSubstRuleCollection::FontSubstRuleCollection constructor
+## FontSubstRuleCollection::FontSubstRuleCollection() constructor
 
 
 

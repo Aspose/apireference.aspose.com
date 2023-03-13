@@ -1,12 +1,12 @@
 ---
-title: get_Out
+title: get_Out()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shared pointer pointing to the object that represents the standard output stream.
 type: docs
 weight: 40
 url: /cpp/system/console/get_out/
 ---
-## Console::get_Out method
+## Console::get_Out() method
 
 
 Returns a shared pointer pointing to the object that represents the standard output stream.

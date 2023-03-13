@@ -1,12 +1,12 @@
 ---
-title: get_PrivateHeaders
+title: get_PrivateHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the collection of fieldnames in the 'private' directive in the 'Cache-Control' header.
 type: docs
 weight: 300
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_privateheaders/
 ---
-## CacheControlHeaderValue::get_PrivateHeaders method
+## CacheControlHeaderValue::get_PrivateHeaders() method
 
 
 Gets the collection of fieldnames in the 'private' directive in the 'Cache-Control' header.

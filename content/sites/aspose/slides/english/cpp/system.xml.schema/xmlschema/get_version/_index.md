@@ -1,12 +1,12 @@
 ---
-title: get_Version
+title: get_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the version of the schema.
 type: docs
 weight: 131
 url: /cpp/system.xml.schema/xmlschema/get_version/
 ---
-## XmlSchema::get_Version method
+## XmlSchema::get_Version() method
 
 
 Returns the version of the schema.

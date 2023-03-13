@@ -1,12 +1,12 @@
 ---
-title: get_Y
+title: get_Y()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the y-coordinate of the upper-left corner of the shape. Read float.
 type: docs
 weight: 313
 url: /cpp/aspose.slides/shape/get_y/
 ---
-## Shape::get_Y method
+## Shape::get_Y() method
 
 
 Returns the y-coordinate of the upper-left corner of the shape. Read **float**.

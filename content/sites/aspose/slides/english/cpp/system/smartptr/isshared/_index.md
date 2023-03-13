@@ -1,12 +1,12 @@
 ---
-title: IsShared
+title: IsShared()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if pointer is in shared mode.
 type: docs
 weight: 118
 url: /cpp/system/smartptr/isshared/
 ---
-## SmartPtr::IsShared method
+## SmartPtr::IsShared() const method
 
 
 Checks if pointer is in shared mode.

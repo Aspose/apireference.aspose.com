@@ -1,12 +1,12 @@
 ---
-title: get_Blend
+title: get_Blend()
 second_title: Aspose.Slides for C++ API Reference
 description: FillBlendMode. Read-only FillBlendMode.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/ifilloverlayeffectivedata/get_blend/
 ---
-## IFillOverlayEffectiveData::get_Blend method
+## IFillOverlayEffectiveData::get_Blend() method
 
 
 FillBlendMode. Read-only [FillBlendMode](../../../aspose.slides/fillblendmode/).

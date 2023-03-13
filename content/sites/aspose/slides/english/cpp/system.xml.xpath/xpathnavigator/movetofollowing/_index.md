@@ -1,5 +1,5 @@
 ---
-title: MoveToFollowing
+title: MoveToFollowing()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the XPathNavigator to the element with the local name and namespace URI specified in document order.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_Libid
+title: set_Libid()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents the identifier of an Automation type library. Write System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.vba/ivbareferenceoletypelib/set_libid/
 ---
-## IVbaReferenceOleTypeLib::set_Libid method
+## IVbaReferenceOleTypeLib::set_Libid([System::String](../../../system/string/)) method
 
 
 Represents the identifier of an Automation type library. Write [System::String](../../../system/string/).

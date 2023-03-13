@@ -1,5 +1,5 @@
 ---
-title: ExceptionWrapper
+title: ExceptionWrapper()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a null-instance of ExceptionWrapper class that does not represent any exception.
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: PrintToStringImpl
+title: PrintToStringImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: "Prints System::Object subclass to string using ToString() method."
 type: docs

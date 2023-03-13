@@ -1,12 +1,12 @@
 ---
-title: FromFriendlyName
+title: FromFriendlyName()
 second_title: Aspose.Slides for C++ API Reference
 description: Create OID object from the specified OID friendly name.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/oid/fromfriendlyname/
 ---
-## Oid::FromFriendlyName method
+## Oid::FromFriendlyName(const [String](../../../system/string/)\&, [OidGroup](../../oidgroup/)) method
 
 
 Create OID object from the specified OID friendly name.

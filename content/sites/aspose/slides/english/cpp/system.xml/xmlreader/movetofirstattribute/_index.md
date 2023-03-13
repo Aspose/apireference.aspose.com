@@ -1,12 +1,12 @@
 ---
-title: MoveToFirstAttribute
+title: MoveToFirstAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, moves to the first attribute.
 type: docs
 weight: 638
 url: /cpp/system.xml/xmlreader/movetofirstattribute/
 ---
-## XmlReader::MoveToFirstAttribute method
+## XmlReader::MoveToFirstAttribute() method
 
 
 When overridden in a derived class, moves to the first attribute.

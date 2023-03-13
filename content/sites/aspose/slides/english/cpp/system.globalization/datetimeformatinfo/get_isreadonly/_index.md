@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether formatter is read-only.
 type: docs
 weight: 40
 url: /cpp/system.globalization/datetimeformatinfo/get_isreadonly/
 ---
-## DateTimeFormatInfo::get_IsReadOnly method
+## DateTimeFormatInfo::get_IsReadOnly() const method
 
 
 Checks whether formatter is read-only.

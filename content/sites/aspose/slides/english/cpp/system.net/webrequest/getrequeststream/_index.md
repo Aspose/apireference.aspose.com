@@ -1,12 +1,12 @@
 ---
-title: GetRequestStream
+title: GetRequestStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the stream for writing data to the resource.
 type: docs
 weight: 482
 url: /cpp/system.net/webrequest/getrequeststream/
 ---
-## WebRequest::GetRequestStream method
+## WebRequest::GetRequestStream() method
 
 
 Returns the stream for writing data to the resource.

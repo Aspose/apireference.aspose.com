@@ -1,5 +1,5 @@
 ---
-title: Abs
+title: Abs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the absolute value of the specified value.
 type: docs

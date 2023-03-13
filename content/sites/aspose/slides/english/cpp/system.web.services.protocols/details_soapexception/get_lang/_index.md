@@ -1,12 +1,12 @@
 ---
-title: get_Lang
+title: get_Lang()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the language, which is used to localize exception properties.
 type: docs
 weight: 40
 url: /cpp/system.web.services.protocols/details_soapexception/get_lang/
 ---
-## Details_SoapException::get_Lang method
+## Details_SoapException::get_Lang() method
 
 
 Returns the language, which is used to localize exception properties.

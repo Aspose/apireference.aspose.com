@@ -1,12 +1,12 @@
 ---
-title: get_By
+title: get_By()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the relative offset value for the animation. Read float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/irotationeffect/get_by/
 ---
-## IRotationEffect::get_By method
+## IRotationEffect::get_By() method
 
 
 Describes the relative offset value for the animation. Read **float**.

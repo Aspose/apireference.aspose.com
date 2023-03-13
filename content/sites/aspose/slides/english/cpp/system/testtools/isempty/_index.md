@@ -1,5 +1,5 @@
 ---
-title: IsEmpty
+title: IsEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if string is empty.
 type: docs

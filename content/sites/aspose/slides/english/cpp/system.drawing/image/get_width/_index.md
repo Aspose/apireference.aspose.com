@@ -1,12 +1,12 @@
 ---
-title: get_Width
+title: get_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the width of the image in pixels.
 type: docs
 weight: 79
 url: /cpp/system.drawing/image/get_width/
 ---
-## Image::get_Width method
+## Image::get_Width() const method
 
 
 Returns the width of the image in pixels.

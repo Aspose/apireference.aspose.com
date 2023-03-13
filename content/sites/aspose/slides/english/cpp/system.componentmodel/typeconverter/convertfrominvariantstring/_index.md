@@ -1,5 +1,5 @@
 ---
-title: ConvertFromInvariantString
+title: ConvertFromInvariantString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts invariant string to object.
 type: docs

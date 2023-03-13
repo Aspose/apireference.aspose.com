@@ -1,12 +1,12 @@
 ---
-title: get_Alignment
+title: get_Alignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates the alignment of the current Pen object.
 type: docs
 weight: 14
 url: /cpp/system.drawing/pen/get_alignment/
 ---
-## Pen::get_Alignment method
+## Pen::get_Alignment() const method
 
 
 Returns a value that indicates the alignment of the current [Pen](../) object.

@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Gray Scale effect data with the inheritance applied.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/grayscale/geteffective/
 ---
-## GrayScale::GetEffective method
+## GrayScale::GetEffective() method
 
 
 Gets effective Gray Scale effect data with the inheritance applied.

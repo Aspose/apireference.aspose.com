@@ -1,12 +1,12 @@
 ---
-title: get_EntityHandling
+title: get_EntityHandling()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that specifies how the reader handles entities.
 type: docs
 weight: 443
 url: /cpp/system.xml/xmltextreader/get_entityhandling/
 ---
-## XmlTextReader::get_EntityHandling method
+## XmlTextReader::get_EntityHandling() method
 
 
 Returns a value that specifies how the reader handles entities.

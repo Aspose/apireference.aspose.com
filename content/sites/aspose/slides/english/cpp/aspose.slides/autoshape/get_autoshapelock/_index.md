@@ -1,12 +1,12 @@
 ---
-title: get_AutoShapeLock
+title: get_AutoShapeLock()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns autoshape's locks. Read-only IAutoShapeLock.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/autoshape/get_autoshapelock/
 ---
-## AutoShape::get_AutoShapeLock method
+## AutoShape::get_AutoShapeLock() method
 
 
 Returns autoshape's locks. Read-only [IAutoShapeLock](../../iautoshapelock/).

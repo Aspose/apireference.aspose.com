@@ -1,12 +1,12 @@
 ---
-title: set_Cancel
+title: set_Cancel()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets value indicating whether the event should be cancelled.
 type: docs
 weight: 27
 url: /cpp/system.componentmodel/canceleventargs/set_cancel/
 ---
-## CancelEventArgs::set_Cancel method
+## CancelEventArgs::set_Cancel(**bool**) method
 
 
 Sets value indicating whether the event should be cancelled.

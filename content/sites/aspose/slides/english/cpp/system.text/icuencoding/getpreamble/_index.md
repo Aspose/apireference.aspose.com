@@ -1,12 +1,12 @@
 ---
-title: GetPreamble
+title: GetPreamble()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a sequence of bytes that denotes the encoding (e. g. BOM).
 type: docs
 weight: 131
 url: /cpp/system.text/icuencoding/getpreamble/
 ---
-## ICUEncoding::GetPreamble method
+## ICUEncoding::GetPreamble() method
 
 
 Returns a sequence of bytes that denotes the encoding (e. g. BOM).

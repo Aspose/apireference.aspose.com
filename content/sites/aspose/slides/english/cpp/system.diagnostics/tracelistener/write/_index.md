@@ -1,12 +1,12 @@
 ---
-title: Write
+title: Write()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.diagnostics/tracelistener/write/
 ---
-## TraceListener::Write method
+## TraceListener::Write([System::String](../../../system/string/)) method
 
 
 RTTI information.

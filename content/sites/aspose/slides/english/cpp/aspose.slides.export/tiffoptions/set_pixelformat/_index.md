@@ -1,12 +1,12 @@
 ---
-title: set_PixelFormat
+title: set_PixelFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the pixel format for the generated images. Write ImagePixelFormat.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.export/tiffoptions/set_pixelformat/
 ---
-## TiffOptions::set_PixelFormat method
+## TiffOptions::set_PixelFormat([ImagePixelFormat](../../imagepixelformat/)) method
 
 
 Specifies the pixel format for the generated images. Write [ImagePixelFormat](../../imagepixelformat/).

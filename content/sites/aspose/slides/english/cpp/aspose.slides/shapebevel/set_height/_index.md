@@ -1,12 +1,12 @@
 ---
-title: set_Height
+title: set_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Bevel height. Write double.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/shapebevel/set_height/
 ---
-## ShapeBevel::set_Height method
+## ShapeBevel::set_Height(**double**) method
 
 
 Bevel height. Write **double**.

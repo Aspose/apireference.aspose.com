@@ -1,12 +1,12 @@
 ---
-title: CompareTo
+title: CompareTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two strings in 'less-equals-more' style. Uses current culture.
 type: docs
 weight: 391
 url: /cpp/system/string/compareto/
 ---
-## String::CompareTo method
+## String::CompareTo(const [String](../)\&) const method
 
 
 Compares two strings in 'less-equals-more' style. Uses current culture.

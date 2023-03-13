@@ -1,12 +1,12 @@
 ---
-title: get_SignatureAlgorithm
+title: get_SignatureAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets signature algorithm associated with CSP object.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/rsa/get_signaturealgorithm/
 ---
-## RSA::get_SignatureAlgorithm method
+## RSA::get_SignatureAlgorithm() method
 
 
 Gets signature algorithm associated with CSP object.

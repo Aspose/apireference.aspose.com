@@ -1,5 +1,5 @@
 ---
-title: Assert
+title: Assert()
 second_title: Aspose.Slides for C++ API Reference
 description: Assert condition and send information on failure.
 type: docs

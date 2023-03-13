@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Always returns false.
 type: docs
 weight: 313
 url: /cpp/system.drawing/rectanglef/operator_equal_equal/
 ---
-## RectangleF::operator== method
+## RectangleF::operator==(std::nullptr_t) const method
 
 
 Always returns false.

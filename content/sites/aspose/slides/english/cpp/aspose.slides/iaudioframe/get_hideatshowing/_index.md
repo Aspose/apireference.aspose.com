@@ -1,12 +1,12 @@
 ---
-title: get_HideAtShowing
+title: get_HideAtShowing()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an AudioFrame is hidden. Read bool.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/iaudioframe/get_hideatshowing/
 ---
-## IAudioFrame::get_HideAtShowing method
+## IAudioFrame::get_HideAtShowing() method
 
 
 Determines whether an [AudioFrame](../../audioframe/) is hidden. Read **bool**.

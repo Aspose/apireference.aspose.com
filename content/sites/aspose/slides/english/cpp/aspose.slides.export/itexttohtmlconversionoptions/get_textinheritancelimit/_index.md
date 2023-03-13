@@ -1,12 +1,12 @@
 ---
-title: get_TextInheritanceLimit
+title: get_TextInheritanceLimit()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns inhering depth for text properties. Read TextInheritanceLimit.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/itexttohtmlconversionoptions/get_textinheritancelimit/
 ---
-## ITextToHtmlConversionOptions::get_TextInheritanceLimit method
+## ITextToHtmlConversionOptions::get_TextInheritanceLimit() method
 
 
 Returns inhering depth for text properties. Read [TextInheritanceLimit](../../textinheritancelimit/).

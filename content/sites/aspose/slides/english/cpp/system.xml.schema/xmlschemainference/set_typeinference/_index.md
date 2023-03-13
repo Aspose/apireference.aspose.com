@@ -1,12 +1,12 @@
 ---
-title: set_TypeInference
+title: set_TypeInference()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the XmlSchemaInference::InferenceOption value that affects types inferred from the XML document."
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemainference/set_typeinference/
 ---
-## XmlSchemaInference::set_TypeInference method
+## XmlSchemaInference::set_TypeInference([XmlSchemaInference::InferenceOption](../inferenceoption/)) method
 
 
 Sets the [XmlSchemaInference::InferenceOption](../inferenceoption/) value that affects types inferred from the XML document.

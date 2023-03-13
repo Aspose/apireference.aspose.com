@@ -1,12 +1,12 @@
 ---
-title: get_InvertedSolidFillColor
+title: get_InvertedSolidFillColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies invert solid color for series. To apply color setting set series format FillType to FillType::Solid. Read IColorFormat."
 type: docs
 weight: 404
 url: /cpp/aspose.slides.charts/ichartseries/get_invertedsolidfillcolor/
 ---
-## IChartSeries::get_InvertedSolidFillColor method
+## IChartSeries::get_InvertedSolidFillColor() method
 
 
 Specifies invert solid color for series. To apply color setting set series format FillType to [FillType::Solid](../../../aspose.slides/filltype/). Read [IColorFormat](../../../aspose.slides/icolorformat/).

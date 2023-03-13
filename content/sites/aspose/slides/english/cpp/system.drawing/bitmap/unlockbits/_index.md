@@ -1,12 +1,12 @@
 ---
-title: UnlockBits
+title: UnlockBits()
 second_title: Aspose.Slides for C++ API Reference
 description: Unlocks the specified bitmap from system memory.
 type: docs
 weight: 131
 url: /cpp/system.drawing/bitmap/unlockbits/
 ---
-## Bitmap::UnlockBits method
+## Bitmap::UnlockBits(const [Imaging::BitmapDataPtr](../../../system.drawing.imaging/bitmapdataptr/)\&) method
 
 
 Unlocks the specified bitmap from system memory.

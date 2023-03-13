@@ -1,12 +1,12 @@
 ---
-title: GetCelestialStem
+title: GetCelestialStem()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets celestial stem.
 type: docs
 weight: 14
 url: /cpp/system.globalization/eastasianlunisolarcalendar/getcelestialstem/
 ---
-## EastAsianLunisolarCalendar::GetCelestialStem method
+## EastAsianLunisolarCalendar::GetCelestialStem(int) const method
 
 
 Gets celestial stem.

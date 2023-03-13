@@ -1,12 +1,12 @@
 ---
-title: get_PercentGroupSizes
+title: get_PercentGroupSizes()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets numbers of digits per percent value group.
 type: docs
 weight: 612
 url: /cpp/system.globalization/numberformatinfo/get_percentgroupsizes/
 ---
-## NumberFormatInfo::get_PercentGroupSizes method
+## NumberFormatInfo::get_PercentGroupSizes() const method
 
 
 Gets numbers of digits per percent value group.

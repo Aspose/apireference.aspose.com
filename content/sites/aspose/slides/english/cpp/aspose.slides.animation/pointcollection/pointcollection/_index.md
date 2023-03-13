@@ -1,12 +1,12 @@
 ---
-title: PointCollection
+title: PointCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/pointcollection/pointcollection/
 ---
-## PointCollection::PointCollection constructor
+## PointCollection::PointCollection() constructor
 
 
 

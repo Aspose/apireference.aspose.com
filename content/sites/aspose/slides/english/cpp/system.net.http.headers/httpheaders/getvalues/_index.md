@@ -1,12 +1,12 @@
 ---
-title: GetValues
+title: GetValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns corresponding values by the specified name.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/httpheaders/getvalues/
 ---
-## HttpHeaders::GetValues method
+## HttpHeaders::GetValues([String](../../../system/string/)) method
 
 
 Returns corresponding values by the specified name.

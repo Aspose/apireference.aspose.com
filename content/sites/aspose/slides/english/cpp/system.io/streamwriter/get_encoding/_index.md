@@ -1,12 +1,12 @@
 ---
-title: get_Encoding
+title: get_Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the currently used encoding.
 type: docs
 weight: 66
 url: /cpp/system.io/streamwriter/get_encoding/
 ---
-## StreamWriter::get_Encoding method
+## StreamWriter::get_Encoding() method
 
 
 Returns the currently used encoding.

@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaAnnotation
+title: XmlSchemaAnnotation()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaAnnotation class.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemaannotation/xmlschemaannotation/
 ---
-## XmlSchemaAnnotation::XmlSchemaAnnotation constructor
+## XmlSchemaAnnotation::XmlSchemaAnnotation() constructor
 
 
 Initializes a new instance of the [XmlSchemaAnnotation](../) class.

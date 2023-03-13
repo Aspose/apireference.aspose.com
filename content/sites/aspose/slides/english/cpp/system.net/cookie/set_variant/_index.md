@@ -1,12 +1,12 @@
 ---
-title: set_Variant
+title: set_Variant()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the cookie's specification.
 type: docs
 weight: 391
 url: /cpp/system.net/cookie/set_variant/
 ---
-## Cookie::set_Variant method
+## Cookie::set_Variant([CookieVariant](../../cookievariant/)) method
 
 
 Sets the cookie's specification.

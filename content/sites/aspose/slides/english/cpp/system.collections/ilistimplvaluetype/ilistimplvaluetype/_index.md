@@ -1,12 +1,12 @@
 ---
-title: IListImplValueType
+title: IListImplValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new object instance.
 type: docs
 weight: 1
 url: /cpp/system.collections/ilistimplvaluetype/ilistimplvaluetype/
 ---
-## IListImplValueType::IListImplValueType constructor
+## IListImplValueType::IListImplValueType([System::SharedPtr](../../../system/sharedptr/)\<[System::Collections::Generic::IList](../../../system.collections.generic/ilist/)\<T\>\>) constructor
 
 
 Creates new object instance.

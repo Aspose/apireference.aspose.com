@@ -1,12 +1,12 @@
 ---
-title: TranslateTransform
+title: TranslateTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Translates the local geometric transformation by the specified dimensions in the specified order.
 type: docs
 weight: 469
 url: /cpp/system.drawing/pen/translatetransform/
 ---
-## Pen::TranslateTransform method
+## Pen::TranslateTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
 
 
 Translates the local geometric transformation by the specified dimensions in the specified order.

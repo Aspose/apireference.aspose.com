@@ -1,12 +1,12 @@
 ---
-title: GetCount
+title: GetCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns count of effects for the specified shape.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.animation/sequence/getcount/
 ---
-## Sequence::GetCount method
+## Sequence::GetCount([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
 
 
 Returns count of effects for the specified shape.

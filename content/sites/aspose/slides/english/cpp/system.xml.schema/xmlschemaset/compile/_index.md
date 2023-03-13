@@ -1,12 +1,12 @@
 ---
-title: Compile
+title: Compile()
 second_title: Aspose.Slides for C++ API Reference
 description: Compiles the XML Schema definition language (XSD) schemas added to the XmlSchemaSet into one logical schema.
 type: docs
 weight: 209
 url: /cpp/system.xml.schema/xmlschemaset/compile/
 ---
-## XmlSchemaSet::Compile method
+## XmlSchemaSet::Compile() method
 
 
 Compiles the XML [Schema](../../) definition language (XSD) schemas added to the [XmlSchemaSet](../) into one logical schema.

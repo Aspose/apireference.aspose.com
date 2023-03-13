@@ -1,5 +1,5 @@
 ---
-title: AddConnector
+title: AddConnector()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new Connector, tunes it from default template and adds it to the end of the collection.
 type: docs

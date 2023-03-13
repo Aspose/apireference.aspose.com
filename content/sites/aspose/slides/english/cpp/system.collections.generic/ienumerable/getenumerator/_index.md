@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/ienumerable/getenumerator/
 ---
-## IEnumerable::GetEnumerator method
+## IEnumerable::GetEnumerator() method
 
 
 Gets enumerator.

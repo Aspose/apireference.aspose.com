@@ -1,12 +1,12 @@
 ---
-title: ImportParameters
+title: ImportParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Imports all parameters from data structure.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/ecdsa/importparameters/
 ---
-## ECDsa::ImportParameters method
+## ECDsa::ImportParameters(const [ECParameters](../../ecparameters/)\&) method
 
 
 Imports all parameters from data structure.

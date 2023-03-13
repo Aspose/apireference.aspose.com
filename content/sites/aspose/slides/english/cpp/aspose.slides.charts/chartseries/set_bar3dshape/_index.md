@@ -1,12 +1,12 @@
 ---
-title: set_Bar3DShape
+title: set_Bar3DShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the shape of a series of a 3-D bar chart. Changing of value of this property can cause to automatically changing Type of series. Write ChartShapeType.
 type: docs
 weight: 391
 url: /cpp/aspose.slides.charts/chartseries/set_bar3dshape/
 ---
-## ChartSeries::set_Bar3DShape method
+## ChartSeries::set_Bar3DShape([ChartShapeType](../../chartshapetype/)) method
 
 
 Specifies the shape of a series of a 3-D bar chart. Changing of value of this property can cause to automatically changing Type of series. Write [ChartShapeType](../../chartshapetype/).

@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts item into specified position.
 type: docs
 weight: 144
 url: /cpp/system.collections.objectmodel/collection/insert/
 ---
-## Collection::Insert method
+## Collection::Insert(int, const T\&) method
 
 
 Inserts item into specified position.

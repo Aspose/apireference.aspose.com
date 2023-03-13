@@ -1,12 +1,12 @@
 ---
-title: get_SchemaTypeName
+title: get_SchemaTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the simple type defined in this schema (or another schema indicated by the specified namespace).
 type: docs
 weight: 131
 url: /cpp/system.xml.schema/xmlschemaattribute/get_schematypename/
 ---
-## XmlSchemaAttribute::get_SchemaTypeName method
+## XmlSchemaAttribute::get_SchemaTypeName() method
 
 
 Returns the name of the simple type defined in this schema (or another schema indicated by the specified namespace).

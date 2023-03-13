@@ -1,7 +1,7 @@
 ---
-title: CreateMathArray
+title: CreateMathArray()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates a math array and places the specified element in it.
+description: Creates a math array and places the specified element in it
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/matharrayfactory/creatematharray/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/matharrayfactory/creatematharray/
 ## MathArrayFactory::CreateMathArray([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates a math array and places the specified element in it.
+Creates a math array and places the specified element in it
 
 ```cpp
 System::SharedPtr<IMathArray> Aspose::Slides::MathText::MathArrayFactory::CreateMathArray(System::SharedPtr<IMathElement> element) override
@@ -37,7 +37,7 @@ new math array
 ## MathArrayFactory::CreateMathArray([System::SharedPtr](../../../system/sharedptr/)\<[IMathElementCollection](../../imathelementcollection/)\>) method
 
 
-Creates a math array and places specified elements in it.
+Creates a math array and places specified elements in it
 
 ```cpp
 System::SharedPtr<IMathArray> Aspose::Slides::MathText::MathArrayFactory::CreateMathArray(System::SharedPtr<IMathElementCollection> elements) override

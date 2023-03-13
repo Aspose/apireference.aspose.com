@@ -1,12 +1,12 @@
 ---
-title: IsLoopback
+title: IsLoopback()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the specified address is a loopback address.
 type: docs
 weight: 274
 url: /cpp/system.net/ipaddress/isloopback/
 ---
-## IPAddress::IsLoopback method
+## IPAddress::IsLoopback([System::SharedPtr](../../../system/sharedptr/)\<[IPAddress](../)\>) method
 
 
 Returns a value that indicates if the specified address is a loopback address.

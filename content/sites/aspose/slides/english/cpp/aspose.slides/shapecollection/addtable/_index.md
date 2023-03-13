@@ -1,12 +1,12 @@
 ---
-title: AddTable
+title: AddTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new Table and adds it to the end of the collection.
 type: docs
 weight: 469
 url: /cpp/aspose.slides/shapecollection/addtable/
 ---
-## ShapeCollection::AddTable method
+## ShapeCollection::AddTable(**float**, **float**, [System::ArrayPtr](../../../system/arrayptr/)\<**double**\>, [System::ArrayPtr](../../../system/arrayptr/)\<**double**\>) method
 
 
 Creates a new [Table](../../table/) and adds it to the end of the collection.

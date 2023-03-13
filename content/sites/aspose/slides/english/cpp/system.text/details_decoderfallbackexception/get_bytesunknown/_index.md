@@ -1,12 +1,12 @@
 ---
-title: get_BytesUnknown
+title: get_BytesUnknown()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets byte array that triggered error.
 type: docs
 weight: 1
 url: /cpp/system.text/details_decoderfallbackexception/get_bytesunknown/
 ---
-## Details_DecoderFallbackException::get_BytesUnknown method
+## Details_DecoderFallbackException::get_BytesUnknown() method
 
 
 Gets byte array that triggered error.

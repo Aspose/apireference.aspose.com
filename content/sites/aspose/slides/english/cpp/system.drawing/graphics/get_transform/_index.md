@@ -1,12 +1,12 @@
 ---
-title: get_Transform
+title: get_Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the geometric world transformation for the current Graphics object.
 type: docs
 weight: 612
 url: /cpp/system.drawing/graphics/get_transform/
 ---
-## Graphics::get_Transform method
+## Graphics::get_Transform() method
 
 
 Returns the geometric world transformation for the current [Graphics](../) object.

@@ -1,12 +1,12 @@
 ---
-title: get_Encoding
+title: get_Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Always returns ASCII encoding.
 type: docs
 weight: 1
 url: /cpp/system/consoleoutput/get_encoding/
 ---
-## ConsoleOutput::get_Encoding method
+## ConsoleOutput::get_Encoding() method
 
 
 Always returns ASCII encoding.

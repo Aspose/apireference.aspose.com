@@ -1,12 +1,12 @@
 ---
-title: get_TextInfo
+title: get_TextInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets text parameters used by the culture.
 type: docs
 weight: 209
 url: /cpp/system.globalization/cultureinfo/get_textinfo/
 ---
-## CultureInfo::get_TextInfo method
+## CultureInfo::get_TextInfo() const method
 
 
 Gets text parameters used by the culture.

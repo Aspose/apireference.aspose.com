@@ -1,7 +1,7 @@
 ---
-title: SetSubSuperscriptOnTheLeft
+title: SetSubSuperscriptOnTheLeft()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates subscript and superscript on the left.
+description: Creates subscript and superscript on the left
 type: docs
 weight: 118
 url: /cpp/aspose.slides.mathtext/imathelement/setsubsuperscriptontheleft/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathelement/setsubsuperscriptontheleft/
 ## IMathElement::SetSubSuperscriptOnTheLeft([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>) method
 
 
-Creates subscript and superscript on the left.
+Creates subscript and superscript on the left
 
 ```cpp
 virtual System::SharedPtr<IMathLeftSubSuperscriptElement> Aspose::Slides::MathText::IMathElement::SetSubSuperscriptOnTheLeft(System::SharedPtr<IMathElement> subscript, System::SharedPtr<IMathElement> superscript)=0
@@ -49,7 +49,7 @@ auto leftSubsuperscript = baseElement->SetSubSuperscriptOnTheLeft(subscript, sup
 ## IMathElement::SetSubSuperscriptOnTheLeft([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
-Creates subscript and superscript on the left.
+Creates subscript and superscript on the left
 
 ```cpp
 virtual System::SharedPtr<IMathLeftSubSuperscriptElement> Aspose::Slides::MathText::IMathElement::SetSubSuperscriptOnTheLeft(System::String subscript, System::String superscript)=0

@@ -1,12 +1,12 @@
 ---
-title: set_NewLine
+title: set_NewLine()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a line terminator string.
 type: docs
 weight: 40
 url: /cpp/system.io/textwriter/set_newline/
 ---
-## TextWriter::set_NewLine method
+## TextWriter::set_NewLine(const [System::String](../../../system/string/)\&) method
 
 
 Sets a line terminator string.

@@ -1,12 +1,12 @@
 ---
-title: InsertRowAfter
+title: InsertRowAfter()
 second_title: Aspose.Slides for C++ API Reference
 description: Insert a new row after the specified one Initially all elements in the new row are null.
 type: docs
 weight: 300
 url: /cpp/aspose.slides.mathtext/mathmatrix/insertrowafter/
 ---
-## MathMatrix::InsertRowAfter method
+## MathMatrix::InsertRowAfter(**int32_t**) method
 
 
 Insert a new row after the specified one Initially all elements in the new row are null.

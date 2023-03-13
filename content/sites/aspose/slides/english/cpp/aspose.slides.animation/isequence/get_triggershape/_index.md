@@ -1,12 +1,12 @@
 ---
-title: get_TriggerShape
+title: get_TriggerShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns shape target for INTERACTIVE sequence. If sequence is not interactive then returns null. Read IShape.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/isequence/get_triggershape/
 ---
-## ISequence::get_TriggerShape method
+## ISequence::get_TriggerShape() method
 
 
 Returns shape target for INTERACTIVE sequence. If sequence is not interactive then returns null. Read [IShape](../../../aspose.slides/ishape/).

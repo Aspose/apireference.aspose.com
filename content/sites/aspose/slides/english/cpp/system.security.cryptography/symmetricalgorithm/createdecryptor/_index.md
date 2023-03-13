@@ -1,5 +1,5 @@
 ---
-title: CreateDecryptor
+title: CreateDecryptor()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates decryptor with parameters associated with algorithm object.
 type: docs

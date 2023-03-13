@@ -1,12 +1,12 @@
 ---
-title: MoveToFirst
+title: MoveToFirst()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the XPathNavigator to the first sibling node of the current node.
 type: docs
 weight: 612
 url: /cpp/system.xml.xpath/xpathnavigator/movetofirst/
 ---
-## XPathNavigator::MoveToFirst method
+## XPathNavigator::MoveToFirst() method
 
 
 Moves the [XPathNavigator](../) to the first sibling node of the current node.

@@ -1,12 +1,12 @@
 ---
-title: get_OwnerDocument
+title: get_OwnerDocument()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlDocument to which the current node belongs.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmldocument/get_ownerdocument/
 ---
-## XmlDocument::get_OwnerDocument method
+## XmlDocument::get_OwnerDocument() method
 
 
 Returns the [XmlDocument](../) to which the current node belongs.

@@ -1,12 +1,12 @@
 ---
-title: set_MaxCookieSize
+title: set_MaxCookieSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the maximum cookie size.
 type: docs
 weight: 53
 url: /cpp/system.net/cookiecontainer/set_maxcookiesize/
 ---
-## CookieContainer::set_MaxCookieSize method
+## CookieContainer::set_MaxCookieSize(**int32_t**) method
 
 
 Sets the maximum cookie size.

@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Analog of C# Object.ToString() method. Enables converting custom objects to string.
 type: docs
 weight: 391
 url: /cpp/system/timezoneinfo/tostring/
 ---
-## TimeZoneInfo::ToString method
+## TimeZoneInfo::ToString() const method
 
 
 Analog of C# [Object.ToString()](../../object/tostring/) method. Enables converting custom objects to string.

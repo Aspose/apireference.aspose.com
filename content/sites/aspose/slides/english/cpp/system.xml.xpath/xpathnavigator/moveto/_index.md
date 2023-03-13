@@ -1,12 +1,12 @@
 ---
-title: MoveTo
+title: MoveTo()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, moves the XPathNavigator to the same position as the specified XPathNavigator.
 type: docs
 weight: 664
 url: /cpp/system.xml.xpath/xpathnavigator/moveto/
 ---
-## XPathNavigator::MoveTo method
+## XPathNavigator::MoveTo([SharedPtr](../../../system/sharedptr/)\<[XPathNavigator](../)\>) method
 
 
 When overridden in a derived class, moves the [XPathNavigator](../) to the same position as the specified [XPathNavigator](../).

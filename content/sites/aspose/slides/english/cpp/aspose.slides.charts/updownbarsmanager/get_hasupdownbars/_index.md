@@ -1,12 +1,12 @@
 ---
-title: get_HasUpDownBars
+title: get_HasUpDownBars()
 second_title: Aspose.Slides for C++ API Reference
 description: HasUpDownBars. Read bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/updownbarsmanager/get_hasupdownbars/
 ---
-## UpDownBarsManager::get_HasUpDownBars method
+## UpDownBarsManager::get_HasUpDownBars() method
 
 
 HasUpDownBars. Read **bool**.

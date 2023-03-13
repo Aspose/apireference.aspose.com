@@ -1,12 +1,12 @@
 ---
-title: InsertAudioFrameCD
+title: InsertAudioFrameCD()
 second_title: Aspose.Slides for C++ API Reference
 description: Insert an AudioFrame with CD.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/shapecollection/insertaudioframecd/
 ---
-## ShapeCollection::InsertAudioFrameCD method
+## ShapeCollection::InsertAudioFrameCD(**int32_t**, **float**, **float**, **float**, **float**) method
 
 
 Insert an [AudioFrame](../../audioframe/) with CD.

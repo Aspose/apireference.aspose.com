@@ -1,12 +1,12 @@
 ---
-title: set_Type
+title: set_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines type of effect. Write EffectType.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/effect/set_type/
 ---
-## Effect::set_Type method
+## Effect::set_Type([EffectType](../../effecttype/)) method
 
 
 Defines type of effect. Write [EffectType](../../effecttype/).

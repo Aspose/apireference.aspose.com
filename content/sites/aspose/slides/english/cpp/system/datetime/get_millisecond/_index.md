@@ -1,12 +1,12 @@
 ---
-title: get_Millisecond
+title: get_Millisecond()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the millisecond component of the date and time value represented by the current object.
 type: docs
 weight: 183
 url: /cpp/system/datetime/get_millisecond/
 ---
-## DateTime::get_Millisecond method
+## DateTime::get_Millisecond() const method
 
 
 Returns the millisecond component of the date and time value represented by the current object.

@@ -1,5 +1,5 @@
 ---
-title: PrependChild
+title: PrependChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlWriter object used to create a new child node at the beginning of the list of child nodes of the current node.
 type: docs

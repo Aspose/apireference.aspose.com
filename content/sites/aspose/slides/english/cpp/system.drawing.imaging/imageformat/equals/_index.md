@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the image formats represented by the current and specified objects are equal.
 type: docs
 weight: 14
 url: /cpp/system.drawing.imaging/imageformat/equals/
 ---
-## ImageFormat::Equals method
+## ImageFormat::Equals([ImageFormatPtr](../../imageformatptr/)) const method
 
 
 Determines if the image formats represented by the current and specified objects are equal.

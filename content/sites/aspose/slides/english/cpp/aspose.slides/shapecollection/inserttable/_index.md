@@ -1,12 +1,12 @@
 ---
-title: InsertTable
+title: InsertTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new Table and inserts it to the collection at the specified index.
 type: docs
 weight: 482
 url: /cpp/aspose.slides/shapecollection/inserttable/
 ---
-## ShapeCollection::InsertTable method
+## ShapeCollection::InsertTable(**int32_t**, **float**, **float**, [System::ArrayPtr](../../../system/arrayptr/)\<**double**\>, [System::ArrayPtr](../../../system/arrayptr/)\<**double**\>) method
 
 
 Creates a new [Table](../../table/) and inserts it to the collection at the specified index.

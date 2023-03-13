@@ -1,12 +1,12 @@
 ---
-title: get_TrendlineName
+title: get_TrendlineName()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets name of the trendline. Read System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/trendline/get_trendlinename/
 ---
-## Trendline::get_TrendlineName method
+## Trendline::get_TrendlineName() method
 
 
 Gets name of the trendline. Read [System::String](../../../system/string/).

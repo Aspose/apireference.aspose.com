@@ -1,12 +1,12 @@
 ---
-title: EnumerateFiles
+title: EnumerateFiles()
 second_title: Aspose.Slides for C++ API Reference
 description: Searches for the files that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.
 type: docs
 weight: 40
 url: /cpp/system.io/directory/enumeratefiles/
 ---
-## Directory::EnumerateFiles method
+## Directory::EnumerateFiles(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, [SearchOption](../../searchoption/)) method
 
 
 Searches for the files that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.

@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, returns a clone of this XPathExpression.
 type: docs
 weight: 40
 url: /cpp/system.xml.xpath/xpathexpression/clone/
 ---
-## XPathExpression::Clone method
+## XPathExpression::Clone() method
 
 
 When overridden in a derived class, returns a clone of this [XPathExpression](../).

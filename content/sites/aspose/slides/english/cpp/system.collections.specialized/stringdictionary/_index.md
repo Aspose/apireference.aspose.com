@@ -19,25 +19,16 @@ class StringDictionary : public System::Collections::Generic::Dictionary<String,
 
 | Method | Description |
 | --- | --- |
-| void [_add_range](../../system.collections.generic/basedictionary/_add_range/)(std::initializer_list\<typename Map::value_type\>) | C++ specific. |
-| void [Add](../../system.collections.generic/basedictionary/add/)(const key_t\&, const mapped_t\&) override | Adds key-value pair into dictionary. |
+| virtual void [Add](../../system.collections.generic/idictionary/add/)(const TKey\&, const TValue\&) | Adds key-value pair into container. |
 | virtual void [Add](../../system.collections.generic/icollection/add/)(const T\&) | Adds element into collection. |
-|  [BaseDictionary](../../system.collections.generic/basedictionary/basedictionary/)() | Creates empty data structure. |
-|  [BaseDictionary](../../system.collections.generic/basedictionary/basedictionary/)(int, const Args\&...) | Forwarding constructor to push arguments into underlying map constructor. |
-|  [BaseDictionary](../../system.collections.generic/basedictionary/basedictionary/)([BaseType](../../system.collections.generic/basedictionary/basetype/) *, const Args\&...) | Copying constructor. |
-|  [BaseDictionary](../../system.collections.generic/basedictionary/basedictionary/)([BaseType](../../system.collections.generic/basedictionary/basetype/) *) | Copying constructor. |
-| [const_iterator](../../system.collections.generic/basedictionary/const_iterator/) [begin](../../system.collections.generic/basedictionary/begin/)() const | Returns an iterator to the KVPair-wrapper for key-value-element of the container. Implemented in C# style - iterator should be return the KVPair-object with get_Key() and get_Value() interface. If the container is empty, the returned iterator will be equal to [end()](../../system.collections.generic/ienumerable/end/). |
 | [iterator](../../system.collections.generic/ienumerable/iterator/) [begin](../../system.collections.generic/ienumerable/begin/)() | Gets iterator pointing to the first element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../../system.collections.generic/ienumerable/getenumerator/) returns a copy-object of T. |
-| stl_const_iterator [cbegin](../../system.collections.generic/basedictionary/cbegin/)() const | Returns an iterator to the first element of the container. Implemented in STL-style. If the container is empty, the returned iterator will be equal to [end()](../../system.collections.generic/ienumerable/end/). |
-| stl_const_iterator [cend](../../system.collections.generic/basedictionary/cend/)() const | Returns an iterator to the element following the last element of the container. Implemented in STL-style. This element acts as a placeholder; attempting to access it results in undefined behavior. |
-| void [Clear](../../system.collections.generic/basedictionary/clear/)() override | Deletes all elements. |
+| [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [begin](../../system.collections.generic/ienumerable/begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
+| [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [cbegin](../../system.collections.generic/ienumerable/cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
+| [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [cend](../../system.collections.generic/ienumerable/cend/)() const | Gets iterator pointing right after the last const-qualified element (if any) of the collection. |
+| virtual void [Clear](../../system.collections.generic/icollection/clear/)() | Deletes all elements from collection. |
 | virtual **bool** [Contains](../../system.collections.generic/icollection/contains/)(const T\&) const | Checks if element is present in collection. |
-| **bool** [ContainsKey](../../system.collections.generic/basedictionary/containskey/)(const key_t\&) const override | Checks if key is present in dictionary. |
-| **bool** [ContainsValue](../../system.collections.generic/basedictionary/containsvalue/)(const mapped_t\&) | Checks if value is present in dictionary. Uses operator == to compare values. |
+| virtual **bool** [ContainsKey](../../system.collections.generic/idictionary/containskey/)(const TKey\&) const | Checks if container contains key. |
 | void [CopyTo](../../system.collections.generic/idictionary/copyto/)([ArrayPtr](../../system/arrayptr/)\<[KeyValuePair](../../system.collections.generic/keyvaluepair/)\<TKey, TValue\>\>, int) override | Copies dictionary contents into existing array elements. |
-| virtual void [CopyTo](../../system.collections.generic/icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
-| Map\& [data](../../system.collections.generic/basedictionary/data/)() | Underlying data storage accessor. |
-| const Map\& [data](../../system.collections.generic/basedictionary/data/)() const | Underlying data storage accessor. |
 |  [Dictionary](../../system.collections.generic/dictionary/dictionary/)() | Creates empty dictionary. |
 |  [Dictionary](../../system.collections.generic/dictionary/dictionary/)(const [map_t](../../system.collections.generic/dictionary/map_t/)\&) | Copies data from map. |
 |  [Dictionary](../../system.collections.generic/dictionary/dictionary/)(int) | Overload which corresponds to creating pre-allocated dictionary; does no allocation, actually. |
@@ -45,15 +36,15 @@ class StringDictionary : public System::Collections::Generic::Dictionary<String,
 |  [Dictionary](../../system.collections.generic/dictionary/dictionary/)(const [SharedPtr](../../system/sharedptr/)\<[IDictionary](../../system.collections.generic/idictionary/)\<TKey, TValue\>\>\&, const [SharedPtr](../../system/sharedptr/)\<[IEqualityComparer](../../system.collections.generic/iequalitycomparer/)\<TKey\>\>\&) | Copy constructor. |
 |  [Dictionary](../../system.collections.generic/dictionary/dictionary/)(const [SharedPtr](../../system/sharedptr/)\<[IEqualityComparer](../../system.collections.generic/iequalitycomparer/)\<TKey\>\>\&) | Creates empty dictionary. |
 |  [Dictionary](../../system.collections.generic/dictionary/dictionary/)(int, const [SharedPtr](../../system/sharedptr/)\<[IEqualityComparer](../../system.collections.generic/iequalitycomparer/)\<TKey\>\>\&) | Creates empty dictionary. |
-| [const_iterator](../../system.collections.generic/basedictionary/const_iterator/) [end](../../system.collections.generic/basedictionary/end/)() const | Returns an iterator to the KVPair-wrapper for key-value-element following the last element of the container. Implemented in C# style - iterator should be return the KVPair-object with get_Key() and get_Value() interface. This element acts as a placeholder; attempting to access it results in undefined behavior. |
 | [iterator](../../system.collections.generic/ienumerable/iterator/) [end](../../system.collections.generic/ienumerable/end/)() | Gets iterator pointing right after the last element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../../system.collections.generic/ienumerable/getenumerator/) returns a copy-object of T. |
+| [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [end](../../system.collections.generic/ienumerable/end/)() const | Gets iterator pointing right after the last element (if any) of the const-qualified instance of the collection. |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |
 | static **bool** [Equals](../../system/object/equals/)(**float** const\&, **float** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
-| **int32_t** [get_Count](../../system.collections.generic/basedictionary/get_count/)() const override | Gets elements count. |
+| virtual int [get_Count](../../system.collections.generic/icollection/get_count/)() const | Gets number of elements in collection. |
 | **bool** [get_IsFixedSize](../../system.collections.generic/idictionary/get_isfixedsize/)() const | Checks if collection size is fixed. |
 | virtual **bool** [get_IsReadOnly](../../system.collections.generic/icollection/get_isreadonly/)() const | Checks if collection is read only. |
 | **bool** [get_IsSynchronized](../../system.collections.generic/idictionary/get_issynchronized/)() const | Checks if container is thread-safe. |
@@ -64,15 +55,15 @@ class StringDictionary : public System::Collections::Generic::Dictionary<String,
 | [IEnumeratorPtr](../../system.collections.generic/dictionary/ienumeratorptr/) [GetEnumerator](../../system.collections.generic/dictionary/getenumerator/)() override | Creates enumerator object. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
-| mapped_t [GetValueOrDefault](../../system.collections.generic/basedictionary/getvalueordefault/)(const key_t\&) const override | Returns value if found; or **Value()** otherwise. |
-| mapped_t [GetValueOrDefault](../../system.collections.generic/basedictionary/getvalueordefault/)(const key_t\&, const mapped_t\&) const override | Returns value if found; or **defaultValue** otherwise. |
-| mapped_t [GetValueOrNull](../../system.collections.generic/basedictionary/getvalueornull/)(const key_t\&) const override | Returns value if found; or **null** otherwise. Make sense only for reference types. |
+| virtual TValue [GetValueOrDefault](../../system.collections.generic/idictionary/getvalueordefault/)(const TKey\&) const | Returns value if found; or **Value()** otherwise. |
+| virtual TValue [GetValueOrDefault](../../system.collections.generic/idictionary/getvalueordefault/)(const TKey\&, const TValue\&) const | Returns value if found; or **defaultValue** otherwise. |
+| virtual TValue [GetValueOrNull](../../system.collections.generic/idictionary/getvalueornull/)(const TKey\&) const | Returns value if found; or **null** otherwise, make sense only for reference types. |
 |  [ICollection](../../system.collections.generic/icollection/icollection/)() | Default constructor. |
 |  [ICollection](../../system.collections.generic/icollection/icollection/)(const [ICollection](../../system.collections.generic/icollection/)\&) | Copy constructor. |
 |  [ICollection](../../system.collections.generic/icollection/icollection/)([ICollection](../../system.collections.generic/icollection/)\&&) | Move constructor. |
 | [String](../../system/string/) [idx_get](./idx_get/)(const [String](../../system/string/)\&) const override | Gets value at specific key. |
-| mapped_t [idx_get](../../system.collections.generic/basedictionary/idx_get/)(const key_t\&) const override | Keyed getter function. |
-| void [idx_set](../../system.collections.generic/basedictionary/idx_set/)(const key_t\&, mapped_t) override | Keyed setter function. Alters or creates element. |
+| virtual TValue [idx_get](../../system.collections.generic/idictionary/idx_get/)(const TKey\&) const | Getter function. |
+| virtual void [idx_set](../../system.collections.generic/idictionary/idx_set/)(const TKey\&, TValue) | Setter function. |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
 | **bool** [LINQ_All](../../system.collections.generic/ienumerable/linq_all/)(std::function\<**bool**(T)>) | Determines whether all elements of a sequence satisfy a condition. |
 | **bool** [LINQ_Any](../../system.collections.generic/ienumerable/linq_any/)() | Determines whether a sequence contains any elements. |
@@ -114,28 +105,26 @@ class StringDictionary : public System::Collections::Generic::Dictionary<String,
 | [ICollection](../../system.collections.generic/icollection/)\& [operator=](../../system.collections.generic/icollection/operator_equal/)([ICollection](../../system.collections.generic/icollection/)\&&) | Move assignment operator. |
 | [ICollection](../../system.collections.generic/icollection/)\& [operator=](../../system.collections.generic/icollection/operator_equal/)(const [ICollection](../../system.collections.generic/icollection/)\&) | Move assignment operator. |
 | [Object](../../system/object/)\& [operator=](../../system/object/operator_equal/)([Object](../../system/object/) const\&) | Assignment operator. Doesn't copy anything, really, just initializes new object and enables copy constructing subclasses. |
-| virtual mapped_t\& [operator[]](../../system.collections.generic/basedictionary/operator[]/)(const key_t\&) | Accessor function. |
 | static **bool** [ReferenceEquals](../../system/object/referenceequals/)([ptr](../../system/object/ptr/) const\&, [ptr](../../system/object/ptr/) const\&) | Compares objects by reference. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T\>::value, **bool**\>::type [ReferenceEquals](../../system/object/referenceequals/)(T const\&, T const\&) | Compares objects by reference. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T\>::value, **bool**\>::type [ReferenceEquals](../../system/object/referenceequals/)(T const\&, std::nullptr_t) | Reference-compares value type object with nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
-| **bool** [Remove](../../system.collections.generic/basedictionary/remove/)(const key_t\&) override | Removes specific key from dictionary. |
+| virtual **bool** [Remove](../../system.collections.generic/idictionary/remove/)(const TKey\&) | Removes key from container. |
 | virtual **bool** [Remove](../../system.collections.generic/icollection/remove/)(const T\&) | Deletes element from collection. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
-| void [SetTemplateWeakPtr](../../system.collections.generic/basedictionary/settemplateweakptr/)(unsigned int) override |  |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | virtual [String](../../system/string/) [ToString](../../system/object/tostring/)() const | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
-| **bool** [TryGetValue](../../system.collections.generic/basedictionary/trygetvalue/)(const key_t\&, mapped_t\&) const override | Looks for keyed value and retreives it if found. |
+| virtual **bool** [TryGetValue](../../system.collections.generic/idictionary/trygetvalue/)(const TKey\&, TValue\&) const | Looks for value and retreives it if found. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
-| System::Details::VirtualizedIteratorBase\<[KVPair](../../system.collections.generic/basedictionary/kvpair/)\> * [virtualizeBeginConstIterator](../../system.collections.generic/basedictionary/virtualizebeginconstiterator/)() const override | Gets the implementation of begin const iterator for the current container. |
-| System::Details::VirtualizedIteratorBase\<[KVPair](../../system.collections.generic/basedictionary/kvpair/)\> * [virtualizeBeginIterator](../../system.collections.generic/basedictionary/virtualizebeginiterator/)() override | Gets the implementation of begin iterator for the current container. |
-| System::Details::VirtualizedIteratorBase\<[KVPair](../../system.collections.generic/basedictionary/kvpair/)\> * [virtualizeEndConstIterator](../../system.collections.generic/basedictionary/virtualizeendconstiterator/)() const override | Gets the implementation of end const iterator for the current container. |
-| System::Details::VirtualizedIteratorBase\<[KVPair](../../system.collections.generic/basedictionary/kvpair/)\> * [virtualizeEndIterator](../../system.collections.generic/basedictionary/virtualizeenditerator/)() override | Gets the implementation of end iterator for the current container. |
+| virtual [virtualized_iterator](../../system.collections.generic/ienumerable/virtualized_iterator/) * [virtualizeBeginConstIterator](../../system.collections.generic/ienumerable/virtualizebeginconstiterator/)() const | Gets the implementation of begin const iterator for the current container. |
+| virtual [virtualized_iterator](../../system.collections.generic/ienumerable/virtualized_iterator/) * [virtualizeBeginIterator](../../system.collections.generic/ienumerable/virtualizebeginiterator/)() | Gets the implementation of begin iterator for the current container. |
+| virtual [virtualized_iterator](../../system.collections.generic/ienumerable/virtualized_iterator/) * [virtualizeEndConstIterator](../../system.collections.generic/ienumerable/virtualizeendconstiterator/)() const | Gets the implementation of end const iterator for the current container. |
+| virtual [virtualized_iterator](../../system.collections.generic/ienumerable/virtualized_iterator/) * [virtualizeEndIterator](../../system.collections.generic/ienumerable/virtualizeenditerator/)() | Gets the implementation of end iterator for the current container. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../../system/object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | virtual  [~ICollection](../../system.collections.generic/icollection/~icollection/)() | Destructor. |

@@ -1,12 +1,12 @@
 ---
-title: GetFillStyles
+title: GetFillStyles()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of theme defined fill styles.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/iformatschemeeffectivedata/getfillstyles/
 ---
-## IFormatSchemeEffectiveData::GetFillStyles method
+## IFormatSchemeEffectiveData::GetFillStyles([System::Drawing::Color](../../../system.drawing/color/)) method
 
 
 Returns a collection of theme defined fill styles.

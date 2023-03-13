@@ -1,15 +1,15 @@
 ---
-title: CreateMathRadical
+title: CreateMathRadical()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates a math radical.
+description: Creates a math radical
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathradicalfactory/createmathradical/
 ---
-## MathRadicalFactory::CreateMathRadical method
+## MathRadicalFactory::CreateMathRadical([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates a math radical.
+Creates a math radical
 
 ```cpp
 System::SharedPtr<IMathRadical> Aspose::Slides::MathText::MathRadicalFactory::CreateMathRadical(System::SharedPtr<IMathElement> baseArgument, System::SharedPtr<IMathElement> degreeArgument) override

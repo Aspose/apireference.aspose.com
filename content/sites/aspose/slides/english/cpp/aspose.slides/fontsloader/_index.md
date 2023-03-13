@@ -19,7 +19,7 @@ class FontsLoader : public Aspose::Slides::IFontsLoader
 
 | Method | Description |
 | --- | --- |
-| static void [ClearCache](./clearcache/)() | Releases all custom fonts defined by user. |
+| static void [ClearCache](./clearcache/)() | Releases all custom fonts defined by user |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |
@@ -27,11 +27,11 @@ class FontsLoader : public Aspose::Slides::IFontsLoader
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
-| static [System::ArrayPtr](../../system/arrayptr/)\<[System::String](../../system/string/)\> [GetFontFolders](./getfontfolders/)() | Gets font folders. Returns folders that have been added with LoadExternalFonts method as well as system font folders. |
+| static [System::ArrayPtr](../../system/arrayptr/)\<[System::String](../../system/string/)\> [GetFontFolders](./getfontfolders/)() | Gets font folders. Returns folders that have been added with LoadExternalFonts method as well as system font folders |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
-| static void [LoadExternalFont](./loadexternalfont/)([System::ArrayPtr](../../system/arrayptr/)\<**uint8_t**\>) | Adds font from the binary data. |
+| static void [LoadExternalFont](./loadexternalfont/)([System::ArrayPtr](../../system/arrayptr/)\<**uint8_t**\>) | Adds font from the binary data |
 | static void [LoadExternalFonts](./loadexternalfonts/)([System::ArrayPtr](../../system/arrayptr/)\<[System::String](../../system/string/)\>) | Adds additional folders to seek fonts. |
 | void [Lock](../../system/object/lock/)() | Implements C# lock() statement locking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
 | virtual [ptr](../../system/object/ptr/) [MemberwiseClone](../../system/object/memberwiseclone/)() const | Analog of C# [Object.MemberwiseClone()](../../system/object/memberwiseclone/) method. Enables cloning custom types. |

@@ -1,5 +1,5 @@
 ---
-title: IsLowSurrogate
+title: IsLowSurrogate()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the character at the specified index in the specified character buffer is a low surrogate.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_Maxargs
+title: get_Maxargs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the maximum number of arguments for the function. This enables the user to differentiate between overloaded functions.
 type: docs
 weight: 14
 url: /cpp/system.xml.xsl/ixsltcontextfunction/get_maxargs/
 ---
-## IXsltContextFunction::get_Maxargs method
+## IXsltContextFunction::get_Maxargs() method
 
 
 Returns the maximum number of arguments for the function. This enables the user to differentiate between overloaded functions.

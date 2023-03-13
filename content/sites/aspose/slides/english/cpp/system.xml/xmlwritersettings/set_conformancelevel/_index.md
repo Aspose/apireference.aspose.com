@@ -1,12 +1,12 @@
 ---
-title: set_ConformanceLevel
+title: set_ConformanceLevel()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the level of conformance that the XML writer checks the XML output for.
 type: docs
 weight: 222
 url: /cpp/system.xml/xmlwritersettings/set_conformancelevel/
 ---
-## XmlWriterSettings::set_ConformanceLevel method
+## XmlWriterSettings::set_ConformanceLevel([System::Xml::ConformanceLevel](../../conformancelevel/)) method
 
 
 Sets the level of conformance that the XML writer checks the XML output for.

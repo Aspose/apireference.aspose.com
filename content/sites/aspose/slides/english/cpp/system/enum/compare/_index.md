@@ -1,12 +1,12 @@
 ---
-title: Compare
+title: Compare()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs the arithmetic comparison of the values of the specified enumeration constants.
 type: docs
 weight: 118
 url: /cpp/system/enum/compare/
 ---
-## Enum::Compare method
+## Enum::Compare(E, T) method
 
 
 Performs the arithmetic comparison of the values of the specified enumeration constants.

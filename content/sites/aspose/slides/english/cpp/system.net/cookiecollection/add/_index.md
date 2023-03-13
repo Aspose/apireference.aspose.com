@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a cookie to the collection.
 type: docs

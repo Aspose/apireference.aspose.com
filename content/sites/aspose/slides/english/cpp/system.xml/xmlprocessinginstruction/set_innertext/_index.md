@@ -1,12 +1,12 @@
 ---
-title: set_InnerText
+title: set_InnerText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the concatenated values of the node and all its children.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlprocessinginstruction/set_innertext/
 ---
-## XmlProcessingInstruction::set_InnerText method
+## XmlProcessingInstruction::set_InnerText([String](../../../system/string/)) method
 
 
 Sets the concatenated values of the node and all its children.

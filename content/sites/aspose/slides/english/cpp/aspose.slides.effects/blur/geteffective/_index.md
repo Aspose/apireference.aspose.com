@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Blur effect data with the inheritance applied.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/blur/geteffective/
 ---
-## Blur::GetEffective method
+## Blur::GetEffective() method
 
 
 Gets effective [Blur](../) effect data with the inheritance applied.

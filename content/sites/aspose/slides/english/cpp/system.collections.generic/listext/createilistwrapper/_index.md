@@ -1,12 +1,12 @@
 ---
-title: CreateIListWrapper
+title: CreateIListWrapper()
 second_title: Aspose.Slides for C++ API Reference
 description: IListWrapper interface implementation.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/listext/createilistwrapper/
 ---
-## ListExt::CreateIListWrapper method
+## ListExt::CreateIListWrapper() method
 
 
 [IListWrapper](../../../system.collections/ilistwrapper/) interface implementation.

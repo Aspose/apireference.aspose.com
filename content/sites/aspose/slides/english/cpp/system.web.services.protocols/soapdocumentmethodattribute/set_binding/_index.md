@@ -1,12 +1,12 @@
 ---
-title: set_Binding
+title: set_Binding()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the binding for which an XML web service method is implementing an operation.
 type: docs
 weight: 40
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_binding/
 ---
-## SoapDocumentMethodAttribute::set_Binding method
+## SoapDocumentMethodAttribute::set_Binding([String](../../../system/string/)) method
 
 
 Sets the binding for which an XML web service method is implementing an operation.

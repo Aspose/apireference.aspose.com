@@ -1,5 +1,5 @@
 ---
-title: ConvertAll
+title: ConvertAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new Array object and fills it with elements of the specified array converted to OutputType type using the specified converter delegate.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_Authorization
+title: get_Authorization()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Authorization' header.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/httprequestheaders/get_authorization/
 ---
-## HttpRequestHeaders::get_Authorization method
+## HttpRequestHeaders::get_Authorization() method
 
 
 Gets a value of the 'Authorization' header.

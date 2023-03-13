@@ -1,5 +1,5 @@
 ---
-title: Write
+title: Write()
 second_title: Aspose.Slides for C++ API Reference
 description: Outputs the string representation of the specified bool value to the output stream represented by the current object.
 type: docs

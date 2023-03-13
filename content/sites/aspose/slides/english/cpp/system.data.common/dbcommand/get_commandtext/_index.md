@@ -1,12 +1,12 @@
 ---
-title: get_CommandText
+title: get_CommandText()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data.common/dbcommand/get_commandtext/
 ---
-## DbCommand::get_CommandText method
+## DbCommand::get_CommandText() const method
 
 
 RTTI information.

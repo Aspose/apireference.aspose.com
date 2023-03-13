@@ -1,12 +1,12 @@
 ---
-title: AddAlphaCeilingEffect
+title: AddAlphaCeilingEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Alpha Ceiling effect to the end of a collection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addalphaceilingeffect/
 ---
-## ImageTransformOperationCollection::AddAlphaCeilingEffect method
+## ImageTransformOperationCollection::AddAlphaCeilingEffect() method
 
 
 Adds the new Alpha Ceiling effect to the end of a collection.

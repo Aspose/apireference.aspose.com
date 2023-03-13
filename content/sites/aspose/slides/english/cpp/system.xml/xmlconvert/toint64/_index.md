@@ -1,12 +1,12 @@
 ---
-title: ToInt64
+title: ToInt64()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Int64 equivalent.
 type: docs
 weight: 313
 url: /cpp/system.xml/xmlconvert/toint64/
 ---
-## XmlConvert::ToInt64 method
+## XmlConvert::ToInt64(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [Int64](../../../system/int64/) equivalent.

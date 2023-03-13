@@ -1,12 +1,12 @@
 ---
-title: get_To
+title: get_To()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the certain attribute of a effect after an animation effect. Represents point value. Only: bool, ColorFormat, float, int, string. Read System::Object."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.animation/seteffect/get_to/
 ---
-## SetEffect::get_To method
+## SetEffect::get_To() method
 
 
 Specifies the certain attribute of a effect after an animation effect. Represents point value. Only: bool, [ColorFormat](../../../aspose.slides/colorformat/), float, int, string. Read [System::Object](../../../system/object/).

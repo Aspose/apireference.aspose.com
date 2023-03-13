@@ -1,12 +1,12 @@
 ---
-title: ToUInt32
+title: ToUInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value of this instance to an equivalent 32-bit uint32_teger using the specified culture-specific formatting information.
 type: docs
 weight: 105
 url: /cpp/system/iconvertible/touint32/
 ---
-## IConvertible::ToUInt32 method
+## IConvertible::ToUInt32([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to an equivalent 32-bit uint32_teger using the specified culture-specific formatting information.

@@ -1,12 +1,12 @@
 ---
-title: get_NameTable
+title: get_NameTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlNameTable used to atomize strings. For more information on atomized strings, see XmlNameTable.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlparsercontext/get_nametable/
 ---
-## XmlParserContext::get_NameTable method
+## XmlParserContext::get_NameTable() method
 
 
 Returns the [XmlNameTable](../../xmlnametable/) used to atomize strings. For more information on atomized strings, see [XmlNameTable](../../xmlnametable/).

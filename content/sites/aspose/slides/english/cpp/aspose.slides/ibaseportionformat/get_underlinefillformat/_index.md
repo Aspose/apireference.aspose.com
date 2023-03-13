@@ -1,12 +1,12 @@
 ---
-title: get_UnderlineFillFormat
+title: get_UnderlineFillFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the underline line FillFormat properties. No inheritance applied. Read-only IFillFormat.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ibaseportionformat/get_underlinefillformat/
 ---
-## IBasePortionFormat::get_UnderlineFillFormat method
+## IBasePortionFormat::get_UnderlineFillFormat() method
 
 
 Returns the underline line [FillFormat](../../fillformat/) properties. No inheritance applied. Read-only [IFillFormat](../../ifillformat/).

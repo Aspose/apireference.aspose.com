@@ -1,12 +1,12 @@
 ---
-title: LINQ_Concat
+title: LINQ_Concat()
 second_title: Aspose.Slides for C++ API Reference
 description: Concatenates two sequences.
 type: docs
 weight: 235
 url: /cpp/system.collections.generic/ienumerable/linq_concat/
 ---
-## IEnumerable::LINQ_Concat method
+## IEnumerable::LINQ_Concat([SharedPtr](../../../system/sharedptr/)\<[IEnumerable](../)\<T\>\>) method
 
 
 Concatenates two sequences.

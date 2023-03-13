@@ -1,12 +1,12 @@
 ---
-title: get_SchemaElement
+title: get_SchemaElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the compiled XmlSchemaElement that corresponds to this validated XML node.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/ixmlschemainfo/get_schemaelement/
 ---
-## IXmlSchemaInfo::get_SchemaElement method
+## IXmlSchemaInfo::get_SchemaElement() method
 
 
 Returns the compiled [XmlSchemaElement](../../xmlschemaelement/) that corresponds to this validated XML node.

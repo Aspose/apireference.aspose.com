@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the CacheControlHeaderValue class.
 type: docs
 weight: 443
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/tryparse/
 ---
-## CacheControlHeaderValue::TryParse method
+## CacheControlHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[CacheControlHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [CacheControlHeaderValue](../) class.

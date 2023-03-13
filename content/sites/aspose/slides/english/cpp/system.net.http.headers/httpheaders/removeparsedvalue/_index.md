@@ -1,12 +1,12 @@
 ---
-title: RemoveParsedValue
+title: RemoveParsedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a header by the specified name and removes a parsed value from the header.
 type: docs
 weight: 196
 url: /cpp/system.net.http.headers/httpheaders/removeparsedvalue/
 ---
-## HttpHeaders::RemoveParsedValue method
+## HttpHeaders::RemoveParsedValue([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Gets a header by the specified name and removes a parsed value from the header.

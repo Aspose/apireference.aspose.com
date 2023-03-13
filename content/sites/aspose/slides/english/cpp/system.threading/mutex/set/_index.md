@@ -1,12 +1,12 @@
 ---
-title: Set
+title: Set()
 second_title: Aspose.Slides for C++ API Reference
 description: Set mutex to signalled state. Not implemented.
 type: docs
 weight: 40
 url: /cpp/system.threading/mutex/set/
 ---
-## Mutex::Set method
+## Mutex::Set() method
 
 
 Set mutex to signalled state. Not implemented.

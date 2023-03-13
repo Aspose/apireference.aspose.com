@@ -1,12 +1,12 @@
 ---
-title: Reverse
+title: Reverse()
 second_title: Aspose.Slides for C++ API Reference
 description: Reverses the order of points in the PathPoints array of this GraphicsPath.
 type: docs
 weight: 79
 url: /cpp/system.drawing.drawing2d/graphicspath/reverse/
 ---
-## GraphicsPath::Reverse method
+## GraphicsPath::Reverse() method
 
 
 Reverses the order of points in the PathPoints array of this [GraphicsPath](../).

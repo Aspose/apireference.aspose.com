@@ -1,12 +1,12 @@
 ---
-title: IsXmlSurrogatePair
+title: IsXmlSurrogatePair()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the passed-in surrogate pair of characters is a valid XML character.
 type: docs
 weight: 183
 url: /cpp/system.xml/xmlconvert/isxmlsurrogatepair/
 ---
-## XmlConvert::IsXmlSurrogatePair method
+## XmlConvert::IsXmlSurrogatePair(char16_t, char16_t) method
 
 
 Checks if the passed-in surrogate pair of characters is a valid XML character.

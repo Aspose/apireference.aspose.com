@@ -1,12 +1,12 @@
 ---
-title: get_ParentComment
+title: get_ParentComment()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets parent comment. Read IComment.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/comment/get_parentcomment/
 ---
-## Comment::get_ParentComment method
+## Comment::get_ParentComment() method
 
 
 Gets parent comment. Read [IComment](../../icomment/).

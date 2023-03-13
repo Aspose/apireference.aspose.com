@@ -1,5 +1,5 @@
 ---
-title: ToDouble
+title: ToDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts eight bytes from the specified array starting at the specified index to double-precision floating point value.
 type: docs

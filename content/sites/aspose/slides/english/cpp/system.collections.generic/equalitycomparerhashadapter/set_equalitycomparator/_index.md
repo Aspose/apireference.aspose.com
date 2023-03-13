@@ -1,12 +1,12 @@
 ---
-title: set_EqualityComparator
+title: set_EqualityComparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets comparator to use.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/equalitycomparerhashadapter/set_equalitycomparator/
 ---
-## EqualityComparerHashAdapter::set_EqualityComparator method
+## EqualityComparerHashAdapter::set_EqualityComparator(const [SharedPtr](../../../system/sharedptr/)\<[IEqualityComparer](../../iequalitycomparer/)\<T\>\>\&) method
 
 
 Sets comparator to use.

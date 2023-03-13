@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Getter function.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/idictionary/idx_get/
 ---
-## IDictionary::idx_get method
+## IDictionary::idx_get(const TKey\&) const method
 
 
 Getter function.

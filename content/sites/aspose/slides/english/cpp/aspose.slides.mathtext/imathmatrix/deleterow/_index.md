@@ -1,15 +1,15 @@
 ---
-title: DeleteRow
+title: DeleteRow()
 second_title: Aspose.Slides for C++ API Reference
-description: Deletes the specified row.
+description: Deletes the specified row
 type: docs
 weight: 300
 url: /cpp/aspose.slides.mathtext/imathmatrix/deleterow/
 ---
-## IMathMatrix::DeleteRow method
+## IMathMatrix::DeleteRow(**int32_t**) method
 
 
-Deletes the specified row.
+Deletes the specified row
 
 ```cpp
 virtual void Aspose::Slides::MathText::IMathMatrix::DeleteRow(int32_t rowIndex)=0

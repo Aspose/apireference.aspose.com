@@ -1,5 +1,5 @@
 ---
-title: Queue
+title: Queue()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs empty queue.
 type: docs

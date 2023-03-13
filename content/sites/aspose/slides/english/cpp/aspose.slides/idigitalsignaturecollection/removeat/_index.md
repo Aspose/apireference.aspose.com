@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the signature at the specified index.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/idigitalsignaturecollection/removeat/
 ---
-## IDigitalSignatureCollection::RemoveAt method
+## IDigitalSignatureCollection::RemoveAt(**int32_t**) method
 
 
 Removes the signature at the specified index.

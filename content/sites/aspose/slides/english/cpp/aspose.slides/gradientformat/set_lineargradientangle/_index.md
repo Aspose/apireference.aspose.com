@@ -1,12 +1,12 @@
 ---
-title: set_LinearGradientAngle
+title: set_LinearGradientAngle()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the angle of a gradient. Write float.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/gradientformat/set_lineargradientangle/
 ---
-## GradientFormat::set_LinearGradientAngle method
+## GradientFormat::set_LinearGradientAngle(**float**) method
 
 
 Sets the angle of a gradient. Write **float**.

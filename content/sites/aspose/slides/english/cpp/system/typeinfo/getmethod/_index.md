@@ -1,12 +1,12 @@
 ---
-title: GetMethod
+title: GetMethod()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets method with specified name.
 type: docs
 weight: 482
 url: /cpp/system/typeinfo/getmethod/
 ---
-## TypeInfo::GetMethod method
+## TypeInfo::GetMethod(const [String](../../string/)\&) const method
 
 
 Gets method with specified name.

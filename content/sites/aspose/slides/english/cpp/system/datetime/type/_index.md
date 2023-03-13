@@ -1,12 +1,12 @@
 ---
-title: Type
+title: Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a TypeInfo object that contains information about this class.
 type: docs
 weight: 911
 url: /cpp/system/datetime/type/
 ---
-## DateTime::Type method
+## DateTime::Type() method
 
 
 Returns a [TypeInfo](../../typeinfo/) object that contains information about this class.

@@ -1,12 +1,12 @@
 ---
-title: InternalSetName
+title: InternalSetName()
 second_title: Aspose.Slides for C++ API Reference
 description: This method is called by other methods to set a method name.
 type: docs
 weight: 456
 url: /cpp/system.net/cookie/internalsetname/
 ---
-## Cookie::InternalSetName method
+## Cookie::InternalSetName([String](../../../system/string/)) method
 
 
 This method is called by other methods to set a method name.

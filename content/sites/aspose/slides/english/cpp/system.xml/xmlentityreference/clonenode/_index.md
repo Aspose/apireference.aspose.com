@@ -1,12 +1,12 @@
 ---
-title: CloneNode
+title: CloneNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a duplicate of this node.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlentityreference/clonenode/
 ---
-## XmlEntityReference::CloneNode method
+## XmlEntityReference::CloneNode(**bool**) method
 
 
 Creates a duplicate of this node.

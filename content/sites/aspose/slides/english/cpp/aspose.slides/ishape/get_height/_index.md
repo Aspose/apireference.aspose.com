@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the height of the shape. Read float.
 type: docs
 weight: 300
 url: /cpp/aspose.slides/ishape/get_height/
 ---
-## IShape::get_Height method
+## IShape::get_Height() method
 
 
 Returns the height of the shape. Read **float**.

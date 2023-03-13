@@ -1,12 +1,12 @@
 ---
-title: get_ShortTimePattern
+title: get_ShortTimePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets short time pattern.
 type: docs
 weight: 79
 url: /cpp/system.globalization/datetimeformatinfo/get_shorttimepattern/
 ---
-## DateTimeFormatInfo::get_ShortTimePattern method
+## DateTimeFormatInfo::get_ShortTimePattern() const method
 
 
 Gets short time pattern.

@@ -1,12 +1,12 @@
 ---
-title: get_Radius
+title: get_Radius()
 second_title: Aspose.Slides for C++ API Reference
 description: Radius. Read double.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/iglow/get_radius/
 ---
-## IGlow::get_Radius method
+## IGlow::get_Radius() method
 
 
 Radius. Read **double**.

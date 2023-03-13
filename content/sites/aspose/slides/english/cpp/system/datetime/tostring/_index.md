@@ -1,5 +1,5 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the date and time value represented by the current object using the formatting conventions defined by the current culture.
 type: docs

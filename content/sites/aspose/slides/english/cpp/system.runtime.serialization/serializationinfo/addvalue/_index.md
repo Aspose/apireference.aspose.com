@@ -1,5 +1,5 @@
 ---
-title: AddValue
+title: AddValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Puts float value. Not implemented.
 type: docs

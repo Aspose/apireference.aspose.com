@@ -1,12 +1,12 @@
 ---
-title: get_ValidationFlags
+title: get_ValidationFlags()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a value indicating the schema validation settings. This setting applies to XmlReader objects that validate schemas (XmlReaderSettings::get_ValidationType value is ValidationType::Schema)."
 type: docs
 weight: 378
 url: /cpp/system.xml/xmlreadersettings/get_validationflags/
 ---
-## XmlReaderSettings::get_ValidationFlags method
+## XmlReaderSettings::get_ValidationFlags() method
 
 
 Returns a value indicating the schema validation settings. This setting applies to [XmlReader](../../xmlreader/) objects that validate schemas ([XmlReaderSettings::get_ValidationType](../get_validationtype/) value is [ValidationType::Schema](../../validationtype/)).

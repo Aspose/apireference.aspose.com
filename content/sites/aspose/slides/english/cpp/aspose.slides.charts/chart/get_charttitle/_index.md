@@ -1,12 +1,12 @@
 ---
-title: get_ChartTitle
+title: get_ChartTitle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a chart title. Read-only IChartTitle.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/chart/get_charttitle/
 ---
-## Chart::get_ChartTitle method
+## Chart::get_ChartTitle() method
 
 
 Returns a chart title. Read-only [IChartTitle](../../icharttitle/).

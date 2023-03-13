@@ -1,12 +1,12 @@
 ---
-title: get_SpaceWithin
+title: get_SpaceWithin()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the amount of space between base lines in a paragraph. Read float.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/ichartparagraphformat/get_spacewithin/
 ---
-## IChartParagraphFormat::get_SpaceWithin method
+## IChartParagraphFormat::get_SpaceWithin() method
 
 
 Returns the amount of space between base lines in a paragraph. Read **float**.

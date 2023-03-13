@@ -1,12 +1,12 @@
 ---
-title: set_HangingPunctuation
+title: set_HangingPunctuation()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the hanging punctuation is used in a paragraph. No inheritance applied. Write NullableBool.
 type: docs
 weight: 235
 url: /cpp/aspose.slides/iparagraphformat/set_hangingpunctuation/
 ---
-## IParagraphFormat::set_HangingPunctuation method
+## IParagraphFormat::set_HangingPunctuation([NullableBool](../../nullablebool/)) method
 
 
 Determines whether the hanging punctuation is used in a paragraph. No inheritance applied. Write [NullableBool](../../nullablebool/).

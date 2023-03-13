@@ -1,5 +1,5 @@
 ---
-title: SizeF
+title: SizeF()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new SizeF object and initializes its width and height values with 0.
 type: docs

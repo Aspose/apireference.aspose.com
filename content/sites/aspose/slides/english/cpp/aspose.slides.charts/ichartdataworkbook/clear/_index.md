@@ -1,15 +1,15 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
-description: Clear all cells values on sheet.
+description: Clear all cells values on sheet
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/ichartdataworkbook/clear/
 ---
-## IChartDataWorkbook::Clear method
+## IChartDataWorkbook::Clear(**int32_t**) method
 
 
-Clear all cells values on sheet.
+Clear all cells values on sheet
 
 ```cpp
 virtual void Aspose::Slides::Charts::IChartDataWorkbook::Clear(int32_t sheetIndex)=0

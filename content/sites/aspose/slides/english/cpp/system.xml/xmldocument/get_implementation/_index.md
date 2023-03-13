@@ -1,12 +1,12 @@
 ---
-title: get_Implementation
+title: get_Implementation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlImplementation object for the current document.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmldocument/get_implementation/
 ---
-## XmlDocument::get_Implementation method
+## XmlDocument::get_Implementation() method
 
 
 Returns the [XmlImplementation](../../xmlimplementation/) object for the current document.

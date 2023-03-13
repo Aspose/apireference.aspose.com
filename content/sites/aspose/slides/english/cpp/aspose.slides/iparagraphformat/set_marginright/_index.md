@@ -1,12 +1,12 @@
 ---
-title: set_MarginRight
+title: set_MarginRight()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the right margin in a paragraph with no inheritance. Write float.
 type: docs
 weight: 287
 url: /cpp/aspose.slides/iparagraphformat/set_marginright/
 ---
-## IParagraphFormat::set_MarginRight method
+## IParagraphFormat::set_MarginRight(**float**) method
 
 
 Sets the right margin in a paragraph with no inheritance. Write **float**.

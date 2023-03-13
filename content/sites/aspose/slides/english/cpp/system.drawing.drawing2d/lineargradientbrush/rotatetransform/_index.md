@@ -1,12 +1,12 @@
 ---
-title: RotateTransform
+title: RotateTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Rotates current object's transform matrix.
 type: docs
 weight: 40
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/rotatetransform/
 ---
-## LinearGradientBrush::RotateTransform method
+## LinearGradientBrush::RotateTransform(**float**, [MatrixOrder](../../matrixorder/)) method
 
 
 Rotates current object's transform matrix.

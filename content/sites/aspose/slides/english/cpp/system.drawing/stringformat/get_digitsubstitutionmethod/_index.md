@@ -1,12 +1,12 @@
 ---
-title: get_DigitSubstitutionMethod
+title: get_DigitSubstitutionMethod()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns digit substitution method.
 type: docs
 weight: 157
 url: /cpp/system.drawing/stringformat/get_digitsubstitutionmethod/
 ---
-## StringFormat::get_DigitSubstitutionMethod method
+## StringFormat::get_DigitSubstitutionMethod() const method
 
 
 Returns digit substitution method.

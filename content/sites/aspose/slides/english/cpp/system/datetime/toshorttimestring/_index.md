@@ -1,12 +1,12 @@
 ---
-title: ToShortTimeString
+title: ToShortTimeString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a string that contains the short time string representation of the current object.
 type: docs
 weight: 521
 url: /cpp/system/datetime/toshorttimestring/
 ---
-## DateTime::ToShortTimeString method
+## DateTime::ToShortTimeString() const method
 
 
 Returns a string that contains the short time string representation of the current object.

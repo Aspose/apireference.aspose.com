@@ -1,12 +1,12 @@
 ---
-title: get_Index
+title: get_Index()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets index of captured substring.
 type: docs
 weight: 14
 url: /cpp/system.text.regularexpressions/capture/get_index/
 ---
-## Capture::get_Index method
+## Capture::get_Index() const method
 
 
 Gets index of captured substring.

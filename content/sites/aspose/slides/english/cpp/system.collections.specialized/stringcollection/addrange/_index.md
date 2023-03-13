@@ -1,12 +1,12 @@
 ---
-title: AddRange
+title: AddRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Add elements into container.
 type: docs
 weight: 92
 url: /cpp/system.collections.specialized/stringcollection/addrange/
 ---
-## StringCollection::AddRange method
+## StringCollection::AddRange(const [ArrayPtr](../../../system/arrayptr/)\<[System::String](../../../system/string/)\>\&) method
 
 
 Add elements into container.

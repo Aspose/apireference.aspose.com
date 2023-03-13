@@ -1,12 +1,12 @@
 ---
-title: set_InterpolationColors
+title: set_InterpolationColors()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a ColorBlend object that defines a multicolor linear gradient.
 type: docs
 weight: 144
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_interpolationcolors/
 ---
-## LinearGradientBrush::set_InterpolationColors method
+## LinearGradientBrush::set_InterpolationColors(const [SharedPtr](../../../system/sharedptr/)\<[ColorBlend](../../colorblend/)\>\&) method
 
 
 Sets a [ColorBlend](../../colorblend/) object that defines a multicolor linear gradient.

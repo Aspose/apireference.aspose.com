@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a name of this scheme. Read-only System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/extracolorscheme/get_name/
 ---
-## ExtraColorScheme::get_Name method
+## ExtraColorScheme::get_Name() method
 
 
 Returns a name of this scheme. Read-only [System::String](../../../system/string/).

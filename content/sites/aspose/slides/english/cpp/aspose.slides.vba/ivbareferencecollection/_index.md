@@ -19,7 +19,7 @@ class IVbaReferenceCollection : public Aspose::Slides::IGenericCollection<System
 
 | Method | Description |
 | --- | --- |
-| virtual void [Add](./add/)([System::SharedPtr](../../system/sharedptr/)\<[IVbaReference](../ivbareference/)\>) | Adds the new reference to references collection. |
+| virtual void [Add](./add/)([System::SharedPtr](../../system/sharedptr/)\<[IVbaReference](../ivbareference/)\>) | Adds the new reference to references collection |
 | [iterator](../../system.collections.generic/ienumerable/iterator/) [begin](../../system.collections.generic/ienumerable/begin/)() | Gets iterator pointing to the first element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../../system.collections.generic/ienumerable/getenumerator/) returns a copy-object of T. |
 | [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [begin](../../system.collections.generic/ienumerable/begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [cbegin](../../system.collections.generic/ienumerable/cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |

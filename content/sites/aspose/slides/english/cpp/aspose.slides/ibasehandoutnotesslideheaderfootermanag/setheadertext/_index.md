@@ -1,12 +1,12 @@
 ---
-title: SetHeaderText
+title: SetHeaderText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets text to slide header placeholder.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ibasehandoutnotesslideheaderfootermanag/setheadertext/
 ---
-## IBaseHandoutNotesSlideHeaderFooterManag::SetHeaderText method
+## IBaseHandoutNotesSlideHeaderFooterManag::SetHeaderText([System::String](../../../system/string/)) method
 
 
 Sets text to slide header placeholder.

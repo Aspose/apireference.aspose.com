@@ -1,12 +1,12 @@
 ---
-title: set_Password
+title: set_Password()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the password.
 type: docs
 weight: 40
 url: /cpp/system.net/networkcredential/set_password/
 ---
-## NetworkCredential::set_Password method
+## NetworkCredential::set_Password([String](../../../system/string/)) method
 
 
 Sets the password.

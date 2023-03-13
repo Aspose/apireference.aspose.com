@@ -1,12 +1,12 @@
 ---
-title: get_FirstRowIndex
+title: get_FirstRowIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an index of first row, covered by the cell. Read-only int32_t.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/icell/get_firstrowindex/
 ---
-## ICell::get_FirstRowIndex method
+## ICell::get_FirstRowIndex() method
 
 
 Returns an index of first row, covered by the cell. Read-only **int32_t**.

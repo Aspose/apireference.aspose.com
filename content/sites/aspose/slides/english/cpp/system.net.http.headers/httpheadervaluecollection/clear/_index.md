@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes all elements from collection.
 type: docs
 weight: 92
 url: /cpp/system.net.http.headers/httpheadervaluecollection/clear/
 ---
-## HttpHeaderValueCollection::Clear method
+## HttpHeaderValueCollection::Clear() method
 
 
 Deletes all elements from collection.

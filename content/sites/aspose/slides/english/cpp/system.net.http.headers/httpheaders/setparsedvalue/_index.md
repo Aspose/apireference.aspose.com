@@ -1,12 +1,12 @@
 ---
-title: SetParsedValue
+title: SetParsedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a header by the specified name and sets a parsed value to the header.
 type: docs
 weight: 170
 url: /cpp/system.net.http.headers/httpheaders/setparsedvalue/
 ---
-## HttpHeaders::SetParsedValue method
+## HttpHeaders::SetParsedValue([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Gets a header by the specified name and sets a parsed value to the header.

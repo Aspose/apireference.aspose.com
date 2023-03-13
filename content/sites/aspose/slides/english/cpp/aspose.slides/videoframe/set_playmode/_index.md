@@ -1,12 +1,12 @@
 ---
-title: set_PlayMode
+title: set_PlayMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the video play mode. Write VideoPlayModePreset.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/videoframe/set_playmode/
 ---
-## VideoFrame::set_PlayMode method
+## VideoFrame::set_PlayMode([VideoPlayModePreset](../../videoplaymodepreset/)) method
 
 
 Sets the video play mode. Write [VideoPlayModePreset](../../videoplaymodepreset/).

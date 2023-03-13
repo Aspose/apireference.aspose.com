@@ -1,12 +1,12 @@
 ---
-title: GetValues
+title: GetValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing all values of the specified enumeration type.
 type: docs
 weight: 1
 url: /cpp/system/enumvaluesbase/getvalues/
 ---
-## EnumValuesBase::GetValues method
+## EnumValuesBase::GetValues(const [TypeInfo](../../typeinfo/)\&) method
 
 
 Returns an array containing all values of the specified enumeration type.

@@ -1,12 +1,12 @@
 ---
-title: get_Green
+title: get_Green()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF008000.
 type: docs
 weight: 911
 url: /cpp/system.drawing/color/get_green/
 ---
-## Color::get_Green method
+## Color::get_Green() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF008000.

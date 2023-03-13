@@ -1,5 +1,5 @@
 ---
-title: Trim
+title: Trim()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all whitespace characters from both beginning and end of the string.
 type: docs

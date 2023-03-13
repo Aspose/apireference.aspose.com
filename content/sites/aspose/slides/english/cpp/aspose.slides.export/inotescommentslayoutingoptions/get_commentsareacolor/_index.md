@@ -1,12 +1,12 @@
 ---
-title: get_CommentsAreaColor
+title: get_CommentsAreaColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the color of comments area (Applies only if comments are displayed on the right).
 type: docs
 weight: 53
 url: /cpp/aspose.slides.export/inotescommentslayoutingoptions/get_commentsareacolor/
 ---
-## INotesCommentsLayoutingOptions::get_CommentsAreaColor method
+## INotesCommentsLayoutingOptions::get_CommentsAreaColor() method
 
 
 Gets the color of comments area (Applies only if comments are displayed on the right).

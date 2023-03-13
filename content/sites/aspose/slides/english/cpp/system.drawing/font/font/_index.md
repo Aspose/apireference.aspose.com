@@ -1,5 +1,5 @@
 ---
-title: Font
+title: Font()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of Font class that represents the specified existing font with the specified font style.
 type: docs

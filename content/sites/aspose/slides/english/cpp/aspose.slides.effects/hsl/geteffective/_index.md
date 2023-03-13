@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Hue/Saturation/Luminance effect data with the inheritance applied.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/hsl/geteffective/
 ---
-## HSL::GetEffective method
+## HSL::GetEffective() method
 
 
 Gets effective Hue/Saturation/Luminance effect data with the inheritance applied.

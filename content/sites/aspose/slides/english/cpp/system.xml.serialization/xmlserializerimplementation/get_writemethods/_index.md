@@ -1,12 +1,12 @@
 ---
-title: get_WriteMethods
+title: get_WriteMethods()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 40
 url: /cpp/system.xml.serialization/xmlserializerimplementation/get_writemethods/
 ---
-## XmlSerializerImplementation::get_WriteMethods method
+## XmlSerializerImplementation::get_WriteMethods() method
 
 
 

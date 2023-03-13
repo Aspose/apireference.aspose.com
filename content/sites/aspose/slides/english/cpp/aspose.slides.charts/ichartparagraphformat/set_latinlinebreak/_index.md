@@ -1,12 +1,12 @@
 ---
-title: set_LatinLineBreak
+title: set_LatinLineBreak()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the Latin line break is used in a paragraph. Write NullableBool.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/ichartparagraphformat/set_latinlinebreak/
 ---
-## IChartParagraphFormat::set_LatinLineBreak method
+## IChartParagraphFormat::set_LatinLineBreak([NullableBool](../../../aspose.slides/nullablebool/)) method
 
 
 Determines whether the Latin line break is used in a paragraph. Write [NullableBool](../../../aspose.slides/nullablebool/).

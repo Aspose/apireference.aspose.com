@@ -1,12 +1,12 @@
 ---
-title: get_Presentation
+title: get_Presentation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the parent presentation of a cell. Read-only IPresentation.
 type: docs
 weight: 391
 url: /cpp/aspose.slides/cell/get_presentation/
 ---
-## Cell::get_Presentation method
+## Cell::get_Presentation() method
 
 
 Returns the parent presentation of a cell. Read-only [IPresentation](../../ipresentation/).

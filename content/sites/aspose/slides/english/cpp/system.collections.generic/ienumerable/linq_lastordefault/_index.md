@@ -1,12 +1,12 @@
 ---
-title: LINQ_LastOrDefault
+title: LINQ_LastOrDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the last element of a sequence, or a default value if the sequence is empty.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/ienumerable/linq_lastordefault/
 ---
-## IEnumerable::LINQ_LastOrDefault method
+## IEnumerable::LINQ_LastOrDefault() method
 
 
 Returns the last element of a sequence, or a default value if the sequence is empty.

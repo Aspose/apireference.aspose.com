@@ -1,12 +1,12 @@
 ---
-title: get_Title
+title: get_Title()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text title of the Summary Zoom Section object.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/isummaryzoomsection/get_title/
 ---
-## ISummaryZoomSection::get_Title method
+## ISummaryZoomSection::get_Title() method
 
 
 Returns the text title of the Summary Zoom [Section](../../section/) object.

@@ -1,12 +1,12 @@
 ---
-title: get_DefaultTabSize
+title: get_DefaultTabSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns default tabulation size. Read-only float.
 type: docs
 weight: 170
 url: /cpp/aspose.slides/iparagraphformateffectivedata/get_defaulttabsize/
 ---
-## IParagraphFormatEffectiveData::get_DefaultTabSize method
+## IParagraphFormatEffectiveData::get_DefaultTabSize() method
 
 
 Returns default tabulation size. Read-only **float**.

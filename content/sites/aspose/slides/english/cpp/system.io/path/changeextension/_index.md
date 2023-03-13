@@ -1,12 +1,12 @@
 ---
-title: ChangeExtension
+title: ChangeExtension()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes the extension in the specified file path.
 type: docs
 weight: 1
 url: /cpp/system.io/path/changeextension/
 ---
-## Path::ChangeExtension method
+## Path::ChangeExtension(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Changes the extension in the specified file path.

@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the MediaTypeHeaderValue class.
 type: docs
 weight: 131
 url: /cpp/system.net.http.headers/mediatypeheadervalue/tryparse/
 ---
-## MediaTypeHeaderValue::TryParse method
+## MediaTypeHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[MediaTypeHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [MediaTypeHeaderValue](../) class.

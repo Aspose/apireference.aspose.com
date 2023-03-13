@@ -1,12 +1,12 @@
 ---
-title: CreateSignature
+title: CreateSignature()
 second_title: Aspose.Slides for C++ API Reference
 description: Signs data.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/rsapkcs1signatureformatter/createsignature/
 ---
-## RSAPKCS1SignatureFormatter::CreateSignature method
+## RSAPKCS1SignatureFormatter::CreateSignature([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 Signs data.

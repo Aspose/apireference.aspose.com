@@ -1,12 +1,12 @@
 ---
-title: get_SubstitutePictureFormat
+title: get_SubstitutePictureFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns ControlEx image fill properties object. Read-only IPictureFillFormat.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/icontrol/get_substitutepictureformat/
 ---
-## IControl::get_SubstitutePictureFormat method
+## IControl::get_SubstitutePictureFormat() method
 
 
 Returns ControlEx image fill properties object. Read-only [IPictureFillFormat](../../ipicturefillformat/).

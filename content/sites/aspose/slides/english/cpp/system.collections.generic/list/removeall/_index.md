@@ -1,12 +1,12 @@
 ---
-title: RemoveAll
+title: RemoveAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all elements matching specific predicate.
 type: docs
 weight: 482
 url: /cpp/system.collections.generic/list/removeall/
 ---
-## List::RemoveAll method
+## List::RemoveAll([Predicate](../../../system/predicate/)\<T\>) method
 
 
 Removes all elements matching specific predicate.

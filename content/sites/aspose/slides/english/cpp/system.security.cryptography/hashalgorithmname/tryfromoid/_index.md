@@ -1,12 +1,12 @@
 ---
-title: TryFromOid
+title: TryFromOid()
 second_title: Aspose.Slides for C++ API Reference
 description: Try to create HashAlgorithmName from OID-value.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/hashalgorithmname/tryfromoid/
 ---
-## HashAlgorithmName::TryFromOid method
+## HashAlgorithmName::TryFromOid(const [String](../../../system/string/)\&, [HashAlgorithmName](../)\&) method
 
 
 Try to create [HashAlgorithmName](../) from OID-value.

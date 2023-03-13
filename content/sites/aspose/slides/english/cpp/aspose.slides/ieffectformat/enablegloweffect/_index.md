@@ -1,12 +1,12 @@
 ---
-title: EnableGlowEffect
+title: EnableGlowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Enables glow effect.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/ieffectformat/enablegloweffect/
 ---
-## IEffectFormat::EnableGlowEffect method
+## IEffectFormat::EnableGlowEffect() method
 
 
 Enables glow effect.

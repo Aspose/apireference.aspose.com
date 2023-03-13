@@ -1,7 +1,7 @@
 ---
-title: ToBorderBox
+title: ToBorderBox()
 second_title: Aspose.Slides for C++ API Reference
-description: Places this element in a border-box.
+description: Places this element in a border-box
 type: docs
 weight: 248
 url: /cpp/aspose.slides.mathtext/mathelementbase/toborderbox/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathelementbase/toborderbox/
 ## MathElementBase::ToBorderBox() method
 
 
-Places this element in a border-box.
+Places this element in a border-box
 
 ```cpp
 System::SharedPtr<IMathBorderBox> Aspose::Slides::MathText::MathElementBase::ToBorderBox() override
@@ -38,7 +38,7 @@ auto borderBox = System::MakeObject<MathematicalText>(u"x+y+z")->ToBorderBox();
 ## MathElementBase::ToBorderBox(**bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**) method
 
 
-Places this element in a border-box.
+Places this element in a border-box
 
 ```cpp
 System::SharedPtr<IMathBorderBox> Aspose::Slides::MathText::MathElementBase::ToBorderBox(bool hideTop, bool hideBottom, bool hideLeft, bool hideRight, bool strikethroughHorizontal, bool strikethroughVertical, bool strikethroughBottomLeftToTopRight, bool strikethroughTopLeftToBottomRight) override

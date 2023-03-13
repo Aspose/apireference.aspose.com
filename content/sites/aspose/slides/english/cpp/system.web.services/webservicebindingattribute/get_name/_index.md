@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the binding's name.
 type: docs
 weight: 27
 url: /cpp/system.web.services/webservicebindingattribute/get_name/
 ---
-## WebServiceBindingAttribute::get_Name method
+## WebServiceBindingAttribute::get_Name() method
 
 
 Gets the binding's name.

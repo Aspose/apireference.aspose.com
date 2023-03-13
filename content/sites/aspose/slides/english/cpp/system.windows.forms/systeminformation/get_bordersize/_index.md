@@ -1,12 +1,12 @@
 ---
-title: get_BorderSize
+title: get_BorderSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 40
 url: /cpp/system.windows.forms/systeminformation/get_bordersize/
 ---
-## SystemInformation::get_BorderSize method
+## SystemInformation::get_BorderSize() method
 
 
 NOT IMPLEMENTED.

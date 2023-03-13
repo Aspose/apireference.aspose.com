@@ -1,12 +1,12 @@
 ---
-title: get_SyncRoot
+title: get_SyncRoot()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a synchronization root. Read-only System::Object."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/igenericcollection/get_syncroot/
 ---
-## IGenericCollection::get_SyncRoot method
+## IGenericCollection::get_SyncRoot() method
 
 
 Returns a synchronization root. Read-only [System::Object](../../../system/object/).

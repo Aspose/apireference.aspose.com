@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes first occurrence of specified string.
 type: docs
 weight: 170
 url: /cpp/system.collections.specialized/stringcollection/remove/
 ---
-## StringCollection::Remove method
+## StringCollection::Remove(const [System::String](../../../system/string/)\&) method
 
 
 Removes first occurrence of specified string.

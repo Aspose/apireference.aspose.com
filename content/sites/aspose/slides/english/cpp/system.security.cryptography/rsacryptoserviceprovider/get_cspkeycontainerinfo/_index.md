@@ -1,12 +1,12 @@
 ---
-title: get_CspKeyContainerInfo
+title: get_CspKeyContainerInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a CspKeyContainerInfo object.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/get_cspkeycontainerinfo/
 ---
-## RSACryptoServiceProvider::get_CspKeyContainerInfo method
+## RSACryptoServiceProvider::get_CspKeyContainerInfo() method
 
 
 Gets a [CspKeyContainerInfo](../../cspkeycontainerinfo/) object.

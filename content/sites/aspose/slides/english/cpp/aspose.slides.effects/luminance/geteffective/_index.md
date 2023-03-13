@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Luminance effect data with the inheritance applied.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/luminance/geteffective/
 ---
-## Luminance::GetEffective method
+## Luminance::GetEffective() method
 
 
 Gets effective [Luminance](../) effect data with the inheritance applied.

@@ -1,12 +1,12 @@
 ---
-title: get_OrangeRed
+title: get_OrangeRed()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFF4500.
 type: docs
 weight: 1301
 url: /cpp/system.drawing/brushes/get_orangered/
 ---
-## Brushes::get_OrangeRed method
+## Brushes::get_OrangeRed() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFF4500.

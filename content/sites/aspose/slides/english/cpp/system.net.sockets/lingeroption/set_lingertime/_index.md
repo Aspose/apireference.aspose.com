@@ -1,12 +1,12 @@
 ---
-title: set_LingerTime
+title: set_LingerTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a delay timeout in seconds.
 type: docs
 weight: 40
 url: /cpp/system.net.sockets/lingeroption/set_lingertime/
 ---
-## LingerOption::set_LingerTime method
+## LingerOption::set_LingerTime(**int32_t**) method
 
 
 Sets a delay timeout in seconds.

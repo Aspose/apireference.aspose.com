@@ -1,12 +1,12 @@
 ---
-title: _add_range
+title: _add_range()
 second_title: Aspose.Slides for C++ API Reference
 description: C++ specific.
 type: docs
 weight: 599
 url: /cpp/system.collections.generic/list/_add_range/
 ---
-## List::_add_range method
+## List::_add_range(std::initializer_list\<T\>) method
 
 
 C++ specific.

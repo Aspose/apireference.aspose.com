@@ -1,12 +1,12 @@
 ---
-title: Subtract
+title: Subtract()
 second_title: Aspose.Slides for C++ API Reference
 description: Subtracts one specified Decimal value from another.
 type: docs
 weight: 573
 url: /cpp/system/decimal/subtract/
 ---
-## Decimal::Subtract method
+## Decimal::Subtract(const [Decimal](../)\&, const [Decimal](../)\&) method
 
 
 Subtracts one specified [Decimal](../) value from another.

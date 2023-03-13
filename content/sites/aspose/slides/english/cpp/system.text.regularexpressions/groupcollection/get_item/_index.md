@@ -1,5 +1,5 @@
 ---
-title: get_Item
+title: get_Item()
 second_title: Aspose.Slides for C++ API Reference
 description: Group accessor.
 type: docs

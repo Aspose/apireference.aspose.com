@@ -1,12 +1,12 @@
 ---
-title: set_Additive
+title: set_Additive()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents whether the current animation behavior is combined with other running animations. Write BehaviorAdditiveType.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/ibehavior/set_additive/
 ---
-## IBehavior::set_Additive method
+## IBehavior::set_Additive([BehaviorAdditiveType](../../behavioradditivetype/)) method
 
 
 Represents whether the current animation behavior is combined with other running animations. Write [BehaviorAdditiveType](../../behavioradditivetype/).

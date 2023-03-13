@@ -1,12 +1,12 @@
 ---
-title: get_CurrentCulture
+title: get_CurrentCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets thread culture.
 type: docs
 weight: 40
 url: /cpp/system.threading/thread/get_currentculture/
 ---
-## Thread::get_CurrentCulture method
+## Thread::get_CurrentCulture() method
 
 
 Gets thread culture.

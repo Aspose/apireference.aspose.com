@@ -1,12 +1,12 @@
 ---
-title: set_Behaviors
+title: set_Behaviors()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns collection of behavior for effect. Write IBehaviorCollection.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/ieffect/set_behaviors/
 ---
-## IEffect::set_Behaviors method
+## IEffect::set_Behaviors([System::SharedPtr](../../../system/sharedptr/)\<[IBehaviorCollection](../../ibehaviorcollection/)\>) method
 
 
 Returns collection of behavior for effect. Write [IBehaviorCollection](../../ibehaviorcollection/).

@@ -1,12 +1,12 @@
 ---
-title: Delete
+title: Delete()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the file represented by the current object.
 type: docs
 weight: 118
 url: /cpp/system.io/fileinfo/delete/
 ---
-## FileInfo::Delete method
+## FileInfo::Delete() method
 
 
 Removes the file represented by the current object.

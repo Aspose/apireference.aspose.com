@@ -1,12 +1,12 @@
 ---
-title: IsSubsetOf
+title: IsSubsetOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if current set is a subset of other container.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/iset/issubsetof/
 ---
-## ISet::IsSubsetOf method
+## ISet::IsSubsetOf([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Checks if current set is a subset of other container.

@@ -1,12 +1,12 @@
 ---
-title: Divide
+title: Divide()
 second_title: Aspose.Slides for C++ API Reference
 description: Divides two specified Decimal values.
 type: docs
 weight: 586
 url: /cpp/system/decimal/divide/
 ---
-## Decimal::Divide method
+## Decimal::Divide(const [Decimal](../)\&, const [Decimal](../)\&) method
 
 
 Divides two specified [Decimal](../) values.

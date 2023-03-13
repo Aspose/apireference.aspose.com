@@ -1,12 +1,12 @@
 ---
-title: set_PictureType
+title: set_PictureType()
 second_title: Aspose.Slides for C++ API Reference
 description: Return or sets the picture type. Write PictureType.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/ichartwall/set_picturetype/
 ---
-## IChartWall::set_PictureType method
+## IChartWall::set_PictureType([Aspose::Slides::Charts::PictureType](../../picturetype/)) method
 
 
 Return or sets the picture type. Write [PictureType](../../picturetype/).

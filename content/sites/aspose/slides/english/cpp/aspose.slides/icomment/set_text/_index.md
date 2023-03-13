@@ -1,12 +1,12 @@
 ---
-title: set_Text
+title: set_Text()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the plain text of a slide comment. Write System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icomment/set_text/
 ---
-## IComment::set_Text method
+## IComment::set_Text([System::String](../../../system/string/)) method
 
 
 Sets the plain text of a slide comment. Write [System::String](../../../system/string/).

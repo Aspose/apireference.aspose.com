@@ -1,12 +1,12 @@
 ---
-title: ReadInnerXml
+title: ReadInnerXml()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, reads all the content, including markup, as a string.
 type: docs
 weight: 937
 url: /cpp/system.xml/xmlreader/readinnerxml/
 ---
-## XmlReader::ReadInnerXml method
+## XmlReader::ReadInnerXml() method
 
 
 When overridden in a derived class, reads all the content, including markup, as a string.

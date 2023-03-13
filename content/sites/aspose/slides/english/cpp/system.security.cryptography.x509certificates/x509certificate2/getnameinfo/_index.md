@@ -1,12 +1,12 @@
 ---
-title: GetNameInfo
+title: GetNameInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets subject or issuer name from certificate.
 type: docs
 weight: 248
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/getnameinfo/
 ---
-## X509Certificate2::GetNameInfo method
+## X509Certificate2::GetNameInfo([X509NameType](../../x509nametype/), **bool**) const method
 
 
 Gets subject or issuer name from certificate.

@@ -1,12 +1,12 @@
 ---
-title: get_PathPoints
+title: get_PathPoints()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array that contains points that make up a path represented by the current object.
 type: docs
 weight: 53
 url: /cpp/system.drawing.drawing2d/graphicspath/get_pathpoints/
 ---
-## GraphicsPath::get_PathPoints method
+## GraphicsPath::get_PathPoints() const method
 
 
 Returns an array that contains points that make up a path represented by the current object.

@@ -1,12 +1,12 @@
 ---
-title: EscapeAsciiChar
+title: EscapeAsciiChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts character to escaped hex form.
 type: docs
 weight: 40
 url: /cpp/system/urishim/escapeasciichar/
 ---
-## UriShim::EscapeAsciiChar method
+## UriShim::EscapeAsciiChar(char16_t, const [System::ArrayPtr](../../arrayptr/)\<char16_t\>\&, **int32_t**\&) method
 
 
 Converts character to escaped hex form.

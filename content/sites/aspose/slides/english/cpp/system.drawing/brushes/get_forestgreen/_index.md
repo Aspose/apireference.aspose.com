@@ -1,12 +1,12 @@
 ---
-title: get_ForestGreen
+title: get_ForestGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF228B22.
 type: docs
 weight: 573
 url: /cpp/system.drawing/brushes/get_forestgreen/
 ---
-## Brushes::get_ForestGreen method
+## Brushes::get_ForestGreen() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF228B22.

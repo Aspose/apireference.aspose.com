@@ -1,12 +1,12 @@
 ---
-title: get_MessageBoxFont
+title: get_MessageBoxFont()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 53
 url: /cpp/system.drawing/systemfonts/get_messageboxfont/
 ---
-## SystemFonts::get_MessageBoxFont method
+## SystemFonts::get_MessageBoxFont() method
 
 
 NOT IMPLEMENTED.

@@ -1,5 +1,5 @@
 ---
-title: NotNullAreEqualImpl
+title: NotNullAreEqualImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Equal-compares arrays or lists.
 type: docs

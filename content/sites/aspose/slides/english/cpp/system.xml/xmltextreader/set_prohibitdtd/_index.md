@@ -1,12 +1,12 @@
 ---
-title: set_ProhibitDtd
+title: set_ProhibitDtd()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether to allow DTD processing.
 type: docs
 weight: 404
 url: /cpp/system.xml/xmltextreader/set_prohibitdtd/
 ---
-## XmlTextReader::set_ProhibitDtd method
+## XmlTextReader::set_ProhibitDtd(**bool**) method
 
 
 Sets a value indicating whether to allow DTD processing.

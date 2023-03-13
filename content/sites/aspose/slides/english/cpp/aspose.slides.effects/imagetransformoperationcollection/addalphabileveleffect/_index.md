@@ -1,12 +1,12 @@
 ---
-title: AddAlphaBiLevelEffect
+title: AddAlphaBiLevelEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Alpha Bi-Level effect to the end of a collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addalphabileveleffect/
 ---
-## ImageTransformOperationCollection::AddAlphaBiLevelEffect method
+## ImageTransformOperationCollection::AddAlphaBiLevelEffect(**float**) method
 
 
 Adds the new Alpha Bi-Level effect to the end of a collection.

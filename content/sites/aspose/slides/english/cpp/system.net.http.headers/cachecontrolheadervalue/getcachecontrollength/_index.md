@@ -1,12 +1,12 @@
 ---
-title: GetCacheControlLength
+title: GetCacheControlLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified index to an instance of the CacheControlHeaderValue class.
 type: docs
 weight: 456
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/getcachecontrollength/
 ---
-## CacheControlHeaderValue::GetCacheControlLength method
+## CacheControlHeaderValue::GetCacheControlLength([String](../../../system/string/), **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[CacheControlHeaderValue](../)\>, [System::SharedPtr](../../../system/sharedptr/)\<[CacheControlHeaderValue](../)\>\&) method
 
 
 Converts a passed string from the specified index to an instance of the [CacheControlHeaderValue](../) class.

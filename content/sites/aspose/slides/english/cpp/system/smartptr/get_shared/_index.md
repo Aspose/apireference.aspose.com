@@ -1,12 +1,12 @@
 ---
-title: get_shared
+title: get_shared()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets pointed object, but asserts that pointer is in shared mode.
 type: docs
 weight: 79
 url: /cpp/system/smartptr/get_shared/
 ---
-## SmartPtr::get_shared method
+## SmartPtr::get_shared() const method
 
 
 Gets pointed object, but asserts that pointer is in shared mode.

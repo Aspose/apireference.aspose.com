@@ -1,12 +1,12 @@
 ---
-title: GetNextChar
+title: GetNextChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets next available character.
 type: docs
 weight: 40
 url: /cpp/system.text/encoderexceptionfallbackbuffer/getnextchar/
 ---
-## EncoderExceptionFallbackBuffer::GetNextChar method
+## EncoderExceptionFallbackBuffer::GetNextChar() method
 
 
 Gets next available character.

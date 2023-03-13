@@ -1,12 +1,12 @@
 ---
-title: set_Hidden
+title: set_Hidden()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the shape is hidden. Write bool.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/ishape/set_hidden/
 ---
-## IShape::set_Hidden method
+## IShape::set_Hidden(**bool**) method
 
 
 Determines whether the shape is hidden. Write **bool**.

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value at specified position.
 type: docs
 weight: 53
 url: /cpp/system.collections.specialized/stringcollection/idx_get/
 ---
-## StringCollection::idx_get method
+## StringCollection::idx_get(int) const method
 
 
 Gets value at specified position.

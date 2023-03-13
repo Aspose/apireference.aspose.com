@@ -1,12 +1,12 @@
 ---
-title: set_Volume
+title: set_Volume()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the audio volume. Write AudioVolumeMode.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/ivideoframe/set_volume/
 ---
-## IVideoFrame::set_Volume method
+## IVideoFrame::set_Volume([AudioVolumeMode](../../audiovolumemode/)) method
 
 
 Sets the audio volume. Write [AudioVolumeMode](../../audiovolumemode/).

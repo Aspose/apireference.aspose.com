@@ -1,12 +1,12 @@
 ---
-title: set_SizeLocked
+title: set_SizeLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a resizing this shape is forbidden. Write bool.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/autoshapelock/set_sizelocked/
 ---
-## AutoShapeLock::set_SizeLocked method
+## AutoShapeLock::set_SizeLocked(**bool**) method
 
 
 Determines whether a resizing this shape is forbidden. Write **bool**.

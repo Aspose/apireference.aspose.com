@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of a specific object from the collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/masterslidecollection/remove/
 ---
-## MasterSlideCollection::Remove method
+## MasterSlideCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IMasterSlide](../../imasterslide/)\>) method
 
 
 Removes the first occurrence of a specific object from the collection.

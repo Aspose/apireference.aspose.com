@@ -1,12 +1,12 @@
 ---
-title: set_ColumnGapRule
+title: set_ColumnGapRule()
 second_title: Aspose.Slides for C++ API Reference
 description: "The type of horizontal spacing between columns of a matrix; Horizontal spacing units can be ems or points (stored as twips). Default: SingleSpacingGap (0)"
 type: docs
 weight: 118
 url: /cpp/aspose.slides.mathtext/imathmatrix/set_columngaprule/
 ---
-## IMathMatrix::set_ColumnGapRule method
+## IMathMatrix::set_ColumnGapRule([MathSpacingRules](../../mathspacingrules/)) method
 
 
 The type of horizontal spacing between columns of a matrix; Horizontal spacing units can be ems or points (stored as twips). Default: SingleSpacingGap (0)

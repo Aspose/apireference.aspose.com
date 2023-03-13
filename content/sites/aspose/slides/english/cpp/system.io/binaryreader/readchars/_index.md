@@ -1,12 +1,12 @@
 ---
-title: ReadChars
+title: ReadChars()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the specified number of characters from the input stream and returns them in UTF-16 ecoding.
 type: docs
 weight: 131
 url: /cpp/system.io/binaryreader/readchars/
 ---
-## BinaryReader::ReadChars method
+## BinaryReader::ReadChars(int) method
 
 
 Reads the specified number of characters from the input stream and returns them in UTF-16 ecoding.

@@ -1,12 +1,12 @@
 ---
-title: get_QualifiedName
+title: get_QualifiedName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the qualified name of the attribute group.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemaattributegroup/get_qualifiedname/
 ---
-## XmlSchemaAttributeGroup::get_QualifiedName method
+## XmlSchemaAttributeGroup::get_QualifiedName() method
 
 
 Returns the qualified name of the attribute group.

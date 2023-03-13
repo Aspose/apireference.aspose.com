@@ -1,12 +1,12 @@
 ---
-title: get_MinorUnit
+title: get_MinorUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the minor units for the date or value axis. Read double.
 type: docs
 weight: 248
 url: /cpp/aspose.slides.charts/axis/get_minorunit/
 ---
-## Axis::get_MinorUnit method
+## Axis::get_MinorUnit() method
 
 
 Represents the minor units for the date or value axis. Read **double**.

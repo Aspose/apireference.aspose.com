@@ -1,12 +1,12 @@
 ---
-title: get_Public
+title: get_Public()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the value that determines if an HTTP response can be cached by any cache.
 type: docs
 weight: 248
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_public/
 ---
-## CacheControlHeaderValue::get_Public method
+## CacheControlHeaderValue::get_Public() method
 
 
 Gets the value that determines if an HTTP response can be cached by any cache.

@@ -1,12 +1,12 @@
 ---
-title: get_ReflectionEffect
+title: get_ReflectionEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Reflection. Read-only Effects::IReflectionEffectiveData."
 type: docs
 weight: 92
 url: /cpp/aspose.slides/ieffectformateffectivedata/get_reflectioneffect/
 ---
-## IEffectFormatEffectiveData::get_ReflectionEffect method
+## IEffectFormatEffectiveData::get_ReflectionEffect() method
 
 
 Reflection. Read-only [Effects::IReflectionEffectiveData](../../../aspose.slides.effects/ireflectioneffectivedata/).

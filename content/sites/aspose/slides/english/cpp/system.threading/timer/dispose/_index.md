@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: De-schedules timer.
 type: docs
 weight: 27
 url: /cpp/system.threading/timer/dispose/
 ---
-## Timer::Dispose method
+## Timer::Dispose() method
 
 
 De-schedules timer.

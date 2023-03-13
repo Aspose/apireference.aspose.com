@@ -1,12 +1,12 @@
 ---
-title: set_Form
+title: set_Form()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the form for the element.
 type: docs
 weight: 144
 url: /cpp/system.xml.schema/xmlschemaelement/set_form/
 ---
-## XmlSchemaElement::set_Form method
+## XmlSchemaElement::set_Form([XmlSchemaForm](../../xmlschemaform/)) method
 
 
 Sets the form for the element.

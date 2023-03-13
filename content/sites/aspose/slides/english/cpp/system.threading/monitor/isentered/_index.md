@@ -1,12 +1,12 @@
 ---
-title: IsEntered
+title: IsEntered()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the current thread holds the lock on the specified object.
 type: docs
 weight: 40
 url: /cpp/system.threading/monitor/isentered/
 ---
-## Monitor::IsEntered method
+## Monitor::IsEntered(const [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 Determines whether the current thread holds the lock on the specified object.

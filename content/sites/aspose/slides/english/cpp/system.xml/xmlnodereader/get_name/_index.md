@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the qualified name of the current node.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlnodereader/get_name/
 ---
-## XmlNodeReader::get_Name method
+## XmlNodeReader::get_Name() method
 
 
 Returns the qualified name of the current node.

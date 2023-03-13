@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Bi-Level effect data with the inheritance applied.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/bilevel/geteffective/
 ---
-## BiLevel::GetEffective method
+## BiLevel::GetEffective() method
 
 
 Gets effective Bi-Level effect data with the inheritance applied.

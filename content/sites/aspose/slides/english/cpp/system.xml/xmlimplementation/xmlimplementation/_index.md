@@ -1,5 +1,5 @@
 ---
-title: XmlImplementation
+title: XmlImplementation()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlImplementation class.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: TextToHtmlConversionOptions
+title: TextToHtmlConversionOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 105
 url: /cpp/aspose.slides.export/texttohtmlconversionoptions/texttohtmlconversionoptions/
 ---
-## TextToHtmlConversionOptions::TextToHtmlConversionOptions constructor
+## TextToHtmlConversionOptions::TextToHtmlConversionOptions() constructor
 
 
 

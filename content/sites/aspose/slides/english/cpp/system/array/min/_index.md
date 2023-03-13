@@ -1,12 +1,12 @@
 ---
-title: Min
+title: Min()
 second_title: Aspose.Slides for C++ API Reference
 description: Finds the smallest element in the array using operator<() to compare elements.
 type: docs
 weight: 508
 url: /cpp/system/array/min/
 ---
-## Array::Min method
+## Array::Min() const method
 
 
 Finds the smallest element in the array using [operator<()](../../operator_less/) to compare elements.

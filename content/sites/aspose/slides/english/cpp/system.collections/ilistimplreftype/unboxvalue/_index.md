@@ -1,12 +1,12 @@
 ---
-title: UnboxValue
+title: UnboxValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Converting object value into partucular type reference.
 type: docs
 weight: 144
 url: /cpp/system.collections/ilistimplreftype/unboxvalue/
 ---
-## IListImplRefType::UnboxValue method
+## IListImplRefType::UnboxValue([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Converting object value into partucular type reference.

@@ -1,12 +1,12 @@
 ---
-title: get_Particle
+title: get_Particle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the compositor type as one of the XmlSchemaGroupRef, XmlSchemaChoice, XmlSchemaAll, or XmlSchemaSequence classes.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_particle/
 ---
-## XmlSchemaComplexType::get_Particle method
+## XmlSchemaComplexType::get_Particle() method
 
 
 Returns the compositor type as one of the [XmlSchemaGroupRef](../../xmlschemagroupref/), [XmlSchemaChoice](../../xmlschemachoice/), [XmlSchemaAll](../../xmlschemaall/), or [XmlSchemaSequence](../../xmlschemasequence/) classes.

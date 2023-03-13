@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified XmlQualifiedName object is equal to the current XmlQualifiedName object.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlqualifiedname/equals/
 ---
-## XmlQualifiedName::Equals method
+## XmlQualifiedName::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [XmlQualifiedName](../) object is equal to the current [XmlQualifiedName](../) object.

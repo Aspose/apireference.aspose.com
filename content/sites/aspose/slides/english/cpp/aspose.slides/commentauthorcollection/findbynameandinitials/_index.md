@@ -1,12 +1,12 @@
 ---
-title: FindByNameAndInitials
+title: FindByNameAndInitials()
 second_title: Aspose.Slides for C++ API Reference
 description: Find author in a collection by name and initials.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/commentauthorcollection/findbynameandinitials/
 ---
-## CommentAuthorCollection::FindByNameAndInitials method
+## CommentAuthorCollection::FindByNameAndInitials([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Find author in a collection by name and initials.

@@ -1,15 +1,15 @@
 ---
-title: get_StrokeWeight
+title: get_StrokeWeight()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'stroke.weight' property.
+description: Represents 'stroke.weight' property
 type: docs
 weight: 729
 url: /cpp/aspose.slides.animation/behaviorproperty/get_strokeweight/
 ---
-## BehaviorProperty::get_StrokeWeight method
+## BehaviorProperty::get_StrokeWeight() method
 
 
-Represents 'stroke.weight' property.
+Represents 'stroke.weight' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StrokeWeight()

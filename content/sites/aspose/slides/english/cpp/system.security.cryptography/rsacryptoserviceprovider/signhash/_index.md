@@ -1,5 +1,5 @@
 ---
-title: SignHash
+title: SignHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Computes the signature for the specified hash value.
 type: docs

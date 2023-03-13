@@ -1,5 +1,5 @@
 ---
-title: GetMonthsInYear
+title: GetMonthsInYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of months in the specified year.
 type: docs

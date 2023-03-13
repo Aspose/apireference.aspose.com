@@ -1,15 +1,15 @@
 ---
-title: AddSummaryZoomSection
+title: AddSummaryZoomSection()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates new Summary Zoom Section object and add it to the collection.
+description: Creates new Summary Zoom Section object and add it to the collection
 type: docs
 weight: 14
 url: /cpp/aspose.slides/isummaryzoomsectioncollection/addsummaryzoomsection/
 ---
-## ISummaryZoomSectionCollection::AddSummaryZoomSection method
+## ISummaryZoomSectionCollection::AddSummaryZoomSection([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
 
 
-Creates new Summary Zoom [Section](../../section/) object and add it to the collection.
+Creates new Summary Zoom [Section](../../section/) object and add it to the collection
 
 ```cpp
 virtual System::SharedPtr<ISummaryZoomSection> Aspose::Slides::ISummaryZoomSectionCollection::AddSummaryZoomSection(System::SharedPtr<ISection> section)=0

@@ -1,12 +1,12 @@
 ---
-title: get_IsNillable
+title: get_IsNillable()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns information that indicates if xsi:nil can occur in the instance data. Indicates if an explicit nil value can be assigned to the element."
 type: docs
 weight: 183
 url: /cpp/system.xml.schema/xmlschemaelement/get_isnillable/
 ---
-## XmlSchemaElement::get_IsNillable method
+## XmlSchemaElement::get_IsNillable() method
 
 
 Returns information that indicates if **xsi:nil** can occur in the instance data. Indicates if an explicit nil value can be assigned to the element.

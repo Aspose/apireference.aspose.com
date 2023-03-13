@@ -1,12 +1,12 @@
 ---
-title: get_Tan
+title: get_Tan()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFD2B48C.
 type: docs
 weight: 1925
 url: /cpp/system.drawing/color/get_tan/
 ---
-## Color::get_Tan method
+## Color::get_Tan() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFD2B48C.

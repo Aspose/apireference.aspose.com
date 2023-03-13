@@ -1,5 +1,5 @@
 ---
-title: ColorBlend
+title: ColorBlend()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of ColorBlend class.
 type: docs

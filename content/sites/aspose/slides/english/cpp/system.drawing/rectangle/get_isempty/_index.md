@@ -1,12 +1,12 @@
 ---
-title: get_IsEmpty
+title: get_IsEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if X and Y coordinates of the upper left corner of the recangle represented by the current object as well as its width and height have values of 0.
 type: docs
 weight: 222
 url: /cpp/system.drawing/rectangle/get_isempty/
 ---
-## Rectangle::get_IsEmpty method
+## Rectangle::get_IsEmpty() const method
 
 
 Determines if X and Y coordinates of the upper left corner of the recangle represented by the current object as well as its width and height have values of 0.

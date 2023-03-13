@@ -1,12 +1,12 @@
 ---
-title: get_Separator
+title: get_Separator()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets or returns a Variant representing the separator used for the data labels on a chart. Read System::String."
 type: docs
 weight: 326
 url: /cpp/aspose.slides.charts/datalabelformat/get_separator/
 ---
-## DataLabelFormat::get_Separator method
+## DataLabelFormat::get_Separator() method
 
 
 Sets or returns a Variant representing the separator used for the data labels on a chart. Read [System::String](../../../system/string/).

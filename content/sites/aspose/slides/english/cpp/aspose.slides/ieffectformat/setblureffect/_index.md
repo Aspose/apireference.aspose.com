@@ -1,12 +1,12 @@
 ---
-title: SetBlurEffect
+title: SetBlurEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets blur effect.
 type: docs
 weight: 222
 url: /cpp/aspose.slides/ieffectformat/setblureffect/
 ---
-## IEffectFormat::SetBlurEffect method
+## IEffectFormat::SetBlurEffect(**double**, **bool**) method
 
 
 Sets blur effect.

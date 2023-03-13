@@ -1,12 +1,12 @@
 ---
-title: get_Product
+title: get_Product()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a product.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/productinfoheadervalue/get_product/
 ---
-## ProductInfoHeaderValue::get_Product method
+## ProductInfoHeaderValue::get_Product() method
 
 
 Returns a product.

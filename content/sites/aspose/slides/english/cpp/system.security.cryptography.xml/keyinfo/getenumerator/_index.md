@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography.xml/keyinfo/getenumerator/
 ---
-## KeyInfo::GetEnumerator method
+## KeyInfo::GetEnumerator() method
 
 
 Gets enumerator.

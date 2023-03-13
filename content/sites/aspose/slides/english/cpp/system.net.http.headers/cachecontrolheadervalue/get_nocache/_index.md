@@ -1,12 +1,12 @@
 ---
-title: get_NoCache
+title: get_NoCache()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the value that determines if the client will accept a cached response.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_nocache/
 ---
-## CacheControlHeaderValue::get_NoCache method
+## CacheControlHeaderValue::get_NoCache() method
 
 
 Gets the value that determines if the client will accept a cached response.

@@ -1,12 +1,12 @@
 ---
-title: get_SnapVerticalSplitter
+title: get_SnapVerticalSplitter()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether the vertical splitter should snap to a minimized state when the side region is sufficiently small. Read bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/inormalviewproperties/get_snapverticalsplitter/
 ---
-## INormalViewProperties::get_SnapVerticalSplitter method
+## INormalViewProperties::get_SnapVerticalSplitter() method
 
 
 Specifies whether the vertical splitter should snap to a minimized state when the side region is sufficiently small. Read **bool**.

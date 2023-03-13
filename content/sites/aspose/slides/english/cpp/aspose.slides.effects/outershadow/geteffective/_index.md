@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Outer Shadow effect data with the inheritance applied.
 type: docs
 weight: 248
 url: /cpp/aspose.slides.effects/outershadow/geteffective/
 ---
-## OuterShadow::GetEffective method
+## OuterShadow::GetEffective() method
 
 
 Gets effective Outer Shadow effect data with the inheritance applied.

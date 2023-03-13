@@ -1,12 +1,12 @@
 ---
-title: set_SendBufferSize
+title: set_SendBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the size of the buffer that is used for sending data.
 type: docs
 weight: 118
 url: /cpp/system.net.sockets/tcpclient/set_sendbuffersize/
 ---
-## TcpClient::set_SendBufferSize method
+## TcpClient::set_SendBufferSize(**int32_t**) method
 
 
 Sets the size of the buffer that is used for sending data.

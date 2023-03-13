@@ -1,12 +1,12 @@
 ---
-title: set_TextCapType
+title: set_TextCapType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the type of text capitalization. No inheritance applied. Write Slides::TextCapType."
 type: docs
 weight: 248
 url: /cpp/aspose.slides/baseportionformat/set_textcaptype/
 ---
-## BasePortionFormat::set_TextCapType method
+## BasePortionFormat::set_TextCapType([Aspose::Slides::TextCapType](../../textcaptype/)) method
 
 
 Sets the type of text capitalization. No inheritance applied. Write [Slides::TextCapType](../../textcaptype/).

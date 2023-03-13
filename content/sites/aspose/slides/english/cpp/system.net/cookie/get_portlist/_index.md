@@ -1,12 +1,12 @@
 ---
-title: get_PortList
+title: get_PortList()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of the 'Port' attribute's values.
 type: docs
 weight: 300
 url: /cpp/system.net/cookie/get_portlist/
 ---
-## Cookie::get_PortList method
+## Cookie::get_PortList() const method
 
 
 Returns the collection of the 'Port' attribute's values.

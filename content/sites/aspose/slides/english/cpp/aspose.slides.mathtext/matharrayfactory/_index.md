@@ -1,7 +1,7 @@
 ---
 title: MathArrayFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a math array.
+description: Allows to create a math array
 type: docs
 weight: 638
 url: /cpp/aspose.slides.mathtext/matharrayfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/matharrayfactory/
 ## MathArrayFactory class
 
 
-Allows to create a math array.
+Allows to create a math array
 
 ```cpp
 class MathArrayFactory : public Aspose::Slides::MathText::IMathArrayFactory
@@ -19,8 +19,8 @@ class MathArrayFactory : public Aspose::Slides::MathText::IMathArrayFactory
 
 | Method | Description |
 | --- | --- |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathArray](../imatharray/)\> [CreateMathArray](./creatematharray/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates a math array and places the specified element in it. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathArray](../imatharray/)\> [CreateMathArray](./creatematharray/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElementCollection](../imathelementcollection/)\>) override | Creates a math array and places specified elements in it. |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathArray](../imatharray/)\> [CreateMathArray](./creatematharray/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates a math array and places the specified element in it |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathArray](../imatharray/)\> [CreateMathArray](./creatematharray/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElementCollection](../imathelementcollection/)\>) override | Creates a math array and places specified elements in it |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

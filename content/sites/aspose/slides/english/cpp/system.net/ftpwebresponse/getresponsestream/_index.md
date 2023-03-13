@@ -1,12 +1,12 @@
 ---
-title: GetResponseStream
+title: GetResponseStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 66
 url: /cpp/system.net/ftpwebresponse/getresponsestream/
 ---
-## FtpWebResponse::GetResponseStream method
+## FtpWebResponse::GetResponseStream() method
 
 
 Not implemented.

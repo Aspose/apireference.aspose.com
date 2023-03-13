@@ -1,12 +1,12 @@
 ---
-title: GetDirectoryName
+title: GetDirectoryName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the directory referenced by the specified path.
 type: docs
 weight: 27
 url: /cpp/system.io/path/getdirectoryname/
 ---
-## Path::GetDirectoryName method
+## Path::GetDirectoryName(const [String](../../../system/string/)\&) method
 
 
 Returns the name of the directory referenced by the specified path.

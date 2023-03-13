@@ -1,12 +1,12 @@
 ---
-title: get_PresentationLockingBehavior
+title: get_PresentationLockingBehavior()
 second_title: Aspose.Slides for C++ API Reference
 description: "This property defines if an instance of the Presentation class can be an owner of the source - file or stream during the instance lifetime. If the instance is an owner, it locks the source. This helps to improve memory consumption and performance while working with BLOBs, but the source (stream or file) can't be changed during Presentation's instance lifetime. This is an example:"
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iblobmanagementoptions/get_presentationlockingbehavior/
 ---
-## IBlobManagementOptions::get_PresentationLockingBehavior method
+## IBlobManagementOptions::get_PresentationLockingBehavior() method
 
 
 This property defines if an instance of the [Presentation](../../presentation/) class can be an owner of the source - file or stream during the instance lifetime. If the instance is an owner, it locks the source. This helps to improve memory consumption and performance while working with BLOBs, but the source (stream or file) can't be changed during [Presentation](../../presentation/)'s instance lifetime. This is an example:

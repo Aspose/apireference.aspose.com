@@ -1,12 +1,12 @@
 ---
-title: get_IsAutomaticMinorUnit
+title: get_IsAutomaticMinorUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether the minor unit of the axis is automatically assigned. Read bool.
 type: docs
 weight: 274
 url: /cpp/aspose.slides.charts/axis/get_isautomaticminorunit/
 ---
-## Axis::get_IsAutomaticMinorUnit method
+## Axis::get_IsAutomaticMinorUnit() method
 
 
 Indicates whether the minor unit of the axis is automatically assigned. Read **bool**.

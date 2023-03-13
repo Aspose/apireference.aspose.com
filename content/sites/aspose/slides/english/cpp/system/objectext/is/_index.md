@@ -1,5 +1,5 @@
 ---
-title: Is
+title: Is()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements 'is' operator translation. Specialization for pointer types optimized for 'final' classes.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_Bisque
+title: get_Bisque()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFFE4C4.
 type: docs
 weight: 79
 url: /cpp/system.drawing/brushes/get_bisque/
 ---
-## Brushes::get_Bisque method
+## Brushes::get_Bisque() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFFE4C4.

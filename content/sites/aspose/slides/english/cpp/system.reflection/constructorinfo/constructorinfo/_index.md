@@ -1,12 +1,12 @@
 ---
-title: ConstructorInfo
+title: ConstructorInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the ConstructorInfo class for constructor without parameters.
 type: docs
 weight: 1
 url: /cpp/system.reflection/constructorinfo/constructorinfo/
 ---
-## ConstructorInfo::ConstructorInfo constructor
+## ConstructorInfo::ConstructorInfo(const [String](../../../system/string/)\&, std::function\<[System::Object::ptr](../../../system/object/ptr/)()>) constructor
 
 
 Initializes a new instance of the [ConstructorInfo](../) class for constructor without parameters.

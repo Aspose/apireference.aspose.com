@@ -1,12 +1,12 @@
 ---
-title: set_CustomEndCap
+title: set_CustomEndCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the custom end line cap.
 type: docs
 weight: 339
 url: /cpp/system.drawing/pen/set_customendcap/
 ---
-## Pen::set_CustomEndCap method
+## Pen::set_CustomEndCap(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::CustomLineCap](../../../system.drawing.drawing2d/customlinecap/)\>\&) method
 
 
 Sets the custom end line cap.

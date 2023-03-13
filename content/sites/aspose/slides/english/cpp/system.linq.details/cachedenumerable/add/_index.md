@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.linq.details/cachedenumerable/add/
 ---
-## CachedEnumerable::Add method
+## CachedEnumerable::Add(TItem) method
 
 
 

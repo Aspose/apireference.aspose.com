@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a Portion to the end of collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/iportioncollection/add/
 ---
-## IPortionCollection::Add method
+## IPortionCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../iportion/)\>) method
 
 
 Adds a [Portion](../../portion/) to the end of collection.

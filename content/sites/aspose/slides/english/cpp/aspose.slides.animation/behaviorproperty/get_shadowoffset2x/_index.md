@@ -1,15 +1,15 @@
 ---
-title: get_ShadowOffset2X
+title: get_ShadowOffset2X()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'shadow.offset2.x' property.
+description: Represents 'shadow.offset2.x' property
 type: docs
 weight: 1015
 url: /cpp/aspose.slides.animation/behaviorproperty/get_shadowoffset2x/
 ---
-## BehaviorProperty::get_ShadowOffset2X method
+## BehaviorProperty::get_ShadowOffset2X() method
 
 
-Represents 'shadow.offset2.x' property.
+Represents 'shadow.offset2.x' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ShadowOffset2X()

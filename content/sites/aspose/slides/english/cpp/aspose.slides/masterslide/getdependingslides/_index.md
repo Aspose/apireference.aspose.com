@@ -1,12 +1,12 @@
 ---
-title: GetDependingSlides
+title: GetDependingSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array with all slides, which depend on this master slide.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/masterslide/getdependingslides/
 ---
-## MasterSlide::GetDependingSlides method
+## MasterSlide::GetDependingSlides() method
 
 
 Returns an array with all slides, which depend on this master slide.

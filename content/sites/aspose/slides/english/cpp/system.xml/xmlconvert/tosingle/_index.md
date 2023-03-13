@@ -1,12 +1,12 @@
 ---
-title: ToSingle
+title: ToSingle()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Single equivalent.
 type: docs
 weight: 378
 url: /cpp/system.xml/xmlconvert/tosingle/
 ---
-## XmlConvert::ToSingle method
+## XmlConvert::ToSingle([String](../../../system/string/)) method
 
 
 Converts the [String](../../../system/string/) to a [Single](../../../system/single/) equivalent.

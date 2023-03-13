@@ -1,12 +1,12 @@
 ---
-title: get_HyperlinkClick
+title: get_HyperlinkClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the hyperlink defined for mouse click. Read-only IHyperlink.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/iportionformateffectivedata/get_hyperlinkclick/
 ---
-## IPortionFormatEffectiveData::get_HyperlinkClick method
+## IPortionFormatEffectiveData::get_HyperlinkClick() method
 
 
 Returns the hyperlink defined for mouse click. Read-only [IHyperlink](../../ihyperlink/).

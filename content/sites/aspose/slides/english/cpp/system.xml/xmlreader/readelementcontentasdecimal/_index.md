@@ -1,5 +1,5 @@
 ---
-title: ReadElementContentAsDecimal
+title: ReadElementContentAsDecimal()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the current element and returns the contents as a Decimal object.
 type: docs

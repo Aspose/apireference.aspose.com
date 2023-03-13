@@ -1,15 +1,15 @@
 ---
-title: get_GrowToMatchOperandHeight
+title: get_GrowToMatchOperandHeight()
 second_title: Aspose.Slides for C++ API Reference
-description: Operator Character grows vertically to match its operand height.
+description: Operator Character grows vertically to match its operand height
 type: docs
 weight: 53
 url: /cpp/aspose.slides.mathtext/imathnaryoperatorproperties/get_growtomatchoperandheight/
 ---
-## IMathNaryOperatorProperties::get_GrowToMatchOperandHeight method
+## IMathNaryOperatorProperties::get_GrowToMatchOperandHeight() method
 
 
-Operator Character grows vertically to match its operand height.
+Operator Character grows vertically to match its operand height
 
 ```cpp
 virtual bool Aspose::Slides::MathText::IMathNaryOperatorProperties::get_GrowToMatchOperandHeight()=0

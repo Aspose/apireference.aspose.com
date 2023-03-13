@@ -1,12 +1,12 @@
 ---
-title: GetFileName
+title: GetFileName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the file name.
 type: docs
 weight: 53
 url: /cpp/system.diagnostics/stackframe/getfilename/
 ---
-## StackFrame::GetFileName method
+## StackFrame::GetFileName() method
 
 
 Gets the file name.

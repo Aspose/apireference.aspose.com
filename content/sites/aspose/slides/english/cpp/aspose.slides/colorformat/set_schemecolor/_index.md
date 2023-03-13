@@ -1,12 +1,12 @@
 ---
-title: set_SchemeColor
+title: set_SchemeColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the color identified by a color scheme. Write Slides::SchemeColor."
 type: docs
 weight: 118
 url: /cpp/aspose.slides/colorformat/set_schemecolor/
 ---
-## ColorFormat::set_SchemeColor method
+## ColorFormat::set_SchemeColor([Aspose::Slides::SchemeColor](../../schemecolor/)) method
 
 
 Sets the color identified by a color scheme. Write [Slides::SchemeColor](../../schemecolor/).

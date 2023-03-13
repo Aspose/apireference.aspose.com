@@ -1,5 +1,5 @@
 ---
-title: ParseExact
+title: ParseExact()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified string representation of a date and time value to the equivalent DateTime object using the specified format and culture-specific format information. The format of the string representation must match the specified format exactly. Throws an exception if the conversion fails.
 type: docs

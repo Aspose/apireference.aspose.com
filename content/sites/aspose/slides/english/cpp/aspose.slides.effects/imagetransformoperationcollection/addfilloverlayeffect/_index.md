@@ -1,12 +1,12 @@
 ---
-title: AddFillOverlayEffect
+title: AddFillOverlayEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Fill Overlay effect to the end of a collection.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addfilloverlayeffect/
 ---
-## ImageTransformOperationCollection::AddFillOverlayEffect method
+## ImageTransformOperationCollection::AddFillOverlayEffect() method
 
 
 Adds the new Fill Overlay effect to the end of a collection.

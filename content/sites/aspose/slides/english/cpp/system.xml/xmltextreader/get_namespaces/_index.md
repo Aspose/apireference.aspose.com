@@ -1,12 +1,12 @@
 ---
-title: get_Namespaces
+title: get_Namespaces()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether to do namespace support.
 type: docs
 weight: 300
 url: /cpp/system.xml/xmltextreader/get_namespaces/
 ---
-## XmlTextReader::get_Namespaces method
+## XmlTextReader::get_Namespaces() method
 
 
 Returns a value indicating whether to do namespace support.

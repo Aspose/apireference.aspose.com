@@ -1,12 +1,12 @@
 ---
-title: CreateCDataSection
+title: CreateCDataSection()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlCDataSection containing the specified data.
 type: docs
 weight: 287
 url: /cpp/system.xml/xmldocument/createcdatasection/
 ---
-## XmlDocument::CreateCDataSection method
+## XmlDocument::CreateCDataSection(const [String](../../../system/string/)\&) method
 
 
 Creates an [XmlCDataSection](../../xmlcdatasection/) containing the specified data.

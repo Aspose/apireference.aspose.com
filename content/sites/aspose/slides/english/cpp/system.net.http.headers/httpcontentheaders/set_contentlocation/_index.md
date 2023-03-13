@@ -1,12 +1,12 @@
 ---
-title: set_ContentLocation
+title: set_ContentLocation()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Content-Location' header.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contentlocation/
 ---
-## HttpContentHeaders::set_ContentLocation method
+## HttpContentHeaders::set_ContentLocation([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Sets a value of the 'Content-Location' header.

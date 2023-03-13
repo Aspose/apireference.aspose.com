@@ -1,12 +1,12 @@
 ---
-title: set_ShowSearch
+title: set_ShowSearch()
 second_title: Aspose.Slides for C++ API Reference
 description: Show/hide search section. Can be overridden in flashvars. Default is true.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.export/iswfoptions/set_showsearch/
 ---
-## ISwfOptions::set_ShowSearch method
+## ISwfOptions::set_ShowSearch(**bool**) method
 
 
 Show/hide search section. Can be overridden in flashvars. Default is true.

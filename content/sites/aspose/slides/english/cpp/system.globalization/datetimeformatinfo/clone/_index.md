@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Clones format info.
 type: docs
 weight: 27
 url: /cpp/system.globalization/datetimeformatinfo/clone/
 ---
-## DateTimeFormatInfo::Clone method
+## DateTimeFormatInfo::Clone() method
 
 
 Clones format info.

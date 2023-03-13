@@ -1,12 +1,12 @@
 ---
-title: get_IsCompiled
+title: get_IsCompiled()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates if the schema has been compiled.
 type: docs
 weight: 183
 url: /cpp/system.xml.schema/xmlschema/get_iscompiled/
 ---
-## XmlSchema::get_IsCompiled method
+## XmlSchema::get_IsCompiled() method
 
 
 Indicates if the schema has been compiled.

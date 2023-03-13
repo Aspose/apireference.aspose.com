@@ -1,12 +1,12 @@
 ---
-title: get_FillFormat
+title: get_FillFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the FillFormat object that contains fill formatting properties for a shape. Read-only IFillFormat.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/ishape/get_fillformat/
 ---
-## IShape::get_FillFormat method
+## IShape::get_FillFormat() method
 
 
 Returns the [FillFormat](../../fillformat/) object that contains fill formatting properties for a shape. Read-only [IFillFormat](../../ifillformat/).

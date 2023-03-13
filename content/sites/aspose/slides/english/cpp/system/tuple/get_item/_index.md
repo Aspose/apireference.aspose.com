@@ -1,12 +1,12 @@
 ---
-title: get_Item
+title: get_Item()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the value of the Tuple object's component.
 type: docs
 weight: 14
 url: /cpp/system/tuple/get_item/
 ---
-## Tuple::get_Item method
+## Tuple::get_Item() const method
 
 
 Gets the value of the [Tuple](../) object's component.

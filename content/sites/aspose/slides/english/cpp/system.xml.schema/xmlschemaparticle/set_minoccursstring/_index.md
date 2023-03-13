@@ -1,12 +1,12 @@
 ---
-title: set_MinOccursString
+title: set_MinOccursString()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the number as a string value. The minimum number of times the particle can occur.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaparticle/set_minoccursstring/
 ---
-## XmlSchemaParticle::set_MinOccursString method
+## XmlSchemaParticle::set_MinOccursString(const [String](../../../system/string/)\&) method
 
 
 Sets the number as a string value. The minimum number of times the particle can occur.

@@ -1,12 +1,12 @@
 ---
-title: GetHeaderStrings
+title: GetHeaderStrings()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection that contains string representations of headers' values.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/httpheaders/getheaderstrings/
 ---
-## HttpHeaders::GetHeaderStrings method
+## HttpHeaders::GetHeaderStrings() method
 
 
 Returns a collection that contains string representations of headers' values.

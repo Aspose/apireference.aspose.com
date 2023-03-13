@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts a new layout slide to specified position of the collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/masterlayoutslidecollection/insert/
 ---
-## MasterLayoutSlideCollection::Insert method
+## MasterLayoutSlideCollection::Insert(**int32_t**, [SlideLayoutType](../../slidelayouttype/), [System::String](../../../system/string/)) method
 
 
 Inserts a new layout slide to specified position of the collection.

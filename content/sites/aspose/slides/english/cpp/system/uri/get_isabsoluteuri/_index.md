@@ -1,12 +1,12 @@
 ---
-title: get_IsAbsoluteUri
+title: get_IsAbsoluteUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the URI represented by the current object is absolute.
 type: docs
 weight: 248
 url: /cpp/system/uri/get_isabsoluteuri/
 ---
-## Uri::get_IsAbsoluteUri method
+## Uri::get_IsAbsoluteUri() const method
 
 
 Determines if the URI represented by the current object is absolute.

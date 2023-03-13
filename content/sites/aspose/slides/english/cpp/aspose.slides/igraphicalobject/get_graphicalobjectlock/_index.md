@@ -1,12 +1,12 @@
 ---
-title: get_GraphicalObjectLock
+title: get_GraphicalObjectLock()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns shape's locks. Read-only IGraphicalObjectLock.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/igraphicalobject/get_graphicalobjectlock/
 ---
-## IGraphicalObject::get_GraphicalObjectLock method
+## IGraphicalObject::get_GraphicalObjectLock() method
 
 
 Returns shape's locks. Read-only [IGraphicalObjectLock](../../igraphicalobjectlock/).

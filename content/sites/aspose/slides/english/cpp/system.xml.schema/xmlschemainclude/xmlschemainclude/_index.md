@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaInclude
+title: XmlSchemaInclude()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaInclude class.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemainclude/xmlschemainclude/
 ---
-## XmlSchemaInclude::XmlSchemaInclude constructor
+## XmlSchemaInclude::XmlSchemaInclude() constructor
 
 
 Initializes a new instance of the [XmlSchemaInclude](../) class.

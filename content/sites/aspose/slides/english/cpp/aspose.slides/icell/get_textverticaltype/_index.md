@@ -1,12 +1,12 @@
 ---
-title: get_TextVerticalType
+title: get_TextVerticalType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the type of vertical text. Read Slides::TextVerticalType."
 type: docs
 weight: 196
 url: /cpp/aspose.slides/icell/get_textverticaltype/
 ---
-## ICell::get_TextVerticalType method
+## ICell::get_TextVerticalType() method
 
 
 Returns the type of vertical text. Read [Slides::TextVerticalType](../../textverticaltype/).

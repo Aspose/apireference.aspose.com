@@ -1,12 +1,12 @@
 ---
-title: get_Namespace
+title: get_Namespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the default namespace to use for the XML Web service.
 type: docs
 weight: 53
 url: /cpp/system.web.services/webserviceattribute/get_namespace/
 ---
-## WebServiceAttribute::get_Namespace method
+## WebServiceAttribute::get_Namespace() method
 
 
 Gets the default namespace to use for the XML [Web](../../../system.web/) service.

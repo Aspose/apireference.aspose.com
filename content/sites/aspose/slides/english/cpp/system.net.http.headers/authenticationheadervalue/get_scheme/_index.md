@@ -1,12 +1,12 @@
 ---
-title: get_Scheme
+title: get_Scheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the scheme that can be used for authorization.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/authenticationheadervalue/get_scheme/
 ---
-## AuthenticationHeaderValue::get_Scheme method
+## AuthenticationHeaderValue::get_Scheme() method
 
 
 Gets the scheme that can be used for authorization.

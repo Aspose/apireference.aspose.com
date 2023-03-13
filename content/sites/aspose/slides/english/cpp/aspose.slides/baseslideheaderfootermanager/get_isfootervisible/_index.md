@@ -1,12 +1,12 @@
 ---
-title: get_IsFooterVisible
+title: get_IsFooterVisible()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value indicating that a footer placeholder is present. Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/baseslideheaderfootermanager/get_isfootervisible/
 ---
-## BaseSlideHeaderFooterManager::get_IsFooterVisible method
+## BaseSlideHeaderFooterManager::get_IsFooterVisible() method
 
 
 Gets value indicating that a footer placeholder is present. Read **bool**.

@@ -1,12 +1,12 @@
 ---
-title: get_Bmp
+title: get_Bmp()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shared pointer to an ImageFormat object that represents the bitmap image format.
 type: docs
 weight: 66
 url: /cpp/system.drawing.imaging/imageformat/get_bmp/
 ---
-## ImageFormat::get_Bmp method
+## ImageFormat::get_Bmp() method
 
 
 Returns a shared pointer to an [ImageFormat](../) object that represents the bitmap image format.

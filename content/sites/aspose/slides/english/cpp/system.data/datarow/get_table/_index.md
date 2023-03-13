@@ -1,12 +1,12 @@
 ---
-title: get_Table
+title: get_Table()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets table row belongs to.
 type: docs
 weight: 14
 url: /cpp/system.data/datarow/get_table/
 ---
-## DataRow::get_Table method
+## DataRow::get_Table() method
 
 
 Gets table row belongs to.

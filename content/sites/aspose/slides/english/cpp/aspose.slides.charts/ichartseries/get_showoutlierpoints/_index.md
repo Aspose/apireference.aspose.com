@@ -1,12 +1,12 @@
 ---
-title: get_ShowOutlierPoints
+title: get_ShowOutlierPoints()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents outlier points. True if outlier points are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Read bool.
 type: docs
 weight: 456
 url: /cpp/aspose.slides.charts/ichartseries/get_showoutlierpoints/
 ---
-## IChartSeries::get_ShowOutlierPoints method
+## IChartSeries::get_ShowOutlierPoints() method
 
 
 Represents outlier points. True if outlier points are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Read **bool**.

@@ -1,5 +1,5 @@
 ---
-title: InsertAutoShape
+title: InsertAutoShape()
 second_title: Aspose.Slides for C++ API Reference
 description: "Creates a new AutoShape, tunes it from default template and inserts it to the collection at the specified index. Note: the type of the shape will be determined by the shapeType parameter."
 type: docs

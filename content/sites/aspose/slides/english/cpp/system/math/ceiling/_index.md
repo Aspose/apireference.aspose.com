@@ -1,5 +1,5 @@
 ---
-title: Ceiling
+title: Ceiling()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the smallest integral value that is greater than or equal to the specified value.
 type: docs

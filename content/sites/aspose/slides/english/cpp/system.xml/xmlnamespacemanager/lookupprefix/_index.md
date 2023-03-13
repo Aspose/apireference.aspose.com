@@ -1,12 +1,12 @@
 ---
-title: LookupPrefix
+title: LookupPrefix()
 second_title: Aspose.Slides for C++ API Reference
 description: Finds the prefix declared for the given namespace URI.
 type: docs
 weight: 131
 url: /cpp/system.xml/xmlnamespacemanager/lookupprefix/
 ---
-## XmlNamespaceManager::LookupPrefix method
+## XmlNamespaceManager::LookupPrefix(const [String](../../../system/string/)\&) method
 
 
 Finds the prefix declared for the given namespace URI.

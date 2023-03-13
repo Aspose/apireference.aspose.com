@@ -1,12 +1,12 @@
 ---
-title: get_Settings
+title: get_Settings()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlReaderSettings object used to create this XmlReader instance.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlreader/get_settings/
 ---
-## XmlReader::get_Settings method
+## XmlReader::get_Settings() method
 
 
 Returns the [XmlReaderSettings](../../xmlreadersettings/) object used to create this [XmlReader](../) instance.

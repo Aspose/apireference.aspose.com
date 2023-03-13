@@ -1,5 +1,5 @@
 ---
-title: IsSurrogate
+title: IsSurrogate()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified character is a UTF-16 surrogate code unit.
 type: docs

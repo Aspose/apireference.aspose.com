@@ -1,12 +1,12 @@
 ---
-title: ExportParameters
+title: ExportParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports named or explicit parameters.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/ecdsa/exportparameters/
 ---
-## ECDsa::ExportParameters method
+## ECDsa::ExportParameters(**bool**) method
 
 
 Exports named or explicit parameters.

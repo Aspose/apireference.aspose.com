@@ -1,12 +1,12 @@
 ---
-title: CreateAttributes
+title: CreateAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlWriter object used to create new attributes on the current element.
 type: docs
 weight: 924
 url: /cpp/system.xml.xpath/xpathnavigator/createattributes/
 ---
-## XPathNavigator::CreateAttributes method
+## XPathNavigator::CreateAttributes() method
 
 
 Returns an [XmlWriter](../../../system.xml/xmlwriter/) object used to create new attributes on the current element.

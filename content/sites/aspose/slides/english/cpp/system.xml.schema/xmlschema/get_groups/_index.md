@@ -1,12 +1,12 @@
 ---
-title: get_Groups
+title: get_Groups()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-schema-compilation value of all the groups in the schema.
 type: docs
 weight: 300
 url: /cpp/system.xml.schema/xmlschema/get_groups/
 ---
-## XmlSchema::get_Groups method
+## XmlSchema::get_Groups() method
 
 
 Returns the post-schema-compilation value of all the groups in the schema.

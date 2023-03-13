@@ -1,12 +1,12 @@
 ---
-title: GetObjectNotNull
+title: GetObjectNotNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets currently referenced object (if any) or throws.
 type: docs
 weight: 443
 url: /cpp/system/smartptr/getobjectnotnull/
 ---
-## SmartPtr::GetObjectNotNull method
+## SmartPtr::GetObjectNotNull() const method
 
 
 Gets currently referenced object (if any) or throws.

@@ -1,12 +1,12 @@
 ---
-title: set_IsVisible
+title: set_IsVisible()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents if the axis is visible. Write bool.
 type: docs
 weight: 495
 url: /cpp/aspose.slides.charts/axis/set_isvisible/
 ---
-## Axis::set_IsVisible method
+## Axis::set_IsVisible(**bool**) method
 
 
 Represents if the axis is visible. Write **bool**.

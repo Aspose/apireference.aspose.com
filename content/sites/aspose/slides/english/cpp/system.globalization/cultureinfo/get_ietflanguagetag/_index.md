@@ -1,12 +1,12 @@
 ---
-title: get_IetfLanguageTag
+title: get_IetfLanguageTag()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the RFC 4646 name for a language.
 type: docs
 weight: 79
 url: /cpp/system.globalization/cultureinfo/get_ietflanguagetag/
 ---
-## CultureInfo::get_IetfLanguageTag method
+## CultureInfo::get_IetfLanguageTag() const method
 
 
 Gets the RFC 4646 name for a language.

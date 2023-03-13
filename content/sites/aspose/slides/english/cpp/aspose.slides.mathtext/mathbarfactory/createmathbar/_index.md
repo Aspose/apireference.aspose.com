@@ -1,7 +1,7 @@
 ---
-title: CreateMathBar
+title: CreateMathBar()
 second_title: Aspose.Slides for C++ API Reference
-description: Create a math bar by applying to the element.
+description: Create a math bar by applying to the element
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathbarfactory/createmathbar/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathbarfactory/createmathbar/
 ## MathBarFactory::CreateMathBar([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Create a math bar by applying to the element.
+Create a math bar by applying to the element
 
 ```cpp
 System::SharedPtr<IMathBar> Aspose::Slides::MathText::MathBarFactory::CreateMathBar(System::SharedPtr<IMathElement> element) override
@@ -37,7 +37,7 @@ new math bar element
 ## MathBarFactory::CreateMathBar([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [MathTopBotPositions](../../mathtopbotpositions/)) method
 
 
-Create a math bar by applying to the element.
+Create a math bar by applying to the element
 
 ```cpp
 System::SharedPtr<IMathBar> Aspose::Slides::MathText::MathBarFactory::CreateMathBar(System::SharedPtr<IMathElement> element, MathTopBotPositions position) override

@@ -1,7 +1,7 @@
 ---
 title: VideoPlayerHtmlController
 second_title: Aspose.Slides for C++ API Reference
-description: This class allows export of video and audio files into a HTML.
+description: This class allows export of video and audio files into a HTML
 type: docs
 weight: 729
 url: /cpp/aspose.slides.export/videoplayerhtmlcontroller/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.export/videoplayerhtmlcontroller/
 ## VideoPlayerHtmlController class
 
 
-This class allows export of video and audio files into a HTML.
+This class allows export of video and audio files into a HTML
 
 ```cpp
 class VideoPlayerHtmlController : public Aspose::Slides::Export::IVideoPlayerHtmlController
@@ -47,7 +47,7 @@ class VideoPlayerHtmlController : public Aspose::Slides::Export::IVideoPlayerHtm
 | virtual [String](../../system/string/) [ToString](../../system/object/tostring/)() const | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
-|  [VideoPlayerHtmlController](./videoplayerhtmlcontroller/)([System::String](../../system/string/), [System::String](../../system/string/), [System::String](../../system/string/)) | Creates a new instance of controller. |
+|  [VideoPlayerHtmlController](./videoplayerhtmlcontroller/)([System::String](../../system/string/), [System::String](../../system/string/), [System::String](../../system/string/)) | Creates a new instance of controller |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../../system/object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | virtual  [~Object](../../system/object/~object/)() | Destroys object. Frees all internal data structures. |

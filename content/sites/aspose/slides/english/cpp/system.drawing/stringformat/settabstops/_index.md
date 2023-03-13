@@ -1,12 +1,12 @@
 ---
-title: SetTabStops
+title: SetTabStops()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the tab stops for the current StringFormat object.
 type: docs
 weight: 131
 url: /cpp/system.drawing/stringformat/settabstops/
 ---
-## StringFormat::SetTabStops method
+## StringFormat::SetTabStops(**float**, const [ArrayPtr](../../../system/arrayptr/)\<**float**\>\&) method
 
 
 Sets the tab stops for the current [StringFormat](../) object.

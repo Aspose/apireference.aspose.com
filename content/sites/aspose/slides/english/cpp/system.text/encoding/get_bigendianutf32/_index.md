@@ -1,12 +1,12 @@
 ---
-title: get_BigEndianUTF32
+title: get_BigEndianUTF32()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the standard big-endian UTF-32 encoding object.
 type: docs
 weight: 469
 url: /cpp/system.text/encoding/get_bigendianutf32/
 ---
-## Encoding::get_BigEndianUTF32 method
+## Encoding::get_BigEndianUTF32() method
 
 
 Gets the standard big-endian UTF-32 encoding object.

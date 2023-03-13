@@ -1,12 +1,12 @@
 ---
-title: set_TickLabelRotationAngle
+title: set_TickLabelRotationAngle()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the rotation angle of tick labels Write float.
 type: docs
 weight: 846
 url: /cpp/aspose.slides.charts/iaxis/set_ticklabelrotationangle/
 ---
-## IAxis::set_TickLabelRotationAngle method
+## IAxis::set_TickLabelRotationAngle(**float**) method
 
 
 Represents the rotation angle of tick labels Write **float**.

@@ -1,12 +1,12 @@
 ---
-title: get_TrendLine
+title: get_TrendLine()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns trend line at the specified index.
 type: docs
 weight: 846
 url: /cpp/aspose.slides.charts/ichartseries/get_trendline/
 ---
-## IChartSeries::get_TrendLine method
+## IChartSeries::get_TrendLine(**int32_t**) method
 
 
 Returns trend line at the specified index.

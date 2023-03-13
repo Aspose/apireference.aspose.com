@@ -1,12 +1,12 @@
 ---
-title: get_QuoteChar
+title: get_QuoteChar()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the quotation mark character used to enclose the value of an attribute node.
 type: docs
 weight: 157
 url: /cpp/system.xml/xmlreader/get_quotechar/
 ---
-## XmlReader::get_QuoteChar method
+## XmlReader::get_QuoteChar() method
 
 
 When overridden in a derived class, gets the quotation mark character used to enclose the value of an attribute node.

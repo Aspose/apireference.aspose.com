@@ -1,12 +1,12 @@
 ---
-title: set_RetryAfter
+title: set_RetryAfter()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Retry-After' header.
 type: docs
 weight: 118
 url: /cpp/system.net.http.headers/httpresponseheaders/set_retryafter/
 ---
-## HttpResponseHeaders::set_RetryAfter method
+## HttpResponseHeaders::set_RetryAfter([System::SharedPtr](../../../system/sharedptr/)\<[RetryConditionHeaderValue](../../retryconditionheadervalue/)\>) method
 
 
 Sets a value of the 'Retry-After' header.

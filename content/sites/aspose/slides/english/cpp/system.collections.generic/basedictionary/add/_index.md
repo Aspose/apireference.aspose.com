@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds key-value pair into dictionary.
 type: docs
 weight: 105
 url: /cpp/system.collections.generic/basedictionary/add/
 ---
-## BaseDictionary::Add method
+## BaseDictionary::Add(const key_t\&, const mapped_t\&) method
 
 
 Adds key-value pair into dictionary.

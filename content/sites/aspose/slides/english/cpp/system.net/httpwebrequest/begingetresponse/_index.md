@@ -1,12 +1,12 @@
 ---
-title: BeginGetResponse
+title: BeginGetResponse()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous request for the resource.
 type: docs
 weight: 495
 url: /cpp/system.net/httpwebrequest/begingetresponse/
 ---
-## HttpWebRequest::BeginGetResponse method
+## HttpWebRequest::BeginGetResponse([AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Initiates an asynchronous request for the resource.

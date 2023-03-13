@@ -1,12 +1,12 @@
 ---
-title: get_Attributes
+title: get_Attributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-schema-compilation value for all the attributes in the schema.
 type: docs
 weight: 196
 url: /cpp/system.xml.schema/xmlschema/get_attributes/
 ---
-## XmlSchema::get_Attributes method
+## XmlSchema::get_Attributes() method
 
 
 Returns the post-schema-compilation value for all the attributes in the schema.

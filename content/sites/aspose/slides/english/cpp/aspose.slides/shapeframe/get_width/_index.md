@@ -1,12 +1,12 @@
 ---
-title: get_Width
+title: get_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the width of a frame. Read-only float.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/shapeframe/get_width/
 ---
-## ShapeFrame::get_Width method
+## ShapeFrame::get_Width() method
 
 
 Returns the width of a frame. Read-only **float**.

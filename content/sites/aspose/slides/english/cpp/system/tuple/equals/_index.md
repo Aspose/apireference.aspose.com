@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current and the specified objects are identical.
 type: docs
 weight: 27
 url: /cpp/system/tuple/equals/
 ---
-## Tuple::Equals method
+## Tuple::Equals([SharedPtr](../../sharedptr/)\<[Object](../../object/)\>) method
 
 
 Determines if the current and the specified objects are identical.

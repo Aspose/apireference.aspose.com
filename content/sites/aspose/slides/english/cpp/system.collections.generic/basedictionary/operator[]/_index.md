@@ -1,12 +1,12 @@
 ---
-title: operator[]
+title: operator[]()
 second_title: Aspose.Slides for C++ API Reference
 description: Accessor function.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/basedictionary/operator[]/
 ---
-## BaseDictionary::operator[] method
+## BaseDictionary::operator[](const key_t\&) method
 
 
 Accessor function.

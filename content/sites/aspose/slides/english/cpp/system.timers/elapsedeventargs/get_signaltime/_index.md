@@ -1,12 +1,12 @@
 ---
-title: get_SignalTime
+title: get_SignalTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets singal time.
 type: docs
 weight: 14
 url: /cpp/system.timers/elapsedeventargs/get_signaltime/
 ---
-## ElapsedEventArgs::get_SignalTime method
+## ElapsedEventArgs::get_SignalTime() method
 
 
 Gets singal time.

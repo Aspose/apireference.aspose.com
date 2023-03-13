@@ -1,5 +1,5 @@
 ---
-title: GetBytes
+title: GetBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified boolean value into an array of bytes.
 type: docs

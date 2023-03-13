@@ -1,12 +1,12 @@
 ---
-title: set_Url
+title: set_Url()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XML Web service URL.
 type: docs
 weight: 170
 url: /cpp/system.web.services.protocols/webclientprotocol/set_url/
 ---
-## WebClientProtocol::set_Url method
+## WebClientProtocol::set_Url([String](../../../system/string/)) method
 
 
 Sets the XML [Web](../../../system.web/) service URL.

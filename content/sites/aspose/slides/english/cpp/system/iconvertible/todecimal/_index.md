@@ -1,12 +1,12 @@
 ---
-title: ToDecimal
+title: ToDecimal()
 second_title: Aspose.Slides for C++ API Reference
 description: "Converts the value of this instance to an equivalent System::Decimal number using the specified culture-specific formatting information."
 type: docs
 weight: 170
 url: /cpp/system/iconvertible/todecimal/
 ---
-## IConvertible::ToDecimal method
+## IConvertible::ToDecimal([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to an equivalent [System::Decimal](../../decimal/) number using the specified culture-specific formatting information.

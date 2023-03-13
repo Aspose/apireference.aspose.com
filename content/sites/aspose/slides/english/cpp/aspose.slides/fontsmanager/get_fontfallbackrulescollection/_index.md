@@ -1,12 +1,12 @@
 ---
-title: get_FontFallBackRulesCollection
+title: get_FontFallBackRulesCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a user's collection of FontFallBack rules for managing of collections of fonts for proper substitutions by fallback functionality Read IFontFallBackRulesCollection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/fontsmanager/get_fontfallbackrulescollection/
 ---
-## FontsManager::get_FontFallBackRulesCollection method
+## FontsManager::get_FontFallBackRulesCollection() method
 
 
 Represents a user's collection of FontFallBack rules for managing of collections of fonts for proper substitutions by fallback functionality Read [IFontFallBackRulesCollection](../../ifontfallbackrulescollection/).

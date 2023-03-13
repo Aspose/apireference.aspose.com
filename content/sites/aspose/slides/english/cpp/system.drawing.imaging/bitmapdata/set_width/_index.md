@@ -1,12 +1,12 @@
 ---
-title: set_Width
+title: set_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the width of the image in pixels.
 type: docs
 weight: 14
 url: /cpp/system.drawing.imaging/bitmapdata/set_width/
 ---
-## BitmapData::set_Width method
+## BitmapData::set_Width(int) method
 
 
 Sets the width of the image in pixels.

@@ -1,5 +1,5 @@
 ---
-title: AsnEncodedData
+title: AsnEncodedData()
 second_title: Aspose.Slides for C++ API Reference
 description: Copy constructor.
 type: docs

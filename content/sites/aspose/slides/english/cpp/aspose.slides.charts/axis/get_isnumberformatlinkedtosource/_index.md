@@ -1,12 +1,12 @@
 ---
-title: get_IsNumberFormatLinkedToSource
+title: get_IsNumberFormatLinkedToSource()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether the format is linked source data. Read bool.
 type: docs
 weight: 859
 url: /cpp/aspose.slides.charts/axis/get_isnumberformatlinkedtosource/
 ---
-## Axis::get_IsNumberFormatLinkedToSource method
+## Axis::get_IsNumberFormatLinkedToSource() method
 
 
 Indicates whether the format is linked source data. Read **bool**.

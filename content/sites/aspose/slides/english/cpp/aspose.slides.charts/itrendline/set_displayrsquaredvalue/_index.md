@@ -1,12 +1,12 @@
 ---
-title: set_DisplayRSquaredValue
+title: set_DisplayRSquaredValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies that the R-squared value of the trendline is displayed on the chart (in the same label as the equation). Write bool.
 type: docs
 weight: 248
 url: /cpp/aspose.slides.charts/itrendline/set_displayrsquaredvalue/
 ---
-## ITrendline::set_DisplayRSquaredValue method
+## ITrendline::set_DisplayRSquaredValue(**bool**) method
 
 
 Specifies that the R-squared value of the trendline is displayed on the chart (in the same label as the equation). Write **bool**.

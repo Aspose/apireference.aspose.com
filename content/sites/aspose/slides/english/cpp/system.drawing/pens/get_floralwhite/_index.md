@@ -1,12 +1,12 @@
 ---
-title: get_FloralWhite
+title: get_FloralWhite()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFFAF0.
 type: docs
 weight: 573
 url: /cpp/system.drawing/pens/get_floralwhite/
 ---
-## Pens::get_FloralWhite method
+## Pens::get_FloralWhite() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFFAF0.

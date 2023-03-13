@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a pointer to Enumerator object that provides IEnumerator interface to elements of the array represented by the current object.
 type: docs
 weight: 14
 url: /cpp/system/array/getenumerator/
 ---
-## Array::GetEnumerator method
+## Array::GetEnumerator() method
 
 
 Returns a pointer to **Enumerator** object that provides IEnumerator interface to elements of the array represented by the current object.

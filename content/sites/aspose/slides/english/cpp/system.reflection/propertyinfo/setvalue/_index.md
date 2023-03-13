@@ -1,12 +1,12 @@
 ---
-title: SetValue
+title: SetValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets property value to specific object.
 type: docs
 weight: 14
 url: /cpp/system.reflection/propertyinfo/setvalue/
 ---
-## PropertyInfo::SetValue method
+## PropertyInfo::SetValue([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Sets property value to specific object.

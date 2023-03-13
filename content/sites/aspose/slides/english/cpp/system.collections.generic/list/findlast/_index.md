@@ -1,12 +1,12 @@
 ---
-title: FindLast
+title: FindLast()
 second_title: Aspose.Slides for C++ API Reference
 description: Looks for last element adhering to specific predicate.
 type: docs
 weight: 417
 url: /cpp/system.collections.generic/list/findlast/
 ---
-## List::FindLast method
+## List::FindLast([System::Predicate](../../../system/predicate/)\<T\>) method
 
 
 Looks for last element adhering to specific predicate.

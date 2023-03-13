@@ -1,12 +1,12 @@
 ---
-title: set_PlotOnSecondAxis
+title: set_PlotOnSecondAxis()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates if this series is plotted on second value axis. Write bool.
 type: docs
 weight: 261
 url: /cpp/aspose.slides.charts/ichartseries/set_plotonsecondaxis/
 ---
-## IChartSeries::set_PlotOnSecondAxis method
+## IChartSeries::set_PlotOnSecondAxis(**bool**) method
 
 
 Indicates if this series is plotted on second value axis. Write **bool**.

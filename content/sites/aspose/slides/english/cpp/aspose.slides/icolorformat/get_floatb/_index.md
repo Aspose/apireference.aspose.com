@@ -1,12 +1,12 @@
 ---
-title: get_FloatB
+title: get_FloatB()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the blue component of a color. All color transformations are ignored. Read float.
 type: docs
 weight: 261
 url: /cpp/aspose.slides/icolorformat/get_floatb/
 ---
-## IColorFormat::get_FloatB method
+## IColorFormat::get_FloatB() method
 
 
 Returns the blue component of a color. All color transformations are ignored. Read **float**.

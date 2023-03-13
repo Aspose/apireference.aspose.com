@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, atomizes the specified string and adds it to the XmlNameTable.
 type: docs

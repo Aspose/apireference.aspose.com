@@ -1,12 +1,12 @@
 ---
-title: get_ReadMethods
+title: get_ReadMethods()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.xml.serialization/xmlserializerimplementation/get_readmethods/
 ---
-## XmlSerializerImplementation::get_ReadMethods method
+## XmlSerializerImplementation::get_ReadMethods() method
 
 
 

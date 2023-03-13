@@ -1,12 +1,12 @@
 ---
-title: get_DontFragment
+title: get_DontFragment()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the socket allows IP datagrams to be fragmented.
 type: docs
 weight: 378
 url: /cpp/system.net.sockets/socket/get_dontfragment/
 ---
-## Socket::get_DontFragment method
+## Socket::get_DontFragment() method
 
 
 Gets a value that indicates if the socket allows IP datagrams to be fragmented.

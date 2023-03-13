@@ -1,7 +1,7 @@
 ---
 title: Margin64d
 second_title: Aspose.Slides for C++ API Reference
-description: Margin.
+description: Margin
 type: docs
 weight: 14
 url: /cpp/aspose.slides.drawing/margin64d/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.drawing/margin64d/
 ## Margin64d class
 
 
-Margin.
+Margin
 
 ```cpp
 class Margin64d : public System::Object,

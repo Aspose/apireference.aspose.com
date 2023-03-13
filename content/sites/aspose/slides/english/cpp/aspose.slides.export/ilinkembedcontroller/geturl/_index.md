@@ -1,12 +1,12 @@
 ---
-title: GetUrl
+title: GetUrl()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an URL to an external object. This method always called if ILinkEmbedController::GetObjectStoringLocation returned LinkEmbedDecision::Link and may be called if ILinkEmbedController::GetObjectStoringLocation returned LinkEmbedDecision::Embed but embedding is impossible. Can be called multiple time for same object id."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/ilinkembedcontroller/geturl/
 ---
-## ILinkEmbedController::GetUrl method
+## ILinkEmbedController::GetUrl(**int32_t**, **int32_t**) method
 
 
 Returns an URL to an external object. This method always called if [ILinkEmbedController::GetObjectStoringLocation](../getobjectstoringlocation/) returned [LinkEmbedDecision::Link](../../linkembeddecision/) and may be called if [ILinkEmbedController::GetObjectStoringLocation](../getobjectstoringlocation/) returned [LinkEmbedDecision::Embed](../../linkembeddecision/) but embedding is impossible. Can be called multiple time for same object id.

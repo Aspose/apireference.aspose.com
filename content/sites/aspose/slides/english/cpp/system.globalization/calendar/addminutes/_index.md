@@ -1,12 +1,12 @@
 ---
-title: AddMinutes
+title: AddMinutes()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds minutes to time point.
 type: docs
 weight: 118
 url: /cpp/system.globalization/calendar/addminutes/
 ---
-## Calendar::AddMinutes method
+## Calendar::AddMinutes([DateTime](../../../system/datetime/), int) const method
 
 
 Adds minutes to time point.

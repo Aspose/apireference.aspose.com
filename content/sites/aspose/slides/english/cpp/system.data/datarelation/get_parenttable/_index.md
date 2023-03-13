@@ -1,12 +1,12 @@
 ---
-title: get_ParentTable
+title: get_ParentTable()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data/datarelation/get_parenttable/
 ---
-## DataRelation::get_ParentTable method
+## DataRelation::get_ParentTable() method
 
 
 RTTI information.

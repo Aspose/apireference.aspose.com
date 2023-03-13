@@ -1,12 +1,12 @@
 ---
-title: get_CustomData
+title: get_CustomData()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the shape's custom data. Read-only ICustomData.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ishape/get_customdata/
 ---
-## IShape::get_CustomData method
+## IShape::get_CustomData() method
 
 
 Returns the shape's custom data. Read-only [ICustomData](../../icustomdata/).

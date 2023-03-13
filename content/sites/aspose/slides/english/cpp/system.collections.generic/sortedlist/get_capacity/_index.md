@@ -1,12 +1,12 @@
 ---
-title: get_Capacity
+title: get_Capacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets current list capacity.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/sortedlist/get_capacity/
 ---
-## SortedList::get_Capacity method
+## SortedList::get_Capacity() const method
 
 
 Gets current list capacity.

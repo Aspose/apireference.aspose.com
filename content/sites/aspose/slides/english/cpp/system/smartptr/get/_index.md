@@ -1,12 +1,12 @@
 ---
-title: get
+title: get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets pointed object.
 type: docs
 weight: 66
 url: /cpp/system/smartptr/get/
 ---
-## SmartPtr::get method
+## SmartPtr::get() const method
 
 
 Gets pointed object.

@@ -1,12 +1,12 @@
 ---
-title: set_Expires
+title: set_Expires()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'Expires' attribute's value.
 type: docs
 weight: 196
 url: /cpp/system.net/cookie/set_expires/
 ---
-## Cookie::set_Expires method
+## Cookie::set_Expires([DateTime](../../../system/datetime/)) method
 
 
 Sets the 'Expires' attribute's value.

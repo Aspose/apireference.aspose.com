@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective 3-D formatting data with the inheritance applied.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/ithreedformat/geteffective/
 ---
-## IThreeDFormat::GetEffective method
+## IThreeDFormat::GetEffective() method
 
 
 Gets effective 3-D formatting data with the inheritance applied.

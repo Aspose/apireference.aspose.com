@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of a ColorOperationCollection collection.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/coloroperationcollection/clone/
 ---
-## ColorOperationCollection::Clone method
+## ColorOperationCollection::Clone() method
 
 
 Creates a copy of a [ColorOperationCollection](../) collection.

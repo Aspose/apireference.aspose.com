@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the current object.
 type: docs
 weight: 79
 url: /cpp/system/details_exception/tostring/
 ---
-## Details_Exception::ToString method
+## Details_Exception::ToString() const method
 
 
 Returns the string representation of the current object.

@@ -1,12 +1,12 @@
 ---
-title: ToFullMessage
+title: ToFullMessage()
 second_title: Aspose.Slides for C++ API Reference
 description: Formats string to be used as message text.
 type: docs
 weight: 66
 url: /cpp/system/collectionasserthelper/tofullmessage/
 ---
-## CollectionAssertHelper::ToFullMessage method
+## CollectionAssertHelper::ToFullMessage(const [System::String](../../string/)\&) method
 
 
 Formats string to be used as message text.

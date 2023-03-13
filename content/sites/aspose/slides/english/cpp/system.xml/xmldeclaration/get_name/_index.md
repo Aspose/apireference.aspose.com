@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the qualified name of the node.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmldeclaration/get_name/
 ---
-## XmlDeclaration::get_Name method
+## XmlDeclaration::get_Name() method
 
 
 Returns the qualified name of the node.

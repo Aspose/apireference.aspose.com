@@ -1,5 +1,5 @@
 ---
-title: Concat
+title: Concat()
 second_title: Aspose.Slides for C++ API Reference
 description: Concatenates string array.
 type: docs

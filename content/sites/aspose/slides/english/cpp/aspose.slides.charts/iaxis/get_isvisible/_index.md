@@ -1,12 +1,12 @@
 ---
-title: get_IsVisible
+title: get_IsVisible()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents if the axis is visible. Read bool.
 type: docs
 weight: 443
 url: /cpp/aspose.slides.charts/iaxis/get_isvisible/
 ---
-## IAxis::get_IsVisible method
+## IAxis::get_IsVisible() method
 
 
 Represents if the axis is visible. Read **bool**.

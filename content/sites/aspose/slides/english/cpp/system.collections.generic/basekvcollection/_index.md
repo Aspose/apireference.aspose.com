@@ -27,7 +27,6 @@ template<typename Dict,typename KV>class BaseKVCollection : public System::Colle
 | Method | Description |
 | --- | --- |
 | void [Add](../ikvcollection/add/)(const T\&) override | Adds item to container. |
-| virtual void [Add](../icollection/add/)(const T\&) | Adds element into collection. |
 |  [BaseKVCollection](./basekvcollection/)(const typename Dict::Ptr\&) | Creates collection. |
 | [iterator](../ienumerable/iterator/) [begin](../ienumerable/begin/)() | Gets iterator pointing to the first element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../ienumerable/getenumerator/) returns a copy-object of T. |
 | [const_iterator](../ienumerable/const_iterator/) [begin](../ienumerable/begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
@@ -35,9 +34,7 @@ template<typename Dict,typename KV>class BaseKVCollection : public System::Colle
 | [const_iterator](../ienumerable/const_iterator/) [cend](../ienumerable/cend/)() const | Gets iterator pointing right after the last const-qualified element (if any) of the collection. |
 | void [Clear](../ikvcollection/clear/)() override | Deletes all elements from container. |
 | **bool** [Contains](../ikvcollection/contains/)(const T\&) const override | Checks if item is present in container. |
-| virtual **bool** [Contains](../icollection/contains/)(const T\&) const | Checks if element is present in collection. |
 | void [CopyTo](./copyto/)([ArrayPtr](../../system/arrayptr/)\<KV\>, int) override | Copies data to existing array elements. |
-| virtual void [CopyTo](../icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
 | [iterator](../ienumerable/iterator/) [end](../ienumerable/end/)() | Gets iterator pointing right after the last element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../ienumerable/getenumerator/) returns a copy-object of T. |
 | [const_iterator](../ienumerable/const_iterator/) [end](../ienumerable/end/)() const | Gets iterator pointing right after the last element (if any) of the const-qualified instance of the collection. |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
@@ -59,11 +56,8 @@ template<typename Dict,typename KV>class BaseKVCollection : public System::Colle
 |  [ICollection](../icollection/icollection/)([ICollection](../icollection/)\&&) | Move constructor. |
 | virtual T [idx_get](../ikvcollection/idx_get/)(int) const | Getter function. |
 | void [idx_set](../ikvcollection/idx_set/)(int, T) override | Setter function. |
-| virtual void [idx_set](../ilist/idx_set/)(int, T) | Sets element at specified index. |
 | int [IndexOf](../ikvcollection/indexof/)(const T\&) const override | Gets index of item in container. |
-| virtual int [IndexOf](../ilist/indexof/)(const T\&) const | Gets index of first appearance of item in container. |
 | void [Insert](../ikvcollection/insert/)(int, const T\&) override | Inserts item at specified position. |
-| virtual void [Insert](../ilist/insert/)(int, const T\&) | Inserts element into specified position, shifting other elements. |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
 | **bool** [LINQ_All](../ienumerable/linq_all/)(std::function\<**bool**(T)>) | Determines whether all elements of a sequence satisfy a condition. |
 | **bool** [LINQ_Any](../ienumerable/linq_any/)() | Determines whether a sequence contains any elements. |
@@ -111,7 +105,6 @@ template<typename Dict,typename KV>class BaseKVCollection : public System::Colle
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | **bool** [Remove](../ikvcollection/remove/)(const T\&) override | Removes item from container. |
-| virtual **bool** [Remove](../icollection/remove/)(const T\&) | Deletes element from collection. |
 | void [RemoveAt](../ikvcollection/removeat/)(int) override | Removes item at specified position. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
 | void [SetTemplateWeakPtr](./settemplateweakptr/)(**uint32_t**) override | Enables compilation, but doesn't actually do anything as this structure doesn't own data. |

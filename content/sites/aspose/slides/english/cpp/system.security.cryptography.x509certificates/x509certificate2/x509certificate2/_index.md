@@ -1,5 +1,5 @@
 ---
-title: X509Certificate2
+title: X509Certificate2()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs empty X509Certificate2.
 type: docs

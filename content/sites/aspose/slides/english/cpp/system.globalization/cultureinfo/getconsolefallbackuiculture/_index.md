@@ -1,12 +1,12 @@
 ---
-title: GetConsoleFallbackUICulture
+title: GetConsoleFallbackUICulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets alternate culture suitable for console applications.
 type: docs
 weight: 326
 url: /cpp/system.globalization/cultureinfo/getconsolefallbackuiculture/
 ---
-## CultureInfo::GetConsoleFallbackUICulture method
+## CultureInfo::GetConsoleFallbackUICulture() const method
 
 
 Gets alternate culture suitable for console applications.

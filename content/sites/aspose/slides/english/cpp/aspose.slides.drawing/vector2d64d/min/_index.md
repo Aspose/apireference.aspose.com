@@ -1,12 +1,12 @@
 ---
-title: Min
+title: Min()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/aspose.slides.drawing/vector2d64d/min/
 ---
-## Vector2d64d::Min method
+## Vector2d64d::Min([Vector2d64d](../), [Vector2d64d](../)) method
 
 
 

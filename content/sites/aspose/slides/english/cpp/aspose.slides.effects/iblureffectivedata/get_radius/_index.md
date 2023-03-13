@@ -1,12 +1,12 @@
 ---
-title: get_Radius
+title: get_Radius()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns blur radius. Read-only double.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/iblureffectivedata/get_radius/
 ---
-## IBlurEffectiveData::get_Radius method
+## IBlurEffectiveData::get_Radius() method
 
 
 Returns blur radius. Read-only **double**.

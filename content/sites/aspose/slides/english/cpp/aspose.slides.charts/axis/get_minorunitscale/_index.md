@@ -1,12 +1,12 @@
 ---
-title: get_MinorUnitScale
+title: get_MinorUnitScale()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the major unit scale for the date axis. Read TimeUnitType.
 type: docs
 weight: 612
 url: /cpp/aspose.slides.charts/axis/get_minorunitscale/
 ---
-## Axis::get_MinorUnitScale method
+## Axis::get_MinorUnitScale() method
 
 
 Represents the major unit scale for the date axis. Read [TimeUnitType](../../timeunittype/).

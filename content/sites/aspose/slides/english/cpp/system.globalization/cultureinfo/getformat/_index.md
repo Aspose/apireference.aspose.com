@@ -1,12 +1,12 @@
 ---
-title: GetFormat
+title: GetFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets format object for specific type.
 type: docs
 weight: 404
 url: /cpp/system.globalization/cultureinfo/getformat/
 ---
-## CultureInfo::GetFormat method
+## CultureInfo::GetFormat(const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Gets format object for specific type.

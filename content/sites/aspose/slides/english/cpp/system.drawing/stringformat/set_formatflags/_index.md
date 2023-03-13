@@ -1,12 +1,12 @@
 ---
-title: set_FormatFlags
+title: set_FormatFlags()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the string format flags.
 type: docs
 weight: 27
 url: /cpp/system.drawing/stringformat/set_formatflags/
 ---
-## StringFormat::set_FormatFlags method
+## StringFormat::set_FormatFlags([StringFormatFlags](../../stringformatflags/)) method
 
 
 Sets the string format flags.

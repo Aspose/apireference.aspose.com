@@ -1,12 +1,12 @@
 ---
-title: get_LatinLineBreak
+title: get_LatinLineBreak()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the Latin line break is used in a paragraph. Read-only bool.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/iparagraphformateffectivedata/get_latinlinebreak/
 ---
-## IParagraphFormatEffectiveData::get_LatinLineBreak method
+## IParagraphFormatEffectiveData::get_LatinLineBreak() method
 
 
 Determines whether the Latin line break is used in a paragraph. Read-only **bool**.

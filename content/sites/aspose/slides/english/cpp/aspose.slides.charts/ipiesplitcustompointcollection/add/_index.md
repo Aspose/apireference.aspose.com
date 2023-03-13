@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds data point by its index in parent series points collection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ipiesplitcustompointcollection/add/
 ---
-## IPieSplitCustomPointCollection::Add method
+## IPieSplitCustomPointCollection::Add(const **int32_t**\&) method
 
 
 Adds data point by its index in parent series points collection.

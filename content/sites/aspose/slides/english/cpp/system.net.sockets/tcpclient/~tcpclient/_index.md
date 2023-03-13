@@ -1,12 +1,12 @@
 ---
-title: ~TcpClient
+title: ~TcpClient()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructs the current instance.
 type: docs
 weight: 313
 url: /cpp/system.net.sockets/tcpclient/~tcpclient/
 ---
-## TcpClient::~TcpClient method
+## TcpClient::~TcpClient() method
 
 
 Destructs the current instance.

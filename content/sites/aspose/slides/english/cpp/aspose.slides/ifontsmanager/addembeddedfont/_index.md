@@ -1,5 +1,5 @@
 ---
-title: AddEmbeddedFont
+title: AddEmbeddedFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the embedded font.
 type: docs
@@ -39,7 +39,7 @@ Keep in mind when copying any fonts that most fonts are copyrighted. First locat
 ## IFontsManager::AddEmbeddedFont([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, [Export::EmbedFontCharacters](../../../aspose.slides.export/embedfontcharacters/)) method
 
 
-Adds the embedded font.
+Adds the embedded font
 
 ```cpp
 virtual void Aspose::Slides::IFontsManager::AddEmbeddedFont(System::ArrayPtr<uint8_t> fontData, Export::EmbedFontCharacters embedFontRule)=0

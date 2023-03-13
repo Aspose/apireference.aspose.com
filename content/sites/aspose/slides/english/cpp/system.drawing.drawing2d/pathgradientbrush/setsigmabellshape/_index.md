@@ -1,12 +1,12 @@
 ---
-title: SetSigmaBellShape
+title: SetSigmaBellShape()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 248
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/setsigmabellshape/
 ---
-## PathGradientBrush::SetSigmaBellShape method
+## PathGradientBrush::SetSigmaBellShape(**float**, **float**) method
 
 
 NOT IMPLEMENTED.

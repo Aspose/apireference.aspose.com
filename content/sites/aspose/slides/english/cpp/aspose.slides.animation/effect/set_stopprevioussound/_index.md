@@ -1,12 +1,12 @@
 ---
-title: set_StopPreviousSound
+title: set_StopPreviousSound()
 second_title: Aspose.Slides for C++ API Reference
 description: This attribute specifies if the animation effect stops the previous sound. Write bool.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.animation/effect/set_stopprevioussound/
 ---
-## Effect::set_StopPreviousSound method
+## Effect::set_StopPreviousSound(**bool**) method
 
 
 This attribute specifies if the animation effect stops the previous sound. Write **bool**.

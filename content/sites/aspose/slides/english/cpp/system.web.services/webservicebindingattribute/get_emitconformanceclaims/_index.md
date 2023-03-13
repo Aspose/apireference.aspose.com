@@ -1,12 +1,12 @@
 ---
-title: get_EmitConformanceClaims
+title: get_EmitConformanceClaims()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the binding emits conformance claims.
 type: docs
 weight: 79
 url: /cpp/system.web.services/webservicebindingattribute/get_emitconformanceclaims/
 ---
-## WebServiceBindingAttribute::get_EmitConformanceClaims method
+## WebServiceBindingAttribute::get_EmitConformanceClaims() method
 
 
 Gets a value that indicates if the binding emits conformance claims.

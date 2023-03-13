@@ -1,12 +1,12 @@
 ---
-title: FreeHGlobal
+title: FreeHGlobal()
 second_title: Aspose.Slides for C++ API Reference
 description: Frees unmanaged memory.
 type: docs
 weight: 157
 url: /cpp/system.runtime.interopservices/marshal/freehglobal/
 ---
-## Marshal::FreeHGlobal method
+## Marshal::FreeHGlobal(IntPtr) method
 
 
 Frees unmanaged memory.

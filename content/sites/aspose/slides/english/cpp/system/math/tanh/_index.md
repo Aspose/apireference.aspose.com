@@ -1,12 +1,12 @@
 ---
-title: Tanh
+title: Tanh()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the hyperbolic tangen of the specified value.
 type: docs
 weight: 144
 url: /cpp/system/math/tanh/
 ---
-## Math::Tanh method
+## Math::Tanh(**double**) method
 
 
 Calculates the hyperbolic tangen of the specified value.

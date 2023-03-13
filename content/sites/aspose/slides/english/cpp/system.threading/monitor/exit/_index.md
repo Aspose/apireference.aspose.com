@@ -1,12 +1,12 @@
 ---
-title: Exit
+title: Exit()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases an exclusive lock on the specified object.
 type: docs
 weight: 14
 url: /cpp/system.threading/monitor/exit/
 ---
-## Monitor::Exit method
+## Monitor::Exit(const [SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 Releases an exclusive lock on the specified object.

@@ -1,15 +1,15 @@
 ---
-title: get_ImageDataBlacklevel
+title: get_ImageDataBlacklevel()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'imageData.blacklevel' property.
+description: Represents 'imageData.blacklevel' property
 type: docs
 weight: 482
 url: /cpp/aspose.slides.animation/behaviorproperty/get_imagedatablacklevel/
 ---
-## BehaviorProperty::get_ImageDataBlacklevel method
+## BehaviorProperty::get_ImageDataBlacklevel() method
 
 
-Represents 'imageData.blacklevel' property.
+Represents 'imageData.blacklevel' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ImageDataBlacklevel()

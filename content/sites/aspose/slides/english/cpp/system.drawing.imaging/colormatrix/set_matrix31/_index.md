@@ -1,12 +1,12 @@
 ---
-title: set_Matrix31
+title: set_Matrix31()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value in the 3-rd row and 1-st column.
 type: docs
 weight: 469
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix31/
 ---
-## ColorMatrix::set_Matrix31 method
+## ColorMatrix::set_Matrix31(**float**) method
 
 
 Sets a value in the 3-rd row and 1-st column.

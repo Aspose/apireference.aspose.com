@@ -1,12 +1,12 @@
 ---
-title: get_Headers
+title: get_Headers()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of the SOAP headers.
 type: docs
 weight: 92
 url: /cpp/system.web.services.protocols/soapmessage/get_headers/
 ---
-## SoapMessage::get_Headers method
+## SoapMessage::get_Headers() method
 
 
 Returns the collection of the SOAP headers.

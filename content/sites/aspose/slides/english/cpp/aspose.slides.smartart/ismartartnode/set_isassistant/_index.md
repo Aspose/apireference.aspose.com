@@ -1,12 +1,12 @@
 ---
-title: set_IsAssistant
+title: set_IsAssistant()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the node as assistant. Write bool.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.smartart/ismartartnode/set_isassistant/
 ---
-## ISmartArtNode::set_IsAssistant method
+## ISmartArtNode::set_IsAssistant(**bool**) method
 
 
 Sets the node as assistant. Write **bool**.

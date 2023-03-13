@@ -1,15 +1,15 @@
 ---
-title: get_Superscript
+title: get_Superscript()
 second_title: Aspose.Slides for C++ API Reference
-description: Specifies a supersript argument that, for example, in the case of an integral, sets the upper limit.
+description: Specifies a supersript argument that, for example, in the case of an integral, sets the upper limit
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/mathnaryoperator/get_superscript/
 ---
-## MathNaryOperator::get_Superscript method
+## MathNaryOperator::get_Superscript() method
 
 
-Specifies a supersript argument that, for example, in the case of an integral, sets the upper limit.
+Specifies a supersript argument that, for example, in the case of an integral, sets the upper limit
 
 ```cpp
 System::SharedPtr<IMathElement> Aspose::Slides::MathText::MathNaryOperator::get_Superscript() override

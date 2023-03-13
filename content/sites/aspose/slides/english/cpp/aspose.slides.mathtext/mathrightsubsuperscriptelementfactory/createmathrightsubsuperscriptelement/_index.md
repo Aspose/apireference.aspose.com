@@ -1,15 +1,15 @@
 ---
-title: CreateMathRightSubSuperscriptElement
+title: CreateMathRightSubSuperscriptElement()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates an instance of IMathRightSubSuperscriptElementFactory.
+description: Creates an instance of IMathRightSubSuperscriptElementFactory
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathrightsubsuperscriptelementfactory/createmathrightsubsuperscriptelement/
 ---
-## MathRightSubSuperscriptElementFactory::CreateMathRightSubSuperscriptElement method
+## MathRightSubSuperscriptElementFactory::CreateMathRightSubSuperscriptElement([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates an instance of [IMathRightSubSuperscriptElementFactory](../../imathrightsubsuperscriptelementfactory/).
+Creates an instance of [IMathRightSubSuperscriptElementFactory](../../imathrightsubsuperscriptelementfactory/)
 
 ```cpp
 System::SharedPtr<IMathRightSubSuperscriptElement> Aspose::Slides::MathText::MathRightSubSuperscriptElementFactory::CreateMathRightSubSuperscriptElement(System::SharedPtr<IMathElement> baseArg, System::SharedPtr<IMathElement> subScript, System::SharedPtr<IMathElement> superScript) override

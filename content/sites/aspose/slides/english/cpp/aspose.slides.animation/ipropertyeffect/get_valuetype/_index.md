@@ -1,12 +1,12 @@
 ---
-title: get_ValueType
+title: get_ValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the type of a property value. Read PropertyValueType.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/ipropertyeffect/get_valuetype/
 ---
-## IPropertyEffect::get_ValueType method
+## IPropertyEffect::get_ValueType() method
 
 
 Specifies the type of a property value. Read [PropertyValueType](../../propertyvaluetype/).

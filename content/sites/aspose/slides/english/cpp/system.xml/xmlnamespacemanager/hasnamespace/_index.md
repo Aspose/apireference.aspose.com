@@ -1,12 +1,12 @@
 ---
-title: HasNamespace
+title: HasNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the supplied prefix has a namespace defined for the current pushed scope.
 type: docs
 weight: 144
 url: /cpp/system.xml/xmlnamespacemanager/hasnamespace/
 ---
-## XmlNamespaceManager::HasNamespace method
+## XmlNamespaceManager::HasNamespace([String](../../../system/string/)) method
 
 
 Returns a value indicating whether the supplied prefix has a namespace defined for the current pushed scope.

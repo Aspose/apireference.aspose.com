@@ -1,12 +1,12 @@
 ---
-title: get_Results
+title: get_Results()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of asynchronous operation results.
 type: docs
 weight: 1
 url: /cpp/system.web.services.protocols/invokecompletedeventargs/get_results/
 ---
-## InvokeCompletedEventArgs::get_Results method
+## InvokeCompletedEventArgs::get_Results() method
 
 
 Returns a collection of asynchronous operation results.

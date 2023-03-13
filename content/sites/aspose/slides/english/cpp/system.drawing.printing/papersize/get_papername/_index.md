@@ -1,12 +1,12 @@
 ---
-title: get_PaperName
+title: get_PaperName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the name of the type of paper.
 type: docs
 weight: 53
 url: /cpp/system.drawing.printing/papersize/get_papername/
 ---
-## PaperSize::get_PaperName method
+## PaperSize::get_PaperName() const method
 
 
 Gets the name of the type of paper.

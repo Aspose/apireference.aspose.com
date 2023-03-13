@@ -1,12 +1,12 @@
 ---
-title: BrowsedAtKiosk
+title: BrowsedAtKiosk()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the BrowsedAtKiosk class.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/browsedatkiosk/browsedatkiosk/
 ---
-## BrowsedAtKiosk::BrowsedAtKiosk constructor
+## BrowsedAtKiosk::BrowsedAtKiosk() constructor
 
 
 Initializes a new instance of the [BrowsedAtKiosk](../) class.

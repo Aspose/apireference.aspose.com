@@ -1,12 +1,12 @@
 ---
-title: get_Captures
+title: get_Captures()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets available captures.
 type: docs
 weight: 1
 url: /cpp/system.text.regularexpressions/group/get_captures/
 ---
-## Group::get_Captures method
+## Group::get_Captures() method
 
 
 Gets available captures.

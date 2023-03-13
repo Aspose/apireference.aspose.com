@@ -1,12 +1,12 @@
 ---
-title: AcceptSocket
+title: AcceptSocket()
 second_title: Aspose.Slides for C++ API Reference
 description: Accepts the pending connection request and returns the socket that is used to send and receive data.
 type: docs
 weight: 118
 url: /cpp/system.net.sockets/tcplistener/acceptsocket/
 ---
-## TcpListener::AcceptSocket method
+## TcpListener::AcceptSocket() method
 
 
 Accepts the pending connection request and returns the socket that is used to send and receive data.

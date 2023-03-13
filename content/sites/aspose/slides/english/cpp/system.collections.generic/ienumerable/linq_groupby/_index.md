@@ -1,5 +1,5 @@
 ---
-title: LINQ_GroupBy
+title: LINQ_GroupBy()
 second_title: Aspose.Slides for C++ API Reference
 description: Groups the elements of a sequence.
 type: docs

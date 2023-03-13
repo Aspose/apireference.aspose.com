@@ -1,12 +1,12 @@
 ---
-title: get_Previous
+title: get_Previous()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets previous node.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/linkedlistnode/get_previous/
 ---
-## LinkedListNode::get_Previous method
+## LinkedListNode::get_Previous() const method
 
 
 Gets previous node.

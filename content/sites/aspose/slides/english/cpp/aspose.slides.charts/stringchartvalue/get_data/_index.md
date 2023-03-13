@@ -1,12 +1,12 @@
 ---
-title: get_Data
+title: get_Data()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns Data object. Read System::Object."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/stringchartvalue/get_data/
 ---
-## StringChartValue::get_Data method
+## StringChartValue::get_Data() method
 
 
 Returns Data object. Read [System::Object](../../../system/object/).

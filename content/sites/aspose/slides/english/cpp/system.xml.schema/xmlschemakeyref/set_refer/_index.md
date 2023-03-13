@@ -1,12 +1,12 @@
 ---
-title: set_Refer
+title: set_Refer()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the key that this constraint refers to in another simple or complex type.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemakeyref/set_refer/
 ---
-## XmlSchemaKeyref::set_Refer method
+## XmlSchemaKeyref::set_Refer(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
 
 
 Sets the name of the key that this constraint refers to in another simple or complex type.

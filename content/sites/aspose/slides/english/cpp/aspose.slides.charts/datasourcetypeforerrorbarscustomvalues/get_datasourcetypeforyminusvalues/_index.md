@@ -1,12 +1,12 @@
 ---
-title: get_DataSourceTypeForYMinusValues
+title: get_DataSourceTypeForYMinusValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual in data points YMinus property object for error bars custom values. In other words it specifies the type of value of ChartDataPointEx.ErrorBarsCustomValues.YMinus.Data property. Read DataSourceType.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/datasourcetypeforerrorbarscustomvalues/get_datasourcetypeforyminusvalues/
 ---
-## DataSourceTypeForErrorBarsCustomValues::get_DataSourceTypeForYMinusValues method
+## DataSourceTypeForErrorBarsCustomValues::get_DataSourceTypeForYMinusValues() method
 
 
 Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual in data points YMinus property object for error bars custom values. In other words it specifies the type of value of ChartDataPointEx.ErrorBarsCustomValues.YMinus.Data property. Read [DataSourceType](../../datasourcetype/).

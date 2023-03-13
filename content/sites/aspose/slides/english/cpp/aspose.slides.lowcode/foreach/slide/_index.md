@@ -1,12 +1,12 @@
 ---
-title: Slide
+title: Slide()
 second_title: Aspose.Slides for C++ API Reference
 description: "Iterate each ForEach::Slide in the Presentation."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.lowcode/foreach/slide/
 ---
-## ForEach::Slide method
+## ForEach::Slide([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>, [ForEach::ForEachSlideCallback](../foreachslidecallback/)) method
 
 
 Iterate each [ForEach::Slide](./) in the [Presentation](../../../aspose.slides/presentation/).

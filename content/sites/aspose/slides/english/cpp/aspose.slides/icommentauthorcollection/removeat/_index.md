@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the author at the specified index of the collection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/icommentauthorcollection/removeat/
 ---
-## ICommentAuthorCollection::RemoveAt method
+## ICommentAuthorCollection::RemoveAt(**int32_t**) method
 
 
 Removes the author at the specified index of the collection.

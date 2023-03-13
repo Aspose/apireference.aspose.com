@@ -1,12 +1,12 @@
 ---
-title: GetTypeCode
+title: GetTypeCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type code for this instance.
 type: docs
 weight: 1
 url: /cpp/system/iconvertible/gettypecode/
 ---
-## IConvertible::GetTypeCode method
+## IConvertible::GetTypeCode() method
 
 
 Returns the type code for this instance.

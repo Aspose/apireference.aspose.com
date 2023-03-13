@@ -1,12 +1,12 @@
 ---
-title: ReadAllText
+title: ReadAllText()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the content of the specified text file to a single String object using the specified character encoding.
 type: docs
 weight: 313
 url: /cpp/system.io/file/readalltext/
 ---
-## File::ReadAllText method
+## File::ReadAllText(const [String](../../../system/string/)\&, const [EncodingPtr](../../../system/encodingptr/)\&) method
 
 
 Reads the content of the specified text file to a single [String](../../../system/string/) object using the specified character encoding.

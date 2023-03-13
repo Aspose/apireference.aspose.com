@@ -1,15 +1,15 @@
 ---
-title: set_RowSpacingRule
+title: set_RowSpacingRule()
 second_title: Aspose.Slides for C++ API Reference
-description: "The type of vertical spacing between array elements Default: SingleLineGap."
+description: "The type of vertical spacing between array elements Default: SingleLineGap"
 type: docs
 weight: 105
 url: /cpp/aspose.slides.mathtext/matharray/set_rowspacingrule/
 ---
-## MathArray::set_RowSpacingRule method
+## MathArray::set_RowSpacingRule([MathRowSpacingRule](../../mathrowspacingrule/)) method
 
 
-The type of vertical spacing between array elements Default: SingleLineGap.
+The type of vertical spacing between array elements Default: SingleLineGap
 
 ```cpp
 void Aspose::Slides::MathText::MathArray::set_RowSpacingRule(MathRowSpacingRule value) override

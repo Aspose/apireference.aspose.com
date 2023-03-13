@@ -1,12 +1,12 @@
 ---
-title: get_QualifiedName
+title: get_QualifiedName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the qualified name for the type built from the Name attribute of this type. This is a post-schema-compilation value.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschematype/get_qualifiedname/
 ---
-## XmlSchemaType::get_QualifiedName method
+## XmlSchemaType::get_QualifiedName() method
 
 
 Returns the qualified name for the type built from the **Name** attribute of this type. This is a post-schema-compilation value.

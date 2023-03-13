@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Provides support for iteration over the collection of schemas.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemacollection/getenumerator/
 ---
-## XmlSchemaCollection::GetEnumerator method
+## XmlSchemaCollection::GetEnumerator() method
 
 
 Provides support for iteration over the collection of schemas.

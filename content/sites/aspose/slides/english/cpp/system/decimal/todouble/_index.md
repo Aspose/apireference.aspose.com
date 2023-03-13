@@ -1,12 +1,12 @@
 ---
-title: ToDouble
+title: ToDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the Decimal value to double precision floating-point number.
 type: docs
 weight: 755
 url: /cpp/system/decimal/todouble/
 ---
-## Decimal::ToDouble method
+## Decimal::ToDouble([Decimal](../)) method
 
 
 Converts the [Decimal](../) value to double precision floating-point number.

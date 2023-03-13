@@ -1,12 +1,12 @@
 ---
-title: get_LawnGreen
+title: get_LawnGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF7CFC00.
 type: docs
 weight: 794
 url: /cpp/system.drawing/brushes/get_lawngreen/
 ---
-## Brushes::get_LawnGreen method
+## Brushes::get_LawnGreen() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF7CFC00.

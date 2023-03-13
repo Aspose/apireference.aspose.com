@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Stops all performance counting operations.
 type: docs
 weight: 27
 url: /cpp/system.diagnostics/performancecounter/close/
 ---
-## PerformanceCounter::Close method
+## PerformanceCounter::Close() method
 
 
 Stops all performance counting operations.

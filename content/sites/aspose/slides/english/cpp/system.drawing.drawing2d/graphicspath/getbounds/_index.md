@@ -1,12 +1,12 @@
 ---
-title: GetBounds
+title: GetBounds()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a RectangleF object that represents a rectangle that bounds the path represented by the current object when it is transformed with the specified matrix.
 type: docs
 weight: 339
 url: /cpp/system.drawing.drawing2d/graphicspath/getbounds/
 ---
-## GraphicsPath::GetBounds method
+## GraphicsPath::GetBounds(const [MatrixPtr](../../matrixptr/)\&, const [SharedPtr](../../../system/sharedptr/)\<[Pen](../../../system.drawing/pen/)\>\&) const method
 
 
 Returns a [RectangleF](../../../system.drawing/rectanglef/) object that represents a rectangle that bounds the path represented by the current object when it is transformed with the specified matrix.

@@ -1,12 +1,12 @@
 ---
-title: get_Blend
+title: get_Blend()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a blend that specifies factors and positions of base colors for this brush.
 type: docs
 weight: 105
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/get_blend/
 ---
-## LinearGradientBrush::get_Blend method
+## LinearGradientBrush::get_Blend() const method
 
 
 Returns a blend that specifies factors and positions of base colors for this brush.

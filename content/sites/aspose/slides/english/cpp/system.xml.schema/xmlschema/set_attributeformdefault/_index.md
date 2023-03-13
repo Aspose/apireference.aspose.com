@@ -1,12 +1,12 @@
 ---
-title: set_AttributeFormDefault
+title: set_AttributeFormDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the form for attributes declared in the target namespace of the schema.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschema/set_attributeformdefault/
 ---
-## XmlSchema::set_AttributeFormDefault method
+## XmlSchema::set_AttributeFormDefault([XmlSchemaForm](../../xmlschemaform/)) method
 
 
 Sets the form for attributes declared in the target namespace of the schema.

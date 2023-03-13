@@ -1,12 +1,12 @@
 ---
-title: ClearThreshold
+title: ClearThreshold()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 118
 url: /cpp/system.drawing.imaging/imageattributes/clearthreshold/
 ---
-## ImageAttributes::ClearThreshold method
+## ImageAttributes::ClearThreshold([ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

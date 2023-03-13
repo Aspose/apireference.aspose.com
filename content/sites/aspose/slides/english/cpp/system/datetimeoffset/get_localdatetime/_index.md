@@ -1,12 +1,12 @@
 ---
-title: get_LocalDateTime
+title: get_LocalDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets DateTime value that represents the local date and time.
 type: docs
 weight: 40
 url: /cpp/system/datetimeoffset/get_localdatetime/
 ---
-## DateTimeOffset::get_LocalDateTime method
+## DateTimeOffset::get_LocalDateTime() const method
 
 
 Gets [DateTime](../../datetime/) value that represents the local date and time.

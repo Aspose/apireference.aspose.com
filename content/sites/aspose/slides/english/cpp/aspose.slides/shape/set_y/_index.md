@@ -1,12 +1,12 @@
 ---
-title: set_Y
+title: set_Y()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the y-coordinate of the upper-left corner of the shape. Write float.
 type: docs
 weight: 326
 url: /cpp/aspose.slides/shape/set_y/
 ---
-## Shape::set_Y method
+## Shape::set_Y(**float**) method
 
 
 Sets the y-coordinate of the upper-left corner of the shape. Write **float**.

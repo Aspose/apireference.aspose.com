@@ -1,5 +1,5 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the values represented by the current object and the specified object are equal.
 type: docs

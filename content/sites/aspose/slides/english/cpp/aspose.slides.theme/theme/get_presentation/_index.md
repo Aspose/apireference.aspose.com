@@ -1,12 +1,12 @@
 ---
-title: get_Presentation
+title: get_Presentation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the parent presentation. Read-only IPresentation.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.theme/theme/get_presentation/
 ---
-## Theme::get_Presentation method
+## Theme::get_Presentation() method
 
 
 Returns the parent presentation. Read-only [IPresentation](../../../aspose.slides/ipresentation/).

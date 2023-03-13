@@ -1,12 +1,12 @@
 ---
-title: get_Content
+title: get_Content()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the content of the type.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemacontentmodel/get_content/
 ---
-## XmlSchemaContentModel::get_Content method
+## XmlSchemaContentModel::get_Content() method
 
 
 Returns the content of the type.

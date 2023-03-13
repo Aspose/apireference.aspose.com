@@ -1,12 +1,12 @@
 ---
-title: set_Luminance
+title: set_Luminance()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the luminance component of a color in HSL representation. All color transformations are ignored. Write float.
 type: docs
 weight: 352
 url: /cpp/aspose.slides/colorformat/set_luminance/
 ---
-## ColorFormat::set_Luminance method
+## ColorFormat::set_Luminance(**float**) method
 
 
 Sets the luminance component of a color in HSL representation. All color transformations are ignored. Write **float**.

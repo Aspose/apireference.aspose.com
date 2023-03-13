@@ -1,12 +1,12 @@
 ---
-title: get_Keywords
+title: get_Keywords()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the keywords of a presentation. Read System::String."
 type: docs
 weight: 274
 url: /cpp/aspose.slides/documentproperties/get_keywords/
 ---
-## DocumentProperties::get_Keywords method
+## DocumentProperties::get_Keywords() method
 
 
 Returns the keywords of a presentation. Read [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: get_ContinueTimeout
+title: get_ContinueTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a timeout to wait until the 100-Continue status code is received.
 type: docs
 weight: 131
 url: /cpp/system.net/httpwebrequest/get_continuetimeout/
 ---
-## HttpWebRequest::get_ContinueTimeout method
+## HttpWebRequest::get_ContinueTimeout() method
 
 
 Gets a timeout to wait until the 100-Continue status code is received.

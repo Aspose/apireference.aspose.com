@@ -1,12 +1,12 @@
 ---
-title: get_Size
+title: get_Size()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the size in points.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/slidesize/get_size/
 ---
-## SlideSize::get_Size method
+## SlideSize::get_Size() method
 
 
 Returns the size in points.

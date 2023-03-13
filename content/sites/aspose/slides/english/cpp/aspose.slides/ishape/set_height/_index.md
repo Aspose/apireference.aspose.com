@@ -1,12 +1,12 @@
 ---
-title: set_Height
+title: set_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the height of the shape. Write float.
 type: docs
 weight: 313
 url: /cpp/aspose.slides/ishape/set_height/
 ---
-## IShape::set_Height method
+## IShape::set_Height(**float**) method
 
 
 Sets the height of the shape. Write **float**.

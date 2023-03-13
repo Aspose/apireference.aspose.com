@@ -1,12 +1,12 @@
 ---
-title: Reroute
+title: Reroute()
 second_title: Aspose.Slides for C++ API Reference
 description: Reroutes connector so that it take the shortest possible path between the shapes it connect.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/iconnector/reroute/
 ---
-## IConnector::Reroute method
+## IConnector::Reroute() method
 
 
 Reroutes connector so that it take the shortest possible path between the shapes it connect.

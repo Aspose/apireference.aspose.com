@@ -1,12 +1,12 @@
 ---
-title: SetSlideNumberVisibility
+title: SetSlideNumberVisibility()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes slide page number placeholder visibility.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/baseslideheaderfootermanager/setslidenumbervisibility/
 ---
-## BaseSlideHeaderFooterManager::SetSlideNumberVisibility method
+## BaseSlideHeaderFooterManager::SetSlideNumberVisibility(**bool**) method
 
 
 Changes slide page number placeholder visibility.

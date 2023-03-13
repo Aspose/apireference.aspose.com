@@ -1,12 +1,12 @@
 ---
-title: WriteAllFonts
+title: WriteAllFonts()
 second_title: Aspose.Slides for C++ API Reference
 description: Write all fonts contained in Presentation.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.export/embedallfontshtmlcontroller/writeallfonts/
 ---
-## EmbedAllFontsHtmlController::WriteAllFonts method
+## EmbedAllFontsHtmlController::WriteAllFonts([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlGenerator](../../ihtmlgenerator/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IPresentation](../../../aspose.slides/ipresentation/)\>) method
 
 
 Write all fonts contained in [Presentation](../../../aspose.slides/presentation/).

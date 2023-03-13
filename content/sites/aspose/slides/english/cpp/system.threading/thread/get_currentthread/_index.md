@@ -1,12 +1,12 @@
 ---
-title: get_CurrentThread
+title: get_CurrentThread()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets object which describes current thread.
 type: docs
 weight: 261
 url: /cpp/system.threading/thread/get_currentthread/
 ---
-## Thread::get_CurrentThread method
+## Thread::get_CurrentThread() method
 
 
 Gets object which describes current thread.

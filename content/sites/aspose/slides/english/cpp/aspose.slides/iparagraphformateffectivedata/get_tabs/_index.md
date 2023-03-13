@@ -1,12 +1,12 @@
 ---
-title: get_Tabs
+title: get_Tabs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns tabulations of a paragraph. Read-only ITabEffectiveData[].
 type: docs
 weight: 183
 url: /cpp/aspose.slides/iparagraphformateffectivedata/get_tabs/
 ---
-## IParagraphFormatEffectiveData::get_Tabs method
+## IParagraphFormatEffectiveData::get_Tabs() method
 
 
 Returns tabulations of a paragraph. Read-only [ITabEffectiveData](../../itabeffectivedata/)[].

@@ -1,12 +1,12 @@
 ---
-title: ScaleTransform
+title: ScaleTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Scales the local geometric transformation by the specified factors in the specified order.
 type: docs
 weight: 105
 url: /cpp/system.drawing/texturebrush/scaletransform/
 ---
-## TextureBrush::ScaleTransform method
+## TextureBrush::ScaleTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
 
 
 Scales the local geometric transformation by the specified factors in the specified order.

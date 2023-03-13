@@ -1,15 +1,15 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
-description: Text formatting properties.
+description: Text formatting properties
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/mathematicaltext/get_format/
 ---
-## MathematicalText::get_Format method
+## MathematicalText::get_Format() method
 
 
-Text formatting properties.
+Text formatting properties
 
 ```cpp
 System::SharedPtr<IPortionFormat> Aspose::Slides::MathText::MathematicalText::get_Format() override

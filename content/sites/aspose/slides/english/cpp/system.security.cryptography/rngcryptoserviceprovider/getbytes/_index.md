@@ -1,5 +1,5 @@
 ---
-title: GetBytes
+title: GetBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Fills existing array elements with random bytes.
 type: docs

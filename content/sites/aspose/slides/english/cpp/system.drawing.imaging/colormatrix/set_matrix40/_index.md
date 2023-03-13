@@ -1,12 +1,12 @@
 ---
-title: set_Matrix40
+title: set_Matrix40()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value in the 4-th row and 0-th column.
 type: docs
 weight: 573
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix40/
 ---
-## ColorMatrix::set_Matrix40 method
+## ColorMatrix::set_Matrix40(**float**) method
 
 
 Sets a value in the 4-th row and 0-th column.

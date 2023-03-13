@@ -1,12 +1,12 @@
 ---
-title: get_CanReadBinaryContent
+title: get_CanReadBinaryContent()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the XmlNodeReader implements the binary content read methods.
 type: docs
 weight: 261
 url: /cpp/system.xml/xmlnodereader/get_canreadbinarycontent/
 ---
-## XmlNodeReader::get_CanReadBinaryContent method
+## XmlNodeReader::get_CanReadBinaryContent() method
 
 
 Returns a value indicating whether the [XmlNodeReader](../) implements the binary content read methods.

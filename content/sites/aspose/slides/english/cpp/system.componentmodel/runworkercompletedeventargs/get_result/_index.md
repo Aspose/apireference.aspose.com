@@ -1,12 +1,12 @@
 ---
-title: get_Result
+title: get_Result()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that represents the result of an asynchronous operation.
 type: docs
 weight: 14
 url: /cpp/system.componentmodel/runworkercompletedeventargs/get_result/
 ---
-## RunWorkerCompletedEventArgs::get_Result method
+## RunWorkerCompletedEventArgs::get_Result() const method
 
 
 Gets a value that represents the result of an asynchronous operation.

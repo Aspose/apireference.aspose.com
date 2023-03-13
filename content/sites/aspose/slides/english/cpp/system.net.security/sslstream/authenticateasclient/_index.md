@@ -1,5 +1,5 @@
 ---
-title: AuthenticateAsClient
+title: AuthenticateAsClient()
 second_title: Aspose.Slides for C++ API Reference
 description: Authenticates the client-side of the connection.
 type: docs

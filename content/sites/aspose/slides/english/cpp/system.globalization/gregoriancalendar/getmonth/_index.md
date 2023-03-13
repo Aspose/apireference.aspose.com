@@ -1,12 +1,12 @@
 ---
-title: GetMonth
+title: GetMonth()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets month for the specified time point.
 type: docs
 weight: 183
 url: /cpp/system.globalization/gregoriancalendar/getmonth/
 ---
-## GregorianCalendar::GetMonth method
+## GregorianCalendar::GetMonth([DateTime](../../../system/datetime/)) const method
 
 
 Gets month for the specified time point.

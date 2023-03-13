@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes an ActiveX control from the collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/controlcollection/remove/
 ---
-## ControlCollection::Remove method
+## ControlCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IControl](../../icontrol/)\>) method
 
 
 Removes an ActiveX control from the collection.

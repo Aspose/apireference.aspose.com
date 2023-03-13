@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the signature at the end of collection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/idigitalsignaturecollection/add/
 ---
-## IDigitalSignatureCollection::Add method
+## IDigitalSignatureCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IDigitalSignature](../../idigitalsignature/)\>) method
 
 
 Adds the signature at the end of collection.

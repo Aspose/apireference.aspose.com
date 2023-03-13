@@ -1,12 +1,12 @@
 ---
-title: set_IsMixed
+title: set_IsMixed()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets information that determines if the type has a mixed content model.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemacomplexcontent/set_ismixed/
 ---
-## XmlSchemaComplexContent::set_IsMixed method
+## XmlSchemaComplexContent::set_IsMixed(**bool**) method
 
 
 Sets information that determines if the type has a mixed content model.

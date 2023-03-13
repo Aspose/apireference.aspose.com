@@ -1,5 +1,5 @@
 ---
-title: LoadIntoBuffer
+title: LoadIntoBuffer()
 second_title: Aspose.Slides for C++ API Reference
 description: Serializes content to a memory buffer.
 type: docs

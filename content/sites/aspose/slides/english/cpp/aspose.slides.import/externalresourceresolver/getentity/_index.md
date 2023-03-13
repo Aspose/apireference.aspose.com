@@ -1,12 +1,12 @@
 ---
-title: GetEntity
+title: GetEntity()
 second_title: Aspose.Slides for C++ API Reference
 description: Maps a URI to an object containing the actual resource.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.import/externalresourceresolver/getentity/
 ---
-## ExternalResourceResolver::GetEntity method
+## ExternalResourceResolver::GetEntity([System::String](../../../system/string/)) method
 
 
 Maps a URI to an object containing the actual resource.

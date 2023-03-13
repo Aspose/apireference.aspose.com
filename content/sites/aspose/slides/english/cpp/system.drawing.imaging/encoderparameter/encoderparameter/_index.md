@@ -1,5 +1,5 @@
 ---
-title: EncoderParameter
+title: EncoderParameter()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of EncoderParameter class.
 type: docs

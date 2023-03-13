@@ -1,15 +1,15 @@
 ---
-title: AddNodeByPosition
+title: AddNodeByPosition()
 second_title: Aspose.Slides for C++ API Reference
-description: Add new node in the selected position of nodes collection.
+description: Add new node in the selected position of nodes collection
 type: docs
 weight: 79
 url: /cpp/aspose.slides.smartart/smartartnodecollection/addnodebyposition/
 ---
-## SmartArtNodeCollection::AddNodeByPosition method
+## SmartArtNodeCollection::AddNodeByPosition(**int32_t**) method
 
 
-Add new node in the selected position of nodes collection.
+Add new node in the selected position of nodes collection
 
 ```cpp
 System::SharedPtr<ISmartArtNode> Aspose::Slides::SmartArt::SmartArtNodeCollection::AddNodeByPosition(int32_t position) override

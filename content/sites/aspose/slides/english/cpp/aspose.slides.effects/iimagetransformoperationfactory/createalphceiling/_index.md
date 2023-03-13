@@ -1,12 +1,12 @@
 ---
-title: CreateAlphCeiling
+title: CreateAlphCeiling()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Alpha Ceiling effect.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/createalphceiling/
 ---
-## IImageTransformOperationFactory::CreateAlphCeiling method
+## IImageTransformOperationFactory::CreateAlphCeiling() method
 
 
 Creates Alpha Ceiling effect.

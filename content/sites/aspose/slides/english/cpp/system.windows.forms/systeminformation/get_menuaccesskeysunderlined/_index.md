@@ -1,12 +1,12 @@
 ---
-title: get_MenuAccessKeysUnderlined
+title: get_MenuAccessKeysUnderlined()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 651
 url: /cpp/system.windows.forms/systeminformation/get_menuaccesskeysunderlined/
 ---
-## SystemInformation::get_MenuAccessKeysUnderlined method
+## SystemInformation::get_MenuAccessKeysUnderlined() method
 
 
 NOT IMPLEMENTED.

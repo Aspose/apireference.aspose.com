@@ -1,12 +1,12 @@
 ---
-title: get_ParagraphFormat
+title: get_ParagraphFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: ParagraphFormat. Read-only IChartParagraphFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/charttextformat/get_paragraphformat/
 ---
-## ChartTextFormat::get_ParagraphFormat method
+## ChartTextFormat::get_ParagraphFormat() method
 
 
 [ParagraphFormat](../../../aspose.slides/paragraphformat/). Read-only [IChartParagraphFormat](../../ichartparagraphformat/).

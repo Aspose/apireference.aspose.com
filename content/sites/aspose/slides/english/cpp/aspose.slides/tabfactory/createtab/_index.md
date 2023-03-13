@@ -1,12 +1,12 @@
 ---
-title: CreateTab
+title: CreateTab()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new ITab instance.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/tabfactory/createtab/
 ---
-## TabFactory::CreateTab method
+## TabFactory::CreateTab(**double**, [TabAlignment](../../tabalignment/)) method
 
 
 Creates a new [ITab](../../itab/) instance.

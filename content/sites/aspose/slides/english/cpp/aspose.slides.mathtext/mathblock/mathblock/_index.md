@@ -1,5 +1,5 @@
 ---
-title: MathBlock
+title: MathBlock()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathBlock class.
 type: docs
@@ -31,7 +31,7 @@ auto mathBlock = System::MakeObject<MathBlock>();
 ## MathBlock::MathBlock([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
-Creates a new mathematical block and puts specified element in it.
+Creates a new mathematical block and puts specified element in it
 
 ```cpp
 Aspose::Slides::MathText::MathBlock::MathBlock(System::SharedPtr<IMathElement> mathElement)
@@ -62,7 +62,7 @@ auto mathBlock = System::MakeObject<MathBlock>(System::MakeObject<MathematicalTe
 ## MathBlock::MathBlock([System::SharedPtr](../../../system/sharedptr/)\<[System::Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>\>\>) constructor
 
 
-Creates a new mathematical block and puts specified elements in it.
+Creates a new mathematical block and puts specified elements in it
 
 ```cpp
 Aspose::Slides::MathText::MathBlock::MathBlock(System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<IMathElement>>> mathElements)

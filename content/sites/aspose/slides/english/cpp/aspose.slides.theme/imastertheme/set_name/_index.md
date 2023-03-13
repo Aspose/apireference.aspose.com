@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the name of a theme. Write System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.theme/imastertheme/set_name/
 ---
-## IMasterTheme::set_Name method
+## IMasterTheme::set_Name([System::String](../../../system/string/)) method
 
 
 Returns the name of a theme. Write [System::String](../../../system/string/).

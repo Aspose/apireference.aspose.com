@@ -1,12 +1,12 @@
 ---
-title: GetVersionInfo
+title: GetVersionInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets file version info; not implemented.
 type: docs
 weight: 1
 url: /cpp/system.diagnostics/fileversioninfo/getversioninfo/
 ---
-## FileVersionInfo::GetVersionInfo method
+## FileVersionInfo::GetVersionInfo(const [String](../../../system/string/)\&) method
 
 
 Gets file version info; not implemented.

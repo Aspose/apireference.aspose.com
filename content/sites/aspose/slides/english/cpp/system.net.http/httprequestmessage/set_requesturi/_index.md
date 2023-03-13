@@ -1,12 +1,12 @@
 ---
-title: set_RequestUri
+title: set_RequestUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the URI of the requested resource.
 type: docs
 weight: 92
 url: /cpp/system.net.http/httprequestmessage/set_requesturi/
 ---
-## HttpRequestMessage::set_RequestUri method
+## HttpRequestMessage::set_RequestUri([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Sets the URI of the requested resource.

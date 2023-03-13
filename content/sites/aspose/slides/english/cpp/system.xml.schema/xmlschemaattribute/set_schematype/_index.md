@@ -1,12 +1,12 @@
 ---
-title: set_SchemaType
+title: set_SchemaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the attribute type to a simple type.
 type: docs
 weight: 170
 url: /cpp/system.xml.schema/xmlschemaattribute/set_schematype/
 ---
-## XmlSchemaAttribute::set_SchemaType method
+## XmlSchemaAttribute::set_SchemaType(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaSimpleType](../../xmlschemasimpletype/)\>\&) method
 
 
 Sets the attribute type to a simple type.

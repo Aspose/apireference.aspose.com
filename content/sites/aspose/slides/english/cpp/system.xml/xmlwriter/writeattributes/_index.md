@@ -1,12 +1,12 @@
 ---
-title: WriteAttributes
+title: WriteAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes out all the attributes found at the current position in the XmlReader.
 type: docs
 weight: 417
 url: /cpp/system.xml/xmlwriter/writeattributes/
 ---
-## XmlWriter::WriteAttributes method
+## XmlWriter::WriteAttributes([SharedPtr](../../../system/sharedptr/)\<[XmlReader](../../xmlreader/)\>, **bool**) method
 
 
 When overridden in a derived class, writes out all the attributes found at the current position in the [XmlReader](../../xmlreader/).

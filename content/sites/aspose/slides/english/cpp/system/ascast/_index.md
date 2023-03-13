@@ -1,5 +1,5 @@
 ---
-title: AsCast
+title: AsCast()
 second_title: Aspose.Slides for C++ API Reference
 description: Casts the source type to the result type using 'as' operator cast. Used when simple constructor-like cast is needed.
 type: docs
@@ -66,7 +66,6 @@ The cast result.
 
 ## See Also
 
-* Enum [Base64FormattingOptions](../base64formattingoptions/)
 * Namespace [System](../)
 * Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function

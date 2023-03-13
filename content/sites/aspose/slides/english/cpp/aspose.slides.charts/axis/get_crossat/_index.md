@@ -1,12 +1,12 @@
 ---
-title: get_CrossAt
+title: get_CrossAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the point on the axis where the perpendicular axis crosses it. Read float.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/axis/get_crossat/
 ---
-## Axis::get_CrossAt method
+## Axis::get_CrossAt() method
 
 
 Represents the point on the axis where the perpendicular axis crosses it. Read **float**.

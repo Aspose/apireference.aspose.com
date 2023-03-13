@@ -1,12 +1,12 @@
 ---
-title: get_ANSICodePage
+title: get_ANSICodePage()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets ANSI codepage.
 type: docs
 weight: 53
 url: /cpp/system.globalization/textinfo/get_ansicodepage/
 ---
-## TextInfo::get_ANSICodePage method
+## TextInfo::get_ANSICodePage() const method
 
 
 Gets ANSI codepage.

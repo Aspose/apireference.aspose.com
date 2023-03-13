@@ -1,12 +1,12 @@
 ---
-title: AddBlurEffect
+title: AddBlurEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Blur effect to the end of a collection.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addblureffect/
 ---
-## IImageTransformOperationCollection::AddBlurEffect method
+## IImageTransformOperationCollection::AddBlurEffect(**double**, **bool**) method
 
 
 Adds the new [Blur](../../blur/) effect to the end of a collection.

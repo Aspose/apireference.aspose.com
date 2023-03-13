@@ -1,12 +1,12 @@
 ---
-title: set_HasEndCap
+title: set_HasEndCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies an end cap is not drawn on the error bars. Write bool.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/ierrorbarsformat/set_hasendcap/
 ---
-## IErrorBarsFormat::set_HasEndCap method
+## IErrorBarsFormat::set_HasEndCap(**bool**) method
 
 
 Specifies an end cap is not drawn on the error bars. Write **bool**.

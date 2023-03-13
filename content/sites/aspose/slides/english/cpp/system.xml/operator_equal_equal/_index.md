@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two XmlQualifiedName objects.
 type: docs
 weight: 599
 url: /cpp/system.xml/operator_equal_equal/
 ---
-## System::Xml::operator== function
+## System::Xml::operator==(const [SharedPtr](../../system/sharedptr/)\<[XmlQualifiedName](../xmlqualifiedname/)\>\&, const [SharedPtr](../../system/sharedptr/)\<[XmlQualifiedName](../xmlqualifiedname/)\>\&) function
 
 
 Compares two [XmlQualifiedName](../xmlqualifiedname/) objects.

@@ -1,12 +1,12 @@
 ---
-title: get_ElapsedTicks
+title: get_ElapsedTicks()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the total elapsed time measured by the current instance, in timer ticks.
 type: docs
 weight: 118
 url: /cpp/system.diagnostics/stopwatch/get_elapsedticks/
 ---
-## Stopwatch::get_ElapsedTicks method
+## Stopwatch::get_ElapsedTicks() const method
 
 
 Gets the total elapsed time measured by the current instance, in timer ticks.

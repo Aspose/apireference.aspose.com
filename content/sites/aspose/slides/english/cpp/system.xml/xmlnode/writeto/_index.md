@@ -1,12 +1,12 @@
 ---
-title: WriteTo
+title: WriteTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves the current node to the specified XmlWriter, when overridden in a derived class.
 type: docs
 weight: 521
 url: /cpp/system.xml/xmlnode/writeto/
 ---
-## XmlNode::WriteTo method
+## XmlNode::WriteTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
 
 
 Saves the current node to the specified [XmlWriter](../../xmlwriter/), when overridden in a derived class.

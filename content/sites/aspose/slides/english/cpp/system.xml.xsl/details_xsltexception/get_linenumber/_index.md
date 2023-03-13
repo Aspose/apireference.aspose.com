@@ -1,12 +1,12 @@
 ---
-title: get_LineNumber
+title: get_LineNumber()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line number indicating where the error occurred in the style sheet.
 type: docs
 weight: 14
 url: /cpp/system.xml.xsl/details_xsltexception/get_linenumber/
 ---
-## Details_XsltException::get_LineNumber method
+## Details_XsltException::get_LineNumber() method
 
 
 Returns the line number indicating where the error occurred in the style sheet.

@@ -1,12 +1,12 @@
 ---
-title: get_TextAnimationCollection
+title: get_TextAnimationCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns collection of text animations. Read-only ITextAnimationCollection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/animationtimeline/get_textanimationcollection/
 ---
-## AnimationTimeLine::get_TextAnimationCollection method
+## AnimationTimeLine::get_TextAnimationCollection() method
 
 
 Returns collection of text animations. Read-only [ITextAnimationCollection](../../itextanimationcollection/).

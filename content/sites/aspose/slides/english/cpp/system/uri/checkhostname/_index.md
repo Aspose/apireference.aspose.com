@@ -1,12 +1,12 @@
 ---
-title: CheckHostName
+title: CheckHostName()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the type of the specified host name.
 type: docs
 weight: 417
 url: /cpp/system/uri/checkhostname/
 ---
-## Uri::CheckHostName method
+## Uri::CheckHostName([String](../../string/)) method
 
 
 Determines the type of the specified host name.

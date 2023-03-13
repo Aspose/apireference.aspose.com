@@ -1,15 +1,15 @@
 ---
-title: get_PptC
+title: get_PptC()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'ppt_c' property.
+description: Represents 'ppt_c' property
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/behaviorproperty/get_pptc/
 ---
-## BehaviorProperty::get_PptC method
+## BehaviorProperty::get_PptC() method
 
 
-Represents 'ppt_c' property.
+Represents 'ppt_c' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_PptC()

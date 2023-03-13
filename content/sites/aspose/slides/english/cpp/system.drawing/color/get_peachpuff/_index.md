@@ -1,12 +1,12 @@
 ---
-title: get_PeachPuff
+title: get_PeachPuff()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFFFDAB9.
 type: docs
 weight: 1639
 url: /cpp/system.drawing/color/get_peachpuff/
 ---
-## Color::get_PeachPuff method
+## Color::get_PeachPuff() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFFFDAB9.

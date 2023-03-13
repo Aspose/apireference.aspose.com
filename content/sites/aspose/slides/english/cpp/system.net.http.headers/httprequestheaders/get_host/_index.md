@@ -1,12 +1,12 @@
 ---
-title: get_Host
+title: get_Host()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Host' header.
 type: docs
 weight: 144
 url: /cpp/system.net.http.headers/httprequestheaders/get_host/
 ---
-## HttpRequestHeaders::get_Host method
+## HttpRequestHeaders::get_Host() method
 
 
 Gets a value of the 'Host' header.

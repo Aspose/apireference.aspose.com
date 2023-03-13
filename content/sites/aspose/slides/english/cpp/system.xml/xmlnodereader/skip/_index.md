@@ -1,12 +1,12 @@
 ---
-title: Skip
+title: Skip()
 second_title: Aspose.Slides for C++ API Reference
 description: Skips the children of the current node.
 type: docs
 weight: 378
 url: /cpp/system.xml/xmlnodereader/skip/
 ---
-## XmlNodeReader::Skip method
+## XmlNodeReader::Skip() method
 
 
 Skips the children of the current node.

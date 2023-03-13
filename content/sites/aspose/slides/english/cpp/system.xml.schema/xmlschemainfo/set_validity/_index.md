@@ -1,12 +1,12 @@
 ---
-title: set_Validity
+title: set_Validity()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlSchemaValidity value of this validated XML node.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemainfo/set_validity/
 ---
-## XmlSchemaInfo::set_Validity method
+## XmlSchemaInfo::set_Validity([XmlSchemaValidity](../../xmlschemavalidity/)) method
 
 
 Sets the XmlSchemaValidity value of this validated XML node.

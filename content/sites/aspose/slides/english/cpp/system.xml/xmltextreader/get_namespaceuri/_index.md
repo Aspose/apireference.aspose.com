@@ -1,12 +1,12 @@
 ---
-title: get_NamespaceURI
+title: get_NamespaceURI()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the namespace URI (as defined in the W3C Namespace specification) of the node on which the reader is positioned.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmltextreader/get_namespaceuri/
 ---
-## XmlTextReader::get_NamespaceURI method
+## XmlTextReader::get_NamespaceURI() method
 
 
 Returns the namespace URI (as defined in the W3C Namespace specification) of the node on which the reader is positioned.

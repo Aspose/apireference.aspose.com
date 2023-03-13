@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the cookie's'value.
 type: docs
 weight: 352
 url: /cpp/system.net/cookie/get_value/
 ---
-## Cookie::get_Value method
+## Cookie::get_Value() const method
 
 
 Gets the cookie's'value.

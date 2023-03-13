@@ -1,5 +1,5 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: Assigns the collection of delegates represented by the specified object to the current object. As a result both objects point to the same collection of delegates.
 type: docs

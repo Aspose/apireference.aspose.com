@@ -1,12 +1,12 @@
 ---
-title: get_Unit
+title: get_Unit()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the measurement unit for the font represented by the current object.
 type: docs
 weight: 183
 url: /cpp/system.drawing/font/get_unit/
 ---
-## Font::get_Unit method
+## Font::get_Unit() method
 
 
 Returns the measurement unit for the font represented by the current object.

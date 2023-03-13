@@ -1,12 +1,12 @@
 ---
-title: set_EmbedFullFonts
+title: set_EmbedFullFonts()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if all characters of font should be embedded or only used subset. Write bool.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.export/ipdfoptions/set_embedfullfonts/
 ---
-## IPdfOptions::set_EmbedFullFonts method
+## IPdfOptions::set_EmbedFullFonts(**bool**) method
 
 
 Determines if all characters of font should be embedded or only used subset. Write **bool**.

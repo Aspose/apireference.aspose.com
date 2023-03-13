@@ -1,12 +1,12 @@
 ---
-title: get_ShadowColor
+title: get_ShadowColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Color of shadow. Read-only System::Drawing::Color."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/iinnershadoweffectivedata/get_shadowcolor/
 ---
-## IInnerShadowEffectiveData::get_ShadowColor method
+## IInnerShadowEffectiveData::get_ShadowColor() method
 
 
 Color of shadow. Read-only [System::Drawing::Color](../../../system.drawing/color/).

@@ -1,12 +1,12 @@
 ---
-title: ~EnumValues
+title: ~EnumValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system/enumvalues/~enumvalues/
 ---
-## EnumValues::~EnumValues method
+## EnumValues::~EnumValues() method
 
 
 Destructor.

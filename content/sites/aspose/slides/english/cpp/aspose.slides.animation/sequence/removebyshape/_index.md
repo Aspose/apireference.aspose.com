@@ -1,12 +1,12 @@
 ---
-title: RemoveByShape
+title: RemoveByShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Remove effect for the specified shape.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/sequence/removebyshape/
 ---
-## Sequence::RemoveByShape method
+## Sequence::RemoveByShape([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
 
 
 Remove effect for the specified shape.

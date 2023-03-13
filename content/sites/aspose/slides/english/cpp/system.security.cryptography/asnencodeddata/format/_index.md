@@ -1,12 +1,12 @@
 ---
-title: Format
+title: Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Formats data in human-readable form.
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography/asnencodeddata/format/
 ---
-## AsnEncodedData::Format method
+## AsnEncodedData::Format(**bool**) const method
 
 
 Formats data in human-readable form.

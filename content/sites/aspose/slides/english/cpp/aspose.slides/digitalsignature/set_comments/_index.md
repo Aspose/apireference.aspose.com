@@ -1,12 +1,12 @@
 ---
-title: set_Comments
+title: set_Comments()
 second_title: Aspose.Slides for C++ API Reference
 description: "The purpose of signature. Write System::String."
 type: docs
 weight: 53
 url: /cpp/aspose.slides/digitalsignature/set_comments/
 ---
-## DigitalSignature::set_Comments method
+## DigitalSignature::set_Comments([System::String](../../../system/string/)) method
 
 
 The purpose of signature. Write [System::String](../../../system/string/).

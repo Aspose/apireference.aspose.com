@@ -1,12 +1,12 @@
 ---
-title: get_EnableDecompression
+title: get_EnableDecompression()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if decompression is enabled.
 type: docs
 weight: 66
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/get_enabledecompression/
 ---
-## HttpWebClientProtocol::get_EnableDecompression method
+## HttpWebClientProtocol::get_EnableDecompression() method
 
 
 Gets a value that indicates if decompression is enabled.

@@ -1,12 +1,12 @@
 ---
-title: set_ExtrusionHeight
+title: set_ExtrusionHeight()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the height of an extrusion effect. Write double.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ithreedformat/set_extrusionheight/
 ---
-## IThreeDFormat::set_ExtrusionHeight method
+## IThreeDFormat::set_ExtrusionHeight(**double**) method
 
 
 Sets the height of an extrusion effect. Write **double**.

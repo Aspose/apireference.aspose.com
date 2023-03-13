@@ -1,12 +1,12 @@
 ---
-title: set_NumberFormat
+title: set_NumberFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents the format string for the Axis Labels. Write System::String."
 type: docs
 weight: 846
 url: /cpp/aspose.slides.charts/axis/set_numberformat/
 ---
-## Axis::set_NumberFormat method
+## Axis::set_NumberFormat([System::String](../../../system/string/)) method
 
 
 Represents the format string for the [Axis](../) Labels. Write [System::String](../../../system/string/).

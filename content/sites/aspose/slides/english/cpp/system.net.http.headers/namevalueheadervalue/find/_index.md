@@ -1,12 +1,12 @@
 ---
-title: Find
+title: Find()
 second_title: Aspose.Slides for C++ API Reference
 description: Finds the NameValueHeaderValue-class instance in a collection by the specified name.
 type: docs
 weight: 144
 url: /cpp/system.net.http.headers/namevalueheadervalue/find/
 ---
-## NameValueHeaderValue::Find method
+## NameValueHeaderValue::Find([System::SharedPtr](../../../system/sharedptr/)\<[ObjectCollection](../../objectcollection/)\<[System::SharedPtr](../../../system/sharedptr/)\<[NameValueHeaderValue](../)\>\>\>, [String](../../../system/string/)) method
 
 
 Finds the NameValueHeaderValue-class instance in a collection by the specified name.

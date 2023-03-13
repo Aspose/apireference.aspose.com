@@ -1,12 +1,12 @@
 ---
-title: get_Legend
+title: get_Legend()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a legend for a chart. Read-only ILegend.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/chart/get_legend/
 ---
-## Chart::get_Legend method
+## Chart::get_Legend() method
 
 
 Returns a legend for a chart. Read-only [ILegend](../../ilegend/).

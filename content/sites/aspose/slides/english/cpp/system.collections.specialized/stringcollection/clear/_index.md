@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes all elements.
 type: docs
 weight: 118
 url: /cpp/system.collections.specialized/stringcollection/clear/
 ---
-## StringCollection::Clear method
+## StringCollection::Clear() method
 
 
 Deletes all elements.

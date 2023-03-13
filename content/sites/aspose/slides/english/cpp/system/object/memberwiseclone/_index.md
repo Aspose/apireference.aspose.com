@@ -1,12 +1,12 @@
 ---
-title: MemberwiseClone
+title: MemberwiseClone()
 second_title: Aspose.Slides for C++ API Reference
 description: Analog of C# Object.MemberwiseClone() method. Enables cloning custom types.
 type: docs
 weight: 196
 url: /cpp/system/object/memberwiseclone/
 ---
-## Object::MemberwiseClone method
+## Object::MemberwiseClone() const method
 
 
 Analog of C# [Object.MemberwiseClone()](./) method. Enables cloning custom types.

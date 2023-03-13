@@ -1,5 +1,5 @@
 ---
-title: Exclude
+title: Exclude()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces the region represented by the current object with the result of exclusion of the region defined by the specified rectange from it.
 type: docs

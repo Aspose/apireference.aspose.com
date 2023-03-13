@@ -1,5 +1,5 @@
 ---
-title: AddField
+title: AddField()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts this portion to the automaticaly updated field.
 type: docs

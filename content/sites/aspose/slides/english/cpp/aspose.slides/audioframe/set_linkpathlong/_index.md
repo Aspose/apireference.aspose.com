@@ -1,12 +1,12 @@
 ---
-title: set_LinkPathLong
+title: set_LinkPathLong()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the name of an audio file which is linked to an AudioFrame. Write System::String."
 type: docs
 weight: 287
 url: /cpp/aspose.slides/audioframe/set_linkpathlong/
 ---
-## AudioFrame::set_LinkPathLong method
+## AudioFrame::set_LinkPathLong([System::String](../../../system/string/)) method
 
 
 Sets the name of an audio file which is linked to an [AudioFrame](../). Write [System::String](../../../system/string/).

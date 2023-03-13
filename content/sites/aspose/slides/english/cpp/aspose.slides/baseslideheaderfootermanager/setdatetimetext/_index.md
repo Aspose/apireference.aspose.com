@@ -1,12 +1,12 @@
 ---
-title: SetDateTimeText
+title: SetDateTimeText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets text to slide date-time placeholder.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/baseslideheaderfootermanager/setdatetimetext/
 ---
-## BaseSlideHeaderFooterManager::SetDateTimeText method
+## BaseSlideHeaderFooterManager::SetDateTimeText([System::String](../../../system/string/)) method
 
 
 Sets text to slide date-time placeholder.

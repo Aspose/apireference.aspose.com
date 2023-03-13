@@ -1,12 +1,12 @@
 ---
-title: get_Sound
+title: get_Sound()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the embedded audio data. Read IAudio.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.slideshow/slideshowtransition/get_sound/
 ---
-## SlideShowTransition::get_Sound method
+## SlideShowTransition::get_Sound() method
 
 
 Returns the embedded audio data. Read [IAudio](../../../aspose.slides/iaudio/).

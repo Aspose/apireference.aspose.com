@@ -1,12 +1,12 @@
 ---
-title: get_FillStyle
+title: get_FillStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the theme-defined fill style at the specified index. Read-only Aspose::Slides::IFillFormat."
 type: docs
 weight: 79
 url: /cpp/aspose.slides.theme/formatscheme/get_fillstyle/
 ---
-## FormatScheme::get_FillStyle method
+## FormatScheme::get_FillStyle(**int32_t**) method
 
 
 Returns the theme-defined fill style at the specified index. Read-only [Aspose::Slides::IFillFormat](../../../aspose.slides/ifillformat/).

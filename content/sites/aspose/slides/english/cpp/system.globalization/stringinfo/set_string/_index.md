@@ -1,12 +1,12 @@
 ---
-title: set_String
+title: set_String()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of the StringInfo object.
 type: docs
 weight: 40
 url: /cpp/system.globalization/stringinfo/set_string/
 ---
-## StringInfo::set_String method
+## StringInfo::set_String(const [String](../../../system/string/)\&) method
 
 
 Sets the value of the [StringInfo](../) object.

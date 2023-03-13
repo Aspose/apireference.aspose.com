@@ -1,12 +1,12 @@
 ---
-title: Open
+title: Open()
 second_title: Aspose.Slides for C++ API Reference
 description: Opens connection to database.
 type: docs
 weight: 27
 url: /cpp/system.data.common/dbconnection/open/
 ---
-## DbConnection::Open method
+## DbConnection::Open() method
 
 
 Opens connection to database.

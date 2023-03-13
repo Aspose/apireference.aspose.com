@@ -1,12 +1,12 @@
 ---
-title: ResolveFunction
+title: ResolveFunction()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, resolves a function reference and returns an IXsltContextFunction representing the function. The IXsltContextFunction is used at execution time to get the return value of the function.
 type: docs
 weight: 27
 url: /cpp/system.xml.xsl/xsltcontext/resolvefunction/
 ---
-## XsltContext::ResolveFunction method
+## XsltContext::ResolveFunction([String](../../../system/string/), [String](../../../system/string/), [ArrayPtr](../../../system/arrayptr/)\<[System::Xml::XPath::XPathResultType](../../../system.xml.xpath/xpathresulttype/)\>) method
 
 
 When overridden in a derived class, resolves a function reference and returns an [IXsltContextFunction](../../ixsltcontextfunction/) representing the function. The [IXsltContextFunction](../../ixsltcontextfunction/) is used at execution time to get the return value of the function.

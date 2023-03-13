@@ -1,12 +1,12 @@
 ---
-title: AddAlphaInverseEffect
+title: AddAlphaInverseEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Alpha Inverse effect to the end of a collection.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addalphainverseeffect/
 ---
-## ImageTransformOperationCollection::AddAlphaInverseEffect method
+## ImageTransformOperationCollection::AddAlphaInverseEffect() method
 
 
 Adds the new Alpha Inverse effect to the end of a collection.

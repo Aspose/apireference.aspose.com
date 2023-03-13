@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the current instance.
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/namevalueheadervalue/set_value/
 ---
-## NameValueHeaderValue::set_Value method
+## NameValueHeaderValue::set_Value([String](../../../system/string/)) method
 
 
 Sets a value of the current instance.

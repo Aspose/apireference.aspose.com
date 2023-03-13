@@ -1,12 +1,12 @@
 ---
-title: set_AllowUnassigned
+title: set_AllowUnassigned()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets flag that indicates if unassigned code points used in operations.
 type: docs
 weight: 40
 url: /cpp/system.globalization/idnmapping/set_allowunassigned/
 ---
-## IdnMapping::set_AllowUnassigned method
+## IdnMapping::set_AllowUnassigned(**bool**) method
 
 
 Sets flag that indicates if unassigned code points used in operations.

@@ -1,12 +1,12 @@
 ---
-title: set_ReadDate
+title: set_ReadDate()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the date when the file read the last time.
 type: docs
 weight: 183
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_readdate/
 ---
-## ContentDispositionHeaderValue::set_ReadDate method
+## ContentDispositionHeaderValue::set_ReadDate([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
 
 
 Sets the date when the file read the last time.

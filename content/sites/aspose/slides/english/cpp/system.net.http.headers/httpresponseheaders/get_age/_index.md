@@ -1,12 +1,12 @@
 ---
-title: get_Age
+title: get_Age()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Age' header.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/httpresponseheaders/get_age/
 ---
-## HttpResponseHeaders::get_Age method
+## HttpResponseHeaders::get_Age() method
 
 
 Gets a value of the 'Age' header.

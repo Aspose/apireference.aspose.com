@@ -1,12 +1,12 @@
 ---
-title: get_MarginRight
+title: get_MarginRight()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the right margin in a paragraph. Read-only float.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/iparagraphformateffectivedata/get_marginright/
 ---
-## IParagraphFormatEffectiveData::get_MarginRight method
+## IParagraphFormatEffectiveData::get_MarginRight() method
 
 
 Returns the right margin in a paragraph. Read-only **float**.

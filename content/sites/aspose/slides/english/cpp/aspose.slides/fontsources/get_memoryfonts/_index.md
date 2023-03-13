@@ -1,12 +1,12 @@
 ---
-title: get_MemoryFonts
+title: get_MemoryFonts()
 second_title: Aspose.Slides for C++ API Reference
 description: A collection of fonts represented as byte arrays.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/fontsources/get_memoryfonts/
 ---
-## FontSources::get_MemoryFonts method
+## FontSources::get_MemoryFonts() method
 
 
 A collection of fonts represented as byte arrays.

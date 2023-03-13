@@ -1,12 +1,12 @@
 ---
-title: get_FontSubstRuleList
+title: get_FontSubstRuleList()
 second_title: Aspose.Slides for C++ API Reference
 description: Font substitutions to use when rendering. Read IFontSubstRuleCollection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/fontsmanager/get_fontsubstrulelist/
 ---
-## FontsManager::get_FontSubstRuleList method
+## FontsManager::get_FontSubstRuleList() method
 
 
 Font substitutions to use when rendering. Read [IFontSubstRuleCollection](../../ifontsubstrulecollection/).

@@ -1,12 +1,12 @@
 ---
-title: set_InnerText
+title: set_InnerText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the concatenated values of the XmlDeclaration.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmldeclaration/set_innertext/
 ---
-## XmlDeclaration::set_InnerText method
+## XmlDeclaration::set_InnerText([String](../../../system/string/)) method
 
 
 Sets the concatenated values of the [XmlDeclaration](../).

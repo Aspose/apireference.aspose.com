@@ -1,12 +1,12 @@
 ---
-title: ~String
+title: ~String()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system/string/~string/
 ---
-## String::~String method
+## String::~String() method
 
 
 Destructor.

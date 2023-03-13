@@ -1,12 +1,12 @@
 ---
-title: set_TextRenderingHint
+title: set_TextRenderingHint()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that specifies the quality of text rendering.
 type: docs
 weight: 183
 url: /cpp/system.drawing/graphics/set_textrenderinghint/
 ---
-## Graphics::set_TextRenderingHint method
+## Graphics::set_TextRenderingHint([Text::TextRenderingHint](../../../system.drawing.text/textrenderinghint/)) method
 
 
 Sets a value that specifies the quality of text rendering.

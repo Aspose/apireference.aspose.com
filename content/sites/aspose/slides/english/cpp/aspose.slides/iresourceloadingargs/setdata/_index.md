@@ -1,12 +1,12 @@
 ---
-title: SetData
+title: SetData()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets user provided data of the resource which used if IResourceLoadingCallback::ResourceLoading() returns ResourceLoadingAction::UserProvided."
 type: docs
 weight: 40
 url: /cpp/aspose.slides/iresourceloadingargs/setdata/
 ---
-## IResourceLoadingArgs::SetData method
+## IResourceLoadingArgs::SetData([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 Sets user provided data of the resource which used if [IResourceLoadingCallback::ResourceLoading()](../../iresourceloadingcallback/resourceloading/) returns [ResourceLoadingAction::UserProvided](../../resourceloadingaction/).

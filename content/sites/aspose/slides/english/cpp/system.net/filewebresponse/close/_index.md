@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the response stream.
 type: docs
 weight: 92
 url: /cpp/system.net/filewebresponse/close/
 ---
-## FileWebResponse::Close method
+## FileWebResponse::Close() method
 
 
 Closes the response stream.

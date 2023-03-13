@@ -1,12 +1,12 @@
 ---
-title: get_TotalEditingTime
+title: get_TotalEditingTime()
 second_title: Aspose.Slides for C++ API Reference
 description: "Total editing time of a presentation. Read System::TimeSpan."
 type: docs
 weight: 170
 url: /cpp/aspose.slides/documentproperties/get_totaleditingtime/
 ---
-## DocumentProperties::get_TotalEditingTime method
+## DocumentProperties::get_TotalEditingTime() method
 
 
 Total editing time of a presentation. Read [System::TimeSpan](../../../system/timespan/).

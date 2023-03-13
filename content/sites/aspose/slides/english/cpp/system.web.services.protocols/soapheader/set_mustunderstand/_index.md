@@ -1,12 +1,12 @@
 ---
-title: set_MustUnderstand
+title: set_MustUnderstand()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the SOAP header must be understood.
 type: docs
 weight: 92
 url: /cpp/system.web.services.protocols/soapheader/set_mustunderstand/
 ---
-## SoapHeader::set_MustUnderstand method
+## SoapHeader::set_MustUnderstand(**bool**) method
 
 
 Sets a value that indicates if the SOAP header must be understood.

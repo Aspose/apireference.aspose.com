@@ -1,12 +1,12 @@
 ---
-title: get_Effect3D
+title: get_Effect3D()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns 3D format of a chart. Read-only IThreeDFormat.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/iformat/get_effect3d/
 ---
-## IFormat::get_Effect3D method
+## IFormat::get_Effect3D() method
 
 
 Returns 3D format of a chart. Read-only [IThreeDFormat](../../../aspose.slides/ithreedformat/).

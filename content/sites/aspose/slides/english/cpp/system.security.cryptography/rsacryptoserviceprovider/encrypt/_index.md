@@ -1,5 +1,5 @@
 ---
-title: Encrypt
+title: Encrypt()
 second_title: Aspose.Slides for C++ API Reference
 description: Encrypts message. Not implemented.
 type: docs

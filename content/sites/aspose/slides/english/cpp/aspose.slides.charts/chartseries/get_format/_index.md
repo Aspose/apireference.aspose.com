@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the format of a series. Read-only IFormat.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/chartseries/get_format/
 ---
-## ChartSeries::get_Format method
+## ChartSeries::get_Format() method
 
 
 Returns the format of a series. Read-only [IFormat](../../iformat/).

@@ -1,12 +1,12 @@
 ---
-title: set_BaseItemType
+title: set_BaseItemType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the XmlSchemaSimpleType representing the type of the simpleType element based on the XmlSchemaSimpleTypeList::get_ItemType and XmlSchemaSimpleTypeList::get_ItemTypeName values of the simple type."
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemasimpletypelist/set_baseitemtype/
 ---
-## XmlSchemaSimpleTypeList::set_BaseItemType method
+## XmlSchemaSimpleTypeList::set_BaseItemType(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaSimpleType](../../xmlschemasimpletype/)\>\&) method
 
 
 Sets the [XmlSchemaSimpleType](../../xmlschemasimpletype/) representing the type of the **simpleType** element based on the [XmlSchemaSimpleTypeList::get_ItemType](../get_itemtype/) and [XmlSchemaSimpleTypeList::get_ItemTypeName](../get_itemtypename/) values of the simple type.

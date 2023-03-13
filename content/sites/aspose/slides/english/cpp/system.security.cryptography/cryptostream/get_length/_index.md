@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets length of stream. Not supported.
 type: docs
 weight: 131
 url: /cpp/system.security.cryptography/cryptostream/get_length/
 ---
-## CryptoStream::get_Length method
+## CryptoStream::get_Length() const method
 
 
 Gets length of stream. Not supported.

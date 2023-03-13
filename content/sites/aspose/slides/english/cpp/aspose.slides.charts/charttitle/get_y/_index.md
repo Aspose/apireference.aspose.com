@@ -1,12 +1,12 @@
 ---
-title: get_Y
+title: get_Y()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the y coordinate of a title as a fraction of the height of the chart. Read float.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/charttitle/get_y/
 ---
-## ChartTitle::get_Y method
+## ChartTitle::get_Y() method
 
 
 Returns the y coordinate of a title as a fraction of the height of the chart. Read **float**.

@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes a property with the specified name.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/icontrolpropertiescollection/remove/
 ---
-## IControlPropertiesCollection::Remove method
+## IControlPropertiesCollection::Remove([System::String](../../../system/string/)) method
 
 
 Removes a property with the specified name.

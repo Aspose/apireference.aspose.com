@@ -1,12 +1,12 @@
 ---
-title: get_Schemas
+title: get_Schemas()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchemaSet object associated with this XmlDocument.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmldocument/get_schemas/
 ---
-## XmlDocument::get_Schemas method
+## XmlDocument::get_Schemas() method
 
 
 Returns the XmlSchemaSet object associated with this [XmlDocument](../).

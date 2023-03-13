@@ -1,12 +1,12 @@
 ---
-title: get_LightSeaGreen
+title: get_LightSeaGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF20B2AA.
 type: docs
 weight: 937
 url: /cpp/system.drawing/pens/get_lightseagreen/
 ---
-## Pens::get_LightSeaGreen method
+## Pens::get_LightSeaGreen() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF20B2AA.

@@ -1,12 +1,12 @@
 ---
-title: set_To
+title: set_To()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the ending value for the animation. Write System::String."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/propertyeffect/set_to/
 ---
-## PropertyEffect::set_To method
+## PropertyEffect::set_To([System::String](../../../system/string/)) method
 
 
 Specifies the ending value for the animation. Write [System::String](../../../system/string/).

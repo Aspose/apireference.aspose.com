@@ -1,15 +1,15 @@
 ---
-title: get_ShadowMatrixYtoY
+title: get_ShadowMatrixYtoY()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'shadow.matrix.ytoy' property.
+description: Represents 'shadow.matrix.ytoy' property
 type: docs
 weight: 1106
 url: /cpp/aspose.slides.animation/behaviorproperty/get_shadowmatrixytoy/
 ---
-## BehaviorProperty::get_ShadowMatrixYtoY method
+## BehaviorProperty::get_ShadowMatrixYtoY() method
 
 
-Represents 'shadow.matrix.ytoy' property.
+Represents 'shadow.matrix.ytoy' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ShadowMatrixYtoY()

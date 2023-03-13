@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new SizeF object that is a sum of the specified SizeF objects, i.e. whose width value is equal to the sum of width values of the specified objects and height value is equal to the sum of height values of the specified objects.
 type: docs
 weight: 170
 url: /cpp/system.drawing/sizef/add/
 ---
-## SizeF::Add method
+## SizeF::Add(const [SizeF](../)\&, const [SizeF](../)\&) method
 
 
 Returns a new [SizeF](../) object that is a sum of the specified [SizeF](../) objects, i.e. whose width value is equal to the sum of width values of the specified objects and height value is equal to the sum of height values of the specified objects.

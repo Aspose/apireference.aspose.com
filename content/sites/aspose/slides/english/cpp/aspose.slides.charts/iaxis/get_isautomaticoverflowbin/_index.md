@@ -1,12 +1,12 @@
 ---
-title: get_IsAutomaticOverflowBin
+title: get_IsAutomaticOverflowBin()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies automatic overflow bin value. If false: use OverflowBin property."
 type: docs
 weight: 1119
 url: /cpp/aspose.slides.charts/iaxis/get_isautomaticoverflowbin/
 ---
-## IAxis::get_IsAutomaticOverflowBin method
+## IAxis::get_IsAutomaticOverflowBin() method
 
 
 Specifies automatic overflow bin value. If false: use OverflowBin property.

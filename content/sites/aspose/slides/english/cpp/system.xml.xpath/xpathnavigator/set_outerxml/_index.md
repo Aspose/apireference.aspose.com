@@ -1,12 +1,12 @@
 ---
-title: set_OuterXml
+title: set_OuterXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the markup representing the opening and closing tags of the current node and its child nodes.
 type: docs
 weight: 313
 url: /cpp/system.xml.xpath/xpathnavigator/set_outerxml/
 ---
-## XPathNavigator::set_OuterXml method
+## XPathNavigator::set_OuterXml([String](../../../system/string/)) method
 
 
 Sets the markup representing the opening and closing tags of the current node and its child nodes.

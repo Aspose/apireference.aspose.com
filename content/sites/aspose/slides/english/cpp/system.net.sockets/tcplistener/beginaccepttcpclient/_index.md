@@ -1,12 +1,12 @@
 ---
-title: BeginAcceptTcpClient
+title: BeginAcceptTcpClient()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous accept operation.
 type: docs
 weight: 170
 url: /cpp/system.net.sockets/tcplistener/beginaccepttcpclient/
 ---
-## TcpListener::BeginAcceptTcpClient method
+## TcpListener::BeginAcceptTcpClient([AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Initiates an asynchronous accept operation.

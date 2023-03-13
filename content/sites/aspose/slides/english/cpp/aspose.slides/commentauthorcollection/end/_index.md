@@ -1,5 +1,5 @@
 ---
-title: end
+title: end()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing right after the last element (if any) of the collection.
 type: docs

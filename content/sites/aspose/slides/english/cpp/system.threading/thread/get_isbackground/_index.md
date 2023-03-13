@@ -1,12 +1,12 @@
 ---
-title: get_IsBackground
+title: get_IsBackground()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether thread is background.
 type: docs
 weight: 105
 url: /cpp/system.threading/thread/get_isbackground/
 ---
-## Thread::get_IsBackground method
+## Thread::get_IsBackground() method
 
 
 Checks whether thread is background.

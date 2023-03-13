@@ -1,12 +1,12 @@
 ---
-title: set_IfRange
+title: set_IfRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'If-Range' header.
 type: docs
 weight: 235
 url: /cpp/system.net.http.headers/httprequestheaders/set_ifrange/
 ---
-## HttpRequestHeaders::set_IfRange method
+## HttpRequestHeaders::set_IfRange([System::SharedPtr](../../../system/sharedptr/)\<[RangeConditionHeaderValue](../../rangeconditionheadervalue/)\>) method
 
 
 Sets a value of the 'If-Range' header.

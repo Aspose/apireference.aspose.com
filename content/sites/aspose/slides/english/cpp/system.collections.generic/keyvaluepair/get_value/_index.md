@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/keyvaluepair/get_value/
 ---
-## KeyValuePair::get_Value method
+## KeyValuePair::get_Value() const method
 
 
 Gets value.

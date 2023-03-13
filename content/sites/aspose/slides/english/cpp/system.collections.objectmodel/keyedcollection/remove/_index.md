@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes key from container.
 type: docs
 weight: 53
 url: /cpp/system.collections.objectmodel/keyedcollection/remove/
 ---
-## KeyedCollection::Remove method
+## KeyedCollection::Remove(TKey) method
 
 
 Removes key from container.

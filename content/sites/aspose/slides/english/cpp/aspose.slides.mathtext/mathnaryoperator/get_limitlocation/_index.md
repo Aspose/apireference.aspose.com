@@ -1,12 +1,12 @@
 ---
-title: get_LimitLocation
+title: get_LimitLocation()
 second_title: Aspose.Slides for C++ API Reference
 description: The location of limits (subscript and superscript)
 type: docs
 weight: 66
 url: /cpp/aspose.slides.mathtext/mathnaryoperator/get_limitlocation/
 ---
-## MathNaryOperator::get_LimitLocation method
+## MathNaryOperator::get_LimitLocation() method
 
 
 The location of limits (subscript and superscript)

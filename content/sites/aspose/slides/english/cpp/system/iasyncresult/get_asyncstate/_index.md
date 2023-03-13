@@ -1,12 +1,12 @@
 ---
-title: get_AsyncState
+title: get_AsyncState()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an object that contains the information about asyrchronous operation.
 type: docs
 weight: 1
 url: /cpp/system/iasyncresult/get_asyncstate/
 ---
-## IAsyncResult::get_AsyncState method
+## IAsyncResult::get_AsyncState() method
 
 
 Returns an object that contains the information about asyrchronous operation.

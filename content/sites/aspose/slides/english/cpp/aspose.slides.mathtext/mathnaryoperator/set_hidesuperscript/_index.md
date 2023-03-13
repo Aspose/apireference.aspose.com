@@ -1,15 +1,15 @@
 ---
-title: set_HideSuperscript
+title: set_HideSuperscript()
 second_title: Aspose.Slides for C++ API Reference
-description: Hide Superscript.
+description: Hide Superscript
 type: docs
 weight: 157
 url: /cpp/aspose.slides.mathtext/mathnaryoperator/set_hidesuperscript/
 ---
-## MathNaryOperator::set_HideSuperscript method
+## MathNaryOperator::set_HideSuperscript(**bool**) method
 
 
-Hide Superscript.
+Hide Superscript
 
 ```cpp
 void Aspose::Slides::MathText::MathNaryOperator::set_HideSuperscript(bool value) override

@@ -1,12 +1,12 @@
 ---
-title: set_Content
+title: set_Content()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns one of the XmlSchemaSimpleContentRestriction or XmlSchemaSimpleContentExtension.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemasimplecontent/set_content/
 ---
-## XmlSchemaSimpleContent::set_Content method
+## XmlSchemaSimpleContent::set_Content([SharedPtr](../../../system/sharedptr/)\<[XmlSchemaContent](../../xmlschemacontent/)\>) method
 
 
 Returns one of the [XmlSchemaSimpleContentRestriction](../../xmlschemasimplecontentrestriction/) or [XmlSchemaSimpleContentExtension](../../xmlschemasimplecontentextension/).

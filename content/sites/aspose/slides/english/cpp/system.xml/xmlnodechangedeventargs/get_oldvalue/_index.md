@@ -1,12 +1,12 @@
 ---
-title: get_OldValue
+title: get_OldValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the original value of the node.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlnodechangedeventargs/get_oldvalue/
 ---
-## XmlNodeChangedEventArgs::get_OldValue method
+## XmlNodeChangedEventArgs::get_OldValue() method
 
 
 Returns the original value of the node.

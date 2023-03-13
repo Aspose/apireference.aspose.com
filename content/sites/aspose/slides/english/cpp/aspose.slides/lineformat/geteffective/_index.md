@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective line formatting data with the inheritance applied.
 type: docs
 weight: 417
 url: /cpp/aspose.slides/lineformat/geteffective/
 ---
-## LineFormat::GetEffective method
+## LineFormat::GetEffective() method
 
 
 Gets effective line formatting data with the inheritance applied.

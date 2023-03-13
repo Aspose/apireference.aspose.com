@@ -1,12 +1,12 @@
 ---
-title: set_ServerCertificateValidationCallback
+title: set_ServerCertificateValidationCallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the callback that is used to validate a server certificate.
 type: docs
 weight: 248
 url: /cpp/system.net/servicepointmanager/set_servercertificatevalidationcallback/
 ---
-## ServicePointManager::set_ServerCertificateValidationCallback method
+## ServicePointManager::set_ServerCertificateValidationCallback([Security::RemoteCertificateValidationCallback](../../../system.net.security/remotecertificatevalidationcallback/)) method
 
 
 Sets the callback that is used to validate a server certificate.

@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts this ImageFormat object to a human-readable string.
 type: docs
 weight: 40
 url: /cpp/system.drawing.imaging/imageformat/tostring/
 ---
-## ImageFormat::ToString method
+## ImageFormat::ToString() const method
 
 
 Converts this [ImageFormat](../) object to a human-readable string.

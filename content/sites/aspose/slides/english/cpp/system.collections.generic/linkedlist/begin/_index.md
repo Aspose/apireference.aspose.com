@@ -1,5 +1,5 @@
 ---
-title: begin
+title: begin()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator to the first element of collection.
 type: docs
@@ -22,7 +22,7 @@ An iterator pointing to the first element in the linked list.
 
 ## See Also
 
-* Typedef [iterator](../iterator/)
+* Typedef [iterator](../../ienumerable/iterator/)
 * Class [LinkedList](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Slides](../../../)
@@ -42,7 +42,7 @@ An iterator pointing to the first element in the const-qualified instance of the
 
 ## See Also
 
-* Typedef [const_iterator](../const_iterator/)
+* Typedef [const_iterator](../../ienumerable/const_iterator/)
 * Class [LinkedList](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Slides](../../../)

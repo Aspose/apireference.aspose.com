@@ -1,5 +1,5 @@
 ---
-title: AddLines
+title: AddLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified series of connected line segments to the path represented by the current object.
 type: docs

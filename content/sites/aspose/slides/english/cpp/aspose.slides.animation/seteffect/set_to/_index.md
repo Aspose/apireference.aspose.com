@@ -1,12 +1,12 @@
 ---
-title: set_To
+title: set_To()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the certain attribute of a effect after an animation effect. Represents point value. Only: bool, ColorFormat, float, int, string. Write System::Object."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/seteffect/set_to/
 ---
-## SetEffect::set_To method
+## SetEffect::set_To([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Specifies the certain attribute of a effect after an animation effect. Represents point value. Only: bool, [ColorFormat](../../../aspose.slides/colorformat/), float, int, string. Write [System::Object](../../../system/object/).

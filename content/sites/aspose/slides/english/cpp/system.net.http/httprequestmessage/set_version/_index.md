@@ -1,12 +1,12 @@
 ---
-title: set_Version
+title: set_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the HTTP version.
 type: docs
 weight: 14
 url: /cpp/system.net.http/httprequestmessage/set_version/
 ---
-## HttpRequestMessage::set_Version method
+## HttpRequestMessage::set_Version([System::Version](../../../system/version/)) method
 
 
 Sets the HTTP version.

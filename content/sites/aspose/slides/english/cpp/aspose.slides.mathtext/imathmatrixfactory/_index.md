@@ -1,7 +1,7 @@
 ---
 title: IMathMatrixFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a math matrix.
+description: Allows to create a math matrix
 type: docs
 weight: 404
 url: /cpp/aspose.slides.mathtext/imathmatrixfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathmatrixfactory/
 ## IMathMatrixFactory class
 
 
-Allows to create a math matrix.
+Allows to create a math matrix
 
 ```cpp
 class IMathMatrixFactory : public System::Object
@@ -19,7 +19,7 @@ class IMathMatrixFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathMatrix](../imathmatrix/)\> [CreateMathMatrix](./createmathmatrix/)(**int32_t**, **int32_t**) | Creates a math matrix. |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathMatrix](../imathmatrix/)\> [CreateMathMatrix](./createmathmatrix/)(**int32_t**, **int32_t**) | Creates a math matrix |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

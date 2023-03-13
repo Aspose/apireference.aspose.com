@@ -1,12 +1,12 @@
 ---
-title: cend
+title: cend()
 second_title: Aspose.Slides for C++ API Reference
 description: Accessor for cend() method of an underling collection. Only compiles if SmartPtr_ is specialization type with cend() method.
 type: docs
 weight: 417
 url: /cpp/system/smartptr/cend/
 ---
-## SmartPtr::cend method
+## SmartPtr::cend() const method
 
 
 Accessor for [cend()](./) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [cend()](./) method.

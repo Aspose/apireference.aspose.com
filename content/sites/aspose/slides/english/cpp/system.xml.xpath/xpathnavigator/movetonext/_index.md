@@ -1,5 +1,5 @@
 ---
-title: MoveToNext
+title: MoveToNext()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, moves the XPathNavigator to the next sibling node of the current node.
 type: docs

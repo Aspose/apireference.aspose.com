@@ -1,12 +1,12 @@
 ---
-title: ColorEffect
+title: ColorEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new instance.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/coloreffect/coloreffect/
 ---
-## ColorEffect::ColorEffect constructor
+## ColorEffect::ColorEffect() constructor
 
 
 Creates new instance.

@@ -1,12 +1,12 @@
 ---
-title: get_DoubleClickSize
+title: get_DoubleClickSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 157
 url: /cpp/system.windows.forms/systeminformation/get_doubleclicksize/
 ---
-## SystemInformation::get_DoubleClickSize method
+## SystemInformation::get_DoubleClickSize() method
 
 
 NOT IMPLEMENTED.

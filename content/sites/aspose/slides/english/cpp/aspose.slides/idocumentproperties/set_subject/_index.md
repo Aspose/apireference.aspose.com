@@ -1,12 +1,12 @@
 ---
-title: set_Subject
+title: set_Subject()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the subject of a presentation. Write System::String."
 type: docs
 weight: 235
 url: /cpp/aspose.slides/idocumentproperties/set_subject/
 ---
-## IDocumentProperties::set_Subject method
+## IDocumentProperties::set_Subject([System::String](../../../system/string/)) method
 
 
 Sets the subject of a presentation. Write [System::String](../../../system/string/).

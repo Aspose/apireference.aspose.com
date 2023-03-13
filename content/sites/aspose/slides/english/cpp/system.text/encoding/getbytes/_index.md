@@ -1,5 +1,5 @@
 ---
-title: GetBytes
+title: GetBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Get the bytes that result from encoding a character buffer.
 type: docs

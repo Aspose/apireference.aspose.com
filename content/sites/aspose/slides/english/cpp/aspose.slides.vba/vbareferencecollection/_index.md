@@ -19,7 +19,7 @@ class VbaReferenceCollection : public Aspose::Slides::Vba::IVbaReferenceCollecti
 
 | Method | Description |
 | --- | --- |
-| void [Add](./add/)([System::SharedPtr](../../system/sharedptr/)\<[IVbaReference](../ivbareference/)\>) override | Adds the new reference to references collection. |
+| void [Add](./add/)([System::SharedPtr](../../system/sharedptr/)\<[IVbaReference](../ivbareference/)\>) override | Adds the new reference to references collection |
 | [iterator](./iterator/) [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [const_iterator](./const_iterator/) [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [const_iterator](./const_iterator/) [cbegin](./cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |

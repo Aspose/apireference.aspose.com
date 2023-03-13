@@ -1,12 +1,12 @@
 ---
-title: HexEscape
+title: HexEscape()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts character to escaped hex form.
 type: docs
 weight: 1
 url: /cpp/system/urishim/hexescape/
 ---
-## UriShim::HexEscape method
+## UriShim::HexEscape(char16_t) method
 
 
 Converts character to escaped hex form.

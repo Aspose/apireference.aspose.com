@@ -1,7 +1,7 @@
 ---
-title: SetSuperscript
+title: SetSuperscript()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates superscript.
+description: Creates superscript
 type: docs
 weight: 79
 url: /cpp/aspose.slides.mathtext/mathelementbase/setsuperscript/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathelementbase/setsuperscript/
 ## MathElementBase::SetSuperscript([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates superscript.
+Creates superscript
 
 ```cpp
 System::SharedPtr<IMathSuperscriptElement> Aspose::Slides::MathText::MathElementBase::SetSuperscript(System::SharedPtr<IMathElement> superscript) override
@@ -47,7 +47,7 @@ auto superscript = element->SetSuperscript(index);
 ## MathElementBase::SetSuperscript([System::String](../../../system/string/)) method
 
 
-Creates superscript.
+Creates superscript
 
 ```cpp
 System::SharedPtr<IMathSuperscriptElement> Aspose::Slides::MathText::MathElementBase::SetSuperscript(System::String superscript) override

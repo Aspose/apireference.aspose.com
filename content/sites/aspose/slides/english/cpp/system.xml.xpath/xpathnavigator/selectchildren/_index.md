@@ -1,5 +1,5 @@
 ---
-title: SelectChildren
+title: SelectChildren()
 second_title: Aspose.Slides for C++ API Reference
 description: Selects all the child nodes of the current node that have the matching XPathNodeType.
 type: docs

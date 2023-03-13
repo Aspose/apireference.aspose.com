@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a property at the specified index.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/behaviorpropertycollection/idx_get/
 ---
-## BehaviorPropertyCollection::idx_get method
+## BehaviorPropertyCollection::idx_get(**int32_t**) const method
 
 
 Returns a property at the specified index.

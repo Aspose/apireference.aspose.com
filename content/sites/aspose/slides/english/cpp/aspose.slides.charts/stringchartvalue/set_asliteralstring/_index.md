@@ -1,12 +1,12 @@
 ---
-title: set_AsLiteralString
+title: set_AsLiteralString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets value as literal string. Write System::String."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/stringchartvalue/set_asliteralstring/
 ---
-## StringChartValue::set_AsLiteralString method
+## StringChartValue::set_AsLiteralString([System::String](../../../system/string/)) method
 
 
 Sets value as literal string. Write [System::String](../../../system/string/).

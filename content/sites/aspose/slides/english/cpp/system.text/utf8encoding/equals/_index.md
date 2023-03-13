@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares with object.
 type: docs
 weight: 27
 url: /cpp/system.text/utf8encoding/equals/
 ---
-## UTF8Encoding::Equals method
+## UTF8Encoding::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Compares with object.

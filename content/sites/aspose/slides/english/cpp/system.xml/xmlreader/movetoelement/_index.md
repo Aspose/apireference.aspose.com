@@ -1,12 +1,12 @@
 ---
-title: MoveToElement
+title: MoveToElement()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, moves to the element that contains the current attribute node.
 type: docs
 weight: 664
 url: /cpp/system.xml/xmlreader/movetoelement/
 ---
-## XmlReader::MoveToElement method
+## XmlReader::MoveToElement() method
 
 
 When overridden in a derived class, moves to the element that contains the current attribute node.

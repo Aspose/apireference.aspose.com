@@ -1,12 +1,12 @@
 ---
-title: get_Label
+title: get_Label()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents data label of data point level. Applied for Treemap and Sunburst sereis types. Read-only IDataLabel.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ichartdatapointlevel/get_label/
 ---
-## IChartDataPointLevel::get_Label method
+## IChartDataPointLevel::get_Label() method
 
 
 Represents data label of data point level. Applied for Treemap and Sunburst sereis types. Read-only [IDataLabel](../../idatalabel/).

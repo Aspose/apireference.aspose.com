@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets IMathElement at the specified index.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/mathblock/idx_set/
 ---
-## MathBlock::idx_set method
+## MathBlock::idx_set(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
 Sets [IMathElement](../../imathelement/) at the specified index.

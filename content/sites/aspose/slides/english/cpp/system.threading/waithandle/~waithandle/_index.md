@@ -1,12 +1,12 @@
 ---
-title: ~WaitHandle
+title: ~WaitHandle()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 40
 url: /cpp/system.threading/waithandle/~waithandle/
 ---
-## WaitHandle::~WaitHandle method
+## WaitHandle::~WaitHandle() method
 
 
 Destructor.

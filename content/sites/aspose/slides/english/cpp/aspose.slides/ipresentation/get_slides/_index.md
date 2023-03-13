@@ -1,12 +1,12 @@
 ---
-title: get_Slides
+title: get_Slides()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a list of all slides that are defined in the presentation. Read-only ISlideCollection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ipresentation/get_slides/
 ---
-## IPresentation::get_Slides method
+## IPresentation::get_Slides() method
 
 
 Returns a list of all slides that are defined in the presentation. Read-only [ISlideCollection](../../islidecollection/).

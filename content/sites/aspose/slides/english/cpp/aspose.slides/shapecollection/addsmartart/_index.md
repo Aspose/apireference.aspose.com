@@ -1,12 +1,12 @@
 ---
-title: AddSmartArt
+title: AddSmartArt()
 second_title: Aspose.Slides for C++ API Reference
 description: Add SmartArt diagram.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/shapecollection/addsmartart/
 ---
-## ShapeCollection::AddSmartArt method
+## ShapeCollection::AddSmartArt(**float**, **float**, **float**, **float**, [SmartArt::SmartArtLayoutType](../../../aspose.slides.smartart/smartartlayouttype/)) method
 
 
 Add [SmartArt](../../../aspose.slides.smartart/) diagram.

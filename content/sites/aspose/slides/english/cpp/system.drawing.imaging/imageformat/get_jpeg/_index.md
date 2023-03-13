@@ -1,12 +1,12 @@
 ---
-title: get_Jpeg
+title: get_Jpeg()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shared pointer to an ImageFormat object that represents the Joint Photographic Experts Group (JPEG) image format.
 type: docs
 weight: 118
 url: /cpp/system.drawing.imaging/imageformat/get_jpeg/
 ---
-## ImageFormat::get_Jpeg method
+## ImageFormat::get_Jpeg() method
 
 
 Returns a shared pointer to an [ImageFormat](../) object that represents the Joint Photographic Experts Group (JPEG) image format.

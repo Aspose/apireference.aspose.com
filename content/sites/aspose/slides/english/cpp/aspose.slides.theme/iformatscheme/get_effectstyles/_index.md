@@ -1,12 +1,12 @@
 ---
-title: get_EffectStyles
+title: get_EffectStyles()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of theme defined effect styles. Read-only IEffectStyleCollection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.theme/iformatscheme/get_effectstyles/
 ---
-## IFormatScheme::get_EffectStyles method
+## IFormatScheme::get_EffectStyles() method
 
 
 Returns a collection of theme defined effect styles. Read-only [IEffectStyleCollection](../../ieffectstylecollection/).

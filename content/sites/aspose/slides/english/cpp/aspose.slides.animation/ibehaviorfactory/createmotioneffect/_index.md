@@ -1,12 +1,12 @@
 ---
-title: CreateMotionEffect
+title: CreateMotionEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates motion effect.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/ibehaviorfactory/createmotioneffect/
 ---
-## IBehaviorFactory::CreateMotionEffect method
+## IBehaviorFactory::CreateMotionEffect() method
 
 
 Creates motion effect.

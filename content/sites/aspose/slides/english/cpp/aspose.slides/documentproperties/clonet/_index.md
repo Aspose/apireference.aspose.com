@@ -1,15 +1,15 @@
 ---
-title: CloneT
+title: CloneT()
 second_title: Aspose.Slides for C++ API Reference
-description: Clones current object.
+description: Clones current object
 type: docs
 weight: 716
 url: /cpp/aspose.slides/documentproperties/clonet/
 ---
-## DocumentProperties::CloneT method
+## DocumentProperties::CloneT() method
 
 
-Clones current object.
+Clones current object
 
 ```cpp
 System::SharedPtr<IDocumentProperties> Aspose::Slides::DocumentProperties::CloneT() override

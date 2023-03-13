@@ -1,5 +1,5 @@
 ---
-title: Substring
+title: Substring()
 second_title: Aspose.Slides for C++ API Reference
 description: Extracts substring.
 type: docs

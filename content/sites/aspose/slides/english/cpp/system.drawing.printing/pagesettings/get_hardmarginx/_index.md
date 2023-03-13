@@ -1,12 +1,12 @@
 ---
-title: get_HardMarginX
+title: get_HardMarginX()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 27
 url: /cpp/system.drawing.printing/pagesettings/get_hardmarginx/
 ---
-## PageSettings::get_HardMarginX method
+## PageSettings::get_HardMarginX() method
 
 
 NOT IMPLEMENTED.

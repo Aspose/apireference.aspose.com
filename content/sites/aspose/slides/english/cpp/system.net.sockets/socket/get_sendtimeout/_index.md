@@ -1,12 +1,12 @@
 ---
-title: get_SendTimeout
+title: get_SendTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a period after which a 'Send' call will time out.
 type: docs
 weight: 274
 url: /cpp/system.net.sockets/socket/get_sendtimeout/
 ---
-## Socket::get_SendTimeout method
+## Socket::get_SendTimeout() method
 
 
 Gets a period after which a 'Send' call will time out.

@@ -1,12 +1,12 @@
 ---
-title: AppendAllText
+title: AppendAllText()
 second_title: Aspose.Slides for C++ API Reference
 description: Appends the specified string to the specified file using the specified encoding.
 type: docs
 weight: 14
 url: /cpp/system.io/file/appendalltext/
 ---
-## File::AppendAllText method
+## File::AppendAllText(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [EncodingPtr](../../../system/encodingptr/)\&) method
 
 
 Appends the specified string to the specified file using the specified encoding.

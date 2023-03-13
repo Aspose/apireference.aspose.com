@@ -1,12 +1,12 @@
 ---
-title: PopScope
+title: PopScope()
 second_title: Aspose.Slides for C++ API Reference
 description: Pops a namespace scope off the stack.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlnamespacemanager/popscope/
 ---
-## XmlNamespaceManager::PopScope method
+## XmlNamespaceManager::PopScope() method
 
 
 Pops a namespace scope off the stack.

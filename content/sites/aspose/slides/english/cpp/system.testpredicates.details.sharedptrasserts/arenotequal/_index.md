@@ -1,12 +1,12 @@
 ---
-title: AreNotEqual
+title: AreNotEqual()
 second_title: Aspose.Slides for C++ API Reference
 description: Not-equal-compares arguments for AreNotEqual assertion translation.
 type: docs
 weight: 131
 url: /cpp/system.testpredicates.details.sharedptrasserts/arenotequal/
 ---
-## System::TestPredicates::Details::SharedPtrAsserts::AreNotEqual function
+## System::TestPredicates::Details::SharedPtrAsserts::AreNotEqual(const char *, const char *, const T1\&, const T2\&) function
 
 
 Not-equal-compares arguments for AreNotEqual assertion translation.

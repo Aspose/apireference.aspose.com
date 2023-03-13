@@ -1,12 +1,12 @@
 ---
-title: GetTabStops
+title: GetTabStops()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the tab stops for the current StringFormat object.
 type: docs
 weight: 118
 url: /cpp/system.drawing/stringformat/gettabstops/
 ---
-## StringFormat::GetTabStops method
+## StringFormat::GetTabStops(**float**\&) const method
 
 
 Returns the tab stops for the current [StringFormat](../) object.

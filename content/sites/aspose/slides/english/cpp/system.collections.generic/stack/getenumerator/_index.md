@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator to iterate through current stack.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/stack/getenumerator/
 ---
-## Stack::GetEnumerator method
+## Stack::GetEnumerator() method
 
 
 Gets enumerator to iterate through current stack.

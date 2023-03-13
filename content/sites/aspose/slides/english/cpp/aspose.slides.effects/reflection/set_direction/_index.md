@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of reflection. Write float.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.effects/reflection/set_direction/
 ---
-## Reflection::set_Direction method
+## Reflection::set_Direction(**float**) method
 
 
 Direction of reflection. Write **float**.

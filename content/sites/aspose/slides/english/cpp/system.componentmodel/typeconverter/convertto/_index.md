@@ -1,5 +1,5 @@
 ---
-title: ConvertTo
+title: ConvertTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts object to specific type.
 type: docs

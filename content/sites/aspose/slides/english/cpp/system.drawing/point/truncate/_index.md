@@ -1,12 +1,12 @@
 ---
-title: Truncate
+title: Truncate()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a Point object from the specified PointF object by truncating the PointF object's X and Y coordinates values to the next lower integer values.
 type: docs
 weight: 222
 url: /cpp/system.drawing/point/truncate/
 ---
-## Point::Truncate method
+## Point::Truncate(const [PointF](../../pointf/)\&) method
 
 
 Constructs a [Point](../) object from the specified [PointF](../../pointf/) object by truncating the [PointF](../../pointf/) object's X and Y coordinates values to the next lower integer values.

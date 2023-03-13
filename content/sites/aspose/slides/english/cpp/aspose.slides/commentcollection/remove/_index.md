@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of the specified comment in a collection.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/commentcollection/remove/
 ---
-## CommentCollection::Remove method
+## CommentCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IComment](../../icomment/)\>) method
 
 
 Removes the first occurrence of the specified comment in a collection.

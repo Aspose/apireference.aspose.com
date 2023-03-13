@@ -1,12 +1,12 @@
 ---
-title: operator bool
+title: operator bool()
 second_title: Aspose.Slides for C++ API Reference
 description: Always returns true.
 type: docs
 weight: 131
 url: /cpp/system.drawing/pointf/operator_bool/
 ---
-## PointF::operator bool method
+## PointF::operator bool() method
 
 
 Always returns true.

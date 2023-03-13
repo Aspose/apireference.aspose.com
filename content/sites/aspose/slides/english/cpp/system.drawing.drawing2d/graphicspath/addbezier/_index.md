@@ -1,5 +1,5 @@
 ---
-title: AddBezier
+title: AddBezier()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified cubic Bezier curve to the path represented by the current object.
 type: docs

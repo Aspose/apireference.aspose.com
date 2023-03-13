@@ -1,12 +1,12 @@
 ---
-title: get_Color
+title: get_Color()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the color of a bullet. Read-only System::Drawing::Color."
 type: docs
 weight: 92
 url: /cpp/aspose.slides/ibulletformateffectivedata/get_color/
 ---
-## IBulletFormatEffectiveData::get_Color method
+## IBulletFormatEffectiveData::get_Color() method
 
 
 Returns the color of a bullet. Read-only [System::Drawing::Color](../../../system.drawing/color/).

@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Value. Read-only IDoubleChartValue.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/chartdatapoint/get_value/
 ---
-## ChartDataPoint::get_Value method
+## ChartDataPoint::get_Value() method
 
 
 Value. Read-only [IDoubleChartValue](../../idoublechartvalue/).

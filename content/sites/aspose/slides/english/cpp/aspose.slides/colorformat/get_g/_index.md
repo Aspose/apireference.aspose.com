@@ -1,12 +1,12 @@
 ---
-title: get_G
+title: get_G()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the green component of a color. All color transformations are ignored.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/colorformat/get_g/
 ---
-## ColorFormat::get_G method
+## ColorFormat::get_G() method
 
 
 Returns the green component of a color. All color transformations are ignored.

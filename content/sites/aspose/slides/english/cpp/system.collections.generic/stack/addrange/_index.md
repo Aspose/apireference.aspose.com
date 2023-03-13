@@ -1,12 +1,12 @@
 ---
-title: AddRange
+title: AddRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Puts elements into stack.
 type: docs
 weight: 131
 url: /cpp/system.collections.generic/stack/addrange/
 ---
-## Stack::AddRange method
+## Stack::AddRange([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Puts elements into stack.

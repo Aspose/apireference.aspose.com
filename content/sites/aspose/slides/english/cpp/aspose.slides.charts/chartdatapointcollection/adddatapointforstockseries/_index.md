@@ -1,5 +1,5 @@
 ---
-title: AddDataPointForStockSeries
+title: AddDataPointForStockSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: "Creates the new data point and adds it to the end of collection. Applicable for series which chartType is one of Stock subtypes (see also ChartTypeCharacterizer::IsChartTypeStock(ChartType) method)."
 type: docs

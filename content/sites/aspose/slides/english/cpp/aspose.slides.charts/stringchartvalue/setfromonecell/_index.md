@@ -1,12 +1,12 @@
 ---
-title: SetFromOneCell
+title: SetFromOneCell()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets value from specified cell.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/stringchartvalue/setfromonecell/
 ---
-## StringChartValue::SetFromOneCell method
+## StringChartValue::SetFromOneCell([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataCell](../../ichartdatacell/)\>) method
 
 
 Sets value from specified cell.

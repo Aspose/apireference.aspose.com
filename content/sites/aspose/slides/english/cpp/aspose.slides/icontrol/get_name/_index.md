@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the name of this control. Read System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides/icontrol/get_name/
 ---
-## IControl::get_Name method
+## IControl::get_Name() method
 
 
 Returns the name of this control. Read [System::String](../../../system/string/).

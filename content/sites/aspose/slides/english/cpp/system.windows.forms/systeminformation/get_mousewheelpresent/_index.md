@@ -1,12 +1,12 @@
 ---
-title: get_MouseWheelPresent
+title: get_MouseWheelPresent()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 911
 url: /cpp/system.windows.forms/systeminformation/get_mousewheelpresent/
 ---
-## SystemInformation::get_MouseWheelPresent method
+## SystemInformation::get_MouseWheelPresent() method
 
 
 NOT IMPLEMENTED.

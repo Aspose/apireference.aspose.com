@@ -1,12 +1,12 @@
 ---
-title: SetEmbeddedData
+title: SetEmbeddedData()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets information about OLE embedded data.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/ioleobjectframe/setembeddeddata/
 ---
-## IOleObjectFrame::SetEmbeddedData method
+## IOleObjectFrame::SetEmbeddedData([System::SharedPtr](../../../system/sharedptr/)\<[IOleEmbeddedDataInfo](../../ioleembeddeddatainfo/)\>) method
 
 
 Sets information about OLE embedded data.

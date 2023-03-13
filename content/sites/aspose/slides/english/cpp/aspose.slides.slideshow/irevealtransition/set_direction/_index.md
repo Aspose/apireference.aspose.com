@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of transition. Write TransitionLeftRightDirectionType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/irevealtransition/set_direction/
 ---
-## IRevealTransition::set_Direction method
+## IRevealTransition::set_Direction([TransitionLeftRightDirectionType](../../transitionleftrightdirectiontype/)) method
 
 
 Direction of transition. Write [TransitionLeftRightDirectionType](../../transitionleftrightdirectiontype/).

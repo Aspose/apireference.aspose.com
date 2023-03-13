@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httpheaders/contains/
 ---
-## HttpHeaders::Contains method
+## HttpHeaders::Contains([String](../../../system/string/)) method
 
 
 

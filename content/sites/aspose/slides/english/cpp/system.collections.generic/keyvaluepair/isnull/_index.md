@@ -1,12 +1,12 @@
 ---
-title: IsNull
+title: IsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Always returns false.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/keyvaluepair/isnull/
 ---
-## KeyValuePair::IsNull method
+## KeyValuePair::IsNull() const method
 
 
 Always returns false.

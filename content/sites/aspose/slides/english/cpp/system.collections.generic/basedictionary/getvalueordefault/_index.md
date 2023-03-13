@@ -1,5 +1,5 @@
 ---
-title: GetValueOrDefault
+title: GetValueOrDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns value if found; or Value() otherwise.
 type: docs

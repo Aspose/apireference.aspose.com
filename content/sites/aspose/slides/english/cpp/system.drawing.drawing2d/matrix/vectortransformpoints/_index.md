@@ -1,5 +1,5 @@
 ---
-title: VectorTransformPoints
+title: VectorTransformPoints()
 second_title: Aspose.Slides for C++ API Reference
 description: Multiplies each vector in an array by the matrix represented by the current object.
 type: docs

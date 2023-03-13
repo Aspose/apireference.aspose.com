@@ -1,12 +1,12 @@
 ---
-title: get_RawFormat
+title: get_RawFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the file format of the image represented by the current object.
 type: docs
 weight: 40
 url: /cpp/system.drawing/bitmap/get_rawformat/
 ---
-## Bitmap::get_RawFormat method
+## Bitmap::get_RawFormat() const method
 
 
 Returns the file format of the image represented by the current object.

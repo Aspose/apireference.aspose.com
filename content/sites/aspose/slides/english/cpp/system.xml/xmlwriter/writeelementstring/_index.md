@@ -1,5 +1,5 @@
 ---
-title: WriteElementString
+title: WriteElementString()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes an element with the specified local name and value.
 type: docs

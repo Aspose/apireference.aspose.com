@@ -1,5 +1,5 @@
 ---
-title: GetNextTextElement
+title: GetNextTextElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets first element in the specified string.
 type: docs

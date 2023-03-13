@@ -1,12 +1,12 @@
 ---
-title: get_StyleIndex
+title: get_StyleIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an index of BackgroundType::Themed fill in background theme collection. 0 means no fill. 1..999 - index. Read uint16_t."
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ibackground/get_styleindex/
 ---
-## IBackground::get_StyleIndex method
+## IBackground::get_StyleIndex() method
 
 
 Returns an index of [BackgroundType::Themed](../../backgroundtype/) fill in background theme collection. 0 means no fill. 1..999 - index. Read **uint16_t**.

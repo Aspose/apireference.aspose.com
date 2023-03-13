@@ -1,5 +1,5 @@
 ---
-title: ToDouble
+title: ToDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified boolean value to an equivalent double-precision floating-point number.
 type: docs

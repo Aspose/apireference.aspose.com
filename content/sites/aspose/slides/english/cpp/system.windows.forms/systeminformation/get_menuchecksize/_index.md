@@ -1,12 +1,12 @@
 ---
-title: get_MenuCheckSize
+title: get_MenuCheckSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 690
 url: /cpp/system.windows.forms/systeminformation/get_menuchecksize/
 ---
-## SystemInformation::get_MenuCheckSize method
+## SystemInformation::get_MenuCheckSize() method
 
 
 NOT IMPLEMENTED.

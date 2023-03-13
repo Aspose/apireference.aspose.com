@@ -1,12 +1,12 @@
 ---
-title: ElapsedEventArgs
+title: ElapsedEventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs arguments object with given parameters.
 type: docs
 weight: 1
 url: /cpp/system.timers/elapsedeventargs/elapsedeventargs/
 ---
-## ElapsedEventArgs::ElapsedEventArgs constructor
+## ElapsedEventArgs::ElapsedEventArgs(**int32_t**, **int32_t**) constructor
 
 
 Constructs arguments object with given parameters.

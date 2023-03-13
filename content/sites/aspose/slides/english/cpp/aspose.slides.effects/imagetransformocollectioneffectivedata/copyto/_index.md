@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies all elements from the collection into the specified array.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.effects/imagetransformocollectioneffectivedata/copyto/
 ---
-## ImageTransformOCollectionEffectiveData::CopyTo method
+## ImageTransformOCollectionEffectiveData::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IEffectEffectiveData](../../ieffecteffectivedata/)\>\>, **int32_t**) method
 
 
 Copies all elements from the collection into the specified array.

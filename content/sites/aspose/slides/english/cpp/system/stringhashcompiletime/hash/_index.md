@@ -1,12 +1,12 @@
 ---
-title: Hash
+title: Hash()
 second_title: Aspose.Slides for C++ API Reference
 description: Generates a hash value from the specified c-string of the specified length.
 type: docs
 weight: 1
 url: /cpp/system/stringhashcompiletime/hash/
 ---
-## StringHashCompiletime::Hash method
+## StringHashCompiletime::Hash(**uint32_t**\&, int, const char_t *) method
 
 
 Generates a hash value from the specified c-string of the specified length.

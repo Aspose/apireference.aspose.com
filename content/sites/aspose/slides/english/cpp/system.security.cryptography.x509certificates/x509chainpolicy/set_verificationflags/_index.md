@@ -1,12 +1,12 @@
 ---
-title: set_VerificationFlags
+title: set_VerificationFlags()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/set_verificationflags/
 ---
-## X509ChainPolicy::set_VerificationFlags method
+## X509ChainPolicy::set_VerificationFlags([X509VerificationFlags](../../x509verificationflags/)) method
 
 
 

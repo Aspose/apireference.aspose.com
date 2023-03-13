@@ -1,12 +1,12 @@
 ---
-title: get_Ttl
+title: get_Ttl()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the TTL value.
 type: docs
 weight: 352
 url: /cpp/system.net.sockets/socket/get_ttl/
 ---
-## Socket::get_Ttl method
+## Socket::get_Ttl() method
 
 
 Gets the TTL value.

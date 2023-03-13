@@ -1,12 +1,12 @@
 ---
-title: EventArgs
+title: EventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system/eventargs/eventargs/
 ---
-## EventArgs::EventArgs constructor
+## EventArgs::EventArgs() constructor
 
 
 Constructor.

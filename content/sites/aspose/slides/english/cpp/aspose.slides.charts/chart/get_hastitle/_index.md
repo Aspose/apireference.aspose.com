@@ -1,12 +1,12 @@
 ---
-title: get_HasTitle
+title: get_HasTitle()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a chart has a visible title. Read bool.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/chart/get_hastitle/
 ---
-## Chart::get_HasTitle method
+## Chart::get_HasTitle() method
 
 
 Determines whether a chart has a visible title. Read **bool**.

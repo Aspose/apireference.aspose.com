@@ -1,12 +1,12 @@
 ---
-title: get_Items
+title: get_Items()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of XmlSchemaElement elements contained within the all compositor.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaall/get_items/
 ---
-## XmlSchemaAll::get_Items method
+## XmlSchemaAll::get_Items() method
 
 
 Returns the collection of [XmlSchemaElement](../../xmlschemaelement/) elements contained within the **all** compositor.

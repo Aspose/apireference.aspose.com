@@ -1,12 +1,12 @@
 ---
-title: set_Credentials
+title: set_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets authentication information that is associated with the current request.
 type: docs
 weight: 196
 url: /cpp/system.net/httpwebrequest/set_credentials/
 ---
-## HttpWebRequest::set_Credentials method
+## HttpWebRequest::set_Credentials([System::SharedPtr](../../../system/sharedptr/)\<[ICredentials](../../icredentials/)\>) method
 
 
 Sets authentication information that is associated with the current request.

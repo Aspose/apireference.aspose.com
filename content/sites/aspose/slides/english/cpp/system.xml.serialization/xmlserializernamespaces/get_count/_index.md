@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of prefix and namespace pairs in the collection.
 type: docs
 weight: 1
 url: /cpp/system.xml.serialization/xmlserializernamespaces/get_count/
 ---
-## XmlSerializerNamespaces::get_Count method
+## XmlSerializerNamespaces::get_Count() method
 
 
 Returns the number of prefix and namespace pairs in the collection.

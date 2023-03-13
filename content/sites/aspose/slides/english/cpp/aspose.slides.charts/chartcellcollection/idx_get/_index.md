@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a cell (IChartDataCell) by index.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/chartcellcollection/idx_get/
 ---
-## ChartCellCollection::idx_get method
+## ChartCellCollection::idx_get(**int32_t**) method
 
 
 Returns a cell ([IChartDataCell](../../ichartdatacell/)) by index.

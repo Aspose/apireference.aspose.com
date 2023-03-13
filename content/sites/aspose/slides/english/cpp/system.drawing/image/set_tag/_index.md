@@ -1,12 +1,12 @@
 ---
-title: set_Tag
+title: set_Tag()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets an object that provides additional data about the image.
 type: docs
 weight: 170
 url: /cpp/system.drawing/image/set_tag/
 ---
-## Image::set_Tag method
+## Image::set_Tag(const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Sets an object that provides additional data about the image.

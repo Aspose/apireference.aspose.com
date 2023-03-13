@@ -1,12 +1,12 @@
 ---
-title: AddKnownHeaders
+title: AddKnownHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the known headers to the specified collection.
 type: docs
 weight: 625
 url: /cpp/system.net.http.headers/httprequestheaders/addknownheaders/
 ---
-## HttpRequestHeaders::AddKnownHeaders method
+## HttpRequestHeaders::AddKnownHeaders([System::SharedPtr](../../../system/sharedptr/)\<[Collections::Generic::HashSet](../../../system.collections.generic/hashset/)\<[String](../../../system/string/)\>\>) method
 
 
 Adds the known headers to the specified collection.

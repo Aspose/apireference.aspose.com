@@ -1,12 +1,12 @@
 ---
-title: get_ParentSlide
+title: get_ParentSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a ParentSlide Read-only ISlide.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/inotesslide/get_parentslide/
 ---
-## INotesSlide::get_ParentSlide method
+## INotesSlide::get_ParentSlide() method
 
 
 Returns a ParentSlide Read-only [ISlide](../../islide/).

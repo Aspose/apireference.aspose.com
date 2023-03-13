@@ -1,12 +1,12 @@
 ---
-title: get_PictureType
+title: get_PictureType()
 second_title: Aspose.Slides for C++ API Reference
 description: Return or sets the picture type. Read PictureType.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ichartwall/get_picturetype/
 ---
-## IChartWall::get_PictureType method
+## IChartWall::get_PictureType() method
 
 
 Return or sets the picture type. Read [PictureType](../../picturetype/).

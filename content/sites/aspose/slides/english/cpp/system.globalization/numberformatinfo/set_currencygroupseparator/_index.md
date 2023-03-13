@@ -1,12 +1,12 @@
 ---
-title: set_CurrencyGroupSeparator
+title: set_CurrencyGroupSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets currency group separator.
 type: docs
 weight: 261
 url: /cpp/system.globalization/numberformatinfo/set_currencygroupseparator/
 ---
-## NumberFormatInfo::set_CurrencyGroupSeparator method
+## NumberFormatInfo::set_CurrencyGroupSeparator(const [String](../../../system/string/)\&) method
 
 
 Sets currency group separator.

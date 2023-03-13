@@ -1,12 +1,12 @@
 ---
-title: set_XmlResolver
+title: set_XmlResolver()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the XmlResolver used to resolve external resources when the XslTransform::Transform method is called."
 type: docs
 weight: 1
 url: /cpp/system.xml.xsl/xsltransform/set_xmlresolver/
 ---
-## XslTransform::set_XmlResolver method
+## XslTransform::set_XmlResolver(const [SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../../system.xml/xmlresolver/)\>\&) method
 
 
 Sets the [XmlResolver](../../../system.xml/xmlresolver/) used to resolve external resources when the [XslTransform::Transform](../transform/) method is called.

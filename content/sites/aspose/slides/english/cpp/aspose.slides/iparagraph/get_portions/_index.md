@@ -1,12 +1,12 @@
 ---
-title: get_Portions
+title: get_Portions()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of a text portions. Read-only IPortionCollection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iparagraph/get_portions/
 ---
-## IParagraph::get_Portions method
+## IParagraph::get_Portions() method
 
 
 Returns the collection of a text portions. Read-only [IPortionCollection](../../iportioncollection/).

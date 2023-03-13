@@ -1,12 +1,12 @@
 ---
-title: GetName
+title: GetName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the specified header.
 type: docs
 weight: 1
 url: /cpp/system.net/httprequestheaderextensions/getname/
 ---
-## HttpRequestHeaderExtensions::GetName method
+## HttpRequestHeaderExtensions::GetName([HttpRequestHeader](../../httprequestheader/)) method
 
 
 Returns the string representation of the specified header.

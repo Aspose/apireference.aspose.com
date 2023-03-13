@@ -1,12 +1,12 @@
 ---
-title: get_LightGoldenrodYellow
+title: get_LightGoldenrodYellow()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFAFAD2.
 type: docs
 weight: 872
 url: /cpp/system.drawing/pens/get_lightgoldenrodyellow/
 ---
-## Pens::get_LightGoldenrodYellow method
+## Pens::get_LightGoldenrodYellow() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFAFAD2.

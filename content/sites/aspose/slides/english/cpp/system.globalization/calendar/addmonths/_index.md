@@ -1,12 +1,12 @@
 ---
-title: AddMonths
+title: AddMonths()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds months to time point.
 type: docs
 weight: 131
 url: /cpp/system.globalization/calendar/addmonths/
 ---
-## Calendar::AddMonths method
+## Calendar::AddMonths([DateTime](../../../system/datetime/), int) const method
 
 
 Adds months to time point.

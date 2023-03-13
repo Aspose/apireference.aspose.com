@@ -1,12 +1,12 @@
 ---
-title: get_TE
+title: get_TE()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'TE' header.
 type: docs
 weight: 378
 url: /cpp/system.net.http.headers/httprequestheaders/get_te/
 ---
-## HttpRequestHeaders::get_TE method
+## HttpRequestHeaders::get_TE() method
 
 
 Returns a value of the 'TE' header.

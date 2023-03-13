@@ -1,12 +1,12 @@
 ---
-title: get_Label
+title: get_Label()
 second_title: Aspose.Slides for C++ API Reference
 description: Label. Read-only IDataLabel.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/chartdatapoint/get_label/
 ---
-## ChartDataPoint::get_Label method
+## ChartDataPoint::get_Label() method
 
 
 Label. Read-only [IDataLabel](../../idatalabel/).

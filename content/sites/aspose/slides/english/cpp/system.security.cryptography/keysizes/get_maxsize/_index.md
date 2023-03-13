@@ -1,12 +1,12 @@
 ---
-title: get_MaxSize
+title: get_MaxSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets maximal valid key size.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/keysizes/get_maxsize/
 ---
-## KeySizes::get_MaxSize method
+## KeySizes::get_MaxSize() const method
 
 
 Gets maximal valid key size.

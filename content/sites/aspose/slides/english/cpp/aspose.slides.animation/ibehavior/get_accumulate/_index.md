@@ -1,12 +1,12 @@
 ---
-title: get_Accumulate
+title: get_Accumulate()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents whether animation behaviors are accumulated. Read NullableBool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.animation/ibehavior/get_accumulate/
 ---
-## IBehavior::get_Accumulate method
+## IBehavior::get_Accumulate() method
 
 
 Represents whether animation behaviors are accumulated. Read [NullableBool](../../../aspose.slides/nullablebool/).

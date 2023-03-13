@@ -1,12 +1,12 @@
 ---
-title: GetConcatenatedValuesFromCells
+title: GetConcatenatedValuesFromCells()
 second_title: Aspose.Slides for C++ API Reference
 description: Concatenation string from all cells string values.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/ichartcellcollection/getconcatenatedvaluesfromcells/
 ---
-## IChartCellCollection::GetConcatenatedValuesFromCells method
+## IChartCellCollection::GetConcatenatedValuesFromCells() method
 
 
 Concatenation string from all cells string values.

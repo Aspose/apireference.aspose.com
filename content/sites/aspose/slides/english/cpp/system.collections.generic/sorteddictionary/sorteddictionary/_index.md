@@ -1,5 +1,5 @@
 ---
-title: SortedDictionary
+title: SortedDictionary()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs empty dictionary.
 type: docs

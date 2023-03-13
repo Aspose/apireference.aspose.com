@@ -1,12 +1,12 @@
 ---
-title: get_NewParent
+title: get_NewParent()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the value of the XmlNode::get_ParentNode after the operation completes."
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlnodechangedeventargs/get_newparent/
 ---
-## XmlNodeChangedEventArgs::get_NewParent method
+## XmlNodeChangedEventArgs::get_NewParent() method
 
 
 Returns the value of the [XmlNode::get_ParentNode](../../xmlnode/get_parentnode/) after the operation completes.

@@ -1,12 +1,12 @@
 ---
-title: set_SchemaLocation
+title: set_SchemaLocation()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the Uniform Resource Identifier (URI) location for the schema, which tells the schema processor where the schema physically resides.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaexternal/set_schemalocation/
 ---
-## XmlSchemaExternal::set_SchemaLocation method
+## XmlSchemaExternal::set_SchemaLocation(const [String](../../../system/string/)\&) method
 
 
 Sets the Uniform Resource Identifier (URI) location for the schema, which tells the schema processor where the schema physically resides.

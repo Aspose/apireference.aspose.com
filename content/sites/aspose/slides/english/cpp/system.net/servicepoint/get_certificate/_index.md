@@ -1,12 +1,12 @@
 ---
-title: get_Certificate
+title: get_Certificate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a certificate that is used by the current instance.
 type: docs
 weight: 248
 url: /cpp/system.net/servicepoint/get_certificate/
 ---
-## ServicePoint::get_Certificate method
+## ServicePoint::get_Certificate() method
 
 
 Returns a certificate that is used by the current instance.

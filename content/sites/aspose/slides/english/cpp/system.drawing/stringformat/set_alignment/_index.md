@@ -1,12 +1,12 @@
 ---
-title: set_Alignment
+title: set_Alignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets horizontal alignment of the string.
 type: docs
 weight: 53
 url: /cpp/system.drawing/stringformat/set_alignment/
 ---
-## StringFormat::set_Alignment method
+## StringFormat::set_Alignment([StringAlignment](../../stringalignment/)) method
 
 
 Sets horizontal alignment of the string.

@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the XML Web service's name.
 type: docs
 weight: 27
 url: /cpp/system.web.services/webserviceattribute/get_name/
 ---
-## WebServiceAttribute::get_Name method
+## WebServiceAttribute::get_Name() method
 
 
 Gets the XML [Web](../../../system.web/) service's name.

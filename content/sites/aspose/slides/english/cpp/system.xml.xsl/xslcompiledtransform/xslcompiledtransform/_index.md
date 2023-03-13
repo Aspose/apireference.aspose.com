@@ -1,12 +1,12 @@
 ---
-title: XslCompiledTransform
+title: XslCompiledTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XslCompiledTransform class.
 type: docs
 weight: 14
 url: /cpp/system.xml.xsl/xslcompiledtransform/xslcompiledtransform/
 ---
-## XslCompiledTransform::XslCompiledTransform constructor
+## XslCompiledTransform::XslCompiledTransform() constructor
 
 
 Initializes a new instance of the [XslCompiledTransform](../) class.

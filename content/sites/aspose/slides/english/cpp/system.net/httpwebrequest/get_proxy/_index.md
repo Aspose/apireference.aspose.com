@@ -1,12 +1,12 @@
 ---
-title: get_Proxy
+title: get_Proxy()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the HTTP proxy.
 type: docs
 weight: 326
 url: /cpp/system.net/httpwebrequest/get_proxy/
 ---
-## HttpWebRequest::get_Proxy method
+## HttpWebRequest::get_Proxy() method
 
 
 Gets the HTTP proxy.

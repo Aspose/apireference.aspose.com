@@ -1,12 +1,12 @@
 ---
-title: set_ConnectionString
+title: set_ConnectionString()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets connection information (e. g. server and port).
 type: docs
 weight: 14
 url: /cpp/system.data.common/dbconnection/set_connectionstring/
 ---
-## DbConnection::set_ConnectionString method
+## DbConnection::set_ConnectionString([String](../../../system/string/)) const method
 
 
 Sets connection information (e. g. server and port).

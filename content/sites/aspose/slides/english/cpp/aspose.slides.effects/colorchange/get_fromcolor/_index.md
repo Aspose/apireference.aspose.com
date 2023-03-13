@@ -1,12 +1,12 @@
 ---
-title: get_FromColor
+title: get_FromColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Color which will be replaced. Read-only IColorFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/colorchange/get_fromcolor/
 ---
-## ColorChange::get_FromColor method
+## ColorChange::get_FromColor() method
 
 
 Color which will be replaced. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

@@ -1,12 +1,12 @@
 ---
-title: GetNameValueListLength
+title: GetNameValueListLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified index to the collection of the NameValueHeaderValue-class instances and returns the length of a parsed substring.
 type: docs
 weight: 131
 url: /cpp/system.net.http.headers/namevalueheadervalue/getnamevaluelistlength/
 ---
-## NameValueHeaderValue::GetNameValueListLength method
+## NameValueHeaderValue::GetNameValueListLength([String](../../../system/string/), **int32_t**, char16_t, [System::SharedPtr](../../../system/sharedptr/)\<[ObjectCollection](../../objectcollection/)\<[System::SharedPtr](../../../system/sharedptr/)\<[NameValueHeaderValue](../)\>\>\>) method
 
 
 Converts a passed string from the specified index to the collection of the NameValueHeaderValue-class instances and returns the length of a parsed substring.

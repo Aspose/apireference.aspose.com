@@ -1,12 +1,12 @@
 ---
-title: UnescapeDataString
+title: UnescapeDataString()
 second_title: Aspose.Slides for C++ API Reference
 description: Unescapes the specified escaped string.
 type: docs
 weight: 547
 url: /cpp/system/uri/unescapedatastring/
 ---
-## Uri::UnescapeDataString method
+## Uri::UnescapeDataString(const [String](../../string/)\&) method
 
 
 Unescapes the specified escaped string.

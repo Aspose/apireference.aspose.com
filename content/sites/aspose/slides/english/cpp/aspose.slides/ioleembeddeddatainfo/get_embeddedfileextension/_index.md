@@ -1,12 +1,12 @@
 ---
-title: get_EmbeddedFileExtension
+title: get_EmbeddedFileExtension()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the file extension for the current embedded OLE object Read only System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ioleembeddeddatainfo/get_embeddedfileextension/
 ---
-## IOleEmbeddedDataInfo::get_EmbeddedFileExtension method
+## IOleEmbeddedDataInfo::get_EmbeddedFileExtension() method
 
 
 Returns the file extension for the current embedded OLE object Read only [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: GetComponents
+title: GetComponents()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the specified components of the URI represented by the current object using the specified escaping.
 type: docs
 weight: 378
 url: /cpp/system/uri/getcomponents/
 ---
-## Uri::GetComponents method
+## Uri::GetComponents([UriComponents](../../uricomponents/), [UriFormat](../../uriformat/)) const method
 
 
 Returns the specified components of the URI represented by the current object using the specified escaping.

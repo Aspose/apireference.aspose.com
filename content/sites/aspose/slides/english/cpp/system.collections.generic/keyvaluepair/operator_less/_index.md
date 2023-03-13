@@ -1,12 +1,12 @@
 ---
-title: operator<
+title: operator<()
 second_title: Aspose.Slides for C++ API Reference
 description: Patch for classes inherited from IComparer<KeyValuePair<TKey, TValue>>, doesn't compare anything.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/keyvaluepair/operator_less/
 ---
-## KeyValuePair::operator< method
+## KeyValuePair::operator<(const [KeyValuePair](../)\&) const method
 
 
 Patch for classes inherited from IComparer<KeyValuePair<TKey, TValue>>, doesn't compare anything.

@@ -1,12 +1,12 @@
 ---
-title: get_ShowTopPane
+title: get_ShowTopPane()
 second_title: Aspose.Slides for C++ API Reference
 description: Show/hide whole top pane. Can be overridden in flashvars. Default is true.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.export/iswfoptions/get_showtoppane/
 ---
-## ISwfOptions::get_ShowTopPane method
+## ISwfOptions::get_ShowTopPane() method
 
 
 Show/hide whole top pane. Can be overridden in flashvars. Default is true.

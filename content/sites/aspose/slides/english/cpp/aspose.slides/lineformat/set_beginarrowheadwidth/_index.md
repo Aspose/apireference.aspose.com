@@ -1,12 +1,12 @@
 ---
-title: set_BeginArrowheadWidth
+title: set_BeginArrowheadWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the arrowhead width at the beginning of a line. Write LineArrowheadWidth.
 type: docs
 weight: 313
 url: /cpp/aspose.slides/lineformat/set_beginarrowheadwidth/
 ---
-## LineFormat::set_BeginArrowheadWidth method
+## LineFormat::set_BeginArrowheadWidth([LineArrowheadWidth](../../linearrowheadwidth/)) method
 
 
 Sets the arrowhead width at the beginning of a line. Write [LineArrowheadWidth](../../linearrowheadwidth/).

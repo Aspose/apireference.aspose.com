@@ -1,12 +1,12 @@
 ---
-title: set_ShowLeaderLines
+title: set_ShowLeaderLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a specified chart's data label leader lines display behavior. True displays the leader lines. False to hide. Write bool.
 type: docs
 weight: 261
 url: /cpp/aspose.slides.charts/datalabelformat/set_showleaderlines/
 ---
-## DataLabelFormat::set_ShowLeaderLines method
+## DataLabelFormat::set_ShowLeaderLines(**bool**) method
 
 
 Represents a specified chart's data label leader lines display behavior. True displays the leader lines. False to hide. Write **bool**.

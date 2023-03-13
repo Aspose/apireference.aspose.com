@@ -1,12 +1,12 @@
 ---
-title: get_Uri
+title: get_Uri()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.xml/reference/get_uri/
 ---
-## Reference::get_Uri method
+## Reference::get_Uri() method
 
 
 

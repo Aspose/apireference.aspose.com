@@ -1,12 +1,12 @@
 ---
-title: ThaiBuddhistCalendar
+title: ThaiBuddhistCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.globalization/thaibuddhistcalendar/thaibuddhistcalendar/
 ---
-## ThaiBuddhistCalendar::ThaiBuddhistCalendar constructor
+## ThaiBuddhistCalendar::ThaiBuddhistCalendar() constructor
 
 
 Constructor.

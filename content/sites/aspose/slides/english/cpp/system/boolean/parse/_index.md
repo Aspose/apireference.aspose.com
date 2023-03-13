@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified string to a value of bool type.
 type: docs
 weight: 1
 url: /cpp/system/boolean/parse/
 ---
-## Boolean::Parse method
+## Boolean::Parse(const [String](../../string/)\&) method
 
 
 Converts the specified string to a value of bool type.

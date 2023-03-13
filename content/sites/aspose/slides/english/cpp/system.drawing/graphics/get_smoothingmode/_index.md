@@ -1,12 +1,12 @@
 ---
-title: get_SmoothingMode
+title: get_SmoothingMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates a soothing mode used during rendering on the surface represented by the current object.
 type: docs
 weight: 144
 url: /cpp/system.drawing/graphics/get_smoothingmode/
 ---
-## Graphics::get_SmoothingMode method
+## Graphics::get_SmoothingMode() method
 
 
 Returns a value that indicates a soothing mode used during rendering on the surface represented by the current object.

@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes an ActiveX control stored at specified position from the collection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icontrolcollection/removeat/
 ---
-## IControlCollection::RemoveAt method
+## IControlCollection::RemoveAt(**int32_t**) method
 
 
 Removes an ActiveX control stored at specified position from the collection.

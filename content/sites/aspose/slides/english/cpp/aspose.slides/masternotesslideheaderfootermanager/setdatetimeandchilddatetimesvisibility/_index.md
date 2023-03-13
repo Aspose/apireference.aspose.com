@@ -1,12 +1,12 @@
 ---
-title: SetDateTimeAndChildDateTimesVisibility
+title: SetDateTimeAndChildDateTimesVisibility()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes master slide date-time placeholder and all child date-time placeholders visibility. Child placeholders mean placeholders are contained on depending notes slides. Depending notes slides use and depend on master notes slide.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/masternotesslideheaderfootermanager/setdatetimeandchilddatetimesvisibility/
 ---
-## MasterNotesSlideHeaderFooterManager::SetDateTimeAndChildDateTimesVisibility method
+## MasterNotesSlideHeaderFooterManager::SetDateTimeAndChildDateTimesVisibility(**bool**) method
 
 
 Changes master slide date-time placeholder and all child date-time placeholders visibility. Child placeholders mean placeholders are contained on depending notes slides. Depending notes slides use and depend on master notes slide.

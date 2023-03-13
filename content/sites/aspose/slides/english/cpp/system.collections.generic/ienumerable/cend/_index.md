@@ -1,12 +1,12 @@
 ---
-title: cend
+title: cend()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing right after the last const-qualified element (if any) of the collection.
 type: docs
 weight: 313
 url: /cpp/system.collections.generic/ienumerable/cend/
 ---
-## IEnumerable::cend method
+## IEnumerable::cend() const method
 
 
 Gets iterator pointing right after the last const-qualified element (if any) of the collection.

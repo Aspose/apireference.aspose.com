@@ -1,12 +1,12 @@
 ---
-title: set_PercentDecimalDigits
+title: set_PercentDecimalDigits()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets number of decimal places in percent values.
 type: docs
 weight: 547
 url: /cpp/system.globalization/numberformatinfo/set_percentdecimaldigits/
 ---
-## NumberFormatInfo::set_PercentDecimalDigits method
+## NumberFormatInfo::set_PercentDecimalDigits(int) method
 
 
 Sets number of decimal places in percent values.

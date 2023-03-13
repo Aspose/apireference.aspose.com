@@ -1,12 +1,12 @@
 ---
-title: get_Unit
+title: get_Unit()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets units used in the range.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/contentrangeheadervalue/get_unit/
 ---
-## ContentRangeHeaderValue::get_Unit method
+## ContentRangeHeaderValue::get_Unit() method
 
 
 Gets units used in the range.

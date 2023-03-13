@@ -1,12 +1,12 @@
 ---
-title: CreateLuminance
+title: CreateLuminance()
 second_title: Aspose.Slides for C++ API Reference
 description: Createtes Luminance effect.
 type: docs
 weight: 196
 url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/createluminance/
 ---
-## IImageTransformOperationFactory::CreateLuminance method
+## IImageTransformOperationFactory::CreateLuminance(**float**, **float**) method
 
 
 Createtes [Luminance](../../luminance/) effect.

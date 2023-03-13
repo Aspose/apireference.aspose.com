@@ -1,12 +1,12 @@
 ---
-title: set_MajorUnit
+title: set_MajorUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the major units for the date or value axis. Write double.
 type: docs
 weight: 313
 url: /cpp/aspose.slides.charts/axis/set_majorunit/
 ---
-## Axis::set_MajorUnit method
+## Axis::set_MajorUnit(**double**) method
 
 
 Represents the major units for the date or value axis. Write **double**.

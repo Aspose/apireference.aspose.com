@@ -1,12 +1,12 @@
 ---
-title: get_PapayaWhip
+title: get_PapayaWhip()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFFEFD5.
 type: docs
 weight: 1379
 url: /cpp/system.drawing/brushes/get_papayawhip/
 ---
-## Brushes::get_PapayaWhip method
+## Brushes::get_PapayaWhip() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFFEFD5.

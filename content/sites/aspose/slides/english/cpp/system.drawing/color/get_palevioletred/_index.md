@@ -1,12 +1,12 @@
 ---
-title: get_PaleVioletRed
+title: get_PaleVioletRed()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFDB7093.
 type: docs
 weight: 1613
 url: /cpp/system.drawing/color/get_palevioletred/
 ---
-## Color::get_PaleVioletRed method
+## Color::get_PaleVioletRed() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFDB7093.

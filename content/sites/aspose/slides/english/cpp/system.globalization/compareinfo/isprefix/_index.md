@@ -1,5 +1,5 @@
 ---
-title: IsPrefix
+title: IsPrefix()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the specified string starts with the specified prefix using the specified compare options.
 type: docs

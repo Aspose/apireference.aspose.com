@@ -1,15 +1,15 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
-description: Searches for the specified ChartSeries and returns the zero-based index of the first occurrence within the entire Collection.
+description: Searches for the specified ChartSeries and returns the zero-based index of the first occurrence within the entire Collection
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/chartseriescollection/indexof/
 ---
-## ChartSeriesCollection::IndexOf method
+## ChartSeriesCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[IChartSeries](../../ichartseries/)\>) method
 
 
-Searches for the specified [ChartSeries](../../chartseries/) and returns the zero-based index of the first occurrence within the entire Collection.
+Searches for the specified [ChartSeries](../../chartseries/) and returns the zero-based index of the first occurrence within the entire Collection
 
 ```cpp
 int32_t Aspose::Slides::Charts::ChartSeriesCollection::IndexOf(System::SharedPtr<IChartSeries> value) override

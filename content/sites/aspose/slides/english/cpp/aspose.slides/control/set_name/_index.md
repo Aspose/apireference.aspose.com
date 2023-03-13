@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the name of this control. Write System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/control/set_name/
 ---
-## Control::set_Name method
+## Control::set_Name([System::String](../../../system/string/)) method
 
 
 Sets the name of this control. Write [System::String](../../../system/string/).

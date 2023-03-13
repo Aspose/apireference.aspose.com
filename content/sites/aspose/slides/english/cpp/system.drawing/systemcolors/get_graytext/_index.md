@@ -1,12 +1,12 @@
 ---
-title: get_GrayText
+title: get_GrayText()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Color object that represents the color of dimmed text.
 type: docs
 weight: 209
 url: /cpp/system.drawing/systemcolors/get_graytext/
 ---
-## SystemColors::get_GrayText method
+## SystemColors::get_GrayText() method
 
 
 Returns a [Color](../../color/) object that represents the color of dimmed text.

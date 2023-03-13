@@ -1,12 +1,12 @@
 ---
-title: set_Public
+title: set_Public()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the public identifier.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemanotation/set_public/
 ---
-## XmlSchemaNotation::set_Public method
+## XmlSchemaNotation::set_Public(const [String](../../../system/string/)\&) method
 
 
 Sets the **public** identifier.

@@ -1,12 +1,12 @@
 ---
-title: get_FromBlack
+title: get_FromBlack()
 second_title: Aspose.Slides for C++ API Reference
 description: This attribute specifies if the transition will start from a black screen (and then transition the new slide over black). Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.slideshow/optionalblacktransition/get_fromblack/
 ---
-## OptionalBlackTransition::get_FromBlack method
+## OptionalBlackTransition::get_FromBlack() method
 
 
 This attribute specifies if the transition will start from a black screen (and then transition the new slide over black). Read **bool**.

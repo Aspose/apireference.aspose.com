@@ -1,15 +1,15 @@
 ---
-title: get_Arguments
+title: get_Arguments()
 second_title: Aspose.Slides for C++ API Reference
-description: One or more mathematical elements separated by delimiter characters.
+description: One or more mathematical elements separated by delimiter characters
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathdelimiter/get_arguments/
 ---
-## IMathDelimiter::get_Arguments method
+## IMathDelimiter::get_Arguments() method
 
 
-One or more mathematical elements separated by delimiter characters.
+One or more mathematical elements separated by delimiter characters
 
 ```cpp
 virtual System::SharedPtr<IMathElementCollection> Aspose::Slides::MathText::IMathDelimiter::get_Arguments()=0

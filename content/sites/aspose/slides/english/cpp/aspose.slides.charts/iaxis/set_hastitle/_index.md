@@ -1,12 +1,12 @@
 ---
-title: set_HasTitle
+title: set_HasTitle()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a axis has a visible title. Write bool.
 type: docs
 weight: 768
 url: /cpp/aspose.slides.charts/iaxis/set_hastitle/
 ---
-## IAxis::set_HasTitle method
+## IAxis::set_HasTitle(**bool**) method
 
 
 Determines whether a axis has a visible title. Write **bool**.

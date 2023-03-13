@@ -1,5 +1,5 @@
 ---
-title: OleEmbeddedDataInfo
+title: OleEmbeddedDataInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new embedded data info for OLE object.
 type: docs

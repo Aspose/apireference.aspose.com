@@ -1,12 +1,12 @@
 ---
-title: get_UserName
+title: get_UserName()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1171
 url: /cpp/system.windows.forms/systeminformation/get_username/
 ---
-## SystemInformation::get_UserName method
+## SystemInformation::get_UserName() method
 
 
 NOT IMPLEMENTED.

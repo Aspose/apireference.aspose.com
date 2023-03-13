@@ -1,5 +1,5 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies all elements of the current array to the specified destination array. Elements are inserted into destination array starting at index specified by arrayIndex argument.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: WriteStartAttribute
+title: WriteStartAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the start of an attribute.
 type: docs
 weight: 274
 url: /cpp/system.xml/xmltextwriter/writestartattribute/
 ---
-## XmlTextWriter::WriteStartAttribute method
+## XmlTextWriter::WriteStartAttribute(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Writes the start of an attribute.

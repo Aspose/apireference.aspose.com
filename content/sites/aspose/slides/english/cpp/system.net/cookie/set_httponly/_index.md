@@ -1,12 +1,12 @@
 ---
-title: set_HttpOnly
+title: set_HttpOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'HttpOnly' attribute's value.
 type: docs
 weight: 66
 url: /cpp/system.net/cookie/set_httponly/
 ---
-## Cookie::set_HttpOnly method
+## Cookie::set_HttpOnly(**bool**) method
 
 
 Sets the 'HttpOnly' attribute's value.

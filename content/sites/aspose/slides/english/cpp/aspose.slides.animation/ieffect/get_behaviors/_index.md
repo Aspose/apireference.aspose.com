@@ -1,12 +1,12 @@
 ---
-title: get_Behaviors
+title: get_Behaviors()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns collection of behavior for effect. Read IBehaviorCollection.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/ieffect/get_behaviors/
 ---
-## IEffect::get_Behaviors method
+## IEffect::get_Behaviors() method
 
 
 Returns collection of behavior for effect. Read [IBehaviorCollection](../../ibehaviorcollection/).

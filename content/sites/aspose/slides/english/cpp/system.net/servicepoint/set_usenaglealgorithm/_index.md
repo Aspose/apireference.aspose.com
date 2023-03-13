@@ -1,12 +1,12 @@
 ---
-title: set_UseNagleAlgorithm
+title: set_UseNagleAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the Nagle algorithm is used by connections managed by the current instance.
 type: docs
 weight: 105
 url: /cpp/system.net/servicepoint/set_usenaglealgorithm/
 ---
-## ServicePoint::set_UseNagleAlgorithm method
+## ServicePoint::set_UseNagleAlgorithm(**bool**) method
 
 
 Sets a value that indicates if the Nagle algorithm is used by connections managed by the current instance.

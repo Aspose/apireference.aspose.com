@@ -1,12 +1,12 @@
 ---
-title: get_Extension
+title: get_Extension()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the extension of the file represented by the current object.
 type: docs
 weight: 196
 url: /cpp/system.io/filesysteminfo/get_extension/
 ---
-## FileSystemInfo::get_Extension method
+## FileSystemInfo::get_Extension() method
 
 
 Returns the extension of the file represented by the current object.

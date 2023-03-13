@@ -1,12 +1,12 @@
 ---
-title: get_AlgorithmType
+title: get_AlgorithmType()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.globalization/eastasianlunisolarcalendar/get_algorithmtype/
 ---
-## EastAsianLunisolarCalendar::get_AlgorithmType method
+## EastAsianLunisolarCalendar::get_AlgorithmType() const method
 
 
 RTTI information.

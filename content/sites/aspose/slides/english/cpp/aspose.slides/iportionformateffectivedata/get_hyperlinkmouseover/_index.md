@@ -1,12 +1,12 @@
 ---
-title: get_HyperlinkMouseOver
+title: get_HyperlinkMouseOver()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the hyperlink defined for mouse over. Read-only IHyperlink.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/iportionformateffectivedata/get_hyperlinkmouseover/
 ---
-## IPortionFormatEffectiveData::get_HyperlinkMouseOver method
+## IPortionFormatEffectiveData::get_HyperlinkMouseOver() method
 
 
 Returns the hyperlink defined for mouse over. Read-only [IHyperlink](../../ihyperlink/).

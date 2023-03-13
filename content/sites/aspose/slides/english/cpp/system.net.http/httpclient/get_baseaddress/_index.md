@@ -1,12 +1,12 @@
 ---
-title: get_BaseAddress
+title: get_BaseAddress()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the base address of the resource that is used for sending requests.
 type: docs
 weight: 14
 url: /cpp/system.net.http/httpclient/get_baseaddress/
 ---
-## HttpClient::get_BaseAddress method
+## HttpClient::get_BaseAddress() method
 
 
 Gets the base address of the resource that is used for sending requests.

@@ -1,12 +1,12 @@
 ---
-title: GetProxy
+title: GetProxy()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the proxy URI.
 type: docs
 weight: 27
 url: /cpp/system.net/iwebproxy/getproxy/
 ---
-## IWebProxy::GetProxy method
+## IWebProxy::GetProxy([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Returns the proxy URI.

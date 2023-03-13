@@ -1,12 +1,12 @@
 ---
-title: get_ParameterStyle
+title: get_ParameterStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if parameters are encapsulated within a single XML element beneath the 'Body' element.
 type: docs
 weight: 1
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/get_parameterstyle/
 ---
-## SoapDocumentServiceAttribute::get_ParameterStyle method
+## SoapDocumentServiceAttribute::get_ParameterStyle() method
 
 
 Gets a value that indicates if parameters are encapsulated within a single XML element beneath the 'Body' element.

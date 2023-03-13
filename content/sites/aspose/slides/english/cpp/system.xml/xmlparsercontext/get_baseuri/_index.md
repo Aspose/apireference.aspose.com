@@ -1,12 +1,12 @@
 ---
-title: get_BaseURI
+title: get_BaseURI()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the base URI.
 type: docs
 weight: 131
 url: /cpp/system.xml/xmlparsercontext/get_baseuri/
 ---
-## XmlParserContext::get_BaseURI method
+## XmlParserContext::get_BaseURI() method
 
 
 Returns the base URI.

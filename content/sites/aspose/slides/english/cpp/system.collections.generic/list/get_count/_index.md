@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of elements in current list.
 type: docs
 weight: 144
 url: /cpp/system.collections.generic/list/get_count/
 ---
-## List::get_Count method
+## List::get_Count() const method
 
 
 Gets number of elements in current list.

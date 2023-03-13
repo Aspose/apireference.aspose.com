@@ -1,12 +1,12 @@
 ---
-title: GetUnsignedLongLongValue
+title: GetUnsignedLongLongValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the boxed represented by the current object to 64-bit integer value.
 type: docs
 weight: 14
 url: /cpp/system/boxedvaluebase/getunsignedlonglongvalue/
 ---
-## BoxedValueBase::GetUnsignedLongLongValue method
+## BoxedValueBase::GetUnsignedLongLongValue() method
 
 
 Converts the boxed represented by the current object to 64-bit integer value.

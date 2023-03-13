@@ -1,12 +1,12 @@
 ---
-title: get_ValueType
+title: get_ValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns The type for the current node.
 type: docs
 weight: 209
 url: /cpp/system.xml/xmlreader/get_valuetype/
 ---
-## XmlReader::get_ValueType method
+## XmlReader::get_ValueType() method
 
 
 Returns The type for the current node.

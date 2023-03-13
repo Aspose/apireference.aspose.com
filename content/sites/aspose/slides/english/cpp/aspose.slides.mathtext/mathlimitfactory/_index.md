@@ -1,7 +1,7 @@
 ---
 title: MathLimitFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create IMathLimit.
+description: Allows to create IMathLimit
 type: docs
 weight: 924
 url: /cpp/aspose.slides.mathtext/mathlimitfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathlimitfactory/
 ## MathLimitFactory class
 
 
-Allows to create [IMathLimit](../imathlimit/).
+Allows to create [IMathLimit](../imathlimit/)
 
 ```cpp
 class MathLimitFactory : public Aspose::Slides::MathText::IMathLimitFactory
@@ -19,8 +19,8 @@ class MathLimitFactory : public Aspose::Slides::MathText::IMathLimitFactory
 
 | Method | Description |
 | --- | --- |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathLimit](../imathlimit/)\> [CreateMathLimit](./createmathlimit/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, **bool**) override | Creates [IMathLimit](../imathlimit/). |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathLimit](../imathlimit/)\> [CreateMathLimit](./createmathlimit/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates [IMathLimit](../imathlimit/) with limit at the bottom. |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathLimit](../imathlimit/)\> [CreateMathLimit](./createmathlimit/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, **bool**) override | Creates [IMathLimit](../imathlimit/) |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathLimit](../imathlimit/)\> [CreateMathLimit](./createmathlimit/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates [IMathLimit](../imathlimit/) with limit at the bottom |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

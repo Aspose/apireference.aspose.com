@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the current and underlying streams.
 type: docs
 weight: 79
 url: /cpp/system.io/streamreader/close/
 ---
-## StreamReader::Close method
+## StreamReader::Close() method
 
 
 Closes the current and underlying streams.

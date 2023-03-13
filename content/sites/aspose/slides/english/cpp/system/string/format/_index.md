@@ -1,5 +1,5 @@
 ---
-title: Format
+title: Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Formats string in C# style.
 type: docs

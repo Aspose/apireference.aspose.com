@@ -1,12 +1,12 @@
 ---
-title: get_Credentials
+title: get_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the authentication information.
 type: docs
 weight: 40
 url: /cpp/system.net.http/httpclienthandler/get_credentials/
 ---
-## HttpClientHandler::get_Credentials method
+## HttpClientHandler::get_Credentials() method
 
 
 Gets the authentication information.

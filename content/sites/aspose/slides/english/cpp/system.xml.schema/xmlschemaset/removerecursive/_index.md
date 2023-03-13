@@ -1,12 +1,12 @@
 ---
-title: RemoveRecursive
+title: RemoveRecursive()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified XML Schema definition language (XSD) schema and all the schemas it imports from the XmlSchemaSet.
 type: docs
 weight: 183
 url: /cpp/system.xml.schema/xmlschemaset/removerecursive/
 ---
-## XmlSchemaSet::RemoveRecursive method
+## XmlSchemaSet::RemoveRecursive(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchema](../../xmlschema/)\>\&) method
 
 
 Removes the specified XML [Schema](../../) definition language (XSD) schema and all the schemas it imports from the [XmlSchemaSet](../).

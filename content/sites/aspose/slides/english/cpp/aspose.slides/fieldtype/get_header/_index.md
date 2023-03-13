@@ -1,12 +1,12 @@
 ---
-title: get_Header
+title: get_Header()
 second_title: Aspose.Slides for C++ API Reference
 description: Slide's header. Read-only FieldType.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/fieldtype/get_header/
 ---
-## FieldType::get_Header method
+## FieldType::get_Header() method
 
 
 [Slide](../../slide/)'s header. Read-only [FieldType](../).

@@ -1,12 +1,12 @@
 ---
-title: set_ContentEncoding
+title: set_ContentEncoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Content-Encoding' header.
 type: docs
 weight: 170
 url: /cpp/system.web.services.protocols/soapmessage/set_contentencoding/
 ---
-## SoapMessage::set_ContentEncoding method
+## SoapMessage::set_ContentEncoding([String](../../../system/string/)) method
 
 
 Sets a value of the 'Content-Encoding' header.

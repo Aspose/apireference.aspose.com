@@ -1,12 +1,12 @@
 ---
-title: GetDaysInMonth
+title: GetDaysInMonth()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of days in specific month.
 type: docs
 weight: 14
 url: /cpp/system.globalization.details/gregoriancalendarutils/getdaysinmonth/
 ---
-## GregorianCalendarUtils::GetDaysInMonth method
+## GregorianCalendarUtils::GetDaysInMonth(int, int) method
 
 
 Gets number of days in specific month.

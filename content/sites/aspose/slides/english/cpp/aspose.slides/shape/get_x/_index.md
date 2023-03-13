@@ -1,12 +1,12 @@
 ---
-title: get_X
+title: get_X()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the x-coordinate of the upper-left corner of the shape. Read float.
 type: docs
 weight: 287
 url: /cpp/aspose.slides/shape/get_x/
 ---
-## Shape::get_X method
+## Shape::get_X() method
 
 
 Returns the x-coordinate of the upper-left corner of the shape. Read **float**.

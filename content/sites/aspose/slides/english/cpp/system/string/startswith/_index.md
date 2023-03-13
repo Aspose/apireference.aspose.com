@@ -1,5 +1,5 @@
 ---
-title: StartsWith
+title: StartsWith()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if string begins with specified substring.
 type: docs

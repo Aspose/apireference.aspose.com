@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the node.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlnode/get_value/
 ---
-## XmlNode::get_Value method
+## XmlNode::get_Value() method
 
 
 Returns the value of the node.

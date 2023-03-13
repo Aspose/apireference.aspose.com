@@ -1,12 +1,12 @@
 ---
-title: Concat
+title: Concat()
 second_title: Aspose.Slides for C++ API Reference
 description: Concatenates a new string to the result.
 type: docs
 weight: 40
 url: /cpp/system.xml.xsl.runtime/stringconcat/concat/
 ---
-## StringConcat::Concat method
+## StringConcat::Concat(const [String](../../../system/string/)\&) method
 
 
 Concatenates a new string to the result.

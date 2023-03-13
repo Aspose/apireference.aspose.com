@@ -1,12 +1,12 @@
 ---
-title: set_BlobManagementOptions
+title: set_BlobManagementOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the options which can be used to manage Binary Large Objects (BLOBs) handling behavior, such as using of temporary files or max BLOBs bytes in memory. These options intended to set up the best performance/memory consumption ratio for a perticular environment or requirements.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/loadoptions/set_blobmanagementoptions/
 ---
-## LoadOptions::set_BlobManagementOptions method
+## LoadOptions::set_BlobManagementOptions([System::SharedPtr](../../../system/sharedptr/)\<[IBlobManagementOptions](../../iblobmanagementoptions/)\>) method
 
 
 Represents the options which can be used to manage Binary Large Objects (BLOBs) handling behavior, such as using of temporary files or max BLOBs bytes in memory. These options intended to set up the best performance/memory consumption ratio for a perticular environment or requirements.

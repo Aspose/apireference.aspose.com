@@ -1,12 +1,12 @@
 ---
-title: ComputeHash
+title: ComputeHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates HMAC.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/hmacsha512/computehash/
 ---
-## HMACSHA512::ComputeHash method
+## HMACSHA512::ComputeHash(const [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
 
 
 Calculates [HMAC](../../hmac/).

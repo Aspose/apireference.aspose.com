@@ -1,12 +1,12 @@
 ---
-title: get_SchemaInfo
+title: get_SchemaInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the schema information that has been assigned to the current node as a result of schema validation.
 type: docs
 weight: 196
 url: /cpp/system.xml/xmlreader/get_schemainfo/
 ---
-## XmlReader::get_SchemaInfo method
+## XmlReader::get_SchemaInfo() method
 
 
 Returns the schema information that has been assigned to the current node as a result of schema validation.

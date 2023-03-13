@@ -1,5 +1,5 @@
 ---
-title: Matches
+title: Matches()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the current node matches the specified XPathExpression.
 type: docs

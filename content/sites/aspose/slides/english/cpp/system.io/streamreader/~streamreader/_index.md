@@ -1,12 +1,12 @@
 ---
-title: ~StreamReader
+title: ~StreamReader()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.io/streamreader/~streamreader/
 ---
-## StreamReader::~StreamReader method
+## StreamReader::~StreamReader() method
 
 
 Destructor.

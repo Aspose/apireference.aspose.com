@@ -1,12 +1,12 @@
 ---
-title: operator+
+title: operator+()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of DateTime class that represents the date and time value that is the sum of the value represented by the current object and the specified time span.
 type: docs
 weight: 638
 url: /cpp/system/datetime/operator_plus/
 ---
-## DateTime::operator+ method
+## DateTime::operator+([TimeSpan](../../timespan/)) const method
 
 
 Returns a new instance of [DateTime](../) class that represents the date and time value that is the sum of the value represented by the current object and the specified time span.

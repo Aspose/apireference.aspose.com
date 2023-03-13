@@ -1,12 +1,12 @@
 ---
-title: DrawIconUnstretched
+title: DrawIconUnstretched()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 482
 url: /cpp/system.drawing/graphics/drawiconunstretched/
 ---
-## Graphics::DrawIconUnstretched method
+## Graphics::DrawIconUnstretched(const [SharedPtr](../../../system/sharedptr/)\<[Icon](../../icon/)\>\&, [Rectangle](../../rectangle/)) method
 
 
 NOT IMPLEMENTED.

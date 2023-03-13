@@ -1,5 +1,5 @@
 ---
-title: AppendChild
+title: AppendChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlWriter object used to create one or more new child nodes at the end of the list of child nodes of the current node.
 type: docs

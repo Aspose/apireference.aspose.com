@@ -1,12 +1,12 @@
 ---
-title: AsVirtualizedIterator
+title: AsVirtualizedIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Prepares the iterator to be used by the VirtualizedIterator class.
 type: docs
 weight: 118
 url: /cpp/system.collections.generic/ienumerator/asvirtualizediterator/
 ---
-## IEnumerator::AsVirtualizedIterator method
+## IEnumerator::AsVirtualizedIterator() method
 
 
 Prepares the iterator to be used by the VirtualizedIterator class.

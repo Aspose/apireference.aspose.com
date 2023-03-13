@@ -1,12 +1,12 @@
 ---
-title: set_Delimiter
+title: set_Delimiter()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the string that delimits concatenated strings.
 type: docs
 weight: 14
 url: /cpp/system.xml.xsl.runtime/stringconcat/set_delimiter/
 ---
-## StringConcat::set_Delimiter method
+## StringConcat::set_Delimiter(const [String](../../../system/string/)\&) method
 
 
 Sets the string that delimits concatenated strings.

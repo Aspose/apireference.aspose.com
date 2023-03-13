@@ -1,5 +1,5 @@
 ---
-title: AddDataPointForDoughnutSeries
+title: AddDataPointForDoughnutSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the new data point and adds it to the end of collection. Applicable for series which chartType is one of Doughnut subtypes (see also ChartTypeCharacterizer.IsChartTypeDoughnut(ChartType) method).
 type: docs

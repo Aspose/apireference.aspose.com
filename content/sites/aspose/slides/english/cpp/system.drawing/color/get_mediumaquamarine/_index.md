@@ -1,12 +1,12 @@
 ---
-title: get_MediumAquamarine
+title: get_MediumAquamarine()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF66CDAA.
 type: docs
 weight: 1301
 url: /cpp/system.drawing/color/get_mediumaquamarine/
 ---
-## Color::get_MediumAquamarine method
+## Color::get_MediumAquamarine() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF66CDAA.

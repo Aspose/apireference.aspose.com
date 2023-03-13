@@ -1,12 +1,12 @@
 ---
-title: get_CanWrite
+title: get_CanWrite()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the stream is writable.
 type: docs
 weight: 27
 url: /cpp/system.net.sockets/networkstream/get_canwrite/
 ---
-## NetworkStream::get_CanWrite method
+## NetworkStream::get_CanWrite() const method
 
 
 Determines if the stream is writable.

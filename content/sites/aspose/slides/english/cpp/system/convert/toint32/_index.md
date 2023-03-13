@@ -1,5 +1,5 @@
 ---
-title: ToInt32
+title: ToInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified boolean value to an equivalent 32-bit signed integer.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: ReadUInt32
+title: ReadUInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads 4 bytes from the input stream and returns them as an unsigned 32-bit integer value.
 type: docs
 weight: 248
 url: /cpp/system.io/binaryreader/readuint32/
 ---
-## BinaryReader::ReadUInt32 method
+## BinaryReader::ReadUInt32() method
 
 
 Reads 4 bytes from the input stream and returns them as an unsigned 32-bit integer value.

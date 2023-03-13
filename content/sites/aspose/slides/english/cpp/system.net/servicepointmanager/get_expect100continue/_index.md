@@ -1,12 +1,12 @@
 ---
-title: get_Expect100Continue
+title: get_Expect100Continue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the ServicePoint-class instances use the 100-Continue behavior.
 type: docs
 weight: 131
 url: /cpp/system.net/servicepointmanager/get_expect100continue/
 ---
-## ServicePointManager::get_Expect100Continue method
+## ServicePointManager::get_Expect100Continue() method
 
 
 Gets a value that indicates if the ServicePoint-class instances use the 100-Continue behavior.

@@ -1,12 +1,12 @@
 ---
-title: GetHyperlinkMouseOvers
+title: GetHyperlinkMouseOvers()
 second_title: Aspose.Slides for C++ API Reference
 description: Get all IHyperlinkContainer subobjects that contain not null HyperlinkMouseOver. With given IHyperlinkContainer object you can manage its hyperlink (read, update or remove). See IHyperlinkContainer interface.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/hyperlinkqueries/gethyperlinkmouseovers/
 ---
-## HyperlinkQueries::GetHyperlinkMouseOvers method
+## HyperlinkQueries::GetHyperlinkMouseOvers() method
 
 
 Get all [IHyperlinkContainer](../../ihyperlinkcontainer/) subobjects that contain not null HyperlinkMouseOver. With given [IHyperlinkContainer](../../ihyperlinkcontainer/) object you can manage its hyperlink (read, update or remove). See [IHyperlinkContainer](../../ihyperlinkcontainer/) interface.

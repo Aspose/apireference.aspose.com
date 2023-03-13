@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares encodings.
 type: docs
 weight: 1
 url: /cpp/system.text/encoding/equals/
 ---
-## Encoding::Equals method
+## Encoding::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Compares encodings.

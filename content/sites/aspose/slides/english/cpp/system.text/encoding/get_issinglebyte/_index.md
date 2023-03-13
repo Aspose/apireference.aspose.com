@@ -1,12 +1,12 @@
 ---
-title: get_IsSingleByte
+title: get_IsSingleByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether encoding is single byte.
 type: docs
 weight: 105
 url: /cpp/system.text/encoding/get_issinglebyte/
 ---
-## Encoding::get_IsSingleByte method
+## Encoding::get_IsSingleByte() method
 
 
 Checks whether encoding is single byte.

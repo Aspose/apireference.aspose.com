@@ -1,12 +1,12 @@
 ---
-title: get_ShowLabelValueFromCell
+title: get_ShowLabelValueFromCell()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a specified chart's data label cell value display behavior. True displays cell value. False to hide. Read bool.
 type: docs
 weight: 274
 url: /cpp/aspose.slides.charts/datalabelformat/get_showlabelvaluefromcell/
 ---
-## DataLabelFormat::get_ShowLabelValueFromCell method
+## DataLabelFormat::get_ShowLabelValueFromCell() method
 
 
 Represents a specified chart's data label cell value display behavior. True displays cell value. False to hide. Read **bool**.

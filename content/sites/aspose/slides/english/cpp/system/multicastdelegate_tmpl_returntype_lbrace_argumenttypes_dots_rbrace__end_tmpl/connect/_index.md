@@ -1,5 +1,5 @@
 ---
-title: connect
+title: connect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified delegate to the collection.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: ~Details_CookieException
+title: ~Details_CookieException()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructs the current instance.
 type: docs
 weight: 1
 url: /cpp/system.net/details_cookieexception/~details_cookieexception/
 ---
-## Details_CookieException::~Details_CookieException method
+## Details_CookieException::~Details_CookieException() method
 
 
 Destructs the current instance.

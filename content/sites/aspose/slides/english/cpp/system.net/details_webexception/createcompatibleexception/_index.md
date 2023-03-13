@@ -1,12 +1,12 @@
 ---
-title: CreateCompatibleException
+title: CreateCompatibleException()
 second_title: Aspose.Slides for C++ API Reference
 description: Is not implemented.
 type: docs
 weight: 53
 url: /cpp/system.net/details_webexception/createcompatibleexception/
 ---
-## Details_WebException::CreateCompatibleException method
+## Details_WebException::CreateCompatibleException([Exception](../../../system/exception/)) method
 
 
 Is not implemented.

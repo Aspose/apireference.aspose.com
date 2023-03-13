@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases all resources aquired by the current object.
 type: docs
 weight: 300
 url: /cpp/system.drawing/image/dispose/
 ---
-## Image::Dispose method
+## Image::Dispose() method
 
 
 Releases all resources aquired by the current object.

@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/aspose.slides/stylecoloreffectivedata/equals/
 ---
-## StyleColorEffectiveData::Equals method
+## StyleColorEffectiveData::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 

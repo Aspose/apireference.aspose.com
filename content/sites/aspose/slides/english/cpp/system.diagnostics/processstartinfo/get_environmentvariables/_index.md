@@ -1,12 +1,12 @@
 ---
-title: get_EnvironmentVariables
+title: get_EnvironmentVariables()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets process environment variables.
 type: docs
 weight: 248
 url: /cpp/system.diagnostics/processstartinfo/get_environmentvariables/
 ---
-## ProcessStartInfo::get_EnvironmentVariables method
+## ProcessStartInfo::get_EnvironmentVariables() const method
 
 
 Gets process environment variables.

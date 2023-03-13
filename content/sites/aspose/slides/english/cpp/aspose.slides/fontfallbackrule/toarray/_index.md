@@ -1,5 +1,5 @@
 ---
-title: ToArray
+title: ToArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates and returns an array with all FallBack fonts for this rule.
 type: docs

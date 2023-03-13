@@ -1,12 +1,12 @@
 ---
-title: get_LayoutType
+title: get_LayoutType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns layout type of this layout slide. Read-only SlideLayoutType.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/layoutslide/get_layouttype/
 ---
-## LayoutSlide::get_LayoutType method
+## LayoutSlide::get_LayoutType() method
 
 
 Returns layout type of this layout slide. Read-only [SlideLayoutType](../../slidelayouttype/).

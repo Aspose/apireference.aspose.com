@@ -1,12 +1,12 @@
 ---
-title: get_FadeDirection
+title: get_FadeDirection()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the direction to offset the reflection. (angle). Read float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/reflection/get_fadedirection/
 ---
-## Reflection::get_FadeDirection method
+## Reflection::get_FadeDirection() method
 
 
 Specifies the direction to offset the reflection. (angle). Read **float**.

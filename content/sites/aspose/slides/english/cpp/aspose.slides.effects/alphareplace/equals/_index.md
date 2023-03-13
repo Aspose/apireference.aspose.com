@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified AlphaReplace is equal to the current AlphaReplace.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/alphareplace/equals/
 ---
-## AlphaReplace::Equals method
+## AlphaReplace::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [AlphaReplace](../) is equal to the current [AlphaReplace](../).

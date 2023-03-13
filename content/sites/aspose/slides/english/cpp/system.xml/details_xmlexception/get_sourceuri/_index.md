@@ -1,12 +1,12 @@
 ---
-title: get_SourceUri
+title: get_SourceUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the location of the XML file.
 type: docs
 weight: 27
 url: /cpp/system.xml/details_xmlexception/get_sourceuri/
 ---
-## Details_XmlException::get_SourceUri method
+## Details_XmlException::get_SourceUri() method
 
 
 Returns the location of the XML file.

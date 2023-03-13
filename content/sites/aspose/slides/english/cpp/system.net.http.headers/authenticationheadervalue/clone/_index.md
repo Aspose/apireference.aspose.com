@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the current object and returns a shared pointer to it.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/authenticationheadervalue/clone/
 ---
-## AuthenticationHeaderValue::Clone method
+## AuthenticationHeaderValue::Clone() method
 
 
 Creates a copy of the current object and returns a shared pointer to it.

@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies all elements from the collection to the specified array.
 type: docs
 weight: 573
 url: /cpp/aspose.slides/shapecollection/copyto/
 ---
-## ShapeCollection::CopyTo method
+## ShapeCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../ishape/)\>\>, **int32_t**) method
 
 
 Copies all elements from the collection to the specified array.

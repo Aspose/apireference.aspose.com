@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a string representation of the qualified name of the XmlQualifiedName.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlqualifiedname/get_name/
 ---
-## XmlQualifiedName::get_Name method
+## XmlQualifiedName::get_Name() const method
 
 
 Returns a string representation of the qualified name of the [XmlQualifiedName](../).

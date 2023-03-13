@@ -1,12 +1,12 @@
 ---
-title: get_Current
+title: get_Current()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current XmlSchema in the collection.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemacollectionenumerator/get_current/
 ---
-## XmlSchemaCollectionEnumerator::get_Current method
+## XmlSchemaCollectionEnumerator::get_Current() const method
 
 
 Returns the current [XmlSchema](../../xmlschema/) in the collection.

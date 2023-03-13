@@ -1,12 +1,12 @@
 ---
-title: get_BaseTypes
+title: get_BaseTypes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of base types.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemasimpletypeunion/get_basetypes/
 ---
-## XmlSchemaSimpleTypeUnion::get_BaseTypes method
+## XmlSchemaSimpleTypeUnion::get_BaseTypes() method
 
 
 Returns the collection of base types.

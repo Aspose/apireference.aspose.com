@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element to the end of list.
 type: docs
 weight: 157
 url: /cpp/system.collections.generic/list/add/
 ---
-## List::Add method
+## List::Add(const T\&) method
 
 
 Adds element to the end of list.

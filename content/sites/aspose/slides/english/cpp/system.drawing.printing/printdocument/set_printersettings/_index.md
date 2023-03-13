@@ -1,12 +1,12 @@
 ---
-title: set_PrinterSettings
+title: set_PrinterSettings()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 14
 url: /cpp/system.drawing.printing/printdocument/set_printersettings/
 ---
-## PrintDocument::set_PrinterSettings method
+## PrintDocument::set_PrinterSettings(const [SharedPtr](../../../system/sharedptr/)\<[PrinterSettings](../../printersettings/)\>\&) method
 
 
 NOT IMPLEMENTED.

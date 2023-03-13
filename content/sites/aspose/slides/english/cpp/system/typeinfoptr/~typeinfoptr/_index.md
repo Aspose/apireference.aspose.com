@@ -1,12 +1,12 @@
 ---
-title: ~TypeInfoPtr
+title: ~TypeInfoPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 27
 url: /cpp/system/typeinfoptr/~typeinfoptr/
 ---
-## TypeInfoPtr::~TypeInfoPtr method
+## TypeInfoPtr::~TypeInfoPtr() method
 
 
 Destructor.

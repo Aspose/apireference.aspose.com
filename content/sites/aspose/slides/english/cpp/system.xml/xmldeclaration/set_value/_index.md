@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of the XmlDeclaration.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmldeclaration/set_value/
 ---
-## XmlDeclaration::set_Value method
+## XmlDeclaration::set_Value([String](../../../system/string/)) method
 
 
 Sets the value of the [XmlDeclaration](../).

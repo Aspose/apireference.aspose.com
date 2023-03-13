@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text value of the current node.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlvalidatingreader/get_value/
 ---
-## XmlValidatingReader::get_Value method
+## XmlValidatingReader::get_Value() method
 
 
 Returns the text value of the current node.

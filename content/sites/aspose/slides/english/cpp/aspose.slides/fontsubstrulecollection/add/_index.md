@@ -1,15 +1,15 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
-description: Adds the new font substitution rule to the collection.
+description: Adds the new font substitution rule to the collection
 type: docs
 weight: 40
 url: /cpp/aspose.slides/fontsubstrulecollection/add/
 ---
-## FontSubstRuleCollection::Add method
+## FontSubstRuleCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IFontSubstRule](../../ifontsubstrule/)\>) method
 
 
-Adds the new font substitution rule to the collection.
+Adds the new font substitution rule to the collection
 
 ```cpp
 void Aspose::Slides::FontSubstRuleCollection::Add(System::SharedPtr<IFontSubstRule> value) override

@@ -1,12 +1,12 @@
 ---
-title: get_FillOverlayEffect
+title: get_FillOverlayEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Fill overlay effect. Read-only Effects::IFillOverlayEffectiveData."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ieffectformateffectivedata/get_filloverlayeffect/
 ---
-## IEffectFormatEffectiveData::get_FillOverlayEffect method
+## IEffectFormatEffectiveData::get_FillOverlayEffect() method
 
 
 Fill overlay effect. Read-only [Effects::IFillOverlayEffectiveData](../../../aspose.slides.effects/ifilloverlayeffectivedata/).

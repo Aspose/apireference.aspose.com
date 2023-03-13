@@ -1,12 +1,12 @@
 ---
-title: get_BeginArrowheadStyle
+title: get_BeginArrowheadStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the arrowhead style at the beginning of a line. Read-only LineArrowheadStyle.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/ilineformateffectivedata/get_beginarrowheadstyle/
 ---
-## ILineFormatEffectiveData::get_BeginArrowheadStyle method
+## ILineFormatEffectiveData::get_BeginArrowheadStyle() method
 
 
 Returns the arrowhead style at the beginning of a line. Read-only [LineArrowheadStyle](../../linearrowheadstyle/).

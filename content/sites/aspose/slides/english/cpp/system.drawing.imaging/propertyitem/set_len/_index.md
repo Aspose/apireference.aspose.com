@@ -1,12 +1,12 @@
 ---
-title: set_Len
+title: set_Len()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the length of the property represented by the current object in bytes.
 type: docs
 weight: 53
 url: /cpp/system.drawing.imaging/propertyitem/set_len/
 ---
-## PropertyItem::set_Len method
+## PropertyItem::set_Len(**int32_t**) method
 
 
 Sets the length of the property represented by the current object in bytes.

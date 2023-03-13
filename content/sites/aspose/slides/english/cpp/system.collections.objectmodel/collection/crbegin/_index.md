@@ -1,12 +1,12 @@
 ---
-title: crbegin
+title: crbegin()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a reverse iterator to the last const-qualified element of collection (first in reverse).
 type: docs
 weight: 235
 url: /cpp/system.collections.objectmodel/collection/crbegin/
 ---
-## Collection::crbegin method
+## Collection::crbegin() const method
 
 
 Gets a reverse iterator to the last const-qualified element of collection (first in reverse).

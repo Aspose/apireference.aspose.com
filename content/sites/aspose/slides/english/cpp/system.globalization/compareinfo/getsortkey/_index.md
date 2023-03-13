@@ -1,5 +1,5 @@
 ---
-title: GetSortKey
+title: GetSortKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets SortKey object for the specified string using specified compare options.
 type: docs

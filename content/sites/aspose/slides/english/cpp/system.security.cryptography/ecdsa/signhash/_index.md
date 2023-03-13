@@ -1,12 +1,12 @@
 ---
-title: SignHash
+title: SignHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Computes the signature of specified input value.
 type: docs
 weight: 92
 url: /cpp/system.security.cryptography/ecdsa/signhash/
 ---
-## ECDsa::SignHash method
+## ECDsa::SignHash(const [ByteArrayPtr](../../../system/bytearrayptr/)\&) method
 
 
 Computes the signature of specified input value.

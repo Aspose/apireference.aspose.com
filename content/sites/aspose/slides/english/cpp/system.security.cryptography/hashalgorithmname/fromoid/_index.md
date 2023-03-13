@@ -1,12 +1,12 @@
 ---
-title: FromOid
+title: FromOid()
 second_title: Aspose.Slides for C++ API Reference
 description: Create HashAlgorithmName from OID-value.
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography/hashalgorithmname/fromoid/
 ---
-## HashAlgorithmName::FromOid method
+## HashAlgorithmName::FromOid(const [String](../../../system/string/)\&) method
 
 
 Create [HashAlgorithmName](../) from OID-value.

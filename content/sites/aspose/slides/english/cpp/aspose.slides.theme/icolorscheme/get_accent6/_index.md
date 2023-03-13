@@ -1,12 +1,12 @@
 ---
-title: get_Accent6
+title: get_Accent6()
 second_title: Aspose.Slides for C++ API Reference
 description: Sixth accent color in the scheme. Read-only IColorFormat.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.theme/icolorscheme/get_accent6/
 ---
-## IColorScheme::get_Accent6 method
+## IColorScheme::get_Accent6() method
 
 
 Sixth accent color in the scheme. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

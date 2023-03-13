@@ -1,12 +1,12 @@
 ---
-title: get_SystemId
+title: get_SystemId()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the system identifier on the entity declaration.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlentity/get_systemid/
 ---
-## XmlEntity::get_SystemId method
+## XmlEntity::get_SystemId() method
 
 
 Returns the value of the system identifier on the entity declaration.

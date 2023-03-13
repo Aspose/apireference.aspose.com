@@ -1,5 +1,5 @@
 ---
-title: SVGOptions
+title: SVGOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the SVGOptions class.
 type: docs

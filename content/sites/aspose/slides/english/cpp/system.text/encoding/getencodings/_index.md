@@ -1,12 +1,12 @@
 ---
-title: GetEncodings
+title: GetEncodings()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets list of known encodings.
 type: docs
 weight: 534
 url: /cpp/system.text/encoding/getencodings/
 ---
-## Encoding::GetEncodings method
+## Encoding::GetEncodings() method
 
 
 Gets list of known encodings.

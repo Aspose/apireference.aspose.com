@@ -1,12 +1,12 @@
 ---
-title: set_Context
+title: set_Context()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography.xml/transform/set_context/
 ---
-## Transform::set_Context method
+## Transform::set_Context([SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlElement](../../../system.xml/xmlelement/)\>) method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: ToSByte
+title: ToSByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value of this instance to an equivalent 8-bit signed integer using the specified culture-specific formatting information.
 type: docs
 weight: 40
 url: /cpp/system/iconvertible/tosbyte/
 ---
-## IConvertible::ToSByte method
+## IConvertible::ToSByte([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to an equivalent 8-bit signed integer using the specified culture-specific formatting information.

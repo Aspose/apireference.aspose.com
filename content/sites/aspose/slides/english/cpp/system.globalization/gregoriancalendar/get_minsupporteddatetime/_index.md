@@ -1,12 +1,12 @@
 ---
-title: get_MinSupportedDateTime
+title: get_MinSupportedDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Minimal point in time that is supported by the calendar.
 type: docs
 weight: 53
 url: /cpp/system.globalization/gregoriancalendar/get_minsupporteddatetime/
 ---
-## GregorianCalendar::get_MinSupportedDateTime method
+## GregorianCalendar::get_MinSupportedDateTime() const method
 
 
 Minimal point in time that is supported by the calendar.

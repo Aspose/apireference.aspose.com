@@ -1,12 +1,12 @@
 ---
-title: ToStringInternal
+title: ToStringInternal()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the value represented by the object. For internal use.
 type: docs
 weight: 391
 url: /cpp/system/decimal/tostringinternal/
 ---
-## Decimal::ToStringInternal method
+## Decimal::ToStringInternal() const method
 
 
 Returns the string representation of the value represented by the object. For internal use.

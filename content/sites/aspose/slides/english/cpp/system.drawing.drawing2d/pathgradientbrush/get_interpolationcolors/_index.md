@@ -1,12 +1,12 @@
 ---
-title: get_InterpolationColors
+title: get_InterpolationColors()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value the defines a multicolor linear gradient.
 type: docs
 weight: 40
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_interpolationcolors/
 ---
-## PathGradientBrush::get_InterpolationColors method
+## PathGradientBrush::get_InterpolationColors() const method
 
 
 Returns a value the defines a multicolor linear gradient.

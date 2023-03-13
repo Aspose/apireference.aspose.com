@@ -1,12 +1,12 @@
 ---
-title: get_ChainStatus
+title: get_ChainStatus()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/x509chain/get_chainstatus/
 ---
-## X509Chain::get_ChainStatus method
+## X509Chain::get_ChainStatus() method
 
 
 NOT IMPLEMENTED.

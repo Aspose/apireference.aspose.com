@@ -1,5 +1,5 @@
 ---
-title: AddImage
+title: AddImage()
 second_title: Aspose.Slides for C++ API Reference
 description: Add an image to a presentation.
 type: docs

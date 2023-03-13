@@ -1,12 +1,12 @@
 ---
-title: get_LinkPathLong
+title: get_LinkPathLong()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the name of an video file which is linked to a VideoFrame. Read System::String."
 type: docs
 weight: 157
 url: /cpp/aspose.slides/videoframe/get_linkpathlong/
 ---
-## VideoFrame::get_LinkPathLong method
+## VideoFrame::get_LinkPathLong() method
 
 
 Returns the name of an video file which is linked to a [VideoFrame](../). Read [System::String](../../../system/string/).

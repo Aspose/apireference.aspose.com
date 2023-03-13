@@ -1,12 +1,12 @@
 ---
-title: Stop
+title: Stop()
 second_title: Aspose.Slides for C++ API Reference
 description: Stops timer.
 type: docs
 weight: 118
 url: /cpp/system.timers/timer/stop/
 ---
-## Timer::Stop method
+## Timer::Stop() method
 
 
 Stops timer.

@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaAttribute
+title: XmlSchemaAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaAttribute class.
 type: docs
 weight: 248
 url: /cpp/system.xml.schema/xmlschemaattribute/xmlschemaattribute/
 ---
-## XmlSchemaAttribute::XmlSchemaAttribute constructor
+## XmlSchemaAttribute::XmlSchemaAttribute() constructor
 
 
 Initializes a new instance of the [XmlSchemaAttribute](../) class.

@@ -1,12 +1,12 @@
 ---
-title: get_SchemaLocation
+title: get_SchemaLocation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Uniform Resource Identifier (URI) location for the schema, which tells the schema processor where the schema physically resides.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaexternal/get_schemalocation/
 ---
-## XmlSchemaExternal::get_SchemaLocation method
+## XmlSchemaExternal::get_SchemaLocation() method
 
 
 Returns the Uniform Resource Identifier (URI) location for the schema, which tells the schema processor where the schema physically resides.

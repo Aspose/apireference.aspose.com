@@ -1,12 +1,12 @@
 ---
-title: get_TextLocked
+title: get_TextLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an editing of text is forbidden. Read bool.
 type: docs
 weight: 261
 url: /cpp/aspose.slides/autoshapelock/get_textlocked/
 ---
-## AutoShapeLock::get_TextLocked method
+## AutoShapeLock::get_TextLocked() method
 
 
 Determines whether an editing of text is forbidden. Read **bool**.

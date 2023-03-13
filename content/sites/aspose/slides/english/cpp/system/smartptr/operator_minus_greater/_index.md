@@ -1,12 +1,12 @@
 ---
-title: operator->
+title: operator->()
 second_title: Aspose.Slides for C++ API Reference
 description: Allows to access members of referenced object.
 type: docs
 weight: 40
 url: /cpp/system/smartptr/operator_minus_greater/
 ---
-## SmartPtr::operator-> method
+## SmartPtr::operator->() const method
 
 
 Allows to access members of referenced object.

@@ -1,12 +1,12 @@
 ---
-title: get_Firebrick
+title: get_Firebrick()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFB22222.
 type: docs
 weight: 547
 url: /cpp/system.drawing/brushes/get_firebrick/
 ---
-## Brushes::get_Firebrick method
+## Brushes::get_Firebrick() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFB22222.

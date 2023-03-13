@@ -1,12 +1,12 @@
 ---
-title: get_Action
+title: get_Action()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating what type of node change event is occurring.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlnodechangedeventargs/get_action/
 ---
-## XmlNodeChangedEventArgs::get_Action method
+## XmlNodeChangedEventArgs::get_Action() method
 
 
 Returns a value indicating what type of node change event is occurring.

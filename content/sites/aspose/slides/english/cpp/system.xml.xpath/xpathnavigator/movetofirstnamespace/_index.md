@@ -1,5 +1,5 @@
 ---
-title: MoveToFirstNamespace
+title: MoveToFirstNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, moves the XPathNavigator to the first namespace node that matches the XPathNamespaceScope specified.
 type: docs

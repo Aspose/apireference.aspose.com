@@ -1,12 +1,12 @@
 ---
-title: set_DtdProcessing
+title: set_DtdProcessing()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the DtdProcessing enumeration.
 type: docs
 weight: 430
 url: /cpp/system.xml/xmltextreader/set_dtdprocessing/
 ---
-## XmlTextReader::set_DtdProcessing method
+## XmlTextReader::set_DtdProcessing([System::Xml::DtdProcessing](../../dtdprocessing/)) method
 
 
 Sets the DtdProcessing enumeration.

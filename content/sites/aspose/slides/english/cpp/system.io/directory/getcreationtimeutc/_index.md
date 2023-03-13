@@ -1,12 +1,12 @@
 ---
-title: GetCreationTimeUtc
+title: GetCreationTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the creation time of the specified entity as UTC time.
 type: docs
 weight: 144
 url: /cpp/system.io/directory/getcreationtimeutc/
 ---
-## Directory::GetCreationTimeUtc method
+## Directory::GetCreationTimeUtc(const [String](../../../system/string/)\&) method
 
 
 Returns the creation time of the specified entity as UTC time.

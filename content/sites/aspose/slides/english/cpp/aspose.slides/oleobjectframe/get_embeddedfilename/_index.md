@@ -1,15 +1,15 @@
 ---
-title: get_EmbeddedFileName
+title: get_EmbeddedFileName()
 second_title: Aspose.Slides for C++ API Reference
-description: Returns the path of embedded OLE object.
+description: Returns the path of embedded OLE object
 type: docs
 weight: 157
 url: /cpp/aspose.slides/oleobjectframe/get_embeddedfilename/
 ---
-## OleObjectFrame::get_EmbeddedFileName method
+## OleObjectFrame::get_EmbeddedFileName() method
 
 
-Returns the path of embedded OLE object.
+Returns the path of embedded OLE object
 
 ```cpp
 System::String Aspose::Slides::OleObjectFrame::get_EmbeddedFileName() override

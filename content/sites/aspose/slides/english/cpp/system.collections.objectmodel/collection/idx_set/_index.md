@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets value at specified index.
 type: docs
 weight: 53
 url: /cpp/system.collections.objectmodel/collection/idx_set/
 ---
-## Collection::idx_set method
+## Collection::idx_set(int, T) method
 
 
 Sets value at specified index.

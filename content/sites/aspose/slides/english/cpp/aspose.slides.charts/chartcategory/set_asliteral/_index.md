@@ -1,12 +1,12 @@
 ---
-title: set_AsLiteral
+title: set_AsLiteral()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets AsLiteral object. Write System::Object."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/chartcategory/set_asliteral/
 ---
-## ChartCategory::set_AsLiteral method
+## ChartCategory::set_AsLiteral([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Sets AsLiteral object. Write [System::Object](../../../system/object/).

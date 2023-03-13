@@ -1,12 +1,12 @@
 ---
-title: set_Points
+title: set_Points()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies points of command. Write System::Drawing::PointF[]."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/motioncmdpath/set_points/
 ---
-## MotionCmdPath::set_Points method
+## MotionCmdPath::set_Points([System::ArrayPtr](../../../system/arrayptr/)\<[System::Drawing::PointF](../../../system.drawing/pointf/)\>) method
 
 
 Specifies points of command. Write [System::Drawing::PointF](../../../system.drawing/pointf/)[].

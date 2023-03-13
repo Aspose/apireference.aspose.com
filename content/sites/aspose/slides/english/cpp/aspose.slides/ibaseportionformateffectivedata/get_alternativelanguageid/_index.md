@@ -1,12 +1,12 @@
 ---
-title: get_AlternativeLanguageId
+title: get_AlternativeLanguageId()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the Id of an alternative language. Read-only System::String."
 type: docs
 weight: 326
 url: /cpp/aspose.slides/ibaseportionformateffectivedata/get_alternativelanguageid/
 ---
-## IBasePortionFormatEffectiveData::get_AlternativeLanguageId method
+## IBasePortionFormatEffectiveData::get_AlternativeLanguageId() method
 
 
 Returns the Id of an alternative language. Read-only [System::String](../../../system/string/).

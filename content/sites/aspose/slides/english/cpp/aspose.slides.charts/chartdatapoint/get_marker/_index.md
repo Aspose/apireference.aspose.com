@@ -1,12 +1,12 @@
 ---
-title: get_Marker
+title: get_Marker()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies a data marker. Read-only IMarker.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/chartdatapoint/get_marker/
 ---
-## ChartDataPoint::get_Marker method
+## ChartDataPoint::get_Marker() method
 
 
 Specifies a data marker. Read-only [IMarker](../../imarker/).

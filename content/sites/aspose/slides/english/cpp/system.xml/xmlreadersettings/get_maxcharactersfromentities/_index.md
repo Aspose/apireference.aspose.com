@@ -1,12 +1,12 @@
 ---
-title: get_MaxCharactersFromEntities
+title: get_MaxCharactersFromEntities()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating the maximum allowable number of characters in a document that result from expanding entities.
 type: docs
 weight: 170
 url: /cpp/system.xml/xmlreadersettings/get_maxcharactersfromentities/
 ---
-## XmlReaderSettings::get_MaxCharactersFromEntities method
+## XmlReaderSettings::get_MaxCharactersFromEntities() method
 
 
 Returns a value indicating the maximum allowable number of characters in a document that result from expanding entities.

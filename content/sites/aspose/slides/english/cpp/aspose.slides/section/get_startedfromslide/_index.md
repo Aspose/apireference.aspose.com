@@ -1,12 +1,12 @@
 ---
-title: get_StartedFromSlide
+title: get_StartedFromSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns first slide of the section.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/section/get_startedfromslide/
 ---
-## Section::get_StartedFromSlide method
+## Section::get_StartedFromSlide() method
 
 
 Returns first slide of the section.

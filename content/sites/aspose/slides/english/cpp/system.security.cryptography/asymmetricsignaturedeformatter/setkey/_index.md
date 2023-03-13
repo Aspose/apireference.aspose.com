@@ -1,12 +1,12 @@
 ---
-title: SetKey
+title: SetKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets key to use with algorithm.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/asymmetricsignaturedeformatter/setkey/
 ---
-## AsymmetricSignatureDeformatter::SetKey method
+## AsymmetricSignatureDeformatter::SetKey([System::SharedPtr](../../../system/sharedptr/)\<[AsymmetricAlgorithm](../../asymmetricalgorithm/)\>) method
 
 
 Sets key to use with algorithm.

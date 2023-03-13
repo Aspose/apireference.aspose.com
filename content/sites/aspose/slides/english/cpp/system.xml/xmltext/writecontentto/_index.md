@@ -1,12 +1,12 @@
 ---
-title: WriteContentTo
+title: WriteContentTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves all the children of the node to the specified XmlWriter. XmlText nodes do not have children, so this method has no effect.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmltext/writecontentto/
 ---
-## XmlText::WriteContentTo method
+## XmlText::WriteContentTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
 
 
 Saves all the children of the node to the specified [XmlWriter](../../xmlwriter/). [XmlText](../) nodes do not have children, so this method has no effect.

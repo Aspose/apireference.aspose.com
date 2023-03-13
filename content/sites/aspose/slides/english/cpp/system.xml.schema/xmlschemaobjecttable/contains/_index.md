@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the qualified name specified exists in the collection.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaobjecttable/contains/
 ---
-## XmlSchemaObjectTable::Contains method
+## XmlSchemaObjectTable::Contains(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
 
 
 Determines if the qualified name specified exists in the collection.

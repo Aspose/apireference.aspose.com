@@ -1,12 +1,12 @@
 ---
-title: AddTintEffect
+title: AddTintEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Tint effect to the end of a collection.
 type: docs
 weight: 261
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addtinteffect/
 ---
-## ImageTransformOperationCollection::AddTintEffect method
+## ImageTransformOperationCollection::AddTintEffect(**float**, **float**) method
 
 
 Adds the new [Tint](../../tint/) effect to the end of a collection.

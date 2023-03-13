@@ -1,12 +1,12 @@
 ---
-title: get_BaseUri
+title: get_BaseUri()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns base URI of the specified Svg. Used to resolve relative links. Read-only System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/svgimage/get_baseuri/
 ---
-## SvgImage::get_BaseUri method
+## SvgImage::get_BaseUri() method
 
 
 Returns base URI of the specified Svg. Used to resolve relative links. Read-only [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: get_Text
+title: get_Text()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the warning text.
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/warningheadervalue/get_text/
 ---
-## WarningHeaderValue::get_Text method
+## WarningHeaderValue::get_Text() method
 
 
 Returns the warning text.

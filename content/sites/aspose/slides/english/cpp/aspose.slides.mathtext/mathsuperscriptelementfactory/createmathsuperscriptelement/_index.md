@@ -1,15 +1,15 @@
 ---
-title: CreateMathSuperscriptElement
+title: CreateMathSuperscriptElement()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates IMathSuperscriptElement.
+description: Creates IMathSuperscriptElement
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathsuperscriptelementfactory/createmathsuperscriptelement/
 ---
-## MathSuperscriptElementFactory::CreateMathSuperscriptElement method
+## MathSuperscriptElementFactory::CreateMathSuperscriptElement([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates [IMathSuperscriptElement](../../imathsuperscriptelement/).
+Creates [IMathSuperscriptElement](../../imathsuperscriptelement/)
 
 ```cpp
 System::SharedPtr<IMathSuperscriptElement> Aspose::Slides::MathText::MathSuperscriptElementFactory::CreateMathSuperscriptElement(System::SharedPtr<IMathElement> baseArg, System::SharedPtr<IMathElement> superScript) override

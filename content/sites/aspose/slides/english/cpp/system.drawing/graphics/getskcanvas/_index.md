@@ -1,12 +1,12 @@
 ---
-title: GetSkCanvas
+title: GetSkCanvas()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1145
 url: /cpp/system.drawing/graphics/getskcanvas/
 ---
-## Graphics::GetSkCanvas method
+## Graphics::GetSkCanvas() const method
 
 
 

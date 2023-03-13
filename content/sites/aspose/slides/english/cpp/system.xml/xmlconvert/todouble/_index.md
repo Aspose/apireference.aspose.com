@@ -1,12 +1,12 @@
 ---
-title: ToDouble
+title: ToDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Double equivalent.
 type: docs
 weight: 391
 url: /cpp/system.xml/xmlconvert/todouble/
 ---
-## XmlConvert::ToDouble method
+## XmlConvert::ToDouble([String](../../../system/string/)) method
 
 
 Converts the [String](../../../system/string/) to a [Double](../../../system/double/) equivalent.

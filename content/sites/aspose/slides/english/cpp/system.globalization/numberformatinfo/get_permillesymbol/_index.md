@@ -1,12 +1,12 @@
 ---
-title: get_PerMilleSymbol
+title: get_PerMilleSymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets permille symbol.
 type: docs
 weight: 144
 url: /cpp/system.globalization/numberformatinfo/get_permillesymbol/
 ---
-## NumberFormatInfo::get_PerMilleSymbol method
+## NumberFormatInfo::get_PerMilleSymbol() const method
 
 
 Gets permille symbol.

@@ -1,12 +1,12 @@
 ---
-title: AddWeeks
+title: AddWeeks()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds weeks to time point.
 type: docs
 weight: 157
 url: /cpp/system.globalization/calendar/addweeks/
 ---
-## Calendar::AddWeeks method
+## Calendar::AddWeeks([DateTime](../../../system/datetime/), int) const method
 
 
 Adds weeks to time point.

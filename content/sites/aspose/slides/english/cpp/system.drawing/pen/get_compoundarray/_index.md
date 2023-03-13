@@ -1,12 +1,12 @@
 ---
-title: get_CompoundArray
+title: get_CompoundArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array of values that specifies a compound pen.
 type: docs
 weight: 274
 url: /cpp/system.drawing/pen/get_compoundarray/
 ---
-## Pen::get_CompoundArray method
+## Pen::get_CompoundArray() const method
 
 
 Returns an array of values that specifies a compound pen.

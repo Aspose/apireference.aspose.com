@@ -1,12 +1,12 @@
 ---
-title: GetLevel
+title: GetLevel()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns level of effective style.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/itextstyleeffectivedata/getlevel/
 ---
-## ITextStyleEffectiveData::GetLevel method
+## ITextStyleEffectiveData::GetLevel(**int32_t**) method
 
 
 Returns level of effective style.

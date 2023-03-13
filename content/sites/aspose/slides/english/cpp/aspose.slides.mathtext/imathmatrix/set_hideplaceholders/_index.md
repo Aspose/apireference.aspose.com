@@ -1,15 +1,15 @@
 ---
-title: set_HidePlaceholders
+title: set_HidePlaceholders()
 second_title: Aspose.Slides for C++ API Reference
-description: "Hide the placeholders for empty matrix elements Default: false."
+description: "Hide the placeholders for empty matrix elements Default: false"
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/imathmatrix/set_hideplaceholders/
 ---
-## IMathMatrix::set_HidePlaceholders method
+## IMathMatrix::set_HidePlaceholders(**bool**) method
 
 
-Hide the placeholders for empty matrix elements Default: false.
+Hide the placeholders for empty matrix elements Default: false
 
 ```cpp
 virtual void Aspose::Slides::MathText::IMathMatrix::set_HidePlaceholders(bool value)=0

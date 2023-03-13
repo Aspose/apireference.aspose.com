@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns string value data. Return null if DataSourceType is false and no string value was assigned.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/stringchartvalue/tostring/
 ---
-## StringChartValue::ToString method
+## StringChartValue::ToString() const method
 
 
 Returns string value data. Return null if DataSourceType is false and no string value was assigned.

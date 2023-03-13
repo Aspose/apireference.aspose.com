@@ -1,5 +1,5 @@
 ---
-title: AddDataPointForBubbleSeries
+title: AddDataPointForBubbleSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: "Creates the new data point and adds it to the end of collection. Applicable for series which chartType is one of Bubble subtypes (see also ChartTypeCharacterizer::IsChartTypeBubble(ChartType) method)."
 type: docs

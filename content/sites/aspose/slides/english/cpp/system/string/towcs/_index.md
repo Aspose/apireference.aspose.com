@@ -1,12 +1,12 @@
 ---
-title: ToWCS
+title: ToWCS()
 second_title: Aspose.Slides for C++ API Reference
 description: "Converts string to std::wstring."
 type: docs
 weight: 144
 url: /cpp/system/string/towcs/
 ---
-## String::ToWCS method
+## String::ToWCS() const method
 
 
 Converts string to std::wstring.

@@ -1,12 +1,12 @@
 ---
-title: set_From
+title: set_From()
 second_title: Aspose.Slides for C++ API Reference
 description: This value is used to specify the starting color of behavior. Write IColorFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/coloreffect/set_from/
 ---
-## ColorEffect::set_From method
+## ColorEffect::set_From([System::SharedPtr](../../../system/sharedptr/)\<[IColorFormat](../../../aspose.slides/icolorformat/)\>) method
 
 
 This value is used to specify the starting color of behavior. Write [IColorFormat](../../../aspose.slides/icolorformat/).

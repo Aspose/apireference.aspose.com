@@ -1,12 +1,12 @@
 ---
-title: get_Settings
+title: get_Settings()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlWriterSettings object used to create this XmlWriter instance.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlwriter/get_settings/
 ---
-## XmlWriter::get_Settings method
+## XmlWriter::get_Settings() method
 
 
 Returns the [XmlWriterSettings](../../xmlwritersettings/) object used to create this [XmlWriter](../) instance.

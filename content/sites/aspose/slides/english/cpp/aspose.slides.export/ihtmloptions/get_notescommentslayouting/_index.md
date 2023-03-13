@@ -1,12 +1,12 @@
 ---
-title: get_NotesCommentsLayouting
+title: get_NotesCommentsLayouting()
 second_title: Aspose.Slides for C++ API Reference
 description: Provides options that control how notes and comments is placed in exported document.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.export/ihtmloptions/get_notescommentslayouting/
 ---
-## IHtmlOptions::get_NotesCommentsLayouting method
+## IHtmlOptions::get_NotesCommentsLayouting() method
 
 
 Provides options that control how notes and comments is placed in exported document.

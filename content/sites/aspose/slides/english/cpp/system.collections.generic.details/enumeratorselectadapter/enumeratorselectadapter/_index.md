@@ -1,12 +1,12 @@
 ---
-title: EnumeratorSelectAdapter
+title: EnumeratorSelectAdapter()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.collections.generic.details/enumeratorselectadapter/enumeratorselectadapter/
 ---
-## EnumeratorSelectAdapter::EnumeratorSelectAdapter constructor
+## EnumeratorSelectAdapter::EnumeratorSelectAdapter([SharedPtr](../../../system/sharedptr/)\<[IEnumerator](../../../system.collections.generic/ienumerator/)\<Source\>\>, const [Func](../../../system/func/)\<Source, Result\>\&) constructor
 
 
 

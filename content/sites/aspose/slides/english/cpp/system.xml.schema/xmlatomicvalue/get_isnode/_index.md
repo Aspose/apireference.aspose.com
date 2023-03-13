@@ -1,12 +1,12 @@
 ---
-title: get_IsNode
+title: get_IsNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the validated XML element or attribute is an XPath node or an atomic value.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlatomicvalue/get_isnode/
 ---
-## XmlAtomicValue::get_IsNode method
+## XmlAtomicValue::get_IsNode() method
 
 
 Returns a value indicating whether the validated XML element or attribute is an [XPath](../../../system.xml.xpath/) node or an atomic value.

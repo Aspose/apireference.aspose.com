@@ -1,12 +1,12 @@
 ---
-title: get_Quality
+title: get_Quality()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a quality.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/stringwithqualityheadervalue/get_quality/
 ---
-## StringWithQualityHeaderValue::get_Quality method
+## StringWithQualityHeaderValue::get_Quality() method
 
 
 Returns a quality.

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns IChartDataPointLevel object for defined level.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/chartdatapointlevelsmanager/idx_get/
 ---
-## ChartDataPointLevelsManager::idx_get method
+## ChartDataPointLevelsManager::idx_get(**int32_t**) method
 
 
 Returns [IChartDataPointLevel](../../ichartdatapointlevel/) object for defined level.

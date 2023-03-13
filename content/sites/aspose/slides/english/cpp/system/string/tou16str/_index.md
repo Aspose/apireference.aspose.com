@@ -1,12 +1,12 @@
 ---
-title: ToU16Str
+title: ToU16Str()
 second_title: Aspose.Slides for C++ API Reference
 description: "Converts string to std::u16string."
 type: docs
 weight: 157
 url: /cpp/system/string/tou16str/
 ---
-## String::ToU16Str method
+## String::ToU16Str() const method
 
 
 Converts string to std::u16string.

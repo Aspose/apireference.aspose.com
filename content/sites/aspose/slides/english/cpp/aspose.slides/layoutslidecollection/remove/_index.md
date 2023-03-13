@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes a layout from the collection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/layoutslidecollection/remove/
 ---
-## LayoutSlideCollection::Remove method
+## LayoutSlideCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
 
 
 Removes a layout from the collection.

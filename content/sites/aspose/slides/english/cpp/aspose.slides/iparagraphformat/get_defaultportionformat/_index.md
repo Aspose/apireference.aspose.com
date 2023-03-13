@@ -1,12 +1,12 @@
 ---
-title: get_DefaultPortionFormat
+title: get_DefaultPortionFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns default portion format of a paragraph. No inheritance applied. Read-only IPortionFormat.
 type: docs
 weight: 391
 url: /cpp/aspose.slides/iparagraphformat/get_defaultportionformat/
 ---
-## IParagraphFormat::get_DefaultPortionFormat method
+## IParagraphFormat::get_DefaultPortionFormat() method
 
 
 Returns default portion format of a paragraph. No inheritance applied. Read-only [IPortionFormat](../../iportionformat/).

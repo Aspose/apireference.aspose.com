@@ -1,12 +1,12 @@
 ---
-title: get_EndArrowheadWidth
+title: get_EndArrowheadWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the arrowhead width at the end of a line. Read LineArrowheadWidth.
 type: docs
 weight: 326
 url: /cpp/aspose.slides/ilineformat/get_endarrowheadwidth/
 ---
-## ILineFormat::get_EndArrowheadWidth method
+## ILineFormat::get_EndArrowheadWidth() method
 
 
 Returns the arrowhead width at the end of a line. Read [LineArrowheadWidth](../../linearrowheadwidth/).

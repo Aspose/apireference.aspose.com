@@ -1,7 +1,7 @@
 ---
 title: SmartArtNode
 second_title: Aspose.Slides for C++ API Reference
-description: Represents node of a SmartArt object.
+description: Represents node of a SmartArt object
 type: docs
 weight: 79
 url: /cpp/aspose.slides.smartart/smartartnode/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.smartart/smartartnode/
 ## SmartArtNode class
 
 
-Represents node of a [SmartArt](../smartart/) object.
+Represents node of a [SmartArt](../smartart/) object
 
 ```cpp
 class SmartArtNode : public Aspose::Slides::SmartArt::ISmartArtNode

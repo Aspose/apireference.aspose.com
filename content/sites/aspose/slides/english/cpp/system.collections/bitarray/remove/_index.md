@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns first occurance of specified value. Not implemented.
 type: docs
 weight: 131
 url: /cpp/system.collections/bitarray/remove/
 ---
-## BitArray::Remove method
+## BitArray::Remove(const **bool**\&) method
 
 
 Returns first occurance of specified value. Not implemented.

@@ -1,12 +1,12 @@
 ---
-title: get_LineNumberOffset
+title: get_LineNumberOffset()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns line number offset of the XmlReader object.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlreadersettings/get_linenumberoffset/
 ---
-## XmlReaderSettings::get_LineNumberOffset method
+## XmlReaderSettings::get_LineNumberOffset() method
 
 
 Returns line number offset of the [XmlReader](../../xmlreader/) object.

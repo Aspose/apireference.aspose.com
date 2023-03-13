@@ -1,12 +1,12 @@
 ---
-title: set_ComplexScriptFont
+title: set_ComplexScriptFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the complex script font. Write IFontData.
 type: docs
 weight: 5422
 url: /cpp/aspose.slides/set_complexscriptfont/
 ---
-## Aspose::Slides::set_ComplexScriptFont function
+## Aspose::Slides::set_ComplexScriptFont([System::SharedPtr](../../system/sharedptr/)\<[IFontData](../ifontdata/)\>) function
 
 
 Sets the complex script font. Write [IFontData](../ifontdata/).

@@ -1,12 +1,12 @@
 ---
-title: get_LinePosition
+title: get_LinePosition()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line position indicating where the error occurred. Line position starts at 1.
 type: docs
 weight: 14
 url: /cpp/system.xml/details_xmlexception/get_lineposition/
 ---
-## Details_XmlException::get_LinePosition method
+## Details_XmlException::get_LinePosition() method
 
 
 Returns the line position indicating where the error occurred. Line position starts at 1.

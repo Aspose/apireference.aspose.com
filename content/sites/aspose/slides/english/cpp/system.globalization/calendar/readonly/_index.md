@@ -1,12 +1,12 @@
 ---
-title: ReadOnly
+title: ReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets read only version of calendar.
 type: docs
 weight: 534
 url: /cpp/system.globalization/calendar/readonly/
 ---
-## Calendar::ReadOnly method
+## Calendar::ReadOnly(const [CalendarPtr](../../calendarptr/)\&) method
 
 
 Gets read only version of calendar.

@@ -1,12 +1,12 @@
 ---
-title: IncrementIterator
+title: IncrementIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the iterator step forward.
 type: docs
 weight: 92
 url: /cpp/system.collections.generic/ienumerator/incrementiterator/
 ---
-## IEnumerator::IncrementIterator method
+## IEnumerator::IncrementIterator() method
 
 
 Moves the iterator step forward.

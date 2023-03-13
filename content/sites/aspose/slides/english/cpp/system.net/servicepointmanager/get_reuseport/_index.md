@@ -1,12 +1,12 @@
 ---
-title: get_ReusePort
+title: get_ReusePort()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the output connections sockets use the 'SO_REUSE_UNICASTPORT' option.
 type: docs
 weight: 261
 url: /cpp/system.net/servicepointmanager/get_reuseport/
 ---
-## ServicePointManager::get_ReusePort method
+## ServicePointManager::get_ReusePort() method
 
 
 Gets a value that indicates if the output connections sockets use the 'SO_REUSE_UNICASTPORT' option.

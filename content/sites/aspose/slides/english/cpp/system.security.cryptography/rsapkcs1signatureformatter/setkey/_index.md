@@ -1,12 +1,12 @@
 ---
-title: SetKey
+title: SetKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets key value. Not implemented.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/rsapkcs1signatureformatter/setkey/
 ---
-## RSAPKCS1SignatureFormatter::SetKey method
+## RSAPKCS1SignatureFormatter::SetKey([System::SharedPtr](../../../system/sharedptr/)\<[AsymmetricAlgorithm](../../asymmetricalgorithm/)\>) method
 
 
 Sets key value. Not implemented.

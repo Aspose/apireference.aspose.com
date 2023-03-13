@@ -1,12 +1,12 @@
 ---
-title: Cos
+title: Cos()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the cosine of the specified value.
 type: docs
 weight: 66
 url: /cpp/system/math/cos/
 ---
-## Math::Cos method
+## Math::Cos(**double**) method
 
 
 Calculates the cosine of the specified value.

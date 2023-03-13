@@ -1,12 +1,12 @@
 ---
-title: get_Material
+title: get_Material()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of a material. Read-only MaterialPresetType.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/ithreedformateffectivedata/get_material/
 ---
-## IThreeDFormatEffectiveData::get_Material method
+## IThreeDFormatEffectiveData::get_Material() method
 
 
 Returns the type of a material. Read-only [MaterialPresetType](../../materialpresettype/).

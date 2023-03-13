@@ -1,12 +1,12 @@
 ---
-title: IsWindowsSubsystemForLinux
+title: IsWindowsSubsystemForLinux()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns true only for WSL.
 type: docs
 weight: 378
 url: /cpp/system/environment/iswindowssubsystemforlinux/
 ---
-## Environment::IsWindowsSubsystemForLinux method
+## Environment::IsWindowsSubsystemForLinux() method
 
 
 Returns true only for WSL.

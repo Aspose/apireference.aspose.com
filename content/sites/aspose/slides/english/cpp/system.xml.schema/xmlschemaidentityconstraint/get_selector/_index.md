@@ -1,12 +1,12 @@
 ---
-title: get_Selector
+title: get_Selector()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XPath expression selector element.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/get_selector/
 ---
-## XmlSchemaIdentityConstraint::get_Selector method
+## XmlSchemaIdentityConstraint::get_Selector() method
 
 
 Returns the [XPath](../../../system.xml.xpath/) expression **selector** element.

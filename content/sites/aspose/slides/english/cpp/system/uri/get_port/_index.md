@@ -1,12 +1,12 @@
 ---
-title: get_Port
+title: get_Port()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the port number of the URI represented by the current object.
 type: docs
 weight: 157
 url: /cpp/system/uri/get_port/
 ---
-## Uri::get_Port method
+## Uri::get_Port() const method
 
 
 Returns the port number of the URI represented by the current object.

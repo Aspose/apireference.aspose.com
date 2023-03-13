@@ -1,12 +1,12 @@
 ---
-title: Icon
+title: Icon()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of Icon class that represents an icon from the specified file.
 type: docs
 weight: 1
 url: /cpp/system.drawing/icon/icon/
 ---
-## Icon::Icon constructor
+## Icon::Icon(const [String](../../../system/string/)\&) constructor
 
 
 Constructs a new instance of [Icon](../) class that represents an icon from the specified file.

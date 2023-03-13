@@ -1,12 +1,12 @@
 ---
-title: Flush
+title: Flush()
 second_title: Aspose.Slides for C++ API Reference
 description: Empties buffer into wrapped stream. Does nothing as transform algorithm can be still waiting for more data.
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography/cryptostream/flush/
 ---
-## CryptoStream::Flush method
+## CryptoStream::Flush() method
 
 
 Empties buffer into wrapped stream. Does nothing as transform algorithm can be still waiting for more data.

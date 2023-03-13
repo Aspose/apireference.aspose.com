@@ -1,12 +1,12 @@
 ---
-title: get_WarningType
+title: get_WarningType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a type of warning. Read-only IWarningInfo::get_WarningType."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.warnings/iwarninginfo/get_warningtype/
 ---
-## IWarningInfo::get_WarningType method
+## IWarningInfo::get_WarningType() method
 
 
 Returns a type of warning. Read-only [IWarningInfo::get_WarningType](./).

@@ -1,12 +1,12 @@
 ---
-title: get_MaxResponseContentBufferSize
+title: get_MaxResponseContentBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the maximum number of bytes of response content.
 type: docs
 weight: 66
 url: /cpp/system.net.http/httpclient/get_maxresponsecontentbuffersize/
 ---
-## HttpClient::get_MaxResponseContentBufferSize method
+## HttpClient::get_MaxResponseContentBufferSize() method
 
 
 Gets the maximum number of bytes of response content.

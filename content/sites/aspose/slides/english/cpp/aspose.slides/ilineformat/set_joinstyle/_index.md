@@ -1,12 +1,12 @@
 ---
-title: set_JoinStyle
+title: set_JoinStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the lines join style. Write LineJoinStyle.
 type: docs
 weight: 209
 url: /cpp/aspose.slides/ilineformat/set_joinstyle/
 ---
-## ILineFormat::set_JoinStyle method
+## ILineFormat::set_JoinStyle([LineJoinStyle](../../linejoinstyle/)) method
 
 
 Sets the lines join style. Write [LineJoinStyle](../../linejoinstyle/).

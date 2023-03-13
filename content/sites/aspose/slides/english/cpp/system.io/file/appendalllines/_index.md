@@ -1,12 +1,12 @@
 ---
-title: AppendAllLines
+title: AppendAllLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Appends strings from the specified collection of strings to the specified file using the specified encoding by writing each string in a new line. If the specified file does not exist, it is created. The file is closed after writing all strings.
 type: docs
 weight: 1
 url: /cpp/system.io/file/appendalllines/
 ---
-## File::AppendAllLines method
+## File::AppendAllLines(const [String](../../../system/string/)\&, const [SharedPtr](../../../system/sharedptr/)\<[Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<[String](../../../system/string/)\>\>\&, const [EncodingPtr](../../../system/encodingptr/)\&) method
 
 
 Appends strings from the specified collection of strings to the specified file using the specified encoding by writing each string in a new line. If the specified file does not exist, it is created. The file is closed after writing all strings.

@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies data to existing array elements.
 type: docs
 weight: 144
 url: /cpp/system.collections/bitarray/copyto/
 ---
-## BitArray::CopyTo method
+## BitArray::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<**bool**\>, int) method
 
 
 Copies data to existing array elements.

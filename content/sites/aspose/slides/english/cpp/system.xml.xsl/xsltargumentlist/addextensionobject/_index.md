@@ -1,12 +1,12 @@
 ---
-title: AddExtensionObject
+title: AddExtensionObject()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new object to the XsltArgumentList and associates it with the namespace URI.
 type: docs
 weight: 53
 url: /cpp/system.xml.xsl/xsltargumentlist/addextensionobject/
 ---
-## XsltArgumentList::AddExtensionObject method
+## XsltArgumentList::AddExtensionObject(const [String](../../../system/string/)\&, const [SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 Adds a new object to the [XsltArgumentList](../) and associates it with the namespace URI.

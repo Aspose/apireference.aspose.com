@@ -1,12 +1,12 @@
 ---
-title: get_Offset
+title: get_Offset()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system/arraysegment/get_offset/
 ---
-## ArraySegment::get_Offset method
+## ArraySegment::get_Offset() method
 
 
 

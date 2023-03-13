@@ -1,12 +1,12 @@
 ---
-title: ToChar
+title: ToChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Char equivalent.
 type: docs
 weight: 248
 url: /cpp/system.xml/xmlconvert/tochar/
 ---
-## XmlConvert::ToChar method
+## XmlConvert::ToChar(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [Char](../../../system/char/) equivalent.

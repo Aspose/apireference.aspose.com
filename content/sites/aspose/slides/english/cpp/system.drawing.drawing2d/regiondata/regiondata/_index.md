@@ -1,12 +1,12 @@
 ---
-title: RegionData
+title: RegionData()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of RegionData class and initializes it with the specified data.
 type: docs
 weight: 1
 url: /cpp/system.drawing.drawing2d/regiondata/regiondata/
 ---
-## RegionData::RegionData constructor
+## RegionData::RegionData(const [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) constructor
 
 
 Constructs a new instance of [RegionData](../) class and initializes it with the specified data.

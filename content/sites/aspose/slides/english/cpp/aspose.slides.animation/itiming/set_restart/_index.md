@@ -1,12 +1,12 @@
 ---
-title: set_Restart
+title: set_Restart()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies if a effect is to restart after complete. Write EffectRestartType.
 type: docs
 weight: 222
 url: /cpp/aspose.slides.animation/itiming/set_restart/
 ---
-## ITiming::set_Restart method
+## ITiming::set_Restart([EffectRestartType](../../effectrestarttype/)) method
 
 
 Specifies if a effect is to restart after complete. Write [EffectRestartType](../../effectrestarttype/).

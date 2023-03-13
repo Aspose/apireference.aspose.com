@@ -1,12 +1,12 @@
 ---
-title: FindCommentByIdx
+title: FindCommentByIdx()
 second_title: Aspose.Slides for C++ API Reference
 description: Finds a comment in the collection by index.
 type: docs
 weight: 170
 url: /cpp/aspose.slides/commentcollection/findcommentbyidx/
 ---
-## CommentCollection::FindCommentByIdx method
+## CommentCollection::FindCommentByIdx(**int32_t**) method
 
 
 Finds a comment in the collection by index.

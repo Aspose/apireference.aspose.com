@@ -1,12 +1,12 @@
 ---
-title: get_KeyboardLayoutId
+title: get_KeyboardLayoutId()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets active input locale identifier.
 type: docs
 weight: 183
 url: /cpp/system.globalization/cultureinfo/get_keyboardlayoutid/
 ---
-## CultureInfo::get_KeyboardLayoutId method
+## CultureInfo::get_KeyboardLayoutId() const method
 
 
 Gets active input locale identifier.

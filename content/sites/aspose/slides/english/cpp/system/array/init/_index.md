@@ -1,12 +1,12 @@
 ---
-title: Init
+title: Init()
 second_title: Aspose.Slides for C++ API Reference
 description: Fills the array represented by the current object with the values from the specified array.
 type: docs
 weight: 196
 url: /cpp/system/array/init/
 ---
-## Array::Init method
+## Array::Init(const T) method
 
 
 Fills the array represented by the current object with the values from the specified array.

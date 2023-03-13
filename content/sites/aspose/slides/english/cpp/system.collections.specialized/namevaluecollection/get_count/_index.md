@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the number of key/value pairs.
 type: docs
 weight: 27
 url: /cpp/system.collections.specialized/namevaluecollection/get_count/
 ---
-## NameValueCollection::get_Count method
+## NameValueCollection::get_Count() const method
 
 
 Gets the number of key/value pairs.

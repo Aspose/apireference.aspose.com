@@ -1,5 +1,5 @@
 ---
-title: EncoderReplacementFallback
+title: EncoderReplacementFallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor that uses deafault \"?\" replacement string.
 type: docs

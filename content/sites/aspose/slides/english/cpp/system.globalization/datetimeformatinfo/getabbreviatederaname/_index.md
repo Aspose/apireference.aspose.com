@@ -1,12 +1,12 @@
 ---
-title: GetAbbreviatedEraName
+title: GetAbbreviatedEraName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets abbreviated era name.
 type: docs
 weight: 651
 url: /cpp/system.globalization/datetimeformatinfo/getabbreviatederaname/
 ---
-## DateTimeFormatInfo::GetAbbreviatedEraName method
+## DateTimeFormatInfo::GetAbbreviatedEraName(int) const method
 
 
 Gets abbreviated era name.

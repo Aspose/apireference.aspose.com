@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value attribute of the facet.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemafacet/set_value/
 ---
-## XmlSchemaFacet::set_Value method
+## XmlSchemaFacet::set_Value(const [String](../../../system/string/)\&) method
 
 
 Sets the **value** attribute of the facet.

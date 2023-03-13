@@ -1,5 +1,5 @@
 ---
-title: Next
+title: Next()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a nonnegative random number less then int32 max value.
 type: docs

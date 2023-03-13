@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Disposes the instance of the PresentationAnimationsGenerator.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.export/presentationanimationsgenerator/dispose/
 ---
-## PresentationAnimationsGenerator::Dispose method
+## PresentationAnimationsGenerator::Dispose() method
 
 
 Disposes the instance of the [PresentationAnimationsGenerator](../).

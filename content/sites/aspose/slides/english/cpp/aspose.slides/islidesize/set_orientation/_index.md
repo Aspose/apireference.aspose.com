@@ -1,12 +1,12 @@
 ---
-title: set_Orientation
+title: set_Orientation()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the slide orientation.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/islidesize/set_orientation/
 ---
-## ISlideSize::set_Orientation method
+## ISlideSize::set_Orientation([SlideOrientation](../../slideorientation/)) method
 
 
 Sets the slide orientation.

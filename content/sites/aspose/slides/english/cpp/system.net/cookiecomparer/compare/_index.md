@@ -1,12 +1,12 @@
 ---
-title: Compare
+title: Compare()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares the specified objects.
 type: docs
 weight: 14
 url: /cpp/system.net/cookiecomparer/compare/
 ---
-## CookieComparer::Compare method
+## CookieComparer::Compare([args_type](../../../system.collections.generic/icomparer/args_type/), [args_type](../../../system.collections.generic/icomparer/args_type/)) const method
 
 
 Compares the specified objects.

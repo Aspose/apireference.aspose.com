@@ -1,12 +1,12 @@
 ---
-title: set_Attributes
+title: set_Attributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the specified attributes on the entity represeted by the current object.
 type: docs
 weight: 14
 url: /cpp/system.io/filesysteminfo/set_attributes/
 ---
-## FileSystemInfo::set_Attributes method
+## FileSystemInfo::set_Attributes([FileAttributes](../../fileattributes/)) method
 
 
 Sets the specified attributes on the entity represeted by the current object.

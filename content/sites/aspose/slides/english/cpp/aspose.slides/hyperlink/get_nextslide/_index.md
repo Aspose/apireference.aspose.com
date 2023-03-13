@@ -1,12 +1,12 @@
 ---
-title: get_NextSlide
+title: get_NextSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hyperlink to the next slide. Read-only Hyperlink.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/hyperlink/get_nextslide/
 ---
-## Hyperlink::get_NextSlide method
+## Hyperlink::get_NextSlide() method
 
 
 Returns a hyperlink to the next slide. Read-only [Hyperlink](../).

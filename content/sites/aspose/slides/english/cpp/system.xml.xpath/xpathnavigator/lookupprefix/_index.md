@@ -1,12 +1,12 @@
 ---
-title: LookupPrefix
+title: LookupPrefix()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the prefix declared for the specified namespace URI.
 type: docs
 weight: 417
 url: /cpp/system.xml.xpath/xpathnavigator/lookupprefix/
 ---
-## XPathNavigator::LookupPrefix method
+## XPathNavigator::LookupPrefix(const [String](../../../system/string/)\&) method
 
 
 Returns the prefix declared for the specified namespace URI.

@@ -1,12 +1,12 @@
 ---
-title: HttpClientHandler
+title: HttpClientHandler()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 1
 url: /cpp/system.net.http/httpclienthandler/httpclienthandler/
 ---
-## HttpClientHandler::HttpClientHandler constructor
+## HttpClientHandler::HttpClientHandler() constructor
 
 
 Constructs a new instance.

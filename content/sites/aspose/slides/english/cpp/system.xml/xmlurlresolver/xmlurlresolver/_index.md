@@ -1,12 +1,12 @@
 ---
-title: XmlUrlResolver
+title: XmlUrlResolver()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlUrlResolver class.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlurlresolver/xmlurlresolver/
 ---
-## XmlUrlResolver::XmlUrlResolver constructor
+## XmlUrlResolver::XmlUrlResolver() constructor
 
 
 Initializes a new instance of the [XmlUrlResolver](../) class.

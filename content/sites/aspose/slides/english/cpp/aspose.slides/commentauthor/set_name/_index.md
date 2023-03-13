@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the author's name. Write System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/commentauthor/set_name/
 ---
-## CommentAuthor::set_Name method
+## CommentAuthor::set_Name([System::String](../../../system/string/)) method
 
 
 Sets the author's name. Write [System::String](../../../system/string/).

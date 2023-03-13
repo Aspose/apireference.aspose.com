@@ -1,12 +1,12 @@
 ---
-title: Tan
+title: Tan()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the tangen of the specified value.
 type: docs
 weight: 118
 url: /cpp/system/math/tan/
 ---
-## Math::Tan method
+## Math::Tan(**double**) method
 
 
 Calculates the tangen of the specified value.

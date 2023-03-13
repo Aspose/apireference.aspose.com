@@ -1,12 +1,12 @@
 ---
-title: set_Prefix
+title: set_Prefix()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the namespace prefix of this node.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlattribute/set_prefix/
 ---
-## XmlAttribute::set_Prefix method
+## XmlAttribute::set_Prefix([String](../../../system/string/)) method
 
 
 Sets the namespace prefix of this node.

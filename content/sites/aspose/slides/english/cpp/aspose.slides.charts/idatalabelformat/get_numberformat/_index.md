@@ -1,12 +1,12 @@
 ---
-title: get_NumberFormat
+title: get_NumberFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents the format string for the DataLabels object. Read System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/idatalabelformat/get_numberformat/
 ---
-## IDataLabelFormat::get_NumberFormat method
+## IDataLabelFormat::get_NumberFormat() method
 
 
 Represents the format string for the DataLabels object. Read [System::String](../../../system/string/).

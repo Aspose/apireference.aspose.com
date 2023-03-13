@@ -1,12 +1,12 @@
 ---
-title: FromXmlString
+title: FromXmlString()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads algorithm parameters from XML string.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/asymmetricalgorithm/fromxmlstring/
 ---
-## AsymmetricAlgorithm::FromXmlString method
+## AsymmetricAlgorithm::FromXmlString([String](../../../system/string/)) method
 
 
 Reads algorithm parameters from XML string.

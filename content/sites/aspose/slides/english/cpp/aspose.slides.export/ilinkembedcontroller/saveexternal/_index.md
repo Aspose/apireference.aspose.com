@@ -1,12 +1,12 @@
 ---
-title: SaveExternal
+title: SaveExternal()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves external object.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/ilinkembedcontroller/saveexternal/
 ---
-## ILinkEmbedController::SaveExternal method
+## ILinkEmbedController::SaveExternal(**int32_t**, [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 Saves external object.

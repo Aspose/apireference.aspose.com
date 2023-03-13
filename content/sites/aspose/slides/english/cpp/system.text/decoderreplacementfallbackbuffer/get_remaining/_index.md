@@ -1,12 +1,12 @@
 ---
-title: get_Remaining
+title: get_Remaining()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of remaining characters in buffer.
 type: docs
 weight: 14
 url: /cpp/system.text/decoderreplacementfallbackbuffer/get_remaining/
 ---
-## DecoderReplacementFallbackBuffer::get_Remaining method
+## DecoderReplacementFallbackBuffer::get_Remaining() const method
 
 
 Gets number of remaining characters in buffer.

@@ -1,12 +1,12 @@
 ---
-title: get_Width
+title: get_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the width of a plot area bounding box as a fraction of the width of the chart (from 0 to 1). Read float.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/chartplotarea/get_width/
 ---
-## ChartPlotArea::get_Width method
+## ChartPlotArea::get_Width() method
 
 
 Returns the width of a plot area bounding box as a fraction of the width of the chart (from 0 to 1). Read **float**.

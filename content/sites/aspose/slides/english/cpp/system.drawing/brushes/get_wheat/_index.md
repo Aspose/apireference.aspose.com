@@ -1,12 +1,12 @@
 ---
-title: get_Wheat
+title: get_Wheat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFF5DEB3.
 type: docs
 weight: 1769
 url: /cpp/system.drawing/brushes/get_wheat/
 ---
-## Brushes::get_Wheat method
+## Brushes::get_Wheat() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFF5DEB3.

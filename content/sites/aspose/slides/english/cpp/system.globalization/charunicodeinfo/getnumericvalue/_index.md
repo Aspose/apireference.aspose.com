@@ -1,5 +1,5 @@
 ---
-title: GetNumericValue
+title: GetNumericValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets numeric value associated with the specified character.
 type: docs

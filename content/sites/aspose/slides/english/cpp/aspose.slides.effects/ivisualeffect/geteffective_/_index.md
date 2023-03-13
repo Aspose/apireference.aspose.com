@@ -1,12 +1,12 @@
 ---
-title: GetEffective_
+title: GetEffective_()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/ivisualeffect/geteffective_/
 ---
-## IVisualEffect::GetEffective_ method
+## IVisualEffect::GetEffective_() method
 
 
 

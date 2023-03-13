@@ -1,5 +1,5 @@
 ---
-title: DownloadData
+title: DownloadData()
 second_title: Aspose.Slides for C++ API Reference
 description: Downloads the specified resource as a byte array.
 type: docs

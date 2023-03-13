@@ -1,12 +1,12 @@
 ---
-title: SplitByRowSpan
+title: SplitByRowSpan()
 second_title: Aspose.Slides for C++ API Reference
 description: Splits the cell to two cells by index of row.
 type: docs
 weight: 417
 url: /cpp/aspose.slides/cell/splitbyrowspan/
 ---
-## Cell::SplitByRowSpan method
+## Cell::SplitByRowSpan(**int32_t**) method
 
 
 Splits the cell to two cells by index of row.

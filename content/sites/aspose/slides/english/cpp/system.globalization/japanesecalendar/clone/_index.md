@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the current object and returns a shared pointer to it.
 type: docs
 weight: 235
 url: /cpp/system.globalization/japanesecalendar/clone/
 ---
-## JapaneseCalendar::Clone method
+## JapaneseCalendar::Clone() method
 
 
 Creates a copy of the current object and returns a shared pointer to it.

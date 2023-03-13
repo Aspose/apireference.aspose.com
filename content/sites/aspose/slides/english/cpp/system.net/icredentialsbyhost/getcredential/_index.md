@@ -1,12 +1,12 @@
 ---
-title: GetCredential
+title: GetCredential()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns credentials for the specified host and authentication type.
 type: docs
 weight: 1
 url: /cpp/system.net/icredentialsbyhost/getcredential/
 ---
-## ICredentialsByHost::GetCredential method
+## ICredentialsByHost::GetCredential([String](../../../system/string/), **int32_t**, [String](../../../system/string/)) method
 
 
 Returns credentials for the specified host and authentication type.

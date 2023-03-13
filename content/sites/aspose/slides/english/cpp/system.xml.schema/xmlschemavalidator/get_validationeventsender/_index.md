@@ -1,12 +1,12 @@
 ---
-title: get_ValidationEventSender
+title: get_ValidationEventSender()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the object sent as the sender object of a validation event.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemavalidator/get_validationeventsender/
 ---
-## XmlSchemaValidator::get_ValidationEventSender method
+## XmlSchemaValidator::get_ValidationEventSender() method
 
 
 Returns the object sent as the sender object of a validation event.

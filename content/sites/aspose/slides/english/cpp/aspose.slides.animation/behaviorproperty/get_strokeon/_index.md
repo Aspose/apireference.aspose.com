@@ -1,15 +1,15 @@
 ---
-title: get_StrokeOn
+title: get_StrokeOn()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'stroke.on' property.
+description: Represents 'stroke.on' property
 type: docs
 weight: 703
 url: /cpp/aspose.slides.animation/behaviorproperty/get_strokeon/
 ---
-## BehaviorProperty::get_StrokeOn method
+## BehaviorProperty::get_StrokeOn() method
 
 
-Represents 'stroke.on' property.
+Represents 'stroke.on' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StrokeOn()

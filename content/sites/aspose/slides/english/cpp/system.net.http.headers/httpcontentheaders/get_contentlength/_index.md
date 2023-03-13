@@ -1,12 +1,12 @@
 ---
-title: get_ContentLength
+title: get_ContentLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-Length' header.
 type: docs
 weight: 66
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contentlength/
 ---
-## HttpContentHeaders::get_ContentLength method
+## HttpContentHeaders::get_ContentLength() method
 
 
 Gets a value of the 'Content-Length' header.

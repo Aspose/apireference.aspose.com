@@ -1,12 +1,12 @@
 ---
-title: get_Client
+title: get_Client()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the socket.
 type: docs
 weight: 1
 url: /cpp/system.net.sockets/tcpclient/get_client/
 ---
-## TcpClient::get_Client method
+## TcpClient::get_Client() method
 
 
 Gets the socket.

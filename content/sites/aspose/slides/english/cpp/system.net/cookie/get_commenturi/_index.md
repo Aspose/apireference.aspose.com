@@ -1,12 +1,12 @@
 ---
-title: get_CommentUri
+title: get_CommentUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the 'CommentURL' attribute's value.
 type: docs
 weight: 27
 url: /cpp/system.net/cookie/get_commenturi/
 ---
-## Cookie::get_CommentUri method
+## Cookie::get_CommentUri() const method
 
 
 Gets the 'CommentURL' attribute's value.

@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective bullet formatting data with the inheritance applied.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/ibulletformat/geteffective/
 ---
-## IBulletFormat::GetEffective method
+## IBulletFormat::GetEffective() method
 
 
 Gets effective bullet formatting data with the inheritance applied.

@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes a cell from the collection by index.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/chartcellcollection/removeat/
 ---
-## ChartCellCollection::RemoveAt method
+## ChartCellCollection::RemoveAt(**int32_t**) method
 
 
 Removes a cell from the collection by index.

@@ -1,12 +1,12 @@
 ---
-title: get_IsSigned
+title: get_IsSigned()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the data sent using this stream is signed.
 type: docs
 weight: 40
 url: /cpp/system.net.security/sslstream/get_issigned/
 ---
-## SslStream::get_IsSigned method
+## SslStream::get_IsSigned() const method
 
 
 Returns a value that indicates if the data sent using this stream is signed.

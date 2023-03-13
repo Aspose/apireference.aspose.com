@@ -1,12 +1,12 @@
 ---
-title: set_ConnectionLeaseTimeout
+title: set_ConnectionLeaseTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a timeout in milliseconds after which active ServicePoint will be closed.
 type: docs
 weight: 40
 url: /cpp/system.net/servicepoint/set_connectionleasetimeout/
 ---
-## ServicePoint::set_ConnectionLeaseTimeout method
+## ServicePoint::set_ConnectionLeaseTimeout(**int32_t**) method
 
 
 Sets a timeout in milliseconds after which active [ServicePoint](../) will be closed.

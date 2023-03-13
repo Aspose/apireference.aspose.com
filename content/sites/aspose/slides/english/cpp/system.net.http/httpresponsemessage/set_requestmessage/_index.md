@@ -1,12 +1,12 @@
 ---
-title: set_RequestMessage
+title: set_RequestMessage()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the HTTP request message.
 type: docs
 weight: 131
 url: /cpp/system.net.http/httpresponsemessage/set_requestmessage/
 ---
-## HttpResponseMessage::set_RequestMessage method
+## HttpResponseMessage::set_RequestMessage([System::SharedPtr](../../../system/sharedptr/)\<[HttpRequestMessage](../../httprequestmessage/)\>) method
 
 
 Sets the HTTP request message.

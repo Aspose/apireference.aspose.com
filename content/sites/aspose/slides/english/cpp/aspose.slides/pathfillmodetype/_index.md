@@ -1,7 +1,7 @@
 ---
 title: PathFillModeType
 second_title: Aspose.Slides for C++ API Reference
-description: Specifies the manner in which a path should be filled.
+description: Specifies the manner in which a path should be filled
 type: docs
 weight: 6085
 url: /cpp/aspose.slides/pathfillmodetype/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/pathfillmodetype/
 ## PathFillModeType enum
 
 
-Specifies the manner in which a path should be filled.
+Specifies the manner in which a path should be filled
 
 ```cpp
 enum class PathFillModeType : uint8_t

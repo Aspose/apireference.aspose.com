@@ -1,12 +1,12 @@
 ---
-title: get_NewValue
+title: get_NewValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the new value of the node.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlnodechangedeventargs/get_newvalue/
 ---
-## XmlNodeChangedEventArgs::get_NewValue method
+## XmlNodeChangedEventArgs::get_NewValue() method
 
 
 Returns the new value of the node.

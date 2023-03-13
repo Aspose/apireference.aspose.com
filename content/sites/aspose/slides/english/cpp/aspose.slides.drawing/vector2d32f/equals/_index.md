@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 66
 url: /cpp/aspose.slides.drawing/vector2d32f/equals/
 ---
-## Vector2d32f::Equals method
+## Vector2d32f::Equals(const [Vector2d32f](../)\&) method
 
 
 

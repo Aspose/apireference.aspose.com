@@ -1,12 +1,12 @@
 ---
-title: set_By
+title: set_By()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies a relative offset value for the animation with respect to its position before the start of the animation. Write System::String."
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/ipropertyeffect/set_by/
 ---
-## IPropertyEffect::set_By method
+## IPropertyEffect::set_By([System::String](../../../system/string/)) method
 
 
 Specifies a relative offset value for the animation with respect to its position before the start of the animation. Write [System::String](../../../system/string/).

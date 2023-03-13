@@ -1,12 +1,12 @@
 ---
-title: get_Upgrade
+title: get_Upgrade()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Upgrade' header.
 type: docs
 weight: 326
 url: /cpp/system.net.http.headers/httpresponseheaders/get_upgrade/
 ---
-## HttpResponseHeaders::get_Upgrade method
+## HttpResponseHeaders::get_Upgrade() method
 
 
 Returns a value of the 'Upgrade' header.

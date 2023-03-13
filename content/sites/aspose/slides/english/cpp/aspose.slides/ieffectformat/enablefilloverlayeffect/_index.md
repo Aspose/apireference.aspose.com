@@ -1,12 +1,12 @@
 ---
-title: EnableFillOverlayEffect
+title: EnableFillOverlayEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Enables fill overlay effect.
 type: docs
 weight: 235
 url: /cpp/aspose.slides/ieffectformat/enablefilloverlayeffect/
 ---
-## IEffectFormat::EnableFillOverlayEffect method
+## IEffectFormat::EnableFillOverlayEffect() method
 
 
 Enables fill overlay effect.

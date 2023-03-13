@@ -1,12 +1,12 @@
 ---
-title: CreateCalendar
+title: CreateCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Create gregorian ICU calendar.
 type: docs
 weight: 53
 url: /cpp/system.globalization.details/gregoriancalendarutils/createcalendar/
 ---
-## GregorianCalendarUtils::CreateCalendar method
+## GregorianCalendarUtils::CreateCalendar() method
 
 
 Create gregorian ICU calendar.

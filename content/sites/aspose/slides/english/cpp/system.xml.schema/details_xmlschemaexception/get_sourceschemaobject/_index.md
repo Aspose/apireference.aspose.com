@@ -1,12 +1,12 @@
 ---
-title: get_SourceSchemaObject
+title: get_SourceSchemaObject()
 second_title: Aspose.Slides for C++ API Reference
 description: The XmlSchemaObject that produced the XmlSchemaException.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/details_xmlschemaexception/get_sourceschemaobject/
 ---
-## Details_XmlSchemaException::get_SourceSchemaObject method
+## Details_XmlSchemaException::get_SourceSchemaObject() method
 
 
 The **[XmlSchemaObject](../../xmlschemaobject/)** that produced the XmlSchemaException.

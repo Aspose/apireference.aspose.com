@@ -1,12 +1,12 @@
 ---
-title: cend
+title: cend()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator for a non-existent const-qualified element behind the end of the collection.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/hashset/cend/
 ---
-## HashSet::cend method
+## HashSet::cend() const method
 
 
 Gets iterator for a non-existent const-qualified element behind the end of the collection.

@@ -1,12 +1,12 @@
 ---
-title: get_PerDomainCapacity
+title: get_PerDomainCapacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the collection capacity per domain.
 type: docs
 weight: 66
 url: /cpp/system.net/cookiecontainer/get_perdomaincapacity/
 ---
-## CookieContainer::get_PerDomainCapacity method
+## CookieContainer::get_PerDomainCapacity() method
 
 
 Gets the collection capacity per domain.

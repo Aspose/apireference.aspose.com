@@ -1,5 +1,5 @@
 ---
-title: XmlValidatingReader
+title: XmlValidatingReader()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlValidatingReader class that validates the content returned from the given XmlReader.
 type: docs

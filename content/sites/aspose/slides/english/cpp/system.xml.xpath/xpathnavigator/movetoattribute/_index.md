@@ -1,12 +1,12 @@
 ---
-title: MoveToAttribute
+title: MoveToAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the XPathNavigator to the attribute with the matching local name and namespace URI.
 type: docs
 weight: 495
 url: /cpp/system.xml.xpath/xpathnavigator/movetoattribute/
 ---
-## XPathNavigator::MoveToAttribute method
+## XPathNavigator::MoveToAttribute([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Moves the [XPathNavigator](../) to the attribute with the matching local name and namespace URI.

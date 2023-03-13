@@ -1,12 +1,12 @@
 ---
-title: get_TransferEncoding
+title: get_TransferEncoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Transfer-Encoding' header.
 type: docs
 weight: 521
 url: /cpp/system.net.http.headers/httprequestheaders/get_transferencoding/
 ---
-## HttpRequestHeaders::get_TransferEncoding method
+## HttpRequestHeaders::get_TransferEncoding() method
 
 
 Returns a value of the 'Transfer-Encoding' header.

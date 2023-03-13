@@ -1,12 +1,12 @@
 ---
-title: Encoder
+title: Encoder()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of Encoder class.
 type: docs
 weight: 1
 url: /cpp/system.drawing.imaging/encoder/encoder/
 ---
-## Encoder::Encoder constructor
+## Encoder::Encoder(const [Guid](../../../system/guid/)\&) constructor
 
 
 Constructs a new instance of [Encoder](../) class.

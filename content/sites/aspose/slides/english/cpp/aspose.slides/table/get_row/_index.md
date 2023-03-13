@@ -1,12 +1,12 @@
 ---
-title: get_Row
+title: get_Row()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a row at the specified index.
 type: docs
 weight: 300
 url: /cpp/aspose.slides/table/get_row/
 ---
-## Table::get_Row method
+## Table::get_Row(**int32_t**) method
 
 
 Returns a row at the specified index.

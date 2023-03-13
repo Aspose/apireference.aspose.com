@@ -1,12 +1,12 @@
 ---
-title: SetIn
+title: SetIn()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the In property to the specified TextReader object.
 type: docs
 weight: 105
 url: /cpp/system/console/setin/
 ---
-## Console::SetIn method
+## Console::SetIn(const [SharedPtr](../../sharedptr/)\<[System::IO::TextReader](../../../system.io/textreader/)\>\&) method
 
 
 Sets the In property to the specified TextReader object.

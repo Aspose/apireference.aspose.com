@@ -1,5 +1,5 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Substitution for C# ToString method to work on any C++ type.
 type: docs

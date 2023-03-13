@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography.xml/transformchain/getenumerator/
 ---
-## TransformChain::GetEnumerator method
+## TransformChain::GetEnumerator() method
 
 
 

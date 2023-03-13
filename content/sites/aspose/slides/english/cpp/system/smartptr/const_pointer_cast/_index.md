@@ -1,12 +1,12 @@
 ---
-title: const_pointer_cast
+title: const_pointer_cast()
 second_title: Aspose.Slides for C++ API Reference
 description: Casts pointer to different type using const_cast on pointed object.
 type: docs
 weight: 274
 url: /cpp/system/smartptr/const_pointer_cast/
 ---
-## SmartPtr::const_pointer_cast method
+## SmartPtr::const_pointer_cast() const method
 
 
 Casts pointer to different type using const_cast on pointed object.

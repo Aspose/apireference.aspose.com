@@ -1,12 +1,12 @@
 ---
-title: SetImpl
+title: SetImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a pointer to implementation.
 type: docs
 weight: 209
 url: /cpp/system.net/ipaddress/setimpl/
 ---
-## IPAddress::SetImpl method
+## IPAddress::SetImpl([ImplPtr](../implptr/)) method
 
 
 Sets a pointer to implementation.

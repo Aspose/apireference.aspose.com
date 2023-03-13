@@ -1,12 +1,12 @@
 ---
-title: get_Values
+title: get_Values()
 second_title: Aspose.Slides for C++ API Reference
 description: Accesses value collection.
 type: docs
 weight: 92
 url: /cpp/system.collections.generic/idictionary/get_values/
 ---
-## IDictionary::get_Values method
+## IDictionary::get_Values() const method
 
 
 Accesses value collection.

@@ -1,12 +1,12 @@
 ---
-title: get_IsColorVaried
+title: get_IsColorVaried()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies that each data marker in the series has a different color. Read bool.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/ichartseriesgroup/get_iscolorvaried/
 ---
-## IChartSeriesGroup::get_IsColorVaried method
+## IChartSeriesGroup::get_IsColorVaried() method
 
 
 Specifies that each data marker in the series has a different color. Read **bool**.

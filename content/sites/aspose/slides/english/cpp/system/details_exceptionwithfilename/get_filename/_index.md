@@ -1,12 +1,12 @@
 ---
-title: get_FileName
+title: get_FileName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the name of the file that causes this exception.
 type: docs
 weight: 1
 url: /cpp/system/details_exceptionwithfilename/get_filename/
 ---
-## Details_ExceptionWithFilename::get_FileName method
+## Details_ExceptionWithFilename::get_FileName() const method
 
 
 Gets the name of the file that causes this exception.

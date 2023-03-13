@@ -1,12 +1,12 @@
 ---
-title: get_StartShapeConnectionSiteIndex
+title: get_StartShapeConnectionSiteIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the index of connection site for start shape. Read uint32_t.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/iconnector/get_startshapeconnectionsiteindex/
 ---
-## IConnector::get_StartShapeConnectionSiteIndex method
+## IConnector::get_StartShapeConnectionSiteIndex() method
 
 
 Returns the index of connection site for start shape. Read **uint32_t**.

@@ -1,12 +1,12 @@
 ---
-title: set_Uri
+title: set_Uri()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XML Web service URI.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/webclientprotocol/set_uri/
 ---
-## WebClientProtocol::set_Uri method
+## WebClientProtocol::set_Uri([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Sets the XML [Web](../../../system.web/) service URI.

@@ -1,12 +1,12 @@
 ---
-title: CacheControlHeaderValue
+title: CacheControlHeaderValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 378
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/cachecontrolheadervalue/
 ---
-## CacheControlHeaderValue::CacheControlHeaderValue constructor
+## CacheControlHeaderValue::CacheControlHeaderValue() constructor
 
 
 Constructs a new instance.

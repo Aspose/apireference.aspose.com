@@ -1,12 +1,12 @@
 ---
-title: SetLastAccessTimeUtc
+title: SetLastAccessTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 430
 url: /cpp/system.io/file/setlastaccesstimeutc/
 ---
-## File::SetLastAccessTimeUtc method
+## File::SetLastAccessTimeUtc(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
 
 
 NOT IMPLEMENTED.

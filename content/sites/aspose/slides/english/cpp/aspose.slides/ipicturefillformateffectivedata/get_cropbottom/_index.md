@@ -1,12 +1,12 @@
 ---
-title: get_CropBottom
+title: get_CropBottom()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of percents of real image height that are cropped off the bottom of the picture. Read-only float.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/ipicturefillformateffectivedata/get_cropbottom/
 ---
-## IPictureFillFormatEffectiveData::get_CropBottom method
+## IPictureFillFormatEffectiveData::get_CropBottom() method
 
 
 Returns the number of percents of real image height that are cropped off the bottom of the picture. Read-only **float**.

@@ -1,12 +1,12 @@
 ---
-title: CreateThemeEffective
+title: CreateThemeEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an effective theme for this themeable object.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/ithemeable/createthemeeffective/
 ---
-## IThemeable::CreateThemeEffective method
+## IThemeable::CreateThemeEffective() method
 
 
 Returns an effective theme for this themeable object.

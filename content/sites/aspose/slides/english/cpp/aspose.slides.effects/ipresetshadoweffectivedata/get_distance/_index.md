@@ -1,12 +1,12 @@
 ---
-title: get_Distance
+title: get_Distance()
 second_title: Aspose.Slides for C++ API Reference
 description: Distance of shadow. Read-only double.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/ipresetshadoweffectivedata/get_distance/
 ---
-## IPresetShadowEffectiveData::get_Distance method
+## IPresetShadowEffectiveData::get_Distance() method
 
 
 Distance of shadow. Read-only **double**.

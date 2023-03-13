@@ -1,12 +1,12 @@
 ---
-title: get_Values
+title: get_Values()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of all the values for all the elements in the XmlSchemaObjectTable.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaobjecttable/get_values/
 ---
-## XmlSchemaObjectTable::get_Values method
+## XmlSchemaObjectTable::get_Values() method
 
 
 Returns a collection of all the values for all the elements in the [XmlSchemaObjectTable](../).

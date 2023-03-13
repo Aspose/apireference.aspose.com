@@ -1,12 +1,12 @@
 ---
-title: get_UserInteractive
+title: get_UserInteractive()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the current process is running in user interactive mode.
 type: docs
 weight: 183
 url: /cpp/system/environment/get_userinteractive/
 ---
-## Environment::get_UserInteractive method
+## Environment::get_UserInteractive() method
 
 
 Determines whether the current process is running in user interactive mode.

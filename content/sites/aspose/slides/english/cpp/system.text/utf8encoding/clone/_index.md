@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Clones encoding object.
 type: docs
 weight: 66
 url: /cpp/system.text/utf8encoding/clone/
 ---
-## UTF8Encoding::Clone method
+## UTF8Encoding::Clone() method
 
 
 Clones encoding object.

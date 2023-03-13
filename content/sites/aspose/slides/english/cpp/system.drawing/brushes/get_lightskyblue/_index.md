@@ -1,12 +1,12 @@
 ---
-title: get_LightSkyBlue
+title: get_LightSkyBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF87CEFA.
 type: docs
 weight: 937
 url: /cpp/system.drawing/brushes/get_lightskyblue/
 ---
-## Brushes::get_LightSkyBlue method
+## Brushes::get_LightSkyBlue() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF87CEFA.

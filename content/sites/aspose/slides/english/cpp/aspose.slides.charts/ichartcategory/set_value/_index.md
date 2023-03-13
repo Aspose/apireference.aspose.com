@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: "If UseCell is true then this property represents get_AsCell()->get(set)_Value() property. If UseCell is false then this property represents AsLiteral property. Write System::Object."
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/ichartcategory/set_value/
 ---
-## IChartCategory::set_Value method
+## IChartCategory::set_Value([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 If UseCell is true then this property represents [get_AsCell()](../get_ascell/)->get(set)_Value() property. If UseCell is false then this property represents AsLiteral property. Write [System::Object](../../../system/object/).

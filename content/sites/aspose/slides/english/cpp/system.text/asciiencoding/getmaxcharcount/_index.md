@@ -1,12 +1,12 @@
 ---
-title: GetMaxCharCount
+title: GetMaxCharCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Get the maximum number of characters needed to decode a specified number of bytes.
 type: docs
 weight: 27
 url: /cpp/system.text/asciiencoding/getmaxcharcount/
 ---
-## ASCIIEncoding::GetMaxCharCount method
+## ASCIIEncoding::GetMaxCharCount(int) method
 
 
 Get the maximum number of characters needed to decode a specified number of bytes.

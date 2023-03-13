@@ -1,12 +1,12 @@
 ---
-title: get_Threshold
+title: get_Threshold()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns effect threshold. Read float.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/ialphabilevel/get_threshold/
 ---
-## IAlphaBiLevel::get_Threshold method
+## IAlphaBiLevel::get_Threshold() method
 
 
 Returns effect threshold. Read **float**.

@@ -1,12 +1,12 @@
 ---
-title: ToArray
+title: ToArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates and returns an array with all authors.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/icommentauthorcollection/toarray/
 ---
-## ICommentAuthorCollection::ToArray method
+## ICommentAuthorCollection::ToArray() method
 
 
 Creates and returns an array with all authors.

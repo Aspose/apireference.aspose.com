@@ -1,12 +1,12 @@
 ---
-title: GetEntity
+title: GetEntity()
 second_title: Aspose.Slides for C++ API Reference
 description: Maps a URI to an object that contains the actual resource.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlsecureresolver/getentity/
 ---
-## XmlSecureResolver::GetEntity method
+## XmlSecureResolver::GetEntity([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/), const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Maps a URI to an object that contains the actual resource.

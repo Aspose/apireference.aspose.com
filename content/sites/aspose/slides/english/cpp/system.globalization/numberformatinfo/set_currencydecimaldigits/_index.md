@@ -1,12 +1,12 @@
 ---
-title: set_CurrencyDecimalDigits
+title: set_CurrencyDecimalDigits()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets number of currency decimal digits.
 type: docs
 weight: 313
 url: /cpp/system.globalization/numberformatinfo/set_currencydecimaldigits/
 ---
-## NumberFormatInfo::set_CurrencyDecimalDigits method
+## NumberFormatInfo::set_CurrencyDecimalDigits(int) method
 
 
 Sets number of currency decimal digits.

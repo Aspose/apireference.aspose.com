@@ -1,12 +1,12 @@
 ---
-title: GetLastWriteTimeUtc
+title: GetLastWriteTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the last write time of the specified entity as UTC time.
 type: docs
 weight: 196
 url: /cpp/system.io/directory/getlastwritetimeutc/
 ---
-## Directory::GetLastWriteTimeUtc method
+## Directory::GetLastWriteTimeUtc(const [String](../../../system/string/)\&) method
 
 
 Returns the last write time of the specified entity as UTC time.

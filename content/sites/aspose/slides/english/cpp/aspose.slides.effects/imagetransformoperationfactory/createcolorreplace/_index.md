@@ -1,12 +1,12 @@
 ---
-title: CreateColorReplace
+title: CreateColorReplace()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Color replace effect.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createcolorreplace/
 ---
-## ImageTransformOperationFactory::CreateColorReplace method
+## ImageTransformOperationFactory::CreateColorReplace() method
 
 
 Creates Color replace effect.

@@ -1,12 +1,12 @@
 ---
-title: RSAParameters
+title: RSAParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/rsaparameters/rsaparameters/
 ---
-## RSAParameters::RSAParameters constructor
+## RSAParameters::RSAParameters() constructor
 
 
 Constructor.

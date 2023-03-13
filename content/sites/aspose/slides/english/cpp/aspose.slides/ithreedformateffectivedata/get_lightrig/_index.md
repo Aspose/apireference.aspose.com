@@ -1,12 +1,12 @@
 ---
-title: get_LightRig
+title: get_LightRig()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of a light. Read-only ILightRigEffectiveData.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/ithreedformateffectivedata/get_lightrig/
 ---
-## IThreeDFormatEffectiveData::get_LightRig method
+## IThreeDFormatEffectiveData::get_LightRig() method
 
 
 Returns the type of a light. Read-only [ILightRigEffectiveData](../../ilightrigeffectivedata/).

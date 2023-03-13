@@ -1,12 +1,12 @@
 ---
-title: get_SourceCode
+title: get_SourceCode()
 second_title: Aspose.Slides for C++ API Reference
 description: "Source code of the module. Read System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.vba/ivbamodule/get_sourcecode/
 ---
-## IVbaModule::get_SourceCode method
+## IVbaModule::get_SourceCode() method
 
 
 Source code of the module. Read [System::String](../../../system/string/).

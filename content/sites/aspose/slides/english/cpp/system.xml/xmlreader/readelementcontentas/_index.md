@@ -1,5 +1,5 @@
 ---
-title: ReadElementContentAs
+title: ReadElementContentAs()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the element content as the requested type.
 type: docs

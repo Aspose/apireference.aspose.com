@@ -1,12 +1,12 @@
 ---
-title: get_SoftEdgeEffect
+title: get_SoftEdgeEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Soft edge. Read-only Effects::ISoftEdgeEffectiveData."
 type: docs
 weight: 105
 url: /cpp/aspose.slides/ieffectformateffectivedata/get_softedgeeffect/
 ---
-## IEffectFormatEffectiveData::get_SoftEdgeEffect method
+## IEffectFormatEffectiveData::get_SoftEdgeEffect() method
 
 
 Soft edge. Read-only [Effects::ISoftEdgeEffectiveData](../../../aspose.slides.effects/isoftedgeeffectivedata/).

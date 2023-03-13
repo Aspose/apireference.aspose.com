@@ -1,5 +1,5 @@
 ---
-title: X509IssuerSerial
+title: X509IssuerSerial()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs

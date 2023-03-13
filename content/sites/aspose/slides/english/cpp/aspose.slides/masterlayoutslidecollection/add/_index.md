@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new layout slide to the end of the collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/masterlayoutslidecollection/add/
 ---
-## MasterLayoutSlideCollection::Add method
+## MasterLayoutSlideCollection::Add([SlideLayoutType](../../slidelayouttype/), [System::String](../../../system/string/)) method
 
 
 Adds a new layout slide to the end of the collection.

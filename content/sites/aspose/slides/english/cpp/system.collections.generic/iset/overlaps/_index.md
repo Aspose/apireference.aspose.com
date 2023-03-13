@@ -1,12 +1,12 @@
 ---
-title: Overlaps
+title: Overlaps()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if set overlaps with other container.
 type: docs
 weight: 92
 url: /cpp/system.collections.generic/iset/overlaps/
 ---
-## ISet::Overlaps method
+## ISet::Overlaps([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Checks if set overlaps with other container.

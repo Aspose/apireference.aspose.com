@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified PresetShadow is equal to the current PresetShadow.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/presetshadow/equals/
 ---
-## PresetShadow::Equals method
+## PresetShadow::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [PresetShadow](../) is equal to the current [PresetShadow](../).

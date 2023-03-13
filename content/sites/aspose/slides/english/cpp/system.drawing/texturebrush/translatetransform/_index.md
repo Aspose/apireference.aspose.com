@@ -1,12 +1,12 @@
 ---
-title: TranslateTransform
+title: TranslateTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Translates the local geometric transformation by the specified dimensions in the specified order.
 type: docs
 weight: 131
 url: /cpp/system.drawing/texturebrush/translatetransform/
 ---
-## TextureBrush::TranslateTransform method
+## TextureBrush::TranslateTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
 
 
 Translates the local geometric transformation by the specified dimensions in the specified order.

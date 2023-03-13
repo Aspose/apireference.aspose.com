@@ -1,12 +1,12 @@
 ---
-title: get_ColumnSpacing
+title: get_ColumnSpacing()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the space between text columns in the text area (in points). Read-only float.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/itextframeformateffectivedata/get_columnspacing/
 ---
-## ITextFrameFormatEffectiveData::get_ColumnSpacing method
+## ITextFrameFormatEffectiveData::get_ColumnSpacing() method
 
 
 Specifies the space between text columns in the text area (in points). Read-only **float**.

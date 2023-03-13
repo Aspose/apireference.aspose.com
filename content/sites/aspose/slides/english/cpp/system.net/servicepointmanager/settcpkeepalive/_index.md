@@ -1,12 +1,12 @@
 ---
-title: SetTcpKeepAlive
+title: SetTcpKeepAlive()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value that indicates if the 'Keep-Alive' option is enabled.
 type: docs
 weight: 326
 url: /cpp/system.net/servicepointmanager/settcpkeepalive/
 ---
-## ServicePointManager::SetTcpKeepAlive method
+## ServicePointManager::SetTcpKeepAlive(**bool**, **int32_t**, **int32_t**) method
 
 
 Sets the value that indicates if the 'Keep-Alive' option is enabled.

@@ -1,12 +1,12 @@
 ---
-title: ReadElementContentAsBinHex
+title: ReadElementContentAsBinHex()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the element and decodes the BinHex content.
 type: docs
 weight: 677
 url: /cpp/system.xml/xmltextreader/readelementcontentasbinhex/
 ---
-## XmlTextReader::ReadElementContentAsBinHex method
+## XmlTextReader::ReadElementContentAsBinHex([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**) method
 
 
 Reads the element and decodes the **BinHex** content.

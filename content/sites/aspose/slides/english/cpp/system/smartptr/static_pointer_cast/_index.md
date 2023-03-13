@@ -1,12 +1,12 @@
 ---
-title: static_pointer_cast
+title: static_pointer_cast()
 second_title: Aspose.Slides for C++ API Reference
 description: Casts pointer to different type using static_cast on pointed object.
 type: docs
 weight: 248
 url: /cpp/system/smartptr/static_pointer_cast/
 ---
-## SmartPtr::static_pointer_cast method
+## SmartPtr::static_pointer_cast() const method
 
 
 Casts pointer to different type using static_cast on pointed object.

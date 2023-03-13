@@ -1,12 +1,12 @@
 ---
-title: set_IncludeOption
+title: set_IncludeOption()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies which certificates from the chain will be included into the signature.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.pkcs/cmssigner/set_includeoption/
 ---
-## CmsSigner::set_IncludeOption method
+## CmsSigner::set_IncludeOption([X509Certificates::X509IncludeOption](../../../system.security.cryptography.x509certificates/x509includeoption/)) method
 
 
 Specifies which certificates from the chain will be included into the signature.

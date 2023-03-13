@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes key from container.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/idictionary/remove/
 ---
-## IDictionary::Remove method
+## IDictionary::Remove(const TKey\&) method
 
 
 Removes key from container.

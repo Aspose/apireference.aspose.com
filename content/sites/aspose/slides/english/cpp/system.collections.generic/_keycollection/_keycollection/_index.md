@@ -1,12 +1,12 @@
 ---
-title: _KeyCollection
+title: _KeyCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes collection referencing specified dictionary.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/_keycollection/_keycollection/
 ---
-## _KeyCollection::_KeyCollection constructor
+## _KeyCollection::_KeyCollection(const typename Dict::Ptr\&) constructor
 
 
 Initializes collection referencing specified dictionary.

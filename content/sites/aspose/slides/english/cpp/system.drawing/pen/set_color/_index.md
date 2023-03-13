@@ -1,12 +1,12 @@
 ---
-title: set_Color
+title: set_Color()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets this pen's color.
 type: docs
 weight: 378
 url: /cpp/system.drawing/pen/set_color/
 ---
-## Pen::set_Color method
+## Pen::set_Color(const [Color](../../color/)\&) method
 
 
 Sets this pen's color.

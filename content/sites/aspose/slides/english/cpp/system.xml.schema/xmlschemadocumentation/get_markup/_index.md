@@ -1,12 +1,12 @@
 ---
-title: get_Markup
+title: get_Markup()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array of XmlNode objects that represents the documentation child nodes.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemadocumentation/get_markup/
 ---
-## XmlSchemaDocumentation::get_Markup method
+## XmlSchemaDocumentation::get_Markup() method
 
 
 Returns an array of [XmlNode](../../../system.xml/xmlnode/) objects that represents the documentation child nodes.

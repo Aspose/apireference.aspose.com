@@ -1,12 +1,12 @@
 ---
-title: get_PositionPointer
+title: get_PositionPointer()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 92
 url: /cpp/system.io/unmanagedmemorystream/get_positionpointer/
 ---
-## UnmanagedMemoryStream::get_PositionPointer method
+## UnmanagedMemoryStream::get_PositionPointer() method
 
 
 NOT IMPLEMENTED.

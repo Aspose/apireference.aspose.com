@@ -28,7 +28,7 @@ class IPPImage : public virtual System::Object
 | virtual [System::ArrayPtr](../../system/arrayptr/)\<**uint8_t**\> [get_BinaryData](./get_binarydata/)() | Returns the copy of an image's data. Read-only **uint8_t**[]. |
 | virtual [System::String](../../system/string/) [get_ContentType](./get_contenttype/)() | Returns a MIME type of an image, encoded in [IPPImage::get_BinaryData](./get_binarydata/). Read-only [System::String](../../system/string/). |
 | virtual **int32_t** [get_Height](./get_height/)() | Returns a height of an image. Read-only **int32_t**. |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[ISvgImage](../isvgimage/)\> [get_SvgImage](./get_svgimage/)() | Returns [ISvgImage](../isvgimage/) object [ISvgImage](../isvgimage/) |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[ISvgImage](../isvgimage/)\> [get_SvgImage](./get_svgimage/)() const | Returns [ISvgImage](../isvgimage/) object [ISvgImage](../isvgimage/) |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[System::Drawing::Image](../../system.drawing/image/)\> [get_SystemImage](./get_systemimage/)() | Returns the copy of an image of the [System::Drawing::Image](../../system.drawing/image/) type. Read-only [System::Drawing::Image](../../system.drawing/image/). |
 | virtual **int32_t** [get_Width](./get_width/)() | Returns a width of an image. Read-only **int32_t**. |
 | virtual **int32_t** [get_X](./get_x/)() | Returns a X-offset of an image. Read-only **int32_t**. |

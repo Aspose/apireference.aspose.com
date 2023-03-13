@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all properties.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/icontrolpropertiescollection/clear/
 ---
-## IControlPropertiesCollection::Clear method
+## IControlPropertiesCollection::Clear() method
 
 
 Removes all properties.

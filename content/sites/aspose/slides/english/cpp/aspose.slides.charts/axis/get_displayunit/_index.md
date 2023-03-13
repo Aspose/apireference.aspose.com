@@ -1,12 +1,12 @@
 ---
-title: get_DisplayUnit
+title: get_DisplayUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the scaling value of the display units for the value axis. Read DisplayUnitType.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/axis/get_displayunit/
 ---
-## Axis::get_DisplayUnit method
+## Axis::get_DisplayUnit() method
 
 
 Specifies the scaling value of the display units for the value axis. Read [DisplayUnitType](../../displayunittype/).

@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts a new property (with the specified property value) to the collection at the specified index.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/ibehaviorpropertycollection/insert/
 ---
-## IBehaviorPropertyCollection::Insert method
+## IBehaviorPropertyCollection::Insert(**int32_t**, [System::String](../../../system/string/)) method
 
 
 Inserts a new property (with the specified property value) to the collection at the specified index.

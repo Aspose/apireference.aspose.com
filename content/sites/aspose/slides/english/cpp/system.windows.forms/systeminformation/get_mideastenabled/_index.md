@@ -1,12 +1,12 @@
 ---
-title: get_MidEastEnabled
+title: get_MidEastEnabled()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 742
 url: /cpp/system.windows.forms/systeminformation/get_mideastenabled/
 ---
-## SystemInformation::get_MidEastEnabled method
+## SystemInformation::get_MidEastEnabled() method
 
 
 NOT IMPLEMENTED.

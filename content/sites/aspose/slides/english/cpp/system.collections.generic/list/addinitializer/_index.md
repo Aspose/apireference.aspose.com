@@ -1,12 +1,12 @@
 ---
-title: AddInitializer
+title: AddInitializer()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds elements to list; used when translating initializers.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/list/addinitializer/
 ---
-## List::AddInitializer method
+## List::AddInitializer(int, const T) method
 
 
 Adds elements to list; used when translating initializers.

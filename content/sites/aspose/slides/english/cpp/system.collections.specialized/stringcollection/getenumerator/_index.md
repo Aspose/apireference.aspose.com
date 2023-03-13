@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator iterating through current collection.
 type: docs
 weight: 14
 url: /cpp/system.collections.specialized/stringcollection/getenumerator/
 ---
-## StringCollection::GetEnumerator method
+## StringCollection::GetEnumerator() method
 
 
 Gets enumerator iterating through current collection.

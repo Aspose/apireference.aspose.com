@@ -1,12 +1,12 @@
 ---
-title: get_DtdProcessing
+title: get_DtdProcessing()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that determines the processing of DTDs.
 type: docs
 weight: 300
 url: /cpp/system.xml/xmlreadersettings/get_dtdprocessing/
 ---
-## XmlReaderSettings::get_DtdProcessing method
+## XmlReaderSettings::get_DtdProcessing() method
 
 
 Returns a value that determines the processing of DTDs.

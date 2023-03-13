@@ -1,12 +1,12 @@
 ---
-title: set_Title
+title: set_Title()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the title of a presentation. Write System::String."
 type: docs
 weight: 209
 url: /cpp/aspose.slides/idocumentproperties/set_title/
 ---
-## IDocumentProperties::set_Title method
+## IDocumentProperties::set_Title([System::String](../../../system/string/)) method
 
 
 Sets the title of a presentation. Write [System::String](../../../system/string/).

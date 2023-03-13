@@ -1,12 +1,12 @@
 ---
-title: get_ProxyAuthenticate
+title: get_ProxyAuthenticate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Proxy-Authenticate' header.
 type: docs
 weight: 92
 url: /cpp/system.net.http.headers/httpresponseheaders/get_proxyauthenticate/
 ---
-## HttpResponseHeaders::get_ProxyAuthenticate method
+## HttpResponseHeaders::get_ProxyAuthenticate() method
 
 
 Returns a value of the 'Proxy-Authenticate' header.

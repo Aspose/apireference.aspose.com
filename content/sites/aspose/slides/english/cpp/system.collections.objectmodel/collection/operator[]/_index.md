@@ -1,5 +1,5 @@
 ---
-title: operator[]
+title: operator[]()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value at specified index.
 type: docs

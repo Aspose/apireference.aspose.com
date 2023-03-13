@@ -1,12 +1,12 @@
 ---
-title: set_Namespace
+title: set_Namespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the namespace that is associated with the binding.
 type: docs
 weight: 66
 url: /cpp/system.web.services/webservicebindingattribute/set_namespace/
 ---
-## WebServiceBindingAttribute::set_Namespace method
+## WebServiceBindingAttribute::set_Namespace([String](../../../system/string/)) method
 
 
 Sets the namespace that is associated with the binding.

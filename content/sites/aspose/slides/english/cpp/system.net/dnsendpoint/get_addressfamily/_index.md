@@ -1,12 +1,12 @@
 ---
-title: get_AddressFamily
+title: get_AddressFamily()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the address family to which the current instance belongs.
 type: docs
 weight: 14
 url: /cpp/system.net/dnsendpoint/get_addressfamily/
 ---
-## DnsEndPoint::get_AddressFamily method
+## DnsEndPoint::get_AddressFamily() method
 
 
 Returns the address family to which the current instance belongs.

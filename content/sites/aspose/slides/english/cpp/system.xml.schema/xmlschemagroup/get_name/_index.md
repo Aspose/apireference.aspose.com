@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the schema group.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemagroup/get_name/
 ---
-## XmlSchemaGroup::get_Name method
+## XmlSchemaGroup::get_Name() method
 
 
 Returns the name of the schema group.

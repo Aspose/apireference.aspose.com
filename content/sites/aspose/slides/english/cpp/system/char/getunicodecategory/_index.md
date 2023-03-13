@@ -1,12 +1,12 @@
 ---
-title: GetUnicodeCategory
+title: GetUnicodeCategory()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that represents a Unicode category of specified character.
 type: docs
 weight: 1
 url: /cpp/system/char/getunicodecategory/
 ---
-## Char::GetUnicodeCategory method
+## Char::GetUnicodeCategory(char_t) method
 
 
 Returns a value that represents a Unicode category of specified character.

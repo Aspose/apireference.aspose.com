@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the collection contains the specified cookie.
 type: docs
 weight: 79
 url: /cpp/system.net/cookiecollection/contains/
 ---
-## CookieCollection::Contains method
+## CookieCollection::Contains(const [System::SharedPtr](../../../system/sharedptr/)\<[Cookie](../../cookie/)\>\&) const method
 
 
 Checks if the collection contains the specified cookie.

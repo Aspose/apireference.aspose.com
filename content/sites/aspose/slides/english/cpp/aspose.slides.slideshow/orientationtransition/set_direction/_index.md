@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of transition. Write Orientation.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/orientationtransition/set_direction/
 ---
-## OrientationTransition::set_Direction method
+## OrientationTransition::set_Direction([Orientation](../../../aspose.slides/orientation/)) method
 
 
 Direction of transition. Write [Orientation](../../../aspose.slides/orientation/).

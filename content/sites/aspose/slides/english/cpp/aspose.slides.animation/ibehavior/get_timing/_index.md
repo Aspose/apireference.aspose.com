@@ -1,12 +1,12 @@
 ---
-title: get_Timing
+title: get_Timing()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents timing properties for the effect behavior. Read ITiming.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/ibehavior/get_timing/
 ---
-## IBehavior::get_Timing method
+## IBehavior::get_Timing() method
 
 
 Represents timing properties for the effect behavior. Read [ITiming](../../itiming/).

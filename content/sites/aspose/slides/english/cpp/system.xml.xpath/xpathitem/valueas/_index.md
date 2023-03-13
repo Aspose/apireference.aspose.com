@@ -1,5 +1,5 @@
 ---
-title: ValueAs
+title: ValueAs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the item's value as the specified type.
 type: docs

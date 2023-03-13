@@ -1,12 +1,12 @@
 ---
-title: set_MonthGenitiveNames
+title: set_MonthGenitiveNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets month names in genitive form.
 type: docs
 weight: 508
 url: /cpp/system.globalization/datetimeformatinfo/set_monthgenitivenames/
 ---
-## DateTimeFormatInfo::set_MonthGenitiveNames method
+## DateTimeFormatInfo::set_MonthGenitiveNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
 
 
 Sets month names in genitive form.

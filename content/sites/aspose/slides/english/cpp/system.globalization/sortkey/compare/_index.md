@@ -1,12 +1,12 @@
 ---
-title: Compare
+title: Compare()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two sort keys.
 type: docs
 weight: 92
 url: /cpp/system.globalization/sortkey/compare/
 ---
-## SortKey::Compare method
+## SortKey::Compare(const [SortKeyPtr](../../sortkeyptr/)\&, const [SortKeyPtr](../../sortkeyptr/)\&) method
 
 
 Compares two sort keys.

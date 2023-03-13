@@ -1,12 +1,12 @@
 ---
-title: AddSchema
+title: AddSchema()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds an XML Schema Definition Language (XSD) schema to the set of schemas used for validation.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemavalidator/addschema/
 ---
-## XmlSchemaValidator::AddSchema method
+## XmlSchemaValidator::AddSchema(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchema](../../xmlschema/)\>\&) method
 
 
 Adds an XML [Schema](../../) Definition Language (XSD) schema to the set of schemas used for validation.

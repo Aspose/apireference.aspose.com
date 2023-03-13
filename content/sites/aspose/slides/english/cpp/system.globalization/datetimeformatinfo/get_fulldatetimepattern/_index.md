@@ -1,12 +1,12 @@
 ---
-title: get_FullDateTimePattern
+title: get_FullDateTimePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets full date and time pattern.
 type: docs
 weight: 443
 url: /cpp/system.globalization/datetimeformatinfo/get_fulldatetimepattern/
 ---
-## DateTimeFormatInfo::get_FullDateTimePattern method
+## DateTimeFormatInfo::get_FullDateTimePattern() const method
 
 
 Gets full date and time pattern.

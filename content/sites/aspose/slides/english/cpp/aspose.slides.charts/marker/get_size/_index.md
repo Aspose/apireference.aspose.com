@@ -1,12 +1,12 @@
 ---
-title: get_Size
+title: get_Size()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the marker size in a line chart, scatter chart, or radar chart. Read int32_t.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/marker/get_size/
 ---
-## Marker::get_Size method
+## Marker::get_Size() method
 
 
 Represents the marker size in a line chart, scatter chart, or radar chart. Read **int32_t**.

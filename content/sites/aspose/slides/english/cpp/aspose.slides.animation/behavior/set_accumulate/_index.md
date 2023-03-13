@@ -1,12 +1,12 @@
 ---
-title: set_Accumulate
+title: set_Accumulate()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents whether animation behaviors are accumulated. Write NullableBool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/behavior/set_accumulate/
 ---
-## Behavior::set_Accumulate method
+## Behavior::set_Accumulate([NullableBool](../../../aspose.slides/nullablebool/)) method
 
 
 Represents whether animation behaviors are accumulated. Write [NullableBool](../../../aspose.slides/nullablebool/).

@@ -1,12 +1,12 @@
 ---
-title: GetFileColumnNumber
+title: GetFileColumnNumber()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the colnum number.
 type: docs
 weight: 79
 url: /cpp/system.diagnostics/stackframe/getfilecolumnnumber/
 ---
-## StackFrame::GetFileColumnNumber method
+## StackFrame::GetFileColumnNumber() method
 
 
 Gets the colnum number.

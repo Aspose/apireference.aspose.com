@@ -1,12 +1,12 @@
 ---
-title: get_TextFormat
+title: get_TextFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns chart text format. The property is not applicable for the following types: ChartType::Treemap, ChartType::Sunburst, ChartType::Waterfall, ChartType::Histogram, ChartType::Funnel,ChartType::BoxAndWhisker. Read-only IChartTextFormat."
 type: docs
 weight: 300
 url: /cpp/aspose.slides.charts/chart/get_textformat/
 ---
-## Chart::get_TextFormat method
+## Chart::get_TextFormat() method
 
 
 Returns chart text format. The property is not applicable for the following types: [ChartType::Treemap](../../charttype/), [ChartType::Sunburst](../../charttype/), [ChartType::Waterfall](../../charttype/), [ChartType::Histogram](../../charttype/), [ChartType::Funnel](../../charttype/),[ChartType::BoxAndWhisker](../../charttype/). Read-only [IChartTextFormat](../../icharttextformat/).

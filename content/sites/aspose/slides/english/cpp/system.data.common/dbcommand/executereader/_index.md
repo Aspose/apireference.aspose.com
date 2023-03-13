@@ -1,12 +1,12 @@
 ---
-title: ExecuteReader
+title: ExecuteReader()
 second_title: Aspose.Slides for C++ API Reference
 description: Executes query command.
 type: docs
 weight: 66
 url: /cpp/system.data.common/dbcommand/executereader/
 ---
-## DbCommand::ExecuteReader method
+## DbCommand::ExecuteReader() method
 
 
 Executes query command.

@@ -1,5 +1,5 @@
 ---
-title: SetByte
+title: SetByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Interprets the specified typed array as a raw byte array and sets the specified byte value at specified byte offset.
 type: docs

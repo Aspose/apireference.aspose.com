@@ -1,12 +1,12 @@
 ---
-title: set_Encoding
+title: set_Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the encoding level of the XML document.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmldeclaration/set_encoding/
 ---
-## XmlDeclaration::set_Encoding method
+## XmlDeclaration::set_Encoding(const [String](../../../system/string/)\&) method
 
 
 Sets the encoding level of the XML document.

@@ -1,12 +1,12 @@
 ---
-title: Sin
+title: Sin()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the sine of the specified value.
 type: docs
 weight: 105
 url: /cpp/system/math/sin/
 ---
-## Math::Sin method
+## Math::Sin(**double**) method
 
 
 Calculates the sine of the specified value.

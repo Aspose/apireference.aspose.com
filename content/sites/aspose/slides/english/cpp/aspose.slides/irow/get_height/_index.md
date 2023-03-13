@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the height of a row. Read-only double.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/irow/get_height/
 ---
-## IRow::get_Height method
+## IRow::get_Height() method
 
 
 Returns the height of a row. Read-only **double**.

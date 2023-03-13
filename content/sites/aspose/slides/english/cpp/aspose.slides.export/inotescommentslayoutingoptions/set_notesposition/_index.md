@@ -1,12 +1,12 @@
 ---
-title: set_NotesPosition
+title: set_NotesPosition()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the position of the notes on the page.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/inotescommentslayoutingoptions/set_notesposition/
 ---
-## INotesCommentsLayoutingOptions::set_NotesPosition method
+## INotesCommentsLayoutingOptions::set_NotesPosition([NotesPositions](../../notespositions/)) method
 
 
 Sets the position of the notes on the page.

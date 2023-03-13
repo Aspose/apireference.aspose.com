@@ -1,12 +1,12 @@
 ---
-title: set_CookieContainer
+title: set_CookieContainer()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the cookie container that is used to store server cookies.
 type: docs
 weight: 79
 url: /cpp/system.net.http/httpclienthandler/set_cookiecontainer/
 ---
-## HttpClientHandler::set_CookieContainer method
+## HttpClientHandler::set_CookieContainer([System::SharedPtr](../../../system/sharedptr/)\<[System::Net::CookieContainer](../../../system.net/cookiecontainer/)\>) method
 
 
 Sets the cookie container that is used to store server cookies.

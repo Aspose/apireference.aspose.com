@@ -1,12 +1,12 @@
 ---
-title: GetRangeItemListLength
+title: GetRangeItemListLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified position to the collection of the RangeItemHeaderValue-class instances.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/rangeitemheadervalue/getrangeitemlistlength/
 ---
-## RangeItemHeaderValue::GetRangeItemListLength method
+## RangeItemHeaderValue::GetRangeItemListLength([String](../../../system/string/), **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[Collections::Generic::ICollection](../../../system.collections.generic/icollection/)\<[System::SharedPtr](../../../system/sharedptr/)\<[RangeItemHeaderValue](../)\>\>\>) method
 
 
 Converts a passed string from the specified position to the collection of the RangeItemHeaderValue-class instances.

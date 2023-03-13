@@ -1,12 +1,12 @@
 ---
-title: EndWrite
+title: EndWrite()
 second_title: Aspose.Slides for C++ API Reference
 description: Ends an asynchronous write operation. Waits until the specified asynchronous write operation completes.
 type: docs
 weight: 456
 url: /cpp/system.net.security/sslstream/endwrite/
 ---
-## SslStream::EndWrite method
+## SslStream::EndWrite([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
 
 
 Ends an asynchronous write operation. Waits until the specified asynchronous write operation completes.

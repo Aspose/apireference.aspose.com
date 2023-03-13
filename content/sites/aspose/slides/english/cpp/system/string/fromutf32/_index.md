@@ -1,12 +1,12 @@
 ---
-title: FromUtf32
+title: FromUtf32()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates String from utf32 string.
 type: docs
 weight: 885
 url: /cpp/system/string/fromutf32/
 ---
-## String::FromUtf32 method
+## String::FromUtf32(const **uint32_t** *, **int32_t**) method
 
 
 Creates [String](../) from utf32 string.

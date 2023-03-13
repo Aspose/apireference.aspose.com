@@ -1,12 +1,12 @@
 ---
-title: MathMatrix
+title: MathMatrix()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathMatrix class.
 type: docs
 weight: 235
 url: /cpp/aspose.slides.mathtext/mathmatrix/mathmatrix/
 ---
-## MathMatrix::MathMatrix constructor
+## MathMatrix::MathMatrix(**int32_t**, **int32_t**) constructor
 
 
 Initializes a new instance of the [MathMatrix](../) class.

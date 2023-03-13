@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value at specified index.
 type: docs
 weight: 170
 url: /cpp/system.collections.specialized/namevaluecollection/idx_get/
 ---
-## NameValueCollection::idx_get method
+## NameValueCollection::idx_get(const [String](../../../system/string/)\&) method
 
 
 Gets value at specified index.

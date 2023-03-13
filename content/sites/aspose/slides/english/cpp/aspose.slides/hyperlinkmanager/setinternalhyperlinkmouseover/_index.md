@@ -1,12 +1,12 @@
 ---
-title: SetInternalHyperlinkMouseOver
+title: SetInternalHyperlinkMouseOver()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets internal hyperlink mouse over.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/hyperlinkmanager/setinternalhyperlinkmouseover/
 ---
-## HyperlinkManager::SetInternalHyperlinkMouseOver method
+## HyperlinkManager::SetInternalHyperlinkMouseOver([System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>) method
 
 
 Sets internal hyperlink mouse over.

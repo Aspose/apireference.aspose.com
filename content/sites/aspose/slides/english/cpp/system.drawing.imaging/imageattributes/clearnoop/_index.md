@@ -1,12 +1,12 @@
 ---
-title: ClearNoOp
+title: ClearNoOp()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 66
 url: /cpp/system.drawing.imaging/imageattributes/clearnoop/
 ---
-## ImageAttributes::ClearNoOp method
+## ImageAttributes::ClearNoOp([ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

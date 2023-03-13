@@ -1,12 +1,12 @@
 ---
-title: get_PublicId
+title: get_PublicId()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the public identifier on the entity declaration.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlentity/get_publicid/
 ---
-## XmlEntity::get_PublicId method
+## XmlEntity::get_PublicId() method
 
 
 Returns the value of the public identifier on the entity declaration.

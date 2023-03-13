@@ -1,12 +1,12 @@
 ---
-title: InitFormatSchemeFrom
+title: InitFormatSchemeFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: Init FormatScheme with new object for overriding FormatScheme of InheritedTheme.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.theme/ioverridetheme/initformatschemefrom/
 ---
-## IOverrideTheme::InitFormatSchemeFrom method
+## IOverrideTheme::InitFormatSchemeFrom([System::SharedPtr](../../../system/sharedptr/)\<[IFormatScheme](../../iformatscheme/)\>) method
 
 
 Init [FormatScheme](../../formatscheme/) with new object for overriding [FormatScheme](../../formatscheme/) of InheritedTheme.

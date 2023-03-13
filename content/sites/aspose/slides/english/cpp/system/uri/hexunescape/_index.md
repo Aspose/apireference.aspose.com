@@ -1,12 +1,12 @@
 ---
-title: HexUnescape
+title: HexUnescape()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified hexadecimal representation of a character to a character.
 type: docs
 weight: 443
 url: /cpp/system/uri/hexunescape/
 ---
-## Uri::HexUnescape method
+## Uri::HexUnescape(const [String](../../string/)\&, **int32_t**\&) method
 
 
 Converts the specified hexadecimal representation of a character to a character.

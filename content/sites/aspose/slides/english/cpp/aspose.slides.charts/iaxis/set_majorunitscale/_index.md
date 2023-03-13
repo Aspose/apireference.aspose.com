@@ -1,12 +1,12 @@
 ---
-title: set_MajorUnitScale
+title: set_MajorUnitScale()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the major unit scale for the date axis. Write TimeUnitType.
 type: docs
 weight: 560
 url: /cpp/aspose.slides.charts/iaxis/set_majorunitscale/
 ---
-## IAxis::set_MajorUnitScale method
+## IAxis::set_MajorUnitScale([TimeUnitType](../../timeunittype/)) method
 
 
 Represents the major unit scale for the date axis. Write [TimeUnitType](../../timeunittype/).

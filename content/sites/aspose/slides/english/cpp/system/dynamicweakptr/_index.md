@@ -38,7 +38,7 @@ template<typename T,SmartPtrMode,unsigned int ...>class DynamicWeakPtr : public 
 | [SmartPtr](../smartptr/)\<Y\> [const_pointer_cast](../smartptr/const_pointer_cast/)() const | Casts pointer to different type using const_cast on pointed object. |
 | [SmartPtr](../smartptr/)\<Y\> [dynamic_pointer_cast](../smartptr/dynamic_pointer_cast/)() const | Casts pointer to different type using dynamic_cast on pointed object. |
 |  [DynamicWeakPtr](./dynamicweakptr/)(std::nullptr_t) | Creates null smart pointer. |
-|  [DynamicWeakPtr](./dynamicweakptr/)([Pointee_](./pointee_/) *) | Creates smart pointer pointing to given object. |
+|  [DynamicWeakPtr](./dynamicweakptr/)([Pointee_](../smartptr/pointee_/) *) | Creates smart pointer pointing to given object. |
 |  [DynamicWeakPtr](./dynamicweakptr/)(const [SmartPtr_](./smartptr_/)\&) | Copy-constructs smart pointer. |
 |  [DynamicWeakPtr](./dynamicweakptr/)(const [SmartPtr](../smartptr/)\<Q\>\&) | Copy-constructs smart pointer. |
 |  [DynamicWeakPtr](./dynamicweakptr/)(const [DynamicWeakPtr_](./dynamicweakptr_/)\&) | Copy-constructs smart pointer. |

@@ -1,12 +1,12 @@
 ---
-title: get_ForestGreen
+title: get_ForestGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF228B22.
 type: docs
 weight: 586
 url: /cpp/system.drawing/pens/get_forestgreen/
 ---
-## Pens::get_ForestGreen method
+## Pens::get_ForestGreen() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF228B22.

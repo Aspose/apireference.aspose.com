@@ -1,15 +1,15 @@
 ---
-title: get_Subscript
+title: get_Subscript()
 second_title: Aspose.Slides for C++ API Reference
-description: Subscript argument.
+description: Subscript argument
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathrightsubsuperscriptelement/get_subscript/
 ---
-## IMathRightSubSuperscriptElement::get_Subscript method
+## IMathRightSubSuperscriptElement::get_Subscript() method
 
 
-Subscript argument.
+Subscript argument
 
 ```cpp
 virtual System::SharedPtr<IMathElement> Aspose::Slides::MathText::IMathRightSubSuperscriptElement::get_Subscript()=0

@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the cookie's value.
 type: docs
 weight: 365
 url: /cpp/system.net/cookie/set_value/
 ---
-## Cookie::set_Value method
+## Cookie::set_Value([String](../../../system/string/)) method
 
 
 Sets the cookie's value.

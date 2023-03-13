@@ -1,5 +1,5 @@
 ---
-title: Matrix
+title: Matrix()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of Matrix class that represents an identity matrix.
 type: docs

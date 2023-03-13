@@ -1,12 +1,12 @@
 ---
-title: get_HyperlinkManager
+title: get_HyperlinkManager()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the hyperlink manager. Read-only IHyperlinkManager.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/shape/get_hyperlinkmanager/
 ---
-## Shape::get_HyperlinkManager method
+## Shape::get_HyperlinkManager() method
 
 
 Returns the hyperlink manager. Read-only [IHyperlinkManager](../../ihyperlinkmanager/).

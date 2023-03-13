@@ -1,12 +1,12 @@
 ---
-title: get_TickLabelSpacing
+title: get_TickLabelSpacing()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies how many tick labels to skip between label that is drawn. Applied to category or series axis. Read uint32_t.
 type: docs
 weight: 911
 url: /cpp/aspose.slides.charts/axis/get_ticklabelspacing/
 ---
-## Axis::get_TickLabelSpacing method
+## Axis::get_TickLabelSpacing() method
 
 
 Specifies how many tick labels to skip between label that is drawn. Applied to category or series axis. Read **uint32_t**.

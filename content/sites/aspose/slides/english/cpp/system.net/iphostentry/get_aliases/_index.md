@@ -1,12 +1,12 @@
 ---
-title: get_Aliases
+title: get_Aliases()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the collection of aliases of the host.
 type: docs
 weight: 27
 url: /cpp/system.net/iphostentry/get_aliases/
 ---
-## IPHostEntry::get_Aliases method
+## IPHostEntry::get_Aliases() method
 
 
 Gets the collection of aliases of the host.

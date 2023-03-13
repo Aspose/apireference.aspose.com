@@ -1,12 +1,12 @@
 ---
-title: RangeItemHeaderValue
+title: RangeItemHeaderValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/rangeitemheadervalue/rangeitemheadervalue/
 ---
-## RangeItemHeaderValue::RangeItemHeaderValue constructor
+## RangeItemHeaderValue::RangeItemHeaderValue([Nullable](../../../system/nullable/)\<**int64_t**\>, [Nullable](../../../system/nullable/)\<**int64_t**\>) constructor
 
 
 Constructs a new instance.

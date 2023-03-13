@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets item at specific index.
 type: docs
 weight: 27
 url: /cpp/system.collections.objectmodel/keyedcollection/idx_get/
 ---
-## KeyedCollection::idx_get method
+## KeyedCollection::idx_get(TKey) method
 
 
 Gets item at specific index.

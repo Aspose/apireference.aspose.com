@@ -1,12 +1,12 @@
 ---
-title: get_NativeDigits
+title: get_NativeDigits()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets digits symbols (0 through 9).
 type: docs
 weight: 690
 url: /cpp/system.globalization/numberformatinfo/get_nativedigits/
 ---
-## NumberFormatInfo::get_NativeDigits method
+## NumberFormatInfo::get_NativeDigits() const method
 
 
 Gets digits symbols (0 through 9).

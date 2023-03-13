@@ -1,12 +1,12 @@
 ---
-title: CreateOaep
+title: CreateOaep()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates RSAEncryptionPadding with OAEP mode and specified hash algorithm.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/rsaencryptionpadding/createoaep/
 ---
-## RSAEncryptionPadding::CreateOaep method
+## RSAEncryptionPadding::CreateOaep(const [HashAlgorithmName](../../hashalgorithmname/)\&) method
 
 
 Creates [RSAEncryptionPadding](../) with OAEP mode and specified hash algorithm.

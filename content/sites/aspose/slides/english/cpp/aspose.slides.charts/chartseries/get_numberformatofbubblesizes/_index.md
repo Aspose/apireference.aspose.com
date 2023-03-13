@@ -1,12 +1,12 @@
 ---
-title: get_NumberFormatOfBubbleSizes
+title: get_NumberFormatOfBubbleSizes()
 second_title: Aspose.Slides for C++ API Reference
 description: "NumberFormatOfBubbleSizes. Read System::String."
 type: docs
 weight: 339
 url: /cpp/aspose.slides.charts/chartseries/get_numberformatofbubblesizes/
 ---
-## ChartSeries::get_NumberFormatOfBubbleSizes method
+## ChartSeries::get_NumberFormatOfBubbleSizes() method
 
 
 NumberFormatOfBubbleSizes. Read [System::String](../../../system/string/).

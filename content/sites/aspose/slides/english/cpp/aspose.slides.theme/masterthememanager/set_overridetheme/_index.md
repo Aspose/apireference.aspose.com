@@ -1,12 +1,12 @@
 ---
-title: set_OverrideTheme
+title: set_OverrideTheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the overriding theme object. Write IMasterTheme.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.theme/masterthememanager/set_overridetheme/
 ---
-## MasterThemeManager::set_OverrideTheme method
+## MasterThemeManager::set_OverrideTheme([System::SharedPtr](../../../system/sharedptr/)\<[IMasterTheme](../../imastertheme/)\>) method
 
 
 Returns the overriding theme object. Write [IMasterTheme](../../imastertheme/).

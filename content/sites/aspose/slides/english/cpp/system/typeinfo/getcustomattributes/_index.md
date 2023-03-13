@@ -1,5 +1,5 @@
 ---
-title: GetCustomAttributes
+title: GetCustomAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing objects that represent all custom attributes applied to the type.
 type: docs

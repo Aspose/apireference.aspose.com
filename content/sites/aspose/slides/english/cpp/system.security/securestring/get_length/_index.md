@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of characters in this secure string.
 type: docs
 weight: 40
 url: /cpp/system.security/securestring/get_length/
 ---
-## SecureString::get_Length method
+## SecureString::get_Length() const method
 
 
 Gets number of characters in this secure string.

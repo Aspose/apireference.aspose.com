@@ -1,12 +1,12 @@
 ---
-title: Format
+title: Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Formats name for printing.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography.x509certificates/x500distinguishedname/format/
 ---
-## X500DistinguishedName::Format method
+## X500DistinguishedName::Format(**bool**) const method
 
 
 Formats name for printing.

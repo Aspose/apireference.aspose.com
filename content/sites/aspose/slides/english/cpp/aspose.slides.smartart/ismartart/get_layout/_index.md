@@ -1,12 +1,12 @@
 ---
-title: get_Layout
+title: get_Layout()
 second_title: Aspose.Slides for C++ API Reference
 description: Return or set layout of the SmartArt object. Read SmartArtLayoutType.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.smartart/ismartart/get_layout/
 ---
-## ISmartArt::get_Layout method
+## ISmartArt::get_Layout() method
 
 
 Return or set layout of the [SmartArt](../../smartart/) object. Read [SmartArtLayoutType](../../smartartlayouttype/).

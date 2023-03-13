@@ -1,12 +1,12 @@
 ---
-title: DisableGlowEffect
+title: DisableGlowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Disable glow effect.
 type: docs
 weight: 352
 url: /cpp/aspose.slides/ieffectformat/disablegloweffect/
 ---
-## IEffectFormat::DisableGlowEffect method
+## IEffectFormat::DisableGlowEffect() method
 
 
 Disable glow effect.

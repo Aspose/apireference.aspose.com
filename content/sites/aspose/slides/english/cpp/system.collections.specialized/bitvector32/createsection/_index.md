@@ -1,5 +1,5 @@
 ---
-title: CreateSection
+title: CreateSection()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the first section in a series, with the specified maximum value.
 type: docs

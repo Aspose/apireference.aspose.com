@@ -1,5 +1,5 @@
 ---
-title: XmlTextReader
+title: XmlTextReader()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlTextReader class with the specified stream.
 type: docs

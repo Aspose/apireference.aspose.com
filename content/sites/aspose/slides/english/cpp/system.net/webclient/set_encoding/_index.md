@@ -1,12 +1,12 @@
 ---
-title: set_Encoding
+title: set_Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the encoding used to download or upload strings.
 type: docs
 weight: 40
 url: /cpp/system.net/webclient/set_encoding/
 ---
-## WebClient::set_Encoding method
+## WebClient::set_Encoding(const [SharedPtr](../../../system/sharedptr/)\<[Text::Encoding](../../../system.text/encoding/)\>\&) method
 
 
 Sets the encoding used to download or upload strings.

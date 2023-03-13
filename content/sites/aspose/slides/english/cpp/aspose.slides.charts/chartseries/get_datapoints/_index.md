@@ -1,12 +1,12 @@
 ---
-title: get_DataPoints
+title: get_DataPoints()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns collection of data points of this series. Read-only IChartDataPointCollection.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/chartseries/get_datapoints/
 ---
-## ChartSeries::get_DataPoints method
+## ChartSeries::get_DataPoints() method
 
 
 Returns collection of data points of this series. Read-only [IChartDataPointCollection](../../ichartdatapointcollection/).

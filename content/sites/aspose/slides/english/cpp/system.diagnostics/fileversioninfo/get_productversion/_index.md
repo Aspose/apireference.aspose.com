@@ -1,12 +1,12 @@
 ---
-title: get_ProductVersion
+title: get_ProductVersion()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets product version field.
 type: docs
 weight: 14
 url: /cpp/system.diagnostics/fileversioninfo/get_productversion/
 ---
-## FileVersionInfo::get_ProductVersion method
+## FileVersionInfo::get_ProductVersion() const method
 
 
 Gets product version field.

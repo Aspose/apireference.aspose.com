@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns data point levels count.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/chartdatapointlevelsmanager/get_count/
 ---
-## ChartDataPointLevelsManager::get_Count method
+## ChartDataPointLevelsManager::get_Count() method
 
 
 Returns data point levels count.

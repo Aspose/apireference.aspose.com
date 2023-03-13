@@ -1,12 +1,12 @@
 ---
-title: operator!
+title: operator!()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if pointer is null.
 type: docs
 weight: 222
 url: /cpp/system/smartptr/operator_not/
 ---
-## SmartPtr::operator! method
+## SmartPtr::operator!() const method
 
 
 Checks if pointer is null.

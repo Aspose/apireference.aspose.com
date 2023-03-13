@@ -1,12 +1,12 @@
 ---
-title: set_ResourceLoadingCallback
+title: set_ResourceLoadingCallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets callback interface which manages external resources loading. Write IResourceLoadingCallback.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/iloadoptions/set_resourceloadingcallback/
 ---
-## ILoadOptions::set_ResourceLoadingCallback method
+## ILoadOptions::set_ResourceLoadingCallback([System::SharedPtr](../../../system/sharedptr/)\<[IResourceLoadingCallback](../../iresourceloadingcallback/)\>) method
 
 
 Sets callback interface which manages external resources loading. Write [IResourceLoadingCallback](../../iresourceloadingcallback/).

@@ -1,5 +1,5 @@
 ---
-title: Rect32f
+title: Rect32f()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs

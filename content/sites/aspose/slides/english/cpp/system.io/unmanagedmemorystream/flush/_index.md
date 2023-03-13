@@ -1,12 +1,12 @@
 ---
-title: Flush
+title: Flush()
 second_title: Aspose.Slides for C++ API Reference
 description: Does nothing.
 type: docs
 weight: 131
 url: /cpp/system.io/unmanagedmemorystream/flush/
 ---
-## UnmanagedMemoryStream::Flush method
+## UnmanagedMemoryStream::Flush() method
 
 
 Does nothing.

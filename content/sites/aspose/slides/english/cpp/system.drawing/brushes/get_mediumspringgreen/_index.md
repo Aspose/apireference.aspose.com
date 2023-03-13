@@ -1,12 +1,12 @@
 ---
-title: get_MediumSpringGreen
+title: get_MediumSpringGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF00FA9A.
 type: docs
 weight: 1132
 url: /cpp/system.drawing/brushes/get_mediumspringgreen/
 ---
-## Brushes::get_MediumSpringGreen method
+## Brushes::get_MediumSpringGreen() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF00FA9A.

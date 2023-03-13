@@ -1,12 +1,12 @@
 ---
-title: get_ValueType
+title: get_ValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of the validated XML element or attribute.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlatomicvalue/get_valuetype/
 ---
-## XmlAtomicValue::get_ValueType method
+## XmlAtomicValue::get_ValueType() method
 
 
 Returns the type of the validated XML element or attribute.

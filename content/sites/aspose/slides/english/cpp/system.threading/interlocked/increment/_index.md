@@ -1,5 +1,5 @@
 ---
-title: Increment
+title: Increment()
 second_title: Aspose.Slides for C++ API Reference
 description: Increments value atomically.
 type: docs

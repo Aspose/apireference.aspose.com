@@ -1,12 +1,12 @@
 ---
-title: get_FullName
+title: get_FullName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets member full name. Can be different in manually implemented parts.
 type: docs
 weight: 40
 url: /cpp/system.reflection/memberinfo/get_fullname/
 ---
-## MemberInfo::get_FullName method
+## MemberInfo::get_FullName() const method
 
 
 Gets member full name. Can be different in manually implemented parts.

@@ -1,12 +1,12 @@
 ---
-title: get_SourceUri
+title: get_SourceUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Uniform Resource Identifier (URI) location of the schema that caused the exception.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/details_xmlschemaexception/get_sourceuri/
 ---
-## Details_XmlSchemaException::get_SourceUri method
+## Details_XmlSchemaException::get_SourceUri() method
 
 
 Returns the Uniform Resource Identifier (URI) location of the schema that caused the exception.

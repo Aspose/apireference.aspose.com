@@ -1,7 +1,7 @@
 ---
 title: ITrendline
 second_title: Aspose.Slides for C++ API Reference
-description: Class represents trend line of chart series.
+description: Class represents trend line of chart series
 type: docs
 weight: 1223
 url: /cpp/aspose.slides.charts/itrendline/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/itrendline/
 ## ITrendline class
 
 
-Class represents trend line of chart series.
+Class represents trend line of chart series
 
 ```cpp
 class ITrendline : public Aspose::Slides::Charts::IOverridableText

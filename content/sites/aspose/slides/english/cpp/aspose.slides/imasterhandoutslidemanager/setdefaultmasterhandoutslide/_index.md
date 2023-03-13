@@ -1,12 +1,12 @@
 ---
-title: SetDefaultMasterHandoutSlide
+title: SetDefaultMasterHandoutSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets default master handout slide to related handout slide.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/imasterhandoutslidemanager/setdefaultmasterhandoutslide/
 ---
-## IMasterHandoutSlideManager::SetDefaultMasterHandoutSlide method
+## IMasterHandoutSlideManager::SetDefaultMasterHandoutSlide() method
 
 
 Sets default master handout slide to related handout slide.

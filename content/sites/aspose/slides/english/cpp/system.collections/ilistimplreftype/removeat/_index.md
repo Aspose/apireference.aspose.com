@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes item at specified position.
 type: docs
 weight: 53
 url: /cpp/system.collections/ilistimplreftype/removeat/
 ---
-## IListImplRefType::RemoveAt method
+## IListImplRefType::RemoveAt(int) method
 
 
 Removes item at specified position.

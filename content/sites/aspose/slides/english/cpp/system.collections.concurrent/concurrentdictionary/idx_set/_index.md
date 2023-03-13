@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets element at specific position.
 type: docs
 weight: 1
 url: /cpp/system.collections.concurrent/concurrentdictionary/idx_set/
 ---
-## ConcurrentDictionary::idx_set method
+## ConcurrentDictionary::idx_set(const TKey\&, TValue) method
 
 
 Sets element at specific position.

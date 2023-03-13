@@ -1,12 +1,12 @@
 ---
-title: get_MaxIdleTime
+title: get_MaxIdleTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets an amount of time in milliseconds after which an idle connection will be closed.
 type: docs
 weight: 66
 url: /cpp/system.net/servicepoint/get_maxidletime/
 ---
-## ServicePoint::get_MaxIdleTime method
+## ServicePoint::get_MaxIdleTime() method
 
 
 Gets an amount of time in milliseconds after which an idle connection will be closed.

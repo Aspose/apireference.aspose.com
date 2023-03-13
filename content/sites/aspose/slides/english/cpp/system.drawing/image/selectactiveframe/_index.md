@@ -1,12 +1,12 @@
 ---
-title: SelectActiveFrame
+title: SelectActiveFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Selects the specified frame.
 type: docs
 weight: 274
 url: /cpp/system.drawing/image/selectactiveframe/
 ---
-## Image::SelectActiveFrame method
+## Image::SelectActiveFrame(const [Imaging::FrameDimensionPtr](../../../system.drawing.imaging/framedimensionptr/)\&, int) method
 
 
 Selects the specified frame.

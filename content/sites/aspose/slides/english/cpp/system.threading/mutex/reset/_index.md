@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets mutex state. Not implemented.
 type: docs
 weight: 27
 url: /cpp/system.threading/mutex/reset/
 ---
-## Mutex::Reset method
+## Mutex::Reset() method
 
 
 Resets mutex state. Not implemented.

@@ -1,12 +1,12 @@
 ---
-title: get_Categories
+title: get_Categories()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the primary categories (or both primary and secondary categories if ChartData::set_UseSecondaryCategories is set to false). Read-only IChartCategoryCollection."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/chartdata/get_categories/
 ---
-## ChartData::get_Categories method
+## ChartData::get_Categories() method
 
 
 Gets the primary categories (or both primary and secondary categories if [ChartData::set_UseSecondaryCategories](../set_usesecondarycategories/) is set to false). Read-only [IChartCategoryCollection](../../ichartcategorycollection/).

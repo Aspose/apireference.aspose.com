@@ -1,12 +1,12 @@
 ---
-title: VerifyHash
+title: VerifyHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks data signature.
 type: docs
 weight: 118
 url: /cpp/system.security.cryptography/ecdsa/verifyhash/
 ---
-## ECDsa::VerifyHash method
+## ECDsa::VerifyHash([ByteArrayPtr](../../../system/bytearrayptr/), [ByteArrayPtr](../../../system/bytearrayptr/)) method
 
 
 Checks data signature.

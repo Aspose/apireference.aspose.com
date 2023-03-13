@@ -1,12 +1,12 @@
 ---
-title: get_ValueType
+title: get_ValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of the current node.
 type: docs
 weight: 40
 url: /cpp/system.xml.xpath/xpathnavigator/get_valuetype/
 ---
-## XPathNavigator::get_ValueType method
+## XPathNavigator::get_ValueType() method
 
 
 Returns the type of the current node.

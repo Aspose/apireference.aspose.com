@@ -1,12 +1,12 @@
 ---
-title: get_NativeErrorCode
+title: get_NativeErrorCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the Win32 error code associated with this exception.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/details_win32exception/get_nativeerrorcode/
 ---
-## Details_Win32Exception::get_NativeErrorCode method
+## Details_Win32Exception::get_NativeErrorCode() const method
 
 
 Gets the Win32 error code associated with this exception.

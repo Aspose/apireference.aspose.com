@@ -1,5 +1,5 @@
 ---
-title: Default
+title: Default()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the default-constructed instance of the specified type.
 type: docs

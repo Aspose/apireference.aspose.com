@@ -1,12 +1,12 @@
 ---
-title: FromUnixTimeMilliseconds
+title: FromUnixTimeMilliseconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Convert Unix-time to DateTimeOffset object.
 type: docs
 weight: 677
 url: /cpp/system/datetimeoffset/fromunixtimemilliseconds/
 ---
-## DateTimeOffset::FromUnixTimeMilliseconds method
+## DateTimeOffset::FromUnixTimeMilliseconds(**int64_t**) method
 
 
 [Convert](../../convert/) Unix-time to [DateTimeOffset](../) object.

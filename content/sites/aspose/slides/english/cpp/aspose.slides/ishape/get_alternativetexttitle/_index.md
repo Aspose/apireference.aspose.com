@@ -1,12 +1,12 @@
 ---
-title: get_AlternativeTextTitle
+title: get_AlternativeTextTitle()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the title of alternative text associated with a shape. Read System::String."
 type: docs
 weight: 352
 url: /cpp/aspose.slides/ishape/get_alternativetexttitle/
 ---
-## IShape::get_AlternativeTextTitle method
+## IShape::get_AlternativeTextTitle() method
 
 
 Returns the title of alternative text associated with a shape. Read [System::String](../../../system/string/).

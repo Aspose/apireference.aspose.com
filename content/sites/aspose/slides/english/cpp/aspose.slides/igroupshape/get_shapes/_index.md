@@ -1,12 +1,12 @@
 ---
-title: get_Shapes
+title: get_Shapes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of shapes inside the group. Read-only IShapeCollection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/igroupshape/get_shapes/
 ---
-## IGroupShape::get_Shapes method
+## IGroupShape::get_Shapes() method
 
 
 Returns the collection of shapes inside the group. Read-only [IShapeCollection](../../ishapecollection/).

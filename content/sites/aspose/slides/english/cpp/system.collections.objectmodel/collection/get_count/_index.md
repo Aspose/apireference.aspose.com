@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of elements.
 type: docs
 weight: 27
 url: /cpp/system.collections.objectmodel/collection/get_count/
 ---
-## Collection::get_Count method
+## Collection::get_Count() const method
 
 
 Gets number of elements.

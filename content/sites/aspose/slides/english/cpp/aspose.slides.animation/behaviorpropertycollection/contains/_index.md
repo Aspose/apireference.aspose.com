@@ -1,5 +1,5 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the ICollection contains a specific value.
 type: docs

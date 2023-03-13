@@ -1,12 +1,12 @@
 ---
-title: get_Peru
+title: get_Peru()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFCD853F.
 type: docs
 weight: 1405
 url: /cpp/system.drawing/brushes/get_peru/
 ---
-## Brushes::get_Peru method
+## Brushes::get_Peru() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFCD853F.

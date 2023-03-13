@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the current FileStream object.
 type: docs
 weight: 131
 url: /cpp/system.io/filestream/close/
 ---
-## FileStream::Close method
+## FileStream::Close() method
 
 
 Closes the current [FileStream](../) object.

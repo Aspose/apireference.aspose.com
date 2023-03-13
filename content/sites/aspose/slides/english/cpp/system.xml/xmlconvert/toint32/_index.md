@@ -1,12 +1,12 @@
 ---
-title: ToInt32
+title: ToInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Int32 equivalent.
 type: docs
 weight: 300
 url: /cpp/system.xml/xmlconvert/toint32/
 ---
-## XmlConvert::ToInt32 method
+## XmlConvert::ToInt32(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [Int32](../../../system/int32/) equivalent.

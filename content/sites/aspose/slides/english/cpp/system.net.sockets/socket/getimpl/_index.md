@@ -1,12 +1,12 @@
 ---
-title: GetImpl
+title: GetImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a pointer to implementation.
 type: docs
 weight: 794
 url: /cpp/system.net.sockets/socket/getimpl/
 ---
-## Socket::GetImpl method
+## Socket::GetImpl() const method
 
 
 Returns a pointer to implementation.

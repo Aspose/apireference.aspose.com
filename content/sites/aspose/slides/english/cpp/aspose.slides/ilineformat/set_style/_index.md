@@ -1,12 +1,12 @@
 ---
-title: set_Style
+title: set_Style()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the line style. Write LineStyle.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/ilineformat/set_style/
 ---
-## ILineFormat::set_Style method
+## ILineFormat::set_Style([LineStyle](../../linestyle/)) method
 
 
 Sets the line style. Write [LineStyle](../../linestyle/).

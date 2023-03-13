@@ -1,5 +1,5 @@
 ---
-title: Compile
+title: Compile()
 second_title: Aspose.Slides for C++ API Reference
 description: Compiles the XPath expression specified and returns an XPathExpression object representing the XPath expression.
 type: docs

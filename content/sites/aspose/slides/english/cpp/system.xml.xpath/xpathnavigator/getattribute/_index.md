@@ -1,12 +1,12 @@
 ---
-title: GetAttribute
+title: GetAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the attribute with the specified local name and namespace URI.
 type: docs
 weight: 482
 url: /cpp/system.xml.xpath/xpathnavigator/getattribute/
 ---
-## XPathNavigator::GetAttribute method
+## XPathNavigator::GetAttribute([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Returns the value of the attribute with the specified local name and namespace URI.

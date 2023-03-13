@@ -1,12 +1,12 @@
 ---
-title: set_HasBorderHorizontal
+title: set_HasBorderHorizontal()
 second_title: Aspose.Slides for C++ API Reference
 description: True if the chart data table has horizontal cell borders. Write bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/datatable/set_hasborderhorizontal/
 ---
-## DataTable::set_HasBorderHorizontal method
+## DataTable::set_HasBorderHorizontal(**bool**) method
 
 
 True if the chart data table has horizontal cell borders. Write **bool**.

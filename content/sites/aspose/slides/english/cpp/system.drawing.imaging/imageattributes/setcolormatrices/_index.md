@@ -1,12 +1,12 @@
 ---
-title: SetColorMatrices
+title: SetColorMatrices()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 170
 url: /cpp/system.drawing.imaging/imageattributes/setcolormatrices/
 ---
-## ImageAttributes::SetColorMatrices method
+## ImageAttributes::SetColorMatrices(const [SharedPtr](../../../system/sharedptr/)\<[ColorMatrix](../../colormatrix/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[ColorMatrix](../../colormatrix/)\>\&, [ColorMatrixFlag](../../colormatrixflag/), [ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

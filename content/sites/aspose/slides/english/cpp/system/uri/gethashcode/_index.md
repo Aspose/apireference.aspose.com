@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the hash code for the URI.
 type: docs
 weight: 313
 url: /cpp/system/uri/gethashcode/
 ---
-## Uri::GetHashCode method
+## Uri::GetHashCode() const method
 
 
 Gets the hash code for the URI.

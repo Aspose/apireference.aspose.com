@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases all operating system resources acquired by the current object.
 type: docs
 weight: 157
 url: /cpp/system.drawing.drawing2d/customlinecap/dispose/
 ---
-## CustomLineCap::Dispose method
+## CustomLineCap::Dispose() method
 
 
 Releases all operating system resources acquired by the current object.

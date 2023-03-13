@@ -1,12 +1,12 @@
 ---
-title: get_DashStyle
+title: get_DashStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line dash style. Read-only LineDashStyle.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ilineformateffectivedata/get_dashstyle/
 ---
-## ILineFormatEffectiveData::get_DashStyle method
+## ILineFormatEffectiveData::get_DashStyle() method
 
 
 Returns the line dash style. Read-only [LineDashStyle](../../linedashstyle/).

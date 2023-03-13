@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the attribute.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemaattribute/get_name/
 ---
-## XmlSchemaAttribute::get_Name method
+## XmlSchemaAttribute::get_Name() method
 
 
 Returns the name of the attribute.

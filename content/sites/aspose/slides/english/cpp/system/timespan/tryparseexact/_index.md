@@ -1,5 +1,5 @@
 ---
-title: TryParseExact
+title: TryParseExact()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts string to equivalent TimeSpan object using the specified formats and format provider, and returns result of conversion.
 type: docs

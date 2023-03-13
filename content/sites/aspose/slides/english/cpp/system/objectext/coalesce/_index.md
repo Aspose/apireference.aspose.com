@@ -1,5 +1,5 @@
 ---
-title: Coalesce
+title: Coalesce()
 second_title: Aspose.Slides for C++ API Reference
 description: Implementation of '?' operator translation for non-nullable types.
 type: docs

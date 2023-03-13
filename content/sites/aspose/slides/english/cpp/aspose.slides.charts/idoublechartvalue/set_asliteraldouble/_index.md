@@ -1,12 +1,12 @@
 ---
-title: set_AsLiteralDouble
+title: set_AsLiteralDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets literal double value if DataSourceType = Charts::DataSourceType::DoubleLiterals. Write double."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/idoublechartvalue/set_asliteraldouble/
 ---
-## IDoubleChartValue::set_AsLiteralDouble method
+## IDoubleChartValue::set_AsLiteralDouble(**double**) method
 
 
 Sets literal double value if DataSourceType = [Charts::DataSourceType::DoubleLiterals](../../datasourcetype/). Write **double**.

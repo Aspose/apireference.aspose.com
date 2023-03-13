@@ -1,5 +1,5 @@
 ---
-title: Convert
+title: Convert()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts bytes to characters.
 type: docs

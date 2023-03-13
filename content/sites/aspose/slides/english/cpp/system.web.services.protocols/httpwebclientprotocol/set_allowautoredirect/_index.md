@@ -1,12 +1,12 @@
 ---
-title: set_AllowAutoRedirect
+title: set_AllowAutoRedirect()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the client follows server redirects.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_allowautoredirect/
 ---
-## HttpWebClientProtocol::set_AllowAutoRedirect method
+## HttpWebClientProtocol::set_AllowAutoRedirect(**bool**) method
 
 
 Sets a value that indicates if the client follows server redirects.

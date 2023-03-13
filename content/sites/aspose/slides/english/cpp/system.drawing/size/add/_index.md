@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new Size object that is a sum of the specified Size object, i.e. whose width value is equal to the sum of width values of the specified objects and height value is equal to the sum of height values of the specified objects.
 type: docs
 weight: 144
 url: /cpp/system.drawing/size/add/
 ---
-## Size::Add method
+## Size::Add(const [Size](../)\&, const [Size](../)\&) method
 
 
 Returns a new [Size](../) object that is a sum of the specified [Size](../) object, i.e. whose width value is equal to the sum of width values of the specified objects and height value is equal to the sum of height values of the specified objects.

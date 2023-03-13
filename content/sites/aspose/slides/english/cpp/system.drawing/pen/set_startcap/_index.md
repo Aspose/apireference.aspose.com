@@ -1,12 +1,12 @@
 ---
-title: set_StartCap
+title: set_StartCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the starting line cap of the current Pen object.
 type: docs
 weight: 79
 url: /cpp/system.drawing/pen/set_startcap/
 ---
-## Pen::set_StartCap method
+## Pen::set_StartCap([Drawing2D::LineCap](../../../system.drawing.drawing2d/linecap/)) method
 
 
 Sets the starting line cap of the current [Pen](../) object.

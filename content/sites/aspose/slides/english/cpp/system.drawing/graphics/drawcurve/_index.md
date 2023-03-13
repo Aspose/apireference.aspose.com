@@ -1,5 +1,5 @@
 ---
-title: DrawCurve
+title: DrawCurve()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws a spline using the specified pen.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_AttributeCount
+title: get_AttributeCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of attributes on the current node.
 type: docs
 weight: 196
 url: /cpp/system.xml/xmlnodereader/get_attributecount/
 ---
-## XmlNodeReader::get_AttributeCount method
+## XmlNodeReader::get_AttributeCount() method
 
 
 Returns the number of attributes on the current node.

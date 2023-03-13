@@ -1,12 +1,12 @@
 ---
-title: AddSection
+title: AddSection()
 second_title: Aspose.Slides for C++ API Reference
 description: Add slides section started form specific slide.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/sectioncollection/addsection/
 ---
-## SectionCollection::AddSection method
+## SectionCollection::AddSection([System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>) method
 
 
 Add slides section started form specific slide.

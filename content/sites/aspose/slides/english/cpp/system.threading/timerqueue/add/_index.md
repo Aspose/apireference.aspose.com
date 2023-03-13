@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Registers timer in queue.
 type: docs
 weight: 53
 url: /cpp/system.threading/timerqueue/add/
 ---
-## TimerQueue::Add method
+## TimerQueue::Add([Timer](../../timer/) *) method
 
 
 Registers timer in queue.

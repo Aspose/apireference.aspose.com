@@ -1,12 +1,12 @@
 ---
-title: FindShapeByAltText
+title: FindShapeByAltText()
 second_title: Aspose.Slides for C++ API Reference
 description: Finds first occurrence of a shape with the specified alternative text.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/ibaseslide/findshapebyalttext/
 ---
-## IBaseSlide::FindShapeByAltText method
+## IBaseSlide::FindShapeByAltText([System::String](../../../system/string/)) method
 
 
 Finds first occurrence of a shape with the specified alternative text.

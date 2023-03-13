@@ -1,12 +1,12 @@
 ---
-title: CompareTo
+title: CompareTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares the versions represented by the current object and the specified object.
 type: docs
 weight: 92
 url: /cpp/system/version/compareto/
 ---
-## Version::CompareTo method
+## Version::CompareTo(const [Version](../)\&) const method
 
 
 Compares the versions represented by the current object and the specified object.

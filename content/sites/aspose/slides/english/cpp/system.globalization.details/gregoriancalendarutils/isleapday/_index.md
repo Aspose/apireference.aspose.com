@@ -1,12 +1,12 @@
 ---
-title: IsLeapDay
+title: IsLeapDay()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the day is leap.
 type: docs
 weight: 40
 url: /cpp/system.globalization.details/gregoriancalendarutils/isleapday/
 ---
-## GregorianCalendarUtils::IsLeapDay method
+## GregorianCalendarUtils::IsLeapDay(int, int, int) method
 
 
 Checks if the day is leap.

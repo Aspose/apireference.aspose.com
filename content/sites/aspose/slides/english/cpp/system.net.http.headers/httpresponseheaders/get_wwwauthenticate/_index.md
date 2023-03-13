@@ -1,12 +1,12 @@
 ---
-title: get_WwwAuthenticate
+title: get_WwwAuthenticate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'WWW-Authenticate' header.
 type: docs
 weight: 157
 url: /cpp/system.net.http.headers/httpresponseheaders/get_wwwauthenticate/
 ---
-## HttpResponseHeaders::get_WwwAuthenticate method
+## HttpResponseHeaders::get_WwwAuthenticate() method
 
 
 Returns a value of the 'WWW-Authenticate' header.

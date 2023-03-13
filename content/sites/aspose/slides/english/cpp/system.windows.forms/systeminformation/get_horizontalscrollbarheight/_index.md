@@ -1,12 +1,12 @@
 ---
-title: get_HorizontalScrollBarHeight
+title: get_HorizontalScrollBarHeight()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 313
 url: /cpp/system.windows.forms/systeminformation/get_horizontalscrollbarheight/
 ---
-## SystemInformation::get_HorizontalScrollBarHeight method
+## SystemInformation::get_HorizontalScrollBarHeight() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: get_Query
+title: get_Query()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the query information included in the URI represented by the current object.
 type: docs
 weight: 170
 url: /cpp/system/uri/get_query/
 ---
-## Uri::get_Query method
+## Uri::get_Query() const method
 
 
 Returns the query information included in the URI represented by the current object.

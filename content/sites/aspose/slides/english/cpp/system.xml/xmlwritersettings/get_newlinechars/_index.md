@@ -1,12 +1,12 @@
 ---
-title: get_NewLineChars
+title: get_NewLineChars()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the character string to use for line breaks.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlwritersettings/get_newlinechars/
 ---
-## XmlWriterSettings::get_NewLineChars method
+## XmlWriterSettings::get_NewLineChars() method
 
 
 Returns the character string to use for line breaks.

@@ -1,12 +1,12 @@
 ---
-title: get_Pragma
+title: get_Pragma()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Pragma' header.
 type: docs
 weight: 495
 url: /cpp/system.net.http.headers/httprequestheaders/get_pragma/
 ---
-## HttpRequestHeaders::get_Pragma method
+## HttpRequestHeaders::get_Pragma() method
 
 
 Returns a value of the 'Pragma' header.

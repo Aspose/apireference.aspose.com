@@ -1,12 +1,12 @@
 ---
-title: set_Positions
+title: set_Positions()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the array of blend positions along a gradient.
 type: docs
 weight: 53
 url: /cpp/system.drawing.drawing2d/colorblend/set_positions/
 ---
-## ColorBlend::set_Positions method
+## ColorBlend::set_Positions(const [ArrayPtr](../../../system/arrayptr/)\<**float**\>\&) method
 
 
 Sets the array of blend positions along a gradient.

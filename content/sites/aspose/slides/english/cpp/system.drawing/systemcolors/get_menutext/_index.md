@@ -1,12 +1,12 @@
 ---
-title: get_MenuText
+title: get_MenuText()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Color object that represents the color of text in a menu.
 type: docs
 weight: 365
 url: /cpp/system.drawing/systemcolors/get_menutext/
 ---
-## SystemColors::get_MenuText method
+## SystemColors::get_MenuText() method
 
 
 Returns a [Color](../../color/) object that represents the color of text in a menu.

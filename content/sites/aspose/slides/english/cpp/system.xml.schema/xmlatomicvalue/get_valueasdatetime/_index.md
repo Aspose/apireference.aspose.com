@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsDateTime
+title: get_ValueAsDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the validated XML element or attribute's value as a DateTime.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlatomicvalue/get_valueasdatetime/
 ---
-## XmlAtomicValue::get_ValueAsDateTime method
+## XmlAtomicValue::get_ValueAsDateTime() method
 
 
 Returns the validated XML element or attribute's value as a [DateTime](../../../system/datetime/).

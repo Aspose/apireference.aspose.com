@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the name of a theme. Read System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.theme/imastertheme/get_name/
 ---
-## IMasterTheme::get_Name method
+## IMasterTheme::get_Name() method
 
 
 Returns the name of a theme. Read [System::String](../../../system/string/).

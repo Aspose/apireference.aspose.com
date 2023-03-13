@@ -1,12 +1,12 @@
 ---
-title: set_BaseInset
+title: set_BaseInset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the distance between the line and the cap.
 type: docs
 weight: 92
 url: /cpp/system.drawing.drawing2d/customlinecap/set_baseinset/
 ---
-## CustomLineCap::set_BaseInset method
+## CustomLineCap::set_BaseInset(**float**) method
 
 
 Sets the distance between the line and the cap.

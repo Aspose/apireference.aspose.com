@@ -1,12 +1,12 @@
 ---
-title: VerifyHash
+title: VerifyHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Verifies that the signature of the specified hash is valid.
 type: docs
 weight: 170
 url: /cpp/system.security.cryptography/rsa/verifyhash/
 ---
-## RSA::VerifyHash method
+## RSA::VerifyHash([ByteArrayPtr](../../../system/bytearrayptr/), [ByteArrayPtr](../../../system/bytearrayptr/), const [HashAlgorithmName](../../hashalgorithmname/)\&, [SharedPtr](../../../system/sharedptr/)\<[RSASignaturePadding](../../rsasignaturepadding/)\>) method
 
 
 Verifies that the signature of the specified hash is valid.

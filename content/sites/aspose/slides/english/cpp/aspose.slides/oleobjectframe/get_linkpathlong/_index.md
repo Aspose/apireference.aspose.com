@@ -1,12 +1,12 @@
 ---
-title: get_LinkPathLong
+title: get_LinkPathLong()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the full path to a linked file. Long file name will be used. Read System::String."
 type: docs
 weight: 105
 url: /cpp/aspose.slides/oleobjectframe/get_linkpathlong/
 ---
-## OleObjectFrame::get_LinkPathLong method
+## OleObjectFrame::get_LinkPathLong() method
 
 
 Returns the full path to a linked file. Long file name will be used. Read [System::String](../../../system/string/).

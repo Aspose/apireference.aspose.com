@@ -1,12 +1,12 @@
 ---
-title: get_DnsSafeHost
+title: get_DnsSafeHost()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an unescaped host name.
 type: docs
 weight: 222
 url: /cpp/system/uri/get_dnssafehost/
 ---
-## Uri::get_DnsSafeHost method
+## Uri::get_DnsSafeHost() const method
 
 
 Returns an unescaped host name.

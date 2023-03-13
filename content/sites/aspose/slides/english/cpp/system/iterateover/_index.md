@@ -1,5 +1,5 @@
 ---
-title: IterateOver
+title: IterateOver()
 second_title: Aspose.Slides for C++ API Reference
 description: "This function property wraps enumerable (or iterable) object so it can be used with range-based for loop This overload for Enumerable without begin(), end() methods with target type argument for (auto& value : IterateOver<SomeType>(enumerable))"
 type: docs

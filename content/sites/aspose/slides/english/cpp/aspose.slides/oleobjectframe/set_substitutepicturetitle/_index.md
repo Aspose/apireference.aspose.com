@@ -1,12 +1,12 @@
 ---
-title: set_SubstitutePictureTitle
+title: set_SubstitutePictureTitle()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the title for OleObject icon. Write System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/oleobjectframe/set_substitutepicturetitle/
 ---
-## OleObjectFrame::set_SubstitutePictureTitle method
+## OleObjectFrame::set_SubstitutePictureTitle([System::String](../../../system/string/)) method
 
 
 Sets the title for OleObject icon. Write [System::String](../../../system/string/).

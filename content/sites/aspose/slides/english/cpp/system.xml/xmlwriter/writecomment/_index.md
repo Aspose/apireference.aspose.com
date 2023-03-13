@@ -1,12 +1,12 @@
 ---
-title: WriteComment
+title: WriteComment()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes out a comment  containing the specified text.
 type: docs
 weight: 183
 url: /cpp/system.xml/xmlwriter/writecomment/
 ---
-## XmlWriter::WriteComment method
+## XmlWriter::WriteComment([String](../../../system/string/)) method
 
 
 When overridden in a derived class, writes out a comment **** containing the specified text.

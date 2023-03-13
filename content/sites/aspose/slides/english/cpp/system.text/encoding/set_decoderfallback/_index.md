@@ -1,12 +1,12 @@
 ---
-title: set_DecoderFallback
+title: set_DecoderFallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets decoder fallback.
 type: docs
 weight: 196
 url: /cpp/system.text/encoding/set_decoderfallback/
 ---
-## Encoding::set_DecoderFallback method
+## Encoding::set_DecoderFallback(const [DecoderFallbackPtr](../../../system/decoderfallbackptr/)\&) method
 
 
 Sets decoder fallback.

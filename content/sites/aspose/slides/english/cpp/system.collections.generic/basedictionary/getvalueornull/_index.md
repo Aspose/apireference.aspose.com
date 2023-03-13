@@ -1,12 +1,12 @@
 ---
-title: GetValueOrNull
+title: GetValueOrNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns value if found; or null otherwise. Make sense only for reference types.
 type: docs
 weight: 209
 url: /cpp/system.collections.generic/basedictionary/getvalueornull/
 ---
-## BaseDictionary::GetValueOrNull method
+## BaseDictionary::GetValueOrNull(const key_t\&) const method
 
 
 Returns value if found; or **null** otherwise. Make sense only for reference types.

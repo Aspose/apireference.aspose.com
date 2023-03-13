@@ -1,5 +1,5 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the GUID represented by the current object to its string representation.
 type: docs

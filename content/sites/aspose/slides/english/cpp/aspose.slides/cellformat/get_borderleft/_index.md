@@ -1,12 +1,12 @@
 ---
-title: get_BorderLeft
+title: get_BorderLeft()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a left border line properties object. Read-only ILineFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/cellformat/get_borderleft/
 ---
-## CellFormat::get_BorderLeft method
+## CellFormat::get_BorderLeft() method
 
 
 Returns a left border line properties object. Read-only [ILineFormat](../../ilineformat/).

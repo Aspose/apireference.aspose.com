@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns adjustment by index.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/iadjustvaluecollection/idx_get/
 ---
-## IAdjustValueCollection::idx_get method
+## IAdjustValueCollection::idx_get(**int32_t**) method
 
 
 Returns adjustment by index.

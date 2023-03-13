@@ -1,12 +1,12 @@
 ---
-title: get_RepeatUntilEndSlide
+title: get_RepeatUntilEndSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: This attribute specifies if the effect will repeat until the end of the slide. Read bool.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/timing/get_repeatuntilendslide/
 ---
-## Timing::get_RepeatUntilEndSlide method
+## Timing::get_RepeatUntilEndSlide() method
 
 
 This attribute specifies if the effect will repeat until the end of the slide. Read **bool**.

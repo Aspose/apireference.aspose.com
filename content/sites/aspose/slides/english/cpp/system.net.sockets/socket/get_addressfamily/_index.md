@@ -1,12 +1,12 @@
 ---
-title: get_AddressFamily
+title: get_AddressFamily()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the address family.
 type: docs
 weight: 118
 url: /cpp/system.net.sockets/socket/get_addressfamily/
 ---
-## Socket::get_AddressFamily method
+## Socket::get_AddressFamily() method
 
 
 Returns the address family.

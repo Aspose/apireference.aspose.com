@@ -1,12 +1,12 @@
 ---
-title: set_PrintController
+title: set_PrintController()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 40
 url: /cpp/system.drawing.printing/printdocument/set_printcontroller/
 ---
-## PrintDocument::set_PrintController method
+## PrintDocument::set_PrintController(const [SharedPtr](../../../system/sharedptr/)\<[PrintController](../../printcontroller/)\>\&) method
 
 
 NOT IMPLEMENTED.

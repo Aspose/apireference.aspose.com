@@ -1,12 +1,12 @@
 ---
-title: Set
+title: Set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of an entry.
 type: docs
 weight: 157
 url: /cpp/system.collections.specialized/namevaluecollection/set/
 ---
-## NameValueCollection::Set method
+## NameValueCollection::Set(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Sets the value of an entry.

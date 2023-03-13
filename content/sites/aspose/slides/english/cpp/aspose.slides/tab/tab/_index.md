@@ -1,15 +1,15 @@
 ---
-title: Tab
+title: Tab()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates new Tab.
+description: Creates new Tab
 type: docs
 weight: 53
 url: /cpp/aspose.slides/tab/tab/
 ---
-## Tab::Tab constructor
+## Tab::Tab(**double**, [TabAlignment](../../tabalignment/)) constructor
 
 
-Creates new [Tab](../).
+Creates new [Tab](../)
 
 ```cpp
 Aspose::Slides::Tab::Tab(double position, TabAlignment align)

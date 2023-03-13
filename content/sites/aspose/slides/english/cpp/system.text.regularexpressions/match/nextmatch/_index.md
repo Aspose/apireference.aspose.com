@@ -1,12 +1,12 @@
 ---
-title: NextMatch
+title: NextMatch()
 second_title: Aspose.Slides for C++ API Reference
 description: Iteration over matches.
 type: docs
 weight: 27
 url: /cpp/system.text.regularexpressions/match/nextmatch/
 ---
-## Match::NextMatch method
+## Match::NextMatch() method
 
 
 Iteration over matches.

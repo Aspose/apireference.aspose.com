@@ -1,12 +1,12 @@
 ---
-title: set_Authorization
+title: set_Authorization()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Authorization' header.
 type: docs
 weight: 66
 url: /cpp/system.net.http.headers/httprequestheaders/set_authorization/
 ---
-## HttpRequestHeaders::set_Authorization method
+## HttpRequestHeaders::set_Authorization([System::SharedPtr](../../../system/sharedptr/)\<[AuthenticationHeaderValue](../../authenticationheadervalue/)\>) method
 
 
 Sets a value of the 'Authorization' header.

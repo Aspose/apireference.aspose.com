@@ -1,12 +1,12 @@
 ---
-title: get_OuterXml
+title: get_OuterXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the markup containing this node and all its child nodes.
 type: docs
 weight: 261
 url: /cpp/system.xml/xmlnode/get_outerxml/
 ---
-## XmlNode::get_OuterXml method
+## XmlNode::get_OuterXml() method
 
 
 Returns the markup containing this node and all its child nodes.

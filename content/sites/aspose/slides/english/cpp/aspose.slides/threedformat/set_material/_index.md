@@ -1,12 +1,12 @@
 ---
-title: set_Material
+title: set_Material()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the type of a material. Write MaterialPresetType.
 type: docs
 weight: 170
 url: /cpp/aspose.slides/threedformat/set_material/
 ---
-## ThreeDFormat::set_Material method
+## ThreeDFormat::set_Material([MaterialPresetType](../../materialpresettype/)) method
 
 
 Sets the type of a material. Write [MaterialPresetType](../../materialpresettype/).

@@ -1,5 +1,5 @@
 ---
-title: ExplicitCast
+title: ExplicitCast()
 second_title: Aspose.Slides for C++ API Reference
 description: Casts the source type to the result type using explicit cast. Used when the source and the result types are the same.
 type: docs
@@ -35,7 +35,6 @@ The cast result.
 
 ## See Also
 
-* Enum [Base64FormattingOptions](../base64formattingoptions/)
 * Namespace [System](../)
 * Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function

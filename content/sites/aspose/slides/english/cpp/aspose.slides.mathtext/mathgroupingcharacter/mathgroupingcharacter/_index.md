@@ -1,5 +1,5 @@
 ---
-title: MathGroupingCharacter
+title: MathGroupingCharacter()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathGroupingCharacter class with the default grouping character U+23DF (BOTTOM CURLY BRACKET)
 type: docs

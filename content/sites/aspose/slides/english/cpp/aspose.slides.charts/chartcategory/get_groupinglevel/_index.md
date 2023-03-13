@@ -1,12 +1,12 @@
 ---
-title: get_GroupingLevel
+title: get_GroupingLevel()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a chart category grouping level at the specified index.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/chartcategory/get_groupinglevel/
 ---
-## ChartCategory::get_GroupingLevel method
+## ChartCategory::get_GroupingLevel(**int32_t**) method
 
 
 Returns a chart category grouping level at the specified index.

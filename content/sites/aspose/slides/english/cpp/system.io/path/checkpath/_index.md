@@ -1,12 +1,12 @@
 ---
-title: CheckPath
+title: CheckPath()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified path is valid by checking if it contains invalid characters. An exception is thrown if the path contains invalid characters.
 type: docs
 weight: 209
 url: /cpp/system.io/path/checkpath/
 ---
-## Path::CheckPath method
+## Path::CheckPath(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, **bool**) method
 
 
 Determines if the specified path is valid by checking if it contains invalid characters. An exception is thrown if the path contains invalid characters.

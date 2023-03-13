@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if container contains specific item.
 type: docs
 weight: 53
 url: /cpp/system.collections.objectmodel/readonlycollection/contains/
 ---
-## ReadOnlyCollection::Contains method
+## ReadOnlyCollection::Contains(const T\&) const method
 
 
 Checks if container contains specific item.

@@ -1,12 +1,12 @@
 ---
-title: JoinPortionsWithSameFormatting
+title: JoinPortionsWithSameFormatting()
 second_title: Aspose.Slides for C++ API Reference
 description: Joins runs with same formatting.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/iparagraph/joinportionswithsameformatting/
 ---
-## IParagraph::JoinPortionsWithSameFormatting method
+## IParagraph::JoinPortionsWithSameFormatting() method
 
 
 Joins runs with same formatting.

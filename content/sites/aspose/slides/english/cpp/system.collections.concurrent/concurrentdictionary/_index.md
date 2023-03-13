@@ -38,7 +38,6 @@ template<class TKey,class TValue>class ConcurrentDictionary : public System::Col
 | virtual **bool** [ContainsKey](../../system.collections.generic/idictionary/containskey/)(const TKey\&) const | Checks if container contains key. |
 | void [CopyTo](./copyto/)([ArrayPtr](../../system/arrayptr/)\<[System::Collections::Generic::KeyValuePair](../../system.collections.generic/keyvaluepair/)\<TKey, TValue\>\>, int) override | Copies container elements to existing array elements. |
 | void [CopyTo](../../system.collections.generic/idictionary/copyto/)([ArrayPtr](../../system/arrayptr/)\<[KeyValuePair](../../system.collections.generic/keyvaluepair/)\<TKey, TValue\>\>, int) override | Copies dictionary contents into existing array elements. |
-| virtual void [CopyTo](../../system.collections.generic/icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
 |  [Dictionary](../../system.collections.generic/dictionary/dictionary/)() | Creates empty dictionary. |
 |  [Dictionary](../../system.collections.generic/dictionary/dictionary/)(const [map_t](../../system.collections.generic/dictionary/map_t/)\&) | Copies data from map. |
 |  [Dictionary](../../system.collections.generic/dictionary/dictionary/)(int) | Overload which corresponds to creating pre-allocated dictionary; does no allocation, actually. |

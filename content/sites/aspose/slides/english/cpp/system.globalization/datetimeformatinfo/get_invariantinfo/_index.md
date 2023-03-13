@@ -1,12 +1,12 @@
 ---
-title: get_InvariantInfo
+title: get_InvariantInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets invariant date and time formatter.
 type: docs
 weight: 820
 url: /cpp/system.globalization/datetimeformatinfo/get_invariantinfo/
 ---
-## DateTimeFormatInfo::get_InvariantInfo method
+## DateTimeFormatInfo::get_InvariantInfo() method
 
 
 Gets invariant date and time formatter.

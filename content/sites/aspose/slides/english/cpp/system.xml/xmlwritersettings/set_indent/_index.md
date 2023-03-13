@@ -1,12 +1,12 @@
 ---
-title: set_Indent
+title: set_Indent()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether to indent elements.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmlwritersettings/set_indent/
 ---
-## XmlWriterSettings::set_Indent method
+## XmlWriterSettings::set_Indent(**bool**) method
 
 
 Sets a value indicating whether to indent elements.

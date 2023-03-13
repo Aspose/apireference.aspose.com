@@ -1,5 +1,5 @@
 ---
-title: Receive
+title: Receive()
 second_title: Aspose.Slides for C++ API Reference
 description: Receives data from the socket and writes it to the specified byte array.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_Shape
+title: get_Shape()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the shape at the specified index. Read-only Aspose::Slides::IShape"
 type: docs
 weight: 196
 url: /cpp/aspose.slides/ibaseslide/get_shape/
 ---
-## IBaseSlide::get_Shape method
+## IBaseSlide::get_Shape(**int32_t**) method
 
 
 Returns the shape at the specified index. Read-only [Aspose::Slides::IShape](../../ishape/)

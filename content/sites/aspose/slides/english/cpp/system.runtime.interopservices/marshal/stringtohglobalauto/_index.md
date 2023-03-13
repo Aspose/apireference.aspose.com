@@ -1,12 +1,12 @@
 ---
-title: StringToHGlobalAuto
+title: StringToHGlobalAuto()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies the contents of a specified string into unmanaged memory, converting to ANSI format if required.
 type: docs
 weight: 222
 url: /cpp/system.runtime.interopservices/marshal/stringtohglobalauto/
 ---
-## Marshal::StringToHGlobalAuto method
+## Marshal::StringToHGlobalAuto(const [String](../../../system/string/)\&) method
 
 
 Copies the contents of a specified string into unmanaged memory, converting to ANSI format if required.

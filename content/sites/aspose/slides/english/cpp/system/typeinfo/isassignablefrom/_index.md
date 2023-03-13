@@ -1,12 +1,12 @@
 ---
-title: IsAssignableFrom
+title: IsAssignableFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an instance of a specified type can be assigned to a variable of the current type.
 type: docs
 weight: 144
 url: /cpp/system/typeinfo/isassignablefrom/
 ---
-## TypeInfo::IsAssignableFrom method
+## TypeInfo::IsAssignableFrom(const [TypeInfo](../)\&) const method
 
 
 Determines whether an instance of a specified type can be assigned to a variable of the current type.

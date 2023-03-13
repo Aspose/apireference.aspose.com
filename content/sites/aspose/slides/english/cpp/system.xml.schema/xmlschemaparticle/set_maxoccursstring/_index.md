@@ -1,12 +1,12 @@
 ---
-title: set_MaxOccursString
+title: set_MaxOccursString()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the number as a string value. Maximum number of times the particle can occur.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaparticle/set_maxoccursstring/
 ---
-## XmlSchemaParticle::set_MaxOccursString method
+## XmlSchemaParticle::set_MaxOccursString(const [String](../../../system/string/)\&) method
 
 
 Sets the number as a string value. Maximum number of times the particle can occur.

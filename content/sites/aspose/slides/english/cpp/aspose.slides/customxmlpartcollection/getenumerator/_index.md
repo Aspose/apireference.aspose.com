@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an enumerator that iterates through the collection.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/customxmlpartcollection/getenumerator/
 ---
-## CustomXmlPartCollection::GetEnumerator method
+## CustomXmlPartCollection::GetEnumerator() method
 
 
 Returns an enumerator that iterates through the collection.

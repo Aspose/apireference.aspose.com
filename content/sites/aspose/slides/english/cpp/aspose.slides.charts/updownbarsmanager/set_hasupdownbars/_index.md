@@ -1,12 +1,12 @@
 ---
-title: set_HasUpDownBars
+title: set_HasUpDownBars()
 second_title: Aspose.Slides for C++ API Reference
 description: HasUpDownBars. Write bool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/updownbarsmanager/set_hasupdownbars/
 ---
-## UpDownBarsManager::set_HasUpDownBars method
+## UpDownBarsManager::set_HasUpDownBars(**bool**) method
 
 
 HasUpDownBars. Write **bool**.

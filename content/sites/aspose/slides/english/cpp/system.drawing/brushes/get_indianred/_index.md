@@ -1,12 +1,12 @@
 ---
-title: get_IndianRed
+title: get_IndianRed()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFCD5C5C.
 type: docs
 weight: 716
 url: /cpp/system.drawing/brushes/get_indianred/
 ---
-## Brushes::get_IndianRed method
+## Brushes::get_IndianRed() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFCD5C5C.

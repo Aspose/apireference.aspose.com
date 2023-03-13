@@ -1,12 +1,12 @@
 ---
-title: set_IsPlotOrderReversed
+title: set_IsPlotOrderReversed()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents if MS PowerPoint plots data points from last to first. Write bool.
 type: docs
 weight: 430
 url: /cpp/aspose.slides.charts/iaxis/set_isplotorderreversed/
 ---
-## IAxis::set_IsPlotOrderReversed method
+## IAxis::set_IsPlotOrderReversed(**bool**) method
 
 
 Represents if MS PowerPoint plots data points from last to first. Write **bool**.

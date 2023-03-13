@@ -1,12 +1,12 @@
 ---
-title: CreateSignature
+title: CreateSignature()
 second_title: Aspose.Slides for C++ API Reference
 description: Create DSA signature for the specified data.
 type: docs
 weight: 105
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/createsignature/
 ---
-## DSACryptoServiceProvider::CreateSignature method
+## DSACryptoServiceProvider::CreateSignature([ByteArrayPtr](../../../system/bytearrayptr/)) method
 
 
 Create [DSA](../../dsa/) signature for the specified data.

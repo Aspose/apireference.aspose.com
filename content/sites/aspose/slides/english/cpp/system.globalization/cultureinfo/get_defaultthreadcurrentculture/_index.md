@@ -1,12 +1,12 @@
 ---
-title: get_DefaultThreadCurrentCulture
+title: get_DefaultThreadCurrentCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets default culture in the current application domain.
 type: docs
 weight: 456
 url: /cpp/system.globalization/cultureinfo/get_defaultthreadcurrentculture/
 ---
-## CultureInfo::get_DefaultThreadCurrentCulture method
+## CultureInfo::get_DefaultThreadCurrentCulture() method
 
 
 Gets default culture in the current application domain.

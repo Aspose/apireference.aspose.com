@@ -1,12 +1,12 @@
 ---
-title: get_HijriAdjustment
+title: get_HijriAdjustment()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets hijri adjustment.
 type: docs
 weight: 14
 url: /cpp/system.globalization/hijricalendar/get_hijriadjustment/
 ---
-## HijriCalendar::get_HijriAdjustment method
+## HijriCalendar::get_HijriAdjustment() const method
 
 
 Gets hijri adjustment.

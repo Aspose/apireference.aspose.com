@@ -1,12 +1,12 @@
 ---
-title: get_TextRenderingHint
+title: get_TextRenderingHint()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates the quality of text rendering.
 type: docs
 weight: 170
 url: /cpp/system.drawing/graphics/get_textrenderinghint/
 ---
-## Graphics::get_TextRenderingHint method
+## Graphics::get_TextRenderingHint() method
 
 
 Returns a value that indicates the quality of text rendering.

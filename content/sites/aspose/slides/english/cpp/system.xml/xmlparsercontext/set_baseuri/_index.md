@@ -1,12 +1,12 @@
 ---
-title: set_BaseURI
+title: set_BaseURI()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the base URI.
 type: docs
 weight: 144
 url: /cpp/system.xml/xmlparsercontext/set_baseuri/
 ---
-## XmlParserContext::set_BaseURI method
+## XmlParserContext::set_BaseURI(const [String](../../../system/string/)\&) method
 
 
 Sets the base URI.

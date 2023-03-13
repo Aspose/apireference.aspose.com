@@ -1,12 +1,12 @@
 ---
-title: get_OSSupportsIPv4
+title: get_OSSupportsIPv4()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the operating system and network adaptors support IPv4.
 type: docs
 weight: 14
 url: /cpp/system.net.sockets/socket/get_ossupportsipv4/
 ---
-## Socket::get_OSSupportsIPv4 method
+## Socket::get_OSSupportsIPv4() method
 
 
 Returns a value that indicates if the operating system and network adaptors support IPv4.

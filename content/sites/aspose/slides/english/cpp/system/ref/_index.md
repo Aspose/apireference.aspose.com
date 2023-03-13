@@ -1,5 +1,5 @@
 ---
-title: Ref
+title: Ref()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates reference to DynamicWeakPtr object. Used by translator when passing function arguments by reference.
 type: docs

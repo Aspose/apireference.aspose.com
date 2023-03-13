@@ -1,12 +1,12 @@
 ---
-title: set_CenterPoint
+title: set_CenterPoint()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the center point of the gradient.
 type: docs
 weight: 79
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_centerpoint/
 ---
-## PathGradientBrush::set_CenterPoint method
+## PathGradientBrush::set_CenterPoint(const [PointF](../../../system.drawing/pointf/)\&) method
 
 
 Sets the center point of the gradient.

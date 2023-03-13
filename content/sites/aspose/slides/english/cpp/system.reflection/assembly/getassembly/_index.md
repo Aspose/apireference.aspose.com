@@ -1,12 +1,12 @@
 ---
-title: GetAssembly
+title: GetAssembly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets assembly defining specific type.
 type: docs
 weight: 144
 url: /cpp/system.reflection/assembly/getassembly/
 ---
-## Assembly::GetAssembly method
+## Assembly::GetAssembly(const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Gets assembly defining specific type.

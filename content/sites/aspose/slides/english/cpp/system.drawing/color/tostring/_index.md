@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the current object.
 type: docs
 weight: 131
 url: /cpp/system.drawing/color/tostring/
 ---
-## Color::ToString method
+## Color::ToString() const method
 
 
 Returns the string representation of the current object.

@@ -1,12 +1,12 @@
 ---
-title: RemoveAllAttributes
+title: RemoveAllAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all specified attributes from the element. Default attributes are not removed.
 type: docs
 weight: 352
 url: /cpp/system.xml/xmlelement/removeallattributes/
 ---
-## XmlElement::RemoveAllAttributes method
+## XmlElement::RemoveAllAttributes() method
 
 
 Removes all specified attributes from the element. Default attributes are not removed.

@@ -1,12 +1,12 @@
 ---
-title: TryComputeLength
+title: TryComputeLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to calculate the byte array length.
 type: docs
 weight: 14
 url: /cpp/system.net.http/bytearraycontent/trycomputelength/
 ---
-## ByteArrayContent::TryComputeLength method
+## ByteArrayContent::TryComputeLength(**int64_t**\&) method
 
 
 Tries to calculate the byte array length.

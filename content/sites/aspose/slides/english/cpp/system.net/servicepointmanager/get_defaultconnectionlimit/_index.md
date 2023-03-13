@@ -1,12 +1,12 @@
 ---
-title: get_DefaultConnectionLimit
+title: get_DefaultConnectionLimit()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the maximum number of concurrent connections that are allowed by the ServicePoint-class instances.
 type: docs
 weight: 53
 url: /cpp/system.net/servicepointmanager/get_defaultconnectionlimit/
 ---
-## ServicePointManager::get_DefaultConnectionLimit method
+## ServicePointManager::get_DefaultConnectionLimit() method
 
 
 Gets the maximum number of concurrent connections that are allowed by the ServicePoint-class instances.

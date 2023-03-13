@@ -1,12 +1,12 @@
 ---
-title: get_CalendarWeekRule
+title: get_CalendarWeekRule()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets calendar week rule associated with formatter.
 type: docs
 weight: 365
 url: /cpp/system.globalization/datetimeformatinfo/get_calendarweekrule/
 ---
-## DateTimeFormatInfo::get_CalendarWeekRule method
+## DateTimeFormatInfo::get_CalendarWeekRule() const method
 
 
 Gets calendar week rule associated with formatter.

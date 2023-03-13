@@ -1,12 +1,12 @@
 ---
-title: get_AbbreviatedMonthGenitiveNames
+title: get_AbbreviatedMonthGenitiveNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets abbreviated month names in genitive form.
 type: docs
 weight: 287
 url: /cpp/system.globalization/datetimeformatinfo/get_abbreviatedmonthgenitivenames/
 ---
-## DateTimeFormatInfo::get_AbbreviatedMonthGenitiveNames method
+## DateTimeFormatInfo::get_AbbreviatedMonthGenitiveNames() const method
 
 
 Gets abbreviated month names in genitive form.

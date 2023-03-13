@@ -1,5 +1,5 @@
 ---
-title: get_DataPoint
+title: get_DataPoint()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns data point of this series at the specified index.
 type: docs

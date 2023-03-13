@@ -1,12 +1,12 @@
 ---
-title: SetFooterText
+title: SetFooterText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets text to slide footer placeholder.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/baseslideheaderfootermanager/setfootertext/
 ---
-## BaseSlideHeaderFooterManager::SetFooterText method
+## BaseSlideHeaderFooterManager::SetFooterText([System::String](../../../system/string/)) method
 
 
 Sets text to slide footer placeholder.

@@ -1,12 +1,12 @@
 ---
-title: Ceiling
+title: Ceiling()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a Rectangle object from the specified RectangleF object by rounding the RectangleF object's location and size values to the next higher integer values.
 type: docs
 weight: 391
 url: /cpp/system.drawing/rectangle/ceiling/
 ---
-## Rectangle::Ceiling method
+## Rectangle::Ceiling(const [RectangleF](../../rectanglef/)\&) method
 
 
 Constructs a [Rectangle](../) object from the specified [RectangleF](../../rectanglef/) object by rounding the [RectangleF](../../rectanglef/) object's location and size values to the next higher integer values.

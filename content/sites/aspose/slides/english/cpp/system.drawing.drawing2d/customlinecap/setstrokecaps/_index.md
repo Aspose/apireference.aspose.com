@@ -1,12 +1,12 @@
 ---
-title: SetStrokeCaps
+title: SetStrokeCaps()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the start and end line caps of the custom cap represented by the current object.
 type: docs
 weight: 14
 url: /cpp/system.drawing.drawing2d/customlinecap/setstrokecaps/
 ---
-## CustomLineCap::SetStrokeCaps method
+## CustomLineCap::SetStrokeCaps([LineCap](../../linecap/), [LineCap](../../linecap/)) method
 
 
 Sets the start and end line caps of the custom cap represented by the current object.

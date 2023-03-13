@@ -1,12 +1,12 @@
 ---
-title: set_SubstitutionGroup
+title: set_SubstitutionGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of an element that is being substituted by this element.
 type: docs
 weight: 248
 url: /cpp/system.xml.schema/xmlschemaelement/set_substitutiongroup/
 ---
-## XmlSchemaElement::set_SubstitutionGroup method
+## XmlSchemaElement::set_SubstitutionGroup(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
 
 
 Sets the name of an element that is being substituted by this element.

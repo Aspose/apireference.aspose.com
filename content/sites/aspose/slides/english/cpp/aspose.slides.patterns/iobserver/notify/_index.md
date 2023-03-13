@@ -1,12 +1,12 @@
 ---
-title: Notify
+title: Notify()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/aspose.slides.patterns/iobserver/notify/
 ---
-## IObserver::Notify method
+## IObserver::Notify([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 

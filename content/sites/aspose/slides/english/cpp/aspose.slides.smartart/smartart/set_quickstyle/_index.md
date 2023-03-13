@@ -1,12 +1,12 @@
 ---
-title: set_QuickStyle
+title: set_QuickStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets quick style of SmartArt object. Write SmartArtQuickStyleType.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.smartart/smartart/set_quickstyle/
 ---
-## SmartArt::set_QuickStyle method
+## SmartArt::set_QuickStyle([SmartArtQuickStyleType](../../smartartquickstyletype/)) method
 
 
 Sets quick style of [SmartArt](../) object. Write [SmartArtQuickStyleType](../../smartartquickstyletype/).

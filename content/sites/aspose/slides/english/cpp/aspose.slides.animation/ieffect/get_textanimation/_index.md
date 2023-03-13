@@ -1,12 +1,12 @@
 ---
-title: get_TextAnimation
+title: get_TextAnimation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns text animation. Read-only ITextAnimation.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/ieffect/get_textanimation/
 ---
-## IEffect::get_TextAnimation method
+## IEffect::get_TextAnimation() method
 
 
 Returns text animation. Read-only [ITextAnimation](../../itextanimation/).

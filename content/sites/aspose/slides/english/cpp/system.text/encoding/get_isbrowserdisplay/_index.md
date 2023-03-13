@@ -1,12 +1,12 @@
 ---
-title: get_IsBrowserDisplay
+title: get_IsBrowserDisplay()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether encoding can be used in browser to display content.
 type: docs
 weight: 118
 url: /cpp/system.text/encoding/get_isbrowserdisplay/
 ---
-## Encoding::get_IsBrowserDisplay method
+## Encoding::get_IsBrowserDisplay() method
 
 
 Checks whether encoding can be used in browser to display content.

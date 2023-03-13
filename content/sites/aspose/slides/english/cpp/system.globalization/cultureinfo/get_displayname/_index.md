@@ -1,12 +1,12 @@
 ---
-title: get_DisplayName
+title: get_DisplayName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets culture display name.
 type: docs
 weight: 53
 url: /cpp/system.globalization/cultureinfo/get_displayname/
 ---
-## CultureInfo::get_DisplayName method
+## CultureInfo::get_DisplayName() const method
 
 
 Gets culture display name.

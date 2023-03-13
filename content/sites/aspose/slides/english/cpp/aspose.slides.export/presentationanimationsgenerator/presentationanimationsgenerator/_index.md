@@ -1,5 +1,5 @@
 ---
-title: PresentationAnimationsGenerator
+title: PresentationAnimationsGenerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new instance of the PresentationAnimationsGenerator.
 type: docs

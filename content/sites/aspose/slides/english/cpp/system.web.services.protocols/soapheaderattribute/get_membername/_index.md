@@ -1,12 +1,12 @@
 ---
-title: get_MemberName
+title: get_MemberName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a member variable name of the XML SOAP service that is used to receive the SOAP header contents.
 type: docs
 weight: 27
 url: /cpp/system.web.services.protocols/soapheaderattribute/get_membername/
 ---
-## SoapHeaderAttribute::get_MemberName method
+## SoapHeaderAttribute::get_MemberName() method
 
 
 Gets a member variable name of the XML SOAP service that is used to receive the SOAP header contents.

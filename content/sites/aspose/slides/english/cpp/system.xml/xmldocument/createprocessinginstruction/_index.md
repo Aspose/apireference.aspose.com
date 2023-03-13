@@ -1,12 +1,12 @@
 ---
-title: CreateProcessingInstruction
+title: CreateProcessingInstruction()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlProcessingInstruction with the specified name and data.
 type: docs
 weight: 365
 url: /cpp/system.xml/xmldocument/createprocessinginstruction/
 ---
-## XmlDocument::CreateProcessingInstruction method
+## XmlDocument::CreateProcessingInstruction(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Creates an [XmlProcessingInstruction](../../xmlprocessinginstruction/) with the specified name and data.

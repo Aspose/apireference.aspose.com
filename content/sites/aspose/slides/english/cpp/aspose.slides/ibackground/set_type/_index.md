@@ -1,12 +1,12 @@
 ---
-title: set_Type
+title: set_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a type of background fill. Write BackgroundType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ibackground/set_type/
 ---
-## IBackground::set_Type method
+## IBackground::set_Type([BackgroundType](../../backgroundtype/)) method
 
 
 Returns a type of background fill. Write [BackgroundType](../../backgroundtype/).

@@ -1,12 +1,12 @@
 ---
-title: get_MaxAge
+title: get_MaxAge()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the maximum age value in seconds that determines a time during which the client will accept a response.
 type: docs
 weight: 66
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_maxage/
 ---
-## CacheControlHeaderValue::get_MaxAge method
+## CacheControlHeaderValue::get_MaxAge() method
 
 
 Gets the maximum age value in seconds that determines a time during which the client will accept a response.

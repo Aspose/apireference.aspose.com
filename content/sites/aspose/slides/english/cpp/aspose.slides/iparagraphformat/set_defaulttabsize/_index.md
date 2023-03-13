@@ -1,12 +1,12 @@
 ---
-title: set_DefaultTabSize
+title: set_DefaultTabSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets default tabulation size with no inheritance. Write float.
 type: docs
 weight: 339
 url: /cpp/aspose.slides/iparagraphformat/set_defaulttabsize/
 ---
-## IParagraphFormat::set_DefaultTabSize method
+## IParagraphFormat::set_DefaultTabSize(**float**) method
 
 
 Sets default tabulation size with no inheritance. Write **float**.

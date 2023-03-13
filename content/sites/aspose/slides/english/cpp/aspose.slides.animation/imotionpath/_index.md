@@ -19,7 +19,7 @@ class IMotionPath : public System::Collections::Generic::IEnumerable<System::Sha
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMotionCmdPath](../imotioncmdpath/)\> [Add](./add/)([MotionCommandPathType](../motioncommandpathtype/), [System::ArrayPtr](../../system/arrayptr/)\<[System::Drawing::PointF](../../system.drawing/pointf/)\>, [MotionPathPointsType](../motionpathpointstype/), **bool**) | Add new command to path. |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMotionCmdPath](../imotioncmdpath/)\> [Add](./add/)([MotionCommandPathType](../motioncommandpathtype/), [System::ArrayPtr](../../system/arrayptr/)\<[System::Drawing::PointF](../../system.drawing/pointf/)\>, [MotionPathPointsType](../motionpathpointstype/), **bool**) | Add new command to path |
 | [iterator](../../system.collections.generic/ienumerable/iterator/) [begin](../../system.collections.generic/ienumerable/begin/)() | Gets iterator pointing to the first element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../../system.collections.generic/ienumerable/getenumerator/) returns a copy-object of T. |
 | [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [begin](../../system.collections.generic/ienumerable/begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [cbegin](../../system.collections.generic/ienumerable/cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
@@ -39,7 +39,7 @@ class IMotionPath : public System::Collections::Generic::IEnumerable<System::Sha
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IMotionCmdPath](../imotioncmdpath/)\> [idx_get](./idx_get/)(**int32_t**) | Returns a command at the specified index. |
-| virtual void [Insert](./insert/)(**int32_t**, [MotionCommandPathType](../motioncommandpathtype/), [System::ArrayPtr](../../system/arrayptr/)\<[System::Drawing::PointF](../../system.drawing/pointf/)\>, [MotionPathPointsType](../motionpathpointstype/), **bool**) | Insert new command to path. |
+| virtual void [Insert](./insert/)(**int32_t**, [MotionCommandPathType](../motioncommandpathtype/), [System::ArrayPtr](../../system/arrayptr/)\<[System::Drawing::PointF](../../system.drawing/pointf/)\>, [MotionPathPointsType](../motionpathpointstype/), **bool**) | Insert new command to path |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
 | **bool** [LINQ_All](../../system.collections.generic/ienumerable/linq_all/)(std::function\<**bool**(T)>) | Determines whether all elements of a sequence satisfy a condition. |
 | **bool** [LINQ_Any](../../system.collections.generic/ienumerable/linq_any/)() | Determines whether a sequence contains any elements. |

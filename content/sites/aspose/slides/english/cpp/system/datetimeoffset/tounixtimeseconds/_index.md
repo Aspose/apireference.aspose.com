@@ -1,12 +1,12 @@
 ---
-title: ToUnixTimeSeconds
+title: ToUnixTimeSeconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets seconds elapsed from Unix epoch start.
 type: docs
 weight: 482
 url: /cpp/system/datetimeoffset/tounixtimeseconds/
 ---
-## DateTimeOffset::ToUnixTimeSeconds method
+## DateTimeOffset::ToUnixTimeSeconds() const method
 
 
 Gets seconds elapsed from Unix epoch start.

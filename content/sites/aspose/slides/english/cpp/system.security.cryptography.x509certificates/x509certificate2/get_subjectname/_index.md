@@ -1,12 +1,12 @@
 ---
-title: get_SubjectName
+title: get_SubjectName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the subject name from a certificate.
 type: docs
 weight: 118
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_subjectname/
 ---
-## X509Certificate2::get_SubjectName method
+## X509Certificate2::get_SubjectName() const method
 
 
 Gets the subject name from a certificate.

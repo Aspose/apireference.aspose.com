@@ -1,12 +1,12 @@
 ---
-title: GetRandomFileName
+title: GetRandomFileName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a randomly generated file name.
 type: docs
 weight: 131
 url: /cpp/system.io/path/getrandomfilename/
 ---
-## Path::GetRandomFileName method
+## Path::GetRandomFileName() method
 
 
 Returns a randomly generated file name.

@@ -1,15 +1,15 @@
 ---
-title: Enclose
+title: Enclose()
 second_title: Aspose.Slides for C++ API Reference
-description: Encloses a math element in specified characters such as parenthesis or another characters as framing.
+description: Encloses a math element in specified characters such as parenthesis or another characters as framing
 type: docs
 weight: 170
 url: /cpp/aspose.slides.mathtext/mathdelimiter/enclose/
 ---
-## MathDelimiter::Enclose method
+## MathDelimiter::Enclose(char16_t, char16_t) method
 
 
-Encloses a math element in specified characters such as parenthesis or another characters as framing.
+Encloses a math element in specified characters such as parenthesis or another characters as framing
 
 ```cpp
 System::SharedPtr<IMathDelimiter> Aspose::Slides::MathText::MathDelimiter::Enclose(char16_t beginningCharacter, char16_t endingCharacter) override

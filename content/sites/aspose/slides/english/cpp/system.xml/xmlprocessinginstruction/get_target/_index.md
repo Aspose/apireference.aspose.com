@@ -1,12 +1,12 @@
 ---
-title: get_Target
+title: get_Target()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the target of the processing instruction.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlprocessinginstruction/get_target/
 ---
-## XmlProcessingInstruction::get_Target method
+## XmlProcessingInstruction::get_Target() method
 
 
 Returns the target of the processing instruction.

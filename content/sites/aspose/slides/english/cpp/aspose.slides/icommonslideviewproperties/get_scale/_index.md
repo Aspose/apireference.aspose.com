@@ -1,12 +1,12 @@
 ---
-title: get_Scale
+title: get_Scale()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the view scaling ratio in percentages. Read int32_t.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/icommonslideviewproperties/get_scale/
 ---
-## ICommonSlideViewProperties::get_Scale method
+## ICommonSlideViewProperties::get_Scale() method
 
 
 Specifies the view scaling ratio in percentages. Read **int32_t**.

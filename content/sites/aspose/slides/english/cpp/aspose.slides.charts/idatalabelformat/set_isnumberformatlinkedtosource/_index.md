@@ -1,12 +1,12 @@
 ---
-title: set_IsNumberFormatLinkedToSource
+title: set_IsNumberFormatLinkedToSource()
 second_title: Aspose.Slides for C++ API Reference
 description: Write bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/idatalabelformat/set_isnumberformatlinkedtosource/
 ---
-## IDataLabelFormat::set_IsNumberFormatLinkedToSource method
+## IDataLabelFormat::set_IsNumberFormatLinkedToSource(**bool**) method
 
 
 Write **bool**.

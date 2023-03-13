@@ -1,12 +1,12 @@
 ---
-title: IsClientFaultCode
+title: IsClientFaultCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the specified code is equal to the 'Client' SOAP fault code.
 type: docs
 weight: 105
 url: /cpp/system.web.services.protocols/details_soapexception/isclientfaultcode/
 ---
-## Details_SoapException::IsClientFaultCode method
+## Details_SoapException::IsClientFaultCode([System::SharedPtr](../../../system/sharedptr/)\<[Xml::XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>) method
 
 
 Checks if the specified code is equal to the 'Client' SOAP fault code.

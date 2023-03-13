@@ -1,12 +1,12 @@
 ---
-title: get_OSSupportsIPv6
+title: get_OSSupportsIPv6()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the operating system and network adaptors support IPv6.
 type: docs
 weight: 27
 url: /cpp/system.net.sockets/socket/get_ossupportsipv6/
 ---
-## Socket::get_OSSupportsIPv6 method
+## Socket::get_OSSupportsIPv6() method
 
 
 Returns a value that indicates if the operating system and network adaptors support IPv6.

@@ -1,12 +1,12 @@
 ---
-title: get_IsLocationAutocalculated
+title: get_IsLocationAutocalculated()
 second_title: Aspose.Slides for C++ API Reference
 description: "Defines how location should be calculated: true \\u2013 calculated automatically; defined by the X, Y, Width, Height properties. Read-only bool."
 type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/chartplotarea/get_islocationautocalculated/
 ---
-## ChartPlotArea::get_IsLocationAutocalculated method
+## ChartPlotArea::get_IsLocationAutocalculated() method
 
 
 Defines how location should be calculated: true \\u2013 calculated automatically; defined by the X, Y, Width, Height properties. Read-only **bool**.

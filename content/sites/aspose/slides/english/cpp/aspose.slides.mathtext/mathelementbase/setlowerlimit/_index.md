@@ -1,7 +1,7 @@
 ---
-title: SetLowerLimit
+title: SetLowerLimit()
 second_title: Aspose.Slides for C++ API Reference
-description: Takes lower limit.
+description: Takes lower limit
 type: docs
 weight: 144
 url: /cpp/aspose.slides.mathtext/mathelementbase/setlowerlimit/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathelementbase/setlowerlimit/
 ## MathElementBase::SetLowerLimit([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Takes lower limit.
+Takes lower limit
 
 ```cpp
 System::SharedPtr<IMathLimit> Aspose::Slides::MathText::MathElementBase::SetLowerLimit(System::SharedPtr<IMathElement> limit) override
@@ -47,7 +47,7 @@ auto limitElement = baseElement->SetLowerLimit(limitValue);
 ## MathElementBase::SetLowerLimit([System::String](../../../system/string/)) method
 
 
-Takes lower limit.
+Takes lower limit
 
 ```cpp
 System::SharedPtr<IMathLimit> Aspose::Slides::MathText::MathElementBase::SetLowerLimit(System::String limit) override

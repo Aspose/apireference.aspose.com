@@ -1,12 +1,12 @@
 ---
-title: AssignRV
+title: AssignRV()
 second_title: Aspose.Slides for C++ API Reference
 description: Used in move constructor and move assignment operator to reset pointers and call swap().
 type: docs
 weight: 40
 url: /cpp/system.io/basicsystemiostreambuf/assignrv/
 ---
-## BasicSystemIOStreamBuf::AssignRV method
+## BasicSystemIOStreamBuf::AssignRV([BasicSystemIOStreamBuf](../)\&&) method
 
 
 Used in move constructor and move assignment operator to reset pointers and call [swap()](../swap/).

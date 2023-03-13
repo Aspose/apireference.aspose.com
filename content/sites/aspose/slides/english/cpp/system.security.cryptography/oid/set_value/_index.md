@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets object identifier string.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/oid/set_value/
 ---
-## Oid::set_Value method
+## Oid::set_Value(const [String](../../../system/string/)\&) method
 
 
 Sets object identifier string.

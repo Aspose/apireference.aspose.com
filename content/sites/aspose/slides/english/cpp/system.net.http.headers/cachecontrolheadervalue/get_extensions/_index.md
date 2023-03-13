@@ -1,12 +1,12 @@
 ---
-title: get_Extensions
+title: get_Extensions()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of the cache-extension tokens.
 type: docs
 weight: 365
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_extensions/
 ---
-## CacheControlHeaderValue::get_Extensions method
+## CacheControlHeaderValue::get_Extensions() method
 
 
 Returns the collection of the cache-extension tokens.

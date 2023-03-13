@@ -1,12 +1,12 @@
 ---
-title: CreatePortionFormat
+title: CreatePortionFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new IPortionFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/formatfactory/createportionformat/
 ---
-## FormatFactory::CreatePortionFormat method
+## FormatFactory::CreatePortionFormat() method
 
 
 Creates new [IPortionFormat](../../iportionformat/).

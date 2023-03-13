@@ -1,12 +1,12 @@
 ---
-title: set_BlockSize
+title: set_BlockSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets block size of cryptographic operation.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_blocksize/
 ---
-## SymmetricAlgorithm::set_BlockSize method
+## SymmetricAlgorithm::set_BlockSize(int) method
 
 
 Sets block size of cryptographic operation.

@@ -1,12 +1,12 @@
 ---
-title: Round
+title: Round()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a Point object from the specified PointF object by rounding the PointF object's X and Y coordinates values to the nearest integer values.
 type: docs
 weight: 235
 url: /cpp/system.drawing/point/round/
 ---
-## Point::Round method
+## Point::Round(const [PointF](../../pointf/)\&) method
 
 
 Constructs a [Point](../) object from the specified [PointF](../../pointf/) object by rounding the [PointF](../../pointf/) object's X and Y coordinates values to the nearest integer values.

@@ -1,12 +1,12 @@
 ---
-title: RemoveUnusedMasterSlides
+title: RemoveUnusedMasterSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Makes compression of the Presentation by removing unused master slides.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.lowcode/compress/removeunusedmasterslides/
 ---
-## Compress::RemoveUnusedMasterSlides method
+## Compress::RemoveUnusedMasterSlides([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>) method
 
 
 Makes compression of the [Presentation](../../../aspose.slides/presentation/) by removing unused master slides.

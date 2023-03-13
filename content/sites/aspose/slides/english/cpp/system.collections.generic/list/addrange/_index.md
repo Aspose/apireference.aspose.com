@@ -1,12 +1,12 @@
 ---
-title: AddRange
+title: AddRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds all elements from collection (or itself) to the end of current list.
 type: docs
 weight: 313
 url: /cpp/system.collections.generic/list/addrange/
 ---
-## List::AddRange method
+## List::AddRange([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Adds all elements from collection (or itself) to the end of current list.

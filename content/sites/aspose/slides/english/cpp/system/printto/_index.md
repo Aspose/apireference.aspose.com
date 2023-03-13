@@ -1,5 +1,5 @@
 ---
-title: PrintTo
+title: PrintTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Prints value to ostream. Mostly used for debug.
 type: docs

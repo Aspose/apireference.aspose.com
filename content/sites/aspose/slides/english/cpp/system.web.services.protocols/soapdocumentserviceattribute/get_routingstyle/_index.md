@@ -1,12 +1,12 @@
 ---
-title: get_RoutingStyle
+title: get_RoutingStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that shows how the SOAP messages are routed to the service.
 type: docs
 weight: 27
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/get_routingstyle/
 ---
-## SoapDocumentServiceAttribute::get_RoutingStyle method
+## SoapDocumentServiceAttribute::get_RoutingStyle() method
 
 
 Gets a value that shows how the SOAP messages are routed to the service.

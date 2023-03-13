@@ -1,12 +1,12 @@
 ---
-title: get_Secure
+title: get_Secure()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1028
 url: /cpp/system.windows.forms/systeminformation/get_secure/
 ---
-## SystemInformation::get_Secure method
+## SystemInformation::get_Secure() method
 
 
 NOT IMPLEMENTED.

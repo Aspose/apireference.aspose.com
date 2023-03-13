@@ -1,12 +1,12 @@
 ---
-title: get_Encoding
+title: get_Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the encoding attribute for the document.
 type: docs
 weight: 417
 url: /cpp/system.xml/xmlvalidatingreader/get_encoding/
 ---
-## XmlValidatingReader::get_Encoding method
+## XmlValidatingReader::get_Encoding() method
 
 
 Returns the encoding attribute for the document.

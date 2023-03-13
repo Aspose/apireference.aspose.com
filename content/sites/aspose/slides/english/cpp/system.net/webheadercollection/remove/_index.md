@@ -1,5 +1,5 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the header by the specified header name.
 type: docs

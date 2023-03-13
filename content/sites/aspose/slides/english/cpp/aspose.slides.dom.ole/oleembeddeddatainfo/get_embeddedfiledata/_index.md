@@ -1,12 +1,12 @@
 ---
-title: get_EmbeddedFileData
+title: get_EmbeddedFileData()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the file data of an embedded OLE object Read only uint8_t[].
 type: docs
 weight: 1
 url: /cpp/aspose.slides.dom.ole/oleembeddeddatainfo/get_embeddedfiledata/
 ---
-## OleEmbeddedDataInfo::get_EmbeddedFileData method
+## OleEmbeddedDataInfo::get_EmbeddedFileData() method
 
 
 Returns the file data of an embedded OLE object Read only **uint8_t**[].

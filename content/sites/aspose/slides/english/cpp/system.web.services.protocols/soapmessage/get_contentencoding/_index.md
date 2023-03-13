@@ -1,12 +1,12 @@
 ---
-title: get_ContentEncoding
+title: get_ContentEncoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-Encoding' header.
 type: docs
 weight: 157
 url: /cpp/system.web.services.protocols/soapmessage/get_contentencoding/
 ---
-## SoapMessage::get_ContentEncoding method
+## SoapMessage::get_ContentEncoding() method
 
 
 Gets a value of the 'Content-Encoding' header.

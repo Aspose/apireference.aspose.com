@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a cell by it's position. Read-only Cell.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/cellcollection/idx_get/
 ---
-## CellCollection::idx_get method
+## CellCollection::idx_get(**int32_t**) method
 
 
 Returns a cell by it's position. Read-only [Cell](../../cell/).

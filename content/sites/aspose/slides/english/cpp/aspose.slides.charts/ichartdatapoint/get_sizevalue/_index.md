@@ -1,12 +1,12 @@
 ---
-title: get_SizeValue
+title: get_SizeValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the size value of chart data point. Used with Treemap and Sunburst charts. Read-only IDoubleChartValue.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/ichartdatapoint/get_sizevalue/
 ---
-## IChartDataPoint::get_SizeValue method
+## IChartDataPoint::get_SizeValue() method
 
 
 Returns the size value of chart data point. Used with Treemap and Sunburst charts. Read-only [IDoubleChartValue](../../idoublechartvalue/).

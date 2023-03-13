@@ -1,12 +1,12 @@
 ---
-title: FindLast
+title: FindLast()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs reverse direction find of an element in the list.
 type: docs
 weight: 170
 url: /cpp/system.collections.generic/linkedlist/findlast/
 ---
-## LinkedList::FindLast method
+## LinkedList::FindLast(const T\&) const method
 
 
 Performs reverse direction find of an **element** in the list.

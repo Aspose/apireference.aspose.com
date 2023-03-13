@@ -1,12 +1,12 @@
 ---
-title: get_Expires
+title: get_Expires()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the 'Expires' attribute's value.
 type: docs
 weight: 183
 url: /cpp/system.net/cookie/get_expires/
 ---
-## Cookie::get_Expires method
+## Cookie::get_Expires() method
 
 
 Gets the 'Expires' attribute's value.

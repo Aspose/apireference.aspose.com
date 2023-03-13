@@ -1,12 +1,12 @@
 ---
-title: get_LinearColors
+title: get_LinearColors()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns starting and ending colors of this gradient.
 type: docs
 weight: 235
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/get_linearcolors/
 ---
-## LinearGradientBrush::get_LinearColors method
+## LinearGradientBrush::get_LinearColors() const method
 
 
 Returns starting and ending colors of this gradient.

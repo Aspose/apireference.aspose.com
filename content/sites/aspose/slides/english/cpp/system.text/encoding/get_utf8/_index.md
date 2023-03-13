@@ -1,12 +1,12 @@
 ---
-title: get_UTF8
+title: get_UTF8()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the standard UTF-8 encoding object.
 type: docs
 weight: 430
 url: /cpp/system.text/encoding/get_utf8/
 ---
-## Encoding::get_UTF8 method
+## Encoding::get_UTF8() method
 
 
 Gets the standard UTF-8 encoding object.

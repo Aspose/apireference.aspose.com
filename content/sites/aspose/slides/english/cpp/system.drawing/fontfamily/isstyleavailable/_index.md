@@ -1,12 +1,12 @@
 ---
-title: IsStyleAvailable
+title: IsStyleAvailable()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified font style is available.
 type: docs
 weight: 27
 url: /cpp/system.drawing/fontfamily/isstyleavailable/
 ---
-## FontFamily::IsStyleAvailable method
+## FontFamily::IsStyleAvailable([FontStyle](../../fontstyle/)) method
 
 
 Determines if the specified font style is available.

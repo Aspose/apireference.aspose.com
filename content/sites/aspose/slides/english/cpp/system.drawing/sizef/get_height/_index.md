@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of height represented by the current object.
 type: docs
 weight: 40
 url: /cpp/system.drawing/sizef/get_height/
 ---
-## SizeF::get_Height method
+## SizeF::get_Height() const method
 
 
 Returns the value of height represented by the current object.

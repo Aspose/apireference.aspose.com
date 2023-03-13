@@ -1,12 +1,12 @@
 ---
-title: get_UserName
+title: get_UserName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the username.
 type: docs
 weight: 1
 url: /cpp/system.net/networkcredential/get_username/
 ---
-## NetworkCredential::get_UserName method
+## NetworkCredential::get_UserName() method
 
 
 Gets the username.

@@ -1,12 +1,12 @@
 ---
-title: get_PercentNegativePattern
+title: get_PercentNegativePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets percent negative pattern.
 type: docs
 weight: 638
 url: /cpp/system.globalization/numberformatinfo/get_percentnegativepattern/
 ---
-## NumberFormatInfo::get_PercentNegativePattern method
+## NumberFormatInfo::get_PercentNegativePattern() const method
 
 
 Gets percent negative pattern.

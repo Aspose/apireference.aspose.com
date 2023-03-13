@@ -1,12 +1,12 @@
 ---
-title: RemoveSectionWithSlides
+title: RemoveSectionWithSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Remove section and slides contained in the section.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/sectioncollection/removesectionwithslides/
 ---
-## SectionCollection::RemoveSectionWithSlides method
+## SectionCollection::RemoveSectionWithSlides([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
 
 
 Remove section and slides contained in the section.

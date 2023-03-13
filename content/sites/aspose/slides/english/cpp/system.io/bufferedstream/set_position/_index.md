@@ -1,12 +1,12 @@
 ---
-title: set_Position
+title: set_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Flushes the buffer to the underlying stream and then sets the stream's position.
 type: docs
 weight: 118
 url: /cpp/system.io/bufferedstream/set_position/
 ---
-## BufferedStream::set_Position method
+## BufferedStream::set_Position(**int64_t**) method
 
 
 Flushes the buffer to the underlying stream and then sets the stream's position.

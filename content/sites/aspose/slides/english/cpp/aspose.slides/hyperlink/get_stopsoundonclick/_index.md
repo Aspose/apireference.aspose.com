@@ -1,12 +1,12 @@
 ---
-title: get_StopSoundOnClick
+title: get_StopSoundOnClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the sound should be stopped on hyperlink click. Read bool.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/hyperlink/get_stopsoundonclick/
 ---
-## Hyperlink::get_StopSoundOnClick method
+## Hyperlink::get_StopSoundOnClick() method
 
 
 Determines whether the sound should be stopped on hyperlink click. Read **bool**.

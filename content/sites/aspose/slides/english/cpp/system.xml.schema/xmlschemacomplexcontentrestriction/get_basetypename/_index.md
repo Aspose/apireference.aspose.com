@@ -1,12 +1,12 @@
 ---
-title: get_BaseTypeName
+title: get_BaseTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of a complex type from which this type is derived by restriction.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemacomplexcontentrestriction/get_basetypename/
 ---
-## XmlSchemaComplexContentRestriction::get_BaseTypeName method
+## XmlSchemaComplexContentRestriction::get_BaseTypeName() method
 
 
 Returns the name of a complex type from which this type is derived by restriction.

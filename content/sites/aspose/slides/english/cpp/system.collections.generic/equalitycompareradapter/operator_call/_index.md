@@ -1,12 +1,12 @@
 ---
-title: operator()
+title: operator()()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two objects.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/equalitycompareradapter/operator_call/
 ---
-## EqualityComparerAdapter::operator() method
+## EqualityComparerAdapter::operator()(const T\&, const T\&) const method
 
 
 Compares two objects.

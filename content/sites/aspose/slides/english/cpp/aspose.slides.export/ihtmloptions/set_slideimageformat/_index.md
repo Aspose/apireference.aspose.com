@@ -1,12 +1,12 @@
 ---
-title: set_SlideImageFormat
+title: set_SlideImageFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets slide image format options. Write ISlideImageFormat.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.export/ihtmloptions/set_slideimageformat/
 ---
-## IHtmlOptions::set_SlideImageFormat method
+## IHtmlOptions::set_SlideImageFormat([System::SharedPtr](../../../system/sharedptr/)\<[ISlideImageFormat](../../islideimageformat/)\>) method
 
 
 Sets slide image format options. Write [ISlideImageFormat](../../islideimageformat/).

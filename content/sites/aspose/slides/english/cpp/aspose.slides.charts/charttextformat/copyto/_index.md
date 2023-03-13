@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies text format to specified text frame.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/charttextformat/copyto/
 ---
-## ChartTextFormat::CopyTo method
+## ChartTextFormat::CopyTo([System::SharedPtr](../../../system/sharedptr/)\<[ITextFrame](../../../aspose.slides/itextframe/)\>) method
 
 
 Copies text format to specified text frame.

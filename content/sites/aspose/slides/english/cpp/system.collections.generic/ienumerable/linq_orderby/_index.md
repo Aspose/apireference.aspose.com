@@ -1,5 +1,5 @@
 ---
-title: LINQ_OrderBy
+title: LINQ_OrderBy()
 second_title: Aspose.Slides for C++ API Reference
 description: Sorts the elements of a sequence in ascending order according to the key values selected by keySelector.
 type: docs

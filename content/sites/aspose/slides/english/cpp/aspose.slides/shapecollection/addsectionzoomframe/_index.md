@@ -1,5 +1,5 @@
 ---
-title: AddSectionZoomFrame
+title: AddSectionZoomFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new Section Zoom object to the end of a collection.
 type: docs

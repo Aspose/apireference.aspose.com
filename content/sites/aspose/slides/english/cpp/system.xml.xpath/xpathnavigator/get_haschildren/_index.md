@@ -1,12 +1,12 @@
 ---
-title: get_HasChildren
+title: get_HasChildren()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates whether the current node has any child nodes.
 type: docs
 weight: 261
 url: /cpp/system.xml.xpath/xpathnavigator/get_haschildren/
 ---
-## XPathNavigator::get_HasChildren method
+## XPathNavigator::get_HasChildren() method
 
 
 Returns a value that indicates whether the current node has any child nodes.

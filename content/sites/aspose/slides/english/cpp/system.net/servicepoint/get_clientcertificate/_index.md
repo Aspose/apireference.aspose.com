@@ -1,12 +1,12 @@
 ---
-title: get_ClientCertificate
+title: get_ClientCertificate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the last client certificate.
 type: docs
 weight: 261
 url: /cpp/system.net/servicepoint/get_clientcertificate/
 ---
-## ServicePoint::get_ClientCertificate method
+## ServicePoint::get_ClientCertificate() method
 
 
 Returns the last client certificate.

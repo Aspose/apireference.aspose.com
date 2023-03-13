@@ -1,12 +1,12 @@
 ---
-title: GetExpectedAttributes
+title: GetExpectedAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the expected attributes for the current element context.
 type: docs
 weight: 261
 url: /cpp/system.xml.schema/xmlschemavalidator/getexpectedattributes/
 ---
-## XmlSchemaValidator::GetExpectedAttributes method
+## XmlSchemaValidator::GetExpectedAttributes() method
 
 
 Returns the expected attributes for the current element context.

@@ -1,12 +1,12 @@
 ---
-title: get_GeoId
+title: get_GeoId()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets unique identificator for a region.
 type: docs
 weight: 183
 url: /cpp/system.globalization/regioninfo/get_geoid/
 ---
-## RegionInfo::get_GeoId method
+## RegionInfo::get_GeoId() const method
 
 
 Gets unique identificator for a region.

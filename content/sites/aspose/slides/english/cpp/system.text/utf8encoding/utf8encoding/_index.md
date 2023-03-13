@@ -1,5 +1,5 @@
 ---
-title: UTF8Encoding
+title: UTF8Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_InternalSubset
+title: get_InternalSubset()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the internal DTD subset.
 type: docs
 weight: 157
 url: /cpp/system.xml/xmlparsercontext/get_internalsubset/
 ---
-## XmlParserContext::get_InternalSubset method
+## XmlParserContext::get_InternalSubset() method
 
 
 Returns the internal DTD subset.

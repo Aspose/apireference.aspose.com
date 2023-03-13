@@ -1,12 +1,12 @@
 ---
-title: get_AttributeType
+title: get_AttributeType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the object based on the XmlSchemaAttribute::get_SchemaType or XmlSchemaAttribute::get_SchemaTypeName value of the attribute that holds the post-compilation interpretation of the AttributeType value."
 type: docs
 weight: 222
 url: /cpp/system.xml.schema/xmlschemaattribute/get_attributetype/
 ---
-## XmlSchemaAttribute::get_AttributeType method
+## XmlSchemaAttribute::get_AttributeType() method
 
 
 Returns the object based on the [XmlSchemaAttribute::get_SchemaType](../get_schematype/) or [XmlSchemaAttribute::get_SchemaTypeName](../get_schematypename/) value of the attribute that holds the post-compilation interpretation of the **AttributeType** value.

@@ -1,5 +1,5 @@
 ---
-title: GetFileSystemInfos
+title: GetFileSystemInfos()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing shared pointers to FileSystemInfo objects representing all files and directories located in the directory represented by the current object.
 type: docs

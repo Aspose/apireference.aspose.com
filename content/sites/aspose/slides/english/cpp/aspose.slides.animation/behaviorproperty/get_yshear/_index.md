@@ -1,15 +1,15 @@
 ---
-title: get_YShear
+title: get_YShear()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'yshear' property.
+description: Represents 'yshear' property
 type: docs
 weight: 144
 url: /cpp/aspose.slides.animation/behaviorproperty/get_yshear/
 ---
-## BehaviorProperty::get_YShear method
+## BehaviorProperty::get_YShear() method
 
 
-Represents 'yshear' property.
+Represents 'yshear' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_YShear()

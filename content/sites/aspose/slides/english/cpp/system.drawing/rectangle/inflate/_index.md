@@ -1,5 +1,5 @@
 ---
-title: Inflate
+title: Inflate()
 second_title: Aspose.Slides for C++ API Reference
 description: Increases the width and height of the rectangle represented by the current object, maintaining the location of the geometrical center of the rectangle. The width and height are increased in both directions by the specified amounts.
 type: docs

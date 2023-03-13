@@ -1,12 +1,12 @@
 ---
-title: get_ConformanceLevel
+title: get_ConformanceLevel()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the level of conformance that the XML writer checks the XML output for.
 type: docs
 weight: 209
 url: /cpp/system.xml/xmlwritersettings/get_conformancelevel/
 ---
-## XmlWriterSettings::get_ConformanceLevel method
+## XmlWriterSettings::get_ConformanceLevel() method
 
 
 Returns the level of conformance that the XML writer checks the XML output for.

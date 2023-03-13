@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of transition split. Write TransitionInOutDirectionType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/splittransition/set_direction/
 ---
-## SplitTransition::set_Direction method
+## SplitTransition::set_Direction([TransitionInOutDirectionType](../../transitioninoutdirectiontype/)) method
 
 
 Direction of transition split. Write [TransitionInOutDirectionType](../../transitioninoutdirectiontype/).

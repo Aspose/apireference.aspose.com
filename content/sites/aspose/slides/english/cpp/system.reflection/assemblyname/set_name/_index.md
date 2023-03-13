@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets assembly name.
 type: docs
 weight: 27
 url: /cpp/system.reflection/assemblyname/set_name/
 ---
-## AssemblyName::set_Name method
+## AssemblyName::set_Name(const [String](../../../system/string/)\&) method
 
 
 Sets assembly name.

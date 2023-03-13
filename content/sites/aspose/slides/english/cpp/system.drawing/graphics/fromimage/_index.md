@@ -1,12 +1,12 @@
 ---
-title: FromImage
+title: FromImage()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new Graphics object from the specified image.
 type: docs
 weight: 1
 url: /cpp/system.drawing/graphics/fromimage/
 ---
-## Graphics::FromImage method
+## Graphics::FromImage(const [SharedPtr](../../../system/sharedptr/)\<[Image](../../image/)\>\&) method
 
 
 Creates a new [Graphics](../) object from the specified image.

@@ -1,12 +1,12 @@
 ---
-title: SetTimePosition
+title: SetTimePosition()
 second_title: Aspose.Slides for C++ API Reference
 description: "Set the animation time position within the IPresentationAnimationPlayer::get_Duration."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/ipresentationanimationplayer/settimeposition/
 ---
-## IPresentationAnimationPlayer::SetTimePosition method
+## IPresentationAnimationPlayer::SetTimePosition(**double**) method
 
 
 Set the animation time position within the [IPresentationAnimationPlayer::get_Duration](../get_duration/).

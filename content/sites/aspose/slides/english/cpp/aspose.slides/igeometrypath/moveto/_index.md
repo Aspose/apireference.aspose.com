@@ -1,5 +1,5 @@
 ---
-title: MoveTo
+title: MoveTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets next point position.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_PreloadedUris
+title: get_PreloadedUris()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of preloaded URIs.
 type: docs
 weight: 14
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/get_preloadeduris/
 ---
-## XmlPreloadedResolver::get_PreloadedUris method
+## XmlPreloadedResolver::get_PreloadedUris() method
 
 
 Returns a collection of preloaded URIs.

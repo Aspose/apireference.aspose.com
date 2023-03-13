@@ -1,12 +1,12 @@
 ---
-title: set_TransferEncodingChunked
+title: set_TransferEncodingChunked()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the 'Transfer-Encoding' header value contains 'Chunked'.
 type: docs
 weight: 547
 url: /cpp/system.net.http.headers/httprequestheaders/set_transferencodingchunked/
 ---
-## HttpRequestHeaders::set_TransferEncodingChunked method
+## HttpRequestHeaders::set_TransferEncodingChunked([Nullable](../../../system/nullable/)\<**bool**\>) method
 
 
 Sets a value that indicates if the 'Transfer-Encoding' header value contains 'Chunked'.

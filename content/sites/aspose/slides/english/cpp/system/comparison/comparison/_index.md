@@ -1,12 +1,12 @@
 ---
-title: Comparison
+title: Comparison()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance of Comparison delegate that represent the pointer to the specified invokable entity.
 type: docs
 weight: 1
 url: /cpp/system/comparison/comparison/
 ---
-## Comparison::Comparison constructor
+## Comparison::Comparison(Y) constructor
 
 
 Constructs an instance of [Comparison](../) delegate that represent the pointer to the specified invokable entity.

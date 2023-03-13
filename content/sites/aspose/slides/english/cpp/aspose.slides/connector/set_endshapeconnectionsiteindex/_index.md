@@ -1,12 +1,12 @@
 ---
-title: set_EndShapeConnectionSiteIndex
+title: set_EndShapeConnectionSiteIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the index of connection site for end shape. Write uint32_t.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/connector/set_endshapeconnectionsiteindex/
 ---
-## Connector::set_EndShapeConnectionSiteIndex method
+## Connector::set_EndShapeConnectionSiteIndex(**uint32_t**) method
 
 
 Sets the index of connection site for end shape. Write **uint32_t**.

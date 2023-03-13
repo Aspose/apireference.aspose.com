@@ -1,12 +1,12 @@
 ---
-title: MakeRelativeUri
+title: MakeRelativeUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the difference between URIs represented by the current and the specified Uri objects.
 type: docs
 weight: 352
 url: /cpp/system/uri/makerelativeuri/
 ---
-## Uri::MakeRelativeUri method
+## Uri::MakeRelativeUri(const [SharedPtr](../../sharedptr/)\<[Uri](../)\>\&) method
 
 
 Determines the difference between URIs represented by the current and the specified [Uri](../) objects.

@@ -1,12 +1,12 @@
 ---
-title: get_Schema
+title: get_Schema()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchema for the referenced schema.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaexternal/get_schema/
 ---
-## XmlSchemaExternal::get_Schema method
+## XmlSchemaExternal::get_Schema() method
 
 
 Returns the [XmlSchema](../../xmlschema/) for the referenced schema.

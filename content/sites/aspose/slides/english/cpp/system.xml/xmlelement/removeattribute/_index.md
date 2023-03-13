@@ -1,5 +1,5 @@
 ---
-title: RemoveAttribute
+title: RemoveAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes an attribute by name.
 type: docs

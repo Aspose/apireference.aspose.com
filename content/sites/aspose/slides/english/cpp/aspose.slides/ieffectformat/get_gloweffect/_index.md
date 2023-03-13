@@ -1,12 +1,12 @@
 ---
-title: get_GlowEffect
+title: get_GlowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Glow effect. Read Effects::IGlow."
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ieffectformat/get_gloweffect/
 ---
-## IEffectFormat::get_GlowEffect method
+## IEffectFormat::get_GlowEffect() method
 
 
 Glow effect. Read [Effects::IGlow](../../../aspose.slides.effects/iglow/).

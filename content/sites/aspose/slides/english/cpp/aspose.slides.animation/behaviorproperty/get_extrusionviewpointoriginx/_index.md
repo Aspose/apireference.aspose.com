@@ -1,15 +1,15 @@
 ---
-title: get_ExtrusionViewPointOriginX
+title: get_ExtrusionViewPointOriginX()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'extrusion.viewpointorigin.x' property.
+description: Represents 'extrusion.viewpointorigin.x' property
 type: docs
 weight: 1327
 url: /cpp/aspose.slides.animation/behaviorproperty/get_extrusionviewpointoriginx/
 ---
-## BehaviorProperty::get_ExtrusionViewPointOriginX method
+## BehaviorProperty::get_ExtrusionViewPointOriginX() method
 
 
-Represents 'extrusion.viewpointorigin.x' property.
+Represents 'extrusion.viewpointorigin.x' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ExtrusionViewPointOriginX()

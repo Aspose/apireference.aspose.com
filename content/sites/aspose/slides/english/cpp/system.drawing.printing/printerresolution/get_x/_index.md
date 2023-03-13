@@ -1,12 +1,12 @@
 ---
-title: get_X
+title: get_X()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns horizontal resolution.
 type: docs
 weight: 1
 url: /cpp/system.drawing.printing/printerresolution/get_x/
 ---
-## PrinterResolution::get_X method
+## PrinterResolution::get_X() const method
 
 
 Returns horizontal resolution.

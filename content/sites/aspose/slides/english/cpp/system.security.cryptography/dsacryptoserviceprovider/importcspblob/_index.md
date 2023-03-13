@@ -1,12 +1,12 @@
 ---
-title: ImportCspBlob
+title: ImportCspBlob()
 second_title: Aspose.Slides for C++ API Reference
 description: Imports blob with information on key. Not implemented.
 type: docs
 weight: 157
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/importcspblob/
 ---
-## DSACryptoServiceProvider::ImportCspBlob method
+## DSACryptoServiceProvider::ImportCspBlob([ByteArrayPtr](../../../system/bytearrayptr/)) method
 
 
 Imports blob with information on key. Not implemented.

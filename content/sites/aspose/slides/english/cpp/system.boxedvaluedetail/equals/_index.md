@@ -1,5 +1,5 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the equality of the specified value using operator==().
 type: docs
@@ -62,7 +62,7 @@ template<typename T> std::enable_if<detail::has_only_method_equals<T>::value, bo
 
 ### Return Value
 
-True if the specified value are equal as determined by method [Equals()](../../system/delegateequality/), otherwise - false
+True if the specified value are equal as determined by method [Equals()](./), otherwise - false
 
 ## See Also
 

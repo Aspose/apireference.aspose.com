@@ -1,12 +1,12 @@
 ---
-title: get_Decelerate
+title: get_Decelerate()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the percentage of duration decelerate behavior effect. Read float.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/timing/get_decelerate/
 ---
-## Timing::get_Decelerate method
+## Timing::get_Decelerate() method
 
 
 Describes the percentage of duration decelerate behavior effect. Read **float**.

@@ -1,5 +1,5 @@
 ---
-title: BeginConnect
+title: BeginConnect()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous connect operation.
 type: docs

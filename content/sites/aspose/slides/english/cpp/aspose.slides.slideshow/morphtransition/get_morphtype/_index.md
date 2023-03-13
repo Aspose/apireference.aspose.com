@@ -1,12 +1,12 @@
 ---
-title: get_MorphType
+title: get_MorphType()
 second_title: Aspose.Slides for C++ API Reference
 description: Type of morph transition. Read TransitionMorphType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.slideshow/morphtransition/get_morphtype/
 ---
-## MorphTransition::get_MorphType method
+## MorphTransition::get_MorphType() method
 
 
 Type of morph transition. Read [TransitionMorphType](../../transitionmorphtype/).

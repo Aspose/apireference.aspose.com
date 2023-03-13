@@ -1,12 +1,12 @@
 ---
-title: Or
+title: Or()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates bitwise 'or' between two BitSets.
 type: docs
 weight: 170
 url: /cpp/system.collections/bitarray/or/
 ---
-## BitArray::Or method
+## BitArray::Or(const [BitArrayPtr](../../bitarrayptr/)\&) method
 
 
 Calculates bitwise 'or' between two BitSets.

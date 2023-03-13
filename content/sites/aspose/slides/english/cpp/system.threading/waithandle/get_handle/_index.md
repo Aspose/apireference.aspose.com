@@ -1,12 +1,12 @@
 ---
-title: get_Handle
+title: get_Handle()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets handle.
 type: docs
 weight: 66
 url: /cpp/system.threading/waithandle/get_handle/
 ---
-## WaitHandle::get_Handle method
+## WaitHandle::get_Handle() method
 
 
 Gets handle.

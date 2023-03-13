@@ -1,12 +1,12 @@
 ---
-title: set_NumberDecimalSeparator
+title: set_NumberDecimalSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets decimal separator.
 type: docs
 weight: 53
 url: /cpp/system.globalization/numberformatinfo/set_numberdecimalseparator/
 ---
-## NumberFormatInfo::set_NumberDecimalSeparator method
+## NumberFormatInfo::set_NumberDecimalSeparator(const [String](../../../system/string/)\&) method
 
 
 Sets decimal separator.

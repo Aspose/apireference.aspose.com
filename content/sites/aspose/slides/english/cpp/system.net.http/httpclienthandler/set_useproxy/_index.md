@@ -1,12 +1,12 @@
 ---
-title: set_UseProxy
+title: set_UseProxy()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value that indicates if the current instance uses the proxy for sending requests.
 type: docs
 weight: 118
 url: /cpp/system.net.http/httpclienthandler/set_useproxy/
 ---
-## HttpClientHandler::set_UseProxy method
+## HttpClientHandler::set_UseProxy(**bool**) method
 
 
 Sets the value that indicates if the current instance uses the proxy for sending requests.

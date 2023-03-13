@@ -1,12 +1,12 @@
 ---
-title: get_PathData
+title: get_PathData()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns geometry path of GeometryShape as an array of path segments.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/geometrypath/get_pathdata/
 ---
-## GeometryPath::get_PathData method
+## GeometryPath::get_PathData() method
 
 
 Returns geometry path of [GeometryShape](../../geometryshape/) as an array of path segments.

@@ -1,12 +1,12 @@
 ---
-title: get_WindowStyle
+title: get_WindowStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets window style.
 type: docs
 weight: 196
 url: /cpp/system.diagnostics/processstartinfo/get_windowstyle/
 ---
-## ProcessStartInfo::get_WindowStyle method
+## ProcessStartInfo::get_WindowStyle() const method
 
 
 Gets window style.

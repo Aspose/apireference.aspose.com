@@ -1,12 +1,12 @@
 ---
-title: InsertAfter
+title: InsertAfter()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts the specified node immediately after the specified reference node.
 type: docs
 weight: 391
 url: /cpp/system.xml/xmlnode/insertafter/
 ---
-## XmlNode::InsertAfter method
+## XmlNode::InsertAfter([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../)\>, [SharedPtr](../../../system/sharedptr/)\<[XmlNode](../)\>) method
 
 
 Inserts the specified node immediately after the specified reference node.

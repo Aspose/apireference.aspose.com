@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the TransferCodingWithQualityHeaderValue class.
 type: docs
 weight: 40
 url: /cpp/system.net.http.headers/transfercodingwithqualityheadervalue/parse/
 ---
-## TransferCodingWithQualityHeaderValue::Parse method
+## TransferCodingWithQualityHeaderValue::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [TransferCodingWithQualityHeaderValue](../) class.

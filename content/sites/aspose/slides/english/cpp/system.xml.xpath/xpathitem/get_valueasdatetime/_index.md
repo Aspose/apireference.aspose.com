@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsDateTime
+title: get_ValueAsDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the item's value as a DateTime.
 type: docs
 weight: 79
 url: /cpp/system.xml.xpath/xpathitem/get_valueasdatetime/
 ---
-## XPathItem::get_ValueAsDateTime method
+## XPathItem::get_ValueAsDateTime() method
 
 
 When overridden in a derived class, gets the item's value as a [DateTime](../../../system/datetime/).

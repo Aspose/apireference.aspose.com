@@ -1,5 +1,5 @@
 ---
-title: Translate
+title: Translate()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the coordinates of the region by the specified amount.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_BigEndianUnicode
+title: get_BigEndianUnicode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the standard big-endian Unicode encoding object.
 type: docs
 weight: 404
 url: /cpp/system.text/encoding/get_bigendianunicode/
 ---
-## Encoding::get_BigEndianUnicode method
+## Encoding::get_BigEndianUnicode() method
 
 
 Gets the standard big-endian Unicode encoding object.

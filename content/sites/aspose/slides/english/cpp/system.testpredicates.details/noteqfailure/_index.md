@@ -1,12 +1,12 @@
 ---
-title: NotEqFailure
+title: NotEqFailure()
 second_title: Aspose.Slides for C++ API Reference
 description: Formats != assertion failure for output.
 type: docs
 weight: 40
 url: /cpp/system.testpredicates.details/noteqfailure/
 ---
-## System::TestPredicates::Details::NotEqFailure function
+## System::TestPredicates::Details::NotEqFailure(const char *, const char *, T1\&, T2\&) function
 
 
 Formats != assertion failure for output.

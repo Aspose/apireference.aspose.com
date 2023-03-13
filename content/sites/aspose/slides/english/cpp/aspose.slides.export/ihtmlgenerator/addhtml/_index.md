@@ -1,5 +1,5 @@
 ---
-title: AddHtml
+title: AddHtml()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds formatted HTML text.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_LineAlignment
+title: get_LineAlignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates vertical alignment of the string.
 type: docs
 weight: 66
 url: /cpp/system.drawing/stringformat/get_linealignment/
 ---
-## StringFormat::get_LineAlignment method
+## StringFormat::get_LineAlignment() const method
 
 
 Returns a value that indicates vertical alignment of the string.

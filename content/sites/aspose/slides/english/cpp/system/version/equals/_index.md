@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the version numbers represented by the current and the specified objects are equal.
 type: docs
 weight: 118
 url: /cpp/system/version/equals/
 ---
-## Version::Equals method
+## Version::Equals(const [Version](../)\&) const method
 
 
 Determines if the version numbers represented by the current and the specified objects are equal.

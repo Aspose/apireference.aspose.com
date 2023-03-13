@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes specified property from the collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/ibehaviorpropertycollection/remove/
 ---
-## IBehaviorPropertyCollection::Remove method
+## IBehaviorPropertyCollection::Remove(const [System::String](../../../system/string/)\&) method
 
 
 Removes specified property from the collection.

@@ -1,12 +1,12 @@
 ---
-title: ForEach
+title: ForEach()
 second_title: Aspose.Slides for C++ API Reference
 description: Applies action to all elements in list.
 type: docs
 weight: 430
 url: /cpp/system.collections.generic/list/foreach/
 ---
-## List::ForEach method
+## List::ForEach([System::Action](../../../system/action/)\<T\>) method
 
 
 Applies action to all elements in list.

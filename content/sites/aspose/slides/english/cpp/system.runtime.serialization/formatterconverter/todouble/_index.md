@@ -1,12 +1,12 @@
 ---
-title: ToDouble
+title: ToDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a double.
 type: docs
 weight: 79
 url: /cpp/system.runtime.serialization/formatterconverter/todouble/
 ---
-## FormatterConverter::ToDouble method
+## FormatterConverter::ToDouble([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a double.

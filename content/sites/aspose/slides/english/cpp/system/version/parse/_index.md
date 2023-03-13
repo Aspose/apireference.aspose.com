@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the string representation of a version number into equivalent instance of Version class.
 type: docs
 weight: 144
 url: /cpp/system/version/parse/
 ---
-## Version::Parse method
+## Version::Parse(const [String](../../string/)\&) method
 
 
 Converts the string representation of a version number into equivalent instance of [Version](../) class.

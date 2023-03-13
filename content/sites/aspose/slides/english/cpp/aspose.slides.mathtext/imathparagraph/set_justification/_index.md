@@ -1,15 +1,15 @@
 ---
-title: set_Justification
+title: set_Justification()
 second_title: Aspose.Slides for C++ API Reference
-description: "Paragraph Justification Default value: CenteredAsGroup."
+description: "Paragraph Justification Default value: CenteredAsGroup"
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathparagraph/set_justification/
 ---
-## IMathParagraph::set_Justification method
+## IMathParagraph::set_Justification([MathJustification](../../mathjustification/)) method
 
 
-[Paragraph](../../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup.
+[Paragraph](../../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup
 
 ```cpp
 virtual void Aspose::Slides::MathText::IMathParagraph::set_Justification(MathJustification value)=0

@@ -1,12 +1,12 @@
 ---
-title: EncoderParameters
+title: EncoderParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of EncoderParameters class.
 type: docs
 weight: 1
 url: /cpp/system.drawing.imaging/encoderparameters/encoderparameters/
 ---
-## EncoderParameters::EncoderParameters constructor
+## EncoderParameters::EncoderParameters(int) constructor
 
 
 Constructs a new instance of [EncoderParameters](../) class.

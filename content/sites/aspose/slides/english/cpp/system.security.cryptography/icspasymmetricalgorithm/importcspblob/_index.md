@@ -1,12 +1,12 @@
 ---
-title: ImportCspBlob
+title: ImportCspBlob()
 second_title: Aspose.Slides for C++ API Reference
 description: Imports key information from data blob.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/icspasymmetricalgorithm/importcspblob/
 ---
-## ICspAsymmetricAlgorithm::ImportCspBlob method
+## ICspAsymmetricAlgorithm::ImportCspBlob([ByteArrayPtr](../../../system/bytearrayptr/)) method
 
 
 Imports key information from data blob.

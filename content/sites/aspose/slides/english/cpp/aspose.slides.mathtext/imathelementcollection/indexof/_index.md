@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the index of a specific math element in collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/imathelementcollection/indexof/
 ---
-## IMathElementCollection::IndexOf method
+## IMathElementCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
 Determines the index of a specific math element in collection.

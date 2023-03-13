@@ -1,12 +1,12 @@
 ---
-title: get_Groups
+title: get_Groups()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets group list.
 type: docs
 weight: 14
 url: /cpp/system.text.regularexpressions/match/get_groups/
 ---
-## Match::get_Groups method
+## Match::get_Groups() method
 
 
 Gets group list.

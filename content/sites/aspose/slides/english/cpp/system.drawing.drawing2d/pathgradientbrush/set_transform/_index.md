@@ -1,12 +1,12 @@
 ---
-title: set_Transform
+title: set_Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a Matrix object that specifies the geometrical transformations for the brush represneted by the current object.
 type: docs
 weight: 196
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_transform/
 ---
-## PathGradientBrush::set_Transform method
+## PathGradientBrush::set_Transform(const [SharedPtr](../../../system/sharedptr/)\<[Matrix](../../matrix/)\>\&) method
 
 
 Sets a [Matrix](../../matrix/) object that specifies the geometrical transformations for the brush represneted by the current object.

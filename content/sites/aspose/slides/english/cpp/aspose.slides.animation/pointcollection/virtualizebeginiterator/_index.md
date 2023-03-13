@@ -1,12 +1,12 @@
 ---
-title: virtualizeBeginIterator
+title: virtualizeBeginIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing to the first element (if any) of the collection.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/pointcollection/virtualizebeginiterator/
 ---
-## PointCollection::virtualizeBeginIterator method
+## PointCollection::virtualizeBeginIterator() method
 
 
 Gets iterator pointing to the first element (if any) of the collection.

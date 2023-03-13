@@ -1,12 +1,12 @@
 ---
-title: DoubleToInt64Bits
+title: DoubleToInt64Bits()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a 64-bit integer value whose binary representation is equal to binary representation of the specified double-precision floating point value.
 type: docs
 weight: 170
 url: /cpp/system/bitconverter/doubletoint64bits/
 ---
-## BitConverter::DoubleToInt64Bits method
+## BitConverter::DoubleToInt64Bits(**double**) method
 
 
 Returns a 64-bit integer value whose binary representation is equal to binary representation of the specified double-precision floating point value.

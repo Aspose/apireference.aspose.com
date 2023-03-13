@@ -1,12 +1,12 @@
 ---
-title: GetCustomAttributes
+title: GetCustomAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns all custom attributes appllied to specified type.
 type: docs
 weight: 14
 url: /cpp/system/attribute/getcustomattributes/
 ---
-## Attribute::GetCustomAttributes method
+## Attribute::GetCustomAttributes(const [TypeInfo](../../typeinfo/)\&) method
 
 
 Returns all custom attributes appllied to specified type.

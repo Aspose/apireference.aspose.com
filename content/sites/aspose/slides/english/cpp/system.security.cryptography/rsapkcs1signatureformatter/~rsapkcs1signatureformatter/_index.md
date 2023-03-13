@@ -1,12 +1,12 @@
 ---
-title: ~RSAPKCS1SignatureFormatter
+title: ~RSAPKCS1SignatureFormatter()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/rsapkcs1signatureformatter/~rsapkcs1signatureformatter/
 ---
-## RSAPKCS1SignatureFormatter::~RSAPKCS1SignatureFormatter method
+## RSAPKCS1SignatureFormatter::~RSAPKCS1SignatureFormatter() method
 
 
 Destructor.

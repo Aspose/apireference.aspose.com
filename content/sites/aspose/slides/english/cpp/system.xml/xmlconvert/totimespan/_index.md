@@ -1,12 +1,12 @@
 ---
-title: ToTimeSpan
+title: ToTimeSpan()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a TimeSpan equivalent.
 type: docs
 weight: 404
 url: /cpp/system.xml/xmlconvert/totimespan/
 ---
-## XmlConvert::ToTimeSpan method
+## XmlConvert::ToTimeSpan(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [TimeSpan](../../../system/timespan/) equivalent.

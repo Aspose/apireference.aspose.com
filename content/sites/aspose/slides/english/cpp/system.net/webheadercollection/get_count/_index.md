@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a number of elements in the collection.
 type: docs
 weight: 79
 url: /cpp/system.net/webheadercollection/get_count/
 ---
-## WebHeaderCollection::get_Count method
+## WebHeaderCollection::get_Count() const method
 
 
 Returns a number of elements in the collection.

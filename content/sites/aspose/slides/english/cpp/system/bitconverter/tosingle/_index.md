@@ -1,5 +1,5 @@
 ---
-title: ToSingle
+title: ToSingle()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts four bytes from the specified array starting at the specified index to single-precision floating point value.
 type: docs

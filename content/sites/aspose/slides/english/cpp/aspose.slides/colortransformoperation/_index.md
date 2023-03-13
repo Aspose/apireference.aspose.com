@@ -21,8 +21,8 @@ enum class ColorTransformOperation
 | --- | --- | --- |
 | Tint | 0 | Tints the color. Parameter is in range between 0 (original color) and 1 (white). |
 | Shade | 1 | Shades the color. Parameter is in range between 0 (original color) and 1 (black). |
-| Complement | 2 | Changes the color to a RGB complementary one. m = Max(r, g, b); r = m - r; g = m - g; b = m - b;. |
-| Inverse | 3 | Changes the color to an inverted color. r = 1 - r; g = 1 - g; b = 1 - b;. |
+| Complement | 2 | Changes the color to a RGB complementary one. m = Max(r, g, b); r = m - r; g = m - g; b = m - b; |
+| Inverse | 3 | Changes the color to an inverted color. r = 1 - r; g = 1 - g; b = 1 - b; |
 | Grayscale | 4 | Changes the color to a gray one with same lightness. Parameter ignored. |
 | SetAlpha | 5 | Defines an alpha component of the color. Parameter is in range between 0 (transparent) and 1 (opaque). |
 | AddAlpha | 6 | Adds a parameter's value to an alpha component of the color. Parameter is in range between -1 and 1. |

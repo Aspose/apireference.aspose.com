@@ -1,12 +1,12 @@
 ---
-title: set_Target
+title: set_Target()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the object (the target) referenced by the current WeakReference object.
 type: docs
 weight: 27
 url: /cpp/system/weakreference_tmpl_end_tmpl/set_target/
 ---
-## WeakReference<>::set_Target method
+## WeakReference<>::set_Target(const [SmartPtr](../../smartptr/)\<[Object](../../object/)\>\&) method
 
 
 Sets the object (the target) referenced by the current WeakReference object.

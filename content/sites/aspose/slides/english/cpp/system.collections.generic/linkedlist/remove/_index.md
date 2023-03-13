@@ -1,5 +1,5 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes first occurance of the specified element from list.
 type: docs

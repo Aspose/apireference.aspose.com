@@ -1,12 +1,12 @@
 ---
-title: set_CurrentDateTime
+title: set_CurrentDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets date and time which will substitute content of datetime fields. Time of this Presentation object creation by default. Write System::DateTime."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/presentation/set_currentdatetime/
 ---
-## Presentation::set_CurrentDateTime method
+## Presentation::set_CurrentDateTime([System::DateTime](../../../system/datetime/)) method
 
 
 Sets date and time which will substitute content of datetime fields. Time of this [Presentation](../) object creation by default. Write [System::DateTime](../../../system/datetime/).

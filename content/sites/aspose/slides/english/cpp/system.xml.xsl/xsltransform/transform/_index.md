@@ -1,5 +1,5 @@
 ---
-title: Transform
+title: Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Transforms the XML data in the XPathNavigator using the specified args and outputs the result to an XmlReader.
 type: docs

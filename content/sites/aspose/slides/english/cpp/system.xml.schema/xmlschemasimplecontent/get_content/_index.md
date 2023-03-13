@@ -1,12 +1,12 @@
 ---
-title: get_Content
+title: get_Content()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns one of the XmlSchemaSimpleContentRestriction or XmlSchemaSimpleContentExtension.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemasimplecontent/get_content/
 ---
-## XmlSchemaSimpleContent::get_Content method
+## XmlSchemaSimpleContent::get_Content() method
 
 
 Returns one of the [XmlSchemaSimpleContentRestriction](../../xmlschemasimplecontentrestriction/) or [XmlSchemaSimpleContentExtension](../../xmlschemasimplecontentextension/).

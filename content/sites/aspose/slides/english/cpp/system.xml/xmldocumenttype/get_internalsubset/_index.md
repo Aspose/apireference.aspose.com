@@ -1,12 +1,12 @@
 ---
-title: get_InternalSubset
+title: get_InternalSubset()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the document type definition (DTD) internal subset on the DOCTYPE declaration.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmldocumenttype/get_internalsubset/
 ---
-## XmlDocumentType::get_InternalSubset method
+## XmlDocumentType::get_InternalSubset() method
 
 
 Returns the value of the document type definition (DTD) internal subset on the DOCTYPE declaration.

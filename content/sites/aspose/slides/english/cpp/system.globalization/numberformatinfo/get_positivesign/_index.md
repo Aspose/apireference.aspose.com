@@ -1,12 +1,12 @@
 ---
-title: get_PositiveSign
+title: get_PositiveSign()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets positive sign.
 type: docs
 weight: 196
 url: /cpp/system.globalization/numberformatinfo/get_positivesign/
 ---
-## NumberFormatInfo::get_PositiveSign method
+## NumberFormatInfo::get_PositiveSign() const method
 
 
 Gets positive sign.

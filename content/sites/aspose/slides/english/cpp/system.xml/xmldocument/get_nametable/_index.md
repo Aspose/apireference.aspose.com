@@ -1,12 +1,12 @@
 ---
-title: get_NameTable
+title: get_NameTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlNameTable associated with this implementation.
 type: docs
 weight: 131
 url: /cpp/system.xml/xmldocument/get_nametable/
 ---
-## XmlDocument::get_NameTable method
+## XmlDocument::get_NameTable() method
 
 
 Returns the [XmlNameTable](../../xmlnametable/) associated with this implementation.

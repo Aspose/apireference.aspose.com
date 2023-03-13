@@ -1,12 +1,12 @@
 ---
-title: get_AsLiteral
+title: get_AsLiteral()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns AsLiteral if UseCell is false. Read System::Object."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ichartcategory/get_asliteral/
 ---
-## IChartCategory::get_AsLiteral method
+## IChartCategory::get_AsLiteral() method
 
 
 Returns AsLiteral if UseCell is false. Read [System::Object](../../../system/object/).

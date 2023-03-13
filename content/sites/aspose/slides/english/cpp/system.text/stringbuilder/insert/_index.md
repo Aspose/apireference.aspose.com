@@ -1,5 +1,5 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts string into builder's fixed position.
 type: docs

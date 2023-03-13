@@ -1,12 +1,12 @@
 ---
-title: set_SchemaAttribute
+title: set_SchemaAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the compiled XmlSchemaAttribute object that corresponds to this validated XML node.
 type: docs
 weight: 170
 url: /cpp/system.xml.schema/xmlschemainfo/set_schemaattribute/
 ---
-## XmlSchemaInfo::set_SchemaAttribute method
+## XmlSchemaInfo::set_SchemaAttribute(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaAttribute](../../xmlschemaattribute/)\>\&) method
 
 
 Sets the compiled [XmlSchemaAttribute](../../xmlschemaattribute/) object that corresponds to this validated XML node.

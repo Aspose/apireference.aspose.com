@@ -1,5 +1,5 @@
 ---
-title: AddDataPointForPieSeries
+title: AddDataPointForPieSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the new data point and adds it to the end of collection. Applicable for series which chartType is one of Pie subtypes (see also ChartTypeCharacterizer.IsChartTypePie(ChartType) method).
 type: docs

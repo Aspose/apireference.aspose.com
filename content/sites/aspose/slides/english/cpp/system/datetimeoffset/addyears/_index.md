@@ -1,12 +1,12 @@
 ---
-title: AddYears
+title: AddYears()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a specified number of years to the DateTimeOffset object.
 type: docs
 weight: 248
 url: /cpp/system/datetimeoffset/addyears/
 ---
-## DateTimeOffset::AddYears method
+## DateTimeOffset::AddYears(int) const method
 
 
 Adds a specified number of years to the [DateTimeOffset](../) object.

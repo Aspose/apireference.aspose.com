@@ -1,12 +1,12 @@
 ---
-title: GetAbbreviatedMonthName
+title: GetAbbreviatedMonthName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets abbreviated month name.
 type: docs
 weight: 664
 url: /cpp/system.globalization/datetimeformatinfo/getabbreviatedmonthname/
 ---
-## DateTimeFormatInfo::GetAbbreviatedMonthName method
+## DateTimeFormatInfo::GetAbbreviatedMonthName(int) const method
 
 
 Gets abbreviated month name.

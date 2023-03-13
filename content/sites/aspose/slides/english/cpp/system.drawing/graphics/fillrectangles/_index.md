@@ -1,5 +1,5 @@
 ---
-title: FillRectangles
+title: FillRectangles()
 second_title: Aspose.Slides for C++ API Reference
 description: Fills a series of rectangles using the specified brush.
 type: docs

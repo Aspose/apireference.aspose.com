@@ -1,12 +1,12 @@
 ---
-title: PeekChar
+title: PeekChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads a single character from the input stream without changing the stream's read cursor.
 type: docs
 weight: 53
 url: /cpp/system.io/binaryreader/peekchar/
 ---
-## BinaryReader::PeekChar method
+## BinaryReader::PeekChar() method
 
 
 Reads a single character from the input stream without changing the stream's read cursor.

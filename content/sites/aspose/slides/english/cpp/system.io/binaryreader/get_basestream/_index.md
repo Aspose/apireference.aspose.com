@@ -1,12 +1,12 @@
 ---
-title: get_BaseStream
+title: get_BaseStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the input stream.
 type: docs
 weight: 14
 url: /cpp/system.io/binaryreader/get_basestream/
 ---
-## BinaryReader::get_BaseStream method
+## BinaryReader::get_BaseStream() method
 
 
 Returns the input stream.

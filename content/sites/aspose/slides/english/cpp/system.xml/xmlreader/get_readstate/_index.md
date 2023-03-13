@@ -1,12 +1,12 @@
 ---
-title: get_ReadState
+title: get_ReadState()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the state of the reader.
 type: docs
 weight: 248
 url: /cpp/system.xml/xmlreader/get_readstate/
 ---
-## XmlReader::get_ReadState method
+## XmlReader::get_ReadState() method
 
 
 When overridden in a derived class, gets the state of the reader.

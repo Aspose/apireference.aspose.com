@@ -1,12 +1,12 @@
 ---
-title: CreateFillOverlay
+title: CreateFillOverlay()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Fill overlay effect.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createfilloverlay/
 ---
-## ImageTransformOperationFactory::CreateFillOverlay method
+## ImageTransformOperationFactory::CreateFillOverlay() method
 
 
 Creates Fill overlay effect.

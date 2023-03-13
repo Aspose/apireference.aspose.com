@@ -1,12 +1,12 @@
 ---
-title: set_WindowStyle
+title: set_WindowStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets window style.
 type: docs
 weight: 209
 url: /cpp/system.diagnostics/processstartinfo/set_windowstyle/
 ---
-## ProcessStartInfo::set_WindowStyle method
+## ProcessStartInfo::set_WindowStyle([ProcessWindowStyle](../../processwindowstyle/)) method
 
 
 Sets window style.

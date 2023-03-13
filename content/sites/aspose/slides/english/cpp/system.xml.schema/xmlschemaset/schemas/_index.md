@@ -1,5 +1,5 @@
 ---
-title: Schemas
+title: Schemas()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of all the XML Schema definition language (XSD) schemas in the XmlSchemaSet.
 type: docs

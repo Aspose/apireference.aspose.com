@@ -1,12 +1,12 @@
 ---
-title: get_LavenderBlush
+title: get_LavenderBlush()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFFFF0F5.
 type: docs
 weight: 1028
 url: /cpp/system.drawing/color/get_lavenderblush/
 ---
-## Color::get_LavenderBlush method
+## Color::get_LavenderBlush() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFFFF0F5.

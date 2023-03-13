@@ -1,12 +1,12 @@
 ---
-title: IsAlphaPixelFormat
+title: IsAlphaPixelFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified pixel format contains alpha information.
 type: docs
 weight: 365
 url: /cpp/system.drawing/image/isalphapixelformat/
 ---
-## Image::IsAlphaPixelFormat method
+## Image::IsAlphaPixelFormat([Imaging::PixelFormat](../../../system.drawing.imaging/pixelformat/)) method
 
 
 Determines if the specified pixel format contains alpha information.

@@ -1,12 +1,12 @@
 ---
-title: Reporting
+title: Reporting()
 second_title: Aspose.Slides for C++ API Reference
 description: Reports a progress update.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iprogresscallback/reporting/
 ---
-## IProgressCallback::Reporting method
+## IProgressCallback::Reporting(**double**) method
 
 
 Reports a progress update.

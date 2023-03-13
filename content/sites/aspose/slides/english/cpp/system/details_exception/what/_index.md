@@ -1,12 +1,12 @@
 ---
-title: what
+title: what()
 second_title: Aspose.Slides for C++ API Reference
 description: "Implements what() method which is called by ExceptionWrapper class. Despite of the fact that this class is not inherited from std::exception derived classes can use protected/private members to implement their logic. Moving this method implementation to the ExceptionWrapper may broke that logic."
 type: docs
 weight: 92
 url: /cpp/system/details_exception/what/
 ---
-## Details_Exception::what method
+## Details_Exception::what() const method
 
 
 Implements [what()](./) method which is called by [ExceptionWrapper](../../exceptionwrapper/) class. Despite of the fact that this class is not inherited from std::exception derived classes can use protected/private members to implement their logic. Moving this method implementation to the [ExceptionWrapper](../../exceptionwrapper/) may broke that logic.

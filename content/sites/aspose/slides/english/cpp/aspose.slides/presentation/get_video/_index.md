@@ -1,12 +1,12 @@
 ---
-title: get_Video
+title: get_Video()
 second_title: Aspose.Slides for C++ API Reference
 description: "Return embedded video file in the presentation at the specified index. Read-only Aspose::Slides::IVideo"
 type: docs
-weight: 573
+weight: 586
 url: /cpp/aspose.slides/presentation/get_video/
 ---
-## Presentation::get_Video method
+## Presentation::get_Video(**int32_t**) method
 
 
 Return embedded video file in the presentation at the specified index. Read-only [Aspose::Slides::IVideo](../../ivideo/)

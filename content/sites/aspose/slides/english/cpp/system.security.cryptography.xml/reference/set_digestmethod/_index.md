@@ -1,12 +1,12 @@
 ---
-title: set_DigestMethod
+title: set_DigestMethod()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 92
 url: /cpp/system.security.cryptography.xml/reference/set_digestmethod/
 ---
-## Reference::set_DigestMethod method
+## Reference::set_DigestMethod([String](../../../system/string/)) method
 
 
 

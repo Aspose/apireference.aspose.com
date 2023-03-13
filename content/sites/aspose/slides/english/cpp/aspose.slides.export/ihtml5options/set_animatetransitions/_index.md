@@ -1,12 +1,12 @@
 ---
-title: set_AnimateTransitions
+title: set_AnimateTransitions()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets transitions animation option. Write bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/ihtml5options/set_animatetransitions/
 ---
-## IHtml5Options::set_AnimateTransitions method
+## IHtml5Options::set_AnimateTransitions(**bool**) method
 
 
 Sets transitions animation option. Write **bool**.

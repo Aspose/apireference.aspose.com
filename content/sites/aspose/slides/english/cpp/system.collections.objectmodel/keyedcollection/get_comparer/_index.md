@@ -1,12 +1,12 @@
 ---
-title: get_Comparer
+title: get_Comparer()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets comparer.
 type: docs
 weight: 14
 url: /cpp/system.collections.objectmodel/keyedcollection/get_comparer/
 ---
-## KeyedCollection::get_Comparer method
+## KeyedCollection::get_Comparer() method
 
 
 Gets comparer.

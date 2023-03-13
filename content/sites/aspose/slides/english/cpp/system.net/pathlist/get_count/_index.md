@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of items.
 type: docs
 weight: 1
 url: /cpp/system.net/pathlist/get_count/
 ---
-## PathList::get_Count method
+## PathList::get_Count() const method
 
 
 Returns the number of items.

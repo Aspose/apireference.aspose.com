@@ -1,5 +1,5 @@
 ---
-title: ConvertTimeToUtc
+title: ConvertTimeToUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts time to UTC-time.
 type: docs

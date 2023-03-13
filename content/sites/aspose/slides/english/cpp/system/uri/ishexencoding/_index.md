@@ -1,12 +1,12 @@
 ---
-title: IsHexEncoding
+title: IsHexEncoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if a character in the specified string at the specified position is hexadecimal encoded.
 type: docs
 weight: 456
 url: /cpp/system/uri/ishexencoding/
 ---
-## Uri::IsHexEncoding method
+## Uri::IsHexEncoding(const [String](../../string/)\&, **int32_t**) method
 
 
 Determines if a character in the specified string at the specified position is hexadecimal encoded.

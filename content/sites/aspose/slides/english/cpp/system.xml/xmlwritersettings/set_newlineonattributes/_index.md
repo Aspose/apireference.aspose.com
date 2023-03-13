@@ -1,12 +1,12 @@
 ---
-title: set_NewLineOnAttributes
+title: set_NewLineOnAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether to write attributes on a new line.
 type: docs
 weight: 170
 url: /cpp/system.xml/xmlwritersettings/set_newlineonattributes/
 ---
-## XmlWriterSettings::set_NewLineOnAttributes method
+## XmlWriterSettings::set_NewLineOnAttributes(**bool**) method
 
 
 Sets a value indicating whether to write attributes on a new line.

@@ -1,12 +1,12 @@
 ---
-title: set_Language
+title: set_Language()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the xml:lang attribute. This serves as an indicator of the language used in the contents."
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemadocumentation/set_language/
 ---
-## XmlSchemaDocumentation::set_Language method
+## XmlSchemaDocumentation::set_Language(const [String](../../../system/string/)\&) method
 
 
 Sets the **xml:lang** attribute. This serves as an indicator of the language used in the contents.

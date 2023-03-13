@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hash code for the current object.
 type: docs
 weight: 274
 url: /cpp/system/nullable/gethashcode/
 ---
-## Nullable::GetHashCode method
+## Nullable::GetHashCode() const method
 
 
 Returns a hash code for the current object.

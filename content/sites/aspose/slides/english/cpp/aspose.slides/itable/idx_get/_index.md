@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the cell at the specified column and row indexes. Read-only ICell.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/itable/idx_get/
 ---
-## ITable::idx_get method
+## ITable::idx_get(**int32_t**, **int32_t**) method
 
 
 Returns the cell at the specified column and row indexes. Read-only [ICell](../../icell/).

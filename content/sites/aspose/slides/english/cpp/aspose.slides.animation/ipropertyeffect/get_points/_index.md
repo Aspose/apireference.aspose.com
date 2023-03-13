@@ -1,12 +1,12 @@
 ---
-title: get_Points
+title: get_Points()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the points of the animation. Read IPointCollection.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/ipropertyeffect/get_points/
 ---
-## IPropertyEffect::get_Points method
+## IPropertyEffect::get_Points() method
 
 
 Specifies the points of the animation. Read [IPointCollection](../../ipointcollection/).

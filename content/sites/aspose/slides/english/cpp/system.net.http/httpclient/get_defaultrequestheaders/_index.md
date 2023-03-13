@@ -1,12 +1,12 @@
 ---
-title: get_DefaultRequestHeaders
+title: get_DefaultRequestHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the headers sent with each request.
 type: docs
 weight: 1
 url: /cpp/system.net.http/httpclient/get_defaultrequestheaders/
 ---
-## HttpClient::get_DefaultRequestHeaders method
+## HttpClient::get_DefaultRequestHeaders() method
 
 
 Gets the headers sent with each request.

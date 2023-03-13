@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the current object.
 type: docs
 weight: 287
 url: /cpp/system.drawing.imaging/imageattributes/clone/
 ---
-## ImageAttributes::Clone method
+## ImageAttributes::Clone() method
 
 
 Creates a copy of the current object.

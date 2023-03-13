@@ -1,5 +1,5 @@
 ---
-title: ValidateWhitespace
+title: ValidateWhitespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Validates whether the white space in the string specified is allowed in the current element context, and accumulates the white space for validation if the current element has simple content.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_LanguageId
+title: set_LanguageId()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the Id of a proofing language. Used for checking spelling and grammar. Write System::String."
 type: docs
 weight: 534
 url: /cpp/aspose.slides/ibaseportionformat/set_languageid/
 ---
-## IBasePortionFormat::set_LanguageId method
+## IBasePortionFormat::set_LanguageId([System::String](../../../system/string/)) method
 
 
 Sets the Id of a proofing language. Used for checking spelling and grammar. Write [System::String](../../../system/string/).

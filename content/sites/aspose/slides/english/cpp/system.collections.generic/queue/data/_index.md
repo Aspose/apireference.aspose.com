@@ -1,5 +1,5 @@
 ---
-title: data
+title: data()
 second_title: Aspose.Slides for C++ API Reference
 description: Underlying data structure accessor.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_AnyAttribute
+title: set_AnyAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlSchemaAnyAttribute to be used for the attribute value.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemasimplecontentextension/set_anyattribute/
 ---
-## XmlSchemaSimpleContentExtension::set_AnyAttribute method
+## XmlSchemaSimpleContentExtension::set_AnyAttribute(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)\>\&) method
 
 
 Sets the [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/) to be used for the attribute value.

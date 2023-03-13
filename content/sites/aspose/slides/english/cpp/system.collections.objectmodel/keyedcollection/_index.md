@@ -27,7 +27,6 @@ template<typename TKey,typename TItem>class KeyedCollection : public System::Col
 | Method | Description |
 | --- | --- |
 | void [Add](./add/)(const TItem\&) override | Add item to container end. |
-| virtual void [Add](../../system.collections.generic/icollection/add/)(const T\&) | Adds element into collection. |
 | [iterator](../../system.collections.generic/ienumerable/iterator/) [begin](../../system.collections.generic/ienumerable/begin/)() | Gets iterator pointing to the first element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../../system.collections.generic/ienumerable/getenumerator/) returns a copy-object of T. |
 | [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [begin](../../system.collections.generic/ienumerable/begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [const_iterator](../../system.collections.generic/ienumerable/const_iterator/) [cbegin](../../system.collections.generic/ienumerable/cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
@@ -37,9 +36,7 @@ template<typename TKey,typename TItem>class KeyedCollection : public System::Col
 |  [Collection](../collection/collection/)([SharedPtr](../../system/sharedptr/)\<[Generic::IList](../../system.collections.generic/ilist/)\<T\>\>) |  |
 | **bool** [Contains](./contains/)(TKey) | Checks if key is present in container. |
 | **bool** [Contains](../collection/contains/)(const T\&) const override | Checks if item is present in collection. |
-| virtual **bool** [Contains](../../system.collections.generic/icollection/contains/)(const T\&) const | Checks if element is present in collection. |
 | void [CopyTo](../collection/copyto/)([ArrayPtr](../../system/arrayptr/)\<T\>, int) override | Copies collection elements into existing array elements. |
-| virtual void [CopyTo](../../system.collections.generic/icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
 | [const_reverse_iterator](../collection/const_reverse_iterator/) [crbegin](../collection/crbegin/)() const | Gets a reverse iterator to the last const-qualified element of collection (first in reverse). |
 | [const_reverse_iterator](../collection/const_reverse_iterator/) [crend](../collection/crend/)() const | Gets a reverse iterator for a non-existent const-qualified element before the start of the collection. |
 | [iterator](../../system.collections.generic/ienumerable/iterator/) [end](../../system.collections.generic/ienumerable/end/)() | Gets iterator pointing right after the last element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../../system.collections.generic/ienumerable/getenumerator/) returns a copy-object of T. |
@@ -67,11 +64,8 @@ template<typename TKey,typename TItem>class KeyedCollection : public System::Col
 | TItem [idx_get](./idx_get/)(TKey) | Gets item at specific index. |
 | T [idx_get](../collection/idx_get/)(int) const override | Gets value at specified index. |
 | void [idx_set](../collection/idx_set/)(int, T) override | Sets value at specified index. |
-| virtual void [idx_set](../../system.collections.generic/ilist/idx_set/)(int, T) | Sets element at specified index. |
 | int [IndexOf](../collection/indexof/)(const T\&) const override | Looks for element in collection. |
-| virtual int [IndexOf](../../system.collections.generic/ilist/indexof/)(const T\&) const | Gets index of first appearance of item in container. |
 | void [Insert](../collection/insert/)(int, const T\&) override | Inserts item into specified position. |
-| virtual void [Insert](../../system.collections.generic/ilist/insert/)(int, const T\&) | Inserts element into specified position, shifting other elements. |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
 | **bool** [LINQ_All](../../system.collections.generic/ienumerable/linq_all/)(std::function\<**bool**(T)>) | Determines whether all elements of a sequence satisfy a condition. |
 | **bool** [LINQ_Any](../../system.collections.generic/ienumerable/linq_any/)() | Determines whether a sequence contains any elements. |
@@ -124,7 +118,6 @@ template<typename TKey,typename TItem>class KeyedCollection : public System::Col
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | **bool** [Remove](./remove/)(TKey) | Removes key from container. |
 | **bool** [Remove](../collection/remove/)(const T\&) override | Removes specific item. |
-| virtual **bool** [Remove](../../system.collections.generic/icollection/remove/)(const T\&) | Deletes element from collection. |
 | void [RemoveAt](../collection/removeat/)(int) override | Removes item at specific position. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
 | [reverse_iterator](../collection/reverse_iterator/) [rend](../collection/rend/)() | Gets a reverse iterator for a non-existent element before the start of the collection. |

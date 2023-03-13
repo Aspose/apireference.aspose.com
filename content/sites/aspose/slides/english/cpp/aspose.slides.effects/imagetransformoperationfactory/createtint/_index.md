@@ -1,12 +1,12 @@
 ---
-title: CreateTint
+title: CreateTint()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Tint effect.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createtint/
 ---
-## ImageTransformOperationFactory::CreateTint method
+## ImageTransformOperationFactory::CreateTint(**float**, **float**) method
 
 
 Creates [Tint](../../tint/) effect.

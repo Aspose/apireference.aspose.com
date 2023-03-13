@@ -1,12 +1,12 @@
 ---
-title: set_RepeatUntilNextClick
+title: set_RepeatUntilNextClick()
 second_title: Aspose.Slides for C++ API Reference
 description: This attribute specifies if the effect will repeat until the next click. Write bool.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.animation/itiming/set_repeatuntilnextclick/
 ---
-## ITiming::set_RepeatUntilNextClick method
+## ITiming::set_RepeatUntilNextClick(**bool**) method
 
 
 This attribute specifies if the effect will repeat until the next click. Write **bool**.

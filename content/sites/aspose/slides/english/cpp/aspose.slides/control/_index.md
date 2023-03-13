@@ -52,6 +52,7 @@ class Control : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slide
 | void [set_ClassId](./set_classid/)([System::Guid](../../system/guid/)) | Gets class id of this control. Read-only [System::Guid](../../system/guid/). |
 | void [set_Frame](./set_frame/)([System::SharedPtr](../../system/sharedptr/)\<[IShapeFrame](../ishapeframe/)\>) override | Sets control's frame. Write [IShapeFrame](../ishapeframe/). |
 | void [set_Name](./set_name/)([System::String](../../system/string/)) override | Sets the name of this control. Write [System::String](../../system/string/). |
+| void [set_Property](./set_property/)([System::String](../../system/string/), [System::String](../../system/string/)) override | Set an ActiveX property at the specified index. |
 | void [SetTemplateWeakPtr](./settemplateweakptr/)(**uint32_t**) override | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

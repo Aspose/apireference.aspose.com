@@ -1,7 +1,7 @@
 ---
-title: Enclose
+title: Enclose()
 second_title: Aspose.Slides for C++ API Reference
-description: Encloses child elements of this block in specified characters such as parenthesis or another characters as framing.
+description: Encloses child elements of this block in specified characters such as parenthesis or another characters as framing
 type: docs
 weight: 222
 url: /cpp/aspose.slides.mathtext/mathblock/enclose/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathblock/enclose/
 ## MathBlock::Enclose(char16_t, char16_t) method
 
 
-Encloses child elements of this block in specified characters such as parenthesis or another characters as framing.
+Encloses child elements of this block in specified characters such as parenthesis or another characters as framing
 
 ```cpp
 System::SharedPtr<IMathDelimiter> Aspose::Slides::MathText::MathBlock::Enclose(char16_t beginningCharacter, char16_t endingCharacter) override
@@ -46,7 +46,7 @@ auto delimiter = System::ExplicitCast<IMathElement>(block)->Enclose(u'[', u']');
 ## MathBlock::Enclose(char16_t, char16_t, char16_t) method
 
 
-Encloses child elements of this block in specified characters such as parenthesis or another as framing and delimit with a separator character.
+Encloses child elements of this block in specified characters such as parenthesis or another as framing and delimit with a separator character
 
 ```cpp
 System::SharedPtr<IMathDelimiter> Aspose::Slides::MathText::MathBlock::Enclose(char16_t beginningCharacter, char16_t endingCharacter, char16_t separatorCharacter) override

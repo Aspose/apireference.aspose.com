@@ -1,12 +1,12 @@
 ---
-title: StringToHGlobalAnsi
+title: StringToHGlobalAnsi()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies the contents of a specified string into unmanaged memory.
 type: docs
 weight: 196
 url: /cpp/system.runtime.interopservices/marshal/stringtohglobalansi/
 ---
-## Marshal::StringToHGlobalAnsi method
+## Marshal::StringToHGlobalAnsi(const [String](../../../system/string/)\&) method
 
 
 Copies the contents of a specified string into unmanaged memory.

@@ -1,12 +1,12 @@
 ---
-title: set_Type
+title: set_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets field's type. Write IFieldType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ifield/set_type/
 ---
-## IField::set_Type method
+## IField::set_Type([System::SharedPtr](../../../system/sharedptr/)\<[IFieldType](../../ifieldtype/)\>) method
 
 
 Sets field's type. Write [IFieldType](../../ifieldtype/).

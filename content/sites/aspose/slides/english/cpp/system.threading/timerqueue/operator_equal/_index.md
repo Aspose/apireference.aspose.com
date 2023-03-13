@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: No copying.
 type: docs
 weight: 40
 url: /cpp/system.threading/timerqueue/operator_equal/
 ---
-## TimerQueue::operator= method
+## TimerQueue::operator=(const [TimerQueue](../)\&) method
 
 
 No copying.

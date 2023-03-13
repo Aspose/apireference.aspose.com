@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the ViaHeaderValue class.
 type: docs
 weight: 118
 url: /cpp/system.net.http.headers/viaheadervalue/tryparse/
 ---
-## ViaHeaderValue::TryParse method
+## ViaHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ViaHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [ViaHeaderValue](../) class.

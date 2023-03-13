@@ -1,12 +1,12 @@
 ---
-title: get_Date
+title: get_Date()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a date value.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/rangeconditionheadervalue/get_date/
 ---
-## RangeConditionHeaderValue::get_Date method
+## RangeConditionHeaderValue::get_Date() method
 
 
 Returns a date value.

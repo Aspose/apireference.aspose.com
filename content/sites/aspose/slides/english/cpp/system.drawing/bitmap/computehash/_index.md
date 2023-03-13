@@ -1,12 +1,12 @@
 ---
-title: ComputeHash
+title: ComputeHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Computes the SHA1 hash value.
 type: docs
 weight: 274
 url: /cpp/system.drawing/bitmap/computehash/
 ---
-## Bitmap::ComputeHash method
+## Bitmap::ComputeHash() method
 
 
 Computes the SHA1 hash value.

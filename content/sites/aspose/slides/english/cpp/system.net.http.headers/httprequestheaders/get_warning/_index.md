@@ -1,12 +1,12 @@
 ---
-title: get_Warning
+title: get_Warning()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Warning' header.
 type: docs
 weight: 586
 url: /cpp/system.net.http.headers/httprequestheaders/get_warning/
 ---
-## HttpRequestHeaders::get_Warning method
+## HttpRequestHeaders::get_Warning() method
 
 
 Returns a value of the 'Warning' header.

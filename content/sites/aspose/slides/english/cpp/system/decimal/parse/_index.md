@@ -1,5 +1,5 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the string representation of a decimal number into an equivalent instance of Decimal class.
 type: docs

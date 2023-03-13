@@ -1,12 +1,12 @@
 ---
-title: get_EndCap
+title: get_EndCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates the ending line cap of the current Pen object.
 type: docs
 weight: 92
 url: /cpp/system.drawing/pen/get_endcap/
 ---
-## Pen::get_EndCap method
+## Pen::get_EndCap() const method
 
 
 Returns a value that indicates the ending line cap of the current [Pen](../) object.

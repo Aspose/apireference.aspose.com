@@ -1,12 +1,12 @@
 ---
-title: get_BeginArrowheadLength
+title: get_BeginArrowheadLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the arrowhead length at the beginning of a line. Read-only LineArrowheadLength.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/ilineformateffectivedata/get_beginarrowheadlength/
 ---
-## ILineFormatEffectiveData::get_BeginArrowheadLength method
+## ILineFormatEffectiveData::get_BeginArrowheadLength() method
 
 
 Returns the arrowhead length at the beginning of a line. Read-only [LineArrowheadLength](../../linearrowheadlength/).

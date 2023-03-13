@@ -1,12 +1,12 @@
 ---
-title: License
+title: License()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of this class.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/license/license/
 ---
-## License::License constructor
+## License::License() constructor
 
 
 Initializes a new instance of this class.

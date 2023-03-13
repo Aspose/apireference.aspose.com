@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts a Portion into the collection at the specified index.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/iportioncollection/insert/
 ---
-## IPortionCollection::Insert method
+## IPortionCollection::Insert(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../iportion/)\>) method
 
 
 Inserts a [Portion](../../portion/) into the collection at the specified index.

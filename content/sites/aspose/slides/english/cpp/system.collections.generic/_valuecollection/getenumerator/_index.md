@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator iterating through values.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/_valuecollection/getenumerator/
 ---
-## _ValueCollection::GetEnumerator method
+## _ValueCollection::GetEnumerator() method
 
 
 Gets enumerator iterating through values.

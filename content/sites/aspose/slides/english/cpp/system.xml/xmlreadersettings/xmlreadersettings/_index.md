@@ -1,12 +1,12 @@
 ---
-title: XmlReaderSettings
+title: XmlReaderSettings()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlReaderSettings class.
 type: docs
 weight: 430
 url: /cpp/system.xml/xmlreadersettings/xmlreadersettings/
 ---
-## XmlReaderSettings::XmlReaderSettings constructor
+## XmlReaderSettings::XmlReaderSettings() constructor
 
 
 Initializes a new instance of the [XmlReaderSettings](../) class.

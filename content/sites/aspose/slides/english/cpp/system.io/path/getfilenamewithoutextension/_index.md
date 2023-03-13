@@ -1,12 +1,12 @@
 ---
-title: GetFileNameWithoutExtension
+title: GetFileNameWithoutExtension()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name without extension of the file referenced by the specified path.
 type: docs
 weight: 66
 url: /cpp/system.io/path/getfilenamewithoutextension/
 ---
-## Path::GetFileNameWithoutExtension method
+## Path::GetFileNameWithoutExtension(const [String](../../../system/string/)\&) method
 
 
 Returns the name without extension of the file referenced by the specified path.

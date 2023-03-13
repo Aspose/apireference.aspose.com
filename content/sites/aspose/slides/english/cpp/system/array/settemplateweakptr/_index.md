@@ -1,12 +1,12 @@
 ---
-title: SetTemplateWeakPtr
+title: SetTemplateWeakPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Makes array treat stored pointers as weak (if applicable).
 type: docs
 weight: 66
 url: /cpp/system/array/settemplateweakptr/
 ---
-## Array::SetTemplateWeakPtr method
+## Array::SetTemplateWeakPtr(**uint32_t**) method
 
 
 Makes array treat stored pointers as weak (if applicable).

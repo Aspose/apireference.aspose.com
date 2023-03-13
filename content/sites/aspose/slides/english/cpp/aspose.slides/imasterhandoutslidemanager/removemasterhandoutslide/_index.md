@@ -1,12 +1,12 @@
 ---
-title: RemoveMasterHandoutSlide
+title: RemoveMasterHandoutSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes master handout slide.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/imasterhandoutslidemanager/removemasterhandoutslide/
 ---
-## IMasterHandoutSlideManager::RemoveMasterHandoutSlide method
+## IMasterHandoutSlideManager::RemoveMasterHandoutSlide() method
 
 
 Removes master handout slide.

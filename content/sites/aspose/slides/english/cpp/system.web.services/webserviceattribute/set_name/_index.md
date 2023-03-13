@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XML Web service's name.
 type: docs
 weight: 40
 url: /cpp/system.web.services/webserviceattribute/set_name/
 ---
-## WebServiceAttribute::set_Name method
+## WebServiceAttribute::set_Name([String](../../../system/string/)) method
 
 
 Sets the XML [Web](../../../system.web/) service's name.

@@ -1,12 +1,12 @@
 ---
-title: ResolveVariable
+title: ResolveVariable()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, resolves a variable reference and returns an IXsltContextVariable representing the variable.
 type: docs
 weight: 14
 url: /cpp/system.xml.xsl/xsltcontext/resolvevariable/
 ---
-## XsltContext::ResolveVariable method
+## XsltContext::ResolveVariable([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 When overridden in a derived class, resolves a variable reference and returns an [IXsltContextVariable](../../ixsltcontextvariable/) representing the variable.

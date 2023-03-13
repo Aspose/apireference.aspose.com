@@ -1,12 +1,12 @@
 ---
-title: ReadContentAsLong
+title: ReadContentAsLong()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the text content at the current position as a 64-bit signed integer.
 type: docs
 weight: 430
 url: /cpp/system.xml/xmlreader/readcontentaslong/
 ---
-## XmlReader::ReadContentAsLong method
+## XmlReader::ReadContentAsLong() method
 
 
 Reads the text content at the current position as a 64-bit signed integer.

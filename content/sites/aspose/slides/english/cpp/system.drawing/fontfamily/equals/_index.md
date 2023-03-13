@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current and the specified objects are identical.
 type: docs
 weight: 131
 url: /cpp/system.drawing/fontfamily/equals/
 ---
-## FontFamily::Equals method
+## FontFamily::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines if the current and the specified objects are identical.

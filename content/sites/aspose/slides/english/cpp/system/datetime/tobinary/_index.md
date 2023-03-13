@@ -1,12 +1,12 @@
 ---
-title: ToBinary
+title: ToBinary()
 second_title: Aspose.Slides for C++ API Reference
 description: Serializes the current object.
 type: docs
 weight: 404
 url: /cpp/system/datetime/tobinary/
 ---
-## DateTime::ToBinary method
+## DateTime::ToBinary() const method
 
 
 Serializes the current object.

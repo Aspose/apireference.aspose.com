@@ -68,6 +68,8 @@ class IVideoFrame : public virtual Aspose::Slides::IPictureFrame
 | virtual [Aspose::Slides::ShapeType](../shapetype/) [get_ShapeType](../igeometryshape/get_shapetype/)() | Returns the geometry preset type. Note: on value changing all adjustment values will reset to their default values. Read [Slides::ShapeType](../shapetype/). |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IBaseSlide](../ibaseslide/)\> [get_Slide](../islidecomponent/get_slide/)() | Returns the base slide. Read-only [IBaseSlide](../ibaseslide/). |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IThreeDFormat](../ithreedformat/)\> [get_ThreeDFormat](../ishape/get_threedformat/)() | Returns the [ThreeDFormat](../threedformat/) object that contains line formatting properties for a shape. Read-only [IThreeDFormat](../ithreedformat/). |
+| virtual **float** [get_TrimFromEnd](./get_trimfromend/)() | Trim end [ms] |
+| virtual **float** [get_TrimFromStart](./get_trimfromstart/)() | Trim start [ms] |
 | virtual **uint32_t** [get_UniqueId](../ishape/get_uniqueid/)() | Gets unique shape identifier in presentation scope. Read-only **uint32_t**. See also [IShape::get_OfficeInteropShapeId](../ishape/get_officeinteropshapeid/) for getting unique shape identifier in slide scope. |
 | virtual [AudioVolumeMode](../audiovolumemode/) [get_Volume](./get_volume/)() | Returns the audio volume. Read [AudioVolumeMode](../audiovolumemode/). |
 | virtual **float** [get_Width](../ishape/get_width/)() | Returns the width of the shape. Read **float**. |
@@ -115,6 +117,8 @@ class IVideoFrame : public virtual Aspose::Slides::IPictureFrame
 | virtual void [set_RewindVideo](./set_rewindvideo/)(**bool**) | Determines whether a video is automatically rewinded to start as soon as the movie has finished playing. Write **bool**. |
 | virtual void [set_Rotation](../ishape/set_rotation/)(**float**) | Sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Write **float**. |
 | virtual void [set_ShapeType](../igeometryshape/set_shapetype/)([Aspose::Slides::ShapeType](../shapetype/)) | Sets the geometry preset type. Note: on value changing all adjustment values will reset to their default values. Write [Slides::ShapeType](../shapetype/). |
+| virtual void [set_TrimFromEnd](./set_trimfromend/)(**float**) | Trim end [ms] |
+| virtual void [set_TrimFromStart](./set_trimfromstart/)(**float**) | Trim start [ms] |
 | virtual void [set_Volume](./set_volume/)([AudioVolumeMode](../audiovolumemode/)) | Sets the audio volume. Write [AudioVolumeMode](../audiovolumemode/). |
 | virtual void [set_Width](../ishape/set_width/)(**float**) | Sets the width of the shape. Write **float**. |
 | virtual void [set_X](../ishape/set_x/)(**float**) | Sets the x-coordinate of the upper-left corner of the shape. Write **float**. |

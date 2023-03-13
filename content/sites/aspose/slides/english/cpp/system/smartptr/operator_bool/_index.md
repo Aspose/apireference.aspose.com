@@ -1,12 +1,12 @@
 ---
-title: operator bool
+title: operator bool()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if pointer is not null.
 type: docs
 weight: 209
 url: /cpp/system/smartptr/operator_bool/
 ---
-## SmartPtr::operator bool method
+## SmartPtr::operator bool() const method
 
 
 Checks if pointer is not null.

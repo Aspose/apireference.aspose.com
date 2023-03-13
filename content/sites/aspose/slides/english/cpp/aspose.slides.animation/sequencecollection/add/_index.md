@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Add new interactive sequence. Read/write Sequence.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/sequencecollection/add/
 ---
-## SequenceCollection::Add method
+## SequenceCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
 
 
 Add new interactive sequence. Read/write [Sequence](../../sequence/).

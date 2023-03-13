@@ -1,12 +1,12 @@
 ---
-title: ToVector2d64d
+title: ToVector2d64d()
 second_title: Aspose.Slides for C++ API Reference
 description: To Vector2d64d
 type: docs
 weight: 27
 url: /cpp/aspose.slides.drawing/vector2d32f/tovector2d64d/
 ---
-## Vector2d32f::ToVector2d64d method
+## Vector2d32f::ToVector2d64d() method
 
 
 To [Vector2d64d](../../vector2d64d/)

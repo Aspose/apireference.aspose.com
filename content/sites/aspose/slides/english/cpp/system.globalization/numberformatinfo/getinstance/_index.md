@@ -1,12 +1,12 @@
 ---
-title: GetInstance
+title: GetInstance()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets formatter associated with format provider.
 type: docs
 weight: 794
 url: /cpp/system.globalization/numberformatinfo/getinstance/
 ---
-## NumberFormatInfo::GetInstance method
+## NumberFormatInfo::GetInstance(const [IFormatProviderPtr](../../../system/iformatproviderptr/)\&) method
 
 
 Gets formatter associated with format provider.

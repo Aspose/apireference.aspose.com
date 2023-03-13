@@ -1,12 +1,12 @@
 ---
-title: IsStartNCNameChar
+title: IsStartNCNameChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the passed-in character is a valid Start Name Character type.
 type: docs
 weight: 144
 url: /cpp/system.xml/xmlconvert/isstartncnamechar/
 ---
-## XmlConvert::IsStartNCNameChar method
+## XmlConvert::IsStartNCNameChar(char16_t) method
 
 
 Checks if the passed-in character is a valid Start Name Character type.

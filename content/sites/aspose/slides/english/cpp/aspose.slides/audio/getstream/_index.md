@@ -1,12 +1,12 @@
 ---
-title: GetStream
+title: GetStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns Stream stream for reading. Use 'using' or close stream after using.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/audio/getstream/
 ---
-## Audio::GetStream method
+## Audio::GetStream() method
 
 
 Returns Stream stream for reading. Use 'using' or close stream after using.

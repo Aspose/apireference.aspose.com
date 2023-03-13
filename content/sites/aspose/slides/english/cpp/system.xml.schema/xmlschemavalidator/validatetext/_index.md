@@ -1,5 +1,5 @@
 ---
-title: ValidateText
+title: ValidateText()
 second_title: Aspose.Slides for C++ API Reference
 description: Validates whether the text string specified is allowed in the current element context, and accumulates the text for validation if the current element has simple content.
 type: docs

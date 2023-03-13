@@ -1,12 +1,12 @@
 ---
-title: get_Hidden
+title: get_Hidden()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the shape is hidden. Read bool.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/ishape/get_hidden/
 ---
-## IShape::get_Hidden method
+## IShape::get_Hidden() method
 
 
 Determines whether the shape is hidden. Read **bool**.

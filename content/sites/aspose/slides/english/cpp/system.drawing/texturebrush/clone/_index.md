@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the current object.
 type: docs
 weight: 157
 url: /cpp/system.drawing/texturebrush/clone/
 ---
-## TextureBrush::Clone method
+## TextureBrush::Clone() method
 
 
 Creates a copy of the current object.

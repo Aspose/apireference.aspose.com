@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: Assigns the value represented by the specified object to the current object.
 type: docs
 weight: 27
 url: /cpp/system/decimal/operator_equal/
 ---
-## Decimal::operator= method
+## Decimal::operator=(const [Decimal](../)\&) method
 
 
 Assigns the value represented by the specified object to the current object.

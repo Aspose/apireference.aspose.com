@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes all elements in list.
 type: docs
 weight: 118
 url: /cpp/system.collections.generic/linkedlist/clear/
 ---
-## LinkedList::Clear method
+## LinkedList::Clear() method
 
 
 Deletes all elements in list.

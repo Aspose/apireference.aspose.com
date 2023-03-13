@@ -1,12 +1,12 @@
 ---
-title: get_Node
+title: get_Node()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlNode that is being added, removed or changed.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlnodechangedeventargs/get_node/
 ---
-## XmlNodeChangedEventArgs::get_Node method
+## XmlNodeChangedEventArgs::get_Node() method
 
 
 Returns the [XmlNode](../../xmlnode/) that is being added, removed or changed.

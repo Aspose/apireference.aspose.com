@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes behavior from a collection at the specified index.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/behaviorcollection/removeat/
 ---
-## BehaviorCollection::RemoveAt method
+## BehaviorCollection::RemoveAt(**int32_t**) method
 
 
 Removes behavior from a collection at the specified index.

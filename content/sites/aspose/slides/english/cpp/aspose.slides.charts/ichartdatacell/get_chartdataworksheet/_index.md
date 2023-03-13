@@ -1,12 +1,12 @@
 ---
-title: get_ChartDataWorksheet
+title: get_ChartDataWorksheet()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the worksheet. Read-only IChartDataWorksheet.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/ichartdatacell/get_chartdataworksheet/
 ---
-## IChartDataCell::get_ChartDataWorksheet method
+## IChartDataCell::get_ChartDataWorksheet() method
 
 
 Gets the worksheet. Read-only [IChartDataWorksheet](../../ichartdataworksheet/).

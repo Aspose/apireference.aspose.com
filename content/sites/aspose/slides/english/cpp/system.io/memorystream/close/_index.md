@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the stream.
 type: docs
 weight: 261
 url: /cpp/system.io/memorystream/close/
 ---
-## MemoryStream::Close method
+## MemoryStream::Close() method
 
 
 Closes the stream.

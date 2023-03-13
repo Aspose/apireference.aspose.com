@@ -1,12 +1,12 @@
 ---
-title: get_BaseURI
+title: get_BaseURI()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the base URI for the current node.
 type: docs
 weight: 196
 url: /cpp/system.xml.xpath/xpathnavigator/get_baseuri/
 ---
-## XPathNavigator::get_BaseURI method
+## XPathNavigator::get_BaseURI() method
 
 
 When overridden in a derived class, gets the base URI for the current node.

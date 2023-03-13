@@ -1,12 +1,12 @@
 ---
-title: GenerateKey
+title: GenerateKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Generates a new public/private key pair for the specified curve.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/ecdsa/generatekey/
 ---
-## ECDsa::GenerateKey method
+## ECDsa::GenerateKey(const [ECCurve](../../eccurve/)\&) method
 
 
 Generates a new public/private key pair for the specified curve.

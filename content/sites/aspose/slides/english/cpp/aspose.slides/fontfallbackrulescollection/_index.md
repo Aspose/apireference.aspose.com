@@ -1,7 +1,7 @@
 ---
 title: FontFallBackRulesCollection
 second_title: Aspose.Slides for C++ API Reference
-description: Represents a collection of FontFallBack rules, defined by user.
+description: Represents a collection of FontFallBack rules, defined by user
 type: docs
 weight: 898
 url: /cpp/aspose.slides/fontfallbackrulescollection/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/fontfallbackrulescollection/
 ## FontFallBackRulesCollection class
 
 
-Represents a collection of FontFallBack rules, defined by user.
+Represents a collection of FontFallBack rules, defined by user
 
 ```cpp
 class FontFallBackRulesCollection : public Aspose::Slides::IFontFallBackRulesCollection

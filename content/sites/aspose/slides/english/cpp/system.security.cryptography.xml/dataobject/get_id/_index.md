@@ -1,12 +1,12 @@
 ---
-title: get_Id
+title: get_Id()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.xml/dataobject/get_id/
 ---
-## DataObject::get_Id method
+## DataObject::get_Id() method
 
 
 

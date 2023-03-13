@@ -1,12 +1,12 @@
 ---
-title: get_Attributes
+title: get_Attributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets tag attributes.
 type: docs
 weight: 14
 url: /cpp/system.security/securityelement/get_attributes/
 ---
-## SecurityElement::get_Attributes method
+## SecurityElement::get_Attributes() method
 
 
 Gets tag attributes.

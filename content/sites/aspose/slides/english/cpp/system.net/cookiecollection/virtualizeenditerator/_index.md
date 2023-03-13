@@ -1,12 +1,12 @@
 ---
-title: virtualizeEndIterator
+title: virtualizeEndIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the implementation of end iterator for the current container.
 type: docs
 weight: 183
 url: /cpp/system.net/cookiecollection/virtualizeenditerator/
 ---
-## CookieCollection::virtualizeEndIterator method
+## CookieCollection::virtualizeEndIterator() method
 
 
 Gets the implementation of end iterator for the current container.

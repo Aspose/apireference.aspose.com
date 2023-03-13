@@ -1,12 +1,12 @@
 ---
-title: get_LinearGradientAngle
+title: get_LinearGradientAngle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the angle of a gradient. Read float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/igradientformat/get_lineargradientangle/
 ---
-## IGradientFormat::get_LinearGradientAngle method
+## IGradientFormat::get_LinearGradientAngle() method
 
 
 Returns the angle of a gradient. Read **float**.

@@ -1,12 +1,12 @@
 ---
-title: SetLength
+title: SetLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the length of the stream represented by the current object.
 type: docs
 weight: 352
 url: /cpp/system.net.security/sslstream/setlength/
 ---
-## SslStream::SetLength method
+## SslStream::SetLength(**int64_t**) method
 
 
 Sets the length of the stream represented by the current object.

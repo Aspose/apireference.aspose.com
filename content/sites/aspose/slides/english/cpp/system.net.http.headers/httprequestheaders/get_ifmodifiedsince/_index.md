@@ -1,12 +1,12 @@
 ---
-title: get_IfModifiedSince
+title: get_IfModifiedSince()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'If-Modified-Since' header.
 type: docs
 weight: 183
 url: /cpp/system.net.http.headers/httprequestheaders/get_ifmodifiedsince/
 ---
-## HttpRequestHeaders::get_IfModifiedSince method
+## HttpRequestHeaders::get_IfModifiedSince() method
 
 
 Gets a value of the 'If-Modified-Since' header.

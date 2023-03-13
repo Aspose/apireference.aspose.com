@@ -1,12 +1,12 @@
 ---
-title: get_Server
+title: get_Server()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the underlying network socket.
 type: docs
 weight: 1
 url: /cpp/system.net.sockets/tcplistener/get_server/
 ---
-## TcpListener::get_Server method
+## TcpListener::get_Server() method
 
 
 Returns the underlying network socket.

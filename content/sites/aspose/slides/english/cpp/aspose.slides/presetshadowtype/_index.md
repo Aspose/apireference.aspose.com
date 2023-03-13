@@ -21,8 +21,8 @@ enum class PresetShadowType
 | --- | --- | --- |
 | TopLeftDropShadow | 0 | Represents Top Left Drop Shadow. |
 | TopLeftLargeDropShadow | 1 | Represents Top Left Large Drop Shadow. |
-| BackLeftLongPerspectiveShadow | 2 | Represents Back Left Long Perspective Shadow. |
-| BackRightLongPerspectiveShadow | 3 | Represents Back Right Long Perspective Shadow. |
+| BackLeftLongPerspectiveShadow | 2 | Represents Back Left Long Perspective Shadow |
+| BackRightLongPerspectiveShadow | 3 | Represents Back Right Long Perspective Shadow |
 | TopLeftDoubleDropShadow | 4 | Represents Top Left Double Drop Shadow. |
 | BottomRightSmallDropShadow | 5 | Represents Bottom Right Small Drop Shadow. |
 | FrontLeftLongPerspectiveShadow | 6 | Represents Front Left Long Perspective Shadow. |

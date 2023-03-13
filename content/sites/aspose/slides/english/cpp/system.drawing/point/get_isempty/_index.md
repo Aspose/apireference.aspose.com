@@ -1,12 +1,12 @@
 ---
-title: get_IsEmpty
+title: get_IsEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if both X and Y coordinates values are equal to 0.
 type: docs
 weight: 14
 url: /cpp/system.drawing/point/get_isempty/
 ---
-## Point::get_IsEmpty method
+## Point::get_IsEmpty() const method
 
 
 Determines if both X and Y coordinates values are equal to 0.

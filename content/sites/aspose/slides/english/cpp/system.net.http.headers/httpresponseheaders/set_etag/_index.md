@@ -1,12 +1,12 @@
 ---
-title: set_ETag
+title: set_ETag()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'ETag' header.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/httpresponseheaders/set_etag/
 ---
-## HttpResponseHeaders::set_ETag method
+## HttpResponseHeaders::set_ETag([System::SharedPtr](../../../system/sharedptr/)\<[EntityTagHeaderValue](../../entitytagheadervalue/)\>) method
 
 
 Sets a value of the 'ETag' header.

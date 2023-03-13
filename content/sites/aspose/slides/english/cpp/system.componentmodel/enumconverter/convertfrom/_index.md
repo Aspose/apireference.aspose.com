@@ -1,12 +1,12 @@
 ---
-title: ConvertFrom
+title: ConvertFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: Does actual type conversion; not implemented.
 type: docs
 weight: 40
 url: /cpp/system.componentmodel/enumconverter/convertfrom/
 ---
-## EnumConverter::ConvertFrom method
+## EnumConverter::ConvertFrom(const [System::SharedPtr](../../../system/sharedptr/)\<[ITypeDescriptorContext](../../itypedescriptorcontext/)\>\&, const [System::SharedPtr](../../../system/sharedptr/)\<[System::Globalization::CultureInfo](../../../system.globalization/cultureinfo/)\>\&, const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&) method
 
 
 Does actual type conversion; not implemented.

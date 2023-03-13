@@ -1,12 +1,12 @@
 ---
-title: get_Orientation
+title: get_Orientation()
 second_title: Aspose.Slides for C++ API Reference
 description: "Orientation of transition split. Read Slides::Orientation."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.slideshow/splittransition/get_orientation/
 ---
-## SplitTransition::get_Orientation method
+## SplitTransition::get_Orientation() method
 
 
 Orientation of transition split. Read [Slides::Orientation](../../../aspose.slides/orientation/).

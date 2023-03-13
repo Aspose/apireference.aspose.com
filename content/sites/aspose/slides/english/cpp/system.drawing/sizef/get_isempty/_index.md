@@ -1,12 +1,12 @@
 ---
-title: get_IsEmpty
+title: get_IsEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if both width and hegiht values are equal to 0.
 type: docs
 weight: 14
 url: /cpp/system.drawing/sizef/get_isempty/
 ---
-## SizeF::get_IsEmpty method
+## SizeF::get_IsEmpty() const method
 
 
 Determines if both width and hegiht values are equal to 0.

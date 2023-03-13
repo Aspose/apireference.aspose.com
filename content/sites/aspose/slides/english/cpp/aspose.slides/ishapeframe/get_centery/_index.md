@@ -1,12 +1,12 @@
 ---
-title: get_CenterY
+title: get_CenterY()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Y coordinate of a frame's center. Read-only float.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/ishapeframe/get_centery/
 ---
-## IShapeFrame::get_CenterY method
+## IShapeFrame::get_CenterY() method
 
 
 Returns the Y coordinate of a frame's center. Read-only **float**.

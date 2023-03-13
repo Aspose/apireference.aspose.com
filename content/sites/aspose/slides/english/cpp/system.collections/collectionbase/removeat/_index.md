@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the element at the specified index of the collection instance. This method is not overridable.
 type: docs
 weight: 53
 url: /cpp/system.collections/collectionbase/removeat/
 ---
-## CollectionBase::RemoveAt method
+## CollectionBase::RemoveAt(**int32_t**) method
 
 
 Removes the element at the specified index of the collection instance. This method is not overridable.

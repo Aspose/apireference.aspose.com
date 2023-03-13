@@ -1,12 +1,12 @@
 ---
-title: get_CellFormat
+title: get_CellFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the CellFormat object that contains formatting properties for this cell. Read-only ICellFormat.
 type: docs
 weight: 365
 url: /cpp/aspose.slides/cell/get_cellformat/
 ---
-## Cell::get_CellFormat method
+## Cell::get_CellFormat() method
 
 
 Returns the [CellFormat](../../cellformat/) object that contains formatting properties for this cell. Read-only [ICellFormat](../../icellformat/).

@@ -1,12 +1,12 @@
 ---
-title: get_DarkSlateBlue
+title: get_DarkSlateBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF483D8B.
 type: docs
 weight: 443
 url: /cpp/system.drawing/brushes/get_darkslateblue/
 ---
-## Brushes::get_DarkSlateBlue method
+## Brushes::get_DarkSlateBlue() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF483D8B.

@@ -1,12 +1,12 @@
 ---
-title: get_HyperlinkQueries
+title: get_HyperlinkQueries()
 second_title: Aspose.Slides for C++ API Reference
 description: Provides easy access to all hyperlinks contained in all presentation slides (not in master, layout, notes slides). Read-only IHyperlinkQueries.
 type: docs
 weight: 313
 url: /cpp/aspose.slides/ipresentation/get_hyperlinkqueries/
 ---
-## IPresentation::get_HyperlinkQueries method
+## IPresentation::get_HyperlinkQueries() method
 
 
 Provides easy access to all hyperlinks contained in all presentation slides (not in master, layout, notes slides). Read-only [IHyperlinkQueries](../../ihyperlinkqueries/).

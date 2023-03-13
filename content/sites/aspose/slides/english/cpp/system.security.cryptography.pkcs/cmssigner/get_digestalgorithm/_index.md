@@ -1,12 +1,12 @@
 ---
-title: get_DigestAlgorithm
+title: get_DigestAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets hash algorithm using with signature.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography.pkcs/cmssigner/get_digestalgorithm/
 ---
-## CmsSigner::get_DigestAlgorithm method
+## CmsSigner::get_DigestAlgorithm() const method
 
 
 Gets hash algorithm using with signature.

@@ -1,12 +1,12 @@
 ---
-title: WriteBase64
+title: WriteBase64()
 second_title: Aspose.Slides for C++ API Reference
 description: Encodes the specified binary bytes as base64 and writes out the resulting text.
 type: docs
 weight: 430
 url: /cpp/system.xml/xmltextwriter/writebase64/
 ---
-## XmlTextWriter::WriteBase64 method
+## XmlTextWriter::WriteBase64([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**) method
 
 
 Encodes the specified binary bytes as base64 and writes out the resulting text.

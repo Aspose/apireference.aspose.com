@@ -1,12 +1,12 @@
 ---
-title: get_LightGoldenrodYellow
+title: get_LightGoldenrodYellow()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFAFAD2.
 type: docs
 weight: 859
 url: /cpp/system.drawing/brushes/get_lightgoldenrodyellow/
 ---
-## Brushes::get_LightGoldenrodYellow method
+## Brushes::get_LightGoldenrodYellow() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFAFAD2.

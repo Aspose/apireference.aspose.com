@@ -1,12 +1,12 @@
 ---
-title: WriteProcessingInstruction
+title: WriteProcessingInstruction()
 second_title: Aspose.Slides for C++ API Reference
 description: "When overridden in a derived class, writes out a processing instruction with a space between the name and text as follows: <?name text?>."
 type: docs
 weight: 196
 url: /cpp/system.xml/xmlwriter/writeprocessinginstruction/
 ---
-## XmlWriter::WriteProcessingInstruction method
+## XmlWriter::WriteProcessingInstruction([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 When overridden in a derived class, writes out a processing instruction with a space between the name and text as follows: **<?name text?>**.

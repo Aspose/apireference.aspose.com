@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current object and the specified object are equal, i.e. represent the same pair of width and hegiht values.
 type: docs
 weight: 79
 url: /cpp/system.drawing/size/equals/
 ---
-## Size::Equals method
+## Size::Equals(const [Size](../)\&) const method
 
 
 Determines if the current object and the specified object are equal, i.e. represent the same pair of width and hegiht values.

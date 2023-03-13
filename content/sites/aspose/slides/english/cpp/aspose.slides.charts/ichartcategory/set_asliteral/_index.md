@@ -1,12 +1,12 @@
 ---
-title: set_AsLiteral
+title: set_AsLiteral()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets AsLiteral if UseCell is false. Write System::Object."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/ichartcategory/set_asliteral/
 ---
-## IChartCategory::set_AsLiteral method
+## IChartCategory::set_AsLiteral([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Sets AsLiteral if UseCell is false. Write [System::Object](../../../system/object/).

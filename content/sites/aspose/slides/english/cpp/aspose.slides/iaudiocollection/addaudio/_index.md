@@ -1,5 +1,5 @@
 ---
-title: AddAudio
+title: AddAudio()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a copy of an audio file from an another presentation.
 type: docs

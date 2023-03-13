@@ -1,12 +1,12 @@
 ---
-title: CreateFromSignedFile
+title: CreateFromSignedFile()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates sertificate from the specified signed file.
 type: docs
 weight: 378
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/createfromsignedfile/
 ---
-## X509Certificate::CreateFromSignedFile method
+## X509Certificate::CreateFromSignedFile(const [String](../../../system/string/)\&) method
 
 
 Creates sertificate from the specified signed file.

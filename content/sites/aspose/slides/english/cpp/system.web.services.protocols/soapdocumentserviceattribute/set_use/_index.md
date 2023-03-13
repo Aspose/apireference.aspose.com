@@ -1,12 +1,12 @@
 ---
-title: set_Use
+title: set_Use()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the parameter formatting.
 type: docs
 weight: 66
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/set_use/
 ---
-## SoapDocumentServiceAttribute::set_Use method
+## SoapDocumentServiceAttribute::set_Use([Description::SoapBindingUse](../../../system.web.services.description/soapbindinguse/)) method
 
 
 Sets the parameter formatting.

@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes an image effect from a collection at the specified index.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/removeat/
 ---
-## IImageTransformOperationCollection::RemoveAt method
+## IImageTransformOperationCollection::RemoveAt(**int32_t**) method
 
 
 Removes an image effect from a collection at the specified index.

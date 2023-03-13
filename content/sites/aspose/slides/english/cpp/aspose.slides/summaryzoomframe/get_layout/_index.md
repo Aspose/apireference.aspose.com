@@ -1,12 +1,12 @@
 ---
-title: get_Layout
+title: get_Layout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets layout of Summary Zoom Sections in the frame. Default value is GridLayout.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/summaryzoomframe/get_layout/
 ---
-## SummaryZoomFrame::get_Layout method
+## SummaryZoomFrame::get_Layout() method
 
 
 Gets layout of Summary Zoom Sections in the frame. Default value is GridLayout.

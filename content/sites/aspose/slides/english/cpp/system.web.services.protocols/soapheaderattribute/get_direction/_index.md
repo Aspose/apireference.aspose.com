@@ -1,12 +1,12 @@
 ---
-title: get_Direction
+title: get_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the SOAP header direction.
 type: docs
 weight: 1
 url: /cpp/system.web.services.protocols/soapheaderattribute/get_direction/
 ---
-## SoapHeaderAttribute::get_Direction method
+## SoapHeaderAttribute::get_Direction() method
 
 
 Gets the SOAP header direction.

@@ -1,12 +1,12 @@
 ---
-title: get_MediumPurple
+title: get_MediumPurple()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF9370DB.
 type: docs
 weight: 1093
 url: /cpp/system.drawing/brushes/get_mediumpurple/
 ---
-## Brushes::get_MediumPurple method
+## Brushes::get_MediumPurple() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF9370DB.

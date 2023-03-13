@@ -1,12 +1,12 @@
 ---
-title: get_CheckCharacters
+title: get_CheckCharacters()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether to do character checking.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmlreadersettings/get_checkcharacters/
 ---
-## XmlReaderSettings::get_CheckCharacters method
+## XmlReaderSettings::get_CheckCharacters() method
 
 
 Returns a value indicating whether to do character checking.

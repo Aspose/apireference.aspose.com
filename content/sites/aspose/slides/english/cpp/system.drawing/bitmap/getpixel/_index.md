@@ -1,12 +1,12 @@
 ---
-title: GetPixel
+title: GetPixel()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the color of the specified pixel.
 type: docs
 weight: 144
 url: /cpp/system.drawing/bitmap/getpixel/
 ---
-## Bitmap::GetPixel method
+## Bitmap::GetPixel(int, int) method
 
 
 Returns the color of the specified pixel.

@@ -1,5 +1,5 @@
 ---
-title: BaseDictionary
+title: BaseDictionary()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates empty data structure.
 type: docs

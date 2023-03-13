@@ -1,15 +1,15 @@
 ---
-title: get_FillFocus
+title: get_FillFocus()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'fill.focus' property.
+description: Represents 'fill.focus' property
 type: docs
 weight: 638
 url: /cpp/aspose.slides.animation/behaviorproperty/get_fillfocus/
 ---
-## BehaviorProperty::get_FillFocus method
+## BehaviorProperty::get_FillFocus() method
 
 
-Represents 'fill.focus' property.
+Represents 'fill.focus' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_FillFocus()

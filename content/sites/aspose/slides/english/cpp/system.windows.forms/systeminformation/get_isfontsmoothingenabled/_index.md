@@ -1,12 +1,12 @@
 ---
-title: get_IsFontSmoothingEnabled
+title: get_IsFontSmoothingEnabled()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 443
 url: /cpp/system.windows.forms/systeminformation/get_isfontsmoothingenabled/
 ---
-## SystemInformation::get_IsFontSmoothingEnabled method
+## SystemInformation::get_IsFontSmoothingEnabled() method
 
 
 NOT IMPLEMENTED.

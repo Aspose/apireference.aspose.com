@@ -1,12 +1,12 @@
 ---
-title: get_CaptionButtonSize
+title: get_CaptionButtonSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 53
 url: /cpp/system.windows.forms/systeminformation/get_captionbuttonsize/
 ---
-## SystemInformation::get_CaptionButtonSize method
+## SystemInformation::get_CaptionButtonSize() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: get_Prefix
+title: get_Prefix()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the namespace prefix of this node.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlelement/get_prefix/
 ---
-## XmlElement::get_Prefix method
+## XmlElement::get_Prefix() method
 
 
 Returns the namespace prefix of this node.

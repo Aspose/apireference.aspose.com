@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective effect formatting data with the inheritance applied.
 type: docs
 weight: 430
 url: /cpp/aspose.slides/ieffectformat/geteffective/
 ---
-## IEffectFormat::GetEffective method
+## IEffectFormat::GetEffective() method
 
 
 Gets effective effect formatting data with the inheritance applied.

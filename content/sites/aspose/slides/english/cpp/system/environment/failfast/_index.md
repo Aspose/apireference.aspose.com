@@ -1,12 +1,12 @@
 ---
-title: FailFast
+title: FailFast()
 second_title: Aspose.Slides for C++ API Reference
 description: Aborts the current process.
 type: docs
 weight: 261
 url: /cpp/system/environment/failfast/
 ---
-## Environment::FailFast method
+## Environment::FailFast(const [String](../../string/)\&) method
 
 
 Aborts the current process.

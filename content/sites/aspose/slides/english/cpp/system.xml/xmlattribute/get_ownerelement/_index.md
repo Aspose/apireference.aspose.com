@@ -1,12 +1,12 @@
 ---
-title: get_OwnerElement
+title: get_OwnerElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlElement to which the attribute belongs.
 type: docs
 weight: 157
 url: /cpp/system.xml/xmlattribute/get_ownerelement/
 ---
-## XmlAttribute::get_OwnerElement method
+## XmlAttribute::get_OwnerElement() method
 
 
 Returns the [XmlElement](../../xmlelement/) to which the attribute belongs.

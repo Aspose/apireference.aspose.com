@@ -1,5 +1,5 @@
 ---
-title: IsDefined
+title: IsDefined()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified value is a member of enumeration type E.
 type: docs

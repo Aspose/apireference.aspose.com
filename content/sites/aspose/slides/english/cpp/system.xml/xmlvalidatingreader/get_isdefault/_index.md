@@ -1,12 +1,12 @@
 ---
-title: get_IsDefault
+title: get_IsDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the current node is an attribute that was generated from the default value defined in the document type definition (DTD) or schema.
 type: docs
 weight: 131
 url: /cpp/system.xml/xmlvalidatingreader/get_isdefault/
 ---
-## XmlValidatingReader::get_IsDefault method
+## XmlValidatingReader::get_IsDefault() method
 
 
 Returns a value indicating whether the current node is an attribute that was generated from the default value defined in the document type definition (DTD) or schema.

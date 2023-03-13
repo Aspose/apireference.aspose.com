@@ -1,12 +1,12 @@
 ---
-title: set_ResponseElementName
+title: set_ResponseElementName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the XML element associated with the SOAP response.
 type: docs
 weight: 170
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_responseelementname/
 ---
-## SoapDocumentMethodAttribute::set_ResponseElementName method
+## SoapDocumentMethodAttribute::set_ResponseElementName([String](../../../system/string/)) method
 
 
 Sets the name of the XML element associated with the SOAP response.

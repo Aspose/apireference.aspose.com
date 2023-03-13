@@ -1,12 +1,12 @@
 ---
-title: get_Message
+title: get_Message()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the contents of the xsl:message element."
 type: docs
 weight: 1
 url: /cpp/system.xml.xsl/xsltmessageencounteredeventargs/get_message/
 ---
-## XsltMessageEncounteredEventArgs::get_Message method
+## XsltMessageEncounteredEventArgs::get_Message() method
 
 
 Returns the contents of the **xsl:message** element.

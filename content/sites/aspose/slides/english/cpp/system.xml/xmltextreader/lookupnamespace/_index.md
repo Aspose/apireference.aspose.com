@@ -1,12 +1,12 @@
 ---
-title: LookupNamespace
+title: LookupNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Resolves a namespace prefix in the current element's scope.
 type: docs
 weight: 612
 url: /cpp/system.xml/xmltextreader/lookupnamespace/
 ---
-## XmlTextReader::LookupNamespace method
+## XmlTextReader::LookupNamespace(const [String](../../../system/string/)\&) method
 
 
 Resolves a namespace prefix in the current element's scope.

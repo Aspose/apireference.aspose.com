@@ -1,12 +1,12 @@
 ---
-title: get_PieSplitCustomPoint
+title: get_PieSplitCustomPoint()
 second_title: Aspose.Slides for C++ API Reference
 description: The custom split information for a pie-of-pie or bar-of-pie chart with a custom split. Returns data point that shall be drawn in the second pie or bar in a pie-of-pie or bar-of-pie chart at the specified index.
 type: docs
 weight: 859
 url: /cpp/aspose.slides.charts/ichartseries/get_piesplitcustompoint/
 ---
-## IChartSeries::get_PieSplitCustomPoint method
+## IChartSeries::get_PieSplitCustomPoint(**int32_t**) method
 
 
 The custom split information for a pie-of-pie or bar-of-pie chart with a custom split. Returns data point that shall be drawn in the second pie or bar in a pie-of-pie or bar-of-pie chart at the specified index.

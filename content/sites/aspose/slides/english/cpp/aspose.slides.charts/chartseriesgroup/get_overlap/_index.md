@@ -1,12 +1,12 @@
 ---
-title: get_Overlap
+title: get_Overlap()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies how much bars and columns shall overlap on 2-D charts (from -100 to 100). Read int8_t.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/chartseriesgroup/get_overlap/
 ---
-## ChartSeriesGroup::get_Overlap method
+## ChartSeriesGroup::get_Overlap() method
 
 
 Specifies how much bars and columns shall overlap on 2-D charts (from -100 to 100). Read **int8_t**.

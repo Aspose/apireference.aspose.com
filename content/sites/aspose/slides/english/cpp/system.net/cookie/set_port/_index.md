@@ -1,12 +1,12 @@
 ---
-title: set_Port
+title: set_Port()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'Port' attribute's value.
 type: docs
 weight: 287
 url: /cpp/system.net/cookie/set_port/
 ---
-## Cookie::set_Port method
+## Cookie::set_Port([String](../../../system/string/)) method
 
 
 Sets the 'Port' attribute's value.

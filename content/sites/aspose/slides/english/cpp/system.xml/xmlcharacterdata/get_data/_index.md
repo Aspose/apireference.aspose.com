@@ -1,12 +1,12 @@
 ---
-title: get_Data
+title: get_Data()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the data of the node.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlcharacterdata/get_data/
 ---
-## XmlCharacterData::get_Data method
+## XmlCharacterData::get_Data() method
 
 
 Returns the data of the node.

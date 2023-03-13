@@ -1,12 +1,12 @@
 ---
-title: ToDouble
+title: ToDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value of this instance to an equivalent double-precision floating-point number using the specified culture-specific formatting information..
 type: docs
 weight: 157
 url: /cpp/system/iconvertible/todouble/
 ---
-## IConvertible::ToDouble method
+## IConvertible::ToDouble([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to an equivalent double-precision floating-point number using the specified culture-specific formatting information..

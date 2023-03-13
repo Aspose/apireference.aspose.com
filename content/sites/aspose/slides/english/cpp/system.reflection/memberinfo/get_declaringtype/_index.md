@@ -1,12 +1,12 @@
 ---
-title: get_DeclaringType
+title: get_DeclaringType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets declaring type.
 type: docs
 weight: 14
 url: /cpp/system.reflection/memberinfo/get_declaringtype/
 ---
-## MemberInfo::get_DeclaringType method
+## MemberInfo::get_DeclaringType() const method
 
 
 Gets declaring type.

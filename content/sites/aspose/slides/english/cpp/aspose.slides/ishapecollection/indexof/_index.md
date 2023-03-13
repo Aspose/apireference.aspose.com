@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the zero-based index of the first occurrence of a shape in the collection.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/ishapecollection/indexof/
 ---
-## IShapeCollection::IndexOf method
+## IShapeCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../ishape/)\>) method
 
 
 Returns the zero-based index of the first occurrence of a shape in the collection.

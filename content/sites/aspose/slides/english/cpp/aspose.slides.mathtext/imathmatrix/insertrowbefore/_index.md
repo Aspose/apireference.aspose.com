@@ -1,12 +1,12 @@
 ---
-title: InsertRowBefore
+title: InsertRowBefore()
 second_title: Aspose.Slides for C++ API Reference
 description: Insert a new row before the specified one Initially all elements in the new row are null.
 type: docs
 weight: 274
 url: /cpp/aspose.slides.mathtext/imathmatrix/insertrowbefore/
 ---
-## IMathMatrix::InsertRowBefore method
+## IMathMatrix::InsertRowBefore(**int32_t**) method
 
 
 Insert a new row before the specified one Initially all elements in the new row are null.

@@ -1,12 +1,12 @@
 ---
-title: ResetTransform
+title: ResetTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets the current object's transform matrix so that it becomes an identity matrix.
 type: docs
 weight: 118
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/resettransform/
 ---
-## PathGradientBrush::ResetTransform method
+## PathGradientBrush::ResetTransform() method
 
 
 Resets the current object's transform matrix so that it becomes an identity matrix.

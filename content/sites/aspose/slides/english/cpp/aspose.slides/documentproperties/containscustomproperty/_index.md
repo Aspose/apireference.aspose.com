@@ -1,12 +1,12 @@
 ---
-title: ContainsCustomProperty
+title: ContainsCustomProperty()
 second_title: Aspose.Slides for C++ API Reference
 description: Check presents of a custom property with a specified name.
 type: docs
 weight: 599
 url: /cpp/aspose.slides/documentproperties/containscustomproperty/
 ---
-## DocumentProperties::ContainsCustomProperty method
+## DocumentProperties::ContainsCustomProperty([System::String](../../../system/string/)) method
 
 
 Check presents of a custom property with a specified name.

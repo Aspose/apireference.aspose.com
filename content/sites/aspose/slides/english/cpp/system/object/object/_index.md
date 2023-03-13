@@ -1,5 +1,5 @@
 ---
-title: Object
+title: Object()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates object. Initializes all internal data structures.
 type: docs

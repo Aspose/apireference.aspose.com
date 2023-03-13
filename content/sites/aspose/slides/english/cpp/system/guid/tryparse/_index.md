@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert the specified string into Guid object.
 type: docs
 weight: 157
 url: /cpp/system/guid/tryparse/
 ---
-## Guid::TryParse method
+## Guid::TryParse(const [String](../../string/)\&, [Guid](../)\&) method
 
 
 Tries to convert the specified string into [Guid](../) object.

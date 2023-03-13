@@ -1,15 +1,15 @@
 ---
-title: DeleteColumn
+title: DeleteColumn()
 second_title: Aspose.Slides for C++ API Reference
-description: Deletes the specified column.
+description: Deletes the specified column
 type: docs
 weight: 352
 url: /cpp/aspose.slides.mathtext/mathmatrix/deletecolumn/
 ---
-## MathMatrix::DeleteColumn method
+## MathMatrix::DeleteColumn(**int32_t**) method
 
 
-Deletes the specified column.
+Deletes the specified column
 
 ```cpp
 void Aspose::Slides::MathText::MathMatrix::DeleteColumn(int32_t columnIndex) override

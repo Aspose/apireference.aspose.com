@@ -1,12 +1,12 @@
 ---
-title: ~ScopeGuard
+title: ~ScopeGuard()
 second_title: Aspose.Slides for C++ API Reference
 description: Invokes the function object passed to the constructor.
 type: docs
 weight: 14
 url: /cpp/system/scopeguard/~scopeguard/
 ---
-## ScopeGuard::~ScopeGuard method
+## ScopeGuard::~ScopeGuard() method
 
 
 Invokes the function object passed to the constructor.

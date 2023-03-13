@@ -1,12 +1,12 @@
 ---
-title: set_FirstDayOfWeek
+title: set_FirstDayOfWeek()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets first day of week.
 type: docs
 weight: 430
 url: /cpp/system.globalization/datetimeformatinfo/set_firstdayofweek/
 ---
-## DateTimeFormatInfo::set_FirstDayOfWeek method
+## DateTimeFormatInfo::set_FirstDayOfWeek([DayOfWeek](../../../system/dayofweek/)) method
 
 
 Sets first day of week.

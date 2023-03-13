@@ -1,5 +1,5 @@
 ---
-title: Unbox
+title: Unbox()
 second_title: Aspose.Slides for C++ API Reference
 description: Unboxes value types after converting to Object. Implementation for enum types.
 type: docs

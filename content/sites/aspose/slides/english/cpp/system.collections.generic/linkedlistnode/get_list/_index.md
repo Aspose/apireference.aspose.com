@@ -1,12 +1,12 @@
 ---
-title: get_List
+title: get_List()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets containing list.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/linkedlistnode/get_list/
 ---
-## LinkedListNode::get_List method
+## LinkedListNode::get_List() const method
 
 
 Gets containing list.

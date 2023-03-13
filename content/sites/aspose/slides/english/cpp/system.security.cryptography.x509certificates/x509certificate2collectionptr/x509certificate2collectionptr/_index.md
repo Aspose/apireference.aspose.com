@@ -1,5 +1,5 @@
 ---
-title: X509Certificate2CollectionPtr
+title: X509Certificate2CollectionPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Null pointer constructor.
 type: docs

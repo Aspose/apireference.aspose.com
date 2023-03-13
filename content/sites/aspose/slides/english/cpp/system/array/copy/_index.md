@@ -1,5 +1,5 @@
 ---
-title: Copy
+title: Copy()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies the specified number of elements from the source array to the destination array.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_ScaleVertical
+title: get_ScaleVertical()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the vertical scaling factor, negative scaling causes a flip. (percents) Read double.
 type: docs
 weight: 339
 url: /cpp/aspose.slides.effects/reflection/get_scalevertical/
 ---
-## Reflection::get_ScaleVertical method
+## Reflection::get_ScaleVertical() method
 
 
 Specifies the vertical scaling factor, negative scaling causes a flip. (percents) Read **double**.

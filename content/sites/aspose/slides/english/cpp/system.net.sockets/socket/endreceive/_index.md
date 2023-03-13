@@ -1,5 +1,5 @@
 ---
-title: EndReceive
+title: EndReceive()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits until the specified asynchronous receive operation completes.
 type: docs

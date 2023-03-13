@@ -1,12 +1,12 @@
 ---
-title: get_UseFrameSize
+title: get_UseFrameSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the text frame will be included in a rendering area or not. Read bool. Default value is false.
 type: docs
 weight: 235
 url: /cpp/aspose.slides.export/isvgoptions/get_useframesize/
 ---
-## ISVGOptions::get_UseFrameSize method
+## ISVGOptions::get_UseFrameSize() method
 
 
 Determines whether the text frame will be included in a rendering area or not. Read **bool**. Default value is false.

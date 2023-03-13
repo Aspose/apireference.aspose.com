@@ -1,12 +1,12 @@
 ---
-title: Save
+title: Save()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves the current state of this object and returns the saved state.
 type: docs
 weight: 911
 url: /cpp/system.drawing/graphics/save/
 ---
-## Graphics::Save method
+## Graphics::Save() method
 
 
 Saves the current state of this object and returns the saved state.

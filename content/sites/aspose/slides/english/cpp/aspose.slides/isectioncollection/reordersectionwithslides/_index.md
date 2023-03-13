@@ -1,12 +1,12 @@
 ---
-title: ReorderSectionWithSlides
+title: ReorderSectionWithSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves section and its slides from the collection to the specified position.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/isectioncollection/reordersectionwithslides/
 ---
-## ISectionCollection::ReorderSectionWithSlides method
+## ISectionCollection::ReorderSectionWithSlides([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>, **int32_t**) method
 
 
 Moves section and its slides from the collection to the specified position.

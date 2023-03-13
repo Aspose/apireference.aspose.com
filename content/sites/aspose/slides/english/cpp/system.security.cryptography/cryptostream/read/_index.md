@@ -1,5 +1,5 @@
 ---
-title: Read
+title: Read()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads data from stream.
 type: docs

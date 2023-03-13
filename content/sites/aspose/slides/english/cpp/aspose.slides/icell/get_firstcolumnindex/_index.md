@@ -1,12 +1,12 @@
 ---
-title: get_FirstColumnIndex
+title: get_FirstColumnIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an index of first column, covered by the cell. Read-only int32_t.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/icell/get_firstcolumnindex/
 ---
-## ICell::get_FirstColumnIndex method
+## ICell::get_FirstColumnIndex() method
 
 
 Returns an index of first column, covered by the cell. Read-only **int32_t**.

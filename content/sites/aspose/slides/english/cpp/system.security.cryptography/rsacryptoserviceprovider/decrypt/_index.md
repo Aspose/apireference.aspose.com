@@ -1,5 +1,5 @@
 ---
-title: Decrypt
+title: Decrypt()
 second_title: Aspose.Slides for C++ API Reference
 description: Decrypts message. Not implemented.
 type: docs

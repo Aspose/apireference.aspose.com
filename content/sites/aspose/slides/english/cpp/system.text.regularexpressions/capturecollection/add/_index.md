@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables collection ammendment.
 type: docs
 weight: 14
 url: /cpp/system.text.regularexpressions/capturecollection/add/
 ---
-## CaptureCollection::Add method
+## CaptureCollection::Add(const [CapturePtr](../../captureptr/)\&) method
 
 
 Disables collection ammendment.

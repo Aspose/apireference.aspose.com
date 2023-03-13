@@ -1,15 +1,15 @@
 ---
-title: get_MathParagraph
+title: get_MathParagraph()
 second_title: Aspose.Slides for C++ API Reference
-description: Math paragraph.
+description: Math paragraph
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathportion/get_mathparagraph/
 ---
-## MathPortion::get_MathParagraph method
+## MathPortion::get_MathParagraph() method
 
 
-Math paragraph.
+Math paragraph
 
 ```cpp
 System::SharedPtr<IMathParagraph> Aspose::Slides::MathText::MathPortion::get_MathParagraph() override

@@ -1,12 +1,12 @@
 ---
-title: get_StackTrace
+title: get_StackTrace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string containing the stack trace.
 type: docs
 weight: 14
 url: /cpp/system/details_exception/get_stacktrace/
 ---
-## Details_Exception::get_StackTrace method
+## Details_Exception::get_StackTrace() const method
 
 
 Returns the string containing the stack trace.

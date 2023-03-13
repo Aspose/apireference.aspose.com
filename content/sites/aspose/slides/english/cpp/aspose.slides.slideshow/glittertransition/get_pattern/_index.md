@@ -1,12 +1,12 @@
 ---
-title: get_Pattern
+title: get_Pattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the shape of the visuals used during the transition. Read TransitionPattern.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.slideshow/glittertransition/get_pattern/
 ---
-## GlitterTransition::get_Pattern method
+## GlitterTransition::get_Pattern() method
 
 
 Specifies the shape of the visuals used during the transition. Read [TransitionPattern](../../transitionpattern/).

@@ -1,12 +1,12 @@
 ---
-title: Subscribe
+title: Subscribe()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/aspose.slides.patterns/iobservable/subscribe/
 ---
-## IObservable::Subscribe method
+## IObservable::Subscribe([System::SharedPtr](../../../system/sharedptr/)\<[IObserver](../../iobserver/)\>) method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: set_ReceiveBufferSize
+title: set_ReceiveBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the size of the buffer that is used for receiving data.
 type: docs
 weight: 92
 url: /cpp/system.net.sockets/tcpclient/set_receivebuffersize/
 ---
-## TcpClient::set_ReceiveBufferSize method
+## TcpClient::set_ReceiveBufferSize(**int32_t**) method
 
 
 Sets the size of the buffer that is used for receiving data.

@@ -1,12 +1,12 @@
 ---
-title: SoapHeaderAttribute
+title: SoapHeaderAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 79
 url: /cpp/system.web.services.protocols/soapheaderattribute/soapheaderattribute/
 ---
-## SoapHeaderAttribute::SoapHeaderAttribute constructor
+## SoapHeaderAttribute::SoapHeaderAttribute([String](../../../system/string/)) constructor
 
 
 Constructs a new instance.

@@ -1,12 +1,12 @@
 ---
-title: set_HideAtShowing
+title: set_HideAtShowing()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a VideoFrame is hidden. Write bool.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/videoframe/set_hideatshowing/
 ---
-## VideoFrame::set_HideAtShowing method
+## VideoFrame::set_HideAtShowing(**bool**) method
 
 
 Determines whether a [VideoFrame](../) is hidden. Write **bool**.

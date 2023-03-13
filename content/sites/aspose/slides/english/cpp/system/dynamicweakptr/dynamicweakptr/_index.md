@@ -1,5 +1,5 @@
 ---
-title: DynamicWeakPtr
+title: DynamicWeakPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates null smart pointer.
 type: docs
@@ -20,7 +20,7 @@ System::DynamicWeakPtr<T, trunkMode, weakLeafs>::DynamicWeakPtr(std::nullptr_t=n
 * Class [DynamicWeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Slides](../../../)
-## DynamicWeakPtr::DynamicWeakPtr([Pointee_](../pointee_/) *) constructor
+## DynamicWeakPtr::DynamicWeakPtr([Pointee_](../../smartptr/pointee_/) *) constructor
 
 
 Creates smart pointer pointing to given object.
@@ -34,11 +34,11 @@ System::DynamicWeakPtr<T, trunkMode, weakLeafs>::DynamicWeakPtr(Pointee_ *object
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| object | [Pointee_](../pointee_/) * | Pointee. |
+| object | [Pointee_](../../smartptr/pointee_/) * | Pointee. |
 
 ## See Also
 
-* Typedef [Pointee_](../pointee_/)
+* Typedef [Pointee_](../../smartptr/pointee_/)
 * Class [DynamicWeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Slides](../../../)

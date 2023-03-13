@@ -1,12 +1,12 @@
 ---
-title: operator/=
+title: operator/=()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 339
 url: /cpp/system/timespan/operator/_equal/
 ---
-## TimeSpan::operator/= method
+## TimeSpan::operator/=(**double**) method
 
 
 

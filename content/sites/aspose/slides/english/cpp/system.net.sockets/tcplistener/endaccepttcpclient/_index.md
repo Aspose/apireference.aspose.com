@@ -1,12 +1,12 @@
 ---
-title: EndAcceptTcpClient
+title: EndAcceptTcpClient()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits until the specified asynchronous accept operation completes.
 type: docs
 weight: 183
 url: /cpp/system.net.sockets/tcplistener/endaccepttcpclient/
 ---
-## TcpListener::EndAcceptTcpClient method
+## TcpListener::EndAcceptTcpClient([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
 
 
 Waits until the specified asynchronous accept operation completes.

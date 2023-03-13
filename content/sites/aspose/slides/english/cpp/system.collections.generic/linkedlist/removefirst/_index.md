@@ -1,12 +1,12 @@
 ---
-title: RemoveFirst
+title: RemoveFirst()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes first node from list.
 type: docs
 weight: 209
 url: /cpp/system.collections.generic/linkedlist/removefirst/
 ---
-## LinkedList::RemoveFirst method
+## LinkedList::RemoveFirst() method
 
 
 Removes first node from list.

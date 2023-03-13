@@ -1,5 +1,5 @@
 ---
-title: get_NewLine
+title: get_NewLine()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a line terminator string.
 type: docs

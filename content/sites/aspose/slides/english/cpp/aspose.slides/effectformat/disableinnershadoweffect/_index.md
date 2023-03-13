@@ -1,12 +1,12 @@
 ---
-title: DisableInnerShadowEffect
+title: DisableInnerShadowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables inner shadow effect.
 type: docs
 weight: 365
 url: /cpp/aspose.slides/effectformat/disableinnershadoweffect/
 ---
-## EffectFormat::DisableInnerShadowEffect method
+## EffectFormat::DisableInnerShadowEffect() method
 
 
 Disables inner shadow effect.

@@ -1,12 +1,12 @@
 ---
-title: get_NodeType
+title: get_NodeType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of the node.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlentityreference/get_nodetype/
 ---
-## XmlEntityReference::get_NodeType method
+## XmlEntityReference::get_NodeType() method
 
 
 Returns the type of the node.

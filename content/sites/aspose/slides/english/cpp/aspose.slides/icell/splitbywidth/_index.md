@@ -1,12 +1,12 @@
 ---
-title: SplitByWidth
+title: SplitByWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: Splits the cell by width.
 type: docs
 weight: 417
 url: /cpp/aspose.slides/icell/splitbywidth/
 ---
-## ICell::SplitByWidth method
+## ICell::SplitByWidth(**double**) method
 
 
 Splits the cell by width.

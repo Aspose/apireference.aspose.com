@@ -1,12 +1,12 @@
 ---
-title: get_ReceiveBufferSize
+title: get_ReceiveBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the size of the receive buffer.
 type: docs
 weight: 118
 url: /cpp/system.net/servicepoint/get_receivebuffersize/
 ---
-## ServicePoint::get_ReceiveBufferSize method
+## ServicePoint::get_ReceiveBufferSize() method
 
 
 Gets the size of the receive buffer.

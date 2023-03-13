@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator.
 type: docs
 weight: 131
 url: /cpp/system.net.http.headers/httpheaders/getenumerator/
 ---
-## HttpHeaders::GetEnumerator method
+## HttpHeaders::GetEnumerator() method
 
 
 Gets enumerator.

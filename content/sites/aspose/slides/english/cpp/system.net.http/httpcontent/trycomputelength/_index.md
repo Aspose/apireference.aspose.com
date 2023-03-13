@@ -1,12 +1,12 @@
 ---
-title: TryComputeLength
+title: TryComputeLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to calculate the content size.
 type: docs
 weight: 66
 url: /cpp/system.net.http/httpcontent/trycomputelength/
 ---
-## HttpContent::TryComputeLength method
+## HttpContent::TryComputeLength(**int64_t**\&) method
 
 
 Tries to calculate the content size.

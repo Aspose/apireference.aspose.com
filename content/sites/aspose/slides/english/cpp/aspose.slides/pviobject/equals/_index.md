@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares with specified object.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/pviobject/equals/
 ---
-## PVIObject::Equals method
+## PVIObject::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Compares with specified object.

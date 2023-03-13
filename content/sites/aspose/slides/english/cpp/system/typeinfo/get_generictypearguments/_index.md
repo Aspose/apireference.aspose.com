@@ -1,12 +1,12 @@
 ---
-title: get_GenericTypeArguments
+title: get_GenericTypeArguments()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets an array of the generic type arguments for this type.
 type: docs
 weight: 300
 url: /cpp/system/typeinfo/get_generictypearguments/
 ---
-## TypeInfo::get_GenericTypeArguments method
+## TypeInfo::get_GenericTypeArguments() const method
 
 
 Gets an array of the generic type arguments for this type.

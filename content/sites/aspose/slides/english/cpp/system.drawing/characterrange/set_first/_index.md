@@ -1,12 +1,12 @@
 ---
-title: set_First
+title: set_First()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the position of the first character of the range represented by the current object.
 type: docs
 weight: 27
 url: /cpp/system.drawing/characterrange/set_first/
 ---
-## CharacterRange::set_First method
+## CharacterRange::set_First(**int32_t**) method
 
 
 Sets the position of the first character of the range represented by the current object.

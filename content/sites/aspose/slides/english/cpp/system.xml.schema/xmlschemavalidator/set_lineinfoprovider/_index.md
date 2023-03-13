@@ -1,12 +1,12 @@
 ---
-title: set_LineInfoProvider
+title: set_LineInfoProvider()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the line number information for the XML node being validated.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemavalidator/set_lineinfoprovider/
 ---
-## XmlSchemaValidator::set_LineInfoProvider method
+## XmlSchemaValidator::set_LineInfoProvider(const [SharedPtr](../../../system/sharedptr/)\<[IXmlLineInfo](../../../system.xml/ixmllineinfo/)\>\&) method
 
 
 Sets the line number information for the XML node being validated.

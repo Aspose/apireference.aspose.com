@@ -1,12 +1,12 @@
 ---
-title: get_StandardName
+title: get_StandardName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a name for the standard time of the time zone represented by the current object.
 type: docs
 weight: 14
 url: /cpp/system/timezone/get_standardname/
 ---
-## TimeZone::get_StandardName method
+## TimeZone::get_StandardName() const method
 
 
 Returns a name for the standard time of the time zone represented by the current object.

@@ -1,12 +1,12 @@
 ---
-title: get_By
+title: get_By()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the relative offset value for the color animation. Read IColorOffset.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/coloreffect/get_by/
 ---
-## ColorEffect::get_By method
+## ColorEffect::get_By() method
 
 
 Describes the relative offset value for the color animation. Read [IColorOffset](../../icoloroffset/).

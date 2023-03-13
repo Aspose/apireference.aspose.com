@@ -1,12 +1,12 @@
 ---
-title: set_SpreadsheetOptions
+title: set_SpreadsheetOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets options for spreadsheets. For example, these options affect calculating formulas for charts.
 type: docs
 weight: 300
 url: /cpp/aspose.slides/loadoptions/set_spreadsheetoptions/
 ---
-## LoadOptions::set_SpreadsheetOptions method
+## LoadOptions::set_SpreadsheetOptions([System::SharedPtr](../../../system/sharedptr/)\<[ISpreadsheetOptions](../../ispreadsheetoptions/)\>) method
 
 
 Gets options for spreadsheets. For example, these options affect calculating formulas for charts.

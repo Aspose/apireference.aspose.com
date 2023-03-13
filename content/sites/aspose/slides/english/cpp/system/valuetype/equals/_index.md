@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Supports value type and reference type comparison.
 type: docs
 weight: 1
 url: /cpp/system/valuetype/equals/
 ---
-## ValueType::Equals method
+## ValueType::Equals(const [SharedPtr](../../sharedptr/)\<[Object](../../object/)\>\&) method
 
 
 Supports value type and reference type comparison.

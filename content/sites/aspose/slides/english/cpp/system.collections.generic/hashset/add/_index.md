@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element into set.
 type: docs
 weight: 92
 url: /cpp/system.collections.generic/hashset/add/
 ---
-## HashSet::Add method
+## HashSet::Add(const T\&) method
 
 
 Adds element into set.

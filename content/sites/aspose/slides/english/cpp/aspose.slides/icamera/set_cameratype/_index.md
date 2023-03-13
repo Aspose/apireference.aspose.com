@@ -1,12 +1,12 @@
 ---
-title: set_CameraType
+title: set_CameraType()
 second_title: Aspose.Slides for C++ API Reference
 description: Camera type Write CameraPresetType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icamera/set_cameratype/
 ---
-## ICamera::set_CameraType method
+## ICamera::set_CameraType([CameraPresetType](../../camerapresettype/)) method
 
 
 [Camera](../../camera/) type Write [CameraPresetType](../../camerapresettype/).

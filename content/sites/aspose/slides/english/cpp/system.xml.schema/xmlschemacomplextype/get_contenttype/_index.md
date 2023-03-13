@@ -1,12 +1,12 @@
 ---
-title: get_ContentType
+title: get_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the content model of the complex type which holds the post-compilation value.
 type: docs
 weight: 170
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_contenttype/
 ---
-## XmlSchemaComplexType::get_ContentType method
+## XmlSchemaComplexType::get_ContentType() method
 
 
 Returns the content model of the complex type which holds the post-compilation value.

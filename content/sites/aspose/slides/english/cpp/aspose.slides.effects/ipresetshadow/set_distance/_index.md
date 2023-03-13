@@ -1,12 +1,12 @@
 ---
-title: set_Distance
+title: set_Distance()
 second_title: Aspose.Slides for C++ API Reference
 description: Distance of shadow. Write double.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/ipresetshadow/set_distance/
 ---
-## IPresetShadow::set_Distance method
+## IPresetShadow::set_Distance(**double**) method
 
 
 Distance of shadow. Write **double**.

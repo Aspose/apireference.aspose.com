@@ -1,12 +1,12 @@
 ---
-title: set_KeySize
+title: set_KeySize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets key size of cryptographic operation.
 type: docs
 weight: 118
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_keysize/
 ---
-## SymmetricAlgorithm::set_KeySize method
+## SymmetricAlgorithm::set_KeySize(int) method
 
 
 Sets key size of cryptographic operation.

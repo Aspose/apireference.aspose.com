@@ -1,12 +1,12 @@
 ---
-title: get_AnchoringType
+title: get_AnchoringType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns vertical anchor text in a TextFrame. Read TextAnchorType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/icharttextblockformat/get_anchoringtype/
 ---
-## IChartTextBlockFormat::get_AnchoringType method
+## IChartTextBlockFormat::get_AnchoringType() method
 
 
 Returns vertical anchor text in a [TextFrame](../../../aspose.slides/textframe/). Read [TextAnchorType](../../../aspose.slides/textanchortype/).

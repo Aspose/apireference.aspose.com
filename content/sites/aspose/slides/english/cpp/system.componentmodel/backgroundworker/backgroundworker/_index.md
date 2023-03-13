@@ -1,12 +1,12 @@
 ---
-title: BackgroundWorker
+title: BackgroundWorker()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/backgroundworker/backgroundworker/
 ---
-## BackgroundWorker::BackgroundWorker constructor
+## BackgroundWorker::BackgroundWorker() constructor
 
 
 RTTI information.

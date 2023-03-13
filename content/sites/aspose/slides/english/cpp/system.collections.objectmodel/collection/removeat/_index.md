@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes item at specific position.
 type: docs
 weight: 170
 url: /cpp/system.collections.objectmodel/collection/removeat/
 ---
-## Collection::RemoveAt method
+## Collection::RemoveAt(int) method
 
 
 Removes item at specific position.

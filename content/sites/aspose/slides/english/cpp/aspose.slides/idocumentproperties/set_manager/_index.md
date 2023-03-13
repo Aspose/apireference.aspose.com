@@ -1,12 +1,12 @@
 ---
-title: set_Manager
+title: set_Manager()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the manager property. Write System::String."
 type: docs
 weight: 79
 url: /cpp/aspose.slides/idocumentproperties/set_manager/
 ---
-## IDocumentProperties::set_Manager method
+## IDocumentProperties::set_Manager([System::String](../../../system/string/)) method
 
 
 Sets the manager property. Write [System::String](../../../system/string/).

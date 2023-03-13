@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents point value. Only: bool, ColorFormat, float, int, string. Read System::Object."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/point/get_value/
 ---
-## Point::get_Value method
+## Point::get_Value() method
 
 
 Represents point value. Only: bool, [ColorFormat](../../../aspose.slides/colorformat/), float, int, string. Read [System::Object](../../../system/object/).

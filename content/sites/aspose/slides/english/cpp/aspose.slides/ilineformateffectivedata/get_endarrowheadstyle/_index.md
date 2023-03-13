@@ -1,12 +1,12 @@
 ---
-title: get_EndArrowheadStyle
+title: get_EndArrowheadStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the arrowhead style at the end of a line. Read-only LineArrowheadStyle.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/ilineformateffectivedata/get_endarrowheadstyle/
 ---
-## ILineFormatEffectiveData::get_EndArrowheadStyle method
+## ILineFormatEffectiveData::get_EndArrowheadStyle() method
 
 
 Returns the arrowhead style at the end of a line. Read-only [LineArrowheadStyle](../../linearrowheadstyle/).

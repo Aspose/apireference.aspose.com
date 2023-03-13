@@ -1,12 +1,12 @@
 ---
-title: ~ICollection
+title: ~ICollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 118
 url: /cpp/system.collections.generic/icollection/~icollection/
 ---
-## ICollection::~ICollection method
+## ICollection::~ICollection() method
 
 
 Destructor.

@@ -1,12 +1,12 @@
 ---
-title: get_TextFormat
+title: get_TextFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns chart text format. Read-only IChartTextFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/iformattedtextcontainer/get_textformat/
 ---
-## IFormattedTextContainer::get_TextFormat method
+## IFormattedTextContainer::get_TextFormat() method
 
 
 Returns chart text format. Read-only [IChartTextFormat](../../icharttextformat/).

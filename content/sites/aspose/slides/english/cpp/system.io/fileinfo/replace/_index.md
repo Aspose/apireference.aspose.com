@@ -1,5 +1,5 @@
 ---
-title: Replace
+title: Replace()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces the contents of a specified destination file with the file represented by the current FileInfo object and creates a backup of the replaced file.
 type: docs

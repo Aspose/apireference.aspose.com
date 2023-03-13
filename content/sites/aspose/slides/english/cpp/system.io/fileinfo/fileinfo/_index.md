@@ -1,12 +1,12 @@
 ---
-title: FileInfo
+title: FileInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of FileInfo class that represents the specified file.
 type: docs
 weight: 1
 url: /cpp/system.io/fileinfo/fileinfo/
 ---
-## FileInfo::FileInfo constructor
+## FileInfo::FileInfo(const [String](../../../system/string/)\&) constructor
 
 
 Constructs a new instance of [FileInfo](../) class that represents the specified file.

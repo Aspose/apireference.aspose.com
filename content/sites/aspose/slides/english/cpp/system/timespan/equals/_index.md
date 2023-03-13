@@ -1,5 +1,5 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the time interval represented by the current object is equal to the time interval represented by the specified object.
 type: docs

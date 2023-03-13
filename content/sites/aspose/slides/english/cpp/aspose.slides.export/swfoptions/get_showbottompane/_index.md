@@ -1,12 +1,12 @@
 ---
-title: get_ShowBottomPane
+title: get_ShowBottomPane()
 second_title: Aspose.Slides for C++ API Reference
 description: Show/hide bottom pane. Can be overridden in flashvars. Default is true.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.export/swfoptions/get_showbottompane/
 ---
-## SwfOptions::get_ShowBottomPane method
+## SwfOptions::get_ShowBottomPane() method
 
 
 Show/hide bottom pane. Can be overridden in flashvars. Default is true.

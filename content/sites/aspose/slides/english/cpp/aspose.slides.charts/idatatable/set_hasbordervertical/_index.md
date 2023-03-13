@@ -1,12 +1,12 @@
 ---
-title: set_HasBorderVertical
+title: set_HasBorderVertical()
 second_title: Aspose.Slides for C++ API Reference
 description: True if the chart data table has vertical cell borders. Write bool.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/idatatable/set_hasbordervertical/
 ---
-## IDataTable::set_HasBorderVertical method
+## IDataTable::set_HasBorderVertical(**bool**) method
 
 
 True if the chart data table has vertical cell borders. Write **bool**.

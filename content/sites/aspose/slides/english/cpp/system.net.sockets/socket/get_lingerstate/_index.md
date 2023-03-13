@@ -1,12 +1,12 @@
 ---
-title: get_LingerState
+title: get_LingerState()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the socket will delay closing in an attempt to send all pending data.
 type: docs
 weight: 300
 url: /cpp/system.net.sockets/socket/get_lingerstate/
 ---
-## Socket::get_LingerState method
+## Socket::get_LingerState() method
 
 
 Gets a value that indicates if the socket will delay closing in an attempt to send all pending data.

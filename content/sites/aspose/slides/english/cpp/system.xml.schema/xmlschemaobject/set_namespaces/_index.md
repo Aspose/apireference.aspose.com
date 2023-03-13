@@ -1,12 +1,12 @@
 ---
-title: set_Namespaces
+title: set_Namespaces()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlSerializerNamespaces to use with this schema object.
 type: docs
 weight: 118
 url: /cpp/system.xml.schema/xmlschemaobject/set_namespaces/
 ---
-## XmlSchemaObject::set_Namespaces method
+## XmlSchemaObject::set_Namespaces(const [SharedPtr](../../../system/sharedptr/)\<[System::Xml::Serialization::XmlSerializerNamespaces](../../../system.xml.serialization/xmlserializernamespaces/)\>\&) method
 
 
 Sets the XmlSerializerNamespaces to use with this schema object.

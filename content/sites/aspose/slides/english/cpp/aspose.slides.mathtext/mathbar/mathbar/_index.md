@@ -1,5 +1,5 @@
 ---
-title: MathBar
+title: MathBar()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes MathBar with overbar (Top position)
 type: docs
@@ -40,7 +40,7 @@ auto mathBar = System::MakeObject<MathBar>(System::MakeObject<MathematicalText>(
 ## MathBar::MathBar([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [MathTopBotPositions](../../mathtopbotpositions/)) constructor
 
 
-Initializes [MathBar](../) with specified position.
+Initializes [MathBar](../) with specified position
 
 ```cpp
 Aspose::Slides::MathText::MathBar::MathBar(System::SharedPtr<IMathElement> element, MathTopBotPositions position)

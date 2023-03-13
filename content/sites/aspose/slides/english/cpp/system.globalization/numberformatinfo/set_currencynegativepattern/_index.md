@@ -1,12 +1,12 @@
 ---
-title: set_CurrencyNegativePattern
+title: set_CurrencyNegativePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets currency negative pattern.
 type: docs
 weight: 365
 url: /cpp/system.globalization/numberformatinfo/set_currencynegativepattern/
 ---
-## NumberFormatInfo::set_CurrencyNegativePattern method
+## NumberFormatInfo::set_CurrencyNegativePattern(int) method
 
 
 Sets currency negative pattern.

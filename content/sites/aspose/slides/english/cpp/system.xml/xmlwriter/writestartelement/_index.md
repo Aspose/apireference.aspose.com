@@ -1,5 +1,5 @@
 ---
-title: WriteStartElement
+title: WriteStartElement()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes the specified start tag and associates it with the given namespace.
 type: docs

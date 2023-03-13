@@ -1,5 +1,5 @@
 ---
-title: DivRem
+title: DivRem()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the quotient of two 32-bit integers and the remainder.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets event to non-signalling state.
 type: docs
 weight: 27
 url: /cpp/system.threading/eventwaithandle/reset/
 ---
-## EventWaitHandle::Reset method
+## EventWaitHandle::Reset() method
 
 
 Sets event to non-signalling state.

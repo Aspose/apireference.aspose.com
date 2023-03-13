@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography.xml/transformchain/idx_get/
 ---
-## TransformChain::idx_get method
+## TransformChain::idx_get(**int32_t**) method
 
 
 

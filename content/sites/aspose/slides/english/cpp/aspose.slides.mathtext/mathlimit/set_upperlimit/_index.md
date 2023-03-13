@@ -1,15 +1,15 @@
 ---
-title: set_UpperLimit
+title: set_UpperLimit()
 second_title: Aspose.Slides for C++ API Reference
-description: Specifies upper or lower limit.
+description: Specifies upper or lower limit
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/mathlimit/set_upperlimit/
 ---
-## MathLimit::set_UpperLimit method
+## MathLimit::set_UpperLimit(**bool**) method
 
 
-Specifies upper or lower limit.
+Specifies upper or lower limit
 
 ```cpp
 void Aspose::Slides::MathText::MathLimit::set_UpperLimit(bool value) override

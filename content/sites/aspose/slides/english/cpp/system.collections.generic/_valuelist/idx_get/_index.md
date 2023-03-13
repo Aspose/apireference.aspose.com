@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value at specified position.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/_valuelist/idx_get/
 ---
-## _ValueList::idx_get method
+## _ValueList::idx_get(int) const method
 
 
 Gets value at specified position.
@@ -28,7 +28,7 @@ Copy of value at specified position.
 
 ## See Also
 
-* Typedef [TValue](../tvalue/)
+* Typedef [TValue](../../_valuecollection/tvalue/)
 * Class [_ValueList](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Slides](../../../)

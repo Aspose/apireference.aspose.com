@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the two Hyperlink instances are equal.
 type: docs
 weight: 339
 url: /cpp/aspose.slides/hyperlink/equals/
 ---
-## Hyperlink::Equals method
+## Hyperlink::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the two [Hyperlink](../) instances are equal.

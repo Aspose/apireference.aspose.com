@@ -1,5 +1,5 @@
 ---
-title: LINQ_Any
+title: LINQ_Any()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a sequence contains any elements.
 type: docs

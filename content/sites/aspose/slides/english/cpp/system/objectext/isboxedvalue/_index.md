@@ -1,12 +1,12 @@
 ---
-title: IsBoxedValue
+title: IsBoxedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if object is a boxed value.
 type: docs
 weight: 118
 url: /cpp/system/objectext/isboxedvalue/
 ---
-## ObjectExt::IsBoxedValue method
+## ObjectExt::IsBoxedValue(const [SmartPtr](../../smartptr/)\<[Object](../../object/)\>\&) method
 
 
 Checks if object is a boxed value.

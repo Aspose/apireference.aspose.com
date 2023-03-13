@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new layout slide to the presentation.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/igloballayoutslidecollection/add/
 ---
-## IGlobalLayoutSlideCollection::Add method
+## IGlobalLayoutSlideCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IMasterSlide](../../imasterslide/)\>, [SlideLayoutType](../../slidelayouttype/), [System::String](../../../system/string/)) method
 
 
 Adds a new layout slide to the presentation.

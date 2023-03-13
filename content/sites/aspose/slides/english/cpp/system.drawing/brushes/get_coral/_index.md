@@ -1,12 +1,12 @@
 ---
-title: get_Coral
+title: get_Coral()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFF7F50.
 type: docs
 weight: 209
 url: /cpp/system.drawing/brushes/get_coral/
 ---
-## Brushes::get_Coral method
+## Brushes::get_Coral() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFF7F50.

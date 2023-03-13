@@ -1,12 +1,12 @@
 ---
-title: GenerateIV
+title: GenerateIV()
 second_title: Aspose.Slides for C++ API Reference
 description: Generates random initial value for the algorithm. Overrides existing one (if any).
 type: docs
 weight: 222
 url: /cpp/system.security.cryptography/symmetricalgorithm/generateiv/
 ---
-## SymmetricAlgorithm::GenerateIV method
+## SymmetricAlgorithm::GenerateIV() method
 
 
 Generates random initial value for the algorithm. Overrides existing one (if any).

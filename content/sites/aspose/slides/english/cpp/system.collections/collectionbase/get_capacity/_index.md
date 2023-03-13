@@ -1,12 +1,12 @@
 ---
-title: get_Capacity
+title: get_Capacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of elements that the collection can contain.
 type: docs
 weight: 1
 url: /cpp/system.collections/collectionbase/get_capacity/
 ---
-## CollectionBase::get_Capacity method
+## CollectionBase::get_Capacity() method
 
 
 Returns the number of elements that the collection can contain.

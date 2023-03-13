@@ -1,12 +1,12 @@
 ---
-title: set_Width
+title: set_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the width of a column. Write double.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icolumn/set_width/
 ---
-## IColumn::set_Width method
+## IColumn::set_Width(**double**) method
 
 
 Sets the width of a column. Write **double**.

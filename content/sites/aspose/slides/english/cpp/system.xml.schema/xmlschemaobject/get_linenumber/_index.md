@@ -1,12 +1,12 @@
 ---
-title: get_LineNumber
+title: get_LineNumber()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line number in the file to which the schema element refers.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaobject/get_linenumber/
 ---
-## XmlSchemaObject::get_LineNumber method
+## XmlSchemaObject::get_LineNumber() method
 
 
 Returns the line number in the file to which the **schema** element refers.

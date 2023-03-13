@@ -1,12 +1,12 @@
 ---
-title: get_StyleColorFormatUnresolved
+title: get_StyleColorFormatUnresolved()
 second_title: Aspose.Slides for C++ API Reference
 description: StyleColorFormatUnresolved. Read-only ColorFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/stylecoloreffectivedata/get_stylecolorformatunresolved/
 ---
-## StyleColorEffectiveData::get_StyleColorFormatUnresolved method
+## StyleColorEffectiveData::get_StyleColorFormatUnresolved() method
 
 
 StyleColorFormatUnresolved. Read-only [ColorFormat](../../colorformat/).

@@ -1,12 +1,12 @@
 ---
-title: GetCounter
+title: GetCounter()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets reference counter data structure associated with the object.
 type: docs
 weight: 105
 url: /cpp/system/object/getcounter/
 ---
-## Object::GetCounter method
+## Object::GetCounter() method
 
 
 Gets reference counter data structure associated with the object.

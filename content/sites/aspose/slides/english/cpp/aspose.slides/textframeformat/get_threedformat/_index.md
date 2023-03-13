@@ -1,12 +1,12 @@
 ---
-title: get_ThreeDFormat
+title: get_ThreeDFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the ThreeDFormat object that represents 3d effect properties for a text. Read-only IThreeDFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/textframeformat/get_threedformat/
 ---
-## TextFrameFormat::get_ThreeDFormat method
+## TextFrameFormat::get_ThreeDFormat() method
 
 
 Returns the [ThreeDFormat](../../threedformat/) object that represents 3d effect properties for a text. Read-only [IThreeDFormat](../../ithreedformat/).

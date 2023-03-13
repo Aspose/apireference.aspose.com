@@ -1,12 +1,12 @@
 ---
-title: Abort
+title: Abort()
 second_title: Aspose.Slides for C++ API Reference
 description: Aborts the current request.
 type: docs
 weight: 326
 url: /cpp/system.net/webrequest/abort/
 ---
-## WebRequest::Abort method
+## WebRequest::Abort() method
 
 
 Aborts the current request.

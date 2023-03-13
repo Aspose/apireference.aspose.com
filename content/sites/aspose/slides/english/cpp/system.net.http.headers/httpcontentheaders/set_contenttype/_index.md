@@ -1,12 +1,12 @@
 ---
-title: set_ContentType
+title: set_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Content-Type' header.
 type: docs
 weight: 183
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contenttype/
 ---
-## HttpContentHeaders::set_ContentType method
+## HttpContentHeaders::set_ContentType([System::SharedPtr](../../../system/sharedptr/)\<[MediaTypeHeaderValue](../../mediatypeheadervalue/)\>) method
 
 
 Sets a value of the 'Content-Type' header.

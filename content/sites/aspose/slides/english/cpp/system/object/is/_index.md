@@ -1,12 +1,12 @@
 ---
-title: Is
+title: Is()
 second_title: Aspose.Slides for C++ API Reference
 description: Check if object represents an instance of type described by targetType. Analog of C# 'is' operator.
 type: docs
 weight: 222
 url: /cpp/system/object/is/
 ---
-## Object::Is method
+## Object::Is(const [TypeInfo](../../typeinfo/)\&) const method
 
 
 Check if object represents an instance of type described by targetType. Analog of C# 'is' operator.

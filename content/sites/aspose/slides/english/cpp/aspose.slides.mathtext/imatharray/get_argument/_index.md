@@ -1,12 +1,12 @@
 ---
-title: get_Argument
+title: get_Argument()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns item at the specified index of the array. Read-only Aspose::Slides::MathText::IMathElement."
 type: docs
 weight: 144
 url: /cpp/aspose.slides.mathtext/imatharray/get_argument/
 ---
-## IMathArray::get_Argument method
+## IMathArray::get_Argument(**int32_t**) method
 
 
 Returns item at the specified index of the array. Read-only [Aspose::Slides::MathText::IMathElement](../../imathelement/).

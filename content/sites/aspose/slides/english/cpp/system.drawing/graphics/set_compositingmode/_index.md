@@ -1,12 +1,12 @@
 ---
-title: set_CompositingMode
+title: set_CompositingMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that specifies how composited images are drawn on the surface represented by the current object.
 type: docs
 weight: 53
 url: /cpp/system.drawing/graphics/set_compositingmode/
 ---
-## Graphics::set_CompositingMode method
+## Graphics::set_CompositingMode([Drawing2D::CompositingMode](../../../system.drawing.drawing2d/compositingmode/)) method
 
 
 Sets a value that specifies how composited images are drawn on the surface represented by the current object.

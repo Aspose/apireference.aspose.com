@@ -1,12 +1,12 @@
 ---
-title: CreateDocumentType
+title: CreateDocumentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new XmlDocumentType object.
 type: docs
 weight: 313
 url: /cpp/system.xml/xmldocument/createdocumenttype/
 ---
-## XmlDocument::CreateDocumentType method
+## XmlDocument::CreateDocumentType(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Returns a new [XmlDocumentType](../../xmldocumenttype/) object.

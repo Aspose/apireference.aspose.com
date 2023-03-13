@@ -19,8 +19,8 @@ enum class TransitionPattern
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Diamond | 0 | Diamond tile pattern. |
-| Hexagon | 1 | Hexagon tile pattern. |
+| Diamond | 0 | Diamond tile pattern |
+| Hexagon | 1 | Hexagon tile pattern |
 
 ## See Also
 

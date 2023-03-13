@@ -1,12 +1,12 @@
 ---
-title: get_String
+title: get_String()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the value of the StringInfo object.
 type: docs
 weight: 27
 url: /cpp/system.globalization/stringinfo/get_string/
 ---
-## StringInfo::get_String method
+## StringInfo::get_String() const method
 
 
 Gets the value of the [StringInfo](../) object.

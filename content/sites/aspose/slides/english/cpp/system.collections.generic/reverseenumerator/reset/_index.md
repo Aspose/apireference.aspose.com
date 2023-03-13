@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets enumerator to allow re-enumerating elements.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/reverseenumerator/reset/
 ---
-## ReverseEnumerator::Reset method
+## ReverseEnumerator::Reset() method
 
 
 Resets enumerator to allow re-enumerating elements.

@@ -1,12 +1,12 @@
 ---
-title: get_BaseXmlSchemaType
+title: get_BaseXmlSchemaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-compilation value for the base type of this schema type.
 type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschematype/get_basexmlschematype/
 ---
-## XmlSchemaType::get_BaseXmlSchemaType method
+## XmlSchemaType::get_BaseXmlSchemaType() method
 
 
 Returns the post-compilation value for the base type of this schema type.

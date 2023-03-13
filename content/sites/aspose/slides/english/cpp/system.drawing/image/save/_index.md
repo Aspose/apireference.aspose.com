@@ -1,5 +1,5 @@
 ---
-title: Save
+title: Save()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves the image represented by the current object to the specified file in PNG format.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaGroup
+title: XmlSchemaGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaGroup class.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemagroup/xmlschemagroup/
 ---
-## XmlSchemaGroup::XmlSchemaGroup constructor
+## XmlSchemaGroup::XmlSchemaGroup() constructor
 
 
 Initializes a new instance of the [XmlSchemaGroup](../) class.

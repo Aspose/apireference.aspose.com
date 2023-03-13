@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the XmlDeclaration.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmldeclaration/get_value/
 ---
-## XmlDeclaration::get_Value method
+## XmlDeclaration::get_Value() method
 
 
 Returns the value of the [XmlDeclaration](../).

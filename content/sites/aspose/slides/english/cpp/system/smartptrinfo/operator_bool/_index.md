@@ -1,12 +1,12 @@
 ---
-title: operator bool
+title: operator bool()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if info object points to non-null pointer.
 type: docs
 weight: 14
 url: /cpp/system/smartptrinfo/operator_bool/
 ---
-## SmartPtrInfo::operator bool method
+## SmartPtrInfo::operator bool() const method
 
 
 Checks if info object points to non-null pointer.

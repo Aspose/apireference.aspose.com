@@ -1,5 +1,5 @@
 ---
-title: Write
+title: Write()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes string to debug interface.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Exists
+title: Exists()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if element adhering to specific predicate exists in list.
 type: docs
 weight: 365
 url: /cpp/system.collections.generic/list/exists/
 ---
-## List::Exists method
+## List::Exists([System::Predicate](../../../system/predicate/)\<T\>) method
 
 
 Checks if element adhering to specific predicate exists in list.

@@ -1,12 +1,12 @@
 ---
-title: get_OutputStream
+title: get_OutputStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 92
 url: /cpp/system.web/httpresponse/get_outputstream/
 ---
-## HttpResponse::get_OutputStream method
+## HttpResponse::get_OutputStream() method
 
 
 Not implemented.

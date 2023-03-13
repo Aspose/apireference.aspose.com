@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if key is present in container.
 type: docs
 weight: 40
 url: /cpp/system.collections.objectmodel/keyedcollection/contains/
 ---
-## KeyedCollection::Contains method
+## KeyedCollection::Contains(TKey) method
 
 
 Checks if key is present in container.

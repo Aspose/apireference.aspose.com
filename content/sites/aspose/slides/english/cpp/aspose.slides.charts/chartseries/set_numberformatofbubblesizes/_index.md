@@ -1,12 +1,12 @@
 ---
-title: set_NumberFormatOfBubbleSizes
+title: set_NumberFormatOfBubbleSizes()
 second_title: Aspose.Slides for C++ API Reference
 description: "NumberFormatOfBubbleSizes. Write System::String."
 type: docs
 weight: 352
 url: /cpp/aspose.slides.charts/chartseries/set_numberformatofbubblesizes/
 ---
-## ChartSeries::set_NumberFormatOfBubbleSizes method
+## ChartSeries::set_NumberFormatOfBubbleSizes([System::String](../../../system/string/)) method
 
 
 NumberFormatOfBubbleSizes. Write [System::String](../../../system/string/).

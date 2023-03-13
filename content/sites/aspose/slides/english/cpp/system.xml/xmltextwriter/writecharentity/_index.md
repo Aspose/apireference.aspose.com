@@ -1,12 +1,12 @@
 ---
-title: WriteCharEntity
+title: WriteCharEntity()
 second_title: Aspose.Slides for C++ API Reference
 description: Forces the generation of a character entity for the specified Unicode character value.
 type: docs
 weight: 352
 url: /cpp/system.xml/xmltextwriter/writecharentity/
 ---
-## XmlTextWriter::WriteCharEntity method
+## XmlTextWriter::WriteCharEntity(char16_t) method
 
 
 Forces the generation of a character entity for the specified Unicode character value.

@@ -1,5 +1,5 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Wrapper for handling String class in contexts where ToString() is being called on value type objects.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_ParentSeriesGroup
+title: get_ParentSeriesGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns parent series group. Read-only IChartSeriesGroup.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.charts/ichartseries/get_parentseriesgroup/
 ---
-## IChartSeries::get_ParentSeriesGroup method
+## IChartSeries::get_ParentSeriesGroup() method
 
 
 Returns parent series group. Read-only [IChartSeriesGroup](../../ichartseriesgroup/).

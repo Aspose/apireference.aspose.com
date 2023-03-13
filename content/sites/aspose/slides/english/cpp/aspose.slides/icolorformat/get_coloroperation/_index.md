@@ -1,12 +1,12 @@
 ---
-title: get_ColorOperation
+title: get_ColorOperation()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns color transformation operation applied to color at the specified index. Read/write Aspose::Slides::IColorOperation"
 type: docs
 weight: 404
 url: /cpp/aspose.slides/icolorformat/get_coloroperation/
 ---
-## IColorFormat::get_ColorOperation method
+## IColorFormat::get_ColorOperation(**int32_t**) method
 
 
 Returns color transformation operation applied to color at the specified index. Read/write [Aspose::Slides::IColorOperation](../../icoloroperation/)

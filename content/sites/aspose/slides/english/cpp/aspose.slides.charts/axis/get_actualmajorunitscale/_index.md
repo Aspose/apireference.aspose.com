@@ -1,12 +1,12 @@
 ---
-title: get_ActualMajorUnitScale
+title: get_ActualMajorUnitScale()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies actual major unit scale of the axis. Call method IChart::ValidateChartLayout previously to get actual value."
 type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/axis/get_actualmajorunitscale/
 ---
-## Axis::get_ActualMajorUnitScale method
+## Axis::get_ActualMajorUnitScale() method
 
 
 Specifies actual major unit scale of the axis. Call method [IChart::ValidateChartLayout](../../ichart/validatechartlayout/) previously to get actual value.

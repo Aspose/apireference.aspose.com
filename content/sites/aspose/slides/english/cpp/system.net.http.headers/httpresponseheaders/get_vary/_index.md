@@ -1,12 +1,12 @@
 ---
-title: get_Vary
+title: get_Vary()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Vary' header.
 type: docs
 weight: 144
 url: /cpp/system.net.http.headers/httpresponseheaders/get_vary/
 ---
-## HttpResponseHeaders::get_Vary method
+## HttpResponseHeaders::get_Vary() method
 
 
 Returns a value of the 'Vary' header.

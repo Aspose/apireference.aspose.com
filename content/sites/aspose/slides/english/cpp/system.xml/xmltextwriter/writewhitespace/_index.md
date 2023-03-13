@@ -1,12 +1,12 @@
 ---
-title: WriteWhitespace
+title: WriteWhitespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes out the given white space.
 type: docs
 weight: 365
 url: /cpp/system.xml/xmltextwriter/writewhitespace/
 ---
-## XmlTextWriter::WriteWhitespace method
+## XmlTextWriter::WriteWhitespace([String](../../../system/string/)) method
 
 
 Writes out the given white space.

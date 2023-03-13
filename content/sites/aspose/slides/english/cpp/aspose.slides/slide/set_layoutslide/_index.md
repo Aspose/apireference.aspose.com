@@ -1,12 +1,12 @@
 ---
-title: set_LayoutSlide
+title: set_LayoutSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the layout slide for the current slide. Write ILayoutSlide.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/slide/set_layoutslide/
 ---
-## Slide::set_LayoutSlide method
+## Slide::set_LayoutSlide([System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
 
 
 Sets the layout slide for the current slide. Write [ILayoutSlide](../../ilayoutslide/).

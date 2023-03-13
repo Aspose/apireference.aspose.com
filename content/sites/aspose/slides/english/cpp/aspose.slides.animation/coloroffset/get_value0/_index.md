@@ -1,12 +1,12 @@
 ---
-title: get_Value0
+title: get_Value0()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines first value of offset. Read float.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.animation/coloroffset/get_value0/
 ---
-## ColorOffset::get_Value0 method
+## ColorOffset::get_Value0() method
 
 
 Defines first value of offset. Read **float**.

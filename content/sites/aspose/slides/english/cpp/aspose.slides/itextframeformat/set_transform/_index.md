@@ -1,12 +1,12 @@
 ---
-title: set_Transform
+title: set_Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets text wrapping shape. Write TextShapeType.
 type: docs
 weight: 378
 url: /cpp/aspose.slides/itextframeformat/set_transform/
 ---
-## ITextFrameFormat::set_Transform method
+## ITextFrameFormat::set_Transform([TextShapeType](../../textshapetype/)) method
 
 
 Sets text wrapping shape. Write [TextShapeType](../../textshapetype/).

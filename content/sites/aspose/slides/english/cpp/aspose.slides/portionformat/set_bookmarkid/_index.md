@@ -1,12 +1,12 @@
 ---
-title: set_BookmarkId
+title: set_BookmarkId()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets bookmark identifier. Write System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/portionformat/set_bookmarkid/
 ---
-## PortionFormat::set_BookmarkId method
+## PortionFormat::set_BookmarkId([System::String](../../../system/string/)) method
 
 
 Sets bookmark identifier. Write [System::String](../../../system/string/).

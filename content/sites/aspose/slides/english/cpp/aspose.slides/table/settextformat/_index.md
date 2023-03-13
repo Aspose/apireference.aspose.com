@@ -1,5 +1,5 @@
 ---
-title: SetTextFormat
+title: SetTextFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets defined portion format properties to all table cells' portions.
 type: docs

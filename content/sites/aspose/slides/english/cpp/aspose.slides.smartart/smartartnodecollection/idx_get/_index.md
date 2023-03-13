@@ -1,15 +1,15 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
-description: Returns node by index.
+description: Returns node by index
 type: docs
 weight: 40
 url: /cpp/aspose.slides.smartart/smartartnodecollection/idx_get/
 ---
-## SmartArtNodeCollection::idx_get method
+## SmartArtNodeCollection::idx_get(**int32_t**) method
 
 
-Returns node by index.
+Returns node by index
 
 ```cpp
 System::SharedPtr<ISmartArtNode> Aspose::Slides::SmartArt::SmartArtNodeCollection::idx_get(int32_t index) override

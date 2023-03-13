@@ -1,15 +1,15 @@
 ---
-title: Underbar
+title: Underbar()
 second_title: Aspose.Slides for C++ API Reference
-description: Sets a bar on the bottom of this element.
+description: Sets a bar on the bottom of this element
 type: docs
 weight: 222
 url: /cpp/aspose.slides.mathtext/mathelementbase/underbar/
 ---
-## MathElementBase::Underbar method
+## MathElementBase::Underbar() method
 
 
-Sets a bar on the bottom of this element.
+Sets a bar on the bottom of this element
 
 ```cpp
 System::SharedPtr<IMathBar> Aspose::Slides::MathText::MathElementBase::Underbar() override

@@ -1,7 +1,7 @@
 ---
 title: IMathAccentFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a math accent.
+description: Allows to create a math accent
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/imathaccentfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathaccentfactory/
 ## IMathAccentFactory class
 
 
-Allows to create a math accent.
+Allows to create a math accent
 
 ```cpp
 class IMathAccentFactory : public System::Object
@@ -19,8 +19,8 @@ class IMathAccentFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathAccent](../imathaccent/)\> [CreateMathAccent](./createmathaccent/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates a math accent applying to a specified math element with the default accent character value. |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathAccent](../imathaccent/)\> [CreateMathAccent](./createmathaccent/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, char16_t) | Creates a math accent applying to a specified math element. |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathAccent](../imathaccent/)\> [CreateMathAccent](./createmathaccent/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates a math accent applying to a specified math element with the default accent character value |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathAccent](../imathaccent/)\> [CreateMathAccent](./createmathaccent/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, char16_t) | Creates a math accent applying to a specified math element |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

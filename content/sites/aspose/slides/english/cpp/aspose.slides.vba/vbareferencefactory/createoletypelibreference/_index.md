@@ -1,12 +1,12 @@
 ---
-title: CreateOleTypeLibReference
+title: CreateOleTypeLibReference()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new OLE Automation type library reference.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.vba/vbareferencefactory/createoletypelibreference/
 ---
-## VbaReferenceFactory::CreateOleTypeLibReference method
+## VbaReferenceFactory::CreateOleTypeLibReference([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Creates new OLE Automation type library reference.

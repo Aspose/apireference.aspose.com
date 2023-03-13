@@ -1,12 +1,12 @@
 ---
-title: get_IconVerticalSpacing
+title: get_IconVerticalSpacing()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 378
 url: /cpp/system.windows.forms/systeminformation/get_iconverticalspacing/
 ---
-## SystemInformation::get_IconVerticalSpacing method
+## SystemInformation::get_IconVerticalSpacing() method
 
 
 NOT IMPLEMENTED.

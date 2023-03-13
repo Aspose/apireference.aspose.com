@@ -1,12 +1,12 @@
 ---
-title: set_RefName
+title: set_RefName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of an attribute declared in this schema (or another schema indicated by the specified namespace).
 type: docs
 weight: 118
 url: /cpp/system.xml.schema/xmlschemaattribute/set_refname/
 ---
-## XmlSchemaAttribute::set_RefName method
+## XmlSchemaAttribute::set_RefName(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
 
 
 Sets the name of an attribute declared in this schema (or another schema indicated by the specified namespace).

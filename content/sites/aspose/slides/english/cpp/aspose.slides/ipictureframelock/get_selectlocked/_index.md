@@ -1,12 +1,12 @@
 ---
-title: get_SelectLocked
+title: get_SelectLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a selecting this shape is forbidden. Read bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ipictureframelock/get_selectlocked/
 ---
-## IPictureFrameLock::get_SelectLocked method
+## IPictureFrameLock::get_SelectLocked() method
 
 
 Determines whether a selecting this shape is forbidden. Read **bool**.

@@ -1,12 +1,12 @@
 ---
-title: virtualizeEndIterator
+title: virtualizeEndIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing right after the last element (if any) of the collection.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.charts/piesplitcustompointcollection/virtualizeenditerator/
 ---
-## PieSplitCustomPointCollection::virtualizeEndIterator method
+## PieSplitCustomPointCollection::virtualizeEndIterator() method
 
 
 Gets iterator pointing right after the last element (if any) of the collection.

@@ -1,12 +1,12 @@
 ---
-title: Read
+title: Read()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the next node from the stream.
 type: docs
 weight: 521
 url: /cpp/system.xml/xmlvalidatingreader/read/
 ---
-## XmlValidatingReader::Read method
+## XmlValidatingReader::Read() method
 
 
 Reads the next node from the stream.

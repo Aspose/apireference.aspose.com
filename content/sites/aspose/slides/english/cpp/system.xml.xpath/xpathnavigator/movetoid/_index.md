@@ -1,12 +1,12 @@
 ---
-title: MoveToId
+title: MoveToId()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, moves to the node that has an attribute of type ID whose value matches the specified String.
 type: docs
 weight: 677
 url: /cpp/system.xml.xpath/xpathnavigator/movetoid/
 ---
-## XPathNavigator::MoveToId method
+## XPathNavigator::MoveToId([String](../../../system/string/)) method
 
 
 When overridden in a derived class, moves to the node that has an attribute of type **ID** whose value matches the specified [String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: set_PreserveWhitespace
+title: set_PreserveWhitespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether to preserve white space in element content.
 type: docs
 weight: 157
 url: /cpp/system.xml/xmldocument/set_preservewhitespace/
 ---
-## XmlDocument::set_PreserveWhitespace method
+## XmlDocument::set_PreserveWhitespace(**bool**) method
 
 
 Sets a value indicating whether to preserve white space in element content.

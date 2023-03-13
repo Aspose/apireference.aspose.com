@@ -1,12 +1,12 @@
 ---
-title: GetDayOfWeek
+title: GetDayOfWeek()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets day of week for the specified time point.
 type: docs
 weight: 118
 url: /cpp/system.globalization/koreancalendar/getdayofweek/
 ---
-## KoreanCalendar::GetDayOfWeek method
+## KoreanCalendar::GetDayOfWeek([DateTime](../../../system/datetime/)) const method
 
 
 Gets day of week for the specified time point.

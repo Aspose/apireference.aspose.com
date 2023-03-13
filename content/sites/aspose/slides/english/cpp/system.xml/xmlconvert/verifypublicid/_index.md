@@ -1,12 +1,12 @@
 ---
-title: VerifyPublicId
+title: VerifyPublicId()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the passed in string instance if all the characters in the string argument are valid public id characters.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmlconvert/verifypublicid/
 ---
-## XmlConvert::VerifyPublicId method
+## XmlConvert::VerifyPublicId(const [String](../../../system/string/)\&) method
 
 
 Returns the passed in string instance if all the characters in the string argument are valid public id characters.

@@ -1,5 +1,5 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if current SortVersion instance is equal to a specified SortVersion object.
 type: docs

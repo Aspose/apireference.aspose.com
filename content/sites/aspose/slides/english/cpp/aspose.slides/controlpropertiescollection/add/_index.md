@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a property to the collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/controlpropertiescollection/add/
 ---
-## ControlPropertiesCollection::Add method
+## ControlPropertiesCollection::Add([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Adds a property to the collection.

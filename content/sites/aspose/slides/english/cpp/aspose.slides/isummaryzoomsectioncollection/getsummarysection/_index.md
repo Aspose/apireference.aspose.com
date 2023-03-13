@@ -1,12 +1,12 @@
 ---
-title: GetSummarySection
+title: GetSummarySection()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns Summary Zoom Section element for the given section.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/isummaryzoomsectioncollection/getsummarysection/
 ---
-## ISummaryZoomSectionCollection::GetSummarySection method
+## ISummaryZoomSectionCollection::GetSummarySection([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
 
 
 Returns Summary Zoom [Section](../../section/) element for the given section.

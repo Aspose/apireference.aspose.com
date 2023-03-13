@@ -1,12 +1,12 @@
 ---
-title: get_UseDefaultCredentials
+title: get_UseDefaultCredentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the 'Credential' property is equal to the 'DefaultCredentials' property.
 type: docs
 weight: 300
 url: /cpp/system.net/httpwebrequest/get_usedefaultcredentials/
 ---
-## HttpWebRequest::get_UseDefaultCredentials method
+## HttpWebRequest::get_UseDefaultCredentials() method
 
 
 Gets a value that indicates if the 'Credential' property is equal to the 'DefaultCredentials' property.

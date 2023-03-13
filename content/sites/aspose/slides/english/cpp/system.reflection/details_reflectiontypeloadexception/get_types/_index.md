@@ -1,12 +1,12 @@
 ---
-title: get_Types
+title: get_Types()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type information of the causes of the exception.
 type: docs
 weight: 1
 url: /cpp/system.reflection/details_reflectiontypeloadexception/get_types/
 ---
-## Details_ReflectionTypeLoadException::get_Types method
+## Details_ReflectionTypeLoadException::get_Types() const method
 
 
 Returns the type information of the causes of the exception.

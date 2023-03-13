@@ -1,12 +1,12 @@
 ---
-title: get_Matrix23
+title: get_Matrix23()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value in 2-nd row and 3-rd column.
 type: docs
 weight: 378
 url: /cpp/system.drawing.imaging/colormatrix/get_matrix23/
 ---
-## ColorMatrix::get_Matrix23 method
+## ColorMatrix::get_Matrix23() const method
 
 
 Returns a value in 2-nd row and 3-rd column.

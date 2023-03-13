@@ -28,7 +28,7 @@ class Vector2d32f : public System::Object,
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
-| **double** [GetLength](./getlength/)() | Get length. |
+| **double** [GetLength](./getlength/)() | Get length |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
 | **bool** [IsNull](./isnull/)() const |  |
@@ -45,18 +45,18 @@ class Vector2d32f : public System::Object,
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
-| [Vector2d32f](./) [Scale](./scale/)(**float**, **float**) | Scale vector. |
-| [Vector2d32f](./) [Scale](./scale/)([Vector2d32f](./)) | Scale vector. |
+| [Vector2d32f](./) [Scale](./scale/)(**float**, **float**) | Scale vector |
+| [Vector2d32f](./) [Scale](./scale/)([Vector2d32f](./)) | Scale vector |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| void [SwapXY](./swapxy/)() | Swap X and Y. |
+| void [SwapXY](./swapxy/)() | Swap X and Y |
 | [System::String](../../system/string/) [ToString](./tostring/)() const override | Analog of C# Object.ToString() method. Enables converting custom objects to string. |
 | [Vector2d64d](../vector2d64d/) [ToVector2d64d](./tovector2d64d/)() | To [Vector2d64d](../vector2d64d/) |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
-|  [Vector2d32f](./vector2d32f/)(**float**, **float**) | Constructor. |
+|  [Vector2d32f](./vector2d32f/)(**float**, **float**) | Constructor |
 |  [Vector2d32f](./vector2d32f/)() |  |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../../system/object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

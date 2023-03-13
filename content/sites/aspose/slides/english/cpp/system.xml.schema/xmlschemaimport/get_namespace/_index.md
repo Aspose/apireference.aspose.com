@@ -1,12 +1,12 @@
 ---
-title: get_Namespace
+title: get_Namespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the target namespace for the imported schema as a Uniform Resource Identifier (URI) reference.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaimport/get_namespace/
 ---
-## XmlSchemaImport::get_Namespace method
+## XmlSchemaImport::get_Namespace() method
 
 
 Returns the target namespace for the imported schema as a Uniform Resource Identifier (URI) reference.

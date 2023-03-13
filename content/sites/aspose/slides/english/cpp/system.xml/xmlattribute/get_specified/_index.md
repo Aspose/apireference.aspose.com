@@ -1,12 +1,12 @@
 ---
-title: get_Specified
+title: get_Specified()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the attribute value was explicitly set.
 type: docs
 weight: 144
 url: /cpp/system.xml/xmlattribute/get_specified/
 ---
-## XmlAttribute::get_Specified method
+## XmlAttribute::get_Specified() method
 
 
 Returns a value indicating whether the attribute value was explicitly set.

@@ -1,12 +1,12 @@
 ---
-title: ToType
+title: ToType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Converts the value of this instance to a System::Object of the specified System::Type that has an equivalent value, using the specified culture-specific formatting information."
 type: docs
 weight: 209
 url: /cpp/system/iconvertible/totype/
 ---
-## IConvertible::ToType method
+## IConvertible::ToType(const [TypeInfo](../../typeinfo/)\&, [System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to a [System::Object](../../object/) of the specified System::Type that has an equivalent value, using the specified culture-specific formatting information.

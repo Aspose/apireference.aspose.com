@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the name. Read-only System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ichartdataworksheet/get_name/
 ---
-## IChartDataWorksheet::get_Name method
+## IChartDataWorksheet::get_Name() method
 
 
 Gets the name. Read-only [System::String](../../../system/string/).

@@ -1,5 +1,5 @@
 ---
-title: AuthenticationHeaderValue
+title: AuthenticationHeaderValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs

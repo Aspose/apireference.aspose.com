@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns string representation.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/fontdata/tostring/
 ---
-## FontData::ToString method
+## FontData::ToString() const method
 
 
 Returns string representation.

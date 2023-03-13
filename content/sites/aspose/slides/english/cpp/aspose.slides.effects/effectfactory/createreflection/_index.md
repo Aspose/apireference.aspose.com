@@ -1,12 +1,12 @@
 ---
-title: CreateReflection
+title: CreateReflection()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Reflection effect.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.effects/effectfactory/createreflection/
 ---
-## EffectFactory::CreateReflection method
+## EffectFactory::CreateReflection() method
 
 
 Creates [Reflection](../../reflection/) effect.

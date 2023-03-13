@@ -1,12 +1,12 @@
 ---
-title: get_Chart
+title: get_Chart()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns chart. Read-only IChart.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/datatable/get_chart/
 ---
-## DataTable::get_Chart method
+## DataTable::get_Chart() method
 
 
 Returns chart. Read-only [IChart](../../ichart/).

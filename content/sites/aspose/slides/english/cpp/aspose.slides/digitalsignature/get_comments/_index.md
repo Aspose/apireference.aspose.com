@@ -1,12 +1,12 @@
 ---
-title: get_Comments
+title: get_Comments()
 second_title: Aspose.Slides for C++ API Reference
 description: "The purpose of signature. Read System::String."
 type: docs
 weight: 40
 url: /cpp/aspose.slides/digitalsignature/get_comments/
 ---
-## DigitalSignature::get_Comments method
+## DigitalSignature::get_Comments() method
 
 
 The purpose of signature. Read [System::String](../../../system/string/).

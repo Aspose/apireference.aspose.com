@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaWhiteSpaceFacet
+title: XmlSchemaWhiteSpaceFacet()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaWhiteSpaceFacet class.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemawhitespacefacet/xmlschemawhitespacefacet/
 ---
-## XmlSchemaWhiteSpaceFacet::XmlSchemaWhiteSpaceFacet constructor
+## XmlSchemaWhiteSpaceFacet::XmlSchemaWhiteSpaceFacet() constructor
 
 
 Initializes a new instance of the [XmlSchemaWhiteSpaceFacet](../) class.

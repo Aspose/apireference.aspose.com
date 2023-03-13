@@ -1,5 +1,5 @@
 ---
-title: Release
+title: Release()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases lock on semaphore.
 type: docs

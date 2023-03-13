@@ -1,12 +1,12 @@
 ---
-title: GetAuthenticationLength
+title: GetAuthenticationLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Parses the specified string and returns the last index of the string representation.
 type: docs
 weight: 118
 url: /cpp/system.net.http.headers/authenticationheadervalue/getauthenticationlength/
 ---
-## AuthenticationHeaderValue::GetAuthenticationLength method
+## AuthenticationHeaderValue::GetAuthenticationLength([String](../../../system/string/), **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 Parses the specified string and returns the last index of the string representation.

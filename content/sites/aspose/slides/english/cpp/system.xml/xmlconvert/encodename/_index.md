@@ -1,12 +1,12 @@
 ---
-title: EncodeName
+title: EncodeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the name to a valid XML name.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlconvert/encodename/
 ---
-## XmlConvert::EncodeName method
+## XmlConvert::EncodeName(const [String](../../../system/string/)\&) method
 
 
 Converts the name to a valid XML name.

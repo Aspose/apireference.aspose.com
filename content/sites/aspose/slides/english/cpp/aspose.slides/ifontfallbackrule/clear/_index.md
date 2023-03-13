@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all fonts from the list.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ifontfallbackrule/clear/
 ---
-## IFontFallBackRule::Clear method
+## IFontFallBackRule::Clear() method
 
 
 Removes all fonts from the list.

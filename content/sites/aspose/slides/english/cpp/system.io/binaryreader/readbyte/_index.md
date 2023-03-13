@@ -1,12 +1,12 @@
 ---
-title: ReadByte
+title: ReadByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads a single byte from the input stream.
 type: docs
 weight: 92
 url: /cpp/system.io/binaryreader/readbyte/
 ---
-## BinaryReader::ReadByte method
+## BinaryReader::ReadByte() method
 
 
 Reads a single byte from the input stream.

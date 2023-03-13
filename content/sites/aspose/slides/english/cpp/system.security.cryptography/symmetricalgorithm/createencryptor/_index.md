@@ -1,5 +1,5 @@
 ---
-title: CreateEncryptor
+title: CreateEncryptor()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates encryptor with parameters associated with algorithm object.
 type: docs

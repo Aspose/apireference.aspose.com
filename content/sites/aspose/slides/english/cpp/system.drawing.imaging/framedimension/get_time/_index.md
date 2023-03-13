@@ -1,12 +1,12 @@
 ---
-title: get_Time
+title: get_Time()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the time dimension.
 type: docs
 weight: 40
 url: /cpp/system.drawing.imaging/framedimension/get_time/
 ---
-## FrameDimension::get_Time method
+## FrameDimension::get_Time() method
 
 
 Returns the time dimension.

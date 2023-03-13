@@ -1,12 +1,12 @@
 ---
-title: get_RowGapRule
+title: get_RowGapRule()
 second_title: Aspose.Slides for C++ API Reference
 description: "The type of vertical spacing between rows of a matrix; Vertical spacing units can be lines or points (stored as twips). Default: SingleSpacingGap (0)"
 type: docs
 weight: 157
 url: /cpp/aspose.slides.mathtext/mathmatrix/get_rowgaprule/
 ---
-## MathMatrix::get_RowGapRule method
+## MathMatrix::get_RowGapRule() method
 
 
 The type of vertical spacing between rows of a matrix; Vertical spacing units can be lines or points (stored as twips). Default: SingleSpacingGap (0)

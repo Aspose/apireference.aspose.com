@@ -1,15 +1,15 @@
 ---
-title: get_ColumnCount
+title: get_ColumnCount()
 second_title: Aspose.Slides for C++ API Reference
-description: Number of columns in the matrix.
+description: Number of columns in the matrix
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathmatrix/get_columncount/
 ---
-## IMathMatrix::get_ColumnCount method
+## IMathMatrix::get_ColumnCount() method
 
 
-Number of columns in the matrix.
+Number of columns in the matrix
 
 ```cpp
 virtual int32_t Aspose::Slides::MathText::IMathMatrix::get_ColumnCount()=0

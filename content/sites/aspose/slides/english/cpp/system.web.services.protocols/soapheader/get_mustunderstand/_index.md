@@ -1,12 +1,12 @@
 ---
-title: get_MustUnderstand
+title: get_MustUnderstand()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the SOAP header must be understood.
 type: docs
 weight: 79
 url: /cpp/system.web.services.protocols/soapheader/get_mustunderstand/
 ---
-## SoapHeader::get_MustUnderstand method
+## SoapHeader::get_MustUnderstand() method
 
 
 Gets a value that indicates if the SOAP header must be understood.

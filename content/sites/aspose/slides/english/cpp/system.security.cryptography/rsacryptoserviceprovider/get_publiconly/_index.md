@@ -1,12 +1,12 @@
 ---
-title: get_PublicOnly
+title: get_PublicOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if public key only is present in CSP object.
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/get_publiconly/
 ---
-## RSACryptoServiceProvider::get_PublicOnly method
+## RSACryptoServiceProvider::get_PublicOnly() const method
 
 
 Checks if public key only is present in CSP object.

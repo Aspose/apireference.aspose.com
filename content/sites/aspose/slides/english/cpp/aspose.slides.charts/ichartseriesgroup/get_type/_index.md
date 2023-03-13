@@ -1,12 +1,12 @@
 ---
-title: get_Type
+title: get_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a type of this series group. Read-only CombinableSeriesTypesGroup.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ichartseriesgroup/get_type/
 ---
-## IChartSeriesGroup::get_Type method
+## IChartSeriesGroup::get_Type() method
 
 
 Returns a type of this series group. Read-only [CombinableSeriesTypesGroup](../../combinableseriestypesgroup/).

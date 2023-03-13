@@ -1,5 +1,5 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts the new operation to a collection.
 type: docs

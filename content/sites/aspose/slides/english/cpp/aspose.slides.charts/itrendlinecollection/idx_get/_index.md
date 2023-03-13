@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the element at the specified index. Read-only ITrendline.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/itrendlinecollection/idx_get/
 ---
-## ITrendlineCollection::idx_get method
+## ITrendlineCollection::idx_get(**int32_t**) method
 
 
 Gets the element at the specified index. Read-only [ITrendline](../../itrendline/).

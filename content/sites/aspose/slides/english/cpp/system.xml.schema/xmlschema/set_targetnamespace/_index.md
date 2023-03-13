@@ -1,12 +1,12 @@
 ---
-title: set_TargetNamespace
+title: set_TargetNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the Uniform Resource Identifier (URI) of the schema target namespace.
 type: docs
 weight: 118
 url: /cpp/system.xml.schema/xmlschema/set_targetnamespace/
 ---
-## XmlSchema::set_TargetNamespace method
+## XmlSchema::set_TargetNamespace(const [String](../../../system/string/)\&) method
 
 
 Sets the Uniform Resource Identifier (URI) of the schema target namespace.

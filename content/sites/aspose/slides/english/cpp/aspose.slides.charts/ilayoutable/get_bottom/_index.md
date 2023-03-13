@@ -1,12 +1,12 @@
 ---
-title: get_Bottom
+title: get_Bottom()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the top of the chart element as a fraction of the height of the chart. Read-only float.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/ilayoutable/get_bottom/
 ---
-## ILayoutable::get_Bottom method
+## ILayoutable::get_Bottom() method
 
 
 Gets the top of the chart element as a fraction of the height of the chart. Read-only **float**.

@@ -1,12 +1,12 @@
 ---
-title: Exists
+title: Exists()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified Array object contains an element that satisfies requirements of the specified predicate.
 type: docs
 weight: 742
 url: /cpp/system/array/exists/
 ---
-## Array::Exists method
+## Array::Exists([ArrayPtr](../../arrayptr/)\<T\>, std::function\<**bool**(T)>) method
 
 
 Determines if the specified [Array](../) object contains an element that satisfies requirements of the specified predicate.

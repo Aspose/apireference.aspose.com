@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the schema group.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemagroup/set_name/
 ---
-## XmlSchemaGroup::set_Name method
+## XmlSchemaGroup::set_Name(const [String](../../../system/string/)\&) method
 
 
 Sets the name of the schema group.

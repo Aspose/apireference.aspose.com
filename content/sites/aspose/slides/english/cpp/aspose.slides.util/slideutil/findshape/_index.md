@@ -1,5 +1,5 @@
 ---
-title: FindShape
+title: FindShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Find shape by alternative text in a PPTX presentation.
 type: docs

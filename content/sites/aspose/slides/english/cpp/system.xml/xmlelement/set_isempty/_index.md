@@ -1,12 +1,12 @@
 ---
-title: set_IsEmpty
+title: set_IsEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the tag format of the element.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlelement/set_isempty/
 ---
-## XmlElement::set_IsEmpty method
+## XmlElement::set_IsEmpty(**bool**) method
 
 
 Sets the tag format of the element.

@@ -1,12 +1,12 @@
 ---
-title: get_ColumnName
+title: get_ColumnName()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data/datacolumn/get_columnname/
 ---
-## DataColumn::get_ColumnName method
+## DataColumn::get_ColumnName() method
 
 
 RTTI information.

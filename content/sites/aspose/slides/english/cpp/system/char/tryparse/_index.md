@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a string consisting of a single character into UTF-16 character. The function succeeds only when input string is not null and has length of exactly one character.
 type: docs
 weight: 300
 url: /cpp/system/char/tryparse/
 ---
-## Char::TryParse method
+## Char::TryParse(const [System::String](../../string/)\&, char_t\&) method
 
 
 Tries to convert a string consisting of a single character into UTF-16 character. The function succeeds only when input string is not null and has length of exactly one character.

@@ -1,12 +1,12 @@
 ---
-title: get_Property
+title: get_Property()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an ActiveX property at the specified index.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/icontrol/get_property/
 ---
-## IControl::get_Property method
+## IControl::get_Property([System::String](../../../system/string/)) method
 
 
 Returns an ActiveX property at the specified index.

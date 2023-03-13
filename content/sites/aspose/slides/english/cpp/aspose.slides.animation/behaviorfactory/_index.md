@@ -1,7 +1,7 @@
 ---
 title: BehaviorFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create animation effects.
+description: Allows to create animation effects
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/behaviorfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.animation/behaviorfactory/
 ## BehaviorFactory class
 
 
-Allows to create animation effects.
+Allows to create animation effects
 
 ```cpp
 class BehaviorFactory : public Aspose::Slides::Animation::IBehaviorFactory

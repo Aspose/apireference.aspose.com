@@ -1,12 +1,12 @@
 ---
-title: get_ExternalUrl
+title: get_ExternalUrl()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the external URL If this property become not null then property TargetSlide become null. Read-only System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ihyperlink/get_externalurl/
 ---
-## IHyperlink::get_ExternalUrl method
+## IHyperlink::get_ExternalUrl() method
 
 
 Specifies the external URL If this property become not null then property TargetSlide become null. Read-only [System::String](../../../system/string/).

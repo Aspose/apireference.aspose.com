@@ -1,5 +1,5 @@
 ---
-title: GetCertHashString
+title: GetCertHashString()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets SHA1 hash for the current object as a hexadecimal string.
 type: docs

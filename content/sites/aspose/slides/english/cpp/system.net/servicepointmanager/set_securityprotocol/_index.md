@@ -1,12 +1,12 @@
 ---
-title: set_SecurityProtocol
+title: set_SecurityProtocol()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the security protocol type used by the ServicePoint-class instances that are managed by the current instance.
 type: docs
 weight: 14
 url: /cpp/system.net/servicepointmanager/set_securityprotocol/
 ---
-## ServicePointManager::set_SecurityProtocol method
+## ServicePointManager::set_SecurityProtocol([SecurityProtocolType](../../securityprotocoltype/)) method
 
 
 Sets the security protocol type used by the ServicePoint-class instances that are managed by the current instance.

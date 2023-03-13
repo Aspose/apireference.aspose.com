@@ -1,5 +1,5 @@
 ---
-title: LinearGradientBrush
+title: LinearGradientBrush()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of LinearGradientBrush.
 type: docs

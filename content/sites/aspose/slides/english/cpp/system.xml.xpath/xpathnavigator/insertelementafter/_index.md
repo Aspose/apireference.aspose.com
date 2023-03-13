@@ -1,12 +1,12 @@
 ---
-title: InsertElementAfter
+title: InsertElementAfter()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new sibling element after the current node using the namespace prefix, local name and namespace URI specified, with the value specified.
 type: docs
 weight: 1028
 url: /cpp/system.xml.xpath/xpathnavigator/insertelementafter/
 ---
-## XPathNavigator::InsertElementAfter method
+## XPathNavigator::InsertElementAfter([String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Creates a new sibling element after the current node using the namespace prefix, local name and namespace URI specified, with the value specified.

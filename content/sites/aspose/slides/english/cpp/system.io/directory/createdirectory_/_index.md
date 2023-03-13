@@ -1,12 +1,12 @@
 ---
-title: CreateDirectory_
+title: CreateDirectory_()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates all directories in the specified path if those don't exist.
 type: docs
 weight: 1
 url: /cpp/system.io/directory/createdirectory_/
 ---
-## Directory::CreateDirectory_ method
+## Directory::CreateDirectory_(const [String](../../../system/string/)\&) method
 
 
 Creates all directories in the specified path if those don't exist.

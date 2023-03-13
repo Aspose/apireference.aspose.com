@@ -1,12 +1,12 @@
 ---
-title: SerializationInfo
+title: SerializationInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.runtime.serialization/serializationinfo/serializationinfo/
 ---
-## SerializationInfo::SerializationInfo constructor
+## SerializationInfo::SerializationInfo(const [System::TypeInfo](../../../system/typeinfo/)\&, const [System::SharedPtr](../../../system/sharedptr/)\<[IFormatterConverter](../../iformatterconverter/)\>\&) constructor
 
 
 RTTI information.

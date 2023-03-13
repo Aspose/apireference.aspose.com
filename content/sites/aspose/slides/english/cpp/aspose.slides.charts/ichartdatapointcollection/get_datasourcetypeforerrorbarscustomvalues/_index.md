@@ -1,15 +1,15 @@
 ---
-title: get_DataSourceTypeForErrorBarsCustomValues
+title: get_DataSourceTypeForErrorBarsCustomValues()
 second_title: Aspose.Slides for C++ API Reference
-description: Specifies the type of values in ChartDataPoint.ErrorBarsCustomValues properties list\\uFFFD Read-only IDataSourceTypeForErrorBarsCustomValues.
+description: Specifies the type of values in ChartDataPoint.ErrorBarsCustomValues properties list. Read-only IDataSourceTypeForErrorBarsCustomValues.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/ichartdatapointcollection/get_datasourcetypeforerrorbarscustomvalues/
 ---
-## IChartDataPointCollection::get_DataSourceTypeForErrorBarsCustomValues method
+## IChartDataPointCollection::get_DataSourceTypeForErrorBarsCustomValues() method
 
 
-Specifies the type of values in ChartDataPoint.ErrorBarsCustomValues properties list\\uFFFD Read-only [IDataSourceTypeForErrorBarsCustomValues](../../idatasourcetypeforerrorbarscustomvalues/).
+Specifies the type of values in ChartDataPoint.ErrorBarsCustomValues properties list. Read-only [IDataSourceTypeForErrorBarsCustomValues](../../idatasourcetypeforerrorbarscustomvalues/).
 
 ```cpp
 virtual System::SharedPtr<IDataSourceTypeForErrorBarsCustomValues> Aspose::Slides::Charts::IChartDataPointCollection::get_DataSourceTypeForErrorBarsCustomValues()=0

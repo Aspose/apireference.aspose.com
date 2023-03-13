@@ -1,12 +1,12 @@
 ---
-title: get_Fallback
+title: get_Fallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets error handling fallback.
 type: docs
 weight: 1
 url: /cpp/system.text/decoder/get_fallback/
 ---
-## Decoder::get_Fallback method
+## Decoder::get_Fallback() const method
 
 
 Gets error handling fallback.

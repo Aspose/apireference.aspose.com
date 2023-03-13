@@ -1,12 +1,12 @@
 ---
-title: get_IsSynchronized
+title: get_IsSynchronized()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if container is thread-safe.
 type: docs
 weight: 118
 url: /cpp/system.collections.generic/idictionary/get_issynchronized/
 ---
-## IDictionary::get_IsSynchronized method
+## IDictionary::get_IsSynchronized() const method
 
 
 Checks if container is thread-safe.

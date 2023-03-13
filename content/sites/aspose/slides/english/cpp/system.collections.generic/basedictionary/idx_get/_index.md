@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Keyed getter function.
 type: docs
 weight: 79
 url: /cpp/system.collections.generic/basedictionary/idx_get/
 ---
-## BaseDictionary::idx_get method
+## BaseDictionary::idx_get(const key_t\&) const method
 
 
 Keyed getter function.

@@ -1,12 +1,12 @@
 ---
-title: WebClient
+title: WebClient()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 1
 url: /cpp/system.net/webclient/webclient/
 ---
-## WebClient::WebClient constructor
+## WebClient::WebClient() constructor
 
 
 Constructs a new instance.

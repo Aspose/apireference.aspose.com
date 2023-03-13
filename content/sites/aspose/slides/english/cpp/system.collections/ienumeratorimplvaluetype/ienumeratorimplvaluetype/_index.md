@@ -1,12 +1,12 @@
 ---
-title: IEnumeratorImplValueType
+title: IEnumeratorImplValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: wrapper constructor
 type: docs
 weight: 1
 url: /cpp/system.collections/ienumeratorimplvaluetype/ienumeratorimplvaluetype/
 ---
-## IEnumeratorImplValueType::IEnumeratorImplValueType constructor
+## IEnumeratorImplValueType::IEnumeratorImplValueType([System::SharedPtr](../../../system/sharedptr/)\<[System::Collections::Generic::IEnumerator](../../../system.collections.generic/ienumerator/)\<T\>\>) constructor
 
 
 wrapper constructor

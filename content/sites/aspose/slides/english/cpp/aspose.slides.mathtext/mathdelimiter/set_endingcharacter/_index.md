@@ -1,12 +1,12 @@
 ---
-title: set_EndingCharacter
+title: set_EndingCharacter()
 second_title: Aspose.Slides for C++ API Reference
 description: "Delimiter Ending Character specifies the ending, or closing, delimiter character. Mathematical delimiters are enclosing characters such as parentheses, brackets, and braces. The default: ')'."
 type: docs
 weight: 79
 url: /cpp/aspose.slides.mathtext/mathdelimiter/set_endingcharacter/
 ---
-## MathDelimiter::set_EndingCharacter method
+## MathDelimiter::set_EndingCharacter(char16_t) method
 
 
 Delimiter Ending Character specifies the ending, or closing, delimiter character. Mathematical delimiters are enclosing characters such as parentheses, brackets, and braces. The default: ')'.

@@ -1,5 +1,5 @@
 ---
-title: Import
+title: Import()
 second_title: Aspose.Slides for C++ API Reference
 description: Imports information from the specified certificate file.
 type: docs

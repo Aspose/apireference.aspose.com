@@ -1,12 +1,12 @@
 ---
-title: InsertAudioFrameLinked
+title: InsertAudioFrameLinked()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new audio frame with linked audio file and inserts it to a collection at the specified index.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/shapecollection/insertaudioframelinked/
 ---
-## ShapeCollection::InsertAudioFrameLinked method
+## ShapeCollection::InsertAudioFrameLinked(**int32_t**, **float**, **float**, **float**, **float**, [System::String](../../../system/string/)) method
 
 
 Creates a new audio frame with linked audio file and inserts it to a collection at the specified index.

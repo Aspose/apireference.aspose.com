@@ -1,12 +1,12 @@
 ---
-title: ToSByte
+title: ToSByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a int8_t.
 type: docs
 weight: 131
 url: /cpp/system.runtime.serialization/formatterconverter/tosbyte/
 ---
-## FormatterConverter::ToSByte method
+## FormatterConverter::ToSByte([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a **int8_t**.

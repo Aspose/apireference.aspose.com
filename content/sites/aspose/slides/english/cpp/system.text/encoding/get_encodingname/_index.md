@@ -1,12 +1,12 @@
 ---
-title: get_EncodingName
+title: get_EncodingName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets human-readable encoding name.
 type: docs
 weight: 79
 url: /cpp/system.text/encoding/get_encodingname/
 ---
-## Encoding::get_EncodingName method
+## Encoding::get_EncodingName() method
 
 
 Gets human-readable encoding name.

@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective table column formatting properties with inheritance and table styles applied.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/icolumnformat/geteffective/
 ---
-## IColumnFormat::GetEffective method
+## IColumnFormat::GetEffective() method
 
 
 Gets effective table column formatting properties with inheritance and table styles applied.

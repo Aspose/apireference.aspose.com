@@ -1,12 +1,12 @@
 ---
-title: ReadAsByteArray
+title: ReadAsByteArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Serializes content and returns a byte array.
 type: docs
 weight: 40
 url: /cpp/system.net.http/httpcontent/readasbytearray/
 ---
-## HttpContent::ReadAsByteArray method
+## HttpContent::ReadAsByteArray() method
 
 
 Serializes content and returns a byte array.

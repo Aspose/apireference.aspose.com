@@ -1,12 +1,12 @@
 ---
-title: get_Depth
+title: get_Depth()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the depth of the current node in the XML document.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlnodereader/get_depth/
 ---
-## XmlNodeReader::get_Depth method
+## XmlNodeReader::get_Depth() method
 
 
 Returns the depth of the current node in the XML document.

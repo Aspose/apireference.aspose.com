@@ -1,12 +1,12 @@
 ---
-title: SetCreationTimeUtc
+title: SetCreationTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the creation time of the specified entity as UTC time.
 type: docs
 weight: 222
 url: /cpp/system.io/directory/setcreationtimeutc/
 ---
-## Directory::SetCreationTimeUtc method
+## Directory::SetCreationTimeUtc(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
 
 
 Sets the creation time of the specified entity as UTC time.

@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaMinInclusiveFacet
+title: XmlSchemaMinInclusiveFacet()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaMinInclusiveFacet class.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemamininclusivefacet/xmlschemamininclusivefacet/
 ---
-## XmlSchemaMinInclusiveFacet::XmlSchemaMinInclusiveFacet constructor
+## XmlSchemaMinInclusiveFacet::XmlSchemaMinInclusiveFacet() constructor
 
 
 Initializes a new instance of the [XmlSchemaMinInclusiveFacet](../) class.

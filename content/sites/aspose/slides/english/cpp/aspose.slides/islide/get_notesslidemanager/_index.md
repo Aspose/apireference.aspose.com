@@ -1,12 +1,12 @@
 ---
-title: get_NotesSlideManager
+title: get_NotesSlideManager()
 second_title: Aspose.Slides for C++ API Reference
 description: Allow to access notes slide, add and remove it. Read-only INotesSlideManager.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/islide/get_notesslidemanager/
 ---
-## ISlide::get_NotesSlideManager method
+## ISlide::get_NotesSlideManager() method
 
 
 Allow to access notes slide, add and remove it. Read-only [INotesSlideManager](../../inotesslidemanager/).

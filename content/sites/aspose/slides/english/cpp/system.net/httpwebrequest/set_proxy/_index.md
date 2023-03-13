@@ -1,12 +1,12 @@
 ---
-title: set_Proxy
+title: set_Proxy()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the HTTP proxy.
 type: docs
 weight: 339
 url: /cpp/system.net/httpwebrequest/set_proxy/
 ---
-## HttpWebRequest::set_Proxy method
+## HttpWebRequest::set_Proxy([System::SharedPtr](../../../system/sharedptr/)\<[IWebProxy](../../iwebproxy/)\>) method
 
 
 Sets the HTTP proxy.

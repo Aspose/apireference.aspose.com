@@ -1,12 +1,12 @@
 ---
-title: VerifySetDefaults
+title: VerifySetDefaults()
 second_title: Aspose.Slides for C++ API Reference
 description: Verifies and sets the default attribute's values.
 type: docs
 weight: 482
 url: /cpp/system.net/cookie/verifysetdefaults/
 ---
-## Cookie::VerifySetDefaults method
+## Cookie::VerifySetDefaults([CookieVariant](../../cookievariant/), [System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, **bool**, [String](../../../system/string/), **bool**, **bool**) method
 
 
 Verifies and sets the default attribute's values.

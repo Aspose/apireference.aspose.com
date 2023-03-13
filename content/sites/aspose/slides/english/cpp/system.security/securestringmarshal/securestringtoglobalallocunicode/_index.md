@@ -1,12 +1,12 @@
 ---
-title: SecureStringToGlobalAllocUnicode
+title: SecureStringToGlobalAllocUnicode()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies contents of specified secure string into unmanaged memory.
 type: docs
 weight: 14
 url: /cpp/system.security/securestringmarshal/securestringtoglobalallocunicode/
 ---
-## SecureStringMarshal::SecureStringToGlobalAllocUnicode method
+## SecureStringMarshal::SecureStringToGlobalAllocUnicode(const [SharedPtr](../../../system/sharedptr/)\<[Security::SecureString](../../securestring/)\>\&) method
 
 
 Copies contents of specified secure string into unmanaged memory.

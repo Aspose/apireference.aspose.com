@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a key and a value pair of a tag.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/itagcollection/idx_get/
 ---
-## ITagCollection::idx_get method
+## ITagCollection::idx_get([System::String](../../../system/string/)) method
 
 
 Returns a key and a value pair of a tag.

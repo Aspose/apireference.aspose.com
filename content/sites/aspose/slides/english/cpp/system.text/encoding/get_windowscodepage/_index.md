@@ -1,12 +1,12 @@
 ---
-title: get_WindowsCodePage
+title: get_WindowsCodePage()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets Windows codepage ID.
 type: docs
 weight: 40
 url: /cpp/system.text/encoding/get_windowscodepage/
 ---
-## Encoding::get_WindowsCodePage method
+## Encoding::get_WindowsCodePage() method
 
 
 Gets [Windows](../../../system.windows/) codepage ID.

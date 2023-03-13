@@ -1,12 +1,12 @@
 ---
-title: set_FullDateTimePattern
+title: set_FullDateTimePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets full date and time pattern.
 type: docs
 weight: 456
 url: /cpp/system.globalization/datetimeformatinfo/set_fulldatetimepattern/
 ---
-## DateTimeFormatInfo::set_FullDateTimePattern method
+## DateTimeFormatInfo::set_FullDateTimePattern(const [String](../../../system/string/)\&) method
 
 
 Sets full date and time pattern.

@@ -1,12 +1,12 @@
 ---
-title: GetAddressBytes
+title: GetAddressBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a byte array of the IP address.
 type: docs
 weight: 118
 url: /cpp/system.net/ipaddress/getaddressbytes/
 ---
-## IPAddress::GetAddressBytes method
+## IPAddress::GetAddressBytes() method
 
 
 Returns a byte array of the IP address.

@@ -1,5 +1,5 @@
 ---
-title: Change
+title: Change()
 second_title: Aspose.Slides for C++ API Reference
 description: Re-schedules or cancels timer.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_StandardOutput
+title: get_StandardOutput()
 second_title: Aspose.Slides for C++ API Reference
 description: Provides reader to read from process standard output. Not implemented.
 type: docs
 weight: 53
 url: /cpp/system.diagnostics/process/get_standardoutput/
 ---
-## Process::get_StandardOutput method
+## Process::get_StandardOutput() const method
 
 
 Provides reader to read from process standard output. Not implemented.

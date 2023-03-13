@@ -1,12 +1,12 @@
 ---
-title: set_CertificatePolicy
+title: set_CertificatePolicy()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a certificate policy.
 type: docs
 weight: 222
 url: /cpp/system.net/servicepointmanager/set_certificatepolicy/
 ---
-## ServicePointManager::set_CertificatePolicy method
+## ServicePointManager::set_CertificatePolicy([System::SharedPtr](../../../system/sharedptr/)\<ICertificatePolicy\>) method
 
 
 Sets a certificate policy.

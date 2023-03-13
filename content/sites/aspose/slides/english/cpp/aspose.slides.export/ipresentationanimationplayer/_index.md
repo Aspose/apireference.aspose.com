@@ -25,7 +25,7 @@ class IPresentationAnimationPlayer : public virtual System::Object
 | static **bool** [Equals](../../system/object/equals/)(**float** const\&, **float** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
-| virtual ASPOSE_SLIDES_LOCAL_API **double** [get_Duration](./get_duration/)() | Get animation duration [ms]. |
+| virtual ASPOSE_SLIDES_LOCAL_API **double** [get_Duration](./get_duration/)() | Get animation duration [ms] |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual ASPOSE_SLIDES_LOCAL_API [System::SharedPtr](../../system/sharedptr/)\<[System::Drawing::Bitmap](../../system.drawing/bitmap/)\> [GetFrame](./getframe/)() | Get the frame for the current time position previously set with the [IPresentationAnimationPlayer::SetTimePosition](./settimeposition/) method. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |

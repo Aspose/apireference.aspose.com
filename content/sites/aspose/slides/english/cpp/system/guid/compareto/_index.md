@@ -1,12 +1,12 @@
 ---
-title: CompareTo
+title: CompareTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs arithmetic comparison of the GUIDs represented by the current and specified objects.
 type: docs
 weight: 40
 url: /cpp/system/guid/compareto/
 ---
-## Guid::CompareTo method
+## Guid::CompareTo(const [Guid](../)\&) const method
 
 
 Performs arithmetic comparison of the GUIDs represented by the current and specified objects.

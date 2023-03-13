@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the format of a legend. Read-only IFormat.
 type: docs
 weight: 196
 url: /cpp/aspose.slides.charts/legend/get_format/
 ---
-## Legend::get_Format method
+## Legend::get_Format() method
 
 
 Returns the format of a legend. Read-only [IFormat](../../iformat/).

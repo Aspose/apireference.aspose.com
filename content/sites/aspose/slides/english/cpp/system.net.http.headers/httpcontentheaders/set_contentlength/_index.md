@@ -1,12 +1,12 @@
 ---
-title: set_ContentLength
+title: set_ContentLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Content-Length' header.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contentlength/
 ---
-## HttpContentHeaders::set_ContentLength method
+## HttpContentHeaders::set_ContentLength([Nullable](../../../system/nullable/)\<**int64_t**\>) method
 
 
 Sets a value of the 'Content-Length' header.

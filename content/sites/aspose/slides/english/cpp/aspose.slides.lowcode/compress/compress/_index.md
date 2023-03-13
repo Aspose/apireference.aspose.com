@@ -1,12 +1,12 @@
 ---
-title: Compress
+title: Compress()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 40
 url: /cpp/aspose.slides.lowcode/compress/compress/
 ---
-## Compress::Compress constructor
+## Compress::Compress() constructor
 
 
 

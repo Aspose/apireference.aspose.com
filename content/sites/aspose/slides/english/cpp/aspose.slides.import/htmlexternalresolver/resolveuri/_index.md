@@ -1,12 +1,12 @@
 ---
-title: ResolveUri
+title: ResolveUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Resolves the absolute URI from the base and relative URIs.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.import/htmlexternalresolver/resolveuri/
 ---
-## HtmlExternalResolver::ResolveUri method
+## HtmlExternalResolver::ResolveUri([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Resolves the absolute URI from the base and relative URIs.

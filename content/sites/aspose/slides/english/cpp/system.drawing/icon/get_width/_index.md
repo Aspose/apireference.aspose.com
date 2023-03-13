@@ -1,12 +1,12 @@
 ---
-title: get_Width
+title: get_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the width of the icon.
 type: docs
 weight: 40
 url: /cpp/system.drawing/icon/get_width/
 ---
-## Icon::get_Width method
+## Icon::get_Width() const method
 
 
 Returns the width of the icon.

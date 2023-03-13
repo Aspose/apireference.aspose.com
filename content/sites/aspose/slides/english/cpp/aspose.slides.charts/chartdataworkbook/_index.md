@@ -1,7 +1,7 @@
 ---
 title: ChartDataWorkbook
 second_title: Aspose.Slides for C++ API Reference
-description: Provides access to embedded Excel workbook.
+description: Provides access to embedded Excel workbook
 type: docs
 weight: 196
 url: /cpp/aspose.slides.charts/chartdataworkbook/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/chartdataworkbook/
 ## ChartDataWorkbook class
 
 
-Provides access to embedded Excel workbook.
+Provides access to embedded Excel workbook
 
 ```cpp
 class ChartDataWorkbook : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartData>>,
@@ -21,7 +21,7 @@ class ChartDataWorkbook : public Aspose::Slides::DomObject<System::SharedPtr<Asp
 | Method | Description |
 | --- | --- |
 | void [CalculateFormulas](./calculateformulas/)() override | Calculates all formulas in the workbook and updates corresponding cells values. |
-| void [Clear](./clear/)(**int32_t**) override | Clear all cells values on sheet. |
+| void [Clear](./clear/)(**int32_t**) override | Clear all cells values on sheet |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |
@@ -30,11 +30,11 @@ class ChartDataWorkbook : public Aspose::Slides::DomObject<System::SharedPtr<Asp
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
 | [System::SharedPtr](../../system/sharedptr/)\<[IChartDataWorksheet](../ichartdataworksheet/)\> [get_Worksheet](./get_worksheet/)(**int32_t**) override | Returns worksheet of this workbook at the specified index. |
 | [System::SharedPtr](../../system/sharedptr/)\<[IChartDataWorksheetCollection](../ichartdataworksheetcollection/)\> [get_Worksheets](./get_worksheets/)() override | Gets a collection of worksheets. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)([System::String](../../system/string/), **int32_t**, **int32_t**) override | Gets the cell that can be used for chart series or categories. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)(**int32_t**, **int32_t**, **int32_t**) override | Gets the cell that can be used for chart series or categories. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)(**int32_t**, [System::String](../../system/string/)) override | Gets the cell that can be used for chart series or categories. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)(**int32_t**, [System::String](../../system/string/), [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\>) override | Gets the cell that can be used for chart series or categories. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)(**int32_t**, **int32_t**, **int32_t**, [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\>) override | Gets the cell that can be used for chart series or categories. |
+| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)([System::String](../../system/string/), **int32_t**, **int32_t**) override | Gets the cell that can be used for chart series or categories |
+| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)(**int32_t**, **int32_t**, **int32_t**) override | Gets the cell that can be used for chart series or categories |
+| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)(**int32_t**, [System::String](../../system/string/)) override | Gets the cell that can be used for chart series or categories |
+| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)(**int32_t**, [System::String](../../system/string/), [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\>) override | Gets the cell that can be used for chart series or categories |
+| [System::SharedPtr](../../system/sharedptr/)\<[IChartDataCell](../ichartdatacell/)\> [GetCell](./getcell/)(**int32_t**, **int32_t**, **int32_t**, [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\>) override | Gets the cell that can be used for chart series or categories |
 | [System::SharedPtr](../../system/sharedptr/)\<[IChartCellCollection](../ichartcellcollection/)\> [GetCellCollection](./getcellcollection/)([System::String](../../system/string/), **bool**) override | Gets the set of cells. |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |

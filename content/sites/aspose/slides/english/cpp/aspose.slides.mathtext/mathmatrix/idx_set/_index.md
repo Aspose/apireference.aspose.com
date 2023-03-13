@@ -1,15 +1,15 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
-description: Element of matrix.
+description: Element of matrix
 type: docs
 weight: 222
 url: /cpp/aspose.slides.mathtext/mathmatrix/idx_set/
 ---
-## MathMatrix::idx_set method
+## MathMatrix::idx_set(**int32_t**, **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Element of matrix.
+Element of matrix
 
 ```cpp
 void Aspose::Slides::MathText::MathMatrix::idx_set(int32_t row, int32_t column, System::SharedPtr<IMathElement> value) override

@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current and specified objects represent the same range.
 type: docs
 weight: 66
 url: /cpp/system.drawing/characterrange/operator_equal_equal/
 ---
-## CharacterRange::operator== method
+## CharacterRange::operator==(const [CharacterRange](../)\&) const method
 
 
 Determines if the current and specified objects represent the same range.

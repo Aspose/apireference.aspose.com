@@ -1,12 +1,12 @@
 ---
-title: get_Expires
+title: get_Expires()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Expires' header.
 type: docs
 weight: 196
 url: /cpp/system.net.http.headers/httpcontentheaders/get_expires/
 ---
-## HttpContentHeaders::get_Expires method
+## HttpContentHeaders::get_Expires() method
 
 
 Gets a value of the 'Expires' header.

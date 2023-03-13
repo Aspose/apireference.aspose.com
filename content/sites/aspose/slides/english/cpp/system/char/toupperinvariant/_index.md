@@ -1,12 +1,12 @@
 ---
-title: ToUpperInvariant
+title: ToUpperInvariant()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified character to upper case.
 type: docs
 weight: 248
 url: /cpp/system/char/toupperinvariant/
 ---
-## Char::ToUpperInvariant method
+## Char::ToUpperInvariant(char_t) method
 
 
 Converts the specified character to upper case.

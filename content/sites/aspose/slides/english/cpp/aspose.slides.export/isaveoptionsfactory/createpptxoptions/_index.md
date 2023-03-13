@@ -1,12 +1,12 @@
 ---
-title: CreatePptxOptions
+title: CreatePptxOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates PPTX save options.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/isaveoptionsfactory/createpptxoptions/
 ---
-## ISaveOptionsFactory::CreatePptxOptions method
+## ISaveOptionsFactory::CreatePptxOptions() method
 
 
 Creates PPTX save options.

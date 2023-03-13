@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes item from container.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/ikvcollection/remove/
 ---
-## IKVCollection::Remove method
+## IKVCollection::Remove(const T\&) method
 
 
 Removes item from container.

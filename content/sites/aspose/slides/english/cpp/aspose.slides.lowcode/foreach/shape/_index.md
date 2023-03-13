@@ -1,5 +1,5 @@
 ---
-title: Shape
+title: Shape()
 second_title: Aspose.Slides for C++ API Reference
 description: "Iterate each ForEach::Shape in the Presentation."
 type: docs

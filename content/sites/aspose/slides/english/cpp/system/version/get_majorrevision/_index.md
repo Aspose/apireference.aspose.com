@@ -1,12 +1,12 @@
 ---
-title: get_MajorRevision
+title: get_MajorRevision()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the high 16-bit value of the revision number.
 type: docs
 weight: 66
 url: /cpp/system/version/get_majorrevision/
 ---
-## Version::get_MajorRevision method
+## Version::get_MajorRevision() const method
 
 
 Returns the high 16-bit value of the revision number.

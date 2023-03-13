@@ -1,12 +1,12 @@
 ---
-title: set_PositiveInfinitySymbol
+title: set_PositiveInfinitySymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets positive infinity symbol.
 type: docs
 weight: 443
 url: /cpp/system.globalization/numberformatinfo/set_positiveinfinitysymbol/
 ---
-## NumberFormatInfo::set_PositiveInfinitySymbol method
+## NumberFormatInfo::set_PositiveInfinitySymbol(const [String](../../../system/string/)\&) method
 
 
 Sets positive infinity symbol.

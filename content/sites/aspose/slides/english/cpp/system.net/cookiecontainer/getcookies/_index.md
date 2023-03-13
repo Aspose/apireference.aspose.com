@@ -1,12 +1,12 @@
 ---
-title: GetCookies
+title: GetCookies()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of cookies that are associated with the specified URI.
 type: docs
 weight: 144
 url: /cpp/system.net/cookiecontainer/getcookies/
 ---
-## CookieContainer::GetCookies method
+## CookieContainer::GetCookies([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Returns a collection of cookies that are associated with the specified URI.

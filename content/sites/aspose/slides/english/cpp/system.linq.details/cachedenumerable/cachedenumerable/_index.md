@@ -1,12 +1,12 @@
 ---
-title: CachedEnumerable
+title: CachedEnumerable()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.linq.details/cachedenumerable/cachedenumerable/
 ---
-## CachedEnumerable::CachedEnumerable constructor
+## CachedEnumerable::CachedEnumerable([System::Func](../../../system/func/)\<**bool**\>) constructor
 
 
 

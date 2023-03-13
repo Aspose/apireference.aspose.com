@@ -1,12 +1,12 @@
 ---
-title: GetFolderPath
+title: GetFolderPath()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns fully qualified path to the specified system folder.
 type: docs
 weight: 339
 url: /cpp/system/environment/getfolderpath/
 ---
-## Environment::GetFolderPath method
+## Environment::GetFolderPath([SpecialFolder](../specialfolder/)) method
 
 
 Returns fully qualified path to the specified system folder.

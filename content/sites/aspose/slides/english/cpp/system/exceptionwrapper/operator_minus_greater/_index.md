@@ -1,12 +1,12 @@
 ---
-title: operator->
+title: operator->()
 second_title: Aspose.Slides for C++ API Reference
 description: Allows to access members of the Exception object.
 type: docs
 weight: 40
 url: /cpp/system/exceptionwrapper/operator_minus_greater/
 ---
-## ExceptionWrapper::operator-> method
+## ExceptionWrapper::operator->() const method
 
 
 Allows to access members of the Exception object.

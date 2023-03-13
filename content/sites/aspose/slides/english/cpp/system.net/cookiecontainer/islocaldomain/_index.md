@@ -1,12 +1,12 @@
 ---
-title: IsLocalDomain
+title: IsLocalDomain()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the specified domain is localhost.
 type: docs
 weight: 118
 url: /cpp/system.net/cookiecontainer/islocaldomain/
 ---
-## CookieContainer::IsLocalDomain method
+## CookieContainer::IsLocalDomain([String](../../../system/string/)) method
 
 
 Checks if the specified domain is localhost.

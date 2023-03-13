@@ -1,12 +1,12 @@
 ---
-title: set_Age
+title: set_Age()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Age' header.
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/httpresponseheaders/set_age/
 ---
-## HttpResponseHeaders::set_Age method
+## HttpResponseHeaders::set_Age([Nullable](../../../system/nullable/)\<[TimeSpan](../../../system/timespan/)\>) method
 
 
 Sets a value of the 'Age' header.

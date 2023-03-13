@@ -1,12 +1,12 @@
 ---
-title: ~ScopedCulture
+title: ~ScopedCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system/scopedculture/~scopedculture/
 ---
-## ScopedCulture::~ScopedCulture method
+## ScopedCulture::~ScopedCulture() method
 
 
 

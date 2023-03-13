@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns property.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/controlpropertiescollection/idx_get/
 ---
-## ControlPropertiesCollection::idx_get method
+## ControlPropertiesCollection::idx_get([System::String](../../../system/string/)) method
 
 
 Returns property.

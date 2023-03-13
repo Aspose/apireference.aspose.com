@@ -1,12 +1,12 @@
 ---
-title: set_PresetNumberFormat
+title: set_PresetNumberFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the built-in display format of numbers and dates. Preset number must be in [0..22] or [37..49]. Write uint8_t.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/chartdatacell/set_presetnumberformat/
 ---
-## ChartDataCell::set_PresetNumberFormat method
+## ChartDataCell::set_PresetNumberFormat(**uint8_t**) method
 
 
 Sets the built-in display format of numbers and dates. Preset number must be in [0..22] or [37..49]. Write **uint8_t**.

@@ -1,12 +1,12 @@
 ---
-title: set_SocketErrorCode
+title: set_SocketErrorCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the socket error code.
 type: docs
 weight: 40
 url: /cpp/system.net.sockets/details_socketexception/set_socketerrorcode/
 ---
-## Details_SocketException::set_SocketErrorCode method
+## Details_SocketException::set_SocketErrorCode([SocketError](../../socketerror/)) method
 
 
 Sets the socket error code.

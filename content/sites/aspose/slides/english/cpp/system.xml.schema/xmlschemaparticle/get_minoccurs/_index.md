@@ -1,12 +1,12 @@
 ---
-title: get_MinOccurs
+title: get_MinOccurs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the minimum number of times the particle can occur.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaparticle/get_minoccurs/
 ---
-## XmlSchemaParticle::get_MinOccurs method
+## XmlSchemaParticle::get_MinOccurs() method
 
 
 Returns the minimum number of times the particle can occur.

@@ -1,12 +1,12 @@
 ---
-title: get_Eras
+title: get_Eras()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets list of eras existing in calendar.
 type: docs
 weight: 40
 url: /cpp/system.globalization/japaneselunisolarcalendar/get_eras/
 ---
-## JapaneseLunisolarCalendar::get_Eras method
+## JapaneseLunisolarCalendar::get_Eras() const method
 
 
 Gets list of eras existing in calendar.

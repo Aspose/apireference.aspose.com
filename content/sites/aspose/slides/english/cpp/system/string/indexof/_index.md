@@ -1,5 +1,5 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Substring forward lookup.
 type: docs

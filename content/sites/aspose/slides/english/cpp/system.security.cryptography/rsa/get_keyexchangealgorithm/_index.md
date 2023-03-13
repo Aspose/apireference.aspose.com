@@ -1,12 +1,12 @@
 ---
-title: get_KeyExchangeAlgorithm
+title: get_KeyExchangeAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks key exchange algorithm associated with object.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/rsa/get_keyexchangealgorithm/
 ---
-## RSA::get_KeyExchangeAlgorithm method
+## RSA::get_KeyExchangeAlgorithm() method
 
 
 Checks key exchange algorithm associated with object.

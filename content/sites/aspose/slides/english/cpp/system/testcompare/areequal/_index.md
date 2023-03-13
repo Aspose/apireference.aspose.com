@@ -1,5 +1,5 @@
 ---
-title: AreEqual
+title: AreEqual()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares arrays of non-pointers.
 type: docs

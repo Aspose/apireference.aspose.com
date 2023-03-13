@@ -1,12 +1,12 @@
 ---
-title: FromHbitmap
+title: FromHbitmap()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a Bitmap object from the specified GDI bitmap.
 type: docs
 weight: 391
 url: /cpp/system.drawing/image/fromhbitmap/
 ---
-## Image::FromHbitmap method
+## Image::FromHbitmap(IntPtr) method
 
 
 Constructs a [Bitmap](../../bitmap/) object from the specified GDI bitmap.

@@ -1,12 +1,12 @@
 ---
-title: GetObjectOwner
+title: GetObjectOwner()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets referenced object.
 type: docs
 weight: 157
 url: /cpp/system/smartptr/getobjectowner/
 ---
-## SmartPtr::GetObjectOwner method
+## SmartPtr::GetObjectOwner() const method
 
 
 Gets referenced object.

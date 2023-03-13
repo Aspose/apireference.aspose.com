@@ -1,12 +1,12 @@
 ---
-title: IsBar3DChart
+title: IsBar3DChart()
 second_title: Aspose.Slides for C++ API Reference
 description: Return true if chartType is one of bar3DChart subtypes (3D columns or bars).
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/charttypecharacterizer/isbar3dchart/
 ---
-## ChartTypeCharacterizer::IsBar3DChart method
+## ChartTypeCharacterizer::IsBar3DChart([ChartType](../../charttype/)) method
 
 
 Return true if chartType is one of bar3DChart subtypes (3D columns or bars).

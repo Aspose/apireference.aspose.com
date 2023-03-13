@@ -1,12 +1,12 @@
 ---
-title: IsSupersetOf
+title: IsSupersetOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if current set is a superset of other container.
 type: docs
 weight: 79
 url: /cpp/system.collections.generic/iset/issupersetof/
 ---
-## ISet::IsSupersetOf method
+## ISet::IsSupersetOf([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Checks if current set is a superset of other container.

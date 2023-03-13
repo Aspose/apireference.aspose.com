@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the new gradient stop and adds it to the end of collection.
 type: docs

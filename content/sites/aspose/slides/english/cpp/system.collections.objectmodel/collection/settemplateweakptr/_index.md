@@ -1,12 +1,12 @@
 ---
-title: SetTemplateWeakPtr
+title: SetTemplateWeakPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Makes stored pointers weak (if applicable).
 type: docs
 weight: 196
 url: /cpp/system.collections.objectmodel/collection/settemplateweakptr/
 ---
-## Collection::SetTemplateWeakPtr method
+## Collection::SetTemplateWeakPtr(**uint32_t**) method
 
 
 Makes stored pointers weak (if applicable).

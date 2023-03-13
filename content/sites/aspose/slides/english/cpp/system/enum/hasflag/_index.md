@@ -1,12 +1,12 @@
 ---
-title: HasFlag
+title: HasFlag()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified bits are set in a bitary representation of the specified enum value.
 type: docs
 weight: 14
 url: /cpp/system/enum/hasflag/
 ---
-## Enum::HasFlag method
+## Enum::HasFlag(E, E) method
 
 
 Determines if the specified bits are set in a bitary representation of the specified enum value.

@@ -1,12 +1,12 @@
 ---
-title: get_Tables
+title: get_Tables()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data/dataset/get_tables/
 ---
-## DataSet::get_Tables method
+## DataSet::get_Tables() method
 
 
 RTTI information.

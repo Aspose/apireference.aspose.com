@@ -1,12 +1,12 @@
 ---
-title: set_CustomStartCap
+title: set_CustomStartCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the custom start line cap.
 type: docs
 weight: 326
 url: /cpp/system.drawing/pen/set_customstartcap/
 ---
-## Pen::set_CustomStartCap method
+## Pen::set_CustomStartCap(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::CustomLineCap](../../../system.drawing.drawing2d/customlinecap/)\>\&) method
 
 
 Sets the custom start line cap.

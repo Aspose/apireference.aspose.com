@@ -1,12 +1,12 @@
 ---
-title: getOwned
+title: getOwned()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets object owned pointer.
 type: docs
 weight: 79
 url: /cpp/system/smartptrinfo/getowned/
 ---
-## SmartPtrInfo::getOwned method
+## SmartPtrInfo::getOwned() const method
 
 
 Gets object owned pointer.

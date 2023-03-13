@@ -1,12 +1,12 @@
 ---
-title: PathData
+title: PathData()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an empty PathData object.
 type: docs
 weight: 53
 url: /cpp/system.drawing.drawing2d/pathdata/pathdata/
 ---
-## PathData::PathData constructor
+## PathData::PathData() constructor
 
 
 Constructs an empty [PathData](../) object.

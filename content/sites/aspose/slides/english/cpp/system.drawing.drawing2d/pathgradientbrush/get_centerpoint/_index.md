@@ -1,12 +1,12 @@
 ---
-title: get_CenterPoint
+title: get_CenterPoint()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the center point of the gradient.
 type: docs
 weight: 66
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_centerpoint/
 ---
-## PathGradientBrush::get_CenterPoint method
+## PathGradientBrush::get_CenterPoint() const method
 
 
 Gets the center point of the gradient.

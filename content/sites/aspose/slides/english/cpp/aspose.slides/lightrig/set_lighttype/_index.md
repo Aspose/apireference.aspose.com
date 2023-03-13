@@ -1,12 +1,12 @@
 ---
-title: set_LightType
+title: set_LightType()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a preset light right that can be applied to a shape. The light rig represents a group of lights oriented in a specific way relative to a 3D scene. Write LightRigPresetType.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/lightrig/set_lighttype/
 ---
-## LightRig::set_LightType method
+## LightRig::set_LightType([LightRigPresetType](../../lightrigpresettype/)) method
 
 
 Represents a preset light right that can be applied to a shape. The light rig represents a group of lights oriented in a specific way relative to a 3D scene. Write [LightRigPresetType](../../lightrigpresettype/).

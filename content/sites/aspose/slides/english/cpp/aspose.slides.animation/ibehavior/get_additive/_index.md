@@ -1,12 +1,12 @@
 ---
-title: get_Additive
+title: get_Additive()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents whether the current animation behavior is combined with other running animations. Read BehaviorAdditiveType.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/ibehavior/get_additive/
 ---
-## IBehavior::get_Additive method
+## IBehavior::get_Additive() method
 
 
 Represents whether the current animation behavior is combined with other running animations. Read [BehaviorAdditiveType](../../behavioradditivetype/).

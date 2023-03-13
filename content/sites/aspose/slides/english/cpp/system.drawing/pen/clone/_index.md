@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a copy of the current object.
 type: docs
 weight: 404
 url: /cpp/system.drawing/pen/clone/
 ---
-## Pen::Clone method
+## Pen::Clone() method
 
 
 Returns a copy of the current object.

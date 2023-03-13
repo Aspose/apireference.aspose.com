@@ -1,12 +1,12 @@
 ---
-title: get_LinkPathLong
+title: get_LinkPathLong()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns linked image's URL. Read-only System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ipictureeffectivedata/get_linkpathlong/
 ---
-## IPictureEffectiveData::get_LinkPathLong method
+## IPictureEffectiveData::get_LinkPathLong() method
 
 
 Returns linked image's URL. Read-only [System::String](../../../system/string/).

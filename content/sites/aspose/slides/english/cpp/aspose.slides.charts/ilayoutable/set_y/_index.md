@@ -1,12 +1,12 @@
 ---
-title: set_Y
+title: set_Y()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the top of the chart element as a fraction of the height of the chart. Write float.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ilayoutable/set_y/
 ---
-## ILayoutable::set_Y method
+## ILayoutable::set_Y(**float**) method
 
 
 Specifies the top of the chart element as a fraction of the height of the chart. Write **float**.

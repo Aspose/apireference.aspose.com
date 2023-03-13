@@ -1,12 +1,12 @@
 ---
-title: set_PrefixList
+title: set_PrefixList()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the prefix list.
 type: docs
 weight: 14
 url: /cpp/system.net/webrequest/set_prefixlist/
 ---
-## WebRequest::set_PrefixList method
+## WebRequest::set_PrefixList([System::SharedPtr](../../../system/sharedptr/)\<[Collections::Generic::List](../../../system.collections.generic/list/)\<[System::SharedPtr](../../../system/sharedptr/)\<**WebRequest::WebRequestPrefixElement**\>\>\>) method
 
 
 Sets the prefix list.

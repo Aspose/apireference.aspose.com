@@ -1,12 +1,12 @@
 ---
-title: get_CursorSize
+title: get_CursorSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 118
 url: /cpp/system.windows.forms/systeminformation/get_cursorsize/
 ---
-## SystemInformation::get_CursorSize method
+## SystemInformation::get_CursorSize() method
 
 
 NOT IMPLEMENTED.

@@ -1,5 +1,5 @@
 ---
-title: Offset
+title: Offset()
 second_title: Aspose.Slides for C++ API Reference
 description: Offsets the position of the rectangle represented by the current object by the specified amounts.
 type: docs

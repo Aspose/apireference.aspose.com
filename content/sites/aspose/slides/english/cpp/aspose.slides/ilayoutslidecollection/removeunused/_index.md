@@ -1,12 +1,12 @@
 ---
-title: RemoveUnused
+title: RemoveUnused()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes unused layout slides (layout slides whose HasDependingSlides is false).
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ilayoutslidecollection/removeunused/
 ---
-## ILayoutSlideCollection::RemoveUnused method
+## ILayoutSlideCollection::RemoveUnused() method
 
 
 Removes unused layout slides (layout slides whose HasDependingSlides is false).

@@ -1,12 +1,12 @@
 ---
-title: get_Title
+title: get_Title()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the axis' title. Read-only IChartTitle.
 type: docs
 weight: 690
 url: /cpp/aspose.slides.charts/iaxis/get_title/
 ---
-## IAxis::get_Title method
+## IAxis::get_Title() method
 
 
 Gets the axis' title. Read-only [IChartTitle](../../icharttitle/).

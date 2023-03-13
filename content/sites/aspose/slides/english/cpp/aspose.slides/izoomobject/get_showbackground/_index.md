@@ -1,15 +1,15 @@
 ---
-title: get_ShowBackground
+title: get_ShowBackground()
 second_title: Aspose.Slides for C++ API Reference
-description: "Gets value that specifies whether the Zoom will use the background of the destination slide. Read bool. Default value: true."
+description: "Gets value that specifies whether the Zoom will use the background of the destination slide. Read bool. Default value: true"
 type: docs
 weight: 53
 url: /cpp/aspose.slides/izoomobject/get_showbackground/
 ---
-## IZoomObject::get_ShowBackground method
+## IZoomObject::get_ShowBackground() method
 
 
-Gets value that specifies whether the Zoom will use the background of the destination slide. Read **bool**. Default value: true.
+Gets value that specifies whether the Zoom will use the background of the destination slide. Read **bool**. Default value: true
 
 ```cpp
 virtual bool Aspose::Slides::IZoomObject::get_ShowBackground()=0

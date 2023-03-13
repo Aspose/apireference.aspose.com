@@ -1,12 +1,12 @@
 ---
-title: get_UnsafeAuthenticatedConnectionSharing
+title: get_UnsafeAuthenticatedConnectionSharing()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the connection sharing is enabled when the client uses NTLM authentication.
 type: docs
 weight: 144
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/get_unsafeauthenticatedconnectionsharing/
 ---
-## HttpWebClientProtocol::get_UnsafeAuthenticatedConnectionSharing method
+## HttpWebClientProtocol::get_UnsafeAuthenticatedConnectionSharing() method
 
 
 Gets a value that indicates if the connection sharing is enabled when the client uses NTLM authentication.

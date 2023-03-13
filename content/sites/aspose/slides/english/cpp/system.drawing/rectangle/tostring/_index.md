@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the current object.
 type: docs
 weight: 339
 url: /cpp/system.drawing/rectangle/tostring/
 ---
-## Rectangle::ToString method
+## Rectangle::ToString() const method
 
 
 Returns the string representation of the current object.

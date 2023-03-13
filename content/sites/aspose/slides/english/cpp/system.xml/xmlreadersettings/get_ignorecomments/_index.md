@@ -1,12 +1,12 @@
 ---
-title: get_IgnoreComments
+title: get_IgnoreComments()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether to ignore comments.
 type: docs
 weight: 248
 url: /cpp/system.xml/xmlreadersettings/get_ignorecomments/
 ---
-## XmlReaderSettings::get_IgnoreComments method
+## XmlReaderSettings::get_IgnoreComments() method
 
 
 Returns a value indicating whether to ignore comments.

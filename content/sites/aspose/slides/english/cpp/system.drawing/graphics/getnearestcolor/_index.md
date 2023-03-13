@@ -1,12 +1,12 @@
 ---
-title: GetNearestColor
+title: GetNearestColor()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1106
 url: /cpp/system.drawing/graphics/getnearestcolor/
 ---
-## Graphics::GetNearestColor method
+## Graphics::GetNearestColor([Color](../../color/)) method
 
 
 NOT IMPLEMENTED.

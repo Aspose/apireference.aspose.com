@@ -1,12 +1,12 @@
 ---
-title: AddClone
+title: AddClone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the specified template row and inserts it at the bottom of a table.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/rowcollection/addclone/
 ---
-## RowCollection::AddClone method
+## RowCollection::AddClone([System::SharedPtr](../../../system/sharedptr/)\<[IRow](../../irow/)\>, **bool**) method
 
 
 Creates a copy of the specified template row and inserts it at the bottom of a table.

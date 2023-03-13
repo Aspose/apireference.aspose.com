@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the tag at the specified index.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/tagcollection/removeat/
 ---
-## TagCollection::RemoveAt method
+## TagCollection::RemoveAt(**int32_t**) method
 
 
 Removes the tag at the specified index.

@@ -1,7 +1,7 @@
 ---
 title: MathTopBotPositions
 second_title: Aspose.Slides for C++ API Reference
-description: Top/bottom positions enumeration.
+description: Top/bottom positions enumeration
 type: docs
 weight: 1275
 url: /cpp/aspose.slides.mathtext/mathtopbotpositions/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathtopbotpositions/
 ## MathTopBotPositions enum
 
 
-Top/bottom positions enumeration.
+Top/bottom positions enumeration
 
 ```cpp
 enum class MathTopBotPositions
@@ -19,9 +19,9 @@ enum class MathTopBotPositions
 
 | Name | Value | Description |
 | --- | --- | --- |
-| NotDefined | 0 | Not defined. |
-| Top | 1 | Top. |
-| Bottom | 2 | Bottom. |
+| NotDefined | 0 | Not defined |
+| Top | 1 | Top |
+| Bottom | 2 | Bottom |
 
 ## See Also
 

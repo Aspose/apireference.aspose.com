@@ -1,12 +1,12 @@
 ---
-title: set_ShowPageBorder
+title: set_ShowPageBorder()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether border around pages should be shown. Default is true.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.export/swfoptions/set_showpageborder/
 ---
-## SwfOptions::set_ShowPageBorder method
+## SwfOptions::set_ShowPageBorder(**bool**) method
 
 
 Specifies whether border around pages should be shown. Default is true.

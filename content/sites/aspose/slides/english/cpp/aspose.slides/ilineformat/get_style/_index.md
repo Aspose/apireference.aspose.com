@@ -1,12 +1,12 @@
 ---
-title: get_Style
+title: get_Style()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line style. Read LineStyle.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/ilineformat/get_style/
 ---
-## ILineFormat::get_Style method
+## ILineFormat::get_Style() method
 
 
 Returns the line style. Read [LineStyle](../../linestyle/).

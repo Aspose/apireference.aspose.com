@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds value to container.
 type: docs
 weight: 79
 url: /cpp/system.collections.objectmodel/collection/add/
 ---
-## Collection::Add method
+## Collection::Add(const T\&) method
 
 
 Adds value to container.

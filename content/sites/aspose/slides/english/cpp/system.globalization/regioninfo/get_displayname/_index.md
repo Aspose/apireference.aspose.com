@@ -1,12 +1,12 @@
 ---
-title: get_DisplayName
+title: get_DisplayName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets full region name.
 type: docs
 weight: 157
 url: /cpp/system.globalization/regioninfo/get_displayname/
 ---
-## RegionInfo::get_DisplayName method
+## RegionInfo::get_DisplayName() const method
 
 
 Gets full region name.

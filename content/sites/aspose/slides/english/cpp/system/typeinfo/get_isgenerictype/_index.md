@@ -1,12 +1,12 @@
 ---
-title: get_IsGenericType
+title: get_IsGenericType()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 274
 url: /cpp/system/typeinfo/get_isgenerictype/
 ---
-## TypeInfo::get_IsGenericType method
+## TypeInfo::get_IsGenericType() const method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an element at specified position. Read-only EffectStyle.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.theme/effectstylecollection/idx_get/
 ---
-## EffectStyleCollection::idx_get method
+## EffectStyleCollection::idx_get(**int32_t**) method
 
 
 Returns an element at specified position. Read-only [EffectStyle](../../effectstyle/).

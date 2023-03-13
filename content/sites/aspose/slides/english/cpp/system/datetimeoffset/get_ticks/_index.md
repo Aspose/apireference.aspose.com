@@ -1,12 +1,12 @@
 ---
-title: get_Ticks
+title: get_Ticks()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of ticks of the current object.
 type: docs
 weight: 196
 url: /cpp/system/datetimeoffset/get_ticks/
 ---
-## DateTimeOffset::get_Ticks method
+## DateTimeOffset::get_Ticks() const method
 
 
 Gets number of ticks of the current object.

@@ -1,12 +1,12 @@
 ---
-title: CheckSignatureReturningKey
+title: CheckSignatureReturningKey()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 209
 url: /cpp/system.security.cryptography.xml/signedxml/checksignaturereturningkey/
 ---
-## SignedXml::CheckSignatureReturningKey method
+## SignedXml::CheckSignatureReturningKey([SharedPtr](../../../system/sharedptr/)\<[AsymmetricAlgorithm](../../../system.security.cryptography/asymmetricalgorithm/)\>\&) method
 
 
 

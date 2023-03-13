@@ -1,12 +1,12 @@
 ---
-title: set_Action
+title: set_Action()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'SOAPAction' attribute.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_action/
 ---
-## SoapDocumentMethodAttribute::set_Action method
+## SoapDocumentMethodAttribute::set_Action([String](../../../system/string/)) method
 
 
 Sets a value of the 'SOAPAction' attribute.

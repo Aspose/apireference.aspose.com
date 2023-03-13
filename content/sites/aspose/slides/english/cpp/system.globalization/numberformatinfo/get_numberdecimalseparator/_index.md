@@ -1,12 +1,12 @@
 ---
-title: get_NumberDecimalSeparator
+title: get_NumberDecimalSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets decimal separator.
 type: docs
 weight: 40
 url: /cpp/system.globalization/numberformatinfo/get_numberdecimalseparator/
 ---
-## NumberFormatInfo::get_NumberDecimalSeparator method
+## NumberFormatInfo::get_NumberDecimalSeparator() const method
 
 
 Gets decimal separator.

@@ -1,12 +1,12 @@
 ---
-title: get_BaseType
+title: get_BaseType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns base type descritor.
 type: docs
 weight: 547
 url: /cpp/system/typeinfo/get_basetype/
 ---
-## TypeInfo::get_BaseType method
+## TypeInfo::get_BaseType() const method
 
 
 Returns base type descritor.

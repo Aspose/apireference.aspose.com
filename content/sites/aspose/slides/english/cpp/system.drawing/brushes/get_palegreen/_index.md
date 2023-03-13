@@ -1,12 +1,12 @@
 ---
-title: get_PaleGreen
+title: get_PaleGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF98FB98.
 type: docs
 weight: 1340
 url: /cpp/system.drawing/brushes/get_palegreen/
 ---
-## Brushes::get_PaleGreen method
+## Brushes::get_PaleGreen() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF98FB98.

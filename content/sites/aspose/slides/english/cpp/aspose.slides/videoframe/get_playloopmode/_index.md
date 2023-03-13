@@ -1,12 +1,12 @@
 ---
-title: get_PlayLoopMode
+title: get_PlayLoopMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a video is looped. Read bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/videoframe/get_playloopmode/
 ---
-## VideoFrame::get_PlayLoopMode method
+## VideoFrame::get_PlayLoopMode() method
 
 
 Determines whether a video is looped. Read **bool**.

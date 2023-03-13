@@ -1,12 +1,12 @@
 ---
-title: get_Chart
+title: get_Chart()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the parent chart. Read-only IChart.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/datalabelcollection/get_chart/
 ---
-## DataLabelCollection::get_Chart method
+## DataLabelCollection::get_Chart() method
 
 
 Returns the parent chart. Read-only [IChart](../../ichart/).

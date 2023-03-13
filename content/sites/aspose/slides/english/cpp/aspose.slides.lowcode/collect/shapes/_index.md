@@ -1,12 +1,12 @@
 ---
-title: Shapes
+title: Shapes()
 second_title: Aspose.Slides for C++ API Reference
 description: Collects all instances of Shape in the Presentation.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.lowcode/collect/shapes/
 ---
-## Collect::Shapes method
+## Collect::Shapes([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>) method
 
 
 Collects all instances of [Shape](../../../aspose.slides/shape/) in the [Presentation](../../../aspose.slides/presentation/).

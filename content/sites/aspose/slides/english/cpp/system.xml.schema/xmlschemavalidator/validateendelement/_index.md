@@ -1,5 +1,5 @@
 ---
-title: ValidateEndElement
+title: ValidateEndElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Verifies if the text content of the element is valid according to its data type for elements with simple content, and verifies if the content of the current element is complete for elements with complex content.
 type: docs

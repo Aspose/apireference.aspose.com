@@ -1,12 +1,12 @@
 ---
-title: get_Domain
+title: get_Domain()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the 'Domain' attribute's value.
 type: docs
 weight: 105
 url: /cpp/system.net/cookie/get_domain/
 ---
-## Cookie::get_Domain method
+## Cookie::get_Domain() const method
 
 
 Gets the 'Domain' attribute's value.

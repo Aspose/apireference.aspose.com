@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Clears the result string.
 type: docs
 weight: 27
 url: /cpp/system.xml.xsl.runtime/stringconcat/clear/
 ---
-## StringConcat::Clear method
+## StringConcat::Clear() method
 
 
 Clears the result string.

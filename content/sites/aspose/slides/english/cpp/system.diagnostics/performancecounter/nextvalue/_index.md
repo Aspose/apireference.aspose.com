@@ -1,12 +1,12 @@
 ---
-title: NextValue
+title: NextValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets next measured value.
 type: docs
 weight: 14
 url: /cpp/system.diagnostics/performancecounter/nextvalue/
 ---
-## PerformanceCounter::NextValue method
+## PerformanceCounter::NextValue() method
 
 
 Gets next measured value.

@@ -1,12 +1,12 @@
 ---
-title: GetFactory
+title: GetFactory()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets DB provider factory by name.
 type: docs
 weight: 1
 url: /cpp/system.data.common/dbproviderfactories/getfactory/
 ---
-## DbProviderFactories::GetFactory method
+## DbProviderFactories::GetFactory(const [String](../../../system/string/)\&) method
 
 
 Gets DB provider factory by name.

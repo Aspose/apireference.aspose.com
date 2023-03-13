@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets key at specified position.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/_keylist/idx_get/
 ---
-## _KeyList::idx_get method
+## _KeyList::idx_get(int) const method
 
 
 Gets key at specified position.
@@ -28,7 +28,7 @@ Copy of key at specified position.
 
 ## See Also
 
-* Typedef [TKey](../tkey/)
+* Typedef [TKey](../../_keycollection/tkey/)
 * Class [_KeyList](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Slides](../../../)

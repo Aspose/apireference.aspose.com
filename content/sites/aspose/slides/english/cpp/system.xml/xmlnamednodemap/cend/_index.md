@@ -1,12 +1,12 @@
 ---
-title: cend
+title: cend()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator for a non-existent element behind the last element of the collection.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmlnamednodemap/cend/
 ---
-## XmlNamedNodeMap::cend method
+## XmlNamedNodeMap::cend() const method
 
 
 Gets iterator for a non-existent element behind the last element of the collection.

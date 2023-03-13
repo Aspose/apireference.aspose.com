@@ -1,12 +1,12 @@
 ---
-title: TryGetBuffer
+title: TryGetBuffer()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the array of unsigned bytes from which this stream was created.
 type: docs
 weight: 170
 url: /cpp/system.io/memorystream/trygetbuffer/
 ---
-## MemoryStream::TryGetBuffer method
+## MemoryStream::TryGetBuffer([ArraySegment](../../../system/arraysegment/)\<**uint8_t**\>\&) method
 
 
 Returns the array of unsigned bytes from which this stream was created.

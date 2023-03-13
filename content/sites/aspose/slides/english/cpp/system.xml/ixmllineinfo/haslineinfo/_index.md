@@ -1,12 +1,12 @@
 ---
-title: HasLineInfo
+title: HasLineInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the class can return line information.
 type: docs
 weight: 27
 url: /cpp/system.xml/ixmllineinfo/haslineinfo/
 ---
-## IXmlLineInfo::HasLineInfo method
+## IXmlLineInfo::HasLineInfo() method
 
 
 Returns a value indicating whether the class can return line information.

@@ -1,12 +1,12 @@
 ---
-title: set_ShowValue
+title: set_ShowValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a specified chart's data label percentage value display behavior. True displays the percentage value. False to hide. Write bool.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/datalabelformat/set_showvalue/
 ---
-## DataLabelFormat::set_ShowValue method
+## DataLabelFormat::set_ShowValue(**bool**) method
 
 
 Represents a specified chart's data label percentage value display behavior. True displays the percentage value. False to hide. Write **bool**.

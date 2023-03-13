@@ -1,12 +1,12 @@
 ---
-title: GetNameByIndex
+title: GetNameByIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns key of a tag at the specified index.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/itagcollection/getnamebyindex/
 ---
-## ITagCollection::GetNameByIndex method
+## ITagCollection::GetNameByIndex(**int32_t**) method
 
 
 Returns key of a tag at the specified index.

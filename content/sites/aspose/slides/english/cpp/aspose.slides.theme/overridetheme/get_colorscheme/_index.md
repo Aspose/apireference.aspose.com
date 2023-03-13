@@ -1,12 +1,12 @@
 ---
-title: get_ColorScheme
+title: get_ColorScheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the color scheme. Read-only IColorScheme.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/overridetheme/get_colorscheme/
 ---
-## OverrideTheme::get_ColorScheme method
+## OverrideTheme::get_ColorScheme() method
 
 
 Returns the color scheme. Read-only [IColorScheme](../../icolorscheme/).

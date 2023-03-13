@@ -1,12 +1,12 @@
 ---
-title: SetFooterAndChildFootersVisibility
+title: SetFooterAndChildFootersVisibility()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes layout slide footer placeholder and all child footer placeholders visibility. Child placeholders mean placeholders are contained on depending slides. Depending slides use and depend on master slide.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/layoutslideheaderfootermanager/setfooterandchildfootersvisibility/
 ---
-## LayoutSlideHeaderFooterManager::SetFooterAndChildFootersVisibility method
+## LayoutSlideHeaderFooterManager::SetFooterAndChildFootersVisibility(**bool**) method
 
 
 Changes layout slide footer placeholder and all child footer placeholders visibility. Child placeholders mean placeholders are contained on depending slides. Depending slides use and depend on master slide.

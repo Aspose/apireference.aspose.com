@@ -1,12 +1,12 @@
 ---
-title: ReadInt16
+title: ReadInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads short from memory.
 type: docs
 weight: 79
 url: /cpp/system.runtime.interopservices/marshal/readint16/
 ---
-## Marshal::ReadInt16 method
+## Marshal::ReadInt16(IntPtr, int) method
 
 
 Reads short from memory.

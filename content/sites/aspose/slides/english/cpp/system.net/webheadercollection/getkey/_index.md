@@ -1,12 +1,12 @@
 ---
-title: GetKey
+title: GetKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a key at the specified index.
 type: docs
 weight: 118
 url: /cpp/system.net/webheadercollection/getkey/
 ---
-## WebHeaderCollection::GetKey method
+## WebHeaderCollection::GetKey(int) method
 
 
 Returns a key at the specified index.

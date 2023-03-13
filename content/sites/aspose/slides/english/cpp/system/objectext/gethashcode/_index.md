@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements GetHashCode() calls; works on both Object subclasses and unrelated types.
 type: docs
 weight: 14
 url: /cpp/system/objectext/gethashcode/
 ---
-## ObjectExt::GetHashCode method
+## ObjectExt::GetHashCode(const T\&) method
 
 
 Implements [GetHashCode()](./) calls; works on both [Object](../../object/) subclasses and unrelated types.

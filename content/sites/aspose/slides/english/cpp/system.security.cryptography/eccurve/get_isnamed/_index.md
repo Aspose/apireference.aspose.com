@@ -1,12 +1,12 @@
 ---
-title: get_IsNamed
+title: get_IsNamed()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/eccurve/get_isnamed/
 ---
-## ECCurve::get_IsNamed method
+## ECCurve::get_IsNamed() const method
 
 
 

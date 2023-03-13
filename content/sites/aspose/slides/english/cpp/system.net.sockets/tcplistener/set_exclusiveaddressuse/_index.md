@@ -1,12 +1,12 @@
 ---
-title: set_ExclusiveAddressUse
+title: set_ExclusiveAddressUse()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the current instance allows only one client to use a port.
 type: docs
 weight: 40
 url: /cpp/system.net.sockets/tcplistener/set_exclusiveaddressuse/
 ---
-## TcpListener::set_ExclusiveAddressUse method
+## TcpListener::set_ExclusiveAddressUse(**bool**) method
 
 
 Sets a value that indicates if the current instance allows only one client to use a port.

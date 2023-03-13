@@ -1,12 +1,12 @@
 ---
-title: set_InternalSubset
+title: set_InternalSubset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the internal DTD subset.
 type: docs
 weight: 170
 url: /cpp/system.xml/xmlparsercontext/set_internalsubset/
 ---
-## XmlParserContext::set_InternalSubset method
+## XmlParserContext::set_InternalSubset(const [String](../../../system/string/)\&) method
 
 
 Sets the internal DTD subset.

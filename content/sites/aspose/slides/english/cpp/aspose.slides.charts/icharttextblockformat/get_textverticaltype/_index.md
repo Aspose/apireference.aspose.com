@@ -1,12 +1,12 @@
 ---
-title: get_TextVerticalType
+title: get_TextVerticalType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Determines text orientation. The resulted value of visual text rotation summarized from this property and custom angle in property RotationAngle. Read Slides::TextVerticalType."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/icharttextblockformat/get_textverticaltype/
 ---
-## IChartTextBlockFormat::get_TextVerticalType method
+## IChartTextBlockFormat::get_TextVerticalType() method
 
 
 Determines text orientation. The resulted value of visual text rotation summarized from this property and custom angle in property RotationAngle. Read [Slides::TextVerticalType](../../../aspose.slides/textverticaltype/).

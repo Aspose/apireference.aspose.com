@@ -1,12 +1,12 @@
 ---
-title: get_UseDefaultCredentials
+title: get_UseDefaultCredentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the default credentials must be sent with requests.
 type: docs
 weight: 105
 url: /cpp/system.net/webproxy/get_usedefaultcredentials/
 ---
-## WebProxy::get_UseDefaultCredentials method
+## WebProxy::get_UseDefaultCredentials() method
 
 
 Gets a value that indicates if the default credentials must be sent with requests.

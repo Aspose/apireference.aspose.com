@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all tags from the collection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/itagcollection/clear/
 ---
-## ITagCollection::Clear method
+## ITagCollection::Clear() method
 
 
 Removes all tags from the collection.

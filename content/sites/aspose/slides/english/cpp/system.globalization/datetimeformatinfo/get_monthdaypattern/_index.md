@@ -1,12 +1,12 @@
 ---
-title: get_MonthDayPattern
+title: get_MonthDayPattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets month day pattern.
 type: docs
 weight: 469
 url: /cpp/system.globalization/datetimeformatinfo/get_monthdaypattern/
 ---
-## DateTimeFormatInfo::get_MonthDayPattern method
+## DateTimeFormatInfo::get_MonthDayPattern() const method
 
 
 Gets month day pattern.

@@ -1,5 +1,5 @@
 ---
-title: AddLast
+title: AddLast()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element to the end of the list.
 type: docs

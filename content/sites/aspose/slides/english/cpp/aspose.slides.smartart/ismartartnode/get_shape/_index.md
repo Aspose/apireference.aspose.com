@@ -1,12 +1,12 @@
 ---
-title: get_Shape
+title: get_Shape()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a shape associated with this node at the specified index. Read-only Aspose::Slides::SmartArt::ISmartArtShape"
 type: docs
 weight: 183
 url: /cpp/aspose.slides.smartart/ismartartnode/get_shape/
 ---
-## ISmartArtNode::get_Shape method
+## ISmartArtNode::get_Shape(**int32_t**) method
 
 
 Returns a shape associated with this node at the specified index. Read-only [Aspose::Slides::SmartArt::ISmartArtShape](../../ismartartshape/)

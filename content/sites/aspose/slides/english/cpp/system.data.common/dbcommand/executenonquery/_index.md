@@ -1,12 +1,12 @@
 ---
-title: ExecuteNonQuery
+title: ExecuteNonQuery()
 second_title: Aspose.Slides for C++ API Reference
 description: Executes non-query command.
 type: docs
 weight: 53
 url: /cpp/system.data.common/dbcommand/executenonquery/
 ---
-## DbCommand::ExecuteNonQuery method
+## DbCommand::ExecuteNonQuery() method
 
 
 Executes non-query command.

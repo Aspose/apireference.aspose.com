@@ -1,12 +1,12 @@
 ---
-title: get_Action
+title: get_Action()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'SOAPAction' attribute.
 type: docs
 weight: 53
 url: /cpp/system.web.services.protocols/soapmessage/get_action/
 ---
-## SoapMessage::get_Action method
+## SoapMessage::get_Action() method
 
 
 Returns a value of the 'SOAPAction' attribute.

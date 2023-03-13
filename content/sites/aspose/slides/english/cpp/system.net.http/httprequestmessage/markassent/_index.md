@@ -1,12 +1,12 @@
 ---
-title: MarkAsSent
+title: MarkAsSent()
 second_title: Aspose.Slides for C++ API Reference
 description: Marks the current request as sent.
 type: docs
 weight: 157
 url: /cpp/system.net.http/httprequestmessage/markassent/
 ---
-## HttpRequestMessage::MarkAsSent method
+## HttpRequestMessage::MarkAsSent() method
 
 
 Marks the current request as sent.

@@ -13,4 +13,4 @@ url: /cpp/aspose.slides.pptserialization/
 
 | Class | Description |
 | --- | --- |
-| [CheckSumProcessorData](./checksumprocessordata/) | CheckSumProcessor Data. |
+| [CheckSumProcessorData](./checksumprocessordata/) | CheckSumProcessor Data |

@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an index of the specified slide in the collection.
 type: docs
 weight: 170
 url: /cpp/aspose.slides/slidecollection/indexof/
 ---
-## SlideCollection::IndexOf method
+## SlideCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>) method
 
 
 Returns an index of the specified slide in the collection.

@@ -1,12 +1,12 @@
 ---
-title: get_Padding
+title: get_Padding()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets padding of cryptographic operation.
 type: docs
 weight: 157
 url: /cpp/system.security.cryptography/symmetricalgorithm/get_padding/
 ---
-## SymmetricAlgorithm::get_Padding method
+## SymmetricAlgorithm::get_Padding() method
 
 
 Gets padding of cryptographic operation.

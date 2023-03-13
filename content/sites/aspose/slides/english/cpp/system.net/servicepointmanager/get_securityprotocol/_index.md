@@ -1,12 +1,12 @@
 ---
-title: get_SecurityProtocol
+title: get_SecurityProtocol()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the security protocol type used by the ServicePoint-class instances that are managed by the current instance.
 type: docs
 weight: 1
 url: /cpp/system.net/servicepointmanager/get_securityprotocol/
 ---
-## ServicePointManager::get_SecurityProtocol method
+## ServicePointManager::get_SecurityProtocol() method
 
 
 Gets the security protocol type used by the ServicePoint-class instances that are managed by the current instance.

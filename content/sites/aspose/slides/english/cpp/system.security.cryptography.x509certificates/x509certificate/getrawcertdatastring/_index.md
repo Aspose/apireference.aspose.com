@@ -1,12 +1,12 @@
 ---
-title: GetRawCertDataString
+title: GetRawCertDataString()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets raw data from certificate as a hexadecimal string.
 type: docs
 weight: 248
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getrawcertdatastring/
 ---
-## X509Certificate::GetRawCertDataString method
+## X509Certificate::GetRawCertDataString() const method
 
 
 Gets raw data from certificate as a hexadecimal string.

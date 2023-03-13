@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of transition. Write TransitionSideDirectionType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/glittertransition/set_direction/
 ---
-## GlitterTransition::set_Direction method
+## GlitterTransition::set_Direction([TransitionSideDirectionType](../../transitionsidedirectiontype/)) method
 
 
 Direction of transition. Write [TransitionSideDirectionType](../../transitionsidedirectiontype/).

@@ -1,12 +1,12 @@
 ---
-title: SetGamma
+title: SetGamma()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 196
 url: /cpp/system.drawing.imaging/imageattributes/setgamma/
 ---
-## ImageAttributes::SetGamma method
+## ImageAttributes::SetGamma(**float**, [ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

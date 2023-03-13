@@ -1,12 +1,12 @@
 ---
-title: GetCreationTime
+title: GetCreationTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the creation time of the specified entity as local time.
 type: docs
 weight: 131
 url: /cpp/system.io/directory/getcreationtime/
 ---
-## Directory::GetCreationTime method
+## Directory::GetCreationTime(const [String](../../../system/string/)\&) method
 
 
 Returns the creation time of the specified entity as local time.

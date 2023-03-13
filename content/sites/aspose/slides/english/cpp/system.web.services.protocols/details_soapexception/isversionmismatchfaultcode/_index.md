@@ -1,12 +1,12 @@
 ---
-title: IsVersionMismatchFaultCode
+title: IsVersionMismatchFaultCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the specified code is equal to the 'VersionMismatch' SOAP fault code.
 type: docs
 weight: 144
 url: /cpp/system.web.services.protocols/details_soapexception/isversionmismatchfaultcode/
 ---
-## Details_SoapException::IsVersionMismatchFaultCode method
+## Details_SoapException::IsVersionMismatchFaultCode([System::SharedPtr](../../../system/sharedptr/)\<[Xml::XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>) method
 
 
 Checks if the specified code is equal to the 'VersionMismatch' SOAP fault code.

@@ -1,12 +1,12 @@
 ---
-title: BlobManagementOptions
+title: BlobManagementOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new default blob management options.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/blobmanagementoptions/blobmanagementoptions/
 ---
-## BlobManagementOptions::BlobManagementOptions constructor
+## BlobManagementOptions::BlobManagementOptions() constructor
 
 
 Creates new default blob management options.

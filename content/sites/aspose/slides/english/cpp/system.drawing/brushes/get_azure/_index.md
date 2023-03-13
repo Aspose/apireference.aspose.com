@@ -1,12 +1,12 @@
 ---
-title: get_Azure
+title: get_Azure()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFF0FFFF.
 type: docs
 weight: 53
 url: /cpp/system.drawing/brushes/get_azure/
 ---
-## Brushes::get_Azure method
+## Brushes::get_Azure() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFF0FFFF.

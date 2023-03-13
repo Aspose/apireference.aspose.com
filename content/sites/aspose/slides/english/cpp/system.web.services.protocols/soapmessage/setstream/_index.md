@@ -1,12 +1,12 @@
 ---
-title: SetStream
+title: SetStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the stream that contains the SOAP message data.
 type: docs
 weight: 131
 url: /cpp/system.web.services.protocols/soapmessage/setstream/
 ---
-## SoapMessage::SetStream method
+## SoapMessage::SetStream([System::SharedPtr](../../../system/sharedptr/)\<[System::IO::Stream](../../../system.io/stream/)\>) method
 
 
 Sets the stream that contains the SOAP message data.

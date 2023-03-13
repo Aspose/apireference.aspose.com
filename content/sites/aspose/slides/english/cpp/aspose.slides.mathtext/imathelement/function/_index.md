@@ -1,7 +1,7 @@
 ---
-title: Function
+title: Function()
 second_title: Aspose.Slides for C++ API Reference
-description: Takes a function of an argument using this instance as the function name.
+description: Takes a function of an argument using this instance as the function name
 type: docs
 weight: 53
 url: /cpp/aspose.slides.mathtext/imathelement/function/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathelement/function/
 ## IMathElement::Function([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>) method
 
 
-Takes a function of an argument using this instance as the function name.
+Takes a function of an argument using this instance as the function name
 
 ```cpp
 virtual System::SharedPtr<IMathFunction> Aspose::Slides::MathText::IMathElement::Function(System::SharedPtr<IMathElement> functionArgument)=0
@@ -47,7 +47,7 @@ auto func = functionName->Function(functionArg);
 ## IMathElement::Function([System::String](../../../system/string/)) method
 
 
-Takes a function of an argument using this instance as the function name.
+Takes a function of an argument using this instance as the function name
 
 ```cpp
 virtual System::SharedPtr<IMathFunction> Aspose::Slides::MathText::IMathElement::Function(System::String functionArgument)=0

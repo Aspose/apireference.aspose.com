@@ -1,5 +1,5 @@
 ---
-title: GetAmbiguousTimeOffsets
+title: GetAmbiguousTimeOffsets()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets UTC dates and times that a specified date and time can be mapped to.
 type: docs

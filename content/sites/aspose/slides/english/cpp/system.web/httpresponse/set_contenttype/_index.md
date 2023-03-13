@@ -1,12 +1,12 @@
 ---
-title: set_ContentType
+title: set_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 105
 url: /cpp/system.web/httpresponse/set_contenttype/
 ---
-## HttpResponse::set_ContentType method
+## HttpResponse::set_ContentType(const [String](../../../system/string/)\&) method
 
 
 Not implemented.

@@ -1,12 +1,12 @@
 ---
-title: get_HResult
+title: get_HResult()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a 32-bit integer value which is a HRESULT code associated with the exception reprsented by the current object.
 type: docs
 weight: 53
 url: /cpp/system/details_exception/get_hresult/
 ---
-## Details_Exception::get_HResult method
+## Details_Exception::get_HResult() const method
 
 
 Returns a 32-bit integer value which is a HRESULT code associated with the exception reprsented by the current object.

@@ -1,5 +1,5 @@
 ---
-title: RemoveAttributeNode
+title: RemoveAttributeNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified XmlAttribute.
 type: docs

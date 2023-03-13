@@ -1,12 +1,12 @@
 ---
-title: GetAllTextBoxes
+title: GetAllTextBoxes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns all text frames on a slide in a PPTX presentation.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.util/slideutil/getalltextboxes/
 ---
-## SlideUtil::GetAllTextBoxes method
+## SlideUtil::GetAllTextBoxes([System::SharedPtr](../../../system/sharedptr/)\<[IBaseSlide](../../../aspose.slides/ibaseslide/)\>) method
 
 
 Returns all text frames on a slide in a PPTX presentation.

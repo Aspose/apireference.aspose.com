@@ -1,12 +1,12 @@
 ---
-title: get_Keys
+title: get_Keys()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets all the keys.
 type: docs
 weight: 14
 url: /cpp/system.collections.specialized/namevaluecollection/get_keys/
 ---
-## NameValueCollection::get_Keys method
+## NameValueCollection::get_Keys() method
 
 
 Gets all the keys.

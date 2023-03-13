@@ -1,12 +1,12 @@
 ---
-title: VerifyData
+title: VerifyData()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks data signature.
 type: docs
 weight: 209
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/verifydata/
 ---
-## RSACryptoServiceProvider::VerifyData method
+## RSACryptoServiceProvider::VerifyData(const [ByteArrayPtr](../../../system/bytearrayptr/)\&, const [SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&, const [ByteArrayPtr](../../../system/bytearrayptr/)\&) method
 
 
 Checks data signature.

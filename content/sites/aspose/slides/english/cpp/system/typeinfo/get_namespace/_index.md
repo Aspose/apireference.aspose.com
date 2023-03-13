@@ -1,12 +1,12 @@
 ---
-title: get_Namespace
+title: get_Namespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the namespace of the Type.
 type: docs
 weight: 66
 url: /cpp/system/typeinfo/get_namespace/
 ---
-## TypeInfo::get_Namespace method
+## TypeInfo::get_Namespace() const method
 
 
 Gets the namespace of the Type.

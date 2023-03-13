@@ -1,12 +1,12 @@
 ---
-title: set_X
+title: set_X()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of X coordinate represented by the current object.
 type: docs
 weight: 53
 url: /cpp/system.drawing/point/set_x/
 ---
-## Point::set_X method
+## Point::set_X(int) method
 
 
 Sets the value of X coordinate represented by the current object.

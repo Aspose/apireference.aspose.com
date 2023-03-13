@@ -1,5 +1,5 @@
 ---
-title: GetFiles
+title: GetFiles()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing shared pointers to FileInfo objects representing all directories located in the directory represented by the current object.
 type: docs

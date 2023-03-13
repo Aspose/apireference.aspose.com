@@ -1,12 +1,12 @@
 ---
-title: GetFormat
+title: GetFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets formatter of specific type.
 type: docs
 weight: 14
 url: /cpp/system.globalization/datetimeformatinfo/getformat/
 ---
-## DateTimeFormatInfo::GetFormat method
+## DateTimeFormatInfo::GetFormat(const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Gets formatter of specific type.

@@ -1,12 +1,12 @@
 ---
-title: get_ChartSeries
+title: get_ChartSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the chart series in the group at the specified index.
 type: docs
 weight: 404
 url: /cpp/aspose.slides.charts/ichartseriesgroup/get_chartseries/
 ---
-## IChartSeriesGroup::get_ChartSeries method
+## IChartSeriesGroup::get_ChartSeries(**int32_t**) method
 
 
 Returns the chart series in the group at the specified index.

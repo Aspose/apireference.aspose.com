@@ -1,12 +1,12 @@
 ---
-title: set_Version
+title: set_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets assembly version.
 type: docs
 weight: 53
 url: /cpp/system.reflection/assemblyname/set_version/
 ---
-## AssemblyName::set_Version method
+## AssemblyName::set_Version(const [Version](../../../system/version/)\&) method
 
 
 Sets assembly version.

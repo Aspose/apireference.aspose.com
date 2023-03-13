@@ -1,12 +1,12 @@
 ---
-title: set_To
+title: set_To()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the target location for an animation scale effect (in percents). Write System::Drawing::PointF."
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/iscaleeffect/set_to/
 ---
-## IScaleEffect::set_To method
+## IScaleEffect::set_To([System::Drawing::PointF](../../../system.drawing/pointf/)) method
 
 
 Specifies the target location for an animation scale effect (in percents). Write [System::Drawing::PointF](../../../system.drawing/pointf/).

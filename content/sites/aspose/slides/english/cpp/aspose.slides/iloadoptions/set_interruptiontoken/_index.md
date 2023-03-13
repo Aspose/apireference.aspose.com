@@ -1,12 +1,12 @@
 ---
-title: set_InterruptionToken
+title: set_InterruptionToken()
 second_title: Aspose.Slides for C++ API Reference
 description: The token to monitor for interruption requests.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/iloadoptions/set_interruptiontoken/
 ---
-## ILoadOptions::set_InterruptionToken method
+## ILoadOptions::set_InterruptionToken([System::SharedPtr](../../../system/sharedptr/)\<[IInterruptionToken](../../iinterruptiontoken/)\>) method
 
 
 The token to monitor for interruption requests.

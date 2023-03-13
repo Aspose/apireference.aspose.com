@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the product token name.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/productheadervalue/get_name/
 ---
-## ProductHeaderValue::get_Name method
+## ProductHeaderValue::get_Name() method
 
 
 Returns the product token name.

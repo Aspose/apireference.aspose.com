@@ -1,12 +1,12 @@
 ---
-title: JoinWorkerThread
+title: JoinWorkerThread()
 second_title: Aspose.Slides for C++ API Reference
 description: Joins worker thread. Waits infinitely if required.
 type: docs
 weight: 14
 url: /cpp/system.threading/timerqueue/joinworkerthread/
 ---
-## TimerQueue::JoinWorkerThread method
+## TimerQueue::JoinWorkerThread() method
 
 
 Joins worker thread. Waits infinitely if required.

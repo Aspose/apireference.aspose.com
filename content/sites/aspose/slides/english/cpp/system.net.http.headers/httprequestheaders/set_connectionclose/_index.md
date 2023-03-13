@@ -1,12 +1,12 @@
 ---
-title: set_ConnectionClose
+title: set_ConnectionClose()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the 'Connection' header value contains 'Close'.
 type: docs
 weight: 456
 url: /cpp/system.net.http.headers/httprequestheaders/set_connectionclose/
 ---
-## HttpRequestHeaders::set_ConnectionClose method
+## HttpRequestHeaders::set_ConnectionClose([Nullable](../../../system/nullable/)\<**bool**\>) method
 
 
 Sets a value that indicates if the 'Connection' header value contains 'Close'.

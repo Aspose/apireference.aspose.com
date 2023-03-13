@@ -1,12 +1,12 @@
 ---
-title: ResetTransform
+title: ResetTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets the current object's transform matrix so that it becomes an identity matrix.
 type: docs
 weight: 92
 url: /cpp/system.drawing/texturebrush/resettransform/
 ---
-## TextureBrush::ResetTransform method
+## TextureBrush::ResetTransform() method
 
 
 Resets the current object's transform matrix so that it becomes an identity matrix.

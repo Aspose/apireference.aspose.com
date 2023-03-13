@@ -1,12 +1,12 @@
 ---
-title: CreateFromValue
+title: CreateFromValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Create a curve from the specified OID value.
 type: docs
 weight: 105
 url: /cpp/system.security.cryptography/eccurve/createfromvalue/
 ---
-## ECCurve::CreateFromValue method
+## ECCurve::CreateFromValue(const [String](../../../system/string/)\&) method
 
 
 Create a curve from the specified OID value.

@@ -1,15 +1,15 @@
 ---
-title: set_ReturnToParent
+title: set_ReturnToParent()
 second_title: Aspose.Slides for C++ API Reference
-description: "Sets the navigation behavior in slideshow. Write bool. Default value: false."
+description: "Sets the navigation behavior in slideshow. Write bool. Default value: false"
 type: docs
 weight: 40
 url: /cpp/aspose.slides/zoomobject/set_returntoparent/
 ---
-## ZoomObject::set_ReturnToParent method
+## ZoomObject::set_ReturnToParent(**bool**) method
 
 
-Sets the navigation behavior in slideshow. Write **bool**. Default value: false.
+Sets the navigation behavior in slideshow. Write **bool**. Default value: false
 
 ```cpp
 void Aspose::Slides::ZoomObject::set_ReturnToParent(bool value) override

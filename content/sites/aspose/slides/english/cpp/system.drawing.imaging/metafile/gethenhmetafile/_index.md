@@ -1,12 +1,12 @@
 ---
-title: GetHenhmetafile
+title: GetHenhmetafile()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 40
 url: /cpp/system.drawing.imaging/metafile/gethenhmetafile/
 ---
-## Metafile::GetHenhmetafile method
+## Metafile::GetHenhmetafile() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: ImageTransformOCollectionEffectiveData
+title: ImageTransformOCollectionEffectiveData()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/imagetransformocollectioneffectivedata/imagetransformocollectioneffectivedata/
 ---
-## ImageTransformOCollectionEffectiveData::ImageTransformOCollectionEffectiveData constructor
+## ImageTransformOCollectionEffectiveData::ImageTransformOCollectionEffectiveData() constructor
 
 
 

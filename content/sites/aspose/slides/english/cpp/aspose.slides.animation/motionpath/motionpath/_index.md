@@ -1,12 +1,12 @@
 ---
-title: MotionPath
+title: MotionPath()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/motionpath/motionpath/
 ---
-## MotionPath::MotionPath constructor
+## MotionPath::MotionPath() constructor
 
 
 

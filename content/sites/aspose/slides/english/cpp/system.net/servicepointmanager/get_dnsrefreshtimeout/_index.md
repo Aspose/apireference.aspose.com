@@ -1,12 +1,12 @@
 ---
-title: get_DnsRefreshTimeout
+title: get_DnsRefreshTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a timeout in milliseconds during which a DNS resolution is considered valid.
 type: docs
 weight: 183
 url: /cpp/system.net/servicepointmanager/get_dnsrefreshtimeout/
 ---
-## ServicePointManager::get_DnsRefreshTimeout method
+## ServicePointManager::get_DnsRefreshTimeout() method
 
 
 Gets a timeout in milliseconds during which a DNS resolution is considered valid.

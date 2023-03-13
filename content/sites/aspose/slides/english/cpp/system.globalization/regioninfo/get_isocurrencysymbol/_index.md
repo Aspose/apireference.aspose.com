@@ -1,12 +1,12 @@
 ---
-title: get_ISOCurrencySymbol
+title: get_ISOCurrencySymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets ISO currency symbol.
 type: docs
 weight: 27
 url: /cpp/system.globalization/regioninfo/get_isocurrencysymbol/
 ---
-## RegionInfo::get_ISOCurrencySymbol method
+## RegionInfo::get_ISOCurrencySymbol() const method
 
 
 Gets ISO currency symbol.

@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 196
 url: /cpp/system.globalization/regioninfo/equals/
 ---
-## RegionInfo::Equals method
+## RegionInfo::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 

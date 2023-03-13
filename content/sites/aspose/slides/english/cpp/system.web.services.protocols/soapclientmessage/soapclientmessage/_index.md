@@ -1,12 +1,12 @@
 ---
-title: SoapClientMessage
+title: SoapClientMessage()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 66
 url: /cpp/system.web.services.protocols/soapclientmessage/soapclientmessage/
 ---
-## SoapClientMessage::SoapClientMessage constructor
+## SoapClientMessage::SoapClientMessage([System::SharedPtr](../../../system/sharedptr/)\<[SoapHttpClientProtocol](../../soaphttpclientprotocol/)\>, [System::SharedPtr](../../../system/sharedptr/)\<SoapMethodStubInfo\>, [String](../../../system/string/), [System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\>) constructor
 
 
 Constructs a new instance.

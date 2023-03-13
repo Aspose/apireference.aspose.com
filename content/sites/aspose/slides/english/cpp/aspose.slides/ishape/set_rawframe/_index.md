@@ -1,12 +1,12 @@
 ---
-title: set_RawFrame
+title: set_RawFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the raw shape frame's properties. Write IShapeFrame.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ishape/set_rawframe/
 ---
-## IShape::set_RawFrame method
+## IShape::set_RawFrame([System::SharedPtr](../../../system/sharedptr/)\<[IShapeFrame](../../ishapeframe/)\>) method
 
 
 Sets the raw shape frame's properties. Write [IShapeFrame](../../ishapeframe/).

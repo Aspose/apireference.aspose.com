@@ -1,15 +1,15 @@
 ---
-title: get_Position
+title: get_Position()
 second_title: Aspose.Slides for C++ API Reference
-description: "Position of the bar line. Default: Top."
+description: "Position of the bar line. Default: Top"
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathbar/get_position/
 ---
-## MathBar::get_Position method
+## MathBar::get_Position() method
 
 
-Position of the bar line. Default: Top.
+Position of the bar line. Default: Top
 
 ```cpp
 MathTopBotPositions Aspose::Slides::MathText::MathBar::get_Position() override

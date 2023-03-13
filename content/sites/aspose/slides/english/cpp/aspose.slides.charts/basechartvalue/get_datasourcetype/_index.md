@@ -1,12 +1,12 @@
 ---
-title: get_DataSourceType
+title: get_DataSourceType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies whether AsCell, AsCells, AsLiteralString or AsLiteralDouble property is actual in descendants. In other words it specifies the type of value of the Data property. Read Charts::DataSourceType."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/basechartvalue/get_datasourcetype/
 ---
-## BaseChartValue::get_DataSourceType method
+## BaseChartValue::get_DataSourceType() method
 
 
 Specifies whether AsCell, AsCells, AsLiteralString or AsLiteralDouble property is actual in descendants. In other words it specifies the type of value of the Data property. Read [Charts::DataSourceType](../../datasourcetype/).

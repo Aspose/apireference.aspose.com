@@ -1,12 +1,12 @@
 ---
-title: get_TextStyle
+title: get_TextStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns text's style. Read-only ITextStyle.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/itextframeformat/get_textstyle/
 ---
-## ITextFrameFormat::get_TextStyle method
+## ITextFrameFormat::get_TextStyle() method
 
 
 Returns text's style. Read-only [ITextStyle](../../itextstyle/).

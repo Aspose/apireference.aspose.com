@@ -1,12 +1,12 @@
 ---
-title: SetAllSlideNumbersVisibility
+title: SetAllSlideNumbersVisibility()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes all page number placeholders visibility, including master slides, layout slides and slides.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ipresentationheaderfootermanager/setallslidenumbersvisibility/
 ---
-## IPresentationHeaderFooterManager::SetAllSlideNumbersVisibility method
+## IPresentationHeaderFooterManager::SetAllSlideNumbersVisibility(**bool**) method
 
 
 Changes all page number placeholders visibility, including master slides, layout slides and slides.

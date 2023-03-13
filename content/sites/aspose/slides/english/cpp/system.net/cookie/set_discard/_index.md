@@ -1,12 +1,12 @@
 ---
-title: set_Discard
+title: set_Discard()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'Discard' attribute's value.
 type: docs
 weight: 92
 url: /cpp/system.net/cookie/set_discard/
 ---
-## Cookie::set_Discard method
+## Cookie::set_Discard(**bool**) method
 
 
 Sets the 'Discard' attribute's value.

@@ -1,12 +1,12 @@
 ---
-title: get_JoinStyle
+title: get_JoinStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the lines join style. Read LineJoinStyle.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/lineformat/get_joinstyle/
 ---
-## LineFormat::get_JoinStyle method
+## LineFormat::get_JoinStyle() method
 
 
 Returns the lines join style. Read [LineJoinStyle](../../linejoinstyle/).

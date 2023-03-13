@@ -1,12 +1,12 @@
 ---
-title: get_Client
+title: get_Client()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an instance of the client proxy class.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soapclientmessage/get_client/
 ---
-## SoapClientMessage::get_Client method
+## SoapClientMessage::get_Client() method
 
 
 Returns an instance of the client proxy class.

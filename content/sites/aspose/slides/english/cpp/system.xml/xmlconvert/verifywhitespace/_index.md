@@ -1,12 +1,12 @@
 ---
-title: VerifyWhitespace
+title: VerifyWhitespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the passed-in string instance if all the characters in the string argument are valid whitespace characters.
 type: docs
 weight: 131
 url: /cpp/system.xml/xmlconvert/verifywhitespace/
 ---
-## XmlConvert::VerifyWhitespace method
+## XmlConvert::VerifyWhitespace(const [String](../../../system/string/)\&) method
 
 
 Returns the passed-in string instance if all the characters in the string argument are valid whitespace characters.

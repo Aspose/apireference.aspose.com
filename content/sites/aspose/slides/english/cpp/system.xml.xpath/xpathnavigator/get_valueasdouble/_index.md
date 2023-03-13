@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsDouble
+title: get_ValueAsDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current node's value as a Double.
 type: docs
 weight: 79
 url: /cpp/system.xml.xpath/xpathnavigator/get_valueasdouble/
 ---
-## XPathNavigator::get_ValueAsDouble method
+## XPathNavigator::get_ValueAsDouble() method
 
 
 Returns the current node's value as a [Double](../../../system/double/).

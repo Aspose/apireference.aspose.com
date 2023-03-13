@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets semaphore to non-signalled state. Not supported.
 type: docs
 weight: 14
 url: /cpp/system.threading/semaphore/reset/
 ---
-## Semaphore::Reset method
+## Semaphore::Reset() method
 
 
 Sets semaphore to non-signalled state. Not supported.

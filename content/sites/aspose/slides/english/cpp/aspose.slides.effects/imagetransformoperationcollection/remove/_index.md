@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of a specific object from the ICollection.
 type: docs
 weight: 326
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/remove/
 ---
-## ImageTransformOperationCollection::Remove method
+## ImageTransformOperationCollection::Remove(const [System::SharedPtr](../../../system/sharedptr/)\<[IImageTransformOperation](../../iimagetransformoperation/)\>\&) method
 
 
 Removes the first occurrence of a specific object from the [ICollection](../../../system.collections.generic/icollection/).

@@ -1,12 +1,12 @@
 ---
-title: FileWebRequest
+title: FileWebRequest()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 105
 url: /cpp/system.net/filewebrequest/filewebrequest/
 ---
-## FileWebRequest::FileWebRequest constructor
+## FileWebRequest::FileWebRequest([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) constructor
 
 
 Constructs a new instance.

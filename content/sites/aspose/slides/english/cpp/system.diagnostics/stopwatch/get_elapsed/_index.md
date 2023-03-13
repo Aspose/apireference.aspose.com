@@ -1,12 +1,12 @@
 ---
-title: get_Elapsed
+title: get_Elapsed()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the total elapsed time measured by the current instance.
 type: docs
 weight: 92
 url: /cpp/system.diagnostics/stopwatch/get_elapsed/
 ---
-## Stopwatch::get_Elapsed method
+## Stopwatch::get_Elapsed() const method
 
 
 Gets the total elapsed time measured by the current instance.

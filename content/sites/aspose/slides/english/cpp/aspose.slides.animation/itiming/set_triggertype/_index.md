@@ -1,12 +1,12 @@
 ---
-title: set_TriggerType
+title: set_TriggerType()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes trigger type. Write EffectTriggerType.
 type: docs
 weight: 300
 url: /cpp/aspose.slides.animation/itiming/set_triggertype/
 ---
-## ITiming::set_TriggerType method
+## ITiming::set_TriggerType([EffectTriggerType](../../effecttriggertype/)) method
 
 
 Describes trigger type. Write [EffectTriggerType](../../effecttriggertype/).

@@ -1,12 +1,12 @@
 ---
-title: get_Label
+title: get_Label()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns data label for the data point of this series at the specified index.
 type: docs
 weight: 833
 url: /cpp/aspose.slides.charts/ichartseries/get_label/
 ---
-## IChartSeries::get_Label method
+## IChartSeries::get_Label(**int32_t**) method
 
 
 Returns data label for the data point of this series at the specified index.

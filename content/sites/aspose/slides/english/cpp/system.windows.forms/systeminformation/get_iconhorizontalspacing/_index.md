@@ -1,12 +1,12 @@
 ---
-title: get_IconHorizontalSpacing
+title: get_IconHorizontalSpacing()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 339
 url: /cpp/system.windows.forms/systeminformation/get_iconhorizontalspacing/
 ---
-## SystemInformation::get_IconHorizontalSpacing method
+## SystemInformation::get_IconHorizontalSpacing() method
 
 
 NOT IMPLEMENTED.

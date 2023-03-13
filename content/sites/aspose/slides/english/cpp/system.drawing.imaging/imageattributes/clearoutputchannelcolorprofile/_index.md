@@ -1,12 +1,12 @@
 ---
-title: ClearOutputChannelColorProfile
+title: ClearOutputChannelColorProfile()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 92
 url: /cpp/system.drawing.imaging/imageattributes/clearoutputchannelcolorprofile/
 ---
-## ImageAttributes::ClearOutputChannelColorProfile method
+## ImageAttributes::ClearOutputChannelColorProfile([ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

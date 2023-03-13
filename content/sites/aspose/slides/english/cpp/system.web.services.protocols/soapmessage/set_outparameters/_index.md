@@ -1,12 +1,12 @@
 ---
-title: set_OutParameters
+title: set_OutParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the output parameters passed into the XML Web service method.
 type: docs
 weight: 40
 url: /cpp/system.web.services.protocols/soapmessage/set_outparameters/
 ---
-## SoapMessage::set_OutParameters method
+## SoapMessage::set_OutParameters([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\>) method
 
 
 Sets the output parameters passed into the XML [Web](../../../system.web/) service method.

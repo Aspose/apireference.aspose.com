@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds value to the end of container.
 type: docs
 weight: 92
 url: /cpp/system.collections/bitarray/add/
 ---
-## BitArray::Add method
+## BitArray::Add(const **bool**\&) method
 
 
 Adds value to the end of container.

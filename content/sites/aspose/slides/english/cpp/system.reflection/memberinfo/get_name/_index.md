@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets member name.
 type: docs
 weight: 1
 url: /cpp/system.reflection/memberinfo/get_name/
 ---
-## MemberInfo::get_Name method
+## MemberInfo::get_Name() const method
 
 
 Gets member name.

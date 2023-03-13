@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Delete all characters from the current secure string.
 type: docs
 weight: 66
 url: /cpp/system.security/securestring/clear/
 ---
-## SecureString::Clear method
+## SecureString::Clear() method
 
 
 Delete all characters from the current secure string.

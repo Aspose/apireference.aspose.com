@@ -1,12 +1,12 @@
 ---
-title: ResetTransform
+title: ResetTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets current object's transformation matrix.
 type: docs
 weight: 14
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/resettransform/
 ---
-## LinearGradientBrush::ResetTransform method
+## LinearGradientBrush::ResetTransform() method
 
 
 Resets current object's transformation matrix.

@@ -1,12 +1,12 @@
 ---
-title: SetNoOp
+title: SetNoOp()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 209
 url: /cpp/system.drawing.imaging/imageattributes/setnoop/
 ---
-## ImageAttributes::SetNoOp method
+## ImageAttributes::SetNoOp([ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

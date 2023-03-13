@@ -1,15 +1,15 @@
 ---
-title: set_ShowBackground
+title: set_ShowBackground()
 second_title: Aspose.Slides for C++ API Reference
-description: "Sets value that specifies whether the Zoom will use the background of the destination slide. Write bool. Default value: true."
+description: "Sets value that specifies whether the Zoom will use the background of the destination slide. Write bool. Default value: true"
 type: docs
 weight: 66
 url: /cpp/aspose.slides/zoomobject/set_showbackground/
 ---
-## ZoomObject::set_ShowBackground method
+## ZoomObject::set_ShowBackground(**bool**) method
 
 
-Sets value that specifies whether the Zoom will use the background of the destination slide. Write **bool**. Default value: true.
+Sets value that specifies whether the Zoom will use the background of the destination slide. Write **bool**. Default value: true
 
 ```cpp
 void Aspose::Slides::ZoomObject::set_ShowBackground(bool value) override

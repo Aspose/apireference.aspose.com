@@ -1,12 +1,12 @@
 ---
-title: set_Capacity
+title: set_Capacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets current capacity of string builder.
 type: docs
 weight: 66
 url: /cpp/system.text/stringbuilder/set_capacity/
 ---
-## StringBuilder::set_Capacity method
+## StringBuilder::set_Capacity(int) method
 
 
 Sets current capacity of string builder.

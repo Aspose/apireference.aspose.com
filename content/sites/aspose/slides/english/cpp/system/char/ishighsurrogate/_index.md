@@ -1,5 +1,5 @@
 ---
-title: IsHighSurrogate
+title: IsHighSurrogate()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the character at the specified index in the specified string is UTF-16 high surrogate code unit.
 type: docs

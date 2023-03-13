@@ -1,12 +1,12 @@
 ---
-title: get_TypedValue
+title: get_TypedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current validated XML element or attribute as a boxed object of the most appropriate type according to its schema type.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlatomicvalue/get_typedvalue/
 ---
-## XmlAtomicValue::get_TypedValue method
+## XmlAtomicValue::get_TypedValue() method
 
 
 Returns the current validated XML element or attribute as a boxed object of the most appropriate type according to its schema type.

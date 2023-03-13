@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets length of string currently in builder.
 type: docs
 weight: 27
 url: /cpp/system.text/stringbuilder/get_length/
 ---
-## StringBuilder::get_Length method
+## StringBuilder::get_Length() const method
 
 
 Gets length of string currently in builder.

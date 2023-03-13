@@ -1,7 +1,7 @@
 ---
-title: SetUpperLimit
+title: SetUpperLimit()
 second_title: Aspose.Slides for C++ API Reference
-description: Takes upper limit.
+description: Takes upper limit
 type: docs
 weight: 131
 url: /cpp/aspose.slides.mathtext/mathelementbase/setupperlimit/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathelementbase/setupperlimit/
 ## MathElementBase::SetUpperLimit([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Takes upper limit.
+Takes upper limit
 
 ```cpp
 System::SharedPtr<IMathLimit> Aspose::Slides::MathText::MathElementBase::SetUpperLimit(System::SharedPtr<IMathElement> limit) override
@@ -47,7 +47,7 @@ auto limitElement = baseElement->SetUpperLimit(limitValue);
 ## MathElementBase::SetUpperLimit([System::String](../../../system/string/)) method
 
 
-Takes upper limit.
+Takes upper limit
 
 ```cpp
 System::SharedPtr<IMathLimit> Aspose::Slides::MathText::MathElementBase::SetUpperLimit(System::String limit) override

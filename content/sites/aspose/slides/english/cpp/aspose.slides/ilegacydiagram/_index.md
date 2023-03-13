@@ -1,7 +1,7 @@
 ---
 title: ILegacyDiagram
 second_title: Aspose.Slides for C++ API Reference
-description: Represents a legacy diagram object.
+description: Represents a legacy diagram object
 type: docs
 weight: 2510
 url: /cpp/aspose.slides/ilegacydiagram/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/ilegacydiagram/
 ## ILegacyDiagram class
 
 
-Represents a legacy diagram object.
+Represents a legacy diagram object
 
 ```cpp
 class ILegacyDiagram : public virtual Aspose::Slides::IGraphicalObject

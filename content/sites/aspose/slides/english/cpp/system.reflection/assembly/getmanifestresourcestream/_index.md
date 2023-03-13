@@ -1,12 +1,12 @@
 ---
-title: GetManifestResourceStream
+title: GetManifestResourceStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets stream connected to manifest resource.
 type: docs
 weight: 14
 url: /cpp/system.reflection/assembly/getmanifestresourcestream/
 ---
-## Assembly::GetManifestResourceStream method
+## Assembly::GetManifestResourceStream([String](../../../system/string/)) const method
 
 
 Gets stream connected to manifest resource.

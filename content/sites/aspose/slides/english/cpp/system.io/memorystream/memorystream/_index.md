@@ -1,5 +1,5 @@
 ---
-title: MemoryStream
+title: MemoryStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of the MemoryStream class with initial capacity equal to 0.
 type: docs

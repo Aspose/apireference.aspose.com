@@ -1,5 +1,5 @@
 ---
-title: Export
+title: Export()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports the current object to a byte array using the specified format. NOT IMPLEMENTED.
 type: docs

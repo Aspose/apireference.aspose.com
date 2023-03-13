@@ -1,12 +1,12 @@
 ---
-title: set_X
+title: set_X()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the x-coordinate of the upper-left corner of the shape. Write float.
 type: docs
 weight: 235
 url: /cpp/aspose.slides/ishape/set_x/
 ---
-## IShape::set_X method
+## IShape::set_X(**float**) method
 
 
 Sets the x-coordinate of the upper-left corner of the shape. Write **float**.

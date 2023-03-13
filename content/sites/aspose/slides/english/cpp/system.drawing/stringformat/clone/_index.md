@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an exact copy of the current object.
 type: docs
 weight: 222
 url: /cpp/system.drawing/stringformat/clone/
 ---
-## StringFormat::Clone method
+## StringFormat::Clone() method
 
 
 Returns an exact copy of the current object.

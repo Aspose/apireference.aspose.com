@@ -1,12 +1,12 @@
 ---
-title: AddCapture
+title: AddCapture()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds capture into group.
 type: docs
 weight: 40
 url: /cpp/system.text.regularexpressions/group/addcapture/
 ---
-## Group::AddCapture method
+## Group::AddCapture(const [CapturePtr](../../captureptr/)\&) method
 
 
 Adds capture into group.

@@ -1,12 +1,12 @@
 ---
-title: get_MediumAquamarine
+title: get_MediumAquamarine()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF66CDAA.
 type: docs
 weight: 1067
 url: /cpp/system.drawing/pens/get_mediumaquamarine/
 ---
-## Pens::get_MediumAquamarine method
+## Pens::get_MediumAquamarine() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF66CDAA.

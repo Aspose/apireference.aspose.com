@@ -1,5 +1,5 @@
 ---
-title: rbegin
+title: rbegin()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a reverse iterator to the first element of the reversed container. It corresponds to the last element of the non-reversed container. If the container is empty, the returned iterator is equal to rend().
 type: docs

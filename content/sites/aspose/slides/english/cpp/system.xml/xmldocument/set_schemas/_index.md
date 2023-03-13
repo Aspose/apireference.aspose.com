@@ -1,12 +1,12 @@
 ---
-title: set_Schemas
+title: set_Schemas()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlSchemaSet object associated with this XmlDocument.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmldocument/set_schemas/
 ---
-## XmlDocument::set_Schemas method
+## XmlDocument::set_Schemas(const [SharedPtr](../../../system/sharedptr/)\<[Schema::XmlSchemaSet](../../../system.xml.schema/xmlschemaset/)\>\&) method
 
 
 Sets the XmlSchemaSet object associated with this [XmlDocument](../).

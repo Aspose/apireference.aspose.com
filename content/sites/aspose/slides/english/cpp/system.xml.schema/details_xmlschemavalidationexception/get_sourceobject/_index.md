@@ -1,12 +1,12 @@
 ---
-title: get_SourceObject
+title: get_SourceObject()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XML node that caused this XmlSchemaValidationException.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/details_xmlschemavalidationexception/get_sourceobject/
 ---
-## Details_XmlSchemaValidationException::get_SourceObject method
+## Details_XmlSchemaValidationException::get_SourceObject() method
 
 
 Returns the XML node that caused this XmlSchemaValidationException.

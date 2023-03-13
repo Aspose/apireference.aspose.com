@@ -1,12 +1,12 @@
 ---
-title: CreateBiLevel
+title: CreateBiLevel()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates BiLevel effect.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/createbilevel/
 ---
-## IImageTransformOperationFactory::CreateBiLevel method
+## IImageTransformOperationFactory::CreateBiLevel(**float**) method
 
 
 Creates [BiLevel](../../bilevel/) effect.

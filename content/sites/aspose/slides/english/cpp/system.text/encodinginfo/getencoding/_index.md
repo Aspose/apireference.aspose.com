@@ -1,12 +1,12 @@
 ---
-title: GetEncoding
+title: GetEncoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets encoding described by info.
 type: docs
 weight: 53
 url: /cpp/system.text/encodinginfo/getencoding/
 ---
-## EncodingInfo::GetEncoding method
+## EncodingInfo::GetEncoding() method
 
 
 Gets encoding described by info.

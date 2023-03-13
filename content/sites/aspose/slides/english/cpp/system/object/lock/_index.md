@@ -1,12 +1,12 @@
 ---
-title: Lock
+title: Lock()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements C# lock() statement locking. Call directly or use LockContext sentry object.
 type: docs
 weight: 131
 url: /cpp/system/object/lock/
 ---
-## Object::Lock method
+## Object::Lock() method
 
 
 Implements C# lock() statement locking. Call directly or use [LockContext](../../lockcontext/) sentry object.

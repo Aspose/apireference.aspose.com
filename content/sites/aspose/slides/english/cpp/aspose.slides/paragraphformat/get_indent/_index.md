@@ -1,12 +1,12 @@
 ---
-title: get_Indent
+title: get_Indent()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns paragraph First Line Indent/Hanging Indent with no inheritance. Hanging Indent can be defined with negative values. Read float.
 type: docs
 weight: 261
 url: /cpp/aspose.slides/paragraphformat/get_indent/
 ---
-## ParagraphFormat::get_Indent method
+## ParagraphFormat::get_Indent() method
 
 
 Returns paragraph First Line Indent/Hanging Indent with no inheritance. Hanging Indent can be defined with negative values. Read **float**.

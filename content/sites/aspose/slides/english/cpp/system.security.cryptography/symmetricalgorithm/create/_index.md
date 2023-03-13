@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates algorithm instance.
 type: docs
 weight: 248
 url: /cpp/system.security.cryptography/symmetricalgorithm/create/
 ---
-## SymmetricAlgorithm::Create method
+## SymmetricAlgorithm::Create(const [String](../../../system/string/)\&) method
 
 
 Creates algorithm instance.

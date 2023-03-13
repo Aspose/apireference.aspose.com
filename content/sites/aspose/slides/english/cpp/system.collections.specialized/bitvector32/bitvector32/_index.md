@@ -1,5 +1,5 @@
 ---
-title: BitVector32
+title: BitVector32()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new empty instance of the BitVector32.
 type: docs

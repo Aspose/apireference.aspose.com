@@ -1,12 +1,12 @@
 ---
-title: SearchForTextOfTag
+title: SearchForTextOfTag()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets child tag inner text by tag name.
 type: docs
 weight: 196
 url: /cpp/system.security/securityelement/searchfortextoftag/
 ---
-## SecurityElement::SearchForTextOfTag method
+## SecurityElement::SearchForTextOfTag(const [String](../../../system/string/)\&) method
 
 
 Gets child tag inner text by tag name.

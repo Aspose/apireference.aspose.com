@@ -1,12 +1,12 @@
 ---
-title: set_NumberGroupSizes
+title: set_NumberGroupSizes()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets numbers of digits per group.
 type: docs
 weight: 495
 url: /cpp/system.globalization/numberformatinfo/set_numbergroupsizes/
 ---
-## NumberFormatInfo::set_NumberGroupSizes method
+## NumberFormatInfo::set_NumberGroupSizes(const [ArrayPtr](../../../system/arrayptr/)\<int\>\&) method
 
 
 Sets numbers of digits per group.

@@ -1,12 +1,12 @@
 ---
-title: get_FromPage
+title: get_FromPage()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 27
 url: /cpp/system.drawing.printing/printersettings/get_frompage/
 ---
-## PrinterSettings::get_FromPage method
+## PrinterSettings::get_FromPage() method
 
 
 NOT IMPLEMENTED.

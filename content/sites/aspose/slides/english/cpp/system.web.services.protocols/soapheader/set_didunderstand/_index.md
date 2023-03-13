@@ -1,12 +1,12 @@
 ---
-title: set_DidUnderstand
+title: set_DidUnderstand()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the SOAP header is properly processed.
 type: docs
 weight: 40
 url: /cpp/system.web.services.protocols/soapheader/set_didunderstand/
 ---
-## SoapHeader::set_DidUnderstand method
+## SoapHeader::set_DidUnderstand(**bool**) method
 
 
 Sets a value that indicates if the SOAP header is properly processed.

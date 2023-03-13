@@ -1,12 +1,12 @@
 ---
-title: get_TransformChain
+title: get_TransformChain()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 131
 url: /cpp/system.security.cryptography.xml/reference/get_transformchain/
 ---
-## Reference::get_TransformChain method
+## Reference::get_TransformChain() method
 
 
 

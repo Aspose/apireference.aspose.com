@@ -1,12 +1,12 @@
 ---
-title: get_OutputSettings
+title: get_OutputSettings()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an XmlWriterSettings object that contains the output information derived from the xsl:output element of the style sheet."
 type: docs
 weight: 1
 url: /cpp/system.xml.xsl/xslcompiledtransform/get_outputsettings/
 ---
-## XslCompiledTransform::get_OutputSettings method
+## XslCompiledTransform::get_OutputSettings() method
 
 
 Returns an [XmlWriterSettings](../../../system.xml/xmlwritersettings/) object that contains the output information derived from the **xsl:output** element of the style sheet.

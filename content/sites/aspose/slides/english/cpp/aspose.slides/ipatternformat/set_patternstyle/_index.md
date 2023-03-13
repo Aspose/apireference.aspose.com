@@ -1,12 +1,12 @@
 ---
-title: set_PatternStyle
+title: set_PatternStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the pattern style. Write Slides::PatternStyle."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ipatternformat/set_patternstyle/
 ---
-## IPatternFormat::set_PatternStyle method
+## IPatternFormat::set_PatternStyle([Aspose::Slides::PatternStyle](../../patternstyle/)) method
 
 
 Sets the pattern style. Write [Slides::PatternStyle](../../patternstyle/).

@@ -1,15 +1,15 @@
 ---
-title: get_FillFocusPositionX
+title: get_FillFocusPositionX()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'fill.focusposition.x' property.
+description: Represents 'fill.focusposition.x' property
 type: docs
 weight: 651
 url: /cpp/aspose.slides.animation/behaviorproperty/get_fillfocuspositionx/
 ---
-## BehaviorProperty::get_FillFocusPositionX method
+## BehaviorProperty::get_FillFocusPositionX() method
 
 
-Represents 'fill.focusposition.x' property.
+Represents 'fill.focusposition.x' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_FillFocusPositionX()

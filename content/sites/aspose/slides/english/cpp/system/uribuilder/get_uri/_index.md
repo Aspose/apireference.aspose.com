@@ -1,12 +1,12 @@
 ---
-title: get_Uri
+title: get_Uri()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Uri object constructed by the current object.
 type: docs
 weight: 53
 url: /cpp/system/uribuilder/get_uri/
 ---
-## UriBuilder::get_Uri method
+## UriBuilder::get_Uri() const method
 
 
 Returns the [Uri](../../uri/) object constructed by the current object.

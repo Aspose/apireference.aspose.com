@@ -1,12 +1,12 @@
 ---
-title: set_SelectLocked
+title: set_SelectLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a selecting this shape is forbidden. Write bool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/connectorlock/set_selectlocked/
 ---
-## ConnectorLock::set_SelectLocked method
+## ConnectorLock::set_SelectLocked(**bool**) method
 
 
 Determines whether a selecting this shape is forbidden. Write **bool**.

@@ -1,12 +1,12 @@
 ---
-title: ExportParameters
+title: ExportParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports all parameters.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/dsa/exportparameters/
 ---
-## DSA::ExportParameters method
+## DSA::ExportParameters(**bool**) method
 
 
 Exports all parameters.

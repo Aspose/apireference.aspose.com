@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Tests whether the specified object is a Matrix and is identical to this object.
 type: docs
 weight: 235
 url: /cpp/system.drawing.drawing2d/matrix/equals/
 ---
-## Matrix::Equals method
+## Matrix::Equals([ptr](../../../system/object/ptr/)) method
 
 
 Tests whether the specified object is a [Matrix](../) and is identical to this object.

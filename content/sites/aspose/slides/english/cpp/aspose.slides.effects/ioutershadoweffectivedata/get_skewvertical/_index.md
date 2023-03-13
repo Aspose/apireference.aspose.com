@@ -1,12 +1,12 @@
 ---
-title: get_SkewVertical
+title: get_SkewVertical()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the vertical skew angle (in degrees). Read-only double.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.effects/ioutershadoweffectivedata/get_skewvertical/
 ---
-## IOuterShadowEffectiveData::get_SkewVertical method
+## IOuterShadowEffectiveData::get_SkewVertical() method
 
 
 Specifies the vertical skew angle (in degrees). Read-only **double**.

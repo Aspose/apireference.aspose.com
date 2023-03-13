@@ -1,12 +1,12 @@
 ---
-title: get_YearMonthPattern
+title: get_YearMonthPattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets year and month pattern.
 type: docs
 weight: 612
 url: /cpp/system.globalization/datetimeformatinfo/get_yearmonthpattern/
 ---
-## DateTimeFormatInfo::get_YearMonthPattern method
+## DateTimeFormatInfo::get_YearMonthPattern() const method
 
 
 Gets year and month pattern.

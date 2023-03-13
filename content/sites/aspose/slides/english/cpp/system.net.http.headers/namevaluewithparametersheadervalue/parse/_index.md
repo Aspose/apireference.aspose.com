@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the NameValueWithParametersHeaderValue class.
 type: docs
 weight: 66
 url: /cpp/system.net.http.headers/namevaluewithparametersheadervalue/parse/
 ---
-## NameValueWithParametersHeaderValue::Parse method
+## NameValueWithParametersHeaderValue::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [NameValueWithParametersHeaderValue](../) class.

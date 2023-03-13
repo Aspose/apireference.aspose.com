@@ -1,12 +1,12 @@
 ---
-title: get_Parameters
+title: get_Parameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value parameters of the media-type header.
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/mediatypeheadervalue/get_parameters/
 ---
-## MediaTypeHeaderValue::get_Parameters method
+## MediaTypeHeaderValue::get_Parameters() method
 
 
 Returns the value parameters of the media-type header.

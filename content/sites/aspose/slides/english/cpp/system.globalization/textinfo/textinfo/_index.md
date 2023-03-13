@@ -1,12 +1,12 @@
 ---
-title: TextInfo
+title: TextInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.globalization/textinfo/textinfo/
 ---
-## TextInfo::TextInfo constructor
+## TextInfo::TextInfo(const [TextInfo](../)\&) constructor
 
 
 RTTI information.

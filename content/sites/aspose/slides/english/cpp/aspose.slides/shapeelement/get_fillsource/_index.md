@@ -1,12 +1,12 @@
 ---
-title: get_FillSource
+title: get_FillSource()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns information about how to fill an element. Read-only ShapeElementFillSource.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/shapeelement/get_fillsource/
 ---
-## ShapeElement::get_FillSource method
+## ShapeElement::get_FillSource() method
 
 
 Returns information about how to fill an element. Read-only [ShapeElementFillSource](../../shapeelementfillsource/).

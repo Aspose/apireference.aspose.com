@@ -1,12 +1,12 @@
 ---
-title: get_DerivedBy
+title: get_DerivedBy()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-compilation information on how this element was derived from its base type.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschematype/get_derivedby/
 ---
-## XmlSchemaType::get_DerivedBy method
+## XmlSchemaType::get_DerivedBy() method
 
 
 Returns the post-compilation information on how this element was derived from its base type.

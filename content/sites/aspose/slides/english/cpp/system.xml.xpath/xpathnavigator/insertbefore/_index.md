@@ -1,5 +1,5 @@
 ---
-title: InsertBefore
+title: InsertBefore()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlWriter object used to create a new sibling node before the currently selected node.
 type: docs

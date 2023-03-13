@@ -1,12 +1,12 @@
 ---
-title: set_Speed
+title: set_Speed()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the percentage by which to speed up (or slow down) the timing. Write float.
 type: docs
-weight: 248
+weight: 274
 url: /cpp/aspose.slides.animation/timing/set_speed/
 ---
-## Timing::set_Speed method
+## Timing::set_Speed(**float**) method
 
 
 Specifies the percentage by which to speed up (or slow down) the timing. Write **float**.

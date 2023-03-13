@@ -1,12 +1,12 @@
 ---
-title: Replace
+title: Replace()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces the contents of a one file with another and creates a backup of the replaced file.
 type: docs
 weight: 339
 url: /cpp/system.io/file/replace/
 ---
-## File::Replace method
+## File::Replace(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, **bool**) method
 
 
 Replaces the contents of a one file with another and creates a backup of the replaced file.

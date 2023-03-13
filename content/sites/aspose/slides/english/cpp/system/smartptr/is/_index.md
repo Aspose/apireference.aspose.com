@@ -1,12 +1,12 @@
 ---
-title: Is
+title: Is()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if pointed object is of specific type or its child type. Follows C# 'is' semantics.
 type: docs
 weight: 300
 url: /cpp/system/smartptr/is/
 ---
-## SmartPtr::Is method
+## SmartPtr::Is(const [System::TypeInfo](../../typeinfo/)\&) const method
 
 
 Checks if pointed object is of specific type or its child type. Follows C# 'is' semantics.

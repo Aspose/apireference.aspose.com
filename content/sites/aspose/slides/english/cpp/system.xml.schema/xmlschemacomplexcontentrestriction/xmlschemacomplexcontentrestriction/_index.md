@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaComplexContentRestriction
+title: XmlSchemaComplexContentRestriction()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaComplexContentRestriction class.
 type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemacomplexcontentrestriction/xmlschemacomplexcontentrestriction/
 ---
-## XmlSchemaComplexContentRestriction::XmlSchemaComplexContentRestriction constructor
+## XmlSchemaComplexContentRestriction::XmlSchemaComplexContentRestriction() constructor
 
 
 Initializes a new instance of the [XmlSchemaComplexContentRestriction](../) class.

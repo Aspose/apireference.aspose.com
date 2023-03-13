@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets certificate hash code.
 type: docs
 weight: 352
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/gethashcode/
 ---
-## X509Certificate::GetHashCode method
+## X509Certificate::GetHashCode() const method
 
 
 Gets certificate hash code.

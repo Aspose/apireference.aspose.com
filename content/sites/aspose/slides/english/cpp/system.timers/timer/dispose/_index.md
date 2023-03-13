@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Stops timer, frees allocated resources.
 type: docs
 weight: 144
 url: /cpp/system.timers/timer/dispose/
 ---
-## Timer::Dispose method
+## Timer::Dispose() method
 
 
 Stops timer, frees allocated resources.

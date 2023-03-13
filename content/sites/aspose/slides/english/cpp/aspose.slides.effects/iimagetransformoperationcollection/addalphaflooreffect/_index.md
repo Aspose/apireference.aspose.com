@@ -1,12 +1,12 @@
 ---
-title: AddAlphaFloorEffect
+title: AddAlphaFloorEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Alpha Floor effect to the end of a collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addalphaflooreffect/
 ---
-## IImageTransformOperationCollection::AddAlphaFloorEffect method
+## IImageTransformOperationCollection::AddAlphaFloorEffect() method
 
 
 Adds the new Alpha Floor effect to the end of a collection.

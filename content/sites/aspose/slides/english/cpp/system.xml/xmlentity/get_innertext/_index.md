@@ -1,12 +1,12 @@
 ---
-title: get_InnerText
+title: get_InnerText()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the concatenated values of the entity node and all its children.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlentity/get_innertext/
 ---
-## XmlEntity::get_InnerText method
+## XmlEntity::get_InnerText() method
 
 
 Returns the concatenated values of the entity node and all its children.

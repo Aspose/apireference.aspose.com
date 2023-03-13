@@ -1,12 +1,12 @@
 ---
-title: set_Client
+title: set_Client()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the socket.
 type: docs
 weight: 14
 url: /cpp/system.net.sockets/tcpclient/set_client/
 ---
-## TcpClient::set_Client method
+## TcpClient::set_Client([System::SharedPtr](../../../system/sharedptr/)\<[Socket](../../socket/)\>) method
 
 
 Sets the socket.

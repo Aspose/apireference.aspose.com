@@ -1,12 +1,12 @@
 ---
-title: get_ShortestDayNames
+title: get_ShortestDayNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets shortest day names possible.
 type: docs
 weight: 560
 url: /cpp/system.globalization/datetimeformatinfo/get_shortestdaynames/
 ---
-## DateTimeFormatInfo::get_ShortestDayNames method
+## DateTimeFormatInfo::get_ShortestDayNames() const method
 
 
 Gets shortest day names possible.

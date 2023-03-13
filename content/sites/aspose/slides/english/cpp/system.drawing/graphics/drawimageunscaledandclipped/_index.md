@@ -1,12 +1,12 @@
 ---
-title: DrawImageUnscaledAndClipped
+title: DrawImageUnscaledAndClipped()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 495
 url: /cpp/system.drawing/graphics/drawimageunscaledandclipped/
 ---
-## Graphics::DrawImageUnscaledAndClipped method
+## Graphics::DrawImageUnscaledAndClipped(const [SharedPtr](../../../system/sharedptr/)\<[Image](../../image/)\>\&, [Rectangle](../../rectangle/)) method
 
 
 NOT IMPLEMENTED.

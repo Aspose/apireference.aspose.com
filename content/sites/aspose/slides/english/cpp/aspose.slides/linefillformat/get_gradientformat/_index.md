@@ -1,12 +1,12 @@
 ---
-title: get_GradientFormat
+title: get_GradientFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the gradient fill format. Read-only IGradientFormat.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/linefillformat/get_gradientformat/
 ---
-## LineFillFormat::get_GradientFormat method
+## LineFillFormat::get_GradientFormat() method
 
 
 Returns the gradient fill format. Read-only [IGradientFormat](../../igradientformat/).

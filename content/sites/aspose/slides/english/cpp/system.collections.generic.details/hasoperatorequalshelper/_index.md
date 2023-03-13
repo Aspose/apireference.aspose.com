@@ -1,5 +1,5 @@
 ---
-title: HasOperatorEqualsHelper
+title: HasOperatorEqualsHelper()
 second_title: Aspose.Slides for C++ API Reference
 description: Helper function to determine whether specific class has operator ==.
 type: docs

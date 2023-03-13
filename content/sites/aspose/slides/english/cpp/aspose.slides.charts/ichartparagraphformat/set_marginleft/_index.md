@@ -1,12 +1,12 @@
 ---
-title: set_MarginLeft
+title: set_MarginLeft()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the left margin in a paragraph. Write float.
 type: docs
 weight: 222
 url: /cpp/aspose.slides.charts/ichartparagraphformat/set_marginleft/
 ---
-## IChartParagraphFormat::set_MarginLeft method
+## IChartParagraphFormat::set_MarginLeft(**float**) method
 
 
 Sets the left margin in a paragraph. Write **float**.

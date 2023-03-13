@@ -1,12 +1,12 @@
 ---
-title: GetLastWriteTime
+title: GetLastWriteTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the last write time of the specified entity as local time.
 type: docs
 weight: 183
 url: /cpp/system.io/directory/getlastwritetime/
 ---
-## Directory::GetLastWriteTime method
+## Directory::GetLastWriteTime(const [String](../../../system/string/)\&) method
 
 
 Returns the last write time of the specified entity as local time.

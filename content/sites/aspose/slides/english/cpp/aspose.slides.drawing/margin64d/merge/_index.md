@@ -1,12 +1,12 @@
 ---
-title: Merge
+title: Merge()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/aspose.slides.drawing/margin64d/merge/
 ---
-## Margin64d::Merge method
+## Margin64d::Merge([Margin64d](../)) method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: set_Credentials
+title: set_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the credentials that are used to authenticate the underlying Net::WebRequest."
 type: docs
 weight: 1
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/set_credentials/
 ---
-## XmlPreloadedResolver::set_Credentials method
+## XmlPreloadedResolver::set_Credentials([SharedPtr](../../../system/sharedptr/)\<[Net::ICredentials](../../../system.net/icredentials/)\>) method
 
 
 Sets the credentials that are used to authenticate the underlying [Net::WebRequest](../../../system.net/webrequest/).

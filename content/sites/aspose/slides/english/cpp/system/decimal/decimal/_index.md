@@ -1,5 +1,5 @@
 ---
-title: Decimal
+title: Decimal()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance that represents 0.
 type: docs

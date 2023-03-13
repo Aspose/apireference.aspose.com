@@ -1,12 +1,12 @@
 ---
-title: get_CanWrite
+title: get_CanWrite()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the stream is writable.
 type: docs
 weight: 27
 url: /cpp/system.io/unmanagedmemorystream/get_canwrite/
 ---
-## UnmanagedMemoryStream::get_CanWrite method
+## UnmanagedMemoryStream::get_CanWrite() const method
 
 
 Determines if the stream is writable.

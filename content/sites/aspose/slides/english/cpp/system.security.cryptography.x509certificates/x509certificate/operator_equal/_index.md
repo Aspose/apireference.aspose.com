@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/operator_equal/
 ---
-## X509Certificate::operator= method
+## X509Certificate::operator=(const [X509Certificate](../)\&) method
 
 
 

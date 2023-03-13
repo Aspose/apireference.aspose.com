@@ -1,12 +1,12 @@
 ---
-title: WriteByte
+title: WriteByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the specified unsigned 8-bit integer value to the stream.
 type: docs
 weight: 66
 url: /cpp/system.io/memorystream/writebyte/
 ---
-## MemoryStream::WriteByte method
+## MemoryStream::WriteByte(**uint8_t**) method
 
 
 Writes the specified unsigned 8-bit integer value to the stream.

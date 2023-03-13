@@ -1,12 +1,12 @@
 ---
-title: get_Delta
+title: get_Delta()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the delta value.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/retryconditionheadervalue/get_delta/
 ---
-## RetryConditionHeaderValue::get_Delta method
+## RetryConditionHeaderValue::get_Delta() method
 
 
 Returns the delta value.

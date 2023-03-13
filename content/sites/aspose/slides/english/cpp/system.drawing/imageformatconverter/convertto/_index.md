@@ -1,12 +1,12 @@
 ---
-title: ConvertTo
+title: ConvertTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts object to specific type.
 type: docs
 weight: 27
 url: /cpp/system.drawing/imageformatconverter/convertto/
 ---
-## ImageFormatConverter::ConvertTo method
+## ImageFormatConverter::ConvertTo(const [SharedPtr](../../../system/sharedptr/)\<[ComponentModel::ITypeDescriptorContext](../../../system.componentmodel/itypedescriptorcontext/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[Globalization::CultureInfo](../../../system.globalization/cultureinfo/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&, const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Converts object to specific type.

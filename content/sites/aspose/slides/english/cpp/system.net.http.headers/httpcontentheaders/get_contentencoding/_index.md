@@ -1,12 +1,12 @@
 ---
-title: get_ContentEncoding
+title: get_ContentEncoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-Encoding' header.
 type: docs
 weight: 40
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contentencoding/
 ---
-## HttpContentHeaders::get_ContentEncoding method
+## HttpContentHeaders::get_ContentEncoding() method
 
 
 Gets a value of the 'Content-Encoding' header.

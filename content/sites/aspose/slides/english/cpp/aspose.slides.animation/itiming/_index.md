@@ -34,6 +34,7 @@ class ITiming : public virtual System::Object
 | virtual **bool** [get_RepeatUntilEndSlide](./get_repeatuntilendslide/)() | This attribute specifies if the effect will repeat until the end of the slide. Read **bool**. |
 | virtual **bool** [get_RepeatUntilNextClick](./get_repeatuntilnextclick/)() | This attribute specifies if the effect will repeat until the next click. Read **bool**. |
 | virtual [EffectRestartType](../effectrestarttype/) [get_Restart](./get_restart/)() | Specifies if a effect is to restart after complete. Read [EffectRestartType](../effectrestarttype/). |
+| virtual **bool** [get_Rewind](./get_rewind/)() | This attribute specifies if the effect will rewind when done playing. Read **bool**. |
 | virtual **float** [get_Speed](./get_speed/)() | Specifies the percentage by which to speed up (or slow down) the timing. Read **float**. |
 | virtual **float** [get_TriggerDelayTime](./get_triggerdelaytime/)() | Describes delay time after trigger. Read **float**. |
 | virtual [EffectTriggerType](../effecttriggertype/) [get_TriggerType](./get_triggertype/)() | Describes trigger type. Read [EffectTriggerType](../effecttriggertype/). |
@@ -61,6 +62,7 @@ class ITiming : public virtual System::Object
 | virtual void [set_RepeatUntilEndSlide](./set_repeatuntilendslide/)(**bool**) | This attribute specifies if the effect will repeat until the end of the slide. Write **bool**. |
 | virtual void [set_RepeatUntilNextClick](./set_repeatuntilnextclick/)(**bool**) | This attribute specifies if the effect will repeat until the next click. Write **bool**. |
 | virtual void [set_Restart](./set_restart/)([EffectRestartType](../effectrestarttype/)) | Specifies if a effect is to restart after complete. Write [EffectRestartType](../effectrestarttype/). |
+| virtual void [set_Rewind](./set_rewind/)(**bool**) | This attribute specifies if the effect will rewind when done playing. Write **bool**. |
 | virtual void [set_Speed](./set_speed/)(**float**) | Specifies the percentage by which to speed up (or slow down) the timing. Write **float**. |
 | virtual void [set_TriggerDelayTime](./set_triggerdelaytime/)(**float**) | Describes delay time after trigger. Write **float**. |
 | virtual void [set_TriggerType](./set_triggertype/)([EffectTriggerType](../effecttriggertype/)) | Describes trigger type. Write [EffectTriggerType](../effecttriggertype/). |

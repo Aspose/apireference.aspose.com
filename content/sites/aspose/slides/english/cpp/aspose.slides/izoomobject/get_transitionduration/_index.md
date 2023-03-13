@@ -1,15 +1,15 @@
 ---
-title: get_TransitionDuration
+title: get_TransitionDuration()
 second_title: Aspose.Slides for C++ API Reference
-description: "Gets the duration of the transition between Zoom and slide. Read float. Default value: 1.0f."
+description: "Gets the duration of the transition between Zoom and slide. Read float. Default value: 1.0f"
 type: docs
 weight: 105
 url: /cpp/aspose.slides/izoomobject/get_transitionduration/
 ---
-## IZoomObject::get_TransitionDuration method
+## IZoomObject::get_TransitionDuration() method
 
 
-Gets the duration of the transition between Zoom and slide. Read **float**. Default value: 1.0f.
+Gets the duration of the transition between Zoom and slide. Read **float**. Default value: 1.0f
 
 ```cpp
 virtual float Aspose::Slides::IZoomObject::get_TransitionDuration()=0

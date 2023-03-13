@@ -21,7 +21,6 @@ class BehaviorPropertyCollection : public Aspose::Slides::Animation::IBehaviorPr
 | --- | --- |
 | void [Add](./add/)(const [System::SharedPtr](../../system/sharedptr/)\<[IBehaviorProperty](../ibehaviorproperty/)\>\&) override | Adds a new property to the collection. |
 | void [Add](./add/)(const [System::String](../../system/string/)\&) override | Adds a new property to the collection. |
-| virtual void [Add](../../system.collections.generic/icollection/add/)(const T\&) | Adds element into collection. |
 | [iterator](./iterator/) [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [const_iterator](./const_iterator/) [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [const_iterator](./const_iterator/) [cbegin](./cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
@@ -29,7 +28,6 @@ class BehaviorPropertyCollection : public Aspose::Slides::Animation::IBehaviorPr
 | void [Clear](./clear/)() override | Removes all properties from the collection. |
 | **bool** [Contains](./contains/)(const [System::SharedPtr](../../system/sharedptr/)\<[IBehaviorProperty](../ibehaviorproperty/)\>\&) const override | Determines whether the [ICollection](../../system.collections.generic/icollection/) contains a specific value. |
 | **bool** [Contains](./contains/)(const [System::String](../../system/string/)\&) const override | Determines whether the [ICollection](../../system.collections.generic/icollection/) contains a specific value. |
-| virtual **bool** [Contains](../../system.collections.generic/icollection/contains/)(const T\&) const | Checks if element is present in collection. |
 | void [CopyTo](./copyto/)([System::ArrayPtr](../../system/arrayptr/)\<[System::SharedPtr](../../system/sharedptr/)\<[IBehaviorProperty](../ibehaviorproperty/)\>\>, **int32_t**) override | Copies the elements of the [ICollection](../../system.collections.generic/icollection/) to an [System::Array](../../system/array/), starting at a particular [System::Array](../../system/array/) index. |
 | virtual void [CopyTo](../../system.collections.generic/icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
 | [iterator](./iterator/) [end](./end/)() | Gets iterator pointing right after the last element (if any) of the collection. |
@@ -108,7 +106,6 @@ class BehaviorPropertyCollection : public Aspose::Slides::Animation::IBehaviorPr
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | **bool** [Remove](./remove/)(const [System::SharedPtr](../../system/sharedptr/)\<[IBehaviorProperty](../ibehaviorproperty/)\>\&) override | Removes specified property from the collection. |
 | **bool** [Remove](./remove/)(const [System::String](../../system/string/)\&) override | Removes specified property from the collection. |
-| virtual **bool** [Remove](../../system.collections.generic/icollection/remove/)(const T\&) | Deletes element from collection. |
 | void [RemoveAt](./removeat/)(**int32_t**) override | Removes property at the specified index. |
 | virtual void [RemoveAt](../../system.collections.generic/ilist/removeat/)(int) | Removes element at specified index. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |

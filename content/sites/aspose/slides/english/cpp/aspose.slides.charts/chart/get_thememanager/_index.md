@@ -1,12 +1,12 @@
 ---
-title: get_ThemeManager
+title: get_ThemeManager()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns theme manager. Read-only Aspose::Slides::Theme::IOverrideThemeManager."
 type: docs
 weight: 313
 url: /cpp/aspose.slides.charts/chart/get_thememanager/
 ---
-## Chart::get_ThemeManager method
+## Chart::get_ThemeManager() method
 
 
 Returns theme manager. Read-only [Aspose::Slides::Theme::IOverrideThemeManager](../../../aspose.slides.theme/ioverridethememanager/).

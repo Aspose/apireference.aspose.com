@@ -1,5 +1,5 @@
 ---
-title: Get
+title: Get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a string description of the specified HTTP status code.
 type: docs

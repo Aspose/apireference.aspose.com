@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an index of the specified SummaryZoomSection object.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/isummaryzoomsectioncollection/indexof/
 ---
-## ISummaryZoomSectionCollection::IndexOf method
+## ISummaryZoomSectionCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[ISummaryZoomSection](../../isummaryzoomsection/)\>) method
 
 
 Returns an index of the specified [SummaryZoomSection](../../summaryzoomsection/) object.

@@ -1,12 +1,12 @@
 ---
-title: CreateEntityReference
+title: CreateEntityReference()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlEntityReference with the specified name.
 type: docs
 weight: 352
 url: /cpp/system.xml/xmldocument/createentityreference/
 ---
-## XmlDocument::CreateEntityReference method
+## XmlDocument::CreateEntityReference(const [String](../../../system/string/)\&) method
 
 
 Creates an [XmlEntityReference](../../xmlentityreference/) with the specified name.

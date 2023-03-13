@@ -1,12 +1,12 @@
 ---
-title: set_SoftEdgeEffect
+title: set_SoftEdgeEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Soft edge. Write Effects::ISoftEdge."
 type: docs
 weight: 209
 url: /cpp/aspose.slides/ieffectformat/set_softedgeeffect/
 ---
-## IEffectFormat::set_SoftEdgeEffect method
+## IEffectFormat::set_SoftEdgeEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::ISoftEdge](../../../aspose.slides.effects/isoftedge/)\>) method
 
 
 Soft edge. Write [Effects::ISoftEdge](../../../aspose.slides.effects/isoftedge/).

@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the name of a slide. Read System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ibaseslide/get_name/
 ---
-## IBaseSlide::get_Name method
+## IBaseSlide::get_Name() method
 
 
 Returns the name of a slide. Read [System::String](../../../system/string/).

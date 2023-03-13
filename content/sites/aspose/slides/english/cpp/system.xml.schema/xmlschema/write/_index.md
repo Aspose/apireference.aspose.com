@@ -1,5 +1,5 @@
 ---
-title: Write
+title: Write()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the XML Schema to the supplied data stream.
 type: docs

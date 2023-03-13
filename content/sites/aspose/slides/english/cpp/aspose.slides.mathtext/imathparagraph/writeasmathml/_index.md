@@ -1,15 +1,15 @@
 ---
-title: WriteAsMathMl
+title: WriteAsMathMl()
 second_title: Aspose.Slides for C++ API Reference
-description: Saves content of this IMathParagraph as MathML.
+description: Saves content of this IMathParagraph as MathML
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/imathparagraph/writeasmathml/
 ---
-## IMathParagraph::WriteAsMathMl method
+## IMathParagraph::WriteAsMathMl([System::SharedPtr](../../../system/sharedptr/)\<[System::IO::Stream](../../../system.io/stream/)\>) method
 
 
-Saves content of this [IMathParagraph](../) as MathML.
+Saves content of this [IMathParagraph](../) as MathML
 
 ```cpp
 virtual void Aspose::Slides::MathText::IMathParagraph::WriteAsMathMl(System::SharedPtr<System::IO::Stream> stream)=0

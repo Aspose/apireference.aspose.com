@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets value which is used with Fixed, Percentage and StandardDeviation value types to determine the length of the error bars. Write float.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/ierrorbarsformat/set_value/
 ---
-## IErrorBarsFormat::set_Value method
+## IErrorBarsFormat::set_Value(**float**) method
 
 
 Sets value which is used with Fixed, Percentage and StandardDeviation value types to determine the length of the error bars. Write **float**.

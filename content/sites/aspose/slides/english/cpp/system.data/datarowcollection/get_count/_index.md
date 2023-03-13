@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of rows in collection.
 type: docs
 weight: 14
 url: /cpp/system.data/datarowcollection/get_count/
 ---
-## DataRowCollection::get_Count method
+## DataRowCollection::get_Count() method
 
 
 Gets number of rows in collection.

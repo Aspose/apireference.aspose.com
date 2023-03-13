@@ -1,7 +1,7 @@
 ---
 title: PathSegment
 second_title: Aspose.Slides for C++ API Reference
-description: Represents segment of graphics path of GeometryShape.
+description: Represents segment of graphics path of GeometryShape
 type: docs
 weight: 4447
 url: /cpp/aspose.slides/pathsegment/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/pathsegment/
 ## PathSegment class
 
 
-Represents segment of graphics path of [GeometryShape](../geometryshape/).
+Represents segment of graphics path of [GeometryShape](../geometryshape/)
 
 ```cpp
 class PathSegment : public Aspose::Slides::IPathSegment
@@ -25,8 +25,8 @@ class PathSegment : public Aspose::Slides::IPathSegment
 | static **bool** [Equals](../../system/object/equals/)(**float** const\&, **float** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
-| [PathCommandType](../pathcommandtype/) [get_PathCommand](./get_pathcommand/)() override | Path type of the segment. |
-| [System::ArrayPtr](../../system/arrayptr/)\<**float**\> [get_SegmentData](./get_segmentdata/)() override | Path data of the segment. |
+| [PathCommandType](../pathcommandtype/) [get_PathCommand](./get_pathcommand/)() override | Path type of the segment |
+| [System::ArrayPtr](../../system/arrayptr/)\<**float**\> [get_SegmentData](./get_segmentdata/)() override | Path data of the segment |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |

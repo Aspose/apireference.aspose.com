@@ -1,12 +1,12 @@
 ---
-title: get_ViewerIncluded
+title: get_ViewerIncluded()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether the generated SWF document should include the integrated document viewer or not. Default is true.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/iswfoptions/get_viewerincluded/
 ---
-## ISwfOptions::get_ViewerIncluded method
+## ISwfOptions::get_ViewerIncluded() method
 
 
 Specifies whether the generated SWF document should include the integrated document viewer or not. Default is **true**.

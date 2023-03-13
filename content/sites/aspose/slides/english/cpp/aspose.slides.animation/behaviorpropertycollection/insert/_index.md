@@ -1,5 +1,5 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts a new property to the collection at the specified index.
 type: docs

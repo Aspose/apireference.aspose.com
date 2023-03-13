@@ -1,12 +1,12 @@
 ---
-title: get_OaepSHA512
+title: get_OaepSHA512()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets OAEP mode with SHA512 hash algorithm.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/rsaencryptionpadding/get_oaepsha512/
 ---
-## RSAEncryptionPadding::get_OaepSHA512 method
+## RSAEncryptionPadding::get_OaepSHA512() method
 
 
 Gets OAEP mode with [SHA512](../../sha512/) hash algorithm.

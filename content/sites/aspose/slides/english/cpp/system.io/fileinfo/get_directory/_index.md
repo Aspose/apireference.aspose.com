@@ -1,12 +1,12 @@
 ---
-title: get_Directory
+title: get_Directory()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a DirectoryInfo object that represents a directory in which the file represented by the current object is located.
 type: docs
 weight: 14
 url: /cpp/system.io/fileinfo/get_directory/
 ---
-## FileInfo::get_Directory method
+## FileInfo::get_Directory() method
 
 
 Returns a [DirectoryInfo](../../directoryinfo/) object that represents a directory in which the file represented by the current object is located.

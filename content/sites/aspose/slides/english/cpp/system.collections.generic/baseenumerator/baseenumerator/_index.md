@@ -1,12 +1,12 @@
 ---
-title: BaseEnumerator
+title: BaseEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes iterator.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/baseenumerator/baseenumerator/
 ---
-## BaseEnumerator::BaseEnumerator constructor
+## BaseEnumerator::BaseEnumerator(const [Object::ptr](../../../system/object/ptr/)\&, Container\&) constructor
 
 
 Initializes iterator.

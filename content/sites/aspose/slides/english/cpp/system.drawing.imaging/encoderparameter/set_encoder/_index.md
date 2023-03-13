@@ -1,12 +1,12 @@
 ---
-title: set_Encoder
+title: set_Encoder()
 second_title: Aspose.Slides for C++ API Reference
 description: Associates the specified Encoder object with the current EncoderParameter object.
 type: docs
 weight: 40
 url: /cpp/system.drawing.imaging/encoderparameter/set_encoder/
 ---
-## EncoderParameter::set_Encoder method
+## EncoderParameter::set_Encoder(const [EncoderPtr](../../encoderptr/)\&) method
 
 
 Associates the specified [Encoder](../../encoder/) object with the current [EncoderParameter](../) object.

@@ -1,12 +1,12 @@
 ---
-title: get_Right
+title: get_Right()
 second_title: Aspose.Slides for C++ API Reference
 description: Right. Read-only float.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/charttitle/get_right/
 ---
-## ChartTitle::get_Right method
+## ChartTitle::get_Right() method
 
 
 Right. Read-only **float**.

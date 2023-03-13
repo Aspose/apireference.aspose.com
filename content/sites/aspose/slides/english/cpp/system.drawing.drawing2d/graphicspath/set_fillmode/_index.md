@@ -1,12 +1,12 @@
 ---
-title: set_FillMode
+title: set_FillMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the fill mode of the current object.
 type: docs
 weight: 105
 url: /cpp/system.drawing.drawing2d/graphicspath/set_fillmode/
 ---
-## GraphicsPath::set_FillMode method
+## GraphicsPath::set_FillMode([FillMode](../../fillmode/)) method
 
 
 Sets the fill mode of the current object.

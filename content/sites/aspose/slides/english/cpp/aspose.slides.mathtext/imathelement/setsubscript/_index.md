@@ -1,7 +1,7 @@
 ---
-title: SetSubscript
+title: SetSubscript()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates subscript.
+description: Creates subscript
 type: docs
 weight: 79
 url: /cpp/aspose.slides.mathtext/imathelement/setsubscript/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathelement/setsubscript/
 ## IMathElement::SetSubscript([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>) method
 
 
-Creates subscript.
+Creates subscript
 
 ```cpp
 virtual System::SharedPtr<IMathSubscriptElement> Aspose::Slides::MathText::IMathElement::SetSubscript(System::SharedPtr<IMathElement> subscript)=0
@@ -47,7 +47,7 @@ auto subscript = element->SetSubscript(index);
 ## IMathElement::SetSubscript([System::String](../../../system/string/)) method
 
 
-Creates subscript.
+Creates subscript
 
 ```cpp
 virtual System::SharedPtr<IMathSubscriptElement> Aspose::Slides::MathText::IMathElement::SetSubscript(System::String subscript)=0

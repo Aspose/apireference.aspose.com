@@ -1,12 +1,12 @@
 ---
-title: get_ShowMinorGridLines
+title: get_ShowMinorGridLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents if the minor gridlines showed. Read-only bool.
 type: docs
 weight: 651
 url: /cpp/aspose.slides.charts/iaxis/get_showminorgridlines/
 ---
-## IAxis::get_ShowMinorGridLines method
+## IAxis::get_ShowMinorGridLines() method
 
 
 Represents if the minor gridlines showed. Read-only **bool**.

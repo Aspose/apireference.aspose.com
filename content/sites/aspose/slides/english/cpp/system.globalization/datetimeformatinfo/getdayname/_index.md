@@ -1,12 +1,12 @@
 ---
-title: GetDayName
+title: GetDayName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets week day name.
 type: docs
 weight: 677
 url: /cpp/system.globalization/datetimeformatinfo/getdayname/
 ---
-## DateTimeFormatInfo::GetDayName method
+## DateTimeFormatInfo::GetDayName([DayOfWeek](../../../system/dayofweek/)) const method
 
 
 Gets week day name.

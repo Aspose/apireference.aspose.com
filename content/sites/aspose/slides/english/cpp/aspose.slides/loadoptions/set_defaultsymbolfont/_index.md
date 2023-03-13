@@ -1,12 +1,12 @@
 ---
-title: set_DefaultSymbolFont
+title: set_DefaultSymbolFont()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets Symbol font used in case source font is not found. Write System::String."
 type: docs
 weight: 66
 url: /cpp/aspose.slides/loadoptions/set_defaultsymbolfont/
 ---
-## LoadOptions::set_DefaultSymbolFont method
+## LoadOptions::set_DefaultSymbolFont([System::String](../../../system/string/)) method
 
 
 Sets Symbol font used in case source font is not found. Write [System::String](../../../system/string/).

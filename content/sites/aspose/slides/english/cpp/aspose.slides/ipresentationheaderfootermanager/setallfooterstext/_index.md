@@ -1,12 +1,12 @@
 ---
-title: SetAllFootersText
+title: SetAllFootersText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets text to all footer placeholders, including master slides, layout slides and slides.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ipresentationheaderfootermanager/setallfooterstext/
 ---
-## IPresentationHeaderFooterManager::SetAllFootersText method
+## IPresentationHeaderFooterManager::SetAllFootersText([System::String](../../../system/string/)) method
 
 
 Sets text to all footer placeholders, including master slides, layout slides and slides.

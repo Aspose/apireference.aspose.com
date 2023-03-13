@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes element from collection.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/icollection/remove/
 ---
-## ICollection::Remove method
+## ICollection::Remove(const T\&) method
 
 
 Deletes element from collection.

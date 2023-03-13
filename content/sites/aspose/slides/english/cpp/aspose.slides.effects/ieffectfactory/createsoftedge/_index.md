@@ -1,12 +1,12 @@
 ---
-title: CreateSoftEdge
+title: CreateSoftEdge()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Soft Edge effect.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.effects/ieffectfactory/createsoftedge/
 ---
-## IEffectFactory::CreateSoftEdge method
+## IEffectFactory::CreateSoftEdge() method
 
 
 Creates Soft Edge effect.

@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the hash code of an image.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/ppimage/gethashcode/
 ---
-## PPImage::GetHashCode method
+## PPImage::GetHashCode() const method
 
 
 Returns the hash code of an image.

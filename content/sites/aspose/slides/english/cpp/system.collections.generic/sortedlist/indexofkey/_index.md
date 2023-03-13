@@ -1,12 +1,12 @@
 ---
-title: IndexOfKey
+title: IndexOfKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Looks for specific key.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/sortedlist/indexofkey/
 ---
-## SortedList::IndexOfKey method
+## SortedList::IndexOfKey(TKey) const method
 
 
 Looks for specific key.

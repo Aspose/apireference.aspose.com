@@ -1,12 +1,12 @@
 ---
-title: set_Type
+title: set_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Type of transition. Write TransitionType.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.slideshow/slideshowtransition/set_type/
 ---
-## SlideShowTransition::set_Type method
+## SlideShowTransition::set_Type([TransitionType](../../transitiontype/)) method
 
 
 Type of transition. Write [TransitionType](../../transitiontype/).

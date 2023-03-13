@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents the name of the VBA project reference. Write System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.vba/ivbareference/set_name/
 ---
-## IVbaReference::set_Name method
+## IVbaReference::set_Name([System::String](../../../system/string/)) method
 
 
 Represents the name of the VBA project reference. Write [System::String](../../../system/string/).

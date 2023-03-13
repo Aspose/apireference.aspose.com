@@ -1,5 +1,5 @@
 ---
-title: InsertConnector
+title: InsertConnector()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new Connector, tunes it from default template and inserts it to the collection at the specified index.
 type: docs

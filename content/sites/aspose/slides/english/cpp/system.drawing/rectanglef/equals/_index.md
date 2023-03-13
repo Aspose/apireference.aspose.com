@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the rectangles represented by the current and the specified objects are identical.
 type: docs
 weight: 235
 url: /cpp/system.drawing/rectanglef/equals/
 ---
-## RectangleF::Equals method
+## RectangleF::Equals(const [RectangleF](../)\&) const method
 
 
 Determines if the rectangles represented by the current and the specified objects are identical.

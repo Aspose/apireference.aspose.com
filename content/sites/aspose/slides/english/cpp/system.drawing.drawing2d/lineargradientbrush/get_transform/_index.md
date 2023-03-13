@@ -1,12 +1,12 @@
 ---
-title: get_Transform
+title: get_Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a copy of a Matrix object that specifies the geometrical transformations for the brush represented by the current object.
 type: docs
 weight: 157
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/get_transform/
 ---
-## LinearGradientBrush::get_Transform method
+## LinearGradientBrush::get_Transform() const method
 
 
 Returns a copy of a [Matrix](../../matrix/) object that specifies the geometrical transformations for the brush represented by the current object.

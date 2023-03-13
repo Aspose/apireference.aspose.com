@@ -1,12 +1,12 @@
 ---
-title: ~ToBase64Transform
+title: ~ToBase64Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 105
 url: /cpp/system.security.cryptography/tobase64transform/~tobase64transform/
 ---
-## ToBase64Transform::~ToBase64Transform method
+## ToBase64Transform::~ToBase64Transform() method
 
 
 Destructor.

@@ -1,5 +1,5 @@
 ---
-title: data_ptr
+title: data_ptr()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a raw pointer to the beginning of the memory buffer where the array elements are stored.
 type: docs

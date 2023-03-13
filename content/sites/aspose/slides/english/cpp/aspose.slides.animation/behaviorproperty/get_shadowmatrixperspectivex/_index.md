@@ -1,15 +1,15 @@
 ---
-title: get_ShadowMatrixPerspectiveX
+title: get_ShadowMatrixPerspectiveX()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'shadow.matrix.perspectiveX' property.
+description: Represents 'shadow.matrix.perspectiveX' property
 type: docs
 weight: 1119
 url: /cpp/aspose.slides.animation/behaviorproperty/get_shadowmatrixperspectivex/
 ---
-## BehaviorProperty::get_ShadowMatrixPerspectiveX method
+## BehaviorProperty::get_ShadowMatrixPerspectiveX() method
 
 
-Represents 'shadow.matrix.perspectiveX' property.
+Represents 'shadow.matrix.perspectiveX' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ShadowMatrixPerspectiveX()

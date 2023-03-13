@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 157
 url: /cpp/system.globalization/compareinfo/equals/
 ---
-## CompareInfo::Equals method
+## CompareInfo::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 

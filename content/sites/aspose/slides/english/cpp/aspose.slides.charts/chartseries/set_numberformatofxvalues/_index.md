@@ -1,12 +1,12 @@
 ---
-title: set_NumberFormatOfXValues
+title: set_NumberFormatOfXValues()
 second_title: Aspose.Slides for C++ API Reference
 description: "NumberFormatOfXValues. Write System::String."
 type: docs
 weight: 300
 url: /cpp/aspose.slides.charts/chartseries/set_numberformatofxvalues/
 ---
-## ChartSeries::set_NumberFormatOfXValues method
+## ChartSeries::set_NumberFormatOfXValues([System::String](../../../system/string/)) method
 
 
 NumberFormatOfXValues. Write [System::String](../../../system/string/).

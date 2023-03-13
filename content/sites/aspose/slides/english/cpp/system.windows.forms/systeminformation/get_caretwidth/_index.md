@@ -1,12 +1,12 @@
 ---
-title: get_CaretWidth
+title: get_CaretWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 92
 url: /cpp/system.windows.forms/systeminformation/get_caretwidth/
 ---
-## SystemInformation::get_CaretWidth method
+## SystemInformation::get_CaretWidth() method
 
 
 NOT IMPLEMENTED.

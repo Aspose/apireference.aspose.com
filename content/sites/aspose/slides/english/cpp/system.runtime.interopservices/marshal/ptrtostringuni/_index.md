@@ -1,5 +1,5 @@
 ---
-title: PtrToStringUni
+title: PtrToStringUni()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a managed String from an unmanaged zero-terminated unicode string.
 type: docs

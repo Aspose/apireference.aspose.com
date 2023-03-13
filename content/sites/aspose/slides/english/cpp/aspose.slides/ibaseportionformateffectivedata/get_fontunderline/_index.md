@@ -1,12 +1,12 @@
 ---
-title: get_FontUnderline
+title: get_FontUnderline()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text underline type. Read-only TextUnderlineType.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/ibaseportionformateffectivedata/get_fontunderline/
 ---
-## IBasePortionFormatEffectiveData::get_FontUnderline method
+## IBasePortionFormatEffectiveData::get_FontUnderline() method
 
 
 Returns the text underline type. Read-only [TextUnderlineType](../../textunderlinetype/).

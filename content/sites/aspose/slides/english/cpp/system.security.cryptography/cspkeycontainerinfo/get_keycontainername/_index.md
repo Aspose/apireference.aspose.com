@@ -1,12 +1,12 @@
 ---
-title: get_KeyContainerName
+title: get_KeyContainerName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a key container name.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/cspkeycontainerinfo/get_keycontainername/
 ---
-## CspKeyContainerInfo::get_KeyContainerName method
+## CspKeyContainerInfo::get_KeyContainerName() const method
 
 
 Gets a key container name.

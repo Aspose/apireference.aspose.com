@@ -1,12 +1,12 @@
 ---
-title: get_DocumentElement
+title: get_DocumentElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the root XmlElement for the document.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmldocument/get_documentelement/
 ---
-## XmlDocument::get_DocumentElement method
+## XmlDocument::get_DocumentElement() method
 
 
 Returns the root [XmlElement](../../xmlelement/) for the document.

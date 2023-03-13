@@ -1,12 +1,12 @@
 ---
-title: InternalGetCookies
+title: InternalGetCookies()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of cookies that are associated with the specified URI.
 type: docs
 weight: 157
 url: /cpp/system.net/cookiecontainer/internalgetcookies/
 ---
-## CookieContainer::InternalGetCookies method
+## CookieContainer::InternalGetCookies([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Returns a collection of cookies that are associated with the specified URI.

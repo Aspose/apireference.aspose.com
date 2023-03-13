@@ -1,12 +1,12 @@
 ---
-title: get_HiLowLinesFormat
+title: get_HiLowLinesFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies HiLowLines format. HiLowLines applied with HiLowClose, OpenHiLowClose, VolumeHiLowClose and VolumeOpenHiLowClose chart types.
 type: docs
 weight: 339
 url: /cpp/aspose.slides.charts/chartseriesgroup/get_hilowlinesformat/
 ---
-## ChartSeriesGroup::get_HiLowLinesFormat method
+## ChartSeriesGroup::get_HiLowLinesFormat() method
 
 
 Specifies HiLowLines format. HiLowLines applied with HiLowClose, OpenHiLowClose, VolumeHiLowClose and VolumeOpenHiLowClose chart types.

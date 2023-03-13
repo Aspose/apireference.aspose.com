@@ -1,5 +1,5 @@
 ---
-title: setter_wrap
+title: setter_wrap()
 second_title: Aspose.Slides for C++ API Reference
 description: Overload for static setter functions with type conversion.
 type: docs
@@ -38,7 +38,7 @@ set value.
 
 * Namespace [System](../)
 * Library [Aspose.Slides](../../)
-## System::setter_wrap([Host](../uricomponents/) *const, void(HostSet::*)(T2), T) function
+## System::setter_wrap(Host *const, void(HostSet::*)(T2), T) function
 
 
 Overload for instance setter functions with type conversion.
@@ -61,7 +61,7 @@ template<typename T,typename T2,typename Host,typename HostSet> std::enable_if<s
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| host | [Host](../uricomponents/) *const | [Object](../object/) to call setter function for. |
+| host | Host *const | [Object](../object/) to call setter function for. |
 | pSetter | void(HostSet::*)(T2) | Setter function reference. |
 | value | T | Value to set. |
 
@@ -71,6 +71,5 @@ set value.
 
 ## See Also
 
-* Enum [UriComponents](../uricomponents/)
 * Namespace [System](../)
 * Library [Aspose.Slides](../../)

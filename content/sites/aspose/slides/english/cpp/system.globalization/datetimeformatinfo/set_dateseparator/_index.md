@@ -1,12 +1,12 @@
 ---
-title: set_DateSeparator
+title: set_DateSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets date separator.
 type: docs
 weight: 170
 url: /cpp/system.globalization/datetimeformatinfo/set_dateseparator/
 ---
-## DateTimeFormatInfo::set_DateSeparator method
+## DateTimeFormatInfo::set_DateSeparator(const [String](../../../system/string/)\&) method
 
 
 Sets date separator.

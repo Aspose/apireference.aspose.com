@@ -1,12 +1,12 @@
 ---
-title: SetNamedItem
+title: SetNamedItem()
 second_title: Aspose.Slides for C++ API Reference
 description: "Adds an XmlNode using its XmlNode::get_Name result."
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlattributecollection/setnameditem/
 ---
-## XmlAttributeCollection::SetNamedItem method
+## XmlAttributeCollection::SetNamedItem([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>) method
 
 
 Adds an [XmlNode](../../xmlnode/) using its [XmlNode::get_Name](../../xmlnode/get_name/) result.

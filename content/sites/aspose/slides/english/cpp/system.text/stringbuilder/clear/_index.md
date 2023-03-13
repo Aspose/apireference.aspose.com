@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all characters from the builder.
 type: docs
 weight: 157
 url: /cpp/system.text/stringbuilder/clear/
 ---
-## StringBuilder::Clear method
+## StringBuilder::Clear() method
 
 
 Removes all characters from the builder.

@@ -1,12 +1,12 @@
 ---
-title: PadRight
+title: PadRight()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds padding on the right of original string.
 type: docs
 weight: 690
 url: /cpp/system/string/padright/
 ---
-## String::PadRight method
+## String::PadRight(int, char_t) const method
 
 
 Adds padding on the right of original string.

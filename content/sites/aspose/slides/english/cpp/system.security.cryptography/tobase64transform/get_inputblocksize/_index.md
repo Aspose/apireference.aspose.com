@@ -1,12 +1,12 @@
 ---
-title: get_InputBlockSize
+title: get_InputBlockSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Input block size.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/tobase64transform/get_inputblocksize/
 ---
-## ToBase64Transform::get_InputBlockSize method
+## ToBase64Transform::get_InputBlockSize() method
 
 
 Input block size.

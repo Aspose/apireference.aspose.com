@@ -1,12 +1,12 @@
 ---
-title: get_JoinStyle
+title: get_JoinStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the lines join style. Read-only LineJoinStyle.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/ilineformateffectivedata/get_joinstyle/
 ---
-## ILineFormatEffectiveData::get_JoinStyle method
+## ILineFormatEffectiveData::get_JoinStyle() method
 
 
 Returns the lines join style. Read-only [LineJoinStyle](../../linejoinstyle/).

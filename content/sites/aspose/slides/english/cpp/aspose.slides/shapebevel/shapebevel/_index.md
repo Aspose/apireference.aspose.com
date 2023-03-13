@@ -1,12 +1,12 @@
 ---
-title: ShapeBevel
+title: ShapeBevel()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new instance.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/shapebevel/shapebevel/
 ---
-## ShapeBevel::ShapeBevel constructor
+## ShapeBevel::ShapeBevel(**bool**) constructor
 
 
 Creates new instance.

@@ -1,12 +1,12 @@
 ---
-title: AddSubjectKeyId
+title: AddSubjectKeyId()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography.xml/keyinfox509data/addsubjectkeyid/
 ---
-## KeyInfoX509Data::AddSubjectKeyId method
+## KeyInfoX509Data::AddSubjectKeyId([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a String.
 type: docs
 weight: 157
 url: /cpp/system.runtime.serialization/formatterconverter/tostring/
 ---
-## FormatterConverter::ToString method
+## FormatterConverter::ToString([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a [String](../../../system/string/).

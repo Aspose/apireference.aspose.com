@@ -1,12 +1,12 @@
 ---
-title: get_Comments
+title: get_Comments()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of comments made by this author. Read-only ICommentCollection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/commentauthor/get_comments/
 ---
-## CommentAuthor::get_Comments method
+## CommentAuthor::get_Comments() method
 
 
 Returns the collection of comments made by this author. Read-only [ICommentCollection](../../icommentcollection/).

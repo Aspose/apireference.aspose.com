@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a node at the given index.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlnodelist/idx_get/
 ---
-## XmlNodeList::idx_get method
+## XmlNodeList::idx_get(**int32_t**) method
 
 
 Returns a node at the given index.

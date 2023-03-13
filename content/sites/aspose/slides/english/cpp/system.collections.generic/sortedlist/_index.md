@@ -37,7 +37,6 @@ template<typename TKey,typename TValue>class SortedList : public System::Collect
 | virtual **bool** [Contains](../icollection/contains/)(const T\&) const | Checks if element is present in collection. |
 | virtual **bool** [ContainsKey](../idictionary/containskey/)(const TKey\&) const | Checks if container contains key. |
 | void [CopyTo](../idictionary/copyto/)([ArrayPtr](../../system/arrayptr/)\<[KeyValuePair](../keyvaluepair/)\<TKey, TValue\>\>, int) override | Copies dictionary contents into existing array elements. |
-| virtual void [CopyTo](../icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
 | [const_reverse_iterator](./const_reverse_iterator/) [crbegin](./crbegin/)() const | Gets a reverse iterator to the last const-qualified element of collection (first in reverse). |
 | [const_reverse_iterator](./const_reverse_iterator/) [crend](./crend/)() const | Gets a reverse iterator for a non-existent const-qualified element before the start of the collection. |
 | [iterator](../ienumerable/iterator/) [end](../ienumerable/end/)() | Gets iterator pointing right after the last element (if any) of the collection. This iterator can't be used to change a referenced object because [GetEnumerator()](../ienumerable/getenumerator/) returns a copy-object of T. |

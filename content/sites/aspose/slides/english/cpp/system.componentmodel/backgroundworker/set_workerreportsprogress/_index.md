@@ -1,12 +1,12 @@
 ---
-title: set_WorkerReportsProgress
+title: set_WorkerReportsProgress()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets a value indicating whether the System::ComponentModel::BackgroundWorker can report progress updates."
 type: docs
 weight: 66
 url: /cpp/system.componentmodel/backgroundworker/set_workerreportsprogress/
 ---
-## BackgroundWorker::set_WorkerReportsProgress method
+## BackgroundWorker::set_WorkerReportsProgress(**bool**) method
 
 
 Sets a value indicating whether the [System::ComponentModel::BackgroundWorker](../) can report progress updates.

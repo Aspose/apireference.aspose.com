@@ -1,12 +1,12 @@
 ---
-title: ToLowerInvariant
+title: ToLowerInvariant()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts all string's characters to lower case using invariant culture.
 type: docs
 weight: 534
 url: /cpp/system/string/tolowerinvariant/
 ---
-## String::ToLowerInvariant method
+## String::ToLowerInvariant() const method
 
 
 Converts all string's characters to lower case using invariant culture.

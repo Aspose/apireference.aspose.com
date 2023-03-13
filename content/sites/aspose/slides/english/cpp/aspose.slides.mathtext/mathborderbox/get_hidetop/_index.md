@@ -1,12 +1,12 @@
 ---
-title: get_HideTop
+title: get_HideTop()
 second_title: Aspose.Slides for C++ API Reference
 description: Hide Top Edge (default is false) - specifies the hidden or shown state of the top edge of border box.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathborderbox/get_hidetop/
 ---
-## MathBorderBox::get_HideTop method
+## MathBorderBox::get_HideTop() method
 
 
 Hide Top Edge (default is false) - specifies the hidden or shown state of the top edge of border box.

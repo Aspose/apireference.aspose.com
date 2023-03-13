@@ -1,12 +1,12 @@
 ---
-title: Delete
+title: Delete()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes the specified file or directory.
 type: docs
 weight: 92
 url: /cpp/system.io/file/delete/
 ---
-## File::Delete method
+## File::Delete(const [String](../../../system/string/)\&) method
 
 
 Deletes the specified file or directory.

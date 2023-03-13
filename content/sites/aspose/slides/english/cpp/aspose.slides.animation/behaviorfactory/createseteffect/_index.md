@@ -1,12 +1,12 @@
 ---
-title: CreateSetEffect
+title: CreateSetEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates set effect.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/behaviorfactory/createseteffect/
 ---
-## BehaviorFactory::CreateSetEffect method
+## BehaviorFactory::CreateSetEffect() method
 
 
 Creates set effect.

@@ -1,12 +1,12 @@
 ---
-title: get_CloseOutput
+title: get_CloseOutput()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a value indicating whether the XmlWriter should also close the underlying stream or TextWriter when the XmlWriter::Close method is called."
 type: docs
 weight: 183
 url: /cpp/system.xml/xmlwritersettings/get_closeoutput/
 ---
-## XmlWriterSettings::get_CloseOutput method
+## XmlWriterSettings::get_CloseOutput() method
 
 
 Returns a value indicating whether the [XmlWriter](../../xmlwriter/) should also close the underlying stream or TextWriter when the [XmlWriter::Close](../../xmlwriter/close/) method is called.

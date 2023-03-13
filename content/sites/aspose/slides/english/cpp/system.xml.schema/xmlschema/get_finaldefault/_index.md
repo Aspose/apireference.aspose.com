@@ -1,12 +1,12 @@
 ---
-title: get_FinalDefault
+title: get_FinalDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the finalDefault attribute which sets the default value of the final attribute on elements and complex types in the target namespace of the schema.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschema/get_finaldefault/
 ---
-## XmlSchema::get_FinalDefault method
+## XmlSchema::get_FinalDefault() method
 
 
 Returns the **finalDefault** attribute which sets the default value of the **final** attribute on elements and complex types in the target namespace of the schema.

@@ -1,12 +1,12 @@
 ---
-title: get_EastAsianFont
+title: get_EastAsianFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the East Asian font. Read IFontData.
 type: docs
 weight: 5383
 url: /cpp/aspose.slides/get_eastasianfont/
 ---
-## Aspose::Slides::get_EastAsianFont function
+## Aspose::Slides::get_EastAsianFont() function
 
 
 Returns the East Asian font. Read [IFontData](../ifontdata/).

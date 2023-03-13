@@ -1,12 +1,12 @@
 ---
-title: set_ConnectionString
+title: set_ConnectionString()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets whole connection string.
 type: docs
 weight: 40
 url: /cpp/system.data.common/dbconnectionstringbuilder/set_connectionstring/
 ---
-## DbConnectionStringBuilder::set_ConnectionString method
+## DbConnectionStringBuilder::set_ConnectionString([String](../../../system/string/)) method
 
 
 Sets whole connection string.

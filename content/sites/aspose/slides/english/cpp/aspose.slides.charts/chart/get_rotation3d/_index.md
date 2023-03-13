@@ -1,12 +1,12 @@
 ---
-title: get_Rotation3D
+title: get_Rotation3D()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a 3D rotation of a chart. Read-only IRotation3D.
 type: docs
 weight: 248
 url: /cpp/aspose.slides.charts/chart/get_rotation3d/
 ---
-## Chart::get_Rotation3D method
+## Chart::get_Rotation3D() method
 
 
 Returns a 3D rotation of a chart. Read-only [IRotation3D](../../irotation3d/).

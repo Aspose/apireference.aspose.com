@@ -1,12 +1,12 @@
 ---
-title: InvalidatableTracker
+title: InvalidatableTracker()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a tracker object.
 type: docs
 weight: 1
 url: /cpp/system.collections/invalidatabletracker/invalidatabletracker/
 ---
-## InvalidatableTracker::InvalidatableTracker constructor
+## InvalidatableTracker::InvalidatableTracker([Invalidatable](../../invalidatable/) *) constructor
 
 
 Constructs a tracker object.

@@ -1,12 +1,12 @@
 ---
-title: CreateColorChange
+title: CreateColorChange()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Color change effect.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/createcolorchange/
 ---
-## IImageTransformOperationFactory::CreateColorChange method
+## IImageTransformOperationFactory::CreateColorChange() method
 
 
 Creates Color change effect.

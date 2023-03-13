@@ -1,12 +1,12 @@
 ---
-title: get_XValue
+title: get_XValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the x value of chart data point. Read-only IStringOrDoubleChartValue.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ichartdatapoint/get_xvalue/
 ---
-## IChartDataPoint::get_XValue method
+## IChartDataPoint::get_XValue() method
 
 
 Returns the x value of chart data point. Read-only [IStringOrDoubleChartValue](../../istringordoublechartvalue/).

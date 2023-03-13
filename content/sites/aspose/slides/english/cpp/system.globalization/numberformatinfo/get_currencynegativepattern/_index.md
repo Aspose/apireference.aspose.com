@@ -1,12 +1,12 @@
 ---
-title: get_CurrencyNegativePattern
+title: get_CurrencyNegativePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets currency negative pattern.
 type: docs
 weight: 352
 url: /cpp/system.globalization/numberformatinfo/get_currencynegativepattern/
 ---
-## NumberFormatInfo::get_CurrencyNegativePattern method
+## NumberFormatInfo::get_CurrencyNegativePattern() const method
 
 
 Gets currency negative pattern.

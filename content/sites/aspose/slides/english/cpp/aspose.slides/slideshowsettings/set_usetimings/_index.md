@@ -1,15 +1,15 @@
 ---
-title: set_UseTimings
+title: set_UseTimings()
 second_title: Aspose.Slides for C++ API Reference
-description: Use Timings in Slide Show.
+description: Use Timings in Slide Show
 type: docs
 weight: 157
 url: /cpp/aspose.slides/slideshowsettings/set_usetimings/
 ---
-## SlideShowSettings::set_UseTimings method
+## SlideShowSettings::set_UseTimings(**bool**) method
 
 
-Use Timings in [Slide](../../slide/) Show.
+Use Timings in [Slide](../../slide/) Show
 
 ```cpp
 void Aspose::Slides::SlideShowSettings::set_UseTimings(bool value)

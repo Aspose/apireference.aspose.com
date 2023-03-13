@@ -1,12 +1,12 @@
 ---
-title: ReadAsStream
+title: ReadAsStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Serializes content and returns a stream.
 type: docs
 weight: 14
 url: /cpp/system.net.http/httpcontent/readasstream/
 ---
-## HttpContent::ReadAsStream method
+## HttpContent::ReadAsStream() method
 
 
 Serializes content and returns a stream.

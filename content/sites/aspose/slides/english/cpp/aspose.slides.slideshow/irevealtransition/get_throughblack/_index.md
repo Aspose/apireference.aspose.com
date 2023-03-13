@@ -1,12 +1,12 @@
 ---
-title: get_ThroughBlack
+title: get_ThroughBlack()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether the transition fades through black. Read bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.slideshow/irevealtransition/get_throughblack/
 ---
-## IRevealTransition::get_ThroughBlack method
+## IRevealTransition::get_ThroughBlack() method
 
 
 Specifies whether the transition fades through black. Read **bool**.

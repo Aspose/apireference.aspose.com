@@ -1,12 +1,12 @@
 ---
-title: set_WriteEndDocumentOnClose
+title: set_WriteEndDocumentOnClose()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets a value that indicates whether the XmlWriter will add closing tags to all unclosed element tags when the XmlWriter::Close method is called."
 type: docs
 weight: 300
 url: /cpp/system.xml/xmlwritersettings/set_writeenddocumentonclose/
 ---
-## XmlWriterSettings::set_WriteEndDocumentOnClose method
+## XmlWriterSettings::set_WriteEndDocumentOnClose(**bool**) method
 
 
 Sets a value that indicates whether the [XmlWriter](../../xmlwriter/) will add closing tags to all unclosed element tags when the [XmlWriter::Close](../../xmlwriter/close/) method is called.

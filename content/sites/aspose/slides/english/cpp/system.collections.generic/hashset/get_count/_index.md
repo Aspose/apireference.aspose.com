@@ -1,5 +1,5 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of elements in set.
 type: docs

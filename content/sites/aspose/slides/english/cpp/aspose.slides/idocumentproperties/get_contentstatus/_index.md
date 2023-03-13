@@ -1,12 +1,12 @@
 ---
-title: get_ContentStatus
+title: get_ContentStatus()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the content status of a presentation. Read System::String."
 type: docs
 weight: 482
 url: /cpp/aspose.slides/idocumentproperties/get_contentstatus/
 ---
-## IDocumentProperties::get_ContentStatus method
+## IDocumentProperties::get_ContentStatus() method
 
 
 Returns the content status of a presentation. Read [System::String](../../../system/string/).

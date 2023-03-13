@@ -1,12 +1,12 @@
 ---
-title: set_SendTimeout
+title: set_SendTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a period after which a 'Send' call will time out.
 type: docs
 weight: 287
 url: /cpp/system.net.sockets/socket/set_sendtimeout/
 ---
-## Socket::set_SendTimeout method
+## Socket::set_SendTimeout(**int32_t**) method
 
 
 Sets a period after which a 'Send' call will time out.

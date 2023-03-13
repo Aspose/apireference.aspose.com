@@ -1,12 +1,12 @@
 ---
-title: get_Oid
+title: get_Oid()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets Oid representing the named curve.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/eccurve/get_oid/
 ---
-## ECCurve::get_Oid method
+## ECCurve::get_Oid() const method
 
 
 Gets [Oid](../../oid/) representing the named curve.

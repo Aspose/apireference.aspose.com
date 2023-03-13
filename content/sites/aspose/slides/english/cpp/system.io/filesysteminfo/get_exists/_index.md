@@ -1,12 +1,12 @@
 ---
-title: get_Exists
+title: get_Exists()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the entity referenced by the path represented by the current object exists.
 type: docs
 weight: 183
 url: /cpp/system.io/filesysteminfo/get_exists/
 ---
-## FileSystemInfo::get_Exists method
+## FileSystemInfo::get_Exists() method
 
 
 Determines if the entity referenced by the path represented by the current object exists.

@@ -1,12 +1,12 @@
 ---
-title: get_BypassList
+title: get_BypassList()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the list of addresses that do not use the proxy server.
 type: docs
 weight: 53
 url: /cpp/system.net/webproxy/get_bypasslist/
 ---
-## WebProxy::get_BypassList method
+## WebProxy::get_BypassList() method
 
 
 Gets the list of addresses that do not use the proxy server.

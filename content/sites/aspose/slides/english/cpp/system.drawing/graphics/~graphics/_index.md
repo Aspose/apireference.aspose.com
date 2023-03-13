@@ -1,12 +1,12 @@
 ---
-title: ~Graphics
+title: ~Graphics()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1132
 url: /cpp/system.drawing/graphics/~graphics/
 ---
-## Graphics::~Graphics method
+## Graphics::~Graphics() method
 
 
 

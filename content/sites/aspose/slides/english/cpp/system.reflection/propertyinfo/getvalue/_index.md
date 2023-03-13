@@ -1,12 +1,12 @@
 ---
-title: GetValue
+title: GetValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets property value from specific object.
 type: docs
 weight: 1
 url: /cpp/system.reflection/propertyinfo/getvalue/
 ---
-## PropertyInfo::GetValue method
+## PropertyInfo::GetValue([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Gets property value from specific object.

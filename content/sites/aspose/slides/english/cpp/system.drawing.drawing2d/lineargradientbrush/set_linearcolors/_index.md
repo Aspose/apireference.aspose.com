@@ -1,12 +1,12 @@
 ---
-title: set_LinearColors
+title: set_LinearColors()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets starting and ending colors of this gradient.
 type: docs
 weight: 248
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_linearcolors/
 ---
-## LinearGradientBrush::set_LinearColors method
+## LinearGradientBrush::set_LinearColors(const [ArrayPtr](../../../system/arrayptr/)\<[Color](../../../system.drawing/color/)\>\&) method
 
 
 Sets starting and ending colors of this gradient.

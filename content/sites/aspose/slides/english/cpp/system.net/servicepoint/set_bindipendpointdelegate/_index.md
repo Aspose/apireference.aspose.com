@@ -1,12 +1,12 @@
 ---
-title: set_BindIPEndPointDelegate
+title: set_BindIPEndPointDelegate()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the delegate that is used to associate local IPEndPoint with the current instance.
 type: docs
 weight: 14
 url: /cpp/system.net/servicepoint/set_bindipendpointdelegate/
 ---
-## ServicePoint::set_BindIPEndPointDelegate method
+## ServicePoint::set_BindIPEndPointDelegate([BindIPEndPoint](../../bindipendpoint/)) method
 
 
 Sets the delegate that is used to associate local [IPEndPoint](../../ipendpoint/) with the current instance.

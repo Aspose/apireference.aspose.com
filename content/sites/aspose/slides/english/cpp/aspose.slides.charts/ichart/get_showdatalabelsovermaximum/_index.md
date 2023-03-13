@@ -1,12 +1,12 @@
 ---
-title: get_ShowDataLabelsOverMaximum
+title: get_ShowDataLabelsOverMaximum()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies data labels over the maximum of the chart shall be shown. Read bool.
 type: docs
 weight: 326
 url: /cpp/aspose.slides.charts/ichart/get_showdatalabelsovermaximum/
 ---
-## IChart::get_ShowDataLabelsOverMaximum method
+## IChart::get_ShowDataLabelsOverMaximum() method
 
 
 Specifies data labels over the maximum of the chart shall be shown. Read **bool**.

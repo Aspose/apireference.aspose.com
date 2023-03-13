@@ -1,12 +1,12 @@
 ---
-title: InsertClone
+title: InsertClone()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts a copy of a specified layout slide to specified position of the collection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/imasterlayoutslidecollection/insertclone/
 ---
-## IMasterLayoutSlideCollection::InsertClone method
+## IMasterLayoutSlideCollection::InsertClone(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
 
 
 Inserts a copy of a specified layout slide to specified position of the collection.

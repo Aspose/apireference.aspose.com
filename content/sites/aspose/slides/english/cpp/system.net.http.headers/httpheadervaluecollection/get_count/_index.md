@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of elements in collection.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/httpheadervaluecollection/get_count/
 ---
-## HttpHeaderValueCollection::get_Count method
+## HttpHeaderValueCollection::get_Count() const method
 
 
 Gets number of elements in collection.

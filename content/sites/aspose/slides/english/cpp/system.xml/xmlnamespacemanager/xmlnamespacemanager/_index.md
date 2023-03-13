@@ -1,12 +1,12 @@
 ---
-title: XmlNamespaceManager
+title: XmlNamespaceManager()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlNamespaceManager class with the specified XmlNameTable.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlnamespacemanager/xmlnamespacemanager/
 ---
-## XmlNamespaceManager::XmlNamespaceManager constructor
+## XmlNamespaceManager::XmlNamespaceManager(const [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../xmlnametable/)\>\&) constructor
 
 
 Initializes a new instance of the [XmlNamespaceManager](../) class with the specified [XmlNameTable](../../xmlnametable/).

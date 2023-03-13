@@ -1,12 +1,12 @@
 ---
-title: get_EnglishName
+title: get_EnglishName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets English region name.
 type: docs
 weight: 131
 url: /cpp/system.globalization/regioninfo/get_englishname/
 ---
-## RegionInfo::get_EnglishName method
+## RegionInfo::get_EnglishName() const method
 
 
 Gets English region name.

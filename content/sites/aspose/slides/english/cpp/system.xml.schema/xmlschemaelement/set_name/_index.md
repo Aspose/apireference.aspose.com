@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the element.
 type: docs
 weight: 170
 url: /cpp/system.xml.schema/xmlschemaelement/set_name/
 ---
-## XmlSchemaElement::set_Name method
+## XmlSchemaElement::set_Name(const [String](../../../system/string/)\&) method
 
 
 Sets the name of the element.

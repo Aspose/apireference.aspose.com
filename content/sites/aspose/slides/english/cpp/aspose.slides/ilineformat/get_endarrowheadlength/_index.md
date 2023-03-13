@@ -1,12 +1,12 @@
 ---
-title: get_EndArrowheadLength
+title: get_EndArrowheadLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the arrowhead length at the end of a line. Read LineArrowheadLength.
 type: docs
 weight: 378
 url: /cpp/aspose.slides/ilineformat/get_endarrowheadlength/
 ---
-## ILineFormat::get_EndArrowheadLength method
+## ILineFormat::get_EndArrowheadLength() method
 
 
 Returns the arrowhead length at the end of a line. Read [LineArrowheadLength](../../linearrowheadlength/).

@@ -1,5 +1,5 @@
 ---
-title: Cast
+title: Cast()
 second_title: Aspose.Slides for C++ API Reference
 description: Casts the source type to the result type. Used when the source and the result types are the same.
 type: docs
@@ -30,7 +30,6 @@ The cast result.
 ## See Also
 
 * Struct [CastType](../casttype/)
-* Enum [Base64FormattingOptions](../../system/base64formattingoptions/)
 * Namespace [System::Collections::Generic::Details::CastRules](../)
 * Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::CastRules::Cast(Source) function

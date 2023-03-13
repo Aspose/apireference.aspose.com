@@ -1,5 +1,5 @@
 ---
-title: operator[]
+title: operator[]()
 second_title: Aspose.Slides for C++ API Reference
 description: Access operator to work with key type conversion.
 type: docs

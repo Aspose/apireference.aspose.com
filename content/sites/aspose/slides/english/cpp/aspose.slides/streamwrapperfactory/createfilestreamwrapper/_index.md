@@ -1,5 +1,5 @@
 ---
-title: CreateFileStreamWrapper
+title: CreateFileStreamWrapper()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates FileStream with the specified path and creation mode.
 type: docs

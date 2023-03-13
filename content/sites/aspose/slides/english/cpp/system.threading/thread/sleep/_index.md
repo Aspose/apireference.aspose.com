@@ -1,5 +1,5 @@
 ---
-title: Sleep
+title: Sleep()
 second_title: Aspose.Slides for C++ API Reference
 description: Stops current thread for specified timeout.
 type: docs

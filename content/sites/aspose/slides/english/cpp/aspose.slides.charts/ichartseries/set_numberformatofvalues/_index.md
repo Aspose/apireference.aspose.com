@@ -1,12 +1,12 @@
 ---
-title: set_NumberFormatOfValues
+title: set_NumberFormatOfValues()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the number format for series values. Write System::String."
 type: docs
 weight: 287
 url: /cpp/aspose.slides.charts/ichartseries/set_numberformatofvalues/
 ---
-## IChartSeries::set_NumberFormatOfValues method
+## IChartSeries::set_NumberFormatOfValues([System::String](../../../system/string/)) method
 
 
 Sets the number format for series values. Write [System::String](../../../system/string/).

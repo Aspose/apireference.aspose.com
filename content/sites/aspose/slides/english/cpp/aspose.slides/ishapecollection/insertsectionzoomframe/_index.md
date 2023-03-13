@@ -1,5 +1,5 @@
 ---
-title: InsertSectionZoomFrame
+title: InsertSectionZoomFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new Section Zoom object and inserts into to a collection at the specified index.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_FontScheme
+title: get_FontScheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the font scheme. Read-only IFontSchemeEffectiveData.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/ithemeeffectivedata/get_fontscheme/
 ---
-## IThemeEffectiveData::get_FontScheme method
+## IThemeEffectiveData::get_FontScheme() method
 
 
 Returns the font scheme. Read-only [IFontSchemeEffectiveData](../../ifontschemeeffectivedata/).

@@ -1,12 +1,12 @@
 ---
-title: get_RedirectStandardError
+title: get_RedirectStandardError()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets RedirectStandardError property.
 type: docs
 weight: 144
 url: /cpp/system.diagnostics/processstartinfo/get_redirectstandarderror/
 ---
-## ProcessStartInfo::get_RedirectStandardError method
+## ProcessStartInfo::get_RedirectStandardError() const method
 
 
 Gets RedirectStandardError property.

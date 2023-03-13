@@ -1,12 +1,12 @@
 ---
-title: StringReader
+title: StringReader()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of StringReader class that reads characters from the specified string.
 type: docs
 weight: 1
 url: /cpp/system.io/stringreader/stringreader/
 ---
-## StringReader::StringReader constructor
+## StringReader::StringReader(const [String](../../../system/string/)\&) constructor
 
 
 Constructs a new instance of [StringReader](../) class that reads characters from the specified string.

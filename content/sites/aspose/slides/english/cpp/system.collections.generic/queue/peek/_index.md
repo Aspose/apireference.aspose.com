@@ -1,12 +1,12 @@
 ---
-title: Peek
+title: Peek()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets item from the beginning of the queue, but does not remove it from queue.
 type: docs
 weight: 92
 url: /cpp/system.collections.generic/queue/peek/
 ---
-## Queue::Peek method
+## Queue::Peek() method
 
 
 Gets item from the beginning of the queue, but does not remove it from queue.

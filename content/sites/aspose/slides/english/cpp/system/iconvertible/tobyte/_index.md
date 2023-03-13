@@ -1,12 +1,12 @@
 ---
-title: ToByte
+title: ToByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value of this instance to an equivalent 8-bit uint32_teger using the specified culture-specific formatting information.
 type: docs
 weight: 53
 url: /cpp/system/iconvertible/tobyte/
 ---
-## IConvertible::ToByte method
+## IConvertible::ToByte([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to an equivalent 8-bit uint32_teger using the specified culture-specific formatting information.

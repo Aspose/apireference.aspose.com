@@ -1,12 +1,12 @@
 ---
-title: get_AddressList
+title: get_AddressList()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the collection of IP addresses of the host.
 type: docs
 weight: 53
 url: /cpp/system.net/iphostentry/get_addresslist/
 ---
-## IPHostEntry::get_AddressList method
+## IPHostEntry::get_AddressList() method
 
 
 Gets the collection of IP addresses of the host.

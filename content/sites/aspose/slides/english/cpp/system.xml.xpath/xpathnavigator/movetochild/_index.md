@@ -1,5 +1,5 @@
 ---
-title: MoveToChild
+title: MoveToChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the XPathNavigator to the child node with the local name and namespace URI specified.
 type: docs

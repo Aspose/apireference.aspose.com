@@ -1,12 +1,12 @@
 ---
-title: get_CommentsPosition
+title: get_CommentsPosition()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the position of the comments on the page.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.export/notescommentslayoutingoptions/get_commentsposition/
 ---
-## NotesCommentsLayoutingOptions::get_CommentsPosition method
+## NotesCommentsLayoutingOptions::get_CommentsPosition() method
 
 
 Gets the position of the comments on the page.

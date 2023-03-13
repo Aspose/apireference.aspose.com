@@ -1,12 +1,12 @@
 ---
-title: GetNamespacesInScope
+title: GetNamespacesInScope()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the in-scope namespaces of the current node.
 type: docs
 weight: 430
 url: /cpp/system.xml.xpath/xpathnavigator/getnamespacesinscope/
 ---
-## XPathNavigator::GetNamespacesInScope method
+## XPathNavigator::GetNamespacesInScope([XmlNamespaceScope](../../../system.xml/xmlnamespacescope/)) method
 
 
 Returns the in-scope namespaces of the current node.

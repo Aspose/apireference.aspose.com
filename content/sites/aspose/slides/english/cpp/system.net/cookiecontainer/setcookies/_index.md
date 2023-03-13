@@ -1,12 +1,12 @@
 ---
-title: SetCookies
+title: SetCookies()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies cookies from the specified header to the collection and associates them with the specified URI.
 type: docs
 weight: 183
 url: /cpp/system.net/cookiecontainer/setcookies/
 ---
-## CookieContainer::SetCookies method
+## CookieContainer::SetCookies([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/)) method
 
 
 Copies cookies from the specified header to the collection and associates them with the specified URI.

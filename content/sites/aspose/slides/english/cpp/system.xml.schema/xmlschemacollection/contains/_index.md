@@ -1,5 +1,5 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the targetNamespace of the specified XmlSchema is in the collection.
 type: docs

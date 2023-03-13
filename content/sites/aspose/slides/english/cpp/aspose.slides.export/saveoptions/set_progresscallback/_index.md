@@ -1,12 +1,12 @@
 ---
-title: set_ProgressCallback
+title: set_ProgressCallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a callback object for saving progress updates in percentage. See IProgressCallback.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.export/saveoptions/set_progresscallback/
 ---
-## SaveOptions::set_ProgressCallback method
+## SaveOptions::set_ProgressCallback([System::SharedPtr](../../../system/sharedptr/)\<[IProgressCallback](../../../aspose.slides/iprogresscallback/)\>) method
 
 
 Represents a callback object for saving progress updates in percentage. See [IProgressCallback](../../../aspose.slides/iprogresscallback/).

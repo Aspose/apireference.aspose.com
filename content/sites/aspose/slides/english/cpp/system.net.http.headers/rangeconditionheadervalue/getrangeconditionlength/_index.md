@@ -1,12 +1,12 @@
 ---
-title: GetRangeConditionLength
+title: GetRangeConditionLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified index to an instance of the RangeConditionHeaderValue class.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/rangeconditionheadervalue/getrangeconditionlength/
 ---
-## RangeConditionHeaderValue::GetRangeConditionLength method
+## RangeConditionHeaderValue::GetRangeConditionLength([String](../../../system/string/), **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 Converts a passed string from the specified index to an instance of the [RangeConditionHeaderValue](../) class.

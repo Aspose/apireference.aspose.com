@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Does nothing.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/dispose/
 ---
-## X509Certificate::Dispose method
+## X509Certificate::Dispose() method
 
 
 Does nothing.

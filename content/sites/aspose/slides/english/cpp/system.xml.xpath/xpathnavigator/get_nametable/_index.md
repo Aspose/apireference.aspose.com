@@ -1,12 +1,12 @@
 ---
-title: get_NameTable
+title: get_NameTable()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the XmlNameTable of the XPathNavigator.
 type: docs
 weight: 118
 url: /cpp/system.xml.xpath/xpathnavigator/get_nametable/
 ---
-## XPathNavigator::get_NameTable method
+## XPathNavigator::get_NameTable() method
 
 
 When overridden in a derived class, gets the [XmlNameTable](../../../system.xml/xmlnametable/) of the [XPathNavigator](../).

@@ -1,12 +1,12 @@
 ---
-title: set_ReasonPhrase
+title: set_ReasonPhrase()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the Reason-Phrase that is sent by servers together with the status code.
 type: docs
 weight: 92
 url: /cpp/system.net.http/httpresponsemessage/set_reasonphrase/
 ---
-## HttpResponseMessage::set_ReasonPhrase method
+## HttpResponseMessage::set_ReasonPhrase([String](../../../system/string/)) method
 
 
 Sets the Reason-Phrase that is sent by servers together with the status code.

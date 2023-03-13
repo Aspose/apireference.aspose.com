@@ -1,12 +1,12 @@
 ---
-title: get_ScaleHorizontal
+title: get_ScaleHorizontal()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the horizontal scaling factor, negative scaling causes a flip. Read-only double.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/ioutershadoweffectivedata/get_scalehorizontal/
 ---
-## IOuterShadowEffectiveData::get_ScaleHorizontal method
+## IOuterShadowEffectiveData::get_ScaleHorizontal() method
 
 
 Specifies the horizontal scaling factor, negative scaling causes a flip. Read-only **double**.

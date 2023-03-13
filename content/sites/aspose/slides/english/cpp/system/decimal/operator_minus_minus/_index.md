@@ -1,12 +1,12 @@
 ---
-title: operator--
+title: operator--()
 second_title: Aspose.Slides for C++ API Reference
 description: Decrements the value represented by the current object.
 type: docs
 weight: 235
 url: /cpp/system/decimal/operator_minus_minus/
 ---
-## Decimal::operator-- method
+## Decimal::operator--() method
 
 
 Decrements the value represented by the current object.

@@ -1,12 +1,12 @@
 ---
-title: GetServer
+title: GetServer()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the server cookie.
 type: docs
 weight: 40
 url: /cpp/system.net/cookieparser/getserver/
 ---
-## CookieParser::GetServer method
+## CookieParser::GetServer() method
 
 
 Gets the server cookie.

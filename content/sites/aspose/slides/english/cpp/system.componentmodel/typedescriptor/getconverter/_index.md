@@ -1,12 +1,12 @@
 ---
-title: GetConverter
+title: GetConverter()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/typedescriptor/getconverter/
 ---
-## TypeDescriptor::GetConverter method
+## TypeDescriptor::GetConverter(const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 RTTI information.

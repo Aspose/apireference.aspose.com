@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets hash code for some object.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/iequalitycomparer/gethashcode/
 ---
-## IEqualityComparer::GetHashCode method
+## IEqualityComparer::GetHashCode(T) const method
 
 
 Gets hash code for some object.

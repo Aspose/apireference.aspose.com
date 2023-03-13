@@ -1,12 +1,12 @@
 ---
-title: set_MaxOccurs
+title: set_MaxOccurs()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the maximum number of times the particle can occur.
 type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemaparticle/set_maxoccurs/
 ---
-## XmlSchemaParticle::set_MaxOccurs method
+## XmlSchemaParticle::set_MaxOccurs([Decimal](../../../system/decimal/)) method
 
 
 Sets the maximum number of times the particle can occur.

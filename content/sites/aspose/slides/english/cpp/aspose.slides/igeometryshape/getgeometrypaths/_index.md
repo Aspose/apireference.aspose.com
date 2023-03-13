@@ -1,12 +1,12 @@
 ---
-title: GetGeometryPaths
+title: GetGeometryPaths()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the copy of path of the geometry shape. Coordinates are relative to the left top corner of the shape.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/igeometryshape/getgeometrypaths/
 ---
-## IGeometryShape::GetGeometryPaths method
+## IGeometryShape::GetGeometryPaths() method
 
 
 Returns the copy of path of the geometry shape. Coordinates are relative to the left top corner of the shape.

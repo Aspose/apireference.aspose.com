@@ -1,12 +1,12 @@
 ---
-title: GetCharacterRangesCount
+title: GetCharacterRangesCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a size of the CharacterRange array.
 type: docs
 weight: 235
 url: /cpp/system.drawing/stringformat/getcharacterrangescount/
 ---
-## StringFormat::GetCharacterRangesCount method
+## StringFormat::GetCharacterRangesCount() const method
 
 
 Gets a size of the [CharacterRange](../../characterrange/) array.

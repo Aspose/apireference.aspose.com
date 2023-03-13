@@ -1,12 +1,12 @@
 ---
-title: CanConvertFrom
+title: CanConvertFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if types are convertible; not implemented.
 type: docs
 weight: 14
 url: /cpp/system.componentmodel/enumconverter/canconvertfrom/
 ---
-## EnumConverter::CanConvertFrom method
+## EnumConverter::CanConvertFrom(const [System::SharedPtr](../../../system/sharedptr/)\<[ITypeDescriptorContext](../../itypedescriptorcontext/)\>\&, const [System::TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Checks if types are convertible; not implemented.

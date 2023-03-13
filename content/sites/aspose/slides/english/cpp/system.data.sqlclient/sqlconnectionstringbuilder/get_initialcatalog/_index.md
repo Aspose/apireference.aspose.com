@@ -1,12 +1,12 @@
 ---
-title: get_InitialCatalog
+title: get_InitialCatalog()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets name of database associated with connection.
 type: docs
 weight: 105
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/get_initialcatalog/
 ---
-## SqlConnectionStringBuilder::get_InitialCatalog method
+## SqlConnectionStringBuilder::get_InitialCatalog() const method
 
 
 Gets name of database associated with connection.

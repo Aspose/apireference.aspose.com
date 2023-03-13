@@ -1,12 +1,12 @@
 ---
-title: get_NoLocks
+title: get_NoLocks()
 second_title: Aspose.Slides for C++ API Reference
 description: Return true if all lock-flags are disabled. Read-only bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ibaseshapelock/get_nolocks/
 ---
-## IBaseShapeLock::get_NoLocks method
+## IBaseShapeLock::get_NoLocks() method
 
 
 Return true if all lock-flags are disabled. Read-only **bool**.

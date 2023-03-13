@@ -1,5 +1,5 @@
 ---
-title: Join
+title: Join()
 second_title: Aspose.Slides for C++ API Reference
 description: Joins managed thread. Performs unlimited waiting if required.
 type: docs

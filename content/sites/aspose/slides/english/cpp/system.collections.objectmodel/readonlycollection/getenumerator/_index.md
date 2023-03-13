@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets collection enumerator.
 type: docs
 weight: 14
 url: /cpp/system.collections.objectmodel/readonlycollection/getenumerator/
 ---
-## ReadOnlyCollection::GetEnumerator method
+## ReadOnlyCollection::GetEnumerator() method
 
 
 Gets collection enumerator.

@@ -1,12 +1,12 @@
 ---
-title: get_MouseHoverSize
+title: get_MouseHoverSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 859
 url: /cpp/system.windows.forms/systeminformation/get_mousehoversize/
 ---
-## SystemInformation::get_MouseHoverSize method
+## SystemInformation::get_MouseHoverSize() method
 
 
 NOT IMPLEMENTED.

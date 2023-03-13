@@ -1,15 +1,15 @@
 ---
-title: get_HideSubscript
+title: get_HideSubscript()
 second_title: Aspose.Slides for C++ API Reference
-description: Hide Subscript.
+description: Hide Subscript
 type: docs
 weight: 79
 url: /cpp/aspose.slides.mathtext/imathnaryoperatorproperties/get_hidesubscript/
 ---
-## IMathNaryOperatorProperties::get_HideSubscript method
+## IMathNaryOperatorProperties::get_HideSubscript() method
 
 
-Hide Subscript.
+Hide Subscript
 
 ```cpp
 virtual bool Aspose::Slides::MathText::IMathNaryOperatorProperties::get_HideSubscript()=0

@@ -1,12 +1,12 @@
 ---
-title: set_VariableScale
+title: set_VariableScale()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies that the view content should automatically scale to best fit the current window size. Write bool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/commonslideviewproperties/set_variablescale/
 ---
-## CommonSlideViewProperties::set_VariableScale method
+## CommonSlideViewProperties::set_VariableScale(**bool**) method
 
 
 Specifies that the view content should automatically scale to best fit the current window size. Write **bool**.

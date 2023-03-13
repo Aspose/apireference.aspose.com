@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the pair of width and hegiht values represented by the current object.
 type: docs
 weight: 92
 url: /cpp/system.drawing/size/tostring/
 ---
-## Size::ToString method
+## Size::ToString() const method
 
 
 Returns the string representation of the pair of width and hegiht values represented by the current object.

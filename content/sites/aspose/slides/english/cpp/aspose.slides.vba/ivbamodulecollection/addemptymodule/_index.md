@@ -1,12 +1,12 @@
 ---
-title: AddEmptyModule
+title: AddEmptyModule()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new empty module to the VBA Project.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.vba/ivbamodulecollection/addemptymodule/
 ---
-## IVbaModuleCollection::AddEmptyModule method
+## IVbaModuleCollection::AddEmptyModule([System::String](../../../system/string/)) method
 
 
 Adds a new empty module to the VBA Project.

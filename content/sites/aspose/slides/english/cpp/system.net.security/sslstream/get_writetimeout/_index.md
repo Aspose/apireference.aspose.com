@@ -1,12 +1,12 @@
 ---
-title: get_WriteTimeout
+title: get_WriteTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value, in milliseconds, that determines how long the stream will attempt to write before timing out.
 type: docs
 weight: 261
 url: /cpp/system.net.security/sslstream/get_writetimeout/
 ---
-## SslStream::get_WriteTimeout method
+## SslStream::get_WriteTimeout() const method
 
 
 Gets a value, in milliseconds, that determines how long the stream will attempt to write before timing out.

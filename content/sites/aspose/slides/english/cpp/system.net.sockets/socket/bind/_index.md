@@ -1,12 +1,12 @@
 ---
-title: Bind
+title: Bind()
 second_title: Aspose.Slides for C++ API Reference
 description: Binds the socket with to the specified local endpoint.
 type: docs
 weight: 547
 url: /cpp/system.net.sockets/socket/bind/
 ---
-## Socket::Bind method
+## Socket::Bind([System::SharedPtr](../../../system/sharedptr/)\<[EndPoint](../../../system.net/endpoint/)\>) method
 
 
 Binds the socket with to the specified local endpoint.

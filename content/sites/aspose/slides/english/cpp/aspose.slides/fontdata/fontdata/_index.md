@@ -1,12 +1,12 @@
 ---
-title: FontData
+title: FontData()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new FontData object with the specified font name.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/fontdata/fontdata/
 ---
-## FontData::FontData constructor
+## FontData::FontData([System::String](../../../system/string/)) constructor
 
 
 Creates a new [FontData](../) object with the specified font name.

@@ -1,12 +1,12 @@
 ---
-title: DisableReflectionEffect
+title: DisableReflectionEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables reflection effect.
 type: docs
 weight: 404
 url: /cpp/aspose.slides/effectformat/disablereflectioneffect/
 ---
-## EffectFormat::DisableReflectionEffect method
+## EffectFormat::DisableReflectionEffect() method
 
 
 Disables reflection effect.

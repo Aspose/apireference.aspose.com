@@ -1,12 +1,12 @@
 ---
-title: get_SkewHorizontal
+title: get_SkewHorizontal()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the horizontal skew angle (in degrees). Read double.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.effects/outershadow/get_skewhorizontal/
 ---
-## OuterShadow::get_SkewHorizontal method
+## OuterShadow::get_SkewHorizontal() method
 
 
 Specifies the horizontal skew angle (in degrees). Read **double**.

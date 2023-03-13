@@ -1,12 +1,12 @@
 ---
-title: get_Code
+title: get_Code()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a warning code.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/warningheadervalue/get_code/
 ---
-## WarningHeaderValue::get_Code method
+## WarningHeaderValue::get_Code() method
 
 
 Returns a warning code.

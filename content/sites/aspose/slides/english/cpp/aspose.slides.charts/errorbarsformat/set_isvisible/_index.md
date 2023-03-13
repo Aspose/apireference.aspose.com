@@ -1,12 +1,12 @@
 ---
-title: set_IsVisible
+title: set_IsVisible()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets Error Bars visibility . Write bool.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/errorbarsformat/set_isvisible/
 ---
-## ErrorBarsFormat::set_IsVisible method
+## ErrorBarsFormat::set_IsVisible(**bool**) method
 
 
 Sets Error Bars visibility . Write **bool**.

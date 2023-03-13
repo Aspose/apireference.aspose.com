@@ -1,12 +1,12 @@
 ---
-title: AddAudioFrameCD
+title: AddAudioFrameCD()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds an AudioFrame with CD to the end of collection.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/ishapecollection/addaudioframecd/
 ---
-## IShapeCollection::AddAudioFrameCD method
+## IShapeCollection::AddAudioFrameCD(**float**, **float**, **float**, **float**) method
 
 
 Adds an [AudioFrame](../../audioframe/) with CD to the end of collection.

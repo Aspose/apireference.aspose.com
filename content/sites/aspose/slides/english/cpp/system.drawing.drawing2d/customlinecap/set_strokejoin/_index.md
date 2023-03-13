@@ -1,12 +1,12 @@
 ---
-title: set_StrokeJoin
+title: set_StrokeJoin()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the LineJoin value which determines how lines of this custom cap are joined.
 type: docs
 weight: 118
 url: /cpp/system.drawing.drawing2d/customlinecap/set_strokejoin/
 ---
-## CustomLineCap::set_StrokeJoin method
+## CustomLineCap::set_StrokeJoin([LineJoin](../../linejoin/)) method
 
 
 Sets the LineJoin value which determines how lines of this custom cap are joined.

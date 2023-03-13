@@ -1,12 +1,12 @@
 ---
-title: get_MonthNames
+title: get_MonthNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets month names.
 type: docs
 weight: 521
 url: /cpp/system.globalization/datetimeformatinfo/get_monthnames/
 ---
-## DateTimeFormatInfo::get_MonthNames method
+## DateTimeFormatInfo::get_MonthNames() const method
 
 
 Gets month names.

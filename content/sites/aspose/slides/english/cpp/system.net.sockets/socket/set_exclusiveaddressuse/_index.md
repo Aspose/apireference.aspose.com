@@ -1,12 +1,12 @@
 ---
-title: set_ExclusiveAddressUse
+title: set_ExclusiveAddressUse()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if only one process can bind the socket to a port.
 type: docs
 weight: 183
 url: /cpp/system.net.sockets/socket/set_exclusiveaddressuse/
 ---
-## Socket::set_ExclusiveAddressUse method
+## Socket::set_ExclusiveAddressUse(**bool**) method
 
 
 Sets a value that indicates if only one process can bind the socket to a port.

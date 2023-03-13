@@ -1,12 +1,12 @@
 ---
-title: set_Sound
+title: set_Sound()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the embedded audio data. Write IAudio.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/slideshowtransition/set_sound/
 ---
-## SlideShowTransition::set_Sound method
+## SlideShowTransition::set_Sound([System::SharedPtr](../../../system/sharedptr/)\<[IAudio](../../../aspose.slides/iaudio/)\>) method
 
 
 Sets the embedded audio data. Write [IAudio](../../../aspose.slides/iaudio/).

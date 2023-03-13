@@ -1,12 +1,12 @@
 ---
-title: WriteTo
+title: WriteTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves the current node to the specified XmlWriter.
 type: docs
 weight: 313
 url: /cpp/system.xml/xmlelement/writeto/
 ---
-## XmlElement::WriteTo method
+## XmlElement::WriteTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
 
 
 Saves the current node to the specified [XmlWriter](../../xmlwriter/).

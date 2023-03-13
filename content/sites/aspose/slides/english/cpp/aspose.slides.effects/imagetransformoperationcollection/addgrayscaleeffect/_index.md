@@ -1,12 +1,12 @@
 ---
-title: AddGrayScaleEffect
+title: AddGrayScaleEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Gray Scale effect to the end of a collection.
 type: docs
 weight: 222
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addgrayscaleeffect/
 ---
-## ImageTransformOperationCollection::AddGrayScaleEffect method
+## ImageTransformOperationCollection::AddGrayScaleEffect() method
 
 
 Adds the new Gray Scale effect to the end of a collection.

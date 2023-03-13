@@ -1,12 +1,12 @@
 ---
-title: get_ReplaceFontCondition
+title: get_ReplaceFontCondition()
 second_title: Aspose.Slides for C++ API Reference
 description: Rule to apply for substitution Read-only FontSubstCondition.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ifontsubstrule/get_replacefontcondition/
 ---
-## IFontSubstRule::get_ReplaceFontCondition method
+## IFontSubstRule::get_ReplaceFontCondition() method
 
 
 Rule to apply for substitution Read-only [FontSubstCondition](../../fontsubstcondition/).

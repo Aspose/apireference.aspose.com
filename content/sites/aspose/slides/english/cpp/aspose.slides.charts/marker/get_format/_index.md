@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the marker fill. Read-only IFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/marker/get_format/
 ---
-## Marker::get_Format method
+## Marker::get_Format() method
 
 
 Gets the marker fill. Read-only [IFormat](../../iformat/).

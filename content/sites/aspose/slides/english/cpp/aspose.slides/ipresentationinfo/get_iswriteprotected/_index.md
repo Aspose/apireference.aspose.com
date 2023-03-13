@@ -1,12 +1,12 @@
 ---
-title: get_IsWriteProtected
+title: get_IsWriteProtected()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates whether a binded presentation is write protected.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ipresentationinfo/get_iswriteprotected/
 ---
-## IPresentationInfo::get_IsWriteProtected method
+## IPresentationInfo::get_IsWriteProtected() method
 
 
 Gets a value that indicates whether a binded presentation is write protected.

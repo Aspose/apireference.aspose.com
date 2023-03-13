@@ -1,12 +1,12 @@
 ---
-title: get_SeriesGroups
+title: get_SeriesGroups()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the groups of series. Read-only IChartSeriesGroupCollection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/chartdata/get_seriesgroups/
 ---
-## ChartData::get_SeriesGroups method
+## ChartData::get_SeriesGroups() method
 
 
 Gets the groups of series. Read-only [IChartSeriesGroupCollection](../../ichartseriesgroupcollection/).

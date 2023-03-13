@@ -1,12 +1,12 @@
 ---
-title: Type
+title: Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a TypeInfo object that represent TimeSpan structure.
 type: docs
 weight: 92
 url: /cpp/system.security.cryptography/hashalgorithmname/type/
 ---
-## HashAlgorithmName::Type method
+## HashAlgorithmName::Type() method
 
 
 Returns a [TypeInfo](../../../system/typeinfo/) object that represent [TimeSpan](../../../system/timespan/) structure.

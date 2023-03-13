@@ -1,12 +1,12 @@
 ---
-title: RotateTransform
+title: RotateTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Applies the specified rotation to the world transformation matrix of the current Graphics object in the specified order.
 type: docs
 weight: 846
 url: /cpp/system.drawing/graphics/rotatetransform/
 ---
-## Graphics::RotateTransform method
+## Graphics::RotateTransform(**float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
 
 
 Applies the specified rotation to the world transformation matrix of the current [Graphics](../) object in the specified order.

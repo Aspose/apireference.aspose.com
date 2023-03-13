@@ -1,12 +1,12 @@
 ---
-title: set_PMDesignator
+title: set_PMDesignator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets PM designator.
 type: docs
 weight: 222
 url: /cpp/system.globalization/datetimeformatinfo/set_pmdesignator/
 ---
-## DateTimeFormatInfo::set_PMDesignator method
+## DateTimeFormatInfo::set_PMDesignator(const [String](../../../system/string/)\&) method
 
 
 Sets PM designator.

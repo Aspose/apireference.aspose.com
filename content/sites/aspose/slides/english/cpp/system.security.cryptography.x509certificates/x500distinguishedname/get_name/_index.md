@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets certificate distinguished name.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/x500distinguishedname/get_name/
 ---
-## X500DistinguishedName::get_Name method
+## X500DistinguishedName::get_Name() const method
 
 
 Gets certificate distinguished name.

@@ -1,5 +1,5 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets string hash code based on specified comparison options.
 type: docs

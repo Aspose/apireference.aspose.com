@@ -1,5 +1,5 @@
 ---
-title: BinarySearch
+title: BinarySearch()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs binary search in the sorted array.
 type: docs

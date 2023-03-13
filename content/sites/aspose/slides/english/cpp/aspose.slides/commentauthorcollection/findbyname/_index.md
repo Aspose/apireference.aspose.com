@@ -1,12 +1,12 @@
 ---
-title: FindByName
+title: FindByName()
 second_title: Aspose.Slides for C++ API Reference
 description: Find author in a collection by name.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/commentauthorcollection/findbyname/
 ---
-## CommentAuthorCollection::FindByName method
+## CommentAuthorCollection::FindByName([System::String](../../../system/string/)) method
 
 
 Find author in a collection by name.

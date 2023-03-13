@@ -1,12 +1,12 @@
 ---
-title: get_Type
+title: get_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Type of transition. Reads TransitionType.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/islideshowtransition/get_type/
 ---
-## ISlideShowTransition::get_Type method
+## ISlideShowTransition::get_Type() method
 
 
 Type of transition. Reads [TransitionType](../../../aspose.slides.slideshow/transitiontype/).

@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all elements from the collection.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/paragraphcollection/clear/
 ---
-## ParagraphCollection::Clear method
+## ParagraphCollection::Clear() method
 
 
 Removes all elements from the collection.

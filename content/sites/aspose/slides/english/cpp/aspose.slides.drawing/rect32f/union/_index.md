@@ -1,12 +1,12 @@
 ---
-title: Union
+title: Union()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/aspose.slides.drawing/rect32f/union/
 ---
-## Rect32f::Union method
+## Rect32f::Union([Rect32f](../), [Rect32f](../)) method
 
 
 

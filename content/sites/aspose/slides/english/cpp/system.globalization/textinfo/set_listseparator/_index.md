@@ -1,12 +1,12 @@
 ---
-title: set_ListSeparator
+title: set_ListSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets list separator.
 type: docs
 weight: 40
 url: /cpp/system.globalization/textinfo/set_listseparator/
 ---
-## TextInfo::set_ListSeparator method
+## TextInfo::set_ListSeparator([String](../../../system/string/)) method
 
 
 Sets list separator.

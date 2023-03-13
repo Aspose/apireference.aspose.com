@@ -1,12 +1,12 @@
 ---
-title: get_CodeBase
+title: get_CodeBase()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets directory of current assembly. Support is limited.
 type: docs
 weight: 79
 url: /cpp/system.reflection/assembly/get_codebase/
 ---
-## Assembly::get_CodeBase method
+## Assembly::get_CodeBase() const method
 
 
 Gets directory of current assembly. Support is limited.

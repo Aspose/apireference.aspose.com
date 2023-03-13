@@ -1,12 +1,12 @@
 ---
-title: SpecifyKind
+title: SpecifyKind()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new DateTime object that represents the same number of ticks as the specified DateTime object and represents local time, UTC time or neither as specified by the argument kind.
 type: docs
 weight: 833
 url: /cpp/system/datetime/specifykind/
 ---
-## DateTime::SpecifyKind method
+## DateTime::SpecifyKind([DateTime](../), [DateTimeKind](../../datetimekind/)) method
 
 
 Constructs a new [DateTime](../) object that represents the same number of ticks as the specified [DateTime](../) object and represents local time, UTC time or neither as specified by the argument **kind**.

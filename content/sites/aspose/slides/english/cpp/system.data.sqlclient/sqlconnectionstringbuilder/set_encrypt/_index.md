@@ -1,12 +1,12 @@
 ---
-title: set_Encrypt
+title: set_Encrypt()
 second_title: Aspose.Slides for C++ API Reference
 description: Toggles encryption on or off.
 type: docs
 weight: 66
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_encrypt/
 ---
-## SqlConnectionStringBuilder::set_Encrypt method
+## SqlConnectionStringBuilder::set_Encrypt(**bool**) method
 
 
 Toggles encryption on or off.

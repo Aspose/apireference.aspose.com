@@ -1,12 +1,12 @@
 ---
-title: virtualizeBeginIterator
+title: virtualizeBeginIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the implementation of begin iterator for the current container.
 type: docs
 weight: 170
 url: /cpp/system.net/cookiecollection/virtualizebeginiterator/
 ---
-## CookieCollection::virtualizeBeginIterator method
+## CookieCollection::virtualizeBeginIterator() method
 
 
 Gets the implementation of begin iterator for the current container.

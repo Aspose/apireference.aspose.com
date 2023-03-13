@@ -1,12 +1,12 @@
 ---
-title: get_SvgContent
+title: get_SvgContent()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns SVG content. Read-only System::String."
 type: docs
 weight: 40
 url: /cpp/aspose.slides/svgimage/get_svgcontent/
 ---
-## SvgImage::get_SvgContent method
+## SvgImage::get_SvgContent() method
 
 
 Returns SVG content. Read-only [System::String](../../../system/string/).

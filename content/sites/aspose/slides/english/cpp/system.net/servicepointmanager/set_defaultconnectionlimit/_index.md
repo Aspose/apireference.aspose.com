@@ -1,12 +1,12 @@
 ---
-title: set_DefaultConnectionLimit
+title: set_DefaultConnectionLimit()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the maximum number of concurrent connections that are allowed by the ServicePoint-class instances.
 type: docs
 weight: 66
 url: /cpp/system.net/servicepointmanager/set_defaultconnectionlimit/
 ---
-## ServicePointManager::set_DefaultConnectionLimit method
+## ServicePointManager::set_DefaultConnectionLimit(**int32_t**) method
 
 
 Sets the maximum number of concurrent connections that are allowed by the ServicePoint-class instances.

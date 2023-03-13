@@ -1,5 +1,5 @@
 ---
-title: ReadStartElement
+title: ReadStartElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks that the current node is an element and advances the reader to the next node.
 type: docs

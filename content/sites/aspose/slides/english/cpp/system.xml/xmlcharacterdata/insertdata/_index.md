@@ -1,12 +1,12 @@
 ---
-title: InsertData
+title: InsertData()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts the specified string at the specified character offset.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmlcharacterdata/insertdata/
 ---
-## XmlCharacterData::InsertData method
+## XmlCharacterData::InsertData(**int32_t**, [String](../../../system/string/)) method
 
 
 Inserts the specified string at the specified character offset.

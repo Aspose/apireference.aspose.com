@@ -1,12 +1,12 @@
 ---
-title: get_BlockDefault
+title: get_BlockDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the blockDefault attribute which sets the default value of the block attribute on element and complex types in the targetNamespace of the schema.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschema/get_blockdefault/
 ---
-## XmlSchema::get_BlockDefault method
+## XmlSchema::get_BlockDefault() method
 
 
 Returns the **blockDefault** attribute which sets the default value of the **block** attribute on element and complex types in the **targetNamespace** of the schema.

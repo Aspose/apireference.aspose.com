@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds key-value pair into container.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/idictionary/add/
 ---
-## IDictionary::Add method
+## IDictionary::Add(const TKey\&, const TValue\&) method
 
 
 Adds key-value pair into container.

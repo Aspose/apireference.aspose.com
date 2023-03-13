@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system/arraysegment/get_count/
 ---
-## ArraySegment::get_Count method
+## ArraySegment::get_Count() method
 
 
 

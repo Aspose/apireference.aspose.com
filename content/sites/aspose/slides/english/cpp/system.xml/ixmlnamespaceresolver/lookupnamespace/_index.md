@@ -1,12 +1,12 @@
 ---
-title: LookupNamespace
+title: LookupNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the namespace URI mapped to the specified prefix.
 type: docs
 weight: 14
 url: /cpp/system.xml/ixmlnamespaceresolver/lookupnamespace/
 ---
-## IXmlNamespaceResolver::LookupNamespace method
+## IXmlNamespaceResolver::LookupNamespace(const [String](../../../system/string/)\&) method
 
 
 Returns the namespace URI mapped to the specified prefix.

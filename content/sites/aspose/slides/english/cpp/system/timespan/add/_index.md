@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of TimeSpan class that represents a time interval which is the sum of the time intervals represented by the current and the specified objects.
 type: docs
 weight: 209
 url: /cpp/system/timespan/add/
 ---
-## TimeSpan::Add method
+## TimeSpan::Add([TimeSpan](../)) const method
 
 
 Returns a new instance of [TimeSpan](../) class that represents a time interval which is the sum of the time intervals represented by the current and the specified objects.

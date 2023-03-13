@@ -1,12 +1,12 @@
 ---
-title: get_Start
+title: get_Start()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets date and time when daylight saving time begins.
 type: docs
 weight: 14
 url: /cpp/system.globalization/daylighttime/get_start/
 ---
-## DaylightTime::get_Start method
+## DaylightTime::get_Start() const method
 
 
 Gets date and time when daylight saving time begins.

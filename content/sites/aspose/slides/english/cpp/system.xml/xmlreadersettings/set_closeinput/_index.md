@@ -1,12 +1,12 @@
 ---
-title: set_CloseInput
+title: set_CloseInput()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether the underlying stream or TextReader should be closed when the reader is closed.
 type: docs
 weight: 339
 url: /cpp/system.xml/xmlreadersettings/set_closeinput/
 ---
-## XmlReaderSettings::set_CloseInput method
+## XmlReaderSettings::set_CloseInput(**bool**) method
 
 
 Sets a value indicating whether the underlying stream or TextReader should be closed when the reader is closed.

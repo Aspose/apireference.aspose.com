@@ -1,12 +1,12 @@
 ---
-title: get_IsCharacteristic2
+title: get_IsCharacteristic2()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/eccurve/get_ischaracteristic2/
 ---
-## ECCurve::get_IsCharacteristic2 method
+## ECCurve::get_IsCharacteristic2() const method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: get_SystemImage
+title: get_SystemImage()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the copy of an image. Read-only System::Drawing::Image."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ppimage/get_systemimage/
 ---
-## PPImage::get_SystemImage method
+## PPImage::get_SystemImage() method
 
 
 Returns the copy of an image. Read-only [System::Drawing::Image](../../../system.drawing/image/).

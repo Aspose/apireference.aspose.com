@@ -1,12 +1,12 @@
 ---
-title: set_ProxyAuthorization
+title: set_ProxyAuthorization()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Proxy-Authorization' header.
 type: docs
 weight: 313
 url: /cpp/system.net.http.headers/httprequestheaders/set_proxyauthorization/
 ---
-## HttpRequestHeaders::set_ProxyAuthorization method
+## HttpRequestHeaders::set_ProxyAuthorization([System::SharedPtr](../../../system/sharedptr/)\<[AuthenticationHeaderValue](../../authenticationheadervalue/)\>) method
 
 
 Sets a value of the 'Proxy-Authorization' header.

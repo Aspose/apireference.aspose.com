@@ -1,12 +1,12 @@
 ---
-title: set_SchemaTypeName
+title: set_SchemaTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the simple type defined in this schema (or another schema indicated by the specified namespace).
 type: docs
 weight: 144
 url: /cpp/system.xml.schema/xmlschemaattribute/set_schematypename/
 ---
-## XmlSchemaAttribute::set_SchemaTypeName method
+## XmlSchemaAttribute::set_SchemaTypeName(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
 
 
 Sets the name of the simple type defined in this schema (or another schema indicated by the specified namespace).

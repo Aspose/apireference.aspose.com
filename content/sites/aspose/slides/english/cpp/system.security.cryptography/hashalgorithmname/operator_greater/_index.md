@@ -1,12 +1,12 @@
 ---
-title: operator>
+title: operator>()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 248
 url: /cpp/system.security.cryptography/hashalgorithmname/operator_greater/
 ---
-## HashAlgorithmName::operator> method
+## HashAlgorithmName::operator>(std::nullptr_t) const method
 
 
 

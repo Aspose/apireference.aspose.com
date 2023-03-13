@@ -1,7 +1,7 @@
 ---
-title: GetCell
+title: GetCell()
 second_title: Aspose.Slides for C++ API Reference
-description: Gets the cell that can be used for chart series or categories.
+description: Gets the cell that can be used for chart series or categories
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ichartdataworkbook/getcell/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/ichartdataworkbook/getcell/
 ## IChartDataWorkbook::GetCell([System::String](../../../system/string/), **int32_t**, **int32_t**) method
 
 
-Gets the cell that can be used for chart series or categories.
+Gets the cell that can be used for chart series or categories
 
 ```cpp
 virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWorkbook::GetCell(System::String worksheetName, int32_t row, int32_t column)=0
@@ -39,7 +39,7 @@ virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWork
 ## IChartDataWorkbook::GetCell(**int32_t**, **int32_t**, **int32_t**) method
 
 
-Gets the cell that can be used for chart series or categories.
+Gets the cell that can be used for chart series or categories
 
 ```cpp
 virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWorkbook::GetCell(int32_t worksheetIndex, int32_t row, int32_t column)=0
@@ -68,7 +68,7 @@ virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWork
 ## IChartDataWorkbook::GetCell(**int32_t**, [System::String](../../../system/string/)) method
 
 
-Gets the cell that can be used for chart series or categories.
+Gets the cell that can be used for chart series or categories
 
 ```cpp
 virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWorkbook::GetCell(int32_t worksheetIndex, System::String cellName)=0
@@ -97,7 +97,7 @@ virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWork
 ## IChartDataWorkbook::GetCell(**int32_t**, [System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
-Gets the cell that can be used for chart series or categories.
+Gets the cell that can be used for chart series or categories
 
 ```cpp
 virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWorkbook::GetCell(int32_t worksheetIndex, System::String cellName, System::SharedPtr<System::Object> value)=0
@@ -128,7 +128,7 @@ virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWork
 ## IChartDataWorkbook::GetCell(**int32_t**, **int32_t**, **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
-Gets the cell that can be used for chart series or categories.
+Gets the cell that can be used for chart series or categories
 
 ```cpp
 virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartDataWorkbook::GetCell(int32_t worksheetIndex, int32_t row, int32_t column, System::SharedPtr<System::Object> value)=0

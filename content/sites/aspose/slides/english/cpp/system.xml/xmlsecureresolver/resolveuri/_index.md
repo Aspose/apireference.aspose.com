@@ -1,12 +1,12 @@
 ---
-title: ResolveUri
+title: ResolveUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Resolves the absolute URI from the base and relative URIs by calling ResolveUri on the underlying XmlResolver.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlsecureresolver/resolveuri/
 ---
-## XmlSecureResolver::ResolveUri method
+## XmlSecureResolver::ResolveUri([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/)) method
 
 
 Resolves the absolute URI from the base and relative URIs by calling **ResolveUri** on the underlying [XmlResolver](../../xmlresolver/).

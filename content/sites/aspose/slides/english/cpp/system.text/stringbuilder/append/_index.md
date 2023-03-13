@@ -1,5 +1,5 @@
 ---
-title: Append
+title: Append()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds character to builder.
 type: docs

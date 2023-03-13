@@ -1,12 +1,12 @@
 ---
-title: Type
+title: Type()
 second_title: Aspose.Slides for C++ API Reference
 description: "Shortcut to get System::TypeInfo object for the Exception type."
 type: docs
 weight: 79
 url: /cpp/system/exceptionwrapper/type/
 ---
-## ExceptionWrapper::Type method
+## ExceptionWrapper::Type() method
 
 
 Shortcut to get [System::TypeInfo](../../typeinfo/) object for the Exception type.

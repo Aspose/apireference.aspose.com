@@ -49,11 +49,11 @@ class VbaProject : public Aspose::Slides::Vba::IVbaProject
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| [System::ArrayPtr](../../system/arrayptr/)\<**uint8_t**\> [ToBinary](./tobinary/)() override | Returns the binary representation of the VBA project as OLE container. |
+| [System::ArrayPtr](../../system/arrayptr/)\<**uint8_t**\> [ToBinary](./tobinary/)() override | Returns the binary representation of the VBA project as OLE container |
 | virtual [String](../../system/string/) [ToString](../../system/object/tostring/)() const | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
-|  [VbaProject](./vbaproject/)() | This constructor creates new VBA project from scratch. Project will be created in 1252 Windows Latin 1 (ANSI) codepage. |
+|  [VbaProject](./vbaproject/)() | This constructor creates new VBA project from scratch. Project will be created in 1252 Windows Latin 1 (ANSI) codepage |
 |  [VbaProject](./vbaproject/)([System::ArrayPtr](../../system/arrayptr/)\<**uint8_t**\>) | This constructor loads VBA project from binary representation of OLE container. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../../system/object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

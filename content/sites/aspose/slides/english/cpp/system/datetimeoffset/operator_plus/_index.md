@@ -1,12 +1,12 @@
 ---
-title: operator+
+title: operator+()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of DateTimeOffset class that represents the date and time value that is the sum of the value represented by the current object and the specified time span.
 type: docs
 weight: 508
 url: /cpp/system/datetimeoffset/operator_plus/
 ---
-## DateTimeOffset::operator+ method
+## DateTimeOffset::operator+([TimeSpan](../../timespan/)) const method
 
 
 Returns a new instance of [DateTimeOffset](../) class that represents the date and time value that is the sum of the value represented by the current object and the specified time span.

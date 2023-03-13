@@ -1,12 +1,12 @@
 ---
-title: get_IndentChars
+title: get_IndentChars()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the character string to use when indenting. This setting is used when the XmlWriterSettings::set_Indent value is set to true."
 type: docs
 weight: 131
 url: /cpp/system.xml/xmlwritersettings/get_indentchars/
 ---
-## XmlWriterSettings::get_IndentChars method
+## XmlWriterSettings::get_IndentChars() method
 
 
 Returns the character string to use when indenting. This setting is used when the [XmlWriterSettings::set_Indent](../set_indent/) value is set to **true**.

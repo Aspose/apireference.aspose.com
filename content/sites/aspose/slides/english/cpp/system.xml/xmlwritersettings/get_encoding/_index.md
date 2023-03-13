@@ -1,12 +1,12 @@
 ---
-title: get_Encoding
+title: get_Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of text encoding to use.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlwritersettings/get_encoding/
 ---
-## XmlWriterSettings::get_Encoding method
+## XmlWriterSettings::get_Encoding() method
 
 
 Returns the type of text encoding to use.

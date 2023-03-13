@@ -1,12 +1,12 @@
 ---
-title: SetStage
+title: SetStage()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the processing stage of the SOAP message.
 type: docs
 weight: 235
 url: /cpp/system.web.services.protocols/soapmessage/setstage/
 ---
-## SoapMessage::SetStage method
+## SoapMessage::SetStage([SoapMessageStage](../../soapmessagestage/)) method
 
 
 Sets the processing stage of the SOAP message.

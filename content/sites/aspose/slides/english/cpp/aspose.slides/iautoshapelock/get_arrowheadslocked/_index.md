@@ -1,12 +1,12 @@
 ---
-title: get_ArrowheadsLocked
+title: get_ArrowheadsLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a changing arrowheads is forbidden. Reads bool.
 type: docs
 weight: 209
 url: /cpp/aspose.slides/iautoshapelock/get_arrowheadslocked/
 ---
-## IAutoShapeLock::get_ArrowheadsLocked method
+## IAutoShapeLock::get_ArrowheadsLocked() method
 
 
 Determines whether a changing arrowheads is forbidden. Reads **bool**.

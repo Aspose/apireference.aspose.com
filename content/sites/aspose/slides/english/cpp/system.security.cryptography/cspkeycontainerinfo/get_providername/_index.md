@@ -1,12 +1,12 @@
 ---
-title: get_ProviderName
+title: get_ProviderName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets provider name.
 type: docs
 weight: 105
 url: /cpp/system.security.cryptography/cspkeycontainerinfo/get_providername/
 ---
-## CspKeyContainerInfo::get_ProviderName method
+## CspKeyContainerInfo::get_ProviderName() const method
 
 
 Gets provider name.

@@ -1,12 +1,12 @@
 ---
-title: get_IsUnderflowBin
+title: get_IsUnderflowBin()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies if underflow bin applied. Use IsAutomaticUnderflowBin and UnderflowBin to adjust underflow bin value.
 type: docs
 weight: 1197
 url: /cpp/aspose.slides.charts/axis/get_isunderflowbin/
 ---
-## Axis::get_IsUnderflowBin method
+## Axis::get_IsUnderflowBin() method
 
 
 Specifies if underflow bin applied. Use IsAutomaticUnderflowBin and UnderflowBin to adjust underflow bin value.

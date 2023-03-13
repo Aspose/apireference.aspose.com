@@ -1,12 +1,12 @@
 ---
-title: IsLeapYear
+title: IsLeapYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the year is leap.
 type: docs
 weight: 27
 url: /cpp/system.globalization.details/gregoriancalendarutils/isleapyear/
 ---
-## GregorianCalendarUtils::IsLeapYear method
+## GregorianCalendarUtils::IsLeapYear(int) method
 
 
 Checks if the year is leap.

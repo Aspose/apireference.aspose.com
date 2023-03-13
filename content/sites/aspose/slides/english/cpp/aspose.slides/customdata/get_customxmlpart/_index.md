@@ -1,12 +1,12 @@
 ---
-title: get_CustomXmlPart
+title: get_CustomXmlPart()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the custom XML part at the specified index.
 type: docs
-weight: 40
+weight: 53
 url: /cpp/aspose.slides/customdata/get_customxmlpart/
 ---
-## CustomData::get_CustomXmlPart method
+## CustomData::get_CustomXmlPart(**int32_t**) method
 
 
 Returns the custom XML part at the specified index.

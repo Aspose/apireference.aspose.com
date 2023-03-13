@@ -1,12 +1,12 @@
 ---
-title: get_ObjectProgId
+title: get_ObjectProgId()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the ProgID of an object. Read only System::String."
 type: docs
 weight: 66
 url: /cpp/aspose.slides/oleobjectframe/get_objectprogid/
 ---
-## OleObjectFrame::get_ObjectProgId method
+## OleObjectFrame::get_ObjectProgId() method
 
 
 Returns the ProgID of an object. Read only [System::String](../../../system/string/).

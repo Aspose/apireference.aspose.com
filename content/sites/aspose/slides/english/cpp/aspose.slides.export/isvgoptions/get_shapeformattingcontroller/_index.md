@@ -1,12 +1,12 @@
 ---
-title: get_ShapeFormattingController
+title: get_ShapeFormattingController()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns and sets a callback interface which allows user to control shape conversion. Read ISvgShapeFormattingController.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.export/isvgoptions/get_shapeformattingcontroller/
 ---
-## ISVGOptions::get_ShapeFormattingController method
+## ISVGOptions::get_ShapeFormattingController() method
 
 
 Returns and sets a callback interface which allows user to control shape conversion. Read [ISvgShapeFormattingController](../../isvgshapeformattingcontroller/).

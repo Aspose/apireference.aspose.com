@@ -1,12 +1,12 @@
 ---
-title: get_Includes
+title: get_Includes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of included and imported schemas.
 type: docs
 weight: 157
 url: /cpp/system.xml.schema/xmlschema/get_includes/
 ---
-## XmlSchema::get_Includes method
+## XmlSchema::get_Includes() method
 
 
 Returns the collection of included and imported schemas.

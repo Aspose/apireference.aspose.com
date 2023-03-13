@@ -1,12 +1,12 @@
 ---
-title: set_CommentUri
+title: set_CommentUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'CommentURL' attribute's value.
 type: docs
 weight: 40
 url: /cpp/system.net/cookie/set_commenturi/
 ---
-## Cookie::set_CommentUri method
+## Cookie::set_CommentUri([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Sets the 'CommentURL' attribute's value.

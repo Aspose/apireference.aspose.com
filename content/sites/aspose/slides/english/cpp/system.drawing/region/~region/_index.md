@@ -1,12 +1,12 @@
 ---
-title: ~Region
+title: ~Region()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.drawing/region/~region/
 ---
-## Region::~Region method
+## Region::~Region() method
 
 
 Destructor.

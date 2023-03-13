@@ -1,7 +1,7 @@
 ---
 title: MathBorderBoxFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a math border box.
+description: Allows to create a math border box
 type: docs
 weight: 716
 url: /cpp/aspose.slides.mathtext/mathborderboxfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathborderboxfactory/
 ## MathBorderBoxFactory class
 
 
-Allows to create a math border box.
+Allows to create a math border box
 
 ```cpp
 class MathBorderBoxFactory : public Aspose::Slides::MathText::IMathBorderBoxFactory
@@ -19,8 +19,8 @@ class MathBorderBoxFactory : public Aspose::Slides::MathText::IMathBorderBoxFact
 
 | Method | Description |
 | --- | --- |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathBorderBox](../imathborderbox/)\> [CreateMathBorderBox](./createmathborderbox/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Create a math border box by applying to the element. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathBorderBox](../imathborderbox/)\> [CreateMathBorderBox](./createmathborderbox/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**) override | Create a math border box by applying to the element. |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathBorderBox](../imathborderbox/)\> [CreateMathBorderBox](./createmathborderbox/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Create a math border box by applying to the element |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathBorderBox](../imathborderbox/)\> [CreateMathBorderBox](./createmathborderbox/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**) override | Create a math border box by applying to the element |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

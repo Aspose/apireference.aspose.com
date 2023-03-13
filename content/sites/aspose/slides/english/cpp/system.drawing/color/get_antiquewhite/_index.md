@@ -1,12 +1,12 @@
 ---
-title: get_AntiqueWhite
+title: get_AntiqueWhite()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFFAEBD7.
 type: docs
 weight: 261
 url: /cpp/system.drawing/color/get_antiquewhite/
 ---
-## Color::get_AntiqueWhite method
+## Color::get_AntiqueWhite() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFFAEBD7.

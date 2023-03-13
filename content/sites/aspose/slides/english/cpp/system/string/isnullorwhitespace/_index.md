@@ -1,12 +1,12 @@
 ---
-title: IsNullOrWhiteSpace
+title: IsNullOrWhiteSpace()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether a specified string is null, empty, or consists only of white-space characters.
 type: docs
 weight: 768
 url: /cpp/system/string/isnullorwhitespace/
 ---
-## String::IsNullOrWhiteSpace method
+## String::IsNullOrWhiteSpace(const [String](../)\&) method
 
 
 Indicates whether a specified string is null, empty, or consists only of white-space characters.

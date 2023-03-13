@@ -1,12 +1,12 @@
 ---
-title: get_ReadOnlyRecommended
+title: get_ReadOnlyRecommended()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets read-only recommendation. Read bool.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/iprotectionmanager/get_readonlyrecommended/
 ---
-## IProtectionManager::get_ReadOnlyRecommended method
+## IProtectionManager::get_ReadOnlyRecommended() method
 
 
 Gets read-only recommendation. Read **bool**.

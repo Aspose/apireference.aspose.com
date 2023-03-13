@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an IEnumerator object to iterate through the selected node set.
 type: docs
 weight: 66
 url: /cpp/system.xml.xpath/xpathnodeiterator/getenumerator/
 ---
-## XPathNodeIterator::GetEnumerator method
+## XPathNodeIterator::GetEnumerator() method
 
 
 Returns an IEnumerator object to iterate through the selected node set.

@@ -1,12 +1,12 @@
 ---
-title: get_SystemId
+title: get_SystemId()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the system identifier on the notation declaration.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlnotation/get_systemid/
 ---
-## XmlNotation::get_SystemId method
+## XmlNotation::get_SystemId() method
 
 
 Returns the value of the system identifier on the notation declaration.

@@ -1,7 +1,7 @@
 ---
 title: MathNaryOperatorFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create IMathNaryOperator.
+description: Allows to create IMathNaryOperator
 type: docs
 weight: 976
 url: /cpp/aspose.slides.mathtext/mathnaryoperatorfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathnaryoperatorfactory/
 ## MathNaryOperatorFactory class
 
 
-Allows to create [IMathNaryOperator](../imathnaryoperator/).
+Allows to create [IMathNaryOperator](../imathnaryoperator/)
 
 ```cpp
 class MathNaryOperatorFactory : public Aspose::Slides::MathText::IMathNaryOperatorFactory
@@ -19,9 +19,9 @@ class MathNaryOperatorFactory : public Aspose::Slides::MathText::IMathNaryOperat
 
 | Method | Description |
 | --- | --- |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathNaryOperator](../imathnaryoperator/)\> [CreateMathNaryOperator](./createmathnaryoperator/)(char16_t, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates [IMathNaryOperator](../imathnaryoperator/). |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathNaryOperator](../imathnaryoperator/)\> [CreateMathNaryOperator](./createmathnaryoperator/)(char16_t, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates [IMathNaryOperator](../imathnaryoperator/). |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathNaryOperator](../imathnaryoperator/)\> [CreateMathNaryOperator](./createmathnaryoperator/)(char16_t, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates [IMathNaryOperator](../imathnaryoperator/). |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathNaryOperator](../imathnaryoperator/)\> [CreateMathNaryOperator](./createmathnaryoperator/)(char16_t, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates [IMathNaryOperator](../imathnaryoperator/) |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathNaryOperator](../imathnaryoperator/)\> [CreateMathNaryOperator](./createmathnaryoperator/)(char16_t, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates [IMathNaryOperator](../imathnaryoperator/) |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathNaryOperator](../imathnaryoperator/)\> [CreateMathNaryOperator](./createmathnaryoperator/)(char16_t, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates [IMathNaryOperator](../imathnaryoperator/) |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

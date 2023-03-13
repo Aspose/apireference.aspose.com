@@ -1,12 +1,12 @@
 ---
-title: get_ContentRange
+title: get_ContentRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-Range' header.
 type: docs
 weight: 144
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contentrange/
 ---
-## HttpContentHeaders::get_ContentRange method
+## HttpContentHeaders::get_ContentRange() method
 
 
 Gets a value of the 'Content-Range' header.

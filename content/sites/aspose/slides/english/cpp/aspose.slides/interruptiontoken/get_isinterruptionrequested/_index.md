@@ -1,12 +1,12 @@
 ---
-title: get_IsInterruptionRequested
+title: get_IsInterruptionRequested()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns bool.true if interruption was requested.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/interruptiontoken/get_isinterruptionrequested/
 ---
-## InterruptionToken::get_IsInterruptionRequested method
+## InterruptionToken::get_IsInterruptionRequested() method
 
 
 Returns **bool**.true if interruption was requested.

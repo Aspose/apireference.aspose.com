@@ -1,5 +1,5 @@
 ---
-title: WaitAll
+title: WaitAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits for all handles to fire.
 type: docs

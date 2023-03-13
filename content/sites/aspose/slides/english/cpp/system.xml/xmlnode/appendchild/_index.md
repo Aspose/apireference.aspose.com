@@ -1,12 +1,12 @@
 ---
-title: AppendChild
+title: AppendChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified node to the end of the list of child nodes, of this node.
 type: docs
 weight: 443
 url: /cpp/system.xml/xmlnode/appendchild/
 ---
-## XmlNode::AppendChild method
+## XmlNode::AppendChild([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../)\>) method
 
 
 Adds the specified node to the end of the list of child nodes, of this node.

@@ -1,12 +1,12 @@
 ---
-title: Compare
+title: Compare()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two DateTimeOffset objects.
 type: docs
 weight: 651
 url: /cpp/system/datetimeoffset/compare/
 ---
-## DateTimeOffset::Compare method
+## DateTimeOffset::Compare(const [DateTimeOffset](../)\&, const [DateTimeOffset](../)\&) method
 
 
 Compares two [DateTimeOffset](../) objects.

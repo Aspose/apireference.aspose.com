@@ -1,12 +1,12 @@
 ---
-title: set_NumberGroupSeparator
+title: set_NumberGroupSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets number group separator.
 type: docs
 weight: 105
 url: /cpp/system.globalization/numberformatinfo/set_numbergroupseparator/
 ---
-## NumberFormatInfo::set_NumberGroupSeparator method
+## NumberFormatInfo::set_NumberGroupSeparator(const [String](../../../system/string/)\&) method
 
 
 Sets number group separator.

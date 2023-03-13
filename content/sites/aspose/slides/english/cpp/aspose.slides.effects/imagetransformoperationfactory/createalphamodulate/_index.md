@@ -1,12 +1,12 @@
 ---
-title: CreateAlphaModulate
+title: CreateAlphaModulate()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Alpha modulate effect.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createalphamodulate/
 ---
-## ImageTransformOperationFactory::CreateAlphaModulate method
+## ImageTransformOperationFactory::CreateAlphaModulate() method
 
 
 Creates Alpha modulate effect.

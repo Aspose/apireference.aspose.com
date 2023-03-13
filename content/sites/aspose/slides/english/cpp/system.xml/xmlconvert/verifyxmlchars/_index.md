@@ -1,12 +1,12 @@
 ---
-title: VerifyXmlChars
+title: VerifyXmlChars()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the passed-in string if all the characters and surrogate pair characters in the string argument are valid XML characters, otherwise an XmlException is thrown with information on the first invalid character encountered.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlconvert/verifyxmlchars/
 ---
-## XmlConvert::VerifyXmlChars method
+## XmlConvert::VerifyXmlChars(const [String](../../../system/string/)\&) method
 
 
 Returns the passed-in string if all the characters and surrogate pair characters in the string argument are valid XML characters, otherwise an XmlException is thrown with information on the first invalid character encountered.

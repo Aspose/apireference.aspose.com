@@ -1,12 +1,12 @@
 ---
-title: FontSources
+title: FontSources()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new default font options.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/fontsources/fontsources/
 ---
-## FontSources::FontSources constructor
+## FontSources::FontSources() constructor
 
 
 Creates new default font options.

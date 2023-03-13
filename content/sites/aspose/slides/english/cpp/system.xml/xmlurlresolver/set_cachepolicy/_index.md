@@ -1,12 +1,12 @@
 ---
-title: set_CachePolicy
+title: set_CachePolicy()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the cache policy for the underlying WebRequest object.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlurlresolver/set_cachepolicy/
 ---
-## XmlUrlResolver::set_CachePolicy method
+## XmlUrlResolver::set_CachePolicy(const [SharedPtr](../../../system/sharedptr/)\<[Net::Cache::RequestCachePolicy](../../../system.net.cache/requestcachepolicy/)\>\&) method
 
 
 Sets the cache policy for the underlying WebRequest object.

@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Analog of C# Object.ToString() method. Enables converting custom objects to string.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.drawing/vector2d32f/tostring/
 ---
-## Vector2d32f::ToString method
+## Vector2d32f::ToString() const method
 
 
 Analog of C# Object.ToString() method. Enables converting custom objects to string.

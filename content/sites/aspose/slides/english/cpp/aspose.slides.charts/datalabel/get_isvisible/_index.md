@@ -1,12 +1,12 @@
 ---
-title: get_IsVisible
+title: get_IsVisible()
 second_title: Aspose.Slides for C++ API Reference
 description: False means that data label is not visible (and so all Show*-flags (ShowValue, ...) are false). Read-only bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/datalabel/get_isvisible/
 ---
-## DataLabel::get_IsVisible method
+## DataLabel::get_IsVisible() method
 
 
 False means that data label is not visible (and so all Show*-flags (ShowValue, ...) are false). Read-only **bool**.

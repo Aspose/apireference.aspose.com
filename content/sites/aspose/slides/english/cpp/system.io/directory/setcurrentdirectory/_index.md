@@ -1,12 +1,12 @@
 ---
-title: SetCurrentDirectory
+title: SetCurrentDirectory()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the current directory.
 type: docs
 weight: 339
 url: /cpp/system.io/directory/setcurrentdirectory/
 ---
-## Directory::SetCurrentDirectory method
+## Directory::SetCurrentDirectory(const [String](../../../system/string/)\&) method
 
 
 Sets the current directory.

@@ -1,5 +1,5 @@
 ---
-title: TransformVectors
+title: TransformVectors()
 second_title: Aspose.Slides for C++ API Reference
 description: Applies only the scale and rotate components of the matrix represented by the current object to the specified points.
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: IsLeapMonth
+title: IsLeapMonth()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the month is leap.
 type: docs

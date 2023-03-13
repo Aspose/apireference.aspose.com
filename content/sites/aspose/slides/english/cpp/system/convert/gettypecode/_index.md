@@ -1,12 +1,12 @@
 ---
-title: GetTypeCode
+title: GetTypeCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a TypeCode value representing the type of the specified boxed value.
 type: docs
 weight: 274
 url: /cpp/system/convert/gettypecode/
 ---
-## Convert::GetTypeCode method
+## Convert::GetTypeCode(const [SharedPtr](../../sharedptr/)\<[Object](../../object/)\>\&) method
 
 
 Returns a TypeCode value representing the type of the specified boxed value.

@@ -1,12 +1,12 @@
 ---
-title: get_Domain
+title: get_Domain()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the domain that verifies the credentials.
 type: docs
 weight: 53
 url: /cpp/system.net/networkcredential/get_domain/
 ---
-## NetworkCredential::get_Domain method
+## NetworkCredential::get_Domain() method
 
 
 Gets the domain that verifies the credentials.

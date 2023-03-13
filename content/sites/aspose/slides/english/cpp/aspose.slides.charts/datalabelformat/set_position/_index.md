@@ -1,12 +1,12 @@
 ---
-title: set_Position
+title: set_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the position of the data label. Write LegendDataLabelPosition.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/datalabelformat/set_position/
 ---
-## DataLabelFormat::set_Position method
+## DataLabelFormat::set_Position([LegendDataLabelPosition](../../legenddatalabelposition/)) method
 
 
 Represents the position of the data label. Write [LegendDataLabelPosition](../../legenddatalabelposition/).

@@ -1,12 +1,12 @@
 ---
-title: ToInt16
+title: ToInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Int16 equivalent.
 type: docs
 weight: 287
 url: /cpp/system.xml/xmlconvert/toint16/
 ---
-## XmlConvert::ToInt16 method
+## XmlConvert::ToInt16(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [Int16](../../../system/int16/) equivalent.

@@ -37,7 +37,7 @@ enum class TableStylePreset
 | ThemedStyle2Accent4 | 14 | Themed Style 2 - Accent 4. |
 | ThemedStyle2Accent5 | 15 | Themed Style 2 - Accent 5. |
 | ThemedStyle2Accent6 | 16 | Themed Style 2 - Accent 6. |
-| LightStyle1 | 17 | Light Style 1. |
+| LightStyle1 | 17 | Light Style 1 |
 | LightStyle1Accent1 | 18 | Light Style 1 - Accent 1. |
 | LightStyle1Accent2 | 19 | Light Style 1 - Accent 2. |
 | LightStyle1Accent3 | 20 | Light Style 1 - Accent 3. |

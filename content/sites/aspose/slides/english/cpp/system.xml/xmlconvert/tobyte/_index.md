@@ -1,12 +1,12 @@
 ---
-title: ToByte
+title: ToByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Byte equivalent.
 type: docs
 weight: 326
 url: /cpp/system.xml/xmlconvert/tobyte/
 ---
-## XmlConvert::ToByte method
+## XmlConvert::ToByte(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [Byte](../../../system/byte/) equivalent.

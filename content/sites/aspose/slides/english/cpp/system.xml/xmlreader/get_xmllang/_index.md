@@ -1,12 +1,12 @@
 ---
-title: get_XmlLang
+title: get_XmlLang()
 second_title: Aspose.Slides for C++ API Reference
 description: "When overridden in a derived class, gets the current xml:lang scope."
 type: docs
 weight: 183
 url: /cpp/system.xml/xmlreader/get_xmllang/
 ---
-## XmlReader::get_XmlLang method
+## XmlReader::get_XmlLang() method
 
 
 When overridden in a derived class, gets the current **xml:lang** scope.

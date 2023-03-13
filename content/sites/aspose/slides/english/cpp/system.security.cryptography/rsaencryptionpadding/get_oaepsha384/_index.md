@@ -1,12 +1,12 @@
 ---
-title: get_OaepSHA384
+title: get_OaepSHA384()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets OAEP mode with SHA384 hash algorithm.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/rsaencryptionpadding/get_oaepsha384/
 ---
-## RSAEncryptionPadding::get_OaepSHA384 method
+## RSAEncryptionPadding::get_OaepSHA384() method
 
 
 Gets OAEP mode with [SHA384](../../sha384/) hash algorithm.

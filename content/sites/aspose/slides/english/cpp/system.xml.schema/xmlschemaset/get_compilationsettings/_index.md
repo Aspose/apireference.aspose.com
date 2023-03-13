@@ -1,12 +1,12 @@
 ---
-title: get_CompilationSettings
+title: get_CompilationSettings()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchemaCompilationSettings for the XmlSchemaSet.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaset/get_compilationsettings/
 ---
-## XmlSchemaSet::get_CompilationSettings method
+## XmlSchemaSet::get_CompilationSettings() method
 
 
 Returns the [XmlSchemaCompilationSettings](../../xmlschemacompilationsettings/) for the [XmlSchemaSet](../).

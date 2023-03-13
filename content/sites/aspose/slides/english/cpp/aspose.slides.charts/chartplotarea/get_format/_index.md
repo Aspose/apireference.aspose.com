@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the format of a plot area. Read-only IFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/chartplotarea/get_format/
 ---
-## ChartPlotArea::get_Format method
+## ChartPlotArea::get_Format() method
 
 
 Returns the format of a plot area. Read-only [IFormat](../../iformat/).

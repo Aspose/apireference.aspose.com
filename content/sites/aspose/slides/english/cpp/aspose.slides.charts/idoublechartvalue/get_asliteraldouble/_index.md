@@ -1,12 +1,12 @@
 ---
-title: get_AsLiteralDouble
+title: get_AsLiteralDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns literal double value if DataSourceType = Charts::DataSourceType::DoubleLiterals. Read double."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/idoublechartvalue/get_asliteraldouble/
 ---
-## IDoubleChartValue::get_AsLiteralDouble method
+## IDoubleChartValue::get_AsLiteralDouble() method
 
 
 Returns literal double value if DataSourceType = [Charts::DataSourceType::DoubleLiterals](../../datasourcetype/). Read **double**.

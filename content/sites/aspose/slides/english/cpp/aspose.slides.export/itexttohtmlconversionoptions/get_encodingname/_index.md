@@ -1,12 +1,12 @@
 ---
-title: get_EncodingName
+title: get_EncodingName()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns html encoding name. This value will be saved to the generated HTML file, but its up to caller to ensure that file will be saved in this encoding. Read System::String."
 type: docs
 weight: 79
 url: /cpp/aspose.slides.export/itexttohtmlconversionoptions/get_encodingname/
 ---
-## ITextToHtmlConversionOptions::get_EncodingName method
+## ITextToHtmlConversionOptions::get_EncodingName() method
 
 
 Returns html encoding name. This value will be saved to the generated HTML file, but its up to caller to ensure that file will be saved in this encoding. Read [System::String](../../../system/string/).

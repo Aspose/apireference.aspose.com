@@ -1,12 +1,12 @@
 ---
-title: get_Fragment
+title: get_Fragment()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the escaped URI fragment.
 type: docs
 weight: 183
 url: /cpp/system/uri/get_fragment/
 ---
-## Uri::get_Fragment method
+## Uri::get_Fragment() const method
 
 
 Returns the escaped URI fragment.

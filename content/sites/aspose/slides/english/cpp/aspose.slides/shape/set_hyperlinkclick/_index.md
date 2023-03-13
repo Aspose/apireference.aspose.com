@@ -1,12 +1,12 @@
 ---
-title: set_HyperlinkClick
+title: set_HyperlinkClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the hyperlink defined for mouse click. Write IHyperlink.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/shape/set_hyperlinkclick/
 ---
-## Shape::set_HyperlinkClick method
+## Shape::set_HyperlinkClick([System::SharedPtr](../../../system/sharedptr/)\<[IHyperlink](../../ihyperlink/)\>) method
 
 
 Sets the hyperlink defined for mouse click. Write [IHyperlink](../../ihyperlink/).

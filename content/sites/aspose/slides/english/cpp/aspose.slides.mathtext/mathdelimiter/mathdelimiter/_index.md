@@ -1,15 +1,15 @@
 ---
-title: MathDelimiter
+title: MathDelimiter()
 second_title: Aspose.Slides for C++ API Reference
-description: Initializes MathDelimiter with the specified element as single base argument.
+description: Initializes MathDelimiter with the specified element as single base argument
 type: docs
 weight: 144
 url: /cpp/aspose.slides.mathtext/mathdelimiter/mathdelimiter/
 ---
-## MathDelimiter::MathDelimiter constructor
+## MathDelimiter::MathDelimiter([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
-Initializes [MathDelimiter](../) with the specified element as single base argument.
+Initializes [MathDelimiter](../) with the specified element as single base argument
 
 ```cpp
 Aspose::Slides::MathText::MathDelimiter::MathDelimiter(System::SharedPtr<IMathElement> element)

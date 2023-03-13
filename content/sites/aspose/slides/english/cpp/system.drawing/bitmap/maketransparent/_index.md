@@ -1,12 +1,12 @@
 ---
-title: MakeTransparent
+title: MakeTransparent()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes the color of all pixels with the specified color to transparent.
 type: docs
 weight: 157
 url: /cpp/system.drawing/bitmap/maketransparent/
 ---
-## Bitmap::MakeTransparent method
+## Bitmap::MakeTransparent([Color](../../color/)) method
 
 
 Changes the color of all pixels with the specified color to transparent.

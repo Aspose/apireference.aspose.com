@@ -1,12 +1,12 @@
 ---
-title: get_AutofitType
+title: get_AutofitType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns text autofit mode. Read-only TextAutofitType.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/itextframeformateffectivedata/get_autofittype/
 ---
-## ITextFrameFormatEffectiveData::get_AutofitType method
+## ITextFrameFormatEffectiveData::get_AutofitType() method
 
 
 Returns text autofit mode. Read-only [TextAutofitType](../../textautofittype/).

@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the identity constraint.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/get_name/
 ---
-## XmlSchemaIdentityConstraint::get_Name method
+## XmlSchemaIdentityConstraint::get_Name() method
 
 
 Returns the name of the identity constraint.

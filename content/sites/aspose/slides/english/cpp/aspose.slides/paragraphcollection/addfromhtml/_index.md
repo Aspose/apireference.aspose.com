@@ -1,5 +1,5 @@
 ---
-title: AddFromHtml
+title: AddFromHtml()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds text from specified html string to the collection.
 type: docs

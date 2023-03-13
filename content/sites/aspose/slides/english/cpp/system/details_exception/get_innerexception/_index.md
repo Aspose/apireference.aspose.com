@@ -1,12 +1,12 @@
 ---
-title: get_InnerException
+title: get_InnerException()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a reference to the object representing the inner exception.
 type: docs
 weight: 27
 url: /cpp/system/details_exception/get_innerexception/
 ---
-## Details_Exception::get_InnerException method
+## Details_Exception::get_InnerException() const method
 
 
 Returns a reference to the object representing the inner exception.

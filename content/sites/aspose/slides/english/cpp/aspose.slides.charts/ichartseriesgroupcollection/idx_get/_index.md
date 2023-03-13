@@ -1,5 +1,5 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the series group by series.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: AddGroup
+title: AddGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds group into match.
 type: docs
 weight: 66
 url: /cpp/system.text.regularexpressions/match/addgroup/
 ---
-## Match::AddGroup method
+## Match::AddGroup(const [GroupPtr](../../groupptr/)\&) method
 
 
 Adds group into match.

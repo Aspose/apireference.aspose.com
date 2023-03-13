@@ -1,5 +1,5 @@
 ---
-title: Min
+title: Min()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the smallest value out of two numeric ones specified.
 type: docs

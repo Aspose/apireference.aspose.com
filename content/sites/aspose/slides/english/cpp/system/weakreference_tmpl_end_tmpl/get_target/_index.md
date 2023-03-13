@@ -1,12 +1,12 @@
 ---
-title: get_Target
+title: get_Target()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the object (the target) referenced by the current WeakReference object.
 type: docs
 weight: 14
 url: /cpp/system/weakreference_tmpl_end_tmpl/get_target/
 ---
-## WeakReference<>::get_Target method
+## WeakReference<>::get_Target() const method
 
 
 Gets the object (the target) referenced by the current WeakReference object.

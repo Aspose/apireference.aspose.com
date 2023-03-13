@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the WarningHeaderValue class.
 type: docs
 weight: 118
 url: /cpp/system.net.http.headers/warningheadervalue/tryparse/
 ---
-## WarningHeaderValue::TryParse method
+## WarningHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[WarningHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [WarningHeaderValue](../) class.

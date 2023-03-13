@@ -1,12 +1,12 @@
 ---
-title: get_PixelFormat
+title: get_PixelFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the pixel format of the image represented by the current object.
 type: docs
 weight: 53
 url: /cpp/system.drawing/bitmap/get_pixelformat/
 ---
-## Bitmap::get_PixelFormat method
+## Bitmap::get_PixelFormat() const method
 
 
 Returns the pixel format of the image represented by the current object.

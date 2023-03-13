@@ -1,12 +1,12 @@
 ---
-title: set_Namespaces
+title: set_Namespaces()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether to do namespace support.
 type: docs
 weight: 313
 url: /cpp/system.xml/xmltextreader/set_namespaces/
 ---
-## XmlTextReader::set_Namespaces method
+## XmlTextReader::set_Namespaces(**bool**) method
 
 
 Sets a value indicating whether to do namespace support.

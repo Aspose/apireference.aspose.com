@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates enumerator.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/hashset/getenumerator/
 ---
-## HashSet::GetEnumerator method
+## HashSet::GetEnumerator() method
 
 
 Creates enumerator.

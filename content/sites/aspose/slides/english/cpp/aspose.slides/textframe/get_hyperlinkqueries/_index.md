@@ -1,12 +1,12 @@
 ---
-title: get_HyperlinkQueries
+title: get_HyperlinkQueries()
 second_title: Aspose.Slides for C++ API Reference
 description: Provides easy access to contained hyperlinks. Read-only IHyperlinkQueries.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/textframe/get_hyperlinkqueries/
 ---
-## TextFrame::get_HyperlinkQueries method
+## TextFrame::get_HyperlinkQueries() method
 
 
 Provides easy access to contained hyperlinks. Read-only [IHyperlinkQueries](../../ihyperlinkqueries/).

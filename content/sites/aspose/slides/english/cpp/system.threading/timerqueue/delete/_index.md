@@ -1,12 +1,12 @@
 ---
-title: Delete
+title: Delete()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes timer from queue.
 type: docs
 weight: 66
 url: /cpp/system.threading/timerqueue/delete/
 ---
-## TimerQueue::Delete method
+## TimerQueue::Delete([Timer](../../timer/) *) method
 
 
 Deletes timer from queue.

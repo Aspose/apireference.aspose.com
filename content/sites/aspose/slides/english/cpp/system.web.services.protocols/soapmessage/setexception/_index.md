@@ -1,12 +1,12 @@
 ---
-title: SetException
+title: SetException()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the exception that is thrown by the XML Web service method.
 type: docs
 weight: 300
 url: /cpp/system.web.services.protocols/soapmessage/setexception/
 ---
-## SoapMessage::SetException method
+## SoapMessage::SetException([SoapException](../../soapexception/)) method
 
 
 Sets the exception that is thrown by the XML [Web](../../../system.web/) service method.

@@ -1,12 +1,12 @@
 ---
-title: get_IgnoreWhitespace
+title: get_IgnoreWhitespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether to ignore insignificant white space.
 type: docs
 weight: 196
 url: /cpp/system.xml/xmlreadersettings/get_ignorewhitespace/
 ---
-## XmlReaderSettings::get_IgnoreWhitespace method
+## XmlReaderSettings::get_IgnoreWhitespace() method
 
 
 Returns a value indicating whether to ignore insignificant white space.

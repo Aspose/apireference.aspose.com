@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the RetryConditionHeaderValue class.
 type: docs
 weight: 92
 url: /cpp/system.net.http.headers/retryconditionheadervalue/tryparse/
 ---
-## RetryConditionHeaderValue::TryParse method
+## RetryConditionHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[RetryConditionHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [RetryConditionHeaderValue](../) class.

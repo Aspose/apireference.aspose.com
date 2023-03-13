@@ -1,12 +1,12 @@
 ---
-title: get_PatternStyle
+title: get_PatternStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the pattern style. Read-only Slides::PatternStyle."
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ipatternformateffectivedata/get_patternstyle/
 ---
-## IPatternFormatEffectiveData::get_PatternStyle method
+## IPatternFormatEffectiveData::get_PatternStyle() method
 
 
 Returns the pattern style. Read-only [Slides::PatternStyle](../../patternstyle/).

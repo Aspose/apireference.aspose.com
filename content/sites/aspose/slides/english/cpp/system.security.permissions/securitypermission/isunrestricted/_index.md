@@ -1,12 +1,12 @@
 ---
-title: IsUnrestricted
+title: IsUnrestricted()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if permission is unrestricted.
 type: docs
 weight: 40
 url: /cpp/system.security.permissions/securitypermission/isunrestricted/
 ---
-## SecurityPermission::IsUnrestricted method
+## SecurityPermission::IsUnrestricted() method
 
 
 Checks if permission is unrestricted.

@@ -1,12 +1,12 @@
 ---
-title: get_DisableGradientSplit
+title: get_DisableGradientSplit()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables splitting FromCornerX and FromCenter gradients. Read bool.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.export/isvgoptions/get_disablegradientsplit/
 ---
-## ISVGOptions::get_DisableGradientSplit method
+## ISVGOptions::get_DisableGradientSplit() method
 
 
 Disables splitting FromCornerX and FromCenter gradients. Read **bool**.

@@ -1,5 +1,5 @@
 ---
-title: StreamWriter
+title: StreamWriter()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance of StreamWriter object that writes characters to the specified underlying stream using UTF-8 encoding and a buffer with default size of 1024 bytes.
 type: docs

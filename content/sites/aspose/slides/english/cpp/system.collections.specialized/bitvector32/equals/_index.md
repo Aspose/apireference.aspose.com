@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified object is the same as the current.
 type: docs
 weight: 66
 url: /cpp/system.collections.specialized/bitvector32/equals/
 ---
-## BitVector32::Equals method
+## BitVector32::Equals(const [BitVector32](../)\&) method
 
 
 Determines whether the specified object is the same as the current.

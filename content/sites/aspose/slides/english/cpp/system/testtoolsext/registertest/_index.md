@@ -1,12 +1,12 @@
 ---
-title: RegisterTest
+title: RegisterTest()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds test information to registry.
 type: docs
 weight: 27
 url: /cpp/system/testtoolsext/registertest/
 ---
-## TestToolsExt::RegisterTest method
+## TestToolsExt::RegisterTest(const char *, const char *, const char *) method
 
 
 Adds test information to registry.

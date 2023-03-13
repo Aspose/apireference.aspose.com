@@ -1,12 +1,12 @@
 ---
-title: SetWrapMode
+title: SetWrapMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the wrap mode and color used to decide how to tile a texture across a shape, or at shape boundaries.
 type: docs
 weight: 274
 url: /cpp/system.drawing.imaging/imageattributes/setwrapmode/
 ---
-## ImageAttributes::SetWrapMode method
+## ImageAttributes::SetWrapMode([Drawing2D::WrapMode](../../../system.drawing.drawing2d/wrapmode/), [Color](../../../system.drawing/color/), **bool**) method
 
 
 Sets the wrap mode and color used to decide how to tile a texture across a shape, or at shape boundaries.

@@ -1,12 +1,12 @@
 ---
-title: get_AlgorithmType
+title: get_AlgorithmType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets algorithm type.
 type: docs
 weight: 14
 url: /cpp/system.globalization/taiwancalendar/get_algorithmtype/
 ---
-## TaiwanCalendar::get_AlgorithmType method
+## TaiwanCalendar::get_AlgorithmType() const method
 
 
 Gets algorithm type.

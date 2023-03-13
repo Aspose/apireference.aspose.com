@@ -1,12 +1,12 @@
 ---
-title: FromDays
+title: FromDays()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new TimeSpan object that represents the specified interval.
 type: docs
 weight: 508
 url: /cpp/system/timespan/fromdays/
 ---
-## TimeSpan::FromDays method
+## TimeSpan::FromDays(**double**) method
 
 
 Returns a new [TimeSpan](../) object that represents the specified interval.

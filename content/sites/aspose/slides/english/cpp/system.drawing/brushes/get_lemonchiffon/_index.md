@@ -1,12 +1,12 @@
 ---
-title: get_LemonChiffon
+title: get_LemonChiffon()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFFFACD.
 type: docs
 weight: 807
 url: /cpp/system.drawing/brushes/get_lemonchiffon/
 ---
-## Brushes::get_LemonChiffon method
+## Brushes::get_LemonChiffon() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFFFACD.

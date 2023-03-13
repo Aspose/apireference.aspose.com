@@ -1,12 +1,12 @@
 ---
-title: get_GammaCorrection
+title: get_GammaCorrection()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating that gamma correction is enabled for this brush.
 type: docs
 weight: 209
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/get_gammacorrection/
 ---
-## LinearGradientBrush::get_GammaCorrection method
+## LinearGradientBrush::get_GammaCorrection() const method
 
 
 Returns a value indicating that gamma correction is enabled for this brush.

@@ -1,5 +1,5 @@
 ---
-title: ReadToFollowing
+title: ReadToFollowing()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads until an element with the specified qualified name is found.
 type: docs

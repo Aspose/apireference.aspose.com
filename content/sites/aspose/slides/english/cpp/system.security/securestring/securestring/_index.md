@@ -1,5 +1,5 @@
 ---
-title: SecureString
+title: SecureString()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs

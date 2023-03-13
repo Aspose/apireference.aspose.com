@@ -1,5 +1,5 @@
 ---
-title: HtmlDecode
+title: HtmlDecode()
 second_title: Aspose.Slides for C++ API Reference
 description: Decodes Html fragment.
 type: docs

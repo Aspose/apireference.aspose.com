@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data/dataview/get_count/
 ---
-## DataView::get_Count method
+## DataView::get_Count() method
 
 
 RTTI information.

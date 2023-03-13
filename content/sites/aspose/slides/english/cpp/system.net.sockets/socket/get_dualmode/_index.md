@@ -1,12 +1,12 @@
 ---
-title: get_DualMode
+title: get_DualMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value indicates if the socket is in the dual-mode.
 type: docs
 weight: 456
 url: /cpp/system.net.sockets/socket/get_dualmode/
 ---
-## Socket::get_DualMode method
+## Socket::get_DualMode() method
 
 
 Gets a value indicates if the socket is in the dual-mode.

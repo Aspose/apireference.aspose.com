@@ -1,12 +1,12 @@
 ---
-title: UriParser
+title: UriParser()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system/uriparser/uriparser/
 ---
-## UriParser::UriParser constructor
+## UriParser::UriParser() constructor
 
 
 

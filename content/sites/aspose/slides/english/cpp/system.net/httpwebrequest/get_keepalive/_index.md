@@ -1,12 +1,12 @@
 ---
-title: get_KeepAlive
+title: get_KeepAlive()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the current request must contain the 'Keep-Alive' header.
 type: docs
 weight: 573
 url: /cpp/system.net/httpwebrequest/get_keepalive/
 ---
-## HttpWebRequest::get_KeepAlive method
+## HttpWebRequest::get_KeepAlive() method
 
 
 Gets a value that indicates if the current request must contain the 'Keep-Alive' header.

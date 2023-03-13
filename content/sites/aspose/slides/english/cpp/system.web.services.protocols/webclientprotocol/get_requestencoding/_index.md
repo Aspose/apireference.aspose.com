@@ -1,12 +1,12 @@
 ---
-title: get_RequestEncoding
+title: get_RequestEncoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the encoding that is used to make the client requests.
 type: docs
 weight: 105
 url: /cpp/system.web.services.protocols/webclientprotocol/get_requestencoding/
 ---
-## WebClientProtocol::get_RequestEncoding method
+## WebClientProtocol::get_RequestEncoding() method
 
 
 Gets the encoding that is used to make the client requests.

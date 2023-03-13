@@ -1,5 +1,5 @@
 ---
-title: Random
+title: Random()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance, using a time-dependent default seed value.
 type: docs

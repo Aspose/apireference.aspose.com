@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the specifie value at the specified location in the matrix.
 type: docs
 weight: 27
 url: /cpp/system.drawing.imaging/colormatrix/idx_set/
 ---
-## ColorMatrix::idx_set method
+## ColorMatrix::idx_set(int, int, **float**) method
 
 
 Sets the specifie value at the specified location in the matrix.

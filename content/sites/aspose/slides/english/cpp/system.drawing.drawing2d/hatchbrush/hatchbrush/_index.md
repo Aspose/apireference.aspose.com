@@ -1,12 +1,12 @@
 ---
-title: HatchBrush
+title: HatchBrush()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of HatchBrush class that represents a brush with the specified hatch style, foreground color and background color.
 type: docs
 weight: 1
 url: /cpp/system.drawing.drawing2d/hatchbrush/hatchbrush/
 ---
-## HatchBrush::HatchBrush constructor
+## HatchBrush::HatchBrush([HatchStyle](../../hatchstyle/), [Color](../../../system.drawing/color/), [Color](../../../system.drawing/color/)) constructor
 
 
 Constructs a new instance of [HatchBrush](../) class that represents a brush with the specified hatch style, foreground color and background color.

@@ -1,12 +1,12 @@
 ---
-title: get_HasTitle
+title: get_HasTitle()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a axis has a visible title. Read bool.
 type: docs
 weight: 807
 url: /cpp/aspose.slides.charts/axis/get_hastitle/
 ---
-## Axis::get_HasTitle method
+## Axis::get_HasTitle() method
 
 
 Determines whether a axis has a visible title. Read **bool**.

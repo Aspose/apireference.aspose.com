@@ -1,12 +1,12 @@
 ---
-title: get_OnlyIfCached
+title: get_OnlyIfCached()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the value that determines if the client must use only cached entries.
 type: docs
 weight: 222
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_onlyifcached/
 ---
-## CacheControlHeaderValue::get_OnlyIfCached method
+## CacheControlHeaderValue::get_OnlyIfCached() method
 
 
 Gets the value that determines if the client must use only cached entries.

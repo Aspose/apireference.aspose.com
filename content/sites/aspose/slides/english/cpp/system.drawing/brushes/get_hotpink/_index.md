@@ -1,12 +1,12 @@
 ---
-title: get_HotPink
+title: get_HotPink()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFF69B4.
 type: docs
 weight: 703
 url: /cpp/system.drawing/brushes/get_hotpink/
 ---
-## Brushes::get_HotPink method
+## Brushes::get_HotPink() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFF69B4.

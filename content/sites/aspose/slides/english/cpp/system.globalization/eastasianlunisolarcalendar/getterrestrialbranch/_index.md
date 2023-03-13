@@ -1,12 +1,12 @@
 ---
-title: GetTerrestrialBranch
+title: GetTerrestrialBranch()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets terrestrial branch.
 type: docs
 weight: 27
 url: /cpp/system.globalization/eastasianlunisolarcalendar/getterrestrialbranch/
 ---
-## EastAsianLunisolarCalendar::GetTerrestrialBranch method
+## EastAsianLunisolarCalendar::GetTerrestrialBranch(int) const method
 
 
 Gets terrestrial branch.

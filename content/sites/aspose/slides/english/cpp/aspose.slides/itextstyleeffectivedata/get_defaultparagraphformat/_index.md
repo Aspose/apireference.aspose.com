@@ -1,12 +1,12 @@
 ---
-title: get_DefaultParagraphFormat
+title: get_DefaultParagraphFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns effective default paragraph properties. Read-only IParagraphFormatEffectiveData.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/itextstyleeffectivedata/get_defaultparagraphformat/
 ---
-## ITextStyleEffectiveData::get_DefaultParagraphFormat method
+## ITextStyleEffectiveData::get_DefaultParagraphFormat() method
 
 
 Returns effective default paragraph properties. Read-only [IParagraphFormatEffectiveData](../../iparagraphformateffectivedata/).

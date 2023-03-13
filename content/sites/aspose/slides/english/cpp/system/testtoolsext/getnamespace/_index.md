@@ -1,12 +1,12 @@
 ---
-title: GetNamespace
+title: GetNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Retrieves namespace of specified test.
 type: docs
 weight: 14
 url: /cpp/system/testtoolsext/getnamespace/
 ---
-## TestToolsExt::GetNamespace method
+## TestToolsExt::GetNamespace(const char *, const char *, std::string\&) method
 
 
 Retrieves namespace of specified test.

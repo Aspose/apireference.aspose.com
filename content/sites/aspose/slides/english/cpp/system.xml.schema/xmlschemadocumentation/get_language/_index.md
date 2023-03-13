@@ -1,12 +1,12 @@
 ---
-title: get_Language
+title: get_Language()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the xml:lang attribute. This serves as an indicator of the language used in the contents."
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemadocumentation/get_language/
 ---
-## XmlSchemaDocumentation::get_Language method
+## XmlSchemaDocumentation::get_Language() method
 
 
 Returns the **xml:lang** attribute. This serves as an indicator of the language used in the contents.

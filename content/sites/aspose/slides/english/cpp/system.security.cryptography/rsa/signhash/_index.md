@@ -1,12 +1,12 @@
 ---
-title: SignHash
+title: SignHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Computes the signature for the specified hash value.
 type: docs
 weight: 144
 url: /cpp/system.security.cryptography/rsa/signhash/
 ---
-## RSA::SignHash method
+## RSA::SignHash([ByteArrayPtr](../../../system/bytearrayptr/), [HashAlgorithmName](../../hashalgorithmname/), [SharedPtr](../../../system/sharedptr/)\<[RSASignaturePadding](../../rsasignaturepadding/)\>) method
 
 
 Computes the signature for the specified hash value.

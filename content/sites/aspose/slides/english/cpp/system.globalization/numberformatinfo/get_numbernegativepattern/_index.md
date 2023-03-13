@@ -1,12 +1,12 @@
 ---
-title: get_NumberNegativePattern
+title: get_NumberNegativePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number negative pattern.
 type: docs
 weight: 508
 url: /cpp/system.globalization/numberformatinfo/get_numbernegativepattern/
 ---
-## NumberFormatInfo::get_NumberNegativePattern method
+## NumberFormatInfo::get_NumberNegativePattern() const method
 
 
 Gets number negative pattern.

@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the index of a specific IMathBlock in collection.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.mathtext/imathblockcollection/indexof/
 ---
-## IMathBlockCollection::IndexOf method
+## IMathBlockCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[IMathBlock](../../imathblock/)\>) method
 
 
 Determines the index of a specific [IMathBlock](../../imathblock/) in collection.

@@ -1,12 +1,12 @@
 ---
-title: getObject
+title: getObject()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets object referenced pointer points to.
 type: docs
 weight: 66
 url: /cpp/system/smartptrinfo/getobject/
 ---
-## SmartPtrInfo::getObject method
+## SmartPtrInfo::getObject() const method
 
 
 Gets object referenced pointer points to.

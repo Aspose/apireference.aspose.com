@@ -1,12 +1,12 @@
 ---
-title: SplitText
+title: SplitText()
 second_title: Aspose.Slides for C++ API Reference
 description: Splits the node into two nodes at the specified offset, keeping both in the tree as siblings.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmltext/splittext/
 ---
-## XmlText::SplitText method
+## XmlText::SplitText(**int32_t**) method
 
 
 Splits the node into two nodes at the specified offset, keeping both in the tree as siblings.

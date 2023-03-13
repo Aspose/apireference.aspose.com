@@ -1,12 +1,12 @@
 ---
-title: get_BuildType
+title: get_BuildType()
 second_title: Aspose.Slides for C++ API Reference
 description: List of build type (for exp. Paragraph 1,2,3, All at Once) of text animation. Read BuildType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.animation/itextanimation/get_buildtype/
 ---
-## ITextAnimation::get_BuildType method
+## ITextAnimation::get_BuildType() method
 
 
 List of build type (for exp. [Paragraph](../../../aspose.slides/paragraph/) 1,2,3, All at Once) of text animation. Read [BuildType](../../buildtype/).

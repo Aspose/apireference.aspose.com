@@ -1,12 +1,12 @@
 ---
-title: ~StringBuilder
+title: ~StringBuilder()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.text/stringbuilder/~stringbuilder/
 ---
-## StringBuilder::~StringBuilder method
+## StringBuilder::~StringBuilder() method
 
 
 Destructor.

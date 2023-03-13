@@ -1,12 +1,12 @@
 ---
-title: GetPreamble
+title: GetPreamble()
 second_title: Aspose.Slides for C++ API Reference
 description: Get codepage preamble.
 type: docs
 weight: 53
 url: /cpp/system.text/utf32encoding/getpreamble/
 ---
-## UTF32Encoding::GetPreamble method
+## UTF32Encoding::GetPreamble() method
 
 
 Get codepage preamble.

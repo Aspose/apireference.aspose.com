@@ -1,12 +1,12 @@
 ---
-title: SetGroupingItem
+title: SetGroupingItem()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets grouping item for defined level.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/chartcategorylevelsmanager/setgroupingitem/
 ---
-## ChartCategoryLevelsManager::SetGroupingItem method
+## ChartCategoryLevelsManager::SetGroupingItem(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Sets grouping item for defined level.

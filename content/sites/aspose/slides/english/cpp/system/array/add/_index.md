@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Not supported because the array represented by the current object is read-only.
 type: docs
 weight: 40
 url: /cpp/system/array/add/
 ---
-## Array::Add method
+## Array::Add(const T\&) method
 
 
 Not supported because the array represented by the current object is read-only.

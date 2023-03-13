@@ -1,12 +1,12 @@
 ---
-title: get_Archived
+title: get_Archived()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value indicating that certificate is archived.
 type: docs
 weight: 196
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_archived/
 ---
-## X509Certificate2::get_Archived method
+## X509Certificate2::get_Archived() const method
 
 
 Gets a value indicating that certificate is archived.

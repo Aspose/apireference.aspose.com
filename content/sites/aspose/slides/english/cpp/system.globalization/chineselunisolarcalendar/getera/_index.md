@@ -1,12 +1,12 @@
 ---
-title: GetEra
+title: GetEra()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets era for the specified time point.
 type: docs
 weight: 79
 url: /cpp/system.globalization/chineselunisolarcalendar/getera/
 ---
-## ChineseLunisolarCalendar::GetEra method
+## ChineseLunisolarCalendar::GetEra([DateTime](../../../system/datetime/)) const method
 
 
 Gets era for the specified time point.

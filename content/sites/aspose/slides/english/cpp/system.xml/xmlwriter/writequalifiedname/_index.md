@@ -1,12 +1,12 @@
 ---
-title: WriteQualifiedName
+title: WriteQualifiedName()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes out the namespace-qualified name. This method looks up the prefix that is in scope for the given namespace.
 type: docs
 weight: 391
 url: /cpp/system.xml/xmlwriter/writequalifiedname/
 ---
-## XmlWriter::WriteQualifiedName method
+## XmlWriter::WriteQualifiedName(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 When overridden in a derived class, writes out the namespace-qualified name. This method looks up the prefix that is in scope for the given namespace.

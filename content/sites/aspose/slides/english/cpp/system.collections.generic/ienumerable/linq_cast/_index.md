@@ -1,5 +1,5 @@
 ---
-title: LINQ_Cast
+title: LINQ_Cast()
 second_title: Aspose.Slides for C++ API Reference
 description: Casts the elements to the specified type.
 type: docs

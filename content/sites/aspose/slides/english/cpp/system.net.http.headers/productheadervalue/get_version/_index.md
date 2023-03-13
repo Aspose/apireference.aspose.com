@@ -1,12 +1,12 @@
 ---
-title: get_Version
+title: get_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the product token version.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/productheadervalue/get_version/
 ---
-## ProductHeaderValue::get_Version method
+## ProductHeaderValue::get_Version() method
 
 
 Returns the product token version.

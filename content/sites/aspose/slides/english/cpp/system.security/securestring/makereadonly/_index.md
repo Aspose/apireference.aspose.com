@@ -1,12 +1,12 @@
 ---
-title: MakeReadOnly
+title: MakeReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Makes this secure string read-only.
 type: docs
 weight: 118
 url: /cpp/system.security/securestring/makereadonly/
 ---
-## SecureString::MakeReadOnly method
+## SecureString::MakeReadOnly() method
 
 
 Makes this secure string read-only.

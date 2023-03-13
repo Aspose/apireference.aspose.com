@@ -1,12 +1,12 @@
 ---
-title: set_From
+title: set_From()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the starting value of the animation. Write System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/propertyeffect/set_from/
 ---
-## PropertyEffect::set_From method
+## PropertyEffect::set_From([System::String](../../../system/string/)) method
 
 
 Specifies the starting value of the animation. Write [System::String](../../../system/string/).

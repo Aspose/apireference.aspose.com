@@ -1,7 +1,7 @@
 ---
 title: MathFunctionFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a math function.
+description: Allows to create a math function
 type: docs
 weight: 859
 url: /cpp/aspose.slides.mathtext/mathfunctionfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathfunctionfactory/
 ## MathFunctionFactory class
 
 
-Allows to create a math function.
+Allows to create a math function
 
 ```cpp
 class MathFunctionFactory : public Aspose::Slides::MathText::IMathFunctionFactory
@@ -19,8 +19,8 @@ class MathFunctionFactory : public Aspose::Slides::MathText::IMathFunctionFactor
 
 | Method | Description |
 | --- | --- |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathFunction](../imathfunction/)\> [CreateMathFunction](./createmathfunction/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates math function. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IMathFunction](../imathfunction/)\> [CreateMathFunction](./createmathfunction/)([System::String](../../system/string/), [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates math function. |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathFunction](../imathfunction/)\> [CreateMathFunction](./createmathfunction/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates math function |
+| [System::SharedPtr](../../system/sharedptr/)\<[IMathFunction](../imathfunction/)\> [CreateMathFunction](./createmathfunction/)([System::String](../../system/string/), [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) override | Creates math function |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

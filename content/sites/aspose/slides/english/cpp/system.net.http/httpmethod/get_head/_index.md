@@ -1,12 +1,12 @@
 ---
-title: get_Head
+title: get_Head()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the 'HEAD' HTTP method.
 type: docs
 weight: 53
 url: /cpp/system.net.http/httpmethod/get_head/
 ---
-## HttpMethod::get_Head method
+## HttpMethod::get_Head() method
 
 
 Returns the 'HEAD' HTTP method.

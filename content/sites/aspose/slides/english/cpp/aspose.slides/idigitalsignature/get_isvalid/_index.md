@@ -1,12 +1,12 @@
 ---
-title: get_IsValid
+title: get_IsValid()
 second_title: Aspose.Slides for C++ API Reference
 description: If this digital signature is valid and the document has not been tampered with, this value will be true. Read-only bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/idigitalsignature/get_isvalid/
 ---
-## IDigitalSignature::get_IsValid method
+## IDigitalSignature::get_IsValid() method
 
 
 If this digital signature is valid and the document has not been tampered with, this value will be true. Read-only **bool**.

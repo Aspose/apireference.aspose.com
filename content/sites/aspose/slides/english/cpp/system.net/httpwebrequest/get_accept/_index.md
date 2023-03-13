@@ -1,12 +1,12 @@
 ---
-title: get_Accept
+title: get_Accept()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the 'Accept' HTTP header value.
 type: docs
 weight: 53
 url: /cpp/system.net/httpwebrequest/get_accept/
 ---
-## HttpWebRequest::get_Accept method
+## HttpWebRequest::get_Accept() method
 
 
 Gets the 'Accept' HTTP header value.

@@ -1,12 +1,12 @@
 ---
-title: set_Width
+title: set_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the width of a title as a fraction of the width of the chart. Write float.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/datalabel/set_width/
 ---
-## DataLabel::set_Width method
+## DataLabel::set_Width(**float**) method
 
 
 Sets the width of a title as a fraction of the width of the chart. Write **float**.

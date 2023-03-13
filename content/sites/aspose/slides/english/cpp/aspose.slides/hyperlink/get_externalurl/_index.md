@@ -1,12 +1,12 @@
 ---
-title: get_ExternalUrl
+title: get_ExternalUrl()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the external URL. Read-only System::String."
 type: docs
 weight: 118
 url: /cpp/aspose.slides/hyperlink/get_externalurl/
 ---
-## Hyperlink::get_ExternalUrl method
+## Hyperlink::get_ExternalUrl() method
 
 
 Specifies the external URL. Read-only [System::String](../../../system/string/).

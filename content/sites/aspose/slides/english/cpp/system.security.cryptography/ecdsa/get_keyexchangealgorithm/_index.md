@@ -1,12 +1,12 @@
 ---
-title: get_KeyExchangeAlgorithm
+title: get_KeyExchangeAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets key exchange algorithm to use.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/ecdsa/get_keyexchangealgorithm/
 ---
-## ECDsa::get_KeyExchangeAlgorithm method
+## ECDsa::get_KeyExchangeAlgorithm() method
 
 
 Gets key exchange algorithm to use.

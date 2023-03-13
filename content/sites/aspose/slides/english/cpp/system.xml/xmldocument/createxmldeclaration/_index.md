@@ -1,12 +1,12 @@
 ---
-title: CreateXmlDeclaration
+title: CreateXmlDeclaration()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlDeclaration node with the specified values.
 type: docs
 weight: 378
 url: /cpp/system.xml/xmldocument/createxmldeclaration/
 ---
-## XmlDocument::CreateXmlDeclaration method
+## XmlDocument::CreateXmlDeclaration(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Creates an [XmlDeclaration](../../xmldeclaration/) node with the specified values.

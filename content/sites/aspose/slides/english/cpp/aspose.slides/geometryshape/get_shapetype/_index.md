@@ -1,12 +1,12 @@
 ---
-title: get_ShapeType
+title: get_ShapeType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the geometry preset type. Note: on value changing all adjustment values will reset to their default values. Read Slides::ShapeType."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/geometryshape/get_shapetype/
 ---
-## GeometryShape::get_ShapeType method
+## GeometryShape::get_ShapeType() method
 
 
 Returns the geometry preset type. Note: on value changing all adjustment values will reset to their default values. Read [Slides::ShapeType](../../shapetype/).

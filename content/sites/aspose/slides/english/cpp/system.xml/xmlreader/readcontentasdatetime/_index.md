@@ -1,12 +1,12 @@
 ---
-title: ReadContentAsDateTime
+title: ReadContentAsDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the text content at the current position as a DateTime object.
 type: docs
 weight: 352
 url: /cpp/system.xml/xmlreader/readcontentasdatetime/
 ---
-## XmlReader::ReadContentAsDateTime method
+## XmlReader::ReadContentAsDateTime() method
 
 
 Reads the text content at the current position as a [DateTime](../../../system/datetime/) object.

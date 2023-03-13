@@ -1,12 +1,12 @@
 ---
-title: InstalledFontCollection
+title: InstalledFontCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of InstalledFontCollection class.
 type: docs
 weight: 1
 url: /cpp/system.drawing.text/installedfontcollection/installedfontcollection/
 ---
-## InstalledFontCollection::InstalledFontCollection constructor
+## InstalledFontCollection::InstalledFontCollection() constructor
 
 
 Constructs a new instance of [InstalledFontCollection](../) class.

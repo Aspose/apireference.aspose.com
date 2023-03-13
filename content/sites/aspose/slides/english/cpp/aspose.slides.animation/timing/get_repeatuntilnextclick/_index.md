@@ -1,12 +1,12 @@
 ---
-title: get_RepeatUntilNextClick
+title: get_RepeatUntilNextClick()
 second_title: Aspose.Slides for C++ API Reference
 description: This attribute specifies if the effect will repeat until the next click. Read bool.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.animation/timing/get_repeatuntilnextclick/
 ---
-## Timing::get_RepeatUntilNextClick method
+## Timing::get_RepeatUntilNextClick() method
 
 
 This attribute specifies if the effect will repeat until the next click. Read **bool**.

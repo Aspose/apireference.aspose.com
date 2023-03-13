@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 105
 url: /cpp/system.net.sockets/operator_equal_equal/
 ---
-## System::Net::Sockets::operator== function
+## System::Net::Sockets::operator==([IPPacketInformation](../ippacketinformation/), [IPPacketInformation](../ippacketinformation/)) function
 
 
 

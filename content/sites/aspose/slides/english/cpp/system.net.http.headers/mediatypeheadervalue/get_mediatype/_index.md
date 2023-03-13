@@ -1,12 +1,12 @@
 ---
-title: get_MediaType
+title: get_MediaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the media-type header.
 type: docs
 weight: 40
 url: /cpp/system.net.http.headers/mediatypeheadervalue/get_mediatype/
 ---
-## MediaTypeHeaderValue::get_MediaType method
+## MediaTypeHeaderValue::get_MediaType() method
 
 
 Gets a value of the media-type header.

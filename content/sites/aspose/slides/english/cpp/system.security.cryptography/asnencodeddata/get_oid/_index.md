@@ -1,12 +1,12 @@
 ---
-title: get_Oid
+title: get_Oid()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets object identifier of encoded data.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/asnencodeddata/get_oid/
 ---
-## AsnEncodedData::get_Oid method
+## AsnEncodedData::get_Oid() const method
 
 
 Gets object identifier of encoded data.

@@ -1,12 +1,12 @@
 ---
-title: get_ContentLength
+title: get_ContentLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of bytes of the resource.
 type: docs
 weight: 1
 url: /cpp/system.net/webresponse/get_contentlength/
 ---
-## WebResponse::get_ContentLength method
+## WebResponse::get_ContentLength() method
 
 
 Returns the number of bytes of the resource.

@@ -1,12 +1,12 @@
 ---
-title: GetCultureInfoByIetfLanguageTag
+title: GetCultureInfoByIetfLanguageTag()
 second_title: Aspose.Slides for C++ API Reference
 description: Deprecated. Gets a read-only CultureInfo object by the specified RFC 4646 language tag.
 type: docs
 weight: 599
 url: /cpp/system.globalization/cultureinfo/getcultureinfobyietflanguagetag/
 ---
-## CultureInfo::GetCultureInfoByIetfLanguageTag method
+## CultureInfo::GetCultureInfoByIetfLanguageTag(const [String](../../../system/string/)\&) method
 
 
 Deprecated. Gets a read-only [CultureInfo](../) object by the specified RFC 4646 language tag.

@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies TLS data from different thread.
 type: docs
 weight: 14
 url: /cpp/system.threading/thread/operator_equal/
 ---
-## Thread::operator= method
+## Thread::operator=(const [Thread](../)\&) method
 
 
 Copies TLS data from different thread.

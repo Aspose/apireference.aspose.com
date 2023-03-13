@@ -1,12 +1,12 @@
 ---
-title: RemoveCustomProperty
+title: RemoveCustomProperty()
 second_title: Aspose.Slides for C++ API Reference
 description: Remove a custom property associated with a specified name.
 type: docs
 weight: 586
 url: /cpp/aspose.slides/documentproperties/removecustomproperty/
 ---
-## DocumentProperties::RemoveCustomProperty method
+## DocumentProperties::RemoveCustomProperty([System::String](../../../system/string/)) method
 
 
 Remove a custom property associated with a specified name.

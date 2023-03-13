@@ -1,12 +1,12 @@
 ---
-title: get_LocalName
+title: get_LocalName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the local name of the node.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmldocument/get_localname/
 ---
-## XmlDocument::get_LocalName method
+## XmlDocument::get_LocalName() method
 
 
 Returns the local name of the node.

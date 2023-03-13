@@ -1,12 +1,12 @@
 ---
-title: get_HasAttributes
+title: get_HasAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a bool value indicating whether the current node has any attributes.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmlelement/get_hasattributes/
 ---
-## XmlElement::get_HasAttributes method
+## XmlElement::get_HasAttributes() method
 
 
 Returns a **bool** value indicating whether the current node has any attributes.

@@ -1,12 +1,12 @@
 ---
-title: AppendData
+title: AppendData()
 second_title: Aspose.Slides for C++ API Reference
 description: Appends the specified string to the end of the character data of the node.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlcharacterdata/appenddata/
 ---
-## XmlCharacterData::AppendData method
+## XmlCharacterData::AppendData([String](../../../system/string/)) method
 
 
 Appends the specified string to the end of the character data of the node.

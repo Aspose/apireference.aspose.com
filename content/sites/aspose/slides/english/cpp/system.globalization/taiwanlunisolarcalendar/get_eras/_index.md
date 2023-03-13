@@ -1,12 +1,12 @@
 ---
-title: get_Eras
+title: get_Eras()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets list of eras existing in calendar.
 type: docs
 weight: 40
 url: /cpp/system.globalization/taiwanlunisolarcalendar/get_eras/
 ---
-## TaiwanLunisolarCalendar::get_Eras method
+## TaiwanLunisolarCalendar::get_Eras() const method
 
 
 Gets list of eras existing in calendar.

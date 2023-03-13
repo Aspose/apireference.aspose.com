@@ -1,12 +1,12 @@
 ---
-title: get_StyleColor
+title: get_StyleColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Return a ColorFormat for a BackgroundType::Themed fill. Read-only IColorFormat."
 type: docs
 weight: 53
 url: /cpp/aspose.slides/background/get_stylecolor/
 ---
-## Background::get_StyleColor method
+## Background::get_StyleColor() method
 
 
 Return a [ColorFormat](../../colorformat/) for a [BackgroundType::Themed](../../backgroundtype/) fill. Read-only [IColorFormat](../../icolorformat/).

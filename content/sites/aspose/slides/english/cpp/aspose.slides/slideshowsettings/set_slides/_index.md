@@ -1,15 +1,15 @@
 ---
-title: set_Slides
+title: set_Slides()
 second_title: Aspose.Slides for C++ API Reference
-description: Slides range.
+description: Slides range
 type: docs
 weight: 131
 url: /cpp/aspose.slides/slideshowsettings/set_slides/
 ---
-## SlideShowSettings::set_Slides method
+## SlideShowSettings::set_Slides([System::SharedPtr](../../../system/sharedptr/)\<[SlidesRange](../../slidesrange/)\>) method
 
 
-[Slides](../../) range.
+[Slides](../../) range
 
 ```cpp
 void Aspose::Slides::SlideShowSettings::set_Slides(System::SharedPtr<SlidesRange> value)

@@ -1,12 +1,12 @@
 ---
-title: SetAllDateTimePatterns
+title: SetAllDateTimePatterns()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets patterns for the specified format.
 type: docs
 weight: 781
 url: /cpp/system.globalization/datetimeformatinfo/setalldatetimepatterns/
 ---
-## DateTimeFormatInfo::SetAllDateTimePatterns method
+## DateTimeFormatInfo::SetAllDateTimePatterns(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&, char16_t) method
 
 
 Sets patterns for the specified format.

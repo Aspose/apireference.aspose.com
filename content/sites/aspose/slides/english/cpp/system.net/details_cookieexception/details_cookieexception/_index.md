@@ -1,5 +1,5 @@
 ---
-title: Details_CookieException
+title: Details_CookieException()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_Password
+title: set_Password()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets password to be used to connect to database.
 type: docs
 weight: 196
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_password/
 ---
-## SqlConnectionStringBuilder::set_Password method
+## SqlConnectionStringBuilder::set_Password(const [String](../../../system/string/)\&) method
 
 
 Sets password to be used to connect to database.

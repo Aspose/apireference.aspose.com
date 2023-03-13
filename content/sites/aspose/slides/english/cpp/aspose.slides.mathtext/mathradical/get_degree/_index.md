@@ -1,15 +1,15 @@
 ---
-title: get_Degree
+title: get_Degree()
 second_title: Aspose.Slides for C++ API Reference
-description: Degree argument.
+description: Degree argument
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathradical/get_degree/
 ---
-## MathRadical::get_Degree method
+## MathRadical::get_Degree() method
 
 
-Degree argument.
+Degree argument
 
 ```cpp
 System::SharedPtr<IMathElement> Aspose::Slides::MathText::MathRadical::get_Degree() override

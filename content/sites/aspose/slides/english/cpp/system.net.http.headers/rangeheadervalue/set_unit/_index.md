@@ -1,12 +1,12 @@
 ---
-title: set_Unit
+title: set_Unit()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a unit.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/rangeheadervalue/set_unit/
 ---
-## RangeHeaderValue::set_Unit method
+## RangeHeaderValue::set_Unit([String](../../../system/string/)) method
 
 
 Sets a unit.

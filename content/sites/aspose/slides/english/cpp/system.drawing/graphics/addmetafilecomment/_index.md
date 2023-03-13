@@ -1,12 +1,12 @@
 ---
-title: AddMetafileComment
+title: AddMetafileComment()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1015
 url: /cpp/system.drawing/graphics/addmetafilecomment/
 ---
-## Graphics::AddMetafileComment method
+## Graphics::AddMetafileComment(const [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
 
 
 NOT IMPLEMENTED.

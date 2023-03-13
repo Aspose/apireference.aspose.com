@@ -1,12 +1,12 @@
 ---
-title: get_Value2
+title: get_Value2()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines third value of offset. Read float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/icoloroffset/get_value2/
 ---
-## IColorOffset::get_Value2 method
+## IColorOffset::get_Value2() method
 
 
 Defines third value of offset. Read **float**.

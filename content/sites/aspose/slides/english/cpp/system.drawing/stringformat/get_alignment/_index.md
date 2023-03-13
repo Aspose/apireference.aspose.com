@@ -1,12 +1,12 @@
 ---
-title: get_Alignment
+title: get_Alignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates horizontal alignment of the string.
 type: docs
 weight: 40
 url: /cpp/system.drawing/stringformat/get_alignment/
 ---
-## StringFormat::get_Alignment method
+## StringFormat::get_Alignment() const method
 
 
 Returns a value that indicates horizontal alignment of the string.

@@ -1,12 +1,12 @@
 ---
-title: get_Size
+title: get_Size()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the size in points. Read System::Drawing::SizeF."
 type: docs
 weight: 1
 url: /cpp/aspose.slides/notessize/get_size/
 ---
-## NotesSize::get_Size method
+## NotesSize::get_Size() method
 
 
 Returns the size in points. Read [System::Drawing::SizeF](../../../system.drawing/sizef/).

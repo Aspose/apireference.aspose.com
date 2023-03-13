@@ -1,5 +1,5 @@
 ---
-title: IsLeapDay
+title: IsLeapDay()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the day is leap.
 type: docs

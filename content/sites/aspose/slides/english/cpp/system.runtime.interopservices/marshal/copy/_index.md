@@ -1,5 +1,5 @@
 ---
-title: Copy
+title: Copy()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements public static void Copy(IntPtr source, byte[] destination, int startIndex, int length) semantics.
 type: docs

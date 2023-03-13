@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies all elements of the collection to the specified array.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.theme/extracolorschemecollection/copyto/
 ---
-## ExtraColorSchemeCollection::CopyTo method
+## ExtraColorSchemeCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IExtraColorScheme](../../iextracolorscheme/)\>\>, **int32_t**) method
 
 
 Copies all elements of the collection to the specified array.

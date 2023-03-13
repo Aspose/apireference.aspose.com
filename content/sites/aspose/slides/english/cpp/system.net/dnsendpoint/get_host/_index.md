@@ -1,12 +1,12 @@
 ---
-title: get_Host
+title: get_Host()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a host name.
 type: docs
 weight: 1
 url: /cpp/system.net/dnsendpoint/get_host/
 ---
-## DnsEndPoint::get_Host method
+## DnsEndPoint::get_Host() method
 
 
 Returns a host name.

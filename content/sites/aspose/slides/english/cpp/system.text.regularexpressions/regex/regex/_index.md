@@ -1,5 +1,5 @@
 ---
-title: Regex
+title: Regex()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs empty regexp.
 type: docs

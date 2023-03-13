@@ -1,12 +1,12 @@
 ---
-title: ShapeFrame
+title: ShapeFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new shape frame's properties.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/shapeframe/shapeframe/
 ---
-## ShapeFrame::ShapeFrame constructor
+## ShapeFrame::ShapeFrame(**float**, **float**, **float**, **float**, [NullableBool](../../nullablebool/), [NullableBool](../../nullablebool/), **float**) constructor
 
 
 Creates new shape frame's properties.

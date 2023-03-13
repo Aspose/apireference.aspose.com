@@ -1,12 +1,12 @@
 ---
-title: get_DarkMagenta
+title: get_DarkMagenta()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF8B008B.
 type: docs
 weight: 599
 url: /cpp/system.drawing/color/get_darkmagenta/
 ---
-## Color::get_DarkMagenta method
+## Color::get_DarkMagenta() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF8B008B.

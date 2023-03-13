@@ -1,12 +1,12 @@
 ---
-title: ToOADate
+title: ToOADate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the date and time value represented by the current object as OLE Automation Date.
 type: docs
 weight: 417
 url: /cpp/system/datetime/tooadate/
 ---
-## DateTime::ToOADate method
+## DateTime::ToOADate() const method
 
 
 Returns the date and time value represented by the current object as OLE Automation Date.

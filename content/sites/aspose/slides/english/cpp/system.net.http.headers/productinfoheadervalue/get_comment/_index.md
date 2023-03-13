@@ -1,12 +1,12 @@
 ---
-title: get_Comment
+title: get_Comment()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a comment.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/productinfoheadervalue/get_comment/
 ---
-## ProductInfoHeaderValue::get_Comment method
+## ProductInfoHeaderValue::get_Comment() method
 
 
 Returns a comment.

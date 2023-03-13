@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the format of the error bars. Read IFormat.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/ierrorbarsformat/get_format/
 ---
-## IErrorBarsFormat::get_Format method
+## IErrorBarsFormat::get_Format() method
 
 
 Represents the format of the error bars. Read [IFormat](../../iformat/).

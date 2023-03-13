@@ -1,12 +1,12 @@
 ---
-title: set_KeySize
+title: set_KeySize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets key size.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/ecdsabotan/set_keysize/
 ---
-## ECDsaBotan::set_KeySize method
+## ECDsaBotan::set_KeySize(**int32_t**) method
 
 
 Sets key size.

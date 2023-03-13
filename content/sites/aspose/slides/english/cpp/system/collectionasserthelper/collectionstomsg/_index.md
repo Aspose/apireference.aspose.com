@@ -1,12 +1,12 @@
 ---
-title: CollectionsToMsg
+title: CollectionsToMsg()
 second_title: Aspose.Slides for C++ API Reference
 description: Serializes two collections for message representation.
 type: docs
 weight: 53
 url: /cpp/system/collectionasserthelper/collectionstomsg/
 ---
-## CollectionAssertHelper::CollectionsToMsg method
+## CollectionAssertHelper::CollectionsToMsg(const [System::String](../../string/)\&, const [System::SharedPtr](../../sharedptr/)\<[System::Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<T1\>\>\&, const [System::SharedPtr](../../sharedptr/)\<[System::Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<T2\>\>\&) method
 
 
 Serializes two collections for message representation.

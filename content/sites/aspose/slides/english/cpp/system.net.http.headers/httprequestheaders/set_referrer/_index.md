@@ -1,12 +1,12 @@
 ---
-title: set_Referrer
+title: set_Referrer()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Referer' header.
 type: docs
 weight: 365
 url: /cpp/system.net.http.headers/httprequestheaders/set_referrer/
 ---
-## HttpRequestHeaders::set_Referrer method
+## HttpRequestHeaders::set_Referrer([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Sets a value of the 'Referer' header.

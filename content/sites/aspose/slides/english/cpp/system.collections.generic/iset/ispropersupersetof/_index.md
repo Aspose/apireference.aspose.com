@@ -1,12 +1,12 @@
 ---
-title: IsProperSupersetOf
+title: IsProperSupersetOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if current set is a strict superset of other container.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/iset/ispropersupersetof/
 ---
-## ISet::IsProperSupersetOf method
+## ISet::IsProperSupersetOf([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Checks if current set is a strict superset of other container.

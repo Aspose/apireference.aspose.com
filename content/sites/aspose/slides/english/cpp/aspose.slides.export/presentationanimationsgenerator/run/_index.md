@@ -1,5 +1,5 @@
 ---
-title: Run
+title: Run()
 second_title: Aspose.Slides for C++ API Reference
 description: Run the animation events generation for each slide.
 type: docs

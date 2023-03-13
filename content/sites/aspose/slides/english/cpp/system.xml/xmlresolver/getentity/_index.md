@@ -1,12 +1,12 @@
 ---
-title: GetEntity
+title: GetEntity()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, maps a URI to an object that contains the actual resource.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlresolver/getentity/
 ---
-## XmlResolver::GetEntity method
+## XmlResolver::GetEntity([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/), const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 When overridden in a derived class, maps a URI to an object that contains the actual resource.

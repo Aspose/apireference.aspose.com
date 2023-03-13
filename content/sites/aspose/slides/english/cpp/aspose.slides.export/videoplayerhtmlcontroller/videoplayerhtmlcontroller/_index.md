@@ -1,15 +1,15 @@
 ---
-title: VideoPlayerHtmlController
+title: VideoPlayerHtmlController()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates a new instance of controller.
+description: Creates a new instance of controller
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/videoplayerhtmlcontroller/videoplayerhtmlcontroller/
 ---
-## VideoPlayerHtmlController::VideoPlayerHtmlController constructor
+## VideoPlayerHtmlController::VideoPlayerHtmlController([System::String](../../../system/string/), [System::String](../../../system/string/), [System::String](../../../system/string/)) constructor
 
 
-Creates a new instance of controller.
+Creates a new instance of controller
 
 ```cpp
 Aspose::Slides::Export::VideoPlayerHtmlController::VideoPlayerHtmlController(System::String path, System::String fileName, System::String baseUri)

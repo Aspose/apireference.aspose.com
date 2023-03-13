@@ -1,12 +1,12 @@
 ---
-title: get_PictureFillMode
+title: get_PictureFillMode()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the picture fill mode. Read Slides::PictureFillMode."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ipicturefillformat/get_picturefillmode/
 ---
-## IPictureFillFormat::get_PictureFillMode method
+## IPictureFillFormat::get_PictureFillMode() method
 
 
 Returns the picture fill mode. Read [Slides::PictureFillMode](../../picturefillmode/).

@@ -1,12 +1,12 @@
 ---
-title: get_Author
+title: get_Author()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the author of a presentation. Read System::String."
 type: docs
 weight: 248
 url: /cpp/aspose.slides/idocumentproperties/get_author/
 ---
-## IDocumentProperties::get_Author method
+## IDocumentProperties::get_Author() method
 
 
 Returns the author of a presentation. Read [System::String](../../../system/string/).

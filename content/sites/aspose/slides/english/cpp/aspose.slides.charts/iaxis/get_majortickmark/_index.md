@@ -1,12 +1,12 @@
 ---
-title: get_MajorTickMark
+title: get_MajorTickMark()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the type of major tick mark for the specified axis. Read TickMarkType.
 type: docs
 weight: 469
 url: /cpp/aspose.slides.charts/iaxis/get_majortickmark/
 ---
-## IAxis::get_MajorTickMark method
+## IAxis::get_MajorTickMark() method
 
 
 Represents the type of major tick mark for the specified axis. Read [TickMarkType](../../tickmarktype/).

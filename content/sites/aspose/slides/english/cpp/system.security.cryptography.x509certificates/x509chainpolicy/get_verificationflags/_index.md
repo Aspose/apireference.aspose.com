@@ -1,12 +1,12 @@
 ---
-title: get_VerificationFlags
+title: get_VerificationFlags()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/get_verificationflags/
 ---
-## X509ChainPolicy::get_VerificationFlags method
+## X509ChainPolicy::get_VerificationFlags() method
 
 
 

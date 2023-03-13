@@ -1,12 +1,12 @@
 ---
-title: set_PicturesCompression
+title: set_PicturesCompression()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the pictures compression level Write PicturesCompression.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.export/ihtmloptions/set_picturescompression/
 ---
-## IHtmlOptions::set_PicturesCompression method
+## IHtmlOptions::set_PicturesCompression([Aspose::Slides::Export::PicturesCompression](../../picturescompression/)) method
 
 
 Represents the pictures compression level Write [PicturesCompression](../../picturescompression/).

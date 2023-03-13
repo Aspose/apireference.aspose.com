@@ -1,12 +1,12 @@
 ---
-title: get_Children
+title: get_Children()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets tag child objects.
 type: docs
 weight: 40
 url: /cpp/system.security/securityelement/get_children/
 ---
-## SecurityElement::get_Children method
+## SecurityElement::get_Children() method
 
 
 Gets tag child objects.

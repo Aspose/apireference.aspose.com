@@ -1,12 +1,12 @@
 ---
-title: RemoveEncryption
+title: RemoveEncryption()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the encryption.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/iprotectionmanager/removeencryption/
 ---
-## IProtectionManager::RemoveEncryption method
+## IProtectionManager::RemoveEncryption() method
 
 
 Removes the encryption.

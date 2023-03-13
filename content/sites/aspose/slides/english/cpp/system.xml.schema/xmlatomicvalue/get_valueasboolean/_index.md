@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsBoolean
+title: get_ValueAsBoolean()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the validated XML element or attribute's value as a Boolean.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlatomicvalue/get_valueasboolean/
 ---
-## XmlAtomicValue::get_ValueAsBoolean method
+## XmlAtomicValue::get_ValueAsBoolean() method
 
 
 Returns the validated XML element or attribute's value as a [Boolean](../../../system/boolean/).

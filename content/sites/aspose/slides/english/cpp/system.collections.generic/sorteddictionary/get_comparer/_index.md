@@ -1,12 +1,12 @@
 ---
-title: get_Comparer
+title: get_Comparer()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the IComparer<TKey> used to order the elements of the SortedDictionary<TKey,TValue>.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/sorteddictionary/get_comparer/
 ---
-## SortedDictionary::get_Comparer method
+## SortedDictionary::get_Comparer() const method
 
 
 Gets the IComparer<TKey> used to order the elements of the SortedDictionary<TKey,TValue>.

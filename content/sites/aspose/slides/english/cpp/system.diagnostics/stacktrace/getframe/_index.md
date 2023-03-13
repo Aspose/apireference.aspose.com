@@ -1,12 +1,12 @@
 ---
-title: GetFrame
+title: GetFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets stack frame.
 type: docs
 weight: 40
 url: /cpp/system.diagnostics/stacktrace/getframe/
 ---
-## StackTrace::GetFrame method
+## StackTrace::GetFrame(**uint32_t**) method
 
 
 Gets stack frame.

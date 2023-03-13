@@ -1,5 +1,5 @@
 ---
-title: ToDateTimeOffset
+title: ToDateTimeOffset()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the supplied String to a DateTimeOffset equivalent.
 type: docs

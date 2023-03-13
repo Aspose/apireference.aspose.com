@@ -1,12 +1,12 @@
 ---
-title: get_Direction
+title: get_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of transition split. Read TransitionInOutDirectionType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.slideshow/isplittransition/get_direction/
 ---
-## ISplitTransition::get_Direction method
+## ISplitTransition::get_Direction() method
 
 
 Direction of transition split. Read [TransitionInOutDirectionType](../../transitioninoutdirectiontype/).

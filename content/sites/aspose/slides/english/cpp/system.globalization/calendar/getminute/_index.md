@@ -1,12 +1,12 @@
 ---
-title: GetMinute
+title: GetMinute()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets minutes for the specified time point.
 type: docs
 weight: 300
 url: /cpp/system.globalization/calendar/getminute/
 ---
-## Calendar::GetMinute method
+## Calendar::GetMinute([DateTime](../../../system/datetime/)) const method
 
 
 Gets minutes for the specified time point.

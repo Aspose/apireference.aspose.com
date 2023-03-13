@@ -1,12 +1,12 @@
 ---
-title: set_X
+title: set_X()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the X coordinate of the upper left corner of the rectangle represented by the current object.
 type: docs
 weight: 79
 url: /cpp/system.drawing/rectanglef/set_x/
 ---
-## RectangleF::set_X method
+## RectangleF::set_X(**float**) method
 
 
 Sets the X coordinate of the upper left corner of the rectangle represented by the current object.

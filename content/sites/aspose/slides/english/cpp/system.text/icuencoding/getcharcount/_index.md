@@ -1,5 +1,5 @@
 ---
-title: GetCharCount
+title: GetCharCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Get the number of characters needed to decode a byte buffer.
 type: docs

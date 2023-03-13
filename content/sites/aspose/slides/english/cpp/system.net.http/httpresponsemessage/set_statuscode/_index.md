@@ -1,12 +1,12 @@
 ---
-title: set_StatusCode
+title: set_StatusCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the HTTP status code.
 type: docs
 weight: 66
 url: /cpp/system.net.http/httpresponsemessage/set_statuscode/
 ---
-## HttpResponseMessage::set_StatusCode method
+## HttpResponseMessage::set_StatusCode([HttpStatusCode](../../../system.net/httpstatuscode/)) method
 
 
 Sets the HTTP status code.

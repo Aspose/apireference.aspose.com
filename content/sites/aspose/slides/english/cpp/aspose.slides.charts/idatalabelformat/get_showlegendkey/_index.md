@@ -1,12 +1,12 @@
 ---
-title: get_ShowLegendKey
+title: get_ShowLegendKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a specified chart's data label legend key display behavior. True if the data label legend key is visible. Read bool.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/idatalabelformat/get_showlegendkey/
 ---
-## IDataLabelFormat::get_ShowLegendKey method
+## IDataLabelFormat::get_ShowLegendKey() method
 
 
 Represents a specified chart's data label legend key display behavior. True if the data label legend key is visible. Read **bool**.

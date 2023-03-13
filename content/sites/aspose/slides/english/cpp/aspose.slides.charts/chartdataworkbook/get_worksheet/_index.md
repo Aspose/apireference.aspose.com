@@ -1,12 +1,12 @@
 ---
-title: get_Worksheet
+title: get_Worksheet()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns worksheet of this workbook at the specified index.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/chartdataworkbook/get_worksheet/
 ---
-## ChartDataWorkbook::get_Worksheet method
+## ChartDataWorkbook::get_Worksheet(**int32_t**) method
 
 
 Returns worksheet of this workbook at the specified index.

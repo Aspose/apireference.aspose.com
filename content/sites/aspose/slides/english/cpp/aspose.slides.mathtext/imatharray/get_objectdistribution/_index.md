@@ -1,12 +1,12 @@
 ---
-title: get_ObjectDistribution
+title: get_ObjectDistribution()
 second_title: Aspose.Slides for C++ API Reference
 description: Object Distribution When true, the contents of the array are spaced to the maximum width of the array object.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.mathtext/imatharray/get_objectdistribution/
 ---
-## IMathArray::get_ObjectDistribution method
+## IMathArray::get_ObjectDistribution() method
 
 
 Object Distribution When true, the contents of the array are spaced to the maximum width of the array object.

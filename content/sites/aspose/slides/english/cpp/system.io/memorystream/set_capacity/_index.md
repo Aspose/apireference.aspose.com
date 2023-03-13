@@ -1,12 +1,12 @@
 ---
-title: set_Capacity
+title: set_Capacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the capacity of the underlying memory buffer.
 type: docs
 weight: 14
 url: /cpp/system.io/memorystream/set_capacity/
 ---
-## MemoryStream::set_Capacity method
+## MemoryStream::set_Capacity(int) method
 
 
 Sets the capacity of the underlying memory buffer.

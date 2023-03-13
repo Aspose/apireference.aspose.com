@@ -1,12 +1,12 @@
 ---
-title: get_Removable
+title: get_Removable()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a flag indicating whether a key can be removed from a container.
 type: docs
 weight: 144
 url: /cpp/system.security.cryptography/cspkeycontainerinfo/get_removable/
 ---
-## CspKeyContainerInfo::get_Removable method
+## CspKeyContainerInfo::get_Removable() const method
 
 
 Gets a flag indicating whether a key can be removed from a container.

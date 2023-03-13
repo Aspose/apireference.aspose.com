@@ -1,12 +1,12 @@
 ---
-title: get_IncludeOption
+title: get_IncludeOption()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks which certificates from the chain will be included into the signature.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.pkcs/cmssigner/get_includeoption/
 ---
-## CmsSigner::get_IncludeOption method
+## CmsSigner::get_IncludeOption() const method
 
 
 Checks which certificates from the chain will be included into the signature.

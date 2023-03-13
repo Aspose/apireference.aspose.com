@@ -1,12 +1,12 @@
 ---
-title: RemoveField
+title: RemoveField()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts this field portion to the simple portion.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/iportion/removefield/
 ---
-## IPortion::RemoveField method
+## IPortion::RemoveField() method
 
 
 Converts this field portion to the simple portion.

@@ -1,12 +1,12 @@
 ---
-title: set_Formatting
+title: set_Formatting()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates how the output is formatted.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmltextwriter/set_formatting/
 ---
-## XmlTextWriter::set_Formatting method
+## XmlTextWriter::set_Formatting([System::Xml::Formatting](../../formatting/)) method
 
 
 Indicates how the output is formatted.

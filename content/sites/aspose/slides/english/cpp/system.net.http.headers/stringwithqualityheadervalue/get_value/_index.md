@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/stringwithqualityheadervalue/get_value/
 ---
-## StringWithQualityHeaderValue::get_Value method
+## StringWithQualityHeaderValue::get_Value() method
 
 
 Returns a value.

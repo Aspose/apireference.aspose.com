@@ -1,12 +1,12 @@
 ---
-title: get_PrimaryMonitorSize
+title: get_PrimaryMonitorSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1002
 url: /cpp/system.windows.forms/systeminformation/get_primarymonitorsize/
 ---
-## SystemInformation::get_PrimaryMonitorSize method
+## SystemInformation::get_PrimaryMonitorSize() method
 
 
 NOT IMPLEMENTED.

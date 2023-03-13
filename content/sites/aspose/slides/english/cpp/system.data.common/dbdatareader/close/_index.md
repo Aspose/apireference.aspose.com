@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes data retrieval channel.
 type: docs
 weight: 14
 url: /cpp/system.data.common/dbdatareader/close/
 ---
-## DbDataReader::Close method
+## DbDataReader::Close() method
 
 
 Closes data retrieval channel.

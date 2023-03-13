@@ -1,5 +1,5 @@
 ---
-title: Deserialize
+title: Deserialize()
 second_title: Aspose.Slides for C++ API Reference
 description: Deserializes XML document into object.
 type: docs

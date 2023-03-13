@@ -1,5 +1,5 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates default RSA aglorithm implementation.
 type: docs

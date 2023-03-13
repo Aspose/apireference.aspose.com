@@ -1,12 +1,12 @@
 ---
-title: get_Hyperlink
+title: get_Hyperlink()
 second_title: Aspose.Slides for C++ API Reference
 description: Color for the hyperlinks. Read-only IColorFormat.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.theme/icolorscheme/get_hyperlink/
 ---
-## IColorScheme::get_Hyperlink method
+## IColorScheme::get_Hyperlink() method
 
 
 Color for the hyperlinks. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the current BinaryWriter object and the underlying output stream.
 type: docs
 weight: 53
 url: /cpp/system.io/binarywriter/close/
 ---
-## BinaryWriter::Close method
+## BinaryWriter::Close() method
 
 
 Closes the current [BinaryWriter](../) object and the underlying output stream.

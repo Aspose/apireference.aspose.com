@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a directory at the path represented by the current object.
 type: docs
 weight: 66
 url: /cpp/system.io/directoryinfo/create/
 ---
-## DirectoryInfo::Create method
+## DirectoryInfo::Create() method
 
 
 Creates a directory at the path represented by the current object.

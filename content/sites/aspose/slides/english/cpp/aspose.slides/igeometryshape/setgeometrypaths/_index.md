@@ -1,12 +1,12 @@
 ---
-title: SetGeometryPaths
+title: SetGeometryPaths()
 second_title: Aspose.Slides for C++ API Reference
 description: "Updates shape geometry from array of IGeometryPath. Coordinates must be relative to the left top corner of the shape. Changes the type of the shape (ShapeType) to ShapeType::Custom."
 type: docs
 weight: 79
 url: /cpp/aspose.slides/igeometryshape/setgeometrypaths/
 ---
-## IGeometryShape::SetGeometryPaths method
+## IGeometryShape::SetGeometryPaths([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IGeometryPath](../../igeometrypath/)\>\>) method
 
 
 Updates shape geometry from array of [IGeometryPath](../../igeometrypath/). Coordinates must be relative to the left top corner of the shape. Changes the type of the shape ([ShapeType](../../shapetype/)) to [ShapeType::Custom](../../shapetype/).

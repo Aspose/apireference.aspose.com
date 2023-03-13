@@ -1,12 +1,12 @@
 ---
-title: get_Instance
+title: get_Instance()
 second_title: Aspose.Slides for C++ API Reference
 description: A 'singleton' implementation. Always returns the same instance of this class.
 type: docs
 weight: 1
 url: /cpp/system.net/cookiecomparer/get_instance/
 ---
-## CookieComparer::get_Instance method
+## CookieComparer::get_Instance() method
 
 
 A 'singleton' implementation. Always returns the same instance of this class.

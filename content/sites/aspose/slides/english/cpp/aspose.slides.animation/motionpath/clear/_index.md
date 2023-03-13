@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all commands from the collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/motionpath/clear/
 ---
-## MotionPath::Clear method
+## MotionPath::Clear() method
 
 
 Removes all commands from the collection.

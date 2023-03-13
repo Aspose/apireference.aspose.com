@@ -1,12 +1,12 @@
 ---
-title: get_AsyncWaitHandle
+title: get_AsyncWaitHandle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an instance of WaitHandle that can be used to wait for the completion of the asynchronous operation.
 type: docs
 weight: 40
 url: /cpp/system/iasyncresult/get_asyncwaithandle/
 ---
-## IAsyncResult::get_AsyncWaitHandle method
+## IAsyncResult::get_AsyncWaitHandle() method
 
 
 Returns an instance of WaitHandle that can be used to wait for the completion of the asynchronous operation.

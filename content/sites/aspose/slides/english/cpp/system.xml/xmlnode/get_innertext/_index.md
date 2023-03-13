@@ -1,12 +1,12 @@
 ---
-title: get_InnerText
+title: get_InnerText()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the concatenated values of the node and all its child nodes.
 type: docs
 weight: 235
 url: /cpp/system.xml/xmlnode/get_innertext/
 ---
-## XmlNode::get_InnerText method
+## XmlNode::get_InnerText() method
 
 
 Returns the concatenated values of the node and all its child nodes.

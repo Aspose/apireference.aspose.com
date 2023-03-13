@@ -1,12 +1,12 @@
 ---
-title: Set
+title: Set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets event to signalling state.
 type: docs
 weight: 40
 url: /cpp/system.threading/eventwaithandle/set/
 ---
-## EventWaitHandle::Set method
+## EventWaitHandle::Set() method
 
 
 Sets event to signalling state.

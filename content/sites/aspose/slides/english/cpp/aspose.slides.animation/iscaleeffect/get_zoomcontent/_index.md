@@ -1,12 +1,12 @@
 ---
-title: get_ZoomContent
+title: get_ZoomContent()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a content should be zoomed. Read NullableBool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.animation/iscaleeffect/get_zoomcontent/
 ---
-## IScaleEffect::get_ZoomContent method
+## IScaleEffect::get_ZoomContent() method
 
 
 Determines whether a content should be zoomed. Read [NullableBool](../../../aspose.slides/nullablebool/).

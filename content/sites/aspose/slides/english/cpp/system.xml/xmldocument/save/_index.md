@@ -1,5 +1,5 @@
 ---
-title: Save
+title: Save()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves the XML document to the specified file. If the specified file exists, this method overwrites it.
 type: docs

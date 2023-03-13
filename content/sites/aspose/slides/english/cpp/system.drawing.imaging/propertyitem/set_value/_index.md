@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the type of the property represented by the current object in bytes.
 type: docs
 weight: 105
 url: /cpp/system.drawing.imaging/propertyitem/set_value/
 ---
-## PropertyItem::set_Value method
+## PropertyItem::set_Value(const [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
 
 
 Sets the type of the property represented by the current object in bytes.

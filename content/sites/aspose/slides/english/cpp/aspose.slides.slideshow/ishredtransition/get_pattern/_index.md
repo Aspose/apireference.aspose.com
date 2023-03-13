@@ -1,12 +1,12 @@
 ---
-title: get_Pattern
+title: get_Pattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the shape of the visuals used during the transition. Read TransitionShredPattern.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.slideshow/ishredtransition/get_pattern/
 ---
-## IShredTransition::get_Pattern method
+## IShredTransition::get_Pattern() method
 
 
 Specifies the shape of the visuals used during the transition. Read [TransitionShredPattern](../../transitionshredpattern/).

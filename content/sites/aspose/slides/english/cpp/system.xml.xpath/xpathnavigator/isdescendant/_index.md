@@ -1,12 +1,12 @@
 ---
-title: IsDescendant
+title: IsDescendant()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified XPathNavigator is a descendant of the current XPathNavigator.
 type: docs
 weight: 729
 url: /cpp/system.xml.xpath/xpathnavigator/isdescendant/
 ---
-## XPathNavigator::IsDescendant method
+## XPathNavigator::IsDescendant([SharedPtr](../../../system/sharedptr/)\<[XPathNavigator](../)\>) method
 
 
 Determines whether the specified [XPathNavigator](../) is a descendant of the current [XPathNavigator](../).

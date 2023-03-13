@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsInt
+title: get_ValueAsInt()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current node's value as an Int32.
 type: docs
 weight: 92
 url: /cpp/system.xml.xpath/xpathnavigator/get_valueasint/
 ---
-## XPathNavigator::get_ValueAsInt method
+## XPathNavigator::get_ValueAsInt() method
 
 
 Returns the current node's value as an [Int32](../../../system/int32/).

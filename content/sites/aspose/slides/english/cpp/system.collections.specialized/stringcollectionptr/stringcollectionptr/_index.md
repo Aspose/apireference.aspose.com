@@ -1,5 +1,5 @@
 ---
-title: StringCollectionPtr
+title: StringCollectionPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs null pointer.
 type: docs

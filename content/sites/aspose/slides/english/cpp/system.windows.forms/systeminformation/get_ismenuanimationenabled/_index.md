@@ -1,12 +1,12 @@
 ---
-title: get_IsMenuAnimationEnabled
+title: get_IsMenuAnimationEnabled()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 508
 url: /cpp/system.windows.forms/systeminformation/get_ismenuanimationenabled/
 ---
-## SystemInformation::get_IsMenuAnimationEnabled method
+## SystemInformation::get_IsMenuAnimationEnabled() method
 
 
 NOT IMPLEMENTED.

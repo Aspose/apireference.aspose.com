@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether the array is read-only.
 type: docs
 weight: 105
 url: /cpp/system/array/get_isreadonly/
 ---
-## Array::get_IsReadOnly method
+## Array::get_IsReadOnly() const method
 
 
 Indicates whether the array is read-only.

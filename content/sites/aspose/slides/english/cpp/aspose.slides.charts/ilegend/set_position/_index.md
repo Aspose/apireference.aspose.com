@@ -1,12 +1,12 @@
 ---
-title: set_Position
+title: set_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the position of the legend on a chart. Non-NaN values of X, Y, Width, Heigt properties override effect of this property. Write LegendPositionType.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ilegend/set_position/
 ---
-## ILegend::set_Position method
+## ILegend::set_Position([LegendPositionType](../../legendpositiontype/)) method
 
 
 Specifies the position of the legend on a chart. Non-NaN values of X, Y, Width, Heigt properties override effect of this property. Write [LegendPositionType](../../legendpositiontype/).

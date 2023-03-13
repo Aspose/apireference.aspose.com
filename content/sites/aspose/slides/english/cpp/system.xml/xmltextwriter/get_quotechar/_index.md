@@ -1,12 +1,12 @@
 ---
-title: get_QuoteChar
+title: get_QuoteChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns which character to use to quote attribute values.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmltextwriter/get_quotechar/
 ---
-## XmlTextWriter::get_QuoteChar method
+## XmlTextWriter::get_QuoteChar() method
 
 
 Returns which character to use to quote attribute values.

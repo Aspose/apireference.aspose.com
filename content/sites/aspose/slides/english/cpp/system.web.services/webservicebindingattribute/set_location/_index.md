@@ -1,12 +1,12 @@
 ---
-title: set_Location
+title: set_Location()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the location where the binding is defined.
 type: docs
 weight: 14
 url: /cpp/system.web.services/webservicebindingattribute/set_location/
 ---
-## WebServiceBindingAttribute::set_Location method
+## WebServiceBindingAttribute::set_Location([String](../../../system/string/)) method
 
 
 Sets the location where the binding is defined.

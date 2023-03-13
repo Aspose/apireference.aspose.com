@@ -1,12 +1,12 @@
 ---
-title: get_EnglishName
+title: get_EnglishName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets culture English name.
 type: docs
 weight: 27
 url: /cpp/system.globalization/cultureinfo/get_englishname/
 ---
-## CultureInfo::get_EnglishName method
+## CultureInfo::get_EnglishName() const method
 
 
 Gets culture English name.

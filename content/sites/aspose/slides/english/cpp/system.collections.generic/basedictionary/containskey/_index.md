@@ -1,12 +1,12 @@
 ---
-title: ContainsKey
+title: ContainsKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if key is present in dictionary.
 type: docs
 weight: 118
 url: /cpp/system.collections.generic/basedictionary/containskey/
 ---
-## BaseDictionary::ContainsKey method
+## BaseDictionary::ContainsKey(const key_t\&) const method
 
 
 Checks if key is present in dictionary.

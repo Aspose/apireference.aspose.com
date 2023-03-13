@@ -1,12 +1,12 @@
 ---
-title: get_KeySize
+title: get_KeySize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets key size.
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/get_keysize/
 ---
-## DSACryptoServiceProvider::get_KeySize method
+## DSACryptoServiceProvider::get_KeySize() method
 
 
 Gets key size.

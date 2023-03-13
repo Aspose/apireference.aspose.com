@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases resources owned by the current object.
 type: docs
 weight: 105
 url: /cpp/system.security.cryptography/asymmetricalgorithm/dispose/
 ---
-## AsymmetricAlgorithm::Dispose method
+## AsymmetricAlgorithm::Dispose() method
 
 
 Releases resources owned by the current object.

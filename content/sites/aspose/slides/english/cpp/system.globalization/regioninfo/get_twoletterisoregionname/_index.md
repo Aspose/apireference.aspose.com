@@ -1,12 +1,12 @@
 ---
-title: get_TwoLetterISORegionName
+title: get_TwoLetterISORegionName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets 2 letter ISO region code.
 type: docs
 weight: 105
 url: /cpp/system.globalization/regioninfo/get_twoletterisoregionname/
 ---
-## RegionInfo::get_TwoLetterISORegionName method
+## RegionInfo::get_TwoLetterISORegionName() const method
 
 
 Gets 2 letter ISO region code.

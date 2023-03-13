@@ -1,12 +1,12 @@
 ---
-title: set_FriendlyName
+title: set_FriendlyName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets user-friendly name of object.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/oid/set_friendlyname/
 ---
-## Oid::set_FriendlyName method
+## Oid::set_FriendlyName(const [String](../../../system/string/)\&) method
 
 
 Sets user-friendly name of object.

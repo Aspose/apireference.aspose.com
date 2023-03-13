@@ -1,12 +1,12 @@
 ---
-title: set_PathEditMode
+title: set_PathEditMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies how the motion path moves when shape is moved. Write MotionPathEditMode.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.animation/imotioneffect/set_patheditmode/
 ---
-## IMotionEffect::set_PathEditMode method
+## IMotionEffect::set_PathEditMode([MotionPathEditMode](../../motionpatheditmode/)) method
 
 
 Specifies how the motion path moves when shape is moved. Write [MotionPathEditMode](../../motionpatheditmode/).

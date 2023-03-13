@@ -1,12 +1,12 @@
 ---
-title: get_Data
+title: get_Data()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns Data object. Read System::Object."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/doublechartvalue/get_data/
 ---
-## DoubleChartValue::get_Data method
+## DoubleChartValue::get_Data() method
 
 
 Returns Data object. Read [System::Object](../../../system/object/).

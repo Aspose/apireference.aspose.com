@@ -1,12 +1,12 @@
 ---
-title: set_Compliance
+title: set_Compliance()
 second_title: Aspose.Slides for C++ API Reference
 description: Desired conformance level for generated PDF document. Write PdfCompliance.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.export/pdfoptions/set_compliance/
 ---
-## PdfOptions::set_Compliance method
+## PdfOptions::set_Compliance([PdfCompliance](../../pdfcompliance/)) method
 
 
 Desired conformance level for generated PDF document. Write [PdfCompliance](../../pdfcompliance/).

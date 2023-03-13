@@ -1,12 +1,12 @@
 ---
-title: set_BypassList
+title: set_BypassList()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the list of addresses that do not use the proxy server.
 type: docs
 weight: 66
 url: /cpp/system.net/webproxy/set_bypasslist/
 ---
-## WebProxy::set_BypassList method
+## WebProxy::set_BypassList([System::ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>) method
 
 
 Sets the list of addresses that do not use the proxy server.

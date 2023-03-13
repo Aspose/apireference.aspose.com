@@ -1,15 +1,15 @@
 ---
-title: set_Id
+title: set_Id()
 second_title: Aspose.Slides for C++ API Reference
-description: Gets shape id.
+description: Gets shape id
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/svgshape/set_id/
 ---
-## SvgShape::set_Id method
+## SvgShape::set_Id([System::String](../../../system/string/)) method
 
 
-Gets shape id.
+Gets shape id
 
 ```cpp
 void Aspose::Slides::Export::SvgShape::set_Id(System::String value) override

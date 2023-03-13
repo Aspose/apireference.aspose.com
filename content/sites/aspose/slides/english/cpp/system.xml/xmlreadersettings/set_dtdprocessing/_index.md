@@ -1,12 +1,12 @@
 ---
-title: set_DtdProcessing
+title: set_DtdProcessing()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that determines the processing of DTDs.
 type: docs
 weight: 313
 url: /cpp/system.xml/xmlreadersettings/set_dtdprocessing/
 ---
-## XmlReaderSettings::set_DtdProcessing method
+## XmlReaderSettings::set_DtdProcessing([System::Xml::DtdProcessing](../../dtdprocessing/)) method
 
 
 Sets a value that determines the processing of DTDs.

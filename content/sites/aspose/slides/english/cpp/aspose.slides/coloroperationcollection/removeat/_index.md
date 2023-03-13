@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the color operation from a collection.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/coloroperationcollection/removeat/
 ---
-## ColorOperationCollection::RemoveAt method
+## ColorOperationCollection::RemoveAt(**int32_t**) method
 
 
 Removes the color operation from a collection.

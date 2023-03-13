@@ -1,12 +1,12 @@
 ---
-title: get_Timing
+title: get_Timing()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines timing value for effect. Read ITiming.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/ieffect/get_timing/
 ---
-## IEffect::get_Timing method
+## IEffect::get_Timing() method
 
 
 Defines timing value for effect. Read [ITiming](../../itiming/).

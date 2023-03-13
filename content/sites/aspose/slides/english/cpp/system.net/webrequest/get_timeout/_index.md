@@ -1,12 +1,12 @@
 ---
-title: get_Timeout
+title: get_Timeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets an amount of time in milliseconds after which the request will be timed out.
 type: docs
 weight: 443
 url: /cpp/system.net/webrequest/get_timeout/
 ---
-## WebRequest::get_Timeout method
+## WebRequest::get_Timeout() method
 
 
 Gets an amount of time in milliseconds after which the request will be timed out.

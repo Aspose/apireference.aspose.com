@@ -1,12 +1,12 @@
 ---
-title: set_HasDataTable
+title: set_HasDataTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a chart has a data table. Write bool.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/ichart/set_hasdatatable/
 ---
-## IChart::set_HasDataTable method
+## IChart::set_HasDataTable(**bool**) method
 
 
 Determines whether a chart has a data table. Write **bool**.

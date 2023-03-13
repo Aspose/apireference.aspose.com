@@ -1,5 +1,5 @@
 ---
-title: GroupCollectionPtr
+title: GroupCollectionPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Null pointer constructor.
 type: docs

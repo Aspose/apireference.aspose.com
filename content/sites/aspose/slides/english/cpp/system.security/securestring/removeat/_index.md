@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the character at the specified position.
 type: docs
 weight: 131
 url: /cpp/system.security/securestring/removeat/
 ---
-## SecureString::RemoveAt method
+## SecureString::RemoveAt(**int32_t**) method
 
 
 Removes the character at the specified position.

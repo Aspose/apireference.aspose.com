@@ -1,12 +1,12 @@
 ---
-title: get_Text
+title: get_Text()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the plain text of a portion. Read System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/iportion/get_text/
 ---
-## IPortion::get_Text method
+## IPortion::get_Text() method
 
 
 Gets the plain text of a portion. Read [System::String](../../../system/string/).

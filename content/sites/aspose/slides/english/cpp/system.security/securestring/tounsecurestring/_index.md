@@ -1,12 +1,12 @@
 ---
-title: ToUnsecureString
+title: ToUnsecureString()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies contents of this secure string into unsecure String object. Use with caution.
 type: docs
 weight: 170
 url: /cpp/system.security/securestring/tounsecurestring/
 ---
-## SecureString::ToUnsecureString method
+## SecureString::ToUnsecureString() const method
 
 
 Copies contents of this secure string into unsecure [String](../../../system/string/) object. Use with caution.

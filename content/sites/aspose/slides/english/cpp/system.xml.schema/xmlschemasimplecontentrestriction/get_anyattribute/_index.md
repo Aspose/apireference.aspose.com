@@ -1,12 +1,12 @@
 ---
-title: get_AnyAttribute
+title: get_AnyAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlSchemaAnyAttribute to be used for the attribute value.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/get_anyattribute/
 ---
-## XmlSchemaSimpleContentRestriction::get_AnyAttribute method
+## XmlSchemaSimpleContentRestriction::get_AnyAttribute() method
 
 
 Returns an [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/) to be used for the attribute value.

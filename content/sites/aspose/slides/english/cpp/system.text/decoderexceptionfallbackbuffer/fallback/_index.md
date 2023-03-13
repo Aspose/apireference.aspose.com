@@ -1,12 +1,12 @@
 ---
-title: Fallback
+title: Fallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Handles decoding failure.
 type: docs
 weight: 27
 url: /cpp/system.text/decoderexceptionfallbackbuffer/fallback/
 ---
-## DecoderExceptionFallbackBuffer::Fallback method
+## DecoderExceptionFallbackBuffer::Fallback([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int) method
 
 
 Handles decoding failure.

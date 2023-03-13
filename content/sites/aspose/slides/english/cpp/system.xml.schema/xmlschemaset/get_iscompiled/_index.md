@@ -1,12 +1,12 @@
 ---
-title: get_IsCompiled
+title: get_IsCompiled()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates whether the XML Schema definition language (XSD) schemas in the XmlSchemaSet have been compiled.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaset/get_iscompiled/
 ---
-## XmlSchemaSet::get_IsCompiled method
+## XmlSchemaSet::get_IsCompiled() method
 
 
 Returns a value that indicates whether the XML [Schema](../../) definition language (XSD) schemas in the [XmlSchemaSet](../) have been compiled.

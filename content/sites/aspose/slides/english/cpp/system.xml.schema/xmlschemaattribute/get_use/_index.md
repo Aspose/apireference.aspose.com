@@ -1,12 +1,12 @@
 ---
-title: get_Use
+title: get_Use()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns information about how the attribute is used.
 type: docs
 weight: 183
 url: /cpp/system.xml.schema/xmlschemaattribute/get_use/
 ---
-## XmlSchemaAttribute::get_Use method
+## XmlSchemaAttribute::get_Use() method
 
 
 Returns information about how the attribute is used.

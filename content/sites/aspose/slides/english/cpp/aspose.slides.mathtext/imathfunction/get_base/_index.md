@@ -1,15 +1,15 @@
 ---
-title: get_Base
+title: get_Base()
 second_title: Aspose.Slides for C++ API Reference
-description: Function Argument.
+description: Function Argument
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathfunction/get_base/
 ---
-## IMathFunction::get_Base method
+## IMathFunction::get_Base() method
 
 
-Function Argument.
+Function Argument
 
 ```cpp
 virtual System::SharedPtr<IMathElement> Aspose::Slides::MathText::IMathFunction::get_Base()=0

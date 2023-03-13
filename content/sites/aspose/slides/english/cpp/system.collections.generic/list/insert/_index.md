@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts item at specified position.
 type: docs
 weight: 235
 url: /cpp/system.collections.generic/list/insert/
 ---
-## List::Insert method
+## List::Insert(int, const T\&) method
 
 
 Inserts item at specified position.

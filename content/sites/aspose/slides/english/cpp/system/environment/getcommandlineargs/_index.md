@@ -1,12 +1,12 @@
 ---
-title: GetCommandLineArgs
+title: GetCommandLineArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing the command-line arguments used to start the current process.
 type: docs
 weight: 274
 url: /cpp/system/environment/getcommandlineargs/
 ---
-## Environment::GetCommandLineArgs method
+## Environment::GetCommandLineArgs() method
 
 
 Returns an array containing the command-line arguments used to start the current process.

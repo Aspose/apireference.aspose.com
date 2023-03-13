@@ -1,12 +1,12 @@
 ---
-title: get_HasLegend
+title: get_HasLegend()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a chart has a legend. Read bool.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/ichart/get_haslegend/
 ---
-## IChart::get_HasLegend method
+## IChart::get_HasLegend() method
 
 
 Determines whether a chart has a legend. Read **bool**.

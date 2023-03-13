@@ -1,12 +1,12 @@
 ---
-title: operator+=
+title: operator+=()
 second_title: Aspose.Slides for C++ API Reference
 description: Assigns to the current object a new value that is a sum of values represented by the current and specified objects.
 type: docs
 weight: 248
 url: /cpp/system/decimal/operator_plus_equal/
 ---
-## Decimal::operator+= method
+## Decimal::operator+=(const [Decimal](../)\&) method
 
 
 Assigns to the current object a new value that is a sum of values represented by the current and specified objects.

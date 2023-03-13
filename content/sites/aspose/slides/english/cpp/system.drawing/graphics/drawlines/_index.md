@@ -1,5 +1,5 @@
 ---
-title: DrawLines
+title: DrawLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws a series of line segments using the specified pen.
 type: docs

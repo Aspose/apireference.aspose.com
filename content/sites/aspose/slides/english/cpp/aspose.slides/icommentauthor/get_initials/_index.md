@@ -1,12 +1,12 @@
 ---
-title: get_Initials
+title: get_Initials()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the authors initials. Read System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/icommentauthor/get_initials/
 ---
-## ICommentAuthor::get_Initials method
+## ICommentAuthor::get_Initials() method
 
 
 Returns the authors initials. Read [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: get_EOF
+title: get_EOF()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the reader is positioned at the end of the stream.
 type: docs
 weight: 209
 url: /cpp/system.xml/xmlnodereader/get_eof/
 ---
-## XmlNodeReader::get_EOF method
+## XmlNodeReader::get_EOF() method
 
 
 Returns a value indicating whether the reader is positioned at the end of the stream.

@@ -1,12 +1,12 @@
 ---
-title: Log10
+title: Log10()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the base-10 logarithm of the specified value.
 type: docs
 weight: 209
 url: /cpp/system/math/log10/
 ---
-## Math::Log10 method
+## Math::Log10(**double**) method
 
 
 Returns the base-10 logarithm of the specified value.

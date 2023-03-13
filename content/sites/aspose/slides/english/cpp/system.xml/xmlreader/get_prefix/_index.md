@@ -1,12 +1,12 @@
 ---
-title: get_Prefix
+title: get_Prefix()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the namespace prefix associated with the current node.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlreader/get_prefix/
 ---
-## XmlReader::get_Prefix method
+## XmlReader::get_Prefix() method
 
 
 When overridden in a derived class, gets the namespace prefix associated with the current node.

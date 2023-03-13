@@ -1,12 +1,12 @@
 ---
-title: get_ThreadState
+title: get_ThreadState()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets thread state.
 type: docs
 weight: 183
 url: /cpp/system.threading/thread/get_threadstate/
 ---
-## Thread::get_ThreadState method
+## Thread::get_ThreadState() method
 
 
 Gets thread state.

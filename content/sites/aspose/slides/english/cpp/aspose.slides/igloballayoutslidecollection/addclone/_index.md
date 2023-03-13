@@ -1,5 +1,5 @@
 ---
-title: AddClone
+title: AddClone()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a copy of a specified layout slide to the presentation.
 type: docs

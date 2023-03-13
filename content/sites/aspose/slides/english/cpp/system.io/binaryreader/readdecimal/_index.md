@@ -1,12 +1,12 @@
 ---
-title: ReadDecimal
+title: ReadDecimal()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 274
 url: /cpp/system.io/binaryreader/readdecimal/
 ---
-## BinaryReader::ReadDecimal method
+## BinaryReader::ReadDecimal() method
 
 
 NOT IMPLEMENTED.

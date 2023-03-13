@@ -1,12 +1,12 @@
 ---
-title: get_CanReuseTransform
+title: get_CanReuseTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value indicating whether the current transform can be reused.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/frombase64transform/get_canreusetransform/
 ---
-## FromBase64Transform::get_CanReuseTransform method
+## FromBase64Transform::get_CanReuseTransform() method
 
 
 Gets a value indicating whether the current transform can be reused.

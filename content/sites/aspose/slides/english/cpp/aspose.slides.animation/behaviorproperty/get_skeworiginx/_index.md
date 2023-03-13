@@ -1,15 +1,15 @@
 ---
-title: get_SkewOriginX
+title: get_SkewOriginX()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'skew.origin.x' property.
+description: Represents 'skew.origin.x' property
 type: docs
 weight: 1184
 url: /cpp/aspose.slides.animation/behaviorproperty/get_skeworiginx/
 ---
-## BehaviorProperty::get_SkewOriginX method
+## BehaviorProperty::get_SkewOriginX() method
 
 
-Represents 'skew.origin.x' property.
+Represents 'skew.origin.x' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_SkewOriginX()

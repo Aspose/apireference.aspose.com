@@ -1,7 +1,7 @@
 ---
-title: CreateMathParagraph
+title: CreateMathParagraph()
 second_title: Aspose.Slides for C++ API Reference
-description: Create empty math paragraph.
+description: Create empty math paragraph
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathparagraphfactory/createmathparagraph/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathparagraphfactory/createmathparagraph/
 ## IMathParagraphFactory::CreateMathParagraph() method
 
 
-Create empty math paragraph.
+Create empty math paragraph
 
 ```cpp
 virtual System::SharedPtr<IMathParagraph> Aspose::Slides::MathText::IMathParagraphFactory::CreateMathParagraph()=0
@@ -30,7 +30,7 @@ new math paragraph
 ## IMathParagraphFactory::CreateMathParagraph([System::SharedPtr](../../../system/sharedptr/)\<[IMathBlock](../../imathblock/)\>) method
 
 
-Creates a math paragraph and places the specified math block in it.
+Creates a math paragraph and places the specified math block in it
 
 ```cpp
 virtual System::SharedPtr<IMathParagraph> Aspose::Slides::MathText::IMathParagraphFactory::CreateMathParagraph(System::SharedPtr<IMathBlock> mathBlock)=0

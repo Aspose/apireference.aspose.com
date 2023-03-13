@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares objects using C# Object.Equals semantics.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/authenticationheadervalue/equals/
 ---
-## AuthenticationHeaderValue::Equals method
+## AuthenticationHeaderValue::Equals([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Compares objects using C# [Object.Equals](../../../system/object/equals/) semantics.

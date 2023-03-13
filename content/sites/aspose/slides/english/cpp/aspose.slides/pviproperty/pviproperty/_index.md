@@ -1,12 +1,12 @@
 ---
-title: PVIProperty
+title: PVIProperty()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/aspose.slides/pviproperty/pviproperty/
 ---
-## PVIProperty::PVIProperty constructor
+## PVIProperty::PVIProperty(T, Aspose::Foundation::Portable::Func1\<TRealObject, T\>, [SetHandler](../sethandler/)) constructor
 
 
 

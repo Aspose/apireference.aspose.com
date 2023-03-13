@@ -1,12 +1,12 @@
 ---
-title: set_Type
+title: set_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the bullet type of a paragraph with no inheritance. Write BulletType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ibulletformat/set_type/
 ---
-## IBulletFormat::set_Type method
+## IBulletFormat::set_Type([BulletType](../../bullettype/)) method
 
 
 Sets the bullet type of a paragraph with no inheritance. Write [BulletType](../../bullettype/).

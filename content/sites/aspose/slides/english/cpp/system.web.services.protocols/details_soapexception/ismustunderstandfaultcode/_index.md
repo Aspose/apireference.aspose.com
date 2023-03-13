@@ -1,12 +1,12 @@
 ---
-title: IsMustUnderstandFaultCode
+title: IsMustUnderstandFaultCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the specified code is equal to the 'MustUnderstand' SOAP fault code.
 type: docs
 weight: 118
 url: /cpp/system.web.services.protocols/details_soapexception/ismustunderstandfaultcode/
 ---
-## Details_SoapException::IsMustUnderstandFaultCode method
+## Details_SoapException::IsMustUnderstandFaultCode([System::SharedPtr](../../../system/sharedptr/)\<[Xml::XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>) method
 
 
 Checks if the specified code is equal to the 'MustUnderstand' SOAP fault code.

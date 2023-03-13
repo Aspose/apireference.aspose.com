@@ -1,5 +1,5 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies the file represented by the current object to the specified location. If the destination file already exists, the copying fails.
 type: docs

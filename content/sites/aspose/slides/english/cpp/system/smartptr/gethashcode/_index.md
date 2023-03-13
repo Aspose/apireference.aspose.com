@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Calls GetHashCode() on pointed object.
 type: docs
 weight: 430
 url: /cpp/system/smartptr/gethashcode/
 ---
-## SmartPtr::GetHashCode method
+## SmartPtr::GetHashCode() const method
 
 
 Calls [GetHashCode()](./) on pointed object.

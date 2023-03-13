@@ -1,12 +1,12 @@
 ---
-title: get_LatinFont
+title: get_LatinFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Latin font info. Null means font is undefined and should be inherited from the Master. Read IFontData.
 type: docs
 weight: 365
 url: /cpp/aspose.slides/ibaseportionformat/get_latinfont/
 ---
-## IBasePortionFormat::get_LatinFont method
+## IBasePortionFormat::get_LatinFont() method
 
 
 Returns the Latin font info. Null means font is undefined and should be inherited from the Master. Read [IFontData](../../ifontdata/).

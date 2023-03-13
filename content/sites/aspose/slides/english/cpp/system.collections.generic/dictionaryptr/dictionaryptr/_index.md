@@ -1,5 +1,5 @@
 ---
-title: DictionaryPtr
+title: DictionaryPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes null pointer.
 type: docs

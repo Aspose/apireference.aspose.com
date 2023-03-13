@@ -1,12 +1,12 @@
 ---
-title: SetTemplateWeakPtr
+title: SetTemplateWeakPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Formal implementation of weak template arguments mechanism; inapplicable to this class.
 type: docs
 weight: 287
 url: /cpp/system.collections/bitarray/settemplateweakptr/
 ---
-## BitArray::SetTemplateWeakPtr method
+## BitArray::SetTemplateWeakPtr(**uint32_t**) method
 
 
 Formal implementation of weak template arguments mechanism; inapplicable to this class.

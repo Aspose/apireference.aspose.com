@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets index of item in container.
 type: docs
 weight: 92
 url: /cpp/system.collections.generic/ikvcollection/indexof/
 ---
-## IKVCollection::IndexOf method
+## IKVCollection::IndexOf(const T\&) const method
 
 
 Gets index of item in container.

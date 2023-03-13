@@ -1,12 +1,12 @@
 ---
-title: IsWhitespaceChar
+title: IsWhitespaceChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the passed-in character is a valid XML whitespace character.
 type: docs
 weight: 209
 url: /cpp/system.xml/xmlconvert/iswhitespacechar/
 ---
-## XmlConvert::IsWhitespaceChar method
+## XmlConvert::IsWhitespaceChar(char16_t) method
 
 
 Checks if the passed-in character is a valid XML whitespace character.

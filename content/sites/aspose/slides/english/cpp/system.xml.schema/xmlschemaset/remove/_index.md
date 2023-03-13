@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified XML Schema definition language (XSD) schema from the XmlSchemaSet.
 type: docs
 weight: 170
 url: /cpp/system.xml.schema/xmlschemaset/remove/
 ---
-## XmlSchemaSet::Remove method
+## XmlSchemaSet::Remove(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchema](../../xmlschema/)\>\&) method
 
 
 Removes the specified XML [Schema](../../) definition language (XSD) schema from the [XmlSchemaSet](../).

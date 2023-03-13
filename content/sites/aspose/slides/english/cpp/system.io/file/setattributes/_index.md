@@ -1,12 +1,12 @@
 ---
-title: SetAttributes
+title: SetAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the specified attributes on the specified file.
 type: docs
 weight: 352
 url: /cpp/system.io/file/setattributes/
 ---
-## File::SetAttributes method
+## File::SetAttributes(const [String](../../../system/string/)\&, [FileAttributes](../../fileattributes/)) method
 
 
 Sets the specified attributes on the specified file.

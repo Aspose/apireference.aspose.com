@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/derivebytes/reset/
 ---
-## DeriveBytes::Reset method
+## DeriveBytes::Reset() method
 
 
 

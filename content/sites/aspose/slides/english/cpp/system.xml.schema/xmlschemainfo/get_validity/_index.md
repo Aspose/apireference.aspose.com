@@ -1,12 +1,12 @@
 ---
-title: get_Validity
+title: get_Validity()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchemaValidity value of this validated XML node.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemainfo/get_validity/
 ---
-## XmlSchemaInfo::get_Validity method
+## XmlSchemaInfo::get_Validity() method
 
 
 Returns the XmlSchemaValidity value of this validated XML node.

@@ -1,7 +1,7 @@
 ---
 title: FontSubstCondition
 second_title: Aspose.Slides for C++ API Reference
-description: Represents a rule fot font substitution.
+description: Represents a rule fot font substitution
 type: docs
 weight: 5799
 url: /cpp/aspose.slides/fontsubstcondition/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/fontsubstcondition/
 ## FontSubstCondition enum
 
 
-Represents a rule fot font substitution.
+Represents a rule fot font substitution
 
 ```cpp
 enum class FontSubstCondition
@@ -19,8 +19,8 @@ enum class FontSubstCondition
 
 | Name | Value | Description |
 | --- | --- | --- |
-| WhenInaccessible | 0 | Substitute when font is not found. |
-| Always | 1 | Substitute always. |
+| WhenInaccessible | 0 | Substitute when font is not found |
+| Always | 1 | Substitute always |
 
 ## See Also
 

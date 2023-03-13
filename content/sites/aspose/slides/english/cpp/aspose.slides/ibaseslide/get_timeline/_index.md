@@ -1,12 +1,12 @@
 ---
-title: get_Timeline
+title: get_Timeline()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns animation timeline object. Read-only IAnimationTimeLine.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/ibaseslide/get_timeline/
 ---
-## IBaseSlide::get_Timeline method
+## IBaseSlide::get_Timeline() method
 
 
 Returns animation timeline object. Read-only [IAnimationTimeLine](../../ianimationtimeline/).

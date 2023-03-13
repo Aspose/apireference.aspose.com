@@ -1,12 +1,12 @@
 ---
-title: set_IndentChar
+title: set_IndentChar()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets which character to use for indenting when XmlTextWriter::set_Formatting is set to Formatting::Indented."
 type: docs
 weight: 105
 url: /cpp/system.xml/xmltextwriter/set_indentchar/
 ---
-## XmlTextWriter::set_IndentChar method
+## XmlTextWriter::set_IndentChar(char16_t) method
 
 
 Sets which character to use for indenting when [XmlTextWriter::set_Formatting](../set_formatting/) is set to [Formatting::Indented](../../formatting/).

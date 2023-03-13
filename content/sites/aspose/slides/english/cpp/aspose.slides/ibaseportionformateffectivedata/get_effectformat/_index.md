@@ -1,12 +1,12 @@
 ---
-title: get_EffectFormat
+title: get_EffectFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text EffectFormat properties. Read-only IEffectFormatEffectiveData.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ibaseportionformateffectivedata/get_effectformat/
 ---
-## IBasePortionFormatEffectiveData::get_EffectFormat method
+## IBasePortionFormatEffectiveData::get_EffectFormat() method
 
 
 Returns the text [EffectFormat](../../effectformat/) properties. Read-only [IEffectFormatEffectiveData](../../ieffectformateffectivedata/).

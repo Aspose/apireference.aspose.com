@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets string representation of the algorithm name.
 type: docs
 weight: 131
 url: /cpp/system.security.cryptography/hashalgorithmname/get_name/
 ---
-## HashAlgorithmName::get_Name method
+## HashAlgorithmName::get_Name() const method
 
 
 Gets string representation of the algorithm name.

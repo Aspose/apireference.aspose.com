@@ -1,12 +1,12 @@
 ---
-title: get_ThreeDFormat
+title: get_ThreeDFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an 3d format. Read-only IThreeDFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.theme/effectstyle/get_threedformat/
 ---
-## EffectStyle::get_ThreeDFormat method
+## EffectStyle::get_ThreeDFormat() method
 
 
 Returns an 3d format. Read-only [IThreeDFormat](../../../aspose.slides/ithreedformat/).

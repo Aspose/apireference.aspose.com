@@ -1,12 +1,12 @@
 ---
-title: get_UTF32
+title: get_UTF32()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 456
 url: /cpp/system.text/encoding/get_utf32/
 ---
-## Encoding::get_UTF32 method
+## Encoding::get_UTF32() method
 
 
 

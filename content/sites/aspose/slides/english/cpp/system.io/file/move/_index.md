@@ -1,12 +1,12 @@
 ---
-title: Move
+title: Move()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the specified file to the new location.
 type: docs
 weight: 222
 url: /cpp/system.io/file/move/
 ---
-## File::Move method
+## File::Move(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Moves the specified file to the new location.

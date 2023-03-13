@@ -1,12 +1,12 @@
 ---
-title: ToBoolean
+title: ToBoolean()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a bool.
 type: docs
 weight: 14
 url: /cpp/system.runtime.serialization/formatterconverter/toboolean/
 ---
-## FormatterConverter::ToBoolean method
+## FormatterConverter::ToBoolean([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a bool.

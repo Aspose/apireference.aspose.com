@@ -1,12 +1,12 @@
 ---
-title: get_Cyan
+title: get_Cyan()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF00FFFF.
 type: docs
 weight: 261
 url: /cpp/system.drawing/brushes/get_cyan/
 ---
-## Brushes::get_Cyan method
+## Brushes::get_Cyan() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF00FFFF.

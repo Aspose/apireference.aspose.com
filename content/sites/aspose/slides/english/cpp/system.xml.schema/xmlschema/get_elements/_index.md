@@ -1,12 +1,12 @@
 ---
-title: get_Elements
+title: get_Elements()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-schema-compilation value for all the elements in the schema.
 type: docs
 weight: 235
 url: /cpp/system.xml.schema/xmlschema/get_elements/
 ---
-## XmlSchema::get_Elements method
+## XmlSchema::get_Elements() method
 
 
 Returns the post-schema-compilation value for all the elements in the schema.

@@ -1,12 +1,12 @@
 ---
-title: set_Position
+title: set_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the stream's position.
 type: docs
 weight: 183
 url: /cpp/system.io/memorystream/set_position/
 ---
-## MemoryStream::set_Position method
+## MemoryStream::set_Position(**int64_t**) method
 
 
 Sets the stream's position.

@@ -1,5 +1,5 @@
 ---
-title: ToInt64
+title: ToInt64()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts eight bytes from the specified array starting at the specified index to 64-bit integer value.
 type: docs

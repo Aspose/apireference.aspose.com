@@ -1,5 +1,5 @@
 ---
-title: DrawRectangles
+title: DrawRectangles()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws a series of rectangles using the specified pen.
 type: docs

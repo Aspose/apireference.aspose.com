@@ -1,5 +1,5 @@
 ---
-title: Uri
+title: Uri()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a Uri object that represents the specified URI.
 type: docs

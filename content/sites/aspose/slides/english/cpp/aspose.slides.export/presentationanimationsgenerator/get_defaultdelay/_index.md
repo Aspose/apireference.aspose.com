@@ -1,12 +1,12 @@
 ---
-title: get_DefaultDelay
+title: get_DefaultDelay()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets default delay time [ms].
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/presentationanimationsgenerator/get_defaultdelay/
 ---
-## PresentationAnimationsGenerator::get_DefaultDelay method
+## PresentationAnimationsGenerator::get_DefaultDelay() const method
 
 
 Gets default delay time [ms].

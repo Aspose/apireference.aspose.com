@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Soft Edge effect data with the inheritance applied.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/softedge/geteffective/
 ---
-## SoftEdge::GetEffective method
+## SoftEdge::GetEffective() method
 
 
 Gets effective Soft Edge effect data with the inheritance applied.

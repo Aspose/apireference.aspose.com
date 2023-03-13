@@ -1,12 +1,12 @@
 ---
-title: get_CanonicalizationMethod
+title: get_CanonicalizationMethod()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.xml/signedinfo/get_canonicalizationmethod/
 ---
-## SignedInfo::get_CanonicalizationMethod method
+## SignedInfo::get_CanonicalizationMethod() method
 
 
 

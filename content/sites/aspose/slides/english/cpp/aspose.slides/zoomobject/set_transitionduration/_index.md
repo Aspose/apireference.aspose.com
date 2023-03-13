@@ -1,15 +1,15 @@
 ---
-title: set_TransitionDuration
+title: set_TransitionDuration()
 second_title: Aspose.Slides for C++ API Reference
-description: "Sets the duration of the transition between Zoom and slide. Write float. Default value: 1.0f."
+description: "Sets the duration of the transition between Zoom and slide. Write float. Default value: 1.0f"
 type: docs
 weight: 118
 url: /cpp/aspose.slides/zoomobject/set_transitionduration/
 ---
-## ZoomObject::set_TransitionDuration method
+## ZoomObject::set_TransitionDuration(**float**) method
 
 
-Sets the duration of the transition between Zoom and slide. Write **float**. Default value: 1.0f.
+Sets the duration of the transition between Zoom and slide. Write **float**. Default value: 1.0f
 
 ```cpp
 void Aspose::Slides::ZoomObject::set_TransitionDuration(float value) override

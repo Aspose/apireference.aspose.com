@@ -1,5 +1,5 @@
 ---
-title: Pen
+title: Pen()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new Pen object representing the specified color.
 type: docs

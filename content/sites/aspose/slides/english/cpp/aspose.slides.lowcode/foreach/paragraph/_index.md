@@ -1,12 +1,12 @@
 ---
-title: Paragraph
+title: Paragraph()
 second_title: Aspose.Slides for C++ API Reference
 description: "Iterate each ForEach::Paragraph in the Presentation."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.lowcode/foreach/paragraph/
 ---
-## ForEach::Paragraph method
+## ForEach::Paragraph([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>, [ForEach::ForEachParagraphCallback](../foreachparagraphcallback/)) method
 
 
 Iterate each [ForEach::Paragraph](./) in the [Presentation](../../../aspose.slides/presentation/).

@@ -1,12 +1,12 @@
 ---
-title: get_XPath
+title: get_XPath()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the attribute for the XPath expression.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaxpath/get_xpath/
 ---
-## XmlSchemaXPath::get_XPath method
+## XmlSchemaXPath::get_XPath() method
 
 
 Returns the attribute for the [XPath](../../../system.xml.xpath/) expression.

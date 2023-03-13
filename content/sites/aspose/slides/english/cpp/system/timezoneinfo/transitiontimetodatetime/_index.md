@@ -1,12 +1,12 @@
 ---
-title: TransitionTimeToDateTime
+title: TransitionTimeToDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Helper function that converts a year and TransitionTime into a DateTime.
 type: docs
 weight: 157
 url: /cpp/system/timezoneinfo/transitiontimetodatetime/
 ---
-## TimeZoneInfo::TransitionTimeToDateTime method
+## TimeZoneInfo::TransitionTimeToDateTime(**int32_t**, const **TransitionTime**\&) method
 
 
 Helper function that converts a year and **TransitionTime** into a [DateTime](../../datetime/).

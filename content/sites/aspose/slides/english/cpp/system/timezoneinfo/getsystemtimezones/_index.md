@@ -1,12 +1,12 @@
 ---
-title: GetSystemTimeZones
+title: GetSystemTimeZones()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets sorted collection of all time zones available on the local system.
 type: docs
 weight: 131
 url: /cpp/system/timezoneinfo/getsystemtimezones/
 ---
-## TimeZoneInfo::GetSystemTimeZones method
+## TimeZoneInfo::GetSystemTimeZones() method
 
 
 Gets sorted collection of all time zones available on the local system.

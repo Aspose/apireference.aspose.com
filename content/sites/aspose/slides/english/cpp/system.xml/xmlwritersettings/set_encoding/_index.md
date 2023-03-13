@@ -1,12 +1,12 @@
 ---
-title: set_Encoding
+title: set_Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the type of text encoding to use.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlwritersettings/set_encoding/
 ---
-## XmlWriterSettings::set_Encoding method
+## XmlWriterSettings::set_Encoding(const [SharedPtr](../../../system/sharedptr/)\<[System::Text::Encoding](../../../system.text/encoding/)\>\&) method
 
 
 Sets the type of text encoding to use.

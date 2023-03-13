@@ -1,12 +1,12 @@
 ---
-title: get_Color
+title: get_Color()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns this pen's color.
 type: docs
 weight: 391
 url: /cpp/system.drawing/pen/get_color/
 ---
-## Pen::get_Color method
+## Pen::get_Color() const method
 
 
 Returns this pen's color.

@@ -1,12 +1,12 @@
 ---
-title: PreserveWhitespace
+title: PreserveWhitespace()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, evaluates whether to preserve white space nodes or strip them for the given context.
 type: docs
 weight: 40
 url: /cpp/system.xml.xsl/xsltcontext/preservewhitespace/
 ---
-## XsltContext::PreserveWhitespace method
+## XsltContext::PreserveWhitespace([SharedPtr](../../../system/sharedptr/)\<[System::Xml::XPath::XPathNavigator](../../../system.xml.xpath/xpathnavigator/)\>) method
 
 
 When overridden in a derived class, evaluates whether to preserve white space nodes or strip them for the given context.

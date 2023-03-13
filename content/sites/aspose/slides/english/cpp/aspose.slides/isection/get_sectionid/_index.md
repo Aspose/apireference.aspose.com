@@ -1,12 +1,12 @@
 ---
-title: get_SectionId
+title: get_SectionId()
 second_title: Aspose.Slides for C++ API Reference
 description: Section Id.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/isection/get_sectionid/
 ---
-## ISection::get_SectionId method
+## ISection::get_SectionId() method
 
 
 [Section](../../section/) Id.

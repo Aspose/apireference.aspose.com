@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Analog of C# Object.ToString() method. Enables converting custom objects to string.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.drawing/margin64d/tostring/
 ---
-## Margin64d::ToString method
+## Margin64d::ToString() const method
 
 
 Analog of C# Object.ToString() method. Enables converting custom objects to string.

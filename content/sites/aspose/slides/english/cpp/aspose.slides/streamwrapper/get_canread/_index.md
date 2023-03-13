@@ -1,12 +1,12 @@
 ---
-title: get_CanRead
+title: get_CanRead()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value indicating whether the current stream supports reading. Read-only bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/streamwrapper/get_canread/
 ---
-## StreamWrapper::get_CanRead method
+## StreamWrapper::get_CanRead() method
 
 
 Gets a value indicating whether the current stream supports reading. Read-only **bool**.

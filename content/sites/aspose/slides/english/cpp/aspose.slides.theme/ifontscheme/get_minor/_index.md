@@ -1,12 +1,12 @@
 ---
-title: get_Minor
+title: get_Minor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the fonts collection for a \"body\" part of the slide. Read-only IFonts.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/ifontscheme/get_minor/
 ---
-## IFontScheme::get_Minor method
+## IFontScheme::get_Minor() method
 
 
 Returns the fonts collection for a \"body\" part of the slide. Read-only [IFonts](../../../aspose.slides/ifonts/).

@@ -1,12 +1,12 @@
 ---
-title: get_Options
+title: get_Options()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets regex options.
 type: docs
 weight: 27
 url: /cpp/system.text.regularexpressions/regex/get_options/
 ---
-## Regex::get_Options method
+## Regex::get_Options() method
 
 
 Gets regex options.

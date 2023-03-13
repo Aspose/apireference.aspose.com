@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of transition. Write TransitionEightDirectionType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/eightdirectiontransition/set_direction/
 ---
-## EightDirectionTransition::set_Direction method
+## EightDirectionTransition::set_Direction([TransitionEightDirectionType](../../transitioneightdirectiontype/)) method
 
 
 Direction of transition. Write [TransitionEightDirectionType](../../transitioneightdirectiontype/).

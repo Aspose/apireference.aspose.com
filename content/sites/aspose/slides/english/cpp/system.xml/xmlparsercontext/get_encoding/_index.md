@@ -1,12 +1,12 @@
 ---
-title: get_Encoding
+title: get_Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the encoding type.
 type: docs
 weight: 235
 url: /cpp/system.xml/xmlparsercontext/get_encoding/
 ---
-## XmlParserContext::get_Encoding method
+## XmlParserContext::get_Encoding() method
 
 
 Returns the encoding type.

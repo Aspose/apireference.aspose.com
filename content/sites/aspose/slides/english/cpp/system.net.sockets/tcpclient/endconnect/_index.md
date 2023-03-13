@@ -1,12 +1,12 @@
 ---
-title: EndConnect
+title: EndConnect()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits until the specified asynchronous connect operation completes.
 type: docs
 weight: 274
 url: /cpp/system.net.sockets/tcpclient/endconnect/
 ---
-## TcpClient::EndConnect method
+## TcpClient::EndConnect([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
 
 
 Waits until the specified asynchronous connect operation completes.

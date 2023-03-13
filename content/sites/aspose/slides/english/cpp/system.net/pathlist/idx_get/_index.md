@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the cookie collection by specified path.
 type: docs
 weight: 40
 url: /cpp/system.net/pathlist/idx_get/
 ---
-## PathList::idx_get method
+## PathList::idx_get([String](../../../system/string/)) method
 
 
 Gets the cookie collection by specified path.

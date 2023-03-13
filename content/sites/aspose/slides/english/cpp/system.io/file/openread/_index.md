@@ -1,12 +1,12 @@
 ---
-title: OpenRead
+title: OpenRead()
 second_title: Aspose.Slides for C++ API Reference
 description: Opens the specified file for reading only, in 'Open' mode with shared access for reading.
 type: docs
 weight: 248
 url: /cpp/system.io/file/openread/
 ---
-## File::OpenRead method
+## File::OpenRead(const [String](../../../system/string/)\&) method
 
 
 Opens the specified file for reading only, in 'Open' mode with shared access for reading.

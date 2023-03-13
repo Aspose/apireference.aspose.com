@@ -1,12 +1,12 @@
 ---
-title: get_Footer
+title: get_Footer()
 second_title: Aspose.Slides for C++ API Reference
 description: Slide's footer. Read-only FieldType.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/fieldtype/get_footer/
 ---
-## FieldType::get_Footer method
+## FieldType::get_Footer() method
 
 
 [Slide](../../slide/)'s footer. Read-only [FieldType](../).

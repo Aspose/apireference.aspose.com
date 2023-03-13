@@ -1,15 +1,15 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
-description: Clones.
+description: Clones
 type: docs
 weight: 144
 url: /cpp/aspose.slides/shapeframe/clone/
 ---
-## ShapeFrame::Clone method
+## ShapeFrame::Clone() method
 
 
-Clones.
+Clones
 
 ```cpp
 System::SharedPtr<System::Object> Aspose::Slides::ShapeFrame::Clone() override

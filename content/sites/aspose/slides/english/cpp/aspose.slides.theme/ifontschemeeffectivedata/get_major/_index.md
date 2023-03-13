@@ -1,12 +1,12 @@
 ---
-title: get_Major
+title: get_Major()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the fonts collection for a \"heading\" part of the slide. Read-only IFontsEffectiveData.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.theme/ifontschemeeffectivedata/get_major/
 ---
-## IFontSchemeEffectiveData::get_Major method
+## IFontSchemeEffectiveData::get_Major() method
 
 
 Returns the fonts collection for a \"heading\" part of the slide. Read-only [IFontsEffectiveData](../../../aspose.slides/ifontseffectivedata/).

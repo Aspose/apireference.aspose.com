@@ -1,12 +1,12 @@
 ---
-title: Seek
+title: Seek()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the position of the stream represented by the current object.
 type: docs
 weight: 79
 url: /cpp/system.io/bufferedstream/seek/
 ---
-## BufferedStream::Seek method
+## BufferedStream::Seek(**int64_t**, [SeekOrigin](../../seekorigin/)) method
 
 
 Sets the position of the stream represented by the current object.

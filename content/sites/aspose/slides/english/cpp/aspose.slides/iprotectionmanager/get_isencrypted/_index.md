@@ -1,12 +1,12 @@
 ---
-title: get_IsEncrypted
+title: get_IsEncrypted()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value indicating whether this instance is encrypted. Read-only bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/iprotectionmanager/get_isencrypted/
 ---
-## IProtectionManager::get_IsEncrypted method
+## IProtectionManager::get_IsEncrypted() method
 
 
 Gets a value indicating whether this instance is encrypted. Read-only **bool**.

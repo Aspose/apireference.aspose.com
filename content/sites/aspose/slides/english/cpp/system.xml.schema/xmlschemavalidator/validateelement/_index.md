@@ -1,5 +1,5 @@
 ---
-title: ValidateElement
+title: ValidateElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Validates the element in the current context.
 type: docs

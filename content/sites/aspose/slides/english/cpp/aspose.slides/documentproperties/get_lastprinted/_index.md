@@ -1,12 +1,12 @@
 ---
-title: get_LastPrinted
+title: get_LastPrinted()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the date when a presentation was printed last time. Read System::DateTime."
 type: docs
 weight: 404
 url: /cpp/aspose.slides/documentproperties/get_lastprinted/
 ---
-## DocumentProperties::get_LastPrinted method
+## DocumentProperties::get_LastPrinted() method
 
 
 Returns the date when a presentation was printed last time. Read [System::DateTime](../../../system/datetime/).

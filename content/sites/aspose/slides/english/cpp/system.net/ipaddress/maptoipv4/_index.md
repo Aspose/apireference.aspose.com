@@ -1,12 +1,12 @@
 ---
-title: MapToIPv4
+title: MapToIPv4()
 second_title: Aspose.Slides for C++ API Reference
 description: Maps the address to the IPv4 address.
 type: docs
 weight: 183
 url: /cpp/system.net/ipaddress/maptoipv4/
 ---
-## IPAddress::MapToIPv4 method
+## IPAddress::MapToIPv4() method
 
 
 Maps the address to the IPv4 address.

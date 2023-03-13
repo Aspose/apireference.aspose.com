@@ -1,5 +1,5 @@
 ---
-title: GetElementsByTagName
+title: GetElementsByTagName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlNodeList containing a list of all descendant elements that match the specified name.
 type: docs

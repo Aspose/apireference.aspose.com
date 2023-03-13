@@ -1,12 +1,12 @@
 ---
-title: set_UseDefaultCredentials
+title: set_UseDefaultCredentials()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 53
 url: /cpp/system.net/webclient/set_usedefaultcredentials/
 ---
-## WebClient::set_UseDefaultCredentials method
+## WebClient::set_UseDefaultCredentials(**bool**) method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: get_DocTypeName
+title: get_DocTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the document type declaration.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlparsercontext/get_doctypename/
 ---
-## XmlParserContext::get_DocTypeName method
+## XmlParserContext::get_DocTypeName() method
 
 
 Returns the name of the document type declaration.

@@ -1,7 +1,7 @@
 ---
 title: ISlideText
 second_title: Aspose.Slides for C++ API Reference
-description: Represents the text extracted from the slide.
+description: Represents the text extracted from the slide
 type: docs
 weight: 3641
 url: /cpp/aspose.slides/islidetext/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/islidetext/
 ## ISlideText class
 
 
-Represents the text extracted from the slide.
+Represents the text extracted from the slide
 
 ```cpp
 class ISlideText : public System::Object
@@ -25,10 +25,10 @@ class ISlideText : public System::Object
 | static **bool** [Equals](../../system/object/equals/)(**float** const\&, **float** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
-| virtual [System::String](../../system/string/) [get_LayoutText](./get_layouttext/)() | The text on the layout page's shapes for this slide. |
-| virtual [System::String](../../system/string/) [get_MasterText](./get_mastertext/)() | The text on the master page's shapes for this slide. |
-| virtual [System::String](../../system/string/) [get_NotesText](./get_notestext/)() | The text on the notes page's shapes for this slide. |
-| virtual [System::String](../../system/string/) [get_Text](./get_text/)() | The text on the slide's shapes. |
+| virtual [System::String](../../system/string/) [get_LayoutText](./get_layouttext/)() | The text on the layout page's shapes for this slide |
+| virtual [System::String](../../system/string/) [get_MasterText](./get_mastertext/)() | The text on the master page's shapes for this slide |
+| virtual [System::String](../../system/string/) [get_NotesText](./get_notestext/)() | The text on the notes page's shapes for this slide |
+| virtual [System::String](../../system/string/) [get_Text](./get_text/)() | The text on the slide's shapes |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |

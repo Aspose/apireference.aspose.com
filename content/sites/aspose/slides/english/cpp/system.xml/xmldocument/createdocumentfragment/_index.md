@@ -1,12 +1,12 @@
 ---
-title: CreateDocumentFragment
+title: CreateDocumentFragment()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlDocumentFragment.
 type: docs
 weight: 326
 url: /cpp/system.xml/xmldocument/createdocumentfragment/
 ---
-## XmlDocument::CreateDocumentFragment method
+## XmlDocument::CreateDocumentFragment() method
 
 
 Creates an [XmlDocumentFragment](../../xmldocumentfragment/).

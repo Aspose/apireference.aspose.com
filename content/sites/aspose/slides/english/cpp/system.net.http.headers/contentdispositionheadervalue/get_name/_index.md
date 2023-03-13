@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a name for a part of the content body.
 type: docs
 weight: 40
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_name/
 ---
-## ContentDispositionHeaderValue::get_Name method
+## ContentDispositionHeaderValue::get_Name() method
 
 
 Gets a name for a part of the content body.

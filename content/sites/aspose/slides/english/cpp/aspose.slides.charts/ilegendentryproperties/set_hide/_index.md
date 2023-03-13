@@ -1,12 +1,12 @@
 ---
-title: set_Hide
+title: set_Hide()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the hide flag of legend entry. Write bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ilegendentryproperties/set_hide/
 ---
-## ILegendEntryProperties::set_Hide method
+## ILegendEntryProperties::set_Hide(**bool**) method
 
 
 Sets the hide flag of legend entry. Write **bool**.

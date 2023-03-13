@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents format of axis. Read-only IAxisFormat.
 type: docs
 weight: 716
 url: /cpp/aspose.slides.charts/axis/get_format/
 ---
-## Axis::get_Format method
+## Axis::get_Format() method
 
 
 Represents format of axis. Read-only [IAxisFormat](../../iaxisformat/).

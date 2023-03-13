@@ -1,12 +1,12 @@
 ---
-title: Bitmap
+title: Bitmap()
 second_title: Aspose.Slides for C++ API Reference
 description: Slides should be converted to a raster image.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/slideimageformat/bitmap/
 ---
-## SlideImageFormat::Bitmap method
+## SlideImageFormat::Bitmap(**float**, [System::SharedPtr](../../../system/sharedptr/)\<[System::Drawing::Imaging::ImageFormat](../../../system.drawing.imaging/imageformat/)\>) method
 
 
 [Slides](../../../aspose.slides/) should be converted to a raster image.

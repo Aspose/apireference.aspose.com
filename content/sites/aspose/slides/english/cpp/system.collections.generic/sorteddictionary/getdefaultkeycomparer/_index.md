@@ -1,12 +1,12 @@
 ---
-title: GetDefaultKeyComparer
+title: GetDefaultKeyComparer()
 second_title: Aspose.Slides for C++ API Reference
 description: Singleton accessor function.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/sorteddictionary/getdefaultkeycomparer/
 ---
-## SortedDictionary::GetDefaultKeyComparer method
+## SortedDictionary::GetDefaultKeyComparer() method
 
 
 Singleton accessor function.

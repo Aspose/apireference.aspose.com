@@ -1,12 +1,12 @@
 ---
-title: set_AbbreviatedMonthNames
+title: set_AbbreviatedMonthNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets abbreviated month names.
 type: docs
 weight: 326
 url: /cpp/system.globalization/datetimeformatinfo/set_abbreviatedmonthnames/
 ---
-## DateTimeFormatInfo::set_AbbreviatedMonthNames method
+## DateTimeFormatInfo::set_AbbreviatedMonthNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
 
 
 Sets abbreviated month names.

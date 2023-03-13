@@ -1,12 +1,12 @@
 ---
-title: set_SystemId
+title: set_SystemId()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the system identifier.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmlparsercontext/set_systemid/
 ---
-## XmlParserContext::set_SystemId method
+## XmlParserContext::set_SystemId(const [String](../../../system/string/)\&) method
 
 
 Sets the system identifier.

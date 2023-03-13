@@ -1,12 +1,12 @@
 ---
-title: UpdateDocumentProperties
+title: UpdateDocumentProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Updates properties of binded presentation.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/presentationinfo/updatedocumentproperties/
 ---
-## PresentationInfo::UpdateDocumentProperties method
+## PresentationInfo::UpdateDocumentProperties([System::SharedPtr](../../../system/sharedptr/)\<[IDocumentProperties](../../idocumentproperties/)\>) method
 
 
 Updates properties of binded presentation.

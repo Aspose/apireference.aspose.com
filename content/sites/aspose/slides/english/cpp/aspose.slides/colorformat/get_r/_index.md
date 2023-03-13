@@ -1,12 +1,12 @@
 ---
-title: get_R
+title: get_R()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the red component of a color. All color transformations are ignored. Read uint8_t.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/colorformat/get_r/
 ---
-## ColorFormat::get_R method
+## ColorFormat::get_R() method
 
 
 Returns the red component of a color. All color transformations are ignored. Read **uint8_t**.

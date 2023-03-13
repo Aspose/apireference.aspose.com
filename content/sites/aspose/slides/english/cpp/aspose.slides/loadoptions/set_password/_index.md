@@ -1,12 +1,12 @@
 ---
-title: set_Password
+title: set_Password()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the password. Write System::String."
 type: docs
 weight: 118
 url: /cpp/aspose.slides/loadoptions/set_password/
 ---
-## LoadOptions::set_Password method
+## LoadOptions::set_Password([System::String](../../../system/string/)) method
 
 
 Sets the password. Write [System::String](../../../system/string/).

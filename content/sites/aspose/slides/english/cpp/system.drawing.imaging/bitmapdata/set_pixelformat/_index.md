@@ -1,12 +1,12 @@
 ---
-title: set_PixelFormat
+title: set_PixelFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the pixel format of the bitmap image.
 type: docs
 weight: 118
 url: /cpp/system.drawing.imaging/bitmapdata/set_pixelformat/
 ---
-## BitmapData::set_PixelFormat method
+## BitmapData::set_PixelFormat([PixelFormat](../../pixelformat/)) method
 
 
 Sets the pixel format of the bitmap image.

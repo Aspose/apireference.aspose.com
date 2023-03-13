@@ -1,12 +1,12 @@
 ---
-title: set_ProofDisabled
+title: set_ProofDisabled()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the text shouldn't be proofed. No inheritance applied. Write NullableBool.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/ibaseportionformat/set_proofdisabled/
 ---
-## IBasePortionFormat::set_ProofDisabled method
+## IBasePortionFormat::set_ProofDisabled([NullableBool](../../nullablebool/)) method
 
 
 Determines whether the text shouldn't be proofed. No inheritance applied. Write [NullableBool](../../nullablebool/).

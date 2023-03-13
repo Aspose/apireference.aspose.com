@@ -1,12 +1,12 @@
 ---
-title: TransformFinalBlock
+title: TransformFinalBlock()
 second_title: Aspose.Slides for C++ API Reference
 description: Processes last block of data and calculates output value.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/tobase64transform/transformfinalblock/
 ---
-## ToBase64Transform::TransformFinalBlock method
+## ToBase64Transform::TransformFinalBlock([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**) method
 
 
 Processes last block of data and calculates output value.

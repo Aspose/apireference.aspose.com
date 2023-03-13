@@ -1,12 +1,12 @@
 ---
-title: get_EffectFormat
+title: get_EffectFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the EffectFormat object which contains pixel effects applied to a shape. Note: can return null for certain types of shapes which don't have effect properties. Read-only IEffectFormat."
 type: docs
 weight: 118
 url: /cpp/aspose.slides/shape/get_effectformat/
 ---
-## Shape::get_EffectFormat method
+## Shape::get_EffectFormat() method
 
 
 Returns the [EffectFormat](../../effectformat/) object which contains pixel effects applied to a shape. Note: can return null for certain types of shapes which don't have effect properties. Read-only [IEffectFormat](../../ieffectformat/).

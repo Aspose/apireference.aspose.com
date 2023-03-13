@@ -1,12 +1,12 @@
 ---
-title: get_ShowFullScreen
+title: get_ShowFullScreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Show/hide fullscreen button. Can be overridden in flashvars. Default is true.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.export/swfoptions/get_showfullscreen/
 ---
-## SwfOptions::get_ShowFullScreen method
+## SwfOptions::get_ShowFullScreen() method
 
 
 Show/hide fullscreen button. Can be overridden in flashvars. Default is true.

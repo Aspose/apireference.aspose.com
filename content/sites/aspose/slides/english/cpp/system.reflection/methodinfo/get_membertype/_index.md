@@ -1,12 +1,12 @@
 ---
-title: get_MemberType
+title: get_MemberType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a MemberTypes value indicating that this member is a method.
 type: docs
 weight: 14
 url: /cpp/system.reflection/methodinfo/get_membertype/
 ---
-## MethodInfo::get_MemberType method
+## MethodInfo::get_MemberType() const method
 
 
 Gets a MemberTypes value indicating that this member is a method.

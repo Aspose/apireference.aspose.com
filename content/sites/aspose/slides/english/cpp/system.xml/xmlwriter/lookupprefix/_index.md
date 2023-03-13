@@ -1,12 +1,12 @@
 ---
-title: LookupPrefix
+title: LookupPrefix()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, returns the closest prefix defined in the current namespace scope for the namespace URI.
 type: docs
 weight: 352
 url: /cpp/system.xml/xmlwriter/lookupprefix/
 ---
-## XmlWriter::LookupPrefix method
+## XmlWriter::LookupPrefix([String](../../../system/string/)) method
 
 
 When overridden in a derived class, returns the closest prefix defined in the current namespace scope for the namespace URI.

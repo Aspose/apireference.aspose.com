@@ -1,12 +1,12 @@
 ---
-title: set_Type
+title: set_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines command effect type of behavior. Write CommandEffectType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/icommandeffect/set_type/
 ---
-## ICommandEffect::set_Type method
+## ICommandEffect::set_Type([CommandEffectType](../../commandeffecttype/)) method
 
 
 Defines command effect type of behavior. Write [CommandEffectType](../../commandeffecttype/).

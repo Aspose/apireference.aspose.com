@@ -1,12 +1,12 @@
 ---
-title: GetUnsignedLongLongValue
+title: GetUnsignedLongLongValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value of the boxed enumeration constant to 64-bit integer value.
 type: docs
 weight: 27
 url: /cpp/system/boxedenum/getunsignedlonglongvalue/
 ---
-## BoxedEnum::GetUnsignedLongLongValue method
+## BoxedEnum::GetUnsignedLongLongValue() method
 
 
 Converts the value of the boxed enumeration constant to 64-bit integer value.

@@ -1,12 +1,12 @@
 ---
-title: ToByte
+title: ToByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a uint8_t.
 type: docs
 weight: 27
 url: /cpp/system.runtime.serialization/iformatterconverter/tobyte/
 ---
-## IFormatterConverter::ToByte method
+## IFormatterConverter::ToByte([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a **uint8_t**.

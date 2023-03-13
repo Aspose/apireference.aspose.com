@@ -1,12 +1,12 @@
 ---
-title: get_Facets
+title: get_Facets()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlSchema facet.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemasimpletyperestriction/get_facets/
 ---
-## XmlSchemaSimpleTypeRestriction::get_Facets method
+## XmlSchemaSimpleTypeRestriction::get_Facets() method
 
 
 Returns an [Xml](../../../system.xml/)[Schema](../../) facet.

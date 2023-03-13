@@ -1,12 +1,12 @@
 ---
-title: AddYears
+title: AddYears()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of the DateTime class representing the date and time value equal to that represented by the current object with the year component increased by the specified number.
 type: docs
 weight: 222
 url: /cpp/system/datetime/addyears/
 ---
-## DateTime::AddYears method
+## DateTime::AddYears(int) const method
 
 
 Returns a new instance of the [DateTime](../) class representing the date and time value equal to that represented by the current object with the year component increased by the specified number.

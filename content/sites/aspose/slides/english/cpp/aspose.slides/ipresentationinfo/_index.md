@@ -1,7 +1,7 @@
 ---
 title: IPresentationInfo
 second_title: Aspose.Slides for C++ API Reference
-description: Information about presentation file.
+description: Information about presentation file
 type: docs
 weight: 3238
 url: /cpp/aspose.slides/ipresentationinfo/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/ipresentationinfo/
 ## IPresentationInfo class
 
 
-Information about presentation file.
+Information about presentation file
 
 ```cpp
 class IPresentationInfo : public System::Object

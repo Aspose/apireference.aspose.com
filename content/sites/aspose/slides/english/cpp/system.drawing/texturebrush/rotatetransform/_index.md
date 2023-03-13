@@ -1,12 +1,12 @@
 ---
-title: RotateTransform
+title: RotateTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Rotates the local geometric transformation by the specified angle in the specified order.
 type: docs
 weight: 118
 url: /cpp/system.drawing/texturebrush/rotatetransform/
 ---
-## TextureBrush::RotateTransform method
+## TextureBrush::RotateTransform(**float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
 
 
 Rotates the local geometric transformation by the specified angle in the specified order.

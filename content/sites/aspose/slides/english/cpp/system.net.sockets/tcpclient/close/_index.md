@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the connection and disposes the current instance.
 type: docs
 weight: 300
 url: /cpp/system.net.sockets/tcpclient/close/
 ---
-## TcpClient::Close method
+## TcpClient::Close() method
 
 
 Closes the connection and disposes the current instance.

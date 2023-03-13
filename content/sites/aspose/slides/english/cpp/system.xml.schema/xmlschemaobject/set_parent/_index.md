@@ -1,12 +1,12 @@
 ---
-title: set_Parent
+title: set_Parent()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the parent of this XmlSchemaObject.
 type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemaobject/set_parent/
 ---
-## XmlSchemaObject::set_Parent method
+## XmlSchemaObject::set_Parent(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaObject](../)\>\&) method
 
 
 Sets the parent of this [XmlSchemaObject](../).

@@ -1,12 +1,12 @@
 ---
-title: MasterSlide
+title: MasterSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: "Iterate each ForEach::MasterSlide in the Presentation."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.lowcode/foreach/masterslide/
 ---
-## ForEach::MasterSlide method
+## ForEach::MasterSlide([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>, [ForEach::ForEachMasterSlideCallback](../foreachmasterslidecallback/)) method
 
 
 Iterate each [ForEach::MasterSlide](./) in the [Presentation](../../../aspose.slides/presentation/).

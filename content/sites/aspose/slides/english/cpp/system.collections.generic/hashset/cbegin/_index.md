@@ -1,12 +1,12 @@
 ---
-title: cbegin
+title: cbegin()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator to the first const-qualified element of collection.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/hashset/cbegin/
 ---
-## HashSet::cbegin method
+## HashSet::cbegin() const method
 
 
 Gets iterator to the first const-qualified element of collection.

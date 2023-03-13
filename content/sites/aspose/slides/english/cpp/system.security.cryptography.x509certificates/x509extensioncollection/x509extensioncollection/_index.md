@@ -1,12 +1,12 @@
 ---
-title: X509ExtensionCollection
+title: X509ExtensionCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs empty collection.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.x509certificates/x509extensioncollection/x509extensioncollection/
 ---
-## X509ExtensionCollection::X509ExtensionCollection constructor
+## X509ExtensionCollection::X509ExtensionCollection() constructor
 
 
 Constructs empty collection.

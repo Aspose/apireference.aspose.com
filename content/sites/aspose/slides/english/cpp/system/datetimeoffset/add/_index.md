@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a specified time interval to the DateTimeOffset object.
 type: docs
 weight: 235
 url: /cpp/system/datetimeoffset/add/
 ---
-## DateTimeOffset::Add method
+## DateTimeOffset::Add([TimeSpan](../../timespan/)) const method
 
 
 Adds a specified time interval to the [DateTimeOffset](../) object.

@@ -1,12 +1,12 @@
 ---
-title: set_InternalStream
+title: set_InternalStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the stream that contains the SOAP message data.
 type: docs
 weight: 209
 url: /cpp/system.web.services.protocols/soapmessage/set_internalstream/
 ---
-## SoapMessage::set_InternalStream method
+## SoapMessage::set_InternalStream([System::SharedPtr](../../../system/sharedptr/)\<[System::IO::Stream](../../../system.io/stream/)\>) method
 
 
 Sets the stream that contains the SOAP message data.

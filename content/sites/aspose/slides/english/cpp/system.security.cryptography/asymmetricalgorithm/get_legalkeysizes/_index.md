@@ -1,12 +1,12 @@
 ---
-title: get_LegalKeySizes
+title: get_LegalKeySizes()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets array of allowed key sizes.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/asymmetricalgorithm/get_legalkeysizes/
 ---
-## AsymmetricAlgorithm::get_LegalKeySizes method
+## AsymmetricAlgorithm::get_LegalKeySizes() method
 
 
 Gets array of allowed key sizes.

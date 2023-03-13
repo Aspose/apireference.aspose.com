@@ -1,12 +1,12 @@
 ---
-title: IsSeriesUsesBubbleSizeCoordinate
+title: IsSeriesUsesBubbleSizeCoordinate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns if bubble size coordinates can be used for specified series type.
 type: docs
 weight: 222
 url: /cpp/aspose.slides.charts/charttypecharacterizer/isseriesusesbubblesizecoordinate/
 ---
-## ChartTypeCharacterizer::IsSeriesUsesBubbleSizeCoordinate method
+## ChartTypeCharacterizer::IsSeriesUsesBubbleSizeCoordinate([ChartType](../../charttype/)) method
 
 
 Returns if bubble size coordinates can be used for specified series type.

@@ -1,12 +1,12 @@
 ---
-title: OpenText
+title: OpenText()
 second_title: Aspose.Slides for C++ API Reference
 description: Opens the specified existing file for reading text using UTF-8 encoding with no sharing.
 type: docs
 weight: 261
 url: /cpp/system.io/file/opentext/
 ---
-## File::OpenText method
+## File::OpenText(const [String](../../../system/string/)\&, const [EncodingPtr](../../../system/encodingptr/)\&) method
 
 
 Opens the specified existing file for reading text using UTF-8 encoding with no sharing.

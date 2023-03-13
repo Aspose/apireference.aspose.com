@@ -52,6 +52,7 @@ class IControl : public Aspose::Slides::ISlideComponent
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
 | virtual void [set_Frame](./set_frame/)([System::SharedPtr](../../system/sharedptr/)\<[IShapeFrame](../ishapeframe/)\>) | Sets control's frame. Write [IShapeFrame](../ishapeframe/). |
 | virtual void [set_Name](./set_name/)([System::String](../../system/string/)) | Returns the name of this control. Write [System::String](../../system/string/). |
+| virtual void [set_Property](./set_property/)([System::String](../../system/string/), [System::String](../../system/string/)) | Set an ActiveX property at the specified index. |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

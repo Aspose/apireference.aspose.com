@@ -1,12 +1,12 @@
 ---
-title: SetExternalHyperlinkMouseOver
+title: SetExternalHyperlinkMouseOver()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets external hyperlink mouse over.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/hyperlinkmanager/setexternalhyperlinkmouseover/
 ---
-## HyperlinkManager::SetExternalHyperlinkMouseOver method
+## HyperlinkManager::SetExternalHyperlinkMouseOver([System::String](../../../system/string/)) method
 
 
 Sets external hyperlink mouse over.

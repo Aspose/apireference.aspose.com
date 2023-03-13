@@ -1,7 +1,7 @@
 ---
 title: Rect64d
 second_title: Aspose.Slides for C++ API Reference
-description: Rectangle struct.
+description: Rectangle struct
 type: docs
 weight: 40
 url: /cpp/aspose.slides.drawing/rect64d/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.drawing/rect64d/
 ## Rect64d class
 
 
-Rectangle struct.
+Rectangle struct
 
 ```cpp
 class Rect64d : public System::Object,

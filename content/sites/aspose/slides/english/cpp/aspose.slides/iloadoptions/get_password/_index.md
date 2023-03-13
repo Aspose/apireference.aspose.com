@@ -1,12 +1,12 @@
 ---
-title: get_Password
+title: get_Password()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the password. Reads System::String."
 type: docs
 weight: 105
 url: /cpp/aspose.slides/iloadoptions/get_password/
 ---
-## ILoadOptions::get_Password method
+## ILoadOptions::get_Password() method
 
 
 Gets the password. Reads [System::String](../../../system/string/).

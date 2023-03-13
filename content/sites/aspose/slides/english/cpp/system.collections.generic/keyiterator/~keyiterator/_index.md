@@ -1,12 +1,12 @@
 ---
-title: ~KeyIterator
+title: ~KeyIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/keyiterator/~keyiterator/
 ---
-## KeyIterator::~KeyIterator method
+## KeyIterator::~KeyIterator() method
 
 
 Destructor.

@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies videos to specified array starting from specified index.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/videocollection/copyto/
 ---
-## VideoCollection::CopyTo method
+## VideoCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IVideo](../../ivideo/)\>\>, **int32_t**) method
 
 
 Copies videos to specified array starting from specified index.

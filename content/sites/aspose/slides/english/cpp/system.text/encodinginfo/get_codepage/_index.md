@@ -1,12 +1,12 @@
 ---
-title: get_CodePage
+title: get_CodePage()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets codepage ID.
 type: docs
 weight: 14
 url: /cpp/system.text/encodinginfo/get_codepage/
 ---
-## EncodingInfo::get_CodePage method
+## EncodingInfo::get_CodePage() const method
 
 
 Gets codepage ID.

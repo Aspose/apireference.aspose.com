@@ -1,12 +1,12 @@
 ---
-title: set_RequestNamespace
+title: set_RequestNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the namespace associated with the SOAP request.
 type: docs
 weight: 144
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_requestnamespace/
 ---
-## SoapDocumentMethodAttribute::set_RequestNamespace method
+## SoapDocumentMethodAttribute::set_RequestNamespace([String](../../../system/string/)) method
 
 
 Sets the namespace associated with the SOAP request.

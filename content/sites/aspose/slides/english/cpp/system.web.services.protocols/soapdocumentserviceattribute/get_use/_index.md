@@ -1,12 +1,12 @@
 ---
-title: get_Use
+title: get_Use()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the parameter formatting.
 type: docs
 weight: 53
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/get_use/
 ---
-## SoapDocumentServiceAttribute::get_Use method
+## SoapDocumentServiceAttribute::get_Use() method
 
 
 Gets the parameter formatting.

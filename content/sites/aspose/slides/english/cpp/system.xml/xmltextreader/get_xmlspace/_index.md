@@ -1,12 +1,12 @@
 ---
-title: get_XmlSpace
+title: get_XmlSpace()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the current xml:space scope."
 type: docs
 weight: 157
 url: /cpp/system.xml/xmltextreader/get_xmlspace/
 ---
-## XmlTextReader::get_XmlSpace method
+## XmlTextReader::get_XmlSpace() method
 
 
 Returns the current **xml:space** scope.

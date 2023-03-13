@@ -1,7 +1,7 @@
 ---
-title: LineTo
+title: LineTo()
 second_title: Aspose.Slides for C++ API Reference
-description: Adds line to the end of the path.
+description: Adds line to the end of the path
 type: docs
 weight: 92
 url: /cpp/aspose.slides/geometrypath/lineto/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/geometrypath/lineto/
 ## GeometryPath::LineTo([System::Drawing::PointF](../../../system.drawing/pointf/)) method
 
 
-Adds line to the end of the path.
+Adds line to the end of the path
 
 ```cpp
 void Aspose::Slides::GeometryPath::LineTo(System::Drawing::PointF point) override
@@ -31,7 +31,7 @@ void Aspose::Slides::GeometryPath::LineTo(System::Drawing::PointF point) overrid
 ## GeometryPath::LineTo(**float**, **float**) method
 
 
-Adds line to the end of the path.
+Adds line to the end of the path
 
 ```cpp
 void Aspose::Slides::GeometryPath::LineTo(float x, float y) override
@@ -53,7 +53,7 @@ void Aspose::Slides::GeometryPath::LineTo(float x, float y) override
 ## GeometryPath::LineTo([System::Drawing::PointF](../../../system.drawing/pointf/), **uint32_t**) method
 
 
-Adds line to the specified place of the path.
+Adds line to the specified place of the path
 
 ```cpp
 void Aspose::Slides::GeometryPath::LineTo(System::Drawing::PointF point, uint32_t index) override
@@ -76,7 +76,7 @@ void Aspose::Slides::GeometryPath::LineTo(System::Drawing::PointF point, uint32_
 ## GeometryPath::LineTo(**float**, **float**, **uint32_t**) method
 
 
-Adds line to the specified place of the path.
+Adds line to the specified place of the path
 
 ```cpp
 void Aspose::Slides::GeometryPath::LineTo(float x, float y, uint32_t index) override

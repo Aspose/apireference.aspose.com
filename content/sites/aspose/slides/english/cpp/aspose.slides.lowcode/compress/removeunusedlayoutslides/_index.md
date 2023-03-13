@@ -1,12 +1,12 @@
 ---
-title: RemoveUnusedLayoutSlides
+title: RemoveUnusedLayoutSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Makes compression of the Presentation by removing unused layout slides.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.lowcode/compress/removeunusedlayoutslides/
 ---
-## Compress::RemoveUnusedLayoutSlides method
+## Compress::RemoveUnusedLayoutSlides([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>) method
 
 
 Makes compression of the [Presentation](../../../aspose.slides/presentation/) by removing unused layout slides.

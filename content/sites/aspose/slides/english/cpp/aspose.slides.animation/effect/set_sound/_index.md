@@ -1,12 +1,12 @@
 ---
-title: set_Sound
+title: set_Sound()
 second_title: Aspose.Slides for C++ API Reference
 description: Defined embedded sound for effect. Write IAudio.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.animation/effect/set_sound/
 ---
-## Effect::set_Sound method
+## Effect::set_Sound([System::SharedPtr](../../../system/sharedptr/)\<[IAudio](../../../aspose.slides/iaudio/)\>) method
 
 
 Defined embedded sound for effect. Write [IAudio](../../../aspose.slides/iaudio/).

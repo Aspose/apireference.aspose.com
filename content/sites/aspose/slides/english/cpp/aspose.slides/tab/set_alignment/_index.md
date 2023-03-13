@@ -1,12 +1,12 @@
 ---
-title: set_Alignment
+title: set_Alignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets align style of a tab. Write TabAlignment.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/tab/set_alignment/
 ---
-## Tab::set_Alignment method
+## Tab::set_Alignment([TabAlignment](../../tabalignment/)) method
 
 
 Sets align style of a tab. Write [TabAlignment](../../tabalignment/).

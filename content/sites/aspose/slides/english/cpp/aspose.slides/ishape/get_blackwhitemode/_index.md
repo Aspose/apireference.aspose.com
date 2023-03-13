@@ -1,12 +1,12 @@
 ---
-title: get_BlackWhiteMode
+title: get_BlackWhiteMode()
 second_title: Aspose.Slides for C++ API Reference
 description: "Property specifies how a shape will render in black-and-white display mode.. Read Slides::BlackWhiteMode."
 type: docs
 weight: 456
 url: /cpp/aspose.slides/ishape/get_blackwhitemode/
 ---
-## IShape::get_BlackWhiteMode method
+## IShape::get_BlackWhiteMode() method
 
 
 Property specifies how a shape will render in black-and-white display mode.. Read [Slides::BlackWhiteMode](../../blackwhitemode/).

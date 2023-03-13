@@ -1,12 +1,12 @@
 ---
-title: get_WorkingArea
+title: get_WorkingArea()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1262
 url: /cpp/system.windows.forms/systeminformation/get_workingarea/
 ---
-## SystemInformation::get_WorkingArea method
+## SystemInformation::get_WorkingArea() method
 
 
 NOT IMPLEMENTED.

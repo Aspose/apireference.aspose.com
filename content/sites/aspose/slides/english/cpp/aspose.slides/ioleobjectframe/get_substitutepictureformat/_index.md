@@ -1,12 +1,12 @@
 ---
-title: get_SubstitutePictureFormat
+title: get_SubstitutePictureFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns OleObject image fill properties object. Read-only IPictureFillFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ioleobjectframe/get_substitutepictureformat/
 ---
-## IOleObjectFrame::get_SubstitutePictureFormat method
+## IOleObjectFrame::get_SubstitutePictureFormat() method
 
 
 Returns OleObject image fill properties object. Read-only [IPictureFillFormat](../../ipicturefillformat/).

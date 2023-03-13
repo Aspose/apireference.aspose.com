@@ -1,12 +1,12 @@
 ---
-title: get_Chart
+title: get_Chart()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the parent chart. Read-only IChart.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/errorbarsformat/get_chart/
 ---
-## ErrorBarsFormat::get_Chart method
+## ErrorBarsFormat::get_Chart() method
 
 
 Returns the parent chart. Read-only [IChart](../../ichart/).

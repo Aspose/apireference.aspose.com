@@ -1,12 +1,12 @@
 ---
-title: GetResponse
+title: GetResponse()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the web response associated with the current web request.
 type: docs
 weight: 469
 url: /cpp/system.net/webrequest/getresponse/
 ---
-## WebRequest::GetResponse method
+## WebRequest::GetResponse() method
 
 
 Returns the web response associated with the current web request.

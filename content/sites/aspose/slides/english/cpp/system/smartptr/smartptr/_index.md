@@ -1,5 +1,5 @@
 ---
-title: SmartPtr
+title: SmartPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates SmartPtr object of required mode.
 type: docs

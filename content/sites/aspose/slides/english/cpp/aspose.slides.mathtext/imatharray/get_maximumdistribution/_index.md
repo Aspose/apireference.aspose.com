@@ -1,12 +1,12 @@
 ---
-title: get_MaximumDistribution
+title: get_MaximumDistribution()
 second_title: Aspose.Slides for C++ API Reference
 description: Maximum Distribution When true, the array is spaced to the maximum width of the containing element(page, column, cell, etc.).
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/imatharray/get_maximumdistribution/
 ---
-## IMathArray::get_MaximumDistribution method
+## IMathArray::get_MaximumDistribution() method
 
 
 Maximum Distribution When true, the array is spaced to the maximum width of the containing element(page, column, cell, etc.).

@@ -1,5 +1,5 @@
 ---
-title: GetDecimalDigitValue
+title: GetDecimalDigitValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets decimal digit value of the specified character.
 type: docs

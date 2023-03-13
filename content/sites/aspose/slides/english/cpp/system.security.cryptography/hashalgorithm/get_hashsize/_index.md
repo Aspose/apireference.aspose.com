@@ -1,12 +1,12 @@
 ---
-title: get_HashSize
+title: get_HashSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets size of calculated hash value in bytes.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/hashalgorithm/get_hashsize/
 ---
-## HashAlgorithm::get_HashSize method
+## HashAlgorithm::get_HashSize() method
 
 
 Gets size of calculated hash value in bytes.

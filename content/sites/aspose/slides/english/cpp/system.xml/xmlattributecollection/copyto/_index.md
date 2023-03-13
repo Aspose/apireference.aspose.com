@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies all the XmlAttribute objects from this collection into the given array.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmlattributecollection/copyto/
 ---
-## XmlAttributeCollection::CopyTo method
+## XmlAttributeCollection::CopyTo(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../xmlattribute/)\>\>\&, **int32_t**) method
 
 
 Copies all the [XmlAttribute](../../xmlattribute/) objects from this collection into the given array.

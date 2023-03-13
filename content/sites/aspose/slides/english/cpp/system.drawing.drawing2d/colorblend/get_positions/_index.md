@@ -1,12 +1,12 @@
 ---
-title: get_Positions
+title: get_Positions()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the array of blend positions along a gradient.
 type: docs
 weight: 40
 url: /cpp/system.drawing.drawing2d/colorblend/get_positions/
 ---
-## ColorBlend::get_Positions method
+## ColorBlend::get_Positions() method
 
 
 Returns the array of blend positions along a gradient.

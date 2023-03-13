@@ -1,12 +1,12 @@
 ---
-title: get_Tab
+title: get_Tab()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the tabulation of a paragraph at the specified index. No inheritance applied. Read-only Aspose::Slides::ITab"
 type: docs
 weight: 378
 url: /cpp/aspose.slides/paragraphformat/get_tab/
 ---
-## ParagraphFormat::get_Tab method
+## ParagraphFormat::get_Tab(**int32_t**) method
 
 
 Returns the tabulation of a paragraph at the specified index. No inheritance applied. Read-only [Aspose::Slides::ITab](../../itab/)

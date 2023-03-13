@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value at specific key.
 type: docs
 weight: 1
 url: /cpp/system.collections.specialized/stringdictionary/idx_get/
 ---
-## StringDictionary::idx_get method
+## StringDictionary::idx_get(const [String](../../../system/string/)\&) const method
 
 
 Gets value at specific key.

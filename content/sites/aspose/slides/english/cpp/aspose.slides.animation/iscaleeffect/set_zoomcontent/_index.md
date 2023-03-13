@@ -1,12 +1,12 @@
 ---
-title: set_ZoomContent
+title: set_ZoomContent()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a content should be zoomed. Write NullableBool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/iscaleeffect/set_zoomcontent/
 ---
-## IScaleEffect::set_ZoomContent method
+## IScaleEffect::set_ZoomContent([NullableBool](../../../aspose.slides/nullablebool/)) method
 
 
 Determines whether a content should be zoomed. Write [NullableBool](../../../aspose.slides/nullablebool/).

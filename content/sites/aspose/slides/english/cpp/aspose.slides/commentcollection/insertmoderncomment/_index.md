@@ -1,12 +1,12 @@
 ---
-title: InsertModernComment
+title: InsertModernComment()
 second_title: Aspose.Slides for C++ API Reference
 description: Insert new modern comment to a collection at the specified index.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/commentcollection/insertmoderncomment/
 ---
-## CommentCollection::InsertModernComment method
+## CommentCollection::InsertModernComment(**int32_t**, [System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../ishape/)\>, [System::Drawing::PointF](../../../system.drawing/pointf/), [System::DateTime](../../../system/datetime/)) method
 
 
 Insert new modern comment to a collection at the specified index.

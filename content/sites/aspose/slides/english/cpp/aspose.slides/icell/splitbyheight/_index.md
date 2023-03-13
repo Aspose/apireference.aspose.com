@@ -1,12 +1,12 @@
 ---
-title: SplitByHeight
+title: SplitByHeight()
 second_title: Aspose.Slides for C++ API Reference
 description: Splits the cell by height.
 type: docs
 weight: 404
 url: /cpp/aspose.slides/icell/splitbyheight/
 ---
-## ICell::SplitByHeight method
+## ICell::SplitByHeight(**double**) method
 
 
 Splits the cell by height.

@@ -1,7 +1,7 @@
 ---
 title: ResponsiveHtmlController
 second_title: Aspose.Slides for C++ API Reference
-description: Responsive HTML Controller.
+description: Responsive HTML Controller
 type: docs
 weight: 599
 url: /cpp/aspose.slides.export/responsivehtmlcontroller/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.export/responsivehtmlcontroller/
 ## ResponsiveHtmlController class
 
 
-Responsive HTML Controller.
+Responsive HTML Controller
 
 ```cpp
 class ResponsiveHtmlController : public Aspose::Slides::Export::IResponsiveHtmlController
@@ -40,8 +40,8 @@ class ResponsiveHtmlController : public Aspose::Slides::Export::IResponsiveHtmlC
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
-|  [ResponsiveHtmlController](./responsivehtmlcontroller/)() | Creates new instance. |
-|  [ResponsiveHtmlController](./responsivehtmlcontroller/)([System::SharedPtr](../../system/sharedptr/)\<[IHtmlFormattingController](../ihtmlformattingcontroller/)\>) | Creates new instance. |
+|  [ResponsiveHtmlController](./responsivehtmlcontroller/)() | Creates new instance |
+|  [ResponsiveHtmlController](./responsivehtmlcontroller/)([System::SharedPtr](../../system/sharedptr/)\<[IHtmlFormattingController](../ihtmlformattingcontroller/)\>) | Creates new instance |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

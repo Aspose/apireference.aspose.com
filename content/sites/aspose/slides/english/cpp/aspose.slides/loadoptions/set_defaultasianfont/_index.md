@@ -1,12 +1,12 @@
 ---
-title: set_DefaultAsianFont
+title: set_DefaultAsianFont()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets Asian font used in case source font is not found. Write System::String."
 type: docs
 weight: 92
 url: /cpp/aspose.slides/loadoptions/set_defaultasianfont/
 ---
-## LoadOptions::set_DefaultAsianFont method
+## LoadOptions::set_DefaultAsianFont([System::String](../../../system/string/)) method
 
 
 Sets Asian font used in case source font is not found. Write [System::String](../../../system/string/).

@@ -1,5 +1,5 @@
 ---
-title: MathNaryOperator
+title: MathNaryOperator()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathNaryOperator class.
 type: docs

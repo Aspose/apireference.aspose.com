@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies container elements to existing array elements.
 type: docs
 weight: 53
 url: /cpp/system.collections.concurrent/concurrentdictionary/copyto/
 ---
-## ConcurrentDictionary::CopyTo method
+## ConcurrentDictionary::CopyTo([ArrayPtr](../../../system/arrayptr/)\<[System::Collections::Generic::KeyValuePair](../../../system.collections.generic/keyvaluepair/)\<TKey, TValue\>\>, int) method
 
 
 Copies container elements to existing array elements.

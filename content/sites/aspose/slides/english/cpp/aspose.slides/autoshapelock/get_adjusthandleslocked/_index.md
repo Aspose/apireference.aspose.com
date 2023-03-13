@@ -1,12 +1,12 @@
 ---
-title: get_AdjustHandlesLocked
+title: get_AdjustHandlesLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a changing adjust values is forbidden. Read bool.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/autoshapelock/get_adjusthandleslocked/
 ---
-## AutoShapeLock::get_AdjustHandlesLocked method
+## AutoShapeLock::get_AdjustHandlesLocked() method
 
 
 Determines whether a changing adjust values is forbidden. Read **bool**.

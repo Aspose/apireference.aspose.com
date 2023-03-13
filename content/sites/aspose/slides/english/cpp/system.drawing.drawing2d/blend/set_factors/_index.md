@@ -1,12 +1,12 @@
 ---
-title: set_Factors
+title: set_Factors()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the array of blend factors of the gradient.
 type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/blend/set_factors/
 ---
-## Blend::set_Factors method
+## Blend::set_Factors(const [ArrayPtr](../../../system/arrayptr/)\<**float**\>\&) method
 
 
 Sets the array of blend factors of the gradient.

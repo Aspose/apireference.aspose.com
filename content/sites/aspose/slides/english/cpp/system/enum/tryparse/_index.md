@@ -1,5 +1,5 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert the specified string into equivalent enum constant.
 type: docs

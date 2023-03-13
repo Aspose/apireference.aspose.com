@@ -1,12 +1,12 @@
 ---
-title: set_IsHardUnderlineFill
+title: set_IsHardUnderlineFill()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the underline style has own FillFormat properties or inherits it from the FillFormat properties of the text. Write NullableBool.
 type: docs
 weight: 326
 url: /cpp/aspose.slides/baseportionformat/set_ishardunderlinefill/
 ---
-## BasePortionFormat::set_IsHardUnderlineFill method
+## BasePortionFormat::set_IsHardUnderlineFill([NullableBool](../../nullablebool/)) method
 
 
 Determines whether the underline style has own [FillFormat](../../fillformat/) properties or inherits it from the [FillFormat](../../fillformat/) properties of the text. Write [NullableBool](../../nullablebool/).

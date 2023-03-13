@@ -1,12 +1,12 @@
 ---
-title: InsertClone
+title: InsertClone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the specified template row and insert it at the specified position in a table.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/rowcollection/insertclone/
 ---
-## RowCollection::InsertClone method
+## RowCollection::InsertClone(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IRow](../../irow/)\>, **bool**) method
 
 
 Creates a copy of the specified template row and insert it at the specified position in a table.

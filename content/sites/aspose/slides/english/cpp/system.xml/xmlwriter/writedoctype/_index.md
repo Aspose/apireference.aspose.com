@@ -1,12 +1,12 @@
 ---
-title: WriteDocType
+title: WriteDocType()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes the DOCTYPE declaration with the specified name and optional attributes.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlwriter/writedoctype/
 ---
-## XmlWriter::WriteDocType method
+## XmlWriter::WriteDocType(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 When overridden in a derived class, writes the DOCTYPE declaration with the specified name and optional attributes.

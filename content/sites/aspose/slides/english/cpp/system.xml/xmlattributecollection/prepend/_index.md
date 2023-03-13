@@ -1,12 +1,12 @@
 ---
-title: Prepend
+title: Prepend()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts the specified attribute as the first node in the collection.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlattributecollection/prepend/
 ---
-## XmlAttributeCollection::Prepend method
+## XmlAttributeCollection::Prepend(const [SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../xmlattribute/)\>\&) method
 
 
 Inserts the specified attribute as the first node in the collection.

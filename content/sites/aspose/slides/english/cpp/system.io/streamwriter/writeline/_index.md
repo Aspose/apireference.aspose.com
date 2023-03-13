@@ -1,5 +1,5 @@
 ---
-title: WriteLine
+title: WriteLine()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes line terminator characters to the stream.
 type: docs

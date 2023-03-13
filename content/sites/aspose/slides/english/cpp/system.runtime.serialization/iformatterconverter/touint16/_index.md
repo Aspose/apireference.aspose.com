@@ -1,12 +1,12 @@
 ---
-title: ToUInt16
+title: ToUInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a uint16_t.
 type: docs
 weight: 170
 url: /cpp/system.runtime.serialization/iformatterconverter/touint16/
 ---
-## IFormatterConverter::ToUInt16 method
+## IFormatterConverter::ToUInt16([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a **uint16_t**.

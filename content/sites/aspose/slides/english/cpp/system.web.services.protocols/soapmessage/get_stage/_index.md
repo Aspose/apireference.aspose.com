@@ -1,12 +1,12 @@
 ---
-title: get_Stage
+title: get_Stage()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the processing stage of a SOAP message.
 type: docs
 weight: 105
 url: /cpp/system.web.services.protocols/soapmessage/get_stage/
 ---
-## SoapMessage::get_Stage method
+## SoapMessage::get_Stage() method
 
 
 Gets the processing stage of a SOAP message.

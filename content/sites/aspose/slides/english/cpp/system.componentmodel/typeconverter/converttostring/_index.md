@@ -1,5 +1,5 @@
 ---
-title: ConvertToString
+title: ConvertToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts object to string.
 type: docs

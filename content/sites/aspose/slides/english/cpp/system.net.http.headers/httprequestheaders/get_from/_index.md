@@ -1,12 +1,12 @@
 ---
-title: get_From
+title: get_From()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'From' header.
 type: docs
 weight: 118
 url: /cpp/system.net.http.headers/httprequestheaders/get_from/
 ---
-## HttpRequestHeaders::get_From method
+## HttpRequestHeaders::get_From() method
 
 
 Gets a value of the 'From' header.

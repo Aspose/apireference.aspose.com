@@ -1,12 +1,12 @@
 ---
-title: get_ConformsTo
+title: get_ConformsTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the WSI specification.
 type: docs
 weight: 105
 url: /cpp/system.web.services/webservicebindingattribute/get_conformsto/
 ---
-## WebServiceBindingAttribute::get_ConformsTo method
+## WebServiceBindingAttribute::get_ConformsTo() method
 
 
 Gets the WSI specification.

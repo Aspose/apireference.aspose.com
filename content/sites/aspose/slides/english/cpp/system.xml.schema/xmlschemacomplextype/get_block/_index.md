@@ -1,12 +1,12 @@
 ---
-title: get_Block
+title: get_Block()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the block attribute.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_block/
 ---
-## XmlSchemaComplexType::get_Block method
+## XmlSchemaComplexType::get_Block() method
 
 
 Returns the **block** attribute.

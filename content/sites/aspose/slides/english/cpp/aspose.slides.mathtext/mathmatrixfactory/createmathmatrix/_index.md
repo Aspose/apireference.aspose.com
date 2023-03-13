@@ -1,15 +1,15 @@
 ---
-title: CreateMathMatrix
+title: CreateMathMatrix()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates a math matrix.
+description: Creates a math matrix
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathmatrixfactory/createmathmatrix/
 ---
-## MathMatrixFactory::CreateMathMatrix method
+## MathMatrixFactory::CreateMathMatrix(**int32_t**, **int32_t**) method
 
 
-Creates a math matrix.
+Creates a math matrix
 
 ```cpp
 System::SharedPtr<IMathMatrix> Aspose::Slides::MathText::MathMatrixFactory::CreateMathMatrix(int32_t rowCount, int32_t columnCount) override

@@ -1,12 +1,12 @@
 ---
-title: set_LongDatePattern
+title: set_LongDatePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets long date pattern.
 type: docs
 weight: 118
 url: /cpp/system.globalization/datetimeformatinfo/set_longdatepattern/
 ---
-## DateTimeFormatInfo::set_LongDatePattern method
+## DateTimeFormatInfo::set_LongDatePattern(const [String](../../../system/string/)\&) method
 
 
 Sets long date pattern.

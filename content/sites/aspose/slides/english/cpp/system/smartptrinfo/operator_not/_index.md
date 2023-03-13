@@ -1,12 +1,12 @@
 ---
-title: operator!
+title: operator!()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if info object does not point to non-null pointer.
 type: docs
 weight: 27
 url: /cpp/system/smartptrinfo/operator_not/
 ---
-## SmartPtrInfo::operator! method
+## SmartPtrInfo::operator!() const method
 
 
 Checks if info object does not point to non-null pointer.

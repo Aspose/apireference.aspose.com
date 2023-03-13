@@ -1,12 +1,12 @@
 ---
-title: get_SupportsCookieContainer
+title: get_SupportsCookieContainer()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the current request can use a cookie container.
 type: docs
 weight: 287
 url: /cpp/system.net/httpwebrequest/get_supportscookiecontainer/
 ---
-## HttpWebRequest::get_SupportsCookieContainer method
+## HttpWebRequest::get_SupportsCookieContainer() method
 
 
 Returns a value that indicates if the current request can use a cookie container.

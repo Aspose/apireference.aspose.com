@@ -1,12 +1,12 @@
 ---
-title: set_TriggerDelayTime
+title: set_TriggerDelayTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes delay time after trigger. Write float.
 type: docs
-weight: 274
+weight: 300
 url: /cpp/aspose.slides.animation/timing/set_triggerdelaytime/
 ---
-## Timing::set_TriggerDelayTime method
+## Timing::set_TriggerDelayTime(**float**) method
 
 
 Describes delay time after trigger. Write **float**.

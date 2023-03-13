@@ -1,12 +1,12 @@
 ---
-title: WriteSubtree
+title: WriteSubtree()
 second_title: Aspose.Slides for C++ API Reference
 description: Streams the current node and its child nodes to the XmlWriter object specified.
 type: docs
 weight: 469
 url: /cpp/system.xml.xpath/xpathnavigator/writesubtree/
 ---
-## XPathNavigator::WriteSubtree method
+## XPathNavigator::WriteSubtree([SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../../system.xml/xmlwriter/)\>) method
 
 
 Streams the current node and its child nodes to the [XmlWriter](../../../system.xml/xmlwriter/) object specified.

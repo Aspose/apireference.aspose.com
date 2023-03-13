@@ -1,12 +1,12 @@
 ---
-title: UnionWith
+title: UnionWith()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds elements from specified collection that are not present in current set yet.
 type: docs
 weight: 131
 url: /cpp/system.collections.generic/iset/unionwith/
 ---
-## ISet::UnionWith method
+## ISet::UnionWith([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Adds elements from specified collection that are not present in current set yet.

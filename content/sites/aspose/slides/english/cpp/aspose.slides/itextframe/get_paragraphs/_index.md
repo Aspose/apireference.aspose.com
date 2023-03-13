@@ -1,12 +1,12 @@
 ---
-title: get_Paragraphs
+title: get_Paragraphs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the list of all paragraphs in a frame. Read-only IParagraphCollection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/itextframe/get_paragraphs/
 ---
-## ITextFrame::get_Paragraphs method
+## ITextFrame::get_Paragraphs() method
 
 
 Returns the list of all paragraphs in a frame. Read-only [IParagraphCollection](../../iparagraphcollection/).

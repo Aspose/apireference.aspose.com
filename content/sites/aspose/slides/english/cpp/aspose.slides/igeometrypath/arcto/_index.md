@@ -1,12 +1,12 @@
 ---
-title: ArcTo
+title: ArcTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Appends the specified arc to the path.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/igeometrypath/arcto/
 ---
-## IGeometryPath::ArcTo method
+## IGeometryPath::ArcTo(**float**, **float**, **float**, **float**) method
 
 
 Appends the specified arc to the path.

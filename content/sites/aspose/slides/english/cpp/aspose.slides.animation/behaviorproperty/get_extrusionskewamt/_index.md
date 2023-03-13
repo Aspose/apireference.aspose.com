@@ -1,15 +1,15 @@
 ---
-title: get_ExtrusionSkewAmt
+title: get_ExtrusionSkewAmt()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'extrusion.skewamt' property.
+description: Represents 'extrusion.skewamt' property
 type: docs
 weight: 1418
 url: /cpp/aspose.slides.animation/behaviorproperty/get_extrusionskewamt/
 ---
-## BehaviorProperty::get_ExtrusionSkewAmt method
+## BehaviorProperty::get_ExtrusionSkewAmt() method
 
 
-Represents 'extrusion.skewamt' property.
+Represents 'extrusion.skewamt' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ExtrusionSkewAmt()

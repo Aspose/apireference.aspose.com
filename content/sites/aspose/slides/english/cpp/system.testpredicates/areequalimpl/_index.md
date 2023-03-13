@@ -1,5 +1,5 @@
 ---
-title: AreEqualImpl
+title: AreEqualImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Equal-compares floating point with arithmetic types.
 type: docs

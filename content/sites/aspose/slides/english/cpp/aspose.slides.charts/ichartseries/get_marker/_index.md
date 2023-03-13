@@ -1,12 +1,12 @@
 ---
-title: get_Marker
+title: get_Marker()
 second_title: Aspose.Slides for C++ API Reference
 description: Return series marker. Read-only IMarker.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/ichartseries/get_marker/
 ---
-## IChartSeries::get_Marker method
+## IChartSeries::get_Marker() method
 
 
 Return series marker. Read-only [IMarker](../../imarker/).

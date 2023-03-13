@@ -1,12 +1,12 @@
 ---
-title: set_MaxResponseContentBufferSize
+title: set_MaxResponseContentBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the maximum number of bytes of response content.
 type: docs
 weight: 79
 url: /cpp/system.net.http/httpclient/set_maxresponsecontentbuffersize/
 ---
-## HttpClient::set_MaxResponseContentBufferSize method
+## HttpClient::set_MaxResponseContentBufferSize(**int64_t**) method
 
 
 Sets the maximum number of bytes of response content.

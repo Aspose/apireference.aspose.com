@@ -1,5 +1,5 @@
 ---
-title: Read
+title: Read()
 second_title: Aspose.Slides for C++ API Reference
 description: "Reads an XML Schema from the supplied IO::TextReader."
 type: docs

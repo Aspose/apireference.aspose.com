@@ -1,15 +1,15 @@
 ---
-title: get_FractionType
+title: get_FractionType()
 second_title: Aspose.Slides for C++ API Reference
-description: "Fraction type Default: Bar."
+description: "Fraction type Default: Bar"
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathfraction/get_fractiontype/
 ---
-## IMathFraction::get_FractionType method
+## IMathFraction::get_FractionType() method
 
 
-Fraction type Default: Bar.
+Fraction type Default: Bar
 
 ```cpp
 virtual MathFractionTypes Aspose::Slides::MathText::IMathFraction::get_FractionType()=0

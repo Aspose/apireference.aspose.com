@@ -36,17 +36,17 @@ template<typename T>class LinkedList : public virtual System::Object,
 | void [AddFirst](./addfirst/)(const [SharedPtr](../../system/sharedptr/)\<[LinkedListNode](../linkedlistnode/)\<T\>\>\&) | Adds **newNode** to the beginning of the list. |
 | [SharedPtr](../../system/sharedptr/)\<[LinkedListNode](../linkedlistnode/)\<T\>\> [AddLast](./addlast/)(const T\&) | Adds **element** to the end of the list. |
 | void [AddLast](./addlast/)(const [SharedPtr](../../system/sharedptr/)\<[LinkedListNode](../linkedlistnode/)\<T\>\>\&) | Adds **newNode** to the end of the list. |
-| [iterator](./iterator/) [begin](./begin/)() | Gets iterator to the first element of collection. |
-| [const_iterator](./const_iterator/) [begin](./begin/)() const | Gets iterator to the first element of the const-qualified collection. |
-| [const_iterator](./const_iterator/) [cbegin](./cbegin/)() const | Gets iterator to the first const-qualified element of collection. |
-| [const_iterator](./const_iterator/) [cend](./cend/)() const | Gets iterator for a non-existent const-qualified element behind the end of the collection. |
+| [iterator](../ienumerable/iterator/) [begin](./begin/)() | Gets iterator to the first element of collection. |
+| [const_iterator](../ienumerable/const_iterator/) [begin](./begin/)() const | Gets iterator to the first element of the const-qualified collection. |
+| [const_iterator](../ienumerable/const_iterator/) [cbegin](./cbegin/)() const | Gets iterator to the first const-qualified element of collection. |
+| [const_iterator](../ienumerable/const_iterator/) [cend](./cend/)() const | Gets iterator for a non-existent const-qualified element behind the end of the collection. |
 | void [Clear](./clear/)() override | Deletes all elements in list. |
 | **bool** [Contains](./contains/)(const T\&) const override | Checks if **element** is present in list. |
 | void [CopyTo](./copyto/)([ArrayPtr](../../system/arrayptr/)\<T\>, int) override | Copies container data into existing array elements. |
 | [const_reverse_iterator](./const_reverse_iterator/) [crbegin](./crbegin/)() const | Gets a reverse iterator to the last const-qualified element of collection (first in reverse). |
 | [const_reverse_iterator](./const_reverse_iterator/) [crend](./crend/)() const | Gets a reverse iterator for a non-existent const-qualified element before the start of the collection. |
-| [iterator](./iterator/) [end](./end/)() | Gets iterator for a non-existent element behind the end of the collection. |
-| [const_iterator](./const_iterator/) [end](./end/)() const | Gets iterator for a non-existent element behind the end of the const-qualified collection. |
+| [iterator](../ienumerable/iterator/) [end](./end/)() | Gets iterator for a non-existent element behind the end of the collection. |
+| [const_iterator](../ienumerable/const_iterator/) [end](./end/)() const | Gets iterator for a non-existent element behind the end of the const-qualified collection. |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

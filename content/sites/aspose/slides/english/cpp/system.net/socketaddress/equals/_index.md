@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares objects using C# Object.Equals semantics.
 type: docs
 weight: 66
 url: /cpp/system.net/socketaddress/equals/
 ---
-## SocketAddress::Equals method
+## SocketAddress::Equals([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Compares objects using C# [Object.Equals](../../../system/object/equals/) semantics.

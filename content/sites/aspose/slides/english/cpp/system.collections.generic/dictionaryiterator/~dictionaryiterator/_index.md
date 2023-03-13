@@ -1,12 +1,12 @@
 ---
-title: ~DictionaryIterator
+title: ~DictionaryIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/dictionaryiterator/~dictionaryiterator/
 ---
-## DictionaryIterator::~DictionaryIterator method
+## DictionaryIterator::~DictionaryIterator() method
 
 
 Destructor.

@@ -1,12 +1,12 @@
 ---
-title: set_EndCap
+title: set_EndCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the ending line cap of the current Pen object.
 type: docs
 weight: 105
 url: /cpp/system.drawing/pen/set_endcap/
 ---
-## Pen::set_EndCap method
+## Pen::set_EndCap([Drawing2D::LineCap](../../../system.drawing.drawing2d/linecap/)) method
 
 
 Sets the ending line cap of the current [Pen](../) object.

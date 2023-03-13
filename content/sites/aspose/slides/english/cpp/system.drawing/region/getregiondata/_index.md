@@ -1,12 +1,12 @@
 ---
-title: GetRegionData
+title: GetRegionData()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a RegionData object containing data that defines the region represented by the current object.
 type: docs
 weight: 248
 url: /cpp/system.drawing/region/getregiondata/
 ---
-## Region::GetRegionData method
+## Region::GetRegionData() const method
 
 
 Returns a RegionData object containing data that defines the region represented by the current object.

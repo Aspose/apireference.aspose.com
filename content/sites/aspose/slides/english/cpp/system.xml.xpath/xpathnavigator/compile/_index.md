@@ -1,12 +1,12 @@
 ---
-title: Compile
+title: Compile()
 second_title: Aspose.Slides for C++ API Reference
 description: Compiles a string representing an XPath expression and returns an XPathExpression object.
 type: docs
 weight: 768
 url: /cpp/system.xml.xpath/xpathnavigator/compile/
 ---
-## XPathNavigator::Compile method
+## XPathNavigator::Compile([String](../../../system/string/)) method
 
 
 Compiles a string representing an [XPath](../../) expression and returns an [XPathExpression](../../xpathexpression/) object.

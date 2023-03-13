@@ -1,5 +1,5 @@
 ---
-title: UnknownToObject
+title: UnknownToObject()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts unknown type to Object, handling both smart pointer type and value type situations.
 type: docs

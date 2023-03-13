@@ -1,5 +1,5 @@
 ---
-title: StaticCast
+title: StaticCast()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs static cast on SmartPtr objects.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: IsValidText
+title: IsValidText()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if text is valid.
 type: docs
 weight: 287
 url: /cpp/system.security/securityelement/isvalidtext/
 ---
-## SecurityElement::IsValidText method
+## SecurityElement::IsValidText(const [String](../../../system/string/)\&) method
 
 
 Checks if text is valid.

@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first instance of the specified item from the list.
 type: docs
 weight: 27
 url: /cpp/system.collections/ilist/remove/
 ---
-## IList::Remove method
+## IList::Remove([SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Removes the first instance of the specified item from the list.

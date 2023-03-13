@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes element from collection.
 type: docs
 weight: 131
 url: /cpp/system.net.http.headers/httpheadervaluecollection_tmpl_system_string__end_tmpl/remove/
 ---
-## HttpHeaderValueCollection< System::String >::Remove method
+## HttpHeaderValueCollection< System::String >::Remove(const [String](../../../system/string/)\&) method
 
 
 Deletes element from collection.

@@ -1,12 +1,12 @@
 ---
-title: set_AbbreviatedDayNames
+title: set_AbbreviatedDayNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets abbreviated day names.
 type: docs
 weight: 274
 url: /cpp/system.globalization/datetimeformatinfo/set_abbreviateddaynames/
 ---
-## DateTimeFormatInfo::set_AbbreviatedDayNames method
+## DateTimeFormatInfo::set_AbbreviatedDayNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
 
 
 Sets abbreviated day names.

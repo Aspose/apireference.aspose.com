@@ -1,12 +1,12 @@
 ---
-title: get_NotesViewProperties
+title: get_NotesViewProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies common view properties associated with the notes view mode. Read-only ICommonSlideViewProperties.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/iviewproperties/get_notesviewproperties/
 ---
-## IViewProperties::get_NotesViewProperties method
+## IViewProperties::get_NotesViewProperties() method
 
 
 Specifies common view properties associated with the notes view mode. Read-only [ICommonSlideViewProperties](../../icommonslideviewproperties/).

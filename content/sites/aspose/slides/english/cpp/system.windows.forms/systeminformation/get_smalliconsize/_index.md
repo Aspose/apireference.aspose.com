@@ -1,12 +1,12 @@
 ---
-title: get_SmallIconSize
+title: get_SmallIconSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1080
 url: /cpp/system.windows.forms/systeminformation/get_smalliconsize/
 ---
-## SystemInformation::get_SmallIconSize method
+## SystemInformation::get_SmallIconSize() method
 
 
 NOT IMPLEMENTED.

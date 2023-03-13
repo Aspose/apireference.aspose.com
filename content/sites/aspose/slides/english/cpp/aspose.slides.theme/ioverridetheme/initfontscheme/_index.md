@@ -1,12 +1,12 @@
 ---
-title: InitFontScheme
+title: InitFontScheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Init FontScheme with new object for overriding FontScheme of InheritedTheme.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.theme/ioverridetheme/initfontscheme/
 ---
-## IOverrideTheme::InitFontScheme method
+## IOverrideTheme::InitFontScheme() method
 
 
 Init [FontScheme](../../fontscheme/) with new object for overriding [FontScheme](../../fontscheme/) of InheritedTheme.

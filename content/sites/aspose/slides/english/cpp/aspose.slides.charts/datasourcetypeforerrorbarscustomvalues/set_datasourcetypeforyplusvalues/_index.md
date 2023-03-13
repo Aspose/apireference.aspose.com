@@ -1,12 +1,12 @@
 ---
-title: set_DataSourceTypeForYPlusValues
+title: set_DataSourceTypeForYPlusValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual in data points YPlus property object for error bars custom values. In other words it specifies the type of value of ChartDataPointEx.ErrorBarsCustomValues.YPlus.Data property. Write DataSourceType.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/datasourcetypeforerrorbarscustomvalues/set_datasourcetypeforyplusvalues/
 ---
-## DataSourceTypeForErrorBarsCustomValues::set_DataSourceTypeForYPlusValues method
+## DataSourceTypeForErrorBarsCustomValues::set_DataSourceTypeForYPlusValues([DataSourceType](../../datasourcetype/)) method
 
 
 Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual in data points YPlus property object for error bars custom values. In other words it specifies the type of value of ChartDataPointEx.ErrorBarsCustomValues.YPlus.Data property. Write [DataSourceType](../../datasourcetype/).

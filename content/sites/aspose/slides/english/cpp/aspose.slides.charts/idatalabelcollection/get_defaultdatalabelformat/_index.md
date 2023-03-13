@@ -1,12 +1,12 @@
 ---
-title: get_DefaultDataLabelFormat
+title: get_DefaultDataLabelFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns default format of all data labels in the collection. Read-only IDataLabelFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/idatalabelcollection/get_defaultdatalabelformat/
 ---
-## IDataLabelCollection::get_DefaultDataLabelFormat method
+## IDataLabelCollection::get_DefaultDataLabelFormat() method
 
 
 Returns default format of all data labels in the collection. Read-only [IDataLabelFormat](../../idatalabelformat/).

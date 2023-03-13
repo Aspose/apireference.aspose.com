@@ -1,5 +1,5 @@
 ---
-title: Radical
+title: Radical()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the mathematical root of the given degree from the specified argument.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_LocalEndpoint
+title: get_LocalEndpoint()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the underlying endpoint.
 type: docs
 weight: 14
 url: /cpp/system.net.sockets/tcplistener/get_localendpoint/
 ---
-## TcpListener::get_LocalEndpoint method
+## TcpListener::get_LocalEndpoint() method
 
 
 Returns the underlying endpoint.

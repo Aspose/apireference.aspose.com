@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets hash code on arbitrary type. Calls Object::GetHashCode() to do so."
 type: docs
 weight: 1
 url: /cpp/system.runtime.compilerservices/runtimehelpers/gethashcode/
 ---
-## RuntimeHelpers::GetHashCode method
+## RuntimeHelpers::GetHashCode([SmartPtr](../../../system/smartptr/)\<T\> const\&) method
 
 
 Gets hash code on arbitrary type. Calls [Object::GetHashCode()](../../../system/object/gethashcode/) to do so.

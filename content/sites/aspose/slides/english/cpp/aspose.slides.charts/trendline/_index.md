@@ -1,7 +1,7 @@
 ---
 title: Trendline
 second_title: Aspose.Slides for C++ API Reference
-description: Class represents trend line of chart series.
+description: Class represents trend line of chart series
 type: docs
 weight: 1366
 url: /cpp/aspose.slides.charts/trendline/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/trendline/
 ## Trendline class
 
 
-Class represents trend line of chart series.
+Class represents trend line of chart series
 
 ```cpp
 class Trendline : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::TrendlineCollection>>,

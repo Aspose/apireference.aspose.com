@@ -1,12 +1,12 @@
 ---
-title: get_VbaProject
+title: get_VbaProject()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets VBA project with presentation macros. Read Vba::IVbaProject."
 type: docs
 weight: 261
 url: /cpp/aspose.slides/ipresentation/get_vbaproject/
 ---
-## IPresentation::get_VbaProject method
+## IPresentation::get_VbaProject() method
 
 
 Gets VBA project with presentation macros. Read [Vba::IVbaProject](../../../aspose.slides.vba/ivbaproject/).

@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the height of the paper, in hundredths of an inch.
 type: docs
 weight: 14
 url: /cpp/system.drawing.printing/papersize/get_height/
 ---
-## PaperSize::get_Height method
+## PaperSize::get_Height() const method
 
 
 Gets the height of the paper, in hundredths of an inch.

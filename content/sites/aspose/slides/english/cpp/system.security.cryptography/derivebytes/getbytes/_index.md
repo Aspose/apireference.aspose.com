@@ -1,12 +1,12 @@
 ---
-title: GetBytes
+title: GetBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/derivebytes/getbytes/
 ---
-## DeriveBytes::GetBytes method
+## DeriveBytes::GetBytes(**int32_t**) method
 
 
 RTTI information.

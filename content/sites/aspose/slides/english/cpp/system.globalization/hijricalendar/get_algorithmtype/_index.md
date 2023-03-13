@@ -1,12 +1,12 @@
 ---
-title: get_AlgorithmType
+title: get_AlgorithmType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets algorithm type.
 type: docs
 weight: 40
 url: /cpp/system.globalization/hijricalendar/get_algorithmtype/
 ---
-## HijriCalendar::get_AlgorithmType method
+## HijriCalendar::get_AlgorithmType() const method
 
 
 Gets algorithm type.

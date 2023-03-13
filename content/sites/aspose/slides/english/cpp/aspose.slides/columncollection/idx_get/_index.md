@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the column at the specified index. Read-only Column.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/columncollection/idx_get/
 ---
-## ColumnCollection::idx_get method
+## ColumnCollection::idx_get(**int32_t**) method
 
 
 Returns the column at the specified index. Read-only [Column](../../column/).

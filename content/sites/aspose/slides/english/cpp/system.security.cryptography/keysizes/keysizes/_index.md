@@ -1,12 +1,12 @@
 ---
-title: KeySizes
+title: KeySizes()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/keysizes/keysizes/
 ---
-## KeySizes::KeySizes constructor
+## KeySizes::KeySizes(int, int, int) constructor
 
 
 RTTI information.

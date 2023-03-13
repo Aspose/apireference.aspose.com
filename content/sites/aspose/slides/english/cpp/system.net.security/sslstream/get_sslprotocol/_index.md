@@ -1,12 +1,12 @@
 ---
-title: get_SslProtocol
+title: get_SslProtocol()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the SSL protocol.
 type: docs
 weight: 66
 url: /cpp/system.net.security/sslstream/get_sslprotocol/
 ---
-## SslStream::get_SslProtocol method
+## SslStream::get_SslProtocol() method
 
 
 Returns the SSL protocol.

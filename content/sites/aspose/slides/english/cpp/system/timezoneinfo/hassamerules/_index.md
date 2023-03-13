@@ -1,12 +1,12 @@
 ---
-title: HasSameRules
+title: HasSameRules()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if current and another time zones have the same adjustment rules.
 type: docs
 weight: 300
 url: /cpp/system/timezoneinfo/hassamerules/
 ---
-## TimeZoneInfo::HasSameRules method
+## TimeZoneInfo::HasSameRules(const [TimeZoneInfoPtr](../../timezoneinfoptr/)\&) const method
 
 
 Checks if current and another time zones have the same adjustment rules.

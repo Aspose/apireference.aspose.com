@@ -1,12 +1,12 @@
 ---
-title: EventWaitHandle
+title: EventWaitHandle()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.threading/eventwaithandle/eventwaithandle/
 ---
-## EventWaitHandle::EventWaitHandle constructor
+## EventWaitHandle::EventWaitHandle(**bool**, [EventResetMode](../../eventresetmode/)) constructor
 
 
 Constructor.

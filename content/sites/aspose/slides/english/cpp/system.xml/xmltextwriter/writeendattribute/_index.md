@@ -1,12 +1,12 @@
 ---
-title: WriteEndAttribute
+title: WriteEndAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: "Closes the previous XmlTextWriter::WriteStartAttribute call."
 type: docs
 weight: 287
 url: /cpp/system.xml/xmltextwriter/writeendattribute/
 ---
-## XmlTextWriter::WriteEndAttribute method
+## XmlTextWriter::WriteEndAttribute() method
 
 
 Closes the previous [XmlTextWriter::WriteStartAttribute](../writestartattribute/) call.

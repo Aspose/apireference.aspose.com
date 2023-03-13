@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.globalization/idnmapping/operator_equal/
 ---
-## IdnMapping::operator= method
+## IdnMapping::operator=(const [IdnMapping](../)\&) method
 
 
 

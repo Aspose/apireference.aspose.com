@@ -1,12 +1,12 @@
 ---
-title: set_Height
+title: set_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the height of a title as a fraction of the height of the chart. Write float.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/charttitle/set_height/
 ---
-## ChartTitle::set_Height method
+## ChartTitle::set_Height(**float**) method
 
 
 Sets the height of a title as a fraction of the height of the chart. Write **float**.

@@ -1,5 +1,5 @@
 ---
-title: AddAutoShape
+title: AddAutoShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new AutoShape, tunes it from default template and adds it to the end of the collection.
 type: docs

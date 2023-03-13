@@ -1,12 +1,12 @@
 ---
-title: FastCast
+title: FastCast()
 second_title: Aspose.Slides for C++ API Reference
 description: For internal purposes only.
 type: docs
 weight: 248
 url: /cpp/system/object/fastcast/
 ---
-## Object::FastCast method
+## Object::FastCast(const Details::FastRttiBase\&, void **) const method
 
 
 For internal purposes only.

@@ -1,12 +1,12 @@
 ---
-title: EncoderExceptionFallback
+title: EncoderExceptionFallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.text/encoderexceptionfallback/encoderexceptionfallback/
 ---
-## EncoderExceptionFallback::EncoderExceptionFallback constructor
+## EncoderExceptionFallback::EncoderExceptionFallback() constructor
 
 
 Constructor.

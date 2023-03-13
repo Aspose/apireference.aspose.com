@@ -1,12 +1,12 @@
 ---
-title: get_IsSuccessStatusCode
+title: get_IsSuccessStatusCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the status code indicates that the action requested by the client was received, understood, and accepted.
 type: docs
 weight: 144
 url: /cpp/system.net.http/httpresponsemessage/get_issuccessstatuscode/
 ---
-## HttpResponseMessage::get_IsSuccessStatusCode method
+## HttpResponseMessage::get_IsSuccessStatusCode() const method
 
 
 Checks if the status code indicates that the action requested by the client was received, understood, and accepted.

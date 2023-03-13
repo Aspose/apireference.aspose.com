@@ -1,5 +1,5 @@
 ---
-title: TryGetFirst
+title: TryGetFirst()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to get the first element of the collection.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_NotationName
+title: get_NotationName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the optional NDATA attribute on the entity declaration.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlentity/get_notationname/
 ---
-## XmlEntity::get_NotationName method
+## XmlEntity::get_NotationName() method
 
 
 Returns the name of the optional NDATA attribute on the entity declaration.

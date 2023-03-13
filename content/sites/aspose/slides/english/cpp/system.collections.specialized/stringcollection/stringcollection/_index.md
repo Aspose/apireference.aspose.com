@@ -1,12 +1,12 @@
 ---
-title: StringCollection
+title: StringCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs empty string collection.
 type: docs
 weight: 1
 url: /cpp/system.collections.specialized/stringcollection/stringcollection/
 ---
-## StringCollection::StringCollection constructor
+## StringCollection::StringCollection() constructor
 
 
 Constructs empty string collection.

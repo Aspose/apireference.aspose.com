@@ -1,5 +1,5 @@
 ---
-title: Intersect
+title: Intersect()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces the rectangle represented by the current object with the rectangle that results from the its intersection with the rectangle represented by the specified object.
 type: docs

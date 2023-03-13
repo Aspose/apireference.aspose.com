@@ -1,12 +1,12 @@
 ---
-title: get_NumberDecimalDigits
+title: get_NumberDecimalDigits()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of decimal digits.
 type: docs
 weight: 66
 url: /cpp/system.globalization/numberformatinfo/get_numberdecimaldigits/
 ---
-## NumberFormatInfo::get_NumberDecimalDigits method
+## NumberFormatInfo::get_NumberDecimalDigits() const method
 
 
 Gets number of decimal digits.

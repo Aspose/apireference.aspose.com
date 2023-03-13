@@ -1,5 +1,5 @@
 ---
-title: ProcessStartInfo
+title: ProcessStartInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates empty start info object.
 type: docs

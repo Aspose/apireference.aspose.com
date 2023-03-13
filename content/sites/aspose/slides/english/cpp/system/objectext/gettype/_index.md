@@ -1,5 +1,5 @@
 ---
-title: GetType
+title: GetType()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements typeof() translation. Overload for smart pointers.
 type: docs

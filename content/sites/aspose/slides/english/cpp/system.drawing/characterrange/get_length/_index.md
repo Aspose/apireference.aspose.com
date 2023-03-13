@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of characters in the range represented by the current object.
 type: docs
 weight: 40
 url: /cpp/system.drawing/characterrange/get_length/
 ---
-## CharacterRange::get_Length method
+## CharacterRange::get_Length() const method
 
 
 Returns the number of characters in the range represented by the current object.

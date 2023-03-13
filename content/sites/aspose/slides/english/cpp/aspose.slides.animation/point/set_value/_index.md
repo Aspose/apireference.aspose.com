@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents point value. Only: bool, ColorFormat, float, int, string. Write System::Object."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/point/set_value/
 ---
-## Point::set_Value method
+## Point::set_Value([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Represents point value. Only: bool, [ColorFormat](../../../aspose.slides/colorformat/), float, int, string. Write [System::Object](../../../system/object/).

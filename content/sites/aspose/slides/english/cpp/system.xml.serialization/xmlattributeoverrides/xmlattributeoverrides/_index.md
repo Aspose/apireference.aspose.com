@@ -1,12 +1,12 @@
 ---
-title: XmlAttributeOverrides
+title: XmlAttributeOverrides()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.xml.serialization/xmlattributeoverrides/xmlattributeoverrides/
 ---
-## XmlAttributeOverrides::XmlAttributeOverrides constructor
+## XmlAttributeOverrides::XmlAttributeOverrides() constructor
 
 
 Constructor.

@@ -1,12 +1,12 @@
 ---
-title: get_IsMixed
+title: get_IsMixed()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns information that determines if the type has a mixed content model.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemacomplexcontent/get_ismixed/
 ---
-## XmlSchemaComplexContent::get_IsMixed method
+## XmlSchemaComplexContent::get_IsMixed() method
 
 
 Returns information that determines if the type has a mixed content model.

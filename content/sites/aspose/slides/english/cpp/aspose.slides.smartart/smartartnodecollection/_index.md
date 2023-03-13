@@ -20,7 +20,7 @@ class SmartArtNodeCollection : public Aspose::Slides::SmartArt::ISmartArtNodeCol
 | Method | Description |
 | --- | --- |
 | [System::SharedPtr](../../system/sharedptr/)\<[ISmartArtNode](../ismartartnode/)\> [AddNode](./addnode/)() override | Add new smart art node or sub node. |
-| [System::SharedPtr](../../system/sharedptr/)\<[ISmartArtNode](../ismartartnode/)\> [AddNodeByPosition](./addnodebyposition/)(**int32_t**) override | Add new node in the selected position of nodes collection. |
+| [System::SharedPtr](../../system/sharedptr/)\<[ISmartArtNode](../ismartartnode/)\> [AddNodeByPosition](./addnodebyposition/)(**int32_t**) override | Add new node in the selected position of nodes collection |
 | [iterator](./iterator/) [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [const_iterator](./const_iterator/) [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [const_iterator](./const_iterator/) [cbegin](./cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
@@ -41,7 +41,7 @@ class SmartArtNodeCollection : public Aspose::Slides::SmartArt::ISmartArtNodeCol
 | [System::SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::IEnumerator](../../system.collections.generic/ienumerator/)\<[System::SharedPtr](../../system/sharedptr/)\<[ISmartArtNode](../ismartartnode/)\>\>\> [GetEnumerator](./getenumerator/)() override | Returns an enumerator that iterates through the collection. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
-| [System::SharedPtr](../../system/sharedptr/)\<[ISmartArtNode](../ismartartnode/)\> [idx_get](./idx_get/)(**int32_t**) override | Returns node by index. |
+| [System::SharedPtr](../../system/sharedptr/)\<[ISmartArtNode](../ismartartnode/)\> [idx_get](./idx_get/)(**int32_t**) override | Returns node by index |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
 | **bool** [LINQ_All](../../system.collections.generic/ienumerable/linq_all/)(std::function\<**bool**(T)>) | Determines whether all elements of a sequence satisfy a condition. |
 | **bool** [LINQ_Any](../../system.collections.generic/ienumerable/linq_any/)() | Determines whether a sequence contains any elements. |
@@ -87,8 +87,8 @@ class SmartArtNodeCollection : public Aspose::Slides::SmartArt::ISmartArtNodeCol
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
-| void [RemoveNode](./removenode/)(**int32_t**) override | Remove node or sub node by index. |
-| void [RemoveNode](./removenode/)([System::SharedPtr](../../system/sharedptr/)\<[ISmartArtNode](../ismartartnode/)\>) override | Remove node or sub node. |
+| void [RemoveNode](./removenode/)(**int32_t**) override | Remove node or sub node by index |
+| void [RemoveNode](./removenode/)([System::SharedPtr](../../system/sharedptr/)\<[ISmartArtNode](../ismartartnode/)\>) override | Remove node or sub node |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

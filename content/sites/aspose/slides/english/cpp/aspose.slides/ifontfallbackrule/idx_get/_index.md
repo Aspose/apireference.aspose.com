@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the font name at the specified index.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ifontfallbackrule/idx_get/
 ---
-## IFontFallBackRule::idx_get method
+## IFontFallBackRule::idx_get(**int32_t**) method
 
 
 Gets the font name at the specified index.

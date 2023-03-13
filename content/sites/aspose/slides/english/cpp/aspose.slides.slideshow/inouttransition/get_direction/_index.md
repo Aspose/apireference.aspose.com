@@ -1,12 +1,12 @@
 ---
-title: get_Direction
+title: get_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of a transition effect. Read TransitionInOutDirectionType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.slideshow/inouttransition/get_direction/
 ---
-## InOutTransition::get_Direction method
+## InOutTransition::get_Direction() method
 
 
 Direction of a transition effect. Read [TransitionInOutDirectionType](../../transitioninoutdirectiontype/).

@@ -1,12 +1,12 @@
 ---
-title: CloneT
+title: CloneT()
 second_title: Aspose.Slides for C++ API Reference
 description: Clones.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/shapeframe/clonet/
 ---
-## ShapeFrame::CloneT method
+## ShapeFrame::CloneT() method
 
 
 Clones.

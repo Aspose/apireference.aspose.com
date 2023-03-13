@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes connection.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/cryptostream/close/
 ---
-## CryptoStream::Close method
+## CryptoStream::Close() method
 
 
 Closes connection.

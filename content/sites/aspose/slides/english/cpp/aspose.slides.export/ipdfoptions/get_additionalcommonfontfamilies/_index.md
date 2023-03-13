@@ -1,12 +1,12 @@
 ---
-title: get_AdditionalCommonFontFamilies
+title: get_AdditionalCommonFontFamilies()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an array of user-defined names of font families which Aspose.Slides should consider common. Read System::String[]."
 type: docs
 weight: 105
 url: /cpp/aspose.slides.export/ipdfoptions/get_additionalcommonfontfamilies/
 ---
-## IPdfOptions::get_AdditionalCommonFontFamilies method
+## IPdfOptions::get_AdditionalCommonFontFamilies() method
 
 
 Returns an array of user-defined names of font families which [Aspose.Slides](../../../aspose.slides/) should consider common. Read [System::String](../../../system/string/)[].

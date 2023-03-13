@@ -1,12 +1,12 @@
 ---
-title: set_ItemType
+title: set_ItemType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the simpleType element that is derived from the type specified by the base value.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemasimpletypelist/set_itemtype/
 ---
-## XmlSchemaSimpleTypeList::set_ItemType method
+## XmlSchemaSimpleTypeList::set_ItemType(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaSimpleType](../../xmlschemasimpletype/)\>\&) method
 
 
 Sets the **simpleType** element that is derived from the type specified by the base value.

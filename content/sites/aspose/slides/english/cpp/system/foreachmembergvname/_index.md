@@ -1,12 +1,12 @@
 ---
-title: ForEachMemberGVName
+title: ForEachMemberGVName()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 2627
 url: /cpp/system/foreachmembergvname/
 ---
-## System::ForEachMemberGVName function
+## System::ForEachMemberGVName() function
 
 
 

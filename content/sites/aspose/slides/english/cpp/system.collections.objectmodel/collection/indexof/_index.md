@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Looks for element in collection.
 type: docs
 weight: 131
 url: /cpp/system.collections.objectmodel/collection/indexof/
 ---
-## Collection::IndexOf method
+## Collection::IndexOf(const T\&) const method
 
 
 Looks for element in collection.

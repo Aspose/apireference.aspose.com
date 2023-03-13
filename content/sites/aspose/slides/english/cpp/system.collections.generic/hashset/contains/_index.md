@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if element is present in set.
 type: docs
 weight: 144
 url: /cpp/system.collections.generic/hashset/contains/
 ---
-## HashSet::Contains method
+## HashSet::Contains(const T\&) const method
 
 
 Checks if element is present in set.

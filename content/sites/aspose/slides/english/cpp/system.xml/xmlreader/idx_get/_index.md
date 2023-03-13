@@ -1,5 +1,5 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the value of the attribute with the specified index.
 type: docs

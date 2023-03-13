@@ -1,12 +1,12 @@
 ---
-title: get_EffectColor
+title: get_EffectColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shape's effect color. Read-only IColorFormat.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/shapestyle/get_effectcolor/
 ---
-## ShapeStyle::get_EffectColor method
+## ShapeStyle::get_EffectColor() method
 
 
 Returns a shape's effect color. Read-only [IColorFormat](../../icolorformat/).

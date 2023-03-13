@@ -1,7 +1,7 @@
 ---
 title: IMathFractionFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a math fraction.
+description: Allows to create a math fraction
 type: docs
 weight: 287
 url: /cpp/aspose.slides.mathtext/imathfractionfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathfractionfactory/
 ## IMathFractionFactory class
 
 
-Allows to create a math fraction.
+Allows to create a math fraction
 
 ```cpp
 class IMathFractionFactory : public System::Object
@@ -19,8 +19,8 @@ class IMathFractionFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathFraction](../imathfraction/)\> [CreateMathFraction](./createmathfraction/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [MathFractionTypes](../mathfractiontypes/)) | Creates a math fraction. |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathFraction](../imathfraction/)\> [CreateMathFraction](./createmathfraction/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates a math fraction. |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathFraction](../imathfraction/)\> [CreateMathFraction](./createmathfraction/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [MathFractionTypes](../mathfractiontypes/)) | Creates a math fraction |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathFraction](../imathfraction/)\> [CreateMathFraction](./createmathfraction/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates a math fraction |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

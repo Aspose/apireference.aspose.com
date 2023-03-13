@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionInfo
+title: FontSubstitutionInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an instance of FontSubstitutionInfo class.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/fontsubstitutioninfo/fontsubstitutioninfo/
 ---
-## FontSubstitutionInfo::FontSubstitutionInfo constructor
+## FontSubstitutionInfo::FontSubstitutionInfo([System::String](../../../system/string/), [System::String](../../../system/string/)) constructor
 
 
 Creates an instance of [FontSubstitutionInfo](../) class.

@@ -1,12 +1,12 @@
 ---
-title: TimeStamp
+title: TimeStamp()
 second_title: Aspose.Slides for C++ API Reference
 description: Updates the timestamp by specified scenario and returns a new value.
 type: docs
 weight: 105
 url: /cpp/system.net/cookiecollection/timestamp/
 ---
-## CookieCollection::TimeStamp method
+## CookieCollection::TimeStamp([CookieCollection::Stamp](../stamp/)) method
 
 
 Updates the timestamp by specified scenario and returns a new value.

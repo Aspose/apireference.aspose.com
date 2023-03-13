@@ -1,5 +1,5 @@
 ---
-title: IsLeapYear
+title: IsLeapYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the year is leap.
 type: docs

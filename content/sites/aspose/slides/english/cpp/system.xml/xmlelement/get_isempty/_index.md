@@ -1,12 +1,12 @@
 ---
-title: get_IsEmpty
+title: get_IsEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the tag format of the element.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlelement/get_isempty/
 ---
-## XmlElement::get_IsEmpty method
+## XmlElement::get_IsEmpty() method
 
 
 Returns the tag format of the element.

@@ -1,5 +1,5 @@
 ---
-title: AddText
+title: AddText()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds plain text to the html files, replacing special characters with html entities. Linebreaks and whitespaces aren't replaced.
 type: docs

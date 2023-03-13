@@ -1,12 +1,12 @@
 ---
-title: get_EncodedKeyValue
+title: get_EncodedKeyValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets ASN.1-encoded public key value.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography.x509certificates/publickey/get_encodedkeyvalue/
 ---
-## PublicKey::get_EncodedKeyValue method
+## PublicKey::get_EncodedKeyValue() const method
 
 
 Gets ASN.1-encoded public key value.

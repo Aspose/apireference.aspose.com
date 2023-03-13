@@ -1,5 +1,5 @@
 ---
-title: UdpClient
+title: UdpClient()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the UdpClient class.
 type: docs

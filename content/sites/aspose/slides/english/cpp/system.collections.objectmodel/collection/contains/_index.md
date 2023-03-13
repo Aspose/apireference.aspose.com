@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if item is present in collection.
 type: docs
 weight: 105
 url: /cpp/system.collections.objectmodel/collection/contains/
 ---
-## Collection::Contains method
+## Collection::Contains(const T\&) const method
 
 
 Checks if item is present in collection.

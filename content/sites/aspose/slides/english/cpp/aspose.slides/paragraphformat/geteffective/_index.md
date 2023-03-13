@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective paragraph formatting data with the inheritance applied.
 type: docs
 weight: 365
 url: /cpp/aspose.slides/paragraphformat/geteffective/
 ---
-## ParagraphFormat::GetEffective method
+## ParagraphFormat::GetEffective() method
 
 
 Gets effective paragraph formatting data with the inheritance applied.

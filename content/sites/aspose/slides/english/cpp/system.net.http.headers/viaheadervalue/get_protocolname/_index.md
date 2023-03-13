@@ -1,12 +1,12 @@
 ---
-title: get_ProtocolName
+title: get_ProtocolName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the protocol name from the 'Via' header value.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/viaheadervalue/get_protocolname/
 ---
-## ViaHeaderValue::get_ProtocolName method
+## ViaHeaderValue::get_ProtocolName() method
 
 
 Returns the protocol name from the 'Via' header value.

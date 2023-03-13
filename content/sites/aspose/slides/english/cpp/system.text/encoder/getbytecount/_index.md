@@ -1,5 +1,5 @@
 ---
-title: GetByteCount
+title: GetByteCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the number of bytes needed to encode a buffer.
 type: docs

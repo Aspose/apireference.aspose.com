@@ -1,12 +1,12 @@
 ---
-title: swap
+title: swap()
 second_title: Aspose.Slides for C++ API Reference
 description: Call to swap *this and right, if they are not equal.
 type: docs
 weight: 40
 url: /cpp/system.io/basicsystemostreamwrapper/swap/
 ---
-## BasicSystemOStreamWrapper::swap method
+## BasicSystemOStreamWrapper::swap([BasicSystemOStreamWrapper](../)\&) method
 
 
 Call to swap *this and **right**, if they are not equal.

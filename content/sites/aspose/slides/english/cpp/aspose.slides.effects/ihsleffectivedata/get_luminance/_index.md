@@ -1,12 +1,12 @@
 ---
-title: get_Luminance
+title: get_Luminance()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns luminance percentage. Read-only float.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/ihsleffectivedata/get_luminance/
 ---
-## IHSLEffectiveData::get_Luminance method
+## IHSLEffectiveData::get_Luminance() method
 
 
 Returns luminance percentage. Read-only **float**.

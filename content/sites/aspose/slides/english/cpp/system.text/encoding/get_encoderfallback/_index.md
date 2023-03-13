@@ -1,12 +1,12 @@
 ---
-title: get_EncoderFallback
+title: get_EncoderFallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets encoder fallback.
 type: docs
 weight: 209
 url: /cpp/system.text/encoding/get_encoderfallback/
 ---
-## Encoding::get_EncoderFallback method
+## Encoding::get_EncoderFallback() const method
 
 
 Gets encoder fallback.

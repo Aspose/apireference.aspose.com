@@ -1,12 +1,12 @@
 ---
-title: get_FlipH
+title: get_FlipH()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a frame is flipped horizontally. Read-only NullableBool.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/shapeframe/get_fliph/
 ---
-## ShapeFrame::get_FlipH method
+## ShapeFrame::get_FlipH() method
 
 
 Determines whether a frame is flipped horizontally. Read-only [NullableBool](../../nullablebool/).

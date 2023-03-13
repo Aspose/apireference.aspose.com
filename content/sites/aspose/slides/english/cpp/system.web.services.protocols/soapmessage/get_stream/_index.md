@@ -1,12 +1,12 @@
 ---
-title: get_Stream
+title: get_Stream()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the stream that contains the SOAP message data.
 type: docs
 weight: 118
 url: /cpp/system.web.services.protocols/soapmessage/get_stream/
 ---
-## SoapMessage::get_Stream method
+## SoapMessage::get_Stream() method
 
 
 Gets the stream that contains the SOAP message data.

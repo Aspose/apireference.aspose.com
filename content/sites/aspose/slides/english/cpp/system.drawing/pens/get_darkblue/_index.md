@@ -1,12 +1,12 @@
 ---
-title: get_DarkBlue
+title: get_DarkBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF00008B.
 type: docs
 weight: 287
 url: /cpp/system.drawing/pens/get_darkblue/
 ---
-## Pens::get_DarkBlue method
+## Pens::get_DarkBlue() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF00008B.

@@ -1,12 +1,12 @@
 ---
-title: GetLowerBound
+title: GetLowerBound()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the lower bound of the specified dimension.
 type: docs
 weight: 274
 url: /cpp/system/array/getlowerbound/
 ---
-## Array::GetLowerBound method
+## Array::GetLowerBound(int) const method
 
 
 Returns the lower bound of the specified dimension.

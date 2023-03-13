@@ -1,12 +1,12 @@
 ---
-title: get_Entities
+title: get_Entities()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of XmlEntity nodes declared in the document type declaration.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmldocumenttype/get_entities/
 ---
-## XmlDocumentType::get_Entities method
+## XmlDocumentType::get_Entities() method
 
 
 Returns the collection of [XmlEntity](../../xmlentity/) nodes declared in the document type declaration.

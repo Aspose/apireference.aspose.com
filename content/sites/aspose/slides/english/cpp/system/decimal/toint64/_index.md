@@ -1,12 +1,12 @@
 ---
-title: ToInt64
+title: ToInt64()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the Decimal value to signed 64-bit integer value.
 type: docs
 weight: 729
 url: /cpp/system/decimal/toint64/
 ---
-## Decimal::ToInt64 method
+## Decimal::ToInt64([Decimal](../)) method
 
 
 Converts the [Decimal](../) value to signed 64-bit integer value.

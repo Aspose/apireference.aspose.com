@@ -1,12 +1,12 @@
 ---
-title: get_Socket
+title: get_Socket()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the underlying Socket.
 type: docs
 weight: 157
 url: /cpp/system.net.sockets/networkstream/get_socket/
 ---
-## NetworkStream::get_Socket method
+## NetworkStream::get_Socket() method
 
 
 Gets the underlying [Socket](../../socket/).

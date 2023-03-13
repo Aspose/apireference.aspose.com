@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the RangeHeaderValue class.
 type: docs
 weight: 92
 url: /cpp/system.net.http.headers/rangeheadervalue/parse/
 ---
-## RangeHeaderValue::Parse method
+## RangeHeaderValue::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [RangeHeaderValue](../) class.

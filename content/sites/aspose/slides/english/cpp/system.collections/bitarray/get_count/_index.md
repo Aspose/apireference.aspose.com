@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets container size.
 type: docs
 weight: 79
 url: /cpp/system.collections/bitarray/get_count/
 ---
-## BitArray::get_Count method
+## BitArray::get_Count() const method
 
 
 Gets container size.

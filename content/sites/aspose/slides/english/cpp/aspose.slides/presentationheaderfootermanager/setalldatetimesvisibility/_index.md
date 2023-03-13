@@ -1,12 +1,12 @@
 ---
-title: SetAllDateTimesVisibility
+title: SetAllDateTimesVisibility()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes all date-time placeholders visibility, including master slides, layout slides, slides, notes master, notes slides and handout master.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/presentationheaderfootermanager/setalldatetimesvisibility/
 ---
-## PresentationHeaderFooterManager::SetAllDateTimesVisibility method
+## PresentationHeaderFooterManager::SetAllDateTimesVisibility(**bool**) method
 
 
 Changes all date-time placeholders visibility, including master slides, layout slides, slides, notes master, notes slides and handout master.

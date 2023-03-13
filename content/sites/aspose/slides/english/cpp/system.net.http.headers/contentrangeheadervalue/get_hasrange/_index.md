@@ -1,12 +1,12 @@
 ---
-title: get_HasRange
+title: get_HasRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the range is specified for the current header.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/contentrangeheadervalue/get_hasrange/
 ---
-## ContentRangeHeaderValue::get_HasRange method
+## ContentRangeHeaderValue::get_HasRange() const method
 
 
 Gets a value that indicates if the range is specified for the current header.

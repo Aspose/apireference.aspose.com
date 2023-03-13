@@ -1,12 +1,12 @@
 ---
-title: get_Column
+title: get_Column()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a column at the specified index. Read-only Aspose::Slides::IColumn."
 type: docs
 weight: 313
 url: /cpp/aspose.slides/table/get_column/
 ---
-## Table::get_Column method
+## Table::get_Column(**int32_t**) method
 
 
 Returns a column at the specified index. Read-only [Aspose::Slides::IColumn](../../icolumn/).

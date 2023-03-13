@@ -1,12 +1,12 @@
 ---
-title: SetInternalHyperlinkClick
+title: SetInternalHyperlinkClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets internal hyperlink on click.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ihyperlinkmanager/setinternalhyperlinkclick/
 ---
-## IHyperlinkManager::SetInternalHyperlinkClick method
+## IHyperlinkManager::SetInternalHyperlinkClick([System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>) method
 
 
 Sets internal hyperlink on click.

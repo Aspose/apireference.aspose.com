@@ -1,12 +1,12 @@
 ---
-title: Apply
+title: Apply()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/iapplicableeffect/apply/
 ---
-## IApplicableEffect::Apply method
+## IApplicableEffect::Apply([System::SharedPtr](../../../system/sharedptr/)\<TrueColorBitmap\>) method
 
 
 

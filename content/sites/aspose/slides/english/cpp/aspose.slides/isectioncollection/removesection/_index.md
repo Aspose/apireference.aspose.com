@@ -1,12 +1,12 @@
 ---
-title: RemoveSection
+title: RemoveSection()
 second_title: Aspose.Slides for C++ API Reference
 description: Remove section. Slides contained in the section will be merged into previous section.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/isectioncollection/removesection/
 ---
-## ISectionCollection::RemoveSection method
+## ISectionCollection::RemoveSection([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
 
 
 Remove section. [Slides](../../) contained in the section will be merged into previous section.

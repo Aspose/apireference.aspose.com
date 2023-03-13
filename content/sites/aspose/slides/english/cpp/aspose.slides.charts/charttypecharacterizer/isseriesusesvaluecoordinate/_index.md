@@ -1,12 +1,12 @@
 ---
-title: IsSeriesUsesValueCoordinate
+title: IsSeriesUsesValueCoordinate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns if specified series type uses value coordinates.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.charts/charttypecharacterizer/isseriesusesvaluecoordinate/
 ---
-## ChartTypeCharacterizer::IsSeriesUsesValueCoordinate method
+## ChartTypeCharacterizer::IsSeriesUsesValueCoordinate([ChartType](../../charttype/)) method
 
 
 Returns if specified series type uses value coordinates.

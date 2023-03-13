@@ -1,12 +1,12 @@
 ---
-title: get_UserAgent
+title: get_UserAgent()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'User-Agent' header.
 type: docs
 weight: 118
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/get_useragent/
 ---
-## HttpWebClientProtocol::get_UserAgent method
+## HttpWebClientProtocol::get_UserAgent() method
 
 
 Gets a value of the 'User-Agent' header.

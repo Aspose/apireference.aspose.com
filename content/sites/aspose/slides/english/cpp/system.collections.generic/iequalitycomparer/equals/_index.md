@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if two objects are equal.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/iequalitycomparer/equals/
 ---
-## IEqualityComparer::Equals method
+## IEqualityComparer::Equals(T, T) const method
 
 
 Checks if two objects are equal.

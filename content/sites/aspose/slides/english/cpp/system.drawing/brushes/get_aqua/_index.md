@@ -1,12 +1,12 @@
 ---
-title: get_Aqua
+title: get_Aqua()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF00FFFF.
 type: docs
 weight: 27
 url: /cpp/system.drawing/brushes/get_aqua/
 ---
-## Brushes::get_Aqua method
+## Brushes::get_Aqua() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF00FFFF.

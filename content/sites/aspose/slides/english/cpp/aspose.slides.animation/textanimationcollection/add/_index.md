@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds new text animation to the collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/textanimationcollection/add/
 ---
-## TextAnimationCollection::Add method
+## TextAnimationCollection::Add() method
 
 
 Adds new text animation to the collection.

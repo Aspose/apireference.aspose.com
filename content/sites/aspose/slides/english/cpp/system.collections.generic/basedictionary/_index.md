@@ -27,7 +27,6 @@ template<typename Map>class BaseDictionary : public System::Collections::Generic
 | --- | --- |
 | void [_add_range](./_add_range/)(std::initializer_list\<typename Map::value_type\>) | C++ specific. |
 | void [Add](./add/)(const key_t\&, const mapped_t\&) override | Adds key-value pair into dictionary. |
-| virtual void [Add](../icollection/add/)(const T\&) | Adds element into collection. |
 |  [BaseDictionary](./basedictionary/)() | Creates empty data structure. |
 |  [BaseDictionary](./basedictionary/)(int, const Args\&...) | Forwarding constructor to push arguments into underlying map constructor. |
 |  [BaseDictionary](./basedictionary/)([BaseType](./basetype/) *, const Args\&...) | Copying constructor. |
@@ -37,11 +36,9 @@ template<typename Map>class BaseDictionary : public System::Collections::Generic
 | stl_const_iterator [cbegin](./cbegin/)() const | Returns an iterator to the first element of the container. Implemented in STL-style. If the container is empty, the returned iterator will be equal to [end()](../ienumerable/end/). |
 | stl_const_iterator [cend](./cend/)() const | Returns an iterator to the element following the last element of the container. Implemented in STL-style. This element acts as a placeholder; attempting to access it results in undefined behavior. |
 | void [Clear](./clear/)() override | Deletes all elements. |
-| virtual **bool** [Contains](../icollection/contains/)(const T\&) const | Checks if element is present in collection. |
 | **bool** [ContainsKey](./containskey/)(const key_t\&) const override | Checks if key is present in dictionary. |
 | **bool** [ContainsValue](./containsvalue/)(const mapped_t\&) | Checks if value is present in dictionary. Uses operator == to compare values. |
 | void [CopyTo](../idictionary/copyto/)([ArrayPtr](../../system/arrayptr/)\<[KeyValuePair](../keyvaluepair/)\<TKey, TValue\>\>, int) override | Copies dictionary contents into existing array elements. |
-| virtual void [CopyTo](../icollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, int) | Copies all collection elements to existing array elements. |
 | Map\& [data](./data/)() | Underlying data storage accessor. |
 | const Map\& [data](./data/)() const | Underlying data storage accessor. |
 | [const_iterator](./const_iterator/) [end](./end/)() const | Returns an iterator to the KVPair-wrapper for key-value-element following the last element of the container. Implemented in C# style - iterator should be return the KVPair-object with get_Key() and get_Value() interface. This element acts as a placeholder; attempting to access it results in undefined behavior. |
@@ -119,7 +116,6 @@ template<typename Map>class BaseDictionary : public System::Collections::Generic
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | **bool** [Remove](./remove/)(const key_t\&) override | Removes specific key from dictionary. |
-| virtual **bool** [Remove](../icollection/remove/)(const T\&) | Deletes element from collection. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
 | void [SetTemplateWeakPtr](./settemplateweakptr/)(unsigned int) override |  |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |

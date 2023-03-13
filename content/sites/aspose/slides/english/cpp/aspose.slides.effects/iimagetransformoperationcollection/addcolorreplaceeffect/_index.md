@@ -1,12 +1,12 @@
 ---
-title: AddColorReplaceEffect
+title: AddColorReplaceEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Color Replacement effect to the end of a collection.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addcolorreplaceeffect/
 ---
-## IImageTransformOperationCollection::AddColorReplaceEffect method
+## IImageTransformOperationCollection::AddColorReplaceEffect() method
 
 
 Adds the new Color Replacement effect to the end of a collection.

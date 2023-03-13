@@ -1,5 +1,5 @@
 ---
-title: EqualsExact
+title: EqualsExact()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if two DateTimeOffset objects represents the same time point and has the same offset.
 type: docs

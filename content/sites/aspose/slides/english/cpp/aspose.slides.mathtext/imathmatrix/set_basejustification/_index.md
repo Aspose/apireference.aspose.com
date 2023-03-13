@@ -1,15 +1,15 @@
 ---
-title: set_BaseJustification
+title: set_BaseJustification()
 second_title: Aspose.Slides for C++ API Reference
-description: "Specifies the vertical justification respect to surrounding text. Possible values are top, bottom, and center. Default: Center."
+description: "Specifies the vertical justification respect to surrounding text. Possible values are top, bottom, and center. Default: Center"
 type: docs
 weight: 66
 url: /cpp/aspose.slides.mathtext/imathmatrix/set_basejustification/
 ---
-## IMathMatrix::set_BaseJustification method
+## IMathMatrix::set_BaseJustification([MathVerticalAlignment](../../mathverticalalignment/)) method
 
 
-Specifies the vertical justification respect to surrounding text. Possible values are top, bottom, and center. Default: Center.
+Specifies the vertical justification respect to surrounding text. Possible values are top, bottom, and center. Default: Center
 
 ```cpp
 virtual void Aspose::Slides::MathText::IMathMatrix::set_BaseJustification(MathVerticalAlignment value)=0

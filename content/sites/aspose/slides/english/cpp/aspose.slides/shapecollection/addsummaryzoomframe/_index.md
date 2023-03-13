@@ -1,12 +1,12 @@
 ---
-title: AddSummaryZoomFrame
+title: AddSummaryZoomFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new Summary Zoom object to the end of a collection.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/shapecollection/addsummaryzoomframe/
 ---
-## ShapeCollection::AddSummaryZoomFrame method
+## ShapeCollection::AddSummaryZoomFrame(**float**, **float**, **float**, **float**) method
 
 
 Adds a new Summary Zoom object to the end of a collection.

@@ -1,12 +1,12 @@
 ---
-title: get_DateTime6
+title: get_DateTime6()
 second_title: Aspose.Slides for C++ API Reference
 description: Current date and time in a sixth predefined format (Month YY for english). Read-only FieldType.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/fieldtype/get_datetime6/
 ---
-## FieldType::get_DateTime6 method
+## FieldType::get_DateTime6() method
 
 
 Current date and time in a sixth predefined format (Month YY for english). Read-only [FieldType](../).

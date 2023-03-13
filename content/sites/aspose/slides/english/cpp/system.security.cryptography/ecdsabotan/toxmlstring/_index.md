@@ -1,5 +1,5 @@
 ---
-title: ToXmlString
+title: ToXmlString()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports all parameters in XML format. Not implemented.
 type: docs

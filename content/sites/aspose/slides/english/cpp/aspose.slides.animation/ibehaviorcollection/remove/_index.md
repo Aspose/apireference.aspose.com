@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes specified behavior from a collection.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/ibehaviorcollection/remove/
 ---
-## IBehaviorCollection::Remove method
+## IBehaviorCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IBehavior](../../ibehavior/)\>) method
 
 
 Removes specified behavior from a collection.

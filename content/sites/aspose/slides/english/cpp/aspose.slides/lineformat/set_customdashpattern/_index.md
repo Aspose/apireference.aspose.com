@@ -1,12 +1,12 @@
 ---
-title: set_CustomDashPattern
+title: set_CustomDashPattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the custom dash pattern. Write float[].
 type: docs
 weight: 105
 url: /cpp/aspose.slides/lineformat/set_customdashpattern/
 ---
-## LineFormat::set_CustomDashPattern method
+## LineFormat::set_CustomDashPattern([System::ArrayPtr](../../../system/arrayptr/)\<**float**\>) method
 
 
 Sets the custom dash pattern. Write **float**[].

@@ -1,12 +1,12 @@
 ---
-title: GetFields
+title: GetFields()
 second_title: Aspose.Slides for C++ API Reference
 description: Searches for the fields defined for the current Type, using the specified binding constraints.
 type: docs
 weight: 508
 url: /cpp/system/typeinfo/getfields/
 ---
-## TypeInfo::GetFields method
+## TypeInfo::GetFields([System::Reflection::BindingFlags](../../../system.reflection/bindingflags/)) const method
 
 
 Searches for the fields defined for the current Type, using the specified binding constraints.

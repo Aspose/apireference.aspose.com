@@ -1,12 +1,12 @@
 ---
-title: get_Message
+title: get_Message()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the description of the error condition of this exception.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/details_xmlschemaexception/get_message/
 ---
-## Details_XmlSchemaException::get_Message method
+## Details_XmlSchemaException::get_Message() const method
 
 
 Returns the description of the error condition of this exception.

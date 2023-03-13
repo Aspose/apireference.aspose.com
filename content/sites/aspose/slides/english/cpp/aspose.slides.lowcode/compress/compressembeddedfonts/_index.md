@@ -1,12 +1,12 @@
 ---
-title: CompressEmbeddedFonts
+title: CompressEmbeddedFonts()
 second_title: Aspose.Slides for C++ API Reference
 description: Makes compression of the Presentation by removing unused characters from embedded fonts.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.lowcode/compress/compressembeddedfonts/
 ---
-## Compress::CompressEmbeddedFonts method
+## Compress::CompressEmbeddedFonts([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>) method
 
 
 Makes compression of the [Presentation](../../../aspose.slides/presentation/) by removing unused characters from embedded fonts.

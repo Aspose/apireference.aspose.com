@@ -1,15 +1,15 @@
 ---
-title: GetColumnAlignment
+title: GetColumnAlignment()
 second_title: Aspose.Slides for C++ API Reference
-description: Get the horizontal alignment of the specified column.
+description: Get the horizontal alignment of the specified column
 type: docs
 weight: 248
 url: /cpp/aspose.slides.mathtext/mathmatrix/getcolumnalignment/
 ---
-## MathMatrix::GetColumnAlignment method
+## MathMatrix::GetColumnAlignment(**int32_t**) method
 
 
-Get the horizontal alignment of the specified column.
+Get the horizontal alignment of the specified column
 
 ```cpp
 MathHorizontalAlignment Aspose::Slides::MathText::MathMatrix::GetColumnAlignment(int32_t columnIndex) override

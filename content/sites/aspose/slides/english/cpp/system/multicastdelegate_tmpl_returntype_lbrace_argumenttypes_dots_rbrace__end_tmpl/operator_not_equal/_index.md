@@ -1,5 +1,5 @@
 ---
-title: operator!=
+title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the delegate collection is not empty.
 type: docs

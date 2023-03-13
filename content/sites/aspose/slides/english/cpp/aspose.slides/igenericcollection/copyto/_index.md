@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies all elements from the collection into the specified array.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/igenericcollection/copyto/
 ---
-## IGenericCollection::CopyTo method
+## IGenericCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<T\>, **int32_t**) method
 
 
 Copies all elements from the collection into the specified array.

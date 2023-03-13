@@ -1,5 +1,5 @@
 ---
-title: SelectAncestors
+title: SelectAncestors()
 second_title: Aspose.Slides for C++ API Reference
 description: Selects all the ancestor nodes of the current node that have a matching XPathNodeType.
 type: docs

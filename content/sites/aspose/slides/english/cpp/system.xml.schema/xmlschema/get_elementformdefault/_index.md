@@ -1,12 +1,12 @@
 ---
-title: get_ElementFormDefault
+title: get_ElementFormDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the form for elements declared in the target namespace of the schema.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschema/get_elementformdefault/
 ---
-## XmlSchema::get_ElementFormDefault method
+## XmlSchema::get_ElementFormDefault() method
 
 
 Returns the form for elements declared in the target namespace of the schema.

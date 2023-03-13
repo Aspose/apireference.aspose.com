@@ -1,12 +1,12 @@
 ---
-title: get_Placeholder
+title: get_Placeholder()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the placeholder for a shape. Returns null if the shape has no placeholder. Read-only IPlaceholder.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/shape/get_placeholder/
 ---
-## Shape::get_Placeholder method
+## Shape::get_Placeholder() method
 
 
 Returns the placeholder for a shape. Returns null if the shape has no placeholder. Read-only [IPlaceholder](../../iplaceholder/).

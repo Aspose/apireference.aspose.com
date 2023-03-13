@@ -1,12 +1,12 @@
 ---
-title: get_ChildNode
+title: get_ChildNode()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a child node of current node at the specified index. Read-only Aspose::Slides::SmartArt::ISmartArtNode"
 type: docs
 weight: 170
 url: /cpp/aspose.slides.smartart/ismartartnode/get_childnode/
 ---
-## ISmartArtNode::get_ChildNode method
+## ISmartArtNode::get_ChildNode(**int32_t**) method
 
 
 Returns a child node of current node at the specified index. Read-only [Aspose::Slides::SmartArt::ISmartArtNode](../)

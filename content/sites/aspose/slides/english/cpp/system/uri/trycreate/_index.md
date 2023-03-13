@@ -1,5 +1,5 @@
 ---
-title: TryCreate
+title: TryCreate()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a Uri object that represents the specified URI; an argument specifies the URI kind.
 type: docs

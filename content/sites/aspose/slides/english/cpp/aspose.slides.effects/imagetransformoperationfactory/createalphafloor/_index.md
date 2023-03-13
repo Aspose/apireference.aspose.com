@@ -1,12 +1,12 @@
 ---
-title: CreateAlphaFloor
+title: CreateAlphaFloor()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Alpha floor effect.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createalphafloor/
 ---
-## ImageTransformOperationFactory::CreateAlphaFloor method
+## ImageTransformOperationFactory::CreateAlphaFloor() method
 
 
 Creates Alpha floor effect.

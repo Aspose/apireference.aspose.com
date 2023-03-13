@@ -1,12 +1,12 @@
 ---
-title: Flush
+title: Flush()
 second_title: Aspose.Slides for C++ API Reference
 description: Flushes the content of the buffer to the underlying stream and then flushes the underlying stream.
 type: docs
 weight: 118
 url: /cpp/system.io/streamwriter/flush/
 ---
-## StreamWriter::Flush method
+## StreamWriter::Flush() method
 
 
 Flushes the content of the buffer to the underlying stream and then flushes the underlying stream.

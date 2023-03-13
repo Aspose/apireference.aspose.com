@@ -1,12 +1,12 @@
 ---
-title: ~BasicSystemIOStreamBuf
+title: ~BasicSystemIOStreamBuf()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 1
 url: /cpp/system.io/basicsystemiostreambuf/~basicsystemiostreambuf/
 ---
-## BasicSystemIOStreamBuf::~BasicSystemIOStreamBuf method
+## BasicSystemIOStreamBuf::~BasicSystemIOStreamBuf() method
 
 
 Destructor.

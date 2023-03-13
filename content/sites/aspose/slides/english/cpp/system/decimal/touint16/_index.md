@@ -1,12 +1,12 @@
 ---
-title: ToUInt16
+title: ToUInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the Decimal value to unsigned 16-bit integer value.
 type: docs
 weight: 664
 url: /cpp/system/decimal/touint16/
 ---
-## Decimal::ToUInt16 method
+## Decimal::ToUInt16([Decimal](../)) method
 
 
 Converts the [Decimal](../) value to unsigned 16-bit integer value.

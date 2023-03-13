@@ -1,12 +1,12 @@
 ---
-title: SignedCms
+title: SignedCms()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.pkcs/signedcms/signedcms/
 ---
-## SignedCms::SignedCms constructor
+## SignedCms::SignedCms(const [SharedPtr](../../../system/sharedptr/)\<[ContentInfo](../../contentinfo/)\>\&, **bool**) constructor
 
 
 Constructor.

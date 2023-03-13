@@ -1,12 +1,12 @@
 ---
-title: IsNull
+title: IsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 430
 url: /cpp/system/timespan/isnull/
 ---
-## TimeSpan::IsNull method
+## TimeSpan::IsNull() const method
 
 
 

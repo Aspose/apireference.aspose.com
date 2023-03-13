@@ -1,12 +1,12 @@
 ---
-title: set_PerMilleSymbol
+title: set_PerMilleSymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets permille symbol.
 type: docs
 weight: 157
 url: /cpp/system.globalization/numberformatinfo/set_permillesymbol/
 ---
-## NumberFormatInfo::set_PerMilleSymbol method
+## NumberFormatInfo::set_PerMilleSymbol(const [String](../../../system/string/)\&) method
 
 
 Sets permille symbol.

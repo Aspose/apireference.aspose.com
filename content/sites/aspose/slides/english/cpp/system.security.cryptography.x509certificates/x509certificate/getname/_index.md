@@ -1,12 +1,12 @@
 ---
-title: GetName
+title: GetName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets name of the principal to witch the current sertificate was issued.
 type: docs
 weight: 196
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getname/
 ---
-## X509Certificate::GetName method
+## X509Certificate::GetName() const method
 
 
 Gets name of the principal to witch the current sertificate was issued.

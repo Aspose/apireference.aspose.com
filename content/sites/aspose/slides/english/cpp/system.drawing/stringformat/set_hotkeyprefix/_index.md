@@ -1,12 +1,12 @@
 ---
-title: set_HotkeyPrefix
+title: set_HotkeyPrefix()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value that specifies how the hot key prefix should be displayed.
 type: docs
 weight: 183
 url: /cpp/system.drawing/stringformat/set_hotkeyprefix/
 ---
-## StringFormat::set_HotkeyPrefix method
+## StringFormat::set_HotkeyPrefix([Text::HotkeyPrefix](../../../system.drawing.text/hotkeyprefix/)) method
 
 
 Sets the value that specifies how the hot key prefix should be displayed.

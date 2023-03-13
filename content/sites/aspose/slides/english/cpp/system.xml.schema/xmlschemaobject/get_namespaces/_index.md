@@ -1,12 +1,12 @@
 ---
-title: get_Namespaces
+title: get_Namespaces()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSerializerNamespaces to use with this schema object.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemaobject/get_namespaces/
 ---
-## XmlSchemaObject::get_Namespaces method
+## XmlSchemaObject::get_Namespaces() method
 
 
 Returns the XmlSerializerNamespaces to use with this schema object.

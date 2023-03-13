@@ -1,12 +1,12 @@
 ---
-title: set_Block
+title: set_Block()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the block attribute.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemacomplextype/set_block/
 ---
-## XmlSchemaComplexType::set_Block method
+## XmlSchemaComplexType::set_Block([XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)) method
 
 
 Sets the **block** attribute.

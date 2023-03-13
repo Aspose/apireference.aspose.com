@@ -1,12 +1,12 @@
 ---
-title: set_LineNumber
+title: set_LineNumber()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the line number in the file to which the schema element refers.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaobject/set_linenumber/
 ---
-## XmlSchemaObject::set_LineNumber method
+## XmlSchemaObject::set_LineNumber(**int32_t**) method
 
 
 Sets the line number in the file to which the **schema** element refers.

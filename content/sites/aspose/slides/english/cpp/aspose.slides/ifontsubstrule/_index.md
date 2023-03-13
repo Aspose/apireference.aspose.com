@@ -1,7 +1,7 @@
 ---
 title: IFontSubstRule
 second_title: Aspose.Slides for C++ API Reference
-description: Represents font subtituition information.
+description: Represents font subtituition information
 type: docs
 weight: 2146
 url: /cpp/aspose.slides/ifontsubstrule/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/ifontsubstrule/
 ## IFontSubstRule class
 
 
-Represents font subtituition information.
+Represents font subtituition information
 
 ```cpp
 class IFontSubstRule : public System::Object

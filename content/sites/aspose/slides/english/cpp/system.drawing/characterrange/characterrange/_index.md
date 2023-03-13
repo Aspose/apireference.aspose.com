@@ -1,5 +1,5 @@
 ---
-title: CharacterRange
+title: CharacterRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of CharacterRange class that represents the specified range.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: FromHwndInternal
+title: FromHwndInternal()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 27
 url: /cpp/system.drawing/graphics/fromhwndinternal/
 ---
-## Graphics::FromHwndInternal method
+## Graphics::FromHwndInternal(IntPtr) method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: set_Width
+title: set_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the width of the shape. Write float.
 type: docs
 weight: 287
 url: /cpp/aspose.slides/ishape/set_width/
 ---
-## IShape::set_Width method
+## IShape::set_Width(**float**) method
 
 
 Sets the width of the shape. Write **float**.

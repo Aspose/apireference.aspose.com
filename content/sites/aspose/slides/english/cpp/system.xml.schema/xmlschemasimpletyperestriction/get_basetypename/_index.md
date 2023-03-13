@@ -1,12 +1,12 @@
 ---
-title: get_BaseTypeName
+title: get_BaseTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the qualified base type.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemasimpletyperestriction/get_basetypename/
 ---
-## XmlSchemaSimpleTypeRestriction::get_BaseTypeName method
+## XmlSchemaSimpleTypeRestriction::get_BaseTypeName() method
 
 
 Returns the name of the qualified base type.

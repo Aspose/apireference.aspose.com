@@ -1,12 +1,12 @@
 ---
-title: set_FillOverlayEffect
+title: set_FillOverlayEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Fill overlay effect. Write Effects::IFillOverlay."
 type: docs
 weight: 53
 url: /cpp/aspose.slides/effectformat/set_filloverlayeffect/
 ---
-## EffectFormat::set_FillOverlayEffect method
+## EffectFormat::set_FillOverlayEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::IFillOverlay](../../../aspose.slides.effects/ifilloverlay/)\>) method
 
 
 Fill overlay effect. Write [Effects::IFillOverlay](../../../aspose.slides.effects/ifilloverlay/).

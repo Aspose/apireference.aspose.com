@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsDateTime
+title: get_ValueAsDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current node's value as a DateTime.
 type: docs
 weight: 66
 url: /cpp/system.xml.xpath/xpathnavigator/get_valueasdatetime/
 ---
-## XPathNavigator::get_ValueAsDateTime method
+## XPathNavigator::get_ValueAsDateTime() method
 
 
 Returns the current node's value as a [DateTime](../../../system/datetime/).

@@ -1,12 +1,12 @@
 ---
-title: set_ReflectionEffect
+title: set_ReflectionEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Reflection. Write Effects::IReflection."
 type: docs
 weight: 183
 url: /cpp/aspose.slides/effectformat/set_reflectioneffect/
 ---
-## EffectFormat::set_ReflectionEffect method
+## EffectFormat::set_ReflectionEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::IReflection](../../../aspose.slides.effects/ireflection/)\>) method
 
 
 Reflection. Write [Effects::IReflection](../../../aspose.slides.effects/ireflection/).

@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes custom xml part at the specified index.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/icustomxmlpartcollection/removeat/
 ---
-## ICustomXmlPartCollection::RemoveAt method
+## ICustomXmlPartCollection::RemoveAt(**int32_t**) method
 
 
 Removes custom xml part at the specified index.

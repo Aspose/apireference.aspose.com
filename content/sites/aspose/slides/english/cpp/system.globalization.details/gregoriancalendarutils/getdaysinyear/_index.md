@@ -1,12 +1,12 @@
 ---
-title: GetDaysInYear
+title: GetDaysInYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of days in specific year.
 type: docs
 weight: 1
 url: /cpp/system.globalization.details/gregoriancalendarutils/getdaysinyear/
 ---
-## GregorianCalendarUtils::GetDaysInYear method
+## GregorianCalendarUtils::GetDaysInYear(int) method
 
 
 Gets number of days in specific year.

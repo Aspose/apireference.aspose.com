@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hash code for the current object.
 type: docs
 weight: 339
 url: /cpp/system/decimal/gethashcode/
 ---
-## Decimal::GetHashCode method
+## Decimal::GetHashCode() const method
 
 
 Returns a hash code for the current object.

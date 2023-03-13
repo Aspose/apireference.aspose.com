@@ -1,12 +1,12 @@
 ---
-title: GetBasePlaceholder
+title: GetBasePlaceholder()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a basic placeholder shape (shape from the layout and/or master slide that the current shape is inherited from).
 type: docs
 weight: 547
 url: /cpp/aspose.slides/ishape/getbaseplaceholder/
 ---
-## IShape::GetBasePlaceholder method
+## IShape::GetBasePlaceholder() method
 
 
 Returns a basic placeholder shape (shape from the layout and/or master slide that the current shape is inherited from).

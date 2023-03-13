@@ -1,12 +1,12 @@
 ---
-title: ~BackgroundWorker
+title: ~BackgroundWorker()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.componentmodel/backgroundworker/~backgroundworker/
 ---
-## BackgroundWorker::~BackgroundWorker method
+## BackgroundWorker::~BackgroundWorker() method
 
 
 Destructor.

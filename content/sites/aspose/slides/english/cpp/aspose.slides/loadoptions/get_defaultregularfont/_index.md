@@ -1,12 +1,12 @@
 ---
-title: get_DefaultRegularFont
+title: get_DefaultRegularFont()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns Regular font used in case source font is not found. Read System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/loadoptions/get_defaultregularfont/
 ---
-## LoadOptions::get_DefaultRegularFont method
+## LoadOptions::get_DefaultRegularFont() method
 
 
 Returns Regular font used in case source font is not found. Read [System::String](../../../system/string/).

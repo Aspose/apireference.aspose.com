@@ -1,12 +1,12 @@
 ---
-title: Poll
+title: Poll()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the status of the socket based on the specified polling mode.
 type: docs
 weight: 742
 url: /cpp/system.net.sockets/socket/poll/
 ---
-## Socket::Poll method
+## Socket::Poll(**int32_t**, [SelectMode](../../selectmode/)) method
 
 
 Returns the status of the socket based on the specified polling mode.

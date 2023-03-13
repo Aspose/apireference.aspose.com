@@ -1,12 +1,12 @@
 ---
-title: CreateSlideShowFormatter
+title: CreateSlideShowFormatter()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates and returns HTML formatter for a simple slide show html which shows slides one after another.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/htmlformatter/createslideshowformatter/
 ---
-## HtmlFormatter::CreateSlideShowFormatter method
+## HtmlFormatter::CreateSlideShowFormatter([System::String](../../../system/string/), **bool**) method
 
 
 Creates and returns HTML formatter for a simple slide show html which shows slides one after another.

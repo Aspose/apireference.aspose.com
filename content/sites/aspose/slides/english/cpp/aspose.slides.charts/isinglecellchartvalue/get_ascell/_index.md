@@ -1,12 +1,12 @@
 ---
-title: get_AsCell
+title: get_AsCell()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns chart data cell. Read IChartDataCell.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/isinglecellchartvalue/get_ascell/
 ---
-## ISingleCellChartValue::get_AsCell method
+## ISingleCellChartValue::get_AsCell() method
 
 
 Returns chart data cell. Read [IChartDataCell](../../ichartdatacell/).

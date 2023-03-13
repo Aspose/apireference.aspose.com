@@ -1,12 +1,12 @@
 ---
-title: TranslateTransform
+title: TranslateTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Translates current object's transform matrix.
 type: docs
 weight: 66
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/translatetransform/
 ---
-## LinearGradientBrush::TranslateTransform method
+## LinearGradientBrush::TranslateTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../matrixorder/)) method
 
 
 Translates current object's transform matrix.

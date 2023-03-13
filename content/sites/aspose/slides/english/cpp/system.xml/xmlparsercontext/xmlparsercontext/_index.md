@@ -1,5 +1,5 @@
 ---
-title: XmlParserContext
+title: XmlParserContext()
 second_title: Aspose.Slides for C++ API Reference
 description: "Initializes a new instance of the XmlParserContext class with the specified XmlNameTable, XmlNamespaceManager, xml:lang, and xml:space values."
 type: docs

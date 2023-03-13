@@ -1,12 +1,12 @@
 ---
-title: GetRemainder
+title: GetRemainder()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the remainder of the buffered XML.
 type: docs
 weight: 742
 url: /cpp/system.xml/xmltextreader/getremainder/
 ---
-## XmlTextReader::GetRemainder method
+## XmlTextReader::GetRemainder() method
 
 
 Returns the remainder of the buffered XML.

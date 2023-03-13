@@ -1,12 +1,12 @@
 ---
-title: get_DarkSlateGray
+title: get_DarkSlateGray()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF2F4F4F.
 type: docs
 weight: 456
 url: /cpp/system.drawing/brushes/get_darkslategray/
 ---
-## Brushes::get_DarkSlateGray method
+## Brushes::get_DarkSlateGray() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF2F4F4F.

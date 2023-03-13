@@ -1,12 +1,12 @@
 ---
-title: set_Attributes
+title: set_Attributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets tag attributes.
 type: docs
 weight: 27
 url: /cpp/system.security/securityelement/set_attributes/
 ---
-## SecurityElement::set_Attributes method
+## SecurityElement::set_Attributes([System::Collections::Generic::Dictionary](../../../system.collections.generic/dictionary/)\<[String](../../../system/string/), [String](../../../system/string/)\>) method
 
 
 Sets tag attributes.

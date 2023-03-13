@@ -1,12 +1,12 @@
 ---
-title: get_TrendLines
+title: get_TrendLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Collection of series trend lines. Read-only ITrendlineCollection.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.charts/chartseries/get_trendlines/
 ---
-## ChartSeries::get_TrendLines method
+## ChartSeries::get_TrendLines() method
 
 
 Collection of series trend lines. Read-only [ITrendlineCollection](../../itrendlinecollection/).

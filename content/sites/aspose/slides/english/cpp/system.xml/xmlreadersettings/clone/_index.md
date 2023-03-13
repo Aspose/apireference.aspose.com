@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the XmlReaderSettings instance.
 type: docs
 weight: 482
 url: /cpp/system.xml/xmlreadersettings/clone/
 ---
-## XmlReaderSettings::Clone method
+## XmlReaderSettings::Clone() method
 
 
 Creates a copy of the [XmlReaderSettings](../) instance.

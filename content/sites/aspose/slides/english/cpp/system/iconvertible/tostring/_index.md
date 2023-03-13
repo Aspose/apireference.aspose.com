@@ -1,5 +1,5 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Converts the value of this instance to an equivalent System::String using the specified culture-specific formatting information."
 type: docs

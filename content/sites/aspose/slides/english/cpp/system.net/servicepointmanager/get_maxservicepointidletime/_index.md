@@ -1,12 +1,12 @@
 ---
-title: get_MaxServicePointIdleTime
+title: get_MaxServicePointIdleTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the maximum idle time of the ServicePoint-class instances.
 type: docs
 weight: 79
 url: /cpp/system.net/servicepointmanager/get_maxservicepointidletime/
 ---
-## ServicePointManager::get_MaxServicePointIdleTime method
+## ServicePointManager::get_MaxServicePointIdleTime() method
 
 
 Gets the maximum idle time of the ServicePoint-class instances.

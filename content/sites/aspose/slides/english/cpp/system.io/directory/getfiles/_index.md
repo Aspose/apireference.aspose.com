@@ -1,12 +1,12 @@
 ---
-title: GetFiles
+title: GetFiles()
 second_title: Aspose.Slides for C++ API Reference
 description: Searches for the files that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.
 type: docs
 weight: 79
 url: /cpp/system.io/directory/getfiles/
 ---
-## Directory::GetFiles method
+## Directory::GetFiles(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, [SearchOption](../../searchoption/)) method
 
 
 Searches for the files that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.

@@ -1,12 +1,12 @@
 ---
-title: get_ComplexScriptFont
+title: get_ComplexScriptFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the complex script font info. Null means font is undefined and should be inherited from the Master. Read IFontData.
 type: docs
 weight: 417
 url: /cpp/aspose.slides/ibaseportionformat/get_complexscriptfont/
 ---
-## IBasePortionFormat::get_ComplexScriptFont method
+## IBasePortionFormat::get_ComplexScriptFont() method
 
 
 Returns the complex script font info. Null means font is undefined and should be inherited from the Master. Read [IFontData](../../ifontdata/).

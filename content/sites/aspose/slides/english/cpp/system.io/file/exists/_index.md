@@ -1,12 +1,12 @@
 ---
-title: Exists
+title: Exists()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified path references an existing file.
 type: docs
 weight: 118
 url: /cpp/system.io/file/exists/
 ---
-## File::Exists method
+## File::Exists(const [String](../../../system/string/)\&) method
 
 
 Determines if the specified path references an existing file.

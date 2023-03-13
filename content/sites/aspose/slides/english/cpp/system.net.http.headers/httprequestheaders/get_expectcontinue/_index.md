@@ -1,12 +1,12 @@
 ---
-title: get_ExpectContinue
+title: get_ExpectContinue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the 'Expect' header value contains 'Continue'.
 type: docs
 weight: 92
 url: /cpp/system.net.http.headers/httprequestheaders/get_expectcontinue/
 ---
-## HttpRequestHeaders::get_ExpectContinue method
+## HttpRequestHeaders::get_ExpectContinue() method
 
 
 Gets a value that indicates if the 'Expect' header value contains 'Continue'.

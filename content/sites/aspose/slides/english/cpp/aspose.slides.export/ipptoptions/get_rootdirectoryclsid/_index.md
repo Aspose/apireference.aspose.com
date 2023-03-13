@@ -1,12 +1,12 @@
 ---
-title: get_RootDirectoryClsid
+title: get_RootDirectoryClsid()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the object class GUID (CLSID) that is stored in the root directory entry. Can be used for COM activation of the document's application. The default value is '64818D11-4F9B-11CF-86EA-00AA00B929E8' that corresponds to 'Microsoft Powerpoint.Slide.8'.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/ipptoptions/get_rootdirectoryclsid/
 ---
-## IPptOptions::get_RootDirectoryClsid method
+## IPptOptions::get_RootDirectoryClsid() method
 
 
 Represents the object class GUID (CLSID) that is stored in the root directory entry. Can be used for COM activation of the document's application. The default value is '64818D11-4F9B-11CF-86EA-00AA00B929E8' that corresponds to 'Microsoft Powerpoint.Slide.8'.

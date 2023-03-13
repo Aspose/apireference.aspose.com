@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the number of all data labels in the collection. Read-only int32_t.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/datalabelcollection/get_count/
 ---
-## DataLabelCollection::get_Count method
+## DataLabelCollection::get_Count() method
 
 
 Gets the number of all data labels in the collection. Read-only **int32_t**.

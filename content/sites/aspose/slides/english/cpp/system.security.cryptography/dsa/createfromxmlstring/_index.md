@@ -1,12 +1,12 @@
 ---
-title: CreateFromXmlString
+title: CreateFromXmlString()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates default DSA algorithm implementation with specifed XML-encoded parameters.
 type: docs
 weight: 118
 url: /cpp/system.security.cryptography/dsa/createfromxmlstring/
 ---
-## DSA::CreateFromXmlString method
+## DSA::CreateFromXmlString(const [String](../../../system/string/)\&) method
 
 
 Creates default [DSA](../) algorithm implementation with specifed XML-encoded parameters.

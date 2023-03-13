@@ -1,12 +1,12 @@
 ---
-title: get_CurrentConnections
+title: get_CurrentConnections()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a number of opened connections.
 type: docs
 weight: 235
 url: /cpp/system.net/servicepoint/get_currentconnections/
 ---
-## ServicePoint::get_CurrentConnections method
+## ServicePoint::get_CurrentConnections() method
 
 
 Returns a number of opened connections.

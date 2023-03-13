@@ -1,12 +1,12 @@
 ---
-title: ParsedValuesAsList
+title: ParsedValuesAsList()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts parsed values to list.
 type: docs
 weight: 261
 url: /cpp/system.net.http.headers/httpheaders/parsedvaluesaslist/
 ---
-## HttpHeaders::ParsedValuesAsList method
+## HttpHeaders::ParsedValuesAsList(const [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts parsed values to list.

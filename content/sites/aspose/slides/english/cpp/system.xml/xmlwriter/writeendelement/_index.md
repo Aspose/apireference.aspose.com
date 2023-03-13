@@ -1,12 +1,12 @@
 ---
-title: WriteEndElement
+title: WriteEndElement()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, closes one element and pops the corresponding namespace scope.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlwriter/writeendelement/
 ---
-## XmlWriter::WriteEndElement method
+## XmlWriter::WriteEndElement() method
 
 
 When overridden in a derived class, closes one element and pops the corresponding namespace scope.

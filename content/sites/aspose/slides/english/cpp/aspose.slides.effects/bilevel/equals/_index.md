@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified BiLevel is equal to the current BiLevel.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/bilevel/equals/
 ---
-## BiLevel::Equals method
+## BiLevel::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [BiLevel](../) is equal to the current [BiLevel](../).

@@ -1,12 +1,12 @@
 ---
-title: set_Alignment
+title: set_Alignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the line alignment. Write LineAlignment.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/ilineformat/set_alignment/
 ---
-## ILineFormat::set_Alignment method
+## ILineFormat::set_Alignment([LineAlignment](../../linealignment/)) method
 
 
 Sets the line alignment. Write [LineAlignment](../../linealignment/).

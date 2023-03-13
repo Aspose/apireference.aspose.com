@@ -1,12 +1,12 @@
 ---
-title: get_Local
+title: get_Local()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an instance of TimeZoneInfo that represents a local time zone.
 type: docs
 weight: 14
 url: /cpp/system/timezoneinfo/get_local/
 ---
-## TimeZoneInfo::get_Local method
+## TimeZoneInfo::get_Local() method
 
 
 Returns an instance of [TimeZoneInfo](../) that represents a local time zone.

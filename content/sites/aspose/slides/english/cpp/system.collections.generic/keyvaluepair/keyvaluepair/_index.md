@@ -1,5 +1,5 @@
 ---
-title: KeyValuePair
+title: KeyValuePair()
 second_title: Aspose.Slides for C++ API Reference
 description: Null key-value pair initializer.
 type: docs

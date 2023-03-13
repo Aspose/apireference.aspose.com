@@ -1,12 +1,12 @@
 ---
-title: get_RecoverWorkbookFromChartCache
+title: get_RecoverWorkbookFromChartCache()
 second_title: Aspose.Slides for C++ API Reference
 description: If data source for the chart is an external workbook and it's not available, it will be recovered from the chart cache.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ispreadsheetoptions/get_recoverworkbookfromchartcache/
 ---
-## ISpreadsheetOptions::get_RecoverWorkbookFromChartCache method
+## ISpreadsheetOptions::get_RecoverWorkbookFromChartCache() method
 
 
 If data source for the chart is an external workbook and it's not available, it will be recovered from the chart cache.

@@ -1,12 +1,12 @@
 ---
-title: get_Spokes
+title: get_Spokes()
 second_title: Aspose.Slides for C++ API Reference
 description: Number spokes of wheel transition. Read uint32_t.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.slideshow/wheeltransition/get_spokes/
 ---
-## WheelTransition::get_Spokes method
+## WheelTransition::get_Spokes() method
 
 
 Number spokes of wheel transition. Read **uint32_t**.

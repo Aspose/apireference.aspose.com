@@ -1,12 +1,12 @@
 ---
-title: get_LinePosition
+title: get_LinePosition()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current line position.
 type: docs
 weight: 14
 url: /cpp/system.xml/ixmllineinfo/get_lineposition/
 ---
-## IXmlLineInfo::get_LinePosition method
+## IXmlLineInfo::get_LinePosition() method
 
 
 Returns the current line position.

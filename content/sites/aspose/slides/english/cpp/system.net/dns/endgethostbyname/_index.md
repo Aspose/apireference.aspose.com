@@ -1,12 +1,12 @@
 ---
-title: EndGetHostByName
+title: EndGetHostByName()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits until the specified asynchronous operation to create a new IPHostEntry-class instance completes.
 type: docs
 weight: 66
 url: /cpp/system.net/dns/endgethostbyname/
 ---
-## Dns::EndGetHostByName method
+## Dns::EndGetHostByName([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
 
 
 Waits until the specified asynchronous operation to create a new IPHostEntry-class instance completes.

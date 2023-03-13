@@ -1,12 +1,12 @@
 ---
-title: get_OffsetY
+title: get_OffsetY()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Y translation value of the matrix represented by the current object.
 type: docs
 weight: 53
 url: /cpp/system.drawing.drawing2d/matrix/get_offsety/
 ---
-## Matrix::get_OffsetY method
+## Matrix::get_OffsetY() const method
 
 
 Returns the Y translation value of the matrix represented by the current object.

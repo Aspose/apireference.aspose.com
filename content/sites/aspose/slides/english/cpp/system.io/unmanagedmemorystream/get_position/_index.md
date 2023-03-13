@@ -1,12 +1,12 @@
 ---
-title: get_Position
+title: get_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current position of the stream.
 type: docs
 weight: 66
 url: /cpp/system.io/unmanagedmemorystream/get_position/
 ---
-## UnmanagedMemoryStream::get_Position method
+## UnmanagedMemoryStream::get_Position() const method
 
 
 Returns the current position of the stream.

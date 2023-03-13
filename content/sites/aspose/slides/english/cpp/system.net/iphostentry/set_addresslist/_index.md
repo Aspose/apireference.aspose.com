@@ -1,12 +1,12 @@
 ---
-title: set_AddressList
+title: set_AddressList()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a collection of IP addresses of the host.
 type: docs
 weight: 66
 url: /cpp/system.net/iphostentry/set_addresslist/
 ---
-## IPHostEntry::set_AddressList method
+## IPHostEntry::set_AddressList([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IPAddress](../../ipaddress/)\>\>) method
 
 
 Sets a collection of IP addresses of the host.

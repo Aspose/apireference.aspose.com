@@ -1,15 +1,15 @@
 ---
-title: CreateMathSubscriptElement
+title: CreateMathSubscriptElement()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates IMathSubscriptElement.
+description: Creates IMathSubscriptElement
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathsubscriptelementfactory/createmathsubscriptelement/
 ---
-## IMathSubscriptElementFactory::CreateMathSubscriptElement method
+## IMathSubscriptElementFactory::CreateMathSubscriptElement([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates [IMathSubscriptElement](../../imathsubscriptelement/).
+Creates [IMathSubscriptElement](../../imathsubscriptelement/)
 
 ```cpp
 virtual System::SharedPtr<IMathSubscriptElement> Aspose::Slides::MathText::IMathSubscriptElementFactory::CreateMathSubscriptElement(System::SharedPtr<IMathElement> baseArg, System::SharedPtr<IMathElement> subScript)=0

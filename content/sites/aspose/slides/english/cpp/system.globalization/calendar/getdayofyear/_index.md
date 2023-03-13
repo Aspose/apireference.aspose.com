@@ -1,12 +1,12 @@
 ---
-title: GetDayOfYear
+title: GetDayOfYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets day of year for the specified time point.
 type: docs
 weight: 209
 url: /cpp/system.globalization/calendar/getdayofyear/
 ---
-## Calendar::GetDayOfYear method
+## Calendar::GetDayOfYear([DateTime](../../../system/datetime/)) const method
 
 
 Gets day of year for the specified time point.

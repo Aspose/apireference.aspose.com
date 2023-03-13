@@ -1,5 +1,5 @@
 ---
-title: DSACryptoServiceProvider
+title: DSACryptoServiceProvider()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor. Uses default parameters.
 type: docs

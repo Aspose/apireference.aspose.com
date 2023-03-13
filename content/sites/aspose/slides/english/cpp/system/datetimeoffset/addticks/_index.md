@@ -1,12 +1,12 @@
 ---
-title: AddTicks
+title: AddTicks()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a specified number of ticks to the DateTimeOffset object.
 type: docs
 weight: 339
 url: /cpp/system/datetimeoffset/addticks/
 ---
-## DateTimeOffset::AddTicks method
+## DateTimeOffset::AddTicks(**int64_t**) const method
 
 
 Adds a specified number of ticks to the [DateTimeOffset](../) object.

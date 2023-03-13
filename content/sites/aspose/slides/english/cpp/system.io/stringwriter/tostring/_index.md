@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the underlying string.
 type: docs
 weight: 53
 url: /cpp/system.io/stringwriter/tostring/
 ---
-## StringWriter::ToString method
+## StringWriter::ToString() const method
 
 
 Returns the underlying string.

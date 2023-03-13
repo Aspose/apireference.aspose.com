@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the two LineFormat instances are equal.
 type: docs
 weight: 404
 url: /cpp/aspose.slides/lineformat/equals/
 ---
-## LineFormat::Equals method
+## LineFormat::Equals([System::SharedPtr](../../../system/sharedptr/)\<[ILineFormat](../../ilineformat/)\>) method
 
 
 Determines whether the two [LineFormat](../) instances are equal.

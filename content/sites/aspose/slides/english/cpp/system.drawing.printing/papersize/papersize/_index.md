@@ -1,5 +1,5 @@
 ---
-title: PaperSize
+title: PaperSize()
 second_title: Aspose.Slides for C++ API Reference
 description: "Initializes a new instance of the System::Drawing::Printing::PaperSize class."
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_LoaderExceptions
+title: get_LoaderExceptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the exceptions causing this exception.
 type: docs
 weight: 14
 url: /cpp/system.reflection/details_reflectiontypeloadexception/get_loaderexceptions/
 ---
-## Details_ReflectionTypeLoadException::get_LoaderExceptions method
+## Details_ReflectionTypeLoadException::get_LoaderExceptions() const method
 
 
 Returns the exceptions causing this exception.

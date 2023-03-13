@@ -1,12 +1,12 @@
 ---
-title: get_WriteState
+title: get_WriteState()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the state of the writer.
 type: docs
 weight: 144
 url: /cpp/system.xml/xmltextwriter/get_writestate/
 ---
-## XmlTextWriter::get_WriteState method
+## XmlTextWriter::get_WriteState() method
 
 
 Returns the state of the writer.

@@ -1,5 +1,5 @@
 ---
-title: DrawString
+title: DrawString()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws the specified string at the specified location using the specified font and brush.
 type: docs

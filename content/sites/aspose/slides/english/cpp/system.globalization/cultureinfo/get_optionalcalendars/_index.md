@@ -1,12 +1,12 @@
 ---
-title: get_OptionalCalendars
+title: get_OptionalCalendars()
 second_title: Aspose.Slides for C++ API Reference
 description: List of calendars that can be used with the culture.
 type: docs
 weight: 248
 url: /cpp/system.globalization/cultureinfo/get_optionalcalendars/
 ---
-## CultureInfo::get_OptionalCalendars method
+## CultureInfo::get_OptionalCalendars() const method
 
 
 List of calendars that can be used with the culture.

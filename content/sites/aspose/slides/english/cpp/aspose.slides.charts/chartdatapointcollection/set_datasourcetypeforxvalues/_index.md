@@ -1,12 +1,12 @@
 ---
-title: set_DataSourceTypeForXValues
+title: set_DataSourceTypeForXValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual in data points XValue property object. In other words it specifies the type of value of ChartDataPoint.XValue.Data property. Write DataSourceType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/chartdatapointcollection/set_datasourcetypeforxvalues/
 ---
-## ChartDataPointCollection::set_DataSourceTypeForXValues method
+## ChartDataPointCollection::set_DataSourceTypeForXValues([DataSourceType](../../datasourcetype/)) method
 
 
 Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual in data points XValue property object. In other words it specifies the type of value of ChartDataPoint.XValue.Data property. Write [DataSourceType](../../datasourcetype/).

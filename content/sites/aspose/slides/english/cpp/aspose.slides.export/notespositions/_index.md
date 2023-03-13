@@ -1,7 +1,7 @@
 ---
 title: NotesPositions
 second_title: Aspose.Slides for C++ API Reference
-description: Represents the rule to render notes into exported document.
+description: Represents the rule to render notes into exported document
 type: docs
 weight: 846
 url: /cpp/aspose.slides.export/notespositions/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.export/notespositions/
 ## NotesPositions enum
 
 
-Represents the rule to render notes into exported document.
+Represents the rule to render notes into exported document
 
 ```cpp
 enum class NotesPositions

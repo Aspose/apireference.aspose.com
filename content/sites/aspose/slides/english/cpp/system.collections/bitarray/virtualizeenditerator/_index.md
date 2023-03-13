@@ -1,12 +1,12 @@
 ---
-title: virtualizeEndIterator
+title: virtualizeEndIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the implementation of end iterator for the current container.
 type: docs
 weight: 313
 url: /cpp/system.collections/bitarray/virtualizeenditerator/
 ---
-## BitArray::virtualizeEndIterator method
+## BitArray::virtualizeEndIterator() method
 
 
 Gets the implementation of end iterator for the current container.

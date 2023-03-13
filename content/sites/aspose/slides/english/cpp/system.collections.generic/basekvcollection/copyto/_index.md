@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies data to existing array elements.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/basekvcollection/copyto/
 ---
-## BaseKVCollection::CopyTo method
+## BaseKVCollection::CopyTo([ArrayPtr](../../../system/arrayptr/)\<KV\>, int) method
 
 
 Copies data to existing array elements.

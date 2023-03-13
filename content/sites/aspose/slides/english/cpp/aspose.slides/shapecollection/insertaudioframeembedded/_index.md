@@ -1,5 +1,5 @@
 ---
-title: InsertAudioFrameEmbedded
+title: InsertAudioFrameEmbedded()
 second_title: Aspose.Slides for C++ API Reference
 description: Insert an AudioFrame with embedded audio file. Embedded audio file sound can be a WAV only.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_ResponseUri
+title: get_ResponseUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 40
 url: /cpp/system.net/ftpwebresponse/get_responseuri/
 ---
-## FtpWebResponse::get_ResponseUri method
+## FtpWebResponse::get_ResponseUri() method
 
 
 Not implemented.

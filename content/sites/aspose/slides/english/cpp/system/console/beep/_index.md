@@ -1,12 +1,12 @@
 ---
-title: Beep
+title: Beep()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 27
 url: /cpp/system/console/beep/
 ---
-## Console::Beep method
+## Console::Beep() method
 
 
 NOT IMPLEMENTED.

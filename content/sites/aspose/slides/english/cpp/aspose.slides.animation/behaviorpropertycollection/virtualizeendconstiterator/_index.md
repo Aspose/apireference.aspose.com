@@ -1,12 +1,12 @@
 ---
-title: virtualizeEndConstIterator
+title: virtualizeEndConstIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing right after the last element (if any)of the const-qualified instance of the collection.
 type: docs
 weight: 261
 url: /cpp/aspose.slides.animation/behaviorpropertycollection/virtualizeendconstiterator/
 ---
-## BehaviorPropertyCollection::virtualizeEndConstIterator method
+## BehaviorPropertyCollection::virtualizeEndConstIterator() const method
 
 
 Gets iterator pointing right after the last element (if any)of the const-qualified instance of the collection.

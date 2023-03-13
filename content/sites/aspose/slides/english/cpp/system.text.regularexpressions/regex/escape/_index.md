@@ -1,12 +1,12 @@
 ---
-title: Escape
+title: Escape()
 second_title: Aspose.Slides for C++ API Reference
 description: Escapes special characters to use string as part of the pattern.
 type: docs
 weight: 131
 url: /cpp/system.text.regularexpressions/regex/escape/
 ---
-## Regex::Escape method
+## Regex::Escape(const [String](../../../system/string/)\&) method
 
 
 Escapes special characters to use string as part of the pattern.

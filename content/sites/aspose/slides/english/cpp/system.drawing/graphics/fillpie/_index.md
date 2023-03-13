@@ -1,5 +1,5 @@
 ---
-title: FillPie
+title: FillPie()
 second_title: Aspose.Slides for C++ API Reference
 description: Fills the specified pie using the specified brush on the surface represented by the current object.
 type: docs

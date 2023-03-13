@@ -1,12 +1,12 @@
 ---
-title: ToBoost
+title: ToBoost()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an instance of boost::filesystem::path class that represents the specified path."
 type: docs
 weight: 235
 url: /cpp/system.io/path/toboost/
 ---
-## Path::ToBoost method
+## Path::ToBoost(const [String](../../../system/string/)\&) method
 
 
 Returns an instance of boost::filesystem::path class that represents the specified path.

@@ -1,12 +1,12 @@
 ---
-title: CreateAlphaBiLevel
+title: CreateAlphaBiLevel()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Alpha BiLevel effect.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createalphabilevel/
 ---
-## ImageTransformOperationFactory::CreateAlphaBiLevel method
+## ImageTransformOperationFactory::CreateAlphaBiLevel(**float**) method
 
 
 Creates Alpha [BiLevel](../../bilevel/) effect.

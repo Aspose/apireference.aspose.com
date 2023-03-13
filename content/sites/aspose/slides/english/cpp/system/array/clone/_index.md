@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Clones the array.
 type: docs
 weight: 235
 url: /cpp/system/array/clone/
 ---
-## Array::Clone method
+## Array::Clone() method
 
 
 Clones the array.

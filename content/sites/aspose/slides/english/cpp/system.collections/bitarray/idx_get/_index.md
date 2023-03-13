@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Getter function.
 type: docs
 weight: 40
 url: /cpp/system.collections/bitarray/idx_get/
 ---
-## BitArray::idx_get method
+## BitArray::idx_get(int) const method
 
 
 Getter function.

@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a byte array to the XmlPreloadedResolver store and maps it to a URI. If the store already contains a mapping for the same URI, the existing mapping is overridden.
 type: docs

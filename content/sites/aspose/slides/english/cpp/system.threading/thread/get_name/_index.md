@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets thread name.
 type: docs
 weight: 157
 url: /cpp/system.threading/thread/get_name/
 ---
-## Thread::get_Name method
+## Thread::get_Name() method
 
 
 Gets thread name.

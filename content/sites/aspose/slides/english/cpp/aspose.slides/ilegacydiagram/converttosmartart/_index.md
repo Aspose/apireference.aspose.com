@@ -1,12 +1,12 @@
 ---
-title: ConvertToSmartArt
+title: ConvertToSmartArt()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts legacy digram to editable SmartArt object. Created SmartArt object adds to parent group shape at the same position.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ilegacydiagram/converttosmartart/
 ---
-## ILegacyDiagram::ConvertToSmartArt method
+## ILegacyDiagram::ConvertToSmartArt() method
 
 
 Converts legacy digram to editable [SmartArt](../../../aspose.slides.smartart/) object. Created [SmartArt](../../../aspose.slides.smartart/) object adds to parent group shape at the same position.

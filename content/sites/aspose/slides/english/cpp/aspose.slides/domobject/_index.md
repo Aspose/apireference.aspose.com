@@ -1,7 +1,7 @@
 ---
 title: DomObject
 second_title: Aspose.Slides for C++ API Reference
-description: Base DOM object.
+description: Base DOM object
 type: docs
 weight: 781
 url: /cpp/aspose.slides/domobject/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/domobject/
 ## DomObject class
 
 
-Base [DOM](../../aspose.slides.dom/) object.
+Base [DOM](../../aspose.slides.dom/) object
 
 ```cpp
 template<typename TParent>class DomObject : public virtual Aspose::Slides::IDOMObject

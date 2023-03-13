@@ -1,12 +1,12 @@
 ---
-title: SetBrushRemapTable
+title: SetBrushRemapTable()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 144
 url: /cpp/system.drawing.imaging/imageattributes/setbrushremaptable/
 ---
-## ImageAttributes::SetBrushRemapTable method
+## ImageAttributes::SetBrushRemapTable(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[ColorMap](../../colormap/)\>\>\&) method
 
 
 NOT IMPLEMENTED.

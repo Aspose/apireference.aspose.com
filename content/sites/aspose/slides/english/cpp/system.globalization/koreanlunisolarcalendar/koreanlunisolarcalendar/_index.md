@@ -1,12 +1,12 @@
 ---
-title: KoreanLunisolarCalendar
+title: KoreanLunisolarCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.globalization/koreanlunisolarcalendar/koreanlunisolarcalendar/
 ---
-## KoreanLunisolarCalendar::KoreanLunisolarCalendar constructor
+## KoreanLunisolarCalendar::KoreanLunisolarCalendar() constructor
 
 
 Constructor.

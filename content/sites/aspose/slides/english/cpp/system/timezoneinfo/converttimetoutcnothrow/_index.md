@@ -1,12 +1,12 @@
 ---
-title: ConvertTimeToUtcNoThrow
+title: ConvertTimeToUtcNoThrow()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts time to UTC-time. FOR INTERNAL USE.
 type: docs
 weight: 92
 url: /cpp/system/timezoneinfo/converttimetoutcnothrow/
 ---
-## TimeZoneInfo::ConvertTimeToUtcNoThrow method
+## TimeZoneInfo::ConvertTimeToUtcNoThrow([DateTime](../../datetime/)) method
 
 
 Converts time to UTC-time. FOR INTERNAL USE.

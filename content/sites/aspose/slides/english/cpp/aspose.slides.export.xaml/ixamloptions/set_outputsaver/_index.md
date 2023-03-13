@@ -1,12 +1,12 @@
 ---
-title: set_OutputSaver
+title: set_OutputSaver()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents an implementation of IOutputSaver interface.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.export.xaml/ixamloptions/set_outputsaver/
 ---
-## IXamlOptions::set_OutputSaver method
+## IXamlOptions::set_OutputSaver([System::SharedPtr](../../../system/sharedptr/)\<[IXamlOutputSaver](../../ixamloutputsaver/)\>) method
 
 
 Represents an implementation of IOutputSaver interface.

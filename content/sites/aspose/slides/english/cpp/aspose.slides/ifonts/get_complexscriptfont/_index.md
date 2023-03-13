@@ -1,12 +1,12 @@
 ---
-title: get_ComplexScriptFont
+title: get_ComplexScriptFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the complex script font. Read IFontData.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ifonts/get_complexscriptfont/
 ---
-## IFonts::get_ComplexScriptFont method
+## IFonts::get_ComplexScriptFont() method
 
 
 Returns the complex script font. Read [IFontData](../../ifontdata/).

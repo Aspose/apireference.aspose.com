@@ -1,12 +1,12 @@
 ---
-title: Flush
+title: Flush()
 second_title: Aspose.Slides for C++ API Reference
 description: Clears this stream's buffers and writes all buffered data to the underlying storage.
 type: docs
 weight: 378
 url: /cpp/system.net.security/sslstream/flush/
 ---
-## SslStream::Flush method
+## SslStream::Flush() method
 
 
 Clears this stream's buffers and writes all buffered data to the underlying storage.

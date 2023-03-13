@@ -1,12 +1,12 @@
 ---
-title: MoveToFirstAttribute
+title: MoveToFirstAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves to the first attribute.
 type: docs
 weight: 521
 url: /cpp/system.xml/xmltextreader/movetofirstattribute/
 ---
-## XmlTextReader::MoveToFirstAttribute method
+## XmlTextReader::MoveToFirstAttribute() method
 
 
 Moves to the first attribute.

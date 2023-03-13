@@ -1,12 +1,12 @@
 ---
-title: set_By
+title: set_By()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the relative offset value for the color animation. Write IColorOffset.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/coloreffect/set_by/
 ---
-## ColorEffect::set_By method
+## ColorEffect::set_By([System::SharedPtr](../../../system/sharedptr/)\<[IColorOffset](../../icoloroffset/)\>) method
 
 
 Describes the relative offset value for the color animation. Write [IColorOffset](../../icoloroffset/).

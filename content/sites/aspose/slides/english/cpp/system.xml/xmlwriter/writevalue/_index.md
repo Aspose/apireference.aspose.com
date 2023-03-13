@@ -1,5 +1,5 @@
 ---
-title: WriteValue
+title: WriteValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the object value.
 type: docs

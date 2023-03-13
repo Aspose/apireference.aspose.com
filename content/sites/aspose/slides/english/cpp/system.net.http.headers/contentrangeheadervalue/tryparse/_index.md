@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the ContentRangeHeaderValue class.
 type: docs
 weight: 157
 url: /cpp/system.net.http.headers/contentrangeheadervalue/tryparse/
 ---
-## ContentRangeHeaderValue::TryParse method
+## ContentRangeHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ContentRangeHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [ContentRangeHeaderValue](../) class.

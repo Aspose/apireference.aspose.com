@@ -1,12 +1,12 @@
 ---
-title: get_PenType
+title: get_PenType()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 495
 url: /cpp/system.drawing/pen/get_pentype/
 ---
-## Pen::get_PenType method
+## Pen::get_PenType() const method
 
 
 NOT IMPLEMENTED.

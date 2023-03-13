@@ -1,12 +1,12 @@
 ---
-title: set_SchemaTypeName
+title: set_SchemaTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of a built-in data type defined in this schema or another schema indicated by the specified namespace.
 type: docs
 weight: 274
 url: /cpp/system.xml.schema/xmlschemaelement/set_schematypename/
 ---
-## XmlSchemaElement::set_SchemaTypeName method
+## XmlSchemaElement::set_SchemaTypeName(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
 
 
 Sets the name of a built-in data type defined in this schema or another schema indicated by the specified namespace.

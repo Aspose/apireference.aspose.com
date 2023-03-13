@@ -1,5 +1,5 @@
 ---
-title: WriteLine
+title: WriteLine()
 second_title: Aspose.Slides for C++ API Reference
 description: Outputs the current line terminator to the output stream represented by the current object.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_Position
+title: get_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the position of the legend on a chart. Non-NaN values of X, Y, Width, Heigt properties override effect of this property. Read LegendPositionType.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/ilegend/get_position/
 ---
-## ILegend::get_Position method
+## ILegend::get_Position() method
 
 
 Specifies the position of the legend on a chart. Non-NaN values of X, Y, Width, Heigt properties override effect of this property. Read [LegendPositionType](../../legendpositiontype/).

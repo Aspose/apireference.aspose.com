@@ -1,12 +1,12 @@
 ---
-title: get_Block
+title: get_Block()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Block derivation.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaelement/get_block/
 ---
-## XmlSchemaElement::get_Block method
+## XmlSchemaElement::get_Block() method
 
 
 Returns a **Block** derivation.

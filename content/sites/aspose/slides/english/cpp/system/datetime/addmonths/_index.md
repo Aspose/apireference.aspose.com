@@ -1,12 +1,12 @@
 ---
-title: AddMonths
+title: AddMonths()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of the DateTime class representing the date and time value which is the sum of the value represented by the current object and the specified number of months.
 type: docs
 weight: 235
 url: /cpp/system/datetime/addmonths/
 ---
-## DateTime::AddMonths method
+## DateTime::AddMonths(int) const method
 
 
 Returns a new instance of the [DateTime](../) class representing the date and time value which is the sum of the value represented by the current object and the specified number of months.

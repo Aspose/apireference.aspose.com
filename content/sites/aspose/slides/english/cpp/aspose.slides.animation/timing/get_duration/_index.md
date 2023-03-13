@@ -1,12 +1,12 @@
 ---
-title: get_Duration
+title: get_Duration()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the duration of animation effect. Read float.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/timing/get_duration/
 ---
-## Timing::get_Duration method
+## Timing::get_Duration() method
 
 
 Describes the duration of animation effect. Read **float**.

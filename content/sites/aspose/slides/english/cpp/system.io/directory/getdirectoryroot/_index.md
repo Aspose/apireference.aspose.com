@@ -1,12 +1,12 @@
 ---
-title: GetDirectoryRoot
+title: GetDirectoryRoot()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the root directory of the specified path.
 type: docs
 weight: 300
 url: /cpp/system.io/directory/getdirectoryroot/
 ---
-## Directory::GetDirectoryRoot method
+## Directory::GetDirectoryRoot(const [String](../../../system/string/)\&) method
 
 
 Returns the root directory of the specified path.

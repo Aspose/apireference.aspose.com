@@ -1,12 +1,12 @@
 ---
-title: GetNextChar
+title: GetNextChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Extracts next character in fallback buffer.
 type: docs
 weight: 27
 url: /cpp/system.text/decoderfallbackbuffer/getnextchar/
 ---
-## DecoderFallbackBuffer::GetNextChar method
+## DecoderFallbackBuffer::GetNextChar() method
 
 
 Extracts next character in fallback buffer.

@@ -1,12 +1,12 @@
 ---
-title: get_Videos
+title: get_Videos()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of all embedded video files in the presentation. Read-only IVideoCollection.
 type: docs
 weight: 235
 url: /cpp/aspose.slides/presentation/get_videos/
 ---
-## Presentation::get_Videos method
+## Presentation::get_Videos() method
 
 
 Returns the collection of all embedded video files in the presentation. Read-only [IVideoCollection](../../ivideocollection/).

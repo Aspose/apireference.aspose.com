@@ -1,12 +1,12 @@
 ---
-title: UnregisterMapping
+title: UnregisterMapping()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 183
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/unregistermapping/
 ---
-## HttpWebClientProtocol::UnregisterMapping method
+## HttpWebClientProtocol::UnregisterMapping([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 

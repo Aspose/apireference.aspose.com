@@ -1,12 +1,12 @@
 ---
-title: get_Writer
+title: get_Writer()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.xml.serialization/xmlserializerimplementation/get_writer/
 ---
-## XmlSerializerImplementation::get_Writer method
+## XmlSerializerImplementation::get_Writer() method
 
 
 

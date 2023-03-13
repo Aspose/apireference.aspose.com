@@ -1,12 +1,12 @@
 ---
-title: get_TargetNamespace
+title: get_TargetNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Uniform Resource Identifier (URI) of the schema target namespace.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschema/get_targetnamespace/
 ---
-## XmlSchema::get_TargetNamespace method
+## XmlSchema::get_TargetNamespace() method
 
 
 Returns the Uniform Resource Identifier (URI) of the schema target namespace.

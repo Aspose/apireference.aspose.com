@@ -1,12 +1,12 @@
 ---
-title: GetNames
+title: GetNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing names of all members of enumeration E.
 type: docs
 weight: 105
 url: /cpp/system/enum/getnames/
 ---
-## Enum::GetNames method
+## Enum::GetNames() method
 
 
 Returns an array containing names of all members of enumeration **E**.

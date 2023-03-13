@@ -1,12 +1,12 @@
 ---
-title: ConvertTimeFromUtc
+title: ConvertTimeFromUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts UTC-time to the time in a specified time zone.
 type: docs
 weight: 66
 url: /cpp/system/timezoneinfo/converttimefromutc/
 ---
-## TimeZoneInfo::ConvertTimeFromUtc method
+## TimeZoneInfo::ConvertTimeFromUtc([DateTime](../../datetime/), const [TimeZoneInfoPtr](../../timezoneinfoptr/)\&) method
 
 
 Converts UTC-time to the time in a specified time zone.

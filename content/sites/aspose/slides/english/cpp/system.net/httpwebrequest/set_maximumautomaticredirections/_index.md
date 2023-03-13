@@ -1,12 +1,12 @@
 ---
-title: set_MaximumAutomaticRedirections
+title: set_MaximumAutomaticRedirections()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a maximum number of allowed redirections.
 type: docs
 weight: 404
 url: /cpp/system.net/httpwebrequest/set_maximumautomaticredirections/
 ---
-## HttpWebRequest::set_MaximumAutomaticRedirections method
+## HttpWebRequest::set_MaximumAutomaticRedirections(int) method
 
 
 Sets a maximum number of allowed redirections.

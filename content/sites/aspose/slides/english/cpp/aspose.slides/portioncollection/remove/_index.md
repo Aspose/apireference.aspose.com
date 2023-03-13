@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of a specific object from the ICollection.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/portioncollection/remove/
 ---
-## PortionCollection::Remove method
+## PortionCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../iportion/)\>) method
 
 
 Removes the first occurrence of a specific object from the [ICollection](../../../system.collections.generic/icollection/).

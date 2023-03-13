@@ -1,12 +1,12 @@
 ---
-title: get_ContentTypeParticle
+title: get_ContentTypeParticle()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the particle that holds the post-compilation value of the XmlSchemaComplexType::get_ContentType particle."
 type: docs
 weight: 183
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_contenttypeparticle/
 ---
-## XmlSchemaComplexType::get_ContentTypeParticle method
+## XmlSchemaComplexType::get_ContentTypeParticle() method
 
 
 Returns the particle that holds the post-compilation value of the [XmlSchemaComplexType::get_ContentType](../get_contenttype/) particle.

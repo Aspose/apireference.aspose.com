@@ -1,12 +1,12 @@
 ---
-title: CreateDocumentFormatter
+title: CreateDocumentFormatter()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates and returns HTML formatter for a simple document view which consists of sequences of slides one below another.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/htmlformatter/createdocumentformatter/
 ---
-## HtmlFormatter::CreateDocumentFormatter method
+## HtmlFormatter::CreateDocumentFormatter([System::String](../../../system/string/), **bool**) method
 
 
 Creates and returns HTML formatter for a simple document view which consists of sequences of slides one below another.

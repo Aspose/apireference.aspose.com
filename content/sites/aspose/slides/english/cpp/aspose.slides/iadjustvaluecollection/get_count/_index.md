@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of behaviors in a collection. Read-only int32_t.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iadjustvaluecollection/get_count/
 ---
-## IAdjustValueCollection::get_Count method
+## IAdjustValueCollection::get_Count() method
 
 
 Returns the number of behaviors in a collection. Read-only **int32_t**.

@@ -1,12 +1,12 @@
 ---
-title: set_RepeatCount
+title: set_RepeatCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the number of times the effect should repeat. Write float.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/timing/set_repeatcount/
 ---
-## Timing::set_RepeatCount method
+## Timing::set_RepeatCount(**float**) method
 
 
 Describes the number of times the effect should repeat. Write **float**.

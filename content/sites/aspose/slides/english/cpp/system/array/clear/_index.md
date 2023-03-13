@@ -1,5 +1,5 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Not supported because the array represented by the current object is read-only.
 type: docs

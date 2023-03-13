@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the element at the specified index.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/customxmlpartcollection/idx_get/
 ---
-## CustomXmlPartCollection::idx_get method
+## CustomXmlPartCollection::idx_get(**int32_t**) method
 
 
 Returns the element at the specified index.

@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets captured substring.
 type: docs
 weight: 40
 url: /cpp/system.text.regularexpressions/capture/get_value/
 ---
-## Capture::get_Value method
+## Capture::get_Value() const method
 
 
 Gets captured substring.

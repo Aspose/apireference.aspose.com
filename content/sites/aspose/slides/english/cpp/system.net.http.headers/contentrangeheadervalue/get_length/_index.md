@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the length of an entity body.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/contentrangeheadervalue/get_length/
 ---
-## ContentRangeHeaderValue::get_Length method
+## ContentRangeHeaderValue::get_Length() method
 
 
 Gets the length of an entity body.

@@ -1,5 +1,5 @@
 ---
-title: CopyFromScreen
+title: CopyFromScreen()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_Index
+title: get_Index()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets position of character that triggered error in input array.
 type: docs
 weight: 40
 url: /cpp/system.text/details_encoderfallbackexception/get_index/
 ---
-## Details_EncoderFallbackException::get_Index method
+## Details_EncoderFallbackException::get_Index() method
 
 
 Gets position of character that triggered error in input array.

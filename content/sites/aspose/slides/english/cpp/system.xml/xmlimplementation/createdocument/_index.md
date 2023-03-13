@@ -1,12 +1,12 @@
 ---
-title: CreateDocument
+title: CreateDocument()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new XmlDocument.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlimplementation/createdocument/
 ---
-## XmlImplementation::CreateDocument method
+## XmlImplementation::CreateDocument() method
 
 
 Creates a new [XmlDocument](../../xmldocument/).

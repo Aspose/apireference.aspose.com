@@ -1,7 +1,7 @@
 ---
-title: Scale
+title: Scale()
 second_title: Aspose.Slides for C++ API Reference
-description: Scale vector.
+description: Scale vector
 type: docs
 weight: 40
 url: /cpp/aspose.slides.drawing/vector2d32f/scale/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.drawing/vector2d32f/scale/
 ## Vector2d32f::Scale(**float**, **float**) method
 
 
-Scale vector.
+Scale vector
 
 ```cpp
 Vector2d32f Aspose::Slides::Drawing::Vector2d32f::Scale(float scaleX, float scaleY)
@@ -29,7 +29,7 @@ Vector2d32f Aspose::Slides::Drawing::Vector2d32f::Scale(float scaleX, float scal
 ## Vector2d32f::Scale([Vector2d32f](../)) method
 
 
-Scale vector.
+Scale vector
 
 ```cpp
 Vector2d32f Aspose::Slides::Drawing::Vector2d32f::Scale(Vector2d32f scale)

@@ -1,12 +1,12 @@
 ---
-title: get_BaseType
+title: get_BaseType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns information on the base type.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemasimpletyperestriction/get_basetype/
 ---
-## XmlSchemaSimpleTypeRestriction::get_BaseType method
+## XmlSchemaSimpleTypeRestriction::get_BaseType() method
 
 
 Returns information on the base type.

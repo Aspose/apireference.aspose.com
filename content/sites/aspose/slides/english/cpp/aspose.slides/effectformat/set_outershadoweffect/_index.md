@@ -1,12 +1,12 @@
 ---
-title: set_OuterShadowEffect
+title: set_OuterShadowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Outer shadow. Write Effects::IOuterShadow."
 type: docs
 weight: 131
 url: /cpp/aspose.slides/effectformat/set_outershadoweffect/
 ---
-## EffectFormat::set_OuterShadowEffect method
+## EffectFormat::set_OuterShadowEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::IOuterShadow](../../../aspose.slides.effects/ioutershadow/)\>) method
 
 
 Outer shadow. Write [Effects::IOuterShadow](../../../aspose.slides.effects/ioutershadow/).

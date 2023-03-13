@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of elements in list.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/linkedlist/get_count/
 ---
-## LinkedList::get_Count method
+## LinkedList::get_Count() const method
 
 
 Gets number of elements in list.

@@ -1,12 +1,12 @@
 ---
-title: get_DashCap
+title: get_DashCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates the cap used at the both ends of a dashed line.
 type: docs
 weight: 196
 url: /cpp/system.drawing/pen/get_dashcap/
 ---
-## Pen::get_DashCap method
+## Pen::get_DashCap() const method
 
 
 Returns a value that indicates the cap used at the both ends of a dashed line.

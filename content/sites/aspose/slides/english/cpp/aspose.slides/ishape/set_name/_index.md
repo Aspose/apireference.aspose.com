@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the name of a shape. Write System::String."
 type: docs
 weight: 391
 url: /cpp/aspose.slides/ishape/set_name/
 ---
-## IShape::set_Name method
+## IShape::set_Name([System::String](../../../system/string/)) method
 
 
 Sets the name of a shape. Write [System::String](../../../system/string/).

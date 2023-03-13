@@ -1,12 +1,12 @@
 ---
-title: get_Listeners
+title: get_Listeners()
 second_title: Aspose.Slides for C++ API Reference
 description: Accesses static list of listeners.
 type: docs
 weight: 92
 url: /cpp/system.diagnostics/debug/get_listeners/
 ---
-## Debug::get_Listeners method
+## Debug::get_Listeners() method
 
 
 Accesses static list of listeners.

@@ -1,12 +1,12 @@
 ---
-title: set_FriendlyName
+title: set_FriendlyName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the certificate's friendly name.
 type: docs
 weight: 183
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/set_friendlyname/
 ---
-## X509Certificate2::set_FriendlyName method
+## X509Certificate2::set_FriendlyName(const [String](../../../system/string/)\&) method
 
 
 Sets the certificate's friendly name.

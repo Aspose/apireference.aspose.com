@@ -1,12 +1,12 @@
 ---
-title: get_Row
+title: get_Row()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data/datarowview/get_row/
 ---
-## DataRowView::get_Row method
+## DataRowView::get_Row() method
 
 
 RTTI information.

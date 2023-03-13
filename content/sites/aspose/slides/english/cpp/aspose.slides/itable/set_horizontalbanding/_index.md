@@ -1,12 +1,12 @@
 ---
-title: set_HorizontalBanding
+title: set_HorizontalBanding()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the even rows has to be drawn with a different formatting. Write bool.
 type: docs
 weight: 209
 url: /cpp/aspose.slides/itable/set_horizontalbanding/
 ---
-## ITable::set_HorizontalBanding method
+## ITable::set_HorizontalBanding(**bool**) method
 
 
 Determines whether the even rows has to be drawn with a different formatting. Write **bool**.

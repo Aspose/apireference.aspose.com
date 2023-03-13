@@ -1,12 +1,12 @@
 ---
-title: HexUnescape
+title: HexUnescape()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts character from escaped hex form.
 type: docs
 weight: 14
 url: /cpp/system/urishim/hexunescape/
 ---
-## UriShim::HexUnescape method
+## UriShim::HexUnescape(const [String](../../string/)\&, **int32_t**\&) method
 
 
 Converts character from escaped hex form.

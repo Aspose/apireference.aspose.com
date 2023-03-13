@@ -1,12 +1,12 @@
 ---
-title: set_Mode
+title: set_Mode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets pointer mode. May alter referenced object's reference counts.
 type: docs
 weight: 183
 url: /cpp/system/smartptr/set_mode/
 ---
-## SmartPtr::set_Mode method
+## SmartPtr::set_Mode([SmartPtrMode](../../smartptrmode/)) method
 
 
 Sets pointer mode. May alter referenced object's reference counts.

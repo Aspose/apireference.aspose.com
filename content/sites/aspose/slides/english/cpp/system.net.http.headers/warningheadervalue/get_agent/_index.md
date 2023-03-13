@@ -1,12 +1,12 @@
 ---
-title: get_Agent
+title: get_Agent()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the host attached to the warning.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/warningheadervalue/get_agent/
 ---
-## WarningHeaderValue::get_Agent method
+## WarningHeaderValue::get_Agent() method
 
 
 Returns the host attached to the warning.

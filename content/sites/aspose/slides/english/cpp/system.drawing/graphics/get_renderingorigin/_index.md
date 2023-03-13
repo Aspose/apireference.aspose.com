@@ -1,12 +1,12 @@
 ---
-title: get_RenderingOrigin
+title: get_RenderingOrigin()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Point object that represents the rendering origin of the current Graphics object for dithering and for hatch brushes.
 type: docs
 weight: 586
 url: /cpp/system.drawing/graphics/get_renderingorigin/
 ---
-## Graphics::get_RenderingOrigin method
+## Graphics::get_RenderingOrigin() const method
 
 
 Returns a [Point](../../point/) object that represents the rendering origin of the current [Graphics](../) object for dithering and for hatch brushes.

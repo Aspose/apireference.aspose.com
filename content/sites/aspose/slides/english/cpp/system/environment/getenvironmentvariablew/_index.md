@@ -1,12 +1,12 @@
 ---
-title: GetEnvironmentVariableW
+title: GetEnvironmentVariableW()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the specified environment varibale associated with the current process.
 type: docs
 weight: 313
 url: /cpp/system/environment/getenvironmentvariablew/
 ---
-## Environment::GetEnvironmentVariableW method
+## Environment::GetEnvironmentVariableW(const [String](../../string/)\&) method
 
 
 Returns the value of the specified environment varibale associated with the current process.

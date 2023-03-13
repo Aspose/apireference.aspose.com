@@ -1,12 +1,12 @@
 ---
-title: get_Fill
+title: get_Fill()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns fill style properties of an axis. Read-only IFillFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/axisformat/get_fill/
 ---
-## AxisFormat::get_Fill method
+## AxisFormat::get_Fill() method
 
 
 Returns fill style properties of an axis. Read-only [IFillFormat](../../../aspose.slides/ifillformat/).

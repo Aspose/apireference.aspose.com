@@ -1,12 +1,12 @@
 ---
-title: get_HeaderFooterManager
+title: get_HeaderFooterManager()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns HeaderFooter manager of the master notes slide. Read-only IMasterNotesSlideHeaderFooterManager.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/imasternotesslide/get_headerfootermanager/
 ---
-## IMasterNotesSlide::get_HeaderFooterManager method
+## IMasterNotesSlide::get_HeaderFooterManager() method
 
 
 Returns HeaderFooter manager of the master notes slide. Read-only [IMasterNotesSlideHeaderFooterManager](../../imasternotesslideheaderfootermanager/).

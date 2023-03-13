@@ -1,12 +1,12 @@
 ---
-title: CreateSignificantWhitespace
+title: CreateSignificantWhitespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlSignificantWhitespace node.
 type: docs
 weight: 404
 url: /cpp/system.xml/xmldocument/createsignificantwhitespace/
 ---
-## XmlDocument::CreateSignificantWhitespace method
+## XmlDocument::CreateSignificantWhitespace(const [String](../../../system/string/)\&) method
 
 
 Creates an [XmlSignificantWhitespace](../../xmlsignificantwhitespace/) node.

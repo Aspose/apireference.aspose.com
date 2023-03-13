@@ -1,12 +1,12 @@
 ---
-title: ConvertToARGBImage
+title: ConvertToARGBImage()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the specified bitmap image with pixel format changed to Format32bppArgb.
 type: docs
 weight: 287
 url: /cpp/system.drawing/bitmap/converttoargbimage/
 ---
-## Bitmap::ConvertToARGBImage method
+## Bitmap::ConvertToARGBImage(const [SharedPtr](../../../system/sharedptr/)\<[Bitmap](../)\>\&) method
 
 
 Creates a copy of the specified bitmap image with pixel format changed to Format32bppArgb.

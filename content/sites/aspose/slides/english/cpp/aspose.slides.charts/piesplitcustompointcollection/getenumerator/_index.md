@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an enumerator that iterates through the collection.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/piesplitcustompointcollection/getenumerator/
 ---
-## PieSplitCustomPointCollection::GetEnumerator method
+## PieSplitCustomPointCollection::GetEnumerator() method
 
 
 Returns an enumerator that iterates through the collection.

@@ -1,12 +1,12 @@
 ---
-title: get_Credentials
+title: get_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets authentication information that is associated with the current request.
 type: docs
 weight: 196
 url: /cpp/system.net/webrequest/get_credentials/
 ---
-## WebRequest::get_Credentials method
+## WebRequest::get_Credentials() method
 
 
 Gets authentication information that is associated with the current request.

@@ -1,5 +1,5 @@
 ---
-title: TypeInfoPtr
+title: TypeInfoPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor.
 type: docs

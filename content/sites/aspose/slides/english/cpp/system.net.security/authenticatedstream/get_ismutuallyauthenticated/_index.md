@@ -1,12 +1,12 @@
 ---
-title: get_IsMutuallyAuthenticated
+title: get_IsMutuallyAuthenticated()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if a server and a client are authenticated.
 type: docs
 weight: 27
 url: /cpp/system.net.security/authenticatedstream/get_ismutuallyauthenticated/
 ---
-## AuthenticatedStream::get_IsMutuallyAuthenticated method
+## AuthenticatedStream::get_IsMutuallyAuthenticated() const method
 
 
 Returns a value that indicates if a server and a client are authenticated.

@@ -1,12 +1,12 @@
 ---
-title: ShiftIteratorBy
+title: ShiftIteratorBy()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the iterator by the specified number of steps.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/dictionaryiterator/shiftiteratorby/
 ---
-## DictionaryIterator::ShiftIteratorBy method
+## DictionaryIterator::ShiftIteratorBy(std::ptrdiff_t) method
 
 
 Moves the iterator by the specified number of steps.

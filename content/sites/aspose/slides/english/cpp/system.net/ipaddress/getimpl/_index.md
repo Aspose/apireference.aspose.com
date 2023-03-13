@@ -1,12 +1,12 @@
 ---
-title: GetImpl
+title: GetImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a pointer to implementation.
 type: docs
 weight: 196
 url: /cpp/system.net/ipaddress/getimpl/
 ---
-## IPAddress::GetImpl method
+## IPAddress::GetImpl() const method
 
 
 Returns a pointer to implementation.

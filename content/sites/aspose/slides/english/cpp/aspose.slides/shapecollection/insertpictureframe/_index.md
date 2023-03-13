@@ -1,12 +1,12 @@
 ---
-title: InsertPictureFrame
+title: InsertPictureFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new PictureFrame and inserts it to the collection at the specified index.
 type: docs
 weight: 456
 url: /cpp/aspose.slides/shapecollection/insertpictureframe/
 ---
-## ShapeCollection::InsertPictureFrame method
+## ShapeCollection::InsertPictureFrame(**int32_t**, [ShapeType](../../shapetype/), **float**, **float**, **float**, **float**, [System::SharedPtr](../../../system/sharedptr/)\<[IPPImage](../../ippimage/)\>) method
 
 
 Creates a new [PictureFrame](../../pictureframe/) and inserts it to the collection at the specified index.

@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, closes this stream and the underlying stream.
 type: docs
 weight: 326
 url: /cpp/system.xml/xmlwriter/close/
 ---
-## XmlWriter::Close method
+## XmlWriter::Close() method
 
 
 When overridden in a derived class, closes this stream and the underlying stream.

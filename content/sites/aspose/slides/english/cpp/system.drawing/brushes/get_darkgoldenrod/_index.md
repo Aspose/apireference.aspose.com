@@ -1,12 +1,12 @@
 ---
-title: get_DarkGoldenrod
+title: get_DarkGoldenrod()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFB8860B.
 type: docs
 weight: 300
 url: /cpp/system.drawing/brushes/get_darkgoldenrod/
 ---
-## Brushes::get_DarkGoldenrod method
+## Brushes::get_DarkGoldenrod() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFB8860B.

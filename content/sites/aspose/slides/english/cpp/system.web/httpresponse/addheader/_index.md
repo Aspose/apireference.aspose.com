@@ -1,12 +1,12 @@
 ---
-title: AddHeader
+title: AddHeader()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 14
 url: /cpp/system.web/httpresponse/addheader/
 ---
-## HttpResponse::AddHeader method
+## HttpResponse::AddHeader(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Not implemented.

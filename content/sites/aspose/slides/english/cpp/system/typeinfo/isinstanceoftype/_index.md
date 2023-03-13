@@ -1,12 +1,12 @@
 ---
-title: IsInstanceOfType
+title: IsInstanceOfType()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified object is an instance of the current type.
 type: docs
 weight: 131
 url: /cpp/system/typeinfo/isinstanceoftype/
 ---
-## TypeInfo::IsInstanceOfType method
+## TypeInfo::IsInstanceOfType(const [SharedPtr](../../sharedptr/)\<[Object](../../object/)\>\&) const method
 
 
 Determines whether the specified object is an instance of the current type.

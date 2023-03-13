@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/icontainer/add/
 ---
-## IContainer::Add method
+## IContainer::Add([System::SharedPtr](../../../system/sharedptr/)\<[IComponent](../../icomponent/)\>) method
 
 
 RTTI information.

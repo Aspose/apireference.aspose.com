@@ -1,12 +1,12 @@
 ---
-title: get_FillFormat
+title: get_FillFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Fill format. Read-only IFillFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/filloverlay/get_fillformat/
 ---
-## FillOverlay::get_FillFormat method
+## FillOverlay::get_FillFormat() method
 
 
 Fill format. Read-only [IFillFormat](../../../aspose.slides/ifillformat/).

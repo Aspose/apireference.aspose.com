@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts item at specified position.
 type: docs
 weight: 105
 url: /cpp/system.collections.generic/ikvcollection/insert/
 ---
-## IKVCollection::Insert method
+## IKVCollection::Insert(int, const T\&) method
 
 
 Inserts item at specified position.

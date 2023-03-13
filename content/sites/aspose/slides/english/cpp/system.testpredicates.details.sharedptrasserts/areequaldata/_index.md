@@ -1,5 +1,5 @@
 ---
-title: AreEqualData
+title: AreEqualData()
 second_title: Aspose.Slides for C++ API Reference
 description: "Equal-compares two containers using System::Object::Equals on elements. Works for SmartPtr elements."
 type: docs

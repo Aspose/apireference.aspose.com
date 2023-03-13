@@ -1,5 +1,5 @@
 ---
-title: PrintToString
+title: PrintToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Prints object to string by selecting proper serializer function.
 type: docs

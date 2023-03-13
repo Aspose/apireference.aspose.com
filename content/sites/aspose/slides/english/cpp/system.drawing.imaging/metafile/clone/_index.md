@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a copy of the current object.
 type: docs
 weight: 118
 url: /cpp/system.drawing.imaging/metafile/clone/
 ---
-## Metafile::Clone method
+## Metafile::Clone() method
 
 
 Returns a copy of the current object.

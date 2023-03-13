@@ -1,12 +1,12 @@
 ---
-title: IEnumerableToStr
+title: IEnumerableToStr()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts collection to string by joining string representations of elements.
 type: docs
 weight: 40
 url: /cpp/system/collectionasserthelper/ienumerabletostr/
 ---
-## CollectionAssertHelper::IEnumerableToStr method
+## CollectionAssertHelper::IEnumerableToStr(const [System::SharedPtr](../../sharedptr/)\<[System::Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<T\>\>\&) method
 
 
 Converts collection to string by joining string representations of elements.

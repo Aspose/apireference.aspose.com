@@ -1,12 +1,12 @@
 ---
-title: get_Normalization
+title: get_Normalization()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether to normalize white space and attribute values.
 type: docs
 weight: 326
 url: /cpp/system.xml/xmltextreader/get_normalization/
 ---
-## XmlTextReader::get_Normalization method
+## XmlTextReader::get_Normalization() method
 
 
 Returns a value indicating whether to normalize white space and attribute values.

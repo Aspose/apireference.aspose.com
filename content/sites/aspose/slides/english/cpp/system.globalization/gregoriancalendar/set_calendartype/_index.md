@@ -1,12 +1,12 @@
 ---
-title: set_CalendarType
+title: set_CalendarType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets Gregorian calendar type.
 type: docs
 weight: 27
 url: /cpp/system.globalization/gregoriancalendar/set_calendartype/
 ---
-## GregorianCalendar::set_CalendarType method
+## GregorianCalendar::set_CalendarType([GregorianCalendarTypes](../../gregoriancalendartypes/)) method
 
 
 Sets Gregorian calendar type.

@@ -1,12 +1,12 @@
 ---
-title: set_DashStyle
+title: set_DashStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the line dash style. Write LineDashStyle.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/ilineformat/set_dashstyle/
 ---
-## ILineFormat::set_DashStyle method
+## ILineFormat::set_DashStyle([LineDashStyle](../../linedashstyle/)) method
 
 
 Sets the line dash style. Write [LineDashStyle](../../linedashstyle/).

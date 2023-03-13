@@ -1,5 +1,5 @@
 ---
-title: MathematicalText
+title: MathematicalText()
 second_title: Aspose.Slides for C++ API Reference
 description: "Default constructor (create String::Empty Value)"
 type: docs
@@ -31,7 +31,7 @@ auto mathText = System::MakeObject<MathematicalText>();
 ## MathematicalText::MathematicalText(char16_t) constructor
 
 
-Create [MathText](../../) with single symbol.
+Create [MathText](../../) with single symbol
 
 ```cpp
 Aspose::Slides::MathText::MathematicalText::MathematicalText(char16_t mathSymbol)
@@ -60,7 +60,7 @@ auto mathText = System::MakeObject<MathematicalText>(u'$');
 ## MathematicalText::MathematicalText([System::String](../../../system/string/)) constructor
 
 
-Create [MathematicalText](../) from text.
+Create [MathematicalText](../) from text
 
 ```cpp
 Aspose::Slides::MathText::MathematicalText::MathematicalText(System::String mathText)
@@ -90,7 +90,7 @@ auto mathText = System::MakeObject<MathematicalText>(u"x+y");
 ## MathematicalText::MathematicalText([System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[IPortionFormat](../../../aspose.slides/iportionformat/)\>) constructor
 
 
-Create [MathematicalText](../) from text and format settings.
+Create [MathematicalText](../) from text and format settings
 
 ```cpp
 Aspose::Slides::MathText::MathematicalText::MathematicalText(System::String mathText, System::SharedPtr<IPortionFormat> portionFormat)

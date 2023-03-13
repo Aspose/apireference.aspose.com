@@ -1,12 +1,12 @@
 ---
-title: set_Credentials
+title: set_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets credentials used to authenticate web requests.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlurlresolver/set_credentials/
 ---
-## XmlUrlResolver::set_Credentials method
+## XmlUrlResolver::set_Credentials([SharedPtr](../../../system/sharedptr/)\<[Net::ICredentials](../../../system.net/icredentials/)\>) method
 
 
 Sets credentials used to authenticate web requests.

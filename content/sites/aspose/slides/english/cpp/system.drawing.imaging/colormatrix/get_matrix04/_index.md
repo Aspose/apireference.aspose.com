@@ -1,12 +1,12 @@
 ---
-title: get_Matrix04
+title: get_Matrix04()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value in 0-th row and 4-th column.
 type: docs
 weight: 144
 url: /cpp/system.drawing.imaging/colormatrix/get_matrix04/
 ---
-## ColorMatrix::get_Matrix04 method
+## ColorMatrix::get_Matrix04() const method
 
 
 Returns a value in 0-th row and 4-th column.

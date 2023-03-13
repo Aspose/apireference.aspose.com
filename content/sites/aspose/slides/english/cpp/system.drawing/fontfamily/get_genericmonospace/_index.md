@@ -1,12 +1,12 @@
 ---
-title: get_GenericMonospace
+title: get_GenericMonospace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a FontFamily object that represents a Generic Monospace font family.
 type: docs
 weight: 183
 url: /cpp/system.drawing/fontfamily/get_genericmonospace/
 ---
-## FontFamily::get_GenericMonospace method
+## FontFamily::get_GenericMonospace() method
 
 
 Returns a [FontFamily](../) object that represents a Generic Monospace font family.

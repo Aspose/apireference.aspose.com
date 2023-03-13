@@ -1,12 +1,12 @@
 ---
-title: SearchForChildByTag
+title: SearchForChildByTag()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets child tag by name.
 type: docs
 weight: 183
 url: /cpp/system.security/securityelement/searchforchildbytag/
 ---
-## SecurityElement::SearchForChildByTag method
+## SecurityElement::SearchForChildByTag(const [String](../../../system/string/)\&) method
 
 
 Gets child tag by name.

@@ -1,12 +1,12 @@
 ---
-title: get_Connection
+title: get_Connection()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets database connecton associated with command.
 type: docs
 weight: 27
 url: /cpp/system.data.common/dbcommand/get_connection/
 ---
-## DbCommand::get_Connection method
+## DbCommand::get_Connection() const method
 
 
 Gets database connecton associated with command.

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a control at the specified position.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/icontrolcollection/idx_get/
 ---
-## IControlCollection::idx_get method
+## IControlCollection::idx_get(**int32_t**) method
 
 
 Returns a control at the specified position.

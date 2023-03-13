@@ -1,12 +1,12 @@
 ---
-title: set_WrapMode
+title: set_WrapMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the wrap mode.
 type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_wrapmode/
 ---
-## PathGradientBrush::set_WrapMode method
+## PathGradientBrush::set_WrapMode([WrapMode](../../wrapmode/)) method
 
 
 Sets the wrap mode.

@@ -1,12 +1,12 @@
 ---
-title: set_JpegQuality
+title: set_JpegQuality()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the quality of JPEG images.  Default is 95.
 type: docs
 weight: 378
 url: /cpp/aspose.slides.export/iswfoptions/set_jpegquality/
 ---
-## ISwfOptions::set_JpegQuality method
+## ISwfOptions::set_JpegQuality(**int32_t**) method
 
 
 Specifies the quality of JPEG images. 

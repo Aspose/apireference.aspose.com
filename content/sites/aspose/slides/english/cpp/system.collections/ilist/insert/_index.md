@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts the item to the list at the specified index.
 type: docs
 weight: 79
 url: /cpp/system.collections/ilist/insert/
 ---
-## IList::Insert method
+## IList::Insert(int, [SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Inserts the item to the list at the specified index.

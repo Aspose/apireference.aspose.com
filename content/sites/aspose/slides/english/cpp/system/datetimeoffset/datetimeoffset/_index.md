@@ -1,5 +1,5 @@
 ---
-title: DateTimeOffset
+title: DateTimeOffset()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor.
 type: docs

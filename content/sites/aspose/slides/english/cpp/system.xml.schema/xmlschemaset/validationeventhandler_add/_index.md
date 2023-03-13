@@ -1,12 +1,12 @@
 ---
-title: ValidationEventHandler_add
+title: ValidationEventHandler_add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds an event handler for receiving information about XML Schema definition language (XSD) schema validation errors.
 type: docs
 weight: 131
 url: /cpp/system.xml.schema/xmlschemaset/validationeventhandler_add/
 ---
-## XmlSchemaSet::ValidationEventHandler_add method
+## XmlSchemaSet::ValidationEventHandler_add(Args...) method
 
 
 Adds an event handler for receiving information about XML [Schema](../../) definition language (XSD) schema validation errors.

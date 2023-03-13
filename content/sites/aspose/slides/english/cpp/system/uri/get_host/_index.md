@@ -1,12 +1,12 @@
 ---
-title: get_Host
+title: get_Host()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the host name.
 type: docs
 weight: 144
 url: /cpp/system/uri/get_host/
 ---
-## Uri::get_Host method
+## Uri::get_Host() const method
 
 
 Returns the host name.

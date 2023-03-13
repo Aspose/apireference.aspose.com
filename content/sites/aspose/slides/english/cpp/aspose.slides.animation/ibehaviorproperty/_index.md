@@ -1,7 +1,7 @@
 ---
 title: IBehaviorProperty
 second_title: Aspose.Slides for C++ API Reference
-description: Represent property types for animation behavior. Follows the list of properties from  and .
+description: Represent property types for animation behavior. Follows the list of properties from  and
 type: docs
 weight: 183
 url: /cpp/aspose.slides.animation/ibehaviorproperty/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.animation/ibehaviorproperty/
 ## IBehaviorProperty class
 
 
-Represent property types for animation behavior. Follows the list of properties from [https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx) and [https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx).
+Represent property types for animation behavior. Follows the list of properties from [https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx) and [https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx)
 
 ```cpp
 class IBehaviorProperty : public System::Object
@@ -25,8 +25,8 @@ class IBehaviorProperty : public System::Object
 | static **bool** [Equals](../../system/object/equals/)(**float** const\&, **float** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
-| virtual **bool** [get_IsCustom](./get_iscustom/)() | Shows if this property does not belong to the predefined properties list in the specification: [https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx). |
-| virtual [System::String](../../system/string/) [get_Value](./get_value/)() | Value of the property. |
+| virtual **bool** [get_IsCustom](./get_iscustom/)() | Shows if this property does not belong to the predefined properties list in the specification: [https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx) |
+| virtual [System::String](../../system/string/) [get_Value](./get_value/)() | Value of the property |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |

@@ -1,12 +1,12 @@
 ---
-title: set_Explosion
+title: set_Explosion()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the amount the data point shall be moved from the center of the pie. Write int32_t.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.charts/ichartdatapoint/set_explosion/
 ---
-## IChartDataPoint::set_Explosion method
+## IChartDataPoint::set_Explosion(**int32_t**) method
 
 
 Specifies the amount the data point shall be moved from the center of the pie. Write **int32_t**.

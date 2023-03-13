@@ -1,12 +1,12 @@
 ---
-title: RemovePlaceholder
+title: RemovePlaceholder()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines that this shape isn't a placeholder.
 type: docs
 weight: 586
 url: /cpp/aspose.slides/shape/removeplaceholder/
 ---
-## Shape::RemovePlaceholder method
+## Shape::RemovePlaceholder() method
 
 
 Defines that this shape isn't a placeholder.

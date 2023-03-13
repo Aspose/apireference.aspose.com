@@ -1,15 +1,15 @@
 ---
-title: get_StyleFontStyle
+title: get_StyleFontStyle()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'style.fontStyle' property.
+description: Represents 'style.fontStyle' property
 type: docs
 weight: 300
 url: /cpp/aspose.slides.animation/behaviorproperty/get_stylefontstyle/
 ---
-## BehaviorProperty::get_StyleFontStyle method
+## BehaviorProperty::get_StyleFontStyle() method
 
 
-Represents 'style.fontStyle' property.
+Represents 'style.fontStyle' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StyleFontStyle()

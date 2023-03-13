@@ -1,12 +1,12 @@
 ---
-title: get_PageSettings
+title: get_PageSettings()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 14
 url: /cpp/system.drawing.printing/printpageeventargs/get_pagesettings/
 ---
-## PrintPageEventArgs::get_PageSettings method
+## PrintPageEventArgs::get_PageSettings() method
 
 
 NOT IMPLEMENTED.

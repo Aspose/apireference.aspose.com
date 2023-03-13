@@ -1,12 +1,12 @@
 ---
-title: get_GradientShape
+title: get_GradientShape()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the shape of a gradient. Read Slides::GradientShape."
 type: docs
 weight: 105
 url: /cpp/aspose.slides/igradientformat/get_gradientshape/
 ---
-## IGradientFormat::get_GradientShape method
+## IGradientFormat::get_GradientShape() method
 
 
 Returns the shape of a gradient. Read [Slides::GradientShape](../../gradientshape/).

@@ -1,12 +1,12 @@
 ---
-title: set_CreationTime
+title: set_CreationTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the creation time of the entity represented by the current object as local time.
 type: docs
 weight: 40
 url: /cpp/system.io/filesysteminfo/set_creationtime/
 ---
-## FileSystemInfo::set_CreationTime method
+## FileSystemInfo::set_CreationTime([DateTime](../../../system/datetime/)) method
 
 
 Sets the creation time of the entity represented by the current object as local time.

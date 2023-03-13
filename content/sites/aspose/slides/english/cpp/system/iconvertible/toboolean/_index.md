@@ -1,12 +1,12 @@
 ---
-title: ToBoolean
+title: ToBoolean()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value of this instance to an equivalent Boolean value using the specified culture-specific formatting information.
 type: docs
 weight: 14
 url: /cpp/system/iconvertible/toboolean/
 ---
-## IConvertible::ToBoolean method
+## IConvertible::ToBoolean([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to an equivalent [Boolean](../../boolean/) value using the specified culture-specific formatting information.

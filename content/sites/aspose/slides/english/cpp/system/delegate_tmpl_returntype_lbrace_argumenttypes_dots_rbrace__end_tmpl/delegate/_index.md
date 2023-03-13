@@ -1,5 +1,5 @@
 ---
-title: Delegate
+title: Delegate()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor. Constructs the delegate object that does not point to anything.
 type: docs

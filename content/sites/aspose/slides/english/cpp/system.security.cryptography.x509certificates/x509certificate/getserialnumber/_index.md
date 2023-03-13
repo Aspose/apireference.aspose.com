@@ -1,12 +1,12 @@
 ---
-title: GetSerialNumber
+title: GetSerialNumber()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets serial number from certificate as array of bytes.
 type: docs
 weight: 261
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getserialnumber/
 ---
-## X509Certificate::GetSerialNumber method
+## X509Certificate::GetSerialNumber() const method
 
 
 Gets serial number from certificate as array of bytes.

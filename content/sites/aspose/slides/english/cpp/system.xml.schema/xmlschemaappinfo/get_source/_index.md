@@ -1,12 +1,12 @@
 ---
-title: get_Source
+title: get_Source()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the source of the application information.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaappinfo/get_source/
 ---
-## XmlSchemaAppInfo::get_Source method
+## XmlSchemaAppInfo::get_Source() method
 
 
 Returns the source of the application information.

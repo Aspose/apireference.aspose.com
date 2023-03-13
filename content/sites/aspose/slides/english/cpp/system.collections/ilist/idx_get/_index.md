@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the item at the specified index.
 type: docs
 weight: 1
 url: /cpp/system.collections/ilist/idx_get/
 ---
-## IList::idx_get method
+## IList::idx_get(int, int) const method
 
 
 Gets the item at the specified index.

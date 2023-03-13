@@ -1,12 +1,12 @@
 ---
-title: set_EndReflectionOpacity
+title: set_EndReflectionOpacity()
 second_title: Aspose.Slides for C++ API Reference
 description: End reflection opacity. (percents). Write float.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.effects/reflection/set_endreflectionopacity/
 ---
-## Reflection::set_EndReflectionOpacity method
+## Reflection::set_EndReflectionOpacity(**float**) method
 
 
 End reflection opacity. (percents). Write **float**.

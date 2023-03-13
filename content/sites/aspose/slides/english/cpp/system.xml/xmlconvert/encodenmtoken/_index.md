@@ -1,12 +1,12 @@
 ---
-title: EncodeNmToken
+title: EncodeNmToken()
 second_title: Aspose.Slides for C++ API Reference
 description: Verifies the name is valid according to the XML specification.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlconvert/encodenmtoken/
 ---
-## XmlConvert::EncodeNmToken method
+## XmlConvert::EncodeNmToken(const [String](../../../system/string/)\&) method
 
 
 Verifies the name is valid according to the XML specification.

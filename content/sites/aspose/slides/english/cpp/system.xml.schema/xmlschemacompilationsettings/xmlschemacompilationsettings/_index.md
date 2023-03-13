@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaCompilationSettings
+title: XmlSchemaCompilationSettings()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaCompilationSettings class.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemacompilationsettings/xmlschemacompilationsettings/
 ---
-## XmlSchemaCompilationSettings::XmlSchemaCompilationSettings constructor
+## XmlSchemaCompilationSettings::XmlSchemaCompilationSettings() constructor
 
 
 Initializes a new instance of the [XmlSchemaCompilationSettings](../) class.

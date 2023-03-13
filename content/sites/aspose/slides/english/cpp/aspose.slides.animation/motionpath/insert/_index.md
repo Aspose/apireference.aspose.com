@@ -1,15 +1,15 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
-description: Insert new command to path.
+description: Insert new command to path
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/motionpath/insert/
 ---
-## MotionPath::Insert method
+## MotionPath::Insert(**int32_t**, [MotionCommandPathType](../../motioncommandpathtype/), [System::ArrayPtr](../../../system/arrayptr/)\<[System::Drawing::PointF](../../../system.drawing/pointf/)\>, [MotionPathPointsType](../../motionpathpointstype/), **bool**) method
 
 
-Insert new command to path.
+Insert new command to path
 
 ```cpp
 void Aspose::Slides::Animation::MotionPath::Insert(int32_t index, MotionCommandPathType type, System::ArrayPtr<System::Drawing::PointF> pts, MotionPathPointsType ptsType, bool bRelativeCoord) override

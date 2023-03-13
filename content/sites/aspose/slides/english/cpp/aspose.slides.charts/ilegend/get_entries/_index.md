@@ -1,12 +1,12 @@
 ---
-title: get_Entries
+title: get_Entries()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets legend entries. Read-only ILegendEntryCollection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/ilegend/get_entries/
 ---
-## ILegend::get_Entries method
+## ILegend::get_Entries() method
 
 
 Gets legend entries. Read-only [ILegendEntryCollection](../../ilegendentrycollection/).

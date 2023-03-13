@@ -1,5 +1,5 @@
 ---
-title: AppendLine
+title: AppendLine()
 second_title: Aspose.Slides for C++ API Reference
 description: Appends new line character to builder.
 type: docs

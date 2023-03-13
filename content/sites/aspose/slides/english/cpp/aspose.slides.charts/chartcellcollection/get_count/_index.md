@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the count of cells in collection. Read-only int32_t.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/chartcellcollection/get_count/
 ---
-## ChartCellCollection::get_Count method
+## ChartCellCollection::get_Count() method
 
 
 Gets the count of cells in collection. Read-only **int32_t**.

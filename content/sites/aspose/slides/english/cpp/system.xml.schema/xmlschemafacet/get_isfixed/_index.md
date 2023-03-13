@@ -1,12 +1,12 @@
 ---
-title: get_IsFixed
+title: get_IsFixed()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns information that indicates that this facet is fixed.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemafacet/get_isfixed/
 ---
-## XmlSchemaFacet::get_IsFixed method
+## XmlSchemaFacet::get_IsFixed() method
 
 
 Returns information that indicates that this facet is fixed.

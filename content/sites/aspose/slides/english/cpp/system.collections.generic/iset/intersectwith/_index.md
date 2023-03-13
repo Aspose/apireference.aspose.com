@@ -1,12 +1,12 @@
 ---
-title: IntersectWith
+title: IntersectWith()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes elements not present in different container.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/iset/intersectwith/
 ---
-## ISet::IntersectWith method
+## ISet::IntersectWith([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Removes elements not present in different container.

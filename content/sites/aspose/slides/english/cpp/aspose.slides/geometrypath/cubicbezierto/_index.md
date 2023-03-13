@@ -1,7 +1,7 @@
 ---
-title: CubicBezierTo
+title: CubicBezierTo()
 second_title: Aspose.Slides for C++ API Reference
-description: Adds cubic Bezier curve at the end the path.
+description: Adds cubic Bezier curve at the end the path
 type: docs
 weight: 105
 url: /cpp/aspose.slides/geometrypath/cubicbezierto/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/geometrypath/cubicbezierto/
 ## GeometryPath::CubicBezierTo([System::Drawing::PointF](../../../system.drawing/pointf/), [System::Drawing::PointF](../../../system.drawing/pointf/), [System::Drawing::PointF](../../../system.drawing/pointf/)) method
 
 
-Adds cubic Bezier curve at the end the path.
+Adds cubic Bezier curve at the end the path
 
 ```cpp
 void Aspose::Slides::GeometryPath::CubicBezierTo(System::Drawing::PointF point1, System::Drawing::PointF point2, System::Drawing::PointF point3) override
@@ -33,7 +33,7 @@ void Aspose::Slides::GeometryPath::CubicBezierTo(System::Drawing::PointF point1,
 ## GeometryPath::CubicBezierTo(**float**, **float**, **float**, **float**, **float**, **float**) method
 
 
-Adds cubic Bezier curve at the end the path.
+Adds cubic Bezier curve at the end the path
 
 ```cpp
 void Aspose::Slides::GeometryPath::CubicBezierTo(float x1, float y1, float x2, float y2, float x3, float y3) override
@@ -59,7 +59,7 @@ void Aspose::Slides::GeometryPath::CubicBezierTo(float x1, float y1, float x2, f
 ## GeometryPath::CubicBezierTo([System::Drawing::PointF](../../../system.drawing/pointf/), [System::Drawing::PointF](../../../system.drawing/pointf/), [System::Drawing::PointF](../../../system.drawing/pointf/), **uint32_t**) method
 
 
-Adds cubic Bezier curve to the specified place of the path.
+Adds cubic Bezier curve to the specified place of the path
 
 ```cpp
 void Aspose::Slides::GeometryPath::CubicBezierTo(System::Drawing::PointF point1, System::Drawing::PointF point2, System::Drawing::PointF point3, uint32_t index) override
@@ -84,7 +84,7 @@ void Aspose::Slides::GeometryPath::CubicBezierTo(System::Drawing::PointF point1,
 ## GeometryPath::CubicBezierTo(**float**, **float**, **float**, **float**, **float**, **float**, **uint32_t**) method
 
 
-Adds cubic Bezier curve to the specified place of the path.
+Adds cubic Bezier curve to the specified place of the path
 
 ```cpp
 void Aspose::Slides::GeometryPath::CubicBezierTo(float x1, float y1, float x2, float y2, float x3, float y3, uint32_t index) override

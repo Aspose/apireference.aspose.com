@@ -1,12 +1,12 @@
 ---
-title: set_ContentLength
+title: set_ContentLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the number of bytes of the request data to sent.
 type: docs
 weight: 40
 url: /cpp/system.net/httpwebrequest/set_contentlength/
 ---
-## HttpWebRequest::set_ContentLength method
+## HttpWebRequest::set_ContentLength(**int64_t**) method
 
 
 Sets the number of bytes of the request data to sent.

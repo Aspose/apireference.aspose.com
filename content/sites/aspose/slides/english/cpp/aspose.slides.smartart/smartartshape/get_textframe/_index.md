@@ -1,12 +1,12 @@
 ---
-title: get_TextFrame
+title: get_TextFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns text of the SmartArt shape. Read-only ITextFrame.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.smartart/smartartshape/get_textframe/
 ---
-## SmartArtShape::get_TextFrame method
+## SmartArtShape::get_TextFrame() method
 
 
 Returns text of the [SmartArt](../../smartart/) shape. Read-only [ITextFrame](../../../aspose.slides/itextframe/).

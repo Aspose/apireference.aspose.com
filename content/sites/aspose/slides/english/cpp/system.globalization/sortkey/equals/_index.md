@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the specified object is equal to the current SortKey object.
 type: docs
 weight: 53
 url: /cpp/system.globalization/sortkey/equals/
 ---
-## SortKey::Equals method
+## SortKey::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Checks if the specified object is equal to the current [SortKey](../) object.

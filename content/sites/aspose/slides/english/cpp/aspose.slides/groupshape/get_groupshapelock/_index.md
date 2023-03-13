@@ -1,12 +1,12 @@
 ---
-title: get_GroupShapeLock
+title: get_GroupShapeLock()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns shape's locks. Read-only IGroupShapeLock.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/groupshape/get_groupshapelock/
 ---
-## GroupShape::get_GroupShapeLock method
+## GroupShape::get_GroupShapeLock() method
 
 
 Returns shape's locks. Read-only [IGroupShapeLock](../../igroupshapelock/).

@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a name of the entity represented by the current object.
 type: docs
 weight: 222
 url: /cpp/system.io/filesysteminfo/get_name/
 ---
-## FileSystemInfo::get_Name method
+## FileSystemInfo::get_Name() method
 
 
 Returns a name of the entity represented by the current object.

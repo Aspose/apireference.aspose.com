@@ -1,12 +1,12 @@
 ---
-title: KeyInfoX509Data
+title: KeyInfoX509Data()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography.xml/keyinfox509data/keyinfox509data/
 ---
-## KeyInfoX509Data::KeyInfoX509Data constructor
+## KeyInfoX509Data::KeyInfoX509Data() constructor
 
 
 

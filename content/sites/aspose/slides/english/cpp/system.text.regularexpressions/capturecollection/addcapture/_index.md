@@ -1,12 +1,12 @@
 ---
-title: AddCapture
+title: AddCapture()
 second_title: Aspose.Slides for C++ API Reference
 description: Service method to add capture into collection.
 type: docs
 weight: 79
 url: /cpp/system.text.regularexpressions/capturecollection/addcapture/
 ---
-## CaptureCollection::AddCapture method
+## CaptureCollection::AddCapture(const [CapturePtr](../../captureptr/)\&) method
 
 
 Service method to add capture into collection.

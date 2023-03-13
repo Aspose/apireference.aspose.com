@@ -1,12 +1,12 @@
 ---
-title: ~IAsyncResult
+title: ~IAsyncResult()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 53
 url: /cpp/system/iasyncresult/~iasyncresult/
 ---
-## IAsyncResult::~IAsyncResult method
+## IAsyncResult::~IAsyncResult() method
 
 
 Destructor.

@@ -1,12 +1,12 @@
 ---
-title: get_OriginalFontName
+title: get_OriginalFontName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the originally specified name of the font.
 type: docs
 weight: 40
 url: /cpp/system.drawing/font/get_originalfontname/
 ---
-## Font::get_OriginalFontName method
+## Font::get_OriginalFontName() method
 
 
 Returns the originally specified name of the font.

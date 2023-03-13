@@ -1,12 +1,12 @@
 ---
-title: PropertyChangedEventArgs
+title: PropertyChangedEventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes PropertyChanged event arguments.
 type: docs
 weight: 14
 url: /cpp/system.componentmodel/propertychangedeventargs/propertychangedeventargs/
 ---
-## PropertyChangedEventArgs::PropertyChangedEventArgs constructor
+## PropertyChangedEventArgs::PropertyChangedEventArgs(const [String](../../../system/string/)\&) constructor
 
 
 Initializes PropertyChanged event arguments.

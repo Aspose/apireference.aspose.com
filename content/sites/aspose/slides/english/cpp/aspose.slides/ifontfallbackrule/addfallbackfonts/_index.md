@@ -1,5 +1,5 @@
 ---
-title: AddFallBackFonts
+title: AddFallBackFonts()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new font(s) to the list of FallBack fonts.
 type: docs

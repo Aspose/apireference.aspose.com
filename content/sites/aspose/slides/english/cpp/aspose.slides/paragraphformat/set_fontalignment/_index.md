@@ -1,12 +1,12 @@
 ---
-title: set_FontAlignment
+title: set_FontAlignment()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets a font alignment in a paragraph with no inheritance. Write Slides::FontAlignment."
 type: docs
 weight: 339
 url: /cpp/aspose.slides/paragraphformat/set_fontalignment/
 ---
-## ParagraphFormat::set_FontAlignment method
+## ParagraphFormat::set_FontAlignment([Aspose::Slides::FontAlignment](../../fontalignment/)) method
 
 
 Sets a font alignment in a paragraph with no inheritance. Write [Slides::FontAlignment](../../fontalignment/).

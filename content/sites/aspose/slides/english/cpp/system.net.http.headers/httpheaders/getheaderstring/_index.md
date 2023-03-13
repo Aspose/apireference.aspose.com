@@ -1,5 +1,5 @@
 ---
-title: GetHeaderString
+title: GetHeaderString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a string representation of values by the specified header name.
 type: docs

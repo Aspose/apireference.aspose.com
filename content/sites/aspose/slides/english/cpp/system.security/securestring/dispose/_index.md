@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Release all resources used by the current object.
 type: docs
 weight: 157
 url: /cpp/system.security/securestring/dispose/
 ---
-## SecureString::Dispose method
+## SecureString::Dispose() method
 
 
 Release all resources used by the current object.

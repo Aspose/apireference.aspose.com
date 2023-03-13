@@ -1,12 +1,12 @@
 ---
-title: get_Credentials
+title: get_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the authentication information.
 type: docs
 weight: 53
 url: /cpp/system.web.services.protocols/webclientprotocol/get_credentials/
 ---
-## WebClientProtocol::get_Credentials method
+## WebClientProtocol::get_Credentials() method
 
 
 Gets the authentication information.

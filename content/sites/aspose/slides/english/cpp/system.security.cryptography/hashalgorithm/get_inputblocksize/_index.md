@@ -1,12 +1,12 @@
 ---
-title: get_InputBlockSize
+title: get_InputBlockSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Input block size.
 type: docs
 weight: 92
 url: /cpp/system.security.cryptography/hashalgorithm/get_inputblocksize/
 ---
-## HashAlgorithm::get_InputBlockSize method
+## HashAlgorithm::get_InputBlockSize() method
 
 
 Input block size.

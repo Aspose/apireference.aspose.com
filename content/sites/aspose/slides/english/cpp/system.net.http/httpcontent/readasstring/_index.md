@@ -1,12 +1,12 @@
 ---
-title: ReadAsString
+title: ReadAsString()
 second_title: Aspose.Slides for C++ API Reference
 description: Serializes content and returns a string.
 type: docs
 weight: 27
 url: /cpp/system.net.http/httpcontent/readasstring/
 ---
-## HttpContent::ReadAsString method
+## HttpContent::ReadAsString() method
 
 
 Serializes content and returns a string.

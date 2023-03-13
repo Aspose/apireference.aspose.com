@@ -22,8 +22,8 @@ class DocumentProperties : public Aspose::Slides::IDocumentProperties,
 | --- | --- |
 | void [ClearBuiltInProperties](./clearbuiltinproperties/)() override | Clears and sets default values for all builtIn properties. |
 | void [ClearCustomProperties](./clearcustomproperties/)() override | Removes all custom properties. |
-| [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\> [Clone](./clone/)() override | Clones current object. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IDocumentProperties](../idocumentproperties/)\> [CloneT](./clonet/)() override | Clones current object. |
+| [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\> [Clone](./clone/)() override | Clones current object |
+| [System::SharedPtr](../../system/sharedptr/)\<[IDocumentProperties](../idocumentproperties/)\> [CloneT](./clonet/)() override | Clones current object |
 | **bool** [ContainsCustomProperty](./containscustomproperty/)([System::String](../../system/string/)) override | Check presents of a custom property with a specified name. |
 |  [DocumentProperties](./documentproperties/)() | Initializes new instance of class [DocumentProperties](./). |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |

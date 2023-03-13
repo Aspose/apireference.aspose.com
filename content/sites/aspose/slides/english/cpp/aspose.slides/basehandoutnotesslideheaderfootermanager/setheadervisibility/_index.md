@@ -1,12 +1,12 @@
 ---
-title: SetHeaderVisibility
+title: SetHeaderVisibility()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes slide header placeholder visibility.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/basehandoutnotesslideheaderfootermanager/setheadervisibility/
 ---
-## BaseHandoutNotesSlideHeaderFooterManager::SetHeaderVisibility method
+## BaseHandoutNotesSlideHeaderFooterManager::SetHeaderVisibility(**bool**) method
 
 
 Changes slide header placeholder visibility.

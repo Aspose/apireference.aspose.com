@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of a specific FallBack font from the list.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/ifontfallbackrule/remove/
 ---
-## IFontFallBackRule::Remove method
+## IFontFallBackRule::Remove([System::String](../../../system/string/)) method
 
 
 Removes the first occurrence of a specific FallBack font from the list.

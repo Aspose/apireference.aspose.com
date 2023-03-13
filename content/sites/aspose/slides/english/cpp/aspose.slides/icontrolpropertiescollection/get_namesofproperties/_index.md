@@ -1,12 +1,12 @@
 ---
-title: get_NamesOfProperties
+title: get_NamesOfProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a number of properties in the collection. Read-only ICollection<string>.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icontrolpropertiescollection/get_namesofproperties/
 ---
-## IControlPropertiesCollection::get_NamesOfProperties method
+## IControlPropertiesCollection::get_NamesOfProperties() method
 
 
 Returns a number of properties in the collection. Read-only ICollection<string>.

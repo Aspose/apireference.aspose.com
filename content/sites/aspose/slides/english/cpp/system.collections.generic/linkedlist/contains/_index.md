@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if element is present in list.
 type: docs
 weight: 131
 url: /cpp/system.collections.generic/linkedlist/contains/
 ---
-## LinkedList::Contains method
+## LinkedList::Contains(const T\&) const method
 
 
 Checks if **element** is present in list.

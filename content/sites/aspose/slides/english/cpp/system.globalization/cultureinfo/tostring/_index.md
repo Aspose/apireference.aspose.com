@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts culture to string.
 type: docs
 weight: 365
 url: /cpp/system.globalization/cultureinfo/tostring/
 ---
-## CultureInfo::ToString method
+## CultureInfo::ToString() const method
 
 
 Converts culture to string.

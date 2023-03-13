@@ -1,12 +1,12 @@
 ---
-title: WriteChars
+title: WriteChars()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes text one buffer at a time.
 type: docs
 weight: 404
 url: /cpp/system.xml/xmltextwriter/writechars/
 ---
-## XmlTextWriter::WriteChars method
+## XmlTextWriter::WriteChars([ArrayPtr](../../../system/arrayptr/)\<char16_t\>, **int32_t**, **int32_t**) method
 
 
 Writes text one buffer at a time.

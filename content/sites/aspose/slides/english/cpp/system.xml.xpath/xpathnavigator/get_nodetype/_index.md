@@ -1,12 +1,12 @@
 ---
-title: get_NodeType
+title: get_NodeType()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the XPathNodeType of the current node.
 type: docs
 weight: 131
 url: /cpp/system.xml.xpath/xpathnavigator/get_nodetype/
 ---
-## XPathNavigator::get_NodeType method
+## XPathNavigator::get_NodeType() method
 
 
 When overridden in a derived class, gets the XPathNodeType of the current node.

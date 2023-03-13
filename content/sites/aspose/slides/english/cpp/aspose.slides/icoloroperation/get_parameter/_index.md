@@ -1,12 +1,12 @@
 ---
-title: get_Parameter
+title: get_Parameter()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a parameter of an operation. Read-only float.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icoloroperation/get_parameter/
 ---
-## IColorOperation::get_Parameter method
+## IColorOperation::get_Parameter() method
 
 
 Returns a parameter of an operation. Read-only **float**.

@@ -1,12 +1,12 @@
 ---
-title: get_LinePosition
+title: get_LinePosition()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line position in the file to which the schema element refers.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaobject/get_lineposition/
 ---
-## XmlSchemaObject::get_LinePosition method
+## XmlSchemaObject::get_LinePosition() method
 
 
 Returns the line position in the file to which the **schema** element refers.

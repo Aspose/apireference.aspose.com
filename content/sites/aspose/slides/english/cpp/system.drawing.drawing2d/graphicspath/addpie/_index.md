@@ -1,5 +1,5 @@
 ---
-title: AddPie
+title: AddPie()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified outline of the pie shape to the path represented by the current object.
 type: docs

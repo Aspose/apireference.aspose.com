@@ -1,12 +1,12 @@
 ---
-title: get_AbsolutePath
+title: get_AbsolutePath()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the absolute path of the URI.
 type: docs
 weight: 1
 url: /cpp/system/uri/get_absolutepath/
 ---
-## Uri::get_AbsolutePath method
+## Uri::get_AbsolutePath() const method
 
 
 Returns the absolute path of the URI.

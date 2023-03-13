@@ -1,12 +1,12 @@
 ---
-title: set_CommandString
+title: set_CommandString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Defines command string. Write System::String."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/icommandeffect/set_commandstring/
 ---
-## ICommandEffect::set_CommandString method
+## ICommandEffect::set_CommandString([System::String](../../../system/string/)) method
 
 
 Defines command string. Write [System::String](../../../system/string/).

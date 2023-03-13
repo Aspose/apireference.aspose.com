@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all elements from the collection.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.mathtext/imathblockcollection/clear/
 ---
-## IMathBlockCollection::Clear method
+## IMathBlockCollection::Clear() method
 
 
 Removes all elements from the collection.

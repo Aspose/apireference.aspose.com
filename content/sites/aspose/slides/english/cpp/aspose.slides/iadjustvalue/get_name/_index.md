@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a name of this adjustment value. Read-only System::String."
 type: docs
 weight: 53
 url: /cpp/aspose.slides/iadjustvalue/get_name/
 ---
-## IAdjustValue::get_Name method
+## IAdjustValue::get_Name() method
 
 
 Returns a name of this adjustment value. Read-only [System::String](../../../system/string/).

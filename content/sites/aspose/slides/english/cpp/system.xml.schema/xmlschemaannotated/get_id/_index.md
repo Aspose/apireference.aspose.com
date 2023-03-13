@@ -1,12 +1,12 @@
 ---
-title: get_Id
+title: get_Id()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string id.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaannotated/get_id/
 ---
-## XmlSchemaAnnotated::get_Id method
+## XmlSchemaAnnotated::get_Id() method
 
 
 Returns the string id.

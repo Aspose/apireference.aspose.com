@@ -1,12 +1,12 @@
 ---
-title: get_PreviousSibling
+title: get_PreviousSibling()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the node immediately preceding this node.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlnode/get_previoussibling/
 ---
-## XmlNode::get_PreviousSibling method
+## XmlNode::get_PreviousSibling() method
 
 
 Returns the node immediately preceding this node.

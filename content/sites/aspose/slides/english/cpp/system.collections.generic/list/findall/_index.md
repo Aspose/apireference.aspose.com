@@ -1,12 +1,12 @@
 ---
-title: FindAll
+title: FindAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Looks for elements adhering to specific predicate.
 type: docs
 weight: 391
 url: /cpp/system.collections.generic/list/findall/
 ---
-## List::FindAll method
+## List::FindAll([System::Predicate](../../../system/predicate/)\<T\>) method
 
 
 Looks for elements adhering to specific predicate.

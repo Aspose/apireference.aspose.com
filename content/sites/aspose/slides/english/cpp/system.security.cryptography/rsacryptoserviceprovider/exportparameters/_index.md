@@ -1,12 +1,12 @@
 ---
-title: ExportParameters
+title: ExportParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports CSP parameters.
 type: docs
 weight: 144
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/exportparameters/
 ---
-## RSACryptoServiceProvider::ExportParameters method
+## RSACryptoServiceProvider::ExportParameters(**bool**) method
 
 
 Exports CSP parameters.

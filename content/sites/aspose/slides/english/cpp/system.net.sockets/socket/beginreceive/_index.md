@@ -1,12 +1,12 @@
 ---
-title: BeginReceive
+title: BeginReceive()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous write operation.
 type: docs
 weight: 521
 url: /cpp/system.net.sockets/socket/beginreceive/
 ---
-## Socket::BeginReceive method
+## Socket::BeginReceive([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**, [SocketFlags](../../socketflags/), [AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Initiates an asynchronous write operation.

@@ -1,12 +1,12 @@
 ---
-title: get_Direction
+title: get_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of shadow. Read-only float.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/iinnershadoweffectivedata/get_direction/
 ---
-## IInnerShadowEffectiveData::get_Direction method
+## IInnerShadowEffectiveData::get_Direction() method
 
 
 Direction of shadow. Read-only **float**.

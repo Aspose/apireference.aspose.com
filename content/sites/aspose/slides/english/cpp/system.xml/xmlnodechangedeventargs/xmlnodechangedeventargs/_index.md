@@ -1,12 +1,12 @@
 ---
-title: XmlNodeChangedEventArgs
+title: XmlNodeChangedEventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlNodeChangedEventArgs class.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlnodechangedeventargs/xmlnodechangedeventargs/
 ---
-## XmlNodeChangedEventArgs::XmlNodeChangedEventArgs constructor
+## XmlNodeChangedEventArgs::XmlNodeChangedEventArgs(const [SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, [XmlNodeChangedAction](../../xmlnodechangedaction/)) constructor
 
 
 Initializes a new instance of the [XmlNodeChangedEventArgs](../) class.

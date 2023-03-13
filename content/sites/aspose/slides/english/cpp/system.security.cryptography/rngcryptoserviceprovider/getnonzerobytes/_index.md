@@ -1,5 +1,5 @@
 ---
-title: GetNonZeroBytes
+title: GetNonZeroBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Fills existing array elements with random non-zero bytes.
 type: docs

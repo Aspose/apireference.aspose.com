@@ -1,12 +1,12 @@
 ---
-title: ConvertFrom
+title: ConvertFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts objects.
 type: docs
 weight: 1
 url: /cpp/system.drawing/fontconverter/convertfrom/
 ---
-## FontConverter::ConvertFrom method
+## FontConverter::ConvertFrom(const [System::SharedPtr](../../../system/sharedptr/)\<[ComponentModel::ITypeDescriptorContext](../../../system.componentmodel/itypedescriptorcontext/)\>\&, const [System::SharedPtr](../../../system/sharedptr/)\<[System::Globalization::CultureInfo](../../../system.globalization/cultureinfo/)\>\&, const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&) method
 
 
 Converts objects.

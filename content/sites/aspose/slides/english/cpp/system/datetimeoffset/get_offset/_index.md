@@ -1,12 +1,12 @@
 ---
-title: get_Offset
+title: get_Offset()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets offset from UTC.
 type: docs
 weight: 183
 url: /cpp/system/datetimeoffset/get_offset/
 ---
-## DateTimeOffset::get_Offset method
+## DateTimeOffset::get_Offset() const method
 
 
 Gets offset from UTC.

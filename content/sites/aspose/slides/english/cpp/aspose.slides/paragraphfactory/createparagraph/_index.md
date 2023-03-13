@@ -1,5 +1,5 @@
 ---
-title: CreateParagraph
+title: CreateParagraph()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new empty paragraph.
 type: docs

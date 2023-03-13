@@ -1,12 +1,12 @@
 ---
-title: GetColorScheme
+title: GetColorScheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the color scheme.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.theme/ithemeeffectivedata/getcolorscheme/
 ---
-## IThemeEffectiveData::GetColorScheme method
+## IThemeEffectiveData::GetColorScheme([System::Drawing::Color](../../../system.drawing/color/)) method
 
 
 Returns the color scheme.

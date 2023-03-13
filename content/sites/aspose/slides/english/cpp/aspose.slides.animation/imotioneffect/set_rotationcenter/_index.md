@@ -1,12 +1,12 @@
 ---
-title: set_RotationCenter
+title: set_RotationCenter()
 second_title: Aspose.Slides for C++ API Reference
 description: "Describes the center of the rotation used to rotate a motion path by X angle. Write System::Drawing::PointF."
 type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/imotioneffect/set_rotationcenter/
 ---
-## IMotionEffect::set_RotationCenter method
+## IMotionEffect::set_RotationCenter([System::Drawing::PointF](../../../system.drawing/pointf/)) method
 
 
 Describes the center of the rotation used to rotate a motion path by X angle. Write [System::Drawing::PointF](../../../system.drawing/pointf/).

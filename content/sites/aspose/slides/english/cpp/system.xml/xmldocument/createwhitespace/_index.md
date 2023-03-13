@@ -1,12 +1,12 @@
 ---
-title: CreateWhitespace
+title: CreateWhitespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlWhitespace node.
 type: docs
 weight: 430
 url: /cpp/system.xml/xmldocument/createwhitespace/
 ---
-## XmlDocument::CreateWhitespace method
+## XmlDocument::CreateWhitespace(const [String](../../../system/string/)\&) method
 
 
 Creates an [XmlWhitespace](../../xmlwhitespace/) node.

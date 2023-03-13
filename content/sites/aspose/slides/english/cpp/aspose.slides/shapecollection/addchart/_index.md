@@ -1,5 +1,5 @@
 ---
-title: AddChart
+title: AddChart()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new Chart, initialize it with sample series data and settings and adds it to the end of the collection.
 type: docs

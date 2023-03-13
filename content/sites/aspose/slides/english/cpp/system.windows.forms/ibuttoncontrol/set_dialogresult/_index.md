@@ -1,12 +1,12 @@
 ---
-title: set_DialogResult
+title: set_DialogResult()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets dialog result associated with button.
 type: docs
 weight: 14
 url: /cpp/system.windows.forms/ibuttoncontrol/set_dialogresult/
 ---
-## IButtonControl::set_DialogResult method
+## IButtonControl::set_DialogResult([DialogResult](../../dialogresult/)) method
 
 
 Sets dialog result associated with button.

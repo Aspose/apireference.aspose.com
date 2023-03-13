@@ -1,5 +1,5 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hash code for the specified scalar value.
 type: docs

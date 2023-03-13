@@ -1,12 +1,12 @@
 ---
-title: get_MediumSeaGreen
+title: get_MediumSeaGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF3CB371.
 type: docs
 weight: 1106
 url: /cpp/system.drawing/brushes/get_mediumseagreen/
 ---
-## Brushes::get_MediumSeaGreen method
+## Brushes::get_MediumSeaGreen() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF3CB371.

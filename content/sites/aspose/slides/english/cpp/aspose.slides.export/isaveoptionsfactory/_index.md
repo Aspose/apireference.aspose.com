@@ -1,7 +1,7 @@
 ---
 title: ISaveOptionsFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create save options' instances.
+description: Allows to create save options' instances
 type: docs
 weight: 339
 url: /cpp/aspose.slides.export/isaveoptionsfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.export/isaveoptionsfactory/
 ## ISaveOptionsFactory class
 
 
-Allows to create save options' instances.
+Allows to create save options' instances
 
 ```cpp
 class ISaveOptionsFactory : public System::Object

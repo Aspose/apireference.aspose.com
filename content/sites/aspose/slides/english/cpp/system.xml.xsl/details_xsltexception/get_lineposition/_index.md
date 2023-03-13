@@ -1,12 +1,12 @@
 ---
-title: get_LinePosition
+title: get_LinePosition()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line position indicating where the error occurred in the style sheet.
 type: docs
 weight: 27
 url: /cpp/system.xml.xsl/details_xsltexception/get_lineposition/
 ---
-## Details_XsltException::get_LinePosition method
+## Details_XsltException::get_LinePosition() method
 
 
 Returns the line position indicating where the error occurred in the style sheet.

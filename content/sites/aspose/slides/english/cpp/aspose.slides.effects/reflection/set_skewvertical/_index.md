@@ -1,12 +1,12 @@
 ---
-title: set_SkewVertical
+title: set_SkewVertical()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the vertical skew angle. Write double.
 type: docs
 weight: 274
 url: /cpp/aspose.slides.effects/reflection/set_skewvertical/
 ---
-## Reflection::set_SkewVertical method
+## Reflection::set_SkewVertical(**double**) method
 
 
 Specifies the vertical skew angle. Write **double**.

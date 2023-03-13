@@ -1,15 +1,15 @@
 ---
-title: set_ImageType
+title: set_ImageType()
 second_title: Aspose.Slides for C++ API Reference
-description: "Sets the image type of a zoom object. Write ZoomImageType. Default value: Preview."
+description: "Sets the image type of a zoom object. Write ZoomImageType. Default value: Preview"
 type: docs
 weight: 14
 url: /cpp/aspose.slides/zoomobject/set_imagetype/
 ---
-## ZoomObject::set_ImageType method
+## ZoomObject::set_ImageType([ZoomImageType](../../zoomimagetype/)) method
 
 
-Sets the image type of a zoom object. Write [ZoomImageType](../../zoomimagetype/). Default value: Preview.
+Sets the image type of a zoom object. Write [ZoomImageType](../../zoomimagetype/). Default value: Preview
 
 ```cpp
 void Aspose::Slides::ZoomObject::set_ImageType(ZoomImageType value) override

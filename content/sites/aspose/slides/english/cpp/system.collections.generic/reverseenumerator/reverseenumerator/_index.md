@@ -1,12 +1,12 @@
 ---
-title: ReverseEnumerator
+title: ReverseEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes iterator.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/reverseenumerator/reverseenumerator/
 ---
-## ReverseEnumerator::ReverseEnumerator constructor
+## ReverseEnumerator::ReverseEnumerator(const [Object::ptr](../../../system/object/ptr/)\&, Container\&) constructor
 
 
 Initializes iterator.

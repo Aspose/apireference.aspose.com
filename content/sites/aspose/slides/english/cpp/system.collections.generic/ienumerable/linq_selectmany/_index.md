@@ -1,5 +1,5 @@
 ---
-title: LINQ_SelectMany
+title: LINQ_SelectMany()
 second_title: Aspose.Slides for C++ API Reference
 description: Projects each element of a sequence and combines the resulting sequences into one sequence.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Add item to container end.
 type: docs
 weight: 1
 url: /cpp/system.collections.objectmodel/keyedcollection/add/
 ---
-## KeyedCollection::Add method
+## KeyedCollection::Add(const TItem\&) method
 
 
 Add item to container end.

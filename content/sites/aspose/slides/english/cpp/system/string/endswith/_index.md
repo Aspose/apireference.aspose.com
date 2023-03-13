@@ -1,5 +1,5 @@
 ---
-title: EndsWith
+title: EndsWith()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if string ends with specified substring.
 type: docs

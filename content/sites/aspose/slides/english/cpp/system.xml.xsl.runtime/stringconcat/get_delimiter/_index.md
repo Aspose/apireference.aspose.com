@@ -1,12 +1,12 @@
 ---
-title: get_Delimiter
+title: get_Delimiter()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string that delimits concatenated strings.
 type: docs
 weight: 1
 url: /cpp/system.xml.xsl.runtime/stringconcat/get_delimiter/
 ---
-## StringConcat::get_Delimiter method
+## StringConcat::get_Delimiter() method
 
 
 Returns the string that delimits concatenated strings.

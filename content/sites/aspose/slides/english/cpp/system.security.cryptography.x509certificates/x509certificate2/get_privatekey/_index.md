@@ -1,12 +1,12 @@
 ---
-title: get_PrivateKey
+title: get_PrivateKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets private key associated with certificate.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_privatekey/
 ---
-## X509Certificate2::get_PrivateKey method
+## X509Certificate2::get_PrivateKey() const method
 
 
 Gets private key associated with certificate.

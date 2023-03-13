@@ -1,12 +1,12 @@
 ---
-title: set_LastModified
+title: set_LastModified()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Last-Modified' header.
 type: docs
 weight: 235
 url: /cpp/system.net.http.headers/httpcontentheaders/set_lastmodified/
 ---
-## HttpContentHeaders::set_LastModified method
+## HttpContentHeaders::set_LastModified([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
 
 
 Sets a value of the 'Last-Modified' header.

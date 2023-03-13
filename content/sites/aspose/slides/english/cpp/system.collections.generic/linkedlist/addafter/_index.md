@@ -1,5 +1,5 @@
 ---
-title: AddAfter
+title: AddAfter()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element after node of the list.
 type: docs

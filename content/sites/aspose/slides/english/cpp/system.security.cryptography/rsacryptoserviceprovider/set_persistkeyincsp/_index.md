@@ -1,12 +1,12 @@
 ---
-title: set_PersistKeyInCsp
+title: set_PersistKeyInCsp()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines whether key is persisted in CSP object.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/set_persistkeyincsp/
 ---
-## RSACryptoServiceProvider::set_PersistKeyInCsp method
+## RSACryptoServiceProvider::set_PersistKeyInCsp(**bool**) method
 
 
 Defines whether key is persisted in CSP object.

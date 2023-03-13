@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes an effect from a collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/isequence/removeat/
 ---
-## ISequence::RemoveAt method
+## ISequence::RemoveAt(**int32_t**) method
 
 
 Removes an effect from a collection.

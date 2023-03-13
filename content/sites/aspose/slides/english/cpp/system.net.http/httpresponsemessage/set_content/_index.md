@@ -1,12 +1,12 @@
 ---
-title: set_Content
+title: set_Content()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets content of the HTTP response.
 type: docs
 weight: 40
 url: /cpp/system.net.http/httpresponsemessage/set_content/
 ---
-## HttpResponseMessage::set_Content method
+## HttpResponseMessage::set_Content([System::SharedPtr](../../../system/sharedptr/)\<[HttpContent](../../httpcontent/)\>) method
 
 
 Sets content of the HTTP response.

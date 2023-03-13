@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the length of the stream in bytes.
 type: docs
 weight: 287
 url: /cpp/system.net.security/sslstream/get_length/
 ---
-## SslStream::get_Length method
+## SslStream::get_Length() const method
 
 
 Returns the length of the stream in bytes.

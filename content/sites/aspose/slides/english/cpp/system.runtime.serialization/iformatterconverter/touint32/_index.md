@@ -1,12 +1,12 @@
 ---
-title: ToUInt32
+title: ToUInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a uint32_t.
 type: docs
 weight: 183
 url: /cpp/system.runtime.serialization/iformatterconverter/touint32/
 ---
-## IFormatterConverter::ToUInt32 method
+## IFormatterConverter::ToUInt32([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a **uint32_t**.

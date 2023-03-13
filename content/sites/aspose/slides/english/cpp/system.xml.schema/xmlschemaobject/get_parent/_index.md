@@ -1,12 +1,12 @@
 ---
-title: get_Parent
+title: get_Parent()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the parent of this XmlSchemaObject.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemaobject/get_parent/
 ---
-## XmlSchemaObject::get_Parent method
+## XmlSchemaObject::get_Parent() method
 
 
 Returns the parent of this [XmlSchemaObject](../).

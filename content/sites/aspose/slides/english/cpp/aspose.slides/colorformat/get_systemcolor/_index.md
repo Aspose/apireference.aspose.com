@@ -1,12 +1,12 @@
 ---
-title: get_SystemColor
+title: get_SystemColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the color identified by the system color table. Read Slides::SystemColor."
 type: docs
 weight: 79
 url: /cpp/aspose.slides/colorformat/get_systemcolor/
 ---
-## ColorFormat::get_SystemColor method
+## ColorFormat::get_SystemColor() method
 
 
 Returns the color identified by the system color table. Read [Slides::SystemColor](../../systemcolor/).

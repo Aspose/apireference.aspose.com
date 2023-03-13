@@ -1,12 +1,12 @@
 ---
-title: get_Connected
+title: get_Connected()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the socket is connected to the remote host.
 type: docs
 weight: 105
 url: /cpp/system.net.sockets/socket/get_connected/
 ---
-## Socket::get_Connected method
+## Socket::get_Connected() method
 
 
 Returns a value that indicates if the socket is connected to the remote host.

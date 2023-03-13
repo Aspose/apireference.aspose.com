@@ -1,12 +1,12 @@
 ---
-title: WriteEndDocument
+title: WriteEndDocument()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes any open elements or attributes and puts the writer back in the Start state.
 type: docs
 weight: 209
 url: /cpp/system.xml/xmltextwriter/writeenddocument/
 ---
-## XmlTextWriter::WriteEndDocument method
+## XmlTextWriter::WriteEndDocument() method
 
 
 Closes any open elements or attributes and puts the writer back in the Start state.

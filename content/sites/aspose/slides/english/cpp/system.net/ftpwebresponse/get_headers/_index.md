@@ -1,12 +1,12 @@
 ---
-title: get_Headers
+title: get_Headers()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 27
 url: /cpp/system.net/ftpwebresponse/get_headers/
 ---
-## FtpWebResponse::get_Headers method
+## FtpWebResponse::get_Headers() method
 
 
 Not implemented.

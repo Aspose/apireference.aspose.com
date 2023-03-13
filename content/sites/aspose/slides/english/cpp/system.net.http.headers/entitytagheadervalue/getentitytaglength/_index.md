@@ -1,12 +1,12 @@
 ---
-title: GetEntityTagLength
+title: GetEntityTagLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified index to an instance of the EntityTagHeaderValue class.
 type: docs
 weight: 118
 url: /cpp/system.net.http.headers/entitytagheadervalue/getentitytaglength/
 ---
-## EntityTagHeaderValue::GetEntityTagLength method
+## EntityTagHeaderValue::GetEntityTagLength([String](../../../system/string/), **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[EntityTagHeaderValue](../)\>\&) method
 
 
 Converts a passed string from the specified index to an instance of the [EntityTagHeaderValue](../) class.

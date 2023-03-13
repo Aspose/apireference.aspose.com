@@ -1,12 +1,12 @@
 ---
-title: get_RedirectStandardOutput
+title: get_RedirectStandardOutput()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets RedirectStandardOutput property.
 type: docs
 weight: 92
 url: /cpp/system.diagnostics/processstartinfo/get_redirectstandardoutput/
 ---
-## ProcessStartInfo::get_RedirectStandardOutput method
+## ProcessStartInfo::get_RedirectStandardOutput() const method
 
 
 Gets RedirectStandardOutput property.

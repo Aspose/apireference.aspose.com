@@ -1,12 +1,12 @@
 ---
-title: get_DataSet
+title: get_DataSet()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets data set table belongs to.
 type: docs
 weight: 40
 url: /cpp/system.data/datatable/get_dataset/
 ---
-## DataTable::get_DataSet method
+## DataTable::get_DataSet() method
 
 
 Gets data set table belongs to.

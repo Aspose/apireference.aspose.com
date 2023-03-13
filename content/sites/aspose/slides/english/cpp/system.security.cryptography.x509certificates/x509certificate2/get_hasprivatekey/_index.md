@@ -1,12 +1,12 @@
 ---
-title: get_HasPrivateKey
+title: get_HasPrivateKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether the certificate has private key.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_hasprivatekey/
 ---
-## X509Certificate2::get_HasPrivateKey method
+## X509Certificate2::get_HasPrivateKey() const method
 
 
 Checks whether the certificate has private key.

@@ -1,12 +1,12 @@
 ---
-title: get_Flags
+title: get_Flags()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that specifies how the color values in the array of colors should be interpreted.
 type: docs
 weight: 1
 url: /cpp/system.drawing.imaging/colorpalette/get_flags/
 ---
-## ColorPalette::get_Flags method
+## ColorPalette::get_Flags() const method
 
 
 Returns a value that specifies how the color values in the array of colors should be interpreted.

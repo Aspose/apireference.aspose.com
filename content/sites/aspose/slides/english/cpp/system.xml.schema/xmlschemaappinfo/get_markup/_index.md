@@ -1,12 +1,12 @@
 ---
-title: get_Markup
+title: get_Markup()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array of XmlNode objects that represents the appinfo child nodes.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaappinfo/get_markup/
 ---
-## XmlSchemaAppInfo::get_Markup method
+## XmlSchemaAppInfo::get_Markup() method
 
 
 Returns an array of [XmlNode](../../../system.xml/xmlnode/) objects that represents the **appinfo** child nodes.

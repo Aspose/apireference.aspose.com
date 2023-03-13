@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the author from the parent collection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/icommentauthor/remove/
 ---
-## ICommentAuthor::Remove method
+## ICommentAuthor::Remove() method
 
 
 Removes the author from the parent collection.

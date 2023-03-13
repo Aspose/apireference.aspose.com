@@ -1,12 +1,12 @@
 ---
-title: IsAliasingPtr
+title: IsAliasingPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if pointer is pointed to another object than owned (created by an aliasing constructor).
 type: docs
 weight: 144
 url: /cpp/system/smartptr/isaliasingptr/
 ---
-## SmartPtr::IsAliasingPtr method
+## SmartPtr::IsAliasingPtr() const method
 
 
 Checks if pointer is pointed to another object than owned (created by an aliasing constructor).

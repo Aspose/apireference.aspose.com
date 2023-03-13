@@ -1,12 +1,12 @@
 ---
-title: get_FontColor
+title: get_FontColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shape's font color. Read-only IColorFormat.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/shapestyle/get_fontcolor/
 ---
-## ShapeStyle::get_FontColor method
+## ShapeStyle::get_FontColor() method
 
 
 Returns a shape's font color. Read-only [IColorFormat](../../icolorformat/).

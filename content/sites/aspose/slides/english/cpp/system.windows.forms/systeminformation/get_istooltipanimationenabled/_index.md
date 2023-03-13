@@ -1,12 +1,12 @@
 ---
-title: get_IsToolTipAnimationEnabled
+title: get_IsToolTipAnimationEnabled()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 586
 url: /cpp/system.windows.forms/systeminformation/get_istooltipanimationenabled/
 ---
-## SystemInformation::get_IsToolTipAnimationEnabled method
+## SystemInformation::get_IsToolTipAnimationEnabled() method
 
 
 NOT IMPLEMENTED.

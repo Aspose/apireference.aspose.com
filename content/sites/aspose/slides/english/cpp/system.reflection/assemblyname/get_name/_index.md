@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets assembly name.
 type: docs
 weight: 14
 url: /cpp/system.reflection/assemblyname/get_name/
 ---
-## AssemblyName::get_Name method
+## AssemblyName::get_Name() method
 
 
 Gets assembly name.

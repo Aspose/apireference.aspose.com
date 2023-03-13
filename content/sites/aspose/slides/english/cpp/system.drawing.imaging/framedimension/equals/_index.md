@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified FrameDimension object is equivalent to the current object.
 type: docs
 weight: 27
 url: /cpp/system.drawing.imaging/framedimension/equals/
 ---
-## FrameDimension::Equals method
+## FrameDimension::Equals([FrameDimensionPtr](../../framedimensionptr/)) method
 
 
 Determines if the specified [FrameDimension](../) object is equivalent to the current object.

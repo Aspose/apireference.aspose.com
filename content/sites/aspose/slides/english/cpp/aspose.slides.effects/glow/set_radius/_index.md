@@ -1,12 +1,12 @@
 ---
-title: set_Radius
+title: set_Radius()
 second_title: Aspose.Slides for C++ API Reference
 description: Radius. Write double.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/glow/set_radius/
 ---
-## Glow::set_Radius method
+## Glow::set_Radius(**double**) method
 
 
 Radius. Write **double**.

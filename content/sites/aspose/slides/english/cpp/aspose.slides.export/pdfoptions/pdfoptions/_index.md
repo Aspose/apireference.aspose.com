@@ -1,12 +1,12 @@
 ---
-title: PdfOptions
+title: PdfOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor.
 type: docs
 weight: 404
 url: /cpp/aspose.slides.export/pdfoptions/pdfoptions/
 ---
-## PdfOptions::PdfOptions constructor
+## PdfOptions::PdfOptions() constructor
 
 
 Default constructor.

@@ -1,12 +1,12 @@
 ---
-title: get_Parent_IPresentationComponent
+title: get_Parent_IPresentationComponent()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns parent IPresentationComponent. Read-only IPresentationComponent.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ipviobject/get_parent_ipresentationcomponent/
 ---
-## IPVIObject::get_Parent_IPresentationComponent method
+## IPVIObject::get_Parent_IPresentationComponent() method
 
 
 Returns parent [IPresentationComponent](../../ipresentationcomponent/). Read-only [IPresentationComponent](../../ipresentationcomponent/).

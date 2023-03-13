@@ -1,12 +1,12 @@
 ---
-title: get_VerticalAxis
+title: get_VerticalAxis()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the chart's vertical axis. Read-only IAxis.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/axesmanager/get_verticalaxis/
 ---
-## AxesManager::get_VerticalAxis method
+## AxesManager::get_VerticalAxis() method
 
 
 Gets the chart's vertical axis. Read-only [IAxis](../../iaxis/).

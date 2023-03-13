@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets element at specified index.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/ilist/idx_set/
 ---
-## IList::idx_set method
+## IList::idx_set(int, T) method
 
 
 Sets element at specified index.

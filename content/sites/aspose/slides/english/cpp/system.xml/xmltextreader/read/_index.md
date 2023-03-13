@@ -1,12 +1,12 @@
 ---
-title: Read
+title: Read()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the next node from the stream.
 type: docs
 weight: 573
 url: /cpp/system.xml/xmltextreader/read/
 ---
-## XmlTextReader::Read method
+## XmlTextReader::Read() method
 
 
 Reads the next node from the stream.

@@ -1,12 +1,12 @@
 ---
-title: Invoke
+title: Invoke()
 second_title: Aspose.Slides for C++ API Reference
 description: Provides the method to invoke the function with the given arguments in the given context.
 type: docs
 weight: 53
 url: /cpp/system.xml.xsl/ixsltcontextfunction/invoke/
 ---
-## IXsltContextFunction::Invoke method
+## IXsltContextFunction::Invoke([SharedPtr](../../../system/sharedptr/)\<[XsltContext](../../xsltcontext/)\>, [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\>, [SharedPtr](../../../system/sharedptr/)\<[System::Xml::XPath::XPathNavigator](../../../system.xml.xpath/xpathnavigator/)\>) method
 
 
 Provides the method to invoke the function with the given arguments in the given context.

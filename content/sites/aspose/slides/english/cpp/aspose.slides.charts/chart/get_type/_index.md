@@ -1,12 +1,12 @@
 ---
-title: get_Type
+title: get_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the chart type. Read ChartType.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.charts/chart/get_type/
 ---
-## Chart::get_Type method
+## Chart::get_Type() method
 
 
 Returns the chart type. Read [ChartType](../../charttype/).

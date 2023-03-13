@@ -1,12 +1,12 @@
 ---
-title: get_Image
+title: get_Image()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets image for zoom object. Read IPPImage.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/zoomobject/get_image/
 ---
-## ZoomObject::get_Image method
+## ZoomObject::get_Image() method
 
 
 Gets image for zoom object. Read [IPPImage](../../ippimage/).

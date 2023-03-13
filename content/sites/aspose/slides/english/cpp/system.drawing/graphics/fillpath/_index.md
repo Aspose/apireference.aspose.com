@@ -1,12 +1,12 @@
 ---
-title: FillPath
+title: FillPath()
 second_title: Aspose.Slides for C++ API Reference
 description: Fills the interiors of the specified path using the specified brush.
 type: docs
 weight: 391
 url: /cpp/system.drawing/graphics/fillpath/
 ---
-## Graphics::FillPath method
+## Graphics::FillPath(const [SharedPtr](../../../system/sharedptr/)\<[Brush](../../brush/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)\>\&) method
 
 
 Fills the interiors of the specified path using the specified brush.

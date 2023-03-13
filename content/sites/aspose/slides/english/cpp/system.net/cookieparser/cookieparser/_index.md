@@ -1,12 +1,12 @@
 ---
-title: CookieParser
+title: CookieParser()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 1
 url: /cpp/system.net/cookieparser/cookieparser/
 ---
-## CookieParser::CookieParser constructor
+## CookieParser::CookieParser([String](../../../system/string/)) constructor
 
 
 Constructs a new instance.

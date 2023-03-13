@@ -1,12 +1,12 @@
 ---
-title: get_AcceptLanguage
+title: get_AcceptLanguage()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Accept-Language' header.
 type: docs
 weight: 40
 url: /cpp/system.net.http.headers/httprequestheaders/get_acceptlanguage/
 ---
-## HttpRequestHeaders::get_AcceptLanguage method
+## HttpRequestHeaders::get_AcceptLanguage() method
 
 
 Returns a value of the 'Accept-Language' header.

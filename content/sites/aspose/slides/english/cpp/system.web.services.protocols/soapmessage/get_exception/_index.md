@@ -1,12 +1,12 @@
 ---
-title: get_Exception
+title: get_Exception()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the exception that is thrown by the XML Web service method.
 type: docs
 weight: 313
 url: /cpp/system.web.services.protocols/soapmessage/get_exception/
 ---
-## SoapMessage::get_Exception method
+## SoapMessage::get_Exception() method
 
 
 Gets the exception that is thrown by the XML [Web](../../../system.web/) service method.

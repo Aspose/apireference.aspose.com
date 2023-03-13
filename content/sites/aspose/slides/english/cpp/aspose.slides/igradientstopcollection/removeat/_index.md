@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes a gradient stop at the specified index.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/igradientstopcollection/removeat/
 ---
-## IGradientStopCollection::RemoveAt method
+## IGradientStopCollection::RemoveAt(**int32_t**) method
 
 
 Removes a gradient stop at the specified index.

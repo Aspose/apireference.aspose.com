@@ -1,12 +1,12 @@
 ---
-title: operator->
+title: operator->()
 second_title: Aspose.Slides for C++ API Reference
 description: Allows to call methods of Object pointed by the referenced pointer.
 type: docs
 weight: 40
 url: /cpp/system/smartptrinfo/operator_minus_greater/
 ---
-## SmartPtrInfo::operator-> method
+## SmartPtrInfo::operator->() const method
 
 
 Allows to call methods of [Object](../../object/) pointed by the referenced pointer.

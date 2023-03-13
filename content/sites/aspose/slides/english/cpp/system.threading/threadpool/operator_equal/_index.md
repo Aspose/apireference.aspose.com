@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: No copying.
 type: docs
 weight: 118
 url: /cpp/system.threading/threadpool/operator_equal/
 ---
-## ThreadPool::operator= method
+## ThreadPool::operator=(const [ThreadPool](../)\&) method
 
 
 No copying.

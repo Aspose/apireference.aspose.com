@@ -1,5 +1,5 @@
 ---
-title: EndSend
+title: EndSend()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits until the specified asynchronous send operation completes.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: NotesCommentsLayoutingOptions
+title: NotesCommentsLayoutingOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.export/notescommentslayoutingoptions/notescommentslayoutingoptions/
 ---
-## NotesCommentsLayoutingOptions::NotesCommentsLayoutingOptions constructor
+## NotesCommentsLayoutingOptions::NotesCommentsLayoutingOptions() constructor
 
 
 Default constructor.

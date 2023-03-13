@@ -1,5 +1,5 @@
 ---
-title: StringWriter
+title: StringWriter()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of StringWriter using the specified StringBuilder and IFormatProvider.
 type: docs

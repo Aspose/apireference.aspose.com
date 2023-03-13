@@ -1,12 +1,12 @@
 ---
-title: get_Headers
+title: get_Headers()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the collection of the HTTP headers.
 type: docs
 weight: 40
 url: /cpp/system.net/filewebrequest/get_headers/
 ---
-## FileWebRequest::get_Headers method
+## FileWebRequest::get_Headers() method
 
 
 Gets the collection of the HTTP headers.

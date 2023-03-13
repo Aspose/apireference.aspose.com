@@ -1,12 +1,12 @@
 ---
-title: GetLongLength
+title: GetLongLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of elements in the specified dimension as 64-bit integer.
 type: docs
 weight: 261
 url: /cpp/system/array/getlonglength/
 ---
-## Array::GetLongLength method
+## Array::GetLongLength(int) method
 
 
 Returns the number of elements in the specified dimension as 64-bit integer.

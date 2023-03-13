@@ -1,5 +1,5 @@
 ---
-title: LockBits
+title: LockBits()
 second_title: Aspose.Slides for C++ API Reference
 description: Locks a Bitmap into system memory.
 type: docs

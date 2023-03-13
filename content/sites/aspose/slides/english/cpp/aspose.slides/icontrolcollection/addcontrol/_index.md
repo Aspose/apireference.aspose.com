@@ -1,12 +1,12 @@
 ---
-title: AddControl
+title: AddControl()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates and adds a new control to the collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/icontrolcollection/addcontrol/
 ---
-## IControlCollection::AddControl method
+## IControlCollection::AddControl([ControlType](../../controltype/), **float**, **float**, **float**, **float**) method
 
 
 Creates and adds a new control to the collection.

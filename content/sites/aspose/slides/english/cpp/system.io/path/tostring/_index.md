@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a string representation of the specified Boost's path object.
 type: docs
 weight: 222
 url: /cpp/system.io/path/tostring/
 ---
-## Path::ToString method
+## Path::ToString(const boost::filesystem::path\&) method
 
 
 Returns a string representation of the specified Boost's path object.

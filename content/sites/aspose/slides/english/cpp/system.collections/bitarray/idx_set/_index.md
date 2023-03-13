@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Setter function.
 type: docs
 weight: 53
 url: /cpp/system.collections/bitarray/idx_set/
 ---
-## BitArray::idx_set method
+## BitArray::idx_set(int, **bool**) method
 
 
 Setter function.

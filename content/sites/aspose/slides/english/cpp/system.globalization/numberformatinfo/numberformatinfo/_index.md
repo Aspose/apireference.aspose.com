@@ -1,12 +1,12 @@
 ---
-title: NumberFormatInfo
+title: NumberFormatInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor (invariant NumberFormatInfo).
 type: docs
 weight: 1
 url: /cpp/system.globalization/numberformatinfo/numberformatinfo/
 ---
-## NumberFormatInfo::NumberFormatInfo constructor
+## NumberFormatInfo::NumberFormatInfo() constructor
 
 
 Default constructor (invariant [NumberFormatInfo](../)).

@@ -1,12 +1,12 @@
 ---
-title: AssemblyVersion
+title: AssemblyVersion()
 second_title: Aspose.Slides for C++ API Reference
 description: Version of Aspose.Slides assembly.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/buildversioninfo/assemblyversion/
 ---
-## BuildVersionInfo::AssemblyVersion method
+## BuildVersionInfo::AssemblyVersion() method
 
 
 Version of [Aspose.Slides](../../) assembly.

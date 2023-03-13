@@ -1,12 +1,12 @@
 ---
-title: get_HyperlinkClick
+title: get_HyperlinkClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the hyperlink defined for mouse click. Read IHyperlink.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/shape/get_hyperlinkclick/
 ---
-## Shape::get_HyperlinkClick method
+## Shape::get_HyperlinkClick() method
 
 
 Returns the hyperlink defined for mouse click. Read [IHyperlink](../../ihyperlink/).

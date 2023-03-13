@@ -1,12 +1,12 @@
 ---
-title: AddAlphaReplaceEffect
+title: AddAlphaReplaceEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Alpha Replace effect to the end of a collection.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addalphareplaceeffect/
 ---
-## IImageTransformOperationCollection::AddAlphaReplaceEffect method
+## IImageTransformOperationCollection::AddAlphaReplaceEffect(**float**) method
 
 
 Adds the new Alpha Replace effect to the end of a collection.

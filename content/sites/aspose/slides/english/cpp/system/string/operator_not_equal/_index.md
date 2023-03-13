@@ -1,5 +1,5 @@
 ---
-title: operator!=
+title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: Non-equality comparison operator.
 type: docs

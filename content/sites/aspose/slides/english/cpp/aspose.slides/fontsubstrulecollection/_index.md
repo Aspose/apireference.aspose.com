@@ -19,7 +19,7 @@ class FontSubstRuleCollection : public Aspose::Slides::IFontSubstRuleCollection
 
 | Method | Description |
 | --- | --- |
-| void [Add](./add/)([System::SharedPtr](../../system/sharedptr/)\<[IFontSubstRule](../ifontsubstrule/)\>) override | Adds the new font substitution rule to the collection. |
+| void [Add](./add/)([System::SharedPtr](../../system/sharedptr/)\<[IFontSubstRule](../ifontsubstrule/)\>) override | Adds the new font substitution rule to the collection |
 | [iterator](./iterator/) [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [const_iterator](./const_iterator/) [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [const_iterator](./const_iterator/) [cbegin](./cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |

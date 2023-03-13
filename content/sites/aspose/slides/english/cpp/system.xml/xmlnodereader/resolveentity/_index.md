@@ -1,12 +1,12 @@
 ---
-title: ResolveEntity
+title: ResolveEntity()
 second_title: Aspose.Slides for C++ API Reference
 description: Resolves the entity reference for EntityReference nodes.
 type: docs
 weight: 417
 url: /cpp/system.xml/xmlnodereader/resolveentity/
 ---
-## XmlNodeReader::ResolveEntity method
+## XmlNodeReader::ResolveEntity() method
 
 
 Resolves the entity reference for **EntityReference** nodes.

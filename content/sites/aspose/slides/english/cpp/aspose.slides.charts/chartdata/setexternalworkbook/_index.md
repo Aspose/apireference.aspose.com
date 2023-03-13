@@ -1,5 +1,5 @@
 ---
-title: SetExternalWorkbook
+title: SetExternalWorkbook()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets external workbook as a data source for the chart. Chart data will be updated from the target workbook.
 type: docs

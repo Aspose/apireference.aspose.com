@@ -1,15 +1,15 @@
 ---
-title: get_FillMode
+title: get_FillMode()
 second_title: Aspose.Slides for C++ API Reference
-description: Sets fill mode.
+description: Sets fill mode
 type: docs
 weight: 14
 url: /cpp/aspose.slides/geometrypath/get_fillmode/
 ---
-## GeometryPath::get_FillMode method
+## GeometryPath::get_FillMode() method
 
 
-Sets fill mode.
+Sets fill mode
 
 ```cpp
 PathFillModeType Aspose::Slides::GeometryPath::get_FillMode() override

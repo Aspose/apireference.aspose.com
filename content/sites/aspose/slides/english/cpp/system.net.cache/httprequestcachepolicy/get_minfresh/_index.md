@@ -1,12 +1,12 @@
 ---
-title: get_MinFresh
+title: get_MinFresh()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the min age permitted for a resource.
 type: docs
 weight: 53
 url: /cpp/system.net.cache/httprequestcachepolicy/get_minfresh/
 ---
-## HttpRequestCachePolicy::get_MinFresh method
+## HttpRequestCachePolicy::get_MinFresh() const method
 
 
 Gets the min age permitted for a resource.

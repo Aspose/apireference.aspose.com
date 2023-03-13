@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the index of a specific item by property value in the IList.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/ibehaviorpropertycollection/indexof/
 ---
-## IBehaviorPropertyCollection::IndexOf method
+## IBehaviorPropertyCollection::IndexOf(const [System::String](../../../system/string/)\&) const method
 
 
 Determines the index of a specific item by property value in the [IList](../../../system.collections.generic/ilist/).

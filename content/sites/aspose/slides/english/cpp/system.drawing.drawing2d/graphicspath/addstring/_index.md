@@ -1,5 +1,5 @@
 ---
-title: AddString
+title: AddString()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a string of text to the path represented by the current object.
 type: docs

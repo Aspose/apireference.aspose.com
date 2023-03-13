@@ -1,5 +1,5 @@
 ---
-title: WeakPtr
+title: WeakPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates null pointer.
 type: docs
@@ -20,7 +20,7 @@ System::WeakPtr<T>::WeakPtr(std::nullptr_t=nullptr)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Slides](../../../)
-## WeakPtr::WeakPtr([Pointee_](../pointee_/) *) constructor
+## WeakPtr::WeakPtr([Pointee_](../../smartptr/pointee_/) *) constructor
 
 
 Creates weak pointer to given object.
@@ -34,15 +34,15 @@ System::WeakPtr<T>::WeakPtr(Pointee_ *object)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| object | [Pointee_](../pointee_/) * | [Object](../../object/) to create weak pointer to. |
+| object | [Pointee_](../../smartptr/pointee_/) * | [Object](../../object/) to create weak pointer to. |
 
 ## See Also
 
-* Typedef [Pointee_](../pointee_/)
+* Typedef [Pointee_](../../smartptr/pointee_/)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Slides](../../../)
-## WeakPtr::WeakPtr(const [SmartPtr_](../smartptr_/)\&) constructor
+## WeakPtr::WeakPtr(const [SmartPtr_](../../smartptr/smartptr_/)\&) constructor
 
 
 Creates weak pointer referencing same pointer ptr points to.
@@ -56,11 +56,11 @@ System::WeakPtr<T>::WeakPtr(const SmartPtr_ &ptr)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | const [SmartPtr_](../smartptr_/)\& | Pointer to copy pointee value from. |
+| ptr | const [SmartPtr_](../../smartptr/smartptr_/)\& | Pointer to copy pointee value from. |
 
 ## See Also
 
-* Typedef [SmartPtr_](../smartptr_/)
+* Typedef [SmartPtr_](../../smartptr/smartptr_/)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Slides](../../../)
@@ -142,7 +142,7 @@ template<class Q,typename> System::WeakPtr<T>::WeakPtr(const WeakPtr<Q> &x)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Slides](../../../)
-## WeakPtr::WeakPtr([SmartPtr_](../smartptr_/)\&&) constructor
+## WeakPtr::WeakPtr([SmartPtr_](../../smartptr/smartptr_/)\&&) constructor
 
 
 Move-constructs weak pointer.
@@ -156,11 +156,11 @@ System::WeakPtr<T>::WeakPtr(SmartPtr_ &&x)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | [SmartPtr_](../smartptr_/)\&& | Pointer to move pointee value from. |
+| x | [SmartPtr_](../../smartptr/smartptr_/)\&& | Pointer to move pointee value from. |
 
 ## See Also
 
-* Typedef [SmartPtr_](../smartptr_/)
+* Typedef [SmartPtr_](../../smartptr/smartptr_/)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.Slides](../../../)

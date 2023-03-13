@@ -1,12 +1,12 @@
 ---
-title: set_Client
+title: set_Client()
 second_title: Aspose.Slides for C++ API Reference
 description: Used to provide the underlying network socket.
 type: docs
 weight: 14
 url: /cpp/system.net.sockets/udpclient/set_client/
 ---
-## UdpClient::set_Client method
+## UdpClient::set_Client([System::SharedPtr](../../../system/sharedptr/)\<[Socket](../../socket/)\>) method
 
 
 Used to provide the underlying network socket.

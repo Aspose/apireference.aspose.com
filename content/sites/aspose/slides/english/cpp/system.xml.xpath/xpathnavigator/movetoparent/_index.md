@@ -1,12 +1,12 @@
 ---
-title: MoveToParent
+title: MoveToParent()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, moves the XPathNavigator to the parent node of the current node.
 type: docs
 weight: 638
 url: /cpp/system.xml.xpath/xpathnavigator/movetoparent/
 ---
-## XPathNavigator::MoveToParent method
+## XPathNavigator::MoveToParent() method
 
 
 When overridden in a derived class, moves the [XPathNavigator](../) to the parent node of the current node.

@@ -1,12 +1,12 @@
 ---
-title: GetName
+title: GetName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string name of the specified enum constant value.
 type: docs
 weight: 1
 url: /cpp/system/enumgetnamehelper/getname/
 ---
-## EnumGetNameHelper::GetName method
+## EnumGetNameHelper::GetName(T) method
 
 
 Returns the string name of the specified enum constant value.

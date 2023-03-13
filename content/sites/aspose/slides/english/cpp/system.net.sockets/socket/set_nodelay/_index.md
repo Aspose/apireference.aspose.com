@@ -1,12 +1,12 @@
 ---
-title: set_NoDelay
+title: set_NoDelay()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the socket is using the Nagle algorithm.
 type: docs
 weight: 339
 url: /cpp/system.net.sockets/socket/set_nodelay/
 ---
-## Socket::set_NoDelay method
+## Socket::set_NoDelay(**bool**) method
 
 
 Sets a value that indicates if the socket is using the Nagle algorithm.

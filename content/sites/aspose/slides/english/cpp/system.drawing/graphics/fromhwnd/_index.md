@@ -1,12 +1,12 @@
 ---
-title: FromHwnd
+title: FromHwnd()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 14
 url: /cpp/system.drawing/graphics/fromhwnd/
 ---
-## Graphics::FromHwnd method
+## Graphics::FromHwnd(IntPtr) method
 
 
 NOT IMPLEMENTED.

@@ -1,5 +1,5 @@
 ---
-title: WriteAttributeString
+title: WriteAttributeString()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes an attribute with the specified local name, namespace URI, and value.
 type: docs

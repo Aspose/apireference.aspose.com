@@ -1,12 +1,12 @@
 ---
-title: Compare
+title: Compare()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the value represented by the first Decimal object is less than, equal to or greater than the value represented by the second Decimal object.
 type: docs
 weight: 456
 url: /cpp/system/decimal/compare/
 ---
-## Decimal::Compare method
+## Decimal::Compare(const [Decimal](../)\&, const [Decimal](../)\&) method
 
 
 Determines if the value represented by the first [Decimal](../) object is less than, equal to or greater than the value represented by the second [Decimal](../) object.

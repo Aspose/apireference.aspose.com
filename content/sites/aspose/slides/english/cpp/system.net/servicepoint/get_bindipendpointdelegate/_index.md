@@ -1,12 +1,12 @@
 ---
-title: get_BindIPEndPointDelegate
+title: get_BindIPEndPointDelegate()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the delegate that is used to associate local IPEndPoint with the current instance.
 type: docs
 weight: 1
 url: /cpp/system.net/servicepoint/get_bindipendpointdelegate/
 ---
-## ServicePoint::get_BindIPEndPointDelegate method
+## ServicePoint::get_BindIPEndPointDelegate() method
 
 
 Gets the delegate that is used to associate local [IPEndPoint](../../ipendpoint/) with the current instance.

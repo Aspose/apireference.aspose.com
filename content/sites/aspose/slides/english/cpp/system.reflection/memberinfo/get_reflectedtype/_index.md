@@ -1,12 +1,12 @@
 ---
-title: get_ReflectedType
+title: get_ReflectedType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets reflected type type.
 type: docs
 weight: 27
 url: /cpp/system.reflection/memberinfo/get_reflectedtype/
 ---
-## MemberInfo::get_ReflectedType method
+## MemberInfo::get_ReflectedType() const method
 
 
 Gets reflected type type.

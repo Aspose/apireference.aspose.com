@@ -1,12 +1,12 @@
 ---
-title: get_MulticastLoopback
+title: get_MulticastLoopback()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the socket receives outgoing multicast packets.
 type: docs
 weight: 404
 url: /cpp/system.net.sockets/socket/get_multicastloopback/
 ---
-## Socket::get_MulticastLoopback method
+## Socket::get_MulticastLoopback() method
 
 
 Gets a value that indicates if the socket receives outgoing multicast packets.

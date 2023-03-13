@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the current instance.
 type: docs
 weight: 469
 url: /cpp/system.net/cookie/clone/
 ---
-## Cookie::Clone method
+## Cookie::Clone() method
 
 
 Creates a copy of the current instance.

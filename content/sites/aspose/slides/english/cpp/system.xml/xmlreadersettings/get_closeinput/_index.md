@@ -1,12 +1,12 @@
 ---
-title: get_CloseInput
+title: get_CloseInput()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the underlying stream or TextReader should be closed when the reader is closed.
 type: docs
 weight: 326
 url: /cpp/system.xml/xmlreadersettings/get_closeinput/
 ---
-## XmlReaderSettings::get_CloseInput method
+## XmlReaderSettings::get_CloseInput() method
 
 
 Returns a value indicating whether the underlying stream or TextReader should be closed when the reader is closed.

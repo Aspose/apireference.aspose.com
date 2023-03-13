@@ -1,12 +1,12 @@
 ---
-title: get_SendBufferSize
+title: get_SendBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the size of the buffer that is used for sending data.
 type: docs
 weight: 105
 url: /cpp/system.net.sockets/tcpclient/get_sendbuffersize/
 ---
-## TcpClient::get_SendBufferSize method
+## TcpClient::get_SendBufferSize() method
 
 
 Gets the size of the buffer that is used for sending data.

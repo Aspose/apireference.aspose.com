@@ -1,12 +1,12 @@
 ---
-title: operator+=
+title: operator+=()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified delegate to the collection.
 type: docs
 weight: 105
 url: /cpp/system/multicastdelegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/operator_plus_equal/
 ---
-## MulticastDelegate< ReturnType(ArgumentTypes...)>::operator+= method
+## MulticastDelegate< ReturnType(ArgumentTypes...)>::operator+=([Callback](../callback/)) method
 
 
 Adds the specified delegate to the collection.

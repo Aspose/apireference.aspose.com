@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if specific item is present in container; uses operator == for comparison.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/stack/contains/
 ---
-## Stack::Contains method
+## Stack::Contains(const T\&) const method
 
 
 Checks if specific item is present in container; uses operator == for comparison.

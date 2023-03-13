@@ -1,12 +1,12 @@
 ---
-title: get_SlideImageSizeUnit
+title: get_SlideImageSizeUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a unit in which slide image size is specified. Read-only SvgCoordinateUnit.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/htmlgenerator/get_slideimagesizeunit/
 ---
-## HtmlGenerator::get_SlideImageSizeUnit method
+## HtmlGenerator::get_SlideImageSizeUnit() method
 
 
 Returns a unit in which slide image size is specified. Read-only [SvgCoordinateUnit](../../svgcoordinateunit/).

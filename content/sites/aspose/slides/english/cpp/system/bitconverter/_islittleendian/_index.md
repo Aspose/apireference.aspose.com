@@ -1,12 +1,12 @@
 ---
-title: _IsLittleEndian
+title: _IsLittleEndian()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates the endianness of the current architecture.
 type: docs
 weight: 1
 url: /cpp/system/bitconverter/_islittleendian/
 ---
-## BitConverter::_IsLittleEndian method
+## BitConverter::_IsLittleEndian() method
 
 
 Indicates the endianness of the current architecture.

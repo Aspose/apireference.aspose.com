@@ -1,12 +1,12 @@
 ---
-title: ToUInt16
+title: ToUInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a UInt16 equivalent.
 type: docs
 weight: 339
 url: /cpp/system.xml/xmlconvert/touint16/
 ---
-## XmlConvert::ToUInt16 method
+## XmlConvert::ToUInt16(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [UInt16](../../../system/uint16/) equivalent.

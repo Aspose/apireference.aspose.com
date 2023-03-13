@@ -1,12 +1,12 @@
 ---
-title: get_CookieContainer
+title: get_CookieContainer()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the cookie container that is used to store server cookies.
 type: docs
 weight: 66
 url: /cpp/system.net.http/httpclienthandler/get_cookiecontainer/
 ---
-## HttpClientHandler::get_CookieContainer method
+## HttpClientHandler::get_CookieContainer() method
 
 
 Gets the cookie container that is used to store server cookies.

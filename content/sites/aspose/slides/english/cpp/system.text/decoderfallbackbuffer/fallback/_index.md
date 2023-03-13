@@ -1,12 +1,12 @@
 ---
-title: Fallback
+title: Fallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements actual fallback procedure.
 type: docs
 weight: 14
 url: /cpp/system.text/decoderfallbackbuffer/fallback/
 ---
-## DecoderFallbackBuffer::Fallback method
+## DecoderFallbackBuffer::Fallback([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int) method
 
 
 Implements actual fallback procedure.

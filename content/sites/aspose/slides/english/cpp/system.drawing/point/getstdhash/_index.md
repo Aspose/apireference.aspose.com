@@ -1,12 +1,12 @@
 ---
-title: getStdHash
+title: getStdHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hash value for the current object.
 type: docs
 weight: 170
 url: /cpp/system.drawing/point/getstdhash/
 ---
-## Point::getStdHash method
+## Point::getStdHash() const method
 
 
 Returns a hash value for the current object.

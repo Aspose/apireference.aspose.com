@@ -1,12 +1,12 @@
 ---
-title: set_Height
+title: set_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of height represented by the current object.
 type: docs
 weight: 66
 url: /cpp/system.drawing/size/set_height/
 ---
-## Size::set_Height method
+## Size::set_Height(int) method
 
 
 Sets the value of height represented by the current object.

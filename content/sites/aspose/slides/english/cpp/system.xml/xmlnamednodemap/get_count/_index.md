@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of nodes in the XmlNamedNodeMap.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlnamednodemap/get_count/
 ---
-## XmlNamedNodeMap::get_Count method
+## XmlNamedNodeMap::get_Count() method
 
 
 Returns the number of nodes in the [XmlNamedNodeMap](../).

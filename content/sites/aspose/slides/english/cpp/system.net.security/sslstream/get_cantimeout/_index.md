@@ -1,12 +1,12 @@
 ---
-title: get_CanTimeout
+title: get_CanTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that determines whether the current stream can time out.
 type: docs
 weight: 209
 url: /cpp/system.net.security/sslstream/get_cantimeout/
 ---
-## SslStream::get_CanTimeout method
+## SslStream::get_CanTimeout() const method
 
 
 Gets a value that determines whether the current stream can time out.

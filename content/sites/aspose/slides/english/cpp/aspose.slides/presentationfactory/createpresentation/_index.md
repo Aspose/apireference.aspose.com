@@ -1,5 +1,5 @@
 ---
-title: CreatePresentation
+title: CreatePresentation()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new presentation.
 type: docs
@@ -30,7 +30,7 @@ New presentation
 ## PresentationFactory::CreatePresentation([System::SharedPtr](../../../system/sharedptr/)\<[ILoadOptions](../../iloadoptions/)\>) method
 
 
-Creates new presentation with additional load options.
+Creates new presentation with additional load options
 
 ```cpp
 System::SharedPtr<IPresentation> Aspose::Slides::PresentationFactory::CreatePresentation(System::SharedPtr<ILoadOptions> options) override

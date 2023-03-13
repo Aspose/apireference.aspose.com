@@ -1,12 +1,12 @@
 ---
-title: set_Selector
+title: set_Selector()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XPath expression selector element.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/set_selector/
 ---
-## XmlSchemaIdentityConstraint::set_Selector method
+## XmlSchemaIdentityConstraint::set_Selector(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaXPath](../../xmlschemaxpath/)\>\&) method
 
 
 Sets the [XPath](../../../system.xml.xpath/) expression **selector** element.

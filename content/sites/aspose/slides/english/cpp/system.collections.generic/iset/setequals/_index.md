@@ -1,12 +1,12 @@
 ---
-title: SetEquals
+title: SetEquals()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if set and container contain same elements.
 type: docs
 weight: 105
 url: /cpp/system.collections.generic/iset/setequals/
 ---
-## ISet::SetEquals method
+## ISet::SetEquals([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Checks if set and container contain same elements.

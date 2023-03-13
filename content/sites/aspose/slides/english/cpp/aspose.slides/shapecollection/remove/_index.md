@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of a specific shape from the collection.
 type: docs
 weight: 508
 url: /cpp/aspose.slides/shapecollection/remove/
 ---
-## ShapeCollection::Remove method
+## ShapeCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../ishape/)\>) method
 
 
 Removes the first occurrence of a specific shape from the collection.

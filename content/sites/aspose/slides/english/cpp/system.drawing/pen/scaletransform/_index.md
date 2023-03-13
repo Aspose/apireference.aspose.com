@@ -1,12 +1,12 @@
 ---
-title: ScaleTransform
+title: ScaleTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Scales the local geometric transformation by the specified factors in the specified order.
 type: docs
 weight: 456
 url: /cpp/system.drawing/pen/scaletransform/
 ---
-## Pen::ScaleTransform method
+## Pen::ScaleTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
 
 
 Scales the local geometric transformation by the specified factors in the specified order.

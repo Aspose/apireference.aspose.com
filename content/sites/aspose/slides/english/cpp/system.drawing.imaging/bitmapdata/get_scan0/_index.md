@@ -1,12 +1,12 @@
 ---
-title: get_Scan0
+title: get_Scan0()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the address of the first pixel data in the bitmap.
 type: docs
 weight: 79
 url: /cpp/system.drawing.imaging/bitmapdata/get_scan0/
 ---
-## BitmapData::get_Scan0 method
+## BitmapData::get_Scan0() const method
 
 
 Returns the address of the first pixel data in the bitmap.

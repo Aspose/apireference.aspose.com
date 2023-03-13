@@ -1,12 +1,12 @@
 ---
-title: ValidationEventHandler_remove
+title: ValidationEventHandler_remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes an event handler that occurs when the reader encounters validation errors.
 type: docs
 weight: 456
 url: /cpp/system.xml/xmlreadersettings/validationeventhandler_remove/
 ---
-## XmlReaderSettings::ValidationEventHandler_remove method
+## XmlReaderSettings::ValidationEventHandler_remove(Args...) method
 
 
 Removes an event handler that occurs when the reader encounters validation errors.

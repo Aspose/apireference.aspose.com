@@ -1,12 +1,12 @@
 ---
-title: Fail
+title: Fail()
 second_title: Aspose.Slides for C++ API Reference
 description: Send fail message.
 type: docs
 weight: 1
 url: /cpp/system.diagnostics/debug/fail/
 ---
-## Debug::Fail method
+## Debug::Fail(const [String](../../../system/string/)\&) method
 
 
 Send fail message.

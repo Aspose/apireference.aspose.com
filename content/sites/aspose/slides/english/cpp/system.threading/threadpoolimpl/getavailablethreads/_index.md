@@ -1,12 +1,12 @@
 ---
-title: GetAvailableThreads
+title: GetAvailableThreads()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of available threads.
 type: docs
 weight: 14
 url: /cpp/system.threading/threadpoolimpl/getavailablethreads/
 ---
-## ThreadPoolImpl::GetAvailableThreads method
+## ThreadPoolImpl::GetAvailableThreads(int\&, int\&) method
 
 
 Gets number of available threads.

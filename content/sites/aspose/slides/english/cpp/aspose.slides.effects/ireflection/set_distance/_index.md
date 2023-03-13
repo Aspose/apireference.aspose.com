@@ -1,12 +1,12 @@
 ---
-title: set_Distance
+title: set_Distance()
 second_title: Aspose.Slides for C++ API Reference
 description: Distance of reflection. Write double.
 type: docs
 weight: 196
 url: /cpp/aspose.slides.effects/ireflection/set_distance/
 ---
-## IReflection::set_Distance method
+## IReflection::set_Distance(**double**) method
 
 
 Distance of reflection. Write **double**.

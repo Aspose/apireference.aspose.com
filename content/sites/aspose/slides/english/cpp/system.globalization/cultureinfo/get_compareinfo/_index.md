@@ -1,12 +1,12 @@
 ---
-title: get_CompareInfo
+title: get_CompareInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets string comparer that adheres to culture rules.
 type: docs
 weight: 222
 url: /cpp/system.globalization/cultureinfo/get_compareinfo/
 ---
-## CultureInfo::get_CompareInfo method
+## CultureInfo::get_CompareInfo() const method
 
 
 Gets string comparer that adheres to culture rules.

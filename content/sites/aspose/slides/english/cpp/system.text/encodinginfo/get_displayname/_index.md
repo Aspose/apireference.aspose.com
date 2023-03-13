@@ -1,12 +1,12 @@
 ---
-title: get_DisplayName
+title: get_DisplayName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets full localized encoding name.
 type: docs
 weight: 40
 url: /cpp/system.text/encodinginfo/get_displayname/
 ---
-## EncodingInfo::get_DisplayName method
+## EncodingInfo::get_DisplayName() const method
 
 
 Gets full localized encoding name.

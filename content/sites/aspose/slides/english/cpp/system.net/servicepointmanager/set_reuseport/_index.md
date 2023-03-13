@@ -1,12 +1,12 @@
 ---
-title: set_ReusePort
+title: set_ReusePort()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the output connections sockets use the 'SO_REUSE_UNICASTPORT' option.
 type: docs
 weight: 274
 url: /cpp/system.net/servicepointmanager/set_reuseport/
 ---
-## ServicePointManager::set_ReusePort method
+## ServicePointManager::set_ReusePort(**bool**) method
 
 
 Sets a value that indicates if the output connections sockets use the 'SO_REUSE_UNICASTPORT' option.

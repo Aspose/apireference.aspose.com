@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes element from container.
 type: docs
 weight: 66
 url: /cpp/system.collections.concurrent/concurrentdictionary/remove/
 ---
-## ConcurrentDictionary::Remove method
+## ConcurrentDictionary::Remove(const TKey\&) method
 
 
 Removes element from container.

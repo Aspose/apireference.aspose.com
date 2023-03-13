@@ -1,12 +1,12 @@
 ---
-title: GetYear
+title: GetYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets year for the specified time point.
 type: docs
 weight: 170
 url: /cpp/system.globalization/gregoriancalendar/getyear/
 ---
-## GregorianCalendar::GetYear method
+## GregorianCalendar::GetYear([DateTime](../../../system/datetime/)) const method
 
 
 Gets year for the specified time point.

@@ -1,12 +1,12 @@
 ---
-title: get_StrikethroughType
+title: get_StrikethroughType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the strikethrough type of a text. Read-only TextStrikethroughType.
 type: docs
 weight: 170
 url: /cpp/aspose.slides/ibaseportionformateffectivedata/get_strikethroughtype/
 ---
-## IBasePortionFormatEffectiveData::get_StrikethroughType method
+## IBasePortionFormatEffectiveData::get_StrikethroughType() method
 
 
 Returns the strikethrough type of a text. Read-only [TextStrikethroughType](../../textstrikethroughtype/).

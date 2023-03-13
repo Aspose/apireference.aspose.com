@@ -1,12 +1,12 @@
 ---
-title: SetExternalHyperlinkClick
+title: SetExternalHyperlinkClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Set external hyperlink on click.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ihyperlinkmanager/setexternalhyperlinkclick/
 ---
-## IHyperlinkManager::SetExternalHyperlinkClick method
+## IHyperlinkManager::SetExternalHyperlinkClick([System::String](../../../system/string/)) method
 
 
 Set external hyperlink on click.

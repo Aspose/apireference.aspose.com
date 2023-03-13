@@ -1,12 +1,12 @@
 ---
-title: get_FirstColumn
+title: get_FirstColumn()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets first column of cell. Read-only IColumn.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/icell/get_firstcolumn/
 ---
-## ICell::get_FirstColumn method
+## ICell::get_FirstColumn() method
 
 
 Gets first column of cell. Read-only [IColumn](../../icolumn/).

@@ -1,5 +1,5 @@
 ---
-title: Size
+title: Size()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new Size object and initializes its width and height values with 0.
 type: docs

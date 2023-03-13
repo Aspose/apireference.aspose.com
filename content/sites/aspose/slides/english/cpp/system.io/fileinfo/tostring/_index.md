@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a path represented by the current object.
 type: docs
 weight: 274
 url: /cpp/system.io/fileinfo/tostring/
 ---
-## FileInfo::ToString method
+## FileInfo::ToString() const method
 
 
 Returns a path represented by the current object.

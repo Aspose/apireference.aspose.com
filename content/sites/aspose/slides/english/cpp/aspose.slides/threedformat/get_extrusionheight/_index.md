@@ -1,12 +1,12 @@
 ---
-title: get_ExtrusionHeight
+title: get_ExtrusionHeight()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the height of an extrusion effect. Read double.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/threedformat/get_extrusionheight/
 ---
-## ThreeDFormat::get_ExtrusionHeight method
+## ThreeDFormat::get_ExtrusionHeight() method
 
 
 Returns the height of an extrusion effect. Read **double**.

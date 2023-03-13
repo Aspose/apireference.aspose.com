@@ -1,12 +1,12 @@
 ---
-title: AddBiLevelEffect
+title: AddBiLevelEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Bi-Level (black/white) effect to the end of a collection.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addbileveleffect/
 ---
-## IImageTransformOperationCollection::AddBiLevelEffect method
+## IImageTransformOperationCollection::AddBiLevelEffect(**float**) method
 
 
 Adds the new Bi-Level (black/white) effect to the end of a collection.

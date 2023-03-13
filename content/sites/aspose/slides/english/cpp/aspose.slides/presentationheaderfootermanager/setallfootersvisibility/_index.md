@@ -1,12 +1,12 @@
 ---
-title: SetAllFootersVisibility
+title: SetAllFootersVisibility()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes all footer placeholders visibility, including master slides, layout slides, slides, notes master, notes slides and handout master.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/presentationheaderfootermanager/setallfootersvisibility/
 ---
-## PresentationHeaderFooterManager::SetAllFootersVisibility method
+## PresentationHeaderFooterManager::SetAllFootersVisibility(**bool**) method
 
 
 Changes all footer placeholders visibility, including master slides, layout slides, slides, notes master, notes slides and handout master.

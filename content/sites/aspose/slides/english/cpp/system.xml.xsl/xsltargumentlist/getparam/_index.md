@@ -1,12 +1,12 @@
 ---
-title: GetParam
+title: GetParam()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the parameter associated with the namespace qualified name.
 type: docs
 weight: 14
 url: /cpp/system.xml.xsl/xsltargumentlist/getparam/
 ---
-## XsltArgumentList::GetParam method
+## XsltArgumentList::GetParam(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Returns the parameter associated with the namespace qualified name.

@@ -1,12 +1,12 @@
 ---
-title: MoveToPrevious
+title: MoveToPrevious()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, moves the XPathNavigator to the previous sibling node of the current node.
 type: docs
 weight: 599
 url: /cpp/system.xml.xpath/xpathnavigator/movetoprevious/
 ---
-## XPathNavigator::MoveToPrevious method
+## XPathNavigator::MoveToPrevious() method
 
 
 When overridden in a derived class, moves the [XPathNavigator](../) to the previous sibling node of the current node.

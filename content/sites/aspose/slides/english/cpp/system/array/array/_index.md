@@ -1,5 +1,5 @@
 ---
-title: Array
+title: Array()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an empty array.
 type: docs

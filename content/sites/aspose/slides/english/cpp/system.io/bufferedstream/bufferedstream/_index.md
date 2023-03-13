@@ -1,5 +1,5 @@
 ---
-title: BufferedStream
+title: BufferedStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an BufferedStream object that wraps the specified stream and uses a 4096 bytes long buffer.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: AddHours
+title: AddHours()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a specified number of hours to the DateTimeOffset object.
 type: docs
 weight: 287
 url: /cpp/system/datetimeoffset/addhours/
 ---
-## DateTimeOffset::AddHours method
+## DateTimeOffset::AddHours(**double**) const method
 
 
 Adds a specified number of hours to the [DateTimeOffset](../) object.

@@ -1,12 +1,12 @@
 ---
-title: IsNormalized
+title: IsNormalized()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if unicode string is normalized using normalization form specified.
 type: docs
 weight: 430
 url: /cpp/system/string/isnormalized/
 ---
-## String::IsNormalized method
+## String::IsNormalized([System::Text::NormalizationForm](../../../system.text/normalizationform/)) const method
 
 
 Checks if unicode string is normalized using normalization form specified.

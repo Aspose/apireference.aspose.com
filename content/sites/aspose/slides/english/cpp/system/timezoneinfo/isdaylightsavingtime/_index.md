@@ -1,5 +1,5 @@
 ---
-title: IsDaylightSavingTime
+title: IsDaylightSavingTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if specified date and time falls in range of daylight saving time.
 type: docs

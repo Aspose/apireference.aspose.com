@@ -1,12 +1,12 @@
 ---
-title: IsNaN
+title: IsNaN()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified value is Not-A-Number value.
 type: docs
 weight: 2341
 url: /cpp/system/isnan/
 ---
-## System::IsNaN function
+## System::IsNaN(const T\&) function
 
 
 Determines if the specified value is Not-A-Number value.

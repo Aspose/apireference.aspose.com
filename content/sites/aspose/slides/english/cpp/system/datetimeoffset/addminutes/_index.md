@@ -1,12 +1,12 @@
 ---
-title: AddMinutes
+title: AddMinutes()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a specified number of minutes to the DateTimeOffset object.
 type: docs
 weight: 300
 url: /cpp/system/datetimeoffset/addminutes/
 ---
-## DateTimeOffset::AddMinutes method
+## DateTimeOffset::AddMinutes(**double**) const method
 
 
 Adds a specified number of minutes to the [DateTimeOffset](../) object.

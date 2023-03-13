@@ -1,12 +1,12 @@
 ---
-title: get_Revision
+title: get_Revision()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the revision number.
 type: docs
 weight: 53
 url: /cpp/system/version/get_revision/
 ---
-## Version::get_Revision method
+## Version::get_Revision() const method
 
 
 Returns the revision number.

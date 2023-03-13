@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents the name of the VBA project reference. Read System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.vba/vbareferenceoletypelib/get_name/
 ---
-## VbaReferenceOleTypeLib::get_Name method
+## VbaReferenceOleTypeLib::get_Name() method
 
 
 Represents the name of the VBA project reference. Read [System::String](../../../system/string/).

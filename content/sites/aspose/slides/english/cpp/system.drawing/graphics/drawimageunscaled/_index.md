@@ -1,5 +1,5 @@
 ---
-title: DrawImageUnscaled
+title: DrawImageUnscaled()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws the specified image using its original physical size at the specified location.
 type: docs

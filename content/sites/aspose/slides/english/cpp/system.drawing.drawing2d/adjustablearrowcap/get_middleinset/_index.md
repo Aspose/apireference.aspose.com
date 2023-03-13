@@ -1,12 +1,12 @@
 ---
-title: get_MiddleInset
+title: get_MiddleInset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the distance between the line and the cap represented by the current object.
 type: docs
 weight: 92
 url: /cpp/system.drawing.drawing2d/adjustablearrowcap/get_middleinset/
 ---
-## AdjustableArrowCap::get_MiddleInset method
+## AdjustableArrowCap::get_MiddleInset() const method
 
 
 Sets the distance between the line and the cap represented by the current object.

@@ -1,12 +1,12 @@
 ---
-title: set_Format
+title: set_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the format of the trend line. Write IFormat.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/itrendline/set_format/
 ---
-## ITrendline::set_Format method
+## ITrendline::set_Format([System::SharedPtr](../../../system/sharedptr/)\<[IFormat](../../iformat/)\>) method
 
 
 Represents the format of the trend line. Write [IFormat](../../iformat/).

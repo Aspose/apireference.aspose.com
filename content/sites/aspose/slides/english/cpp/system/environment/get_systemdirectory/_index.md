@@ -1,12 +1,12 @@
 ---
-title: get_SystemDirectory
+title: get_SystemDirectory()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the path to the system directory.
 type: docs
 weight: 144
 url: /cpp/system/environment/get_systemdirectory/
 ---
-## Environment::get_SystemDirectory method
+## Environment::get_SystemDirectory() method
 
 
 Returns the path to the system directory.

@@ -1,12 +1,12 @@
 ---
-title: set_Height
+title: set_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the height of the image in pixels.
 type: docs
 weight: 40
 url: /cpp/system.drawing.imaging/bitmapdata/set_height/
 ---
-## BitmapData::set_Height method
+## BitmapData::set_Height(int) method
 
 
 Sets the height of the image in pixels.

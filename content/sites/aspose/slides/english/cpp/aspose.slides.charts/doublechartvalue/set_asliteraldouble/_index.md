@@ -1,12 +1,12 @@
 ---
-title: set_AsLiteralDouble
+title: set_AsLiteralDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets value as literal double. Write double.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/doublechartvalue/set_asliteraldouble/
 ---
-## DoubleChartValue::set_AsLiteralDouble method
+## DoubleChartValue::set_AsLiteralDouble(**double**) method
 
 
 Sets value as literal double. Write **double**.

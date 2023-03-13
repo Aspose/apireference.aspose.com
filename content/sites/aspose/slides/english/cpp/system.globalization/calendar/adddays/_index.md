@@ -1,12 +1,12 @@
 ---
-title: AddDays
+title: AddDays()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds days to time point.
 type: docs
 weight: 79
 url: /cpp/system.globalization/calendar/adddays/
 ---
-## Calendar::AddDays method
+## Calendar::AddDays([DateTime](../../../system/datetime/), int) const method
 
 
 Adds days to time point.

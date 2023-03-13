@@ -1,12 +1,12 @@
 ---
-title: ContainsValue
+title: ContainsValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if value is present in dictionary. Uses operator == to compare values.
 type: docs
 weight: 157
 url: /cpp/system.collections.generic/basedictionary/containsvalue/
 ---
-## BaseDictionary::ContainsValue method
+## BaseDictionary::ContainsValue(const mapped_t\&) method
 
 
 Checks if value is present in dictionary. Uses operator == to compare values.

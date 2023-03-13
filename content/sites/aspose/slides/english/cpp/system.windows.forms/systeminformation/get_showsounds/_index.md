@@ -1,12 +1,12 @@
 ---
-title: get_ShowSounds
+title: get_ShowSounds()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1041
 url: /cpp/system.windows.forms/systeminformation/get_showsounds/
 ---
-## SystemInformation::get_ShowSounds method
+## SystemInformation::get_ShowSounds() method
 
 
 NOT IMPLEMENTED.

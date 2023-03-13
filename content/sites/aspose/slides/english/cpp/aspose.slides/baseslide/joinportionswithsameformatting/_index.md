@@ -1,5 +1,5 @@
 ---
-title: JoinPortionsWithSameFormatting
+title: JoinPortionsWithSameFormatting()
 second_title: Aspose.Slides for C++ API Reference
 description: Joins runs with same formatting in all paragraphs all acceptable shapes.
 type: docs

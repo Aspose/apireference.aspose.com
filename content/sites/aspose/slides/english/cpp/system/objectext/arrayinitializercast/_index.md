@@ -1,12 +1,12 @@
 ---
-title: ArrayInitializerCast
+title: ArrayInitializerCast()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts array fundamental values (which C# does implicitly but C++ apparently does not).
 type: docs
 weight: 209
 url: /cpp/system/objectext/arrayinitializercast/
 ---
-## ObjectExt::ArrayInitializerCast method
+## ObjectExt::ArrayInitializerCast(From ...) method
 
 
 Converts array fundamental values (which C# does implicitly but C++ apparently does not).

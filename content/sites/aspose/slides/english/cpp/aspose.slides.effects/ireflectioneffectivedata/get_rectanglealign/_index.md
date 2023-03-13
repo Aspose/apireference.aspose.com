@@ -1,12 +1,12 @@
 ---
-title: get_RectangleAlign
+title: get_RectangleAlign()
 second_title: Aspose.Slides for C++ API Reference
 description: Rectangle alignment. Read-only RectangleAlignment.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/ireflectioneffectivedata/get_rectanglealign/
 ---
-## IReflectionEffectiveData::get_RectangleAlign method
+## IReflectionEffectiveData::get_RectangleAlign() method
 
 
 Rectangle alignment. Read-only [RectangleAlignment](../../../aspose.slides/rectanglealignment/).

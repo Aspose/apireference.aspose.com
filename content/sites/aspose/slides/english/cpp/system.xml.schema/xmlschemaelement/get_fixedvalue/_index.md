@@ -1,12 +1,12 @@
 ---
-title: get_FixedValue
+title: get_FixedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the fixed value.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemaelement/get_fixedvalue/
 ---
-## XmlSchemaElement::get_FixedValue method
+## XmlSchemaElement::get_FixedValue() method
 
 
 Returns the fixed value.

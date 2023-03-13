@@ -1,12 +1,12 @@
 ---
-title: get_WrapMode
+title: get_WrapMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the wrap mode.
 type: docs
 weight: 14
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_wrapmode/
 ---
-## PathGradientBrush::get_WrapMode method
+## PathGradientBrush::get_WrapMode() const method
 
 
 Returns the wrap mode.

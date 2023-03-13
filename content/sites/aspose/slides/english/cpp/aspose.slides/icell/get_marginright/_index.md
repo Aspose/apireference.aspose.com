@@ -1,12 +1,12 @@
 ---
-title: get_MarginRight
+title: get_MarginRight()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the right margin in a TextFrame. Read double.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/icell/get_marginright/
 ---
-## ICell::get_MarginRight method
+## ICell::get_MarginRight() method
 
 
 Returns the right margin in a [TextFrame](../../textframe/). Read **double**.

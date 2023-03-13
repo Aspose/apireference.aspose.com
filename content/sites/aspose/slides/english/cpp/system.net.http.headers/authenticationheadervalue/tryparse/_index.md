@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Trying to convert a passed string to an instance of the AuthenticationHeaderValue class.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/authenticationheadervalue/tryparse/
 ---
-## AuthenticationHeaderValue::TryParse method
+## AuthenticationHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[AuthenticationHeaderValue](../)\>\&) method
 
 
 Trying to convert a passed string to an instance of the [AuthenticationHeaderValue](../) class.

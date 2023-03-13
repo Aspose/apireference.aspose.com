@@ -1,12 +1,12 @@
 ---
-title: HMACSHA1
+title: HMACSHA1()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/hmacsha1/hmacsha1/
 ---
-## HMACSHA1::HMACSHA1 constructor
+## HMACSHA1::HMACSHA1(const [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) constructor
 
 
 Constructor.

@@ -1,12 +1,12 @@
 ---
-title: get_IsAbstract
+title: get_IsAbstract()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns information to indicate if the element can be used in an instance document.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaelement/get_isabstract/
 ---
-## XmlSchemaElement::get_IsAbstract method
+## XmlSchemaElement::get_IsAbstract() method
 
 
 Returns information to indicate if the element can be used in an instance document.

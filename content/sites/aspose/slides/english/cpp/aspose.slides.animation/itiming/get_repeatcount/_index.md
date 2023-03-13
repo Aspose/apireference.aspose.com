@@ -1,12 +1,12 @@
 ---
-title: get_RepeatCount
+title: get_RepeatCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the number of times the effect should repeat. Read float.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/itiming/get_repeatcount/
 ---
-## ITiming::get_RepeatCount method
+## ITiming::get_RepeatCount() method
 
 
 Describes the number of times the effect should repeat. Read **float**.

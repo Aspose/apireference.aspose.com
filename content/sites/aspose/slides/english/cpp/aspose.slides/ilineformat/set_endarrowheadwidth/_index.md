@@ -1,12 +1,12 @@
 ---
-title: set_EndArrowheadWidth
+title: set_EndArrowheadWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the arrowhead width at the end of a line. Write LineArrowheadWidth.
 type: docs
 weight: 339
 url: /cpp/aspose.slides/ilineformat/set_endarrowheadwidth/
 ---
-## ILineFormat::set_EndArrowheadWidth method
+## ILineFormat::set_EndArrowheadWidth([LineArrowheadWidth](../../linearrowheadwidth/)) method
 
 
 Sets the arrowhead width at the end of a line. Write [LineArrowheadWidth](../../linearrowheadwidth/).

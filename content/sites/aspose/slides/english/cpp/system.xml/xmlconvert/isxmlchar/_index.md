@@ -1,12 +1,12 @@
 ---
-title: IsXmlChar
+title: IsXmlChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the passed-in character is a valid XML character.
 type: docs
 weight: 170
 url: /cpp/system.xml/xmlconvert/isxmlchar/
 ---
-## XmlConvert::IsXmlChar method
+## XmlConvert::IsXmlChar(char16_t) method
 
 
 Checks if the passed-in character is a valid XML character.

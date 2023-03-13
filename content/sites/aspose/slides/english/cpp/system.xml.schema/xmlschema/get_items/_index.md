@@ -1,12 +1,12 @@
 ---
-title: get_Items
+title: get_Items()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of schema elements in the schema and is used to add new element types at the schema element level.
 type: docs
 weight: 170
 url: /cpp/system.xml.schema/xmlschema/get_items/
 ---
-## XmlSchema::get_Items method
+## XmlSchema::get_Items() method
 
 
 Returns the collection of schema elements in the schema and is used to add new element types at the **schema** element level.

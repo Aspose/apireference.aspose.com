@@ -1,12 +1,12 @@
 ---
-title: Truncate
+title: Truncate()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a Rectangle object from the specified RectangleF object by truncating the RectangleF object's location and size values to the next lower integer values.
 type: docs
 weight: 404
 url: /cpp/system.drawing/rectangle/truncate/
 ---
-## Rectangle::Truncate method
+## Rectangle::Truncate(const [RectangleF](../../rectanglef/)\&) method
 
 
 Constructs a [Rectangle](../) object from the specified [RectangleF](../../rectanglef/) object by truncating the [RectangleF](../../rectanglef/) object's location and size values to the next lower integer values.

@@ -1,12 +1,12 @@
 ---
-title: ConvertFromUtf32
+title: ConvertFromUtf32()
 second_title: Aspose.Slides for C++ API Reference
 description: "Converts UTF-32 code unit into an instance of System::String class."
 type: docs
 weight: 274
 url: /cpp/system/char/convertfromutf32/
 ---
-## Char::ConvertFromUtf32 method
+## Char::ConvertFromUtf32(**uint32_t**) method
 
 
 Converts UTF-32 code unit into an instance of [System::String](../../string/) class.

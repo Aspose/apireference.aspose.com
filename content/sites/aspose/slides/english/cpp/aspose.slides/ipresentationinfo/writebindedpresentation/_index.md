@@ -1,5 +1,5 @@
 ---
-title: WriteBindedPresentation
+title: WriteBindedPresentation()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes binded presentation to stream.
 type: docs

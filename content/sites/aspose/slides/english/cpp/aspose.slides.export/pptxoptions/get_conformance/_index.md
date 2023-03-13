@@ -1,12 +1,12 @@
 ---
-title: get_Conformance
+title: get_Conformance()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the conformance class to which the Presentation document conforms. Default value is Aspose::Slides::Export::Conformance::Ecma376_2006"
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/pptxoptions/get_conformance/
 ---
-## PptxOptions::get_Conformance method
+## PptxOptions::get_Conformance() method
 
 
 Specifies the conformance class to which the [Presentation](../../../aspose.slides/presentation/) document conforms. Default value is [Aspose::Slides::Export::Conformance::Ecma376_2006](../../conformance/)

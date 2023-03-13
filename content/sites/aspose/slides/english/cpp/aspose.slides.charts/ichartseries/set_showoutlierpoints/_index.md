@@ -1,12 +1,12 @@
 ---
-title: set_ShowOutlierPoints
+title: set_ShowOutlierPoints()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents outlier points. True if outlier points are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Write bool.
 type: docs
 weight: 469
 url: /cpp/aspose.slides.charts/ichartseries/set_showoutlierpoints/
 ---
-## IChartSeries::set_ShowOutlierPoints method
+## IChartSeries::set_ShowOutlierPoints(**bool**) method
 
 
 Represents outlier points. True if outlier points are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Write **bool**.

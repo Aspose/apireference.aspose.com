@@ -1,5 +1,5 @@
 ---
-title: AddFromPdf
+title: AddFromPdf()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates slides from the PDF document and adds them to the end of the collection.
 type: docs

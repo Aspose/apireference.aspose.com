@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes all elements.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/basedictionary/clear/
 ---
-## BaseDictionary::Clear method
+## BaseDictionary::Clear() method
 
 
 Deletes all elements.

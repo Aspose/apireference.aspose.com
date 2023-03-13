@@ -1,12 +1,12 @@
 ---
-title: get_HyperlinkMouseOver
+title: get_HyperlinkMouseOver()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the hyperlink defined for mouse over. Read IHyperlink.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/portionformat/get_hyperlinkmouseover/
 ---
-## PortionFormat::get_HyperlinkMouseOver method
+## PortionFormat::get_HyperlinkMouseOver() method
 
 
 Returns the hyperlink defined for mouse over. Read [IHyperlink](../../ihyperlink/).

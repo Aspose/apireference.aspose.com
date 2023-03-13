@@ -1,12 +1,12 @@
 ---
-title: get_SignTime
+title: get_SignTime()
 second_title: Aspose.Slides for C++ API Reference
 description: "The time when the document was signed. Read-only System::DateTime."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/idigitalsignature/get_signtime/
 ---
-## IDigitalSignature::get_SignTime method
+## IDigitalSignature::get_SignTime() method
 
 
 The time when the document was signed. Read-only [System::DateTime](../../../system/datetime/).

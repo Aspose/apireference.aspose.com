@@ -1,5 +1,5 @@
 ---
-title: Send
+title: Send()
 second_title: Aspose.Slides for C++ API Reference
 description: Sends a UDP datagram to the host at the remote end point.
 type: docs

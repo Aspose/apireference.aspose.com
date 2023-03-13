@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the element at the given index.
 type: docs
 weight: 456
 url: /cpp/aspose.slides.charts/chartdatapointcollection/removeat/
 ---
-## ChartDataPointCollection::RemoveAt method
+## ChartDataPointCollection::RemoveAt(**int32_t**) method
 
 
 Removes the element at the given index.

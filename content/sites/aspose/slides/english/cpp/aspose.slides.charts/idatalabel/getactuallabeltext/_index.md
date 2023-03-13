@@ -1,12 +1,12 @@
 ---
-title: GetActualLabelText
+title: GetActualLabelText()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns actual label text based on DataLabelFormat settings or TextFrameForOverriding.Text value.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/idatalabel/getactuallabeltext/
 ---
-## IDataLabel::GetActualLabelText method
+## IDataLabel::GetActualLabelText() method
 
 
 Returns actual label text based on [DataLabelFormat](../../datalabelformat/) settings or TextFrameForOverriding.Text value.

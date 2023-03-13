@@ -1,12 +1,12 @@
 ---
-title: set_Credentials
+title: set_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets credentials for authentication on the proxy server.
 type: docs
 weight: 14
 url: /cpp/system.net/iwebproxy/set_credentials/
 ---
-## IWebProxy::set_Credentials method
+## IWebProxy::set_Credentials([System::SharedPtr](../../../system/sharedptr/)\<[ICredentials](../../icredentials/)\>) method
 
 
 Sets credentials for authentication on the proxy server.

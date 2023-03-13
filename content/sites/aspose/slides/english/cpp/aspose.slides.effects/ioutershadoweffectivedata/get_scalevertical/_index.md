@@ -1,12 +1,12 @@
 ---
-title: get_ScaleVertical
+title: get_ScaleVertical()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the vertical scaling factor, negative scaling causes a flip. Read-only double.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.effects/ioutershadoweffectivedata/get_scalevertical/
 ---
-## IOuterShadowEffectiveData::get_ScaleVertical method
+## IOuterShadowEffectiveData::get_ScaleVertical() method
 
 
 Specifies the vertical scaling factor, negative scaling causes a flip. Read-only **double**.

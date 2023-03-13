@@ -1,12 +1,12 @@
 ---
-title: get_OverrideTheme
+title: get_OverrideTheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the overriding theme object. Read IMasterTheme.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.theme/imasterthememanager/get_overridetheme/
 ---
-## IMasterThemeManager::get_OverrideTheme method
+## IMasterThemeManager::get_OverrideTheme() method
 
 
 Returns the overriding theme object. Read [IMasterTheme](../../imastertheme/).

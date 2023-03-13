@@ -1,12 +1,12 @@
 ---
-title: NotifyDefault
+title: NotifyDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Makes control default or non-default.
 type: docs
 weight: 27
 url: /cpp/system.windows.forms/ibuttoncontrol/notifydefault/
 ---
-## IButtonControl::NotifyDefault method
+## IButtonControl::NotifyDefault(**bool**) method
 
 
 Makes control default or non-default.

@@ -1,12 +1,12 @@
 ---
-title: get_To
+title: get_To()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes the ending value for the animation. Read float.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/rotationeffect/get_to/
 ---
-## RotationEffect::get_To method
+## RotationEffect::get_To() method
 
 
 Describes the ending value for the animation. Read **float**.

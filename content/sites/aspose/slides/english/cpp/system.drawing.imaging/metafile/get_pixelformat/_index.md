@@ -1,12 +1,12 @@
 ---
-title: get_PixelFormat
+title: get_PixelFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value the indicates the pixel format.
 type: docs
 weight: 105
 url: /cpp/system.drawing.imaging/metafile/get_pixelformat/
 ---
-## Metafile::get_PixelFormat method
+## Metafile::get_PixelFormat() const method
 
 
 Returns a value the indicates the pixel format.

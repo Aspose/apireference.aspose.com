@@ -1,12 +1,12 @@
 ---
-title: BrowsedByIndividual
+title: BrowsedByIndividual()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the BrowsedByIndividual class.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/browsedbyindividual/browsedbyindividual/
 ---
-## BrowsedByIndividual::BrowsedByIndividual constructor
+## BrowsedByIndividual::BrowsedByIndividual() constructor
 
 
 Initializes a new instance of the [BrowsedByIndividual](../) class.

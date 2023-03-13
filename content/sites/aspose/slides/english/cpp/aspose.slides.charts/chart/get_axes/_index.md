@@ -1,12 +1,12 @@
 ---
-title: get_Axes
+title: get_Axes()
 second_title: Aspose.Slides for C++ API Reference
 description: Provide access to chart axes. Read-only IAxesManager.
 type: docs
 weight: 339
 url: /cpp/aspose.slides.charts/chart/get_axes/
 ---
-## Chart::get_Axes method
+## Chart::get_Axes() method
 
 
 Provide access to chart axes. Read-only [IAxesManager](../../iaxesmanager/).

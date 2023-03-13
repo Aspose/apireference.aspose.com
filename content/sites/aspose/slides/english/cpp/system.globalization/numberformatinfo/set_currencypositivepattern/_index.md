@@ -1,12 +1,12 @@
 ---
-title: set_CurrencyPositivePattern
+title: set_CurrencyPositivePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets currency positive pattern.
 type: docs
 weight: 391
 url: /cpp/system.globalization/numberformatinfo/set_currencypositivepattern/
 ---
-## NumberFormatInfo::set_CurrencyPositivePattern method
+## NumberFormatInfo::set_CurrencyPositivePattern(int) method
 
 
 Sets currency positive pattern.

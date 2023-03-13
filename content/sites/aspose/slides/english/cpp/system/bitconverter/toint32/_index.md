@@ -1,5 +1,5 @@
 ---
-title: ToInt32
+title: ToInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts four bytes from the specified array starting at the specified index to 32-bit integer value.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_DefaultCredentials
+title: get_DefaultCredentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the system credentials of the application.
 type: docs
 weight: 1
 url: /cpp/system.net/credentialcache/get_defaultcredentials/
 ---
-## CredentialCache::get_DefaultCredentials method
+## CredentialCache::get_DefaultCredentials() method
 
 
 Returns the system credentials of the application.

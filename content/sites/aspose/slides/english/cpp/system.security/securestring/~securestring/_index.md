@@ -1,12 +1,12 @@
 ---
-title: ~SecureString
+title: ~SecureString()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.security/securestring/~securestring/
 ---
-## SecureString::~SecureString method
+## SecureString::~SecureString() method
 
 
 Destructor.

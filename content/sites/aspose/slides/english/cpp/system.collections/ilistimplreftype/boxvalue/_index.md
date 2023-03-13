@@ -1,12 +1,12 @@
 ---
-title: BoxValue
+title: BoxValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Converting type reference into object value into object.
 type: docs
 weight: 157
 url: /cpp/system.collections/ilistimplreftype/boxvalue/
 ---
-## IListImplRefType::BoxValue method
+## IListImplRefType::BoxValue([System::SharedPtr](../../../system/sharedptr/)\<T\>) method
 
 
 Converting type reference into object value into object.

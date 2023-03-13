@@ -1,5 +1,5 @@
 ---
-title: NotNullAreEqual
+title: NotNullAreEqual()
 second_title: Aspose.Slides for C++ API Reference
 description: Equal-compares dictionaries of value types.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_Value1
+title: set_Value1()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines second value of offset. Write float.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/coloroffset/set_value1/
 ---
-## ColorOffset::set_Value1 method
+## ColorOffset::set_Value1(**float**) method
 
 
 Defines second value of offset. Write **float**.

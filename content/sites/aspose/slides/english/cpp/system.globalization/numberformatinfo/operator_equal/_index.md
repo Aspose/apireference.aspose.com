@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 755
 url: /cpp/system.globalization/numberformatinfo/operator_equal/
 ---
-## NumberFormatInfo::operator= method
+## NumberFormatInfo::operator=(const [NumberFormatInfo](../)\&) method
 
 
 

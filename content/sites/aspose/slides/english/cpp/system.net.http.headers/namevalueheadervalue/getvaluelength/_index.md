@@ -1,12 +1,12 @@
 ---
-title: GetValueLength
+title: GetValueLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the length of a value from the specified index.
 type: docs
 weight: 157
 url: /cpp/system.net.http.headers/namevalueheadervalue/getvaluelength/
 ---
-## NameValueHeaderValue::GetValueLength method
+## NameValueHeaderValue::GetValueLength([String](../../../system/string/), **int32_t**) method
 
 
 Returns the length of a value from the specified index.

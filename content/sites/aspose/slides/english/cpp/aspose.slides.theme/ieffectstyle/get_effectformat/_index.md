@@ -1,12 +1,12 @@
 ---
-title: get_EffectFormat
+title: get_EffectFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an effect format. Read-only IEffectFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/ieffectstyle/get_effectformat/
 ---
-## IEffectStyle::get_EffectFormat method
+## IEffectStyle::get_EffectFormat() method
 
 
 Returns an effect format. Read-only [IEffectFormat](../../../aspose.slides/ieffectformat/).

@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the value of a cell. Read System::Object."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/ichartdatacell/get_value/
 ---
-## IChartDataCell::get_Value method
+## IChartDataCell::get_Value() method
 
 
 Gets the value of a cell. Read [System::Object](../../../system/object/).

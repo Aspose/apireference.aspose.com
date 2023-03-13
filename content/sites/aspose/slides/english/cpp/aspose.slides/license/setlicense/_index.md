@@ -1,5 +1,5 @@
 ---
-title: SetLicense
+title: SetLicense()
 second_title: Aspose.Slides for C++ API Reference
 description: Licenses the component.
 type: docs

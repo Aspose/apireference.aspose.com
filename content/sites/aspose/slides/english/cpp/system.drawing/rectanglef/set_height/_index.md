@@ -1,12 +1,12 @@
 ---
-title: set_Height
+title: set_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the height of the rectangle represented by the current object.
 type: docs
 weight: 157
 url: /cpp/system.drawing/rectanglef/set_height/
 ---
-## RectangleF::set_Height method
+## RectangleF::set_Height(**float**) method
 
 
 Sets the height of the rectangle represented by the current object.

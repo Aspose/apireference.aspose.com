@@ -1,12 +1,12 @@
 ---
-title: rbegin
+title: rbegin()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns reverse iterator to the last character (if any) of actual string buffer.
 type: docs
 weight: 66
 url: /cpp/system/string/rbegin/
 ---
-## String::rbegin method
+## String::rbegin() const method
 
 
 Returns reverse iterator to the last character (if any) of actual string buffer.

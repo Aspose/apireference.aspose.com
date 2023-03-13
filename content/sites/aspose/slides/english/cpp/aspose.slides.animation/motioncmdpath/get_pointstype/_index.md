@@ -1,12 +1,12 @@
 ---
-title: get_PointsType
+title: get_PointsType()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies command points type Read MotionPathPointsType.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/motioncmdpath/get_pointstype/
 ---
-## MotionCmdPath::get_PointsType method
+## MotionCmdPath::get_PointsType() method
 
 
 Specifies command points type Read [MotionPathPointsType](../../motionpathpointstype/).

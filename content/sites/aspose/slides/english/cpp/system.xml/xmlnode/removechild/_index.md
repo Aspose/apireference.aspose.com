@@ -1,12 +1,12 @@
 ---
-title: RemoveChild
+title: RemoveChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes specified child node.
 type: docs
 weight: 417
 url: /cpp/system.xml/xmlnode/removechild/
 ---
-## XmlNode::RemoveChild method
+## XmlNode::RemoveChild([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../)\>) method
 
 
 Removes specified child node.

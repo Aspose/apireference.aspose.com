@@ -1,7 +1,7 @@
 ---
 title: IDataSourceTypeForErrorBarsCustomValues
 second_title: Aspose.Slides for C++ API Reference
-description: Specifies types of values in ChartDataPoint.ErrorBarsCustomValues properties list.
+description: Specifies types of values in ChartDataPoint.ErrorBarsCustomValues properties list
 type: docs
 weight: 976
 url: /cpp/aspose.slides.charts/idatasourcetypeforerrorbarscustomvalues/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/idatasourcetypeforerrorbarscustomvalues/
 ## IDataSourceTypeForErrorBarsCustomValues class
 
 
-Specifies types of values in ChartDataPoint.ErrorBarsCustomValues properties list.
+Specifies types of values in ChartDataPoint.ErrorBarsCustomValues properties list
 
 ```cpp
 class IDataSourceTypeForErrorBarsCustomValues : public System::Object

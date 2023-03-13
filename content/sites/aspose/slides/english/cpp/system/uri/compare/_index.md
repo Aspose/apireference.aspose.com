@@ -1,12 +1,12 @@
 ---
-title: Compare
+title: Compare()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares the specified Uri objects using the specified comparison rules.
 type: docs
 weight: 521
 url: /cpp/system/uri/compare/
 ---
-## Uri::Compare method
+## Uri::Compare(const [SharedPtr](../../sharedptr/)\<[Uri](../)\>\&, const [SharedPtr](../../sharedptr/)\<[Uri](../)\>\&, [UriComponents](../../uricomponents/), [UriFormat](../../uriformat/), [StringComparison](../../stringcomparison/)) method
 
 
 Compares the specified [Uri](../) objects using the specified comparison rules.

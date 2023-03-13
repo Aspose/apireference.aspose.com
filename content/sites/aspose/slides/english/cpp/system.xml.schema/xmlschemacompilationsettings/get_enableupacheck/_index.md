@@ -1,12 +1,12 @@
 ---
-title: get_EnableUpaCheck
+title: get_EnableUpaCheck()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the XmlSchemaSet should check for Unique Particle Attribution (UPA) violations.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemacompilationsettings/get_enableupacheck/
 ---
-## XmlSchemaCompilationSettings::get_EnableUpaCheck method
+## XmlSchemaCompilationSettings::get_EnableUpaCheck() method
 
 
 Returns a value indicating whether the [XmlSchemaSet](../../xmlschemaset/) should check for Unique Particle Attribution (UPA) violations.

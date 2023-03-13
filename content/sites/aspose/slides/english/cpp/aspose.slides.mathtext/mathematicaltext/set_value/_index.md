@@ -1,15 +1,15 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
-description: Text value.
+description: Text value
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathematicaltext/set_value/
 ---
-## MathematicalText::set_Value method
+## MathematicalText::set_Value([System::String](../../../system/string/)) method
 
 
-Text value.
+Text value
 
 ```cpp
 void Aspose::Slides::MathText::MathematicalText::set_Value(System::String value) override

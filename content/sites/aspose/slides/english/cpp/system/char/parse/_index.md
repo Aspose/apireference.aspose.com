@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the first and the only character of the specified string to a char_t value.
 type: docs
 weight: 326
 url: /cpp/system/char/parse/
 ---
-## Char::Parse method
+## Char::Parse(const [String](../../string/)\&) method
 
 
 Converts the first and the only character of the specified string to a char_t value.

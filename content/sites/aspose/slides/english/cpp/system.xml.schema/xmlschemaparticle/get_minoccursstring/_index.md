@@ -1,12 +1,12 @@
 ---
-title: get_MinOccursString
+title: get_MinOccursString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number as a string value. The minimum number of times the particle can occur.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaparticle/get_minoccursstring/
 ---
-## XmlSchemaParticle::get_MinOccursString method
+## XmlSchemaParticle::get_MinOccursString() method
 
 
 Returns the number as a string value. The minimum number of times the particle can occur.

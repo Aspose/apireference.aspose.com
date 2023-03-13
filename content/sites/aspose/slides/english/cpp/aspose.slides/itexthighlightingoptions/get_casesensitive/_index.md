@@ -1,12 +1,12 @@
 ---
-title: get_CaseSensitive
+title: get_CaseSensitive()
 second_title: Aspose.Slides for C++ API Reference
 description: Set true to use case-sensitive search, false - otherwise. Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/itexthighlightingoptions/get_casesensitive/
 ---
-## ITextHighlightingOptions::get_CaseSensitive method
+## ITextHighlightingOptions::get_CaseSensitive() method
 
 
 Set true to use case-sensitive search, false - otherwise. Read **bool**.

@@ -1,5 +1,5 @@
 ---
-title: IsNull
+title: IsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks that the represented value is nullptr.
 type: docs

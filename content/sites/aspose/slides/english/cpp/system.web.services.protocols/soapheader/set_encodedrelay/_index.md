@@ -1,12 +1,12 @@
 ---
-title: set_EncodedRelay
+title: set_EncodedRelay()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a string representation of the 'relay' attribute value.
 type: docs
 weight: 144
 url: /cpp/system.web.services.protocols/soapheader/set_encodedrelay/
 ---
-## SoapHeader::set_EncodedRelay method
+## SoapHeader::set_EncodedRelay([String](../../../system/string/)) method
 
 
 Sets a string representation of the 'relay' attribute value.

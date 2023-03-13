@@ -1,12 +1,12 @@
 ---
-title: set_LastPrinted
+title: set_LastPrinted()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the date when a presentation was printed last time. Write System::DateTime."
 type: docs
 weight: 417
 url: /cpp/aspose.slides/idocumentproperties/set_lastprinted/
 ---
-## IDocumentProperties::set_LastPrinted method
+## IDocumentProperties::set_LastPrinted([System::DateTime](../../../system/datetime/)) method
 
 
 Returns the date when a presentation was printed last time. Write [System::DateTime](../../../system/datetime/).

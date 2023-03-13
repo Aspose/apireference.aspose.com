@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds two specified Decimal values.
 type: docs
 weight: 560
 url: /cpp/system/decimal/add/
 ---
-## Decimal::Add method
+## Decimal::Add(const [Decimal](../)\&, const [Decimal](../)\&) method
 
 
 Adds two specified [Decimal](../) values.

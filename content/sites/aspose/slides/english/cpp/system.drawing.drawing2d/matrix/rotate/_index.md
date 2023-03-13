@@ -1,5 +1,5 @@
 ---
-title: Rotate
+title: Rotate()
 second_title: Aspose.Slides for C++ API Reference
 description: Rotates the matrix represented by the current object clockwise by the specified angle.
 type: docs

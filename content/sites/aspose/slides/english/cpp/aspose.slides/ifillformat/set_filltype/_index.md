@@ -1,12 +1,12 @@
 ---
-title: set_FillType
+title: set_FillType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the type of filling. Write Slides::FillType."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ifillformat/set_filltype/
 ---
-## IFillFormat::set_FillType method
+## IFillFormat::set_FillType([Aspose::Slides::FillType](../../filltype/)) method
 
 
 Sets the type of filling. Write [Slides::FillType](../../filltype/).

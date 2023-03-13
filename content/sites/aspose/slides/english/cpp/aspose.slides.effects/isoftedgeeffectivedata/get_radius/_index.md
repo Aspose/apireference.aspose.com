@@ -1,12 +1,12 @@
 ---
-title: get_Radius
+title: get_Radius()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the radius of blur to apply to the edges. Read-only double.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/isoftedgeeffectivedata/get_radius/
 ---
-## ISoftEdgeEffectiveData::get_Radius method
+## ISoftEdgeEffectiveData::get_Radius() method
 
 
 Specifies the radius of blur to apply to the edges. Read-only **double**.

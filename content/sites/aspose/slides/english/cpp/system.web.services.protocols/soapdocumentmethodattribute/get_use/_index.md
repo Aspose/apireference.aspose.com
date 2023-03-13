@@ -1,12 +1,12 @@
 ---
-title: get_Use
+title: get_Use()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that determines the message encoding method.
 type: docs
 weight: 209
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/get_use/
 ---
-## SoapDocumentMethodAttribute::get_Use method
+## SoapDocumentMethodAttribute::get_Use() method
 
 
 Gets a value that determines the message encoding method.

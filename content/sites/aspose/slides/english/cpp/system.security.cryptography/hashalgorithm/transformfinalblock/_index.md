@@ -1,12 +1,12 @@
 ---
-title: TransformFinalBlock
+title: TransformFinalBlock()
 second_title: Aspose.Slides for C++ API Reference
 description: Processes last block of data and calculates hash.
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography/hashalgorithm/transformfinalblock/
 ---
-## HashAlgorithm::TransformFinalBlock method
+## HashAlgorithm::TransformFinalBlock([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int, int) method
 
 
 Processes last block of data and calculates hash.

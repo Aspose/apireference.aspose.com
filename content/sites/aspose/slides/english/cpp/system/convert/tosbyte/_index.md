@@ -1,5 +1,5 @@
 ---
-title: ToSByte
+title: ToSByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified boolean value to an equivalent 8-bit signed integer.
 type: docs

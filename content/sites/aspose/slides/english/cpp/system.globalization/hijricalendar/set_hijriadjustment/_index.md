@@ -1,12 +1,12 @@
 ---
-title: set_HijriAdjustment
+title: set_HijriAdjustment()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets hijri adjustment.
 type: docs
 weight: 27
 url: /cpp/system.globalization/hijricalendar/set_hijriadjustment/
 ---
-## HijriCalendar::set_HijriAdjustment method
+## HijriCalendar::set_HijriAdjustment(int) method
 
 
 Sets hijri adjustment.

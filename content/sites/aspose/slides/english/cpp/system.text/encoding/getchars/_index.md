@@ -1,5 +1,5 @@
 ---
-title: GetChars
+title: GetChars()
 second_title: Aspose.Slides for C++ API Reference
 description: Get the characters that result from decoding a byte buffer.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: virtualizeEndConstIterator
+title: virtualizeEndConstIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the implementation of end const iterator for the current container.
 type: docs
 weight: 209
 url: /cpp/system.net/cookiecollection/virtualizeendconstiterator/
 ---
-## CookieCollection::virtualizeEndConstIterator method
+## CookieCollection::virtualizeEndConstIterator() const method
 
 
 Gets the implementation of end const iterator for the current container.

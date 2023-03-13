@@ -1,12 +1,12 @@
 ---
-title: BoxedValueType
+title: BoxedValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: Provides unique TypeInfo structure for BoxedValue type to be shared by multiple Boxed* classes.
 type: docs
 weight: 14
 url: /cpp/system/typeinfo/boxedvaluetype/
 ---
-## TypeInfo::BoxedValueType method
+## TypeInfo::BoxedValueType() method
 
 
 Provides unique [TypeInfo](../) structure for **BoxedValue** type to be shared by multiple Boxed* classes.

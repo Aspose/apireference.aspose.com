@@ -1,7 +1,7 @@
 ---
 title: IMathRadicalFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create math radical.
+description: Allows to create math radical
 type: docs
 weight: 508
 url: /cpp/aspose.slides.mathtext/imathradicalfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathradicalfactory/
 ## IMathRadicalFactory class
 
 
-Allows to create math radical.
+Allows to create math radical
 
 ```cpp
 class IMathRadicalFactory : public System::Object
@@ -19,7 +19,7 @@ class IMathRadicalFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathRadical](../imathradical/)\> [CreateMathRadical](./createmathradical/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates a math radical. |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathRadical](../imathradical/)\> [CreateMathRadical](./createmathradical/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates a math radical |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

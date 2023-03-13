@@ -1,12 +1,12 @@
 ---
-title: set_ConnectionGroupName
+title: set_ConnectionGroupName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the connection group.
 type: docs
 weight: 404
 url: /cpp/system.net/webrequest/set_connectiongroupname/
 ---
-## WebRequest::set_ConnectionGroupName method
+## WebRequest::set_ConnectionGroupName([System::String](../../../system/string/)) method
 
 
 Sets the name of the connection group.

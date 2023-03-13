@@ -1,12 +1,12 @@
 ---
-title: get_DodgerBlue
+title: get_DodgerBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF1E90FF.
 type: docs
 weight: 547
 url: /cpp/system.drawing/pens/get_dodgerblue/
 ---
-## Pens::get_DodgerBlue method
+## Pens::get_DodgerBlue() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF1E90FF.

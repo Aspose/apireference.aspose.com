@@ -1,12 +1,12 @@
 ---
-title: get_Eras
+title: get_Eras()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets list of eras existing in calendar.
 type: docs
 weight: 53
 url: /cpp/system.globalization/persiancalendar/get_eras/
 ---
-## PersianCalendar::get_Eras method
+## PersianCalendar::get_Eras() const method
 
 
 Gets list of eras existing in calendar.

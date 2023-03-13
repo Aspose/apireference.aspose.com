@@ -1,5 +1,5 @@
 ---
-title: Hyperlink
+title: Hyperlink()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an instance of a hyperlink.
 type: docs

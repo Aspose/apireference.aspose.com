@@ -1,12 +1,12 @@
 ---
-title: get_NaNSymbol
+title: get_NaNSymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets Not-a-Number symbol.
 type: docs
 weight: 404
 url: /cpp/system.globalization/numberformatinfo/get_nansymbol/
 ---
-## NumberFormatInfo::get_NaNSymbol method
+## NumberFormatInfo::get_NaNSymbol() const method
 
 
 Gets Not-a-Number symbol.

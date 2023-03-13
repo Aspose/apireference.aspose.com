@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies all elements from the collection into the specified array.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/tagcollection/copyto/
 ---
-## TagCollection::CopyTo method
+## TagCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::Collections::Generic::KeyValuePair](../../../system.collections.generic/keyvaluepair/)\<[System::String](../../../system/string/), [System::String](../../../system/string/)\>\>, **int32_t**) method
 
 
 Copies all elements from the collection into the specified array.

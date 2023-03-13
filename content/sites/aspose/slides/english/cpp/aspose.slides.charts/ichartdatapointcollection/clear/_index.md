@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all elements from the collection.
 type: docs
 weight: 365
 url: /cpp/aspose.slides.charts/ichartdatapointcollection/clear/
 ---
-## IChartDataPointCollection::Clear method
+## IChartDataPointCollection::Clear() method
 
 
 Removes all elements from the collection.

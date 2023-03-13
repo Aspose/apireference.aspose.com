@@ -1,12 +1,12 @@
 ---
-title: IsNameToken
+title: IsNameToken()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether or not the string argument is a valid XML name token.
 type: docs
 weight: 1002
 url: /cpp/system.xml/xmlreader/isnametoken/
 ---
-## XmlReader::IsNameToken method
+## XmlReader::IsNameToken(const [String](../../../system/string/)\&) method
 
 
 Returns a value indicating whether or not the string argument is a valid XML name token.

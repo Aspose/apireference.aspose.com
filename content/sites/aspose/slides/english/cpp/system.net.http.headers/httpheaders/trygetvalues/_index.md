@@ -1,12 +1,12 @@
 ---
-title: TryGetValues
+title: TryGetValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to get corresponding values by the specified name.
 type: docs
 weight: 66
 url: /cpp/system.net.http.headers/httpheaders/trygetvalues/
 ---
-## HttpHeaders::TryGetValues method
+## HttpHeaders::TryGetValues([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<[String](../../../system/string/)\>\>\&) method
 
 
 Tries to get corresponding values by the specified name.

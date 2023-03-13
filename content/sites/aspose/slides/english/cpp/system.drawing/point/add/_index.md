@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the width and height values of the specified Size object to the X and Y coordinates values of the specified Point object correspondingly.
 type: docs
 weight: 183
 url: /cpp/system.drawing/point/add/
 ---
-## Point::Add method
+## Point::Add(const [Point](../)\&, const [Size](../../size/)\&) method
 
 
 Adds the width and height values of the specified [Size](../../size/) object to the X and Y coordinates values of the specified [Point](../) object correspondingly.

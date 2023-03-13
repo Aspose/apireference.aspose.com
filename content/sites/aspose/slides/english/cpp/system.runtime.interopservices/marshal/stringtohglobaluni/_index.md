@@ -1,12 +1,12 @@
 ---
-title: StringToHGlobalUni
+title: StringToHGlobalUni()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies the contents of a specified string into unmanaged memory.
 type: docs
 weight: 209
 url: /cpp/system.runtime.interopservices/marshal/stringtohglobaluni/
 ---
-## Marshal::StringToHGlobalUni method
+## Marshal::StringToHGlobalUni(const [String](../../../system/string/)\&) method
 
 
 Copies the contents of a specified string into unmanaged memory.

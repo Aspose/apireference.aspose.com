@@ -1,5 +1,5 @@
 ---
-title: get_TextAnimation
+title: get_TextAnimation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns text animation at the specified index.
 type: docs

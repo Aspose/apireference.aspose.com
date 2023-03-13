@@ -25,7 +25,7 @@ class FrameTickEventArgs : public System::Object
 | static **bool** [Equals](../../system/object/equals/)(**float** const\&, **float** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
-| [System::SharedPtr](../../system/sharedptr/)\<[PresentationPlayer](../presentationplayer/)\> [get_Player](./get_player/)() | Get the presentation player. |
+| [System::SharedPtr](../../system/sharedptr/)\<[PresentationPlayer](../presentationplayer/)\> [get_Player](./get_player/)() | Get the presentation player |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | [System::SharedPtr](../../system/sharedptr/)\<[System::Drawing::Bitmap](../../system.drawing/bitmap/)\> [GetFrame](./getframe/)() | Get the current [PresentationPlayer](../presentationplayer/) frame. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |

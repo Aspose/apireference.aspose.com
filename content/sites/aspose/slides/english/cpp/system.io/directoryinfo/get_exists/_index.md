@@ -1,12 +1,12 @@
 ---
-title: get_Exists
+title: get_Exists()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the path represented by the current object refers to existing directory.
 type: docs
 weight: 14
 url: /cpp/system.io/directoryinfo/get_exists/
 ---
-## DirectoryInfo::get_Exists method
+## DirectoryInfo::get_Exists() method
 
 
 Determines if the path represented by the current object refers to existing directory.

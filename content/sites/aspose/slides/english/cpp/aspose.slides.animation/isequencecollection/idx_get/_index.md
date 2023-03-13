@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a sequense at the specified index.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/isequencecollection/idx_get/
 ---
-## ISequenceCollection::idx_get method
+## ISequenceCollection::idx_get(**int32_t**) method
 
 
 Returns a sequense at the specified index.

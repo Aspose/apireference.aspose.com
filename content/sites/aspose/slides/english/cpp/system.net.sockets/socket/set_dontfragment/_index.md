@@ -1,12 +1,12 @@
 ---
-title: set_DontFragment
+title: set_DontFragment()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the socket allows IP datagrams to be fragmented.
 type: docs
 weight: 391
 url: /cpp/system.net.sockets/socket/set_dontfragment/
 ---
-## Socket::set_DontFragment method
+## Socket::set_DontFragment(**bool**) method
 
 
 Sets a value that indicates if the socket allows IP datagrams to be fragmented.

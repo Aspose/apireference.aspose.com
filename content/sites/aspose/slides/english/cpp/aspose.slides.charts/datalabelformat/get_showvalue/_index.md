@@ -1,12 +1,12 @@
 ---
-title: get_ShowValue
+title: get_ShowValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a specified chart's data label percentage value display behavior. True displays the percentage value. False to hide. Read bool.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/datalabelformat/get_showvalue/
 ---
-## DataLabelFormat::get_ShowValue method
+## DataLabelFormat::get_ShowValue() method
 
 
 Represents a specified chart's data label percentage value display behavior. True displays the percentage value. False to hide. Read **bool**.

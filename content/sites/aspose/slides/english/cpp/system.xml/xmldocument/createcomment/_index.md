@@ -1,12 +1,12 @@
 ---
-title: CreateComment
+title: CreateComment()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlComment containing the specified data.
 type: docs
 weight: 300
 url: /cpp/system.xml/xmldocument/createcomment/
 ---
-## XmlDocument::CreateComment method
+## XmlDocument::CreateComment(const [String](../../../system/string/)\&) method
 
 
 Creates an [XmlComment](../../xmlcomment/) containing the specified data.

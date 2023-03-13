@@ -1,12 +1,12 @@
 ---
-title: get_Expired
+title: get_Expired()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the cookie expired.
 type: docs
 weight: 157
 url: /cpp/system.net/cookie/get_expired/
 ---
-## Cookie::get_Expired method
+## Cookie::get_Expired() method
 
 
 Gets a value that indicates if the cookie expired.

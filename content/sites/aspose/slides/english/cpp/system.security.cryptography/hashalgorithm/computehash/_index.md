@@ -1,5 +1,5 @@
 ---
-title: ComputeHash
+title: ComputeHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Hashes buffer.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_PageUnit
+title: get_PageUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns measurement units used for page coordinates on the surface represented by the current object.
 type: docs
 weight: 196
 url: /cpp/system.drawing/graphics/get_pageunit/
 ---
-## Graphics::get_PageUnit method
+## Graphics::get_PageUnit() const method
 
 
 Returns measurement units used for page coordinates on the surface represented by the current object.

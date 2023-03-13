@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns IChartDataCell object for defined level.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ichartcategorylevelsmanager/idx_get/
 ---
-## IChartCategoryLevelsManager::idx_get method
+## IChartCategoryLevelsManager::idx_get(**int32_t**) method
 
 
 Returns [IChartDataCell](../../ichartdatacell/) object for defined level.

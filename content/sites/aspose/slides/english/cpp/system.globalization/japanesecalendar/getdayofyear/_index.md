@@ -1,12 +1,12 @@
 ---
-title: GetDayOfYear
+title: GetDayOfYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets day of year for the specified time point.
 type: docs
 weight: 105
 url: /cpp/system.globalization/japanesecalendar/getdayofyear/
 ---
-## JapaneseCalendar::GetDayOfYear method
+## JapaneseCalendar::GetDayOfYear([DateTime](../../../system/datetime/)) const method
 
 
 Gets day of year for the specified time point.

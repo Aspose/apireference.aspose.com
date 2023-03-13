@@ -1,12 +1,12 @@
 ---
-title: ValidateEndOfAttributes
+title: ValidateEndOfAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Verifies whether all the required attributes in the element context are present and prepares the XmlSchemaValidator object to validate the child content of the element.
 type: docs
 weight: 170
 url: /cpp/system.xml.schema/xmlschemavalidator/validateendofattributes/
 ---
-## XmlSchemaValidator::ValidateEndOfAttributes method
+## XmlSchemaValidator::ValidateEndOfAttributes(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaInfo](../../xmlschemainfo/)\>\&) method
 
 
 Verifies whether all the required attributes in the element context are present and prepares the [XmlSchemaValidator](../) object to validate the child content of the element.

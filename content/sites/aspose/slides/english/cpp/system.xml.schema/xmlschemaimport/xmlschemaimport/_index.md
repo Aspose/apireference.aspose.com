@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaImport
+title: XmlSchemaImport()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaImport class.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaimport/xmlschemaimport/
 ---
-## XmlSchemaImport::XmlSchemaImport constructor
+## XmlSchemaImport::XmlSchemaImport() constructor
 
 
 Initializes a new instance of the [XmlSchemaImport](../) class.

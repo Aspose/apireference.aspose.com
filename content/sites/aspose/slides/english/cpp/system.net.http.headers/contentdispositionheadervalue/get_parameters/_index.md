@@ -1,12 +1,12 @@
 ---
-title: get_Parameters
+title: get_Parameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a parameters collection of the 'Content-Disposition' header.
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_parameters/
 ---
-## ContentDispositionHeaderValue::get_Parameters method
+## ContentDispositionHeaderValue::get_Parameters() method
 
 
 Returns a parameters collection of the 'Content-Disposition' header.

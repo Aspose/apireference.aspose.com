@@ -1,5 +1,5 @@
 ---
-title: XmlQualifiedName
+title: XmlQualifiedName()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlQualifiedName class.
 type: docs

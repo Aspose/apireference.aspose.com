@@ -1,12 +1,12 @@
 ---
-title: get_Occurrence
+title: get_Occurrence()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the XmlSchemaInference::InferenceOption value that affects schema occurrence declarations inferred from the XML document."
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemainference/get_occurrence/
 ---
-## XmlSchemaInference::get_Occurrence method
+## XmlSchemaInference::get_Occurrence() method
 
 
 Returns the [XmlSchemaInference::InferenceOption](../inferenceoption/) value that affects schema occurrence declarations inferred from the XML document.

@@ -1,12 +1,12 @@
 ---
-title: set_RefName
+title: set_RefName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the referenced attributeGroup element.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaattributegroupref/set_refname/
 ---
-## XmlSchemaAttributeGroupRef::set_RefName method
+## XmlSchemaAttributeGroupRef::set_RefName(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
 
 
 Sets the name of the referenced **attributeGroup** element.

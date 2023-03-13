@@ -1,12 +1,12 @@
 ---
-title: get_SchemaType
+title: get_SchemaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a schema type object.
 type: docs
 weight: 287
 url: /cpp/system.xml/xmlvalidatingreader/get_schematype/
 ---
-## XmlValidatingReader::get_SchemaType method
+## XmlValidatingReader::get_SchemaType() method
 
 
 Returns a schema type object.

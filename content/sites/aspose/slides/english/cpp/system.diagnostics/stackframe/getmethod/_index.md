@@ -1,12 +1,12 @@
 ---
-title: GetMethod
+title: GetMethod()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets method information.
 type: docs
 weight: 40
 url: /cpp/system.diagnostics/stackframe/getmethod/
 ---
-## StackFrame::GetMethod method
+## StackFrame::GetMethod() method
 
 
 Gets method information.

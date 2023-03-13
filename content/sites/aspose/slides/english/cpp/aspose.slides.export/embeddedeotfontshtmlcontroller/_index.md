@@ -1,7 +1,7 @@
 ---
 title: EmbeddedEotFontsHtmlController
 second_title: Aspose.Slides for C++ API Reference
-description: The formatting controller class to use for fonts embedding in EOT format.
+description: The formatting controller class to use for fonts embedding in EOT format
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/embeddedeotfontshtmlcontroller/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.export/embeddedeotfontshtmlcontroller/
 ## EmbeddedEotFontsHtmlController class
 
 
-The formatting controller class to use for fonts embedding in EOT format.
+The formatting controller class to use for fonts embedding in EOT format
 
 ```cpp
 class EmbeddedEotFontsHtmlController : public Aspose::Slides::Export::IEmbeddedEotFontsHtmlController

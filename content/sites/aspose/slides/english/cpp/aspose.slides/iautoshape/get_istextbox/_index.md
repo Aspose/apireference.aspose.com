@@ -1,12 +1,12 @@
 ---
-title: get_IsTextBox
+title: get_IsTextBox()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies if the shape is a text box.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/iautoshape/get_istextbox/
 ---
-## IAutoShape::get_IsTextBox method
+## IAutoShape::get_IsTextBox() method
 
 
 Specifies if the shape is a text box.

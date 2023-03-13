@@ -1,12 +1,12 @@
 ---
-title: get_Mode
+title: get_Mode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets mode of cryptographic operation.
 type: docs
 weight: 131
 url: /cpp/system.security.cryptography/symmetricalgorithm/get_mode/
 ---
-## SymmetricAlgorithm::get_Mode method
+## SymmetricAlgorithm::get_Mode() method
 
 
 Gets mode of cryptographic operation.

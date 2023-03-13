@@ -1,12 +1,12 @@
 ---
-title: FromStream
+title: FromStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an Image object from the specified stream.
 type: docs
 weight: 339
 url: /cpp/system.drawing/image/fromstream/
 ---
-## Image::FromStream method
+## Image::FromStream(const [SharedPtr](../../../system/sharedptr/)\<[System::IO::Stream](../../../system.io/stream/)\>\&, **bool**, **bool**) method
 
 
 Creates an [Image](../) object from the specified stream.

@@ -1,15 +1,15 @@
 ---
-title: Overbar
+title: Overbar()
 second_title: Aspose.Slides for C++ API Reference
-description: Sets a bar on the top of this element.
+description: Sets a bar on the top of this element
 type: docs
 weight: 209
 url: /cpp/aspose.slides.mathtext/mathelementbase/overbar/
 ---
-## MathElementBase::Overbar method
+## MathElementBase::Overbar() method
 
 
-Sets a bar on the top of this element.
+Sets a bar on the top of this element
 
 ```cpp
 System::SharedPtr<IMathBar> Aspose::Slides::MathText::MathElementBase::Overbar() override

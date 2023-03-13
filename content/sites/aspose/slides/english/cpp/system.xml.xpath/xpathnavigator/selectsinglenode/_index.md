@@ -1,5 +1,5 @@
 ---
-title: SelectSingleNode
+title: SelectSingleNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Selects a single node in the XPathNavigator using the specified XPath query.
 type: docs

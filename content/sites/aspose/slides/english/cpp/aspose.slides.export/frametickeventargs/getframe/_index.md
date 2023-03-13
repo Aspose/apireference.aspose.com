@@ -1,12 +1,12 @@
 ---
-title: GetFrame
+title: GetFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Get the current PresentationPlayer frame.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/frametickeventargs/getframe/
 ---
-## FrameTickEventArgs::GetFrame method
+## FrameTickEventArgs::GetFrame() method
 
 
 Get the current [PresentationPlayer](../../presentationplayer/) frame.

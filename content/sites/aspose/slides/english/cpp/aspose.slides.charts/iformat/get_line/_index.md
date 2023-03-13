@@ -1,12 +1,12 @@
 ---
-title: get_Line
+title: get_Line()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns line style properties of a chart. Read-only ILineFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/iformat/get_line/
 ---
-## IFormat::get_Line method
+## IFormat::get_Line() method
 
 
 Returns line style properties of a chart. Read-only [ILineFormat](../../../aspose.slides/ilineformat/).

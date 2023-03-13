@@ -1,12 +1,12 @@
 ---
-title: set_ParentComment
+title: set_ParentComment()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets parent comment. Write IComment.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/icomment/set_parentcomment/
 ---
-## IComment::set_ParentComment method
+## IComment::set_ParentComment([System::SharedPtr](../../../system/sharedptr/)\<[IComment](../)\>) method
 
 
 Sets parent comment. Write [IComment](../).

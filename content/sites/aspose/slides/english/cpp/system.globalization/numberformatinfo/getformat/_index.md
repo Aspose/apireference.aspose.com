@@ -1,12 +1,12 @@
 ---
-title: GetFormat
+title: GetFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets formatter of specific type.
 type: docs
 weight: 742
 url: /cpp/system.globalization/numberformatinfo/getformat/
 ---
-## NumberFormatInfo::GetFormat method
+## NumberFormatInfo::GetFormat(const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Gets formatter of specific type.

@@ -1,12 +1,12 @@
 ---
-title: CryptoStream
+title: CryptoStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/cryptostream/cryptostream/
 ---
-## CryptoStream::CryptoStream constructor
+## CryptoStream::CryptoStream(const [SharedPtr](../../../system/sharedptr/)\<[System::IO::Stream](../../../system.io/stream/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[ICryptoTransform](../../icryptotransform/)\>\&, [CryptoStreamMode](../../cryptostreammode/)) constructor
 
 
 Constructor.

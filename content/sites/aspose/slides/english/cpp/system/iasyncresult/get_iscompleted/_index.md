@@ -1,12 +1,12 @@
 ---
-title: get_IsCompleted
+title: get_IsCompleted()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates whether the asynchronous operation has completed.
 type: docs
 weight: 27
 url: /cpp/system/iasyncresult/get_iscompleted/
 ---
-## IAsyncResult::get_IsCompleted method
+## IAsyncResult::get_IsCompleted() method
 
 
 Returns a value that indicates whether the asynchronous operation has completed.

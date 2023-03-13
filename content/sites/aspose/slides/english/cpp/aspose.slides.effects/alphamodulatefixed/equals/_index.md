@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified AlphaModulateFixed is equal to the current AlphaModulateFixed.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/alphamodulatefixed/equals/
 ---
-## AlphaModulateFixed::Equals method
+## AlphaModulateFixed::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [AlphaModulateFixed](../) is equal to the current [AlphaModulateFixed](../).

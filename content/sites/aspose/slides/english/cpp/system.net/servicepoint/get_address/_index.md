@@ -1,12 +1,12 @@
 ---
-title: get_Address
+title: get_Address()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the server URI to which the current instance connects.
 type: docs
 weight: 53
 url: /cpp/system.net/servicepoint/get_address/
 ---
-## ServicePoint::get_Address method
+## ServicePoint::get_Address() method
 
 
 Returns the server URI to which the current instance connects.

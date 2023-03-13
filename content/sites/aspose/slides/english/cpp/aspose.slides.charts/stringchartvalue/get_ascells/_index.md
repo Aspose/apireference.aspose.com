@@ -1,12 +1,12 @@
 ---
-title: get_AsCells
+title: get_AsCells()
 second_title: Aspose.Slides for C++ API Reference
 description: Null value assigning is not allowed. Returning value always is not null. Read IChartCellCollection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/stringchartvalue/get_ascells/
 ---
-## StringChartValue::get_AsCells method
+## StringChartValue::get_AsCells() method
 
 
 Null value assigning is not allowed. Returning value always is not null. Read [IChartCellCollection](../../ichartcellcollection/).

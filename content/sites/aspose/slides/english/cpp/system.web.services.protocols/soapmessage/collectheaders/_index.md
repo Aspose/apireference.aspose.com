@@ -1,12 +1,12 @@
 ---
-title: CollectHeaders
+title: CollectHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the internal collection of the SOAP headers.
 type: docs
 weight: 326
 url: /cpp/system.web.services.protocols/soapmessage/collectheaders/
 ---
-## SoapMessage::CollectHeaders method
+## SoapMessage::CollectHeaders([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>, [System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<SoapHeaderMapping\>\>, [SoapHeaderDirection](../../soapheaderdirection/)) method
 
 
 Sets the internal collection of the SOAP headers.

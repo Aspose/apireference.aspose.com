@@ -1,12 +1,12 @@
 ---
-title: AppendChar
+title: AppendChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Appends a character to the end of the string.
 type: docs
 weight: 53
 url: /cpp/system.security/securestring/appendchar/
 ---
-## SecureString::AppendChar method
+## SecureString::AppendChar(char16_t) method
 
 
 Appends a character to the end of the string.

@@ -1,5 +1,5 @@
 ---
-title: CreateSignature
+title: CreateSignature()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the siguature for the specified data.
 type: docs

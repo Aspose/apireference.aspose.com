@@ -1,12 +1,12 @@
 ---
-title: ReplaceChild
+title: ReplaceChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces the child node oldChild with newChild node.
 type: docs
 weight: 404
 url: /cpp/system.xml/xmlnode/replacechild/
 ---
-## XmlNode::ReplaceChild method
+## XmlNode::ReplaceChild([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../)\>, [SharedPtr](../../../system/sharedptr/)\<[XmlNode](../)\>) method
 
 
 Replaces the child node **oldChild** with **newChild** node.

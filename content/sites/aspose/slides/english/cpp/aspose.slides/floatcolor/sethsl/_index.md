@@ -1,12 +1,12 @@
 ---
-title: SetHSL
+title: SetHSL()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/aspose.slides/floatcolor/sethsl/
 ---
-## FloatColor::SetHSL method
+## FloatColor::SetHSL(**float**, **float**, **float**) method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Does nothing.
 type: docs
 weight: 1
 url: /cpp/system/idisposable/dispose/
 ---
-## IDisposable::Dispose method
+## IDisposable::Dispose() method
 
 
 Does nothing.

@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Does nothing.
 type: docs
 weight: 14
 url: /cpp/system.net.http/httpmessagehandler/dispose/
 ---
-## HttpMessageHandler::Dispose method
+## HttpMessageHandler::Dispose() method
 
 
 Does nothing.

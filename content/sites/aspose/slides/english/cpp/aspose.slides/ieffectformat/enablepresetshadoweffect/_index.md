@@ -1,12 +1,12 @@
 ---
-title: EnablePresetShadowEffect
+title: EnablePresetShadowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Enables preset shadows effect.
 type: docs
 weight: 287
 url: /cpp/aspose.slides/ieffectformat/enablepresetshadoweffect/
 ---
-## IEffectFormat::EnablePresetShadowEffect method
+## IEffectFormat::EnablePresetShadowEffect() method
 
 
 Enables preset shadows effect.

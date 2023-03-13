@@ -1,12 +1,12 @@
 ---
-title: ValueAs
+title: ValueAs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the validated XML element or attribute's value as the type specified using the IXmlNamespaceResolver object specified to resolve namespace prefixes.
 type: docs
 weight: 144
 url: /cpp/system.xml.schema/xmlatomicvalue/valueas/
 ---
-## XmlAtomicValue::ValueAs method
+## XmlAtomicValue::ValueAs(const [TypeInfo](../../../system/typeinfo/)\&, [SharedPtr](../../../system/sharedptr/)\<[IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)\>) method
 
 
 Returns the validated XML element or attribute's value as the type specified using the [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/) object specified to resolve namespace prefixes.

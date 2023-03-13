@@ -1,12 +1,12 @@
 ---
-title: set_NumberNegativePattern
+title: set_NumberNegativePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets number negative pattern.
 type: docs
 weight: 521
 url: /cpp/system.globalization/numberformatinfo/set_numbernegativepattern/
 ---
-## NumberFormatInfo::set_NumberNegativePattern method
+## NumberFormatInfo::set_NumberNegativePattern(int) method
 
 
 Sets number negative pattern.

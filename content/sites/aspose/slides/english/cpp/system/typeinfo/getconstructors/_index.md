@@ -1,5 +1,5 @@
 ---
-title: GetConstructors
+title: GetConstructors()
 second_title: Aspose.Slides for C++ API Reference
 description: searches for the constructors defined for the current Type, using the specified BindingFlags.
 type: docs

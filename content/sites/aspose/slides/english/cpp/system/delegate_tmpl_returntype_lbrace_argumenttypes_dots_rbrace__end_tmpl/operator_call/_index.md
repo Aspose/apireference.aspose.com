@@ -1,12 +1,12 @@
 ---
-title: operator()
+title: operator()()
 second_title: Aspose.Slides for C++ API Reference
 description: Invokes a function, method or a function object that is pointed to by current delegate object.
 type: docs
 weight: 27
 url: /cpp/system/delegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/operator_call/
 ---
-## Delegate< ReturnType(ArgumentTypes...)>::operator() method
+## Delegate< ReturnType(ArgumentTypes...)>::operator()(ArgumentTypes...) method
 
 
 Invokes a function, method or a function object that is pointed to by current delegate object.

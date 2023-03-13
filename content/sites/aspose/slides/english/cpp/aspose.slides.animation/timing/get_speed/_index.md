@@ -1,12 +1,12 @@
 ---
-title: get_Speed
+title: get_Speed()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the percentage by which to speed up (or slow down) the timing. Read float.
 type: docs
-weight: 235
+weight: 261
 url: /cpp/aspose.slides.animation/timing/get_speed/
 ---
-## Timing::get_Speed method
+## Timing::get_Speed() method
 
 
 Specifies the percentage by which to speed up (or slow down) the timing. Read **float**.

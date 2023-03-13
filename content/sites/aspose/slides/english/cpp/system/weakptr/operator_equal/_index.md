@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: Assigns value to weak pointer. Calls into specific assignment operator of SmartPtr_.
 type: docs
 weight: 14
 url: /cpp/system/weakptr/operator_equal/
 ---
-## WeakPtr::operator= method
+## WeakPtr::operator=(Q\&&) method
 
 
 Assigns value to weak pointer. Calls into specific assignment operator of SmartPtr_.

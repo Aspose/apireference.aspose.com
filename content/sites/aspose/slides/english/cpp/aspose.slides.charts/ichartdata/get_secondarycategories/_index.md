@@ -1,12 +1,12 @@
 ---
-title: get_SecondaryCategories
+title: get_SecondaryCategories()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the secondary categories if IChartData::get_UseSecondaryCategories is true. Read-only IChartCategoryCollection."
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/ichartdata/get_secondarycategories/
 ---
-## IChartData::get_SecondaryCategories method
+## IChartData::get_SecondaryCategories() method
 
 
 Gets the secondary categories if [IChartData::get_UseSecondaryCategories](../get_usesecondarycategories/) is true. Read-only [IChartCategoryCollection](../../ichartcategorycollection/).

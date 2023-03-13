@@ -1,12 +1,12 @@
 ---
-title: FromLTRB
+title: FromLTRB()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new RectangleF object that represents a rectangle with the specified edge locations.
 type: docs
 weight: 365
 url: /cpp/system.drawing/rectanglef/fromltrb/
 ---
-## RectangleF::FromLTRB method
+## RectangleF::FromLTRB(**float**, **float**, **float**, **float**) method
 
 
 Constructs a new [RectangleF](../) object that represents a rectangle with the specified edge locations.

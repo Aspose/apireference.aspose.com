@@ -1,12 +1,12 @@
 ---
-title: GetTransferCodingLength
+title: GetTransferCodingLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified index to an instance of the TransferCodingHeaderValue class.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/transfercodingheadervalue/gettransfercodinglength/
 ---
-## TransferCodingHeaderValue::GetTransferCodingLength method
+## TransferCodingHeaderValue::GetTransferCodingLength([String](../../../system/string/), **int32_t**, const [HeaderFunc](../../headerfunc/)\<[System::SharedPtr](../../../system/sharedptr/)\<[TransferCodingHeaderValue](../)\>\>\&, [System::SharedPtr](../../../system/sharedptr/)\<[TransferCodingHeaderValue](../)\>\&) method
 
 
 Converts a passed string from the specified index to an instance of the [TransferCodingHeaderValue](../) class.

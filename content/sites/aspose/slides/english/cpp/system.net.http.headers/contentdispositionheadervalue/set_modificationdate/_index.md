@@ -1,12 +1,12 @@
 ---
-title: set_ModificationDate
+title: set_ModificationDate()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the file modification date.
 type: docs
 weight: 157
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_modificationdate/
 ---
-## ContentDispositionHeaderValue::set_ModificationDate method
+## ContentDispositionHeaderValue::set_ModificationDate([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
 
 
 Sets the file modification date.

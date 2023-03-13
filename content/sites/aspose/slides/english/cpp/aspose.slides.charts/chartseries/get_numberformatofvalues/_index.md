@@ -1,12 +1,12 @@
 ---
-title: get_NumberFormatOfValues
+title: get_NumberFormatOfValues()
 second_title: Aspose.Slides for C++ API Reference
 description: "NumberFormatOfValues. Read System::String."
 type: docs
 weight: 261
 url: /cpp/aspose.slides.charts/chartseries/get_numberformatofvalues/
 ---
-## ChartSeries::get_NumberFormatOfValues method
+## ChartSeries::get_NumberFormatOfValues() method
 
 
 NumberFormatOfValues. Read [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: get_Firebrick
+title: get_Firebrick()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFB22222.
 type: docs
 weight: 560
 url: /cpp/system.drawing/pens/get_firebrick/
 ---
-## Pens::get_Firebrick method
+## Pens::get_Firebrick() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFB22222.

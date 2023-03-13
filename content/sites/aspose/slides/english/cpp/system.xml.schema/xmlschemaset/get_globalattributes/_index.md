@@ -1,12 +1,12 @@
 ---
-title: get_GlobalAttributes
+title: get_GlobalAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns all the global attributes in all the XML Schema definition language (XSD) schemas in the XmlSchemaSet.
 type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemaset/get_globalattributes/
 ---
-## XmlSchemaSet::get_GlobalAttributes method
+## XmlSchemaSet::get_GlobalAttributes() method
 
 
 Returns all the global attributes in all the XML [Schema](../../) definition language (XSD) schemas in the [XmlSchemaSet](../).

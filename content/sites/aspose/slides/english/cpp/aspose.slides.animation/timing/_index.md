@@ -35,6 +35,7 @@ class Timing : public Aspose::Slides::Animation::ITiming,
 | **bool** [get_RepeatUntilEndSlide](./get_repeatuntilendslide/)() override | This attribute specifies if the effect will repeat until the end of the slide. Read **bool**. |
 | **bool** [get_RepeatUntilNextClick](./get_repeatuntilnextclick/)() override | This attribute specifies if the effect will repeat until the next click. Read **bool**. |
 | [EffectRestartType](../effectrestarttype/) [get_Restart](./get_restart/)() override | Specifies if a effect is to restart after complete. Read [EffectRestartType](../effectrestarttype/). |
+| **bool** [get_Rewind](./get_rewind/)() override | This attribute specifies if the effect will rewind when done playing. Read **bool**. |
 | **float** [get_Speed](./get_speed/)() override | Specifies the percentage by which to speed up (or slow down) the timing. Read **float**. |
 | **float** [get_TriggerDelayTime](./get_triggerdelaytime/)() override | Describes delay time after trigger. Read **float**. |
 | [EffectTriggerType](../effecttriggertype/) [get_TriggerType](./get_triggertype/)() override | Describes trigger type. Read [EffectTriggerType](../effecttriggertype/). |
@@ -62,6 +63,7 @@ class Timing : public Aspose::Slides::Animation::ITiming,
 | void [set_RepeatUntilEndSlide](./set_repeatuntilendslide/)(**bool**) override | This attribute specifies if the effect will repeat until the end of the slide. Write **bool**. |
 | void [set_RepeatUntilNextClick](./set_repeatuntilnextclick/)(**bool**) override | This attribute specifies if the effect will repeat until the next click. Write **bool**. |
 | void [set_Restart](./set_restart/)([EffectRestartType](../effectrestarttype/)) override | Specifies if a effect is to restart after complete. Write [EffectRestartType](../effectrestarttype/). |
+| void [set_Rewind](./set_rewind/)(**bool**) override | This attribute specifies if the effect will rewind when done playing. Write **bool**. |
 | void [set_Speed](./set_speed/)(**float**) override | Specifies the percentage by which to speed up (or slow down) the timing. Write **float**. |
 | void [set_TriggerDelayTime](./set_triggerdelaytime/)(**float**) override | Describes delay time after trigger. Write **float**. |
 | void [set_TriggerType](./set_triggertype/)([EffectTriggerType](../effecttriggertype/)) override | Describes trigger type. Write [EffectTriggerType](../effecttriggertype/). |

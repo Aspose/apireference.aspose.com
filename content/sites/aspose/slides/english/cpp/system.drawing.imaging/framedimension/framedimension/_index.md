@@ -1,12 +1,12 @@
 ---
-title: FrameDimension
+title: FrameDimension()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new FrameDimension object and initializes it with the specified GUID.
 type: docs
 weight: 1
 url: /cpp/system.drawing.imaging/framedimension/framedimension/
 ---
-## FrameDimension::FrameDimension constructor
+## FrameDimension::FrameDimension(const [System::Guid](../../../system/guid/)\&) constructor
 
 
 Constructs a new [FrameDimension](../) object and initializes it with the specified GUID.

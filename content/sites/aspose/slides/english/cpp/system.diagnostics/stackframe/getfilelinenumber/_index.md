@@ -1,12 +1,12 @@
 ---
-title: GetFileLineNumber
+title: GetFileLineNumber()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the line number.
 type: docs
 weight: 66
 url: /cpp/system.diagnostics/stackframe/getfilelinenumber/
 ---
-## StackFrame::GetFileLineNumber method
+## StackFrame::GetFileLineNumber() method
 
 
 Gets the line number.

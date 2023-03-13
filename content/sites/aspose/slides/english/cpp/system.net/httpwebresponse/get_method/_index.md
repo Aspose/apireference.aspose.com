@@ -1,12 +1,12 @@
 ---
-title: get_Method
+title: get_Method()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the HTTP method.
 type: docs
 weight: 53
 url: /cpp/system.net/httpwebresponse/get_method/
 ---
-## HttpWebResponse::get_Method method
+## HttpWebResponse::get_Method() method
 
 
 Returns the HTTP method.

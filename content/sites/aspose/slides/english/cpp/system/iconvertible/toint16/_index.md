@@ -1,12 +1,12 @@
 ---
-title: ToInt16
+title: ToInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value of this instance to an equivalent 16-bit signed integer using the specified culture-specific formatting information.
 type: docs
 weight: 66
 url: /cpp/system/iconvertible/toint16/
 ---
-## IConvertible::ToInt16 method
+## IConvertible::ToInt16([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to an equivalent 16-bit signed integer using the specified culture-specific formatting information.

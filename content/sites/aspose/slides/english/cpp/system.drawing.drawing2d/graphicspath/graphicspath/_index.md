@@ -1,5 +1,5 @@
 ---
-title: GraphicsPath
+title: GraphicsPath()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of GraphicsPath class with the specified fill mode.
 type: docs

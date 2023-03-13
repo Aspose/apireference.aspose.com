@@ -1,12 +1,12 @@
 ---
-title: CompareTo
+title: CompareTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares the current instance with another object of the same type.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/tab/compareto/
 ---
-## Tab::CompareTo method
+## Tab::CompareTo([System::SharedPtr](../../../system/sharedptr/)\<[ITab](../../itab/)\>) method
 
 
 Compares the current instance with another object of the same type.

@@ -1,12 +1,12 @@
 ---
-title: get_PositionMove
+title: get_PositionMove()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a moving this shape is forbidden. Read bool.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/iconnectorlock/get_positionmove/
 ---
-## IConnectorLock::get_PositionMove method
+## IConnectorLock::get_PositionMove() method
 
 
 Determines whether a moving this shape is forbidden. Read **bool**.

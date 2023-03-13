@@ -1,12 +1,12 @@
 ---
-title: get_Accent1
+title: get_Accent1()
 second_title: Aspose.Slides for C++ API Reference
 description: "First accent color in the scheme. Read-only System::Drawing::Color."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.theme/icolorschemeeffectivedata/get_accent1/
 ---
-## IColorSchemeEffectiveData::get_Accent1 method
+## IColorSchemeEffectiveData::get_Accent1() method
 
 
 First accent color in the scheme. Read-only [System::Drawing::Color](../../../system.drawing/color/).

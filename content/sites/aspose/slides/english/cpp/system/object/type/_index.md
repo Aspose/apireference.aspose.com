@@ -1,12 +1,12 @@
 ---
-title: Type
+title: Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements C# typeof(System.Object) construct.
 type: docs
 weight: 274
 url: /cpp/system/object/type/
 ---
-## Object::Type method
+## Object::Type() method
 
 
 Implements C# typeof([System.Object](../)) construct.

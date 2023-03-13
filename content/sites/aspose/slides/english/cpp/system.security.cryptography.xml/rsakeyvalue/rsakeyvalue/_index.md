@@ -1,5 +1,5 @@
 ---
-title: RSAKeyValue
+title: RSAKeyValue()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs

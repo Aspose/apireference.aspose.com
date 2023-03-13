@@ -1,12 +1,12 @@
 ---
-title: MeasureCharacterRanges
+title: MeasureCharacterRanges()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array of regions each of which bounds character positions in the specified string.
 type: docs
 weight: 508
 url: /cpp/system.drawing/graphics/measurecharacterranges/
 ---
-## Graphics::MeasureCharacterRanges method
+## Graphics::MeasureCharacterRanges(const [System::String](../../../system/string/)\&, const [SharedPtr](../../../system/sharedptr/)\<[Font](../../font/)\>\&, [RectangleF](../../rectanglef/), const [SharedPtr](../../../system/sharedptr/)\<[StringFormat](../../stringformat/)\>\&) method
 
 
 Returns an array of regions each of which bounds character positions in the specified string.

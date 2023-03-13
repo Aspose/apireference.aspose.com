@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes specific key from dictionary.
 type: docs
 weight: 131
 url: /cpp/system.collections.generic/basedictionary/remove/
 ---
-## BaseDictionary::Remove method
+## BaseDictionary::Remove(const key_t\&) method
 
 
 Removes specific key from dictionary.

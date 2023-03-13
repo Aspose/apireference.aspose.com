@@ -1,12 +1,12 @@
 ---
-title: Delimit
+title: Delimit()
 second_title: Aspose.Slides for C++ API Reference
 description: Delimits child elements with separator character (without the brackets)
 type: docs
 weight: 209
 url: /cpp/aspose.slides.mathtext/mathblock/delimit/
 ---
-## MathBlock::Delimit method
+## MathBlock::Delimit(char16_t) method
 
 
 Delimits child elements with separator character (without the brackets)

@@ -1,12 +1,12 @@
 ---
-title: get_BorderTop
+title: get_BorderTop()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a top border line properties object. Read-only ILineFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/icellformat/get_bordertop/
 ---
-## ICellFormat::get_BorderTop method
+## ICellFormat::get_BorderTop() method
 
 
 Returns a top border line properties object. Read-only [ILineFormat](../../ilineformat/).

@@ -1,12 +1,12 @@
 ---
-title: get_AnimateTransitions
+title: get_AnimateTransitions()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns transitions animation option. Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/html5options/get_animatetransitions/
 ---
-## Html5Options::get_AnimateTransitions method
+## Html5Options::get_AnimateTransitions() method
 
 
 Returns transitions animation option. Read **bool**.

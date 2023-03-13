@@ -1,12 +1,12 @@
 ---
-title: get_SaddleBrown
+title: get_SaddleBrown()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF8B4513.
 type: docs
 weight: 1509
 url: /cpp/system.drawing/brushes/get_saddlebrown/
 ---
-## Brushes::get_SaddleBrown method
+## Brushes::get_SaddleBrown() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF8B4513.

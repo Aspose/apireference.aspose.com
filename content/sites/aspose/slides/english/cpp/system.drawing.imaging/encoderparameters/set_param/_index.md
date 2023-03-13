@@ -1,12 +1,12 @@
 ---
-title: set_Param
+title: set_Param()
 second_title: Aspose.Slides for C++ API Reference
 description: Assigns an array of EncoderParameter objects to the current EncoderParameters object.
 type: docs
 weight: 27
 url: /cpp/system.drawing.imaging/encoderparameters/set_param/
 ---
-## EncoderParameters::set_Param method
+## EncoderParameters::set_Param(const [System::ArrayPtr](../../../system/arrayptr/)\<[EncoderParameterPtr](../../encoderparameterptr/)\>\&) method
 
 
 Assigns an array of [EncoderParameter](../../encoderparameter/) objects to the current [EncoderParameters](../) object.

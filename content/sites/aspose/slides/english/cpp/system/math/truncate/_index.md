@@ -1,5 +1,5 @@
 ---
-title: Truncate
+title: Truncate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Decimal object representing a value that has integral part equal to that of the value represented by the specified Decimal object of the with all fractional digits discarded.
 type: docs

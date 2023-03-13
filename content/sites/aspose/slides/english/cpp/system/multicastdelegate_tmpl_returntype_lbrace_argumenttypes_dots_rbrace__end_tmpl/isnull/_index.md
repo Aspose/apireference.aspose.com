@@ -1,12 +1,12 @@
 ---
-title: IsNull
+title: IsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the delegate collection is empty.
 type: docs
 weight: 53
 url: /cpp/system/multicastdelegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/isnull/
 ---
-## MulticastDelegate< ReturnType(ArgumentTypes...)>::IsNull method
+## MulticastDelegate< ReturnType(ArgumentTypes...)>::IsNull() const method
 
 
 Determines whether the delegate collection is empty.

@@ -1,12 +1,12 @@
 ---
-title: set_CrossType
+title: set_CrossType()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the CrossType on the specified axis where the other axis crosses. Write CrossesType.
 type: docs
 weight: 716
 url: /cpp/aspose.slides.charts/iaxis/set_crosstype/
 ---
-## IAxis::set_CrossType method
+## IAxis::set_CrossType([CrossesType](../../crossestype/)) method
 
 
 Represents the CrossType on the specified axis where the other axis crosses. Write [CrossesType](../../crossestype/).

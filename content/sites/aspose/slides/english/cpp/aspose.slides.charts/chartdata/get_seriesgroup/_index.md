@@ -1,5 +1,5 @@
 ---
-title: get_SeriesGroup
+title: get_SeriesGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs

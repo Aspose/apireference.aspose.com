@@ -1,12 +1,12 @@
 ---
-title: get_WindowText
+title: get_WindowText()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Color object that represents the color of the text in the client area of a window.
 type: docs
 weight: 417
 url: /cpp/system.drawing/systemcolors/get_windowtext/
 ---
-## SystemColors::get_WindowText method
+## SystemColors::get_WindowText() method
 
 
 Returns a [Color](../../color/) object that represents the color of the text in the client area of a window.

@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all shapes from the collection.
 type: docs
 weight: 521
 url: /cpp/aspose.slides/shapecollection/clear/
 ---
-## ShapeCollection::Clear method
+## ShapeCollection::Clear() method
 
 
 Removes all shapes from the collection.

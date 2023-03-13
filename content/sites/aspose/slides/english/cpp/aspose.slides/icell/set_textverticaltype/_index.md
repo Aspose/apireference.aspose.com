@@ -1,12 +1,12 @@
 ---
-title: set_TextVerticalType
+title: set_TextVerticalType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the type of vertical text. Write Slides::TextVerticalType."
 type: docs
 weight: 209
 url: /cpp/aspose.slides/icell/set_textverticaltype/
 ---
-## ICell::set_TextVerticalType method
+## ICell::set_TextVerticalType([Aspose::Slides::TextVerticalType](../../textverticaltype/)) method
 
 
 Sets the type of vertical text. Write [Slides::TextVerticalType](../../textverticaltype/).

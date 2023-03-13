@@ -1,5 +1,5 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether this instance is equal to a specified object.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_Credentials
+title: get_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets credentials for authentication on the proxy server.
 type: docs
 weight: 1
 url: /cpp/system.net/iwebproxy/get_credentials/
 ---
-## IWebProxy::get_Credentials method
+## IWebProxy::get_Credentials() method
 
 
 Gets credentials for authentication on the proxy server.

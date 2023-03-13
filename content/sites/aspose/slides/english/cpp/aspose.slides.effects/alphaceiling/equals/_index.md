@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified AlphaCeiling is equal to the current AlphaCeiling.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/alphaceiling/equals/
 ---
-## AlphaCeiling::Equals method
+## AlphaCeiling::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [AlphaCeiling](../) is equal to the current [AlphaCeiling](../).

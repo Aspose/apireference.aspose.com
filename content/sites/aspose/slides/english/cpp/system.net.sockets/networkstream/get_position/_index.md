@@ -1,12 +1,12 @@
 ---
-title: get_Position
+title: get_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current position of the stream.
 type: docs
 weight: 131
 url: /cpp/system.net.sockets/networkstream/get_position/
 ---
-## NetworkStream::get_Position method
+## NetworkStream::get_Position() const method
 
 
 Returns the current position of the stream.

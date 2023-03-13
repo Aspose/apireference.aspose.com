@@ -1,12 +1,12 @@
 ---
-title: set_CompilationSettings
+title: set_CompilationSettings()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlSchemaCompilationSettings for the XmlSchemaSet.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaset/set_compilationsettings/
 ---
-## XmlSchemaSet::set_CompilationSettings method
+## XmlSchemaSet::set_CompilationSettings(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaCompilationSettings](../../xmlschemacompilationsettings/)\>\&) method
 
 
 Sets the [XmlSchemaCompilationSettings](../../xmlschemacompilationsettings/) for the [XmlSchemaSet](../).

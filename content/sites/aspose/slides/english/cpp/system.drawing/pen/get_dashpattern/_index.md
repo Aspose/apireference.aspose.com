@@ -1,12 +1,12 @@
 ---
-title: get_DashPattern
+title: get_DashPattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array indicating custom dash pattern in a dashed line.
 type: docs
 weight: 248
 url: /cpp/system.drawing/pen/get_dashpattern/
 ---
-## Pen::get_DashPattern method
+## Pen::get_DashPattern() const method
 
 
 Returns an array indicating custom dash pattern in a dashed line.

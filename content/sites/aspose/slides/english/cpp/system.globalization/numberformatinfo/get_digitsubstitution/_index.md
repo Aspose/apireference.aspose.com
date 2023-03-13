@@ -1,12 +1,12 @@
 ---
-title: get_DigitSubstitution
+title: get_DigitSubstitution()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that specifies how to display shape of a digit.
 type: docs
 weight: 716
 url: /cpp/system.globalization/numberformatinfo/get_digitsubstitution/
 ---
-## NumberFormatInfo::get_DigitSubstitution method
+## NumberFormatInfo::get_DigitSubstitution() const method
 
 
 Gets a value that specifies how to display shape of a digit.

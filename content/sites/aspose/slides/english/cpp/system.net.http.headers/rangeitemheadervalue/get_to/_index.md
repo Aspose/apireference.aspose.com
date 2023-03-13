@@ -1,12 +1,12 @@
 ---
-title: get_To
+title: get_To()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a position at which data sending must stop.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/rangeitemheadervalue/get_to/
 ---
-## RangeItemHeaderValue::get_To method
+## RangeItemHeaderValue::get_To() method
 
 
 Returns a position at which data sending must stop.

@@ -1,12 +1,12 @@
 ---
-title: get_PropertyItems
+title: get_PropertyItems()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets all the property items(pieces of metadata) stored in this image.
 type: docs
 weight: 287
 url: /cpp/system.drawing/image/get_propertyitems/
 ---
-## Image::get_PropertyItems method
+## Image::get_PropertyItems() const method
 
 
 Gets all the property items(pieces of metadata) stored in this image.

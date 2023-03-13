@@ -1,12 +1,12 @@
 ---
-title: get_Trace
+title: get_Trace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the 'TRACE' HTTP method.
 type: docs
 weight: 79
 url: /cpp/system.net.http/httpmethod/get_trace/
 ---
-## HttpMethod::get_Trace method
+## HttpMethod::get_Trace() method
 
 
 Returns the 'TRACE' HTTP method.

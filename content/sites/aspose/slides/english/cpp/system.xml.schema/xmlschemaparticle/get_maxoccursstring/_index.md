@@ -1,12 +1,12 @@
 ---
-title: get_MaxOccursString
+title: get_MaxOccursString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number as a string value. Maximum number of times the particle can occur.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaparticle/get_maxoccursstring/
 ---
-## XmlSchemaParticle::get_MaxOccursString method
+## XmlSchemaParticle::get_MaxOccursString() method
 
 
 Returns the number as a string value. Maximum number of times the particle can occur.

@@ -1,12 +1,12 @@
 ---
-title: get_TitleStyle
+title: get_TitleStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the style of a title text. Read-only ITextStyle.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/masterslide/get_titlestyle/
 ---
-## MasterSlide::get_TitleStyle method
+## MasterSlide::get_TitleStyle() method
 
 
 Returns the style of a title text. Read-only [ITextStyle](../../itextstyle/).

@@ -1,12 +1,12 @@
 ---
-title: CloneNode
+title: CloneNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a duplicate of the node, when overridden in a derived class.
 type: docs
 weight: 456
 url: /cpp/system.xml/xmlnode/clonenode/
 ---
-## XmlNode::CloneNode method
+## XmlNode::CloneNode(**bool**) method
 
 
 Creates a duplicate of the node, when overridden in a derived class.

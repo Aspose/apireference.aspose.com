@@ -1,12 +1,12 @@
 ---
-title: GifOptions
+title: GifOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the GifOptions class.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.export/gifoptions/gifoptions/
 ---
-## GifOptions::GifOptions constructor
+## GifOptions::GifOptions() constructor
 
 
 Initializes a new instance of the [GifOptions](../) class.

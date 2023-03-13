@@ -1,12 +1,12 @@
 ---
-title: get_AttributeGroups
+title: get_AttributeGroups()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-schema-compilation value of all the global attribute groups in the schema.
 type: docs
 weight: 209
 url: /cpp/system.xml.schema/xmlschema/get_attributegroups/
 ---
-## XmlSchema::get_AttributeGroups method
+## XmlSchema::get_AttributeGroups() method
 
 
 Returns the post-schema-compilation value of all the global attribute groups in the schema.

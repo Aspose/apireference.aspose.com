@@ -1,12 +1,12 @@
 ---
-title: get_DocumentProperties
+title: get_DocumentProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns DocumentProperties object which contains standard and custom document properties. Read-only IDocumentProperties.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/ipresentation/get_documentproperties/
 ---
-## IPresentation::get_DocumentProperties method
+## IPresentation::get_DocumentProperties() method
 
 
 Returns [DocumentProperties](../../documentproperties/) object which contains standard and custom document properties. Read-only [IDocumentProperties](../../idocumentproperties/).

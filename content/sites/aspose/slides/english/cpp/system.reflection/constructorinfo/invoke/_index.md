@@ -1,12 +1,12 @@
 ---
-title: Invoke
+title: Invoke()
 second_title: Aspose.Slides for C++ API Reference
 description: Invokes the method or constructor represented by the current instance, using the specified parameters.
 type: docs
 weight: 40
 url: /cpp/system.reflection/constructorinfo/invoke/
 ---
-## ConstructorInfo::Invoke method
+## ConstructorInfo::Invoke(const [System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\>\&) method
 
 
 Invokes the method or constructor represented by the current instance, using the specified parameters.

@@ -1,12 +1,12 @@
 ---
-title: SetHashAlgorithm
+title: SetHashAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets hash algorithm to use.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/rsapkcs1signatureformatter/sethashalgorithm/
 ---
-## RSAPKCS1SignatureFormatter::SetHashAlgorithm method
+## RSAPKCS1SignatureFormatter::SetHashAlgorithm([System::String](../../../system/string/)) method
 
 
 Sets hash algorithm to use.

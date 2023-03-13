@@ -1,12 +1,12 @@
 ---
-title: set_XmlResolver
+title: set_XmlResolver()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the XmlResolver object used to resolve xs:import and xs:include elements as well as xsi:schemaLocation and xsi:noNamespaceSchemaLocation attributes."
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemavalidator/set_xmlresolver/
 ---
-## XmlSchemaValidator::set_XmlResolver method
+## XmlSchemaValidator::set_XmlResolver(const [SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../../system.xml/xmlresolver/)\>\&) method
 
 
 Sets the [XmlResolver](../../../system.xml/xmlresolver/) object used to resolve **xs:import** and **xs:include** elements as well as **xsi:schemaLocation** and **xsi:noNamespaceSchemaLocation** attributes.

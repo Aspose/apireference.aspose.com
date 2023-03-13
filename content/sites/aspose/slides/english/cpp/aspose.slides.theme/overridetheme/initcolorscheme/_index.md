@@ -1,12 +1,12 @@
 ---
-title: InitColorScheme
+title: InitColorScheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Init ColorScheme with new object for overriding ColorScheme of InheritedTheme.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.theme/overridetheme/initcolorscheme/
 ---
-## OverrideTheme::InitColorScheme method
+## OverrideTheme::InitColorScheme() method
 
 
 Init [ColorScheme](../../colorscheme/) with new object for overriding [ColorScheme](../../colorscheme/) of InheritedTheme.

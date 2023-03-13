@@ -1,12 +1,12 @@
 ---
-title: MakeDiff
+title: MakeDiff()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates 'diff' between two collections. For every element of each collection as key resulting value will be positive if element occures more times in \"expected\" collection, negative if element occures more times in \"actual\" collection, and zero if element occures equal times in each collection.
 type: docs
 weight: 1
 url: /cpp/system/collectionasserthelper/makediff/
 ---
-## CollectionAssertHelper::MakeDiff method
+## CollectionAssertHelper::MakeDiff(const [System::SharedPtr](../../sharedptr/)\<[System::Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<T1\>\>\&, const [System::SharedPtr](../../sharedptr/)\<[System::Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<T2\>\>\&) method
 
 
 Calculates 'diff' between two collections. For every element of each collection as key resulting value will be positive if element occures more times in \"expected\" collection, negative if element occures more times in \"actual\" collection, and zero if element occures equal times in each collection.

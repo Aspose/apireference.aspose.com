@@ -1,12 +1,12 @@
 ---
-title: get_NameTable
+title: get_NameTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlNameTable used for atomized string comparisons.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlreadersettings/get_nametable/
 ---
-## XmlReaderSettings::get_NameTable method
+## XmlReaderSettings::get_NameTable() method
 
 
 Returns the [XmlNameTable](../../xmlnametable/) used for atomized string comparisons.

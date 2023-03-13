@@ -1,12 +1,12 @@
 ---
-title: set_DayNames
+title: set_DayNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets day names.
 type: docs
 weight: 404
 url: /cpp/system.globalization/datetimeformatinfo/set_daynames/
 ---
-## DateTimeFormatInfo::set_DayNames method
+## DateTimeFormatInfo::set_DayNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
 
 
 Sets day names.

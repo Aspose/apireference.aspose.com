@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new property to the collection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.animation/ibehaviorpropertycollection/add/
 ---
-## IBehaviorPropertyCollection::Add method
+## IBehaviorPropertyCollection::Add(const [System::String](../../../system/string/)\&) method
 
 
 Adds a new property to the collection.

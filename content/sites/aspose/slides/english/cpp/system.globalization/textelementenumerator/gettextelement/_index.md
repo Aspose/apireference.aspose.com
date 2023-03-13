@@ -1,12 +1,12 @@
 ---
-title: GetTextElement
+title: GetTextElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets current element.
 type: docs
 weight: 66
 url: /cpp/system.globalization/textelementenumerator/gettextelement/
 ---
-## TextElementEnumerator::GetTextElement method
+## TextElementEnumerator::GetTextElement() const method
 
 
 Gets current element.

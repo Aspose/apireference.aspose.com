@@ -1,12 +1,12 @@
 ---
-title: get_QuickStyle
+title: get_QuickStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns quick style of SmartArt object. Read SmartArtQuickStyleType.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.smartart/smartart/get_quickstyle/
 ---
-## SmartArt::get_QuickStyle method
+## SmartArt::get_QuickStyle() method
 
 
 Returns quick style of [SmartArt](../) object. Read [SmartArtQuickStyleType](../../smartartquickstyletype/).

@@ -1,12 +1,12 @@
 ---
-title: get_SoundName
+title: get_SoundName()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies a human readable name for the sound of the transition. The ISlideShowTransition::set_Sound must be assigned to get or set the sound name. Reads System::String."
 type: docs
 weight: 248
 url: /cpp/aspose.slides/islideshowtransition/get_soundname/
 ---
-## ISlideShowTransition::get_SoundName method
+## ISlideShowTransition::get_SoundName() method
 
 
 Specifies a human readable name for the sound of the transition. The [ISlideShowTransition::set_Sound](../set_sound/) must be assigned to get or set the sound name. Reads [System::String](../../../system/string/).

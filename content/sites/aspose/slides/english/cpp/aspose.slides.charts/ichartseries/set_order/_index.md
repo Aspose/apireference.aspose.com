@@ -1,12 +1,12 @@
 ---
-title: set_Order
+title: set_Order()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the order of a series. Write int32_t.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/ichartseries/set_order/
 ---
-## IChartSeries::set_Order method
+## IChartSeries::set_Order(**int32_t**) method
 
 
 Returns the order of a series. Write **int32_t**.

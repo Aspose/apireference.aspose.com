@@ -1,12 +1,12 @@
 ---
-title: get_ParentNode
+title: get_ParentNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the parent of this node (for nodes that can have parents).
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlnode/get_parentnode/
 ---
-## XmlNode::get_ParentNode method
+## XmlNode::get_ParentNode() method
 
 
 Returns the parent of this node (for nodes that can have parents).

@@ -1,12 +1,12 @@
 ---
-title: CreateTextNode
+title: CreateTextNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlText with the specified text.
 type: docs
 weight: 391
 url: /cpp/system.xml/xmldocument/createtextnode/
 ---
-## XmlDocument::CreateTextNode method
+## XmlDocument::CreateTextNode(const [String](../../../system/string/)\&) method
 
 
 Creates an [XmlText](../../xmltext/) with the specified text.

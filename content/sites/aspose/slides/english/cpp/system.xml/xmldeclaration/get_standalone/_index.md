@@ -1,12 +1,12 @@
 ---
-title: get_Standalone
+title: get_Standalone()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the standalone attribute.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmldeclaration/get_standalone/
 ---
-## XmlDeclaration::get_Standalone method
+## XmlDeclaration::get_Standalone() method
 
 
 Returns the value of the standalone attribute.

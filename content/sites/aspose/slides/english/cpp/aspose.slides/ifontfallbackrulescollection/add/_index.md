@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Add a new FallBack rule to the end of the collection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ifontfallbackrulescollection/add/
 ---
-## IFontFallBackRulesCollection::Add method
+## IFontFallBackRulesCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IFontFallBackRule](../../ifontfallbackrule/)\>) method
 
 
 Add a new FallBack rule to the end of the collection.

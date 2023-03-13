@@ -1,12 +1,12 @@
 ---
-title: get_Background
+title: get_Background()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns slide's background. Read-only IBackground.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/baseslide/get_background/
 ---
-## BaseSlide::get_Background method
+## BaseSlide::get_Background() method
 
 
 Returns slide's background. Read-only [IBackground](../../ibackground/).

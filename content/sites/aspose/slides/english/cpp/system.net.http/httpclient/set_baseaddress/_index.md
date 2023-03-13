@@ -1,12 +1,12 @@
 ---
-title: set_BaseAddress
+title: set_BaseAddress()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the base address of the resource that is used for sending requests.
 type: docs
 weight: 27
 url: /cpp/system.net.http/httpclient/set_baseaddress/
 ---
-## HttpClient::set_BaseAddress method
+## HttpClient::set_BaseAddress([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Sets the base address of the resource that is used for sending requests.

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the gradient stop by index.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/gradientstopcollectioneffectivedata/idx_get/
 ---
-## GradientStopCollectionEffectiveData::idx_get method
+## GradientStopCollectionEffectiveData::idx_get(**int32_t**) method
 
 
 Returns the gradient stop by index.

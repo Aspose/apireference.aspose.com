@@ -1,12 +1,12 @@
 ---
-title: get_Colors
+title: get_Colors()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array of colors to use at corresponding positions along a gradient.
 type: docs
 weight: 14
 url: /cpp/system.drawing.drawing2d/colorblend/get_colors/
 ---
-## ColorBlend::get_Colors method
+## ColorBlend::get_Colors() method
 
 
 Returns an array of colors to use at corresponding positions along a gradient.

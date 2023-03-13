@@ -1,12 +1,12 @@
 ---
-title: EnsureSuccessStatusCode
+title: EnsureSuccessStatusCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks the status code. HttpRequestException will be thrown when the status code doesn't belong to 2xx.
 type: docs
 weight: 170
 url: /cpp/system.net.http/httpresponsemessage/ensuresuccessstatuscode/
 ---
-## HttpResponseMessage::EnsureSuccessStatusCode method
+## HttpResponseMessage::EnsureSuccessStatusCode() method
 
 
 Checks the status code. HttpRequestException will be thrown when the status code doesn't belong to 2xx.

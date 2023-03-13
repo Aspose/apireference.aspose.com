@@ -1,12 +1,12 @@
 ---
-title: CreateTextFrameFormat
+title: CreateTextFrameFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new ITextFrameFormat.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/formatfactory/createtextframeformat/
 ---
-## FormatFactory::CreateTextFrameFormat method
+## FormatFactory::CreateTextFrameFormat() method
 
 
 Creates new [ITextFrameFormat](../../itextframeformat/).

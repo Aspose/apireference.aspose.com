@@ -1,5 +1,5 @@
 ---
-title: Write
+title: Write()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the specified unsigned 8-bit integer value to the output stream.
 type: docs

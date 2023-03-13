@@ -1,12 +1,12 @@
 ---
-title: ~Stopwatch
+title: ~Stopwatch()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.diagnostics/stopwatch/~stopwatch/
 ---
-## Stopwatch::~Stopwatch method
+## Stopwatch::~Stopwatch() method
 
 
 Destructor.

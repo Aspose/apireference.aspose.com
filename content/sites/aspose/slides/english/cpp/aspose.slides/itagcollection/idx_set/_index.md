@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a key and a value pair of a tag.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/itagcollection/idx_set/
 ---
-## ITagCollection::idx_set method
+## ITagCollection::idx_set([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Sets a key and a value pair of a tag.

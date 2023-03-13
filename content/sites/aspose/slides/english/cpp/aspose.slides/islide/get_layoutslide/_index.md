@@ -1,12 +1,12 @@
 ---
-title: get_LayoutSlide
+title: get_LayoutSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the layout slide for the current slide. Read ILayoutSlide.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/islide/get_layoutslide/
 ---
-## ISlide::get_LayoutSlide method
+## ISlide::get_LayoutSlide() method
 
 
 Returns the layout slide for the current slide. Read [ILayoutSlide](../../ilayoutslide/).

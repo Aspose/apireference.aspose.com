@@ -1,12 +1,12 @@
 ---
-title: get_GhostWhite
+title: get_GhostWhite()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFF8F8FF.
 type: docs
 weight: 859
 url: /cpp/system.drawing/color/get_ghostwhite/
 ---
-## Color::get_GhostWhite method
+## Color::get_GhostWhite() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFF8F8FF.

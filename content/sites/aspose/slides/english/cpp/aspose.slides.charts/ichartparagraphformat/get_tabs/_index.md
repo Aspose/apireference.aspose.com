@@ -1,12 +1,12 @@
 ---
-title: get_Tabs
+title: get_Tabs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns tabulations of a paragraph. Read-only ITabCollection.
 type: docs
 weight: 313
 url: /cpp/aspose.slides.charts/ichartparagraphformat/get_tabs/
 ---
-## IChartParagraphFormat::get_Tabs method
+## IChartParagraphFormat::get_Tabs() method
 
 
 Returns tabulations of a paragraph. Read-only [ITabCollection](../../../aspose.slides/itabcollection/).

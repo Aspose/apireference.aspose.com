@@ -1,12 +1,12 @@
 ---
-title: set_InnerText
+title: set_InnerText()
 second_title: Aspose.Slides for C++ API Reference
 description: Throws an InvalidOperationException in all cases.
 type: docs
 weight: 183
 url: /cpp/system.xml/xmldocument/set_innertext/
 ---
-## XmlDocument::set_InnerText method
+## XmlDocument::set_InnerText([String](../../../system/string/)) method
 
 
 Throws an InvalidOperationException in all cases.

@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares encodings by codepages and flags.
 type: docs
 weight: 79
 url: /cpp/system.text/unicodeencoding/operator_equal_equal/
 ---
-## UnicodeEncoding::operator== method
+## UnicodeEncoding::operator==(const [UnicodeEncoding](../)\&) const method
 
 
 Compares encodings by codepages and flags.

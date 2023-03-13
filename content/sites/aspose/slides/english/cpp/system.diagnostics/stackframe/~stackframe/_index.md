@@ -1,12 +1,12 @@
 ---
-title: ~StackFrame
+title: ~StackFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 27
 url: /cpp/system.diagnostics/stackframe/~stackframe/
 ---
-## StackFrame::~StackFrame method
+## StackFrame::~StackFrame() method
 
 
 Destructor.

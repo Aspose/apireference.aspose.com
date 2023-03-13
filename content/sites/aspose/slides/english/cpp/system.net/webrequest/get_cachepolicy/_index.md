@@ -1,12 +1,12 @@
 ---
-title: get_CachePolicy
+title: get_CachePolicy()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the cache policy.
 type: docs
 weight: 365
 url: /cpp/system.net/webrequest/get_cachepolicy/
 ---
-## WebRequest::get_CachePolicy method
+## WebRequest::get_CachePolicy() method
 
 
 Gets the cache policy.

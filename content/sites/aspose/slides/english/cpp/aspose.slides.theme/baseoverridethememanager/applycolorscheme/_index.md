@@ -1,12 +1,12 @@
 ---
-title: ApplyColorScheme
+title: ApplyColorScheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Applies extra color scheme to a slide.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.theme/baseoverridethememanager/applycolorscheme/
 ---
-## BaseOverrideThemeManager::ApplyColorScheme method
+## BaseOverrideThemeManager::ApplyColorScheme([System::SharedPtr](../../../system/sharedptr/)\<[IExtraColorScheme](../../iextracolorscheme/)\>) method
 
 
 Applies extra color scheme to a slide.

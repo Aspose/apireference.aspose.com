@@ -1,7 +1,7 @@
 ---
-title: Group
+title: Group()
 second_title: Aspose.Slides for C++ API Reference
-description: Places this element in a group using a bottom curly bracket.
+description: Places this element in a group using a bottom curly bracket
 type: docs
 weight: 248
 url: /cpp/aspose.slides.mathtext/imathelement/group/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathelement/group/
 ## IMathElement::Group() method
 
 
-Places this element in a group using a bottom curly bracket.
+Places this element in a group using a bottom curly bracket
 
 ```cpp
 virtual System::SharedPtr<IMathGroupingCharacter> Aspose::Slides::MathText::IMathElement::Group()=0
@@ -38,7 +38,7 @@ auto groupingElement = System::MakeObject<MathematicalText>(u"x;y;z")->Group();
 ## IMathElement::Group(char16_t, [MathTopBotPositions](../../mathtopbotpositions/), [MathTopBotPositions](../../mathtopbotpositions/)) method
 
 
-Places this element in a group using a grouping character such as bottom curly bracket or another.
+Places this element in a group using a grouping character such as bottom curly bracket or another
 
 ```cpp
 virtual System::SharedPtr<IMathGroupingCharacter> Aspose::Slides::MathText::IMathElement::Group(char16_t character, MathTopBotPositions position, MathTopBotPositions verticalJustification)=0

@@ -1,12 +1,12 @@
 ---
-title: IsPathRooted
+title: IsPathRooted()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified path contains a root.
 type: docs
 weight: 196
 url: /cpp/system.io/path/ispathrooted/
 ---
-## Path::IsPathRooted method
+## Path::IsPathRooted(const [String](../../../system/string/)\&) method
 
 
 Determines if the specified path contains a root.

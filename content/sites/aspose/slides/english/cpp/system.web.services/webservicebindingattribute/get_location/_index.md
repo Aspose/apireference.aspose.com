@@ -1,12 +1,12 @@
 ---
-title: get_Location
+title: get_Location()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the location where the binding is defined.
 type: docs
 weight: 1
 url: /cpp/system.web.services/webservicebindingattribute/get_location/
 ---
-## WebServiceBindingAttribute::get_Location method
+## WebServiceBindingAttribute::get_Location() method
 
 
 Gets the location where the binding is defined.

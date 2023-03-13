@@ -1,12 +1,12 @@
 ---
-title: InsertColumnAfter
+title: InsertColumnAfter()
 second_title: Aspose.Slides for C++ API Reference
 description: Insert a new column after the specified one Initially all elements in the new column are null.
 type: docs
 weight: 339
 url: /cpp/aspose.slides.mathtext/mathmatrix/insertcolumnafter/
 ---
-## MathMatrix::InsertColumnAfter method
+## MathMatrix::InsertColumnAfter(**int32_t**) method
 
 
 Insert a new column after the specified one Initially all elements in the new column are null.

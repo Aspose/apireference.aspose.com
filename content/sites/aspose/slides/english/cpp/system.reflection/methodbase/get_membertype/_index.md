@@ -1,12 +1,12 @@
 ---
-title: get_MemberType
+title: get_MemberType()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicating the type of the member - method, constructor, event, and so on.
 type: docs
 weight: 14
 url: /cpp/system.reflection/methodbase/get_membertype/
 ---
-## MethodBase::get_MemberType method
+## MethodBase::get_MemberType() const method
 
 
 Indicating the type of the member - method, constructor, event, and so on.

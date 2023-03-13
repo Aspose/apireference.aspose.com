@@ -1,12 +1,12 @@
 ---
-title: get_IsTitleBarGradientEnabled
+title: get_IsTitleBarGradientEnabled()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 573
 url: /cpp/system.windows.forms/systeminformation/get_istitlebargradientenabled/
 ---
-## SystemInformation::get_IsTitleBarGradientEnabled method
+## SystemInformation::get_IsTitleBarGradientEnabled() method
 
 
 NOT IMPLEMENTED.

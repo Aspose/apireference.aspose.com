@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Provides information about the System::Drawing::Printing::PaperSize in string form."
 type: docs
 weight: 131
 url: /cpp/system.drawing.printing/papersize/tostring/
 ---
-## PaperSize::ToString method
+## PaperSize::ToString() const method
 
 
 Provides information about the [System::Drawing::Printing::PaperSize](../) in string form.

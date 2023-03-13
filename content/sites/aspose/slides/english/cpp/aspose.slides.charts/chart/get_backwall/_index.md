@@ -1,12 +1,12 @@
 ---
-title: get_BackWall
+title: get_BackWall()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an object which allows to change format of the back wall of a 3D chart. Read-only IChartWall.
 type: docs
 weight: 261
 url: /cpp/aspose.slides.charts/chart/get_backwall/
 ---
-## Chart::get_BackWall method
+## Chart::get_BackWall() method
 
 
 Returns an object which allows to change format of the back wall of a 3D chart. Read-only [IChartWall](../../ichartwall/).

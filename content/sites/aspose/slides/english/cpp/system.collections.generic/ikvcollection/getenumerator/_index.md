@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator for container.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/ikvcollection/getenumerator/
 ---
-## IKVCollection::GetEnumerator method
+## IKVCollection::GetEnumerator() method
 
 
 Gets enumerator for container.

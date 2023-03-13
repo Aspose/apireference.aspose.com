@@ -1,12 +1,12 @@
 ---
-title: RegisterPrefix
+title: RegisterPrefix()
 second_title: Aspose.Slides for C++ API Reference
 description: Registers the WebRequest descendant for the specified URI.
 type: docs
 weight: 92
 url: /cpp/system.net/webrequest/registerprefix/
 ---
-## WebRequest::RegisterPrefix method
+## WebRequest::RegisterPrefix([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[IWebRequestCreate](../../iwebrequestcreate/)\>) method
 
 
 Registers the [WebRequest](../) descendant for the specified URI.

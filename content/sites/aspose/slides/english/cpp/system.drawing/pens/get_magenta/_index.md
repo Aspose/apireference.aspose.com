@@ -1,12 +1,12 @@
 ---
-title: get_Magenta
+title: get_Magenta()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFF00FF.
 type: docs
 weight: 1041
 url: /cpp/system.drawing/pens/get_magenta/
 ---
-## Pens::get_Magenta method
+## Pens::get_Magenta() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFF00FF.

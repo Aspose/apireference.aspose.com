@@ -1,12 +1,12 @@
 ---
-title: get_IsDefined
+title: get_IsDefined()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/aspose.slides.drawing/margin32f/get_isdefined/
 ---
-## Margin32f::get_IsDefined method
+## Margin32f::get_IsDefined() method
 
 
 

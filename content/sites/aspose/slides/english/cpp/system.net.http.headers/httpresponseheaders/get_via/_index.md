@@ -1,12 +1,12 @@
 ---
-title: get_Via
+title: get_Via()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Via' header.
 type: docs
 weight: 339
 url: /cpp/system.net.http.headers/httpresponseheaders/get_via/
 ---
-## HttpResponseHeaders::get_Via method
+## HttpResponseHeaders::get_Via() method
 
 
 Returns a value of the 'Via' header.

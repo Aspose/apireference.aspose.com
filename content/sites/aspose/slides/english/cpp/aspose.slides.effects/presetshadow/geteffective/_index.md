@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Preset Shadow effect data with the inheritance applied.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.effects/presetshadow/geteffective/
 ---
-## PresetShadow::GetEffective method
+## PresetShadow::GetEffective() method
 
 
 Gets effective Preset Shadow effect data with the inheritance applied.

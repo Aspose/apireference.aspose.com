@@ -1,7 +1,7 @@
 ---
-title: MathArray
+title: MathArray()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates a mathematical array and places the specified element in it.
+description: Creates a mathematical array and places the specified element in it
 type: docs
 weight: 144
 url: /cpp/aspose.slides.mathtext/matharray/matharray/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/matharray/matharray/
 ## MathArray::MathArray([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
-Creates a mathematical array and places the specified element in it.
+Creates a mathematical array and places the specified element in it
 
 ```cpp
 Aspose::Slides::MathText::MathArray::MathArray(System::SharedPtr<IMathElement> element)
@@ -40,7 +40,7 @@ auto mathArray = System::MakeObject<MathArray>(System::MakeObject<MathematicalTe
 ## MathArray::MathArray([System::SharedPtr](../../../system/sharedptr/)\<[System::Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>\>\>) constructor
 
 
-Creates a mathematical array and places specified elements in it.
+Creates a mathematical array and places specified elements in it
 
 ```cpp
 Aspose::Slides::MathText::MathArray::MathArray(System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<IMathElement>>> elements)

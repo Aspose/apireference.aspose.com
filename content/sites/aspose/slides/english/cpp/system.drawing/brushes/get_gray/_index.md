@@ -1,12 +1,12 @@
 ---
-title: get_Gray
+title: get_Gray()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF808080.
 type: docs
 weight: 651
 url: /cpp/system.drawing/brushes/get_gray/
 ---
-## Brushes::get_Gray method
+## Brushes::get_Gray() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF808080.

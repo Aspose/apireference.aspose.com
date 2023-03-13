@@ -1,12 +1,12 @@
 ---
-title: get_Master
+title: get_Master()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a master slide defined in the presentation at the specified index. Read-only Aspose::Slides::IMasterSlide"
 type: docs
 weight: 469
 url: /cpp/aspose.slides/ipresentation/get_master/
 ---
-## IPresentation::get_Master method
+## IPresentation::get_Master(**int32_t**) method
 
 
 Returns a master slide defined in the presentation at the specified index. Read-only [Aspose::Slides::IMasterSlide](../../imasterslide/)

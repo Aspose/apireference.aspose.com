@@ -1,12 +1,12 @@
 ---
-title: set_Accept
+title: set_Accept()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'Accept' HTTP header value.
 type: docs
 weight: 66
 url: /cpp/system.net/httpwebrequest/set_accept/
 ---
-## HttpWebRequest::set_Accept method
+## HttpWebRequest::set_Accept([String](../../../system/string/)) method
 
 
 Sets the 'Accept' HTTP header value.

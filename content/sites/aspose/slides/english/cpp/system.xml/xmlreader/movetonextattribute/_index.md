@@ -1,12 +1,12 @@
 ---
-title: MoveToNextAttribute
+title: MoveToNextAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, moves to the next attribute.
 type: docs
 weight: 651
 url: /cpp/system.xml/xmlreader/movetonextattribute/
 ---
-## XmlReader::MoveToNextAttribute method
+## XmlReader::MoveToNextAttribute() method
 
 
 When overridden in a derived class, moves to the next attribute.

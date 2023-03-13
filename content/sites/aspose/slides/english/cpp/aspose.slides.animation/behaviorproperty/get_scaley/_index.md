@@ -1,15 +1,15 @@
 ---
-title: get_ScaleY
+title: get_ScaleY()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'ScaleY' property.
+description: Represents 'ScaleY' property
 type: docs
 weight: 183
 url: /cpp/aspose.slides.animation/behaviorproperty/get_scaley/
 ---
-## BehaviorProperty::get_ScaleY method
+## BehaviorProperty::get_ScaleY() method
 
 
-Represents 'ScaleY' property.
+Represents 'ScaleY' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ScaleY()

@@ -1,12 +1,12 @@
 ---
-title: set_DigestValue
+title: set_DigestValue()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 118
 url: /cpp/system.security.cryptography.xml/reference/set_digestvalue/
 ---
-## Reference::set_DigestValue method
+## Reference::set_DigestValue([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 

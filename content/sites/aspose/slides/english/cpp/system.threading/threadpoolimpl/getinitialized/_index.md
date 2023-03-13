@@ -1,12 +1,12 @@
 ---
-title: GetInitialized
+title: GetInitialized()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets initialization state singleton.
 type: docs
 weight: 118
 url: /cpp/system.threading/threadpoolimpl/getinitialized/
 ---
-## ThreadPoolImpl::GetInitialized method
+## ThreadPoolImpl::GetInitialized() method
 
 
 Gets initialization state singleton.

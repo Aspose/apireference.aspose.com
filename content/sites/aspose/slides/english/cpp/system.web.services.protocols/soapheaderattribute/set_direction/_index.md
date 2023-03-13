@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the SOAP header direction.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soapheaderattribute/set_direction/
 ---
-## SoapHeaderAttribute::set_Direction method
+## SoapHeaderAttribute::set_Direction([SoapHeaderDirection](../../soapheaderdirection/)) method
 
 
 Sets the SOAP header direction.

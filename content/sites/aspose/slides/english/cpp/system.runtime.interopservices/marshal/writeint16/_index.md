@@ -1,12 +1,12 @@
 ---
-title: WriteInt16
+title: WriteInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes short to memory.
 type: docs
 weight: 27
 url: /cpp/system.runtime.interopservices/marshal/writeint16/
 ---
-## Marshal::WriteInt16 method
+## Marshal::WriteInt16(IntPtr, int, **int16_t**) method
 
 
 Writes short to memory.

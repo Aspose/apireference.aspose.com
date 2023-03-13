@@ -1,12 +1,12 @@
 ---
-title: set_NamespaceManager
+title: set_NamespaceManager()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlNamespaceManager.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlparsercontext/set_namespacemanager/
 ---
-## XmlParserContext::set_NamespaceManager method
+## XmlParserContext::set_NamespaceManager(const [SharedPtr](../../../system/sharedptr/)\<[XmlNamespaceManager](../../xmlnamespacemanager/)\>\&) method
 
 
 Sets the [XmlNamespaceManager](../../xmlnamespacemanager/).

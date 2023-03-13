@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the two TransitionValueBase instances are equal.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.slideshow/transitionvaluebase/equals/
 ---
-## TransitionValueBase::Equals method
+## TransitionValueBase::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the two [TransitionValueBase](../) instances are equal.

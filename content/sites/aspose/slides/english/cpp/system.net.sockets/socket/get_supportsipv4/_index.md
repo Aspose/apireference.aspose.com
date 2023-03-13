@@ -1,12 +1,12 @@
 ---
-title: get_SupportsIPv4
+title: get_SupportsIPv4()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the current host supports IPv4.
 type: docs
 weight: 1
 url: /cpp/system.net.sockets/socket/get_supportsipv4/
 ---
-## Socket::get_SupportsIPv4 method
+## Socket::get_SupportsIPv4() method
 
 
 Returns a value that indicates if the current host supports IPv4.

@@ -1,12 +1,12 @@
 ---
-title: get_LawnGreen
+title: get_LawnGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF7CFC00.
 type: docs
 weight: 807
 url: /cpp/system.drawing/pens/get_lawngreen/
 ---
-## Pens::get_LawnGreen method
+## Pens::get_LawnGreen() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF7CFC00.

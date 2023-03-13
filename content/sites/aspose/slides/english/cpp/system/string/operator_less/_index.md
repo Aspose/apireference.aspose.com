@@ -1,12 +1,12 @@
 ---
-title: operator<
+title: operator<()
 second_title: Aspose.Slides for C++ API Reference
 description: Order-compares strings.
 type: docs
 weight: 313
 url: /cpp/system/string/operator_less/
 ---
-## String::operator< method
+## String::operator<(const [String](../)\&) const method
 
 
 Order-compares strings.

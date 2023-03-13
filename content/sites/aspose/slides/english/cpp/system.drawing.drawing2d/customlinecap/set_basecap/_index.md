@@ -1,12 +1,12 @@
 ---
-title: set_BaseCap
+title: set_BaseCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the base line cap value for this custom cap.
 type: docs
 weight: 66
 url: /cpp/system.drawing.drawing2d/customlinecap/set_basecap/
 ---
-## CustomLineCap::set_BaseCap method
+## CustomLineCap::set_BaseCap([LineCap](../../linecap/)) method
 
 
 Sets the base line cap value for this custom cap.

@@ -1,5 +1,5 @@
 ---
-title: Serialize
+title: Serialize()
 second_title: Aspose.Slides for C++ API Reference
 description: Serializes document into XML.
 type: docs

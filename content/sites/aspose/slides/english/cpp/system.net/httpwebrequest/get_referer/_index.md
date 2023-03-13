@@ -1,12 +1,12 @@
 ---
-title: get_Referer
+title: get_Referer()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Referer' header.
 type: docs
 weight: 703
 url: /cpp/system.net/httpwebrequest/get_referer/
 ---
-## HttpWebRequest::get_Referer method
+## HttpWebRequest::get_Referer() method
 
 
 Gets a value of the 'Referer' header.

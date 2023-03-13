@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified Reflection is equal to the current Reflection.
 type: docs
 weight: 378
 url: /cpp/aspose.slides.effects/reflection/equals/
 ---
-## Reflection::Equals method
+## Reflection::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [Reflection](../) is equal to the current [Reflection](../).

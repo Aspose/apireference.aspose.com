@@ -1,12 +1,12 @@
 ---
-title: get_CenterColor
+title: get_CenterColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color that is at the center of the path filled by the current object.
 type: docs
 weight: 92
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_centercolor/
 ---
-## PathGradientBrush::get_CenterColor method
+## PathGradientBrush::get_CenterColor() const method
 
 
 Returns a color that is at the center of the path filled by the current object.

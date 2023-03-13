@@ -1,5 +1,5 @@
 ---
-title: IsVisible
+title: IsVisible()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified point is contained within the visible clip region of the current Graphics object.
 type: docs

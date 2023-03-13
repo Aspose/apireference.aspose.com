@@ -1,12 +1,12 @@
 ---
-title: get_HardMarginY
+title: get_HardMarginY()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 40
 url: /cpp/system.drawing.printing/pagesettings/get_hardmarginy/
 ---
-## PageSettings::get_HardMarginY method
+## PageSettings::get_HardMarginY() method
 
 
 NOT IMPLEMENTED.

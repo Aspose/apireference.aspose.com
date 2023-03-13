@@ -1,12 +1,12 @@
 ---
-title: CheckPassword
+title: CheckPassword()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether a password is correct for a presentation protected with open password.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ipresentationinfo/checkpassword/
 ---
-## IPresentationInfo::CheckPassword method
+## IPresentationInfo::CheckPassword([System::String](../../../system/string/)) method
 
 
 Checks whether a password is correct for a presentation protected with open password.

@@ -1,12 +1,12 @@
 ---
-title: get_OEMCodePage
+title: get_OEMCodePage()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets OEM codepage.
 type: docs
 weight: 92
 url: /cpp/system.globalization/textinfo/get_oemcodepage/
 ---
-## TextInfo::get_OEMCodePage method
+## TextInfo::get_OEMCodePage() const method
 
 
 Gets OEM codepage.

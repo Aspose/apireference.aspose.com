@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the count. Read-only int32_t.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/chartdataworksheetcollection/get_count/
 ---
-## ChartDataWorksheetCollection::get_Count method
+## ChartDataWorksheetCollection::get_Count() method
 
 
 Returns the count. Read-only **int32_t**.

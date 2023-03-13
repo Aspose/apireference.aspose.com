@@ -1,5 +1,5 @@
 ---
-title: IsTest
+title: IsTest()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if test method exists.
 type: docs

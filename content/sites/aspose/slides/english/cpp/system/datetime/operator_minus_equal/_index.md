@@ -1,12 +1,12 @@
 ---
-title: operator-=
+title: operator-=()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the current object to the date and time value that is the result of subtraction of the specified time span from the date and time value represented by the current object.
 type: docs
 weight: 677
 url: /cpp/system/datetime/operator_minus_equal/
 ---
-## DateTime::operator-= method
+## DateTime::operator-=([TimeSpan](../../timespan/)) method
 
 
 Sets the current object to the date and time value that is the result of subtraction of the specified time span from the date and time value represented by the current object.

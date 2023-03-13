@@ -1,12 +1,12 @@
 ---
-title: ReadToEnd
+title: ReadToEnd()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads characters from the stream until the end of the stream.
 type: docs
 weight: 79
 url: /cpp/system.io/textreader/readtoend/
 ---
-## TextReader::ReadToEnd method
+## TextReader::ReadToEnd() method
 
 
 Reads characters from the stream until the end of the stream.

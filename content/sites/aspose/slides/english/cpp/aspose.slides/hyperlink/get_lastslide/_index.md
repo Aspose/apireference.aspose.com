@@ -1,12 +1,12 @@
 ---
-title: get_LastSlide
+title: get_LastSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hyperlink to the last slide of the presentation. Read-only Hyperlink.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/hyperlink/get_lastslide/
 ---
-## Hyperlink::get_LastSlide method
+## Hyperlink::get_LastSlide() method
 
 
 Returns a hyperlink to the last slide of the presentation. Read-only [Hyperlink](../).

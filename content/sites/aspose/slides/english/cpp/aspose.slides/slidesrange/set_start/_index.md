@@ -1,15 +1,15 @@
 ---
-title: set_Start
+title: set_Start()
 second_title: Aspose.Slides for C++ API Reference
-description: Start.
+description: Start
 type: docs
 weight: 14
 url: /cpp/aspose.slides/slidesrange/set_start/
 ---
-## SlidesRange::set_Start method
+## SlidesRange::set_Start(**uint32_t**) method
 
 
-Start.
+Start
 
 ```cpp
 void Aspose::Slides::SlidesRange::set_Start(uint32_t value)

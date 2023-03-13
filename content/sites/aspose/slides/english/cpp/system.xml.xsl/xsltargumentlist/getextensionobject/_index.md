@@ -1,12 +1,12 @@
 ---
-title: GetExtensionObject
+title: GetExtensionObject()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the object associated with the given namespace.
 type: docs
 weight: 27
 url: /cpp/system.xml.xsl/xsltargumentlist/getextensionobject/
 ---
-## XsltArgumentList::GetExtensionObject method
+## XsltArgumentList::GetExtensionObject(const [String](../../../system/string/)\&) method
 
 
 Returns the object associated with the given namespace.

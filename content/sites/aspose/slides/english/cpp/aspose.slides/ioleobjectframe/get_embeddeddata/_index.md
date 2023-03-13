@@ -1,12 +1,12 @@
 ---
-title: get_EmbeddedData
+title: get_EmbeddedData()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets information about OLE embedded data. Read only IOleEmbeddedDataInfo.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ioleobjectframe/get_embeddeddata/
 ---
-## IOleObjectFrame::get_EmbeddedData method
+## IOleObjectFrame::get_EmbeddedData() method
 
 
 Gets information about OLE embedded data. Read only [IOleEmbeddedDataInfo](../../ioleembeddeddatainfo/).

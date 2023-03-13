@@ -1,12 +1,12 @@
 ---
-title: get_BorderBottom
+title: get_BorderBottom()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns bottom border line format effective value. Read-only ILineFormatEffectiveData.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ibasetableformateffectivedata/get_borderbottom/
 ---
-## IBaseTableFormatEffectiveData::get_BorderBottom method
+## IBaseTableFormatEffectiveData::get_BorderBottom() method
 
 
 Returns bottom border line format effective value. Read-only [ILineFormatEffectiveData](../../ilineformateffectivedata/).

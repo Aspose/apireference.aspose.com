@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: No assignment.
 type: docs
 weight: 27
 url: /cpp/system.diagnostics/stacktrace/operator_equal/
 ---
-## StackTrace::operator= method
+## StackTrace::operator=(const [StackTrace](../)\&) const method
 
 
 No assignment.

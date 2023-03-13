@@ -1,12 +1,12 @@
 ---
-title: Modulus
+title: Modulus()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the remainder resulting from the division one specified value by another specified value.
 type: docs
 weight: 313
 url: /cpp/system/math/modulus/
 ---
-## Math::Modulus method
+## Math::Modulus(T, T) method
 
 
 Calculates the remainder resulting from the division one specified value by another specified value.

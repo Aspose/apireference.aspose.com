@@ -1,12 +1,12 @@
 ---
-title: set_ShowMeanLine
+title: set_ShowMeanLine()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents mean line. True if mean line are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Write bool.
 type: docs
 weight: 534
 url: /cpp/aspose.slides.charts/chartseries/set_showmeanline/
 ---
-## ChartSeries::set_ShowMeanLine method
+## ChartSeries::set_ShowMeanLine(**bool**) method
 
 
 Represents mean line. True if mean line are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Write **bool**.

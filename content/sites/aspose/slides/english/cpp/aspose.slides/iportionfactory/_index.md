@@ -1,7 +1,7 @@
 ---
 title: IPortionFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create test portions.
+description: Allows to create test portions
 type: docs
 weight: 3134
 url: /cpp/aspose.slides/iportionfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/iportionfactory/
 ## IPortionFactory class
 
 
-Allows to create test portions.
+Allows to create test portions
 
 ```cpp
 class IPortionFactory : public System::Object

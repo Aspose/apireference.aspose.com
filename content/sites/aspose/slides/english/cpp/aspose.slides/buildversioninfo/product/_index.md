@@ -1,15 +1,15 @@
 ---
-title: Product
+title: Product()
 second_title: Aspose.Slides for C++ API Reference
-description: Product name of Aspose.Slides.
+description: Product name of Aspose.Slides
 type: docs
 weight: 27
 url: /cpp/aspose.slides/buildversioninfo/product/
 ---
-## BuildVersionInfo::Product method
+## BuildVersionInfo::Product() method
 
 
-Product name of [Aspose.Slides](../../).
+Product name of [Aspose.Slides](../../)
 
 ```cpp
 static const System::String & Aspose::Slides::BuildVersionInfo::Product()

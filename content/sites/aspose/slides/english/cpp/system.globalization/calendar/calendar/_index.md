@@ -1,12 +1,12 @@
 ---
-title: Calendar
+title: Calendar()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.globalization/calendar/calendar/
 ---
-## Calendar::Calendar constructor
+## Calendar::Calendar(const [Calendar](../)\&) constructor
 
 
 RTTI information.

@@ -1,12 +1,12 @@
 ---
-title: get_Public
+title: get_Public()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the public identifier.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemanotation/get_public/
 ---
-## XmlSchemaNotation::get_Public method
+## XmlSchemaNotation::get_Public() method
 
 
 Returns the **public** identifier.

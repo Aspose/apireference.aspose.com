@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets enumerator to position before first element.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic.details/enumeratoroftypeadapter/reset/
 ---
-## EnumeratorOfTypeAdapter::Reset method
+## EnumeratorOfTypeAdapter::Reset() method
 
 
 Resets enumerator to position before first element.

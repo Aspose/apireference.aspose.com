@@ -1,12 +1,12 @@
 ---
-title: EnableReflectionEffect
+title: EnableReflectionEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Enables reflection effect.
 type: docs
 weight: 300
 url: /cpp/aspose.slides/ieffectformat/enablereflectioneffect/
 ---
-## IEffectFormat::EnableReflectionEffect method
+## IEffectFormat::EnableReflectionEffect() method
 
 
 Enables reflection effect.

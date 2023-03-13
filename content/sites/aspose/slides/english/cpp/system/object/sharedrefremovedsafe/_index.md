@@ -1,12 +1,12 @@
 ---
-title: SharedRefRemovedSafe
+title: SharedRefRemovedSafe()
 second_title: Aspose.Slides for C++ API Reference
 description: Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector.
 type: docs
 weight: 53
 url: /cpp/system/object/sharedrefremovedsafe/
 ---
-## Object::SharedRefRemovedSafe method
+## Object::SharedRefRemovedSafe() method
 
 
 Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector.

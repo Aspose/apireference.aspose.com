@@ -1,12 +1,12 @@
 ---
-title: get_RosyBrown
+title: get_RosyBrown()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFBC8F8F.
 type: docs
 weight: 1483
 url: /cpp/system.drawing/brushes/get_rosybrown/
 ---
-## Brushes::get_RosyBrown method
+## Brushes::get_RosyBrown() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFBC8F8F.

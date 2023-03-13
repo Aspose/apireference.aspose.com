@@ -1,12 +1,12 @@
 ---
-title: IsPositiveInfinity
+title: IsPositiveInfinity()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified value represents positive infinity.
 type: docs
 weight: 2367
 url: /cpp/system/ispositiveinfinity/
 ---
-## System::IsPositiveInfinity function
+## System::IsPositiveInfinity(const T\&) function
 
 
 Determines if the specified value represents positive infinity.

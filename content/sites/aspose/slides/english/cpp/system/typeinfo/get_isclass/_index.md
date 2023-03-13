@@ -1,12 +1,12 @@
 ---
-title: get_IsClass
+title: get_IsClass()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value indicating whether the Type is a class or a delegate; that is, not a value type or interface.
 type: docs
 weight: 222
 url: /cpp/system/typeinfo/get_isclass/
 ---
-## TypeInfo::get_IsClass method
+## TypeInfo::get_IsClass() const method
 
 
 Gets a value indicating whether the Type is a class or a delegate; that is, not a value type or interface.

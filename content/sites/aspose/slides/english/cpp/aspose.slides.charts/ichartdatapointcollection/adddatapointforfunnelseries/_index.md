@@ -1,12 +1,12 @@
 ---
-title: AddDataPointForFunnelSeries
+title: AddDataPointForFunnelSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the new data point and adds it to the end of collection. Applicable for series which chart type is Funnel.
 type: docs
 weight: 339
 url: /cpp/aspose.slides.charts/ichartdatapointcollection/adddatapointforfunnelseries/
 ---
-## IChartDataPointCollection::AddDataPointForFunnelSeries method
+## IChartDataPointCollection::AddDataPointForFunnelSeries([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataCell](../../ichartdatacell/)\>) method
 
 
 Creates the new data point and adds it to the end of collection. Applicable for series which chart type is Funnel.

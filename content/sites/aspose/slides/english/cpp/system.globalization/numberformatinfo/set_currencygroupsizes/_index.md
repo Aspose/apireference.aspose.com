@@ -1,12 +1,12 @@
 ---
-title: set_CurrencyGroupSizes
+title: set_CurrencyGroupSizes()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets number of currency decimal digits per group.
 type: docs
 weight: 339
 url: /cpp/system.globalization/numberformatinfo/set_currencygroupsizes/
 ---
-## NumberFormatInfo::set_CurrencyGroupSizes method
+## NumberFormatInfo::set_CurrencyGroupSizes(const [ArrayPtr](../../../system/arrayptr/)\<int\>\&) method
 
 
 Sets number of currency decimal digits per group.

@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the notation.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemanotation/get_name/
 ---
-## XmlSchemaNotation::get_Name method
+## XmlSchemaNotation::get_Name() method
 
 
 Returns the name of the notation.

@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of a specific object from the collection.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/customxmlpartcollection/remove/
 ---
-## CustomXmlPartCollection::Remove method
+## CustomXmlPartCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[ICustomXmlPart](../../icustomxmlpart/)\>) method
 
 
 Removes the first occurrence of a specific object from the collection.

@@ -1,12 +1,12 @@
 ---
-title: get_Level
+title: get_Level()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the specified HttpRequestCacheLevel value.
 type: docs
 weight: 1
 url: /cpp/system.net.cache/httprequestcachepolicy/get_level/
 ---
-## HttpRequestCachePolicy::get_Level method
+## HttpRequestCachePolicy::get_Level() const method
 
 
 Gets the specified HttpRequestCacheLevel value.

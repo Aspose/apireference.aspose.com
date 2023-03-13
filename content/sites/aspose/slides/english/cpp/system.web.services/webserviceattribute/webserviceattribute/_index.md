@@ -1,12 +1,12 @@
 ---
-title: WebServiceAttribute
+title: WebServiceAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 79
 url: /cpp/system.web.services/webserviceattribute/webserviceattribute/
 ---
-## WebServiceAttribute::WebServiceAttribute constructor
+## WebServiceAttribute::WebServiceAttribute() constructor
 
 
 Constructs a new instance.

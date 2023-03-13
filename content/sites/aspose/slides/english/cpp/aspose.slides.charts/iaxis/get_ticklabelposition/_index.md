@@ -1,12 +1,12 @@
 ---
-title: get_TickLabelPosition
+title: get_TickLabelPosition()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the position of tick-mark labels on the specified axis. Read TickLabelPositionType.
 type: docs
 weight: 521
 url: /cpp/aspose.slides.charts/iaxis/get_ticklabelposition/
 ---
-## IAxis::get_TickLabelPosition method
+## IAxis::get_TickLabelPosition() method
 
 
 Represents the position of tick-mark labels on the specified axis. Read [TickLabelPositionType](../../ticklabelpositiontype/).

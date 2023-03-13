@@ -1,12 +1,12 @@
 ---
-title: get_RefName
+title: get_RefName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of an attribute declared in this schema (or another schema indicated by the specified namespace).
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemaattribute/get_refname/
 ---
-## XmlSchemaAttribute::get_RefName method
+## XmlSchemaAttribute::get_RefName() method
 
 
 Returns the name of an attribute declared in this schema (or another schema indicated by the specified namespace).

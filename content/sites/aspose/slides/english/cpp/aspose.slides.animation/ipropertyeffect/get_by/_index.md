@@ -1,12 +1,12 @@
 ---
-title: get_By
+title: get_By()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies a relative offset value for the animation with respect to its position before the start of the animation. Read System::String."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/ipropertyeffect/get_by/
 ---
-## IPropertyEffect::get_By method
+## IPropertyEffect::get_By() method
 
 
 Specifies a relative offset value for the animation with respect to its position before the start of the animation. Read [System::String](../../../system/string/).

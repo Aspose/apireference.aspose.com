@@ -1,12 +1,12 @@
 ---
-title: get_TypeInference
+title: get_TypeInference()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the XmlSchemaInference::InferenceOption value that affects types inferred from the XML document."
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemainference/get_typeinference/
 ---
-## XmlSchemaInference::get_TypeInference method
+## XmlSchemaInference::get_TypeInference() method
 
 
 Returns the [XmlSchemaInference::InferenceOption](../inferenceoption/) value that affects types inferred from the XML document.

@@ -1,12 +1,12 @@
 ---
-title: get_PrimaryMonitorMaximizedWindowSize
+title: get_PrimaryMonitorMaximizedWindowSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 989
 url: /cpp/system.windows.forms/systeminformation/get_primarymonitormaximizedwindowsize/
 ---
-## SystemInformation::get_PrimaryMonitorMaximizedWindowSize method
+## SystemInformation::get_PrimaryMonitorMaximizedWindowSize() method
 
 
 NOT IMPLEMENTED.

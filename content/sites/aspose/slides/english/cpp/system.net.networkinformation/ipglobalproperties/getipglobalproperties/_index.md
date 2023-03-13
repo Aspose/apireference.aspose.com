@@ -1,12 +1,12 @@
 ---
-title: GetIPGlobalProperties
+title: GetIPGlobalProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 1
 url: /cpp/system.net.networkinformation/ipglobalproperties/getipglobalproperties/
 ---
-## IPGlobalProperties::GetIPGlobalProperties method
+## IPGlobalProperties::GetIPGlobalProperties() method
 
 
 Constructs a new instance.

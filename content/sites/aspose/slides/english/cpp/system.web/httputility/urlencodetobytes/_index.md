@@ -1,5 +1,5 @@
 ---
-title: UrlEncodeToBytes
+title: UrlEncodeToBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Encodes URI fragment.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_HasChildNodes
+title: get_HasChildNodes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether this node has any child nodes.
 type: docs
 weight: 157
 url: /cpp/system.xml/xmlnode/get_haschildnodes/
 ---
-## XmlNode::get_HasChildNodes method
+## XmlNode::get_HasChildNodes() method
 
 
 Returns a value indicating whether this node has any child nodes.

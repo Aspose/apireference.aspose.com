@@ -1,12 +1,12 @@
 ---
-title: set_CommandText
+title: set_CommandText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets DB command text.
 type: docs
 weight: 14
 url: /cpp/system.data.common/dbcommand/set_commandtext/
 ---
-## DbCommand::set_CommandText method
+## DbCommand::set_CommandText([String](../../../system/string/)) const method
 
 
 Sets DB command text.

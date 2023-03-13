@@ -1,12 +1,12 @@
 ---
-title: JapaneseCalendar
+title: JapaneseCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.globalization/japanesecalendar/japanesecalendar/
 ---
-## JapaneseCalendar::JapaneseCalendar constructor
+## JapaneseCalendar::JapaneseCalendar() constructor
 
 
 Constructor.

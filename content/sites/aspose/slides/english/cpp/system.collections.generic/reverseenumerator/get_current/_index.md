@@ -1,12 +1,12 @@
 ---
-title: get_Current
+title: get_Current()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets 'current' element.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/reverseenumerator/get_current/
 ---
-## ReverseEnumerator::get_Current method
+## ReverseEnumerator::get_Current() const method
 
 
 Gets 'current' element.

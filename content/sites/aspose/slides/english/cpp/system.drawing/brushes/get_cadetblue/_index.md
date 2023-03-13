@@ -1,12 +1,12 @@
 ---
-title: get_CadetBlue
+title: get_CadetBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF5F9EA0.
 type: docs
 weight: 170
 url: /cpp/system.drawing/brushes/get_cadetblue/
 ---
-## Brushes::get_CadetBlue method
+## Brushes::get_CadetBlue() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF5F9EA0.

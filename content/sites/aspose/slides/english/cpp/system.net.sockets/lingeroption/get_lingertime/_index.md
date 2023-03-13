@@ -1,12 +1,12 @@
 ---
-title: get_LingerTime
+title: get_LingerTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a delay timeout in seconds.
 type: docs
 weight: 27
 url: /cpp/system.net.sockets/lingeroption/get_lingertime/
 ---
-## LingerOption::get_LingerTime method
+## LingerOption::get_LingerTime() method
 
 
 Gets a delay timeout in seconds.

@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Remove current node.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.smartart/ismartartnode/remove/
 ---
-## ISmartArtNode::Remove method
+## ISmartArtNode::Remove() method
 
 
 Remove current node.

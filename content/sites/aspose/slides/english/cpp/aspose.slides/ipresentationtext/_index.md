@@ -1,7 +1,7 @@
 ---
 title: IPresentationText
 second_title: Aspose.Slides for C++ API Reference
-description: Represents the text extracted from the slide.
+description: Represents the text extracted from the slide
 type: docs
 weight: 3251
 url: /cpp/aspose.slides/ipresentationtext/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/ipresentationtext/
 ## IPresentationText class
 
 
-Represents the text extracted from the slide.
+Represents the text extracted from the slide
 
 ```cpp
 class IPresentationText : public System::Object

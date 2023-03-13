@@ -1,12 +1,12 @@
 ---
-title: ToUInt32
+title: ToUInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a UInt32 equivalent.
 type: docs
 weight: 352
 url: /cpp/system.xml/xmlconvert/touint32/
 ---
-## XmlConvert::ToUInt32 method
+## XmlConvert::ToUInt32(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [UInt32](../../../system/uint32/) equivalent.

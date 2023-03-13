@@ -1,12 +1,12 @@
 ---
-title: get_Relay
+title: get_Relay()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'relay' attribute.
 type: docs
 weight: 157
 url: /cpp/system.web.services.protocols/soapheader/get_relay/
 ---
-## SoapHeader::get_Relay method
+## SoapHeader::get_Relay() method
 
 
 Gets a value of the 'relay' attribute.

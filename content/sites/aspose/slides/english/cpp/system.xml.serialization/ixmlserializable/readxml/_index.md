@@ -1,12 +1,12 @@
 ---
-title: ReadXml
+title: ReadXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Deserializes object from its XML representation.
 type: docs
 weight: 14
 url: /cpp/system.xml.serialization/ixmlserializable/readxml/
 ---
-## IXmlSerializable::ReadXml method
+## IXmlSerializable::ReadXml([System::SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlReader](../../../system.xml/xmlreader/)\>) method
 
 
 Deserializes object from its XML representation.

@@ -1,12 +1,12 @@
 ---
-title: set_DrawSlidesFrame
+title: set_DrawSlidesFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: True to draw black frame around each slide. Write bool.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.export/xpsoptions/set_drawslidesframe/
 ---
-## XpsOptions::set_DrawSlidesFrame method
+## XpsOptions::set_DrawSlidesFrame(**bool**) method
 
 
 True to draw black frame around each slide. Write **bool**.

@@ -1,12 +1,12 @@
 ---
-title: Acos
+title: Acos()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the arccosine of the specified value.
 type: docs
 weight: 1
 url: /cpp/system/math/acos/
 ---
-## Math::Acos method
+## Math::Acos(**double**) method
 
 
 Calculates the arccosine of the specified value.

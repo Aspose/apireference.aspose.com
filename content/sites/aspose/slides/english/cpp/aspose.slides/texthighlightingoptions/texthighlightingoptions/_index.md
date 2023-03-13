@@ -1,12 +1,12 @@
 ---
-title: TextHighlightingOptions
+title: TextHighlightingOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new default text highlighting options.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/texthighlightingoptions/texthighlightingoptions/
 ---
-## TextHighlightingOptions::TextHighlightingOptions constructor
+## TextHighlightingOptions::TextHighlightingOptions() constructor
 
 
 Creates new default text highlighting options.

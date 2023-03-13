@@ -1,15 +1,15 @@
 ---
-title: CloseFigure
+title: CloseFigure()
 second_title: Aspose.Slides for C++ API Reference
-description: Closes the current figure of this path.
+description: Closes the current figure of this path
 type: docs
 weight: 131
 url: /cpp/aspose.slides/geometrypath/closefigure/
 ---
-## GeometryPath::CloseFigure method
+## GeometryPath::CloseFigure() method
 
 
-Closes the current figure of this path.
+Closes the current figure of this path
 
 ```cpp
 void Aspose::Slides::GeometryPath::CloseFigure() override

@@ -1,12 +1,12 @@
 ---
-title: get_IsMetric
+title: get_IsMetric()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether region uses metric system.
 type: docs
 weight: 170
 url: /cpp/system.globalization/regioninfo/get_ismetric/
 ---
-## RegionInfo::get_IsMetric method
+## RegionInfo::get_IsMetric() const method
 
 
 Checks whether region uses metric system.

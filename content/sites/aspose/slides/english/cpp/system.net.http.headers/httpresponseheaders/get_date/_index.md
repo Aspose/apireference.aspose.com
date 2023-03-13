@@ -1,12 +1,12 @@
 ---
-title: get_Date
+title: get_Date()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Date' header.
 type: docs
 weight: 235
 url: /cpp/system.net.http.headers/httpresponseheaders/get_date/
 ---
-## HttpResponseHeaders::get_Date method
+## HttpResponseHeaders::get_Date() method
 
 
 Gets a value of the 'Date' header.

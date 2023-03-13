@@ -1,12 +1,12 @@
 ---
-title: get_Capacity
+title: get_Capacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current capacity of the underlying memory buffer.
 type: docs
 weight: 53
 url: /cpp/system.io/unmanagedmemorystream/get_capacity/
 ---
-## UnmanagedMemoryStream::get_Capacity method
+## UnmanagedMemoryStream::get_Capacity() const method
 
 
 Returns the current capacity of the underlying memory buffer.

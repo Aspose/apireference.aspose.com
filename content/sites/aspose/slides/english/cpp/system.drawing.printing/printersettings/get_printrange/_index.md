@@ -1,12 +1,12 @@
 ---
-title: get_PrintRange
+title: get_PrintRange()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 14
 url: /cpp/system.drawing.printing/printersettings/get_printrange/
 ---
-## PrinterSettings::get_PrintRange method
+## PrinterSettings::get_PrintRange() method
 
 
 NOT IMPLEMENTED.

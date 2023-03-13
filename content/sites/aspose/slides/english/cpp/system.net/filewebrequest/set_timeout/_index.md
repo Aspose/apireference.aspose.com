@@ -1,12 +1,12 @@
 ---
-title: set_Timeout
+title: set_Timeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets an amount of time in milliseconds after which the request will be timed out.
 type: docs
 weight: 1
 url: /cpp/system.net/filewebrequest/set_timeout/
 ---
-## FileWebRequest::set_Timeout method
+## FileWebRequest::set_Timeout(int) method
 
 
 Sets an amount of time in milliseconds after which the request will be timed out.

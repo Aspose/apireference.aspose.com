@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets hash code for current IdnMapping object.
 type: docs
 weight: 118
 url: /cpp/system.globalization/idnmapping/gethashcode/
 ---
-## IdnMapping::GetHashCode method
+## IdnMapping::GetHashCode() const method
 
 
 Gets hash code for current [IdnMapping](../) object.

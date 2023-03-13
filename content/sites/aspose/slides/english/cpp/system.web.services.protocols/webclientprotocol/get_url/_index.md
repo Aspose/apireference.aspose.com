@@ -1,12 +1,12 @@
 ---
-title: get_Url
+title: get_Url()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the XML Web service URL.
 type: docs
 weight: 157
 url: /cpp/system.web.services.protocols/webclientprotocol/get_url/
 ---
-## WebClientProtocol::get_Url method
+## WebClientProtocol::get_Url() method
 
 
 Gets the XML [Web](../../../system.web/) service URL.

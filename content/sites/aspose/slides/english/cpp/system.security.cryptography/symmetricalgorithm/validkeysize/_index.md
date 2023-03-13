@@ -1,12 +1,12 @@
 ---
-title: ValidKeySize
+title: ValidKeySize()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if key size is valid.
 type: docs
 weight: 235
 url: /cpp/system.security.cryptography/symmetricalgorithm/validkeysize/
 ---
-## SymmetricAlgorithm::ValidKeySize method
+## SymmetricAlgorithm::ValidKeySize(int) method
 
 
 Checks if key size is valid.

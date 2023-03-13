@@ -1,12 +1,12 @@
 ---
-title: SetLastAccessTime
+title: SetLastAccessTime()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 417
 url: /cpp/system.io/file/setlastaccesstime/
 ---
-## File::SetLastAccessTime method
+## File::SetLastAccessTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
 
 
 NOT IMPLEMENTED.

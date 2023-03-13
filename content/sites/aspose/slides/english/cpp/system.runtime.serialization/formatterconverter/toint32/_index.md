@@ -1,12 +1,12 @@
 ---
-title: ToInt32
+title: ToInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a int32_t.
 type: docs
 weight: 105
 url: /cpp/system.runtime.serialization/formatterconverter/toint32/
 ---
-## FormatterConverter::ToInt32 method
+## FormatterConverter::ToInt32([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a **int32_t**.

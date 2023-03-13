@@ -1,12 +1,12 @@
 ---
-title: get_FrameCount
+title: get_FrameCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets count of frames in stack trace.
 type: docs
 weight: 53
 url: /cpp/system.diagnostics/stacktrace/get_framecount/
 ---
-## StackTrace::get_FrameCount method
+## StackTrace::get_FrameCount() const method
 
 
 Gets count of frames in stack trace.

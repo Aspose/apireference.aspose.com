@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets thread name.
 type: docs
 weight: 170
 url: /cpp/system.threading/thread/set_name/
 ---
-## Thread::set_Name method
+## Thread::set_Name(const [System::String](../../../system/string/)\&) method
 
 
 Sets thread name.

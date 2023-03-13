@@ -1,12 +1,12 @@
 ---
-title: get_HatchStyle
+title: get_HatchStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates the hatch style of this brush.
 type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/hatchbrush/get_hatchstyle/
 ---
-## HatchBrush::get_HatchStyle method
+## HatchBrush::get_HatchStyle() const method
 
 
 Returns a value that indicates the hatch style of this brush.

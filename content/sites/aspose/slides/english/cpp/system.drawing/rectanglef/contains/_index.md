@@ -1,5 +1,5 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified point is located within the rectangle represented by the current object.
 type: docs

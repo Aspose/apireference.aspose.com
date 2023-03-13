@@ -1,12 +1,12 @@
 ---
-title: IsNCNameChar
+title: IsNCNameChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether the passed-in character is a valid non-colon character type.
 type: docs
 weight: 157
 url: /cpp/system.xml/xmlconvert/isncnamechar/
 ---
-## XmlConvert::IsNCNameChar method
+## XmlConvert::IsNCNameChar(char16_t) method
 
 
 Checks whether the passed-in character is a valid non-colon character type.

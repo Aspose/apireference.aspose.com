@@ -1,12 +1,12 @@
 ---
-title: get_FocusScales
+title: get_FocusScales()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the focus point for the gradient falloff.
 type: docs
 weight: 287
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_focusscales/
 ---
-## PathGradientBrush::get_FocusScales method
+## PathGradientBrush::get_FocusScales() const method
 
 
 Gets the focus point for the gradient falloff.

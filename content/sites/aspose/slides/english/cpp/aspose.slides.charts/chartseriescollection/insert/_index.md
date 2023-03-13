@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new chart series and inserts it into the collection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/chartseriescollection/insert/
 ---
-## ChartSeriesCollection::Insert method
+## ChartSeriesCollection::Insert(**int32_t**, [ChartType](../../charttype/)) method
 
 
 Creates new chart series and inserts it into the collection.

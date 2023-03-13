@@ -1,5 +1,5 @@
 ---
-title: AddFirst
+title: AddFirst()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element to the beginning of the list.
 type: docs

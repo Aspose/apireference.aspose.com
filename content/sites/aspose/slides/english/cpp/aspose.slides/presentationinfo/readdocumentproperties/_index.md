@@ -1,12 +1,12 @@
 ---
-title: ReadDocumentProperties
+title: ReadDocumentProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets document properties of binded presentation.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/presentationinfo/readdocumentproperties/
 ---
-## PresentationInfo::ReadDocumentProperties method
+## PresentationInfo::ReadDocumentProperties() method
 
 
 Gets document properties of binded presentation.

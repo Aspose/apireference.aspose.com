@@ -1,12 +1,12 @@
 ---
-title: SetLastWriteTimeUtc
+title: SetLastWriteTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the last write time of the specified entity as UTC time.
 type: docs
 weight: 404
 url: /cpp/system.io/file/setlastwritetimeutc/
 ---
-## File::SetLastWriteTimeUtc method
+## File::SetLastWriteTimeUtc(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
 
 
 Sets the last write time of the specified entity as UTC time.

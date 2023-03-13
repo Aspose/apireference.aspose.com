@@ -1,5 +1,5 @@
 ---
-title: HashData
+title: HashData()
 second_title: Aspose.Slides for C++ API Reference
 description: Computes the hash value of the specified data array using the specified hash algorithm.
 type: docs

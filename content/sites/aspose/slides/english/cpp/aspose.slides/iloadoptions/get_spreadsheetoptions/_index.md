@@ -1,12 +1,12 @@
 ---
-title: get_SpreadsheetOptions
+title: get_SpreadsheetOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents options which can be used to specify additional spreadsheets behavior.
 type: docs
 weight: 287
 url: /cpp/aspose.slides/iloadoptions/get_spreadsheetoptions/
 ---
-## ILoadOptions::get_SpreadsheetOptions method
+## ILoadOptions::get_SpreadsheetOptions() method
 
 
 Represents options which can be used to specify additional spreadsheets behavior.

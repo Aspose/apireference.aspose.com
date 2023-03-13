@@ -1,12 +1,12 @@
 ---
-title: get_Datatype
+title: get_Datatype()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-compilation value for the data type of the complex type.
 type: docs
 weight: 118
 url: /cpp/system.xml.schema/xmlschematype/get_datatype/
 ---
-## XmlSchemaType::get_Datatype method
+## XmlSchemaType::get_Datatype() method
 
 
 Returns the post-compilation value for the data type of the complex type.

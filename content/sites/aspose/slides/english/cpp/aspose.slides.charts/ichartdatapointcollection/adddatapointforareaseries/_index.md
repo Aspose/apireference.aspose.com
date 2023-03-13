@@ -1,5 +1,5 @@
 ---
-title: AddDataPointForAreaSeries
+title: AddDataPointForAreaSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the new data point and adds it to the end of collection. Applicable for series which chartType is one of Area subtypes (see also ChartTypeCharacterizer.IsChartTypeArea(ChartType) method).
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases all resources used by the current object and closes the stream.
 type: docs
 weight: 105
 url: /cpp/system.io/stream/dispose/
 ---
-## Stream::Dispose method
+## Stream::Dispose() method
 
 
 Releases all resources used by the current object and closes the stream.

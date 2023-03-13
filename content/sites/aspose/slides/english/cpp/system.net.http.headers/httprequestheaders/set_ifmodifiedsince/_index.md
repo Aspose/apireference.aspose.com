@@ -1,12 +1,12 @@
 ---
-title: set_IfModifiedSince
+title: set_IfModifiedSince()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'If-Modified-Since' header.
 type: docs
 weight: 196
 url: /cpp/system.net.http.headers/httprequestheaders/set_ifmodifiedsince/
 ---
-## HttpRequestHeaders::set_IfModifiedSince method
+## HttpRequestHeaders::set_IfModifiedSince([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
 
 
 Sets a value of the 'If-Modified-Since' header.

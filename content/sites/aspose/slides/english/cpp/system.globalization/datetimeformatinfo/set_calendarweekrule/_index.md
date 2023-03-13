@@ -1,12 +1,12 @@
 ---
-title: set_CalendarWeekRule
+title: set_CalendarWeekRule()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets calendar week rule associated with formatter.
 type: docs
 weight: 378
 url: /cpp/system.globalization/datetimeformatinfo/set_calendarweekrule/
 ---
-## DateTimeFormatInfo::set_CalendarWeekRule method
+## DateTimeFormatInfo::set_CalendarWeekRule([CalendarWeekRule](../../calendarweekrule/)) method
 
 
 Sets calendar week rule associated with formatter.

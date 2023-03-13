@@ -1,12 +1,12 @@
 ---
-title: Warning
+title: Warning()
 second_title: Aspose.Slides for C++ API Reference
 description: Callback method which receives warning and decides whether operation should be aborted.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.warnings/iwarningcallback/warning/
 ---
-## IWarningCallback::Warning method
+## IWarningCallback::Warning([System::SharedPtr](../../../system/sharedptr/)\<[IWarningInfo](../../iwarninginfo/)\>) method
 
 
 Callback method which receives warning and decides whether operation should be aborted.

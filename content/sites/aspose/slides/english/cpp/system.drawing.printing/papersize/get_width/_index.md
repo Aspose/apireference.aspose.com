@@ -1,12 +1,12 @@
 ---
-title: get_Width
+title: get_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the width of the paper, in hundredths of an inch.
 type: docs
 weight: 105
 url: /cpp/system.drawing.printing/papersize/get_width/
 ---
-## PaperSize::get_Width method
+## PaperSize::get_Width() const method
 
 
 Gets the width of the paper, in hundredths of an inch.

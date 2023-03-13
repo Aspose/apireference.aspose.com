@@ -1,12 +1,12 @@
 ---
-title: GeometryPathToGraphicsPath
+title: GeometryPathToGraphicsPath()
 second_title: Aspose.Slides for C++ API Reference
 description: "Converts IGeometryPath to System::Drawing::Drawing2D::GraphicsPath."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.util/shapeutil/geometrypathtographicspath/
 ---
-## ShapeUtil::GeometryPathToGraphicsPath method
+## ShapeUtil::GeometryPathToGraphicsPath([System::SharedPtr](../../../system/sharedptr/)\<[IGeometryPath](../../../aspose.slides/igeometrypath/)\>) method
 
 
 Converts [IGeometryPath](../../../aspose.slides/igeometrypath/) to [System::Drawing::Drawing2D::GraphicsPath](../../../system.drawing.drawing2d/graphicspath/).
@@ -28,7 +28,7 @@ Graphics path
 ## Remarks
 
 
-GraphicsPath can be transformed in a different ways using its convenient methods and then transformed back into the [IGeometryPath](../../../aspose.slides/igeometrypath/) to use in [GeometryShape](../../../aspose.slides/geometryshape/) via [ShapeUtil::GraphicsPathToGeometryPath](../graphicspathtogeometrypath/) method.
+GraphicsPath can be transformed in a different ways using its convenient methods and then transformed back into the [IGeometryPath](../../../aspose.slides/igeometrypath/) to use in [GeometryShape](../../../aspose.slides/geometryshape/) via [ShapeUtil::GraphicsPathToGeometryPath](../graphicspathtogeometrypath/) method. 
 
 ## See Also
 

@@ -1,12 +1,12 @@
 ---
-title: get_Resolution
+title: get_Resolution()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the resolution dimension.
 type: docs
 weight: 53
 url: /cpp/system.drawing.imaging/framedimension/get_resolution/
 ---
-## FrameDimension::get_Resolution method
+## FrameDimension::get_Resolution() method
 
 
 Returns the resolution dimension.

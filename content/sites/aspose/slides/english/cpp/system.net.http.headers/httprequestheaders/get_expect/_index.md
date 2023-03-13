@@ -1,12 +1,12 @@
 ---
-title: get_Expect
+title: get_Expect()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns value of the 'Expect' header.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httprequestheaders/get_expect/
 ---
-## HttpRequestHeaders::get_Expect method
+## HttpRequestHeaders::get_Expect() method
 
 
 Returns value of the 'Expect' header.

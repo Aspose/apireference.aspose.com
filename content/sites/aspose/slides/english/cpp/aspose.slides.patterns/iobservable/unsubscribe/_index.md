@@ -1,12 +1,12 @@
 ---
-title: Unsubscribe
+title: Unsubscribe()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/aspose.slides.patterns/iobservable/unsubscribe/
 ---
-## IObservable::Unsubscribe method
+## IObservable::Unsubscribe([System::SharedPtr](../../../system/sharedptr/)\<[IObserver](../../iobserver/)\>) method
 
 
 

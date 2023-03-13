@@ -1,12 +1,12 @@
 ---
-title: get_Crimson
+title: get_Crimson()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFDC143C.
 type: docs
 weight: 261
 url: /cpp/system.drawing/pens/get_crimson/
 ---
-## Pens::get_Crimson method
+## Pens::get_Crimson() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFDC143C.

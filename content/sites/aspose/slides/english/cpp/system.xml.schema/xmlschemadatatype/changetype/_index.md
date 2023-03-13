@@ -1,5 +1,5 @@
 ---
-title: ChangeType
+title: ChangeType()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value specified, whose type is one of the valid representations of the XML schema type represented by the XmlSchemaDatatype, to the run-time type specified.
 type: docs

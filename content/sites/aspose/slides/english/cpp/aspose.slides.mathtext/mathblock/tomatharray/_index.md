@@ -1,15 +1,15 @@
 ---
-title: ToMathArray
+title: ToMathArray()
 second_title: Aspose.Slides for C++ API Reference
-description: Puts child elements in a vertical array.
+description: Puts child elements in a vertical array
 type: docs
 weight: 235
 url: /cpp/aspose.slides.mathtext/mathblock/tomatharray/
 ---
-## MathBlock::ToMathArray method
+## MathBlock::ToMathArray() method
 
 
-Puts child elements in a vertical array.
+Puts child elements in a vertical array
 
 ```cpp
 System::SharedPtr<IMathArray> Aspose::Slides::MathText::MathBlock::ToMathArray() override

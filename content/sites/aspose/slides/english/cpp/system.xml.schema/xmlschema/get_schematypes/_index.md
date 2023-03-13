@@ -1,12 +1,12 @@
 ---
-title: get_SchemaTypes
+title: get_SchemaTypes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-schema-compilation value of all schema types in the schema.
 type: docs
 weight: 222
 url: /cpp/system.xml.schema/xmlschema/get_schematypes/
 ---
-## XmlSchema::get_SchemaTypes method
+## XmlSchema::get_SchemaTypes() method
 
 
 Returns the post-schema-compilation value of all schema types in the schema.

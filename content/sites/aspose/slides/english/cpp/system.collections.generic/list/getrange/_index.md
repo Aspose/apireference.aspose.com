@@ -1,12 +1,12 @@
 ---
-title: GetRange
+title: GetRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates slice of list.
 type: docs
 weight: 443
 url: /cpp/system.collections.generic/list/getrange/
 ---
-## List::GetRange method
+## List::GetRange(int, int) method
 
 
 Creates slice of list.

@@ -1,12 +1,12 @@
 ---
-title: FromLogFont
+title: FromLogFont()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 248
 url: /cpp/system.drawing/font/fromlogfont/
 ---
-## Font::FromLogFont method
+## Font::FromLogFont(const [SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
 
 
 NOT IMPLEMENTED.

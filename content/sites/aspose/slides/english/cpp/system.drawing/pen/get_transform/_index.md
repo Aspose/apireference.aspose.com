@@ -1,12 +1,12 @@
 ---
-title: get_Transform
+title: get_Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a copy of a Matrix object that specifies the geometrical transformations for the pen represneted by the current object.
 type: docs
 weight: 300
 url: /cpp/system.drawing/pen/get_transform/
 ---
-## Pen::get_Transform method
+## Pen::get_Transform() method
 
 
 Returns a copy of a Matrix object that specifies the geometrical transformations for the pen represneted by the current object.

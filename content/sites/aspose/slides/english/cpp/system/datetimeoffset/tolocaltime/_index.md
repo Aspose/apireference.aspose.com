@@ -1,12 +1,12 @@
 ---
-title: ToLocalTime
+title: ToLocalTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts current object to a object that represents the local time,.
 type: docs
 weight: 417
 url: /cpp/system/datetimeoffset/tolocaltime/
 ---
-## DateTimeOffset::ToLocalTime method
+## DateTimeOffset::ToLocalTime() const method
 
 
 Converts current object to a object that represents the local time,.

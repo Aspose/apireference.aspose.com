@@ -1,12 +1,12 @@
 ---
-title: Encrypt
+title: Encrypt()
 second_title: Aspose.Slides for C++ API Reference
 description: Encrypts input data using the specified padding mode.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/rsa/encrypt/
 ---
-## RSA::Encrypt method
+## RSA::Encrypt([ByteArrayPtr](../../../system/bytearrayptr/), [SharedPtr](../../../system/sharedptr/)\<[RSAEncryptionPadding](../../rsaencryptionpadding/)\>) method
 
 
 Encrypts input data using the specified padding mode.

@@ -1,12 +1,12 @@
 ---
-title: set_Brush
+title: set_Brush()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets this pen's Brush object.
 type: docs
 weight: 352
 url: /cpp/system.drawing/pen/set_brush/
 ---
-## Pen::set_Brush method
+## Pen::set_Brush(const [SharedPtr](../../../system/sharedptr/)\<[Brush](../../brush/)\>\&) method
 
 
 Sets this pen's [Brush](../../brush/) object.

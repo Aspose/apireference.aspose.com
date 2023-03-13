@@ -1,12 +1,12 @@
 ---
-title: AddObject
+title: AddObject()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 183
 url: /cpp/system.security.cryptography.xml/signedxml/addobject/
 ---
-## SignedXml::AddObject method
+## SignedXml::AddObject([SharedPtr](../../../system/sharedptr/)\<[DataObject](../../dataobject/)\>) method
 
 
 

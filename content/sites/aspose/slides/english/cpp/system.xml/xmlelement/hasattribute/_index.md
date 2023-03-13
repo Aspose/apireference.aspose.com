@@ -1,5 +1,5 @@
 ---
-title: HasAttribute
+title: HasAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the current node has an attribute with the specified name.
 type: docs

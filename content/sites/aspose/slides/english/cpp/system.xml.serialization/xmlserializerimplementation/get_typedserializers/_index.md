@@ -1,12 +1,12 @@
 ---
-title: get_TypedSerializers
+title: get_TypedSerializers()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/system.xml.serialization/xmlserializerimplementation/get_typedserializers/
 ---
-## XmlSerializerImplementation::get_TypedSerializers method
+## XmlSerializerImplementation::get_TypedSerializers() method
 
 
 

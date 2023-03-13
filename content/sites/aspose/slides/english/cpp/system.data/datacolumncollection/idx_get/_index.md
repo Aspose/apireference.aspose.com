@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets column by index.
 type: docs
 weight: 14
 url: /cpp/system.data/datacolumncollection/idx_get/
 ---
-## DataColumnCollection::idx_get method
+## DataColumnCollection::idx_get(const **int32_t**) method
 
 
 Gets column by index.

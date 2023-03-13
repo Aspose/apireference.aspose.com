@@ -1,12 +1,12 @@
 ---
-title: GetHostByName
+title: GetHostByName()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new IPHostEntry-class instance using the specified host name.
 type: docs
 weight: 1
 url: /cpp/system.net/dns/gethostbyname/
 ---
-## Dns::GetHostByName method
+## Dns::GetHostByName([String](../../../system/string/)) method
 
 
 Creates a new IPHostEntry-class instance using the specified host name.

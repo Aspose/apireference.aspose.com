@@ -1,12 +1,12 @@
 ---
-title: ContainsKey
+title: ContainsKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if container contains key.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/idictionary/containskey/
 ---
-## IDictionary::ContainsKey method
+## IDictionary::ContainsKey(const TKey\&) const method
 
 
 Checks if container contains key.

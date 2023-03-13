@@ -1,12 +1,12 @@
 ---
-title: GetTempFileName_
+title: GetTempFileName_()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new file with a unique name and returns a full path to it.
 type: docs
 weight: 144
 url: /cpp/system.io/path/gettempfilename_/
 ---
-## Path::GetTempFileName_ method
+## Path::GetTempFileName_() method
 
 
 Creates a new file with a unique name and returns a full path to it.

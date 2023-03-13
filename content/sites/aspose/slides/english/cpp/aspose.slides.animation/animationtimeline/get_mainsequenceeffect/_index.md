@@ -1,12 +1,12 @@
 ---
-title: get_MainSequenceEffect
+title: get_MainSequenceEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns effect from main sequence at the specified index.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/animationtimeline/get_mainsequenceeffect/
 ---
-## AnimationTimeLine::get_MainSequenceEffect method
+## AnimationTimeLine::get_MainSequenceEffect(**int32_t**) method
 
 
 Returns effect from main sequence at the specified index.

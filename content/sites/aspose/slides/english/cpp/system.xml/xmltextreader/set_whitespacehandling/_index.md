@@ -1,12 +1,12 @@
 ---
-title: set_WhitespaceHandling
+title: set_WhitespaceHandling()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that specifies how white space is handled.
 type: docs
 weight: 378
 url: /cpp/system.xml/xmltextreader/set_whitespacehandling/
 ---
-## XmlTextReader::set_WhitespaceHandling method
+## XmlTextReader::set_WhitespaceHandling([System::Xml::WhitespaceHandling](../../whitespacehandling/)) method
 
 
 Sets a value that specifies how white space is handled.

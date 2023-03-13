@@ -1,5 +1,5 @@
 ---
-title: Dictionary
+title: Dictionary()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates empty dictionary.
 type: docs

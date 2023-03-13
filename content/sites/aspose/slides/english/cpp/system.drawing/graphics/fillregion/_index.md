@@ -1,12 +1,12 @@
 ---
-title: FillRegion
+title: FillRegion()
 second_title: Aspose.Slides for C++ API Reference
 description: Fills the interiors of the specified region using the specified brush.
 type: docs
 weight: 404
 url: /cpp/system.drawing/graphics/fillregion/
 ---
-## Graphics::FillRegion method
+## Graphics::FillRegion(const [SharedPtr](../../../system/sharedptr/)\<[Brush](../../brush/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[Region](../../region/)\>\&) method
 
 
 Fills the interiors of the specified region using the specified brush.

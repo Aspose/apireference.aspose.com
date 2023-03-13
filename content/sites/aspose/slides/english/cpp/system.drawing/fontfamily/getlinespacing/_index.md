@@ -1,12 +1,12 @@
 ---
-title: GetLineSpacing
+title: GetLineSpacing()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line spacing of the font family represented by the current object for the specified font style.
 type: docs
 weight: 79
 url: /cpp/system.drawing/fontfamily/getlinespacing/
 ---
-## FontFamily::GetLineSpacing method
+## FontFamily::GetLineSpacing([FontStyle](../../fontstyle/)) method
 
 
 Returns the line spacing of the font family represented by the current object for the specified font style.

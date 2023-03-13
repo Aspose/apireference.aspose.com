@@ -1,5 +1,5 @@
 ---
-title: AppendFormat
+title: AppendFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Appends formated string to builder.
 type: docs

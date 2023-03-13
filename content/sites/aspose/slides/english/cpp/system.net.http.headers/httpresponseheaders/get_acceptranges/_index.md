@@ -1,12 +1,12 @@
 ---
-title: get_AcceptRanges
+title: get_AcceptRanges()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'Accept-Ranges' header.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/httpresponseheaders/get_acceptranges/
 ---
-## HttpResponseHeaders::get_AcceptRanges method
+## HttpResponseHeaders::get_AcceptRanges() method
 
 
 Returns a value of the 'Accept-Ranges' header.

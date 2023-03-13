@@ -1,12 +1,12 @@
 ---
-title: set_ValueType
+title: set_ValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the type of a property value. Write PropertyValueType.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/ipropertyeffect/set_valuetype/
 ---
-## IPropertyEffect::set_ValueType method
+## IPropertyEffect::set_ValueType([PropertyValueType](../../propertyvaluetype/)) method
 
 
 Specifies the type of a property value. Write [PropertyValueType](../../propertyvaluetype/).

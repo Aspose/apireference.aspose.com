@@ -1,12 +1,12 @@
 ---
-title: set_Proxy
+title: set_Proxy()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the proxy information.
 type: docs
 weight: 105
 url: /cpp/system.net.http/httpclienthandler/set_proxy/
 ---
-## HttpClientHandler::set_Proxy method
+## HttpClientHandler::set_Proxy([System::SharedPtr](../../../system/sharedptr/)\<[IWebProxy](../../../system.net/iwebproxy/)\>) method
 
 
 Sets the proxy information.

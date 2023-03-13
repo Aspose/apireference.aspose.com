@@ -1,12 +1,12 @@
 ---
-title: set_Transform
+title: set_Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the geometric world transformation for the current Graphics object.
 type: docs
 weight: 625
 url: /cpp/system.drawing/graphics/set_transform/
 ---
-## Graphics::set_Transform method
+## Graphics::set_Transform(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::Matrix](../../../system.drawing.drawing2d/matrix/)\>\&) method
 
 
 Sets the geometric world transformation for the current [Graphics](../) object.

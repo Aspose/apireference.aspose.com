@@ -1,12 +1,12 @@
 ---
-title: get_MaxWindowTrackSize
+title: get_MaxWindowTrackSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 638
 url: /cpp/system.windows.forms/systeminformation/get_maxwindowtracksize/
 ---
-## SystemInformation::get_MaxWindowTrackSize method
+## SystemInformation::get_MaxWindowTrackSize() method
 
 
 NOT IMPLEMENTED.

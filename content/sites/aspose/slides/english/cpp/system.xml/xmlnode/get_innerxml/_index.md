@@ -1,12 +1,12 @@
 ---
-title: get_InnerXml
+title: get_InnerXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the markup representing only the child nodes of this node.
 type: docs
 weight: 274
 url: /cpp/system.xml/xmlnode/get_innerxml/
 ---
-## XmlNode::get_InnerXml method
+## XmlNode::get_InnerXml() method
 
 
 Returns the markup representing only the child nodes of this node.

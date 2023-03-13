@@ -1,12 +1,12 @@
 ---
-title: get_Particle
+title: get_Particle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns one of the XmlSchemaChoice, XmlSchemaAll, or XmlSchemaSequence classes, which holds the post-compilation interpretation of the Particle value.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemagroupref/get_particle/
 ---
-## XmlSchemaGroupRef::get_Particle method
+## XmlSchemaGroupRef::get_Particle() method
 
 
 Returns one of the [XmlSchemaChoice](../../xmlschemachoice/), [XmlSchemaAll](../../xmlschemaall/), or [XmlSchemaSequence](../../xmlschemasequence/) classes, which holds the post-compilation interpretation of the **Particle** value.

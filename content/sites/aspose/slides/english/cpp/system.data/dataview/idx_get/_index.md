@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets row views.
 type: docs
 weight: 14
 url: /cpp/system.data/dataview/idx_get/
 ---
-## DataView::idx_get method
+## DataView::idx_get(const **int32_t**) method
 
 
 Gets row views.

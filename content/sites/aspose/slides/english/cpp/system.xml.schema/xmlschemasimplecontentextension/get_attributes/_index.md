@@ -1,12 +1,12 @@
 ---
-title: get_Attributes
+title: get_Attributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of XmlSchemaAttribute and XmlSchemaAttributeGroupRef.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemasimplecontentextension/get_attributes/
 ---
-## XmlSchemaSimpleContentExtension::get_Attributes method
+## XmlSchemaSimpleContentExtension::get_Attributes() method
 
 
 Returns the collection of [XmlSchemaAttribute](../../xmlschemaattribute/) and [XmlSchemaAttributeGroupRef](../../xmlschemaattributegroupref/).

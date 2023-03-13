@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates culture-specific comparer.
 type: docs
 weight: 79
 url: /cpp/system/stringcomparer/create/
 ---
-## StringComparer::Create method
+## StringComparer::Create(const [System::SharedPtr](../../sharedptr/)\<[System::Globalization::CultureInfo](../../../system.globalization/cultureinfo/)\>\&, **bool**) method
 
 
 Creates culture-specific comparer.

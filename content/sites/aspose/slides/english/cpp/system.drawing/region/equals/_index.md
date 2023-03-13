@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified region is identical to the region represented by the current object on the specified drawing surface.
 type: docs
 weight: 157
 url: /cpp/system.drawing/region/equals/
 ---
-## Region::Equals method
+## Region::Equals(const [SharedPtr](../../../system/sharedptr/)\<[Region](../)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[Graphics](../../graphics/)\>\&) method
 
 
 Determines whether the specified region is identical to the region represented by the current object on the specified drawing surface.

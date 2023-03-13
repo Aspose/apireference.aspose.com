@@ -1,12 +1,12 @@
 ---
-title: get_IsEmptyElement
+title: get_IsEmptyElement()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets a value indicating whether the current node is an empty element (for example, <MyElement/>).
 type: docs
 weight: 131
 url: /cpp/system.xml/xmlreader/get_isemptyelement/
 ---
-## XmlReader::get_IsEmptyElement method
+## XmlReader::get_IsEmptyElement() method
 
 
 When overridden in a derived class, gets a value indicating whether the current node is an empty element (for example, **<MyElement/>**).

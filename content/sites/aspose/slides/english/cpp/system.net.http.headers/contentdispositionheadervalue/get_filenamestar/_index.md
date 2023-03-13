@@ -1,12 +1,12 @@
 ---
-title: get_FileNameStar
+title: get_FileNameStar()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that determines how to construct filenames for storing the message payload. It is used when the entities are detached and stored in separate files.
 type: docs
 weight: 92
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_filenamestar/
 ---
-## ContentDispositionHeaderValue::get_FileNameStar method
+## ContentDispositionHeaderValue::get_FileNameStar() method
 
 
 Gets a value that determines how to construct filenames for storing the message payload. It is used when the entities are detached and stored in separate files.

@@ -1,15 +1,15 @@
 ---
-title: get_ExtrusionType
+title: get_ExtrusionType()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'extrusion.type' property.
+description: Represents 'extrusion.type' property
 type: docs
 weight: 1301
 url: /cpp/aspose.slides.animation/behaviorproperty/get_extrusiontype/
 ---
-## BehaviorProperty::get_ExtrusionType method
+## BehaviorProperty::get_ExtrusionType() method
 
 
-Represents 'extrusion.type' property.
+Represents 'extrusion.type' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ExtrusionType()

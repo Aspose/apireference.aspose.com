@@ -1,12 +1,12 @@
 ---
-title: SetTemplateWeakPtr
+title: SetTemplateWeakPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Enables compilation, but doesn't actually do anything as this structure doesn't own data.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/basekvcollection/settemplateweakptr/
 ---
-## BaseKVCollection::SetTemplateWeakPtr method
+## BaseKVCollection::SetTemplateWeakPtr(**uint32_t**) method
 
 
 Enables compilation, but doesn't actually do anything as this structure doesn't own data.

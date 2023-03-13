@@ -1,12 +1,12 @@
 ---
-title: CalculateFormulas
+title: CalculateFormulas()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates all formulas in the workbook and updates corresponding cells values.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/chartdataworkbook/calculateformulas/
 ---
-## ChartDataWorkbook::CalculateFormulas method
+## ChartDataWorkbook::CalculateFormulas() method
 
 
 Calculates all formulas in the workbook and updates corresponding cells values.

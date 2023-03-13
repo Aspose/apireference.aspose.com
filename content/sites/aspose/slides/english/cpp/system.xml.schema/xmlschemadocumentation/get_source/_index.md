@@ -1,12 +1,12 @@
 ---
-title: get_Source
+title: get_Source()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Uniform Resource Identifier (URI) source of the information.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemadocumentation/get_source/
 ---
-## XmlSchemaDocumentation::get_Source method
+## XmlSchemaDocumentation::get_Source() method
 
 
 Returns the Uniform Resource Identifier (URI) source of the information.

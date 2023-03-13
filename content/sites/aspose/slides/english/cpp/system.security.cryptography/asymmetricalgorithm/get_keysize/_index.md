@@ -1,12 +1,12 @@
 ---
-title: get_KeySize
+title: get_KeySize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets key size.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/asymmetricalgorithm/get_keysize/
 ---
-## AsymmetricAlgorithm::get_KeySize method
+## AsymmetricAlgorithm::get_KeySize() method
 
 
 Gets key size.

@@ -1,5 +1,5 @@
 ---
-title: rend
+title: rend()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a reverse iterator for a non-existent element before the start of the collection.
 type: docs

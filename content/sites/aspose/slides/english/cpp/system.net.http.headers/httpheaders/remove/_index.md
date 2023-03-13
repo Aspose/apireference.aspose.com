@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to remove an item by the specified name.
 type: docs
 weight: 40
 url: /cpp/system.net.http.headers/httpheaders/remove/
 ---
-## HttpHeaders::Remove method
+## HttpHeaders::Remove([String](../../../system/string/)) method
 
 
 Tries to remove an item by the specified name.

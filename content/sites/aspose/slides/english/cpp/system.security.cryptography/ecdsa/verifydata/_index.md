@@ -1,5 +1,5 @@
 ---
-title: VerifyData
+title: VerifyData()
 second_title: Aspose.Slides for C++ API Reference
 description: Verifies that the signature of the specified data is valid.
 type: docs

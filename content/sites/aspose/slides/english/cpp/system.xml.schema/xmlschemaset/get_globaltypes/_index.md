@@ -1,12 +1,12 @@
 ---
-title: get_GlobalTypes
+title: get_GlobalTypes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns all of the global simple and complex types in all the XML Schema definition language (XSD) schemas in the XmlSchemaSet.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemaset/get_globaltypes/
 ---
-## XmlSchemaSet::get_GlobalTypes method
+## XmlSchemaSet::get_GlobalTypes() method
 
 
 Returns all of the global simple and complex types in all the XML [Schema](../../) definition language (XSD) schemas in the [XmlSchemaSet](../).

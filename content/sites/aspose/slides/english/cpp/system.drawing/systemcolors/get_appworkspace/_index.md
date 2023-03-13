@@ -1,12 +1,12 @@
 ---
-title: get_AppWorkspace
+title: get_AppWorkspace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Color object that represents the color of the application workspace.
 type: docs
 weight: 40
 url: /cpp/system.drawing/systemcolors/get_appworkspace/
 ---
-## SystemColors::get_AppWorkspace method
+## SystemColors::get_AppWorkspace() method
 
 
 Returns a [Color](../../color/) object that represents the color of the application workspace.

@@ -1,12 +1,12 @@
 ---
-title: get_Direction
+title: get_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of reflection. Read-only float.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.effects/ireflectioneffectivedata/get_direction/
 ---
-## IReflectionEffectiveData::get_Direction method
+## IReflectionEffectiveData::get_Direction() method
 
 
 Direction of reflection. Read-only **float**.

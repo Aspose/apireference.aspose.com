@@ -1,12 +1,12 @@
 ---
-title: Copy
+title: Copy()
 second_title: Aspose.Slides for C++ API Reference
 description: Clones tag.
 type: docs
 weight: 157
 url: /cpp/system.security/securityelement/copy/
 ---
-## SecurityElement::Copy method
+## SecurityElement::Copy() method
 
 
 Clones tag.

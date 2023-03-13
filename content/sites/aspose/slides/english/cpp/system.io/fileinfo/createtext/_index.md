@@ -1,12 +1,12 @@
 ---
-title: CreateText
+title: CreateText()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a file at the location specified by the path represented by the current object and opens it for writing text using UTF-8 encoding with no sharing.
 type: docs
 weight: 248
 url: /cpp/system.io/fileinfo/createtext/
 ---
-## FileInfo::CreateText method
+## FileInfo::CreateText() method
 
 
 Creates a file at the location specified by the path represented by the current object and opens it for writing text using UTF-8 encoding with no sharing.

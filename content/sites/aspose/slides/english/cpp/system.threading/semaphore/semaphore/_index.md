@@ -1,5 +1,5 @@
 ---
-title: Semaphore
+title: Semaphore()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates unnamed semaphore.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares encodings' parameters.
 type: docs
 weight: 14
 url: /cpp/system.text/utf32encoding/operator_equal_equal/
 ---
-## UTF32Encoding::operator== method
+## UTF32Encoding::operator==(const [UTF32Encoding](../)\&) const method
 
 
 Compares encodings' parameters.

@@ -1,5 +1,5 @@
 ---
-title: BeginContainer
+title: BeginContainer()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves a container with the current state of this object, opens and uses a new container and returns the saved container.
 type: docs

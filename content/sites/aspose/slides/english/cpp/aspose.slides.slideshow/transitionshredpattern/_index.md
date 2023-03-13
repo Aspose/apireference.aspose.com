@@ -19,8 +19,8 @@ enum class TransitionShredPattern
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Strip | 0 | Vertical strips. |
-| Rectangle | 1 | Small rectangles. |
+| Strip | 0 | Vertical strips |
+| Rectangle | 1 | Small rectangles |
 
 ## See Also
 

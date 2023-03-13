@@ -1,12 +1,12 @@
 ---
-title: set_StartReflectionOpacity
+title: set_StartReflectionOpacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Starting reflection opacity. (percents). Write float.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.effects/reflection/set_startreflectionopacity/
 ---
-## Reflection::set_StartReflectionOpacity method
+## Reflection::set_StartReflectionOpacity(**float**) method
 
 
 Starting reflection opacity. (percents). Write **float**.

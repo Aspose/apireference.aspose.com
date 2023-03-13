@@ -1,5 +1,5 @@
 ---
-title: GetAllDateTimePatterns
+title: GetAllDateTimePatterns()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets all patterns in which date and time values can be formatted.
 type: docs

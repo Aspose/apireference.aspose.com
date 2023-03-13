@@ -1,12 +1,12 @@
 ---
-title: get_ChildNodes
+title: get_ChildNodes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns all the child nodes of the node.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlnode/get_childnodes/
 ---
-## XmlNode::get_ChildNodes method
+## XmlNode::get_ChildNodes() method
 
 
 Returns all the child nodes of the node.

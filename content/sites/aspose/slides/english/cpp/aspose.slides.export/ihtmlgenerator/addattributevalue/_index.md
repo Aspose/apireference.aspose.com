@@ -1,5 +1,5 @@
 ---
-title: AddAttributeValue
+title: AddAttributeValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Quotes attribute value and adds it to the html file.
 type: docs

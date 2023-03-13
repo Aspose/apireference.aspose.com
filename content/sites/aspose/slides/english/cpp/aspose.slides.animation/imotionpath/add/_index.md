@@ -1,15 +1,15 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
-description: Add new command to path.
+description: Add new command to path
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/imotionpath/add/
 ---
-## IMotionPath::Add method
+## IMotionPath::Add([MotionCommandPathType](../../motioncommandpathtype/), [System::ArrayPtr](../../../system/arrayptr/)\<[System::Drawing::PointF](../../../system.drawing/pointf/)\>, [MotionPathPointsType](../../motionpathpointstype/), **bool**) method
 
 
-Add new command to path.
+Add new command to path
 
 ```cpp
 virtual System::SharedPtr<IMotionCmdPath> Aspose::Slides::Animation::IMotionPath::Add(MotionCommandPathType type, System::ArrayPtr<System::Drawing::PointF> pts, MotionPathPointsType ptsType, bool bRelativeCoord)=0

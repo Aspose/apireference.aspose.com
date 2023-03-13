@@ -1,12 +1,12 @@
 ---
-title: FindSystemTimeZoneById
+title: FindSystemTimeZoneById()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets time zone with specified identifier.
 type: docs
 weight: 118
 url: /cpp/system/timezoneinfo/findsystemtimezonebyid/
 ---
-## TimeZoneInfo::FindSystemTimeZoneById method
+## TimeZoneInfo::FindSystemTimeZoneById(const [String](../../string/)\&) method
 
 
 Gets time zone with specified identifier.

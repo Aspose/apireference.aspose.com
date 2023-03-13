@@ -1,12 +1,12 @@
 ---
-title: get_Alpha
+title: get_Alpha()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns new alpha value in the interval [0..1] Read-only float.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/ialphareplaceeffectivedata/get_alpha/
 ---
-## IAlphaReplaceEffectiveData::get_Alpha method
+## IAlphaReplaceEffectiveData::get_Alpha() method
 
 
 Returns new alpha value in the interval [0..1] Read-only **float**.

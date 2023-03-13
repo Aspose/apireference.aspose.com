@@ -1,12 +1,12 @@
 ---
-title: get_ActionType
+title: get_ActionType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns type of HyperLinkEx's action. Read-only HyperlinkActionType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ihyperlink/get_actiontype/
 ---
-## IHyperlink::get_ActionType method
+## IHyperlink::get_ActionType() method
 
 
 Returns type of HyperLinkEx's action. Read-only [HyperlinkActionType](../../hyperlinkactiontype/).

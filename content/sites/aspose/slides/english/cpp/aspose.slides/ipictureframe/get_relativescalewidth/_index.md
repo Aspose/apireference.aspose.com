@@ -1,12 +1,12 @@
 ---
-title: get_RelativeScaleWidth
+title: get_RelativeScaleWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the scale of width (relative to original picture size) of the picture frame. Value 1.0 corresponds to 100%. Read float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ipictureframe/get_relativescalewidth/
 ---
-## IPictureFrame::get_RelativeScaleWidth method
+## IPictureFrame::get_RelativeScaleWidth() method
 
 
 Returns the scale of width (relative to original picture size) of the picture frame. Value 1.0 corresponds to 100%. Read **float**.

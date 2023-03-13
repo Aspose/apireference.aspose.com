@@ -1,12 +1,12 @@
 ---
-title: get_PortionFormat
+title: get_PortionFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns formatting object which contains explicitly set formatting properties of the text portion with no inheritance applied. Read-only IPortionFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iportion/get_portionformat/
 ---
-## IPortion::get_PortionFormat method
+## IPortion::get_PortionFormat() method
 
 
 Returns formatting object which contains explicitly set formatting properties of the text portion with no inheritance applied. Read-only [IPortionFormat](../../iportionformat/).

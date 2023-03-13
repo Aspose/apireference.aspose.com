@@ -1,12 +1,12 @@
 ---
-title: set_ElementFormDefault
+title: set_ElementFormDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the form for elements declared in the target namespace of the schema.
 type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschema/set_elementformdefault/
 ---
-## XmlSchema::set_ElementFormDefault method
+## XmlSchema::set_ElementFormDefault([XmlSchemaForm](../../xmlschemaform/)) method
 
 
 Sets the form for elements declared in the target namespace of the schema.

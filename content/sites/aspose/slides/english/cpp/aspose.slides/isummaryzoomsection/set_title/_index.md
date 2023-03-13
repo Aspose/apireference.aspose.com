@@ -1,12 +1,12 @@
 ---
-title: set_Title
+title: set_Title()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text title of the Summary Zoom Section object.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/isummaryzoomsection/set_title/
 ---
-## ISummaryZoomSection::set_Title method
+## ISummaryZoomSection::set_Title([System::String](../../../system/string/)) method
 
 
 Returns the text title of the Summary Zoom [Section](../../section/) object.

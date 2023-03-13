@@ -1,12 +1,12 @@
 ---
-title: set_Final
+title: set_Final()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the Final value to indicate that no further derivations are allowed.
 type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemaelement/set_final/
 ---
-## XmlSchemaElement::set_Final method
+## XmlSchemaElement::set_Final([XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)) method
 
 
 Sets the **Final** value to indicate that no further derivations are allowed.

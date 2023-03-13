@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts specific value into container.
 type: docs
 weight: 157
 url: /cpp/system.collections.specialized/stringcollection/insert/
 ---
-## StringCollection::Insert method
+## StringCollection::Insert(int, const [System::String](../../../system/string/)\&) method
 
 
 Inserts specific value into container.

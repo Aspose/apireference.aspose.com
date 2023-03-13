@@ -1,12 +1,12 @@
 ---
-title: get_Subject
+title: get_Subject()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets subject distinguished name from certificate.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/get_subject/
 ---
-## X509Certificate::get_Subject method
+## X509Certificate::get_Subject() const method
 
 
 Gets subject distinguished name from certificate.

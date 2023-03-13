@@ -1,12 +1,12 @@
 ---
-title: operator[]
+title: operator[]()
 second_title: Aspose.Slides for C++ API Reference
 description: Accessor.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2collectionptr/operator[]/
 ---
-## X509Certificate2CollectionPtr::operator[] method
+## X509Certificate2CollectionPtr::operator[](size_t) const method
 
 
 Accessor.

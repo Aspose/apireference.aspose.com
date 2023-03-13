@@ -1,12 +1,12 @@
 ---
-title: get_Position
+title: get_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns current position of the stream.
 type: docs
 weight: 66
 url: /cpp/system.io/stdiostreamwrapperbase/get_position/
 ---
-## STDIOStreamWrapperBase::get_Position method
+## STDIOStreamWrapperBase::get_Position() const method
 
 
 Returns current position of the stream.

@@ -1,12 +1,12 @@
 ---
-title: set_XmlResolver
+title: set_XmlResolver()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlResolver to use for resolving external resources.
 type: docs
 weight: 118
 url: /cpp/system.xml/xmldocument/set_xmlresolver/
 ---
-## XmlDocument::set_XmlResolver method
+## XmlDocument::set_XmlResolver([SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../xmlresolver/)\>) method
 
 
 Sets the [XmlResolver](../../xmlresolver/) to use for resolving external resources.

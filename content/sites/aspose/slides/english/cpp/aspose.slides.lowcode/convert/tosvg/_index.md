@@ -1,5 +1,5 @@
 ---
-title: ToSvg
+title: ToSvg()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts Presentation to SVG.
 type: docs

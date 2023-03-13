@@ -1,12 +1,12 @@
 ---
-title: Seek
+title: Seek()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the position of the stream represented by the current object.
 type: docs
 weight: 79
 url: /cpp/system.io/binarywriter/seek/
 ---
-## BinaryWriter::Seek method
+## BinaryWriter::Seek(int, [System::IO::SeekOrigin](../../seekorigin/)) method
 
 
 Sets the position of the stream represented by the current object.

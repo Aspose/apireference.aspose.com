@@ -1,12 +1,12 @@
 ---
-title: Exists
+title: Exists()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified path refers to existing directory.
 type: docs
 weight: 118
 url: /cpp/system.io/directory/exists/
 ---
-## Directory::Exists method
+## Directory::Exists(const [String](../../../system/string/)\&) method
 
 
 Determines if the specified path refers to existing directory.

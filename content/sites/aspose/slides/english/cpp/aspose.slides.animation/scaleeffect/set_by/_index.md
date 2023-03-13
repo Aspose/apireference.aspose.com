@@ -1,12 +1,12 @@
 ---
-title: set_By
+title: set_By()
 second_title: Aspose.Slides for C++ API Reference
 description: "describes the relative offset value for the animation (in percents). Write System::Drawing::PointF."
 type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/scaleeffect/set_by/
 ---
-## ScaleEffect::set_By method
+## ScaleEffect::set_By([System::Drawing::PointF](../../../system.drawing/pointf/)) method
 
 
 describes the relative offset value for the animation (in percents). Write [System::Drawing::PointF](../../../system.drawing/pointf/).

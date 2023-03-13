@@ -1,12 +1,12 @@
 ---
-title: Encode
+title: Encode()
 second_title: Aspose.Slides for C++ API Reference
 description: Encodes CMS/PKCS #7 message.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.pkcs/signedcms/encode/
 ---
-## SignedCms::Encode method
+## SignedCms::Encode() method
 
 
 Encodes CMS/PKCS #7 message.

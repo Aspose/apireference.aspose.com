@@ -1,12 +1,12 @@
 ---
-title: GetLength
+title: GetLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of elements in the specified dimension.
 type: docs
 weight: 248
 url: /cpp/system/array/getlength/
 ---
-## Array::GetLength method
+## Array::GetLength(int) method
 
 
 Returns the number of elements in the specified dimension.

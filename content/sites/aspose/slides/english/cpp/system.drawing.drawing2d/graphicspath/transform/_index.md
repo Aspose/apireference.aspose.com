@@ -1,5 +1,5 @@
 ---
-title: Transform
+title: Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Transforms the path represented by the current object by applying the specified transform matrix to it.
 type: docs

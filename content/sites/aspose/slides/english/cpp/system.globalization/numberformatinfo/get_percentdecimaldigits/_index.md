@@ -1,12 +1,12 @@
 ---
-title: get_PercentDecimalDigits
+title: get_PercentDecimalDigits()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of decimal places in percent values.
 type: docs
 weight: 534
 url: /cpp/system.globalization/numberformatinfo/get_percentdecimaldigits/
 ---
-## NumberFormatInfo::get_PercentDecimalDigits method
+## NumberFormatInfo::get_PercentDecimalDigits() const method
 
 
 Gets number of decimal places in percent values.

@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaMaxExclusiveFacet
+title: XmlSchemaMaxExclusiveFacet()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaMaxExclusiveFacet class.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemamaxexclusivefacet/xmlschemamaxexclusivefacet/
 ---
-## XmlSchemaMaxExclusiveFacet::XmlSchemaMaxExclusiveFacet constructor
+## XmlSchemaMaxExclusiveFacet::XmlSchemaMaxExclusiveFacet() constructor
 
 
 Initializes a new instance of the [XmlSchemaMaxExclusiveFacet](../) class.

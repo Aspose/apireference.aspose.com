@@ -1,12 +1,12 @@
 ---
-title: TrueForAll
+title: TrueForAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether every element in the collection matches the conditions defined by the specified predicate.
 type: docs
 weight: 560
 url: /cpp/system.collections.generic/list/trueforall/
 ---
-## List::TrueForAll method
+## List::TrueForAll([System::Predicate](../../../system/predicate/)\<T\>) method
 
 
 Determines whether every element in the collection matches the conditions defined by the specified predicate.

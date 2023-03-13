@@ -1,12 +1,12 @@
 ---
-title: get_Blue
+title: get_Blue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF0000FF.
 type: docs
 weight: 365
 url: /cpp/system.drawing/color/get_blue/
 ---
-## Color::get_Blue method
+## Color::get_Blue() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF0000FF.

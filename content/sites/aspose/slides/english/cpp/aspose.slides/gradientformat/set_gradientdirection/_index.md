@@ -1,12 +1,12 @@
 ---
-title: set_GradientDirection
+title: set_GradientDirection()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the style of a gradient. Write Slides::GradientDirection."
 type: docs
 weight: 40
 url: /cpp/aspose.slides/gradientformat/set_gradientdirection/
 ---
-## GradientFormat::set_GradientDirection method
+## GradientFormat::set_GradientDirection([Aspose::Slides::GradientDirection](../../gradientdirection/)) method
 
 
 Sets the style of a gradient. Write [Slides::GradientDirection](../../gradientdirection/).

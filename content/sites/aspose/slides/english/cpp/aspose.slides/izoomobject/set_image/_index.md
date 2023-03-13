@@ -1,12 +1,12 @@
 ---
-title: set_Image
+title: set_Image()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets image for zoom object. Write IPPImage.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/izoomobject/set_image/
 ---
-## IZoomObject::set_Image method
+## IZoomObject::set_Image([System::SharedPtr](../../../system/sharedptr/)\<[IPPImage](../../ippimage/)\>) method
 
 
 Sets image for zoom object. Write [IPPImage](../../ippimage/).

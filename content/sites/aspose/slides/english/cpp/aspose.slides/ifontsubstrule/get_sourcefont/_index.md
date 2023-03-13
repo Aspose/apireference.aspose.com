@@ -1,12 +1,12 @@
 ---
-title: get_SourceFont
+title: get_SourceFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Font to substitute Read-only IFontData.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ifontsubstrule/get_sourcefont/
 ---
-## IFontSubstRule::get_SourceFont method
+## IFontSubstRule::get_SourceFont() method
 
 
 Font to substitute Read-only [IFontData](../../ifontdata/).

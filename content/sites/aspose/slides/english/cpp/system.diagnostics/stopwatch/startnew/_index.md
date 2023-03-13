@@ -1,12 +1,12 @@
 ---
-title: StartNew
+title: StartNew()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new Stopwatch object and starts measurement.
 type: docs
 weight: 131
 url: /cpp/system.diagnostics/stopwatch/startnew/
 ---
-## Stopwatch::StartNew method
+## Stopwatch::StartNew() method
 
 
 Creates new [Stopwatch](../) object and starts measurement.

@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified attribute from the collection.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlattributecollection/remove/
 ---
-## XmlAttributeCollection::Remove method
+## XmlAttributeCollection::Remove(const [SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../xmlattribute/)\>\&) method
 
 
 Removes the specified attribute from the collection.

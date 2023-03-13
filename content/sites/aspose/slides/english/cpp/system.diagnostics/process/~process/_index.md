@@ -1,12 +1,12 @@
 ---
-title: ~Process
+title: ~Process()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 1
 url: /cpp/system.diagnostics/process/~process/
 ---
-## Process::~Process method
+## Process::~Process() method
 
 
 Destructor.

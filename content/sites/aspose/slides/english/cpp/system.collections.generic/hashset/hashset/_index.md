@@ -1,5 +1,5 @@
 ---
-title: HashSet
+title: HashSet()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates empty set.
 type: docs

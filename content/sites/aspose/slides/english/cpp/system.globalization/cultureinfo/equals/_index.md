@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares objects.
 type: docs
 weight: 352
 url: /cpp/system.globalization/cultureinfo/equals/
 ---
-## CultureInfo::Equals method
+## CultureInfo::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Compares objects.

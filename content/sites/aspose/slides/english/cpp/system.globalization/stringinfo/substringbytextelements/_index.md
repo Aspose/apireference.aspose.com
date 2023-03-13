@@ -1,5 +1,5 @@
 ---
-title: SubstringByTextElements
+title: SubstringByTextElements()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets substring of text elements from the specified text element through the last text element.
 type: docs

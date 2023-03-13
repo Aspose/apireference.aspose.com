@@ -1,5 +1,5 @@
 ---
-title: Translate
+title: Translate()
 second_title: Aspose.Slides for C++ API Reference
 description: Applies the specified translate vector to the matrix represented by the current object.
 type: docs

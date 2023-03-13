@@ -1,12 +1,12 @@
 ---
-title: MapToIPv6
+title: MapToIPv6()
 second_title: Aspose.Slides for C++ API Reference
 description: Maps the address to the IPv6 address.
 type: docs
 weight: 170
 url: /cpp/system.net/ipaddress/maptoipv6/
 ---
-## IPAddress::MapToIPv6 method
+## IPAddress::MapToIPv6() method
 
 
 Maps the address to the IPv6 address.

@@ -1,12 +1,12 @@
 ---
-title: set_NegativeSign
+title: set_NegativeSign()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets negative sign.
 type: docs
 weight: 235
 url: /cpp/system.globalization/numberformatinfo/set_negativesign/
 ---
-## NumberFormatInfo::set_NegativeSign method
+## NumberFormatInfo::set_NegativeSign(const [String](../../../system/string/)\&) method
 
 
 Sets negative sign.

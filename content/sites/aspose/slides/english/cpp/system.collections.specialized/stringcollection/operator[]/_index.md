@@ -1,12 +1,12 @@
 ---
-title: operator[]
+title: operator[]()
 second_title: Aspose.Slides for C++ API Reference
 description: Accessor function.
 type: docs
 weight: 40
 url: /cpp/system.collections.specialized/stringcollection/operator[]/
 ---
-## StringCollection::operator[] method
+## StringCollection::operator[](int) method
 
 
 Accessor function.

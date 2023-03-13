@@ -1,12 +1,12 @@
 ---
-title: XmlSecureResolver
+title: XmlSecureResolver()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSecureResolver class with the XmlResolver and URL provided.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlsecureresolver/xmlsecureresolver/
 ---
-## XmlSecureResolver::XmlSecureResolver constructor
+## XmlSecureResolver::XmlSecureResolver(const [SharedPtr](../../../system/sharedptr/)\<[XmlResolver](../../xmlresolver/)\>\&, const [String](../../../system/string/)\&) constructor
 
 
 Initializes a new instance of the [XmlSecureResolver](../) class with the [XmlResolver](../../xmlresolver/) and URL provided.

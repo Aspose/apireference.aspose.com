@@ -1,12 +1,12 @@
 ---
-title: ReadContentAsString
+title: ReadContentAsString()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the text content at the current position as a String object.
 type: docs
 weight: 443
 url: /cpp/system.xml/xmlreader/readcontentasstring/
 ---
-## XmlReader::ReadContentAsString method
+## XmlReader::ReadContentAsString() method
 
 
 Reads the text content at the current position as a [String](../../../system/string/) object.

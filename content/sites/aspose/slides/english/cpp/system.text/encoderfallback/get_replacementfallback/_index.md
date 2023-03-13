@@ -1,12 +1,12 @@
 ---
-title: get_ReplacementFallback
+title: get_ReplacementFallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets default replacement fallback implementation.
 type: docs
 weight: 14
 url: /cpp/system.text/encoderfallback/get_replacementfallback/
 ---
-## EncoderFallback::get_ReplacementFallback method
+## EncoderFallback::get_ReplacementFallback() method
 
 
 Gets default replacement fallback implementation.

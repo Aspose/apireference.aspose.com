@@ -1,12 +1,12 @@
 ---
-title: get_ColorSpace
+title: get_ColorSpace()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represent color space of behavior. Read Animation::ColorSpace."
 type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/coloreffect/get_colorspace/
 ---
-## ColorEffect::get_ColorSpace method
+## ColorEffect::get_ColorSpace() method
 
 
 Represent color space of behavior. Read [Animation::ColorSpace](../../colorspace/).

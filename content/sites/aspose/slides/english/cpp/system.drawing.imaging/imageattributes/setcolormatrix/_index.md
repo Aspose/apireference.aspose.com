@@ -1,12 +1,12 @@
 ---
-title: SetColorMatrix
+title: SetColorMatrix()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the color-adjustment matrix.
 type: docs
 weight: 183
 url: /cpp/system.drawing.imaging/imageattributes/setcolormatrix/
 ---
-## ImageAttributes::SetColorMatrix method
+## ImageAttributes::SetColorMatrix(const [SharedPtr](../../../system/sharedptr/)\<[ColorMatrix](../../colormatrix/)\>\&, [ColorMatrixFlag](../../colormatrixflag/), [ColorAdjustType](../../coloradjusttype/)) method
 
 
 Sets the color-adjustment matrix.

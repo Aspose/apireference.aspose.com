@@ -1,5 +1,5 @@
 ---
-title: SetCustomPropertyValue
+title: SetCustomPropertyValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a named boolean custom property.
 type: docs

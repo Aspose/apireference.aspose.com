@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the current object and returns a shared pointer to it.
 type: docs
 weight: 92
 url: /cpp/system.globalization/koreanlunisolarcalendar/clone/
 ---
-## KoreanLunisolarCalendar::Clone method
+## KoreanLunisolarCalendar::Clone() method
 
 
 Creates a copy of the current object and returns a shared pointer to it.

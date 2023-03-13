@@ -1,12 +1,12 @@
 ---
-title: get_FontBold
+title: get_FontBold()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the font is bold. Read-only bool.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/ibaseportionformateffectivedata/get_fontbold/
 ---
-## IBasePortionFormatEffectiveData::get_FontBold method
+## IBasePortionFormatEffectiveData::get_FontBold() method
 
 
 Determines whether the font is bold. Read-only **bool**.

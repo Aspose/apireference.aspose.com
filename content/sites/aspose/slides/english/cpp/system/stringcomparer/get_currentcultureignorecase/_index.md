@@ -1,12 +1,12 @@
 ---
-title: get_CurrentCultureIgnoreCase
+title: get_CurrentCultureIgnoreCase()
 second_title: Aspose.Slides for C++ API Reference
 description: Current culture case-ignoring comparer singleton.
 type: docs
 weight: 66
 url: /cpp/system/stringcomparer/get_currentcultureignorecase/
 ---
-## StringComparer::get_CurrentCultureIgnoreCase method
+## StringComparer::get_CurrentCultureIgnoreCase() method
 
 
 Current culture case-ignoring comparer singleton.

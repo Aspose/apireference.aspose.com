@@ -1,5 +1,5 @@
 ---
-title: WrapSTDIOStream
+title: WrapSTDIOStream()
 second_title: Aspose.Slides for C++ API Reference
 description: "Wrapper function for std::basic_istream-like streams."
 type: docs

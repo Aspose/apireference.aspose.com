@@ -1,12 +1,12 @@
 ---
-title: get_IsAuthenticated
+title: get_IsAuthenticated()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if authentication is successfully passed.
 type: docs
 weight: 14
 url: /cpp/system.net.security/authenticatedstream/get_isauthenticated/
 ---
-## AuthenticatedStream::get_IsAuthenticated method
+## AuthenticatedStream::get_IsAuthenticated() const method
 
 
 Returns a value that indicates if authentication is successfully passed.

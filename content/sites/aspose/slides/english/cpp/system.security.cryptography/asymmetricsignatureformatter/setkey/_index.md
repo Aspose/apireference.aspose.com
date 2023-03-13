@@ -1,12 +1,12 @@
 ---
-title: SetKey
+title: SetKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets asymmetric algorithm to use when calculating the signature.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/asymmetricsignatureformatter/setkey/
 ---
-## AsymmetricSignatureFormatter::SetKey method
+## AsymmetricSignatureFormatter::SetKey([System::SharedPtr](../../../system/sharedptr/)\<[AsymmetricAlgorithm](../../asymmetricalgorithm/)\>) method
 
 
 Sets asymmetric algorithm to use when calculating the signature.

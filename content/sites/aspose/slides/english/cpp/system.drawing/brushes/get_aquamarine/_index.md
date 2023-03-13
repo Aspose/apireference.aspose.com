@@ -1,12 +1,12 @@
 ---
-title: get_Aquamarine
+title: get_Aquamarine()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF7FFFD4.
 type: docs
 weight: 40
 url: /cpp/system.drawing/brushes/get_aquamarine/
 ---
-## Brushes::get_Aquamarine method
+## Brushes::get_Aquamarine() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF7FFFD4.

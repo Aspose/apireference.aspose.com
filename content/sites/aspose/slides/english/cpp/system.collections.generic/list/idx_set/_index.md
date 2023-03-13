@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets element at specific position.
 type: docs
 weight: 274
 url: /cpp/system.collections.generic/list/idx_set/
 ---
-## List::idx_set method
+## List::idx_set(int, T) method
 
 
 Sets element at specific position.

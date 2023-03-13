@@ -1,12 +1,12 @@
 ---
-title: get_Desktop
+title: get_Desktop()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Color object that represents the color of the desktop.
 type: docs
 weight: 170
 url: /cpp/system.drawing/systemcolors/get_desktop/
 ---
-## SystemColors::get_Desktop method
+## SystemColors::get_Desktop() method
 
 
 Returns a [Color](../../color/) object that represents the color of the desktop.

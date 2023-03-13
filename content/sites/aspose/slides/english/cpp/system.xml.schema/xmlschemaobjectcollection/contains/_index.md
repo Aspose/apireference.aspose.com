@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates if the specified XmlSchemaObject is in the XmlSchemaObjectCollection.
 type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/contains/
 ---
-## XmlSchemaObjectCollection::Contains method
+## XmlSchemaObjectCollection::Contains(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaObject](../../xmlschemaobject/)\>\&) method
 
 
 Indicates if the specified [XmlSchemaObject](../../xmlschemaobject/) is in the [XmlSchemaObjectCollection](../).

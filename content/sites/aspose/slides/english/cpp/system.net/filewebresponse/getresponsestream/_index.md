@@ -1,12 +1,12 @@
 ---
-title: GetResponseStream
+title: GetResponseStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the response stream.
 type: docs
 weight: 79
 url: /cpp/system.net/filewebresponse/getresponsestream/
 ---
-## FileWebResponse::GetResponseStream method
+## FileWebResponse::GetResponseStream() method
 
 
 Returns the response stream.

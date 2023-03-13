@@ -1,12 +1,12 @@
 ---
-title: FindHeader
+title: FindHeader()
 second_title: Aspose.Slides for C++ API Reference
 description: Find the header mapping by specified header type.
 type: docs
 weight: 352
 url: /cpp/system.web.services.protocols/soapmessage/findheader/
 ---
-## SoapMessage::FindHeader method
+## SoapMessage::FindHeader([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<SoapHeaderMapping\>\>, const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Find the header mapping by specified header type.

@@ -1,12 +1,12 @@
 ---
-title: get_Order
+title: get_Order()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the order of a series. Read int32_t.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/ichartseries/get_order/
 ---
-## IChartSeries::get_Order method
+## IChartSeries::get_Order() method
 
 
 Returns the order of a series. Read **int32_t**.

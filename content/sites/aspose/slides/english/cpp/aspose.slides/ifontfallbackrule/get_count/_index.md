@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the number of fonts actually defined for range.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ifontfallbackrule/get_count/
 ---
-## IFontFallBackRule::get_Count method
+## IFontFallBackRule::get_Count() method
 
 
 Gets the number of fonts actually defined for range.

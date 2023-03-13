@@ -1,12 +1,12 @@
 ---
-title: get_AsLiteralString
+title: get_AsLiteralString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns value as literal string. Read System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/stringchartvalue/get_asliteralstring/
 ---
-## StringChartValue::get_AsLiteralString method
+## StringChartValue::get_AsLiteralString() method
 
 
 Returns value as literal string. Read [System::String](../../../system/string/).

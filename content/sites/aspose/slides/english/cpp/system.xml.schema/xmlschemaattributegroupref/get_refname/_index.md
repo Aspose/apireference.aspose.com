@@ -1,12 +1,12 @@
 ---
-title: get_RefName
+title: get_RefName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the referenced attributeGroup element.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaattributegroupref/get_refname/
 ---
-## XmlSchemaAttributeGroupRef::get_RefName method
+## XmlSchemaAttributeGroupRef::get_RefName() method
 
 
 Returns the name of the referenced **attributeGroup** element.

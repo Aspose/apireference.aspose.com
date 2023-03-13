@@ -1,5 +1,5 @@
 ---
-title: GetDateTimeFormats
+title: GetDateTimeFormats()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns array of strings where each element is the string representation of the current object formatted with one of the standard date and time format specifiers.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_MarginTop
+title: get_MarginTop()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the top margin in a TextFrame. Read double.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/cell/get_margintop/
 ---
-## Cell::get_MarginTop method
+## Cell::get_MarginTop() method
 
 
 Returns the top margin in a [TextFrame](../../textframe/). Read **double**.

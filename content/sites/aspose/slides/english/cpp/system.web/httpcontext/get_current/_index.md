@@ -1,12 +1,12 @@
 ---
-title: get_Current
+title: get_Current()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 1
 url: /cpp/system.web/httpcontext/get_current/
 ---
-## HttpContext::get_Current method
+## HttpContext::get_Current() method
 
 
 Not implemented.

@@ -1,12 +1,12 @@
 ---
-title: get_InvertIfNegative
+title: get_InvertIfNegative()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the data point shall invert its colors if the value is negative. Read bool.
 type: docs
-weight: 248
+weight: 261
 url: /cpp/aspose.slides.charts/chartdatapoint/get_invertifnegative/
 ---
-## ChartDataPoint::get_InvertIfNegative method
+## ChartDataPoint::get_InvertIfNegative() method
 
 
 Specifies the data point shall invert its colors if the value is negative. Read **bool**.

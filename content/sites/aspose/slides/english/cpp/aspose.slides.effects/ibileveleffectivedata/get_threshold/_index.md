@@ -1,12 +1,12 @@
 ---
-title: get_Threshold
+title: get_Threshold()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the threshold value. Read-only float.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/ibileveleffectivedata/get_threshold/
 ---
-## IBiLevelEffectiveData::get_Threshold method
+## IBiLevelEffectiveData::get_Threshold() method
 
 
 Returns the threshold value. Read-only **float**.

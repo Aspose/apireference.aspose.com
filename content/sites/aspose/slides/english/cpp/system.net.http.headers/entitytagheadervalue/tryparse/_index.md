@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the EntityTagHeaderValue class.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/entitytagheadervalue/tryparse/
 ---
-## EntityTagHeaderValue::TryParse method
+## EntityTagHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[EntityTagHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [EntityTagHeaderValue](../) class.

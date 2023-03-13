@@ -1,12 +1,12 @@
 ---
-title: get_PlayMode
+title: get_PlayMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the audio play mode. Read AudioPlayModePreset.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/audioframe/get_playmode/
 ---
-## AudioFrame::get_PlayMode method
+## AudioFrame::get_PlayMode() method
 
 
 Returns the audio play mode. Read [AudioPlayModePreset](../../audioplaymodepreset/).

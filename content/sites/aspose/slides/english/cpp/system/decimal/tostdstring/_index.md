@@ -1,12 +1,12 @@
 ---
-title: ToStdString
+title: ToStdString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an instance of std::string that contains the string representation of the value represented by the object."
 type: docs
 weight: 365
 url: /cpp/system/decimal/tostdstring/
 ---
-## Decimal::ToStdString method
+## Decimal::ToStdString() const method
 
 
 Returns an instance of std::string that contains the string representation of the value represented by the object.

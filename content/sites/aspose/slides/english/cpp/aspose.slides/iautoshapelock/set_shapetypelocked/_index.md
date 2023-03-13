@@ -1,12 +1,12 @@
 ---
-title: set_ShapeTypeLocked
+title: set_ShapeTypeLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a changing of a shape type is forbidden. Writes bool.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/iautoshapelock/set_shapetypelocked/
 ---
-## IAutoShapeLock::set_ShapeTypeLocked method
+## IAutoShapeLock::set_ShapeTypeLocked(**bool**) method
 
 
 Determines whether a changing of a shape type is forbidden. Writes **bool**.

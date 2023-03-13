@@ -1,12 +1,12 @@
 ---
-title: SetValue
+title: SetValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets value of the element at specified index.
 type: docs
 weight: 365
 url: /cpp/system/array/setvalue/
 ---
-## Array::SetValue method
+## Array::SetValue(const T\&, int) method
 
 
 Sets value of the element at specified index.

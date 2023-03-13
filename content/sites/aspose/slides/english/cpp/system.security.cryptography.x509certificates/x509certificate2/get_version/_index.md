@@ -1,12 +1,12 @@
 ---
-title: get_Version
+title: get_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets certificate format version.
 type: docs
 weight: 222
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_version/
 ---
-## X509Certificate2::get_Version method
+## X509Certificate2::get_Version() const method
 
 
 Gets certificate format version.

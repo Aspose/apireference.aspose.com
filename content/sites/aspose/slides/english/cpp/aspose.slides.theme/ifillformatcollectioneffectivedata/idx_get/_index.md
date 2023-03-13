@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the element at the specified index. Read-only IFillFormatEffectiveData.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/ifillformatcollectioneffectivedata/idx_get/
 ---
-## IFillFormatCollectionEffectiveData::idx_get method
+## IFillFormatCollectionEffectiveData::idx_get(**int32_t**) method
 
 
 Gets the element at the specified index. Read-only [IFillFormatEffectiveData](../../../aspose.slides/ifillformateffectivedata/).

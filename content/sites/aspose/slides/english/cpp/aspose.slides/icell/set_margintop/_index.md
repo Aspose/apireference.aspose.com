@@ -1,12 +1,12 @@
 ---
-title: set_MarginTop
+title: set_MarginTop()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the top margin in a TextFrame. Write double.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/icell/set_margintop/
 ---
-## ICell::set_MarginTop method
+## ICell::set_MarginTop(**double**) method
 
 
 Sets the top margin in a [TextFrame](../../textframe/). Write **double**.

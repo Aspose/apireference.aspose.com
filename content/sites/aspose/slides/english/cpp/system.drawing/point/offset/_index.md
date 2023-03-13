@@ -1,5 +1,5 @@
 ---
-title: Offset
+title: Offset()
 second_title: Aspose.Slides for C++ API Reference
 description: Offsets the X and Y coordinates value represented by the current object by the specified values.
 type: docs

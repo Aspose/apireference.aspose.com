@@ -1,12 +1,12 @@
 ---
-title: set_AutoReset
+title: set_AutoReset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets timer into auto-reset mode or out of it.
 type: docs
 weight: 53
 url: /cpp/system.timers/timer/set_autoreset/
 ---
-## Timer::set_AutoReset method
+## Timer::set_AutoReset(**bool**) method
 
 
 Sets timer into auto-reset mode or out of it.

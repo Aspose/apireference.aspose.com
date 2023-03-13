@@ -1,12 +1,12 @@
 ---
-title: get_PublicId
+title: get_PublicId()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the public identifier on the DOCTYPE declaration.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmldocumenttype/get_publicid/
 ---
-## XmlDocumentType::get_PublicId method
+## XmlDocumentType::get_PublicId() method
 
 
 Returns the value of the public identifier on the DOCTYPE declaration.

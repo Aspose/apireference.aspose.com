@@ -1,12 +1,12 @@
 ---
-title: set_Capacity
+title: set_Capacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets list capacity.
 type: docs
 weight: 300
 url: /cpp/system.collections.generic/list/set_capacity/
 ---
-## List::set_Capacity method
+## List::set_Capacity(int) method
 
 
 Sets list capacity.

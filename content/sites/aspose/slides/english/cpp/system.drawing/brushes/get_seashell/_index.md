@@ -1,12 +1,12 @@
 ---
-title: get_SeaShell
+title: get_SeaShell()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFFF5EE.
 type: docs
 weight: 1561
 url: /cpp/system.drawing/brushes/get_seashell/
 ---
-## Brushes::get_SeaShell method
+## Brushes::get_SeaShell() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFFF5EE.

@@ -1,5 +1,5 @@
 ---
-title: RSAPKCS1SignatureDeformatter
+title: RSAPKCS1SignatureDeformatter()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs

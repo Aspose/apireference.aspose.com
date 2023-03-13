@@ -1,12 +1,12 @@
 ---
-title: get_NavigatorComparer
+title: get_NavigatorComparer()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an Collections::IEqualityComparer used for equality comparison of XPathNavigator objects."
 type: docs
 weight: 1067
 url: /cpp/system.xml.xpath/xpathnavigator/get_navigatorcomparer/
 ---
-## XPathNavigator::get_NavigatorComparer method
+## XPathNavigator::get_NavigatorComparer() method
 
 
 Returns an Collections::IEqualityComparer used for equality comparison of [XPathNavigator](../) objects.

@@ -1,12 +1,12 @@
 ---
-title: TranslateTransform
+title: TranslateTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Translates the local geometric transformation by the specified dimensions in the specified order.
 type: docs
 weight: 157
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/translatetransform/
 ---
-## PathGradientBrush::TranslateTransform method
+## PathGradientBrush::TranslateTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../matrixorder/)) method
 
 
 Translates the local geometric transformation by the specified dimensions in the specified order.

@@ -1,12 +1,12 @@
 ---
-title: get_Linen
+title: get_Linen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFAF0E6.
 type: docs
 weight: 1015
 url: /cpp/system.drawing/brushes/get_linen/
 ---
-## Brushes::get_Linen method
+## Brushes::get_Linen() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFAF0E6.

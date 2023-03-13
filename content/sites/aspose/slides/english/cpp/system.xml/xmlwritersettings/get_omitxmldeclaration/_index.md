@@ -1,12 +1,12 @@
 ---
-title: get_OmitXmlDeclaration
+title: get_OmitXmlDeclaration()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether to omit an XML declaration.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlwritersettings/get_omitxmldeclaration/
 ---
-## XmlWriterSettings::get_OmitXmlDeclaration method
+## XmlWriterSettings::get_OmitXmlDeclaration() method
 
 
 Returns a value indicating whether to omit an XML declaration.

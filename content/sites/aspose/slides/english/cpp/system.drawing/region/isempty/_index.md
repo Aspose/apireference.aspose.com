@@ -1,12 +1,12 @@
 ---
-title: IsEmpty
+title: IsEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines wheter the region represented by the current object has empty interior on the specified drawing surface.
 type: docs
 weight: 170
 url: /cpp/system.drawing/region/isempty/
 ---
-## Region::IsEmpty method
+## Region::IsEmpty(const [SharedPtr](../../../system/sharedptr/)\<[Graphics](../../graphics/)\>\&) const method
 
 
 Determines wheter the region represented by the current object has empty interior on the specified drawing surface.

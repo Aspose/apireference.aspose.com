@@ -1,12 +1,12 @@
 ---
-title: get_IsStopped
+title: get_IsStopped()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if timer is stopped.
 type: docs
 weight: 92
 url: /cpp/system.timers/timer/get_isstopped/
 ---
-## Timer::get_IsStopped method
+## Timer::get_IsStopped() const method
 
 
 Checks if timer is stopped.

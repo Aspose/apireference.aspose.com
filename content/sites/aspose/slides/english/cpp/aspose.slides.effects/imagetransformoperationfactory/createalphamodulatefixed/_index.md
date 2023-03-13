@@ -1,12 +1,12 @@
 ---
-title: CreateAlphaModulateFixed
+title: CreateAlphaModulateFixed()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Alpha modulate fixed effect.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createalphamodulatefixed/
 ---
-## ImageTransformOperationFactory::CreateAlphaModulateFixed method
+## ImageTransformOperationFactory::CreateAlphaModulateFixed(**float**) method
 
 
 Creates Alpha modulate fixed effect.

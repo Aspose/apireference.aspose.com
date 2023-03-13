@@ -1,12 +1,12 @@
 ---
-title: set_ReceiveBufferSize
+title: set_ReceiveBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the size of the receive buffer.
 type: docs
 weight: 131
 url: /cpp/system.net/servicepoint/set_receivebuffersize/
 ---
-## ServicePoint::set_ReceiveBufferSize method
+## ServicePoint::set_ReceiveBufferSize(**int32_t**) method
 
 
 Sets the size of the receive buffer.

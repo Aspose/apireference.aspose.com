@@ -1,12 +1,12 @@
 ---
-title: CloseConnectionGroup
+title: CloseConnectionGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes and removes connections that belong to the specified connection group.
 type: docs
 weight: 287
 url: /cpp/system.net/servicepoint/closeconnectiongroup/
 ---
-## ServicePoint::CloseConnectionGroup method
+## ServicePoint::CloseConnectionGroup([String](../../../system/string/)) method
 
 
 Closes and removes connections that belong to the specified connection group.

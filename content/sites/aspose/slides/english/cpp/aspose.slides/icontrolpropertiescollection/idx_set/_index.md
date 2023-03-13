@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets property.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/icontrolpropertiescollection/idx_set/
 ---
-## IControlPropertiesCollection::idx_set method
+## IControlPropertiesCollection::idx_set([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Sets property.

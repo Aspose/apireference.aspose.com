@@ -1,12 +1,12 @@
 ---
-title: set_EnableDnsRoundRobin
+title: set_EnableDnsRoundRobin()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if a DNS resolution rotates among the applicable IP addresses.
 type: docs
 weight: 170
 url: /cpp/system.net/servicepointmanager/set_enablednsroundrobin/
 ---
-## ServicePointManager::set_EnableDnsRoundRobin method
+## ServicePointManager::set_EnableDnsRoundRobin(**bool**) method
 
 
 Sets a value that indicates if a DNS resolution rotates among the applicable IP addresses.

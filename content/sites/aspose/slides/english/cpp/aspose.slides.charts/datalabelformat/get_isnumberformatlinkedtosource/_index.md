@@ -1,12 +1,12 @@
 ---
-title: get_IsNumberFormatLinkedToSource
+title: get_IsNumberFormatLinkedToSource()
 second_title: Aspose.Slides for C++ API Reference
 description: Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/datalabelformat/get_isnumberformatlinkedtosource/
 ---
-## DataLabelFormat::get_IsNumberFormatLinkedToSource method
+## DataLabelFormat::get_IsNumberFormatLinkedToSource() method
 
 
 Read **bool**.

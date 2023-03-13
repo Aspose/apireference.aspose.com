@@ -1,12 +1,12 @@
 ---
-title: PresentedBySpeaker
+title: PresentedBySpeaker()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the PresentedBySpeaker class.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/presentedbyspeaker/presentedbyspeaker/
 ---
-## PresentedBySpeaker::PresentedBySpeaker constructor
+## PresentedBySpeaker::PresentedBySpeaker() constructor
 
 
 Initializes a new instance of the [PresentedBySpeaker](../) class.

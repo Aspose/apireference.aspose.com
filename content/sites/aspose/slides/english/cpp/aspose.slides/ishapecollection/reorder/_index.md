@@ -1,5 +1,5 @@
 ---
-title: Reorder
+title: Reorder()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves a shape from the collection to the specified position.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Does nothing.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemacollectionenumerator/dispose/
 ---
-## XmlSchemaCollectionEnumerator::Dispose method
+## XmlSchemaCollectionEnumerator::Dispose() method
 
 
 Does nothing.

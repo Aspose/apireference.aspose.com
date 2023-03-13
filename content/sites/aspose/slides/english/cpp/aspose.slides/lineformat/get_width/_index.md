@@ -1,12 +1,12 @@
 ---
-title: get_Width
+title: get_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the width of a line. Read double.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/lineformat/get_width/
 ---
-## LineFormat::get_Width method
+## LineFormat::get_Width() method
 
 
 Returns the width of a line. Read **double**.

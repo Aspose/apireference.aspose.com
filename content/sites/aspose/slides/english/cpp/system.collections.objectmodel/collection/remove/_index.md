@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes specific item.
 type: docs
 weight: 157
 url: /cpp/system.collections.objectmodel/collection/remove/
 ---
-## Collection::Remove method
+## Collection::Remove(const T\&) method
 
 
 Removes specific item.

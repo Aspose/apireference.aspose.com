@@ -1,12 +1,12 @@
 ---
-title: ToLowerInvariant
+title: ToLowerInvariant()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified character to lower case.
 type: docs
 weight: 261
 url: /cpp/system/char/tolowerinvariant/
 ---
-## Char::ToLowerInvariant method
+## Char::ToLowerInvariant(char_t) method
 
 
 Converts the specified character to lower case.

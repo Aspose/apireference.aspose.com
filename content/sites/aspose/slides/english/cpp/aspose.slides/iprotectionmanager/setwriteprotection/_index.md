@@ -1,12 +1,12 @@
 ---
-title: SetWriteProtection
+title: SetWriteProtection()
 second_title: Aspose.Slides for C++ API Reference
 description: Set write protection for this presentation with specified password.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/iprotectionmanager/setwriteprotection/
 ---
-## IProtectionManager::SetWriteProtection method
+## IProtectionManager::SetWriteProtection([System::String](../../../system/string/)) method
 
 
 Set write protection for this presentation with specified password.

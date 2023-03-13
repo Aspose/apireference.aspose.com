@@ -1,5 +1,5 @@
 ---
-title: GetBuiltInSimpleType
+title: GetBuiltInSimpleType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlSchemaSimpleType that represents the built-in simple type of the simple type that is specified by the qualified name.
 type: docs

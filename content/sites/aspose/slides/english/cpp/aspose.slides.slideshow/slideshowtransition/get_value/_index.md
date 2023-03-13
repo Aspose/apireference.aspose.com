@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Slide show transition value. Read-only ITransitionValueBase.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.slideshow/slideshowtransition/get_value/
 ---
-## SlideShowTransition::get_Value method
+## SlideShowTransition::get_Value() method
 
 
 [Slide](../../../aspose.slides/slide/) show transition value. Read-only [ITransitionValueBase](../../itransitionvaluebase/).

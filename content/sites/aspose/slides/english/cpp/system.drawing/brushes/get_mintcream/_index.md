@@ -1,12 +1,12 @@
 ---
-title: get_MintCream
+title: get_MintCream()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFF5FFFA.
 type: docs
 weight: 1184
 url: /cpp/system.drawing/brushes/get_mintcream/
 ---
-## Brushes::get_MintCream method
+## Brushes::get_MintCream() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFF5FFFA.

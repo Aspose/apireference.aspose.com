@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the stream and releases aquired resources.
 type: docs
 weight: 79
 url: /cpp/system.io/textwriter/close/
 ---
-## TextWriter::Close method
+## TextWriter::Close() method
 
 
 Closes the stream and releases aquired resources.

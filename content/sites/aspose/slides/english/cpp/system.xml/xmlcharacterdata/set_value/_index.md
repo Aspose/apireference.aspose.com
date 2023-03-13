@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of the node.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlcharacterdata/set_value/
 ---
-## XmlCharacterData::set_Value method
+## XmlCharacterData::set_Value([String](../../../system/string/)) method
 
 
 Sets the value of the node.

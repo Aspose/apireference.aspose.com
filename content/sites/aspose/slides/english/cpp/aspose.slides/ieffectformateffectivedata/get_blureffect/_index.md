@@ -1,12 +1,12 @@
 ---
-title: get_BlurEffect
+title: get_BlurEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Blur effect. Read-only Effects::IBlurEffectiveData."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ieffectformateffectivedata/get_blureffect/
 ---
-## IEffectFormatEffectiveData::get_BlurEffect method
+## IEffectFormatEffectiveData::get_BlurEffect() method
 
 
 Blur effect. Read-only [Effects::IBlurEffectiveData](../../../aspose.slides.effects/iblureffectivedata/).

@@ -1,12 +1,12 @@
 ---
-title: get_SecondaryVerticalAxis
+title: get_SecondaryVerticalAxis()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the chart's secondary vertical axis. Read-only IAxis.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/axesmanager/get_secondaryverticalaxis/
 ---
-## AxesManager::get_SecondaryVerticalAxis method
+## AxesManager::get_SecondaryVerticalAxis() method
 
 
 Gets the chart's secondary vertical axis. Read-only [IAxis](../../iaxis/).

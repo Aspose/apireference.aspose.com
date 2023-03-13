@@ -1,12 +1,12 @@
 ---
-title: get_Annotation
+title: get_Annotation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the annotation property.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaannotated/get_annotation/
 ---
-## XmlSchemaAnnotated::get_Annotation method
+## XmlSchemaAnnotated::get_Annotation() method
 
 
 Returns the **annotation** property.

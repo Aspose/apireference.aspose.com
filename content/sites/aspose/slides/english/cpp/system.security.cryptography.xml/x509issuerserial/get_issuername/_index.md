@@ -1,12 +1,12 @@
 ---
-title: get_IssuerName
+title: get_IssuerName()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.xml/x509issuerserial/get_issuername/
 ---
-## X509IssuerSerial::get_IssuerName method
+## X509IssuerSerial::get_IssuerName() method
 
 
 

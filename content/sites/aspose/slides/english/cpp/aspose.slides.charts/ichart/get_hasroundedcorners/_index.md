@@ -1,12 +1,12 @@
 ---
-title: get_HasRoundedCorners
+title: get_HasRoundedCorners()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the chart area shall have rounded corners. Read bool.
 type: docs
 weight: 352
 url: /cpp/aspose.slides.charts/ichart/get_hasroundedcorners/
 ---
-## IChart::get_HasRoundedCorners method
+## IChart::get_HasRoundedCorners() method
 
 
 Specifies the chart area shall have rounded corners. Read **bool**.

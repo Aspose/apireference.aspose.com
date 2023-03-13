@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified SoftEdge is equal to the current SoftEdge.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/softedge/equals/
 ---
-## SoftEdge::Equals method
+## SoftEdge::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [SoftEdge](../) is equal to the current [SoftEdge](../).

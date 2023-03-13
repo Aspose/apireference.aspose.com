@@ -1,12 +1,12 @@
 ---
-title: limit
+title: limit()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/aspose.slides/floatcolor/limit/
 ---
-## FloatColor::limit method
+## FloatColor::limit(**float**, **float**, **float**) method
 
 
 

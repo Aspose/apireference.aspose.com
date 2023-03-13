@@ -1,12 +1,12 @@
 ---
-title: set_TargetSlide
+title: set_TargetSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the slide object that the Slide Zoom object links to. Write ISlide.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/izoomframe/set_targetslide/
 ---
-## IZoomFrame::set_TargetSlide method
+## IZoomFrame::set_TargetSlide([System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>) method
 
 
 Sets the slide object that the [Slide](../../slide/) Zoom object links to. Write [ISlide](../../islide/).

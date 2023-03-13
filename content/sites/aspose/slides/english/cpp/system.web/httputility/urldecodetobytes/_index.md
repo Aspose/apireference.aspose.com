@@ -1,5 +1,5 @@
 ---
-title: UrlDecodeToBytes
+title: UrlDecodeToBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Decodes URI fragment from bytes array.
 type: docs

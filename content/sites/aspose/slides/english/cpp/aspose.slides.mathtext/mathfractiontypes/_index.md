@@ -1,7 +1,7 @@
 ---
 title: MathFractionTypes
 second_title: Aspose.Slides for C++ API Reference
-description: Fraction Types.
+description: Fraction Types
 type: docs
 weight: 1145
 url: /cpp/aspose.slides.mathtext/mathfractiontypes/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathfractiontypes/
 ## MathFractionTypes enum
 
 
-Fraction Types.
+Fraction Types
 
 ```cpp
 enum class MathFractionTypes
@@ -19,9 +19,9 @@ enum class MathFractionTypes
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Bar | 1 | Bar Fraction. |
-| Skewed | 2 | Skewed. |
-| Linear | 3 | Linear Fraction. |
+| Bar | 1 | Bar Fraction |
+| Skewed | 2 | Skewed |
+| Linear | 3 | Linear Fraction |
 | NoBar | 4 | No-Bar Fraction (Stack) |
 
 ## See Also

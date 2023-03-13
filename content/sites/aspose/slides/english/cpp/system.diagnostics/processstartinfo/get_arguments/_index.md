@@ -1,12 +1,12 @@
 ---
-title: get_Arguments
+title: get_Arguments()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets process arguments.
 type: docs
 weight: 66
 url: /cpp/system.diagnostics/processstartinfo/get_arguments/
 ---
-## ProcessStartInfo::get_Arguments method
+## ProcessStartInfo::get_Arguments() const method
 
 
 Gets process arguments.

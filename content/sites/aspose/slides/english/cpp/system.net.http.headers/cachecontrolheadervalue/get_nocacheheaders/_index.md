@@ -1,12 +1,12 @@
 ---
-title: get_NoCacheHeaders
+title: get_NoCacheHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the collection of fieldnames in the 'no-cache' directive in the 'Cache-Control' header.
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_nocacheheaders/
 ---
-## CacheControlHeaderValue::get_NoCacheHeaders method
+## CacheControlHeaderValue::get_NoCacheHeaders() method
 
 
 Gets the collection of fieldnames in the 'no-cache' directive in the 'Cache-Control' header.

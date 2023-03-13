@@ -1,12 +1,12 @@
 ---
-title: Type
+title: Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a TypeInfo object that represent TimeSpan structure.
 type: docs
 weight: 586
 url: /cpp/system/timespan/type/
 ---
-## TimeSpan::Type method
+## TimeSpan::Type() method
 
 
 Returns a [TypeInfo](../../typeinfo/) object that represent [TimeSpan](../) structure.

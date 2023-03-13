@@ -1,12 +1,12 @@
 ---
-title: DecodeName
+title: DecodeName()
 second_title: Aspose.Slides for C++ API Reference
 description: "Decodes a name. This method does the reverse of the XmlConvert::EncodeName(String) and XmlConvert::EncodeLocalName(String) methods."
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlconvert/decodename/
 ---
-## XmlConvert::DecodeName method
+## XmlConvert::DecodeName(const [String](../../../system/string/)\&) method
 
 
 Decodes a name. This method does the reverse of the XmlConvert::EncodeName(String) and XmlConvert::EncodeLocalName(String) methods.

@@ -1,12 +1,12 @@
 ---
-title: get_QualifiedName
+title: get_QualifiedName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the qualified name of the schema group.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemagroup/get_qualifiedname/
 ---
-## XmlSchemaGroup::get_QualifiedName method
+## XmlSchemaGroup::get_QualifiedName() method
 
 
 Returns the qualified name of the schema group.

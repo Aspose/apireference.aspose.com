@@ -1,12 +1,12 @@
 ---
-title: TryParseAdd
+title: TryParseAdd()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httpheadervaluecollection_tmpl_system_string__end_tmpl/tryparseadd/
 ---
-## HttpHeaderValueCollection< System::String >::TryParseAdd method
+## HttpHeaderValueCollection< System::String >::TryParseAdd([String](../../../system/string/)) method
 
 
 

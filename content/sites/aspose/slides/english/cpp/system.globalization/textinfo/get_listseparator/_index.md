@@ -1,12 +1,12 @@
 ---
-title: get_ListSeparator
+title: get_ListSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets list separator.
 type: docs
 weight: 27
 url: /cpp/system.globalization/textinfo/get_listseparator/
 ---
-## TextInfo::get_ListSeparator method
+## TextInfo::get_ListSeparator() const method
 
 
 Gets list separator.

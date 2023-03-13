@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of elements in container.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/ikvcollection/get_count/
 ---
-## IKVCollection::get_Count method
+## IKVCollection::get_Count() const method
 
 
 Gets number of elements in container.

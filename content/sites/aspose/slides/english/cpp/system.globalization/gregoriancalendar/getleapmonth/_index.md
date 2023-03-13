@@ -1,5 +1,5 @@
 ---
-title: GetLeapMonth
+title: GetLeapMonth()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the leap month for the specified year.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaValidator
+title: XmlSchemaValidator()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaValidator class.
 type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemavalidator/xmlschemavalidator/
 ---
-## XmlSchemaValidator::XmlSchemaValidator constructor
+## XmlSchemaValidator::XmlSchemaValidator(const [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../../system.xml/xmlnametable/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaSet](../../xmlschemaset/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)\>\&, [XmlSchemaValidationFlags](../../xmlschemavalidationflags/)) constructor
 
 
 Initializes a new instance of the [XmlSchemaValidator](../) class.

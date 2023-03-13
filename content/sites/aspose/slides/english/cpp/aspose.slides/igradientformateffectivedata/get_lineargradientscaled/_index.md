@@ -1,12 +1,12 @@
 ---
-title: get_LinearGradientScaled
+title: get_LinearGradientScaled()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a gradient is scaled. Read-only bool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/igradientformateffectivedata/get_lineargradientscaled/
 ---
-## IGradientFormatEffectiveData::get_LinearGradientScaled method
+## IGradientFormatEffectiveData::get_LinearGradientScaled() method
 
 
 Determines whether a gradient is scaled. Read-only **bool**.

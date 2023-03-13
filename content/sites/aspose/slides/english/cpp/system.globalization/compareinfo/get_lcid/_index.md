@@ -1,12 +1,12 @@
 ---
-title: get_LCID
+title: get_LCID()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets LCID of the culture associated with comparer.
 type: docs
 weight: 40
 url: /cpp/system.globalization/compareinfo/get_lcid/
 ---
-## CompareInfo::get_LCID method
+## CompareInfo::get_LCID() const method
 
 
 Gets LCID of the culture associated with comparer.

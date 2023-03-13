@@ -1,5 +1,5 @@
 ---
-title: GetDaysInMonth
+title: GetDaysInMonth()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of days in specific month.
 type: docs

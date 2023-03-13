@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.security/securestring/operator_equal/
 ---
-## SecureString::operator= method
+## SecureString::operator=(const [SecureString](../)\&) method
 
 
 

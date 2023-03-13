@@ -1,5 +1,5 @@
 ---
-title: WriteByte
+title: WriteByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes byte to memory.
 type: docs

@@ -1,15 +1,15 @@
 ---
-title: set_HideSubscript
+title: set_HideSubscript()
 second_title: Aspose.Slides for C++ API Reference
-description: Hide Subscript.
+description: Hide Subscript
 type: docs
 weight: 131
 url: /cpp/aspose.slides.mathtext/mathnaryoperator/set_hidesubscript/
 ---
-## MathNaryOperator::set_HideSubscript method
+## MathNaryOperator::set_HideSubscript(**bool**) method
 
 
-Hide Subscript.
+Hide Subscript
 
 ```cpp
 void Aspose::Slides::MathText::MathNaryOperator::set_HideSubscript(bool value) override

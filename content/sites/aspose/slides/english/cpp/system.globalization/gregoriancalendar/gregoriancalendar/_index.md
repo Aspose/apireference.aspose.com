@@ -1,12 +1,12 @@
 ---
-title: GregorianCalendar
+title: GregorianCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs specific gregorian calendar.
 type: docs
 weight: 1
 url: /cpp/system.globalization/gregoriancalendar/gregoriancalendar/
 ---
-## GregorianCalendar::GregorianCalendar constructor
+## GregorianCalendar::GregorianCalendar([GregorianCalendarTypes](../../gregoriancalendartypes/)) constructor
 
 
 Constructs specific gregorian calendar.

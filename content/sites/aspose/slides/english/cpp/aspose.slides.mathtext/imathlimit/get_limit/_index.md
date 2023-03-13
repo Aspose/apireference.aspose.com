@@ -1,15 +1,15 @@
 ---
-title: get_Limit
+title: get_Limit()
 second_title: Aspose.Slides for C++ API Reference
-description: Limit argument.
+description: Limit argument
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathlimit/get_limit/
 ---
-## IMathLimit::get_Limit method
+## IMathLimit::get_Limit() method
 
 
-Limit argument.
+Limit argument
 
 ```cpp
 virtual System::SharedPtr<IMathElement> Aspose::Slides::MathText::IMathLimit::get_Limit()=0

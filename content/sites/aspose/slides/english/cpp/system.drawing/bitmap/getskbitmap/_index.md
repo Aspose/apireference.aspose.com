@@ -1,12 +1,12 @@
 ---
-title: GetSkBitmap
+title: GetSkBitmap()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a raw pointer to the underlying SkBitmap object.
 type: docs
 weight: 209
 url: /cpp/system.drawing/bitmap/getskbitmap/
 ---
-## Bitmap::GetSkBitmap method
+## Bitmap::GetSkBitmap() const method
 
 
 Returns a raw pointer to the underlying SkBitmap object.

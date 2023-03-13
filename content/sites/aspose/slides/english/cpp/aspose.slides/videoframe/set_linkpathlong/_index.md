@@ -1,12 +1,12 @@
 ---
-title: set_LinkPathLong
+title: set_LinkPathLong()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the name of an video file which is linked to a VideoFrame. Write System::String."
 type: docs
 weight: 170
 url: /cpp/aspose.slides/videoframe/set_linkpathlong/
 ---
-## VideoFrame::set_LinkPathLong method
+## VideoFrame::set_LinkPathLong([System::String](../../../system/string/)) method
 
 
 Sets the name of an video file which is linked to a [VideoFrame](../). Write [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element to the end of the list.
 type: docs
 weight: 105
 url: /cpp/system.collections.generic/linkedlist/add/
 ---
-## LinkedList::Add method
+## LinkedList::Add(const T\&) method
 
 
 Adds **element** to the end of the list.

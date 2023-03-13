@@ -1,12 +1,12 @@
 ---
-title: IsBoxedEnum
+title: IsBoxedEnum()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the current object represents a boxed value of enum type.
 type: docs
 weight: 14
 url: /cpp/system/boxedenum/isboxedenum/
 ---
-## BoxedEnum::IsBoxedEnum method
+## BoxedEnum::IsBoxedEnum() method
 
 
 Determines whether the current object represents a boxed value of enum type.

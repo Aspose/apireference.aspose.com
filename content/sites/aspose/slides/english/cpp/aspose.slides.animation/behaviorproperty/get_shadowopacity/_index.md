@@ -1,15 +1,15 @@
 ---
-title: get_ShadowOpacity
+title: get_ShadowOpacity()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'shadow.opacity' property.
+description: Represents 'shadow.opacity' property
 type: docs
 weight: 976
 url: /cpp/aspose.slides.animation/behaviorproperty/get_shadowopacity/
 ---
-## BehaviorProperty::get_ShadowOpacity method
+## BehaviorProperty::get_ShadowOpacity() method
 
 
-Represents 'shadow.opacity' property.
+Represents 'shadow.opacity' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ShadowOpacity()

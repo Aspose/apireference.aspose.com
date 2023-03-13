@@ -1,12 +1,12 @@
 ---
-title: get_OutputBlockSize
+title: get_OutputBlockSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Output block size.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/tobase64transform/get_outputblocksize/
 ---
-## ToBase64Transform::get_OutputBlockSize method
+## ToBase64Transform::get_OutputBlockSize() method
 
 
 Output block size.

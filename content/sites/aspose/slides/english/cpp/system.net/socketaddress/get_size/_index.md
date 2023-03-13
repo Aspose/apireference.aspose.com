@@ -1,12 +1,12 @@
 ---
-title: get_Size
+title: get_Size()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the underlying buffer size.
 type: docs
 weight: 14
 url: /cpp/system.net/socketaddress/get_size/
 ---
-## SocketAddress::get_Size method
+## SocketAddress::get_Size() method
 
 
 Returns the underlying buffer size.

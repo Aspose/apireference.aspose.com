@@ -1,5 +1,5 @@
 ---
-title: DrawClosedCurve
+title: DrawClosedCurve()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws a closed spline using the specified pen.
 type: docs

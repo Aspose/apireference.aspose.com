@@ -1,5 +1,5 @@
 ---
-title: EnumerateFileSystemInfos
+title: EnumerateFileSystemInfos()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns enumerable collection containing all files and directories located in the directory represented by the current object.
 type: docs

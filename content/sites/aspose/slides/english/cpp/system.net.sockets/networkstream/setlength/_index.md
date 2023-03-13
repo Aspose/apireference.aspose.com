@@ -1,12 +1,12 @@
 ---
-title: SetLength
+title: SetLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the length of the stream represented by the current object.
 type: docs
 weight: 313
 url: /cpp/system.net.sockets/networkstream/setlength/
 ---
-## NetworkStream::SetLength method
+## NetworkStream::SetLength(**int64_t**) method
 
 
 Sets the length of the stream represented by the current object.

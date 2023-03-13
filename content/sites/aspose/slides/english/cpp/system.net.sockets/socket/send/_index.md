@@ -1,5 +1,5 @@
 ---
-title: Send
+title: Send()
 second_title: Aspose.Slides for C++ API Reference
 description: Sends the specified data to the socket.
 type: docs

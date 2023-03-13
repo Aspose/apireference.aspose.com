@@ -1,12 +1,12 @@
 ---
-title: set_UngroupingLocked
+title: set_UngroupingLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether splitting this groupshape is forbidden. Write bool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/groupshapelock/set_ungroupinglocked/
 ---
-## GroupShapeLock::set_UngroupingLocked method
+## GroupShapeLock::set_UngroupingLocked(**bool**) method
 
 
 Determines whether splitting this groupshape is forbidden. Write **bool**.

@@ -1,12 +1,12 @@
 ---
-title: operator double
+title: operator double()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value represented by the current object to double-precision floating-point value.
 type: docs
 weight: 53
 url: /cpp/system/decimal/operator_double/
 ---
-## Decimal::operator double method
+## Decimal::operator double() const method
 
 
 Converts the value represented by the current object to double-precision floating-point value.

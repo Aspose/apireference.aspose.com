@@ -1,12 +1,12 @@
 ---
-title: get_Namespace
+title: get_Namespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a string representation of the namespace of the XmlQualifiedName.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlqualifiedname/get_namespace/
 ---
-## XmlQualifiedName::get_Namespace method
+## XmlQualifiedName::get_Namespace() const method
 
 
 Returns a string representation of the namespace of the [XmlQualifiedName](../).

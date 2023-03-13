@@ -1,12 +1,12 @@
 ---
-title: WriteEntityRef
+title: WriteEntityRef()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes out an entity reference as &name;.
 type: docs
 weight: 209
 url: /cpp/system.xml/xmlwriter/writeentityref/
 ---
-## XmlWriter::WriteEntityRef method
+## XmlWriter::WriteEntityRef(const [String](../../../system/string/)\&) method
 
 
 When overridden in a derived class, writes out an entity reference as **&name**;.

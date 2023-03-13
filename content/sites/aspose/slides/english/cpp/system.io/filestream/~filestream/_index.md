@@ -1,12 +1,12 @@
 ---
-title: ~FileStream
+title: ~FileStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.io/filestream/~filestream/
 ---
-## FileStream::~FileStream method
+## FileStream::~FileStream() method
 
 
 Destructor.

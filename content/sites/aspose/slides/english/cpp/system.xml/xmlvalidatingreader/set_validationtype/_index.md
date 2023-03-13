@@ -1,12 +1,12 @@
 ---
-title: set_ValidationType
+title: set_ValidationType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating the type of validation to perform.
 type: docs
 weight: 326
 url: /cpp/system.xml/xmlvalidatingreader/set_validationtype/
 ---
-## XmlValidatingReader::set_ValidationType method
+## XmlValidatingReader::set_ValidationType([System::Xml::ValidationType](../../validationtype/)) method
 
 
 Sets a value indicating the type of validation to perform.

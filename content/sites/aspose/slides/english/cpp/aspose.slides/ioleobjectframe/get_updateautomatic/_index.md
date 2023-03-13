@@ -1,12 +1,12 @@
 ---
-title: get_UpdateAutomatic
+title: get_UpdateAutomatic()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the linked embedded object is automatically updated when the presentation is opened or printed. Read bool.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/ioleobjectframe/get_updateautomatic/
 ---
-## IOleObjectFrame::get_UpdateAutomatic method
+## IOleObjectFrame::get_UpdateAutomatic() method
 
 
 Determines if the linked embedded object is automatically updated when the presentation is opened or printed. Read **bool**.

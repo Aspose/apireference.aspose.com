@@ -1,12 +1,12 @@
 ---
-title: get_InputTypes
+title: get_InputTypes()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.xml/transform/get_inputtypes/
 ---
-## Transform::get_InputTypes method
+## Transform::get_InputTypes() method
 
 
 

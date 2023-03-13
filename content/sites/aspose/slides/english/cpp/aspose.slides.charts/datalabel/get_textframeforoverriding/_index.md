@@ -1,12 +1,12 @@
 ---
-title: get_TextFrameForOverriding
+title: get_TextFrameForOverriding()
 second_title: Aspose.Slides for C++ API Reference
 description: Can contain a rich formatted text. If this property is not null then this formatted text value overrides auto-generated text of data label. Auto-generated text of data label means text that is managed by ShowSeriesName, ShowValue, ... properties and is formatted with the TextFormatManager.TextFormat property. Read-only ITextFrame.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/datalabel/get_textframeforoverriding/
 ---
-## DataLabel::get_TextFrameForOverriding method
+## DataLabel::get_TextFrameForOverriding() method
 
 
 Can contain a rich formatted text. If this property is not null then this formatted text value overrides auto-generated text of data label. Auto-generated text of data label means text that is managed by ShowSeriesName, ShowValue, ... properties and is formatted with the TextFormatManager.TextFormat property. Read-only [ITextFrame](../../../aspose.slides/itextframe/).

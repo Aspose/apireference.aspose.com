@@ -1,12 +1,12 @@
 ---
-title: get_IsEncrypted
+title: get_IsEncrypted()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets True if binded presentation is encrypted, otherwise False. Read-only bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/presentationinfo/get_isencrypted/
 ---
-## PresentationInfo::get_IsEncrypted method
+## PresentationInfo::get_IsEncrypted() method
 
 
 Gets True if binded presentation is encrypted, otherwise False. Read-only **bool**.

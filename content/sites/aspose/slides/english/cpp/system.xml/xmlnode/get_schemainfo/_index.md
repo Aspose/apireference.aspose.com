@@ -1,12 +1,12 @@
 ---
-title: get_SchemaInfo
+title: get_SchemaInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post schema validation infoset that has been assigned to this node as a result of schema validation.
 type: docs
 weight: 300
 url: /cpp/system.xml/xmlnode/get_schemainfo/
 ---
-## XmlNode::get_SchemaInfo method
+## XmlNode::get_SchemaInfo() method
 
 
 Returns the post schema validation infoset that has been assigned to this node as a result of schema validation.

@@ -1,12 +1,12 @@
 ---
-title: get_TrendlineType
+title: get_TrendlineType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets type of trend line. Read Charts::TrendlineType."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/trendline/get_trendlinetype/
 ---
-## Trendline::get_TrendlineType method
+## Trendline::get_TrendlineType() method
 
 
 Gets type of trend line. Read [Charts::TrendlineType](../../trendlinetype/).

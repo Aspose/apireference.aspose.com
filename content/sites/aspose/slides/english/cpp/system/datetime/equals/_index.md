@@ -1,5 +1,5 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified instance of DateTime class represent the same date and time value as the current object.
 type: docs

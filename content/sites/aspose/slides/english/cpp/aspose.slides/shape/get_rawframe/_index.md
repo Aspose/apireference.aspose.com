@@ -1,12 +1,12 @@
 ---
-title: get_RawFrame
+title: get_RawFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the raw shape frame's properties. Read IShapeFrame.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/shape/get_rawframe/
 ---
-## Shape::get_RawFrame method
+## Shape::get_RawFrame() method
 
 
 Returns the raw shape frame's properties. Read [IShapeFrame](../../ishapeframe/).

@@ -1,12 +1,12 @@
 ---
-title: Enqueue
+title: Enqueue()
 second_title: Aspose.Slides for C++ API Reference
 description: Puts item to the end of the queue.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/queue/enqueue/
 ---
-## Queue::Enqueue method
+## Queue::Enqueue(const T\&) method
 
 
 Puts item to the end of the queue.

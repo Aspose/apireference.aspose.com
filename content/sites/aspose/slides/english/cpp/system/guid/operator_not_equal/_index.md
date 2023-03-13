@@ -1,12 +1,12 @@
 ---
-title: operator!=
+title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the GUIDs represented by the current and specified objects are not equal.
 type: docs
 weight: 92
 url: /cpp/system/guid/operator_not_equal/
 ---
-## Guid::operator!= method
+## Guid::operator!=(const [Guid](../)\&) const method
 
 
 Determines if the GUIDs represented by the current and specified objects are not equal.

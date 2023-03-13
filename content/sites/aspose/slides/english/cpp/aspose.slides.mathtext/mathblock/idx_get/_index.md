@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets IMathElement at the specified index.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/mathblock/idx_get/
 ---
-## MathBlock::idx_get method
+## MathBlock::idx_get(**int32_t**) method
 
 
 Gets [IMathElement](../../imathelement/) at the specified index.

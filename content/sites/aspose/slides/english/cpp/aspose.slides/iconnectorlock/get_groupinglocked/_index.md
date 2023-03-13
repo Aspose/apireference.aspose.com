@@ -1,12 +1,12 @@
 ---
-title: get_GroupingLocked
+title: get_GroupingLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an adding this shape to a group is forbidden. Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iconnectorlock/get_groupinglocked/
 ---
-## IConnectorLock::get_GroupingLocked method
+## IConnectorLock::get_GroupingLocked() method
 
 
 Determines whether an adding this shape to a group is forbidden. Read **bool**.

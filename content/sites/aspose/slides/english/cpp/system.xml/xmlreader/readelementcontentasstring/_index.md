@@ -1,5 +1,5 @@
 ---
-title: ReadElementContentAsString
+title: ReadElementContentAsString()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the current element and returns the contents as a String object.
 type: docs

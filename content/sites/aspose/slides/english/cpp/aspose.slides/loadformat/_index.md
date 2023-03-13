@@ -33,7 +33,7 @@ enum class LoadFormat
 | Ppt95 | 11 | Microsoft PowerPoint 95 [Presentation](../presentation/). |
 | Pot | 12 | Microsoft PowerPoint 97-2003 [Presentation](../presentation/) Template. |
 | Fodp | 13 | Flat XML ODF [Presentation](../presentation/). |
-| Unknown | 255 | Unknown file format. |
+| Unknown | 255 | Unknown file format |
 
 ## See Also
 

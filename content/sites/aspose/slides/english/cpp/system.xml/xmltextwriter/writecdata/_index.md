@@ -1,12 +1,12 @@
 ---
-title: WriteCData
+title: WriteCData()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes out a ... block containing the specified text.
 type: docs
 weight: 300
 url: /cpp/system.xml/xmltextwriter/writecdata/
 ---
-## XmlTextWriter::WriteCData method
+## XmlTextWriter::WriteCData([String](../../../system/string/)) method
 
 
 Writes out a **...** block containing the specified text.

@@ -1,12 +1,12 @@
 ---
-title: get_Keys
+title: get_Keys()
 second_title: Aspose.Slides for C++ API Reference
 description: Accesses key collection.
 type: docs
 weight: 79
 url: /cpp/system.collections.generic/idictionary/get_keys/
 ---
-## IDictionary::get_Keys method
+## IDictionary::get_Keys() const method
 
 
 Accesses key collection.

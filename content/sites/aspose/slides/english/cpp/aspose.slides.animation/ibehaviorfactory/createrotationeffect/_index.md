@@ -1,12 +1,12 @@
 ---
-title: CreateRotationEffect
+title: CreateRotationEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates rotation effect.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/ibehaviorfactory/createrotationeffect/
 ---
-## IBehaviorFactory::CreateRotationEffect method
+## IBehaviorFactory::CreateRotationEffect() method
 
 
 Creates rotation effect.

@@ -1,12 +1,12 @@
 ---
-title: CookieCutter
+title: CookieCutter()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies cookies from the specified HTTP header for the specified URI.
 type: docs
 weight: 131
 url: /cpp/system.net/cookiecontainer/cookiecutter/
 ---
-## CookieContainer::CookieCutter method
+## CookieContainer::CookieCutter([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/), [String](../../../system/string/), **bool**) method
 
 
 Copies cookies from the specified HTTP header for the specified URI.

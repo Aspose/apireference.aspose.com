@@ -1,12 +1,12 @@
 ---
-title: get_ColorTransform
+title: get_ColorTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of color transformations applied to a color. Read-only IColorOperationCollection.
 type: docs
 weight: 365
 url: /cpp/aspose.slides/colorformat/get_colortransform/
 ---
-## ColorFormat::get_ColorTransform method
+## ColorFormat::get_ColorTransform() method
 
 
 Returns the collection of color transformations applied to a color. Read-only [IColorOperationCollection](../../icoloroperationcollection/).

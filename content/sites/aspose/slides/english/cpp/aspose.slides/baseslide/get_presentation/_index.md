@@ -1,12 +1,12 @@
 ---
-title: get_Presentation
+title: get_Presentation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns IPresentation interface. Read-only IPresentation.
 type: docs
 weight: 157
 url: /cpp/aspose.slides/baseslide/get_presentation/
 ---
-## BaseSlide::get_Presentation method
+## BaseSlide::get_Presentation() method
 
 
 Returns [IPresentation](../../ipresentation/) interface. Read-only [IPresentation](../../ipresentation/).

@@ -1,12 +1,12 @@
 ---
-title: get_DateTime7
+title: get_DateTime7()
 second_title: Aspose.Slides for C++ API Reference
 description: Current date and time in a seventh predefined format (Mon-YY for english). Read-only FieldType.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/fieldtype/get_datetime7/
 ---
-## FieldType::get_DateTime7 method
+## FieldType::get_DateTime7() method
 
 
 Current date and time in a seventh predefined format (Mon-YY for english). Read-only [FieldType](../).

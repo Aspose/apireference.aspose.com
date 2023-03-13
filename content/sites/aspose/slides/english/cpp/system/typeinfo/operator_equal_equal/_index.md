@@ -1,5 +1,5 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current and the specified TypeInfo objects are equal.
 type: docs

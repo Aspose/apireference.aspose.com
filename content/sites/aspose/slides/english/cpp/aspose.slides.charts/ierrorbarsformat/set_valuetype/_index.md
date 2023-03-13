@@ -1,12 +1,12 @@
 ---
-title: set_ValueType
+title: set_ValueType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents possible ways to determine the length of the error bars. In case of custom value type to specify value use IChartDataPoint::get_ErrorBarsCustomValues() property of specific data point in DataPoints collection of series.  Write ErrorBarValueType."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ierrorbarsformat/set_valuetype/
 ---
-## IErrorBarsFormat::set_ValueType method
+## IErrorBarsFormat::set_ValueType([ErrorBarValueType](../../errorbarvaluetype/)) method
 
 
 Represents possible ways to determine the length of the error bars. In case of custom value type to specify value use [IChartDataPoint::get_ErrorBarsCustomValues()](../../ichartdatapoint/get_errorbarscustomvalues/) property of specific data point in DataPoints collection of series. 

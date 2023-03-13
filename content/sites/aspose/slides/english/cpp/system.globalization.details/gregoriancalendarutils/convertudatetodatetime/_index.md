@@ -1,12 +1,12 @@
 ---
-title: ConvertUDateToDateTime
+title: ConvertUDateToDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Convert ICU UDate to DateTime.
 type: docs
 weight: 92
 url: /cpp/system.globalization.details/gregoriancalendarutils/convertudatetodatetime/
 ---
-## GregorianCalendarUtils::ConvertUDateToDateTime method
+## GregorianCalendarUtils::ConvertUDateToDateTime(const **double**) method
 
 
 [Convert](../../../system/convert/) ICU UDate to [DateTime](../../../system/datetime/).

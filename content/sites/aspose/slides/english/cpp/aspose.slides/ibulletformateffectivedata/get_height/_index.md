@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the bullet height of a paragraph. Read-only float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ibulletformateffectivedata/get_height/
 ---
-## IBulletFormatEffectiveData::get_Height method
+## IBulletFormatEffectiveData::get_Height() method
 
 
 Returns the bullet height of a paragraph. Read-only **float**.

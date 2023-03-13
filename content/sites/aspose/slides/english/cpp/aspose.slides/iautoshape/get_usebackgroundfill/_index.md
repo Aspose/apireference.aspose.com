@@ -1,12 +1,12 @@
 ---
-title: get_UseBackgroundFill
+title: get_UseBackgroundFill()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether this autoshape should be filled with slide's background fill instead of specified by style or fill format. Read bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/iautoshape/get_usebackgroundfill/
 ---
-## IAutoShape::get_UseBackgroundFill method
+## IAutoShape::get_UseBackgroundFill() method
 
 
 Determines whether this autoshape should be filled with slide's background fill instead of specified by style or fill format. Read **bool**.

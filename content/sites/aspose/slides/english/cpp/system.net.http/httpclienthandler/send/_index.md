@@ -1,12 +1,12 @@
 ---
-title: Send
+title: Send()
 second_title: Aspose.Slides for C++ API Reference
 description: Sends the specified request.
 type: docs
 weight: 27
 url: /cpp/system.net.http/httpclienthandler/send/
 ---
-## HttpClientHandler::Send method
+## HttpClientHandler::Send([System::SharedPtr](../../../system/sharedptr/)\<[HttpRequestMessage](../../httprequestmessage/)\>) method
 
 
 Sends the specified request.

@@ -1,7 +1,7 @@
 ---
 title: IMathRightSubSuperscriptElementFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create IMathRightSubSuperscriptElementFactory.
+description: Allows to create IMathRightSubSuperscriptElementFactory
 type: docs
 weight: 534
 url: /cpp/aspose.slides.mathtext/imathrightsubsuperscriptelementfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathrightsubsuperscriptelementfactory/
 ## IMathRightSubSuperscriptElementFactory class
 
 
-Allows to create [IMathRightSubSuperscriptElementFactory](./).
+Allows to create [IMathRightSubSuperscriptElementFactory](./)
 
 ```cpp
 class IMathRightSubSuperscriptElementFactory : public System::Object
@@ -19,7 +19,7 @@ class IMathRightSubSuperscriptElementFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathRightSubSuperscriptElement](../imathrightsubsuperscriptelement/)\> [CreateMathRightSubSuperscriptElement](./createmathrightsubsuperscriptelement/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates [IMathRightSubSuperscriptElementFactory](./). |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathRightSubSuperscriptElement](../imathrightsubsuperscriptelement/)\> [CreateMathRightSubSuperscriptElement](./createmathrightsubsuperscriptelement/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates [IMathRightSubSuperscriptElementFactory](./) |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

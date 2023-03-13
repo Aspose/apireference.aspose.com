@@ -1,12 +1,12 @@
 ---
-title: rend
+title: rend()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns reverse iterator to the before first character (if any) of actual string buffer.
 type: docs
 weight: 79
 url: /cpp/system/string/rend/
 ---
-## String::rend method
+## String::rend() const method
 
 
 Returns reverse iterator to the before first character (if any) of actual string buffer.

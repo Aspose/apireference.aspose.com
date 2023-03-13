@@ -1,12 +1,12 @@
 ---
-title: get_Proxy
+title: get_Proxy()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets proxy information.
 type: docs
 weight: 92
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/get_proxy/
 ---
-## HttpWebClientProtocol::get_Proxy method
+## HttpWebClientProtocol::get_Proxy() method
 
 
 Gets proxy information.

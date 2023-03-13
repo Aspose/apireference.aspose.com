@@ -1,12 +1,12 @@
 ---
-title: ToFileTimeUtc
+title: ToFileTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the date and time value represented by the current object to File time UTC.
 type: docs
 weight: 391
 url: /cpp/system/datetime/tofiletimeutc/
 ---
-## DateTime::ToFileTimeUtc method
+## DateTime::ToFileTimeUtc() const method
 
 
 Converts the date and time value represented by the current object to File time UTC.

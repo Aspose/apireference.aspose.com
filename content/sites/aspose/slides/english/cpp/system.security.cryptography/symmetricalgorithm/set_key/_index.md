@@ -1,12 +1,12 @@
 ---
-title: set_Key
+title: set_Key()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets key of cryptographic operation.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_key/
 ---
-## SymmetricAlgorithm::set_Key method
+## SymmetricAlgorithm::set_Key([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 Sets key of cryptographic operation.

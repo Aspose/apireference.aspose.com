@@ -1,12 +1,12 @@
 ---
-title: get_AlgorithmType
+title: get_AlgorithmType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets algorithm type.
 type: docs
 weight: 14
 url: /cpp/system.globalization/koreancalendar/get_algorithmtype/
 ---
-## KoreanCalendar::get_AlgorithmType method
+## KoreanCalendar::get_AlgorithmType() const method
 
 
 Gets algorithm type.

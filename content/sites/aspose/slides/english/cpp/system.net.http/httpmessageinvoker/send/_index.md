@@ -1,12 +1,12 @@
 ---
-title: Send
+title: Send()
 second_title: Aspose.Slides for C++ API Reference
 description: Sends the specified request.
 type: docs
 weight: 14
 url: /cpp/system.net.http/httpmessageinvoker/send/
 ---
-## HttpMessageInvoker::Send method
+## HttpMessageInvoker::Send([System::SharedPtr](../../../system/sharedptr/)\<[HttpRequestMessage](../../httprequestmessage/)\>) method
 
 
 Sends the specified request.

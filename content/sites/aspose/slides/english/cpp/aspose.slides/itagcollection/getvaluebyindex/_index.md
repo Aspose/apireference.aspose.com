@@ -1,12 +1,12 @@
 ---
-title: GetValueByIndex
+title: GetValueByIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns value of a tag at the specified index.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/itagcollection/getvaluebyindex/
 ---
-## ITagCollection::GetValueByIndex method
+## ITagCollection::GetValueByIndex(**int32_t**) method
 
 
 Returns value of a tag at the specified index.

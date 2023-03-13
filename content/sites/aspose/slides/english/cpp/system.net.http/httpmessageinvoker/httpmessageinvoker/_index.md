@@ -1,5 +1,5 @@
 ---
-title: HttpMessageInvoker
+title: HttpMessageInvoker()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs

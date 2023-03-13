@@ -1,12 +1,12 @@
 ---
-title: get_TickLabelSpacing
+title: get_TickLabelSpacing()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies how many tick labels to skip between label that is drawn. Read uint32_t.
 type: docs
 weight: 859
 url: /cpp/aspose.slides.charts/iaxis/get_ticklabelspacing/
 ---
-## IAxis::get_TickLabelSpacing method
+## IAxis::get_TickLabelSpacing() method
 
 
 Specifies how many tick labels to skip between label that is drawn. Read **uint32_t**.

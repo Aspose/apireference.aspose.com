@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator.
 type: docs
 weight: 157
 url: /cpp/system.net/cookiecollection/getenumerator/
 ---
-## CookieCollection::GetEnumerator method
+## CookieCollection::GetEnumerator() method
 
 
 Gets enumerator.

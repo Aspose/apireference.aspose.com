@@ -1,12 +1,12 @@
 ---
-title: get_DateTimeFormat
+title: get_DateTimeFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets date format information.
 type: docs
 weight: 287
 url: /cpp/system.globalization/cultureinfo/get_datetimeformat/
 ---
-## CultureInfo::get_DateTimeFormat method
+## CultureInfo::get_DateTimeFormat() const method
 
 
 Gets date format information.

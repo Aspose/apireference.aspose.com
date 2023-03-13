@@ -1,12 +1,12 @@
 ---
-title: ToOffset
+title: ToOffset()
 second_title: Aspose.Slides for C++ API Reference
 description: Replace current object offset by the specified offset.
 type: docs
 weight: 430
 url: /cpp/system/datetimeoffset/tooffset/
 ---
-## DateTimeOffset::ToOffset method
+## DateTimeOffset::ToOffset([TimeSpan](../../timespan/)) const method
 
 
 Replace current object offset by the specified offset.

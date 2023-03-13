@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a name for a part of the content body.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_name/
 ---
-## ContentDispositionHeaderValue::set_Name method
+## ContentDispositionHeaderValue::set_Name([String](../../../system/string/)) method
 
 
 Sets a name for a part of the content body.

@@ -1,12 +1,12 @@
 ---
-title: set_ShowMasterShapes
+title: set_ShowMasterShapes()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies if shapes on the master slide should be shown on slides or not. Write bool.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/slide/set_showmastershapes/
 ---
-## Slide::set_ShowMasterShapes method
+## Slide::set_ShowMasterShapes(**bool**) method
 
 
 Specifies if shapes on the master slide should be shown on slides or not. Write **bool**.

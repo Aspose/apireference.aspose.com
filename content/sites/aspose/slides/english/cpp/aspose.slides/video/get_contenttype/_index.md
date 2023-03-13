@@ -1,12 +1,12 @@
 ---
-title: get_ContentType
+title: get_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a MIME type of an video, encoded in Video::get_BinaryData. Read-only System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides/video/get_contenttype/
 ---
-## Video::get_ContentType method
+## Video::get_ContentType() method
 
 
 Returns a MIME type of an video, encoded in [Video::get_BinaryData](../get_binarydata/). Read-only [System::String](../../../system/string/).

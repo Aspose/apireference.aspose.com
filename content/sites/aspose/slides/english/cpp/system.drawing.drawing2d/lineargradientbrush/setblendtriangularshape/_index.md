@@ -1,12 +1,12 @@
 ---
-title: SetBlendTriangularShape
+title: SetBlendTriangularShape()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 261
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/setblendtriangularshape/
 ---
-## LinearGradientBrush::SetBlendTriangularShape method
+## LinearGradientBrush::SetBlendTriangularShape(**float**, **float**) method
 
 
 NOT IMPLEMENTED.

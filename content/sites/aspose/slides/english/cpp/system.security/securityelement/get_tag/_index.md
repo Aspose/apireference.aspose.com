@@ -1,12 +1,12 @@
 ---
-title: get_Tag
+title: get_Tag()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets tag name.
 type: docs
 weight: 66
 url: /cpp/system.security/securityelement/get_tag/
 ---
-## SecurityElement::get_Tag method
+## SecurityElement::get_Tag() method
 
 
 Gets tag name.

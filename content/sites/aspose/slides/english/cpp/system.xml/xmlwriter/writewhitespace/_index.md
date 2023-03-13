@@ -1,12 +1,12 @@
 ---
-title: WriteWhitespace
+title: WriteWhitespace()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes out the given white space.
 type: docs
 weight: 235
 url: /cpp/system.xml/xmlwriter/writewhitespace/
 ---
-## XmlWriter::WriteWhitespace method
+## XmlWriter::WriteWhitespace([String](../../../system/string/)) method
 
 
 When overridden in a derived class, writes out the given white space.

@@ -1,12 +1,12 @@
 ---
-title: get_MinorTickMark
+title: get_MinorTickMark()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the type of minor tick mark for the specified axis. Read TickMarkType.
 type: docs
 weight: 534
 url: /cpp/aspose.slides.charts/axis/get_minortickmark/
 ---
-## Axis::get_MinorTickMark method
+## Axis::get_MinorTickMark() method
 
 
 Represents the type of minor tick mark for the specified axis. Read [TickMarkType](../../tickmarktype/).

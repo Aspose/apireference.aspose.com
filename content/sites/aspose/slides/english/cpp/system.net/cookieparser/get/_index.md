@@ -1,12 +1,12 @@
 ---
-title: Get
+title: Get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an instance based on the specified string.
 type: docs
 weight: 27
 url: /cpp/system.net/cookieparser/get/
 ---
-## CookieParser::Get method
+## CookieParser::Get() method
 
 
 Returns an instance based on the specified string.

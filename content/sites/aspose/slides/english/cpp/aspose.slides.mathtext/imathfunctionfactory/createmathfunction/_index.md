@@ -1,7 +1,7 @@
 ---
-title: CreateMathFunction
+title: CreateMathFunction()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates math function.
+description: Creates math function
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathfunctionfactory/createmathfunction/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathfunctionfactory/createmathfunction/
 ## IMathFunctionFactory::CreateMathFunction([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates math function.
+Creates math function
 
 ```cpp
 virtual System::SharedPtr<IMathFunction> Aspose::Slides::MathText::IMathFunctionFactory::CreateMathFunction(System::SharedPtr<IMathElement> funcName, System::SharedPtr<IMathElement> baseArgument)=0
@@ -38,7 +38,7 @@ new math function
 ## IMathFunctionFactory::CreateMathFunction([System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates math function.
+Creates math function
 
 ```cpp
 virtual System::SharedPtr<IMathFunction> Aspose::Slides::MathText::IMathFunctionFactory::CreateMathFunction(System::String funcName, System::SharedPtr<IMathElement> baseArgument)=0

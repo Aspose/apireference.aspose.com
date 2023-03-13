@@ -1,5 +1,5 @@
 ---
-title: BasicSystemOStreamWrapper
+title: BasicSystemOStreamWrapper()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of the BasicSystemOStreamWrapper.
 type: docs

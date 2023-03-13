@@ -1,12 +1,12 @@
 ---
-title: AddPath
+title: AddPath()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified path to the path represented by the current object.
 type: docs
 weight: 222
 url: /cpp/system.drawing.drawing2d/graphicspath/addpath/
 ---
-## GraphicsPath::AddPath method
+## GraphicsPath::AddPath(const [SharedPtr](../../../system/sharedptr/)\<[GraphicsPath](../)\>\&, **bool**) method
 
 
 Adds the specified path to the path represented by the current object.

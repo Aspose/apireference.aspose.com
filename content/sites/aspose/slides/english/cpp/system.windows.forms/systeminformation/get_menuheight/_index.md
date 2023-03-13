@@ -1,12 +1,12 @@
 ---
-title: get_MenuHeight
+title: get_MenuHeight()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 716
 url: /cpp/system.windows.forms/systeminformation/get_menuheight/
 ---
-## SystemInformation::get_MenuHeight method
+## SystemInformation::get_MenuHeight() method
 
 
 NOT IMPLEMENTED.

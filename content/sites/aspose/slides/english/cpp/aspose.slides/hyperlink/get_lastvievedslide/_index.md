@@ -1,12 +1,12 @@
 ---
-title: get_LastVievedSlide
+title: get_LastVievedSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hyperlink to the last viewed slide. Read-only Hyperlink.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/hyperlink/get_lastvievedslide/
 ---
-## Hyperlink::get_LastVievedSlide method
+## Hyperlink::get_LastVievedSlide() method
 
 
 Returns a hyperlink to the last viewed slide. Read-only [Hyperlink](../).

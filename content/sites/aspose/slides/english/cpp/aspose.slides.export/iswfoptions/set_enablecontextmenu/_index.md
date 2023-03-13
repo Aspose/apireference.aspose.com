@@ -1,12 +1,12 @@
 ---
-title: set_EnableContextMenu
+title: set_EnableContextMenu()
 second_title: Aspose.Slides for C++ API Reference
 description: Enable/disable context menu. Default is true.
 type: docs
 weight: 300
 url: /cpp/aspose.slides.export/iswfoptions/set_enablecontextmenu/
 ---
-## ISwfOptions::set_EnableContextMenu method
+## ISwfOptions::set_EnableContextMenu(**bool**) method
 
 
 Enable/disable context menu. Default is true.

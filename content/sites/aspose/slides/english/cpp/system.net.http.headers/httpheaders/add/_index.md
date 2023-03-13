@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Validates a new name-values pair and adds it to the current collection.
 type: docs

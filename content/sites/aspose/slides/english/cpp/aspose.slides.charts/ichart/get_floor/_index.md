@@ -1,12 +1,12 @@
 ---
-title: get_Floor
+title: get_Floor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an object which allows to change format of the floor of a 3D chart. Read-only IChartWall.
 type: docs
 weight: 287
 url: /cpp/aspose.slides.charts/ichart/get_floor/
 ---
-## IChart::get_Floor method
+## IChart::get_Floor() method
 
 
 Returns an object which allows to change format of the floor of a 3D chart. Read-only [IChartWall](../../ichartwall/).

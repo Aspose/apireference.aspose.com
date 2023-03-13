@@ -1,12 +1,12 @@
 ---
-title: GetElementById
+title: GetElementById()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlElement with the specified ID.
 type: docs
 weight: 456
 url: /cpp/system.xml/xmldocument/getelementbyid/
 ---
-## XmlDocument::GetElementById method
+## XmlDocument::GetElementById([String](../../../system/string/)) method
 
 
 Returns the [XmlElement](../../xmlelement/) with the specified ID.

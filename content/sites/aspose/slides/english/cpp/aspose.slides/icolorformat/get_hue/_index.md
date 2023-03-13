@@ -1,12 +1,12 @@
 ---
-title: get_Hue
+title: get_Hue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the hue component of a color in HSL representation. All color transformations are ignored. Read float.
 type: docs
 weight: 287
 url: /cpp/aspose.slides/icolorformat/get_hue/
 ---
-## IColorFormat::get_Hue method
+## IColorFormat::get_Hue() method
 
 
 Returns the hue component of a color in HSL representation. All color transformations are ignored. Read **float**.

@@ -1,12 +1,12 @@
 ---
-title: get_BurlyWood
+title: get_BurlyWood()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFDEB887.
 type: docs
 weight: 170
 url: /cpp/system.drawing/pens/get_burlywood/
 ---
-## Pens::get_BurlyWood method
+## Pens::get_BurlyWood() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFDEB887.

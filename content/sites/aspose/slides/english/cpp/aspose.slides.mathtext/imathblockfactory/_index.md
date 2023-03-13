@@ -1,7 +1,7 @@
 ---
 title: IMathBlockFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a math block.
+description: Allows to create a math block
 type: docs
 weight: 131
 url: /cpp/aspose.slides.mathtext/imathblockfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathblockfactory/
 ## IMathBlockFactory class
 
 
-Allows to create a math block.
+Allows to create a math block
 
 ```cpp
 class IMathBlockFactory : public System::Object
@@ -19,9 +19,9 @@ class IMathBlockFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathBlock](../imathblock/)\> [CreateMathBlock](./createmathblock/)() | Create a math block. |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathBlock](../imathblock/)\> [CreateMathBlock](./createmathblock/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Create a math block and place the element in it. |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathBlock](../imathblock/)\> [CreateMathBlock](./createmathblock/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElementCollection](../imathelementcollection/)\>) | Create a math block and place elements in it. |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathBlock](../imathblock/)\> [CreateMathBlock](./createmathblock/)() | Create a math block |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathBlock](../imathblock/)\> [CreateMathBlock](./createmathblock/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Create a math block and place the element in it |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathBlock](../imathblock/)\> [CreateMathBlock](./createmathblock/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElementCollection](../imathelementcollection/)\>) | Create a math block and place elements in it |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

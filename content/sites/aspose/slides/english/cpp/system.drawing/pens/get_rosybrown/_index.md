@@ -1,12 +1,12 @@
 ---
-title: get_RosyBrown
+title: get_RosyBrown()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFBC8F8F.
 type: docs
 weight: 1496
 url: /cpp/system.drawing/pens/get_rosybrown/
 ---
-## Pens::get_RosyBrown method
+## Pens::get_RosyBrown() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFBC8F8F.

@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if smart pointer is null.
 type: docs
 weight: 14
 url: /cpp/system/dynamicweakptr/operator_equal_equal/
 ---
-## DynamicWeakPtr::operator== method
+## DynamicWeakPtr::operator==(std::nullptr_t) const method
 
 
 Checks if smart pointer is null.

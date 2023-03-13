@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the UDP connection.
 type: docs
 weight: 40
 url: /cpp/system.net.sockets/udpclient/close/
 ---
-## UdpClient::Close method
+## UdpClient::Close() method
 
 
 Closes the UDP connection.

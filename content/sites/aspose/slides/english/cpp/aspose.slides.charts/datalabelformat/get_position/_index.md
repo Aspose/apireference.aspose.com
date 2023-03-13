@@ -1,12 +1,12 @@
 ---
-title: get_Position
+title: get_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the position of the data label. Read LegendDataLabelPosition.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/datalabelformat/get_position/
 ---
-## DataLabelFormat::get_Position method
+## DataLabelFormat::get_Position() method
 
 
 Represents the position of the data label. Read [LegendDataLabelPosition](../../legenddatalabelposition/).

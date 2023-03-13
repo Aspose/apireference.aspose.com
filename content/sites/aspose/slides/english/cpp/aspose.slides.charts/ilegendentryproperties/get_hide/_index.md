@@ -1,12 +1,12 @@
 ---
-title: get_Hide
+title: get_Hide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the hide flag of legend entry. Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ilegendentryproperties/get_hide/
 ---
-## ILegendEntryProperties::get_Hide method
+## ILegendEntryProperties::get_Hide() method
 
 
 Returns the hide flag of legend entry. Read **bool**.

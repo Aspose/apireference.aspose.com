@@ -1,12 +1,12 @@
 ---
-title: get_IfNoneMatch
+title: get_IfNoneMatch()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'If-None-Match' header.
 type: docs
 weight: 209
 url: /cpp/system.net.http.headers/httprequestheaders/get_ifnonematch/
 ---
-## HttpRequestHeaders::get_IfNoneMatch method
+## HttpRequestHeaders::get_IfNoneMatch() method
 
 
 Returns a value of the 'If-None-Match' header.

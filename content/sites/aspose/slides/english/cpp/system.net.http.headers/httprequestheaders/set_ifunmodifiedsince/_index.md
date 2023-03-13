@@ -1,12 +1,12 @@
 ---
-title: set_IfUnmodifiedSince
+title: set_IfUnmodifiedSince()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'If-Unmodified-Since' header.
 type: docs
 weight: 261
 url: /cpp/system.net.http.headers/httprequestheaders/set_ifunmodifiedsince/
 ---
-## HttpRequestHeaders::set_IfUnmodifiedSince method
+## HttpRequestHeaders::set_IfUnmodifiedSince([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
 
 
 Sets a value of the 'If-Unmodified-Since' header.

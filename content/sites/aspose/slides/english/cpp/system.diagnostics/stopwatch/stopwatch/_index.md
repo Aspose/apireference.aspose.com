@@ -1,12 +1,12 @@
 ---
-title: Stopwatch
+title: Stopwatch()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.diagnostics/stopwatch/stopwatch/
 ---
-## Stopwatch::Stopwatch constructor
+## Stopwatch::Stopwatch() constructor
 
 
 RTTI information.

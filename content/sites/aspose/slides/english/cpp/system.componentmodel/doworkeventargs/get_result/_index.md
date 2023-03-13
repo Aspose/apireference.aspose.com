@@ -1,12 +1,12 @@
 ---
-title: get_Result
+title: get_Result()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets Result property; not implemented.
 type: docs
 weight: 27
 url: /cpp/system.componentmodel/doworkeventargs/get_result/
 ---
-## DoWorkEventArgs::get_Result method
+## DoWorkEventArgs::get_Result() method
 
 
 Gets Result property; not implemented.

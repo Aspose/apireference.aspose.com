@@ -1,12 +1,12 @@
 ---
-title: BigMul
+title: BigMul()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the full product of two 32-bit integers.
 type: docs
 weight: 287
 url: /cpp/system/math/bigmul/
 ---
-## Math::BigMul method
+## Math::BigMul(int, int) method
 
 
 Returns the full product of two 32-bit integers.

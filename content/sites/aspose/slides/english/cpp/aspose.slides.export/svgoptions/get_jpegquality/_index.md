@@ -1,12 +1,12 @@
 ---
-title: get_JpegQuality
+title: get_JpegQuality()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines JPEG encoding quality. Read int32_t.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.export/svgoptions/get_jpegquality/
 ---
-## SVGOptions::get_JpegQuality method
+## SVGOptions::get_JpegQuality() method
 
 
 Determines JPEG encoding quality. Read **int32_t**.

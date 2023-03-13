@@ -1,12 +1,12 @@
 ---
-title: set_Text
+title: set_Text()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets tag inner text.
 type: docs
 weight: 105
 url: /cpp/system.security/securityelement/set_text/
 ---
-## SecurityElement::set_Text method
+## SecurityElement::set_Text(const [String](../../../system/string/)\&) method
 
 
 Sets tag inner text.

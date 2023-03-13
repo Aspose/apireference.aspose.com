@@ -1,12 +1,12 @@
 ---
-title: Seek
+title: Seek()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the position of the stream represented by the current object.
 type: docs
 weight: 183
 url: /cpp/system.net.sockets/networkstream/seek/
 ---
-## NetworkStream::Seek method
+## NetworkStream::Seek(**int64_t**, [IO::SeekOrigin](../../../system.io/seekorigin/)) method
 
 
 Sets the position of the stream represented by the current object.

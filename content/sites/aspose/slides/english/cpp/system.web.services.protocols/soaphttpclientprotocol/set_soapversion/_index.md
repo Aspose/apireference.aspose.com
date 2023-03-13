@@ -1,12 +1,12 @@
 ---
-title: set_SoapVersion
+title: set_SoapVersion()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the SOAP version.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soaphttpclientprotocol/set_soapversion/
 ---
-## SoapHttpClientProtocol::set_SoapVersion method
+## SoapHttpClientProtocol::set_SoapVersion([SoapProtocolVersion](../../soapprotocolversion/)) method
 
 
 Sets the SOAP version.

@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the URIs represented by the current and specified objects are equal.
 type: docs
 weight: 339
 url: /cpp/system/uri/equals/
 ---
-## Uri::Equals method
+## Uri::Equals([SharedPtr](../../sharedptr/)\<[Object](../../object/)\>) method
 
 
 Determines if the URIs represented by the current and specified objects are equal.

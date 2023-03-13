@@ -1,12 +1,12 @@
 ---
-title: get_Indent
+title: get_Indent()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether to indent elements.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlwritersettings/get_indent/
 ---
-## XmlWriterSettings::get_Indent method
+## XmlWriterSettings::get_Indent() method
 
 
 Returns a value indicating whether to indent elements.

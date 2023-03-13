@@ -1,12 +1,12 @@
 ---
-title: set_IsLogarithmic
+title: set_IsLogarithmic()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents if the value axis scale type is logarithmic or not. Write bool.
 type: docs
 weight: 417
 url: /cpp/aspose.slides.charts/axis/set_islogarithmic/
 ---
-## Axis::set_IsLogarithmic method
+## Axis::set_IsLogarithmic(**bool**) method
 
 
 Represents if the value axis scale type is logarithmic or not. Write **bool**.

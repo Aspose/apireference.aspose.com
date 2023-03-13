@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified Blur is equal to the current Blur.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.effects/blur/equals/
 ---
-## Blur::Equals method
+## Blur::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [Blur](../) is equal to the current [Blur](../).

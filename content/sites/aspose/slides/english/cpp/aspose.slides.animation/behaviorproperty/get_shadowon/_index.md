@@ -1,15 +1,15 @@
 ---
-title: get_ShadowOn
+title: get_ShadowOn()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'shadow.on' property.
+description: Represents 'shadow.on' property
 type: docs
 weight: 924
 url: /cpp/aspose.slides.animation/behaviorproperty/get_shadowon/
 ---
-## BehaviorProperty::get_ShadowOn method
+## BehaviorProperty::get_ShadowOn() method
 
 
-Represents 'shadow.on' property.
+Represents 'shadow.on' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ShadowOn()

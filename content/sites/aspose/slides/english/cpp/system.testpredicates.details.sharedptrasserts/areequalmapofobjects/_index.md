@@ -1,12 +1,12 @@
 ---
-title: AreEqualMapOfObjects
+title: AreEqualMapOfObjects()
 second_title: Aspose.Slides for C++ API Reference
 description: "Equal-compares two maps using System::Object::Equals on elements."
 type: docs
 weight: 27
 url: /cpp/system.testpredicates.details.sharedptrasserts/areequalmapofobjects/
 ---
-## System::TestPredicates::Details::SharedPtrAsserts::AreEqualMapOfObjects function
+## System::TestPredicates::Details::SharedPtrAsserts::AreEqualMapOfObjects(const T\&, const T\&) function
 
 
 Equal-compares two maps using [System::Object::Equals](../../system/object/equals/) on elements.

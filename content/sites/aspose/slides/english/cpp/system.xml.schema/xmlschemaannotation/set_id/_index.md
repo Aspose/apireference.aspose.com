@@ -1,12 +1,12 @@
 ---
-title: set_Id
+title: set_Id()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the string id.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaannotation/set_id/
 ---
-## XmlSchemaAnnotation::set_Id method
+## XmlSchemaAnnotation::set_Id(const [String](../../../system/string/)\&) method
 
 
 Sets the string id.

@@ -1,12 +1,12 @@
 ---
-title: EndGetRequestStream
+title: EndGetRequestStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits until the specified asynchronous operation to get a stream completes.
 type: docs
 weight: 482
 url: /cpp/system.net/httpwebrequest/endgetrequeststream/
 ---
-## HttpWebRequest::EndGetRequestStream method
+## HttpWebRequest::EndGetRequestStream([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
 
 
 Waits until the specified asynchronous operation to get a stream completes.

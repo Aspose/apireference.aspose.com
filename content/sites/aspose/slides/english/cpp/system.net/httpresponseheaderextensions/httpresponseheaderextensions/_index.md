@@ -1,12 +1,12 @@
 ---
-title: HttpResponseHeaderExtensions
+title: HttpResponseHeaderExtensions()
 second_title: Aspose.Slides for C++ API Reference
 description: The deleted default constructor.
 type: docs
 weight: 14
 url: /cpp/system.net/httpresponseheaderextensions/httpresponseheaderextensions/
 ---
-## HttpResponseHeaderExtensions::HttpResponseHeaderExtensions constructor
+## HttpResponseHeaderExtensions::HttpResponseHeaderExtensions() constructor
 
 
 The deleted default constructor.

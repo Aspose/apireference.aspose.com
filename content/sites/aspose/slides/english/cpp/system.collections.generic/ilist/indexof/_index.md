@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets index of first appearance of item in container.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/ilist/indexof/
 ---
-## IList::IndexOf method
+## IList::IndexOf(const T\&) const method
 
 
 Gets index of first appearance of item in container.

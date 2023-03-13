@@ -1,5 +1,5 @@
 ---
-title: MathFunction
+title: MathFunction()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathFunction class.
 type: docs

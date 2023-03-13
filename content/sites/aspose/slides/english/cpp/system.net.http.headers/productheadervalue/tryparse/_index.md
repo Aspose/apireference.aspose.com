@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the ProductHeaderValue class.
 type: docs
 weight: 92
 url: /cpp/system.net.http.headers/productheadervalue/tryparse/
 ---
-## ProductHeaderValue::TryParse method
+## ProductHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ProductHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [ProductHeaderValue](../) class.

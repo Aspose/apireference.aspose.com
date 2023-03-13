@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsDouble
+title: get_ValueAsDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the validated XML element or attribute's value as a Double.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlatomicvalue/get_valueasdouble/
 ---
-## XmlAtomicValue::get_ValueAsDouble method
+## XmlAtomicValue::get_ValueAsDouble() method
 
 
 Returns the validated XML element or attribute's value as a [Double](../../../system/double/).

@@ -1,5 +1,5 @@
 ---
-title: operator<
+title: operator<()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current object represents the date and time value that is earlier than the value represented by the specified DateTimeOffset object.
 type: docs

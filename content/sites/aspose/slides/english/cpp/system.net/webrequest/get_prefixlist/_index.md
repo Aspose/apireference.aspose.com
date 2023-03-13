@@ -1,12 +1,12 @@
 ---
-title: get_PrefixList
+title: get_PrefixList()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the prefix list.
 type: docs
 weight: 1
 url: /cpp/system.net/webrequest/get_prefixlist/
 ---
-## WebRequest::get_PrefixList method
+## WebRequest::get_PrefixList() method
 
 
 Gets the prefix list.

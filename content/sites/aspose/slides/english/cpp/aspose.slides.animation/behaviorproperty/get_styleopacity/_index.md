@@ -1,15 +1,15 @@
 ---
-title: get_StyleOpacity
+title: get_StyleOpacity()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'style.opacity' property.
+description: Represents 'style.opacity' property
 type: docs
 weight: 222
 url: /cpp/aspose.slides.animation/behaviorproperty/get_styleopacity/
 ---
-## BehaviorProperty::get_StyleOpacity method
+## BehaviorProperty::get_StyleOpacity() method
 
 
-Represents 'style.opacity' property.
+Represents 'style.opacity' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StyleOpacity()

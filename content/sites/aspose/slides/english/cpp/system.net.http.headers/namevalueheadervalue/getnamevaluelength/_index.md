@@ -1,5 +1,5 @@
 ---
-title: GetNameValueLength
+title: GetNameValueLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified index to an instance of the NameValueHeaderValue class.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_RightToLeft
+title: get_RightToLeft()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the Right to Left writing is used in a paragraph. Read NullableBool.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/ichartparagraphformat/get_righttoleft/
 ---
-## IChartParagraphFormat::get_RightToLeft method
+## IChartParagraphFormat::get_RightToLeft() method
 
 
 Determines whether the Right to Left writing is used in a paragraph. Read [NullableBool](../../../aspose.slides/nullablebool/).

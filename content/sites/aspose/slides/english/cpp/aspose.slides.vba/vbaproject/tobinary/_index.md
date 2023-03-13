@@ -1,15 +1,15 @@
 ---
-title: ToBinary
+title: ToBinary()
 second_title: Aspose.Slides for C++ API Reference
-description: Returns the binary representation of the VBA project as OLE container.
+description: Returns the binary representation of the VBA project as OLE container
 type: docs
 weight: 53
 url: /cpp/aspose.slides.vba/vbaproject/tobinary/
 ---
-## VbaProject::ToBinary method
+## VbaProject::ToBinary() method
 
 
-Returns the binary representation of the VBA project as OLE container.
+Returns the binary representation of the VBA project as OLE container
 
 ```cpp
 System::ArrayPtr<uint8_t> Aspose::Slides::Vba::VbaProject::ToBinary() override

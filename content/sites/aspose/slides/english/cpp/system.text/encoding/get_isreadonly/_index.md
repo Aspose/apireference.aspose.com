@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether encoding is read-only.
 type: docs
 weight: 170
 url: /cpp/system.text/encoding/get_isreadonly/
 ---
-## Encoding::get_IsReadOnly method
+## Encoding::get_IsReadOnly() method
 
 
 Checks whether encoding is read-only.

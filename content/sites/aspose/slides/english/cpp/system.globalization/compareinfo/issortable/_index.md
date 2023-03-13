@@ -1,5 +1,5 @@
 ---
-title: IsSortable
+title: IsSortable()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether a specified character is sortable.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_CanRead
+title: get_CanRead()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if stream is readable.
 type: docs
 weight: 144
 url: /cpp/system.security.cryptography/cryptostream/get_canread/
 ---
-## CryptoStream::get_CanRead method
+## CryptoStream::get_CanRead() const method
 
 
 Checks if stream is readable.

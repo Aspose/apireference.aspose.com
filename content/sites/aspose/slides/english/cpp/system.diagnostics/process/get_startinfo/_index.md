@@ -1,12 +1,12 @@
 ---
-title: get_StartInfo
+title: get_StartInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets process start information.
 type: docs
 weight: 92
 url: /cpp/system.diagnostics/process/get_startinfo/
 ---
-## Process::get_StartInfo method
+## Process::get_StartInfo() const method
 
 
 Gets process start information.

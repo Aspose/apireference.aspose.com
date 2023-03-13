@@ -1,5 +1,5 @@
 ---
-title: QueueUserWorkItem
+title: QueueUserWorkItem()
 second_title: Aspose.Slides for C++ API Reference
 description: Puts work item into queue which is present with callback with no parameter.
 type: docs

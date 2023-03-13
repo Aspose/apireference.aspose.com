@@ -1,12 +1,12 @@
 ---
-title: RotateFlip
+title: RotateFlip()
 second_title: Aspose.Slides for C++ API Reference
 description: Rotates image to multiple of 90 degrees and flips.
 type: docs
 weight: 196
 url: /cpp/system.drawing/bitmap/rotateflip/
 ---
-## Bitmap::RotateFlip method
+## Bitmap::RotateFlip([RotateFlipType](../../rotatefliptype/)) method
 
 
 Rotates image to multiple of 90 degrees and flips.

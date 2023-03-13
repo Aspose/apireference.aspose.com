@@ -15,6 +15,12 @@ Interface of object providing enumerator on contained elements.
 template<typename T>class IEnumerable : public virtual System::Object
 ```
 
+
+### Template parameters
+
+| Parameter | Description |
+| --- | --- |
+| T | Element type. |
 ## Methods
 
 | Method | Description |
@@ -104,6 +110,7 @@ template<typename T>class IEnumerable : public virtual System::Object
 | [const_iterator](./const_iterator/) | Const iterator type. |
 | [virtualized_iterator](./virtualized_iterator/) | Inner iterator base type. |
 | [virtualized_iterator_element](./virtualized_iterator_element/) | Inner iterator element type. |
+
 ## See Also
 
 * Class [Object](../../system/object/)

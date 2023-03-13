@@ -1,12 +1,12 @@
 ---
-title: Append
+title: Append()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts the specified attribute as the last node in the collection.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlattributecollection/append/
 ---
-## XmlAttributeCollection::Append method
+## XmlAttributeCollection::Append(const [SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../xmlattribute/)\>\&) method
 
 
 Inserts the specified attribute as the last node in the collection.

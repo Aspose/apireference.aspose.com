@@ -1,12 +1,12 @@
 ---
-title: get_PropagatedNamespaces
+title: get_PropagatedNamespaces()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography.xml/transform/get_propagatednamespaces/
 ---
-## Transform::get_PropagatedNamespaces method
+## Transform::get_PropagatedNamespaces() method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: CreateAlphaInverse
+title: CreateAlphaInverse()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Alpha inverse effect.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/createalphainverse/
 ---
-## IImageTransformOperationFactory::CreateAlphaInverse method
+## IImageTransformOperationFactory::CreateAlphaInverse() method
 
 
 Creates Alpha inverse effect.

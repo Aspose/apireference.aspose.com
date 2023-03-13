@@ -1,12 +1,12 @@
 ---
-title: get_CurrentEraValue
+title: get_CurrentEraValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value of current era.
 type: docs
 weight: 469
 url: /cpp/system.globalization/calendar/get_currenteravalue/
 ---
-## Calendar::get_CurrentEraValue method
+## Calendar::get_CurrentEraValue() const method
 
 
 Gets value of current era.

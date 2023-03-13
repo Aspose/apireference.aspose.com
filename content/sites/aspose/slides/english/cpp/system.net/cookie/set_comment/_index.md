@@ -1,12 +1,12 @@
 ---
-title: set_Comment
+title: set_Comment()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'Comment' attribute's value.
 type: docs
 weight: 14
 url: /cpp/system.net/cookie/set_comment/
 ---
-## Cookie::set_Comment method
+## Cookie::set_Comment([String](../../../system/string/)) method
 
 
 Sets the 'Comment' attribute's value.

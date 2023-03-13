@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Setter function.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/idictionary/idx_set/
 ---
-## IDictionary::idx_set method
+## IDictionary::idx_set(const TKey\&, TValue) method
 
 
 Setter function.

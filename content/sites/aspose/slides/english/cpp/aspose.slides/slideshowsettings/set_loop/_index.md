@@ -1,15 +1,15 @@
 ---
-title: set_Loop
+title: set_Loop()
 second_title: Aspose.Slides for C++ API Reference
-description: Loop Slide Show.
+description: Loop Slide Show
 type: docs
 weight: 40
 url: /cpp/aspose.slides/slideshowsettings/set_loop/
 ---
-## SlideShowSettings::set_Loop method
+## SlideShowSettings::set_Loop(**bool**) method
 
 
-Loop [Slide](../../slide/) Show.
+Loop [Slide](../../slide/) Show
 
 ```cpp
 void Aspose::Slides::SlideShowSettings::set_Loop(bool value)

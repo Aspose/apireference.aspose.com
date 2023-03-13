@@ -1,7 +1,7 @@
 ---
-title: CreateMathematicalText
+title: CreateMathematicalText()
 second_title: Aspose.Slides for C++ API Reference
-description: Create empty mathematical text element.
+description: Create empty mathematical text element
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathematicaltextfactory/createmathematicaltext/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathematicaltextfactory/createmathematicaltext
 ## IMathematicalTextFactory::CreateMathematicalText() method
 
 
-Create empty mathematical text element.
+Create empty mathematical text element
 
 ```cpp
 virtual System::SharedPtr<IMathematicalText> Aspose::Slides::MathText::IMathematicalTextFactory::CreateMathematicalText()=0
@@ -30,7 +30,7 @@ new Mathematical Text
 ## IMathematicalTextFactory::CreateMathematicalText(char16_t) method
 
 
-Create mathematical text element with the specified value.
+Create mathematical text element with the specified value
 
 ```cpp
 virtual System::SharedPtr<IMathematicalText> Aspose::Slides::MathText::IMathematicalTextFactory::CreateMathematicalText(char16_t mathSymbol)=0
@@ -57,7 +57,7 @@ new Mathematical Text
 ## IMathematicalTextFactory::CreateMathematicalText([System::String](../../../system/string/)) method
 
 
-Create empty mathematical text element with the specified value.
+Create empty mathematical text element with the specified value
 
 ```cpp
 virtual System::SharedPtr<IMathematicalText> Aspose::Slides::MathText::IMathematicalTextFactory::CreateMathematicalText(System::String mathText)=0
@@ -85,7 +85,7 @@ new Mathematical Text
 ## IMathematicalTextFactory::CreateMathematicalText([System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[IPortionFormat](../../../aspose.slides/iportionformat/)\>) method
 
 
-Create empty mathematical text element with the specified value and formatting properties.
+Create empty mathematical text element with the specified value and formatting properties
 
 ```cpp
 virtual System::SharedPtr<IMathematicalText> Aspose::Slides::MathText::IMathematicalTextFactory::CreateMathematicalText(System::String mathText, System::SharedPtr<IPortionFormat> portionFormat)=0

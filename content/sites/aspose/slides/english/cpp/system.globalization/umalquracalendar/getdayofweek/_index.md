@@ -1,12 +1,12 @@
 ---
-title: GetDayOfWeek
+title: GetDayOfWeek()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets day of week for the specified time point.
 type: docs
 weight: 66
 url: /cpp/system.globalization/umalquracalendar/getdayofweek/
 ---
-## UmAlQuraCalendar::GetDayOfWeek method
+## UmAlQuraCalendar::GetDayOfWeek([DateTime](../../../system/datetime/)) const method
 
 
 Gets day of week for the specified time point.

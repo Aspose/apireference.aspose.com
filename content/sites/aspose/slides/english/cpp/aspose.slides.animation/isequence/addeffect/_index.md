@@ -1,5 +1,5 @@
 ---
-title: AddEffect
+title: AddEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Add new effect to the end of sequence.
 type: docs

@@ -1,15 +1,15 @@
 ---
-title: set_ReturnToParent
+title: set_ReturnToParent()
 second_title: Aspose.Slides for C++ API Reference
-description: "Sets the navigation behavior in slideshow. Write bool. Default value: false."
+description: "Sets the navigation behavior in slideshow. Write bool. Default value: false"
 type: docs
 weight: 40
 url: /cpp/aspose.slides/izoomobject/set_returntoparent/
 ---
-## IZoomObject::set_ReturnToParent method
+## IZoomObject::set_ReturnToParent(**bool**) method
 
 
-Sets the navigation behavior in slideshow. Write **bool**. Default value: false.
+Sets the navigation behavior in slideshow. Write **bool**. Default value: false
 
 ```cpp
 virtual void Aspose::Slides::IZoomObject::set_ReturnToParent(bool value)=0

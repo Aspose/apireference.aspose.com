@@ -1,12 +1,12 @@
 ---
-title: Decrypt
+title: Decrypt()
 second_title: Aspose.Slides for C++ API Reference
 description: Decrypts input data using the specified padding mode.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/rsa/decrypt/
 ---
-## RSA::Decrypt method
+## RSA::Decrypt([ByteArrayPtr](../../../system/bytearrayptr/), [SharedPtr](../../../system/sharedptr/)\<[RSAEncryptionPadding](../../rsaencryptionpadding/)\>) method
 
 
 Decrypts input data using the specified padding mode.

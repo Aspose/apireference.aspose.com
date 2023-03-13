@@ -1,12 +1,12 @@
 ---
-title: WriteProcessingInstruction
+title: WriteProcessingInstruction()
 second_title: Aspose.Slides for C++ API Reference
 description: "Writes out a processing instruction with a space between the name and text as follows: <?name text?>."
 type: docs
 weight: 326
 url: /cpp/system.xml/xmltextwriter/writeprocessinginstruction/
 ---
-## XmlTextWriter::WriteProcessingInstruction method
+## XmlTextWriter::WriteProcessingInstruction([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Writes out a processing instruction with a space between the name and text as follows: **<?name text?>**.

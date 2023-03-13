@@ -1,5 +1,5 @@
 ---
-title: IndexOfAny
+title: IndexOfAny()
 second_title: Aspose.Slides for C++ API Reference
 description: Character forward lookup.
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified string to DateTimeOffset equivalent.
 type: docs

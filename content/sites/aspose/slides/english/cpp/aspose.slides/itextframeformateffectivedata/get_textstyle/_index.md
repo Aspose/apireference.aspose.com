@@ -1,12 +1,12 @@
 ---
-title: get_TextStyle
+title: get_TextStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns effective text's style. Read-only ITextStyleEffectiveData.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/itextframeformateffectivedata/get_textstyle/
 ---
-## ITextFrameFormatEffectiveData::get_TextStyle method
+## ITextFrameFormatEffectiveData::get_TextStyle() method
 
 
 Returns effective text's style. Read-only [ITextStyleEffectiveData](../../itextstyleeffectivedata/).

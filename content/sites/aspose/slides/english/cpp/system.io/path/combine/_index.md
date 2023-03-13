@@ -1,5 +1,5 @@
 ---
-title: Combine
+title: Combine()
 second_title: Aspose.Slides for C++ API Reference
 description: Combines the specified path segments into a single path inserting directory separator characters between the segments if necessary.
 type: docs

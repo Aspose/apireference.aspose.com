@@ -1,12 +1,12 @@
 ---
-title: set_Text
+title: set_Text()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the plain text of a portion. Write System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/portion/set_text/
 ---
-## Portion::set_Text method
+## Portion::set_Text([System::String](../../../system/string/)) method
 
 
 Sets the plain text of a portion. Write [System::String](../../../system/string/).

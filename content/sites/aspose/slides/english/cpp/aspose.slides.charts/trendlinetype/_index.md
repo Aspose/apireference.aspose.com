@@ -1,7 +1,7 @@
 ---
 title: TrendlineType
 second_title: Aspose.Slides for C++ API Reference
-description: Represents type of trend line.
+description: Represents type of trend line
 type: docs
 weight: 1743
 url: /cpp/aspose.slides.charts/trendlinetype/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/trendlinetype/
 ## TrendlineType enum
 
 
-Represents type of trend line.
+Represents type of trend line
 
 ```cpp
 enum class TrendlineType

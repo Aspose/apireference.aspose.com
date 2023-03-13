@@ -1,5 +1,5 @@
 ---
-title: Sign
+title: Sign()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the sign of the specified signed integral value.
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: end
+title: end()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator for a non-existent element behind the end of the collection.
 type: docs
@@ -22,7 +22,7 @@ An iterator pointing to the theoretical element placed after the end element in 
 
 ## See Also
 
-* Typedef [iterator](../iterator/)
+* Typedef [iterator](../../ienumerable/iterator/)
 * Class [List](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Slides](../../../)
@@ -42,7 +42,7 @@ An iterator pointing to the theoretical element placed after the end element in 
 
 ## See Also
 
-* Typedef [const_iterator](../const_iterator/)
+* Typedef [const_iterator](../../ienumerable/const_iterator/)
 * Class [List](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Slides](../../../)

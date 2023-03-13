@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an object that represents a value of enumeration constant of the specified enumeration type with the specified name.
 type: docs
 weight: 14
 url: /cpp/system/enumvaluesbase/parse/
 ---
-## EnumValuesBase::Parse method
+## EnumValuesBase::Parse(const [TypeInfo](../../typeinfo/)\&, const [String](../../string/)\&, **bool**) method
 
 
 Returns an object that represents a value of enumeration constant of the specified enumeration type with the specified name.

@@ -1,12 +1,12 @@
 ---
-title: CreateFromXmlString
+title: CreateFromXmlString()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates default RSA algorithm implementation with specifed XML-encoded parameters.
 type: docs
 weight: 196
 url: /cpp/system.security.cryptography/rsa/createfromxmlstring/
 ---
-## RSA::CreateFromXmlString method
+## RSA::CreateFromXmlString(const [String](../../../system/string/)\&) method
 
 
 Creates default [RSA](../) algorithm implementation with specifed XML-encoded parameters.

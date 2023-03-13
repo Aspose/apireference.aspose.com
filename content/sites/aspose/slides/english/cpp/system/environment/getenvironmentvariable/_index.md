@@ -1,5 +1,5 @@
 ---
-title: GetEnvironmentVariable
+title: GetEnvironmentVariable()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the specified environment varibale associated with the current process.
 type: docs

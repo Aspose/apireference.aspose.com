@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if two strings are equal using current settings.
 type: docs
 weight: 105
 url: /cpp/system/stringcomparer/equals/
 ---
-## StringComparer::Equals method
+## StringComparer::Equals([String](../../string/), [String](../../string/)) const method
 
 
 Checks if two strings are equal using current settings.

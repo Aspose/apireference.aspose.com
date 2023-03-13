@@ -1,15 +1,15 @@
 ---
-title: set_RowSpacingRule
+title: set_RowSpacingRule()
 second_title: Aspose.Slides for C++ API Reference
-description: The type of vertical spacing between array elements.
+description: The type of vertical spacing between array elements
 type: docs
 weight: 105
 url: /cpp/aspose.slides.mathtext/imatharray/set_rowspacingrule/
 ---
-## IMathArray::set_RowSpacingRule method
+## IMathArray::set_RowSpacingRule([MathRowSpacingRule](../../mathrowspacingrule/)) method
 
 
-The type of vertical spacing between array elements.
+The type of vertical spacing between array elements
 
 ```cpp
 virtual void Aspose::Slides::MathText::IMathArray::set_RowSpacingRule(MathRowSpacingRule value)=0

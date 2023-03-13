@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an enumerator that iterates through the collection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.vba/vbareferencecollection/getenumerator/
 ---
-## VbaReferenceCollection::GetEnumerator method
+## VbaReferenceCollection::GetEnumerator() method
 
 
 Returns an enumerator that iterates through the collection.

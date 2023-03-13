@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases all resources used by the current instance of the XmlReader class.
 type: docs
 weight: 976
 url: /cpp/system.xml/xmlreader/dispose/
 ---
-## XmlReader::Dispose method
+## XmlReader::Dispose() method
 
 
 Releases all resources used by the current instance of the [XmlReader](../) class.

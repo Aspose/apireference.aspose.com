@@ -1,12 +1,12 @@
 ---
-title: ToArray
+title: ToArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Converst list to array.
 type: docs
 weight: 534
 url: /cpp/system.collections.generic/list/toarray/
 ---
-## List::ToArray method
+## List::ToArray() const method
 
 
 Converst list to array.

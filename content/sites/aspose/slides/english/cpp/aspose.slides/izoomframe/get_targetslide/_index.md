@@ -1,12 +1,12 @@
 ---
-title: get_TargetSlide
+title: get_TargetSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the slide object that the Slide Zoom object links to. Read ISlide.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/izoomframe/get_targetslide/
 ---
-## IZoomFrame::get_TargetSlide method
+## IZoomFrame::get_TargetSlide() method
 
 
 Gets the slide object that the [Slide](../../slide/) Zoom object links to. Read [ISlide](../../islide/).

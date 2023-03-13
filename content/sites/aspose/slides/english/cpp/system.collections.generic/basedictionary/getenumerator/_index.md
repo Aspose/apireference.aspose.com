@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates enumerator instance, should be implemented by subclass.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/basedictionary/getenumerator/
 ---
-## BaseDictionary::GetEnumerator method
+## BaseDictionary::GetEnumerator() method
 
 
 Creates enumerator instance, should be implemented by subclass.

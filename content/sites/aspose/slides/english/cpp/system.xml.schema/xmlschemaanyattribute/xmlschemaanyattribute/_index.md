@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaAnyAttribute
+title: XmlSchemaAnyAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaAnyAttribute class.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaanyattribute/xmlschemaanyattribute/
 ---
-## XmlSchemaAnyAttribute::XmlSchemaAnyAttribute constructor
+## XmlSchemaAnyAttribute::XmlSchemaAnyAttribute() constructor
 
 
 Initializes a new instance of the [XmlSchemaAnyAttribute](../) class.

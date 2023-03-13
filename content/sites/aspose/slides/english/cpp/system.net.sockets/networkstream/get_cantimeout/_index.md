@@ -1,12 +1,12 @@
 ---
-title: get_CanTimeout
+title: get_CanTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that determines whether the current stream can time out.
 type: docs
 weight: 40
 url: /cpp/system.net.sockets/networkstream/get_cantimeout/
 ---
-## NetworkStream::get_CanTimeout method
+## NetworkStream::get_CanTimeout() const method
 
 
 Gets a value that determines whether the current stream can time out.

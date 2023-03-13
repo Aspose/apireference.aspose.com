@@ -1,12 +1,12 @@
 ---
-title: get_LineStyles
+title: get_LineStyles()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of theme defined line styles. Read-only ILineFormatCollection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.theme/iformatscheme/get_linestyles/
 ---
-## IFormatScheme::get_LineStyles method
+## IFormatScheme::get_LineStyles() method
 
 
 Returns a collection of theme defined line styles. Read-only [ILineFormatCollection](../../ilineformatcollection/).

@@ -1,12 +1,12 @@
 ---
-title: GetCellCollection
+title: GetCellCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the set of cells.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/chartdataworkbook/getcellcollection/
 ---
-## ChartDataWorkbook::GetCellCollection method
+## ChartDataWorkbook::GetCellCollection([System::String](../../../system/string/), **bool**) method
 
 
 Gets the set of cells.

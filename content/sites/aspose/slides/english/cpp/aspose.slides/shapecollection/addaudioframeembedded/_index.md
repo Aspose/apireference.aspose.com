@@ -1,5 +1,5 @@
 ---
-title: AddAudioFrameEmbedded
+title: AddAudioFrameEmbedded()
 second_title: Aspose.Slides for C++ API Reference
 description: "Adds a new audio frame with embedded audio file to the end of a collection. Embedded audio file can be a WAV only. It adds new audio into Presentation::get_Audios list."
 type: docs

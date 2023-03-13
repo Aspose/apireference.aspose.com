@@ -1,5 +1,5 @@
 ---
-title: Compile
+title: Compile()
 second_title: Aspose.Slides for C++ API Reference
 description: Compiles the XML SchemaObject Model (SOM) into schema information for validation. Used to check the syntactic and semantic structure of the programmatically built SOM. Semantic validation checking is performed during compilation.
 type: docs

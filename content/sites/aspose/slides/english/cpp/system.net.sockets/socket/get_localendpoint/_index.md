@@ -1,12 +1,12 @@
 ---
-title: get_LocalEndPoint
+title: get_LocalEndPoint()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the local endpoint.
 type: docs
 weight: 53
 url: /cpp/system.net.sockets/socket/get_localendpoint/
 ---
-## Socket::get_LocalEndPoint method
+## Socket::get_LocalEndPoint() method
 
 
 Returns the local endpoint.

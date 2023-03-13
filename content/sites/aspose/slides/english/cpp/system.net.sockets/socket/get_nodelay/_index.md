@@ -1,12 +1,12 @@
 ---
-title: get_NoDelay
+title: get_NoDelay()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the socket is using the Nagle algorithm.
 type: docs
 weight: 326
 url: /cpp/system.net.sockets/socket/get_nodelay/
 ---
-## Socket::get_NoDelay method
+## Socket::get_NoDelay() method
 
 
 Gets a value that indicates if the socket is using the Nagle algorithm.

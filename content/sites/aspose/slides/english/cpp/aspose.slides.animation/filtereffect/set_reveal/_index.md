@@ -1,12 +1,12 @@
 ---
-title: set_Reveal
+title: set_Reveal()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents that effect with behavior must reveal (in/out) Write FilterEffectRevealType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/filtereffect/set_reveal/
 ---
-## FilterEffect::set_Reveal method
+## FilterEffect::set_Reveal([FilterEffectRevealType](../../filtereffectrevealtype/)) method
 
 
 Represents that effect with behavior must reveal (in/out) Write [FilterEffectRevealType](../../filtereffectrevealtype/).

@@ -1,12 +1,12 @@
 ---
-title: get_Cancel
+title: get_Cancel()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value indicating whether the event should be cancelled.
 type: docs
 weight: 14
 url: /cpp/system.componentmodel/canceleventargs/get_cancel/
 ---
-## CancelEventArgs::get_Cancel method
+## CancelEventArgs::get_Cancel() method
 
 
 Gets value indicating whether the event should be cancelled.

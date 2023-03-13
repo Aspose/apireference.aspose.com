@@ -1,7 +1,7 @@
 ---
-title: CreateMathNaryOperator
+title: CreateMathNaryOperator()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates IMathNaryOperator.
+description: Creates IMathNaryOperator
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathnaryoperatorfactory/createmathnaryoperator/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathnaryoperatorfactory/createmathnaryoperator/
 ## MathNaryOperatorFactory::CreateMathNaryOperator(char16_t, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates [IMathNaryOperator](../../imathnaryoperator/).
+Creates [IMathNaryOperator](../../imathnaryoperator/)
 
 ```cpp
 System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::MathNaryOperatorFactory::CreateMathNaryOperator(char16_t operatorSymbol, System::SharedPtr<IMathElement> baseArgument, System::SharedPtr<IMathElement> lowerLimit, System::SharedPtr<IMathElement> upperLimit) override
@@ -40,7 +40,7 @@ new [IMathNaryOperator](../../imathnaryoperator/)
 ## MathNaryOperatorFactory::CreateMathNaryOperator(char16_t, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates [IMathNaryOperator](../../imathnaryoperator/).
+Creates [IMathNaryOperator](../../imathnaryoperator/)
 
 ```cpp
 System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::MathNaryOperatorFactory::CreateMathNaryOperator(char16_t operatorSymbol, System::SharedPtr<IMathElement> baseArgument, System::SharedPtr<IMathElement> lowerLimit) override
@@ -70,7 +70,7 @@ new [IMathNaryOperator](../../imathnaryoperator/)
 ## MathNaryOperatorFactory::CreateMathNaryOperator(char16_t, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates [IMathNaryOperator](../../imathnaryoperator/).
+Creates [IMathNaryOperator](../../imathnaryoperator/)
 
 ```cpp
 System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::MathNaryOperatorFactory::CreateMathNaryOperator(char16_t operatorSymbol, System::SharedPtr<IMathElement> baseArgument) override

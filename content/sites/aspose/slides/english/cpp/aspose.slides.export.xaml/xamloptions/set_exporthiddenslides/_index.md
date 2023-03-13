@@ -1,12 +1,12 @@
 ---
-title: set_ExportHiddenSlides
+title: set_ExportHiddenSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether hidden slides will be exported.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export.xaml/xamloptions/set_exporthiddenslides/
 ---
-## XamlOptions::set_ExportHiddenSlides method
+## XamlOptions::set_ExportHiddenSlides(**bool**) method
 
 
 Determines whether hidden slides will be exported.

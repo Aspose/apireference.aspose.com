@@ -1,5 +1,5 @@
 ---
-title: Start
+title: Start()
 second_title: Aspose.Slides for C++ API Reference
 description: Starts listening for the incoming connections.
 type: docs

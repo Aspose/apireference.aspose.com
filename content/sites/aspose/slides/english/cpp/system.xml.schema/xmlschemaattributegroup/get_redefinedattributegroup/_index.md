@@ -1,12 +1,12 @@
 ---
-title: get_RedefinedAttributeGroup
+title: get_RedefinedAttributeGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the redefined attribute group property from the XML Schema.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemaattributegroup/get_redefinedattributegroup/
 ---
-## XmlSchemaAttributeGroup::get_RedefinedAttributeGroup method
+## XmlSchemaAttributeGroup::get_RedefinedAttributeGroup() method
 
 
 Returns the redefined attribute group property from the XML [Schema](../../).

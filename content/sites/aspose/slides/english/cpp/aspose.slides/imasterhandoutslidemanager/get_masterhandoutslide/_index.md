@@ -1,12 +1,12 @@
 ---
-title: get_MasterHandoutSlide
+title: get_MasterHandoutSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a master for all notes slides of this presentation if there is one, otherwise returns null. Read-only IMasterHandoutSlide.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/imasterhandoutslidemanager/get_masterhandoutslide/
 ---
-## IMasterHandoutSlideManager::get_MasterHandoutSlide method
+## IMasterHandoutSlideManager::get_MasterHandoutSlide() method
 
 
 Returns a master for all notes slides of this presentation if there is one, otherwise returns null. Read-only [IMasterHandoutSlide](../../imasterhandoutslide/).

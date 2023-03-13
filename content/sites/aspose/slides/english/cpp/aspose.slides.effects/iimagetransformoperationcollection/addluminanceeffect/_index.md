@@ -1,12 +1,12 @@
 ---
-title: AddLuminanceEffect
+title: AddLuminanceEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Luminance effect to the end of a collection.
 type: docs
 weight: 222
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addluminanceeffect/
 ---
-## IImageTransformOperationCollection::AddLuminanceEffect method
+## IImageTransformOperationCollection::AddLuminanceEffect(**float**, **float**) method
 
 
 Adds the new [Luminance](../../luminance/) effect to the end of a collection.

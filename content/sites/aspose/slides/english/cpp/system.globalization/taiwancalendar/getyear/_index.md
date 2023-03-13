@@ -1,12 +1,12 @@
 ---
-title: GetYear
+title: GetYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets year for the specified time point.
 type: docs
 weight: 144
 url: /cpp/system.globalization/taiwancalendar/getyear/
 ---
-## TaiwanCalendar::GetYear method
+## TaiwanCalendar::GetYear([DateTime](../../../system/datetime/)) const method
 
 
 Gets year for the specified time point.

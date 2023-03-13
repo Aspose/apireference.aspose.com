@@ -1,12 +1,12 @@
 ---
-title: VerifyHash
+title: VerifyHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks data signature.
 type: docs
 weight: 222
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/verifyhash/
 ---
-## DSACryptoServiceProvider::VerifyHash method
+## DSACryptoServiceProvider::VerifyHash(const [ByteArrayPtr](../../../system/bytearrayptr/)\&, const [String](../../../system/string/)\&, const [ByteArrayPtr](../../../system/bytearrayptr/)\&) method
 
 
 Checks data signature.

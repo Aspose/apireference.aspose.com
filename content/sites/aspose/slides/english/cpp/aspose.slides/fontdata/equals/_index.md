@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether two FontData instances are equal.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/fontdata/equals/
 ---
-## FontData::Equals method
+## FontData::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether two [FontData](../) instances are equal.

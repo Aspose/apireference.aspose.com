@@ -1,12 +1,12 @@
 ---
-title: AdjustableArrowCap
+title: AdjustableArrowCap()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of AdjustableArrowCap with the specified width and height.
 type: docs
 weight: 1
 url: /cpp/system.drawing.drawing2d/adjustablearrowcap/adjustablearrowcap/
 ---
-## AdjustableArrowCap::AdjustableArrowCap constructor
+## AdjustableArrowCap::AdjustableArrowCap(**float**, **float**, **bool**) constructor
 
 
 Constructs a new instance of [AdjustableArrowCap](../) with the specified width and height.

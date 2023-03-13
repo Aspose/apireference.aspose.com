@@ -1,5 +1,5 @@
 ---
-title: GetAttribute
+title: GetAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the attribute with the specified name.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_System
+title: set_System()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the system identifier.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemanotation/set_system/
 ---
-## XmlSchemaNotation::set_System method
+## XmlSchemaNotation::set_System(const [String](../../../system/string/)\&) method
 
 
 Sets the **system** identifier.

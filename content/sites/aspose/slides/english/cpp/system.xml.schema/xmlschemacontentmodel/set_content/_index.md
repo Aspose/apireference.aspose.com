@@ -1,12 +1,12 @@
 ---
-title: set_Content
+title: set_Content()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the content of the type.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemacontentmodel/set_content/
 ---
-## XmlSchemaContentModel::set_Content method
+## XmlSchemaContentModel::set_Content([SharedPtr](../../../system/sharedptr/)\<[XmlSchemaContent](../../xmlschemacontent/)\>) method
 
 
 Sets the content of the type.

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the layout slide by index. Read-only ILayoutSlide.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ilayoutslidecollection/idx_get/
 ---
-## ILayoutSlideCollection::idx_get method
+## ILayoutSlideCollection::idx_get(**int32_t**) method
 
 
 Returns the layout slide by index. Read-only [ILayoutSlide](../../ilayoutslide/).

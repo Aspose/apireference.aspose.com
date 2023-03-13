@@ -1,12 +1,12 @@
 ---
-title: get_LimeGreen
+title: get_LimeGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF32CD32.
 type: docs
 weight: 1002
 url: /cpp/system.drawing/brushes/get_limegreen/
 ---
-## Brushes::get_LimeGreen method
+## Brushes::get_LimeGreen() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF32CD32.

@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Provides support for iteration over the collection of nodes in the XmlNamedNodeMap.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlnamednodemap/getenumerator/
 ---
-## XmlNamedNodeMap::GetEnumerator method
+## XmlNamedNodeMap::GetEnumerator() method
 
 
 Provides support for iteration over the collection of nodes in the [XmlNamedNodeMap](../).

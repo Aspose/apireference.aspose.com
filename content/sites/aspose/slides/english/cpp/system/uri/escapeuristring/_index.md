@@ -1,12 +1,12 @@
 ---
-title: EscapeUriString
+title: EscapeUriString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a URI string to its escaped representation.
 type: docs
 weight: 560
 url: /cpp/system/uri/escapeuristring/
 ---
-## Uri::EscapeUriString method
+## Uri::EscapeUriString(const [String](../../string/)\&) method
 
 
 Converts a URI string to its escaped representation.

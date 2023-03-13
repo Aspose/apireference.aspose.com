@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the node.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlentity/get_name/
 ---
-## XmlEntity::get_Name method
+## XmlEntity::get_Name() method
 
 
 Returns the name of the node.

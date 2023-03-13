@@ -1,5 +1,5 @@
 ---
-title: Fail
+title: Fail()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes failure message to debugger.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: ImportNode
+title: ImportNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Imports a node from another document to the current document.
 type: docs
 weight: 469
 url: /cpp/system.xml/xmldocument/importnode/
 ---
-## XmlDocument::ImportNode method
+## XmlDocument::ImportNode([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>, **bool**) method
 
 
 Imports a node from another document to the current document.

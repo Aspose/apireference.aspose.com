@@ -1,5 +1,5 @@
 ---
-title: GetCultureInfo
+title: GetCultureInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets culture by its name. Same as CreateSpecificCulture.
 type: docs

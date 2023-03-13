@@ -1,12 +1,12 @@
 ---
-title: get_IsEmpty
+title: get_IsEmpty()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the XmlQualifiedName is empty.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlqualifiedname/get_isempty/
 ---
-## XmlQualifiedName::get_IsEmpty method
+## XmlQualifiedName::get_IsEmpty() const method
 
 
 Returns a value indicating whether the [XmlQualifiedName](../) is empty.

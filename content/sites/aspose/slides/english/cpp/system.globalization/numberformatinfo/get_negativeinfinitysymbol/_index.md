@@ -1,12 +1,12 @@
 ---
-title: get_NegativeInfinitySymbol
+title: get_NegativeInfinitySymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets negative infinity symbol.
 type: docs
 weight: 456
 url: /cpp/system.globalization/numberformatinfo/get_negativeinfinitysymbol/
 ---
-## NumberFormatInfo::get_NegativeInfinitySymbol method
+## NumberFormatInfo::get_NegativeInfinitySymbol() const method
 
 
 Gets negative infinity symbol.

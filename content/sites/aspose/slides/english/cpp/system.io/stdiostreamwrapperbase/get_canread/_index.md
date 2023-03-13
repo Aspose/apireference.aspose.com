@@ -1,12 +1,12 @@
 ---
-title: get_CanRead
+title: get_CanRead()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the stream supports reading.
 type: docs
 weight: 92
 url: /cpp/system.io/stdiostreamwrapperbase/get_canread/
 ---
-## STDIOStreamWrapperBase::get_CanRead method
+## STDIOStreamWrapperBase::get_CanRead() const method
 
 
 Determines if the stream supports reading.

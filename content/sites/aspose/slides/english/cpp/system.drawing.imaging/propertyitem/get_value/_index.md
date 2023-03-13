@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the property represented by the current object in bytes.
 type: docs
 weight: 92
 url: /cpp/system.drawing.imaging/propertyitem/get_value/
 ---
-## PropertyItem::get_Value method
+## PropertyItem::get_Value() const method
 
 
 Returns the value of the property represented by the current object in bytes.

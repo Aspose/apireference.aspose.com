@@ -1,12 +1,12 @@
 ---
-title: get_Role
+title: get_Role()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the role of the XML web service that throws the exception.
 type: docs
 weight: 53
 url: /cpp/system.web.services.protocols/details_soapexception/get_role/
 ---
-## Details_SoapException::get_Role method
+## Details_SoapException::get_Role() method
 
 
 Returns the role of the XML web service that throws the exception.

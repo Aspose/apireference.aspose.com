@@ -1,12 +1,12 @@
 ---
-title: FromFile
+title: FromFile()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an Image object from the specified file.
 type: docs
 weight: 352
 url: /cpp/system.drawing/image/fromfile/
 ---
-## Image::FromFile method
+## Image::FromFile(const [String](../../../system/string/)\&, **bool**) method
 
 
 Creates an [Image](../) object from the specified file.

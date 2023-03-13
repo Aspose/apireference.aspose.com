@@ -1,12 +1,12 @@
 ---
-title: get_Index
+title: get_Index()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets position of byte that triggered error in input array.
 type: docs
 weight: 14
 url: /cpp/system.text/details_decoderfallbackexception/get_index/
 ---
-## Details_DecoderFallbackException::get_Index method
+## Details_DecoderFallbackException::get_Index() method
 
 
 Gets position of byte that triggered error in input array.

@@ -1,12 +1,12 @@
 ---
-title: get_DrilldownLocked
+title: get_DrilldownLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether selecting subshapes of this object is forbidden. Read bool.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/graphicalobjectlock/get_drilldownlocked/
 ---
-## GraphicalObjectLock::get_DrilldownLocked method
+## GraphicalObjectLock::get_DrilldownLocked() method
 
 
 Determines whether selecting subshapes of this object is forbidden. Read **bool**.

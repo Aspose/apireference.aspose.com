@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns string representation.
 type: docs
-weight: 248
+weight: 261
 url: /cpp/aspose.slides.animation/effect/tostring/
 ---
-## Effect::ToString method
+## Effect::ToString() const method
 
 
 Returns string representation.

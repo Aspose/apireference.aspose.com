@@ -1,12 +1,12 @@
 ---
-title: set_TrendlineType
+title: set_TrendlineType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets type of trend line. Write TrendlineType.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/itrendline/set_trendlinetype/
 ---
-## ITrendline::set_TrendlineType method
+## ITrendline::set_TrendlineType([Aspose::Slides::Charts::TrendlineType](../../trendlinetype/)) method
 
 
 Sets type of trend line. Write [TrendlineType](../../trendlinetype/).

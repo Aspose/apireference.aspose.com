@@ -1,5 +1,5 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts all values of the specified byte array into their hexadecimal string representation. Case of letters to use in hexadecimal notation and separator inserted between each pair of neighbouring bytes are specified through corresponding arguments.
 type: docs

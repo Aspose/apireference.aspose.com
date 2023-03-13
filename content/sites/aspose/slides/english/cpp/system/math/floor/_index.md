@@ -1,5 +1,5 @@
 ---
-title: Floor
+title: Floor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the largest integral value that is less than or equal to the specified value.
 type: docs

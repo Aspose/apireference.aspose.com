@@ -1,12 +1,12 @@
 ---
-title: GetAutomaticDataPointColor
+title: GetAutomaticDataPointColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an automatic color of data point based on series index, data point index, ParentSeriesGroup.IsColorVaried propery and chart style. This color is used by default if FillType equals NotDefined.
 type: docs
-weight: 287
+weight: 300
 url: /cpp/aspose.slides.charts/ichartdatapoint/getautomaticdatapointcolor/
 ---
-## IChartDataPoint::GetAutomaticDataPointColor method
+## IChartDataPoint::GetAutomaticDataPointColor() method
 
 
 Returns an automatic color of data point based on series index, data point index, ParentSeriesGroup.IsColorVaried propery and chart style. This color is used by default if FillType equals NotDefined.

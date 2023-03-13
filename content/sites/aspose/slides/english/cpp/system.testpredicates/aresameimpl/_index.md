@@ -1,5 +1,5 @@
 ---
-title: AreSameImpl
+title: AreSameImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Are-same-compares smart pointers.
 type: docs

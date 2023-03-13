@@ -1,12 +1,12 @@
 ---
-title: get_FullVersion
+title: get_FullVersion()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets full version number.
 type: docs
 weight: 27
 url: /cpp/system.globalization/sortversion/get_fullversion/
 ---
-## SortVersion::get_FullVersion method
+## SortVersion::get_FullVersion() method
 
 
 Gets full version number.

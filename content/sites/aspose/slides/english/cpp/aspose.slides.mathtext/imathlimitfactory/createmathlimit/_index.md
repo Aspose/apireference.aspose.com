@@ -1,7 +1,7 @@
 ---
-title: CreateMathLimit
+title: CreateMathLimit()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates IMathLimit.
+description: Creates IMathLimit
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathlimitfactory/createmathlimit/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathlimitfactory/createmathlimit/
 ## IMathLimitFactory::CreateMathLimit([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, **bool**) method
 
 
-Creates [IMathLimit](../../imathlimit/).
+Creates [IMathLimit](../../imathlimit/)
 
 ```cpp
 virtual System::SharedPtr<IMathLimit> Aspose::Slides::MathText::IMathLimitFactory::CreateMathLimit(System::SharedPtr<IMathElement> baseArg, System::SharedPtr<IMathElement> limit, bool upperLimit)=0
@@ -39,7 +39,7 @@ new math limit
 ## IMathLimitFactory::CreateMathLimit([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates [IMathLimit](../../imathlimit/) with limit at the bottom.
+Creates [IMathLimit](../../imathlimit/) with limit at the bottom
 
 ```cpp
 virtual System::SharedPtr<IMathLimit> Aspose::Slides::MathText::IMathLimitFactory::CreateMathLimit(System::SharedPtr<IMathElement> baseArg, System::SharedPtr<IMathElement> limit)=0

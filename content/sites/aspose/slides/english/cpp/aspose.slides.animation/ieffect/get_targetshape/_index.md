@@ -1,12 +1,12 @@
 ---
-title: get_TargetShape
+title: get_TargetShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns target shape for effect. Read-only IShape.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.animation/ieffect/get_targetshape/
 ---
-## IEffect::get_TargetShape method
+## IEffect::get_TargetShape() method
 
 
 Returns target shape for effect. Read-only [IShape](../../../aspose.slides/ishape/).

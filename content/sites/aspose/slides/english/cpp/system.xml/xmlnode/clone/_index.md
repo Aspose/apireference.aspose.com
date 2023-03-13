@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a duplicate of this node.
 type: docs
 weight: 495
 url: /cpp/system.xml/xmlnode/clone/
 ---
-## XmlNode::Clone method
+## XmlNode::Clone() method
 
 
 Creates a duplicate of this node.

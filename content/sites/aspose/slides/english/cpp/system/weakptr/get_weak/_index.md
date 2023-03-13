@@ -1,12 +1,12 @@
 ---
-title: get_weak
+title: get_weak()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets referenced object. Asserts that pointer is in weak mode.
 type: docs
 weight: 53
 url: /cpp/system/weakptr/get_weak/
 ---
-## WeakPtr::get_weak method
+## WeakPtr::get_weak() const method
 
 
 Gets referenced object. Asserts that pointer is in weak mode.

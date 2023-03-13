@@ -1,12 +1,12 @@
 ---
-title: get_MediumVioletRed
+title: get_MediumVioletRed()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFC71585.
 type: docs
 weight: 1158
 url: /cpp/system.drawing/brushes/get_mediumvioletred/
 ---
-## Brushes::get_MediumVioletRed method
+## Brushes::get_MediumVioletRed() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFC71585.

@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective fill formatting data with the inheritance applied.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/fillformat/geteffective/
 ---
-## FillFormat::GetEffective method
+## FillFormat::GetEffective() method
 
 
 Gets effective fill formatting data with the inheritance applied.

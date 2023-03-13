@@ -1,12 +1,12 @@
 ---
-title: get_AttributeUses
+title: get_AttributeUses()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of all the complied attributes of this complex type and its base types.
 type: docs
 weight: 209
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_attributeuses/
 ---
-## XmlSchemaComplexType::get_AttributeUses method
+## XmlSchemaComplexType::get_AttributeUses() method
 
 
 Returns the collection of all the complied attributes of this complex type and its base types.

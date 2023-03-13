@@ -1,12 +1,12 @@
 ---
-title: get_TriggerType
+title: get_TriggerType()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes trigger type. Read EffectTriggerType.
 type: docs
-weight: 287
+weight: 313
 url: /cpp/aspose.slides.animation/timing/get_triggertype/
 ---
-## Timing::get_TriggerType method
+## Timing::get_TriggerType() method
 
 
 Describes trigger type. Read [EffectTriggerType](../../effecttriggertype/).

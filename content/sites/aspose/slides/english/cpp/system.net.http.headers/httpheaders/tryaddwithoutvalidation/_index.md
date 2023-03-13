@@ -1,5 +1,5 @@
 ---
-title: TryAddWithoutValidation
+title: TryAddWithoutValidation()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to add a new name-value pair to the current collection.
 type: docs

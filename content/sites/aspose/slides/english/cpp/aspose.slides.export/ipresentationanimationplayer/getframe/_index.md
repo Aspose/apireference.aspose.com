@@ -1,12 +1,12 @@
 ---
-title: GetFrame
+title: GetFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: "Get the frame for the current time position previously set with the IPresentationAnimationPlayer::SetTimePosition method."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/ipresentationanimationplayer/getframe/
 ---
-## IPresentationAnimationPlayer::GetFrame method
+## IPresentationAnimationPlayer::GetFrame() method
 
 
 Get the frame for the current time position previously set with the [IPresentationAnimationPlayer::SetTimePosition](../settimeposition/) method.

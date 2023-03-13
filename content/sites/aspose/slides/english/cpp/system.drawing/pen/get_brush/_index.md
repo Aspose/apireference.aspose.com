@@ -1,12 +1,12 @@
 ---
-title: get_Brush
+title: get_Brush()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns this pen's Brush object.
 type: docs
 weight: 365
 url: /cpp/system.drawing/pen/get_brush/
 ---
-## Pen::get_Brush method
+## Pen::get_Brush() method
 
 
 Returns this pen's [Brush](../../brush/) object.

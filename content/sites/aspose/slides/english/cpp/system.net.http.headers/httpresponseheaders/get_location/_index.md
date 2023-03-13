@@ -1,12 +1,12 @@
 ---
-title: get_Location
+title: get_Location()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Location' header.
 type: docs
 weight: 66
 url: /cpp/system.net.http.headers/httpresponseheaders/get_location/
 ---
-## HttpResponseHeaders::get_Location method
+## HttpResponseHeaders::get_Location() method
 
 
 Gets a value of the 'Location' header.

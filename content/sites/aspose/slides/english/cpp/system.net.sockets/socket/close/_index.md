@@ -1,5 +1,5 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the socket connection.
 type: docs

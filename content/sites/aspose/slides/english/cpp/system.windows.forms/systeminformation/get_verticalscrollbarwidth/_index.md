@@ -1,12 +1,12 @@
 ---
-title: get_VerticalScrollBarWidth
+title: get_VerticalScrollBarWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1236
 url: /cpp/system.windows.forms/systeminformation/get_verticalscrollbarwidth/
 ---
-## SystemInformation::get_VerticalScrollBarWidth method
+## SystemInformation::get_VerticalScrollBarWidth() method
 
 
 NOT IMPLEMENTED.

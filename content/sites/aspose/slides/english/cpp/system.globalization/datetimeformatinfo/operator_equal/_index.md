@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 807
 url: /cpp/system.globalization/datetimeformatinfo/operator_equal/
 ---
-## DateTimeFormatInfo::operator= method
+## DateTimeFormatInfo::operator=(const [DateTimeFormatInfo](../)\&) method
 
 
 

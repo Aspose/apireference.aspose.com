@@ -1,12 +1,12 @@
 ---
-title: get_TrustedXslt
+title: get_TrustedXslt()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XsltSettings object that enables support for the XSLT document() function and embedded script blocks.
 type: docs
 weight: 14
 url: /cpp/system.xml.xsl/xsltsettings/get_trustedxslt/
 ---
-## XsltSettings::get_TrustedXslt method
+## XsltSettings::get_TrustedXslt() method
 
 
 Returns an [XsltSettings](../) object that enables support for the XSLT **document()** function and embedded script blocks.

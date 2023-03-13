@@ -1,12 +1,12 @@
 ---
-title: get_DesignMode
+title: get_DesignMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if component is in design mode.
 type: docs
 weight: 27
 url: /cpp/system.componentmodel/component/get_designmode/
 ---
-## Component::get_DesignMode method
+## Component::get_DesignMode() method
 
 
 Checks if component is in design mode.

@@ -1,12 +1,12 @@
 ---
-title: get_SlidesText
+title: get_SlidesText()
 second_title: Aspose.Slides for C++ API Reference
 description: An array of ISlideText contains a presentation's text.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ipresentationtext/get_slidestext/
 ---
-## IPresentationText::get_SlidesText method
+## IPresentationText::get_SlidesText() method
 
 
 An array of [ISlideText](../../islidetext/) contains a presentation's text.

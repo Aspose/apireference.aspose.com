@@ -1,5 +1,5 @@
 ---
-title: EmbeddedEotFontsHtmlController
+title: EmbeddedEotFontsHtmlController()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new instance.
 type: docs

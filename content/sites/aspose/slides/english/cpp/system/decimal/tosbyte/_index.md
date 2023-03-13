@@ -1,12 +1,12 @@
 ---
-title: ToSByte
+title: ToSByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the Decimal value to signed 8-bit integer value.
 type: docs
 weight: 651
 url: /cpp/system/decimal/tosbyte/
 ---
-## Decimal::ToSByte method
+## Decimal::ToSByte([Decimal](../)) method
 
 
 Converts the [Decimal](../) value to signed 8-bit integer value.

@@ -1,5 +1,5 @@
 ---
-title: WriteAsSvg
+title: WriteAsSvg()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves content of Shape as SVG file.
 type: docs

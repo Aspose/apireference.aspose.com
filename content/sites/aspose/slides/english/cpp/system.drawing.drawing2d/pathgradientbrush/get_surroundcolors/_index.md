@@ -1,12 +1,12 @@
 ---
-title: get_SurroundColors
+title: get_SurroundColors()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns colors that correspond to the points in the path this PathGradientBrush fills.
 type: docs
 weight: 105
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_surroundcolors/
 ---
-## PathGradientBrush::get_SurroundColors method
+## PathGradientBrush::get_SurroundColors() const method
 
 
 Returns colors that correspond to the points in the path this [PathGradientBrush](../) fills.

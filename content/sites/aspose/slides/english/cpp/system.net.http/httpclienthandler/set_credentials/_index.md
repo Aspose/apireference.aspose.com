@@ -1,12 +1,12 @@
 ---
-title: set_Credentials
+title: set_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the authentication information.
 type: docs
 weight: 53
 url: /cpp/system.net.http/httpclienthandler/set_credentials/
 ---
-## HttpClientHandler::set_Credentials method
+## HttpClientHandler::set_Credentials([System::SharedPtr](../../../system/sharedptr/)\<[ICredentials](../../../system.net/icredentials/)\>) method
 
 
 Sets the authentication information.

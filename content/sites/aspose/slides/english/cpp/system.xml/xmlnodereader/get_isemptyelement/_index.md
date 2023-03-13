@@ -1,12 +1,12 @@
 ---
-title: get_IsEmptyElement
+title: get_IsEmptyElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the current node is an empty element (for example, <MyElement/>).
 type: docs
 weight: 131
 url: /cpp/system.xml/xmlnodereader/get_isemptyelement/
 ---
-## XmlNodeReader::get_IsEmptyElement method
+## XmlNodeReader::get_IsEmptyElement() method
 
 
 Returns a value indicating whether the current node is an empty element (for example, **<MyElement/>**).

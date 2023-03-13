@@ -1,5 +1,5 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies list elements into existing array elements.
 type: docs

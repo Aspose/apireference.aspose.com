@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified InnerShadow is equal to the current InnerShadow.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/innershadow/equals/
 ---
-## InnerShadow::Equals method
+## InnerShadow::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [InnerShadow](../) is equal to the current [InnerShadow](../).

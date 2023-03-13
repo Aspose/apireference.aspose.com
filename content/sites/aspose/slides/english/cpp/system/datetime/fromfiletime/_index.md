@@ -1,12 +1,12 @@
 ---
-title: FromFileTime
+title: FromFileTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified File time to an instance of DateTime class representing the same date and time value as local time.
 type: docs
 weight: 794
 url: /cpp/system/datetime/fromfiletime/
 ---
-## DateTime::FromFileTime method
+## DateTime::FromFileTime(**int64_t**) method
 
 
 Converts the specified File time to an instance of [DateTime](../) class representing the same date and time value as local time.

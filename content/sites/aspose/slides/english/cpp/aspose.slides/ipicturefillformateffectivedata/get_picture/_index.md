@@ -1,12 +1,12 @@
 ---
-title: get_Picture
+title: get_Picture()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the picture. Read-only IPictureEffectiveData.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ipicturefillformateffectivedata/get_picture/
 ---
-## IPictureFillFormatEffectiveData::get_Picture method
+## IPictureFillFormatEffectiveData::get_Picture() method
 
 
 Returns the picture. Read-only [IPictureEffectiveData](../../ipictureeffectivedata/).

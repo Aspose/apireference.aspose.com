@@ -1,12 +1,12 @@
 ---
-title: unbox
+title: unbox()
 second_title: Aspose.Slides for C++ API Reference
 description: Unboxes the value represented by the current object.
 type: docs
 weight: 27
 url: /cpp/system/boxedvalue/unbox/
 ---
-## BoxedValue::unbox method
+## BoxedValue::unbox() const method
 
 
 Unboxes the value represented by the current object.

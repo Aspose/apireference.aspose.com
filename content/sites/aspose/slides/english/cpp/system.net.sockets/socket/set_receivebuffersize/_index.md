@@ -1,12 +1,12 @@
 ---
-title: set_ReceiveBufferSize
+title: set_ReceiveBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the receive buffer size.
 type: docs
 weight: 209
 url: /cpp/system.net.sockets/socket/set_receivebuffersize/
 ---
-## Socket::set_ReceiveBufferSize method
+## Socket::set_ReceiveBufferSize(**int32_t**) method
 
 
 Sets the receive buffer size.

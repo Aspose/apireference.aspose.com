@@ -1,12 +1,12 @@
 ---
-title: set_HasBounce
+title: set_HasBounce()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies that the movement of the presentation slides during the transition includes a bounce. Write bool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.slideshow/iflythroughtransition/set_hasbounce/
 ---
-## IFlyThroughTransition::set_HasBounce method
+## IFlyThroughTransition::set_HasBounce(**bool**) method
 
 
 Specifies that the movement of the presentation slides during the transition includes a bounce. Write **bool**.

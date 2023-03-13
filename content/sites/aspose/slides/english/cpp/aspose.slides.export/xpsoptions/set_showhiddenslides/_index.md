@@ -1,12 +1,12 @@
 ---
-title: set_ShowHiddenSlides
+title: set_ShowHiddenSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether the generated document should include hidden slides or not. Default is false.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/xpsoptions/set_showhiddenslides/
 ---
-## XpsOptions::set_ShowHiddenSlides method
+## XpsOptions::set_ShowHiddenSlides(**bool**) method
 
 
 Specifies whether the generated document should include hidden slides or not. Default is **false**.

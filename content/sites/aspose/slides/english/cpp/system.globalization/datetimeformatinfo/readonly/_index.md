@@ -1,12 +1,12 @@
 ---
-title: ReadOnly
+title: ReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets read-only version of formatter.
 type: docs
 weight: 859
 url: /cpp/system.globalization/datetimeformatinfo/readonly/
 ---
-## DateTimeFormatInfo::ReadOnly method
+## DateTimeFormatInfo::ReadOnly(const [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)\&) method
 
 
 Gets read-only version of formatter.

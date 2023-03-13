@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes a column at the specified position from a table.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/columncollection/removeat/
 ---
-## ColumnCollection::RemoveAt method
+## ColumnCollection::RemoveAt(**int32_t**, **bool**) method
 
 
 Removes a column at the specified position from a table.

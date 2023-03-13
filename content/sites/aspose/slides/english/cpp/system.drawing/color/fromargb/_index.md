@@ -1,5 +1,5 @@
 ---
-title: FromArgb
+title: FromArgb()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance of Color class that reprsents the specfied color.
 type: docs

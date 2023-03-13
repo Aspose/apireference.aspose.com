@@ -1,5 +1,5 @@
 ---
-title: Open
+title: Open()
 second_title: Aspose.Slides for C++ API Reference
 description: Opens the specified file in the specified mode for reading and writing and with no sharing.
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: WriteStartAttribute
+title: WriteStartAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the start of an attribute with the specified local name and namespace URI.
 type: docs

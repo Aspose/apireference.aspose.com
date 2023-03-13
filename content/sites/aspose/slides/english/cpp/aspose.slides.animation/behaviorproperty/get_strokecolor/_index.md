@@ -1,15 +1,15 @@
 ---
-title: get_StrokeColor
+title: get_StrokeColor()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'stroke.color' property.
+description: Represents 'stroke.color' property
 type: docs
 weight: 716
 url: /cpp/aspose.slides.animation/behaviorproperty/get_strokecolor/
 ---
-## BehaviorProperty::get_StrokeColor method
+## BehaviorProperty::get_StrokeColor() method
 
 
-Represents 'stroke.color' property.
+Represents 'stroke.color' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StrokeColor()

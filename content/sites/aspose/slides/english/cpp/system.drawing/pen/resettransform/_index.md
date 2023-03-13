@@ -1,12 +1,12 @@
 ---
-title: ResetTransform
+title: ResetTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets the current object's transform matrix so that it becomes an identity matrix.
 type: docs
 weight: 417
 url: /cpp/system.drawing/pen/resettransform/
 ---
-## Pen::ResetTransform method
+## Pen::ResetTransform() method
 
 
 Resets the current object's transform matrix so that it becomes an identity matrix.

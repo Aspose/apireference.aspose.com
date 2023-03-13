@@ -1,12 +1,12 @@
 ---
-title: CspKeyContainerInfo
+title: CspKeyContainerInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Consturctor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/cspkeycontainerinfo/cspkeycontainerinfo/
 ---
-## CspKeyContainerInfo::CspKeyContainerInfo constructor
+## CspKeyContainerInfo::CspKeyContainerInfo(const [SharedPtr](../../../system/sharedptr/)\<[CspParameters](../../cspparameters/)\>\&) constructor
 
 
 Consturctor.

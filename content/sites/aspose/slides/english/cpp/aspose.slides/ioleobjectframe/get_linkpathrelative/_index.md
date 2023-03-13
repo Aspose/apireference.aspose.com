@@ -1,12 +1,12 @@
 ---
-title: get_LinkPathRelative
+title: get_LinkPathRelative()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the relative path to a linked file if present, otherwise returns an empty string. Readonly System::String."
 type: docs
 weight: 118
 url: /cpp/aspose.slides/ioleobjectframe/get_linkpathrelative/
 ---
-## IOleObjectFrame::get_LinkPathRelative method
+## IOleObjectFrame::get_LinkPathRelative() method
 
 
 Returns the relative path to a linked file if present, otherwise returns an empty string. Readonly [System::String](../../../system/string/).

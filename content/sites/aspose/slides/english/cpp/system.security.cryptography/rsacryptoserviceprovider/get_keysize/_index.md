@@ -1,12 +1,12 @@
 ---
-title: get_KeySize
+title: get_KeySize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets key size used by algorithm.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/get_keysize/
 ---
-## RSACryptoServiceProvider::get_KeySize method
+## RSACryptoServiceProvider::get_KeySize() method
 
 
 Gets key size used by algorithm.

@@ -1,5 +1,5 @@
 ---
-title: Wait
+title: Wait()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases the lock on an object and blocks the current thread until it reacquires the lock. If the specified time-out interval elapses, the thread enters the ready queue. Optionally exits the synchronization domain for the synchronized context before the wait and reacquires the domain afterward. Not implemented.
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: MeasureString
+title: MeasureString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a size of the specified string when drawn in the specified font in the specified format.
 type: docs

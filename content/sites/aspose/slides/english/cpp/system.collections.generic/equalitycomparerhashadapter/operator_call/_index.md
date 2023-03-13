@@ -1,12 +1,12 @@
 ---
-title: operator()
+title: operator()()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates hash value.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/equalitycomparerhashadapter/operator_call/
 ---
-## EqualityComparerHashAdapter::operator() method
+## EqualityComparerHashAdapter::operator()(const T\&) const method
 
 
 Calculates hash value.

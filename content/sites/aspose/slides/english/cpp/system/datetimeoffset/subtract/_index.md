@@ -1,5 +1,5 @@
 ---
-title: Subtract
+title: Subtract()
 second_title: Aspose.Slides for C++ API Reference
 description: Subtracts a specified time interval from the current object.
 type: docs

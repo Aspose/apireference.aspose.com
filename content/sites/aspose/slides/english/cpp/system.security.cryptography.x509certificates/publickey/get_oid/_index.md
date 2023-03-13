@@ -1,12 +1,12 @@
 ---
-title: get_Oid
+title: get_Oid()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets identifier (OID) of the public key.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.x509certificates/publickey/get_oid/
 ---
-## PublicKey::get_Oid method
+## PublicKey::get_Oid() const method
 
 
 Gets identifier (OID) of the public key.

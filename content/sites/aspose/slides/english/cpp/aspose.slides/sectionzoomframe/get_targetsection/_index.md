@@ -1,12 +1,12 @@
 ---
-title: get_TargetSection
+title: get_TargetSection()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the section object that the Section Zoom object links to. Read ISection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/sectionzoomframe/get_targetsection/
 ---
-## SectionZoomFrame::get_TargetSection method
+## SectionZoomFrame::get_TargetSection() method
 
 
 Gets the section object that the [Section](../../section/) Zoom object links to. Read [ISection](../../isection/).

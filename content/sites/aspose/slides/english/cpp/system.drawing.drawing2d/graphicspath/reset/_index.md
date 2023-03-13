@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Empties the path by removing all points from it.
 type: docs
 weight: 365
 url: /cpp/system.drawing.drawing2d/graphicspath/reset/
 ---
-## GraphicsPath::Reset method
+## GraphicsPath::Reset() method
 
 
 Empties the path by removing all points from it.

@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether specific string is present in container.
 type: docs
 weight: 131
 url: /cpp/system.collections.specialized/stringcollection/contains/
 ---
-## StringCollection::Contains method
+## StringCollection::Contains(const [System::String](../../../system/string/)\&) const method
 
 
 Checks whether specific string is present in container.

@@ -1,12 +1,12 @@
 ---
-title: get_ProtocolType
+title: get_ProtocolType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the protocol type.
 type: docs
 weight: 144
 url: /cpp/system.net.sockets/socket/get_protocoltype/
 ---
-## Socket::get_ProtocolType method
+## Socket::get_ProtocolType() method
 
 
 Returns the protocol type.

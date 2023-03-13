@@ -1,12 +1,12 @@
 ---
-title: GetNamesOfTags
+title: GetNamesOfTags()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns names of tags.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/itagcollection/getnamesoftags/
 ---
-## ITagCollection::GetNamesOfTags method
+## ITagCollection::GetNamesOfTags() method
 
 
 Returns names of tags.

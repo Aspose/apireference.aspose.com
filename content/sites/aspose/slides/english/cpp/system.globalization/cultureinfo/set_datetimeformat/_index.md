@@ -1,12 +1,12 @@
 ---
-title: set_DateTimeFormat
+title: set_DateTimeFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets date format information.
 type: docs
 weight: 300
 url: /cpp/system.globalization/cultureinfo/set_datetimeformat/
 ---
-## CultureInfo::set_DateTimeFormat method
+## CultureInfo::set_DateTimeFormat([DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)) method
 
 
 Sets date format information.

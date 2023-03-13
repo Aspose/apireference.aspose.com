@@ -1,12 +1,12 @@
 ---
-title: set_RotationLocked
+title: set_RotationLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether changing rotation angle of this shape is forbidden. Write bool.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/groupshapelock/set_rotationlocked/
 ---
-## GroupShapeLock::set_RotationLocked method
+## GroupShapeLock::set_RotationLocked(**bool**) method
 
 
 Determines whether changing rotation angle of this shape is forbidden. Write **bool**.

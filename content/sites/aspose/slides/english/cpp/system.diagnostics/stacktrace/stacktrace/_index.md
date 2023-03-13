@@ -1,5 +1,5 @@
 ---
-title: StackTrace
+title: StackTrace()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates stack trace describing current stack state.
 type: docs

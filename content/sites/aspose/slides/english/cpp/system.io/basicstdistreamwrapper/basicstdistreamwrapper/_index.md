@@ -1,12 +1,12 @@
 ---
-title: BasicSTDIStreamWrapper
+title: BasicSTDIStreamWrapper()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of the BasicSTDIStreamWrapper.
 type: docs
 weight: 14
 url: /cpp/system.io/basicstdistreamwrapper/basicstdistreamwrapper/
 ---
-## BasicSTDIStreamWrapper::BasicSTDIStreamWrapper(std::basic_istream\<[char_type](../char_type/), [traits_type](../traits_type/)\>\&, [STDIOStreamWrappingMode](../../stdiostreamwrappingmode/)) constructor
+## BasicSTDIStreamWrapper::BasicSTDIStreamWrapper(std::basic_istream\<[char_type](../../stdiostreamwrapperbase/char_type/), [traits_type](../../stdiostreamwrapperbase/traits_type/)\>\&, [STDIOStreamWrappingMode](../../stdiostreamwrappingmode/)) constructor
 
 
 Constructs a new instance of the [BasicSTDIStreamWrapper](../).
@@ -20,13 +20,13 @@ System::IO::BasicSTDIStreamWrapper<T, typename>::BasicSTDIStreamWrapper(std::bas
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | std::basic_istream\<[char_type](../char_type/), [traits_type](../traits_type/)\>\& | The reference to the stream |
+| str | std::basic_istream\<[char_type](../../stdiostreamwrapperbase/char_type/), [traits_type](../../stdiostreamwrapperbase/traits_type/)\>\& | The reference to the stream |
 | mode | [STDIOStreamWrappingMode](../../stdiostreamwrappingmode/) | Wrapping mode |
 
 ## See Also
 
-* Typedef [char_type](../char_type/)
-* Typedef [traits_type](../traits_type/)
+* Typedef [char_type](../../stdiostreamwrapperbase/char_type/)
+* Typedef [traits_type](../../stdiostreamwrapperbase/traits_type/)
 * Enum [STDIOStreamWrappingMode](../../stdiostreamwrappingmode/)
 * Class [BasicSTDIStreamWrapper](../)
 * Namespace [System::IO](../../)

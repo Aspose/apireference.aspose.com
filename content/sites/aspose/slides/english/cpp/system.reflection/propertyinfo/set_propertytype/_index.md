@@ -1,12 +1,12 @@
 ---
-title: set_PropertyType
+title: set_PropertyType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the type of this property.
 type: docs
 weight: 53
 url: /cpp/system.reflection/propertyinfo/set_propertytype/
 ---
-## PropertyInfo::set_PropertyType method
+## PropertyInfo::set_PropertyType(const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Sets the type of this property.

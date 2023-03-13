@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases all resources used by the current instance of the XmlWriter class.
 type: docs
 weight: 456
 url: /cpp/system.xml/xmlwriter/dispose/
 ---
-## XmlWriter::Dispose method
+## XmlWriter::Dispose() method
 
 
 Releases all resources used by the current instance of the [XmlWriter](../) class.

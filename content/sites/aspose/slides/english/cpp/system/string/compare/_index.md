@@ -1,5 +1,5 @@
 ---
-title: Compare
+title: Compare()
 second_title: Aspose.Slides for C++ API Reference
 description: Less-equal-greater-compares two substrings.
 type: docs

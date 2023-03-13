@@ -1,12 +1,12 @@
 ---
-title: get_ReadDate
+title: get_ReadDate()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the date when the file was read the last time.
 type: docs
 weight: 170
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_readdate/
 ---
-## ContentDispositionHeaderValue::get_ReadDate method
+## ContentDispositionHeaderValue::get_ReadDate() method
 
 
 Gets the date when the file was read the last time.

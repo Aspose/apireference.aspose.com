@@ -1,12 +1,12 @@
 ---
-title: MovePrevious
+title: MovePrevious()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves buffer position one step back if possible.
 type: docs
 weight: 40
 url: /cpp/system.text/encoderfallbackbuffer/moveprevious/
 ---
-## EncoderFallbackBuffer::MovePrevious method
+## EncoderFallbackBuffer::MovePrevious() method
 
 
 Moves buffer position one step back if possible.

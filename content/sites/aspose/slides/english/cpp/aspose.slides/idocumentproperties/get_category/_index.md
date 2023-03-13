@@ -1,12 +1,12 @@
 ---
-title: get_Category
+title: get_Category()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the category of a presentation. Read System::String."
 type: docs
 weight: 326
 url: /cpp/aspose.slides/idocumentproperties/get_category/
 ---
-## IDocumentProperties::get_Category method
+## IDocumentProperties::get_Category() method
 
 
 Returns the category of a presentation. Read [System::String](../../../system/string/).

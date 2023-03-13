@@ -1,5 +1,5 @@
 ---
-title: ToBoolean
+title: ToBoolean()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts one byte from the specified array starting at the specified index to boolean value.
 type: docs

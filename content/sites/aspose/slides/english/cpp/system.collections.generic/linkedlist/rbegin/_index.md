@@ -1,5 +1,5 @@
 ---
-title: rbegin
+title: rbegin()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a reverse iterator to the last element of collection (first in reverse).
 type: docs

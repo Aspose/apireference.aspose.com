@@ -1,5 +1,5 @@
 ---
-title: IsStartElement
+title: IsStartElement()
 second_title: Aspose.Slides for C++ API Reference
 description: "Calls XmlReader::MoveToContent and tests if the current content node is a start tag or empty element tag."
 type: docs

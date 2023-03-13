@@ -1,12 +1,12 @@
 ---
-title: GetCurrentDirectory
+title: GetCurrentDirectory()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the full name (including path) of the current directory.
 type: docs
 weight: 287
 url: /cpp/system.io/directory/getcurrentdirectory/
 ---
-## Directory::GetCurrentDirectory method
+## Directory::GetCurrentDirectory() method
 
 
 Returns the full name (including path) of the current directory.

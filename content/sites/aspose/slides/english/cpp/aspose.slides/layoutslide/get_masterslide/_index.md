@@ -1,12 +1,12 @@
 ---
-title: get_MasterSlide
+title: get_MasterSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the master slide for a layout. Read IMasterSlide.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/layoutslide/get_masterslide/
 ---
-## LayoutSlide::get_MasterSlide method
+## LayoutSlide::get_MasterSlide() method
 
 
 Returns the master slide for a layout. Read [IMasterSlide](../../imasterslide/).

@@ -1,12 +1,12 @@
 ---
-title: WriteCData
+title: WriteCData()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes out a ... block containing the specified text.
 type: docs
 weight: 170
 url: /cpp/system.xml/xmlwriter/writecdata/
 ---
-## XmlWriter::WriteCData method
+## XmlWriter::WriteCData([String](../../../system/string/)) method
 
 
 When overridden in a derived class, writes out a **...** block containing the specified text.

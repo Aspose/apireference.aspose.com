@@ -1,5 +1,5 @@
 ---
-title: SetAttribute
+title: SetAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of the attribute with the specified name.
 type: docs

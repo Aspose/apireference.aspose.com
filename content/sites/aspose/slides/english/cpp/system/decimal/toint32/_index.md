@@ -1,12 +1,12 @@
 ---
-title: ToInt32
+title: ToInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the Decimal value to signed 32-bit integer value.
 type: docs
 weight: 703
 url: /cpp/system/decimal/toint32/
 ---
-## Decimal::ToInt32 method
+## Decimal::ToInt32([Decimal](../)) method
 
 
 Converts the [Decimal](../) value to signed 32-bit integer value.

@@ -1,12 +1,12 @@
 ---
-title: get_CanRead
+title: get_CanRead()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the stream is readable.
 type: docs
 weight: 1
 url: /cpp/system.io/unmanagedmemorystream/get_canread/
 ---
-## UnmanagedMemoryStream::get_CanRead method
+## UnmanagedMemoryStream::get_CanRead() const method
 
 
 Determines if the stream is readable.

@@ -1,7 +1,7 @@
 ---
 title: QuartileMethodType
 second_title: Aspose.Slides for C++ API Reference
-description: Returns type of quartile method.
+description: Returns type of quartile method
 type: docs
 weight: 1678
 url: /cpp/aspose.slides.charts/quartilemethodtype/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.charts/quartilemethodtype/
 ## QuartileMethodType enum
 
 
-Returns type of quartile method.
+Returns type of quartile method
 
 ```cpp
 enum class QuartileMethodType

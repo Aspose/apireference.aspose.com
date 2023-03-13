@@ -1,12 +1,12 @@
 ---
-title: get_WorkingSet64
+title: get_WorkingSet64()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets process memory working set size.
 type: docs
 weight: 118
 url: /cpp/system.diagnostics/process/get_workingset64/
 ---
-## Process::get_WorkingSet64 method
+## Process::get_WorkingSet64() const method
 
 
 Gets process memory working set size.

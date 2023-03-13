@@ -1,12 +1,12 @@
 ---
-title: get_Color
+title: get_Color()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns this brush's color.
 type: docs
 weight: 14
 url: /cpp/system.drawing/solidbrush/get_color/
 ---
-## SolidBrush::get_Color method
+## SolidBrush::get_Color() const method
 
 
 Returns this brush's color.

@@ -1,12 +1,12 @@
 ---
-title: GetStringComparer
+title: GetStringComparer()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets StringComparer object for the specified CompareInfo object and specified string comparison rules.
 type: docs
 weight: 1
 url: /cpp/system.globalization/globalizationextensions/getstringcomparer/
 ---
-## GlobalizationExtensions::GetStringComparer method
+## GlobalizationExtensions::GetStringComparer(const [CompareInfoPtr](../../compareinfoptr/)\&, [CompareOptions](../../compareoptions/)) method
 
 
 Gets [StringComparer](../../../system/stringcomparer/) object for the specified [CompareInfo](../../compareinfo/) object and specified string comparison rules.

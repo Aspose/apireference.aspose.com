@@ -1,12 +1,12 @@
 ---
-title: set_BlurRadius
+title: set_BlurRadius()
 second_title: Aspose.Slides for C++ API Reference
 description: Blur radius. Write double.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.effects/ireflection/set_blurradius/
 ---
-## IReflection::set_BlurRadius method
+## IReflection::set_BlurRadius(**double**) method
 
 
 [Blur](../../blur/) radius. Write **double**.

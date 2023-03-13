@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies collection elements into existing array elements.
 type: docs
 weight: 92
 url: /cpp/system.collections.specialized/namevaluecollection/copyto/
 ---
-## NameValueCollection::CopyTo method
+## NameValueCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>, **int32_t**) method
 
 
 Copies collection elements into existing array elements.

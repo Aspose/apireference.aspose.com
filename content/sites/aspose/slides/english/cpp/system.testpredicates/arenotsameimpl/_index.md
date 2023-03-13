@@ -1,5 +1,5 @@
 ---
-title: AreNotSameImpl
+title: AreNotSameImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Are-not-same-compares smart pointers.
 type: docs

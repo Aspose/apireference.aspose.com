@@ -1,12 +1,12 @@
 ---
-title: ClearCustomProperties
+title: ClearCustomProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all custom properties.
 type: docs
 weight: 664
 url: /cpp/aspose.slides/documentproperties/clearcustomproperties/
 ---
-## DocumentProperties::ClearCustomProperties method
+## DocumentProperties::ClearCustomProperties() method
 
 
 Removes all custom properties.

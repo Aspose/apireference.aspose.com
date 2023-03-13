@@ -1,7 +1,7 @@
 ---
-title: QuadraticBezierTo
+title: QuadraticBezierTo()
 second_title: Aspose.Slides for C++ API Reference
-description: Adds quadratic Bezier curve at the end the path.
+description: Adds quadratic Bezier curve at the end the path
 type: docs
 weight: 105
 url: /cpp/aspose.slides/igeometrypath/quadraticbezierto/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/igeometrypath/quadraticbezierto/
 ## IGeometryPath::QuadraticBezierTo([System::Drawing::PointF](../../../system.drawing/pointf/), [System::Drawing::PointF](../../../system.drawing/pointf/)) method
 
 
-Adds quadratic Bezier curve at the end the path.
+Adds quadratic Bezier curve at the end the path
 
 ```cpp
 virtual void Aspose::Slides::IGeometryPath::QuadraticBezierTo(System::Drawing::PointF point1, System::Drawing::PointF point2)=0
@@ -32,7 +32,7 @@ virtual void Aspose::Slides::IGeometryPath::QuadraticBezierTo(System::Drawing::P
 ## IGeometryPath::QuadraticBezierTo(**float**, **float**, **float**, **float**) method
 
 
-Adds quadratic Bezier curve at the end the path.
+Adds quadratic Bezier curve at the end the path
 
 ```cpp
 virtual void Aspose::Slides::IGeometryPath::QuadraticBezierTo(float x1, float y1, float x2, float y2)=0
@@ -56,7 +56,7 @@ virtual void Aspose::Slides::IGeometryPath::QuadraticBezierTo(float x1, float y1
 ## IGeometryPath::QuadraticBezierTo([System::Drawing::PointF](../../../system.drawing/pointf/), [System::Drawing::PointF](../../../system.drawing/pointf/), **uint32_t**) method
 
 
-Adds quadratic Bezier curve to the specified place of the path.
+Adds quadratic Bezier curve to the specified place of the path
 
 ```cpp
 virtual void Aspose::Slides::IGeometryPath::QuadraticBezierTo(System::Drawing::PointF point1, System::Drawing::PointF point2, uint32_t index)=0
@@ -80,7 +80,7 @@ virtual void Aspose::Slides::IGeometryPath::QuadraticBezierTo(System::Drawing::P
 ## IGeometryPath::QuadraticBezierTo(**float**, **float**, **float**, **float**, **uint32_t**) method
 
 
-Adds quadratic Bezier curve to the specified place of the path.
+Adds quadratic Bezier curve to the specified place of the path
 
 ```cpp
 virtual void Aspose::Slides::IGeometryPath::QuadraticBezierTo(float x1, float y1, float x2, float y2, uint32_t index)=0

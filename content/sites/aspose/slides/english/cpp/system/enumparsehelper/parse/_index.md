@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specfied string into equivalent enum constant value.
 type: docs
 weight: 1
 url: /cpp/system/enumparsehelper/parse/
 ---
-## EnumParseHelper::Parse method
+## EnumParseHelper::Parse(const [String](../../string/)\&, **bool**) method
 
 
 Converts the specfied string into equivalent enum constant value.

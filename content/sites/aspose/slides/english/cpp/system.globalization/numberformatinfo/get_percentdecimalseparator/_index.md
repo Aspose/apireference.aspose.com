@@ -1,12 +1,12 @@
 ---
-title: get_PercentDecimalSeparator
+title: get_PercentDecimalSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets decimal separator in percent values.
 type: docs
 weight: 560
 url: /cpp/system.globalization/numberformatinfo/get_percentdecimalseparator/
 ---
-## NumberFormatInfo::get_PercentDecimalSeparator method
+## NumberFormatInfo::get_PercentDecimalSeparator() const method
 
 
 Gets decimal separator in percent values.

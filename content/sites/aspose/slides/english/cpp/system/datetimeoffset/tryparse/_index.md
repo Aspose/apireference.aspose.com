@@ -1,5 +1,5 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to converts the specified string to DateTimeOffset object.
 type: docs

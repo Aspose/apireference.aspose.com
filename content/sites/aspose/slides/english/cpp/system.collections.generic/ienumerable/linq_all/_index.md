@@ -1,12 +1,12 @@
 ---
-title: LINQ_All
+title: LINQ_All()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether all elements of a sequence satisfy a condition.
 type: docs
 weight: 118
 url: /cpp/system.collections.generic/ienumerable/linq_all/
 ---
-## IEnumerable::LINQ_All method
+## IEnumerable::LINQ_All(std::function\<**bool**(T)>) method
 
 
 Determines whether all elements of a sequence satisfy a condition.

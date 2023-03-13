@@ -1,12 +1,12 @@
 ---
-title: get_Controls
+title: get_Controls()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of ActiveX controls on a slide. Read-only IControlCollection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/baseslide/get_controls/
 ---
-## BaseSlide::get_Controls method
+## BaseSlide::get_Controls() method
 
 
 Returns the collection of ActiveX controls on a slide. Read-only [IControlCollection](../../icontrolcollection/).

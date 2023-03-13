@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the height of a title as a fraction of the height of the chart. Read float.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/datalabel/get_height/
 ---
-## DataLabel::get_Height method
+## DataLabel::get_Height() method
 
 
 Returns the height of a title as a fraction of the height of the chart. Read **float**.

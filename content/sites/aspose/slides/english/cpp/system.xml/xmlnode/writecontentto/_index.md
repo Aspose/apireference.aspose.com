@@ -1,12 +1,12 @@
 ---
-title: WriteContentTo
+title: WriteContentTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves all the child nodes of the node to the specified XmlWriter, when overridden in a derived class.
 type: docs
 weight: 534
 url: /cpp/system.xml/xmlnode/writecontentto/
 ---
-## XmlNode::WriteContentTo method
+## XmlNode::WriteContentTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
 
 
 Saves all the child nodes of the node to the specified [XmlWriter](../../xmlwriter/), when overridden in a derived class.

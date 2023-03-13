@@ -1,12 +1,12 @@
 ---
-title: get_IdleSince
+title: get_IdleSince()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a date and time of the latest connection to a host.
 type: docs
 weight: 170
 url: /cpp/system.net/servicepoint/get_idlesince/
 ---
-## ServicePoint::get_IdleSince method
+## ServicePoint::get_IdleSince() method
 
 
 Returns a date and time of the latest connection to a host.

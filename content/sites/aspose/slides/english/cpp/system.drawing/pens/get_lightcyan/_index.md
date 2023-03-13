@@ -1,12 +1,12 @@
 ---
-title: get_LightCyan
+title: get_LightCyan()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFE0FFFF.
 type: docs
 weight: 859
 url: /cpp/system.drawing/pens/get_lightcyan/
 ---
-## Pens::get_LightCyan method
+## Pens::get_LightCyan() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFE0FFFF.

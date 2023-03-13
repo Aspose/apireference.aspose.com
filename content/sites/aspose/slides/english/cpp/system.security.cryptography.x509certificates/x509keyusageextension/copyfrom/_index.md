@@ -1,12 +1,12 @@
 ---
-title: CopyFrom
+title: CopyFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies extension data from other object.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.x509certificates/x509keyusageextension/copyfrom/
 ---
-## X509KeyUsageExtension::CopyFrom method
+## X509KeyUsageExtension::CopyFrom(const [SharedPtr](../../../system/sharedptr/)\<[AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)\>\&) method
 
 
 Copies extension data from other object.

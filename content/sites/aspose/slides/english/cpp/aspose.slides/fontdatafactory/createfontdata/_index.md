@@ -1,12 +1,12 @@
 ---
-title: CreateFontData
+title: CreateFontData()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates FontData with specified font name.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/fontdatafactory/createfontdata/
 ---
-## FontDataFactory::CreateFontData method
+## FontDataFactory::CreateFontData([System::String](../../../system/string/)) method
 
 
 Creates [FontData](../../fontdata/) with specified font name.

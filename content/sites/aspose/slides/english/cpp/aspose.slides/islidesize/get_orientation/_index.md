@@ -1,12 +1,12 @@
 ---
-title: get_Orientation
+title: get_Orientation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the slide orientation.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/islidesize/get_orientation/
 ---
-## ISlideSize::get_Orientation method
+## ISlideSize::get_Orientation() method
 
 
 Returns the slide orientation.

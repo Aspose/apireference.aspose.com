@@ -1,12 +1,12 @@
 ---
-title: GetChildRows
+title: GetChildRows()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets rows which are considered child through specified relation.
 type: docs
 weight: 27
 url: /cpp/system.data/datarow/getchildrows/
 ---
-## DataRow::GetChildRows method
+## DataRow::GetChildRows(const [System::SharedPtr](../../../system/sharedptr/)\<[System::Data::DataRelation](../../datarelation/)\>\&) method
 
 
 Gets rows which are considered child through specified relation.

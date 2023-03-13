@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: If category exists in collection, return it. Else creates new chart category from IChartDataCell and adds it to the collection.
 type: docs

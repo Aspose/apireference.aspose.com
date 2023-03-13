@@ -1,12 +1,12 @@
 ---
-title: get_Size
+title: get_Size()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets an approximate file size.
 type: docs
 weight: 196
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_size/
 ---
-## ContentDispositionHeaderValue::get_Size method
+## ContentDispositionHeaderValue::get_Size() method
 
 
 Gets an approximate file size.

@@ -1,12 +1,12 @@
 ---
-title: get_Final
+title: get_Final()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the final attribute of the type derivation that indicates if further derivations are allowed.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschematype/get_final/
 ---
-## XmlSchemaType::get_Final method
+## XmlSchemaType::get_Final() method
 
 
 Returns the final attribute of the type derivation that indicates if further derivations are allowed.

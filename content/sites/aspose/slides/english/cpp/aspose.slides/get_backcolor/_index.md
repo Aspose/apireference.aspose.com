@@ -1,12 +1,12 @@
 ---
-title: get_BackColor
+title: get_BackColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the background pattern color. Read-only IColorFormat.
 type: docs
 weight: 5513
 url: /cpp/aspose.slides/get_backcolor/
 ---
-## Aspose::Slides::get_BackColor function
+## Aspose::Slides::get_BackColor() function
 
 
 Returns the background pattern color. Read-only [IColorFormat](../icolorformat/).

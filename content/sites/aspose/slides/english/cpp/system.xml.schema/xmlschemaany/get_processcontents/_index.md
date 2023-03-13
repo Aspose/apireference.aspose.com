@@ -1,12 +1,12 @@
 ---
-title: get_ProcessContents
+title: get_ProcessContents()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns information about how an application or XML processor should handle the validation of XML documents for the elements specified by the any element.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemaany/get_processcontents/
 ---
-## XmlSchemaAny::get_ProcessContents method
+## XmlSchemaAny::get_ProcessContents() method
 
 
 Returns information about how an application or XML processor should handle the validation of XML documents for the elements specified by the **any** element.

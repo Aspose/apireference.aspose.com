@@ -1,12 +1,12 @@
 ---
-title: set_Credentials
+title: set_Credentials()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, sets the credentials used to authenticate web requests.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmlresolver/set_credentials/
 ---
-## XmlResolver::set_Credentials method
+## XmlResolver::set_Credentials([SharedPtr](../../../system/sharedptr/)\<[Net::ICredentials](../../../system.net/icredentials/)\>) method
 
 
 When overridden in a derived class, sets the credentials used to authenticate web requests.

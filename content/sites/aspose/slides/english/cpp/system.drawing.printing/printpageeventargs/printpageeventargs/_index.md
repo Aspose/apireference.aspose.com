@@ -1,12 +1,12 @@
 ---
-title: PrintPageEventArgs
+title: PrintPageEventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of PrintPageEventArgs class.
 type: docs
 weight: 1
 url: /cpp/system.drawing.printing/printpageeventargs/printpageeventargs/
 ---
-## PrintPageEventArgs::PrintPageEventArgs constructor
+## PrintPageEventArgs::PrintPageEventArgs(const [SharedPtr](../../../system/sharedptr/)\<[Graphics](../../../system.drawing/graphics/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[Rectangle](../../../system.drawing/rectangle/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[Rectangle](../../../system.drawing/rectangle/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[PageSettings](../../pagesettings/)\>\&) constructor
 
 
 Constructs a new instance of [PrintPageEventArgs](../) class.

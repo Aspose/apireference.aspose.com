@@ -1,12 +1,12 @@
 ---
-title: GetTotalMemory
+title: GetTotalMemory()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of bytes of private memory currently allocated by the current process.
 type: docs
 weight: 1
 url: /cpp/system/gc/gettotalmemory/
 ---
-## GC::GetTotalMemory method
+## GC::GetTotalMemory(**bool**) method
 
 
 Returns the number of bytes of private memory currently allocated by the current process.

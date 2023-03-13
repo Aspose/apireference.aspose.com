@@ -1,12 +1,12 @@
 ---
-title: get_Form
+title: get_Form()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the form for the attribute.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaattribute/get_form/
 ---
-## XmlSchemaAttribute::get_Form method
+## XmlSchemaAttribute::get_Form() method
 
 
 Returns the form for the attribute.

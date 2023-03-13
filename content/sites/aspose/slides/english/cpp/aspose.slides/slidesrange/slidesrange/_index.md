@@ -1,12 +1,12 @@
 ---
-title: SlidesRange
+title: SlidesRange()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/aspose.slides/slidesrange/slidesrange/
 ---
-## SlidesRange::SlidesRange constructor
+## SlidesRange::SlidesRange() constructor
 
 
 

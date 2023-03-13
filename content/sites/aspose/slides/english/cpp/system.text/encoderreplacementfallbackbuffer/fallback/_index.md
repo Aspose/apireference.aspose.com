@@ -1,5 +1,5 @@
 ---
-title: Fallback
+title: Fallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Handles encoding failure.
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: AddRectangles
+title: AddRectangles()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified series of rectangles to the path represented by the current object.
 type: docs

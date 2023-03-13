@@ -1,12 +1,12 @@
 ---
-title: CreateInnerShadow
+title: CreateInnerShadow()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Inner shafow effect.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/ieffectfactory/createinnershadow/
 ---
-## IEffectFactory::CreateInnerShadow method
+## IEffectFactory::CreateInnerShadow() method
 
 
 Creates Inner shafow effect.

@@ -1,5 +1,5 @@
 ---
-title: GetHeight
+title: GetHeight()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line spacing of the font represented by the current object, in the current unit of a specified Graphics object.
 type: docs

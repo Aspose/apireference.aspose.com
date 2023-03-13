@@ -1,12 +1,12 @@
 ---
-title: EndPixelProcessing
+title: EndPixelProcessing()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables pixel processing mode.
 type: docs
 weight: 261
 url: /cpp/system.drawing/bitmap/endpixelprocessing/
 ---
-## Bitmap::EndPixelProcessing method
+## Bitmap::EndPixelProcessing(**bool**) method
 
 
 Disables pixel processing mode.

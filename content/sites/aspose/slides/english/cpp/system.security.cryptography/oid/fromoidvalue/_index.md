@@ -1,12 +1,12 @@
 ---
-title: FromOidValue
+title: FromOidValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Create OID object from the specified OID value.
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography/oid/fromoidvalue/
 ---
-## Oid::FromOidValue method
+## Oid::FromOidValue(const [String](../../../system/string/)\&, [OidGroup](../../oidgroup/)) method
 
 
 Create OID object from the specified OID value.

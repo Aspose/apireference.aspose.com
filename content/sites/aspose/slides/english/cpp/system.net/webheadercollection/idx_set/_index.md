@@ -1,5 +1,5 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the header value of the specified header.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Item
+title: Item()
 second_title: Aspose.Slides for C++ API Reference
 description: Retrieves a node at the given index.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlnodelist/item/
 ---
-## XmlNodeList::Item method
+## XmlNodeList::Item(**int32_t**) method
 
 
 Retrieves a node at the given index.

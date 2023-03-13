@@ -1,12 +1,12 @@
 ---
-title: SetHeaderAndChildHeadersText
+title: SetHeaderAndChildHeadersText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets text to master notes slide header placeholder and all child header placeholders. Child placeholders mean placeholders are contained on depending notes slides. Depending notes slides use and depend on master notes slide.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/masternotesslideheaderfootermanager/setheaderandchildheaderstext/
 ---
-## MasterNotesSlideHeaderFooterManager::SetHeaderAndChildHeadersText method
+## MasterNotesSlideHeaderFooterManager::SetHeaderAndChildHeadersText([System::String](../../../system/string/)) method
 
 
 Sets text to master notes slide header placeholder and all child header placeholders. Child placeholders mean placeholders are contained on depending notes slides. Depending notes slides use and depend on master notes slide.

@@ -1,12 +1,12 @@
 ---
-title: GetLineStyles
+title: GetLineStyles()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of theme defined line styles.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.theme/iformatschemeeffectivedata/getlinestyles/
 ---
-## IFormatSchemeEffectiveData::GetLineStyles method
+## IFormatSchemeEffectiveData::GetLineStyles([System::Drawing::Color](../../../system.drawing/color/)) method
 
 
 Returns a collection of theme defined line styles.

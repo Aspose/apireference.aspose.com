@@ -1,5 +1,5 @@
 ---
-title: ReplaceImage
+title: ReplaceImage()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces image data.
 type: docs

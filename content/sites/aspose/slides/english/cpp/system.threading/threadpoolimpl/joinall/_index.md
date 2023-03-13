@@ -1,12 +1,12 @@
 ---
-title: JoinAll
+title: JoinAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Joins all owned threads. Waits infinitely.
 type: docs
 weight: 105
 url: /cpp/system.threading/threadpoolimpl/joinall/
 ---
-## ThreadPoolImpl::JoinAll method
+## ThreadPoolImpl::JoinAll() method
 
 
 Joins all owned threads. Waits infinitely.

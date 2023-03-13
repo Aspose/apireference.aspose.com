@@ -1,12 +1,12 @@
 ---
-title: get_FullName
+title: get_FullName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the full name (including path) of the entity represented by the current object.
 type: docs
 weight: 209
 url: /cpp/system.io/filesysteminfo/get_fullname/
 ---
-## FileSystemInfo::get_FullName method
+## FileSystemInfo::get_FullName() method
 
 
 Returns the full name (including path) of the entity represented by the current object.

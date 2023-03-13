@@ -1,12 +1,12 @@
 ---
-title: IsDerivedFrom
+title: IsDerivedFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: This method always returns false.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemadatatype/isderivedfrom/
 ---
-## XmlSchemaDatatype::IsDerivedFrom method
+## XmlSchemaDatatype::IsDerivedFrom([SharedPtr](../../../system/sharedptr/)\<[XmlSchemaDatatype](../)\>) method
 
 
 This method always returns **false**.

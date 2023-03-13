@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the font scheme name. Read System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.theme/fontscheme/get_name/
 ---
-## FontScheme::get_Name method
+## FontScheme::get_Name() method
 
 
 Returns the font scheme name. Read [System::String](../../../system/string/).

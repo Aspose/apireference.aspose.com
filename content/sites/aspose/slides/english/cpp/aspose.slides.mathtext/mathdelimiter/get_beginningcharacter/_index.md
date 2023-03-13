@@ -1,12 +1,12 @@
 ---
-title: get_BeginningCharacter
+title: get_BeginningCharacter()
 second_title: Aspose.Slides for C++ API Reference
 description: "Delimiter Beginning Character specifies the beginning, or opening, delimiter character. Mathematical delimiters are enclosing characters such as parentheses, brackets, and braces. The default: '('."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathdelimiter/get_beginningcharacter/
 ---
-## MathDelimiter::get_BeginningCharacter method
+## MathDelimiter::get_BeginningCharacter() method
 
 
 Delimiter Beginning Character specifies the beginning, or opening, delimiter character. Mathematical delimiters are enclosing characters such as parentheses, brackets, and braces. The default: '('.

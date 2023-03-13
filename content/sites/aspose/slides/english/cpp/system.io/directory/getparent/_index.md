@@ -1,12 +1,12 @@
 ---
-title: GetParent
+title: GetParent()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shared pointer to DirectoryInfo object representing the parent directory of the specified entity.
 type: docs
 weight: 313
 url: /cpp/system.io/directory/getparent/
 ---
-## Directory::GetParent method
+## Directory::GetParent(const [String](../../../system/string/)\&) method
 
 
 Returns a shared pointer to [DirectoryInfo](../../directoryinfo/) object representing the parent directory of the specified entity.

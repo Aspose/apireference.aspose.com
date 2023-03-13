@@ -1,15 +1,15 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
-description: Adds the new reference to references collection.
+description: Adds the new reference to references collection
 type: docs
 weight: 40
 url: /cpp/aspose.slides.vba/vbareferencecollection/add/
 ---
-## VbaReferenceCollection::Add method
+## VbaReferenceCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IVbaReference](../../ivbareference/)\>) method
 
 
-Adds the new reference to references collection.
+Adds the new reference to references collection
 
 ```cpp
 void Aspose::Slides::Vba::VbaReferenceCollection::Add(System::SharedPtr<IVbaReference> value) override

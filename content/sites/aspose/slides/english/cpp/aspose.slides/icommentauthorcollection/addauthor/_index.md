@@ -1,12 +1,12 @@
 ---
-title: AddAuthor
+title: AddAuthor()
 second_title: Aspose.Slides for C++ API Reference
 description: Add new author at the end of a collection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/icommentauthorcollection/addauthor/
 ---
-## ICommentAuthorCollection::AddAuthor method
+## ICommentAuthorCollection::AddAuthor([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Add new author at the end of a collection.

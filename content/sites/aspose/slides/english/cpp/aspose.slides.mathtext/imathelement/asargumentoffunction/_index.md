@@ -1,7 +1,7 @@
 ---
-title: AsArgumentOfFunction
+title: AsArgumentOfFunction()
 second_title: Aspose.Slides for C++ API Reference
-description: Takes specified function using this instance as the argument.
+description: Takes specified function using this instance as the argument
 type: docs
 weight: 66
 url: /cpp/aspose.slides.mathtext/imathelement/asargumentoffunction/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathelement/asargumentoffunction/
 ## IMathElement::AsArgumentOfFunction([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>) method
 
 
-Takes specified function using this instance as the argument.
+Takes specified function using this instance as the argument
 
 ```cpp
 virtual System::SharedPtr<IMathFunction> Aspose::Slides::MathText::IMathElement::AsArgumentOfFunction(System::SharedPtr<IMathElement> functionName)=0
@@ -47,7 +47,7 @@ auto func = functionArg->AsArgumentOfFunction(functionName);
 ## IMathElement::AsArgumentOfFunction([System::String](../../../system/string/)) method
 
 
-Takes specified function using this instance as the argument.
+Takes specified function using this instance as the argument
 
 ```cpp
 virtual System::SharedPtr<IMathFunction> Aspose::Slides::MathText::IMathElement::AsArgumentOfFunction(System::String functionName)=0
@@ -84,7 +84,7 @@ auto func = functionArg->AsArgumentOfFunction(u"cos");
 ## IMathElement::AsArgumentOfFunction([MathFunctionsOfOneArgument](../../mathfunctionsofoneargument/)) method
 
 
-Takes specified function using this instance as the argument.
+Takes specified function using this instance as the argument
 
 ```cpp
 virtual System::SharedPtr<IMathFunction> Aspose::Slides::MathText::IMathElement::AsArgumentOfFunction(MathFunctionsOfOneArgument functionType)=0
@@ -121,7 +121,7 @@ auto func = functionArg->AsArgumentOfFunction(Aspose::Slides::MathText::MathFunc
 ## IMathElement::AsArgumentOfFunction([MathFunctionsOfTwoArguments](../../mathfunctionsoftwoarguments/), [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>) method
 
 
-Takes specified function using this instance as the argument and specified additional argument.
+Takes specified function using this instance as the argument and specified additional argument
 
 ```cpp
 virtual System::SharedPtr<IMathFunction> Aspose::Slides::MathText::IMathElement::AsArgumentOfFunction(MathFunctionsOfTwoArguments functionType, System::SharedPtr<IMathElement> additionalArgument)=0
@@ -162,7 +162,7 @@ auto func = functionArg->AsArgumentOfFunction(Aspose::Slides::MathText::MathFunc
 ## IMathElement::AsArgumentOfFunction([MathFunctionsOfTwoArguments](../../mathfunctionsoftwoarguments/), [System::String](../../../system/string/)) method
 
 
-Takes specified function using this instance as the argument and specified additional argument.
+Takes specified function using this instance as the argument and specified additional argument
 
 ```cpp
 virtual System::SharedPtr<IMathFunction> Aspose::Slides::MathText::IMathElement::AsArgumentOfFunction(MathFunctionsOfTwoArguments functionType, System::String additionalArgument)=0

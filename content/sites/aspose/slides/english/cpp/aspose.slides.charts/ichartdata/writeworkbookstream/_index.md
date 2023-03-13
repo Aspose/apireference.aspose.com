@@ -1,12 +1,12 @@
 ---
-title: WriteWorkbookStream
+title: WriteWorkbookStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes the internally contained Excel workbook with user-specified value.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/ichartdata/writeworkbookstream/
 ---
-## IChartData::WriteWorkbookStream method
+## IChartData::WriteWorkbookStream([System::SharedPtr](../../../system/sharedptr/)\<[System::IO::MemoryStream](../../../system.io/memorystream/)\>) method
 
 
 Initializes the internally contained Excel workbook with user-specified value.

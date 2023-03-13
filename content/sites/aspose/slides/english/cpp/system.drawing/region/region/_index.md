@@ -1,5 +1,5 @@
 ---
-title: Region
+title: Region()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of Region class.
 type: docs

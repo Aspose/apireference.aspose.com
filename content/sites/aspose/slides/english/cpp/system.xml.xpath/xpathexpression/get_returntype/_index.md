@@ -1,12 +1,12 @@
 ---
-title: get_ReturnType
+title: get_ReturnType()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the result type of the XPath expression.
 type: docs
 weight: 14
 url: /cpp/system.xml.xpath/xpathexpression/get_returntype/
 ---
-## XPathExpression::get_ReturnType method
+## XPathExpression::get_ReturnType() method
 
 
 When overridden in a derived class, gets the result type of the [XPath](../../) expression.

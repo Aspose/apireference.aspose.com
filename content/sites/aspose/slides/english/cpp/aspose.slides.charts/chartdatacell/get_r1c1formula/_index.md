@@ -1,12 +1,12 @@
 ---
-title: get_R1C1Formula
+title: get_R1C1Formula()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the formula in R1C1-style.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/chartdatacell/get_r1c1formula/
 ---
-## ChartDataCell::get_R1C1Formula method
+## ChartDataCell::get_R1C1Formula() method
 
 
 Gets the formula in R1C1-style.

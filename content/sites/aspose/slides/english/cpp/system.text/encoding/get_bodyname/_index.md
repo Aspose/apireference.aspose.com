@@ -1,12 +1,12 @@
 ---
-title: get_BodyName
+title: get_BodyName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets mail agent body compatible encoding name.
 type: docs
 weight: 66
 url: /cpp/system.text/encoding/get_bodyname/
 ---
-## Encoding::get_BodyName method
+## Encoding::get_BodyName() method
 
 
 Gets mail agent body compatible encoding name.

@@ -1,12 +1,12 @@
 ---
-title: get_Now
+title: get_Now()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets DateTimeOffset whose date and time are set to the current local-time and whose offset is set to local time's offset.
 type: docs
 weight: 638
 url: /cpp/system/datetimeoffset/get_now/
 ---
-## DateTimeOffset::get_Now method
+## DateTimeOffset::get_Now() method
 
 
 Gets [DateTimeOffset](../) whose date and time are set to the current local-time and whose offset is set to local time's offset.

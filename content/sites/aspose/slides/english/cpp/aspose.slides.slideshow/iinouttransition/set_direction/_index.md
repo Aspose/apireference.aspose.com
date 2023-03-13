@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of a transition effect. Write TransitionInOutDirectionType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/iinouttransition/set_direction/
 ---
-## IInOutTransition::set_Direction method
+## IInOutTransition::set_Direction([TransitionInOutDirectionType](../../transitioninoutdirectiontype/)) method
 
 
 Direction of a transition effect. Write [TransitionInOutDirectionType](../../transitioninoutdirectiontype/).

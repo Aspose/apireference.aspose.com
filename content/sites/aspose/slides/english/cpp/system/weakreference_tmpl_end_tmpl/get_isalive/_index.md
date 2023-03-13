@@ -1,12 +1,12 @@
 ---
-title: get_IsAlive
+title: get_IsAlive()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets an indication whether the object referenced by the current WeakReference object has been deleted.
 type: docs
 weight: 40
 url: /cpp/system/weakreference_tmpl_end_tmpl/get_isalive/
 ---
-## WeakReference<>::get_IsAlive method
+## WeakReference<>::get_IsAlive() const method
 
 
 Gets an indication whether the object referenced by the current WeakReference object has been deleted.

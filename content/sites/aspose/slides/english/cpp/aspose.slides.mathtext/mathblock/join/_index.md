@@ -1,7 +1,7 @@
 ---
-title: Join
+title: Join()
 second_title: Aspose.Slides for C++ API Reference
-description: Joins a mathematical element with this mathematical block.
+description: Joins a mathematical element with this mathematical block
 type: docs
 weight: 183
 url: /cpp/aspose.slides.mathtext/mathblock/join/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathblock/join/
 ## MathBlock::Join([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Joins a mathematical element with this mathematical block.
+Joins a mathematical element with this mathematical block
 
 ```cpp
 System::SharedPtr<IMathBlock> Aspose::Slides::MathText::MathBlock::Join(System::SharedPtr<IMathElement> mathElement) override
@@ -47,7 +47,7 @@ auto block = element1->Join(element2);
 ## MathBlock::Join([System::String](../../../system/string/)) method
 
 
-Joins a mathematical text with this mathematical block.
+Joins a mathematical text with this mathematical block
 
 ```cpp
 System::SharedPtr<IMathBlock> Aspose::Slides::MathText::MathBlock::Join(System::String mathText) override

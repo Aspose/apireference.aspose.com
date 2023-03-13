@@ -1,12 +1,12 @@
 ---
-title: get_AsLiteralString
+title: get_AsLiteralString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the literal string if DataSourceType property is DataSourceType::StringLiterals. Read System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/istringordoublechartvalue/get_asliteralstring/
 ---
-## IStringOrDoubleChartValue::get_AsLiteralString method
+## IStringOrDoubleChartValue::get_AsLiteralString() method
 
 
 Returns the literal string if DataSourceType property is [DataSourceType::StringLiterals](../../datasourcetype/). Read [System::String](../../../system/string/).

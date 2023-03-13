@@ -1,12 +1,12 @@
 ---
-title: get_Smooth
+title: get_Smooth()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents curve smoothing. True if curve smoothing is turned on for the line chart or scatter chart. Applies only to line and scatter connected by lines charts. Read bool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/chartseries/get_smooth/
 ---
-## ChartSeries::get_Smooth method
+## ChartSeries::get_Smooth() method
 
 
 Represents curve smoothing. True if curve smoothing is turned on for the line chart or scatter chart. Applies only to line and scatter connected by lines charts. Read **bool**.

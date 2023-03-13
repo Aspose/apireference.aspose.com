@@ -1,12 +1,12 @@
 ---
-title: set_Key
+title: set_Key()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.xml/dsakeyvalue/set_key/
 ---
-## DSAKeyValue::set_Key method
+## DSAKeyValue::set_Key([SharedPtr](../../../system/sharedptr/)\<[DSA](../../../system.security.cryptography/dsa/)\>) method
 
 
 

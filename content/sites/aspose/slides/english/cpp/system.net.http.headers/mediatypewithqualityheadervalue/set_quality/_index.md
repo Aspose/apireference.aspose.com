@@ -1,12 +1,12 @@
 ---
-title: set_Quality
+title: set_Quality()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a quality value.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/mediatypewithqualityheadervalue/set_quality/
 ---
-## MediaTypeWithQualityHeaderValue::set_Quality method
+## MediaTypeWithQualityHeaderValue::set_Quality([Nullable](../../../system/nullable/)\<**double**\>) method
 
 
 Sets a quality value.

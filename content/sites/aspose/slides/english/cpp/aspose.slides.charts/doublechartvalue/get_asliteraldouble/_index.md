@@ -1,12 +1,12 @@
 ---
-title: get_AsLiteralDouble
+title: get_AsLiteralDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns value as literal double. Read double.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/doublechartvalue/get_asliteraldouble/
 ---
-## DoubleChartValue::get_AsLiteralDouble method
+## DoubleChartValue::get_AsLiteralDouble() method
 
 
 Returns value as literal double. Read **double**.

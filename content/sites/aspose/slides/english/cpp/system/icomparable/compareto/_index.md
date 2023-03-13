@@ -1,12 +1,12 @@
 ---
-title: CompareTo
+title: CompareTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares the current object with the specified object.
 type: docs
 weight: 1
 url: /cpp/system/icomparable/compareto/
 ---
-## IComparable::CompareTo method
+## IComparable::CompareTo(T) method
 
 
 Compares the current object with the specified object.

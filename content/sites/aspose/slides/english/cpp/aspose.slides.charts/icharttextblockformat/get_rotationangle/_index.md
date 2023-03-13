@@ -1,12 +1,12 @@
 ---
-title: get_RotationAngle
+title: get_RotationAngle()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the custom rotation that is being applied to the text within the bounding box. If it not specified, the rotation of the accompanying shape is used. If it is specified, then this is applied independently from the shape. That is the shape can have a rotation applied in addition to the text itself having a rotation applied to it. The resulted value of visual text rotation summarized from this property and predefined vertical type in property TextVerticalType. Read float.
 type: docs
 weight: 235
 url: /cpp/aspose.slides.charts/icharttextblockformat/get_rotationangle/
 ---
-## IChartTextBlockFormat::get_RotationAngle method
+## IChartTextBlockFormat::get_RotationAngle() method
 
 
 Specifies the custom rotation that is being applied to the text within the bounding box. If it not specified, the rotation of the accompanying shape is used. If it is specified, then this is applied independently from the shape. That is the shape can have a rotation applied in addition to the text itself having a rotation applied to it. The resulted value of visual text rotation summarized from this property and predefined vertical type in property TextVerticalType. Read **float**.

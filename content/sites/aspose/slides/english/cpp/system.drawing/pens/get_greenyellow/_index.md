@@ -1,12 +1,12 @@
 ---
-title: get_GreenYellow
+title: get_GreenYellow()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFADFF2F.
 type: docs
 weight: 690
 url: /cpp/system.drawing/pens/get_greenyellow/
 ---
-## Pens::get_GreenYellow method
+## Pens::get_GreenYellow() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFADFF2F.

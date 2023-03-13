@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copy to specified array.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/customxmlpartcollection/copyto/
 ---
-## CustomXmlPartCollection::CopyTo method
+## CustomXmlPartCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[ICustomXmlPart](../../icustomxmlpart/)\>\>, **int32_t**) method
 
 
 Copy to specified array.

@@ -1,12 +1,12 @@
 ---
-title: GetDayOfMonth
+title: GetDayOfMonth()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets day of month for the specified time point.
 type: docs
 weight: 170
 url: /cpp/system.globalization/koreancalendar/getdayofmonth/
 ---
-## KoreanCalendar::GetDayOfMonth method
+## KoreanCalendar::GetDayOfMonth([DateTime](../../../system/datetime/)) const method
 
 
 Gets day of month for the specified time point.

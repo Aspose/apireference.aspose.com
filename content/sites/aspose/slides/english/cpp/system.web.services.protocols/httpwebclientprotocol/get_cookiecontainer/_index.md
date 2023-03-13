@@ -1,12 +1,12 @@
 ---
-title: get_CookieContainer
+title: get_CookieContainer()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a container that is used to store cookies.
 type: docs
 weight: 40
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/get_cookiecontainer/
 ---
-## HttpWebClientProtocol::get_CookieContainer method
+## HttpWebClientProtocol::get_CookieContainer() method
 
 
 Gets a container that is used to store cookies.

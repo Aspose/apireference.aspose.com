@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an enumerator to use to iterate through the namespaces in the XmlNamespaceManager.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlnamespacemanager/getenumerator/
 ---
-## XmlNamespaceManager::GetEnumerator method
+## XmlNamespaceManager::GetEnumerator() method
 
 
 Returns an enumerator to use to iterate through the namespaces in the [XmlNamespaceManager](../).

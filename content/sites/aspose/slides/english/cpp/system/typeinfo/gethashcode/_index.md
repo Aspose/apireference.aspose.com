@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hash code associated with this instance.
 type: docs
 weight: 391
 url: /cpp/system/typeinfo/gethashcode/
 ---
-## TypeInfo::GetHashCode method
+## TypeInfo::GetHashCode() const method
 
 
 Returns a hash code associated with this instance.

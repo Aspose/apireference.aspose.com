@@ -1,5 +1,5 @@
 ---
-title: NetworkToHostOrder
+title: NetworkToHostOrder()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified network byte order to the corresponding host byte order.
 type: docs

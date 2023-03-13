@@ -1,12 +1,12 @@
 ---
-title: get_FillFormat
+title: get_FillFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a cell fill properties object. Read-only IFillFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/icellformat/get_fillformat/
 ---
-## ICellFormat::get_FillFormat method
+## ICellFormat::get_FillFormat() method
 
 
 Returns a cell fill properties object. Read-only [IFillFormat](../../ifillformat/).

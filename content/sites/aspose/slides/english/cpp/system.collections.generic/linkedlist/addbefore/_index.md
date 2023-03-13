@@ -1,5 +1,5 @@
 ---
-title: AddBefore
+title: AddBefore()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element before node of the list.
 type: docs

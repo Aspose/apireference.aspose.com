@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a number of properties in the collection. Read-only int32_t.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/controlpropertiescollection/get_count/
 ---
-## ControlPropertiesCollection::get_Count method
+## ControlPropertiesCollection::get_Count() method
 
 
 Returns a number of properties in the collection. Read-only **int32_t**.

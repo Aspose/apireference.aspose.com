@@ -1,12 +1,12 @@
 ---
-title: get_MediumSlateBlue
+title: get_MediumSlateBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF7B68EE.
 type: docs
 weight: 1119
 url: /cpp/system.drawing/brushes/get_mediumslateblue/
 ---
-## Brushes::get_MediumSlateBlue method
+## Brushes::get_MediumSlateBlue() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF7B68EE.

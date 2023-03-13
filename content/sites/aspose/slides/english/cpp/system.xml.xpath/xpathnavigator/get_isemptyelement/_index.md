@@ -1,12 +1,12 @@
 ---
-title: get_IsEmptyElement
+title: get_IsEmptyElement()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets a value that indicates whether the current node is an empty element without an end element tag.
 type: docs
 weight: 209
 url: /cpp/system.xml.xpath/xpathnavigator/get_isemptyelement/
 ---
-## XPathNavigator::get_IsEmptyElement method
+## XPathNavigator::get_IsEmptyElement() method
 
 
 When overridden in a derived class, gets a value that indicates whether the current node is an empty element without an end element tag.

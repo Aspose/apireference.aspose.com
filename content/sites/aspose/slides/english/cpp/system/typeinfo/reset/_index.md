@@ -1,12 +1,12 @@
 ---
-title: reset
+title: reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets TypeInfo to null.
 type: docs
 weight: 599
 url: /cpp/system/typeinfo/reset/
 ---
-## TypeInfo::reset method
+## TypeInfo::reset() method
 
 
 Sets [TypeInfo](../) to null.

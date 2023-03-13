@@ -1,12 +1,12 @@
 ---
-title: SetOutputChannelColorProfile
+title: SetOutputChannelColorProfile()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 235
 url: /cpp/system.drawing.imaging/imageattributes/setoutputchannelcolorprofile/
 ---
-## ImageAttributes::SetOutputChannelColorProfile method
+## ImageAttributes::SetOutputChannelColorProfile(const [String](../../../system/string/)\&, [ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

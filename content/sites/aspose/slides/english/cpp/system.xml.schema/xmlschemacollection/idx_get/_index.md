@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchema associated with the given namespace URI.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemacollection/idx_get/
 ---
-## XmlSchemaCollection::idx_get method
+## XmlSchemaCollection::idx_get(const [String](../../../system/string/)\&) method
 
 
 Returns the [XmlSchema](../../xmlschema/) associated with the given namespace URI.

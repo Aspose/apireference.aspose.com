@@ -1,12 +1,12 @@
 ---
-title: set_Value
+title: set_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the value of a cell. Write System::Object."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/chartdatacell/set_value/
 ---
-## ChartDataCell::set_Value method
+## ChartDataCell::set_Value([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Sets the value of a cell. Write [System::Object](../../../system/object/).

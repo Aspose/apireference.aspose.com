@@ -1,12 +1,12 @@
 ---
-title: get_MatchTimeout
+title: get_MatchTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets matching timeout.
 type: docs
 weight: 14
 url: /cpp/system.text.regularexpressions/regex/get_matchtimeout/
 ---
-## Regex::get_MatchTimeout method
+## Regex::get_MatchTimeout() method
 
 
 Gets matching timeout.

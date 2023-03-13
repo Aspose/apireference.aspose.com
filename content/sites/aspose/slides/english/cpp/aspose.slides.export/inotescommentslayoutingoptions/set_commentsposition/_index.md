@@ -1,12 +1,12 @@
 ---
-title: set_CommentsPosition
+title: set_CommentsPosition()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the position of the comments on the page.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.export/inotescommentslayoutingoptions/set_commentsposition/
 ---
-## INotesCommentsLayoutingOptions::set_CommentsPosition method
+## INotesCommentsLayoutingOptions::set_CommentsPosition([CommentsPositions](../../commentspositions/)) method
 
 
 Sets the position of the comments on the page.

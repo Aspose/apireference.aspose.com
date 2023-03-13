@@ -1,12 +1,12 @@
 ---
-title: EscapeDataString
+title: EscapeDataString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a string to its escaped representation.
 type: docs
 weight: 573
 url: /cpp/system/uri/escapedatastring/
 ---
-## Uri::EscapeDataString method
+## Uri::EscapeDataString(const [String](../../string/)\&) method
 
 
 Converts a string to its escaped representation.

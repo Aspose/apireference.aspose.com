@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: "Adds a prefix and namespace pair to an Serialization::XmlSerializerNamespaces object."
 type: docs
 weight: 66
 url: /cpp/system.xml.serialization/xmlserializernamespaces/add/
 ---
-## XmlSerializerNamespaces::Add method
+## XmlSerializerNamespaces::Add(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Adds a prefix and namespace pair to an [Serialization::XmlSerializerNamespaces](../) object.

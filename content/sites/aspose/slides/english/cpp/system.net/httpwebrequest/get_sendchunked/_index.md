@@ -1,12 +1,12 @@
 ---
-title: get_SendChunked
+title: get_SendChunked()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if data must be sent in segments.
 type: docs
 weight: 521
 url: /cpp/system.net/httpwebrequest/get_sendchunked/
 ---
-## HttpWebRequest::get_SendChunked method
+## HttpWebRequest::get_SendChunked() method
 
 
 Gets a value that indicates if data must be sent in segments.

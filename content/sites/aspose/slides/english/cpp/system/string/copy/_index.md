@@ -1,12 +1,12 @@
 ---
-title: Copy
+title: Copy()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates string copy.
 type: docs
 weight: 833
 url: /cpp/system/string/copy/
 ---
-## String::Copy method
+## String::Copy(const [String](../)\&) method
 
 
 Creates string copy.

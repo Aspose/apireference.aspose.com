@@ -1,12 +1,12 @@
 ---
-title: get_AddressFamily
+title: get_AddressFamily()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the address family.
 type: docs
 weight: 1
 url: /cpp/system.net/ipaddress/get_addressfamily/
 ---
-## IPAddress::get_AddressFamily method
+## IPAddress::get_AddressFamily() method
 
 
 Returns the address family.

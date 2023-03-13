@@ -1,12 +1,12 @@
 ---
-title: get_Rows
+title: get_Rows()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collectoin of rows. Read-only IRowCollection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/itable/get_rows/
 ---
-## ITable::get_Rows method
+## ITable::get_Rows() method
 
 
 Returns the collectoin of rows. Read-only [IRowCollection](../../irowcollection/).

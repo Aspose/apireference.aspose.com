@@ -1,12 +1,12 @@
 ---
-title: get_GradientDirection
+title: get_GradientDirection()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the style of a gradient. Read-only Slides::GradientDirection."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/igradientformateffectivedata/get_gradientdirection/
 ---
-## IGradientFormatEffectiveData::get_GradientDirection method
+## IGradientFormatEffectiveData::get_GradientDirection() method
 
 
 Returns the style of a gradient. Read-only [Slides::GradientDirection](../../gradientdirection/).

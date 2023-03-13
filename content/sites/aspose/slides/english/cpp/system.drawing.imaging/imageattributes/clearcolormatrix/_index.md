@@ -1,12 +1,12 @@
 ---
-title: ClearColorMatrix
+title: ClearColorMatrix()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 40
 url: /cpp/system.drawing.imaging/imageattributes/clearcolormatrix/
 ---
-## ImageAttributes::ClearColorMatrix method
+## ImageAttributes::ClearColorMatrix([ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

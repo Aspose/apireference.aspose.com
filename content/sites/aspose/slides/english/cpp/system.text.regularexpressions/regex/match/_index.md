@@ -1,5 +1,5 @@
 ---
-title: Match
+title: Match()
 second_title: Aspose.Slides for C++ API Reference
 description: Matches regex against string.
 type: docs

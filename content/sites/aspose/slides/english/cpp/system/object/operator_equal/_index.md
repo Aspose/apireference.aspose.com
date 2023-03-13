@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: Assignment operator. Doesn't copy anything, really, just initializes new object and enables copy constructing subclasses.
 type: docs
 weight: 27
 url: /cpp/system/object/operator_equal/
 ---
-## Object::operator= method
+## Object::operator=([Object](../) const\&) method
 
 
 Assignment operator. Doesn't copy anything, really, just initializes new object and enables copy constructing subclasses.

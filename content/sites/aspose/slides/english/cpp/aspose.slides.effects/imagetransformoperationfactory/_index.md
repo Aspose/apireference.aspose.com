@@ -1,7 +1,7 @@
 ---
 title: ImageTransformOperationFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create image transform operations.
+description: Allows to create image transform operations
 type: docs
 weight: 820
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.effects/imagetransformoperationfactory/
 ## ImageTransformOperationFactory class
 
 
-Allows to create image transform operations.
+Allows to create image transform operations
 
 ```cpp
 class ImageTransformOperationFactory : public Aspose::Slides::Effects::IImageTransformOperationFactory

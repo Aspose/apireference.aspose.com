@@ -1,12 +1,12 @@
 ---
-title: get_Variety
+title: get_Variety()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchemaDatatypeVariety value for the simple type.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemadatatype/get_variety/
 ---
-## XmlSchemaDatatype::get_Variety method
+## XmlSchemaDatatype::get_Variety() method
 
 
 Returns the XmlSchemaDatatypeVariety value for the simple type.

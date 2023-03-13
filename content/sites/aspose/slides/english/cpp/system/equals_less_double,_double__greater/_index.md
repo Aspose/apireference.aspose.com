@@ -1,12 +1,12 @@
 ---
-title: Equals< double, double >
+title: Equals< double, double >()
 second_title: Aspose.Slides for C++ API Reference
 description: Specialization for double-precision floating point values.
 type: docs
 weight: 2315
 url: /cpp/system/equals_less_double,_double__greater/
 ---
-## System::Equals< double, double > function
+## System::Equals< double, double >(const **double**\&, const **double**\&) function
 
 
 Specialization for double-precision floating point values.

@@ -1,12 +1,12 @@
 ---
-title: get_CurrencyPositivePattern
+title: get_CurrencyPositivePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets currency positive pattern.
 type: docs
 weight: 378
 url: /cpp/system.globalization/numberformatinfo/get_currencypositivepattern/
 ---
-## NumberFormatInfo::get_CurrencyPositivePattern method
+## NumberFormatInfo::get_CurrencyPositivePattern() const method
 
 
 Gets currency positive pattern.

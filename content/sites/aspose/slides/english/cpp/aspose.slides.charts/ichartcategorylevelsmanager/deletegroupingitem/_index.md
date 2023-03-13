@@ -1,12 +1,12 @@
 ---
-title: DeleteGroupingItem
+title: DeleteGroupingItem()
 second_title: Aspose.Slides for C++ API Reference
 description: Delete grouping item for defined level.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/ichartcategorylevelsmanager/deletegroupingitem/
 ---
-## IChartCategoryLevelsManager::DeleteGroupingItem method
+## IChartCategoryLevelsManager::DeleteGroupingItem(**int32_t**) method
 
 
 Delete grouping item for defined level.

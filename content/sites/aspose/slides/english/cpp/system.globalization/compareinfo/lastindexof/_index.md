@@ -1,5 +1,5 @@
 ---
-title: LastIndexOf
+title: LastIndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Searches last occurrence of the specified substring.
 type: docs

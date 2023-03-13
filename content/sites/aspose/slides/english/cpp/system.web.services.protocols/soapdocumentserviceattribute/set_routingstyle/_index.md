@@ -1,12 +1,12 @@
 ---
-title: set_RoutingStyle
+title: set_RoutingStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that shows how the SOAP messages are routed to the service.
 type: docs
 weight: 40
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/set_routingstyle/
 ---
-## SoapDocumentServiceAttribute::set_RoutingStyle method
+## SoapDocumentServiceAttribute::set_RoutingStyle([SoapServiceRoutingStyle](../../soapserviceroutingstyle/)) method
 
 
 Sets a value that shows how the SOAP messages are routed to the service.

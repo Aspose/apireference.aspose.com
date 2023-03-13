@@ -1,7 +1,7 @@
 ---
 title: IMathSuperscriptElementFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create IMathSuperscriptElement.
+description: Allows to create IMathSuperscriptElement
 type: docs
 weight: 586
 url: /cpp/aspose.slides.mathtext/imathsuperscriptelementfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathsuperscriptelementfactory/
 ## IMathSuperscriptElementFactory class
 
 
-Allows to create [IMathSuperscriptElement](../imathsuperscriptelement/).
+Allows to create [IMathSuperscriptElement](../imathsuperscriptelement/)
 
 ```cpp
 class IMathSuperscriptElementFactory : public System::Object
@@ -19,7 +19,7 @@ class IMathSuperscriptElementFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathSuperscriptElement](../imathsuperscriptelement/)\> [CreateMathSuperscriptElement](./createmathsuperscriptelement/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates [IMathSuperscriptElement](../imathsuperscriptelement/). |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathSuperscriptElement](../imathsuperscriptelement/)\> [CreateMathSuperscriptElement](./createmathsuperscriptelement/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, [System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates [IMathSuperscriptElement](../imathsuperscriptelement/) |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

@@ -1,15 +1,15 @@
 ---
-title: get_ImageDataGain
+title: get_ImageDataGain()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'imageData.gain' property.
+description: Represents 'imageData.gain' property
 type: docs
 weight: 469
 url: /cpp/aspose.slides.animation/behaviorproperty/get_imagedatagain/
 ---
-## BehaviorProperty::get_ImageDataGain method
+## BehaviorProperty::get_ImageDataGain() method
 
 
-Represents 'imageData.gain' property.
+Represents 'imageData.gain' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ImageDataGain()

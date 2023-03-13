@@ -1,12 +1,12 @@
 ---
-title: get_Millisecond
+title: get_Millisecond()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets millisecond component of the current object.
 type: docs
 weight: 170
 url: /cpp/system/datetimeoffset/get_millisecond/
 ---
-## DateTimeOffset::get_Millisecond method
+## DateTimeOffset::get_Millisecond() const method
 
 
 Gets millisecond component of the current object.

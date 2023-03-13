@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes an item at the specified index of the collection.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.mathtext/mathparagraph/removeat/
 ---
-## MathParagraph::RemoveAt method
+## MathParagraph::RemoveAt(**int32_t**) method
 
 
 Removes an item at the specified index of the collection.

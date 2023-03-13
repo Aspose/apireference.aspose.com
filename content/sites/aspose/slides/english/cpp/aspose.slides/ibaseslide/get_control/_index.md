@@ -1,12 +1,12 @@
 ---
-title: get_Control
+title: get_Control()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the ActiveX control at the specified index.
 type: docs
 weight: 209
 url: /cpp/aspose.slides/ibaseslide/get_control/
 ---
-## IBaseSlide::get_Control method
+## IBaseSlide::get_Control(**int32_t**) method
 
 
 Returns the ActiveX control at the specified index.

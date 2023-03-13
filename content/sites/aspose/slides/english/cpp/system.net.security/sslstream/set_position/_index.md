@@ -1,12 +1,12 @@
 ---
-title: set_Position
+title: set_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the stream's position.
 type: docs
 weight: 313
 url: /cpp/system.net.security/sslstream/set_position/
 ---
-## SslStream::set_Position method
+## SslStream::set_Position(**int64_t**) method
 
 
 Sets the stream's position.

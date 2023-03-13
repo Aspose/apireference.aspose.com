@@ -1,5 +1,5 @@
 ---
-title: GetSocketOption
+title: GetSocketOption()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value that corresponds to the specified option name.
 type: docs

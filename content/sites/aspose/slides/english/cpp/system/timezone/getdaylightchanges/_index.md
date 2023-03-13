@@ -1,12 +1,12 @@
 ---
-title: GetDaylightChanges
+title: GetDaylightChanges()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the daylight saving time period for a particular year.
 type: docs
 weight: 53
 url: /cpp/system/timezone/getdaylightchanges/
 ---
-## TimeZone::GetDaylightChanges method
+## TimeZone::GetDaylightChanges(**int32_t**) method
 
 
 Returns the daylight saving time period for a particular year.

@@ -1,12 +1,12 @@
 ---
-title: set_Compressed
+title: set_Compressed()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether the generated SWF document should be compressed or not. Default is true.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/iswfoptions/set_compressed/
 ---
-## ISwfOptions::set_Compressed method
+## ISwfOptions::set_Compressed(**bool**) method
 
 
 Specifies whether the generated SWF document should be compressed or not. Default is **true**.

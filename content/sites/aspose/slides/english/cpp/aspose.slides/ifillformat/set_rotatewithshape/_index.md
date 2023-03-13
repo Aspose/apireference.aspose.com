@@ -1,12 +1,12 @@
 ---
-title: set_RotateWithShape
+title: set_RotateWithShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the fill should be rotated with shape. Write NullableBool.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/ifillformat/set_rotatewithshape/
 ---
-## IFillFormat::set_RotateWithShape method
+## IFillFormat::set_RotateWithShape([NullableBool](../../nullablebool/)) method
 
 
 Determines whether the fill should be rotated with shape. Write [NullableBool](../../nullablebool/).

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Getter function.
 type: docs
 weight: 131
 url: /cpp/system.collections.generic/ikvcollection/idx_get/
 ---
-## IKVCollection::idx_get method
+## IKVCollection::idx_get(int) const method
 
 
 Getter function.

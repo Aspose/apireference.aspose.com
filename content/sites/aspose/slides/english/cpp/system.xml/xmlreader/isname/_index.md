@@ -1,12 +1,12 @@
 ---
-title: IsName
+title: IsName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the string argument is a valid XML name.
 type: docs
 weight: 989
 url: /cpp/system.xml/xmlreader/isname/
 ---
-## XmlReader::IsName method
+## XmlReader::IsName(const [String](../../../system/string/)\&) method
 
 
 Returns a value indicating whether the string argument is a valid XML name.

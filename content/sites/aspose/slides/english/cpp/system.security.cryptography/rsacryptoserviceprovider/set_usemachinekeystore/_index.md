@@ -1,12 +1,12 @@
 ---
-title: set_UseMachineKeyStore
+title: set_UseMachineKeyStore()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines whether the key persists in machine store instead of user store.
 type: docs
 weight: 261
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/set_usemachinekeystore/
 ---
-## RSACryptoServiceProvider::set_UseMachineKeyStore method
+## RSACryptoServiceProvider::set_UseMachineKeyStore(**bool**) method
 
 
 Defines whether the key persists in machine store instead of user store.

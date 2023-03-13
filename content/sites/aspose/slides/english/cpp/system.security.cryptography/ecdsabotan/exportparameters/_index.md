@@ -1,12 +1,12 @@
 ---
-title: ExportParameters
+title: ExportParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports named or explicit parameters.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/ecdsabotan/exportparameters/
 ---
-## ECDsaBotan::ExportParameters method
+## ECDsaBotan::ExportParameters(**bool**) method
 
 
 Exports named or explicit parameters.

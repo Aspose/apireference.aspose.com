@@ -1,12 +1,12 @@
 ---
-title: get_Delta
+title: get_Delta()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets difference between standard time and daylight saving time.
 type: docs
 weight: 40
 url: /cpp/system.globalization/daylighttime/get_delta/
 ---
-## DaylightTime::get_Delta method
+## DaylightTime::get_Delta() const method
 
 
 Gets difference between standard time and daylight saving time.

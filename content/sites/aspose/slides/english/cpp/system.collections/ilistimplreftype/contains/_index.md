@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if item is present in list.
 type: docs
 weight: 92
 url: /cpp/system.collections/ilistimplreftype/contains/
 ---
-## IListImplRefType::Contains method
+## IListImplRefType::Contains([SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) const method
 
 
 Checks if item is present in list.

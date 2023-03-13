@@ -1,12 +1,12 @@
 ---
-title: set_AbbreviatedMonthGenitiveNames
+title: set_AbbreviatedMonthGenitiveNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets abbreviated month names in genitive form.
 type: docs
 weight: 300
 url: /cpp/system.globalization/datetimeformatinfo/set_abbreviatedmonthgenitivenames/
 ---
-## DateTimeFormatInfo::set_AbbreviatedMonthGenitiveNames method
+## DateTimeFormatInfo::set_AbbreviatedMonthGenitiveNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
 
 
 Sets abbreviated month names in genitive form.

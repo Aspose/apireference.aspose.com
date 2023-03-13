@@ -1,12 +1,12 @@
 ---
-title: AddGroup
+title: AddGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds group into collection.
 type: docs
 weight: 105
 url: /cpp/system.text.regularexpressions/groupcollection/addgroup/
 ---
-## GroupCollection::AddGroup method
+## GroupCollection::AddGroup(const [GroupPtr](../../groupptr/)\&) method
 
 
 Adds group into collection.

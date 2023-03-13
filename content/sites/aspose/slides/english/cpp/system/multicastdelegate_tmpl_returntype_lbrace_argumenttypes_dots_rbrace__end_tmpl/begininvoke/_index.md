@@ -1,12 +1,12 @@
 ---
-title: BeginInvoke
+title: BeginInvoke()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 196
 url: /cpp/system/multicastdelegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/begininvoke/
 ---
-## MulticastDelegate< ReturnType(ArgumentTypes...)>::BeginInvoke method
+## MulticastDelegate< ReturnType(ArgumentTypes...)>::BeginInvoke(ArgumentTypes..., const [AsyncCallback](../../asynccallback/)\&, const CallbackArgumentType\&) method
 
 
 NOT IMPLEMENTED.

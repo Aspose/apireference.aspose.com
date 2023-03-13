@@ -1,12 +1,12 @@
 ---
-title: get_PrinterSettings
+title: get_PrinterSettings()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 27
 url: /cpp/system.drawing.printing/printdocument/get_printersettings/
 ---
-## PrintDocument::get_PrinterSettings method
+## PrintDocument::get_PrinterSettings() method
 
 
 NOT IMPLEMENTED.

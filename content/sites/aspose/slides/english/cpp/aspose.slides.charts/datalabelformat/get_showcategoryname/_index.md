@@ -1,12 +1,12 @@
 ---
-title: get_ShowCategoryName
+title: get_ShowCategoryName()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a specified chart's data label category name display behavior. True to display the category name for the data labels on a chart. False to hide. Read bool.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.charts/datalabelformat/get_showcategoryname/
 ---
-## DataLabelFormat::get_ShowCategoryName method
+## DataLabelFormat::get_ShowCategoryName() method
 
 
 Represents a specified chart's data label category name display behavior. True to display the category name for the data labels on a chart. False to hide. Read **bool**.

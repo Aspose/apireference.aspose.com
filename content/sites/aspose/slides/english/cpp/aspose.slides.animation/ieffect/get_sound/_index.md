@@ -1,12 +1,12 @@
 ---
-title: get_Sound
+title: get_Sound()
 second_title: Aspose.Slides for C++ API Reference
 description: Defined embedded sound for effect. Read IAudio.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.animation/ieffect/get_sound/
 ---
-## IEffect::get_Sound method
+## IEffect::get_Sound() method
 
 
 Defined embedded sound for effect. Read [IAudio](../../../aspose.slides/iaudio/).

@@ -1,12 +1,12 @@
 ---
-title: set_GradientShape
+title: set_GradientShape()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the shape of a gradient. Write Slides::GradientShape."
 type: docs
 weight: 118
 url: /cpp/aspose.slides/gradientformat/set_gradientshape/
 ---
-## GradientFormat::set_GradientShape method
+## GradientFormat::set_GradientShape([Aspose::Slides::GradientShape](../../gradientshape/)) method
 
 
 Sets the shape of a gradient. Write [Slides::GradientShape](../../gradientshape/).

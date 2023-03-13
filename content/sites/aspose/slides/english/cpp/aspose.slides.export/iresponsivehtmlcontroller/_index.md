@@ -1,7 +1,7 @@
 ---
 title: IResponsiveHtmlController
 second_title: Aspose.Slides for C++ API Reference
-description: Responsive HTML Controller.
+description: Responsive HTML Controller
 type: docs
 weight: 313
 url: /cpp/aspose.slides.export/iresponsivehtmlcontroller/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.export/iresponsivehtmlcontroller/
 ## IResponsiveHtmlController class
 
 
-Responsive HTML Controller.
+Responsive HTML Controller
 
 ```cpp
 class IResponsiveHtmlController : public Aspose::Slides::Export::IHtmlFormattingController

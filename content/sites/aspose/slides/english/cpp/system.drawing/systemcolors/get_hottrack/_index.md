@@ -1,12 +1,12 @@
 ---
-title: get_HotTrack
+title: get_HotTrack()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Color object that represents the color of a hot-tracked item.
 type: docs
 weight: 248
 url: /cpp/system.drawing/systemcolors/get_hottrack/
 ---
-## SystemColors::get_HotTrack method
+## SystemColors::get_HotTrack() method
 
 
 Returns a [Color](../../color/) object that represents the color of a hot-tracked item.

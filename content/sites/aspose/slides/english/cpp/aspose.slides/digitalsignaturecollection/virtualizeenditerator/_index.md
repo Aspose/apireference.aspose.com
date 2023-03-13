@@ -1,12 +1,12 @@
 ---
-title: virtualizeEndIterator
+title: virtualizeEndIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing right after the last element (if any) of the collection.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/digitalsignaturecollection/virtualizeenditerator/
 ---
-## DigitalSignatureCollection::virtualizeEndIterator method
+## DigitalSignatureCollection::virtualizeEndIterator() method
 
 
 Gets iterator pointing right after the last element (if any) of the collection.

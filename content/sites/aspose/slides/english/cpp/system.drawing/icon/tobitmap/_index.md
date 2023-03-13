@@ -1,12 +1,12 @@
 ---
-title: ToBitmap
+title: ToBitmap()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the current object to a Bitmap object.
 type: docs
 weight: 27
 url: /cpp/system.drawing/icon/tobitmap/
 ---
-## Icon::ToBitmap method
+## Icon::ToBitmap() method
 
 
 Converts the current object to a [Bitmap](../../bitmap/) object.

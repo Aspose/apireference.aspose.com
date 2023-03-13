@@ -1,5 +1,5 @@
 ---
-title: Margin64d
+title: Margin64d()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs

@@ -1,15 +1,15 @@
 ---
-title: SetEventHandler
+title: SetEventHandler()
 second_title: Aspose.Slides for C++ API Reference
-description: Sets event handler for the shape.
+description: Sets event handler for the shape
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/svgshape/seteventhandler/
 ---
-## SvgShape::SetEventHandler method
+## SvgShape::SetEventHandler([SvgEvent](../../svgevent/), [System::String](../../../system/string/)) method
 
 
-Sets event handler for the shape.
+Sets event handler for the shape
 
 ```cpp
 void Aspose::Slides::Export::SvgShape::SetEventHandler(SvgEvent eventType, System::String handler) override

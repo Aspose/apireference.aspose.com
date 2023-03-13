@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.drawing/brush/clone/
 ---
-## Brush::Clone method
+## Brush::Clone() method
 
 
 RTTI information.

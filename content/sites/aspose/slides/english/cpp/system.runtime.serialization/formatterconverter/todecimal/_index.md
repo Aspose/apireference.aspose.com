@@ -1,12 +1,12 @@
 ---
-title: ToDecimal
+title: ToDecimal()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a Decimal.
 type: docs
 weight: 66
 url: /cpp/system.runtime.serialization/formatterconverter/todecimal/
 ---
-## FormatterConverter::ToDecimal method
+## FormatterConverter::ToDecimal([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a [Decimal](../../../system/decimal/).

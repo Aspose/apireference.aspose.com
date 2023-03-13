@@ -1,5 +1,5 @@
 ---
-title: GetHostEntry
+title: GetHostEntry()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new IPHostEntry-class instance using the specified string that contains a host name or IP address.
 type: docs

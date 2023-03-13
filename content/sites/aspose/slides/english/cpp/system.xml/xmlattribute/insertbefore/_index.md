@@ -1,12 +1,12 @@
 ---
-title: InsertBefore
+title: InsertBefore()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts the specified node immediately before the specified reference node.
 type: docs
 weight: 209
 url: /cpp/system.xml/xmlattribute/insertbefore/
 ---
-## XmlAttribute::InsertBefore method
+## XmlAttribute::InsertBefore([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>, [SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>) method
 
 
 Inserts the specified node immediately before the specified reference node.

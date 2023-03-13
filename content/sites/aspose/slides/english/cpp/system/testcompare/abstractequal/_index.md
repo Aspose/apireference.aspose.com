@@ -1,12 +1,12 @@
 ---
-title: AbstractEqual
+title: AbstractEqual()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two collections of unknown type.
 type: docs
 weight: 14
 url: /cpp/system/testcompare/abstractequal/
 ---
-## TestCompare::AbstractEqual method
+## TestCompare::AbstractEqual([SCG::ICollection](../../../system.collections.generic/icollection/)\<T\> *const, [SCG::ICollection](../../../system.collections.generic/icollection/)\<T\> *const) method
 
 
 Compares two collections of unknown type.

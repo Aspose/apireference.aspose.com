@@ -73,25 +73,25 @@ url: /cpp/aspose.slides/
 | [DigitalSignature](./digitalsignature/) | Digital signature in signed file. |
 | [DigitalSignatureCollection](./digitalsignaturecollection/) | Represents a collection of digital signatures attached to a document. |
 | [DocumentProperties](./documentproperties/) | Represents properties of a presentation. |
-| [DomObject](./domobject/) | Base [DOM](../aspose.slides.dom/) object. |
+| [DomObject](./domobject/) | Base [DOM](../aspose.slides.dom/) object |
 | [EffectFormat](./effectformat/) | Represents effect properties of shape. |
 | [Field](./field/) | Represents a field. |
 | [FieldType](./fieldtype/) | Represents a type of field. This value determines which text will be set to the field portion when it will be updated. |
 | [FillFormat](./fillformat/) | Represents a fill formatting options. |
 | [FloatColor](./floatcolor/) |  |
 | [FontData](./fontdata/) | Represents a font definition. Immutable. |
-| [FontDataFactory](./fontdatafactory/) | [FontData](./fontdata/) factory. |
-| [FontFallBackRule](./fontfallbackrule/) | Represents font fallback rule. |
-| [FontFallBackRulesCollection](./fontfallbackrulescollection/) | Represents a collection of FontFallBack rules, defined by user. |
+| [FontDataFactory](./fontdatafactory/) | [FontData](./fontdata/) factory |
+| [FontFallBackRule](./fontfallbackrule/) | Represents font fallback rule |
+| [FontFallBackRulesCollection](./fontfallbackrulescollection/) | Represents a collection of FontFallBack rules, defined by user |
 | [Fonts](./fonts/) | [Fonts](./fonts/) collection. |
 | [FontsLoader](./fontsloader/) | Class for loading custom fonts defined by user. Should be used before creating any presentation objects. |
 | [FontsManager](./fontsmanager/) | Manages fonts across the presentation. |
 | [FontSources](./fontsources/) | Provides file and memory sources for external fonts. |
 | [FontSubstitutionInfo](./fontsubstitutioninfo/) | This structure represents the information about the font replacement when it will be rendered. |
-| [FontSubstRule](./fontsubstrule/) | Represents font subtituition information. |
+| [FontSubstRule](./fontsubstrule/) | Represents font subtituition information |
 | [FontSubstRuleCollection](./fontsubstrulecollection/) | Represents collection of fonts substitution. |
 | [FormatFactory](./formatfactory/) | Allows to create formats via COM interface. |
-| [GeometryPath](./geometrypath/) | Represents geometry path of [GeometryShape](./geometryshape/). |
+| [GeometryPath](./geometrypath/) | Represents geometry path of [GeometryShape](./geometryshape/) |
 | [GeometryShape](./geometryshape/) | Represents the parent class for all geometric shapes. |
 | [GlobalLayoutSlideCollection](./globallayoutslidecollection/) | Represents a collection of all layout slides in presentation. Extends [LayoutSlideCollection](./layoutslidecollection/) class with methods for adding/cloning layout slides in context of uniting of the individual collections of master's layout slides. |
 | [GradientFormat](./gradientformat/) | Represent a gradient format. |
@@ -170,20 +170,20 @@ url: /cpp/aspose.slides/
 | [IFillFormatEffectiveData](./ifillformateffectivedata/) | Immutable object which contains effective fill formatting properties. |
 | [IFillParamSource](./ifillparamsource/) | Auxiliary fill parameters interface. |
 | [IFontData](./ifontdata/) | Represents a font definition. |
-| [IFontDataFactory](./ifontdatafactory/) | [FontData](./fontdata/) factory interface. |
-| [IFontFallBackRule](./ifontfallbackrule/) | Represents font fallback rule. |
-| [IFontFallBackRulesCollection](./ifontfallbackrulescollection/) | Represents a collection of FontFallBack rules, defined by user. |
+| [IFontDataFactory](./ifontdatafactory/) | [FontData](./fontdata/) factory interface |
+| [IFontFallBackRule](./ifontfallbackrule/) | Represents font fallback rule |
+| [IFontFallBackRulesCollection](./ifontfallbackrulescollection/) | Represents a collection of FontFallBack rules, defined by user |
 | [IFonts](./ifonts/) | Represents fonts collection. |
 | [IFontsEffectiveData](./ifontseffectivedata/) | Immutable object which contains effective fonts set. |
 | [IFontsLoader](./ifontsloader/) | Class for loading custom fonts defined by user. Should be used before creating any presentation objects. |
 | [IFontsManager](./ifontsmanager/) | Manages fonts across the presentation. |
 | [IFontSources](./ifontsources/) | Provides file and memory sources for external fonts. |
-| [IFontSubstRule](./ifontsubstrule/) | Represents font subtituition information. |
+| [IFontSubstRule](./ifontsubstrule/) | Represents font subtituition information |
 | [IFontSubstRuleCollection](./ifontsubstrulecollection/) | Represents collection of fonts substitution. |
 | [IFormatFactory](./iformatfactory/) | Allows to create formats via COM interface. |
-| [IGenericCloneable](./igenericcloneable/) | Represents generic version of ICloneable. |
+| [IGenericCloneable](./igenericcloneable/) | Represents generic version of ICloneable |
 | [IGenericCollection](./igenericcollection/) | Auxiliary generic collection interface. |
-| [IGeometryPath](./igeometrypath/) | Represents geometry path of [GeometryShape](./geometryshape/). |
+| [IGeometryPath](./igeometrypath/) | Represents geometry path of [GeometryShape](./geometryshape/) |
 | [IGeometryShape](./igeometryshape/) | Represents the parent class for all geometric shapes. |
 | [IGlobalLayoutSlideCollection](./igloballayoutslidecollection/) | Represents a collection of all layout slides in presentation. Extends [ILayoutSlideCollection](./ilayoutslidecollection/) interface with methods for adding/cloning layout slides in context of uniting of the individual collections of master's layout slides. |
 | [IGradientFormat](./igradientformat/) | Represent a gradient format. |
@@ -206,7 +206,7 @@ url: /cpp/aspose.slides/
 | [ILayoutSlide](./ilayoutslide/) | Represents a layout slide. |
 | [ILayoutSlideCollection](./ilayoutslidecollection/) | Represents a base class for collection of a layout slides. |
 | [ILayoutSlideHeaderFooterManager](./ilayoutslideheaderfootermanager/) | Represents manager which holds behavior of the layout slide footer, date-time, page number placeholders and all child placeholders. Child placeholders mean placeholders are contained on depending slides. Depending slides use and depend on layout slide. |
-| [ILegacyDiagram](./ilegacydiagram/) | Represents a legacy diagram object. |
+| [ILegacyDiagram](./ilegacydiagram/) | Represents a legacy diagram object |
 | [ILicense](./ilicense/) | Provides methods to license the component. |
 | [ILightRig](./ilightrig/) | Represents [LightRig](./lightrig/). |
 | [ILightRigEffectiveData](./ilightrigeffectivedata/) | Immutable object which contains effective light rig properties. |
@@ -240,10 +240,10 @@ url: /cpp/aspose.slides/
 | [IOleObjectFrame](./ioleobjectframe/) | Represents an OLE object on a slide. |
 | [IParagraph](./iparagraph/) | Represents a paragraph of a text. |
 | [IParagraphCollection](./iparagraphcollection/) | Represents a collection of a paragraphs. |
-| [IParagraphFactory](./iparagraphfactory/) | Allows to create paragraphs. |
+| [IParagraphFactory](./iparagraphfactory/) | Allows to create paragraphs |
 | [IParagraphFormat](./iparagraphformat/) | This class contains the paragraph formatting properties. Unlike [IParagraphFormatEffectiveData](./iparagraphformateffectivedata/), all properties of this class are writeable. |
 | [IParagraphFormatEffectiveData](./iparagraphformateffectivedata/) | Immutable object which contains effective paragraph formatting properties. |
-| [IPathSegment](./ipathsegment/) | Represents segment of graphics path of [GeometryShape](./geometryshape/). |
+| [IPathSegment](./ipathsegment/) | Represents segment of graphics path of [GeometryShape](./geometryshape/) |
 | [IPatternFormat](./ipatternformat/) | Represents a pattern to fill a shape. |
 | [IPatternFormatEffectiveData](./ipatternformateffectivedata/) | Immutable object which contains effective pattern filling properties. |
 | [IPictureEffectiveData](./ipictureeffectivedata/) | Immutable object which contains effective picture properties. |
@@ -254,16 +254,16 @@ url: /cpp/aspose.slides/
 | [IPlaceholder](./iplaceholder/) | Represents a placeholder on a slide. |
 | [IPortion](./iportion/) | Represents a portion of text inside a text paragraph. |
 | [IPortionCollection](./iportioncollection/) | Represents a collection of a portions. |
-| [IPortionFactory](./iportionfactory/) | Allows to create test portions. |
+| [IPortionFactory](./iportionfactory/) | Allows to create test portions |
 | [IPortionFormat](./iportionformat/) | This class contains the text portion formatting properties. Unlike [IPortionFormatEffectiveData](./iportionformateffectivedata/), all properties of this class are writeable. |
 | [IPortionFormatEffectiveData](./iportionformateffectivedata/) | Immutable object which contains effective text portion formatting properties. |
 | [IPPImage](./ippimage/) | Represents an image in a presentation. |
-| [IPresentation](./ipresentation/) | [Presentation](./presentation/) document. |
+| [IPresentation](./ipresentation/) | [Presentation](./presentation/) document |
 | [IPresentationComponent](./ipresentationcomponent/) | Represents a component of a presentation. |
-| [IPresentationFactory](./ipresentationfactory/) | Allows to create presentation via COM interface. |
+| [IPresentationFactory](./ipresentationfactory/) | Allows to create presentation via COM interface |
 | [IPresentationHeaderFooterManager](./ipresentationheaderfootermanager/) | Represents manager which holds behavior of all footer, date-time and page number placeholders of presentation. |
-| [IPresentationInfo](./ipresentationinfo/) | Information about presentation file. |
-| [IPresentationText](./ipresentationtext/) | Represents the text extracted from the slide. |
+| [IPresentationInfo](./ipresentationinfo/) | Information about presentation file |
+| [IPresentationText](./ipresentationtext/) | Represents the text extracted from the slide |
 | [IProgressCallback](./iprogresscallback/) | Represents a callback object for saving progress updates in percentage. |
 | [IProtectionManager](./iprotectionmanager/) | [Presentation](./presentation/) password protection management. |
 | [IPVIObject](./ipviobject/) |  |
@@ -293,7 +293,7 @@ url: /cpp/aspose.slides/
 | [ISlideShowTransition](./islideshowtransition/) | Represents slide show transition. |
 | [ISlideSize](./islidesize/) | Represents a size of slide. |
 | [ISlidesPicture](./islidespicture/) | Represents a picture in a presentation. |
-| [ISlideText](./islidetext/) | Represents the text extracted from the slide. |
+| [ISlideText](./islidetext/) | Represents the text extracted from the slide |
 | [ISpreadsheetOptions](./ispreadsheetoptions/) | Represents options which can be used to specify additional spreadsheets behavior. |
 | [IStreamWrapper](./istreamwrapper/) | Aspose.IO.Stream wrapper for COM interface. |
 | [IStreamWrapperFactory](./istreamwrapperfactory/) | Factory of StreamWrappers. For COM interface. |
@@ -305,7 +305,7 @@ url: /cpp/aspose.slides/
 | [ITab](./itab/) | Represents a tabulation for a text. |
 | [ITabCollection](./itabcollection/) | Represents a collection of tabs. |
 | [ITabEffectiveData](./itabeffectivedata/) | Immutable object which contains effective text's tabulation stop properties. |
-| [ITabFactory](./itabfactory/) | Allow to create [ITab](./itab/) instances. |
+| [ITabFactory](./itabfactory/) | Allow to create [ITab](./itab/) instances |
 | [ITable](./itable/) | Represents a table on a slide. |
 | [ITableFormat](./itableformat/) | Represents format of a table. |
 | [ITableFormatEffectiveData](./itableformateffectivedata/) | Immutable object which contains effective table formatting properties. |
@@ -353,9 +353,9 @@ url: /cpp/aspose.slides/
 | [Paragraph](./paragraph/) | Represents a paragraph of text. |
 | [ParagraphCollection](./paragraphcollection/) | Represents a collection of a paragraphs. |
 | [ParagraphEventArgs](./paragrapheventargs/) | Event arguments class for paragraph-related events. |
-| [ParagraphFactory](./paragraphfactory/) | Allows to create paragraphs. |
+| [ParagraphFactory](./paragraphfactory/) | Allows to create paragraphs |
 | [ParagraphFormat](./paragraphformat/) | This class contains the paragraph formatting properties. Unlike [IParagraphFormatEffectiveData](./iparagraphformateffectivedata/), all properties of this class are writeable. |
-| [PathSegment](./pathsegment/) | Represents segment of graphics path of [GeometryShape](./geometryshape/). |
+| [PathSegment](./pathsegment/) | Represents segment of graphics path of [GeometryShape](./geometryshape/) |
 | [PatternFormat](./patternformat/) | Represents a pattern to fill a shape. |
 | [Picture](./picture/) | Represents a picture in a presentation. |
 | [PictureFillFormat](./picturefillformat/) | Represents a picture fill style. |
@@ -364,14 +364,14 @@ url: /cpp/aspose.slides/
 | [Placeholder](./placeholder/) | Represents a placeholder on a slide. |
 | [Portion](./portion/) | Represents a portion of text inside a text paragraph. |
 | [PortionCollection](./portioncollection/) | Represents a collection of portions. |
-| [PortionFactory](./portionfactory/) | Allows to create test portions. |
+| [PortionFactory](./portionfactory/) | Allows to create test portions |
 | [PortionFormat](./portionformat/) | This class contains the text portion formatting properties. Unlike [IPortionFormatEffectiveData](./iportionformateffectivedata/), all properties of this class are writeable. |
 | [PPImage](./ppimage/) | Represents an image in a presentation. |
 | [Presentation](./presentation/) | Represents a Microsoft PowerPoint presentation. |
-| [PresentationFactory](./presentationfactory/) | Allows to create presentation via COM interface. |
+| [PresentationFactory](./presentationfactory/) | Allows to create presentation via COM interface |
 | [PresentationHeaderFooterManager](./presentationheaderfootermanager/) | Represents manager which holds behavior of all footer, date-time and page number placeholders of presentation. |
-| [PresentationInfo](./presentationinfo/) | Information about presentation file. |
-| [PresentationText](./presentationtext/) | Represents the text extracted from the presentation. |
+| [PresentationInfo](./presentationinfo/) | Information about presentation file |
+| [PresentationText](./presentationtext/) | Represents the text extracted from the presentation |
 | [PresentedBySpeaker](./presentedbyspeaker/) | Presented by a speaker (full screen) |
 | [ProtectionManager](./protectionmanager/) | [Presentation](./presentation/) password protection management. |
 | [PVIObject](./pviobject/) | Encapsulates basic service infrastructure for objects can be a subject of property value inheritance. |
@@ -397,7 +397,7 @@ url: /cpp/aspose.slides/
 | [SlideShowSettings](./slideshowsettings/) | Represents the slide show settings for the presentation. |
 | [SlideShowType](./slideshowtype/) | Base slide show settings. Ancestors represent types of the slide show: [PresentedBySpeaker](./presentedbyspeaker/) Presented by a speaker (full screen) [BrowsedByIndividual](./browsedbyindividual/) Browsed by individual (window) [BrowsedAtKiosk](./browsedatkiosk/) Browsed at a kiosk (full screen) |
 | [SlideSize](./slidesize/) | Represents a size of slide. |
-| [SlidesRange](./slidesrange/) | [Slides](./) range. |
+| [SlidesRange](./slidesrange/) | [Slides](./) range |
 | [SpreadsheetOptions](./spreadsheetoptions/) | Represents options which can be used to specify additional spreadsheets behavior. |
 | [StreamWrapper](./streamwrapper/) | Aspose.IO.Stream wrapper for COM interface. |
 | [StreamWrapperFactory](./streamwrapperfactory/) | Factory of StreamWrappers. For COM interface. |
@@ -408,7 +408,7 @@ url: /cpp/aspose.slides/
 | [SvgImage](./svgimage/) | Represents an SVG image. |
 | [Tab](./tab/) | Represents a tabulation for a text. |
 | [TabCollection](./tabcollection/) | Represents a collection of tabs. |
-| [TabFactory](./tabfactory/) | Allows to create [ITab](./itab/) instances. |
+| [TabFactory](./tabfactory/) | Allows to create [ITab](./itab/) instances |
 | [Table](./table/) | Represents a table on a slide. |
 | [TableFormat](./tableformat/) | Represents format of a table. |
 | [TagCollection](./tagcollection/) | Represents the collection of tags (user defined pairs of strings) |
@@ -470,7 +470,7 @@ url: /cpp/aspose.slides/
 | [FillType](./filltype/) | Specifies the interior fill type of various visual objects. |
 | [FontAlignment](./fontalignment/) | Represents vertical font alignment. |
 | [FontCollectionIndex](./fontcollectionindex/) | Represents font's index in a collection. |
-| [FontSubstCondition](./fontsubstcondition/) | Represents a rule fot font substitution. |
+| [FontSubstCondition](./fontsubstcondition/) | Represents a rule fot font substitution |
 | [GradientDirection](./gradientdirection/) | Represents the gradient style. |
 | [GradientShape](./gradientshape/) | Represents the shape of gradient fill. |
 | [HyperlinkActionType](./hyperlinkactiontype/) | Represents a type of hyperlink action. |
@@ -491,8 +491,8 @@ url: /cpp/aspose.slides/
 | [NullableBool](./nullablebool/) | Represents triple boolean values. |
 | [NumberedBulletStyle](./numberedbulletstyle/) | Represents the style of the numbered bullets. |
 | [Orientation](./orientation/) | Represents the orientation of a shape. |
-| [PathCommandType](./pathcommandtype/) | Represents graphics path commands. |
-| [PathFillModeType](./pathfillmodetype/) | Specifies the manner in which a path should be filled. |
+| [PathCommandType](./pathcommandtype/) | Represents graphics path commands |
+| [PathFillModeType](./pathfillmodetype/) | Specifies the manner in which a path should be filled |
 | [PatternStyle](./patternstyle/) | Represents the pattern style. |
 | [PersistenceType](./persistencetype/) | Specifies the method used to store properties of the ActiveX control. |
 | [PictureFillMode](./picturefillmode/) | Determines how picture will fill area. |
@@ -521,7 +521,7 @@ url: /cpp/aspose.slides/
 | [TextAnchorType](./textanchortype/) | text box alignment within a text area. |
 | [TextAutofitType](./textautofittype/) | Represents text autofit mode. |
 | [TextCapType](./textcaptype/) | Represents the type of text capitalisation. |
-| [TextExtractionArrangingMode](./textextractionarrangingmode/) | Represents the mode to use during text extraction. |
+| [TextExtractionArrangingMode](./textextractionarrangingmode/) | Represents the mode to use during text extraction |
 | [TextShapeType](./textshapetype/) | Represents text wrapping shape. |
 | [TextStrikethroughType](./textstrikethroughtype/) | Represents the type of text strikethrough. |
 | [TextUnderlineType](./textunderlinetype/) | Represents the type of text underline. |
@@ -535,7 +535,7 @@ url: /cpp/aspose.slides/
 | [LoadingStreamBehavior](./loadingstreambehavior/) | The [System::IO::Stream](../system.io/stream/) passed to a method is considered as a Binary Large Object (BLOB) (see [IBlobManagementOptions](./iblobmanagementoptions/) description). Values of this enumeration identify how the [System::IO::Stream](../system.io/stream/) should be treated when it passed to the method. Depending on the requirements, different decisions could be made to provide the most efficient behavior. |
 | [PresentationLockingBehavior](./presentationlockingbehavior/) | Represents the behavior regarding treating the [IPresentation](./ipresentation/) source (file or [System::IO::Stream](../system.io/stream/)) while loading and working with an instance of [IPresentation](./ipresentation/). |
 | [ResourceLoadingAction](./resourceloadingaction/) | Specifies the mode of external resource loading. |
-| [ViewType](./viewtype/) | [Presentation](./presentation/) view types. |
+| [ViewType](./viewtype/) | [Presentation](./presentation/) view types |
 ## Typedefs
 
 | Typedef | Description |

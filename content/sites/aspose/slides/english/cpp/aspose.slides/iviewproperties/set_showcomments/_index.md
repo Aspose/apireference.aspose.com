@@ -1,12 +1,12 @@
 ---
-title: set_ShowComments
+title: set_ShowComments()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether the slide comments should be shown. Write NullableBool.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/iviewproperties/set_showcomments/
 ---
-## IViewProperties::set_ShowComments method
+## IViewProperties::set_ShowComments([NullableBool](../../nullablebool/)) method
 
 
 Specifies whether the slide comments should be shown. Write [NullableBool](../../nullablebool/).

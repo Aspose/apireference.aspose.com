@@ -1,12 +1,12 @@
 ---
-title: GetNamespace
+title: GetNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the namespace node corresponding to the specified local name.
 type: docs
 weight: 534
 url: /cpp/system.xml.xpath/xpathnavigator/getnamespace/
 ---
-## XPathNavigator::GetNamespace method
+## XPathNavigator::GetNamespace([String](../../../system/string/)) method
 
 
 Returns the value of the namespace node corresponding to the specified local name.

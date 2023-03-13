@@ -1,12 +1,12 @@
 ---
-title: set_ShapeType
+title: set_ShapeType()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/aspose.slides/pictureframe/set_shapetype/
 ---
-## PictureFrame::set_ShapeType method
+## PictureFrame::set_ShapeType([Aspose::Slides::ShapeType](../../shapetype/)) method
 
 
 

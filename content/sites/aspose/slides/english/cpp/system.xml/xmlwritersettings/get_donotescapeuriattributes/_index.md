@@ -1,12 +1,12 @@
 ---
-title: get_DoNotEscapeUriAttributes
+title: get_DoNotEscapeUriAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates whether the XmlWriter does not escape URI attributes.
 type: docs
 weight: 326
 url: /cpp/system.xml/xmlwritersettings/get_donotescapeuriattributes/
 ---
-## XmlWriterSettings::get_DoNotEscapeUriAttributes method
+## XmlWriterSettings::get_DoNotEscapeUriAttributes() method
 
 
 Returns a value that indicates whether the [XmlWriter](../../xmlwriter/) does not escape URI attributes.

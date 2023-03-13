@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the item at the specified index. Read-only IMathBlock.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.mathtext/mathparagraph/idx_set/
 ---
-## MathParagraph::idx_set method
+## MathParagraph::idx_set(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IMathBlock](../../imathblock/)\>) method
 
 
 Gets the item at the specified index. Read-only [IMathBlock](../../imathblock/).

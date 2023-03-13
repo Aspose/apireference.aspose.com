@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns false because child elements collection can be modified.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathblock/get_isreadonly/
 ---
-## MathBlock::get_IsReadOnly method
+## MathBlock::get_IsReadOnly() method
 
 
 Returns false because child elements collection can be modified.

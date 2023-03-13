@@ -1,12 +1,12 @@
 ---
-title: ReadKey
+title: ReadKey()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 131
 url: /cpp/system/console/readkey/
 ---
-## Console::ReadKey method
+## Console::ReadKey() method
 
 
 NOT IMPLEMENTED.

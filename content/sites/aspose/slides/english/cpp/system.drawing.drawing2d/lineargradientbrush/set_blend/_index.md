@@ -1,12 +1,12 @@
 ---
-title: set_Blend
+title: set_Blend()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a blend that specifies factors and positions of base colors for this brush.
 type: docs
 weight: 118
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_blend/
 ---
-## LinearGradientBrush::set_Blend method
+## LinearGradientBrush::set_Blend(const [SharedPtr](../../../system/sharedptr/)\<[Blend](../../blend/)\>\&) method
 
 
 Sets a blend that specifies factors and positions of base colors for this brush.

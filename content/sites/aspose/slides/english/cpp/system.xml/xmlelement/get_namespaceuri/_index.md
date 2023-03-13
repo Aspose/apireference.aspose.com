@@ -1,12 +1,12 @@
 ---
-title: get_NamespaceURI
+title: get_NamespaceURI()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the namespace URI of this node.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlelement/get_namespaceuri/
 ---
-## XmlElement::get_NamespaceURI method
+## XmlElement::get_NamespaceURI() method
 
 
 Returns the namespace URI of this node.

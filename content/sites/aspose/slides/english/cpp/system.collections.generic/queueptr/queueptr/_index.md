@@ -1,5 +1,5 @@
 ---
-title: QueuePtr
+title: QueuePtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs null pointer.
 type: docs

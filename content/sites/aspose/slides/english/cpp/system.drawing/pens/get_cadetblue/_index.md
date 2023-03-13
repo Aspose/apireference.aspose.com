@@ -1,12 +1,12 @@
 ---
-title: get_CadetBlue
+title: get_CadetBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF5F9EA0.
 type: docs
 weight: 183
 url: /cpp/system.drawing/pens/get_cadetblue/
 ---
-## Pens::get_CadetBlue method
+## Pens::get_CadetBlue() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF5F9EA0.

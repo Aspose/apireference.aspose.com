@@ -1,5 +1,5 @@
 ---
-title: ToBoolean
+title: ToBoolean()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the specified boolean value.
 type: docs

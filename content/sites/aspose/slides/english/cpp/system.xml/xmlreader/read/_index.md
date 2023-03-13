@@ -1,12 +1,12 @@
 ---
-title: Read
+title: Read()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, reads the next node from the stream.
 type: docs
 weight: 690
 url: /cpp/system.xml/xmlreader/read/
 ---
-## XmlReader::Read method
+## XmlReader::Read() method
 
 
 When overridden in a derived class, reads the next node from the stream.

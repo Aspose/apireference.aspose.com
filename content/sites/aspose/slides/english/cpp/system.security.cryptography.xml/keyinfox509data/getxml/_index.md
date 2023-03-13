@@ -1,5 +1,5 @@
 ---
-title: GetXml
+title: GetXml()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs

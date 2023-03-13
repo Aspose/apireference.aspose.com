@@ -1,12 +1,12 @@
 ---
-title: GetSecond
+title: GetSecond()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets seconds for the specified time point.
 type: docs
 weight: 339
 url: /cpp/system.globalization/calendar/getsecond/
 ---
-## Calendar::GetSecond method
+## Calendar::GetSecond([DateTime](../../../system/datetime/)) const method
 
 
 Gets seconds for the specified time point.

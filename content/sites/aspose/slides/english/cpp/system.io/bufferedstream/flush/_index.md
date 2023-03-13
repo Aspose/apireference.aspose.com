@@ -1,12 +1,12 @@
 ---
-title: Flush
+title: Flush()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the content of the buffer to the underlying stream.
 type: docs
 weight: 105
 url: /cpp/system.io/bufferedstream/flush/
 ---
-## BufferedStream::Flush method
+## BufferedStream::Flush() method
 
 
 Writes the content of the buffer to the underlying stream.

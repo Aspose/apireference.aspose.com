@@ -1,12 +1,12 @@
 ---
-title: get_Cornsilk
+title: get_Cornsilk()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFFF8DC.
 type: docs
 weight: 235
 url: /cpp/system.drawing/brushes/get_cornsilk/
 ---
-## Brushes::get_Cornsilk method
+## Brushes::get_Cornsilk() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFFF8DC.

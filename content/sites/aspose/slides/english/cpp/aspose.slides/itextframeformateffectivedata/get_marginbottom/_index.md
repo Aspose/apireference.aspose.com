@@ -1,12 +1,12 @@
 ---
-title: get_MarginBottom
+title: get_MarginBottom()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the bottom margin (points) in a TextFrame. Read-only double.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/itextframeformateffectivedata/get_marginbottom/
 ---
-## ITextFrameFormatEffectiveData::get_MarginBottom method
+## ITextFrameFormatEffectiveData::get_MarginBottom() method
 
 
 Returns the bottom margin (points) in a [TextFrame](../../textframe/). Read-only **double**.

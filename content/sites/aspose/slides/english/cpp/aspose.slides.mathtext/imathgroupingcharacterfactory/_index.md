@@ -1,7 +1,7 @@
 ---
 title: IMathGroupingCharacterFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a math grouping character.
+description: Allows to create a math grouping character
 type: docs
 weight: 339
 url: /cpp/aspose.slides.mathtext/imathgroupingcharacterfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathgroupingcharacterfactory/
 ## IMathGroupingCharacterFactory class
 
 
-Allows to create a math grouping character.
+Allows to create a math grouping character
 
 ```cpp
 class IMathGroupingCharacterFactory : public System::Object
@@ -19,8 +19,8 @@ class IMathGroupingCharacterFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathGroupingCharacter](../imathgroupingcharacter/)\> [CreateMathGroupingCharacter](./createmathgroupingcharacter/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, char16_t, [MathTopBotPositions](../mathtopbotpositions/), [MathTopBotPositions](../mathtopbotpositions/)) | Creates a math grouping character. |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathGroupingCharacter](../imathgroupingcharacter/)\> [CreateMathGroupingCharacter](./createmathgroupingcharacter/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates a math grouping character. |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathGroupingCharacter](../imathgroupingcharacter/)\> [CreateMathGroupingCharacter](./createmathgroupingcharacter/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>, char16_t, [MathTopBotPositions](../mathtopbotpositions/), [MathTopBotPositions](../mathtopbotpositions/)) | Creates a math grouping character |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathGroupingCharacter](../imathgroupingcharacter/)\> [CreateMathGroupingCharacter](./createmathgroupingcharacter/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Creates a math grouping character |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

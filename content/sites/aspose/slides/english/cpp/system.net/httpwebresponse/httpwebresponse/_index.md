@@ -1,12 +1,12 @@
 ---
-title: HttpWebResponse
+title: HttpWebResponse()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 131
 url: /cpp/system.net/httpwebresponse/httpwebresponse/
 ---
-## HttpWebResponse::HttpWebResponse constructor
+## HttpWebResponse::HttpWebResponse([System::SharedPtr](../../../system/sharedptr/)\<[Http::HttpResponseMessage](../../../system.net.http/httpresponsemessage/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[CookieContainer](../../cookiecontainer/)\>) constructor
 
 
 Constructs a new instance.

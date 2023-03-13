@@ -1,12 +1,12 @@
 ---
-title: get_Color2
+title: get_Color2()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns target color format for light pixels. Read-only IColorFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/iduotone/get_color2/
 ---
-## IDuotone::get_Color2 method
+## IDuotone::get_Color2() method
 
 
 Returns target color format for light pixels. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

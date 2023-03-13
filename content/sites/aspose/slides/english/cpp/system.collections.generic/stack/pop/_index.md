@@ -1,12 +1,12 @@
 ---
-title: Pop
+title: Pop()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets element from top of the stack.
 type: docs
 weight: 79
 url: /cpp/system.collections.generic/stack/pop/
 ---
-## Stack::Pop method
+## Stack::Pop() method
 
 
 Gets element from top of the stack.

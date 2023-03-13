@@ -1,12 +1,12 @@
 ---
-title: GetBuffer
+title: GetBuffer()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a pointer to the underlying buffer.
 type: docs
 weight: 157
 url: /cpp/system.io/memorystream/getbuffer/
 ---
-## MemoryStream::GetBuffer method
+## MemoryStream::GetBuffer() method
 
 
 Returns a pointer to the underlying buffer.

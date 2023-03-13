@@ -1,12 +1,12 @@
 ---
-title: GetDefaultProxy
+title: GetDefaultProxy()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the proxy that uses the non-dynamic settings of the Internet Explorer.
 type: docs
 weight: 170
 url: /cpp/system.net/webproxy/getdefaultproxy/
 ---
-## WebProxy::GetDefaultProxy method
+## WebProxy::GetDefaultProxy() method
 
 
 Returns the proxy that uses the non-dynamic settings of the Internet Explorer.

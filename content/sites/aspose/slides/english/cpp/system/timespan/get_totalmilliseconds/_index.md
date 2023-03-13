@@ -1,12 +1,12 @@
 ---
-title: get_TotalMilliseconds
+title: get_TotalMilliseconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the current TimeSpan object expressed in whole and fractional milliseconds.
 type: docs
 weight: 196
 url: /cpp/system/timespan/get_totalmilliseconds/
 ---
-## TimeSpan::get_TotalMilliseconds method
+## TimeSpan::get_TotalMilliseconds() const method
 
 
 Returns the value of the current [TimeSpan](../) object expressed in whole and fractional milliseconds.

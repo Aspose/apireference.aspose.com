@@ -1,12 +1,12 @@
 ---
-title: get_CipherStrength
+title: get_CipherStrength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the strength of the used encryption algorithm.
 type: docs
 weight: 131
 url: /cpp/system.net.security/sslstream/get_cipherstrength/
 ---
-## SslStream::get_CipherStrength method
+## SslStream::get_CipherStrength() method
 
 
 Returns the strength of the used encryption algorithm.

@@ -1,12 +1,12 @@
 ---
-title: LoadXml
+title: LoadXml()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 157
 url: /cpp/system.security.cryptography.xml/signedxml/loadxml/
 ---
-## SignedXml::LoadXml method
+## SignedXml::LoadXml([SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlElement](../../../system.xml/xmlelement/)\>) method
 
 
 

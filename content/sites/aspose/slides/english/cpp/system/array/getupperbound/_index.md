@@ -1,12 +1,12 @@
 ---
-title: GetUpperBound
+title: GetUpperBound()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the upper bound of the specified dimension.
 type: docs
 weight: 287
 url: /cpp/system/array/getupperbound/
 ---
-## Array::GetUpperBound method
+## Array::GetUpperBound(int) method
 
 
 Returns the upper bound of the specified dimension.

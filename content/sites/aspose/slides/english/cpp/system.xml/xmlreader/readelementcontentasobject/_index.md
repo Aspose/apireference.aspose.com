@@ -1,5 +1,5 @@
 ---
-title: ReadElementContentAsObject
+title: ReadElementContentAsObject()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the current element and returns the contents as an Object.
 type: docs

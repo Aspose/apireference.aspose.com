@@ -1,12 +1,12 @@
 ---
-title: set_CommandType
+title: set_CommandType()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies command type. Write MotionCommandPathType.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/motioncmdpath/set_commandtype/
 ---
-## MotionCmdPath::set_CommandType method
+## MotionCmdPath::set_CommandType([MotionCommandPathType](../../motioncommandpathtype/)) method
 
 
 Specifies command type. Write [MotionCommandPathType](../../motioncommandpathtype/).

@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether the node is read-only.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmldocumenttype/get_isreadonly/
 ---
-## XmlDocumentType::get_IsReadOnly method
+## XmlDocumentType::get_IsReadOnly() method
 
 
 Returns a value indicating whether the node is read-only.

@@ -1,12 +1,12 @@
 ---
-title: AddFontFile
+title: AddFontFile()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a font from the specified file to the collection.
 type: docs
 weight: 1
 url: /cpp/system.drawing.text/privatefontcollection/addfontfile/
 ---
-## PrivateFontCollection::AddFontFile method
+## PrivateFontCollection::AddFontFile(const [String](../../../system/string/)\&) method
 
 
 Adds a font from the specified file to the collection.

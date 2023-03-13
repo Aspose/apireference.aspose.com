@@ -1,12 +1,12 @@
 ---
-title: get_SocketType
+title: get_SocketType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the socket type.
 type: docs
 weight: 131
 url: /cpp/system.net.sockets/socket/get_sockettype/
 ---
-## Socket::get_SocketType method
+## Socket::get_SocketType() method
 
 
 Returns the socket type.

@@ -1,7 +1,7 @@
 ---
 title: SlidesRange
 second_title: Aspose.Slides for C++ API Reference
-description: Slides range.
+description: Slides range
 type: docs
 weight: 4993
 url: /cpp/aspose.slides/slidesrange/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/slidesrange/
 ## SlidesRange class
 
 
-[Slides](../) range.
+[Slides](../) range
 
 ```cpp
 class SlidesRange : public System::Object
@@ -25,8 +25,8 @@ class SlidesRange : public System::Object
 | static **bool** [Equals](../../system/object/equals/)(**float** const\&, **float** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
-| **uint32_t** [get_End](./get_end/)() const | End. |
-| **uint32_t** [get_Start](./get_start/)() const | Start. |
+| **uint32_t** [get_End](./get_end/)() const | End |
+| **uint32_t** [get_Start](./get_start/)() const | Start |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
@@ -42,8 +42,8 @@ class SlidesRange : public System::Object
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
-| void [set_End](./set_end/)(**uint32_t**) | End. |
-| void [set_Start](./set_start/)(**uint32_t**) | Start. |
+| void [set_End](./set_end/)(**uint32_t**) | End |
+| void [set_Start](./set_start/)(**uint32_t**) | Start |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

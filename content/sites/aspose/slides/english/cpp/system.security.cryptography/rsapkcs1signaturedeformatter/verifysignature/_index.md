@@ -1,12 +1,12 @@
 ---
-title: VerifySignature
+title: VerifySignature()
 second_title: Aspose.Slides for C++ API Reference
 description: Verifies the signature of data hash.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/rsapkcs1signaturedeformatter/verifysignature/
 ---
-## RSAPKCS1SignatureDeformatter::VerifySignature method
+## RSAPKCS1SignatureDeformatter::VerifySignature([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 Verifies the signature of data hash.

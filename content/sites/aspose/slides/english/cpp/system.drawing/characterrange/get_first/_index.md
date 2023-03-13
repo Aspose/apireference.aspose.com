@@ -1,12 +1,12 @@
 ---
-title: get_First
+title: get_First()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the position of the first character of the range represented by the current object.
 type: docs
 weight: 14
 url: /cpp/system.drawing/characterrange/get_first/
 ---
-## CharacterRange::get_First method
+## CharacterRange::get_First() const method
 
 
 Returns the position of the first character of the range represented by the current object.

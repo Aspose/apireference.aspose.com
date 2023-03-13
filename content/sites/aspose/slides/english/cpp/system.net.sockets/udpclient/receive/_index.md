@@ -1,12 +1,12 @@
 ---
-title: Receive
+title: Receive()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a datagram sent by a server.
 type: docs
 weight: 92
 url: /cpp/system.net.sockets/udpclient/receive/
 ---
-## UdpClient::Receive method
+## UdpClient::Receive([System::SharedPtr](../../../system/sharedptr/)\<[IPEndPoint](../../../system.net/ipendpoint/)\>\&) method
 
 
 Returns a datagram sent by a server.

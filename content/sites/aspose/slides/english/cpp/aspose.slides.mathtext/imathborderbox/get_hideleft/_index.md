@@ -1,12 +1,12 @@
 ---
-title: get_HideLeft
+title: get_HideLeft()
 second_title: Aspose.Slides for C++ API Reference
 description: Hide Left Edge (default is false) - specifies the hidden or shown state of the left edge of border box.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.mathtext/imathborderbox/get_hideleft/
 ---
-## IMathBorderBox::get_HideLeft method
+## IMathBorderBox::get_HideLeft() method
 
 
 Hide Left Edge (default is false) - specifies the hidden or shown state of the left edge of border box.

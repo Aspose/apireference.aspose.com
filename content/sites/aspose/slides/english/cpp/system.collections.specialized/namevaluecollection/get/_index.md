@@ -1,12 +1,12 @@
 ---
-title: Get
+title: Get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the values associated with the specified key.
 type: docs
 weight: 131
 url: /cpp/system.collections.specialized/namevaluecollection/get/
 ---
-## NameValueCollection::Get method
+## NameValueCollection::Get(const [String](../../../system/string/)\&) method
 
 
 Gets the values associated with the specified key.

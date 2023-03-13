@@ -1,12 +1,12 @@
 ---
-title: get_IsOtherVersionSeen
+title: get_IsOtherVersionSeen()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a value that indicates if the collection contains a cookie with a version that is not equal to Cookie::MaxSupportedVersion."
 type: docs
 weight: 14
 url: /cpp/system.net/cookiecollection/get_isotherversionseen/
 ---
-## CookieCollection::get_IsOtherVersionSeen method
+## CookieCollection::get_IsOtherVersionSeen() method
 
 
 Returns a value that indicates if the collection contains a cookie with a version that is not equal to [Cookie::MaxSupportedVersion](../../cookie/maxsupportedversion/).

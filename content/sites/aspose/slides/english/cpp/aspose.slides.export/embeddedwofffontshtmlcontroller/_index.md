@@ -1,7 +1,7 @@
 ---
 title: EmbeddedWoffFontsHtmlController
 second_title: Aspose.Slides for C++ API Reference
-description: The formatting controller class to use for fonts embedding in WOFF format.
+description: The formatting controller class to use for fonts embedding in WOFF format
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/embeddedwofffontshtmlcontroller/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.export/embeddedwofffontshtmlcontroller/
 ## EmbeddedWoffFontsHtmlController class
 
 
-The formatting controller class to use for fonts embedding in WOFF format.
+The formatting controller class to use for fonts embedding in WOFF format
 
 ```cpp
 class EmbeddedWoffFontsHtmlController : public Aspose::Slides::Export::IEmbeddedWoffFontsHtmlController

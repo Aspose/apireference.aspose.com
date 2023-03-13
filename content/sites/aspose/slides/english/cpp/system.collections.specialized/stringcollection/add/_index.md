@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds value to the end of the list.
 type: docs
 weight: 79
 url: /cpp/system.collections.specialized/stringcollection/add/
 ---
-## StringCollection::Add method
+## StringCollection::Add(const [System::String](../../../system/string/)\&) method
 
 
 Adds value to the end of the list.

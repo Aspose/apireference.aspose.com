@@ -1,12 +1,12 @@
 ---
-title: EnumerateFileSystemEntries
+title: EnumerateFileSystemEntries()
 second_title: Aspose.Slides for C++ API Reference
 description: Searches for the files and directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.
 type: docs
 weight: 53
 url: /cpp/system.io/directory/enumeratefilesystementries/
 ---
-## Directory::EnumerateFileSystemEntries method
+## Directory::EnumerateFileSystemEntries(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, [SearchOption](../../searchoption/)) method
 
 
 Searches for the files and directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.

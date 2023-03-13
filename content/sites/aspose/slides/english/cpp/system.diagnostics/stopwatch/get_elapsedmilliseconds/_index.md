@@ -1,12 +1,12 @@
 ---
-title: get_ElapsedMilliseconds
+title: get_ElapsedMilliseconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the total elapsed time measured by the current instance, in milliseconds.
 type: docs
 weight: 105
 url: /cpp/system.diagnostics/stopwatch/get_elapsedmilliseconds/
 ---
-## Stopwatch::get_ElapsedMilliseconds method
+## Stopwatch::get_ElapsedMilliseconds() const method
 
 
 Gets the total elapsed time measured by the current instance, in milliseconds.

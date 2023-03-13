@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Hashes contained string. Implemented in ICU, doesn't match hashes in C#.
 type: docs
 weight: 352
 url: /cpp/system/string/gethashcode/
 ---
-## String::GetHashCode method
+## String::GetHashCode() const method
 
 
 Hashes contained string. Implemented in ICU, doesn't match hashes in C#.

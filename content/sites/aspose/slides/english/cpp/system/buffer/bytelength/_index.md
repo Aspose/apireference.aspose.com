@@ -1,5 +1,5 @@
 ---
-title: ByteLength
+title: ByteLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the number of bytes occupied by all elements of the specified array.
 type: docs

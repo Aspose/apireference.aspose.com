@@ -1,12 +1,12 @@
 ---
-title: set_ConformanceLevel
+title: set_ConformanceLevel()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the level of conformance which the XmlReader will comply.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlreadersettings/set_conformancelevel/
 ---
-## XmlReaderSettings::set_ConformanceLevel method
+## XmlReaderSettings::set_ConformanceLevel([System::Xml::ConformanceLevel](../../conformancelevel/)) method
 
 
 Sets the level of conformance which the [XmlReader](../../xmlreader/) will comply.

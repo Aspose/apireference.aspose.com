@@ -1,12 +1,12 @@
 ---
-title: RemoveExtensionObject
+title: RemoveExtensionObject()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the object with the namespace URI from the XsltArgumentList.
 type: docs
 weight: 79
 url: /cpp/system.xml.xsl/xsltargumentlist/removeextensionobject/
 ---
-## XsltArgumentList::RemoveExtensionObject method
+## XsltArgumentList::RemoveExtensionObject(const [String](../../../system/string/)\&) method
 
 
 Removes the object with the namespace URI from the [XsltArgumentList](../).

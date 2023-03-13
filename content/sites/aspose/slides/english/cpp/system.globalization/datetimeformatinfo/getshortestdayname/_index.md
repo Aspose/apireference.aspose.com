@@ -1,12 +1,12 @@
 ---
-title: GetShortestDayName
+title: GetShortestDayName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets shortes name for the specified day of week.
 type: docs
 weight: 794
 url: /cpp/system.globalization/datetimeformatinfo/getshortestdayname/
 ---
-## DateTimeFormatInfo::GetShortestDayName method
+## DateTimeFormatInfo::GetShortestDayName([DayOfWeek](../../../system/dayofweek/)) const method
 
 
 Gets shortes name for the specified day of week.

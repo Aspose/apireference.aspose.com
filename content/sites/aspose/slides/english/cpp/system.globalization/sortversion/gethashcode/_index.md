@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets hash code for the current object.
 type: docs
 weight: 66
 url: /cpp/system.globalization/sortversion/gethashcode/
 ---
-## SortVersion::GetHashCode method
+## SortVersion::GetHashCode() const method
 
 
 Gets hash code for the current object.

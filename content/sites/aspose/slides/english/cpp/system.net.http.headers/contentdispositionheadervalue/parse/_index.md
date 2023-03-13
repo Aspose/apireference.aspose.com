@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the ContentDispositionHeaderValue class.
 type: docs
 weight: 274
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/parse/
 ---
-## ContentDispositionHeaderValue::Parse method
+## ContentDispositionHeaderValue::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [ContentDispositionHeaderValue](../) class.

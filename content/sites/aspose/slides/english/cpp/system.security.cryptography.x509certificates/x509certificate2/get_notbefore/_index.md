@@ -1,12 +1,12 @@
 ---
-title: get_NotBefore
+title: get_NotBefore()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the local date and time on which a certificate becomes valid.
 type: docs
 weight: 144
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_notbefore/
 ---
-## X509Certificate2::get_NotBefore method
+## X509Certificate2::get_NotBefore() const method
 
 
 Gets the local date and time on which a certificate becomes valid.

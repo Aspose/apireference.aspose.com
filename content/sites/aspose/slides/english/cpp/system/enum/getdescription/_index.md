@@ -1,12 +1,12 @@
 ---
-title: GetDescription
+title: GetDescription()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the enumeration constant that has the specified value.
 type: docs
 weight: 53
 url: /cpp/system/enum/getdescription/
 ---
-## Enum::GetDescription method
+## Enum::GetDescription(T) method
 
 
 Returns the name of the enumeration constant that has the specified value.

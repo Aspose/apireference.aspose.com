@@ -1,12 +1,12 @@
 ---
-title: DoWorkEventArgs
+title: DoWorkEventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs arguments instance.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/doworkeventargs/doworkeventargs/
 ---
-## DoWorkEventArgs::DoWorkEventArgs constructor
+## DoWorkEventArgs::DoWorkEventArgs(const [SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&) constructor
 
 
 Constructs arguments instance.

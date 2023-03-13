@@ -1,12 +1,12 @@
 ---
-title: get_CurrencyNativeName
+title: get_CurrencyNativeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets currency native name.
 type: docs
 weight: 53
 url: /cpp/system.globalization/regioninfo/get_currencynativename/
 ---
-## RegionInfo::get_CurrencyNativeName method
+## RegionInfo::get_CurrencyNativeName() const method
 
 
 Gets currency native name.

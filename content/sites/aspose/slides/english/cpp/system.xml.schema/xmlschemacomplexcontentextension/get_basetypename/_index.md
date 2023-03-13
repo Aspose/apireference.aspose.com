@@ -1,12 +1,12 @@
 ---
-title: get_BaseTypeName
+title: get_BaseTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the complex type from which this type is derived by extension.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemacomplexcontentextension/get_basetypename/
 ---
-## XmlSchemaComplexContentExtension::get_BaseTypeName method
+## XmlSchemaComplexContentExtension::get_BaseTypeName() method
 
 
 Returns the name of the complex type from which this type is derived by extension.

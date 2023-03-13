@@ -1,12 +1,12 @@
 ---
-title: get_Chocolate
+title: get_Chocolate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFD2691E.
 type: docs
 weight: 209
 url: /cpp/system.drawing/pens/get_chocolate/
 ---
-## Pens::get_Chocolate method
+## Pens::get_Chocolate() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFD2691E.

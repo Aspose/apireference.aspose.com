@@ -1,12 +1,12 @@
 ---
-title: FromFileTimeUtc
+title: FromFileTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified File time to an instance of DateTime class representing the same date and time value as UTC time.
 type: docs
 weight: 755
 url: /cpp/system/datetime/fromfiletimeutc/
 ---
-## DateTime::FromFileTimeUtc method
+## DateTime::FromFileTimeUtc(**int64_t**) method
 
 
 Converts the specified File time to an instance of [DateTime](../) class representing the same date and time value as UTC time.

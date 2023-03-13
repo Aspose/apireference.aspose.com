@@ -1,12 +1,12 @@
 ---
-title: get_KeyData
+title: get_KeyData()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets byte array representing current object.
 type: docs
 weight: 40
 url: /cpp/system.globalization/sortkey/get_keydata/
 ---
-## SortKey::get_KeyData method
+## SortKey::get_KeyData() method
 
 
 Gets byte array representing current object.

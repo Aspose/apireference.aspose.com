@@ -1,12 +1,12 @@
 ---
-title: CreateVbaProject
+title: CreateVbaProject()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new VBA project.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.vba/ivbaprojectfactory/createvbaproject/
 ---
-## IVbaProjectFactory::CreateVbaProject method
+## IVbaProjectFactory::CreateVbaProject() method
 
 
 Creates new VBA project.

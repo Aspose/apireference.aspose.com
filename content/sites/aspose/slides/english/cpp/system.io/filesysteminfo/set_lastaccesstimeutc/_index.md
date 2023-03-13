@@ -1,12 +1,12 @@
 ---
-title: set_LastAccessTimeUtc
+title: set_LastAccessTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the last access time of the entity represented by the current object as UTC time.
 type: docs
 weight: 118
 url: /cpp/system.io/filesysteminfo/set_lastaccesstimeutc/
 ---
-## FileSystemInfo::set_LastAccessTimeUtc method
+## FileSystemInfo::set_LastAccessTimeUtc([DateTime](../../../system/datetime/)) method
 
 
 Sets the last access time of the entity represented by the current object as UTC time.

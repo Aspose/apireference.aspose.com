@@ -1,12 +1,12 @@
 ---
-title: get_Headers
+title: get_Headers()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the HTTP content headers.
 type: docs
 weight: 1
 url: /cpp/system.net.http/httpcontent/get_headers/
 ---
-## HttpContent::get_Headers method
+## HttpContent::get_Headers() method
 
 
 Returns the HTTP content headers.

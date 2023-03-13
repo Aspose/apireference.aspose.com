@@ -1,12 +1,12 @@
 ---
-title: ToGuid
+title: ToGuid()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Guid equivalent.
 type: docs
 weight: 443
 url: /cpp/system.xml/xmlconvert/toguid/
 ---
-## XmlConvert::ToGuid method
+## XmlConvert::ToGuid(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [Guid](../../../system/guid/) equivalent.

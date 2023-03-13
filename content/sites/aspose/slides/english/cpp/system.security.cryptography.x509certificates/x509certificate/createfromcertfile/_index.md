@@ -1,12 +1,12 @@
 ---
-title: CreateFromCertFile
+title: CreateFromCertFile()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates sertificate from the specified PKCS7 file.
 type: docs
 weight: 365
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/createfromcertfile/
 ---
-## X509Certificate::CreateFromCertFile method
+## X509Certificate::CreateFromCertFile(const [String](../../../system/string/)\&) method
 
 
 Creates sertificate from the specified PKCS7 file.

@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective theme data with the inheritance applied.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.theme/theme/geteffective/
 ---
-## Theme::GetEffective method
+## Theme::GetEffective() method
 
 
 Gets effective theme data with the inheritance applied.

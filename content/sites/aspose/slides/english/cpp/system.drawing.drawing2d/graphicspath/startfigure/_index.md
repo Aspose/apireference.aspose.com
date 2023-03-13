@@ -1,12 +1,12 @@
 ---
-title: StartFigure
+title: StartFigure()
 second_title: Aspose.Slides for C++ API Reference
 description: Starts a new figure.
 type: docs
 weight: 300
 url: /cpp/system.drawing.drawing2d/graphicspath/startfigure/
 ---
-## GraphicsPath::StartFigure method
+## GraphicsPath::StartFigure() method
 
 
 Starts a new figure.

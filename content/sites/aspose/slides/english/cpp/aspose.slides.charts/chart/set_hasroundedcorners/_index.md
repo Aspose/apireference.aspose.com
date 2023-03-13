@@ -1,12 +1,12 @@
 ---
-title: set_HasRoundedCorners
+title: set_HasRoundedCorners()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the chart area shall have rounded corners. Write bool.
 type: docs
 weight: 391
 url: /cpp/aspose.slides.charts/chart/set_hasroundedcorners/
 ---
-## Chart::set_HasRoundedCorners method
+## Chart::set_HasRoundedCorners(**bool**) method
 
 
 Specifies the chart area shall have rounded corners. Write **bool**.

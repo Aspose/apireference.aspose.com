@@ -1,5 +1,5 @@
 ---
-title: Xor
+title: Xor()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces the region represented by the current object with the portions of this region and the region defined by the specified recangle that do not intersect.
 type: docs

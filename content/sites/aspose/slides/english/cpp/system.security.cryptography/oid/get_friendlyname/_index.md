@@ -1,12 +1,12 @@
 ---
-title: get_FriendlyName
+title: get_FriendlyName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets user-friendly name of object.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography/oid/get_friendlyname/
 ---
-## Oid::get_FriendlyName method
+## Oid::get_FriendlyName() const method
 
 
 Gets user-friendly name of object.

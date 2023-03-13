@@ -1,12 +1,12 @@
 ---
-title: IsHexDigit
+title: IsHexDigit()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified character represents a valid hexadecimal digit.
 type: docs
 weight: 482
 url: /cpp/system/uri/ishexdigit/
 ---
-## Uri::IsHexDigit method
+## Uri::IsHexDigit(char16_t) method
 
 
 Determines if the specified character represents a valid hexadecimal digit.

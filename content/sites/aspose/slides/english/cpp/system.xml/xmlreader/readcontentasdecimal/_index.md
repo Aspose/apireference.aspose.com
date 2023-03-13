@@ -1,12 +1,12 @@
 ---
-title: ReadContentAsDecimal
+title: ReadContentAsDecimal()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the text content at the current position as a Decimal object.
 type: docs
 weight: 404
 url: /cpp/system.xml/xmlreader/readcontentasdecimal/
 ---
-## XmlReader::ReadContentAsDecimal method
+## XmlReader::ReadContentAsDecimal() method
 
 
 Reads the text content at the current position as a [Decimal](../../../system/decimal/) object.

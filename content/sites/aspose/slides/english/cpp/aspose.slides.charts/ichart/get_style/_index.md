@@ -1,12 +1,12 @@
 ---
-title: get_Style
+title: get_Style()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the chart style. Read StyleType.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/ichart/get_style/
 ---
-## IChart::get_Style method
+## IChart::get_Style() method
 
 
 Returns the chart style. Read [StyleType](../../styletype/).

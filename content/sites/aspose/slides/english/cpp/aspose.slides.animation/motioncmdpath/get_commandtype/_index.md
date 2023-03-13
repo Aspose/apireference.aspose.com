@@ -1,12 +1,12 @@
 ---
-title: get_CommandType
+title: get_CommandType()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies command type. Read MotionCommandPathType.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/motioncmdpath/get_commandtype/
 ---
-## MotionCmdPath::get_CommandType method
+## MotionCmdPath::get_CommandType() method
 
 
 Specifies command type. Read [MotionCommandPathType](../../motioncommandpathtype/).

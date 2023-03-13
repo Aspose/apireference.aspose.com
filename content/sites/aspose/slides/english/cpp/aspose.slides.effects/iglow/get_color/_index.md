@@ -1,12 +1,12 @@
 ---
-title: get_Color
+title: get_Color()
 second_title: Aspose.Slides for C++ API Reference
 description: Color format. Read-only IColorFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/iglow/get_color/
 ---
-## IGlow::get_Color method
+## IGlow::get_Color() method
 
 
 Color format. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

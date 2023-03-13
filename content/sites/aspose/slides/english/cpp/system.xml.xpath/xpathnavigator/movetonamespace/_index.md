@@ -1,12 +1,12 @@
 ---
-title: MoveToNamespace
+title: MoveToNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the XPathNavigator to the namespace node with the specified namespace prefix.
 type: docs
 weight: 547
 url: /cpp/system.xml.xpath/xpathnavigator/movetonamespace/
 ---
-## XPathNavigator::MoveToNamespace method
+## XPathNavigator::MoveToNamespace([String](../../../system/string/)) method
 
 
 Moves the [XPathNavigator](../) to the namespace node with the specified namespace prefix.

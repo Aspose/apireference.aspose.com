@@ -1,12 +1,12 @@
 ---
-title: GetExpirationDateString
+title: GetExpirationDateString()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets expiration date of the current sertificate.
 type: docs
 weight: 118
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getexpirationdatestring/
 ---
-## X509Certificate::GetExpirationDateString method
+## X509Certificate::GetExpirationDateString() const method
 
 
 Gets expiration date of the current sertificate.

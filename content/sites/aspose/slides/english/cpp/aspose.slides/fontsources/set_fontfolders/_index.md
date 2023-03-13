@@ -1,12 +1,12 @@
 ---
-title: set_FontFolders
+title: set_FontFolders()
 second_title: Aspose.Slides for C++ API Reference
 description: Folders containing font files. All font files located in these folders are included in the collection. Folders that are recursively searched.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/fontsources/set_fontfolders/
 ---
-## FontSources::set_FontFolders method
+## FontSources::set_FontFolders([System::ArrayPtr](../../../system/arrayptr/)\<[System::String](../../../system/string/)\>) method
 
 
 Folders containing font files. All font files located in these folders are included in the collection. Folders that are recursively searched.

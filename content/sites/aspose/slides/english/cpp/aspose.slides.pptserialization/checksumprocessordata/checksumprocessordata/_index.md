@@ -1,12 +1,12 @@
 ---
-title: CheckSumProcessorData
+title: CheckSumProcessorData()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/aspose.slides.pptserialization/checksumprocessordata/checksumprocessordata/
 ---
-## CheckSumProcessorData::CheckSumProcessorData constructor
+## CheckSumProcessorData::CheckSumProcessorData() constructor
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: get_Color
+title: get_Color()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the color of a gradient stop. Read-only System::Drawing::Color."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/gradientstopeffectivedata/get_color/
 ---
-## GradientStopEffectiveData::get_Color method
+## GradientStopEffectiveData::get_Color() method
 
 
 Returns the color of a gradient stop. Read-only [System::Drawing::Color](../../../system.drawing/color/).

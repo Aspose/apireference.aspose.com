@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the CacheControlHeaderValue class.
 type: docs
 weight: 430
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/parse/
 ---
-## CacheControlHeaderValue::Parse method
+## CacheControlHeaderValue::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [CacheControlHeaderValue](../) class.

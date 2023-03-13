@@ -1,12 +1,12 @@
 ---
-title: get_TextContrast
+title: get_TextContrast()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1041
 url: /cpp/system.drawing/graphics/get_textcontrast/
 ---
-## Graphics::get_TextContrast method
+## Graphics::get_TextContrast() const method
 
 
 NOT IMPLEMENTED.

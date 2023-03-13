@@ -1,12 +1,12 @@
 ---
-title: set_ShortTimePattern
+title: set_ShortTimePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets short time pattern.
 type: docs
 weight: 92
 url: /cpp/system.globalization/datetimeformatinfo/set_shorttimepattern/
 ---
-## DateTimeFormatInfo::set_ShortTimePattern method
+## DateTimeFormatInfo::set_ShortTimePattern(const [String](../../../system/string/)\&) method
 
 
 Sets short time pattern.

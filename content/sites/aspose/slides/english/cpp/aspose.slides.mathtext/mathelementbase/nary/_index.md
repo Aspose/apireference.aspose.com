@@ -1,7 +1,7 @@
 ---
-title: Nary
+title: Nary()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates a N-ary operator.
+description: Creates a N-ary operator
 type: docs
 weight: 157
 url: /cpp/aspose.slides.mathtext/mathelementbase/nary/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathelementbase/nary/
 ## MathElementBase::Nary([MathNaryOperatorTypes](../../mathnaryoperatortypes/), [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates a N-ary operator.
+Creates a N-ary operator
 
 ```cpp
 System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::MathElementBase::Nary(MathNaryOperatorTypes type, System::SharedPtr<IMathElement> lowerLimit, System::SharedPtr<IMathElement> upperLimit) override
@@ -51,7 +51,7 @@ auto naryOperator = baseElement->Nary(Aspose::Slides::MathText::MathNaryOperator
 ## MathElementBase::Nary([MathNaryOperatorTypes](../../mathnaryoperatortypes/), [System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
-Creates a N-ary operator.
+Creates a N-ary operator
 
 ```cpp
 System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::MathElementBase::Nary(MathNaryOperatorTypes type, System::String lowerLimit, System::String upperLimit) override

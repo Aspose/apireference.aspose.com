@@ -1,12 +1,12 @@
 ---
-title: get_MinSupportedDateTime
+title: get_MinSupportedDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Minimal point in time that is supported by the calendar.
 type: docs
 weight: 40
 url: /cpp/system.globalization/chineselunisolarcalendar/get_minsupporteddatetime/
 ---
-## ChineseLunisolarCalendar::get_MinSupportedDateTime method
+## ChineseLunisolarCalendar::get_MinSupportedDateTime() const method
 
 
 Minimal point in time that is supported by the calendar.

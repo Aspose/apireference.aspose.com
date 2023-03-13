@@ -1,12 +1,12 @@
 ---
-title: SetLastWriteTime
+title: SetLastWriteTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the last write time of the specified entity as local time.
 type: docs
 weight: 391
 url: /cpp/system.io/file/setlastwritetime/
 ---
-## File::SetLastWriteTime method
+## File::SetLastWriteTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
 
 
 Sets the last write time of the specified entity as local time.

@@ -1,5 +1,5 @@
 ---
-title: WaitOne
+title: WaitOne()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits for the handle to fire for unlimited period.
 type: docs

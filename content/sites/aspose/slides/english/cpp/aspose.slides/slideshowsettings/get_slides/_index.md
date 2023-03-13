@@ -1,15 +1,15 @@
 ---
-title: get_Slides
+title: get_Slides()
 second_title: Aspose.Slides for C++ API Reference
-description: Slides range.
+description: Slides range
 type: docs
 weight: 118
 url: /cpp/aspose.slides/slideshowsettings/get_slides/
 ---
-## SlideShowSettings::get_Slides method
+## SlideShowSettings::get_Slides() const method
 
 
-[Slides](../../) range.
+[Slides](../../) range
 
 ```cpp
 System::SharedPtr<SlidesRange> Aspose::Slides::SlideShowSettings::get_Slides() const

@@ -1,12 +1,12 @@
 ---
-title: get_Param
+title: get_Param()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array of EncoderParameter objects represented by the current EncoderParameters object.
 type: docs
 weight: 14
 url: /cpp/system.drawing.imaging/encoderparameters/get_param/
 ---
-## EncoderParameters::get_Param method
+## EncoderParameters::get_Param() const method
 
 
 Returns an array of [EncoderParameter](../../encoderparameter/) objects represented by the current [EncoderParameters](../) object.

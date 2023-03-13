@@ -1,12 +1,12 @@
 ---
-title: Seek
+title: Seek()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the position of the stream represented by the current object.
 type: docs
 weight: 365
 url: /cpp/system.net.security/sslstream/seek/
 ---
-## SslStream::Seek method
+## SslStream::Seek(**int64_t**, [IO::SeekOrigin](../../../system.io/seekorigin/)) method
 
 
 Sets the position of the stream represented by the current object.

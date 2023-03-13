@@ -1,12 +1,12 @@
 ---
-title: Finalize
+title: Finalize()
 second_title: Aspose.Slides for C++ API Reference
 description: Does nothing.
 type: docs
 weight: 248
 url: /cpp/system.io/filesysteminfo/finalize/
 ---
-## FileSystemInfo::Finalize method
+## FileSystemInfo::Finalize() method
 
 
 Does nothing.

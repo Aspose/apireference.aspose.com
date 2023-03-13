@@ -1,12 +1,12 @@
 ---
-title: IsValid
+title: IsValid()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether MoveNext() was called and end was not reached.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/baseenumerator/isvalid/
 ---
-## BaseEnumerator::IsValid method
+## BaseEnumerator::IsValid() const method
 
 
 Checks whether [MoveNext()](../movenext/) was called and end was not reached.

@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Tint effect data with the inheritance applied.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/tint/geteffective/
 ---
-## Tint::GetEffective method
+## Tint::GetEffective() method
 
 
 Gets effective [Tint](../) effect data with the inheritance applied.

@@ -1,12 +1,12 @@
 ---
-title: get_NamespaceList
+title: get_NamespaceList()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.xml.serialization/xmlserializernamespaces/get_namespacelist/
 ---
-## XmlSerializerNamespaces::get_NamespaceList method
+## XmlSerializerNamespaces::get_NamespaceList() method
 
 
 

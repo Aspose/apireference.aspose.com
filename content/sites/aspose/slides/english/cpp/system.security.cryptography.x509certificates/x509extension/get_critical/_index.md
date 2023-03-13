@@ -1,12 +1,12 @@
 ---
-title: get_Critical
+title: get_Critical()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether extension is critical.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/x509extension/get_critical/
 ---
-## X509Extension::get_Critical method
+## X509Extension::get_Critical() const method
 
 
 Checks whether extension is critical.

@@ -1,12 +1,12 @@
 ---
-title: set_Source
+title: set_Source()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the source of the application information.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaappinfo/set_source/
 ---
-## XmlSchemaAppInfo::set_Source method
+## XmlSchemaAppInfo::set_Source(const [String](../../../system/string/)\&) method
 
 
 Sets the source of the application information.

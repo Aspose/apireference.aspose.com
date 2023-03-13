@@ -1,12 +1,12 @@
 ---
-title: InvokeCompletedEventArgs
+title: InvokeCompletedEventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/invokecompletedeventargs/invokecompletedeventargs/
 ---
-## InvokeCompletedEventArgs::InvokeCompletedEventArgs constructor
+## InvokeCompletedEventArgs::InvokeCompletedEventArgs([Exception](../../../system/exception/), **bool**, [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>, [System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\>) constructor
 
 
 Constructs a new instance.

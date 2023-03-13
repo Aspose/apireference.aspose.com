@@ -1,12 +1,12 @@
 ---
-title: get_Subtype
+title: get_Subtype()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines subtype of effect. Read EffectSubtype.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/ieffect/get_subtype/
 ---
-## IEffect::get_Subtype method
+## IEffect::get_Subtype() method
 
 
 Defines subtype of effect. Read [EffectSubtype](../../effectsubtype/).

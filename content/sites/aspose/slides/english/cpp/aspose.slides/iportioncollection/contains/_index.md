@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the ICollection contains a specific value.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/iportioncollection/contains/
 ---
-## IPortionCollection::Contains method
+## IPortionCollection::Contains([System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../iportion/)\>) method
 
 
 Determines whether the [ICollection](../../../system.collections.generic/icollection/) contains a specific value.

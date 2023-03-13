@@ -1,12 +1,12 @@
 ---
-title: get_Guid
+title: get_Guid()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns GUID associated with the current object.
 type: docs
 weight: 14
 url: /cpp/system.drawing.imaging/framedimension/get_guid/
 ---
-## FrameDimension::get_Guid method
+## FrameDimension::get_Guid() const method
 
 
 Returns GUID associated with the current object.

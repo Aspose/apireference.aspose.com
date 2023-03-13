@@ -1,5 +1,5 @@
 ---
-title: DrawPolygon
+title: DrawPolygon()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws a polygon using the specified pen.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_Token
+title: get_Token()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns new token binded to this IInterruptionTokenSource.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iinterruptiontokensource/get_token/
 ---
-## IInterruptionTokenSource::get_Token method
+## IInterruptionTokenSource::get_Token() method
 
 
 Returns new token binded to this [IInterruptionTokenSource](../).

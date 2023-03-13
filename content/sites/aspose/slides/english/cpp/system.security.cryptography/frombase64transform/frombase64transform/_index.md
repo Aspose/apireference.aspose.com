@@ -1,5 +1,5 @@
 ---
-title: FromBase64Transform
+title: FromBase64Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs

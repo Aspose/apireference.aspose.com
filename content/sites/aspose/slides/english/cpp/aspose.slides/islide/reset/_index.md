@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets position, size and formatting of every shape that has a prototype on LayoutSlide.
 type: docs
 weight: 170
 url: /cpp/aspose.slides/islide/reset/
 ---
-## ISlide::Reset method
+## ISlide::Reset() method
 
 
 Resets position, size and formatting of every shape that has a prototype on [LayoutSlide](../../layoutslide/).

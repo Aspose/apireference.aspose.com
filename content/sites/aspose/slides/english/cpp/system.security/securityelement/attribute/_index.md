@@ -1,12 +1,12 @@
 ---
-title: Attribute
+title: Attribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets attribute value.
 type: docs
 weight: 144
 url: /cpp/system.security/securityelement/attribute/
 ---
-## SecurityElement::Attribute method
+## SecurityElement::Attribute(const [String](../../../system/string/)\&) method
 
 
 Gets attribute value.

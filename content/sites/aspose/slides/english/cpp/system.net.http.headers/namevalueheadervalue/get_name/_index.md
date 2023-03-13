@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a name of the current instance.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/namevalueheadervalue/get_name/
 ---
-## NameValueHeaderValue::get_Name method
+## NameValueHeaderValue::get_Name() method
 
 
 Returns a name of the current instance.

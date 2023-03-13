@@ -1,12 +1,12 @@
 ---
-title: get_LineNumber
+title: get_LineNumber()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line number indicating where the error occurred.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/details_xmlschemaexception/get_linenumber/
 ---
-## Details_XmlSchemaException::get_LineNumber method
+## Details_XmlSchemaException::get_LineNumber() method
 
 
 Returns the line number indicating where the error occurred.

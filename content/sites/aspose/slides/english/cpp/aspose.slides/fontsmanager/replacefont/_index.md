@@ -1,7 +1,7 @@
 ---
-title: ReplaceFont
+title: ReplaceFont()
 second_title: Aspose.Slides for C++ API Reference
-description: Replace font in presentation.
+description: Replace font in presentation
 type: docs
 weight: 118
 url: /cpp/aspose.slides/fontsmanager/replacefont/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/fontsmanager/replacefont/
 ## FontsManager::ReplaceFont([System::SharedPtr](../../../system/sharedptr/)\<[Aspose::Slides::IFontData](../../ifontdata/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[Aspose::Slides::IFontData](../../ifontdata/)\>) method
 
 
-Replace font in presentation.
+Replace font in presentation
 
 ```cpp
 void Aspose::Slides::FontsManager::ReplaceFont(System::SharedPtr<Aspose::Slides::IFontData> sourceFont, System::SharedPtr<Aspose::Slides::IFontData> destFont) override

@@ -1,12 +1,12 @@
 ---
-title: get_AnyAttribute
+title: get_AnyAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchemaAnyAttribute component of the attribute group.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaattributegroup/get_anyattribute/
 ---
-## XmlSchemaAttributeGroup::get_AnyAttribute method
+## XmlSchemaAttributeGroup::get_AnyAttribute() method
 
 
 Returns the [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/) component of the attribute group.

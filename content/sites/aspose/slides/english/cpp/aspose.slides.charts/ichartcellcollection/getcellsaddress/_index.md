@@ -1,12 +1,12 @@
 ---
-title: GetCellsAddress
+title: GetCellsAddress()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns address of the set of cells in workbook.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ichartcellcollection/getcellsaddress/
 ---
-## IChartCellCollection::GetCellsAddress method
+## IChartCellCollection::GetCellsAddress() method
 
 
 Returns address of the set of cells in workbook.

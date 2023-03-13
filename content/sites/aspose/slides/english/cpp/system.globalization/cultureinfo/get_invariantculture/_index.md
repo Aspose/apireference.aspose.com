@@ -1,12 +1,12 @@
 ---
-title: get_InvariantCulture
+title: get_InvariantCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets invariant culture.
 type: docs
 weight: 443
 url: /cpp/system.globalization/cultureinfo/get_invariantculture/
 ---
-## CultureInfo::get_InvariantCulture method
+## CultureInfo::get_InvariantCulture() method
 
 
 Gets invariant culture.

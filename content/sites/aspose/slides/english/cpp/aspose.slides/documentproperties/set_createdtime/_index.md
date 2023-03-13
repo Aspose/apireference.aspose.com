@@ -1,12 +1,12 @@
 ---
-title: set_CreatedTime
+title: set_CreatedTime()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the date a presentation was created. Values are in UTC. Write System::DateTime."
 type: docs
 weight: 365
 url: /cpp/aspose.slides/documentproperties/set_createdtime/
 ---
-## DocumentProperties::set_CreatedTime method
+## DocumentProperties::set_CreatedTime([System::DateTime](../../../system/datetime/)) method
 
 
 Returns the date a presentation was created. Values are in UTC. Write [System::DateTime](../../../system/datetime/).

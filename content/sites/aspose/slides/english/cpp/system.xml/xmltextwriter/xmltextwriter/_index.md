@@ -1,5 +1,5 @@
 ---
-title: XmlTextWriter
+title: XmlTextWriter()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an instance of the XmlTextWriter class using the specified stream and encoding.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_IsComboBoxAnimationEnabled
+title: get_IsComboBoxAnimationEnabled()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 404
 url: /cpp/system.windows.forms/systeminformation/get_iscomboboxanimationenabled/
 ---
-## SystemInformation::get_IsComboBoxAnimationEnabled method
+## SystemInformation::get_IsComboBoxAnimationEnabled() method
 
 
 NOT IMPLEMENTED.

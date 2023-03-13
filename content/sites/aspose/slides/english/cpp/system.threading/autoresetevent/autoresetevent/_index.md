@@ -1,12 +1,12 @@
 ---
-title: AutoResetEvent
+title: AutoResetEvent()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.threading/autoresetevent/autoresetevent/
 ---
-## AutoResetEvent::AutoResetEvent constructor
+## AutoResetEvent::AutoResetEvent(**bool**) constructor
 
 
 Constructor.

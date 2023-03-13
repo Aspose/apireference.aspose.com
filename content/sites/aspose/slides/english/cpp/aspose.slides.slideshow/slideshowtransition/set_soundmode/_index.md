@@ -1,12 +1,12 @@
 ---
-title: set_SoundMode
+title: set_SoundMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Set or returns sound mode for slide transition. Write TransitionSoundMode.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.slideshow/slideshowtransition/set_soundmode/
 ---
-## SlideShowTransition::set_SoundMode method
+## SlideShowTransition::set_SoundMode([TransitionSoundMode](../../transitionsoundmode/)) method
 
 
 Set or returns sound mode for slide transition. Write [TransitionSoundMode](../../transitionsoundmode/).

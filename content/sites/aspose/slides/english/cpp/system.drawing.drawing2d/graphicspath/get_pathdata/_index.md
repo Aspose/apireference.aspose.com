@@ -1,12 +1,12 @@
 ---
-title: get_PathData
+title: get_PathData()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a PathData object containing the points that make up a path represented by the current object and their types.
 type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/graphicspath/get_pathdata/
 ---
-## GraphicsPath::get_PathData method
+## GraphicsPath::get_PathData() method
 
 
 Returns a [PathData](../../pathdata/) object containing the points that make up a path represented by the current object and their types.

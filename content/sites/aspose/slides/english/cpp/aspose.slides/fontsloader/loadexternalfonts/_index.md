@@ -1,12 +1,12 @@
 ---
-title: LoadExternalFonts
+title: LoadExternalFonts()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds additional folders to seek fonts.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/fontsloader/loadexternalfonts/
 ---
-## FontsLoader::LoadExternalFonts method
+## FontsLoader::LoadExternalFonts([System::ArrayPtr](../../../system/arrayptr/)\<[System::String](../../../system/string/)\>) method
 
 
 Adds additional folders to seek fonts.

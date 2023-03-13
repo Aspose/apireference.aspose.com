@@ -1,15 +1,15 @@
 ---
-title: get_ExtrusionPlane
+title: get_ExtrusionPlane()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'extrusion.plane' property.
+description: Represents 'extrusion.plane' property
 type: docs
 weight: 1392
 url: /cpp/aspose.slides.animation/behaviorproperty/get_extrusionplane/
 ---
-## BehaviorProperty::get_ExtrusionPlane method
+## BehaviorProperty::get_ExtrusionPlane() method
 
 
-Represents 'extrusion.plane' property.
+Represents 'extrusion.plane' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ExtrusionPlane()

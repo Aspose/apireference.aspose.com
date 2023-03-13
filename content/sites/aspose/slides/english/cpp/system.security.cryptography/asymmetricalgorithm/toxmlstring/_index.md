@@ -1,12 +1,12 @@
 ---
-title: ToXmlString
+title: ToXmlString()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes algorithm parameters to XML string.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/asymmetricalgorithm/toxmlstring/
 ---
-## AsymmetricAlgorithm::ToXmlString method
+## AsymmetricAlgorithm::ToXmlString(**bool**) method
 
 
 Writes algorithm parameters to XML string.

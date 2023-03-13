@@ -1,12 +1,12 @@
 ---
-title: IsBaseOf
+title: IsBaseOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines of the URI represented by the current Uri object is a base of URI represented by the specified Uri object.
 type: docs
 weight: 404
 url: /cpp/system/uri/isbaseof/
 ---
-## Uri::IsBaseOf method
+## Uri::IsBaseOf(const [SharedPtr](../../sharedptr/)\<[Uri](../)\>\&) const method
 
 
 Determines of the URI represented by the current [Uri](../) object is a base of URI represented by the specified [Uri](../) object.

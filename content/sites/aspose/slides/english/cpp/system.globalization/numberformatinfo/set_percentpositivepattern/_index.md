@@ -1,12 +1,12 @@
 ---
-title: set_PercentPositivePattern
+title: set_PercentPositivePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets percent positive pattern.
 type: docs
 weight: 677
 url: /cpp/system.globalization/numberformatinfo/set_percentpositivepattern/
 ---
-## NumberFormatInfo::set_PercentPositivePattern method
+## NumberFormatInfo::set_PercentPositivePattern(int) method
 
 
 Sets percent positive pattern.

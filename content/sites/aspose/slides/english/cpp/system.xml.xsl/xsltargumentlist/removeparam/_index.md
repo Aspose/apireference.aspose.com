@@ -1,12 +1,12 @@
 ---
-title: RemoveParam
+title: RemoveParam()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the parameter from the XsltArgumentList.
 type: docs
 weight: 66
 url: /cpp/system.xml.xsl/xsltargumentlist/removeparam/
 ---
-## XsltArgumentList::RemoveParam method
+## XsltArgumentList::RemoveParam(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Removes the parameter from the [XsltArgumentList](../).

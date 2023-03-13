@@ -1,5 +1,5 @@
 ---
-title: setter_increment_wrap
+title: setter_increment_wrap()
 second_title: Aspose.Slides for C++ API Reference
 description: Translator translates C#'s increment expressions targeting class' property that has setter and getter defined, into invocation of this function.
 type: docs
@@ -37,7 +37,7 @@ The incremented value of the property
 
 * Namespace [System](../)
 * Library [Aspose.Slides](../../)
-## System::setter_increment_wrap([Host](../uricomponents/) *const, T(HostGet::*)(), void(HostSet::*)(T)) function
+## System::setter_increment_wrap(Host *const, T(HostGet::*)(), void(HostSet::*)(T)) function
 
 
 Translator translates C#'s increment expressions targeting class' property that has setter and getter defined, into invocation of this function.
@@ -60,7 +60,7 @@ template<typename T,typename Host,typename HostGet,typename HostSet> std::enable
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| host | [Host](../uricomponents/) *const | A pointer to an object whose property is to be incremented |
+| host | Host *const | A pointer to an object whose property is to be incremented |
 | pGetter | T(HostGet::*)() | Function pointer pointing to the property's getter method |
 | pSetter | void(HostSet::*)(T) | Function pointer pointing to the property's setter method |
 
@@ -70,6 +70,5 @@ The incremented value of the property
 
 ## See Also
 
-* Enum [UriComponents](../uricomponents/)
 * Namespace [System](../)
 * Library [Aspose.Slides](../../)

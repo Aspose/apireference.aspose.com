@@ -1,12 +1,12 @@
 ---
-title: BeginSend
+title: BeginSend()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous send operation.
 type: docs
 weight: 495
 url: /cpp/system.net.sockets/socket/beginsend/
 ---
-## Socket::BeginSend method
+## Socket::BeginSend([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**, [SocketFlags](../../socketflags/), [AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Initiates an asynchronous send operation.

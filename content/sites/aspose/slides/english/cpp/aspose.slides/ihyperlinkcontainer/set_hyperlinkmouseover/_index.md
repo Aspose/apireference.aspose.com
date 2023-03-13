@@ -1,12 +1,12 @@
 ---
-title: set_HyperlinkMouseOver
+title: set_HyperlinkMouseOver()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the hyperlink defined for mouse over. Write IHyperlink.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ihyperlinkcontainer/set_hyperlinkmouseover/
 ---
-## IHyperlinkContainer::set_HyperlinkMouseOver method
+## IHyperlinkContainer::set_HyperlinkMouseOver([System::SharedPtr](../../../system/sharedptr/)\<[IHyperlink](../../ihyperlink/)\>) method
 
 
 Sets the hyperlink defined for mouse over. Write [IHyperlink](../../ihyperlink/).

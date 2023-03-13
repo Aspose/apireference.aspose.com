@@ -1,5 +1,5 @@
 ---
-title: GetUnicode
+title: GetUnicode()
 second_title: Aspose.Slides for C++ API Reference
 description: Convert ascii domain name to unicode equivalent.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: GetFontName
+title: GetFontName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the font name, replacing theme referrence with an actual font used.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ifontdata/getfontname/
 ---
-## IFontData::GetFontName method
+## IFontData::GetFontName([System::SharedPtr](../../../system/sharedptr/)\<[Theme::IThemeEffectiveData](../../../aspose.slides.theme/ithemeeffectivedata/)\>) method
 
 
 Returns the font name, replacing theme referrence with an actual font used.

@@ -1,12 +1,12 @@
 ---
-title: Push
+title: Push()
 second_title: Aspose.Slides for C++ API Reference
 description: Puts element of top of the stack.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/stack/push/
 ---
-## Stack::Push method
+## Stack::Push(const T\&) method
 
 
 Puts element of top of the stack.

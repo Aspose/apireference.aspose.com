@@ -1,12 +1,12 @@
 ---
-title: WriteSlideEnd
+title: WriteSlideEnd()
 second_title: Aspose.Slides for C++ API Reference
 description: Called to write html slide footer. Called once per each of slides.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.export/ihtmlformattingcontroller/writeslideend/
 ---
-## IHtmlFormattingController::WriteSlideEnd method
+## IHtmlFormattingController::WriteSlideEnd([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlGenerator](../../ihtmlgenerator/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../../aspose.slides/islide/)\>) method
 
 
 Called to write html slide footer. Called once per each of slides.

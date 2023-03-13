@@ -1,12 +1,12 @@
 ---
-title: get_LastSavedBy
+title: get_LastSavedBy()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the name of a last person who modified a presentation. Read System::String."
 type: docs
 weight: 430
 url: /cpp/aspose.slides/documentproperties/get_lastsavedby/
 ---
-## DocumentProperties::get_LastSavedBy method
+## DocumentProperties::get_LastSavedBy() method
 
 
 Returns the name of a last person who modified a presentation. Read [System::String](../../../system/string/).

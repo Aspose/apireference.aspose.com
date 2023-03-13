@@ -1,12 +1,12 @@
 ---
-title: Decode
+title: Decode()
 second_title: Aspose.Slides for C++ API Reference
 description: Decodes name using parameters specified by flags.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.x509certificates/x500distinguishedname/decode/
 ---
-## X500DistinguishedName::Decode method
+## X500DistinguishedName::Decode([X500DistinguishedNameFlags](../../x500distinguishednameflags/)) const method
 
 
 Decodes name using parameters specified by flags.

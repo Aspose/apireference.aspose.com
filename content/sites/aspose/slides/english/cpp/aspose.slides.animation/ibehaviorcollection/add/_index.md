@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Add new behavior to a collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/ibehaviorcollection/add/
 ---
-## IBehaviorCollection::Add method
+## IBehaviorCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IBehavior](../../ibehavior/)\>) method
 
 
 Add new behavior to a collection.

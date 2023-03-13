@@ -1,12 +1,12 @@
 ---
-title: set_XmlLang
+title: set_XmlLang()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the current xml:lang scope."
 type: docs
 weight: 196
 url: /cpp/system.xml/xmlparsercontext/set_xmllang/
 ---
-## XmlParserContext::set_XmlLang method
+## XmlParserContext::set_XmlLang(const [String](../../../system/string/)\&) method
 
 
 Sets the current **xml:lang** scope.

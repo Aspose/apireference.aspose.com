@@ -1,12 +1,12 @@
 ---
-title: EndRead
+title: EndRead()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits until the specified asynchronous read operation completes.
 type: docs
 weight: 144
 url: /cpp/system.io/stream/endread/
 ---
-## Stream::EndRead method
+## Stream::EndRead([System::SharedPtr](../../../system/sharedptr/)\<[System::IAsyncResult](../../../system/iasyncresult/)\>) method
 
 
 Waits until the specified asynchronous read operation completes.

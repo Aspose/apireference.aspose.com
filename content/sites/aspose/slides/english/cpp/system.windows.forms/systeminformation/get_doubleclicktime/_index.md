@@ -1,12 +1,12 @@
 ---
-title: get_DoubleClickTime
+title: get_DoubleClickTime()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 170
 url: /cpp/system.windows.forms/systeminformation/get_doubleclicktime/
 ---
-## SystemInformation::get_DoubleClickTime method
+## SystemInformation::get_DoubleClickTime() method
 
 
 NOT IMPLEMENTED.

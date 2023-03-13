@@ -1,12 +1,12 @@
 ---
-title: get_CanRead
+title: get_CanRead()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the stream is readable.
 type: docs
 weight: 157
 url: /cpp/system.io/bufferedstream/get_canread/
 ---
-## BufferedStream::get_CanRead method
+## BufferedStream::get_CanRead() const method
 
 
 Determines if the stream is readable.

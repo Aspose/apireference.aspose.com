@@ -1,12 +1,12 @@
 ---
-title: AddMilliseconds
+title: AddMilliseconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds milliseconds to time point.
 type: docs
 weight: 105
 url: /cpp/system.globalization/calendar/addmilliseconds/
 ---
-## Calendar::AddMilliseconds method
+## Calendar::AddMilliseconds([DateTime](../../../system/datetime/), **double**) const method
 
 
 Adds milliseconds to time point.

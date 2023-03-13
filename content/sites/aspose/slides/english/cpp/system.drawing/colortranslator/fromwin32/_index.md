@@ -1,12 +1,12 @@
 ---
-title: FromWin32
+title: FromWin32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified Windows color to the equvivalent Color object.
 type: docs
 weight: 1
 url: /cpp/system.drawing/colortranslator/fromwin32/
 ---
-## ColorTranslator::FromWin32 method
+## ColorTranslator::FromWin32(int) method
 
 
 Converts the specified [Windows](../../../system.windows/) color to the equvivalent [Color](../../color/) object.

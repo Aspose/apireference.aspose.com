@@ -1,12 +1,12 @@
 ---
-title: get_FillType
+title: get_FillType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the type of filling. Read-only Slides::FillType."
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ifillformateffectivedata/get_filltype/
 ---
-## IFillFormatEffectiveData::get_FillType method
+## IFillFormatEffectiveData::get_FillType() method
 
 
 Returns the type of filling. Read-only [Slides::FillType](../../filltype/).

@@ -1,12 +1,12 @@
 ---
-title: get_HostName
+title: get_HostName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the host name.
 type: docs
 weight: 1
 url: /cpp/system.net/iphostentry/get_hostname/
 ---
-## IPHostEntry::get_HostName method
+## IPHostEntry::get_HostName() const method
 
 
 Gets the host name.

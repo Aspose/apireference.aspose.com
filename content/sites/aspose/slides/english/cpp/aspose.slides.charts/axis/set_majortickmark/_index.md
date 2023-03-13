@@ -1,12 +1,12 @@
 ---
-title: set_MajorTickMark
+title: set_MajorTickMark()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the type of major tick mark for the specified axis. Write TickMarkType.
 type: docs
 weight: 521
 url: /cpp/aspose.slides.charts/axis/set_majortickmark/
 ---
-## Axis::set_MajorTickMark method
+## Axis::set_MajorTickMark([TickMarkType](../../tickmarktype/)) method
 
 
 Represents the type of major tick mark for the specified axis. Write [TickMarkType](../../tickmarktype/).

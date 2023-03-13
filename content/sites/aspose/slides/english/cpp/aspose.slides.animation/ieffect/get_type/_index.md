@@ -1,12 +1,12 @@
 ---
-title: get_Type
+title: get_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines type of effect. Read EffectType.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/ieffect/get_type/
 ---
-## IEffect::get_Type method
+## IEffect::get_Type() method
 
 
 Defines type of effect. Read [EffectType](../../effecttype/).

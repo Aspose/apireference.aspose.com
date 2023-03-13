@@ -1,12 +1,12 @@
 ---
-title: get_Formula
+title: get_Formula()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the formula in A1-style.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/ichartdatacell/get_formula/
 ---
-## IChartDataCell::get_Formula method
+## IChartDataCell::get_Formula() method
 
 
 Gets the formula in A1-style.

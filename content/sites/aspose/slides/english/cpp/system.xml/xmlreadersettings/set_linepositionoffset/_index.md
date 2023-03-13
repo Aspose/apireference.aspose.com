@@ -1,12 +1,12 @@
 ---
-title: set_LinePositionOffset
+title: set_LinePositionOffset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets line position offset of the XmlReader object.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlreadersettings/set_linepositionoffset/
 ---
-## XmlReaderSettings::set_LinePositionOffset method
+## XmlReaderSettings::set_LinePositionOffset(**int32_t**) method
 
 
 Sets line position offset of the [XmlReader](../../xmlreader/) object.

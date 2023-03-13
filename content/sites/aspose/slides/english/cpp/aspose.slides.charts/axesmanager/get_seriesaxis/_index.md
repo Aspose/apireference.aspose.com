@@ -1,12 +1,12 @@
 ---
-title: get_SeriesAxis
+title: get_SeriesAxis()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the chart's series axis. Read-only IAxis.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/axesmanager/get_seriesaxis/
 ---
-## AxesManager::get_SeriesAxis method
+## AxesManager::get_SeriesAxis() method
 
 
 Gets the chart's series axis. Read-only [IAxis](../../iaxis/).

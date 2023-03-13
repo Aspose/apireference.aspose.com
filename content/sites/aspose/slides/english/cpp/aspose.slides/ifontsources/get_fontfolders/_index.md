@@ -1,12 +1,12 @@
 ---
-title: get_FontFolders
+title: get_FontFolders()
 second_title: Aspose.Slides for C++ API Reference
 description: Folders containing font files. All font files located in these folders are included in the collection. Folders that are recursively searched.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ifontsources/get_fontfolders/
 ---
-## IFontSources::get_FontFolders method
+## IFontSources::get_FontFolders() method
 
 
 Folders containing font files. All font files located in these folders are included in the collection. Folders that are recursively searched.

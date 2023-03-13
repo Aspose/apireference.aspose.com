@@ -1,12 +1,12 @@
 ---
-title: get_ShowOutlineIcons
+title: get_ShowOutlineIcons()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether the application should show icons if displaying outline content in any of the content regions of normal view mode. Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/inormalviewproperties/get_showoutlineicons/
 ---
-## INormalViewProperties::get_ShowOutlineIcons method
+## INormalViewProperties::get_ShowOutlineIcons() method
 
 
 Specifies whether the application should show icons if displaying outline content in any of the content regions of normal view mode. Read **bool**.

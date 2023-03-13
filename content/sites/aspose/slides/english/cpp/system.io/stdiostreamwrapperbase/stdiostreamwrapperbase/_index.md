@@ -1,12 +1,12 @@
 ---
-title: STDIOStreamWrapperBase
+title: STDIOStreamWrapperBase()
 second_title: Aspose.Slides for C++ API Reference
 description: Copy constructor. Deleted.
 type: docs
 weight: 14
 url: /cpp/system.io/stdiostreamwrapperbase/stdiostreamwrapperbase/
 ---
-## STDIOStreamWrapperBase::STDIOStreamWrapperBase constructor
+## STDIOStreamWrapperBase::STDIOStreamWrapperBase(const [STDIOStreamWrapperBase](../)\&) constructor
 
 
 Copy constructor. Deleted.

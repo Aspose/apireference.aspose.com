@@ -1,12 +1,12 @@
 ---
-title: get_Constraints
+title: get_Constraints()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of constraints on the element.
 type: docs
 weight: 313
 url: /cpp/system.xml.schema/xmlschemaelement/get_constraints/
 ---
-## XmlSchemaElement::get_Constraints method
+## XmlSchemaElement::get_Constraints() method
 
 
 Returns the collection of constraints on the element.

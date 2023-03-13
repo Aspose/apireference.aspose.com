@@ -1,12 +1,12 @@
 ---
-title: TryParseAdd
+title: TryParseAdd()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to parse a header string representation and add it to the current collection.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httpheadervaluecollection/tryparseadd/
 ---
-## HttpHeaderValueCollection::TryParseAdd method
+## HttpHeaderValueCollection::TryParseAdd([String](../../../system/string/)) method
 
 
 Tries to parse a header string representation and add it to the current collection.

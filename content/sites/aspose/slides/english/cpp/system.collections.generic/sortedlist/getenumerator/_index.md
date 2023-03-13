@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator iterating through current list.
 type: docs
 weight: 79
 url: /cpp/system.collections.generic/sortedlist/getenumerator/
 ---
-## SortedList::GetEnumerator method
+## SortedList::GetEnumerator() method
 
 
 Gets enumerator iterating through current list.

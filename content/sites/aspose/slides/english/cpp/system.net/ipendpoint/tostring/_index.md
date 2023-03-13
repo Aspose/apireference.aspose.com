@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Analog of C# Object.ToString() method. Enables converting custom objects to string.
 type: docs
 weight: 79
 url: /cpp/system.net/ipendpoint/tostring/
 ---
-## IPEndPoint::ToString method
+## IPEndPoint::ToString() const method
 
 
 Analog of C# [Object.ToString()](../../../system/object/tostring/) method. Enables converting custom objects to string.

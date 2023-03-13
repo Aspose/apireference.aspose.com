@@ -1,5 +1,5 @@
 ---
-title: operator!=
+title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the value represented by the current object is not null.
 type: docs

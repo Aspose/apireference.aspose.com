@@ -1,12 +1,12 @@
 ---
-title: get_SymbolFont
+title: get_SymbolFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the symbolic font info. Read-only IFontData.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/ibaseportionformateffectivedata/get_symbolfont/
 ---
-## IBasePortionFormatEffectiveData::get_SymbolFont method
+## IBasePortionFormatEffectiveData::get_SymbolFont() method
 
 
 Returns the symbolic font info. Read-only [IFontData](../../ifontdata/).

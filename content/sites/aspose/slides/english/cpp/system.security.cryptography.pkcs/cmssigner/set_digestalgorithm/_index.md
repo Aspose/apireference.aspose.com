@@ -1,12 +1,12 @@
 ---
-title: set_DigestAlgorithm
+title: set_DigestAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets hash algorithm using with signature.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography.pkcs/cmssigner/set_digestalgorithm/
 ---
-## CmsSigner::set_DigestAlgorithm method
+## CmsSigner::set_DigestAlgorithm(const [SharedPtr](../../../system/sharedptr/)\<[Oid](../../../system.security.cryptography/oid/)\>\&) method
 
 
 Sets hash algorithm using with signature.

@@ -1,5 +1,5 @@
 ---
-title: ReadElementString
+title: ReadElementString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Reads a text-only element. However, it is recommended to use the XmlReader::ReadElementContentAsString method instead, because it provides a more straightforward way to handle this operation."
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the new gradient stop and inserts it at the specified index to the collection.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_LogoImageBytes
+title: get_LogoImageBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Image that will be displayed as logo in the top right corner of the viewer.  Image should be 32x64 pixels PNG image, otherwise logo can be displayed improperly.
 type: docs
 weight: 313
 url: /cpp/aspose.slides.export/iswfoptions/get_logoimagebytes/
 ---
-## ISwfOptions::get_LogoImageBytes method
+## ISwfOptions::get_LogoImageBytes() method
 
 
 Image that will be displayed as logo in the top right corner of the viewer. 

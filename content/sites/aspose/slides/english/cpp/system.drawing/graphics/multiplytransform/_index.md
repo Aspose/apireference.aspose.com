@@ -1,12 +1,12 @@
 ---
-title: MultiplyTransform
+title: MultiplyTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Multiplies the world transformation matrix of the current Graphics object by the specified matrix.
 type: docs
 weight: 872
 url: /cpp/system.drawing/graphics/multiplytransform/
 ---
-## Graphics::MultiplyTransform method
+## Graphics::MultiplyTransform(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::Matrix](../../../system.drawing.drawing2d/matrix/)\>\&, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
 
 
 Multiplies the world transformation matrix of the current [Graphics](../) object by the specified matrix.

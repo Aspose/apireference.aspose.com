@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies string characters into existing array elements. No resize is being done.
 type: docs
 weight: 404
 url: /cpp/system/string/copyto/
 ---
-## String::CopyTo method
+## String::CopyTo(int, const [ArrayPtr](../../arrayptr/)\<char_t\>\&, int, int) const method
 
 
 Copies string characters into existing array elements. No resize is being done.

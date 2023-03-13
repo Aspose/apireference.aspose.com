@@ -1,12 +1,12 @@
 ---
-title: get_RotateWithShape
+title: get_RotateWithShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the fill should be rotated with a shape. Read NullableBool.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ilinefillformat/get_rotatewithshape/
 ---
-## ILineFillFormat::get_RotateWithShape method
+## ILineFillFormat::get_RotateWithShape() method
 
 
 Determines whether the fill should be rotated with a shape. Read [NullableBool](../../nullablebool/).

@@ -1,5 +1,5 @@
 ---
-title: GetDaysInYear
+title: GetDaysInYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of days in specific year.
 type: docs

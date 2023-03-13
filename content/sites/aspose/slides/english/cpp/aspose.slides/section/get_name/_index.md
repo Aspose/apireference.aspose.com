@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Name of the section.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/section/get_name/
 ---
-## Section::get_Name method
+## Section::get_Name() method
 
 
 Name of the section.

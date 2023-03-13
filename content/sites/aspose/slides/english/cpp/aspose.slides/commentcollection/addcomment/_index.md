@@ -1,12 +1,12 @@
 ---
-title: AddComment
+title: AddComment()
 second_title: Aspose.Slides for C++ API Reference
 description: Add new comment at the end of a collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/commentcollection/addcomment/
 ---
-## CommentCollection::AddComment method
+## CommentCollection::AddComment([System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>, [System::Drawing::PointF](../../../system.drawing/pointf/), [System::DateTime](../../../system/datetime/)) method
 
 
 Add new comment at the end of a collection.

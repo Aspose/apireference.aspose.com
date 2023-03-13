@@ -1,12 +1,12 @@
 ---
-title: set_NewColor
+title: set_NewColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the new Color object representing the color to which to convert.
 type: docs
 weight: 40
 url: /cpp/system.drawing.imaging/colormap/set_newcolor/
 ---
-## ColorMap::set_NewColor method
+## ColorMap::set_NewColor(const [Color](../../../system.drawing/color/)\&) method
 
 
 Sets the new [Color](../../../system.drawing/color/) object representing the color to which to convert.

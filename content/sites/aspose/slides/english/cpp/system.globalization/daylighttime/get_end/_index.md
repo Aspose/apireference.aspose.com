@@ -1,12 +1,12 @@
 ---
-title: get_End
+title: get_End()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets date and time when daylight saving time ends.
 type: docs
 weight: 27
 url: /cpp/system.globalization/daylighttime/get_end/
 ---
-## DaylightTime::get_End method
+## DaylightTime::get_End() const method
 
 
 Gets date and time when daylight saving time ends.

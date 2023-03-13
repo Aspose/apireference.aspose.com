@@ -1,12 +1,12 @@
 ---
-title: set_Calendar
+title: set_Calendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets calendar associated with formatter.
 type: docs
 weight: 352
 url: /cpp/system.globalization/datetimeformatinfo/set_calendar/
 ---
-## DateTimeFormatInfo::set_Calendar method
+## DateTimeFormatInfo::set_Calendar(const [SharedPtr](../../../system/sharedptr/)\<[Calendar](../../calendar/)\>\&) method
 
 
 Sets calendar associated with formatter.

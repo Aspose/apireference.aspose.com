@@ -16,8 +16,8 @@ url: /cpp/aspose.slides.animation/
 | [AnimationTimeLine](./animationtimeline/) | Represents timeline of animation. |
 | [Behavior](./behavior/) | Represent base class behavior of effect. |
 | [BehaviorCollection](./behaviorcollection/) | Represents collection of behavior effects. |
-| [BehaviorFactory](./behaviorfactory/) | Allows to create animation effects. |
-| [BehaviorProperty](./behaviorproperty/) | Represent property types for animation behavior. Follows the list of properties from [https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx) and [https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx). |
+| [BehaviorFactory](./behaviorfactory/) | Allows to create animation effects |
+| [BehaviorProperty](./behaviorproperty/) | Represent property types for animation behavior. Follows the list of properties from [https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx) and [https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx) |
 | [BehaviorPropertyCollection](./behaviorpropertycollection/) | Represents timing properties for the effect behavior. |
 | [ColorEffect](./coloreffect/) | Represents a color effect for an animation behavior. |
 | [ColorOffset](./coloroffset/) | Represent color offset. |
@@ -26,8 +26,8 @@ url: /cpp/aspose.slides.animation/
 | [FilterEffect](./filtereffect/) | Represent filter effect of behavior. |
 | [IBehavior](./ibehavior/) | Represent base class behavior of effect. |
 | [IBehaviorCollection](./ibehaviorcollection/) | Represents collection of behavior effects. |
-| [IBehaviorFactory](./ibehaviorfactory/) | Allows to create animation effects. |
-| [IBehaviorProperty](./ibehaviorproperty/) | Represent property types for animation behavior. Follows the list of properties from [https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx) and [https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx). |
+| [IBehaviorFactory](./ibehaviorfactory/) | Allows to create animation effects |
+| [IBehaviorProperty](./ibehaviorproperty/) | Represent property types for animation behavior. Follows the list of properties from [https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/dd949052(v=office.15).aspx) and [https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx](https://msdn.microsoft.com/en-us/library/documentformat.openxml.presentation.attributename(v=office.15).aspx) |
 | [IBehaviorPropertyCollection](./ibehaviorpropertycollection/) | Represents timing properties for the effect behavior. |
 | [IColorEffect](./icoloreffect/) | Represents a color effect for an animation behavior. |
 | [IColorOffset](./icoloroffset/) | Represent color offset. |
@@ -85,7 +85,7 @@ url: /cpp/aspose.slides.animation/
 | [FilterEffectType](./filtereffecttype/) | Represents filter effect types. |
 | [MotionCommandPathType](./motioncommandpathtype/) | Represent types of command for animation motion effect behavior. |
 | [MotionOriginType](./motionorigintype/) | Specifies what the origin of the motion path is relative to. Such as the layout of the slide, or the parent. |
-| [MotionPathEditMode](./motionpatheditmode/) | Specifies how the motion path moves when the target shape is moved. |
+| [MotionPathEditMode](./motionpatheditmode/) | Specifies how the motion path moves when the target shape is moved |
 | [MotionPathPointsType](./motionpathpointstype/) | Represent types of points in animation motion path. |
 | [PropertyCalcModeType](./propertycalcmodetype/) | Represent calc mode for animation property. |
 | [PropertyValueType](./propertyvaluetype/) | Represent property value types. |

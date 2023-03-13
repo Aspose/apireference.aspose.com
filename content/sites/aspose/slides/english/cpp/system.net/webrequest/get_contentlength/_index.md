@@ -1,12 +1,12 @@
 ---
-title: get_ContentLength
+title: get_ContentLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the number of bytes of the request data to sent.
 type: docs
 weight: 339
 url: /cpp/system.net/webrequest/get_contentlength/
 ---
-## WebRequest::get_ContentLength method
+## WebRequest::get_ContentLength() method
 
 
 Gets the number of bytes of the request data to sent.

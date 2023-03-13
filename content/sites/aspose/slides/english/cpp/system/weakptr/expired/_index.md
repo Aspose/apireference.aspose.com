@@ -1,12 +1,12 @@
 ---
-title: expired
+title: expired()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if referenced object was already deleted.
 type: docs
 weight: 40
 url: /cpp/system/weakptr/expired/
 ---
-## WeakPtr::expired method
+## WeakPtr::expired() const method
 
 
 Checks if referenced object was already deleted.

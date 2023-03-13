@@ -1,12 +1,12 @@
 ---
-title: get_MonitorsSameDisplayFormat
+title: get_MonitorsSameDisplayFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 820
 url: /cpp/system.windows.forms/systeminformation/get_monitorssamedisplayformat/
 ---
-## SystemInformation::get_MonitorsSameDisplayFormat method
+## SystemInformation::get_MonitorsSameDisplayFormat() method
 
 
 NOT IMPLEMENTED.

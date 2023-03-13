@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Looks for column in collection.
 type: docs
 weight: 27
 url: /cpp/system.data/datacolumncollection/indexof/
 ---
-## DataColumnCollection::IndexOf method
+## DataColumnCollection::IndexOf(const [System::String](../../../system/string/)\&) method
 
 
 Looks for column in collection.

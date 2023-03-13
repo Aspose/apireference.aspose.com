@@ -1,12 +1,12 @@
 ---
-title: get_DispositionType
+title: get_DispositionType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a disposition type.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_dispositiontype/
 ---
-## ContentDispositionHeaderValue::get_DispositionType method
+## ContentDispositionHeaderValue::get_DispositionType() method
 
 
 Gets a disposition type.

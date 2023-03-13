@@ -1,15 +1,15 @@
 ---
-title: get_SkewMatrixPerspectiveX
+title: get_SkewMatrixPerspectiveX()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'skew.matrix.perspectiveX' property.
+description: Represents 'skew.matrix.perspectiveX' property
 type: docs
 weight: 1262
 url: /cpp/aspose.slides.animation/behaviorproperty/get_skewmatrixperspectivex/
 ---
-## BehaviorProperty::get_SkewMatrixPerspectiveX method
+## BehaviorProperty::get_SkewMatrixPerspectiveX() method
 
 
-Represents 'skew.matrix.perspectiveX' property.
+Represents 'skew.matrix.perspectiveX' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_SkewMatrixPerspectiveX()

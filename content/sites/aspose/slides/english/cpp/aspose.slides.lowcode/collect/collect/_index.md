@@ -1,12 +1,12 @@
 ---
-title: Collect
+title: Collect()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/aspose.slides.lowcode/collect/collect/
 ---
-## Collect::Collect constructor
+## Collect::Collect() constructor
 
 
 

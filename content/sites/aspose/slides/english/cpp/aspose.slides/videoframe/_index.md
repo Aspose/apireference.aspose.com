@@ -69,6 +69,8 @@ class VideoFrame : public Aspose::Slides::PictureFrame,
 | [Aspose::Slides::ShapeType](../shapetype/) [get_ShapeType](../pictureframe/get_shapetype/)() override |  |
 | [System::SharedPtr](../../system/sharedptr/)\<[IBaseSlide](../ibaseslide/)\> [get_Slide](../shape/get_slide/)() override | Returns the parent slide of a shape. Read-only [IBaseSlide](../ibaseslide/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[IThreeDFormat](../ithreedformat/)\> [get_ThreeDFormat](../shape/get_threedformat/)() override | Returns the [ThreeDFormat](../threedformat/) object that 3d effect properties for a shape. Note: can return null for certain types of shapes which don't have 3d properties. Read-only [IThreeDFormat](../ithreedformat/). |
+| **float** [get_TrimFromEnd](./get_trimfromend/)() override | Trim end [ms] |
+| **float** [get_TrimFromStart](./get_trimfromstart/)() override | Trim start [ms] |
 | **uint32_t** [get_UniqueId](../shape/get_uniqueid/)() override | Gets unique shape identifier in presentation scope. Read-only **uint32_t**. See also [Shape::get_OfficeInteropShapeId](../shape/get_officeinteropshapeid/) for getting unique shape identifier in slide scope. |
 | [AudioVolumeMode](../audiovolumemode/) [get_Volume](./get_volume/)() override | Returns the audio volume. Read [AudioVolumeMode](../audiovolumemode/). |
 | **float** [get_Width](../shape/get_width/)() override | Returns the width of the shape. Read **float**. |
@@ -116,6 +118,8 @@ class VideoFrame : public Aspose::Slides::PictureFrame,
 | void [set_RewindVideo](./set_rewindvideo/)(**bool**) override | Determines whether a video is automatically rewinded to start as soon as the movie has finished playing. Write **bool**. |
 | void [set_Rotation](../shape/set_rotation/)(**float**) override | Sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Write **float**. |
 | void [set_ShapeType](../pictureframe/set_shapetype/)([Aspose::Slides::ShapeType](../shapetype/)) override |  |
+| void [set_TrimFromEnd](./set_trimfromend/)(**float**) override | Trim end [ms] |
+| void [set_TrimFromStart](./set_trimfromstart/)(**float**) override | Trim start [ms] |
 | void [set_Volume](./set_volume/)([AudioVolumeMode](../audiovolumemode/)) override | Sets the audio volume. Write [AudioVolumeMode](../audiovolumemode/). |
 | void [set_Width](../shape/set_width/)(**float**) override | Sets the width of the shape. Write **float**. |
 | void [set_X](../shape/set_x/)(**float**) override | Sets the x-coordinate of the upper-left corner of the shape. Write **float**. |

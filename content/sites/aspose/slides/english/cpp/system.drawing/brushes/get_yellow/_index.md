@@ -1,12 +1,12 @@
 ---
-title: get_Yellow
+title: get_Yellow()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFFFF00.
 type: docs
 weight: 1808
 url: /cpp/system.drawing/brushes/get_yellow/
 ---
-## Brushes::get_Yellow method
+## Brushes::get_Yellow() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFFFF00.

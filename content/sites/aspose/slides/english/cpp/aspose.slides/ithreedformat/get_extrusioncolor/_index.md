@@ -1,12 +1,12 @@
 ---
-title: get_ExtrusionColor
+title: get_ExtrusionColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the color of an extrusion. Read-only IColorFormat.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/ithreedformat/get_extrusioncolor/
 ---
-## IThreeDFormat::get_ExtrusionColor method
+## IThreeDFormat::get_ExtrusionColor() method
 
 
 Returns the color of an extrusion. Read-only [IColorFormat](../../icolorformat/).

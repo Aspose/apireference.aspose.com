@@ -1,12 +1,12 @@
 ---
-title: ToByte
+title: ToByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the Decimal value to unsigned 8-bit integer value.
 type: docs
 weight: 638
 url: /cpp/system/decimal/tobyte/
 ---
-## Decimal::ToByte method
+## Decimal::ToByte([Decimal](../)) method
 
 
 Converts the [Decimal](../) value to unsigned 8-bit integer value.

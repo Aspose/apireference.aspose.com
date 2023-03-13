@@ -1,5 +1,5 @@
 ---
-title: CompareOrdinal
+title: CompareOrdinal()
 second_title: Aspose.Slides for C++ API Reference
 description: Less-equal-greater-compares two strings using ordinal mode.
 type: docs

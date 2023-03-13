@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the collection contains a specific value.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.mathtext/mathparagraph/contains/
 ---
-## MathParagraph::Contains method
+## MathParagraph::Contains([System::SharedPtr](../../../system/sharedptr/)\<[IMathBlock](../../imathblock/)\>) method
 
 
 Determines whether the collection contains a specific value.

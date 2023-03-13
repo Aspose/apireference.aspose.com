@@ -1,12 +1,12 @@
 ---
-title: Read
+title: Read()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads next record from database.
 type: docs
 weight: 27
 url: /cpp/system.data.common/dbdatareader/read/
 ---
-## DbDataReader::Read method
+## DbDataReader::Read() method
 
 
 Reads next record from database.

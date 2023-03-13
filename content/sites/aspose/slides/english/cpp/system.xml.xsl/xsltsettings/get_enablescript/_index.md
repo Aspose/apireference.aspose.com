@@ -1,12 +1,12 @@
 ---
-title: get_EnableScript
+title: get_EnableScript()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether to enable support for embedded script blocks.
 type: docs
 weight: 53
 url: /cpp/system.xml.xsl/xsltsettings/get_enablescript/
 ---
-## XsltSettings::get_EnableScript method
+## XsltSettings::get_EnableScript() method
 
 
 Returns a value indicating whether to enable support for embedded script blocks.

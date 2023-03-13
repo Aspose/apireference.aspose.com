@@ -1,12 +1,12 @@
 ---
-title: get_PlotArea
+title: get_PlotArea()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the plot area of a chart. Read-only IChartPlotArea.
 type: docs
 weight: 235
 url: /cpp/aspose.slides.charts/ichart/get_plotarea/
 ---
-## IChart::get_PlotArea method
+## IChart::get_PlotArea() method
 
 
 Represents the plot area of a chart. Read-only [IChartPlotArea](../../ichartplotarea/).

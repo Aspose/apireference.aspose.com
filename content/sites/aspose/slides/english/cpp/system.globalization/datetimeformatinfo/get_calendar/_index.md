@@ -1,12 +1,12 @@
 ---
-title: get_Calendar
+title: get_Calendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets calendar associated with formatter.
 type: docs
 weight: 339
 url: /cpp/system.globalization/datetimeformatinfo/get_calendar/
 ---
-## DateTimeFormatInfo::get_Calendar method
+## DateTimeFormatInfo::get_Calendar() const method
 
 
 Gets calendar associated with formatter.

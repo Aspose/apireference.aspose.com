@@ -1,12 +1,12 @@
 ---
-title: ReadElementContentAsBase64
+title: ReadElementContentAsBase64()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the element and decodes the Base64 content.
 type: docs
 weight: 469
 url: /cpp/system.xml/xmlnodereader/readelementcontentasbase64/
 ---
-## XmlNodeReader::ReadElementContentAsBase64 method
+## XmlNodeReader::ReadElementContentAsBase64([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**) method
 
 
 Reads the element and decodes the Base64 content.

@@ -1,12 +1,12 @@
 ---
-title: ToFileTime
+title: ToFileTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts current object to the Windows file time.
 type: docs
 weight: 404
 url: /cpp/system/datetimeoffset/tofiletime/
 ---
-## DateTimeOffset::ToFileTime method
+## DateTimeOffset::ToFileTime() const method
 
 
 Converts current object to the [Windows](../../../system.windows/) file time.

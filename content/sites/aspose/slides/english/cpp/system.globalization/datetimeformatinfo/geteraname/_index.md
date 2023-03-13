@@ -1,12 +1,12 @@
 ---
-title: GetEraName
+title: GetEraName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets era name.
 type: docs
 weight: 703
 url: /cpp/system.globalization/datetimeformatinfo/geteraname/
 ---
-## DateTimeFormatInfo::GetEraName method
+## DateTimeFormatInfo::GetEraName(int) const method
 
 
 Gets era name.

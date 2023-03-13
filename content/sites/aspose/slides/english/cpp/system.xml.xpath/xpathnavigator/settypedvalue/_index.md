@@ -1,12 +1,12 @@
 ---
-title: SetTypedValue
+title: SetTypedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the typed value of the current node.
 type: docs
 weight: 365
 url: /cpp/system.xml.xpath/xpathnavigator/settypedvalue/
 ---
-## XPathNavigator::SetTypedValue method
+## XPathNavigator::SetTypedValue([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Sets the typed value of the current node.

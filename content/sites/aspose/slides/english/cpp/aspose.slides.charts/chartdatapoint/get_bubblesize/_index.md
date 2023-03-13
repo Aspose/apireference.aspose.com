@@ -1,12 +1,12 @@
 ---
-title: get_BubbleSize
+title: get_BubbleSize()
 second_title: Aspose.Slides for C++ API Reference
 description: BubbleSize. Read-only IDoubleChartValue.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/chartdatapoint/get_bubblesize/
 ---
-## ChartDataPoint::get_BubbleSize method
+## ChartDataPoint::get_BubbleSize() method
 
 
 BubbleSize. Read-only [IDoubleChartValue](../../idoublechartvalue/).

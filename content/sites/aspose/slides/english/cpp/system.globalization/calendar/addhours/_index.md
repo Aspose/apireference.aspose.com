@@ -1,12 +1,12 @@
 ---
-title: AddHours
+title: AddHours()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds hours to time point.
 type: docs
 weight: 92
 url: /cpp/system.globalization/calendar/addhours/
 ---
-## Calendar::AddHours method
+## Calendar::AddHours([DateTime](../../../system/datetime/), int) const method
 
 
 Adds hours to time point.

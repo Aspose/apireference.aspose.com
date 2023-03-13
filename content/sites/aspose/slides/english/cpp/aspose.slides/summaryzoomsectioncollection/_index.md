@@ -20,7 +20,7 @@ class SummaryZoomSectionCollection : public Aspose::Slides::DomObject<System::Sh
 
 | Method | Description |
 | --- | --- |
-| [System::SharedPtr](../../system/sharedptr/)\<[ISummaryZoomSection](../isummaryzoomsection/)\> [AddSummaryZoomSection](./addsummaryzoomsection/)([System::SharedPtr](../../system/sharedptr/)\<[ISection](../isection/)\>) override | Creates new Summary Zoom [Section](../section/) object and add it to the collection. |
+| [System::SharedPtr](../../system/sharedptr/)\<[ISummaryZoomSection](../isummaryzoomsection/)\> [AddSummaryZoomSection](./addsummaryzoomsection/)([System::SharedPtr](../../system/sharedptr/)\<[ISection](../isection/)\>) override | Creates new Summary Zoom [Section](../section/) object and add it to the collection |
 | [iterator](./iterator/) [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [const_iterator](./const_iterator/) [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [const_iterator](./const_iterator/) [cbegin](./cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |

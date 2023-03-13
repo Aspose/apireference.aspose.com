@@ -1,12 +1,12 @@
 ---
-title: ~Func
+title: ~Func()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system/func/~func/
 ---
-## Func::~Func method
+## Func::~Func() method
 
 
 Destructor.

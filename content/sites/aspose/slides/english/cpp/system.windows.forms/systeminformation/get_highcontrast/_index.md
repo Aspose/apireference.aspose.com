@@ -1,12 +1,12 @@
 ---
-title: get_HighContrast
+title: get_HighContrast()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 261
 url: /cpp/system.windows.forms/systeminformation/get_highcontrast/
 ---
-## SystemInformation::get_HighContrast method
+## SystemInformation::get_HighContrast() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: set_Version
+title: set_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the version of the schema.
 type: docs
 weight: 144
 url: /cpp/system.xml.schema/xmlschema/set_version/
 ---
-## XmlSchema::set_Version method
+## XmlSchema::set_Version(const [String](../../../system/string/)\&) method
 
 
 Sets the version of the schema.

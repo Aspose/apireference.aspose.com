@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Color Change effect data with the inheritance applied.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/colorchange/geteffective/
 ---
-## ColorChange::GetEffective method
+## ColorChange::GetEffective() method
 
 
 Gets effective Color Change effect data with the inheritance applied.

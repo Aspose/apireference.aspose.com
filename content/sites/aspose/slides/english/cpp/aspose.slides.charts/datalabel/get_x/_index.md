@@ -1,12 +1,12 @@
 ---
-title: get_X
+title: get_X()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the x coordinate of a title as a fraction of the width of the chart. Read float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/datalabel/get_x/
 ---
-## DataLabel::get_X method
+## DataLabel::get_X() method
 
 
 Returns the x coordinate of a title as a fraction of the width of the chart. Read **float**.

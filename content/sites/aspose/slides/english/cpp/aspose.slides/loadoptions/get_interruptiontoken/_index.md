@@ -1,12 +1,12 @@
 ---
-title: get_InterruptionToken
+title: get_InterruptionToken()
 second_title: Aspose.Slides for C++ API Reference
 description: The token to monitor for interruption requests.
 type: docs
 weight: 235
 url: /cpp/aspose.slides/loadoptions/get_interruptiontoken/
 ---
-## LoadOptions::get_InterruptionToken method
+## LoadOptions::get_InterruptionToken() method
 
 
 The token to monitor for interruption requests.

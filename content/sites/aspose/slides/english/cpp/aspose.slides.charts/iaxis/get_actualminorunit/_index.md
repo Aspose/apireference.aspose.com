@@ -1,12 +1,12 @@
 ---
-title: get_ActualMinorUnit
+title: get_ActualMinorUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies actual minor unit of the axis. Call method IChart::ValidateChartLayout previously to get actual value."
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/iaxis/get_actualminorunit/
 ---
-## IAxis::get_ActualMinorUnit method
+## IAxis::get_ActualMinorUnit() method
 
 
 Specifies actual minor unit of the axis. Call method [IChart::ValidateChartLayout](../../ichart/validatechartlayout/) previously to get actual value.

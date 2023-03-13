@@ -1,12 +1,12 @@
 ---
-title: get_IsAutomaticMaxValue
+title: get_IsAutomaticMaxValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether the max value is automatically assigned. Read bool.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/iaxis/get_isautomaticmaxvalue/
 ---
-## IAxis::get_IsAutomaticMaxValue method
+## IAxis::get_IsAutomaticMaxValue() method
 
 
 Indicates whether the max value is automatically assigned. Read **bool**.

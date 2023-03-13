@@ -1,12 +1,12 @@
 ---
-title: get_IfMatch
+title: get_IfMatch()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value of the 'If-Match' header.
 type: docs
 weight: 170
 url: /cpp/system.net.http.headers/httprequestheaders/get_ifmatch/
 ---
-## HttpRequestHeaders::get_IfMatch method
+## HttpRequestHeaders::get_IfMatch() method
 
 
 Returns a value of the 'If-Match' header.

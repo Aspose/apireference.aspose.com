@@ -1,12 +1,12 @@
 ---
-title: get_DeepPink
+title: get_DeepPink()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFFF1493.
 type: docs
 weight: 742
 url: /cpp/system.drawing/color/get_deeppink/
 ---
-## Color::get_DeepPink method
+## Color::get_DeepPink() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFFF1493.

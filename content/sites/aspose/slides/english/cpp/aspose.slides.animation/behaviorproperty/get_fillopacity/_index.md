@@ -1,15 +1,15 @@
 ---
-title: get_FillOpacity
+title: get_FillOpacity()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'fill.opacity' property.
+description: Represents 'fill.opacity' property
 type: docs
 weight: 573
 url: /cpp/aspose.slides.animation/behaviorproperty/get_fillopacity/
 ---
-## BehaviorProperty::get_FillOpacity method
+## BehaviorProperty::get_FillOpacity() method
 
 
-Represents 'fill.opacity' property.
+Represents 'fill.opacity' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_FillOpacity()

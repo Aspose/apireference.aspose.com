@@ -1,12 +1,12 @@
 ---
-title: get_MinSize
+title: get_MinSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets minimal valid key size.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/keysizes/get_minsize/
 ---
-## KeySizes::get_MinSize method
+## KeySizes::get_MinSize() const method
 
 
 Gets minimal valid key size.

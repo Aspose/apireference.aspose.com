@@ -1,12 +1,12 @@
 ---
-title: HighlightRegex
+title: HighlightRegex()
 second_title: Aspose.Slides for C++ API Reference
 description: Highlight all matches of regular expression in text frame text using specified color.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/textframe/highlightregex/
 ---
-## TextFrame::HighlightRegex method
+## TextFrame::HighlightRegex([System::String](../../../system/string/), [System::Drawing::Color](../../../system.drawing/color/), [System::SharedPtr](../../../system/sharedptr/)\<[ITextHighlightingOptions](../../itexthighlightingoptions/)\>) method
 
 
 Highlight all matches of regular expression in text frame text using specified color.

@@ -1,5 +1,5 @@
 ---
-title: ToArray
+title: ToArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates and returns an array with all slides in it.
 type: docs

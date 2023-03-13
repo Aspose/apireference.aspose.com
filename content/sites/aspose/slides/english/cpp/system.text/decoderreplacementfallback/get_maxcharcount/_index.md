@@ -1,12 +1,12 @@
 ---
-title: get_MaxCharCount
+title: get_MaxCharCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets maximal count of characters the instance can return.
 type: docs
 weight: 27
 url: /cpp/system.text/decoderreplacementfallback/get_maxcharcount/
 ---
-## DecoderReplacementFallback::get_MaxCharCount method
+## DecoderReplacementFallback::get_MaxCharCount() const method
 
 
 Gets maximal count of characters the instance can return.

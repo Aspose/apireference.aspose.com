@@ -1,12 +1,12 @@
 ---
-title: get_BaseTypeName
+title: get_BaseTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of a built-in data type or simple type from which this type is extended.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemasimplecontentextension/get_basetypename/
 ---
-## XmlSchemaSimpleContentExtension::get_BaseTypeName method
+## XmlSchemaSimpleContentExtension::get_BaseTypeName() method
 
 
 Returns the name of a built-in data type or simple type from which this type is extended.

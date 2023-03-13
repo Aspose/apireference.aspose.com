@@ -1,7 +1,7 @@
 ---
-title: Vector2d32f
+title: Vector2d32f()
 second_title: Aspose.Slides for C++ API Reference
-description: Constructor.
+description: Constructor
 type: docs
 weight: 1
 url: /cpp/aspose.slides.drawing/vector2d32f/vector2d32f/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.drawing/vector2d32f/vector2d32f/
 ## Vector2d32f::Vector2d32f(**float**, **float**) constructor
 
 
-Constructor.
+Constructor
 
 ```cpp
 Aspose::Slides::Drawing::Vector2d32f::Vector2d32f(float x, float y)

@@ -1,5 +1,5 @@
 ---
-title: CreateMask
+title: CreateMask()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the first mask in a series.
 type: docs

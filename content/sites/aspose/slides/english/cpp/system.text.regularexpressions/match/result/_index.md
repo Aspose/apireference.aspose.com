@@ -1,12 +1,12 @@
 ---
-title: Result
+title: Result()
 second_title: Aspose.Slides for C++ API Reference
 description: Formats string by replacing submatch references with their values.
 type: docs
 weight: 40
 url: /cpp/system.text.regularexpressions/match/result/
 ---
-## Match::Result method
+## Match::Result(const [String](../../../system/string/)\&) method
 
 
 Formats string by replacing submatch references with their values.

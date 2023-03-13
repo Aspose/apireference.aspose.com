@@ -1,12 +1,12 @@
 ---
-title: FromKnownColor
+title: FromKnownColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance of Color class that represents the specified known color.
 type: docs
 weight: 222
 url: /cpp/system.drawing/color/fromknowncolor/
 ---
-## Color::FromKnownColor method
+## Color::FromKnownColor([KnownColor](../../knowncolor/)) method
 
 
 Constructs an instance of [Color](../) class that represents the specified known color.

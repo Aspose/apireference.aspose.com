@@ -1,12 +1,12 @@
 ---
-title: get_LightSeaGreen
+title: get_LightSeaGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF20B2AA.
 type: docs
 weight: 924
 url: /cpp/system.drawing/brushes/get_lightseagreen/
 ---
-## Brushes::get_LightSeaGreen method
+## Brushes::get_LightSeaGreen() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF20B2AA.

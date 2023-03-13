@@ -1,12 +1,12 @@
 ---
-title: ReadContentAsDouble
+title: ReadContentAsDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the text content at the current position as a double-precision floating-point number.
 type: docs
 weight: 378
 url: /cpp/system.xml/xmlreader/readcontentasdouble/
 ---
-## XmlReader::ReadContentAsDouble method
+## XmlReader::ReadContentAsDouble() method
 
 
 Reads the text content at the current position as a double-precision floating-point number.

@@ -1,12 +1,12 @@
 ---
-title: RunWorkerCompletedEventArgs
+title: RunWorkerCompletedEventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/runworkercompletedeventargs/runworkercompletedeventargs/
 ---
-## RunWorkerCompletedEventArgs::RunWorkerCompletedEventArgs constructor
+## RunWorkerCompletedEventArgs::RunWorkerCompletedEventArgs(const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&, const [System::Exception](../../../system/exception/)\&, **bool**) constructor
 
 
 Constructor.

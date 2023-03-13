@@ -1,5 +1,5 @@
 ---
-title: CreateCustomTimeZone
+title: CreateCustomTimeZone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a custom time zone.
 type: docs

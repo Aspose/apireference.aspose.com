@@ -1,12 +1,12 @@
 ---
-title: set_Types
+title: set_Types()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets an array containing the values that specify the types of corresponding points in Points array.
 type: docs
 weight: 40
 url: /cpp/system.drawing.drawing2d/pathdata/set_types/
 ---
-## PathData::set_Types method
+## PathData::set_Types(const [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
 
 
 Sets an array containing the values that specify the types of corresponding points in **Points** array.

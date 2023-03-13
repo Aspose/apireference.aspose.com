@@ -1,12 +1,12 @@
 ---
-title: set_RawData
+title: set_RawData()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets raw encoded data.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/asnencodeddata/set_rawdata/
 ---
-## AsnEncodedData::set_RawData method
+## AsnEncodedData::set_RawData(const [ByteArrayPtr](../../../system/bytearrayptr/)\&) method
 
 
 Sets raw encoded data.

@@ -1,12 +1,12 @@
 ---
-title: get_LineColor
+title: get_LineColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shape's outline color. Read-only IColorFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ishapestyle/get_linecolor/
 ---
-## IShapeStyle::get_LineColor method
+## IShapeStyle::get_LineColor() method
 
 
 Returns a shape's outline color. Read-only [IColorFormat](../../icolorformat/).

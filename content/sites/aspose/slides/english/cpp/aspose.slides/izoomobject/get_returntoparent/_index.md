@@ -1,15 +1,15 @@
 ---
-title: get_ReturnToParent
+title: get_ReturnToParent()
 second_title: Aspose.Slides for C++ API Reference
-description: "Gets the navigation behavior in slideshow. Read bool. Default value: false."
+description: "Gets the navigation behavior in slideshow. Read bool. Default value: false"
 type: docs
 weight: 27
 url: /cpp/aspose.slides/izoomobject/get_returntoparent/
 ---
-## IZoomObject::get_ReturnToParent method
+## IZoomObject::get_ReturnToParent() method
 
 
-Gets the navigation behavior in slideshow. Read **bool**. Default value: false.
+Gets the navigation behavior in slideshow. Read **bool**. Default value: false
 
 ```cpp
 virtual bool Aspose::Slides::IZoomObject::get_ReturnToParent()=0

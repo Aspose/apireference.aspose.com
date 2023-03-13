@@ -1,12 +1,12 @@
 ---
-title: get_TextBlockFormat
+title: get_TextBlockFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns format for the chart text elements. Read-only IChartTextBlockFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/icharttextformat/get_textblockformat/
 ---
-## IChartTextFormat::get_TextBlockFormat method
+## IChartTextFormat::get_TextBlockFormat() method
 
 
 Returns format for the chart text elements. Read-only [IChartTextBlockFormat](../../icharttextblockformat/).

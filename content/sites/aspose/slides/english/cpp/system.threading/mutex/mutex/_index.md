@@ -1,5 +1,5 @@
 ---
-title: Mutex
+title: Mutex()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs unowned mutex.
 type: docs

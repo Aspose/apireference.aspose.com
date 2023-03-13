@@ -1,5 +1,5 @@
 ---
-title: FindIndex
+title: FindIndex()
 second_title: Aspose.Slides for C++ API Reference
 description: Looks for element adhering to specific predicate.
 type: docs

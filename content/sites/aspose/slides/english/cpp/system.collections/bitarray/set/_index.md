@@ -1,12 +1,12 @@
 ---
-title: Set
+title: Set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets BitArray element.
 type: docs
 weight: 222
 url: /cpp/system.collections/bitarray/set/
 ---
-## BitArray::Set method
+## BitArray::Set(int, **bool**) method
 
 
 Sets [BitArray](../) element.

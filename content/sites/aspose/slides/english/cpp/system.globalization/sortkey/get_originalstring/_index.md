@@ -1,12 +1,12 @@
 ---
-title: get_OriginalString
+title: get_OriginalString()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets original string used to create this object.
 type: docs
 weight: 27
 url: /cpp/system.globalization/sortkey/get_originalstring/
 ---
-## SortKey::get_OriginalString method
+## SortKey::get_OriginalString() method
 
 
 Gets original string used to create this object.

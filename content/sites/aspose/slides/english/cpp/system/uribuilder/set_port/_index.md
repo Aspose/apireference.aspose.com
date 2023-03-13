@@ -1,12 +1,12 @@
 ---
-title: set_Port
+title: set_Port()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the sets the port number of the URI.
 type: docs
 weight: 66
 url: /cpp/system/uribuilder/set_port/
 ---
-## UriBuilder::set_Port method
+## UriBuilder::set_Port(int) method
 
 
 Sets the sets the port number of the URI.

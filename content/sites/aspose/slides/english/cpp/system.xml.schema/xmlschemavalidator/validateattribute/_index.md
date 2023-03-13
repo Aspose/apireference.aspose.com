@@ -1,5 +1,5 @@
 ---
-title: ValidateAttribute
+title: ValidateAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Validates the attribute name, namespace URI, and value in the current element context.
 type: docs

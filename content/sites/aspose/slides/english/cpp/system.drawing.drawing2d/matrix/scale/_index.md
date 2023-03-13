@@ -1,5 +1,5 @@
 ---
-title: Scale
+title: Scale()
 second_title: Aspose.Slides for C++ API Reference
 description: Applies the specified scale vector to the matrix represented by the current object.
 type: docs

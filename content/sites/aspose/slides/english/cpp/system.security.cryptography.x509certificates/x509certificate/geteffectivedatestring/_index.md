@@ -1,12 +1,12 @@
 ---
-title: GetEffectiveDateString
+title: GetEffectiveDateString()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective date of the current sertificate.
 type: docs
 weight: 105
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/geteffectivedatestring/
 ---
-## X509Certificate::GetEffectiveDateString method
+## X509Certificate::GetEffectiveDateString() const method
 
 
 Gets effective date of the current sertificate.

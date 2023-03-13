@@ -1,12 +1,12 @@
 ---
-title: get_ColorSource
+title: get_ColorSource()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the source of hyperlink color - either styles or portion format. Read HyperlinkColorSource.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/ihyperlink/get_colorsource/
 ---
-## IHyperlink::get_ColorSource method
+## IHyperlink::get_ColorSource() method
 
 
 Represents the source of hyperlink color - either styles or portion format. Read [HyperlinkColorSource](../../hyperlinkcolorsource/).

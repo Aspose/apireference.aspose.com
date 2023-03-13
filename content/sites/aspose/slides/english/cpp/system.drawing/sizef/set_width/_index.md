@@ -1,12 +1,12 @@
 ---
-title: set_Width
+title: set_Width()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of width represented by the current object.
 type: docs
 weight: 53
 url: /cpp/system.drawing/sizef/set_width/
 ---
-## SizeF::set_Width method
+## SizeF::set_Width(**float**) method
 
 
 Sets the value of width represented by the current object.

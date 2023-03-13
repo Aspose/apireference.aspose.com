@@ -1,12 +1,12 @@
 ---
-title: operator!=
+title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: Bitwise comparison operator.
 type: docs
 weight: 274
 url: /cpp/system.collections/bitarray/operator_not_equal/
 ---
-## BitArray::operator!= method
+## BitArray::operator!=(const [BitArray](../)\&) const method
 
 
 Bitwise comparison operator.

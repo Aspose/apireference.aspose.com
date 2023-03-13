@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the stream.
 type: docs
 weight: 92
 url: /cpp/system.io/stream/close/
 ---
-## Stream::Close method
+## Stream::Close() method
 
 
 Closes the stream.

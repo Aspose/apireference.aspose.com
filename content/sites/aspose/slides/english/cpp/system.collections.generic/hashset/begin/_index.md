@@ -1,12 +1,12 @@
 ---
-title: begin
+title: begin()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator to the first element of the const-qualified collection.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/hashset/begin/
 ---
-## HashSet::begin method
+## HashSet::begin() const method
 
 
 Gets iterator to the first element of the const-qualified collection.

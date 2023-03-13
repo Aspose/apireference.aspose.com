@@ -1,12 +1,12 @@
 ---
-title: get_Password
+title: get_Password()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the password.
 type: docs
 weight: 27
 url: /cpp/system.net/networkcredential/get_password/
 ---
-## NetworkCredential::get_Password method
+## NetworkCredential::get_Password() method
 
 
 Gets the password.

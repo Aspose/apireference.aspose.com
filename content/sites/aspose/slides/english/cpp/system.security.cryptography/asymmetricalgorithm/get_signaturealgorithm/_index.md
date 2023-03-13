@@ -1,12 +1,12 @@
 ---
-title: get_SignatureAlgorithm
+title: get_SignatureAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets signature algorithm to use.
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography/asymmetricalgorithm/get_signaturealgorithm/
 ---
-## AsymmetricAlgorithm::get_SignatureAlgorithm method
+## AsymmetricAlgorithm::get_SignatureAlgorithm() method
 
 
 Gets signature algorithm to use.

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns chart data point for specified index.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/piesplitcustompointcollection/idx_get/
 ---
-## PieSplitCustomPointCollection::idx_get method
+## PieSplitCustomPointCollection::idx_get(**int32_t**) method
 
 
 Returns chart data point for specified index.

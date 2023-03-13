@@ -1,12 +1,12 @@
 ---
-title: PrependChild
+title: PrependChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified node to the beginning of the list of child nodes for this node.
 type: docs
 weight: 261
 url: /cpp/system.xml/xmlattribute/prependchild/
 ---
-## XmlAttribute::PrependChild method
+## XmlAttribute::PrependChild([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>) method
 
 
 Adds the specified node to the beginning of the list of child nodes for this node.

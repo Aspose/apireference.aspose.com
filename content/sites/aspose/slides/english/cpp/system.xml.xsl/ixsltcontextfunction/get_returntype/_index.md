@@ -1,12 +1,12 @@
 ---
-title: get_ReturnType
+title: get_ReturnType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XPathResultType representing the XPath type returned by the function.
 type: docs
 weight: 27
 url: /cpp/system.xml.xsl/ixsltcontextfunction/get_returntype/
 ---
-## IXsltContextFunction::get_ReturnType method
+## IXsltContextFunction::get_ReturnType() method
 
 
 Returns the XPathResultType representing the [XPath](../../../system.xml.xpath/) type returned by the function.

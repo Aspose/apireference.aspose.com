@@ -1,12 +1,12 @@
 ---
-title: get_SecondaryHorizontalAxis
+title: get_SecondaryHorizontalAxis()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the chart's secondary horizontal axis. Read-only IAxis.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/iaxesmanager/get_secondaryhorizontalaxis/
 ---
-## IAxesManager::get_SecondaryHorizontalAxis method
+## IAxesManager::get_SecondaryHorizontalAxis() method
 
 
 Gets the chart's secondary horizontal axis. Read-only [IAxis](../../iaxis/).

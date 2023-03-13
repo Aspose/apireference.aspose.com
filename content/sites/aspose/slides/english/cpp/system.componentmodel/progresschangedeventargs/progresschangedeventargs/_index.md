@@ -1,12 +1,12 @@
 ---
-title: ProgressChangedEventArgs
+title: ProgressChangedEventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.componentmodel/progresschangedeventargs/progresschangedeventargs/
 ---
-## ProgressChangedEventArgs::ProgressChangedEventArgs constructor
+## ProgressChangedEventArgs::ProgressChangedEventArgs(int, [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) constructor
 
 
 Constructor.

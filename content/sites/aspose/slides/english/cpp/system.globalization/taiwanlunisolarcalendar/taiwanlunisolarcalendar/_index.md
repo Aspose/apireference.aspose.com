@@ -1,12 +1,12 @@
 ---
-title: TaiwanLunisolarCalendar
+title: TaiwanLunisolarCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.globalization/taiwanlunisolarcalendar/taiwanlunisolarcalendar/
 ---
-## TaiwanLunisolarCalendar::TaiwanLunisolarCalendar constructor
+## TaiwanLunisolarCalendar::TaiwanLunisolarCalendar() constructor
 
 
 Constructor.

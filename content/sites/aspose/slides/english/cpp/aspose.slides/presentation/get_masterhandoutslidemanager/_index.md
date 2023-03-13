@@ -1,12 +1,12 @@
 ---
-title: get_MasterHandoutSlideManager
+title: get_MasterHandoutSlideManager()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns handout master manager. Read-only IMasterHandoutSlideManager.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/presentation/get_masterhandoutslidemanager/
 ---
-## Presentation::get_MasterHandoutSlideManager method
+## Presentation::get_MasterHandoutSlideManager() method
 
 
 Returns handout master manager. Read-only [IMasterHandoutSlideManager](../../imasterhandoutslidemanager/).

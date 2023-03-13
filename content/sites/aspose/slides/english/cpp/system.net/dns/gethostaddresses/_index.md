@@ -1,12 +1,12 @@
 ---
-title: GetHostAddresses
+title: GetHostAddresses()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of IP addresses of the specified host name or IP address.
 type: docs
 weight: 92
 url: /cpp/system.net/dns/gethostaddresses/
 ---
-## Dns::GetHostAddresses method
+## Dns::GetHostAddresses([String](../../../system/string/)) method
 
 
 Returns a collection of IP addresses of the specified host name or IP address.

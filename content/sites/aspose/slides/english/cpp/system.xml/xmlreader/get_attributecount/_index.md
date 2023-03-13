@@ -1,12 +1,12 @@
 ---
-title: get_AttributeCount
+title: get_AttributeCount()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the number of attributes on the current node.
 type: docs
 weight: 222
 url: /cpp/system.xml/xmlreader/get_attributecount/
 ---
-## XmlReader::get_AttributeCount method
+## XmlReader::get_AttributeCount() method
 
 
 When overridden in a derived class, gets the number of attributes on the current node.

@@ -53,7 +53,7 @@ class Tab : public Aspose::Slides::PVIObject,
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-|  [Tab](./tab/)(**double**, [TabAlignment](../tabalignment/)) | Creates new [Tab](./). |
+|  [Tab](./tab/)(**double**, [TabAlignment](../tabalignment/)) | Creates new [Tab](./) |
 | [System::String](../../system/string/) [ToString](../pviobject/tostring/)() const override | Returns string representation. |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |

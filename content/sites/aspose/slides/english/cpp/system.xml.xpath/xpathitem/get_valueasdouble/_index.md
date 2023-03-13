@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsDouble
+title: get_ValueAsDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the item's value as a Double.
 type: docs
 weight: 92
 url: /cpp/system.xml.xpath/xpathitem/get_valueasdouble/
 ---
-## XPathItem::get_ValueAsDouble method
+## XPathItem::get_ValueAsDouble() method
 
 
 When overridden in a derived class, gets the item's value as a [Double](../../../system/double/).

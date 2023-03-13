@@ -1,12 +1,12 @@
 ---
-title: get_TwoLetterISOLanguageName
+title: get_TwoLetterISOLanguageName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets two letters ISO language name associated with culture.
 type: docs
 weight: 131
 url: /cpp/system.globalization/cultureinfo/get_twoletterisolanguagename/
 ---
-## CultureInfo::get_TwoLetterISOLanguageName method
+## CultureInfo::get_TwoLetterISOLanguageName() const method
 
 
 Gets two letters ISO language name associated with culture.

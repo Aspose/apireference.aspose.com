@@ -1,12 +1,12 @@
 ---
-title: CloneNode
+title: CloneNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a duplicate of this node. Entity nodes cannot be cloned. Calling this method on an XmlEntity object throws an exception.
 type: docs
 weight: 170
 url: /cpp/system.xml/xmlentity/clonenode/
 ---
-## XmlEntity::CloneNode method
+## XmlEntity::CloneNode(**bool**) method
 
 
 Creates a duplicate of this node. Entity nodes cannot be cloned. Calling this method on an [XmlEntity](../) object throws an exception.

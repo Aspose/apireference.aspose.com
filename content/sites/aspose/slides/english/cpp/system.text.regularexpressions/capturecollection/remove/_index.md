@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables collection ammendment.
 type: docs
 weight: 40
 url: /cpp/system.text.regularexpressions/capturecollection/remove/
 ---
-## CaptureCollection::Remove method
+## CaptureCollection::Remove(const [CapturePtr](../../captureptr/)\&) method
 
 
 Disables collection ammendment.

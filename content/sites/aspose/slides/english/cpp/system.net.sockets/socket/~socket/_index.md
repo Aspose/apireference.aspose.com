@@ -1,12 +1,12 @@
 ---
-title: ~Socket
+title: ~Socket()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructs the current instance.
 type: docs
 weight: 781
 url: /cpp/system.net.sockets/socket/~socket/
 ---
-## Socket::~Socket method
+## Socket::~Socket() method
 
 
 Destructs the current instance.

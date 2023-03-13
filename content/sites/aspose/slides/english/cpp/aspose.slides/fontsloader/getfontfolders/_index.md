@@ -1,15 +1,15 @@
 ---
-title: GetFontFolders
+title: GetFontFolders()
 second_title: Aspose.Slides for C++ API Reference
-description: Gets font folders. Returns folders that have been added with LoadExternalFonts method as well as system font folders.
+description: Gets font folders. Returns folders that have been added with LoadExternalFonts method as well as system font folders
 type: docs
 weight: 27
 url: /cpp/aspose.slides/fontsloader/getfontfolders/
 ---
-## FontsLoader::GetFontFolders method
+## FontsLoader::GetFontFolders() method
 
 
-Gets font folders. Returns folders that have been added with LoadExternalFonts method as well as system font folders.
+Gets font folders. Returns folders that have been added with LoadExternalFonts method as well as system font folders
 
 ```cpp
 static System::ArrayPtr<System::String> Aspose::Slides::FontsLoader::GetFontFolders()

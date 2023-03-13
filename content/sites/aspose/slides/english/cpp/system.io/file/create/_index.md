@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new file (or overwrites existing) and opens it for reading and writing access using the specified buffer size and options.
 type: docs
 weight: 53
 url: /cpp/system.io/file/create/
 ---
-## File::Create method
+## File::Create(const [String](../../../system/string/)\&, **int32_t**, [FileOptions](../../fileoptions/)) method
 
 
 Creates a new file (or overwrites existing) and opens it for reading and writing access using the specified buffer size and options.

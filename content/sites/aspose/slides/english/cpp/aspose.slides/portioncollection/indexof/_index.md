@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines the index of a specific item in the IList.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/portioncollection/indexof/
 ---
-## PortionCollection::IndexOf method
+## PortionCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../iportion/)\>) method
 
 
 Determines the index of a specific item in the [IList](../../../system.collections.generic/ilist/).

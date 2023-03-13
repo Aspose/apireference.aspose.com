@@ -1,12 +1,12 @@
 ---
-title: get_LastChild
+title: get_LastChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the last child of the node.
 type: docs
 weight: 144
 url: /cpp/system.xml/xmlnode/get_lastchild/
 ---
-## XmlNode::get_LastChild method
+## XmlNode::get_LastChild() method
 
 
 Returns the last child of the node.

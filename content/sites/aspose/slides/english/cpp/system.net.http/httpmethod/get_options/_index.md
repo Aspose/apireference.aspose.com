@@ -1,12 +1,12 @@
 ---
-title: get_Options
+title: get_Options()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the 'OPTIONS' HTTP method.
 type: docs
 weight: 66
 url: /cpp/system.net.http/httpmethod/get_options/
 ---
-## HttpMethod::get_Options method
+## HttpMethod::get_Options() method
 
 
 Returns the 'OPTIONS' HTTP method.

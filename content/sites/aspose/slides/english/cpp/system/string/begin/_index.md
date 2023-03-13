@@ -1,12 +1,12 @@
 ---
-title: begin
+title: begin()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns pointer to the beginning of actual string buffer. Never reallocates anything. Doesn't guarantee buffer to be null-terminated.
 type: docs
 weight: 40
 url: /cpp/system/string/begin/
 ---
-## String::begin method
+## String::begin() const method
 
 
 Returns pointer to the beginning of actual string buffer. Never reallocates anything. Doesn't guarantee buffer to be null-terminated.

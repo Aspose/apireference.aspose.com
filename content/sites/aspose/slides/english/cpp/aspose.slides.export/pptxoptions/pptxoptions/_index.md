@@ -1,15 +1,15 @@
 ---
-title: PptxOptions
+title: PptxOptions()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates new instance of PptxOptions.
+description: Creates new instance of PptxOptions
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/pptxoptions/pptxoptions/
 ---
-## PptxOptions::PptxOptions constructor
+## PptxOptions::PptxOptions() constructor
 
 
-Creates new instance of [PptxOptions](../).
+Creates new instance of [PptxOptions](../)
 
 ```cpp
 Aspose::Slides::Export::PptxOptions::PptxOptions()

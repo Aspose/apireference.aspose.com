@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Alpha Ceiling effect data with the inheritance applied.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/alphaceiling/geteffective/
 ---
-## AlphaCeiling::GetEffective method
+## AlphaCeiling::GetEffective() method
 
 
 Gets effective Alpha Ceiling effect data with the inheritance applied.

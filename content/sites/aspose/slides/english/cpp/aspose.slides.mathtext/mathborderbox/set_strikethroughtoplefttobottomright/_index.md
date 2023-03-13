@@ -1,12 +1,12 @@
 ---
-title: set_StrikethroughTopLeftToBottomRight
+title: set_StrikethroughTopLeftToBottomRight()
 second_title: Aspose.Slides for C++ API Reference
 description: Strikethrough Top-Left to Bottom-Right (default is false). Specifies the hidden or shown state of a strikethrough diagonal line from the top-left corner to the bottom-right corner of border box.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.mathtext/mathborderbox/set_strikethroughtoplefttobottomright/
 ---
-## MathBorderBox::set_StrikethroughTopLeftToBottomRight method
+## MathBorderBox::set_StrikethroughTopLeftToBottomRight(**bool**) method
 
 
 Strikethrough Top-Left to Bottom-Right (default is false). Specifies the hidden or shown state of a strikethrough diagonal line from the top-left corner to the bottom-right corner of border box.

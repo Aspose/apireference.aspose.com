@@ -1,12 +1,12 @@
 ---
-title: get_MinSupportedDateTime
+title: get_MinSupportedDateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Minimal point in time that is supported by the calendar.
 type: docs
 weight: 27
 url: /cpp/system.globalization/japanesecalendar/get_minsupporteddatetime/
 ---
-## JapaneseCalendar::get_MinSupportedDateTime method
+## JapaneseCalendar::get_MinSupportedDateTime() const method
 
 
 Minimal point in time that is supported by the calendar.

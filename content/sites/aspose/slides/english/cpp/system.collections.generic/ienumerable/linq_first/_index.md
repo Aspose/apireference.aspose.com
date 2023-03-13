@@ -1,5 +1,5 @@
 ---
-title: LINQ_First
+title: LINQ_First()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the first element of a sequence.
 type: docs

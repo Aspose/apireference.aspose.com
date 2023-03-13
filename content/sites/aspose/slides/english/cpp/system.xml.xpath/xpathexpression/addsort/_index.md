@@ -1,5 +1,5 @@
 ---
-title: AddSort
+title: AddSort()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, sorts the nodes selected by the XPath expression according to the specified IComparer object.
 type: docs

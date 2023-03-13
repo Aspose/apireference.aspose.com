@@ -1,12 +1,12 @@
 ---
-title: get_Lavender
+title: get_Lavender()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFE6E6FA.
 type: docs
 weight: 768
 url: /cpp/system.drawing/brushes/get_lavender/
 ---
-## Brushes::get_Lavender method
+## Brushes::get_Lavender() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFE6E6FA.

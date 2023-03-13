@@ -1,12 +1,12 @@
 ---
-title: get_SourceUri
+title: get_SourceUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the source location for the file that loaded the schema.
 type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaobject/get_sourceuri/
 ---
-## XmlSchemaObject::get_SourceUri method
+## XmlSchemaObject::get_SourceUri() method
 
 
 Returns the source location for the file that loaded the schema.

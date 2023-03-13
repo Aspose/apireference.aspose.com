@@ -1,12 +1,12 @@
 ---
-title: get_DefaultValue
+title: get_DefaultValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the default value for the attribute.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaattribute/get_defaultvalue/
 ---
-## XmlSchemaAttribute::get_DefaultValue method
+## XmlSchemaAttribute::get_DefaultValue() method
 
 
 Returns the default value for the attribute.

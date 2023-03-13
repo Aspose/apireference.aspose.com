@@ -1,12 +1,12 @@
 ---
-title: get_Text
+title: get_Text()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the the plain text of a paragraph. Read System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/iparagraph/get_text/
 ---
-## IParagraph::get_Text method
+## IParagraph::get_Text() method
 
 
 Gets the the plain text of a paragraph. Read [System::String](../../../system/string/).

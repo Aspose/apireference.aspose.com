@@ -1,12 +1,12 @@
 ---
-title: set_Actor
+title: set_Actor()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the URI of the SOAP header recipient when SOAP version 1.1 is used.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soapheader/set_actor/
 ---
-## SoapHeader::set_Actor method
+## SoapHeader::set_Actor([String](../../../system/string/)) method
 
 
 Sets the URI of the SOAP header recipient when SOAP version 1.1 is used.

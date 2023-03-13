@@ -1,12 +1,12 @@
 ---
-title: get_Types
+title: get_Types()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing the values that specify the types of corresponding points in Points array.
 type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/pathdata/get_types/
 ---
-## PathData::get_Types method
+## PathData::get_Types() method
 
 
 Returns an array containing the values that specify the types of corresponding points in **Points** array.

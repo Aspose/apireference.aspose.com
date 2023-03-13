@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the element at the specified index.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/portioncollection/idx_set/
 ---
-## PortionCollection::idx_set method
+## PortionCollection::idx_set(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../iportion/)\>) method
 
 
 Gets the element at the specified index.

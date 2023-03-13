@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an enumerator that iterates through the collection.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/masterslidecollection/getenumerator/
 ---
-## MasterSlideCollection::GetEnumerator method
+## MasterSlideCollection::GetEnumerator() method
 
 
 Returns an enumerator that iterates through the collection.

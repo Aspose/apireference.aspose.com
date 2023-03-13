@@ -1,12 +1,12 @@
 ---
-title: RemoveAll
+title: RemoveAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all attributes from the collection.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlattributecollection/removeall/
 ---
-## XmlAttributeCollection::RemoveAll method
+## XmlAttributeCollection::RemoveAll() method
 
 
 Removes all attributes from the collection.

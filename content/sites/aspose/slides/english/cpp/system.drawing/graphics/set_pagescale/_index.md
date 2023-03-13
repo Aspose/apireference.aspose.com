@@ -1,12 +1,12 @@
 ---
-title: set_PageScale
+title: set_PageScale()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the scaling between world units and page units for the current Graphics object.
 type: docs
 weight: 573
 url: /cpp/system.drawing/graphics/set_pagescale/
 ---
-## Graphics::set_PageScale method
+## Graphics::set_PageScale(**float**) method
 
 
 Sets the scaling between world units and page units for the current [Graphics](../) object.

@@ -1,12 +1,12 @@
 ---
-title: EndResolve
+title: EndResolve()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits until the specified asynchronous operation to create a new IPHostEntry-class instance completes.
 type: docs
 weight: 170
 url: /cpp/system.net/dns/endresolve/
 ---
-## Dns::EndResolve method
+## Dns::EndResolve([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
 
 
 Waits until the specified asynchronous operation to create a new IPHostEntry-class instance completes.

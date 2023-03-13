@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two IdnMapping objects.
 type: docs
 weight: 105
 url: /cpp/system.globalization/idnmapping/equals/
 ---
-## IdnMapping::Equals method
+## IdnMapping::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Compares two [IdnMapping](../) objects.

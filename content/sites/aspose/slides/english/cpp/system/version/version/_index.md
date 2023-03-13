@@ -1,5 +1,5 @@
 ---
-title: Version
+title: Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance that represent the specified major, minor, build and revsion values.
 type: docs

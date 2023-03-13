@@ -1,12 +1,12 @@
 ---
-title: set_TargetSection
+title: set_TargetSection()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the section object that the Section Zoom object links to. Write ISection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/sectionzoomframe/set_targetsection/
 ---
-## SectionZoomFrame::set_TargetSection method
+## SectionZoomFrame::set_TargetSection([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
 
 
 Sets the section object that the [Section](../../section/) Zoom object links to. Write [ISection](../../isection/).

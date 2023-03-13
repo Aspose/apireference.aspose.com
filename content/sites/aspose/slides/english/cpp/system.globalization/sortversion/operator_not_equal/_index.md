@@ -1,12 +1,12 @@
 ---
-title: operator!=
+title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if current SortVersion instance is not equal to a specified SortVersion object.
 type: docs
 weight: 92
 url: /cpp/system.globalization/sortversion/operator_not_equal/
 ---
-## SortVersion::operator!= method
+## SortVersion::operator!=(const [SortVersion](../)\&) method
 
 
 Checks if current [SortVersion](../) instance is not equal to a specified [SortVersion](../) object.

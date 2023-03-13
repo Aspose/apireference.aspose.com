@@ -1,12 +1,12 @@
 ---
-title: GetCalendar
+title: GetCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets thread-local gregorian ICU calendar.
 type: docs
 weight: 66
 url: /cpp/system.globalization.details/gregoriancalendarutils/getcalendar/
 ---
-## GregorianCalendarUtils::GetCalendar method
+## GregorianCalendarUtils::GetCalendar() method
 
 
 Gets thread-local gregorian ICU calendar.

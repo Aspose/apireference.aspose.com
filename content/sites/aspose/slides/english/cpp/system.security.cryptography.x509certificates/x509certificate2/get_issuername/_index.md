@@ -1,12 +1,12 @@
 ---
-title: get_IssuerName
+title: get_IssuerName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the name of party that issued a certificate.
 type: docs
 weight: 105
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/get_issuername/
 ---
-## X509Certificate2::get_IssuerName method
+## X509Certificate2::get_IssuerName() const method
 
 
 Gets the name of party that issued a certificate.

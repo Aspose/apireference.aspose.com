@@ -1,12 +1,12 @@
 ---
-title: set_CrossAt
+title: set_CrossAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the point on the axis where the perpendicular axis crosses it. Write float.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/axis/set_crossat/
 ---
-## Axis::set_CrossAt method
+## Axis::set_CrossAt(**float**) method
 
 
 Represents the point on the axis where the perpendicular axis crosses it. Write **float**.

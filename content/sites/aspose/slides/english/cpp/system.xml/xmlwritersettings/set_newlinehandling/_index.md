@@ -1,12 +1,12 @@
 ---
-title: set_NewLineHandling
+title: set_NewLineHandling()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether to normalize line breaks in the output.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlwritersettings/set_newlinehandling/
 ---
-## XmlWriterSettings::set_NewLineHandling method
+## XmlWriterSettings::set_NewLineHandling([System::Xml::NewLineHandling](../../newlinehandling/)) method
 
 
 Sets a value indicating whether to normalize line breaks in the output.

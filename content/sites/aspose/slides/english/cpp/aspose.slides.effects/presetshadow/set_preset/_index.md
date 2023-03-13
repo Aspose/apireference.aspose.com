@@ -1,12 +1,12 @@
 ---
-title: set_Preset
+title: set_Preset()
 second_title: Aspose.Slides for C++ API Reference
 description: Preset. Write PresetShadowType.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.effects/presetshadow/set_preset/
 ---
-## PresetShadow::set_Preset method
+## PresetShadow::set_Preset([PresetShadowType](../../../aspose.slides/presetshadowtype/)) method
 
 
 Preset. Write [PresetShadowType](../../../aspose.slides/presetshadowtype/).

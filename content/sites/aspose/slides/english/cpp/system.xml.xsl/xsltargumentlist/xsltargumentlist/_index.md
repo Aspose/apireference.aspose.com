@@ -1,12 +1,12 @@
 ---
-title: XsltArgumentList
+title: XsltArgumentList()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements a new instance of the XsltArgumentList.
 type: docs
 weight: 1
 url: /cpp/system.xml.xsl/xsltargumentlist/xsltargumentlist/
 ---
-## XsltArgumentList::XsltArgumentList constructor
+## XsltArgumentList::XsltArgumentList() constructor
 
 
 Implements a new instance of the [XsltArgumentList](../).

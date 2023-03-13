@@ -1,12 +1,12 @@
 ---
-title: GetEffectsByParagraph
+title: GetEffectsByParagraph()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns array of effects for the specified paragraph.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/sequence/geteffectsbyparagraph/
 ---
-## Sequence::GetEffectsByParagraph method
+## Sequence::GetEffectsByParagraph([System::SharedPtr](../../../system/sharedptr/)\<[IParagraph](../../../aspose.slides/iparagraph/)\>) method
 
 
 Returns array of effects for the specified paragraph.

@@ -1,12 +1,12 @@
 ---
-title: set_MinOccurs
+title: set_MinOccurs()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the minimum number of times the particle can occur.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemaparticle/set_minoccurs/
 ---
-## XmlSchemaParticle::set_MinOccurs method
+## XmlSchemaParticle::set_MinOccurs([Decimal](../../../system/decimal/)) method
 
 
 Sets the minimum number of times the particle can occur.

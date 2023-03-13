@@ -1,12 +1,12 @@
 ---
-title: get_CanEdit
+title: get_CanEdit()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates whether the XPathNavigator can edit the underlying XML data.
 type: docs
 weight: 287
 url: /cpp/system.xml.xpath/xpathnavigator/get_canedit/
 ---
-## XPathNavigator::get_CanEdit method
+## XPathNavigator::get_CanEdit() method
 
 
 Returns a value that indicates whether the [XPathNavigator](../) can edit the underlying XML data.

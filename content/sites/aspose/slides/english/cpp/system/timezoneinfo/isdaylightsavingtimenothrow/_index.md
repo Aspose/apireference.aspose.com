@@ -1,12 +1,12 @@
 ---
-title: IsDaylightSavingTimeNoThrow
+title: IsDaylightSavingTimeNoThrow()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if specified date and time falls in range of daylight saving time.
 type: docs
 weight: 339
 url: /cpp/system/timezoneinfo/isdaylightsavingtimenothrow/
 ---
-## TimeZoneInfo::IsDaylightSavingTimeNoThrow method
+## TimeZoneInfo::IsDaylightSavingTimeNoThrow([DateTime](../../datetime/)) const method
 
 
 Checks if specified date and time falls in range of daylight saving time.

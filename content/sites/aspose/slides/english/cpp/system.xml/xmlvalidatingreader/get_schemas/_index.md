@@ -1,12 +1,12 @@
 ---
-title: get_Schemas
+title: get_Schemas()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a XmlSchemaCollection to use for validation.
 type: docs
 weight: 339
 url: /cpp/system.xml/xmlvalidatingreader/get_schemas/
 ---
-## XmlValidatingReader::get_Schemas method
+## XmlValidatingReader::get_Schemas() method
 
 
 Returns a XmlSchemaCollection to use for validation.

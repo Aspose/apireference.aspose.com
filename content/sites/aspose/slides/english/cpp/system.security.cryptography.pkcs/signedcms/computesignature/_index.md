@@ -1,12 +1,12 @@
 ---
-title: ComputeSignature
+title: ComputeSignature()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a signature.
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.pkcs/signedcms/computesignature/
 ---
-## SignedCms::ComputeSignature method
+## SignedCms::ComputeSignature(const [SharedPtr](../../../system/sharedptr/)\<[CmsSigner](../../cmssigner/)\>\&, **bool**) method
 
 
 Creates a signature.

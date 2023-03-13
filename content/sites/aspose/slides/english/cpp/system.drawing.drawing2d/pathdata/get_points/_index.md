@@ -1,12 +1,12 @@
 ---
-title: get_Points
+title: get_Points()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing the points that make up a path.
 type: docs
 weight: 1
 url: /cpp/system.drawing.drawing2d/pathdata/get_points/
 ---
-## PathData::get_Points method
+## PathData::get_Points() method
 
 
 Returns an array containing the points that make up a path.

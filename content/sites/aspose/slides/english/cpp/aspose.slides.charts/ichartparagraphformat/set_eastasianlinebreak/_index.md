@@ -1,12 +1,12 @@
 ---
-title: set_EastAsianLineBreak
+title: set_EastAsianLineBreak()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the East Asian line break is used in a paragraph. Write NullableBool.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/ichartparagraphformat/set_eastasianlinebreak/
 ---
-## IChartParagraphFormat::set_EastAsianLineBreak method
+## IChartParagraphFormat::set_EastAsianLineBreak([NullableBool](../../../aspose.slides/nullablebool/)) method
 
 
 Determines whether the East Asian line break is used in a paragraph. Write [NullableBool](../../../aspose.slides/nullablebool/).

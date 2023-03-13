@@ -1,12 +1,12 @@
 ---
-title: ReadOnly
+title: ReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets read-only version of formatter.
 type: docs
 weight: 807
 url: /cpp/system.globalization/numberformatinfo/readonly/
 ---
-## NumberFormatInfo::ReadOnly method
+## NumberFormatInfo::ReadOnly([NumberFormatInfoPtr](../../numberformatinfoptr/)) method
 
 
 Gets read-only version of formatter.

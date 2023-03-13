@@ -1,12 +1,12 @@
 ---
-title: get_BevelBottom
+title: get_BevelBottom()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of a bottom 3D bevel. Read-only IShapeBevel.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/ithreedformat/get_bevelbottom/
 ---
-## IThreeDFormat::get_BevelBottom method
+## IThreeDFormat::get_BevelBottom() method
 
 
 Returns the type of a bottom 3D bevel. Read-only [IShapeBevel](../../ishapebevel/).

@@ -1,15 +1,15 @@
 ---
-title: JoinBlock
+title: JoinBlock()
 second_title: Aspose.Slides for C++ API Reference
-description: Joins another mathematical block with this one.
+description: Joins another mathematical block with this one
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/imathblock/joinblock/
 ---
-## IMathBlock::JoinBlock method
+## IMathBlock::JoinBlock([System::SharedPtr](../../../system/sharedptr/)\<[IMathBlock](../)\>) method
 
 
-Joins another mathematical block with this one.
+Joins another mathematical block with this one
 
 ```cpp
 virtual System::SharedPtr<IMathBlock> Aspose::Slides::MathText::IMathBlock::JoinBlock(System::SharedPtr<IMathBlock> other)=0

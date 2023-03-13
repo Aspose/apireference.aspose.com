@@ -1,12 +1,12 @@
 ---
-title: ClearHeaders
+title: ClearHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 66
 url: /cpp/system.web/httpresponse/clearheaders/
 ---
-## HttpResponse::ClearHeaders method
+## HttpResponse::ClearHeaders() method
 
 
 Not implemented.

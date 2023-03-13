@@ -1,12 +1,12 @@
 ---
-title: Unlock
+title: Unlock()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements C# lock() statement unlocking. Call directly or use LockContext sentry object.
 type: docs
 weight: 144
 url: /cpp/system/object/unlock/
 ---
-## Object::Unlock method
+## Object::Unlock() method
 
 
 Implements C# lock() statement unlocking. Call directly or use [LockContext](../../lockcontext/) sentry object.

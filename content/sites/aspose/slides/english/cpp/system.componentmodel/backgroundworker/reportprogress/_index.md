@@ -1,5 +1,5 @@
 ---
-title: ReportProgress
+title: ReportProgress()
 second_title: Aspose.Slides for C++ API Reference
 description: "Raises the System::ComponentModel::BackgroundWorker::ProgressChanged event."
 type: docs

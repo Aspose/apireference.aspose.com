@@ -1,12 +1,12 @@
 ---
-title: get_Info
+title: get_Info()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Color object that represents the color of the ToolTip's background.
 type: docs
 weight: 300
 url: /cpp/system.drawing/systemcolors/get_info/
 ---
-## SystemColors::get_Info method
+## SystemColors::get_Info() method
 
 
 Returns a [Color](../../color/) object that represents the color of the ToolTip's background.

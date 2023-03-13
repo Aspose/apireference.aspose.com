@@ -1,12 +1,12 @@
 ---
-title: MultiplyTransform
+title: MultiplyTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Multiplies current object's transform matrix by the specified matrix.
 type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/multiplytransform/
 ---
-## LinearGradientBrush::MultiplyTransform method
+## LinearGradientBrush::MultiplyTransform(const [SharedPtr](../../../system/sharedptr/)\<[Matrix](../../matrix/)\>\&, [MatrixOrder](../../matrixorder/)) method
 
 
 Multiplies current object's transform matrix by the specified matrix.

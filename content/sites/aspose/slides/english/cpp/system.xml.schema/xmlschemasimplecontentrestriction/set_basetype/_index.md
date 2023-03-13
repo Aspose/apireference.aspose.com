@@ -1,12 +1,12 @@
 ---
-title: set_BaseType
+title: set_BaseType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the simple type base value.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/set_basetype/
 ---
-## XmlSchemaSimpleContentRestriction::set_BaseType method
+## XmlSchemaSimpleContentRestriction::set_BaseType(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaSimpleType](../../xmlschemasimpletype/)\>\&) method
 
 
 Sets the simple type base value.

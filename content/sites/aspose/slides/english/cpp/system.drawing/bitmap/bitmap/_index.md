@@ -1,5 +1,5 @@
 ---
-title: Bitmap
+title: Bitmap()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new Bitmap object from the specified existing image.
 type: docs

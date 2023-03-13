@@ -1,12 +1,12 @@
 ---
-title: get_Schemas
+title: get_Schemas()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchemaSet to use when performing schema validation.
 type: docs
 weight: 404
 url: /cpp/system.xml/xmlreadersettings/get_schemas/
 ---
-## XmlReaderSettings::get_Schemas method
+## XmlReaderSettings::get_Schemas() method
 
 
 Returns the XmlSchemaSet to use when performing schema validation.

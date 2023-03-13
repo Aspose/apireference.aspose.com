@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets the members of the settings class to their default values.
 type: docs
 weight: 469
 url: /cpp/system.xml/xmlreadersettings/reset/
 ---
-## XmlReaderSettings::Reset method
+## XmlReaderSettings::Reset() method
 
 
 Resets the members of the settings class to their default values.

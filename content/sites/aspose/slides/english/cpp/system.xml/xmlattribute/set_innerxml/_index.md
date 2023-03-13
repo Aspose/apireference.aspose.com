@@ -1,12 +1,12 @@
 ---
-title: set_InnerXml
+title: set_InnerXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of the attribute.
 type: docs
 weight: 170
 url: /cpp/system.xml/xmlattribute/set_innerxml/
 ---
-## XmlAttribute::set_InnerXml method
+## XmlAttribute::set_InnerXml([String](../../../system/string/)) method
 
 
 Sets the value of the attribute.

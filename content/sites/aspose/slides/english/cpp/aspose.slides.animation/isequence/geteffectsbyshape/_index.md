@@ -1,12 +1,12 @@
 ---
-title: GetEffectsByShape
+title: GetEffectsByShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns array of effects for the specified shape.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/isequence/geteffectsbyshape/
 ---
-## ISequence::GetEffectsByShape method
+## ISequence::GetEffectsByShape([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
 
 
 Returns array of effects for the specified shape.

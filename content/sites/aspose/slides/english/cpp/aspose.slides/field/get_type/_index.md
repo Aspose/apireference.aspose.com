@@ -1,12 +1,12 @@
 ---
-title: get_Type
+title: get_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns field's type. Read IFieldType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/field/get_type/
 ---
-## Field::get_Type method
+## Field::get_Type() method
 
 
 Returns field's type. Read [IFieldType](../../ifieldtype/).

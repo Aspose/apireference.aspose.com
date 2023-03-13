@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts a math element into the collection at the specified index.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.mathtext/imathelementcollection/insert/
 ---
-## IMathElementCollection::Insert method
+## IMathElementCollection::Insert(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
 Inserts a math element into the collection at the specified index.

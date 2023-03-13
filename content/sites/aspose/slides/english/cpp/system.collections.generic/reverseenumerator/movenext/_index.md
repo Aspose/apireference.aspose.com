@@ -1,12 +1,12 @@
 ---
-title: MoveNext
+title: MoveNext()
 second_title: Aspose.Slides for C++ API Reference
 description: Enumerator-style increment.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/reverseenumerator/movenext/
 ---
-## ReverseEnumerator::MoveNext method
+## ReverseEnumerator::MoveNext() method
 
 
 Enumerator-style increment.

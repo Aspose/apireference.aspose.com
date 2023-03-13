@@ -1,12 +1,12 @@
 ---
-title: get_LocalCertificate
+title: get_LocalCertificate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the certificate that is used to authenticate the local endpoint.
 type: docs
 weight: 92
 url: /cpp/system.net.security/sslstream/get_localcertificate/
 ---
-## SslStream::get_LocalCertificate method
+## SslStream::get_LocalCertificate() method
 
 
 Returns the certificate that is used to authenticate the local endpoint.

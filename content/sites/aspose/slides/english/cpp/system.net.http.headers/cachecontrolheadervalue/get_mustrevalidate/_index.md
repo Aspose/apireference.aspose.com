@@ -1,12 +1,12 @@
 ---
-title: get_MustRevalidate
+title: get_MustRevalidate()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the value that determines if the server requires revalidation of a cache entry when the it becomes stale.
 type: docs
 weight: 313
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_mustrevalidate/
 ---
-## CacheControlHeaderValue::get_MustRevalidate method
+## CacheControlHeaderValue::get_MustRevalidate() method
 
 
 Gets the value that determines if the server requires revalidation of a cache entry when the it becomes stale.

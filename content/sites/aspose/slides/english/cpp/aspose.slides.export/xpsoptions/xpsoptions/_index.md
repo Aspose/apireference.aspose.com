@@ -1,12 +1,12 @@
 ---
-title: XpsOptions
+title: XpsOptions()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.export/xpsoptions/xpsoptions/
 ---
-## XpsOptions::XpsOptions constructor
+## XpsOptions::XpsOptions() constructor
 
 
 Default constructor.

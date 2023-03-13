@@ -1,15 +1,15 @@
 ---
-title: GetEmbeddedFonts
+title: GetEmbeddedFonts()
 second_title: Aspose.Slides for C++ API Reference
-description: Returns the fonts embedded in the presentation.
+description: Returns the fonts embedded in the presentation
 type: docs
 weight: 79
 url: /cpp/aspose.slides/ifontsmanager/getembeddedfonts/
 ---
-## IFontsManager::GetEmbeddedFonts method
+## IFontsManager::GetEmbeddedFonts() method
 
 
-Returns the fonts embedded in the presentation.
+Returns the fonts embedded in the presentation
 
 ```cpp
 virtual System::ArrayPtr<System::SharedPtr<IFontData>> Aspose::Slides::IFontsManager::GetEmbeddedFonts()=0

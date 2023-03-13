@@ -1,7 +1,7 @@
 ---
 title: MathVerticalAlignment
 second_title: Aspose.Slides for C++ API Reference
-description: Vertical Alignment.
+description: Vertical Alignment
 type: docs
 weight: 1288
 url: /cpp/aspose.slides.mathtext/mathverticalalignment/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathverticalalignment/
 ## MathVerticalAlignment enum
 
 
-Vertical Alignment.
+Vertical Alignment
 
 ```cpp
 enum class MathVerticalAlignment
@@ -19,10 +19,10 @@ enum class MathVerticalAlignment
 
 | Name | Value | Description |
 | --- | --- | --- |
-| NotDefined | 0 | Value is not defined. |
-| Top | 1 | Top. |
-| Center | 2 | Center. |
-| Bottom | 3 | Bottom. |
+| NotDefined | 0 | Value is not defined |
+| Top | 1 | Top |
+| Center | 2 | Center |
+| Bottom | 3 | Bottom |
 
 ## See Also
 

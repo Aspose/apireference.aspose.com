@@ -1,12 +1,12 @@
 ---
-title: SetAllHeadersVisibility
+title: SetAllHeadersVisibility()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes all header placeholders visibility, including notes master, notes slides and handout master.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ipresentationheaderfootermanager/setallheadersvisibility/
 ---
-## IPresentationHeaderFooterManager::SetAllHeadersVisibility method
+## IPresentationHeaderFooterManager::SetAllHeadersVisibility(**bool**) method
 
 
 Changes all header placeholders visibility, including notes master, notes slides and handout master.

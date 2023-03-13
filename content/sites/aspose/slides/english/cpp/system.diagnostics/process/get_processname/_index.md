@@ -1,12 +1,12 @@
 ---
-title: get_ProcessName
+title: get_ProcessName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets process name.
 type: docs
 weight: 40
 url: /cpp/system.diagnostics/process/get_processname/
 ---
-## Process::get_ProcessName method
+## Process::get_ProcessName() const method
 
 
 Gets process name.

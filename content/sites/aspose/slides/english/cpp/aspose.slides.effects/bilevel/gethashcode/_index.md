@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Serves as a hash function for a particular type.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/bilevel/gethashcode/
 ---
-## BiLevel::GetHashCode method
+## BiLevel::GetHashCode() const method
 
 
 Serves as a hash function for a particular type.

@@ -1,12 +1,12 @@
 ---
-title: set_DisplayBlanksAs
+title: set_DisplayBlanksAs()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the way to plot blank cells on a chart. Write DisplayBlanksAsType.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/chart/set_displayblanksas/
 ---
-## Chart::set_DisplayBlanksAs method
+## Chart::set_DisplayBlanksAs([DisplayBlanksAsType](../../displayblanksastype/)) method
 
 
 Sets the way to plot blank cells on a chart. Write [DisplayBlanksAsType](../../displayblanksastype/).

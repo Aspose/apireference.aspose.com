@@ -1,12 +1,12 @@
 ---
-title: get_SubstitutionGroup
+title: get_SubstitutionGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of an element that is being substituted by this element.
 type: docs
 weight: 235
 url: /cpp/system.xml.schema/xmlschemaelement/get_substitutiongroup/
 ---
-## XmlSchemaElement::get_SubstitutionGroup method
+## XmlSchemaElement::get_SubstitutionGroup() method
 
 
 Returns the name of an element that is being substituted by this element.

@@ -1,12 +1,12 @@
 ---
-title: get_Volume
+title: get_Volume()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the audio volume. Read AudioVolumeMode.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/iaudioframe/get_volume/
 ---
-## IAudioFrame::get_Volume method
+## IAudioFrame::get_Volume() method
 
 
 Returns the audio volume. Read [AudioVolumeMode](../../audiovolumemode/).

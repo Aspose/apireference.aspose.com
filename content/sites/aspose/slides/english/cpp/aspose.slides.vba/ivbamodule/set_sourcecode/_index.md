@@ -1,12 +1,12 @@
 ---
-title: set_SourceCode
+title: set_SourceCode()
 second_title: Aspose.Slides for C++ API Reference
 description: "Source code of the module. Write System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.vba/ivbamodule/set_sourcecode/
 ---
-## IVbaModule::set_SourceCode method
+## IVbaModule::set_SourceCode([System::String](../../../system/string/)) method
 
 
 Source code of the module. Write [System::String](../../../system/string/).

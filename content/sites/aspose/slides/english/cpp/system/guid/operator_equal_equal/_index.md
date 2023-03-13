@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the GUIDs represented by the current and specified objects are equal.
 type: docs
 weight: 105
 url: /cpp/system/guid/operator_equal_equal/
 ---
-## Guid::operator== method
+## Guid::operator==(const [Guid](../)\&) const method
 
 
 Determines if the GUIDs represented by the current and specified objects are equal.

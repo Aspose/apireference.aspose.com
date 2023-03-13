@@ -1,12 +1,12 @@
 ---
-title: get_FontBold
+title: get_FontBold()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the font is bold. No inheritance applied. Read NullableBool.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/baseportionformat/get_fontbold/
 ---
-## BasePortionFormat::get_FontBold method
+## BasePortionFormat::get_FontBold() method
 
 
 Determines whether the font is bold. No inheritance applied. Read [NullableBool](../../nullablebool/).

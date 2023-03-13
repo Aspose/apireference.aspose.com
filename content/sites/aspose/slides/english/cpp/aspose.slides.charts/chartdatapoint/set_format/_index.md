@@ -1,12 +1,12 @@
 ---
-title: set_Format
+title: set_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the formatting properties. Write IFormat.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/chartdatapoint/set_format/
 ---
-## ChartDataPoint::set_Format method
+## ChartDataPoint::set_Format([System::SharedPtr](../../../system/sharedptr/)\<[IFormat](../../iformat/)\>) method
 
 
 Represents the formatting properties. Write [IFormat](../../iformat/).

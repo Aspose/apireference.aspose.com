@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified object is equal to the current object.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/imagetransformocollectioneffectivedata/equals/
 ---
-## ImageTransformOCollectionEffectiveData::Equals method
+## ImageTransformOCollectionEffectiveData::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified object is equal to the current object.

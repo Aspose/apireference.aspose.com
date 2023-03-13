@@ -1,12 +1,12 @@
 ---
-title: get_Request
+title: get_Request()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 27
 url: /cpp/system.web/httpcontext/get_request/
 ---
-## HttpContext::get_Request method
+## HttpContext::get_Request() method
 
 
 Not implemented.

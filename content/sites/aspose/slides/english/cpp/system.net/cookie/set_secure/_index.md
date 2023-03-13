@@ -1,12 +1,12 @@
 ---
-title: set_Secure
+title: set_Secure()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'Secure' attribute's value.
 type: docs
 weight: 326
 url: /cpp/system.net/cookie/set_secure/
 ---
-## Cookie::set_Secure method
+## Cookie::set_Secure(**bool**) method
 
 
 Sets the 'Secure' attribute's value.

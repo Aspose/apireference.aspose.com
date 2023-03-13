@@ -1,12 +1,12 @@
 ---
-title: AddAttribute
+title: AddAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified attribute to the list of type's attributes.
 type: docs
 weight: 430
 url: /cpp/system/typeinfo/addattribute/
 ---
-## TypeInfo::AddAttribute method
+## TypeInfo::AddAttribute(const [ObjectPtr](../../smartptr/)\&) method
 
 
 Adds the specified attribute to the list of type's attributes.

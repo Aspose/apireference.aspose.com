@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the name of the type.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschematype/get_name/
 ---
-## XmlSchemaType::get_Name method
+## XmlSchemaType::get_Name() method
 
 
 Returns the name of the type.

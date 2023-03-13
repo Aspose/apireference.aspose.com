@@ -1,12 +1,12 @@
 ---
-title: GetMediaTypeLength
+title: GetMediaTypeLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified index to an instance of the MediaTypeHeaderValue class.
 type: docs
 weight: 144
 url: /cpp/system.net.http.headers/mediatypeheadervalue/getmediatypelength/
 ---
-## MediaTypeHeaderValue::GetMediaTypeLength method
+## MediaTypeHeaderValue::GetMediaTypeLength([String](../../../system/string/), **int32_t**, [HeaderFunc](../../headerfunc/)\<[System::SharedPtr](../../../system/sharedptr/)\<[MediaTypeHeaderValue](../)\>\>, [System::SharedPtr](../../../system/sharedptr/)\<[MediaTypeHeaderValue](../)\>\&) method
 
 
 Converts a passed string from the specified index to an instance of the [MediaTypeHeaderValue](../) class.

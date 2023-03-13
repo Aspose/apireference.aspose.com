@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets length of captured substring.
 type: docs
 weight: 27
 url: /cpp/system.text.regularexpressions/capture/get_length/
 ---
-## Capture::get_Length method
+## Capture::get_Length() const method
 
 
 Gets length of captured substring.

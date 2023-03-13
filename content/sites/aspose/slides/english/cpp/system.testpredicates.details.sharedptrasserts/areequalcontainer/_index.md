@@ -1,5 +1,5 @@
 ---
-title: AreEqualContainer
+title: AreEqualContainer()
 second_title: Aspose.Slides for C++ API Reference
 description: Equal-compares two containers using operator == on elements. Works for non-SmartPtr elements.
 type: docs

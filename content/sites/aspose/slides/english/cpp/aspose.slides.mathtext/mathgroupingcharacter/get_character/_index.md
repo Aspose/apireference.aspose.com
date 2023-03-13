@@ -1,12 +1,12 @@
 ---
-title: get_Character
+title: get_Character()
 second_title: Aspose.Slides for C++ API Reference
 description: "Grouping Character Default value: U+23DF (BOTTOM CURLY BRACKET)"
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathgroupingcharacter/get_character/
 ---
-## MathGroupingCharacter::get_Character method
+## MathGroupingCharacter::get_Character() method
 
 
 Grouping Character Default value: U+23DF (BOTTOM CURLY BRACKET)

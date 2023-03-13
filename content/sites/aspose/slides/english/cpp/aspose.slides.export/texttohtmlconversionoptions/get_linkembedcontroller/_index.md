@@ -1,12 +1,12 @@
 ---
-title: get_LinkEmbedController
+title: get_LinkEmbedController()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a callback object which controlls how external object will be stored. Read Export::ILinkEmbedController."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.export/texttohtmlconversionoptions/get_linkembedcontroller/
 ---
-## TextToHtmlConversionOptions::get_LinkEmbedController method
+## TextToHtmlConversionOptions::get_LinkEmbedController() method
 
 
 Returns a callback object which controlls how external object will be stored. Read [Export::ILinkEmbedController](../../ilinkembedcontroller/).

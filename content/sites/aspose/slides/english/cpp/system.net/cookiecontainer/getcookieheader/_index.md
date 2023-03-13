@@ -1,5 +1,5 @@
 ---
-title: GetCookieHeader
+title: GetCookieHeader()
 second_title: Aspose.Slides for C++ API Reference
 description: Return an HTTP header that contains cookies associated with the specified URI.
 type: docs

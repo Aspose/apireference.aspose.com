@@ -1,12 +1,12 @@
 ---
-title: MathLeftSubSuperscriptElement
+title: MathLeftSubSuperscriptElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathLeftSubSuperscriptElement class.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/mathleftsubsuperscriptelement/mathleftsubsuperscriptelement/
 ---
-## MathLeftSubSuperscriptElement::MathLeftSubSuperscriptElement constructor
+## MathLeftSubSuperscriptElement::MathLeftSubSuperscriptElement([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
 Initializes a new instance of the [MathLeftSubSuperscriptElement](../) class.

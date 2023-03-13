@@ -1,12 +1,12 @@
 ---
-title: set_RewindAudio
+title: set_RewindAudio()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an audio is automatically rewinded to start after playing. Write bool.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/iaudioframe/set_rewindaudio/
 ---
-## IAudioFrame::set_RewindAudio method
+## IAudioFrame::set_RewindAudio(**bool**) method
 
 
 Determines whether an audio is automatically rewinded to start after playing. Write **bool**.

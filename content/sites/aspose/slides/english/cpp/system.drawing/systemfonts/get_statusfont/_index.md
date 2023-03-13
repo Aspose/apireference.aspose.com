@@ -1,12 +1,12 @@
 ---
-title: get_StatusFont
+title: get_StatusFont()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 79
 url: /cpp/system.drawing/systemfonts/get_statusfont/
 ---
-## SystemFonts::get_StatusFont method
+## SystemFonts::get_StatusFont() method
 
 
 NOT IMPLEMENTED.

@@ -1,5 +1,5 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether all the specified bits are set.
 type: docs

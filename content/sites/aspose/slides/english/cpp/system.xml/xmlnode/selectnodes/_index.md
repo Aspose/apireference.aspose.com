@@ -1,5 +1,5 @@
 ---
-title: SelectNodes
+title: SelectNodes()
 second_title: Aspose.Slides for C++ API Reference
 description: Selects a list of nodes matching the XPath expression.
 type: docs

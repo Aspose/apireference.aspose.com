@@ -1,12 +1,12 @@
 ---
-title: SimpleEnumerator
+title: SimpleEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates simple iterator.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/simpleenumerator/simpleenumerator/
 ---
-## SimpleEnumerator::SimpleEnumerator constructor
+## SimpleEnumerator::SimpleEnumerator([Object::ptr](../../../system/object/ptr/), Container\&) constructor
 
 
 Creates simple iterator.

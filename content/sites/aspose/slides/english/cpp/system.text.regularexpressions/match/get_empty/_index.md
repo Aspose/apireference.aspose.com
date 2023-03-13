@@ -1,12 +1,12 @@
 ---
-title: get_Empty
+title: get_Empty()
 second_title: Aspose.Slides for C++ API Reference
 description: Empty match accessor.
 type: docs
 weight: 92
 url: /cpp/system.text.regularexpressions/match/get_empty/
 ---
-## Match::get_Empty method
+## Match::get_Empty() method
 
 
 Empty match accessor.

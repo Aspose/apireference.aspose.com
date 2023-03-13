@@ -1,12 +1,12 @@
 ---
-title: SetHeaders
+title: SetHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the collection of the SOAP headers.
 type: docs
 weight: 287
 url: /cpp/system.web.services.protocols/soapmessage/setheaders/
 ---
-## SoapMessage::SetHeaders method
+## SoapMessage::SetHeaders([System::SharedPtr](../../../system/sharedptr/)\<[SoapHeaderCollection](../../soapheadercollection/)\>) method
 
 
 Sets the collection of the SOAP headers.

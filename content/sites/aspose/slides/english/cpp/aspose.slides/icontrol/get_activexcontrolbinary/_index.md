@@ -1,12 +1,12 @@
 ---
-title: get_ActiveXControlBinary
+title: get_ActiveXControlBinary()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the persistence of an ActiveX control when the method used to persist is either PersistStream, PersistStreamInit or PersistStorage.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/icontrol/get_activexcontrolbinary/
 ---
-## IControl::get_ActiveXControlBinary method
+## IControl::get_ActiveXControlBinary() method
 
 
 Specifies the persistence of an ActiveX control when the method used to persist is either PersistStream, PersistStreamInit or PersistStorage.

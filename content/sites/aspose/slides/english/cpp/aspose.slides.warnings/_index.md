@@ -17,7 +17,7 @@ url: /cpp/aspose.slides.warnings/
 | [INotImplementedWarningInfo](./inotimplementedwarninginfo/) | Represents a warning about known not implemented feature which won't be implemented in the near future. |
 | [IObsoletePresLockingBehaviorWarningInfo](./iobsoletepreslockingbehaviorwarninginfo/) | This warning indicates that an obsolete presentation locking behavior is used. |
 | [IPresentationSignedWarningInfo](./ipresentationsignedwarninginfo/) | This warning indicates that the presentation being read has the signature and this signature will be removed during processing. |
-| [IWarningCallback](./iwarningcallback/) | Interface for classes which receive warning. |
+| [IWarningCallback](./iwarningcallback/) | Interface for classes which receive warning |
 | [IWarningInfo](./iwarninginfo/) | Represents a base interface for all warnings. |
 ## Enums
 

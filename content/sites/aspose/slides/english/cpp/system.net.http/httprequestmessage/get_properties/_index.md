@@ -1,12 +1,12 @@
 ---
-title: get_Properties
+title: get_Properties()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of the HTTP request properties.
 type: docs
 weight: 118
 url: /cpp/system.net.http/httprequestmessage/get_properties/
 ---
-## HttpRequestMessage::get_Properties method
+## HttpRequestMessage::get_Properties() method
 
 
 Returns the collection of the HTTP request properties.

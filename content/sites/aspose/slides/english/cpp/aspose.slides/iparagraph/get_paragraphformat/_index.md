@@ -1,12 +1,12 @@
 ---
-title: get_ParagraphFormat
+title: get_ParagraphFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the formatting object for this paragraph. Read-only IParagraphFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/iparagraph/get_paragraphformat/
 ---
-## IParagraph::get_ParagraphFormat method
+## IParagraph::get_ParagraphFormat() method
 
 
 Returns the formatting object for this paragraph. Read-only [IParagraphFormat](../../iparagraphformat/).

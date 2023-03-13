@@ -1,12 +1,12 @@
 ---
-title: operator<=
+title: operator<=()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the value represented by the current object is less than or equal to the value represented by the specified object.
 type: docs
 weight: 183
 url: /cpp/system/decimal/operator_less_equal/
 ---
-## Decimal::operator<= method
+## Decimal::operator<=(const [Decimal](../)\&) const method
 
 
 Determines if the value represented by the current object is less than or equal to the value represented by the specified object.

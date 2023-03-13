@@ -1,12 +1,12 @@
 ---
-title: cend
+title: cend()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator for a non-existent const-qualified element behind the end of the collection.
 type: docs
 weight: 274
 url: /cpp/system.collections.generic/linkedlist/cend/
 ---
-## LinkedList::cend method
+## LinkedList::cend() const method
 
 
 Gets iterator for a non-existent const-qualified element behind the end of the collection.
@@ -22,7 +22,7 @@ An iterator pointing to the theoretical const-qualified element placed after the
 
 ## See Also
 
-* Typedef [const_iterator](../const_iterator/)
+* Typedef [const_iterator](../../ienumerable/const_iterator/)
 * Class [LinkedList](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.Slides](../../../)

@@ -1,12 +1,12 @@
 ---
-title: get_MenuFont
+title: get_MenuFont()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 40
 url: /cpp/system.drawing/systemfonts/get_menufont/
 ---
-## SystemFonts::get_MenuFont method
+## SystemFonts::get_MenuFont() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: set_SpaceWithin
+title: set_SpaceWithin()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the amount of space between base lines in a paragraph. Write float.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ichartparagraphformat/set_spacewithin/
 ---
-## IChartParagraphFormat::set_SpaceWithin method
+## IChartParagraphFormat::set_SpaceWithin(**float**) method
 
 
 Sets the amount of space between base lines in a paragraph. Write **float**.

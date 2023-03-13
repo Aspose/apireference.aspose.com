@@ -1,12 +1,12 @@
 ---
-title: get_RelatedLegendEntry
+title: get_RelatedLegendEntry()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents legend entry related with this series Read-only ILegendEntryProperties.
 type: docs
 weight: 417
 url: /cpp/aspose.slides.charts/ichartseries/get_relatedlegendentry/
 ---
-## IChartSeries::get_RelatedLegendEntry method
+## IChartSeries::get_RelatedLegendEntry() method
 
 
 Represents legend entry related with this series Read-only [ILegendEntryProperties](../../ilegendentryproperties/).

@@ -1,12 +1,12 @@
 ---
-title: get_GradientStop
+title: get_GradientStop()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a gradient stop at the specified index.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/gradientformat/get_gradientstop/
 ---
-## GradientFormat::get_GradientStop method
+## GradientFormat::get_GradientStop(**int32_t**) method
 
 
 Returns a gradient stop at the specified index.

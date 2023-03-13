@@ -1,12 +1,12 @@
 ---
-title: get_EncodedRelay
+title: get_EncodedRelay()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a string representation of the 'relay' attribute value.
 type: docs
 weight: 131
 url: /cpp/system.web.services.protocols/soapheader/get_encodedrelay/
 ---
-## SoapHeader::get_EncodedRelay method
+## SoapHeader::get_EncodedRelay() method
 
 
 Gets a string representation of the 'relay' attribute value.

@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the size of the file in bytes.
 type: docs
 weight: 66
 url: /cpp/system.io/fileinfo/get_length/
 ---
-## FileInfo::get_Length method
+## FileInfo::get_Length() method
 
 
 Returns the size of the file in bytes.

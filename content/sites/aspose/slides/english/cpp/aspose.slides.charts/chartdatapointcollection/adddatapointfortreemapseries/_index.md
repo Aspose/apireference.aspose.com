@@ -1,12 +1,12 @@
 ---
-title: AddDataPointForTreemapSeries
+title: AddDataPointForTreemapSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the new data point and adds it to the end of collection. Applicable for series which chart type is Treemap.
 type: docs
 weight: 352
 url: /cpp/aspose.slides.charts/chartdatapointcollection/adddatapointfortreemapseries/
 ---
-## ChartDataPointCollection::AddDataPointForTreemapSeries method
+## ChartDataPointCollection::AddDataPointForTreemapSeries([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataCell](../../ichartdatacell/)\>) method
 
 
 Creates the new data point and adds it to the end of collection. Applicable for series which chart type is Treemap.

@@ -1,7 +1,7 @@
 ---
 title: FontDataFactory
 second_title: Aspose.Slides for C++ API Reference
-description: FontData factory.
+description: FontData factory
 type: docs
 weight: 872
 url: /cpp/aspose.slides/fontdatafactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/fontdatafactory/
 ## FontDataFactory class
 
 
-[FontData](../fontdata/) factory.
+[FontData](../fontdata/) factory
 
 ```cpp
 class FontDataFactory : public Aspose::Slides::IFontDataFactory

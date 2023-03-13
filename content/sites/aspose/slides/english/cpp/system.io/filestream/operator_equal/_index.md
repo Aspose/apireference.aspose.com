@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.io/filestream/operator_equal/
 ---
-## FileStream::operator= method
+## FileStream::operator=(const [FileStream](../)\&) method
 
 
 

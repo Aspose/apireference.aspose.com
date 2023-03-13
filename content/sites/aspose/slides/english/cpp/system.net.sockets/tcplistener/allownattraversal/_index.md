@@ -1,12 +1,12 @@
 ---
-title: AllowNatTraversal
+title: AllowNatTraversal()
 second_title: Aspose.Slides for C++ API Reference
 description: Enables or disables the NAT traversal.
 type: docs
 weight: 66
 url: /cpp/system.net.sockets/tcplistener/allownattraversal/
 ---
-## TcpListener::AllowNatTraversal method
+## TcpListener::AllowNatTraversal(**bool**) method
 
 
 Enables or disables the NAT traversal.

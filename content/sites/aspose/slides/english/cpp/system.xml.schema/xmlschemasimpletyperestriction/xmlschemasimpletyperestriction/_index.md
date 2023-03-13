@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaSimpleTypeRestriction
+title: XmlSchemaSimpleTypeRestriction()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaSimpleTypeRestriction class.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemasimpletyperestriction/xmlschemasimpletyperestriction/
 ---
-## XmlSchemaSimpleTypeRestriction::XmlSchemaSimpleTypeRestriction constructor
+## XmlSchemaSimpleTypeRestriction::XmlSchemaSimpleTypeRestriction() constructor
 
 
 Initializes a new instance of the [XmlSchemaSimpleTypeRestriction](../) class.

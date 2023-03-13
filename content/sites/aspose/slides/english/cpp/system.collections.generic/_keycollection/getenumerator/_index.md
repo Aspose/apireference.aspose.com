@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets enumerator iterating through keys.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/_keycollection/getenumerator/
 ---
-## _KeyCollection::GetEnumerator method
+## _KeyCollection::GetEnumerator() method
 
 
 Gets enumerator iterating through keys.

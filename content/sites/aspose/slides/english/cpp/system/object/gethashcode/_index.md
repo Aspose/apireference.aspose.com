@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Analog of C# Object.GetHashCode() method. Enables hashing of custom objects.
 type: docs
 weight: 170
 url: /cpp/system/object/gethashcode/
 ---
-## Object::GetHashCode method
+## Object::GetHashCode() const method
 
 
 Analog of C# [Object.GetHashCode()](./) method. Enables hashing of custom objects.

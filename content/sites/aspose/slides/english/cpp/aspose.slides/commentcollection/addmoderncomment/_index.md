@@ -1,12 +1,12 @@
 ---
-title: AddModernComment
+title: AddModernComment()
 second_title: Aspose.Slides for C++ API Reference
 description: Add new modern comment at the end of a collection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/commentcollection/addmoderncomment/
 ---
-## CommentCollection::AddModernComment method
+## CommentCollection::AddModernComment([System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../ishape/)\>, [System::Drawing::PointF](../../../system.drawing/pointf/), [System::DateTime](../../../system/datetime/)) method
 
 
 Add new modern comment at the end of a collection.

@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inserts element into specified position, shifting other elements.
 type: docs
 weight: 27
 url: /cpp/system.collections/ilistimplvaluetype/insert/
 ---
-## IListImplValueType::Insert method
+## IListImplValueType::Insert(int, [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Inserts element into specified position, shifting other elements.

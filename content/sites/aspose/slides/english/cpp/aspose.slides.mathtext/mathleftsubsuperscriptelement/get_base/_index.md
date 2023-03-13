@@ -1,15 +1,15 @@
 ---
-title: get_Base
+title: get_Base()
 second_title: Aspose.Slides for C++ API Reference
-description: Base argument.
+description: Base argument
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/mathleftsubsuperscriptelement/get_base/
 ---
-## MathLeftSubSuperscriptElement::get_Base method
+## MathLeftSubSuperscriptElement::get_Base() method
 
 
-Base argument.
+Base argument
 
 ```cpp
 System::SharedPtr<IMathElement> Aspose::Slides::MathText::MathLeftSubSuperscriptElement::get_Base() override

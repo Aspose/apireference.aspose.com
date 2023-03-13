@@ -1,12 +1,12 @@
 ---
-title: FromOADate
+title: FromOADate()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an instance of DateTime class representing the date and time value equivalent to the specified OLE Automation Date.
 type: docs
 weight: 768
 url: /cpp/system/datetime/fromoadate/
 ---
-## DateTime::FromOADate method
+## DateTime::FromOADate(**double**) method
 
 
 Returns an instance of [DateTime](../) class representing the date and time value equivalent to the specified OLE Automation Date.

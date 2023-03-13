@@ -1,12 +1,12 @@
 ---
-title: RemovedSharedRefs
+title: RemovedSharedRefs()
 second_title: Aspose.Slides for C++ API Reference
 description: Decreases shared reference count by specified value.
 type: docs
 weight: 66
 url: /cpp/system/object/removedsharedrefs/
 ---
-## Object::RemovedSharedRefs method
+## Object::RemovedSharedRefs(int) method
 
 
 Decreases shared reference count by specified value.

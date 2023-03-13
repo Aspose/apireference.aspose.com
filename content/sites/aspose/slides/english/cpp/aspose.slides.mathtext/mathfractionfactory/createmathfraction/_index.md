@@ -1,7 +1,7 @@
 ---
-title: CreateMathFraction
+title: CreateMathFraction()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates a math fraction.
+description: Creates a math fraction
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathfractionfactory/createmathfraction/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathfractionfactory/createmathfraction/
 ## MathFractionFactory::CreateMathFraction([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [MathFractionTypes](../../mathfractiontypes/)) method
 
 
-Creates a math fraction.
+Creates a math fraction
 
 ```cpp
 System::SharedPtr<IMathFraction> Aspose::Slides::MathText::MathFractionFactory::CreateMathFraction(System::SharedPtr<IMathElement> numerator, System::SharedPtr<IMathElement> denominator, MathFractionTypes fractionType) override
@@ -40,7 +40,7 @@ System::SharedPtr<IMathFraction> Aspose::Slides::MathText::MathFractionFactory::
 ## MathFractionFactory::CreateMathFraction([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates a math fraction.
+Creates a math fraction
 
 ```cpp
 System::SharedPtr<IMathFraction> Aspose::Slides::MathText::MathFractionFactory::CreateMathFraction(System::SharedPtr<IMathElement> numerator, System::SharedPtr<IMathElement> denominator) override

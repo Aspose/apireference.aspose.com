@@ -1,12 +1,12 @@
 ---
-title: set_Children
+title: set_Children()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets tag child objects.
 type: docs
 weight: 53
 url: /cpp/system.security/securityelement/set_children/
 ---
-## SecurityElement::set_Children method
+## SecurityElement::set_Children([System::Collections::Generic::List](../../../system.collections.generic/list/)\<[SecurityElement](../)\>) method
 
 
 Sets tag child objects.

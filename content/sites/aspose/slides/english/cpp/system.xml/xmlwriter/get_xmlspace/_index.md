@@ -1,12 +1,12 @@
 ---
-title: get_XmlSpace
+title: get_XmlSpace()
 second_title: Aspose.Slides for C++ API Reference
 description: "When overridden in a derived class, gets an XmlSpace representing the current xml:space scope."
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlwriter/get_xmlspace/
 ---
-## XmlWriter::get_XmlSpace method
+## XmlWriter::get_XmlSpace() method
 
 
 When overridden in a derived class, gets an XmlSpace representing the current **xml:space** scope.

@@ -1,5 +1,5 @@
 ---
-title: ToUInt16
+title: ToUInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts two bytes from the specified array starting at the specified index to unsigned 16-bit integer value.
 type: docs

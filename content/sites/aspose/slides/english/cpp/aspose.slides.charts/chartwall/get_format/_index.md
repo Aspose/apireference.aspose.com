@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the wall fill, line, effect, 3d styles. Read-only IFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/chartwall/get_format/
 ---
-## ChartWall::get_Format method
+## ChartWall::get_Format() method
 
 
 Returns the wall fill, line, effect, 3d styles. Read-only [IFormat](../../iformat/).

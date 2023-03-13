@@ -1,12 +1,12 @@
 ---
-title: get_SupportsHeaders
+title: get_SupportsHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the current response supports headers.
 type: docs
 weight: 53
 url: /cpp/system.net/filewebresponse/get_supportsheaders/
 ---
-## FileWebResponse::get_SupportsHeaders method
+## FileWebResponse::get_SupportsHeaders() method
 
 
 Returns a value that indicates if the current response supports headers.

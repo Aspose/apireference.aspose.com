@@ -1,15 +1,15 @@
 ---
-title: get_StrokeStartArrow
+title: get_StrokeStartArrow()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'stroke.startArrow' property.
+description: Represents 'stroke.startArrow' property
 type: docs
 weight: 846
 url: /cpp/aspose.slides.animation/behaviorproperty/get_strokestartarrow/
 ---
-## BehaviorProperty::get_StrokeStartArrow method
+## BehaviorProperty::get_StrokeStartArrow() method
 
 
-Represents 'stroke.startArrow' property.
+Represents 'stroke.startArrow' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StrokeStartArrow()

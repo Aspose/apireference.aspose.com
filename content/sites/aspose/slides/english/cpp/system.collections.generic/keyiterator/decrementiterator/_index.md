@@ -1,12 +1,12 @@
 ---
-title: DecrementIterator
+title: DecrementIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves the iterator step back.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/keyiterator/decrementiterator/
 ---
-## KeyIterator::DecrementIterator method
+## KeyIterator::DecrementIterator() method
 
 
 Moves the iterator step back.

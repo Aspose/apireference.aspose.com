@@ -1,12 +1,12 @@
 ---
-title: get_Type
+title: get_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of slide size.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/slidesize/get_type/
 ---
-## SlideSize::get_Type method
+## SlideSize::get_Type() method
 
 
 Returns the type of slide size.

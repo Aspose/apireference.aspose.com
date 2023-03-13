@@ -1,12 +1,12 @@
 ---
-title: SetKey
+title: SetKey()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/dsasignatureformatter/setkey/
 ---
-## DSASignatureFormatter::SetKey method
+## DSASignatureFormatter::SetKey([SharedPtr](../../../system/sharedptr/)\<[AsymmetricAlgorithm](../../asymmetricalgorithm/)\>) method
 
 
 NOT IMPLEMENTED.

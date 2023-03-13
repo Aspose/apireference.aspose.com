@@ -1,12 +1,12 @@
 ---
-title: IsInvalidTime
+title: IsInvalidTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if specified date and time is invalid.
 type: docs
 weight: 352
 url: /cpp/system/timezoneinfo/isinvalidtime/
 ---
-## TimeZoneInfo::IsInvalidTime method
+## TimeZoneInfo::IsInvalidTime([DateTime](../../datetime/)) const method
 
 
 Checks if specified date and time is invalid.

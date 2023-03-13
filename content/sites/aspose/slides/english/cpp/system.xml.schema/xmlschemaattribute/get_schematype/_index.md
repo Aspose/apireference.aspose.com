@@ -1,12 +1,12 @@
 ---
-title: get_SchemaType
+title: get_SchemaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the attribute type to a simple type.
 type: docs
 weight: 157
 url: /cpp/system.xml.schema/xmlschemaattribute/get_schematype/
 ---
-## XmlSchemaAttribute::get_SchemaType method
+## XmlSchemaAttribute::get_SchemaType() method
 
 
 Returns the attribute type to a simple type.

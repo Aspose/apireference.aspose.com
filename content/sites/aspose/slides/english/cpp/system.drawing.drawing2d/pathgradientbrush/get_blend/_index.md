@@ -1,12 +1,12 @@
 ---
-title: get_Blend
+title: get_Blend()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 261
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/get_blend/
 ---
-## PathGradientBrush::get_Blend method
+## PathGradientBrush::get_Blend() const method
 
 
 NOT IMPLEMENTED.

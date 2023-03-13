@@ -1,12 +1,12 @@
 ---
-title: BeginRead
+title: BeginRead()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous read operation.
 type: docs
 weight: 248
 url: /cpp/system.net.sockets/networkstream/beginread/
 ---
-## NetworkStream::BeginRead method
+## NetworkStream::BeginRead([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**, [AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Initiates an asynchronous read operation.

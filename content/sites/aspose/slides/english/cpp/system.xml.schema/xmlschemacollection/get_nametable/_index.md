@@ -1,12 +1,12 @@
 ---
-title: get_NameTable
+title: get_NameTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the default XmlNameTable used by the XmlSchemaCollection when loading new schemas.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemacollection/get_nametable/
 ---
-## XmlSchemaCollection::get_NameTable method
+## XmlSchemaCollection::get_NameTable() method
 
 
 Returns the default [XmlNameTable](../../../system.xml/xmlnametable/) used by the [XmlSchemaCollection](../) when loading new schemas.

@@ -1,12 +1,12 @@
 ---
-title: get_StartReflectionOpacity
+title: get_StartReflectionOpacity()
 second_title: Aspose.Slides for C++ API Reference
 description: Starting reflection opacity. (percents). Read-only float.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/ireflectioneffectivedata/get_startreflectionopacity/
 ---
-## IReflectionEffectiveData::get_StartReflectionOpacity method
+## IReflectionEffectiveData::get_StartReflectionOpacity() method
 
 
 Starting reflection opacity. (percents). Read-only **float**.

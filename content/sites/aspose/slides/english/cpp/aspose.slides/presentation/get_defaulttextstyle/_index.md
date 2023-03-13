@@ -1,12 +1,12 @@
 ---
-title: get_DefaultTextStyle
+title: get_DefaultTextStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns default text style for shapes. Read-only ITextStyle.
 type: docs
 weight: 170
 url: /cpp/aspose.slides/presentation/get_defaulttextstyle/
 ---
-## Presentation::get_DefaultTextStyle method
+## Presentation::get_DefaultTextStyle() method
 
 
 Returns default text style for shapes. Read-only [ITextStyle](../../itextstyle/).

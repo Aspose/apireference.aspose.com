@@ -1,12 +1,12 @@
 ---
-title: AddDataPointForMapSeries
+title: AddDataPointForMapSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the new data point and adds it to the end of collection. Applicable for series which chart type is Map.
 type: docs
 weight: 417
 url: /cpp/aspose.slides.charts/chartdatapointcollection/adddatapointformapseries/
 ---
-## ChartDataPointCollection::AddDataPointForMapSeries method
+## ChartDataPointCollection::AddDataPointForMapSeries([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataCell](../../ichartdatacell/)\>) method
 
 
 Creates the new data point and adds it to the end of collection. Applicable for series which chart type is Map.

@@ -1,12 +1,12 @@
 ---
-title: get_Height
+title: get_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Bevel height. Read double.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ishapebevel/get_height/
 ---
-## IShapeBevel::get_Height method
+## IShapeBevel::get_Height() method
 
 
 Bevel height. Read **double**.

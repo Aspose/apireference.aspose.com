@@ -1,15 +1,15 @@
 ---
-title: get_ExtrusionColorMode
+title: get_ExtrusionColorMode()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'extrusion.colormode' property.
+description: Represents 'extrusion.colormode' property
 type: docs
 weight: 1613
 url: /cpp/aspose.slides.animation/behaviorproperty/get_extrusioncolormode/
 ---
-## BehaviorProperty::get_ExtrusionColorMode method
+## BehaviorProperty::get_ExtrusionColorMode() method
 
 
-Represents 'extrusion.colormode' property.
+Represents 'extrusion.colormode' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ExtrusionColorMode()

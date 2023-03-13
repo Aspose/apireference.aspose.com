@@ -1,5 +1,5 @@
 ---
-title: AddVideoFrame
+title: AddVideoFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new video frame to the end of a collection.
 type: docs

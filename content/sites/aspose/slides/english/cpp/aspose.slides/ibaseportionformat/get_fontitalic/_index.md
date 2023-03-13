@@ -1,12 +1,12 @@
 ---
-title: get_FontItalic
+title: get_FontItalic()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the font is itallic. No inheritance applied. Read NullableBool.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/ibaseportionformat/get_fontitalic/
 ---
-## IBasePortionFormat::get_FontItalic method
+## IBasePortionFormat::get_FontItalic() method
 
 
 Determines whether the font is itallic. No inheritance applied. Read [NullableBool](../../nullablebool/).

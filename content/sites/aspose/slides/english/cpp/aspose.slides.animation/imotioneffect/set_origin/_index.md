@@ -1,12 +1,12 @@
 ---
-title: set_Origin
+title: set_Origin()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies what the origin of the motion path is relative to such as the layout of the slide, or the parent. Write MotionOriginType.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/imotioneffect/set_origin/
 ---
-## IMotionEffect::set_Origin method
+## IMotionEffect::set_Origin([MotionOriginType](../../motionorigintype/)) method
 
 
 Specifies what the origin of the motion path is relative to such as the layout of the slide, or the parent. Write [MotionOriginType](../../motionorigintype/).

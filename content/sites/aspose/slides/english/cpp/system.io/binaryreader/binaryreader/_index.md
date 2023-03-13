@@ -1,5 +1,5 @@
 ---
-title: BinaryReader
+title: BinaryReader()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance of BinaryReader class that reads data from the specified stream using UTF-8 encoding.
 type: docs

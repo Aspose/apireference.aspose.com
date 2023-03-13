@@ -1,12 +1,12 @@
 ---
-title: get_PresetColor
+title: get_PresetColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the color preset. Read Slides::PresetColor."
 type: docs
 weight: 53
 url: /cpp/aspose.slides/colorformat/get_presetcolor/
 ---
-## ColorFormat::get_PresetColor method
+## ColorFormat::get_PresetColor() method
 
 
 Returns the color preset. Read [Slides::PresetColor](../../presetcolor/).

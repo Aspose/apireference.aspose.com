@@ -1,15 +1,15 @@
 ---
-title: get_Position
+title: get_Position()
 second_title: Aspose.Slides for C++ API Reference
-description: "Position of grouping character. Default: Bottom."
+description: "Position of grouping character. Default: Bottom"
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/mathgroupingcharacter/get_position/
 ---
-## MathGroupingCharacter::get_Position method
+## MathGroupingCharacter::get_Position() method
 
 
-Position of grouping character. Default: Bottom.
+Position of grouping character. Default: Bottom
 
 ```cpp
 MathTopBotPositions Aspose::Slides::MathText::MathGroupingCharacter::get_Position() override

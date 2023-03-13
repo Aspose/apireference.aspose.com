@@ -1,12 +1,12 @@
 ---
-title: CompareTo
+title: CompareTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the value represented by the current object is less than, equal to or greater than the value represented by the specified object.
 type: docs
 weight: 326
 url: /cpp/system/decimal/compareto/
 ---
-## Decimal::CompareTo method
+## Decimal::CompareTo(const [Decimal](../)\&) const method
 
 
 Determines if the value represented by the current object is less than, equal to or greater than the value represented by the specified object.

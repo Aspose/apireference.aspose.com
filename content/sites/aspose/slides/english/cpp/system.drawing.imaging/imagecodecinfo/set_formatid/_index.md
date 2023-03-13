@@ -1,12 +1,12 @@
 ---
-title: set_FormatID
+title: set_FormatID()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a GUID associated with the format of the codec represented by the current object.
 type: docs
 weight: 40
 url: /cpp/system.drawing.imaging/imagecodecinfo/set_formatid/
 ---
-## ImageCodecInfo::set_FormatID method
+## ImageCodecInfo::set_FormatID(const [Guid](../../../system/guid/)\&) method
 
 
 Sets a GUID associated with the format of the codec represented by the current object.

@@ -1,12 +1,12 @@
 ---
-title: ScopeGuard
+title: ScopeGuard()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance that is set up to invoke the specified function object.
 type: docs
 weight: 1
 url: /cpp/system/scopeguard/scopeguard/
 ---
-## ScopeGuard::ScopeGuard constructor
+## ScopeGuard::ScopeGuard(F) constructor
 
 
 Constructs an instance that is set up to invoke the specified function object.

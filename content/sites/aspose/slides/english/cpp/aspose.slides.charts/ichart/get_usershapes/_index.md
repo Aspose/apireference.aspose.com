@@ -1,12 +1,12 @@
 ---
-title: get_UserShapes
+title: get_UserShapes()
 second_title: Aspose.Slides for C++ API Reference
 description: Specify the shapes drawn on top of the chart. Read-only IGroupShape.
 type: docs
 weight: 300
 url: /cpp/aspose.slides.charts/ichart/get_usershapes/
 ---
-## IChart::get_UserShapes method
+## IChart::get_UserShapes() method
 
 
 Specify the shapes drawn on top of the chart. Read-only [IGroupShape](../../../aspose.slides/igroupshape/).

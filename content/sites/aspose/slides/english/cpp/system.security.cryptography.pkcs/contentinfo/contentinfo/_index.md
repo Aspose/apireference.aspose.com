@@ -1,12 +1,12 @@
 ---
-title: ContentInfo
+title: ContentInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.pkcs/contentinfo/contentinfo/
 ---
-## ContentInfo::ContentInfo constructor
+## ContentInfo::ContentInfo(const [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) constructor
 
 
 Constructor.

@@ -1,12 +1,12 @@
 ---
-title: set_Palette
+title: set_Palette()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the color palette used by the image represented by the current object.
 type: docs
 weight: 79
 url: /cpp/system.drawing/bitmap/set_palette/
 ---
-## Bitmap::set_Palette method
+## Bitmap::set_Palette([Imaging::ColorPalettePtr](../../../system.drawing.imaging/colorpaletteptr/)) method
 
 
 Sets the color palette used by the image represented by the current object.

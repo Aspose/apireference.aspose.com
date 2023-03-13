@@ -1,12 +1,12 @@
 ---
-title: ToInt32
+title: ToInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value of this instance to an equivalent 32-bit signed integer using the specified culture-specific formatting information.
 type: docs
 weight: 92
 url: /cpp/system/iconvertible/toint32/
 ---
-## IConvertible::ToInt32 method
+## IConvertible::ToInt32([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Converts the value of this instance to an equivalent 32-bit signed integer using the specified culture-specific formatting information.

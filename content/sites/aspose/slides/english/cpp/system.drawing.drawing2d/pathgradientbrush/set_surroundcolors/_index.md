@@ -1,12 +1,12 @@
 ---
-title: set_SurroundColors
+title: set_SurroundColors()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets colors that correspond to the points in the path this PathGradientBrush fills.
 type: docs
 weight: 209
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_surroundcolors/
 ---
-## PathGradientBrush::set_SurroundColors method
+## PathGradientBrush::set_SurroundColors(const [ArrayPtr](../../../system/arrayptr/)\<[Color](../../../system.drawing/color/)\>\&) method
 
 
 Sets colors that correspond to the points in the path this [PathGradientBrush](../) fills.

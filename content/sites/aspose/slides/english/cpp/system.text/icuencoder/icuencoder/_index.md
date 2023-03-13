@@ -1,12 +1,12 @@
 ---
-title: ICUEncoder
+title: ICUEncoder()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.text/icuencoder/icuencoder/
 ---
-## ICUEncoder::ICUEncoder constructor
+## ICUEncoder::ICUEncoder([ICUEncoding](../../icuencoding/) *) constructor
 
 
 Constructor.

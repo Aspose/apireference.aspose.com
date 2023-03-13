@@ -1,5 +1,5 @@
 ---
-title: DigitalSignature
+title: DigitalSignature()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new DigitalSignature object with the specified certificate.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: GetMonth
+title: GetMonth()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets month for the specified time point.
 type: docs
 weight: 144
 url: /cpp/system.globalization/japanesecalendar/getmonth/
 ---
-## JapaneseCalendar::GetMonth method
+## JapaneseCalendar::GetMonth([DateTime](../../../system/datetime/)) const method
 
 
 Gets month for the specified time point.

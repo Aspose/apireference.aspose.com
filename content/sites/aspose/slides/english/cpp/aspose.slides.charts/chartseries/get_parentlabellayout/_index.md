@@ -1,12 +1,12 @@
 ---
-title: get_ParentLabelLayout
+title: get_ParentLabelLayout()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents layout of parent category labels. Applies only to Treemap charts.
 type: docs
 weight: 599
 url: /cpp/aspose.slides.charts/chartseries/get_parentlabellayout/
 ---
-## ChartSeries::get_ParentLabelLayout method
+## ChartSeries::get_ParentLabelLayout() method
 
 
 Represents layout of parent category labels. Applies only to Treemap charts.

@@ -1,5 +1,5 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts string to equivalent TimeSpan object and returns result of conversion.
 type: docs

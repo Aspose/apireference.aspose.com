@@ -1,12 +1,12 @@
 ---
-title: set_LineNumberOffset
+title: set_LineNumberOffset()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets line number offset of the XmlReader object.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlreadersettings/set_linenumberoffset/
 ---
-## XmlReaderSettings::set_LineNumberOffset method
+## XmlReaderSettings::set_LineNumberOffset(**int32_t**) method
 
 
 Sets line number offset of the [XmlReader](../../xmlreader/) object.

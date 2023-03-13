@@ -1,12 +1,12 @@
 ---
-title: get_Depth
+title: get_Depth()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a depth of a paragraph. Read-only int16_t.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/iparagraphformateffectivedata/get_depth/
 ---
-## IParagraphFormatEffectiveData::get_Depth method
+## IParagraphFormatEffectiveData::get_Depth() method
 
 
 Returns a depth of a paragraph. Read-only **int16_t**.

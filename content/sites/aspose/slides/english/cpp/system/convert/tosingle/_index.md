@@ -1,5 +1,5 @@
 ---
-title: ToSingle
+title: ToSingle()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified boolean value to an equivalent single-precision floating-point number.
 type: docs

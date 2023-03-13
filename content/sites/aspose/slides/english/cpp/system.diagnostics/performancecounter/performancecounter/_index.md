@@ -1,5 +1,5 @@
 ---
-title: PerformanceCounter
+title: PerformanceCounter()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates performance counter.
 type: docs

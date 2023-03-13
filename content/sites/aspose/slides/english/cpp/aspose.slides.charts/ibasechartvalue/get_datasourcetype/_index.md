@@ -1,12 +1,12 @@
 ---
-title: get_DataSourceType
+title: get_DataSourceType()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual. In other words it specifies the type of value of the Data property. This property is read-only. For changing value of this property you can use one of the ChartDataPointCollection.DataSourceTypeFor<...> properties. Read DataSourceType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ibasechartvalue/get_datasourcetype/
 ---
-## IBaseChartValue::get_DataSourceType method
+## IBaseChartValue::get_DataSourceType() method
 
 
 Specifies whether AsCell or AsLiteralString or AsLiteralDouble property is actual. In other words it specifies the type of value of the Data property. This property is read-only. For changing value of this property you can use one of the ChartDataPointCollection.DataSourceTypeFor<...> properties. Read [DataSourceType](../../datasourcetype/).

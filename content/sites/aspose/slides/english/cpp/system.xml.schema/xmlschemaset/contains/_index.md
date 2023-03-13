@@ -1,5 +1,5 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether an XML Schema definition language (XSD) schema with the specified target namespace URI is in the XmlSchemaSet.
 type: docs

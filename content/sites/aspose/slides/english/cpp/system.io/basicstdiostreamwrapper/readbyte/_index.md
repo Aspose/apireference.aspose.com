@@ -1,12 +1,12 @@
 ---
-title: ReadByte
+title: ReadByte()
 second_title: Aspose.Slides for C++ API Reference
 description: If wrapping mode is binary, reads a single byte from the last decoded character storage, otherwise read a single character from the stream and convert it to uint8_t type.
 type: docs
 weight: 40
 url: /cpp/system.io/basicstdiostreamwrapper/readbyte/
 ---
-## BasicSTDIOStreamWrapper::ReadByte method
+## BasicSTDIOStreamWrapper::ReadByte() method
 
 
 If wrapping mode is binary, reads a single byte from the last decoded character storage, otherwise read a single character from the stream and convert it to **uint8_t** type.

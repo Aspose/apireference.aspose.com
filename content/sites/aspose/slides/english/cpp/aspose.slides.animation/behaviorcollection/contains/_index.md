@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the ICollection contains a specific value.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/behaviorcollection/contains/
 ---
-## BehaviorCollection::Contains method
+## BehaviorCollection::Contains([System::SharedPtr](../../../system/sharedptr/)\<[IBehavior](../../ibehavior/)\>) method
 
 
 Determines whether the [ICollection](../../../system.collections.generic/icollection/) contains a specific value.

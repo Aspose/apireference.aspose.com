@@ -1,12 +1,12 @@
 ---
-title: GetMaxByteCount
+title: GetMaxByteCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets max byte count possible to hold a string of known character count.
 type: docs
 weight: 14
 url: /cpp/system.text/asciiencoding/getmaxbytecount/
 ---
-## ASCIIEncoding::GetMaxByteCount method
+## ASCIIEncoding::GetMaxByteCount(int) method
 
 
 Gets max byte count possible to hold a string of known character count.

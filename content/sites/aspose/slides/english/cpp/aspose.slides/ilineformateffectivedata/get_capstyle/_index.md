@@ -1,12 +1,12 @@
 ---
-title: get_CapStyle
+title: get_CapStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line cap style. Read-only LineCapStyle.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ilineformateffectivedata/get_capstyle/
 ---
-## ILineFormatEffectiveData::get_CapStyle method
+## ILineFormatEffectiveData::get_CapStyle() method
 
 
 Returns the line cap style. Read-only [LineCapStyle](../../linecapstyle/).

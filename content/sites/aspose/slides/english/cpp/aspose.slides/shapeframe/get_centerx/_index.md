@@ -1,12 +1,12 @@
 ---
-title: get_CenterX
+title: get_CenterX()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the X coordinate of a frame's center. Read-only float.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/shapeframe/get_centerx/
 ---
-## ShapeFrame::get_CenterX method
+## ShapeFrame::get_CenterX() method
 
 
 Returns the X coordinate of a frame's center. Read-only **float**.

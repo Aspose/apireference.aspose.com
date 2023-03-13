@@ -1,12 +1,12 @@
 ---
-title: get_LongDatePattern
+title: get_LongDatePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets long date pattern.
 type: docs
 weight: 105
 url: /cpp/system.globalization/datetimeformatinfo/get_longdatepattern/
 ---
-## DateTimeFormatInfo::get_LongDatePattern method
+## DateTimeFormatInfo::get_LongDatePattern() const method
 
 
 Gets long date pattern.

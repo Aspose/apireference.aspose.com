@@ -1,12 +1,12 @@
 ---
-title: CreatePropertyEffect
+title: CreatePropertyEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates property effect.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/behaviorfactory/createpropertyeffect/
 ---
-## BehaviorFactory::CreatePropertyEffect method
+## BehaviorFactory::CreatePropertyEffect() method
 
 
 Creates property effect.

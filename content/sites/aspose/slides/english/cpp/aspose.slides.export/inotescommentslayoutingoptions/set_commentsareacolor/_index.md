@@ -1,12 +1,12 @@
 ---
-title: set_CommentsAreaColor
+title: set_CommentsAreaColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the color of comments area (Applies only if comments are displayed on the right).
 type: docs
 weight: 66
 url: /cpp/aspose.slides.export/inotescommentslayoutingoptions/set_commentsareacolor/
 ---
-## INotesCommentsLayoutingOptions::set_CommentsAreaColor method
+## INotesCommentsLayoutingOptions::set_CommentsAreaColor([System::Drawing::Color](../../../system.drawing/color/)) method
 
 
 Sets the color of comments area (Applies only if comments are displayed on the right).

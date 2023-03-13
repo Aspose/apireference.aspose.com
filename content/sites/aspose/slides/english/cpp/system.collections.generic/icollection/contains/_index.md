@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if element is present in collection.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/icollection/contains/
 ---
-## ICollection::Contains method
+## ICollection::Contains(const T\&) const method
 
 
 Checks if element is present in collection.

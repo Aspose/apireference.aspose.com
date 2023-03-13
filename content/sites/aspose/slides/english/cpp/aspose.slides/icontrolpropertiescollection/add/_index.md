@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a property to the collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/icontrolpropertiescollection/add/
 ---
-## IControlPropertiesCollection::Add method
+## IControlPropertiesCollection::Add([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Adds a property to the collection.

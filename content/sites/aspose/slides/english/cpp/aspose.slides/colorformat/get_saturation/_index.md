@@ -1,12 +1,12 @@
 ---
-title: get_Saturation
+title: get_Saturation()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the saturation component of a color in HSL representation. All color transformations are ignored. Read float.
 type: docs
 weight: 313
 url: /cpp/aspose.slides/colorformat/get_saturation/
 ---
-## ColorFormat::get_Saturation method
+## ColorFormat::get_Saturation() method
 
 
 Returns the saturation component of a color in HSL representation. All color transformations are ignored. Read **float**.

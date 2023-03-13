@@ -1,12 +1,12 @@
 ---
-title: CloneIterator
+title: CloneIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Clones current iterator.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/valueiterator/cloneiterator/
 ---
-## ValueIterator::CloneIterator method
+## ValueIterator::CloneIterator() const method
 
 
 Clones current iterator.

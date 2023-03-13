@@ -1,12 +1,12 @@
 ---
-title: AddClone
+title: AddClone()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a copy of a specified layout slide to the end of the collection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/imasterlayoutslidecollection/addclone/
 ---
-## IMasterLayoutSlideCollection::AddClone method
+## IMasterLayoutSlideCollection::AddClone([System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
 
 
 Adds a copy of a specified layout slide to the end of the collection.

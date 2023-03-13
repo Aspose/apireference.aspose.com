@@ -19,14 +19,14 @@ enum class ShapesAlignmentType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AlignLeft | 0 | Align left. |
-| AlignRight | 1 | Align right. |
-| AlignCenter | 2 | Align center. |
-| AlignTop | 3 | Align top. |
-| AlignMiddle | 4 | Align middle. |
-| AlignBottom | 5 | Align bottom. |
-| DistributeHorizontally | 6 | Distribute horizontally. |
-| DistributeVertically | 7 | Distribute vertically. |
+| AlignLeft | 0 | Align left |
+| AlignRight | 1 | Align right |
+| AlignCenter | 2 | Align center |
+| AlignTop | 3 | Align top |
+| AlignMiddle | 4 | Align middle |
+| AlignBottom | 5 | Align bottom |
+| DistributeHorizontally | 6 | Distribute horizontally |
+| DistributeVertically | 7 | Distribute vertically |
 
 ## See Also
 

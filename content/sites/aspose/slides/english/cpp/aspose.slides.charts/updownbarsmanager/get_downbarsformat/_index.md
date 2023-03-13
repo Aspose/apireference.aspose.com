@@ -1,12 +1,12 @@
 ---
-title: get_DownBarsFormat
+title: get_DownBarsFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the DownBars format. Read-only IFormat.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/updownbarsmanager/get_downbarsformat/
 ---
-## UpDownBarsManager::get_DownBarsFormat method
+## UpDownBarsManager::get_DownBarsFormat() method
 
 
 Returns the DownBars format. Read-only [IFormat](../../iformat/).

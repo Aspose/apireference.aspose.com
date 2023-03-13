@@ -1,12 +1,12 @@
 ---
-title: get_NetworkLibrary
+title: get_NetworkLibrary()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets used network library name.
 type: docs
 weight: 131
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/get_networklibrary/
 ---
-## SqlConnectionStringBuilder::get_NetworkLibrary method
+## SqlConnectionStringBuilder::get_NetworkLibrary() const method
 
 
 Gets used network library name.

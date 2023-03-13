@@ -1,5 +1,5 @@
 ---
-title: GetThumbnails
+title: GetThumbnails()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Thumbnail Bitmap objects for all slides of a presentation.
 type: docs

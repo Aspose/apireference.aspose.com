@@ -1,12 +1,12 @@
 ---
-title: ~GraphicsPath
+title: ~GraphicsPath()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.drawing.drawing2d/graphicspath/~graphicspath/
 ---
-## GraphicsPath::~GraphicsPath method
+## GraphicsPath::~GraphicsPath() method
 
 
 Destructor.

@@ -1,12 +1,12 @@
 ---
-title: get_MinimizedWindowSize
+title: get_MinimizedWindowSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 755
 url: /cpp/system.windows.forms/systeminformation/get_minimizedwindowsize/
 ---
-## SystemInformation::get_MinimizedWindowSize method
+## SystemInformation::get_MinimizedWindowSize() method
 
 
 NOT IMPLEMENTED.

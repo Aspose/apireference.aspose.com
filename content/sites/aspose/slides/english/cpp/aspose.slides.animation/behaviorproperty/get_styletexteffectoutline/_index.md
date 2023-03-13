@@ -1,15 +1,15 @@
 ---
-title: get_StyleTextEffectOutline
+title: get_StyleTextEffectOutline()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'style.textEffectOutline' property.
+description: Represents 'style.textEffectOutline' property
 type: docs
 weight: 378
 url: /cpp/aspose.slides.animation/behaviorproperty/get_styletexteffectoutline/
 ---
-## BehaviorProperty::get_StyleTextEffectOutline method
+## BehaviorProperty::get_StyleTextEffectOutline() method
 
 
-Represents 'style.textEffectOutline' property.
+Represents 'style.textEffectOutline' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StyleTextEffectOutline()

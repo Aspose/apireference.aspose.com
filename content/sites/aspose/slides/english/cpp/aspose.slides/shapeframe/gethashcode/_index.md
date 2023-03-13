@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hash code for this object.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/shapeframe/gethashcode/
 ---
-## ShapeFrame::GetHashCode method
+## ShapeFrame::GetHashCode() const method
 
 
 Returns a hash code for this object.

@@ -1,12 +1,12 @@
 ---
-title: get_EBCDICCodePage
+title: get_EBCDICCodePage()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets EBCDIC codepage.
 type: docs
 weight: 66
 url: /cpp/system.globalization/textinfo/get_ebcdiccodepage/
 ---
-## TextInfo::get_EBCDICCodePage method
+## TextInfo::get_EBCDICCodePage() const method
 
 
 Gets EBCDIC codepage.

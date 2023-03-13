@@ -1,5 +1,5 @@
 ---
-title: X509Extension
+title: X509Extension()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs

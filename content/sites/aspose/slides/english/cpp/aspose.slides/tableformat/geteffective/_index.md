@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective table formatting properties with inheritance and table styles applied.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/tableformat/geteffective/
 ---
-## TableFormat::GetEffective method
+## TableFormat::GetEffective() method
 
 
 Gets effective table formatting properties with inheritance and table styles applied.

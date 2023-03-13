@@ -1,12 +1,12 @@
 ---
-title: get_DayOfYear
+title: get_DayOfYear()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets day of year of the current object.
 type: docs
 weight: 118
 url: /cpp/system/datetimeoffset/get_dayofyear/
 ---
-## DateTimeOffset::get_DayOfYear method
+## DateTimeOffset::get_DayOfYear() const method
 
 
 Gets day of year of the current object.

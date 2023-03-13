@@ -1,15 +1,15 @@
 ---
-title: get_RowCount
+title: get_RowCount()
 second_title: Aspose.Slides for C++ API Reference
-description: Number of rows in the matrix.
+description: Number of rows in the matrix
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathmatrix/get_rowcount/
 ---
-## MathMatrix::get_RowCount method
+## MathMatrix::get_RowCount() method
 
 
-Number of rows in the matrix.
+Number of rows in the matrix
 
 ```cpp
 int32_t Aspose::Slides::MathText::MathMatrix::get_RowCount() override

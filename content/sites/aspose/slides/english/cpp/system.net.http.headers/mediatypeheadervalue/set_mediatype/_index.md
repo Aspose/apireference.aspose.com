@@ -1,12 +1,12 @@
 ---
-title: set_MediaType
+title: set_MediaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the media-type header.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/mediatypeheadervalue/set_mediatype/
 ---
-## MediaTypeHeaderValue::set_MediaType method
+## MediaTypeHeaderValue::set_MediaType([String](../../../system/string/)) method
 
 
 Sets a value of the media-type header.

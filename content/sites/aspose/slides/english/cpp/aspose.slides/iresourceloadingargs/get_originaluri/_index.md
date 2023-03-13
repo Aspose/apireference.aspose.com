@@ -1,12 +1,12 @@
 ---
-title: get_OriginalUri
+title: get_OriginalUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Original URI of the resource as specified in imported presentation.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iresourceloadingargs/get_originaluri/
 ---
-## IResourceLoadingArgs::get_OriginalUri method
+## IResourceLoadingArgs::get_OriginalUri() method
 
 
 Original URI of the resource as specified in imported presentation.

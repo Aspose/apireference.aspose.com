@@ -1,12 +1,12 @@
 ---
-title: get_DestFont
+title: get_DestFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Font to use for substitution. Read-only IFontData.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/fontsubstrule/get_destfont/
 ---
-## FontSubstRule::get_DestFont method
+## FontSubstRule::get_DestFont() method
 
 
 Font to use for substitution. Read-only [IFontData](../../ifontdata/).

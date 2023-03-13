@@ -1,5 +1,5 @@
 ---
-title: ToUpper
+title: ToUpper()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified character to upper case.
 type: docs

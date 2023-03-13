@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an index of the specified rule in the collection.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/ifontfallbackrule/indexof/
 ---
-## IFontFallBackRule::IndexOf method
+## IFontFallBackRule::IndexOf([System::String](../../../system/string/)) method
 
 
 Returns an index of the specified rule in the collection.

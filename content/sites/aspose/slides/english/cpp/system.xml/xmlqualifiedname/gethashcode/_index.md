@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the hash code for the XmlQualifiedName.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlqualifiedname/gethashcode/
 ---
-## XmlQualifiedName::GetHashCode method
+## XmlQualifiedName::GetHashCode() const method
 
 
 Returns the hash code for the [XmlQualifiedName](../).

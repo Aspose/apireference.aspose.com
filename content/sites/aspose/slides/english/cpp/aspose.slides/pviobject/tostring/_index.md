@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns string representation.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/pviobject/tostring/
 ---
-## PVIObject::ToString method
+## PVIObject::ToString() const method
 
 
 Returns string representation.

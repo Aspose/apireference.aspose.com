@@ -1,12 +1,12 @@
 ---
-title: set_MaxValue
+title: set_MaxValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the maximum value on the value axis. Write double.
 type: docs
 weight: 196
 url: /cpp/aspose.slides.charts/iaxis/set_maxvalue/
 ---
-## IAxis::set_MaxValue method
+## IAxis::set_MaxValue(**double**) method
 
 
 Represents the maximum value on the value axis. Write **double**.

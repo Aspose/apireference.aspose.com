@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes segment at the specified index of the geometry path.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/igeometrypath/removeat/
 ---
-## IGeometryPath::RemoveAt method
+## IGeometryPath::RemoveAt(**int32_t**) method
 
 
 Removes segment at the specified index of the geometry path.

@@ -1,12 +1,12 @@
 ---
-title: get_AllowWriteStreamBuffering
+title: get_AllowWriteStreamBuffering()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if buffering is enabled for sending data.
 type: docs
 weight: 547
 url: /cpp/system.net/httpwebrequest/get_allowwritestreambuffering/
 ---
-## HttpWebRequest::get_AllowWriteStreamBuffering method
+## HttpWebRequest::get_AllowWriteStreamBuffering() method
 
 
 Gets a value that indicates if buffering is enabled for sending data.

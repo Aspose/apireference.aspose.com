@@ -1,12 +1,12 @@
 ---
-title: get_LightSteelBlue
+title: get_LightSteelBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFB0C4DE.
 type: docs
 weight: 976
 url: /cpp/system.drawing/pens/get_lightsteelblue/
 ---
-## Pens::get_LightSteelBlue method
+## Pens::get_LightSteelBlue() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFB0C4DE.

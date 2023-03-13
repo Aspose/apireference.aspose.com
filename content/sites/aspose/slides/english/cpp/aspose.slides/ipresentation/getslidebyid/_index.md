@@ -1,12 +1,12 @@
 ---
-title: GetSlideById
+title: GetSlideById()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Slide, MasterSlide or LayoutSlide by Id.
 type: docs
 weight: 417
 url: /cpp/aspose.slides/ipresentation/getslidebyid/
 ---
-## IPresentation::GetSlideById method
+## IPresentation::GetSlideById(**uint32_t**) method
 
 
 Returns a [Slide](../../slide/), [MasterSlide](../../masterslide/) or [LayoutSlide](../../layoutslide/) by Id.

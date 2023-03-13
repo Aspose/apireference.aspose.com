@@ -1,12 +1,12 @@
 ---
-title: BeginGetHostByName
+title: BeginGetHostByName()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous operation to create a new IPHostEntry-class instance using the specified host name.
 type: docs
 weight: 53
 url: /cpp/system.net/dns/begingethostbyname/
 ---
-## Dns::BeginGetHostByName method
+## Dns::BeginGetHostByName([String](../../../system/string/), [AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Initiates an asynchronous operation to create a new IPHostEntry-class instance using the specified host name.

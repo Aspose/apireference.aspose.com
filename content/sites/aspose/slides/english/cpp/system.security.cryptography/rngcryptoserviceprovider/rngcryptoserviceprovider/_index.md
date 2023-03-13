@@ -1,12 +1,12 @@
 ---
-title: RNGCryptoServiceProvider
+title: RNGCryptoServiceProvider()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/rngcryptoserviceprovider/rngcryptoserviceprovider/
 ---
-## RNGCryptoServiceProvider::RNGCryptoServiceProvider constructor
+## RNGCryptoServiceProvider::RNGCryptoServiceProvider() constructor
 
 
 Constructor.

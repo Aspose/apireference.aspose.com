@@ -1,12 +1,12 @@
 ---
-title: KeyInfoName
+title: KeyInfoName()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.xml/keyinfoname/keyinfoname/
 ---
-## KeyInfoName::KeyInfoName constructor
+## KeyInfoName::KeyInfoName() constructor
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: CloseFigure
+title: CloseFigure()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the current figure and starts a new one.
 type: docs
 weight: 313
 url: /cpp/system.drawing.drawing2d/graphicspath/closefigure/
 ---
-## GraphicsPath::CloseFigure method
+## GraphicsPath::CloseFigure() method
 
 
 Closes the current figure and starts a new one.

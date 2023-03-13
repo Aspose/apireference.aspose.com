@@ -1,12 +1,12 @@
 ---
-title: InsertColumnBefore
+title: InsertColumnBefore()
 second_title: Aspose.Slides for C++ API Reference
 description: Insert a new column before the specified one Initially all elements in the new column are null.
 type: docs
 weight: 326
 url: /cpp/aspose.slides.mathtext/mathmatrix/insertcolumnbefore/
 ---
-## MathMatrix::InsertColumnBefore method
+## MathMatrix::InsertColumnBefore(**int32_t**) method
 
 
 Insert a new column before the specified one Initially all elements in the new column are null.

@@ -1,12 +1,12 @@
 ---
-title: set_WorkingDirectory
+title: set_WorkingDirectory()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets working directory of the process.
 type: docs
 weight: 183
 url: /cpp/system.diagnostics/processstartinfo/set_workingdirectory/
 ---
-## ProcessStartInfo::set_WorkingDirectory method
+## ProcessStartInfo::set_WorkingDirectory(const [String](../../../system/string/)\&) method
 
 
 Sets working directory of the process.

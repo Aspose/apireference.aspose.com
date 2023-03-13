@@ -1,5 +1,5 @@
 ---
-title: CreateAttribute
+title: CreateAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an XmlAttribute with the specified name.
 type: docs

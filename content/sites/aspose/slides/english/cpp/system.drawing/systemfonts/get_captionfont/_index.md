@@ -1,12 +1,12 @@
 ---
-title: get_CaptionFont
+title: get_CaptionFont()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 14
 url: /cpp/system.drawing/systemfonts/get_captionfont/
 ---
-## SystemFonts::get_CaptionFont method
+## SystemFonts::get_CaptionFont() method
 
 
 NOT IMPLEMENTED.

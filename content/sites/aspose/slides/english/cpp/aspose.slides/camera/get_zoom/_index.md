@@ -1,12 +1,12 @@
 ---
-title: get_Zoom
+title: get_Zoom()
 second_title: Aspose.Slides for C++ API Reference
 description: Camera zoom (positive value in percentage). Read float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/camera/get_zoom/
 ---
-## Camera::get_Zoom method
+## Camera::get_Zoom() method
 
 
 [Camera](../) zoom (positive value in percentage). Read **float**.

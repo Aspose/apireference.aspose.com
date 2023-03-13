@@ -1,12 +1,12 @@
 ---
-title: get_ErrorBarsYFormat
+title: get_ErrorBarsYFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents ErrorBars of series with derection Y.
 type: docs
 weight: 235
 url: /cpp/aspose.slides.charts/ichartseries/get_errorbarsyformat/
 ---
-## IChartSeries::get_ErrorBarsYFormat method
+## IChartSeries::get_ErrorBarsYFormat() method
 
 
 Represents ErrorBars of series with derection Y.

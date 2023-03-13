@@ -1,5 +1,5 @@
 ---
-title: data
+title: data()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a reference to the internal data structure used to store the array elements.
 type: docs

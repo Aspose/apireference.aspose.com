@@ -1,12 +1,12 @@
 ---
-title: ScaleTransform
+title: ScaleTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Scales the local geometric transformation by the specified factors in the specified order.
 type: docs
 weight: 131
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/scaletransform/
 ---
-## PathGradientBrush::ScaleTransform method
+## PathGradientBrush::ScaleTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../matrixorder/)) method
 
 
 Scales the local geometric transformation by the specified factors in the specified order.

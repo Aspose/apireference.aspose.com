@@ -1,12 +1,12 @@
 ---
-title: InternalAddIssuerSerial
+title: InternalAddIssuerSerial()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 118
 url: /cpp/system.security.cryptography.xml/keyinfox509data/internaladdissuerserial/
 ---
-## KeyInfoX509Data::InternalAddIssuerSerial method
+## KeyInfoX509Data::InternalAddIssuerSerial([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: set_UseStd3AsciiRules
+title: set_UseStd3AsciiRules()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets flag that indicates if standard naming conventions used in operations.
 type: docs
 weight: 66
 url: /cpp/system.globalization/idnmapping/set_usestd3asciirules/
 ---
-## IdnMapping::set_UseStd3AsciiRules method
+## IdnMapping::set_UseStd3AsciiRules(**bool**) method
 
 
 Sets flag that indicates if standard naming conventions used in operations.

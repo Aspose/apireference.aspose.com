@@ -1,12 +1,12 @@
 ---
-title: And
+title: And()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates bitwise 'and' between two BitSets.
 type: docs
 weight: 157
 url: /cpp/system.collections/bitarray/and/
 ---
-## BitArray::And method
+## BitArray::And(const [BitArrayPtr](../../bitarrayptr/)\&) method
 
 
 Calculates bitwise 'and' between two BitSets.

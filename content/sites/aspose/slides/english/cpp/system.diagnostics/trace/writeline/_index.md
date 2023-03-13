@@ -1,12 +1,12 @@
 ---
-title: WriteLine
+title: WriteLine()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes line to debugger trace.
 type: docs
 weight: 1
 url: /cpp/system.diagnostics/trace/writeline/
 ---
-## Trace::WriteLine method
+## Trace::WriteLine(const [String](../../../system/string/)\&) method
 
 
 Writes line to debugger trace.

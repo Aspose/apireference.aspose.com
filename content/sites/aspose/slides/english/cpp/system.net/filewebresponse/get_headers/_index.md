@@ -1,12 +1,12 @@
 ---
-title: get_Headers
+title: get_Headers()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of the headers that are associated with the current response.
 type: docs
 weight: 27
 url: /cpp/system.net/filewebresponse/get_headers/
 ---
-## FileWebResponse::get_Headers method
+## FileWebResponse::get_Headers() method
 
 
 Returns the collection of the headers that are associated with the current response.

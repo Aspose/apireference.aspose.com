@@ -1,5 +1,5 @@
 ---
-title: Exchange
+title: Exchange()
 second_title: Aspose.Slides for C++ API Reference
 description: "Exchanges value on variable: stores new value and returns the value variable had immediately before storing."
 type: docs

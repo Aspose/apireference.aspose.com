@@ -1,12 +1,12 @@
 ---
-title: PersianCalendar
+title: PersianCalendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.globalization/persiancalendar/persiancalendar/
 ---
-## PersianCalendar::PersianCalendar constructor
+## PersianCalendar::PersianCalendar() constructor
 
 
 Constructor.

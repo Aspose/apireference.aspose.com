@@ -1,12 +1,12 @@
 ---
-title: get_Restart
+title: get_Restart()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies if a effect is to restart after complete. Read EffectRestartType.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.animation/timing/get_restart/
 ---
-## Timing::get_Restart method
+## Timing::get_Restart() method
 
 
 Specifies if a effect is to restart after complete. Read [EffectRestartType](../../effectrestarttype/).

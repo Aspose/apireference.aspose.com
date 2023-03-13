@@ -1,12 +1,12 @@
 ---
-title: Subtract
+title: Subtract()
 second_title: Aspose.Slides for C++ API Reference
 description: Subtracts the width and height values of the specified Size object from the X and Y coordinates values of the specified Point object correspondingly.
 type: docs
 weight: 196
 url: /cpp/system.drawing/point/subtract/
 ---
-## Point::Subtract method
+## Point::Subtract(const [Point](../)\&, const [Size](../../size/)\&) method
 
 
 Subtracts the width and height values of the specified [Size](../../size/) object from the X and Y coordinates values of the specified [Point](../) object correspondingly.

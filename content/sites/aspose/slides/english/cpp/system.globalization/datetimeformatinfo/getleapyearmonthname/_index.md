@@ -1,12 +1,12 @@
 ---
-title: GetLeapYearMonthName
+title: GetLeapYearMonthName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets leap-year month name.
 type: docs
 weight: 742
 url: /cpp/system.globalization/datetimeformatinfo/getleapyearmonthname/
 ---
-## DateTimeFormatInfo::GetLeapYearMonthName method
+## DateTimeFormatInfo::GetLeapYearMonthName(int) const method
 
 
 Gets leap-year month name.

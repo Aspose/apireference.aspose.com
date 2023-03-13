@@ -1,12 +1,12 @@
 ---
-title: get_DefaultWebProxy
+title: get_DefaultWebProxy()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the global HTTP proxy.
 type: docs
 weight: 27
 url: /cpp/system.net/webrequest/get_defaultwebproxy/
 ---
-## WebRequest::get_DefaultWebProxy method
+## WebRequest::get_DefaultWebProxy() method
 
 
 Gets the global HTTP proxy.

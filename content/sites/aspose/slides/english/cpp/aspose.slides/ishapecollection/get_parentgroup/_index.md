@@ -1,12 +1,12 @@
 ---
-title: get_ParentGroup
+title: get_ParentGroup()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns parent GroupShape object for a shapes collection. Read-only IGroupShape.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ishapecollection/get_parentgroup/
 ---
-## IShapeCollection::get_ParentGroup method
+## IShapeCollection::get_ParentGroup() method
 
 
 Returns parent [GroupShape](../../groupshape/) object for a shapes collection. Read-only [IGroupShape](../../igroupshape/).

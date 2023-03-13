@@ -1,12 +1,12 @@
 ---
-title: get_PreAuthenticate
+title: get_PreAuthenticate()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if pre-authentication is enabled.
 type: docs
 weight: 79
 url: /cpp/system.web.services.protocols/webclientprotocol/get_preauthenticate/
 ---
-## WebClientProtocol::get_PreAuthenticate method
+## WebClientProtocol::get_PreAuthenticate() method
 
 
 Gets a value that indicates if pre-authentication is enabled.

@@ -1,5 +1,5 @@
 ---
-title: ReplaceSelf
+title: ReplaceSelf()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces the current node with the content of the string specified.
 type: docs

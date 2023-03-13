@@ -1,12 +1,12 @@
 ---
-title: Union
+title: Union()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 40
 url: /cpp/aspose.slides.drawing/rect64d/union/
 ---
-## Rect64d::Union method
+## Rect64d::Union([Rect64d](../), [Rect64d](../)) method
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: get_Namespace
+title: get_Namespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the namespaces containing the attributes that can be used.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemaanyattribute/get_namespace/
 ---
-## XmlSchemaAnyAttribute::get_Namespace method
+## XmlSchemaAnyAttribute::get_Namespace() method
 
 
 Returns the namespaces containing the attributes that can be used.

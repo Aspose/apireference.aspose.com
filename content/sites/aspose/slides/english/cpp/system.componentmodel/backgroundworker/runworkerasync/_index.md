@@ -1,5 +1,5 @@
 ---
-title: RunWorkerAsync
+title: RunWorkerAsync()
 second_title: Aspose.Slides for C++ API Reference
 description: Starts execution of a background operation.
 type: docs

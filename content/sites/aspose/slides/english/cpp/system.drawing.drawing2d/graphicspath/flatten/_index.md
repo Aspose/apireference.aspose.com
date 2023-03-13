@@ -1,5 +1,5 @@
 ---
-title: Flatten
+title: Flatten()
 second_title: Aspose.Slides for C++ API Reference
 description: Flattens each curve in the path by converting them into a series of connected lines. The flatness value of 0.25 is used.
 type: docs

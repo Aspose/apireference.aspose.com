@@ -1,12 +1,12 @@
 ---
-title: CreateConnection
+title: CreateConnection()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates database connection.
 type: docs
 weight: 14
 url: /cpp/system.data.common/dbproviderfactory/createconnection/
 ---
-## DbProviderFactory::CreateConnection method
+## DbProviderFactory::CreateConnection() method
 
 
 Creates database connection.

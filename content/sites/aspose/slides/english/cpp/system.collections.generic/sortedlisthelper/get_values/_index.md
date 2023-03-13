@@ -1,12 +1,12 @@
 ---
-title: get_Values
+title: get_Values()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/sortedlisthelper/get_values/
 ---
-## SortedListHelper::get_Values method
+## SortedListHelper::get_Values() const method
 
 
 

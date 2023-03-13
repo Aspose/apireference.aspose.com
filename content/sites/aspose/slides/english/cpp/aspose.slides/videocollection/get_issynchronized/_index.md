@@ -1,12 +1,12 @@
 ---
-title: get_IsSynchronized
+title: get_IsSynchronized()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether access to the collection is synchronized (thread-safe). Read-only bool.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/videocollection/get_issynchronized/
 ---
-## VideoCollection::get_IsSynchronized method
+## VideoCollection::get_IsSynchronized() method
 
 
 Returns a value indicating whether access to the collection is synchronized (thread-safe). Read-only **bool**.

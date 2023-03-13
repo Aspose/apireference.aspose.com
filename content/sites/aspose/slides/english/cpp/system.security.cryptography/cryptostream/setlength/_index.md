@@ -1,12 +1,12 @@
 ---
-title: SetLength
+title: SetLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Seeks size of stream. Not supported.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/cryptostream/setlength/
 ---
-## CryptoStream::SetLength method
+## CryptoStream::SetLength(**int64_t**) method
 
 
 Seeks size of stream. Not supported.

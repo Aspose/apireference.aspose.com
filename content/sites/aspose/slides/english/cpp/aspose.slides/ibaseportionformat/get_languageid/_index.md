@@ -1,12 +1,12 @@
 ---
-title: get_LanguageId
+title: get_LanguageId()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the Id of a proofing language. Used for checking spelling and grammar. Read System::String."
 type: docs
 weight: 521
 url: /cpp/aspose.slides/ibaseportionformat/get_languageid/
 ---
-## IBasePortionFormat::get_LanguageId method
+## IBasePortionFormat::get_LanguageId() method
 
 
 Returns the Id of a proofing language. Used for checking spelling and grammar. Read [System::String](../../../system/string/).

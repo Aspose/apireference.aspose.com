@@ -35,7 +35,7 @@ class IMathParagraph : public Aspose::Slides::MathText::IMathBlockCollection
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
 | virtual **int32_t** [get_Count](../imathblockcollection/get_count/)() | Gets the number of elements actually contained in the collection. Read-only **int32_t**. |
-| virtual [MathJustification](../mathjustification/) [get_Justification](./get_justification/)() | [Paragraph](../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup. |
+| virtual [MathJustification](../mathjustification/) [get_Justification](./get_justification/)() | [Paragraph](../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual [SharedPtr](../../system/sharedptr/)\<[IEnumerator](../../system.collections.generic/ienumerator/)\<T\>\> [GetEnumerator](../../system.collections.generic/ienumerable/getenumerator/)() | Gets enumerator. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
@@ -91,7 +91,7 @@ class IMathParagraph : public Aspose::Slides::MathText::IMathBlockCollection
 | virtual **bool** [Remove](../imathblockcollection/remove/)([System::SharedPtr](../../system/sharedptr/)\<[IMathBlock](../imathblock/)\>) | Removes the first occurrence of a specific object from the collection/>. |
 | virtual void [RemoveAt](../imathblockcollection/removeat/)(**int32_t**) | Removes an item at the specified index of the collection. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
-| virtual void [set_Justification](./set_justification/)([MathJustification](../mathjustification/)) | [Paragraph](../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup. |
+| virtual void [set_Justification](./set_justification/)([MathJustification](../mathjustification/)) | [Paragraph](../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
@@ -105,7 +105,7 @@ class IMathParagraph : public Aspose::Slides::MathText::IMathBlockCollection
 | virtual [virtualized_iterator](../../system.collections.generic/ienumerable/virtualized_iterator/) * [virtualizeEndIterator](../../system.collections.generic/ienumerable/virtualizeenditerator/)() | Gets the implementation of end iterator for the current container. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../../system/object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| virtual void [WriteAsMathMl](./writeasmathml/)([System::SharedPtr](../../system/sharedptr/)\<[System::IO::Stream](../../system.io/stream/)\>) | Saves content of this [IMathParagraph](./) as MathML. |
+| virtual void [WriteAsMathMl](./writeasmathml/)([System::SharedPtr](../../system/sharedptr/)\<[System::IO::Stream](../../system.io/stream/)\>) | Saves content of this [IMathParagraph](./) as MathML |
 | virtual  [~Object](../../system/object/~object/)() | Destroys object. Frees all internal data structures. |
 ## Remarks
 

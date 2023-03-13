@@ -1,5 +1,5 @@
 ---
-title: PtrToStringAuto
+title: PtrToStringAuto()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a managed String from an unmanaged zero-terminated string.
 type: docs

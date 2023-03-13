@@ -1,12 +1,12 @@
 ---
-title: get_AttributeFormDefault
+title: get_AttributeFormDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the form for attributes declared in the target namespace of the schema.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschema/get_attributeformdefault/
 ---
-## XmlSchema::get_AttributeFormDefault method
+## XmlSchema::get_AttributeFormDefault() method
 
 
 Returns the form for attributes declared in the target namespace of the schema.

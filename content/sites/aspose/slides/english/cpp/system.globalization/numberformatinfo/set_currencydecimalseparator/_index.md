@@ -1,12 +1,12 @@
 ---
-title: set_CurrencyDecimalSeparator
+title: set_CurrencyDecimalSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets currency decimal separator.
 type: docs
 weight: 287
 url: /cpp/system.globalization/numberformatinfo/set_currencydecimalseparator/
 ---
-## NumberFormatInfo::set_CurrencyDecimalSeparator method
+## NumberFormatInfo::set_CurrencyDecimalSeparator(const [String](../../../system/string/)\&) method
 
 
 Sets currency decimal separator.

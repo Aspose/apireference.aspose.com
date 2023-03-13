@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the element at the specified index. Read-only ISlide.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/sectionslidecollection/idx_get/
 ---
-## SectionSlideCollection::idx_get method
+## SectionSlideCollection::idx_get(**int32_t**) method
 
 
 Gets the element at the specified index. Read-only [ISlide](../../islide/).

@@ -1,12 +1,12 @@
 ---
-title: get_Exists
+title: get_Exists()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the file exists.
 type: docs
 weight: 79
 url: /cpp/system.io/fileinfo/get_exists/
 ---
-## FileInfo::get_Exists method
+## FileInfo::get_Exists() method
 
 
 Returns a value that indicates if the file exists.

@@ -1,12 +1,12 @@
 ---
-title: get_LongLength
+title: get_LongLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns 64-bit integer that represents the total number of all elements in all dimensions of the array.
 type: docs
 weight: 326
 url: /cpp/system/array/get_longlength/
 ---
-## Array::get_LongLength method
+## Array::get_LongLength() const method
 
 
 Returns 64-bit integer that represents the total number of all elements in all dimensions of the array.

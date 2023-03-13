@@ -1,12 +1,12 @@
 ---
-title: set_AutofitType
+title: set_AutofitType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets text's autofit mode. Write TextAutofitType.
 type: docs
 weight: 235
 url: /cpp/aspose.slides/textframeformat/set_autofittype/
 ---
-## TextFrameFormat::set_AutofitType method
+## TextFrameFormat::set_AutofitType([TextAutofitType](../../textautofittype/)) method
 
 
 Sets text's autofit mode. Write [TextAutofitType](../../textautofittype/).

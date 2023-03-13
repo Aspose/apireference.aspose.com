@@ -1,12 +1,12 @@
 ---
-title: get_None
+title: get_None()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents an empty interruption token.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/interruptiontoken/get_none/
 ---
-## InterruptionToken::get_None method
+## InterruptionToken::get_None() method
 
 
 Represents an empty interruption token.

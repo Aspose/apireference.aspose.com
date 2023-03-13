@@ -1,12 +1,12 @@
 ---
-title: get_SoftEdgeEffect
+title: get_SoftEdgeEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: "Soft edge. Read Effects::ISoftEdge."
 type: docs
 weight: 196
 url: /cpp/aspose.slides/effectformat/get_softedgeeffect/
 ---
-## EffectFormat::get_SoftEdgeEffect method
+## EffectFormat::get_SoftEdgeEffect() method
 
 
 Soft edge. Read [Effects::ISoftEdge](../../../aspose.slides.effects/isoftedge/).

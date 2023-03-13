@@ -1,15 +1,15 @@
 ---
-title: get_ImageType
+title: get_ImageType()
 second_title: Aspose.Slides for C++ API Reference
-description: "Gets the image type of a zoom object. Read ZoomImageType. Default value: Preview."
+description: "Gets the image type of a zoom object. Read ZoomImageType. Default value: Preview"
 type: docs
 weight: 1
 url: /cpp/aspose.slides/izoomobject/get_imagetype/
 ---
-## IZoomObject::get_ImageType method
+## IZoomObject::get_ImageType() method
 
 
-Gets the image type of a zoom object. Read [ZoomImageType](../../zoomimagetype/). Default value: Preview.
+Gets the image type of a zoom object. Read [ZoomImageType](../../zoomimagetype/). Default value: Preview
 
 ```cpp
 virtual ZoomImageType Aspose::Slides::IZoomObject::get_ImageType()=0

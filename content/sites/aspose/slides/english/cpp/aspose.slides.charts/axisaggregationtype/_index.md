@@ -19,7 +19,7 @@ enum class AxisAggregationType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ByCategory | 0 | Aggregate by categories. |
+| ByCategory | 0 | Aggregate by categories |
 | Automatic | 1 | Aggregate categories automatically. |
 | ByBinWidth | 2 | Aggregate categories by bin width. Property IAxis::get(set)_BinWidth must be setted. |
 | ByNumberOfBins | 3 | Aggregate categories by number of bins. Property IAxis::get(set)_NumberOfBins must be setted. |

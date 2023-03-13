@@ -1,12 +1,12 @@
 ---
-title: set_Version
+title: set_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'Version' attribute's value.
 type: docs
 weight: 430
 url: /cpp/system.net/cookie/set_version/
 ---
-## Cookie::set_Version method
+## Cookie::set_Version(**int32_t**) method
 
 
 Sets the '[Version](../../../system/version/)' attribute's value.

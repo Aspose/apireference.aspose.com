@@ -1,5 +1,5 @@
 ---
-title: SmartPtrInfo
+title: SmartPtrInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates empty SmartPtrInfo object.
 type: docs

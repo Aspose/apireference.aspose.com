@@ -1,5 +1,5 @@
 ---
-title: AddRange
+title: AddRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the 'Range' header to the current request.
 type: docs

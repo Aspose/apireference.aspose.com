@@ -1,5 +1,5 @@
 ---
-title: Replace
+title: Replace()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces all matches of regex in string with replacement string.
 type: docs

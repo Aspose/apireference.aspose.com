@@ -1,12 +1,12 @@
 ---
-title: get_Dark1
+title: get_Dark1()
 second_title: Aspose.Slides for C++ API Reference
 description: "First dark color in the scheme. Read-only System::Drawing::Color."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/icolorschemeeffectivedata/get_dark1/
 ---
-## IColorSchemeEffectiveData::get_Dark1 method
+## IColorSchemeEffectiveData::get_Dark1() method
 
 
 First dark color in the scheme. Read-only [System::Drawing::Color](../../../system.drawing/color/).

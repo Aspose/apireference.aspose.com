@@ -1,12 +1,12 @@
 ---
-title: get_CanWrite
+title: get_CanWrite()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if stream is writable.
 type: docs
 weight: 170
 url: /cpp/system.security.cryptography/cryptostream/get_canwrite/
 ---
-## CryptoStream::get_CanWrite method
+## CryptoStream::get_CanWrite() const method
 
 
 Checks if stream is writable.

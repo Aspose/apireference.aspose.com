@@ -1,12 +1,12 @@
 ---
-title: GetECDsaPublicKey
+title: GetECDsaPublicKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets RSA public key.
 type: docs
 weight: 365
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/getecdsapublickey/
 ---
-## X509Certificate2::GetECDsaPublicKey method
+## X509Certificate2::GetECDsaPublicKey() const method
 
 
 Gets [RSA](../../../system.security.cryptography/rsa/) public key.

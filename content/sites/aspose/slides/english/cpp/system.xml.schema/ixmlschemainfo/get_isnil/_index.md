@@ -1,12 +1,12 @@
 ---
-title: get_IsNil
+title: get_IsNil()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating if the value for this validated XML node is nil.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/ixmlschemainfo/get_isnil/
 ---
-## IXmlSchemaInfo::get_IsNil method
+## IXmlSchemaInfo::get_IsNil() method
 
 
 Returns a value indicating if the value for this validated XML node is **nil**.

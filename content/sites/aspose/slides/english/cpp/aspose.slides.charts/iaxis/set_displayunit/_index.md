@@ -1,12 +1,12 @@
 ---
-title: set_DisplayUnit
+title: set_DisplayUnit()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the scaling value of the display units for the value axis. Write DisplayUnitType.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/iaxis/set_displayunit/
 ---
-## IAxis::set_DisplayUnit method
+## IAxis::set_DisplayUnit([DisplayUnitType](../../displayunittype/)) method
 
 
 Specifies the scaling value of the display units for the value axis. Write [DisplayUnitType](../../displayunittype/).

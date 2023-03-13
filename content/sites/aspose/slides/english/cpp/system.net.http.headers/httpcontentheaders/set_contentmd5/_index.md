@@ -1,12 +1,12 @@
 ---
-title: set_ContentMD5
+title: set_ContentMD5()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Content-MD5' header.
 type: docs
 weight: 131
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contentmd5/
 ---
-## HttpContentHeaders::set_ContentMD5 method
+## HttpContentHeaders::set_ContentMD5([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 Sets a value of the 'Content-MD5' header.

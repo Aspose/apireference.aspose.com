@@ -1,12 +1,12 @@
 ---
-title: get_NameTable
+title: get_NameTable()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the XmlNameTable associated with this implementation.
 type: docs
 weight: 261
 url: /cpp/system.xml/xmlreader/get_nametable/
 ---
-## XmlReader::get_NameTable method
+## XmlReader::get_NameTable() method
 
 
 When overridden in a derived class, gets the [XmlNameTable](../../xmlnametable/) associated with this implementation.

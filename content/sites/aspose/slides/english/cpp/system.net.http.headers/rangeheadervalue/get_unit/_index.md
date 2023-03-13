@@ -1,12 +1,12 @@
 ---
-title: get_Unit
+title: get_Unit()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a unit.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/rangeheadervalue/get_unit/
 ---
-## RangeHeaderValue::get_Unit method
+## RangeHeaderValue::get_Unit() method
 
 
 Gets a unit.

@@ -1,12 +1,12 @@
 ---
-title: get_ErrorBarsCustomValues
+title: get_ErrorBarsCustomValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents series error bars values in case of Custom value type. Read-only IErrorBarsCustomValues.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/chartdatapoint/get_errorbarscustomvalues/
 ---
-## ChartDataPoint::get_ErrorBarsCustomValues method
+## ChartDataPoint::get_ErrorBarsCustomValues() method
 
 
 Represents series error bars values in case of Custom value type. Read-only [IErrorBarsCustomValues](../../ierrorbarscustomvalues/).

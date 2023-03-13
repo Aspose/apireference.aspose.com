@@ -1,12 +1,12 @@
 ---
-title: ToInt16
+title: ToInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the Decimal value to signed 16-bit integer value.
 type: docs
 weight: 677
 url: /cpp/system/decimal/toint16/
 ---
-## Decimal::ToInt16 method
+## Decimal::ToInt16([Decimal](../)) method
 
 
 Converts the [Decimal](../) value to signed 16-bit integer value.

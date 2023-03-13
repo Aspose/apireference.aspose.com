@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified GrayScale is equal to the current GrayScale.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/grayscale/equals/
 ---
-## GrayScale::Equals method
+## GrayScale::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [GrayScale](../) is equal to the current [GrayScale](../).

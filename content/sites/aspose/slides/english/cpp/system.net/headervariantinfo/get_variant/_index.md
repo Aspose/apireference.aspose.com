@@ -1,12 +1,12 @@
 ---
-title: get_Variant
+title: get_Variant()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the cookie's specification.
 type: docs
 weight: 14
 url: /cpp/system.net/headervariantinfo/get_variant/
 ---
-## HeaderVariantInfo::get_Variant method
+## HeaderVariantInfo::get_Variant() method
 
 
 Returns the cookie's specification.

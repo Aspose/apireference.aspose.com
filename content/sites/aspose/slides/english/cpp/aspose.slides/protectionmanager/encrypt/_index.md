@@ -1,12 +1,12 @@
 ---
-title: Encrypt
+title: Encrypt()
 second_title: Aspose.Slides for C++ API Reference
 description: Encrypts Presentation with specified password.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/protectionmanager/encrypt/
 ---
-## ProtectionManager::Encrypt method
+## ProtectionManager::Encrypt([System::String](../../../system/string/)) method
 
 
 Encrypts [Presentation](../../presentation/) with specified password.

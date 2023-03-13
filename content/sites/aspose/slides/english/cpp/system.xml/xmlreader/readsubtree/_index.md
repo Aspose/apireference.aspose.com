@@ -1,12 +1,12 @@
 ---
-title: ReadSubtree
+title: ReadSubtree()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new XmlReader instance that can be used to read the current node, and all its descendants.
 type: docs
 weight: 963
 url: /cpp/system.xml/xmlreader/readsubtree/
 ---
-## XmlReader::ReadSubtree method
+## XmlReader::ReadSubtree() method
 
 
 Returns a new [XmlReader](../) instance that can be used to read the current node, and all its descendants.

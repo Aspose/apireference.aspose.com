@@ -1,5 +1,5 @@
 ---
-title: AddDataPointForSurfaceSeries
+title: AddDataPointForSurfaceSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: "Creates the new data point and adds it to the end of collection. Applicable for series which chartType is one of Surface subtypes (see also ChartTypeCharacterizer::IsChartTypeSurface(ChartType) method)."
 type: docs

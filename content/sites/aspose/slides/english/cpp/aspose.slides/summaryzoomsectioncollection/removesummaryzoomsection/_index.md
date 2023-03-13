@@ -1,12 +1,12 @@
 ---
-title: RemoveSummaryZoomSection
+title: RemoveSummaryZoomSection()
 second_title: Aspose.Slides for C++ API Reference
 description: Remove Summary Zoom Section object from the collection.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/summaryzoomsectioncollection/removesummaryzoomsection/
 ---
-## SummaryZoomSectionCollection::RemoveSummaryZoomSection method
+## SummaryZoomSectionCollection::RemoveSummaryZoomSection([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
 
 
 Remove Summary Zoom [Section](../../section/) object from the collection.

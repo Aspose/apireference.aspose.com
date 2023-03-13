@@ -1,5 +1,5 @@
 ---
-title: ExchangeAdd
+title: ExchangeAdd()
 second_title: Aspose.Slides for C++ API Reference
 description: Increases value atomically via exchange-add procedure.
 type: docs

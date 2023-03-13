@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if container is read only.
 type: docs
 weight: 79
 url: /cpp/system.collections.generic/ikvcollection/get_isreadonly/
 ---
-## IKVCollection::get_IsReadOnly method
+## IKVCollection::get_IsReadOnly() const method
 
 
 Checks if container is read only.

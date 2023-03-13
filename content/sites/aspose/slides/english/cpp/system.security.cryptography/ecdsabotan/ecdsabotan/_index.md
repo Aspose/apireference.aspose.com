@@ -1,5 +1,5 @@
 ---
-title: ECDsaBotan
+title: ECDsaBotan()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor. Uses default parameters.
 type: docs

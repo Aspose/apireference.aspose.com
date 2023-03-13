@@ -1,12 +1,12 @@
 ---
-title: RemoveWriteProtection
+title: RemoveWriteProtection()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes write protection for this presentation.
 type: docs
 weight: 144
 url: /cpp/aspose.slides/protectionmanager/removewriteprotection/
 ---
-## ProtectionManager::RemoveWriteProtection method
+## ProtectionManager::RemoveWriteProtection() method
 
 
 Removes write protection for this presentation.

@@ -1,12 +1,12 @@
 ---
-title: ToUpperInvariant
+title: ToUpperInvariant()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts all string's characters to upper case using invariant culture.
 type: docs
 weight: 521
 url: /cpp/system/string/toupperinvariant/
 ---
-## String::ToUpperInvariant method
+## String::ToUpperInvariant() const method
 
 
 Converts all string's characters to upper case using invariant culture.

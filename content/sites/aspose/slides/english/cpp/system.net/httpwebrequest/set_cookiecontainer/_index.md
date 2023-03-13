@@ -1,12 +1,12 @@
 ---
-title: set_CookieContainer
+title: set_CookieContainer()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a cookie container associated with the current web request.
 type: docs
 weight: 170
 url: /cpp/system.net/httpwebrequest/set_cookiecontainer/
 ---
-## HttpWebRequest::set_CookieContainer method
+## HttpWebRequest::set_CookieContainer([System::SharedPtr](../../../system/sharedptr/)\<[System::Net::CookieContainer](../../cookiecontainer/)\>) method
 
 
 Sets a cookie container associated with the current web request.

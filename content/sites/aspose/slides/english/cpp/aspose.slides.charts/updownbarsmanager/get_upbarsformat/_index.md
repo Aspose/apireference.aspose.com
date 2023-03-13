@@ -1,12 +1,12 @@
 ---
-title: get_UpBarsFormat
+title: get_UpBarsFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the UpBars format. Read-only IFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/updownbarsmanager/get_upbarsformat/
 ---
-## UpDownBarsManager::get_UpBarsFormat method
+## UpDownBarsManager::get_UpBarsFormat() method
 
 
 Returns the UpBars format. Read-only [IFormat](../../iformat/).

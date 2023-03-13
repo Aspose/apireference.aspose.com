@@ -1,12 +1,12 @@
 ---
-title: get_FieldCount
+title: get_FieldCount()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data/idatarecord/get_fieldcount/
 ---
-## IDataRecord::get_FieldCount method
+## IDataRecord::get_FieldCount() method
 
 
 RTTI information.

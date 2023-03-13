@@ -1,5 +1,5 @@
 ---
-title: DateTime
+title: DateTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance that represents the smallest possible date and time value equal to MinValue.
 type: docs

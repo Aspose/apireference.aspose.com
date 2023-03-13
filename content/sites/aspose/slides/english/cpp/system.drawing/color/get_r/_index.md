@@ -1,12 +1,12 @@
 ---
-title: get_R
+title: get_R()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value of the red component of the color represented by the current object.
 type: docs
 weight: 40
 url: /cpp/system.drawing/color/get_r/
 ---
-## Color::get_R method
+## Color::get_R() const method
 
 
 Returns the value of the red component of the color represented by the current object.

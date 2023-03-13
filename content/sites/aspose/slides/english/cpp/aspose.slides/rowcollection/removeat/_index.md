@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes a row at the specified position from a table.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/rowcollection/removeat/
 ---
-## RowCollection::RemoveAt method
+## RowCollection::RemoveAt(**int32_t**, **bool**) method
 
 
 Removes a row at the specified position from a table.

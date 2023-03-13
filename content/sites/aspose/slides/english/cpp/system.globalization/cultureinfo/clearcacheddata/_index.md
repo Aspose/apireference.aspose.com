@@ -1,12 +1,12 @@
 ---
-title: ClearCachedData
+title: ClearCachedData()
 second_title: Aspose.Slides for C++ API Reference
 description: Refreshes cached culture information.
 type: docs
 weight: 313
 url: /cpp/system.globalization/cultureinfo/clearcacheddata/
 ---
-## CultureInfo::ClearCachedData method
+## CultureInfo::ClearCachedData() method
 
 
 Refreshes cached culture information.

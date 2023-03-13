@@ -1,12 +1,12 @@
 ---
-title: Widen
+title: Widen()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces this path with an outline around the original path.
 type: docs
 weight: 404
 url: /cpp/system.drawing.drawing2d/graphicspath/widen/
 ---
-## GraphicsPath::Widen method
+## GraphicsPath::Widen(const [SharedPtr](../../../system/sharedptr/)\<[Pen](../../../system.drawing/pen/)\>\&) method
 
 
 Replaces this path with an outline around the original path.

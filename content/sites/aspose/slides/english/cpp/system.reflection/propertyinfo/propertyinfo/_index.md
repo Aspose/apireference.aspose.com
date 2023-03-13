@@ -1,5 +1,5 @@
 ---
-title: PropertyInfo
+title: PropertyInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor. Property with only const getter.
 type: docs

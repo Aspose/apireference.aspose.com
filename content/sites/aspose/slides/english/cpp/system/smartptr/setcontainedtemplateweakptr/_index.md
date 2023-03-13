@@ -1,12 +1,12 @@
 ---
-title: SetContainedTemplateWeakPtr
+title: SetContainedTemplateWeakPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Calls SetTemplateWeakPtr() method on pointed object (if any).
 type: docs
 weight: 365
 url: /cpp/system/smartptr/setcontainedtemplateweakptr/
 ---
-## SmartPtr::SetContainedTemplateWeakPtr method
+## SmartPtr::SetContainedTemplateWeakPtr(**uint32_t**) const method
 
 
 Calls SetTemplateWeakPtr() method on pointed object (if any).

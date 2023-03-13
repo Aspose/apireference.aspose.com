@@ -1,12 +1,12 @@
 ---
-title: set_HasLegend
+title: set_HasLegend()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a chart has a legend. Write bool.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.charts/chart/set_haslegend/
 ---
-## Chart::set_HasLegend method
+## Chart::set_HasLegend(**bool**) method
 
 
 Determines whether a chart has a legend. Write **bool**.

@@ -1,12 +1,12 @@
 ---
-title: WrapperLazyInitialization
+title: WrapperLazyInitialization()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/aspose.slides/pviobject/wrapperlazyinitialization/
 ---
-## PVIObject::WrapperLazyInitialization method
+## PVIObject::WrapperLazyInitialization() const method
 
 
 

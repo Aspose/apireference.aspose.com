@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to convert a passed string to an instance of the TransferCodingWithQualityHeaderValue class.
 type: docs
 weight: 53
 url: /cpp/system.net.http.headers/transfercodingwithqualityheadervalue/tryparse/
 ---
-## TransferCodingWithQualityHeaderValue::TryParse method
+## TransferCodingWithQualityHeaderValue::TryParse([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[TransferCodingWithQualityHeaderValue](../)\>\&) method
 
 
 Tries to convert a passed string to an instance of the [TransferCodingWithQualityHeaderValue](../) class.

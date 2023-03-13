@@ -1,12 +1,12 @@
 ---
-title: get_BaseURI
+title: get_BaseURI()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the base URI of the current node.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmltextreader/get_baseuri/
 ---
-## XmlTextReader::get_BaseURI method
+## XmlTextReader::get_BaseURI() method
 
 
 Returns the base URI of the current node.

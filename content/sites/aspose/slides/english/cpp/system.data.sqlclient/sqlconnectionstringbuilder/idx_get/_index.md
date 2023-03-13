@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/idx_get/
 ---
-## SqlConnectionStringBuilder::idx_get method
+## SqlConnectionStringBuilder::idx_get([String](../../../system/string/)) method
 
 
 RTTI information.

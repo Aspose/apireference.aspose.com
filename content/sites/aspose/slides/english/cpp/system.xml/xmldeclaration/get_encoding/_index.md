@@ -1,12 +1,12 @@
 ---
-title: get_Encoding
+title: get_Encoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the encoding level of the XML document.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmldeclaration/get_encoding/
 ---
-## XmlDeclaration::get_Encoding method
+## XmlDeclaration::get_Encoding() method
 
 
 Returns the encoding level of the XML document.

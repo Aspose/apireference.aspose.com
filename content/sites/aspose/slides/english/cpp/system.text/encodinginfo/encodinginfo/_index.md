@@ -1,12 +1,12 @@
 ---
-title: EncodingInfo
+title: EncodingInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Constuctor.
 type: docs
 weight: 1
 url: /cpp/system.text/encodinginfo/encodinginfo/
 ---
-## EncodingInfo::EncodingInfo constructor
+## EncodingInfo::EncodingInfo(int, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) constructor
 
 
 Constuctor.

@@ -1,5 +1,5 @@
 ---
-title: get_FormatProvider
+title: get_FormatProvider()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the currently used IFormatProvider object.
 type: docs

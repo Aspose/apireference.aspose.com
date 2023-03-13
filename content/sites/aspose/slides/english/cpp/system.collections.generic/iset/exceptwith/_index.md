@@ -1,12 +1,12 @@
 ---
-title: ExceptWith
+title: ExceptWith()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes group of elements.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/iset/exceptwith/
 ---
-## ISet::ExceptWith method
+## ISet::ExceptWith([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Removes group of elements.

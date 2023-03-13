@@ -31,13 +31,13 @@ template<typename T>class List : public virtual System::Object,
 | void [AddInitializer](./addinitializer/)(int, const T) | Adds elements to list; used when translating initializers. |
 | void [AddRange](./addrange/)([IEnumerablePtr](./ienumerableptr/)) | Adds all elements from collection (or itself) to the end of current list. |
 | [SharedPtr](../../system/sharedptr/)\<[System::Collections::ObjectModel::ReadOnlyCollection](../../system.collections.objectmodel/readonlycollection/)\<T\>\> [AsReadOnly](./asreadonly/)() | Gets read-only reference to this collection. |
-| [iterator](./iterator/) [begin](./begin/)() | Gets iterator to the first element of collection. |
-| [const_iterator](./const_iterator/) [begin](./begin/)() const | Gets iterator to the first element of the const-qualified collection. |
+| [iterator](../ienumerable/iterator/) [begin](./begin/)() | Gets iterator to the first element of collection. |
+| [const_iterator](../ienumerable/const_iterator/) [begin](./begin/)() const | Gets iterator to the first element of the const-qualified collection. |
 | int [BinarySearch](./binarysearch/)(const T\&) const | Looks for item in a sorted list. |
 | int [BinarySearch](./binarysearch/)(const T\&, const [SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::IComparer](../icomparer/)\<T\>\>\&) const | Looks for item in a sorted list. |
 | int [BinarySearch](./binarysearch/)(int, int, const T\&, const [SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::IComparer](../icomparer/)\<T\>\>\&) const | Looks for item in a sorted list. |
-| [const_iterator](./const_iterator/) [cbegin](./cbegin/)() const | Gets iterator to the first const-qualified element of collection. |
-| [const_iterator](./const_iterator/) [cend](./cend/)() const | Gets iterator for a non-existent const-qualified element behind the end of the collection. |
+| [const_iterator](../ienumerable/const_iterator/) [cbegin](./cbegin/)() const | Gets iterator to the first const-qualified element of collection. |
+| [const_iterator](../ienumerable/const_iterator/) [cend](./cend/)() const | Gets iterator for a non-existent const-qualified element behind the end of the collection. |
 | void [Clear](./clear/)() override | Deletes all elements. |
 | **bool** [Contains](./contains/)(const T\&) const override | Checks if item is present in list. |
 | [SharedPtr](../../system/sharedptr/)\<[List](./)\<OutputType\>\> [ConvertAll](./convertall/)([Converter](../../system/converter/)\<T, OutputType\>) | Creates a list of elements converted to different type. |
@@ -48,8 +48,8 @@ template<typename T>class List : public virtual System::Object,
 | [const_reverse_iterator](./const_reverse_iterator/) [crend](./crend/)() const | Gets a reverse iterator for a non-existent const-qualified element before the start of the collection. |
 | [vector_t](./vector_t/)\& [data](./data/)() | Underlying data structure access function. |
 | const [vector_t](./vector_t/)\& [data](./data/)() const | Underlying data structure access function. |
-| [iterator](./iterator/) [end](./end/)() | Gets iterator for a non-existent element behind the end of the collection. |
-| [const_iterator](./const_iterator/) [end](./end/)() const | Gets iterator for a non-existent element behind the end of the const-qualified collection. |
+| [iterator](../ienumerable/iterator/) [end](./end/)() | Gets iterator for a non-existent element behind the end of the collection. |
+| [const_iterator](../ienumerable/const_iterator/) [end](./end/)() const | Gets iterator for a non-existent element behind the end of the const-qualified collection. |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

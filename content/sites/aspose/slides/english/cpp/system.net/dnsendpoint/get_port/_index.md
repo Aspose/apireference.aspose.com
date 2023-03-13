@@ -1,12 +1,12 @@
 ---
-title: get_Port
+title: get_Port()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the port number.
 type: docs
 weight: 27
 url: /cpp/system.net/dnsendpoint/get_port/
 ---
-## DnsEndPoint::get_Port method
+## DnsEndPoint::get_Port() method
 
 
 Returns the port number.

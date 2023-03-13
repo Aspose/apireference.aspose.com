@@ -1,12 +1,12 @@
 ---
-title: get_Preset
+title: get_Preset()
 second_title: Aspose.Slides for C++ API Reference
 description: Preset. Read-only PresetShadowType.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/ipresetshadoweffectivedata/get_preset/
 ---
-## IPresetShadowEffectiveData::get_Preset method
+## IPresetShadowEffectiveData::get_Preset() method
 
 
 Preset. Read-only [PresetShadowType](../../../aspose.slides/presetshadowtype/).

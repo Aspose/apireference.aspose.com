@@ -1,12 +1,12 @@
 ---
-title: set_NegativeInfinitySymbol
+title: set_NegativeInfinitySymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets negative infinity symbol.
 type: docs
 weight: 469
 url: /cpp/system.globalization/numberformatinfo/set_negativeinfinitysymbol/
 ---
-## NumberFormatInfo::set_NegativeInfinitySymbol method
+## NumberFormatInfo::set_NegativeInfinitySymbol(const [String](../../../system/string/)\&) method
 
 
 Sets negative infinity symbol.

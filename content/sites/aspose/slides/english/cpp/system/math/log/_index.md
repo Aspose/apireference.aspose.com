@@ -1,5 +1,5 @@
 ---
-title: Log
+title: Log()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the natural logarithm of the specified value.
 type: docs

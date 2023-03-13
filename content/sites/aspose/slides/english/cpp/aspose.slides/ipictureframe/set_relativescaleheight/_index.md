@@ -1,12 +1,12 @@
 ---
-title: set_RelativeScaleHeight
+title: set_RelativeScaleHeight()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the scale of height(relative to original picture size) of the picture frame. Value 1.0 corresponds to 100%. Write float.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ipictureframe/set_relativescaleheight/
 ---
-## IPictureFrame::set_RelativeScaleHeight method
+## IPictureFrame::set_RelativeScaleHeight(**float**) method
 
 
 Sets the scale of height(relative to original picture size) of the picture frame. Value 1.0 corresponds to 100%. Write **float**.

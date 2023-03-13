@@ -1,12 +1,12 @@
 ---
-title: get_LineFormat
+title: get_LineFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the LineFormat properties for text outlining. No inheritance applied. Read-only ILineFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/baseportionformat/get_lineformat/
 ---
-## BasePortionFormat::get_LineFormat method
+## BasePortionFormat::get_LineFormat() method
 
 
 Returns the [LineFormat](../../lineformat/) properties for text outlining. No inheritance applied. Read-only [ILineFormat](../../ilineformat/).

@@ -1,12 +1,12 @@
 ---
-title: set_R1C1Formula
+title: set_R1C1Formula()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the formula in R1C1-style.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/ichartdatacell/set_r1c1formula/
 ---
-## IChartDataCell::set_R1C1Formula method
+## IChartDataCell::set_R1C1Formula([System::String](../../../system/string/)) method
 
 
 Sets the formula in R1C1-style.

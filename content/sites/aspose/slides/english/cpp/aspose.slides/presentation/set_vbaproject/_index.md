@@ -1,12 +1,12 @@
 ---
-title: set_VbaProject
+title: set_VbaProject()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets VBA project with presentation macros. Write Vba::IVbaProject."
 type: docs
 weight: 313
 url: /cpp/aspose.slides/presentation/set_vbaproject/
 ---
-## Presentation::set_VbaProject method
+## Presentation::set_VbaProject([System::SharedPtr](../../../system/sharedptr/)\<[Vba::IVbaProject](../../../aspose.slides.vba/ivbaproject/)\>) method
 
 
 Sets VBA project with presentation macros. Write [Vba::IVbaProject](../../../aspose.slides.vba/ivbaproject/).

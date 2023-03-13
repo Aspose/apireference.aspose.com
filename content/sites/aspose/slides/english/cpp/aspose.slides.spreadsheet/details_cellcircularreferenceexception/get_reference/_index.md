@@ -1,12 +1,12 @@
 ---
-title: get_Reference
+title: get_Reference()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a circular cell reference.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.spreadsheet/details_cellcircularreferenceexception/get_reference/
 ---
-## Details_CellCircularReferenceException::get_Reference method
+## Details_CellCircularReferenceException::get_Reference() method
 
 
 Gets a circular cell reference.

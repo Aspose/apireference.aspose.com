@@ -1,12 +1,12 @@
 ---
-title: get_Prefix
+title: get_Prefix()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the namespace prefix associated with the current node.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlnodereader/get_prefix/
 ---
-## XmlNodeReader::get_Prefix method
+## XmlNodeReader::get_Prefix() method
 
 
 Returns the namespace prefix associated with the current node.

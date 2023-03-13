@@ -1,12 +1,12 @@
 ---
-title: Reset
+title: Reset()
 second_title: Aspose.Slides for C++ API Reference
 description: Resets buffer to initial state.
 type: docs
 weight: 53
 url: /cpp/system.text/decoderfallbackbuffer/reset/
 ---
-## DecoderFallbackBuffer::Reset method
+## DecoderFallbackBuffer::Reset() method
 
 
 Resets buffer to initial state.

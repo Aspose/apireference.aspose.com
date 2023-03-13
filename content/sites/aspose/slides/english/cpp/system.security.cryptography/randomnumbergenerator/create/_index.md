@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an instance of the default implementation of a cryptographic random number generator that can be used to generate random data. Not implemented.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/randomnumbergenerator/create/
 ---
-## RandomNumberGenerator::Create method
+## RandomNumberGenerator::Create() method
 
 
 Creates an instance of the default implementation of a cryptographic random number generator that can be used to generate random data. Not implemented.

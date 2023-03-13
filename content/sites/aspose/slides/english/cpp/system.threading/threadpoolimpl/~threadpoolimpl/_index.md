@@ -1,12 +1,12 @@
 ---
-title: ~ThreadPoolImpl
+title: ~ThreadPoolImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor. Joins all threads if they were not terminated yet.
 type: docs
 weight: 92
 url: /cpp/system.threading/threadpoolimpl/~threadpoolimpl/
 ---
-## ThreadPoolImpl::~ThreadPoolImpl method
+## ThreadPoolImpl::~ThreadPoolImpl() method
 
 
 Destructor. Joins all threads if they were not terminated yet.

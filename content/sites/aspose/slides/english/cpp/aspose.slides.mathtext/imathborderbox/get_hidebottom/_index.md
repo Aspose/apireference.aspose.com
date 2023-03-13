@@ -1,12 +1,12 @@
 ---
-title: get_HideBottom
+title: get_HideBottom()
 second_title: Aspose.Slides for C++ API Reference
 description: Hide Bottom Edge (default is false) - specifies the hidden or shown state of the bottom edge of border box.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/imathborderbox/get_hidebottom/
 ---
-## IMathBorderBox::get_HideBottom method
+## IMathBorderBox::get_HideBottom() method
 
 
 Hide Bottom Edge (default is false) - specifies the hidden or shown state of the bottom edge of border box.

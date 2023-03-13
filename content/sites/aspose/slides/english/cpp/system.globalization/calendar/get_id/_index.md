@@ -1,12 +1,12 @@
 ---
-title: get_ID
+title: get_ID()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets calendar identifier.
 type: docs
 weight: 430
 url: /cpp/system.globalization/calendar/get_id/
 ---
-## Calendar::get_ID method
+## Calendar::get_ID() const method
 
 
 Gets calendar identifier.

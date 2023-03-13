@@ -1,12 +1,12 @@
 ---
-title: Tuple
+title: Tuple()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a tuple object.
 type: docs
 weight: 1
 url: /cpp/system/tuple/tuple/
 ---
-## Tuple::Tuple constructor
+## Tuple::Tuple(Args...) constructor
 
 
 Constructs a tuple object.

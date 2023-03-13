@@ -1,12 +1,12 @@
 ---
-title: set_DocTypeName
+title: set_DocTypeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the document type declaration.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlparsercontext/set_doctypename/
 ---
-## XmlParserContext::set_DocTypeName method
+## XmlParserContext::set_DocTypeName(const [String](../../../system/string/)\&) method
 
 
 Sets the name of the document type declaration.

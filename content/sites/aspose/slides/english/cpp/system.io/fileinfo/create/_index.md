@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a file at the location specified by the path represented by the current object and opens it for reading and writing, in truncate mode and with no sharing.
 type: docs
 weight: 196
 url: /cpp/system.io/fileinfo/create/
 ---
-## FileInfo::Create method
+## FileInfo::Create() method
 
 
 Creates a file at the location specified by the path represented by the current object and opens it for reading and writing, in truncate mode and with no sharing.

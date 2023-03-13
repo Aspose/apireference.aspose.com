@@ -1,12 +1,12 @@
 ---
-title: get_NumberedBulletStyle
+title: get_NumberedBulletStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the style of a numbered bullet with no inheritance. Read Slides::NumberedBulletStyle."
 type: docs
 weight: 144
 url: /cpp/aspose.slides/bulletformat/get_numberedbulletstyle/
 ---
-## BulletFormat::get_NumberedBulletStyle method
+## BulletFormat::get_NumberedBulletStyle() method
 
 
 Returns the style of a numbered bullet with no inheritance. Read [Slides::NumberedBulletStyle](../../numberedbulletstyle/).

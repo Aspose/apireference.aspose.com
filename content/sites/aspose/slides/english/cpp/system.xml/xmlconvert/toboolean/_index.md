@@ -1,12 +1,12 @@
 ---
-title: ToBoolean
+title: ToBoolean()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Boolean equivalent.
 type: docs
 weight: 235
 url: /cpp/system.xml/xmlconvert/toboolean/
 ---
-## XmlConvert::ToBoolean method
+## XmlConvert::ToBoolean([String](../../../system/string/)) method
 
 
 Converts the [String](../../../system/string/) to a [Boolean](../../../system/boolean/) equivalent.

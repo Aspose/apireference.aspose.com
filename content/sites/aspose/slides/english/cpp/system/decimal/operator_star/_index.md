@@ -1,12 +1,12 @@
 ---
-title: operator*
+title: operator*()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of Decimal class that represents a value that is a result of multiplication of values represented by the current and specified objects.
 type: docs
 weight: 105
 url: /cpp/system/decimal/operator_star/
 ---
-## Decimal::operator* method
+## Decimal::operator*(const [Decimal](../)\&) const method
 
 
 Returns a new instance of [Decimal](../) class that represents a value that is a result of multiplication of values represented by the current and specified objects.

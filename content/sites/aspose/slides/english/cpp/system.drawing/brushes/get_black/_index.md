@@ -1,12 +1,12 @@
 ---
-title: get_Black
+title: get_Black()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF000000.
 type: docs
 weight: 92
 url: /cpp/system.drawing/brushes/get_black/
 ---
-## Brushes::get_Black method
+## Brushes::get_Black() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF000000.

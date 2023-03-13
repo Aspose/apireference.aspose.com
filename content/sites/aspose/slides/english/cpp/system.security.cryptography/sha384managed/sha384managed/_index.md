@@ -1,12 +1,12 @@
 ---
-title: SHA384Managed
+title: SHA384Managed()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/sha384managed/sha384managed/
 ---
-## SHA384Managed::SHA384Managed constructor
+## SHA384Managed::SHA384Managed() constructor
 
 
 Constructor.

@@ -1,12 +1,12 @@
 ---
-title: get_ServicePoint
+title: get_ServicePoint()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a service point that represents the network connection to the resource.
 type: docs
 weight: 352
 url: /cpp/system.net/httpwebrequest/get_servicepoint/
 ---
-## HttpWebRequest::get_ServicePoint method
+## HttpWebRequest::get_ServicePoint() method
 
 
 Returns a service point that represents the network connection to the resource.

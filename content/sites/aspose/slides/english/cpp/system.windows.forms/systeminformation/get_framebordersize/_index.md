@@ -1,12 +1,12 @@
 ---
-title: get_FrameBorderSize
+title: get_FrameBorderSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 248
 url: /cpp/system.windows.forms/systeminformation/get_framebordersize/
 ---
-## SystemInformation::get_FrameBorderSize method
+## SystemInformation::get_FrameBorderSize() method
 
 
 NOT IMPLEMENTED.

@@ -1,5 +1,5 @@
 ---
-title: IsNull
+title: IsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if specific value is null. Version for arithmetic and enum types.
 type: docs

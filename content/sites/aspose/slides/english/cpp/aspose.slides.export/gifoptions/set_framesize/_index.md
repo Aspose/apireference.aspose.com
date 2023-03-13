@@ -1,12 +1,12 @@
 ---
-title: set_FrameSize
+title: set_FrameSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets frame size.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/gifoptions/set_framesize/
 ---
-## GifOptions::set_FrameSize method
+## GifOptions::set_FrameSize([System::Drawing::Size](../../../system.drawing/size/)) method
 
 
 Sets frame size.

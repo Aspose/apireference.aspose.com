@@ -1,12 +1,12 @@
 ---
-title: set_Padding
+title: set_Padding()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets padding of cryptographic operation.
 type: docs
 weight: 170
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_padding/
 ---
-## SymmetricAlgorithm::set_Padding method
+## SymmetricAlgorithm::set_Padding([PaddingMode](../../paddingmode/)) method
 
 
 Sets padding of cryptographic operation.

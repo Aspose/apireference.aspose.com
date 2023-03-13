@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets character at specified position.
 type: docs
 weight: 92
 url: /cpp/system.text/stringbuilder/idx_get/
 ---
-## StringBuilder::idx_get method
+## StringBuilder::idx_get(int) const method
 
 
 Gets character at specified position.

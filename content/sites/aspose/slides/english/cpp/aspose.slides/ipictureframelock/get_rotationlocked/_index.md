@@ -1,12 +1,12 @@
 ---
-title: get_RotationLocked
+title: get_RotationLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a changing rotation angle of this shape is forbidden. Read bool.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ipictureframelock/get_rotationlocked/
 ---
-## IPictureFrameLock::get_RotationLocked method
+## IPictureFrameLock::get_RotationLocked() method
 
 
 Determines whether a changing rotation angle of this shape is forbidden. Read **bool**.

@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsInt
+title: get_ValueAsInt()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the item's value as an Int32.
 type: docs
 weight: 105
 url: /cpp/system.xml.xpath/xpathitem/get_valueasint/
 ---
-## XPathItem::get_ValueAsInt method
+## XPathItem::get_ValueAsInt() method
 
 
 When overridden in a derived class, gets the item's value as an [Int32](../../../system/int32/).

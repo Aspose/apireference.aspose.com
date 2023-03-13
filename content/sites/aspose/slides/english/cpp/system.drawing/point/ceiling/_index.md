@@ -1,12 +1,12 @@
 ---
-title: Ceiling
+title: Ceiling()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a Point object from the specified PointF object by rounding the PointF object's X and Y coordinates values to the next higher integer values.
 type: docs
 weight: 209
 url: /cpp/system.drawing/point/ceiling/
 ---
-## Point::Ceiling method
+## Point::Ceiling(const [PointF](../../pointf/)\&) method
 
 
 Constructs a [Point](../) object from the specified [PointF](../../pointf/) object by rounding the [PointF](../../pointf/) object's X and Y coordinates values to the next higher integer values.

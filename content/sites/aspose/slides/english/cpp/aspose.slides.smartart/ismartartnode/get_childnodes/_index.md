@@ -1,12 +1,12 @@
 ---
-title: get_ChildNodes
+title: get_ChildNodes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns collections of all child nodes of current node. Read-only ISmartArtNodeCollection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.smartart/ismartartnode/get_childnodes/
 ---
-## ISmartArtNode::get_ChildNodes method
+## ISmartArtNode::get_ChildNodes() method
 
 
 Returns collections of all child nodes of current node. Read-only [ISmartArtNodeCollection](../../ismartartnodecollection/).

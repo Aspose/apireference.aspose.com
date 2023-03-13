@@ -1,12 +1,12 @@
 ---
-title: set_Block
+title: set_Block()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a Block derivation.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaelement/set_block/
 ---
-## XmlSchemaElement::set_Block method
+## XmlSchemaElement::set_Block([XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)) method
 
 
 Sets a **Block** derivation.

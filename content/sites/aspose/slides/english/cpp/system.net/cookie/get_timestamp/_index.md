@@ -1,12 +1,12 @@
 ---
-title: get_TimeStamp
+title: get_TimeStamp()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the time when the cookie was created.
 type: docs
 weight: 339
 url: /cpp/system.net/cookie/get_timestamp/
 ---
-## Cookie::get_TimeStamp method
+## Cookie::get_TimeStamp() const method
 
 
 Returns the time when the cookie was created.

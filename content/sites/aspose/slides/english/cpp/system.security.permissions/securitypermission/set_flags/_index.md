@@ -1,12 +1,12 @@
 ---
-title: set_Flags
+title: set_Flags()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets flags associated with permission.
 type: docs
 weight: 14
 url: /cpp/system.security.permissions/securitypermission/set_flags/
 ---
-## SecurityPermission::set_Flags method
+## SecurityPermission::set_Flags([SecurityPermissionFlag](../../securitypermissionflag/)) method
 
 
 Sets flags associated with permission.

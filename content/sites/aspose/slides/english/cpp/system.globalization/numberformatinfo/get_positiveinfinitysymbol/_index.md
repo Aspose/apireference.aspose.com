@@ -1,12 +1,12 @@
 ---
-title: get_PositiveInfinitySymbol
+title: get_PositiveInfinitySymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets positive infinity symbol.
 type: docs
 weight: 430
 url: /cpp/system.globalization/numberformatinfo/get_positiveinfinitysymbol/
 ---
-## NumberFormatInfo::get_PositiveInfinitySymbol method
+## NumberFormatInfo::get_PositiveInfinitySymbol() const method
 
 
 Gets positive infinity symbol.

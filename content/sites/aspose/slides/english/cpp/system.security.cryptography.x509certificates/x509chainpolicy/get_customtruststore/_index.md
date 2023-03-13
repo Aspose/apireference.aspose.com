@@ -1,12 +1,12 @@
 ---
-title: get_CustomTrustStore
+title: get_CustomTrustStore()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/get_customtruststore/
 ---
-## X509ChainPolicy::get_CustomTrustStore method
+## X509ChainPolicy::get_CustomTrustStore() method
 
 
 

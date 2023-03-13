@@ -1,7 +1,7 @@
 ---
 title: IParagraphFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create paragraphs.
+description: Allows to create paragraphs
 type: docs
 weight: 2952
 url: /cpp/aspose.slides/iparagraphfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/iparagraphfactory/
 ## IParagraphFactory class
 
 
-Allows to create paragraphs.
+Allows to create paragraphs
 
 ```cpp
 class IParagraphFactory : public System::Object

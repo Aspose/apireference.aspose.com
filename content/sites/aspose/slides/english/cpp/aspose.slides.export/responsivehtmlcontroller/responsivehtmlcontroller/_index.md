@@ -1,7 +1,7 @@
 ---
-title: ResponsiveHtmlController
+title: ResponsiveHtmlController()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates new instance.
+description: Creates new instance
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/responsivehtmlcontroller/responsivehtmlcontroller/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.export/responsivehtmlcontroller/responsivehtmlcontroller
 ## ResponsiveHtmlController::ResponsiveHtmlController() constructor
 
 
-Creates new instance.
+Creates new instance
 
 ```cpp
 Aspose::Slides::Export::ResponsiveHtmlController::ResponsiveHtmlController()
@@ -23,7 +23,7 @@ Aspose::Slides::Export::ResponsiveHtmlController::ResponsiveHtmlController()
 ## ResponsiveHtmlController::ResponsiveHtmlController([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlFormattingController](../../ihtmlformattingcontroller/)\>) constructor
 
 
-Creates new instance.
+Creates new instance
 
 ```cpp
 Aspose::Slides::Export::ResponsiveHtmlController::ResponsiveHtmlController(System::SharedPtr<IHtmlFormattingController> controller)

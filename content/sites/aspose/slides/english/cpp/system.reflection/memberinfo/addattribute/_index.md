@@ -1,12 +1,12 @@
 ---
-title: AddAttribute
+title: AddAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds attribute to collection.
 type: docs
 weight: 79
 url: /cpp/system.reflection/memberinfo/addattribute/
 ---
-## MemberInfo::AddAttribute method
+## MemberInfo::AddAttribute(const [ObjectPtr](../objectptr/)\&) method
 
 
 Adds attribute to collection.

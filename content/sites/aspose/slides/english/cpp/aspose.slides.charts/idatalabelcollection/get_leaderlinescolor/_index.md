@@ -1,12 +1,12 @@
 ---
-title: get_LeaderLinesColor
+title: get_LeaderLinesColor()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets the color of all leader lines in the collection. Read System::Drawing::Color."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/idatalabelcollection/get_leaderlinescolor/
 ---
-## IDataLabelCollection::get_LeaderLinesColor method
+## IDataLabelCollection::get_LeaderLinesColor() method
 
 
 Gets the color of all leader lines in the collection. Read [System::Drawing::Color](../../../system.drawing/color/).

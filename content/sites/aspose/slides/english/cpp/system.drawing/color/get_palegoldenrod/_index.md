@@ -1,12 +1,12 @@
 ---
-title: get_PaleGoldenrod
+title: get_PaleGoldenrod()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFEEE8AA.
 type: docs
 weight: 1574
 url: /cpp/system.drawing/color/get_palegoldenrod/
 ---
-## Color::get_PaleGoldenrod method
+## Color::get_PaleGoldenrod() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFEEE8AA.

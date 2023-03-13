@@ -1,5 +1,5 @@
 ---
-title: Min_
+title: Min_()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the smallest single-precision floating point value out of the two specified.
 type: docs

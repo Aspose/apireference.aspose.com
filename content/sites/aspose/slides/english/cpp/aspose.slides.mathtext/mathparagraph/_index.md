@@ -36,7 +36,7 @@ class MathParagraph : public Aspose::Slides::MathText::IMathParagraph,
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
 | **int32_t** [get_Count](./get_count/)() override | Gets the number of elements actually contained in the collection. Read-only **int32_t**. |
-| [MathJustification](../mathjustification/) [get_Justification](./get_justification/)() override | [Paragraph](../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup. |
+| [MathJustification](../mathjustification/) [get_Justification](./get_justification/)() override | [Paragraph](../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
@@ -93,7 +93,7 @@ class MathParagraph : public Aspose::Slides::MathText::IMathParagraph,
 | **bool** [Remove](./remove/)([System::SharedPtr](../../system/sharedptr/)\<[IMathBlock](../imathblock/)\>) override | Removes the first occurrence of a specific object from the collection/>. |
 | void [RemoveAt](./removeat/)(**int32_t**) override | Removes an item at the specified index of the collection. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
-| void [set_Justification](./set_justification/)([MathJustification](../mathjustification/)) override | [Paragraph](../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup. |
+| void [set_Justification](./set_justification/)([MathJustification](../mathjustification/)) override | [Paragraph](../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
@@ -107,7 +107,7 @@ class MathParagraph : public Aspose::Slides::MathText::IMathParagraph,
 | [virtualized_iterator](./virtualized_iterator/) * [virtualizeEndIterator](./virtualizeenditerator/)() override | Gets iterator pointing right after the last element (if any) of the collection. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../../system/object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| void [WriteAsMathMl](./writeasmathml/)([System::SharedPtr](../../system/sharedptr/)\<[System::IO::Stream](../../system.io/stream/)\>) override | Saves content of this [MathParagraph](./) as MathML. |
+| void [WriteAsMathMl](./writeasmathml/)([System::SharedPtr](../../system/sharedptr/)\<[System::IO::Stream](../../system.io/stream/)\>) override | Saves content of this [MathParagraph](./) as MathML |
 | virtual  [~Object](../../system/object/~object/)() | Destroys object. Frees all internal data structures. |
 ## Typedefs
 

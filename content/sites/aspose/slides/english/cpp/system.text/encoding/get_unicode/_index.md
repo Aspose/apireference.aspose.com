@@ -1,12 +1,12 @@
 ---
-title: get_Unicode
+title: get_Unicode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the standard Unicode encoding object.
 type: docs
 weight: 417
 url: /cpp/system.text/encoding/get_unicode/
 ---
-## Encoding::get_Unicode method
+## Encoding::get_Unicode() method
 
 
 Gets the standard Unicode encoding object.

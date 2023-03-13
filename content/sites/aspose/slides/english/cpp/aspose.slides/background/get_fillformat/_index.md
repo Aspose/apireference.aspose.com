@@ -1,12 +1,12 @@
 ---
-title: get_FillFormat
+title: get_FillFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a FillFormat for BackgroundType::OwnBackground fill. Read-only IFillFormat."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/background/get_fillformat/
 ---
-## Background::get_FillFormat method
+## Background::get_FillFormat() method
 
 
 Returns a [FillFormat](../../fillformat/) for [BackgroundType::OwnBackground](../../backgroundtype/) fill. Read-only [IFillFormat](../../ifillformat/).

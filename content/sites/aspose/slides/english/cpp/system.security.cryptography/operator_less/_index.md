@@ -1,12 +1,12 @@
 ---
-title: operator<
+title: operator<()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 807
 url: /cpp/system.security.cryptography/operator_less/
 ---
-## System::Security::Cryptography::operator< function
+## System::Security::Cryptography::operator<(std::nullptr_t, const [HashAlgorithmName](../hashalgorithmname/)\&) function
 
 
 

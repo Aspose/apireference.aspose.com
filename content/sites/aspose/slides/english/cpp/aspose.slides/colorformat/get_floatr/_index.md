@@ -1,12 +1,12 @@
 ---
-title: get_FloatR
+title: get_FloatR()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the red component of a color. All color transformations are ignored. Read float.
 type: docs
 weight: 209
 url: /cpp/aspose.slides/colorformat/get_floatr/
 ---
-## ColorFormat::get_FloatR method
+## ColorFormat::get_FloatR() method
 
 
 Returns the red component of a color. All color transformations are ignored. Read **float**.

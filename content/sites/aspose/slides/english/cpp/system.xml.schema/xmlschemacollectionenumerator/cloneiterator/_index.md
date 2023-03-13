@@ -1,12 +1,12 @@
 ---
-title: CloneIterator
+title: CloneIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Clones current iterator.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemacollectionenumerator/cloneiterator/
 ---
-## XmlSchemaCollectionEnumerator::CloneIterator method
+## XmlSchemaCollectionEnumerator::CloneIterator() const method
 
 
 Clones current iterator.

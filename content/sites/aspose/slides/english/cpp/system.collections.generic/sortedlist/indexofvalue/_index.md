@@ -1,12 +1,12 @@
 ---
-title: IndexOfValue
+title: IndexOfValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Looks for specific value.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/sortedlist/indexofvalue/
 ---
-## SortedList::IndexOfValue method
+## SortedList::IndexOfValue(TValue) const method
 
 
 Looks for specific value.

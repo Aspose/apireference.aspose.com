@@ -1,12 +1,12 @@
 ---
-title: ReadLine
+title: ReadLine()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads characters from the stream until the end of the current line.
 type: docs
 weight: 66
 url: /cpp/system.io/textreader/readline/
 ---
-## TextReader::ReadLine method
+## TextReader::ReadLine() method
 
 
 Reads characters from the stream until the end of the current line.

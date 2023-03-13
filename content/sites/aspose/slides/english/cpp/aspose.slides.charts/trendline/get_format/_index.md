@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the format of the trend line. Read IFormat.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/trendline/get_format/
 ---
-## Trendline::get_Format method
+## Trendline::get_Format() method
 
 
 Represents the format of the trend line. Read [IFormat](../../iformat/).

@@ -1,12 +1,12 @@
 ---
-title: set_Matrix20
+title: set_Matrix20()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value in the 2-nd row and 0-th column.
 type: docs
 weight: 313
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix20/
 ---
-## ColorMatrix::set_Matrix20 method
+## ColorMatrix::set_Matrix20(**float**) method
 
 
 Sets a value in the 2-nd row and 0-th column.

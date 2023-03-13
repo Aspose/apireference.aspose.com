@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if item is present in collection.
 type: docs
 weight: 53
 url: /cpp/system.collections.specialized/namevaluecollection/contains/
 ---
-## NameValueCollection::Contains method
+## NameValueCollection::Contains(const [String](../../../system/string/)\&) const method
 
 
 Checks if item is present in collection.

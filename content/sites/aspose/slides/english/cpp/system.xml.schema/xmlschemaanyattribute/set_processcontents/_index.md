@@ -1,12 +1,12 @@
 ---
-title: set_ProcessContents
+title: set_ProcessContents()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets information about how an application or XML processor should handle the validation of XML documents for the attributes specified by the anyAttribute element.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaanyattribute/set_processcontents/
 ---
-## XmlSchemaAnyAttribute::set_ProcessContents method
+## XmlSchemaAnyAttribute::set_ProcessContents([XmlSchemaContentProcessing](../../xmlschemacontentprocessing/)) method
 
 
 Sets information about how an application or XML processor should handle the validation of XML documents for the attributes specified by the **anyAttribute** element.

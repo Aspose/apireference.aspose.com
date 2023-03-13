@@ -1,12 +1,12 @@
 ---
-title: FromUnixTime
+title: FromUnixTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified Unix time value to an instance of DateTime class. FOR INTERNAL USE.
 type: docs
 weight: 781
 url: /cpp/system/datetime/fromunixtime/
 ---
-## DateTime::FromUnixTime method
+## DateTime::FromUnixTime(time_t) method
 
 
 Converts the specified Unix time value to an instance of [DateTime](../) class. FOR INTERNAL USE.

@@ -1,7 +1,7 @@
 ---
 title: Rect32f
 second_title: Aspose.Slides for C++ API Reference
-description: Rectangle struct.
+description: Rectangle struct
 type: docs
 weight: 27
 url: /cpp/aspose.slides.drawing/rect32f/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.drawing/rect32f/
 ## Rect32f class
 
 
-Rectangle struct.
+Rectangle struct
 
 ```cpp
 class Rect32f : public System::Object,

@@ -1,12 +1,12 @@
 ---
-title: SHA512Managed
+title: SHA512Managed()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/sha512managed/sha512managed/
 ---
-## SHA512Managed::SHA512Managed constructor
+## SHA512Managed::SHA512Managed() constructor
 
 
 Constructor.

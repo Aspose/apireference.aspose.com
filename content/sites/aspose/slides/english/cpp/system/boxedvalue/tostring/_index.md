@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts boxed value represented by current object to string.
 type: docs
 weight: 79
 url: /cpp/system/boxedvalue/tostring/
 ---
-## BoxedValue::ToString method
+## BoxedValue::ToString() const method
 
 
 Converts boxed value represented by current object to string.

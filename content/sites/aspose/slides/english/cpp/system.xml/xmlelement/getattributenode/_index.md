@@ -1,5 +1,5 @@
 ---
-title: GetAttributeNode
+title: GetAttributeNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlAttribute with the specified name.
 type: docs

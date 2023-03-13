@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes all elements.
 type: docs
 weight: 79
 url: /cpp/system.collections/ilistimplreftype/clear/
 ---
-## IListImplRefType::Clear method
+## IListImplRefType::Clear() method
 
 
 Deletes all elements.

@@ -1,12 +1,12 @@
 ---
-title: set_NativeDigits
+title: set_NativeDigits()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets digits symbols (0 through 9).
 type: docs
 weight: 703
 url: /cpp/system.globalization/numberformatinfo/set_nativedigits/
 ---
-## NumberFormatInfo::set_NativeDigits method
+## NumberFormatInfo::set_NativeDigits(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
 
 
 Sets digits symbols (0 through 9).

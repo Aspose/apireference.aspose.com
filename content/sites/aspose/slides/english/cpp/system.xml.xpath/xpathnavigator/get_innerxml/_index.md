@@ -1,12 +1,12 @@
 ---
-title: get_InnerXml
+title: get_InnerXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the markup representing the child nodes of the current node.
 type: docs
 weight: 326
 url: /cpp/system.xml.xpath/xpathnavigator/get_innerxml/
 ---
-## XPathNavigator::get_InnerXml method
+## XPathNavigator::get_InnerXml() method
 
 
 Returns the markup representing the child nodes of the current node.

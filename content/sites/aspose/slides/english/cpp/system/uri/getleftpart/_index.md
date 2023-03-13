@@ -1,12 +1,12 @@
 ---
-title: GetLeftPart
+title: GetLeftPart()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the specified portion of the URI represented by the current object.
 type: docs
 weight: 300
 url: /cpp/system/uri/getleftpart/
 ---
-## Uri::GetLeftPart method
+## Uri::GetLeftPart([UriPartial](../../uripartial/)) method
 
 
 Returns the specified portion of the URI represented by the current object.

@@ -1,12 +1,12 @@
 ---
-title: HttpStatusDescription
+title: HttpStatusDescription()
 second_title: Aspose.Slides for C++ API Reference
 description: The deleted default constructor.
 type: docs
 weight: 14
 url: /cpp/system.net/httpstatusdescription/httpstatusdescription/
 ---
-## HttpStatusDescription::HttpStatusDescription constructor
+## HttpStatusDescription::HttpStatusDescription() constructor
 
 
 The deleted default constructor.

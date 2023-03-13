@@ -1,12 +1,12 @@
 ---
-title: get_SketchFormat
+title: get_SketchFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the sketch format of a line. Read-only ILineFillFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/lineformat/get_sketchformat/
 ---
-## LineFormat::get_SketchFormat method
+## LineFormat::get_SketchFormat() method
 
 
 Returns the sketch format of a line. Read-only [ILineFillFormat](../../ilinefillformat/).

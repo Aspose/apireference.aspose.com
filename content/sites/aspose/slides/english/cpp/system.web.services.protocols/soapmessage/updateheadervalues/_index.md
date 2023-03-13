@@ -1,12 +1,12 @@
 ---
-title: UpdateHeaderValues
+title: UpdateHeaderValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Updates the internal collection of the SOAP headers.
 type: docs
 weight: 339
 url: /cpp/system.web.services.protocols/soapmessage/updateheadervalues/
 ---
-## SoapMessage::UpdateHeaderValues method
+## SoapMessage::UpdateHeaderValues([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>, [System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<SoapHeaderMapping\>\>) method
 
 
 Updates the internal collection of the SOAP headers.

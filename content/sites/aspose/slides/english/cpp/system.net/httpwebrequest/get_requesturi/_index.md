@@ -1,12 +1,12 @@
 ---
-title: get_RequestUri
+title: get_RequestUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the request URI.
 type: docs
 weight: 274
 url: /cpp/system.net/httpwebrequest/get_requesturi/
 ---
-## HttpWebRequest::get_RequestUri method
+## HttpWebRequest::get_RequestUri() method
 
 
 Returns the request URI.

@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaSequence
+title: XmlSchemaSequence()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaSequence class.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemasequence/xmlschemasequence/
 ---
-## XmlSchemaSequence::XmlSchemaSequence constructor
+## XmlSchemaSequence::XmlSchemaSequence() constructor
 
 
 Initializes a new instance of the [XmlSchemaSequence](../) class.

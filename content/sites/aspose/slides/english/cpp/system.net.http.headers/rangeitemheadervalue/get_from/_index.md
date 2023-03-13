@@ -1,12 +1,12 @@
 ---
-title: get_From
+title: get_From()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a position at which data sending must start.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/rangeitemheadervalue/get_from/
 ---
-## RangeItemHeaderValue::get_From method
+## RangeItemHeaderValue::get_From() method
 
 
 Returns a position at which data sending must start.

@@ -1,12 +1,12 @@
 ---
-title: get_PrinterResolution
+title: get_PrinterResolution()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 53
 url: /cpp/system.drawing.printing/pagesettings/get_printerresolution/
 ---
-## PageSettings::get_PrinterResolution method
+## PageSettings::get_PrinterResolution() method
 
 
 NOT IMPLEMENTED.

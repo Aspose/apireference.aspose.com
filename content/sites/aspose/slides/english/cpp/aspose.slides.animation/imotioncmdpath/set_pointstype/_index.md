@@ -1,12 +1,12 @@
 ---
-title: set_PointsType
+title: set_PointsType()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies command points type Write MotionPathPointsType.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/imotioncmdpath/set_pointstype/
 ---
-## IMotionCmdPath::set_PointsType method
+## IMotionCmdPath::set_PointsType([MotionPathPointsType](../../motionpathpointstype/)) method
 
 
 Specifies command points type Write [MotionPathPointsType](../../motionpathpointstype/).

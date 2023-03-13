@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Erases a named mutex from the system.
 type: docs
 weight: 66
 url: /cpp/system.threading/mutex/remove/
 ---
-## Mutex::Remove method
+## Mutex::Remove(const [String](../../../system/string/)\&) method
 
 
 Erases a named mutex from the system.

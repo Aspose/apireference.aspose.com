@@ -1,12 +1,12 @@
 ---
-title: get_DataPointLevel
+title: get_DataPointLevel()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a data point level at the specified index. Applied for Treeamp and Sunburst series. Data point levels indexing is zero-based.
 type: docs
-weight: 300
+weight: 313
 url: /cpp/aspose.slides.charts/ichartdatapoint/get_datapointlevel/
 ---
-## IChartDataPoint::get_DataPointLevel method
+## IChartDataPoint::get_DataPointLevel(**int32_t**) method
 
 
 Returns a data point level at the specified index. Applied for Treeamp and Sunburst series. Data point levels indexing is zero-based.

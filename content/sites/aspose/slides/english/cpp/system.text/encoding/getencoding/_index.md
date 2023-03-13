@@ -1,5 +1,5 @@
 ---
-title: GetEncoding
+title: GetEncoding()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets encoding by name.
 type: docs

@@ -45,7 +45,7 @@ class IChartSeriesCollection : public Aspose::Slides::IGenericCollection<System:
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IChartSeries](../ichartseries/)\> [idx_get](./idx_get/)(**int32_t**) | Gets the element at the specified index. |
-| virtual **int32_t** [IndexOf](./indexof/)([System::SharedPtr](../../system/sharedptr/)\<[IChartSeries](../ichartseries/)\>) | Searches for the specified [IChartSeries](../ichartseries/) and returns the zero-based index of the first occurrence within the entire Collection. |
+| virtual **int32_t** [IndexOf](./indexof/)([System::SharedPtr](../../system/sharedptr/)\<[IChartSeries](../ichartseries/)\>) | Searches for the specified [IChartSeries](../ichartseries/) and returns the zero-based index of the first occurrence within the entire Collection |
 | virtual [System::SharedPtr](../../system/sharedptr/)\<[IChartSeries](../ichartseries/)\> [Insert](./insert/)(**int32_t**, [ChartType](../charttype/)) | Creates new chart series and inserts it into the collection. |
 | virtual **bool** [Is](../../system/object/is/)(const [TypeInfo](../../system/typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
 | **bool** [LINQ_All](../../system.collections.generic/ienumerable/linq_all/)(std::function\<**bool**(T)>) | Determines whether all elements of a sequence satisfy a condition. |
@@ -92,7 +92,7 @@ class IChartSeriesCollection : public Aspose::Slides::IGenericCollection<System:
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | virtual void [Remove](./remove/)([System::SharedPtr](../../system/sharedptr/)\<[IChartSeries](../ichartseries/)\>) | Removes the specified value. |
-| virtual void [RemoveAt](./removeat/)(**int32_t**) | Removes the element at the specified index. |
+| virtual void [RemoveAt](./removeat/)(**int32_t**) | Removes the element at the specified index |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |

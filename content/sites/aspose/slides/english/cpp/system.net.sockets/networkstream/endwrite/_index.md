@@ -1,12 +1,12 @@
 ---
-title: EndWrite
+title: EndWrite()
 second_title: Aspose.Slides for C++ API Reference
 description: Ends an asynchronous write operation. Waits until the specified asynchronous write operation completes.
 type: docs
 weight: 287
 url: /cpp/system.net.sockets/networkstream/endwrite/
 ---
-## NetworkStream::EndWrite method
+## NetworkStream::EndWrite([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
 
 
 Ends an asynchronous write operation. Waits until the specified asynchronous write operation completes.

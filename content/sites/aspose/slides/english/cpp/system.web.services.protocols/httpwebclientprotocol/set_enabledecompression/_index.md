@@ -1,12 +1,12 @@
 ---
-title: set_EnableDecompression
+title: set_EnableDecompression()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if decompression is enabled.
 type: docs
 weight: 79
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_enabledecompression/
 ---
-## HttpWebClientProtocol::set_EnableDecompression method
+## HttpWebClientProtocol::set_EnableDecompression(**bool**) method
 
 
 Sets a value that indicates if decompression is enabled.

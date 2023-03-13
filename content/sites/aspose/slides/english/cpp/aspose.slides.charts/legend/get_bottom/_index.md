@@ -1,12 +1,12 @@
 ---
-title: get_Bottom
+title: get_Bottom()
 second_title: Aspose.Slides for C++ API Reference
 description: Bottom. Read-only float.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/legend/get_bottom/
 ---
-## Legend::get_Bottom method
+## Legend::get_Bottom() method
 
 
 Bottom. Read-only **float**.

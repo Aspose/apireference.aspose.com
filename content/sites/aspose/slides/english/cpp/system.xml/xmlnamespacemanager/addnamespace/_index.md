@@ -1,12 +1,12 @@
 ---
-title: AddNamespace
+title: AddNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the given namespace to the collection.
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlnamespacemanager/addnamespace/
 ---
-## XmlNamespaceManager::AddNamespace method
+## XmlNamespaceManager::AddNamespace([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Adds the given namespace to the collection.

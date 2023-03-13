@@ -1,12 +1,12 @@
 ---
-title: get_HasValue
+title: get_HasValue()
 second_title: Aspose.Slides for C++ API Reference
 description: "When overridden in a derived class, gets a value indicating whether the current node can have a XmlReader::get_Value value."
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlreader/get_hasvalue/
 ---
-## XmlReader::get_HasValue method
+## XmlReader::get_HasValue() method
 
 
 When overridden in a derived class, gets a value indicating whether the current node can have a [XmlReader::get_Value](../get_value/) value.

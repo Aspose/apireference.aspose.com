@@ -1,12 +1,12 @@
 ---
-title: set_Height
+title: set_Height()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the height of the arrow represented by the current object.
 type: docs
 weight: 53
 url: /cpp/system.drawing.drawing2d/adjustablearrowcap/set_height/
 ---
-## AdjustableArrowCap::set_Height method
+## AdjustableArrowCap::set_Height(**float**) method
 
 
 Sets the height of the arrow represented by the current object.

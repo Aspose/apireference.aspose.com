@@ -1,15 +1,15 @@
 ---
-title: set_BaseJustification
+title: set_BaseJustification()
 second_title: Aspose.Slides for C++ API Reference
-description: "Specifies alignment of the array relative to surrounding text Text outside of the array can be aligned with the bottom, top, or center of a array object. Default value: Center."
+description: "Specifies alignment of the array relative to surrounding text Text outside of the array can be aligned with the bottom, top, or center of a array object. Default value: Center"
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/imatharray/set_basejustification/
 ---
-## IMathArray::set_BaseJustification method
+## IMathArray::set_BaseJustification([MathVerticalAlignment](../../mathverticalalignment/)) method
 
 
-Specifies alignment of the array relative to surrounding text Text outside of the array can be aligned with the bottom, top, or center of a array object. Default value: Center.
+Specifies alignment of the array relative to surrounding text Text outside of the array can be aligned with the bottom, top, or center of a array object. Default value: Center
 
 ```cpp
 virtual void Aspose::Slides::MathText::IMathArray::set_BaseJustification(MathVerticalAlignment value)=0

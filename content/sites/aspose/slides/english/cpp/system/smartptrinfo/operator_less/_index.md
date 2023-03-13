@@ -1,12 +1,12 @@
 ---
-title: operator<
+title: operator<()
 second_title: Aspose.Slides for C++ API Reference
 description: Less-compares values of pointers referenced by two info objects.
 type: docs
 weight: 53
 url: /cpp/system/smartptrinfo/operator_less/
 ---
-## SmartPtrInfo::operator< method
+## SmartPtrInfo::operator<(const [SmartPtrInfo](../)\&) const method
 
 
 Less-compares values of pointers referenced by two info objects.

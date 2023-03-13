@@ -1,12 +1,12 @@
 ---
-title: GetInstance
+title: GetInstance()
 second_title: Aspose.Slides for C++ API Reference
 description: Implementation singleton.
 type: docs
 weight: 1
 url: /cpp/system.threading/timerqueue/getinstance/
 ---
-## TimerQueue::GetInstance method
+## TimerQueue::GetInstance() method
 
 
 Implementation singleton.

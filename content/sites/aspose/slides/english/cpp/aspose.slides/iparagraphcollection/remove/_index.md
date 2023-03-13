@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of a specific paragraph.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/iparagraphcollection/remove/
 ---
-## IParagraphCollection::Remove method
+## IParagraphCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IParagraph](../../iparagraph/)\>) method
 
 
 Removes the first occurrence of a specific paragraph.

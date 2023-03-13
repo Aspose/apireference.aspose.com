@@ -1,12 +1,12 @@
 ---
-title: get_WhitespaceHandling
+title: get_WhitespaceHandling()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that specifies how white space is handled.
 type: docs
 weight: 365
 url: /cpp/system.xml/xmltextreader/get_whitespacehandling/
 ---
-## XmlTextReader::get_WhitespaceHandling method
+## XmlTextReader::get_WhitespaceHandling() method
 
 
 Returns a value that specifies how white space is handled.

@@ -1,5 +1,5 @@
 ---
-title: AreFPNaN
+title: AreFPNaN()
 second_title: Aspose.Slides for C++ API Reference
 description: namespace Details
 type: docs

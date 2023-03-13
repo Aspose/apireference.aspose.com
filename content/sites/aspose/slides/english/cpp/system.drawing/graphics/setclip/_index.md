@@ -1,5 +1,5 @@
 ---
-title: SetClip
+title: SetClip()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the clipping region of drawing surface represented by the current Graphics object to the result of the specified operation that combines the current clip region and the specified region.
 type: docs

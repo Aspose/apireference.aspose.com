@@ -1,12 +1,12 @@
 ---
-title: set_ExpectContinue
+title: set_ExpectContinue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the 'Expect' header value contains 'Continue'.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/httprequestheaders/set_expectcontinue/
 ---
-## HttpRequestHeaders::set_ExpectContinue method
+## HttpRequestHeaders::set_ExpectContinue([Nullable](../../../system/nullable/)\<**bool**\>) method
 
 
 Sets a value that indicates if the 'Expect' header value contains 'Continue'.

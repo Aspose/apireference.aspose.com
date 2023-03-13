@@ -1,12 +1,12 @@
 ---
-title: GetMinThreads
+title: GetMinThreads()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets minimal number of threads being created by pool.
 type: docs
 weight: 40
 url: /cpp/system.threading/threadpoolimpl/getminthreads/
 ---
-## ThreadPoolImpl::GetMinThreads method
+## ThreadPoolImpl::GetMinThreads(int\&, int\&) method
 
 
 Gets minimal number of threads being created by pool.

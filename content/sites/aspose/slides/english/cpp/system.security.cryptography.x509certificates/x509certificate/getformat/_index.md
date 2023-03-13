@@ -1,12 +1,12 @@
 ---
-title: GetFormat
+title: GetFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets name of the certificate format.
 type: docs
 weight: 131
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getformat/
 ---
-## X509Certificate::GetFormat method
+## X509Certificate::GetFormat() const method
 
 
 Gets name of the certificate format.

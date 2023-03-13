@@ -1,5 +1,5 @@
 ---
-title: XmlPreloadedResolver
+title: XmlPreloadedResolver()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlPreloadedResolver class.
 type: docs

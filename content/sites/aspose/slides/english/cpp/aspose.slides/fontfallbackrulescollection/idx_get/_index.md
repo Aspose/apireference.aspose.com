@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the rule at the specified index. Read-only IFontFallBackRule.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/fontfallbackrulescollection/idx_get/
 ---
-## FontFallBackRulesCollection::idx_get method
+## FontFallBackRulesCollection::idx_get(**int32_t**) method
 
 
 Gets the rule at the specified index. Read-only [IFontFallBackRule](../../ifontfallbackrule/).

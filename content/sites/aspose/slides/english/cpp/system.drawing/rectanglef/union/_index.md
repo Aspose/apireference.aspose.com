@@ -1,12 +1,12 @@
 ---
-title: Union
+title: Union()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a rectangle that is a result of union of the specified rectangles.
 type: docs
 weight: 378
 url: /cpp/system.drawing/rectanglef/union/
 ---
-## RectangleF::Union method
+## RectangleF::Union(const [RectangleF](../)\&, const [RectangleF](../)\&) method
 
 
 Returns a rectangle that is a result of union of the specified rectangles.

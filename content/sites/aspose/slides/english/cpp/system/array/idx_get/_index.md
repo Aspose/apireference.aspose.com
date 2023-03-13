@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the item at the specified index.
 type: docs
 weight: 170
 url: /cpp/system/array/idx_get/
 ---
-## Array::idx_get method
+## Array::idx_get(int) const method
 
 
 Returns the item at the specified index.

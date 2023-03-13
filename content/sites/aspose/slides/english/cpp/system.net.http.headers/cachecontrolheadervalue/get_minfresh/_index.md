@@ -1,12 +1,12 @@
 ---
-title: get_MinFresh
+title: get_MinFresh()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the value that determines the freshness lifetime.
 type: docs
 weight: 170
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/get_minfresh/
 ---
-## CacheControlHeaderValue::get_MinFresh method
+## CacheControlHeaderValue::get_MinFresh() method
 
 
 Gets the value that determines the freshness lifetime.

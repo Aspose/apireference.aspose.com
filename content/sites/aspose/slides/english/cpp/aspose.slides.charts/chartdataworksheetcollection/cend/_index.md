@@ -1,12 +1,12 @@
 ---
-title: cend
+title: cend()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing right after the last const-qualified element (if any) of the collection.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/chartdataworksheetcollection/cend/
 ---
-## ChartDataWorksheetCollection::cend method
+## ChartDataWorksheetCollection::cend() const method
 
 
 Gets iterator pointing right after the last const-qualified element (if any) of the collection.

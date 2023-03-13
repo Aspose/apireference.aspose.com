@@ -1,12 +1,12 @@
 ---
-title: AddEmptySlide
+title: AddEmptySlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new empty slide to the end of the collection.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/slidecollection/addemptyslide/
 ---
-## SlideCollection::AddEmptySlide method
+## SlideCollection::AddEmptySlide([System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
 
 
 Adds a new empty slide to the end of the collection.

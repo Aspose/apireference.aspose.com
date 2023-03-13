@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the length of the stream.
 type: docs
 weight: 144
 url: /cpp/system.io/bufferedstream/get_length/
 ---
-## BufferedStream::get_Length method
+## BufferedStream::get_Length() const method
 
 
 Returns the length of the stream.

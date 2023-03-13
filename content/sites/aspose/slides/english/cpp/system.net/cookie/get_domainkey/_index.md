@@ -1,12 +1,12 @@
 ---
-title: get_DomainKey
+title: get_DomainKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the domain key.
 type: docs
 weight: 404
 url: /cpp/system.net/cookie/get_domainkey/
 ---
-## Cookie::get_DomainKey method
+## Cookie::get_DomainKey() const method
 
 
 Returns the domain key.

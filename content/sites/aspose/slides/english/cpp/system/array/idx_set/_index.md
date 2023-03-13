@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the specified value as the item of the array at the specified index.
 type: docs
 weight: 183
 url: /cpp/system/array/idx_set/
 ---
-## Array::idx_set method
+## Array::idx_set(int, T) method
 
 
 Sets the specified value as the item of the array at the specified index.

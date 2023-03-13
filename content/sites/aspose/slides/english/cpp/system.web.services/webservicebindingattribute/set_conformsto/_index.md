@@ -1,12 +1,12 @@
 ---
-title: set_ConformsTo
+title: set_ConformsTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the WSI specification.
 type: docs
 weight: 118
 url: /cpp/system.web.services/webservicebindingattribute/set_conformsto/
 ---
-## WebServiceBindingAttribute::set_ConformsTo method
+## WebServiceBindingAttribute::set_ConformsTo([System::SharedPtr](../../../system/sharedptr/)\<WsiProfiles\>) method
 
 
 Sets the WSI specification.

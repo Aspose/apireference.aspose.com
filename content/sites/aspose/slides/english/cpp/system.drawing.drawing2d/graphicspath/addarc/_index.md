@@ -1,5 +1,5 @@
 ---
-title: AddArc
+title: AddArc()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified elliptical arc to the path represented by the current object.
 type: docs

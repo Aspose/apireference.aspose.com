@@ -1,5 +1,5 @@
 ---
-title: AddCurve
+title: AddCurve()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified curve to the path represented by the current object.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_BlockResolved
+title: get_BlockResolved()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-compilation interpretation of the Block value.
 type: docs
 weight: 365
 url: /cpp/system.xml.schema/xmlschemaelement/get_blockresolved/
 ---
-## XmlSchemaElement::get_BlockResolved method
+## XmlSchemaElement::get_BlockResolved() method
 
 
 Returns the post-compilation interpretation of the **Block** value.

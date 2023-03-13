@@ -1,12 +1,12 @@
 ---
-title: Sinh
+title: Sinh()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the hyperbolic sine of the specified value.
 type: docs
 weight: 131
 url: /cpp/system/math/sinh/
 ---
-## Math::Sinh method
+## Math::Sinh(**double**) method
 
 
 Calculates the hyperbolic sine of the specified value.

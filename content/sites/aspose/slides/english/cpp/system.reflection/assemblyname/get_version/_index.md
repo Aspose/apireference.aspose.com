@@ -1,12 +1,12 @@
 ---
-title: get_Version
+title: get_Version()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets assembly version.
 type: docs
 weight: 40
 url: /cpp/system.reflection/assemblyname/get_version/
 ---
-## AssemblyName::get_Version method
+## AssemblyName::get_Version() method
 
 
 Gets assembly version.

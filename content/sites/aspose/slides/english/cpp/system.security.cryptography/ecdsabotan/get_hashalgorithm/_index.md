@@ -1,12 +1,12 @@
 ---
-title: get_HashAlgorithm
+title: get_HashAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets hash algortihm.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/ecdsabotan/get_hashalgorithm/
 ---
-## ECDsaBotan::get_HashAlgorithm method
+## ECDsaBotan::get_HashAlgorithm() const method
 
 
 Gets hash algortihm.

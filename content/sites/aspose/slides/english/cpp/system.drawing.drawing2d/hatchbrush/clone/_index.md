@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an exact copy of the current object.
 type: docs
 weight: 14
 url: /cpp/system.drawing.drawing2d/hatchbrush/clone/
 ---
-## HatchBrush::Clone method
+## HatchBrush::Clone() method
 
 
 Creates an exact copy of the current object.

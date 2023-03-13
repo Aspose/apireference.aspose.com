@@ -1,12 +1,12 @@
 ---
-title: set_AudioCdEndTrackTime
+title: set_AudioCdEndTrackTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a last track time. Write int32_t.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/audioframe/set_audiocdendtracktime/
 ---
-## AudioFrame::set_AudioCdEndTrackTime method
+## AudioFrame::set_AudioCdEndTrackTime(**int32_t**) method
 
 
 Sets a last track time. Write **int32_t**.

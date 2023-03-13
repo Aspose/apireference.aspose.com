@@ -1,12 +1,12 @@
 ---
-title: get_AutoReverse
+title: get_AutoReverse()
 second_title: Aspose.Slides for C++ API Reference
 description: Describes whether to automatically play the animation in reverse after playing it in the forward direction. Read bool.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/itiming/get_autoreverse/
 ---
-## ITiming::get_AutoReverse method
+## ITiming::get_AutoReverse() method
 
 
 Describes whether to automatically play the animation in reverse after playing it in the forward direction. Read **bool**.

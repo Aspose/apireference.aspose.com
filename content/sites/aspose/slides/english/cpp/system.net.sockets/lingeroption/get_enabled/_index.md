@@ -1,12 +1,12 @@
 ---
-title: get_Enabled
+title: get_Enabled()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the socket will delay closing in an attempt to send all pending data.
 type: docs
 weight: 1
 url: /cpp/system.net.sockets/lingeroption/get_enabled/
 ---
-## LingerOption::get_Enabled method
+## LingerOption::get_Enabled() method
 
 
 Gets a value that indicates if the socket will delay closing in an attempt to send all pending data.

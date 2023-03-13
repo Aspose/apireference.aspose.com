@@ -1,12 +1,12 @@
 ---
-title: WriteXml
+title: WriteXml()
 second_title: Aspose.Slides for C++ API Reference
 description: Serializes the current object to XML representation.
 type: docs
 weight: 27
 url: /cpp/system.xml.serialization/ixmlserializable/writexml/
 ---
-## IXmlSerializable::WriteXml method
+## IXmlSerializable::WriteXml([System::SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlWriter](../../../system.xml/xmlwriter/)\>) method
 
 
 Serializes the current object to XML representation.

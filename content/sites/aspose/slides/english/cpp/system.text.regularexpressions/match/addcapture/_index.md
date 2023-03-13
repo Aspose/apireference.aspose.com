@@ -1,12 +1,12 @@
 ---
-title: AddCapture
+title: AddCapture()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds capture into match.
 type: docs
 weight: 79
 url: /cpp/system.text.regularexpressions/match/addcapture/
 ---
-## Match::AddCapture method
+## Match::AddCapture(const [CapturePtr](../../captureptr/)\&) method
 
 
 Adds capture into match.

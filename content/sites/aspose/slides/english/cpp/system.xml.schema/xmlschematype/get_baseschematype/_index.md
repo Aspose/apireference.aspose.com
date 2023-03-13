@@ -1,12 +1,12 @@
 ---
-title: get_BaseSchemaType
+title: get_BaseSchemaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-compilation object type or the built-in XML Schema Definition Language (XSD) data type, simpleType element, or complexType element. This is a post-schema-compilation infoset value.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschematype/get_baseschematype/
 ---
-## XmlSchemaType::get_BaseSchemaType method
+## XmlSchemaType::get_BaseSchemaType() method
 
 
 Returns the post-compilation object type or the built-in XML [Schema](../../) Definition Language (XSD) data type, simpleType element, or complexType element. This is a post-schema-compilation infoset value.

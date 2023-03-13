@@ -1,12 +1,12 @@
 ---
-title: ScaleTransform
+title: ScaleTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Scales current object's transform matrix.
 type: docs
 weight: 53
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/scaletransform/
 ---
-## LinearGradientBrush::ScaleTransform method
+## LinearGradientBrush::ScaleTransform(**float**, **float**, [MatrixOrder](../../matrixorder/)) method
 
 
 Scales current object's transform matrix.

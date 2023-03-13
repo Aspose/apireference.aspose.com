@@ -1,12 +1,12 @@
 ---
-title: ResourceLoading
+title: ResourceLoading()
 second_title: Aspose.Slides for C++ API Reference
 description: Callback method which regulates external resources loading.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/iresourceloadingcallback/resourceloading/
 ---
-## IResourceLoadingCallback::ResourceLoading method
+## IResourceLoadingCallback::ResourceLoading([System::SharedPtr](../../../system/sharedptr/)\<[IResourceLoadingArgs](../../iresourceloadingargs/)\>) method
 
 
 Callback method which regulates external resources loading.

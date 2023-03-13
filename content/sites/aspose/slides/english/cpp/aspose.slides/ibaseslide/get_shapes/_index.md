@@ -1,12 +1,12 @@
 ---
-title: get_Shapes
+title: get_Shapes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the shapes of a slide. Read-only IShapeCollection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ibaseslide/get_shapes/
 ---
-## IBaseSlide::get_Shapes method
+## IBaseSlide::get_Shapes() method
 
 
 Returns the shapes of a slide. Read-only [IShapeCollection](../../ishapecollection/).

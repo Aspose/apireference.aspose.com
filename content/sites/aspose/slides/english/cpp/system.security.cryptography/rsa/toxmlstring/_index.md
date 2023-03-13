@@ -1,12 +1,12 @@
 ---
-title: ToXmlString
+title: ToXmlString()
 second_title: Aspose.Slides for C++ API Reference
 description: Exports all parameters in XML format.
 type: docs
 weight: 118
 url: /cpp/system.security.cryptography/rsa/toxmlstring/
 ---
-## RSA::ToXmlString method
+## RSA::ToXmlString(**bool**) method
 
 
 Exports all parameters in XML format.

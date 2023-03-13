@@ -1,12 +1,12 @@
 ---
-title: get_ChartDataTable
+title: get_ChartDataTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a data table of a chart. Read-only IDataTable.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/chart/get_chartdatatable/
 ---
-## Chart::get_ChartDataTable method
+## Chart::get_ChartDataTable() method
 
 
 Returns a data table of a chart. Read-only [IDataTable](../../idatatable/).

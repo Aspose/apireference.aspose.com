@@ -1,12 +1,12 @@
 ---
-title: get_BaseStream
+title: get_BaseStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shared pointer to an object that represents the underlying stream.
 type: docs
 weight: 53
 url: /cpp/system.io/streamwriter/get_basestream/
 ---
-## StreamWriter::get_BaseStream method
+## StreamWriter::get_BaseStream() const method
 
 
 Returns a shared pointer to an object that represents the underlying stream.

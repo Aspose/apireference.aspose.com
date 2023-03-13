@@ -1,12 +1,12 @@
 ---
-title: get_ReadTimeout
+title: get_ReadTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value, in milliseconds, that determines how long the stream will attempt to read before timing out.
 type: docs
 weight: 287
 url: /cpp/system.io/stream/get_readtimeout/
 ---
-## Stream::get_ReadTimeout method
+## Stream::get_ReadTimeout() const method
 
 
 Gets a value, in milliseconds, that determines how long the stream will attempt to read before timing out.

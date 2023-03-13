@@ -1,5 +1,5 @@
 ---
-title: begin
+title: begin()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets iterator pointing to the first element (if any) of the collection. This iterator can't be used to change a referenced object because GetEnumerator() returns a copy-object of T.
 type: docs

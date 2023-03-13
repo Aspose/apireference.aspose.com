@@ -1,12 +1,12 @@
 ---
-title: InsertVideoFrame
+title: InsertVideoFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new video frame and inserts it to a collection at the specified index.
 type: docs
 weight: 222
 url: /cpp/aspose.slides/shapecollection/insertvideoframe/
 ---
-## ShapeCollection::InsertVideoFrame method
+## ShapeCollection::InsertVideoFrame(**int32_t**, **float**, **float**, **float**, **float**, [System::String](../../../system/string/)) method
 
 
 Creates a new video frame and inserts it to a collection at the specified index.

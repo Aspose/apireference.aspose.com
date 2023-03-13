@@ -1,12 +1,12 @@
 ---
-title: GetRect
+title: GetRect()
 second_title: Aspose.Slides for C++ API Reference
 description: Get coordinates of rect that bounds paragraph. The rect includes all the lines of text in paragraph, including empty ones.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/iparagraph/getrect/
 ---
-## IParagraph::GetRect method
+## IParagraph::GetRect() method
 
 
 Get coordinates of rect that bounds paragraph. The rect includes all the lines of text in paragraph, including empty ones.

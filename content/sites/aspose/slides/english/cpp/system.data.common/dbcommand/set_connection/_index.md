@@ -1,12 +1,12 @@
 ---
-title: set_Connection
+title: set_Connection()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets database connecton associated with command.
 type: docs
 weight: 40
 url: /cpp/system.data.common/dbcommand/set_connection/
 ---
-## DbCommand::set_Connection method
+## DbCommand::set_Connection([SharedPtr](../../../system/sharedptr/)\<[System::Data::Common::DbConnection](../../dbconnection/)\>) method
 
 
 Gets database connecton associated with command.

@@ -1,7 +1,7 @@
 ---
-title: MathBorderBox
+title: MathBorderBox()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates MathBorderBox element with rectangular border.
+description: Creates MathBorderBox element with rectangular border
 type: docs
 weight: 222
 url: /cpp/aspose.slides.mathtext/mathborderbox/mathborderbox/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathborderbox/mathborderbox/
 ## MathBorderBox::MathBorderBox([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
-Creates [MathBorderBox](../) element with rectangular border.
+Creates [MathBorderBox](../) element with rectangular border
 
 ```cpp
 Aspose::Slides::MathText::MathBorderBox::MathBorderBox(System::SharedPtr<IMathElement> element)
@@ -40,7 +40,7 @@ auto borderBox = System::MakeObject<MathBorderBox>(System::MakeObject<Mathematic
 ## MathBorderBox::MathBorderBox([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**, **bool**) constructor
 
 
-Creates [MathBorderBox](../) element.
+Creates [MathBorderBox](../) element
 
 ```cpp
 Aspose::Slides::MathText::MathBorderBox::MathBorderBox(System::SharedPtr<IMathElement> element, bool hideTop, bool hideBottom, bool hideLeft, bool hideRight, bool strikethroughHorizontal, bool strikethroughVertical, bool strikethroughBottomLeftToTopRight, bool strikethroughTopLeftToBottomRight)

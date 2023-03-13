@@ -1,12 +1,12 @@
 ---
-title: get_BevelType
+title: get_BevelType()
 second_title: Aspose.Slides for C++ API Reference
 description: Bevel type. Read-only BevelPresetType.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ishapebeveleffectivedata/get_beveltype/
 ---
-## IShapeBevelEffectiveData::get_BevelType method
+## IShapeBevelEffectiveData::get_BevelType() method
 
 
 Bevel type. Read-only [BevelPresetType](../../bevelpresettype/).

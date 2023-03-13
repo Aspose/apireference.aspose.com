@@ -1,12 +1,12 @@
 ---
-title: get_ErrorBarsXFormat
+title: get_ErrorBarsXFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents ErrorBars of series with derection X.
 type: docs
 weight: 222
 url: /cpp/aspose.slides.charts/chartseries/get_errorbarsxformat/
 ---
-## ChartSeries::get_ErrorBarsXFormat method
+## ChartSeries::get_ErrorBarsXFormat() method
 
 
 Represents ErrorBars of series with derection X.

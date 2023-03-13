@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the current collection is read-only.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/httpheadervaluecollection/get_isreadonly/
 ---
-## HttpHeaderValueCollection::get_IsReadOnly method
+## HttpHeaderValueCollection::get_IsReadOnly() method
 
 
 Gets a value that indicates if the current collection is read-only.

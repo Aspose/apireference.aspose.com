@@ -1,5 +1,5 @@
 ---
-title: WriteRaw
+title: WriteRaw()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes raw markup manually from a character buffer.
 type: docs

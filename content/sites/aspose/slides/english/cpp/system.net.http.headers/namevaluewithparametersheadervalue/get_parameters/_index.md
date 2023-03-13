@@ -1,12 +1,12 @@
 ---
-title: get_Parameters
+title: get_Parameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns parameters from the current instance.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/namevaluewithparametersheadervalue/get_parameters/
 ---
-## NameValueWithParametersHeaderValue::get_Parameters method
+## NameValueWithParametersHeaderValue::get_Parameters() method
 
 
 Returns parameters from the current instance.

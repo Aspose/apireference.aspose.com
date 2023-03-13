@@ -1,12 +1,12 @@
 ---
-title: get_RelatedLegendEntry
+title: get_RelatedLegendEntry()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents legend entry related with this trendline Read-only ILegendEntryProperties.
 type: docs
 weight: 261
 url: /cpp/aspose.slides.charts/trendline/get_relatedlegendentry/
 ---
-## Trendline::get_RelatedLegendEntry method
+## Trendline::get_RelatedLegendEntry() method
 
 
 Represents legend entry related with this trendline Read-only [ILegendEntryProperties](../../ilegendentryproperties/).

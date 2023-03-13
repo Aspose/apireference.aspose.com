@@ -1,12 +1,12 @@
 ---
-title: ConvertToGroupShape
+title: ConvertToGroupShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts legacy digram to editable group shape. Created GroupShape object adds to parent group shape at the same position.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/legacydiagram/converttogroupshape/
 ---
-## LegacyDiagram::ConvertToGroupShape method
+## LegacyDiagram::ConvertToGroupShape() method
 
 
 Converts legacy digram to editable group shape. Created [GroupShape](../../groupshape/) object adds to parent group shape at the same position.

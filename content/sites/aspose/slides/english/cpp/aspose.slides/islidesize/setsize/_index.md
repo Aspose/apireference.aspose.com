@@ -1,5 +1,5 @@
 ---
-title: SetSize
+title: SetSize()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the type of slide size and scales content using scale type. Assigning any value except SlideSizeType::Custom will change ISlideSize::get_Size accordingly, but will keep ISlideSize::get_Orientation intact."
 type: docs

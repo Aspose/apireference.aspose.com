@@ -1,12 +1,12 @@
 ---
-title: get_BulletFillFormat
+title: get_BulletFillFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the FillFormat object that contains fill formatting properties for a node bullet. Note: can return null for certain types of SmartArt layout which does not provide bullets for nodes. Read-only IFillFormat."
 type: docs
 weight: 79
 url: /cpp/aspose.slides.smartart/ismartartnode/get_bulletfillformat/
 ---
-## ISmartArtNode::get_BulletFillFormat method
+## ISmartArtNode::get_BulletFillFormat() method
 
 
 Returns the [FillFormat](../../../aspose.slides/fillformat/) object that contains fill formatting properties for a node bullet. Note: can return null for certain types of [SmartArt](../../smartart/) layout which does not provide bullets for nodes. Read-only [IFillFormat](../../../aspose.slides/ifillformat/).

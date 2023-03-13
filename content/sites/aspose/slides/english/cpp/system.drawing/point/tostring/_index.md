@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the pair of X and Y coordinates values represented by the current object.
 type: docs
 weight: 105
 url: /cpp/system.drawing/point/tostring/
 ---
-## Point::ToString method
+## Point::ToString() const method
 
 
 Returns the string representation of the pair of X and Y coordinates values represented by the current object.

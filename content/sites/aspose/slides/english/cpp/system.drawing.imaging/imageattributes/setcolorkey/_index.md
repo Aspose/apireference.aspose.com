@@ -1,12 +1,12 @@
 ---
-title: SetColorKey
+title: SetColorKey()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 157
 url: /cpp/system.drawing.imaging/imageattributes/setcolorkey/
 ---
-## ImageAttributes::SetColorKey method
+## ImageAttributes::SetColorKey([Color](../../../system.drawing/color/), [Color](../../../system.drawing/color/), [ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

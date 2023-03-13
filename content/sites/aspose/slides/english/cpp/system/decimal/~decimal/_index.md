@@ -1,12 +1,12 @@
 ---
-title: ~Decimal
+title: ~Decimal()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system/decimal/~decimal/
 ---
-## Decimal::~Decimal method
+## Decimal::~Decimal() method
 
 
 Destructor.

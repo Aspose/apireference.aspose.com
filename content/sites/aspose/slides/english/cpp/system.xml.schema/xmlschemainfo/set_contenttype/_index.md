@@ -1,12 +1,12 @@
 ---
-title: set_ContentType
+title: set_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlSchemaContentType object that corresponds to the content type of this validated XML node.
 type: docs
 weight: 196
 url: /cpp/system.xml.schema/xmlschemainfo/set_contenttype/
 ---
-## XmlSchemaInfo::set_ContentType method
+## XmlSchemaInfo::set_ContentType([XmlSchemaContentType](../../xmlschemacontenttype/)) method
 
 
 Sets the XmlSchemaContentType object that corresponds to the content type of this validated XML node.

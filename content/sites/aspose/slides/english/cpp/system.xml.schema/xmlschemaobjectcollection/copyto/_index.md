@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies all the XmlSchemaObjects from the collection into the given array, starting at the given index.
 type: docs
 weight: 118
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/copyto/
 ---
-## XmlSchemaObjectCollection::CopyTo method
+## XmlSchemaObjectCollection::CopyTo(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[XmlSchemaObject](../../xmlschemaobject/)\>\>\&, **int32_t**) method
 
 
 Copies all the XmlSchemaObjects from the collection into the given array, starting at the given index.

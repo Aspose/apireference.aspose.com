@@ -1,12 +1,12 @@
 ---
-title: get_ErrorCode
+title: get_ErrorCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the HRESULT of the error.
 type: docs
 weight: 1
 url: /cpp/system/details_exceptionwitherrorcode/get_errorcode/
 ---
-## Details_ExceptionWithErrorCode::get_ErrorCode method
+## Details_ExceptionWithErrorCode::get_ErrorCode() const method
 
 
 Gets the HRESULT of the error.

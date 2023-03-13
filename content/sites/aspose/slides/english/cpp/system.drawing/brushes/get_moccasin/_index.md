@@ -1,12 +1,12 @@
 ---
-title: get_Moccasin
+title: get_Moccasin()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFFE4B5.
 type: docs
 weight: 1210
 url: /cpp/system.drawing/brushes/get_moccasin/
 ---
-## Brushes::get_Moccasin method
+## Brushes::get_Moccasin() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFFE4B5.

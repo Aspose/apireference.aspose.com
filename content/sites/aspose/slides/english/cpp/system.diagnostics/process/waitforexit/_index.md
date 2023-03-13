@@ -1,5 +1,5 @@
 ---
-title: WaitForExit
+title: WaitForExit()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits for process to exit. Not implemented.
 type: docs

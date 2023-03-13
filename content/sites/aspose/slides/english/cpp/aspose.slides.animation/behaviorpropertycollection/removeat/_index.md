@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes property at the specified index.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/behaviorpropertycollection/removeat/
 ---
-## BehaviorPropertyCollection::RemoveAt method
+## BehaviorPropertyCollection::RemoveAt(**int32_t**) method
 
 
 Removes property at the specified index.

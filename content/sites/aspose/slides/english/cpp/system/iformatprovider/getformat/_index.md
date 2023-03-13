@@ -1,12 +1,12 @@
 ---
-title: GetFormat
+title: GetFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an object that provides formatting services for the specified type.
 type: docs
 weight: 1
 url: /cpp/system/iformatprovider/getformat/
 ---
-## IFormatProvider::GetFormat method
+## IFormatProvider::GetFormat(const [TypeInfo](../../typeinfo/)\&) method
 
 
 Returns an object that provides formatting services for the specified type.

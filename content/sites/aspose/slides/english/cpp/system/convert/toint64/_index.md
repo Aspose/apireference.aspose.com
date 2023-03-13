@@ -1,5 +1,5 @@
 ---
-title: ToInt64
+title: ToInt64()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified boolean value to an equivalent 64-bit signed integer.
 type: docs

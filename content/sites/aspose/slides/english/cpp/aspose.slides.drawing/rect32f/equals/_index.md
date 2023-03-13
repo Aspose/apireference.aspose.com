@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/aspose.slides.drawing/rect32f/equals/
 ---
-## Rect32f::Equals method
+## Rect32f::Equals(const [Rect32f](../)\&) method
 
 
 

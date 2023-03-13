@@ -1,12 +1,12 @@
 ---
-title: get_PeachPuff
+title: get_PeachPuff()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FFFFDAB9.
 type: docs
 weight: 1392
 url: /cpp/system.drawing/brushes/get_peachpuff/
 ---
-## Brushes::get_PeachPuff method
+## Brushes::get_PeachPuff() method
 
 
 Returns the solid fill color whose hexadecimal value is #FFFFDAB9.

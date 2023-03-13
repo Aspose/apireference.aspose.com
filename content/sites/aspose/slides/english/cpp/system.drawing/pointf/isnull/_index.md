@@ -1,12 +1,12 @@
 ---
-title: IsNull
+title: IsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Always returns false.
 type: docs
 weight: 118
 url: /cpp/system.drawing/pointf/isnull/
 ---
-## PointF::IsNull method
+## PointF::IsNull() const method
 
 
 Always returns false.

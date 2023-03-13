@@ -1,12 +1,12 @@
 ---
-title: get_NotesPosition
+title: get_NotesPosition()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the position of the notes on the page.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/notescommentslayoutingoptions/get_notesposition/
 ---
-## NotesCommentsLayoutingOptions::get_NotesPosition method
+## NotesCommentsLayoutingOptions::get_NotesPosition() method
 
 
 Gets the position of the notes on the page.

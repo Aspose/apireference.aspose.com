@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective Reflection effect data with the inheritance applied.
 type: docs
 weight: 365
 url: /cpp/aspose.slides.effects/reflection/geteffective/
 ---
-## Reflection::GetEffective method
+## Reflection::GetEffective() method
 
 
 Gets effective [Reflection](../) effect data with the inheritance applied.

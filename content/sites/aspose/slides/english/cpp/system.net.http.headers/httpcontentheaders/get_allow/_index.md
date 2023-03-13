@@ -1,12 +1,12 @@
 ---
-title: get_Allow
+title: get_Allow()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Allow' header.
 type: docs
 weight: 1
 url: /cpp/system.net.http.headers/httpcontentheaders/get_allow/
 ---
-## HttpContentHeaders::get_Allow method
+## HttpContentHeaders::get_Allow() method
 
 
 Gets a value of the 'Allow' header.

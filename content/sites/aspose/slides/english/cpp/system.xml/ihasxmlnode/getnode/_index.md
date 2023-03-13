@@ -1,12 +1,12 @@
 ---
-title: GetNode
+title: GetNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlNode for the current position.
 type: docs
 weight: 1
 url: /cpp/system.xml/ihasxmlnode/getnode/
 ---
-## IHasXmlNode::GetNode method
+## IHasXmlNode::GetNode() method
 
 
 Returns the [XmlNode](../../xmlnode/) for the current position.

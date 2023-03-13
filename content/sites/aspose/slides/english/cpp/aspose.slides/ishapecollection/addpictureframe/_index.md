@@ -1,12 +1,12 @@
 ---
-title: AddPictureFrame
+title: AddPictureFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new PictureFrame and adds it to the end of the collection.
 type: docs
 weight: 404
 url: /cpp/aspose.slides/ishapecollection/addpictureframe/
 ---
-## IShapeCollection::AddPictureFrame method
+## IShapeCollection::AddPictureFrame([ShapeType](../../shapetype/), **float**, **float**, **float**, **float**, [System::SharedPtr](../../../system/sharedptr/)\<[IPPImage](../../ippimage/)\>) method
 
 
 Creates a new [PictureFrame](../../pictureframe/) and adds it to the end of the collection.

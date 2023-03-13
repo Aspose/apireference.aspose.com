@@ -1,5 +1,5 @@
 ---
-title: DynamicCast_noexcept
+title: DynamicCast_noexcept()
 second_title: Aspose.Slides for C++ API Reference
 description: Old obsolete casts. Will be removed in future versions.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_PersistKeyInCsp
+title: get_PersistKeyInCsp()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether key is persisted in CSP object.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/get_persistkeyincsp/
 ---
-## RSACryptoServiceProvider::get_PersistKeyInCsp method
+## RSACryptoServiceProvider::get_PersistKeyInCsp() const method
 
 
 Checks whether key is persisted in CSP object.

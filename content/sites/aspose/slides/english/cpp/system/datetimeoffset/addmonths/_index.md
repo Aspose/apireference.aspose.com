@@ -1,12 +1,12 @@
 ---
-title: AddMonths
+title: AddMonths()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a specified number of months to the DateTimeOffset object.
 type: docs
 weight: 261
 url: /cpp/system/datetimeoffset/addmonths/
 ---
-## DateTimeOffset::AddMonths method
+## DateTimeOffset::AddMonths(int) const method
 
 
 Adds a specified number of months to the [DateTimeOffset](../) object.

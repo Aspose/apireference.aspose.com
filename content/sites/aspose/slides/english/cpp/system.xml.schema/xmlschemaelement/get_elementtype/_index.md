@@ -1,12 +1,12 @@
 ---
-title: get_ElementType
+title: get_ElementType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an object based on the XmlSchemaElement or XmlSchemaElement of the element, which holds the post-compilation interpretation of the ElementType value.
 type: docs
 weight: 339
 url: /cpp/system.xml.schema/xmlschemaelement/get_elementtype/
 ---
-## XmlSchemaElement::get_ElementType method
+## XmlSchemaElement::get_ElementType() method
 
 
 Returns an object based on the [XmlSchemaElement](../) or [XmlSchemaElement](../) of the element, which holds the post-compilation interpretation of the **ElementType** value.

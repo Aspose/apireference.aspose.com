@@ -1,12 +1,12 @@
 ---
-title: get_ExternalResourceResolver
+title: get_ExternalResourceResolver()
 second_title: Aspose.Slides for C++ API Reference
 description: "Return callback interface used to resolve external resources during SVG documents import. Read-only Import::IExternalResourceResolver."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/isvgimage/get_externalresourceresolver/
 ---
-## ISvgImage::get_ExternalResourceResolver method
+## ISvgImage::get_ExternalResourceResolver() method
 
 
 Return callback interface used to resolve external resources during SVG documents import. Read-only [Import::IExternalResourceResolver](../../../aspose.slides.import/iexternalresourceresolver/).

@@ -1,12 +1,12 @@
 ---
-title: GetValues
+title: GetValues()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of the header values.
 type: docs
 weight: 131
 url: /cpp/system.net/webheadercollection/getvalues/
 ---
-## WebHeaderCollection::GetValues method
+## WebHeaderCollection::GetValues([String](../../../system/string/)) method
 
 
 Returns the collection of the header values.

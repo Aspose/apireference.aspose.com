@@ -1,12 +1,12 @@
 ---
-title: get_SignatureAlgorithm
+title: get_SignatureAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets signature algorithm to use.
 type: docs
 weight: 92
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/get_signaturealgorithm/
 ---
-## DSACryptoServiceProvider::get_SignatureAlgorithm method
+## DSACryptoServiceProvider::get_SignatureAlgorithm() method
 
 
 Gets signature algorithm to use.

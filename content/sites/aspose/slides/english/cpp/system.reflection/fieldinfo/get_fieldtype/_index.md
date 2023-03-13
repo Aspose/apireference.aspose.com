@@ -1,12 +1,12 @@
 ---
-title: get_FieldType
+title: get_FieldType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets property type.
 type: docs
 weight: 40
 url: /cpp/system.reflection/fieldinfo/get_fieldtype/
 ---
-## FieldInfo::get_FieldType method
+## FieldInfo::get_FieldType() method
 
 
 Gets property type.

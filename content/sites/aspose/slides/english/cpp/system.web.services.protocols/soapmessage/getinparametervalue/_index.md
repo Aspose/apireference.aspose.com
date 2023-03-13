@@ -1,12 +1,12 @@
 ---
-title: GetInParameterValue
+title: GetInParameterValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the input parameter value at the specified index.
 type: docs
 weight: 248
 url: /cpp/system.web.services.protocols/soapmessage/getinparametervalue/
 ---
-## SoapMessage::GetInParameterValue method
+## SoapMessage::GetInParameterValue(**int32_t**) method
 
 
 Gets the input parameter value at the specified index.

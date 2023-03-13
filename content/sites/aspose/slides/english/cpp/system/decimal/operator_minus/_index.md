@@ -1,5 +1,5 @@
 ---
-title: operator-
+title: operator-()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of Decimal class that represents a value that is the result of subtraction of the value represented by the specified object from the value represented by the current object.
 type: docs

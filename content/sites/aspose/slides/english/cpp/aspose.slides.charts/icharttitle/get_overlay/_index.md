@@ -1,12 +1,12 @@
 ---
-title: get_Overlay
+title: get_Overlay()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether other chart elements shall be allowed to overlap title. Read bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/icharttitle/get_overlay/
 ---
-## IChartTitle::get_Overlay method
+## IChartTitle::get_Overlay() method
 
 
 Determines whether other chart elements shall be allowed to overlap title. Read **bool**.

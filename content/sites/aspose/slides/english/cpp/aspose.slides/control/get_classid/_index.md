@@ -1,12 +1,12 @@
 ---
-title: get_ClassId
+title: get_ClassId()
 second_title: Aspose.Slides for C++ API Reference
 description: "Gets class id of this control. Read-only System::Guid."
 type: docs
 weight: 40
 url: /cpp/aspose.slides/control/get_classid/
 ---
-## Control::get_ClassId method
+## Control::get_ClassId() method
 
 
 Gets class id of this control. Read-only [System::Guid](../../../system/guid/).

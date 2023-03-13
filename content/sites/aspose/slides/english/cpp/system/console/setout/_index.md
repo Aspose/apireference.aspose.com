@@ -1,12 +1,12 @@
 ---
-title: SetOut
+title: SetOut()
 second_title: Aspose.Slides for C++ API Reference
 description: Assigns the specified object to the class' Out property.
 type: docs
 weight: 79
 url: /cpp/system/console/setout/
 ---
-## Console::SetOut method
+## Console::SetOut(const [SharedPtr](../../sharedptr/)\<[System::IO::TextWriter](../../../system.io/textwriter/)\>\&) method
 
 
 Assigns the specified object to the class' Out property.

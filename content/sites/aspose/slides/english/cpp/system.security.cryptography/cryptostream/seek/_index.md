@@ -1,12 +1,12 @@
 ---
-title: Seek
+title: Seek()
 second_title: Aspose.Slides for C++ API Reference
 description: Seeks position in stream. Not supported.
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography/cryptostream/seek/
 ---
-## CryptoStream::Seek method
+## CryptoStream::Seek(**int64_t**, [IO::SeekOrigin](../../../system.io/seekorigin/)) method
 
 
 Seeks position in stream. Not supported.

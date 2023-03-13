@@ -1,12 +1,12 @@
 ---
-title: get_FirstChild
+title: get_FirstChild()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the first child of the node.
 type: docs
 weight: 131
 url: /cpp/system.xml/xmlnode/get_firstchild/
 ---
-## XmlNode::get_FirstChild method
+## XmlNode::get_FirstChild() method
 
 
 Returns the first child of the node.

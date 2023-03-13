@@ -1,12 +1,12 @@
 ---
-title: get_StatusCode
+title: get_StatusCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the HTTP status code.
 type: docs
 weight: 53
 url: /cpp/system.net.http/httpresponsemessage/get_statuscode/
 ---
-## HttpResponseMessage::get_StatusCode method
+## HttpResponseMessage::get_StatusCode() const method
 
 
 Gets the HTTP status code.

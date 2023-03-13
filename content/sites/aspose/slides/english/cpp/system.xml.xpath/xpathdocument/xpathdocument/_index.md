@@ -1,5 +1,5 @@
 ---
-title: XPathDocument
+title: XPathDocument()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XPathDocument class from the XML data that is contained in the specified XmlReader object.
 type: docs

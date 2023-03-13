@@ -1,12 +1,12 @@
 ---
-title: WriteIf
+title: WriteIf()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes string to debug interface if a condition is true.
 type: docs
 weight: 53
 url: /cpp/system.diagnostics/debug/writeif/
 ---
-## Debug::WriteIf method
+## Debug::WriteIf(**bool**, const [System::String](../../../system/string/)\&) method
 
 
 Writes string to debug interface if a condition is true.

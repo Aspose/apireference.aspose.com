@@ -1,12 +1,12 @@
 ---
-title: GetLastPoint
+title: GetLastPoint()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a PointF object representing the last point in the path.
 type: docs
 weight: 352
 url: /cpp/system.drawing.drawing2d/graphicspath/getlastpoint/
 ---
-## GraphicsPath::GetLastPoint method
+## GraphicsPath::GetLastPoint() const method
 
 
 Returns a [PointF](../../../system.drawing/pointf/) object representing the last point in the path.

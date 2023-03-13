@@ -1,12 +1,12 @@
 ---
-title: set_PlayAcrossSlides
+title: set_PlayAcrossSlides()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an audio is playing across the slides. Write bool.
 type: docs
 weight: 222
 url: /cpp/aspose.slides/iaudioframe/set_playacrossslides/
 ---
-## IAudioFrame::set_PlayAcrossSlides method
+## IAudioFrame::set_PlayAcrossSlides(**bool**) method
 
 
 Determines whether an audio is playing across the slides. Write **bool**.

@@ -1,12 +1,12 @@
 ---
-title: get_ReceiveBufferSize
+title: get_ReceiveBufferSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the receive buffer size.
 type: docs
 weight: 196
 url: /cpp/system.net.sockets/socket/get_receivebuffersize/
 ---
-## Socket::get_ReceiveBufferSize method
+## Socket::get_ReceiveBufferSize() method
 
 
 Gets the receive buffer size.

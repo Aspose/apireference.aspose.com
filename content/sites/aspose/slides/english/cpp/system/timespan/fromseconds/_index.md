@@ -1,12 +1,12 @@
 ---
-title: FromSeconds
+title: FromSeconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new TimeSpan object that represents the specified interval.
 type: docs
 weight: 469
 url: /cpp/system/timespan/fromseconds/
 ---
-## TimeSpan::FromSeconds method
+## TimeSpan::FromSeconds(**double**) method
 
 
 Returns a new [TimeSpan](../) object that represents the specified interval.

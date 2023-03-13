@@ -1,12 +1,12 @@
 ---
-title: get_DepthPercents
+title: get_DepthPercents()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the depth of a 3D chart as a percentage of a chart width (between 20 and 2000 percent). Read uint16_t.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/irotation3d/get_depthpercents/
 ---
-## IRotation3D::get_DepthPercents method
+## IRotation3D::get_DepthPercents() method
 
 
 Returns the depth of a 3D chart as a percentage of a chart width (between 20 and 2000 percent). Read **uint16_t**.

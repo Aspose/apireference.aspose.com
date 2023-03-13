@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaAll
+title: XmlSchemaAll()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaAll class.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaall/xmlschemaall/
 ---
-## XmlSchemaAll::XmlSchemaAll constructor
+## XmlSchemaAll::XmlSchemaAll() constructor
 
 
 Initializes a new instance of the [XmlSchemaAll](../) class.

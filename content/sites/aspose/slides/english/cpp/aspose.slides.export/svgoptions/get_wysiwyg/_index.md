@@ -1,12 +1,12 @@
 ---
-title: get_WYSIWYG
+title: get_WYSIWYG()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns settings for most accurate SVG file generation. Read-only SVGOptions.
 type: docs
 weight: 352
 url: /cpp/aspose.slides.export/svgoptions/get_wysiwyg/
 ---
-## SVGOptions::get_WYSIWYG method
+## SVGOptions::get_WYSIWYG() method
 
 
 Returns settings for most accurate SVG file generation. Read-only [SVGOptions](../).

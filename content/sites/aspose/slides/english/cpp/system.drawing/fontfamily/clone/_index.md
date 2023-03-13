@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a copy of the current FontFamily object.
 type: docs
 weight: 144
 url: /cpp/system.drawing/fontfamily/clone/
 ---
-## FontFamily::Clone method
+## FontFamily::Clone() method
 
 
 Returns a copy of the current [FontFamily](../) object.

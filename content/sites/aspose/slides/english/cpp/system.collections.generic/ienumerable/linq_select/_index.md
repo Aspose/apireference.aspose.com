@@ -1,5 +1,5 @@
 ---
-title: LINQ_Select
+title: LINQ_Select()
 second_title: Aspose.Slides for C++ API Reference
 description: Transforms elements of a sequence.
 type: docs

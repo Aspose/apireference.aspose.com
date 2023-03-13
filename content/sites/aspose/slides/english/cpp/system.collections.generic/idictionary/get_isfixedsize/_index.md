@@ -1,12 +1,12 @@
 ---
-title: get_IsFixedSize
+title: get_IsFixedSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if collection size is fixed.
 type: docs
 weight: 105
 url: /cpp/system.collections.generic/idictionary/get_isfixedsize/
 ---
-## IDictionary::get_IsFixedSize method
+## IDictionary::get_IsFixedSize() const method
 
 
 Checks if collection size is fixed.

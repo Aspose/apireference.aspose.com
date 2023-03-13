@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables dropping elements from collection.
 type: docs
 weight: 27
 url: /cpp/system.text.regularexpressions/groupcollection/clear/
 ---
-## GroupCollection::Clear method
+## GroupCollection::Clear() method
 
 
 Disables dropping elements from collection.

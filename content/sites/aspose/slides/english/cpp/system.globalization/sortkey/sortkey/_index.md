@@ -1,12 +1,12 @@
 ---
-title: SortKey
+title: SortKey()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.globalization/sortkey/sortkey/
 ---
-## SortKey::SortKey constructor
+## SortKey::SortKey(const [SortKey](../)\&) constructor
 
 
 

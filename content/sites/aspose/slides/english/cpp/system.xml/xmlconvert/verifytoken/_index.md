@@ -1,12 +1,12 @@
 ---
-title: VerifyTOKEN
+title: VerifyTOKEN()
 second_title: Aspose.Slides for C++ API Reference
 description: "Verifies that the string is a valid token according to the W3C XML Schema Part2: Datatypes recommendation."
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlconvert/verifytoken/
 ---
-## XmlConvert::VerifyTOKEN method
+## XmlConvert::VerifyTOKEN(const [String](../../../system/string/)\&) method
 
 
 Verifies that the string is a valid token according to the W3C XML [Schema](../../../system.xml.schema/) Part2: Datatypes recommendation.

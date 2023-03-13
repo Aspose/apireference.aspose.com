@@ -1,12 +1,12 @@
 ---
-title: set_ProhibitDtd
+title: set_ProhibitDtd()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether to prohibit document type definition (DTD) processing.
 type: docs
 weight: 287
 url: /cpp/system.xml/xmlreadersettings/set_prohibitdtd/
 ---
-## XmlReaderSettings::set_ProhibitDtd method
+## XmlReaderSettings::set_ProhibitDtd(**bool**) method
 
 
 Sets a value indicating whether to prohibit document type definition (DTD) processing.

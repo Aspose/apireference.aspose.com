@@ -1,12 +1,12 @@
 ---
-title: get_Dark2
+title: get_Dark2()
 second_title: Aspose.Slides for C++ API Reference
 description: Second dark color in the scheme. Read-only IColorFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.theme/colorscheme/get_dark2/
 ---
-## ColorScheme::get_Dark2 method
+## ColorScheme::get_Dark2() method
 
 
 Second dark color in the scheme. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

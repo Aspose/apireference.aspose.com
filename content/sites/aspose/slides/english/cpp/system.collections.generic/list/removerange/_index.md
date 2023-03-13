@@ -1,12 +1,12 @@
 ---
-title: RemoveRange
+title: RemoveRange()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes slice of list.
 type: docs
 weight: 495
 url: /cpp/system.collections.generic/list/removerange/
 ---
-## List::RemoveRange method
+## List::RemoveRange(int, int) method
 
 
 Removes slice of list.

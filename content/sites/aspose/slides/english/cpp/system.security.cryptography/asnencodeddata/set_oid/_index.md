@@ -1,12 +1,12 @@
 ---
-title: set_Oid
+title: set_Oid()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets object identifier of encoded data.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/asnencodeddata/set_oid/
 ---
-## AsnEncodedData::set_Oid method
+## AsnEncodedData::set_Oid(const [SharedPtr](../../../system/sharedptr/)\<[Oid](../../oid/)\>\&) method
 
 
 Sets object identifier of encoded data.

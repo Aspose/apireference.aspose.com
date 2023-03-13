@@ -1,12 +1,12 @@
 ---
-title: GetEra
+title: GetEra()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets era for the specified time point.
 type: docs
 weight: 66
 url: /cpp/system.globalization/hebrewcalendar/getera/
 ---
-## HebrewCalendar::GetEra method
+## HebrewCalendar::GetEra([DateTime](../../../system/datetime/)) const method
 
 
 Gets era for the specified time point.

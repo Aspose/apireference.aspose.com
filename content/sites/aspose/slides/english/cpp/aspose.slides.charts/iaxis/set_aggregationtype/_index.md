@@ -1,12 +1,12 @@
 ---
-title: set_AggregationType
+title: set_AggregationType()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents aggregation type of category axis (binning). Applied to category. Used with Histogram or HistogramPareto series only.
 type: docs
 weight: 1028
 url: /cpp/aspose.slides.charts/iaxis/set_aggregationtype/
 ---
-## IAxis::set_AggregationType method
+## IAxis::set_AggregationType([AxisAggregationType](../../axisaggregationtype/)) method
 
 
 Represents aggregation type of category axis (binning). Applied to category. Used with Histogram or HistogramPareto series only.

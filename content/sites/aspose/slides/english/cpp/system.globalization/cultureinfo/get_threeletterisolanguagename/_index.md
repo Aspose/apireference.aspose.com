@@ -1,12 +1,12 @@
 ---
-title: get_ThreeLetterISOLanguageName
+title: get_ThreeLetterISOLanguageName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets three-letter ISO 639-2 language code.
 type: docs
 weight: 118
 url: /cpp/system.globalization/cultureinfo/get_threeletterisolanguagename/
 ---
-## CultureInfo::get_ThreeLetterISOLanguageName method
+## CultureInfo::get_ThreeLetterISOLanguageName() const method
 
 
 Gets three-letter ISO 639-2 language code.

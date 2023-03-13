@@ -1,12 +1,12 @@
 ---
-title: GetEncoder
+title: GetEncoder()
 second_title: Aspose.Slides for C++ API Reference
 description: Get an encoder that forwards requests to this object.
 type: docs
 weight: 92
 url: /cpp/system.text/icuencoding/getencoder/
 ---
-## ICUEncoding::GetEncoder method
+## ICUEncoding::GetEncoder() method
 
 
 Get an encoder that forwards requests to this object.

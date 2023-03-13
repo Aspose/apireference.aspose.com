@@ -1,12 +1,12 @@
 ---
-title: get_Response
+title: get_Response()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the web response with which the current exception is associated.
 type: docs
 weight: 27
 url: /cpp/system.net/details_webexception/get_response/
 ---
-## Details_WebException::get_Response method
+## Details_WebException::get_Response() method
 
 
 Returns the web response with which the current exception is associated.

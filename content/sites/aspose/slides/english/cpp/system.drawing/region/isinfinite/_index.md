@@ -1,12 +1,12 @@
 ---
-title: IsInfinite
+title: IsInfinite()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines wheter the region represented by the current object has infinite interior on the specified drawing surface.
 type: docs
 weight: 183
 url: /cpp/system.drawing/region/isinfinite/
 ---
-## Region::IsInfinite method
+## Region::IsInfinite(const [SharedPtr](../../../system/sharedptr/)\<[Graphics](../../graphics/)\>\&) const method
 
 
 Determines wheter the region represented by the current object has infinite interior on the specified drawing surface.

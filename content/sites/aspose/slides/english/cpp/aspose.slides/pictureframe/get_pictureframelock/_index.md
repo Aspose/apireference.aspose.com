@@ -1,12 +1,12 @@
 ---
-title: get_PictureFrameLock
+title: get_PictureFrameLock()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns shape's locks. Read-only IPictureFrameLock.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/pictureframe/get_pictureframelock/
 ---
-## PictureFrame::get_PictureFrameLock method
+## PictureFrame::get_PictureFrameLock() method
 
 
 Returns shape's locks. Read-only [IPictureFrameLock](../../ipictureframelock/).

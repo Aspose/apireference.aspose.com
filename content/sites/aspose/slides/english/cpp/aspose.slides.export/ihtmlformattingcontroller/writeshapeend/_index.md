@@ -1,12 +1,12 @@
 ---
-title: WriteShapeEnd
+title: WriteShapeEnd()
 second_title: Aspose.Slides for C++ API Reference
 description: Called before shape's rendering. Called once per each of shape. If this function writes anything to generator, current slide image generation will be finished, added html fragment inserted and new image will be started atop of the previous.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.export/ihtmlformattingcontroller/writeshapeend/
 ---
-## IHtmlFormattingController::WriteShapeEnd method
+## IHtmlFormattingController::WriteShapeEnd([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlGenerator](../../ihtmlgenerator/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
 
 
 Called before shape's rendering. Called once per each of shape. If this function writes anything to generator, current slide image generation will be finished, added html fragment inserted and new image will be started atop of the previous.

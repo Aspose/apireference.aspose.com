@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the rectangles represented by the current and the specified objects are identical.
 type: docs
 weight: 235
 url: /cpp/system.drawing/rectangle/equals/
 ---
-## Rectangle::Equals method
+## Rectangle::Equals(const [Rectangle](../)\&) const method
 
 
 Determines if the rectangles represented by the current and the specified objects are identical.

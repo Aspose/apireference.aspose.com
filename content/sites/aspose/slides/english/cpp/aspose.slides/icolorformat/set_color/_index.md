@@ -1,12 +1,12 @@
 ---
-title: set_Color
+title: set_Color()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns resulting color (with all color transformations applied). Sets RGB colors and clears all color transformations. Write System::Drawing::Color."
 type: docs
 weight: 40
 url: /cpp/aspose.slides/icolorformat/set_color/
 ---
-## IColorFormat::set_Color method
+## IColorFormat::set_Color([System::Drawing::Color](../../../system.drawing/color/)) method
 
 
 Returns resulting color (with all color transformations applied). Sets RGB colors and clears all color transformations. Write [System::Drawing::Color](../../../system.drawing/color/).

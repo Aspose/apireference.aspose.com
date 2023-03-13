@@ -1,12 +1,12 @@
 ---
-title: CreateCustomFormatter
+title: CreateCustomFormatter()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates and returns HTML formatter for custom callback-driven html generation.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.export/htmlformatter/createcustomformatter/
 ---
-## HtmlFormatter::CreateCustomFormatter method
+## HtmlFormatter::CreateCustomFormatter([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlFormattingController](../../ihtmlformattingcontroller/)\>) method
 
 
 Creates and returns HTML formatter for custom callback-driven html generation.

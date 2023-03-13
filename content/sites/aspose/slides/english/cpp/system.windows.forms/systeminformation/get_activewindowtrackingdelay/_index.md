@@ -1,12 +1,12 @@
 ---
-title: get_ActiveWindowTrackingDelay
+title: get_ActiveWindowTrackingDelay()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 1
 url: /cpp/system.windows.forms/systeminformation/get_activewindowtrackingdelay/
 ---
-## SystemInformation::get_ActiveWindowTrackingDelay method
+## SystemInformation::get_ActiveWindowTrackingDelay() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: get_InternalString
+title: get_InternalString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the internal name of this FieldType object. Read System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides/fieldtype/get_internalstring/
 ---
-## FieldType::get_InternalString method
+## FieldType::get_InternalString() method
 
 
 Returns the internal name of this [FieldType](../) object. Read [System::String](../../../system/string/).

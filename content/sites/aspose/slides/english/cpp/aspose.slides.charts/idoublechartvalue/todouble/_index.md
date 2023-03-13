@@ -1,12 +1,12 @@
 ---
-title: ToDouble
+title: ToDouble()
 second_title: Aspose.Slides for C++ API Reference
 description: Converst to double.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/idoublechartvalue/todouble/
 ---
-## IDoubleChartValue::ToDouble method
+## IDoubleChartValue::ToDouble() method
 
 
 Converst to double.

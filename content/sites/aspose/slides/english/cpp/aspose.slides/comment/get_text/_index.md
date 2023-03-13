@@ -1,12 +1,12 @@
 ---
-title: get_Text
+title: get_Text()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the plain text of a slide comment. Read System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides/comment/get_text/
 ---
-## Comment::get_Text method
+## Comment::get_Text() method
 
 
 Returns the plain text of a slide comment. Read [System::String](../../../system/string/).

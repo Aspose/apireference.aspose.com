@@ -1,5 +1,5 @@
 ---
-title: disconnect
+title: disconnect()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified delegate from the delegate collection.
 type: docs

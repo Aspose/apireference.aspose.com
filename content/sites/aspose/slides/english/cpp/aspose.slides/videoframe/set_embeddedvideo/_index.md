@@ -1,12 +1,12 @@
 ---
-title: set_EmbeddedVideo
+title: set_EmbeddedVideo()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets embedded video object. Write IVideo.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/videoframe/set_embeddedvideo/
 ---
-## VideoFrame::set_EmbeddedVideo method
+## VideoFrame::set_EmbeddedVideo([System::SharedPtr](../../../system/sharedptr/)\<[IVideo](../../ivideo/)\>) method
 
 
 Sets embedded video object. Write [IVideo](../../ivideo/).

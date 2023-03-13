@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates key-value pair hash by xoring key's and value's hashes.
 type: docs
 weight: 79
 url: /cpp/system.collections.generic/keyvaluepair/gethashcode/
 ---
-## KeyValuePair::GetHashCode method
+## KeyValuePair::GetHashCode() const method
 
 
 Calculates key-value pair hash by xoring key's and value's hashes.

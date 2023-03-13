@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the width and height values of the specified SizeF object to the X and Y coordinates values of the specified PointF object correspondingly.
 type: docs

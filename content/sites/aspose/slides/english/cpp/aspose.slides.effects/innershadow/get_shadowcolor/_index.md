@@ -1,12 +1,12 @@
 ---
-title: get_ShadowColor
+title: get_ShadowColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Color of shadow. Read-only IColorFormat.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.effects/innershadow/get_shadowcolor/
 ---
-## InnerShadow::get_ShadowColor method
+## InnerShadow::get_ShadowColor() method
 
 
 Color of shadow. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

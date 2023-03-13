@@ -1,12 +1,12 @@
 ---
-title: X509ExtensionEnumerator
+title: X509ExtensionEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates enumerator.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.x509certificates/x509extensionenumerator/x509extensionenumerator/
 ---
-## X509ExtensionEnumerator::X509ExtensionEnumerator constructor
+## X509ExtensionEnumerator::X509ExtensionEnumerator(const [SharedPtr](../../../system/sharedptr/)\<[X509ExtensionCollection](../../x509extensioncollection/)\>\&) constructor
 
 
 Creates enumerator.

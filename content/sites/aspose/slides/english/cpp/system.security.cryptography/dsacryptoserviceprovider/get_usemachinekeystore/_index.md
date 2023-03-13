@@ -1,12 +1,12 @@
 ---
-title: get_UseMachineKeyStore
+title: get_UseMachineKeyStore()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether the key persists in machine store instead of user store.
 type: docs
 weight: 248
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/get_usemachinekeystore/
 ---
-## DSACryptoServiceProvider::get_UseMachineKeyStore method
+## DSACryptoServiceProvider::get_UseMachineKeyStore() method
 
 
 Checks whether the key persists in machine store instead of user store.

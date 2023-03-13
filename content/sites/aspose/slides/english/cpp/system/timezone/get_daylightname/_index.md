@@ -1,12 +1,12 @@
 ---
-title: get_DaylightName
+title: get_DaylightName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a name for the daylight saving time of the time zone represented by the current object.
 type: docs
 weight: 1
 url: /cpp/system/timezone/get_daylightname/
 ---
-## TimeZone::get_DaylightName method
+## TimeZone::get_DaylightName() const method
 
 
 Returns a name for the daylight saving time of the time zone represented by the current object.

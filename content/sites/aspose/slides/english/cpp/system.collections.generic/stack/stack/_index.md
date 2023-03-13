@@ -1,5 +1,5 @@
 ---
-title: Stack
+title: Stack()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs empty stack.
 type: docs

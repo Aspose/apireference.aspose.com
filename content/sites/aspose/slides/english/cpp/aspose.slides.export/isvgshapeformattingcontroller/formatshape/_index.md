@@ -1,12 +1,12 @@
 ---
-title: FormatShape
+title: FormatShape()
 second_title: Aspose.Slides for C++ API Reference
 description: This function is called before rendering of shape to SVG to allow user to control resulting SVG.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/isvgshapeformattingcontroller/formatshape/
 ---
-## ISvgShapeFormattingController::FormatShape method
+## ISvgShapeFormattingController::FormatShape([System::SharedPtr](../../../system/sharedptr/)\<[ISvgShape](../../isvgshape/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
 
 
 This function is called before rendering of shape to SVG to allow user to control resulting SVG.

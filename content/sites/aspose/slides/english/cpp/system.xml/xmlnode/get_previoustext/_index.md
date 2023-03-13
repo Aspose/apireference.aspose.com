@@ -1,12 +1,12 @@
 ---
-title: get_PreviousText
+title: get_PreviousText()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text node that immediately precedes this node.
 type: docs
 weight: 326
 url: /cpp/system.xml/xmlnode/get_previoustext/
 ---
-## XmlNode::get_PreviousText method
+## XmlNode::get_PreviousText() method
 
 
 Returns the text node that immediately precedes this node.

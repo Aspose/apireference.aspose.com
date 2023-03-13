@@ -1,12 +1,12 @@
 ---
-title: GetDayOfWeek
+title: GetDayOfWeek()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets day of week for the specified time point.
 type: docs
 weight: 92
 url: /cpp/system.globalization/hijricalendar/getdayofweek/
 ---
-## HijriCalendar::GetDayOfWeek method
+## HijriCalendar::GetDayOfWeek([DateTime](../../../system/datetime/)) const method
 
 
 Gets day of week for the specified time point.

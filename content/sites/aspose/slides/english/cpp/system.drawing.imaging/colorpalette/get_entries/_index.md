@@ -1,12 +1,12 @@
 ---
-title: get_Entries
+title: get_Entries()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array of Color objects represented by the current object.
 type: docs
 weight: 14
 url: /cpp/system.drawing.imaging/colorpalette/get_entries/
 ---
-## ColorPalette::get_Entries method
+## ColorPalette::get_Entries() const method
 
 
 Returns an array of [Color](../../../system.drawing/color/) objects represented by the current object.

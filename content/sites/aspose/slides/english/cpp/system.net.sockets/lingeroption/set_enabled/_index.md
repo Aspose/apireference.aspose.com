@@ -1,12 +1,12 @@
 ---
-title: set_Enabled
+title: set_Enabled()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the socket will delay closing in an attempt to send all pending data.
 type: docs
 weight: 14
 url: /cpp/system.net.sockets/lingeroption/set_enabled/
 ---
-## LingerOption::set_Enabled method
+## LingerOption::set_Enabled(**bool**) method
 
 
 Sets a value that indicates if the socket will delay closing in an attempt to send all pending data.

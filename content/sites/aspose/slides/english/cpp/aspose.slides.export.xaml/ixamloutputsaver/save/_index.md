@@ -1,12 +1,12 @@
 ---
-title: Save
+title: Save()
 second_title: Aspose.Slides for C++ API Reference
 description: Saves a bytes array to a destination location.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export.xaml/ixamloutputsaver/save/
 ---
-## IXamlOutputSaver::Save method
+## IXamlOutputSaver::Save([System::String](../../../system/string/), [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 Saves a bytes array to a destination location.

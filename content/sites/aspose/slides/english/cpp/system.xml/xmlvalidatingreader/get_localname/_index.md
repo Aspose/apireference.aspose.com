@@ -1,12 +1,12 @@
 ---
-title: get_LocalName
+title: get_LocalName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the local name of the current node.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlvalidatingreader/get_localname/
 ---
-## XmlValidatingReader::get_LocalName method
+## XmlValidatingReader::get_LocalName() method
 
 
 Returns the local name of the current node.

@@ -1,5 +1,5 @@
 ---
-title: MathParagraph
+title: MathParagraph()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathParagraph class.
 type: docs

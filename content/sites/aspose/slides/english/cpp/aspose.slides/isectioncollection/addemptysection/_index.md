@@ -1,12 +1,12 @@
 ---
-title: AddEmptySection
+title: AddEmptySection()
 second_title: Aspose.Slides for C++ API Reference
 description: Add empty section to specified position of the collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/isectioncollection/addemptysection/
 ---
-## ISectionCollection::AddEmptySection method
+## ISectionCollection::AddEmptySection([System::String](../../../system/string/), **int32_t**) method
 
 
 Add empty section to specified position of the collection.

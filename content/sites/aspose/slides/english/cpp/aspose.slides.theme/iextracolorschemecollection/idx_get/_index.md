@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an color scheme by index. Read-only IExtraColorScheme.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/iextracolorschemecollection/idx_get/
 ---
-## IExtraColorSchemeCollection::idx_get method
+## IExtraColorSchemeCollection::idx_get(**int32_t**) method
 
 
 Returns an color scheme by index. Read-only [IExtraColorScheme](../../iextracolorscheme/).

@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of shadow. Write float.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/ipresetshadow/set_direction/
 ---
-## IPresetShadow::set_Direction method
+## IPresetShadow::set_Direction(**float**) method
 
 
 Direction of shadow. Write **float**.

@@ -1,12 +1,12 @@
 ---
-title: set_TempFilesRootPath
+title: set_TempFilesRootPath()
 second_title: Aspose.Slides for C++ API Reference
 description: The root path where temporary files will be created. System temorary directory will be used by default. Hosting process should have permissions to create files and folders there.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/iblobmanagementoptions/set_tempfilesrootpath/
 ---
-## IBlobManagementOptions::set_TempFilesRootPath method
+## IBlobManagementOptions::set_TempFilesRootPath([System::String](../../../system/string/)) method
 
 
 The root path where temporary files will be created. [System](../../../system/) temorary directory will be used by default. Hosting process should have permissions to create files and folders there.

@@ -1,12 +1,12 @@
 ---
-title: Flush
+title: Flush()
 second_title: Aspose.Slides for C++ API Reference
 description: Clears this stream's buffers and writes all buffered data to the underlying storage.
 type: docs
 weight: 105
 url: /cpp/system.io/basicstdiostreamwrapper/flush/
 ---
-## BasicSTDIOStreamWrapper::Flush method
+## BasicSTDIOStreamWrapper::Flush() method
 
 
 Clears this stream's buffers and writes all buffered data to the underlying storage.

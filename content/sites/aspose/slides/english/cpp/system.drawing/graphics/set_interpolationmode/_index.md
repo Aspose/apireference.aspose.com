@@ -1,12 +1,12 @@
 ---
-title: set_InterpolationMode
+title: set_InterpolationMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates the interpolation mode associated with the current object.
 type: docs
 weight: 105
 url: /cpp/system.drawing/graphics/set_interpolationmode/
 ---
-## Graphics::set_InterpolationMode method
+## Graphics::set_InterpolationMode([Drawing2D::InterpolationMode](../../../system.drawing.drawing2d/interpolationmode/)) method
 
 
 Sets a value that indicates the interpolation mode associated with the current object.

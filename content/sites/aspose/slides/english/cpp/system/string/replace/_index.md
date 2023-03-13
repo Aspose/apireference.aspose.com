@@ -1,5 +1,5 @@
 ---
-title: Replace
+title: Replace()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces all occurrences of character in the string.
 type: docs

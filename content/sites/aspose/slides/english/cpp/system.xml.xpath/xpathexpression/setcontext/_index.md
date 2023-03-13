@@ -1,5 +1,5 @@
 ---
-title: SetContext
+title: SetContext()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, specifies the XmlNamespaceManager object to use for namespace resolution.
 type: docs

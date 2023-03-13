@@ -1,12 +1,12 @@
 ---
-title: AddDuotoneEffect
+title: AddDuotoneEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Duotone effect to the end of a collection.
 type: docs
 weight: 196
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addduotoneeffect/
 ---
-## ImageTransformOperationCollection::AddDuotoneEffect method
+## ImageTransformOperationCollection::AddDuotoneEffect() method
 
 
 Adds the new [Duotone](../../duotone/) effect to the end of a collection.

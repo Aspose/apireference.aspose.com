@@ -1,12 +1,12 @@
 ---
-title: AddNode
+title: AddNode()
 second_title: Aspose.Slides for C++ API Reference
 description: Add new node or sub node.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.smartart/ismartartnodecollection/addnode/
 ---
-## ISmartArtNodeCollection::AddNode method
+## ISmartArtNodeCollection::AddNode() method
 
 
 Add new node or sub node.

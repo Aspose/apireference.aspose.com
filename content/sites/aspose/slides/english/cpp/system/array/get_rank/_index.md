@@ -1,12 +1,12 @@
 ---
-title: get_Rank
+title: get_Rank()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 300
 url: /cpp/system/array/get_rank/
 ---
-## Array::get_Rank method
+## Array::get_Rank() const method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: GetCellDescent
+title: GetCellDescent()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the cell descent of the font family represented by the current object for the specified font style.
 type: docs
 weight: 66
 url: /cpp/system.drawing/fontfamily/getcelldescent/
 ---
-## FontFamily::GetCellDescent method
+## FontFamily::GetCellDescent([FontStyle](../../fontstyle/)) method
 
 
 Returns the cell descent of the font family represented by the current object for the specified font style.

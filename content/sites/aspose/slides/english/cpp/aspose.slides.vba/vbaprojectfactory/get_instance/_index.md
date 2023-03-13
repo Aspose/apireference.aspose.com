@@ -1,12 +1,12 @@
 ---
-title: get_Instance
+title: get_Instance()
 second_title: Aspose.Slides for C++ API Reference
 description: VBA project factory static instance. Read-only VbaProjectFactory.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.vba/vbaprojectfactory/get_instance/
 ---
-## VbaProjectFactory::get_Instance method
+## VbaProjectFactory::get_Instance() method
 
 
 VBA project factory static instance. Read-only [VbaProjectFactory](../).

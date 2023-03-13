@@ -1,12 +1,12 @@
 ---
-title: set_ClientCertificates
+title: set_ClientCertificates()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the collection of the certificates that are associated with the current request.
 type: docs
 weight: 612
 url: /cpp/system.net/httpwebrequest/set_clientcertificates/
 ---
-## HttpWebRequest::set_ClientCertificates method
+## HttpWebRequest::set_ClientCertificates([System::SharedPtr](../../../system/sharedptr/)\<[System::Security::Cryptography::X509Certificates::X509CertificateCollection](../../../system.security.cryptography.x509certificates/x509certificatecollection/)\>) method
 
 
 Sets the collection of the certificates that are associated with the current request.

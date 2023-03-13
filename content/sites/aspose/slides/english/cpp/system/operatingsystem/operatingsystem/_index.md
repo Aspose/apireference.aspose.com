@@ -1,5 +1,5 @@
 ---
-title: OperatingSystem
+title: OperatingSystem()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance that represents an operating system specified as particular platform id and version.
 type: docs

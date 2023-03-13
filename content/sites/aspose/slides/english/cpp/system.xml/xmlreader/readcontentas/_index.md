@@ -1,12 +1,12 @@
 ---
-title: ReadContentAs
+title: ReadContentAs()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the content as an object of the type specified.
 type: docs
 weight: 456
 url: /cpp/system.xml/xmlreader/readcontentas/
 ---
-## XmlReader::ReadContentAs method
+## XmlReader::ReadContentAs(const [TypeInfo](../../../system/typeinfo/)\&, [SharedPtr](../../../system/sharedptr/)\<[IXmlNamespaceResolver](../../ixmlnamespaceresolver/)\>) method
 
 
 Reads the content as an object of the type specified.

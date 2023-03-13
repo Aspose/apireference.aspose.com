@@ -1,12 +1,12 @@
 ---
-title: get_ContentLocation
+title: get_ContentLocation()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-Location' header.
 type: docs
 weight: 92
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contentlocation/
 ---
-## HttpContentHeaders::get_ContentLocation method
+## HttpContentHeaders::get_ContentLocation() method
 
 
 Gets a value of the 'Content-Location' header.

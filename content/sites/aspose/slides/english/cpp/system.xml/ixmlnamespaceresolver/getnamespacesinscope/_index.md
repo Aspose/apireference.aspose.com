@@ -1,12 +1,12 @@
 ---
-title: GetNamespacesInScope
+title: GetNamespacesInScope()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of defined prefix-namespace mappings that are currently in scope.
 type: docs
 weight: 1
 url: /cpp/system.xml/ixmlnamespaceresolver/getnamespacesinscope/
 ---
-## IXmlNamespaceResolver::GetNamespacesInScope method
+## IXmlNamespaceResolver::GetNamespacesInScope([XmlNamespaceScope](../../xmlnamespacescope/)) method
 
 
 Returns a collection of defined prefix-namespace mappings that are currently in scope.

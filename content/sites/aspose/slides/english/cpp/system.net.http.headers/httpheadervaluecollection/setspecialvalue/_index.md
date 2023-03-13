@@ -1,12 +1,12 @@
 ---
-title: SetSpecialValue
+title: SetSpecialValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a \"special value\".
 type: docs
 weight: 183
 url: /cpp/system.net.http.headers/httpheadervaluecollection/setspecialvalue/
 ---
-## HttpHeaderValueCollection::SetSpecialValue method
+## HttpHeaderValueCollection::SetSpecialValue() method
 
 
 Sets a \"special value\".

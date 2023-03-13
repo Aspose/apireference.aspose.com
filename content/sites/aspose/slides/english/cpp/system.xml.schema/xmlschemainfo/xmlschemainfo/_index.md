@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaInfo
+title: XmlSchemaInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaInfo class.
 type: docs
 weight: 209
 url: /cpp/system.xml.schema/xmlschemainfo/xmlschemainfo/
 ---
-## XmlSchemaInfo::XmlSchemaInfo constructor
+## XmlSchemaInfo::XmlSchemaInfo() constructor
 
 
 Initializes a new instance of the [XmlSchemaInfo](../) class.

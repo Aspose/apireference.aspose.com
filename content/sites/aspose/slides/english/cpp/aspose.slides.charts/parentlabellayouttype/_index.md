@@ -19,9 +19,9 @@ enum class ParentLabelLayoutType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Banner | 0 | Specifies that parent category labels are shown as banner. |
-| None | 1 | Specifies that parent category labels are not drawn. |
-| Overlapping | 2 | Specifies that parent category labels are shown as overlapping. |
+| Banner | 0 | Specifies that parent category labels are shown as banner |
+| None | 1 | Specifies that parent category labels are not drawn |
+| Overlapping | 2 | Specifies that parent category labels are shown as overlapping |
 
 ## See Also
 

@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the the current and specified objects are equal.
 type: docs
 weight: 1
 url: /cpp/system/iequatable/equals/
 ---
-## IEquatable::Equals method
+## IEquatable::Equals(T) method
 
 
 Determines if the the current and specified objects are equal.

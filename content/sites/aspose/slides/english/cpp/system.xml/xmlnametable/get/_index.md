@@ -1,5 +1,5 @@
 ---
-title: Get
+title: Get()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the atomized string containing the same characters as the specified range of characters in the given array.
 type: docs

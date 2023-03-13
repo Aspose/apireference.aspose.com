@@ -1,12 +1,12 @@
 ---
-title: get_TypedValue
+title: get_TypedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current node as a boxed object of the most appropriate type.
 type: docs
 weight: 27
 url: /cpp/system.xml.xpath/xpathnavigator/get_typedvalue/
 ---
-## XPathNavigator::get_TypedValue method
+## XPathNavigator::get_TypedValue() method
 
 
 Returns the current node as a boxed object of the most appropriate type.

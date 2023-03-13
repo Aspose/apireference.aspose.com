@@ -1,15 +1,15 @@
 ---
-title: get_ExtrusionRotationCenterX
+title: get_ExtrusionRotationCenterX()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'extrusion.rotationcenter.x' property.
+description: Represents 'extrusion.rotationcenter.x' property
 type: docs
 weight: 1574
 url: /cpp/aspose.slides.animation/behaviorproperty/get_extrusionrotationcenterx/
 ---
-## BehaviorProperty::get_ExtrusionRotationCenterX method
+## BehaviorProperty::get_ExtrusionRotationCenterX() method
 
 
-Represents 'extrusion.rotationcenter.x' property.
+Represents 'extrusion.rotationcenter.x' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ExtrusionRotationCenterX()

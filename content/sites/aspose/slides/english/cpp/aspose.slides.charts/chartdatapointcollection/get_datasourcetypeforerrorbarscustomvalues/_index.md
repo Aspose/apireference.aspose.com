@@ -1,12 +1,12 @@
 ---
-title: get_DataSourceTypeForErrorBarsCustomValues
+title: get_DataSourceTypeForErrorBarsCustomValues()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies types of values in ChartDataPoint::get_ErrorBarsCustomValues properties list. Read-only IDataSourceTypeForErrorBarsCustomValues."
 type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/chartdatapointcollection/get_datasourcetypeforerrorbarscustomvalues/
 ---
-## ChartDataPointCollection::get_DataSourceTypeForErrorBarsCustomValues method
+## ChartDataPointCollection::get_DataSourceTypeForErrorBarsCustomValues() method
 
 
 Specifies types of values in [ChartDataPoint::get_ErrorBarsCustomValues](../../chartdatapoint/get_errorbarscustomvalues/) properties list. Read-only [IDataSourceTypeForErrorBarsCustomValues](../../idatasourcetypeforerrorbarscustomvalues/).

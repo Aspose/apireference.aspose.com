@@ -1,12 +1,12 @@
 ---
-title: set_FontBold
+title: set_FontBold()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the font is bold. No inheritance applied. Write NullableBool.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/ibaseportionformat/set_fontbold/
 ---
-## IBasePortionFormat::set_FontBold method
+## IBasePortionFormat::set_FontBold([NullableBool](../../nullablebool/)) method
 
 
 Determines whether the font is bold. No inheritance applied. Write [NullableBool](../../nullablebool/).

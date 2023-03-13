@@ -1,12 +1,12 @@
 ---
-title: WriteInt64
+title: WriteInt64()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes long to memory.
 type: docs
 weight: 53
 url: /cpp/system.runtime.interopservices/marshal/writeint64/
 ---
-## Marshal::WriteInt64 method
+## Marshal::WriteInt64(IntPtr, int, **int64_t**) method
 
 
 Writes long to memory.

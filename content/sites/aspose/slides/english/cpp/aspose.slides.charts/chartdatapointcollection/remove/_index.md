@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified value.
 type: docs
 weight: 443
 url: /cpp/aspose.slides.charts/chartdatapointcollection/remove/
 ---
-## ChartDataPointCollection::Remove method
+## ChartDataPointCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataPoint](../../ichartdatapoint/)\>) method
 
 
 Removes the specified value.

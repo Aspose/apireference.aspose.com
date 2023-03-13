@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets string's hash code.
 type: docs
 weight: 118
 url: /cpp/system/stringcomparer/gethashcode/
 ---
-## StringComparer::GetHashCode method
+## StringComparer::GetHashCode([String](../../string/)) const method
 
 
 Gets string's hash code.

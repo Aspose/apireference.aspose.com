@@ -1,12 +1,12 @@
 ---
-title: get_ConnectionString
+title: get_ConnectionString()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data.common/dbconnection/get_connectionstring/
 ---
-## DbConnection::get_ConnectionString method
+## DbConnection::get_ConnectionString() const method
 
 
 RTTI information.

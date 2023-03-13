@@ -1,12 +1,12 @@
 ---
-title: get_BorderDiagonalUp
+title: get_BorderDiagonalUp()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a bottom-left to top-right diagonal line properties object. Read-only ILineFormat.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/icellformat/get_borderdiagonalup/
 ---
-## ICellFormat::get_BorderDiagonalUp method
+## ICellFormat::get_BorderDiagonalUp() method
 
 
 Returns a bottom-left to top-right diagonal line properties object. Read-only [ILineFormat](../../ilineformat/).

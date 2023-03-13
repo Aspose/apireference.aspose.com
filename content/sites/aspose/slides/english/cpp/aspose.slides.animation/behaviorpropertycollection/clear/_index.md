@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all properties from the collection.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/behaviorpropertycollection/clear/
 ---
-## BehaviorPropertyCollection::Clear method
+## BehaviorPropertyCollection::Clear() method
 
 
 Removes all properties from the collection.

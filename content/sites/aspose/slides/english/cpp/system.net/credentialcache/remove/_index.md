@@ -1,5 +1,5 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes network credentials for the specified URI prefix and authentication type.
 type: docs

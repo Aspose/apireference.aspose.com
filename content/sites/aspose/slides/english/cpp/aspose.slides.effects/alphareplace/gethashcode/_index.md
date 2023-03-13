@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Serves as a hash function for a particular type.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/alphareplace/gethashcode/
 ---
-## AlphaReplace::GetHashCode method
+## AlphaReplace::GetHashCode() const method
 
 
 Serves as a hash function for a particular type.

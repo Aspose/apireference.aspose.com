@@ -1,12 +1,12 @@
 ---
-title: set_SvgResponsiveLayout
+title: set_SvgResponsiveLayout()
 second_title: Aspose.Slides for C++ API Reference
 description: True to exclude width and height attributes from SVG container - that will make layout responsive. False - otherwise. Write bool.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.export/ihtmloptions/set_svgresponsivelayout/
 ---
-## IHtmlOptions::set_SvgResponsiveLayout method
+## IHtmlOptions::set_SvgResponsiveLayout(**bool**) method
 
 
 True to exclude width and height attributes from SVG container - that will make layout responsive. False - otherwise. Write **bool**.

@@ -1,12 +1,12 @@
 ---
-title: get_Format
+title: get_Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line, fill, and effect styles of an object. Read-only IFormat.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/idatatable/get_format/
 ---
-## IDataTable::get_Format method
+## IDataTable::get_Format() method
 
 
 Returns the line, fill, and effect styles of an object. Read-only [IFormat](../../iformat/).

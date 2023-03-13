@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all behaviors from a collection.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/ibehaviorcollection/clear/
 ---
-## IBehaviorCollection::Clear method
+## IBehaviorCollection::Clear() method
 
 
 Removes all behaviors from a collection.

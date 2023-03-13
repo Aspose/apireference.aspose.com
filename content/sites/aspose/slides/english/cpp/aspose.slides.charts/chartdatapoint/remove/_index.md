@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes DataPoint from chart series.
 type: docs
-weight: 326
+weight: 339
 url: /cpp/aspose.slides.charts/chartdatapoint/remove/
 ---
-## ChartDataPoint::Remove method
+## ChartDataPoint::Remove() method
 
 
 Removes DataPoint from chart series.

@@ -1,12 +1,12 @@
 ---
-title: set_ShowLegendKey
+title: set_ShowLegendKey()
 second_title: Aspose.Slides for C++ API Reference
 description: True if the data label legend key is visible. Write bool.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/datatable/set_showlegendkey/
 ---
-## DataTable::set_ShowLegendKey method
+## DataTable::set_ShowLegendKey(**bool**) method
 
 
 True if the data label legend key is visible. Write **bool**.

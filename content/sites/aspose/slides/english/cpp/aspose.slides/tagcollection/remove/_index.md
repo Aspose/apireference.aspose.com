@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the tag with a specified name from the collection.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/tagcollection/remove/
 ---
-## TagCollection::Remove method
+## TagCollection::Remove([System::String](../../../system/string/)) method
 
 
 Removes the tag with a specified name from the collection.

@@ -1,5 +1,5 @@
 ---
-title: ToUInt32
+title: ToUInt32()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts four bytes from the specified array starting at the specified index to unsigned 32-bit integer value.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new tag to collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/tagcollection/add/
 ---
-## TagCollection::Add method
+## TagCollection::Add([System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
 Adds a new tag to collection.

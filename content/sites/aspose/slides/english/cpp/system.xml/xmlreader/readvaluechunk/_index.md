@@ -1,12 +1,12 @@
 ---
-title: ReadValueChunk
+title: ReadValueChunk()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads large streams of text embedded in an XML document.
 type: docs
 weight: 807
 url: /cpp/system.xml/xmlreader/readvaluechunk/
 ---
-## XmlReader::ReadValueChunk method
+## XmlReader::ReadValueChunk([ArrayPtr](../../../system/arrayptr/)\<char16_t\>, **int32_t**, **int32_t**) method
 
 
 Reads large streams of text embedded in an XML document.

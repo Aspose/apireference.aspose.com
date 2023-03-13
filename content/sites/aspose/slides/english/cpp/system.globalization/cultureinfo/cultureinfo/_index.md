@@ -1,5 +1,5 @@
 ---
-title: CultureInfo
+title: CultureInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: ValueAs
+title: ValueAs()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current node's value as the Type specified, using the IXmlNamespaceResolver object specified to resolve namespace prefixes.
 type: docs
 weight: 378
 url: /cpp/system.xml.xpath/xpathnavigator/valueas/
 ---
-## XPathNavigator::ValueAs method
+## XPathNavigator::ValueAs(const [TypeInfo](../../../system/typeinfo/)\&, [SharedPtr](../../../system/sharedptr/)\<[IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)\>) method
 
 
 Returns the current node's value as the Type specified, using the [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/) object specified to resolve namespace prefixes.

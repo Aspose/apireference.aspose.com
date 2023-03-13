@@ -1,12 +1,12 @@
 ---
-title: get_TextFrame
+title: get_TextFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns text of the node. Read-only ITextFrame.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.smartart/smartartnode/get_textframe/
 ---
-## SmartArtNode::get_TextFrame method
+## SmartArtNode::get_TextFrame() method
 
 
 Returns text of the node. Read-only [ITextFrame](../../../aspose.slides/itextframe/).

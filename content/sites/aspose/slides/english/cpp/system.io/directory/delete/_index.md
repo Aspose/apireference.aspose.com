@@ -1,12 +1,12 @@
 ---
-title: Delete
+title: Delete()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified file or directory. Does not throw.
 type: docs
 weight: 14
 url: /cpp/system.io/directory/delete/
 ---
-## Directory::Delete method
+## Directory::Delete(const [String](../../../system/string/)\&, **bool**) method
 
 
 Removes the specified file or directory. Does not throw.

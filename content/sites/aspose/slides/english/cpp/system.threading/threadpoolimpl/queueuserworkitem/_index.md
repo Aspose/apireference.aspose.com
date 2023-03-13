@@ -1,12 +1,12 @@
 ---
-title: QueueUserWorkItem
+title: QueueUserWorkItem()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds work item to queue.
 type: docs
 weight: 1
 url: /cpp/system.threading/threadpoolimpl/queueuserworkitem/
 ---
-## ThreadPoolImpl::QueueUserWorkItem method
+## ThreadPoolImpl::QueueUserWorkItem([WaitCallback](../../waitcallback/), const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&) method
 
 
 Adds work item to queue.

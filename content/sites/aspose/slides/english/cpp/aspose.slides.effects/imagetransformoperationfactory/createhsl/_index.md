@@ -1,12 +1,12 @@
 ---
-title: CreateHSL
+title: CreateHSL()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Hue Saturation Luminance effect.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createhsl/
 ---
-## ImageTransformOperationFactory::CreateHSL method
+## ImageTransformOperationFactory::CreateHSL(**float**, **float**, **float**) method
 
 
 Creates Hue Saturation [Luminance](../../luminance/) effect.

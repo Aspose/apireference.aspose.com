@@ -1,12 +1,12 @@
 ---
-title: AddSeconds
+title: AddSeconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds seconds to time point.
 type: docs
 weight: 144
 url: /cpp/system.globalization/calendar/addseconds/
 ---
-## Calendar::AddSeconds method
+## Calendar::AddSeconds([DateTime](../../../system/datetime/), int) const method
 
 
 Adds seconds to time point.

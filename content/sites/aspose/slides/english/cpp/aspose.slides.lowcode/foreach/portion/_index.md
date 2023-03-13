@@ -1,12 +1,12 @@
 ---
-title: Portion
+title: Portion()
 second_title: Aspose.Slides for C++ API Reference
 description: "Iterate each ForEach::Portion in the Presentation."
 type: docs
 weight: 66
 url: /cpp/aspose.slides.lowcode/foreach/portion/
 ---
-## ForEach::Portion method
+## ForEach::Portion([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>, [ForEach::ForEachPortionCallback](../foreachportioncallback/)) method
 
 
 Iterate each [ForEach::Portion](./) in the [Presentation](../../../aspose.slides/presentation/).

@@ -1,12 +1,12 @@
 ---
-title: get_AnchorCenter
+title: get_AnchorCenter()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether or not text box centered inside a cell. Read bool.
 type: docs
 weight: 248
 url: /cpp/aspose.slides/cell/get_anchorcenter/
 ---
-## Cell::get_AnchorCenter method
+## Cell::get_AnchorCenter() method
 
 
 Determines whether or not text box centered inside a cell. Read **bool**.

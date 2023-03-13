@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies hash contents into existing array elements.
 type: docs
 weight: 183
 url: /cpp/system.collections.generic/hashset/copyto/
 ---
-## HashSet::CopyTo method
+## HashSet::CopyTo([ArrayPtr](../../../system/arrayptr/)\<T\>, int) method
 
 
 Copies hash contents into existing array elements.

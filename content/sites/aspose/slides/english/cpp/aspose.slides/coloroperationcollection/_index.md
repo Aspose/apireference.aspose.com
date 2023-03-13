@@ -27,7 +27,7 @@ class ColorOperationCollection : public Aspose::Slides::IColorOperationCollectio
 | [const_iterator](./const_iterator/) [cend](./cend/)() const | Gets iterator pointing right after the last const-qualified element (if any) of the collection. |
 | void [Clear](./clear/)() override | Removes all color operations. |
 | [System::SharedPtr](../../system/sharedptr/)\<[System::Object](../../system/object/)\> [Clone](./clone/)() override | Creates a copy of a [ColorOperationCollection](./) collection. |
-| [System::SharedPtr](../../system/sharedptr/)\<[IColorOperationCollection](../icoloroperationcollection/)\> [CloneT](./clonet/)() override | Clones current object. |
+| [System::SharedPtr](../../system/sharedptr/)\<[IColorOperationCollection](../icoloroperationcollection/)\> [CloneT](./clonet/)() override | Clones current object |
 | void [CopyTo](./copyto/)([System::ArrayPtr](../../system/arrayptr/)\<[System::SharedPtr](../../system/sharedptr/)\<[IColorOperation](../icoloroperation/)\>\>, **int32_t**) override | Copies all elements from the collection to the specified array. |
 | virtual void [CopyTo](../igenericcollection/copyto/)([System::ArrayPtr](../../system/arrayptr/)\<T\>, **int32_t**) | Copies all elements from the collection into the specified array. |
 | [iterator](./iterator/) [end](./end/)() | Gets iterator pointing right after the last element (if any) of the collection. |

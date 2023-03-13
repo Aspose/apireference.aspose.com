@@ -1,12 +1,12 @@
 ---
-title: set_DispositionType
+title: set_DispositionType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a disposition type.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_dispositiontype/
 ---
-## ContentDispositionHeaderValue::set_DispositionType method
+## ContentDispositionHeaderValue::set_DispositionType([String](../../../system/string/)) method
 
 
 Sets a disposition type.

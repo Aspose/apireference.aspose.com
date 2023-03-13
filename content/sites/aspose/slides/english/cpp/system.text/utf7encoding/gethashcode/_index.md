@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets encoding hash code.
 type: docs
 weight: 40
 url: /cpp/system.text/utf7encoding/gethashcode/
 ---
-## UTF7Encoding::GetHashCode method
+## UTF7Encoding::GetHashCode() const method
 
 
 Gets encoding hash code.

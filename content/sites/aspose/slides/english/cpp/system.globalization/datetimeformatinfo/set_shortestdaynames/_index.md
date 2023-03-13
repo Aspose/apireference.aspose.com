@@ -1,12 +1,12 @@
 ---
-title: set_ShortestDayNames
+title: set_ShortestDayNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets shortest day names possible.
 type: docs
 weight: 573
 url: /cpp/system.globalization/datetimeformatinfo/set_shortestdaynames/
 ---
-## DateTimeFormatInfo::set_ShortestDayNames method
+## DateTimeFormatInfo::set_ShortestDayNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
 
 
 Sets shortest day names possible.

@@ -1,12 +1,12 @@
 ---
-title: get_PrimaryScreen
+title: get_PrimaryScreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets information on primary display.
 type: docs
 weight: 1
 url: /cpp/system.windows.forms/screen/get_primaryscreen/
 ---
-## Screen::get_PrimaryScreen method
+## Screen::get_PrimaryScreen() method
 
 
 Gets information on primary display.

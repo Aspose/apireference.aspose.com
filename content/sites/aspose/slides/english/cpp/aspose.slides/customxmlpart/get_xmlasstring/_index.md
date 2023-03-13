@@ -1,12 +1,12 @@
 ---
-title: get_XmlAsString
+title: get_XmlAsString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns xml data as UTF-8 string. Read System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides/customxmlpart/get_xmlasstring/
 ---
-## CustomXmlPart::get_XmlAsString method
+## CustomXmlPart::get_XmlAsString() method
 
 
 Returns xml data as UTF-8 string. Read [System::String](../../../system/string/).

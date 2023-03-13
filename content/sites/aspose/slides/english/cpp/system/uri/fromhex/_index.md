@@ -1,12 +1,12 @@
 ---
-title: FromHex
+title: FromHex()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the decimal value of a hexadecimal digit.
 type: docs
 weight: 495
 url: /cpp/system/uri/fromhex/
 ---
-## Uri::FromHex method
+## Uri::FromHex(char16_t) method
 
 
 Gets the decimal value of a hexadecimal digit.

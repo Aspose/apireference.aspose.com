@@ -1,12 +1,12 @@
 ---
-title: set_Quality
+title: set_Quality()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the quality value of the 'Accept-Encoding' header.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/transfercodingwithqualityheadervalue/set_quality/
 ---
-## TransferCodingWithQualityHeaderValue::set_Quality method
+## TransferCodingWithQualityHeaderValue::set_Quality([Nullable](../../../system/nullable/)\<**double**\>) method
 
 
 Sets the quality value of the 'Accept-Encoding' header.

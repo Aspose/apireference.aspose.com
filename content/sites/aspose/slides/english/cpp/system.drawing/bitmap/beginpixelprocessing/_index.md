@@ -1,12 +1,12 @@
 ---
-title: BeginPixelProcessing
+title: BeginPixelProcessing()
 second_title: Aspose.Slides for C++ API Reference
 description: Enables pixel processing mode.
 type: docs
 weight: 248
 url: /cpp/system.drawing/bitmap/beginpixelprocessing/
 ---
-## Bitmap::BeginPixelProcessing method
+## Bitmap::BeginPixelProcessing(**bool**) method
 
 
 Enables pixel processing mode.

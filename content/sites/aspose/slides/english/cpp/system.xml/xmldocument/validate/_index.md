@@ -1,5 +1,5 @@
 ---
-title: Validate
+title: Validate()
 second_title: Aspose.Slides for C++ API Reference
 description: "Validates the XmlDocument against the XML Schema Definition Language (XSD) schemas contained in the XmlDocument::get_Schemas list."
 type: docs

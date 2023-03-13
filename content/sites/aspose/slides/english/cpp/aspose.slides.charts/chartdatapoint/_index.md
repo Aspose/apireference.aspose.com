@@ -37,6 +37,7 @@ class ChartDataPoint : public Aspose::Slides::Charts::IChartDataPoint,
 | [System::SharedPtr](../../system/sharedptr/)\<[IErrorBarsCustomValues](../ierrorbarscustomvalues/)\> [get_ErrorBarsCustomValues](./get_errorbarscustomvalues/)() override | Represents series error bars values in case of Custom value type. Read-only [IErrorBarsCustomValues](../ierrorbarscustomvalues/). |
 | **int32_t** [get_Explosion](./get_explosion/)() override | Specifies the amount the data point shall be moved from the center of the pie. Read **int32_t**. |
 | [System::SharedPtr](../../system/sharedptr/)\<[IFormat](../iformat/)\> [get_Format](./get_format/)() override | Represents the formatting properties. Read [IFormat](../iformat/). |
+| **uint32_t** [get_Index](./get_index/)() override | Determines which of the parent's children collection this data point applies to. Read **uint32_t**. |
 | **bool** [get_InvertIfNegative](./get_invertifnegative/)() override | Specifies the data point shall invert its colors if the value is negative. Read **bool**. |
 | **bool** [get_IsBubble3D](./get_isbubble3d/)() override | Specifies that the bubbles have a 3-D effect applied to them. Read **bool**. |
 | [System::SharedPtr](../../system/sharedptr/)\<[IDataLabel](../idatalabel/)\> [get_Label](./get_label/)() override | Label. Read-only [IDataLabel](../idatalabel/). |

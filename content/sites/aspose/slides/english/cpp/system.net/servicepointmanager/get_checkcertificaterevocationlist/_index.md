@@ -1,12 +1,12 @@
 ---
-title: get_CheckCertificateRevocationList
+title: get_CheckCertificateRevocationList()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the certificate must be checked against the certificate authority revocation list.
 type: docs
 weight: 287
 url: /cpp/system.net/servicepointmanager/get_checkcertificaterevocationlist/
 ---
-## ServicePointManager::get_CheckCertificateRevocationList method
+## ServicePointManager::get_CheckCertificateRevocationList() method
 
 
 Gets a value that indicates if the certificate must be checked against the certificate authority revocation list.

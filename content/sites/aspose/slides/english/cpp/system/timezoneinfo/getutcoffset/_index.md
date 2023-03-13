@@ -1,5 +1,5 @@
 ---
-title: GetUtcOffset
+title: GetUtcOffset()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates difference between time in this time zone and UTC time zone for a specified date and time.
 type: docs

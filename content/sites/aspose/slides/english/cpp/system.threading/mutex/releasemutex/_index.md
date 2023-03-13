@@ -1,12 +1,12 @@
 ---
-title: ReleaseMutex
+title: ReleaseMutex()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases the mutex.
 type: docs
 weight: 14
 url: /cpp/system.threading/mutex/releasemutex/
 ---
-## Mutex::ReleaseMutex method
+## Mutex::ReleaseMutex() method
 
 
 Releases the mutex.

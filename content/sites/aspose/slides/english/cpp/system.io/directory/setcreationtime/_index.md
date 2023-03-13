@@ -1,12 +1,12 @@
 ---
-title: SetCreationTime
+title: SetCreationTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the creation time of the specified entity as local time.
 type: docs
 weight: 209
 url: /cpp/system.io/directory/setcreationtime/
 ---
-## Directory::SetCreationTime method
+## Directory::SetCreationTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
 
 
 Sets the creation time of the specified entity as local time.

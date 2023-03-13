@@ -1,12 +1,12 @@
 ---
-title: ImportParameters
+title: ImportParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Imports CSP parameters.
 type: docs
 weight: 170
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/importparameters/
 ---
-## RSACryptoServiceProvider::ImportParameters method
+## RSACryptoServiceProvider::ImportParameters([RSAParameters](../../rsaparameters/)) method
 
 
 Imports CSP parameters.

@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the current object.
 type: docs
 weight: 274
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/clone/
 ---
-## LinearGradientBrush::Clone method
+## LinearGradientBrush::Clone() method
 
 
 Creates a copy of the current object.

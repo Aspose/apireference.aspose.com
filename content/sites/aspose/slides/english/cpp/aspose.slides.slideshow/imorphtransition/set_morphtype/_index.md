@@ -1,12 +1,12 @@
 ---
-title: set_MorphType
+title: set_MorphType()
 second_title: Aspose.Slides for C++ API Reference
 description: Type of morph transition. Write TransitionMorphType.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/imorphtransition/set_morphtype/
 ---
-## IMorphTransition::set_MorphType method
+## IMorphTransition::set_MorphType([TransitionMorphType](../../transitionmorphtype/)) method
 
 
 Type of morph transition. Write [TransitionMorphType](../../transitionmorphtype/).

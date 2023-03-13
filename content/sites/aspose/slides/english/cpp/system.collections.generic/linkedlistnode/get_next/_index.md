@@ -1,12 +1,12 @@
 ---
-title: get_Next
+title: get_Next()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets next node.
 type: docs
 weight: 27
 url: /cpp/system.collections.generic/linkedlistnode/get_next/
 ---
-## LinkedListNode::get_Next method
+## LinkedListNode::get_Next() const method
 
 
 Gets next node.

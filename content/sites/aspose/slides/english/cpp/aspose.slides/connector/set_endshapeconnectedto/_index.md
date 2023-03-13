@@ -1,12 +1,12 @@
 ---
-title: set_EndShapeConnectedTo
+title: set_EndShapeConnectedTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the shape to attach the end of the connector to. Write IShape.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/connector/set_endshapeconnectedto/
 ---
-## Connector::set_EndShapeConnectedTo method
+## Connector::set_EndShapeConnectedTo([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../ishape/)\>) method
 
 
 Sets the shape to attach the end of the connector to. Write [IShape](../../ishape/).

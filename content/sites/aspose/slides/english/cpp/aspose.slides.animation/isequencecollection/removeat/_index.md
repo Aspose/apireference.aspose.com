@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes sequence at the specified index.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/isequencecollection/removeat/
 ---
-## ISequenceCollection::RemoveAt method
+## ISequenceCollection::RemoveAt(**int32_t**) method
 
 
 Removes sequence at the specified index.

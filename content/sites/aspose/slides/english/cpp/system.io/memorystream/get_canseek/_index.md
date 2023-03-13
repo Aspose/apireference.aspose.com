@@ -1,12 +1,12 @@
 ---
-title: get_CanSeek
+title: get_CanSeek()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the stream supports seeking.
 type: docs
 weight: 235
 url: /cpp/system.io/memorystream/get_canseek/
 ---
-## MemoryStream::get_CanSeek method
+## MemoryStream::get_CanSeek() const method
 
 
 Determines if the stream supports seeking.

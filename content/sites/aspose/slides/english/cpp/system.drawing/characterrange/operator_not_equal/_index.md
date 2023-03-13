@@ -1,12 +1,12 @@
 ---
-title: operator!=
+title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current and specified objects represent distinct ranges.
 type: docs
 weight: 79
 url: /cpp/system.drawing/characterrange/operator_not_equal/
 ---
-## CharacterRange::operator!= method
+## CharacterRange::operator!=(const [CharacterRange](../)\&) const method
 
 
 Determines if the current and specified objects represent distinct ranges.

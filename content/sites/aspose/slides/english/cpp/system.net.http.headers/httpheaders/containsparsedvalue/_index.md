@@ -1,12 +1,12 @@
 ---
-title: ContainsParsedValue
+title: ContainsParsedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the header contains the specified value.
 type: docs
 weight: 209
 url: /cpp/system.net.http.headers/httpheaders/containsparsedvalue/
 ---
-## HttpHeaders::ContainsParsedValue method
+## HttpHeaders::ContainsParsedValue([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Checks if the header contains the specified value.

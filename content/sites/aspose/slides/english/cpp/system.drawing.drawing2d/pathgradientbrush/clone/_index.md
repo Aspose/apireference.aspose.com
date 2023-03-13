@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the current object.
 type: docs
 weight: 326
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/clone/
 ---
-## PathGradientBrush::Clone method
+## PathGradientBrush::Clone() method
 
 
 Creates a copy of the current object.

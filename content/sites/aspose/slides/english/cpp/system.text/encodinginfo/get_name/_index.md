@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets encoding short name.
 type: docs
 weight: 27
 url: /cpp/system.text/encodinginfo/get_name/
 ---
-## EncodingInfo::get_Name method
+## EncodingInfo::get_Name() const method
 
 
 Gets encoding short name.

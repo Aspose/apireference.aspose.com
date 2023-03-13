@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds item to the end of list.
 type: docs
 weight: 14
 url: /cpp/system.collections/ilist/add/
 ---
-## IList::Add method
+## IList::Add([SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Adds item to the end of list.

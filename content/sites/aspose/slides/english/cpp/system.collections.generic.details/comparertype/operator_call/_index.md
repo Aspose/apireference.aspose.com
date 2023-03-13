@@ -1,5 +1,5 @@
 ---
-title: operator()
+title: operator()()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares value types implementing IComparable interface.
 type: docs

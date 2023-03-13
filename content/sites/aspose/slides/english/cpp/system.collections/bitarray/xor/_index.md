@@ -1,12 +1,12 @@
 ---
-title: Xor
+title: Xor()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates bitwise 'xor' between two BitSets.
 type: docs
 weight: 183
 url: /cpp/system.collections/bitarray/xor/
 ---
-## BitArray::Xor method
+## BitArray::Xor(const [BitArrayPtr](../../bitarrayptr/)\&) method
 
 
 Calculates bitwise 'xor' between two BitSets.

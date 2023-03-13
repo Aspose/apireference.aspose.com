@@ -1,12 +1,12 @@
 ---
-title: set_DigitSubstitution
+title: set_DigitSubstitution()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that specifies how to display shape of a digit.
 type: docs
 weight: 729
 url: /cpp/system.globalization/numberformatinfo/set_digitsubstitution/
 ---
-## NumberFormatInfo::set_DigitSubstitution method
+## NumberFormatInfo::set_DigitSubstitution([DigitShapes](../../digitshapes/)) method
 
 
 Sets a value that specifies how to display shape of a digit.

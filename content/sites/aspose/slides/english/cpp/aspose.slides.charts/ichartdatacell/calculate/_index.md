@@ -1,12 +1,12 @@
 ---
-title: Calculate
+title: Calculate()
 second_title: Aspose.Slides for C++ API Reference
 description: If the cell contains a formula, the value will be updated base on that formula.
 type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/ichartdatacell/calculate/
 ---
-## IChartDataCell::Calculate method
+## IChartDataCell::Calculate(**bool**) method
 
 
 If the cell contains a formula, the value will be updated base on that formula.

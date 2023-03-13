@@ -1,12 +1,12 @@
 ---
-title: get_Depth
+title: get_Depth()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns depth of the paragraph. Value 0 means undefined value. Read int16_t.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/iparagraphformat/get_depth/
 ---
-## IParagraphFormat::get_Depth method
+## IParagraphFormat::get_Depth() method
 
 
 Returns depth of the paragraph. Value 0 means undefined value. Read **int16_t**.

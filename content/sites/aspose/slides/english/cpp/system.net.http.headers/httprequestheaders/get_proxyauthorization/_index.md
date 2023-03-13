@@ -1,12 +1,12 @@
 ---
-title: get_ProxyAuthorization
+title: get_ProxyAuthorization()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Proxy-Authorization' header.
 type: docs
 weight: 300
 url: /cpp/system.net.http.headers/httprequestheaders/get_proxyauthorization/
 ---
-## HttpRequestHeaders::get_ProxyAuthorization method
+## HttpRequestHeaders::get_ProxyAuthorization() method
 
 
 Gets a value of the 'Proxy-Authorization' header.

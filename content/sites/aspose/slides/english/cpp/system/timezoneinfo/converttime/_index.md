@@ -1,5 +1,5 @@
 ---
-title: ConvertTime
+title: ConvertTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Convert time from one time zone to another.
 type: docs

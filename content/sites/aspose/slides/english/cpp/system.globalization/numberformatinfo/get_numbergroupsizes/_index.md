@@ -1,12 +1,12 @@
 ---
-title: get_NumberGroupSizes
+title: get_NumberGroupSizes()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets numbers of digits per group.
 type: docs
 weight: 482
 url: /cpp/system.globalization/numberformatinfo/get_numbergroupsizes/
 ---
-## NumberFormatInfo::get_NumberGroupSizes method
+## NumberFormatInfo::get_NumberGroupSizes() const method
 
 
 Gets numbers of digits per group.

@@ -1,12 +1,12 @@
 ---
-title: get_Simple
+title: get_Simple()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns settings for simpliest and smallest SVG file generation. Read-only SVGOptions.
 type: docs
 weight: 339
 url: /cpp/aspose.slides.export/svgoptions/get_simple/
 ---
-## SVGOptions::get_Simple method
+## SVGOptions::get_Simple() method
 
 
 Returns settings for simpliest and smallest SVG file generation. Read-only [SVGOptions](../).

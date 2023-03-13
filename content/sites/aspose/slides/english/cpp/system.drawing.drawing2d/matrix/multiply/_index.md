@@ -1,5 +1,5 @@
 ---
-title: Multiply
+title: Multiply()
 second_title: Aspose.Slides for C++ API Reference
 description: Multiplies the matrix represented by the current object by the specified matrix.
 type: docs

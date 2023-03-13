@@ -1,5 +1,5 @@
 ---
-title: Enter
+title: Enter()
 second_title: Aspose.Slides for C++ API Reference
 description: Acquires an exclusive lock on a specified object.
 type: docs

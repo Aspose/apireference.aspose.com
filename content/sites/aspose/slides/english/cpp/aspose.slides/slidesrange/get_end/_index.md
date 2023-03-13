@@ -1,15 +1,15 @@
 ---
-title: get_End
+title: get_End()
 second_title: Aspose.Slides for C++ API Reference
-description: End.
+description: End
 type: docs
 weight: 27
 url: /cpp/aspose.slides/slidesrange/get_end/
 ---
-## SlidesRange::get_End method
+## SlidesRange::get_End() const method
 
 
-End.
+End
 
 ```cpp
 uint32_t Aspose::Slides::SlidesRange::get_End() const

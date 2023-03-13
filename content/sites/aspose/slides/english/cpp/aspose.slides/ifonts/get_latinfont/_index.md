@@ -1,12 +1,12 @@
 ---
-title: get_LatinFont
+title: get_LatinFont()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the Latin font. Read IFontData.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ifonts/get_latinfont/
 ---
-## IFonts::get_LatinFont method
+## IFonts::get_LatinFont() method
 
 
 Returns the Latin font. Read [IFontData](../../ifontdata/).

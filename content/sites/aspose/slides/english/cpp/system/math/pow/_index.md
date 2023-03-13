@@ -1,12 +1,12 @@
 ---
-title: Pow
+title: Pow()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the specified value raised to the specified power.
 type: docs
 weight: 235
 url: /cpp/system/math/pow/
 ---
-## Math::Pow method
+## Math::Pow(**double**, **double**) method
 
 
 Returns the specified value raised to the specified power.

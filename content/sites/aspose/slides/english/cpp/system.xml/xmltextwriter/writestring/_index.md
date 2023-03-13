@@ -1,12 +1,12 @@
 ---
-title: WriteString
+title: WriteString()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes the given text content.
 type: docs
 weight: 378
 url: /cpp/system.xml/xmltextwriter/writestring/
 ---
-## XmlTextWriter::WriteString method
+## XmlTextWriter::WriteString(const [String](../../../system/string/)\&) method
 
 
 Writes the given text content.

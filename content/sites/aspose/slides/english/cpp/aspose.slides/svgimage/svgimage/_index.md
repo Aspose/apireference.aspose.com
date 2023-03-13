@@ -1,5 +1,5 @@
 ---
-title: SvgImage
+title: SvgImage()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates new SvgImage object.
 type: docs

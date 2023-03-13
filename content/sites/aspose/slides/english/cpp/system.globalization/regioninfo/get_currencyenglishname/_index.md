@@ -1,12 +1,12 @@
 ---
-title: get_CurrencyEnglishName
+title: get_CurrencyEnglishName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets currency English name.
 type: docs
 weight: 66
 url: /cpp/system.globalization/regioninfo/get_currencyenglishname/
 ---
-## RegionInfo::get_CurrencyEnglishName method
+## RegionInfo::get_CurrencyEnglishName() const method
 
 
 Gets currency English name.

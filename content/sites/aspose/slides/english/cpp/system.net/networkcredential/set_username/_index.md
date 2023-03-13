@@ -1,12 +1,12 @@
 ---
-title: set_UserName
+title: set_UserName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the username.
 type: docs
 weight: 14
 url: /cpp/system.net/networkcredential/set_username/
 ---
-## NetworkCredential::set_UserName method
+## NetworkCredential::set_UserName([String](../../../system/string/)) method
 
 
 Sets the username.

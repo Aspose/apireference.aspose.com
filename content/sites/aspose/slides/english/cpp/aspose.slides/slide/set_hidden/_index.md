@@ -1,12 +1,12 @@
 ---
-title: set_Hidden
+title: set_Hidden()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified slide is hidden during a slide show. Write bool.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/slide/set_hidden/
 ---
-## Slide::set_Hidden method
+## Slide::set_Hidden(**bool**) method
 
 
 Determines whether the specified slide is hidden during a slide show. Write **bool**.

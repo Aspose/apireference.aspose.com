@@ -1,12 +1,12 @@
 ---
-title: Decrypt
+title: Decrypt()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 79
 url: /cpp/system.io/file/decrypt/
 ---
-## File::Decrypt method
+## File::Decrypt(const [String](../../../system/string/)\&) method
 
 
 NOT IMPLEMENTED.

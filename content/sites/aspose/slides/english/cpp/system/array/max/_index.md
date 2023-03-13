@@ -1,12 +1,12 @@
 ---
-title: Max
+title: Max()
 second_title: Aspose.Slides for C++ API Reference
 description: Finds the largest element in the array using operator<() to compare elements.
 type: docs
 weight: 521
 url: /cpp/system/array/max/
 ---
-## Array::Max method
+## Array::Max() const method
 
 
 Finds the largest element in the array using [operator<()](../../operator_less/) to compare elements.

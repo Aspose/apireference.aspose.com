@@ -1,12 +1,12 @@
 ---
-title: TimerQueue
+title: TimerQueue()
 second_title: Aspose.Slides for C++ API Reference
 description: No copying.
 type: docs
 weight: 27
 url: /cpp/system.threading/timerqueue/timerqueue/
 ---
-## TimerQueue::TimerQueue constructor
+## TimerQueue::TimerQueue(const [TimerQueue](../)\&) constructor
 
 
 No copying.

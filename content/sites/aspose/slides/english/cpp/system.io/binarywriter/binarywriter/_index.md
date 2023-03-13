@@ -1,12 +1,12 @@
 ---
-title: BinaryWriter
+title: BinaryWriter()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance of BinaryWriter class that writes data to the specified stream using the specified encoding.
 type: docs
 weight: 1
 url: /cpp/system.io/binarywriter/binarywriter/
 ---
-## BinaryWriter::BinaryWriter constructor
+## BinaryWriter::BinaryWriter(const [StreamPtr](../../../system/streamptr/)\&, const [EncodingPtr](../../../system/encodingptr/)\&, **bool**) constructor
 
 
 Constructs an instance of [BinaryWriter](../) class that writes data to the specified stream using the specified encoding.

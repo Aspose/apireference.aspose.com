@@ -1,12 +1,12 @@
 ---
-title: GetDigestedOutput
+title: GetDigestedOutput()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 105
 url: /cpp/system.security.cryptography.xml/xmldsigexcc14ntransform/getdigestedoutput/
 ---
-## XmlDsigExcC14NTransform::GetDigestedOutput method
+## XmlDsigExcC14NTransform::GetDigestedOutput([SharedPtr](../../../system/sharedptr/)\<[HashAlgorithm](../../../system.security.cryptography/hashalgorithm/)\>) method
 
 
 

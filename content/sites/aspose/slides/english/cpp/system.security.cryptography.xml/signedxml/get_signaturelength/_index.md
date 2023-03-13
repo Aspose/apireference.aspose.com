@@ -1,12 +1,12 @@
 ---
-title: get_SignatureLength
+title: get_SignatureLength()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography.xml/signedxml/get_signaturelength/
 ---
-## SignedXml::get_SignatureLength method
+## SignedXml::get_SignatureLength() method
 
 
 

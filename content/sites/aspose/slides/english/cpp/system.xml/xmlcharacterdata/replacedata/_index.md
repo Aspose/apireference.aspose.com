@@ -1,12 +1,12 @@
 ---
-title: ReplaceData
+title: ReplaceData()
 second_title: Aspose.Slides for C++ API Reference
 description: Replaces the specified number of characters starting at the specified offset with the specified string.
 type: docs
 weight: 144
 url: /cpp/system.xml/xmlcharacterdata/replacedata/
 ---
-## XmlCharacterData::ReplaceData method
+## XmlCharacterData::ReplaceData(**int32_t**, **int32_t**, [String](../../../system/string/)) method
 
 
 Replaces the specified number of characters starting at the specified offset with the specified string.

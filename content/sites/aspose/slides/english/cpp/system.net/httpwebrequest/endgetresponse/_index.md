@@ -1,12 +1,12 @@
 ---
-title: EndGetResponse
+title: EndGetResponse()
 second_title: Aspose.Slides for C++ API Reference
 description: Waits until the specified asynchronous request for the resource completes.
 type: docs
 weight: 508
 url: /cpp/system.net/httpwebrequest/endgetresponse/
 ---
-## HttpWebRequest::EndGetResponse method
+## HttpWebRequest::EndGetResponse([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
 
 
 Waits until the specified asynchronous request for the resource completes.

@@ -1,12 +1,12 @@
 ---
-title: get_GraphicsPath
+title: get_GraphicsPath()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an element's path. Read-only System::Drawing::Drawing2D::GraphicsPath."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/shapeelement/get_graphicspath/
 ---
-## ShapeElement::get_GraphicsPath method
+## ShapeElement::get_GraphicsPath() method
 
 
 Returns an element's path. Read-only [System::Drawing::Drawing2D::GraphicsPath](../../../system.drawing.drawing2d/graphicspath/).

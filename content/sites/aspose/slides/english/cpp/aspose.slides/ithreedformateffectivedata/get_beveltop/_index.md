@@ -1,12 +1,12 @@
 ---
-title: get_BevelTop
+title: get_BevelTop()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of a top 3D bevel. Read-only IShapeBevelEffectiveData.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ithreedformateffectivedata/get_beveltop/
 ---
-## IThreeDFormatEffectiveData::get_BevelTop method
+## IThreeDFormatEffectiveData::get_BevelTop() method
 
 
 Returns the type of a top 3D bevel. Read-only [IShapeBevelEffectiveData](../../ishapebeveleffectivedata/).

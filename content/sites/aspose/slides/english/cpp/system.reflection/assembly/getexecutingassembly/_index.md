@@ -1,12 +1,12 @@
 ---
-title: GetExecutingAssembly
+title: GetExecutingAssembly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets executing assembly.
 type: docs
 weight: 105
 url: /cpp/system.reflection/assembly/getexecutingassembly/
 ---
-## Assembly::GetExecutingAssembly method
+## Assembly::GetExecutingAssembly() method
 
 
 Gets executing assembly.

@@ -1,12 +1,12 @@
 ---
-title: get_Series
+title: get_Series()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of series. Read-only IChartSeriesReadonlyCollection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/chartseriesgroup/get_series/
 ---
-## ChartSeriesGroup::get_Series method
+## ChartSeriesGroup::get_Series() method
 
 
 Returns a collection of series. Read-only [IChartSeriesReadonlyCollection](../../ichartseriesreadonlycollection/).

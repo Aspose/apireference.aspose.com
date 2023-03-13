@@ -1,12 +1,12 @@
 ---
-title: get_OutParameters
+title: get_OutParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the output parameters passed into the XML Web service method.
 type: docs
 weight: 27
 url: /cpp/system.web.services.protocols/soapmessage/get_outparameters/
 ---
-## SoapMessage::get_OutParameters method
+## SoapMessage::get_OutParameters() method
 
 
 Gets the output parameters passed into the XML [Web](../../../system.web/) service method.

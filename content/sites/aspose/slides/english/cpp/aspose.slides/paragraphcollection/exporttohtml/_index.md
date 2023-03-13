@@ -1,12 +1,12 @@
 ---
-title: ExportToHtml
+title: ExportToHtml()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts specifying paragraphs to the HTML and returns it as String object.
 type: docs
 weight: 170
 url: /cpp/aspose.slides/paragraphcollection/exporttohtml/
 ---
-## ParagraphCollection::ExportToHtml method
+## ParagraphCollection::ExportToHtml(**int32_t**, **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[Export::ITextToHtmlConversionOptions](../../../aspose.slides.export/itexttohtmlconversionoptions/)\>) method
 
 
 Converts specifying paragraphs to the HTML and returns it as String object.

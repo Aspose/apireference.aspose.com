@@ -1,12 +1,12 @@
 ---
-title: Get
+title: Get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets BitArray element.
 type: docs
 weight: 209
 url: /cpp/system.collections/bitarray/get/
 ---
-## BitArray::Get method
+## BitArray::Get(int) const method
 
 
 Gets [BitArray](../) element.

@@ -1,5 +1,5 @@
 ---
-title: ComparerAdapter
+title: ComparerAdapter()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs adapter without any comparator available.
 type: docs

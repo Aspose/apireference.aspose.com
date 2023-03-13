@@ -1,12 +1,12 @@
 ---
-title: AddYears
+title: AddYears()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds years to time point.
 type: docs
 weight: 170
 url: /cpp/system.globalization/calendar/addyears/
 ---
-## Calendar::AddYears method
+## Calendar::AddYears([DateTime](../../../system/datetime/), int) const method
 
 
 Adds years to time point.

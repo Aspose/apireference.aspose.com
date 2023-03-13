@@ -1,12 +1,12 @@
 ---
-title: get_FileName
+title: get_FileName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets process file name.
 type: docs
 weight: 222
 url: /cpp/system.diagnostics/processstartinfo/get_filename/
 ---
-## ProcessStartInfo::get_FileName method
+## ProcessStartInfo::get_FileName() const method
 
 
 Gets process file name.

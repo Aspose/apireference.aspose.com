@@ -1,7 +1,7 @@
 ---
 title: IMathDelimiterFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create a math delimiter.
+description: Allows to create a math delimiter
 type: docs
 weight: 209
 url: /cpp/aspose.slides.mathtext/imathdelimiterfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathdelimiterfactory/
 ## IMathDelimiterFactory class
 
 
-Allows to create a math delimiter.
+Allows to create a math delimiter
 
 ```cpp
 class IMathDelimiterFactory : public System::Object
@@ -19,8 +19,8 @@ class IMathDelimiterFactory : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathDelimiter](../imathdelimiter/)\> [CreateMathDelimiter](./createmathdelimiter/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Create a math delimiter by applying to the element. |
-| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathDelimiter](../imathdelimiter/)\> [CreateMathDelimiter](./createmathdelimiter/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElementCollection](../imathelementcollection/)\>) | Create a math delimiter by applying to the element. |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathDelimiter](../imathdelimiter/)\> [CreateMathDelimiter](./createmathdelimiter/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElement](../imathelement/)\>) | Create a math delimiter by applying to the element |
+| virtual [System::SharedPtr](../../system/sharedptr/)\<[IMathDelimiter](../imathdelimiter/)\> [CreateMathDelimiter](./createmathdelimiter/)([System::SharedPtr](../../system/sharedptr/)\<[IMathElementCollection](../imathelementcollection/)\>) | Create a math delimiter by applying to the element |
 | virtual **bool** [Equals](../../system/object/equals/)([ptr](../../system/object/ptr/)) | Compares objects using C# [Object.Equals](../../system/object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&[IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
 | static std::enable_if<\![IsSmartPtr](../../system/issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../../system/issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../../system/object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |

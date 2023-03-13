@@ -1,12 +1,12 @@
 ---
-title: XmlSchema
+title: XmlSchema()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchema class.
 type: docs
 weight: 326
 url: /cpp/system.xml.schema/xmlschema/xmlschema/
 ---
-## XmlSchema::XmlSchema constructor
+## XmlSchema::XmlSchema() constructor
 
 
 Initializes a new instance of the [XmlSchema](../) class.

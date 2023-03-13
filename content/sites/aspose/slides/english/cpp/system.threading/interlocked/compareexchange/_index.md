@@ -1,5 +1,5 @@
 ---
-title: CompareExchange
+title: CompareExchange()
 second_title: Aspose.Slides for C++ API Reference
 description: "Compare-exchanges value on variable: checks if variable is equal to specific value and stores the new value only if stored value matches expected."
 type: docs

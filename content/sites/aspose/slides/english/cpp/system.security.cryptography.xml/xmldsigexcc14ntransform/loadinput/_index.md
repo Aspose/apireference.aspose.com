@@ -1,12 +1,12 @@
 ---
-title: LoadInput
+title: LoadInput()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography.xml/xmldsigexcc14ntransform/loadinput/
 ---
-## XmlDsigExcC14NTransform::LoadInput method
+## XmlDsigExcC14NTransform::LoadInput([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 

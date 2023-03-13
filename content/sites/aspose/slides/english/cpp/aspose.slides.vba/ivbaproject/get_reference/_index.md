@@ -1,12 +1,12 @@
 ---
-title: get_Reference
+title: get_Reference()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the reference contained in the VBA project at the specified index.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.vba/ivbaproject/get_reference/
 ---
-## IVbaProject::get_Reference method
+## IVbaProject::get_Reference(**int32_t**) method
 
 
 Returns the reference contained in the VBA project at the specified index.

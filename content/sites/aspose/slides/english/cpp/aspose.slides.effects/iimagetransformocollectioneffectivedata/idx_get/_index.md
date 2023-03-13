@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns element by index.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/iimagetransformocollectioneffectivedata/idx_get/
 ---
-## IImageTransformOCollectionEffectiveData::idx_get method
+## IImageTransformOCollectionEffectiveData::idx_get(**int32_t**) method
 
 
 Returns element by index.

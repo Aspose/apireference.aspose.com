@@ -1,5 +1,5 @@
 ---
-title: TimeSpan
+title: TimeSpan()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a TimeSpan object that represents a zero time interval.
 type: docs

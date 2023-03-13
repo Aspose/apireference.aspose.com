@@ -1,12 +1,12 @@
 ---
-title: LayoutSlide
+title: LayoutSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: "Iterate each ForEach::LayoutSlide in the Presentation."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.lowcode/foreach/layoutslide/
 ---
-## ForEach::LayoutSlide method
+## ForEach::LayoutSlide([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>, [ForEach::ForEachLayoutSlideCallback](../foreachlayoutslidecallback/)) method
 
 
 Iterate each [ForEach::LayoutSlide](./) in the [Presentation](../../../aspose.slides/presentation/).

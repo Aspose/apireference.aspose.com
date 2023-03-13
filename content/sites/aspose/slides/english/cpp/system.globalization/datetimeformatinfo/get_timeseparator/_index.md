@@ -1,12 +1,12 @@
 ---
-title: get_TimeSeparator
+title: get_TimeSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets time separator.
 type: docs
 weight: 183
 url: /cpp/system.globalization/datetimeformatinfo/get_timeseparator/
 ---
-## DateTimeFormatInfo::get_TimeSeparator method
+## DateTimeFormatInfo::get_TimeSeparator() const method
 
 
 Gets time separator.

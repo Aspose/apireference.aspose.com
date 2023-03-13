@@ -27,19 +27,18 @@ template<typename E,typename UT>class BoxedEnum : public System::BoxedValue<type
 | Method | Description |
 | --- | --- |
 |  [BoxedEnum](./boxedenum/)(E) | Constructs an instance that represents the specified enumeration value. |
-|  [BoxedValue](../boxedvalue/boxedvalue/)(const T\&) | Constructs an object that represents the specified value boxed. |
-| **bool** [Equals](../boxedvalue/equals/)([ptr](../object/ptr/)) override | Determines the equality of the boxed values represented by the current and specified objects. |
+| virtual **bool** [Equals](../object/equals/)([ptr](../object/ptr/)) | Compares objects using C# [Object.Equals](../object/equals/) semantics. |
 | static std::enable_if\<[IsSmartPtr](../issmartptr/)\<T1\>::value\&&[IsSmartPtr](../issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../object/equals/)(T1 const\&, T2 const\&) | Compares reference type objects in C# style. |
+| static std::enable_if<\![IsSmartPtr](../issmartptr/)\<T1\>::value\&&\![IsSmartPtr](../issmartptr/)\<T2\>::value, **bool**\>::type [Equals](../object/equals/)(T1 const\&, T2 const\&) | Compares value type objects in C# style. |
 | static **bool** [Equals](../object/equals/)(**float** const\&, **float** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static **bool** [Equals](../object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
 | Detail::SmartPtrCounter * [GetCounter](../object/getcounter/)() | Gets reference counter data structure associated with the object. |
-| int [GetHashCode](../boxedvalue/gethashcode/)() const override | Returns a hash code for the current object. |
-| const [System::TypeInfo](../typeinfo/)\& [GetType](../boxedvalue/gettype/)() const override | Gets actual type of object. |
-| [TypeCode](../typecode/) [GetTypeCode](../boxedvalue/gettypecode/)() const override | Returns the value representing the type of the boxed value represented by the current object. |
+| virtual **int32_t** [GetHashCode](../object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../object/gethashcode/) method. Enables hashing of custom objects. |
+| virtual const [TypeInfo](../typeinfo/)\& [GetType](../object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../object/gettype/) call. |
+| virtual [TypeCode](../typecode/) [GetTypeCode](../boxedvaluebase/gettypecode/)() const | Returns the value representing the type of the boxed value represented by the current object. |
 | **uint64_t** [GetUnsignedLongLongValue](./getunsignedlonglongvalue/)() override | Converts the value of the boxed enumeration constant to 64-bit integer value. |
 | virtual **bool** [Is](../object/is/)(const [TypeInfo](../typeinfo/)\&) const | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
-| **bool** [is](../boxedvalue/is/)() const | Determines if the type of the boxed value represented by the current object is **V**. |
 | **bool** [IsBoxedEnum](./isboxedenum/)() override | Determines whether the current object represents a boxed value of enum type. |
 | void [Lock](../object/lock/)() | Implements C# lock() statement locking. Call directly or use [LockContext](../lockcontext/) sentry object. |
 | virtual [ptr](../object/ptr/) [MemberwiseClone](../object/memberwiseclone/)() const | Analog of C# [Object.MemberwiseClone()](../object/memberwiseclone/) method. Enables cloning custom types. |
@@ -60,7 +59,6 @@ template<typename E,typename UT>class BoxedEnum : public System::BoxedValue<type
 | int [SharedRefRemovedSafe](../object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | [System::String](../string/) [ToString](./tostring/)() const override | Converts boxed value represented by the current object to string. |
 | static const [TypeInfo](../typeinfo/)\& [Type](../object/type/)() | Implements C# typeof([System.Object](../object/)) construct. |
-| const T\& [unbox](../boxedvalue/unbox/)() const | Unboxes the value represented by the current object. |
 | void [Unlock](../object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../lockcontext/) sentry object. |
 | Detail::SmartPtrCounter * [WeakRefAdded](../object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

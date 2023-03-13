@@ -1,12 +1,12 @@
 ---
-title: set_IsAutomaticUnderflowBin
+title: set_IsAutomaticUnderflowBin()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies automatic underflow bin value. If false: use UnderflowBin property."
 type: docs
 weight: 1236
 url: /cpp/aspose.slides.charts/axis/set_isautomaticunderflowbin/
 ---
-## Axis::set_IsAutomaticUnderflowBin method
+## Axis::set_IsAutomaticUnderflowBin(**bool**) method
 
 
 Specifies automatic underflow bin value. If false: use UnderflowBin property.

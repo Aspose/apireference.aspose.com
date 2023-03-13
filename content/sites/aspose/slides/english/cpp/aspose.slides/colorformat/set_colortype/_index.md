@@ -1,12 +1,12 @@
 ---
-title: set_ColorType
+title: set_ColorType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the color definition method. Write Slides::ColorType."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/colorformat/set_colortype/
 ---
-## ColorFormat::set_ColorType method
+## ColorFormat::set_ColorType([Aspose::Slides::ColorType](../../colortype/)) method
 
 
 Sets the color definition method. Write [Slides::ColorType](../../colortype/).

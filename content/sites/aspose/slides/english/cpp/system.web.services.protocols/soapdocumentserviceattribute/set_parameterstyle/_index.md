@@ -1,12 +1,12 @@
 ---
-title: set_ParameterStyle
+title: set_ParameterStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if parameters are encapsulated within a single XML element beneath the 'Body' element.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/set_parameterstyle/
 ---
-## SoapDocumentServiceAttribute::set_ParameterStyle method
+## SoapDocumentServiceAttribute::set_ParameterStyle([SoapParameterStyle](../../soapparameterstyle/)) method
 
 
 Sets a value that indicates if parameters are encapsulated within a single XML element beneath the 'Body' element.

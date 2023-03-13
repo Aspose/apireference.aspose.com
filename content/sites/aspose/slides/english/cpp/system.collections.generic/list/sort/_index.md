@@ -1,5 +1,5 @@
 ---
-title: Sort
+title: Sort()
 second_title: Aspose.Slides for C++ API Reference
 description: Sorts elements in the list.
 type: docs

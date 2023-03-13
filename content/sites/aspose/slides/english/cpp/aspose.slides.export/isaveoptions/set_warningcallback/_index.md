@@ -1,12 +1,12 @@
 ---
-title: set_WarningCallback
+title: set_WarningCallback()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets an object which receives warnings and decides whether loading process will continue or will be aborted. Write Aspose::Slides::Warnings::IWarningCallback."
 type: docs
 weight: 14
 url: /cpp/aspose.slides.export/isaveoptions/set_warningcallback/
 ---
-## ISaveOptions::set_WarningCallback method
+## ISaveOptions::set_WarningCallback([System::SharedPtr](../../../system/sharedptr/)\<[Aspose::Slides::Warnings::IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/)\>) method
 
 
 Sets an object which receives warnings and decides whether loading process will continue or will be aborted. Write [Aspose::Slides::Warnings::IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/).

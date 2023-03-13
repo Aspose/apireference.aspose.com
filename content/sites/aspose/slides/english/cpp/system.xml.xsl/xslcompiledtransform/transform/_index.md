@@ -1,5 +1,5 @@
 ---
-title: Transform
+title: Transform()
 second_title: Aspose.Slides for C++ API Reference
 description: Executes the transform using the input document specified by the IXPathNavigable object and outputs the results to an XmlWriter.
 type: docs

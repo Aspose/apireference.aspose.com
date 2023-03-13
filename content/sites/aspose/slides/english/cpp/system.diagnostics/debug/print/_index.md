@@ -1,5 +1,5 @@
 ---
-title: Print
+title: Print()
 second_title: Aspose.Slides for C++ API Reference
 description: Print message to debug interface.
 type: docs

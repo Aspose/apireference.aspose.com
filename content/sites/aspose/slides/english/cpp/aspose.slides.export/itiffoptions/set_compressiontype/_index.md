@@ -1,12 +1,12 @@
 ---
-title: set_CompressionType
+title: set_CompressionType()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the compression type. Write TiffCompressionTypes.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.export/itiffoptions/set_compressiontype/
 ---
-## ITiffOptions::set_CompressionType method
+## ITiffOptions::set_CompressionType([TiffCompressionTypes](../../tiffcompressiontypes/)) method
 
 
 Specifies the compression type. Write [TiffCompressionTypes](../../tiffcompressiontypes/).

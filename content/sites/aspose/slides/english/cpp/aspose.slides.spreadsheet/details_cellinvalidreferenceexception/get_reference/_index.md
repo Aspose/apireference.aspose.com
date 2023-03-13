@@ -1,12 +1,12 @@
 ---
-title: get_Reference
+title: get_Reference()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets an invalid cell reference.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.spreadsheet/details_cellinvalidreferenceexception/get_reference/
 ---
-## Details_CellInvalidReferenceException::get_Reference method
+## Details_CellInvalidReferenceException::get_Reference() method
 
 
 Gets an invalid cell reference.

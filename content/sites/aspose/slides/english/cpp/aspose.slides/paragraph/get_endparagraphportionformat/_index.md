@@ -1,12 +1,12 @@
 ---
-title: get_EndParagraphPortionFormat
+title: get_EndParagraphPortionFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the portion properties that are to be used if another portion is inserted after the last one.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/paragraph/get_endparagraphportionformat/
 ---
-## Paragraph::get_EndParagraphPortionFormat method
+## Paragraph::get_EndParagraphPortionFormat() method
 
 
 Specifies the portion properties that are to be used if another portion is inserted after the last one.

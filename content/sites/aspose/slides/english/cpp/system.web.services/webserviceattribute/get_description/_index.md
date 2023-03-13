@@ -1,12 +1,12 @@
 ---
-title: get_Description
+title: get_Description()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a message that contains the XML Web service description.
 type: docs
 weight: 1
 url: /cpp/system.web.services/webserviceattribute/get_description/
 ---
-## WebServiceAttribute::get_Description method
+## WebServiceAttribute::get_Description() method
 
 
 Gets a message that contains the XML [Web](../../../system.web/) service description.

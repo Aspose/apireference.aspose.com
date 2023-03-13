@@ -1,12 +1,12 @@
 ---
-title: GetStringBuilder
+title: GetStringBuilder()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the currently used StringBuilder.
 type: docs
 weight: 27
 url: /cpp/system.io/stringwriter/getstringbuilder/
 ---
-## StringWriter::GetStringBuilder method
+## StringWriter::GetStringBuilder() method
 
 
 Returns the currently used StringBuilder.

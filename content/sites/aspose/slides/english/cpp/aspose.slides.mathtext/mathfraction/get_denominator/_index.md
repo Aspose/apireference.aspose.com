@@ -1,15 +1,15 @@
 ---
-title: get_Denominator
+title: get_Denominator()
 second_title: Aspose.Slides for C++ API Reference
-description: Denominator.
+description: Denominator
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/mathfraction/get_denominator/
 ---
-## MathFraction::get_Denominator method
+## MathFraction::get_Denominator() method
 
 
-Denominator.
+Denominator
 
 ```cpp
 System::SharedPtr<IMathElement> Aspose::Slides::MathText::MathFraction::get_Denominator() override

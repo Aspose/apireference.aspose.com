@@ -1,12 +1,12 @@
 ---
-title: CreateDefault
+title: CreateDefault()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a WebRequest descendant for the specified URI scheme.
 type: docs
 weight: 66
 url: /cpp/system.net/webrequest/createdefault/
 ---
-## WebRequest::CreateDefault method
+## WebRequest::CreateDefault([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Creates a [WebRequest](../) descendant for the specified URI scheme.

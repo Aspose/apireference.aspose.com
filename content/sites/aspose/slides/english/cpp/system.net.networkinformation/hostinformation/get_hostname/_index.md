@@ -1,12 +1,12 @@
 ---
-title: get_HostName
+title: get_HostName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the host name of the local computer.
 type: docs
 weight: 1
 url: /cpp/system.net.networkinformation/hostinformation/get_hostname/
 ---
-## HostInformation::get_HostName method
+## HostInformation::get_HostName() method
 
 
 Returns the host name of the local computer.

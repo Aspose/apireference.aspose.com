@@ -1,12 +1,12 @@
 ---
-title: _ValueCollection
+title: _ValueCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes collection referencing specified dictionary.
 type: docs
 weight: 1
 url: /cpp/system.collections.generic/_valuecollection/_valuecollection/
 ---
-## _ValueCollection::_ValueCollection constructor
+## _ValueCollection::_ValueCollection(const typename Dict::Ptr\&) constructor
 
 
 Initializes collection referencing specified dictionary.

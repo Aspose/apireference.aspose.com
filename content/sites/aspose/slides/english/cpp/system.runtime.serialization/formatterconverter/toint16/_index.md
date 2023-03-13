@@ -1,12 +1,12 @@
 ---
-title: ToInt16
+title: ToInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a int16_t.
 type: docs
 weight: 92
 url: /cpp/system.runtime.serialization/formatterconverter/toint16/
 ---
-## FormatterConverter::ToInt16 method
+## FormatterConverter::ToInt16([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a **int16_t**.

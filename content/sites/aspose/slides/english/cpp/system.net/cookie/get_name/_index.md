@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the cookie's name.
 type: docs
 weight: 209
 url: /cpp/system.net/cookie/get_name/
 ---
-## Cookie::get_Name method
+## Cookie::get_Name() const method
 
 
 Gets the cookie's name.

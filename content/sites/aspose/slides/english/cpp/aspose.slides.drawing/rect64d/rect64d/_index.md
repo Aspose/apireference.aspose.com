@@ -1,5 +1,5 @@
 ---
-title: Rect64d
+title: Rect64d()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs

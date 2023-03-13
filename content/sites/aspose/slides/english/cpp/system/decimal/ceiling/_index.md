@@ -1,12 +1,12 @@
 ---
-title: Ceiling
+title: Ceiling()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the smallest integral value that is greater than or equal to the specified value.
 type: docs
 weight: 430
 url: /cpp/system/decimal/ceiling/
 ---
-## Decimal::Ceiling method
+## Decimal::Ceiling(const [Decimal](../)\&) method
 
 
 Returns the smallest integral value that is greater than or equal to the specified value.

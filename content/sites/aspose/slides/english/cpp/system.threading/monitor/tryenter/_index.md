@@ -1,5 +1,5 @@
 ---
-title: TryEnter
+title: TryEnter()
 second_title: Aspose.Slides for C++ API Reference
 description: Attempts to acquire an exclusive lock on the specified object Not implemented.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: AddTextFrame
+title: AddTextFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a new TextFrame to a shape. If shape already has TextFrame then simply changes its text.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/autoshape/addtextframe/
 ---
-## AutoShape::AddTextFrame method
+## AutoShape::AddTextFrame([System::String](../../../system/string/)) method
 
 
 Adds a new [TextFrame](../../textframe/) to a shape. If shape already has [TextFrame](../../textframe/) then simply changes its text.

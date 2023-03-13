@@ -1,15 +1,15 @@
 ---
-title: ToMathArray
+title: ToMathArray()
 second_title: Aspose.Slides for C++ API Reference
-description: Puts in a vertical array.
+description: Puts in a vertical array
 type: docs
 weight: 170
 url: /cpp/aspose.slides.mathtext/mathelementbase/tomatharray/
 ---
-## MathElementBase::ToMathArray method
+## MathElementBase::ToMathArray() method
 
 
-Puts in a vertical array.
+Puts in a vertical array
 
 ```cpp
 System::SharedPtr<IMathArray> Aspose::Slides::MathText::MathElementBase::ToMathArray() override

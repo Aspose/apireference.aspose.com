@@ -1,12 +1,12 @@
 ---
-title: Dns
+title: Dns()
 second_title: Aspose.Slides for C++ API Reference
 description: The deleted default constructor.
 type: docs
 weight: 183
 url: /cpp/system.net/dns/dns/
 ---
-## Dns::Dns constructor
+## Dns::Dns() constructor
 
 
 The deleted default constructor.

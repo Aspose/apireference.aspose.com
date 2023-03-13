@@ -1,12 +1,12 @@
 ---
-title: get_HotkeyPrefix
+title: get_HotkeyPrefix()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value that indicates how the hot key prefix is displayed.
 type: docs
 weight: 170
 url: /cpp/system.drawing/stringformat/get_hotkeyprefix/
 ---
-## StringFormat::get_HotkeyPrefix method
+## StringFormat::get_HotkeyPrefix() const method
 
 
 Returns the value that indicates how the hot key prefix is displayed.

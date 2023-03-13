@@ -1,12 +1,12 @@
 ---
-title: ToUInt64
+title: ToUInt64()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a uint64_t.
 type: docs
 weight: 196
 url: /cpp/system.runtime.serialization/iformatterconverter/touint64/
 ---
-## IFormatterConverter::ToUInt64 method
+## IFormatterConverter::ToUInt64([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a **uint64_t**.

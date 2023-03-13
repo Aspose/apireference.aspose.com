@@ -1,5 +1,5 @@
 ---
-title: WriteAllLines
+title: WriteAllLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new text file or overwrites the existing one and writes all strings from the specified enumerable collection of strings to it, each string on a new line, using the specified encoding.
 type: docs

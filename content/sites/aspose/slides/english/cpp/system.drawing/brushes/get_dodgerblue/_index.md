@@ -1,12 +1,12 @@
 ---
-title: get_DodgerBlue
+title: get_DodgerBlue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF1E90FF.
 type: docs
 weight: 534
 url: /cpp/system.drawing/brushes/get_dodgerblue/
 ---
-## Brushes::get_DodgerBlue method
+## Brushes::get_DodgerBlue() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF1E90FF.

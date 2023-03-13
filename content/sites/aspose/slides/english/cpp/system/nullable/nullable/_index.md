@@ -1,5 +1,5 @@
 ---
-title: Nullable
+title: Nullable()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance that represents null-value.
 type: docs

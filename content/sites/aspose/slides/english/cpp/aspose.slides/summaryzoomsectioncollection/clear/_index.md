@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all SummaryZoomSection objects from the collection.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/summaryzoomsectioncollection/clear/
 ---
-## SummaryZoomSectionCollection::Clear method
+## SummaryZoomSectionCollection::Clear() method
 
 
 Removes all [SummaryZoomSection](../../summaryzoomsection/) objects from the collection.

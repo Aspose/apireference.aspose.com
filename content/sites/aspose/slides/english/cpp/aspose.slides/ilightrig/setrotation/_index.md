@@ -1,12 +1,12 @@
 ---
-title: SetRotation
+title: SetRotation()
 second_title: Aspose.Slides for C++ API Reference
 description: A rotation is defined through the use of a latitude coordinate, a longitude coordinate, and a revolution about the axis as the latitude and longitude coordinates.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/ilightrig/setrotation/
 ---
-## ILightRig::SetRotation method
+## ILightRig::SetRotation(**float**, **float**, **float**) method
 
 
 A rotation is defined through the use of a latitude coordinate, a longitude coordinate, and a revolution about the axis as the latitude and longitude coordinates.

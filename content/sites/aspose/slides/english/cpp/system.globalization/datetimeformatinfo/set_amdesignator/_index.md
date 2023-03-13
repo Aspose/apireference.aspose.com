@@ -1,12 +1,12 @@
 ---
-title: set_AMDesignator
+title: set_AMDesignator()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets AM designator.
 type: docs
 weight: 248
 url: /cpp/system.globalization/datetimeformatinfo/set_amdesignator/
 ---
-## DateTimeFormatInfo::set_AMDesignator method
+## DateTimeFormatInfo::set_AMDesignator(const [String](../../../system/string/)\&) method
 
 
 Sets AM designator.

@@ -1,12 +1,12 @@
 ---
-title: get_SoapVersion
+title: get_SoapVersion()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the SOAP version that is used.
 type: docs
 weight: 196
 url: /cpp/system.web.services.protocols/soapmessage/get_soapversion/
 ---
-## SoapMessage::get_SoapVersion method
+## SoapMessage::get_SoapVersion() method
 
 
 Returns the SOAP version that is used.

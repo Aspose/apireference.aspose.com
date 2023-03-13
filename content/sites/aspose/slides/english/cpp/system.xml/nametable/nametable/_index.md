@@ -1,12 +1,12 @@
 ---
-title: NameTable
+title: NameTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the NameTable class.
 type: docs
 weight: 1
 url: /cpp/system.xml/nametable/nametable/
 ---
-## NameTable::NameTable constructor
+## NameTable::NameTable() constructor
 
 
 Initializes a new instance of the [NameTable](../) class.

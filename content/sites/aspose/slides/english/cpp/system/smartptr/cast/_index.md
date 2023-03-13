@@ -1,5 +1,5 @@
 ---
-title: Cast
+title: Cast()
 second_title: Aspose.Slides for C++ API Reference
 description: Casts pointer to its type itself.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: set_XmlData
+title: set_XmlData()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets xml data. Write uint8_t[].
 type: docs
 weight: 40
 url: /cpp/aspose.slides/icustomxmlpart/set_xmldata/
 ---
-## ICustomXmlPart::set_XmlData method
+## ICustomXmlPart::set_XmlData([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
 
 
 Sets xml data. Write **uint8_t**[].

@@ -83,12 +83,12 @@ template<class T>class WeakPtr : public System::SmartPtr<T>
 | [SmartPtr](../smartptr/)\<[Object](../object/)\> [ToObjectPtr](../smartptr/toobjectptr/)() const | Converts any pointer type to pointer to [Object](../object/). Doesn't require Pointee_ type to be complete. |
 | static const [System::TypeInfo](../typeinfo/)\& [Type](../smartptr/type/)() | Shortcut to get [System::TypeInfo](../typeinfo/) object for the Pointee_ type. |
 |  [WeakPtr](./weakptr/)(std::nullptr_t) | Creates null pointer. |
-|  [WeakPtr](./weakptr/)([Pointee_](./pointee_/) *) | Creates weak pointer to given object. |
-|  [WeakPtr](./weakptr/)(const [SmartPtr_](./smartptr_/)\&) | Creates weak pointer referencing same pointer ptr points to. |
+|  [WeakPtr](./weakptr/)([Pointee_](../smartptr/pointee_/) *) | Creates weak pointer to given object. |
+|  [WeakPtr](./weakptr/)(const [SmartPtr_](../smartptr/smartptr_/)\&) | Creates weak pointer referencing same pointer ptr points to. |
 |  [WeakPtr](./weakptr/)(const [SmartPtr](../smartptr/)\<Q\>\&) | Creates weak pointer referencing same pointer x points to. |
 |  [WeakPtr](./weakptr/)(const [WeakPtr_](./weakptr_/)\&) | Copy-constructs weak pointer. |
 |  [WeakPtr](./weakptr/)(const [WeakPtr](./)\<Q\>\&) | Copy-constructs weak pointer. |
-|  [WeakPtr](./weakptr/)([SmartPtr_](./smartptr_/)\&&) | Move-constructs weak pointer. |
+|  [WeakPtr](./weakptr/)([SmartPtr_](../smartptr/smartptr_/)\&&) | Move-constructs weak pointer. |
 |  [~SmartPtr](../smartptr/~smartptr/)() | Destroys [SmartPtr](../smartptr/) object. If required, decreases pointed object's reference counter and deletes object. |
 ## Typedefs
 

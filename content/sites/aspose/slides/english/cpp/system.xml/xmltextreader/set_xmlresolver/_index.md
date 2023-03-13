@@ -1,12 +1,12 @@
 ---
-title: set_XmlResolver
+title: set_XmlResolver()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlResolver used for resolving DTD references.
 type: docs
 weight: 469
 url: /cpp/system.xml/xmltextreader/set_xmlresolver/
 ---
-## XmlTextReader::set_XmlResolver method
+## XmlTextReader::set_XmlResolver(const [SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../xmlresolver/)\>\&) method
 
 
 Sets the [XmlResolver](../../xmlresolver/) used for resolving DTD references.

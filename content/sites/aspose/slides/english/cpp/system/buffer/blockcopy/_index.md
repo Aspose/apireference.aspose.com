@@ -1,5 +1,5 @@
 ---
-title: BlockCopy
+title: BlockCopy()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies a specified number of bytes from source buffer to destination buffer.
 type: docs

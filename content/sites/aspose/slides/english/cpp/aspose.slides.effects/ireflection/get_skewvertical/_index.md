@@ -1,12 +1,12 @@
 ---
-title: get_SkewVertical
+title: get_SkewVertical()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the vertical skew angle. Read double.
 type: docs
 weight: 261
 url: /cpp/aspose.slides.effects/ireflection/get_skewvertical/
 ---
-## IReflection::get_SkewVertical method
+## IReflection::get_SkewVertical() method
 
 
 Specifies the vertical skew angle. Read **double**.

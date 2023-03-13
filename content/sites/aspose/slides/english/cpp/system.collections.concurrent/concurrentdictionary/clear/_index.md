@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes all elements in container.
 type: docs
 weight: 40
 url: /cpp/system.collections.concurrent/concurrentdictionary/clear/
 ---
-## ConcurrentDictionary::Clear method
+## ConcurrentDictionary::Clear() method
 
 
 Deletes all elements in container.

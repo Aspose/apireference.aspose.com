@@ -1,12 +1,12 @@
 ---
-title: get_TargetSlide
+title: get_TargetSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: If the Hyperlink targets specific slide returns this slide. Read-only ISlide.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/hyperlink/get_targetslide/
 ---
-## Hyperlink::get_TargetSlide method
+## Hyperlink::get_TargetSlide() method
 
 
 If the [Hyperlink](../) targets specific slide returns this slide. Read-only [ISlide](../../islide/).

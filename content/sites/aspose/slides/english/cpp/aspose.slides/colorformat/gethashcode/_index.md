@@ -1,12 +1,12 @@
 ---
-title: GetHashCode
+title: GetHashCode()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns hash code.
 type: docs
 weight: 417
 url: /cpp/aspose.slides/colorformat/gethashcode/
 ---
-## ColorFormat::GetHashCode method
+## ColorFormat::GetHashCode() const method
 
 
 Returns hash code.

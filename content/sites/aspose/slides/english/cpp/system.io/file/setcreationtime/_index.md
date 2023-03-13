@@ -1,12 +1,12 @@
 ---
-title: SetCreationTime
+title: SetCreationTime()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 365
 url: /cpp/system.io/file/setcreationtime/
 ---
-## File::SetCreationTime method
+## File::SetCreationTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
 
 
 NOT IMPLEMENTED.

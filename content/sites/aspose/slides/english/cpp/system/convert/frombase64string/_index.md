@@ -1,12 +1,12 @@
 ---
-title: FromBase64String
+title: FromBase64String()
 second_title: Aspose.Slides for C++ API Reference
 description: Decodes base-64 encoded data represented as a string.
 type: docs
 weight: 66
 url: /cpp/system/convert/frombase64string/
 ---
-## Convert::FromBase64String method
+## Convert::FromBase64String(const [String](../../string/)\&) method
 
 
 Decodes base-64 encoded data represented as a string.

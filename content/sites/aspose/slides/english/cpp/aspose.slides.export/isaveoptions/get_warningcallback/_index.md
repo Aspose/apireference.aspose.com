@@ -1,12 +1,12 @@
 ---
-title: get_WarningCallback
+title: get_WarningCallback()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns an object which receives warnings and decides whether loading process will continue or will be aborted. Read Aspose::Slides::Warnings::IWarningCallback."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/isaveoptions/get_warningcallback/
 ---
-## ISaveOptions::get_WarningCallback method
+## ISaveOptions::get_WarningCallback() method
 
 
 Returns an object which receives warnings and decides whether loading process will continue or will be aborted. Read [Aspose::Slides::Warnings::IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/).

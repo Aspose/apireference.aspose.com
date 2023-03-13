@@ -1,12 +1,12 @@
 ---
-title: CanDeserialize
+title: CanDeserialize()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if specific reader is in deserializable state.
 type: docs
 weight: 1
 url: /cpp/system.xml.serialization/xmlserializer/candeserialize/
 ---
-## XmlSerializer::CanDeserialize method
+## XmlSerializer::CanDeserialize([System::SharedPtr](../../../system/sharedptr/)\<[XmlReader](../../../system.xml/xmlreader/)\>) method
 
 
 Checks if specific reader is in deserializable state.

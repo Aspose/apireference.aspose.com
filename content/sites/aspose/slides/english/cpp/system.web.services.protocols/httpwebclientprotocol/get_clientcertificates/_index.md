@@ -1,12 +1,12 @@
 ---
-title: get_ClientCertificates
+title: get_ClientCertificates()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of the client certificates.
 type: docs
 weight: 27
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/get_clientcertificates/
 ---
-## HttpWebClientProtocol::get_ClientCertificates method
+## HttpWebClientProtocol::get_ClientCertificates() method
 
 
 Returns the collection of the client certificates.

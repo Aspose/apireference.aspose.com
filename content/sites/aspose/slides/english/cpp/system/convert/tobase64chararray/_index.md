@@ -1,5 +1,5 @@
 ---
-title: ToBase64CharArray
+title: ToBase64CharArray()
 second_title: Aspose.Slides for C++ API Reference
 description: Base-64 encodes a range of elements in the specified byte array and stores the encoded data as an array of Unicode characters.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: get_PortionFormat
+title: get_PortionFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns portion format. Read-only IChartPortionFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/icharttextformat/get_portionformat/
 ---
-## IChartTextFormat::get_PortionFormat method
+## IChartTextFormat::get_PortionFormat() method
 
 
 Returns portion format. Read-only [IChartPortionFormat](../../ichartportionformat/).

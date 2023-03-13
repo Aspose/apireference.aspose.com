@@ -1,12 +1,12 @@
 ---
-title: set_EmbeddedAudio
+title: set_EmbeddedAudio()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets embedded audio object. Write IAudio.
 type: docs
 weight: 313
 url: /cpp/aspose.slides/audioframe/set_embeddedaudio/
 ---
-## AudioFrame::set_EmbeddedAudio method
+## AudioFrame::set_EmbeddedAudio([System::SharedPtr](../../../system/sharedptr/)\<[IAudio](../../iaudio/)\>) method
 
 
 Sets embedded audio object. Write [IAudio](../../iaudio/).

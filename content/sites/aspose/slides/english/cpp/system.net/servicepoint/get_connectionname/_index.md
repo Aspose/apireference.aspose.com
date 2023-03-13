@@ -1,12 +1,12 @@
 ---
-title: get_ConnectionName
+title: get_ConnectionName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the connection name.
 type: docs
 weight: 196
 url: /cpp/system.net/servicepoint/get_connectionname/
 ---
-## ServicePoint::get_ConnectionName method
+## ServicePoint::get_ConnectionName() method
 
 
 Returns the connection name.

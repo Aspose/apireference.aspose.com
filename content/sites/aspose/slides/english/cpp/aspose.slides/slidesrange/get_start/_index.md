@@ -1,15 +1,15 @@
 ---
-title: get_Start
+title: get_Start()
 second_title: Aspose.Slides for C++ API Reference
-description: Start.
+description: Start
 type: docs
 weight: 1
 url: /cpp/aspose.slides/slidesrange/get_start/
 ---
-## SlidesRange::get_Start method
+## SlidesRange::get_Start() const method
 
 
-Start.
+Start
 
 ```cpp
 uint32_t Aspose::Slides::SlidesRange::get_Start() const

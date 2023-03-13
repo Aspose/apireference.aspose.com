@@ -1,12 +1,12 @@
 ---
-title: ReadBlock
+title: ReadBlock()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the specified maximum number of characters from the current text reader and writes the data to a buffer, starting at the specified index.
 type: docs
 weight: 53
 url: /cpp/system.io/textreader/readblock/
 ---
-## TextReader::ReadBlock method
+## TextReader::ReadBlock([ArrayPtr](../../../system/arrayptr/)\<char_t\>, int, int) method
 
 
 Reads the specified maximum number of characters from the current text reader and writes the data to a buffer, starting at the specified index.

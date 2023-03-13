@@ -1,5 +1,5 @@
 ---
-title: GetCustomPropertyValue
+title: GetCustomPropertyValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a named boolean value from the custom properties.
 type: docs

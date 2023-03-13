@@ -1,12 +1,12 @@
 ---
-title: get_Color1
+title: get_Color1()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns target color format for dark pixels. Read-only System::Drawing::Color."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/iduotoneeffectivedata/get_color1/
 ---
-## IDuotoneEffectiveData::get_Color1 method
+## IDuotoneEffectiveData::get_Color1() method
 
 
 Returns target color format for dark pixels. Read-only [System::Drawing::Color](../../../system.drawing/color/).

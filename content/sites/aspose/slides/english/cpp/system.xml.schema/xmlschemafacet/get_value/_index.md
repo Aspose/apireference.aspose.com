@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the value attribute of the facet.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemafacet/get_value/
 ---
-## XmlSchemaFacet::get_Value method
+## XmlSchemaFacet::get_Value() method
 
 
 Returns the **value** attribute of the facet.

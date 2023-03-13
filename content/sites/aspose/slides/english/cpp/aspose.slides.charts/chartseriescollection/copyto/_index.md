@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies all elements from the collection into the specified array.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.charts/chartseriescollection/copyto/
 ---
-## ChartSeriesCollection::CopyTo method
+## ChartSeriesCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IChartSeries](../../ichartseries/)\>\>, **int32_t**) method
 
 
 Copies all elements from the collection into the specified array.

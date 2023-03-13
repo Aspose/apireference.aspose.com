@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns length of the stream.
 type: docs
 weight: 79
 url: /cpp/system.io/stdiostreamwrapperbase/get_length/
 ---
-## STDIOStreamWrapperBase::get_Length method
+## STDIOStreamWrapperBase::get_Length() const method
 
 
 Returns length of the stream.

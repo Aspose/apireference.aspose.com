@@ -1,12 +1,12 @@
 ---
-title: operator==
+title: operator==()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two delegate objects to check if they point to the same entity.
 type: docs
 weight: 40
 url: /cpp/system/delegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/operator_equal_equal/
 ---
-## Delegate< ReturnType(ArgumentTypes...)>::operator== method
+## Delegate< ReturnType(ArgumentTypes...)>::operator==(const [Delegate](../delegate/)\&) const method
 
 
 Compares two delegate objects to check if they point to the same entity.

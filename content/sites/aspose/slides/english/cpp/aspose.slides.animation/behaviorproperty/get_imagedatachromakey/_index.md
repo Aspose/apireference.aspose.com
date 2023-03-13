@@ -1,15 +1,15 @@
 ---
-title: get_ImageDataChromakey
+title: get_ImageDataChromakey()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'imageData.chromakey' property.
+description: Represents 'imageData.chromakey' property
 type: docs
 weight: 521
 url: /cpp/aspose.slides.animation/behaviorproperty/get_imagedatachromakey/
 ---
-## BehaviorProperty::get_ImageDataChromakey method
+## BehaviorProperty::get_ImageDataChromakey() method
 
 
-Represents 'imageData.chromakey' property.
+Represents 'imageData.chromakey' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ImageDataChromakey()

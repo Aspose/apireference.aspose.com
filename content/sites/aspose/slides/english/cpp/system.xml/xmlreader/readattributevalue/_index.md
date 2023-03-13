@@ -1,12 +1,12 @@
 ---
-title: ReadAttributeValue
+title: ReadAttributeValue()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, parses the attribute value into one or more Text, EntityReference, or EndEntity nodes.
 type: docs
 weight: 677
 url: /cpp/system.xml/xmlreader/readattributevalue/
 ---
-## XmlReader::ReadAttributeValue method
+## XmlReader::ReadAttributeValue() method
 
 
 When overridden in a derived class, parses the attribute value into one or more **[Text](../../../system.text/)**, **EntityReference**, or **EndEntity** nodes.

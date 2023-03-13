@@ -1,12 +1,12 @@
 ---
-title: set_MiterLimit
+title: set_MiterLimit()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the limit of the thickness of the join on a mitered corner.
 type: docs
 weight: 157
 url: /cpp/system.drawing/pen/set_miterlimit/
 ---
-## Pen::set_MiterLimit method
+## Pen::set_MiterLimit(**float**) method
 
 
 Sets the limit of the thickness of the join on a mitered corner.

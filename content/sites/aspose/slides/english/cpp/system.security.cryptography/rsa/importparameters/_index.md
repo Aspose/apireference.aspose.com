@@ -1,12 +1,12 @@
 ---
-title: ImportParameters
+title: ImportParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Imports all parameters from data structure.
 type: docs
 weight: 92
 url: /cpp/system.security.cryptography/rsa/importparameters/
 ---
-## RSA::ImportParameters method
+## RSA::ImportParameters([RSAParameters](../../rsaparameters/)) method
 
 
 Imports all parameters from data structure.

@@ -1,5 +1,5 @@
 ---
-title: InsertChart
+title: InsertChart()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new Chart, initialize it with sample series data and settings and inserts it to the specified position in the collection.
 type: docs

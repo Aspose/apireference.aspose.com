@@ -1,12 +1,12 @@
 ---
-title: SetPixel
+title: SetPixel()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the color of the specified pixel in the bitmap image represented by the current object.
 type: docs
 weight: 105
 url: /cpp/system.drawing/bitmap/setpixel/
 ---
-## Bitmap::SetPixel method
+## Bitmap::SetPixel(int, int, [Color](../../color/)) method
 
 
 Sets the color of the specified pixel in the bitmap image represented by the current object.

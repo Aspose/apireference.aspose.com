@@ -1,5 +1,5 @@
 ---
-title: StackFrame
+title: StackFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates stack frame on current stack offset.
 type: docs

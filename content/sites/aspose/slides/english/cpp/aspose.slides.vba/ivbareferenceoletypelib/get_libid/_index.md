@@ -1,12 +1,12 @@
 ---
-title: get_Libid
+title: get_Libid()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents the identifier of an Automation type library. Read System::String."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.vba/ivbareferenceoletypelib/get_libid/
 ---
-## IVbaReferenceOleTypeLib::get_Libid method
+## IVbaReferenceOleTypeLib::get_Libid() method
 
 
 Represents the identifier of an Automation type library. Read [System::String](../../../system/string/).

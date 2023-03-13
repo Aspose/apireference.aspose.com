@@ -1,5 +1,5 @@
 ---
-title: Reverse
+title: Reverse()
 second_title: Aspose.Slides for C++ API Reference
 description: Reverses elements order of the whole list.
 type: docs

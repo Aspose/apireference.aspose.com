@@ -1,12 +1,12 @@
 ---
-title: get_MaxForwards
+title: get_MaxForwards()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Max-Forwards' header.
 type: docs
 weight: 274
 url: /cpp/system.net.http.headers/httprequestheaders/get_maxforwards/
 ---
-## HttpRequestHeaders::get_MaxForwards method
+## HttpRequestHeaders::get_MaxForwards() method
 
 
 Gets a value of the 'Max-Forwards' header.

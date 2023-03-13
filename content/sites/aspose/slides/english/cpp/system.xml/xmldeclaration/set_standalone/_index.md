@@ -1,12 +1,12 @@
 ---
-title: set_Standalone
+title: set_Standalone()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of the standalone attribute.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmldeclaration/set_standalone/
 ---
-## XmlDeclaration::set_Standalone method
+## XmlDeclaration::set_Standalone(const [String](../../../system/string/)\&) method
 
 
 Sets the value of the standalone attribute.

@@ -1,12 +1,12 @@
 ---
-title: AppendChildElement
+title: AppendChildElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new child element node at the end of the list of child nodes of the current node using the namespace prefix, local name and namespace URI specified with the value specified.
 type: docs
 weight: 1002
 url: /cpp/system.xml.xpath/xpathnavigator/appendchildelement/
 ---
-## XPathNavigator::AppendChildElement method
+## XPathNavigator::AppendChildElement([String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Creates a new child element node at the end of the list of child nodes of the current node using the namespace prefix, local name and namespace URI specified with the value specified.

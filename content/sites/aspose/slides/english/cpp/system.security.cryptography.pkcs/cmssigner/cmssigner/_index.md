@@ -1,12 +1,12 @@
 ---
-title: CmsSigner
+title: CmsSigner()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes signer with X509 certificate.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.pkcs/cmssigner/cmssigner/
 ---
-## CmsSigner::CmsSigner constructor
+## CmsSigner::CmsSigner(const [SharedPtr](../../../system/sharedptr/)\<[X509Certificates::X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)\>\&) constructor
 
 
 Initializes signer with X509 certificate.

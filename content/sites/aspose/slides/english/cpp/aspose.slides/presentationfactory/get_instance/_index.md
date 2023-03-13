@@ -1,12 +1,12 @@
 ---
-title: get_Instance
+title: get_Instance()
 second_title: Aspose.Slides for C++ API Reference
 description: Presentation factory static instance. Read-only PresentationFactory.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/presentationfactory/get_instance/
 ---
-## PresentationFactory::get_Instance method
+## PresentationFactory::get_Instance() method
 
 
 [Presentation](../../presentation/) factory static instance. Read-only [PresentationFactory](../).

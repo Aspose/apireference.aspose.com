@@ -1,12 +1,12 @@
 ---
-title: End
+title: End()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 79
 url: /cpp/system.web/httpresponse/end/
 ---
-## HttpResponse::End method
+## HttpResponse::End() method
 
 
 Not implemented.

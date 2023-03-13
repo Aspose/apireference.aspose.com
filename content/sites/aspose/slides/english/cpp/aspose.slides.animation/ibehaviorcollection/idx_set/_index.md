@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a behavior at the specified index.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/ibehaviorcollection/idx_set/
 ---
-## IBehaviorCollection::idx_set method
+## IBehaviorCollection::idx_set(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IBehavior](../../ibehavior/)\>) method
 
 
 Returns a behavior at the specified index.

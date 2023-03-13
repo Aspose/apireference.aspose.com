@@ -1,12 +1,12 @@
 ---
-title: get_ContentType
+title: get_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-Type' header.
 type: docs
 weight: 66
 url: /cpp/system.web.services.protocols/soapmessage/get_contenttype/
 ---
-## SoapMessage::get_ContentType method
+## SoapMessage::get_ContentType() method
 
 
 Gets a value of the 'Content-Type' header.

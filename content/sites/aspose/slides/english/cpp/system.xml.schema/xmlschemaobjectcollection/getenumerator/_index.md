@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an enumerator for iterating through the XmlSchemaObjects contained in the XmlSchemaObjectCollection.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/getenumerator/
 ---
-## XmlSchemaObjectCollection::GetEnumerator method
+## XmlSchemaObjectCollection::GetEnumerator() method
 
 
 Returns an enumerator for iterating through the XmlSchemaObjects contained in the [XmlSchemaObjectCollection](../).

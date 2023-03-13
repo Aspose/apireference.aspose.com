@@ -1,12 +1,12 @@
 ---
-title: Item
+title: Item()
 second_title: Aspose.Slides for C++ API Reference
 description: Retrieves the node at the specified index in the XmlNamedNodeMap.
 type: docs
 weight: 53
 url: /cpp/system.xml/xmlnamednodemap/item/
 ---
-## XmlNamedNodeMap::Item method
+## XmlNamedNodeMap::Item(**int32_t**) method
 
 
 Retrieves the node at the specified index in the [XmlNamedNodeMap](../).

@@ -1,5 +1,5 @@
 ---
-title: CreateIListWrapperImpl
+title: CreateIListWrapperImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: IListWrapper implementation helper for reference types.
 type: docs

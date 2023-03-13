@@ -1,12 +1,12 @@
 ---
-title: set_Size
+title: set_Size()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents the marker size in a line chart, scatter chart, or radar chart. Write int32_t.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/imarker/set_size/
 ---
-## IMarker::set_Size method
+## IMarker::set_Size(**int32_t**) method
 
 
 Represents the marker size in a line chart, scatter chart, or radar chart. Write **int32_t**.

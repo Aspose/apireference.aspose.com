@@ -1,5 +1,5 @@
 ---
-title: DynamicCast
+title: DynamicCast()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs dynamic cast on Exception objects.
 type: docs

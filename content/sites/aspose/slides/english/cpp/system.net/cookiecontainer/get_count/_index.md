@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of the collection's items.
 type: docs
 weight: 27
 url: /cpp/system.net/cookiecontainer/get_count/
 ---
-## CookieContainer::get_Count method
+## CookieContainer::get_Count() method
 
 
 Returns the number of the collection's items.

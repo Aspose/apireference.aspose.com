@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data/datatablecollection/idx_get/
 ---
-## DataTableCollection::idx_get method
+## DataTableCollection::idx_get(const [System::String](../../../system/string/)\&) method
 
 
 RTTI information.

@@ -42,7 +42,7 @@ class SectionZoomFrame : public Aspose::Slides::ZoomObject,
 | [System::SharedPtr](../../system/sharedptr/)\<[IHyperlinkManager](../ihyperlinkmanager/)\> [get_HyperlinkManager](../shape/get_hyperlinkmanager/)() override | Returns the hyperlink manager. Read-only [IHyperlinkManager](../ihyperlinkmanager/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[IHyperlink](../ihyperlink/)\> [get_HyperlinkMouseOver](../shape/get_hyperlinkmouseover/)() override | Returns the hyperlink defined for mouse over. Read [IHyperlink](../ihyperlink/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[IPPImage](../ippimage/)\> [get_Image](../zoomobject/get_image/)() override | Gets image for zoom object. Read [IPPImage](../ippimage/). |
-| [ZoomImageType](../zoomimagetype/) [get_ImageType](../zoomobject/get_imagetype/)() override | Gets the image type of a zoom object. Read [ZoomImageType](../zoomimagetype/). Default value: Preview. |
+| [ZoomImageType](../zoomimagetype/) [get_ImageType](../zoomobject/get_imagetype/)() override | Gets the image type of a zoom object. Read [ZoomImageType](../zoomimagetype/). Default value: Preview |
 | **bool** [get_IsGrouped](../shape/get_isgrouped/)() override | Determines whether the shape is grouped. Read-only **bool**. |
 | **bool** [get_IsTextHolder](../shape/get_istextholder/)() override | Determines whether the shape is TextHolder_PPT. Read-only **bool**. |
 | [System::SharedPtr](../../system/sharedptr/)\<[ILineFormat](../ilineformat/)\> [get_LineFormat](../shape/get_lineformat/)() override | Returns the [LineFormat](../lineformat/) object that contains line formatting properties for a shape. Note: can return null for certain types of shapes which don't have line properties. Read-only [ILineFormat](../ilineformat/). |
@@ -52,14 +52,14 @@ class SectionZoomFrame : public Aspose::Slides::ZoomObject,
 | [System::SharedPtr](../../system/sharedptr/)\<[IPlaceholder](../iplaceholder/)\> [get_Placeholder](../shape/get_placeholder/)() override | Returns the placeholder for a shape. Returns null if the shape has no placeholder. Read-only [IPlaceholder](../iplaceholder/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[IPresentation](../ipresentation/)\> [get_Presentation](../shape/get_presentation/)() override | Returns the parent presentation of a slide. Read-only [IPresentation](../ipresentation/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[IShapeFrame](../ishapeframe/)\> [get_RawFrame](../shape/get_rawframe/)() override | Returns the raw shape frame's properties. Read [IShapeFrame](../ishapeframe/). |
-| **bool** [get_ReturnToParent](../zoomobject/get_returntoparent/)() override | Gets the navigation behavior in slideshow. Read **bool**. Default value: false. |
+| **bool** [get_ReturnToParent](../zoomobject/get_returntoparent/)() override | Gets the navigation behavior in slideshow. Read **bool**. Default value: false |
 | **float** [get_Rotation](../shape/get_rotation/)() override | Returns the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read **float**. |
 | [System::SharedPtr](../../system/sharedptr/)\<[IBaseShapeLock](../ibaseshapelock/)\> [get_ShapeLock](../shape/get_shapelock/)() override | Returns shape's locks. Read-only [IBaseShapeLock](../ibaseshapelock/). |
-| **bool** [get_ShowBackground](../zoomobject/get_showbackground/)() override | Gets value that specifies whether the Zoom will use the background of the destination slide. Read **bool**. Default value: true. |
+| **bool** [get_ShowBackground](../zoomobject/get_showbackground/)() override | Gets value that specifies whether the Zoom will use the background of the destination slide. Read **bool**. Default value: true |
 | [System::SharedPtr](../../system/sharedptr/)\<[IBaseSlide](../ibaseslide/)\> [get_Slide](../shape/get_slide/)() override | Returns the parent slide of a shape. Read-only [IBaseSlide](../ibaseslide/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[ISection](../isection/)\> [get_TargetSection](./get_targetsection/)() override | Gets the section object that the [Section](../section/) Zoom object links to. Read [ISection](../isection/). |
 | [System::SharedPtr](../../system/sharedptr/)\<[IThreeDFormat](../ithreedformat/)\> [get_ThreeDFormat](../shape/get_threedformat/)() override | Returns the [ThreeDFormat](../threedformat/) object that 3d effect properties for a shape. Note: can return null for certain types of shapes which don't have 3d properties. Read-only [IThreeDFormat](../ithreedformat/). |
-| **float** [get_TransitionDuration](../zoomobject/get_transitionduration/)() override | Gets the duration of the transition between Zoom and slide. Read **float**. Default value: 1.0f. |
+| **float** [get_TransitionDuration](../zoomobject/get_transitionduration/)() override | Gets the duration of the transition between Zoom and slide. Read **float**. Default value: 1.0f |
 | **uint32_t** [get_UniqueId](../shape/get_uniqueid/)() override | Gets unique shape identifier in presentation scope. Read-only **uint32_t**. See also [Shape::get_OfficeInteropShapeId](../shape/get_officeinteropshapeid/) for getting unique shape identifier in slide scope. |
 | **float** [get_Width](../shape/get_width/)() override | Returns the width of the shape. Read **float**. |
 | **float** [get_X](../shape/get_x/)() override | Returns the x-coordinate of the upper-left corner of the shape. Read **float**. |
@@ -93,14 +93,14 @@ class SectionZoomFrame : public Aspose::Slides::ZoomObject,
 | void [set_HyperlinkClick](../shape/set_hyperlinkclick/)([System::SharedPtr](../../system/sharedptr/)\<[IHyperlink](../ihyperlink/)\>) override | Sets the hyperlink defined for mouse click. Write [IHyperlink](../ihyperlink/). |
 | void [set_HyperlinkMouseOver](../shape/set_hyperlinkmouseover/)([System::SharedPtr](../../system/sharedptr/)\<[IHyperlink](../ihyperlink/)\>) override | Sets the hyperlink defined for mouse over. Write [IHyperlink](../ihyperlink/). |
 | void [set_Image](../zoomobject/set_image/)([System::SharedPtr](../../system/sharedptr/)\<[IPPImage](../ippimage/)\>) override | Sets image for zoom object. Write [IPPImage](../ippimage/). |
-| void [set_ImageType](../zoomobject/set_imagetype/)([ZoomImageType](../zoomimagetype/)) override | Sets the image type of a zoom object. Write [ZoomImageType](../zoomimagetype/). Default value: Preview. |
+| void [set_ImageType](../zoomobject/set_imagetype/)([ZoomImageType](../zoomimagetype/)) override | Sets the image type of a zoom object. Write [ZoomImageType](../zoomimagetype/). Default value: Preview |
 | void [set_Name](../shape/set_name/)([System::String](../../system/string/)) override | Sets the name of a shape. Must be not null. Use empty string value if needed. Write [System::String](../../system/string/). |
 | void [set_RawFrame](../shape/set_rawframe/)([System::SharedPtr](../../system/sharedptr/)\<[IShapeFrame](../ishapeframe/)\>) override | Sets the raw shape frame's properties. Write [IShapeFrame](../ishapeframe/). |
-| void [set_ReturnToParent](../zoomobject/set_returntoparent/)(**bool**) override | Sets the navigation behavior in slideshow. Write **bool**. Default value: false. |
+| void [set_ReturnToParent](../zoomobject/set_returntoparent/)(**bool**) override | Sets the navigation behavior in slideshow. Write **bool**. Default value: false |
 | void [set_Rotation](../shape/set_rotation/)(**float**) override | Sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Write **float**. |
-| void [set_ShowBackground](../zoomobject/set_showbackground/)(**bool**) override | Sets value that specifies whether the Zoom will use the background of the destination slide. Write **bool**. Default value: true. |
+| void [set_ShowBackground](../zoomobject/set_showbackground/)(**bool**) override | Sets value that specifies whether the Zoom will use the background of the destination slide. Write **bool**. Default value: true |
 | void [set_TargetSection](./set_targetsection/)([System::SharedPtr](../../system/sharedptr/)\<[ISection](../isection/)\>) override | Sets the section object that the [Section](../section/) Zoom object links to. Write [ISection](../isection/). |
-| void [set_TransitionDuration](../zoomobject/set_transitionduration/)(**float**) override | Sets the duration of the transition between Zoom and slide. Write **float**. Default value: 1.0f. |
+| void [set_TransitionDuration](../zoomobject/set_transitionduration/)(**float**) override | Sets the duration of the transition between Zoom and slide. Write **float**. Default value: 1.0f |
 | void [set_Width](../shape/set_width/)(**float**) override | Sets the width of the shape. Write **float**. |
 | void [set_X](../shape/set_x/)(**float**) override | Sets the x-coordinate of the upper-left corner of the shape. Write **float**. |
 | void [set_Y](../shape/set_y/)(**float**) override | Sets the y-coordinate of the upper-left corner of the shape. Write **float**. |

@@ -1,15 +1,15 @@
 ---
-title: GetOrCreateByValue
+title: GetOrCreateByValue()
 second_title: Aspose.Slides for C++ API Reference
-description: Looks for existing behavior property by value or creates new custom one with the specified value.
+description: Looks for existing behavior property by value or creates new custom one with the specified value
 type: docs
 weight: 1626
 url: /cpp/aspose.slides.animation/behaviorproperty/getorcreatebyvalue/
 ---
-## BehaviorProperty::GetOrCreateByValue method
+## BehaviorProperty::GetOrCreateByValue([System::String](../../../system/string/)) method
 
 
-Looks for existing behavior property by value or creates new custom one with the specified value.
+Looks for existing behavior property by value or creates new custom one with the specified value
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::GetOrCreateByValue(System::String propertyValue)

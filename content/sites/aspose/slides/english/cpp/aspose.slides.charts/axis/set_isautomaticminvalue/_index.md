@@ -1,12 +1,12 @@
 ---
-title: set_IsAutomaticMinValue
+title: set_IsAutomaticMinValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether the min value is automatically assigned. Write bool.
 type: docs
 weight: 365
 url: /cpp/aspose.slides.charts/axis/set_isautomaticminvalue/
 ---
-## Axis::set_IsAutomaticMinValue method
+## Axis::set_IsAutomaticMinValue(**bool**) method
 
 
 Indicates whether the min value is automatically assigned. Write **bool**.

@@ -1,12 +1,12 @@
 ---
-title: get_FormatScheme
+title: get_FormatScheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the shape format scheme. Read-only IFormatScheme.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.theme/theme/get_formatscheme/
 ---
-## Theme::get_FormatScheme method
+## Theme::get_FormatScheme() method
 
 
 Returns the shape format scheme. Read-only [IFormatScheme](../../iformatscheme/).

@@ -1,5 +1,5 @@
 ---
-title: CreateMemoryStreamWrapper
+title: CreateMemoryStreamWrapper()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates MemoryStream wrapper.
 type: docs

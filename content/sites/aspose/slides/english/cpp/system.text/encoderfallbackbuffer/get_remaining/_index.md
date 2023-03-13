@@ -1,12 +1,12 @@
 ---
-title: get_Remaining
+title: get_Remaining()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets remaining count of characters to be processed.
 type: docs
 weight: 1
 url: /cpp/system.text/encoderfallbackbuffer/get_remaining/
 ---
-## EncoderFallbackBuffer::get_Remaining method
+## EncoderFallbackBuffer::get_Remaining() const method
 
 
 Gets remaining count of characters to be processed.

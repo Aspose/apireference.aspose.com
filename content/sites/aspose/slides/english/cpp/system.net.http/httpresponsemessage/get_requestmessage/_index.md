@@ -1,12 +1,12 @@
 ---
-title: get_RequestMessage
+title: get_RequestMessage()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the HTTP request message.
 type: docs
 weight: 118
 url: /cpp/system.net.http/httpresponsemessage/get_requestmessage/
 ---
-## HttpResponseMessage::get_RequestMessage method
+## HttpResponseMessage::get_RequestMessage() const method
 
 
 Gets the HTTP request message.

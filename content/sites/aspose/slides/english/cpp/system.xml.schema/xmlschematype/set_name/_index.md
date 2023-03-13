@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the name of the type.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschematype/set_name/
 ---
-## XmlSchemaType::set_Name method
+## XmlSchemaType::set_Name(const [String](../../../system/string/)\&) method
 
 
 Sets the name of the type.

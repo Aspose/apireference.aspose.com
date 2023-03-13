@@ -1,12 +1,12 @@
 ---
-title: set_ShapeTarget
+title: set_ShapeTarget()
 second_title: Aspose.Slides for C++ API Reference
 description: Defines shape target of command effect. Write IShape.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/commandeffect/set_shapetarget/
 ---
-## CommandEffect::set_ShapeTarget method
+## CommandEffect::set_ShapeTarget([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
 
 
 Defines shape target of command effect. Write [IShape](../../../aspose.slides/ishape/).

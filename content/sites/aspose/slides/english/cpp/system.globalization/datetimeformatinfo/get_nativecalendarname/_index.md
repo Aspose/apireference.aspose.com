@@ -1,12 +1,12 @@
 ---
-title: get_NativeCalendarName
+title: get_NativeCalendarName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets native calendar name if available.
 type: docs
 weight: 755
 url: /cpp/system.globalization/datetimeformatinfo/get_nativecalendarname/
 ---
-## DateTimeFormatInfo::get_NativeCalendarName method
+## DateTimeFormatInfo::get_NativeCalendarName() const method
 
 
 Gets native calendar name if available.

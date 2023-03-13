@@ -1,12 +1,12 @@
 ---
-title: TryGetValue
+title: TryGetValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Looks for value and retreives it if found.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/idictionary/trygetvalue/
 ---
-## IDictionary::TryGetValue method
+## IDictionary::TryGetValue(const TKey\&, TValue\&) const method
 
 
 Looks for value and retreives it if found.

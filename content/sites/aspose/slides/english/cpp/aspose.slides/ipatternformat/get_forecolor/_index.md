@@ -1,12 +1,12 @@
 ---
-title: get_ForeColor
+title: get_ForeColor()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the foreground pattern color. Read-only IColorFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/ipatternformat/get_forecolor/
 ---
-## IPatternFormat::get_ForeColor method
+## IPatternFormat::get_ForeColor() method
 
 
 Returns the foreground pattern color. Read-only [IColorFormat](../../icolorformat/).

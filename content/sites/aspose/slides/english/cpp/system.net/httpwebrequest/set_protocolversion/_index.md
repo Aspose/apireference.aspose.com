@@ -1,12 +1,12 @@
 ---
-title: set_ProtocolVersion
+title: set_ProtocolVersion()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the version of the HTTP.
 type: docs
 weight: 1
 url: /cpp/system.net/httpwebrequest/set_protocolversion/
 ---
-## HttpWebRequest::set_ProtocolVersion method
+## HttpWebRequest::set_ProtocolVersion([System::Version](../../../system/version/)) method
 
 
 Sets the version of the HTTP.

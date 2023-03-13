@@ -1,12 +1,12 @@
 ---
-title: get_Families
+title: get_Families()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an array containing all FontFamily objects associated with the current graphics context.
 type: docs
 weight: 157
 url: /cpp/system.drawing/fontfamily/get_families/
 ---
-## FontFamily::get_Families method
+## FontFamily::get_Families() method
 
 
 Returns an array containing all [FontFamily](../) objects associated with the current graphics context.

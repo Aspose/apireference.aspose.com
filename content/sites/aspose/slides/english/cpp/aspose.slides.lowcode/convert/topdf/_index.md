@@ -1,5 +1,5 @@
 ---
-title: ToPdf
+title: ToPdf()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts Presentation to PDF.
 type: docs

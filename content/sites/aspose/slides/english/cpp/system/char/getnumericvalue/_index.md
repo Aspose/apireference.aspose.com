@@ -1,12 +1,12 @@
 ---
-title: GetNumericValue
+title: GetNumericValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified UTF-16 character into double-precision floating-point numerical value.
 type: docs
 weight: 313
 url: /cpp/system/char/getnumericvalue/
 ---
-## Char::GetNumericValue method
+## Char::GetNumericValue(char_t) method
 
 
 Converts the specified UTF-16 character into double-precision floating-point numerical value.

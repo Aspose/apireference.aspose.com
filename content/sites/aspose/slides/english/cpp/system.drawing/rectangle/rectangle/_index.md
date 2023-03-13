@@ -1,5 +1,5 @@
 ---
-title: Rectangle
+title: Rectangle()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of Rectangle object that represents a rectangle with X and Y coordinates and width and hegiht values set to 0.
 type: docs

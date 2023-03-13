@@ -1,12 +1,12 @@
 ---
-title: set_Date
+title: set_Date()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Date' header.
 type: docs
 weight: 248
 url: /cpp/system.net.http.headers/httpresponseheaders/set_date/
 ---
-## HttpResponseHeaders::set_Date method
+## HttpResponseHeaders::set_Date([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
 
 
 Sets a value of the 'Date' header.

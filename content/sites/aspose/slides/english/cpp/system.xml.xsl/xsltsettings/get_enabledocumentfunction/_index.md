@@ -1,12 +1,12 @@
 ---
-title: get_EnableDocumentFunction
+title: get_EnableDocumentFunction()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating whether to enable support for the XSLT document() function.
 type: docs
 weight: 27
 url: /cpp/system.xml.xsl/xsltsettings/get_enabledocumentfunction/
 ---
-## XsltSettings::get_EnableDocumentFunction method
+## XsltSettings::get_EnableDocumentFunction() method
 
 
 Returns a value indicating whether to enable support for the XSLT **document()** function.

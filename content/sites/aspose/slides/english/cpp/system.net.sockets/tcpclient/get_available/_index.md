@@ -1,12 +1,12 @@
 ---
-title: get_Available
+title: get_Available()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of bytes that are received and ready to read.
 type: docs
 weight: 27
 url: /cpp/system.net.sockets/tcpclient/get_available/
 ---
-## TcpClient::get_Available method
+## TcpClient::get_Available() method
 
 
 Returns the number of bytes that are received and ready to read.

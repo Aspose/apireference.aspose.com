@@ -1,12 +1,12 @@
 ---
-title: set_IsObjectIcon
+title: set_IsObjectIcon()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an object is visible as icon. Write bool.
 type: docs
 weight: 196
 url: /cpp/aspose.slides/oleobjectframe/set_isobjecticon/
 ---
-## OleObjectFrame::set_IsObjectIcon method
+## OleObjectFrame::set_IsObjectIcon(**bool**) method
 
 
 Determines whether an object is visible as icon. Write **bool**.

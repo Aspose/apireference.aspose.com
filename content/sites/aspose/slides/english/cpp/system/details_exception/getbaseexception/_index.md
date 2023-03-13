@@ -1,12 +1,12 @@
 ---
-title: GetBaseException
+title: GetBaseException()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the copy of Exception object representing the inner-most exception.
 type: docs
 weight: 40
 url: /cpp/system/details_exception/getbaseexception/
 ---
-## Details_Exception::GetBaseException method
+## Details_Exception::GetBaseException() const method
 
 
 Returns the copy of Exception object representing the inner-most exception.

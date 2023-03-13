@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether two TabsEx instances are equal.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/tabcollection/equals/
 ---
-## TabCollection::Equals method
+## TabCollection::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether two TabsEx instances are equal.

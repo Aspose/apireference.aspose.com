@@ -1,12 +1,12 @@
 ---
-title: CloneIterator
+title: CloneIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/system.collections.generic.details/enumeratorcastadapter/cloneiterator/
 ---
-## EnumeratorCastAdapter::CloneIterator method
+## EnumeratorCastAdapter::CloneIterator() const method
 
 
 

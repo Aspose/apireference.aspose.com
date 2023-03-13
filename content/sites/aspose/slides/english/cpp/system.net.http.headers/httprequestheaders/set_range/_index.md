@@ -1,12 +1,12 @@
 ---
-title: set_Range
+title: set_Range()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Range' header.
 type: docs
 weight: 339
 url: /cpp/system.net.http.headers/httprequestheaders/set_range/
 ---
-## HttpRequestHeaders::set_Range method
+## HttpRequestHeaders::set_Range([System::SharedPtr](../../../system/sharedptr/)\<[RangeHeaderValue](../../rangeheadervalue/)\>) method
 
 
 Sets a value of the 'Range' header.

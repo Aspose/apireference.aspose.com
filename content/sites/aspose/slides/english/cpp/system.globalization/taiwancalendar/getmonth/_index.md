@@ -1,12 +1,12 @@
 ---
-title: GetMonth
+title: GetMonth()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets month for the specified time point.
 type: docs
 weight: 157
 url: /cpp/system.globalization/taiwancalendar/getmonth/
 ---
-## TaiwanCalendar::GetMonth method
+## TaiwanCalendar::GetMonth([DateTime](../../../system/datetime/)) const method
 
 
 Gets month for the specified time point.

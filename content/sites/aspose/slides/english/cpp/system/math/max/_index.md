@@ -1,5 +1,5 @@
 ---
-title: Max
+title: Max()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the greatest value out of two numeric ones specified.
 type: docs

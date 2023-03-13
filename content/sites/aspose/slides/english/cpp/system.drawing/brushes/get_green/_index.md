@@ -1,12 +1,12 @@
 ---
-title: get_Green
+title: get_Green()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the solid fill color whose hexadecimal value is #FF008000.
 type: docs
 weight: 664
 url: /cpp/system.drawing/brushes/get_green/
 ---
-## Brushes::get_Green method
+## Brushes::get_Green() method
 
 
 Returns the solid fill color whose hexadecimal value is #FF008000.

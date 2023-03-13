@@ -1,5 +1,5 @@
 ---
-title: GetBuiltInComplexType
+title: GetBuiltInComplexType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an XmlSchemaComplexType that represents the built-in complex type of the complex type specified.
 type: docs

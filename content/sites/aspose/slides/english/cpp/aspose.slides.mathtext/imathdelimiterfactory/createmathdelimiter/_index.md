@@ -1,7 +1,7 @@
 ---
-title: CreateMathDelimiter
+title: CreateMathDelimiter()
 second_title: Aspose.Slides for C++ API Reference
-description: Create a math delimiter by applying to the element.
+description: Create a math delimiter by applying to the element
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathdelimiterfactory/createmathdelimiter/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathdelimiterfactory/createmathdelimiter/
 ## IMathDelimiterFactory::CreateMathDelimiter([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Create a math delimiter by applying to the element.
+Create a math delimiter by applying to the element
 
 ```cpp
 virtual System::SharedPtr<IMathDelimiter> Aspose::Slides::MathText::IMathDelimiterFactory::CreateMathDelimiter(System::SharedPtr<IMathElement> element)=0
@@ -37,7 +37,7 @@ new math delimiter
 ## IMathDelimiterFactory::CreateMathDelimiter([System::SharedPtr](../../../system/sharedptr/)\<[IMathElementCollection](../../imathelementcollection/)\>) method
 
 
-Create a math delimiter by applying to the element.
+Create a math delimiter by applying to the element
 
 ```cpp
 virtual System::SharedPtr<IMathDelimiter> Aspose::Slides::MathText::IMathDelimiterFactory::CreateMathDelimiter(System::SharedPtr<IMathElementCollection> mathElements)=0

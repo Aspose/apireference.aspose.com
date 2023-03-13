@@ -1,5 +1,5 @@
 ---
-title: IntersectClip
+title: IntersectClip()
 second_title: Aspose.Slides for C++ API Reference
 description: Updates the clip region of this object to the intersection of the current clip and the specified clip.
 type: docs

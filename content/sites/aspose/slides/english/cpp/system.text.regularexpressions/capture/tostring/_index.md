@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets captured substring.
 type: docs
 weight: 53
 url: /cpp/system.text.regularexpressions/capture/tostring/
 ---
-## Capture::ToString method
+## Capture::ToString() const method
 
 
 Gets captured substring.

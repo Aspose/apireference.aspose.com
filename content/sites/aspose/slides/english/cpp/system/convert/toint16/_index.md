@@ -1,5 +1,5 @@
 ---
-title: ToInt16
+title: ToInt16()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified boolean value to an equivalent 16-bit signed integer.
 type: docs

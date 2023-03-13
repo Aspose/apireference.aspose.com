@@ -1,12 +1,12 @@
 ---
-title: HasSeriesTrendLines
+title: HasSeriesTrendLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns if there are series trend lines for specified series type.
 type: docs
 weight: 235
 url: /cpp/aspose.slides.charts/charttypecharacterizer/hasseriestrendlines/
 ---
-## ChartTypeCharacterizer::HasSeriesTrendLines method
+## ChartTypeCharacterizer::HasSeriesTrendLines([ChartType](../../charttype/)) method
 
 
 Returns if there are series trend lines for specified series type.

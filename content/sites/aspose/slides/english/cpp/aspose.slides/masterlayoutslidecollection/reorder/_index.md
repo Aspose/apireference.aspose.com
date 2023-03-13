@@ -1,12 +1,12 @@
 ---
-title: Reorder
+title: Reorder()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves layout slide from the collection to the specified position.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/masterlayoutslidecollection/reorder/
 ---
-## MasterLayoutSlideCollection::Reorder method
+## MasterLayoutSlideCollection::Reorder(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
 
 
 Moves layout slide from the collection to the specified position.

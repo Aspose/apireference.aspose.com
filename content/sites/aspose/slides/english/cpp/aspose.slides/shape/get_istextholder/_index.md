@@ -1,12 +1,12 @@
 ---
-title: get_IsTextHolder
+title: get_IsTextHolder()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the shape is TextHolder_PPT. Read-only bool.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/shape/get_istextholder/
 ---
-## Shape::get_IsTextHolder method
+## Shape::get_IsTextHolder() method
 
 
 Determines whether the shape is TextHolder_PPT. Read-only **bool**.

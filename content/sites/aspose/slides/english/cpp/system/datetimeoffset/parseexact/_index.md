@@ -1,5 +1,5 @@
 ---
-title: ParseExact
+title: ParseExact()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified string to DateTimeOffset object using the specified format, format provider and formatting style.
 type: docs

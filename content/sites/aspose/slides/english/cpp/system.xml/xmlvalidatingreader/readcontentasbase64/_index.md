@@ -1,12 +1,12 @@
 ---
-title: ReadContentAsBase64
+title: ReadContentAsBase64()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the content and returns the Base64 decoded binary bytes.
 type: docs
 weight: 573
 url: /cpp/system.xml/xmlvalidatingreader/readcontentasbase64/
 ---
-## XmlValidatingReader::ReadContentAsBase64 method
+## XmlValidatingReader::ReadContentAsBase64([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**) method
 
 
 Reads the content and returns the Base64 decoded binary bytes.

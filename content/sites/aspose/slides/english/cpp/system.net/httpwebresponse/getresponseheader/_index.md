@@ -1,12 +1,12 @@
 ---
-title: GetResponseHeader
+title: GetResponseHeader()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the corresponding value for the specified header name.
 type: docs
 weight: 118
 url: /cpp/system.net/httpwebresponse/getresponseheader/
 ---
-## HttpWebResponse::GetResponseHeader method
+## HttpWebResponse::GetResponseHeader([String](../../../system/string/)) method
 
 
 Returns the corresponding value for the specified header name.

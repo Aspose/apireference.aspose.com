@@ -1,12 +1,12 @@
 ---
-title: set_DomainImplicit
+title: set_DomainImplicit()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the domain is implicit.
 type: docs
 weight: 144
 url: /cpp/system.net/cookie/set_domainimplicit/
 ---
-## Cookie::set_DomainImplicit method
+## Cookie::set_DomainImplicit(**bool**) method
 
 
 Sets a value that indicates if the domain is implicit.

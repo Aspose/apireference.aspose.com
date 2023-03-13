@@ -1,12 +1,12 @@
 ---
-title: set_FileName
+title: set_FileName()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets process file name.
 type: docs
 weight: 235
 url: /cpp/system.diagnostics/processstartinfo/set_filename/
 ---
-## ProcessStartInfo::set_FileName method
+## ProcessStartInfo::set_FileName(const [String](../../../system/string/)\&) method
 
 
 Sets process file name.

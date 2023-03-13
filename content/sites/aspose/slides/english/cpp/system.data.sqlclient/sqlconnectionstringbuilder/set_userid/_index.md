@@ -1,12 +1,12 @@
 ---
-title: set_UserID
+title: set_UserID()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets user id to use for connection.
 type: docs
 weight: 170
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_userid/
 ---
-## SqlConnectionStringBuilder::set_UserID method
+## SqlConnectionStringBuilder::set_UserID(const [String](../../../system/string/)\&) method
 
 
 Sets user id to use for connection.

@@ -1,12 +1,12 @@
 ---
-title: get_ASCII
+title: get_ASCII()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets ASCII encoding.
 type: docs
 weight: 391
 url: /cpp/system.text/encoding/get_ascii/
 ---
-## Encoding::get_ASCII method
+## Encoding::get_ASCII() method
 
 
 Gets ASCII encoding.

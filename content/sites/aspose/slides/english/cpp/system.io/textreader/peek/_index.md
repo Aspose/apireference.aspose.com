@@ -1,12 +1,12 @@
 ---
-title: Peek
+title: Peek()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads a single character from the stream without changing the stream's read cursor.
 type: docs
 weight: 27
 url: /cpp/system.io/textreader/peek/
 ---
-## TextReader::Peek method
+## TextReader::Peek() method
 
 
 Reads a single character from the stream without changing the stream's read cursor.

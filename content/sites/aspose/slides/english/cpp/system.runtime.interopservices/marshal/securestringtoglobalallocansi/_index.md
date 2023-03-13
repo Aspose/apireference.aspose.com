@@ -1,12 +1,12 @@
 ---
-title: SecureStringToGlobalAllocAnsi
+title: SecureStringToGlobalAllocAnsi()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies contents of specified secure string into unmanaged memory, converting into ANSI format.
 type: docs
 weight: 118
 url: /cpp/system.runtime.interopservices/marshal/securestringtoglobalallocansi/
 ---
-## Marshal::SecureStringToGlobalAllocAnsi method
+## Marshal::SecureStringToGlobalAllocAnsi(const [SharedPtr](../../../system/sharedptr/)\<[Security::SecureString](../../../system.security/securestring/)\>\&) method
 
 
 Copies contents of specified secure string into unmanaged memory, converting into ANSI format.

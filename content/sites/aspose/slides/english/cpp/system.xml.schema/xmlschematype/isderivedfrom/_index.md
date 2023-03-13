@@ -1,12 +1,12 @@
 ---
-title: IsDerivedFrom
+title: IsDerivedFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value indicating if the derived schema type specified is derived from the base schema type specified.
 type: docs
 weight: 209
 url: /cpp/system.xml.schema/xmlschematype/isderivedfrom/
 ---
-## XmlSchemaType::IsDerivedFrom method
+## XmlSchemaType::IsDerivedFrom([SharedPtr](../../../system/sharedptr/)\<[XmlSchemaType](../)\>, const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaType](../)\>\&, [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)) method
 
 
 Returns a value indicating if the derived schema type specified is derived from the base schema type specified.

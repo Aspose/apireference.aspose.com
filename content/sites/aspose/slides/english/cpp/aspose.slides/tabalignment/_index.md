@@ -19,10 +19,10 @@ enum class TabAlignment
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | 0 | Left alignment. |
-| Center | 1 | Center alignment. |
-| Right | 2 | Right alignment. |
-| Decimal | 3 | Decimal alignment. |
+| Left | 0 | Left alignment |
+| Center | 1 | Center alignment |
+| Right | 2 | Right alignment |
+| Decimal | 3 | Decimal alignment |
 
 ## See Also
 

@@ -1,12 +1,12 @@
 ---
-title: get_ShowBubbleSize
+title: get_ShowBubbleSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents a specified chart's data label bubble size value display behavior. True displays the bubble size value. False to hide. Read bool.
 type: docs
 weight: 222
 url: /cpp/aspose.slides.charts/datalabelformat/get_showbubblesize/
 ---
-## DataLabelFormat::get_ShowBubbleSize method
+## DataLabelFormat::get_ShowBubbleSize() method
 
 
 Represents a specified chart's data label bubble size value display behavior. True displays the bubble size value. False to hide. Read **bool**.

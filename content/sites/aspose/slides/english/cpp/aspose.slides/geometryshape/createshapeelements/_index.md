@@ -1,12 +1,12 @@
 ---
-title: CreateShapeElements
+title: CreateShapeElements()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates and returns array of shape's elements.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/geometryshape/createshapeelements/
 ---
-## GeometryShape::CreateShapeElements method
+## GeometryShape::CreateShapeElements() method
 
 
 Creates and returns array of shape's elements.

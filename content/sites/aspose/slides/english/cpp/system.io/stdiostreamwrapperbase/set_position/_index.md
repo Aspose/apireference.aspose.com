@@ -1,12 +1,12 @@
 ---
-title: set_Position
+title: set_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the stream's position.
 type: docs
 weight: 53
 url: /cpp/system.io/stdiostreamwrapperbase/set_position/
 ---
-## STDIOStreamWrapperBase::set_Position method
+## STDIOStreamWrapperBase::set_Position(**int64_t**) method
 
 
 Sets the stream's position.

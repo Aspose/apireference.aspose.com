@@ -1,12 +1,12 @@
 ---
-title: SetAllDateTimesText
+title: SetAllDateTimesText()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets text to all date-time placeholders, including master slides, layout slides and slides.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/ipresentationheaderfootermanager/setalldatetimestext/
 ---
-## IPresentationHeaderFooterManager::SetAllDateTimesText method
+## IPresentationHeaderFooterManager::SetAllDateTimesText([System::String](../../../system/string/)) method
 
 
 Sets text to all date-time placeholders, including master slides, layout slides and slides.

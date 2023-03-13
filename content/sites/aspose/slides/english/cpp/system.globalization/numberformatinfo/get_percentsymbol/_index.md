@@ -1,12 +1,12 @@
 ---
-title: get_PercentSymbol
+title: get_PercentSymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets percent symbol.
 type: docs
 weight: 118
 url: /cpp/system.globalization/numberformatinfo/get_percentsymbol/
 ---
-## NumberFormatInfo::get_PercentSymbol method
+## NumberFormatInfo::get_PercentSymbol() const method
 
 
 Gets percent symbol.

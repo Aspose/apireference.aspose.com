@@ -1,12 +1,12 @@
 ---
-title: Substring
+title: Substring()
 second_title: Aspose.Slides for C++ API Reference
 description: Retrieves a substring of the full string from the specified range.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlcharacterdata/substring/
 ---
-## XmlCharacterData::Substring method
+## XmlCharacterData::Substring(**int32_t**, **int32_t**) method
 
 
 Retrieves a substring of the full string from the specified range.

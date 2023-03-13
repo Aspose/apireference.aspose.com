@@ -1,5 +1,5 @@
 ---
-title: String
+title: String()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor. Creates string object which is considered null.
 type: docs

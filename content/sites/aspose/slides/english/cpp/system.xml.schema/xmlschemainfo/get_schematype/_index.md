@@ -1,12 +1,12 @@
 ---
-title: get_SchemaType
+title: get_SchemaType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the static XML Schema Definition Language (XSD) schema type of this validated XML node.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemainfo/get_schematype/
 ---
-## XmlSchemaInfo::get_SchemaType method
+## XmlSchemaInfo::get_SchemaType() method
 
 
 Returns the static XML [Schema](../../) Definition Language (XSD) schema type of this validated XML node.

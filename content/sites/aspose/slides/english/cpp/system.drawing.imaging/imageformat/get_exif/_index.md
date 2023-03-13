@@ -1,12 +1,12 @@
 ---
-title: get_Exif
+title: get_Exif()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shared pointer to an ImageFormat object that represents the Exchangeable Image File (Exif) format.
 type: docs
 weight: 157
 url: /cpp/system.drawing.imaging/imageformat/get_exif/
 ---
-## ImageFormat::get_Exif method
+## ImageFormat::get_Exif() method
 
 
 Returns a shared pointer to an [ImageFormat](../) object that represents the Exchangeable [Image](../../../system.drawing/image/) File (Exif) format.

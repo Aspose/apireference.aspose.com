@@ -1,12 +1,12 @@
 ---
-title: get_SortableDateTimePattern
+title: get_SortableDateTimePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets sortable date and time pattern.
 type: docs
 weight: 586
 url: /cpp/system.globalization/datetimeformatinfo/get_sortabledatetimepattern/
 ---
-## DateTimeFormatInfo::get_SortableDateTimePattern method
+## DateTimeFormatInfo::get_SortableDateTimePattern() const method
 
 
 Gets sortable date and time pattern.

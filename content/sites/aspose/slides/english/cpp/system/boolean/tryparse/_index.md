@@ -1,12 +1,12 @@
 ---
-title: TryParse
+title: TryParse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the specified string to a value of bool type.
 type: docs
 weight: 14
 url: /cpp/system/boolean/tryparse/
 ---
-## Boolean::TryParse method
+## Boolean::TryParse(const [String](../../string/)\&, **bool**\&) method
 
 
 Converts the specified string to a value of bool type.

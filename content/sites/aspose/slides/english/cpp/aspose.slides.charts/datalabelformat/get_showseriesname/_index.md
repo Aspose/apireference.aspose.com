@@ -1,12 +1,12 @@
 ---
-title: get_ShowSeriesName
+title: get_ShowSeriesName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Boolean to indicate the series name display behavior for the data labels on a chart. True to show the series name. False to hide. Read bool.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/datalabelformat/get_showseriesname/
 ---
-## DataLabelFormat::get_ShowSeriesName method
+## DataLabelFormat::get_ShowSeriesName() method
 
 
 Returns a Boolean to indicate the series name display behavior for the data labels on a chart. True to show the series name. False to hide. Read **bool**.

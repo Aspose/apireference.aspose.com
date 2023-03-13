@@ -1,12 +1,12 @@
 ---
-title: AddDataPointForWaterfallSeries
+title: AddDataPointForWaterfallSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates the new data point and adds it to the end of collection. Applicable for series which chart type is Waterfall.
 type: docs
 weight: 378
 url: /cpp/aspose.slides.charts/chartdatapointcollection/adddatapointforwaterfallseries/
 ---
-## ChartDataPointCollection::AddDataPointForWaterfallSeries method
+## ChartDataPointCollection::AddDataPointForWaterfallSeries([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataCell](../../ichartdatacell/)\>) method
 
 
 Creates the new data point and adds it to the end of collection. Applicable for series which chart type is Waterfall.

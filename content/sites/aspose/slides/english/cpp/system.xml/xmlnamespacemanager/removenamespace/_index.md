@@ -1,12 +1,12 @@
 ---
-title: RemoveNamespace
+title: RemoveNamespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the given namespace for the given prefix.
 type: docs
 weight: 79
 url: /cpp/system.xml/xmlnamespacemanager/removenamespace/
 ---
-## XmlNamespaceManager::RemoveNamespace method
+## XmlNamespaceManager::RemoveNamespace([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Removes the given namespace for the given prefix.

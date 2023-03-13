@@ -1,12 +1,12 @@
 ---
-title: set_Y
+title: set_Y()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the Y coordinate of the upper left corner of the rectangle represented by the current object.
 type: docs
 weight: 105
 url: /cpp/system.drawing/rectanglef/set_y/
 ---
-## RectangleF::set_Y method
+## RectangleF::set_Y(**float**) method
 
 
 Sets the Y coordinate of the upper left corner of the rectangle represented by the current object.

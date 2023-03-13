@@ -1,12 +1,12 @@
 ---
-title: Stop
+title: Stop()
 second_title: Aspose.Slides for C++ API Reference
 description: Stops time measurement.
 type: docs
 weight: 40
 url: /cpp/system.diagnostics/stopwatch/stop/
 ---
-## Stopwatch::Stop method
+## Stopwatch::Stop() method
 
 
 Stops time measurement.

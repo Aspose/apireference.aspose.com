@@ -1,12 +1,12 @@
 ---
-title: get_LightSlateGray
+title: get_LightSlateGray()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF778899.
 type: docs
 weight: 1197
 url: /cpp/system.drawing/color/get_lightslategray/
 ---
-## Color::get_LightSlateGray method
+## Color::get_LightSlateGray() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF778899.

@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the URI constructed by the current object.
 type: docs
 weight: 40
 url: /cpp/system/uribuilder/tostring/
 ---
-## UriBuilder::ToString method
+## UriBuilder::ToString() const method
 
 
 Returns the string representation of the URI constructed by the current object.

@@ -1,15 +1,15 @@
 ---
-title: get_StrokeStartArrowWidth
+title: get_StrokeStartArrowWidth()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'stroke.startArrowWidth' property.
+description: Represents 'stroke.startArrowWidth' property
 type: docs
 weight: 872
 url: /cpp/aspose.slides.animation/behaviorproperty/get_strokestartarrowwidth/
 ---
-## BehaviorProperty::get_StrokeStartArrowWidth method
+## BehaviorProperty::get_StrokeStartArrowWidth() method
 
 
-Represents 'stroke.startArrowWidth' property.
+Represents 'stroke.startArrowWidth' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StrokeStartArrowWidth()

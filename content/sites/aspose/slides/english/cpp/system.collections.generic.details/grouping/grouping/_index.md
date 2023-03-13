@@ -1,12 +1,12 @@
 ---
-title: Grouping
+title: Grouping()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system.collections.generic.details/grouping/grouping/
 ---
-## Grouping::Grouping constructor
+## Grouping::Grouping(Key, [System::Func](../../../system/func/)\<**bool**\>) constructor
 
 
 

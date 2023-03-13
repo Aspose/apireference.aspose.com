@@ -1,12 +1,12 @@
 ---
-title: CompareTo
+title: CompareTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two date and time values represented by the current object and the specified instance of DateTime class and returns the value indicating values' relative positions on the time line.
 type: docs
 weight: 443
 url: /cpp/system/datetime/compareto/
 ---
-## DateTime::CompareTo method
+## DateTime::CompareTo([DateTime](../)) const method
 
 
 Compares two date and time values represented by the current object and the specified instance of [DateTime](../) class and returns the value indicating values' relative positions on the time line.

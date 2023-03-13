@@ -1,12 +1,12 @@
 ---
-title: unlock
+title: unlock()
 second_title: Aspose.Slides for C++ API Reference
 description: Unlocks object.
 type: docs
 weight: 27
 url: /cpp/system/lockcontext/unlock/
 ---
-## LockContext::unlock method
+## LockContext::unlock() method
 
 
 Unlocks object.

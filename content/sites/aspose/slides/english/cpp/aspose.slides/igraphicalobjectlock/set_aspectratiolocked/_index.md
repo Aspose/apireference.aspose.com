@@ -1,12 +1,12 @@
 ---
-title: set_AspectRatioLocked
+title: set_AspectRatioLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether shape have to preserve aspect ratio on resizing. Write bool.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/igraphicalobjectlock/set_aspectratiolocked/
 ---
-## IGraphicalObjectLock::set_AspectRatioLocked method
+## IGraphicalObjectLock::set_AspectRatioLocked(**bool**) method
 
 
 Determines whether shape have to preserve aspect ratio on resizing. Write **bool**.

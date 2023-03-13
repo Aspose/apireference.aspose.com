@@ -1,12 +1,12 @@
 ---
-title: get_GroupingLevelCount
+title: get_GroupingLevelCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns count of category grouping levels used. Is more then one for multilevel categories. Read-only int32_t.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/chartcategorycollection/get_groupinglevelcount/
 ---
-## ChartCategoryCollection::get_GroupingLevelCount method
+## ChartCategoryCollection::get_GroupingLevelCount() method
 
 
 Returns count of category grouping levels used. Is more then one for multilevel categories. Read-only **int32_t**.

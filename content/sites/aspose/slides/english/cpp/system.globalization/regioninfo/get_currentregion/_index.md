@@ -1,12 +1,12 @@
 ---
-title: get_CurrentRegion
+title: get_CurrentRegion()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets region set in system.
 type: docs
 weight: 235
 url: /cpp/system.globalization/regioninfo/get_currentregion/
 ---
-## RegionInfo::get_CurrentRegion method
+## RegionInfo::get_CurrentRegion() method
 
 
 Gets region set in system.

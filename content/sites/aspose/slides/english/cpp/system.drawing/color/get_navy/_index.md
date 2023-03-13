@@ -1,12 +1,12 @@
 ---
-title: get_Navy
+title: get_Navy()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF000080.
 type: docs
 weight: 1483
 url: /cpp/system.drawing/color/get_navy/
 ---
-## Color::get_Navy method
+## Color::get_Navy() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF000080.

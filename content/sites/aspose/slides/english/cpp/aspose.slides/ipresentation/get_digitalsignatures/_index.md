@@ -1,12 +1,12 @@
 ---
-title: get_DigitalSignatures
+title: get_DigitalSignatures()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of signatures used to sign the presentation. Read-only IDigitalSignatureCollection.
 type: docs
 weight: 378
 url: /cpp/aspose.slides/ipresentation/get_digitalsignatures/
 ---
-## IPresentation::get_DigitalSignatures method
+## IPresentation::get_DigitalSignatures() method
 
 
 Returns the collection of signatures used to sign the presentation. Read-only [IDigitalSignatureCollection](../../idigitalsignaturecollection/).

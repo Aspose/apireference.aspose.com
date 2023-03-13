@@ -1,12 +1,12 @@
 ---
-title: set_PublicId
+title: set_PublicId()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the public identifier.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlparsercontext/set_publicid/
 ---
-## XmlParserContext::set_PublicId method
+## XmlParserContext::set_PublicId(const [String](../../../system/string/)\&) method
 
 
 Sets the public identifier.

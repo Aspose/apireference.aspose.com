@@ -1,7 +1,7 @@
 ---
 title: IWarningCallback
 second_title: Aspose.Slides for C++ API Reference
-description: Interface for classes which receive warning.
+description: Interface for classes which receive warning
 type: docs
 weight: 53
 url: /cpp/aspose.slides.warnings/iwarningcallback/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.warnings/iwarningcallback/
 ## IWarningCallback class
 
 
-Interface for classes which receive warning.
+Interface for classes which receive warning
 
 ```cpp
 class IWarningCallback : public System::Object

@@ -1,12 +1,12 @@
 ---
-title: AddAlphaModulateEffect
+title: AddAlphaModulateEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the new Alpha Modulate effect to the end of a collection.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addalphamodulateeffect/
 ---
-## IImageTransformOperationCollection::AddAlphaModulateEffect method
+## IImageTransformOperationCollection::AddAlphaModulateEffect() method
 
 
 Adds the new Alpha Modulate effect to the end of a collection.

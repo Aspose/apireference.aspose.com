@@ -1,5 +1,5 @@
 ---
-title: FontFamily
+title: FontFamily()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of FontFamily class that represents a font family with the specified name.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Implements IList method. Not supported.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/_valuecollection/idx_get/
 ---
-## _ValueCollection::idx_get method
+## _ValueCollection::idx_get(int) const method
 
 
 Implements [IList](../../ilist/) method. Not supported.

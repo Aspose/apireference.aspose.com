@@ -1,12 +1,12 @@
 ---
-title: get_Type
+title: get_Type()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents type of filter effect. Read FilterEffectType.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/filtereffect/get_type/
 ---
-## FilterEffect::get_Type method
+## FilterEffect::get_Type() method
 
 
 Represents type of filter effect. Read [FilterEffectType](../../filtereffecttype/).

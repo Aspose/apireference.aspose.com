@@ -1,12 +1,12 @@
 ---
-title: GroupCollection
+title: GroupCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.text.regularexpressions/groupcollection/groupcollection/
 ---
-## GroupCollection::GroupCollection constructor
+## GroupCollection::GroupCollection(const [WeakPtr](../../../system/weakptr/)\<[Match](../../match/)\>\&) constructor
 
 
 Constructor.

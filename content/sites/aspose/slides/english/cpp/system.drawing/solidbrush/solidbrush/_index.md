@@ -1,12 +1,12 @@
 ---
-title: SolidBrush
+title: SolidBrush()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new SolidBrush object and initalizes it with the specified color.
 type: docs
 weight: 1
 url: /cpp/system.drawing/solidbrush/solidbrush/
 ---
-## SolidBrush::SolidBrush constructor
+## SolidBrush::SolidBrush(const [Color](../../color/)\&) constructor
 
 
 Constructs a new [SolidBrush](../) object and initalizes it with the specified color.

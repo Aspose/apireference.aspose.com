@@ -1,12 +1,12 @@
 ---
-title: getInternalPtr
+title: getInternalPtr()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets raw object referenced pointer points to.
 type: docs
 weight: 92
 url: /cpp/system/smartptrinfo/getinternalptr/
 ---
-## SmartPtrInfo::getInternalPtr method
+## SmartPtrInfo::getInternalPtr() const method
 
 
 Gets raw object referenced pointer points to.

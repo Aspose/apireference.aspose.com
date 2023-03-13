@@ -1,12 +1,12 @@
 ---
-title: get_ValueAsLong
+title: get_ValueAsLong()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the validated XML element or attribute's value as an Int64.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlatomicvalue/get_valueaslong/
 ---
-## XmlAtomicValue::get_ValueAsLong method
+## XmlAtomicValue::get_ValueAsLong() method
 
 
 Returns the validated XML element or attribute's value as an [Int64](../../../system/int64/).

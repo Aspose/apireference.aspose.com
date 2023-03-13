@@ -59,6 +59,7 @@ class IColorFormat : public Aspose::Slides::IFillParamSource
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
 | virtual void [set_B](./set_b/)(**uint8_t**) | Sets the blue component of a color. All color transformations are ignored. Write **uint8_t**. |
 | virtual void [set_Color](./set_color/)([System::Drawing::Color](../../system.drawing/color/)) | Returns resulting color (with all color transformations applied). Sets RGB colors and clears all color transformations. Write [System::Drawing::Color](../../system.drawing/color/). |
+| virtual void [set_ColorOperation](./set_coloroperation/)(**int32_t**, [System::SharedPtr](../../system/sharedptr/)\<[IColorOperation](../icoloroperation/)\>) | Set color transformation operation applied to color at the specified index. Read/write [Aspose::Slides::IColorOperation](../icoloroperation/) |
 | virtual void [set_ColorType](./set_colortype/)([Aspose::Slides::ColorType](../colortype/)) | Sets the color definition method. Write [Slides::ColorType](../colortype/). |
 | virtual void [set_FloatB](./set_floatb/)(**float**) | Sets the blue component of a color. All color transformations are ignored. Write **float**. |
 | virtual void [set_FloatG](./set_floatg/)(**float**) | Sets the green component of a color. All color transformations are ignored. Write **float**. |

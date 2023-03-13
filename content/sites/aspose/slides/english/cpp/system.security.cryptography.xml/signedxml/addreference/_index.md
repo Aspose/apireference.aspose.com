@@ -1,12 +1,12 @@
 ---
-title: AddReference
+title: AddReference()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 170
 url: /cpp/system.security.cryptography.xml/signedxml/addreference/
 ---
-## SignedXml::AddReference method
+## SignedXml::AddReference([SharedPtr](../../../system/sharedptr/)\<[Reference](../../reference/)\>) method
 
 
 

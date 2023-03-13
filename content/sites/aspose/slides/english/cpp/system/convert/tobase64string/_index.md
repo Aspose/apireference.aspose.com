@@ -1,5 +1,5 @@
 ---
-title: ToBase64String
+title: ToBase64String()
 second_title: Aspose.Slides for C++ API Reference
 description: Base-64 encodes elements in the specified byte array and returns the encoded data as a string.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes all elements in set.
 type: docs
 weight: 131
 url: /cpp/system.collections.generic/hashset/clear/
 ---
-## HashSet::Clear method
+## HashSet::Clear() method
 
 
 Deletes all elements in set.

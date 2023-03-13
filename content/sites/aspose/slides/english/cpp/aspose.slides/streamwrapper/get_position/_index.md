@@ -1,12 +1,12 @@
 ---
-title: get_Position
+title: get_Position()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the position within the current stream. Read-only int64_t.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/streamwrapper/get_position/
 ---
-## StreamWrapper::get_Position method
+## StreamWrapper::get_Position() method
 
 
 Gets the position within the current stream. Read-only **int64_t**.

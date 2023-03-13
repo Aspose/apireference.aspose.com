@@ -48,12 +48,12 @@ class Vector2d64d : public System::Object,
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | int [SharedRefRemovedSafe](../../system/object/sharedrefremovedsafe/)() | Decrements and returns shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
-| void [SwapXY](./swapxy/)() | Swap X and Y. |
+| void [SwapXY](./swapxy/)() | Swap X and Y |
 | [System::String](../../system/string/) [ToString](./tostring/)() const override | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 | [Vector2d32f](../vector2d32f/) [ToVector2d32f](./tovector2d32f/)() | To [Vector2d32f](../vector2d32f/) |
 | static const [TypeInfo](../../system/typeinfo/)\& [Type](../../system/object/type/)() | Implements C# typeof([System.Object](../../system/object/)) construct. |
 | void [Unlock](../../system/object/unlock/)() | Implements C# lock() statement unlocking. Call directly or use [LockContext](../../system/lockcontext/) sentry object. |
-|  [Vector2d64d](./vector2d64d/)(**double**, **double**) | Constructor. |
+|  [Vector2d64d](./vector2d64d/)(**double**, **double**) | Constructor |
 |  [Vector2d64d](./vector2d64d/)() |  |
 | Detail::SmartPtrCounter * [WeakRefAdded](../../system/object/weakrefadded/)() | Increments weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |
 | void [WeakRefRemoved](../../system/object/weakrefremoved/)() | Decrements weak reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

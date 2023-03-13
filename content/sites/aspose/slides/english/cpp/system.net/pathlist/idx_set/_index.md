@@ -1,12 +1,12 @@
 ---
-title: idx_set
+title: idx_set()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the cookie collection by specified path.
 type: docs
 weight: 53
 url: /cpp/system.net/pathlist/idx_set/
 ---
-## PathList::idx_set method
+## PathList::idx_set([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[CookieCollection](../../cookiecollection/)\>) method
 
 
 Sets the cookie collection by specified path.

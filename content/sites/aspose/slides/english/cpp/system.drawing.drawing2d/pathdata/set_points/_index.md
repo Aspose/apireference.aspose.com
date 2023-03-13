@@ -1,12 +1,12 @@
 ---
-title: set_Points
+title: set_Points()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets an array containing the points that make up a path.
 type: docs
 weight: 14
 url: /cpp/system.drawing.drawing2d/pathdata/set_points/
 ---
-## PathData::set_Points method
+## PathData::set_Points(const [ArrayPtr](../../../system/arrayptr/)\<[PointF](../../../system.drawing/pointf/)\>\&) method
 
 
 Sets an array containing the points that make up a path.

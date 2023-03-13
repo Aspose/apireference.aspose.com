@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 40
 url: /cpp/system.collections.generic.details/grouping/add/
 ---
-## Grouping::Add method
+## Grouping::Add(Source) method
 
 
 

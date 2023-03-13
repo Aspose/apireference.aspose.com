@@ -1,12 +1,12 @@
 ---
-title: get_Table
+title: get_Table()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets table the view belongs to.
 type: docs
 weight: 27
 url: /cpp/system.data/dataview/get_table/
 ---
-## DataView::get_Table method
+## DataView::get_Table() method
 
 
 Gets table the view belongs to.

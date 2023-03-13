@@ -1,12 +1,12 @@
 ---
-title: SupportsType
+title: SupportsType()
 second_title: Aspose.Slides for C++ API Reference
 description: Enables the resolver to return types other than Stream.
 type: docs
 weight: 40
 url: /cpp/system.xml/xmlresolver/supportstype/
 ---
-## XmlResolver::SupportsType method
+## XmlResolver::SupportsType([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, const [TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Enables the resolver to return types other than Stream.

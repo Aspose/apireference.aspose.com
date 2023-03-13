@@ -1,5 +1,5 @@
 ---
-title: HoldIfTemporary
+title: HoldIfTemporary()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns reference to rvalue (const)
 type: docs

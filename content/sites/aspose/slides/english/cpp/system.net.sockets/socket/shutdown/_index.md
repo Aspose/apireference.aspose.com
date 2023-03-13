@@ -1,12 +1,12 @@
 ---
-title: Shutdown
+title: Shutdown()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables the send and receive operations of the socket.
 type: docs
 weight: 755
 url: /cpp/system.net.sockets/socket/shutdown/
 ---
-## Socket::Shutdown method
+## Socket::Shutdown([SocketShutdown](../../socketshutdown/)) method
 
 
 Disables the send and receive operations of the socket.

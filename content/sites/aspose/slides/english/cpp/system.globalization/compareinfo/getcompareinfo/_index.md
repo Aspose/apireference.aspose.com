@@ -1,5 +1,5 @@
 ---
-title: GetCompareInfo
+title: GetCompareInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets CompareInfo associated with the specified culture and using string comparison methods in the specified assembly.
 type: docs

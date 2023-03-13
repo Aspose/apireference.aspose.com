@@ -1,12 +1,12 @@
 ---
-title: get_CountOfCustomProperties
+title: get_CountOfCustomProperties()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the number of custom properties actually contained in a collection. Read-only int32_t.
 type: docs
 weight: 560
 url: /cpp/aspose.slides/documentproperties/get_countofcustomproperties/
 ---
-## DocumentProperties::get_CountOfCustomProperties method
+## DocumentProperties::get_CountOfCustomProperties() method
 
 
 Returns the number of custom properties actually contained in a collection. Read-only **int32_t**.

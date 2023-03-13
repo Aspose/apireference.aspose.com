@@ -1,7 +1,7 @@
 ---
-title: MathAccent
+title: MathAccent()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates a math accent applying to a specified math element with the default accent character value.
+description: Creates a math accent applying to a specified math element with the default accent character value
 type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/mathaccent/mathaccent/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathaccent/mathaccent/
 ## MathAccent::MathAccent([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
-Creates a math accent applying to a specified math element with the default accent character value.
+Creates a math accent applying to a specified math element with the default accent character value
 
 ```cpp
 Aspose::Slides::MathText::MathAccent::MathAccent(System::SharedPtr<IMathElement> element)
@@ -41,7 +41,7 @@ auto accent = System::MakeObject<MathAccent>(baseElement);
 ## MathAccent::MathAccent([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, char16_t) constructor
 
 
-Creates a math accent applying to a specified math element.
+Creates a math accent applying to a specified math element
 
 ```cpp
 Aspose::Slides::MathText::MathAccent::MathAccent(System::SharedPtr<IMathElement> element, char16_t accentCharacter)

@@ -1,12 +1,12 @@
 ---
-title: set_DashStyle
+title: set_DashStyle()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that specifies the dash style of the current Pen object.
 type: docs
 weight: 235
 url: /cpp/system.drawing/pen/set_dashstyle/
 ---
-## Pen::set_DashStyle method
+## Pen::set_DashStyle([Drawing2D::DashStyle](../../../system.drawing.drawing2d/dashstyle/)) method
 
 
 Sets a value that specifies the dash style of the current [Pen](../) object.

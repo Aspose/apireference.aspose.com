@@ -1,5 +1,5 @@
 ---
-title: operator!=
+title: operator!=()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the current object and the specified DateTime object represent distinct date and time values.
 type: docs

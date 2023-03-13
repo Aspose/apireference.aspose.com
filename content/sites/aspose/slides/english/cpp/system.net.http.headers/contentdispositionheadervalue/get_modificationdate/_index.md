@@ -1,12 +1,12 @@
 ---
-title: get_ModificationDate
+title: get_ModificationDate()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the file modification date.
 type: docs
 weight: 144
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/get_modificationdate/
 ---
-## ContentDispositionHeaderValue::get_ModificationDate method
+## ContentDispositionHeaderValue::get_ModificationDate() method
 
 
 Gets the file modification date.

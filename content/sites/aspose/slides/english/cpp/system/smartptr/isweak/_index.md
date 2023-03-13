@@ -1,12 +1,12 @@
 ---
-title: IsWeak
+title: IsWeak()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if pointer is in weak mode.
 type: docs
 weight: 131
 url: /cpp/system/smartptr/isweak/
 ---
-## SmartPtr::IsWeak method
+## SmartPtr::IsWeak() const method
 
 
 Checks if pointer is in weak mode.

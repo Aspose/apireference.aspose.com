@@ -1,12 +1,12 @@
 ---
-title: TryParseAndAddValue
+title: TryParseAndAddValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Tries to parse the specified value and add it to the header values.
 type: docs
 weight: 235
 url: /cpp/system.net.http.headers/httpheaders/tryparseandaddvalue/
 ---
-## HttpHeaders::TryParseAndAddValue method
+## HttpHeaders::TryParseAndAddValue([String](../../../system/string/), [String](../../../system/string/)) method
 
 
 Tries to parse the specified value and add it to the header values.

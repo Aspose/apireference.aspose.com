@@ -1,12 +1,12 @@
 ---
-title: get_MonthGenitiveNames
+title: get_MonthGenitiveNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets month names in genitive form.
 type: docs
 weight: 495
 url: /cpp/system.globalization/datetimeformatinfo/get_monthgenitivenames/
 ---
-## DateTimeFormatInfo::get_MonthGenitiveNames method
+## DateTimeFormatInfo::get_MonthGenitiveNames() const method
 
 
 Gets month names in genitive form.

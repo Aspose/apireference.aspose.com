@@ -1,12 +1,12 @@
 ---
-title: EnumerateDirectories
+title: EnumerateDirectories()
 second_title: Aspose.Slides for C++ API Reference
 description: Searches for the directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.
 type: docs
 weight: 27
 url: /cpp/system.io/directory/enumeratedirectories/
 ---
-## Directory::EnumerateDirectories method
+## Directory::EnumerateDirectories(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, [SearchOption](../../searchoption/)) method
 
 
 Searches for the directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.

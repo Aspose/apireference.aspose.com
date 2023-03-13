@@ -1,12 +1,12 @@
 ---
-title: get_Image
+title: get_Image()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an image used by the current TextureBrush object.
 type: docs
 weight: 27
 url: /cpp/system.drawing/texturebrush/get_image/
 ---
-## TextureBrush::get_Image method
+## TextureBrush::get_Image() method
 
 
 Returns an image used by the current [TextureBrush](../) object.

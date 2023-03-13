@@ -1,12 +1,12 @@
 ---
-title: ToDecimal
+title: ToDecimal()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the String to a Decimal equivalent.
 type: docs
 weight: 261
 url: /cpp/system.xml/xmlconvert/todecimal/
 ---
-## XmlConvert::ToDecimal method
+## XmlConvert::ToDecimal(const [String](../../../system/string/)\&) method
 
 
 Converts the [String](../../../system/string/) to a [Decimal](../../../system/decimal/) equivalent.

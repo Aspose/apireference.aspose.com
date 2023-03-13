@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets string representation of the algorithm name.
 type: docs
 weight: 144
 url: /cpp/system.security.cryptography/hashalgorithmname/tostring/
 ---
-## HashAlgorithmName::ToString method
+## HashAlgorithmName::ToString() const method
 
 
 Gets string representation of the algorithm name.

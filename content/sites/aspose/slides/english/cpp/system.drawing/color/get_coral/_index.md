@@ -1,12 +1,12 @@
 ---
-title: get_Coral
+title: get_Coral()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FFFF7F50.
 type: docs
 weight: 456
 url: /cpp/system.drawing/color/get_coral/
 ---
-## Color::get_Coral method
+## Color::get_Coral() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FFFF7F50.

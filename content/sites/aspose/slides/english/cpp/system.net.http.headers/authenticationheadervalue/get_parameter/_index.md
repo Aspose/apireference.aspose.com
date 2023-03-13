@@ -1,12 +1,12 @@
 ---
-title: get_Parameter
+title: get_Parameter()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the credentials containing the authentication information.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/authenticationheadervalue/get_parameter/
 ---
-## AuthenticationHeaderValue::get_Parameter method
+## AuthenticationHeaderValue::get_Parameter() method
 
 
 Gets the credentials containing the authentication information.

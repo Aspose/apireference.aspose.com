@@ -1,12 +1,12 @@
 ---
-title: get_Address
+title: get_Address()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the endpoint address.
 type: docs
 weight: 14
 url: /cpp/system.net/ipendpoint/get_address/
 ---
-## IPEndPoint::get_Address method
+## IPEndPoint::get_Address() method
 
 
 Gets the endpoint address.

@@ -1,12 +1,12 @@
 ---
-title: Soap
+title: Soap()
 second_title: Aspose.Slides for C++ API Reference
 description: The default constructor is deleted.
 type: docs
 weight: 1
 url: /cpp/system.web.services/soap/soap/
 ---
-## Soap::Soap constructor
+## Soap::Soap() constructor
 
 
 The default constructor is deleted.

@@ -1,12 +1,12 @@
 ---
-title: CopyTo
+title: CopyTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies the entire collection to the specified array.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/summaryzoomsectioncollection/copyto/
 ---
-## SummaryZoomSectionCollection::CopyTo method
+## SummaryZoomSectionCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[ISummaryZoomSection](../../isummaryzoomsection/)\>\>, **int32_t**) method
 
 
 Copies the entire collection to the specified array.

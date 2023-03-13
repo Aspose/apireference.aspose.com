@@ -1,12 +1,12 @@
 ---
-title: get_FirstDayOfWeek
+title: get_FirstDayOfWeek()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets first day of week.
 type: docs
 weight: 417
 url: /cpp/system.globalization/datetimeformatinfo/get_firstdayofweek/
 ---
-## DateTimeFormatInfo::get_FirstDayOfWeek method
+## DateTimeFormatInfo::get_FirstDayOfWeek() const method
 
 
 Gets first day of week.

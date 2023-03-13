@@ -1,12 +1,12 @@
 ---
-title: get_DocumentProperty
+title: get_DocumentProperty()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns custom property defined by name.
 type: docs
 weight: 495
 url: /cpp/aspose.slides/ipresentation/get_documentproperty/
 ---
-## IPresentation::get_DocumentProperty method
+## IPresentation::get_DocumentProperty([System::String](../../../system/string/)) method
 
 
 Returns custom property defined by name.

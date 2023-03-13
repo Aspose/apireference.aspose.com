@@ -1,12 +1,12 @@
 ---
-title: get_FillFormat
+title: get_FillFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns fill format effective value. Read-only IFillFormatEffectiveData.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/ibasetableformateffectivedata/get_fillformat/
 ---
-## IBaseTableFormatEffectiveData::get_FillFormat method
+## IBaseTableFormatEffectiveData::get_FillFormat() method
 
 
 Returns fill format effective value. Read-only [IFillFormatEffectiveData](../../ifillformateffectivedata/).

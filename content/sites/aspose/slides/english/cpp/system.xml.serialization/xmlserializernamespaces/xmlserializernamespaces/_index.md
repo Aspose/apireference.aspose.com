@@ -1,5 +1,5 @@
 ---
-title: XmlSerializerNamespaces
+title: XmlSerializerNamespaces()
 second_title: Aspose.Slides for C++ API Reference
 description: "Initializes a new instance of the Serialization::XmlSerializerNamespaces class."
 type: docs

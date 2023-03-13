@@ -1,12 +1,12 @@
 ---
-title: DaylightTime
+title: DaylightTime()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.globalization/daylighttime/daylighttime/
 ---
-## DaylightTime::DaylightTime constructor
+## DaylightTime::DaylightTime([DateTime](../../../system/datetime/), [DateTime](../../../system/datetime/), [TimeSpan](../../../system/timespan/)) constructor
 
 
 RTTI information.

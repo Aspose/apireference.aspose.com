@@ -1,12 +1,12 @@
 ---
-title: get_Contrast
+title: get_Contrast()
 second_title: Aspose.Slides for C++ API Reference
 description: Contrast. Read-only float.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/iluminanceeffectivedata/get_contrast/
 ---
-## ILuminanceEffectiveData::get_Contrast method
+## ILuminanceEffectiveData::get_Contrast() method
 
 
 Contrast. Read-only **float**.

@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds a math element to the end of the collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/imathelementcollection/add/
 ---
-## IMathElementCollection::Add method
+## IMathElementCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
 Adds a math element to the end of the collection.

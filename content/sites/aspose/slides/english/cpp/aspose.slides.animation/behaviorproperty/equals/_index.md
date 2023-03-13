@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if this object is equal to another.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/behaviorproperty/equals/
 ---
-## BehaviorProperty::Equals method
+## BehaviorProperty::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Checks if this object is equal to another.

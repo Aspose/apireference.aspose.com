@@ -1,12 +1,12 @@
 ---
-title: GetValue
+title: GetValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Retrieves a value from the SerializationInfo store. Not implemented.
 type: docs
 weight: 27
 url: /cpp/system.runtime.serialization/serializationinfo/getvalue/
 ---
-## SerializationInfo::GetValue method
+## SerializationInfo::GetValue(const [System::String](../../../system/string/)\&, const [System::TypeInfo](../../../system/typeinfo/)\&) method
 
 
 Retrieves a value from the [SerializationInfo](../) store. Not implemented.

@@ -1,12 +1,12 @@
 ---
-title: get_ReceivedBy
+title: get_ReceivedBy()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the host and port that the request or response was received by.
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/viaheadervalue/get_receivedby/
 ---
-## ViaHeaderValue::get_ReceivedBy method
+## ViaHeaderValue::get_ReceivedBy() method
 
 
 Returns the host and port that the request or response was received by.

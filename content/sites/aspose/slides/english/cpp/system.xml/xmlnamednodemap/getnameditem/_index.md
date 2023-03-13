@@ -1,5 +1,5 @@
 ---
-title: GetNamedItem
+title: GetNamedItem()
 second_title: Aspose.Slides for C++ API Reference
 description: Retrieves an XmlNode specified by name.
 type: docs

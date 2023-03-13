@@ -1,12 +1,12 @@
 ---
-title: get_Post
+title: get_Post()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the 'POST' HTTP method.
 type: docs
 weight: 27
 url: /cpp/system.net.http/httpmethod/get_post/
 ---
-## HttpMethod::get_Post method
+## HttpMethod::get_Post() method
 
 
 Returns the 'POST' HTTP method.

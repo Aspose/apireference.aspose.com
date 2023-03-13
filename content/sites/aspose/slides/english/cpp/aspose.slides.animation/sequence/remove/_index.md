@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes specified effect from a collection.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/sequence/remove/
 ---
-## Sequence::Remove method
+## Sequence::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IEffect](../../ieffect/)\>) method
 
 
 Removes specified effect from a collection.

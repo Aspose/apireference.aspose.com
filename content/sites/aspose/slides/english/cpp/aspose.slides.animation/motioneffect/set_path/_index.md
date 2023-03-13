@@ -1,12 +1,12 @@
 ---
-title: set_Path
+title: set_Path()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies the path primitive followed by coordinates for the animation motion. Write IMotionPath.
 type: docs
 weight: 144
 url: /cpp/aspose.slides.animation/motioneffect/set_path/
 ---
-## MotionEffect::set_Path method
+## MotionEffect::set_Path([System::SharedPtr](../../../system/sharedptr/)\<[IMotionPath](../../imotionpath/)\>) method
 
 
 Specifies the path primitive followed by coordinates for the animation motion. Write [IMotionPath](../../imotionpath/).

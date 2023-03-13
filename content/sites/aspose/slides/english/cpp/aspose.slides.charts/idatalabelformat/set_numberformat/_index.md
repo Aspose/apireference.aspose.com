@@ -1,12 +1,12 @@
 ---
-title: set_NumberFormat
+title: set_NumberFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: "Represents the format string for the DataLabels object. Write System::String."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/idatalabelformat/set_numberformat/
 ---
-## IDataLabelFormat::set_NumberFormat method
+## IDataLabelFormat::set_NumberFormat([System::String](../../../system/string/)) method
 
 
 Represents the format string for the DataLabels object. Write [System::String](../../../system/string/).

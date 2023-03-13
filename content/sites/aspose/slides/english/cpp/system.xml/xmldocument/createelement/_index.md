@@ -1,5 +1,5 @@
 ---
-title: CreateElement
+title: CreateElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates an element with the specified name.
 type: docs

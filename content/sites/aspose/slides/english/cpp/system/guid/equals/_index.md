@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the GUIDs represented by the current and specified objects are equal.
 type: docs
 weight: 53
 url: /cpp/system/guid/equals/
 ---
-## Guid::Equals method
+## Guid::Equals(const [Guid](../)\&) const method
 
 
 Determines if the GUIDs represented by the current and specified objects are equal.

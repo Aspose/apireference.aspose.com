@@ -1,12 +1,12 @@
 ---
-title: set_Orientation
+title: set_Orientation()
 second_title: Aspose.Slides for C++ API Reference
 description: "Orientation of transition split. Write Slides::Orientation."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.slideshow/splittransition/set_orientation/
 ---
-## SplitTransition::set_Orientation method
+## SplitTransition::set_Orientation([Aspose::Slides::Orientation](../../../aspose.slides/orientation/)) method
 
 
 Orientation of transition split. Write [Slides::Orientation](../../../aspose.slides/orientation/).

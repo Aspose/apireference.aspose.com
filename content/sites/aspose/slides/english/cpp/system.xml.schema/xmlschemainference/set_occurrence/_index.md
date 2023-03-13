@@ -1,12 +1,12 @@
 ---
-title: set_Occurrence
+title: set_Occurrence()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the XmlSchemaInference::InferenceOption value that affects schema occurrence declarations inferred from the XML document."
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemainference/set_occurrence/
 ---
-## XmlSchemaInference::set_Occurrence method
+## XmlSchemaInference::set_Occurrence([XmlSchemaInference::InferenceOption](../inferenceoption/)) method
 
 
 Sets the [XmlSchemaInference::InferenceOption](../inferenceoption/) value that affects schema occurrence declarations inferred from the XML document.

@@ -1,5 +1,5 @@
 ---
-title: SignData
+title: SignData()
 second_title: Aspose.Slides for C++ API Reference
 description: Computes the signature of specified input value.
 type: docs

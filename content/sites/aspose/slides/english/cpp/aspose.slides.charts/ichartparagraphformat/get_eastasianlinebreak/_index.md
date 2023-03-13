@@ -1,12 +1,12 @@
 ---
-title: get_EastAsianLineBreak
+title: get_EastAsianLineBreak()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the East Asian line break is used in a paragraph. Read NullableBool.
 type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/ichartparagraphformat/get_eastasianlinebreak/
 ---
-## IChartParagraphFormat::get_EastAsianLineBreak method
+## IChartParagraphFormat::get_EastAsianLineBreak() method
 
 
 Determines whether the East Asian line break is used in a paragraph. Read [NullableBool](../../../aspose.slides/nullablebool/).

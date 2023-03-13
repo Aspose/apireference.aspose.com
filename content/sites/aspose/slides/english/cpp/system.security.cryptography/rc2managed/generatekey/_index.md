@@ -1,12 +1,12 @@
 ---
-title: GenerateKey
+title: GenerateKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates random key and stores it in algorithm's internals.
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography/rc2managed/generatekey/
 ---
-## RC2Managed::GenerateKey method
+## RC2Managed::GenerateKey() method
 
 
 Creates random key and stores it in algorithm's internals.

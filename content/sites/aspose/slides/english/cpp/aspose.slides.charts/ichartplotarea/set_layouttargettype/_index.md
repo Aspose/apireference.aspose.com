@@ -1,12 +1,12 @@
 ---
-title: set_LayoutTargetType
+title: set_LayoutTargetType()
 second_title: Aspose.Slides for C++ API Reference
 description: If layout of the plot area defined manually this property specifies whether to layout the plot area by its inside (not including axis and axis labels) or outside (including axis and axis labels). Write LayoutTargetType.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/ichartplotarea/set_layouttargettype/
 ---
-## IChartPlotArea::set_LayoutTargetType method
+## IChartPlotArea::set_LayoutTargetType([Aspose::Slides::Charts::LayoutTargetType](../../layouttargettype/)) method
 
 
 If layout of the plot area defined manually this property specifies whether to layout the plot area by its inside (not including axis and axis labels) or outside (including axis and axis labels). Write [LayoutTargetType](../../layouttargettype/).

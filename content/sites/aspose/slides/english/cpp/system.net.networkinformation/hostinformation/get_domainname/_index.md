@@ -1,12 +1,12 @@
 ---
-title: get_DomainName
+title: get_DomainName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the domain in which the local computer is registered.
 type: docs
 weight: 14
 url: /cpp/system.net.networkinformation/hostinformation/get_domainname/
 ---
-## HostInformation::get_DomainName method
+## HostInformation::get_DomainName() method
 
 
 Returns the domain in which the local computer is registered.

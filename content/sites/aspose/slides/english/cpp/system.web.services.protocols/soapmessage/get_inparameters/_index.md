@@ -1,12 +1,12 @@
 ---
-title: get_InParameters
+title: get_InParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the parameters that are passed into the XML Web service method.
 type: docs
 weight: 1
 url: /cpp/system.web.services.protocols/soapmessage/get_inparameters/
 ---
-## SoapMessage::get_InParameters method
+## SoapMessage::get_InParameters() method
 
 
 Gets the parameters that are passed into the XML [Web](../../../system.web/) service method.

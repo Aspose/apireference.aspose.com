@@ -1,5 +1,5 @@
 ---
-title: Write
+title: Write()
 second_title: Aspose.Slides for C++ API Reference
 description: Outputs the string representation of the specified object to the standard output stream.
 type: docs

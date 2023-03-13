@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the attribute corresponding to the specified index from the collection.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlattributecollection/removeat/
 ---
-## XmlAttributeCollection::RemoveAt method
+## XmlAttributeCollection::RemoveAt(**int32_t**) method
 
 
 Removes the attribute corresponding to the specified index from the collection.

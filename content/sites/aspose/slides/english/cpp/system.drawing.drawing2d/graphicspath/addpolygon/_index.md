@@ -1,5 +1,5 @@
 ---
-title: AddPolygon
+title: AddPolygon()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the specified polygon to the path represented by the current object.
 type: docs

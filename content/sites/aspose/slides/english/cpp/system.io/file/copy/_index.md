@@ -1,12 +1,12 @@
 ---
-title: Copy
+title: Copy()
 second_title: Aspose.Slides for C++ API Reference
 description: Copies the specified file to the specified location. If the destination file already exists, a parameter specifies if it should be overwritten.
 type: docs
 weight: 40
 url: /cpp/system.io/file/copy/
 ---
-## File::Copy method
+## File::Copy(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, **bool**) method
 
 
 Copies the specified file to the specified location. If the destination file already exists, a parameter specifies if it should be overwritten.

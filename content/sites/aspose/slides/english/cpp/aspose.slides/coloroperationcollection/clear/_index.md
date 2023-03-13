@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes all color operations.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/coloroperationcollection/clear/
 ---
-## ColorOperationCollection::Clear method
+## ColorOperationCollection::Clear() method
 
 
 Removes all color operations.

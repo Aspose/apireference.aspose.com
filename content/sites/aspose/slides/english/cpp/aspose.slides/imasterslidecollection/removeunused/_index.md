@@ -1,12 +1,12 @@
 ---
-title: RemoveUnused
+title: RemoveUnused()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes unused master slides.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/imasterslidecollection/removeunused/
 ---
-## IMasterSlideCollection::RemoveUnused method
+## IMasterSlideCollection::RemoveUnused(**bool**) method
 
 
 Removes unused master slides.

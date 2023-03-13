@@ -1,5 +1,5 @@
 ---
-title: Portion
+title: Portion()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the Portion class.
 type: docs

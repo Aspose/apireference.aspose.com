@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/aspose.slides.drawing/margin32f/equals/
 ---
-## Margin32f::Equals method
+## Margin32f::Equals(const [Margin32f](../)\&) method
 
 
 

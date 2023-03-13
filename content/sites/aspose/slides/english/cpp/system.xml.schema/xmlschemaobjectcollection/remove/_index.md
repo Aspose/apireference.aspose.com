@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes an XmlSchemaObject from the XmlSchemaObjectCollection.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/remove/
 ---
-## XmlSchemaObjectCollection::Remove method
+## XmlSchemaObjectCollection::Remove(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaObject](../../xmlschemaobject/)\>\&) method
 
 
 Removes an [XmlSchemaObject](../../xmlschemaobject/) from the [XmlSchemaObjectCollection](../).

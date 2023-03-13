@@ -1,12 +1,12 @@
 ---
-title: set_CreationTimeUtc
+title: set_CreationTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the creation time of the entity represented by the current object as UTC time.
 type: docs
 weight: 66
 url: /cpp/system.io/filesysteminfo/set_creationtimeutc/
 ---
-## FileSystemInfo::set_CreationTimeUtc method
+## FileSystemInfo::set_CreationTimeUtc([DateTime](../../../system/datetime/)) method
 
 
 Sets the creation time of the entity represented by the current object as UTC time.

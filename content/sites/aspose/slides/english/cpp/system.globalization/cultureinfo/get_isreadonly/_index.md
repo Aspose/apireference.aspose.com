@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if culture object is read-only.
 type: docs
 weight: 157
 url: /cpp/system.globalization/cultureinfo/get_isreadonly/
 ---
-## CultureInfo::get_IsReadOnly method
+## CultureInfo::get_IsReadOnly() const method
 
 
 Checks if culture object is read-only.

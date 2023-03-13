@@ -1,12 +1,12 @@
 ---
-title: FilterEffect
+title: FilterEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor.
 type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/filtereffect/filtereffect/
 ---
-## FilterEffect::FilterEffect constructor
+## FilterEffect::FilterEffect() constructor
 
 
 Default constructor.

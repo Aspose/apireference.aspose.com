@@ -1,12 +1,12 @@
 ---
-title: IsValidTag
+title: IsValidTag()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if tag is valid.
 type: docs
 weight: 274
 url: /cpp/system.security/securityelement/isvalidtag/
 ---
-## SecurityElement::IsValidTag method
+## SecurityElement::IsValidTag(const [String](../../../system/string/)\&) method
 
 
 Checks if tag is valid.

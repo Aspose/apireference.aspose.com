@@ -1,12 +1,12 @@
 ---
-title: set_CategoryAxisType
+title: set_CategoryAxisType()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies the type of the category axis. Write Charts::CategoryAxisType."
 type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/axis/set_categoryaxistype/
 ---
-## Axis::set_CategoryAxisType method
+## Axis::set_CategoryAxisType([Aspose::Slides::Charts::CategoryAxisType](../../categoryaxistype/)) method
 
 
 Specifies the type of the category axis. Write [Charts::CategoryAxisType](../../categoryaxistype/).

@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of elements.
 type: docs
 weight: 14
 url: /cpp/system.collections.generic/basekvcollection/get_count/
 ---
-## BaseKVCollection::get_Count method
+## BaseKVCollection::get_Count() const method
 
 
 Gets number of elements.

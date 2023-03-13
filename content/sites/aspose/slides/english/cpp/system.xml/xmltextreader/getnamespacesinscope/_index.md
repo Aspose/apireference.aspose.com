@@ -1,12 +1,12 @@
 ---
-title: GetNamespacesInScope
+title: GetNamespacesInScope()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection that contains all namespaces currently in-scope.
 type: docs
 weight: 716
 url: /cpp/system.xml/xmltextreader/getnamespacesinscope/
 ---
-## XmlTextReader::GetNamespacesInScope method
+## XmlTextReader::GetNamespacesInScope([XmlNamespaceScope](../../xmlnamespacescope/)) method
 
 
 Returns a collection that contains all namespaces currently in-scope.

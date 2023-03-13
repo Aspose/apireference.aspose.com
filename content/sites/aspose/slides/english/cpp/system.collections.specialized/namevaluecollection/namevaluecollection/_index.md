@@ -1,5 +1,5 @@
 ---
-title: NameValueCollection
+title: NameValueCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the NameValueCollection class that is empty.
 type: docs

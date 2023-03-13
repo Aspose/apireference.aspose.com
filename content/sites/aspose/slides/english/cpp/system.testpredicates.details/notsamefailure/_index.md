@@ -1,12 +1,12 @@
 ---
-title: NotSameFailure
+title: NotSameFailure()
 second_title: Aspose.Slides for C++ API Reference
 description: Formats 'not same' assertion failure for output.
 type: docs
 weight: 66
 url: /cpp/system.testpredicates.details/notsamefailure/
 ---
-## System::TestPredicates::Details::NotSameFailure function
+## System::TestPredicates::Details::NotSameFailure(const char *, const char *, T1\&, T2\&) function
 
 
 Formats 'not same' assertion failure for output.

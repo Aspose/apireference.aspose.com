@@ -1,12 +1,12 @@
 ---
-title: VerifyNMTOKEN
+title: VerifyNMTOKEN()
 second_title: Aspose.Slides for C++ API Reference
 description: "Verifies that the string is a valid NMTOKEN according to the W3C XML Schema Part2: Datatypes recommendation."
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlconvert/verifynmtoken/
 ---
-## XmlConvert::VerifyNMTOKEN method
+## XmlConvert::VerifyNMTOKEN(const [String](../../../system/string/)\&) method
 
 
 Verifies that the string is a valid NMTOKEN according to the W3C XML [Schema](../../../system.xml.schema/) Part2: Datatypes recommendation.

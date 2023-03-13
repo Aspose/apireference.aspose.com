@@ -1,12 +1,12 @@
 ---
-title: GetDateComponents
+title: GetDateComponents()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets date parts. FOR INTERNAL USE.
 type: docs
 weight: 131
 url: /cpp/system/datetime/getdatecomponents/
 ---
-## DateTime::GetDateComponents method
+## DateTime::GetDateComponents(int\&, int\&, int\&) const method
 
 
 Gets date parts. FOR INTERNAL USE.

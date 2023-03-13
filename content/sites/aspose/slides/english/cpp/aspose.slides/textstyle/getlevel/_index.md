@@ -1,12 +1,12 @@
 ---
-title: GetLevel
+title: GetLevel()
 second_title: Aspose.Slides for C++ API Reference
 description: If level of style exist returns it, otherwise returns null.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/textstyle/getlevel/
 ---
-## TextStyle::GetLevel method
+## TextStyle::GetLevel(**int32_t**) method
 
 
 If level of style exist returns it, otherwise returns null.

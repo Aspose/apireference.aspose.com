@@ -1,12 +1,12 @@
 ---
-title: set_IgnoreProcessingInstructions
+title: set_IgnoreProcessingInstructions()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating whether to ignore processing instructions.
 type: docs
 weight: 235
 url: /cpp/system.xml/xmlreadersettings/set_ignoreprocessinginstructions/
 ---
-## XmlReaderSettings::set_IgnoreProcessingInstructions method
+## XmlReaderSettings::set_IgnoreProcessingInstructions(**bool**) method
 
 
 Sets a value indicating whether to ignore processing instructions.

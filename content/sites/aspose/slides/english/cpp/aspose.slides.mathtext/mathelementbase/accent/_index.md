@@ -1,12 +1,12 @@
 ---
-title: Accent
+title: Accent()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets an accent mark (a character on the top of this element)
 type: docs
 weight: 196
 url: /cpp/aspose.slides.mathtext/mathelementbase/accent/
 ---
-## MathElementBase::Accent method
+## MathElementBase::Accent(char16_t) method
 
 
 Sets an accent mark (a character on the top of this element)

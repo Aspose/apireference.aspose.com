@@ -1,5 +1,5 @@
 ---
-title: IsVisible
+title: IsVisible()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified point is contained within the region represented by the current object.
 type: docs

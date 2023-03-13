@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the worksheet by index.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ichartdataworksheetcollection/idx_get/
 ---
-## IChartDataWorksheetCollection::idx_get method
+## IChartDataWorksheetCollection::idx_get(**int32_t**) method
 
 
 Returns the worksheet by index.

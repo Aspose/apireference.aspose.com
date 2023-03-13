@@ -1,12 +1,12 @@
 ---
-title: get_ServerCertificateValidationCallback
+title: get_ServerCertificateValidationCallback()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the callback that is used to validate a server certificate.
 type: docs
 weight: 235
 url: /cpp/system.net/servicepointmanager/get_servercertificatevalidationcallback/
 ---
-## ServicePointManager::get_ServerCertificateValidationCallback method
+## ServicePointManager::get_ServerCertificateValidationCallback() method
 
 
 Gets the callback that is used to validate a server certificate.

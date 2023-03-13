@@ -1,12 +1,12 @@
 ---
-title: get_Attributes
+title: get_Attributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of attributes for the complex type.
 type: docs
 weight: 131
 url: /cpp/system.xml.schema/xmlschemacomplextype/get_attributes/
 ---
-## XmlSchemaComplexType::get_Attributes method
+## XmlSchemaComplexType::get_Attributes() method
 
 
 Returns the collection of attributes for the complex type.

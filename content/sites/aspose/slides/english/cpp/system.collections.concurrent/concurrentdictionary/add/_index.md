@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds value into dictionary.
 type: docs
 weight: 27
 url: /cpp/system.collections.concurrent/concurrentdictionary/add/
 ---
-## ConcurrentDictionary::Add method
+## ConcurrentDictionary::Add(const TKey\&, const TValue\&) method
 
 
 Adds value into dictionary.

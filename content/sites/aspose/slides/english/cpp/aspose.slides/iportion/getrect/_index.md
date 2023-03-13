@@ -1,12 +1,12 @@
 ---
-title: GetRect
+title: GetRect()
 second_title: Aspose.Slides for C++ API Reference
 description: Get coordinates of rect that bounds portion. The rect includes all the lines of text in portion, including empty ones.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/iportion/getrect/
 ---
-## IPortion::GetRect method
+## IPortion::GetRect() method
 
 
 Get coordinates of rect that bounds portion. The rect includes all the lines of text in portion, including empty ones.

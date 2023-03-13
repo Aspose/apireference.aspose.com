@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a System::String that represents the current color format."
 type: docs
 weight: 378
 url: /cpp/aspose.slides/icolorformat/tostring/
 ---
-## IColorFormat::ToString method
+## IColorFormat::ToString([ColorStringFormat](../../colorstringformat/)) method
 
 
 Returns a [System::String](../../../system/string/) that represents the current color format.

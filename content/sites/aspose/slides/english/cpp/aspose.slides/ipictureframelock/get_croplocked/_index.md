@@ -1,12 +1,12 @@
 ---
-title: get_CropLocked
+title: get_CropLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an image cropping is forbidden. Read bool.
 type: docs
 weight: 261
 url: /cpp/aspose.slides/ipictureframelock/get_croplocked/
 ---
-## IPictureFrameLock::get_CropLocked method
+## IPictureFrameLock::get_CropLocked() method
 
 
 Determines whether an image cropping is forbidden. Read **bool**.

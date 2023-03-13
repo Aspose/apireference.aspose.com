@@ -1,5 +1,5 @@
 ---
-title: PtrToStringAnsi
+title: PtrToStringAnsi()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a managed String from an unmanaged zero-terminated UTF8-string.
 type: docs

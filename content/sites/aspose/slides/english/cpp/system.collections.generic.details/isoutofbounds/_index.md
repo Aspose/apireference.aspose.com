@@ -1,5 +1,5 @@
 ---
-title: IsOutOfBounds
+title: IsOutOfBounds()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if index is out of container bounds, excluding container size.
 type: docs

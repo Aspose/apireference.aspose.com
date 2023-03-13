@@ -1,12 +1,12 @@
 ---
-title: Is2DChart
+title: Is2DChart()
 second_title: Aspose.Slides for C++ API Reference
 description: Return true if chartType  is one of 2D chart types.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/charttypecharacterizer/is2dchart/
 ---
-## ChartTypeCharacterizer::Is2DChart method
+## ChartTypeCharacterizer::Is2DChart([ChartType](../../charttype/)) method
 
 
 Return true if *chartType*  is one of 2D chart types.

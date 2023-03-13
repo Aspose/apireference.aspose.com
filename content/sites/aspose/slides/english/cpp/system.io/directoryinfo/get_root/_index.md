@@ -1,12 +1,12 @@
 ---
-title: get_Root
+title: get_Root()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a shared pointer to DirectoryInfo object that represents a path referring the root directory of the directory represented by the current object.
 type: docs
 weight: 53
 url: /cpp/system.io/directoryinfo/get_root/
 ---
-## DirectoryInfo::get_Root method
+## DirectoryInfo::get_Root() method
 
 
 Returns a shared pointer to [DirectoryInfo](../) object that represents a path referring the root directory of the directory represented by the current object.

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Group accessor.
 type: docs
 weight: 79
 url: /cpp/system.text.regularexpressions/groupcollection/idx_get/
 ---
-## GroupCollection::idx_get method
+## GroupCollection::idx_get([String](../../../system/string/)) const method
 
 
 [Group](../../group/) accessor.

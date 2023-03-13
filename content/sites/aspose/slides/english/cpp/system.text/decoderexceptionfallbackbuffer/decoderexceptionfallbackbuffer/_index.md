@@ -1,12 +1,12 @@
 ---
-title: DecoderExceptionFallbackBuffer
+title: DecoderExceptionFallbackBuffer()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.text/decoderexceptionfallbackbuffer/decoderexceptionfallbackbuffer/
 ---
-## DecoderExceptionFallbackBuffer::DecoderExceptionFallbackBuffer constructor
+## DecoderExceptionFallbackBuffer::DecoderExceptionFallbackBuffer() constructor
 
 
 Constructor.

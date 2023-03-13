@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified item is in the array.
 type: docs
 weight: 79
 url: /cpp/system/array/contains/
 ---
-## Array::Contains method
+## Array::Contains(const T\&) const method
 
 
 Determines if the specified item is in the array.

@@ -1,12 +1,12 @@
 ---
-title: get_AnyAttribute
+title: get_AnyAttribute()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the XmlSchemaAnyAttribute component of the complex content model.
 type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemacomplexcontentextension/get_anyattribute/
 ---
-## XmlSchemaComplexContentExtension::get_AnyAttribute method
+## XmlSchemaComplexContentExtension::get_AnyAttribute() method
 
 
 Returns the [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/) component of the complex content model.

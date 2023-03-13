@@ -1,12 +1,12 @@
 ---
-title: get_XmlLang
+title: get_XmlLang()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the current xml:lang scope."
 type: docs
 weight: 170
 url: /cpp/system.xml/xmlvalidatingreader/get_xmllang/
 ---
-## XmlValidatingReader::get_XmlLang method
+## XmlValidatingReader::get_XmlLang() method
 
 
 Returns the current **xml:lang** scope.

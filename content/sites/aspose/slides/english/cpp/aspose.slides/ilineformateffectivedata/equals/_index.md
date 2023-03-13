@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the two ILineFormatEffectiveData instances are equal.
 type: docs
 weight: 209
 url: /cpp/aspose.slides/ilineformateffectivedata/equals/
 ---
-## ILineFormatEffectiveData::Equals method
+## ILineFormatEffectiveData::Equals([System::SharedPtr](../../../system/sharedptr/)\<[ILineFormatEffectiveData](../)\>) method
 
 
 Determines whether the two [ILineFormatEffectiveData](../) instances are equal.

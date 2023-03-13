@@ -1,12 +1,12 @@
 ---
-title: NormalizePath
+title: NormalizePath()
 second_title: Aspose.Slides for C++ API Reference
 description: Normalizes the specified path.
 type: docs
 weight: 248
 url: /cpp/system.io/path/normalizepath/
 ---
-## Path::NormalizePath method
+## Path::NormalizePath(const [String](../../../system/string/)\&) method
 
 
 Normalizes the specified path.

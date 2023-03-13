@@ -1,5 +1,5 @@
 ---
-title: AreNotEqualImpl
+title: AreNotEqualImpl()
 second_title: Aspose.Slides for C++ API Reference
 description: Not-equal-compares values one or both of them being Decimal.
 type: docs

@@ -1,12 +1,12 @@
 ---
-title: WriteQualifiedName
+title: WriteQualifiedName()
 second_title: Aspose.Slides for C++ API Reference
 description: Writes out the namespace-qualified name. This method looks up the prefix that is in scope for the given namespace.
 type: docs
 weight: 495
 url: /cpp/system.xml/xmltextwriter/writequalifiedname/
 ---
-## XmlTextWriter::WriteQualifiedName method
+## XmlTextWriter::WriteQualifiedName(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Writes out the namespace-qualified name. This method looks up the prefix that is in scope for the given namespace.

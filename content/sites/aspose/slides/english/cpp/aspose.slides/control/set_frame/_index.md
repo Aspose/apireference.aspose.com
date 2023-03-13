@@ -1,12 +1,12 @@
 ---
-title: set_Frame
+title: set_Frame()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets control's frame. Write IShapeFrame.
 type: docs
 weight: 92
 url: /cpp/aspose.slides/control/set_frame/
 ---
-## Control::set_Frame method
+## Control::set_Frame([System::SharedPtr](../../../system/sharedptr/)\<[IShapeFrame](../../ishapeframe/)\>) method
 
 
 Sets control's frame. Write [IShapeFrame](../../ishapeframe/).

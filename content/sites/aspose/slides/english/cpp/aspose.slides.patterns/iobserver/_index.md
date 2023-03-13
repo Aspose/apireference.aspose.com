@@ -1,7 +1,7 @@
 ---
 title: IObserver
 second_title: Aspose.Slides for C++ API Reference
-description: Observer interface. See  for more details.
+description: Observer interface. See  for more details
 type: docs
 weight: 14
 url: /cpp/aspose.slides.patterns/iobserver/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.patterns/iobserver/
 ## IObserver class
 
 
-Observer interface. See [http://en.wikipedia.org/wiki/Observer_pattern](http://en.wikipedia.org/wiki/Observer_pattern) for more details.
+Observer interface. See [http://en.wikipedia.org/wiki/Observer_pattern](http://en.wikipedia.org/wiki/Observer_pattern) for more details
 
 ```cpp
 class IObserver : public virtual System::Object

@@ -1,12 +1,12 @@
 ---
-title: get_Length
+title: get_Length()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the length in bytes of the stream. Read-only int64_t.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/istreamwrapper/get_length/
 ---
-## IStreamWrapper::get_Length method
+## IStreamWrapper::get_Length() method
 
 
 Gets the length in bytes of the stream. Read-only **int64_t**.

@@ -1,12 +1,12 @@
 ---
-title: WriteAllBytes
+title: WriteAllBytes()
 second_title: Aspose.Slides for C++ API Reference
 description: Overwrites the specified binary file and writes the specified bytes to it.
 type: docs
 weight: 443
 url: /cpp/system.io/file/writeallbytes/
 ---
-## File::WriteAllBytes method
+## File::WriteAllBytes(const [String](../../../system/string/)\&, const [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
 
 
 Overwrites the specified binary file and writes the specified bytes to it.

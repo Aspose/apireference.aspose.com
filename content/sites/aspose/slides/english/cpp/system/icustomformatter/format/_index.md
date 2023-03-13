@@ -1,12 +1,12 @@
 ---
-title: Format
+title: Format()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a string representation of a value represented by the current object using the specified format.
 type: docs
 weight: 1
 url: /cpp/system/icustomformatter/format/
 ---
-## ICustomFormatter::Format method
+## ICustomFormatter::Format([System::String](../../string/), [System::SharedPtr](../../sharedptr/)\<[System::Object](../../object/)\>, [System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
 
 
 Returns a string representation of a value represented by the current object using the specified format.

@@ -1,5 +1,5 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the first child element with the specified XmlNode::get_Name."
 type: docs

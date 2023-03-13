@@ -1,12 +1,12 @@
 ---
-title: get_Effect
+title: get_Effect()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns effects used for a chart. Read-only IEffectFormat.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/format/get_effect/
 ---
-## Format::get_Effect method
+## Format::get_Effect() method
 
 
 Returns effects used for a chart. Read-only [IEffectFormat](../../../aspose.slides/ieffectformat/).

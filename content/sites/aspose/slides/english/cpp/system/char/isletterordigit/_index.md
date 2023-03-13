@@ -1,5 +1,5 @@
 ---
-title: IsLetterOrDigit
+title: IsLetterOrDigit()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the character at the specified index in the specified character buffer is classified as Unicode letter or a decimal digit.
 type: docs

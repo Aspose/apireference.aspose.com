@@ -1,7 +1,7 @@
 ---
-title: EmbedAllFontsHtmlController
+title: EmbedAllFontsHtmlController()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates new instance.
+description: Creates new instance
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/embedallfontshtmlcontroller/embedallfontshtmlcontroller/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.export/embedallfontshtmlcontroller/embedallfontshtmlcont
 ## EmbedAllFontsHtmlController::EmbedAllFontsHtmlController() constructor
 
 
-Creates new instance.
+Creates new instance
 
 ```cpp
 Aspose::Slides::Export::EmbedAllFontsHtmlController::EmbedAllFontsHtmlController()
@@ -23,7 +23,7 @@ Aspose::Slides::Export::EmbedAllFontsHtmlController::EmbedAllFontsHtmlController
 ## EmbedAllFontsHtmlController::EmbedAllFontsHtmlController([System::ArrayPtr](../../../system/arrayptr/)\<[System::String](../../../system/string/)\>) constructor
 
 
-Creates new instance.
+Creates new instance
 
 ```cpp
 Aspose::Slides::Export::EmbedAllFontsHtmlController::EmbedAllFontsHtmlController(System::ArrayPtr<System::String> fontNameExcludeList)

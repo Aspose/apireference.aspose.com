@@ -1,5 +1,5 @@
 ---
-title: LinkedList
+title: LinkedList()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates empty LinkedList.
 type: docs

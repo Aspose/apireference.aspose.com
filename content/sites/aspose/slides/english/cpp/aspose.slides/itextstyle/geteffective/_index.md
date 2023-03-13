@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective text style formatting data with the inheritance applied.
 type: docs
 weight: 27
 url: /cpp/aspose.slides/itextstyle/geteffective/
 ---
-## ITextStyle::GetEffective method
+## ITextStyle::GetEffective() method
 
 
 Gets effective text style formatting data with the inheritance applied.

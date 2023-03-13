@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 40
 url: /cpp/aspose.slides.drawing/margin64d/equals/
 ---
-## Margin64d::Equals method
+## Margin64d::Equals(const [Margin64d](../)\&) method
 
 
 

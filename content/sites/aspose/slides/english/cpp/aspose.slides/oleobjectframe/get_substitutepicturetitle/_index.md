@@ -1,12 +1,12 @@
 ---
-title: get_SubstitutePictureTitle
+title: get_SubstitutePictureTitle()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the title for OleObject icon. Read System::String."
 type: docs
 weight: 14
 url: /cpp/aspose.slides/oleobjectframe/get_substitutepicturetitle/
 ---
-## OleObjectFrame::get_SubstitutePictureTitle method
+## OleObjectFrame::get_SubstitutePictureTitle() method
 
 
 Returns the title for OleObject icon. Read [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: TransformBlock
+title: TransformBlock()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography/frombase64transform/transformblock/
 ---
-## FromBase64Transform::TransformBlock method
+## FromBase64Transform::TransformBlock([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**, [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**) method
 
 
 

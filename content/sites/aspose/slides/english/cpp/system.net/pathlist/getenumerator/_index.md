@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the enumerator for the current collection.
 type: docs
 weight: 66
 url: /cpp/system.net/pathlist/getenumerator/
 ---
-## PathList::GetEnumerator method
+## PathList::GetEnumerator() method
 
 
 Returns the enumerator for the current collection.

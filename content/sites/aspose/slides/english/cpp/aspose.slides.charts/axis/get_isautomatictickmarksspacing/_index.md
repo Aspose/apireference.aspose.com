@@ -1,12 +1,12 @@
 ---
-title: get_IsAutomaticTickMarksSpacing
+title: get_IsAutomaticTickMarksSpacing()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies automatic tick marks spacing value. If false: use TickMarksSpacing property. Read bool."
 type: docs
 weight: 989
 url: /cpp/aspose.slides.charts/axis/get_isautomatictickmarksspacing/
 ---
-## Axis::get_IsAutomaticTickMarksSpacing method
+## Axis::get_IsAutomaticTickMarksSpacing() method
 
 
 Specifies automatic tick marks spacing value. If false: use TickMarksSpacing property. Read **bool**.

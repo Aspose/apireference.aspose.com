@@ -1,12 +1,12 @@
 ---
-title: set_NetworkLibrary
+title: set_NetworkLibrary()
 second_title: Aspose.Slides for C++ API Reference
 description: Selects network library to use.
 type: docs
 weight: 144
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_networklibrary/
 ---
-## SqlConnectionStringBuilder::set_NetworkLibrary method
+## SqlConnectionStringBuilder::set_NetworkLibrary(const [String](../../../system/string/)\&) method
 
 
 Selects network library to use.

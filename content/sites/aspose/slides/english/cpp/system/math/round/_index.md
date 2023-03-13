@@ -1,5 +1,5 @@
 ---
-title: Round
+title: Round()
 second_title: Aspose.Slides for C++ API Reference
 description: Rounds the specified value to the nearest integral value.
 type: docs

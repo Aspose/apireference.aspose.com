@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes a cookie at the specified index.
 type: docs
 weight: 144
 url: /cpp/system.net/cookiecollection/removeat/
 ---
-## CookieCollection::RemoveAt method
+## CookieCollection::RemoveAt(**int32_t**) method
 
 
 Removes a cookie at the specified index.

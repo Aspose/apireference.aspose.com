@@ -1,12 +1,12 @@
 ---
-title: get_ArrowheadsLocked
+title: get_ArrowheadsLocked()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a changing arrowheads is forbidden. Read bool.
 type: docs
 weight: 209
 url: /cpp/aspose.slides/pictureframelock/get_arrowheadslocked/
 ---
-## PictureFrameLock::get_ArrowheadsLocked method
+## PictureFrameLock::get_ArrowheadsLocked() method
 
 
 Determines whether a changing arrowheads is forbidden. Read **bool**.

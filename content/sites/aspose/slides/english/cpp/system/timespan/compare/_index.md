@@ -1,12 +1,12 @@
 ---
-title: Compare
+title: Compare()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two TimeSpan objects.
 type: docs
 weight: 521
 url: /cpp/system/timespan/compare/
 ---
-## TimeSpan::Compare method
+## TimeSpan::Compare([TimeSpan](../), [TimeSpan](../)) method
 
 
 Compares two [TimeSpan](../) objects.

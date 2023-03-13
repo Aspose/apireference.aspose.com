@@ -1,12 +1,12 @@
 ---
-title: CreateCommandEffect
+title: CreateCommandEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates command effect.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/behaviorfactory/createcommandeffect/
 ---
-## BehaviorFactory::CreateCommandEffect method
+## BehaviorFactory::CreateCommandEffect() method
 
 
 Creates command effect.

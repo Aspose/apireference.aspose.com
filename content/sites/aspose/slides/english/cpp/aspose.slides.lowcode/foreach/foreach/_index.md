@@ -1,12 +1,12 @@
 ---
-title: ForEach
+title: ForEach()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/aspose.slides.lowcode/foreach/foreach/
 ---
-## ForEach::ForEach constructor
+## ForEach::ForEach() constructor
 
 
 

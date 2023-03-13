@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the ProductInfoHeaderValue class.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/productinfoheadervalue/parse/
 ---
-## ProductInfoHeaderValue::Parse method
+## ProductInfoHeaderValue::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [ProductInfoHeaderValue](../) class.

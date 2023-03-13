@@ -1,12 +1,12 @@
 ---
-title: PrintEventArgs
+title: PrintEventArgs()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance of PrintEventArgs object.
 type: docs
 weight: 1
 url: /cpp/system.drawing.printing/printeventargs/printeventargs/
 ---
-## PrintEventArgs::PrintEventArgs constructor
+## PrintEventArgs::PrintEventArgs() constructor
 
 
 Constructs a new instance of [PrintEventArgs](../) object.

@@ -1,12 +1,12 @@
 ---
-title: Restore
+title: Restore()
 second_title: Aspose.Slides for C++ API Reference
 description: Restores the state of this object from the saved state.
 type: docs
 weight: 924
 url: /cpp/system.drawing/graphics/restore/
 ---
-## Graphics::Restore method
+## Graphics::Restore(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::GraphicsState](../../../system.drawing.drawing2d/graphicsstate/)\>\&) method
 
 
 Restores the state of this object from the saved state.

@@ -1,12 +1,12 @@
 ---
-title: GetPublicKey
+title: GetPublicKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets public key from certificate as array of bytes.
 type: docs
 weight: 209
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/getpublickey/
 ---
-## X509Certificate::GetPublicKey method
+## X509Certificate::GetPublicKey() const method
 
 
 Gets public key from certificate as array of bytes.

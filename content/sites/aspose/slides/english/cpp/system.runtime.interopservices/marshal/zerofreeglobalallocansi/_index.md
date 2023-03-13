@@ -1,12 +1,12 @@
 ---
-title: ZeroFreeGlobalAllocAnsi
+title: ZeroFreeGlobalAllocAnsi()
 second_title: Aspose.Slides for C++ API Reference
 description: Frees unmanaged string pointer that was allocated using the SecureStringToGlobalAllocAnsi method.
 type: docs
 weight: 170
 url: /cpp/system.runtime.interopservices/marshal/zerofreeglobalallocansi/
 ---
-## Marshal::ZeroFreeGlobalAllocAnsi method
+## Marshal::ZeroFreeGlobalAllocAnsi(IntPtr) method
 
 
 Frees unmanaged string pointer that was allocated using the SecureStringToGlobalAllocAnsi method.

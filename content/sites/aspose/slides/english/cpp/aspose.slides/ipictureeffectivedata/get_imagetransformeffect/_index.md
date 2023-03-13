@@ -1,12 +1,12 @@
 ---
-title: get_ImageTransformEffect
+title: get_ImageTransformEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the image transform effect specified at the index.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/ipictureeffectivedata/get_imagetransformeffect/
 ---
-## IPictureEffectiveData::get_ImageTransformEffect method
+## IPictureEffectiveData::get_ImageTransformEffect(**int32_t**) method
 
 
 Returns the image transform effect specified at the index.

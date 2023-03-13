@@ -1,12 +1,12 @@
 ---
-title: get_NativeName
+title: get_NativeName()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets native region name.
 type: docs
 weight: 144
 url: /cpp/system.globalization/regioninfo/get_nativename/
 ---
-## RegionInfo::get_NativeName method
+## RegionInfo::get_NativeName() const method
 
 
 Gets native region name.

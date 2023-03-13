@@ -1,12 +1,12 @@
 ---
-title: IsWellFormedUriString
+title: IsWellFormedUriString()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines if the specified string is a well-formed URI.
 type: docs
 weight: 534
 url: /cpp/system/uri/iswellformeduristring/
 ---
-## Uri::IsWellFormedUriString method
+## Uri::IsWellFormedUriString(const [String](../../string/)\&, [UriKind](../../urikind/)) method
 
 
 Determines if the specified string is a well-formed URI.

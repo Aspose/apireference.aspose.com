@@ -1,12 +1,12 @@
 ---
-title: get_BaseStream
+title: get_BaseStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the underlying stream object.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmltextwriter/get_basestream/
 ---
-## XmlTextWriter::get_BaseStream method
+## XmlTextWriter::get_BaseStream() method
 
 
 Returns the underlying stream object.

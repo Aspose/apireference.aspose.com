@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Create a new instance of the EndPoint class using the specified socket address.
 type: docs
 weight: 14
 url: /cpp/system.net/endpoint/create/
 ---
-## EndPoint::Create method
+## EndPoint::Create([System::SharedPtr](../../../system/sharedptr/)\<[SocketAddress](../../socketaddress/)\>) method
 
 
 Create a new instance of the [EndPoint](../) class using the specified socket address.

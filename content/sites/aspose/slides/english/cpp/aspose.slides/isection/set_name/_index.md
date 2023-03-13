@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Name of the section.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/isection/set_name/
 ---
-## ISection::set_Name method
+## ISection::set_Name([System::String](../../../system/string/)) method
 
 
 Name of the section.

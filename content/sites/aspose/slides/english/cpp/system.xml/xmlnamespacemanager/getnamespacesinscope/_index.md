@@ -1,12 +1,12 @@
 ---
-title: GetNamespacesInScope
+title: GetNamespacesInScope()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a collection of namespace names keyed by prefix which can be used to enumerate the namespaces currently in scope.
 type: docs
 weight: 105
 url: /cpp/system.xml/xmlnamespacemanager/getnamespacesinscope/
 ---
-## XmlNamespaceManager::GetNamespacesInScope method
+## XmlNamespaceManager::GetNamespacesInScope([XmlNamespaceScope](../../xmlnamespacescope/)) method
 
 
 Returns a collection of namespace names keyed by prefix which can be used to enumerate the namespaces currently in scope.

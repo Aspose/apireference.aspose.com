@@ -1,12 +1,12 @@
 ---
-title: get_DayNames
+title: get_DayNames()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets day names.
 type: docs
 weight: 391
 url: /cpp/system.globalization/datetimeformatinfo/get_daynames/
 ---
-## DateTimeFormatInfo::get_DayNames method
+## DateTimeFormatInfo::get_DayNames() const method
 
 
 Gets day names.

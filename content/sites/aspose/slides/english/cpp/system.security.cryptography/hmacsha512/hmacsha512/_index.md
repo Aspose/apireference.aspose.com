@@ -1,5 +1,5 @@
 ---
-title: HMACSHA512
+title: HMACSHA512()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs

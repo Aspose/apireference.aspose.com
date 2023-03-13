@@ -1,12 +1,12 @@
 ---
-title: get_Name
+title: get_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the name of a shape. Must be not null. Use empty string value if needed. Read System::String."
 type: docs
 weight: 495
 url: /cpp/aspose.slides/shape/get_name/
 ---
-## Shape::get_Name method
+## Shape::get_Name() method
 
 
 Returns the name of a shape. Must be not null. Use empty string value if needed. Read [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: ReadOnly
+title: ReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a read only version of culture.
 type: docs
 weight: 625
 url: /cpp/system.globalization/cultureinfo/readonly/
 ---
-## CultureInfo::ReadOnly method
+## CultureInfo::ReadOnly(const [CultureInfoPtr](../../cultureinfoptr/)\&) method
 
 
 Gets a read only version of culture.

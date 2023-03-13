@@ -1,12 +1,12 @@
 ---
-title: set_Final
+title: set_Final()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the final attribute of the type derivation that indicates if further derivations are allowed.
 type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschematype/set_final/
 ---
-## XmlSchemaType::set_Final method
+## XmlSchemaType::set_Final([XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)) method
 
 
 Sets the final attribute of the type derivation that indicates if further derivations are allowed.

@@ -1,12 +1,12 @@
 ---
-title: set_Data
+title: set_Data()
 second_title: Aspose.Slides for C++ API Reference
 description: "Data. Write System::Object."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/basechartvalue/set_data/
 ---
-## BaseChartValue::set_Data method
+## BaseChartValue::set_Data([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Data. Write [System::Object](../../../system/object/).

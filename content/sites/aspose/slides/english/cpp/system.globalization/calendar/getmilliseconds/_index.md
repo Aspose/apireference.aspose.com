@@ -1,12 +1,12 @@
 ---
-title: GetMilliseconds
+title: GetMilliseconds()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets milliseconds for the specified time point.
 type: docs
 weight: 287
 url: /cpp/system.globalization/calendar/getmilliseconds/
 ---
-## Calendar::GetMilliseconds method
+## Calendar::GetMilliseconds([DateTime](../../../system/datetime/)) const method
 
 
 Gets milliseconds for the specified time point.

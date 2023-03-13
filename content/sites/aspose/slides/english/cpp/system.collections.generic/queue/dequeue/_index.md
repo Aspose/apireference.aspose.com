@@ -1,12 +1,12 @@
 ---
-title: Dequeue
+title: Dequeue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets item from the beginning of the queue.
 type: docs
 weight: 79
 url: /cpp/system.collections.generic/queue/dequeue/
 ---
-## Queue::Dequeue method
+## Queue::Dequeue() method
 
 
 Gets item from the beginning of the queue.

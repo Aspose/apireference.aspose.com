@@ -1,7 +1,7 @@
 ---
 title: IMathNaryOperatorProperties
 second_title: Aspose.Slides for C++ API Reference
-description: Specifies properties of IMathNaryOperator.
+description: Specifies properties of IMathNaryOperator
 type: docs
 weight: 443
 url: /cpp/aspose.slides.mathtext/imathnaryoperatorproperties/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathnaryoperatorproperties/
 ## IMathNaryOperatorProperties class
 
 
-Specifies properties of [IMathNaryOperator](../imathnaryoperator/).
+Specifies properties of [IMathNaryOperator](../imathnaryoperator/)
 
 ```cpp
 class IMathNaryOperatorProperties : public virtual System::Object
@@ -25,11 +25,11 @@ class IMathNaryOperatorProperties : public virtual System::Object
 | static **bool** [Equals](../../system/object/equals/)(**float** const\&, **float** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static **bool** [Equals](../../system/object/equals/)(**double** const\&, **double** const\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | virtual **bool** [FastCast](../../system/object/fastcast/)(const Details::FastRttiBase\&, void **) const | For internal purposes only. |
-| virtual **bool** [get_GrowToMatchOperandHeight](./get_growtomatchoperandheight/)() | Operator Character grows vertically to match its operand height. |
-| virtual **bool** [get_HideSubscript](./get_hidesubscript/)() | Hide Subscript. |
-| virtual **bool** [get_HideSuperscript](./get_hidesuperscript/)() | Hide Superscript. |
+| virtual **bool** [get_GrowToMatchOperandHeight](./get_growtomatchoperandheight/)() | Operator Character grows vertically to match its operand height |
+| virtual **bool** [get_HideSubscript](./get_hidesubscript/)() | Hide Subscript |
+| virtual **bool** [get_HideSuperscript](./get_hidesuperscript/)() | Hide Superscript |
 | virtual [MathLimitLocations](../mathlimitlocations/) [get_LimitLocation](./get_limitlocation/)() | The location of limits (subscript and superscript) |
-| virtual char16_t [get_Operator](./get_operator/)() | Nary Operator Character For example: '\\u2211', '\\u222B'. |
+| virtual char16_t [get_Operator](./get_operator/)() | Nary Operator Character For example: '\\u2211', '\\u222B' |
 | Detail::SmartPtrCounter * [GetCounter](../../system/object/getcounter/)() | Gets reference counter data structure associated with the object. |
 | virtual **int32_t** [GetHashCode](../../system/object/gethashcode/)() const | Analog of C# [Object.GetHashCode()](../../system/object/gethashcode/) method. Enables hashing of custom objects. |
 | virtual const [TypeInfo](../../system/typeinfo/)\& [GetType](../../system/object/gettype/)() const | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
@@ -45,11 +45,11 @@ class IMathNaryOperatorProperties : public virtual System::Object
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, std::nullptr_t) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of string and nullptr. |
 | **bool** [ReferenceEquals](../../system/object/referenceequals/)([String](../../system/string/) const\&, [String](../../system/string/) const\&) | Specialization of [Object::ReferenceEquals](../../system/object/referenceequals/) for case of strings. |
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
-| virtual void [set_GrowToMatchOperandHeight](./set_growtomatchoperandheight/)(**bool**) | Operator Character grows vertically to match its operand height. |
-| virtual void [set_HideSubscript](./set_hidesubscript/)(**bool**) | Hide Subscript. |
-| virtual void [set_HideSuperscript](./set_hidesuperscript/)(**bool**) | Hide Superscript. |
+| virtual void [set_GrowToMatchOperandHeight](./set_growtomatchoperandheight/)(**bool**) | Operator Character grows vertically to match its operand height |
+| virtual void [set_HideSubscript](./set_hidesubscript/)(**bool**) | Hide Subscript |
+| virtual void [set_HideSuperscript](./set_hidesuperscript/)(**bool**) | Hide Superscript |
 | virtual void [set_LimitLocation](./set_limitlocation/)([MathLimitLocations](../mathlimitlocations/)) | The location of limits (subscript and superscript) |
-| virtual void [set_Operator](./set_operator/)(char16_t) | Nary Operator Character For example: '\\u2211', '\\u222B'. |
+| virtual void [set_Operator](./set_operator/)(char16_t) | Nary Operator Character For example: '\\u2211', '\\u222B' |
 | virtual void [SetTemplateWeakPtr](../../system/object/settemplateweakptr/)(**uint32_t**) | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | int [SharedCount](../../system/object/sharedcount/)() const | Gets current value of shared reference counter. |
 | [Object](../../system/object/) * [SharedRefAdded](../../system/object/sharedrefadded/)() | Increments shared reference count. Shouldn't be called directly; instead, use smart pointers or ThisProtector. |

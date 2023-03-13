@@ -1,12 +1,12 @@
 ---
-title: get_Calendar
+title: get_Calendar()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets calendar used by the culture.
 type: docs
 weight: 235
 url: /cpp/system.globalization/cultureinfo/get_calendar/
 ---
-## CultureInfo::get_Calendar method
+## CultureInfo::get_Calendar() const method
 
 
 Gets calendar used by the culture.

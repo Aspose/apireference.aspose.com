@@ -1,12 +1,12 @@
 ---
-title: get_SoundMode
+title: get_SoundMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Set or returns sound mode for slide transition. Read TransitionSoundMode.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.slideshow/slideshowtransition/get_soundmode/
 ---
-## SlideShowTransition::get_SoundMode method
+## SlideShowTransition::get_SoundMode() method
 
 
 Set or returns sound mode for slide transition. Read [TransitionSoundMode](../../transitionsoundmode/).

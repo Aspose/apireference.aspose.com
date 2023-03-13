@@ -1,12 +1,12 @@
 ---
-title: HolderInitializer
+title: HolderInitializer()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes holder reference with passed one.
 type: docs
 weight: 1
 url: /cpp/system/holderinitializer/holderinitializer/
 ---
-## HolderInitializer::HolderInitializer constructor
+## HolderInitializer::HolderInitializer(T\&) constructor
 
 
 Initializes holder reference with passed one.

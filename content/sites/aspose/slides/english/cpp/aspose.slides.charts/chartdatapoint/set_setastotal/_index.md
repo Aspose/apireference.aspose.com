@@ -1,12 +1,12 @@
 ---
-title: set_SetAsTotal
+title: set_SetAsTotal()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets data point as total. Applied for Waterfall series type only.
 type: docs
 weight: 209
 url: /cpp/aspose.slides.charts/chartdatapoint/set_setastotal/
 ---
-## ChartDataPoint::set_SetAsTotal method
+## ChartDataPoint::set_SetAsTotal(**bool**) method
 
 
 Sets data point as total. Applied for Waterfall series type only.

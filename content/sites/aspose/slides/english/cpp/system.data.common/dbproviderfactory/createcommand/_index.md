@@ -1,12 +1,12 @@
 ---
-title: CreateCommand
+title: CreateCommand()
 second_title: Aspose.Slides for C++ API Reference
 description: RTTI information.
 type: docs
 weight: 1
 url: /cpp/system.data.common/dbproviderfactory/createcommand/
 ---
-## DbProviderFactory::CreateCommand method
+## DbProviderFactory::CreateCommand() method
 
 
 RTTI information.

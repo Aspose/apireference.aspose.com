@@ -1,12 +1,12 @@
 ---
-title: Pending
+title: Pending()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if there are pending connection requests.
 type: docs
 weight: 105
 url: /cpp/system.net.sockets/tcplistener/pending/
 ---
-## TcpListener::Pending method
+## TcpListener::Pending() method
 
 
 Returns a value that indicates if there are pending connection requests.

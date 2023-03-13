@@ -1,12 +1,12 @@
 ---
-title: get_EmbeddedAudio
+title: get_EmbeddedAudio()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns embedded audio object. Read IAudio.
 type: docs
 weight: 300
 url: /cpp/aspose.slides/iaudioframe/get_embeddedaudio/
 ---
-## IAudioFrame::get_EmbeddedAudio method
+## IAudioFrame::get_EmbeddedAudio() method
 
 
 Returns embedded audio object. Read [IAudio](../../iaudio/).

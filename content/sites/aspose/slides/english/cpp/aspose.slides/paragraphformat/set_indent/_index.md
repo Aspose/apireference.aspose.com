@@ -1,12 +1,12 @@
 ---
-title: set_Indent
+title: set_Indent()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets paragraph First Line Indent/Hanging Indent with no inheritance. Hanging Indent can be defined with negative values. Write float.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/paragraphformat/set_indent/
 ---
-## ParagraphFormat::set_Indent method
+## ParagraphFormat::set_Indent(**float**) method
 
 
 Sets paragraph First Line Indent/Hanging Indent with no inheritance. Hanging Indent can be defined with negative values. Write **float**.

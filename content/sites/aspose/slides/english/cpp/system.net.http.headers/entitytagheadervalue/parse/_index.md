@@ -1,12 +1,12 @@
 ---
-title: Parse
+title: Parse()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string to an instance of the EntityTagHeaderValue class.
 type: docs
 weight: 92
 url: /cpp/system.net.http.headers/entitytagheadervalue/parse/
 ---
-## EntityTagHeaderValue::Parse method
+## EntityTagHeaderValue::Parse([String](../../../system/string/)) method
 
 
 Converts a passed string to an instance of the [EntityTagHeaderValue](../) class.

@@ -1,12 +1,12 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.xml/transformchain/add/
 ---
-## TransformChain::Add method
+## TransformChain::Add([SharedPtr](../../../system/sharedptr/)\<[Transform](../../transform/)\>) method
 
 
 

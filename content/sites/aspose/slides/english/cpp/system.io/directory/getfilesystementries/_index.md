@@ -1,12 +1,12 @@
 ---
-title: GetFileSystemEntries
+title: GetFileSystemEntries()
 second_title: Aspose.Slides for C++ API Reference
 description: Searches for the files and directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.
 type: docs
 weight: 92
 url: /cpp/system.io/directory/getfilesystementries/
 ---
-## Directory::GetFileSystemEntries method
+## Directory::GetFileSystemEntries(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, [SearchOption](../../searchoption/)) method
 
 
 Searches for the files and directories that satisfy the specified search criteria either in the specified directory or in the whole directory tree rooted in the specified directory.

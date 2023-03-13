@@ -1,12 +1,12 @@
 ---
-title: operator SizeF
+title: operator SizeF()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance of SizeF object and initializes it with width and hegiht values of the current Size object.
 type: docs
 weight: 118
 url: /cpp/system.drawing/size/operator_sizef/
 ---
-## Size::operator SizeF method
+## Size::operator SizeF() const method
 
 
 Constructs an instance of [SizeF](../../sizef/) object and initializes it with width and hegiht values of the current [Size](../) object.

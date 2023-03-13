@@ -1,12 +1,12 @@
 ---
-title: get_InvariantCulture
+title: get_InvariantCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Invariant culture comparer singleton.
 type: docs
 weight: 27
 url: /cpp/system/stringcomparer/get_invariantculture/
 ---
-## StringComparer::get_InvariantCulture method
+## StringComparer::get_InvariantCulture() method
 
 
 Invariant culture comparer singleton.

@@ -1,12 +1,12 @@
 ---
-title: ImageFormat
+title: ImageFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an instance of ImageFormat class that represents an image format format associated with the specified GUID.
 type: docs
 weight: 1
 url: /cpp/system.drawing.imaging/imageformat/imageformat/
 ---
-## ImageFormat::ImageFormat constructor
+## ImageFormat::ImageFormat(const [System::Guid](../../../system/guid/)\&) constructor
 
 
 Constructs an instance of [ImageFormat](../) class that represents an image format format associated with the specified GUID.

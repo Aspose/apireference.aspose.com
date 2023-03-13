@@ -1,12 +1,12 @@
 ---
-title: FileWebResponse
+title: FileWebResponse()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs a new instance.
 type: docs
 weight: 66
 url: /cpp/system.net/filewebresponse/filewebresponse/
 ---
-## FileWebResponse::FileWebResponse constructor
+## FileWebResponse::FileWebResponse([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) constructor
 
 
 Constructs a new instance.

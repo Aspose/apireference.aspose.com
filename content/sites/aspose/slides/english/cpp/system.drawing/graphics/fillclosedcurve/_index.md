@@ -1,5 +1,5 @@
 ---
-title: FillClosedCurve
+title: FillClosedCurve()
 second_title: Aspose.Slides for C++ API Reference
 description: Draws a closed spline using the specified brush.
 type: docs

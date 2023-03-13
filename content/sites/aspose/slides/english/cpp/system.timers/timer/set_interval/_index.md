@@ -1,12 +1,12 @@
 ---
-title: set_Interval
+title: set_Interval()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets timer interval.
 type: docs
 weight: 27
 url: /cpp/system.timers/timer/set_interval/
 ---
-## Timer::set_Interval method
+## Timer::set_Interval(**double**) method
 
 
 Sets timer interval.

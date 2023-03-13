@@ -1,12 +1,12 @@
 ---
-title: get_LinkPathLong
+title: get_LinkPathLong()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns the name of an audio file which is linked to an AudioFrame. Read System::String."
 type: docs
 weight: 274
 url: /cpp/aspose.slides/iaudioframe/get_linkpathlong/
 ---
-## IAudioFrame::get_LinkPathLong method
+## IAudioFrame::get_LinkPathLong() method
 
 
 Returns the name of an audio file which is linked to an [AudioFrame](../../audioframe/). Read [System::String](../../../system/string/).

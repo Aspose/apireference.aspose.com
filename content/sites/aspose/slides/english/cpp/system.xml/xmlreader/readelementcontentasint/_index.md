@@ -1,5 +1,5 @@
 ---
-title: ReadElementContentAsInt
+title: ReadElementContentAsInt()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the current element and returns the contents as a 32-bit signed integer.
 type: docs

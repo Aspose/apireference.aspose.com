@@ -1,12 +1,12 @@
 ---
-title: ReadLines
+title: ReadLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the content of the specified text file line by line using the specified character encoding and returns enumerable collection of strings each of which represents a single line of the file's content.
 type: docs
 weight: 326
 url: /cpp/system.io/file/readlines/
 ---
-## File::ReadLines method
+## File::ReadLines(const [String](../../../system/string/)\&, const [EncodingPtr](../../../system/encodingptr/)\&) method
 
 
 Reads the content of the specified text file line by line using the specified character encoding and returns enumerable collection of strings each of which represents a single line of the file's content.

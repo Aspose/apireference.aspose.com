@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks for equality with specified object.
 type: docs
 weight: 404
 url: /cpp/aspose.slides/colorformat/equals/
 ---
-## ColorFormat::Equals method
+## ColorFormat::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Checks for equality with specified object.

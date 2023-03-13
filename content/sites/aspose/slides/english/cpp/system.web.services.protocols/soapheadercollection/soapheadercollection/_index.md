@@ -1,12 +1,12 @@
 ---
-title: SoapHeaderCollection
+title: SoapHeaderCollection()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the SoapHeaderCollection class.
 type: docs
 weight: 1
 url: /cpp/system.web.services.protocols/soapheadercollection/soapheadercollection/
 ---
-## SoapHeaderCollection::SoapHeaderCollection constructor
+## SoapHeaderCollection::SoapHeaderCollection() constructor
 
 
 Initializes a new instance of the [SoapHeaderCollection](../) class.

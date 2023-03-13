@@ -1,12 +1,12 @@
 ---
-title: GetStrokeCaps
+title: GetStrokeCaps()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the start and end line caps of the custom cap represented by the current object.
 type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/customlinecap/getstrokecaps/
 ---
-## CustomLineCap::GetStrokeCaps method
+## CustomLineCap::GetStrokeCaps([LineCap](../../linecap/)\&, [LineCap](../../linecap/)\&) method
 
 
 Gets the start and end line caps of the custom cap represented by the current object.

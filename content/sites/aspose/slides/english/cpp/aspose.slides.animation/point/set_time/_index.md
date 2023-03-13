@@ -1,12 +1,12 @@
 ---
-title: set_Time
+title: set_Time()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents time value. Write float.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/point/set_time/
 ---
-## Point::set_Time method
+## Point::set_Time(**float**) method
 
 
 Represents time value. Write **float**.

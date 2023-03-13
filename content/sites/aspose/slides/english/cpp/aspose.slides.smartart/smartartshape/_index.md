@@ -1,7 +1,7 @@
 ---
 title: SmartArtShape
 second_title: Aspose.Slides for C++ API Reference
-description: Represents SmartArt shape.
+description: Represents SmartArt shape
 type: docs
 weight: 105
 url: /cpp/aspose.slides.smartart/smartartshape/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.smartart/smartartshape/
 ## SmartArtShape class
 
 
-Represents [SmartArt](../smartart/) shape.
+Represents [SmartArt](../smartart/) shape
 
 ```cpp
 class SmartArtShape : public Aspose::Slides::GeometryShape,

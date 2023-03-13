@@ -1,12 +1,12 @@
 ---
-title: GetLastAccessTimeUtc
+title: GetLastAccessTimeUtc()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the last access time of the specified entity as UTC time.
 type: docs
 weight: 170
 url: /cpp/system.io/directory/getlastaccesstimeutc/
 ---
-## Directory::GetLastAccessTimeUtc method
+## Directory::GetLastAccessTimeUtc(const [String](../../../system/string/)\&) method
 
 
 Returns the last access time of the specified entity as UTC time.

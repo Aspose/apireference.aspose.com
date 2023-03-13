@@ -1,5 +1,5 @@
 ---
-title: HighlightText
+title: HighlightText()
 second_title: Aspose.Slides for C++ API Reference
 description: Highlight all matches of sample in text frame text using specified color.
 type: docs

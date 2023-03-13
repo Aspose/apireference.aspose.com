@@ -1,15 +1,15 @@
 ---
-title: get_Base
+title: get_Base()
 second_title: Aspose.Slides for C++ API Reference
-description: Base argument.
+description: Base argument
 type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathgroupingcharacter/get_base/
 ---
-## MathGroupingCharacter::get_Base method
+## MathGroupingCharacter::get_Base() method
 
 
-Base argument.
+Base argument
 
 ```cpp
 System::SharedPtr<IMathElement> Aspose::Slides::MathText::MathGroupingCharacter::get_Base() override

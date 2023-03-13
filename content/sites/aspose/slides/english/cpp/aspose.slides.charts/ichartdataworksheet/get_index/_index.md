@@ -1,12 +1,12 @@
 ---
-title: get_Index
+title: get_Index()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the index. Read-only int32_t.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ichartdataworksheet/get_index/
 ---
-## IChartDataWorksheet::get_Index method
+## IChartDataWorksheet::get_Index() method
 
 
 Gets the index. Read-only **int32_t**.

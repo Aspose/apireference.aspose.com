@@ -1,12 +1,12 @@
 ---
-title: get_EndShapeConnectedTo
+title: get_EndShapeConnectedTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the shape to attach the end of the connector to. Read IShape.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/iconnector/get_endshapeconnectedto/
 ---
-## IConnector::get_EndShapeConnectedTo method
+## IConnector::get_EndShapeConnectedTo() method
 
 
 Returns the shape to attach the end of the connector to. Read [IShape](../../ishape/).

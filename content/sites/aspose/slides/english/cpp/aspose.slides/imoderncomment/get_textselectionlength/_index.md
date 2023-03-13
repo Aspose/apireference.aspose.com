@@ -1,12 +1,12 @@
 ---
-title: get_TextSelectionLength
+title: get_TextSelectionLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns text selection length in text frame if the comment associated with AutoShape. Read int32_t.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/imoderncomment/get_textselectionlength/
 ---
-## IModernComment::get_TextSelectionLength method
+## IModernComment::get_TextSelectionLength() method
 
 
 Returns text selection length in text frame if the comment associated with [AutoShape](../../autoshape/). Read **int32_t**.

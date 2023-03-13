@@ -1,7 +1,7 @@
 ---
 title: ISmartArtShape
 second_title: Aspose.Slides for C++ API Reference
-description: Represents a shape inside SmartArt diagram.
+description: Represents a shape inside SmartArt diagram
 type: docs
 weight: 40
 url: /cpp/aspose.slides.smartart/ismartartshape/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.smartart/ismartartshape/
 ## ISmartArtShape class
 
 
-Represents a shape inside [SmartArt](../smartart/) diagram.
+Represents a shape inside [SmartArt](../smartart/) diagram
 
 ```cpp
 class ISmartArtShape : public virtual Aspose::Slides::IGeometryShape

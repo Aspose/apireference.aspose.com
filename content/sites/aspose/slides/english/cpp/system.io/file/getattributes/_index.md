@@ -1,12 +1,12 @@
 ---
-title: GetAttributes
+title: GetAttributes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the attributes of the specified entity.
 type: docs
 weight: 131
 url: /cpp/system.io/file/getattributes/
 ---
-## File::GetAttributes method
+## File::GetAttributes(const [String](../../../system/string/)\&) method
 
 
 Returns the attributes of the specified entity.

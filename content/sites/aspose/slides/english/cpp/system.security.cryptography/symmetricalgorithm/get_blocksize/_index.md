@@ -1,12 +1,12 @@
 ---
-title: get_BlockSize
+title: get_BlockSize()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets block size of cryptographic operation.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/symmetricalgorithm/get_blocksize/
 ---
-## SymmetricAlgorithm::get_BlockSize method
+## SymmetricAlgorithm::get_BlockSize() method
 
 
 Gets block size of cryptographic operation.

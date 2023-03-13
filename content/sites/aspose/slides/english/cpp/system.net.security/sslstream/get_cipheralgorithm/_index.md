@@ -1,12 +1,12 @@
 ---
-title: get_CipherAlgorithm
+title: get_CipherAlgorithm()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the encryption algorithm.
 type: docs
 weight: 118
 url: /cpp/system.net.security/sslstream/get_cipheralgorithm/
 ---
-## SslStream::get_CipherAlgorithm method
+## SslStream::get_CipherAlgorithm() method
 
 
 Returns the encryption algorithm.

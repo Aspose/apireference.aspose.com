@@ -1,12 +1,12 @@
 ---
-title: get_ParentSeries
+title: get_ParentSeries()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the parent series. Read-only IChartSeries.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/datalabelcollection/get_parentseries/
 ---
-## DataLabelCollection::get_ParentSeries method
+## DataLabelCollection::get_ParentSeries() method
 
 
 Gets the parent series. Read-only [IChartSeries](../../ichartseries/).

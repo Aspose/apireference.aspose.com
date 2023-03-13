@@ -1,15 +1,15 @@
 ---
-title: get_Superscript
+title: get_Superscript()
 second_title: Aspose.Slides for C++ API Reference
-description: Superscript argument.
+description: Superscript argument
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathrightsubsuperscriptelement/get_superscript/
 ---
-## MathRightSubSuperscriptElement::get_Superscript method
+## MathRightSubSuperscriptElement::get_Superscript() method
 
 
-Superscript argument.
+Superscript argument
 
 ```cpp
 System::SharedPtr<IMathElement> Aspose::Slides::MathText::MathRightSubSuperscriptElement::get_Superscript() override

@@ -1,12 +1,12 @@
 ---
-title: set_InParameters
+title: set_InParameters()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the parameters that are passed into the XML Web service method.
 type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soapmessage/set_inparameters/
 ---
-## SoapMessage::set_InParameters method
+## SoapMessage::set_InParameters([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\>) method
 
 
 Sets the parameters that are passed into the XML [Web](../../../system.web/) service method.

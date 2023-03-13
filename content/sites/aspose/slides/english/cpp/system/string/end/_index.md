@@ -1,12 +1,12 @@
 ---
-title: end
+title: end()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns pointer to the end of actual string buffer. Never reallocates anything. Doesn't guarantee buffer to be null-terminated.
 type: docs
 weight: 53
 url: /cpp/system/string/end/
 ---
-## String::end method
+## String::end() const method
 
 
 Returns pointer to the end of actual string buffer. Never reallocates anything. Doesn't guarantee buffer to be null-terminated.

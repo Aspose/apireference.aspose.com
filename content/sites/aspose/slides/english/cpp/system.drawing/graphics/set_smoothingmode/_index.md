@@ -1,12 +1,12 @@
 ---
-title: set_SmoothingMode
+title: set_SmoothingMode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that specifies a soothing mode used during rendering on the surface represented by the current object.
 type: docs
 weight: 157
 url: /cpp/system.drawing/graphics/set_smoothingmode/
 ---
-## Graphics::set_SmoothingMode method
+## Graphics::set_SmoothingMode([Drawing2D::SmoothingMode](../../../system.drawing.drawing2d/smoothingmode/)) method
 
 
 Sets a value that specifies a soothing mode used during rendering on the surface represented by the current object.

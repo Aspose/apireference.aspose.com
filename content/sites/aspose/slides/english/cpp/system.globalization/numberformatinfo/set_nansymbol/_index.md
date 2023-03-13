@@ -1,12 +1,12 @@
 ---
-title: set_NaNSymbol
+title: set_NaNSymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets Not-a-Number symbol.
 type: docs
 weight: 417
 url: /cpp/system.globalization/numberformatinfo/set_nansymbol/
 ---
-## NumberFormatInfo::set_NaNSymbol method
+## NumberFormatInfo::set_NaNSymbol(const [String](../../../system/string/)\&) method
 
 
 Sets Not-a-Number symbol.

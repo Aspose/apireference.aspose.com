@@ -1,12 +1,12 @@
 ---
-title: CreateGrayScale
+title: CreateGrayScale()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates Gray scale effect.
 type: docs
 weight: 170
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/creategrayscale/
 ---
-## ImageTransformOperationFactory::CreateGrayScale method
+## ImageTransformOperationFactory::CreateGrayScale() method
 
 
 Creates Gray scale effect.

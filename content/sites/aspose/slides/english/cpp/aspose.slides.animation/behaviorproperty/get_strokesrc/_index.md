@@ -1,15 +1,15 @@
 ---
-title: get_StrokeSrc
+title: get_StrokeSrc()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'stroke.src' property.
+description: Represents 'stroke.src' property
 type: docs
 weight: 794
 url: /cpp/aspose.slides.animation/behaviorproperty/get_strokesrc/
 ---
-## BehaviorProperty::get_StrokeSrc method
+## BehaviorProperty::get_StrokeSrc() method
 
 
-Represents 'stroke.src' property.
+Represents 'stroke.src' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_StrokeSrc()

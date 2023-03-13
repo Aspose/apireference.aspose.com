@@ -1,7 +1,7 @@
 ---
 title: IHasControlCharacterProperties
 second_title: Aspose.Slides for C++ API Reference
-description: IMathElement with Control Character Properties.
+description: IMathElement with Control Character Properties
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/ihascontrolcharacterproperties/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/ihascontrolcharacterproperties/
 ## IHasControlCharacterProperties class
 
 
-[IMathElement](../imathelement/) with [Control](../../aspose.slides/control/) Character Properties.
+[IMathElement](../imathelement/) with [Control](../../aspose.slides/control/) Character Properties
 
 ```cpp
 class IHasControlCharacterProperties : public virtual System::Object

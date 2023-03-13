@@ -1,12 +1,12 @@
 ---
-title: set_CharSet
+title: set_CharSet()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a character set.
 type: docs
 weight: 14
 url: /cpp/system.net.http.headers/mediatypeheadervalue/set_charset/
 ---
-## MediaTypeHeaderValue::set_CharSet method
+## MediaTypeHeaderValue::set_CharSet([String](../../../system/string/)) method
 
 
 Sets a character set.

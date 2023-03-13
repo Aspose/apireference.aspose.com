@@ -1,12 +1,12 @@
 ---
-title: get_SlideImageSize
+title: get_SlideImageSize()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns slide image size. Read-only System::Drawing::SizeF."
 type: docs
 weight: 1
 url: /cpp/aspose.slides.export/ihtmlgenerator/get_slideimagesize/
 ---
-## IHtmlGenerator::get_SlideImageSize method
+## IHtmlGenerator::get_SlideImageSize() method
 
 
 Returns slide image size. Read-only [System::Drawing::SizeF](../../../system.drawing/sizef/).

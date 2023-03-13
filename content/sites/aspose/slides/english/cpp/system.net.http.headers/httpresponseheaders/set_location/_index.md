@@ -1,12 +1,12 @@
 ---
-title: set_Location
+title: set_Location()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Location' header.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httpresponseheaders/set_location/
 ---
-## HttpResponseHeaders::set_Location method
+## HttpResponseHeaders::set_Location([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Sets a value of the 'Location' header.

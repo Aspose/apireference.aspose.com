@@ -1,12 +1,12 @@
 ---
-title: InsertComment
+title: InsertComment()
 second_title: Aspose.Slides for C++ API Reference
 description: Insert new comment to a collection at the specified index.
 type: docs
 weight: 79
 url: /cpp/aspose.slides/commentcollection/insertcomment/
 ---
-## CommentCollection::InsertComment method
+## CommentCollection::InsertComment(**int32_t**, [System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>, [System::Drawing::PointF](../../../system.drawing/pointf/), [System::DateTime](../../../system/datetime/)) method
 
 
 Insert new comment to a collection at the specified index.

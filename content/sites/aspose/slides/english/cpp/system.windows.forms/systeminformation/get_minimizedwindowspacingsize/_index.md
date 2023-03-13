@@ -1,12 +1,12 @@
 ---
-title: get_MinimizedWindowSpacingSize
+title: get_MinimizedWindowSpacingSize()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 768
 url: /cpp/system.windows.forms/systeminformation/get_minimizedwindowspacingsize/
 ---
-## SystemInformation::get_MinimizedWindowSpacingSize method
+## SystemInformation::get_MinimizedWindowSpacingSize() method
 
 
 NOT IMPLEMENTED.

@@ -1,12 +1,12 @@
 ---
-title: CheckWriteProtection
+title: CheckWriteProtection()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks whether a password to modify is correct for a write protected presentation.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ipresentationinfo/checkwriteprotection/
 ---
-## IPresentationInfo::CheckWriteProtection method
+## IPresentationInfo::CheckWriteProtection([System::String](../../../system/string/)) method
 
 
 Checks whether a password to modify is correct for a write protected presentation.

@@ -1,12 +1,12 @@
 ---
-title: get_CurrencyDecimalSeparator
+title: get_CurrencyDecimalSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets currency decimal separator.
 type: docs
 weight: 274
 url: /cpp/system.globalization/numberformatinfo/get_currencydecimalseparator/
 ---
-## NumberFormatInfo::get_CurrencyDecimalSeparator method
+## NumberFormatInfo::get_CurrencyDecimalSeparator() const method
 
 
 Gets currency decimal separator.

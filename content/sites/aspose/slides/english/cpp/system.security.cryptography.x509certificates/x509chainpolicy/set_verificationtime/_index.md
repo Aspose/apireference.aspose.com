@@ -1,12 +1,12 @@
 ---
-title: set_VerificationTime
+title: set_VerificationTime()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 92
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/set_verificationtime/
 ---
-## X509ChainPolicy::set_VerificationTime method
+## X509ChainPolicy::set_VerificationTime([DateTime](../../../system/datetime/)) method
 
 
 

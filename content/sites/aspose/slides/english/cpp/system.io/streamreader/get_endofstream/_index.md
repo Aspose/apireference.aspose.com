@@ -1,12 +1,12 @@
 ---
-title: get_EndOfStream
+title: get_EndOfStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates if the end of of stream has been reached.
 type: docs
 weight: 92
 url: /cpp/system.io/streamreader/get_endofstream/
 ---
-## StreamReader::get_EndOfStream method
+## StreamReader::get_EndOfStream() method
 
 
 Returns a value that indicates if the end of of stream has been reached.

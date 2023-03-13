@@ -1,7 +1,7 @@
 ---
-title: Divide
+title: Divide()
 second_title: Aspose.Slides for C++ API Reference
-description: Creates a fraction with this numerator and specified denominator.
+description: Creates a fraction with this numerator and specified denominator
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathelementbase/divide/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/mathelementbase/divide/
 ## MathElementBase::Divide([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
-Creates a fraction with this numerator and specified denominator.
+Creates a fraction with this numerator and specified denominator
 
 ```cpp
 System::SharedPtr<IMathFraction> Aspose::Slides::MathText::MathElementBase::Divide(System::SharedPtr<IMathElement> denominator) override
@@ -47,7 +47,7 @@ auto fraction = numerator->Divide(denumerator);
 ## MathElementBase::Divide([System::String](../../../system/string/)) method
 
 
-Creates a fraction with this numerator and specified denominator.
+Creates a fraction with this numerator and specified denominator
 
 ```cpp
 System::SharedPtr<IMathFraction> Aspose::Slides::MathText::MathElementBase::Divide(System::String denominator) override
@@ -84,7 +84,7 @@ auto fraction = numerator->Divide(u"y");
 ## MathElementBase::Divide([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [MathFractionTypes](../../mathfractiontypes/)) method
 
 
-Creates a fraction of the specified type with this numerator and specified denominator.
+Creates a fraction of the specified type with this numerator and specified denominator
 
 ```cpp
 System::SharedPtr<IMathFraction> Aspose::Slides::MathText::MathElementBase::Divide(System::SharedPtr<IMathElement> denominator, MathFractionTypes fractionType) override
@@ -124,7 +124,7 @@ auto fraction = numerator->Divide(denumerator, Aspose::Slides::MathText::MathFra
 ## MathElementBase::Divide([System::String](../../../system/string/), [MathFractionTypes](../../mathfractiontypes/)) method
 
 
-Creates a fraction of the specified type with this numerator and specified denominator.
+Creates a fraction of the specified type with this numerator and specified denominator
 
 ```cpp
 System::SharedPtr<IMathFraction> Aspose::Slides::MathText::MathElementBase::Divide(System::String denominator, MathFractionTypes fractionType) override

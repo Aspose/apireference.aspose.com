@@ -1,12 +1,12 @@
 ---
-title: Delete
+title: Delete()
 second_title: Aspose.Slides for C++ API Reference
 description: Deletes the entity represented by the current object.
 type: docs
 weight: 235
 url: /cpp/system.io/filesysteminfo/delete/
 ---
-## FileSystemInfo::Delete method
+## FileSystemInfo::Delete() method
 
 
 Deletes the entity represented by the current object.

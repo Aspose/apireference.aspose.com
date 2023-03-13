@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Extracts everything but substring from current string.
 type: docs
 weight: 560
 url: /cpp/system/string/remove/
 ---
-## String::Remove method
+## String::Remove(**int32_t**, **int32_t**) const method
 
 
 Extracts everything but substring from current string.

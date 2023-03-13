@@ -1,12 +1,12 @@
 ---
-title: Invert
+title: Invert()
 second_title: Aspose.Slides for C++ API Reference
 description: Inverts the matrix represented by the current object.
 type: docs
 weight: 92
 url: /cpp/system.drawing.drawing2d/matrix/invert/
 ---
-## Matrix::Invert method
+## Matrix::Invert() method
 
 
 Inverts the matrix represented by the current object.

@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Releases the managed and unmanaged resources used by the UdpClient.
 type: docs
 weight: 53
 url: /cpp/system.net.sockets/udpclient/dispose/
 ---
-## UdpClient::Dispose method
+## UdpClient::Dispose() method
 
 
 Releases the managed and unmanaged resources used by the [UdpClient](../).

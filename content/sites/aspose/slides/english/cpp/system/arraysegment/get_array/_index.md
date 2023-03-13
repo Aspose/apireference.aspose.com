@@ -1,12 +1,12 @@
 ---
-title: get_Array
+title: get_Array()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 1
 url: /cpp/system/arraysegment/get_array/
 ---
-## ArraySegment::get_Array method
+## ArraySegment::get_Array() method
 
 
 

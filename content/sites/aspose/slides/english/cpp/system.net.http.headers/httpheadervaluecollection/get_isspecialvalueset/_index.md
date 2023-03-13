@@ -1,12 +1,12 @@
 ---
-title: get_IsSpecialValueSet
+title: get_IsSpecialValueSet()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the current collection contains a \"special value\".
 type: docs
 weight: 27
 url: /cpp/system.net.http.headers/httpheadervaluecollection/get_isspecialvalueset/
 ---
-## HttpHeaderValueCollection::get_IsSpecialValueSet method
+## HttpHeaderValueCollection::get_IsSpecialValueSet() method
 
 
 Gets a value that indicates if the current collection contains a \"special value\".

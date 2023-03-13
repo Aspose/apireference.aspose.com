@@ -1,12 +1,12 @@
 ---
-title: set_CreationDate
+title: set_CreationDate()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the file creation date.
 type: docs
 weight: 131
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_creationdate/
 ---
-## ContentDispositionHeaderValue::set_CreationDate method
+## ContentDispositionHeaderValue::set_CreationDate([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
 
 
 Sets the file creation date.

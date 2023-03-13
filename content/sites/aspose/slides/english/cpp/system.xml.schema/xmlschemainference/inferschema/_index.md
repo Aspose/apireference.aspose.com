@@ -1,5 +1,5 @@
 ---
-title: InferSchema
+title: InferSchema()
 second_title: Aspose.Slides for C++ API Reference
 description: Infers an XML Schema Definition Language (XSD) schema from the XML document contained in the XmlReader object specified.
 type: docs

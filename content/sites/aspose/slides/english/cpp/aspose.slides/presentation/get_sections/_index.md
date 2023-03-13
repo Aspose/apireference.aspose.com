@@ -1,12 +1,12 @@
 ---
-title: get_Sections
+title: get_Sections()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a list of all slides sections that are defined in the presentation. Read-only ISectionCollection.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/presentation/get_sections/
 ---
-## Presentation::get_Sections method
+## Presentation::get_Sections() method
 
 
 Returns a list of all slides sections that are defined in the presentation. Read-only [ISectionCollection](../../isectioncollection/).

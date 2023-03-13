@@ -1,12 +1,12 @@
 ---
-title: StringConcat
+title: StringConcat()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor.
 type: docs
 weight: 66
 url: /cpp/system.xml.xsl.runtime/stringconcat/stringconcat/
 ---
-## StringConcat::StringConcat constructor
+## StringConcat::StringConcat() constructor
 
 
 Default constructor.

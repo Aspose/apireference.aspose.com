@@ -1,5 +1,5 @@
 ---
-title: UrlDecode
+title: UrlDecode()
 second_title: Aspose.Slides for C++ API Reference
 description: Decodes URI fragment from string.
 type: docs

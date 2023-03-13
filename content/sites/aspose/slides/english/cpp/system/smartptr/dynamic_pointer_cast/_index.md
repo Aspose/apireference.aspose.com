@@ -1,12 +1,12 @@
 ---
-title: dynamic_pointer_cast
+title: dynamic_pointer_cast()
 second_title: Aspose.Slides for C++ API Reference
 description: Casts pointer to different type using dynamic_cast on pointed object.
 type: docs
 weight: 261
 url: /cpp/system/smartptr/dynamic_pointer_cast/
 ---
-## SmartPtr::dynamic_pointer_cast method
+## SmartPtr::dynamic_pointer_cast() const method
 
 
 Casts pointer to different type using dynamic_cast on pointed object.

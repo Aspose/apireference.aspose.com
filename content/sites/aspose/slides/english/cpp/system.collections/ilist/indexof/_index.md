@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the first index of the specified item.
 type: docs
 weight: 66
 url: /cpp/system.collections/ilist/indexof/
 ---
-## IList::IndexOf method
+## IList::IndexOf([SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) const method
 
 
 Gets the first index of the specified item.

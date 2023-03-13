@@ -1,12 +1,12 @@
 ---
-title: get_Hash
+title: get_Hash()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets value of calculated hash code.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/hashalgorithm/get_hash/
 ---
-## HashAlgorithm::get_Hash method
+## HashAlgorithm::get_Hash() method
 
 
 Gets value of calculated hash code.

@@ -1,5 +1,5 @@
 ---
-title: operator-
+title: operator-()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates the number of days between two days of week.
 type: docs

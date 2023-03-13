@@ -1,12 +1,12 @@
 ---
-title: get_Message
+title: get_Message()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the text description corresponding to the validation event.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/validationeventargs/get_message/
 ---
-## ValidationEventArgs::get_Message method
+## ValidationEventArgs::get_Message() method
 
 
 Returns the text description corresponding to the validation event.

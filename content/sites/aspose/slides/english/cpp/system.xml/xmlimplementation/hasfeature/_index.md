@@ -1,12 +1,12 @@
 ---
-title: HasFeature
+title: HasFeature()
 second_title: Aspose.Slides for C++ API Reference
 description: Tests if the Document Object Model (DOM) implementation implements a specific feature.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlimplementation/hasfeature/
 ---
-## XmlImplementation::HasFeature method
+## XmlImplementation::HasFeature(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
 
 
 Tests if the Document [Object](../../../system/object/) Model (DOM) implementation implements a specific feature.

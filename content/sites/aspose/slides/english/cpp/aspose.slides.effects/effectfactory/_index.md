@@ -1,7 +1,7 @@
 ---
 title: EffectFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create effects.
+description: Allows to create effects
 type: docs
 weight: 157
 url: /cpp/aspose.slides.effects/effectfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.effects/effectfactory/
 ## EffectFactory class
 
 
-Allows to create effects.
+Allows to create effects
 
 ```cpp
 class EffectFactory : public Aspose::Slides::Effects::IEffectFactory

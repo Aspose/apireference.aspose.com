@@ -1,12 +1,12 @@
 ---
-title: ~WebClient
+title: ~WebClient()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructs the current instance.
 type: docs
 weight: 14
 url: /cpp/system.net/webclient/~webclient/
 ---
-## WebClient::~WebClient method
+## WebClient::~WebClient() method
 
 
 Destructs the current instance.

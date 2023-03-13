@@ -1,12 +1,12 @@
 ---
-title: get_Keys
+title: get_Keys()
 second_title: Aspose.Slides for C++ API Reference
 description: Accesses key collection.
 type: docs
 weight: 157
 url: /cpp/system.collections.generic/sortedlist/get_keys/
 ---
-## SortedList::get_Keys method
+## SortedList::get_Keys() const method
 
 
 Accesses key collection.

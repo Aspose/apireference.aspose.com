@@ -1,12 +1,12 @@
 ---
-title: Exp
+title: Exp()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns e constant raised to the specified power.
 type: docs
 weight: 222
 url: /cpp/system/math/exp/
 ---
-## Math::Exp method
+## Math::Exp(**double**) method
 
 
 Returns e constant raised to the specified power.

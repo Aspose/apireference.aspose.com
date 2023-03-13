@@ -1,12 +1,12 @@
 ---
-title: set_ShowMeanMarkers
+title: set_ShowMeanMarkers()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents mean markers. True if mean markers are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Write bool.
 type: docs
 weight: 495
 url: /cpp/aspose.slides.charts/ichartseries/set_showmeanmarkers/
 ---
-## IChartSeries::set_ShowMeanMarkers method
+## IChartSeries::set_ShowMeanMarkers(**bool**) method
 
 
 Represents mean markers. True if mean markers are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Write **bool**.

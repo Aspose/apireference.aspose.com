@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified ColorChange is equal to the current ColorChange.
 type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/colorchange/equals/
 ---
-## ColorChange::Equals method
+## ColorChange::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [ColorChange](../) is equal to the current [ColorChange](../).

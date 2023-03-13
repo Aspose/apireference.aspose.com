@@ -1,12 +1,12 @@
 ---
-title: get_ExtraColorSchemes
+title: get_ExtraColorSchemes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection of additional color schemes. These schemes don't affect presentation's look, they can be selected as main color scheme for a slide. Read-only IExtraColorSchemeCollection.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/imastertheme/get_extracolorschemes/
 ---
-## IMasterTheme::get_ExtraColorSchemes method
+## IMasterTheme::get_ExtraColorSchemes() method
 
 
 Returns the collection of additional color schemes. These schemes don't affect presentation's look, they can be selected as main color scheme for a slide. Read-only [IExtraColorSchemeCollection](../../iextracolorschemecollection/).

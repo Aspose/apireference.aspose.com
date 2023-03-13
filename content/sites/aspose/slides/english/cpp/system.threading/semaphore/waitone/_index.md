@@ -1,5 +1,5 @@
 ---
-title: WaitOne
+title: WaitOne()
 second_title: Aspose.Slides for C++ API Reference
 description: Locks semaphore. Performs unlimited waiting if neccessary.
 type: docs

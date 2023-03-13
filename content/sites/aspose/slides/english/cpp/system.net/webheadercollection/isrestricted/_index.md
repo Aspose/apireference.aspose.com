@@ -1,12 +1,12 @@
 ---
-title: IsRestricted
+title: IsRestricted()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 157
 url: /cpp/system.net/webheadercollection/isrestricted/
 ---
-## WebHeaderCollection::IsRestricted method
+## WebHeaderCollection::IsRestricted(const [String](../../../system/string/)\&) method
 
 
 Not implemented.

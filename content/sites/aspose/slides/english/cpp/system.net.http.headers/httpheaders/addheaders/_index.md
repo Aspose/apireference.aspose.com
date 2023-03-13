@@ -1,12 +1,12 @@
 ---
-title: AddHeaders
+title: AddHeaders()
 second_title: Aspose.Slides for C++ API Reference
 description: Concatenates the specified HttpHeaders-class instance with the current one.
 type: docs
 weight: 222
 url: /cpp/system.net.http.headers/httpheaders/addheaders/
 ---
-## HttpHeaders::AddHeaders method
+## HttpHeaders::AddHeaders([System::SharedPtr](../../../system/sharedptr/)\<[HttpHeaders](../)\>) method
 
 
 Concatenates the specified HttpHeaders-class instance with the current one.

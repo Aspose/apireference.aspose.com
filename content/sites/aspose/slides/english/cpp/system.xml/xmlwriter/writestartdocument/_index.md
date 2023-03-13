@@ -1,5 +1,5 @@
 ---
-title: WriteStartDocument
+title: WriteStartDocument()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, writes the XML declaration with the version \"1.0\".
 type: docs

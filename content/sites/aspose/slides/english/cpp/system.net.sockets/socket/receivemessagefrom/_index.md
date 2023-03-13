@@ -1,5 +1,5 @@
 ---
-title: ReceiveMessageFrom
+title: ReceiveMessageFrom()
 second_title: Aspose.Slides for C++ API Reference
 description: Receives data from the specified endpoint and writes it to the specified byte array.
 type: docs

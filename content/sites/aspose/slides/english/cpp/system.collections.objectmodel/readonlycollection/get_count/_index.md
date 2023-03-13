@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets count of container elements.
 type: docs
 weight: 27
 url: /cpp/system.collections.objectmodel/readonlycollection/get_count/
 ---
-## ReadOnlyCollection::get_Count method
+## ReadOnlyCollection::get_Count() const method
 
 
 Gets count of container elements.

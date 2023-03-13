@@ -1,5 +1,5 @@
 ---
-title: GetDigitValue
+title: GetDigitValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets digit value of the specified character.
 type: docs

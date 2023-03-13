@@ -1,12 +1,12 @@
 ---
-title: SymmetricExceptWith
+title: SymmetricExceptWith()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates symmetric exception of two containers. Removes all elements that are present in both containers, but at the same time adds all elements present in other, but not in current set.
 type: docs
 weight: 118
 url: /cpp/system.collections.generic/iset/symmetricexceptwith/
 ---
-## ISet::SymmetricExceptWith method
+## ISet::SymmetricExceptWith([IEnumerablePtr](../ienumerableptr/)) method
 
 
 Calculates symmetric exception of two containers. Removes all elements that are present in both containers, but at the same time adds all elements present in **other**, but not in current set.

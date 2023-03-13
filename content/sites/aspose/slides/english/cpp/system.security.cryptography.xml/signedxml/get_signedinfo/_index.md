@@ -1,12 +1,12 @@
 ---
-title: get_SignedInfo
+title: get_SignedInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 53
 url: /cpp/system.security.cryptography.xml/signedxml/get_signedinfo/
 ---
-## SignedXml::get_SignedInfo method
+## SignedXml::get_SignedInfo() method
 
 
 

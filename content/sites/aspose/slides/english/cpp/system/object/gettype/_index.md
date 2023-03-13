@@ -1,12 +1,12 @@
 ---
-title: GetType
+title: GetType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets actual type of object. Analog of C# System.Object.GetType() call.
 type: docs
 weight: 209
 url: /cpp/system/object/gettype/
 ---
-## Object::GetType method
+## Object::GetType() const method
 
 
 Gets actual type of object. Analog of C# [System.Object.GetType()](./) call.

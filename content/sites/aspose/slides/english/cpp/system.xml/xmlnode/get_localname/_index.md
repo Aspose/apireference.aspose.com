@@ -1,12 +1,12 @@
 ---
-title: get_LocalName
+title: get_LocalName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the local name of the node, when overridden in a derived class.
 type: docs
 weight: 209
 url: /cpp/system.xml/xmlnode/get_localname/
 ---
-## XmlNode::get_LocalName method
+## XmlNode::get_LocalName() method
 
 
 Returns the local name of the node, when overridden in a derived class.

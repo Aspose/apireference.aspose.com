@@ -1,12 +1,12 @@
 ---
-title: set_SaveMetafilesAsPng
+title: set_SaveMetafilesAsPng()
 second_title: Aspose.Slides for C++ API Reference
 description: True to convert all metafiles used in a presentation to the PNG images. Write bool.
 type: docs
 weight: 274
 url: /cpp/aspose.slides.export/ipdfoptions/set_savemetafilesaspng/
 ---
-## IPdfOptions::set_SaveMetafilesAsPng method
+## IPdfOptions::set_SaveMetafilesAsPng(**bool**) method
 
 
 True to convert all metafiles used in a presentation to the PNG images. Write **bool**.

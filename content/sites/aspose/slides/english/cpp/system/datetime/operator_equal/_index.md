@@ -1,12 +1,12 @@
 ---
-title: operator=
+title: operator=()
 second_title: Aspose.Slides for C++ API Reference
 description: Assigns the value represented by the specified DateTime instance to the current object.
 type: docs
 weight: 14
 url: /cpp/system/datetime/operator_equal/
 ---
-## DateTime::operator= method
+## DateTime::operator=(const [DateTime](../)\&) method
 
 
 Assigns the value represented by the specified [DateTime](../) instance to the current object.

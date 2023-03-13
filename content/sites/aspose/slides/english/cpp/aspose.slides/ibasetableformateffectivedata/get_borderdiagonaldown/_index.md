@@ -1,12 +1,12 @@
 ---
-title: get_BorderDiagonalDown
+title: get_BorderDiagonalDown()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns down diagonal line format effective value. Read-only ILineFormatEffectiveData.
 type: docs
 weight: 66
 url: /cpp/aspose.slides/ibasetableformateffectivedata/get_borderdiagonaldown/
 ---
-## IBaseTableFormatEffectiveData::get_BorderDiagonalDown method
+## IBaseTableFormatEffectiveData::get_BorderDiagonalDown() method
 
 
 Returns down diagonal line format effective value. Read-only [ILineFormatEffectiveData](../../ilineformateffectivedata/).

@@ -1,12 +1,12 @@
 ---
-title: GetSlidesListOfSection
+title: GetSlidesListOfSection()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns list of slides in the section.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/section/getslideslistofsection/
 ---
-## Section::GetSlidesListOfSection method
+## Section::GetSlidesListOfSection() method
 
 
 Returns list of slides in the section.

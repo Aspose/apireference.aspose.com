@@ -1,12 +1,12 @@
 ---
-title: IsAsciiWhiteSpace
+title: IsAsciiWhiteSpace()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified character is classified as a ASCII white space character.
 type: docs
 weight: 170
 url: /cpp/system/char/isasciiwhitespace/
 ---
-## Char::IsAsciiWhiteSpace method
+## Char::IsAsciiWhiteSpace(char_t) method
 
 
 Determines whether the specified character is classified as a ASCII white space character.

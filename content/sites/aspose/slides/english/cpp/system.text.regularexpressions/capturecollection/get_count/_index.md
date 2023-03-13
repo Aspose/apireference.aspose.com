@@ -1,12 +1,12 @@
 ---
-title: get_Count
+title: get_Count()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of captures.
 type: docs
 weight: 1
 url: /cpp/system.text.regularexpressions/capturecollection/get_count/
 ---
-## CaptureCollection::get_Count method
+## CaptureCollection::get_Count() const method
 
 
 Gets number of captures.

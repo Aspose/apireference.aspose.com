@@ -1,5 +1,5 @@
 ---
-title: Add
+title: Add()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds the XML Schema definition language (XSD) schema at the URL specified to the XmlSchemaSet.
 type: docs

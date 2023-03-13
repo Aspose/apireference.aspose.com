@@ -1,7 +1,7 @@
 ---
-title: Integral
+title: Integral()
 second_title: Aspose.Slides for C++ API Reference
-description: Takes the integral.
+description: Takes the integral
 type: docs
 weight: 196
 url: /cpp/aspose.slides.mathtext/imathelement/integral/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.mathtext/imathelement/integral/
 ## IMathElement::Integral([MathIntegralTypes](../../mathintegraltypes/), [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>, [MathLimitLocations](../../mathlimitlocations/)) method
 
 
-Takes the integral.
+Takes the integral
 
 ```cpp
 virtual System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::IMathElement::Integral(MathIntegralTypes integralType, System::SharedPtr<IMathElement> lowerLimit, System::SharedPtr<IMathElement> upperLimit, MathLimitLocations limitLocations)=0
@@ -53,7 +53,7 @@ auto integral = baseElement->Integral(Aspose::Slides::MathText::MathIntegralType
 ## IMathElement::Integral([MathIntegralTypes](../../mathintegraltypes/), [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../)\>) method
 
 
-Takes the integral.
+Takes the integral
 
 ```cpp
 virtual System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::IMathElement::Integral(MathIntegralTypes integralType, System::SharedPtr<IMathElement> lowerLimit, System::SharedPtr<IMathElement> upperLimit)=0
@@ -95,7 +95,7 @@ auto integral = baseElement->Integral(Aspose::Slides::MathText::MathIntegralType
 ## IMathElement::Integral([MathIntegralTypes](../../mathintegraltypes/)) method
 
 
-Takes the integral without limits.
+Takes the integral without limits
 
 ```cpp
 virtual System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::IMathElement::Integral(MathIntegralTypes integralType)=0
@@ -132,7 +132,7 @@ auto integral = baseElement->Integral(Aspose::Slides::MathText::MathIntegralType
 ## IMathElement::Integral([MathIntegralTypes](../../mathintegraltypes/), [System::String](../../../system/string/), [System::String](../../../system/string/), [MathLimitLocations](../../mathlimitlocations/)) method
 
 
-Takes the integral.
+Takes the integral
 
 ```cpp
 virtual System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::IMathElement::Integral(MathIntegralTypes integralType, System::String lowerLimit, System::String upperLimit, MathLimitLocations limitLocations)=0
@@ -174,7 +174,7 @@ auto integral = baseElement->Integral(Aspose::Slides::MathText::MathIntegralType
 ## IMathElement::Integral([MathIntegralTypes](../../mathintegraltypes/), [System::String](../../../system/string/), [System::String](../../../system/string/)) method
 
 
-Takes the integral.
+Takes the integral
 
 ```cpp
 virtual System::SharedPtr<IMathNaryOperator> Aspose::Slides::MathText::IMathElement::Integral(MathIntegralTypes integralType, System::String lowerLimit, System::String upperLimit)=0

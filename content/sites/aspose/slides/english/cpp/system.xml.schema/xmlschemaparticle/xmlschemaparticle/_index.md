@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaParticle
+title: XmlSchemaParticle()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaParticle class.
 type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemaparticle/xmlschemaparticle/
 ---
-## XmlSchemaParticle::XmlSchemaParticle constructor
+## XmlSchemaParticle::XmlSchemaParticle() constructor
 
 
 Initializes a new instance of the [XmlSchemaParticle](../) class.

@@ -1,12 +1,12 @@
 ---
-title: set_ContentType
+title: set_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the MIME type of the request.
 type: docs
 weight: 183
 url: /cpp/system.net/webrequest/set_contenttype/
 ---
-## WebRequest::set_ContentType method
+## WebRequest::set_ContentType([String](../../../system/string/)) method
 
 
 Sets the MIME type of the request.

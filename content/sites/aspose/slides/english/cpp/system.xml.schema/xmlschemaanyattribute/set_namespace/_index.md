@@ -1,12 +1,12 @@
 ---
-title: set_Namespace
+title: set_Namespace()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the namespaces containing the attributes that can be used.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaanyattribute/set_namespace/
 ---
-## XmlSchemaAnyAttribute::set_Namespace method
+## XmlSchemaAnyAttribute::set_Namespace(const [String](../../../system/string/)\&) method
 
 
 Sets the namespaces containing the attributes that can be used.

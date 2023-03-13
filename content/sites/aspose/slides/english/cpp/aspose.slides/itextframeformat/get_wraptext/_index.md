@@ -1,12 +1,12 @@
 ---
-title: get_WrapText
+title: get_WrapText()
 second_title: Aspose.Slides for C++ API Reference
 description: True if text is wrapped at TextFrame's margins. Read NullableBool.
 type: docs
 weight: 118
 url: /cpp/aspose.slides/itextframeformat/get_wraptext/
 ---
-## ITextFrameFormat::get_WrapText method
+## ITextFrameFormat::get_WrapText() method
 
 
 **True** if text is wrapped at [TextFrame](../../textframe/)'s margins. Read [NullableBool](../../nullablebool/).

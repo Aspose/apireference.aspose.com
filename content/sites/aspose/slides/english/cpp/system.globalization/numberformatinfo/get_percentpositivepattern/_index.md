@@ -1,12 +1,12 @@
 ---
-title: get_PercentPositivePattern
+title: get_PercentPositivePattern()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets percent positive pattern.
 type: docs
 weight: 664
 url: /cpp/system.globalization/numberformatinfo/get_percentpositivepattern/
 ---
-## NumberFormatInfo::get_PercentPositivePattern method
+## NumberFormatInfo::get_PercentPositivePattern() const method
 
 
 Gets percent positive pattern.

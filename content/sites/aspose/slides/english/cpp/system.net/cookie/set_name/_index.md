@@ -1,12 +1,12 @@
 ---
-title: set_Name
+title: set_Name()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the cookie's name.
 type: docs
 weight: 222
 url: /cpp/system.net/cookie/set_name/
 ---
-## Cookie::set_Name method
+## Cookie::set_Name([String](../../../system/string/)) method
 
 
 Sets the cookie's name.

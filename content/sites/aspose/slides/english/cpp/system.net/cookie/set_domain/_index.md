@@ -1,12 +1,12 @@
 ---
-title: set_Domain
+title: set_Domain()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the 'Domain' attribute's value.
 type: docs
 weight: 118
 url: /cpp/system.net/cookie/set_domain/
 ---
-## Cookie::set_Domain method
+## Cookie::set_Domain([String](../../../system/string/)) method
 
 
 Sets the 'Domain' attribute's value.

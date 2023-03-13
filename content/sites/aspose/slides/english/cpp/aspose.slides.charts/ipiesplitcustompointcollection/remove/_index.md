@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes item from collection by it index in parent series points collection.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/ipiesplitcustompointcollection/remove/
 ---
-## IPieSplitCustomPointCollection::Remove method
+## IPieSplitCustomPointCollection::Remove(**int32_t**) method
 
 
 Removes item from collection by it index in parent series points collection.

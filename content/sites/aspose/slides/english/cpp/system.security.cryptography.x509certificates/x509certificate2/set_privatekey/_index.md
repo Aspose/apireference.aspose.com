@@ -1,12 +1,12 @@
 ---
-title: set_PrivateKey
+title: set_PrivateKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets or clears private key associated with certificate.
 type: docs
 weight: 66
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/set_privatekey/
 ---
-## X509Certificate2::set_PrivateKey method
+## X509Certificate2::set_PrivateKey(const [SharedPtr](../../../system/sharedptr/)\<[AsymmetricAlgorithm](../../../system.security.cryptography/asymmetricalgorithm/)\>\&) method
 
 
 Sets or clears private key associated with certificate.

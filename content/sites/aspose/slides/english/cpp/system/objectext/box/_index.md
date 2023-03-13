@@ -1,5 +1,5 @@
 ---
-title: Box
+title: Box()
 second_title: Aspose.Slides for C++ API Reference
 description: Boxes value types for converting to Object. Implementation for enum types.
 type: docs

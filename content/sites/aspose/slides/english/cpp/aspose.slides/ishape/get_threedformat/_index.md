@@ -1,12 +1,12 @@
 ---
-title: get_ThreeDFormat
+title: get_ThreeDFormat()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the ThreeDFormat object that contains line formatting properties for a shape. Read-only IThreeDFormat.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/ishape/get_threedformat/
 ---
-## IShape::get_ThreeDFormat method
+## IShape::get_ThreeDFormat() method
 
 
 Returns the [ThreeDFormat](../../threedformat/) object that contains line formatting properties for a shape. Read-only [IThreeDFormat](../../ithreedformat/).

@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, returns a clone of this XPathNodeIterator object.
 type: docs
 weight: 40
 url: /cpp/system.xml.xpath/xpathnodeiterator/clone/
 ---
-## XPathNodeIterator::Clone method
+## XPathNodeIterator::Clone() method
 
 
 When overridden in a derived class, returns a clone of this [XPathNodeIterator](../) object.

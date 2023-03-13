@@ -1,12 +1,12 @@
 ---
-title: get_Current
+title: get_Current()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets current element.
 type: docs
 weight: 40
 url: /cpp/system.collections.generic/ienumerator/get_current/
 ---
-## IEnumerator::get_Current method
+## IEnumerator::get_Current() const method
 
 
 Gets current element.

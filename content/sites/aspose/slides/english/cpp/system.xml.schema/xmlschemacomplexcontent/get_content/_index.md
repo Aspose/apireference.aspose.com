@@ -1,12 +1,12 @@
 ---
-title: get_Content
+title: get_Content()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the content.
 type: docs
 weight: 27
 url: /cpp/system.xml.schema/xmlschemacomplexcontent/get_content/
 ---
-## XmlSchemaComplexContent::get_Content method
+## XmlSchemaComplexContent::get_Content() method
 
 
 Returns the content.

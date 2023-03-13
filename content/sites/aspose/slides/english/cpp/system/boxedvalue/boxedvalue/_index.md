@@ -1,12 +1,12 @@
 ---
-title: BoxedValue
+title: BoxedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an object that represents the specified value boxed.
 type: docs
 weight: 14
 url: /cpp/system/boxedvalue/boxedvalue/
 ---
-## BoxedValue::BoxedValue constructor
+## BoxedValue::BoxedValue(const T\&) constructor
 
 
 Constructs an object that represents the specified value boxed.

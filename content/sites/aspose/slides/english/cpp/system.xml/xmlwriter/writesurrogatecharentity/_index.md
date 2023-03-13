@@ -1,12 +1,12 @@
 ---
-title: WriteSurrogateCharEntity
+title: WriteSurrogateCharEntity()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, generates and writes the surrogate character entity for the surrogate character pair.
 type: docs
 weight: 261
 url: /cpp/system.xml/xmlwriter/writesurrogatecharentity/
 ---
-## XmlWriter::WriteSurrogateCharEntity method
+## XmlWriter::WriteSurrogateCharEntity(char16_t, char16_t) method
 
 
 When overridden in a derived class, generates and writes the surrogate character entity for the surrogate character pair.

@@ -1,12 +1,12 @@
 ---
-title: get_FlipV
+title: get_FlipV()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether a frame is flipped vertically. Read-only NullableBool.
 type: docs
 weight: 105
 url: /cpp/aspose.slides/ishapeframe/get_flipv/
 ---
-## IShapeFrame::get_FlipV method
+## IShapeFrame::get_FlipV() method
 
 
 Determines whether a frame is flipped vertically. Read-only [NullableBool](../../nullablebool/).

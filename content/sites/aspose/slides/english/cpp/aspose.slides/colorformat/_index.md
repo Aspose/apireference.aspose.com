@@ -63,6 +63,7 @@ class ColorFormat : public Aspose::Slides::PVIObject,
 | int [RemovedSharedRefs](../../system/object/removedsharedrefs/)(int) | Decreases shared reference count by specified value. |
 | void [set_B](./set_b/)(**uint8_t**) override | Sets the blue component of a color. All color transformations are ignored. Write **uint8_t**. |
 | void [set_Color](./set_color/)([System::Drawing::Color](../../system.drawing/color/)) override | Returns resulting color (with all color transformations applied). Sets RGB colors and clears all color transformations. Write [System::Drawing::Color](../../system.drawing/color/). |
+| void [set_ColorOperation](./set_coloroperation/)(**int32_t**, [System::SharedPtr](../../system/sharedptr/)\<[IColorOperation](../icoloroperation/)\>) override | Set color transformation operation applied to color at the specified index. Read/write [Aspose::Slides::IColorOperation](../icoloroperation/) |
 | void [set_ColorType](./set_colortype/)([Aspose::Slides::ColorType](../colortype/)) override | Sets the color definition method. Write [Slides::ColorType](../colortype/). |
 | void [set_FloatB](./set_floatb/)(**float**) override | Sets the blue component of a color. All color transformations are ignored. Write **float**. |
 | void [set_FloatG](./set_floatg/)(**float**) override | Sets the green component of a color. All color transformations are ignored. Write **float**. |

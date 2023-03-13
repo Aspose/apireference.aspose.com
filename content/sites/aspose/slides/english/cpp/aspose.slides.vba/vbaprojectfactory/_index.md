@@ -1,7 +1,7 @@
 ---
 title: VbaProjectFactory
 second_title: Aspose.Slides for C++ API Reference
-description: Allows to create VBA project via COM interface.
+description: Allows to create VBA project via COM interface
 type: docs
 weight: 170
 url: /cpp/aspose.slides.vba/vbaprojectfactory/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.vba/vbaprojectfactory/
 ## VbaProjectFactory class
 
 
-Allows to create VBA project via COM interface.
+Allows to create VBA project via COM interface
 
 ```cpp
 class VbaProjectFactory : public Aspose::Slides::Vba::IVbaProjectFactory

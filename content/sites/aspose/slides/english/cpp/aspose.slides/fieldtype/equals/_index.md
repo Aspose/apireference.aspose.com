@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if this field is equal to another.
 type: docs
 weight: 40
 url: /cpp/aspose.slides/fieldtype/equals/
 ---
-## FieldType::Equals method
+## FieldType::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Checks if this field is equal to another.

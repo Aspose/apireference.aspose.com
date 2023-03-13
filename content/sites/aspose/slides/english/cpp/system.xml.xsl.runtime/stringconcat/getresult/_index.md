@@ -1,12 +1,12 @@
 ---
-title: GetResult
+title: GetResult()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the result string.
 type: docs
 weight: 53
 url: /cpp/system.xml.xsl.runtime/stringconcat/getresult/
 ---
-## StringConcat::GetResult method
+## StringConcat::GetResult() method
 
 
 Returns the result string.

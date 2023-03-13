@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified HSL is equal to the current HSL.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/hsl/equals/
 ---
-## HSL::Equals method
+## HSL::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [HSL](../) is equal to the current [HSL](../).

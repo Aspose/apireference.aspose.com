@@ -1,12 +1,12 @@
 ---
-title: EncodeLocalName
+title: EncodeLocalName()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the name to a valid XML local name.
 type: docs
 weight: 27
 url: /cpp/system.xml/xmlconvert/encodelocalname/
 ---
-## XmlConvert::EncodeLocalName method
+## XmlConvert::EncodeLocalName(const [String](../../../system/string/)\&) method
 
 
 Converts the name to a valid XML local name.

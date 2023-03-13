@@ -1,12 +1,12 @@
 ---
-title: XmlSchemaFractionDigitsFacet
+title: XmlSchemaFractionDigitsFacet()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XmlSchemaFractionDigitsFacet class.
 type: docs
 weight: 1
 url: /cpp/system.xml.schema/xmlschemafractiondigitsfacet/xmlschemafractiondigitsfacet/
 ---
-## XmlSchemaFractionDigitsFacet::XmlSchemaFractionDigitsFacet constructor
+## XmlSchemaFractionDigitsFacet::XmlSchemaFractionDigitsFacet() constructor
 
 
 Initializes a new instance of the [XmlSchemaFractionDigitsFacet](../) class.

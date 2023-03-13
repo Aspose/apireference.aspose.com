@@ -1,12 +1,12 @@
 ---
-title: StringHash
+title: StringHash()
 second_title: Aspose.Slides for C++ API Reference
 description: Calculates hash for specified string.
 type: docs
 weight: 1
 url: /cpp/system/typeinfo/stringhash/
 ---
-## TypeInfo::StringHash method
+## TypeInfo::StringHash(const char_t *) method
 
 
 Calculates hash for specified string.

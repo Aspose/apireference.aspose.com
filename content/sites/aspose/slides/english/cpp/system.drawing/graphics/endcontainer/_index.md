@@ -1,12 +1,12 @@
 ---
-title: EndContainer
+title: EndContainer()
 second_title: Aspose.Slides for C++ API Reference
 description: Closes the current container and restores the state of this object from the state of saved container.
 type: docs
 weight: 989
 url: /cpp/system.drawing/graphics/endcontainer/
 ---
-## Graphics::EndContainer method
+## Graphics::EndContainer(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::GraphicsContainer](../../../system.drawing.drawing2d/graphicscontainer/)\>\&) method
 
 
 Closes the current container and restores the state of this object from the state of saved container.

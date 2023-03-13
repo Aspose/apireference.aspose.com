@@ -1,12 +1,12 @@
 ---
-title: get_NumberGroupSeparator
+title: get_NumberGroupSeparator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number group separator.
 type: docs
 weight: 92
 url: /cpp/system.globalization/numberformatinfo/get_numbergroupseparator/
 ---
-## NumberFormatInfo::get_NumberGroupSeparator method
+## NumberFormatInfo::get_NumberGroupSeparator() const method
 
 
 Gets number group separator.

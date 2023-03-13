@@ -1,15 +1,15 @@
 ---
-title: get_Numerator
+title: get_Numerator()
 second_title: Aspose.Slides for C++ API Reference
-description: Numerator.
+description: Numerator
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/imathfraction/get_numerator/
 ---
-## IMathFraction::get_Numerator method
+## IMathFraction::get_Numerator() method
 
 
-Numerator.
+Numerator
 
 ```cpp
 virtual System::SharedPtr<IMathElement> Aspose::Slides::MathText::IMathFraction::get_Numerator()=0

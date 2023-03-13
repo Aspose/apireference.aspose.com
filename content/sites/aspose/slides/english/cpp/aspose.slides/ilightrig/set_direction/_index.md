@@ -1,12 +1,12 @@
 ---
-title: set_Direction
+title: set_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Light direction. Write LightingDirection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/ilightrig/set_direction/
 ---
-## ILightRig::set_Direction method
+## ILightRig::set_Direction([LightingDirection](../../lightingdirection/)) method
 
 
 Light direction. Write [LightingDirection](../../lightingdirection/).

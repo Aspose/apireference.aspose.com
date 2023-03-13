@@ -1,12 +1,12 @@
 ---
-title: get_VisibleClipBounds
+title: get_VisibleClipBounds()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the RectangleF object that represents a bounding rectangle of the visible clipping region of the current Graphics object.
 type: docs
 weight: 1093
 url: /cpp/system.drawing/graphics/get_visibleclipbounds/
 ---
-## Graphics::get_VisibleClipBounds method
+## Graphics::get_VisibleClipBounds() const method
 
 
 Returns the [RectangleF](../../rectanglef/) object that represents a bounding rectangle of the visible clipping region of the current [Graphics](../) object.

@@ -1,12 +1,12 @@
 ---
-title: MathPortion
+title: MathPortion()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathPortion class.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathportion/mathportion/
 ---
-## MathPortion::MathPortion constructor
+## MathPortion::MathPortion() constructor
 
 
 Initializes a new instance of the [MathPortion](../) class.

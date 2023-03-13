@@ -1,12 +1,12 @@
 ---
-title: get_ColorValue
+title: get_ColorValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the color value of chart data point. Used with Map charts. Read-only IDoubleChartValue.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/chartdatapoint/get_colorvalue/
 ---
-## ChartDataPoint::get_ColorValue method
+## ChartDataPoint::get_ColorValue() method
 
 
 Returns the color value of chart data point. Used with Map charts. Read-only [IDoubleChartValue](../../idoublechartvalue/).

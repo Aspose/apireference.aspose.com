@@ -1,12 +1,12 @@
 ---
-title: set_Character
+title: set_Character()
 second_title: Aspose.Slides for C++ API Reference
 description: "Accent Character The value should be within the range of (U+0300\\u2013U+036F) or(U+20D0\\u2013U+20EF) Default value: Combining Circumflex Accent (U+0302)"
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/mathaccent/set_character/
 ---
-## MathAccent::set_Character method
+## MathAccent::set_Character(char16_t) method
 
 
 Accent Character The value should be within the range of (U+0300\\u2013U+036F) or(U+20D0\\u2013U+20EF) Default value: Combining Circumflex Accent (U+0302)

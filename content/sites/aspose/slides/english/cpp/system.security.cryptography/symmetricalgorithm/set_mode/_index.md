@@ -1,12 +1,12 @@
 ---
-title: set_Mode
+title: set_Mode()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets mode of cryptographic operation.
 type: docs
 weight: 144
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_mode/
 ---
-## SymmetricAlgorithm::set_Mode method
+## SymmetricAlgorithm::set_Mode([CipherMode](../../ciphermode/)) method
 
 
 Sets mode of cryptographic operation.

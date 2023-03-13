@@ -1,5 +1,5 @@
 ---
-title: AlignShapes
+title: AlignShapes()
 second_title: Aspose.Slides for C++ API Reference
 description: Changes the placement of all shapes in the collection. Aligns shapes to the margins or the edge of the slide or align them relative to each other.
 type: docs

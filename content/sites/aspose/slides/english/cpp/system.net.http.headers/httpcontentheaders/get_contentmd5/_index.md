@@ -1,12 +1,12 @@
 ---
-title: get_ContentMD5
+title: get_ContentMD5()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-MD5' header.
 type: docs
 weight: 118
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contentmd5/
 ---
-## HttpContentHeaders::get_ContentMD5 method
+## HttpContentHeaders::get_ContentMD5() method
 
 
 Gets a value of the 'Content-MD5' header.

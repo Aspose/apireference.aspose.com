@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the element at the specified index. Read-only IMathElement.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathelementcollection/idx_get/
 ---
-## IMathElementCollection::idx_get method
+## IMathElementCollection::idx_get(**int32_t**) method
 
 
 Gets the element at the specified index. Read-only [IMathElement](../../imathelement/).

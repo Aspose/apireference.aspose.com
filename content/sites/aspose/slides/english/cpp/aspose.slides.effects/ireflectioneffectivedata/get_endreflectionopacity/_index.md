@@ -1,12 +1,12 @@
 ---
-title: get_EndReflectionOpacity
+title: get_EndReflectionOpacity()
 second_title: Aspose.Slides for C++ API Reference
 description: End reflection opacity. (percents). Read-only float.
 type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/ireflectioneffectivedata/get_endreflectionopacity/
 ---
-## IReflectionEffectiveData::get_EndReflectionOpacity method
+## IReflectionEffectiveData::get_EndReflectionOpacity() method
 
 
 End reflection opacity. (percents). Read-only **float**.

@@ -1,12 +1,12 @@
 ---
-title: set_Id
+title: set_Id()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the ID of the property represented by the current object.
 type: docs
 weight: 27
 url: /cpp/system.drawing.imaging/propertyitem/set_id/
 ---
-## PropertyItem::set_Id method
+## PropertyItem::set_Id(**int32_t**) method
 
 
 Sets the ID of the property represented by the current object.

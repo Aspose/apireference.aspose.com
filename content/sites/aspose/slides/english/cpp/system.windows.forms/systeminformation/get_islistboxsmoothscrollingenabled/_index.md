@@ -1,12 +1,12 @@
 ---
-title: get_IsListBoxSmoothScrollingEnabled
+title: get_IsListBoxSmoothScrollingEnabled()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 495
 url: /cpp/system.windows.forms/systeminformation/get_islistboxsmoothscrollingenabled/
 ---
-## SystemInformation::get_IsListBoxSmoothScrollingEnabled method
+## SystemInformation::get_IsListBoxSmoothScrollingEnabled() method
 
 
 NOT IMPLEMENTED.

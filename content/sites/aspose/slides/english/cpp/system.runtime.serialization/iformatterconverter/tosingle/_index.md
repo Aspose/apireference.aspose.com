@@ -1,12 +1,12 @@
 ---
-title: ToSingle
+title: ToSingle()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a value to a float.
 type: docs
 weight: 144
 url: /cpp/system.runtime.serialization/iformatterconverter/tosingle/
 ---
-## IFormatterConverter::ToSingle method
+## IFormatterConverter::ToSingle([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Converts a value to a float.

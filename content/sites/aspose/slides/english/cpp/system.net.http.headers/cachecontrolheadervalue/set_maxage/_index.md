@@ -1,12 +1,12 @@
 ---
-title: set_MaxAge
+title: set_MaxAge()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the maximum age value in seconds that determines a time during which the client will accept a response.
 type: docs
 weight: 79
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_maxage/
 ---
-## CacheControlHeaderValue::set_MaxAge method
+## CacheControlHeaderValue::set_MaxAge([Nullable](../../../system/nullable/)\<[TimeSpan](../../../system/timespan/)\>) method
 
 
 Sets the maximum age value in seconds that determines a time during which the client will accept a response.

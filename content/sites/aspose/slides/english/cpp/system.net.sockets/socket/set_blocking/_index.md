@@ -1,12 +1,12 @@
 ---
-title: set_Blocking
+title: set_Blocking()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates if the socket is in the blocking mode.
 type: docs
 weight: 92
 url: /cpp/system.net.sockets/socket/set_blocking/
 ---
-## Socket::set_Blocking method
+## Socket::set_Blocking(**bool**) method
 
 
 Sets a value that indicates if the socket is in the blocking mode.

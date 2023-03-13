@@ -1,12 +1,12 @@
 ---
-title: set_RectangleAlign
+title: set_RectangleAlign()
 second_title: Aspose.Slides for C++ API Reference
 description: Rectangle alignment. Write RectangleAlignment.
 type: docs
 weight: 222
 url: /cpp/aspose.slides.effects/reflection/set_rectanglealign/
 ---
-## Reflection::set_RectangleAlign method
+## Reflection::set_RectangleAlign([RectangleAlignment](../../../aspose.slides/rectanglealignment/)) method
 
 
 Rectangle alignment. Write [RectangleAlignment](../../../aspose.slides/rectanglealignment/).

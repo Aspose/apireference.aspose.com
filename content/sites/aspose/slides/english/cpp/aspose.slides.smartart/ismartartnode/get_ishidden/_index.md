@@ -1,12 +1,12 @@
 ---
-title: get_IsHidden
+title: get_IsHidden()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns true if this node is a hidden node in the data model. Read-only bool.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.smartart/ismartartnode/get_ishidden/
 ---
-## ISmartArtNode::get_IsHidden method
+## ISmartArtNode::get_IsHidden() method
 
 
 Returns true if this node is a hidden node in the data model. Read-only **bool**.

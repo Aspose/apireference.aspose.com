@@ -1,12 +1,12 @@
 ---
-title: get_AllowAutoRedirect
+title: get_AllowAutoRedirect()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value that indicates if the request should follow redirections.
 type: docs
 weight: 365
 url: /cpp/system.net/httpwebrequest/get_allowautoredirect/
 ---
-## HttpWebRequest::get_AllowAutoRedirect method
+## HttpWebRequest::get_AllowAutoRedirect() method
 
 
 Gets a value that indicates if the request should follow redirections.

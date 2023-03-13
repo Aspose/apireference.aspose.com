@@ -1,12 +1,12 @@
 ---
-title: ToUInt64
+title: ToUInt64()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the Decimal value to unsigned 64-bit integer value.
 type: docs
 weight: 716
 url: /cpp/system/decimal/touint64/
 ---
-## Decimal::ToUInt64 method
+## Decimal::ToUInt64([Decimal](../)) method
 
 
 Converts the [Decimal](../) value to unsigned 64-bit integer value.

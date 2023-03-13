@@ -1,12 +1,12 @@
 ---
-title: get_CountOfVisibleDataLabels
+title: get_CountOfVisibleDataLabels()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the number of visible data labels in the collection. Read-only int32_t.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/datalabelcollection/get_countofvisibledatalabels/
 ---
-## DataLabelCollection::get_CountOfVisibleDataLabels method
+## DataLabelCollection::get_CountOfVisibleDataLabels() method
 
 
 Gets the number of visible data labels in the collection. Read-only **int32_t**.

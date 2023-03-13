@@ -1,12 +1,12 @@
 ---
-title: get_ContentType
+title: get_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Content-Type' header.
 type: docs
 weight: 170
 url: /cpp/system.net.http.headers/httpcontentheaders/get_contenttype/
 ---
-## HttpContentHeaders::get_ContentType method
+## HttpContentHeaders::get_ContentType() method
 
 
 Gets a value of the 'Content-Type' header.

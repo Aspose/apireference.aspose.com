@@ -1,12 +1,12 @@
 ---
-title: get_Message
+title: get_Message()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system/details_exceptionwithfilename/get_message/
 ---
-## Details_ExceptionWithFilename::get_Message method
+## Details_ExceptionWithFilename::get_Message() const method
 
 
 

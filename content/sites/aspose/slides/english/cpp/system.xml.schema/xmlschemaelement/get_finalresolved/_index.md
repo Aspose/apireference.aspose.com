@@ -1,12 +1,12 @@
 ---
-title: get_FinalResolved
+title: get_FinalResolved()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the post-compilation interpretation of the Final value.
 type: docs
 weight: 378
 url: /cpp/system.xml.schema/xmlschemaelement/get_finalresolved/
 ---
-## XmlSchemaElement::get_FinalResolved method
+## XmlSchemaElement::get_FinalResolved() method
 
 
 Returns the post-compilation interpretation of the **Final** value.

@@ -1,5 +1,5 @@
 ---
-title: Subtract
+title: Subtract()
 second_title: Aspose.Slides for C++ API Reference
 description: Subtracts the width and height values of the specified SizeF object from the X and Y coordinates values of the specified PointF object correspondingly.
 type: docs

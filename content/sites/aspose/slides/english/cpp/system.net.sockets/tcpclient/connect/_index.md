@@ -1,5 +1,5 @@
 ---
-title: Connect
+title: Connect()
 second_title: Aspose.Slides for C++ API Reference
 description: Establishes a connection to the specified remote host.
 type: docs

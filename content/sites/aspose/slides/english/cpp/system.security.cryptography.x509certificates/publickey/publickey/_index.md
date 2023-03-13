@@ -1,12 +1,12 @@
 ---
-title: PublicKey
+title: PublicKey()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography.x509certificates/publickey/publickey/
 ---
-## PublicKey::PublicKey constructor
+## PublicKey::PublicKey(const [SharedPtr](../../../system/sharedptr/)\<[Oid](../../../system.security.cryptography/oid/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)\>) constructor
 
 
 Constructor.

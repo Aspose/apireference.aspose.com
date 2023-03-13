@@ -1,12 +1,12 @@
 ---
-title: get_Interface
+title: get_Interface()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the network interface information.
 type: docs
 weight: 14
 url: /cpp/system.net.sockets/ippacketinformation/get_interface/
 ---
-## IPPacketInformation::get_Interface method
+## IPPacketInformation::get_Interface() method
 
 
 Returns the network interface information.

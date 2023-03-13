@@ -1,12 +1,12 @@
 ---
-title: get_EncodedMustUnderstand12
+title: get_EncodedMustUnderstand12()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'mustUnderstand' attribute when SOAP version 1.2 is used.
 type: docs
 weight: 105
 url: /cpp/system.web.services.protocols/soapheader/get_encodedmustunderstand12/
 ---
-## SoapHeader::get_EncodedMustUnderstand12 method
+## SoapHeader::get_EncodedMustUnderstand12() method
 
 
 Gets a value of the 'mustUnderstand' attribute when SOAP version 1.2 is used.

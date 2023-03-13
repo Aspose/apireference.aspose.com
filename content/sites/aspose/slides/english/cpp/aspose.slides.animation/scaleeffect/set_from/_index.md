@@ -1,12 +1,12 @@
 ---
-title: set_From
+title: set_From()
 second_title: Aspose.Slides for C++ API Reference
 description: "Specifies an x/y co-ordinate to start the animation from (in percents). Write System::Drawing::PointF."
 type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/scaleeffect/set_from/
 ---
-## ScaleEffect::set_From method
+## ScaleEffect::set_From([System::Drawing::PointF](../../../system.drawing/pointf/)) method
 
 
 Specifies an x/y co-ordinate to start the animation from (in percents). Write [System::Drawing::PointF](../../../system.drawing/pointf/).

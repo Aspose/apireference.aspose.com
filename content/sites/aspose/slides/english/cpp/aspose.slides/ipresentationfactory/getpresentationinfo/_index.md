@@ -1,5 +1,5 @@
 ---
-title: GetPresentationInfo
+title: GetPresentationInfo()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets info about presentation in specified file.
 type: docs

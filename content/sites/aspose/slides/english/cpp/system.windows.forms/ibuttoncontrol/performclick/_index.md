@@ -1,12 +1,12 @@
 ---
-title: PerformClick
+title: PerformClick()
 second_title: Aspose.Slides for C++ API Reference
 description: Performs click on the button.
 type: docs
 weight: 40
 url: /cpp/system.windows.forms/ibuttoncontrol/performclick/
 ---
-## IButtonControl::PerformClick method
+## IButtonControl::PerformClick() method
 
 
 Performs click on the button.

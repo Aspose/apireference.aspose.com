@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the data that corresponds to the URI from the XmlPreloadedResolver.
 type: docs
 weight: 92
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/remove/
 ---
-## XmlPreloadedResolver::Remove method
+## XmlPreloadedResolver::Remove(const [SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>\&) method
 
 
 Removes the data that corresponds to the URI from the [XmlPreloadedResolver](../).

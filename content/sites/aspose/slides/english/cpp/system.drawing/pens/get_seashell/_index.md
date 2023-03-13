@@ -1,12 +1,12 @@
 ---
-title: get_SeaShell
+title: get_SeaShell()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFF5EE.
 type: docs
 weight: 1574
 url: /cpp/system.drawing/pens/get_seashell/
 ---
-## Pens::get_SeaShell method
+## Pens::get_SeaShell() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFF5EE.

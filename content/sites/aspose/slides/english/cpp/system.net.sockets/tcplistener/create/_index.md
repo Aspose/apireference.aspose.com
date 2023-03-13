@@ -1,12 +1,12 @@
 ---
-title: Create
+title: Create()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new instance using the specified port number.
 type: docs
 weight: 196
 url: /cpp/system.net.sockets/tcplistener/create/
 ---
-## TcpListener::Create method
+## TcpListener::Create(**int32_t**) method
 
 
 Creates a new instance using the specified port number.

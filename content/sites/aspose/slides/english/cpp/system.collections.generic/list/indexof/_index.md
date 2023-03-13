@@ -1,5 +1,5 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets first index of specific item.
 type: docs

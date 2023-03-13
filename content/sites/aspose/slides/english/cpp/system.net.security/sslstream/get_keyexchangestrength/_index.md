@@ -1,12 +1,12 @@
 ---
-title: get_KeyExchangeStrength
+title: get_KeyExchangeStrength()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the strength of the used key exchange algorithm.
 type: docs
 weight: 170
 url: /cpp/system.net.security/sslstream/get_keyexchangestrength/
 ---
-## SslStream::get_KeyExchangeStrength method
+## SslStream::get_KeyExchangeStrength() method
 
 
 Returns the strength of the used key exchange algorithm.

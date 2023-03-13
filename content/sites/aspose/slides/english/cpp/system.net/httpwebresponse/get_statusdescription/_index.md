@@ -1,12 +1,12 @@
 ---
-title: get_StatusDescription
+title: get_StatusDescription()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the string representation of the status code.
 type: docs
 weight: 92
 url: /cpp/system.net/httpwebresponse/get_statusdescription/
 ---
-## HttpWebResponse::get_StatusDescription method
+## HttpWebResponse::get_StatusDescription() method
 
 
 Returns the string representation of the status code.

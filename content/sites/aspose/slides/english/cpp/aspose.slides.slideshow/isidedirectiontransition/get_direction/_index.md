@@ -1,12 +1,12 @@
 ---
-title: get_Direction
+title: get_Direction()
 second_title: Aspose.Slides for C++ API Reference
 description: Direction of transition. Read TransitionSideDirectionType.
 type: docs
 weight: 1
 url: /cpp/aspose.slides.slideshow/isidedirectiontransition/get_direction/
 ---
-## ISideDirectionTransition::get_Direction method
+## ISideDirectionTransition::get_Direction() method
 
 
 Direction of transition. Read [TransitionSideDirectionType](../../transitionsidedirectiontype/).

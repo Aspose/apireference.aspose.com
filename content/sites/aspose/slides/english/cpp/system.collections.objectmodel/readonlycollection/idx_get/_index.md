@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets item at specific position.
 type: docs
 weight: 79
 url: /cpp/system.collections.objectmodel/readonlycollection/idx_get/
 ---
-## ReadOnlyCollection::idx_get method
+## ReadOnlyCollection::idx_get(int) const method
 
 
 Gets item at specific position.

@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the specified cookie from the collection.
 type: docs
 weight: 66
 url: /cpp/system.net/cookiecollection/remove/
 ---
-## CookieCollection::Remove method
+## CookieCollection::Remove(const [System::SharedPtr](../../../system/sharedptr/)\<[Cookie](../../cookie/)\>\&) method
 
 
 Removes the specified cookie from the collection.

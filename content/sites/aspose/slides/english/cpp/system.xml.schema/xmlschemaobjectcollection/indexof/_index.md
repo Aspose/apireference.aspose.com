@@ -1,12 +1,12 @@
 ---
-title: IndexOf
+title: IndexOf()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collection index corresponding to the specified XmlSchemaObject.
 type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/indexof/
 ---
-## XmlSchemaObjectCollection::IndexOf method
+## XmlSchemaObjectCollection::IndexOf(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaObject](../../xmlschemaobject/)\>\&) method
 
 
 Returns the collection index corresponding to the specified [XmlSchemaObject](../../xmlschemaobject/).

@@ -1,12 +1,12 @@
 ---
-title: get_RotateShadowWithShape
+title: get_RotateShadowWithShape()
 second_title: Aspose.Slides for C++ API Reference
 description: Specifies whether the shadow should rotate with the shape if the shape is rotated. Read-only bool.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.effects/ioutershadoweffectivedata/get_rotateshadowwithshape/
 ---
-## IOuterShadowEffectiveData::get_RotateShadowWithShape method
+## IOuterShadowEffectiveData::get_RotateShadowWithShape() method
 
 
 Specifies whether the shadow should rotate with the shape if the shape is rotated. Read-only **bool**.

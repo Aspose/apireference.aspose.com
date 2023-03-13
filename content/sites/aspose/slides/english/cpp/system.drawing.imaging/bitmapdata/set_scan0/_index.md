@@ -1,12 +1,12 @@
 ---
-title: set_Scan0
+title: set_Scan0()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the address of the first pixel data in the bitmap.
 type: docs
 weight: 92
 url: /cpp/system.drawing.imaging/bitmapdata/set_scan0/
 ---
-## BitmapData::set_Scan0 method
+## BitmapData::set_Scan0(IntPtr) method
 
 
 Sets the address of the first pixel data in the bitmap.

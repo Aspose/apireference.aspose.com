@@ -1,12 +1,12 @@
 ---
-title: set_MaxForwards
+title: set_MaxForwards()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value of the 'Max-Forwards' header.
 type: docs
 weight: 287
 url: /cpp/system.net.http.headers/httprequestheaders/set_maxforwards/
 ---
-## HttpRequestHeaders::set_MaxForwards method
+## HttpRequestHeaders::set_MaxForwards([Nullable](../../../system/nullable/)\<**int32_t**\>) method
 
 
 Sets a value of the 'Max-Forwards' header.

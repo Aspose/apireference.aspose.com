@@ -1,12 +1,12 @@
 ---
-title: set_Archived
+title: set_Archived()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value indicating that certificate is archived.
 type: docs
 weight: 209
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/set_archived/
 ---
-## X509Certificate2::set_Archived method
+## X509Certificate2::set_Archived(**bool**) const method
 
 
 Sets a value indicating that certificate is archived.

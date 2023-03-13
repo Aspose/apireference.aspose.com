@@ -1,12 +1,12 @@
 ---
-title: get_LastModified
+title: get_LastModified()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a value of the 'Last-Modified' header.
 type: docs
 weight: 222
 url: /cpp/system.net.http.headers/httpcontentheaders/get_lastmodified/
 ---
-## HttpContentHeaders::get_LastModified method
+## HttpContentHeaders::get_LastModified() method
 
 
 Gets a value of the 'Last-Modified' header.

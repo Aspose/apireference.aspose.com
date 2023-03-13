@@ -1,12 +1,12 @@
 ---
-title: SetValue
+title: SetValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the value of the current node.
 type: docs
 weight: 352
 url: /cpp/system.xml.xpath/xpathnavigator/setvalue/
 ---
-## XPathNavigator::SetValue method
+## XPathNavigator::SetValue([String](../../../system/string/)) method
 
 
 Sets the value of the current node.

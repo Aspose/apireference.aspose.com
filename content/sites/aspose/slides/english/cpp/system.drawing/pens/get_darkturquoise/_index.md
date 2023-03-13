@@ -1,12 +1,12 @@
 ---
-title: get_DarkTurquoise
+title: get_DarkTurquoise()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF00CED1.
 type: docs
 weight: 482
 url: /cpp/system.drawing/pens/get_darkturquoise/
 ---
-## Pens::get_DarkTurquoise method
+## Pens::get_DarkTurquoise() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF00CED1.

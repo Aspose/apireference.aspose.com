@@ -1,12 +1,12 @@
 ---
-title: TryAdd
+title: TryAdd()
 second_title: Aspose.Slides for C++ API Reference
 description: Adds element into set.
 type: docs
 weight: 105
 url: /cpp/system.collections.generic/hashset/tryadd/
 ---
-## HashSet::TryAdd method
+## HashSet::TryAdd(const T\&) method
 
 
 Adds element into set.

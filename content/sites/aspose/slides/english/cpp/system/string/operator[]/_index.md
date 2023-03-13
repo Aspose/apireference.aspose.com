@@ -1,12 +1,12 @@
 ---
-title: operator[]
+title: operator[]()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets character at specified position.
 type: docs
 weight: 222
 url: /cpp/system/string/operator[]/
 ---
-## String::operator[] method
+## String::operator[](int) const method
 
 
 Gets character at specified position.

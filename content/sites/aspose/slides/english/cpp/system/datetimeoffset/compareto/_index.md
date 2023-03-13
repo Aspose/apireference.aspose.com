@@ -1,5 +1,5 @@
 ---
-title: CompareTo
+title: CompareTo()
 second_title: Aspose.Slides for C++ API Reference
 description: Compares two DateTimeOffset objects.
 type: docs

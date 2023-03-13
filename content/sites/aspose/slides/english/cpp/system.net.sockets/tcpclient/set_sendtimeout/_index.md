@@ -1,12 +1,12 @@
 ---
-title: set_SendTimeout
+title: set_SendTimeout()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets a value that indicates an amount of time after which data sending will time out.
 type: docs
 weight: 170
 url: /cpp/system.net.sockets/tcpclient/set_sendtimeout/
 ---
-## TcpClient::set_SendTimeout method
+## TcpClient::set_SendTimeout(**int32_t**) method
 
 
 Sets a value that indicates an amount of time after which data sending will time out.

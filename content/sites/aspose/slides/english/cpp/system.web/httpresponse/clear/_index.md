@@ -1,12 +1,12 @@
 ---
-title: Clear
+title: Clear()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 40
 url: /cpp/system.web/httpresponse/clear/
 ---
-## HttpResponse::Clear method
+## HttpResponse::Clear() method
 
 
 Not implemented.

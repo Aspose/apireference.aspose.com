@@ -1,12 +1,12 @@
 ---
-title: set_Use
+title: set_Use()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets information about how the attribute is used.
 type: docs
 weight: 196
 url: /cpp/system.xml.schema/xmlschemaattribute/set_use/
 ---
-## XmlSchemaAttribute::set_Use method
+## XmlSchemaAttribute::set_Use([XmlSchemaUse](../../xmlschemause/)) method
 
 
 Sets information about how the attribute is used.

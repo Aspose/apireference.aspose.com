@@ -1,12 +1,12 @@
 ---
-title: MathSuperscriptElement
+title: MathSuperscriptElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the MathSuperscriptElement class.
 type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/mathsuperscriptelement/mathsuperscriptelement/
 ---
-## MathSuperscriptElement::MathSuperscriptElement constructor
+## MathSuperscriptElement::MathSuperscriptElement([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) constructor
 
 
 Initializes a new instance of the [MathSuperscriptElement](../) class.

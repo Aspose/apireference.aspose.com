@@ -1,12 +1,12 @@
 ---
-title: MoveToElement
+title: MoveToElement()
 second_title: Aspose.Slides for C++ API Reference
 description: Moves to the element that contains the current attribute node.
 type: docs
 weight: 547
 url: /cpp/system.xml/xmltextreader/movetoelement/
 ---
-## XmlTextReader::MoveToElement method
+## XmlTextReader::MoveToElement() method
 
 
 Moves to the element that contains the current attribute node.

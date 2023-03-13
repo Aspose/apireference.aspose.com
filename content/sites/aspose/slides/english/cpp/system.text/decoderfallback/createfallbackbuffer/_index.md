@@ -1,12 +1,12 @@
 ---
-title: CreateFallbackBuffer
+title: CreateFallbackBuffer()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets buffer associated with fallback algorithm.
 type: docs
 weight: 53
 url: /cpp/system.text/decoderfallback/createfallbackbuffer/
 ---
-## DecoderFallback::CreateFallbackBuffer method
+## DecoderFallback::CreateFallbackBuffer() method
 
 
 Gets buffer associated with fallback algorithm.

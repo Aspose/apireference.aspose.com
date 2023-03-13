@@ -1,12 +1,12 @@
 ---
-title: get_LineJoin
+title: get_LineJoin()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a value that indicates how the lines drawn by this Pen object are joined.
 type: docs
 weight: 118
 url: /cpp/system.drawing/pen/get_linejoin/
 ---
-## Pen::get_LineJoin method
+## Pen::get_LineJoin() const method
 
 
 Returns a value that indicates how the lines drawn by this [Pen](../) object are joined.

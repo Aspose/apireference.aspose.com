@@ -1,12 +1,12 @@
 ---
-title: set_GapWidth
+title: set_GapWidth()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets gap width. Write int32_t.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/iupdownbarsmanager/set_gapwidth/
 ---
-## IUpDownBarsManager::set_GapWidth method
+## IUpDownBarsManager::set_GapWidth(**int32_t**) method
 
 
 Sets gap width. Write **int32_t**.

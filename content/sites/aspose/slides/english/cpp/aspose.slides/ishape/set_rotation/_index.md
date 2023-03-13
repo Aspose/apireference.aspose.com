@@ -1,12 +1,12 @@
 ---
-title: set_Rotation
+title: set_Rotation()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Write float.
 type: docs
 weight: 209
 url: /cpp/aspose.slides/ishape/set_rotation/
 ---
-## IShape::set_Rotation method
+## IShape::set_Rotation(**float**) method
 
 
 Sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Write **float**.

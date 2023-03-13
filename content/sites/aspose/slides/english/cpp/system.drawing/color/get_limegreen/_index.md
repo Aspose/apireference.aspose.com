@@ -1,12 +1,12 @@
 ---
-title: get_LimeGreen
+title: get_LimeGreen()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a color whose ARGB value in hexadecimal notation is #FF32CD32.
 type: docs
 weight: 1249
 url: /cpp/system.drawing/color/get_limegreen/
 ---
-## Color::get_LimeGreen method
+## Color::get_LimeGreen() method
 
 
 Returns a color whose ARGB value in hexadecimal notation is #FF32CD32.

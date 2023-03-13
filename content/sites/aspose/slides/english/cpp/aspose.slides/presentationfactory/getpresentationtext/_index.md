@@ -1,7 +1,7 @@
 ---
-title: GetPresentationText
+title: GetPresentationText()
 second_title: Aspose.Slides for C++ API Reference
-description: Retrieves the raw text from the slides.
+description: Retrieves the raw text from the slides
 type: docs
 weight: 53
 url: /cpp/aspose.slides/presentationfactory/getpresentationtext/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides/presentationfactory/getpresentationtext/
 ## PresentationFactory::GetPresentationText([System::String](../../../system/string/), [TextExtractionArrangingMode](../../textextractionarrangingmode/)) method
 
 
-Retrieves the raw text from the slides.
+Retrieves the raw text from the slides
 
 ```cpp
 System::SharedPtr<IPresentationText> Aspose::Slides::PresentationFactory::GetPresentationText(System::String file, TextExtractionArrangingMode mode) override
@@ -39,7 +39,7 @@ The instance of [PresentationText](../../presentationtext/) containing the Slide
 ## PresentationFactory::GetPresentationText([System::SharedPtr](../../../system/sharedptr/)\<[System::IO::Stream](../../../system.io/stream/)\>, [TextExtractionArrangingMode](../../textextractionarrangingmode/)) method
 
 
-Retrieves the raw text from the slides.
+Retrieves the raw text from the slides
 
 ```cpp
 System::SharedPtr<IPresentationText> Aspose::Slides::PresentationFactory::GetPresentationText(System::SharedPtr<System::IO::Stream> stream, TextExtractionArrangingMode mode) override
@@ -69,7 +69,7 @@ The instance of [PresentationText](../../presentationtext/) containing the Slide
 ## PresentationFactory::GetPresentationText([System::SharedPtr](../../../system/sharedptr/)\<[System::IO::Stream](../../../system.io/stream/)\>, [TextExtractionArrangingMode](../../textextractionarrangingmode/), [System::SharedPtr](../../../system/sharedptr/)\<[ILoadOptions](../../iloadoptions/)\>) method
 
 
-Retrieves the raw text from the slides.
+Retrieves the raw text from the slides
 
 ```cpp
 System::SharedPtr<IPresentationText> Aspose::Slides::PresentationFactory::GetPresentationText(System::SharedPtr<System::IO::Stream> stream, TextExtractionArrangingMode mode, System::SharedPtr<ILoadOptions> options) override

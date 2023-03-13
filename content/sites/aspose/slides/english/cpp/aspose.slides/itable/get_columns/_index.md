@@ -1,12 +1,12 @@
 ---
-title: get_Columns
+title: get_Columns()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the collectoin of columns. Read-only IColumnCollection.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/itable/get_columns/
 ---
-## ITable::get_Columns method
+## ITable::get_Columns() method
 
 
 Returns the collectoin of columns. Read-only [IColumnCollection](../../icolumncollection/).

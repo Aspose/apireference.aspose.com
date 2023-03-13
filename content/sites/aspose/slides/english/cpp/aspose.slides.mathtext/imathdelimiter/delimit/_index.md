@@ -1,15 +1,15 @@
 ---
-title: Delimit
+title: Delimit()
 second_title: Aspose.Slides for C++ API Reference
-description: Delimits arguments using the specified delimiter character.
+description: Delimits arguments using the specified delimiter character
 type: docs
 weight: 144
 url: /cpp/aspose.slides.mathtext/imathdelimiter/delimit/
 ---
-## IMathDelimiter::Delimit method
+## IMathDelimiter::Delimit(char16_t) method
 
 
-Delimits arguments using the specified delimiter character.
+Delimits arguments using the specified delimiter character
 
 ```cpp
 virtual System::SharedPtr<IMathDelimiter> Aspose::Slides::MathText::IMathDelimiter::Delimit(char16_t separatorCharacter)=0

@@ -1,5 +1,5 @@
 ---
-title: IsAmbiguousTime
+title: IsAmbiguousTime()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if specified date and time is ambiguous and can be mapped to many UTC times.
 type: docs

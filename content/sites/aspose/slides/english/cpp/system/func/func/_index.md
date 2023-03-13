@@ -1,5 +1,5 @@
 ---
-title: Func
+title: Func()
 second_title: Aspose.Slides for C++ API Reference
 description: Default constructor that creates null-Func.
 type: docs

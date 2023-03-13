@@ -1,15 +1,15 @@
 ---
-title: get_ShadowMatrixXtoX
+title: get_ShadowMatrixXtoX()
 second_title: Aspose.Slides for C++ API Reference
-description: Represents 'shadow.matrix.xtox' property.
+description: Represents 'shadow.matrix.xtox' property
 type: docs
 weight: 1067
 url: /cpp/aspose.slides.animation/behaviorproperty/get_shadowmatrixxtox/
 ---
-## BehaviorProperty::get_ShadowMatrixXtoX method
+## BehaviorProperty::get_ShadowMatrixXtoX() method
 
 
-Represents 'shadow.matrix.xtox' property.
+Represents 'shadow.matrix.xtox' property
 
 ```cpp
 static System::SharedPtr<BehaviorProperty> Aspose::Slides::Animation::BehaviorProperty::get_ShadowMatrixXtoX()

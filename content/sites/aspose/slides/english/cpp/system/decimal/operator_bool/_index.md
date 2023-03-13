@@ -1,12 +1,12 @@
 ---
-title: operator bool
+title: operator bool()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts the value represented by the current object to a boolean value.
 type: docs
 weight: 66
 url: /cpp/system/decimal/operator_bool/
 ---
-## Decimal::operator bool method
+## Decimal::operator bool() const method
 
 
 Converts the value represented by the current object to a boolean value.

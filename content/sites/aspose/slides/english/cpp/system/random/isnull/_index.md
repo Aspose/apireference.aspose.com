@@ -1,12 +1,12 @@
 ---
-title: IsNull
+title: IsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: Always returns false.
 type: docs
 weight: 1
 url: /cpp/system/random/isnull/
 ---
-## Random::IsNull method
+## Random::IsNull() const method
 
 
 Always returns false.

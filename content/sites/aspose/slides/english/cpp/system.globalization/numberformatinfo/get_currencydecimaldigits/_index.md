@@ -1,12 +1,12 @@
 ---
-title: get_CurrencyDecimalDigits
+title: get_CurrencyDecimalDigits()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets number of currency decimal digits.
 type: docs
 weight: 300
 url: /cpp/system.globalization/numberformatinfo/get_currencydecimaldigits/
 ---
-## NumberFormatInfo::get_CurrencyDecimalDigits method
+## NumberFormatInfo::get_CurrencyDecimalDigits() const method
 
 
 Gets number of currency decimal digits.

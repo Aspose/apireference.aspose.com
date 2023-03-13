@@ -1,12 +1,12 @@
 ---
-title: get_LineInfoProvider
+title: get_LineInfoProvider()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the line number information for the XML node being validated.
 type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemavalidator/get_lineinfoprovider/
 ---
-## XmlSchemaValidator::get_LineInfoProvider method
+## XmlSchemaValidator::get_LineInfoProvider() method
 
 
 Returns the line number information for the XML node being validated.

@@ -1,12 +1,12 @@
 ---
-title: get_MachineName
+title: get_MachineName()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the NetBIOS name of this computer.
 type: docs
 weight: 79
 url: /cpp/system/environment/get_machinename/
 ---
-## Environment::get_MachineName method
+## Environment::get_MachineName() method
 
 
 Returns the NetBIOS name of this computer.

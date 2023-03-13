@@ -1,12 +1,12 @@
 ---
-title: set_ContentStatus
+title: set_ContentStatus()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the content status of a presentation. Write System::String."
 type: docs
 weight: 495
 url: /cpp/aspose.slides/documentproperties/set_contentstatus/
 ---
-## DocumentProperties::set_ContentStatus method
+## DocumentProperties::set_ContentStatus([System::String](../../../system/string/)) method
 
 
 Sets the content status of a presentation. Write [System::String](../../../system/string/).

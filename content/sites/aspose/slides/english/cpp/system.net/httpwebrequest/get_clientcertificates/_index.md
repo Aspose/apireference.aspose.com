@@ -1,12 +1,12 @@
 ---
-title: get_ClientCertificates
+title: get_ClientCertificates()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the collection of the certificates that are associated with the current request.
 type: docs
 weight: 599
 url: /cpp/system.net/httpwebrequest/get_clientcertificates/
 ---
-## HttpWebRequest::get_ClientCertificates method
+## HttpWebRequest::get_ClientCertificates() method
 
 
 Gets the collection of the certificates that are associated with the current request.

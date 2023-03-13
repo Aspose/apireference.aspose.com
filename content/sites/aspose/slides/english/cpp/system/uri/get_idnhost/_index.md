@@ -1,12 +1,12 @@
 ---
-title: get_IdnHost
+title: get_IdnHost()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an International Domain Name of the host.
 type: docs
 weight: 235
 url: /cpp/system/uri/get_idnhost/
 ---
-## Uri::get_IdnHost method
+## Uri::get_IdnHost() const method
 
 
 Returns an International Domain Name of the host.

@@ -1,12 +1,12 @@
 ---
-title: get_Argument
+title: get_Argument()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns mathematical element at the specified index of the array. Read-only Aspose::Slides::MathText::IMathElement."
 type: docs
 weight: 196
 url: /cpp/aspose.slides.mathtext/mathdelimiter/get_argument/
 ---
-## MathDelimiter::get_Argument method
+## MathDelimiter::get_Argument(**int32_t**) method
 
 
 Returns mathematical element at the specified index of the array. Read-only [Aspose::Slides::MathText::IMathElement](../../imathelement/).

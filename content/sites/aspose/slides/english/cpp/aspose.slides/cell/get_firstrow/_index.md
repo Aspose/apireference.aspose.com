@@ -1,12 +1,12 @@
 ---
-title: get_FirstRow
+title: get_FirstRow()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets first row of cell. Read-only IRow.
 type: docs
 weight: 274
 url: /cpp/aspose.slides/cell/get_firstrow/
 ---
-## Cell::get_FirstRow method
+## Cell::get_FirstRow() method
 
 
 Gets first row of cell. Read-only [IRow](../../irow/).

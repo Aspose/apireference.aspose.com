@@ -1,12 +1,12 @@
 ---
-title: get_HasValue
+title: get_HasValue()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a value indicating whether the current node can have a XmlNodeReader::get_Value value."
 type: docs
 weight: 66
 url: /cpp/system.xml/xmlnodereader/get_hasvalue/
 ---
-## XmlNodeReader::get_HasValue method
+## XmlNodeReader::get_HasValue() method
 
 
 Returns a value indicating whether the current node can have a [XmlNodeReader::get_Value](../get_value/) value.

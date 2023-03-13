@@ -1,5 +1,5 @@
 ---
-title: FillEllipse
+title: FillEllipse()
 second_title: Aspose.Slides for C++ API Reference
 description: Fills the interior of the ellipse specified by the bounding rectangle using the specified brush.
 type: docs

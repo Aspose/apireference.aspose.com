@@ -1,12 +1,12 @@
 ---
-title: get_MenuHighlight
+title: get_MenuHighlight()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Color object that represents the color used to highlight menu items when the menu appears as a flat menu.
 type: docs
 weight: 352
 url: /cpp/system.drawing/systemcolors/get_menuhighlight/
 ---
-## SystemColors::get_MenuHighlight method
+## SystemColors::get_MenuHighlight() method
 
 
 Returns a [Color](../../color/) object that represents the color used to highlight menu items when the menu appears as a flat menu.

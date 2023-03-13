@@ -1,12 +1,12 @@
 ---
-title: Dispose
+title: Dispose()
 second_title: Aspose.Slides for C++ API Reference
 description: Disposes the current instance. This method also disposes the handler if required.
 type: docs
 weight: 27
 url: /cpp/system.net.http/httpmessageinvoker/dispose/
 ---
-## HttpMessageInvoker::Dispose method
+## HttpMessageInvoker::Dispose() method
 
 
 Disposes the current instance. This method also disposes the handler if required.

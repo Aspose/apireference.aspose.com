@@ -1,12 +1,12 @@
 ---
-title: GetProductInfoLength
+title: GetProductInfoLength()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts a passed string from the specified index to an instance of the ProductInfoHeaderValue class.
 type: docs
 weight: 105
 url: /cpp/system.net.http.headers/productinfoheadervalue/getproductinfolength/
 ---
-## ProductInfoHeaderValue::GetProductInfoLength method
+## ProductInfoHeaderValue::GetProductInfoLength([String](../../../system/string/), **int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[ProductInfoHeaderValue](../)\>\&) method
 
 
 Converts a passed string from the specified index to an instance of the [ProductInfoHeaderValue](../) class.

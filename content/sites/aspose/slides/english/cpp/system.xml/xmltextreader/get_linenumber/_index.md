@@ -1,12 +1,12 @@
 ---
-title: get_LineNumber
+title: get_LineNumber()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the current line number.
 type: docs
 weight: 274
 url: /cpp/system.xml/xmltextreader/get_linenumber/
 ---
-## XmlTextReader::get_LineNumber method
+## XmlTextReader::get_LineNumber() method
 
 
 Returns the current line number.

@@ -1,12 +1,12 @@
 ---
-title: Clone
+title: Clone()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a copy of the current object and returns a shared pointer to it.
 type: docs
 weight: 157
 url: /cpp/system.globalization/hijricalendar/clone/
 ---
-## HijriCalendar::Clone method
+## HijriCalendar::Clone() method
 
 
 Creates a copy of the current object and returns a shared pointer to it.

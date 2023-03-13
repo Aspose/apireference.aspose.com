@@ -1,12 +1,12 @@
 ---
-title: set_DefaultThreadCurrentCulture
+title: set_DefaultThreadCurrentCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets default culture in the current application domain.
 type: docs
 weight: 469
 url: /cpp/system.globalization/cultureinfo/set_defaultthreadcurrentculture/
 ---
-## CultureInfo::set_DefaultThreadCurrentCulture method
+## CultureInfo::set_DefaultThreadCurrentCulture(const [CultureInfoPtr](../../cultureinfoptr/)\&) method
 
 
 Sets default culture in the current application domain.

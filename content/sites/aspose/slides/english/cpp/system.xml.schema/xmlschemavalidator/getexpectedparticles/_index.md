@@ -1,12 +1,12 @@
 ---
-title: GetExpectedParticles
+title: GetExpectedParticles()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the expected particles in the current element context.
 type: docs
 weight: 248
 url: /cpp/system.xml.schema/xmlschemavalidator/getexpectedparticles/
 ---
-## XmlSchemaValidator::GetExpectedParticles method
+## XmlSchemaValidator::GetExpectedParticles() method
 
 
 Returns the expected particles in the current element context.

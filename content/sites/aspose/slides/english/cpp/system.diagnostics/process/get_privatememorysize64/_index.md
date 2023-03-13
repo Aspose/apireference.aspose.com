@@ -1,12 +1,12 @@
 ---
-title: get_PrivateMemorySize64
+title: get_PrivateMemorySize64()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets process private memory set size.
 type: docs
 weight: 105
 url: /cpp/system.diagnostics/process/get_privatememorysize64/
 ---
-## Process::get_PrivateMemorySize64 method
+## Process::get_PrivateMemorySize64() const method
 
 
 Gets process private memory set size.

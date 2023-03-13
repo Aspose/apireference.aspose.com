@@ -1,12 +1,12 @@
 ---
-title: get_FirstSlide
+title: get_FirstSlide()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a hyperlink to the first slide of the presentation. Read-only Hyperlink.
 type: docs
 weight: 53
 url: /cpp/aspose.slides/hyperlink/get_firstslide/
 ---
-## Hyperlink::get_FirstSlide method
+## Hyperlink::get_FirstSlide() method
 
 
 Returns a hyperlink to the first slide of the presentation. Read-only [Hyperlink](../).

@@ -1,12 +1,12 @@
 ---
-title: virtualizeEndConstIterator
+title: virtualizeEndConstIterator()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the implementation of end const iterator for the current container.
 type: docs
 weight: 92
 url: /cpp/system.security.cryptography.xml/keyinfo/virtualizeendconstiterator/
 ---
-## KeyInfo::virtualizeEndConstIterator method
+## KeyInfo::virtualizeEndConstIterator() const method
 
 
 Gets the implementation of end const iterator for the current container.

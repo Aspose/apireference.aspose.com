@@ -1,12 +1,12 @@
 ---
-title: get_CurrencySymbol
+title: get_CurrencySymbol()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets currency symbol.
 type: docs
 weight: 40
 url: /cpp/system.globalization/regioninfo/get_currencysymbol/
 ---
-## RegionInfo::get_CurrencySymbol method
+## RegionInfo::get_CurrencySymbol() const method
 
 
 Gets currency symbol.

@@ -1,12 +1,12 @@
 ---
-title: set_Company
+title: set_Company()
 second_title: Aspose.Slides for C++ API Reference
 description: "Sets the company property. Write System::String."
 type: docs
 weight: 53
 url: /cpp/aspose.slides/documentproperties/set_company/
 ---
-## DocumentProperties::set_Company method
+## DocumentProperties::set_Company([System::String](../../../system/string/)) method
 
 
 Sets the company property. Write [System::String](../../../system/string/).

@@ -1,12 +1,12 @@
 ---
-title: SetOrRemoveParsedValue
+title: SetOrRemoveParsedValue()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a header by the specified name and sets or removes its value. The header value will be removed when the 'value' parameter is nullptr, otherwise a parsed value will be set.
 type: docs
 weight: 183
 url: /cpp/system.net.http.headers/httpheaders/setorremoveparsedvalue/
 ---
-## HttpHeaders::SetOrRemoveParsedValue method
+## HttpHeaders::SetOrRemoveParsedValue([String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Gets a header by the specified name and sets or removes its value. The header value will be removed when the 'value' parameter is nullptr, otherwise a parsed value will be set.

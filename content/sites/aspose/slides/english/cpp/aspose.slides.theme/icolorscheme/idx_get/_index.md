@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the element at the specified index. Read-only IColorFormat.
 type: docs
 weight: 157
 url: /cpp/aspose.slides.theme/icolorscheme/idx_get/
 ---
-## IColorScheme::idx_get method
+## IColorScheme::idx_get([ColorSchemeIndex](../../../aspose.slides/colorschemeindex/)) method
 
 
 Gets the element at the specified index. Read-only [IColorFormat](../../../aspose.slides/icolorformat/).

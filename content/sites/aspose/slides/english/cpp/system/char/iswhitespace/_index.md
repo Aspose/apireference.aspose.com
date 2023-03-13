@@ -1,5 +1,5 @@
 ---
-title: IsWhiteSpace
+title: IsWhiteSpace()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the character at the specified index in the specified character buffer is classified as a white space character.
 type: docs

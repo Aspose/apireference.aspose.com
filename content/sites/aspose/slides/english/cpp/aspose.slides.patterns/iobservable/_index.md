@@ -1,7 +1,7 @@
 ---
 title: IObservable
 second_title: Aspose.Slides for C++ API Reference
-description: Interface for Observable objects. See  for more details.
+description: Interface for Observable objects. See  for more details
 type: docs
 weight: 1
 url: /cpp/aspose.slides.patterns/iobservable/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.patterns/iobservable/
 ## IObservable class
 
 
-Interface for Observable objects. See [http://en.wikipedia.org/wiki/Observer_pattern](http://en.wikipedia.org/wiki/Observer_pattern) for more details.
+Interface for Observable objects. See [http://en.wikipedia.org/wiki/Observer_pattern](http://en.wikipedia.org/wiki/Observer_pattern) for more details
 
 ```cpp
 class IObservable : public virtual System::Object

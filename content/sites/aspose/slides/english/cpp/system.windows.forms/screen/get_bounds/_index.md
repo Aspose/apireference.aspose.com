@@ -1,12 +1,12 @@
 ---
-title: get_Bounds
+title: get_Bounds()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets screen bounds.
 type: docs
 weight: 14
 url: /cpp/system.windows.forms/screen/get_bounds/
 ---
-## Screen::get_Bounds method
+## Screen::get_Bounds() const method
 
 
 Gets screen bounds.

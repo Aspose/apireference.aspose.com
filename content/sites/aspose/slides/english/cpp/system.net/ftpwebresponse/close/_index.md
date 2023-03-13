@@ -1,12 +1,12 @@
 ---
-title: Close
+title: Close()
 second_title: Aspose.Slides for C++ API Reference
 description: Not implemented.
 type: docs
 weight: 53
 url: /cpp/system.net/ftpwebresponse/close/
 ---
-## FtpWebResponse::Close method
+## FtpWebResponse::Close() method
 
 
 Not implemented.

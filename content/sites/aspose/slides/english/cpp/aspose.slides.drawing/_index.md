@@ -13,10 +13,10 @@ url: /cpp/aspose.slides.drawing/
 
 | Class | Description |
 | --- | --- |
-| [Margin32f](./margin32f/) | Margin. |
-| [Margin64d](./margin64d/) | Margin. |
-| [Rect32f](./rect32f/) | Rectangle struct. |
-| [Rect64d](./rect64d/) | Rectangle struct. |
+| [Margin32f](./margin32f/) | Margin |
+| [Margin64d](./margin64d/) | Margin |
+| [Rect32f](./rect32f/) | Rectangle struct |
+| [Rect64d](./rect64d/) | Rectangle struct |
 | [Vector2d32f](./vector2d32f/) | 2D vector with **float** components |
 | [Vector2d64d](./vector2d64d/) | 2D vector with **double** components |
 ## Functions

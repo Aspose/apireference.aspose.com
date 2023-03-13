@@ -1,12 +1,12 @@
 ---
-title: IsNull
+title: IsNull()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 27
 url: /cpp/system.security.cryptography.x509certificates/x509extensioncollectionptr/isnull/
 ---
-## X509ExtensionCollectionPtr::IsNull method
+## X509ExtensionCollectionPtr::IsNull() const method
 
 
 

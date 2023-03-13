@@ -1,12 +1,12 @@
 ---
-title: get_ShowMajorGridLines
+title: get_ShowMajorGridLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Represents if the major gridlines showed. Read-only bool.
 type: docs
 weight: 664
 url: /cpp/aspose.slides.charts/iaxis/get_showmajorgridlines/
 ---
-## IAxis::get_ShowMajorGridLines method
+## IAxis::get_ShowMajorGridLines() method
 
 
 Represents if the major gridlines showed. Read-only **bool**.

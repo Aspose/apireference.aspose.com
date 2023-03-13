@@ -1,12 +1,12 @@
 ---
-title: Flush
+title: Flush()
 second_title: Aspose.Slides for C++ API Reference
 description: Flushes the output stream.
 type: docs
 weight: 40
 url: /cpp/system.io/binarywriter/flush/
 ---
-## BinaryWriter::Flush method
+## BinaryWriter::Flush() method
 
 
 Flushes the output stream.

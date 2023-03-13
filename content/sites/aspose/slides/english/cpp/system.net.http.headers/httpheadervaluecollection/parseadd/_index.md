@@ -1,12 +1,12 @@
 ---
-title: ParseAdd
+title: ParseAdd()
 second_title: Aspose.Slides for C++ API Reference
 description: Parses a header string representation and adds it to the current collection.
 type: docs
 weight: 66
 url: /cpp/system.net.http.headers/httpheadervaluecollection/parseadd/
 ---
-## HttpHeaderValueCollection::ParseAdd method
+## HttpHeaderValueCollection::ParseAdd([String](../../../system/string/)) method
 
 
 Parses a header string representation and adds it to the current collection.

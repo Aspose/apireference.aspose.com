@@ -1,12 +1,12 @@
 ---
-title: get_Text
+title: get_Text()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets tag inner text.
 type: docs
 weight: 92
 url: /cpp/system.security/securityelement/get_text/
 ---
-## SecurityElement::get_Text method
+## SecurityElement::get_Text() method
 
 
 Gets tag inner text.

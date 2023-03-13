@@ -1,12 +1,12 @@
 ---
-title: set_CurrentCulture
+title: set_CurrentCulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets thread culture.
 type: docs
 weight: 53
 url: /cpp/system.threading/thread/set_currentculture/
 ---
-## Thread::set_CurrentCulture method
+## Thread::set_CurrentCulture(const [SharedPtr](../../../system/sharedptr/)\<[Globalization::CultureInfo](../../../system.globalization/cultureinfo/)\>\&) method
 
 
 Sets thread culture.

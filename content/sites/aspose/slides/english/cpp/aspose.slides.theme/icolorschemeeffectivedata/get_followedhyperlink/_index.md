@@ -1,12 +1,12 @@
 ---
-title: get_FollowedHyperlink
+title: get_FollowedHyperlink()
 second_title: Aspose.Slides for C++ API Reference
 description: "Color for the visited hyperlinks. Read-only System::Drawing::Color."
 type: docs
 weight: 144
 url: /cpp/aspose.slides.theme/icolorschemeeffectivedata/get_followedhyperlink/
 ---
-## IColorSchemeEffectiveData::get_FollowedHyperlink method
+## IColorSchemeEffectiveData::get_FollowedHyperlink() method
 
 
 Color for the visited hyperlinks. Read-only [System::Drawing::Color](../../../system.drawing/color/).

@@ -1,12 +1,12 @@
 ---
-title: set_IsNumberFormatLinkedToSource
+title: set_IsNumberFormatLinkedToSource()
 second_title: Aspose.Slides for C++ API Reference
 description: Indicates whether the format is linked source data. Write bool.
 type: docs
 weight: 820
 url: /cpp/aspose.slides.charts/iaxis/set_isnumberformatlinkedtosource/
 ---
-## IAxis::set_IsNumberFormatLinkedToSource method
+## IAxis::set_IsNumberFormatLinkedToSource(**bool**) method
 
 
 Indicates whether the format is linked source data. Write **bool**.

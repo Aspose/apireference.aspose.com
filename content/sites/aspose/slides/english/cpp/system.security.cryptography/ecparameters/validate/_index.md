@@ -1,12 +1,12 @@
 ---
-title: Validate
+title: Validate()
 second_title: Aspose.Slides for C++ API Reference
 description: Validate current parameters.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/ecparameters/validate/
 ---
-## ECParameters::Validate method
+## ECParameters::Validate() const method
 
 
 Validate current parameters.

@@ -1,12 +1,12 @@
 ---
-title: get_SHA384
+title: get_SHA384()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets a HashAlgorithmName representing SHA384.
 type: docs
 weight: 40
 url: /cpp/system.security.cryptography/hashalgorithmname/get_sha384/
 ---
-## HashAlgorithmName::get_SHA384 method
+## HashAlgorithmName::get_SHA384() method
 
 
 Gets a [HashAlgorithmName](../) representing [SHA384](../../sha384/).

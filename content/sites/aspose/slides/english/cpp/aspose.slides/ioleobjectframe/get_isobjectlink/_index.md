@@ -1,12 +1,12 @@
 ---
-title: get_IsObjectLink
+title: get_IsObjectLink()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether an object is linked to external file. Read-only bool.
 type: docs
 weight: 183
 url: /cpp/aspose.slides/ioleobjectframe/get_isobjectlink/
 ---
-## IOleObjectFrame::get_IsObjectLink method
+## IOleObjectFrame::get_IsObjectLink() method
 
 
 Determines whether an object is linked to external file. Read-only **bool**.

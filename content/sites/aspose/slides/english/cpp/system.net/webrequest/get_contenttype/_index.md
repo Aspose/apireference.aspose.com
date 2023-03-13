@@ -1,12 +1,12 @@
 ---
-title: get_ContentType
+title: get_ContentType()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the MIME type of the request.
 type: docs
 weight: 170
 url: /cpp/system.net/webrequest/get_contenttype/
 ---
-## WebRequest::get_ContentType method
+## WebRequest::get_ContentType() method
 
 
 Gets the MIME type of the request.

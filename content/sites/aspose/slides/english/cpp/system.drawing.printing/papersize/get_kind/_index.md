@@ -1,12 +1,12 @@
 ---
-title: get_Kind
+title: get_Kind()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets the type of paper.
 type: docs
 weight: 40
 url: /cpp/system.drawing.printing/papersize/get_kind/
 ---
-## PaperSize::get_Kind method
+## PaperSize::get_Kind() const method
 
 
 Gets the type of paper.

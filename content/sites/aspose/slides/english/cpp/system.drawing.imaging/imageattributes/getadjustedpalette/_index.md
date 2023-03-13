@@ -1,12 +1,12 @@
 ---
-title: GetAdjustedPalette
+title: GetAdjustedPalette()
 second_title: Aspose.Slides for C++ API Reference
 description: NOT IMPLEMENTED.
 type: docs
 weight: 131
 url: /cpp/system.drawing.imaging/imageattributes/getadjustedpalette/
 ---
-## ImageAttributes::GetAdjustedPalette method
+## ImageAttributes::GetAdjustedPalette(const [SharedPtr](../../../system/sharedptr/)\<[ColorPalette](../../colorpalette/)\>\&, [ColorAdjustType](../../coloradjusttype/)) method
 
 
 NOT IMPLEMENTED.

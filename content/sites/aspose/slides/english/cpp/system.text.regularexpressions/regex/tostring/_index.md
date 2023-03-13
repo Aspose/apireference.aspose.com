@@ -1,12 +1,12 @@
 ---
-title: ToString
+title: ToString()
 second_title: Aspose.Slides for C++ API Reference
 description: Converts regex to string.
 type: docs
 weight: 118
 url: /cpp/system.text.regularexpressions/regex/tostring/
 ---
-## Regex::ToString method
+## Regex::ToString() const method
 
 
 Converts regex to string.

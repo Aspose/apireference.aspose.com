@@ -1,12 +1,12 @@
 ---
-title: set_StartOpenLeftPane
+title: set_StartOpenLeftPane()
 second_title: Aspose.Slides for C++ API Reference
 description: Start with opened left pane. Can be overridden in flashvars. Default is false.
 type: docs
 weight: 274
 url: /cpp/aspose.slides.export/swfoptions/set_startopenleftpane/
 ---
-## SwfOptions::set_StartOpenLeftPane method
+## SwfOptions::set_StartOpenLeftPane(**bool**) method
 
 
 Start with opened left pane. Can be overridden in flashvars. Default is false.

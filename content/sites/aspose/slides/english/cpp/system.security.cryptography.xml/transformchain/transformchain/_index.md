@@ -1,12 +1,12 @@
 ---
-title: TransformChain
+title: TransformChain()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 14
 url: /cpp/system.security.cryptography.xml/transformchain/transformchain/
 ---
-## TransformChain::TransformChain constructor
+## TransformChain::TransformChain() constructor
 
 
 

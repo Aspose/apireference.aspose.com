@@ -1,12 +1,12 @@
 ---
-title: SHA1CryptoServiceProvider
+title: SHA1CryptoServiceProvider()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructor.
 type: docs
 weight: 1
 url: /cpp/system.security.cryptography/sha1cryptoserviceprovider/sha1cryptoserviceprovider/
 ---
-## SHA1CryptoServiceProvider::SHA1CryptoServiceProvider constructor
+## SHA1CryptoServiceProvider::SHA1CryptoServiceProvider() constructor
 
 
 Constructor.

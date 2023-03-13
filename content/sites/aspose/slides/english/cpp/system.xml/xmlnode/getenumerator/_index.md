@@ -1,12 +1,12 @@
 ---
-title: GetEnumerator
+title: GetEnumerator()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an enumerator that iterates through the child nodes in the current node.
 type: docs
 weight: 508
 url: /cpp/system.xml/xmlnode/getenumerator/
 ---
-## XmlNode::GetEnumerator method
+## XmlNode::GetEnumerator() method
 
 
 Returns an enumerator that iterates through the child nodes in the current node.

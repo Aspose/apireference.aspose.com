@@ -1,12 +1,12 @@
 ---
-title: set_Domain
+title: set_Domain()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the domain that verifies the credentials.
 type: docs
 weight: 66
 url: /cpp/system.net/networkcredential/set_domain/
 ---
-## NetworkCredential::set_Domain method
+## NetworkCredential::set_Domain([String](../../../system/string/)) method
 
 
 Sets the domain that verifies the credentials.

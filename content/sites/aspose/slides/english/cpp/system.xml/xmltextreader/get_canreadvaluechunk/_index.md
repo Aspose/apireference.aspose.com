@@ -1,12 +1,12 @@
 ---
-title: get_CanReadValueChunk
+title: get_CanReadValueChunk()
 second_title: Aspose.Slides for C++ API Reference
 description: "Returns a value indicating whether the XmlTextReader implements the XmlReader::ReadValueChunk method."
 type: docs
 weight: 261
 url: /cpp/system.xml/xmltextreader/get_canreadvaluechunk/
 ---
-## XmlTextReader::get_CanReadValueChunk method
+## XmlTextReader::get_CanReadValueChunk() method
 
 
 Returns a value indicating whether the [XmlTextReader](../) implements the [XmlReader::ReadValueChunk](../../xmlreader/readvaluechunk/) method.

@@ -1,12 +1,12 @@
 ---
-title: ValidationEventHandler_remove
+title: ValidationEventHandler_remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes an event handler for receiving information about XML Schema definition language (XSD) schema validation errors.
 type: docs
 weight: 144
 url: /cpp/system.xml.schema/xmlschemaset/validationeventhandler_remove/
 ---
-## XmlSchemaSet::ValidationEventHandler_remove method
+## XmlSchemaSet::ValidationEventHandler_remove(Args...) method
 
 
 Removes an event handler for receiving information about XML [Schema](../../) definition language (XSD) schema validation errors.

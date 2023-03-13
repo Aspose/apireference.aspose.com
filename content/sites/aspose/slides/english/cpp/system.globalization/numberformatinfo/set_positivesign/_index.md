@@ -1,12 +1,12 @@
 ---
-title: set_PositiveSign
+title: set_PositiveSign()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets positive sign.
 type: docs
 weight: 209
 url: /cpp/system.globalization/numberformatinfo/set_positivesign/
 ---
-## NumberFormatInfo::set_PositiveSign method
+## NumberFormatInfo::set_PositiveSign(const [String](../../../system/string/)\&) method
 
 
 Sets positive sign.

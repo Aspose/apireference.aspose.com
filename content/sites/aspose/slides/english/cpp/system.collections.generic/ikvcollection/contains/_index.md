@@ -1,12 +1,12 @@
 ---
-title: Contains
+title: Contains()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if item is present in container.
 type: docs
 weight: 53
 url: /cpp/system.collections.generic/ikvcollection/contains/
 ---
-## IKVCollection::Contains method
+## IKVCollection::Contains(const T\&) const method
 
 
 Checks if item is present in container.

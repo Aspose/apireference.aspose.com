@@ -1,12 +1,12 @@
 ---
-title: set_MetafileRasterizationDpi
+title: set_MetafileRasterizationDpi()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the lower resolution limit for metafile rasterization. Write int32_t.
 type: docs
 weight: 92
 url: /cpp/aspose.slides.export/svgoptions/set_metafilerasterizationdpi/
 ---
-## SVGOptions::set_MetafileRasterizationDpi method
+## SVGOptions::set_MetafileRasterizationDpi(**int32_t**) method
 
 
 Sets the lower resolution limit for metafile rasterization. Write **int32_t**.

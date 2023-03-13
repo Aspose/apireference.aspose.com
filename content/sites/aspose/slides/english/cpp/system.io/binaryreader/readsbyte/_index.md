@@ -1,12 +1,12 @@
 ---
-title: ReadSByte
+title: ReadSByte()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads a single byte from the input stream and returns it as a signed 8-bit integer value.
 type: docs
 weight: 196
 url: /cpp/system.io/binaryreader/readsbyte/
 ---
-## BinaryReader::ReadSByte method
+## BinaryReader::ReadSByte() method
 
 
 Reads a single byte from the input stream and returns it as a signed 8-bit integer value.

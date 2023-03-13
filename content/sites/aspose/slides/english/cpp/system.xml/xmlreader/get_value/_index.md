@@ -1,12 +1,12 @@
 ---
-title: get_Value
+title: get_Value()
 second_title: Aspose.Slides for C++ API Reference
 description: When overridden in a derived class, gets the text value of the current node.
 type: docs
 weight: 92
 url: /cpp/system.xml/xmlreader/get_value/
 ---
-## XmlReader::get_Value method
+## XmlReader::get_Value() method
 
 
 When overridden in a derived class, gets the text value of the current node.

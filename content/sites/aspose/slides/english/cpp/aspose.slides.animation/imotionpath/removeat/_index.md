@@ -1,12 +1,12 @@
 ---
-title: RemoveAt
+title: RemoveAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes a command at the specified index.
 type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/imotionpath/removeat/
 ---
-## IMotionPath::RemoveAt method
+## IMotionPath::RemoveAt(**int32_t**) method
 
 
 Removes a command at the specified index.

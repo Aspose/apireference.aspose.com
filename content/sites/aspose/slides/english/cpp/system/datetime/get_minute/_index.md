@@ -1,12 +1,12 @@
 ---
-title: get_Minute
+title: get_Minute()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the minute component of the date and time value represented by the current object.
 type: docs
 weight: 157
 url: /cpp/system/datetime/get_minute/
 ---
-## DateTime::get_Minute method
+## DateTime::get_Minute() const method
 
 
 Returns the minute component of the date and time value represented by the current object.

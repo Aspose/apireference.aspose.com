@@ -1,12 +1,12 @@
 ---
-title: IsPublicIdChar
+title: IsPublicIdChar()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the passed-in character instance if the character in the argument is a valid public id character, otherwise nullptr.
 type: docs
 weight: 196
 url: /cpp/system.xml/xmlconvert/ispublicidchar/
 ---
-## XmlConvert::IsPublicIdChar method
+## XmlConvert::IsPublicIdChar(char16_t) method
 
 
 Returns the passed-in character instance if the character in the argument is a valid public id character, otherwise **nullptr**.

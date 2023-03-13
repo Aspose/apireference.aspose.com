@@ -153,7 +153,7 @@ enum class SmartArtLayoutType
 | VerticalPictureAccentList | 131 | Use to show non-sequential or grouped blocks of information. The small circles are designed to contain pictures. |
 | VerticalPictureList | 132 | Use to show non-sequential or grouped blocks of information. The small shapes on the left are designed to contain pictures. |
 | VerticalProcess | 133 | Use to show a progression or sequential steps in a task, process, or workflow from top to bottom. Works best with Level 1 text, since the vertical space is limited. |
-| Custom | 134 | Represents a [SmartArt](../smartart/) diagram with custom layout template. |
+| Custom | 134 | Represents a [SmartArt](../smartart/) diagram with custom layout template |
 | PictureOrganizationChart | 135 | Use to show hierarchical information or reporting relationships in an organization, with corresponding pictures. The assistant shape and Org Chart hanging layouts are available with this layout. |
 
 ## See Also

@@ -1,5 +1,5 @@
 ---
-title: Guid
+title: Guid()
 second_title: Aspose.Slides for C++ API Reference
 description: Constructs an object that represents a GUID consisting of all zeroes.
 type: docs

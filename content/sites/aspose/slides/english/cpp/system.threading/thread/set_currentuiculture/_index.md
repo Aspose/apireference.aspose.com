@@ -1,12 +1,12 @@
 ---
-title: set_CurrentUICulture
+title: set_CurrentUICulture()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets user interface culture used by thread.
 type: docs
 weight: 79
 url: /cpp/system.threading/thread/set_currentuiculture/
 ---
-## Thread::set_CurrentUICulture method
+## Thread::set_CurrentUICulture(const [SharedPtr](../../../system/sharedptr/)\<[Globalization::CultureInfo](../../../system.globalization/cultureinfo/)\>\&) method
 
 
 Sets user interface culture used by thread.

@@ -1,12 +1,12 @@
 ---
-title: XslTransform
+title: XslTransform()
 second_title: Aspose.Slides for C++ API Reference
 description: Initializes a new instance of the XslTransform class.
 type: docs
 weight: 14
 url: /cpp/system.xml.xsl/xsltransform/xsltransform/
 ---
-## XslTransform::XslTransform constructor
+## XslTransform::XslTransform() constructor
 
 
 Initializes a new instance of the [XslTransform](../) class.

@@ -1,12 +1,12 @@
 ---
-title: idx_get
+title: idx_get()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the signature by index.
 type: docs
 weight: 1
 url: /cpp/aspose.slides/idigitalsignaturecollection/idx_get/
 ---
-## IDigitalSignatureCollection::idx_get method
+## IDigitalSignatureCollection::idx_get(**int32_t**) method
 
 
 Returns the signature by index.

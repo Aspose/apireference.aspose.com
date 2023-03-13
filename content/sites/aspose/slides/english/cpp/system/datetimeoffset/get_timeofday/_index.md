@@ -1,12 +1,12 @@
 ---
-title: get_TimeOfDay
+title: get_TimeOfDay()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets time of day of the current object.
 type: docs
 weight: 222
 url: /cpp/system/datetimeoffset/get_timeofday/
 ---
-## DateTimeOffset::get_TimeOfDay method
+## DateTimeOffset::get_TimeOfDay() const method
 
 
 Gets time of day of the current object.

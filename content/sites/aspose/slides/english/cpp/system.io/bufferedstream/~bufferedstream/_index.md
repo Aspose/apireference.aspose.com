@@ -1,12 +1,12 @@
 ---
-title: ~BufferedStream
+title: ~BufferedStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Destructor.
 type: docs
 weight: 14
 url: /cpp/system.io/bufferedstream/~bufferedstream/
 ---
-## BufferedStream::~BufferedStream method
+## BufferedStream::~BufferedStream() method
 
 
 Destructor.

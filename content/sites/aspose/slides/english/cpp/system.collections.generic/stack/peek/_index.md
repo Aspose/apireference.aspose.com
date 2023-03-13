@@ -1,12 +1,12 @@
 ---
-title: Peek
+title: Peek()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets element from stack top, but keeps it in stack.
 type: docs
 weight: 92
 url: /cpp/system.collections.generic/stack/peek/
 ---
-## Stack::Peek method
+## Stack::Peek() method
 
 
 Gets element from stack top, but keeps it in stack.

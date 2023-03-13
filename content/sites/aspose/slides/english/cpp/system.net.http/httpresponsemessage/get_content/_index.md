@@ -1,12 +1,12 @@
 ---
-title: get_Content
+title: get_Content()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets content of the HTTP response.
 type: docs
 weight: 27
 url: /cpp/system.net.http/httpresponsemessage/get_content/
 ---
-## HttpResponseMessage::get_Content method
+## HttpResponseMessage::get_Content() const method
 
 
 Gets content of the HTTP response.

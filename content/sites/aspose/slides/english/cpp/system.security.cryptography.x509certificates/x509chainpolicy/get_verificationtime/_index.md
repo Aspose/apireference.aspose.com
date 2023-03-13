@@ -1,12 +1,12 @@
 ---
-title: get_VerificationTime
+title: get_VerificationTime()
 second_title: Aspose.Slides for C++ API Reference
 description: 
 type: docs
 weight: 79
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/get_verificationtime/
 ---
-## X509ChainPolicy::get_VerificationTime method
+## X509ChainPolicy::get_VerificationTime() method
 
 
 

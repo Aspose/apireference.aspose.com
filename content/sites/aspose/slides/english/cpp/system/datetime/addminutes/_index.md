@@ -1,12 +1,12 @@
 ---
-title: AddMinutes
+title: AddMinutes()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a new instance of the DateTime class representing the date and time value which is the sum of the value represented by the current object and the specified number of minutes.
 type: docs
 weight: 274
 url: /cpp/system/datetime/addminutes/
 ---
-## DateTime::AddMinutes method
+## DateTime::AddMinutes(**double**) const method
 
 
 Returns a new instance of the [DateTime](../) class representing the date and time value which is the sum of the value represented by the current object and the specified number of minutes.

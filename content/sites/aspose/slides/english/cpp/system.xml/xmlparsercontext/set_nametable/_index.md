@@ -1,12 +1,12 @@
 ---
-title: set_NameTable
+title: set_NameTable()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets the XmlNameTable used to atomize strings. For more information on atomized strings, see XmlNameTable.
 type: docs
 weight: 14
 url: /cpp/system.xml/xmlparsercontext/set_nametable/
 ---
-## XmlParserContext::set_NameTable method
+## XmlParserContext::set_NameTable(const [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../xmlnametable/)\>\&) method
 
 
 Sets the [XmlNameTable](../../xmlnametable/) used to atomize strings. For more information on atomized strings, see [XmlNameTable](../../xmlnametable/).

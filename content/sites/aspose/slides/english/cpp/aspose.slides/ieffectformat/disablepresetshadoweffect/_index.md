@@ -1,12 +1,12 @@
 ---
-title: DisablePresetShadowEffect
+title: DisablePresetShadowEffect()
 second_title: Aspose.Slides for C++ API Reference
 description: Disables preset shadow effect.
 type: docs
 weight: 391
 url: /cpp/aspose.slides/ieffectformat/disablepresetshadoweffect/
 ---
-## IEffectFormat::DisablePresetShadowEffect method
+## IEffectFormat::DisablePresetShadowEffect() method
 
 
 Disables preset shadow effect.

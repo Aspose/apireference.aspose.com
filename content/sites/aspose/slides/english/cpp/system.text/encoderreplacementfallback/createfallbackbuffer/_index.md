@@ -1,12 +1,12 @@
 ---
-title: CreateFallbackBuffer
+title: CreateFallbackBuffer()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates fallback buffer.
 type: docs
 weight: 40
 url: /cpp/system.text/encoderreplacementfallback/createfallbackbuffer/
 ---
-## EncoderReplacementFallback::CreateFallbackBuffer method
+## EncoderReplacementFallback::CreateFallbackBuffer() method
 
 
 Creates fallback buffer.

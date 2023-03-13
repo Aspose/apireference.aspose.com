@@ -1,12 +1,12 @@
 ---
-title: set_AdvanceAfter
+title: set_AdvanceAfter()
 second_title: Aspose.Slides for C++ API Reference
 description: This attribute specifies if the slideshow will move to the next slide after a certain time. Write bool.
 type: docs
 weight: 118
 url: /cpp/aspose.slides.slideshow/slideshowtransition/set_advanceafter/
 ---
-## SlideShowTransition::set_AdvanceAfter method
+## SlideShowTransition::set_AdvanceAfter(**bool**) method
 
 
 This attribute specifies if the slideshow will move to the next slide after a certain time. Write **bool**.

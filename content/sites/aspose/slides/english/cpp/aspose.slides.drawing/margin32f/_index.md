@@ -1,7 +1,7 @@
 ---
 title: Margin32f
 second_title: Aspose.Slides for C++ API Reference
-description: Margin.
+description: Margin
 type: docs
 weight: 1
 url: /cpp/aspose.slides.drawing/margin32f/
@@ -9,7 +9,7 @@ url: /cpp/aspose.slides.drawing/margin32f/
 ## Margin32f class
 
 
-Margin.
+Margin
 
 ```cpp
 class Margin32f : public System::Object,

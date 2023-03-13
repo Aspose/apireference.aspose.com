@@ -1,12 +1,12 @@
 ---
-title: get_CommandString
+title: get_CommandString()
 second_title: Aspose.Slides for C++ API Reference
 description: "Defines command string. Read System::String."
 type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/commandeffect/get_commandstring/
 ---
-## CommandEffect::get_CommandString method
+## CommandEffect::get_CommandString() method
 
 
 Defines command string. Read [System::String](../../../system/string/).

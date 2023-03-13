@@ -1,12 +1,12 @@
 ---
-title: Remove
+title: Remove()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the first occurrence of a specific object from the collection.
 type: docs
 weight: 131
 url: /cpp/aspose.slides.mathtext/mathblock/remove/
 ---
-## MathBlock::Remove method
+## MathBlock::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
 
 
 Removes the first occurrence of a specific object from the collection.

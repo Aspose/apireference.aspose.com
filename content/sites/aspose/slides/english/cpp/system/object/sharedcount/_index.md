@@ -1,12 +1,12 @@
 ---
-title: SharedCount
+title: SharedCount()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets current value of shared reference counter.
 type: docs
 weight: 118
 url: /cpp/system/object/sharedcount/
 ---
-## Object::SharedCount method
+## Object::SharedCount() const method
 
 
 Gets current value of shared reference counter.

@@ -1,12 +1,12 @@
 ---
-title: get_Alignment
+title: get_Alignment()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns align style of a tab. Read-only TabAlignment.
 type: docs
 weight: 14
 url: /cpp/aspose.slides/itabeffectivedata/get_alignment/
 ---
-## ITabEffectiveData::get_Alignment method
+## ITabEffectiveData::get_Alignment() method
 
 
 Returns align style of a tab. Read-only [TabAlignment](../../tabalignment/).

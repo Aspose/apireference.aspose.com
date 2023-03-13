@@ -1,12 +1,12 @@
 ---
-title: IsHttpUri
+title: IsHttpUri()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if the specified URI is the HTTP URI.
 type: docs
 weight: 1
 url: /cpp/system.net.http/httputilities/ishttpuri/
 ---
-## HttpUtilities::IsHttpUri method
+## HttpUtilities::IsHttpUri([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Checks if the specified URI is the HTTP URI.

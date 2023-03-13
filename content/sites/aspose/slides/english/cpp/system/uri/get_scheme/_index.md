@@ -1,12 +1,12 @@
 ---
-title: get_Scheme
+title: get_Scheme()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the scheme of the URI represented by the current object.
 type: docs
 weight: 196
 url: /cpp/system/uri/get_scheme/
 ---
-## Uri::get_Scheme method
+## Uri::get_Scheme() const method
 
 
 Returns the scheme of the URI represented by the current object.

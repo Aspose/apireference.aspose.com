@@ -1,12 +1,12 @@
 ---
-title: BeginGetRequestStream
+title: BeginGetRequestStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Initiates an asynchronous operation to get a stream for writing data to the resource.
 type: docs
 weight: 144
 url: /cpp/system.net/filewebrequest/begingetrequeststream/
 ---
-## FileWebRequest::BeginGetRequestStream method
+## FileWebRequest::BeginGetRequestStream([AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
 
 
 Initiates an asynchronous operation to get a stream for writing data to the resource.

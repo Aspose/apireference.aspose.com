@@ -1,12 +1,12 @@
 ---
-title: RemoveAttributeAt
+title: RemoveAttributeAt()
 second_title: Aspose.Slides for C++ API Reference
 description: Removes the attribute node with the specified index from the element. (If the removed attribute has a default value, it is immediately replaced).
 type: docs
 weight: 339
 url: /cpp/system.xml/xmlelement/removeattributeat/
 ---
-## XmlElement::RemoveAttributeAt method
+## XmlElement::RemoveAttributeAt(**int32_t**) method
 
 
 Removes the attribute node with the specified index from the element. (If the removed attribute has a default value, it is immediately replaced).

@@ -1,12 +1,12 @@
 ---
-title: GetApplicationResourceStream
+title: GetApplicationResourceStream()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns an application resource stream from the specified URI.
 type: docs
 weight: 1
 url: /cpp/system.xml/iapplicationresourcestreamresolver/getapplicationresourcestream/
 ---
-## IApplicationResourceStreamResolver::GetApplicationResourceStream method
+## IApplicationResourceStreamResolver::GetApplicationResourceStream([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
 
 
 Returns an application resource stream from the specified URI.

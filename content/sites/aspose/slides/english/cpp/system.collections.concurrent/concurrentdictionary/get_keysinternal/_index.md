@@ -1,12 +1,12 @@
 ---
-title: get_KeysInternal
+title: get_KeysInternal()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets wrapper collection to access dictionary keys.
 type: docs
 weight: 14
 url: /cpp/system.collections.concurrent/concurrentdictionary/get_keysinternal/
 ---
-## ConcurrentDictionary::get_KeysInternal method
+## ConcurrentDictionary::get_KeysInternal() const method
 
 
 Gets wrapper collection to access dictionary keys.

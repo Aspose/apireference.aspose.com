@@ -1,12 +1,12 @@
 ---
-title: GetSchema
+title: GetSchema()
 second_title: Aspose.Slides for C++ API Reference
 description: An XmlSchema object that describes the XML representation of the object that is returned by the WriteXml() method and accepted by the ReadXml() method.
 type: docs
 weight: 1
 url: /cpp/system.xml.serialization/ixmlserializable/getschema/
 ---
-## IXmlSerializable::GetSchema method
+## IXmlSerializable::GetSchema() method
 
 
 An XmlSchema object that describes the XML representation of the object that is returned by the [WriteXml()](../writexml/) method and accepted by the [ReadXml()](../readxml/) method.

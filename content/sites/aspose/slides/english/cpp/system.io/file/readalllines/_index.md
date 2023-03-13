@@ -1,12 +1,12 @@
 ---
-title: ReadAllLines
+title: ReadAllLines()
 second_title: Aspose.Slides for C++ API Reference
 description: Reads the content of the specified text file line by line to an array of strings using the specified character encoding.
 type: docs
 weight: 300
 url: /cpp/system.io/file/readalllines/
 ---
-## File::ReadAllLines method
+## File::ReadAllLines(const [String](../../../system/string/)\&, const [EncodingPtr](../../../system/encodingptr/)\&) method
 
 
 Reads the content of the specified text file line by line to an array of strings using the specified character encoding.

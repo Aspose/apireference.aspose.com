@@ -1,12 +1,12 @@
 ---
-title: get_NodeType
+title: get_NodeType()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns the type of the current node.
 type: docs
 weight: 1
 url: /cpp/system.xml/xmldocument/get_nodetype/
 ---
-## XmlDocument::get_NodeType method
+## XmlDocument::get_NodeType() method
 
 
 Returns the type of the current node.

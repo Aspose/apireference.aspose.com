@@ -1,12 +1,12 @@
 ---
-title: get_IsReadOnly
+title: get_IsReadOnly()
 second_title: Aspose.Slides for C++ API Reference
 description: Checks if collection is read only.
 type: docs
 weight: 66
 url: /cpp/system.collections.generic/icollection/get_isreadonly/
 ---
-## ICollection::get_IsReadOnly method
+## ICollection::get_IsReadOnly() const method
 
 
 Checks if collection is read only.

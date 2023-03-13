@@ -1,5 +1,5 @@
 ---
-title: InsertOleObjectFrame
+title: InsertOleObjectFrame()
 second_title: Aspose.Slides for C++ API Reference
 description: Creates a new OLE object and inserts it to a collection at the specified index.
 type: docs

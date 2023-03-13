@@ -1,12 +1,12 @@
 ---
-title: set_PercentGroupSizes
+title: set_PercentGroupSizes()
 second_title: Aspose.Slides for C++ API Reference
 description: Sets numbers of digits per percent value group.
 type: docs
 weight: 625
 url: /cpp/system.globalization/numberformatinfo/set_percentgroupsizes/
 ---
-## NumberFormatInfo::set_PercentGroupSizes method
+## NumberFormatInfo::set_PercentGroupSizes(const [ArrayPtr](../../../system/arrayptr/)\<int\>\&) method
 
 
 Sets numbers of digits per percent value group.

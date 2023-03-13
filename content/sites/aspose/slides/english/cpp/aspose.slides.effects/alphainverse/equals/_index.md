@@ -1,12 +1,12 @@
 ---
-title: Equals
+title: Equals()
 second_title: Aspose.Slides for C++ API Reference
 description: Determines whether the specified AlphaInverse is equal to the current AlphaInverse.
 type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/alphainverse/equals/
 ---
-## AlphaInverse::Equals method
+## AlphaInverse::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
 
 
 Determines whether the specified [AlphaInverse](../) is equal to the current [AlphaInverse](../).

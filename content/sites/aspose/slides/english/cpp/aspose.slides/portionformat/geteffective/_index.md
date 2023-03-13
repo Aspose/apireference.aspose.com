@@ -1,12 +1,12 @@
 ---
-title: GetEffective
+title: GetEffective()
 second_title: Aspose.Slides for C++ API Reference
 description: Gets effective portion formatting data with the inheritance applied.
 type: docs
 weight: 131
 url: /cpp/aspose.slides/portionformat/geteffective/
 ---
-## PortionFormat::GetEffective method
+## PortionFormat::GetEffective() method
 
 
 Gets effective portion formatting data with the inheritance applied.

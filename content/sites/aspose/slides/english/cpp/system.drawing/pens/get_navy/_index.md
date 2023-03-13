@@ -1,12 +1,12 @@
 ---
-title: get_Navy
+title: get_Navy()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF000080.
 type: docs
 weight: 1249
 url: /cpp/system.drawing/pens/get_navy/
 ---
-## Pens::get_Navy method
+## Pens::get_Navy() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FF000080.

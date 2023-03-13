@@ -1,12 +1,12 @@
 ---
-title: get_Cornsilk
+title: get_Cornsilk()
 second_title: Aspose.Slides for C++ API Reference
 description: Returns a Pen object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFF8DC.
 type: docs
 weight: 248
 url: /cpp/system.drawing/pens/get_cornsilk/
 ---
-## Pens::get_Cornsilk method
+## Pens::get_Cornsilk() method
 
 
 Returns a [Pen](../../pen/) object with a width of 1 and whose ARGB color in hexadecimal notation has a value of #FFFFF8DC.
