@@ -93,7 +93,7 @@ defaultContentLang = 'en'
     flag = "flag-tr"
     weight = 19
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 
 # Image processing configuration.
