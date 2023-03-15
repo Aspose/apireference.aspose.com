@@ -50,10 +50,10 @@ jobs:
 
       # Also specifies the theme we want to use
       - name: Build
-        run: hugo --configDir config/sites/aspose/cells-python-net --environment staging --minify
+        run: hugo --configDir config/sites/aspose/cells-python-net --environment production --minify
         
       - name: Deploy apireference2.aspose.com(cells)(python-net)(Production) to S3
-        run: hugo --configDir config/sites/aspose/cells-python-net --environment staging deploy --target "Production" --maxDeletes 0
+        run: hugo --configDir config/sites/aspose/cells-python-net --environment production deploy --target "Production" --maxDeletes 0
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
