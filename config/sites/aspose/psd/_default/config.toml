@@ -23,6 +23,7 @@ id = "aspose-id"
 it = "aspose-it"
 ja = "aspose-ja"
 ko = "aspose-ko"
+nl = "aspose-nl"
 pl = "aspose-pl"
 pt = "aspose-pt"
 sv = "aspose-sv"
@@ -51,30 +52,84 @@ defaultContentLang = 'en'
     languageCode = "zh"
     flag = "flag-cn"
     weight = 12
+[languages.ar]
+    contentDir = 'content/sites/aspose/psd/arabic'
+    languageName = "عربي"
+    languageCode = "ar"
+    flag = "flag-sa"
+    weight = 13
   [languages.fr]
     contentDir = 'content/sites/aspose/psd/french'
     languageName = "Français"
     languageCode = "fr"
     flag = "flag-fr"
-    weight = 13
+    weight = 14
   [languages.de]
     contentDir = 'content/sites/aspose/psd/german'
     languageName = "Deutsch"
     languageCode = "de"
     flag = "flag-de"
-    weight = 14
+    weight = 15
   [languages.it]
     contentDir = 'content/sites/aspose/psd/italian'
     languageName = "Italiano"
     languageCode = "it"
     flag = "flag-it"
-    weight = 15
+    weight = 16
   [languages.es]
     contentDir = 'content/sites/aspose/psd/spanish'
     languageName = "Español"
     languageCode = "es"
     flag = "flag-es"
-    weight = 16
+    weight = 17
+  [languages.sv]
+    contentDir = 'content/sites/aspose/psd/swedish'
+    languageName = "Svenska"
+    languageCode = "sv"
+    flag = "flag-se"
+    weight = 18
+  [languages.tr]
+    contentDir = 'content/sites/aspose/psd/turkish'
+    languageName = "Türkçe"
+    languageCode = "tr"
+    flag = "flag-tr"
+    weight = 19
+  [languages.ja]
+    contentDir = 'content/sites/aspose/psd/japanese'
+    languageName = "日本語"
+    languageCode = "ja"
+    flag = "flag-jp"
+    weight = 20
+  [languages.hi]
+    contentDir = 'content/sites/aspose/psd/indian'
+    languageName = "हिन्दी"
+    languageCode = "hi"
+    flag = "flag-in"
+    weight = 21
+  [languages.ko]
+    contentDir = 'content/sites/aspose/psd/korean'
+    languageName = " 한국인"
+    languageCode = "ko"
+    flag = "flag-kr"
+    weight = 22
+  [languages.el]
+    contentDir = 'content/sites/aspose/psd/greece'
+    languageName = "  Ελληνικά"
+    languageCode = "el"
+    flag = "flag-gr"
+    weight = 23
+  [languages.id]
+    contentDir = 'content/sites/aspose/psd/indonesian'
+    languageName = "Indonesian"
+    languageCode = "id"
+    flag = "flag-id"
+    weight = 24
+  [languages.nl]
+    contentDir = 'content/sites/aspose/psd/netherlands'
+    languageName = "Nederlands"
+    languageCode = "nl"
+    flag = "flag-nl"
+    weight = 25
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
