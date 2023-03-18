@@ -1,29 +1,27 @@
 ---
-title: PaperSize
+title: FontStyle
 second_title: Aspose.OMR for Java API Reference
-description: Supported Paper sizes
+description: Style of text used in font
 type: docs
-weight: 34
-url: /java/com.aspose.omr/papersize/
+weight: 33
+url: /java/com.aspose.omr/fontstyle/
 ---
 
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 ```
-public enum PaperSize extends Enum<PaperSize>
+public enum FontStyle extends Enum<FontStyle>
 ```
-
-Supported Paper sizes
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [A4](#A4) | A4 size(2480 x 3508 pixels) |
-| [Legal](#Legal) | Legal size(2551 x 4205 pixels) |
-| [Letter](#Letter) | Letter size(2551 x 3295 pixels) |
-| [Tabloid](#Tabloid) | Tabloid, 11" x 17" size(3295 x 5102) |
-| [p8519](#p8519) | 8.5" x 19" size(2551 x 5702) |
-| [p8521](#p8521) | 8.5 x 21" size(2551 x 6302) |
+| [Bold](#Bold) |  |
+| [Italic](#Italic) |  |
+| [Regular](#Regular) |  |
+| [Strikeout](#Strikeout) |  |
+| [Underline](#Underline) |  |
+| [undefined](#undefined) |  |
 ## Methods
 
 | Method | Description |
@@ -44,53 +42,41 @@ Supported Paper sizes
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### A4 {#A4}
+### Bold {#Bold}
 ```
-public static final PaperSize A4
-```
-
-
-A4 size(2480 x 3508 pixels)
-
-### Legal {#Legal}
-```
-public static final PaperSize Legal
+public static final FontStyle Bold
 ```
 
 
-Legal size(2551 x 4205 pixels)
-
-### Letter {#Letter}
+### Italic {#Italic}
 ```
-public static final PaperSize Letter
+public static final FontStyle Italic
 ```
 
 
-Letter size(2551 x 3295 pixels)
-
-### Tabloid {#Tabloid}
+### Regular {#Regular}
 ```
-public static final PaperSize Tabloid
+public static final FontStyle Regular
 ```
 
 
-Tabloid, 11" x 17" size(3295 x 5102)
-
-### p8519 {#p8519}
+### Strikeout {#Strikeout}
 ```
-public static final PaperSize p8519
+public static final FontStyle Strikeout
 ```
 
 
-8.5" x 19" size(2551 x 5702)
-
-### p8521 {#p8521}
+### Underline {#Underline}
 ```
-public static final PaperSize p8521
+public static final FontStyle Underline
 ```
 
 
-8.5 x 21" size(2551 x 6302)
+### undefined {#undefined}
+```
+public static final FontStyle undefined
+```
+
 
 ### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
 ```
@@ -216,7 +202,7 @@ public String toString()
 java.lang.String
 ### valueOf(String name) {#valueOf-java.lang.String-}
 ```
-public static PaperSize valueOf(String name)
+public static FontStyle valueOf(String name)
 ```
 
 
@@ -228,17 +214,17 @@ public static PaperSize valueOf(String name)
 | name | java.lang.String |  |
 
 **Returns:**
-[PaperSize](../../com.aspose.omr/papersize)
+[FontStyle](../../com.aspose.omr/fontstyle)
 ### values() {#values--}
 ```
-public static PaperSize[] values()
+public static FontStyle[] values()
 ```
 
 
 
 
 **Returns:**
-com.aspose.omr.PaperSize[]
+com.aspose.omr.FontStyle[]
 ### wait() {#wait--}
 ```
 public final void wait()
