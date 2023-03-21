@@ -25,10 +25,10 @@ public abstract class Renderer<TDocument> : Renderer
 | [Dispose](../../aspose.svg.rendering/renderer/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [Render](../../aspose.svg.rendering/renderer`1/render/#render_2)(IDevice, TDocument) | Defines method for rendering !:TDocument into specified [`IDevice`](../idevice/). |
 | [Render](../../aspose.svg.rendering/renderer`1/render/#render_5)(IDevice, params TDocument[]) | Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../idevice/). |
-| [Render](../../aspose.svg.rendering/renderer`1/render/#render)(IDevice, int, params TDocument[]) | Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
-| [Render](../../aspose.svg.rendering/renderer`1/render/#render_3)(IDevice, TDocument, int) | Defines method for rendering !:TDocument into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
-| [Render](../../aspose.svg.rendering/renderer`1/render/#render_4)(IDevice, TDocument, TimeSpan) | Defines method for rendering !:TDocument into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
-| abstract [Render](../../aspose.svg.rendering/renderer`1/render/#render_1)(IDevice, TimeSpan, params TDocument[]) | Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| [Render](../../aspose.svg.rendering/renderer`1/render/#render)(IDevice, int, params TDocument[]) | Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer`1/render/#render_3)(IDevice, TDocument, int) | Defines method for rendering !:TDocument into specified [`IDevice`](../idevice/). |
+| [Render](../../aspose.svg.rendering/renderer`1/render/#render_4)(IDevice, TDocument, TimeSpan) | Defines method for rendering !:TDocument into specified [`IDevice`](../idevice/). |
+| abstract [Render](../../aspose.svg.rendering/renderer`1/render/#render_1)(IDevice, TimeSpan, params TDocument[]) | Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../idevice/). |
 
 ### See Also
 
