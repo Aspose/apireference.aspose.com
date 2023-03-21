@@ -30,7 +30,7 @@ public class SvgRenderer : Renderer<SVGDocument>
 | [Render](../../aspose.svg.rendering/renderer`1/render/)(IDevice, int, params SVGDocument[]) |  |
 | [Render](../../aspose.svg.rendering/renderer`1/render/)(IDevice, SVGDocument, int) |  |
 | [Render](../../aspose.svg.rendering/renderer`1/render/)(IDevice, SVGDocument, TimeSpan) |  |
-| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(IDevice, TimeSpan, params SVGDocument[]) | Defines method for rendering multiple [`SVGDocument`](../../aspose.svg/svgdocument/)s into specific [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| override [Render](../../aspose.svg.rendering/svgrenderer/render/#render_5)(IDevice, TimeSpan, params SVGDocument[]) | Defines method for rendering multiple [`SVGDocument`](../../aspose.svg/svgdocument/)s into specific [`IDevice`](../idevice/). |
 
 ### See Also
 
