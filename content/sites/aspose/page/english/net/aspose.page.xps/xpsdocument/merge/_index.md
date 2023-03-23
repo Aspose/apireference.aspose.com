@@ -41,7 +41,7 @@ public void Merge(string[] filesForMerge, Stream outStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filesForMerge | String[] | XPS files for merging with this document. |
-| stream | Stream | The output stream where to save merged XPS documents. |
+| outStream | Stream | The output stream where to save merged XPS documents. |
 
 ### See Also
 

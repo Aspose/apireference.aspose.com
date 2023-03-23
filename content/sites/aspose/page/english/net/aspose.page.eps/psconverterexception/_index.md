@@ -18,7 +18,8 @@ public class PsConverterException : Exception
 
 | Name | Description |
 | --- | --- |
-| [PsConverterException](psconverterexception)(string) | Initializes a new instance of the [`PsConverterException`](../psconverterexception) class. |
+| [PsConverterException](psconverterexception#constructor)() | Initializes a new instance of the [`PsConverterException`](../psconverterexception) class. |
+| [PsConverterException](psconverterexception#constructor_1)(string) | Initializes a new instance of the [`PsConverterException`](../psconverterexception) class. |
 
 ### See Also
 

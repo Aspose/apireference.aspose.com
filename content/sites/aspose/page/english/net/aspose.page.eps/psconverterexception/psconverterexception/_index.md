@@ -6,7 +6,23 @@ type: docs
 weight: 10
 url: /net/aspose.page.eps/psconverterexception/psconverterexception/
 ---
-## PsConverterException constructor
+## PsConverterException() {#constructor}
+
+Initializes a new instance of the [`PsConverterException`](../../psconverterexception) class.
+
+```csharp
+public PsConverterException()
+```
+
+### See Also
+
+* class [PsConverterException](../../psconverterexception)
+* namespace [Aspose.Page.EPS](../../psconverterexception)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## PsConverterException(string) {#constructor_1}
 
 Initializes a new instance of the [`PsConverterException`](../../psconverterexception) class.
 

@@ -25,6 +25,8 @@ This class contains options necessary for managing conversion process.
 | --- | --- |
 | [getResolution()](#getResolution--) | Returns the resolution of the resulting image. |
 | [setResolution(float resolution)](#setResolution-float-) | Specifies resolution of resulting image. |
+| [getSmoothingMode()](#getSmoothingMode--) | Gets smoothing mode. |
+| [setSmoothingMode(SmoothingMode smoothingMode)](#setSmoothingMode-com.aspose.eps.device.SmoothingMode-) | Sets smoothing mode. |
 ### ImageSaveOptions() {#ImageSaveOptions--}
 ```
 public ImageSaveOptions()
@@ -68,4 +70,27 @@ Specifies resolution of resulting image.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | resolution | float | The resolution of the image. |
+
+### getSmoothingMode() {#getSmoothingMode--}
+```
+public SmoothingMode getSmoothingMode()
+```
+
+
+Gets smoothing mode.
+
+**Returns:**
+[SmoothingMode](../../com.aspose.eps.device/smoothingmode) - the smoothingMode.
+### setSmoothingMode(SmoothingMode smoothingMode) {#setSmoothingMode-com.aspose.eps.device.SmoothingMode-}
+```
+public void setSmoothingMode(SmoothingMode smoothingMode)
+```
+
+
+Sets smoothing mode.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| smoothingMode | [SmoothingMode](../../com.aspose.eps.device/smoothingmode) | the smoothingMode to set |
 

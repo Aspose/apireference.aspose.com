@@ -25,3 +25,4 @@ The **com.aspose.eps.device** package provides classes of possible devices and s
 | Enum | Description |
 | --- | --- |
 | [PsSaveFormat](../com.aspose.eps.device/pssaveformat) | This enumeration contains available options of saving format. |
+| [SmoothingMode](../com.aspose.eps.device/smoothingmode) | Smoothing mode enum. |

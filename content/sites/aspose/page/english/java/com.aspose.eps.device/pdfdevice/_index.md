@@ -63,6 +63,7 @@ This class encapsulates rendering of document to PDF.
 | [openPage(String title)](#openPage-java.lang.String-) | Makes necessary preparation of the device before page rendering. |
 | [openPage(float width, float height)](#openPage-float-float-) | Makes necessary preparation of the device before page rendering. |
 | [closePage()](#closePage--) | Makes necessary preparation of the device after page has been rendered. |
+| [savePageTransform()](#savePageTransform--) |  |
 | [getCurrentPageNumber()](#getCurrentPageNumber--) | Gets current page number. |
 | [updatePageParameters(IMultiPageDevice device)](#updatePageParameters-com.aspose.page.IMultiPageDevice-) | Updates page parameters from other multi-paged device. |
 | [setSaveFromPatternCreate()](#setSaveFromPatternCreate--) |  |
@@ -404,6 +405,14 @@ public final void closePage()
 
 
 Makes necessary preparation of the device after page has been rendered.
+
+### savePageTransform() {#savePageTransform--}
+```
+public void savePageTransform()
+```
+
+
+
 
 ### getCurrentPageNumber() {#getCurrentPageNumber--}
 ```
