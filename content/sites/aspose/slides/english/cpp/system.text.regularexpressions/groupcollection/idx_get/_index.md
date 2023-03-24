@@ -33,3 +33,29 @@ virtual GroupPtr System::Text::RegularExpressions::GroupCollection::idx_get(Stri
 * Class [GroupCollection](../)
 * Namespace [System::Text::RegularExpressions](../../)
 * Library [Aspose.Slides](../../../)
+## GroupCollection::idx_get(int) const method
+
+
+[Group](../../group/) accessor.
+
+```cpp
+GroupPtr System::Text::RegularExpressions::GroupCollection::idx_get(int index) const override
+```
+
+
+### Arguments
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | [Group](../../group/) index. |
+
+### Return Value
+
+[Group](../../group/) with specified index.
+
+## See Also
+
+* Typedef [GroupPtr](../../groupptr/)
+* Class [GroupCollection](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.Slides](../../../)

@@ -76,7 +76,7 @@ class GroupCollection : public System::Collections::Generic::List<GroupPtr>
 |  [ICollection](../../system.collections.generic/icollection/icollection/)(const [ICollection](../../system.collections.generic/icollection/)\&) | Copy constructor. |
 |  [ICollection](../../system.collections.generic/icollection/icollection/)([ICollection](../../system.collections.generic/icollection/)\&&) | Move constructor. |
 | virtual [GroupPtr](../groupptr/) [idx_get](./idx_get/)([String](../../system/string/)) const | [Group](../group/) accessor. |
-| T [idx_get](../../system.collections.generic/list/idx_get/)(int) const override | Gets element at specific position. |
+| [GroupPtr](../groupptr/) [idx_get](./idx_get/)(int) const override | [Group](../group/) accessor. |
 | void [idx_set](../../system.collections.generic/list/idx_set/)(int, T) override | Sets element at specific position. |
 | int [IndexOf](../../system.collections.generic/list/indexof/)(const T\&) const override | Gets first index of specific item. |
 | int [IndexOf](../../system.collections.generic/list/indexof/)(const T\&, int) const | Looks for specific item in list. |

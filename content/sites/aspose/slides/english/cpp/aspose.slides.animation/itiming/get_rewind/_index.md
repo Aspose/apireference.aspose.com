@@ -20,17 +20,16 @@ virtual bool Aspose::Slides::Animation::ITiming::get_Rewind()=0
 
 
 ```cpp
-using (Presentation presentation = new Presentation("demo.pptx"))
-{
-    // Get the effects sequence for the first slide
-    ISequence effectsSequence = presentation.Slides[0].Timeline.MainSequence;
+auto presentation = System::MakeObject<Presentation>(u"demo.pptx");
 
-    // Get the first effect of main sequence.
-    IEffect effect = effectsSequence[0];
+// Get the effects sequence for the first slide
+System::SharedPtr<ISequence> effectsSequence = presentation->get_Slide(0)->get_Timeline()->get_MainSequence();
 
-    // Turn the effect Timing/Rewind on.
-    effect.Timing.Rewind = true;
-}
+// Get the first effect of main sequence.
+System::SharedPtr<IEffect> effect = effectsSequence->idx_get(0);
+
+// Turn the effect Timing/Rewind on.
+effect->get_Timing()->set_Rewind(true);
 ```
 
 ## See Also

@@ -20,19 +20,18 @@ void Aspose::Slides::VideoFrame::set_TrimFromStart(float value) override
 
 Example: 
 ```cpp
-[C#]
-using (Presentation pres = new Presentation())
-{
-    ISlide slide = pres.Slides[0];
-    IVideo video = pres.Videos.AddVideo(File.ReadAllBytes("video.mp4"));
-    var videoFrame = slide.Shapes.AddVideoFrame(0, 0, 100, 100, video);
+auto pres = System::MakeObject<Presentation>();
 
-    //set triming start time 1sec
-    videoFrame.TrimFromStart = 1000f;
+System::SharedPtr<ISlide> slide = pres->get_Slide(0);
+System::ArrayPtr<uint8_t> content = System::IO::File::ReadAllBytes(u"video.mp4");
+System::SharedPtr<IVideo> video = pres->get_Videos()->AddVideo(content);
+System::SharedPtr<IVideoFrame> videoFrame = slide->get_Shapes()->AddVideoFrame(0.0f, 0.0f, 100.0f, 100.0f, video);
 
-    //set triming end time 2sec
-    videoFrame.TrimFromEnd = 2000f;
-}
+//set triming start time 1sec
+videoFrame->set_TrimFromStart(1000.0f);
+
+//set triming end time 2sec
+videoFrame->set_TrimFromEnd(2000.0f);
 ```
 
 ## See Also
