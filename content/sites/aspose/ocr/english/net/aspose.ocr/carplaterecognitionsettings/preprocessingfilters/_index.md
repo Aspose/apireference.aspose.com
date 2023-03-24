@@ -3,7 +3,7 @@ title: PreprocessingFilters
 second_title: Aspose.OCR for .NET API Reference
 description: Allows to prepare the image for OCR by adjusting pre-processing methods.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.ocr/carplaterecognitionsettings/preprocessingfilters/
 ---
 ## CarPlateRecognitionSettings.PreprocessingFilters property

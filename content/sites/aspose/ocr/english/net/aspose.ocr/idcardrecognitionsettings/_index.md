@@ -3,7 +3,7 @@ title: IDCardRecognitionSettings
 second_title: Aspose.OCR for .NET API Reference
 description: Settings for the ID Card recognition. Contains elements that allow customizing the recognition process.
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.ocr/idcardrecognitionsettings/
 ---
 ## IDCardRecognitionSettings class
@@ -26,7 +26,7 @@ public class IDCardRecognitionSettings : ReceiptRecognitionSettings
 | --- | --- |
 | [AllowedCharacters](../../aspose.ocr/receiptrecognitionsettings/allowedcharacters) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
 | [AutoSkew](../../aspose.ocr/receiptrecognitionsettings/autoskew) { set; } | Gets or sets a flag indicating whether automatic image skew correction should be enabled. Enabled (true) by default. |
-| [IgnoredCharacters](../../aspose.ocr/receiptrecognitionsettings/ignoredcharacters) { get; set; } | Sets blacklist for recognition symbols. |
+| [IgnoredSymbols](../../aspose.ocr/receiptrecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
 | [Language](../../aspose.ocr/receiptrecognitionsettings/language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
 | [PreprocessingFilters](../../aspose.ocr/receiptrecognitionsettings/preprocessingfilters) { get; set; } | Allows to prepare the image for OCR by adjusting pre-processing methods. |
 | [ThreadsCount](../../aspose.ocr/receiptrecognitionsettings/threadscount) { set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |

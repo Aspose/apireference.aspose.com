@@ -3,7 +3,7 @@ title: GetSpellCheckCorrectedText
 second_title: Aspose.OCR for .NET API Reference
 description: Corrects text replaces misspelled words.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.ocr/recognitionresult/getspellcheckcorrectedtext/
 ---
 ## RecognitionResult.GetSpellCheckCorrectedText method

@@ -3,7 +3,7 @@ title: PreprocessingFilter
 second_title: Aspose.OCR for .NET API Reference
 description: Base class for image processing commands.
 type: docs
-weight: 250
+weight: 300
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/
 ---
 ## PreprocessingFilter class
@@ -21,6 +21,13 @@ public class PreprocessingFilter : IEnumerable
 | Name | Description |
 | --- | --- |
 | [PreprocessingFilter](preprocessingfilter)() | The default constructor. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| static [Default](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/default) { get; } | Default filters collection contain AutoSkew filter |
+| static [Empty](../../aspose.ocr.models.preprocessingfilters/preprocessingfilter/empty) { get; } | Empty filters collection |
 
 ## Methods
 

@@ -3,7 +3,7 @@ title: Language
 second_title: Aspose.OCR for .NET API Reference
 description: Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default.
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.ocr/baserecognitionsettings/language/
 ---
 ## BaseRecognitionSettings.Language property

@@ -6,33 +6,13 @@ type: docs
 weight: 10
 url: /net/aspose.ocr/asposeocr/asposeocr/
 ---
-## AsposeOcr() {#constructor}
+## AsposeOcr constructor
 
 Initializes a new instance of the [`AsposeOcr`](../../asposeocr) class. Empty constructor.
 
 ```csharp
 public AsposeOcr()
 ```
-
-### See Also
-
-* class [AsposeOcr](../../asposeocr)
-* namespace [Aspose.OCR](../../asposeocr)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## AsposeOcr(string) {#constructor_1}
-
-Initializes a new instance of the [`AsposeOcr`](../../asposeocr) class. Set the allowed characters with alphabet property.
-
-```csharp
-public AsposeOcr(string alphabet)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| alphabet | String | Allowed characters set. |
 
 ### See Also
 

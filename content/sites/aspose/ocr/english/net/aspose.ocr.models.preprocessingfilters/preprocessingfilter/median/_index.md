@@ -3,7 +3,7 @@ title: Median
 second_title: Aspose.OCR for .NET API Reference
 description: The median filter run through each element of the image and replace each pixel with the median of its neighboring pixels.
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/median/
 ---
 ## Median() {#median}

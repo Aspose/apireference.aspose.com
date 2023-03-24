@@ -3,7 +3,7 @@ title: RecognitionText
 second_title: Aspose.OCR for .NET API Reference
 description: Gets recognition result in one string.
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.ocr/recognitionresult/recognitiontext/
 ---
 ## RecognitionResult.RecognitionText property

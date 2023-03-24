@@ -18,24 +18,20 @@ public class BaseRecognitionSettings
 
 | Name | Description |
 | --- | --- |
-| [BaseRecognitionSettings](baserecognitionsettings)(Language, bool, float, int) | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with full set of properties. |
+| [BaseRecognitionSettings](baserecognitionsettings#constructor_1)(bool) | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with full set of properties. |
+| [BaseRecognitionSettings](baserecognitionsettings#constructor)(Language, bool, float, int) | Initializes a new instance of the [`RecognitionSettings`](../recognitionsettings) class with full set of properties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [AllowedCharacters](../../aspose.ocr/baserecognitionsettings/allowedcharacters) { get; set; } | Allowed characters set. Determines the type of characters allowed for recognition result. |
-| [AutoContrast](../../aspose.ocr/baserecognitionsettings/autocontrast) { get; set; } | Allows using an additional contrast correction algorithm for the image before recognition. |
-| [AutoDenoising](../../aspose.ocr/baserecognitionsettings/autodenoising) { get; set; } | Enables the use of an additional neural network to improve the image - reduce noise. Useful for images with scan artifacts, distortion, spots, flares, gradients, foreign elements. |
-| [AutoSkew](../../aspose.ocr/baserecognitionsettings/autoskew) { set; } | Gets or sets a flag indicating whether automatic image skew correction should be enabled. Enabled (true) by default. |
+| [AllowedSymbols](../../aspose.ocr/baserecognitionsettings/allowedsymbols) { get; set; } | Set the allowed characters with alphabet property. |
 | [DetectAreasMode](../../aspose.ocr/baserecognitionsettings/detectareasmode) { get; set; } | Allows to select the optimal mode for document type areas: document, photo, plain text, column, image. |
-| [IgnoredCharacters](../../aspose.ocr/baserecognitionsettings/ignoredcharacters) { get; set; } | Sets blacklist for recognition symbols. |
+| [IgnoredSymbols](../../aspose.ocr/baserecognitionsettings/ignoredsymbols) { get; set; } | Sets blacklist for recognition symbols. |
 | [Language](../../aspose.ocr/baserecognitionsettings/language) { set; } | Gets or sets the language used for OCR.  Determines the alphabet used during recognition. Multi-language by default. |
 | [LinesFiltration](../../aspose.ocr/baserecognitionsettings/linesfiltration) { get; set; } | Allows to recognize text in the tables (regions surrounded lines). |
-| [PreprocessingFilters](../../aspose.ocr/baserecognitionsettings/preprocessingfilters) { get; set; } | Allows to prepare the image for OCR by adjusting pre-processing methods. |
-| [SkewAngle](../../aspose.ocr/baserecognitionsettings/skewangle) { set; } | Gets or sets angle in degrees for image rotation.  Setting this value will disable the [`AutoSkew`](./autoskew) property, so that auto skew correction is not applied. Zero by default. |
 | [ThreadsCount](../../aspose.ocr/baserecognitionsettings/threadscount) { set; } | Gets or sets the number fo threads for processing. By default, 0 means that the image will be processed with the number of threads equal to your number of processors. ThreadsCount = 1 means that the image will be processed in the main thread. |
-| [ThresholdValue](../../aspose.ocr/baserecognitionsettings/thresholdvalue) { set; } | Gets or sets custom threshold value for image binarization. Range from 1 to 255. |
 | [UpscaleSmallFont](../../aspose.ocr/baserecognitionsettings/upscalesmallfont) { get; set; } | Allows you to use additional algorithms specifically for small font recognition. Useful for images with small size characters. |
 
 ### See Also

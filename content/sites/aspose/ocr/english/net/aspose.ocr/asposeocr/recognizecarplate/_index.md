@@ -3,7 +3,7 @@ title: RecognizeCarPlate
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes car plate.
 type: docs
-weight: 110
+weight: 100
 url: /net/aspose.ocr/asposeocr/recognizecarplate/
 ---
 ## RecognizeCarPlate(string, CarPlateRecognitionSettings) {#recognizecarplate_1}

@@ -3,7 +3,7 @@ title: AutoDewarping
 second_title: Aspose.OCR for .NET API Reference
 description: Automatically corrects geometric distortions in the image. Extremely resource intensive
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/autodewarping/
 ---
 ## PreprocessingFilter.AutoDewarping method

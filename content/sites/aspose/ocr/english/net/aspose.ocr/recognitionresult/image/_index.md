@@ -3,7 +3,7 @@ title: Image
 second_title: Aspose.OCR for .NET API Reference
 description: Gets or sets image for pdf creation.
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.ocr/recognitionresult/image/
 ---
 ## RecognitionResult.Image property

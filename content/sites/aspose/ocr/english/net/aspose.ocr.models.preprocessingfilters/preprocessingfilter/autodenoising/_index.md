@@ -3,7 +3,7 @@ title: AutoDenoising
 second_title: Aspose.OCR for .NET API Reference
 description: Enables the use of an additional neural network to improve the image - reduce noise. Useful for images with scan artifacts distortion spots flares gradients foreign elements.
 type: docs
-weight: 20
+weight: 40
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/autodenoising/
 ---
 ## AutoDenoising() {#autodenoising}

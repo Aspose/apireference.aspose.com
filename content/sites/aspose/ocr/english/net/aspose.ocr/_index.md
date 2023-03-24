@@ -15,17 +15,21 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [AsposeOcr](./asposeocr) | Main API for Aspose OCR library |
 | [BaseRecognitionSettings](./baserecognitionsettings) | Settings for the image recognition. Contains elements that allow customizing the recognition process. |
 | [CarPlateRecognitionSettings](./carplaterecognitionsettings) | Settings for the car number recognition. Contains elements that allow customizing the recognition process. |
-| [DocumentRecognitionSettings](./documentrecognitionsettings) | Settings for the pdf recognition. Contains elements that allow customizing the recognition process. |
 | [IDCardRecognitionSettings](./idcardrecognitionsettings) | Settings for the ID Card recognition. Contains elements that allow customizing the recognition process. |
+| [ImageData](./imagedata) | Information about processed / recognized image. |
+| [ImageProcessing](./imageprocessing) | Helper class for Aspose OCR library. Allows to preprocess and save images. |
 | [InvoiceRecognitionSettings](./invoicerecognitionsettings) | Settings for the invoice recognition. Contains elements that allow customizing the recognition process. |
 | [License](./license) | Provides methods to license the component. |
 | [Logging](./logging) | Class to create log configurations. |
 | [Metered](./metered) | Provides methods to set metered key. |
+| [OcrInput](./ocrinput) | Container to collect all images / documents for preprocessing / recognition. |
 | [OcrRecognizeEventHandler](./ocrrecognizeeventhandler) | A delegate to track the progress of multi-page image recognition. |
 | [PassportRecognitionSettings](./passportrecognitionsettings) | Settings for the passport recognition. Contains elements that allow customizing the recognition process. |
 | [ReceiptRecognitionSettings](./receiptrecognitionsettings) | Settings for the receipt recognition. Contains elements that allow customizing the recognition process. |
 | [RecognitionResult](./recognitionresult) | The results of the image recognition. Contains elements with recognition information and methods for result export. |
 | [RecognitionSettings](./recognitionsettings) | Settings for the image recognition. Contains elements that allow customizing the recognition process. |
+| [RectangleOutput](./rectangleoutput) | Data about detected text areas or lines. |
+| [SkewOutput](./skewoutput) | Data about skew angle in degrees and name of the file. |
 ## Enumeration
 
 | Enumeration | Description |
@@ -33,6 +37,7 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [AreasType](./areastype) | Determines the type of regions detected by the model. |
 | [CharactersAllowedType](./charactersallowedtype) | Determines the type of characters allowed for recognition result. |
 | [DetectAreasMode](./detectareasmode) | Determines the type of neural network used for areas detection. |
+| [InputType](./inputtype) | Types of image/ documents for processing / recognition. |
 | [Language](./language) | Languages used for OCR. ISO 639-2 Code |
 | [LoggingLevel](./logginglevel) | Defines the type of logs to display. |
 | [PixelType](./pixeltype) | Determines the type of the pixel data for image recognition. |
