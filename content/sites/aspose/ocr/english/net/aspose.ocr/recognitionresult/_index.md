@@ -18,6 +18,7 @@ public class RecognitionResult
 
 | Name | Description |
 | --- | --- |
+| [FileName](../../aspose.ocr/recognitionresult/filename) { get; set; } | Full path to the file. |
 | [Image](../../aspose.ocr/recognitionresult/image) { get; set; } | Gets or sets image for pdf creation. |
 | [RecognitionAreasRectangles](../../aspose.ocr/recognitionresult/recognitionareasrectangles) { get; } | Gets rectangles coordinates. |
 | [RecognitionAreasText](../../aspose.ocr/recognitionresult/recognitionareastext) { get; } | Gets list recognition results of a list of areas (Rectangles). |

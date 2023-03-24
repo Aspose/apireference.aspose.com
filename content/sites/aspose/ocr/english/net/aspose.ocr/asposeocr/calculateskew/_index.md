@@ -1,53 +1,31 @@
 ---
 title: CalculateSkew
 second_title: Aspose.OCR for .NET API Reference
-description: Calculates the skew angle of an image.
+description: Calculates the skew angles of an images. Supports GIF PNG JPEG BMP TIFF JFIF stream folder arrays archives.
 type: docs
 weight: 30
 url: /net/aspose.ocr/asposeocr/calculateskew/
 ---
-## CalculateSkew(MemoryStream) {#calculateskew}
+## AsposeOcr.CalculateSkew method
 
-Calculates the skew angle of an image.
+Calculates the skew angles of an images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
 
 ```csharp
-public float CalculateSkew(MemoryStream stream)
+public List<SkewOutput> CalculateSkew(OcrInput images)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | MemoryStream | Memory stream containing the image. |
+| images | OcrInput | The container with sources.[`OcrInput`](../../ocrinput) |
 
 ### Return Value
 
-Skew angle in degrees.
+List of skew angles in degrees [`SkewOutput`](../../skewoutput).
 
 ### See Also
 
-* class [AsposeOcr](../../asposeocr)
-* namespace [Aspose.OCR](../../asposeocr)
-* assembly [Aspose.OCR](../../../)
-
----
-
-## CalculateSkew(string) {#calculateskew_1}
-
-Calculates the skew angle of an image.
-
-```csharp
-public float CalculateSkew(string fullPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fullPath | String | Full path to the image. |
-
-### Return Value
-
-Skew angle in degrees.
-
-### See Also
-
+* class [SkewOutput](../../skewoutput)
+* class [OcrInput](../../ocrinput)
 * class [AsposeOcr](../../asposeocr)
 * namespace [Aspose.OCR](../../asposeocr)
 * assembly [Aspose.OCR](../../../)

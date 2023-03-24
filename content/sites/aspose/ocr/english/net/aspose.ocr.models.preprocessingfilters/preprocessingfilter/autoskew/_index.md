@@ -3,7 +3,7 @@ title: AutoSkew
 second_title: Aspose.OCR for .NET API Reference
 description: Enables the automatic image skew correction.
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/autoskew/
 ---
 ## AutoSkew() {#autoskew}

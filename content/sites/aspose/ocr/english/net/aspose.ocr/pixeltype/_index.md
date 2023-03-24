@@ -25,7 +25,7 @@ public enum PixelType
 
 ### Remarks
 
-Used in the [`RecognizeImage`](../asposeocr/recognizeimage) to set the sequences of bytes in the data array.
+Used in the RecognitionSettings) to set the sequences of bytes in the data array.
 
 ### See Also
 

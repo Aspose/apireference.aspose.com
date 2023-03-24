@@ -3,7 +3,7 @@ title: Warnings
 second_title: Aspose.OCR for .NET API Reference
 description: Gets list of the warning messages describing non-critical faults appeared during generation.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.ocr/recognitionresult/warnings/
 ---
 ## RecognitionResult.Warnings property

@@ -3,7 +3,7 @@ title: Dilate
 second_title: Aspose.OCR for .NET API Reference
 description: Dilation adds pixels to the boundaries of objects in an image.
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/dilate/
 ---
 ## Dilate() {#dilate}
