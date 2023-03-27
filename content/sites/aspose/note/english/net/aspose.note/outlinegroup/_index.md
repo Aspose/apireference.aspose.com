@@ -3,7 +3,7 @@ title: OutlineGroup
 second_title: Aspose.Note for .NET API Reference
 description: Represents a OutlineGroup.
 type: docs
-weight: 470
+weight: 510
 url: /net/aspose.note/outlinegroup/
 ---
 ## OutlineGroup class
@@ -19,7 +19,7 @@ public sealed class OutlineGroup : IndentatedNode<IOutlineChildNode>, IOutlineCh
 
 | Name | Description |
 | --- | --- |
-| [OutlineGroup](outlinegroup#constructor)() | Initializes a new instance of the [`OutlineGroup`](../outlinegroup) class. |
+| [OutlineGroup](outlinegroup)() | The default constructor. |
 
 ## Properties
 

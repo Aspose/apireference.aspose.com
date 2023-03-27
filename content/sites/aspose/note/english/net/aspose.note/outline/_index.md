@@ -3,7 +3,7 @@ title: Outline
 second_title: Aspose.Note for .NET API Reference
 description: Represents a Outline.
 type: docs
-weight: 450
+weight: 490
 url: /net/aspose.note/outline/
 ---
 ## Outline class
@@ -18,7 +18,7 @@ public sealed class Outline : IndentatedNode<IOutlineChildNode>, IPageChildNode
 
 | Name | Description |
 | --- | --- |
-| [Outline](outline#constructor)() | Initializes a new instance of the [`Outline`](../outline) class. |
+| [Outline](outline)() | The default constructor. |
 
 ## Properties
 

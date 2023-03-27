@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.Note for .NET API Reference
 description: Represents a page.
 type: docs
-weight: 480
+weight: 520
 url: /net/aspose.note/page/
 ---
 ## Page class
@@ -18,7 +18,7 @@ public sealed class Page : CompositeNode<IPageChildNode>
 
 | Name | Description |
 | --- | --- |
-| [Page](page#constructor)() | Initializes a new instance of the [`Page`](../page) class. |
+| [Page](page)() | Initializes a new instance of the [`Page`](../page) class. |
 
 ## Properties
 

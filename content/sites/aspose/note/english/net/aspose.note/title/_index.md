@@ -3,7 +3,7 @@ title: Title
 second_title: Aspose.Note for .NET API Reference
 description: Represents a title.
 type: docs
-weight: 980
+weight: 1020
 url: /net/aspose.note/title/
 ---
 ## Title class
@@ -18,7 +18,7 @@ public sealed class Title : CompositeNodeBase, ICompositeNode<RichText>, IPageCh
 
 | Name | Description |
 | --- | --- |
-| [Title](title#constructor)() | Initializes a new instance of the [`Title`](../title) class. |
+| [Title](title)() | The default constructor. |
 
 ## Properties
 

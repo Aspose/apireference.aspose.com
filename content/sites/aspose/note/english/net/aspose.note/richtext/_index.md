@@ -3,7 +3,7 @@ title: RichText
 second_title: Aspose.Note for .NET API Reference
 description: Represents a rich text.
 type: docs
-weight: 530
+weight: 570
 url: /net/aspose.note/richtext/
 ---
 ## RichText class
@@ -18,7 +18,7 @@ public sealed class RichText : Node, IEnumerable<char>, IOutlineElementChildNode
 
 | Name | Description |
 | --- | --- |
-| [RichText](richtext#constructor)() | Initializes a new instance of the [`RichText`](../richtext) class. |
+| [RichText](richtext)() | Initializes a new instance of the [`RichText`](../richtext) class. |
 
 ## Properties
 
