@@ -13,4 +13,21 @@ Aspose.Words for .NET examples and code-snippets for creating, editing, converti
 {{% /alert %}}
 
 These are links to some useful resources:
-- [How to apply license](./net/apply-license/)
+- [Apply License](./net/apply-license/)
+- [Enable OpenType features](./net/enable-opentype-features/)
+- [Working with Comments](./net/working-with-comments/)
+- [Working with Fields](./net/working-with-fields/)
+- [Working with Fonts](./net/working-with-fonts/)
+- [Working with Footnote and Endnote](./net/working-with-footnote-and-endnote/)
+- [Working with FormFields](./net/working-with-formfields/)
+- [Working with Headers and Footers](./net/working-with-headers-and-footers/)
+- [Working with Hyphenation](./net/working-with-hyphenation/)
+- [Working with List](./net/working-with-list/)
+- [Working with Markdown](./net/working-with-markdown/)
+- [Working with Node](./net/working-with-node/)
+- [Working with OleObjects and ActiveX](./net/working-with-oleobjects-and-activex/)
+- [Working with Revisions](./net/working-with-revisions/)
+- [Working with Section](./net/working-with-section/)
+- [Working with Textboxes](./net/working-with-textboxes/)
+- [Working with VBA Macros](./net/working-with-vba-macros/)
+
