@@ -1,14 +1,14 @@
 ---
 title: AnswerConfig
 second_title: Aspose.OMR for .NET API Reference
-description: The default constructor.
+description: Create instance with default values
 type: docs
 weight: 10
 url: /net/aspose.omr.generation.config.elements.parents/answerconfig/answerconfig/
 ---
 ## AnswerConfig constructor
 
-The default constructor.
+Create instance with default values
 
 ```csharp
 public AnswerConfig()

@@ -3,7 +3,7 @@ title: Name
 second_title: Aspose.OMR for .NET API Reference
 description: Text of answer
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.omr.generation.config.elements.parents/answerconfig/name/
 ---
 ## AnswerConfig.Name property

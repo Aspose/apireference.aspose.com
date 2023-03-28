@@ -3,7 +3,7 @@ title: BubblePosition
 second_title: Aspose.OMR for .NET API Reference
 description: Position of bubble. Can be from the left and the right side of the main content
 type: docs
-weight: 20
+weight: 40
 url: /net/aspose.omr.generation.config.elements.parents/answerconfig/bubbleposition/
 ---
 ## AnswerConfig.BubblePosition property
