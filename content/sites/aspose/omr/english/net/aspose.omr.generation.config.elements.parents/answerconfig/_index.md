@@ -18,12 +18,14 @@ public class AnswerConfig : ParentConfig
 
 | Name | Description |
 | --- | --- |
-| [AnswerConfig](answerconfig)() | The default constructor. |
+| [AnswerConfig](answerconfig)() | Create instance with default values |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
+| [BubbleOffsetX](../../aspose.omr.generation.config.elements.parents/answerconfig/bubbleoffsetx) { get; set; } | Horizontal position of bubble RELATIVE to parent element set in pixels. |
+| [BubbleOffsetY](../../aspose.omr.generation.config.elements.parents/answerconfig/bubbleoffsety) { get; set; } | Vertical position of bubble RELATIVE to parent element set in pixels. |
 | [BubblePosition](../../aspose.omr.generation.config.elements.parents/answerconfig/bubbleposition) { get; set; } | Position of bubble. Can be from the left and the right side of the main content |
 | [BubbleType](../../aspose.omr.generation.config.elements.parents/answerconfig/bubbletype) { get; set; } | Type of drawn bubble. |
 | override [Children](../../aspose.omr.generation.config.elements.parents/answerconfig/children) { get; set; } | Child omr elements. In most cases positioned inside of parent or below. |

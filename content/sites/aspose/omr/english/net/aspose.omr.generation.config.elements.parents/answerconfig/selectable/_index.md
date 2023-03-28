@@ -3,7 +3,7 @@ title: Selectable
 second_title: Aspose.OMR for .NET API Reference
 description: if set to false hide bubble drawing and recognition for this Answer element
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.omr.generation.config.elements.parents/answerconfig/selectable/
 ---
 ## AnswerConfig.Selectable property
