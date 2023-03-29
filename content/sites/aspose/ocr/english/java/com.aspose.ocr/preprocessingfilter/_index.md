@@ -3,7 +3,7 @@ title: PreprocessingFilter
 second_title: Aspose.OCR for Java API Reference
 description: Base class for image processing commands.
 type: docs
-weight: 18
+weight: 21
 url: /java/com.aspose.ocr/preprocessingfilter/
 ---
 
@@ -19,6 +19,11 @@ Base class for image processing commands.
 | Constructor | Description |
 | --- | --- |
 | [PreprocessingFilter()](#PreprocessingFilter--) |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Empty](#Empty) |  |
 ## Methods
 
 | Method | Description |
@@ -51,6 +56,12 @@ Base class for image processing commands.
 ### PreprocessingFilter() {#PreprocessingFilter--}
 ```
 public PreprocessingFilter()
+```
+
+
+### Empty {#Empty}
+```
+public static final PreprocessingFilter Empty
 ```
 
 
