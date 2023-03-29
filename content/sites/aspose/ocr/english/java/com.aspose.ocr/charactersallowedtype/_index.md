@@ -3,7 +3,7 @@ title: CharactersAllowedType
 second_title: Aspose.OCR for Java API Reference
 description: Determines the type of characters allowed for recognition result.
 type: docs
-weight: 23
+weight: 28
 url: /java/com.aspose.ocr/charactersallowedtype/
 ---
 

@@ -24,7 +24,7 @@ Main class for recognize text from images.
 
 | Method | Description |
 | --- | --- |
-| [CalcSkewImage(String fullPath)](#CalcSkewImage-java.lang.String-) | Calculates the skew angle of an image. |
+| [CalcSkewImage(String fullPath)](#CalcSkewImage-java.lang.String-) | Calculates the skew angle of an image. //\* @param fullPath Path to image. |
 | [CalcSkewImage(BufferedImage image)](#CalcSkewImage-java.awt.image.BufferedImage-) | Calculates the skew angle of an image. |
 | [CalcSkewImageFromUri(String uri)](#CalcSkewImageFromUri-java.lang.String-) | Calculates the skew angle of an image provided by URI link. |
 | [PreprocessImage(String fullPath, PreprocessingFilter filters)](#PreprocessImage-java.lang.String-com.aspose.ocr.PreprocessingFilter-) | Use image preprocessing to improve the accuracy of OCR. |
@@ -75,6 +75,9 @@ Main class for recognize text from images.
 | [SaveMultipageDocument(String fullFileName, Format saveFormat, ArrayList<RecognitionResult> results)](#SaveMultipageDocument-java.lang.String-com.aspose.ocr.Format-java.util.ArrayList-com.aspose.ocr.RecognitionResult--) | Allows to get multipage document from list of RecognitionResult objects. |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-) | Corrects text (replaces misspelled words). |
 | [CorrectSpelling(String text, SpellCheck.SpellCheckLanguage language, String dictionaryPath)](#CorrectSpelling-java.lang.String-com.aspose.ocr.SpellCheck.SpellCheckLanguage-java.lang.String-) | Corrects text (replaces misspelled words). |
+| [Recognize(OcrInput input, RecognitionSettings settings)](#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-) | Recognizes image with the ability to specify |
+| [CalculateSkew(OcrInput input)](#CalculateSkew-com.aspose.ocr.OcrInput-) | Calculates the skew angles of an images. |
+| [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean-) | Detects text areas on images. |
 ### AsposeOCR() {#AsposeOCR--}
 ```
 public AsposeOCR()
@@ -102,12 +105,12 @@ public double CalcSkewImage(String fullPath)
 ```
 
 
-Calculates the skew angle of an image.
+Calculates the skew angle of an image. //\* @param fullPath Path to image.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fullPath | java.lang.String | Path to image. |
+| fullPath | java.lang.String |  |
 
 **Returns:**
 double - Skew angle in degrees.
@@ -918,3 +921,51 @@ Corrects text (replaces misspelled words).
 
 **Returns:**
 java.lang.String - Text with replaced words.
+### Recognize(OcrInput input, RecognitionSettings settings) {#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-}
+```
+public ArrayList<RecognitionResult> Recognize(OcrInput input, RecognitionSettings settings)
+```
+
+
+Recognizes image with the ability to specify
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | [OcrInput](../../com.aspose.ocr/ocrinput). instance. |
+| settings | [RecognitionSettings](../../com.aspose.ocr/recognitionsettings) | Recognition settings. |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RecognitionResult> - RecognitionResult list with images recognition results.
+### CalculateSkew(OcrInput input) {#CalculateSkew-com.aspose.ocr.OcrInput-}
+```
+public ArrayList<SkewOutput> CalculateSkew(OcrInput input)
+```
+
+
+Calculates the skew angles of an images.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput) |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.SkewOutput> - ArrayList of skew angles in degrees [SkewOutput](../../com.aspose.ocr/skewoutput)
+### DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas) {#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean-}
+```
+public ArrayList<RectangleOutput> DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)
+```
+
+
+Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput) |
+| areasType | [AreasType](../../com.aspose.ocr/areastype) | Determinates wich rectangles to return - line or paragraphs. |
+| isDetectAreas | boolean | Enable automatic text areas detection. |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.RectangleOutput> - ArrayList of [RectangleOutput](../../com.aspose.ocr/rectangleoutput) with detected text areas or lines.

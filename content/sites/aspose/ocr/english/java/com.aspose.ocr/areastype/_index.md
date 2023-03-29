@@ -3,7 +3,7 @@ title: AreasType
 second_title: Aspose.OCR for Java API Reference
 description: Determines the type of regions detected by the model.
 type: docs
-weight: 22
+weight: 27
 url: /java/com.aspose.ocr/areastype/
 ---
 
