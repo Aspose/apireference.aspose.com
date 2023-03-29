@@ -1,7 +1,7 @@
 ---
-title: OmrEngine
+title: Class OmrEngine
 second_title: Aspose.OMR لمرجع .NET API
-description: محرك OMR. يتولى إنشاء قوالب وفئات معالجة الصور ومكونات واجهة المستخدم الرسومية.
+description: Aspose.OMR.Api.OmrEngine فصل. محرك OMR. يتولى إنشاء قوالب وفئات معالجة الصور ومكونات واجهة المستخدم الرسومية.
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.api/omrengine/
@@ -18,25 +18,25 @@ public class OmrEngine
 
 | اسم | وصف |
 | --- | --- |
-| [OmrEngine](omrengine)() | Default_Constructor |
+| [OmrEngine](omrengine/)() | Default_Constructor |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate)(string, GlobalPageSettings) | إنشاء نموذج (.omr) وصورة نموذج بناءً على علامة json . |
-| [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring)(string, GlobalPageSettings, ImageCollection) | إنشاء نموذج (.omr) وصورة نموذج استنادًا إلى علامة JSON markup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_3)(string) | إنشاء قالب (.omr) وصورة نموذج بناءً على ترميز النص |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_1)(MemoryStream, ImageCollection) | إنشاء قالب (.omr) وصورة نموذج بناءً على MemoryStream |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_4)(string, GlobalPageSettings) | إنشاء قالب (.omr) وصورة نموذج بناءً على ترميز النص |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_5)(string, string[]) | إنشاء قالب (.omr) وصورة نموذج بناءً على ترميز النص |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_6)(string[], ImageCollection) | إنشاء قالب (.omr) وصورة نموذج بناءً على مصفوفة من خطوط الترميز |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection) | إنشاء قالب (.omr) وصورة نموذج بناءً على MemoryStream |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | إنشاء قالب (.omr) وصورة نموذج بناءً على مصفوفة من خطوط الترميز |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | إنشاء قالب (.omr) وصورة نموذج بناءً على كائن النموذج |
-| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | ينشئ ملف[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) المثال الذي يسمح بالعمل مع واجهة برمجة تطبيقات OMR باستخدام واجهة المستخدم الرسومية[`TemplateProcessor`](../templateprocessor) كمعامل ويعمل فقط مع الصور التي تم إنشاؤها باستخدام template المحدد |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | ينشئ ملف[`TemplateProcessor`](../templateprocessor) المثال الذي يسمح بالعمل مع قالب محدد. |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | ينشئ ملف[`TemplateProcessor`](../templateprocessor) المثال الذي يسمح بالعمل مع قالب محدد. |
+| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate/)(string, GlobalPageSettings, Encoding) | إنشاء قالب (.omr) وصورة نموذج بناءً على علامة json . |
+| [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring/)(string, GlobalPageSettings, ImageCollection) | إنشاء نموذج (.omr) وصورة نموذج استنادًا إلى علامة JSON markup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_5)(string, Encoding) | إنشاء قالب (.omr) وصورة نموذج بناءً على ترميز النص |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_6)(string[], ImageCollection) | إنشاء قالب (.omr) وصورة نموذج بناءً على مصفوفة من خطوط التوصيف |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_1)(MemoryStream, ImageCollection, Encoding) | إنشاء قالب (.omr) وصورة نموذج بناءً على MemoryStream |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_3)(string, GlobalPageSettings, Encoding) | إنشاء قالب (.omr) وصورة نموذج بناءً على ترميز النص |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_4)(string, string[], Encoding) | إنشاء قالب (.omr) وصورة نموذج بناءً على ترميز النص |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | إنشاء قالب (.omr) وصورة نموذج بناءً على مصفوفة من خطوط التوصيف |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | إنشاء قالب (.omr) وصورة نموذج بناءً على كائن النموذج |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) | إنشاء قالب (.omr) وصورة نموذج بناءً على MemoryStream |
+| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol/)(TemplateProcessor) | ينشئ ملف[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol/) المثال الذي يسمح بالعمل مع واجهة برمجة تطبيقات OMR باستخدام واجهة المستخدم الرسومية[`TemplateProcessor`](../templateprocessor/) كمعامل ويعمل فقط مع الصور التي تم إنشاؤها باستخدام template المحدد |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor/#gettemplateprocessor_1)(string) | ينشئ ملف[`TemplateProcessor`](../templateprocessor/) المثال الذي يسمح بالعمل مع قالب محدد. |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor/#gettemplateprocessor)(MemoryStream, Encoding) | ينشئ ملف[`TemplateProcessor`](../templateprocessor/) المثال الذي يسمح بالعمل مع قالب محدد. |
 
 ### أمثلة
 
@@ -47,14 +47,14 @@ TemplateProcessor templateProcessor = engine.GetTemplateProcessor(templatePath);
 ```
 
 ```csharp
-// الحصول على عنصر تحكم واجهة المستخدم الرسومية للتصحيح
+// الحصول على التحكم في واجهة المستخدم الرسومية للتصحيح
 OmrEngine engine = new OmrEngine();
 TemplateProcessor templateProcessor = engine.GetTemplateProcessor(templatePath);
 CorrectionControl control = engine.GetCorrectionControl(templateProcessor);
 ```
 
 ```csharp
-// إنشاء نموذج
+// إنشاء قالب
 OmrEngine engine = new OmrEngine();
 GenerationResult result = engine.GenerateTemplate(markupPath);
 if(result.ErrorCode == 0)
@@ -65,7 +65,7 @@ if(result.ErrorCode == 0)
 
 ### أنظر أيضا
 
-* مساحة الاسم [Aspose.OMR.Api](../../aspose.omr.api)
+* مساحة الاسم [Aspose.OMR.Api](../../aspose.omr.api/)
 * المجسم [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+
