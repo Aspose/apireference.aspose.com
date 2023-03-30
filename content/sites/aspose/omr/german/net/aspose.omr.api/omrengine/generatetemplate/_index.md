@@ -1,18 +1,18 @@
 ---
-title: GenerateTemplate
+title: OmrEngine.GenerateTemplate
 second_title: Aspose.OMR für .NET-API-Referenz
-description: Erstellt eine Vorlage .omr und ein Vorlagenbild basierend auf MemoryStream
+description: OmrEngine methode. Erstellt eine Vorlage .omr und ein Vorlagenbild basierend auf MemoryStream
 type: docs
 weight: 40
 url: /de/net/aspose.omr.api/omrengine/generatetemplate/
 ---
-## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection) {#generatetemplate_2}
+## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) {#generatetemplate_2}
 
 Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf MemoryStream
 
 ```csharp
 public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings settings, 
-    ImageCollection userImages = null)
+    ImageCollection userImages = null, Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beschreibung |
@@ -20,6 +20,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings
 | stream | MemoryStream | Der Stream, der Markup-Zeilen enthält |
 | settings | GlobalPageSettings | Die globalen Einstellungen, die für alle Seitenelemente gelten |
 | userImages | ImageCollection | Sammlung von Bildern, die für eine Vorlagengenerierung verwendet werden können. Ermöglicht die Verwendung von Bildern aus MemoryStream anstelle des Dateisystems |
+| encoding | Encoding | Codierung von Markup-Zeilen, standardmäßig wird UTF-8 verwendet |
 
 ### Rückgabewert
 
@@ -27,27 +28,29 @@ Generierungsergebnis
 
 ### Siehe auch
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namensraum [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namensraum [Aspose.OMR.Api](../../omrengine/)
 * Montage [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(MemoryStream, ImageCollection) {#generatetemplate_1}
+## GenerateTemplate(MemoryStream, ImageCollection, Encoding) {#generatetemplate_1}
 
 Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf MemoryStream
 
 ```csharp
-public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection userImages = null)
+public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection userImages = null, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | stream | MemoryStream | Der Stream, der Markup-Zeilen enthält |
 | userImages | ImageCollection | Sammlung von Bildern, die für eine Vorlagengenerierung verwendet werden können. Ermöglicht die Verwendung von Bildern aus MemoryStream anstelle des Dateisystems |
+| encoding | Encoding | Codierung von Markup-Zeilen, standardmäßig wird UTF-8 verwendet |
 
 ### Rückgabewert
 
@@ -55,10 +58,10 @@ Generierungsergebnis
 
 ### Siehe auch
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namensraum [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namensraum [Aspose.OMR.Api](../../omrengine/)
 * Montage [Aspose.OMR](../../../)
 
 ---
@@ -84,11 +87,11 @@ Generierungsergebnis
 
 ### Siehe auch
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namensraum [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namensraum [Aspose.OMR.Api](../../omrengine/)
 * Montage [Aspose.OMR](../../../)
 
 ---
@@ -112,26 +115,28 @@ Generierungsergebnis
 
 ### Siehe auch
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namensraum [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namensraum [Aspose.OMR.Api](../../omrengine/)
 * Montage [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(string, GlobalPageSettings) {#generatetemplate_4}
+## GenerateTemplate(string, GlobalPageSettings, Encoding) {#generatetemplate_3}
 
 Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Textmarkup
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings settings)
+public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings settings, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | markupPath | String | Pfad zur Textmarkierungsdatei |
 | settings | GlobalPageSettings | Die globalen Einstellungen, die für alle Seitenelemente gelten |
+| encoding | Encoding | Markup-Dateicodierung, standardmäßig wird UTF-8 verwendet |
 
 ### Rückgabewert
 
@@ -139,25 +144,26 @@ Generierungsergebnis
 
 ### Siehe auch
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [OmrEngine](../../omrengine)
-* namensraum [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [OmrEngine](../)
+* namensraum [Aspose.OMR.Api](../../omrengine/)
 * Montage [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(string) {#generatetemplate_3}
+## GenerateTemplate(string, Encoding) {#generatetemplate_5}
 
 Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Textmarkup
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath)
+public GenerationResult GenerateTemplate(string markupPath, Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | markupPath | String | Pfad zur Textmarkierungsdatei |
+| encoding | Encoding | Markup-Dateicodierung, standardmäßig wird UTF-8 verwendet |
 
 ### Rückgabewert
 
@@ -165,25 +171,27 @@ Generierungsergebnis
 
 ### Siehe auch
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [OmrEngine](../../omrengine)
-* namensraum [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [OmrEngine](../)
+* namensraum [Aspose.OMR.Api](../../omrengine/)
 * Montage [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(string, string[]) {#generatetemplate_5}
+## GenerateTemplate(string, string[], Encoding) {#generatetemplate_4}
 
 Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Textmarkup
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths)
+public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | markupPath | String | Pfad zur Textmarkierungsdatei |
 | imagesPaths | String[] | Vollständige Pfade zu den bei der Generierung verwendeten Bildern |
+| encoding | Encoding | Markup-Dateicodierung, standardmäßig wird UTF-8 verwendet |
 
 ### Rückgabewert
 
@@ -191,9 +199,9 @@ Generierungsergebnis
 
 ### Siehe auch
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [OmrEngine](../../omrengine)
-* namensraum [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [OmrEngine](../)
+* namensraum [Aspose.OMR.Api](../../omrengine/)
 * Montage [Aspose.OMR](../../../)
 
 ---
@@ -219,12 +227,12 @@ Generierungsergebnis
 
 ### Siehe auch
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [TemplateConfig](../../../aspose.omr.generation.config/templateconfig)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namensraum [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [TemplateConfig](../../../aspose.omr.generation.config/templateconfig/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namensraum [Aspose.OMR.Api](../../omrengine/)
 * Montage [Aspose.OMR](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

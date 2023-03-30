@@ -1,9 +1,9 @@
 ---
-title: GridConfig
+title: Class GridConfig
 second_title: Referencia de API de Aspose.OMR para .NET
-description: Representa tabla de burbujas. Identificador de pregunta y múltiples respuestas a elegir Línea de respuestas puede ser horizontal o vertical
+description: Aspose.OMR.Generation.Config.Elements.GridConfig clase. Representa tabla de burbujas. Identificador de pregunta y múltiples respuestas a elegir Línea de respuestas puede ser horizontal o vertical
 type: docs
-weight: 180
+weight: 190
 url: /es/net/aspose.omr.generation.config.elements/gridconfig/
 ---
 ## GridConfig class
@@ -18,32 +18,32 @@ public class GridConfig : BaseConfig
 
 | Nombre | Descripción |
 | --- | --- |
-| [GridConfig](gridconfig)() | Constructor predeterminado |
+| [GridConfig](gridconfig/)() | Constructor predeterminado |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements/gridconfig/bubblesize) { get; set; } | El tamaño de una burbuja |
-| [BubbleType](../../aspose.omr.generation.config.elements/gridconfig/bubbletype) { get; set; } | El tipo de burbuja |
-| [Column](../../aspose.omr.generation.config.elements/gridconfig/column) { get; set; } | Cuando el elemento se dibuja en un padre de varias columnas, represente la posición. |
-| [GridAlignment](../../aspose.omr.generation.config.elements/gridconfig/gridalignment) { get; set; } | Alineación de cuadrícula, indica dónde se debe dibujar la cuadrícula en la página |
-| [GridOrientation](../../aspose.omr.generation.config.elements/gridconfig/gridorientation) { get; set; } | Orientación de cuadrícula: horizontal o vertical. Indica cómo deben colocarse los elementos secundarios |
-| [HeaderBorderColor](../../aspose.omr.generation.config.elements/gridconfig/headerbordercolor) { get; set; } | Color del borde cuadrado |
-| [HeaderBorderSize](../../aspose.omr.generation.config.elements/gridconfig/headerbordersize) { get; set; } | Tamaño del borde cuadrado |
-| [HeaderType](../../aspose.omr.generation.config.elements/gridconfig/headertype) { get; set; } | Indica qué tipo de elemento dibujar al inicio de la grilla |
-| override [Name](../../aspose.omr.generation.config.elements/gridconfig/name) { get; set; } | Nombre de la grilla. Usado como identificador en el reconocimiento |
-| [OptionsCount](../../aspose.omr.generation.config.elements/gridconfig/optionscount) { get; set; } | Cantidad de opciones de respuesta en cada casilla de elección, es decir, filas en la cuadrícula de arriba hacia abajo |
-| [SectionsCount](../../aspose.omr.generation.config.elements/gridconfig/sectionscount) { get; set; } | Cantidad de cuadros de elección dentro de la cuadrícula, es decir, columnas en la cuadrícula de arriba hacia abajo |
-| override [Type](../../aspose.omr.generation.config.elements/gridconfig/type) { get; set; } | Tipo de elemento omr. Campo obligatorio para serialización JSON. |
-| [VerticalMargin](../../aspose.omr.generation.config.elements/gridconfig/verticalmargin) { get; set; } | El margen entre líneas |
-| [XPosition](../../aspose.omr.generation.config.elements/gridconfig/xposition) { get; set; } | Posición de cuadrícula X en la página, anula la alineación |
-| [YPosition](../../aspose.omr.generation.config.elements/gridconfig/yposition) { get; set; } | Posición de cuadrícula Y en la página, anula la alineación |
+| [BubbleSize](../../aspose.omr.generation.config.elements/gridconfig/bubblesize/) { get; set; } | El tamaño de una burbuja |
+| [BubbleType](../../aspose.omr.generation.config.elements/gridconfig/bubbletype/) { get; set; } | El tipo de burbuja |
+| [Column](../../aspose.omr.generation.config.elements/gridconfig/column/) { get; set; } | Cuando el elemento se dibuja en un padre de varias columnas, represente la posición. |
+| [GridAlignment](../../aspose.omr.generation.config.elements/gridconfig/gridalignment/) { get; set; } | Alineación de cuadrícula, indica dónde se debe dibujar la cuadrícula en la página |
+| [GridOrientation](../../aspose.omr.generation.config.elements/gridconfig/gridorientation/) { get; set; } | Orientación de cuadrícula: horizontal o vertical. Indica cómo deben colocarse los elementos secundarios |
+| [HeaderBorderColor](../../aspose.omr.generation.config.elements/gridconfig/headerbordercolor/) { get; set; } | Color del borde cuadrado |
+| [HeaderBorderSize](../../aspose.omr.generation.config.elements/gridconfig/headerbordersize/) { get; set; } | Tamaño del borde cuadrado |
+| [HeaderType](../../aspose.omr.generation.config.elements/gridconfig/headertype/) { get; set; } | Indica qué tipo de elemento dibujar al inicio de la grilla |
+| override [Name](../../aspose.omr.generation.config.elements/gridconfig/name/) { get; set; } | Nombre de la grilla. Usado como identificador en el reconocimiento |
+| [OptionsCount](../../aspose.omr.generation.config.elements/gridconfig/optionscount/) { get; set; } | Cantidad de opciones de respuesta en cada casilla de elección, es decir, filas en la cuadrícula de arriba hacia abajo |
+| [SectionsCount](../../aspose.omr.generation.config.elements/gridconfig/sectionscount/) { get; set; } | Cantidad de cuadros de elección dentro de la cuadrícula, es decir, columnas en la cuadrícula de arriba hacia abajo |
+| override [Type](../../aspose.omr.generation.config.elements/gridconfig/type/) { get; set; } | Tipo de elemento omr. Campo obligatorio para serialización JSON. |
+| [VerticalMargin](../../aspose.omr.generation.config.elements/gridconfig/verticalmargin/) { get; set; } | El margen entre líneas |
+| [XPosition](../../aspose.omr.generation.config.elements/gridconfig/xposition/) { get; set; } | Posición de cuadrícula X en la página, anula la alineación |
+| [YPosition](../../aspose.omr.generation.config.elements/gridconfig/yposition/) { get; set; } | Posición de cuadrícula Y en la página, anula la alineación |
 
 ### Ver también
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
-* espacio de nombres [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
+* espacio de nombres [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements/)
 * asamblea [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: OmrEngine
+title: Class OmrEngine
 second_title: Referencia de API de Aspose.OMR para .NET
-description: El motor OMR. Maneja la creación de la plantilla y las clases de procesamiento de imágenes y los componentes de la GUI.
+description: Aspose.OMR.Api.OmrEngine clase. El motor OMR. Maneja la creación de la plantilla y las clases de procesamiento de imágenes y los componentes de la GUI.
 type: docs
 weight: 20
 url: /es/net/aspose.omr.api/omrengine/
@@ -18,25 +18,25 @@ public class OmrEngine
 
 | Nombre | Descripción |
 | --- | --- |
-| [OmrEngine](omrengine)() | Constructor predeterminado |
+| [OmrEngine](omrengine/)() | Constructor predeterminado |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate)(string, GlobalPageSettings) | Crea una plantilla (.omr) y una imagen de plantilla basada en .json markup |
-| [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring)(string, GlobalPageSettings, ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en el marcado JSON |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_3)(string) | Crea una plantilla (.omr) y una imagen de plantilla basada en marcado de texto |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_1)(MemoryStream, ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en MemoryStream |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_4)(string, GlobalPageSettings) | Crea una plantilla (.omr) y una imagen de plantilla basada en marcado de texto |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_5)(string, string[]) | Crea una plantilla (.omr) y una imagen de plantilla basada en marcado de texto |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_6)(string[], ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en una matriz de líneas de marcado |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en MemoryStream |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en una matriz de líneas de marcado |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en el objeto Plantilla |
-| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | Crea el[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) instancia que permite trabajar con API OMR usando GUI. Takes[`TemplateProcessor`](../templateprocessor) como parámetro y solo funciona con imágenes creadas usando template especificado |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | Crea el[`TemplateProcessor`](../templateprocessor) instancia que permite trabajar con la plantilla especificada. |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | Crea el[`TemplateProcessor`](../templateprocessor) instancia que permite trabajar con la plantilla especificada. |
+| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate/)(string, GlobalPageSettings, Encoding) | Crea una plantilla (.omr) y una imagen de plantilla basada en .json markup |
+| [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring/)(string, GlobalPageSettings, ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en el marcado JSON |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_5)(string, Encoding) | Crea una plantilla (.omr) y una imagen de plantilla basada en marcado de texto |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_6)(string[], ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en una matriz de líneas de marcado |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_1)(MemoryStream, ImageCollection, Encoding) | Crea una plantilla (.omr) y una imagen de plantilla basada en MemoryStream |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_3)(string, GlobalPageSettings, Encoding) | Crea una plantilla (.omr) y una imagen de plantilla basada en marcado de texto |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_4)(string, string[], Encoding) | Crea una plantilla (.omr) y una imagen de plantilla basada en marcado de texto |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en una matriz de líneas de marcado |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Crea una plantilla (.omr) y una imagen de plantilla basada en el objeto Plantilla |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) | Crea una plantilla (.omr) y una imagen de plantilla basada en MemoryStream |
+| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol/)(TemplateProcessor) | Crea el[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol/) instancia que permite trabajar con API OMR usando GUI. Takes[`TemplateProcessor`](../templateprocessor/) como parámetro y solo funciona con imágenes creadas usando template especificado |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor/#gettemplateprocessor_1)(string) | Crea el[`TemplateProcessor`](../templateprocessor/) instancia que permite trabajar con la plantilla especificada. |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor/#gettemplateprocessor)(MemoryStream, Encoding) | Crea el[`TemplateProcessor`](../templateprocessor/) instancia que permite trabajar con la plantilla especificada. |
 
 ### Ejemplos
 
@@ -65,7 +65,7 @@ if(result.ErrorCode == 0)
 
 ### Ver también
 
-* espacio de nombres [Aspose.OMR.Api](../../aspose.omr.api)
+* espacio de nombres [Aspose.OMR.Api](../../aspose.omr.api/)
 * asamblea [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

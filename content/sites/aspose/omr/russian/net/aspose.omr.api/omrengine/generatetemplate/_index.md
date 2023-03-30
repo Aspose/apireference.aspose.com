@@ -1,18 +1,18 @@
 ---
-title: GenerateTemplate
+title: OmrEngine.GenerateTemplate
 second_title: Справочник по Aspose.OMR для .NET API
-description: Создает шаблон .omr и образ шаблона на основе MemoryStream
+description: OmrEngine метод. Создает шаблон .omr и образ шаблона на основе MemoryStream
 type: docs
 weight: 40
 url: /ru/net/aspose.omr.api/omrengine/generatetemplate/
 ---
-## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection) {#generatetemplate_2}
+## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) {#generatetemplate_2}
 
 Создает шаблон (.omr) и образ шаблона на основе MemoryStream
 
 ```csharp
 public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings settings, 
-    ImageCollection userImages = null)
+    ImageCollection userImages = null, Encoding encoding = null)
 ```
 
 | Параметр | Тип | Описание |
@@ -20,6 +20,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings
 | stream | MemoryStream | Поток, содержащий строки разметки |
 | settings | GlobalPageSettings | Глобальные настройки, применимые ко всем элементам страницы |
 | userImages | ImageCollection | Коллекция изображений, которые можно использовать для создания шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
+| encoding | Encoding | кодировка строк разметки, по умолчанию используется UTF-8 |
 
 ### Возвращаемое значение
 
@@ -27,27 +28,29 @@ public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings
 
 ### Смотрите также
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* пространство имен [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* пространство имен [Aspose.OMR.Api](../../omrengine/)
 * сборка [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(MemoryStream, ImageCollection) {#generatetemplate_1}
+## GenerateTemplate(MemoryStream, ImageCollection, Encoding) {#generatetemplate_1}
 
 Создает шаблон (.omr) и образ шаблона на основе MemoryStream
 
 ```csharp
-public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection userImages = null)
+public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection userImages = null, 
+    Encoding encoding = null)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | MemoryStream | Поток, содержащий строки разметки |
 | userImages | ImageCollection | Коллекция изображений, которые можно использовать для создания шаблона. Разрешить использовать образы из MemoryStream вместо файловой системы |
+| encoding | Encoding | кодировка строк разметки, по умолчанию используется UTF-8 |
 
 ### Возвращаемое значение
 
@@ -55,10 +58,10 @@ public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection us
 
 ### Смотрите также
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* пространство имен [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* пространство имен [Aspose.OMR.Api](../../omrengine/)
 * сборка [Aspose.OMR](../../../)
 
 ---
@@ -84,11 +87,11 @@ public GenerationResult GenerateTemplate(string[] markupLines, GlobalPageSetting
 
 ### Смотрите также
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* пространство имен [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* пространство имен [Aspose.OMR.Api](../../omrengine/)
 * сборка [Aspose.OMR](../../../)
 
 ---
@@ -112,26 +115,28 @@ public GenerationResult GenerateTemplate(string[] markupLines, ImageCollection u
 
 ### Смотрите также
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* пространство имен [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* пространство имен [Aspose.OMR.Api](../../omrengine/)
 * сборка [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(string, GlobalPageSettings) {#generatetemplate_4}
+## GenerateTemplate(string, GlobalPageSettings, Encoding) {#generatetemplate_3}
 
 Создает шаблон (.omr) и изображение шаблона на основе текстовой разметки
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings settings)
+public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings settings, 
+    Encoding encoding = null)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | markupPath | String | Путь к файлу текстовой разметки |
 | settings | GlobalPageSettings | Глобальные настройки, применимые ко всем элементам страницы |
+| encoding | Encoding | кодировка файла разметки, по умолчанию используется UTF-8 |
 
 ### Возвращаемое значение
 
@@ -139,25 +144,26 @@ public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings s
 
 ### Смотрите также
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [OmrEngine](../../omrengine)
-* пространство имен [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [OmrEngine](../)
+* пространство имен [Aspose.OMR.Api](../../omrengine/)
 * сборка [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(string) {#generatetemplate_3}
+## GenerateTemplate(string, Encoding) {#generatetemplate_5}
 
 Создает шаблон (.omr) и изображение шаблона на основе текстовой разметки
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath)
+public GenerationResult GenerateTemplate(string markupPath, Encoding encoding = null)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | markupPath | String | Путь к файлу текстовой разметки |
+| encoding | Encoding | кодировка файла разметки, по умолчанию используется UTF-8 |
 
 ### Возвращаемое значение
 
@@ -165,25 +171,27 @@ public GenerationResult GenerateTemplate(string markupPath)
 
 ### Смотрите также
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [OmrEngine](../../omrengine)
-* пространство имен [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [OmrEngine](../)
+* пространство имен [Aspose.OMR.Api](../../omrengine/)
 * сборка [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(string, string[]) {#generatetemplate_5}
+## GenerateTemplate(string, string[], Encoding) {#generatetemplate_4}
 
 Создает шаблон (.omr) и изображение шаблона на основе текстовой разметки
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths)
+public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths, 
+    Encoding encoding = null)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | markupPath | String | Путь к файлу текстовой разметки |
 | imagesPaths | String[] | Полные пути к изображениям, используемым при генерации |
+| encoding | Encoding | кодировка файла разметки, по умолчанию используется UTF-8 |
 
 ### Возвращаемое значение
 
@@ -191,9 +199,9 @@ public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths
 
 ### Смотрите также
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [OmrEngine](../../omrengine)
-* пространство имен [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [OmrEngine](../)
+* пространство имен [Aspose.OMR.Api](../../omrengine/)
 * сборка [Aspose.OMR](../../../)
 
 ---
@@ -219,12 +227,12 @@ public GenerationResult GenerateTemplate(TemplateConfig config, GlobalPageSettin
 
 ### Смотрите также
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [TemplateConfig](../../../aspose.omr.generation.config/templateconfig)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* пространство имен [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [TemplateConfig](../../../aspose.omr.generation.config/templateconfig/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* пространство имен [Aspose.OMR.Api](../../omrengine/)
 * сборка [Aspose.OMR](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

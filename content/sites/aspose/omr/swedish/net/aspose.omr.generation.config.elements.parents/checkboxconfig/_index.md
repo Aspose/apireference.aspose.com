@@ -1,9 +1,9 @@
 ---
-title: CheckBoxConfig
+title: Class CheckBoxConfig
 second_title: Aspose.OMR för .NET API-referens
-description: Representerar CheckBoxelement.
+description: Aspose.OMR.Generation.Config.Elements.Parents.CheckBoxConfig klass. Representerar CheckBoxelement.
 type: docs
-weight: 230
+weight: 240
 url: /sv/net/aspose.omr.generation.config.elements.parents/checkboxconfig/
 ---
 ## CheckBoxConfig class
@@ -18,28 +18,28 @@ public class CheckBoxConfig : ParentConfig
 
 | namn | Beskrivning |
 | --- | --- |
-| [CheckBoxConfig](checkboxconfig)() | Default_Constructor |
+| [CheckBoxConfig](checkboxconfig/)() | Default_Constructor |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize) { get; set; } | Storlek på rektangeln för varje alternativ(barn) |
-| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype) { get; set; } | Typen av en bubbla |
-| override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children) { get; set; } | Underordnade omr-element. I de flesta fall placerad inuti förälder eller under. |
-| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily) { get; set; } | Teckensnittsfamiljen för text |
-| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize) { get; set; } | Storleken på texten font |
-| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle) { get; set; } | Stilen för texten |
-| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename) { get; set; } | Kontrollera visningen av kryssrutans namn i mall |
-| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name) { get; set; } | namn på kryssrutan. visas som standard före den första kryssrutan. Kan döljas av[`HideName`](./hidename) |
-| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation) { get; set; } | Styr positionen för underordnade element. Stöder för närvarande endast horisontellt. |
-| [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold) { get; set; } | Anpassad igenkänningsmarkör. Som standard inställd på 3%. Kryssrutan anses vara markerad om 3% av dess region är fylld. Kan anpassas till vilken annan tröskel som helst. Påverkar inte global tröskel |
-| override [Type](../../aspose.omr.generation.config.elements.parents/checkboxconfig/type) { get; set; } | Typ av omr-element. Obligatoriskt fält för JSON-serialisering. |
+| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize/) { get; set; } | Storlek på rektangeln för varje alternativ(barn) |
+| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype/) { get; set; } | Typen av en bubbla |
+| override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children/) { get; set; } | Underordnade omr-element. I de flesta fall placerad inuti förälder eller under. |
+| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily/) { get; set; } | Teckensnittsfamiljen för text |
+| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize/) { get; set; } | Storleken på texten font |
+| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle/) { get; set; } | Stilen för texten |
+| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename/) { get; set; } | Kontrollera visningen av kryssrutans namn i mall |
+| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name/) { get; set; } | namn på kryssrutan. visas som standard före den första kryssrutan. Kan döljas av[`HideName`](./hidename/) |
+| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation/) { get; set; } | Styr positionen för underordnade element. Stöder för närvarande endast horisontellt. |
+| [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold/) { get; set; } | Anpassad igenkänningsmarkör. Som standard inställd på 3%. Kryssrutan anses vara markerad om 3% av dess region är fylld. Kan anpassas till vilken annan tröskel som helst. Påverkar inte global tröskel |
+| override [Type](../../aspose.omr.generation.config.elements.parents/checkboxconfig/type/) { get; set; } | Typ av omr-element. Obligatoriskt fält för JSON-serialisering. |
 
 ### Se även
 
-* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
-* namnutrymme [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig/)
+* namnutrymme [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents/)
 * hopsättning [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+
