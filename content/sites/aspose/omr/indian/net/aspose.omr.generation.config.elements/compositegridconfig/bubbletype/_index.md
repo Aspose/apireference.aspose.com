@@ -1,0 +1,24 @@
+---
+title: CompositeGridConfig.BubbleType
+second_title: .NET API संदर्भ के लिए Aspose.OMR
+description: CompositeGridConfig संपत्त. बबल क प्रकर
+type: docs
+weight: 20
+url: /hi/net/aspose.omr.generation.config.elements/compositegridconfig/bubbletype/
+---
+## CompositeGridConfig.BubbleType property
+
+बबल का प्रकार
+
+```csharp
+public BubbleType BubbleType { get; set; }
+```
+
+### यह सभी देखें
+
+* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype/)
+* class [CompositeGridConfig](../)
+* नाम स्थान [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig/)
+* सभा [Aspose.OMR](../../../)
+
+
