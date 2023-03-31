@@ -11,7 +11,7 @@ url: /tr/
 
 {{% alert color="primary" %}} 
 
-![Aspose.OMR for .NET Ürün Logosu](../home_1.png)
+![Aspose.OMR for .NET Ürün Logosu](../logo_omr_net.svg)
 
 **Aspose.OMR for .NET'e hoş geldiniz**
 
@@ -27,7 +27,7 @@ Bunlar, bazı yararlı kaynaklara bağlantılar:
 
 {{% alert color="primary" %}} 
 
-![Aspose.OMR for Java Ürün Logosu](../home_2.png)
+![Aspose.OMR for Java Ürün Logosu](../logo_omr_java.svg)
 
 **Aspose.OMR for Java'ya hoş geldiniz**
 
@@ -39,3 +39,19 @@ Bunlar, bazı yararlı kaynaklara bağlantılar:
 
 - [Java API Referansı için Aspose.OMR](/omr/java/)
 
+
+## C++ için Aspose.OMR
+
+{{% alert color="primary" %}} 
+
+![Aspose.OMR for C++ Ürün Logosu](../logo_omr_cpp.svg)
+
+**C++ için Aspose.OMR'ye hoş geldiniz**
+
+Aspose.OMR for C++, OMR sayısallaştırılmış sayfa görüntülerinden optik işaretleri tanıyan bir API'dir. BMP, JPG, TIF, TIFF, GIF gibi çeşitli görüntü formatlarındaki optik işaretleri tanımak için kullanılabilir. API anketler, anketler, çoktan seçmeli sınav kağıtları ve diğer testler gibi belge formlarından insan tarafından işaretlenmiş verilerin yakalanmasına olanak tanır. Bu çözüm ile taranmış görüntüleri ve hatta fotoğrafları yüksek doğrulukla tanımak mümkündür. Tanıma, taranan görüntülerden tanınacak öğelerin grafik eşlemesini içeren bir şablon işaretlemesine dayanır.
+
+{{% /alert %}} 
+
+Bunlar bazı faydalı kaynaklara bağlantılar:
+
+- [C++ API Referansı için Aspose.OMR](/omr/cpp/)

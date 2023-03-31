@@ -11,7 +11,7 @@ url: /es/
 
 {{% alert color="primary" %}} 
 
-![Aspose.OMR para el logotipo del producto .NET](../home_1.png)
+![Aspose.OMR para el logotipo del producto .NET](../logo_omr_net.svg)
 
 **Bienvenido a Aspose.OMR para .NET**
 
@@ -27,7 +27,7 @@ Estos son enlaces a algunos recursos útiles:
 
 {{% alert color="primary" %}} 
 
-![Logotipo del producto Aspose.OMR para Java](../home_2.png)
+![Logotipo del producto Aspose.OMR para Java](../logo_omr_java.svg)
 
 **Bienvenido a Aspose.OMR para Java**
 
@@ -39,3 +39,19 @@ Estos son enlaces a algunos recursos útiles:
 
 - [Referencia de la API de Aspose.OMR para Java](/omr/java/)
 
+
+## Aspose.OMR para C++
+
+{{% alert color="primary" %}} 
+
+![Logotipo del producto Aspose.OMR para C++](../logo_omr_cpp.svg)
+
+**Bienvenido a Aspose.OMR para C++**
+
+Aspose.OMR para C++ es una API para reconocer marcas ópticas de imágenes de hojas digitalizadas OMR. Puede usarse para reconocer marcas ópticas en una variedad de formatos de imagen como BMP, JPG, TIF, TIFF, GIF. La API permite capturar datos marcados por humanos de formularios de documentos como encuestas, cuestionarios, exámenes de opción múltiple y otras pruebas. Con esta solución, es posible reconocer imágenes escaneadas e incluso fotografías con gran precisión. El reconocimiento se basa en un marcado de plantilla que contiene un mapeo gráfico de los elementos que se reconocerán de las imágenes escaneadas.
+
+{{% /alert %}} 
+
+Estos son enlaces a algunos recursos útiles:
+
+- [Referencia de la API de Aspose.OMR para C++](/omr/cpp/)
