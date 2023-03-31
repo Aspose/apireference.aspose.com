@@ -224,6 +224,7 @@ Recognize optical marks from OMR digitized sheet images in a variety of image fo
 
 {{< blocks/product-item title=".NET" href="/omr/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/omr/java/" class="btn-java" >}}
+{{< blocks/product-item title="C++" href="/omr/cpp/" class="btn-c" >}}
 
 {{< /blocks/product-card >}}
 
