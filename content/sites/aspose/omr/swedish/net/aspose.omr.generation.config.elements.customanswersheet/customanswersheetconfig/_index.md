@@ -1,14 +1,14 @@
 ---
-title: CustomAnswerSheetConfig
+title: Class CustomAnswerSheetConfig
 second_title: Aspose.OMR för .NET API-referens
-description: Upprepa anpassade rader. För att beskriva anpassad radanvändning CustomRowConfig./customrowconfig
+description: Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet.CustomAnswerSheetConfig klass. Upprepa anpassade rader. För att beskriva anpassad radanvändning CustomRowConfig
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/
 ---
 ## CustomAnswerSheetConfig class
 
-Upprepa anpassade rader. För att beskriva anpassad radanvändning -[`CustomRowConfig`](../customrowconfig)
+Upprepa anpassade rader. För att beskriva anpassad radanvändning -[`CustomRowConfig`](../customrowconfig/)
 
 ```csharp
 public class CustomAnswerSheetConfig : ParentConfig
@@ -18,26 +18,30 @@ public class CustomAnswerSheetConfig : ParentConfig
 
 | namn | Beskrivning |
 | --- | --- |
-| [CustomAnswerSheetConfig](customanswersheetconfig)() | Default_Constructor |
+| [CustomAnswerSheetConfig](customanswersheetconfig/)() | Default_Constructor |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| [Amount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/amount) { get; set; } | Totalt antal rader |
-| [BorderColor](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordercolor) { get; set; } | Färg på kant |
-| [BorderSize](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordersize) { get; set; } | Storlek på kantlinje |
-| [BorderType](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertype) { get; set; } | Typ av ritad kant för att separera kolumner(sektioner) |
-| override [Children](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/children) { get; set; } | Underordnade omr-element. I de flesta fall placerad inuti förälder eller under. |
-| [ColumnsCount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/columnscount) { get; set; } | Antal kolumner(sektioner) som ska grupperas rader |
-| override [Name](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/name) { get; set; } | Namn på RepeatRows element |
-| [Proportions](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/proportions) { get; set; } | Breddförhållande för varje kolumn inuti it |
-| override [Type](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/type) { get; set; } | Typ av omr-element. Obligatoriskt fält för JSON-serialisering. |
+| [Amount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/amount/) { get; set; } | Totalt antal rader |
+| [BorderBottomStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderbottomstyle/) { get; set; } | Ytterligare stil för nedre kant |
+| [BorderColor](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordercolor/) { get; set; } | Färg på kant |
+| [BorderLeftStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderleftstyle/) { get; set; } | Ytterligare stil för vänster kant |
+| [BorderRightStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderrightstyle/) { get; set; } | Ytterligare stil för höger kant |
+| [BorderSize](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordersize/) { get; set; } | Storlek på kantlinje |
+| [BorderTopStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertopstyle/) { get; set; } | Ytterligare stil för top border |
+| [BorderType](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertype/) { get; set; } | Typ av ritad kant för att separera kolumner(sektioner) |
+| override [Children](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/children/) { get; set; } | Underordnade omr-element. I de flesta fall placerad inuti förälder eller under. |
+| [ColumnsCount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/columnscount/) { get; set; } | Antal kolumner(sektioner) som ska grupperas rader |
+| override [Name](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/name/) { get; set; } | Namn på RepeatRows element |
+| [Proportions](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/proportions/) { get; set; } | Breddförhållande för varje kolumn inuti it |
+| override [Type](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/type/) { get; set; } | Typ av omr-element. Obligatoriskt fält för JSON-serialisering. |
 
 ### Se även
 
-* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
-* namnutrymme [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../aspose.omr.generation.config.elements.customanswersheet)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig/)
+* namnutrymme [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../aspose.omr.generation.config.elements.customanswersheet/)
 * hopsättning [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

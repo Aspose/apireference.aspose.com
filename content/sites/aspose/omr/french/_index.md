@@ -11,7 +11,7 @@ url: /fr/
 
 {{% alert color="primary" %}} 
 
-![Logo du produit Aspose.OMR pour .NET](../home_1.png)
+![Logo du produit Aspose.OMR pour .NET](../logo_omr_net.svg)
 
 **Bienvenue dans Aspose.OMR pour .NET**
 
@@ -27,7 +27,7 @@ Voici des liens vers des ressources utiles :
 
 {{% alert color="primary" %}} 
 
-![Logo du produit Aspose.OMR pour Java](../home_2.png)
+![Logo du produit Aspose.OMR pour Java](../logo_omr_java.svg)
 
 **Bienvenue dans Aspose.OMR pour Java**
 
@@ -39,3 +39,19 @@ Voici des liens vers des ressources utiles :
 
 - [Référence de l'API Aspose.OMR pour Java](/omr/java/)
 
+
+## Aspose.OMR pour C++
+
+{{% alert color="primary" %}} 
+
+![Logo du produit Aspose.OMR pour C++](../logo_omr_cpp.svg)
+
+**Bienvenue dans Aspose.OMR pour C++**
+
+Aspose.OMR pour C++ est une API permettant de reconnaître les marques optiques à partir d'images de feuilles numérisées OMR. Il peut être utilisé pour reconnaître les marques optiques dans une variété de formats d'image tels que BMP, JPG, TIF, TIFF, GIF. L'API permet de capturer des données marquées par l'homme à partir de formulaires de documents tels que des enquêtes, des questionnaires, des épreuves à choix multiples et d'autres tests. Avec cette solution, il est possible de reconnaître des images numérisées et même des photos avec une grande précision. La reconnaissance est basée sur un balisage de modèle qui contient un mappage graphique des éléments à reconnaître à partir des images numérisées.
+
+{{% /alert %}} 
+
+Voici des liens vers des ressources utiles :
+
+- [Référence de l'API Aspose.OMR pour C++](/omr/cpp/)

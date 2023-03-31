@@ -1,9 +1,9 @@
 ---
-title: RecognitionResult
+title: Class RecognitionResult
 second_title: Référence de l'API Aspose.OMR pour .NET
-description: Le résultat de la reconnaissance dimage. Contient tous les éléments OMR avec des informations de reconnaissance détaillées et des méthodes dexportation des résultats.
+description: Aspose.OMR.Model.RecognitionResult classe. Le résultat de la reconnaissance dimage. Contient tous les éléments OMR avec des informations de reconnaissance détaillées et des méthodes dexportation des résultats.
 type: docs
-weight: 660
+weight: 800
 url: /fr/net/aspose.omr.model/recognitionresult/
 ---
 ## RecognitionResult class
@@ -18,29 +18,29 @@ public class RecognitionResult
 
 | Nom | La description |
 | --- | --- |
-| [ImagePath](../../aspose.omr.model/recognitionresult/imagepath) { get; set; } | Obtient ou définit le chemin vers l'image traitée |
-| [Images](../../aspose.omr.model/recognitionresult/images) { get; set; } | Obtient ou définit la liste des images en écriture |
-| [OmrElements](../../aspose.omr.model/recognitionresult/omrelements) { get; set; } | Obtient ou définit la liste des éléments OMR sur la page |
-| [PageName](../../aspose.omr.model/recognitionresult/pagename) { get; set; } | Récupère ou définit le nom de la page |
-| [TemplateName](../../aspose.omr.model/recognitionresult/templatename) { get; set; } | Obtient ou définit le modèle OMR |
+| [ImagePath](../../aspose.omr.model/recognitionresult/imagepath/) { get; set; } | Obtient ou définit le chemin vers l'image traitée |
+| [Images](../../aspose.omr.model/recognitionresult/images/) { get; set; } | Obtient ou définit la liste des images en écriture |
+| [OmrElements](../../aspose.omr.model/recognitionresult/omrelements/) { get; set; } | Obtient ou définit la liste des éléments OMR sur la page |
+| [PageName](../../aspose.omr.model/recognitionresult/pagename/) { get; set; } | Récupère ou définit le nom de la page |
+| [TemplateName](../../aspose.omr.model/recognitionresult/templatename/) { get; set; } | Obtient ou définit le modèle OMR |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv#getcsv_1)() | Former une chaîne CSV avec les résultats de la reconnaissance |
-| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv#getcsv)(Encoding) | Forme une chaîne CSV avec les résultats de reconnaissance sous forme de MemoryStream |
-| [GetCsvAsStream](../../aspose.omr.model/recognitionresult/getcsvasstream)(Encoding) | Forme une chaîne CSV avec les résultats de reconnaissance sous forme de MemoryStream |
-| [GetJson](../../aspose.omr.model/recognitionresult/getjson#getjson_1)() | Former une chaîne JSON avec les résultats de la reconnaissance |
-| [GetJson](../../aspose.omr.model/recognitionresult/getjson#getjson)(Encoding) | Formez une chaîne JSON avec des résultats de reconnaissance en tant que MemoryStream |
-| [GetJsonAsStream](../../aspose.omr.model/recognitionresult/getjsonasstream)(Encoding) | Formez une chaîne JSON avec des résultats de reconnaissance en tant que MemoryStream |
-| [GetXml](../../aspose.omr.model/recognitionresult/getxml#getxml_1)() | Chaîne XML du formulaire avec les résultats de la reconnaissance |
-| [GetXml](../../aspose.omr.model/recognitionresult/getxml#getxml)(Encoding) | Formez une chaîne XML avec les résultats de la reconnaissance en tant que MemoryStream |
-| [GetXmlAsStream](../../aspose.omr.model/recognitionresult/getxmlasstream)(Encoding) | Formez une chaîne XML avec les résultats de la reconnaissance en tant que MemoryStream |
+| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv/#getcsv_1)() | Former une chaîne CSV avec les résultats de la reconnaissance |
+| [GetCsv](../../aspose.omr.model/recognitionresult/getcsv/#getcsv)(Encoding) | Forme une chaîne CSV avec les résultats de reconnaissance sous forme de MemoryStream |
+| [GetCsvAsStream](../../aspose.omr.model/recognitionresult/getcsvasstream/)(Encoding) | Forme une chaîne CSV avec les résultats de reconnaissance sous forme de MemoryStream |
+| [GetJson](../../aspose.omr.model/recognitionresult/getjson/#getjson_1)() | Former une chaîne JSON avec les résultats de la reconnaissance |
+| [GetJson](../../aspose.omr.model/recognitionresult/getjson/#getjson)(Encoding) | Formez une chaîne JSON avec des résultats de reconnaissance en tant que MemoryStream |
+| [GetJsonAsStream](../../aspose.omr.model/recognitionresult/getjsonasstream/)(Encoding) | Formez une chaîne JSON avec des résultats de reconnaissance en tant que MemoryStream |
+| [GetXml](../../aspose.omr.model/recognitionresult/getxml/#getxml_1)() | Chaîne XML du formulaire avec les résultats de la reconnaissance |
+| [GetXml](../../aspose.omr.model/recognitionresult/getxml/#getxml)(Encoding) | Formez une chaîne XML avec les résultats de la reconnaissance en tant que MemoryStream |
+| [GetXmlAsStream](../../aspose.omr.model/recognitionresult/getxmlasstream/)(Encoding) | Formez une chaîne XML avec les résultats de la reconnaissance en tant que MemoryStream |
 
 ### Voir également
 
-* espace de noms [Aspose.OMR.Model](../../aspose.omr.model)
+* espace de noms [Aspose.OMR.Model](../../aspose.omr.model/)
 * Assemblée [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

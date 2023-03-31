@@ -1,7 +1,7 @@
 ---
-title: OmrEngine
+title: Class OmrEngine
 second_title: Aspose.OMR för .NET API-referens
-description: OMRmotorn. Hanterar skapandet av mall och bildbehandlingsklasser och GUIkomponenter.
+description: Aspose.OMR.Api.OmrEngine klass. OMRmotorn. Hanterar skapandet av mall och bildbehandlingsklasser och GUIkomponenter.
 type: docs
 weight: 20
 url: /sv/net/aspose.omr.api/omrengine/
@@ -18,25 +18,25 @@ public class OmrEngine
 
 | namn | Beskrivning |
 | --- | --- |
-| [OmrEngine](omrengine)() | Default_Constructor |
+| [OmrEngine](omrengine/)() | Default_Constructor |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate)(string, GlobalPageSettings) | Skapar en mall (.omr) och mallbild baserad på .json markup |
-| [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring)(string, GlobalPageSettings, ImageCollection) | Skapar en mall (.omr) och mallbild baserad på JSON-markup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_3)(string) | Skapar en mall (.omr) och mallbild baserat på textmarkup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_1)(MemoryStream, ImageCollection) | Skapar en mall (.omr) och mallbild baserad på MemoryStream |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_4)(string, GlobalPageSettings) | Skapar en mall (.omr) och mallbild baserat på textmarkup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_5)(string, string[]) | Skapar en mall (.omr) och mallbild baserat på textmarkup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_6)(string[], ImageCollection) | Skapar en mall (.omr) och mallbild baserat på en array av uppmärkningslinjerna |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection) | Skapar en mall (.omr) och mallbild baserad på MemoryStream |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | Skapar en mall (.omr) och mallbild baserat på en array av uppmärkningslinjerna |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Skapar en mall (.omr) och mallbild baserat på Template object |
-| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | Skapar[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) instans som tillåter arbete med OMR API med GUI. Takes[`TemplateProcessor`](../templateprocessor) som en parameter och fungerar endast med bilder skapade med specificerad template |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | Skapar[`TemplateProcessor`](../templateprocessor) instans som tillåter arbete med specificerad mall. |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | Skapar[`TemplateProcessor`](../templateprocessor) instans som tillåter arbete med specificerad mall. |
+| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate/)(string, GlobalPageSettings, Encoding) | Skapar en mall (.omr) och mallbild baserad på .json markup |
+| [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring/)(string, GlobalPageSettings, ImageCollection) | Skapar en mall (.omr) och mallbild baserad på JSON-markup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_5)(string, Encoding) | Skapar en mall (.omr) och mallbild baserat på textmarkup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_6)(string[], ImageCollection) | Skapar en mall (.omr) och mallbild baserat på en array av uppmärkningslinjerna |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_1)(MemoryStream, ImageCollection, Encoding) | Skapar en mall (.omr) och mallbild baserad på MemoryStream |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_3)(string, GlobalPageSettings, Encoding) | Skapar en mall (.omr) och mallbild baserat på textmarkup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_4)(string, string[], Encoding) | Skapar en mall (.omr) och mallbild baserat på textmarkup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | Skapar en mall (.omr) och mallbild baserat på en array av uppmärkningslinjerna |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Skapar en mall (.omr) och mallbild baserat på Template object |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) | Skapar en mall (.omr) och mallbild baserad på MemoryStream |
+| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol/)(TemplateProcessor) | Skapar[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol/) instans som tillåter arbete med OMR API med GUI. Takes[`TemplateProcessor`](../templateprocessor/) som en parameter och fungerar endast med bilder skapade med specificerad template |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor/#gettemplateprocessor_1)(string) | Skapar[`TemplateProcessor`](../templateprocessor/) instans som tillåter arbete med specificerad mall. |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor/#gettemplateprocessor)(MemoryStream, Encoding) | Skapar[`TemplateProcessor`](../templateprocessor/) instans som tillåter arbete med specificerad mall. |
 
 ### Exempel
 
@@ -65,7 +65,7 @@ if(result.ErrorCode == 0)
 
 ### Se även
 
-* namnutrymme [Aspose.OMR.Api](../../aspose.omr.api)
+* namnutrymme [Aspose.OMR.Api](../../aspose.omr.api/)
 * hopsättning [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

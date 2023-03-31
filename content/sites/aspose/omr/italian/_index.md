@@ -11,7 +11,7 @@ url: /it/
 
 {{% alert color="primary" %}} 
 
-![Aspose.OMR per il logo del prodotto .NET](../home_1.png)
+![Aspose.OMR per il logo del prodotto .NET](../logo_omr_net.svg)
 
 **Benvenuto in Aspose.OMR per .NET**
 
@@ -27,7 +27,7 @@ Questi sono i link ad alcune risorse utili:
 
 {{% alert color="primary" %}} 
 
-![Logo del prodotto Aspose.OMR per Java](../home_2.png)
+![Logo del prodotto Aspose.OMR per Java](../logo_omr_java.svg)
 
 **Benvenuto in Aspose.OMR per Java**
 
@@ -39,3 +39,19 @@ Questi sono i link ad alcune risorse utili:
 
 - [Riferimento all'API di Aspose.OMR per Java](/omr/java/)
 
+
+## Aspose.OMR per C++
+
+{{% alert color="primary" %}} 
+
+![Aspose.OMR per il logo del prodotto C++](../logo_omr_cpp.svg)
+
+**Benvenuto in Aspose.OMR per C++**
+
+Aspose.OMR per C++ è un'API per riconoscere i segni ottici dalle immagini dei fogli digitalizzati OMR. Può essere utilizzato per riconoscere i segni ottici in una varietà di formati immagine come BMP, JPG, TIF, TIFF, GIF. L'API consente di acquisire dati contrassegnati dall'uomo da moduli di documenti come sondaggi, questionari, documenti d'esame a scelta multipla e altri test. Con questa soluzione è possibile riconoscere le immagini scansionate e persino le foto con elevata precisione. Il riconoscimento si basa su un markup modello che contiene una mappatura grafica degli elementi da riconoscere dalle immagini scansionate.
+
+{{% /alert %}} 
+
+Questi sono i link ad alcune risorse utili:
+
+- [Aspose.OMR per riferimento all'API C++](/omr/cpp/)

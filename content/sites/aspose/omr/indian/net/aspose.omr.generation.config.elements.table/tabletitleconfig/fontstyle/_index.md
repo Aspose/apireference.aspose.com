@@ -1,0 +1,24 @@
+---
+title: TableTitleConfig.FontStyle
+second_title: .NET API संदर्भ के लिए Aspose.OMR
+description: TableTitleConfig मैदन. टेक्स्ट क शैल
+type: docs
+weight: 150
+url: /hi/net/aspose.omr.generation.config.elements.table/tabletitleconfig/fontstyle/
+---
+## TableTitleConfig.FontStyle field
+
+टेक्स्ट की शैली
+
+```csharp
+public FontStyle FontStyle;
+```
+
+### यह सभी देखें
+
+* enum [FontStyle](../../../aspose.omr.generation/fontstyle/)
+* class [TableTitleConfig](../)
+* नाम स्थान [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
+* सभा [Aspose.OMR](../../../)
+
+

@@ -1,18 +1,18 @@
 ---
-title: GenerateTemplate
+title: OmrEngine.GenerateTemplate
 second_title: Aspose.OMR för .NET API-referens
-description: Skapar en mall .omr och mallbild baserad på MemoryStream
+description: OmrEngine metod. Skapar en mall .omr och mallbild baserad på MemoryStream
 type: docs
 weight: 40
 url: /sv/net/aspose.omr.api/omrengine/generatetemplate/
 ---
-## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection) {#generatetemplate_2}
+## GenerateTemplate(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) {#generatetemplate_2}
 
 Skapar en mall (.omr) och mallbild baserad på MemoryStream
 
 ```csharp
 public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings settings, 
-    ImageCollection userImages = null)
+    ImageCollection userImages = null, Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beskrivning |
@@ -20,6 +20,7 @@ public GenerationResult GenerateTemplate(MemoryStream stream, GlobalPageSettings
 | stream | MemoryStream | Strömmen som innehåller markeringslinjer |
 | settings | GlobalPageSettings | De globala inställningarna som gäller för alla sidelement |
 | userImages | ImageCollection | Samling av bilder som kan användas för en mallgenerering. Tillåt att använda bilder från MemoryStream istället för filsystem |
+| encoding | Encoding | kodning av uppmärkningslinjer, som standard används UTF-8 |
 
 ### Returvärde
 
@@ -27,27 +28,29 @@ Generationsresultat
 
 ### Se även
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namnutrymme [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namnutrymme [Aspose.OMR.Api](../../omrengine/)
 * hopsättning [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(MemoryStream, ImageCollection) {#generatetemplate_1}
+## GenerateTemplate(MemoryStream, ImageCollection, Encoding) {#generatetemplate_1}
 
 Skapar en mall (.omr) och mallbild baserad på MemoryStream
 
 ```csharp
-public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection userImages = null)
+public GenerationResult GenerateTemplate(MemoryStream stream, ImageCollection userImages = null, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | stream | MemoryStream | Strömmen som innehåller markeringslinjer |
 | userImages | ImageCollection | Samling av bilder som kan användas för en mallgenerering. Tillåt att använda bilder från MemoryStream istället för filsystem |
+| encoding | Encoding | kodning av uppmärkningslinjer, som standard används UTF-8 |
 
 ### Returvärde
 
@@ -55,10 +58,10 @@ Generationsresultat
 
 ### Se även
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namnutrymme [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namnutrymme [Aspose.OMR.Api](../../omrengine/)
 * hopsättning [Aspose.OMR](../../../)
 
 ---
@@ -84,11 +87,11 @@ Generationsresultat
 
 ### Se även
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namnutrymme [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namnutrymme [Aspose.OMR.Api](../../omrengine/)
 * hopsättning [Aspose.OMR](../../../)
 
 ---
@@ -112,26 +115,28 @@ Generationsresultat
 
 ### Se även
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namnutrymme [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namnutrymme [Aspose.OMR.Api](../../omrengine/)
 * hopsättning [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(string, GlobalPageSettings) {#generatetemplate_4}
+## GenerateTemplate(string, GlobalPageSettings, Encoding) {#generatetemplate_3}
 
 Skapar en mall (.omr) och mallbild baserat på textmarkup
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings settings)
+public GenerationResult GenerateTemplate(string markupPath, GlobalPageSettings settings, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | markupPath | String | Sökväg till textmarkeringsfilen |
 | settings | GlobalPageSettings | De globala inställningarna som gäller för alla sidelement |
+| encoding | Encoding | kodning av markupfiler, som standard används UTF-8 |
 
 ### Returvärde
 
@@ -139,25 +144,26 @@ Generationsresultat
 
 ### Se även
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [OmrEngine](../../omrengine)
-* namnutrymme [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [OmrEngine](../)
+* namnutrymme [Aspose.OMR.Api](../../omrengine/)
 * hopsättning [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(string) {#generatetemplate_3}
+## GenerateTemplate(string, Encoding) {#generatetemplate_5}
 
 Skapar en mall (.omr) och mallbild baserat på textmarkup
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath)
+public GenerationResult GenerateTemplate(string markupPath, Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | markupPath | String | Sökväg till textmarkeringsfilen |
+| encoding | Encoding | kodning av markupfiler, som standard används UTF-8 |
 
 ### Returvärde
 
@@ -165,25 +171,27 @@ Generationsresultat
 
 ### Se även
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [OmrEngine](../../omrengine)
-* namnutrymme [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [OmrEngine](../)
+* namnutrymme [Aspose.OMR.Api](../../omrengine/)
 * hopsättning [Aspose.OMR](../../../)
 
 ---
 
-## GenerateTemplate(string, string[]) {#generatetemplate_5}
+## GenerateTemplate(string, string[], Encoding) {#generatetemplate_4}
 
 Skapar en mall (.omr) och mallbild baserat på textmarkup
 
 ```csharp
-public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths)
+public GenerationResult GenerateTemplate(string markupPath, string[] imagesPaths, 
+    Encoding encoding = null)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | markupPath | String | Sökväg till textmarkeringsfilen |
 | imagesPaths | String[] | Fullständiga vägar till bilderna som används i genereringen |
+| encoding | Encoding | kodning av markupfiler, som standard används UTF-8 |
 
 ### Returvärde
 
@@ -191,9 +199,9 @@ Generationsresultat
 
 ### Se även
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [OmrEngine](../../omrengine)
-* namnutrymme [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [OmrEngine](../)
+* namnutrymme [Aspose.OMR.Api](../../omrengine/)
 * hopsättning [Aspose.OMR](../../../)
 
 ---
@@ -219,12 +227,12 @@ Generationsresultat
 
 ### Se även
 
-* class [GenerationResult](../../../aspose.omr.generation/generationresult)
-* class [TemplateConfig](../../../aspose.omr.generation.config/templateconfig)
-* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings)
-* class [ImageCollection](../../imagecollection)
-* class [OmrEngine](../../omrengine)
-* namnutrymme [Aspose.OMR.Api](../../omrengine)
+* class [GenerationResult](../../../aspose.omr.generation/generationresult/)
+* class [TemplateConfig](../../../aspose.omr.generation.config/templateconfig/)
+* class [GlobalPageSettings](../../../aspose.omr.generation/globalpagesettings/)
+* class [ImageCollection](../../imagecollection/)
+* class [OmrEngine](../)
+* namnutrymme [Aspose.OMR.Api](../../omrengine/)
 * hopsättning [Aspose.OMR](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

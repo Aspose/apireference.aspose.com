@@ -1,7 +1,7 @@
 ---
-title: OmrEngine
+title: Class OmrEngine
 second_title: Aspose.OMR für .NET-API-Referenz
-description: Die OMREngine. Behandelt die Erstellung der Vorlagen und Bildverarbeitungsklassen und GUIKomponenten.
+description: Aspose.OMR.Api.OmrEngine klas. Die OMREngine. Behandelt die Erstellung der Vorlagen und Bildverarbeitungsklassen und GUIKomponenten.
 type: docs
 weight: 20
 url: /de/net/aspose.omr.api/omrengine/
@@ -18,25 +18,25 @@ public class OmrEngine
 
 | Name | Beschreibung |
 | --- | --- |
-| [OmrEngine](omrengine)() | Default_Constructor |
+| [OmrEngine](omrengine/)() | Default_Constructor |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate)(string, GlobalPageSettings) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf .json-Markup |
-| [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring)(string, GlobalPageSettings, ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf JSON-Markup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_3)(string) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Textmarkup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_1)(MemoryStream, ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf MemoryStream |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_4)(string, GlobalPageSettings) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Textmarkup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_5)(string, string[]) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Textmarkup |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_6)(string[], ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf einem Array der Markup-Zeilen |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf MemoryStream |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf einem Array der Markup-Zeilen |
-| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Vorlagenobjekt |
-| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol)(TemplateProcessor) | Erstellt die[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol) Instanz, die das Arbeiten mit der OMR-API mithilfe von GUI. Takes ermöglicht[`TemplateProcessor`](../templateprocessor) als Parameter und funktioniert nur mit Bildern, die mit dem angegebenen Template erstellt wurden |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor_1)(string) | Erstellt die[`TemplateProcessor`](../templateprocessor) Instanz, die das Arbeiten mit der angegebenen Vorlage ermöglicht. |
-| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor#gettemplateprocessor)(MemoryStream, Encoding) | Erstellt die[`TemplateProcessor`](../templateprocessor) Instanz, die das Arbeiten mit der angegebenen Vorlage ermöglicht. |
+| [GenerateJSONTemplate](../../aspose.omr.api/omrengine/generatejsontemplate/)(string, GlobalPageSettings, Encoding) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf .json-Markup |
+| [GenerateJSONTemplateFromString](../../aspose.omr.api/omrengine/generatejsontemplatefromstring/)(string, GlobalPageSettings, ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf JSON-Markup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_5)(string, Encoding) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Textmarkup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_6)(string[], ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf einem Array der Markup-Zeilen |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_1)(MemoryStream, ImageCollection, Encoding) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf MemoryStream |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_3)(string, GlobalPageSettings, Encoding) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Textmarkup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_4)(string, string[], Encoding) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Textmarkup |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_7)(string[], GlobalPageSettings, ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf einem Array der Markup-Zeilen |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate)(TemplateConfig, GlobalPageSettings, ImageCollection) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf Vorlagenobjekt |
+| [GenerateTemplate](../../aspose.omr.api/omrengine/generatetemplate/#generatetemplate_2)(MemoryStream, GlobalPageSettings, ImageCollection, Encoding) | Erstellt eine Vorlage (.omr) und ein Vorlagenbild basierend auf MemoryStream |
+| [GetCorrectionControl](../../aspose.omr.api/omrengine/getcorrectioncontrol/)(TemplateProcessor) | Erstellt die[`CorrectionControl`](../../aspose.omr.correctionui/correctioncontrol/) Instanz, die das Arbeiten mit der OMR-API mithilfe von GUI. Takes ermöglicht[`TemplateProcessor`](../templateprocessor/) als Parameter und funktioniert nur mit Bildern, die mit dem angegebenen Template erstellt wurden |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor/#gettemplateprocessor_1)(string) | Erstellt die[`TemplateProcessor`](../templateprocessor/) Instanz, die das Arbeiten mit der angegebenen Vorlage ermöglicht. |
+| [GetTemplateProcessor](../../aspose.omr.api/omrengine/gettemplateprocessor/#gettemplateprocessor)(MemoryStream, Encoding) | Erstellt die[`TemplateProcessor`](../templateprocessor/) Instanz, die das Arbeiten mit der angegebenen Vorlage ermöglicht. |
 
 ### Beispiele
 
@@ -65,7 +65,7 @@ if(result.ErrorCode == 0)
 
 ### Siehe auch
 
-* namensraum [Aspose.OMR.Api](../../aspose.omr.api)
+* namensraum [Aspose.OMR.Api](../../aspose.omr.api/)
 * Montage [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

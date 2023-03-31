@@ -1,9 +1,9 @@
 ---
-title: CompositeGridConfig
+title: Class CompositeGridConfig
 second_title: Referencia de API de Aspose.OMR para .NET
-description: Grid element. Produce una matriz de burbujas. Cada burbuja llena representa un símbolo en el valor compuesto Todos los símbolos marcados se concatenarán en un solo valor
+description: Aspose.OMR.Generation.Config.Elements.CompositeGridConfig clase. Grid element. Produce una matriz de burbujas. Cada burbuja llena representa un símbolo en el valor compuesto Todos los símbolos marcados se concatenarán en un solo valor
 type: docs
-weight: 110
+weight: 120
 url: /es/net/aspose.omr.generation.config.elements/compositegridconfig/
 ---
 ## CompositeGridConfig class
@@ -18,39 +18,40 @@ public class CompositeGridConfig : BaseConfig
 
 | Nombre | Descripción |
 | --- | --- |
-| [CompositeGridConfig](compositegridconfig)() | Constructor predeterminado |
+| [CompositeGridConfig](compositegridconfig/)() | Constructor predeterminado |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BubbleType](../../aspose.omr.generation.config.elements/compositegridconfig/bubbletype) { get; set; } | El tipo de burbuja |
-| [Column](../../aspose.omr.generation.config.elements/compositegridconfig/column) { get; set; } | Cuando el elemento se dibuja en un padre de varias columnas, represente la posición. |
-| [ColumnsCount](../../aspose.omr.generation.config.elements/compositegridconfig/columnscount) { get; set; } | Cantidad de columnas dentro de la grilla. Cada columna representa un solo símbolo en el resultado value La cantidad debe ser igual a[`ExtraRow`](./extrarow) cantidad de columnas |
-| [ExtraRow](../../aspose.omr.generation.config.elements/compositegridconfig/extrarow) { get; set; } | Valores específicos de columna que se colocarán encima de los predeterminados -[`Values`](./values). Presentado como matriz bidimensional. Primera fila. Segunda columna. Cada cadena representa texto dentro de la burbuja. si la cadena es nula, no se colocará ninguna burbuja. La cantidad de columnas debe ser igual a[`ColumnsCount`](./columnscount) |
-| [GridAlignment](../../aspose.omr.generation.config.elements/compositegridconfig/gridalignment) { get; set; } | Alineación de cuadrícula, indica dónde se debe dibujar la cuadrícula en la página |
-| [GridOrientation](../../aspose.omr.generation.config.elements/compositegridconfig/gridorientation) { get; set; } | Orientación de cuadrícula: horizontal o vertical. Indica cómo deben colocarse los elementos secundarios |
-| [HeaderBorderColor](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordercolor) { get; set; } | Color del borde cuadrado |
-| [HeaderBorderSize](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordersize) { get; set; } | Tamaño del borde cuadrado |
-| [HeaderType](../../aspose.omr.generation.config.elements/compositegridconfig/headertype) { get; set; } | Indica qué tipo de elemento dibujar al inicio de la grilla |
-| override [Name](../../aspose.omr.generation.config.elements/compositegridconfig/name) { get; set; } | Nombre de la grilla. Usado como identificador en el reconocimiento |
-| [RotationAngle](../../aspose.omr.generation.config.elements/compositegridconfig/rotationangle) { get; set; } | Describe la rotación del elemento Grid alrededor de su propio eje. "90": gira CompositeGrid 90 grados "-90": gira ComopositeGrid a -90 grados |
-| override [Type](../../aspose.omr.generation.config.elements/compositegridconfig/type) { get; set; } | Tipo de elemento omr. Campo obligatorio para serialización JSON. |
-| [Values](../../aspose.omr.generation.config.elements/compositegridconfig/values) { get; set; } | Colección de cadenas que describirán posibles símbolos en cada columna. Los valores específicos de columna se colocan en[`ExtraRow`](./extrarow) |
-| [XPosition](../../aspose.omr.generation.config.elements/compositegridconfig/xposition) { get; set; } | Posición de cuadrícula X en la página, anula la alineación |
-| [YPosition](../../aspose.omr.generation.config.elements/compositegridconfig/yposition) { get; set; } | Posición de cuadrícula Y en la página, anula la alineación |
+| [BubbleType](../../aspose.omr.generation.config.elements/compositegridconfig/bubbletype/) { get; set; } | El tipo de burbuja |
+| [Column](../../aspose.omr.generation.config.elements/compositegridconfig/column/) { get; set; } | Cuando el elemento se dibuja en un padre de varias columnas, represente la posición. |
+| [ColumnsCount](../../aspose.omr.generation.config.elements/compositegridconfig/columnscount/) { get; set; } | Cantidad de columnas dentro de la grilla. Cada columna representa un solo símbolo en el resultado value La cantidad debe ser igual a[`ExtraRow`](./extrarow/) cantidad de columnas |
+| [DisplayHint](../../aspose.omr.generation.config.elements/compositegridconfig/displayhint/) { get; set; } | Debería mostrarse el nombre de esta cuadrícula |
+| [ExtraRow](../../aspose.omr.generation.config.elements/compositegridconfig/extrarow/) { get; set; } | Valores específicos de columna que se colocarán encima de los predeterminados -[`Values`](./values/) . Presentado como matriz bidimensional. Primera fila. Segunda columna. Cada cadena representa texto dentro de la burbuja. si la cadena es nula, no se colocará ninguna burbuja. La cantidad de columnas debe ser igual a[`ColumnsCount`](./columnscount/) |
+| [GridAlignment](../../aspose.omr.generation.config.elements/compositegridconfig/gridalignment/) { get; set; } | Alineación de cuadrícula, indica dónde se debe dibujar la cuadrícula en la página |
+| [GridOrientation](../../aspose.omr.generation.config.elements/compositegridconfig/gridorientation/) { get; set; } | Orientación de cuadrícula: horizontal o vertical. Indica cómo deben colocarse los elementos secundarios |
+| [HeaderBorderColor](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordercolor/) { get; set; } | Color del borde cuadrado |
+| [HeaderBorderSize](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordersize/) { get; set; } | Tamaño del borde cuadrado |
+| [HeaderType](../../aspose.omr.generation.config.elements/compositegridconfig/headertype/) { get; set; } | Indica qué tipo de elemento dibujar al inicio de la grilla |
+| override [Name](../../aspose.omr.generation.config.elements/compositegridconfig/name/) { get; set; } | Nombre de la grilla. Usado como identificador en el reconocimiento |
+| [RotationAngle](../../aspose.omr.generation.config.elements/compositegridconfig/rotationangle/) { get; set; } | Describe la rotación del elemento Grid alrededor de su propio eje. "90": gira CompositeGrid 90 grados "-90": gira ComopositeGrid a -90 grados |
+| override [Type](../../aspose.omr.generation.config.elements/compositegridconfig/type/) { get; set; } | Tipo de elemento omr. Campo obligatorio para serialización JSON. |
+| [Values](../../aspose.omr.generation.config.elements/compositegridconfig/values/) { get; set; } | Colección de cadenas que describirán posibles símbolos en cada columna. Los valores específicos de columna se colocan en[`ExtraRow`](./extrarow/) |
+| [XPosition](../../aspose.omr.generation.config.elements/compositegridconfig/xposition/) { get; set; } | Posición de cuadrícula X en la página, anula la alineación |
+| [YPosition](../../aspose.omr.generation.config.elements/compositegridconfig/yposition/) { get; set; } | Posición de cuadrícula Y en la página, anula la alineación |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements/compositegridconfig/bubblesize) | El tamaño de una burbuja |
-| [VerticalMargin](../../aspose.omr.generation.config.elements/compositegridconfig/verticalmargin) | El margen entre líneas |
+| [BubbleSize](../../aspose.omr.generation.config.elements/compositegridconfig/bubblesize/) | El tamaño de una burbuja |
+| [VerticalMargin](../../aspose.omr.generation.config.elements/compositegridconfig/verticalmargin/) | El margen entre líneas |
 
 ### Ver también
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
-* espacio de nombres [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
+* espacio de nombres [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements/)
 * asamblea [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: AnswerSheetConfig
+title: Class AnswerSheetConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Представляет элемент AnswerSheet. Позволяет добавлять поля выбора сгруппированные в столбцы и строки. Используйте лист ответов если вы хотите разместить на странице много вопросов поскольку они расположены близко друг к другу.
+description: Aspose.OMR.Generation.Config.Elements.AnswerSheetConfig сорт. Представляет элемент AnswerSheet. Позволяет добавлять поля выбора сгруппированные в столбцы и строки. Используйте лист ответов если вы хотите разместить на странице много вопросов поскольку они расположены близко друг к другу.
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.omr.generation.config.elements/answersheetconfig/
 ---
 ## AnswerSheetConfig class
@@ -18,33 +18,33 @@ public class AnswerSheetConfig : BaseConfig
 
 | Имя | Описание |
 | --- | --- |
-| [AnswerSheetConfig](answersheetconfig)() | Конструктор по умолчанию. |
+| [AnswerSheetConfig](answersheetconfig/)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AnswersCount](../../aspose.omr.generation.config.elements/answersheetconfig/answerscount) { get; set; } | Количество вариантов ответа на каждый вопрос в листе ответов. |
-| [AnswersValues](../../aspose.omr.generation.config.elements/answersheetconfig/answersvalues) { get; set; } | Каждое значение представляет собой символ внутри пузырька. Должен иметь тот же счет, что и[`AnswersCount`](./answerscount) Пример: новая строка[] {"A", "B", "C", "D"} Пример: новая строка[] {"1", "2", "3", "4"} |
-| [BubbleType](../../aspose.omr.generation.config.elements/answersheetconfig/bubbletype) { get; set; } | Тип пузыря |
-| [Column](../../aspose.omr.generation.config.elements/answersheetconfig/column) { get; set; } | Указывает, в каком столбце рисовать sheet |
-| [ColumnsCount](../../aspose.omr.generation.config.elements/answersheetconfig/columnscount) { get; set; } | Устанавливает количество отображаемых столбцов. |
-| [ElementsCount](../../aspose.omr.generation.config.elements/answersheetconfig/elementscount) { get; set; } | Определяет общее количество вопросов в листе ответов. |
-| override [Name](../../aspose.omr.generation.config.elements/answersheetconfig/name) { get; set; } | Название листа ответов |
-| [StartId](../../aspose.omr.generation.config.elements/answersheetconfig/startid) { get; set; } | Начальный индекс нумерации вопросов |
-| override [Type](../../aspose.omr.generation.config.elements/answersheetconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
-| [VerticalMargin](../../aspose.omr.generation.config.elements/answersheetconfig/verticalmargin) { get; set; } | Вертикальное поле листа ответов. Установить в пикселях. |
+| [AnswersCount](../../aspose.omr.generation.config.elements/answersheetconfig/answerscount/) { get; set; } | Количество вариантов ответа на каждый вопрос в листе ответов. |
+| [AnswersValues](../../aspose.omr.generation.config.elements/answersheetconfig/answersvalues/) { get; set; } | Каждое значение представляет собой символ внутри пузырька. Должен иметь тот же счет, что и[`AnswersCount`](./answerscount/) Пример: новая строка[] {"A", "B", "C", "D"} Пример: новая строка[] {"1", "2", "3", "4"} |
+| [BubbleType](../../aspose.omr.generation.config.elements/answersheetconfig/bubbletype/) { get; set; } | Тип пузыря |
+| [Column](../../aspose.omr.generation.config.elements/answersheetconfig/column/) { get; set; } | Указывает, в каком столбце рисовать sheet |
+| [ColumnsCount](../../aspose.omr.generation.config.elements/answersheetconfig/columnscount/) { get; set; } | Устанавливает количество отображаемых столбцов. |
+| [ElementsCount](../../aspose.omr.generation.config.elements/answersheetconfig/elementscount/) { get; set; } | Определяет общее количество вопросов в листе ответов. |
+| override [Name](../../aspose.omr.generation.config.elements/answersheetconfig/name/) { get; set; } | Название листа ответов |
+| [StartId](../../aspose.omr.generation.config.elements/answersheetconfig/startid/) { get; set; } | Начальный индекс нумерации вопросов |
+| override [Type](../../aspose.omr.generation.config.elements/answersheetconfig/type/) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
+| [VerticalMargin](../../aspose.omr.generation.config.elements/answersheetconfig/verticalmargin/) { get; set; } | Вертикальное поле листа ответов. Установить в пикселях. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements/answersheetconfig/bubblesize) | Размер пузыря |
+| [BubbleSize](../../aspose.omr.generation.config.elements/answersheetconfig/bubblesize/) | Размер пузыря |
 
 ### Смотрите также
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
-* пространство имен [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
+* пространство имен [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements/)
 * сборка [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

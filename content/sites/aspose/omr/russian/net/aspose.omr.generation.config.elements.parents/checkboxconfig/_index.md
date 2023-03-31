@@ -1,9 +1,9 @@
 ---
-title: CheckBoxConfig
+title: Class CheckBoxConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Представляет элемент CheckBox.
+description: Aspose.OMR.Generation.Config.Elements.Parents.CheckBoxConfig сорт. Представляет элемент CheckBox.
 type: docs
-weight: 230
+weight: 240
 url: /ru/net/aspose.omr.generation.config.elements.parents/checkboxconfig/
 ---
 ## CheckBoxConfig class
@@ -18,28 +18,28 @@ public class CheckBoxConfig : ParentConfig
 
 | Имя | Описание |
 | --- | --- |
-| [CheckBoxConfig](checkboxconfig)() | Конструктор по умолчанию. |
+| [CheckBoxConfig](checkboxconfig/)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize) { get; set; } | Размер прямоугольника для каждого варианта (дети) |
-| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype) { get; set; } | Тип пузыря |
-| override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children) { get; set; } | Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже. |
-| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily) { get; set; } | Семейство шрифтов text |
-| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize) { get; set; } | Размер текста font |
-| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle) { get; set; } | Стиль текста |
-| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename) { get; set; } | Управление отображением имени CheckBox в template |
-| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name) { get; set; } | имя флажка. по умолчанию отображается перед первым флажком. Может быть скрыто[`HideName`](./hidename) |
-| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation) { get; set; } | Управление положением дочерних элементов. В настоящее время поддерживается только горизонтальное положение. |
-| [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold) { get; set; } | Пользовательский маркер распознавания. По умолчанию установлен на 3%. Флажок будет считаться отмеченным, если заполнено 3% его области. Можно настроить на любой другой порог. Не влияет на глобальный порог |
-| override [Type](../../aspose.omr.generation.config.elements.parents/checkboxconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
+| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize/) { get; set; } | Размер прямоугольника для каждого варианта (дети) |
+| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype/) { get; set; } | Тип пузыря |
+| override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children/) { get; set; } | Дочерние элементы omr. В большинстве случаев располагается внутри родителя или ниже. |
+| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily/) { get; set; } | Семейство шрифтов text |
+| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize/) { get; set; } | Размер текста font |
+| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle/) { get; set; } | Стиль текста |
+| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename/) { get; set; } | Управление отображением имени CheckBox в template |
+| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name/) { get; set; } | имя флажка. по умолчанию отображается перед первым флажком. Может быть скрыто[`HideName`](./hidename/) |
+| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation/) { get; set; } | Управление положением дочерних элементов. В настоящее время поддерживается только горизонтальное положение. |
+| [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold/) { get; set; } | Пользовательский маркер распознавания. По умолчанию установлен на 3%. Флажок будет считаться отмеченным, если заполнено 3% его области. Можно настроить на любой другой порог. Не влияет на глобальный порог |
+| override [Type](../../aspose.omr.generation.config.elements.parents/checkboxconfig/type/) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
 
 ### Смотрите также
 
-* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
-* пространство имен [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig/)
+* пространство имен [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents/)
 * сборка [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: CompositeGridConfig
+title: Class CompositeGridConfig
 second_title: Справочник по Aspose.OMR для .NET API
-description: Элемент сетки. Создать массив пузырьков. Каждый заполненный пузырь представляет собой один символ в составном значении . Все отмеченные символы будут объединены в одно значение .
+description: Aspose.OMR.Generation.Config.Elements.CompositeGridConfig сорт. Элемент сетки. Создать массив пузырьков. Каждый заполненный пузырь представляет собой один символ в составном значении . Все отмеченные символы будут объединены в одно значение .
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.omr.generation.config.elements/compositegridconfig/
 ---
 ## CompositeGridConfig class
@@ -18,39 +18,40 @@ public class CompositeGridConfig : BaseConfig
 
 | Имя | Описание |
 | --- | --- |
-| [CompositeGridConfig](compositegridconfig)() | Конструктор по умолчанию. |
+| [CompositeGridConfig](compositegridconfig/)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BubbleType](../../aspose.omr.generation.config.elements/compositegridconfig/bubbletype) { get; set; } | Тип пузыря |
-| [Column](../../aspose.omr.generation.config.elements/compositegridconfig/column) { get; set; } | Когда элемент рисуется в многостолбцовом родительском элементе - представляет позицию. |
-| [ColumnsCount](../../aspose.omr.generation.config.elements/compositegridconfig/columnscount) { get; set; } | Количество столбцов внутри сетки. Каждый столбец представляет один символ в результате value Сумма должна быть равна[`ExtraRow`](./extrarow) количество столбцов |
-| [ExtraRow](../../aspose.omr.generation.config.elements/compositegridconfig/extrarow) { get; set; } | Значения для конкретных столбцов, которые будут помещены поверх значений по умолчанию -[`Values`](./values). Представлено в виде двумерного массива. Первая - строка. Второй - столбец. Каждая строка представляет собой текст внутри пузырька. если строка равна нулю, пузырь не будет размещен. Количество столбцов должно быть равно[`ColumnsCount`](./columnscount) |
-| [GridAlignment](../../aspose.omr.generation.config.elements/compositegridconfig/gridalignment) { get; set; } | Выравнивание сетки, указывает, где на странице должна быть нарисована сетка |
-| [GridOrientation](../../aspose.omr.generation.config.elements/compositegridconfig/gridorientation) { get; set; } | Ориентация сетки: горизонтальная или вертикальная. Указывает, как должны располагаться дочерние элементы |
-| [HeaderBorderColor](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordercolor) { get; set; } | Цвет рамки квадрата |
-| [HeaderBorderSize](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordersize) { get; set; } | Размер квадратной границы |
-| [HeaderType](../../aspose.omr.generation.config.elements/compositegridconfig/headertype) { get; set; } | Указывает, какой тип элемента рисовать в начале grid |
-| override [Name](../../aspose.omr.generation.config.elements/compositegridconfig/name) { get; set; } | Имя сетки. Используется как идентификатор в распознавании |
-| [RotationAngle](../../aspose.omr.generation.config.elements/compositegridconfig/rotationangle) { get; set; } | Описать вращение элемента Grid вокруг собственной оси. "90" - повернуть CompositeGrid на 90 градусов "-90" - повернуть CompositeGrid на -90 градусов |
-| override [Type](../../aspose.omr.generation.config.elements/compositegridconfig/type) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
-| [Values](../../aspose.omr.generation.config.elements/compositegridconfig/values) { get; set; } | Набор строк, описывающих возможные символы в каждом столбце. Значения, специфичные для столбца, помещаются в[`ExtraRow`](./extrarow) |
-| [XPosition](../../aspose.omr.generation.config.elements/compositegridconfig/xposition) { get; set; } | Позиция сетки X на странице, переопределяет выравнивание |
-| [YPosition](../../aspose.omr.generation.config.elements/compositegridconfig/yposition) { get; set; } | Положение сетки Y на странице, переопределяет выравнивание |
+| [BubbleType](../../aspose.omr.generation.config.elements/compositegridconfig/bubbletype/) { get; set; } | Тип пузыря |
+| [Column](../../aspose.omr.generation.config.elements/compositegridconfig/column/) { get; set; } | Когда элемент рисуется в многостолбцовом родительском элементе - представляет позицию. |
+| [ColumnsCount](../../aspose.omr.generation.config.elements/compositegridconfig/columnscount/) { get; set; } | Количество столбцов внутри сетки. Каждый столбец представляет один символ в результате value Сумма должна быть равна[`ExtraRow`](./extrarow/) количество столбцов |
+| [DisplayHint](../../aspose.omr.generation.config.elements/compositegridconfig/displayhint/) { get; set; } | Должно ли отображаться имя этой сетки |
+| [ExtraRow](../../aspose.omr.generation.config.elements/compositegridconfig/extrarow/) { get; set; } | Значения для конкретных столбцов, которые будут помещены поверх значений по умолчанию -[`Values`](./values/) . Представлено в виде двумерного массива. Первая - строка. Второй - столбец. Каждая строка представляет собой текст внутри пузырька. если строка равна нулю, пузырь не будет размещен. Количество столбцов должно быть равно[`ColumnsCount`](./columnscount/) |
+| [GridAlignment](../../aspose.omr.generation.config.elements/compositegridconfig/gridalignment/) { get; set; } | Выравнивание сетки, указывает, где на странице должна быть нарисована сетка |
+| [GridOrientation](../../aspose.omr.generation.config.elements/compositegridconfig/gridorientation/) { get; set; } | Ориентация сетки: горизонтальная или вертикальная. Указывает, как должны располагаться дочерние элементы |
+| [HeaderBorderColor](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordercolor/) { get; set; } | Цвет рамки квадрата |
+| [HeaderBorderSize](../../aspose.omr.generation.config.elements/compositegridconfig/headerbordersize/) { get; set; } | Размер квадратной границы |
+| [HeaderType](../../aspose.omr.generation.config.elements/compositegridconfig/headertype/) { get; set; } | Указывает, какой тип элемента рисовать в начале grid |
+| override [Name](../../aspose.omr.generation.config.elements/compositegridconfig/name/) { get; set; } | Имя сетки. Используется как идентификатор в распознавании |
+| [RotationAngle](../../aspose.omr.generation.config.elements/compositegridconfig/rotationangle/) { get; set; } | Описать вращение элемента Grid вокруг собственной оси. "90" - повернуть CompositeGrid на 90 градусов "-90" - повернуть CompositeGrid на -90 градусов |
+| override [Type](../../aspose.omr.generation.config.elements/compositegridconfig/type/) { get; set; } | Тип элемента omr. Обязательное поле для сериализации JSON. |
+| [Values](../../aspose.omr.generation.config.elements/compositegridconfig/values/) { get; set; } | Набор строк, описывающих возможные символы в каждом столбце. Значения, специфичные для столбца, помещаются в[`ExtraRow`](./extrarow/) |
+| [XPosition](../../aspose.omr.generation.config.elements/compositegridconfig/xposition/) { get; set; } | Позиция сетки X на странице, переопределяет выравнивание |
+| [YPosition](../../aspose.omr.generation.config.elements/compositegridconfig/yposition/) { get; set; } | Положение сетки Y на странице, переопределяет выравнивание |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements/compositegridconfig/bubblesize) | Размер пузыря |
-| [VerticalMargin](../../aspose.omr.generation.config.elements/compositegridconfig/verticalmargin) | Поле между строками |
+| [BubbleSize](../../aspose.omr.generation.config.elements/compositegridconfig/bubblesize/) | Размер пузыря |
+| [VerticalMargin](../../aspose.omr.generation.config.elements/compositegridconfig/verticalmargin/) | Поле между строками |
 
 ### Смотрите также
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
-* пространство имен [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
+* пространство имен [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements/)
 * сборка [Aspose.OMR](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.OMR.dll -->
+
