@@ -1,14 +1,14 @@
 ---
-title: XpsGlyphs
+title: Class XpsGlyphs
 second_title: Aspose.Page لمرجع NET API
-description: فئة تتضمن ميزات عنصر Glyphs. يمثل هذا العنصر تشغيلًا لنص منسق بشكل موحد من خط واحد. وهو يوفر المعلومات اللازمة لعرض دقيق ويدعم search وميزات التحديد في عرض المستهلكين.
+description: Aspose.Page.XPS.XpsModel.XpsGlyphs فصل. فئة تتضمن ميزات عنصر Glyphs. يمثل هذا العنصر تشغيلًا لنص منسق بشكل موحد من خط واحد. يوفر المعلومات اللازمة لتقديم دقيق ويدعم search وميزات التحديد في عرض المستهلكين.
 type: docs
-weight: 3030
+weight: 3090
 url: /ar/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class
 
-فئة تتضمن ميزات عنصر Glyphs. يمثل هذا العنصر تشغيلًا لنص منسق بشكل موحد من خط واحد. وهو يوفر المعلومات اللازمة لعرض دقيق ويدعم search وميزات التحديد في عرض المستهلكين.
+فئة تتضمن ميزات عنصر Glyphs. يمثل هذا العنصر تشغيلًا لنص منسق بشكل موحد من خط واحد. يوفر المعلومات اللازمة لتقديم دقيق ويدعم search وميزات التحديد في عرض المستهلكين.
 
 ```csharp
 public sealed class XpsGlyphs : XpsContentElement
@@ -18,34 +18,34 @@ public sealed class XpsGlyphs : XpsContentElement
 
 | اسم | وصف |
 | --- | --- |
-| [BidiLevel](../../aspose.page.xps.xpsmodel/xpsglyphs/bidilevel) { get; set; } | إرجاع / تعيين القيمة التي تحدد مستوى التداخل ثنائي الاتجاه لخوارزمية Unicode . القيم الزوجية تتضمن تخطيطًا من اليسار إلى اليمين ، والقيم الفردية تعني تخطيطًا من اليمين إلى اليسار . يضع التخطيط من اليمين إلى اليسار أصل التشغيل في الجانب الأيمن من الحرف الرسومي الأول ، مع عرض تقدم موجب (يمثل تقدمًا إلى اليسار) وضع الحروف الرسومية اللاحقة على يسار الصورة الرمزية السابقة. |
-| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | إرجاع / تعيين مثيل هندسة المسار الذي يحد من المنطقة المعروضة للعنصر. |
-| [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | إرجاع عدد العناصر الفرعية . |
-| [Fill](../../aspose.page.xps.xpsmodel/xpsglyphs/fill) { get; set; } | إرجاع / تعيين الفرشاة المستخدمة لملء شكل الصورة الرمزية المعروضة. |
-| [Font](../../aspose.page.xps.xpsmodel/xpsglyphs/font) { get; } | إرجاع مورد الخط لخط TrueType المستخدم في كتابة نص العناصر. |
-| [FontRenderingEmSize](../../aspose.page.xps.xpsmodel/xpsglyphs/fontrenderingemsize) { get; set; } | إرجاع / تعيين حجم الخط في وحدات سطح الرسم ، معبرًا عنه بـ float في وحدات مساحة الإحداثيات الفعالة. |
-| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | إرجاع / تعيين كائن هدف الارتباط التشعبي. |
-| [IsSideways](../../aspose.page.xps.xpsmodel/xpsglyphs/issideways) { get; set; } | إرجاع / تعيين القيمة التي تشير إلى أن الحرف الرسومي قد تم تشغيله من جانبه ، مع تحديد الأصل على أنه المركز العلوي للحرف الرسومي غير المقلوب. |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | يوفر الوصول إلى العناصر الفرعية عن طريق الفهرس*i* . |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | إرجاع / تعيين القيمة التي تحدد الشفافية الموحدة للعنصر. |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | إرجاع / تعيين الفرشاة التي تحدد قناعًا لقيم ألفا يتم تطبيقه على العنصر بنفس طريقة سمة التعتيم ، مع السماح بقيم ألفا مختلفة لمناطق مختلفة من العنصر. |
-| [OriginX](../../aspose.page.xps.xpsmodel/xpsglyphs/originx) { get; set; } | إرجاع / تعيين إحداثيات x لأول حرف رسومي في التشغيل ، بوحدات مساحة الإحداثيات الفعالة. |
-| [OriginY](../../aspose.page.xps.xpsmodel/xpsglyphs/originy) { get; set; } | إرجاع / تعيين إحداثي y لأول حرف رسومي في التشغيل ، بوحدات مساحة الإحداثيات الفعالة. |
-| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | إرجاع / تعيين مصفوفة التحويل التابعة لإنشاء إطار إحداثي جديد لجميع سمات العنصر ولجميع العناصر الفرعية (إن وجدت) . |
-| [StyleSimulations](../../aspose.page.xps.xpsmodel/xpsglyphs/stylesimulations) { get; set; } | إرجاع / تعيين القيمة التي تحدد محاكاة النمط. |
-| [UnicodeString](../../aspose.page.xps.xpsmodel/xpsglyphs/unicodestring) { get; set; } | إرجاع / تعيين سلسلة النص المقدمة بواسطة عنصر Glyphs. يتم تحديد النص كنقاط رمز Unicode. |
+| [BidiLevel](../../aspose.page.xps.xpsmodel/xpsglyphs/bidilevel/) { get; set; } | إرجاع / تعيين القيمة التي تحدد مستوى التداخل ثنائي الاتجاه لخوارزمية Unicode . القيم الزوجية تتضمن تخطيطًا من اليسار إلى اليمين ، والقيم الفردية تعني تخطيطًا من اليمين إلى اليسار . يضع التخطيط من اليمين إلى اليسار أصل التشغيل في الجانب الأيمن من الحرف الرسومي الأول ، مع عرض تقدم موجب (يمثل تقدمًا إلى اليسار) وضع الحروف الرسومية اللاحقة على يسار الصورة الرمزية السابقة. |
+| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip/) { get; set; } | إرجاع / تعيين مثيل هندسة المسار الذي يحد من المنطقة المقدمة للعنصر. |
+| [Count](../../aspose.page.xps.xpsmodel/xpselement/count/) { get; } | إرجاع عدد العناصر الفرعية . |
+| [Fill](../../aspose.page.xps.xpsmodel/xpsglyphs/fill/) { get; set; } | إرجاع / تعيين الفرشاة المستخدمة لملء شكل الصورة الرمزية المعروضة. |
+| [Font](../../aspose.page.xps.xpsmodel/xpsglyphs/font/) { get; } | إرجاع مورد الخط لخط TrueType المستخدم في كتابة نص العناصر. |
+| [FontRenderingEmSize](../../aspose.page.xps.xpsmodel/xpsglyphs/fontrenderingemsize/) { get; set; } | إرجاع / تعيين حجم الخط في وحدات سطح الرسم ، معبرًا عنه بـ float في وحدات مساحة الإحداثيات الفعالة. |
+| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget/) { get; set; } | إرجاع / تعيين كائن هدف الارتباط التشعبي. |
+| [IsSideways](../../aspose.page.xps.xpsmodel/xpsglyphs/issideways/) { get; set; } | إرجاع / تعيين القيمة التي تشير إلى أن الصورة الرمزية قد انقلبت على جانبها ، مع تحديد الأصل على أنه المركز العلوي للحرف الرسومي غير المقلوب. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item/) { get; } | يوفر الوصول إلى العناصر الفرعية عن طريق الفهرس*i* . |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity/) { get; set; } | إرجاع / تعيين القيمة التي تحدد الشفافية الموحدة للعنصر. |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask/) { get; set; } | إرجاع / تعيين الفرشاة التي تحدد قناعًا لقيم ألفا يتم تطبيقه على العنصر بنفس طريقة سمة التعتيم ، مع السماح بقيم ألفا مختلفة لمناطق مختلفة من العنصر. |
+| [OriginX](../../aspose.page.xps.xpsmodel/xpsglyphs/originx/) { get; set; } | إرجاع / تعيين إحداثيات x لأول حرف رسومي في التشغيل ، بوحدات مساحة الإحداثيات الفعالة. |
+| [OriginY](../../aspose.page.xps.xpsmodel/xpsglyphs/originy/) { get; set; } | إرجاع / تعيين إحداثي y لأول حرف رسومي في التشغيل ، بوحدات مساحة الإحداثيات الفعالة. |
+| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform/) { get; set; } | إرجاع / تعيين مصفوفة التحويل المرتبطة بإنشاء إطار إحداثي جديد لجميع سمات العنصر ولجميع العناصر الفرعية (إن وجدت) . |
+| [StyleSimulations](../../aspose.page.xps.xpsmodel/xpsglyphs/stylesimulations/) { get; set; } | إرجاع / تعيين القيمة التي تحدد محاكاة النمط. |
+| [UnicodeString](../../aspose.page.xps.xpsmodel/xpsglyphs/unicodestring/) { get; set; } | إرجاع / تعيين سلسلة النص المقدمة بواسطة عنصر Glyphs. يتم تحديد النص كنقاط رمز Unicode. |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| [Clone](../../aspose.page.xps.xpsmodel/xpsglyphs/clone)() | استنساخ هذه الصورة الرمزية . |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | تنفيذIEnumerable الواجهة . |
+| [Clone](../../aspose.page.xps.xpsmodel/xpsglyphs/clone/)() | استنساخ هذه الصورة الرمزية . |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator/)() | تنفيذIEnumerable الواجهة . |
 
 ### أنظر أيضا
 
-* class [XpsContentElement](../xpscontentelement)
-* مساحة الاسم [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel)
+* class [XpsContentElement](../xpscontentelement/)
+* مساحة الاسم [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel/)
 * المجسم [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+
