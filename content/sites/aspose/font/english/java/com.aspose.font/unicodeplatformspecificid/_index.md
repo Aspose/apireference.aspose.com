@@ -3,7 +3,7 @@ title: UnicodePlatformSpecificId
 second_title: Aspose.Font for Java API Reference
 description: Represents unicode platform-specific enumeration.
 type: docs
-weight: 117
+weight: 118
 url: /java/com.aspose.font/unicodeplatformspecificid/
 ---
 **Inheritance:**

@@ -60,6 +60,7 @@ The **com.aspose.font** is a root package for all classes that deal with fonts.
 | [NameRecord](../com.aspose.font/namerecord) | Represents NameRecord structure of the 'name' table |
 | [NameToCodeMap](../com.aspose.font/nametocodemap) | Represents name to code map. |
 | [PathSegmentCollection](../com.aspose.font/pathsegmentcollection) | Represents a path segments collection. |
+| [RenderingUtils](../com.aspose.font/renderingutils) | Provides utility methods for rendering. |
 | [SegmentPath](../com.aspose.font/segmentpath) | Represents rendering path. |
 | [StreamSource](../com.aspose.font/streamsource) | Defines a way to get a file stream when it is needed. |
 | [TransformationMatrix](../com.aspose.font/transformationmatrix) | Represents 3x3 matrix | A B 0 | | C D 0 | | TX TY 1 |. |
