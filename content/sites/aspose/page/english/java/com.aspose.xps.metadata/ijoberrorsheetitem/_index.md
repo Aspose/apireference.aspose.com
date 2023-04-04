@@ -12,4 +12,5 @@ url: /java/com.aspose.xps.metadata/joberrorsheet.ijoberrorsheetitem/
 public static interface JobErrorSheet.IJobErrorSheetItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` JobErrorSheet \`\`\` feature item.
+The interface of any  JobErrorSheet  feature item.
+

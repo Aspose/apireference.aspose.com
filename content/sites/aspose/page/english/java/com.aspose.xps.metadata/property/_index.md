@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class Property extends CompositePrintTicketElement implements IPrintTicketItem, IFeatureItem, IOptionItem, IScoredPropertyItem, IPropertyItem
 ```
 
-Class implementing print ticket property. The class that implements a common PrintTicket \`\`\` Property \`\`\`. The base class for all schema-defined properties. A \`\`\` Property \`\`\` element declares a device, job formatting, or other relevant property whose name is given by its name attribute. A \`\`\` Value \`\`\` element is used to assign a value to the \`\`\` Property \`\`\`. A \`\`\` Property \`\`\` can be complex, possibly containing multiple subproperties. Subproperties are also represented by \`\`\` Property \`\`\` elements. https://docs.microsoft.com/en-us/windows/win32/printdocs/property
+Class implementing print ticket property. The class that implements a common PrintTicket  Property . The base class for all schema-defined properties. A  Property  element declares a device, job formatting, or other relevant property whose name is given by its name attribute. A  Value  element is used to assign a value to the  Property . A  Property  can be complex, possibly containing multiple subproperties. Subproperties are also represented by  Property  elements. https://docs.microsoft.com/en-us/windows/win32/printdocs/property
 ## Constructors
 
 | Constructor | Description |
@@ -34,8 +34,8 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | A property name. |
-| property | [Property](../../com.aspose.xps.metadata/property) | A mandatory \`\`\` Property \`\`\` instance. |
-| items | com.aspose.xps.metadata.IPropertyItem[] | An arbitrary array of \`\`\` IPropertyItem \`\`\` instance. Each one must be a \`\`\` Property \`\`\` or a \`\`\` Value \`\`\` instance. |
+| property | [Property](../../com.aspose.xps.metadata/property) | A mandatory  Property  instance. |
+| items | com.aspose.xps.metadata.IPropertyItem[] | An arbitrary array of  IPropertyItem  instance. Each one must be a  Property  or a  Value  instance. |
 
 ### Property(String name, Value value, IPropertyItem[] items) {#Property-java.lang.String-com.aspose.xps.metadata.Value-com.aspose.xps.metadata.IPropertyItem...-}
 ```
@@ -49,6 +49,6 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | A property name. |
-| value | [Value](../../com.aspose.xps.metadata/value) | A mandatory \`\`\` Value \`\`\` instance. |
-| items | com.aspose.xps.metadata.IPropertyItem[] | An arbitrary array of \`\`\` IPropertyItem \`\`\` instance. Each one must be a \`\`\` Property \`\`\` or a \`\`\` Value \`\`\` instance. |
+| value | [Value](../../com.aspose.xps.metadata/value) | A mandatory  Value  instance. |
+| items | com.aspose.xps.metadata.IPropertyItem[] | An arbitrary array of  IPropertyItem  instance. Each one must be a  Property  or a  Value  instance. |
 

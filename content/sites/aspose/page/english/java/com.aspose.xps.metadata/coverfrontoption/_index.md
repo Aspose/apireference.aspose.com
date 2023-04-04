@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobPrimaryCoverFront.CoverFrontOption extends Option
 ```
 
-Describes the \`\`\` JobPrimaryCoverFront \`\`\` feature options.
+Describes the  JobPrimaryCoverFront  feature options.
+
 ## Fields
 
 | Field | Description |
@@ -35,30 +36,29 @@ Specifies no cover will be output.
 public static JobPrimaryCoverFront.CoverFrontOption PrintBack
 ```
 
+Specifies the cover indicated by "CoverFrontSource" should be printed on the back side of the cover sheet. If a  JobPrimaryCoverFrontSource   ParameterInit  element is not specified, this Option should be ignored.
 
-Specifies the cover indicated by "CoverFrontSource" should be printed on the back side of the cover sheet. If a \`\`\` JobPrimaryCoverFrontSource \`\`\` \`\`\` ParameterInit \`\`\` element is not specified, this Option should be ignored.
 
 ### PrintBoth {#PrintBoth}
 ```
 public static JobPrimaryCoverFront.CoverFrontOption PrintBoth
 ```
 
+Specifies the cover indicated by "CoverFrontSource" may be printed on either side of the cover sheet. If a  JobPrimaryCoverFrontSource   ParameterInit  element is not specified, this Option should be ignored.
 
-Specifies the cover indicated by "CoverFrontSource" may be printed on either side of the cover sheet. If a \`\`\` JobPrimaryCoverFrontSource \`\`\` \`\`\` ParameterInit \`\`\` element is not specified, this Option should be ignored.
 
 ### PrintFront {#PrintFront}
 ```
 public static JobPrimaryCoverFront.CoverFrontOption PrintFront
 ```
 
+Specifies the cover indicated by "CoverFrontSource" should be printed on the front side of the cover sheet. If a  JobPrimaryCoverFrontSource   ParameterInit  element is not specified, this Option should be ignored.
 
-Specifies the cover indicated by "CoverFrontSource" should be printed on the front side of the cover sheet. If a \`\`\` JobPrimaryCoverFrontSource \`\`\` \`\`\` ParameterInit \`\`\` element is not specified, this Option should be ignored.
 
 ### BlankCover {#BlankCover}
 ```
 public static JobPrimaryCoverFront.CoverFrontOption BlankCover
 ```
-
 
 Specifies a blank cover sheet should be printed.
 

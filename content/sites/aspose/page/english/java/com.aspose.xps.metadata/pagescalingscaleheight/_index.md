@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageScalingScaleHeight extends IntegerParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Specifies the scaling factor in the \`\`\` ImageableSizeHeight \`\`\` direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingscaleheight
+Specifies the scaling factor in the  ImageableSizeHeight  direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingscaleheight
+
 ## Constructors
 
 | Constructor | Description |

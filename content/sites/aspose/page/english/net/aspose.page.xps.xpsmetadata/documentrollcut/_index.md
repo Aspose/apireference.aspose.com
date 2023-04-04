@@ -3,7 +3,7 @@ title: DocumentRollCut
 second_title: Aspose.Page for .NET API Reference
 description: Describes the cutting method for roll paper. Each document is handled separately. The specified options describe the different methods for roll cut. https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 730
+weight: 790
 url: /net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

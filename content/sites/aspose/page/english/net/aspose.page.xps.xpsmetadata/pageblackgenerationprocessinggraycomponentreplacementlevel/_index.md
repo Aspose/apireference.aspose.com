@@ -3,7 +3,7 @@ title: PageBlackGenerationProcessingGrayComponentReplacementLevel
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the percentage of gray component replacement to perform. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementlevel
 type: docs
-weight: 1690
+weight: 1750
 url: /net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementlevel/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementLevel class

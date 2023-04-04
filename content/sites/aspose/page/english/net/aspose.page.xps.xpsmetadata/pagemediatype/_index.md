@@ -3,7 +3,7 @@ title: PageMediaType
 second_title: Aspose.Page for .NET API Reference
 description: Describes the
 type: docs
-weight: 2100
+weight: 2160
 url: /net/aspose.page.xps.xpsmetadata/pagemediatype/
 ---
 ## PageMediaType class

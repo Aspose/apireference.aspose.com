@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageNegativeImage.PageNegativeImageOption extends Option
 ```
 
-Defines \`\`\` PageNegativeImage \`\`\` feature options.
+Defines  PageNegativeImage  feature options.
+
 ## Fields
 
 | Field | Description |

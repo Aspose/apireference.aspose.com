@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobOutputBin extends OutputBin implements IJobPrintTicketItem
 ```
 
-Describes the installed output bin in a device or the full list of supported bins for a device. The \`\`\` JobOutputBin \`\`\`, \`\`\` DocumentOutputBin \`\`\` and \`\`\` PageOutputBin \`\`\` keywords are mutually exclusive only one should be specified in a PrintTicket or Print Capabilities document. https://docs.microsoft.com/en-us/windows/win32/printdocs/joboutputbin
+Describes the installed output bin in a device or the full list of supported bins for a device. The  JobOutputBin ,  DocumentOutputBin  and  PageOutputBin  keywords are mutually exclusive only one should be specified in a PrintTicket or Print Capabilities document. https://docs.microsoft.com/en-us/windows/win32/printdocs/joboutputbin
 ## Constructors
 
 | Constructor | Description |

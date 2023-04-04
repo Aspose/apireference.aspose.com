@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageDeviceFontSubstitution.PageDeviceFontSubstitutionOption extends Option
 ```
 
-Describes the \`\`\` PageDeviceFontSubstitution \`\`\` feature options.
+Describes the  PageDeviceFontSubstitution  feature options.
+
 ## Fields
 
 | Field | Description |

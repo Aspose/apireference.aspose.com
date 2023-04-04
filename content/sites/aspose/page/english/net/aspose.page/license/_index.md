@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.Page for .NET API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 210
+weight: 270
 url: /net/aspose.page/license/
 ---
 ## License class

@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageWatermark.Layering extends Feature implements PageWatermark.IPageWatermarkItem
 ```
 
-Describes inner \`\`\` Layering \`\`\` feature. Defines the layering behavior of the watermark.
+Describes inner  Layering  feature. Defines the layering behavior of the watermark.
 ## Constructors
 
 | Constructor | Description |

@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class OutputBin.BinType extends ScoredProperty implements OutputBin.IOutputBinOptionItem
 ```
 
-Defines constants for the \`\`\` BinType \`\`\` scored property value.
+Defines constants for the  BinType  scored property value.
+
 ## Fields
 
 | Field | Description |

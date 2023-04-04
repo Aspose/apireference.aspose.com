@@ -3,7 +3,7 @@ title: StringValue
 second_title: Aspose.Page for .NET API Reference
 description: The class that incapsulates a String value in a PrintTicket document.
 type: docs
-weight: 2850
+weight: 2910
 url: /net/aspose.page.xps.xpsmetadata/stringvalue/
 ---
 ## StringValue class

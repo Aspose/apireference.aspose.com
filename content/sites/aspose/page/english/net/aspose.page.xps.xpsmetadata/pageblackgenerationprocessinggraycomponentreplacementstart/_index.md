@@ -3,7 +3,7 @@ title: PageBlackGenerationProcessingGrayComponentReplacementStart
 second_title: Aspose.Page for .NET API Reference
 description: Describes the point in the highlight to shadow range where GCR should start 100 darkest shadow. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementstart
 type: docs
-weight: 1700
+weight: 1760
 url: /net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementstart/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementStart class

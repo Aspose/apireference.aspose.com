@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption extends Option
 ```
 
-Describes the \`\`\` JobDigitalSignatureProcessing \`\`\` feature options.
+Describes the  JobDigitalSignatureProcessing  feature options.
+
 ## Fields
 
 | Field | Description |

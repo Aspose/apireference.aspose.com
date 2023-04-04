@@ -1,14 +1,14 @@
 ---
 title: OutlineTreeHeight
 second_title: Aspose.Page for .NET API Reference
-description: Specifies the height of the document outline tree to save. 0  the outline tree will not be converted 1  only the first level outline items will be converted ans so on.
+description: Specifies the height of the document outline tree to save. 0  the outline tree will not be converted 1  only the first level outline items will be converted ans so on. Default is 10.
 type: docs
 weight: 50
 url: /net/aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeheight/
 ---
 ## PdfSaveOptions.OutlineTreeHeight property
 
-Specifies the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, ans so on.
+Specifies the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, ans so on. Default is 10.
 
 ```csharp
 public int OutlineTreeHeight { get; set; }

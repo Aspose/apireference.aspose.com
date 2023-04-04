@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageOutputQuality.PageOutputQualityOption extends Option
 ```
 
-Defines \`\`\` PageOutputQuality \`\`\` feature options.
+Defines  PageOutputQuality  feature options.
+
 ## Fields
 
 | Field | Description |

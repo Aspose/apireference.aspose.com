@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pagemediasize.ipagemediasizeitem/
 public static interface PageMediaSize.IPageMediaSizeItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` PageMediaSize \`\`\` item.
+The interface of any  PageMediaSize  item.

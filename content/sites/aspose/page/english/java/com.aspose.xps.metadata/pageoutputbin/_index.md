@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageOutputBin extends OutputBin implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Describes the full list of supported bins for the device. Allows specification of output bin on a per page basis. The \`\`\` JobOutputBin \`\`\`, \`\`\` DocumentOutputBin \`\`\` and \`\`\` PageOutputBin \`\`\` keywords are mutually exclusive only one should be specified in a PrintTicket or Print Capabilities document. https://docs.microsoft.com/en-us/windows/win32/printdocs/pageoutputbin
+Describes the full list of supported bins for the device. Allows specification of output bin on a per page basis. The  JobOutputBin ,  DocumentOutputBin  and  PageOutputBin  keywords are mutually exclusive only one should be specified in a PrintTicket or Print Capabilities document. https://docs.microsoft.com/en-us/windows/win32/printdocs/pageoutputbin
 ## Constructors
 
 | Constructor | Description |

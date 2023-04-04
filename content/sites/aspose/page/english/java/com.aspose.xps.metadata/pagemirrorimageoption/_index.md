@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMirrorImage.PageMirrorImageOption extends Option
 ```
 
-Defines \`\`\` PageMirrorImage \`\`\` feature options.
+Defines  PageMirrorImage  feature options.
+
 ## Fields
 
 | Field | Description |

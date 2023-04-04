@@ -3,7 +3,7 @@ title: JobCollateAllDocuments
 second_title: Aspose.Page for .NET API Reference
 description: Describes the collating characteristics of the output. All documents in each individual job are collated. DocumentCollate./documentcollate and JobCollateAllDocuments./jobcollatealldocuments are mutually exclusive. The behavior and implementation of whether both or only one of these keywords is implemented is left to the driver. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcollatealldocuments
 type: docs
-weight: 1140
+weight: 1200
 url: /net/aspose.page.xps.xpsmetadata/jobcollatealldocuments/
 ---
 ## JobCollateAllDocuments class

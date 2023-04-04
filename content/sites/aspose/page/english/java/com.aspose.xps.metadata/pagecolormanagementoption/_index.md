@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageColorManagement.PageColorManagementOption extends Option
 ```
 
-Describes the \`\`\` PageColorManagement \`\`\` feature options.
+Describes the  PageColorManagement  feature options.
+
 ## Fields
 
 | Field | Description |

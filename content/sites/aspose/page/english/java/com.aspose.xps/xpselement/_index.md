@@ -20,16 +20,16 @@ Class incapsulating common XPS element features.
 
 | Method | Description |
 | --- | --- |
-| [get(int i)](#get-int-) | Provides access to element's children by index \`\`\` i \`\`\`. |
+| [get(int i)](#get-int-) | Provides access to element's children by index  i . |
 | [size()](#size--) | Returns the number of child elements. |
-| [iterator()](#iterator--) | Implementation of \`\`\` Iterable \`\`\` interface. |
+| [iterator()](#iterator--) | Implementation of  Iterable  interface. |
 ### get(int i) {#get-int-}
 ```
 public XpsContentElement get(int i)
 ```
 
 
-Provides access to element's children by index \`\`\` i \`\`\`.
+Provides access to element's children by index  i .
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -37,7 +37,7 @@ Provides access to element's children by index \`\`\` i \`\`\`.
 | i | int | Index of child element. |
 
 **Returns:**
-[XpsContentElement](../../com.aspose.xps/xpscontentelement) - Child element at \`\`\` i \`\`\` position.
+[XpsContentElement](../../com.aspose.xps/xpscontentelement) - Child element at  i  position.
 ### size() {#size--}
 ```
 public int size()
@@ -54,7 +54,7 @@ public Iterator<XpsContentElement> iterator()
 ```
 
 
-Implementation of \`\`\` Iterable \`\`\` interface.
+Implementation of  Iterable  interface.
 
 **Returns:**
 java.util.Iterator<com.aspose.xps.XpsContentElement> - Returns enumerator for the list.

@@ -3,7 +3,7 @@ title: ParameterInit
 second_title: Aspose.Page for .NET API Reference
 description: The class that implements a common PrintTicket parameter initializer. The base class for all schemadefined parameter initializers. Defines a value for an instance of a
 type: docs
-weight: 2710
+weight: 2770
 url: /net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class

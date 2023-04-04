@@ -3,7 +3,7 @@ title: XmpField
 second_title: Aspose.Page for .NET API Reference
 description: Represents XMP field.
 type: docs
-weight: 110
+weight: 170
 url: /net/aspose.page.eps.xmp/xmpfield/
 ---
 ## XmpField class

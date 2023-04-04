@@ -12,4 +12,5 @@ url: /java/com.aspose.xps.metadata/pageresolution.ipageresolutionoptionitem/
 public static interface PageResolution.IPageResolutionOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` PageResolutionOption \`\`\` item.
+The interface of any  PageResolutionOption  item.
+

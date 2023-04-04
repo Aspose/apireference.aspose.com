@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobOutputOptimization.JobOutputOptimizationOption extends Option
 ```
 
-Describes the \`\`\` JobOutputOptimization \`\`\` feature options.
+Describes the  JobOutputOptimization  feature options.
+
 ## Fields
 
 | Field | Description |

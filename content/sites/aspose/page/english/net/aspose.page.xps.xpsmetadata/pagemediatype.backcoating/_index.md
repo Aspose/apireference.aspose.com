@@ -3,7 +3,7 @@ title: PageMediaType.BackCoating
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 2110
+weight: 2170
 url: /net/aspose.page.xps.xpsmetadata/pagemediatype.backcoating/
 ---
 ## PageMediaType.BackCoating class

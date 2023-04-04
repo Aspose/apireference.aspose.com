@@ -3,7 +3,7 @@ title: PageScalingScaleHeight
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the scaling factor in the
 type: docs
-weight: 2500
+weight: 2560
 url: /net/aspose.page.xps.xpsmetadata/pagescalingscaleheight/
 ---
 ## PageScalingScaleHeight class

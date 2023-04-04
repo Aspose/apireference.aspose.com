@@ -3,7 +3,7 @@ title: PageWatermarkTextColor
 second_title: Aspose.Page for .NET API Reference
 description: Defines the sRGB color for the watermark text. Format is ARGB AARRGGBB. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextcolor
 type: docs
-weight: 2670
+weight: 2730
 url: /net/aspose.page.xps.xpsmetadata/pagewatermarktextcolor/
 ---
 ## PageWatermarkTextColor class

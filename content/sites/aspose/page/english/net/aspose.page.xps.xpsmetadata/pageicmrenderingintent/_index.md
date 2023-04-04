@@ -3,7 +3,7 @@ title: PageICMRenderingIntent
 second_title: Aspose.Page for .NET API Reference
 description: Describes the rendering intent as defined by the ICC v2 Specification. This value should be ignored if an image or graphical element has an embedded profile that specifies the Rendering intent. https//docs.microsoft.com/enus/windows/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1930
+weight: 1990
 url: /net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pageoutputcolor.ipageoutputcoloroptionitem/
 public static interface PageOutputColor.IPageOutputColorOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` PageOutputColorOption \`\`\` item.
+The interface of any  PageOutputColorOption  item.

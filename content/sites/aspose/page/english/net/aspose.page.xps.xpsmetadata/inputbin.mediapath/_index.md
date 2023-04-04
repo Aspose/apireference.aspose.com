@@ -3,7 +3,7 @@ title: InputBin.MediaPath
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 1020
+weight: 1080
 url: /net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class

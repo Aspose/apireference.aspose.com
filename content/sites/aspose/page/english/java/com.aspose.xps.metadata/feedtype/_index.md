@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class InputBin.FeedType extends ScoredProperty implements InputBin.IInputBinOptionItem
 ```
 
-Defines constants for the \`\`\` FeedType \`\`\` scored property value.
+Defines constants for the  FeedType  scored property value.
+
 ## Fields
 
 | Field | Description |

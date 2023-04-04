@@ -12,4 +12,5 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public abstract class Collate extends Feature
 ```
 
-The base class for \`\`\` DocumentCollate \`\`\` and \`\`\` JobCollateAllDocuments \`\`\` features classes.
+The base class for  DocumentCollate  and  JobCollateAllDocuments  features classes.
+

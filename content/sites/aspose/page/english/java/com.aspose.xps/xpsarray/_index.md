@@ -21,7 +21,7 @@ Class incapsulating common XPS model array object features.
 | [remove(T obj)](#remove-T-) | Removes an object from array. |
 | [insert(int index, T obj)](#insert-int-T-) | Inserts a new object into array at specified position. |
 | [removeAt(int index)](#removeAt-int-) | Removes an object from array at specified position. |
-| [get(int i)](#get-int-) | Provides access to array's element by index \`\`\` i \`\`\`. |
+| [get(int i)](#get-int-) | Provides access to array's element by index  i . |
 | [size()](#size--) | Returns number of elements. |
 ### add(T obj) {#add-T-}
 ```
@@ -90,7 +90,7 @@ public T get(int i)
 ```
 
 
-Provides access to array's element by index \`\`\` i \`\`\`.
+Provides access to array's element by index  i .
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -98,7 +98,7 @@ Provides access to array's element by index \`\`\` i \`\`\`.
 | i | int | Index of the element. |
 
 **Returns:**
-T - The element at \`\`\` i \`\`\` position.
+T - The element at  i  position.
 ### size() {#size--}
 ```
 public int size()

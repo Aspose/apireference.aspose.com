@@ -3,7 +3,7 @@ title: IMultiPageDevice
 second_title: Aspose.Page for .NET API Reference
 description: This interface contains methods for manipulating multipaged device.
 type: docs
-weight: 180
+weight: 240
 url: /net/aspose.page/imultipagedevice/
 ---
 ## IMultiPageDevice interface

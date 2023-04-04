@@ -12,20 +12,20 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageDeviceColorSpaceUsage.PageDeviceColorSpaceUsageOption extends Option
 ```
 
-Describes the \`\`\` PageDeviceColorSpaceUsage \`\`\` feature options.
+Describes the  PageDeviceColorSpaceUsage  feature options.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [MatchToDefault](#MatchToDefault) | If the device determines that the profile specified by the \`\`\` PageDeviceColorSpaceProfileURI \`\`\` parameter can be used as a device color space profile, all elements using the same profile are treated as already being specified in device color space. |
+| [MatchToDefault](#MatchToDefault) | If the device determines that the profile specified by the  PageDeviceColorSpaceProfileURI  parameter can be used as a device color space profile, all elements using the same profile are treated as already being specified in device color space. |
 | [OverrideDeviceDefault](#OverrideDeviceDefault) | If the profile specified by the PageDeviceColorSpaceProfileURI parameter has a number of channels matching the number of primaries of the device, it SHOULD be used instead of the devices internal color management for all elements. |
 ### MatchToDefault {#MatchToDefault}
 ```
 public static PageDeviceColorSpaceUsage.PageDeviceColorSpaceUsageOption MatchToDefault
 ```
 
-
-If the device determines that the profile specified by the \`\`\` PageDeviceColorSpaceProfileURI \`\`\` parameter can be used as a device color space profile, all elements using the same profile are treated as already being specified in device color space. All other elements MUST use the profile specified for that element. If the profile cannot be used as a device color space profile, elements using the profile MUST be color managed like any other element using the color profile.
+If the device determines that the profile specified by the  PageDeviceColorSpaceProfileURI  parameter can be used as a device color space profile, all elements using the same profile are treated as already being specified in device color space. All other elements MUST use the profile specified for that element. If the profile cannot be used as a device color space profile, elements using the profile MUST be color managed like any other element using the color profile.
 
 ### OverrideDeviceDefault {#OverrideDeviceDefault}
 ```

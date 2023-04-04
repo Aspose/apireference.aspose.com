@@ -3,7 +3,7 @@ title: PageMirrorImage
 second_title: Aspose.Page for .NET API Reference
 description: Describes the mirroring setting of the output. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemirrorimage
 type: docs
-weight: 2200
+weight: 2260
 url: /net/aspose.page.xps.xpsmetadata/pagemirrorimage/
 ---
 ## PageMirrorImage class

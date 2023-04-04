@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public abstract class InputBin extends Feature
 ```
 
-The base class for \`\`\` JobInputBin \`\`\`, \`\`\` DocumentInputBin \`\`\` and \`\`\` PageInputBin \`\`\` features classes.
+The base class for  JobInputBin ,  DocumentInputBin  and  PageInputBin  features classes.

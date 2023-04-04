@@ -12,12 +12,12 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class RollCut.RollCutOption extends Option
 ```
 
-Describes the \`\`\` JobRollCutAtEndOfJob \`\`\` and \`\`\` DocumentRollCut \`\`\` features options.
+Describes the  JobRollCutAtEndOfJob  and  DocumentRollCut  features options.
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Banner](#Banner) | Specifies cutting method for banner (\`\`\` DocumentRollCut \`\`\` only). |
+| [Banner](#Banner) | Specifies cutting method for banner ( DocumentRollCut  only). |
 | [CutSheetAtImageEdge](#CutSheetAtImageEdge) | Specifies cutting at the edge of the image. |
 | [CutSheetAtStandardMediaSize](#CutSheetAtStandardMediaSize) | Specifies cutting for standard media size. |
 | [None](#None) | Specifies no job roll cut. |
@@ -26,8 +26,7 @@ Describes the \`\`\` JobRollCutAtEndOfJob \`\`\` and \`\`\` DocumentRollCut \`\`
 public static RollCut.RollCutOption Banner
 ```
 
-
-Specifies cutting method for banner (\`\`\` DocumentRollCut \`\`\` only).
+Specifies cutting method for banner ( DocumentRollCut  only).
 
 ### CutSheetAtImageEdge {#CutSheetAtImageEdge}
 ```

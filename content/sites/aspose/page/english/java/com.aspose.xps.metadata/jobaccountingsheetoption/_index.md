@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobAccountingSheet.JobAccountingSheetOption extends Option
 ```
 
-Describes the \`\`\` JobAccountingSheet \`\`\` feature options.
+Describes the  JobAccountingSheet  feature options.
 ## Fields
 
 | Field | Description |

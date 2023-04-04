@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageDestinationColorProfile.PageDestinationColorProfileOption extends Option
 ```
 
-Describes the \`\`\` PageDestinationColorProfile \`\`\` feature options.
+Describes the  PageDestinationColorProfile  feature options.
+
 ## Fields
 
 | Field | Description |

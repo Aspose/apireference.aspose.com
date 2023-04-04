@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageMediaSizeMediaSizeWidth extends IntegerParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Specifies the dimension \`\`\` MediaSizeHeight \`\`\` direction for the Custom \`\`\` MediaSize \`\`\` option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizemediasizewidth
+Specifies the dimension  MediaSizeHeight  direction for the Custom  MediaSize  option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizemediasizewidth
+
 ## Constructors
 
 | Constructor | Description |

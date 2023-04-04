@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/iscoredpropertyitem/
 public interface IScoredPropertyItem extends IPrintTicketElementChild
 ```
 
-The base interface for classes that may be PrintTicket \`\`\` ScoredProperty \`\`\` items.
+The base interface for classes that may be PrintTicket  ScoredProperty  items.

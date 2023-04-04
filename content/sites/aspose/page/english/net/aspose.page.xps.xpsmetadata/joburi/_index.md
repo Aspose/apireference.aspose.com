@@ -3,7 +3,7 @@ title: JobURI
 second_title: Aspose.Page for .NET API Reference
 description: Specifies a uniform resource identifier URI for the document. https//docs.microsoft.com/enus/windows/win32/printdocs/joburi
 type: docs
-weight: 1530
+weight: 1590
 url: /net/aspose.page.xps.xpsmetadata/joburi/
 ---
 ## JobURI class

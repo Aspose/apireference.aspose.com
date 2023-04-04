@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public abstract class RollCut extends Feature
 ```
 
-The base class for \`\`\` JobRollCutAtEndOfJob \`\`\` and \`\`\` DocumentRollCut \`\`\` features classes.
+The base class for  JobRollCutAtEndOfJob  and  DocumentRollCut  features classes.

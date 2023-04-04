@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaType.PrePunched extends ScoredProperty implements PageMediaType.IPageMediaTypeOptionItem
 ```
 
-Defines constants for the \`\`\` PrePunched \`\`\` scored property value.
+Defines constants for the  PrePunched  scored property value.
 ## Fields
 
 | Field | Description |

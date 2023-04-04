@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageOrientation.PageOrientationOption extends Option
 ```
 
-Describes the \`\`\` PageOrientation \`\`\` feature options.
+Describes the  PageOrientation  feature options.
+
 ## Fields
 
 | Field | Description |

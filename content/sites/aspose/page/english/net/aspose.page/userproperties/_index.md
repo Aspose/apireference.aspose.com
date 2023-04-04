@@ -3,7 +3,7 @@ title: UserProperties
 second_title: Aspose.Page for .NET API Reference
 description: Special property class which allows typed properties to be set and returned. It also allows the hookup of two default property objects to be searched if this property object does not contain the property.
 type: docs
-weight: 260
+weight: 320
 url: /net/aspose.page/userproperties/
 ---
 ## UserProperties class

@@ -29,8 +29,8 @@ Class for XPS-as-PDF saving options.
 | [setPageNumbers(int[] value)](#setPageNumbers-int---) | Sets the array of numbers of pages to render. |
 | [getOutlineTreeHeight()](#getOutlineTreeHeight--) | Gets the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, and so on. |
 | [setOutlineTreeHeight(int value)](#setOutlineTreeHeight-int-) | Sets the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, and so on. |
-| [getOutlineTreeExpansionLevel()](#getOutlineTreeExpansionLevel--) | Gets up to what level the document outline should be expanded when the PDF file is viewed. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on. |
-| [setOutlineTreeExpansionLevel(int value)](#setOutlineTreeExpansionLevel-int-) | Sets up to what level the document outline should be expanded when the PDF file is viewed. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on. |
+| [getOutlineTreeExpansionLevel()](#getOutlineTreeExpansionLevel--) | Gets up to what level the document outline should be expanded when the PDF file is opened in a viewer. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on. |
+| [setOutlineTreeExpansionLevel(int value)](#setOutlineTreeExpansionLevel-int-) | Sets up to what level the document outline should be expanded when the PDF file is opened in a viewer. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on. |
 | [getTextCompression()](#getTextCompression--) | Returns the compression type to be used for all content streams except images. |
 | [setTextCompression(PdfTextCompression value)](#setTextCompression-com.aspose.xps.rendering.PdfTextCompression-) | Sets the compression type to be used for all content streams except images. |
 | [getImageCompression()](#getImageCompression--) | Returns the compression type to be used for all images in the document. |
@@ -74,7 +74,7 @@ public int getOutlineTreeHeight()
 ```
 
 
-Gets the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, and so on.
+Gets the height of the document outline tree to save. 0 - the outline tree will not be converted, 1 - only the first level outline items will be converted, and so on. Default is 10.
 
 **Returns:**
 int - The outline tree height.
@@ -97,7 +97,7 @@ public int getOutlineTreeExpansionLevel()
 ```
 
 
-Gets up to what level the document outline should be expanded when the PDF file is viewed. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on.
+Gets up to what level the document outline should be expanded when the PDF file is opened in a viewer. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on.
 
 **Returns:**
 int - The outline tree expansion level.
@@ -107,7 +107,7 @@ public void setOutlineTreeExpansionLevel(int value)
 ```
 
 
-Sets up to what level the document outline should be expanded when the PDF file is viewed. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on.
+Sets up to what level the document outline should be expanded when the PDF file is opened in a viewer. 1 - only the first level outline items are shown, 2 - only the first and second level outline items are shown, and so on.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -120,7 +120,7 @@ public PdfTextCompression getTextCompression()
 ```
 
 
-Returns the compression type to be used for all content streams except images. Default is \`\`\` PdfTextCompression.Flate \`\`\`.
+Returns the compression type to be used for all content streams except images. Default is  PdfTextCompression.Flate .
 
 **Returns:**
 [PdfTextCompression](../../com.aspose.xps.rendering/pdftextcompression) - The compression type.
@@ -130,7 +130,7 @@ public void setTextCompression(PdfTextCompression value)
 ```
 
 
-Sets the compression type to be used for all content streams except images. Default is \`\`\` PdfTextCompression.Flate \`\`\`.
+Sets the compression type to be used for all content streams except images. Default is  PdfTextCompression.Flate .
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -143,7 +143,7 @@ public PdfImageCompression getImageCompression()
 ```
 
 
-Returns the compression type to be used for all images in the document. Default is \`\`\` PdfImageCompression.Auto \`\`\`.
+Returns the compression type to be used for all images in the document. Default is  PdfImageCompression.Auto .
 
 **Returns:**
 [PdfImageCompression](../../com.aspose.xps.rendering/pdfimagecompression) - The compression type.
@@ -153,7 +153,7 @@ public void setImageCompression(PdfImageCompression value)
 ```
 
 
-Sets the compression type to be used for all images in the document. Default is \`\`\` PdfImageCompression.Auto \`\`\`.
+Sets the compression type to be used for all images in the document. Default is  PdfImageCompression.Auto .
 
 **Parameters:**
 | Parameter | Type | Description |

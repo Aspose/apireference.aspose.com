@@ -3,7 +3,7 @@ title: IFeatureItem
 second_title: Aspose.Page for .NET API Reference
 description: The base interface for classes that may be Print Schema Feature./feature items.
 type: docs
-weight: 860
+weight: 920
 url: /net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

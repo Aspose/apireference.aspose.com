@@ -3,7 +3,7 @@ title: JobBindAllDocumentsGutter
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the width of the binding gutter. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocumentsgutter
 type: docs
-weight: 1130
+weight: 1190
 url: /net/aspose.page.xps.xpsmetadata/jobbindalldocumentsgutter/
 ---
 ## JobBindAllDocumentsGutter class

@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class Option extends CompositePrintTicketElement implements IFeatureItem
 ```
 
-The class that implements a common PrintTicket \`\`\` Option \`\`\`. The base class for all schema-defined options. An Option element contains all of the \`\`\` Property \`\`\` and \`\`\` ScoredProperty \`\`\` elements associated with this option. https://docs.microsoft.com/en-us/windows/win32/printdocs/option
+The class that implements a common PrintTicket  Option . The base class for all schema-defined options. An Option element contains all of the  Property  and  ScoredProperty  elements associated with this option. https://docs.microsoft.com/en-us/windows/win32/printdocs/option
+
 ## Constructors
 
 | Constructor | Description |
@@ -40,7 +41,7 @@ Creates a new PrintTicket option instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | An arbitrary option name. |
-| items | com.aspose.xps.metadata.IOptionItem[] | An arbitrary array of \`\`\` IOptionItem \`\`\` instance. Each one must be a \`\`\` ScoredProperty \`\`\` or a \`\`\` Property \`\`\` instance. |
+| items | com.aspose.xps.metadata.IOptionItem[] | An arbitrary array of  IOptionItem  instance. Each one must be a  ScoredProperty  or a  Property  instance. |
 
 ### Option(IOptionItem[] items) {#Option-com.aspose.xps.metadata.IOptionItem...-}
 ```
@@ -53,7 +54,7 @@ Creates a new PrintTicket option instance.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.IOptionItem[] | An arbitrary array of \`\`\` IOptionItem \`\`\` instance. Each one must be a \`\`\` ScoredProperty \`\`\` or a \`\`\` Property \`\`\` instance. |
+| items | com.aspose.xps.metadata.IOptionItem[] | An arbitrary array of  IOptionItem  instance. Each one must be a  ScoredProperty  or a  Property  instance. |
 
 ### Option(Option option) {#Option-com.aspose.xps.metadata.Option-}
 ```
@@ -73,8 +74,7 @@ Creates a clone option instance.
 public void add(IOptionItem[] items)
 ```
 
-
-Adds a list of items to the end of this option's item list. Each one must be a \`\`\` ScoredProperty \`\`\` or a \`\`\` Property \`\`\` instance.
+Adds a list of items to the end of this option's item list. Each one must be a  ScoredProperty  or a  Property  instance.
 
 **Parameters:**
 | Parameter | Type | Description |

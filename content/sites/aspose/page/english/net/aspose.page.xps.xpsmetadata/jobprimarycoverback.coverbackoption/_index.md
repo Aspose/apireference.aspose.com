@@ -3,7 +3,7 @@ title: JobPrimaryCoverBack.CoverBackOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the JobPrimaryCoverBack./jobprimarycoverback feature options.
 type: docs
-weight: 1450
+weight: 1510
 url: /net/aspose.page.xps.xpsmetadata/jobprimarycoverback.coverbackoption/
 ---
 ## JobPrimaryCoverBack.CoverBackOption class

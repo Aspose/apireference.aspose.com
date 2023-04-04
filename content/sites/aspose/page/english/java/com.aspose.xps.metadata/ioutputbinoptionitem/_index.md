@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/outputbin.ioutputbinoptionitem/
 public static interface OutputBin.IOutputBinOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` OutputBinOption \`\`\` item.
+The interface of any  OutputBinOption  item.

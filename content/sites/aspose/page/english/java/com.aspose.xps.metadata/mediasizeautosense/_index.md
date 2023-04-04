@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class InputBin.MediaSizeAutoSense extends ScoredProperty implements InputBin.IInputBinOptionItem
 ```
 
-Defines constants for the \`\`\` MediaSizeAutoSense \`\`\` scored property value.
+Defines constants for the  MediaSizeAutoSense  scored property value.
+
 ## Fields
 
 | Field | Description |

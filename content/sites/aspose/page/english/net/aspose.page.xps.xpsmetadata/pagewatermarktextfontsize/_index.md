@@ -3,7 +3,7 @@ title: PageWatermarkTextFontSize
 second_title: Aspose.Page for .NET API Reference
 description: Defines the available font sizes for the watermark text. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextfontsize
 type: docs
-weight: 2680
+weight: 2740
 url: /net/aspose.page.xps.xpsmetadata/pagewatermarktextfontsize/
 ---
 ## PageWatermarkTextFontSize class

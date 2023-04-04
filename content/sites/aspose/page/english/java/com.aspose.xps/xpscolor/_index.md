@@ -27,4 +27,4 @@ public abstract Color toColor()
 Convenience method for getting native representation of any color.
 
 **Returns:**
-java.awt.Color - \`\`\` System.Drawing.Color \`\`\` structure
+java.awt.Color -  System.Drawing.Color  structure

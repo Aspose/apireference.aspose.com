@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobDeviceLanguage.JobDeviceLanguageOption extends Option
 ```
 
-Describes the \`\`\` JobDeviceLanguage \`\`\` feature options.
+Describes the  JobDeviceLanguage  feature options.
 ## Constructors
 
 | Constructor | Description |
@@ -46,10 +46,10 @@ Describes the \`\`\` JobDeviceLanguage \`\`\` feature options.
 
 | Method | Description |
 | --- | --- |
-| [add(JobDeviceLanguage.IJobDeviceLanguageOptionItem[] items)](#add-com.aspose.xps.metadata.JobDeviceLanguage.IJobDeviceLanguageOptionItem...-) | Adds a list of \`\`\` IJobDeviceLanguageOptionItem \`\`\` instances to the options. |
-| [setLanguageLevel(String languageLevel)](#setLanguageLevel-java.lang.String-) | Sets the \`\`\` LanguageLevel \`\`\` scored property value. |
-| [setLanguageEncoding(String languageEncoding)](#setLanguageEncoding-java.lang.String-) | Sets the \`\`\` LanguageEncoding \`\`\` scored property value. |
-| [setLanguageVersion(String languageVersion)](#setLanguageVersion-java.lang.String-) | Sets the \`\`\` LanguageVersion \`\`\` scored property value. |
+| [add(JobDeviceLanguage.IJobDeviceLanguageOptionItem[] items)](#add-com.aspose.xps.metadata.JobDeviceLanguage.IJobDeviceLanguageOptionItem...-) | Adds a list of  IJobDeviceLanguageOptionItem  instances to the options. |
+| [setLanguageLevel(String languageLevel)](#setLanguageLevel-java.lang.String-) | Sets the  LanguageLevel  scored property value. |
+| [setLanguageEncoding(String languageEncoding)](#setLanguageEncoding-java.lang.String-) | Sets the  LanguageEncoding  scored property value. |
+| [setLanguageVersion(String languageVersion)](#setLanguageVersion-java.lang.String-) | Sets the  LanguageVersion  scored property value. |
 | [clone()](#clone--) | Clones this option instance. |
 ### JobDeviceLanguageOption(String name, JobDeviceLanguage.IJobDeviceLanguageOptionItem[] items) {#JobDeviceLanguageOption-java.lang.String-com.aspose.xps.metadata.JobDeviceLanguage.IJobDeviceLanguageOptionItem...-}
 ```
@@ -63,7 +63,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | An option name. |
-| items | com.aspose.xps.metadata.JobDeviceLanguage.IJobDeviceLanguageOptionItem[] | An arbitrary array of \`\`\` IJobDeviceLanguageOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.JobDeviceLanguage.IJobDeviceLanguageOptionItem[] | An arbitrary array of  IJobDeviceLanguageOptionItem  instances. |
 
 ### JobDeviceLanguageOption(JobDeviceLanguage.JobDeviceLanguageOption option) {#JobDeviceLanguageOption-com.aspose.xps.metadata.JobDeviceLanguage.JobDeviceLanguageOption-}
 ```
@@ -235,13 +235,12 @@ Specified device language is RTL.
 public JobDeviceLanguage.JobDeviceLanguageOption add(JobDeviceLanguage.IJobDeviceLanguageOptionItem[] items)
 ```
 
-
-Adds a list of \`\`\` IJobDeviceLanguageOptionItem \`\`\` instances to the options.
+Adds a list of  IJobDeviceLanguageOptionItem  instances to the options.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.JobDeviceLanguage.IJobDeviceLanguageOptionItem[] | An arbitrary array of \`\`\` IJobDeviceLanguageOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.JobDeviceLanguage.IJobDeviceLanguageOptionItem[] | An arbitrary array of  IJobDeviceLanguageOptionItem  instances. |
 
 **Returns:**
 [JobDeviceLanguageOption](../../com.aspose.xps.metadata/jobdevicelanguageoption) - This option instance.
@@ -250,13 +249,12 @@ Adds a list of \`\`\` IJobDeviceLanguageOptionItem \`\`\` instances to the optio
 public JobDeviceLanguage.JobDeviceLanguageOption setLanguageLevel(String languageLevel)
 ```
 
-
-Sets the \`\`\` LanguageLevel \`\`\` scored property value.
+Sets the  LanguageLevel  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| languageLevel | java.lang.String | The \`\`\` LanguageLevel \`\`\` scored property value. |
+| languageLevel | java.lang.String | The  LanguageLevel  scored property value. |
 
 **Returns:**
 [JobDeviceLanguageOption](../../com.aspose.xps.metadata/jobdevicelanguageoption) - This option instance.
@@ -265,13 +263,12 @@ Sets the \`\`\` LanguageLevel \`\`\` scored property value.
 public JobDeviceLanguage.JobDeviceLanguageOption setLanguageEncoding(String languageEncoding)
 ```
 
-
-Sets the \`\`\` LanguageEncoding \`\`\` scored property value.
+Sets the  LanguageEncoding  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| languageEncoding | java.lang.String | The \`\`\` LanguageEncoding \`\`\` scored property value. |
+| languageEncoding | java.lang.String | The  LanguageEncoding  scored property value. |
 
 **Returns:**
 [JobDeviceLanguageOption](../../com.aspose.xps.metadata/jobdevicelanguageoption) - This option instance.
@@ -280,13 +277,12 @@ Sets the \`\`\` LanguageEncoding \`\`\` scored property value.
 public JobDeviceLanguage.JobDeviceLanguageOption setLanguageVersion(String languageVersion)
 ```
 
-
-Sets the \`\`\` LanguageVersion \`\`\` scored property value.
+Sets the  LanguageVersion  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| languageVersion | java.lang.String | The \`\`\` LanguageVersion \`\`\` scored property value. |
+| languageVersion | java.lang.String | The  LanguageVersion  scored property value. |
 
 **Returns:**
 [JobDeviceLanguageOption](../../com.aspose.xps.metadata/jobdevicelanguageoption) - This option instance.

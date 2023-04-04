@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobStapleAllDocuments extends Staple implements IJobPrintTicketItem
 ```
 
-Describes the stapling characteristics of the output. All documents in the job are stapled together. The \`\`\` JobStapleAllDocuments \`\`\` and \`\`\` DocumentStaple \`\`\` keywords are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobstaplealldocuments
+Describes the stapling characteristics of the output. All documents in the job are stapled together. The  JobStapleAllDocuments  and  DocumentStaple  keywords are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobstaplealldocuments
 ## Constructors
 
 | Constructor | Description |

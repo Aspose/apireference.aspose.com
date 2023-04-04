@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageBorderless.PageBorderlessOption extends Option
 ```
 
-Describes the \`\`\` PageBorderless \`\`\` feature options.
+Describes the  PageBorderless  feature options.
+
 ## Fields
 
 | Field | Description |

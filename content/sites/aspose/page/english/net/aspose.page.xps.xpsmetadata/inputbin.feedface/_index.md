@@ -3,7 +3,7 @@ title: InputBin.FeedFace
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 970
+weight: 1030
 url: /net/aspose.page.xps.xpsmetadata/inputbin.feedface/
 ---
 ## InputBin.FeedFace class

@@ -15,7 +15,7 @@ java.lang.Iterable
 public abstract class PrintTicket implements Iterable<String>
 ```
 
-The class that implements a common PrintTicket of any scope. The base class for job-, document- and page-level print tickets. A \`\`\` PrintTicket \`\`\` element is the root element of the PrintTicket document. A \`\`\` PrintTicket \`\`\` element contains all job formatting information required to output a job. https://docs.microsoft.com/en-us/windows/win32/printdocs/printticket
+The class that implements a common PrintTicket of any scope. The base class for job-, document- and page-level print tickets. A  PrintTicket  element is the root element of the PrintTicket document. A  PrintTicket  element contains all job formatting information required to output a job. https://docs.microsoft.com/en-us/windows/win32/printdocs/printticket
 ## Constructors
 
 | Constructor | Description |
@@ -38,7 +38,7 @@ Creates a new instance.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.IPrintTicketItem[] | An arbitrary array of \`\`\` IPrintTicketItem \`\`\` instances. Each one must be a \`\`\` Feature \`\`\`, a \`\`\` ParameterInit \`\`\` or a \`\`\` Property \`\`\` instance. |
+| items | com.aspose.xps.metadata.IPrintTicketItem[] | An arbitrary array of  IPrintTicketItem  instances. Each one must be a  Feature , a  ParameterInit  or a  Property  instance. |
 
 ### remove(String[] names) {#remove-java.lang.String...-}
 ```

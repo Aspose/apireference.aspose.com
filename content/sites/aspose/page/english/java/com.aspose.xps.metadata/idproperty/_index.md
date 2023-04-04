@@ -12,4 +12,5 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class IDProperty extends Property
 ```
 
-The base class for \`\`\` JobID \`\`\` and \`\`\` DocumentID \`\`\` properties classes.
+The base class for  JobID  and  DocumentID  properties classes.
+

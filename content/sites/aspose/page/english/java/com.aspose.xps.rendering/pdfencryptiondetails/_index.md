@@ -17,7 +17,7 @@ Contains details for a pdf encryption.
 
 | Constructor | Description |
 | --- | --- |
-| [PdfEncryptionDetails(String userPassword, String ownerPassword, int permissions, PdfEncryptionAlgorithm encryptionAlgorithm)](#PdfEncryptionDetails-java.lang.String-java.lang.String-int-com.aspose.xps.rendering.PdfEncryptionAlgorithm-) | Initializes a new instance of the \`\`\` PdfEncryptionDetailsCore \`\`\` class. |
+| [PdfEncryptionDetails(String userPassword, String ownerPassword, int permissions, PdfEncryptionAlgorithm encryptionAlgorithm)](#PdfEncryptionDetails-java.lang.String-java.lang.String-int-com.aspose.xps.rendering.PdfEncryptionAlgorithm-) | Initializes a new instance of the  PdfEncryptionDetailsCore  class. |
 ## Methods
 
 | Method | Description |
@@ -36,7 +36,7 @@ public PdfEncryptionDetails(String userPassword, String ownerPassword, int permi
 ```
 
 
-Initializes a new instance of the \`\`\` PdfEncryptionDetailsCore \`\`\` class.
+Initializes a new instance of the  PdfEncryptionDetailsCore  class.
 
 **Parameters:**
 | Parameter | Type | Description |

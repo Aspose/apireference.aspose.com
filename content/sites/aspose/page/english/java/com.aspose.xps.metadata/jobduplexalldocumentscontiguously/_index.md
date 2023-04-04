@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobDuplexAllDocumentsContiguously extends Duplex implements IJobPrintTicketItem
 ```
 
-Describes the duplex characteristics of the output. The duplex feature allows for printing on both sides of the media. All Documents in the job are duplexed together contiguously. \`\`\` JobDuplexAllDocumentsContiguously \`\`\` and \`\`\` DocumentDuplex \`\`\` are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobduplexalldocumentscontiguously
+Describes the duplex characteristics of the output. The duplex feature allows for printing on both sides of the media. All Documents in the job are duplexed together contiguously.  JobDuplexAllDocumentsContiguously  and  DocumentDuplex  are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobduplexalldocumentscontiguously
 ## Constructors
 
 | Constructor | Description |

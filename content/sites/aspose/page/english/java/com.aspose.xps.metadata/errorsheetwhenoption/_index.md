@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption extends Option
 ```
 
-Describes the \`\`\` ErrorSheetWhen \`\`\` feature options.
+Describes the  ErrorSheetWhen  feature options.
+
 ## Fields
 
 | Field | Description |

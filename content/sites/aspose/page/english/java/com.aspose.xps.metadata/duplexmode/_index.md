@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class Duplex.DuplexMode extends ScoredProperty
 ```
 
-Defines possible values of the \`\`\` DuplexOption \`\`\`'s \`\`\` DuplexMode \`\`\` scored property.
+Defines possible values of the  DuplexOption 's  DuplexMode  scored property.
+
 ## Fields
 
 | Field | Description |

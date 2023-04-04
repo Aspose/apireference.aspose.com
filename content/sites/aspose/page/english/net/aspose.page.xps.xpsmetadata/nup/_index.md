@@ -3,7 +3,7 @@ title: NUp
 second_title: Aspose.Page for .NET API Reference
 description: The base class for JobNUpAllDocumentsContiguously./jobnupalldocumentscontiguously and DocumentNUp./documentnup features classes.
 type: docs
-weight: 1540
+weight: 1600
 url: /net/aspose.page.xps.xpsmetadata/nup/
 ---
 ## NUp class

@@ -3,7 +3,7 @@ title: PdfDevice
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating image composing device.
 type: docs
-weight: 340
+weight: 400
 url: /net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

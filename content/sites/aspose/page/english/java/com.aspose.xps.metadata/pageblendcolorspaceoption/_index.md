@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageBlendColorSpace.PageBlendColorSpaceOption extends Option
 ```
 
-Describes the \`\`\` PageBlendColorSpace \`\`\` feature options.
+Describes the  PageBlendColorSpace  feature options.
+
 ## Fields
 
 | Field | Description |

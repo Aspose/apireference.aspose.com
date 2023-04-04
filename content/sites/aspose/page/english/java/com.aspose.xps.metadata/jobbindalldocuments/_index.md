@@ -15,7 +15,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class JobBindAllDocuments extends Feature implements IJobPrintTicketItem
 ```
 
-Describes the method of binding. All documents in the job are bound together. \`\`\` JobBindAllDocuments \`\`\` and \`\`\` DocumentBinding \`\`\` are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobbindalldocuments
+Describes the method of binding. All documents in the job are bound together.  JobBindAllDocuments  and  DocumentBinding  are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobbindalldocuments
 ## Constructors
 
 | Constructor | Description |

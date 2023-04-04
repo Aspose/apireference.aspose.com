@@ -3,7 +3,7 @@ title: JobNUpAllDocumentsContiguously
 second_title: Aspose.Page for .NET API Reference
 description: Describes the output of multiple logical pages to a single physical sheet. All documents in the job are compiled together contiguously. JobNUpAllDocumentsContiguously./jobnupalldocumentscontiguously and DocumentNUp./documentnup are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1320
+weight: 1380
 url: /net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

@@ -3,7 +3,7 @@ title: PageMediaSize
 second_title: Aspose.Page for .NET API Reference
 description: Describes the physical media dimensions used for the output. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasize
 type: docs
-weight: 1990
+weight: 2050
 url: /net/aspose.page.xps.xpsmetadata/pagemediasize/
 ---
 ## PageMediaSize class

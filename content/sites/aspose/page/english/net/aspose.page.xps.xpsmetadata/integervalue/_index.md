@@ -3,7 +3,7 @@ title: IntegerValue
 second_title: Aspose.Page for .NET API Reference
 description: The class that incapsulates an Integer value in a PrintTicket document.
 type: docs
-weight: 1060
+weight: 1120
 url: /net/aspose.page.xps.xpsmetadata/integervalue/
 ---
 ## IntegerValue class

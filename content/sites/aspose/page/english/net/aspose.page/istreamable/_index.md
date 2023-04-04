@@ -3,7 +3,7 @@ title: IStreamable
 second_title: Aspose.Page for .NET API Reference
 description: This interface is used for dervices that renders document to a stream.
 type: docs
-weight: 190
+weight: 250
 url: /net/aspose.page/istreamable/
 ---
 ## IStreamable interface

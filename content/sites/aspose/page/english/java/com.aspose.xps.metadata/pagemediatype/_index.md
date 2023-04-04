@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageMediaType extends Feature implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Describes the \`\`\` MediaType \`\`\` options and the characteristics of each option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediatype
+Describes the  MediaType  options and the characteristics of each option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediatype
+
 ## Constructors
 
 | Constructor | Description |

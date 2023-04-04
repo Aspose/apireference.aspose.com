@@ -3,7 +3,7 @@ title: JobRollCutAtEndOfJob
 second_title: Aspose.Page for .NET API Reference
 description: Describes the cutting method for roll paper. The roll should be cut at the end of the job. https//docs.microsoft.com/enus/windows/win32/printdocs/jobrollcutatendofjob
 type: docs
-weight: 1510
+weight: 1570
 url: /net/aspose.page.xps.xpsmetadata/jobrollcutatendofjob/
 ---
 ## JobRollCutAtEndOfJob class

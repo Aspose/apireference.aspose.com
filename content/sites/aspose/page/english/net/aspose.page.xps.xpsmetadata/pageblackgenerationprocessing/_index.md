@@ -3,7 +3,7 @@ title: PageBlackGenerationProcessing
 second_title: Aspose.Page for .NET API Reference
 description: Specifies black generation behavior for CMYK separations. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessing
 type: docs
-weight: 1650
+weight: 1710
 url: /net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing/
 ---
 ## PageBlackGenerationProcessing class

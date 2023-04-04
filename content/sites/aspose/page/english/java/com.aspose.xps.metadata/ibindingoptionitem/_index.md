@@ -12,4 +12,5 @@ url: /java/com.aspose.xps.metadata/jobbindalldocuments.ibindingoptionitem/
 public static interface JobBindAllDocuments.IBindingOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` BindingOption \`\`\` item.
+The interface of any  BindingOption  item.
+

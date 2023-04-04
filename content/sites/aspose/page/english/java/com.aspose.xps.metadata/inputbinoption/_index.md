@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class InputBin.InputBinOption extends Option implements InputBin.IInputBinItem
 ```
 
-Describes the \`\`\` JobInputBin \`\`\`, \`\`\` DocumentInputBin \`\`\` and \`\`\` PageInputBin \`\`\` features options.
+Describes the  JobInputBin ,  DocumentInputBin  and  PageInputBin  features options.
+
 ## Constructors
 
 | Constructor | Description |
@@ -35,9 +36,9 @@ Describes the \`\`\` JobInputBin \`\`\`, \`\`\` DocumentInputBin \`\`\` and \`\`
 
 | Method | Description |
 | --- | --- |
-| [add(InputBin.IInputBinOptionItem[] items)](#add-com.aspose.xps.metadata.InputBin.IInputBinOptionItem...-) | Adds an array of \`\`\` IInputBinOptionItem \`\`\` instances to the option. |
-| [setMediaCapacity(int mediaCapacity)](#setMediaCapacity-int-) | Sets a \`\`\` MediaCapacity \`\`\` scored property value. |
-| [setMediaSheetCapacity(int mediaSheetCapacity)](#setMediaSheetCapacity-int-) | Sets a \`\`\` MediaSheetCapacity \`\`\` scored property value. |
+| [add(InputBin.IInputBinOptionItem[] items)](#add-com.aspose.xps.metadata.InputBin.IInputBinOptionItem...-) | Adds an array of  IInputBinOptionItem  instances to the option. |
+| [setMediaCapacity(int mediaCapacity)](#setMediaCapacity-int-) | Sets a  MediaCapacity  scored property value. |
+| [setMediaSheetCapacity(int mediaSheetCapacity)](#setMediaSheetCapacity-int-) | Sets a  MediaSheetCapacity  scored property value. |
 | [clone()](#clone--) | Clones this option instance. |
 ### InputBinOption(String optionName, InputBin.IInputBinOptionItem[] items) {#InputBinOption-java.lang.String-com.aspose.xps.metadata.InputBin.IInputBinOptionItem...-}
 ```
@@ -51,7 +52,7 @@ Creates a new instance.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | optionName | java.lang.String | An options name. |
-| items | com.aspose.xps.metadata.InputBin.IInputBinOptionItem[] | An arbitrary array of \`\`\` IInputBinOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.InputBin.IInputBinOptionItem[] | An arbitrary array of  IInputBinOptionItem  instances. |
 
 ### InputBinOption(InputBin.InputBinOption option) {#InputBinOption-com.aspose.xps.metadata.InputBin.InputBinOption-}
 ```
@@ -111,13 +112,12 @@ Device Input tray for Inkjet Printers.
 public InputBin.InputBinOption add(InputBin.IInputBinOptionItem[] items)
 ```
 
-
-Adds an array of \`\`\` IInputBinOptionItem \`\`\` instances to the option.
+Adds an array of  IInputBinOptionItem  instances to the option.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.xps.metadata.InputBin.IInputBinOptionItem[] | An arbitrary array of \`\`\` IInputBinOptionItem \`\`\` instances. |
+| items | com.aspose.xps.metadata.InputBin.IInputBinOptionItem[] | An arbitrary array of  IInputBinOptionItem  instances. |
 
 **Returns:**
 [InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - This options instance.
@@ -126,13 +126,12 @@ Adds an array of \`\`\` IInputBinOptionItem \`\`\` instances to the option.
 public InputBin.InputBinOption setMediaCapacity(int mediaCapacity)
 ```
 
-
-Sets a \`\`\` MediaCapacity \`\`\` scored property value.
+Sets a  MediaCapacity  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mediaCapacity | int | A \`\`\` MediaCapacity \`\`\` scored property value. |
+| mediaCapacity | int | A  MediaCapacity  scored property value. |
 
 **Returns:**
 [InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - This option instance.
@@ -141,13 +140,12 @@ Sets a \`\`\` MediaCapacity \`\`\` scored property value.
 public InputBin.InputBinOption setMediaSheetCapacity(int mediaSheetCapacity)
 ```
 
-
-Sets a \`\`\` MediaSheetCapacity \`\`\` scored property value.
+Sets a  MediaSheetCapacity  scored property value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mediaSheetCapacity | int | A \`\`\` MediaSheetCapacity \`\`\` scored property value. |
+| mediaSheetCapacity | int | A  MediaSheetCapacity  scored property value. |
 
 **Returns:**
 [InputBinOption](../../com.aspose.xps.metadata/inputbinoption) - This option instance.

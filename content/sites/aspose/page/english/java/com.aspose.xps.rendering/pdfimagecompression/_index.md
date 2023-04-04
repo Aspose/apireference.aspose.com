@@ -68,7 +68,7 @@ public static final PdfImageCompression LzwBaselinePredictor
 ```
 
 
-Predictor selection is restricted to PNG Paeth predictor to speed-up the process. In practice performs surprisingly good. Better than \`\`\` LzwOptimizedPredictor \`\`\`.
+Predictor selection is restricted to PNG Paeth predictor to speed-up the process. In practice performs surprisingly good. Better than  LzwOptimizedPredictor .
 
 ### LzwOptimizedPredictor {#LzwOptimizedPredictor}
 ```

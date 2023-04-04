@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public abstract class NUp extends Feature
 ```
 
-The base class for \`\`\` JobNUpAllDocumentsContiguously \`\`\` and \`\`\` DocumentNUp \`\`\` features classes.
+The base class for  JobNUpAllDocumentsContiguously  and  DocumentNUp  features classes.

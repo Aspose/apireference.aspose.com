@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageTrueTypeFontMode.PageTrueTypeFontModeOption extends Option
 ```
 
-Describes the \`\`\` PageTrueTypeFontMode \`\`\` feature options.
+Describes the  PageTrueTypeFontMode  feature options.
+
 ## Fields
 
 | Field | Description |

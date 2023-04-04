@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public abstract class Duplex extends Feature
 ```
 
-The base class for \`\`\` JobDuplexAllDocumentsContiguously \`\`\` and \`\`\` DocumentDuplex \`\`\` features classes.
+The base class for  JobDuplexAllDocumentsContiguously  and  DocumentDuplex  features classes.

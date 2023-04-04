@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class NUp.PresentationDirection.PresentationDirectionOption extends Option
 ```
 
-Describes the \`\`\` PresentationDirection \`\`\` feature options.
+Describes the  PresentationDirection  feature options.
+
 ## Fields
 
 | Field | Description |

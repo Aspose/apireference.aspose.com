@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.Page for Java API Reference
 description: This enumeration contains possible names of image formats that supported by PS/EPS to Image conversion.
 type: docs
-weight: 13
+weight: 18
 url: /java/com.aspose.eps/imageformat/
 ---
 **Inheritance:**
@@ -20,6 +20,7 @@ This enumeration contains possible names of image formats that supported by PS/E
 | [BMP](#BMP) | BMP image format. |
 | [JPEG](#JPEG) | JPEG image format. |
 | [PNG](#PNG) | PNG image format. |
+| [GIF](#GIF) | GIF image format. |
 ## Methods
 
 | Method | Description |
@@ -49,6 +50,14 @@ public static final ImageFormat PNG
 
 
 PNG image format.
+
+### GIF {#GIF}
+```
+public static final ImageFormat GIF
+```
+
+
+GIF image format.
 
 ### values() {#values--}
 ```

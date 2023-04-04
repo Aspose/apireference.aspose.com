@@ -3,7 +3,7 @@ title: JobInputBin
 second_title: Aspose.Page for .NET API Reference
 description: Describes the installed input bin in a device or the full list of supported bins for a device. Allows specification of input bin on a per job basis. The JobInputBin./jobinputbin DocumentInputBin./documentinputbin and PageInputBin./pageinputbin keywords are mutually exclusive. Both should not be specified simultaneously in a PrintTicket or Print Capabilities document. https//docs.microsoft.com/enus/windows/win32/printdocs/jobinputbin
 type: docs
-weight: 1310
+weight: 1370
 url: /net/aspose.page.xps.xpsmetadata/jobinputbin/
 ---
 ## JobInputBin class

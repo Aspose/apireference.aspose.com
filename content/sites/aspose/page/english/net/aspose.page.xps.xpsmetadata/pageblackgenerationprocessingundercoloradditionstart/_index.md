@@ -3,7 +3,7 @@ title: PageBlackGenerationProcessingUnderColorAdditionStart
 second_title: Aspose.Page for .NET API Reference
 description: Describes the shadow level below which UCA will be applied. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingundercoloradditionstart
 type: docs
-weight: 1730
+weight: 1790
 url: /net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionstart/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionStart class

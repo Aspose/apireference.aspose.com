@@ -12,7 +12,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class Duplex.DuplexOption extends Option
 ```
 
-Describes the \`\`\` JobDuplexAllDocumentsContiguously \`\`\` and \`\`\` DocumentDuplex \`\`\` features options.
+Describes the  JobDuplexAllDocumentsContiguously  and  DocumentDuplex  features options.
+
 ## Fields
 
 | Field | Description |
@@ -22,8 +23,9 @@ Describes the \`\`\` JobDuplexAllDocumentsContiguously \`\`\` and \`\`\` Documen
 
 | Method | Description |
 | --- | --- |
-| [twoSidedShortEdge(Duplex.DuplexMode duplexMode)](#twoSidedShortEdge-com.aspose.xps.metadata.Duplex.DuplexMode-) | Specifies two sided printing such that the page is flipped parallel to the \`\`\` MediaSizeWidth \`\`\` direction. |
-| [twoSidedLongEdge(Duplex.DuplexMode duplexMode)](#twoSidedLongEdge-com.aspose.xps.metadata.Duplex.DuplexMode-) | Specifies two sided printing such that the page is flipped parallel to the \`\`\` MediaSizeHeight \`\`\` direction. |
+| [twoSidedShortEdge(Duplex.DuplexMode duplexMode)](#twoSidedShortEdge-com.aspose.xps.metadata.Duplex.DuplexMode-) | Specifies two sided printing such that the page is flipped parallel to the  MediaSizeWidth  direction. |
+| [twoSidedLongEdge(Duplex.DuplexMode duplexMode)](#twoSidedLongEdge-com.aspose.xps.metadata.Duplex.DuplexMode-) | Specifies two sided printing such that the page is flipped parallel to the  MediaSizeHeight  direction. |
+
 ### OneSided {#OneSided}
 ```
 public static Duplex.DuplexOption OneSided
@@ -37,13 +39,14 @@ Specifies one sided printing.
 public static Duplex.DuplexOption twoSidedShortEdge(Duplex.DuplexMode duplexMode)
 ```
 
+Specifies two sided printing such that the page is flipped parallel to the  MediaSizeWidth  direction.
 
-Specifies two sided printing such that the page is flipped parallel to the \`\`\` MediaSizeWidth \`\`\` direction.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| duplexMode | [DuplexMode](../../com.aspose.xps.metadata/duplexmode) | The \`\`\` DuplexMode \`\`\` |
+| duplexMode | [DuplexMode](../../com.aspose.xps.metadata/duplexmode) | The  DuplexMode  |
+
 
 **Returns:**
 [DuplexOption](../../com.aspose.xps.metadata/duplexoption) - The
@@ -58,13 +61,13 @@ option.
 public static Duplex.DuplexOption twoSidedLongEdge(Duplex.DuplexMode duplexMode)
 ```
 
+Specifies two sided printing such that the page is flipped parallel to the  MediaSizeHeight  direction.
 
-Specifies two sided printing such that the page is flipped parallel to the \`\`\` MediaSizeHeight \`\`\` direction.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| duplexMode | [DuplexMode](../../com.aspose.xps.metadata/duplexmode) | The \`\`\` DuplexMode \`\`\` |
+| duplexMode | [DuplexMode](../../com.aspose.xps.metadata/duplexmode) | The  DuplexMode  |
 
 **Returns:**
-[DuplexOption](../../com.aspose.xps.metadata/duplexoption) - The \`\`\` Duplex \`\`\` option.
+[DuplexOption](../../com.aspose.xps.metadata/duplexoption) - The  Duplex  option.

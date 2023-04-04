@@ -12,4 +12,5 @@ url: /java/com.aspose.xps.metadata/pagewatermark.ipagewatermarkitem/
 public static interface PageWatermark.IPageWatermarkItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` PageWatermark \`\`\` feature item.
+The interface of any  PageWatermark  feature item.
+

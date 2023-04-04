@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public class URIProperty extends Property
 ```
 
-The base class for \`\`\` JobURI \`\`\` and \`\`\` DocumentURI \`\`\` properties classes.
+The base class for  JobURI  and  DocumentURI  properties classes.

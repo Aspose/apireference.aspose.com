@@ -3,7 +3,7 @@ title: PsConverterException
 second_title: Aspose.Page for .NET API Reference
 description: This class contains information about an error that is thrown while PS file is converted to PDF document.
 type: docs
-weight: 90
+weight: 130
 url: /net/aspose.page.eps/psconverterexception/
 ---
 ## PsConverterException class
@@ -18,7 +18,8 @@ public class PsConverterException : Exception
 
 | Name | Description |
 | --- | --- |
-| [PsConverterException](psconverterexception)(string) | Initializes a new instance of the [`PsConverterException`](../psconverterexception) class. |
+| [PsConverterException](psconverterexception#constructor)() | Initializes a new instance of the [`PsConverterException`](../psconverterexception) class. |
+| [PsConverterException](psconverterexception#constructor_1)(string) | Initializes a new instance of the [`PsConverterException`](../psconverterexception) class. |
 
 ### See Also
 

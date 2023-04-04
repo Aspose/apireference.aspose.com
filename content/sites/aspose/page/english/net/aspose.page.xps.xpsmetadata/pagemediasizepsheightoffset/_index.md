@@ -3,7 +3,7 @@ title: PageMediaSizePSHeightOffset
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the offset parallel to the feedorientation direction. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheightoffset
 type: docs
-weight: 2060
+weight: 2120
 url: /net/aspose.page.xps.xpsmetadata/pagemediasizepsheightoffset/
 ---
 ## PageMediaSizePSHeightOffset class

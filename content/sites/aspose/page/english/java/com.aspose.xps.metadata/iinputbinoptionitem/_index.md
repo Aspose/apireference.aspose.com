@@ -12,4 +12,5 @@ url: /java/com.aspose.xps.metadata/inputbin.iinputbinoptionitem/
 public static interface InputBin.IInputBinOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` InputBinOption \`\`\` item.
+The interface of any  InputBinOption  item.
+

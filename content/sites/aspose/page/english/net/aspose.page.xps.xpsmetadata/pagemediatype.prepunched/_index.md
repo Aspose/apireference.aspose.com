@@ -3,7 +3,7 @@ title: PageMediaType.PrePunched
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 2180
+weight: 2240
 url: /net/aspose.page.xps.xpsmetadata/pagemediatype.prepunched/
 ---
 ## PageMediaType.PrePunched class

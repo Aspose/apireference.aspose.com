@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageBlackGenerationProcessing.PageBlackGenerationProcessingOption extends Option
 ```
 
-Describes the \`\`\` PageBlackGenerationProcessing \`\`\` feature options.
+Describes the  PageBlackGenerationProcessing  feature options.
 ## Fields
 
 | Field | Description |

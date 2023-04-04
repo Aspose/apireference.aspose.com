@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pagemediatype.ipagemediatypeoptionitem/
 public static interface PageMediaType.IPageMediaTypeOptionItem extends IOptionItem
 ```
 
-The interface of any \`\`\` PageMediaType \`\`\` item.
+The interface of any  PageMediaType  item.

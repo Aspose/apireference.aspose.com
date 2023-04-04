@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobErrorSheet.ErrorSheetOption extends Option implements JobErrorSheet.IJobErrorSheetItem
 ```
 
-Describes the \`\`\` JobErrorSheet \`\`\` feature options.
+Describes the  JobErrorSheet  feature options.
+
 ## Fields
 
 | Field | Description |
@@ -28,8 +29,8 @@ Describes the \`\`\` JobErrorSheet \`\`\` feature options.
 public JobErrorSheet.ErrorSheetOption Custom
 ```
 
+Specifies a custom error sheet should be output. If a  JobErrorSheetSource   ParameterInit  element is not specified, this Option should be ignored.
 
-Specifies a custom error sheet should be output. If a \`\`\` JobErrorSheetSource \`\`\` \`\`\` ParameterInit \`\`\` element is not specified, this Option should be ignored.
 
 ### None {#None}
 ```

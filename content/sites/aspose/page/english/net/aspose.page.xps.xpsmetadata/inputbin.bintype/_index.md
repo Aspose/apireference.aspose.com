@@ -3,7 +3,7 @@ title: InputBin.BinType
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 950
+weight: 1010
 url: /net/aspose.page.xps.xpsmetadata/inputbin.bintype/
 ---
 ## InputBin.BinType class

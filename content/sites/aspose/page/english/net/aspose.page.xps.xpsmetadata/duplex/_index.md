@@ -3,7 +3,7 @@ title: Duplex
 second_title: Aspose.Page for .NET API Reference
 description: The base class for JobDuplexAllDocumentsContiguously./jobduplexalldocumentscontiguously and DocumentDuplex./documentduplex features classes.
 type: docs
-weight: 780
+weight: 840
 url: /net/aspose.page.xps.xpsmetadata/duplex/
 ---
 ## Duplex class

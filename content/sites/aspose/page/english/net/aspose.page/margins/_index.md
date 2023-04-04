@@ -3,7 +3,7 @@ title: Margins
 second_title: Aspose.Page for .NET API Reference
 description: This class encapsulates top left bottom and right margins.
 type: docs
-weight: 220
+weight: 280
 url: /net/aspose.page/margins/
 ---
 ## Margins class

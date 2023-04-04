@@ -3,7 +3,7 @@ title: PageDestinationColorProfile.PageDestinationColorProfileOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the PageDestinationColorProfile./pagedestinationcolorprofile feature options.
 type: docs
-weight: 1830
+weight: 1890
 url: /net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile.pagedestinationcolorprofileoption/
 ---
 ## PageDestinationColorProfile.PageDestinationColorProfileOption class

@@ -12,4 +12,4 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public abstract class HolePunch extends Feature
 ```
 
-The base class for \`\`\` JobHolePunch \`\`\` and \`\`\` DocumentHolePunch \`\`\` features classes.
+The base class for  JobHolePunch  and  DocumentHolePunch  features classes.

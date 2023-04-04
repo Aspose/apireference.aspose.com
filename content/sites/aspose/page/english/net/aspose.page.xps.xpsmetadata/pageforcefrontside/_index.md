@@ -3,7 +3,7 @@ title: PageForceFrontSide
 second_title: Aspose.Page for .NET API Reference
 description: Forces the output to appear on the front of a media sheet. Relevant to media sheets with different surfaces on each side. In cases where this feature interferes with processing options such as DocumentDuplex./documentduplex
 type: docs
-weight: 1910
+weight: 1970
 url: /net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

@@ -3,7 +3,7 @@ title: ITrFont
 second_title: Aspose.Page for .NET API Reference
 description: This interface give access to main parameters of font.
 type: docs
-weight: 200
+weight: 260
 url: /net/aspose.page/itrfont/
 ---
 ## ITrFont interface

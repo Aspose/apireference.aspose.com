@@ -3,7 +3,7 @@ title: JobDeviceLanguage.IJobDeviceLanguageOptionItem
 second_title: Aspose.Page for .NET API Reference
 description: The interface of any JobDeviceLanguageOption./jobdevicelanguage.jobdevicelanguageoption item.
 type: docs
-weight: 1180
+weight: 1240
 url: /net/aspose.page.xps.xpsmetadata/jobdevicelanguage.ijobdevicelanguageoptionitem/
 ---
 ## JobDeviceLanguage.IJobDeviceLanguageOptionItem interface

@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageWatermarkTextAngle extends IntegerParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Specifies the angle of the watermark text relative to the \`\`\` PageImageableSizeWidth \`\`\` direction. The angle is measured in the counter-clockwise direction. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermarktextangle
+Specifies the angle of the watermark text relative to the  PageImageableSizeWidth  direction. The angle is measured in the counter-clockwise direction. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermarktextangle
+
 ## Constructors
 
 | Constructor | Description |

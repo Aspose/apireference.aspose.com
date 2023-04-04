@@ -12,4 +12,4 @@ url: /java/com.aspose.xps.metadata/pagescaling.ipagescalingitem/
 public static interface PageScaling.IPageScalingItem extends IFeatureItem
 ```
 
-The interface of any \`\`\` PageScaling \`\`\` feature item.
+The interface of any  PageScaling  feature item.

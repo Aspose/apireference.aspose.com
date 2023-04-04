@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class JobErrorSheet.ErrorSheetWhen extends Feature implements JobErrorSheet.IJobErrorSheetItem
 ```
 
-Describes inner \`\`\` ErrorSheetWhen \`\`\` feature.
+Describes inner  ErrorSheetWhen  feature.
+
 ## Constructors
 
 | Constructor | Description |

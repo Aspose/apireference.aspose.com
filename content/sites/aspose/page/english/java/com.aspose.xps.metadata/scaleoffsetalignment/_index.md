@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageScaling.ScaleOffsetAlignment extends Feature implements PageScaling.IPageScalingItem
 ```
 
-Describes inner \`\`\` ScaleOffsetAlignment \`\`\` feature.
+Describes inner  ScaleOffsetAlignment  feature.
+
 ## Constructors
 
 | Constructor | Description |

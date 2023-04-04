@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public final class PageScalingOffsetWidth extends IntegerParameterInit implements IJobPrintTicketItem, IDocumentPrintTicketItem, IPagePrintTicketItem
 ```
 
-Specifies the scaling offset in the \`\`\` ImageableSizeWidth \`\`\` direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingoffsetwidth
+Specifies the scaling offset in the  ImageableSizeWidth  direction for custom scaling. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagescalingoffsetwidth
+
 ## Constructors
 
 | Constructor | Description |

@@ -15,7 +15,8 @@ java.lang.Object, [com.aspose.xps.metadata.PrintTicketElement](../../com.aspose.
 public static final class PageMediaType.Recycled extends ScoredProperty implements PageMediaType.IPageMediaTypeOptionItem
 ```
 
-Defines constants for the \`\`\` Recycled \`\`\` scored property value.
+Defines constants for the  Recycled  scored property value.
+
 ## Fields
 
 | Field | Description |
