@@ -3,7 +3,7 @@ title: PlatformId
 second_title: Aspose.Font for Java API Reference
 description: Represents PlatformId enumeration.
 type: docs
-weight: 116
+weight: 117
 url: /java/com.aspose.font/platformid/
 ---
 **Inheritance:**

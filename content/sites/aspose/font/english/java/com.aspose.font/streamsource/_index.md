@@ -3,7 +3,7 @@ title: StreamSource
 second_title: Aspose.Font for Java API Reference
 description: Defines a way to get a file stream when it is needed.
 type: docs
-weight: 57
+weight: 58
 url: /java/com.aspose.font/streamsource/
 ---
 **Inheritance:**

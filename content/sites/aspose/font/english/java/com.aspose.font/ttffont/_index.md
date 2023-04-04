@@ -3,7 +3,7 @@ title: TtfFont
 second_title: Aspose.Font for Java API Reference
 description: Represents TrueType Font TTF.
 type: docs
-weight: 74
+weight: 75
 url: /java/com.aspose.font/ttffont/
 ---
 **Inheritance:**
@@ -44,6 +44,7 @@ Represents TrueType Font (TTF).
 | [getGlyphComponentsById(long id, GlyphIdList componentsToPopulate)](#getGlyphComponentsById-long-com.aspose.font.GlyphIdList-) | Gets a glyph by glyph index passed and fills passed list of glyph identifiers with components of this glyph. |
 | [getGlyphsForText(String text)](#getGlyphsForText-java.lang.String-) | Get glyphs representation for text. |
 | [convert(FontType fontType)](#convert-com.aspose.font.FontType-) | Converts the Font into another format. |
+| [convert(FontType fontType, Collection<Long> limitingCharacterSet)](#convert-com.aspose.font.FontType-java.util.Collection-java.lang.Long--) | Converts the Font into another format with limiting character set  *Note: TTF Font type is now supported only.* |
 ### getTtfTables() {#getTtfTables--}
 ```
 public TtfTableRepository getTtfTables()
@@ -369,6 +370,22 @@ Converts the Font into another format. Note: TTF Font type is now supported only
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fontType | [FontType](../../com.aspose.font/fonttype) | Font format type to convert into. |
+
+**Returns:**
+[Font](../../com.aspose.font/font) - Font converted into new format.
+### convert(FontType fontType, Collection<Long> limitingCharacterSet) {#convert-com.aspose.font.FontType-java.util.Collection-java.lang.Long--}
+```
+public Font convert(FontType fontType, Collection<Long> limitingCharacterSet)
+```
+
+
+Converts the Font into another format with limiting character set  *Note: TTF Font type is now supported only.*
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontType | [FontType](../../com.aspose.font/fonttype) | Font format type to convert into. |
+| limitingCharacterSet | java.util.Collection<java.lang.Long> | Limiting character set. |
 
 **Returns:**
 [Font](../../com.aspose.font/font) - Font converted into new format.
