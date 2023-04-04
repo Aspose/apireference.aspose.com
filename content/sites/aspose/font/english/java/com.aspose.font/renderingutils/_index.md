@@ -17,10 +17,10 @@ Provides utility methods for rendering.
 
 | Method | Description |
 | --- | --- |
-| [DrawText(Font font, String text, double fontSize)](#DrawText-com.aspose.font.Font-java.lang.String-double-) | Rendering text in BitMap. |
-### DrawText(Font font, String text, double fontSize) {#DrawText-com.aspose.font.Font-java.lang.String-double-}
+| [drawText(Font font, String text, double fontSize)](#drawText-com.aspose.font.Font-java.lang.String-double-) | Rendering text in BitMap. |
+### drawText(Font font, String text, double fontSize) {#drawText-com.aspose.font.Font-java.lang.String-double-}
 ```
-public static InputStream DrawText(Font font, String text, double fontSize)
+public static InputStream drawText(Font font, String text, double fontSize)
 ```
 
 
