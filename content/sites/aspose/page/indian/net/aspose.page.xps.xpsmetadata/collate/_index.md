@@ -1,0 +1,41 @@
+---
+title: Class Collate
+second_title: .NET API संदर्भ के लिए Aspose.Page
+description: Aspose.Page.XPS.XpsMetadata.Collate कक्ष. के लए आधर वर्गDocumentCollate औरJobCollateAllDocuments सुवधओं क कक्षएं.
+type: docs
+weight: 490
+url: /hi/net/aspose.page.xps.xpsmetadata/collate/
+---
+## Collate class
+
+के लिए आधार वर्ग[`DocumentCollate`](../documentcollate/) और[`JobCollateAllDocuments`](../jobcollatealldocuments/) सुविधाओं की कक्षाएं.
+
+```csharp
+public abstract class Collate : Feature
+```
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | तत्व का नाम प्राप्त करता है। |
+
+## तरीकों
+
+| नाम | विवरण |
+| --- | --- |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | इस सुविधा की आइटम सूची के अंत में आइटम की सूची जोड़ता है। प्रत्येक एक होना चाहिए[`Feature`](../feature/) , एक[`Option`](../option/) या ए[`Property`](../property/) उदाहरण. |
+
+## अन्य सदस्य
+
+| नाम | विवरण |
+| --- | --- |
+| class [CollateOption](collate.collateoption/) | का वर्णन करता है[`DocumentCollate`](../documentcollate/) और[`JobCollateAllDocuments`](../jobcollatealldocuments/) सुविधाएँ विकल्प. |
+
+### यह सभी देखें
+
+* class [Feature](../feature/)
+* नाम स्थान [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
+* सभा [Aspose.Page](../../)
+
+

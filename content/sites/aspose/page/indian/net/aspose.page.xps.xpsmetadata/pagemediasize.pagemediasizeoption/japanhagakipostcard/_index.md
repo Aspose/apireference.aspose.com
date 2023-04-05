@@ -1,0 +1,23 @@
+---
+title: PageMediaSize.PageMediaSizeOption.JapanHagakiPostcard
+second_title: .NET API संदर्भ के लिए Aspose.Page
+description: PageMediaSizeOption मैदन. जपन हगक पस्टकर्ड
+type: docs
+weight: 610
+url: /hi/net/aspose.page.xps.xpsmetadata/pagemediasize.pagemediasizeoption/japanhagakipostcard/
+---
+## PageMediaSize.PageMediaSizeOption.JapanHagakiPostcard field
+
+जापान हगाकी पोस्टकार्ड
+
+```csharp
+public static PageMediaSizeOption JapanHagakiPostcard;
+```
+
+### यह सभी देखें
+
+* class [PageMediaSizeOption](../)
+* नाम स्थान [Aspose.Page.XPS.XpsMetadata](../../pagemediasize.pagemediasizeoption/)
+* सभा [Aspose.Page](../../../)
+
+

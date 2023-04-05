@@ -1,0 +1,23 @@
+---
+title: PageMediaSize.PageMediaSizeOption.ISOB8
+second_title: Aspose.Page for .NET API リファレンス
+description: PageMediaSizeOption 分野. ISOB8
+type: docs
+weight: 330
+url: /ja/net/aspose.page.xps.xpsmetadata/pagemediasize.pagemediasizeoption/isob8/
+---
+## PageMediaSize.PageMediaSizeOption.ISOB8 field
+
+ISOB8
+
+```csharp
+public static PageMediaSizeOption ISOB8;
+```
+
+### 関連項目
+
+* class [PageMediaSizeOption](../)
+* 名前空間 [Aspose.Page.XPS.XpsMetadata](../../pagemediasize.pagemediasizeoption/)
+* 組み立て [Aspose.Page](../../../)
+
+

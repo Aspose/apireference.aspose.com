@@ -1,0 +1,27 @@
+---
+title: PageBlendColorSpaceICCProfileURI.PageBlendColorSpaceICCProfileURI
+second_title: Aspose.Page for .NET API リファレンス
+description: PageBlendColorSpaceICCProfileURI コンストラクタ. 新しいインスタンスを作成します
+type: docs
+weight: 10
+url: /ja/net/aspose.page.xps.xpsmetadata/pageblendcolorspaceiccprofileuri/pageblendcolorspaceiccprofileuri/
+---
+## PageBlendColorSpaceICCProfileURI constructor
+
+新しいインスタンスを作成します。
+
+```csharp
+public PageBlendColorSpaceICCProfileURI(string value)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| value | String | パラメータ値。 |
+
+### 関連項目
+
+* class [PageBlendColorSpaceICCProfileURI](../)
+* 名前空間 [Aspose.Page.XPS.XpsMetadata](../../pageblendcolorspaceiccprofileuri/)
+* 組み立て [Aspose.Page](../../../)
+
+

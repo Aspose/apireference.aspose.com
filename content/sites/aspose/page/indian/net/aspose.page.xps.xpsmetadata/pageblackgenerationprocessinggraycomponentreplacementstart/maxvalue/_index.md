@@ -1,0 +1,23 @@
+---
+title: PageBlackGenerationProcessingGrayComponentReplacementStart.MaxValue
+second_title: .NET API संदर्भ के लिए Aspose.Page
+description: PageBlackGenerationProcessingGrayComponentReplacementStart संपत्त. पूर्णंक य दशमलवमन वले पैरमटर के लए सबसे बड़े अनुमत मन क परभषत करत है
+type: docs
+weight: 20
+url: /hi/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementstart/maxvalue/
+---
+## PageBlackGenerationProcessingGrayComponentReplacementStart.MaxValue property
+
+पूर्णांक- या दशमलव-मान वाले पैरामीटर के लिए, सबसे बड़े अनुमत मान को परिभाषित करता है।
+
+```csharp
+public override int MaxValue { get; }
+```
+
+### यह सभी देखें
+
+* class [PageBlackGenerationProcessingGrayComponentReplacementStart](../)
+* नाम स्थान [Aspose.Page.XPS.XpsMetadata](../../pageblackgenerationprocessinggraycomponentreplacementstart/)
+* सभा [Aspose.Page](../../../)
+
+

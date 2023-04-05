@@ -1,0 +1,53 @@
+---
+title: Class PageOutputColor
+second_title: .NET API संदर्भ के लिए Aspose.Page
+description: Aspose.Page.XPS.XpsMetadata.PageOutputColor कक्ष. आउटपुट के लए रंग सेटंग्स क वशेषतओं क वर्णन करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputcolor
+type: docs
+weight: 2330
+url: /hi/net/aspose.page.xps.xpsmetadata/pageoutputcolor/
+---
+## PageOutputColor class
+
+आउटपुट के लिए रंग सेटिंग्स की विशेषताओं का वर्णन करता है। https://docs.microsoft.com/en-us/windows/win32/printdocs/pageoutputcolor
+
+```csharp
+public sealed class PageOutputColor : Feature, IDocumentPrintTicketItem, IJobPrintTicketItem, 
+    IPagePrintTicketItem
+```
+
+## कंस्ट्रक्टर्स
+
+| नाम | विवरण |
+| --- | --- |
+| [PageOutputColor](pageoutputcolor/)(params IPageOutputColorItem[]) | एक नया उदाहरण बनाता है। |
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | तत्व का नाम प्राप्त करता है। |
+
+## तरीकों
+
+| नाम | विवरण |
+| --- | --- |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | इस सुविधा की आइटम सूची के अंत में आइटम की सूची जोड़ता है। प्रत्येक एक होना चाहिए[`Feature`](../feature/) , एक[`Option`](../option/) या ए[`Property`](../property/) उदाहरण. |
+
+## अन्य सदस्य
+
+| नाम | विवरण |
+| --- | --- |
+| interface [IPageOutputColorItem](pageoutputcolor.ipageoutputcoloritem/) | किसी का इंटरफ़ेस`PageOutputColor` फीचर आइटम. |
+| interface [IPageOutputColorOptionItem](pageoutputcolor.ipageoutputcoloroptionitem/) | किसी का इंटरफ़ेस[`PageOutputColorOption`](../pageoutputcolor.pageoutputcoloroption/) मद. |
+| class [PageOutputColorOption](pageoutputcolor.pageoutputcoloroption/) | का वर्णन करता है`PageOutputColor` सुविधा विकल्प. |
+
+### यह सभी देखें
+
+* class [Feature](../feature/)
+* interface [IDocumentPrintTicketItem](../idocumentprintticketitem/)
+* interface [IJobPrintTicketItem](../ijobprintticketitem/)
+* interface [IPagePrintTicketItem](../ipageprintticketitem/)
+* नाम स्थान [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
+* सभा [Aspose.Page](../../)
+
+

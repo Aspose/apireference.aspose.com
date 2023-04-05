@@ -1,0 +1,35 @@
+---
+title: DocumentNUp.AddPagesPerSheetOption
+second_title: Aspose.Page for .NET API リファレンス
+description: DocumentNUp 方法. の追加とオプションscored プロパティ値. 物理シートあたりの論理ページ数を指定します.
+type: docs
+weight: 20
+url: /ja/net/aspose.page.xps.xpsmetadata/documentnup/addpagespersheetoption/
+---
+## DocumentNUp.AddPagesPerSheetOption method
+
+の追加とオプションscored プロパティ値. 物理シートあたりの論理ページ数を指定します.
+
+```csharp
+PagesPerSheet
+```
+
+```csharp
+public DocumentNUp AddPagesPerSheetOption(int value)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| value | Int32 | あスコアリングされたプロパティ値. サポートされているセットは、整数の任意のセット (例: {1,2,4,6,8,9,16}) です。 |
+
+### 戻り値
+
+この機能インスタンス。
+
+### 関連項目
+
+* class [DocumentNUp](../)
+* 名前空間 [Aspose.Page.XPS.XpsMetadata](../../documentnup/)
+* 組み立て [Aspose.Page](../../../)
+
+

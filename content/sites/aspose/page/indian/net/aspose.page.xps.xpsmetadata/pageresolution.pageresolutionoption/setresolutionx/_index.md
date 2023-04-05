@@ -1,0 +1,35 @@
+---
+title: PageResolution.PageResolutionOption.SetResolutionX
+second_title: .NET API संदर्भ के लिए Aspose.Page
+description: PageResolutionOption तरक. सेट करत है अर्जत संपत्त मूल्य.
+type: docs
+weight: 30
+url: /hi/net/aspose.page.xps.xpsmetadata/pageresolution.pageresolutionoption/setresolutionx/
+---
+## PageResolution.PageResolutionOption.SetResolutionX method
+
+सेट करता है अर्जित संपत्ति मूल्य.
+
+```csharp
+ResolutionX
+```
+
+```csharp
+public PageResolutionOption SetResolutionX(int resolutionX)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| resolutionX | Int32 | ए अर्जित संपत्ति मूल्य। |
+
+### प्रतिलाभ की मात्रा
+
+यह विकल्प उदाहरण।
+
+### यह सभी देखें
+
+* class [PageResolutionOption](../)
+* नाम स्थान [Aspose.Page.XPS.XpsMetadata](../../pageresolution.pageresolutionoption/)
+* सभा [Aspose.Page](../../../)
+
+
