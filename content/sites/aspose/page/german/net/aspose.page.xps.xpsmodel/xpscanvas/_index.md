@@ -1,9 +1,9 @@
 ---
-title: XpsCanvas
+title: Class XpsCanvas
 second_title: Aspose.Page für .NET-API-Referenz
-description: Klasse die CanvasElementfunktionen einkapselt. Dieses Element gruppiert Elemente zusammen. Beispielsweise können Glyphen und Pfadelemente in einer Zeichenfläche gruppiert werden um als Einheit als Hyperlinkziel identifiziert zu werden oder  um einen zusammengesetzten Eigenschaftswert auf jedes untergeordnete und übergeordnete Element anzuwenden.
+description: Aspose.Page.XPS.XpsModel.XpsCanvas klas. Klasse die CanvasElementfunktionen einkapselt. Dieses Element gruppiert Elemente zusammen. Beispielsweise können Glyphen und Pfadelemente in einer Zeichenfläche gruppiert werden um als Einheit als Hyperlinkziel identifiziert zu werden oder  um einen zusammengesetzten Eigenschaftswert auf jedes untergeordnete und übergeordnete Element anzuwenden.
 type: docs
-weight: 2910
+weight: 2970
 url: /de/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class
@@ -18,34 +18,34 @@ public sealed class XpsCanvas : XpsContentElement
 
 | Name | Beschreibung |
 | --- | --- |
-| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | Gibt die Pfadgeometrieinstanz zurück/legt sie fest, die den gerenderten Bereich des Elements begrenzt. |
-| [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Gibt die Anzahl der untergeordneten Elemente zurück. |
-| [EdgeMode](../../aspose.page.xps.xpsmodel/xpscanvas/edgemode) { get; set; } | Gibt den Wert zurück/legt ihn fest, der steuert, wie Kanten von Pfaden innerhalb der Leinwand gerendert werden. |
-| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Gibt das Hyperlink-Zielobjekt zurück/legt es fest. |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Bietet Zugriff auf die untergeordneten Elemente des Elements nach Index*i* . |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | Gibt den Wert zurück/setzt ihn, der die einheitliche Transparenz des Elements definiert. |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | Gibt den Pinsel zurück/legt ihn fest und spezifiziert eine Maske aus Alpha-Werten , die auf die gleiche Weise wie das Opazitätsattribut auf das Element angewendet wird, aber unterschiedliche Alpha-Werte für verschiedene Bereiche des Elements zulässt. |
-| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | Gibt die affine Transformationsmatrix zurück/setzt sie und erstellt einen neuen Koordinatenrahmen für alle Attribute des Elements und für alle untergeordneten Elemente (sofern vorhanden). |
+| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip/) { get; set; } | Gibt die Pfadgeometrieinstanz zurück/legt sie fest, die den gerenderten Bereich des Elements begrenzt. |
+| [Count](../../aspose.page.xps.xpsmodel/xpselement/count/) { get; } | Gibt die Anzahl der untergeordneten Elemente zurück. |
+| [EdgeMode](../../aspose.page.xps.xpsmodel/xpscanvas/edgemode/) { get; set; } | Gibt den Wert zurück/legt ihn fest, der steuert, wie Kanten von Pfaden innerhalb der Leinwand gerendert werden. |
+| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget/) { get; set; } | Gibt das Hyperlink-Zielobjekt zurück/legt es fest. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item/) { get; } | Bietet Zugriff auf die untergeordneten Elemente des Elements nach Index*i* . |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity/) { get; set; } | Gibt den Wert zurück/setzt ihn, der die einheitliche Transparenz des Elements definiert. |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask/) { get; set; } | Gibt den Pinsel zurück/legt ihn fest und spezifiziert eine Maske aus Alpha-Werten , die auf die gleiche Weise wie das Opazitätsattribut auf das Element angewendet wird, aber unterschiedliche Alpha-Werte für verschiedene Bereiche des Elements zulässt. |
+| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform/) { get; set; } | Gibt die affine Transformationsmatrix zurück/setzt sie und erstellt einen neuen Koordinatenrahmen für alle Attribute des Elements und für alle untergeordneten Elemente (sofern vorhanden). |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Add&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/add)(T) | Fügt der untergeordneten Liste dieser Leinwand ein Element hinzu. |
-| [AddCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/addcanvas)() | Fügt der untergeordneten Liste dieser Leinwand eine neue Leinwand hinzu. |
-| [AddGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/addglyphs)(string, float, FontStyle, float, float, string) | Fügt der untergeordneten Liste dieser Leinwand neue Glyphen hinzu. |
-| [AddPath](../../aspose.page.xps.xpsmodel/xpscanvas/addpath)(XpsPathGeometry) | Fügt der untergeordneten Liste dieser Leinwand einen neuen Pfad hinzu. |
-| [Clone](../../aspose.page.xps.xpsmodel/xpscanvas/clone)() | Klont diese Leinwand. |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Umsetzung vonIEnumerable Schnittstelle. |
-| [Insert&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/insert)(int, T) | Fügt ein Element in die untergeordnete Liste dieser Leinwand ein*index* Position. |
-| [InsertCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/insertcanvas)(int) | Fügt eine neue Leinwand in die untergeordnete Liste dieser Leinwand ein*index* Position. |
-| [InsertGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/insertglyphs)(int, string, float, FontStyle, float, float, string) | Fügt neue Glyphen in die untergeordnete Liste dieser Leinwand ein*index* Position. |
-| [InsertPath](../../aspose.page.xps.xpsmodel/xpscanvas/insertpath)(int, XpsPathGeometry) | Fügt einen neuen Pfad zur untergeordneten Liste dieser Leinwand bei ein*index* Position. |
+| [Add&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/add/)(T) | Fügt der untergeordneten Liste dieser Leinwand ein Element hinzu. |
+| [AddCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/addcanvas/)() | Fügt der untergeordneten Liste dieser Leinwand eine neue Leinwand hinzu. |
+| [AddGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/addglyphs/)(string, float, FontStyle, float, float, string) | Fügt der untergeordneten Liste dieser Leinwand neue Glyphen hinzu. |
+| [AddPath](../../aspose.page.xps.xpsmodel/xpscanvas/addpath/)(XpsPathGeometry) | Fügt der untergeordneten Liste dieser Leinwand einen neuen Pfad hinzu. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpscanvas/clone/)() | Klont diese Leinwand. |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator/)() | Umsetzung vonIEnumerable Schnittstelle. |
+| [Insert&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/insert/)(int, T) | Fügt ein Element in die untergeordnete Liste dieser Leinwand ein*index* Position. |
+| [InsertCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/insertcanvas/)(int) | Fügt eine neue Leinwand in die untergeordnete Liste dieser Leinwand ein*index* Position. |
+| [InsertGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/insertglyphs/)(int, string, float, FontStyle, float, float, string) | Fügt neue Glyphen in die untergeordnete Liste dieser Leinwand ein*index* Position. |
+| [InsertPath](../../aspose.page.xps.xpsmodel/xpscanvas/insertpath/)(int, XpsPathGeometry) | Fügt einen neuen Pfad zur untergeordneten Liste dieser Leinwand bei ein*index* Position. |
 
 ### Siehe auch
 
-* class [XpsContentElement](../xpscontentelement)
-* namensraum [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel)
+* class [XpsContentElement](../xpscontentelement/)
+* namensraum [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel/)
 * Montage [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

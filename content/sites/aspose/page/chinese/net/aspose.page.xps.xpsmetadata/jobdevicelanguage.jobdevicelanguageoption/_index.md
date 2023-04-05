@@ -1,14 +1,14 @@
 ---
-title: JobDeviceLanguage.JobDeviceLanguageOption
+title: Class JobDeviceLanguage.JobDeviceLanguageOption
 second_title: Aspose.Page for .NET API 参考
-description: 描述JobDeviceLanguage./jobdevicelanguage功能选项.
+description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguageJobDeviceLanguageOption 班级. 描述了JobDeviceLanguage功能选项.
 type: docs
-weight: 1190
+weight: 1250
 url: /zh/net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 ---
 ## JobDeviceLanguage.JobDeviceLanguageOption class
 
-描述[`JobDeviceLanguage`](../jobdevicelanguage)功能选项.
+描述了[`JobDeviceLanguage`](../jobdevicelanguage/)功能选项.
 
 ```csharp
 public sealed class JobDeviceLanguageOption : Option
@@ -18,55 +18,55 @@ public sealed class JobDeviceLanguageOption : Option
 
 | 姓名 | 描述 |
 | --- | --- |
-| [JobDeviceLanguageOption](jobdevicelanguageoption#constructor)(JobDeviceLanguageOption) | 克隆此选项实例。 |
-| [JobDeviceLanguageOption](jobdevicelanguageoption#constructor_1)(string, params IJobDeviceLanguageOptionItem[]) | 创建一个新实例。 |
+| [JobDeviceLanguageOption](jobdevicelanguageoption/#constructor)(JobDeviceLanguageOption) | 克隆此选项实例。 |
+| [JobDeviceLanguageOption](jobdevicelanguageoption/#constructor_1)(string, params IJobDeviceLanguageOptionItem[]) | 创建一个新实例。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | 获取元素名称。 |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | 获取元素名称。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/add#add)(params IJobDeviceLanguageOptionItem[]) | 添加列表[`IJobDeviceLanguageOptionItem`](../jobdevicelanguage.ijobdevicelanguageoptionitem)options. 的实例 |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | 将项目列表添加到此选项的项目列表的末尾。 每一个都必须是一个[`ScoredProperty`](../scoredproperty)或者[`Property`](../property)实例. |
-| [Clone](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/clone)() | 克隆此选项实例。克隆构造函数的快捷方式. |
-| [SetLanguageEncoding](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguageencoding)(string) | 设置得分属性值。 |
-| [SetLanguageLevel](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguagelevel)(string) | 设置得分属性值。 |
-| [SetLanguageVersion](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguageversion)(string) | 设置得分属性值。 |
+| [Add](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/add/#add)(params IJobDeviceLanguageOptionItem[]) | 添加列表[`IJobDeviceLanguageOptionItem`](../jobdevicelanguage.ijobdevicelanguageoptionitem/)选项的实例. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | 将项目列表添加到此选项的项目列表的末尾。 每个必须是一个[`ScoredProperty`](../scoredproperty/)或者[`Property`](../property/)实例. |
+| [Clone](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/clone/)() | 克隆此选项实例。克隆构造函数的快捷方式. |
+| [SetLanguageEncoding](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguageencoding/)(string) | 设置得分属性值. |
+| [SetLanguageLevel](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguagelevel/)(string) | 设置得分属性值. |
+| [SetLanguageVersion](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguageversion/)(string) | 设置得分属性值. |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ART](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/art) | 指定的设备语言是 ART. |
-| static [ASCII](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ascii) | 指定的设备语言是 ASCII。 |
-| static [CaPSL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/capsl) | 指定的设备语言是 CaPSL. |
-| static [ESCP2](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/escp2) | 指定的设备语言是 ESC/P2. |
-| static [ESCPage](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/escpage) | 指定的设备语言是 ESC/Page. |
-| static [HPGL2](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/hpgl2) | 指定的设备语言是 HP-GL/2. |
-| static [KPDL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/kpdl) | 指定的设备语言是 KPDL. |
-| static [KS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ks) | 指定的设备语言是 KS. |
-| static [KSSM](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/kssm) | 指定的设备语言是 KSSM. |
-| static [PCL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl) | 指定的设备语言是 PCL. |
-| static [PCL5c](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl5c) | 指定的设备语言是 PCL5c. |
-| static [PCL5e](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl5e) | 指定的设备语言是 PCL5e. |
-| static [PCLXL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pclxl) | 指定的设备语言是 PCL-XL. |
-| static [PostScript](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/postscript) | 指定的设备语言是 PostScript。 |
-| static [PPDS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ppds) | 指定的设备语言是 PPDS. |
-| static [RPDL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/rpdl) | 指定的设备语言是 RPDL. |
-| static [RTL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/rtl) | 指定的设备语言是 RTL. |
-| static [XPS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/xps) | 指定设备语言为 XPS。 |
-| static [_201PL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/_201pl) | 指定设备语言为 PC-PR201. |
+| static [ART](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/art/) | 指定的设备语言是 ART. |
+| static [ASCII](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ascii/) | 指定的设备语言为 ASCII。 |
+| static [CaPSL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/capsl/) | 指定的设备语言是 CaPSL. |
+| static [ESCP2](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/escp2/) | 指定的设备语言为 ESC/P2. |
+| static [ESCPage](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/escpage/) | 指定的设备语言是 ESC/Page. |
+| static [HPGL2](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/hpgl2/) | 指定的设备语言是 HP-GL/2. |
+| static [KPDL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/kpdl/) | 指定的设备语言是 KPDL. |
+| static [KS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ks/) | 指定的设备语言是 KS. |
+| static [KSSM](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/kssm/) | 指定的设备语言是 KSSM. |
+| static [PCL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl/) | 指定的设备语言是 PCL. |
+| static [PCL5c](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl5c/) | 指定的设备语言是 PCL5c. |
+| static [PCL5e](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl5e/) | 指定的设备语言是 PCL5e. |
+| static [PCLXL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pclxl/) | 指定的设备语言是 PCL-XL. |
+| static [PostScript](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/postscript/) | 指定的设备语言是 PostScript. |
+| static [PPDS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ppds/) | 指定的设备语言是 PPDS. |
+| static [RPDL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/rpdl/) | 指定的设备语言是 RPDL. |
+| static [RTL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/rtl/) | 指定的设备语言是 RTL. |
+| static [XPS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/xps/) | 指定设备语言为 XPS。 |
+| static [_201PL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/_201pl/) | 指定设备语言为 PC-PR201. |
 
 ### 也可以看看
 
-* class [Option](../option)
-* class [JobDeviceLanguage](../jobdevicelanguage)
-* 命名空间 [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [JobDeviceLanguage](../jobdevicelanguage/)
+* 命名空间 [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * 部件 [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

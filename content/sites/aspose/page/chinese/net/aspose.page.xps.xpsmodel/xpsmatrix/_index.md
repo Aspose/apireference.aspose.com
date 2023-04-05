@@ -1,14 +1,14 @@
 ---
-title: XpsMatrix
+title: Class XpsMatrix
 second_title: Aspose.Page for .NET API 参考
-description: 封装 MatrixTransform 属性元素 features 的类 该元素定义了一个任意仿射矩阵变换用于操作坐标 元素系统
+description: Aspose.Page.XPS.XpsModel.XpsMatrix 班级. 封装 MatrixTransform 属性元素特征的类 该元素定义了一个任意仿射矩阵变换用于操纵元素的坐标 系统
 type: docs
-weight: 3150
+weight: 3210
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class
 
-封装 MatrixTransform 属性元素 features 的类。 该元素定义了一个任意仿射矩阵变换，用于操作坐标 元素系统。
+封装 MatrixTransform 属性元素特征的类。 该元素定义了一个任意仿射矩阵变换，用于操纵元素的坐标 系统。
 
 ```csharp
 public sealed class XpsMatrix : XpsObject
@@ -18,48 +18,48 @@ public sealed class XpsMatrix : XpsObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsIdentity](../../aspose.page.xps.xpsmodel/xpsmatrix/isidentity) { get; } | 获取一个值，该值指示此实例是否为单位矩阵。 |
-| [M11](../../aspose.page.xps.xpsmodel/xpsmatrix/m11) { get; } | 获取 M11 元素。 |
-| [M12](../../aspose.page.xps.xpsmodel/xpsmatrix/m12) { get; } | 获取 M12 元素。 |
-| [M21](../../aspose.page.xps.xpsmodel/xpsmatrix/m21) { get; } | 获取 M21 元素。 |
-| [M22](../../aspose.page.xps.xpsmodel/xpsmatrix/m22) { get; } | 获取 M22 元素。 |
-| [M31](../../aspose.page.xps.xpsmodel/xpsmatrix/m31) { get; } | 获取 M31 元素。 |
-| [M32](../../aspose.page.xps.xpsmodel/xpsmatrix/m32) { get; } | 获取 M32 元素。 |
+| [IsIdentity](../../aspose.page.xps.xpsmodel/xpsmatrix/isidentity/) { get; } | 获取一个值，指示此实例是否为单位矩阵。 |
+| [M11](../../aspose.page.xps.xpsmodel/xpsmatrix/m11/) { get; } | 获取 M11 元素。 |
+| [M12](../../aspose.page.xps.xpsmodel/xpsmatrix/m12/) { get; } | 获取 M12 元素。 |
+| [M21](../../aspose.page.xps.xpsmodel/xpsmatrix/m21/) { get; } | 获取 M21 元素。 |
+| [M22](../../aspose.page.xps.xpsmodel/xpsmatrix/m22/) { get; } | 获取 M22 元素。 |
+| [M31](../../aspose.page.xps.xpsmodel/xpsmatrix/m31/) { get; } | 获取 M31 元素。 |
+| [M32](../../aspose.page.xps.xpsmodel/xpsmatrix/m32/) { get; } | 获取 M32 元素。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.page.xps.xpsmodel/xpsmatrix/clone)() | 克隆这个变换矩阵。 |
-| override [Equals](../../aspose.page.xps.xpsmodel/xpsmatrix/equals)(object) | 判断是否指定Object等于这个实例。 |
-| override [GetHashCode](../../aspose.page.xps.xpsmodel/xpsmatrix/gethashcode)() | 返回此实例的哈希码。 |
-| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply#multiply_2)(Matrix) | 将此矩阵乘以由*matrix* 默认（前置）顺序。 |
-| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply#multiply)(XpsMatrix) | 将此矩阵乘以由*matrix* 默认（前置）顺序。 |
-| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply#multiply_3)(Matrix, MatrixOrder) | 将此矩阵乘以由*matrix* 按指定的顺序*matrixOrder*. |
-| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply#multiply_1)(XpsMatrix, MatrixOrder) | 将此矩阵乘以由*matrix* 按指定的顺序*matrixOrder*. |
-| [Reset](../../aspose.page.xps.xpsmodel/xpsmatrix/reset)() | 将此矩阵重置为单位矩阵。 |
-| [Rotate](../../aspose.page.xps.xpsmodel/xpsmatrix/rotate#rotate)(float) | 应用顺时针旋转*angle*以默认（前置）顺序到此矩阵。 |
-| [Rotate](../../aspose.page.xps.xpsmodel/xpsmatrix/rotate#rotate_1)(float, MatrixOrder) | 应用顺时针旋转*angle*到这个矩阵的 order 指定的*matrixOrder*. |
-| [RotateAround](../../aspose.page.xps.xpsmodel/xpsmatrix/rotatearound#rotatearound)(float, PointF) | 应用顺时针旋转*angle*周围*pivot* 以默认（前置）顺序添加到此矩阵。 |
-| [RotateAround](../../aspose.page.xps.xpsmodel/xpsmatrix/rotatearound#rotatearound_1)(float, PointF, MatrixOrder) | 应用顺时针旋转*angle*周围*pivot* 按指定的顺序添加到此矩阵*matrixOrder*. |
-| [Scale](../../aspose.page.xps.xpsmodel/xpsmatrix/scale#scale)(float, float) | 以默认（前置）顺序将指定的缩放向量（scaleX 和 scaleY）应用于此矩阵。 |
-| [Scale](../../aspose.page.xps.xpsmodel/xpsmatrix/scale#scale_1)(float, float, MatrixOrder) | 按指定的 order 将指定的比例向量（scaleX 和 scaleY）应用于此矩阵*matrixOrder*. |
-| [Skew](../../aspose.page.xps.xpsmodel/xpsmatrix/skew)(double, double) | 将指定的倾斜变换应用于此矩阵。 |
-| override [ToString](../../aspose.page.xps.xpsmodel/xpsmatrix/tostring)() | 返回 this 的字符串表示[`XpsMatrix`](../xpsmatrix)实例. |
-| [Transform](../../aspose.page.xps.xpsmodel/xpsmatrix/transform)(RectangleF) | 将此矩阵表示的仿射变换应用于指定的矩形。 |
-| [TransformPoint](../../aspose.page.xps.xpsmodel/xpsmatrix/transformpoint)(PointF) | 将此矩阵表示的仿射变换应用于指定点。 |
-| [TransformPoints](../../aspose.page.xps.xpsmodel/xpsmatrix/transformpoints#transformpoints)(PointF[]) | 将此矩阵表示的仿射变换应用于指定的点数组。 |
-| [TransformPoints](../../aspose.page.xps.xpsmodel/xpsmatrix/transformpoints#transformpoints_1)(PointF[], int, int) | 将此矩阵表示的仿射变换应用于点数组的指定部分。 |
-| [Translate](../../aspose.page.xps.xpsmodel/xpsmatrix/translate#translate)(float, float) | 将指定的平移向量应用于此矩阵。 |
-| [Translate](../../aspose.page.xps.xpsmodel/xpsmatrix/translate#translate_1)(float, float, MatrixOrder) | 按指定的顺序将指定的平移向量应用于此矩阵*matrixOrder*. |
-| static [Equals](../../aspose.page.xps.xpsmodel/xpsmatrix/equals)(XpsMatrix, XpsMatrix) | 实际实现。 |
-| [operator ==](../../aspose.page.xps.xpsmodel/xpsmatrix/op_equality) | 实现运算符 ==. |
-| [operator !=](../../aspose.page.xps.xpsmodel/xpsmatrix/op_inequality) | 实现运算符 !=. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpsmatrix/clone/)() | 克隆此转换矩阵。 |
+| override [Equals](../../aspose.page.xps.xpsmodel/xpsmatrix/equals/)(object) | 判断指定的是否Object等于这个实例. |
+| override [GetHashCode](../../aspose.page.xps.xpsmodel/xpsmatrix/gethashcode/)() | 返回此实例的哈希码。 |
+| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply/#multiply_2)(Matrix) | 将此矩阵乘以指定的矩阵*matrix* 默认（前置）顺序。 |
+| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply/#multiply)(XpsMatrix) | 将此矩阵乘以指定的矩阵*matrix* 默认（前置）顺序。 |
+| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply/#multiply_3)(Matrix, MatrixOrder) | 将此矩阵乘以指定的矩阵*matrix* 按照指定的顺序*matrixOrder*. |
+| [Multiply](../../aspose.page.xps.xpsmodel/xpsmatrix/multiply/#multiply_1)(XpsMatrix, MatrixOrder) | 将此矩阵乘以指定的矩阵*matrix* 按照指定的顺序*matrixOrder*. |
+| [Reset](../../aspose.page.xps.xpsmodel/xpsmatrix/reset/)() | 将此矩阵重置为单位矩阵。 |
+| [Rotate](../../aspose.page.xps.xpsmodel/xpsmatrix/rotate/#rotate)(float) | 应用顺时针旋转*angle*以默认（前置）顺序添加到此矩阵。 |
+| [Rotate](../../aspose.page.xps.xpsmodel/xpsmatrix/rotate/#rotate_1)(float, MatrixOrder) | 应用顺时针旋转*angle*以 order 指定的这个矩阵*matrixOrder*. |
+| [RotateAround](../../aspose.page.xps.xpsmodel/xpsmatrix/rotatearound/#rotatearound)(float, PointF) | 应用顺时针旋转*angle*周围的*pivot* 以默认（前置）顺序添加到此矩阵。 |
+| [RotateAround](../../aspose.page.xps.xpsmodel/xpsmatrix/rotatearound/#rotatearound_1)(float, PointF, MatrixOrder) | 应用顺时针旋转*angle*周围的*pivot* 按指定的顺序添加到此矩阵*matrixOrder*. |
+| [Scale](../../aspose.page.xps.xpsmodel/xpsmatrix/scale/#scale)(float, float) | 以默认（前置）顺序将指定的缩放向量（scaleX 和 scaleY）应用于此矩阵。 |
+| [Scale](../../aspose.page.xps.xpsmodel/xpsmatrix/scale/#scale_1)(float, float, MatrixOrder) | 按由指定的 order 将指定的比例向量（scaleX 和 scaleY）应用于此矩阵*matrixOrder*. |
+| [Skew](../../aspose.page.xps.xpsmodel/xpsmatrix/skew/)(double, double) | 将指定的偏斜变换应用于此矩阵。 |
+| override [ToString](../../aspose.page.xps.xpsmodel/xpsmatrix/tostring/)() | 返回此的字符串表示形式`XpsMatrix`实例. |
+| [Transform](../../aspose.page.xps.xpsmodel/xpsmatrix/transform/)(RectangleF) | 将此矩阵表示的仿射变换应用于指定的矩形。 |
+| [TransformPoint](../../aspose.page.xps.xpsmodel/xpsmatrix/transformpoint/)(PointF) | 将此矩阵表示的仿射变换应用于指定点。 |
+| [TransformPoints](../../aspose.page.xps.xpsmodel/xpsmatrix/transformpoints/#transformpoints)(PointF[]) | 将此矩阵表示的仿射变换应用于指定的点数组。 |
+| [TransformPoints](../../aspose.page.xps.xpsmodel/xpsmatrix/transformpoints/#transformpoints_1)(PointF[], int, int) | 将此矩阵表示的仿射变换应用于点数组的指定部分。 |
+| [Translate](../../aspose.page.xps.xpsmodel/xpsmatrix/translate/#translate)(float, float) | 将指定的平移向量应用于此矩阵。 |
+| [Translate](../../aspose.page.xps.xpsmodel/xpsmatrix/translate/#translate_1)(float, float, MatrixOrder) | 按指定的顺序将指定的平移向量应用于此矩阵*matrixOrder*. |
+| static [Equals](../../aspose.page.xps.xpsmodel/xpsmatrix/equals/)(XpsMatrix, XpsMatrix) | 实际执行. |
+| [operator ==](../../aspose.page.xps.xpsmodel/xpsmatrix/op_equality/) | 实现运算符 ==. |
+| [operator !=](../../aspose.page.xps.xpsmodel/xpsmatrix/op_inequality/) | 实现运算符 !=. |
 
 ### 也可以看看
 
-* class [XpsObject](../xpsobject)
-* 命名空间 [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel)
+* class [XpsObject](../xpsobject/)
+* 命名空间 [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel/)
 * 部件 [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

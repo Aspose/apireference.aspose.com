@@ -1,14 +1,14 @@
 ---
-title: PageScaling.ScaleOffsetAlignmentOption
+title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: Aspose.Page pour la référence de l'API .NET
-description: Décrit leScaleOffsetAlignment./pagescaling.scaleoffsetalignment fonctionnalités options. Spécifie lalignement du contenu mis à léchelle.
+description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption classe. Décrit leScaleOffsetAlignment fonctionnalités options. Spécifie lalignement du contenu mis à léchelle.
 type: docs
-weight: 2460
+weight: 2520
 url: /fr/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class
 
-Décrit le[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment) fonctionnalités options. Spécifie l'alignement du contenu mis à l'échelle.
+Décrit le[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment/) fonctionnalités options. Spécifie l'alignement du contenu mis à l'échelle.
 
 ```csharp
 public sealed class ScaleOffsetAlignmentOption : Option
@@ -18,33 +18,33 @@ public sealed class ScaleOffsetAlignmentOption : Option
 
 | Nom | La description |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Obtient le nom de l'élément. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Obtient le nom de l'élément. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Ajoute une liste d'éléments à la fin de la liste d'éléments de cette option. Chacun doit être un[`ScoredProperty`](../scoredproperty) ou[`Property`](../property) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Ajoute une liste d'éléments à la fin de la liste d'éléments de cette option. Chacun doit être un[`ScoredProperty`](../scoredproperty/) ou[`Property`](../property/) instance. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter) | Spécifie que la mise à l'échelle doit être alignée sur le centre du bord inférieur du support. |
-| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft) | Spécifie que la mise à l'échelle doit être alignée sur le coin inférieur gauche du média. |
-| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright) | Spécifie que la mise à l'échelle doit être alignée sur le coin inférieur droit du média. |
-| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center) | Spécifie que la mise à l'échelle doit être centrée sur le média. |
-| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter) | Spécifie que la mise à l'échelle doit être alignée sur le centre du bord gauche du média. |
-| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter) | Spécifie que la mise à l'échelle doit être alignée sur le centre du bord droit du média. |
-| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter) | Spécifie que la mise à l'échelle doit être alignée sur le centre du bord supérieur du support. |
-| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft) | Spécifie que la mise à l'échelle doit être alignée sur le coin supérieur gauche du média. |
-| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright) | Spécifie que la mise à l'échelle doit être alignée sur le coin supérieur droit du média. |
+| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter/) | Spécifie que la mise à l'échelle doit être alignée sur le centre du bord inférieur du support. |
+| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft/) | Spécifie que la mise à l'échelle doit être alignée sur le coin inférieur gauche du média. |
+| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright/) | Spécifie que la mise à l'échelle doit être alignée sur le coin inférieur droit du média. |
+| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center/) | Spécifie que la mise à l'échelle doit être centrée sur le média. |
+| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter/) | Spécifie que la mise à l'échelle doit être alignée sur le centre du bord gauche du média. |
+| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter/) | Spécifie que la mise à l'échelle doit être alignée sur le centre du bord droit du média. |
+| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter/) | Spécifie que la mise à l'échelle doit être alignée sur le centre du bord supérieur du support. |
+| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft/) | Spécifie que la mise à l'échelle doit être alignée sur le coin supérieur gauche du média. |
+| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright/) | Spécifie que la mise à l'échelle doit être alignée sur le coin supérieur droit du média. |
 
 ### Voir également
 
-* class [Option](../option)
-* class [PageScaling](../pagescaling)
-* espace de noms [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [PageScaling](../pagescaling/)
+* espace de noms [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * Assemblée [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

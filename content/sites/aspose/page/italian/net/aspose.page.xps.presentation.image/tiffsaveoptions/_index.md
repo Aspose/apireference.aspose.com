@@ -1,14 +1,14 @@
 ---
-title: TiffSaveOptions
+title: Class TiffSaveOptions
 second_title: Aspose.Page per riferimento all'API .NET
-description: Classe per opzioni di salvataggio XPS come TIFF.
+description: Aspose.Page.XPS.Presentation.Image.TiffSaveOptions classe. Classe per opzioni di salvataggio XPSasTIFF.
 type: docs
-weight: 330
+weight: 390
 url: /it/net/aspose.page.xps.presentation.image/tiffsaveoptions/
 ---
 ## TiffSaveOptions class
 
-Classe per opzioni di salvataggio XPS come TIFF.
+Classe per opzioni di salvataggio XPS-as-TIFF.
 
 ```csharp
 public class TiffSaveOptions : ImageSaveOptions
@@ -18,27 +18,27 @@ public class TiffSaveOptions : ImageSaveOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [TiffSaveOptions](tiffsaveoptions)() | Crea una nuova istanza di opzioni. |
+| [TiffSaveOptions](tiffsaveoptions/)() | Crea una nuova istanza di opzioni. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Specifica le cartelle aggiuntive in cui il convertitore deve trovare i caratteri per il documento di input. La cartella predefinita è una cartella dei caratteri standard in cui il sistema operativo trova i caratteri per le esigenze interne. |
-| virtual [Debug](../../aspose.page/saveoptions/debug) { get; set; } | Specifica se le informazioni di debug devono essere stampate o meno sul flusso di output standard. |
-| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Restituisce un elenco di errori di conversione soppressi If!:SuppressErrors è vero. |
-| [InterpolationMode](../../aspose.page.xps.presentation.image/imagesaveoptions/interpolationmode) { get; set; } | Ottiene/imposta la modalità di interpolazione. |
-| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | La categoria Qualità specifica il livello di compressione per un'immagine. I valori disponibili sono compresi tra 0 e 100. Più basso è il numero specificato, maggiore è la compressione e quindi minore è la qualità dell'immagine. Il valore 0 restituisce la qualità dell'immagine più bassa, mentre 100 restituisce la più alta. |
-| [PageNumbers](../../aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers) { get; set; } | Ottiene/imposta l'array di numeri di pagine da convertire. |
-| [Resolution](../../aspose.page.xps.presentation.image/imagesaveoptions/resolution) { get; set; } | Ottiene/imposta la risoluzione dell'immagine. |
-| [SmoothingMode](../../aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode) { get; set; } | Ottiene/imposta la modalità di smoothing. |
-| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Specifica se gli errori devono essere soppressi o meno. Se vengono aggiunti veri errori soppressi a[`Exceptions`](../../aspose.page/saveoptions/exceptions) list. Se false il primo errore terminerà il programma. |
-| [TextRenderingHint](../../aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint) { get; set; } | Ottiene/imposta il suggerimento per il rendering del testo. |
+| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders/) { get; set; } | Specifica le cartelle aggiuntive in cui il convertitore deve trovare i caratteri per il documento di input. La cartella predefinita è la cartella dei caratteri standard in cui il sistema operativo trova i caratteri per le esigenze interne. |
+| virtual [Debug](../../aspose.page/saveoptions/debug/) { get; set; } | Specifica se le informazioni di debug devono essere stampate o meno sul flusso di output standard. |
+| virtual [Exceptions](../../aspose.page/saveoptions/exceptions/) { get; } | Restituisce un elenco di errori di conversione soppressi If!:SuppressErrors è vero. |
+| [InterpolationMode](../../aspose.page.xps.presentation.image/imagesaveoptions/interpolationmode/) { get; set; } | Ottiene/imposta la modalità di interpolazione. |
+| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel/) { get; set; } | La categoria Qualità specifica il livello di compressione di un'immagine. I valori disponibili vanno da 0 a 100. Più basso è il numero specificato, maggiore è la compressione e quindi minore è la qualità dell'immagine. Il valore 0 produce un'immagine di qualità più bassa, mentre 100 risulta nella più alta. |
+| [PageNumbers](../../aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers/) { get; set; } | Recupera/imposta l'array di numeri di pagine da convertire. |
+| [Resolution](../../aspose.page.xps.presentation.image/imagesaveoptions/resolution/) { get; set; } | Ottiene/imposta la risoluzione dell'immagine. |
+| [SmoothingMode](../../aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode/) { get; set; } | Ottiene/imposta la modalità di smoothing. |
+| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors/) { get; set; } | Specifica se gli errori devono essere soppressi o meno. Se vengono aggiunti veri errori soppressi[`Exceptions`](../../aspose.page/saveoptions/exceptions/) list. Se false il primo errore terminerà il programma. |
+| [TextRenderingHint](../../aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint/) { get; set; } | Ottiene/imposta il suggerimento per la resa del testo. |
 
 ### Guarda anche
 
-* class [ImageSaveOptions](../imagesaveoptions)
-* spazio dei nomi [Aspose.Page.XPS.Presentation.Image](../../aspose.page.xps.presentation.image)
+* class [ImageSaveOptions](../imagesaveoptions/)
+* spazio dei nomi [Aspose.Page.XPS.Presentation.Image](../../aspose.page.xps.presentation.image/)
 * assemblea [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: PageOutputColor.PageOutputColorOption
+title: Class PageOutputColor.PageOutputColorOption
 second_title: Referencia de la API de Aspose.Page para .NET
-description: Describe elPageOutputColor./pageoutputcolor opciones de funciones.
+description: Aspose.Page.XPS.XpsMetadata.PageOutputColorPageOutputColorOption clase. Describe elPageOutputColor opciones de funciones.
 type: docs
-weight: 2300
+weight: 2360
 url: /es/net/aspose.page.xps.xpsmetadata/pageoutputcolor.pageoutputcoloroption/
 ---
 ## PageOutputColor.PageOutputColorOption class
 
-Describe el[`PageOutputColor`](../pageoutputcolor) opciones de funciones.
+Describe el[`PageOutputColor`](../pageoutputcolor/) opciones de funciones.
 
 ```csharp
 public sealed class PageOutputColorOption : Option
@@ -18,38 +18,38 @@ public sealed class PageOutputColorOption : Option
 
 | Nombre | Descripción |
 | --- | --- |
-| [PageOutputColorOption](pageoutputcoloroption#constructor)(PageOutputColorOption) | Clona esta instancia de opción. |
-| [PageOutputColorOption](pageoutputcoloroption#constructor_1)(string, params IPageOutputColorOptionItem[]) | Crea una nueva instancia. |
+| [PageOutputColorOption](pageoutputcoloroption/#constructor)(PageOutputColorOption) | Clona esta instancia de opción. |
+| [PageOutputColorOption](pageoutputcoloroption/#constructor_1)(string, params IPageOutputColorOptionItem[]) | Crea una nueva instancia. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Obtiene el nombre del elemento. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Obtiene el nombre del elemento. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Agrega una lista de elementos al final de la lista de elementos de esta opción. Cada uno debe ser un[`ScoredProperty`](../scoredproperty) o[`Property`](../property) instancia. |
-| [Add](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/add#add)(params IPageOutputColorOptionItem[]) | Agrega una matriz de[`IPageOutputColorOptionItem`](../pageoutputcolor.ipageoutputcoloroptionitem) instancias a la opción. |
-| [Clone](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/clone)() | Clona esta instancia de opción. El acceso directo al constructor de clonación. |
-| [SetDeviceBitsPerPixel](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/setdevicebitsperpixel)(int) | Establece un valor de propiedad puntuado. |
-| [SetDriverBitsPerPixel](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/setdriverbitsperpixel)(int) | Establece un valor de propiedad puntuado. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Agrega una lista de elementos al final de la lista de elementos de esta opción. Cada uno debe ser un[`ScoredProperty`](../scoredproperty/) o[`Property`](../property/) instancia. |
+| [Add](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/add/#add)(params IPageOutputColorOptionItem[]) | Agrega una matriz de[`IPageOutputColorOptionItem`](../pageoutputcolor.ipageoutputcoloroptionitem/) instancias a la opción. |
+| [Clone](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/clone/)() | Clona esta instancia de opción. El acceso directo al constructor de clonación. |
+| [SetDeviceBitsPerPixel](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/setdevicebitsperpixel/)(int) | Establece un valor de propiedad puntuado. |
+| [SetDriverBitsPerPixel](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/setdriverbitsperpixel/)(int) | Establece un valor de propiedad puntuado. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| static [Color](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/color) | Especifica que la salida debe ser en color. |
-| static [Grayscale](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/grayscale) | Especifica que la salida debe estar en escala de grises. |
-| static [Monochrome](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/monochrome) | Especifica que la salida debe ser monocromática (negro). |
+| static [Color](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/color/) | Especifica que la salida debe ser en color. |
+| static [Grayscale](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/grayscale/) | Especifica que la salida debe estar en escala de grises. |
+| static [Monochrome](../../aspose.page.xps.xpsmetadata/pageoutputcoloroption/monochrome/) | Especifica que la salida debe ser monocromática (negro). |
 
 ### Ver también
 
-* class [Option](../option)
-* class [PageOutputColor](../pageoutputcolor)
-* espacio de nombres [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [PageOutputColor](../pageoutputcolor/)
+* espacio de nombres [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * asamblea [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

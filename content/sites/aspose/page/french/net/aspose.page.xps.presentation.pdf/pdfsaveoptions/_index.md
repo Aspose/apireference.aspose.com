@@ -1,9 +1,9 @@
 ---
-title: PdfSaveOptions
+title: Class PdfSaveOptions
 second_title: Aspose.Page pour la référence de l'API .NET
-description: Classe pour les options denregistrement XPSasPDF.
+description: Aspose.Page.XPS.Presentation.Pdf.PdfSaveOptions classe. Classe pour les options denregistrement XPSasPDF.
 type: docs
-weight: 380
+weight: 440
 url: /fr/net/aspose.page.xps.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -18,28 +18,28 @@ public class PdfSaveOptions : SaveOptions
 
 | Nom | La description |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions)() | Crée une nouvelle instance d'options. |
+| [PdfSaveOptions](pdfsaveoptions/)() | Crée une nouvelle instance d'options. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Spécifie des dossiers supplémentaires où le convertisseur doit trouver les polices pour le document d'entrée. Le dossier par défaut est le dossier de polices standard où le système d'exploitation trouve les polices pour les besoins internes. |
-| virtual [Debug](../../aspose.page/saveoptions/debug) { get; set; } | Spécifie si les informations de débogage doivent être imprimées sur le flux de sortie standard ou non. |
-| [EncryptionDetails](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/encryptiondetails) { get; set; } | Obtient ou définit les détails d'un chiffrement. S'il n'est pas défini, aucun chiffrement ne sera effectué. |
-| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Renvoie une liste des erreurs de conversion supprimées Si!:SuppressErrors est vrai. |
-| [ImageCompression](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/imagecompression) { get; set; } | Spécifie le type de compression à utiliser pour toutes les images du document. La valeur par défaut estAuto . |
-| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | La catégorie Qualité spécifie le niveau de compression d'une image. Les valeurs disponibles vont de 0 à 100. Plus le nombre spécifié est faible, plus la compression est élevée et donc plus la qualité de l'image est faible. La valeur 0 donne la qualité d'image la plus basse, tandis que 100 donne la plus haute. |
-| [OutlineTreeExpansionLevel](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeexpansionlevel) { get; set; } | Spécifie jusqu'à quel niveau le plan du document doit être développé lorsque le fichier PDF est visualisé. 1 - seuls les éléments de plan de premier niveau sont affichés, 2 - seuls les éléments de plan de premier et deuxième niveau sont affichés, et ainsi de suite. La valeur par défaut est 1. |
-| [OutlineTreeHeight](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeheight) { get; set; } | Spécifie la hauteur de l'arborescence du document à enregistrer. 0 - l'arborescence ne sera pas convertie, 1 - seuls les éléments de plan de premier niveau seront convertis, et ainsi de suite. |
-| [PageNumbers](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/pagenumbers) { get; set; } | Obtient/définit le tableau des nombres de pages à convertir. |
-| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Spécifie si les erreurs doivent être supprimées ou non. Si de vraies erreurs supprimées sont ajoutées à[`Exceptions`](../../aspose.page/saveoptions/exceptions) list. Si false, la première erreur terminera le programme. |
-| [TextCompression](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/textcompression) { get; set; } | Spécifie le type de compression à utiliser pour tous les flux de contenu à l'exception des images. La valeur par défaut estFlate . |
+| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders/) { get; set; } | Spécifie des dossiers supplémentaires où le convertisseur doit trouver les polices pour le document d'entrée. Le dossier par défaut est le dossier de polices standard où le système d'exploitation trouve les polices pour les besoins internes. |
+| virtual [Debug](../../aspose.page/saveoptions/debug/) { get; set; } | Spécifie si les informations de débogage doivent être imprimées sur le flux de sortie standard ou non. |
+| [EncryptionDetails](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/encryptiondetails/) { get; set; } | Obtient ou définit les détails d'un chiffrement. S'il n'est pas défini, aucun chiffrement ne sera effectué. |
+| virtual [Exceptions](../../aspose.page/saveoptions/exceptions/) { get; } | Renvoie une liste des erreurs de conversion supprimées Si!:SuppressErrors est vrai. |
+| [ImageCompression](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/imagecompression/) { get; set; } | Spécifie le type de compression à utiliser pour toutes les images du document. La valeur par défaut estAuto . |
+| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel/) { get; set; } | La catégorie Qualité spécifie le niveau de compression d'une image. Les valeurs disponibles vont de 0 à 100. Plus le nombre spécifié est faible, plus la compression est élevée et donc plus la qualité de l'image est faible. La valeur 0 donne la qualité d'image la plus basse, tandis que 100 donne la plus haute. |
+| [OutlineTreeExpansionLevel](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeexpansionlevel/) { get; set; } | Spécifie jusqu'à quel niveau le plan du document doit être développé lorsque le fichier PDF est ouvert dans une visionneuse. 1 - seuls les éléments de plan de premier niveau sont affichés, 2 - seuls les éléments de plan de premier et deuxième niveau sont affichés, et ainsi de suite. La valeur par défaut est 1. |
+| [OutlineTreeHeight](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/outlinetreeheight/) { get; set; } | Spécifie la hauteur de l'arborescence du document à enregistrer. 0 - l'arborescence ne sera pas convertie, 1 - seuls les éléments de plan de premier niveau seront convertis, et ainsi de suite. La valeur par défaut est 10. |
+| [PageNumbers](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/pagenumbers/) { get; set; } | Obtient/définit le tableau des nombres de pages à convertir. |
+| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors/) { get; set; } | Spécifie si les erreurs doivent être supprimées ou non. Si de vraies erreurs supprimées sont ajoutées à[`Exceptions`](../../aspose.page/saveoptions/exceptions/) list. Si false, la première erreur terminera le programme. |
+| [TextCompression](../../aspose.page.xps.presentation.pdf/pdfsaveoptions/textcompression/) { get; set; } | Spécifie le type de compression à utiliser pour tous les flux de contenu à l'exception des images. La valeur par défaut estFlate . |
 
 ### Voir également
 
-* class [SaveOptions](../../aspose.page/saveoptions)
-* espace de noms [Aspose.Page.XPS.Presentation.Pdf](../../aspose.page.xps.presentation.pdf)
+* class [SaveOptions](../../aspose.page/saveoptions/)
+* espace de noms [Aspose.Page.XPS.Presentation.Pdf](../../aspose.page.xps.presentation.pdf/)
 * Assemblée [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

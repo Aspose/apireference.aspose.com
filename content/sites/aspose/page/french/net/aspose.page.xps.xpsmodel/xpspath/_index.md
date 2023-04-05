@@ -1,9 +1,9 @@
 ---
-title: XpsPath
+title: Class XpsPath
 second_title: Aspose.Page pour la référence de l'API .NET
-description: Class incapsulating Path element features. Cet élément est le seul moyen dajouter des graphiques vectoriels et des images à une page fixe. Il définit un seul graphique vectoriel à rendre sur une page.
+description: Aspose.Page.XPS.XpsModel.XpsPath classe. Class incapsulating Path element features. Cet élément est le seul moyen dajouter des graphiques vectoriels et des images à une page fixe. Il définit un seul graphique vectoriel à rendre sur une page.
 type: docs
-weight: 3190
+weight: 3250
 url: /fr/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class
@@ -18,36 +18,36 @@ public sealed class XpsPath : XpsContentElement
 
 | Nom | La description |
 | --- | --- |
-| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | Renvoie/définit l'instance de géométrie de chemin limitant la région rendue de l'élément. |
-| [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Renvoie le nombre d'éléments enfants. |
-| [Data](../../aspose.page.xps.xpsmodel/xpspath/data) { get; set; } | Renvoie/définit la géométrie du chemin. |
-| [Fill](../../aspose.page.xps.xpsmodel/xpspath/fill) { get; set; } | Renvoie/définit le pinceau utilisé pour peindre la géométrie spécifiée par la propriété Data du chemin. |
-| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Renvoie/définit l'objet cible du lien hypertexte. |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Fournit un accès aux enfants de l'élément par index*i* . |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | Renvoie/définit la valeur définissant la transparence uniforme de l'élément. |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | Renvoie/définit le pinceau en spécifiant un masque de valeurs alpha qui est appliqué à l'élément de la même manière que l'attribut Opacité, mais en autorisant différentes valeurs alpha pour différentes zones de l'élément. |
-| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | Renvoie/définit la matrice de transformation affine établissant un nouveau cadre de coordonnées pour tous les attributs de l'élément et pour tous les éléments enfants (le cas échéant). |
-| [Stroke](../../aspose.page.xps.xpsmodel/xpspath/stroke) { get; set; } | Renvoie/définit le pinceau utilisé pour dessiner le trait. |
-| [StrokeDashArray](../../aspose.page.xps.xpsmodel/xpspath/strokedasharray) { get; set; } | Renvoie/définit le tableau spécifiant la longueur des tirets et des espaces du trait de contour. |
-| [StrokeDashCap](../../aspose.page.xps.xpsmodel/xpspath/strokedashcap) { get; set; } | Renvoie/définit la valeur spécifiant comment les extrémités de chaque tiret sont dessinées. |
-| [StrokeDashOffset](../../aspose.page.xps.xpsmodel/xpspath/strokedashoffset) { get; set; } | Renvoie/définit le point de départ pour la répétition du motif de tableau de tirets. Si cette valeur est omise, le tableau de tirets s'aligne sur l'origine du trait. |
-| [StrokeEndLineCap](../../aspose.page.xps.xpsmodel/xpspath/strokeendlinecap) { get; set; } | Renvoie/définit la valeur définissant la forme de la fin du dernier tiret d'un trait. |
-| [StrokeLineJoin](../../aspose.page.xps.xpsmodel/xpspath/strokelinejoin) { get; set; } | Renvoie/définit la valeur définissant la forme du début du premier tiret d'un trait. |
-| [StrokeMiterLimit](../../aspose.page.xps.xpsmodel/xpspath/strokemiterlimit) { get; set; } | Renvoie/définit le rapport entre la longueur maximale de l'onglet et la moitié de l'épaisseur du trait. Cette valeur n'est significative que si le`CoupLigneJoin` attribut spécifie`Mitre` . |
-| [StrokeStartLineCap](../../aspose.page.xps.xpsmodel/xpspath/strokestartlinecap) { get; set; } | Renvoie/définit la valeur définissant la forme du début du premier tiret d'un trait. |
-| [StrokeThickness](../../aspose.page.xps.xpsmodel/xpspath/strokethickness) { get; set; } | Renvoie/définit l'épaisseur d'un trait, en unités de l'espace de coordonnées effectif (y compris la transformation de rendu du chemin). Le trait est dessiné au-dessus de la limite de la géométrie spécifiée par la propriété Data de l'élément Path. La moitié de StrokeThickness s'étend à l'extérieur de la géométrie spécifiée par la propriété Data et l'autre moitié s'étend à l'intérieur de la géométrie. |
+| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip/) { get; set; } | Renvoie/définit l'instance de géométrie de chemin limitant la région rendue de l'élément. |
+| [Count](../../aspose.page.xps.xpsmodel/xpselement/count/) { get; } | Renvoie le nombre d'éléments enfants. |
+| [Data](../../aspose.page.xps.xpsmodel/xpspath/data/) { get; set; } | Renvoie/définit la géométrie du chemin. |
+| [Fill](../../aspose.page.xps.xpsmodel/xpspath/fill/) { get; set; } | Renvoie/définit le pinceau utilisé pour peindre la géométrie spécifiée par la propriété Data du chemin. |
+| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget/) { get; set; } | Renvoie/définit l'objet cible du lien hypertexte. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item/) { get; } | Fournit un accès aux enfants de l'élément par index*i* . |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity/) { get; set; } | Renvoie/définit la valeur définissant la transparence uniforme de l'élément. |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask/) { get; set; } | Renvoie/définit le pinceau en spécifiant un masque de valeurs alpha qui est appliqué à l'élément de la même manière que l'attribut Opacité, mais en autorisant différentes valeurs alpha pour différentes zones de l'élément. |
+| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform/) { get; set; } | Renvoie/définit la matrice de transformation affine établissant un nouveau cadre de coordonnées pour tous les attributs de l'élément et pour tous les éléments enfants (le cas échéant). |
+| [Stroke](../../aspose.page.xps.xpsmodel/xpspath/stroke/) { get; set; } | Renvoie/définit le pinceau utilisé pour dessiner le trait. |
+| [StrokeDashArray](../../aspose.page.xps.xpsmodel/xpspath/strokedasharray/) { get; set; } | Renvoie/définit le tableau spécifiant la longueur des tirets et des espaces du trait de contour. |
+| [StrokeDashCap](../../aspose.page.xps.xpsmodel/xpspath/strokedashcap/) { get; set; } | Renvoie/définit la valeur spécifiant comment les extrémités de chaque tiret sont dessinées. |
+| [StrokeDashOffset](../../aspose.page.xps.xpsmodel/xpspath/strokedashoffset/) { get; set; } | Renvoie/définit le point de départ pour la répétition du motif de tableau de tirets. Si cette valeur est omise, le tableau de tirets s'aligne sur l'origine du trait. |
+| [StrokeEndLineCap](../../aspose.page.xps.xpsmodel/xpspath/strokeendlinecap/) { get; set; } | Renvoie/définit la valeur définissant la forme de la fin du dernier tiret d'un trait. |
+| [StrokeLineJoin](../../aspose.page.xps.xpsmodel/xpspath/strokelinejoin/) { get; set; } | Renvoie/définit la valeur définissant la forme du début du premier tiret d'un trait. |
+| [StrokeMiterLimit](../../aspose.page.xps.xpsmodel/xpspath/strokemiterlimit/) { get; set; } | Renvoie/définit le rapport entre la longueur maximale de l'onglet et la moitié de l'épaisseur du trait. Cette valeur n'est significative que si le`CoupLigneJoin` attribut spécifie`Mitre` . |
+| [StrokeStartLineCap](../../aspose.page.xps.xpsmodel/xpspath/strokestartlinecap/) { get; set; } | Renvoie/définit la valeur définissant la forme du début du premier tiret d'un trait. |
+| [StrokeThickness](../../aspose.page.xps.xpsmodel/xpspath/strokethickness/) { get; set; } | Renvoie/définit l'épaisseur d'un trait, en unités de l'espace de coordonnées effectif (y compris la transformation de rendu du chemin). Le trait est dessiné au-dessus de la limite de la géométrie spécifiée par la propriété Data de l'élément Path. La moitié de StrokeThickness s'étend à l'extérieur de la géométrie spécifiée par la propriété Data et l'autre moitié s'étend à l'intérieur de la géométrie. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Clone](../../aspose.page.xps.xpsmodel/xpspath/clone)() | Clone ce chemin. |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Mise en œuvre deIEnumerable interface. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpspath/clone/)() | Clone ce chemin. |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator/)() | Mise en œuvre deIEnumerable interface. |
 
 ### Voir également
 
-* class [XpsContentElement](../xpscontentelement)
-* espace de noms [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel)
+* class [XpsContentElement](../xpscontentelement/)
+* espace de noms [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel/)
 * Assemblée [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

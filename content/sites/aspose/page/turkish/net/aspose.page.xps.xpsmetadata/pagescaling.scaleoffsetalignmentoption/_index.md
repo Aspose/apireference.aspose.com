@@ -1,14 +1,14 @@
 ---
-title: PageScaling.ScaleOffsetAlignmentOption
+title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: Aspose.Page for .NET API Referansı
-description: ScaleOffsetAlignment./pagescaling.scaleoffsetalignment özellikler seçenekleri. Ölçeklenen içeriğin hizalamasını belirtir.
+description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption sınıf. ScaleOffsetAlignment özellikler options. Ölçeklenen içeriğin hizalamasını belirtir.
 type: docs
-weight: 2460
+weight: 2520
 url: /tr/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class
 
-[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment) özellikler seçenekleri. Ölçeklenen içeriğin hizalamasını belirtir.
+[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment/) özellikler options. Ölçeklenen içeriğin hizalamasını belirtir.
 
 ```csharp
 public sealed class ScaleOffsetAlignmentOption : Option
@@ -18,33 +18,33 @@ public sealed class ScaleOffsetAlignmentOption : Option
 
 | İsim | Tanım |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Öğe adını alır. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Öğe adını alır. |
 
 ## yöntemler
 
 | İsim | Tanım |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Bu seçeneğin öğe listesinin sonuna bir öğe listesi ekler. Her biri bir[`ScoredProperty`](../scoredproperty) veya[`Property`](../property) örnek. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Bu seçeneğin öğe listesinin sonuna bir öğe listesi ekler. Her biri bir olmalıdır[`ScoredProperty`](../scoredproperty/) veya[`Property`](../property/) örnek. |
 
 ## Alanlar
 
 | İsim | Tanım |
 | --- | --- |
-| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter) | Ölçeklendirmenin medyanın alt kenarının ortasına hizalanması gerektiğini belirtir. |
-| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft) | Ölçeklendirmenin medyanın sol alt köşesinde hizalanması gerektiğini belirtir. |
-| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright) | Ölçeklendirmenin medyanın sağ alt köşesinde hizalanması gerektiğini belirtir. |
-| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center) | Ölçeklemenin medya üzerinde ortalanması gerektiğini belirtir. |
-| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter) | Ölçeklendirmenin medyanın sol kenarının ortasına hizalanması gerektiğini belirtir. |
-| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter) | Ölçeklendirmenin ortamın sağ kenarının ortasına hizalanması gerektiğini belirtir. |
-| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter) | Ölçeklendirmenin medyanın üst kenarının ortasına hizalanması gerektiğini belirtir. |
-| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft) | Ölçeklendirmenin medyanın sol üst köşesinde hizalanması gerektiğini belirtir. |
-| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright) | Ölçeklendirmenin medyanın sağ üst köşesinde hizalanması gerektiğini belirtir. |
+| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter/) | Ölçeklendirmenin ortamın alt kenarının ortasına hizalanması gerektiğini belirtir. |
+| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft/) | Ölçeklendirmenin ortamın sol alt köşesine hizalanması gerektiğini belirtir. |
+| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright/) | Ölçeklendirmenin ortamın sağ alt köşesine hizalanması gerektiğini belirtir. |
+| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center/) | Ölçeklendirmenin medya üzerinde merkezlenmesi gerektiğini belirtir. |
+| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter/) | Ölçeklendirmenin ortamın sol kenarının ortasına hizalanması gerektiğini belirtir. |
+| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter/) | Ölçeklendirmenin ortamın sağ kenarının ortasına hizalanması gerektiğini belirtir. |
+| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter/) | Ölçeklendirmenin ortamın üst kenarının ortasına hizalanması gerektiğini belirtir. |
+| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft/) | Ölçeklendirmenin ortamın sol üst köşesine hizalanması gerektiğini belirtir. |
+| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright/) | Ölçeklendirmenin ortamın sağ üst köşesine hizalanması gerektiğini belirtir. |
 
 ### Ayrıca bakınız
 
-* class [Option](../option)
-* class [PageScaling](../pagescaling)
-* ad alanı [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [PageScaling](../pagescaling/)
+* ad alanı [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * toplantı [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

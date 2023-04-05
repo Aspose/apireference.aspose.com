@@ -1,9 +1,9 @@
 ---
-title: XpsRadialGradientBrush
+title: Class XpsRadialGradientBrush
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий функции элемента свойства RadialGradientBrush. Этот элемент используется для указания кисти с радиальным градиентом.
+description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush сорт. Класс инкапсулирующий функции элемента свойства RadialGradientBrush. Этот элемент используется для указания кисти с радиальным градиентом.
 type: docs
-weight: 3270
+weight: 3330
 url: /ru/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class
@@ -18,26 +18,26 @@ public sealed class XpsRadialGradientBrush : XpsGradientBrush
 
 | Имя | Описание |
 | --- | --- |
-| [Center](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/center) { get; set; } | Возвращает/задает центральную точку радиального градиента (то есть центр эллипса). |
-| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode) { get; set; } | Возвращает/задает значение, определяющее гамма-функцию для интерполяции цвета. Коррекция гаммы не должна применяться к альфа-компоненту, если она указана. |
-| [GradientOrigin](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/gradientorigin) { get; set; } | Возвращает/задает исходную точку радиального градиента. |
-| [GradientStops](../../aspose.page.xps.xpsmodel/xpsgradientbrush/gradientstops) { get; set; } | Возвращает/устанавливает список остановок градиента, составляющих градиент. |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Возвращает/задает значение, определяющее равномерную прозрачность заливки кистью. |
-| [RadiusX](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusx) { get; set; } | Возвращает/задает радиус в измерении x эллипса, который определяет радиальный градиент. |
-| [RadiusY](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusy) { get; set; } | Возвращает/устанавливает радиус в измерении y эллипса, который определяет радиальный градиент. |
-| [SpreadMethod](../../aspose.page.xps.xpsmodel/xpsgradientbrush/spreadmethod) { get; set; } | Возвращает/задает значение, описывающее, как кисть должна заполнять область содержимого за пределами основной, начальной области градиента. |
-| [Transform](../../aspose.page.xps.xpsmodel/xpstransformablebrush/transform) { get; set; } | Возвращает/задает матричное преобразование, примененное к координатному пространству кисти. Свойство Transform объединяется с текущим эффективным преобразованием рендеринга для получения эффективного преобразования рендеринга, локального для кисти. Окно просмотра для brush преобразуется с использованием локального эффективного преобразования рендеринга. |
+| [Center](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/center/) { get; set; } | Возвращает/задает центральную точку радиального градиента (то есть центр эллипса). |
+| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode/) { get; set; } | Возвращает/задает значение, определяющее гамма-функцию для интерполяции цвета. Коррекция гаммы не должна применяться к альфа-компоненту, если она указана. |
+| [GradientOrigin](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/gradientorigin/) { get; set; } | Возвращает/задает исходную точку радиального градиента. |
+| [GradientStops](../../aspose.page.xps.xpsmodel/xpsgradientbrush/gradientstops/) { get; set; } | Возвращает/устанавливает список остановок градиента, составляющих градиент. |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity/) { get; set; } | Возвращает/задает значение, определяющее равномерную прозрачность заливки кистью. |
+| [RadiusX](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusx/) { get; set; } | Возвращает/задает радиус в измерении x эллипса, который определяет радиальный градиент. |
+| [RadiusY](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusy/) { get; set; } | Возвращает/устанавливает радиус в измерении y эллипса, который определяет радиальный градиент. |
+| [SpreadMethod](../../aspose.page.xps.xpsmodel/xpsgradientbrush/spreadmethod/) { get; set; } | Возвращает/задает значение, описывающее, как кисть должна заполнять область содержимого за пределами основной, начальной области градиента. |
+| [Transform](../../aspose.page.xps.xpsmodel/xpstransformablebrush/transform/) { get; set; } | Возвращает/задает матричное преобразование, примененное к координатному пространству кисти. Свойство Transform объединяется с текущим эффективным преобразованием рендеринга для получения эффективного преобразования рендеринга, локального для кисти. Окно просмотра для brush преобразуется с использованием локального эффективного преобразования рендеринга. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/clone)() | Клонирует эту кисть с радиальным градиентом. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/clone/)() | Клонирует эту кисть с радиальным градиентом. |
 
 ### Смотрите также
 
-* class [XpsGradientBrush](../xpsgradientbrush)
-* пространство имен [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel)
+* class [XpsGradientBrush](../xpsgradientbrush/)
+* пространство имен [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel/)
 * сборка [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

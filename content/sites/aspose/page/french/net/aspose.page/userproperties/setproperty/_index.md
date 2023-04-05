@@ -1,7 +1,7 @@
 ---
-title: SetProperty
+title: UserProperties.SetProperty
 second_title: Aspose.Page pour la référence de l'API .NET
-description: Définit la valeur de la propriété de chaîne.
+description: UserProperties méthode. Définit la valeur de la propriété de chaîne.
 type: docs
 weight: 140
 url: /fr/net/aspose.page/userproperties/setproperty/
@@ -25,8 +25,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -50,8 +50,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -76,8 +76,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -101,8 +101,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -127,8 +127,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -152,8 +152,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -178,8 +178,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -203,9 +203,9 @@ Une propriété.
 
 ### Voir également
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -230,9 +230,9 @@ Une propriété.
 
 ### Voir également
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -256,8 +256,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -282,8 +282,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -307,8 +307,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -333,8 +333,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -358,8 +358,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -384,8 +384,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -409,8 +409,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -435,8 +435,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -460,8 +460,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
 ---
@@ -486,8 +486,8 @@ Une propriété.
 
 ### Voir également
 
-* class [UserProperties](../../userproperties)
-* espace de noms [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* espace de noms [Aspose.Page](../../userproperties/)
 * Assemblée [Aspose.Page](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

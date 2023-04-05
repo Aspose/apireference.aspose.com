@@ -1,14 +1,14 @@
 ---
-title: PageScaling.ScaleOffsetAlignmentOption
+title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: Referencia de la API de Aspose.Page para .NET
-description: Describe elScaleOffsetAlignment./pagescaling.scaleoffsetalignment opciones de características. Especifica la alineación del contenido escalado.
+description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption clase. Describe elScaleOffsetAlignment opciones de características. Especifica la alineación del contenido escalado.
 type: docs
-weight: 2460
+weight: 2520
 url: /es/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class
 
-Describe el[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment) opciones de características. Especifica la alineación del contenido escalado.
+Describe el[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment/) opciones de características. Especifica la alineación del contenido escalado.
 
 ```csharp
 public sealed class ScaleOffsetAlignmentOption : Option
@@ -18,33 +18,33 @@ public sealed class ScaleOffsetAlignmentOption : Option
 
 | Nombre | Descripción |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Obtiene el nombre del elemento. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Obtiene el nombre del elemento. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Agrega una lista de elementos al final de la lista de elementos de esta opción. Cada uno debe ser un[`ScoredProperty`](../scoredproperty) o[`Property`](../property) instancia. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Agrega una lista de elementos al final de la lista de elementos de esta opción. Cada uno debe ser un[`ScoredProperty`](../scoredproperty/) o[`Property`](../property/) instancia. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter) | Especifica que la escala debe alinearse en el centro del borde inferior del material. |
-| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft) | Especifica que la escala debe alinearse en la esquina inferior izquierda del material. |
-| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright) | Especifica que la escala debe estar alineada en la esquina inferior derecha del material. |
-| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center) | Especifica que la escala debe centrarse en el medio. |
-| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter) | Especifica que la escala debe alinearse en el centro del borde izquierdo del medio. |
-| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter) | Especifica que la escala debe alinearse en el centro del borde derecho del medio. |
-| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter) | Especifica que la escala debe alinearse en el centro del borde superior del material. |
-| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft) | Especifica que la escala debe estar alineada en la esquina superior izquierda del medio. |
-| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright) | Especifica que la escala debe estar alineada en la esquina superior derecha del medio. |
+| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter/) | Especifica que la escala debe alinearse en el centro del borde inferior del material. |
+| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft/) | Especifica que la escala debe alinearse en la esquina inferior izquierda del material. |
+| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright/) | Especifica que la escala debe estar alineada en la esquina inferior derecha del material. |
+| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center/) | Especifica que la escala debe centrarse en el medio. |
+| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter/) | Especifica que la escala debe alinearse en el centro del borde izquierdo del medio. |
+| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter/) | Especifica que la escala debe alinearse en el centro del borde derecho del medio. |
+| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter/) | Especifica que la escala debe alinearse en el centro del borde superior del material. |
+| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft/) | Especifica que la escala debe estar alineada en la esquina superior izquierda del medio. |
+| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright/) | Especifica que la escala debe estar alineada en la esquina superior derecha del medio. |
 
 ### Ver también
 
-* class [Option](../option)
-* class [PageScaling](../pagescaling)
-* espacio de nombres [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [PageScaling](../pagescaling/)
+* espacio de nombres [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * asamblea [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

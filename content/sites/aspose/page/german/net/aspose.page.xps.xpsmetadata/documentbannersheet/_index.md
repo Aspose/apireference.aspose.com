@@ -1,14 +1,14 @@
 ---
-title: DocumentBannerSheet
+title: Class DocumentBannerSheet
 second_title: Aspose.Page für .NET-API-Referenz
-description: Beschreibt das Bannerblatt das für ein bestimmtes Dokument ausgegeben werden soll. Das Bannerblatt soll auf dem default ausgegeben werdenPageMediaSize./pagemediasize und die Standardeinstellung verwendenPageMediaType./pagemediatype . Das Bannerblatt sollte auch vom Rest des Jobs isoliert werden. Das bedeutet dass alle Veredelungs oder Verarbeitungsoptionen wie DocumentDuplex./documentduplex DocumentStaple./documentstaple  oderDocumentBinding./documentbinding sollte das Bannerblatt nicht enthalten. Das Bannerblatt kann vom Rest des Auftrags isoliert sein oder nicht. Dies bedeutet dass alle JobFinishing oder Verarbeitungsoptionen das DokumentBannerblatt enthalten können. Das Bannerblatt sollte als erstes Blatt des Dokuments erscheinen. https //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
+description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet klas. Beschreibt das Bannerblatt das für ein bestimmtes Dokument ausgegeben werden soll. Das Bannerblatt soll auf dem default ausgegeben werdenPageMediaSize und die Standardeinstellung verwendenPageMediaType . Das Bannerblatt sollte auch vom Rest des Jobs isoliert werden. Das bedeutet dass alle Veredelungs oder Verarbeitungsoptionen wie DocumentDuplex DocumentStaple  oderDocumentBinding sollte das Bannerblatt nicht enthalten. Das Bannerblatt kann vom Rest des Auftrags isoliert sein oder nicht. Dies bedeutet dass alle JobFinishing oder Verarbeitungsoptionen das DokumentBannerblatt enthalten können. Das Bannerblatt sollte als erstes Blatt des Dokuments erscheinen. https //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 470
+weight: 530
 url: /de/net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class
 
-Beschreibt das Bannerblatt, das für ein bestimmtes Dokument ausgegeben werden soll. Das Bannerblatt soll auf dem default ausgegeben werden[`PageMediaSize`](../pagemediasize) und die Standardeinstellung verwenden[`PageMediaType`](../pagemediatype) . Das Bannerblatt sollte auch vom Rest des Jobs isoliert werden. Das bedeutet, dass alle Veredelungs- oder Verarbeitungsoptionen (wie [`DocumentDuplex`](../documentduplex) ,[`DocumentStaple`](../documentstaple) , oder[`DocumentBinding`](../documentbinding)) sollte das Bannerblatt nicht enthalten. Das Bannerblatt kann vom Rest des Auftrags isoliert sein oder nicht. Dies bedeutet, dass alle Job-Finishing- oder Verarbeitungsoptionen das Dokument-Bannerblatt enthalten können. Das Bannerblatt sollte als erstes Blatt des Dokuments erscheinen. https ://docs.microsoft.com/en-us/windows/win32/printdocs/documentbannersheet
+Beschreibt das Bannerblatt, das für ein bestimmtes Dokument ausgegeben werden soll. Das Bannerblatt soll auf dem default ausgegeben werden[`PageMediaSize`](../pagemediasize/) und die Standardeinstellung verwenden[`PageMediaType`](../pagemediatype/) . Das Bannerblatt sollte auch vom Rest des Jobs isoliert werden. Das bedeutet, dass alle Veredelungs- oder Verarbeitungsoptionen (wie [`DocumentDuplex`](../documentduplex/) ,[`DocumentStaple`](../documentstaple/) , oder[`DocumentBinding`](../documentbinding/)) sollte das Bannerblatt nicht enthalten. Das Bannerblatt kann vom Rest des Auftrags isoliert sein oder nicht. Dies bedeutet, dass alle Job-Finishing- oder Verarbeitungsoptionen das Dokument-Bannerblatt enthalten können. Das Bannerblatt sollte als erstes Blatt des Dokuments erscheinen. https ://docs.microsoft.com/en-us/windows/win32/printdocs/documentbannersheet
 
 ```csharp
 public sealed class DocumentBannerSheet : Feature, IDocumentPrintTicketItem, IJobPrintTicketItem
@@ -18,32 +18,32 @@ public sealed class DocumentBannerSheet : Feature, IDocumentPrintTicketItem, IJo
 
 | Name | Beschreibung |
 | --- | --- |
-| [DocumentBannerSheet](documentbannersheet)(params BannerSheetOption[]) | Erstellt eine neue Instanz. |
+| [DocumentBannerSheet](documentbannersheet/)(params BannerSheetOption[]) | Erstellt eine neue Instanz. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Ruft den Elementnamen ab. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Ruft den Elementnamen ab. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Fügt eine Liste von Elementen am Ende der Elementliste dieser Funktion hinzu. Jeder muss a sein[`Feature`](../feature) , ein[`Option`](../option) oder ein[`Property`](../property) Instanz. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Fügt eine Liste von Elementen am Ende der Elementliste dieser Funktion hinzu. Jeder muss a sein[`Feature`](../feature/) , ein[`Option`](../option/) oder ein[`Property`](../property/) Instanz. |
 
 ## Andere Mitglieder
 
 | Name | Beschreibung |
 | --- | --- |
-| class [BannerSheetOption](documentbannersheet.bannersheetoption) | Repräsentiert Optionen des[`DocumentBannerSheet`](../documentbannersheet) Funktion. |
+| class [BannerSheetOption](documentbannersheet.bannersheetoption/) | Repräsentiert Optionen des`DocumentBannerSheet` Funktion. |
 
 ### Siehe auch
 
-* class [Feature](../feature)
-* interface [IDocumentPrintTicketItem](../idocumentprintticketitem)
-* interface [IJobPrintTicketItem](../ijobprintticketitem)
-* namensraum [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Feature](../feature/)
+* interface [IDocumentPrintTicketItem](../idocumentprintticketitem/)
+* interface [IJobPrintTicketItem](../ijobprintticketitem/)
+* namensraum [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * Montage [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

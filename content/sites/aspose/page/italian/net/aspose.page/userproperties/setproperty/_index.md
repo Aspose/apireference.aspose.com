@@ -1,7 +1,7 @@
 ---
-title: SetProperty
+title: UserProperties.SetProperty
 second_title: Aspose.Page per riferimento all'API .NET
-description: Imposta il valore della proprietà della stringa.
+description: UserProperties metodo. Imposta il valore della proprietà della stringa.
 type: docs
 weight: 140
 url: /it/net/aspose.page/userproperties/setproperty/
@@ -25,8 +25,8 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -50,15 +50,15 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, string[]) {#setproperty_8}
 
-Imposta il valore della proprietà dell'array di stringhe nella tabella delle proprietà specificata.
+Imposta il valore della proprietà dell'array di stringhe nella tabella delle proprietà specificate.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, string[] value)
@@ -76,8 +76,8 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -101,15 +101,15 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, Color) {#setproperty_5}
 
-Imposta il valore della proprietà del colore nella tabella delle proprietà specificata.
+Imposta il valore della proprietà del colore nella tabella delle proprietà specificate.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, Color value)
@@ -127,8 +127,8 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -152,15 +152,15 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, Rectangle) {#setproperty_6}
 
-Imposta il valore della proprietà del rettangolo nella tabella delle proprietà specificata.
+Imposta il valore della proprietà del rettangolo nella tabella delle proprietà specificate.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, Rectangle value)
@@ -178,8 +178,8 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -203,16 +203,16 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, Margins) {#setproperty}
 
-Imposta il valore della proprietà dei margini nella tabella delle proprietà specificata.
+Imposta il valore della proprietà dei margini nella tabella delle proprietà specificate.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, Margins value)
@@ -230,16 +230,16 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(string, Size) {#setproperty_7}
 
-Imposta il valore della proprietà della dimensione.
+Imposta il valore della proprietà size.
 
 ```csharp
 public virtual object SetProperty(string key, Size value)
@@ -256,15 +256,15 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, Size) {#setproperty_7}
 
-Imposta il valore della proprietà della dimensione nella tabella delle proprietà specificata.
+Imposta il valore della proprietà size nella tabella delle proprietà specificate.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, Size value)
@@ -282,8 +282,8 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -307,15 +307,15 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, int) {#setproperty_3}
 
-Imposta il valore della proprietà intero nella tabella delle proprietà specificata.
+Imposta il valore della proprietà intero nella tabella delle proprietà specificate.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, int value)
@@ -333,15 +333,15 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(string, double) {#setproperty_2}
 
-Imposta il valore della proprietà doppia.
+Imposta il valore della proprietà double.
 
 ```csharp
 public virtual object SetProperty(string key, double value)
@@ -358,15 +358,15 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, double) {#setproperty_2}
 
-Imposta il valore della proprietà doppio nella tabella delle proprietà specificata.
+Imposta il valore della proprietà double nella tabella delle proprietà specificate.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, double value)
@@ -384,8 +384,8 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -409,15 +409,15 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, float) {#setproperty_4}
 
-Imposta il valore della proprietà float nella tabella delle proprietà specificata.
+Imposta il valore della proprietà float nella tabella delle proprietà specificate.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, float value)
@@ -435,8 +435,8 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -460,15 +460,15 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, bool) {#setproperty_1}
 
-Imposta il valore della proprietà booleana nella tabella delle proprietà specificata.
+Imposta il valore della proprietà booleana nella tabella delle proprietà specificate.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, bool value)
@@ -486,8 +486,8 @@ Una proprietà.
 
 ### Guarda anche
 
-* class [UserProperties](../../userproperties)
-* spazio dei nomi [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* spazio dei nomi [Aspose.Page](../../userproperties/)
 * assemblea [Aspose.Page](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

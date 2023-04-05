@@ -1,9 +1,9 @@
 ---
-title: JpegSaveOptions
+title: Class JpegSaveOptions
 second_title: Aspose.Page för .NET API-referens
-description: Klass för XPSasJPEGsparalternativ.
+description: Aspose.Page.XPS.Presentation.Image.JpegSaveOptions klass. Klass för XPSasJPEGsparalternativ.
 type: docs
-weight: 310
+weight: 370
 url: /sv/net/aspose.page.xps.presentation.image/jpegsaveoptions/
 ---
 ## JpegSaveOptions class
@@ -18,27 +18,27 @@ public class JpegSaveOptions : ImageSaveOptions
 
 | namn | Beskrivning |
 | --- | --- |
-| [JpegSaveOptions](jpegsaveoptions)() | Skapar ny instans av alternativ. |
+| [JpegSaveOptions](jpegsaveoptions/)() | Skapar ny instans av alternativ. |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders) { get; set; } | Anger ytterligare mappar där omvandlaren ska hitta teckensnitt för inmatningsdokument. Standardmapp är standardtypsnittsmapp där OS hittar teckensnitt för interna behov. |
-| virtual [Debug](../../aspose.page/saveoptions/debug) { get; set; } | Anger om felsökningsinformation måste skrivas ut till standardutgångsström eller inte. |
-| virtual [Exceptions](../../aspose.page/saveoptions/exceptions) { get; } | Returnerar en lista över undertryckta konverteringsfel If!:SuppressErrors är sant. |
-| [InterpolationMode](../../aspose.page.xps.presentation.image/imagesaveoptions/interpolationmode) { get; set; } | Hämtar/ställer in interpolationsläget. |
-| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel) { get; set; } | Kvalitetskategorin anger komprimeringsnivån för en bild. Tillgängliga värden är 0 till 100. Ju lägre siffra som anges, desto högre komprimering och därför lägre kvalitet på bilden. 0 värde ger lägsta bildkvalitet, medan 100 ger högsta. |
-| [PageNumbers](../../aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers) { get; set; } | Hämtar/ställer in antalet sidor som ska konverteras. |
-| [Resolution](../../aspose.page.xps.presentation.image/imagesaveoptions/resolution) { get; set; } | Hämtar/ställer in bildupplösningen. |
-| [SmoothingMode](../../aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode) { get; set; } | Hämtar/ställer in utjämningsläget. |
-| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors) { get; set; } | Anger om fel måste undertryckas eller inte. Om sanna undertryckta fel läggs till i[`Exceptions`](../../aspose.page/saveoptions/exceptions) list. Om falskt kommer det första felet att avsluta programmet. |
-| [TextRenderingHint](../../aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint) { get; set; } | Hämtar/ställer in textåtergivningstipset. |
+| [AdditionalFontsFolders](../../aspose.page/saveoptions/additionalfontsfolders/) { get; set; } | Anger ytterligare mappar där omvandlaren ska hitta teckensnitt för inmatningsdokument. Standardmapp är standardtypsnittsmapp där OS hittar teckensnitt för interna behov. |
+| virtual [Debug](../../aspose.page/saveoptions/debug/) { get; set; } | Anger om felsökningsinformation måste skrivas ut till standardutgångsström eller inte. |
+| virtual [Exceptions](../../aspose.page/saveoptions/exceptions/) { get; } | Returnerar en lista över undertryckta konverteringsfel If!:SuppressErrors är sant. |
+| [InterpolationMode](../../aspose.page.xps.presentation.image/imagesaveoptions/interpolationmode/) { get; set; } | Hämtar/ställer in interpolationsläget. |
+| [JpegQualityLevel](../../aspose.page/saveoptions/jpegqualitylevel/) { get; set; } | Kvalitetskategorin anger komprimeringsnivån för en bild. Tillgängliga värden är 0 till 100. Ju lägre siffra som anges, desto högre komprimering och därför lägre kvalitet på bilden. 0 värde ger lägsta bildkvalitet, medan 100 ger högsta. |
+| [PageNumbers](../../aspose.page.xps.presentation.image/imagesaveoptions/pagenumbers/) { get; set; } | Hämtar/ställer in antalet sidor som ska konverteras. |
+| [Resolution](../../aspose.page.xps.presentation.image/imagesaveoptions/resolution/) { get; set; } | Hämtar/ställer in bildupplösningen. |
+| [SmoothingMode](../../aspose.page.xps.presentation.image/imagesaveoptions/smoothingmode/) { get; set; } | Hämtar/ställer in utjämningsläget. |
+| virtual [SupressErrors](../../aspose.page/saveoptions/supresserrors/) { get; set; } | Anger om fel måste undertryckas eller inte. Om sanna undertryckta fel läggs till i[`Exceptions`](../../aspose.page/saveoptions/exceptions/) list. Om falskt kommer det första felet att avsluta programmet. |
+| [TextRenderingHint](../../aspose.page.xps.presentation.image/imagesaveoptions/textrenderinghint/) { get; set; } | Hämtar/ställer in textåtergivningstipset. |
 
 ### Se även
 
-* class [ImageSaveOptions](../imagesaveoptions)
-* namnutrymme [Aspose.Page.XPS.Presentation.Image](../../aspose.page.xps.presentation.image)
+* class [ImageSaveOptions](../imagesaveoptions/)
+* namnutrymme [Aspose.Page.XPS.Presentation.Image](../../aspose.page.xps.presentation.image/)
 * hopsättning [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

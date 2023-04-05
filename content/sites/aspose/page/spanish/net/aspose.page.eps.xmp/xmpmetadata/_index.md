@@ -1,9 +1,9 @@
 ---
-title: XmpMetadata
+title: Class XmpMetadata
 second_title: Referencia de la API de Aspose.Page para .NET
-description: Proporciona acceso al flujo de metadatos XMP.
+description: Aspose.Page.EPS.XMP.XmpMetadata clase. Proporciona acceso al flujo de metadatos XMP.
 type: docs
-weight: 130
+weight: 190
 url: /es/net/aspose.page.eps.xmp/xmpmetadata/
 ---
 ## XmpMetadata class
@@ -18,46 +18,46 @@ public sealed class XmpMetadata : IDictionary<string, XmpValue>
 
 | Nombre | Descripción |
 | --- | --- |
-| [Count](../../aspose.page.eps.xmp/xmpmetadata/count) { get; } | Obtiene el conteo de elementos en la colección. |
-| [IsFixedSize](../../aspose.page.eps.xmp/xmpmetadata/isfixedsize) { get; } | Comprueba si la colección tiene un tamaño fijo. |
-| [IsReadOnly](../../aspose.page.eps.xmp/xmpmetadata/isreadonly) { get; } | Comprueba si la colección es de solo lectura. |
-| [IsSynchronized](../../aspose.page.eps.xmp/xmpmetadata/issynchronized) { get; } | Comprueba si la colección está sincronizada. |
-| [Item](../../aspose.page.eps.xmp/xmpmetadata/item) { get; set; } | Obtiene o establece datos de metadatos. |
-| [Keys](../../aspose.page.eps.xmp/xmpmetadata/keys) { get; } | Obtiene la colección de claves de metadatos. |
-| [NamespaceManager](../../aspose.page.eps.xmp/xmpmetadata/namespacemanager) { get; } | Obtiene el administrador de espacio de nombres. |
-| [SyncRoot](../../aspose.page.eps.xmp/xmpmetadata/syncroot) { get; } | Obtiene el objeto de sincronización de la colección. |
-| [Values](../../aspose.page.eps.xmp/xmpmetadata/values) { get; } | Obtiene valores en los metadatos. |
+| [Count](../../aspose.page.eps.xmp/xmpmetadata/count/) { get; } | Obtiene el conteo de elementos en la colección. |
+| [IsFixedSize](../../aspose.page.eps.xmp/xmpmetadata/isfixedsize/) { get; } | Comprueba si la colección tiene un tamaño fijo. |
+| [IsReadOnly](../../aspose.page.eps.xmp/xmpmetadata/isreadonly/) { get; } | Comprueba si la colección es de solo lectura. |
+| [IsSynchronized](../../aspose.page.eps.xmp/xmpmetadata/issynchronized/) { get; } | Comprueba si la colección está sincronizada. |
+| [Item](../../aspose.page.eps.xmp/xmpmetadata/item/) { get; set; } | Obtiene o establece datos de metadatos. |
+| [Keys](../../aspose.page.eps.xmp/xmpmetadata/keys/) { get; } | Obtiene la colección de claves de metadatos. |
+| [NamespaceManager](../../aspose.page.eps.xmp/xmpmetadata/namespacemanager/) { get; } | Obtiene el administrador de espacio de nombres. |
+| [SyncRoot](../../aspose.page.eps.xmp/xmpmetadata/syncroot/) { get; } | Obtiene el objeto de sincronización de la colección. |
+| [Values](../../aspose.page.eps.xmp/xmpmetadata/values/) { get; } | Obtiene valores en los metadatos. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Add](../../aspose.page.eps.xmp/xmpmetadata/add#add)(KeyValuePair&lt;string, XmpValue&gt;) | Agrega par con clave y valor en el diccionario. |
-| [Add](../../aspose.page.eps.xmp/xmpmetadata/add#add_2)(string, object) | Agrega valor a los metadatos. |
-| [Add](../../aspose.page.eps.xmp/xmpmetadata/add#add_1)(string, XmpValue) | Agrega valor a los metadatos. |
-| [AddArrayItem](../../aspose.page.eps.xmp/xmpmetadata/addarrayitem#addarrayitem)(string, XmpValue) | Agrega valor a una matriz. El valor se agregará al final de la matriz. |
-| [AddArrayItem](../../aspose.page.eps.xmp/xmpmetadata/addarrayitem#addarrayitem_1)(string, int, XmpValue) | Agrega valor a una matriz según el índice especificado. |
-| [AddNamedValue](../../aspose.page.eps.xmp/xmpmetadata/addnamedvalue)(string, string, XmpValue) | Agrega un valor con nombre en una estructura. |
-| [Clear](../../aspose.page.eps.xmp/xmpmetadata/clear)() | Borra los metadatos. |
-| [Contains](../../aspose.page.eps.xmp/xmpmetadata/contains#contains)(KeyValuePair&lt;string, XmpValue&gt;) | Comprueba si el par clave-valor especificado está contenido en el diccionario. |
-| [Contains](../../aspose.page.eps.xmp/xmpmetadata/contains#contains_1)(string) | Comprueba si la clave está contenida en los metadatos. |
-| [ContainsKey](../../aspose.page.eps.xmp/xmpmetadata/containskey)(string) | Determina si este diccionario contiene la clave especificada. |
-| [CopyTo](../../aspose.page.eps.xmp/xmpmetadata/copyto)(KeyValuePair&lt;string, XmpValue&gt;[], int) | Copia elementos de la colección en array. |
-| [GetEnumerator](../../aspose.page.eps.xmp/xmpmetadata/getenumerator)() | Devuelve el enumerador de diccionario. |
-| [GetNamespaceUriByPrefix](../../aspose.page.eps.xmp/xmpmetadata/getnamespaceuribyprefix)(string) | Devuelve el URI del espacio de nombres por prefijo. |
-| [GetPrefixByNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/getprefixbynamespaceuri)(string) | Devuelve el prefijo por URI de espacio de nombres. |
-| [RegisterNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/registernamespaceuri#registernamespaceuri)(string, string) | URI de espacio de nombres de registros. |
-| [RegisterNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/registernamespaceuri#registernamespaceuri_1)(string, string, string) | URI de espacio de nombres de registros. |
-| [Remove](../../aspose.page.eps.xmp/xmpmetadata/remove#remove)(KeyValuePair&lt;string, XmpValue&gt;) | Elimina el par clave/valor de la colección. |
-| [Remove](../../aspose.page.eps.xmp/xmpmetadata/remove#remove_1)(string) | Elimina la entrada de los metadatos. |
-| [SetArrayItem](../../aspose.page.eps.xmp/xmpmetadata/setarrayitem)(string, int, XmpValue) | Establece el valor en una matriz. El valor anterior será reemplazado por uno nuevo. |
-| [SetNamedValue](../../aspose.page.eps.xmp/xmpmetadata/setnamedvalue)(string, string, XmpValue) | Establece el valor con nombre en una estructura. El valor con nombre anterior, si ya existe, será reemplazado por uno nuevo. |
-| [TryGetValue](../../aspose.page.eps.xmp/xmpmetadata/trygetvalue)(string, out XmpValue) | Intenta encontrar la clave en el diccionario y recupera el valor si lo encuentra. |
+| [Add](../../aspose.page.eps.xmp/xmpmetadata/add/#add)(KeyValuePair&lt;string, XmpValue&gt;) | Agrega par con clave y valor en el diccionario. |
+| [Add](../../aspose.page.eps.xmp/xmpmetadata/add/#add_2)(string, object) | Agrega valor a los metadatos. |
+| [Add](../../aspose.page.eps.xmp/xmpmetadata/add/#add_1)(string, XmpValue) | Agrega valor a los metadatos. |
+| [AddArrayItem](../../aspose.page.eps.xmp/xmpmetadata/addarrayitem/#addarrayitem)(string, XmpValue) | Agrega valor a una matriz. El valor se agregará al final de la matriz. |
+| [AddArrayItem](../../aspose.page.eps.xmp/xmpmetadata/addarrayitem/#addarrayitem_1)(string, int, XmpValue) | Agrega valor a una matriz según el índice especificado. |
+| [AddNamedValue](../../aspose.page.eps.xmp/xmpmetadata/addnamedvalue/)(string, string, XmpValue) | Agrega un valor con nombre en una estructura. |
+| [Clear](../../aspose.page.eps.xmp/xmpmetadata/clear/)() | Borra los metadatos. |
+| [Contains](../../aspose.page.eps.xmp/xmpmetadata/contains/#contains)(KeyValuePair&lt;string, XmpValue&gt;) | Comprueba si el par clave-valor especificado está contenido en el diccionario. |
+| [Contains](../../aspose.page.eps.xmp/xmpmetadata/contains/#contains_1)(string) | Comprueba si la clave está contenida en los metadatos. |
+| [ContainsKey](../../aspose.page.eps.xmp/xmpmetadata/containskey/)(string) | Determina si este diccionario contiene la clave especificada. |
+| [CopyTo](../../aspose.page.eps.xmp/xmpmetadata/copyto/)(KeyValuePair&lt;string, XmpValue&gt;[], int) | Copia elementos de la colección en array. |
+| [GetEnumerator](../../aspose.page.eps.xmp/xmpmetadata/getenumerator/)() | Devuelve el enumerador de diccionario. |
+| [GetNamespaceUriByPrefix](../../aspose.page.eps.xmp/xmpmetadata/getnamespaceuribyprefix/)(string) | Devuelve el URI del espacio de nombres por prefijo. |
+| [GetPrefixByNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/getprefixbynamespaceuri/)(string) | Devuelve el prefijo por URI de espacio de nombres. |
+| [RegisterNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/registernamespaceuri/#registernamespaceuri)(string, string) | URI de espacio de nombres de registros. |
+| [RegisterNamespaceUri](../../aspose.page.eps.xmp/xmpmetadata/registernamespaceuri/#registernamespaceuri_1)(string, string, string) | URI de espacio de nombres de registros. |
+| [Remove](../../aspose.page.eps.xmp/xmpmetadata/remove/#remove)(KeyValuePair&lt;string, XmpValue&gt;) | Elimina el par clave/valor de la colección. |
+| [Remove](../../aspose.page.eps.xmp/xmpmetadata/remove/#remove_1)(string) | Elimina la entrada de los metadatos. |
+| [SetArrayItem](../../aspose.page.eps.xmp/xmpmetadata/setarrayitem/)(string, int, XmpValue) | Establece el valor en una matriz. El valor anterior será reemplazado por uno nuevo. |
+| [SetNamedValue](../../aspose.page.eps.xmp/xmpmetadata/setnamedvalue/)(string, string, XmpValue) | Establece el valor con nombre en una estructura. El valor con nombre anterior, si ya existe, será reemplazado por uno nuevo. |
+| [TryGetValue](../../aspose.page.eps.xmp/xmpmetadata/trygetvalue/)(string, out XmpValue) | Intenta encontrar la clave en el diccionario y recupera el valor si lo encuentra. |
 
 ### Ver también
 
-* class [XmpValue](../xmpvalue)
-* espacio de nombres [Aspose.Page.EPS.XMP](../../aspose.page.eps.xmp)
+* class [XmpValue](../xmpvalue/)
+* espacio de nombres [Aspose.Page.EPS.XMP](../../aspose.page.eps.xmp/)
 * asamblea [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: XpsCanvas
+title: Class XpsCanvas
 second_title: Справочник по Aspose.Page для .NET API
-description: Класс инкапсулирующий функции элемента Canvas. Этот элемент группирует элементы вместе. Например элементы Glyphs и Path могут быть сгруппированы на холсте чтобы их можно было идентифицировать как единое целое как место назначения гиперссылки или для применения составного значения свойства к каждому дочернему элементу и элементупредку.
+description: Aspose.Page.XPS.XpsModel.XpsCanvas сорт. Класс инкапсулирующий функции элемента Canvas. Этот элемент группирует элементы вместе. Например элементы Glyphs и Path могут быть сгруппированы на холсте чтобы их можно было идентифицировать как единое целое как место назначения гиперссылки или для применения составного значения свойства к каждому дочернему элементу и элементупредку.
 type: docs
-weight: 2910
+weight: 2970
 url: /ru/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class
@@ -18,34 +18,34 @@ public sealed class XpsCanvas : XpsContentElement
 
 | Имя | Описание |
 | --- | --- |
-| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | Возвращает/задает экземпляр геометрии пути, ограничивающий визуализируемую область элемента. |
-| [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Возвращает количество дочерних элементов. |
-| [EdgeMode](../../aspose.page.xps.xpsmodel/xpscanvas/edgemode) { get; set; } | Возвращает/задает значение, управляющее визуализацией краев контуров на холсте. |
-| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Возвращает/задает целевой объект гиперссылки. |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Предоставляет доступ к дочерним элементам по индексу*i* . |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | Возвращает/устанавливает значение, определяющее равномерную прозрачность элемента. |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | Возвращает/задает кисть, задающую маску альфа-значений , которая применяется к элементу таким же образом, как атрибут непрозрачности, , но допускает разные значения альфа-канала для разных областей элемента. |
-| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | Возвращает/задает матрицу аффинного преобразования, устанавливающую новую координатную рамку для всех атрибутов элемента и для всех дочерних элементов (если есть). |
+| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip/) { get; set; } | Возвращает/задает экземпляр геометрии пути, ограничивающий визуализируемую область элемента. |
+| [Count](../../aspose.page.xps.xpsmodel/xpselement/count/) { get; } | Возвращает количество дочерних элементов. |
+| [EdgeMode](../../aspose.page.xps.xpsmodel/xpscanvas/edgemode/) { get; set; } | Возвращает/задает значение, управляющее визуализацией краев контуров на холсте. |
+| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget/) { get; set; } | Возвращает/задает целевой объект гиперссылки. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item/) { get; } | Предоставляет доступ к дочерним элементам по индексу*i* . |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity/) { get; set; } | Возвращает/устанавливает значение, определяющее равномерную прозрачность элемента. |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask/) { get; set; } | Возвращает/задает кисть, задающую маску альфа-значений , которая применяется к элементу таким же образом, как атрибут непрозрачности, , но допускает разные значения альфа-канала для разных областей элемента. |
+| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform/) { get; set; } | Возвращает/задает матрицу аффинного преобразования, устанавливающую новую координатную рамку для всех атрибутов элемента и для всех дочерних элементов (если есть). |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/add)(T) | Добавляет элемент в дочерний список этого холста. |
-| [AddCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/addcanvas)() | Добавляет новый холст в список дочерних элементов этого холста. |
-| [AddGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/addglyphs)(string, float, FontStyle, float, float, string) | Добавляет новые глифы в список дочерних элементов этого холста. |
-| [AddPath](../../aspose.page.xps.xpsmodel/xpscanvas/addpath)(XpsPathGeometry) | Добавляет новый путь к дочернему списку этого холста. |
-| [Clone](../../aspose.page.xps.xpsmodel/xpscanvas/clone)() | Клонирует этот холст. |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | РеализацияIEnumerable интерфейс. |
-| [Insert&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/insert)(int, T) | Вставляет элемент в дочерний список этого холста в*index* позиция. |
-| [InsertCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/insertcanvas)(int) | Вставляет новый холст в дочерний список этого холста в*index* позиция. |
-| [InsertGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/insertglyphs)(int, string, float, FontStyle, float, float, string) | Вставляет новые глифы в дочерний список этого холста в*index* позиция. |
-| [InsertPath](../../aspose.page.xps.xpsmodel/xpscanvas/insertpath)(int, XpsPathGeometry) | Вставляет новый путь к дочернему списку этого холста в*index* позиция. |
+| [Add&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/add/)(T) | Добавляет элемент в дочерний список этого холста. |
+| [AddCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/addcanvas/)() | Добавляет новый холст в список дочерних элементов этого холста. |
+| [AddGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/addglyphs/)(string, float, FontStyle, float, float, string) | Добавляет новые глифы в список дочерних элементов этого холста. |
+| [AddPath](../../aspose.page.xps.xpsmodel/xpscanvas/addpath/)(XpsPathGeometry) | Добавляет новый путь к дочернему списку этого холста. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpscanvas/clone/)() | Клонирует этот холст. |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator/)() | РеализацияIEnumerable интерфейс. |
+| [Insert&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/insert/)(int, T) | Вставляет элемент в дочерний список этого холста в*index* позиция. |
+| [InsertCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/insertcanvas/)(int) | Вставляет новый холст в дочерний список этого холста в*index* позиция. |
+| [InsertGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/insertglyphs/)(int, string, float, FontStyle, float, float, string) | Вставляет новые глифы в дочерний список этого холста в*index* позиция. |
+| [InsertPath](../../aspose.page.xps.xpsmodel/xpscanvas/insertpath/)(int, XpsPathGeometry) | Вставляет новый путь к дочернему списку этого холста в*index* позиция. |
 
 ### Смотрите также
 
-* class [XpsContentElement](../xpscontentelement)
-* пространство имен [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel)
+* class [XpsContentElement](../xpscontentelement/)
+* пространство имен [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel/)
 * сборка [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: PageWatermark
+title: Class PageWatermark
 second_title: Aspose.Page pour la référence de l'API .NET
-description: Décrit le réglage du filigrane de la sortie et les caractéristiques du filigrane. Les filigranes sappliquent à la page logique pas à la page physique. Par exemple siDocumentDuplex./documentduplex est activé un filigrane apparaîtra sur chaque page sur chaque feuille. SiDocumentDuplex./documentduplex  2 alors chaque feuille aura 2 filigranes. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
+description: Aspose.Page.XPS.XpsMetadata.PageWatermark classe. Décrit le réglage du filigrane de la sortie et les caractéristiques du filigrane. Les filigranes sappliquent à la page logique pas à la page physique. Par exemple siDocumentDuplex est activé un filigrane apparaîtra sur chaque page sur chaque feuille. SiDocumentDuplex  2 alors chaque feuille aura 2 filigranes. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2580
+weight: 2640
 url: /fr/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class
 
-Décrit le réglage du filigrane de la sortie et les caractéristiques du filigrane. Les filigranes s'appliquent à la page logique, pas à la page physique. Par exemple, si[`DocumentDuplex`](../documentduplex) est activé, un filigrane apparaîtra sur chaque page sur chaque feuille. Si[`DocumentDuplex`](../documentduplex) , =2, alors chaque feuille aura 2 filigranes. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermark
+Décrit le réglage du filigrane de la sortie et les caractéristiques du filigrane. Les filigranes s'appliquent à la page logique, pas à la page physique. Par exemple, si[`DocumentDuplex`](../documentduplex/) est activé, un filigrane apparaîtra sur chaque page sur chaque feuille. Si[`DocumentDuplex`](../documentduplex/) , =2, alors chaque feuille aura 2 filigranes. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagewatermark
 
 ```csharp
 NUp
@@ -27,37 +27,37 @@ public sealed class PageWatermark : Feature, IDocumentPrintTicketItem, IJobPrint
 
 | Nom | La description |
 | --- | --- |
-| [PageWatermark](pagewatermark)(params IPageWatermarkItem[]) | Crée une nouvelle instance. |
+| [PageWatermark](pagewatermark/)(params IPageWatermarkItem[]) | Crée une nouvelle instance. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Obtient le nom de l'élément. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Obtient le nom de l'élément. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Ajoute une liste d'éléments à la fin de la liste d'éléments de cette fonctionnalité. Chacun doit être un[`Feature`](../feature) , un[`Option`](../option) ou un[`Property`](../property) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Ajoute une liste d'éléments à la fin de la liste d'éléments de cette fonctionnalité. Chacun doit être un[`Feature`](../feature/) , un[`Option`](../option/) ou un[`Property`](../property/) instance. |
 
 ## Autres membres
 
 | Nom | La description |
 | --- | --- |
-| interface [IPageWatermarkItem](pagewatermark.ipagewatermarkitem) | L'interface de tout[`PageWatermark`](../pagewatermark) élément caractéristique. |
-| interface [IPageWatermarkOptionItem](pagewatermark.ipagewatermarkoptionitem) | L'interface de tout[`PageWatermarkOption`](../pagewatermark.pagewatermarkoption) article. |
-| class [Layering](pagewatermark.layering) | Décrit l'intérieur caractéristique. Définit le comportement de superposition du filigrane. |
-| class [LayeringOption](pagewatermark.layeringoption) | Décrit le[`Layering`](../pagewatermark.layering) options de fonctionnalité. |
-| class [PageWatermarkOption](pagewatermark.pagewatermarkoption) | Décrit le[`PageWatermark`](../pagewatermark) options de fonctionnalités. |
+| interface [IPageWatermarkItem](pagewatermark.ipagewatermarkitem/) | L'interface de tout`PageWatermark` élément caractéristique. |
+| interface [IPageWatermarkOptionItem](pagewatermark.ipagewatermarkoptionitem/) | L'interface de tout[`PageWatermarkOption`](../pagewatermark.pagewatermarkoption/) article. |
+| class [Layering](pagewatermark.layering/) | Décrit l'intérieur fonctionnalité. Définit le comportement de superposition du filigrane. |
+| class [LayeringOption](pagewatermark.layeringoption/) | Décrit le[`Layering`](../pagewatermark.layering/) options de fonctionnalité. |
+| class [PageWatermarkOption](pagewatermark.pagewatermarkoption/) | Décrit le`PageWatermark` options de fonctionnalités. |
 
 ### Voir également
 
-* class [Feature](../feature)
-* interface [IDocumentPrintTicketItem](../idocumentprintticketitem)
-* interface [IJobPrintTicketItem](../ijobprintticketitem)
-* interface [IPagePrintTicketItem](../ipageprintticketitem)
-* espace de noms [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Feature](../feature/)
+* interface [IDocumentPrintTicketItem](../idocumentprintticketitem/)
+* interface [IJobPrintTicketItem](../ijobprintticketitem/)
+* interface [IPagePrintTicketItem](../ipageprintticketitem/)
+* espace de noms [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * Assemblée [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

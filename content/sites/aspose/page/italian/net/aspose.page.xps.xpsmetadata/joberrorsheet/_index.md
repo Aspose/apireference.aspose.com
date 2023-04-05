@@ -1,14 +1,14 @@
 ---
-title: JobErrorSheet
+title: Class JobErrorSheet
 second_title: Aspose.Page per riferimento all'API .NET
-description: Descrive loutput del foglio di errore. Lintero lavoro avrà un unico foglio di errore. Il foglio di errore dovrebbe essere emesso per impostazione predefinitaPageMediaSize./pagemediasize e utilizzando limpostazione predefinitaPageMediaType./pagemediatype . Il foglio di errore deve essere isolato dal resto del lavoro. Ciò significa che qualsiasi opzione di finitura o elaborazione come   o  non dovrebbe includere il foglio di errore. Il foglio di errore dovrebbe essere visualizzato come foglio finale del lavoro. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
+description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet classe. Descrive loutput del foglio degli errori. Lintero lavoro avrà un unico foglio di errore. Lerrore sheet dovrebbe essere visualizzato come predefinitoPageMediaSize e utilizzando limpostazione predefinitaPageMediaType . Il foglio degli errori deve essere isolato dal resto del lavoro. Ciò significa che qualsiasi opzione di finitura o elaborazione come   O  non deve includere il foglio degli errori. Il foglio degli errori dovrebbe essere il foglio finale del lavoro. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1230
+weight: 1290
 url: /it/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class
 
-Descrive l'output del foglio di errore. L'intero lavoro avrà un unico foglio di errore. Il foglio di errore dovrebbe essere emesso per impostazione predefinita[`PageMediaSize`](../pagemediasize) e utilizzando l'impostazione predefinita[`PageMediaType`](../pagemediatype) . Il foglio di errore deve essere isolato dal resto del lavoro. Ciò significa che qualsiasi opzione di finitura o elaborazione (come , , o ) non dovrebbe includere il foglio di errore. Il foglio di errore dovrebbe essere visualizzato come foglio finale del lavoro. https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet
+Descrive l'output del foglio degli errori. L'intero lavoro avrà un unico foglio di errore. L'errore sheet dovrebbe essere visualizzato come predefinito[`PageMediaSize`](../pagemediasize/) e utilizzando l'impostazione predefinita[`PageMediaType`](../pagemediatype/) . Il foglio degli errori deve essere isolato dal resto del lavoro. Ciò significa che qualsiasi opzione di finitura o elaborazione (come , , O ) non deve includere il foglio degli errori. Il foglio degli errori dovrebbe essere il foglio finale del lavoro. https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet
 
 ```csharp
 JobDuplex
@@ -30,33 +30,33 @@ public sealed class JobErrorSheet : Feature, IJobPrintTicketItem
 
 | Nome | Descrizione |
 | --- | --- |
-| [JobErrorSheet](joberrorsheet)(params IJobErrorSheetItem[]) | Crea una nuova istanza. |
+| [JobErrorSheet](joberrorsheet/)(params IJobErrorSheetItem[]) | Crea una nuova istanza. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Ottiene il nome dell'elemento. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Ottiene il nome dell'elemento. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/feature/add)(params IFeatureItem[]) | Aggiunge un elenco di elementi alla fine dell'elenco di elementi di questa funzione. Ognuno deve essere a[`Feature`](../feature) , un[`Option`](../option) o a[`Property`](../property) istanza. |
+| [Add](../../aspose.page.xps.xpsmetadata/feature/add/)(params IFeatureItem[]) | Aggiunge un elenco di elementi alla fine dell'elenco di elementi di questa funzione. Ognuno deve essere a[`Feature`](../feature/) , UN[`Option`](../option/) o un[`Property`](../property/) istanza. |
 
 ## Altri membri
 
 | Nome | Descrizione |
 | --- | --- |
-| class [ErrorSheetOption](joberrorsheet.errorsheetoption) | Descrive il[`JobErrorSheet`](../joberrorsheet) opzioni delle funzioni. |
-| class [ErrorSheetWhen](joberrorsheet.errorsheetwhen) | Descrive interno caratteristica. |
-| interface [IJobErrorSheetItem](joberrorsheet.ijoberrorsheetitem) | L'interfaccia di qualsiasi[`JobErrorSheet`](../joberrorsheet) elemento in funzione. |
+| class [ErrorSheetOption](joberrorsheet.errorsheetoption/) | Descrive il`JobErrorSheet` opzioni di funzionalità. |
+| class [ErrorSheetWhen](joberrorsheet.errorsheetwhen/) | Descrive inner caratteristica. |
+| interface [IJobErrorSheetItem](joberrorsheet.ijoberrorsheetitem/) | L'interfaccia di qualsiasi`JobErrorSheet` elemento caratteristica. |
 
 ### Guarda anche
 
-* class [Feature](../feature)
-* interface [IJobPrintTicketItem](../ijobprintticketitem)
-* spazio dei nomi [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Feature](../feature/)
+* interface [IJobPrintTicketItem](../ijobprintticketitem/)
+* spazio dei nomi [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * assemblea [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

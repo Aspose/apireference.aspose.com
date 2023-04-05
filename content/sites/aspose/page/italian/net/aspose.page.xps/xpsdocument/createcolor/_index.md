@@ -1,7 +1,7 @@
 ---
-title: CreateColor
+title: XpsDocument.CreateColor
 second_title: Aspose.Page per riferimento all'API .NET
-description: Crea un nuovo colore.
+description: XpsDocument metodo. Crea un nuovo colore.
 type: docs
 weight: 180
 url: /it/net/aspose.page.xps/xpsdocument/createcolor/
@@ -24,9 +24,9 @@ Nuovo colore.
 
 ### Guarda anche
 
-* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
-* class [XpsDocument](../../xpsdocument)
-* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument)
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [XpsDocument](../)
+* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -41,8 +41,8 @@ public XpsColor CreateColor(int a, int r, int g, int b)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| a | Int32 | Il componente del colore alfa. |
-| r | Int32 | La componente di colore rosso. |
+| a | Int32 | La componente di colore alfa. |
+| r | Int32 | La componente del colore rosso. |
 | g | Int32 | La componente di colore verde. |
 | b | Int32 | La componente di colore blu. |
 
@@ -52,9 +52,9 @@ Nuovo colore.
 
 ### Guarda anche
 
-* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
-* class [XpsDocument](../../xpsdocument)
-* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument)
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [XpsDocument](../)
+* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -69,7 +69,7 @@ public XpsColor CreateColor(int r, int g, int b)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| r | Int32 | La componente di colore rosso. |
+| r | Int32 | La componente del colore rosso. |
 | g | Int32 | La componente di colore verde. |
 | b | Int32 | La componente di colore blu. |
 
@@ -79,9 +79,9 @@ Nuovo colore.
 
 ### Guarda anche
 
-* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
-* class [XpsDocument](../../xpsdocument)
-* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument)
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [XpsDocument](../)
+* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -96,8 +96,8 @@ public XpsColor CreateColor(float a, float r, float g, float b)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| a | Single | Il componente del colore alfa. |
-| r | Single | La componente di colore rosso. |
+| a | Single | La componente di colore alfa. |
+| r | Single | La componente del colore rosso. |
 | g | Single | La componente di colore verde. |
 | b | Single | La componente di colore blu. |
 
@@ -107,9 +107,9 @@ Nuovo colore.
 
 ### Guarda anche
 
-* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
-* class [XpsDocument](../../xpsdocument)
-* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument)
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [XpsDocument](../)
+* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -124,7 +124,7 @@ public XpsColor CreateColor(float r, float g, float b)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| r | Single | La componente di colore rosso. |
+| r | Single | La componente del colore rosso. |
 | g | Single | La componente di colore verde. |
 | b | Single | La componente di colore blu. |
 
@@ -134,9 +134,9 @@ Nuovo colore.
 
 ### Guarda anche
 
-* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
-* class [XpsDocument](../../xpsdocument)
-* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument)
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [XpsDocument](../)
+* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -151,7 +151,7 @@ public XpsColor CreateColor(string path, params float[] components)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| path | String | Il percorso del profilo ICC. |
+| path | String | Il percorso per il profilo ICC. |
 | components | Single[] | Componenti di colore. |
 
 ### Valore di ritorno
@@ -160,9 +160,9 @@ Nuovo colore.
 
 ### Guarda anche
 
-* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
-* class [XpsDocument](../../xpsdocument)
-* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument)
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [XpsDocument](../)
+* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument/)
 * assemblea [Aspose.Page](../../../)
 
 ---
@@ -186,10 +186,10 @@ Nuovo colore.
 
 ### Guarda anche
 
-* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor)
-* class [XpsIccProfile](../../../aspose.page.xps.xpsmodel/xpsiccprofile)
-* class [XpsDocument](../../xpsdocument)
-* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument)
+* class [XpsColor](../../../aspose.page.xps.xpsmodel/xpscolor/)
+* class [XpsIccProfile](../../../aspose.page.xps.xpsmodel/xpsiccprofile/)
+* class [XpsDocument](../)
+* spazio dei nomi [Aspose.Page.XPS](../../xpsdocument/)
 * assemblea [Aspose.Page](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

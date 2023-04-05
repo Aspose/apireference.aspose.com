@@ -1,14 +1,14 @@
 ---
-title: PageScaling.ScaleOffsetAlignmentOption
+title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: Справочник по Aspose.Page для .NET API
-description: ОписываетScaleOffsetAlignment./pagescaling.scaleoffsetalignment options options. Определяет выравнивание масштабируемого содержимого.
+description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption сорт. ОписываетScaleOffsetAlignment options options. Определяет выравнивание масштабируемого содержимого.
 type: docs
-weight: 2460
+weight: 2520
 url: /ru/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class
 
-Описывает[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment) options options. Определяет выравнивание масштабируемого содержимого.
+Описывает[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment/) options options. Определяет выравнивание масштабируемого содержимого.
 
 ```csharp
 public sealed class ScaleOffsetAlignmentOption : Option
@@ -18,33 +18,33 @@ public sealed class ScaleOffsetAlignmentOption : Option
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Получает имя элемента. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Получает имя элемента. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Добавляет список элементов в конец списка элементов этой опции. Каждый должен быть[`ScoredProperty`](../scoredproperty) или же[`Property`](../property) экземпляр. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Добавляет список элементов в конец списка элементов этой опции. Каждый должен быть[`ScoredProperty`](../scoredproperty/) или[`Property`](../property/) экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter) | Указывает, что масштабирование должно быть выровнено по центру нижнего края носителя. |
-| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft) | Указывает, что масштабирование должно быть выровнено по нижнему левому углу носителя. |
-| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright) | Указывает, что масштабирование должно быть выровнено по правому нижнему углу носителя. |
-| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center) | Указывает, что масштабирование должно быть сосредоточено на носителе. |
-| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter) | Указывает, что масштабирование должно быть выровнено по центру левого края носителя. |
-| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter) | Указывает, что масштабирование должно быть выровнено по центру правого края носителя. |
-| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter) | Указывает, что масштабирование должно быть выровнено по центру верхнего края носителя. |
-| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft) | Указывает, что масштабирование должно быть выровнено по верхнему левому углу носителя. |
-| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright) | Указывает, что масштабирование должно быть выровнено по правому верхнему углу носителя. |
+| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter/) | Указывает, что масштабирование должно быть выровнено по центру нижнего края носителя. |
+| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft/) | Указывает, что масштабирование должно быть выровнено по нижнему левому углу носителя. |
+| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright/) | Указывает, что масштабирование должно быть выровнено по правому нижнему углу носителя. |
+| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center/) | Указывает, что масштабирование должно быть сосредоточено на носителе. |
+| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter/) | Указывает, что масштабирование должно быть выровнено по центру левого края носителя. |
+| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter/) | Указывает, что масштабирование должно быть выровнено по центру правого края носителя. |
+| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter/) | Указывает, что масштабирование должно быть выровнено по центру верхнего края носителя. |
+| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft/) | Указывает, что масштабирование должно быть выровнено по верхнему левому углу носителя. |
+| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright/) | Указывает, что масштабирование должно быть выровнено по правому верхнему углу носителя. |
 
 ### Смотрите также
 
-* class [Option](../option)
-* class [PageScaling](../pagescaling)
-* пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [PageScaling](../pagescaling/)
+* пространство имен [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * сборка [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+
