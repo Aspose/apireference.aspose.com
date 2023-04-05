@@ -1,7 +1,7 @@
 ---
-title: SetProperty
+title: UserProperties.SetProperty
 second_title: Справочник по Aspose.Page для .NET API
-description: Задает значение строкового свойства.
+description: UserProperties метод. Задает значение строкового свойства.
 type: docs
 weight: 140
 url: /ru/net/aspose.page/userproperties/setproperty/
@@ -25,8 +25,8 @@ public virtual object SetProperty(string key, string value)
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -50,8 +50,8 @@ public virtual object SetProperty(string key, string[] value)
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -76,8 +76,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -101,8 +101,8 @@ public virtual object SetProperty(string key, Color value)
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -127,8 +127,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -152,8 +152,8 @@ public virtual object SetProperty(string key, Rectangle value)
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -178,8 +178,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -203,9 +203,9 @@ public virtual object SetProperty(string key, Margins value)
 
 ### Смотрите также
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -230,9 +230,9 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### Смотрите также
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -256,8 +256,8 @@ public virtual object SetProperty(string key, Size value)
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -282,8 +282,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -307,8 +307,8 @@ public virtual object SetProperty(string key, int value)
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -333,8 +333,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -358,8 +358,8 @@ public virtual object SetProperty(string key, double value)
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -384,8 +384,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -409,8 +409,8 @@ public virtual object SetProperty(string key, float value)
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -435,8 +435,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -460,8 +460,8 @@ public virtual object SetProperty(string key, bool value)
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
 ---
@@ -486,8 +486,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### Смотрите также
 
-* class [UserProperties](../../userproperties)
-* пространство имен [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* пространство имен [Aspose.Page](../../userproperties/)
 * сборка [Aspose.Page](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

@@ -1,0 +1,23 @@
+---
+title: JobBindAllDocuments.BindingOption.Booklet
+second_title: Aspose.Page untuk Referensi .NET API
+description: BindingOption bidang. Menentukan penjilidan buklet.
+type: docs
+weight: 70
+url: /id/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/booklet/
+---
+## JobBindAllDocuments.BindingOption.Booklet field
+
+Menentukan penjilidan buklet.
+
+```csharp
+public static BindingOption Booklet;
+```
+
+### Lihat juga
+
+* class [BindingOption](../)
+* ruang nama [Aspose.Page.XPS.XpsMetadata](../../jobbindalldocuments.bindingoption/)
+* perakitan [Aspose.Page](../../../)
+
+

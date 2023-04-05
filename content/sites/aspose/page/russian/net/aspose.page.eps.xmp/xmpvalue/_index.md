@@ -1,9 +1,9 @@
 ---
-title: XmpValue
+title: Class XmpValue
 second_title: Справочник по Aspose.Page для .NET API
-description: Представляет значение XMP
+description: Aspose.Page.EPS.XMP.XmpValue сорт. Представляет значение XMP
 type: docs
-weight: 140
+weight: 200
 url: /ru/net/aspose.page.eps.xmp/xmpvalue/
 ---
 ## XmpValue class
@@ -18,50 +18,50 @@ public class XmpValue
 
 | Имя | Описание |
 | --- | --- |
-| [XmpValue](xmpvalue#constructor_3)(DateTime) | Конструктор для значения даты и времени. |
-| [XmpValue](xmpvalue#constructor_1)(double) | Конструктор для значения с плавающей запятой. |
-| [XmpValue](xmpvalue#constructor_2)(int) | Конструктор для целочисленного значения. |
-| [XmpValue](xmpvalue#constructor_4)(string) | Конструктор для строкового значения. |
-| [XmpValue](xmpvalue#constructor)(XmpValue[]) | Конструктор для значения массива. |
+| [XmpValue](xmpvalue/#constructor_3)(DateTime) | Конструктор для значения даты и времени. |
+| [XmpValue](xmpvalue/#constructor_1)(double) | Конструктор для значения с плавающей запятой. |
+| [XmpValue](xmpvalue/#constructor_2)(int) | Конструктор для целочисленного значения. |
+| [XmpValue](xmpvalue/#constructor_4)(string) | Конструктор для строкового значения. |
+| [XmpValue](xmpvalue/#constructor)(XmpValue[]) | Конструктор для значения массива. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [IsArray](../../aspose.page.eps.xmp/xmpvalue/isarray) { get; } | Возвращает true, если XmpValue является массивом. |
-| [IsDateTime](../../aspose.page.eps.xmp/xmpvalue/isdatetime) { get; } | Возвращает true, если значение равно DateTime. |
-| [IsDouble](../../aspose.page.eps.xmp/xmpvalue/isdouble) { get; } | Возвращает true, если значение является значением с плавающей запятой. |
-| [IsField](../../aspose.page.eps.xmp/xmpvalue/isfield) { get; } | Возвращает true, если XmpValue является полем. |
-| [IsInteger](../../aspose.page.eps.xmp/xmpvalue/isinteger) { get; } | Возвращает true, если значение целочисленное. |
-| [IsNamedValue](../../aspose.page.eps.xmp/xmpvalue/isnamedvalue) { get; } | Возвращает true, если XmpValue является именованным значением. |
-| [IsNamedValues](../../aspose.page.eps.xmp/xmpvalue/isnamedvalues) { get; } | Возвращает true, если XmpValue представляет именованные значения. |
-| [IsRaw](../../aspose.page.eps.xmp/xmpvalue/israw) { get; } | Значение не поддерживается/неизвестно, предоставляется необработанный XML-код. |
-| [IsString](../../aspose.page.eps.xmp/xmpvalue/isstring) { get; } | Возвращает true, если значение является строкой. |
-| [IsStructure](../../aspose.page.eps.xmp/xmpvalue/isstructure) { get; } | Возвращает true, если XmpValue представляет структуру. |
+| [IsArray](../../aspose.page.eps.xmp/xmpvalue/isarray/) { get; } | Возвращает true, если XmpValue является массивом. |
+| [IsDateTime](../../aspose.page.eps.xmp/xmpvalue/isdatetime/) { get; } | Возвращает true, если значение равно DateTime. |
+| [IsDouble](../../aspose.page.eps.xmp/xmpvalue/isdouble/) { get; } | Возвращает true, если значение является значением с плавающей запятой. |
+| [IsField](../../aspose.page.eps.xmp/xmpvalue/isfield/) { get; } | Возвращает true, если XmpValue является полем. |
+| [IsInteger](../../aspose.page.eps.xmp/xmpvalue/isinteger/) { get; } | Возвращает true, если значение целочисленное. |
+| [IsNamedValue](../../aspose.page.eps.xmp/xmpvalue/isnamedvalue/) { get; } | Возвращает true, если XmpValue является именованным значением. |
+| [IsNamedValues](../../aspose.page.eps.xmp/xmpvalue/isnamedvalues/) { get; } | Возвращает true, если XmpValue представляет именованные значения. |
+| [IsRaw](../../aspose.page.eps.xmp/xmpvalue/israw/) { get; } | Значение не поддерживается/неизвестно, предоставляется необработанный XML-код. |
+| [IsString](../../aspose.page.eps.xmp/xmpvalue/isstring/) { get; } | Возвращает true, если значение является строкой. |
+| [IsStructure](../../aspose.page.eps.xmp/xmpvalue/isstructure/) { get; } | Возвращает true, если XmpValue представляет структуру. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [ToArray](../../aspose.page.eps.xmp/xmpvalue/toarray)() | Возвращает массив. |
-| [ToDateTime](../../aspose.page.eps.xmp/xmpvalue/todatetime)() | Преобразует дату и время. |
-| [ToDictionary](../../aspose.page.eps.xmp/xmpvalue/todictionary)() | Возвращает словарь, содержащий именованные значения. |
-| [ToDouble](../../aspose.page.eps.xmp/xmpvalue/todouble)() | Преобразуется в двойное. |
-| [ToField](../../aspose.page.eps.xmp/xmpvalue/tofield)() | Возвращает значение XMP в виде поля XMP. |
-| [ToInteger](../../aspose.page.eps.xmp/xmpvalue/tointeger)() | Преобразует в целое число. |
-| [ToNamedValue](../../aspose.page.eps.xmp/xmpvalue/tonamedvalue)() | Возвращает значение XMP как именованное значение. |
-| [ToNamedValues](../../aspose.page.eps.xmp/xmpvalue/tonamedvalues)() | Возвращает значение XMP как набор именованных значений. |
-| [ToRaw](../../aspose.page.eps.xmp/xmpvalue/toraw)() | Необработанный XML-код для неизвестных/неподдерживаемых значений. |
-| override [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring#tostring)() | Возвращает строковое представление XmpValue. |
-| [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring#tostring_1)(IFormatProvider) | Возвращает строковое представление. |
-| [ToStringValue](../../aspose.page.eps.xmp/xmpvalue/tostringvalue)() | Преобразует в строку. |
-| [ToStructure](../../aspose.page.eps.xmp/xmpvalue/tostructure)() | Возвращает значение XMP в виде структуры (набора полей). |
-| [explicit operator](../../aspose.page.eps.xmp/xmpvalue/op_explicit#op_explicit) | Преобразует XmpValue в массив. (5 operators) |
-| [implicit operator](../../aspose.page.eps.xmp/xmpvalue/op_implicit#op_implicit_4) | Преобразует строку в XmpValue. (5 operators) |
+| [ToArray](../../aspose.page.eps.xmp/xmpvalue/toarray/)() | Возвращает массив. |
+| [ToDateTime](../../aspose.page.eps.xmp/xmpvalue/todatetime/)() | Преобразует дату и время. |
+| [ToDictionary](../../aspose.page.eps.xmp/xmpvalue/todictionary/)() | Возвращает словарь, содержащий именованные значения. |
+| [ToDouble](../../aspose.page.eps.xmp/xmpvalue/todouble/)() | Преобразуется в двойное. |
+| [ToField](../../aspose.page.eps.xmp/xmpvalue/tofield/)() | Возвращает значение XMP в виде поля XMP. |
+| [ToInteger](../../aspose.page.eps.xmp/xmpvalue/tointeger/)() | Преобразует в целое число. |
+| [ToNamedValue](../../aspose.page.eps.xmp/xmpvalue/tonamedvalue/)() | Возвращает значение XMP как именованное значение. |
+| [ToNamedValues](../../aspose.page.eps.xmp/xmpvalue/tonamedvalues/)() | Возвращает значение XMP как набор именованных значений. |
+| [ToRaw](../../aspose.page.eps.xmp/xmpvalue/toraw/)() | Необработанный XML-код для неизвестных/неподдерживаемых значений. |
+| override [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring/#tostring)() | Возвращает строковое представление XmpValue. |
+| [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring/#tostring_1)(IFormatProvider) | Возвращает строковое представление. |
+| [ToStringValue](../../aspose.page.eps.xmp/xmpvalue/tostringvalue/)() | Преобразует в строку. |
+| [ToStructure](../../aspose.page.eps.xmp/xmpvalue/tostructure/)() | Возвращает значение XMP в виде структуры (набора полей). |
+| [explicit operator](../../aspose.page.eps.xmp/xmpvalue/op_explicit/#op_explicit) | Преобразует XmpValue в массив. (5 operators) |
+| [implicit operator](../../aspose.page.eps.xmp/xmpvalue/op_implicit/#op_implicit_4) | Преобразует строку в XmpValue. (5 operators) |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Page.EPS.XMP](../../aspose.page.eps.xmp)
+* пространство имен [Aspose.Page.EPS.XMP](../../aspose.page.eps.xmp/)
 * сборка [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

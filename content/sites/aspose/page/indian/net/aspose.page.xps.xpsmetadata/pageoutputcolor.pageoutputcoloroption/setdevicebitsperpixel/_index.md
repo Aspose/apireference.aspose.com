@@ -1,0 +1,35 @@
+---
+title: PageOutputColor.PageOutputColorOption.SetDeviceBitsPerPixel
+second_title: .NET API संदर्भ के लिए Aspose.Page
+description: PageOutputColorOption तरक. सेट करत है अर्जत संपत्त मूल्य.
+type: docs
+weight: 70
+url: /hi/net/aspose.page.xps.xpsmetadata/pageoutputcolor.pageoutputcoloroption/setdevicebitsperpixel/
+---
+## PageOutputColor.PageOutputColorOption.SetDeviceBitsPerPixel method
+
+सेट करता है अर्जित संपत्ति मूल्य.
+
+```csharp
+DeviceBitsPerPixel
+```
+
+```csharp
+public PageOutputColorOption SetDeviceBitsPerPixel(int deviceBitsPerPixel)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| deviceBitsPerPixel | Int32 | ए अर्जित संपत्ति मूल्य। |
+
+### प्रतिलाभ की मात्रा
+
+यह विकल्प उदाहरण।
+
+### यह सभी देखें
+
+* class [PageOutputColorOption](../)
+* नाम स्थान [Aspose.Page.XPS.XpsMetadata](../../pageoutputcolor.pageoutputcoloroption/)
+* सभा [Aspose.Page](../../../)
+
+

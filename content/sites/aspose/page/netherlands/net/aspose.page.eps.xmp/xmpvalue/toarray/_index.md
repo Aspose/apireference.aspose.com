@@ -1,0 +1,27 @@
+---
+title: XmpValue.ToArray
+second_title: Aspose.Page voor .NET API-referentie
+description: XmpValue methode. Retourneert matrix.
+type: docs
+weight: 120
+url: /nl/net/aspose.page.eps.xmp/xmpvalue/toarray/
+---
+## XmpValue.ToArray method
+
+Retourneert matrix.
+
+```csharp
+public XmpValue[] ToArray()
+```
+
+### Winstwaarde
+
+Matrixwaarde
+
+### Zie ook
+
+* class [XmpValue](../)
+* naamruimte [Aspose.Page.EPS.XMP](../../xmpvalue/)
+* montage [Aspose.Page](../../../)
+
+

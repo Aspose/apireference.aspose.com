@@ -1,0 +1,23 @@
+---
+title: DocumentBinding.BindingOption.Fold
+second_title: Aspose.Page untuk Referensi .NET API
+description: BindingOption bidang. Menentukan pengikatan terlipat.
+type: docs
+weight: 120
+url: /id/net/aspose.page.xps.xpsmetadata/documentbinding.bindingoption/fold/
+---
+## DocumentBinding.BindingOption.Fold field
+
+Menentukan pengikatan terlipat.
+
+```csharp
+public static BindingOption Fold;
+```
+
+### Lihat juga
+
+* class [BindingOption](../)
+* ruang nama [Aspose.Page.XPS.XpsMetadata](../../documentbinding.bindingoption/)
+* perakitan [Aspose.Page](../../../)
+
+

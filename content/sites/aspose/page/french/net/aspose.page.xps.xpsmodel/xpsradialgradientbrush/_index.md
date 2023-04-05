@@ -1,9 +1,9 @@
 ---
-title: XpsRadialGradientBrush
+title: Class XpsRadialGradientBrush
 second_title: Aspose.Page pour la référence de l'API .NET
-description: Classe incorporant les fonctionnalités de lélément de propriété RadialGradientBrush. Cet élément est utilisé pour spécifier un pinceau dégradé radial.
+description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush classe. Classe incorporant les fonctionnalités de lélément de propriété RadialGradientBrush. Cet élément est utilisé pour spécifier un pinceau dégradé radial.
 type: docs
-weight: 3270
+weight: 3330
 url: /fr/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class
@@ -18,26 +18,26 @@ public sealed class XpsRadialGradientBrush : XpsGradientBrush
 
 | Nom | La description |
 | --- | --- |
-| [Center](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/center) { get; set; } | Renvoie/définit le point central du dégradé radial (c'est-à-dire le centre de l'ellipse). |
-| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode) { get; set; } | Renvoie/définit la valeur spécifiant la fonction gamma pour l'interpolation des couleurs. Le réglage gamma ne doit pas être appliqué au composant alpha, s'il est spécifié. |
-| [GradientOrigin](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/gradientorigin) { get; set; } | Renvoie/définit le point d'origine du dégradé radial. |
-| [GradientStops](../../aspose.page.xps.xpsmodel/xpsgradientbrush/gradientstops) { get; set; } | Renvoie/définit la liste des arrêts de dégradé qui composent le dégradé. |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity) { get; set; } | Renvoie/définit la valeur définissant la transparence uniforme du remplissage du pinceau. |
-| [RadiusX](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusx) { get; set; } | Renvoie/définit le rayon dans la dimension x de l'ellipse qui définit le gradient radial. |
-| [RadiusY](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusy) { get; set; } | Renvoie/définit le rayon dans la dimension y de l'ellipse qui définit le gradient radial. |
-| [SpreadMethod](../../aspose.page.xps.xpsmodel/xpsgradientbrush/spreadmethod) { get; set; } | Renvoie/définit la valeur décrivant comment le pinceau doit remplir la zone de contenu en dehors de la zone de dégradé primaire, initiale. |
-| [Transform](../../aspose.page.xps.xpsmodel/xpstransformablebrush/transform) { get; set; } | Renvoie/définit la transformation matricielle appliquée à l'espace de coordonnées du pinceau. La propriété Transform est concaténée avec la transformation de rendu effective actuelle pour produire une transformation de rendu effective locale au pinceau. La fenêtre d'affichage du brush est transformée à l'aide de la transformation de rendu effective locale. |
+| [Center](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/center/) { get; set; } | Renvoie/définit le point central du dégradé radial (c'est-à-dire le centre de l'ellipse). |
+| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode/) { get; set; } | Renvoie/définit la valeur spécifiant la fonction gamma pour l'interpolation des couleurs. Le réglage gamma ne doit pas être appliqué au composant alpha, s'il est spécifié. |
+| [GradientOrigin](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/gradientorigin/) { get; set; } | Renvoie/définit le point d'origine du dégradé radial. |
+| [GradientStops](../../aspose.page.xps.xpsmodel/xpsgradientbrush/gradientstops/) { get; set; } | Renvoie/définit la liste des arrêts de dégradé qui composent le dégradé. |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity/) { get; set; } | Renvoie/définit la valeur définissant la transparence uniforme du remplissage du pinceau. |
+| [RadiusX](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusx/) { get; set; } | Renvoie/définit le rayon dans la dimension x de l'ellipse qui définit le gradient radial. |
+| [RadiusY](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/radiusy/) { get; set; } | Renvoie/définit le rayon dans la dimension y de l'ellipse qui définit le gradient radial. |
+| [SpreadMethod](../../aspose.page.xps.xpsmodel/xpsgradientbrush/spreadmethod/) { get; set; } | Renvoie/définit la valeur décrivant comment le pinceau doit remplir la zone de contenu en dehors de la zone de dégradé primaire, initiale. |
+| [Transform](../../aspose.page.xps.xpsmodel/xpstransformablebrush/transform/) { get; set; } | Renvoie/définit la transformation matricielle appliquée à l'espace de coordonnées du pinceau. La propriété Transform est concaténée avec la transformation de rendu effective actuelle pour produire une transformation de rendu effective locale au pinceau. La fenêtre d'affichage du brush est transformée à l'aide de la transformation de rendu effective locale. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Clone](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/clone)() | Clone ce pinceau dégradé radial. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/clone/)() | Clone ce pinceau dégradé radial. |
 
 ### Voir également
 
-* class [XpsGradientBrush](../xpsgradientbrush)
-* espace de noms [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel)
+* class [XpsGradientBrush](../xpsgradientbrush/)
+* espace de noms [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel/)
 * Assemblée [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

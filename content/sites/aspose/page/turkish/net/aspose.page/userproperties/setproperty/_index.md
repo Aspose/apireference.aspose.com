@@ -1,14 +1,14 @@
 ---
-title: SetProperty
+title: UserProperties.SetProperty
 second_title: Aspose.Page for .NET API Referansı
-description: Dize özellik değerini ayarlar.
+description: UserProperties yöntem. Dizi özellik değerini ayarlar.
 type: docs
 weight: 140
 url: /tr/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}
 
-Dize özellik değerini ayarlar.
+Dizi özellik değerini ayarlar.
 
 ```csharp
 public virtual object SetProperty(string key, string value)
@@ -25,15 +25,15 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(string, string[]) {#setproperty_9}
 
-Dize dizisi özellik değerini ayarlar.
+Dizi özelliği değerini ayarlar.
 
 ```csharp
 public virtual object SetProperty(string key, string[] value)
@@ -50,8 +50,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -76,8 +76,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -101,8 +101,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -127,8 +127,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -152,8 +152,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -178,8 +178,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -203,9 +203,9 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -230,16 +230,16 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(string, Size) {#setproperty_7}
 
-Boyut özelliği değerini ayarlar.
+Boyut özellik değerini ayarlar.
 
 ```csharp
 public virtual object SetProperty(string key, Size value)
@@ -256,15 +256,15 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, Size) {#setproperty_7}
 
-Belirtilen özellikler tablosunda boyut özelliği değerini ayarlar.
+Boyut özellik değerini belirtilen özellikler tablosunda ayarlar.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, Size value)
@@ -282,8 +282,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -307,8 +307,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -333,8 +333,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -358,8 +358,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -384,15 +384,15 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(string, float) {#setproperty_4}
 
-Float özellik değerini ayarlar.
+Kayan özellik değerini ayarlar.
 
 ```csharp
 public virtual object SetProperty(string key, float value)
@@ -409,8 +409,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
@@ -435,15 +435,15 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(string, bool) {#setproperty_1}
 
-Boole özelliği değerini ayarlar.
+Boole özellik değerini ayarlar.
 
 ```csharp
 public virtual object SetProperty(string key, bool value)
@@ -460,15 +460,15 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(Dictionary&lt;string, object&gt;, string, bool) {#setproperty_1}
 
-Belirtilen özellikler tablosunda boole özelliği değerini ayarlar.
+Belirtilen özellikler tablosunda boole özellik değerini ayarlar.
 
 ```csharp
 public static object SetProperty(Dictionary<string, object> properties, string key, bool value)
@@ -486,8 +486,8 @@ Bir mülk.
 
 ### Ayrıca bakınız
 
-* class [UserProperties](../../userproperties)
-* ad alanı [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* ad alanı [Aspose.Page](../../userproperties/)
 * toplantı [Aspose.Page](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: JobDeviceLanguage.JobDeviceLanguageOption
+title: Class JobDeviceLanguage.JobDeviceLanguageOption
 second_title: Aspose.Page لمرجع NET API
-description: يصف ملفJobDeviceLanguage./jobdevicelanguage خيارات الميزة.
+description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguageJobDeviceLanguageOption فصل. يصف ملفJobDeviceLanguage خيارات الميزة.
 type: docs
-weight: 1190
+weight: 1250
 url: /ar/net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 ---
 ## JobDeviceLanguage.JobDeviceLanguageOption class
 
-يصف ملف[`JobDeviceLanguage`](../jobdevicelanguage) خيارات الميزة.
+يصف ملف[`JobDeviceLanguage`](../jobdevicelanguage/) خيارات الميزة.
 
 ```csharp
 public sealed class JobDeviceLanguageOption : Option
@@ -18,55 +18,55 @@ public sealed class JobDeviceLanguageOption : Option
 
 | اسم | وصف |
 | --- | --- |
-| [JobDeviceLanguageOption](jobdevicelanguageoption#constructor)(JobDeviceLanguageOption) | استنساخ مثيل هذا الخيار . |
-| [JobDeviceLanguageOption](jobdevicelanguageoption#constructor_1)(string, params IJobDeviceLanguageOptionItem[]) | إنشاء مثيل جديد . |
+| [JobDeviceLanguageOption](jobdevicelanguageoption/#constructor)(JobDeviceLanguageOption) | استنساخ مثيل هذا الخيار . |
+| [JobDeviceLanguageOption](jobdevicelanguageoption/#constructor_1)(string, params IJobDeviceLanguageOptionItem[]) | إنشاء مثيل جديد . |
 
 ## الخصائص
 
 | اسم | وصف |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | يحصل على اسم العنصر . |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | يحصل على اسم العنصر. |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/add#add)(params IJobDeviceLanguageOptionItem[]) | يضيف قائمة بملفات[`IJobDeviceLanguageOptionItem`](../jobdevicelanguage.ijobdevicelanguageoptionitem) مثيلات للخيارات. |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | إضافة قائمة بالعناصر إلى نهاية قائمة عناصر هذا الخيار. يجب أن يكون كل ملف[`ScoredProperty`](../scoredproperty) أو[`Property`](../property) المثال. |
-| [Clone](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/clone)() | استنساخ هذا الخيار. اختصار مُنشئ الاستنساخ. |
-| [SetLanguageEncoding](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguageencoding)(string) | يعين ملف قيمة الممتلكات المسجلة. |
-| [SetLanguageLevel](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguagelevel)(string) | يعين ملف قيمة الممتلكات المسجلة. |
-| [SetLanguageVersion](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguageversion)(string) | يعين ملف قيمة الممتلكات المسجلة. |
+| [Add](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/add/#add)(params IJobDeviceLanguageOptionItem[]) | يضيف قائمة بملفات[`IJobDeviceLanguageOptionItem`](../jobdevicelanguage.ijobdevicelanguageoptionitem/) مثيلات للخيارات. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | إضافة قائمة بالعناصر إلى نهاية قائمة عناصر هذا الخيار. يجب أن يكون كل ملف[`ScoredProperty`](../scoredproperty/) أو[`Property`](../property/) المثال. |
+| [Clone](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/clone/)() | استنساخ هذا الخيار. اختصار مُنشئ الاستنساخ. |
+| [SetLanguageEncoding](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguageencoding/)(string) | يعين ملف قيمة الممتلكات المسجلة. |
+| [SetLanguageLevel](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguagelevel/)(string) | يعين ملف قيمة الممتلكات المسجلة. |
+| [SetLanguageVersion](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/setlanguageversion/)(string) | يعين ملف قيمة الممتلكات المسجلة. |
 
 ## مجالات
 
 | اسم | وصف |
 | --- | --- |
-| static [ART](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/art) | لغة الجهاز المحددة هي ART. |
-| static [ASCII](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ascii) | لغة الجهاز المحددة هي ASCII. |
-| static [CaPSL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/capsl) | لغة الجهاز المحددة هي CaPSL. |
-| static [ESCP2](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/escp2) | لغة الجهاز المحددة هي ESC / P2. |
-| static [ESCPage](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/escpage) | لغة الجهاز المحددة هي ESC / الصفحة. |
-| static [HPGL2](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/hpgl2) | لغة الجهاز المحددة هي HP-GL / 2. |
-| static [KPDL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/kpdl) | لغة الجهاز المحددة هي KPDL. |
-| static [KS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ks) | لغة الجهاز المحددة هي KS. |
-| static [KSSM](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/kssm) | لغة الجهاز المحددة هي KSSM. |
-| static [PCL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl) | لغة الجهاز المحددة هي PCL. |
-| static [PCL5c](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl5c) | لغة الجهاز المحددة هي PCL5c. |
-| static [PCL5e](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl5e) | لغة الجهاز المحددة هي PCL5e. |
-| static [PCLXL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pclxl) | لغة الجهاز المحددة هي PCL-XL. |
-| static [PostScript](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/postscript) | لغة الجهاز المحددة هي PostScript . |
-| static [PPDS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ppds) | لغة الجهاز المحددة هي PPDS. |
-| static [RPDL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/rpdl) | لغة الجهاز المحددة هي RPDL. |
-| static [RTL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/rtl) | لغة الجهاز المحددة هي RTL. |
-| static [XPS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/xps) | تحديد لغة الجهاز هي XPS. |
-| static [_201PL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/_201pl) | تحديد لغة الجهاز هي PC-PR201. |
+| static [ART](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/art/) | لغة الجهاز المحددة هي ART. |
+| static [ASCII](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ascii/) | لغة الجهاز المحددة هي ASCII. |
+| static [CaPSL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/capsl/) | لغة الجهاز المحددة هي CaPSL. |
+| static [ESCP2](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/escp2/) | لغة الجهاز المحددة هي ESC / P2. |
+| static [ESCPage](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/escpage/) | لغة الجهاز المحددة هي ESC / الصفحة. |
+| static [HPGL2](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/hpgl2/) | لغة الجهاز المحددة هي HP-GL / 2. |
+| static [KPDL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/kpdl/) | لغة الجهاز المحددة هي KPDL. |
+| static [KS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ks/) | لغة الجهاز المحددة هي KS. |
+| static [KSSM](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/kssm/) | لغة الجهاز المحددة هي KSSM. |
+| static [PCL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl/) | لغة الجهاز المحددة هي PCL. |
+| static [PCL5c](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl5c/) | لغة الجهاز المحددة هي PCL5c. |
+| static [PCL5e](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pcl5e/) | لغة الجهاز المحددة هي PCL5e. |
+| static [PCLXL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/pclxl/) | لغة الجهاز المحددة هي PCL-XL. |
+| static [PostScript](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/postscript/) | لغة الجهاز المحددة هي PostScript . |
+| static [PPDS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/ppds/) | لغة الجهاز المحددة هي PPDS. |
+| static [RPDL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/rpdl/) | لغة الجهاز المحددة هي RPDL. |
+| static [RTL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/rtl/) | لغة الجهاز المحددة هي RTL. |
+| static [XPS](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/xps/) | تحديد لغة الجهاز هي XPS. |
+| static [_201PL](../../aspose.page.xps.xpsmetadata/jobdevicelanguageoption/_201pl/) | تحديد لغة الجهاز هي PC-PR201. |
 
 ### أنظر أيضا
 
-* class [Option](../option)
-* class [JobDeviceLanguage](../jobdevicelanguage)
-* مساحة الاسم [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [JobDeviceLanguage](../jobdevicelanguage/)
+* مساحة الاسم [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * المجسم [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

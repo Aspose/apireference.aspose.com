@@ -1,9 +1,9 @@
 ---
-title: XmpValue
+title: Class XmpValue
 second_title: Aspose.Page för .NET API-referens
-description: Representerar XMPvärdet
+description: Aspose.Page.EPS.XMP.XmpValue klass. Representerar XMPvärdet
 type: docs
-weight: 140
+weight: 200
 url: /sv/net/aspose.page.eps.xmp/xmpvalue/
 ---
 ## XmpValue class
@@ -18,50 +18,50 @@ public class XmpValue
 
 | namn | Beskrivning |
 | --- | --- |
-| [XmpValue](xmpvalue#constructor_3)(DateTime) | Konstruktör för datum och tid värde. |
-| [XmpValue](xmpvalue#constructor_1)(double) | Konstruktör för flyttal Value. |
-| [XmpValue](xmpvalue#constructor_2)(int) | Konstruktor för heltalsvärde. |
-| [XmpValue](xmpvalue#constructor_4)(string) | Konstruktör för strängvärde. |
-| [XmpValue](xmpvalue#constructor)(XmpValue[]) | Konstruktör för matrisvärde. |
+| [XmpValue](xmpvalue/#constructor_3)(DateTime) | Konstruktör för datum och tid värde. |
+| [XmpValue](xmpvalue/#constructor_1)(double) | Konstruktör för flyttal Value. |
+| [XmpValue](xmpvalue/#constructor_2)(int) | Konstruktor för heltalsvärde. |
+| [XmpValue](xmpvalue/#constructor_4)(string) | Konstruktör för strängvärde. |
+| [XmpValue](xmpvalue/#constructor)(XmpValue[]) | Konstruktör för matrisvärde. |
 
 ## Egenskaper
 
 | namn | Beskrivning |
 | --- | --- |
-| [IsArray](../../aspose.page.eps.xmp/xmpvalue/isarray) { get; } | Returnerar sant är XmpValue är array. |
-| [IsDateTime](../../aspose.page.eps.xmp/xmpvalue/isdatetime) { get; } | Returnerar sant om värdet är DateTime. |
-| [IsDouble](../../aspose.page.eps.xmp/xmpvalue/isdouble) { get; } | Returnerar sant om värdet är flyttal. |
-| [IsField](../../aspose.page.eps.xmp/xmpvalue/isfield) { get; } | Returnerar sant om XmpValue är field. |
-| [IsInteger](../../aspose.page.eps.xmp/xmpvalue/isinteger) { get; } | Returnerar sant om värdet är heltal. |
-| [IsNamedValue](../../aspose.page.eps.xmp/xmpvalue/isnamedvalue) { get; } | Returnerar sant om XmpValue heter värde. |
-| [IsNamedValues](../../aspose.page.eps.xmp/xmpvalue/isnamedvalues) { get; } | Returnerar sant är XmpValue representerar namngivna värden. |
-| [IsRaw](../../aspose.page.eps.xmp/xmpvalue/israw) { get; } | Värdet stöds inte/okänt och rå XML-kod tillhandahålls. |
-| [IsString](../../aspose.page.eps.xmp/xmpvalue/isstring) { get; } | Returnerar sant om värdet är sträng. |
-| [IsStructure](../../aspose.page.eps.xmp/xmpvalue/isstructure) { get; } | Returnerar sant är XmpValue representerar struktur. |
+| [IsArray](../../aspose.page.eps.xmp/xmpvalue/isarray/) { get; } | Returnerar sant är XmpValue är array. |
+| [IsDateTime](../../aspose.page.eps.xmp/xmpvalue/isdatetime/) { get; } | Returnerar sant om värdet är DateTime. |
+| [IsDouble](../../aspose.page.eps.xmp/xmpvalue/isdouble/) { get; } | Returnerar sant om värdet är flyttal. |
+| [IsField](../../aspose.page.eps.xmp/xmpvalue/isfield/) { get; } | Returnerar sant om XmpValue är field. |
+| [IsInteger](../../aspose.page.eps.xmp/xmpvalue/isinteger/) { get; } | Returnerar sant om värdet är heltal. |
+| [IsNamedValue](../../aspose.page.eps.xmp/xmpvalue/isnamedvalue/) { get; } | Returnerar sant om XmpValue heter värde. |
+| [IsNamedValues](../../aspose.page.eps.xmp/xmpvalue/isnamedvalues/) { get; } | Returnerar sant är XmpValue representerar namngivna värden. |
+| [IsRaw](../../aspose.page.eps.xmp/xmpvalue/israw/) { get; } | Värdet stöds inte/okänt och rå XML-kod tillhandahålls. |
+| [IsString](../../aspose.page.eps.xmp/xmpvalue/isstring/) { get; } | Returnerar sant om värdet är sträng. |
+| [IsStructure](../../aspose.page.eps.xmp/xmpvalue/isstructure/) { get; } | Returnerar sant är XmpValue representerar struktur. |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| [ToArray](../../aspose.page.eps.xmp/xmpvalue/toarray)() | Returnerar array. |
-| [ToDateTime](../../aspose.page.eps.xmp/xmpvalue/todatetime)() | Konverterar till datumtid. |
-| [ToDictionary](../../aspose.page.eps.xmp/xmpvalue/todictionary)() | Returnerar ordbok som innehåller namngivna värden. |
-| [ToDouble](../../aspose.page.eps.xmp/xmpvalue/todouble)() | Konverteras till dubbel. |
-| [ToField](../../aspose.page.eps.xmp/xmpvalue/tofield)() | Returnerar XMP-värde som XMP-fält. |
-| [ToInteger](../../aspose.page.eps.xmp/xmpvalue/tointeger)() | Konverteras till heltal. |
-| [ToNamedValue](../../aspose.page.eps.xmp/xmpvalue/tonamedvalue)() | Returnerar XMP-värde som namngett värde. |
-| [ToNamedValues](../../aspose.page.eps.xmp/xmpvalue/tonamedvalues)() | Returnerar XMP-värde som namngiven värdesamling. |
-| [ToRaw](../../aspose.page.eps.xmp/xmpvalue/toraw)() | Rå XML-kod för okända/inte stödda värden. |
-| override [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring#tostring)() | Returnerar strängrepresentation av XmpValue. |
-| [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring#tostring_1)(IFormatProvider) | Returnerar strängrepresentation. |
-| [ToStringValue](../../aspose.page.eps.xmp/xmpvalue/tostringvalue)() | Konverterar till sträng. |
-| [ToStructure](../../aspose.page.eps.xmp/xmpvalue/tostructure)() | Returnerar XMP-värde som struktur (uppsättning fält). |
-| [explicit operator](../../aspose.page.eps.xmp/xmpvalue/op_explicit#op_explicit) | Konverterar XmpValue till array. (5 operators) |
-| [implicit operator](../../aspose.page.eps.xmp/xmpvalue/op_implicit#op_implicit_4) | Konverterar sträng till XmpValue. (5 operators) |
+| [ToArray](../../aspose.page.eps.xmp/xmpvalue/toarray/)() | Returnerar array. |
+| [ToDateTime](../../aspose.page.eps.xmp/xmpvalue/todatetime/)() | Konverterar till datumtid. |
+| [ToDictionary](../../aspose.page.eps.xmp/xmpvalue/todictionary/)() | Returnerar ordbok som innehåller namngivna värden. |
+| [ToDouble](../../aspose.page.eps.xmp/xmpvalue/todouble/)() | Konverteras till dubbel. |
+| [ToField](../../aspose.page.eps.xmp/xmpvalue/tofield/)() | Returnerar XMP-värde som XMP-fält. |
+| [ToInteger](../../aspose.page.eps.xmp/xmpvalue/tointeger/)() | Konverteras till heltal. |
+| [ToNamedValue](../../aspose.page.eps.xmp/xmpvalue/tonamedvalue/)() | Returnerar XMP-värde som namngett värde. |
+| [ToNamedValues](../../aspose.page.eps.xmp/xmpvalue/tonamedvalues/)() | Returnerar XMP-värde som namngiven värdesamling. |
+| [ToRaw](../../aspose.page.eps.xmp/xmpvalue/toraw/)() | Rå XML-kod för okända/inte stödda värden. |
+| override [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring/#tostring)() | Returnerar strängrepresentation av XmpValue. |
+| [ToString](../../aspose.page.eps.xmp/xmpvalue/tostring/#tostring_1)(IFormatProvider) | Returnerar strängrepresentation. |
+| [ToStringValue](../../aspose.page.eps.xmp/xmpvalue/tostringvalue/)() | Konverterar till sträng. |
+| [ToStructure](../../aspose.page.eps.xmp/xmpvalue/tostructure/)() | Returnerar XMP-värde som struktur (uppsättning fält). |
+| [explicit operator](../../aspose.page.eps.xmp/xmpvalue/op_explicit/#op_explicit) | Konverterar XmpValue till array. (5 operators) |
+| [implicit operator](../../aspose.page.eps.xmp/xmpvalue/op_implicit/#op_implicit_4) | Konverterar sträng till XmpValue. (5 operators) |
 
 ### Se även
 
-* namnutrymme [Aspose.Page.EPS.XMP](../../aspose.page.eps.xmp)
+* namnutrymme [Aspose.Page.EPS.XMP](../../aspose.page.eps.xmp/)
 * hopsättning [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

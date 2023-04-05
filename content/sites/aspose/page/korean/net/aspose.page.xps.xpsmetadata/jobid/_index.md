@@ -1,0 +1,35 @@
+---
+title: Class JobID
+second_title: .NET API 참조용 Aspose.Page
+description: Aspose.Page.XPS.XpsMetadata.JobID 수업. 작업의 고유 ID를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobid
+type: docs
+weight: 1360
+url: /ko/net/aspose.page.xps.xpsmetadata/jobid/
+---
+## JobID class
+
+작업의 고유 ID를 지정합니다. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobid
+
+```csharp
+public sealed class JobID : IDProperty
+```
+
+## 생성자
+
+| 이름 | 설명 |
+| --- | --- |
+| [JobID](jobid/)(string) | 새 인스턴스를 만듭니다. |
+
+## 속성
+
+| 이름 | 설명 |
+| --- | --- |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | 요소 이름을 가져옵니다. |
+
+### 또한보십시오
+
+* class [IDProperty](../idproperty/)
+* 네임스페이스 [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
+* 집회 [Aspose.Page](../../)
+
+

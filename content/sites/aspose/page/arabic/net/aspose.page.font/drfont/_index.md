@@ -1,9 +1,9 @@
 ---
-title: DrFont
+title: Class DrFont
 second_title: Aspose.Page لمرجع NET API
-description: استخدم هذه الفئة بدلاً من GDI  Font
+description: Aspose.Page.Font.DrFont فصل. استخدم هذه الفئة بدلاً من GDI  Font
 type: docs
-weight: 160
+weight: 220
 url: /ar/net/aspose.page.font/drfont/
 ---
 ## DrFont class
@@ -18,42 +18,42 @@ public class DrFont
 
 | اسم | وصف |
 | --- | --- |
-| [AscentLis](../../aspose.page.font/drfont/ascentlis) { get; } | صعود الخلية لهذا الخط (lis) . هذه مسافة عمودية من أعلى الخلية إلى خط الأساس للخلية . |
-| [AscentPoints](../../aspose.page.font/drfont/ascentpoints) { get; } | إرجاع صعود الخلية بالنقاط. |
-| [CellHeightLis](../../aspose.page.font/drfont/cellheightlis) { get; } | إرجاع ارتفاع الخلية لهذا الخط (lis) . هذا اختصار لـ[`AscentLis`](./ascentlis) +[`DescentLis`](./descentlis) . |
-| [CellHeightPoints](../../aspose.page.font/drfont/cellheightpoints) { get; } | اختصار لـ[`AscentPoints`](./ascentpoints) +[`DescentPoints`](./descentpoints) . |
-| [DescentLis](../../aspose.page.font/drfont/descentlis) { get; } | نزول الخلية لهذا الخط (lis) . هذه مسافة عمودية من أسفل الخلية إلى خط الأساس للخلية . |
-| [DescentPoints](../../aspose.page.font/drfont/descentpoints) { get; } | إرجاع أصل الخلية بالنقاط. |
-| [FamilyName](../../aspose.page.font/drfont/familyname) { get; } | يحصل على اسم هذا الخط. |
-| [IsBold](../../aspose.page.font/drfont/isbold) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل غامقًا . |
-| [IsItalic](../../aspose.page.font/drfont/isitalic) { get; } | الحصول على قيمة تشير إلى ما إذا كان هذا المثال مائلاً. |
-| [LeadingLis](../../aspose.page.font/drfont/leadinglis) { get; } | إرجاع المسافة البادئة لهذا الخط (lis) . هذا اختصار لـ[`LineSpacingLis`](./linespacinglis) -[`CellHeightLis`](./cellheightlis) . |
-| [LeadingPoints](../../aspose.page.font/drfont/leadingpoints) { get; } | إرجاع المسافة البادئة لهذا الخط (lis) . هذا اختصار لـ[`LineSpacingLis`](./linespacinglis) -[`CellHeightLis`](./cellheightlis) . |
-| [LineSpacingLis](../../aspose.page.font/drfont/linespacinglis) { get; } | إرجاع تباعد الخلايا لهذا الخط (lis) . هذه مسافة عمودية بين الخطوط الأساسية للحرفين. |
-| [LineSpacingPoints](../../aspose.page.font/drfont/linespacingpoints) { get; } | إرجاع تباعد الخلايا لهذا الخط (النقاط) . هذه مسافة عمودية بين الخطوط الأساسية للحرفين. |
-| [SizePoints](../../aspose.page.font/drfont/sizepoints) { get; set; } | الحصول على حجم هذا الخط (بالنقاط) . |
-| [SmallCapsScaleFactor](../../aspose.page.font/drfont/smallcapsscalefactor) { get; } | الحصول على عامل مقياس SmallCaps . |
-| [Style](../../aspose.page.font/drfont/style) { get; } | يحصل على نمط هذا الخط. |
-| [StyleEx](../../aspose.page.font/drfont/styleex) { get; set; } | تحتوي هذه الخاصية على معلومات إضافية حول نمط الخط |
+| [AscentLis](../../aspose.page.font/drfont/ascentlis/) { get; } | صعود الخلية لهذا الخط (lis) . هذه مسافة عمودية من أعلى الخلية إلى خط الأساس للخلية . |
+| [AscentPoints](../../aspose.page.font/drfont/ascentpoints/) { get; } | إرجاع صعود الخلية بالنقاط. |
+| [CellHeightLis](../../aspose.page.font/drfont/cellheightlis/) { get; } | إرجاع ارتفاع الخلية لهذا الخط (lis) . هذا اختصار لـ[`AscentLis`](./ascentlis/) +[`DescentLis`](./descentlis/) . |
+| [CellHeightPoints](../../aspose.page.font/drfont/cellheightpoints/) { get; } | اختصار لـ[`AscentPoints`](./ascentpoints/) +[`DescentPoints`](./descentpoints/) . |
+| [DescentLis](../../aspose.page.font/drfont/descentlis/) { get; } | نزول الخلية لهذا الخط (lis) . هذه مسافة عمودية من أسفل الخلية إلى خط الأساس للخلية . |
+| [DescentPoints](../../aspose.page.font/drfont/descentpoints/) { get; } | إرجاع أصل الخلية بالنقاط. |
+| [FamilyName](../../aspose.page.font/drfont/familyname/) { get; } | يحصل على اسم هذا الخط. |
+| [IsBold](../../aspose.page.font/drfont/isbold/) { get; } | الحصول على قيمة تشير إلى ما إذا كان هذا المثيل غامقًا . |
+| [IsItalic](../../aspose.page.font/drfont/isitalic/) { get; } | الحصول على قيمة تشير إلى ما إذا كان هذا المثال مائلاً. |
+| [LeadingLis](../../aspose.page.font/drfont/leadinglis/) { get; } | إرجاع المسافة البادئة لهذا الخط (lis) . هذا اختصار لـ[`LineSpacingLis`](./linespacinglis/) -[`CellHeightLis`](./cellheightlis/) . |
+| [LeadingPoints](../../aspose.page.font/drfont/leadingpoints/) { get; } | إرجاع المسافة البادئة لهذا الخط (lis) . هذا اختصار لـ[`LineSpacingLis`](./linespacinglis/) -[`CellHeightLis`](./cellheightlis/) . |
+| [LineSpacingLis](../../aspose.page.font/drfont/linespacinglis/) { get; } | إرجاع تباعد الخلايا لهذا الخط (lis) . هذه مسافة عمودية بين الخطوط الأساسية للحرفين. |
+| [LineSpacingPoints](../../aspose.page.font/drfont/linespacingpoints/) { get; } | إرجاع تباعد الخلايا لهذا الخط (النقاط) . هذه مسافة عمودية بين الخطوط الأساسية للحرفين. |
+| [SizePoints](../../aspose.page.font/drfont/sizepoints/) { get; set; } | الحصول على حجم هذا الخط (بالنقاط) . |
+| [SmallCapsScaleFactor](../../aspose.page.font/drfont/smallcapsscalefactor/) { get; } | الحصول على عامل مقياس SmallCaps . |
+| [Style](../../aspose.page.font/drfont/style/) { get; } | يحصل على نمط هذا الخط . |
+| [StyleEx](../../aspose.page.font/drfont/styleex/) { get; set; } | تحتوي هذه الخاصية على معلومات إضافية حول نمط الخط |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| override [Equals](../../aspose.page.font/drfont/equals)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
-| [GetCharWidthLis](../../aspose.page.font/drfont/getcharwidthlis)(char) | الحصول على عرض الحرف lis. |
-| [GetCharWidthPoints](../../aspose.page.font/drfont/getcharwidthpoints)(char) | إرجاع عرض الحرف (بالنقاط) . |
-| override [GetHashCode](../../aspose.page.font/drfont/gethashcode)() | إرجاع رمز تجزئة لهذا المثال. |
-| [GetTextSizePoints](../../aspose.page.font/drfont/gettextsizepoints)(string) | إرجاع مربع نص القياس للنص بالنقاط. |
-| [GetTextWidthLis](../../aspose.page.font/drfont/gettextwidthlis)(string) | يحصل على عرض النص lis. |
-| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints#gettextwidthpoints)(string) | يحصل على نقاط عرض النص . |
-| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints#gettextwidthpoints_1)(string, int, int) | يحصل على نقاط عرض النص . |
-| [Replace](../../aspose.page.font/drfont/replace)(DrFont) | استبدال الخط content |
-| static [IsPoorlyRenderedByGdiPlus](../../aspose.page.font/drfont/ispoorlyrenderedbygdiplus)(string) | إرجاع صحيح لخط "Microsoft Sans Serif". تم تقديم هذا بشكل سيئ بواسطة GDI +. انظر Test286 و Gemini-6959. |
+| override [Equals](../../aspose.page.font/drfont/equals/)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
+| [GetCharWidthLis](../../aspose.page.font/drfont/getcharwidthlis/)(char) | الحصول على عرض الحرف lis. |
+| [GetCharWidthPoints](../../aspose.page.font/drfont/getcharwidthpoints/)(char) | إرجاع عرض الحرف (بالنقاط) . |
+| override [GetHashCode](../../aspose.page.font/drfont/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
+| [GetTextSizePoints](../../aspose.page.font/drfont/gettextsizepoints/)(string) | إرجاع مربع نص القياس للنص بالنقاط. |
+| [GetTextWidthLis](../../aspose.page.font/drfont/gettextwidthlis/)(string) | يحصل على عرض النص lis. |
+| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints/#gettextwidthpoints)(string) | يحصل على نقاط عرض النص . |
+| [GetTextWidthPoints](../../aspose.page.font/drfont/gettextwidthpoints/#gettextwidthpoints_1)(string, int, int) | يحصل على نقاط عرض النص . |
+| [Replace](../../aspose.page.font/drfont/replace/)(DrFont) | استبدال الخط content |
+| static [IsPoorlyRenderedByGdiPlus](../../aspose.page.font/drfont/ispoorlyrenderedbygdiplus/)(string) | إرجاع صحيح لخط "Microsoft Sans Serif". تم تقديم هذا بشكل سيئ بواسطة GDI +. انظر Test286 و Gemini-6959. |
 
 ### أنظر أيضا
 
-* مساحة الاسم [Aspose.Page.Font](../../aspose.page.font)
+* مساحة الاسم [Aspose.Page.Font](../../aspose.page.font/)
 * المجسم [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

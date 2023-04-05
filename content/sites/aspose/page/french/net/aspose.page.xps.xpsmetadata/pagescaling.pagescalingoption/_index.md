@@ -1,14 +1,14 @@
 ---
-title: PageScaling.PageScalingOption
+title: Class PageScaling.PageScalingOption
 second_title: Aspose.Page pour la référence de l'API .NET
-description: Décrit lePageScaling./pagescaling options de fonctionnalités.
+description: Aspose.Page.XPS.XpsMetadata.PageScalingPageScalingOption classe. Décrit lePageScaling options de fonctionnalités.
 type: docs
-weight: 2440
+weight: 2500
 url: /fr/net/aspose.page.xps.xpsmetadata/pagescaling.pagescalingoption/
 ---
 ## PageScaling.PageScalingOption class
 
-Décrit le[`PageScaling`](../pagescaling) options de fonctionnalités.
+Décrit le[`PageScaling`](../pagescaling/) options de fonctionnalités.
 
 ```csharp
 public sealed class PageScalingOption : Option
@@ -18,31 +18,31 @@ public sealed class PageScalingOption : Option
 
 | Nom | La description |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Obtient le nom de l'élément. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Obtient le nom de l'élément. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Ajoute une liste d'éléments à la fin de la liste d'éléments de cette option. Chacun doit être un[`ScoredProperty`](../scoredproperty) ou[`Property`](../property) instance. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Ajoute une liste d'éléments à la fin de la liste d'éléments de cette option. Chacun doit être un[`ScoredProperty`](../scoredproperty/) ou[`Property`](../property/) instance. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| static [Custom](../../aspose.page.xps.xpsmetadata/pagescalingoption/custom) | Spécifie qu'une mise à l'échelle personnalisée doit être appliquée à la taille du support d'application. |
-| static [CustomSquare](../../aspose.page.xps.xpsmetadata/pagescalingoption/customsquare) | Spécifie qu'une mise à l'échelle carrée personnalisée doit être appliquée à la taille du support d'application. |
-| static [FitApplicationBleedSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationbleedsizetopageimageablesize) | Spécifie que la taille du fond perdu de l'application doit être mise à l'échelle à the [`PageImageableSize`](../pageimageablesize) en préservant les proportions. |
-| static [FitApplicationContentSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationcontentsizetopageimageablesize) |  |
-| static [FitApplicationMediaSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationmediasizetopageimageablesize) | Spécifie que la taille du support d'application doit être mise à l'échelle en [`PageImageableSize`](../pageimageablesize) en préservant les proportions. |
-| static [FitApplicationMediaSizeToPageMediaSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationmediasizetopagemediasize) | Spécifie que la taille du support d'application doit être mise à l'échelle en [`PageMediaSize`](../pagemediasize) en préservant les proportions. |
-| static [None](../../aspose.page.xps.xpsmetadata/pagescalingoption/none) | Spécifie qu'aucune mise à l'échelle ne doit être appliquée. |
+| static [Custom](../../aspose.page.xps.xpsmetadata/pagescalingoption/custom/) | Spécifie qu'une mise à l'échelle personnalisée doit être appliquée à la taille du support d'application. |
+| static [CustomSquare](../../aspose.page.xps.xpsmetadata/pagescalingoption/customsquare/) | Spécifie qu'une mise à l'échelle carrée personnalisée doit être appliquée à la taille du support d'application. |
+| static [FitApplicationBleedSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationbleedsizetopageimageablesize/) | Spécifie que la taille du fond perdu de l'application doit être mise à l'échelle à the [`PageImageableSize`](../pageimageablesize/) en préservant les proportions. |
+| static [FitApplicationContentSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationcontentsizetopageimageablesize/) |  |
+| static [FitApplicationMediaSizeToPageImageableSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationmediasizetopageimageablesize/) | Spécifie que la taille du support d'application doit être mise à l'échelle en [`PageImageableSize`](../pageimageablesize/) en préservant les proportions. |
+| static [FitApplicationMediaSizeToPageMediaSize](../../aspose.page.xps.xpsmetadata/pagescalingoption/fitapplicationmediasizetopagemediasize/) | Spécifie que la taille du support d'application doit être mise à l'échelle en [`PageMediaSize`](../pagemediasize/) en préservant les proportions. |
+| static [None](../../aspose.page.xps.xpsmetadata/pagescalingoption/none/) | Spécifie qu'aucune mise à l'échelle ne doit être appliquée. |
 
 ### Voir également
 
-* class [Option](../option)
-* class [PageScaling](../pagescaling)
-* espace de noms [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [PageScaling](../pagescaling/)
+* espace de noms [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * Assemblée [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

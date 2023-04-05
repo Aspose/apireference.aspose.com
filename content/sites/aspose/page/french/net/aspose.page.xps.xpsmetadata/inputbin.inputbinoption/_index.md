@@ -1,14 +1,14 @@
 ---
-title: InputBin.InputBinOption
+title: Class InputBin.InputBinOption
 second_title: Aspose.Page pour la référence de l'API .NET
-description: Décrit leJobInputBin./jobinputbin DocumentInputBin./documentinputbin etPageInputBin./pageinputbin options de fonctionnalités.
+description: Aspose.Page.XPS.XpsMetadata.InputBinInputBinOption classe. Décrit leJobInputBin DocumentInputBin etPageInputBin options de fonctionnalités.
 type: docs
-weight: 1010
+weight: 1070
 url: /fr/net/aspose.page.xps.xpsmetadata/inputbin.inputbinoption/
 ---
 ## InputBin.InputBinOption class
 
-Décrit le[`JobInputBin`](../jobinputbin) ,[`DocumentInputBin`](../documentinputbin) et[`PageInputBin`](../pageinputbin) options de fonctionnalités.
+Décrit le[`JobInputBin`](../jobinputbin/) ,[`DocumentInputBin`](../documentinputbin/) et[`PageInputBin`](../pageinputbin/) options de fonctionnalités.
 
 ```csharp
 public sealed class InputBinOption : Option
@@ -18,40 +18,40 @@ public sealed class InputBinOption : Option
 
 | Nom | La description |
 | --- | --- |
-| [InputBinOption](inputbinoption#constructor)(InputBinOption) | Clone cette instance d'option. |
-| [InputBinOption](inputbinoption#constructor_1)(string, params IInputBinOptionItem[]) | Crée une nouvelle instance. |
+| [InputBinOption](inputbinoption/#constructor)(InputBinOption) | Clone cette instance d'option. |
+| [InputBinOption](inputbinoption/#constructor_1)(string, params IInputBinOptionItem[]) | Crée une nouvelle instance. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Obtient le nom de l'élément. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Obtient le nom de l'élément. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/inputbinoption/add#add)(params IInputBinOptionItem[]) | Ajoute un tableau de[`IInputBinOptionItem`](../inputbin.iinputbinoptionitem) instances à l'option. |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Ajoute une liste d'éléments à la fin de la liste d'éléments de cette option. Chacun doit être un[`ScoredProperty`](../scoredproperty) ou[`Property`](../property) instance. |
-| [Clone](../../aspose.page.xps.xpsmetadata/inputbinoption/clone)() | Clone cette instance d'option. Le raccourci vers le constructeur de clonage. |
-| [SetMediaCapacity](../../aspose.page.xps.xpsmetadata/inputbinoption/setmediacapacity)(int) | Définit un valeur de propriété notée. |
-| [SetMediaSheetCapacity](../../aspose.page.xps.xpsmetadata/inputbinoption/setmediasheetcapacity)(int) | Définit un valeur de propriété notée. |
+| [Add](../../aspose.page.xps.xpsmetadata/inputbinoption/add/#add)(params IInputBinOptionItem[]) | Ajoute un tableau de[`IInputBinOptionItem`](../inputbin.iinputbinoptionitem/) instances à l'option. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Ajoute une liste d'éléments à la fin de la liste d'éléments de cette option. Chacun doit être un[`ScoredProperty`](../scoredproperty/) ou[`Property`](../property/) instance. |
+| [Clone](../../aspose.page.xps.xpsmetadata/inputbinoption/clone/)() | Clone cette instance d'option. Le raccourci vers le constructeur de clonage. |
+| [SetMediaCapacity](../../aspose.page.xps.xpsmetadata/inputbinoption/setmediacapacity/)(int) | Définit un valeur de propriété notée. |
+| [SetMediaSheetCapacity](../../aspose.page.xps.xpsmetadata/inputbinoption/setmediasheetcapacity/)(int) | Définit un valeur de propriété notée. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| static [AutoSelect](../../aspose.page.xps.xpsmetadata/inputbinoption/autoselect) | L'appareil choisira automatiquement la meilleure option en fonction de la configuration. |
-| static [AutoSheetFeeder](../../aspose.page.xps.xpsmetadata/inputbinoption/autosheetfeeder) | Bac d'alimentation du périphérique pour imprimantes à jet d'encre. |
-| static [Cassette](../../aspose.page.xps.xpsmetadata/inputbinoption/cassette) | Spécifie que le bac d'alimentation est une cassette. |
-| static [Manual](../../aspose.page.xps.xpsmetadata/inputbinoption/manual) | Spécifie le bac d'alimentation manuelle par défaut. |
-| static [Tractor](../../aspose.page.xps.xpsmetadata/inputbinoption/tractor) | Spécifie que le bac d'alimentation est un tracteur. |
+| static [AutoSelect](../../aspose.page.xps.xpsmetadata/inputbinoption/autoselect/) | L'appareil choisira automatiquement la meilleure option en fonction de la configuration. |
+| static [AutoSheetFeeder](../../aspose.page.xps.xpsmetadata/inputbinoption/autosheetfeeder/) | Bac d'alimentation du périphérique pour imprimantes à jet d'encre. |
+| static [Cassette](../../aspose.page.xps.xpsmetadata/inputbinoption/cassette/) | Spécifie que le bac d'alimentation est une cassette. |
+| static [Manual](../../aspose.page.xps.xpsmetadata/inputbinoption/manual/) | Spécifie le bac d'alimentation manuelle par défaut. |
+| static [Tractor](../../aspose.page.xps.xpsmetadata/inputbinoption/tractor/) | Spécifie que le bac d'alimentation est un tracteur. |
 
 ### Voir également
 
-* class [Option](../option)
-* class [InputBin](../inputbin)
-* espace de noms [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [InputBin](../inputbin/)
+* espace de noms [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * Assemblée [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

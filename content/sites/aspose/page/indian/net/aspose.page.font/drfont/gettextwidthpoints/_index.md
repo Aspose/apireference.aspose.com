@@ -1,0 +1,57 @@
+---
+title: DrFont.GetTextWidthPoints
+second_title: .NET API संदर्भ के लिए Aspose.Page
+description: DrFont तरक. टेक्स्ट चड़ई बंदु प्रप्त करत है
+type: docs
+weight: 240
+url: /hi/net/aspose.page.font/drfont/gettextwidthpoints/
+---
+## GetTextWidthPoints(string) {#gettextwidthpoints}
+
+टेक्स्ट चौड़ाई बिंदु प्राप्त करता है।
+
+```csharp
+public float GetTextWidthPoints(string text)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| text | String | गणना करने के लिए पाठ। |
+
+### प्रतिलाभ की मात्रा
+
+चौड़ाई लौटाता है
+
+### यह सभी देखें
+
+* class [DrFont](../)
+* नाम स्थान [Aspose.Page.Font](../../drfont/)
+* सभा [Aspose.Page](../../../)
+
+---
+
+## GetTextWidthPoints(string, int, int) {#gettextwidthpoints_1}
+
+टेक्स्ट चौड़ाई बिंदु प्राप्त करता है।
+
+```csharp
+public float GetTextWidthPoints(string text, int startIndex, int charCount)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| text | String | गणना करने के लिए पाठ। |
+| startIndex | Int32 | प्रारंभ सूचकांक। |
+| charCount | Int32 | चार गिनती। |
+
+### प्रतिलाभ की मात्रा
+
+चौड़ाई लौटाता है
+
+### यह सभी देखें
+
+* class [DrFont](../)
+* नाम स्थान [Aspose.Page.Font](../../drfont/)
+* सभा [Aspose.Page](../../../)
+
+

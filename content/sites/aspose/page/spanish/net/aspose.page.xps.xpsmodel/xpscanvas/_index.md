@@ -1,9 +1,9 @@
 ---
-title: XpsCanvas
+title: Class XpsCanvas
 second_title: Referencia de la API de Aspose.Page para .NET
-description: Clase que encapsula las características del elemento Canvas. Este elemento agrupa elementos. Por ejemplo los elementos Glyphs y Path se pueden agrupar en un lienzo para identificarlos como una unidad como un destino de hipervínculo o para aplicar un valor de propiedad compuesto a cada elemento secundario y ancestro.
+description: Aspose.Page.XPS.XpsModel.XpsCanvas clase. Clase que encapsula las características del elemento Canvas. Este elemento agrupa elementos. Por ejemplo los elementos Glyphs y Path se pueden agrupar en un lienzo para identificarlos como una unidad como un destino de hipervínculo o para aplicar un valor de propiedad compuesto a cada elemento secundario y ancestro.
 type: docs
-weight: 2910
+weight: 2970
 url: /es/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class
@@ -18,34 +18,34 @@ public sealed class XpsCanvas : XpsContentElement
 
 | Nombre | Descripción |
 | --- | --- |
-| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip) { get; set; } | Devuelve/establece la instancia de la geometría de ruta que limita la región renderizada del elemento. |
-| [Count](../../aspose.page.xps.xpsmodel/xpselement/count) { get; } | Devuelve el número de elementos secundarios. |
-| [EdgeMode](../../aspose.page.xps.xpsmodel/xpscanvas/edgemode) { get; set; } | Devuelve/establece el valor que controla cómo se representan los bordes de las rutas dentro del lienzo. |
-| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget) { get; set; } | Devuelve/establece el objeto de destino del hipervínculo. |
-| [Item](../../aspose.page.xps.xpsmodel/xpselement/item) { get; } | Proporciona acceso a los elementos secundarios por índice*i* . |
-| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity) { get; set; } | Devuelve/establece el valor que define la transparencia uniforme del elemento. |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask) { get; set; } | Devuelve/establece el pincel especificando una máscara de valores alfa que se aplica al elemento de la misma manera que el atributo Opacidad, pero que permite diferentes valores alfa para diferentes áreas del elemento. |
-| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform) { get; set; } | Devuelve/establece la matriz de transformación afín estableciendo un nuevo marco de coordenadas para todos los atributos del elemento y para todos los elementos secundarios (si los hay). |
+| [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip/) { get; set; } | Devuelve/establece la instancia de la geometría de ruta que limita la región renderizada del elemento. |
+| [Count](../../aspose.page.xps.xpsmodel/xpselement/count/) { get; } | Devuelve el número de elementos secundarios. |
+| [EdgeMode](../../aspose.page.xps.xpsmodel/xpscanvas/edgemode/) { get; set; } | Devuelve/establece el valor que controla cómo se representan los bordes de las rutas dentro del lienzo. |
+| [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget/) { get; set; } | Devuelve/establece el objeto de destino del hipervínculo. |
+| [Item](../../aspose.page.xps.xpsmodel/xpselement/item/) { get; } | Proporciona acceso a los elementos secundarios por índice*i* . |
+| [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity/) { get; set; } | Devuelve/establece el valor que define la transparencia uniforme del elemento. |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask/) { get; set; } | Devuelve/establece el pincel especificando una máscara de valores alfa que se aplica al elemento de la misma manera que el atributo Opacidad, pero que permite diferentes valores alfa para diferentes áreas del elemento. |
+| [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform/) { get; set; } | Devuelve/establece la matriz de transformación afín estableciendo un nuevo marco de coordenadas para todos los atributos del elemento y para todos los elementos secundarios (si los hay). |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Add&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/add)(T) | Agrega un elemento a la lista de elementos secundarios de este lienzo. |
-| [AddCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/addcanvas)() | Agrega un nuevo lienzo a la lista de elementos secundarios de este lienzo. |
-| [AddGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/addglyphs)(string, float, FontStyle, float, float, string) | Agrega nuevos glifos a la lista de elementos secundarios de este lienzo. |
-| [AddPath](../../aspose.page.xps.xpsmodel/xpscanvas/addpath)(XpsPathGeometry) | Agrega una nueva ruta a la lista de elementos secundarios de este lienzo. |
-| [Clone](../../aspose.page.xps.xpsmodel/xpscanvas/clone)() | Clona este lienzo. |
-| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator)() | Implementación deIEnumerable interfaz. |
-| [Insert&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/insert)(int, T) | Inserta un elemento en la lista de elementos secundarios de este lienzo en*index* posición. |
-| [InsertCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/insertcanvas)(int) | Inserta un nuevo lienzo en la lista de elementos secundarios de este lienzo en*index* posición. |
-| [InsertGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/insertglyphs)(int, string, float, FontStyle, float, float, string) | Inserta nuevos glifos en la lista de elementos secundarios de este lienzo en*index* posición. |
-| [InsertPath](../../aspose.page.xps.xpsmodel/xpscanvas/insertpath)(int, XpsPathGeometry) | Inserta una nueva ruta a la lista de elementos secundarios de este lienzo en*index* posición. |
+| [Add&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/add/)(T) | Agrega un elemento a la lista de elementos secundarios de este lienzo. |
+| [AddCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/addcanvas/)() | Agrega un nuevo lienzo a la lista de elementos secundarios de este lienzo. |
+| [AddGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/addglyphs/)(string, float, FontStyle, float, float, string) | Agrega nuevos glifos a la lista de elementos secundarios de este lienzo. |
+| [AddPath](../../aspose.page.xps.xpsmodel/xpscanvas/addpath/)(XpsPathGeometry) | Agrega una nueva ruta a la lista de elementos secundarios de este lienzo. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpscanvas/clone/)() | Clona este lienzo. |
+| [GetEnumerator](../../aspose.page.xps.xpsmodel/xpselement/getenumerator/)() | Implementación deIEnumerable interfaz. |
+| [Insert&lt;T&gt;](../../aspose.page.xps.xpsmodel/xpscanvas/insert/)(int, T) | Inserta un elemento en la lista de elementos secundarios de este lienzo en*index* posición. |
+| [InsertCanvas](../../aspose.page.xps.xpsmodel/xpscanvas/insertcanvas/)(int) | Inserta un nuevo lienzo en la lista de elementos secundarios de este lienzo en*index* posición. |
+| [InsertGlyphs](../../aspose.page.xps.xpsmodel/xpscanvas/insertglyphs/)(int, string, float, FontStyle, float, float, string) | Inserta nuevos glifos en la lista de elementos secundarios de este lienzo en*index* posición. |
+| [InsertPath](../../aspose.page.xps.xpsmodel/xpscanvas/insertpath/)(int, XpsPathGeometry) | Inserta una nueva ruta a la lista de elementos secundarios de este lienzo en*index* posición. |
 
 ### Ver también
 
-* class [XpsContentElement](../xpscontentelement)
-* espacio de nombres [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel)
+* class [XpsContentElement](../xpscontentelement/)
+* espacio de nombres [Aspose.Page.XPS.XpsModel](../../aspose.page.xps.xpsmodel/)
 * asamblea [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

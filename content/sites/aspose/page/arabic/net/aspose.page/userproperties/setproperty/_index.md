@@ -1,7 +1,7 @@
 ---
-title: SetProperty
+title: UserProperties.SetProperty
 second_title: Aspose.Page لمرجع NET API
-description: تعيين قيمة خاصية السلسلة .
+description: UserProperties طريقة. تعيين قيمة خاصية السلسلة .
 type: docs
 weight: 140
 url: /ar/net/aspose.page/userproperties/setproperty/
@@ -25,15 +25,15 @@ public virtual object SetProperty(string key, string value)
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(string, string[]) {#setproperty_9}
 
-تعيين قيمة خاصية مصفوفة السلسلة .
+تعيين قيمة خاصية مصفوفة السلسلة.
 
 ```csharp
 public virtual object SetProperty(string key, string[] value)
@@ -50,8 +50,8 @@ public virtual object SetProperty(string key, string[] value)
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -76,15 +76,15 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(string, Color) {#setproperty_5}
 
-يعين قيمة خاصية اللون .
+يعين قيمة خاصية اللون.
 
 ```csharp
 public virtual object SetProperty(string key, Color value)
@@ -101,8 +101,8 @@ public virtual object SetProperty(string key, Color value)
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -127,8 +127,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -152,8 +152,8 @@ public virtual object SetProperty(string key, Rectangle value)
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -178,8 +178,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -203,9 +203,9 @@ public virtual object SetProperty(string key, Margins value)
 
 ### أنظر أيضا
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -230,9 +230,9 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### أنظر أيضا
 
-* class [Margins](../../margins)
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [Margins](../../margins/)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -256,8 +256,8 @@ public virtual object SetProperty(string key, Size value)
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -282,8 +282,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -307,8 +307,8 @@ public virtual object SetProperty(string key, int value)
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -333,8 +333,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -358,8 +358,8 @@ public virtual object SetProperty(string key, double value)
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -384,8 +384,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -409,8 +409,8 @@ public virtual object SetProperty(string key, float value)
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -435,15 +435,15 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
 
 ## SetProperty(string, bool) {#setproperty_1}
 
-تعيين قيمة الخاصية المنطقية.
+تعيين قيمة الخاصية المنطقية .
 
 ```csharp
 public virtual object SetProperty(string key, bool value)
@@ -460,8 +460,8 @@ public virtual object SetProperty(string key, bool value)
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
 ---
@@ -486,8 +486,8 @@ public static object SetProperty(Dictionary<string, object> properties, string k
 
 ### أنظر أيضا
 
-* class [UserProperties](../../userproperties)
-* مساحة الاسم [Aspose.Page](../../userproperties)
+* class [UserProperties](../)
+* مساحة الاسم [Aspose.Page](../../userproperties/)
 * المجسم [Aspose.Page](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

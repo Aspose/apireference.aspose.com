@@ -1,0 +1,23 @@
+---
+title: PageMediaSize.PageMediaSizeOption.ISOC7
+second_title: Aspose.Page untuk Referensi .NET API
+description: PageMediaSizeOption bidang. ISOC7
+type: docs
+weight: 480
+url: /id/net/aspose.page.xps.xpsmetadata/pagemediasize.pagemediasizeoption/isoc7/
+---
+## PageMediaSize.PageMediaSizeOption.ISOC7 field
+
+ISOC7
+
+```csharp
+public static PageMediaSizeOption ISOC7;
+```
+
+### Lihat juga
+
+* class [PageMediaSizeOption](../)
+* ruang nama [Aspose.Page.XPS.XpsMetadata](../../pagemediasize.pagemediasizeoption/)
+* perakitan [Aspose.Page](../../../)
+
+

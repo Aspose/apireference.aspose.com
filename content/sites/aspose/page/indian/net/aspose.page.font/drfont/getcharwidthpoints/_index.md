@@ -1,0 +1,31 @@
+---
+title: DrFont.GetCharWidthPoints
+second_title: .NET API संदर्भ के लिए Aspose.Page
+description: DrFont तरक. चरत्र क चड़ई अंक लटत है
+type: docs
+weight: 200
+url: /hi/net/aspose.page.font/drfont/getcharwidthpoints/
+---
+## DrFont.GetCharWidthPoints method
+
+चरित्र की चौड़ाई (अंक) लौटाता है।
+
+```csharp
+public float GetCharWidthPoints(char c)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| c | Char | गणना करने के लिए प्रतीक। |
+
+### प्रतिलाभ की मात्रा
+
+चौड़ाई लौटाता है
+
+### यह सभी देखें
+
+* class [DrFont](../)
+* नाम स्थान [Aspose.Page.Font](../../drfont/)
+* सभा [Aspose.Page](../../../)
+
+

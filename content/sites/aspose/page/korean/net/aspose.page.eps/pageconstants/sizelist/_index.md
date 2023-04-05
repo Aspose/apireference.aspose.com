@@ -1,0 +1,23 @@
+---
+title: PageConstants.SizeList
+second_title: .NET API 참조용 Aspose.Page
+description: PageConstants 재산. 사용 가능한 페이지 크기 값
+type: docs
+weight: 20
+url: /ko/net/aspose.page.eps/pageconstants/sizelist/
+---
+## PageConstants.SizeList property
+
+사용 가능한 페이지 크기 값
+
+```csharp
+public static string[] SizeList { get; }
+```
+
+### 또한보십시오
+
+* class [PageConstants](../)
+* 네임스페이스 [Aspose.Page.EPS](../../pageconstants/)
+* 집회 [Aspose.Page](../../../)
+
+

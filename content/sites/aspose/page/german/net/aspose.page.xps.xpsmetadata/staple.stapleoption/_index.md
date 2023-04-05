@@ -1,14 +1,14 @@
 ---
-title: Staple.StapleOption
+title: Class Staple.StapleOption
 second_title: Aspose.Page für .NET-API-Referenz
-description: Beschreibt dieJobStapleAllDocuments./jobstaplealldocuments undDocumentStaple./documentstaple Funktionen Optionen.
+description: Aspose.Page.XPS.XpsMetadata.StapleStapleOption klas. Beschreibt dieJobStapleAllDocuments UndDocumentStaple Funktionen Optionen.
 type: docs
-weight: 2830
+weight: 2890
 url: /de/net/aspose.page.xps.xpsmetadata/staple.stapleoption/
 ---
 ## Staple.StapleOption class
 
-Beschreibt die[`JobStapleAllDocuments`](../jobstaplealldocuments) und[`DocumentStaple`](../documentstaple) Funktionen Optionen.
+Beschreibt die[`JobStapleAllDocuments`](../jobstaplealldocuments/) Und[`DocumentStaple`](../documentstaple/) Funktionen Optionen.
 
 ```csharp
 public sealed class StapleOption : Option
@@ -18,43 +18,43 @@ public sealed class StapleOption : Option
 
 | Name | Beschreibung |
 | --- | --- |
-| [StapleOption](stapleoption)(string, params IStapleOptionItem[]) | Erstellt eine neue Instanz. |
+| [StapleOption](stapleoption/)(string, params IStapleOptionItem[]) | Erstellt eine neue Instanz. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Ruft den Elementnamen ab. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Ruft den Elementnamen ab. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Fügt eine Liste von Elementen am Ende der Elementliste dieser Option hinzu. Jeder muss a sein[`ScoredProperty`](../scoredproperty) oder[`Property`](../property) Instanz. |
-| [Add](../../aspose.page.xps.xpsmetadata/stapleoption/add#add)(params IStapleOptionItem[]) | Fügt ein Array von hinzu[`IStapleOptionItem`](../staple.istapleoptionitem)Instanzen zum Feature. |
-| [SetAngle](../../aspose.page.xps.xpsmetadata/stapleoption/setangle)(int) | Setzt ein Bewerteter Eigenschaftswert. |
-| [SetSheetCapacity](../../aspose.page.xps.xpsmetadata/stapleoption/setsheetcapacity)(int) | Setzt ein Bewerteter Eigenschaftswert. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Fügt eine Liste von Elementen am Ende der Elementliste dieser Option hinzu. Jeder muss a sein[`ScoredProperty`](../scoredproperty/) oder[`Property`](../property/) Instanz. |
+| [Add](../../aspose.page.xps.xpsmetadata/stapleoption/add/#add)(params IStapleOptionItem[]) | Fügt ein Array von hinzu[`IStapleOptionItem`](../staple.istapleoptionitem/)Instanzen zum Feature. |
+| [SetAngle](../../aspose.page.xps.xpsmetadata/stapleoption/setangle/)(int) | Setzt ein Bewerteter Eigenschaftswert. |
+| [SetSheetCapacity](../../aspose.page.xps.xpsmetadata/stapleoption/setsheetcapacity/)(int) | Setzt ein Bewerteter Eigenschaftswert. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| static [None](../../aspose.page.xps.xpsmetadata/stapleoption/none) | Gibt kein Heften an. |
-| static [SaddleStitch](../../aspose.page.xps.xpsmetadata/stapleoption/saddlestitch) | Legt Sattelheftung fest. |
-| static [StapleBottomLeft](../../aspose.page.xps.xpsmetadata/stapleoption/staplebottomleft) | Gibt eine einzelne Heftklammer in der unteren linken Ecke an. |
-| static [StapleBottomRight](../../aspose.page.xps.xpsmetadata/stapleoption/staplebottomright) | Gibt eine einzelne Heftklammer in der unteren rechten Ecke an. |
-| static [StapleDualBottom](../../aspose.page.xps.xpsmetadata/stapleoption/stapledualbottom) | Gibt zwei Heftklammern entlang der Unterkante an. |
-| static [StapleDualLeft](../../aspose.page.xps.xpsmetadata/stapleoption/stapledualleft) | Gibt zwei Heftklammern entlang der linken Kante an. |
-| static [StapleDualRight](../../aspose.page.xps.xpsmetadata/stapleoption/stapledualright) | Gibt zwei Heftklammern entlang der rechten Kante an. |
-| static [StapleDualTop](../../aspose.page.xps.xpsmetadata/stapleoption/stapledualtop) | Gibt zwei Heftklammern entlang der Oberkante an |
-| static [StapleTopLeft](../../aspose.page.xps.xpsmetadata/stapleoption/stapletopleft) | Gibt eine einzelne Heftklammer in der oberen linken Ecke an. |
-| static [StapleTopRight](../../aspose.page.xps.xpsmetadata/stapleoption/stapletopright) | Gibt eine einzelne Heftklammer in der oberen rechten Ecke an. |
+| static [None](../../aspose.page.xps.xpsmetadata/stapleoption/none/) | Gibt kein Heften an. |
+| static [SaddleStitch](../../aspose.page.xps.xpsmetadata/stapleoption/saddlestitch/) | Legt Sattelheftung fest. |
+| static [StapleBottomLeft](../../aspose.page.xps.xpsmetadata/stapleoption/staplebottomleft/) | Gibt eine einzelne Heftklammer in der unteren linken Ecke an. |
+| static [StapleBottomRight](../../aspose.page.xps.xpsmetadata/stapleoption/staplebottomright/) | Gibt eine einzelne Heftklammer in der unteren rechten Ecke an. |
+| static [StapleDualBottom](../../aspose.page.xps.xpsmetadata/stapleoption/stapledualbottom/) | Gibt zwei Heftklammern entlang der Unterkante an. |
+| static [StapleDualLeft](../../aspose.page.xps.xpsmetadata/stapleoption/stapledualleft/) | Gibt zwei Heftklammern entlang der linken Kante an. |
+| static [StapleDualRight](../../aspose.page.xps.xpsmetadata/stapleoption/stapledualright/) | Gibt zwei Heftklammern entlang der rechten Kante an. |
+| static [StapleDualTop](../../aspose.page.xps.xpsmetadata/stapleoption/stapledualtop/) | Gibt zwei Heftklammern entlang der Oberkante an |
+| static [StapleTopLeft](../../aspose.page.xps.xpsmetadata/stapleoption/stapletopleft/) | Gibt eine einzelne Heftklammer in der oberen linken Ecke an. |
+| static [StapleTopRight](../../aspose.page.xps.xpsmetadata/stapleoption/stapletopright/) | Gibt eine einzelne Heftklammer in der oberen rechten Ecke an. |
 
 ### Siehe auch
 
-* class [Option](../option)
-* class [Staple](../staple)
-* namensraum [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [Staple](../staple/)
+* namensraum [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * Montage [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+

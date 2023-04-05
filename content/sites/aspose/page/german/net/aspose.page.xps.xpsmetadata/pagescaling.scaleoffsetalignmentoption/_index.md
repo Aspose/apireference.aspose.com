@@ -1,14 +1,14 @@
 ---
-title: PageScaling.ScaleOffsetAlignmentOption
+title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: Aspose.Page für .NET-API-Referenz
-description: Beschreibt dieScaleOffsetAlignment./pagescaling.scaleoffsetalignment features options. Legt die Ausrichtung des skalierten Inhalts fest.
+description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption klas. Beschreibt dieScaleOffsetAlignment features options. Legt die Ausrichtung des skalierten Inhalts fest.
 type: docs
-weight: 2460
+weight: 2520
 url: /de/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class
 
-Beschreibt die[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment) features options. Legt die Ausrichtung des skalierten Inhalts fest.
+Beschreibt die[`ScaleOffsetAlignment`](../pagescaling.scaleoffsetalignment/) features options. Legt die Ausrichtung des skalierten Inhalts fest.
 
 ```csharp
 public sealed class ScaleOffsetAlignmentOption : Option
@@ -18,33 +18,33 @@ public sealed class ScaleOffsetAlignmentOption : Option
 
 | Name | Beschreibung |
 | --- | --- |
-| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name) { get; } | Ruft den Elementnamen ab. |
+| [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Ruft den Elementnamen ab. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Add](../../aspose.page.xps.xpsmetadata/option/add)(params IOptionItem[]) | Fügt eine Liste von Elementen am Ende der Elementliste dieser Option hinzu. Jeder muss a sein[`ScoredProperty`](../scoredproperty) oder[`Property`](../property) Instanz. |
+| [Add](../../aspose.page.xps.xpsmetadata/option/add/)(params IOptionItem[]) | Fügt eine Liste von Elementen am Ende der Elementliste dieser Option hinzu. Jeder muss a sein[`ScoredProperty`](../scoredproperty/) oder[`Property`](../property/) Instanz. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter) | Gibt an, dass die Skalierung an der Mitte der Unterkante des Mediums ausgerichtet werden soll. |
-| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft) | Gibt an, dass die Skalierung an der unteren linken Ecke des Mediums ausgerichtet werden soll. |
-| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright) | Gibt an, dass die Skalierung an der unteren rechten Ecke des Mediums ausgerichtet werden soll. |
-| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center) | Gibt an, dass die Skalierung auf dem Medium zentriert sein soll. |
-| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter) | Gibt an, dass die Skalierung an der Mitte der linken Kante des Mediums ausgerichtet werden soll. |
-| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter) | Gibt an, dass die Skalierung an der Mitte der rechten Kante des Mediums ausgerichtet werden soll. |
-| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter) | Gibt an, dass die Skalierung auf die Mitte der Oberkante des Mediums ausgerichtet werden soll. |
-| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft) | Gibt an, dass die Skalierung an der oberen linken Ecke des Mediums ausgerichtet werden soll. |
-| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright) | Gibt an, dass die Skalierung an der oberen rechten Ecke des Mediums ausgerichtet werden soll. |
+| static [BottomCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomcenter/) | Gibt an, dass die Skalierung an der Mitte der Unterkante des Mediums ausgerichtet werden soll. |
+| static [BottomLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomleft/) | Gibt an, dass die Skalierung an der unteren linken Ecke des Mediums ausgerichtet werden soll. |
+| static [BottomRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/bottomright/) | Gibt an, dass die Skalierung an der unteren rechten Ecke des Mediums ausgerichtet werden soll. |
+| static [Center](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/center/) | Gibt an, dass die Skalierung auf dem Medium zentriert sein soll. |
+| static [LeftCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/leftcenter/) | Gibt an, dass die Skalierung an der Mitte der linken Kante des Mediums ausgerichtet werden soll. |
+| static [RightCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/rightcenter/) | Gibt an, dass die Skalierung an der Mitte der rechten Kante des Mediums ausgerichtet werden soll. |
+| static [TopCenter](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topcenter/) | Gibt an, dass die Skalierung auf die Mitte der Oberkante des Mediums ausgerichtet werden soll. |
+| static [TopLeft](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topleft/) | Gibt an, dass die Skalierung an der oberen linken Ecke des Mediums ausgerichtet werden soll. |
+| static [TopRight](../../aspose.page.xps.xpsmetadata/scaleoffsetalignmentoption/topright/) | Gibt an, dass die Skalierung an der oberen rechten Ecke des Mediums ausgerichtet werden soll. |
 
 ### Siehe auch
 
-* class [Option](../option)
-* class [PageScaling](../pagescaling)
-* namensraum [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata)
+* class [Option](../option/)
+* class [PageScaling](../pagescaling/)
+* namensraum [Aspose.Page.XPS.XpsMetadata](../../aspose.page.xps.xpsmetadata/)
 * Montage [Aspose.Page](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Page.dll -->
+
