@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides/audioframe/set_playloopmode/
 ---
-## AudioFrame::set_PlayLoopMode(**bool**) method
+## AudioFrame::set_PlayLoopMode(bool) method
 
 
 Determines whether an audio is looped. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::AudioFrame::set_PlayLoopMode(bool value) override
 
 ## See Also
 
-* Class [AudioFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AudioFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

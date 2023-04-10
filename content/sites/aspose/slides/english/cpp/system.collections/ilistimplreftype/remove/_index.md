@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.collections/ilistimplreftype/remove/
 ---
-## IListImplRefType::Remove([SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## IListImplRefType::Remove(SharedPtr\<System::Object\>) method
 
 
 Removes first instance of specific item from list.
@@ -24,8 +24,8 @@ virtual void System::Collections::IListImplRefType<T>::Remove(SharedPtr<System::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IListImplRefType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IListImplRefType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

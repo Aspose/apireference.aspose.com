@@ -17,8 +17,8 @@ virtual System::SharedPtr<System::IO::Stream> Aspose::Slides::IStreamWrapper::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [IStreamWrapper](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [IStreamWrapper](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

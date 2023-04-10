@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/system.xml/xmltextreader/set_xmlresolver/
 ---
-## XmlTextReader::set_XmlResolver(const [SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../xmlresolver/)\>\&) method
+## XmlTextReader::set_XmlResolver(const SharedPtr\<System::Xml::XmlResolver\>\&) method
 
 
 Sets the [XmlResolver](../../xmlresolver/) used for resolving DTD references.
@@ -24,8 +24,8 @@ void System::Xml::XmlTextReader::set_XmlResolver(const SharedPtr<System::Xml::Xm
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlResolver](../../xmlresolver/)
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlResolver](../xmlresolver/)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

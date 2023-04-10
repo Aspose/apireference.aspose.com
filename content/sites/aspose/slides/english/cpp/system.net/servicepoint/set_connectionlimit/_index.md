@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.net/servicepoint/set_connectionlimit/
 ---
-## ServicePoint::set_ConnectionLimit(**int32_t**) method
+## ServicePoint::set_ConnectionLimit(int32_t) method
 
 
 Sets the maximum number of connections that are allowed by the current instance.
@@ -24,6 +24,6 @@ void System::Net::ServicePoint::set_ConnectionLimit(int32_t value)
 
 ## See Also
 
-* Class [ServicePoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

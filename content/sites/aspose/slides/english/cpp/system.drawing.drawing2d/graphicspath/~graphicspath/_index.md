@@ -17,6 +17,6 @@ System::Drawing::Drawing2D::GraphicsPath::~GraphicsPath()
 
 ## See Also
 
-* Class [GraphicsPath](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GraphicsPath](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.io/path/getfilenamewithoutextension/
 ---
-## Path::GetFileNameWithoutExtension(const [String](../../../system/string/)\&) method
+## Path::GetFileNameWithoutExtension(const String\&) method
 
 
 Returns the name without extension of the file referenced by the specified path.
@@ -28,7 +28,7 @@ The file's name without extension
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Path](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Path](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

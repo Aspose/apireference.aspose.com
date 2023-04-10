@@ -22,8 +22,7 @@ An [XmlAtomicValue](../) object copy of this [XmlAtomicValue](../) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlAtomicValue](../)
-* Class [XmlAtomicValue](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlAtomicValue](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ The text content as a double-precision floating-point number.
 
 ## See Also
 
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

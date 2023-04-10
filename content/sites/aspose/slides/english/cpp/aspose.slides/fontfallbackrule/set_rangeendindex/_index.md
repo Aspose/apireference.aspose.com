@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/fontfallbackrule/set_rangeendindex/
 ---
-## FontFallBackRule::set_RangeEndIndex(**uint32_t**) method
+## FontFallBackRule::set_RangeEndIndex(uint32_t) method
 
 
 Get last index of continuous unicode range.
@@ -17,6 +17,6 @@ void Aspose::Slides::FontFallBackRule::set_RangeEndIndex(uint32_t value)
 
 ## See Also
 
-* Class [FontFallBackRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FontFallBackRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

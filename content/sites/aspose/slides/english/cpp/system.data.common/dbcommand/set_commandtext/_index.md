@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.data.common/dbcommand/set_commandtext/
 ---
-## DbCommand::set_CommandText([String](../../../system/string/)) const method
+## DbCommand::set_CommandText(String) const method
 
 
 Sets DB command text.
@@ -24,7 +24,7 @@ virtual void System::Data::Common::DbCommand::set_CommandText(String value) cons
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DbCommand](../)
-* Namespace [System::Data::Common](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DbCommand](./)
+* Namespace [System::Data::Common](../)
+* Library [Aspose.Slides](../../)

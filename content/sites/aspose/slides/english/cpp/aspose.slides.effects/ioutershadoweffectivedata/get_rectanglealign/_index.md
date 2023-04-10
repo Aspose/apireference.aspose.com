@@ -17,7 +17,7 @@ virtual RectangleAlignment Aspose::Slides::Effects::IOuterShadowEffectiveData::g
 
 ## See Also
 
-* Enum [RectangleAlignment](../../../aspose.slides/rectanglealignment/)
-* Class [IOuterShadowEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [RectangleAlignment](../../aspose.slides/rectanglealignment/)
+* Class [IOuterShadowEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

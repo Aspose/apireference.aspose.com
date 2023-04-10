@@ -28,6 +28,6 @@ A value that contains a number that corresponds to the specified hexadecimal dig
 
 ## See Also
 
-* Class [Uri](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Uri](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

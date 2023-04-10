@@ -22,7 +22,7 @@ The scheme that can be used for authorization.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [AuthenticationHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [AuthenticationHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

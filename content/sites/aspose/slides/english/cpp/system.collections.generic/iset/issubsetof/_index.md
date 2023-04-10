@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.collections.generic/iset/issubsetof/
 ---
-## ISet::IsSubsetOf([IEnumerablePtr](../ienumerableptr/)) method
+## ISet::IsSubsetOf(IEnumerablePtr) method
 
 
 Checks if current set is a subset of other container.
@@ -28,7 +28,7 @@ True if all elements in current set are present in **other**, false otherwise.
 
 ## See Also
 
-* Typedef [IEnumerablePtr](../ienumerableptr/)
-* Class [ISet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumerablePtr](./ienumerableptr/)
+* Class [ISet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

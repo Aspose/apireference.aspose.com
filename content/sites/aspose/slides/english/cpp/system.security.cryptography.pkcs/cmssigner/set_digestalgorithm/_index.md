@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.security.cryptography.pkcs/cmssigner/set_digestalgorithm/
 ---
-## CmsSigner::set_DigestAlgorithm(const [SharedPtr](../../../system/sharedptr/)\<[Oid](../../../system.security.cryptography/oid/)\>\&) method
+## CmsSigner::set_DigestAlgorithm(const SharedPtr\<Oid\>\&) method
 
 
 Sets hash algorithm using with signature.
@@ -24,8 +24,8 @@ void System::Security::Cryptography::Pkcs::CmsSigner::set_DigestAlgorithm(const 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Oid](../../../system.security.cryptography/oid/)
-* Class [CmsSigner](../)
-* Namespace [System::Security::Cryptography::Pkcs](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Oid](../../system.security.cryptography/oid/)
+* Class [CmsSigner](./)
+* Namespace [System::Security::Cryptography::Pkcs](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaappinfo/set_source/
 ---
-## XmlSchemaAppInfo::set_Source(const [String](../../../system/string/)\&) method
+## XmlSchemaAppInfo::set_Source(const String\&) method
 
 
 Sets the source of the application information.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaAppInfo::set_Source(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaAppInfo](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaAppInfo](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IChartSeriesGroup> Aspose::Slides::Charts::ChartSeries::get_Pa
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartSeriesGroup](../../ichartseriesgroup/)
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartSeriesGroup](../ichartseriesgroup/)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/ioutershadow/set_rectanglealign/
 ---
-## IOuterShadow::set_RectangleAlign([RectangleAlignment](../../../aspose.slides/rectanglealignment/)) method
+## IOuterShadow::set_RectangleAlign(RectangleAlignment) method
 
 
 Rectangle alignment. Write [RectangleAlignment](../../../aspose.slides/rectanglealignment/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Effects::IOuterShadow::set_RectangleAlign(Rectangle
 
 ## See Also
 
-* Enum [RectangleAlignment](../../../aspose.slides/rectanglealignment/)
-* Class [IOuterShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [RectangleAlignment](../../aspose.slides/rectanglealignment/)
+* Class [IOuterShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ LineAlignment Aspose::Slides::LineFormat::get_Alignment() override
 
 ## See Also
 
-* Enum [LineAlignment](../../linealignment/)
-* Class [LineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineAlignment](../linealignment/)
+* Class [LineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

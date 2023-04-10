@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections/ienumeratorimplreftype/ienumeratorimplreftype/
 ---
-## IEnumeratorImplRefType::IEnumeratorImplRefType([System::SharedPtr](../../../system/sharedptr/)\<[System::Collections::Generic::IEnumerator](../../../system.collections.generic/ienumerator/)\<[System::SharedPtr](../../../system/sharedptr/)\<T\>\>\>) constructor
+## IEnumeratorImplRefType::IEnumeratorImplRefType(System::SharedPtr\<System::Collections::Generic::IEnumerator\<System::SharedPtr\<T\>\>\>) constructor
 
 
 wrapper constructor
@@ -17,8 +17,8 @@ System::Collections::IEnumeratorImplRefType<T>::IEnumeratorImplRefType(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [IEnumeratorImplRefType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../../system.collections.generic/ienumerator/)
+* Class [IEnumeratorImplRefType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

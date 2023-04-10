@@ -22,8 +22,8 @@ The delta value.
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [TimeSpan](../../../system/timespan/)
-* Class [RetryConditionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [TimeSpan](../../system/timespan/)
+* Class [RetryConditionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

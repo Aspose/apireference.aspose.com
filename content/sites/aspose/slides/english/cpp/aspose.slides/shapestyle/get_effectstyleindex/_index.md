@@ -17,6 +17,6 @@ uint32_t Aspose::Slides::ShapeStyle::get_EffectStyleIndex() override
 
 ## See Also
 
-* Class [ShapeStyle](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ShapeStyle](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

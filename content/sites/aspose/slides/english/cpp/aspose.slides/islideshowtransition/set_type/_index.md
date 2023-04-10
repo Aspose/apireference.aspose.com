@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/islideshowtransition/set_type/
 ---
-## ISlideShowTransition::set_Type([SlideShow::TransitionType](../../../aspose.slides.slideshow/transitiontype/)) method
+## ISlideShowTransition::set_Type(SlideShow::TransitionType) method
 
 
 Type of transition. Writes [TransitionType](../../../aspose.slides.slideshow/transitiontype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ISlideShowTransition::set_Type(SlideShow::Transitio
 
 ## See Also
 
-* Enum [TransitionType](../../../aspose.slides.slideshow/transitiontype/)
-* Class [ISlideShowTransition](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionType](../../aspose.slides.slideshow/transitiontype/)
+* Class [ISlideShowTransition](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

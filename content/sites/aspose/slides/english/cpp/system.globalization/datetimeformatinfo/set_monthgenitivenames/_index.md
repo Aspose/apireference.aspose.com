@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/system.globalization/datetimeformatinfo/set_monthgenitivenames/
 ---
-## DateTimeFormatInfo::set_MonthGenitiveNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
+## DateTimeFormatInfo::set_MonthGenitiveNames(const ArrayPtr\<String\>\&) method
 
 
 Sets month names in genitive form.
@@ -24,8 +24,8 @@ void System::Globalization::DateTimeFormatInfo::set_MonthGenitiveNames(const Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

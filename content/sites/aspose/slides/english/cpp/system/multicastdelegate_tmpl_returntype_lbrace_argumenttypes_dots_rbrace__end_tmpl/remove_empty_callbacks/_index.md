@@ -17,6 +17,6 @@ void System::MulticastDelegate<ReturnType(ArgumentTypes...)>::remove_empty_callb
 
 ## See Also
 
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

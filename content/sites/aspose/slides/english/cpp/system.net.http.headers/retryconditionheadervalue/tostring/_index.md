@@ -22,7 +22,7 @@ String System::Net::Http::Headers::RetryConditionHeaderValue::ToString() const o
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [RetryConditionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [RetryConditionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

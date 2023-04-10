@@ -22,8 +22,8 @@ The IXmlSchemaInfo object representing the PSVI of the node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IXmlSchemaInfo](../../../system.xml.schema/ixmlschemainfo/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IXmlSchemaInfo](../../system.xml.schema/ixmlschemainfo/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

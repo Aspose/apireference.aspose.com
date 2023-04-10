@@ -17,6 +17,6 @@ System::Drawing::Color::Color()
 
 ## See Also
 
-* Class [Color](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

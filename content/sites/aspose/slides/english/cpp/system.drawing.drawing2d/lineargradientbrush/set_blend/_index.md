@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_blend/
 ---
-## LinearGradientBrush::set_Blend(const [SharedPtr](../../../system/sharedptr/)\<[Blend](../../blend/)\>\&) method
+## LinearGradientBrush::set_Blend(const SharedPtr\<Blend\>\&) method
 
 
 Sets a blend that specifies factors and positions of base colors for this brush.
@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::LinearGradientBrush::set_Blend(const SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Blend](../../blend/)
-* Class [LinearGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Blend](../blend/)
+* Class [LinearGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

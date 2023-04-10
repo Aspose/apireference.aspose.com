@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.globalization/calendar/getmilliseconds/
 ---
-## Calendar::GetMilliseconds([DateTime](../../../system/datetime/)) const method
+## Calendar::GetMilliseconds(DateTime) const method
 
 
 Gets milliseconds for the specified time point.
@@ -28,7 +28,7 @@ Milliseconds in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

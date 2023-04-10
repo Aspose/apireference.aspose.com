@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/system.xml/xmlwritersettings/set_writeenddocumentonclose/
 ---
-## XmlWriterSettings::set_WriteEndDocumentOnClose(**bool**) method
+## XmlWriterSettings::set_WriteEndDocumentOnClose(bool) method
 
 
 Sets a value that indicates whether the [XmlWriter](../../xmlwriter/) will add closing tags to all unclosed element tags when the [XmlWriter::Close](../../xmlwriter/close/) method is called.
@@ -24,6 +24,6 @@ void System::Xml::XmlWriterSettings::set_WriteEndDocumentOnClose(bool value)
 
 ## See Also
 
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

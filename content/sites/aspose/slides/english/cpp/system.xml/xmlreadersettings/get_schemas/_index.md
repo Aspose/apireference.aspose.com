@@ -22,8 +22,8 @@ The XmlSchemaSet to use when performing schema validation. The default is an emp
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaSet](../../../system.xml.schema/xmlschemaset/)
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaSet](../../system.xml.schema/xmlschemaset/)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

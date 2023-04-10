@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.drawing.imaging/propertyitem/set_type/
 ---
-## PropertyItem::set_Type(**int16_t**) method
+## PropertyItem::set_Type(int16_t) method
 
 
 Sets the type of the property represented by the current object in bytes.
@@ -24,6 +24,6 @@ void System::Drawing::Imaging::PropertyItem::set_Type(int16_t value)
 
 ## See Also
 
-* Class [PropertyItem](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PropertyItem](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/idigitalsignature/set_comments/
 ---
-## IDigitalSignature::set_Comments([System::String](../../../system/string/)) method
+## IDigitalSignature::set_Comments(System::String) method
 
 
 The purpose of signature. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDigitalSignature::set_Comments(System::String valu
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDigitalSignature](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDigitalSignature](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual uint32_t Aspose::Slides::Charts::IAxis::get_NumberOfBins()=0
 
 ## See Also
 
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

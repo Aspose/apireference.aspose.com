@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/aspose.slides/ipresentation/get_commentauthor/
 ---
-## IPresentation::get_CommentAuthor(**int32_t**) method
+## IPresentation::get_CommentAuthor(int32_t) method
 
 
 Returns the comment author at the specified index. Read-only [Aspose::Slides::ICommentAuthor](../../icommentauthor/)
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICommentAuthor> Aspose::Slides::IPresentation::get_Com
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommentAuthor](../../icommentauthor/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommentAuthor](../icommentauthor/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_filenamestar/
 ---
-## ContentDispositionHeaderValue::set_FileNameStar([String](../../../system/string/)) method
+## ContentDispositionHeaderValue::set_FileNameStar(String) method
 
 
 Sets a value that determines how to construct filenames for storing the message payload. It is used when the entities are detached and stored in separate files.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::ContentDispositionHeaderValue::set_FileNameStar
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ContentDispositionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ContentDispositionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

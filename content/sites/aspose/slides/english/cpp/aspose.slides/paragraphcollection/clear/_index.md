@@ -17,6 +17,6 @@ void Aspose::Slides::ParagraphCollection::Clear() override
 
 ## See Also
 
-* Class [ParagraphCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ParagraphCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

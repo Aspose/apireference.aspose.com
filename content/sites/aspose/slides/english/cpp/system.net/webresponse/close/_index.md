@@ -17,6 +17,6 @@ virtual void System::Net::WebResponse::Close()
 
 ## See Also
 
-* Class [WebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

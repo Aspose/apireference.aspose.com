@@ -22,9 +22,9 @@ A value of the 'If-Match' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpHeaderValueCollection](../../httpheadervaluecollection/)
-* Class [EntityTagHeaderValue](../../entitytagheadervalue/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpHeaderValueCollection](../httpheadervaluecollection/)
+* Class [EntityTagHeaderValue](../entitytagheadervalue/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

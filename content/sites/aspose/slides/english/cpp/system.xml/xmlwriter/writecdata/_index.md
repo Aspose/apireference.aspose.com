@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.xml/xmlwriter/writecdata/
 ---
-## XmlWriter::WriteCData([String](../../../system/string/)) method
+## XmlWriter::WriteCData(String) method
 
 
 When overridden in a derived class, writes out a **...** block containing the specified text.
@@ -24,7 +24,7 @@ virtual void System::Xml::XmlWriter::WriteCData(String text)=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

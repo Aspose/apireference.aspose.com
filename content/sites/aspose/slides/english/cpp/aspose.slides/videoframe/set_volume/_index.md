@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/videoframe/set_volume/
 ---
-## VideoFrame::set_Volume([AudioVolumeMode](../../audiovolumemode/)) method
+## VideoFrame::set_Volume(AudioVolumeMode) method
 
 
 Sets the audio volume. Write [AudioVolumeMode](../../audiovolumemode/).
@@ -17,7 +17,7 @@ void Aspose::Slides::VideoFrame::set_Volume(AudioVolumeMode value) override
 
 ## See Also
 
-* Enum [AudioVolumeMode](../../audiovolumemode/)
-* Class [VideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [AudioVolumeMode](../audiovolumemode/)
+* Class [VideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

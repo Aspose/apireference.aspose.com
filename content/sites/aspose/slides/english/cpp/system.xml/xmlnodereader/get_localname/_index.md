@@ -22,7 +22,7 @@ The name of the current node with the prefix removed. For example, **LocalName**
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNodeReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNodeReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ Provides the content of the type.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaContent](../../xmlschemacontent/)
-* Class [XmlSchemaContentModel](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaContent](../xmlschemacontent/)
+* Class [XmlSchemaContentModel](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

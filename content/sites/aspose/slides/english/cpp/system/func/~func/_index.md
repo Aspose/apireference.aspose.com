@@ -17,6 +17,6 @@ System::Func<Args>::~Func()
 
 ## See Also
 
-* Class [Func](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Func](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

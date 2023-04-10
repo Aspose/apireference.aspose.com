@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/alphabilevel/equals/
 ---
-## AlphaBiLevel::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## AlphaBiLevel::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines whether the specified [AlphaBiLevel](../) is equal to the current [AlphaBiLevel](../).
@@ -28,8 +28,8 @@ true if objects are equal; otherwise, false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [AlphaBiLevel](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [AlphaBiLevel](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

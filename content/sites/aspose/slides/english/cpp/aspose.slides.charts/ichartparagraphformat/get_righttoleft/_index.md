@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::Charts::IChartParagraphFormat::get_RightToL
 
 ## See Also
 
-* Enum [NullableBool](../../../aspose.slides/nullablebool/)
-* Class [IChartParagraphFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../../aspose.slides/nullablebool/)
+* Class [IChartParagraphFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

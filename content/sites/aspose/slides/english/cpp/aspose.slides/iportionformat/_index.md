@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/iportionformat/
 This class contains the text portion formatting properties. Unlike [IPortionFormatEffectiveData](../iportionformateffectivedata/), all properties of this class are writeable.
 
 ```cpp
-class IPortionFormat : public virtual Aspose::Slides::IBasePortionFormat,
-                       public Aspose::Slides::IHyperlinkContainer
+class IPortionFormat : public virtual Aspose::Slides::IBasePortionFormat,                       public Aspose::Slides::IHyperlinkContainer
 ```
 
 ## Methods

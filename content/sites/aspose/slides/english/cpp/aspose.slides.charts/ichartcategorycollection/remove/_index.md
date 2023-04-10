@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/ichartcategorycollection/remove/
 ---
-## IChartCategoryCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IChartCategory](../../ichartcategory/)\>) method
+## IChartCategoryCollection::Remove(System::SharedPtr\<IChartCategory\>) method
 
 
 Removes the specified value.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Charts::IChartCategoryCollection::Remove(System::Sh
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartCategory](../../ichartcategory/)
-* Class [IChartCategoryCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartCategory](../ichartcategory/)
+* Class [IChartCategoryCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

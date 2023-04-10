@@ -22,6 +22,6 @@ Resulting hash value.
 
 ## See Also
 
-* Class [KeyValuePair](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [KeyValuePair](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

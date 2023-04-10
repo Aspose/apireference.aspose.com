@@ -22,6 +22,6 @@ The validated XML element or attribute's value as a [Boolean](../../../system/bo
 
 ## See Also
 
-* Class [XmlAtomicValue](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlAtomicValue](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

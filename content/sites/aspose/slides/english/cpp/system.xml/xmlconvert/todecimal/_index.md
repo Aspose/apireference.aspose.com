@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.xml/xmlconvert/todecimal/
 ---
-## XmlConvert::ToDecimal(const [String](../../../system/string/)\&) method
+## XmlConvert::ToDecimal(const String\&) method
 
 
 Converts the [String](../../../system/string/) to a [Decimal](../../../system/decimal/) equivalent.
@@ -28,8 +28,8 @@ A **[Decimal](../../../system/decimal/)** equivalent of the string.
 
 ## See Also
 
-* Class [Decimal](../../../system/decimal/)
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Decimal](../../system/decimal/)
+* Class [String](../../system/string/)
+* Class [XmlConvert](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

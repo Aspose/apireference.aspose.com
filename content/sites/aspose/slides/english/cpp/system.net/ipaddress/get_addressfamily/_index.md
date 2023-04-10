@@ -22,7 +22,7 @@ The address family.
 
 ## See Also
 
-* Enum [AddressFamily](../../../system.net.sockets/addressfamily/)
-* Class [IPAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [AddressFamily](../../system.net.sockets/addressfamily/)
+* Class [IPAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

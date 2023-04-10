@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.security.cryptography.xml/xmldsigc14ntransform/getdigestedoutput/
 ---
-## XmlDsigC14NTransform::GetDigestedOutput([SharedPtr](../../../system/sharedptr/)\<[HashAlgorithm](../../../system.security.cryptography/hashalgorithm/)\>) method
+## XmlDsigC14NTransform::GetDigestedOutput(SharedPtr\<HashAlgorithm\>) method
 
 
 
@@ -17,9 +17,9 @@ ArrayPtr<uint8_t> System::Security::Cryptography::Xml::XmlDsigC14NTransform::Get
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HashAlgorithm](../../../system.security.cryptography/hashalgorithm/)
-* Class [XmlDsigC14NTransform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HashAlgorithm](../../system.security.cryptography/hashalgorithm/)
+* Class [XmlDsigC14NTransform](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

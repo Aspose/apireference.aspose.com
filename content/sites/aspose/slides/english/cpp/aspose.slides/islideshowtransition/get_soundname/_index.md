@@ -22,7 +22,7 @@ This name appears in the PowerPoint user interface when configuring the transiti
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ISlideShowTransition](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ISlideShowTransition](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

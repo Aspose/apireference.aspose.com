@@ -24,6 +24,6 @@ virtual void System::Collections::IList::RemoveAt(int index)=0
 
 ## See Also
 
-* Class [IList](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IList](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

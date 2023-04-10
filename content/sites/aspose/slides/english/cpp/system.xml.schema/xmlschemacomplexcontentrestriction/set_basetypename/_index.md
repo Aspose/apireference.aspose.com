@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemacomplexcontentrestriction/set_basetypename/
 ---
-## XmlSchemaComplexContentRestriction::set_BaseTypeName(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
+## XmlSchemaComplexContentRestriction::set_BaseTypeName(const SharedPtr\<XmlQualifiedName\>\&) method
 
 
 Sets the name of a complex type from which this type is derived by restriction.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaComplexContentRestriction::set_BaseTypeName(c
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaComplexContentRestriction](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaComplexContentRestriction](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

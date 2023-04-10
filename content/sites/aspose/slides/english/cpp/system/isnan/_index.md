@@ -34,5 +34,5 @@ True if **value** is a NaN value, otherwise - false
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

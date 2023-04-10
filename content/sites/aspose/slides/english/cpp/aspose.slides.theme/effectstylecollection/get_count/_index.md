@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Theme::EffectStyleCollection::get_Count() override
 
 ## See Also
 
-* Class [EffectStyleCollection](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EffectStyleCollection](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.slides.charts/ichartdatapointcollection/remove/
 ---
-## IChartDataPointCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataPoint](../../ichartdatapoint/)\>) method
+## IChartDataPointCollection::Remove(System::SharedPtr\<IChartDataPoint\>) method
 
 
 Removes the specified value.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Charts::IChartDataPointCollection::Remove(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataPoint](../../ichartdatapoint/)
-* Class [IChartDataPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataPoint](../ichartdatapoint/)
+* Class [IChartDataPointCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The HTTP status code associated with the web response.
 
 ## See Also
 
-* Enum [HttpStatusCode](../../httpstatuscode/)
-* Class [HttpWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [HttpStatusCode](../httpstatuscode/)
+* Class [HttpWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

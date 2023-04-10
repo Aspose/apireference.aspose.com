@@ -17,8 +17,8 @@ SharedPtr<Object> System::Collections::Generic::ICollection<T>::get_SyncRoot() c
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [ICollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [ICollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

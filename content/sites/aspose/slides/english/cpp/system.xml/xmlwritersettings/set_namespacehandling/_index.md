@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.xml/xmlwritersettings/set_namespacehandling/
 ---
-## XmlWriterSettings::set_NamespaceHandling([System::Xml::NamespaceHandling](../../namespacehandling/)) method
+## XmlWriterSettings::set_NamespaceHandling(System::Xml::NamespaceHandling) method
 
 
 Sets a value that indicates whether the [XmlWriter](../../xmlwriter/) should remove duplicate namespace declarations when writing XML content. The default behavior is for the writer to output all namespace declarations that are present in the writer's namespace resolver.
@@ -24,7 +24,7 @@ void System::Xml::XmlWriterSettings::set_NamespaceHandling(System::Xml::Namespac
 
 ## See Also
 
-* Enum [NamespaceHandling](../../namespacehandling/)
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NamespaceHandling](../namespacehandling/)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ichartseriesreadonlycollection/idx_get/
 ---
-## IChartSeriesReadonlyCollection::idx_get(**int32_t**) method
+## IChartSeriesReadonlyCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IChartSeries> Aspose::Slides::Charts::IChartSeriesRead
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartSeries](../../ichartseries/)
-* Class [IChartSeriesReadonlyCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartSeries](../ichartseries/)
+* Class [IChartSeriesReadonlyCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

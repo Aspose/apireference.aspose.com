@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.net/httpwebrequest/set_continuetimeout/
 ---
-## HttpWebRequest::set_ContinueTimeout(**int32_t**) method
+## HttpWebRequest::set_ContinueTimeout(int32_t) method
 
 
 Sets a timeout to wait until the 100-Continue status code is received.
@@ -24,6 +24,6 @@ void System::Net::HttpWebRequest::set_ContinueTimeout(int32_t value)
 
 ## See Also
 
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

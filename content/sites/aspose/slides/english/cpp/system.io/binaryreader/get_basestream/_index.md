@@ -17,8 +17,8 @@ virtual SharedPtr<Stream> System::IO::BinaryReader::get_BaseStream()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../stream/)
-* Class [BinaryReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../stream/)
+* Class [BinaryReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

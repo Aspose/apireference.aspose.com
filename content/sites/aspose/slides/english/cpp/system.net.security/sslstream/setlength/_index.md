@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/system.net.security/sslstream/setlength/
 ---
-## SslStream::SetLength(**int64_t**) method
+## SslStream::SetLength(int64_t) method
 
 
 Sets the length of the stream represented by the current object.
@@ -24,6 +24,6 @@ void System::Net::Security::SslStream::SetLength(int64_t value) override
 
 ## See Also
 
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

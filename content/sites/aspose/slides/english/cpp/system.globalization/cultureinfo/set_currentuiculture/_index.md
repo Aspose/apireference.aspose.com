@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/system.globalization/cultureinfo/set_currentuiculture/
 ---
-## CultureInfo::set_CurrentUICulture(const [CultureInfoPtr](../../cultureinfoptr/)\&) method
+## CultureInfo::set_CurrentUICulture(const CultureInfoPtr\&) method
 
 
 Sets current thread's UI culture.
@@ -24,7 +24,7 @@ static void System::Globalization::CultureInfo::set_CurrentUICulture(const Cultu
 
 ## See Also
 
-* Typedef [CultureInfoPtr](../../cultureinfoptr/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [CultureInfoPtr](../cultureinfoptr/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

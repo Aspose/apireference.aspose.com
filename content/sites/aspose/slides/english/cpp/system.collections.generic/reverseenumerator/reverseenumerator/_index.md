@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic/reverseenumerator/reverseenumerator/
 ---
-## ReverseEnumerator::ReverseEnumerator(const [Object::ptr](../../../system/object/ptr/)\&, Container\&) constructor
+## ReverseEnumerator::ReverseEnumerator(const Object::ptr\&, Container\&) constructor
 
 
 Initializes iterator.
@@ -25,7 +25,7 @@ System::Collections::Generic::ReverseEnumerator<Container, Element>::ReverseEnum
 
 ## See Also
 
-* Typedef [ptr](../../../system/object/ptr/)
-* Class [ReverseEnumerator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ptr](../../system/object/ptr/)
+* Class [ReverseEnumerator](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

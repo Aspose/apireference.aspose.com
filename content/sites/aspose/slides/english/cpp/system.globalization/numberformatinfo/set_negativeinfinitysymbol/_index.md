@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/system.globalization/numberformatinfo/set_negativeinfinitysymbol/
 ---
-## NumberFormatInfo::set_NegativeInfinitySymbol(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_NegativeInfinitySymbol(const String\&) method
 
 
 Sets negative infinity symbol.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_NegativeInfinitySymbol(const S
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

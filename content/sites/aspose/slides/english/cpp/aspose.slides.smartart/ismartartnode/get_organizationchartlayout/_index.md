@@ -17,7 +17,7 @@ virtual OrganizationChartLayoutType Aspose::Slides::SmartArt::ISmartArtNode::get
 
 ## See Also
 
-* Enum [OrganizationChartLayoutType](../../organizationchartlayouttype/)
-* Class [ISmartArtNode](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [OrganizationChartLayoutType](../organizationchartlayouttype/)
+* Class [ISmartArtNode](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

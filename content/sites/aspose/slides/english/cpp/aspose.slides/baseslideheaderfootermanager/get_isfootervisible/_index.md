@@ -17,6 +17,6 @@ bool Aspose::Slides::BaseSlideHeaderFooterManager::get_IsFooterVisible() overrid
 
 ## See Also
 
-* Class [BaseSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

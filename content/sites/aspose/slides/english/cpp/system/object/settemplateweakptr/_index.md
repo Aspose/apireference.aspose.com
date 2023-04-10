@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system/object/settemplateweakptr/
 ---
-## Object::SetTemplateWeakPtr(**uint32_t**) method
+## Object::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ virtual void System::Object::SetTemplateWeakPtr(uint32_t argument)
 
 ## See Also
 
-* Class [Object](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Object](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

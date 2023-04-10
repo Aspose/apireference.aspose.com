@@ -32,12 +32,6 @@ template<typename T> static std::enable_if<IsSmartPtr<T>::value, constSystem::Ty
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the final class of object passed.
 
-## See Also
-
-* Struct [IsSmartPtr](../../issmartptr/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType(const T\&) method
 
 
@@ -64,14 +58,6 @@ template<typename T> static std::enable_if<!IsExceptionWrapper<T>::value &&!IsSm
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the final class of object passed.
 
-## See Also
-
-* Struct [IsExceptionWrapper](../../isexceptionwrapper/)
-* Struct [IsSmartPtr](../../issmartptr/)
-* Struct [IsNullable](../../isnullable/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType(const T\&) method
 
 
@@ -98,12 +84,6 @@ template<typename T> static std::enable_if<IsExceptionWrapper<T>::value, constSy
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the final class of object passed.
 
-## See Also
-
-* Struct [IsExceptionWrapper](../../isexceptionwrapper/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType(const T) method
 
 
@@ -130,11 +110,6 @@ template<typename T> static std::enable_if<std::is_fundamental<T>::value||std::i
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the type of object passed.
 
-## See Also
-
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType(const T) method
 
 
@@ -161,12 +136,6 @@ template<typename T> static std::enable_if<IsNullable<T>::value, constSystem::Ty
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the type of object passed.
 
-## See Also
-
-* Struct [IsNullable](../../isnullable/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -187,11 +156,6 @@ template<typename T> static std::enable_if<std::is_fundamental<T>::value &&!std:
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the type specified.
 
-## See Also
-
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -212,11 +176,6 @@ template<typename T> static std::enable_if<std::is_enum<T>::value, constSystem::
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the type specified.
 
-## See Also
-
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -237,12 +196,6 @@ template<typename T> static std::enable_if<(!std::is_fundamental<T>::value &&!st
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the strcture specified.
 
-## See Also
-
-* Struct [IsExceptionWrapper](../../isexceptionwrapper/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -263,12 +216,6 @@ template<typename T> static std::enable_if<IsNullable<T>::value, constSystem::Ty
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the strcture specified.
 
-## See Also
-
-* Struct [IsNullable](../../isnullable/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -289,14 +236,7 @@ template<typename T> static std::enable_if<!std::is_fundamental<T>::value &&!std
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing the strcture specified or pointee type if called for [SmartPtr](../../smartptr/).
 
-## See Also
-
-* Struct [IsNullable](../../isnullable/)
-* Struct [IsExceptionWrapper](../../isexceptionwrapper/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
-## ObjectExt::GetType(const [String](../../string/)\&) method
+## ObjectExt::GetType(const String\&) method
 
 
 Implements typeof() translation. Overload for string type.
@@ -316,13 +256,6 @@ static const System::TypeInfo & System::ObjectExt::GetType(const String &obj)
 
 Const reference to [TypeInfo](../../typeinfo/) structure describing [String](../../string/) type.
 
-## See Also
-
-* Class [TypeInfo](../../typeinfo/)
-* Class [String](../../string/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -332,12 +265,6 @@ Implements typeof() translation. Overload for **uint8_t**.
 const System::TypeInfo & System::ObjectExt::GetType()
 ```
 
-## See Also
-
-* Class [TypeInfo](../../typeinfo/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -347,12 +274,6 @@ Implements typeof() translation. Overload for char16_t.
 const System::TypeInfo & System::ObjectExt::GetType()
 ```
 
-## See Also
-
-* Class [TypeInfo](../../typeinfo/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -362,12 +283,6 @@ Implements typeof() translation. Overload for **int32_t**.
 const System::TypeInfo & System::ObjectExt::GetType()
 ```
 
-## See Also
-
-* Class [TypeInfo](../../typeinfo/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -377,12 +292,6 @@ Implements typeof() translation. Overload for **int64_t**.
 const System::TypeInfo & System::ObjectExt::GetType()
 ```
 
-## See Also
-
-* Class [TypeInfo](../../typeinfo/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -392,12 +301,6 @@ Implements typeof() translation. Overload for bool.
 const System::TypeInfo & System::ObjectExt::GetType()
 ```
 
-## See Also
-
-* Class [TypeInfo](../../typeinfo/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::GetType() method
 
 
@@ -409,7 +312,11 @@ const System::TypeInfo & System::ObjectExt::GetType()
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ObjectExt](./)
+* Class [TypeInfo](../typeinfo/)
+* Class [String](../string/)
+* Struct [IsSmartPtr](../issmartptr/)
+* Struct [IsExceptionWrapper](../isexceptionwrapper/)
+* Struct [IsNullable](../isnullable/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

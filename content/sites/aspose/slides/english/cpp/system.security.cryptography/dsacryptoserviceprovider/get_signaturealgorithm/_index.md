@@ -22,7 +22,7 @@ Algorithm name.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ The maximum number of concurrent connections that are allowed by the ServicePoin
 
 ## See Also
 
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

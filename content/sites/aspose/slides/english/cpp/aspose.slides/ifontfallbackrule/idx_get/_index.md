@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/ifontfallbackrule/idx_get/
 ---
-## IFontFallBackRule::idx_get(**int32_t**) method
+## IFontFallBackRule::idx_get(int32_t) method
 
 
 Gets the font name at the specified index.
@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IFontFallBackRule::idx_get(int32_t index)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IFontFallBackRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IFontFallBackRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

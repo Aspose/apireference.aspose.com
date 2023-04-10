@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.security.cryptography/asymmetricalgorithm/fromxmlstring/
 ---
-## AsymmetricAlgorithm::FromXmlString([String](../../../system/string/)) method
+## AsymmetricAlgorithm::FromXmlString(String) method
 
 
 Reads algorithm parameters from XML string.
@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::AsymmetricAlgorithm::FromXmlString(
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [AsymmetricAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [AsymmetricAlgorithm](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/system.xml/xmltextwriter/lookupprefix/
 ---
-## XmlTextWriter::LookupPrefix([String](../../../system/string/)) method
+## XmlTextWriter::LookupPrefix(String) method
 
 
 Returns the closest prefix defined in the current namespace scope for the namespace URI.
@@ -28,7 +28,7 @@ The matching prefix. Or **nullptr** if no matching namespace URI is found in the
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlTextWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlTextWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

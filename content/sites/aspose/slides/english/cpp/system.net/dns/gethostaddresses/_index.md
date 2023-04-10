@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.net/dns/gethostaddresses/
 ---
-## Dns::GetHostAddresses([String](../../../system/string/)) method
+## Dns::GetHostAddresses(String) method
 
 
 Returns a collection of IP addresses of the specified host name or IP address.
@@ -28,10 +28,10 @@ A collection of IP addresses.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPAddress](../../ipaddress/)
-* Class [String](../../../system/string/)
-* Class [Dns](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPAddress](../ipaddress/)
+* Class [String](../../system/string/)
+* Class [Dns](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

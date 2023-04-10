@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/controlcollection/removeat/
 ---
-## ControlCollection::RemoveAt(**int32_t**) method
+## ControlCollection::RemoveAt(int32_t) method
 
 
 Removes an ActiveX control stored at specified position from the collection.
@@ -24,6 +24,6 @@ void Aspose::Slides::ControlCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [ControlCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ControlCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

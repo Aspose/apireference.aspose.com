@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system/details_applicationexception/is/
 ---
-## Details_ApplicationException::Is(const [System::TypeInfo](../../typeinfo/)\&) const method
+## Details_ApplicationException::Is(const System::TypeInfo\&) const method
 
 
 
@@ -31,7 +31,7 @@ True if object is of tagged type or its subclass, false otherwise.
 Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [Details_ApplicationException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [Details_ApplicationException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

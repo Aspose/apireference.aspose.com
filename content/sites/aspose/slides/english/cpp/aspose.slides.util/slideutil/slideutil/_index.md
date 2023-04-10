@@ -17,6 +17,6 @@ Aspose::Slides::Util::SlideUtil::SlideUtil()=delete
 
 ## See Also
 
-* Class [SlideUtil](../)
-* Namespace [Aspose::Slides::Util](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideUtil](./)
+* Namespace [Aspose::Slides::Util](../)
+* Library [Aspose.Slides](../../)

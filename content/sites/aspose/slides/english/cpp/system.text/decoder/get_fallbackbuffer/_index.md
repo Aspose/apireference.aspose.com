@@ -22,7 +22,7 @@ Fallback buffer object.
 
 ## See Also
 
-* Typedef [DecoderFallbackBufferPtr](../../../system/decoderfallbackbufferptr/)
-* Class [Decoder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DecoderFallbackBufferPtr](../../system/decoderfallbackbufferptr/)
+* Class [Decoder](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

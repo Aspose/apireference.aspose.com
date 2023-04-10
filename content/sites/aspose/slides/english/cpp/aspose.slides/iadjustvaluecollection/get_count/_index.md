@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IAdjustValueCollection::get_Count()=0
 
 ## See Also
 
-* Class [IAdjustValueCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAdjustValueCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

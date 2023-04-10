@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/set_routingstyle/
 ---
-## SoapDocumentServiceAttribute::set_RoutingStyle([SoapServiceRoutingStyle](../../soapserviceroutingstyle/)) method
+## SoapDocumentServiceAttribute::set_RoutingStyle(SoapServiceRoutingStyle) method
 
 
 Sets a value that shows how the SOAP messages are routed to the service.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentServiceAttribute::set_Routing
 
 ## See Also
 
-* Enum [SoapServiceRoutingStyle](../../soapserviceroutingstyle/)
-* Class [SoapDocumentServiceAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SoapServiceRoutingStyle](../soapserviceroutingstyle/)
+* Class [SoapDocumentServiceAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

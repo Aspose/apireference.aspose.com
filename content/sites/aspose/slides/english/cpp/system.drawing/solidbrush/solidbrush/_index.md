@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.drawing/solidbrush/solidbrush/
 ---
-## SolidBrush::SolidBrush(const [Color](../../color/)\&) constructor
+## SolidBrush::SolidBrush(const Color\&) constructor
 
 
 Constructs a new [SolidBrush](../) object and initalizes it with the specified color.
@@ -24,7 +24,7 @@ System::Drawing::SolidBrush::SolidBrush(const Color &color)
 
 ## See Also
 
-* Class [Color](../../color/)
-* Class [SolidBrush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../color/)
+* Class [SolidBrush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

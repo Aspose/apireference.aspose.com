@@ -21,7 +21,7 @@ Deprecated
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [IBulletFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [IBulletFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

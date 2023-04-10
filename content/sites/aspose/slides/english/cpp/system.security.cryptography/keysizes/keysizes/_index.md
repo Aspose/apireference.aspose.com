@@ -29,6 +29,6 @@ System::Security::Cryptography::KeySizes::KeySizes(int min_size, int max_size, i
 Constructor. 
 ## See Also
 
-* Class [KeySizes](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [KeySizes](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

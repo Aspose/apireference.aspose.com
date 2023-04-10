@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.slides.mathtext/mathmatrix/insertrowafter/
 ---
-## MathMatrix::InsertRowAfter(**int32_t**) method
+## MathMatrix::InsertRowAfter(int32_t) method
 
 
 Insert a new row after the specified one Initially all elements in the new row are null.
@@ -33,6 +33,6 @@ matrix->InsertRowAfter(1);
 
 ## See Also
 
-* Class [MathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

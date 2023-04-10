@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/background/set_styleindex/
 ---
-## Background::set_StyleIndex(**uint16_t**) method
+## Background::set_StyleIndex(uint16_t) method
 
 
 Returns an index of [BackgroundType::Themed](../../backgroundtype/) fill in background theme collection. 0 means no fill. 1..999 - index. Write **uint16_t**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Background::set_StyleIndex(uint16_t value) override
 
 ## See Also
 
-* Class [Background](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Background](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

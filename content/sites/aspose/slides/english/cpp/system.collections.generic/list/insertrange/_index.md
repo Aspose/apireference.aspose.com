@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/system.collections.generic/list/insertrange/
 ---
-## List::InsertRange(int, [IEnumerablePtr](../ienumerableptr/)) method
+## List::InsertRange(int, IEnumerablePtr) method
 
 
 Inserts data range at specific position.
@@ -25,7 +25,7 @@ void System::Collections::Generic::List<T>::InsertRange(int index, IEnumerablePt
 
 ## See Also
 
-* Typedef [IEnumerablePtr](../ienumerableptr/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumerablePtr](./ienumerableptr/)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

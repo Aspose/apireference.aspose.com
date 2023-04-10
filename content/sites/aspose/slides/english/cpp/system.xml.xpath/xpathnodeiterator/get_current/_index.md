@@ -22,8 +22,8 @@ An [XPathNavigator](../../xpathnavigator/) object positioned on the context node
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XPathNavigator](../../xpathnavigator/)
-* Class [XPathNodeIterator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XPathNavigator](../xpathnavigator/)
+* Class [XPathNodeIterator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

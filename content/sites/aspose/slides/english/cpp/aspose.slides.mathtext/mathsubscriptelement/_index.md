@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathsubscriptelement/
 Specifies the subscript object, which consists of a base and a reduced-size subscript placed below and to the right.
 
 ```cpp
-class MathSubscriptElement : public Aspose::Slides::MathText::BaseScript,
-                             public Aspose::Slides::MathText::IMathSubscriptElement
+class MathSubscriptElement : public Aspose::Slides::MathText::BaseScript,                             public Aspose::Slides::MathText::IMathSubscriptElement
 ```
 
 ## Methods

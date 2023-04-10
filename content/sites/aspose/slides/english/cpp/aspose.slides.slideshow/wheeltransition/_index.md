@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/wheeltransition/
 Wheel slide transition effect.
 
 ```cpp
-class WheelTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                        public Aspose::Slides::SlideShow::IWheelTransition
+class WheelTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                        public Aspose::Slides::SlideShow::IWheelTransition
 ```
 
 ## Methods

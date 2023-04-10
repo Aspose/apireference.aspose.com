@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemavalidator/set_sourceuri/
 ---
-## XmlSchemaValidator::set_SourceUri(const [SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>\&) method
+## XmlSchemaValidator::set_SourceUri(const SharedPtr\<Uri\>\&) method
 
 
 Sets the source URI for the XML node being validated.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaValidator::set_SourceUri(const SharedPtr<Uri>
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [XmlSchemaValidator](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [XmlSchemaValidator](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

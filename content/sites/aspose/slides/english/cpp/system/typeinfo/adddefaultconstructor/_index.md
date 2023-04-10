@@ -15,12 +15,7 @@ Sets default constructor for the type T.
 template<class T> void System::TypeInfo::AddDefaultConstructor()
 ```
 
-## See Also
-
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
-## TypeInfo::AddDefaultConstructor([DefaultConstructor](../defaultconstructor/)) method
+## TypeInfo::AddDefaultConstructor(DefaultConstructor) method
 
 
 Sets default constructor by the functor that creates class instanse.
@@ -38,7 +33,7 @@ void System::TypeInfo::AddDefaultConstructor(DefaultConstructor method)
 
 ## See Also
 
-* Typedef [DefaultConstructor](../defaultconstructor/)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DefaultConstructor](./defaultconstructor/)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

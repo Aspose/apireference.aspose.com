@@ -20,14 +20,7 @@ System::SharedPtr<IPresentation> Aspose::Slides::PresentationFactory::CreatePres
 
 New presentation
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPresentation](../../ipresentation/)
-* Class [PresentationFactory](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
-## PresentationFactory::CreatePresentation([System::SharedPtr](../../../system/sharedptr/)\<[ILoadOptions](../../iloadoptions/)\>) method
+## PresentationFactory::CreatePresentation(System::SharedPtr\<ILoadOptions\>) method
 
 
 Creates new presentation with additional load options
@@ -49,9 +42,9 @@ New presentation
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPresentation](../../ipresentation/)
-* Class [ILoadOptions](../../iloadoptions/)
-* Class [PresentationFactory](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPresentation](../ipresentation/)
+* Class [PresentationFactory](./)
+* Class [ILoadOptions](../iloadoptions/)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

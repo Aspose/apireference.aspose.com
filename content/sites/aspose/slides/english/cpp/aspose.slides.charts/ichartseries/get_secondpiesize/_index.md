@@ -21,6 +21,6 @@ virtual uint16_t Aspose::Slides::Charts::IChartSeries::get_SecondPieSize()=0
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_SecondPieSize(). 
 ## See Also
 
-* Class [IChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

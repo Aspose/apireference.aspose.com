@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.net.http.headers/httpresponseheaders/set_date/
 ---
-## HttpResponseHeaders::set_Date([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
+## HttpResponseHeaders::set_Date(Nullable\<DateTimeOffset\>) method
 
 
 Sets a value of the 'Date' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpResponseHeaders::set_Date(Nullable<DateTime
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [DateTimeOffset](../../../system/datetimeoffset/)
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [DateTimeOffset](../../system/datetimeoffset/)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

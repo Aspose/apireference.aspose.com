@@ -22,7 +22,7 @@ State of controlled thread.
 
 ## See Also
 
-* Enum [ThreadState](../../threadstate/)
-* Class [Thread](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ThreadState](../threadstate/)
+* Class [Thread](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

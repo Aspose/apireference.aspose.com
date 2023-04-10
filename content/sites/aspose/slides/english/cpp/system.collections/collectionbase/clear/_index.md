@@ -17,6 +17,6 @@ void System::Collections::CollectionBase<T>::Clear()
 
 ## See Also
 
-* Class [CollectionBase](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CollectionBase](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

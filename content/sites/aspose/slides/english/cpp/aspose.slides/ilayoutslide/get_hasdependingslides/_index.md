@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ILayoutSlide::get_HasDependingSlides()=0
 
 ## See Also
 
-* Class [ILayoutSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILayoutSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

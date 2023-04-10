@@ -21,7 +21,7 @@ virtual SplitterBarStateType Aspose::Slides::INormalViewProperties::get_Horizont
 Read [SplitterBarStateType](../../splitterbarstatetype/)
 ## See Also
 
-* Enum [SplitterBarStateType](../../splitterbarstatetype/)
-* Class [INormalViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SplitterBarStateType](../splitterbarstatetype/)
+* Class [INormalViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

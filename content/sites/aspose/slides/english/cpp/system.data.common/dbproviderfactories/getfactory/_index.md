@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.data.common/dbproviderfactories/getfactory/
 ---
-## DbProviderFactories::GetFactory(const [String](../../../system/string/)\&) method
+## DbProviderFactories::GetFactory(const String\&) method
 
 
 Gets DB provider factory by name.
@@ -28,9 +28,9 @@ Provider factory.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DbProviderFactory](../../dbproviderfactory/)
-* Class [String](../../../system/string/)
-* Class [DbProviderFactories](../)
-* Namespace [System::Data::Common](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DbProviderFactory](../dbproviderfactory/)
+* Class [String](../../system/string/)
+* Class [DbProviderFactories](./)
+* Namespace [System::Data::Common](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/itextframeformat/set_wraptext/
 ---
-## ITextFrameFormat::set_WrapText([NullableBool](../../nullablebool/)) method
+## ITextFrameFormat::set_WrapText(NullableBool) method
 
 
 **True** if text is wrapped at [TextFrame](../../textframe/)'s margins. Write [NullableBool](../../nullablebool/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ITextFrameFormat::set_WrapText(NullableBool value)=
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [ITextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [ITextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

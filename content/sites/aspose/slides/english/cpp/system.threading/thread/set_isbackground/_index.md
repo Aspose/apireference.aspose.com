@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.threading/thread/set_isbackground/
 ---
-## Thread::set_IsBackground(**bool**) method
+## Thread::set_IsBackground(bool) method
 
 
 Sets thread to background or foreground.
@@ -24,6 +24,6 @@ void System::Threading::Thread::set_IsBackground(bool is_background)
 
 ## See Also
 
-* Class [Thread](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Thread](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

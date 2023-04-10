@@ -17,8 +17,8 @@ System::ArrayPtr<System::Drawing::PointF> Aspose::Slides::Animation::MotionCmdPa
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [MotionCmdPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [MotionCmdPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

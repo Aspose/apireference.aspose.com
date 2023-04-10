@@ -22,7 +22,7 @@ Replacement string.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DecoderReplacementFallback](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DecoderReplacementFallback](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

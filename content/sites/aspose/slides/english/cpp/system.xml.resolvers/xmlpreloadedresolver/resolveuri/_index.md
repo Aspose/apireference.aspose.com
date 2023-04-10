@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/resolveuri/
 ---
-## XmlPreloadedResolver::ResolveUri([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/)) method
+## XmlPreloadedResolver::ResolveUri(SharedPtr\<Uri\>, String) method
 
 
 Resolves the absolute URI from the base and relative URIs.
@@ -29,9 +29,9 @@ The [Uri](../../../system/uri/) representing the absolute URI or **nullptr** if 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [String](../../../system/string/)
-* Class [XmlPreloadedResolver](../)
-* Namespace [System::Xml::Resolvers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [String](../../system/string/)
+* Class [XmlPreloadedResolver](./)
+* Namespace [System::Xml::Resolvers](../)
+* Library [Aspose.Slides](../../)

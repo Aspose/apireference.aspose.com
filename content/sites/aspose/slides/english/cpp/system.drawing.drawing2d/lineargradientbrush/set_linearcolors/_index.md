@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_linearcolors/
 ---
-## LinearGradientBrush::set_LinearColors(const [ArrayPtr](../../../system/arrayptr/)\<[Color](../../../system.drawing/color/)\>\&) method
+## LinearGradientBrush::set_LinearColors(const ArrayPtr\<Color\>\&) method
 
 
 Sets starting and ending colors of this gradient.
@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::LinearGradientBrush::set_LinearColors(const Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Color](../../../system.drawing/color/)
-* Class [LinearGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Color](../../system.drawing/color/)
+* Class [LinearGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

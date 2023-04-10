@@ -22,6 +22,6 @@ Number of characters.
 
 ## See Also
 
-* Class [EncoderFallback](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EncoderFallback](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

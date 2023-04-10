@@ -22,8 +22,7 @@ List of child elements.
 
 ## See Also
 
-* Class [List](../../../system.collections.generic/list/)
-* Class [SecurityElement](../)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [List](../../system.collections.generic/list/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

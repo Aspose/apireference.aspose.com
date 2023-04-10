@@ -17,7 +17,7 @@ virtual SlideLayoutType Aspose::Slides::ILayoutSlide::get_LayoutType()=0
 
 ## See Also
 
-* Enum [SlideLayoutType](../../slidelayouttype/)
-* Class [ILayoutSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SlideLayoutType](../slidelayouttype/)
+* Class [ILayoutSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

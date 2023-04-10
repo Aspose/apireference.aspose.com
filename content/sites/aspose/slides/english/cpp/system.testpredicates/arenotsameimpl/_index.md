@@ -37,11 +37,6 @@ template<typename T1,typename T2> std::enable_if<IsSmartPtr<T1>::value &&IsSmart
 
 gtest-styled assertion result.
 
-## See Also
-
-* Struct [IsSmartPtr](../../system/issmartptr/)
-* Namespace [System::TestPredicates](../)
-* Library [Aspose.Slides](../../)
 ## System::TestPredicates::AreNotSameImpl(const char *, const char *, const T1\&, const T2\&, int) function
 
 
@@ -74,5 +69,6 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Namespace [System::TestPredicates](../)
-* Library [Aspose.Slides](../../)
+* Struct [IsSmartPtr](../system/issmartptr/)
+* Namespace [System::TestPredicates](./)
+* Library [Aspose.Slides](../)

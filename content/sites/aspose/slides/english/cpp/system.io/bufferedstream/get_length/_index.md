@@ -17,6 +17,6 @@ virtual int64_t System::IO::BufferedStream::get_Length() const override
 
 ## See Also
 
-* Class [BufferedStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BufferedStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

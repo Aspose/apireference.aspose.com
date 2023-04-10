@@ -17,6 +17,6 @@ Aspose::Slides::Export::PdfOptions::PdfOptions()
 
 ## See Also
 
-* Class [PdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

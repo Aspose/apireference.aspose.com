@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system/char/convertfromutf32/
 ---
-## Char::ConvertFromUtf32(**uint32_t**) method
+## Char::ConvertFromUtf32(uint32_t) method
 
 
 Converts UTF-32 code unit into an instance of [System::String](../../string/) class.
@@ -28,7 +28,7 @@ An instance of [System::String](../../string/) class representing the specified 
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [Char](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

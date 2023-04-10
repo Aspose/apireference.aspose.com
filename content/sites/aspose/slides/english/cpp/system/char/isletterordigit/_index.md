@@ -27,11 +27,6 @@ static bool System::Char::IsLetterOrDigit(const char_t *str, int idx)
 
 True if the character at the specified index is Unicode letter or a decimal digit, otherwise - false
 
-## See Also
-
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## Char::IsLetterOrDigit(char_t) method
 
 
@@ -54,6 +49,6 @@ True if the specified character is Unicode letter or a decimal digit, otherwise 
 
 ## See Also
 
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Char](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

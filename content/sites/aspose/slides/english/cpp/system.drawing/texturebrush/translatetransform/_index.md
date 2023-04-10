@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.drawing/texturebrush/translatetransform/
 ---
-## TextureBrush::TranslateTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
+## TextureBrush::TranslateTransform(float, float, Drawing2D::MatrixOrder) method
 
 
 Translates the local geometric transformation by the specified dimensions in the specified order.
@@ -26,7 +26,7 @@ void System::Drawing::TextureBrush::TranslateTransform(float dx, float dy, Drawi
 
 ## See Also
 
-* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
-* Class [TextureBrush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MatrixOrder](../../system.drawing.drawing2d/matrixorder/)
+* Class [TextureBrush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.globalization/japanesecalendar/getdayofweek/
 ---
-## JapaneseCalendar::GetDayOfWeek([DateTime](../../../system/datetime/)) const method
+## JapaneseCalendar::GetDayOfWeek(DateTime) const method
 
 
 Gets day of week for the specified time point.
@@ -28,8 +28,8 @@ Day of week in the time point passed.
 
 ## See Also
 
-* Enum [DayOfWeek](../../../system/dayofweek/)
-* Class [DateTime](../../../system/datetime/)
-* Class [JapaneseCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DayOfWeek](../../system/dayofweek/)
+* Class [DateTime](../../system/datetime/)
+* Class [JapaneseCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

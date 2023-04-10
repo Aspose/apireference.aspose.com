@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.mathtext/imathelementcollection/removeat/
 ---
-## IMathElementCollection::RemoveAt(**int32_t**) method
+## IMathElementCollection::RemoveAt(int32_t) method
 
 
 Removes the element at the specified index of the collection.
@@ -36,6 +36,6 @@ collection->RemoveAt(2);
 
 ## See Also
 
-* Class [IMathElementCollection](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathElementCollection](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/system.xml/xmldocument/createsignificantwhitespace/
 ---
-## XmlDocument::CreateSignificantWhitespace(const [String](../../../system/string/)\&) method
+## XmlDocument::CreateSignificantWhitespace(const String\&) method
 
 
 Creates an [XmlSignificantWhitespace](../../xmlsignificantwhitespace/) node.
@@ -28,9 +28,9 @@ A new [XmlSignificantWhitespace](../../xmlsignificantwhitespace/) node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSignificantWhitespace](../../xmlsignificantwhitespace/)
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSignificantWhitespace](../xmlsignificantwhitespace/)
+* Class [String](../../system/string/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

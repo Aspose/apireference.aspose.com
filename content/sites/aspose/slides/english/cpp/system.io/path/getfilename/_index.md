@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.io/path/getfilename/
 ---
-## Path::GetFileName(const [String](../../../system/string/)\&) method
+## Path::GetFileName(const String\&) method
 
 
 Returns the name of the file referenced by the specified path.
@@ -28,7 +28,7 @@ The file's name
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Path](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Path](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

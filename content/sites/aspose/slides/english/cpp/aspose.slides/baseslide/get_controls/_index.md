@@ -17,8 +17,8 @@ System::SharedPtr<IControlCollection> Aspose::Slides::BaseSlide::get_Controls() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IControlCollection](../../icontrolcollection/)
-* Class [BaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IControlCollection](../icontrolcollection/)
+* Class [BaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

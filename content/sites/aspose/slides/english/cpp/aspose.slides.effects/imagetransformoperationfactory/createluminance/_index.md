@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createluminance/
 ---
-## ImageTransformOperationFactory::CreateLuminance(**float**, **float**) method
+## ImageTransformOperationFactory::CreateLuminance(float, float) method
 
 
 Createtes [Luminance](../../luminance/) effect.
@@ -29,8 +29,8 @@ System::SharedPtr<ILuminance> Aspose::Slides::Effects::ImageTransformOperationFa
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILuminance](../../iluminance/)
-* Class [ImageTransformOperationFactory](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILuminance](../iluminance/)
+* Class [ImageTransformOperationFactory](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/system.xml/xmlnodereader/
 Represents a reader that provides fast, non-cached forward only access to XML data in an [XmlNode](../xmlnode/).
 
 ```cpp
-class XmlNodeReader : public System::Xml::XmlReader,
-                      public System::Xml::IXmlNamespaceResolver
+class XmlNodeReader : public System::Xml::XmlReader,                      public System::Xml::IXmlNamespaceResolver
 ```
 
 ## Methods

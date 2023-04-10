@@ -22,7 +22,7 @@ The schema target namespace.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchema](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchema](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

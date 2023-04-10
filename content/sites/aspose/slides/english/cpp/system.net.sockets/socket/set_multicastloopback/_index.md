@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/system.net.sockets/socket/set_multicastloopback/
 ---
-## Socket::set_MulticastLoopback(**bool**) method
+## Socket::set_MulticastLoopback(bool) method
 
 
 Sets a value that indicates if the socket receives outgoing multicast packets.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_MulticastLoopback(bool value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

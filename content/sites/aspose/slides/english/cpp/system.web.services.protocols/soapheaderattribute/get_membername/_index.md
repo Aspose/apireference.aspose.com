@@ -22,7 +22,7 @@ A member variable name of the XML SOAP service that is used to receive the SOAP 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SoapHeaderAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SoapHeaderAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

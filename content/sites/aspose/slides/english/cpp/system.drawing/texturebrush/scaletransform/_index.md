@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.drawing/texturebrush/scaletransform/
 ---
-## TextureBrush::ScaleTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
+## TextureBrush::ScaleTransform(float, float, Drawing2D::MatrixOrder) method
 
 
 Scales the local geometric transformation by the specified factors in the specified order.
@@ -26,7 +26,7 @@ void System::Drawing::TextureBrush::ScaleTransform(float sx, float sy, Drawing2D
 
 ## See Also
 
-* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
-* Class [TextureBrush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MatrixOrder](../../system.drawing.drawing2d/matrixorder/)
+* Class [TextureBrush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/icommentauthorcollection/findbynameandinitials/
 ---
-## ICommentAuthorCollection::FindByNameAndInitials([System::String](../../../system/string/), [System::String](../../../system/string/)) method
+## ICommentAuthorCollection::FindByNameAndInitials(System::String, System::String) method
 
 
 Find author in a collection by name and initials.
@@ -29,10 +29,10 @@ Author or null.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommentAuthor](../../icommentauthor/)
-* Class [String](../../../system/string/)
-* Class [ICommentAuthorCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommentAuthor](../icommentauthor/)
+* Class [String](../../system/string/)
+* Class [ICommentAuthorCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

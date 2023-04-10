@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_datasource/
 ---
-## SqlConnectionStringBuilder::set_DataSource(const [String](../../../system/string/)\&) method
+## SqlConnectionStringBuilder::set_DataSource(const String\&) method
 
 
 Gets data source (e. g. hostname and port).
@@ -24,7 +24,7 @@ void System::Data::SqlClient::SqlConnectionStringBuilder::set_DataSource(const S
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SqlConnectionStringBuilder](../)
-* Namespace [System::Data::SqlClient](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SqlConnectionStringBuilder](./)
+* Namespace [System::Data::SqlClient](../)
+* Library [Aspose.Slides](../../)

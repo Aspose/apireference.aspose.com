@@ -22,7 +22,7 @@ The target of the processing instruction.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlProcessingInstruction](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlProcessingInstruction](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

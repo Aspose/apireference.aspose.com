@@ -6,7 +6,7 @@ type: docs
 weight: 2211
 url: /cpp/system/forcestaticcast/
 ---
-## System::ForceStaticCast([SmartPtr](../smartptr/)\<TFrom\> const\&) function
+## System::ForceStaticCast(SmartPtr\<TFrom\> const\&) function
 
 
 Performs real static cast on [SmartPtr](../smartptr/) objects.
@@ -35,7 +35,7 @@ Cast result if cast is allowed, otherwise the behavior is undefined.
 
 ## See Also
 
-* Struct [CastResult](../castresult/)
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Struct [CastResult](./castresult/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

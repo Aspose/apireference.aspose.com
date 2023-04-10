@@ -17,6 +17,6 @@ virtual void System::IO::BasicSTDOStreamWrapper<T, typename>::Flush() override
 
 ## See Also
 
-* Class [BasicSTDOStreamWrapper](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BasicSTDOStreamWrapper](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

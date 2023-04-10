@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathsubscriptelementfactory/createmathsubscriptelement/
 ---
-## MathSubscriptElementFactory::CreateMathSubscriptElement([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
+## MathSubscriptElementFactory::CreateMathSubscriptElement(System::SharedPtr\<IMathElement\>, System::SharedPtr\<IMathElement\>) method
 
 
 Creates [IMathSubscriptElement](../../imathsubscriptelement/)
@@ -29,9 +29,9 @@ new [IMathSubscriptElement](../../imathsubscriptelement/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathSubscriptElement](../../imathsubscriptelement/)
-* Class [IMathElement](../../imathelement/)
-* Class [MathSubscriptElementFactory](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathSubscriptElement](../imathsubscriptelement/)
+* Class [IMathElement](../imathelement/)
+* Class [MathSubscriptElementFactory](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

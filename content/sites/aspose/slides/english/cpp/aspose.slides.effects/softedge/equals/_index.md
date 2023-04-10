@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/softedge/equals/
 ---
-## SoftEdge::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## SoftEdge::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines whether the specified [SoftEdge](../) is equal to the current [SoftEdge](../).
@@ -28,8 +28,8 @@ true if objects are equal; otherwise, false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [SoftEdge](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [SoftEdge](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

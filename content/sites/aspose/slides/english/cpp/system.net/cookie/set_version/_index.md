@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system.net/cookie/set_version/
 ---
-## Cookie::set_Version(**int32_t**) method
+## Cookie::set_Version(int32_t) method
 
 
 Sets the '[Version](../../../system/version/)' attribute's value.
@@ -24,6 +24,6 @@ void System::Net::Cookie::set_Version(int32_t value)
 
 ## See Also
 
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

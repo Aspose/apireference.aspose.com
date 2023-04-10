@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/paragraphcollection/idx_get/
 ---
-## ParagraphCollection::idx_get(**int32_t**) method
+## ParagraphCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index.
@@ -17,8 +17,8 @@ System::SharedPtr<IParagraph> Aspose::Slides::ParagraphCollection::idx_get(int32
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IParagraph](../../iparagraph/)
-* Class [ParagraphCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IParagraph](../iparagraph/)
+* Class [ParagraphCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

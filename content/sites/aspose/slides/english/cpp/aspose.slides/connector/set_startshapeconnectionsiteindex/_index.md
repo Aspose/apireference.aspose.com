@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/connector/set_startshapeconnectionsiteindex/
 ---
-## Connector::set_StartShapeConnectionSiteIndex(**uint32_t**) method
+## Connector::set_StartShapeConnectionSiteIndex(uint32_t) method
 
 
 Sets the index of connection site for start shape. Write **uint32_t**.
@@ -18,6 +18,6 @@ void Aspose::Slides::Connector::set_StartShapeConnectionSiteIndex(uint32_t value
 
 ## See Also
 
-* Class [Connector](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Connector](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

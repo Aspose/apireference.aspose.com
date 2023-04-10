@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.xml.xsl/xsltargumentlist/removeextensionobject/
 ---
-## XsltArgumentList::RemoveExtensionObject(const [String](../../../system/string/)\&) method
+## XsltArgumentList::RemoveExtensionObject(const String\&) method
 
 
 Removes the object with the namespace URI from the [XsltArgumentList](../).
@@ -28,9 +28,9 @@ The object with the namespace URI or **nullptr** if one was not found.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [XsltArgumentList](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [String](../../system/string/)
+* Class [XsltArgumentList](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

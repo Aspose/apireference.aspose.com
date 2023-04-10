@@ -22,8 +22,7 @@ A copy of the current instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Cookie](../)
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

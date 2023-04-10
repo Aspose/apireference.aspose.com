@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/behaviorpropertycollection/copyto/
 ---
-## BehaviorPropertyCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IBehaviorProperty](../../ibehaviorproperty/)\>\>, **int32_t**) method
+## BehaviorPropertyCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<IBehaviorProperty\>\>, int32_t) method
 
 
 Copies the elements of the [ICollection](../../../system.collections.generic/icollection/) to an [System::Array](../../../system/array/), starting at a particular [System::Array](../../../system/array/) index.
@@ -25,9 +25,9 @@ void Aspose::Slides::Animation::BehaviorPropertyCollection::CopyTo(System::Array
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBehaviorProperty](../../ibehaviorproperty/)
-* Class [BehaviorPropertyCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBehaviorProperty](../ibehaviorproperty/)
+* Class [BehaviorPropertyCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

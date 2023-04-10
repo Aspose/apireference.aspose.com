@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/icommonslideviewproperties/set_variablescale/
 ---
-## ICommonSlideViewProperties::set_VariableScale(**bool**) method
+## ICommonSlideViewProperties::set_VariableScale(bool) method
 
 
 Specifies that the view content should automatically scale to best fit the current window size. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ICommonSlideViewProperties::set_VariableScale(bool 
 
 ## See Also
 
-* Class [ICommonSlideViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICommonSlideViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

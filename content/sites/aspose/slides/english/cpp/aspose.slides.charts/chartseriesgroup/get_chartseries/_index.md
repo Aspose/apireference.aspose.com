@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.slides.charts/chartseriesgroup/get_chartseries/
 ---
-## ChartSeriesGroup::get_ChartSeries(**int32_t**) method
+## ChartSeriesGroup::get_ChartSeries(int32_t) method
 
 
 Returns the chart series in the group at the specified index.
@@ -17,8 +17,8 @@ System::SharedPtr<IChartSeries> Aspose::Slides::Charts::ChartSeriesGroup::get_Ch
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartSeries](../../ichartseries/)
-* Class [ChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartSeries](../ichartseries/)
+* Class [ChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

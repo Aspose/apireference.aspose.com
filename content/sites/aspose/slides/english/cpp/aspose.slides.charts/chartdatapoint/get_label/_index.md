@@ -17,8 +17,8 @@ System::SharedPtr<IDataLabel> Aspose::Slides::Charts::ChartDataPoint::get_Label(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IDataLabel](../../idatalabel/)
-* Class [ChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IDataLabel](../idatalabel/)
+* Class [ChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

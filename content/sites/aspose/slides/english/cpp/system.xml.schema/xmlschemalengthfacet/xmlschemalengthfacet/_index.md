@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaLengthFacet::XmlSchemaLengthFacet()
 
 ## See Also
 
-* Class [XmlSchemaLengthFacet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaLengthFacet](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

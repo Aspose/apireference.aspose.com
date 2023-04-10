@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/scaletransform/
 ---
-## PathGradientBrush::ScaleTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../matrixorder/)) method
+## PathGradientBrush::ScaleTransform(float, float, Drawing2D::MatrixOrder) method
 
 
 Scales the local geometric transformation by the specified factors in the specified order.
@@ -26,7 +26,7 @@ void System::Drawing::Drawing2D::PathGradientBrush::ScaleTransform(float sx, flo
 
 ## See Also
 
-* Enum [MatrixOrder](../../matrixorder/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MatrixOrder](../matrixorder/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

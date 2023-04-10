@@ -22,8 +22,8 @@ The product.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ProductHeaderValue](../../productheadervalue/)
-* Class [ProductInfoHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ProductHeaderValue](../productheadervalue/)
+* Class [ProductInfoHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

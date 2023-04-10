@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.xml/xmlnode/set_prefix/
 ---
-## XmlNode::set_Prefix([String](../../../system/string/)) method
+## XmlNode::set_Prefix(String) method
 
 
 Sets the namespace prefix of this node.
@@ -24,7 +24,7 @@ virtual void System::Xml::XmlNode::set_Prefix(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

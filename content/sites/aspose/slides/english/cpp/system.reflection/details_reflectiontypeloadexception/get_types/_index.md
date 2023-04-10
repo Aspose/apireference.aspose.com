@@ -22,8 +22,8 @@ An array of type information.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_ReflectionTypeLoadException](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_ReflectionTypeLoadException](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

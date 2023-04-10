@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography/rsapkcs1signaturedeformatter/sethashalgorithm/
 ---
-## RSAPKCS1SignatureDeformatter::SetHashAlgorithm([System::String](../../../system/string/)) method
+## RSAPKCS1SignatureDeformatter::SetHashAlgorithm(System::String) method
 
 
 Sets hash algorithm to use.
@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::RSAPKCS1SignatureDeformatter::SetHa
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [RSAPKCS1SignatureDeformatter](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [RSAPKCS1SignatureDeformatter](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

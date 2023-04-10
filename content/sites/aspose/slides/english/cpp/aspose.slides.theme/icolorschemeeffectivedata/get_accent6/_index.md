@@ -17,7 +17,7 @@ virtual System::Drawing::Color Aspose::Slides::Theme::IColorSchemeEffectiveData:
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [IColorSchemeEffectiveData](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [IColorSchemeEffectiveData](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

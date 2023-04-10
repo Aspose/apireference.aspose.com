@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/datalabelformat/
 Represents formatting options for [DataLabel](../datalabel/).
 
 ```cpp
-class DataLabelFormat : public Aspose::Slides::PVIObject,
-                        public Aspose::Slides::Charts::IDataLabelFormat
+class DataLabelFormat : public Aspose::Slides::PVIObject,                        public Aspose::Slides::Charts::IDataLabelFormat
 ```
 
 ## Methods

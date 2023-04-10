@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/system.web.services.protocols/soapmessage/findheader/
 ---
-## SoapMessage::FindHeader([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<SoapHeaderMapping\>\>, const [TypeInfo](../../../system/typeinfo/)\&) method
+## SoapMessage::FindHeader(System::ArrayPtr\<System::SharedPtr\<SoapHeaderMapping\>\>, const TypeInfo\&) method
 
 
 Find the header mapping by specified header type.
@@ -29,9 +29,9 @@ The header mapping.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [SoapMessage](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [SoapMessage](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

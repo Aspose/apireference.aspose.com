@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.io/directory/getlastwritetimeutc/
 ---
-## Directory::GetLastWriteTimeUtc(const [String](../../../system/string/)\&) method
+## Directory::GetLastWriteTimeUtc(const String\&) method
 
 
 Returns the last write time of the specified entity as UTC time.
@@ -28,8 +28,8 @@ A [DateTime](../../../system/datetime/) object representing the last write time 
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [String](../../../system/string/)
-* Class [Directory](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [String](../../system/string/)
+* Class [Directory](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

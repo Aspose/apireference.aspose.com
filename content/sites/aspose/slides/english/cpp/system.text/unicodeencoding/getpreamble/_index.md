@@ -22,7 +22,7 @@ Bytes sequence preamble.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [UnicodeEncoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [UnicodeEncoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

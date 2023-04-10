@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.web.services.protocols/soapmessage/setheaders/
 ---
-## SoapMessage::SetHeaders([System::SharedPtr](../../../system/sharedptr/)\<[SoapHeaderCollection](../../soapheadercollection/)\>) method
+## SoapMessage::SetHeaders(System::SharedPtr\<SoapHeaderCollection\>) method
 
 
 Sets the collection of the SOAP headers.
@@ -24,8 +24,8 @@ void System::Web::Services::Protocols::SoapMessage::SetHeaders(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SoapHeaderCollection](../../soapheadercollection/)
-* Class [SoapMessage](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [SoapHeaderCollection](../soapheadercollection/)
+* Class [SoapMessage](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

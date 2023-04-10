@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.diagnostics/processstartinfo/set_windowstyle/
 ---
-## ProcessStartInfo::set_WindowStyle([ProcessWindowStyle](../../processwindowstyle/)) method
+## ProcessStartInfo::set_WindowStyle(ProcessWindowStyle) method
 
 
 Sets window style.
@@ -24,7 +24,7 @@ void System::Diagnostics::ProcessStartInfo::set_WindowStyle(ProcessWindowStyle v
 
 ## See Also
 
-* Enum [ProcessWindowStyle](../../processwindowstyle/)
-* Class [ProcessStartInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ProcessWindowStyle](../processwindowstyle/)
+* Class [ProcessStartInfo](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

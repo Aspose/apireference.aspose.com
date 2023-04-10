@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.theme/ithemeeffectivedata/getcolorscheme/
 ---
-## IThemeEffectiveData::GetColorScheme([System::Drawing::Color](../../../system.drawing/color/)) method
+## IThemeEffectiveData::GetColorScheme(System::Drawing::Color) method
 
 
 Returns the color scheme.
@@ -28,9 +28,9 @@ Color scheme [IColorSchemeEffectiveData](../../icolorschemeeffectivedata/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorSchemeEffectiveData](../../icolorschemeeffectivedata/)
-* Class [Color](../../../system.drawing/color/)
-* Class [IThemeEffectiveData](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorSchemeEffectiveData](../icolorschemeeffectivedata/)
+* Class [Color](../../system.drawing/color/)
+* Class [IThemeEffectiveData](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

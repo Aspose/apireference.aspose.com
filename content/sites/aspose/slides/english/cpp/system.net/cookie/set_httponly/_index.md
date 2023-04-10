@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net/cookie/set_httponly/
 ---
-## Cookie::set_HttpOnly(**bool**) method
+## Cookie::set_HttpOnly(bool) method
 
 
 Sets the 'HttpOnly' attribute's value.
@@ -24,6 +24,6 @@ void System::Net::Cookie::set_HttpOnly(bool value)
 
 ## See Also
 
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

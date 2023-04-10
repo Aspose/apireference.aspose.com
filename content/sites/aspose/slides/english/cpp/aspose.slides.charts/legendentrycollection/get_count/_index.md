@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::LegendEntryCollection::get_Count() override
 
 ## See Also
 
-* Class [LegendEntryCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LegendEntryCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

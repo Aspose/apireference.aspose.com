@@ -28,7 +28,7 @@ The name of the font family represented by the current object
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FontFamily](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FontFamily](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

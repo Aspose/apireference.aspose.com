@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFontData> Aspose::Slides::IBasePortionFormatEffective
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontData](../../ifontdata/)
-* Class [IBasePortionFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontData](../ifontdata/)
+* Class [IBasePortionFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

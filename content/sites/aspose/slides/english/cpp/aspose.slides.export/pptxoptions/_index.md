@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.export/pptxoptions/
 Represents options for saving OpenXml presentations (PPTX, PPSX, POTX, PPTM, PPSM, POTM).
 
 ```cpp
-class PptxOptions : public Aspose::Slides::Export::SaveOptions,
-                    public Aspose::Slides::Export::IPptxOptions
+class PptxOptions : public Aspose::Slides::Export::SaveOptions,                    public Aspose::Slides::Export::IPptxOptions
 ```
 
 ## Methods

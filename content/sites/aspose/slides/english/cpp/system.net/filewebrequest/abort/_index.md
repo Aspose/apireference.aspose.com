@@ -17,6 +17,6 @@ void System::Net::FileWebRequest::Abort() override
 
 ## See Also
 
-* Class [FileWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FileWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

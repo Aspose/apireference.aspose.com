@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.io/streamwriter/set_autoflush/
 ---
-## StreamWriter::set_AutoFlush(**bool**) method
+## StreamWriter::set_AutoFlush(bool) method
 
 
 Returns a value that specifies whether the [StreamWriter](../) should flush the data to the underlying stream every time method [StreamWriter::Write](../write/) is called.
@@ -17,6 +17,6 @@ void System::IO::StreamWriter::set_AutoFlush(bool value)
 
 ## See Also
 
-* Class [StreamWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StreamWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

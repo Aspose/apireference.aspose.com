@@ -22,8 +22,8 @@ A valid object instance represents a structural validation error in the XML [Sch
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObject](../../xmlschemaobject/)
-* Class [Details_XmlSchemaException](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObject](../xmlschemaobject/)
+* Class [Details_XmlSchemaException](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

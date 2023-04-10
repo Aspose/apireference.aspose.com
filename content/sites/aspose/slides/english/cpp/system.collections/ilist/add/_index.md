@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.collections/ilist/add/
 ---
-## IList::Add([SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## IList::Add(SharedPtr\<System::Object\>) method
 
 
 Adds item to the end of list.
@@ -28,8 +28,8 @@ The index of the added item.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IList](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IList](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

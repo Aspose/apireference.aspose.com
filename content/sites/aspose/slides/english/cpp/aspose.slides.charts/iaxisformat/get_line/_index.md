@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILineFormat> Aspose::Slides::Charts::IAxisFormat::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILineFormat](../../../aspose.slides/ilineformat/)
-* Class [IAxisFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILineFormat](../../aspose.slides/ilineformat/)
+* Class [IAxisFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.globalization/thaibuddhistcalendar/getmonth/
 ---
-## ThaiBuddhistCalendar::GetMonth([DateTime](../../../system/datetime/)) const method
+## ThaiBuddhistCalendar::GetMonth(DateTime) const method
 
 
 Gets month for the specified time point.
@@ -28,7 +28,7 @@ Month in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [ThaiBuddhistCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [ThaiBuddhistCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

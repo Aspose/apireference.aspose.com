@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/system.xml/xmldocument/readnode/
 ---
-## XmlDocument::ReadNode([SharedPtr](../../../system/sharedptr/)\<[XmlReader](../../xmlreader/)\>) method
+## XmlDocument::ReadNode(SharedPtr\<XmlReader\>) method
 
 
 Creates an [XmlNode](../../xmlnode/) object based on the information in the [XmlReader](../../xmlreader/). The reader must be positioned on a node or attribute.
@@ -28,9 +28,9 @@ The new [XmlNode](../../xmlnode/) or **nullptr** if no more nodes exist.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlReader](../../xmlreader/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlReader](../xmlreader/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

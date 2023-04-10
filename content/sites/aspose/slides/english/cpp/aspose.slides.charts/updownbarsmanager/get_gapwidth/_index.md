@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::UpDownBarsManager::get_GapWidth() override
 
 ## See Also
 
-* Class [UpDownBarsManager](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UpDownBarsManager](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

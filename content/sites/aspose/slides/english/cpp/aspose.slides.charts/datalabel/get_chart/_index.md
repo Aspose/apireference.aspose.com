@@ -17,8 +17,8 @@ System::SharedPtr<IChart> Aspose::Slides::Charts::DataLabel::get_Chart() overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChart](../../ichart/)
-* Class [DataLabel](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChart](../ichart/)
+* Class [DataLabel](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

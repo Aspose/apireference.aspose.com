@@ -17,9 +17,9 @@ System::ArrayPtr<System::SharedPtr<Aspose::Slides::IFontData>> Aspose::Slides::F
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontData](../../ifontdata/)
-* Class [FontsManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontData](../ifontdata/)
+* Class [FontsManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

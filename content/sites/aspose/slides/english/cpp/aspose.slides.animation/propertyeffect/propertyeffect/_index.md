@@ -17,6 +17,6 @@ Aspose::Slides::Animation::PropertyEffect::PropertyEffect()
 
 ## See Also
 
-* Class [PropertyEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PropertyEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

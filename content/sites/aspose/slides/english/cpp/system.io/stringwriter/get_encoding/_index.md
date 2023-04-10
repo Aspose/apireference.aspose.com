@@ -17,8 +17,8 @@ virtual SharedPtr<Text::Encoding> System::IO::StringWriter::get_Encoding() overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Encoding](../../../system.text/encoding/)
-* Class [StringWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Encoding](../../system.text/encoding/)
+* Class [StringWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

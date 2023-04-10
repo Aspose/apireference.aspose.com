@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/stringordoublechartvalue/set_asliteralstring/
 ---
-## StringOrDoubleChartValue::set_AsLiteralString([System::String](../../../system/string/)) method
+## StringOrDoubleChartValue::set_AsLiteralString(System::String) method
 
 
 Sets value as literal string. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::StringOrDoubleChartValue::set_AsLiteralString(Syste
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringOrDoubleChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringOrDoubleChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual void System::Text::ICUDecoder::Reset()
 
 ## See Also
 
-* Class [ICUDecoder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICUDecoder](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

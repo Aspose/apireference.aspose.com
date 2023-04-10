@@ -22,6 +22,6 @@ The length of the stream in bytes.
 
 ## See Also
 
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

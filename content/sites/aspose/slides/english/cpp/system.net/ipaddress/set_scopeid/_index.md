@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.net/ipaddress/set_scopeid/
 ---
-## IPAddress::set_ScopeId(**int64_t**) method
+## IPAddress::set_ScopeId(int64_t) method
 
 
 Sets the scope identifier of the IPv6 address.
@@ -24,6 +24,6 @@ void System::Net::IPAddress::set_ScopeId(int64_t value)
 
 ## See Also
 
-* Class [IPAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

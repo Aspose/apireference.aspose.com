@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/enumvaluesbase/getvalues/
 ---
-## EnumValuesBase::GetValues(const [TypeInfo](../../typeinfo/)\&) method
+## EnumValuesBase::GetValues(const TypeInfo\&) method
 
 
 Returns an array containing all values of the specified enumeration type.
@@ -28,8 +28,8 @@ An array containing values of all enumeration constants of the enumeration type 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [TypeInfo](../../typeinfo/)
-* Class [EnumValuesBase](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Class [TypeInfo](../typeinfo/)
+* Class [EnumValuesBase](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

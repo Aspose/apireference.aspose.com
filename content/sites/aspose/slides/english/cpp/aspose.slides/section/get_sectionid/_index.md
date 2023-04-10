@@ -17,7 +17,7 @@ System::Guid Aspose::Slides::Section::get_SectionId() override
 
 ## See Also
 
-* Class [Guid](../../../system/guid/)
-* Class [Section](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Guid](../../system/guid/)
+* Class [Section](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/icolumncollection/idx_get/
 ---
-## IColumnCollection::idx_get(**int32_t**) method
+## IColumnCollection::idx_get(int32_t) method
 
 
 Returns the column at the specified index. Read-only [IColumn](../../icolumn/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColumn> Aspose::Slides::IColumnCollection::idx_get(in
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColumn](../../icolumn/)
-* Class [IColumnCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColumn](../icolumn/)
+* Class [IColumnCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

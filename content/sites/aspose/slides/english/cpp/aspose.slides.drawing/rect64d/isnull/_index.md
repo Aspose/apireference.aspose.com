@@ -17,6 +17,6 @@ bool Aspose::Slides::Drawing::Rect64d::IsNull() const
 
 ## See Also
 
-* Class [Rect64d](../)
-* Namespace [Aspose::Slides::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Rect64d](./)
+* Namespace [Aspose::Slides::Drawing](../)
+* Library [Aspose.Slides](../../)

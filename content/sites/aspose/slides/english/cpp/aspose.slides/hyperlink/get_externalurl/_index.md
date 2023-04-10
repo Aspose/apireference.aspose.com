@@ -17,7 +17,7 @@ System::String Aspose::Slides::Hyperlink::get_ExternalUrl() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Hyperlink](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Hyperlink](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

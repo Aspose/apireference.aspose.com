@@ -22,6 +22,6 @@ A value that indicates if a DNS resolution rotates among the applicable IP addre
 
 ## See Also
 
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system/multicastdelegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/endinvoke/
 ---
-## MulticastDelegate< ReturnType(ArgumentTypes...)>::EndInvoke(const [SharedPtr](../../sharedptr/)\<[IAsyncResult](../../iasyncresult/)\>\&) method
+## MulticastDelegate< ReturnType(ArgumentTypes...)>::EndInvoke(const SharedPtr\<IAsyncResult\>\&) method
 
 
 NOT IMPLEMENTED.
@@ -18,8 +18,8 @@ ReturnType System::MulticastDelegate<ReturnType(ArgumentTypes...)>::EndInvoke(co
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [IAsyncResult](../../iasyncresult/)
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [IAsyncResult](../iasyncresult/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

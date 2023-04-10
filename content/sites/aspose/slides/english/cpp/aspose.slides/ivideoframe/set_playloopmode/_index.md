@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/ivideoframe/set_playloopmode/
 ---
-## IVideoFrame::set_PlayLoopMode(**bool**) method
+## IVideoFrame::set_PlayLoopMode(bool) method
 
 
 Determines whether a video is looped. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IVideoFrame::set_PlayLoopMode(bool value)=0
 
 ## See Also
 
-* Class [IVideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IVideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

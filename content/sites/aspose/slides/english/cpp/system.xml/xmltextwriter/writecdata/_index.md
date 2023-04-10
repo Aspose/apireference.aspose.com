@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/system.xml/xmltextwriter/writecdata/
 ---
-## XmlTextWriter::WriteCData([String](../../../system/string/)) method
+## XmlTextWriter::WriteCData(String) method
 
 
 Writes out a **...** block containing the specified text.
@@ -24,7 +24,7 @@ void System::Xml::XmlTextWriter::WriteCData(String text) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlTextWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlTextWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

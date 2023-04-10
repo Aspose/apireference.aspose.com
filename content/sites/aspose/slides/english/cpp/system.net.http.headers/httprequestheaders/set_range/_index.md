@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/system.net.http.headers/httprequestheaders/set_range/
 ---
-## HttpRequestHeaders::set_Range([System::SharedPtr](../../../system/sharedptr/)\<[RangeHeaderValue](../../rangeheadervalue/)\>) method
+## HttpRequestHeaders::set_Range(System::SharedPtr\<RangeHeaderValue\>) method
 
 
 Sets a value of the 'Range' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_Range(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RangeHeaderValue](../../rangeheadervalue/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RangeHeaderValue](../rangeheadervalue/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

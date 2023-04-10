@@ -25,6 +25,6 @@ Number of existing columns.
 Gets number of columns in collection. 
 ## See Also
 
-* Class [DataColumnCollection](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DataColumnCollection](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

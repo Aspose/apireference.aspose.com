@@ -22,6 +22,6 @@ A timeout in milliseconds after which active [ServicePoint](../) will be closed.
 
 ## See Also
 
-* Class [ServicePoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

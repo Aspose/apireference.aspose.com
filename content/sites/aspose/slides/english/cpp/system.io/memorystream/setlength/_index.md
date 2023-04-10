@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.io/memorystream/setlength/
 ---
-## MemoryStream::SetLength(**int64_t**) method
+## MemoryStream::SetLength(int64_t) method
 
 
 Sets the length of the stream represented by the current object.
@@ -24,6 +24,6 @@ void System::IO::MemoryStream::SetLength(int64_t value) override
 
 ## See Also
 
-* Class [MemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

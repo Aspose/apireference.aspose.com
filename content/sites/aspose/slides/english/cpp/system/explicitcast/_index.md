@@ -33,10 +33,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -64,10 +60,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -95,11 +87,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Typedef [Exception](../exception/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -127,10 +114,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -158,11 +141,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(Source) function
 
 
@@ -190,11 +168,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -222,10 +195,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -253,10 +222,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -284,10 +249,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -315,10 +276,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -346,12 +303,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Class [SmartPtr](../smartptr/)
-* Class [BoxedValueBase](../boxedvaluebase/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -379,11 +330,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -411,11 +357,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -443,10 +384,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -474,11 +411,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::ExplicitCast(const Source\&) function
 
 
@@ -508,6 +440,9 @@ The cast result.
 
 ## See Also
 
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Exception](./exception/)
+* Class [SmartPtr](./smartptr/)
+* Class [BoxedValueBase](./boxedvaluebase/)
+* Struct [CastResult](./castresult/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/svgoptions/set_useframerotation/
 ---
-## SVGOptions::set_UseFrameRotation(**bool**) method
+## SVGOptions::set_UseFrameRotation(bool) method
 
 
 Determines whether to perform the specified rotation of the shape when rendering or not. Write **bool**. Default value is true.
@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SVGOptions::set_UseFrameRotation(bool value) overri
 
 ## See Also
 
-* Class [SVGOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SVGOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

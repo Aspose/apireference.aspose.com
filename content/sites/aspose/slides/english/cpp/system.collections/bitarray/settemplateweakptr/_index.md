@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.collections/bitarray/settemplateweakptr/
 ---
-## BitArray::SetTemplateWeakPtr(**uint32_t**) method
+## BitArray::SetTemplateWeakPtr(uint32_t) method
 
 
 Formal implementation of weak template arguments mechanism; inapplicable to this class.
@@ -17,6 +17,6 @@ void System::Collections::BitArray::SetTemplateWeakPtr(uint32_t argument) overri
 
 ## See Also
 
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitArray](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Effects::IReflectionEffectiveData::get_RotateShadow
 
 ## See Also
 
-* Class [IReflectionEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IReflectionEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

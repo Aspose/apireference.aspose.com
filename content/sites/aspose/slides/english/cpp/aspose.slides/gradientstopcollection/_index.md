@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/gradientstopcollection/
 Represnts a collection of gradient stops.
 
 ```cpp
-class GradientStopCollection : public Aspose::Slides::PVIObject,
-                               public Aspose::Slides::IGradientStopCollection
+class GradientStopCollection : public Aspose::Slides::PVIObject,                               public Aspose::Slides::IGradientStopCollection
 ```
 
 ## Methods

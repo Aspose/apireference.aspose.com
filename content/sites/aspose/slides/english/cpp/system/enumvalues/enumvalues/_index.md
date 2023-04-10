@@ -17,6 +17,6 @@ System::EnumValues<E, Guard>::EnumValues()
 
 ## See Also
 
-* Class [EnumValues](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EnumValues](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

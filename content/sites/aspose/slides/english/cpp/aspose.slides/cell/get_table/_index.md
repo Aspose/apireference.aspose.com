@@ -17,8 +17,8 @@ System::SharedPtr<ITable> Aspose::Slides::Cell::get_Table() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITable](../../itable/)
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITable](../itable/)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ Aspose::Slides::NumberedBulletStyle Aspose::Slides::BulletFormat::get_NumberedBu
 
 ## See Also
 
-* Enum [NumberedBulletStyle](../../numberedbulletstyle/)
-* Class [BulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NumberedBulletStyle](../numberedbulletstyle/)
+* Class [BulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ double Aspose::Slides::Charts::ChartSeriesGroup::get_PieSplitPosition() override
 
 ## See Also
 
-* Class [ChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

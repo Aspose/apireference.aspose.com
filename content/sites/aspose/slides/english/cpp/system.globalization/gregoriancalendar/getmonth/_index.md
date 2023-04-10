@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.globalization/gregoriancalendar/getmonth/
 ---
-## GregorianCalendar::GetMonth([DateTime](../../../system/datetime/)) const method
+## GregorianCalendar::GetMonth(DateTime) const method
 
 
 Gets month for the specified time point.
@@ -28,7 +28,7 @@ Month in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [GregorianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [GregorianCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

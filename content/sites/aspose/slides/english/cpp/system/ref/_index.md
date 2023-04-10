@@ -6,7 +6,7 @@ type: docs
 weight: 2081
 url: /cpp/system/ref/
 ---
-## System::Ref([DynamicWeakPtr](../dynamicweakptr/)\<T, trunkMode, weakLeafs...\>\&) function
+## System::Ref(DynamicWeakPtr\<T, trunkMode, weakLeafs...\>\&) function
 
 
 Creates reference to [DynamicWeakPtr](../dynamicweakptr/) object. Used by translator when passing function arguments by reference.
@@ -34,11 +34,6 @@ template<typename T,SmartPtrMode,unsigned int ...> DynamicWeakPtr<T, trunkMode, 
 
 Smart pointer reference.
 
-## See Also
-
-* Class [DynamicWeakPtr](../dynamicweakptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::Ref(T\&) function
 
 
@@ -67,5 +62,6 @@ Reference to the value passed to this function.
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [DynamicWeakPtr](./dynamicweakptr/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

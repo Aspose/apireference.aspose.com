@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/connectorlock/
 Determines which operations are disabled on the parent [Connector](../connector/).
 
 ```cpp
-class ConnectorLock : public Aspose::Slides::BaseShapeLock,
-                      public Aspose::Slides::IConnectorLock
+class ConnectorLock : public Aspose::Slides::BaseShapeLock,                      public Aspose::Slides::IConnectorLock
 ```
 
 ## Methods

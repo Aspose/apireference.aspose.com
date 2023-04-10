@@ -22,8 +22,8 @@ A [ITableFormatEffectiveData](../../itableformateffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITableFormatEffectiveData](../../itableformateffectivedata/)
-* Class [ITableFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITableFormatEffectiveData](../itableformateffectivedata/)
+* Class [ITableFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

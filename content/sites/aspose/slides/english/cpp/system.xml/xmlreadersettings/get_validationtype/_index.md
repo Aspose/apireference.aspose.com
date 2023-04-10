@@ -22,7 +22,7 @@ One of the ValidationType values that indicates whether [XmlReader](../../xmlrea
 
 ## See Also
 
-* Enum [ValidationType](../../validationtype/)
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ValidationType](../validationtype/)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

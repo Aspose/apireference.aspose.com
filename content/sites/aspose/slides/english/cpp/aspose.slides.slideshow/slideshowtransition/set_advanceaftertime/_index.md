@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.slideshow/slideshowtransition/set_advanceaftertime/
 ---
-## SlideShowTransition::set_AdvanceAfterTime(**uint32_t**) method
+## SlideShowTransition::set_AdvanceAfterTime(uint32_t) method
 
 
 Specifies the time, in milliseconds, after which the transition should start. This setting may be used in conjunction with the advClick attribute. If this attribute is not specified then it is assumed that no auto-advance will occur. Write **uint32_t**.
@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShow::SlideShowTransition::set_AdvanceAfterTime(uint32
 
 ## See Also
 
-* Class [SlideShowTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideShowTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

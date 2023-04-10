@@ -17,6 +17,6 @@ void System::Drawing::Drawing2D::Matrix::Invert()
 
 ## See Also
 
-* Class [Matrix](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Matrix](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

@@ -26,11 +26,6 @@ virtual int System::Globalization::Calendar::GetLeapMonth(int year) const
 
 Leap month of the speicified year or zero if the year has no leap month.
 
-## See Also
-
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## Calendar::GetLeapMonth(int, int) const method
 
 
@@ -54,6 +49,6 @@ Leap month of the speicified year of the specified era or zero if the year has n
 
 ## See Also
 
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

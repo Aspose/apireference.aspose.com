@@ -22,7 +22,7 @@ The product token version
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ProductHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ProductHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

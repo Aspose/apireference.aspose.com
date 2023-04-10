@@ -22,7 +22,7 @@ Pointer to the newly created iterator kernel object.
 
 ## See Also
 
-* Typedef [TValue](../tvalue/)
-* Class [_ValueCollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [TValue](./tvalue/)
+* Class [_ValueCollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

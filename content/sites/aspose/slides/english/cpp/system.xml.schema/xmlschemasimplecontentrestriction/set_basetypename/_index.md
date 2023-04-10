@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/set_basetypename/
 ---
-## XmlSchemaSimpleContentRestriction::set_BaseTypeName(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
+## XmlSchemaSimpleContentRestriction::set_BaseTypeName(const SharedPtr\<XmlQualifiedName\>\&) method
 
 
 Sets the name of the built-in data type or simple type from which this type is derived.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSimpleContentRestriction::set_BaseTypeName(co
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaSimpleContentRestriction](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaSimpleContentRestriction](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 2029
 url: /cpp/system/operator_star/
 ---
-## System::operator*(const T\&, const [Decimal](../decimal/)\&) function
+## System::operator*(const T\&, const Decimal\&) function
 
 
 Returns a new instance of [Decimal](../decimal/) class that represents a value that is a result of multiplication of the specified value and the value represented by the specified [Decimal](../decimal/) object.
@@ -29,6 +29,6 @@ A new instance of [Decimal](../decimal/) class that represents a value that is a
 
 ## See Also
 
-* Class [Decimal](../decimal/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](./decimal/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

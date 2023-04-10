@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPictureFillFormat> Aspose::Slides::IControl::get_Subs
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPictureFillFormat](../../ipicturefillformat/)
-* Class [IControl](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPictureFillFormat](../ipicturefillformat/)
+* Class [IControl](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

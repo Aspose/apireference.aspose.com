@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.net.http.headers/httprequestheaders/set_ifmodifiedsince/
 ---
-## HttpRequestHeaders::set_IfModifiedSince([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
+## HttpRequestHeaders::set_IfModifiedSince(Nullable\<DateTimeOffset\>) method
 
 
 Sets a value of the 'If-Modified-Since' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_IfModifiedSince(Nullabl
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [DateTimeOffset](../../../system/datetimeoffset/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [DateTimeOffset](../../system/datetimeoffset/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

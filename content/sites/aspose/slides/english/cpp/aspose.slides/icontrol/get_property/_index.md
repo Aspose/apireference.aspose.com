@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/icontrol/get_property/
 ---
-## IControl::get_Property([System::String](../../../system/string/)) method
+## IControl::get_Property(System::String) method
 
 
 Returns an ActiveX property at the specified index.
@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IControl::get_Property(System::String nam
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IControl](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IControl](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

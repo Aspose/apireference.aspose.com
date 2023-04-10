@@ -22,7 +22,7 @@ The new value of the node. This method returns **nullptr** if the node is neithe
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNodeChangedEventArgs](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNodeChangedEventArgs](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

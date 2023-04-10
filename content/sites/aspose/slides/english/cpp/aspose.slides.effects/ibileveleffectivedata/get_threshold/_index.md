@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IBiLevelEffectiveData::get_Threshold()=0
 
 ## See Also
 
-* Class [IBiLevelEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBiLevelEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

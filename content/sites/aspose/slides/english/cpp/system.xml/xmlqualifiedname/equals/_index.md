@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml/xmlqualifiedname/equals/
 ---
-## XmlQualifiedName::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## XmlQualifiedName::Equals(SharedPtr\<Object\>) method
 
 
 Determines whether the specified [XmlQualifiedName](../) object is equal to the current [XmlQualifiedName](../) object.
@@ -28,8 +28,8 @@ bool System::Xml::XmlQualifiedName::Equals(SharedPtr<Object> other) override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [XmlQualifiedName](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [XmlQualifiedName](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ The [XmlElement](../../xmlelement/) that represents the root of the XML document
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlElement](../../xmlelement/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlElement](../xmlelement/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ bool System::Net::Http::Headers::ContentRangeHeaderValue::get_HasRange() const
 
 ## See Also
 
-* Class [ContentRangeHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ContentRangeHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/masterslidecollection/removeunused/
 ---
-## MasterSlideCollection::RemoveUnused(**bool**) method
+## MasterSlideCollection::RemoveUnused(bool) method
 
 
 Removes unused master slides.
@@ -24,6 +24,6 @@ void Aspose::Slides::MasterSlideCollection::RemoveUnused(bool ignorePreserveFiel
 
 ## See Also
 
-* Class [MasterSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MasterSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

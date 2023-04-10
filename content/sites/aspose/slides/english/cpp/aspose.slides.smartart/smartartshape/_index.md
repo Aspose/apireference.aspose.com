@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.smartart/smartartshape/
 Represents [SmartArt](../smartart/) shape
 
 ```cpp
-class SmartArtShape : public Aspose::Slides::GeometryShape,
-                      public Aspose::Slides::SmartArt::ISmartArtShape
+class SmartArtShape : public Aspose::Slides::GeometryShape,                      public Aspose::Slides::SmartArt::ISmartArtShape
 ```
 
 ## Methods

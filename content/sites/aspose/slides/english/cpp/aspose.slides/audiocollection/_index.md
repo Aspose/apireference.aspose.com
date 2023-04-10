@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/audiocollection/
 Represents a collection of embedded audio files.
 
 ```cpp
-class AudioCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,
-                        public Aspose::Slides::IAudioCollection
+class AudioCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,                        public Aspose::Slides::IAudioCollection
 ```
 
 ## Methods

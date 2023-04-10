@@ -27,11 +27,6 @@ int System::Globalization::JapaneseLunisolarCalendar::GetLeapMonth(int year, int
 
 Leap month of the speicified year of the specified era or zero if the year has no leap month.
 
-## See Also
-
-* Class [JapaneseLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## JapaneseLunisolarCalendar::GetLeapMonth(int) const method
 
 
@@ -41,11 +36,6 @@ RTTI information.
 virtual int System::Globalization::Calendar::GetLeapMonth(int year) const
 ```
 
-## See Also
-
-* Class [JapaneseLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## JapaneseLunisolarCalendar::GetLeapMonth(int, int) const method
 
 
@@ -57,6 +47,6 @@ virtual int System::Globalization::Calendar::GetLeapMonth(int year, int era) con
 
 ## See Also
 
-* Class [JapaneseLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [JapaneseLunisolarCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/system.globalization/calendar/getsecond/
 ---
-## Calendar::GetSecond([DateTime](../../../system/datetime/)) const method
+## Calendar::GetSecond(DateTime) const method
 
 
 Gets seconds for the specified time point.
@@ -28,7 +28,7 @@ Seconds in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

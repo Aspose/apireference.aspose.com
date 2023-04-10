@@ -21,6 +21,6 @@ bool Aspose::Slides::Export::XpsOptions::get_DrawSlidesFrame() override
 Default is **false**. 
 ## See Also
 
-* Class [XpsOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XpsOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

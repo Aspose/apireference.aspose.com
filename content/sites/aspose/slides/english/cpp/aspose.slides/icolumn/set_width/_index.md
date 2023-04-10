@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/icolumn/set_width/
 ---
-## IColumn::set_Width(**double**) method
+## IColumn::set_Width(double) method
 
 
 Sets the width of a column. Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IColumn::set_Width(double value)=0
 
 ## See Also
 
-* Class [IColumn](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IColumn](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

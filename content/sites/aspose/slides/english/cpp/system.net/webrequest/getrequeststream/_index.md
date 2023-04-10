@@ -22,8 +22,8 @@ The stream for writing data to the resource.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

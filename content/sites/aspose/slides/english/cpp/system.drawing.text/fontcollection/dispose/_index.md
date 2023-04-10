@@ -17,6 +17,6 @@ virtual void System::Drawing::Text::FontCollection::Dispose() override
 
 ## See Also
 
-* Class [FontCollection](../)
-* Namespace [System::Drawing::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FontCollection](./)
+* Namespace [System::Drawing::Text](../)
+* Library [Aspose.Slides](../../)

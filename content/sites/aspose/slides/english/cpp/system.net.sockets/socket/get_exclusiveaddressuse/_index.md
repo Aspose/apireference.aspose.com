@@ -22,6 +22,6 @@ A value that indicates if only one process can bind the socket to a port.
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

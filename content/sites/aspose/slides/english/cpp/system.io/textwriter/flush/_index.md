@@ -17,6 +17,6 @@ virtual void System::IO::TextWriter::Flush()
 
 ## See Also
 
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

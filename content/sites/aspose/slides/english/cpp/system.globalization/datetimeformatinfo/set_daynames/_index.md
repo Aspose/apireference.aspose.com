@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/system.globalization/datetimeformatinfo/set_daynames/
 ---
-## DateTimeFormatInfo::set_DayNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
+## DateTimeFormatInfo::set_DayNames(const ArrayPtr\<String\>\&) method
 
 
 Sets day names.
@@ -24,8 +24,8 @@ void System::Globalization::DateTimeFormatInfo::set_DayNames(const ArrayPtr<Stri
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

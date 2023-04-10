@@ -22,9 +22,9 @@ A value of the 'Accept-Ranges' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpHeaderValueCollection](../../httpheadervaluecollection/)
-* Class [String](../../../system/string/)
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpHeaderValueCollection](../httpheadervaluecollection/)
+* Class [String](../../system/string/)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

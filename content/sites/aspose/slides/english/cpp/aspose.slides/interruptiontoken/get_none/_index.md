@@ -21,8 +21,7 @@ static System::SharedPtr<InterruptionToken> Aspose::Slides::InterruptionToken::g
 Long-running operations will never be interrupted via [InterruptionTokenSource::Interrupt](../../interruptiontokensource/interrupt/) when using this token.
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [InterruptionToken](../)
-* Class [InterruptionToken](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [InterruptionToken](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IAnimationTimeLine> Aspose::Slides::BaseSlide::get_Timeline() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAnimationTimeLine](../../ianimationtimeline/)
-* Class [BaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAnimationTimeLine](../ianimationtimeline/)
+* Class [BaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

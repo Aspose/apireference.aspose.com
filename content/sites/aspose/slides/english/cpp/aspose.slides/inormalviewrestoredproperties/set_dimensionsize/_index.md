@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/inormalviewrestoredproperties/set_dimensionsize/
 ---
-## INormalViewRestoredProperties::set_DimensionSize(**float**) method
+## INormalViewRestoredProperties::set_DimensionSize(float) method
 
 
 Specifies the size of the slide region (width when a child of RestoredTop, height when a child of RestoredLeft). Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::INormalViewRestoredProperties::set_DimensionSize(fl
 
 ## See Also
 
-* Class [INormalViewRestoredProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [INormalViewRestoredProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

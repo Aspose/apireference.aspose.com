@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/gradientformat/
 Represent a gradient format.
 
 ```cpp
-class GradientFormat : public Aspose::Slides::PVIObject,
-                       public Aspose::Slides::IGradientFormat
+class GradientFormat : public Aspose::Slides::PVIObject,                       public Aspose::Slides::IGradientFormat
 ```
 
 ## Methods

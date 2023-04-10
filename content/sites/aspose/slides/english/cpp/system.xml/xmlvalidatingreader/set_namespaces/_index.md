@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/system.xml/xmlvalidatingreader/set_namespaces/
 ---
-## XmlValidatingReader::set_Namespaces(**bool**) method
+## XmlValidatingReader::set_Namespaces(bool) method
 
 
 Sets a value indicating whether to do namespace support.
@@ -24,6 +24,6 @@ void System::Xml::XmlValidatingReader::set_Namespaces(bool value)
 
 ## See Also
 
-* Class [XmlValidatingReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlValidatingReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

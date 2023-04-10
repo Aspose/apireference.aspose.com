@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Theme::IFontScheme::get_Name()=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IFontScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IFontScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

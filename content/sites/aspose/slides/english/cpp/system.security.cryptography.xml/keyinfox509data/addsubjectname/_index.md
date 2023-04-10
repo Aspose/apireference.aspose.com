@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.security.cryptography.xml/keyinfox509data/addsubjectname/
 ---
-## KeyInfoX509Data::AddSubjectName([String](../../../system/string/)) method
+## KeyInfoX509Data::AddSubjectName(String) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::KeyInfoX509Data::AddSubjectName(String
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [KeyInfoX509Data](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [KeyInfoX509Data](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Drawing::Vector2d64d::SwapXY()
 
 ## See Also
 
-* Class [Vector2d64d](../)
-* Namespace [Aspose::Slides::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Vector2d64d](./)
+* Namespace [Aspose::Slides::Drawing](../)
+* Library [Aspose.Slides](../../)

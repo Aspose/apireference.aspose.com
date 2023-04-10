@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IProtectionManager::get_IsOnlyDocumentPropertiesLoa
 
 ## See Also
 
-* Class [IProtectionManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IProtectionManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

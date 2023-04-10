@@ -26,13 +26,6 @@ template<typename ResultType> SharedPtr<IEnumerable<ResultType>> System::Collect
 
 An [IEnumerable](../) that contains elements of the sequence cast the ResultType.
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../)
-* Class [IEnumerable](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## IEnumerable::LINQ_Cast() method
 
 
@@ -44,8 +37,7 @@ template<typename Result> SharedPtr<IEnumerable<Result>> System::Collections::Ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../)
-* Class [IEnumerable](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerable](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

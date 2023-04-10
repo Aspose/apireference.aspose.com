@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Animation::IRotationEffect::get_To()=0
 
 ## See Also
 
-* Class [IRotationEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IRotationEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

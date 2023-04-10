@@ -20,6 +20,6 @@ virtual int32_t Aspose::Slides::SmartArt::ISmartArtNode::get_Position()=0
 
 ## See Also
 
-* Class [ISmartArtNode](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISmartArtNode](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

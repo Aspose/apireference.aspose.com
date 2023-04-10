@@ -17,6 +17,6 @@ Aspose::Slides::Export::TextToHtmlConversionOptions::TextToHtmlConversionOptions
 
 ## See Also
 
-* Class [TextToHtmlConversionOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextToHtmlConversionOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

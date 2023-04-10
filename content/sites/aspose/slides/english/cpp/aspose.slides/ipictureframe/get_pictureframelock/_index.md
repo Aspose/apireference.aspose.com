@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPictureFrameLock> Aspose::Slides::IPictureFrame::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPictureFrameLock](../../ipictureframelock/)
-* Class [IPictureFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPictureFrameLock](../ipictureframelock/)
+* Class [IPictureFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

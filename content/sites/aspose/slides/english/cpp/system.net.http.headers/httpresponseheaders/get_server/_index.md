@@ -22,9 +22,9 @@ A value of the 'Server' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpHeaderValueCollection](../../httpheadervaluecollection/)
-* Class [ProductInfoHeaderValue](../../productinfoheadervalue/)
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpHeaderValueCollection](../httpheadervaluecollection/)
+* Class [ProductInfoHeaderValue](../productinfoheadervalue/)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

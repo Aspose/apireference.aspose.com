@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.text/encoderreplacementfallbackbuffer/encoderreplacementfallbackbuffer/
 ---
-## EncoderReplacementFallbackBuffer::EncoderReplacementFallbackBuffer(const [EncoderReplacementFallbackPtr](../../../system/encoderreplacementfallbackptr/)\&) constructor
+## EncoderReplacementFallbackBuffer::EncoderReplacementFallbackBuffer(const EncoderReplacementFallbackPtr\&) constructor
 
 
 Constructor.
@@ -24,7 +24,7 @@ System::Text::EncoderReplacementFallbackBuffer::EncoderReplacementFallbackBuffer
 
 ## See Also
 
-* Typedef [EncoderReplacementFallbackPtr](../../../system/encoderreplacementfallbackptr/)
-* Class [EncoderReplacementFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [EncoderReplacementFallbackPtr](../../system/encoderreplacementfallbackptr/)
+* Class [EncoderReplacementFallbackBuffer](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

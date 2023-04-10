@@ -17,8 +17,8 @@ System::SharedPtr<IEffectFormat> Aspose::Slides::Charts::ChartLinesFormat::get_E
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffectFormat](../../../aspose.slides/ieffectformat/)
-* Class [ChartLinesFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffectFormat](../../aspose.slides/ieffectformat/)
+* Class [ChartLinesFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

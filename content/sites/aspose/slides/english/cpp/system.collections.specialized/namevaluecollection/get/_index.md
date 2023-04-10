@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.collections.specialized/namevaluecollection/get/
 ---
-## NameValueCollection::Get(const [String](../../../system/string/)\&) method
+## NameValueCollection::Get(const String\&) method
 
 
 Gets the values associated with the specified key.
@@ -17,7 +17,7 @@ virtual String System::Collections::Specialized::NameValueCollection::Get(const 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NameValueCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NameValueCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

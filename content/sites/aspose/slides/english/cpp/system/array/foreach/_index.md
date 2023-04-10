@@ -6,7 +6,7 @@ type: docs
 weight: 664
 url: /cpp/system/array/foreach/
 ---
-## Array::ForEach(const [ArrayPtr](../../arrayptr/)\<T\>\&, [System::Action](../../action/)\<T\>) method
+## Array::ForEach(const ArrayPtr\<T\>\&, System::Action\<T\>) method
 
 
 Performs specified action on each element of the specified array.
@@ -25,8 +25,8 @@ static void System::Array<T>::ForEach(const ArrayPtr<T> &arr, System::Action<T> 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Typedef [Action](../../action/)
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Typedef [Action](../action/)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

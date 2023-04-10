@@ -17,7 +17,7 @@ static const OperatingSystem & System::Environment::get_OSVersion()
 
 ## See Also
 
-* Class [OperatingSystem](../../operatingsystem/)
-* Struct [Environment](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [OperatingSystem](../operatingsystem/)
+* Struct [Environment](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

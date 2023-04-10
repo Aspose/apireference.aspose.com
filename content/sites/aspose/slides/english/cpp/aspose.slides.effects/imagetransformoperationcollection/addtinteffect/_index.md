@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addtinteffect/
 ---
-## ImageTransformOperationCollection::AddTintEffect(**float**, **float**) method
+## ImageTransformOperationCollection::AddTintEffect(float, float) method
 
 
 Adds the new [Tint](../../tint/) effect to the end of a collection.
@@ -29,8 +29,8 @@ Index of the new image effect in a collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITint](../../itint/)
-* Class [ImageTransformOperationCollection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITint](../itint/)
+* Class [ImageTransformOperationCollection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

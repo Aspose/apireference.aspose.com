@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/rippletransition/set_direction/
 ---
-## RippleTransition::set_Direction([TransitionCornerAndCenterDirectionType](../../transitioncornerandcenterdirectiontype/)) method
+## RippleTransition::set_Direction(TransitionCornerAndCenterDirectionType) method
 
 
 Direction of transition. Write [TransitionCornerAndCenterDirectionType](../../transitioncornerandcenterdirectiontype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::RippleTransition::set_Direction(TransitionCorner
 
 ## See Also
 
-* Enum [TransitionCornerAndCenterDirectionType](../../transitioncornerandcenterdirectiontype/)
-* Class [RippleTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionCornerAndCenterDirectionType](../transitioncornerandcenterdirectiontype/)
+* Class [RippleTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

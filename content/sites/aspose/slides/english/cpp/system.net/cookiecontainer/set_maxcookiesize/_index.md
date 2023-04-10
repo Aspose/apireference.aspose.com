@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net/cookiecontainer/set_maxcookiesize/
 ---
-## CookieContainer::set_MaxCookieSize(**int32_t**) method
+## CookieContainer::set_MaxCookieSize(int32_t) method
 
 
 Sets the maximum cookie size.
@@ -29,6 +29,6 @@ A new cookie will be truncated when its size exceeds the maximum cookie size.
 
 ## See Also
 
-* Class [CookieContainer](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CookieContainer](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -28,6 +28,6 @@ Value of referenced bit.
 
 ## See Also
 
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitArray](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

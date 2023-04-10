@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IGraphicalObjectLock::get_SizeLocked()=0
 
 ## See Also
 
-* Class [IGraphicalObjectLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGraphicalObjectLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

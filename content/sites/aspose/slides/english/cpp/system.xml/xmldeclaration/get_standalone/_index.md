@@ -22,7 +22,7 @@ Valid values are **yes** if all entity declarations required by the XML document
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDeclaration](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDeclaration](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

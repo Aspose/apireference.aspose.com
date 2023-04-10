@@ -17,7 +17,7 @@ LineSketchType Aspose::Slides::SketchFormat::get_SketchType() override
 
 ## See Also
 
-* Enum [LineSketchType](../../linesketchtype/)
-* Class [SketchFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineSketchType](../linesketchtype/)
+* Class [SketchFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

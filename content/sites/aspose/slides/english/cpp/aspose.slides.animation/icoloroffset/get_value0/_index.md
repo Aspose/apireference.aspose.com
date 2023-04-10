@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Animation::IColorOffset::get_Value0()=0
 
 ## See Also
 
-* Class [IColorOffset](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IColorOffset](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

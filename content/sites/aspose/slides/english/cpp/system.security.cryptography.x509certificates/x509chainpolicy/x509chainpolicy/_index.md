@@ -17,6 +17,6 @@ System::Security::Cryptography::X509Certificates::X509ChainPolicy::X509ChainPoli
 
 ## See Also
 
-* Class [X509ChainPolicy](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [X509ChainPolicy](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

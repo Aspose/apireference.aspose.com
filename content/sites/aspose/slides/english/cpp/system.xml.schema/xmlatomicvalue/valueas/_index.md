@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.xml.schema/xmlatomicvalue/valueas/
 ---
-## XmlAtomicValue::ValueAs(const [TypeInfo](../../../system/typeinfo/)\&, [SharedPtr](../../../system/sharedptr/)\<[IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)\>) method
+## XmlAtomicValue::ValueAs(const TypeInfo\&, SharedPtr\<IXmlNamespaceResolver\>) method
 
 
 Returns the validated XML element or attribute's value as the type specified using the [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/) object specified to resolve namespace prefixes.
@@ -29,10 +29,10 @@ The value of the validated XML element or attribute as the type requested.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
-* Class [XmlAtomicValue](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/)
+* Class [XmlAtomicValue](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

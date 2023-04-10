@@ -6,7 +6,7 @@ type: docs
 weight: 560
 url: /cpp/system.collections.generic/list/trueforall/
 ---
-## List::TrueForAll([System::Predicate](../../../system/predicate/)\<T\>) method
+## List::TrueForAll(System::Predicate\<T\>) method
 
 
 Determines whether every element in the collection matches the conditions defined by the specified predicate.
@@ -28,7 +28,7 @@ True if every element matches the conditions, false otherwise.
 
 ## See Also
 
-* Typedef [Predicate](../../../system/predicate/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [Predicate](../../system/predicate/)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

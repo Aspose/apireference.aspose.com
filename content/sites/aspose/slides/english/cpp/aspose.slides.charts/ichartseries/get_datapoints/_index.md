@@ -17,8 +17,8 @@ virtual System::SharedPtr<IChartDataPointCollection> Aspose::Slides::Charts::ICh
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataPointCollection](../../ichartdatapointcollection/)
-* Class [IChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataPointCollection](../ichartdatapointcollection/)
+* Class [IChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

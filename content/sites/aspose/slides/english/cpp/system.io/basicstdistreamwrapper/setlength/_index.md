@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.io/basicstdistreamwrapper/setlength/
 ---
-## BasicSTDIStreamWrapper::SetLength(**int64_t**) method
+## BasicSTDIStreamWrapper::SetLength(int64_t) method
 
 
 Sets the length of the stream represented by the current object. Not supported!
@@ -24,6 +24,6 @@ virtual void System::IO::BasicSTDIStreamWrapper<T, typename>::SetLength(int64_t 
 
 ## See Also
 
-* Class [BasicSTDIStreamWrapper](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BasicSTDIStreamWrapper](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

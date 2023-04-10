@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IBulletFormatEffectiveData::get_IsBulletHardColor()
 
 ## See Also
 
-* Class [IBulletFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBulletFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

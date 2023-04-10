@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.xml/xmldocument/set_xmlresolver/
 ---
-## XmlDocument::set_XmlResolver([SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../xmlresolver/)\>) method
+## XmlDocument::set_XmlResolver(SharedPtr\<System::Xml::XmlResolver\>) method
 
 
 Sets the [XmlResolver](../../xmlresolver/) to use for resolving external resources.
@@ -24,8 +24,8 @@ virtual void System::Xml::XmlDocument::set_XmlResolver(SharedPtr<System::Xml::Xm
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlResolver](../../xmlresolver/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlResolver](../xmlresolver/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

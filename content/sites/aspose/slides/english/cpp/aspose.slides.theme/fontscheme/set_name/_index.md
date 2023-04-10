@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.theme/fontscheme/set_name/
 ---
-## FontScheme::set_Name([System::String](../../../system/string/)) method
+## FontScheme::set_Name(System::String) method
 
 
 Returns the font scheme name. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Theme::FontScheme::set_Name(System::String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FontScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FontScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

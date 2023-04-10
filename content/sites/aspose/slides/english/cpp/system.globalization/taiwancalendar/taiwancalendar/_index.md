@@ -17,6 +17,6 @@ System::Globalization::TaiwanCalendar::TaiwanCalendar()
 
 ## See Also
 
-* Class [TaiwanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TaiwanCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual Imaging::ColorPalettePtr System::Drawing::Bitmap::get_Palette() const ov
 
 ## See Also
 
-* Typedef [ColorPalettePtr](../../../system.drawing.imaging/colorpaletteptr/)
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ColorPalettePtr](../../system.drawing.imaging/colorpaletteptr/)
+* Class [Bitmap](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

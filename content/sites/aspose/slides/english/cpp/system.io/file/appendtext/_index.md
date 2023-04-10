@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.io/file/appendtext/
 ---
-## File::AppendText(const [String](../../../system/string/)\&) method
+## File::AppendText(const String\&) method
 
 
 Creates a [StreamWriter](../../streamwriter/) object that appends text to the specified file using UTF-8 encoding. If the specified file does not exist, it is created.
@@ -28,8 +28,8 @@ A shared pointer to the created [StreamWriter](../../streamwriter/) object assoc
 
 ## See Also
 
-* Typedef [StreamWriterPtr](../../../system/streamwriterptr/)
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [StreamWriterPtr](../../system/streamwriterptr/)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

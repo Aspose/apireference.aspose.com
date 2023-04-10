@@ -22,7 +22,7 @@ ArrayPtr<int> System::Globalization::JapaneseLunisolarCalendar::get_Eras() const
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [JapaneseLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [JapaneseLunisolarCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

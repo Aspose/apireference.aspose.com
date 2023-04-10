@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.slides/lineformat/set_beginarrowheadwidth/
 ---
-## LineFormat::set_BeginArrowheadWidth([LineArrowheadWidth](../../linearrowheadwidth/)) method
+## LineFormat::set_BeginArrowheadWidth(LineArrowheadWidth) method
 
 
 Sets the arrowhead width at the beginning of a line. Write [LineArrowheadWidth](../../linearrowheadwidth/).
@@ -17,7 +17,7 @@ void Aspose::Slides::LineFormat::set_BeginArrowheadWidth(LineArrowheadWidth valu
 
 ## See Also
 
-* Enum [LineArrowheadWidth](../../linearrowheadwidth/)
-* Class [LineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineArrowheadWidth](../linearrowheadwidth/)
+* Class [LineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

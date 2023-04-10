@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.xml.schema/xmlschemacomplextype/set_anyattribute/
 ---
-## XmlSchemaComplexType::set_AnyAttribute(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)\>\&) method
+## XmlSchemaComplexType::set_AnyAttribute(const SharedPtr\<XmlSchemaAnyAttribute\>\&) method
 
 
 Sets the value for the [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/) component of the complex type.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaComplexType::set_AnyAttribute(const SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)
-* Class [XmlSchemaComplexType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaAnyAttribute](../xmlschemaanyattribute/)
+* Class [XmlSchemaComplexType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

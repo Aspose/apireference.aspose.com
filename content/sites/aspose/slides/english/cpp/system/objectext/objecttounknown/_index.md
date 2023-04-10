@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system/objectext/objecttounknown/
 ---
-## ObjectExt::ObjectToUnknown([SmartPtr](../../smartptr/)\<[Object](../../object/)\>) method
+## ObjectExt::ObjectToUnknown(SmartPtr\<Object\>) method
 
 
 Converts [Object](../../object/) to unknown type, handling both smart pointer type and bpxed value situations.
@@ -32,15 +32,7 @@ template<typename T> static std::enable_if<IsSmartPtr<T>::value, T>::type System
 
 Either unboxed value or converted pointer.
 
-## See Also
-
-* Struct [IsSmartPtr](../../issmartptr/)
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
-## ObjectExt::ObjectToUnknown([SmartPtr](../../smartptr/)\<[Object](../../object/)\>) method
+## ObjectExt::ObjectToUnknown(SmartPtr\<Object\>) method
 
 
 Converts [Object](../../object/) to unknown type, handling both smart pointer type and boxed value situations.
@@ -68,9 +60,9 @@ Either unboxed value or converted pointer.
 
 ## See Also
 
-* Struct [IsSmartPtr](../../issmartptr/)
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](../smartptr/)
+* Class [Object](../object/)
+* Class [ObjectExt](./)
+* Struct [IsSmartPtr](../issmartptr/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

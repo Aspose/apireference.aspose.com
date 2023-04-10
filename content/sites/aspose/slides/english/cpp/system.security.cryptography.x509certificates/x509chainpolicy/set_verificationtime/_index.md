@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/set_verificationtime/
 ---
-## X509ChainPolicy::set_VerificationTime([DateTime](../../../system/datetime/)) method
+## X509ChainPolicy::set_VerificationTime(DateTime) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::X509Certificates::X509ChainPolicy::set_Veri
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [X509ChainPolicy](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [X509ChainPolicy](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

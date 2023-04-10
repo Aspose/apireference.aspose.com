@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Animation::SequenceCollection::get_Count() override
 
 ## See Also
 
-* Class [SequenceCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SequenceCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

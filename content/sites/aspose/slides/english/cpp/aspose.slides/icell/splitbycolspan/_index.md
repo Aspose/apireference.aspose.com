@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.slides/icell/splitbycolspan/
 ---
-## ICell::SplitByColSpan(**int32_t**) method
+## ICell::SplitByColSpan(int32_t) method
 
 
 Splits the cell to two cells by index of column.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::ICell::SplitByColSpan(int32_t index)=0
 
 ## See Also
 
-* Class [ICell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

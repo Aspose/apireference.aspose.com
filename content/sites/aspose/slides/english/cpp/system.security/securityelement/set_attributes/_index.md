@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.security/securityelement/set_attributes/
 ---
-## SecurityElement::set_Attributes([System::Collections::Generic::Dictionary](../../../system.collections.generic/dictionary/)\<[String](../../../system/string/), [String](../../../system/string/)\>) method
+## SecurityElement::set_Attributes(System::Collections::Generic::Dictionary\<String, String\>) method
 
 
 Sets tag attributes.
@@ -24,8 +24,8 @@ void System::Security::SecurityElement::set_Attributes(System::Collections::Gene
 
 ## See Also
 
-* Class [Dictionary](../../../system.collections.generic/dictionary/)
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Dictionary](../../system.collections.generic/dictionary/)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

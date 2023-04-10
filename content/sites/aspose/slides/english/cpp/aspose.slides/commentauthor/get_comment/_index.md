@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/commentauthor/get_comment/
 ---
-## CommentAuthor::get_Comment(**int32_t**) method
+## CommentAuthor::get_Comment(int32_t) method
 
 
 Returns comment made by this author at the specified index. Read-only [Aspose::Slides::IComment](../../icomment/)
@@ -17,8 +17,8 @@ System::SharedPtr<IComment> Aspose::Slides::CommentAuthor::get_Comment(int32_t i
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComment](../../icomment/)
-* Class [CommentAuthor](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComment](../icomment/)
+* Class [CommentAuthor](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

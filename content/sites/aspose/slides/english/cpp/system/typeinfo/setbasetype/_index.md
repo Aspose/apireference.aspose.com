@@ -24,6 +24,6 @@ void System::TypeInfo::SetBaseType(GetTypeInfoFunPtr basetype)
 
 ## See Also
 
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ System::Globalization::ChineseLunisolarCalendar::ChineseLunisolarCalendar()
 
 ## See Also
 
-* Class [ChineseLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChineseLunisolarCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Effects::IOuterShadow::get_SkewVertical()=0
 
 ## See Also
 
-* Class [IOuterShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IOuterShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

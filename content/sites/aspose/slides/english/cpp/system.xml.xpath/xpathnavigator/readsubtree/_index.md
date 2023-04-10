@@ -22,8 +22,8 @@ An [XmlReader](../../../system.xml/xmlreader/) object that contains the current 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlReader](../../../system.xml/xmlreader/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlReader](../../system.xml/xmlreader/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

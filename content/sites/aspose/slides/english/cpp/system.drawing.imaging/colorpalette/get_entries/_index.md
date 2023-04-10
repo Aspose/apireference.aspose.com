@@ -17,8 +17,8 @@ System::ArrayPtr<Color> System::Drawing::Imaging::ColorPalette::get_Entries() co
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Color](../../../system.drawing/color/)
-* Class [ColorPalette](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Color](../../system.drawing/color/)
+* Class [ColorPalette](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

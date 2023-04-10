@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.io/bufferedstream/setlength/
 ---
-## BufferedStream::SetLength(**int64_t**) method
+## BufferedStream::SetLength(int64_t) method
 
 
 Sets the length of the stream represented by the current object.
@@ -24,6 +24,6 @@ virtual void System::IO::BufferedStream::SetLength(int64_t value) override
 
 ## See Also
 
-* Class [BufferedStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BufferedStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

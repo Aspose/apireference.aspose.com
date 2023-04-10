@@ -6,7 +6,7 @@ type: docs
 weight: 846
 url: /cpp/system.globalization/datetimeformatinfo/getinstance/
 ---
-## DateTimeFormatInfo::GetInstance(const [IFormatProviderPtr](../../../system/iformatproviderptr/)\&) method
+## DateTimeFormatInfo::GetInstance(const IFormatProviderPtr\&) method
 
 
 Gets formatter associated with format provider.
@@ -28,8 +28,8 @@ Formatter associated with format provider or current thread's format if unavaila
 
 ## See Also
 
-* Typedef [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)
-* Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DateTimeFormatInfoPtr](../datetimeformatinfoptr/)
+* Typedef [IFormatProviderPtr](../../system/iformatproviderptr/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ String System::Security::Cryptography::RSAEncryptionPadding::ToString() const ov
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [RSAEncryptionPadding](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [RSAEncryptionPadding](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

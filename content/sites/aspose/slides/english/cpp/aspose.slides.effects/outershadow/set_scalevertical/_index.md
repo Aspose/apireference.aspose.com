@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides.effects/outershadow/set_scalevertical/
 ---
-## OuterShadow::set_ScaleVertical(**double**) method
+## OuterShadow::set_ScaleVertical(double) method
 
 
 Specifies the vertical scaling factor, negative scaling causes a flip. Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::OuterShadow::set_ScaleVertical(double value) overr
 
 ## See Also
 
-* Class [OuterShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [OuterShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

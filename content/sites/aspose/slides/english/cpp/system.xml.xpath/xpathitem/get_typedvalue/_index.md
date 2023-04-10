@@ -22,8 +22,8 @@ The current item as a boxed object of the most appropriate type.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [XPathItem](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [XPathItem](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

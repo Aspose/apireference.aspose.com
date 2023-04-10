@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/portionformat/set_smarttagclean/
 ---
-## PortionFormat::set_SmartTagClean(**bool**) method
+## PortionFormat::set_SmartTagClean(bool) method
 
 
 Determines whether the smart tag should be cleaned. No inheritance applied. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::PortionFormat::set_SmartTagClean(bool value) override
 
 ## See Also
 
-* Class [PortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

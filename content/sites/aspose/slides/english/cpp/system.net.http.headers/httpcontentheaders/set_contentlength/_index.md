@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contentlength/
 ---
-## HttpContentHeaders::set_ContentLength([Nullable](../../../system/nullable/)\<**int64_t**\>) method
+## HttpContentHeaders::set_ContentLength(Nullable\<int64_t\>) method
 
 
 Sets a value of the 'Content-Length' header.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpContentHeaders::set_ContentLength(Nullable<
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [HttpContentHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [HttpContentHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/portioncollection/insert/
 ---
-## PortionCollection::Insert(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../iportion/)\>) method
+## PortionCollection::Insert(int32_t, System::SharedPtr\<IPortion\>) method
 
 
 Inserts a [Portion](../../portion/) into the collection at the specified index.
@@ -25,8 +25,8 @@ void Aspose::Slides::PortionCollection::Insert(int32_t index, System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPortion](../../iportion/)
-* Class [PortionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPortion](../iportion/)
+* Class [PortionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

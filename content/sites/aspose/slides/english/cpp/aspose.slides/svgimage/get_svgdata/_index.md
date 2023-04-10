@@ -17,7 +17,7 @@ System::ArrayPtr<uint8_t> Aspose::Slides::SvgImage::get_SvgData() override
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [SvgImage](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [SvgImage](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

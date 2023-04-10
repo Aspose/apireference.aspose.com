@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/charttypecharacterizer/ischarttypescatter/
 ---
-## ChartTypeCharacterizer::IsChartTypeScatter([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::IsChartTypeScatter(ChartType) method
 
 
 Return true if chartType is one of Scatter subtypes. Subtypes set corresponds to the appropriate set in PowerPoint (see \"Change Chart Type\" dialog in PowerPoint): [ChartType::ScatterWithMarkers](../../charttype/), [ChartType::ScatterWithSmoothLines](../../charttype/), [ChartType::ScatterWithSmoothLinesAndMarkers](../../charttype/), [ChartType::ScatterWithStraightLines](../../charttype/), [ChartType::ScatterWithStraightLinesAndMarkers](../../charttype/).
@@ -17,7 +17,7 @@ static bool Aspose::Slides::Charts::ChartTypeCharacterizer::IsChartTypeScatter(C
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

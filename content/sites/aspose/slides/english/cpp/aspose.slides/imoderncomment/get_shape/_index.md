@@ -17,8 +17,8 @@ virtual System::SharedPtr<IShape> Aspose::Slides::IModernComment::get_Shape()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShape](../../ishape/)
-* Class [IModernComment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShape](../ishape/)
+* Class [IModernComment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

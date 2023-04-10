@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.drawing/sizef/set_width/
 ---
-## SizeF::set_Width(**float**) method
+## SizeF::set_Width(float) method
 
 
 Sets the value of width represented by the current object.
@@ -24,6 +24,6 @@ void System::Drawing::SizeF::set_Width(float value)
 
 ## See Also
 
-* Class [SizeF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SizeF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

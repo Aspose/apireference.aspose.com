@@ -22,7 +22,7 @@ The value is always **1.0**.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDeclaration](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDeclaration](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

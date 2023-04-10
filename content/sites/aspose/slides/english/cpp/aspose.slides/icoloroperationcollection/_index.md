@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/icoloroperationcollection/
 Represents a collection of color transform operations.
 
 ```cpp
-class IColorOperationCollection : public Aspose::Slides::IGenericCloneable<System::SharedPtr<Aspose::Slides::IColorOperationCollection>>,
-                                  public Aspose::Slides::IGenericCollection<System::SharedPtr<Aspose::Slides::IColorOperation>>
+class IColorOperationCollection : public Aspose::Slides::IGenericCloneable<System::SharedPtr<Aspose::Slides::IColorOperationCollection>>,                                  public Aspose::Slides::IGenericCollection<System::SharedPtr<Aspose::Slides::IColorOperation>>
 ```
 
 ## Methods

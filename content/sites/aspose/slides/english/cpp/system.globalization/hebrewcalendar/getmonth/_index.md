@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.globalization/hebrewcalendar/getmonth/
 ---
-## HebrewCalendar::GetMonth([DateTime](../../../system/datetime/)) const method
+## HebrewCalendar::GetMonth(DateTime) const method
 
 
 Gets month for the specified time point.
@@ -28,7 +28,7 @@ Month in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [HebrewCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [HebrewCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

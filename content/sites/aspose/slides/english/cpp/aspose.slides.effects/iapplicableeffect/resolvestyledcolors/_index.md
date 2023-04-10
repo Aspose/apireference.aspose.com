@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.effects/iapplicableeffect/resolvestyledcolors/
 ---
-## IApplicableEffect::ResolveStyledColors([System::SharedPtr](../../../system/sharedptr/)\<[IBaseSlide](../../../aspose.slides/ibaseslide/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[StyleColorEffectiveData](../../../aspose.slides/stylecoloreffectivedata/)\>) method
+## IApplicableEffect::ResolveStyledColors(System::SharedPtr\<IBaseSlide\>, System::SharedPtr\<StyleColorEffectiveData\>) method
 
 
 
@@ -17,9 +17,9 @@ virtual ASPOSE_SLIDES_LOCAL_API void Aspose::Slides::Effects::IApplicableEffect:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBaseSlide](../../../aspose.slides/ibaseslide/)
-* Class [StyleColorEffectiveData](../../../aspose.slides/stylecoloreffectivedata/)
-* Class [IApplicableEffect](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBaseSlide](../../aspose.slides/ibaseslide/)
+* Class [StyleColorEffectiveData](../../aspose.slides/stylecoloreffectivedata/)
+* Class [IApplicableEffect](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

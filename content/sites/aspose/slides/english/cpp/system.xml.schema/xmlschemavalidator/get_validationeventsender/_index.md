@@ -22,8 +22,8 @@ An [Object](../../../system/object/); the default is this [XmlSchemaValidator](.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [XmlSchemaValidator](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [XmlSchemaValidator](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

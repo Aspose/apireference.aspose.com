@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/cellformat/
 Represents format of a table cell.
 
 ```cpp
-class CellFormat : public Aspose::Slides::PVIObject,
-                   public Aspose::Slides::ICellFormat
+class CellFormat : public Aspose::Slides::PVIObject,                   public Aspose::Slides::ICellFormat
 ```
 
 ## Methods

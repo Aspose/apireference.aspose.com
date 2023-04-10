@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Effects::IReflectionEffectiveData::get_Distance()
 
 ## See Also
 
-* Class [IReflectionEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IReflectionEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

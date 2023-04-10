@@ -6,7 +6,7 @@ type: docs
 weight: 1626
 url: /cpp/aspose.slides.animation/behaviorproperty/getorcreatebyvalue/
 ---
-## BehaviorProperty::GetOrCreateByValue([System::String](../../../system/string/)) method
+## BehaviorProperty::GetOrCreateByValue(System::String) method
 
 
 Looks for existing behavior property by value or creates new custom one with the specified value
@@ -28,9 +28,8 @@ instance of [BehaviorProperty](../)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [BehaviorProperty](../)
-* Class [String](../../../system/string/)
-* Class [BehaviorProperty](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [BehaviorProperty](./)
+* Class [String](../../system/string/)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

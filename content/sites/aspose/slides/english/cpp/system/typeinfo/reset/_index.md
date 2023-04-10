@@ -17,6 +17,6 @@ void System::TypeInfo::reset()
 
 ## See Also
 
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

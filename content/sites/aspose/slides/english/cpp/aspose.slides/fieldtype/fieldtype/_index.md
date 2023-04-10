@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/fieldtype/fieldtype/
 ---
-## FieldType::FieldType([System::String](../../../system/string/)) constructor
+## FieldType::FieldType(System::String) constructor
 
 
 Initializes a new instance of [FieldType](../) class.
@@ -17,7 +17,7 @@ Aspose::Slides::FieldType::FieldType(System::String str)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FieldType](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FieldType](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

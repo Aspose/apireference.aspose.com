@@ -22,6 +22,6 @@ This method always returns **false**. ([XmlTextReader](../) does not expand defa
 
 ## See Also
 
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

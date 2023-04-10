@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/comment/set_createdtime/
 ---
-## Comment::set_CreatedTime([System::DateTime](../../../system/datetime/)) method
+## Comment::set_CreatedTime(System::DateTime) method
 
 
 Sets the time of a comment creation. Setting this property to [DateTime::MinValue](../../../system/datetime/minvalue/) means no comment time is set. Write [System::DateTime](../../../system/datetime/).
@@ -21,7 +21,7 @@ void Aspose::Slides::Comment::set_CreatedTime(System::DateTime value) override
 [Comment](../) time is an optional parameter.
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Comment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Comment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

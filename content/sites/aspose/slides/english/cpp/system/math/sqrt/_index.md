@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system/math/sqrt/
 ---
-## Math::Sqrt(**double**) method
+## Math::Sqrt(double) method
 
 
 Returns the square root of the specified value.
@@ -28,6 +28,6 @@ The square root of **d**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

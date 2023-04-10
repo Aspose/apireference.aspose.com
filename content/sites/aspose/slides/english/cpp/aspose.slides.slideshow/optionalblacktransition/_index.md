@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/optionalblacktransition/
 Optional black slide transition effect.
 
 ```cpp
-class OptionalBlackTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                                public Aspose::Slides::SlideShow::IOptionalBlackTransition
+class OptionalBlackTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                                public Aspose::Slides::SlideShow::IOptionalBlackTransition
 ```
 
 ## Methods

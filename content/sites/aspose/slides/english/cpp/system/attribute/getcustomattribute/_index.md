@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/attribute/getcustomattribute/
 ---
-## Attribute::GetCustomAttribute(const [TypeInfo](../../typeinfo/)\&, const [TypeInfo](../../typeinfo/)\&) method
+## Attribute::GetCustomAttribute(const TypeInfo\&, const TypeInfo\&) method
 
 
 Returns a custom attribute of a specified type appllied to specified type.
@@ -29,8 +29,8 @@ A retrieved attribute or null if specified type does not have attribute of speci
 
 ## See Also
 
-* Typedef [ptr](../../object/ptr/)
-* Class [TypeInfo](../../typeinfo/)
-* Class [Attribute](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ptr](../object/ptr/)
+* Class [TypeInfo](../typeinfo/)
+* Class [Attribute](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

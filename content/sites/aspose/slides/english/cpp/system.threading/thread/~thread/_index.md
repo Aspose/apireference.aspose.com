@@ -17,6 +17,6 @@ virtual System::Threading::Thread::~Thread()
 
 ## See Also
 
-* Class [Thread](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Thread](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

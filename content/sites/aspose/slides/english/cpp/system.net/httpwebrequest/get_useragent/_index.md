@@ -22,7 +22,7 @@ A value of the 'User-Agent' header.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

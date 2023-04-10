@@ -28,6 +28,6 @@ bool System::Collections::BitArray::Get(int index) const
 
 ## See Also
 
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitArray](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

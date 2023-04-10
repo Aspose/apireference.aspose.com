@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.collections.specialized/stringcollection/insert/
 ---
-## StringCollection::Insert(int, const [System::String](../../../system/string/)\&) method
+## StringCollection::Insert(int, const System::String\&) method
 
 
 Inserts specific value into container.
@@ -25,7 +25,7 @@ void System::Collections::Specialized::StringCollection::Insert(int index, const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

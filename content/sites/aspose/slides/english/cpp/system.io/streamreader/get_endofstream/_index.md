@@ -17,6 +17,6 @@ bool System::IO::StreamReader::get_EndOfStream()
 
 ## See Also
 
-* Class [StreamReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StreamReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

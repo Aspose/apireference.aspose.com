@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/morphtransition/
 Ripple slide transition effect.
 
 ```cpp
-class MorphTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                        public Aspose::Slides::SlideShow::IMorphTransition
+class MorphTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                        public Aspose::Slides::SlideShow::IMorphTransition
 ```
 
 ## Methods

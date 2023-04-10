@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system/console/setout/
 ---
-## Console::SetOut(const [SharedPtr](../../sharedptr/)\<[System::IO::TextWriter](../../../system.io/textwriter/)\>\&) method
+## Console::SetOut(const SharedPtr\<System::IO::TextWriter\>\&) method
 
 
 Assigns the specified object to the class' Out property.
@@ -24,8 +24,8 @@ static void System::Console::SetOut(const SharedPtr<System::IO::TextWriter> &val
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [TextWriter](../../../system.io/textwriter/)
-* Class [Console](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [TextWriter](../../system.io/textwriter/)
+* Class [Console](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/iprotectionmanager/setwriteprotection/
 ---
-## IProtectionManager::SetWriteProtection([System::String](../../../system/string/)) method
+## IProtectionManager::SetWriteProtection(System::String) method
 
 
 Set write protection for this presentation with specified password.
@@ -24,7 +24,7 @@ virtual void Aspose::Slides::IProtectionManager::SetWriteProtection(System::Stri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IProtectionManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IProtectionManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

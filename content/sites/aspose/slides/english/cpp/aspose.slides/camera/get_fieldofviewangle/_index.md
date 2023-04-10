@@ -17,6 +17,6 @@ float Aspose::Slides::Camera::get_FieldOfViewAngle() override
 
 ## See Also
 
-* Class [Camera](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Camera](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

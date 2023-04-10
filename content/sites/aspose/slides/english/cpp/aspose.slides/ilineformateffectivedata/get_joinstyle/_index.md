@@ -17,7 +17,7 @@ virtual LineJoinStyle Aspose::Slides::ILineFormatEffectiveData::get_JoinStyle()=
 
 ## See Also
 
-* Enum [LineJoinStyle](../../linejoinstyle/)
-* Class [ILineFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineJoinStyle](../linejoinstyle/)
+* Class [ILineFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

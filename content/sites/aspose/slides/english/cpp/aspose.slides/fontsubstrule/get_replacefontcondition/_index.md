@@ -17,7 +17,7 @@ FontSubstCondition Aspose::Slides::FontSubstRule::get_ReplaceFontCondition() ove
 
 ## See Also
 
-* Enum [FontSubstCondition](../../fontsubstcondition/)
-* Class [FontSubstRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FontSubstCondition](../fontsubstcondition/)
+* Class [FontSubstRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

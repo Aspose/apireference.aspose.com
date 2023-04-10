@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Export::ISVGOptions::get_MetafileRasterizationDp
 
 ## See Also
 
-* Class [ISVGOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISVGOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

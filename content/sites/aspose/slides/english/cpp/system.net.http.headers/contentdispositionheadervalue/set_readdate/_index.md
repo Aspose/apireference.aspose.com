@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_readdate/
 ---
-## ContentDispositionHeaderValue::set_ReadDate([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
+## ContentDispositionHeaderValue::set_ReadDate(Nullable\<DateTimeOffset\>) method
 
 
 Sets the date when the file read the last time.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::ContentDispositionHeaderValue::set_ReadDate(Nul
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [DateTimeOffset](../../../system/datetimeoffset/)
-* Class [ContentDispositionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [DateTimeOffset](../../system/datetimeoffset/)
+* Class [ContentDispositionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.slides/itextframeformat/set_transform/
 ---
-## ITextFrameFormat::set_Transform([TextShapeType](../../textshapetype/)) method
+## ITextFrameFormat::set_Transform(TextShapeType) method
 
 
 Sets text wrapping shape. Write [TextShapeType](../../textshapetype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ITextFrameFormat::set_Transform(TextShapeType value
 
 ## See Also
 
-* Enum [TextShapeType](../../textshapetype/)
-* Class [ITextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextShapeType](../textshapetype/)
+* Class [ITextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

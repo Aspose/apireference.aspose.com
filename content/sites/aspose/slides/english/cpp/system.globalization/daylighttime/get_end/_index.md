@@ -22,7 +22,7 @@ Date and time when daylight saving time ends (value is in local time).
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [DaylightTime](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [DaylightTime](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

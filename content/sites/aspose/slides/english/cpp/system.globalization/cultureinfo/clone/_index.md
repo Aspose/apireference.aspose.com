@@ -22,8 +22,8 @@ Newly created culture info object with same data as current one.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.effects/alphainverse/
 Represents an Alpha Inverse effect. Alpha (opacity) values are inverted by subtracting from 100%.
 
 ```cpp
-class AlphaInverse : public Aspose::Slides::Effects::ImageTransformOperation,
-                     public Aspose::Slides::Effects::IAlphaInverse,
-                     public Aspose::Slides::Effects::IVisualEffect
+class AlphaInverse : public Aspose::Slides::Effects::ImageTransformOperation,                     public Aspose::Slides::Effects::IAlphaInverse,                     public Aspose::Slides::Effects::IVisualEffect
 ```
 
 ## Methods

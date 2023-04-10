@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/pviobject/
 Encapsulates basic service infrastructure for objects can be a subject of property value inheritance.
 
 ```cpp
-class PVIObject : public Aspose::Slides::IPVIObject,
-                  public virtual Aspose::Slides::ISlideComponent
+class PVIObject : public Aspose::Slides::IPVIObject,                  public virtual Aspose::Slides::ISlideComponent
 ```
 
 ## Methods

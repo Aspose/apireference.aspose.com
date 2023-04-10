@@ -17,8 +17,8 @@ System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::StringOrDoubleChartVal
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataCell](../../ichartdatacell/)
-* Class [StringOrDoubleChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataCell](../ichartdatacell/)
+* Class [StringOrDoubleChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.collections.generic/iset/ispropersupersetof/
 ---
-## ISet::IsProperSupersetOf([IEnumerablePtr](../ienumerableptr/)) method
+## ISet::IsProperSupersetOf(IEnumerablePtr) method
 
 
 Checks if current set is a strict superset of other container.
@@ -28,7 +28,7 @@ True if all elements in **other** are present in set and set has more elements t
 
 ## See Also
 
-* Typedef [IEnumerablePtr](../ienumerableptr/)
-* Class [ISet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumerablePtr](./ienumerableptr/)
+* Class [ISet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

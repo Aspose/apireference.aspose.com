@@ -17,6 +17,6 @@ int32_t Aspose::Slides::GradientStopCollectionEffectiveData::get_Count() overrid
 
 ## See Also
 
-* Class [GradientStopCollectionEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GradientStopCollectionEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

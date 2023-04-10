@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/icontrolpropertiescollection/idx_set/
 ---
-## IControlPropertiesCollection::idx_set([System::String](../../../system/string/), [System::String](../../../system/string/)) method
+## IControlPropertiesCollection::idx_set(System::String, System::String) method
 
 
 Sets property.
@@ -25,7 +25,7 @@ virtual void Aspose::Slides::IControlPropertiesCollection::idx_set(System::Strin
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IControlPropertiesCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IControlPropertiesCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

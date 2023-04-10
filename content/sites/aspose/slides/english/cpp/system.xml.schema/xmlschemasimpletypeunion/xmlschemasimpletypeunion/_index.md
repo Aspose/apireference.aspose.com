@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaSimpleTypeUnion::XmlSchemaSimpleTypeUnion()
 
 ## See Also
 
-* Class [XmlSchemaSimpleTypeUnion](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaSimpleTypeUnion](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

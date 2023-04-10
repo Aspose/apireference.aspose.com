@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.collections/ilistimplreftype/unboxvalue/
 ---
-## IListImplRefType::UnboxValue([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## IListImplRefType::UnboxValue(System::SharedPtr\<System::Object\>) method
 
 
 Converting object value into partucular type reference.
@@ -17,8 +17,8 @@ static System::SharedPtr<T> System::Collections::IListImplRefType<T>::UnboxValue
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IListImplRefType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IListImplRefType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

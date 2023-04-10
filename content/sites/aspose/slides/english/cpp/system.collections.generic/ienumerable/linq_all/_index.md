@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.collections.generic/ienumerable/linq_all/
 ---
-## IEnumerable::LINQ_All(std::function\<**bool**(T)>) method
+## IEnumerable::LINQ_All(std::function\<bool(T)>) method
 
 
 Determines whether all elements of a sequence satisfy a condition.
@@ -28,6 +28,6 @@ true if every element of the source sequence passes the test in the specified pr
 
 ## See Also
 
-* Class [IEnumerable](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IEnumerable](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

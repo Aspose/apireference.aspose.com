@@ -25,6 +25,6 @@ Use this property to get or set the quality of the images inside a document when
 The default value is **100**.
 ## See Also
 
-* Class [PdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

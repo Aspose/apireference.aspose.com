@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/system.xml/xmlvalidatingreader/set_xmlresolver/
 ---
-## XmlValidatingReader::set_XmlResolver(const [SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../xmlresolver/)\>\&) method
+## XmlValidatingReader::set_XmlResolver(const SharedPtr\<System::Xml::XmlResolver\>\&) method
 
 
 Sets the [XmlResolver](../../xmlresolver/) used for resolving external document type definition (DTD) and schema location references. The [XmlResolver](../../xmlresolver/) is also used to handle any import or include elements found in XML [Schema](../../../system.xml.schema/) definition language (XSD) schemas.
@@ -24,8 +24,8 @@ void System::Xml::XmlValidatingReader::set_XmlResolver(const SharedPtr<System::X
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlResolver](../../xmlresolver/)
-* Class [XmlValidatingReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlResolver](../xmlresolver/)
+* Class [XmlValidatingReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

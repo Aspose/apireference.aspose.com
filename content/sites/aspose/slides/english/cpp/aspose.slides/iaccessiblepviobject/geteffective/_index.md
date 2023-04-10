@@ -22,6 +22,6 @@ An effective data object.
 
 ## See Also
 
-* Class [IAccessiblePVIObject](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAccessiblePVIObject](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

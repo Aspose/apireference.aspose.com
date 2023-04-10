@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschema/set_finaldefault/
 ---
-## XmlSchema::set_FinalDefault([XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)) method
+## XmlSchema::set_FinalDefault(XmlSchemaDerivationMethod) method
 
 
 Sets the **finalDefault** attribute which sets the default value of the **final** attribute on elements and complex types in the target namespace of the schema.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchema::set_FinalDefault(XmlSchemaDerivationMethod 
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
-* Class [XmlSchema](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
+* Class [XmlSchema](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

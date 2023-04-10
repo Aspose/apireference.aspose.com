@@ -22,6 +22,6 @@ Read byte **int32_t**
 
 ## See Also
 
-* Class [IStreamWrapper](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IStreamWrapper](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net.http/httpresponsemessage/set_statuscode/
 ---
-## HttpResponseMessage::set_StatusCode([HttpStatusCode](../../../system.net/httpstatuscode/)) method
+## HttpResponseMessage::set_StatusCode(HttpStatusCode) method
 
 
 Sets the HTTP status code.
@@ -24,7 +24,7 @@ void System::Net::Http::HttpResponseMessage::set_StatusCode(HttpStatusCode value
 
 ## See Also
 
-* Enum [HttpStatusCode](../../../system.net/httpstatuscode/)
-* Class [HttpResponseMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [HttpStatusCode](../../system.net/httpstatuscode/)
+* Class [HttpResponseMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/ppimage/
 Represents an image in a presentation.
 
 ```cpp
-class PPImage : public Aspose::Slides::IPPImage,
-                public System::IDisposable
+class PPImage : public Aspose::Slides::IPPImage,                public System::IDisposable
 ```
 
 ## Methods

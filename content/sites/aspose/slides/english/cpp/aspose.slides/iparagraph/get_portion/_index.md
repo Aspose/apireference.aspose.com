@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/iparagraph/get_portion/
 ---
-## IParagraph::get_Portion(**int32_t**) method
+## IParagraph::get_Portion(int32_t) method
 
 
 Returns a text portion at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPortion> Aspose::Slides::IParagraph::get_Portion(int3
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPortion](../../iportion/)
-* Class [IParagraph](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPortion](../iportion/)
+* Class [IParagraph](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

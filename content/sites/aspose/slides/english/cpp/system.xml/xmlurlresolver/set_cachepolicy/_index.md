@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.xml/xmlurlresolver/set_cachepolicy/
 ---
-## XmlUrlResolver::set_CachePolicy(const [SharedPtr](../../../system/sharedptr/)\<[Net::Cache::RequestCachePolicy](../../../system.net.cache/requestcachepolicy/)\>\&) method
+## XmlUrlResolver::set_CachePolicy(const SharedPtr\<Net::Cache::RequestCachePolicy\>\&) method
 
 
 Sets the cache policy for the underlying WebRequest object.
@@ -24,8 +24,8 @@ void System::Xml::XmlUrlResolver::set_CachePolicy(const SharedPtr<Net::Cache::Re
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RequestCachePolicy](../../../system.net.cache/requestcachepolicy/)
-* Class [XmlUrlResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RequestCachePolicy](../../system.net.cache/requestcachepolicy/)
+* Class [XmlUrlResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

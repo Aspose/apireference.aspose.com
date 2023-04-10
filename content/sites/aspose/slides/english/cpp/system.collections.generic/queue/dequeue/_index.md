@@ -22,6 +22,6 @@ Popped item.
 
 ## See Also
 
-* Class [Queue](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Queue](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

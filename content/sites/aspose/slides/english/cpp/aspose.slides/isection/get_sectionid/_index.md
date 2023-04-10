@@ -17,7 +17,7 @@ virtual System::Guid Aspose::Slides::ISection::get_SectionId()=0
 
 ## See Also
 
-* Class [Guid](../../../system/guid/)
-* Class [ISection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Guid](../../system/guid/)
+* Class [ISection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

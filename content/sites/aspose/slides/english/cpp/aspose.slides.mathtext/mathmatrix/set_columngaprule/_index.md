@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.mathtext/mathmatrix/set_columngaprule/
 ---
-## MathMatrix::set_ColumnGapRule([MathSpacingRules](../../mathspacingrules/)) method
+## MathMatrix::set_ColumnGapRule(MathSpacingRules) method
 
 
 The type of horizontal spacing between columns of a matrix; Horizontal spacing units can be ems or points (stored as twips). Default: SingleSpacingGap (0)
@@ -26,7 +26,7 @@ matrix->set_ColumnGapRule(MathSpacingRules::OneAndHalfSpacingGap);
 
 ## See Also
 
-* Enum [MathSpacingRules](../../mathspacingrules/)
-* Class [MathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathSpacingRules](../mathspacingrules/)
+* Class [MathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

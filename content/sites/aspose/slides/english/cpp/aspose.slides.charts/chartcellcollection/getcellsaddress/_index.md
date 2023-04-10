@@ -17,7 +17,7 @@ System::String Aspose::Slides::Charts::ChartCellCollection::GetCellsAddress() ov
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ChartCellCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ChartCellCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

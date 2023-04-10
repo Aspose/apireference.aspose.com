@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system/math/pow/
 ---
-## Math::Pow(**double**, **double**) method
+## Math::Pow(double, double) method
 
 
 Returns the specified value raised to the specified power.
@@ -29,6 +29,6 @@ static double System::Math::Pow(double x, double y)
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.drawing.imaging/imageattributes/setnoop/
 ---
-## ImageAttributes::SetNoOp([ColorAdjustType](../../coloradjusttype/)) method
+## ImageAttributes::SetNoOp(ColorAdjustType) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ void System::Drawing::Imaging::ImageAttributes::SetNoOp(ColorAdjustType type=Col
 
 ## See Also
 
-* Enum [ColorAdjustType](../../coloradjusttype/)
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorAdjustType](../coloradjusttype/)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

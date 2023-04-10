@@ -17,6 +17,6 @@ System::Globalization::HijriCalendar::HijriCalendar()
 
 ## See Also
 
-* Class [HijriCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HijriCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

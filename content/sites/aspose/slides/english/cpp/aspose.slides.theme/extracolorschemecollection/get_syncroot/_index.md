@@ -21,8 +21,8 @@ System::SharedPtr<System::Object> Aspose::Slides::Theme::ExtraColorSchemeCollect
 Returns a synchronization root. Read-only [System::Object](../../../system/object/). 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [ExtraColorSchemeCollection](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [ExtraColorSchemeCollection](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.collections.generic/iset/overlaps/
 ---
-## ISet::Overlaps([IEnumerablePtr](../ienumerableptr/)) method
+## ISet::Overlaps(IEnumerablePtr) method
 
 
 Checks if set overlaps with other container.
@@ -28,7 +28,7 @@ True if current set and **other** have at least one common element, false otherw
 
 ## See Also
 
-* Typedef [IEnumerablePtr](../ienumerableptr/)
-* Class [ISet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumerablePtr](./ienumerableptr/)
+* Class [ISet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

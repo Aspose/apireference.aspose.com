@@ -17,6 +17,6 @@ void System::Globalization::CultureInfo::ClearCachedData()
 
 ## See Also
 
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ String representation.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Picture](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Picture](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

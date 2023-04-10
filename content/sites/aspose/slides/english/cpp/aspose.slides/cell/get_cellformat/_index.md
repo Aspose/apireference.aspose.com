@@ -17,8 +17,8 @@ System::SharedPtr<ICellFormat> Aspose::Slides::Cell::get_CellFormat() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICellFormat](../../icellformat/)
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICellFormat](../icellformat/)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

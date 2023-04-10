@@ -17,6 +17,6 @@ virtual uint32_t Aspose::Slides::IBaseSlide::get_SlideId()=0
 
 ## See Also
 
-* Class [IBaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -21,6 +21,6 @@ bool Aspose::Slides::AutoShape::get_IsTextBox() override
 If shape is not specified to be a text box does not mean that it cannot have text attached to it. A text box is merely a specialized shape with specific properties. 
 ## See Also
 
-* Class [AutoShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AutoShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

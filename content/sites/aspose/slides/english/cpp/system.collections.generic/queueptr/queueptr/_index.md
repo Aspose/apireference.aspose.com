@@ -15,12 +15,7 @@ Constructs null pointer.
 System::Collections::Generic::QueuePtr<T>::QueuePtr()
 ```
 
-## See Also
-
-* Class [QueuePtr](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
-## QueuePtr::QueuePtr(const [SharedPtr](../../../system/sharedptr/)\<[Queue](../../queue/)\<T\>\>\&) constructor
+## QueuePtr::QueuePtr(const SharedPtr\<Queue\<T\>\>\&) constructor
 
 
 Constructs pointer to specific queue.
@@ -38,8 +33,8 @@ System::Collections::Generic::QueuePtr<T>::QueuePtr(const SharedPtr<Queue<T>> &o
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Queue](../../queue/)
-* Class [QueuePtr](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [QueuePtr](./)
+* Class [Queue](../queue/)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

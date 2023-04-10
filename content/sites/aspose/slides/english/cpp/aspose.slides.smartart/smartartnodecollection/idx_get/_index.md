@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.smartart/smartartnodecollection/idx_get/
 ---
-## SmartArtNodeCollection::idx_get(**int32_t**) method
+## SmartArtNodeCollection::idx_get(int32_t) method
 
 
 Returns node by index
@@ -28,8 +28,8 @@ The [SmartArt](../../smartart/) node
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISmartArtNode](../../ismartartnode/)
-* Class [SmartArtNodeCollection](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISmartArtNode](../ismartartnode/)
+* Class [SmartArtNodeCollection](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

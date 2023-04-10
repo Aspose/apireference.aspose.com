@@ -17,6 +17,6 @@ float Aspose::Slides::Animation::Point::get_Time() override
 
 ## See Also
 
-* Class [Point](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Point](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

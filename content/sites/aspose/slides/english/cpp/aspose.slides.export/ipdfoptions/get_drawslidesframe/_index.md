@@ -21,6 +21,6 @@ virtual bool Aspose::Slides::Export::IPdfOptions::get_DrawSlidesFrame()=0
 Default is **false**. 
 ## See Also
 
-* Class [IPdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

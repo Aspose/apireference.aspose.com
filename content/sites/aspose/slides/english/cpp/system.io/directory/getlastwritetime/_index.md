@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.io/directory/getlastwritetime/
 ---
-## Directory::GetLastWriteTime(const [String](../../../system/string/)\&) method
+## Directory::GetLastWriteTime(const String\&) method
 
 
 Returns the last write time of the specified entity as local time.
@@ -28,8 +28,8 @@ A [DateTime](../../../system/datetime/) object representing the last write time 
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [String](../../../system/string/)
-* Class [Directory](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [String](../../system/string/)
+* Class [Directory](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

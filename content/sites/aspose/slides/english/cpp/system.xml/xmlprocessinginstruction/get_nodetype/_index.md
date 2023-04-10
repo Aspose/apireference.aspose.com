@@ -22,7 +22,7 @@ For [XmlProcessingInstruction](../) nodes, this value is [XmlNodeType::Processin
 
 ## See Also
 
-* Enum [XmlNodeType](../../xmlnodetype/)
-* Class [XmlProcessingInstruction](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlNodeType](../xmlnodetype/)
+* Class [XmlProcessingInstruction](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

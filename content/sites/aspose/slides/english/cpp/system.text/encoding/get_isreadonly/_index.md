@@ -22,6 +22,6 @@ True if encoding is read-only, false otherwise.
 
 ## See Also
 
-* Class [Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Encoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

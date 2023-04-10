@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/ihyperlinkmanager/setinternalhyperlinkclick/
 ---
-## IHyperlinkManager::SetInternalHyperlinkClick([System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>) method
+## IHyperlinkManager::SetInternalHyperlinkClick(System::SharedPtr\<ISlide\>) method
 
 
 Sets internal hyperlink on click.
@@ -28,9 +28,9 @@ virtual System::SharedPtr<IHyperlink> Aspose::Slides::IHyperlinkManager::SetInte
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHyperlink](../../ihyperlink/)
-* Class [ISlide](../../islide/)
-* Class [IHyperlinkManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHyperlink](../ihyperlink/)
+* Class [ISlide](../islide/)
+* Class [IHyperlinkManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual float Aspose::Slides::ILineFormatEffectiveData::get_MiterLimit()=0
 
 ## See Also
 
-* Class [ILineFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILineFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.slides.export/swfoptions/set_logoimagebytes/
 ---
-## SwfOptions::set_LogoImageBytes([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
+## SwfOptions::set_LogoImageBytes(System::ArrayPtr\<uint8_t\>) method
 
 
 Image that will be displayed as logo in the top right corner of the viewer. Image should be 32x64 pixels PNG image, otherwise logo can be displayed improperly.
@@ -17,7 +17,7 @@ void Aspose::Slides::Export::SwfOptions::set_LogoImageBytes(System::ArrayPtr<uin
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [SwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [SwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

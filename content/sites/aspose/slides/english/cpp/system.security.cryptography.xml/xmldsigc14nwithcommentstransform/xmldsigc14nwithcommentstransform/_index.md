@@ -17,6 +17,6 @@ System::Security::Cryptography::Xml::XmlDsigC14NWithCommentsTransform::XmlDsigC1
 
 ## See Also
 
-* Class [XmlDsigC14NWithCommentsTransform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlDsigC14NWithCommentsTransform](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

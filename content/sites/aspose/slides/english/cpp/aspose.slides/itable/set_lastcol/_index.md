@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides/itable/set_lastcol/
 ---
-## ITable::set_LastCol(**bool**) method
+## ITable::set_LastCol(bool) method
 
 
 Determines whether the last column of a table has to be drawn with a special formatting. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITable::set_LastCol(bool value)=0
 
 ## See Also
 
-* Class [ITable](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITable](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IParagraphFormatEffectiveData::get_HangingPunctuati
 
 ## See Also
 
-* Class [IParagraphFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IParagraphFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

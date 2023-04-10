@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/datalabelcollection/settemplateweakptr/
 ---
-## DataLabelCollection::SetTemplateWeakPtr(**uint32_t**) method
+## DataLabelCollection::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::DataLabelCollection::SetTemplateWeakPtr(uint32_t ar
 
 ## See Also
 
-* Class [DataLabelCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DataLabelCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

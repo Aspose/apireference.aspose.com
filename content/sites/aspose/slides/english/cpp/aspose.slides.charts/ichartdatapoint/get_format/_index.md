@@ -20,8 +20,8 @@ virtual System::SharedPtr<IFormat> Aspose::Slides::Charts::IChartDataPoint::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFormat](../../iformat/)
-* Class [IChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFormat](../iformat/)
+* Class [IChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.xml/xmlnodereader/xmlnodereader/
 ---
-## XmlNodeReader::XmlNodeReader(const [SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>\&) constructor
+## XmlNodeReader::XmlNodeReader(const SharedPtr\<XmlNode\>\&) constructor
 
 
 Creates an instance of the [XmlNodeReader](../) class using the specified [XmlNode](../../xmlnode/).
@@ -24,8 +24,8 @@ System::Xml::XmlNodeReader::XmlNodeReader(const SharedPtr<XmlNode> &node)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlNodeReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlNodeReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

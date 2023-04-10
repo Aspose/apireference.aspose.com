@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/axis/set_categoryaxistype/
 ---
-## Axis::set_CategoryAxisType([Aspose::Slides::Charts::CategoryAxisType](../../categoryaxistype/)) method
+## Axis::set_CategoryAxisType(Aspose::Slides::Charts::CategoryAxisType) method
 
 
 Specifies the type of the category axis. Write [Charts::CategoryAxisType](../../categoryaxistype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_CategoryAxisType(Aspose::Slides::Charts::
 
 ## See Also
 
-* Enum [CategoryAxisType](../../categoryaxistype/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CategoryAxisType](../categoryaxistype/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

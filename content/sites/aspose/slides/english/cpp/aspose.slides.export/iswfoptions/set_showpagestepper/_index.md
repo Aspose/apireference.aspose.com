@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.export/iswfoptions/set_showpagestepper/
 ---
-## ISwfOptions::set_ShowPageStepper(**bool**) method
+## ISwfOptions::set_ShowPageStepper(bool) method
 
 
 Show/hide page stepper. Can be overridden in flashvars. Default is true.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISwfOptions::set_ShowPageStepper(bool value
 
 ## See Also
 
-* Class [ISwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

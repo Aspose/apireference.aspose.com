@@ -20,12 +20,6 @@ iterator Aspose::Slides::Charts::PieSplitCustomPointCollection::end() noexcept
 
 An iterator pointing right after the last element (if any) of the collection
 
-## See Also
-
-* Typedef [iterator](../iterator/)
-* Class [PieSplitCustomPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
 ## PieSplitCustomPointCollection::end() const method
 
 
@@ -42,7 +36,8 @@ An iterator pointing right after the last element (if any) of the const-qualifie
 
 ## See Also
 
-* Typedef [const_iterator](../const_iterator/)
-* Class [PieSplitCustomPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [iterator](./iterator/)
+* Typedef [const_iterator](./const_iterator/)
+* Class [PieSplitCustomPointCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

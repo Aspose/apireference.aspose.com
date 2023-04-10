@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/iprotectionmanager/encrypt/
 ---
-## IProtectionManager::Encrypt([System::String](../../../system/string/)) method
+## IProtectionManager::Encrypt(System::String) method
 
 
 Encrypts [Presentation](../../presentation/) with specified password.
@@ -24,7 +24,7 @@ virtual void Aspose::Slides::IProtectionManager::Encrypt(System::String encrypti
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IProtectionManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IProtectionManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

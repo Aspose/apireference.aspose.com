@@ -17,8 +17,7 @@ static SharedPtr<Screen> System::Windows::Forms::Screen::get_PrimaryScreen()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Screen](../)
-* Class [Screen](../)
-* Namespace [System::Windows::Forms](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Screen](./)
+* Namespace [System::Windows::Forms](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.xml/xmlreadersettings/set_xmlresolver/
 ---
-## XmlReaderSettings::set_XmlResolver(const [SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../xmlresolver/)\>\&) method
+## XmlReaderSettings::set_XmlResolver(const SharedPtr\<System::Xml::XmlResolver\>\&) method
 
 
 Sets the [XmlResolver](../../xmlresolver/) used to access external documents.
@@ -24,8 +24,8 @@ void System::Xml::XmlReaderSettings::set_XmlResolver(const SharedPtr<System::Xml
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlResolver](../../xmlresolver/)
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlResolver](../xmlresolver/)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

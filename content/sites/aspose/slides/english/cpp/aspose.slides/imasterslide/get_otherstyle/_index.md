@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITextStyle> Aspose::Slides::IMasterSlide::get_OtherSty
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITextStyle](../../itextstyle/)
-* Class [IMasterSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITextStyle](../itextstyle/)
+* Class [IMasterSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

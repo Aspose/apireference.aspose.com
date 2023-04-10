@@ -22,6 +22,6 @@ A value in milliseconds that determines how long the stream will attempt to read
 
 ## See Also
 
-* Class [Stream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Stream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

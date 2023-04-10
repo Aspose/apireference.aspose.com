@@ -20,12 +20,6 @@ iterator System::Collections::Generic::List<T>::begin() noexcept
 
 An iterator pointing to the first element in the list.
 
-## See Also
-
-* Typedef [iterator](../../ienumerable/iterator/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## List::begin() const method
 
 
@@ -42,7 +36,8 @@ An iterator pointing to the first element in the const-qualified instance of the
 
 ## See Also
 
-* Typedef [const_iterator](../../ienumerable/const_iterator/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [iterator](../ienumerable/iterator/)
+* Typedef [const_iterator](../ienumerable/const_iterator/)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

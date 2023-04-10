@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides.charts/idatalabelformat/set_showpercentage/
 ---
-## IDataLabelFormat::set_ShowPercentage(**bool**) method
+## IDataLabelFormat::set_ShowPercentage(bool) method
 
 
 Represents a specified chart's data label percentage value display behavior. True displays the percentage value. False to hide. Write **bool**.
@@ -24,6 +24,6 @@ If parent of this [DataLabelFormat](../../datalabelformat/) object is a [DataLab
 
 ## See Also
 
-* Class [IDataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

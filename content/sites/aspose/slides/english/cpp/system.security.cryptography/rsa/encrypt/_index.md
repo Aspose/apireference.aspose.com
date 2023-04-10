@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.security.cryptography/rsa/encrypt/
 ---
-## RSA::Encrypt([ByteArrayPtr](../../../system/bytearrayptr/), [SharedPtr](../../../system/sharedptr/)\<[RSAEncryptionPadding](../../rsaencryptionpadding/)\>) method
+## RSA::Encrypt(ByteArrayPtr, SharedPtr\<RSAEncryptionPadding\>) method
 
 
 Encrypts input data using the specified padding mode.
@@ -29,9 +29,9 @@ Encrypted data in byte array format.
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RSAEncryptionPadding](../../rsaencryptionpadding/)
-* Class [RSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RSAEncryptionPadding](../rsaencryptionpadding/)
+* Class [RSA](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

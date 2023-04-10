@@ -12,8 +12,7 @@ url: /cpp/system.xml/xmlnamespacemanager/
 Resolves, adds, and removes namespaces to a collection and provides scope management for these namespaces.
 
 ```cpp
-class XmlNamespaceManager : public System::Xml::IXmlNamespaceResolver,
-                            public System::Collections::Generic::IEnumerable<String>
+class XmlNamespaceManager : public System::Xml::IXmlNamespaceResolver,                            public System::Collections::Generic::IEnumerable<String>
 ```
 
 ## Methods

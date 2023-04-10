@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/shapecollection/idx_get/
 ---
-## ShapeCollection::idx_get(**int32_t**) method
+## ShapeCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [IShape](../../ishape/).
@@ -17,8 +17,8 @@ System::SharedPtr<IShape> Aspose::Slides::ShapeCollection::idx_get(int32_t index
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShape](../../ishape/)
-* Class [ShapeCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShape](../ishape/)
+* Class [ShapeCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

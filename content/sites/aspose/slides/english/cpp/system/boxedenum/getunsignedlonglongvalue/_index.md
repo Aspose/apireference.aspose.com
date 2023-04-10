@@ -22,6 +22,6 @@ uint64_t System::BoxedEnum<E, UT>::GetUnsignedLongLongValue() override
 
 ## See Also
 
-* Class [BoxedEnum](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BoxedEnum](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

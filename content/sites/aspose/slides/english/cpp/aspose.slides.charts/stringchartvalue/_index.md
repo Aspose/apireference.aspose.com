@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/stringchartvalue/
 Represent string value which can be stored in pptx presentation document in two ways: 1) in cell/cells of workbook related to chart; 2) as literal value.
 
 ```cpp
-class StringChartValue : public Aspose::Slides::Charts::BaseChartValue,
-                         public Aspose::Slides::Charts::IStringChartValue
+class StringChartValue : public Aspose::Slides::Charts::BaseChartValue,                         public Aspose::Slides::Charts::IStringChartValue
 ```
 
 ## Methods

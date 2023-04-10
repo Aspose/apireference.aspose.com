@@ -17,8 +17,7 @@ virtual ExceptionWrapper<Details_Exception> System::Details_Exception::get_Inner
 
 ## See Also
 
-* Class [ExceptionWrapper](../../exceptionwrapper/)
-* Class [Details_Exception](../)
-* Class [Details_Exception](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ExceptionWrapper](../exceptionwrapper/)
+* Class [Details_Exception](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

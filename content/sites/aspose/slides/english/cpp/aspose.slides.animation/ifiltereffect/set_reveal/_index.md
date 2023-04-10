@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/ifiltereffect/set_reveal/
 ---
-## IFilterEffect::set_Reveal([FilterEffectRevealType](../../filtereffectrevealtype/)) method
+## IFilterEffect::set_Reveal(FilterEffectRevealType) method
 
 
 Represents that effect with behavior must reveal (in/out) Write [FilterEffectRevealType](../../filtereffectrevealtype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IFilterEffect::set_Reveal(FilterEffectRe
 
 ## See Also
 
-* Enum [FilterEffectRevealType](../../filtereffectrevealtype/)
-* Class [IFilterEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FilterEffectRevealType](../filtereffectrevealtype/)
+* Class [IFilterEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

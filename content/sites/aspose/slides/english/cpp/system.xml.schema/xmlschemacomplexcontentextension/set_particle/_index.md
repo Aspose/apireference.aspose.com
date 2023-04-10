@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemacomplexcontentextension/set_particle/
 ---
-## XmlSchemaComplexContentExtension::set_Particle(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaParticle](../../xmlschemaparticle/)\>\&) method
+## XmlSchemaComplexContentExtension::set_Particle(const SharedPtr\<XmlSchemaParticle\>\&) method
 
 
 Sets one of the [XmlSchemaGroupRef](../../xmlschemagroupref/), [XmlSchemaChoice](../../xmlschemachoice/), [XmlSchemaAll](../../xmlschemaall/), or [XmlSchemaSequence](../../xmlschemasequence/) classes.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaComplexContentExtension::set_Particle(const S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaParticle](../../xmlschemaparticle/)
-* Class [XmlSchemaComplexContentExtension](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaParticle](../xmlschemaparticle/)
+* Class [XmlSchemaComplexContentExtension](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

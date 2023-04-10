@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/ieffect/set_behaviors/
 ---
-## IEffect::set_Behaviors([System::SharedPtr](../../../system/sharedptr/)\<[IBehaviorCollection](../../ibehaviorcollection/)\>) method
+## IEffect::set_Behaviors(System::SharedPtr\<IBehaviorCollection\>) method
 
 
 Returns collection of behavior for effect. Write [IBehaviorCollection](../../ibehaviorcollection/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::IEffect::set_Behaviors(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBehaviorCollection](../../ibehaviorcollection/)
-* Class [IEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBehaviorCollection](../ibehaviorcollection/)
+* Class [IEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

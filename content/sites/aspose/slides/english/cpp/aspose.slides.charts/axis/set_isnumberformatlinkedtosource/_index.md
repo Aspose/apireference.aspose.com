@@ -6,7 +6,7 @@ type: docs
 weight: 872
 url: /cpp/aspose.slides.charts/axis/set_isnumberformatlinkedtosource/
 ---
-## Axis::set_IsNumberFormatLinkedToSource(**bool**) method
+## Axis::set_IsNumberFormatLinkedToSource(bool) method
 
 
 Indicates whether the format is linked source data. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Axis::set_IsNumberFormatLinkedToSource(bool value) 
 
 ## See Also
 
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

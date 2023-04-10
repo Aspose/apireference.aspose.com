@@ -17,6 +17,6 @@ virtual System::IO::BasicSystemIOStreamBuf<Elem, Traits>::~BasicSystemIOStreamBu
 
 ## See Also
 
-* Class [BasicSystemIOStreamBuf](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BasicSystemIOStreamBuf](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

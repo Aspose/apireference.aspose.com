@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.export/ixpsoptions/set_showhiddenslides/
 ---
-## IXpsOptions::set_ShowHiddenSlides(**bool**) method
+## IXpsOptions::set_ShowHiddenSlides(bool) method
 
 
 Specifies whether the generated document should include hidden slides or not. Default is **false**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::IXpsOptions::set_ShowHiddenSlides(bool valu
 
 ## See Also
 
-* Class [IXpsOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IXpsOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.net.http.headers/rangeheadervalue/parse/
 ---
-## RangeHeaderValue::Parse([String](../../../system/string/)) method
+## RangeHeaderValue::Parse(String) method
 
 
 Converts a passed string to an instance of the [RangeHeaderValue](../) class.
@@ -28,9 +28,8 @@ An instance of the [RangeHeaderValue](../) class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RangeHeaderValue](../)
-* Class [String](../../../system/string/)
-* Class [RangeHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RangeHeaderValue](./)
+* Class [String](../../system/string/)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

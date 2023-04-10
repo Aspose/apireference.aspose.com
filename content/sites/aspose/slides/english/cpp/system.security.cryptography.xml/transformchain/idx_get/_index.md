@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.security.cryptography.xml/transformchain/idx_get/
 ---
-## TransformChain::idx_get(**int32_t**) method
+## TransformChain::idx_get(int32_t) method
 
 
 
@@ -17,8 +17,8 @@ SharedPtr<Transform> System::Security::Cryptography::Xml::TransformChain::idx_ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Transform](../../transform/)
-* Class [TransformChain](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Transform](../transform/)
+* Class [TransformChain](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.vba/ivbareferencecollection/idx_get/
 ---
-## IVbaReferenceCollection::idx_get(**int32_t**) method
+## IVbaReferenceCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IVbaReference> Aspose::Slides::Vba::IVbaReferenceColle
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaReference](../../ivbareference/)
-* Class [IVbaReferenceCollection](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaReference](../ivbareference/)
+* Class [IVbaReferenceCollection](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

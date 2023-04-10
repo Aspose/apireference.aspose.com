@@ -1,7 +1,7 @@
 ---
 title: Aspose.Slides for C++ API Reference (version 23.3)
 type: docs
-weight: 666
+weight: 12
 url: /cpp/
 keywords: "Aspose.Slides for C++, Aspose Slides, Aspose API Reference."
 description: Aspose.Slides is a class library that can be used by developers for various platforms for a variety of presentation processing tasks.

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/irowcollection/idx_get/
 ---
-## IRowCollection::idx_get(**int32_t**) method
+## IRowCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IRow> Aspose::Slides::IRowCollection::idx_get(int32_t 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IRow](../../irow/)
-* Class [IRowCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IRow](../irow/)
+* Class [IRowCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

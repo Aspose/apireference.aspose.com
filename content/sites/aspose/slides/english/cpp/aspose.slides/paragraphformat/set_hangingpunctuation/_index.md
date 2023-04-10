@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides/paragraphformat/set_hangingpunctuation/
 ---
-## ParagraphFormat::set_HangingPunctuation([NullableBool](../../nullablebool/)) method
+## ParagraphFormat::set_HangingPunctuation(NullableBool) method
 
 
 Determines whether the hanging punctuation is used in a paragraph. No inheritance applied. Write [NullableBool](../../nullablebool/).
@@ -17,7 +17,7 @@ void Aspose::Slides::ParagraphFormat::set_HangingPunctuation(NullableBool value)
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [ParagraphFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [ParagraphFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

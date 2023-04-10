@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILineFormatCollection> Aspose::Slides::Theme::IFormatS
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILineFormatCollection](../../ilineformatcollection/)
-* Class [IFormatScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILineFormatCollection](../ilineformatcollection/)
+* Class [IFormatScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ True if the key should be persisted in machine store, false if it should be pers
 
 ## See Also
 
-* Class [DSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

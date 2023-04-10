@@ -17,8 +17,8 @@ System::SharedPtr<System::Object> Aspose::Slides::SummaryZoomSectionCollection::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [SummaryZoomSectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [SummaryZoomSectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

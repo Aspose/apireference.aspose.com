@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/patternformat/
 Represents a pattern to fill a shape.
 
 ```cpp
-class PatternFormat : public Aspose::Slides::PVIObject,
-                      public Aspose::Slides::IPatternFormat
+class PatternFormat : public Aspose::Slides::PVIObject,                      public Aspose::Slides::IPatternFormat
 ```
 
 ## Methods

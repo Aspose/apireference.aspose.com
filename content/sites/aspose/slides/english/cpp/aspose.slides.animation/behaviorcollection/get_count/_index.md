@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Animation::BehaviorCollection::get_Count() override
 
 ## See Also
 
-* Class [BehaviorCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BehaviorCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

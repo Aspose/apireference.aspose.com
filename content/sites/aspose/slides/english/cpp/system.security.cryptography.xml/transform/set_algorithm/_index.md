@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography.xml/transform/set_algorithm/
 ---
-## Transform::set_Algorithm([String](../../../system/string/)) method
+## Transform::set_Algorithm(String) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::Transform::set_Algorithm(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Transform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Transform](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

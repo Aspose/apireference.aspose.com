@@ -22,8 +22,8 @@ The [XmlWriterSettings](../../xmlwritersettings/) object used to create this wri
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriterSettings](../../xmlwritersettings/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriterSettings](../xmlwritersettings/)
+* Class [XmlWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

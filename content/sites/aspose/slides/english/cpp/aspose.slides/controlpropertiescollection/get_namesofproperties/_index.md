@@ -17,9 +17,9 @@ System::SharedPtr<System::Collections::Generic::ICollection<System::String>> Asp
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICollection](../../../system.collections.generic/icollection/)
-* Class [String](../../../system/string/)
-* Class [ControlPropertiesCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICollection](../../system.collections.generic/icollection/)
+* Class [String](../../system/string/)
+* Class [ControlPropertiesCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

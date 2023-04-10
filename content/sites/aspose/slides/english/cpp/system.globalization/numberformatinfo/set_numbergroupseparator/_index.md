@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.globalization/numberformatinfo/set_numbergroupseparator/
 ---
-## NumberFormatInfo::set_NumberGroupSeparator(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_NumberGroupSeparator(const String\&) method
 
 
 Sets number group separator.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_NumberGroupSeparator(const Str
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

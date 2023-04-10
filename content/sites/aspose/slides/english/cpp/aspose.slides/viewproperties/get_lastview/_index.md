@@ -17,7 +17,7 @@ ViewType Aspose::Slides::ViewProperties::get_LastView() override
 
 ## See Also
 
-* Enum [ViewType](../../viewtype/)
-* Class [ViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ViewType](../viewtype/)
+* Class [ViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

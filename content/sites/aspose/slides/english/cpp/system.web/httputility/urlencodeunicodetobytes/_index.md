@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.web/httputility/urlencodeunicodetobytes/
 ---
-## HttpUtility::UrlEncodeUnicodeToBytes(const [String](../../../system/string/)\&) method
+## HttpUtility::UrlEncodeUnicodeToBytes(const String\&) method
 
 
 Encodes URI fragment usign Unicode.
@@ -28,8 +28,8 @@ Encoded URI fragment.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [HttpUtility](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [HttpUtility](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

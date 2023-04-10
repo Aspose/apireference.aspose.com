@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.globalization/textinfo/set_listseparator/
 ---
-## TextInfo::set_ListSeparator([String](../../../system/string/)) method
+## TextInfo::set_ListSeparator(String) method
 
 
 Sets list separator.
@@ -24,7 +24,7 @@ virtual void System::Globalization::TextInfo::set_ListSeparator(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [TextInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [TextInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

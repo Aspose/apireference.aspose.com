@@ -22,8 +22,8 @@ A table of atomized string objects.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNameTable](../../../system.xml/xmlnametable/)
-* Class [XmlSchemaSet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNameTable](../../system.xml/xmlnametable/)
+* Class [XmlSchemaSet](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

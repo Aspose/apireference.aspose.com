@@ -22,6 +22,6 @@ true if the [ICollection](../../../system.collections.generic/icollection/) is r
 
 ## See Also
 
-* Class [BehaviorCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BehaviorCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.collections/ilistimplvaluetype/indexof/
 ---
-## IListImplValueType::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) const method
+## IListImplValueType::IndexOf(System::SharedPtr\<System::Object\>) const method
 
 
 Gets index of first appearance of item in container.
@@ -28,8 +28,8 @@ Index of first appearance of item in container or -1 if not found.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IListImplValueType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IListImplValueType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

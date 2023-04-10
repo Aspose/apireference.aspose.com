@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/ilegend/get_entry/
 ---
-## ILegend::get_Entry(**int32_t**) method
+## ILegend::get_Entry(int32_t) method
 
 
 Get properties of legend entry corresponding to data point in chart at the specified index. In case of chart types: bar-of-pie, exploded pie, exploded pie 3D, pie, pie 3D, pie-of-pie, data point is taken from first series.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILegendEntryProperties> Aspose::Slides::Charts::ILegen
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILegendEntryProperties](../../ilegendentryproperties/)
-* Class [ILegend](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILegendEntryProperties](../ilegendentryproperties/)
+* Class [ILegend](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.slides/ipresentation/set_vbaproject/
 ---
-## IPresentation::set_VbaProject([System::SharedPtr](../../../system/sharedptr/)\<[Vba::IVbaProject](../../../aspose.slides.vba/ivbaproject/)\>) method
+## IPresentation::set_VbaProject(System::SharedPtr\<Vba::IVbaProject\>) method
 
 
 Gets VBA project with presentation macros. Write [Vba::IVbaProject](../../../aspose.slides.vba/ivbaproject/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IPresentation::set_VbaProject(System::SharedPtr<Vba
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaProject](../../../aspose.slides.vba/ivbaproject/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaProject](../../aspose.slides.vba/ivbaproject/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

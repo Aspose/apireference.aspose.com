@@ -18,7 +18,7 @@ Rectangle System::Drawing::Printing::PageSettings::get_Bounds()
 
 ## See Also
 
-* Class [Rectangle](../../../system.drawing/rectangle/)
-* Class [PageSettings](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Rectangle](../../system.drawing/rectangle/)
+* Class [PageSettings](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

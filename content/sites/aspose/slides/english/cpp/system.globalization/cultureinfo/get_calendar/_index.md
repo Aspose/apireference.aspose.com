@@ -22,7 +22,7 @@ virtual CalendarPtr System::Globalization::CultureInfo::get_Calendar() const
 
 ## See Also
 
-* Typedef [CalendarPtr](../../calendarptr/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [CalendarPtr](../calendarptr/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

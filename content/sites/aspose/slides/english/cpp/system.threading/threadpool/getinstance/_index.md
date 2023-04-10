@@ -22,7 +22,7 @@ Pool implementation object refernce.
 
 ## See Also
 
-* Class [ThreadPoolImpl](../../threadpoolimpl/)
-* Class [ThreadPool](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ThreadPoolImpl](../threadpoolimpl/)
+* Class [ThreadPool](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/system.globalization/cultureinfo/set_datetimeformat/
 ---
-## CultureInfo::set_DateTimeFormat([DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)) method
+## CultureInfo::set_DateTimeFormat(DateTimeFormatInfoPtr) method
 
 
 Sets date format information.
@@ -24,7 +24,7 @@ virtual void System::Globalization::CultureInfo::set_DateTimeFormat(DateTimeForm
 
 ## See Also
 
-* Typedef [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DateTimeFormatInfoPtr](../datetimeformatinfoptr/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

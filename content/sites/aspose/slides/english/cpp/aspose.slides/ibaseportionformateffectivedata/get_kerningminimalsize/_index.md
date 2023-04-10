@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IBasePortionFormatEffectiveData::get_KerningMinima
 
 ## See Also
 
-* Class [IBasePortionFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBasePortionFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

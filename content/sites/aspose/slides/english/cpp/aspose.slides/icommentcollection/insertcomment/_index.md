@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/icommentcollection/insertcomment/
 ---
-## ICommentCollection::InsertComment(**int32_t**, [System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>, [System::Drawing::PointF](../../../system.drawing/pointf/), [System::DateTime](../../../system/datetime/)) method
+## ICommentCollection::InsertComment(int32_t, System::String, System::SharedPtr\<ISlide\>, System::Drawing::PointF, System::DateTime) method
 
 
 Insert new comment to a collection at the specified index.
@@ -32,12 +32,12 @@ Inserted comment.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComment](../../icomment/)
-* Class [String](../../../system/string/)
-* Class [ISlide](../../islide/)
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [DateTime](../../../system/datetime/)
-* Class [ICommentCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComment](../icomment/)
+* Class [String](../../system/string/)
+* Class [ISlide](../islide/)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [DateTime](../../system/datetime/)
+* Class [ICommentCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

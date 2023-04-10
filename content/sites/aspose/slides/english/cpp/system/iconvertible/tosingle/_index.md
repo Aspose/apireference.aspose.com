@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system/iconvertible/tosingle/
 ---
-## IConvertible::ToSingle([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
+## IConvertible::ToSingle(System::SharedPtr\<System::IFormatProvider\>) method
 
 
 Converts the value of this instance to an equivalent single-precision floating-point number using the specified culture-specific formatting information.
@@ -28,8 +28,8 @@ A single-precision floating-point number equivalent to the value of this instanc
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [IFormatProvider](../../iformatprovider/)
-* Class [IConvertible](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [IFormatProvider](../iformatprovider/)
+* Class [IConvertible](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

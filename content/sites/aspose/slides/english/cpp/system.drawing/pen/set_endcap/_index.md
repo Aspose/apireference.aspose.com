@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.drawing/pen/set_endcap/
 ---
-## Pen::set_EndCap([Drawing2D::LineCap](../../../system.drawing.drawing2d/linecap/)) method
+## Pen::set_EndCap(Drawing2D::LineCap) method
 
 
 Sets the ending line cap of the current [Pen](../) object.
@@ -24,7 +24,7 @@ void System::Drawing::Pen::set_EndCap(Drawing2D::LineCap value)
 
 ## See Also
 
-* Enum [LineCap](../../../system.drawing.drawing2d/linecap/)
-* Class [Pen](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineCap](../../system.drawing.drawing2d/linecap/)
+* Class [Pen](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

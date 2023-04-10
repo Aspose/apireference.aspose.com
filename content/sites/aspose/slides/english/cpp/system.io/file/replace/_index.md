@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/system.io/file/replace/
 ---
-## File::Replace(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, **bool**) method
+## File::Replace(const String\&, const String\&, const String\&, bool) method
 
 
 Replaces the contents of a one file with another and creates a backup of the replaced file.
@@ -27,7 +27,7 @@ static void System::IO::File::Replace(const String &sourceFileName, const String
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

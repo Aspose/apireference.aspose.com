@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ichartcategorycollection/idx_get/
 ---
-## IChartCategoryCollection::idx_get(**int32_t**) method
+## IChartCategoryCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index.
@@ -25,8 +25,8 @@ The element at the specified index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartCategory](../../ichartcategory/)
-* Class [IChartCategoryCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartCategory](../ichartcategory/)
+* Class [IChartCategoryCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

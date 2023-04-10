@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.xml/xmldocument/set_preservewhitespace/
 ---
-## XmlDocument::set_PreserveWhitespace(**bool**) method
+## XmlDocument::set_PreserveWhitespace(bool) method
 
 
 Sets a value indicating whether to preserve white space in element content.
@@ -24,6 +24,6 @@ void System::Xml::XmlDocument::set_PreserveWhitespace(bool value)
 
 ## See Also
 
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

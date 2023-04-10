@@ -22,6 +22,6 @@ Number of characters currently stored in builder.
 
 ## See Also
 
-* Class [StringBuilder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StringBuilder](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

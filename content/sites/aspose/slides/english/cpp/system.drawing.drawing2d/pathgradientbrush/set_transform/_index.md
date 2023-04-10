@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_transform/
 ---
-## PathGradientBrush::set_Transform(const [SharedPtr](../../../system/sharedptr/)\<[Matrix](../../matrix/)\>\&) method
+## PathGradientBrush::set_Transform(const SharedPtr\<Matrix\>\&) method
 
 
 Sets a [Matrix](../../matrix/) object that specifies the geometrical transformations for the brush represneted by the current object.
@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_Transform(const SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../../matrix/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Matrix](../matrix/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

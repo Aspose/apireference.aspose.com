@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICameraEffectiveData> Aspose::Slides::IThreeDFormatEff
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICameraEffectiveData](../../icameraeffectivedata/)
-* Class [IThreeDFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICameraEffectiveData](../icameraeffectivedata/)
+* Class [IThreeDFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

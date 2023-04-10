@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.export/embedallfontshtmlcontroller/writeallfonts/
 ---
-## EmbedAllFontsHtmlController::WriteAllFonts([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlGenerator](../../ihtmlgenerator/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IPresentation](../../../aspose.slides/ipresentation/)\>) method
+## EmbedAllFontsHtmlController::WriteAllFonts(System::SharedPtr\<IHtmlGenerator\>, System::SharedPtr\<IPresentation\>) method
 
 
 Write all fonts contained in [Presentation](../../../aspose.slides/presentation/).
@@ -25,9 +25,9 @@ virtual void Aspose::Slides::Export::EmbedAllFontsHtmlController::WriteAllFonts(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHtmlGenerator](../../ihtmlgenerator/)
-* Class [IPresentation](../../../aspose.slides/ipresentation/)
-* Class [EmbedAllFontsHtmlController](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHtmlGenerator](../ihtmlgenerator/)
+* Class [IPresentation](../../aspose.slides/ipresentation/)
+* Class [EmbedAllFontsHtmlController](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

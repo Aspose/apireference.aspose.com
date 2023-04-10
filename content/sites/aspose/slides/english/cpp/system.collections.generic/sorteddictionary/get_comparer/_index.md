@@ -17,8 +17,8 @@ SharedPtr<System::Collections::Generic::IComparer<TKey>> System::Collections::Ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComparer](../../icomparer/)
-* Class [SortedDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComparer](../icomparer/)
+* Class [SortedDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.data/idatarecord/idx_get/
 ---
-## IDataRecord::idx_get(const **int32_t**) method
+## IDataRecord::idx_get(const int32_t) method
 
 
 Gets value at speified index.
@@ -28,8 +28,8 @@ Boxed field value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IDataRecord](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IDataRecord](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

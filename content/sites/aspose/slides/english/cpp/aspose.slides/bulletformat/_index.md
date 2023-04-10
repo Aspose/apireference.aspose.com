@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/bulletformat/
 Represents paragraph bullet formatting properties.
 
 ```cpp
-class BulletFormat : public Aspose::Slides::PVIObject,
-                     public Aspose::Slides::IBulletFormat
+class BulletFormat : public Aspose::Slides::PVIObject,                     public Aspose::Slides::IBulletFormat
 ```
 
 ## Methods

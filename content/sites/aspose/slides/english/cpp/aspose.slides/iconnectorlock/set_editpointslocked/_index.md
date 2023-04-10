@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides/iconnectorlock/set_editpointslocked/
 ---
-## IConnectorLock::set_EditPointsLocked(**bool**) method
+## IConnectorLock::set_EditPointsLocked(bool) method
 
 
 Determines whether a direct changing of contour of this shape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IConnectorLock::set_EditPointsLocked(bool value)=0
 
 ## See Also
 
-* Class [IConnectorLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IConnectorLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

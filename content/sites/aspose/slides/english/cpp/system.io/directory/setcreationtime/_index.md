@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.io/directory/setcreationtime/
 ---
-## Directory::SetCreationTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## Directory::SetCreationTime(const String\&, DateTime) method
 
 
 Sets the creation time of the specified entity as local time.
@@ -25,8 +25,8 @@ static void System::IO::Directory::SetCreationTime(const String &path, DateTime 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [Directory](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [Directory](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

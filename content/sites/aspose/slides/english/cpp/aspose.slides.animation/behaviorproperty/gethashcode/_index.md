@@ -22,6 +22,6 @@ Returns hash code for this object
 
 ## See Also
 
-* Class [BehaviorProperty](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BehaviorProperty](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

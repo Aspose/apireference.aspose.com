@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/fontsubstrulecollection/idx_get/
 ---
-## FontSubstRuleCollection::idx_get(**int32_t**) method
+## FontSubstRuleCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index.
@@ -17,8 +17,8 @@ System::SharedPtr<IFontSubstRule> Aspose::Slides::FontSubstRuleCollection::idx_g
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontSubstRule](../../ifontsubstrule/)
-* Class [FontSubstRuleCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontSubstRule](../ifontsubstrule/)
+* Class [FontSubstRuleCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

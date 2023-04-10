@@ -22,7 +22,7 @@ const System::TypeInfo & System::Security::Authentication::Details_Authenticatio
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_AuthenticationException](../)
-* Namespace [System::Security::Authentication](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_AuthenticationException](./)
+* Namespace [System::Security::Authentication](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/aspose.slides/baseportionformat/set_symbolfont/
 ---
-## BasePortionFormat::set_SymbolFont([System::SharedPtr](../../../system/sharedptr/)\<[IFontData](../../ifontdata/)\>) method
+## BasePortionFormat::set_SymbolFont(System::SharedPtr\<IFontData\>) method
 
 
 Sets the symbolic font info. Null means font is undefined and should be inherited from the Master. Write [IFontData](../../ifontdata/).
@@ -17,8 +17,8 @@ void Aspose::Slides::BasePortionFormat::set_SymbolFont(System::SharedPtr<IFontDa
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontData](../../ifontdata/)
-* Class [BasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontData](../ifontdata/)
+* Class [BasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

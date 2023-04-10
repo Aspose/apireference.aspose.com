@@ -22,6 +22,6 @@ Number of currency decimal digits.
 
 ## See Also
 
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

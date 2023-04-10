@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.theme/extracolorschemecollection/idx_get/
 ---
-## ExtraColorSchemeCollection::idx_get(**int32_t**) method
+## ExtraColorSchemeCollection::idx_get(int32_t) method
 
 
 Returns an color scheme by index. Read-only [ExtraColorScheme](../../extracolorscheme/).
@@ -17,8 +17,8 @@ System::SharedPtr<IExtraColorScheme> Aspose::Slides::Theme::ExtraColorSchemeColl
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IExtraColorScheme](../../iextracolorscheme/)
-* Class [ExtraColorSchemeCollection](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IExtraColorScheme](../iextracolorscheme/)
+* Class [ExtraColorSchemeCollection](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

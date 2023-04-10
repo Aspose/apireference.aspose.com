@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.xml/xmlwritersettings/set_conformancelevel/
 ---
-## XmlWriterSettings::set_ConformanceLevel([System::Xml::ConformanceLevel](../../conformancelevel/)) method
+## XmlWriterSettings::set_ConformanceLevel(System::Xml::ConformanceLevel) method
 
 
 Sets the level of conformance that the XML writer checks the XML output for.
@@ -24,7 +24,7 @@ void System::Xml::XmlWriterSettings::set_ConformanceLevel(System::Xml::Conforman
 
 ## See Also
 
-* Enum [ConformanceLevel](../../conformancelevel/)
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ConformanceLevel](../conformancelevel/)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

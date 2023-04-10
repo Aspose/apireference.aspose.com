@@ -30,6 +30,6 @@ for (int i = 0; i < pres->get_DigitalSignatures()->get_Count(); ++i)
 
 ## See Also
 
-* Class [IDigitalSignature](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDigitalSignature](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system.xml/xmlnode/prependchild/
 ---
-## XmlNode::PrependChild([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../)\>) method
+## XmlNode::PrependChild(SharedPtr\<XmlNode\>) method
 
 
 Adds the specified node to the beginning of the list of child nodes for this node.
@@ -28,8 +28,7 @@ The node added.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../)
-* Class [XmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

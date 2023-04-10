@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.net/httpwebrequest/set_allowreadstreambuffering/
 ---
-## HttpWebRequest::set_AllowReadStreamBuffering(**bool**) method
+## HttpWebRequest::set_AllowReadStreamBuffering(bool) method
 
 
 Sets a value indicates if the data received from the resource must be buffered.
@@ -24,6 +24,6 @@ virtual void System::Net::HttpWebRequest::set_AllowReadStreamBuffering(bool valu
 
 ## See Also
 
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

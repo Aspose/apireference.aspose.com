@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.slides.charts/datalabel/datalabel/
 ---
-## DataLabel::DataLabel([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataPoint](../../ichartdatapoint/)\>) constructor
+## DataLabel::DataLabel(System::SharedPtr\<IChartDataPoint\>) constructor
 
 
 Creates a new instance of [DataLabel](../) class.
@@ -24,8 +24,8 @@ Aspose::Slides::Charts::DataLabel::DataLabel(System::SharedPtr<IChartDataPoint> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataPoint](../../ichartdatapoint/)
-* Class [DataLabel](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataPoint](../ichartdatapoint/)
+* Class [DataLabel](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

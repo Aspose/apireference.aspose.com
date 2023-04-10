@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system/stringcomparer/gethashcode/
 ---
-## StringComparer::GetHashCode([String](../../string/)) const method
+## StringComparer::GetHashCode(String) const method
 
 
 Gets string's hash code.
@@ -28,7 +28,7 @@ Hash code calculated for **obj**.
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [StringComparer](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [StringComparer](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

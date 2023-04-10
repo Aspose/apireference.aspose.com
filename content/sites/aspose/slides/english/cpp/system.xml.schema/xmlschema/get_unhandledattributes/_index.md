@@ -22,9 +22,9 @@ An array of qualified [XmlAttribute](../../../system.xml/xmlattribute/) objects 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlAttribute](../../../system.xml/xmlattribute/)
-* Class [XmlSchema](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlAttribute](../../system.xml/xmlattribute/)
+* Class [XmlSchema](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ The [XmlSchemaType](../../xmlschematype/) for the validated XML element or attri
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaType](../../xmlschematype/)
-* Class [XmlAtomicValue](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaType](../xmlschematype/)
+* Class [XmlAtomicValue](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

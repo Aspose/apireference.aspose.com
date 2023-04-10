@@ -22,8 +22,8 @@ The stream that is used for sending and receiving data.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NetworkStream](../../networkstream/)
-* Class [TcpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [NetworkStream](../networkstream/)
+* Class [TcpClient](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

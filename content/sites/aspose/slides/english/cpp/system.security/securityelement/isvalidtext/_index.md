@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.security/securityelement/isvalidtext/
 ---
-## SecurityElement::IsValidText(const [String](../../../system/string/)\&) method
+## SecurityElement::IsValidText(const String\&) method
 
 
 Checks if text is valid.
@@ -28,7 +28,7 @@ True if text is valid, false otherwise.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

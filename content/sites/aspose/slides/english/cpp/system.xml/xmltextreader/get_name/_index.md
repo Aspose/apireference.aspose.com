@@ -37,7 +37,7 @@ The name returned is dependent on the [XmlTextReader::get_NodeType](../get_nodet
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

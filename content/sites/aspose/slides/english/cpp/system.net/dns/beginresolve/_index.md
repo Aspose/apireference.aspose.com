@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net/dns/beginresolve/
 ---
-## Dns::BeginResolve([String](../../../system/string/), [AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## Dns::BeginResolve(String, AsyncCallback, System::SharedPtr\<Object\>) method
 
 
 Initiates an asynchronous operation to create a new IPHostEntry-class instance using the specified host name.
@@ -30,11 +30,11 @@ An [IAsyncResult](../../../system/iasyncresult/) object representing the initiat
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Class [String](../../../system/string/)
-* Typedef [AsyncCallback](../../../system/asynccallback/)
-* Class [Object](../../../system/object/)
-* Class [Dns](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Typedef [AsyncCallback](../../system/asynccallback/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [String](../../system/string/)
+* Class [Object](../../system/object/)
+* Class [Dns](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

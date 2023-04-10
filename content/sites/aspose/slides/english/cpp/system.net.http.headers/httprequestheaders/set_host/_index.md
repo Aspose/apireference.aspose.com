@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net.http.headers/httprequestheaders/set_host/
 ---
-## HttpRequestHeaders::set_Host([String](../../../system/string/)) method
+## HttpRequestHeaders::set_Host(String) method
 
 
 Sets a value of the 'Host' header.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_Host(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

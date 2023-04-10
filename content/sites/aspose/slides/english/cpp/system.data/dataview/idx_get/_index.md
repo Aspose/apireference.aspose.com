@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.data/dataview/idx_get/
 ---
-## DataView::idx_get(const **int32_t**) method
+## DataView::idx_get(const int32_t) method
 
 
 Gets row views.
@@ -28,8 +28,8 @@ System::SharedPtr<System::Data::DataRowView> System::Data::DataView::idx_get(con
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DataRowView](../../datarowview/)
-* Class [DataView](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DataRowView](../datarowview/)
+* Class [DataView](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

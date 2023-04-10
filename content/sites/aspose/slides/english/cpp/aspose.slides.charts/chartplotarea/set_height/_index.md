@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/chartplotarea/set_height/
 ---
-## ChartPlotArea::set_Height(**float**) method
+## ChartPlotArea::set_Height(float) method
 
 
 Sets the height of a plot area bounding box as a fraction of the height of the chart (from 0 to 1). Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartPlotArea::set_Height(float value) override
 
 ## See Also
 
-* Class [ChartPlotArea](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartPlotArea](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

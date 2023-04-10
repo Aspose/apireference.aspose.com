@@ -17,6 +17,6 @@ void System::Security::Cryptography::ECParameters::Validate() const
 
 ## See Also
 
-* Struct [ECParameters](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [ECParameters](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

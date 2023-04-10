@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISequence> Aspose::Slides::Animation::IEffect::get_Seq
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISequence](../../isequence/)
-* Class [IEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISequence](../isequence/)
+* Class [IEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

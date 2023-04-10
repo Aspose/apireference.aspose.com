@@ -17,7 +17,7 @@ System::ArrayPtr<float> Aspose::Slides::LightRig::GetRotation() override
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [LightRig](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [LightRig](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

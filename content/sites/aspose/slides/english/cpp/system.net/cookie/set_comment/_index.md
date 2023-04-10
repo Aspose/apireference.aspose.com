@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net/cookie/set_comment/
 ---
-## Cookie::set_Comment([String](../../../system/string/)) method
+## Cookie::set_Comment(String) method
 
 
 Sets the 'Comment' attribute's value.
@@ -24,7 +24,7 @@ void System::Net::Cookie::set_Comment(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

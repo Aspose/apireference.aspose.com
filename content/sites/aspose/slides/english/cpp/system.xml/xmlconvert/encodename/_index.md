@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.xml/xmlconvert/encodename/
 ---
-## XmlConvert::EncodeName(const [String](../../../system/string/)\&) method
+## XmlConvert::EncodeName(const String\&) method
 
 
 Converts the name to a valid XML name.
@@ -28,7 +28,7 @@ The name with any invalid characters replaced by an escape string.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlConvert](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

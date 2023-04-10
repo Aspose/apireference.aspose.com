@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISlideHeaderFooterManager> Aspose::Slides::ISlide::get
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISlideHeaderFooterManager](../../islideheaderfootermanager/)
-* Class [ISlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISlideHeaderFooterManager](../islideheaderfootermanager/)
+* Class [ISlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

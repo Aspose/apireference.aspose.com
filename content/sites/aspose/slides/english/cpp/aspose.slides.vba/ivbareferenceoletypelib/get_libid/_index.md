@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Vba::IVbaReferenceOleTypeLib::get_Libid()
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IVbaReferenceOleTypeLib](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IVbaReferenceOleTypeLib](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

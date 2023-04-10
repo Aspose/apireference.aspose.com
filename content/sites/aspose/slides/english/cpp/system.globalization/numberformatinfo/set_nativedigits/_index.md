@@ -6,7 +6,7 @@ type: docs
 weight: 703
 url: /cpp/system.globalization/numberformatinfo/set_nativedigits/
 ---
-## NumberFormatInfo::set_NativeDigits(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
+## NumberFormatInfo::set_NativeDigits(const ArrayPtr\<String\>\&) method
 
 
 Sets digits symbols (0 through 9).
@@ -24,8 +24,8 @@ void System::Globalization::NumberFormatInfo::set_NativeDigits(const ArrayPtr<St
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

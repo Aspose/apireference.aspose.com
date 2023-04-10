@@ -17,6 +17,6 @@ System::Security::Cryptography::Xml::DataObject::DataObject()
 
 ## See Also
 
-* Class [DataObject](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DataObject](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

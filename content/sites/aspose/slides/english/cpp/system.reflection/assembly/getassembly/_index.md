@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.reflection/assembly/getassembly/
 ---
-## Assembly::GetAssembly(const [TypeInfo](../../../system/typeinfo/)\&) method
+## Assembly::GetAssembly(const TypeInfo\&) method
 
 
 Gets assembly defining specific type.
@@ -28,9 +28,8 @@ Pointer to assembly defining specific type.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Assembly](../)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Assembly](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Assembly](./)
+* Class [TypeInfo](../../system/typeinfo/)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

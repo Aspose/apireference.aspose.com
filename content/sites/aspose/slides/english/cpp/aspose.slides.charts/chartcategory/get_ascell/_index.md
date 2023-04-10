@@ -17,8 +17,8 @@ System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::ChartCategory::get_AsC
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataCell](../../ichartdatacell/)
-* Class [ChartCategory](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataCell](../ichartdatacell/)
+* Class [ChartCategory](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

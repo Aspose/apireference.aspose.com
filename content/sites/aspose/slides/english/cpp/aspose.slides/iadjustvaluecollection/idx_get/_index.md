@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/iadjustvaluecollection/idx_get/
 ---
-## IAdjustValueCollection::idx_get(**int32_t**) method
+## IAdjustValueCollection::idx_get(int32_t) method
 
 
 Returns adjustment by index.
@@ -28,8 +28,8 @@ virtual System::SharedPtr<IAdjustValue> Aspose::Slides::IAdjustValueCollection::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAdjustValue](../../iadjustvalue/)
-* Class [IAdjustValueCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAdjustValue](../iadjustvalue/)
+* Class [IAdjustValueCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

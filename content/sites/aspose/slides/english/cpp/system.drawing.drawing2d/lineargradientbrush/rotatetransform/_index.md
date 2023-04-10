@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/rotatetransform/
 ---
-## LinearGradientBrush::RotateTransform(**float**, [MatrixOrder](../../matrixorder/)) method
+## LinearGradientBrush::RotateTransform(float, MatrixOrder) method
 
 
 Rotates current object's transform matrix.
@@ -25,7 +25,7 @@ void System::Drawing::Drawing2D::LinearGradientBrush::RotateTransform(float angl
 
 ## See Also
 
-* Enum [MatrixOrder](../../matrixorder/)
-* Class [LinearGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MatrixOrder](../matrixorder/)
+* Class [LinearGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

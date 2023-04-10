@@ -22,7 +22,7 @@ The public identifier on the notation. If there is no public identifier, **nullp
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNotation](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNotation](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

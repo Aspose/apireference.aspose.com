@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_modificationdate/
 ---
-## ContentDispositionHeaderValue::set_ModificationDate([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
+## ContentDispositionHeaderValue::set_ModificationDate(Nullable\<DateTimeOffset\>) method
 
 
 Sets the file modification date.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::ContentDispositionHeaderValue::set_Modification
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [DateTimeOffset](../../../system/datetimeoffset/)
-* Class [ContentDispositionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [DateTimeOffset](../../system/datetimeoffset/)
+* Class [ContentDispositionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

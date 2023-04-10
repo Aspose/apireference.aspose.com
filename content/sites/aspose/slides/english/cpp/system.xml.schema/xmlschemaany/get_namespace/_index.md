@@ -22,7 +22,7 @@ Namespaces for elements that are available for use. The default is **##any**. Op
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaAny](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaAny](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.slideshow/slideshowtransition/set_advanceafter/
 ---
-## SlideShowTransition::set_AdvanceAfter(**bool**) method
+## SlideShowTransition::set_AdvanceAfter(bool) method
 
 
 This attribute specifies if the slideshow will move to the next slide after a certain time. Write **bool**.
@@ -33,6 +33,6 @@ if (slideTransition->get_AdvanceAfter())
 
 ## See Also
 
-* Class [SlideShowTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideShowTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

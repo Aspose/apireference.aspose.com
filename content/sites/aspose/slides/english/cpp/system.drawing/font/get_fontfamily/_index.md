@@ -17,8 +17,8 @@ SharedPtr<FontFamily> System::Drawing::Font::get_FontFamily()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FontFamily](../../fontfamily/)
-* Class [Font](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [FontFamily](../fontfamily/)
+* Class [Font](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

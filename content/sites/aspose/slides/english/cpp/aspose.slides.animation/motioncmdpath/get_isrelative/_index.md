@@ -17,6 +17,6 @@ bool Aspose::Slides::Animation::MotionCmdPath::get_IsRelative() override
 
 ## See Also
 
-* Class [MotionCmdPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MotionCmdPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

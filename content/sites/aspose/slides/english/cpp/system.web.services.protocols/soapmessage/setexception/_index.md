@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/system.web.services.protocols/soapmessage/setexception/
 ---
-## SoapMessage::SetException([SoapException](../../soapexception/)) method
+## SoapMessage::SetException(SoapException) method
 
 
 Sets the exception that is thrown by the XML [Web](../../../system.web/) service method.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapMessage::SetException(SoapException e
 
 ## See Also
 
-* Typedef [SoapException](../../soapexception/)
-* Class [SoapMessage](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SoapException](../soapexception/)
+* Class [SoapMessage](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

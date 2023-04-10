@@ -15,11 +15,6 @@ Reverses elements order of the whole list.
 void System::Collections::Generic::List<T>::Reverse()
 ```
 
-## See Also
-
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## List::Reverse(int, int) method
 
 
@@ -39,6 +34,6 @@ void System::Collections::Generic::List<T>::Reverse(int index, int count)
 
 ## See Also
 
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

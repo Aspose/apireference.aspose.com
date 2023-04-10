@@ -22,9 +22,8 @@ An Collections::IEqualityComparer used for equality comparison of [XPathNavigato
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEqualityComparer](../../../system.collections.generic/iequalitycomparer/)
-* Class [XPathNavigator](../)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEqualityComparer](../../system.collections.generic/iequalitycomparer/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

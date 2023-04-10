@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/chartseriesgroup/
 Represents group of series.
 
 ```cpp
-class ChartSeriesGroup : public Aspose::Slides::Charts::IChartSeriesGroup,
-                         public Aspose::Slides::IDOMObject
+class ChartSeriesGroup : public Aspose::Slides::Charts::IChartSeriesGroup,                         public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

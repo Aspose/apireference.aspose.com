@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_centercolor/
 ---
-## PathGradientBrush::set_CenterColor([Color](../../../system.drawing/color/)) method
+## PathGradientBrush::set_CenterColor(Color) method
 
 
 Sets a color that is at the center of the path filled by the current object.
@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_CenterColor(Color value)
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

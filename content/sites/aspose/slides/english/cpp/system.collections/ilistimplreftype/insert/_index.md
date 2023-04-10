@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.collections/ilistimplreftype/insert/
 ---
-## IListImplRefType::Insert(int, [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## IListImplRefType::Insert(int, System::SharedPtr\<System::Object\>) method
 
 
 Inserts element into specified position, shifting other elements.
@@ -25,8 +25,8 @@ virtual void System::Collections::IListImplRefType<T>::Insert(int index, System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IListImplRefType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IListImplRefType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

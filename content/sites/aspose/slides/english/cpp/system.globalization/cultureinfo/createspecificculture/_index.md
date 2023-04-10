@@ -6,7 +6,7 @@ type: docs
 weight: 573
 url: /cpp/system.globalization/cultureinfo/createspecificculture/
 ---
-## CultureInfo::CreateSpecificCulture(const [String](../../../system/string/)\&) method
+## CultureInfo::CreateSpecificCulture(const String\&) method
 
 
 Creates culture by name.
@@ -28,8 +28,8 @@ Culture object.
 
 ## See Also
 
-* Typedef [CultureInfoPtr](../../cultureinfoptr/)
-* Class [String](../../../system/string/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [CultureInfoPtr](../cultureinfoptr/)
+* Class [String](../../system/string/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

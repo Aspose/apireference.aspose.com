@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.security.cryptography/tobase64transform/transformfinalblock/
 ---
-## ToBase64Transform::TransformFinalBlock([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**) method
+## ToBase64Transform::TransformFinalBlock(System::ArrayPtr\<uint8_t\>, int32_t, int32_t) method
 
 
 Processes last block of data and calculates output value.
@@ -30,7 +30,7 @@ Output calculated for the whole input sequence.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [ToBase64Transform](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [ToBase64Transform](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

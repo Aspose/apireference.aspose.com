@@ -17,8 +17,8 @@ static System::ArrayPtr<ImageCodecInfoPtr> System::Drawing::Imaging::ImageCodecI
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [ImageCodecInfoPtr](../../imagecodecinfoptr/)
-* Class [ImageCodecInfo](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [ImageCodecInfoPtr](../imagecodecinfoptr/)
+* Class [ImageCodecInfo](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

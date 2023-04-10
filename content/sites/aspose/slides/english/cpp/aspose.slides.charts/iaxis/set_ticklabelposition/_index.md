@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/aspose.slides.charts/iaxis/set_ticklabelposition/
 ---
-## IAxis::set_TickLabelPosition([TickLabelPositionType](../../ticklabelpositiontype/)) method
+## IAxis::set_TickLabelPosition(TickLabelPositionType) method
 
 
 Represents the position of tick-mark labels on the specified axis. Write [TickLabelPositionType](../../ticklabelpositiontype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_TickLabelPosition(TickLabelPosit
 
 ## See Also
 
-* Enum [TickLabelPositionType](../../ticklabelpositiontype/)
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TickLabelPositionType](../ticklabelpositiontype/)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

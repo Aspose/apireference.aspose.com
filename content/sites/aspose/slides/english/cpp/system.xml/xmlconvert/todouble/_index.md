@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/system.xml/xmlconvert/todouble/
 ---
-## XmlConvert::ToDouble([String](../../../system/string/)) method
+## XmlConvert::ToDouble(String) method
 
 
 Converts the [String](../../../system/string/) to a [Double](../../../system/double/) equivalent.
@@ -28,7 +28,7 @@ A [Double](../../../system/double/) equivalent of the string.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlConvert](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

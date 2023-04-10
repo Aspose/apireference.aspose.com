@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/imotioncmdpath/set_pointstype/
 ---
-## IMotionCmdPath::set_PointsType([MotionPathPointsType](../../motionpathpointstype/)) method
+## IMotionCmdPath::set_PointsType(MotionPathPointsType) method
 
 
 Specifies command points type Write [MotionPathPointsType](../../motionpathpointstype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IMotionCmdPath::set_PointsType(MotionPat
 
 ## See Also
 
-* Enum [MotionPathPointsType](../../motionpathpointstype/)
-* Class [IMotionCmdPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MotionPathPointsType](../motionpathpointstype/)
+* Class [IMotionCmdPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

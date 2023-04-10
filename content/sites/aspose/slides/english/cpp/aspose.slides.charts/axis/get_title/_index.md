@@ -17,8 +17,8 @@ System::SharedPtr<IChartTitle> Aspose::Slides::Charts::Axis::get_Title() overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartTitle](../../icharttitle/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartTitle](../icharttitle/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml/xmlreadersettings/set_linenumberoffset/
 ---
-## XmlReaderSettings::set_LineNumberOffset(**int32_t**) method
+## XmlReaderSettings::set_LineNumberOffset(int32_t) method
 
 
 Sets line number offset of the [XmlReader](../../xmlreader/) object.
@@ -24,6 +24,6 @@ void System::Xml::XmlReaderSettings::set_LineNumberOffset(int32_t value)
 
 ## See Also
 
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

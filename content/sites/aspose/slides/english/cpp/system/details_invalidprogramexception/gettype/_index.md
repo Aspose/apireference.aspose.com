@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_InvalidProgramException::GetType() cons
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [Details_InvalidProgramException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [Details_InvalidProgramException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

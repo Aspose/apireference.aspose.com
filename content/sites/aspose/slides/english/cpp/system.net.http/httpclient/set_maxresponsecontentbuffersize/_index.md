@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net.http/httpclient/set_maxresponsecontentbuffersize/
 ---
-## HttpClient::set_MaxResponseContentBufferSize(**int64_t**) method
+## HttpClient::set_MaxResponseContentBufferSize(int64_t) method
 
 
 Sets the maximum number of bytes of response content.
@@ -24,6 +24,6 @@ void System::Net::Http::HttpClient::set_MaxResponseContentBufferSize(int64_t val
 
 ## See Also
 
-* Class [HttpClient](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpClient](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

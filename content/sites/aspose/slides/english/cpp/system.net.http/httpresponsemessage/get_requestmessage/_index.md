@@ -22,8 +22,8 @@ The HTTP request message.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpRequestMessage](../../httprequestmessage/)
-* Class [HttpResponseMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpRequestMessage](../httprequestmessage/)
+* Class [HttpResponseMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

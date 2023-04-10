@@ -28,6 +28,6 @@ int32_t blocksCount = blockCollection->get_Count();
 
 ## See Also
 
-* Class [IMathBlockCollection](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathBlockCollection](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

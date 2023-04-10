@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathfraction/
 Specifies the fraction object, consisting of a numerator and denominator separated by a fraction bar. The fraction bar can be horizontal or diagonal, depending on the fraction properties. The fraction object is also used to represent the stack function, which places one element above another, with no fraction bar.
 
 ```cpp
-class MathFraction : public Aspose::Slides::MathText::MathElementBase,
-                     public Aspose::Slides::MathText::IMathFraction,
-                     public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathFraction : public Aspose::Slides::MathText::MathElementBase,                     public Aspose::Slides::MathText::IMathFraction,                     public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

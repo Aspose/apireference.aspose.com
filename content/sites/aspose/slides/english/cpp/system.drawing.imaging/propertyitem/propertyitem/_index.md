@@ -17,6 +17,6 @@ System::Drawing::Imaging::PropertyItem::PropertyItem()
 
 ## See Also
 
-* Class [PropertyItem](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PropertyItem](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

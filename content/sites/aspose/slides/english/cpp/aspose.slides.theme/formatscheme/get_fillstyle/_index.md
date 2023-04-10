@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.theme/formatscheme/get_fillstyle/
 ---
-## FormatScheme::get_FillStyle(**int32_t**) method
+## FormatScheme::get_FillStyle(int32_t) method
 
 
 Returns the theme-defined fill style at the specified index. Read-only [Aspose::Slides::IFillFormat](../../../aspose.slides/ifillformat/).
@@ -17,8 +17,8 @@ System::SharedPtr<IFillFormat> Aspose::Slides::Theme::FormatScheme::get_FillStyl
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillFormat](../../../aspose.slides/ifillformat/)
-* Class [FormatScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillFormat](../../aspose.slides/ifillformat/)
+* Class [FormatScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

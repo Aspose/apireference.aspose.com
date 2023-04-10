@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.net/ipaddress/equals/
 ---
-## IPAddress::Equals([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## IPAddress::Equals(System::SharedPtr\<Object\>) method
 
 
 Compares objects using C# [Object.Equals](../../../system/object/equals/) semantics.
@@ -28,8 +28,8 @@ True if objects are considered equal and false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IPAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IPAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

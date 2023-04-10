@@ -6,7 +6,7 @@ type: docs
 weight: 2549
 url: /cpp/system/get_pointer/
 ---
-## System::get_pointer([System::SmartPtr](../smartptr/)\<T\> const\&) function
+## System::get_pointer(System::SmartPtr\<T\> const\&) function
 
 
 Gets referenced object of smart pointer.
@@ -34,6 +34,6 @@ Raw pointer to object referenced by smart pointer passed.
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

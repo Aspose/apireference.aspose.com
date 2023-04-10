@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.effects/ialphafloor/
 Represents an Alpha Floor effect. Alpha (opacity) values less than 100% are changed to zero. In other words, anything partially transparent becomes fully transparent.
 
 ```cpp
-class IAlphaFloor : public virtual Aspose::Slides::Effects::IImageTransformOperation,
-                    public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaFloorEffectiveData>>
+class IAlphaFloor : public virtual Aspose::Slides::Effects::IImageTransformOperation,                    public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaFloorEffectiveData>>
 ```
 
 ## Methods

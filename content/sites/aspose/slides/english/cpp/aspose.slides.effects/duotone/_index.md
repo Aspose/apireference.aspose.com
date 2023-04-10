@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.effects/duotone/
 Represents a [Duotone](./) effect. For each pixel, combines Color1 and Color2 through a linear interpolation to determine the new color for that pixel.
 
 ```cpp
-class Duotone : public Aspose::Slides::Effects::ImageTransformOperation,
-                public Aspose::Slides::Effects::IDuotone,
-                public Aspose::Slides::Effects::IVisualEffect
+class Duotone : public Aspose::Slides::Effects::ImageTransformOperation,                public Aspose::Slides::Effects::IDuotone,                public Aspose::Slides::Effects::IVisualEffect
 ```
 
 ## Methods

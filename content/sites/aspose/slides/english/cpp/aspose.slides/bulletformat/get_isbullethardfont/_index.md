@@ -17,7 +17,7 @@ NullableBool Aspose::Slides::BulletFormat::get_IsBulletHardFont() override
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [BulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [BulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

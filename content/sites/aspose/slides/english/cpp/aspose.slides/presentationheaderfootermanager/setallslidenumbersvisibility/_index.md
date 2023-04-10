@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/presentationheaderfootermanager/setallslidenumbersvisibility/
 ---
-## PresentationHeaderFooterManager::SetAllSlideNumbersVisibility(**bool**) method
+## PresentationHeaderFooterManager::SetAllSlideNumbersVisibility(bool) method
 
 
 Changes all page number placeholders visibility, including master slides, layout slides, slides, notes master, notes slides and handout master.
@@ -24,6 +24,6 @@ void Aspose::Slides::PresentationHeaderFooterManager::SetAllSlideNumbersVisibili
 
 ## See Also
 
-* Class [PresentationHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PresentationHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

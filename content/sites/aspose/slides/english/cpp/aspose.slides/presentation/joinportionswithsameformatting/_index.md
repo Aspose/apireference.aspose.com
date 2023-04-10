@@ -17,6 +17,6 @@ void Aspose::Slides::Presentation::JoinPortionsWithSameFormatting() override
 
 ## See Also
 
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

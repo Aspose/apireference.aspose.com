@@ -15,12 +15,7 @@ Constructs a new instance.
 System::Net::Http::Headers::ObjectCollection<T>::ObjectCollection()
 ```
 
-## See Also
-
-* Class [ObjectCollection](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
-## ObjectCollection::ObjectCollection([Action](../../../system/action/)\<T\>) constructor
+## ObjectCollection::ObjectCollection(Action\<T\>) constructor
 
 
 Constructs a new instance.
@@ -38,7 +33,7 @@ System::Net::Http::Headers::ObjectCollection<T>::ObjectCollection(Action<T> vali
 
 ## See Also
 
-* Typedef [Action](../../../system/action/)
-* Class [ObjectCollection](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [Action](../../system/action/)
+* Class [ObjectCollection](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -18,6 +18,6 @@ virtual void Aspose::Slides::IBulletFormat::ApplyDefaultParagraphIndentsShifts()
 
 ## See Also
 
-* Class [IBulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

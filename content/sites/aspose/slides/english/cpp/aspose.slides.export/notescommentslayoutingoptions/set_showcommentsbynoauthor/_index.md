@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.export/notescommentslayoutingoptions/set_showcommentsbynoauthor/
 ---
-## NotesCommentsLayoutingOptions::set_ShowCommentsByNoAuthor(**bool**) method
+## NotesCommentsLayoutingOptions::set_ShowCommentsByNoAuthor(bool) method
 
 
 Sets the visibility of comments that do not have an author. If true then comments will be displayed. (Applies only if comments are displayed).
@@ -21,6 +21,6 @@ void Aspose::Slides::Export::NotesCommentsLayoutingOptions::set_ShowCommentsByNo
 Default value is **false**. 
 ## See Also
 
-* Class [NotesCommentsLayoutingOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NotesCommentsLayoutingOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

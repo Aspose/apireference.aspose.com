@@ -17,6 +17,6 @@ bool Aspose::Slides::Export::TiffOptions::get_ShowHiddenSlides() override
 
 ## See Also
 
-* Class [TiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -21,6 +21,6 @@ bool Aspose::Slides::Export::PdfOptions::get_EmbedFullFonts() override
 Default is **false**. 
 ## See Also
 
-* Class [PdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

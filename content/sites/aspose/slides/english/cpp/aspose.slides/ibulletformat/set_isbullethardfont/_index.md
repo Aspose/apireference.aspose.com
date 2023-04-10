@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides/ibulletformat/set_isbullethardfont/
 ---
-## IBulletFormat::set_IsBulletHardFont([NullableBool](../../nullablebool/)) method
+## IBulletFormat::set_IsBulletHardFont(NullableBool) method
 
 
 Determines whether the bullet has own font or inherits it from the first portion in the paragraph. **[NullableBool::True](../../nullablebool/)** if bullet has own font and **[NullableBool::False](../../nullablebool/)** if bullet inherits font from the first portion in the paragraph. Write [NullableBool](../../nullablebool/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBulletFormat::set_IsBulletHardFont(NullableBool va
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [IBulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [IBulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

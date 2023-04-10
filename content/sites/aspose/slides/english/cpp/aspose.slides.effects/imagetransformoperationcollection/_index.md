@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.effects/imagetransformoperationcollection/
 Represents a collection of effects apllied to an image.
 
 ```cpp
-class ImageTransformOperationCollection : public Aspose::Slides::PVIObject,
-                                          public Aspose::Slides::Effects::IImageTransformOperationCollection
+class ImageTransformOperationCollection : public Aspose::Slides::PVIObject,                                          public Aspose::Slides::Effects::IImageTransformOperationCollection
 ```
 
 ## Methods

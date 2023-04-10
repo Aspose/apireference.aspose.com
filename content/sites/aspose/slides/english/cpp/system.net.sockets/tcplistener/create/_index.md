@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.net.sockets/tcplistener/create/
 ---
-## TcpListener::Create(**int32_t**) method
+## TcpListener::Create(int32_t) method
 
 
 Creates a new instance using the specified port number.
@@ -28,8 +28,7 @@ A newly created TcpListener-class instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TcpListener](../)
-* Class [TcpListener](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [TcpListener](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

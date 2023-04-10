@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/imasterlayoutslidecollection/add/
 ---
-## IMasterLayoutSlideCollection::Add([SlideLayoutType](../../slidelayouttype/), [System::String](../../../system/string/)) method
+## IMasterLayoutSlideCollection::Add(SlideLayoutType, System::String) method
 
 
 Adds a new layout slide to the end of the collection.
@@ -34,10 +34,10 @@ Added slide.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILayoutSlide](../../ilayoutslide/)
-* Enum [SlideLayoutType](../../slidelayouttype/)
-* Class [String](../../../system/string/)
-* Class [IMasterLayoutSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SlideLayoutType](../slidelayouttype/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILayoutSlide](../ilayoutslide/)
+* Class [String](../../system/string/)
+* Class [IMasterLayoutSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/graphicalobjectlock/set_groupinglocked/
 ---
-## GraphicalObjectLock::set_GroupingLocked(**bool**) method
+## GraphicalObjectLock::set_GroupingLocked(bool) method
 
 
 Determines whether adding this shape to a group is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::GraphicalObjectLock::set_GroupingLocked(bool value) overrid
 
 ## See Also
 
-* Class [GraphicalObjectLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GraphicalObjectLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

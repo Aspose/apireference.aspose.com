@@ -26,7 +26,7 @@ mathArray->set_RowSpacingRule(MathRowSpacingRule::OneAndAHalfLineGap);
 
 ## See Also
 
-* Enum [MathRowSpacingRule](../../mathrowspacingrule/)
-* Class [MathArray](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathRowSpacingRule](../mathrowspacingrule/)
+* Class [MathArray](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

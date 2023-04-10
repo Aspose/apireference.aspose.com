@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.xml/xmlreadersettings/set_prohibitdtd/
 ---
-## XmlReaderSettings::set_ProhibitDtd(**bool**) method
+## XmlReaderSettings::set_ProhibitDtd(bool) method
 
 
 Sets a value indicating whether to prohibit document type definition (DTD) processing.
@@ -27,6 +27,6 @@ Deprecated
 
 ## See Also
 
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

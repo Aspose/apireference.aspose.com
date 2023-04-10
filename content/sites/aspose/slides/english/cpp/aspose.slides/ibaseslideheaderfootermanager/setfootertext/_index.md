@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/ibaseslideheaderfootermanager/setfootertext/
 ---
-## IBaseSlideHeaderFooterManager::SetFooterText([System::String](../../../system/string/)) method
+## IBaseSlideHeaderFooterManager::SetFooterText(System::String) method
 
 
 Sets text to slide footer placeholder.
@@ -24,7 +24,7 @@ virtual void Aspose::Slides::IBaseSlideHeaderFooterManager::SetFooterText(System
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IBaseSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IBaseSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

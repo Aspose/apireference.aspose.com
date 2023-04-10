@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.globalization/chineselunisolarcalendar/getera/
 ---
-## ChineseLunisolarCalendar::GetEra([DateTime](../../../system/datetime/)) const method
+## ChineseLunisolarCalendar::GetEra(DateTime) const method
 
 
 Gets era for the specified time point.
@@ -28,7 +28,7 @@ Era of the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [ChineseLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [ChineseLunisolarCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

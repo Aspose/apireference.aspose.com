@@ -17,6 +17,6 @@ Aspose::Slides::Animation::RotationEffect::RotationEffect()
 
 ## See Also
 
-* Class [RotationEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RotationEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

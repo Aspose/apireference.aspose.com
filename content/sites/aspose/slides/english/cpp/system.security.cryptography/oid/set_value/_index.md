@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.security.cryptography/oid/set_value/
 ---
-## Oid::set_Value(const [String](../../../system/string/)\&) method
+## Oid::set_Value(const String\&) method
 
 
 Sets object identifier string.
@@ -24,7 +24,7 @@ void System::Security::Cryptography::Oid::set_Value(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Oid](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Oid](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ The QName of the key that this constraint refers to.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaKeyref](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaKeyref](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

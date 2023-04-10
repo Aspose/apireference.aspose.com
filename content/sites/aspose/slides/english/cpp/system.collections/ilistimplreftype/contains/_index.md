@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.collections/ilistimplreftype/contains/
 ---
-## IListImplRefType::Contains([SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) const method
+## IListImplRefType::Contains(SharedPtr\<System::Object\>) const method
 
 
 Checks if item is present in list.
@@ -28,8 +28,8 @@ True if item is found, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IListImplRefType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IListImplRefType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

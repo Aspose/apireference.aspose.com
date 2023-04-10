@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.globalization/calendar/addminutes/
 ---
-## Calendar::AddMinutes([DateTime](../../../system/datetime/), int) const method
+## Calendar::AddMinutes(DateTime, int) const method
 
 
 Adds minutes to time point.
@@ -29,7 +29,7 @@ Time point after calculation is done.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.security/securityelement/searchfortextoftag/
 ---
-## SecurityElement::SearchForTextOfTag(const [String](../../../system/string/)\&) method
+## SecurityElement::SearchForTextOfTag(const String\&) method
 
 
 Gets child tag inner text by tag name.
@@ -28,7 +28,7 @@ String System::Security::SecurityElement::SearchForTextOfTag(const String &tag)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

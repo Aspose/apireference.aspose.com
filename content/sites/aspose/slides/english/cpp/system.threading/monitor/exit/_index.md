@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.threading/monitor/exit/
 ---
-## Monitor::Exit(const [SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>\&) method
+## Monitor::Exit(const SharedPtr\<Object\>\&) method
 
 
 Releases an exclusive lock on the specified object.
@@ -24,8 +24,8 @@ static void System::Threading::Monitor::Exit(const SharedPtr<Object> &obj)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Monitor](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [Monitor](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

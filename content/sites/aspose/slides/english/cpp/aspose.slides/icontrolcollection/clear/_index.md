@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IControlCollection::Clear()=0
 
 ## See Also
 
-* Class [IControlCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IControlCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -21,6 +21,6 @@ bool Aspose::Slides::ProtectionManager::get_IsEncrypted() override
 **true** if presentation was loaded from encrypted file or [Encrypt(String)](../../iprotectionmanager/encrypt/) method was called ; otherwise, **false**. 
 ## See Also
 
-* Class [ProtectionManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ProtectionManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

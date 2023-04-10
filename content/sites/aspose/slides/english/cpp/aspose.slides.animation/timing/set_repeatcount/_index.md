@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/timing/set_repeatcount/
 ---
-## Timing::set_RepeatCount(**float**) method
+## Timing::set_RepeatCount(float) method
 
 
 Describes the number of times the effect should repeat. Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Animation::Timing::set_RepeatCount(float value) override
 
 ## See Also
 
-* Class [Timing](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Timing](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

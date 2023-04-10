@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/hyperlink/
 Represents a hyperlink.
 
 ```cpp
-class Hyperlink : public Aspose::Slides::PVIObject,
-                  public Aspose::Slides::IHyperlink
+class Hyperlink : public Aspose::Slides::PVIObject,                  public Aspose::Slides::IHyperlink
 ```
 
 ## Methods

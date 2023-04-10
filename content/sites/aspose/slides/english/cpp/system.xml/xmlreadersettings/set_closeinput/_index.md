@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/system.xml/xmlreadersettings/set_closeinput/
 ---
-## XmlReaderSettings::set_CloseInput(**bool**) method
+## XmlReaderSettings::set_CloseInput(bool) method
 
 
 Sets a value indicating whether the underlying stream or TextReader should be closed when the reader is closed.
@@ -24,6 +24,6 @@ void System::Xml::XmlReaderSettings::set_CloseInput(bool value)
 
 ## See Also
 
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

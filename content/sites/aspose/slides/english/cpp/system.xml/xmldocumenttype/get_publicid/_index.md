@@ -22,7 +22,7 @@ The public identifier on the DOCTYPE. If there is no public identifier, **nullpt
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDocumentType](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDocumentType](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

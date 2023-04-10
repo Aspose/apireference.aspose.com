@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::IBulletFormat::get_IsBulletHardColor()=0
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [IBulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [IBulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

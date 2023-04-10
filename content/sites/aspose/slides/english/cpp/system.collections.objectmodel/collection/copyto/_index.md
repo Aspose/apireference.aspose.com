@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.collections.objectmodel/collection/copyto/
 ---
-## Collection::CopyTo([ArrayPtr](../../../system/arrayptr/)\<T\>, int) method
+## Collection::CopyTo(ArrayPtr\<T\>, int) method
 
 
 Copies collection elements into existing array elements.
@@ -25,7 +25,7 @@ virtual void System::Collections::ObjectModel::Collection<T>::CopyTo(ArrayPtr<T>
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Collection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Collection](./)
+* Namespace [System::Collections::ObjectModel](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ System::HolderInitializer<T, R>::HolderInitializer(T &holder)
 
 ## See Also
 
-* Struct [HolderInitializer](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [HolderInitializer](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

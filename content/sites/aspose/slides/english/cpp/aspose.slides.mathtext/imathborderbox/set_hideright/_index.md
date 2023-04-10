@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.mathtext/imathborderbox/set_hideright/
 ---
-## IMathBorderBox::set_HideRight(**bool**) method
+## IMathBorderBox::set_HideRight(bool) method
 
 
 Hide Right Edge (default is false) - specifies the hidden or shown state of the right edge of border box.
@@ -26,6 +26,6 @@ borderBox->set_HideRight(true);
 
 ## See Also
 
-* Class [IMathBorderBox](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathBorderBox](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

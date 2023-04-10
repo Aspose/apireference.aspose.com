@@ -22,7 +22,7 @@ The string id. The default is [String::Empty](../../../system/string/empty/). Op
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaAnnotated](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaAnnotated](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

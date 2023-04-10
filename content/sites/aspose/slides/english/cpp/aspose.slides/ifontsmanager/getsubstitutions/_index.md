@@ -38,9 +38,9 @@ for (auto fontSubstitution : System::IterateOver(pres->get_FontsManager()->GetSu
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
-* Class [FontSubstitutionInfo](../../fontsubstitutioninfo/)
-* Class [IFontsManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
+* Class [FontSubstitutionInfo](../fontsubstitutioninfo/)
+* Class [IFontsManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

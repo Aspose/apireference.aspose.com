@@ -17,6 +17,6 @@ virtual int64_t Aspose::Slides::IStreamWrapper::get_Length()=0
 
 ## See Also
 
-* Class [IStreamWrapper](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IStreamWrapper](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/adjustvalue/set_rawvalue/
 ---
-## AdjustValue::set_RawValue(**int64_t**) method
+## AdjustValue::set_RawValue(int64_t) method
 
 
 Sets ajustment value \"as is\". Write **int64_t**.
@@ -17,6 +17,6 @@ void Aspose::Slides::AdjustValue::set_RawValue(int64_t value) override
 
 ## See Also
 
-* Class [AdjustValue](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AdjustValue](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

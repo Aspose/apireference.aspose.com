@@ -21,7 +21,7 @@ System::String Aspose::Slides::Paragraph::get_Text() override
 The text. 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Paragraph](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Paragraph](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

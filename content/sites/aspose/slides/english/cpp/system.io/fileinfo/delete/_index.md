@@ -17,6 +17,6 @@ virtual void System::IO::FileInfo::Delete() override
 
 ## See Also
 
-* Class [FileInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FileInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

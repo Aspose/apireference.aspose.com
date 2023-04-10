@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/chartportionformat/
 This class contains the chart portion formatting properties used in charts. Unlike [IPortionFormatEffectiveData](../../aspose.slides/iportionformateffectivedata/), all properties of this class are writeable.
 
 ```cpp
-class ChartPortionFormat : public Aspose::Slides::BasePortionFormat,
-                           public Aspose::Slides::Charts::IChartPortionFormat
+class ChartPortionFormat : public Aspose::Slides::BasePortionFormat,                           public Aspose::Slides::Charts::IChartPortionFormat
 ```
 
 ## Methods

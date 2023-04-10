@@ -95,8 +95,8 @@ presentation->Save(u"example.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillFormat](../../ifillformat/)
-* Class [Shape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillFormat](../ifillformat/)
+* Class [Shape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

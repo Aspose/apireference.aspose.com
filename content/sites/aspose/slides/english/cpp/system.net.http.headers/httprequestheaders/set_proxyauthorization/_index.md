@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/system.net.http.headers/httprequestheaders/set_proxyauthorization/
 ---
-## HttpRequestHeaders::set_ProxyAuthorization([System::SharedPtr](../../../system/sharedptr/)\<[AuthenticationHeaderValue](../../authenticationheadervalue/)\>) method
+## HttpRequestHeaders::set_ProxyAuthorization(System::SharedPtr\<AuthenticationHeaderValue\>) method
 
 
 Sets a value of the 'Proxy-Authorization' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_ProxyAuthorization(Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AuthenticationHeaderValue](../../authenticationheadervalue/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [AuthenticationHeaderValue](../authenticationheadervalue/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

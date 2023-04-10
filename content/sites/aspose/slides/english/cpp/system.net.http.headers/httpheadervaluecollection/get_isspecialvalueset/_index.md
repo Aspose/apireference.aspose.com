@@ -22,6 +22,6 @@ A value that indicates if the current collection contains a \"special value\".
 
 ## See Also
 
-* Class [HttpHeaderValueCollection](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpHeaderValueCollection](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

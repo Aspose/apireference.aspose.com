@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/sectioncollection/indexof/
 ---
-## SectionCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
+## SectionCollection::IndexOf(System::SharedPtr\<ISection\>) method
 
 
 Returns an index of the specified section in the collection.
@@ -28,8 +28,8 @@ Index of a section or -1 if section not from this collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISection](../../isection/)
-* Class [SectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISection](../isection/)
+* Class [SectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

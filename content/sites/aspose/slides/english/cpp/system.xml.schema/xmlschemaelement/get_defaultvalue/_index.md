@@ -22,7 +22,7 @@ The default value for the element. The default is **nullptr**. Optional.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaElement](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaElement](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

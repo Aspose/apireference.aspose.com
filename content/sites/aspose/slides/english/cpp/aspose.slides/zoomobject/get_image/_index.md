@@ -30,8 +30,8 @@ zoomFrame->set_Image(image);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPPImage](../../ippimage/)
-* Class [ZoomObject](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPPImage](../ippimage/)
+* Class [ZoomObject](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

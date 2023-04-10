@@ -17,6 +17,6 @@ constexpr int System::DateTimeOffset::get_Second() const
 
 ## See Also
 
-* Class [DateTimeOffset](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTimeOffset](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

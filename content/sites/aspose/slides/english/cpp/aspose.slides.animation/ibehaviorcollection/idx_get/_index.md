@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/ibehaviorcollection/idx_get/
 ---
-## IBehaviorCollection::idx_get(**int32_t**) method
+## IBehaviorCollection::idx_get(int32_t) method
 
 
 Returns a behavior at the specified index.
@@ -28,8 +28,8 @@ virtual System::SharedPtr<IBehavior> Aspose::Slides::Animation::IBehaviorCollect
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBehavior](../../ibehavior/)
-* Class [IBehaviorCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBehavior](../ibehavior/)
+* Class [IBehaviorCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

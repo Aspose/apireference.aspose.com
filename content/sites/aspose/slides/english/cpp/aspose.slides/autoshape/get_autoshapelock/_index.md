@@ -17,8 +17,8 @@ System::SharedPtr<IAutoShapeLock> Aspose::Slides::AutoShape::get_AutoShapeLock()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAutoShapeLock](../../iautoshapelock/)
-* Class [AutoShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAutoShapeLock](../iautoshapelock/)
+* Class [AutoShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

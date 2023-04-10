@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.xml/xmlsignificantwhitespace/clonenode/
 ---
-## XmlSignificantWhitespace::CloneNode(**bool**) method
+## XmlSignificantWhitespace::CloneNode(bool) method
 
 
 Creates a duplicate of this node.
@@ -28,8 +28,8 @@ The cloned node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlSignificantWhitespace](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlSignificantWhitespace](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

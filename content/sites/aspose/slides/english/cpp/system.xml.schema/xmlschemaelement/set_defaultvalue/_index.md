@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemaelement/set_defaultvalue/
 ---
-## XmlSchemaElement::set_DefaultValue(const [String](../../../system/string/)\&) method
+## XmlSchemaElement::set_DefaultValue(const String\&) method
 
 
 Sets the default value of the element if its content is a simple type or content of the element is **textOnly**.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaElement::set_DefaultValue(const String &value
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaElement](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaElement](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IReflection::get_StartPosAlpha()=0
 
 ## See Also
 
-* Class [IReflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IReflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

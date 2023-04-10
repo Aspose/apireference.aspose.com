@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.web.services.protocols/webclientprotocol/set_usedefaultcredentials/
 ---
-## WebClientProtocol::set_UseDefaultCredentials(**bool**) method
+## WebClientProtocol::set_UseDefaultCredentials(bool) method
 
 
 Sets a value that indicates if the 'Credential' property is equal to the 'DefaultCredentials' property.
@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::WebClientProtocol::set_UseDefaultCredenti
 
 ## See Also
 
-* Class [WebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

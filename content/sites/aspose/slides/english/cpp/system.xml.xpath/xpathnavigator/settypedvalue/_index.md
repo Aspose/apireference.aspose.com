@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.xml.xpath/xpathnavigator/settypedvalue/
 ---
-## XPathNavigator::SetTypedValue([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## XPathNavigator::SetTypedValue(SharedPtr\<Object\>) method
 
 
 Sets the typed value of the current node.
@@ -24,8 +24,8 @@ virtual void System::Xml::XPath::XPathNavigator::SetTypedValue(SharedPtr<Object>
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ A byte array representing current object.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [SortKey](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [SortKey](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.runtime.serialization/formatterconverter/tosbyte/
 ---
-## FormatterConverter::ToSByte([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## FormatterConverter::ToSByte(System::SharedPtr\<Object\>) method
 
 
 Converts a value to a **int8_t**.
@@ -28,8 +28,8 @@ The converted value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [FormatterConverter](../)
-* Namespace [System::Runtime::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [FormatterConverter](./)
+* Namespace [System::Runtime::Serialization](../)
+* Library [Aspose.Slides](../../)

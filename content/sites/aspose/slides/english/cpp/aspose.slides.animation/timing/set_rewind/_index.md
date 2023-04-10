@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides.animation/timing/set_rewind/
 ---
-## Timing::set_Rewind(**bool**) method
+## Timing::set_Rewind(bool) method
 
 
 This attribute specifies if the effect will rewind when done playing. Write **bool**.
@@ -34,6 +34,6 @@ effect->get_Timing()->set_Rewind(true);
 
 ## See Also
 
-* Class [Timing](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Timing](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

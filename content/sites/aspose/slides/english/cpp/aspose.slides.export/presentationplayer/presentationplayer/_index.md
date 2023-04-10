@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.export/presentationplayer/presentationplayer/
 ---
-## PresentationPlayer::PresentationPlayer([System::SharedPtr](../../../system/sharedptr/)\<[PresentationAnimationsGenerator](../../presentationanimationsgenerator/)\>, **double**) constructor
+## PresentationPlayer::PresentationPlayer(System::SharedPtr\<PresentationAnimationsGenerator\>, double) constructor
 
 
 Creates new instance of the [PresentationPlayer](../).
@@ -25,8 +25,8 @@ Aspose::Slides::Export::PresentationPlayer::PresentationPlayer(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PresentationAnimationsGenerator](../../presentationanimationsgenerator/)
-* Class [PresentationPlayer](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [PresentationAnimationsGenerator](../presentationanimationsgenerator/)
+* Class [PresentationPlayer](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

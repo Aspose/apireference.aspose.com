@@ -27,10 +27,6 @@ template<class T,typename Dummy> std::true_type System::Collections::Generic::De
 
 Value of std::true_type if operator == is present and false otherwise.
 
-## See Also
-
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::HasOperatorEqualsHelper(void *, void *) function
 
 
@@ -47,5 +43,5 @@ Value of std::true_type if operator == is present and false otherwise.
 
 ## See Also
 
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System::Collections::Generic::Details](./)
+* Library [Aspose.Slides](../)

@@ -28,6 +28,6 @@ Reference System::Collections::BitArray::operator[](int index)
 
 ## See Also
 
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitArray](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

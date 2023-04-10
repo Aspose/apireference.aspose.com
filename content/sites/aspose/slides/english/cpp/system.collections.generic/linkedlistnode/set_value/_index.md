@@ -24,6 +24,6 @@ void System::Collections::Generic::LinkedListNode<T>::set_Value(const T &value)
 
 ## See Also
 
-* Class [LinkedListNode](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LinkedListNode](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

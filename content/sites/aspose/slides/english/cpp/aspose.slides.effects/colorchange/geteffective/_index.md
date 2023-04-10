@@ -22,8 +22,8 @@ A [IColorChangeEffectiveData](../../icolorchangeeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorChangeEffectiveData](../../icolorchangeeffectivedata/)
-* Class [ColorChange](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorChangeEffectiveData](../icolorchangeeffectivedata/)
+* Class [ColorChange](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

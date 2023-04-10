@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.smartart/smartart/set_layout/
 ---
-## SmartArt::set_Layout([SmartArtLayoutType](../../smartartlayouttype/)) method
+## SmartArt::set_Layout(SmartArtLayoutType) method
 
 
 Sets layout of the [SmartArt](../) object. Write [SmartArtLayoutType](../../smartartlayouttype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::SmartArt::SmartArt::set_Layout(SmartArtLayoutType value) ov
 
 ## See Also
 
-* Enum [SmartArtLayoutType](../../smartartlayouttype/)
-* Class [SmartArt](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SmartArtLayoutType](../smartartlayouttype/)
+* Class [SmartArt](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

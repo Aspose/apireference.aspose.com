@@ -21,6 +21,6 @@ int64_t System::Net::FtpWebResponse::get_ContentLength() override
 Not implemented. 
 ## See Also
 
-* Class [FtpWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FtpWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

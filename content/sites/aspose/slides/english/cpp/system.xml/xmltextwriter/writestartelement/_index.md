@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.xml/xmltextwriter/writestartelement/
 ---
-## XmlTextWriter::WriteStartElement(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## XmlTextWriter::WriteStartElement(const String\&, const String\&, const String\&) method
 
 
 Writes the specified start tag and associates it with the given namespace and prefix.
@@ -26,7 +26,7 @@ void System::Xml::XmlTextWriter::WriteStartElement(const String &prefix, const S
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlTextWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlTextWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

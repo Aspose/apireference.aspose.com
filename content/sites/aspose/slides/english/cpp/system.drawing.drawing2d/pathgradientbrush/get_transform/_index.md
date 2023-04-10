@@ -17,8 +17,8 @@ SharedPtr<Matrix> System::Drawing::Drawing2D::PathGradientBrush::get_Transform()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../../matrix/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Matrix](../matrix/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

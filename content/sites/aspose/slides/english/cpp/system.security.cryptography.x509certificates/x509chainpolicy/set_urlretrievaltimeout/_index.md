@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.security.cryptography.x509certificates/x509chainpolicy/set_urlretrievaltimeout/
 ---
-## X509ChainPolicy::set_UrlRetrievalTimeout([TimeSpan](../../../system/timespan/)) method
+## X509ChainPolicy::set_UrlRetrievalTimeout(TimeSpan) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::X509Certificates::X509ChainPolicy::set_UrlR
 
 ## See Also
 
-* Class [TimeSpan](../../../system/timespan/)
-* Class [X509ChainPolicy](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](../../system/timespan/)
+* Class [X509ChainPolicy](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

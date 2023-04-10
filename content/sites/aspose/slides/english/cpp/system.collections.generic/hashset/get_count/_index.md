@@ -20,11 +20,6 @@ int System::Collections::Generic::HashSet<T>::get_Count() const override
 
 Actual number of elements.
 
-## See Also
-
-* Class [HashSet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## HashSet::get_Count() const method
 
 
@@ -36,6 +31,6 @@ virtual int System::Collections::Generic::ICollection<T>::get_Count() const=0
 
 ## See Also
 
-* Class [HashSet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HashSet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

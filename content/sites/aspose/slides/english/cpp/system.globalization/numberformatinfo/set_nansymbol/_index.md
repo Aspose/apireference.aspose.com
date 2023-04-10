@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/system.globalization/numberformatinfo/set_nansymbol/
 ---
-## NumberFormatInfo::set_NaNSymbol(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_NaNSymbol(const String\&) method
 
 
 Sets Not-a-Number symbol.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_NaNSymbol(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

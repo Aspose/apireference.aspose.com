@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net.http/httprequestmessage/set_version/
 ---
-## HttpRequestMessage::set_Version([System::Version](../../../system/version/)) method
+## HttpRequestMessage::set_Version(System::Version) method
 
 
 Sets the HTTP version.
@@ -24,7 +24,7 @@ void System::Net::Http::HttpRequestMessage::set_Version(System::Version value)
 
 ## See Also
 
-* Class [Version](../../../system/version/)
-* Class [HttpRequestMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Version](../../system/version/)
+* Class [HttpRequestMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

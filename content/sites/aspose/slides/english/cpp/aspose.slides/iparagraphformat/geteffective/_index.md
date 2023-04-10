@@ -22,8 +22,8 @@ A [IParagraphFormatEffectiveData](../../iparagraphformateffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IParagraphFormatEffectiveData](../../iparagraphformateffectivedata/)
-* Class [IParagraphFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IParagraphFormatEffectiveData](../iparagraphformateffectivedata/)
+* Class [IParagraphFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

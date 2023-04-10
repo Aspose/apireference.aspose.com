@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/system.xml/xmltextwriter/writename/
 ---
-## XmlTextWriter::WriteName(const [String](../../../system/string/)\&) method
+## XmlTextWriter::WriteName(const String\&) method
 
 
 Writes out the specified name, ensuring it is a valid name according to the [W3C XML 1.0 recommendation](https://www.w3.org/TR/1998/REC-xml-19980210#NT-Name).
@@ -24,7 +24,7 @@ void System::Xml::XmlTextWriter::WriteName(const String &name) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlTextWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlTextWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

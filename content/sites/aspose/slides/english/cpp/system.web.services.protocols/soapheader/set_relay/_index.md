@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.web.services.protocols/soapheader/set_relay/
 ---
-## SoapHeader::set_Relay(**bool**) method
+## SoapHeader::set_Relay(bool) method
 
 
 Sets a value of the 'relay' attribute.
@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::SoapHeader::set_Relay(bool value)
 
 ## See Also
 
-* Class [SoapHeader](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SoapHeader](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

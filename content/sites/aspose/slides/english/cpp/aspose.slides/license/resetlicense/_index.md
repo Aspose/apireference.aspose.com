@@ -28,6 +28,6 @@ license->ResetLicense();
 
 ## See Also
 
-* Class [License](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [License](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

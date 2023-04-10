@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography/asymmetricsignaturedeformatter/setkey/
 ---
-## AsymmetricSignatureDeformatter::SetKey([System::SharedPtr](../../../system/sharedptr/)\<[AsymmetricAlgorithm](../../asymmetricalgorithm/)\>) method
+## AsymmetricSignatureDeformatter::SetKey(System::SharedPtr\<AsymmetricAlgorithm\>) method
 
 
 Sets key to use with algorithm.
@@ -24,8 +24,8 @@ virtual void System::Security::Cryptography::AsymmetricSignatureDeformatter::Set
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../../asymmetricalgorithm/)
-* Class [AsymmetricSignatureDeformatter](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](../asymmetricalgorithm/)
+* Class [AsymmetricSignatureDeformatter](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

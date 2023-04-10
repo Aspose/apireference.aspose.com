@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.data.common/dbcommand/set_connection/
 ---
-## DbCommand::set_Connection([SharedPtr](../../../system/sharedptr/)\<[System::Data::Common::DbConnection](../../dbconnection/)\>) method
+## DbCommand::set_Connection(SharedPtr\<System::Data::Common::DbConnection\>) method
 
 
 Gets database connecton associated with command.
@@ -24,8 +24,8 @@ virtual void System::Data::Common::DbCommand::set_Connection(SharedPtr<System::D
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DbConnection](../../dbconnection/)
-* Class [DbCommand](../)
-* Namespace [System::Data::Common](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DbConnection](../dbconnection/)
+* Class [DbCommand](./)
+* Namespace [System::Data::Common](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ Aspose::Slides::PptSerialization::CheckSumProcessorData::CheckSumProcessorData()
 
 ## See Also
 
-* Class [CheckSumProcessorData](../)
-* Namespace [Aspose::Slides::PptSerialization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CheckSumProcessorData](./)
+* Namespace [Aspose::Slides::PptSerialization](../)
+* Library [Aspose.Slides](../../)

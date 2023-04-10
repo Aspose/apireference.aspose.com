@@ -6,7 +6,7 @@ type: docs
 weight: 625
 url: /cpp/system.globalization/numberformatinfo/set_percentgroupsizes/
 ---
-## NumberFormatInfo::set_PercentGroupSizes(const [ArrayPtr](../../../system/arrayptr/)\<int\>\&) method
+## NumberFormatInfo::set_PercentGroupSizes(const ArrayPtr\<int\>\&) method
 
 
 Sets numbers of digits per percent value group.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_PercentGroupSizes(const ArrayP
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

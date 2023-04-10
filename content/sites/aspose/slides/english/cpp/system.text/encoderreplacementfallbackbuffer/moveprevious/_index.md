@@ -22,6 +22,6 @@ True if there is a previous character in replacement string and a step back succ
 
 ## See Also
 
-* Class [EncoderReplacementFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EncoderReplacementFallbackBuffer](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

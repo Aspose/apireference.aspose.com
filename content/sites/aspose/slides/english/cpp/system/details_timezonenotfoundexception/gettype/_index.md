@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_TimeZoneNotFoundException::GetType() co
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [Details_TimeZoneNotFoundException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [Details_TimeZoneNotFoundException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

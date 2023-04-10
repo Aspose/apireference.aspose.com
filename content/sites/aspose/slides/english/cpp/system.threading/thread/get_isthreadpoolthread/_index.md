@@ -22,6 +22,6 @@ True if thread is part of [ThreadPool](../../threadpool/), false otherwise.
 
 ## See Also
 
-* Class [Thread](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Thread](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

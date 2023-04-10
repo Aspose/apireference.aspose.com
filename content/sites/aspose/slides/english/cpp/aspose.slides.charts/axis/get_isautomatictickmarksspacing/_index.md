@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::Axis::get_IsAutomaticTickMarksSpacing() override
 
 ## See Also
 
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.collections/ilist/remove/
 ---
-## IList::Remove([SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## IList::Remove(SharedPtr\<System::Object\>) method
 
 
 Removes the first instance of the specified item from the list.
@@ -24,8 +24,8 @@ virtual void System::Collections::IList::Remove(SharedPtr<System::Object> item)=
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IList](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IList](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

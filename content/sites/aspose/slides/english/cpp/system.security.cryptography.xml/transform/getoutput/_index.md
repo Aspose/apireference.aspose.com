@@ -15,14 +15,7 @@ url: /cpp/system.security.cryptography.xml/transform/getoutput/
 virtual SharedPtr<Object> System::Security::Cryptography::Xml::Transform::GetOutput()=0
 ```
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Transform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
-## Transform::GetOutput(const [TypeInfo](../../../system/typeinfo/)\&) method
+## Transform::GetOutput(const TypeInfo\&) method
 
 
 
@@ -33,9 +26,9 @@ virtual SharedPtr<Object> System::Security::Cryptography::Xml::Transform::GetOut
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Transform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [Transform](./)
+* Class [TypeInfo](../../system/typeinfo/)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

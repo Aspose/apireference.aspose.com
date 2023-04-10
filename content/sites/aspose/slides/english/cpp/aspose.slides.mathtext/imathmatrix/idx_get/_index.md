@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides.mathtext/imathmatrix/idx_get/
 ---
-## IMathMatrix::idx_get(**int32_t**, **int32_t**) method
+## IMathMatrix::idx_get(int32_t, int32_t) method
 
 
 Elements of matrix
@@ -38,8 +38,8 @@ matrix->idx_set(0, 0, System::MakeObject<MathematicalText>(u"item.1.1"));
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathElement](../../imathelement/)
-* Class [IMathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathElement](../imathelement/)
+* Class [IMathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

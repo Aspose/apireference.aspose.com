@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/ibehaviorpropertycollection/indexof/
 ---
-## IBehaviorPropertyCollection::IndexOf(const [System::String](../../../system/string/)\&) const method
+## IBehaviorPropertyCollection::IndexOf(const System::String\&) const method
 
 
 Determines the index of a specific item by property value in the [IList](../../../system.collections.generic/ilist/).
@@ -28,7 +28,7 @@ The index of the property with the specified value
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IBehaviorPropertyCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IBehaviorPropertyCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual System::Drawing::Color Aspose::Slides::IThreeDFormatEffectiveData::get_C
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [IThreeDFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [IThreeDFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

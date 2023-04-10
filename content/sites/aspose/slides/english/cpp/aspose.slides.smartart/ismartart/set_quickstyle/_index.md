@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.smartart/ismartart/set_quickstyle/
 ---
-## ISmartArt::set_QuickStyle([SmartArtQuickStyleType](../../smartartquickstyletype/)) method
+## ISmartArt::set_QuickStyle(SmartArtQuickStyleType) method
 
 
 Return or set quick style of the [SmartArt](../../smartart/) object. Write [SmartArtQuickStyleType](../../smartartquickstyletype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SmartArt::ISmartArt::set_QuickStyle(SmartArtQuickSt
 
 ## See Also
 
-* Enum [SmartArtQuickStyleType](../../smartartquickstyletype/)
-* Class [ISmartArt](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SmartArtQuickStyleType](../smartartquickstyletype/)
+* Class [ISmartArt](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

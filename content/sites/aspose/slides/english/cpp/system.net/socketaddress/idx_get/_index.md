@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.net/socketaddress/idx_get/
 ---
-## SocketAddress::idx_get(**int32_t**) method
+## SocketAddress::idx_get(int32_t) method
 
 
 Gets a value of the underlying buffer at the specified index.
@@ -28,6 +28,6 @@ A value of the underlying buffer at the specified index.
 
 ## See Also
 
-* Class [SocketAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SocketAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

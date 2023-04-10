@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/idx_get/
 ---
-## IImageTransformOperationCollection::idx_get(**int32_t**) method
+## IImageTransformOperationCollection::idx_get(int32_t) method
 
 
 Returns an [IImageTransformOperation](../../iimagetransformoperation/) from the collection by it's index.
@@ -28,8 +28,8 @@ virtual System::SharedPtr<IImageTransformOperation> Aspose::Slides::Effects::IIm
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IImageTransformOperation](../../iimagetransformoperation/)
-* Class [IImageTransformOperationCollection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IImageTransformOperation](../iimagetransformoperation/)
+* Class [IImageTransformOperationCollection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

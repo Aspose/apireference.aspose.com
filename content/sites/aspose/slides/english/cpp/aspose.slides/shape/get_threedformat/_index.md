@@ -17,8 +17,8 @@ System::SharedPtr<IThreeDFormat> Aspose::Slides::Shape::get_ThreeDFormat() overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IThreeDFormat](../../ithreedformat/)
-* Class [Shape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IThreeDFormat](../ithreedformat/)
+* Class [Shape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

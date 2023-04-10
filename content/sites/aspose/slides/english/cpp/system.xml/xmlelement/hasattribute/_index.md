@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/system.xml/xmlelement/hasattribute/
 ---
-## XmlElement::HasAttribute([String](../../../system/string/)) method
+## XmlElement::HasAttribute(String) method
 
 
 Determines whether the current node has an attribute with the specified name.
@@ -26,13 +26,7 @@ virtual bool System::Xml::XmlElement::HasAttribute(String name)
 
 **true** if the current node has the specified attribute; otherwise, **false**.
 
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XmlElement](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
-## XmlElement::HasAttribute([String](../../../system/string/), [String](../../../system/string/)) method
+## XmlElement::HasAttribute(String, String) method
 
 
 Determines whether the current node has an attribute with the specified local name and namespace URI.
@@ -55,7 +49,7 @@ virtual bool System::Xml::XmlElement::HasAttribute(String localName, String name
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlElement](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlElement](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.theme/fillformatcollection/
 Represents the collection of fill styles.
 
 ```cpp
-class FillFormatCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Theme::FormatScheme>>,
-                             public Aspose::Slides::Theme::IFillFormatCollection
+class FillFormatCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Theme::FormatScheme>>,                             public Aspose::Slides::Theme::IFillFormatCollection
 ```
 
 ## Methods

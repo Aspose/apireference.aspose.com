@@ -17,8 +17,8 @@ virtual System::SharedPtr<System::Xml::Schema::XmlSchema> System::Xml::Serializa
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchema](../../../system.xml.schema/xmlschema/)
-* Class [IXmlSerializable](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchema](../../system.xml.schema/xmlschema/)
+* Class [IXmlSerializable](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

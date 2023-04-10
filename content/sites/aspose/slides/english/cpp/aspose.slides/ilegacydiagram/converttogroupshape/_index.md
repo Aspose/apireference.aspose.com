@@ -22,8 +22,8 @@ Created [GroupShape](../../groupshape/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGroupShape](../../igroupshape/)
-* Class [ILegacyDiagram](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGroupShape](../igroupshape/)
+* Class [ILegacyDiagram](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

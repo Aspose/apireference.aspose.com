@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.export/isvgshapeandtextformattingcontroller/formattext/
 ---
-## ISvgShapeAndTextFormattingController::FormatText([System::SharedPtr](../../../system/sharedptr/)\<[ISvgTSpan](../../isvgtspan/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../../aspose.slides/iportion/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[ITextFrame](../../../aspose.slides/itextframe/)\>) method
+## ISvgShapeAndTextFormattingController::FormatText(System::SharedPtr\<ISvgTSpan\>, System::SharedPtr\<IPortion\>, System::SharedPtr\<ITextFrame\>) method
 
 
 This function is called before rendering of text portion to SVG to allow user to control resulting SVG.
@@ -26,10 +26,10 @@ virtual void Aspose::Slides::Export::ISvgShapeAndTextFormattingController::Forma
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISvgTSpan](../../isvgtspan/)
-* Class [IPortion](../../../aspose.slides/iportion/)
-* Class [ITextFrame](../../../aspose.slides/itextframe/)
-* Class [ISvgShapeAndTextFormattingController](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISvgTSpan](../isvgtspan/)
+* Class [IPortion](../../aspose.slides/iportion/)
+* Class [ITextFrame](../../aspose.slides/itextframe/)
+* Class [ISvgShapeAndTextFormattingController](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

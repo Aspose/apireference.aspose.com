@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/stringchartvalue/set_data/
 ---
-## StringChartValue::set_Data([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## StringChartValue::set_Data(System::SharedPtr\<System::Object\>) method
 
 
 Sets Data object. Write [System::Object](../../../system/object/).
@@ -17,8 +17,8 @@ void Aspose::Slides::Charts::StringChartValue::set_Data(System::SharedPtr<System
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [StringChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [StringChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

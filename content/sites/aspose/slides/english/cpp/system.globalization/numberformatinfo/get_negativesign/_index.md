@@ -22,7 +22,7 @@ Negative sign.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

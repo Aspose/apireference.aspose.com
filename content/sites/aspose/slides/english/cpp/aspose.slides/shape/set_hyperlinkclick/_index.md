@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides/shape/set_hyperlinkclick/
 ---
-## Shape::set_HyperlinkClick([System::SharedPtr](../../../system/sharedptr/)\<[IHyperlink](../../ihyperlink/)\>) method
+## Shape::set_HyperlinkClick(System::SharedPtr\<IHyperlink\>) method
 
 
 Sets the hyperlink defined for mouse click. Write [IHyperlink](../../ihyperlink/).
@@ -17,8 +17,8 @@ void Aspose::Slides::Shape::set_HyperlinkClick(System::SharedPtr<IHyperlink> val
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHyperlink](../../ihyperlink/)
-* Class [Shape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHyperlink](../ihyperlink/)
+* Class [Shape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

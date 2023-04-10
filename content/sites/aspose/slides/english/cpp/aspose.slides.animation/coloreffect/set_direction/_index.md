@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/coloreffect/set_direction/
 ---
-## ColorEffect::set_Direction([ColorDirection](../../colordirection/)) method
+## ColorEffect::set_Direction(ColorDirection) method
 
 
 Specifies which direction to cycle the hue around the color wheel. Write [ColorDirection](../../colordirection/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::ColorEffect::set_Direction(ColorDirection value)
 
 ## See Also
 
-* Enum [ColorDirection](../../colordirection/)
-* Class [ColorEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorDirection](../colordirection/)
+* Class [ColorEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

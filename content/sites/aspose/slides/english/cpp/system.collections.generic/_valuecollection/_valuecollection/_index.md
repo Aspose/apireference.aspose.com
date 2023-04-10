@@ -24,6 +24,6 @@ System::Collections::Generic::_ValueCollection<Dict>::_ValueCollection(const typ
 
 ## See Also
 
-* Class [_ValueCollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [_ValueCollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

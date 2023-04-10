@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/ifontsubstrulecollection/remove/
 ---
-## IFontSubstRuleCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IFontSubstRule](../../ifontsubstrule/)\>) method
+## IFontSubstRuleCollection::Remove(System::SharedPtr\<IFontSubstRule\>) method
 
 
 Removes the first occurrence of a specific object from the collection.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::IFontSubstRuleCollection::Remove(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontSubstRule](../../ifontsubstrule/)
-* Class [IFontSubstRuleCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontSubstRule](../ifontsubstrule/)
+* Class [IFontSubstRuleCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

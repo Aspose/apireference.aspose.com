@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/system.net.sockets/socket/set_dualmode/
 ---
-## Socket::set_DualMode(**bool**) method
+## Socket::set_DualMode(bool) method
 
 
 Sets a value indicates if the socket is in the dual-mode.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_DualMode(bool value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

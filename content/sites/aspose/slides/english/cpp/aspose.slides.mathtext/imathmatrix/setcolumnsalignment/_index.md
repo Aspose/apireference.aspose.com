@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.slides.mathtext/imathmatrix/setcolumnsalignment/
 ---
-## IMathMatrix::SetColumnsAlignment(**int32_t**, **uint32_t**, [MathHorizontalAlignment](../../mathhorizontalalignment/)) method
+## IMathMatrix::SetColumnsAlignment(int32_t, uint32_t, MathHorizontalAlignment) method
 
 
 Set the horizontal alignment of the specified columns
@@ -35,7 +35,7 @@ matrix->SetColumnsAlignment(0, 3, MathHorizontalAlignment::Left);
 
 ## See Also
 
-* Enum [MathHorizontalAlignment](../../mathhorizontalalignment/)
-* Class [IMathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathHorizontalAlignment](../mathhorizontalalignment/)
+* Class [IMathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

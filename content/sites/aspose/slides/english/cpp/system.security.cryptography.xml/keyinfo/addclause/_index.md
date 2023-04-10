@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.security.cryptography.xml/keyinfo/addclause/
 ---
-## KeyInfo::AddClause([SharedPtr](../../../system/sharedptr/)\<[KeyInfoClause](../../keyinfoclause/)\>) method
+## KeyInfo::AddClause(SharedPtr\<KeyInfoClause\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::KeyInfo::AddClause(SharedPtr<KeyInfoCl
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [KeyInfoClause](../../keyinfoclause/)
-* Class [KeyInfo](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [KeyInfoClause](../keyinfoclause/)
+* Class [KeyInfo](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

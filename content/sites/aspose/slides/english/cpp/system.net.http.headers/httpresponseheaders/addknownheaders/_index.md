@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/system.net.http.headers/httpresponseheaders/addknownheaders/
 ---
-## HttpResponseHeaders::AddKnownHeaders([System::SharedPtr](../../../system/sharedptr/)\<[Collections::Generic::HashSet](../../../system.collections.generic/hashset/)\<[String](../../../system/string/)\>\>) method
+## HttpResponseHeaders::AddKnownHeaders(System::SharedPtr\<Collections::Generic::HashSet\<String\>\>) method
 
 
 Adds the known headers to the specified collection.
@@ -24,9 +24,9 @@ static void System::Net::Http::Headers::HttpResponseHeaders::AddKnownHeaders(Sys
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HashSet](../../../system.collections.generic/hashset/)
-* Class [String](../../../system/string/)
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HashSet](../../system.collections.generic/hashset/)
+* Class [String](../../system/string/)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

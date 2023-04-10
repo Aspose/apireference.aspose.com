@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.io/path/getfullpath/
 ---
-## Path::GetFullPath(const [String](../../../system/string/)\&) method
+## Path::GetFullPath(const String\&) method
 
 
 Converts the specified path into absolute path.
@@ -28,7 +28,7 @@ The absolute path referencing the same entity (which does not have to exist) as 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Path](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Path](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

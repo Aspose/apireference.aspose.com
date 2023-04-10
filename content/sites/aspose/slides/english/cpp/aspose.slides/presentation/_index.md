@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/presentation/
 Represents a Microsoft PowerPoint presentation.
 
 ```cpp
-class Presentation : public Aspose::Slides::IPresentation,
-                     public Aspose::Slides::IDOMObject
+class Presentation : public Aspose::Slides::IPresentation,                     public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

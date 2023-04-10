@@ -22,7 +22,7 @@ One of the XmlSchemaForm values. The default is the [XmlSchema::get_AttributeFor
 
 ## See Also
 
-* Enum [XmlSchemaForm](../../xmlschemaform/)
-* Class [XmlSchemaAttribute](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaForm](../xmlschemaform/)
+* Class [XmlSchemaAttribute](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

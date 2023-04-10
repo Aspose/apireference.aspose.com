@@ -22,8 +22,8 @@ virtual ASPOSE_SLIDES_LOCAL_API System::SharedPtr<System::Drawing::Bitmap> Aspos
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Bitmap](../../../system.drawing/bitmap/)
-* Class [IPresentationAnimationPlayer](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Bitmap](../../system.drawing/bitmap/)
+* Class [IPresentationAnimationPlayer](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Chart::ValidateChartLayout() override
 
 ## See Also
 
-* Class [Chart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Chart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

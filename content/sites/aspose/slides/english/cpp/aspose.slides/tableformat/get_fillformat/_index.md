@@ -17,8 +17,8 @@ System::SharedPtr<IFillFormat> Aspose::Slides::TableFormat::get_FillFormat() ove
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillFormat](../../ifillformat/)
-* Class [TableFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillFormat](../ifillformat/)
+* Class [TableFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -20,12 +20,6 @@ reverse_iterator System::Collections::Generic::SortedList<TKey, TValue>::rbegin(
 
 A reverse iterator pointing to the last element in the map (first in reverse).
 
-## See Also
-
-* Typedef [reverse_iterator](../reverse_iterator/)
-* Class [SortedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## SortedList::rbegin() const method
 
 
@@ -42,7 +36,8 @@ A reverse iterator pointing to the last element in the const-qualified map (firs
 
 ## See Also
 
-* Typedef [const_reverse_iterator](../const_reverse_iterator/)
-* Class [SortedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [reverse_iterator](./reverse_iterator/)
+* Typedef [const_reverse_iterator](./const_reverse_iterator/)
+* Class [SortedList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

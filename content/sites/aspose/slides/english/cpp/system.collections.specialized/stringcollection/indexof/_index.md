@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.collections.specialized/stringcollection/indexof/
 ---
-## StringCollection::IndexOf(const [System::String](../../../system/string/)\&) const method
+## StringCollection::IndexOf(const System::String\&) const method
 
 
 Looks for specific string in container.
@@ -28,7 +28,7 @@ Index of first occurrence of specified string or -1 if not found.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

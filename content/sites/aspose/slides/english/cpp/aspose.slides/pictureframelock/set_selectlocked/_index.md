@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/pictureframelock/set_selectlocked/
 ---
-## PictureFrameLock::set_SelectLocked(**bool**) method
+## PictureFrameLock::set_SelectLocked(bool) method
 
 
 Determines whether a selecting this shape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::PictureFrameLock::set_SelectLocked(bool value) override
 
 ## See Also
 
-* Class [PictureFrameLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PictureFrameLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

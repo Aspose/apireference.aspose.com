@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.diagnostics/tracelistener/writeline/
 ---
-## TraceListener::WriteLine([System::String](../../../system/string/)) method
+## TraceListener::WriteLine(System::String) method
 
 
 Writes line to debugger.
@@ -24,7 +24,7 @@ virtual void System::Diagnostics::TraceListener::WriteLine(System::String messag
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [TraceListener](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [TraceListener](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

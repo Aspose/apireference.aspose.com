@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.runtime.interopservices/marshal/writeint64/
 ---
-## Marshal::WriteInt64(IntPtr, int, **int64_t**) method
+## Marshal::WriteInt64(IntPtr, int, int64_t) method
 
 
 Writes long to memory.
@@ -26,6 +26,6 @@ static void System::Runtime::InteropServices::Marshal::WriteInt64(IntPtr ptr, in
 
 ## See Also
 
-* Class [Marshal](../)
-* Namespace [System::Runtime::InteropServices](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Marshal](./)
+* Namespace [System::Runtime::InteropServices](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/cornerdirectiontransition/
 Corner direction slide transition effect.
 
 ```cpp
-class CornerDirectionTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                                  public Aspose::Slides::SlideShow::ICornerDirectionTransition
+class CornerDirectionTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                                  public Aspose::Slides::SlideShow::ICornerDirectionTransition
 ```
 
 ## Methods

@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IInterruptionTokenSource::get_IsInterruptionRequest
 
 ## See Also
 
-* Class [IInterruptionTokenSource](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IInterruptionTokenSource](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

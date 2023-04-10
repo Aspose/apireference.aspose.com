@@ -22,6 +22,6 @@ A handle to the created GDI bitmap object.
 
 ## See Also
 
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Bitmap](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

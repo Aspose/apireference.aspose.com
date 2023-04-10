@@ -22,6 +22,6 @@ Number of elements in wrapped dictionary.
 
 ## See Also
 
-* Class [BaseKVCollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseKVCollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

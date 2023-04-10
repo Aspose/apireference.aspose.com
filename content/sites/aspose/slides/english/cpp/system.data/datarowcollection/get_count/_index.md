@@ -22,6 +22,6 @@ Number of existing rows.
 
 ## See Also
 
-* Class [DataRowCollection](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DataRowCollection](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

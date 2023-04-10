@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/imathmatrixfactory/createmathmatrix/
 ---
-## IMathMatrixFactory::CreateMathMatrix(**int32_t**, **int32_t**) method
+## IMathMatrixFactory::CreateMathMatrix(int32_t, int32_t) method
 
 
 Creates a math matrix
@@ -29,8 +29,8 @@ new math matrix
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathMatrix](../../imathmatrix/)
-* Class [IMathMatrixFactory](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathMatrix](../imathmatrix/)
+* Class [IMathMatrixFactory](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

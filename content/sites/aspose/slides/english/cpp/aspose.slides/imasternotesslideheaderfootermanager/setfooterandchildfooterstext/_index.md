@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/imasternotesslideheaderfootermanager/setfooterandchildfooterstext/
 ---
-## IMasterNotesSlideHeaderFooterManager::SetFooterAndChildFootersText([System::String](../../../system/string/)) method
+## IMasterNotesSlideHeaderFooterManager::SetFooterAndChildFootersText(System::String) method
 
 
 Sets text to master notes slide footer placeholder and all child footer placeholders. Child placeholders mean placeholders are contained on depending notes slides. Depending notes slides use and depend on master notes slide.
@@ -24,7 +24,7 @@ virtual void Aspose::Slides::IMasterNotesSlideHeaderFooterManager::SetFooterAndC
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IMasterNotesSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IMasterNotesSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

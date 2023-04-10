@@ -22,9 +22,9 @@ Enumerator bound to this object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../ienumerator/)
-* Class [KeyValuePair](../../keyvaluepair/)
-* Class [BaseDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../ienumerator/)
+* Class [KeyValuePair](../keyvaluepair/)
+* Class [BaseDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.security/securityelement/attribute/
 ---
-## SecurityElement::Attribute(const [String](../../../system/string/)\&) method
+## SecurityElement::Attribute(const String\&) method
 
 
 Gets attribute value.
@@ -22,7 +22,7 @@ String System::Security::SecurityElement::Attribute(const String &name)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml/xmlcharacterdata/substring/
 ---
-## XmlCharacterData::Substring(**int32_t**, **int32_t**) method
+## XmlCharacterData::Substring(int32_t, int32_t) method
 
 
 Retrieves a substring of the full string from the specified range.
@@ -29,7 +29,7 @@ The substring corresponding to the specified range.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlCharacterData](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlCharacterData](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

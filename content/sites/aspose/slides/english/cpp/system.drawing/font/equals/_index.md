@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.drawing/font/equals/
 ---
-## Font::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## Font::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines if the current and the specified objects are identical.
@@ -28,8 +28,8 @@ True if the current and the specified objects are identical, otherwise - false
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Font](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [Font](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -28,6 +28,6 @@ Character at specified position or 0xffff if out of bounds.
 
 ## See Also
 
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

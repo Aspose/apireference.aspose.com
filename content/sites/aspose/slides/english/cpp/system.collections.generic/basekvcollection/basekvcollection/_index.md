@@ -24,6 +24,6 @@ System::Collections::Generic::BaseKVCollection<Dict, KV>::BaseKVCollection(const
 
 ## See Also
 
-* Class [BaseKVCollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseKVCollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

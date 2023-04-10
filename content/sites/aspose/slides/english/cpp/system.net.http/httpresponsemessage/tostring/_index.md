@@ -17,7 +17,7 @@ String System::Net::Http::HttpResponseMessage::ToString() const override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpResponseMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpResponseMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

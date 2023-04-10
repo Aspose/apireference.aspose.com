@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/set_usemachinekeystore/
 ---
-## DSACryptoServiceProvider::set_UseMachineKeyStore(**bool**) method
+## DSACryptoServiceProvider::set_UseMachineKeyStore(bool) method
 
 
 Defines whether the key persists in machine store instead of user store.
@@ -24,6 +24,6 @@ static void System::Security::Cryptography::DSACryptoServiceProvider::set_UseMac
 
 ## See Also
 
-* Class [DSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

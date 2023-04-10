@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaRedefine::XmlSchemaRedefine()
 
 ## See Also
 
-* Class [XmlSchemaRedefine](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaRedefine](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void System::Net::Sockets::TcpListener::Stop()
 
 ## See Also
 
-* Class [TcpListener](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpListener](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

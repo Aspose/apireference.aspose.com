@@ -22,7 +22,7 @@ For comment nodes, the value is [XmlNodeType::Comment](../../xmlnodetype/).
 
 ## See Also
 
-* Enum [XmlNodeType](../../xmlnodetype/)
-* Class [XmlComment](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlNodeType](../xmlnodetype/)
+* Class [XmlComment](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

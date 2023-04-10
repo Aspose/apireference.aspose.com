@@ -22,7 +22,7 @@ The name of the [CultureInfo](../), eg. \"de-DE_phoneb\", \"en-US\", or \"fj-FJ\
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.net/servicepointmanager/set_enablednsroundrobin/
 ---
-## ServicePointManager::set_EnableDnsRoundRobin(**bool**) method
+## ServicePointManager::set_EnableDnsRoundRobin(bool) method
 
 
 Sets a value that indicates if a DNS resolution rotates among the applicable IP addresses.
@@ -24,6 +24,6 @@ static void System::Net::ServicePointManager::set_EnableDnsRoundRobin(bool value
 
 ## See Also
 
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

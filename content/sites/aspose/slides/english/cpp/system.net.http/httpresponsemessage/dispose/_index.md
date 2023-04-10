@@ -17,6 +17,6 @@ void System::Net::Http::HttpResponseMessage::Dispose() override
 
 ## See Also
 
-* Class [HttpResponseMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpResponseMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

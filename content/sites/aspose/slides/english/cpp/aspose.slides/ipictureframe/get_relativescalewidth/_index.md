@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IPictureFrame::get_RelativeScaleWidth()=0
 
 ## See Also
 
-* Class [IPictureFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPictureFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

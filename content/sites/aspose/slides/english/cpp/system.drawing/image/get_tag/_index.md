@@ -17,8 +17,8 @@ virtual System::SharedPtr<System::Object> System::Drawing::Image::get_Tag() cons
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

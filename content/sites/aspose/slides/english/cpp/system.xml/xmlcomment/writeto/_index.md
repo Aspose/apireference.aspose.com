@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml/xmlcomment/writeto/
 ---
-## XmlComment::WriteTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
+## XmlComment::WriteTo(const SharedPtr\<XmlWriter\>\&) method
 
 
 Saves the node to the specified [XmlWriter](../../xmlwriter/).
@@ -24,8 +24,8 @@ void System::Xml::XmlComment::WriteTo(const SharedPtr<XmlWriter> &w) override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../xmlwriter/)
-* Class [XmlComment](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../xmlwriter/)
+* Class [XmlComment](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

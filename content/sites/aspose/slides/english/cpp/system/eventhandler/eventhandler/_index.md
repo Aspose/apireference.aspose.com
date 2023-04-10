@@ -15,11 +15,6 @@ Constructor.
 System::EventHandler<TEventArgs>::EventHandler()
 ```
 
-## See Also
-
-* Class [EventHandler](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## EventHandler::EventHandler(std::nullptr_t) constructor
 
 
@@ -31,6 +26,6 @@ System::EventHandler<TEventArgs>::EventHandler(std::nullptr_t)
 
 ## See Also
 
-* Class [EventHandler](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EventHandler](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

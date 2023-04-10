@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.slides.mathtext/mathmatrix/deleterow/
 ---
-## MathMatrix::DeleteRow(**int32_t**) method
+## MathMatrix::DeleteRow(int32_t) method
 
 
 Deletes the specified row
@@ -33,6 +33,6 @@ matrix->DeleteRow(0);
 
 ## See Also
 
-* Class [MathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

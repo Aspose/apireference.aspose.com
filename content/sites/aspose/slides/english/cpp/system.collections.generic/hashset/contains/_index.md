@@ -28,6 +28,6 @@ True if item is present in set, false otherwise.
 
 ## See Also
 
-* Class [HashSet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HashSet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 521
 url: /cpp/system/typeinfo/getcustomattribute/
 ---
-## TypeInfo::GetCustomAttribute(const [TypeInfo](../)\&) const method
+## TypeInfo::GetCustomAttribute(const TypeInfo\&) const method
 
 
 Searches for the custom attribute applied having the specified type and applied to the type reprsented by the current object.
@@ -28,8 +28,7 @@ A pointer to an object representing the found attribute, or null-pointer if no a
 
 ## See Also
 
-* Class [SmartPtr](../../smartptr/)
-* Class [TypeInfo](../)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](../smartptr/)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

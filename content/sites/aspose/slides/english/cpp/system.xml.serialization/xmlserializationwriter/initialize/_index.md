@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.xml.serialization/xmlserializationwriter/initialize/
 ---
-## XmlSerializationWriter::Initialize([System::SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../../system.xml/xmlwriter/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[XmlSerializerNamespaces](../../xmlserializernamespaces/)\>) method
+## XmlSerializationWriter::Initialize(System::SharedPtr\<XmlWriter\>, System::SharedPtr\<XmlSerializerNamespaces\>) method
 
 
 Initializes [XmlSerializationReader](../../xmlserializationreader/) class.
@@ -25,9 +25,9 @@ void System::Xml::Serialization::XmlSerializationWriter::Initialize(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [XmlSerializerNamespaces](../../xmlserializernamespaces/)
-* Class [XmlSerializationWriter](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../../system.xml/xmlwriter/)
+* Class [XmlSerializerNamespaces](../xmlserializernamespaces/)
+* Class [XmlSerializationWriter](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

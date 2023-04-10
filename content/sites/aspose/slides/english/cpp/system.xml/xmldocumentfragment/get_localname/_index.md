@@ -22,7 +22,7 @@ For [XmlDocumentFragment](../) nodes, the local name is **#document-fragment**.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDocumentFragment](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDocumentFragment](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

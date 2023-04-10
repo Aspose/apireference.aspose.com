@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/baseslide/set_name/
 ---
-## BaseSlide::set_Name([System::String](../../../system/string/)) method
+## BaseSlide::set_Name(System::String) method
 
 
 Sets the name of a slide. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::BaseSlide::set_Name(System::String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [BaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [BaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

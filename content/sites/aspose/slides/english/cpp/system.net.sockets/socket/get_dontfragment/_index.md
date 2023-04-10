@@ -22,6 +22,6 @@ A value that indicates if the socket allows IP datagrams to be fragmented.
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 755
 url: /cpp/system.xml/xmltextreader/readchars/
 ---
-## XmlTextReader::ReadChars(const [ArrayPtr](../../../system/arrayptr/)\<char16_t\>\&, **int32_t**, **int32_t**) method
+## XmlTextReader::ReadChars(const ArrayPtr\<char16_t\>\&, int32_t, int32_t) method
 
 
 Reads the text contents of an element into a character buffer. This method is designed to read large streams of embedded text by calling it successively.
@@ -30,7 +30,7 @@ The number of characters read. This can be 0 if the reader is not positioned on 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

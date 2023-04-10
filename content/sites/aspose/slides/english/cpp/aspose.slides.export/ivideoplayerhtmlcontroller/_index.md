@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.export/ivideoplayerhtmlcontroller/
 This class allows export of video and audio files into a HTML
 
 ```cpp
-class IVideoPlayerHtmlController : public Aspose::Slides::Export::IHtmlFormattingController,
-                                   public Aspose::Slides::Export::ISvgShapeFormattingController,
-                                   public Aspose::Slides::Export::ILinkEmbedController
+class IVideoPlayerHtmlController : public Aspose::Slides::Export::IHtmlFormattingController,                                   public Aspose::Slides::Export::ISvgShapeFormattingController,                                   public Aspose::Slides::Export::ILinkEmbedController
 ```
 
 ## Methods

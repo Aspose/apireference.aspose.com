@@ -17,6 +17,6 @@ int64_t System::IO::FileInfo::get_Length()
 
 ## See Also
 
-* Class [FileInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FileInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

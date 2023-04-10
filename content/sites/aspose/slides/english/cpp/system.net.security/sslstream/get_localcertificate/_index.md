@@ -22,8 +22,8 @@ The certificate that is used to authenticate the local endpoint.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509Certificate](../../../system.security.cryptography.x509certificates/x509certificate/)
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [X509Certificate](../../system.security.cryptography.x509certificates/x509certificate/)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

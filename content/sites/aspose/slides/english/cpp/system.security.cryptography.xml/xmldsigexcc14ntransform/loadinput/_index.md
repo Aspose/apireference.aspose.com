@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.security.cryptography.xml/xmldsigexcc14ntransform/loadinput/
 ---
-## XmlDsigExcC14NTransform::LoadInput([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## XmlDsigExcC14NTransform::LoadInput(SharedPtr\<Object\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::XmlDsigExcC14NTransform::LoadInput(Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [XmlDsigExcC14NTransform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [XmlDsigExcC14NTransform](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

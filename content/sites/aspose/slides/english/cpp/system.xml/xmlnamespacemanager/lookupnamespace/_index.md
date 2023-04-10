@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.xml/xmlnamespacemanager/lookupnamespace/
 ---
-## XmlNamespaceManager::LookupNamespace(const [String](../../../system/string/)\&) method
+## XmlNamespaceManager::LookupNamespace(const String\&) method
 
 
 Returns the namespace URI for the specified prefix.
@@ -28,7 +28,7 @@ The namespace URI for **prefix** or **nullptr** if there is no mapped namespace.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNamespaceManager](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNamespaceManager](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

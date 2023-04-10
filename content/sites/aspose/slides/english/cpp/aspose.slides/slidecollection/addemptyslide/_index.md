@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/slidecollection/addemptyslide/
 ---
-## SlideCollection::AddEmptySlide([System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
+## SlideCollection::AddEmptySlide(System::SharedPtr\<ILayoutSlide\>) method
 
 
 Adds a new empty slide to the end of the collection.
@@ -28,9 +28,9 @@ Added slide.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISlide](../../islide/)
-* Class [ILayoutSlide](../../ilayoutslide/)
-* Class [SlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISlide](../islide/)
+* Class [ILayoutSlide](../ilayoutslide/)
+* Class [SlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

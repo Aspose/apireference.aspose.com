@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/row/
 Represents a row in a table.
 
 ```cpp
-class Row : public Aspose::Slides::CellCollection,
-            public Aspose::Slides::IRow
+class Row : public Aspose::Slides::CellCollection,            public Aspose::Slides::IRow
 ```
 
 ## Methods

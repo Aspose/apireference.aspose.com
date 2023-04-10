@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.effects/glow/equals/
 ---
-## Glow::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## Glow::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines whether the specified [Glow](../) is equal to the current [Glow](../).
@@ -28,8 +28,8 @@ true if objects are equal; otherwise, false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Glow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [Glow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

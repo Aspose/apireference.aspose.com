@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/animationtimeline/settemplateweakptr/
 ---
-## AnimationTimeLine::SetTemplateWeakPtr(**uint32_t**) method
+## AnimationTimeLine::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::Animation::AnimationTimeLine::SetTemplateWeakPtr(uint32_t a
 
 ## See Also
 
-* Class [AnimationTimeLine](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AnimationTimeLine](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

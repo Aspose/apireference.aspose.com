@@ -6,7 +6,7 @@ type: docs
 weight: 599
 url: /cpp/system.xml/xmlvalidatingreader/readcontentasbinhex/
 ---
-## XmlValidatingReader::ReadContentAsBinHex([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**) method
+## XmlValidatingReader::ReadContentAsBinHex(ArrayPtr\<uint8_t\>, int32_t, int32_t) method
 
 
 Reads the content and returns the BinHex decoded binary bytes.
@@ -30,7 +30,7 @@ The number of bytes written to the buffer.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [XmlValidatingReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [XmlValidatingReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

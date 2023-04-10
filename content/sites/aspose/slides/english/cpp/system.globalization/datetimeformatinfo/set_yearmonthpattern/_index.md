@@ -6,7 +6,7 @@ type: docs
 weight: 625
 url: /cpp/system.globalization/datetimeformatinfo/set_yearmonthpattern/
 ---
-## DateTimeFormatInfo::set_YearMonthPattern(const [String](../../../system/string/)\&) method
+## DateTimeFormatInfo::set_YearMonthPattern(const String\&) method
 
 
 Sets year and month pattern.
@@ -24,7 +24,7 @@ void System::Globalization::DateTimeFormatInfo::set_YearMonthPattern(const Strin
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

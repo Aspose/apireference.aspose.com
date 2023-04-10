@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.io/filestream/seek/
 ---
-## FileStream::Seek(**int64_t**, [SeekOrigin](../../seekorigin/)) method
+## FileStream::Seek(int64_t, SeekOrigin) method
 
 
 Sets the position of the stream represented by the current object.
@@ -29,7 +29,7 @@ The new position of the stream.
 
 ## See Also
 
-* Enum [SeekOrigin](../../seekorigin/)
-* Class [FileStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SeekOrigin](../seekorigin/)
+* Class [FileStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

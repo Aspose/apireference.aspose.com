@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/errorbarsformat/set_isvisible/
 ---
-## ErrorBarsFormat::set_IsVisible(**bool**) method
+## ErrorBarsFormat::set_IsVisible(bool) method
 
 
 Sets Error Bars visibility . Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ErrorBarsFormat::set_IsVisible(bool value) override
 
 ## See Also
 
-* Class [ErrorBarsFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ErrorBarsFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

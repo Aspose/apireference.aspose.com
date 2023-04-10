@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system.xml/xmldocument/createwhitespace/
 ---
-## XmlDocument::CreateWhitespace(const [String](../../../system/string/)\&) method
+## XmlDocument::CreateWhitespace(const String\&) method
 
 
 Creates an [XmlWhitespace](../../xmlwhitespace/) node.
@@ -28,9 +28,9 @@ A new [XmlWhitespace](../../xmlwhitespace/) node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWhitespace](../../xmlwhitespace/)
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWhitespace](../xmlwhitespace/)
+* Class [String](../../system/string/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -22,9 +22,9 @@ A [IEnumerator](../../../system.collections.generic/ienumerator/) that can be us
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [IBehavior](../../ibehavior/)
-* Class [BehaviorCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../../system.collections.generic/ienumerator/)
+* Class [IBehavior](../ibehavior/)
+* Class [BehaviorCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

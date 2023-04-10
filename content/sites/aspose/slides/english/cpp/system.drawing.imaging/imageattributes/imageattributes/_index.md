@@ -17,6 +17,6 @@ System::Drawing::Imaging::ImageAttributes::ImageAttributes()
 
 ## See Also
 
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

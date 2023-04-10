@@ -12,9 +12,7 @@ url: /cpp/aspose.slides/paragraphformat/
 This class contains the paragraph formatting properties. Unlike [IParagraphFormatEffectiveData](../iparagraphformateffectivedata/), all properties of this class are writeable.
 
 ```cpp
-class ParagraphFormat : public Aspose::Slides::PVIObject,
-                        public Aspose::Slides::IParagraphFormat,
-                        public Aspose::Slides::Charts::IChartParagraphFormat
+class ParagraphFormat : public Aspose::Slides::PVIObject,                        public Aspose::Slides::IParagraphFormat,                        public Aspose::Slides::Charts::IChartParagraphFormat
 ```
 
 ## Methods

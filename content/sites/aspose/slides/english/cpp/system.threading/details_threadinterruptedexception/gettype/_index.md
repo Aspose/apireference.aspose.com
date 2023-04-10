@@ -22,7 +22,7 @@ const System::TypeInfo & System::Threading::Details_ThreadInterruptedException::
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_ThreadInterruptedException](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_ThreadInterruptedException](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

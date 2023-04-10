@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/itagcollection/idx_set/
 ---
-## ITagCollection::idx_set([System::String](../../../system/string/), [System::String](../../../system/string/)) method
+## ITagCollection::idx_set(System::String, System::String) method
 
 
 Sets a key and a value pair of a tag.
@@ -25,7 +25,7 @@ virtual void Aspose::Slides::ITagCollection::idx_set(System::String name, System
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ITagCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ITagCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

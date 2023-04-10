@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/video/
 Represents an image embedded into a presentation.
 
 ```cpp
-class Video : public Aspose::Slides::IVideo,
-              public Aspose::Slides::IDOMObject
+class Video : public Aspose::Slides::IVideo,              public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

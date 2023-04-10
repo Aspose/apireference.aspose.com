@@ -22,7 +22,7 @@ Week rule.
 
 ## See Also
 
-* Enum [CalendarWeekRule](../../calendarweekrule/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CalendarWeekRule](../calendarweekrule/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

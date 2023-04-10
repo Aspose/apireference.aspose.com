@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Charts::IDataLabelCollection::get_Count()=0
 
 ## See Also
 
-* Class [IDataLabelCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDataLabelCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

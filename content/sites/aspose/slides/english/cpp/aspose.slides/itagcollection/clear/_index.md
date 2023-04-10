@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITagCollection::Clear()=0
 
 ## See Also
 
-* Class [ITagCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITagCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

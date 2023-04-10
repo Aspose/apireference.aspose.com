@@ -22,6 +22,6 @@ Current state
 
 ## See Also
 
-* Class [Invalidatable](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Invalidatable](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ uint32_t System::TypeInfo::Hash() const
 
 ## See Also
 
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

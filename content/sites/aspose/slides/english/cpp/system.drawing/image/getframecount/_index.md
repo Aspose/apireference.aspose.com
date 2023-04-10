@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.drawing/image/getframecount/
 ---
-## Image::GetFrameCount(const [Imaging::FrameDimensionPtr](../../../system.drawing.imaging/framedimensionptr/)\&) method
+## Image::GetFrameCount(const Imaging::FrameDimensionPtr\&) method
 
 
 Returns the number of frames of the specified frame dimension.
@@ -28,7 +28,7 @@ The number of frames of the **dimension** frame dimension.
 
 ## See Also
 
-* Typedef [FrameDimensionPtr](../../../system.drawing.imaging/framedimensionptr/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [FrameDimensionPtr](../../system.drawing.imaging/framedimensionptr/)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

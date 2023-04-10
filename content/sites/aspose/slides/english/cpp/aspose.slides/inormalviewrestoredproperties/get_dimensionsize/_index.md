@@ -17,6 +17,6 @@ virtual float Aspose::Slides::INormalViewRestoredProperties::get_DimensionSize()
 
 ## See Also
 
-* Class [INormalViewRestoredProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [INormalViewRestoredProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

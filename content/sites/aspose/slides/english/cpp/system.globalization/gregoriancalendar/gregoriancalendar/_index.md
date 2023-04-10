@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.globalization/gregoriancalendar/gregoriancalendar/
 ---
-## GregorianCalendar::GregorianCalendar([GregorianCalendarTypes](../../gregoriancalendartypes/)) constructor
+## GregorianCalendar::GregorianCalendar(GregorianCalendarTypes) constructor
 
 
 Constructs specific gregorian calendar.
@@ -24,7 +24,7 @@ System::Globalization::GregorianCalendar::GregorianCalendar(GregorianCalendarTyp
 
 ## See Also
 
-* Enum [GregorianCalendarTypes](../../gregoriancalendartypes/)
-* Class [GregorianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [GregorianCalendarTypes](../gregoriancalendartypes/)
+* Class [GregorianCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/chartdatacell/set_formula/
 ---
-## ChartDataCell::set_Formula([System::String](../../../system/string/)) method
+## ChartDataCell::set_Formula(System::String) method
 
 
 Sets the formula in A1-style.
@@ -26,7 +26,7 @@ cell->set_Formula(u"1 + SUM(F2:H5)");
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ChartDataCell](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ChartDataCell](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

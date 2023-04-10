@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.diagnostics/processstartinfo/set_createnowindow/
 ---
-## ProcessStartInfo::set_CreateNoWindow(**bool**) method
+## ProcessStartInfo::set_CreateNoWindow(bool) method
 
 
 Sets NoWindow property.
@@ -24,6 +24,6 @@ void System::Diagnostics::ProcessStartInfo::set_CreateNoWindow(bool value)
 
 ## See Also
 
-* Class [ProcessStartInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ProcessStartInfo](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ A string.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PaperSize](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PaperSize](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

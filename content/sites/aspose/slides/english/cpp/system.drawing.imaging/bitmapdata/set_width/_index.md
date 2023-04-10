@@ -24,6 +24,6 @@ void System::Drawing::Imaging::BitmapData::set_Width(int value)
 
 ## See Also
 
-* Class [BitmapData](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitmapData](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

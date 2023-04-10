@@ -24,6 +24,6 @@ void System::Drawing::Rectangle::set_X(int value)
 
 ## See Also
 
-* Class [Rectangle](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Rectangle](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

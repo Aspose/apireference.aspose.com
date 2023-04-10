@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.slides/audioframe/set_embeddedaudio/
 ---
-## AudioFrame::set_EmbeddedAudio([System::SharedPtr](../../../system/sharedptr/)\<[IAudio](../../iaudio/)\>) method
+## AudioFrame::set_EmbeddedAudio(System::SharedPtr\<IAudio\>) method
 
 
 Sets embedded audio object. Write [IAudio](../../iaudio/).
@@ -17,8 +17,8 @@ void Aspose::Slides::AudioFrame::set_EmbeddedAudio(System::SharedPtr<IAudio> val
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAudio](../../iaudio/)
-* Class [AudioFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAudio](../iaudio/)
+* Class [AudioFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

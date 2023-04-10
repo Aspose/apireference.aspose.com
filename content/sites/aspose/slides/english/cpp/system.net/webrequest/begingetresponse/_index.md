@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.net/webrequest/begingetresponse/
 ---
-## WebRequest::BeginGetResponse([AsyncCallback](../../../system/asynccallback/), [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## WebRequest::BeginGetResponse(AsyncCallback, System::SharedPtr\<Object\>) method
 
 
 Initiates an asynchronous request for the resource.
@@ -29,10 +29,10 @@ An [IAsyncResult](../../../system/iasyncresult/) object representing the initiat
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Typedef [AsyncCallback](../../../system/asynccallback/)
-* Class [Object](../../../system/object/)
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Typedef [AsyncCallback](../../system/asynccallback/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [Object](../../system/object/)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

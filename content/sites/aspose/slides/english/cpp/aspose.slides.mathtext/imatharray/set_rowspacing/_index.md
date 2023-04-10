@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides.mathtext/imatharray/set_rowspacing/
 ---
-## IMathArray::set_RowSpacing(**uint32_t**) method
+## IMathArray::set_RowSpacing(uint32_t) method
 
 
 Spacing between rows of an array It is used only when RowSpacingRule is set to 3 Exactly in which case the unit of measure is points or Multiple in which case the unit of measure is half-lines. Default: 0
@@ -27,6 +27,6 @@ mathArray->set_RowSpacing(10);
 
 ## See Also
 
-* Class [IMathArray](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathArray](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

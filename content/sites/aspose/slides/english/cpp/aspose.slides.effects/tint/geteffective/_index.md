@@ -22,8 +22,8 @@ A [ITintEffectiveData](../../itinteffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITintEffectiveData](../../itinteffectivedata/)
-* Class [Tint](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITintEffectiveData](../itinteffectivedata/)
+* Class [Tint](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

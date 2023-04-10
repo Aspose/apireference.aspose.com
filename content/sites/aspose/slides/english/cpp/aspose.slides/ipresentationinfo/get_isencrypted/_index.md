@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IPresentationInfo::get_IsEncrypted()=0
 
 ## See Also
 
-* Class [IPresentationInfo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPresentationInfo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

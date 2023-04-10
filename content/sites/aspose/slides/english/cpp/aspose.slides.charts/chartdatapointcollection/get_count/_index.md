@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::ChartDataPointCollection::get_Count() override
 
 ## See Also
 
-* Class [ChartDataPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataPointCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

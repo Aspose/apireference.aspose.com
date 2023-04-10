@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.security.cryptography/hashalgorithmname/tryfromoid/
 ---
-## HashAlgorithmName::TryFromOid(const [String](../../../system/string/)\&, [HashAlgorithmName](../)\&) method
+## HashAlgorithmName::TryFromOid(const String\&, HashAlgorithmName\&) method
 
 
 Try to create [HashAlgorithmName](../) from OID-value.
@@ -29,8 +29,7 @@ true if specified OID is a valid hash algorithm, otherwise - false.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Struct [HashAlgorithmName](../)
-* Struct [HashAlgorithmName](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Struct [HashAlgorithmName](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

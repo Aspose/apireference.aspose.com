@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_binding/
 ---
-## SoapDocumentMethodAttribute::set_Binding([String](../../../system/string/)) method
+## SoapDocumentMethodAttribute::set_Binding(String) method
 
 
 Sets the binding for which an XML web service method is implementing an operation.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_Binding(
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SoapDocumentMethodAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SoapDocumentMethodAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

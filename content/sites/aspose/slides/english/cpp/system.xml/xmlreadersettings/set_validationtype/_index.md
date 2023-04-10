@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.xml/xmlreadersettings/set_validationtype/
 ---
-## XmlReaderSettings::set_ValidationType([System::Xml::ValidationType](../../validationtype/)) method
+## XmlReaderSettings::set_ValidationType(System::Xml::ValidationType) method
 
 
 Sets a value indicating whether the [XmlReader](../../xmlreader/) will perform validation or type assignment when reading.
@@ -24,7 +24,7 @@ void System::Xml::XmlReaderSettings::set_ValidationType(System::Xml::ValidationT
 
 ## See Also
 
-* Enum [ValidationType](../../validationtype/)
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ValidationType](../validationtype/)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system.io/file/setlastaccesstimeutc/
 ---
-## File::SetLastAccessTimeUtc(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## File::SetLastAccessTimeUtc(const String\&, DateTime) method
 
 
 NOT IMPLEMENTED.
@@ -18,8 +18,8 @@ static void System::IO::File::SetLastAccessTimeUtc(const String &path, DateTime 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

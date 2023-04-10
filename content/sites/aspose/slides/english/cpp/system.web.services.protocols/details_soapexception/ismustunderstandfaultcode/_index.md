@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.web.services.protocols/details_soapexception/ismustunderstandfaultcode/
 ---
-## Details_SoapException::IsMustUnderstandFaultCode([System::SharedPtr](../../../system/sharedptr/)\<[Xml::XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>) method
+## Details_SoapException::IsMustUnderstandFaultCode(System::SharedPtr\<Xml::XmlQualifiedName\>) method
 
 
 Checks if the specified code is equal to the 'MustUnderstand' SOAP fault code.
@@ -28,8 +28,8 @@ True when the specified code is equal to the 'MustUnderstand' SOAP fault code, o
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [Details_SoapException](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [Details_SoapException](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

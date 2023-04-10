@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.drawing/texturebrush/rotatetransform/
 ---
-## TextureBrush::RotateTransform(**float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
+## TextureBrush::RotateTransform(float, Drawing2D::MatrixOrder) method
 
 
 Rotates the local geometric transformation by the specified angle in the specified order.
@@ -25,7 +25,7 @@ void System::Drawing::TextureBrush::RotateTransform(float angle, Drawing2D::Matr
 
 ## See Also
 
-* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
-* Class [TextureBrush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MatrixOrder](../../system.drawing.drawing2d/matrixorder/)
+* Class [TextureBrush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

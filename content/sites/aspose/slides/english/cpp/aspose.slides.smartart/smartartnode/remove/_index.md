@@ -22,6 +22,6 @@ bool Aspose::Slides::SmartArt::SmartArtNode::Remove() override
 
 ## See Also
 
-* Class [SmartArtNode](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartArtNode](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

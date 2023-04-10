@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.globalization/calendar/addseconds/
 ---
-## Calendar::AddSeconds([DateTime](../../../system/datetime/), int) const method
+## Calendar::AddSeconds(DateTime, int) const method
 
 
 Adds seconds to time point.
@@ -29,7 +29,7 @@ Time point after calculation is done.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.security.cryptography.xml/transform/set_resolver/
 ---
-## Transform::set_Resolver([SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../../system.xml/xmlresolver/)\>) method
+## Transform::set_Resolver(SharedPtr\<System::Xml::XmlResolver\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::Transform::set_Resolver(SharedPtr<Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlResolver](../../../system.xml/xmlresolver/)
-* Class [Transform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlResolver](../../system.xml/xmlresolver/)
+* Class [Transform](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

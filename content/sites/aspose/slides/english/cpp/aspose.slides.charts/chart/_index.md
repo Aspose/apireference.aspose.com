@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/chart/
 Represents an graphic chart on a slide.
 
 ```cpp
-class Chart : public Aspose::Slides::GraphicalObject,
-              public Aspose::Slides::Charts::IChart
+class Chart : public Aspose::Slides::GraphicalObject,              public Aspose::Slides::Charts::IChart
 ```
 
 ## Methods

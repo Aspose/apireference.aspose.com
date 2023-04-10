@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides/summaryzoomsectioncollection/settemplateweakptr/
 ---
-## SummaryZoomSectionCollection::SetTemplateWeakPtr(**uint32_t**) method
+## SummaryZoomSectionCollection::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::SummaryZoomSectionCollection::SetTemplateWeakPtr(uint32_t a
 
 ## See Also
 
-* Class [SummaryZoomSectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SummaryZoomSectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

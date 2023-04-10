@@ -17,7 +17,7 @@ virtual LightRigPresetType Aspose::Slides::ILightRigEffectiveData::get_LightType
 
 ## See Also
 
-* Enum [LightRigPresetType](../../lightrigpresettype/)
-* Class [ILightRigEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LightRigPresetType](../lightrigpresettype/)
+* Class [ILightRigEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

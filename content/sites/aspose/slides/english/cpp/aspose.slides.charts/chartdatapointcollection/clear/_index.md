@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartDataPointCollection::Clear() override
 
 ## See Also
 
-* Class [ChartDataPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataPointCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

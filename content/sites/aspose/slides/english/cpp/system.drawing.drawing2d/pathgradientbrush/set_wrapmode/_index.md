@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_wrapmode/
 ---
-## PathGradientBrush::set_WrapMode([WrapMode](../../wrapmode/)) method
+## PathGradientBrush::set_WrapMode(WrapMode) method
 
 
 Sets the wrap mode.
@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_WrapMode(WrapMode value)
 
 ## See Also
 
-* Enum [WrapMode](../../wrapmode/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [WrapMode](../wrapmode/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

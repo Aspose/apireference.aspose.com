@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::ChartSeriesGroup::get_HasSeriesLines() override
 
 ## See Also
 
-* Class [ChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

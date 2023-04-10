@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides/baseportionformat/set_fontunderline/
 ---
-## BasePortionFormat::set_FontUnderline([TextUnderlineType](../../textunderlinetype/)) method
+## BasePortionFormat::set_FontUnderline(TextUnderlineType) method
 
 
 Sets the text underline type. No inheritance applied. Write [TextUnderlineType](../../textunderlinetype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::BasePortionFormat::set_FontUnderline(TextUnderlineType valu
 
 ## See Also
 
-* Enum [TextUnderlineType](../../textunderlinetype/)
-* Class [BasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextUnderlineType](../textunderlinetype/)
+* Class [BasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

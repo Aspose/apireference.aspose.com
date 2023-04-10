@@ -17,7 +17,7 @@ NullableBool Aspose::Slides::GradientFormat::get_LinearGradientScaled() override
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [GradientFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [GradientFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

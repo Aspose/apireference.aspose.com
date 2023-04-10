@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/system.net.sockets/networkstream/setlength/
 ---
-## NetworkStream::SetLength(**int64_t**) method
+## NetworkStream::SetLength(int64_t) method
 
 
 Sets the length of the stream represented by the current object.
@@ -24,6 +24,6 @@ void System::Net::Sockets::NetworkStream::SetLength(int64_t value) override
 
 ## See Also
 
-* Class [NetworkStream](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NetworkStream](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

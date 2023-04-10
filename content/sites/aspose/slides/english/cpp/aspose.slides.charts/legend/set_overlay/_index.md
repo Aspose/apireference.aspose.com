@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.charts/legend/set_overlay/
 ---
-## Legend::set_Overlay(**bool**) method
+## Legend::set_Overlay(bool) method
 
 
 Determines whether other chart elements shall be allowed to overlap legend. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Legend::set_Overlay(bool value) override
 
 ## See Also
 
-* Class [Legend](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Legend](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

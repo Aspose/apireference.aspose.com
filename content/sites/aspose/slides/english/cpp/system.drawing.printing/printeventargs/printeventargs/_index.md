@@ -17,6 +17,6 @@ System::Drawing::Printing::PrintEventArgs::PrintEventArgs()
 
 ## See Also
 
-* Class [PrintEventArgs](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PrintEventArgs](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.boxedvaluedetail/equals_less_float__greater/
 ---
-## System::BoxedValueDetail::Equals< float >(**float**, **float**) function
+## System::BoxedValueDetail::Equals< float >(float, float) function
 
 
 Compares two single-precision floating-point values.
@@ -29,5 +29,5 @@ True if both values are NAN or are equal, otherwise - false
 
 ## See Also
 
-* Namespace [System::BoxedValueDetail](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System::BoxedValueDetail](./)
+* Library [Aspose.Slides](../)

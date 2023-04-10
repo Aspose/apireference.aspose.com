@@ -32,11 +32,6 @@ template<class X> SmartPtr<X> System::MakeSharedPtr(X *p)
 
 Shared smart pointer to object.
 
-## See Also
-
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::MakeSharedPtr(const X *) function
 
 
@@ -65,6 +60,6 @@ Shared smart pointer to object.
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

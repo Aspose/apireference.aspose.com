@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/aspose.slides/shape/set_height/
 ---
-## Shape::set_Height(**float**) method
+## Shape::set_Height(float) method
 
 
 Sets the height of the shape. Write **float**.
@@ -21,6 +21,6 @@ void Aspose::Slides::Shape::set_Height(float value) override
 Returned value is always defined (is not std::numeric_limits<float>::quiet_NaN()). Assigned value must be defined (not std::numeric_limits<float>::quiet_NaN()). You can set undefined values for RawFrame instance properties. 
 ## See Also
 
-* Class [Shape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Shape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

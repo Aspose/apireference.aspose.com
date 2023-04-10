@@ -22,7 +22,7 @@ The parameter formatting.
 
 ## See Also
 
-* Enum [SoapBindingUse](../../../system.web.services.description/soapbindinguse/)
-* Class [SoapDocumentServiceAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SoapBindingUse](../../system.web.services.description/soapbindinguse/)
+* Class [SoapDocumentServiceAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

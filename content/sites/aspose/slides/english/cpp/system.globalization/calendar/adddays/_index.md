@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.globalization/calendar/adddays/
 ---
-## Calendar::AddDays([DateTime](../../../system/datetime/), int) const method
+## Calendar::AddDays(DateTime, int) const method
 
 
 Adds days to time point.
@@ -29,7 +29,7 @@ Time point after calculation is done.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

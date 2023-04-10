@@ -22,6 +22,6 @@ True if the current object does not represent any color, otherwise - false
 
 ## See Also
 
-* Class [Color](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

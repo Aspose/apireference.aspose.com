@@ -17,8 +17,8 @@ System::SharedPtr<IUpDownBarsManager> Aspose::Slides::Charts::ChartSeriesGroup::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IUpDownBarsManager](../../iupdownbarsmanager/)
-* Class [ChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IUpDownBarsManager](../iupdownbarsmanager/)
+* Class [ChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

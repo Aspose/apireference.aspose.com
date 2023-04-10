@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.slides.mathtext/imathmatrix/deletecolumn/
 ---
-## IMathMatrix::DeleteColumn(**int32_t**) method
+## IMathMatrix::DeleteColumn(int32_t) method
 
 
 Deletes the specified column
@@ -33,6 +33,6 @@ matrix->DeleteColumn(0);
 
 ## See Also
 
-* Class [IMathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

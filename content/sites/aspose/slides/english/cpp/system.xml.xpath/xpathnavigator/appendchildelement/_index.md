@@ -6,7 +6,7 @@ type: docs
 weight: 1002
 url: /cpp/system.xml.xpath/xpathnavigator/appendchildelement/
 ---
-## XPathNavigator::AppendChildElement([String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/)) method
+## XPathNavigator::AppendChildElement(String, String, String, String) method
 
 
 Creates a new child element node at the end of the list of child nodes of the current node using the namespace prefix, local name and namespace URI specified with the value specified.
@@ -27,7 +27,7 @@ virtual void System::Xml::XPath::XPathNavigator::AppendChildElement(String prefi
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

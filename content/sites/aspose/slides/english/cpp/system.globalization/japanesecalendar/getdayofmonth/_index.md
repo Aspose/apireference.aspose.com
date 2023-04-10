@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.globalization/japanesecalendar/getdayofmonth/
 ---
-## JapaneseCalendar::GetDayOfMonth([DateTime](../../../system/datetime/)) const method
+## JapaneseCalendar::GetDayOfMonth(DateTime) const method
 
 
 Gets day of month for the specified time point.
@@ -28,7 +28,7 @@ Day of month in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [JapaneseCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [JapaneseCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

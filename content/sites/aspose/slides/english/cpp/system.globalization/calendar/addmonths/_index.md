@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.globalization/calendar/addmonths/
 ---
-## Calendar::AddMonths([DateTime](../../../system/datetime/), int) const method
+## Calendar::AddMonths(DateTime, int) const method
 
 
 Adds months to time point.
@@ -29,7 +29,7 @@ Time point after calculation is done.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

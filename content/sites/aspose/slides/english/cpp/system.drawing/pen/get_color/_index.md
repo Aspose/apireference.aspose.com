@@ -17,7 +17,7 @@ Color System::Drawing::Pen::get_Color() const
 
 ## See Also
 
-* Class [Color](../../color/)
-* Class [Pen](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../color/)
+* Class [Pen](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

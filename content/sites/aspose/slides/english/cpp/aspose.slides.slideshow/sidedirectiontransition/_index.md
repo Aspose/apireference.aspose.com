@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/sidedirectiontransition/
 Side direction slide transition effect.
 
 ```cpp
-class SideDirectionTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                                public Aspose::Slides::SlideShow::ISideDirectionTransition
+class SideDirectionTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                                public Aspose::Slides::SlideShow::ISideDirectionTransition
 ```
 
 ## Methods

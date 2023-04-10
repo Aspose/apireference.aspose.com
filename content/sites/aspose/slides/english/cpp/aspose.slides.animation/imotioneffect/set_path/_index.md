@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.animation/imotioneffect/set_path/
 ---
-## IMotionEffect::set_Path([System::SharedPtr](../../../system/sharedptr/)\<[IMotionPath](../../imotionpath/)\>) method
+## IMotionEffect::set_Path(System::SharedPtr\<IMotionPath\>) method
 
 
 Specifies the path primitive followed by coordinates for the animation motion. Write [IMotionPath](../../imotionpath/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::IMotionEffect::set_Path(System::SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMotionPath](../../imotionpath/)
-* Class [IMotionEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMotionPath](../imotionpath/)
+* Class [IMotionEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual ArrayPtr<int64_t> System::EnumValues<E, Guard>::GetValues() const overri
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [EnumValues](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Class [EnumValues](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

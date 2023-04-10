@@ -29,7 +29,7 @@ ZoomLayout layout = zoomFrame->get_Layout();
 
 ## See Also
 
-* Enum [ZoomLayout](../../zoomlayout/)
-* Class [SummaryZoomFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ZoomLayout](../zoomlayout/)
+* Class [SummaryZoomFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

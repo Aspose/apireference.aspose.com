@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/threedformat/
 Represents 3-D properties.
 
 ```cpp
-class ThreeDFormat : public Aspose::Slides::PVIObject,
-                     public Aspose::Slides::IThreeDFormat
+class ThreeDFormat : public Aspose::Slides::PVIObject,                     public Aspose::Slides::IThreeDFormat
 ```
 
 ## Methods

@@ -17,6 +17,6 @@ virtual bool System::Threading::EventWaitHandle::Reset()
 
 ## See Also
 
-* Class [EventWaitHandle](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EventWaitHandle](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

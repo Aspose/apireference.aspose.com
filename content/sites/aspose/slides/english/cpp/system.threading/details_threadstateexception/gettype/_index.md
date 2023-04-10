@@ -22,7 +22,7 @@ const System::TypeInfo & System::Threading::Details_ThreadStateException::GetTyp
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_ThreadStateException](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_ThreadStateException](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

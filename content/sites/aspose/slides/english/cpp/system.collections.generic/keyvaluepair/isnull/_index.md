@@ -17,6 +17,6 @@ bool System::Collections::Generic::KeyValuePair<TKey, TValue>::IsNull() const
 
 ## See Also
 
-* Class [KeyValuePair](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [KeyValuePair](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

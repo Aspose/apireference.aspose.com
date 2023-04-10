@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.xml/xmlnode/set_innertext/
 ---
-## XmlNode::set_InnerText([String](../../../system/string/)) method
+## XmlNode::set_InnerText(String) method
 
 
 Sets the concatenated values of the node and all its child nodes.
@@ -24,7 +24,7 @@ virtual void System::Xml::XmlNode::set_InnerText(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

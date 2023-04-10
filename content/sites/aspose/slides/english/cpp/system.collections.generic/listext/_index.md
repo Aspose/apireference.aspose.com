@@ -12,8 +12,7 @@ url: /cpp/system.collections.generic/listext/
 generic [List](../list/) class that implements [IListWrapper](../../system.collections/ilistwrapper/) interface
 
 ```cpp
-template<typename T>class ListExt : public System::Collections::Generic::List<T>,
-                                    public System::Collections::IListWrapper
+template<typename T>class ListExt : public System::Collections::Generic::List<T>,                                    public System::Collections::IListWrapper
 ```
 
 ## Methods

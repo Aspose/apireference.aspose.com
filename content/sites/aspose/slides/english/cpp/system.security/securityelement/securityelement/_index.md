@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.security/securityelement/securityelement/
 ---
-## SecurityElement::SecurityElement(const [String](../../../system/string/)\&) constructor
+## SecurityElement::SecurityElement(const String\&) constructor
 
 
 Constructor.
@@ -22,13 +22,7 @@ System::Security::SecurityElement::SecurityElement(const String &tag)
 | --- | --- | --- |
 | tag | const [String](../../../system/string/)\& | XML tag name. |
 
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
-## SecurityElement::SecurityElement(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) constructor
+## SecurityElement::SecurityElement(const String\&, const String\&) constructor
 
 
 Constructor.
@@ -47,7 +41,7 @@ System::Security::SecurityElement::SecurityElement(const String &tag, const Stri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

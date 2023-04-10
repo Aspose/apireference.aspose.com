@@ -17,8 +17,8 @@ virtual System::SharedPtr<IHyperlinkQueries> Aspose::Slides::IBaseSlide::get_Hyp
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHyperlinkQueries](../../ihyperlinkqueries/)
-* Class [IBaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHyperlinkQueries](../ihyperlinkqueries/)
+* Class [IBaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ const System::TypeInfo & System::Security::Cryptography::Details_CryptographicUn
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_CryptographicUnexpectedOperationException](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_CryptographicUnexpectedOperationException](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

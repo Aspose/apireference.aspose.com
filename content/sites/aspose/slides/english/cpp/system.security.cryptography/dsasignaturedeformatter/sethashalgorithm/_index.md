@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.security.cryptography/dsasignaturedeformatter/sethashalgorithm/
 ---
-## DSASignatureDeformatter::SetHashAlgorithm([String](../../../system/string/)) method
+## DSASignatureDeformatter::SetHashAlgorithm(String) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ void System::Security::Cryptography::DSASignatureDeformatter::SetHashAlgorithm(S
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DSASignatureDeformatter](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DSASignatureDeformatter](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

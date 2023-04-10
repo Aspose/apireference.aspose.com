@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColorScheme> Aspose::Slides::Theme::IExtraColorScheme
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorScheme](../../icolorscheme/)
-* Class [IExtraColorScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorScheme](../icolorscheme/)
+* Class [IExtraColorScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

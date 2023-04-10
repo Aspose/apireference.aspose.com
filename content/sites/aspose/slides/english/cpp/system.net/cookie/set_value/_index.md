@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.net/cookie/set_value/
 ---
-## Cookie::set_Value([String](../../../system/string/)) method
+## Cookie::set_Value(String) method
 
 
 Sets the cookie's value.
@@ -24,7 +24,7 @@ void System::Net::Cookie::set_Value(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

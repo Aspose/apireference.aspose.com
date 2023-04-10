@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/system.globalization/calendar/getmonth/
 ---
-## Calendar::GetMonth([DateTime](../../../system/datetime/)) const method
+## Calendar::GetMonth(DateTime) const method
 
 
 Gets month for the specified time point.
@@ -28,7 +28,7 @@ Month in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

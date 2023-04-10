@@ -17,6 +17,6 @@ bool Aspose::Slides::Theme::EffectStyleCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [EffectStyleCollection](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EffectStyleCollection](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

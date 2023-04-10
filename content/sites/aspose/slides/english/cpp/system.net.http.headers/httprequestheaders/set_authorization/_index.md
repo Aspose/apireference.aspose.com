@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net.http.headers/httprequestheaders/set_authorization/
 ---
-## HttpRequestHeaders::set_Authorization([System::SharedPtr](../../../system/sharedptr/)\<[AuthenticationHeaderValue](../../authenticationheadervalue/)\>) method
+## HttpRequestHeaders::set_Authorization(System::SharedPtr\<AuthenticationHeaderValue\>) method
 
 
 Sets a value of the 'Authorization' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_Authorization(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AuthenticationHeaderValue](../../authenticationheadervalue/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [AuthenticationHeaderValue](../authenticationheadervalue/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

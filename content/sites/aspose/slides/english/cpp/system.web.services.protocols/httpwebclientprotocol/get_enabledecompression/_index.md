@@ -22,6 +22,6 @@ A value that indicates if decompression is enabled.
 
 ## See Also
 
-* Class [HttpWebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpWebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

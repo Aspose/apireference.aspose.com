@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml/xmlnamednodemap/item/
 ---
-## XmlNamedNodeMap::Item(**int32_t**) method
+## XmlNamedNodeMap::Item(int32_t) method
 
 
 Retrieves the node at the specified index in the [XmlNamedNodeMap](../).
@@ -28,8 +28,8 @@ The [XmlNode](../../xmlnode/) at the specified index. If **index** is less than 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlNamedNodeMap](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlNamedNodeMap](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

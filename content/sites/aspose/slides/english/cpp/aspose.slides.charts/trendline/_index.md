@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/trendline/
 Class represents trend line of chart series
 
 ```cpp
-class Trendline : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::TrendlineCollection>>,
-                  public Aspose::Slides::Charts::ITrendline
+class Trendline : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::TrendlineCollection>>,                  public Aspose::Slides::Charts::ITrendline
 ```
 
 ## Methods

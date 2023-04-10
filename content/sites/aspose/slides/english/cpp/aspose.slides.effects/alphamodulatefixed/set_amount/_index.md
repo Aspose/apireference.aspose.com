@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/alphamodulatefixed/set_amount/
 ---
-## AlphaModulateFixed::set_Amount(**float**) method
+## AlphaModulateFixed::set_Amount(float) method
 
 
 Returns an amount of effect in percents. Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::AlphaModulateFixed::set_Amount(float value) overri
 
 ## See Also
 
-* Class [AlphaModulateFixed](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AlphaModulateFixed](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

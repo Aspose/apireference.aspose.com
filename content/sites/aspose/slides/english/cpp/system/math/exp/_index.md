@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system/math/exp/
 ---
-## Math::Exp(**double**) method
+## Math::Exp(double) method
 
 
 Returns e constant raised to the specified power.
@@ -28,6 +28,6 @@ e constant raised to the power of **d**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

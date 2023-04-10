@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net/cookiecontainer/set_capacity/
 ---
-## CookieContainer::set_Capacity(**int32_t**) method
+## CookieContainer::set_Capacity(int32_t) method
 
 
 Sets the collection capacity.
@@ -24,6 +24,6 @@ void System::Net::CookieContainer::set_Capacity(int32_t value)
 
 ## See Also
 
-* Class [CookieContainer](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CookieContainer](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

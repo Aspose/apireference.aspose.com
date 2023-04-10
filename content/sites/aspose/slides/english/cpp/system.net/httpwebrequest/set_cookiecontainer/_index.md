@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.net/httpwebrequest/set_cookiecontainer/
 ---
-## HttpWebRequest::set_CookieContainer([System::SharedPtr](../../../system/sharedptr/)\<[System::Net::CookieContainer](../../cookiecontainer/)\>) method
+## HttpWebRequest::set_CookieContainer(System::SharedPtr\<System::Net::CookieContainer\>) method
 
 
 Sets a cookie container associated with the current web request.
@@ -24,8 +24,8 @@ virtual void System::Net::HttpWebRequest::set_CookieContainer(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CookieContainer](../../cookiecontainer/)
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CookieContainer](../cookiecontainer/)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

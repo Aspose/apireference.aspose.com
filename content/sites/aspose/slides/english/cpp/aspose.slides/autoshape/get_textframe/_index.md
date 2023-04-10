@@ -17,8 +17,8 @@ System::SharedPtr<ITextFrame> Aspose::Slides::AutoShape::get_TextFrame() overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITextFrame](../../itextframe/)
-* Class [AutoShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITextFrame](../itextframe/)
+* Class [AutoShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

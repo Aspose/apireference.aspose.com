@@ -17,6 +17,6 @@ System::Xml::NameTable::NameTable()
 
 ## See Also
 
-* Class [NameTable](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NameTable](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

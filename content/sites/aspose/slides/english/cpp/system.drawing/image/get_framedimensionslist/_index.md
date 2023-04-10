@@ -17,8 +17,8 @@ ArrayPtr<Guid> System::Drawing::Image::get_FrameDimensionsList() const
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Guid](../../../system/guid/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Guid](../../system/guid/)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

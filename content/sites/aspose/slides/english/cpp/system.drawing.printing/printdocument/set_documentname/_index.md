@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.drawing.printing/printdocument/set_documentname/
 ---
-## PrintDocument::set_DocumentName(const [String](../../../system/string/)\&) method
+## PrintDocument::set_DocumentName(const String\&) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ void System::Drawing::Printing::PrintDocument::set_DocumentName(const String &na
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PrintDocument](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PrintDocument](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

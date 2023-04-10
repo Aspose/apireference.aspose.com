@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml/xmlnamespacemanager/addnamespace/
 ---
-## XmlNamespaceManager::AddNamespace([String](../../../system/string/), [String](../../../system/string/)) method
+## XmlNamespaceManager::AddNamespace(String, String) method
 
 
 Adds the given namespace to the collection.
@@ -25,7 +25,7 @@ virtual void System::Xml::XmlNamespaceManager::AddNamespace(String prefix, Strin
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNamespaceManager](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNamespaceManager](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

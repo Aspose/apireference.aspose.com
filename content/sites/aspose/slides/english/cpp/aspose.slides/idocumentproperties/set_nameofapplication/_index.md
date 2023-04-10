@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/idocumentproperties/set_nameofapplication/
 ---
-## IDocumentProperties::set_NameOfApplication([System::String](../../../system/string/)) method
+## IDocumentProperties::set_NameOfApplication(System::String) method
 
 
 Sets the name of the application. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_NameOfApplication(System::
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

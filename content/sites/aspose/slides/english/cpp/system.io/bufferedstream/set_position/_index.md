@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.io/bufferedstream/set_position/
 ---
-## BufferedStream::set_Position(**int64_t**) method
+## BufferedStream::set_Position(int64_t) method
 
 
 Flushes the buffer to the underlying stream and then sets the stream's position.
@@ -24,6 +24,6 @@ virtual void System::IO::BufferedStream::set_Position(int64_t value) override
 
 ## See Also
 
-* Class [BufferedStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BufferedStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

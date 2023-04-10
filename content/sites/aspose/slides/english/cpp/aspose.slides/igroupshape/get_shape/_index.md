@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/igroupshape/get_shape/
 ---
-## IGroupShape::get_Shape(**int32_t**) method
+## IGroupShape::get_Shape(int32_t) method
 
 
 Returns a shape inside group at the specified index. Read-only [Aspose::Slides::IShape](../../ishape/)
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IShape> Aspose::Slides::IGroupShape::get_Shape(int32_t
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShape](../../ishape/)
-* Class [IGroupShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShape](../ishape/)
+* Class [IGroupShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

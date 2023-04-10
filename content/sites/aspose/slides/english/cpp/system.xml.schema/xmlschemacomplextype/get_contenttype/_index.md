@@ -22,7 +22,7 @@ The post-compilation value of the content model for the complex type.
 
 ## See Also
 
-* Enum [XmlSchemaContentType](../../xmlschemacontenttype/)
-* Class [XmlSchemaComplexType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaContentType](../xmlschemacontenttype/)
+* Class [XmlSchemaComplexType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

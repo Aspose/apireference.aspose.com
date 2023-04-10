@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/itagcollection/remove/
 ---
-## ITagCollection::Remove([System::String](../../../system/string/)) method
+## ITagCollection::Remove(System::String) method
 
 
 Removes the tag with a specified name from the collection.
@@ -24,7 +24,7 @@ virtual void Aspose::Slides::ITagCollection::Remove(System::String name)=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ITagCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ITagCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/irow/
 Represents a row in a table.
 
 ```cpp
-class IRow : public virtual Aspose::Slides::ICellCollection,
-             public Aspose::Slides::IBulkTextFormattable
+class IRow : public virtual Aspose::Slides::ICellCollection,             public Aspose::Slides::IBulkTextFormattable
 ```
 
 ## Methods

@@ -17,7 +17,7 @@ Aspose::Slides::Orientation Aspose::Slides::Placeholder::get_Orientation() overr
 
 ## See Also
 
-* Enum [Orientation](../../orientation/)
-* Class [Placeholder](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [Orientation](../orientation/)
+* Class [Placeholder](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

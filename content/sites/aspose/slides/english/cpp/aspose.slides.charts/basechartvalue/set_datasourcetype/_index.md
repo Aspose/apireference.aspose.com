@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/basechartvalue/set_datasourcetype/
 ---
-## BaseChartValue::set_DataSourceType([Aspose::Slides::Charts::DataSourceType](../../datasourcetype/)) method
+## BaseChartValue::set_DataSourceType(Aspose::Slides::Charts::DataSourceType) method
 
 
 Specifies whether AsCell, AsCells, AsLiteralString or AsLiteralDouble property is actual in descendants. In other words it specifies the type of value of the Data property. Write [Charts::DataSourceType](../../datasourcetype/).
@@ -21,7 +21,7 @@ void Aspose::Slides::Charts::BaseChartValue::set_DataSourceType(Aspose::Slides::
 For points in [ChartDataPointCollection](../../chartdatapointcollection/) this property is read-only. In this case for changing value of this property you can use one of the ChartDataPointCollection.DataSourceTypeFor<...> properties. 
 ## See Also
 
-* Enum [DataSourceType](../../datasourcetype/)
-* Class [BaseChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DataSourceType](../datasourcetype/)
+* Class [BaseChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

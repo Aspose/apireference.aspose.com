@@ -17,6 +17,6 @@ int System::Globalization::CompareInfo::get_LCID() const
 
 ## See Also
 
-* Class [CompareInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CompareInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.collections.generic/idictionary/copyto/
 ---
-## IDictionary::CopyTo([ArrayPtr](../../../system/arrayptr/)\<[KeyValuePair](../../keyvaluepair/)\<TKey, TValue\>\>, int) method
+## IDictionary::CopyTo(ArrayPtr\<KeyValuePair\<TKey, TValue\>\>, int) method
 
 
 Copies dictionary contents into existing array elements.
@@ -25,8 +25,8 @@ virtual void System::Collections::Generic::IDictionary<TKey, TValue>::CopyTo(Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [KeyValuePair](../../keyvaluepair/)
-* Class [IDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [KeyValuePair](../keyvaluepair/)
+* Class [IDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

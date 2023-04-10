@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.smartart/smartart/
 Represents a [SmartArt](./) diagram
 
 ```cpp
-class SmartArt : public Aspose::Slides::GraphicalObject,
-                 public Aspose::Slides::SmartArt::ISmartArt
+class SmartArt : public Aspose::Slides::GraphicalObject,                 public Aspose::Slides::SmartArt::ISmartArt
 ```
 
 ## Methods

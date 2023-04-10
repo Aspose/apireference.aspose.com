@@ -17,8 +17,8 @@ SharedPtr<System::Text::Encoding> System::ConsoleOutput::get_Encoding() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Encoding](../../../system.text/encoding/)
-* Class [ConsoleOutput](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Encoding](../../system.text/encoding/)
+* Class [ConsoleOutput](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

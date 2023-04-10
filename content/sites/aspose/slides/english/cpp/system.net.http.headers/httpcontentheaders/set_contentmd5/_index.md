@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contentmd5/
 ---
-## HttpContentHeaders::set_ContentMD5([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
+## HttpContentHeaders::set_ContentMD5(System::ArrayPtr\<uint8_t\>) method
 
 
 Sets a value of the 'Content-MD5' header.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpContentHeaders::set_ContentMD5(System::Arra
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [HttpContentHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [HttpContentHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/ilineformat/set_joinstyle/
 ---
-## ILineFormat::set_JoinStyle([LineJoinStyle](../../linejoinstyle/)) method
+## ILineFormat::set_JoinStyle(LineJoinStyle) method
 
 
 Sets the lines join style. Write [LineJoinStyle](../../linejoinstyle/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILineFormat::set_JoinStyle(LineJoinStyle value)=0
 
 ## See Also
 
-* Enum [LineJoinStyle](../../linejoinstyle/)
-* Class [ILineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineJoinStyle](../linejoinstyle/)
+* Class [ILineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/axesmanager/settemplateweakptr/
 ---
-## AxesManager::SetTemplateWeakPtr(**uint32_t**) method
+## AxesManager::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::AxesManager::SetTemplateWeakPtr(uint32_t argument) 
 
 ## See Also
 
-* Class [AxesManager](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AxesManager](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

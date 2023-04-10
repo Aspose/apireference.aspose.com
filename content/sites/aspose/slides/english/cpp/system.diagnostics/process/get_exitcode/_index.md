@@ -22,6 +22,6 @@ int System::Diagnostics::Process::get_ExitCode() const
 
 ## See Also
 
-* Class [Process](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Process](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

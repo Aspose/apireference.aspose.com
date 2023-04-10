@@ -18,8 +18,8 @@ virtual System::SharedPtr<IShape> Aspose::Slides::IConnector::get_EndShapeConnec
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShape](../../ishape/)
-* Class [IConnector](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShape](../ishape/)
+* Class [IConnector](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

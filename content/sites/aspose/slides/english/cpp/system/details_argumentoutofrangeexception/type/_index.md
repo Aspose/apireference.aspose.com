@@ -25,7 +25,7 @@ Information about the current type.
 Returns information about the current type. 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [Details_ArgumentOutOfRangeException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [Details_ArgumentOutOfRangeException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

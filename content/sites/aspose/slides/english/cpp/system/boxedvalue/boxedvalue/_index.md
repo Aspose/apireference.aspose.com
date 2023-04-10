@@ -24,6 +24,6 @@ System::BoxedValue<T>::BoxedValue(const T &value)
 
 ## See Also
 
-* Class [BoxedValue](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BoxedValue](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

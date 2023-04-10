@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.net.sockets/tcplistener/endaccepttcpclient/
 ---
-## TcpListener::EndAcceptTcpClient([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
+## TcpListener::EndAcceptTcpClient(System::SharedPtr\<IAsyncResult\>) method
 
 
 Waits until the specified asynchronous accept operation completes.
@@ -24,9 +24,9 @@ System::SharedPtr<TcpClient> System::Net::Sockets::TcpListener::EndAcceptTcpClie
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TcpClient](../../tcpclient/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Class [TcpListener](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [TcpClient](../tcpclient/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [TcpListener](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

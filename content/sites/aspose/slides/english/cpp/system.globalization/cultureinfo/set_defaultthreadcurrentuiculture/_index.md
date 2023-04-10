@@ -6,7 +6,7 @@ type: docs
 weight: 560
 url: /cpp/system.globalization/cultureinfo/set_defaultthreadcurrentuiculture/
 ---
-## CultureInfo::set_DefaultThreadCurrentUICulture(const [CultureInfoPtr](../../cultureinfoptr/)\&) method
+## CultureInfo::set_DefaultThreadCurrentUICulture(const CultureInfoPtr\&) method
 
 
 Sets default UI culture in the current application domain.
@@ -24,7 +24,7 @@ static void System::Globalization::CultureInfo::set_DefaultThreadCurrentUICultur
 
 ## See Also
 
-* Typedef [CultureInfoPtr](../../cultureinfoptr/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [CultureInfoPtr](../cultureinfoptr/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.text/encoder/set_fallback/
 ---
-## Encoder::set_Fallback(const [EncoderFallbackPtr](../../../system/encoderfallbackptr/)\&) method
+## Encoder::set_Fallback(const EncoderFallbackPtr\&) method
 
 
 Sets error handling fallback.
@@ -24,7 +24,7 @@ void System::Text::Encoder::set_Fallback(const EncoderFallbackPtr &value)
 
 ## See Also
 
-* Typedef [EncoderFallbackPtr](../../../system/encoderfallbackptr/)
-* Class [Encoder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [EncoderFallbackPtr](../../system/encoderfallbackptr/)
+* Class [Encoder](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

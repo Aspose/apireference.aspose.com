@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/system.xml/xmltextwriter/writeprocessinginstruction/
 ---
-## XmlTextWriter::WriteProcessingInstruction([String](../../../system/string/), [String](../../../system/string/)) method
+## XmlTextWriter::WriteProcessingInstruction(String, String) method
 
 
 Writes out a processing instruction with a space between the name and text as follows: **<?name text?>**.
@@ -29,7 +29,7 @@ void System::Xml::XmlTextWriter::WriteProcessingInstruction(String name, String 
 This method is being used to create an XML declaration after [XmlTextWriter::WriteStartDocument](../writestartdocument/) has already been called. 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlTextWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlTextWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

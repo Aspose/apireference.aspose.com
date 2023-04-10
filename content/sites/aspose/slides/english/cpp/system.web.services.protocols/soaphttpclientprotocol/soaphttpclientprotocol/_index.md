@@ -17,6 +17,6 @@ System::Web::Services::Protocols::SoapHttpClientProtocol::SoapHttpClientProtocol
 
 ## See Also
 
-* Class [SoapHttpClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SoapHttpClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

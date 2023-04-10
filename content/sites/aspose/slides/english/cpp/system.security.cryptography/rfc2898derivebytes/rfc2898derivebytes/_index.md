@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.security.cryptography/rfc2898derivebytes/rfc2898derivebytes/
 ---
-## Rfc2898DeriveBytes::Rfc2898DeriveBytes([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**) constructor
+## Rfc2898DeriveBytes::Rfc2898DeriveBytes(ArrayPtr\<uint8_t\>, ArrayPtr\<uint8_t\>, int32_t) constructor
 
 
 RTTI information.
@@ -21,7 +21,7 @@ System::Security::Cryptography::Rfc2898DeriveBytes::Rfc2898DeriveBytes(ArrayPtr<
 Constructor. 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Rfc2898DeriveBytes](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Rfc2898DeriveBytes](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

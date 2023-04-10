@@ -22,6 +22,6 @@ True if the current object represents a value, otherwise - false
 
 ## See Also
 
-* Class [Nullable](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/sequence/removeat/
 ---
-## Sequence::RemoveAt(**int32_t**) method
+## Sequence::RemoveAt(int32_t) method
 
 
 Removes an effect from a collection.
@@ -24,6 +24,6 @@ void Aspose::Slides::Animation::Sequence::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [Sequence](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Sequence](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

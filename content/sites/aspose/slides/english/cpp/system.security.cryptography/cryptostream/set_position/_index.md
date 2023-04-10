@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.security.cryptography/cryptostream/set_position/
 ---
-## CryptoStream::set_Position(**int64_t**) method
+## CryptoStream::set_Position(int64_t) method
 
 
 Seeks position in stream. Not supported.
@@ -18,6 +18,6 @@ void System::Security::Cryptography::CryptoStream::set_Position(int64_t value) o
 
 ## See Also
 
-* Class [CryptoStream](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CryptoStream](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

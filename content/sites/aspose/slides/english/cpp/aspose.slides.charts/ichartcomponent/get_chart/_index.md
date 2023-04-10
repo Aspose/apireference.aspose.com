@@ -17,8 +17,8 @@ virtual System::SharedPtr<IChart> Aspose::Slides::Charts::IChartComponent::get_C
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChart](../../ichart/)
-* Class [IChartComponent](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChart](../ichart/)
+* Class [IChartComponent](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

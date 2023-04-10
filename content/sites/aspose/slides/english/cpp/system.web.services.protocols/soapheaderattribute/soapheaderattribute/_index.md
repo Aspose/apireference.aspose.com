@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.web.services.protocols/soapheaderattribute/soapheaderattribute/
 ---
-## SoapHeaderAttribute::SoapHeaderAttribute([String](../../../system/string/)) constructor
+## SoapHeaderAttribute::SoapHeaderAttribute(String) constructor
 
 
 Constructs a new instance.
@@ -24,7 +24,7 @@ System::Web::Services::Protocols::SoapHeaderAttribute::SoapHeaderAttribute(Strin
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SoapHeaderAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SoapHeaderAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

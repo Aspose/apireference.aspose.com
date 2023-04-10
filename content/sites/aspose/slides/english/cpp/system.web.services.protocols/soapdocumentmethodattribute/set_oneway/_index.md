@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_oneway/
 ---
-## SoapDocumentMethodAttribute::set_OneWay(**bool**) method
+## SoapDocumentMethodAttribute::set_OneWay(bool) method
 
 
 Sets a value that indicates if the client doesn't wait for the server to finish processing a method.
@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_OneWay(b
 
 ## See Also
 
-* Class [SoapDocumentMethodAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SoapDocumentMethodAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

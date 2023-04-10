@@ -17,7 +17,7 @@ System::SharedPtr<IFontData> Aspose::Slides::get_LatinFont() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontData](../ifontdata/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../system/sharedptr/)
+* Class [IFontData](./ifontdata/)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

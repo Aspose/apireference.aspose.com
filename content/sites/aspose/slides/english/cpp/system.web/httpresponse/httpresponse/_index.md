@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.web/httpresponse/httpresponse/
 ---
-## HttpResponse::HttpResponse(const [System::SharedPtr](../../../system/sharedptr/)\<[System::IO::TextWriter](../../../system.io/textwriter/)\>\&) constructor
+## HttpResponse::HttpResponse(const System::SharedPtr\<System::IO::TextWriter\>\&) constructor
 
 
 Not implemented.
@@ -17,8 +17,8 @@ System::Web::HttpResponse::HttpResponse(const System::SharedPtr<System::IO::Text
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TextWriter](../../../system.io/textwriter/)
-* Class [HttpResponse](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [TextWriter](../../system.io/textwriter/)
+* Class [HttpResponse](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ Newly created decoder.
 
 ## See Also
 
-* Typedef [DecoderPtr](../../../system/decoderptr/)
-* Class [Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DecoderPtr](../../system/decoderptr/)
+* Class [Encoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

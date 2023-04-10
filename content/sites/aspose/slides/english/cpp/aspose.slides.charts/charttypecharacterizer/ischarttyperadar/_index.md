@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/charttypecharacterizer/ischarttyperadar/
 ---
-## ChartTypeCharacterizer::IsChartTypeRadar([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::IsChartTypeRadar(ChartType) method
 
 
 Return true if chartType is one of Radar subtypes. Subtypes set corresponds to the appropriate set in PowerPoint (see \"Change Chart Type\" dialog in PowerPoint): [ChartType::FilledRadar](../../charttype/), [ChartType::Radar](../../charttype/), [ChartType::RadarWithMarkers](../../charttype/).
@@ -17,7 +17,7 @@ static bool Aspose::Slides::Charts::ChartTypeCharacterizer::IsChartTypeRadar(Cha
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

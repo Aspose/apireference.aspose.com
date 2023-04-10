@@ -22,6 +22,6 @@ A value that indicates if the socket will delay closing in an attempt to send al
 
 ## See Also
 
-* Class [LingerOption](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LingerOption](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

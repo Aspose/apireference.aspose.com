@@ -17,8 +17,8 @@ SharedPtr<Uri> System::UriBuilder::get_Uri() const
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Uri](../../uri/)
-* Class [UriBuilder](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Uri](../uri/)
+* Class [UriBuilder](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

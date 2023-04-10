@@ -17,8 +17,8 @@ virtual System::SharedPtr<IAutoShapeLock> Aspose::Slides::IAutoShape::get_AutoSh
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAutoShapeLock](../../iautoshapelock/)
-* Class [IAutoShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAutoShapeLock](../iautoshapelock/)
+* Class [IAutoShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

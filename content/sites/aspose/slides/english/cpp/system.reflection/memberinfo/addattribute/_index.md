@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.reflection/memberinfo/addattribute/
 ---
-## MemberInfo::AddAttribute(const [ObjectPtr](../objectptr/)\&) method
+## MemberInfo::AddAttribute(const ObjectPtr\&) method
 
 
 Adds attribute to collection.
@@ -24,7 +24,7 @@ void System::Reflection::MemberInfo::AddAttribute(const ObjectPtr &attribute)
 
 ## See Also
 
-* Typedef [ObjectPtr](../objectptr/)
-* Class [MemberInfo](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ObjectPtr](./objectptr/)
+* Class [MemberInfo](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

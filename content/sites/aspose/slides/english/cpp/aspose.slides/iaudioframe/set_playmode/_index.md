@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides/iaudioframe/set_playmode/
 ---
-## IAudioFrame::set_PlayMode([AudioPlayModePreset](../../audioplaymodepreset/)) method
+## IAudioFrame::set_PlayMode(AudioPlayModePreset) method
 
 
 Sets the audio play mode. Write [AudioPlayModePreset](../../audioplaymodepreset/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IAudioFrame::set_PlayMode(AudioPlayModePreset value
 
 ## See Also
 
-* Enum [AudioPlayModePreset](../../audioplaymodepreset/)
-* Class [IAudioFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [AudioPlayModePreset](../audioplaymodepreset/)
+* Class [IAudioFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

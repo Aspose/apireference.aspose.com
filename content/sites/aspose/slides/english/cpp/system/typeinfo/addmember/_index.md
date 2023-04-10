@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/system/typeinfo/addmember/
 ---
-## TypeInfo::AddMember(const [SharedPtr](../../sharedptr/)\<[System::Reflection::MemberInfo](../../../system.reflection/memberinfo/)\>\&) method
+## TypeInfo::AddMember(const SharedPtr\<System::Reflection::MemberInfo\>\&) method
 
 
 Adds the specified member to the list of type's members.
@@ -24,8 +24,8 @@ void System::TypeInfo::AddMember(const SharedPtr<System::Reflection::MemberInfo>
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [MemberInfo](../../../system.reflection/memberinfo/)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [MemberInfo](../../system.reflection/memberinfo/)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

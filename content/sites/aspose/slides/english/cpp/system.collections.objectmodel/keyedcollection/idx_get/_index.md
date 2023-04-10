@@ -28,6 +28,6 @@ Copy of keyed value.
 
 ## See Also
 
-* Class [KeyedCollection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [KeyedCollection](./)
+* Namespace [System::Collections::ObjectModel](../)
+* Library [Aspose.Slides](../../)

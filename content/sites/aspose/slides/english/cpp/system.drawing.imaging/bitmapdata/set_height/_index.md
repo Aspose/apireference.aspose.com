@@ -24,6 +24,6 @@ void System::Drawing::Imaging::BitmapData::set_Height(int value)
 
 ## See Also
 
-* Class [BitmapData](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitmapData](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

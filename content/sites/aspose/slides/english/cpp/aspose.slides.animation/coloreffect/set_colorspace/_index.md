@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/coloreffect/set_colorspace/
 ---
-## ColorEffect::set_ColorSpace([Aspose::Slides::Animation::ColorSpace](../../colorspace/)) method
+## ColorEffect::set_ColorSpace(Aspose::Slides::Animation::ColorSpace) method
 
 
 Represent color space of behavior. Write [Animation::ColorSpace](../../colorspace/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::ColorEffect::set_ColorSpace(Aspose::Slides::Anim
 
 ## See Also
 
-* Enum [ColorSpace](../../colorspace/)
-* Class [ColorEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorSpace](../colorspace/)
+* Class [ColorEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

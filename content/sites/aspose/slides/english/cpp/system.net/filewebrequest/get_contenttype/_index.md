@@ -22,7 +22,7 @@ The MIME type of the request.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FileWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FileWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

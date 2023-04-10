@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.net.sockets/operator_not_equal/
 ---
-## System::Net::Sockets::operator!=([IPPacketInformation](../ippacketinformation/), [IPPacketInformation](../ippacketinformation/)) function
+## System::Net::Sockets::operator!=(IPPacketInformation, IPPacketInformation) function
 
 
 
@@ -17,6 +17,6 @@ bool System::Net::Sockets::operator!=(IPPacketInformation left, IPPacketInformat
 
 ## See Also
 
-* Class [IPPacketInformation](../ippacketinformation/)
-* Namespace [System::Net::Sockets](../)
-* Library [Aspose.Slides](../../)
+* Class [IPPacketInformation](./ippacketinformation/)
+* Namespace [System::Net::Sockets](./)
+* Library [Aspose.Slides](../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.xml.serialization/ixmlserializable/writexml/
 ---
-## IXmlSerializable::WriteXml([System::SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlWriter](../../../system.xml/xmlwriter/)\>) method
+## IXmlSerializable::WriteXml(System::SharedPtr\<System::Xml::XmlWriter\>) method
 
 
 Serializes the current object to XML representation.
@@ -24,8 +24,8 @@ virtual void System::Xml::Serialization::IXmlSerializable::WriteXml(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [IXmlSerializable](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../../system.xml/xmlwriter/)
+* Class [IXmlSerializable](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

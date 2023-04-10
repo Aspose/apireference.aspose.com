@@ -31,7 +31,7 @@ An XmlSpace representing the current **xml:space** scope.
 
 ## See Also
 
-* Enum [XmlSpace](../../xmlspace/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSpace](../xmlspace/)
+* Class [XmlWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

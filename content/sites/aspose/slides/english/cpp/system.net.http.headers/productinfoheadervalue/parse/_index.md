@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net.http.headers/productinfoheadervalue/parse/
 ---
-## ProductInfoHeaderValue::Parse([String](../../../system/string/)) method
+## ProductInfoHeaderValue::Parse(String) method
 
 
 Converts a passed string to an instance of the [ProductInfoHeaderValue](../) class.
@@ -28,9 +28,8 @@ An instance of the [ProductInfoHeaderValue](../) class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ProductInfoHeaderValue](../)
-* Class [String](../../../system/string/)
-* Class [ProductInfoHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ProductInfoHeaderValue](./)
+* Class [String](../../system/string/)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

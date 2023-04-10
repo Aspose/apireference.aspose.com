@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.mathtext/imathblockcollection/contains/
 ---
-## IMathBlockCollection::Contains([System::SharedPtr](../../../system/sharedptr/)\<[IMathBlock](../../imathblock/)\>) method
+## IMathBlockCollection::Contains(System::SharedPtr\<IMathBlock\>) method
 
 
 Determines whether the collection contains a specific value.
@@ -39,8 +39,8 @@ bool contains = blockCollection->Contains(block);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathBlock](../../imathblock/)
-* Class [IMathBlockCollection](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathBlock](../imathblock/)
+* Class [IMathBlockCollection](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IChartLinesFormat> Aspose::Slides::Charts::IChartSerie
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartLinesFormat](../../ichartlinesformat/)
-* Class [IChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartLinesFormat](../ichartlinesformat/)
+* Class [IChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

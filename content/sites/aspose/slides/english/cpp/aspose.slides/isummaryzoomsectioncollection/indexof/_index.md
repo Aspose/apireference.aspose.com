@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/isummaryzoomsectioncollection/indexof/
 ---
-## ISummaryZoomSectionCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[ISummaryZoomSection](../../isummaryzoomsection/)\>) method
+## ISummaryZoomSectionCollection::IndexOf(System::SharedPtr\<ISummaryZoomSection\>) method
 
 
 Returns an index of the specified [SummaryZoomSection](../../summaryzoomsection/) object.
@@ -42,8 +42,8 @@ int32_t idx = collection->IndexOf(selectedObject);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISummaryZoomSection](../../isummaryzoomsection/)
-* Class [ISummaryZoomSectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISummaryZoomSection](../isummaryzoomsection/)
+* Class [ISummaryZoomSectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

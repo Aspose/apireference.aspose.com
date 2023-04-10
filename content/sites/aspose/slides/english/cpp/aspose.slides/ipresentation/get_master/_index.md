@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/aspose.slides/ipresentation/get_master/
 ---
-## IPresentation::get_Master(**int32_t**) method
+## IPresentation::get_Master(int32_t) method
 
 
 Returns a master slide defined in the presentation at the specified index. Read-only [Aspose::Slides::IMasterSlide](../../imasterslide/)
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IMasterSlide> Aspose::Slides::IPresentation::get_Maste
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterSlide](../../imasterslide/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterSlide](../imasterslide/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/iglow/set_radius/
 ---
-## IGlow::set_Radius(**double**) method
+## IGlow::set_Radius(double) method
 
 
 Radius. Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IGlow::set_Radius(double value)=0
 
 ## See Also
 
-* Class [IGlow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGlow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ Namespaces for attributes that are available for use. The default is **##any**. 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaAnyAttribute](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaAnyAttribute](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

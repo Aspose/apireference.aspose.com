@@ -17,7 +17,7 @@ virtual MotionOriginType Aspose::Slides::Animation::IMotionEffect::get_Origin()=
 
 ## See Also
 
-* Enum [MotionOriginType](../../motionorigintype/)
-* Class [IMotionEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MotionOriginType](../motionorigintype/)
+* Class [IMotionEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

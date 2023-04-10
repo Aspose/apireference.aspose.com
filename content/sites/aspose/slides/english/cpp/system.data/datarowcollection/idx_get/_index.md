@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.data/datarowcollection/idx_get/
 ---
-## DataRowCollection::idx_get(const **int32_t**) method
+## DataRowCollection::idx_get(const int32_t) method
 
 
 RTTI information.
@@ -31,8 +31,8 @@ Requested data row object.
 Gets row by index. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DataRow](../../datarow/)
-* Class [DataRowCollection](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DataRow](../datarow/)
+* Class [DataRowCollection](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

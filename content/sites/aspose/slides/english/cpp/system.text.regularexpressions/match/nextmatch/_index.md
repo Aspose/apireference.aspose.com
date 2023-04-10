@@ -22,7 +22,7 @@ Next match.
 
 ## See Also
 
-* Typedef [MatchPtr](../../matchptr/)
-* Class [Match](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [MatchPtr](../matchptr/)
+* Class [Match](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

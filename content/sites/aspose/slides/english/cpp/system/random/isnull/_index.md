@@ -17,6 +17,6 @@ bool System::Random::IsNull() const
 
 ## See Also
 
-* Class [Random](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Random](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

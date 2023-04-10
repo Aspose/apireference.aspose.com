@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.collections.specialized/stringcollection/copyto/
 ---
-## StringCollection::CopyTo(const [ArrayPtr](../../../system/arrayptr/)\<[System::String](../../../system/string/)\>\&, const **int32_t**) const method
+## StringCollection::CopyTo(const ArrayPtr\<System::String\>\&, const int32_t) const method
 
 
 Copy elements to existing arra elements.
@@ -25,8 +25,8 @@ void System::Collections::Specialized::StringCollection::CopyTo(const ArrayPtr<S
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [StringCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [StringCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

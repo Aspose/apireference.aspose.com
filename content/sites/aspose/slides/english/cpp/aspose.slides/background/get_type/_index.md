@@ -17,7 +17,7 @@ BackgroundType Aspose::Slides::Background::get_Type() override
 
 ## See Also
 
-* Enum [BackgroundType](../../backgroundtype/)
-* Class [Background](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [BackgroundType](../backgroundtype/)
+* Class [Background](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

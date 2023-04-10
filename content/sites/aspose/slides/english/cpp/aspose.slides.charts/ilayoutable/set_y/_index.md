@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ilayoutable/set_y/
 ---
-## ILayoutable::set_Y(**float**) method
+## ILayoutable::set_Y(float) method
 
 
 Specifies the top of the chart element as a fraction of the height of the chart. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::ILayoutable::set_Y(float value)=0
 
 ## See Also
 
-* Class [ILayoutable](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILayoutable](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

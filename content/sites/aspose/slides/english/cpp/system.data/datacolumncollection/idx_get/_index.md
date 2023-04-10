@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.data/datacolumncollection/idx_get/
 ---
-## DataColumnCollection::idx_get(const **int32_t**) method
+## DataColumnCollection::idx_get(const int32_t) method
 
 
 Gets column by index.
@@ -28,8 +28,8 @@ Column of specified index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DataColumn](../../datacolumn/)
-* Class [DataColumnCollection](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DataColumn](../datacolumn/)
+* Class [DataColumnCollection](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

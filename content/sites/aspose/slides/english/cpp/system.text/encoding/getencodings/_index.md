@@ -22,8 +22,8 @@ static ArrayPtr<EncodingInfoPtr> System::Text::Encoding::GetEncodings()
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [EncodingInfoPtr](../../../system/encodinginfoptr/)
-* Class [Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [EncodingInfoPtr](../../system/encodinginfoptr/)
+* Class [Encoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

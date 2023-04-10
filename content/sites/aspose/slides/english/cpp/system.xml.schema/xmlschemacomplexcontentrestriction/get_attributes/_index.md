@@ -22,8 +22,8 @@ The collection of attributes for the complex type.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/)
-* Class [XmlSchemaComplexContentRestriction](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../xmlschemaobjectcollection/)
+* Class [XmlSchemaComplexContentRestriction](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void System::Security::Cryptography::TripleDESManaged::GenerateKey() override
 
 ## See Also
 
-* Class [TripleDESManaged](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TripleDESManaged](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

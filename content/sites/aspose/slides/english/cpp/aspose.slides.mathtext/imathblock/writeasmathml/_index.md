@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/imathblock/writeasmathml/
 ---
-## IMathBlock::WriteAsMathMl([System::SharedPtr](../../../system/sharedptr/)\<[System::IO::Stream](../../../system.io/stream/)\>) method
+## IMathBlock::WriteAsMathMl(System::SharedPtr\<System::IO::Stream\>) method
 
 
 Saves content of this [IMathBlock](../) as MathML
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::MathText::IMathBlock::WriteAsMathMl(System::SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [IMathBlock](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [IMathBlock](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

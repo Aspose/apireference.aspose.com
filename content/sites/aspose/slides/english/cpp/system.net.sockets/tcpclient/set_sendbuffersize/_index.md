@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.net.sockets/tcpclient/set_sendbuffersize/
 ---
-## TcpClient::set_SendBufferSize(**int32_t**) method
+## TcpClient::set_SendBufferSize(int32_t) method
 
 
 Sets the size of the buffer that is used for sending data.
@@ -24,6 +24,6 @@ void System::Net::Sockets::TcpClient::set_SendBufferSize(int32_t value)
 
 ## See Also
 
-* Class [TcpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpClient](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

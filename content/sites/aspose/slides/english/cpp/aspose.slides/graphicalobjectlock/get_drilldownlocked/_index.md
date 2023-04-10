@@ -17,6 +17,6 @@ bool Aspose::Slides::GraphicalObjectLock::get_DrilldownLocked() override
 
 ## See Also
 
-* Class [GraphicalObjectLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GraphicalObjectLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

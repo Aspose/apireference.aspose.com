@@ -17,9 +17,9 @@ SharedPtr<Collections::Generic::IList<X509IssuerSerial>> System::Security::Crypt
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IList](../../../system.collections.generic/ilist/)
-* Class [X509IssuerSerial](../../x509issuerserial/)
-* Class [KeyInfoX509Data](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IList](../../system.collections.generic/ilist/)
+* Class [X509IssuerSerial](../x509issuerserial/)
+* Class [KeyInfoX509Data](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

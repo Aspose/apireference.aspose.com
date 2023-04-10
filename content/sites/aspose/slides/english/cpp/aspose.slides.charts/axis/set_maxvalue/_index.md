@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides.charts/axis/set_maxvalue/
 ---
-## Axis::set_MaxValue(**double**) method
+## Axis::set_MaxValue(double) method
 
 
 Represents the maximum value on the value axis. Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Axis::set_MaxValue(double value) override
 
 ## See Also
 
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

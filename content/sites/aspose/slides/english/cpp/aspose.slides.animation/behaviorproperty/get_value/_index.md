@@ -17,7 +17,7 @@ System::String Aspose::Slides::Animation::BehaviorProperty::get_Value() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [BehaviorProperty](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [BehaviorProperty](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

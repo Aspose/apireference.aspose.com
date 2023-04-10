@@ -22,7 +22,7 @@ Format info object.
 
 ## See Also
 
-* Typedef [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DateTimeFormatInfoPtr](../datetimeformatinfoptr/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

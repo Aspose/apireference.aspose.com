@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.security.cryptography.xml/reference/set_digestvalue/
 ---
-## Reference::set_DigestValue([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
+## Reference::set_DigestValue(ArrayPtr\<uint8_t\>) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::Reference::set_DigestValue(ArrayPtr<ui
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Reference](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Reference](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.componentmodel/backgroundworker/set_workerreportsprogress/
 ---
-## BackgroundWorker::set_WorkerReportsProgress(**bool**) method
+## BackgroundWorker::set_WorkerReportsProgress(bool) method
 
 
 Sets a value indicating whether the [System::ComponentModel::BackgroundWorker](../) can report progress updates.
@@ -24,6 +24,6 @@ void System::ComponentModel::BackgroundWorker::set_WorkerReportsProgress(bool va
 
 ## See Also
 
-* Class [BackgroundWorker](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BackgroundWorker](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

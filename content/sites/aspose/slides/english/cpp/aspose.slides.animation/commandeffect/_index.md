@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.animation/commandeffect/
 Represents a command effect for an animation behavior.
 
 ```cpp
-class CommandEffect : public Aspose::Slides::Animation::Behavior,
-                      public Aspose::Slides::Animation::ICommandEffect
+class CommandEffect : public Aspose::Slides::Animation::Behavior,                      public Aspose::Slides::Animation::ICommandEffect
 ```
 
 ## Methods

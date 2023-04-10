@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createtint/
 ---
-## ImageTransformOperationFactory::CreateTint(**float**, **float**) method
+## ImageTransformOperationFactory::CreateTint(float, float) method
 
 
 Creates [Tint](../../tint/) effect.
@@ -29,8 +29,8 @@ System::SharedPtr<ITint> Aspose::Slides::Effects::ImageTransformOperationFactory
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITint](../../itint/)
-* Class [ImageTransformOperationFactory](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITint](../itint/)
+* Class [ImageTransformOperationFactory](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

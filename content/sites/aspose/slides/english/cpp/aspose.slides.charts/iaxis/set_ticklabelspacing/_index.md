@@ -6,7 +6,7 @@ type: docs
 weight: 872
 url: /cpp/aspose.slides.charts/iaxis/set_ticklabelspacing/
 ---
-## IAxis::set_TickLabelSpacing(**uint32_t**) method
+## IAxis::set_TickLabelSpacing(uint32_t) method
 
 
 Specifies how many tick labels to skip between label that is drawn. Write **uint32_t**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_TickLabelSpacing(uint32_t value)
 
 ## See Also
 
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

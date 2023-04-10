@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides.export/ihtmloptions/set_svgresponsivelayout/
 ---
-## IHtmlOptions::set_SvgResponsiveLayout(**bool**) method
+## IHtmlOptions::set_SvgResponsiveLayout(bool) method
 
 
 True to exclude width and height attributes from SVG container - that will make layout responsive. False - otherwise. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::IHtmlOptions::set_SvgResponsiveLayout(bool 
 
 ## See Also
 
-* Class [IHtmlOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IHtmlOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

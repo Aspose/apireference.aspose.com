@@ -6,7 +6,7 @@ type: docs
 weight: 625
 url: /cpp/system/array/find/
 ---
-## Array::Find([System::ArrayPtr](../../arrayptr/)\<T\>, [System::Predicate](../../predicate/)\<T\>) method
+## Array::Find(System::ArrayPtr\<T\>, System::Predicate\<T\>) method
 
 
 Searches for the first element in the specified array that satisfies the conditions of the specified predicate.
@@ -29,8 +29,8 @@ Copy of the first element in the array that satisfies the conditions defined by 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Typedef [Predicate](../../predicate/)
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Typedef [Predicate](../predicate/)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

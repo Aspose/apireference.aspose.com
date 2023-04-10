@@ -22,7 +22,7 @@ The min age permitted for a resource.
 
 ## See Also
 
-* Class [TimeSpan](../../../system/timespan/)
-* Class [HttpRequestCachePolicy](../)
-* Namespace [System::Net::Cache](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](../../system/timespan/)
+* Class [HttpRequestCachePolicy](./)
+* Namespace [System::Net::Cache](../)
+* Library [Aspose.Slides](../../)

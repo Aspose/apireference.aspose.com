@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml/xmlwhitespace/writeto/
 ---
-## XmlWhitespace::WriteTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
+## XmlWhitespace::WriteTo(const SharedPtr\<XmlWriter\>\&) method
 
 
 Saves the node to the specified [XmlWriter](../../xmlwriter/).
@@ -24,8 +24,8 @@ void System::Xml::XmlWhitespace::WriteTo(const SharedPtr<XmlWriter> &w) override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../xmlwriter/)
-* Class [XmlWhitespace](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../xmlwriter/)
+* Class [XmlWhitespace](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.net/webrequest/set_usedefaultcredentials/
 ---
-## WebRequest::set_UseDefaultCredentials(**bool**) method
+## WebRequest::set_UseDefaultCredentials(bool) method
 
 
 Sets a value that indicates if the 'Credential' property is equal to the 'DefaultCredentials' property.
@@ -24,6 +24,6 @@ virtual void System::Net::WebRequest::set_UseDefaultCredentials(bool value)
 
 ## See Also
 
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

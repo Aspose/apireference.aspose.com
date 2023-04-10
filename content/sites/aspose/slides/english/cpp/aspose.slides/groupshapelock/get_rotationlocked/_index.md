@@ -17,6 +17,6 @@ bool Aspose::Slides::GroupShapeLock::get_RotationLocked() override
 
 ## See Also
 
-* Class [GroupShapeLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GroupShapeLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

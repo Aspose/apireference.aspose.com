@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/system/typeinfo/getmember/
 ---
-## TypeInfo::GetMember(const [String](../../string/)\&) const method
+## TypeInfo::GetMember(const String\&) const method
 
 
 Gets list of the members with specified name.
@@ -28,10 +28,10 @@ ArrayPtr<SharedPtr<System::Reflection::MemberInfo>> System::TypeInfo::GetMember(
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [MemberInfo](../../../system.reflection/memberinfo/)
-* Class [String](../../string/)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [MemberInfo](../../system.reflection/memberinfo/)
+* Class [String](../string/)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ float System::Drawing::Color::GetBrightness()
 
 ## See Also
 
-* Class [Color](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.drawing.drawing2d/adjustablearrowcap/set_middleinset/
 ---
-## AdjustableArrowCap::set_MiddleInset(**float**) method
+## AdjustableArrowCap::set_MiddleInset(float) method
 
 
 Sets the distance between the line and the cap represented by the current object.
@@ -24,6 +24,6 @@ void System::Drawing::Drawing2D::AdjustableArrowCap::set_MiddleInset(float value
 
 ## See Also
 
-* Class [AdjustableArrowCap](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AdjustableArrowCap](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

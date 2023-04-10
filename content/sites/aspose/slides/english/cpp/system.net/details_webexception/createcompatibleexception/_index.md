@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net/details_webexception/createcompatibleexception/
 ---
-## Details_WebException::CreateCompatibleException([Exception](../../../system/exception/)) method
+## Details_WebException::CreateCompatibleException(Exception) method
 
 
 Is not implemented.
@@ -17,7 +17,7 @@ static Exception System::Net::Details_WebException::CreateCompatibleException(Ex
 
 ## See Also
 
-* Typedef [Exception](../../../system/exception/)
-* Class [Details_WebException](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [Exception](../../system/exception/)
+* Class [Details_WebException](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

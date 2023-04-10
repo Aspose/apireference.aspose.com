@@ -22,7 +22,7 @@ A character set.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [MediaTypeHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [MediaTypeHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

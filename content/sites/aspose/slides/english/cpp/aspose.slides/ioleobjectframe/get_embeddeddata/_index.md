@@ -17,8 +17,8 @@ virtual System::SharedPtr<IOleEmbeddedDataInfo> Aspose::Slides::IOleObjectFrame:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IOleEmbeddedDataInfo](../../ioleembeddeddatainfo/)
-* Class [IOleObjectFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IOleEmbeddedDataInfo](../ioleembeddeddatainfo/)
+* Class [IOleObjectFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

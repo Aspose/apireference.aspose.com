@@ -22,8 +22,8 @@ A pointer to an instance of WaitHandle class that can be used to wait for the co
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [WaitHandle](../../../system.threading/waithandle/)
-* Class [IAsyncResult](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [WaitHandle](../../system.threading/waithandle/)
+* Class [IAsyncResult](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

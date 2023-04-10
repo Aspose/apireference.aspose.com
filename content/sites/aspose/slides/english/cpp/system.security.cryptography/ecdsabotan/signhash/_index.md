@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.security.cryptography/ecdsabotan/signhash/
 ---
-## ECDsaBotan::SignHash(const [ByteArrayPtr](../../../system/bytearrayptr/)\&) method
+## ECDsaBotan::SignHash(const ByteArrayPtr\&) method
 
 
 Computes the signature of specified input value.
@@ -28,7 +28,7 @@ ECDSA signature for specified hash.
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Class [ECDsaBotan](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
+* Class [ECDsaBotan](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

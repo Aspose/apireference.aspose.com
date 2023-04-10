@@ -17,8 +17,8 @@ System::SharedPtr<IChartLinesFormat> Aspose::Slides::Charts::ChartSeriesGroup::g
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartLinesFormat](../../ichartlinesformat/)
-* Class [ChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartLinesFormat](../ichartlinesformat/)
+* Class [ChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

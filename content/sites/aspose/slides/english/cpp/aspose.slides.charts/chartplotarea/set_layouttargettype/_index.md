@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/chartplotarea/set_layouttargettype/
 ---
-## ChartPlotArea::set_LayoutTargetType([Aspose::Slides::Charts::LayoutTargetType](../../layouttargettype/)) method
+## ChartPlotArea::set_LayoutTargetType(Aspose::Slides::Charts::LayoutTargetType) method
 
 
 If layout of the plot area defined manually this property specifies whether to layout the plot area by its inside (not including axis and axis labels) or outside (including axis and axis labels). Write [LayoutTargetType](../../layouttargettype/).
@@ -35,7 +35,7 @@ chart->get_PlotArea()->set_LayoutTargetType(LayoutTargetType::Inner);
 
 ## See Also
 
-* Enum [LayoutTargetType](../../layouttargettype/)
-* Class [ChartPlotArea](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LayoutTargetType](../layouttargettype/)
+* Class [ChartPlotArea](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

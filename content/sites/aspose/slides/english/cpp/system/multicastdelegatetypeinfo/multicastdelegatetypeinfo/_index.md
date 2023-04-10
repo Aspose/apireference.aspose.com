@@ -17,6 +17,6 @@ System::MulticastDelegateTypeInfo::MulticastDelegateTypeInfo()
 
 ## See Also
 
-* Struct [MulticastDelegateTypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [MulticastDelegateTypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

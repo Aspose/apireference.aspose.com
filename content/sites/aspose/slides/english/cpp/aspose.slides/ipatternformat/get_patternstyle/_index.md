@@ -17,7 +17,7 @@ virtual Aspose::Slides::PatternStyle Aspose::Slides::IPatternFormat::get_Pattern
 
 ## See Also
 
-* Enum [PatternStyle](../../patternstyle/)
-* Class [IPatternFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PatternStyle](../patternstyle/)
+* Class [IPatternFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

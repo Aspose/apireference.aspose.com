@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/mathfraction/set_fractiontype/
 ---
-## MathFraction::set_FractionType([MathFractionTypes](../../mathfractiontypes/)) method
+## MathFraction::set_FractionType(MathFractionTypes) method
 
 
 Fraction type Default: Bar
@@ -26,7 +26,7 @@ mathFraction->set_FractionType(MathFractionTypes::Linear);
 
 ## See Also
 
-* Enum [MathFractionTypes](../../mathfractiontypes/)
-* Class [MathFraction](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathFractionTypes](../mathfractiontypes/)
+* Class [MathFraction](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

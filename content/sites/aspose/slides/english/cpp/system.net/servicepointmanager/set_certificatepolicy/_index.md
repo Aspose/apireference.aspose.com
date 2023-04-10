@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.net/servicepointmanager/set_certificatepolicy/
 ---
-## ServicePointManager::set_CertificatePolicy([System::SharedPtr](../../../system/sharedptr/)\<ICertificatePolicy\>) method
+## ServicePointManager::set_CertificatePolicy(System::SharedPtr\<ICertificatePolicy\>) method
 
 
 Sets a certificate policy.
@@ -24,7 +24,7 @@ static void System::Net::ServicePointManager::set_CertificatePolicy(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

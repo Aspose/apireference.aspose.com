@@ -22,7 +22,7 @@ String System::Net::Http::Headers::NameValueWithParametersHeaderValue::ToString(
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NameValueWithParametersHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NameValueWithParametersHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

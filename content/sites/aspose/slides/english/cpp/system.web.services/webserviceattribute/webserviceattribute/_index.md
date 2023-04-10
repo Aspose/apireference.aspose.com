@@ -17,6 +17,6 @@ System::Web::Services::WebServiceAttribute::WebServiceAttribute()
 
 ## See Also
 
-* Class [WebServiceAttribute](../)
-* Namespace [System::Web::Services](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebServiceAttribute](./)
+* Namespace [System::Web::Services](../)
+* Library [Aspose.Slides](../../)

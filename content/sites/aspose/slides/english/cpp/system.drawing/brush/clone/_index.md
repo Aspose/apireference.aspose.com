@@ -25,8 +25,7 @@ A shared pointer to the copy of the current object.
 Creates a copy of the current object. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Brush](../)
-* Class [Brush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Brush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

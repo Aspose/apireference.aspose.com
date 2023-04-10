@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.collections.generic/stack/addrange/
 ---
-## Stack::AddRange([IEnumerablePtr](../ienumerableptr/)) method
+## Stack::AddRange(IEnumerablePtr) method
 
 
 Puts elements into stack.
@@ -24,7 +24,7 @@ void System::Collections::Generic::Stack<T>::AddRange(IEnumerablePtr collection)
 
 ## See Also
 
-* Typedef [IEnumerablePtr](../ienumerableptr/)
-* Class [Stack](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumerablePtr](./ienumerableptr/)
+* Class [Stack](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

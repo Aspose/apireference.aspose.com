@@ -29,6 +29,6 @@ True if value was found and retreived, false otherwise.
 
 ## See Also
 
-* Class [IDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

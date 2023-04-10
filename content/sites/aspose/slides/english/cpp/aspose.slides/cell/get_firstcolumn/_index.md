@@ -17,8 +17,8 @@ System::SharedPtr<IColumn> Aspose::Slides::Cell::get_FirstColumn() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColumn](../../icolumn/)
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColumn](../icolumn/)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

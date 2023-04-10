@@ -22,6 +22,6 @@ A hash code for the current object.
 
 ## See Also
 
-* Class [GrayScale](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GrayScale](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

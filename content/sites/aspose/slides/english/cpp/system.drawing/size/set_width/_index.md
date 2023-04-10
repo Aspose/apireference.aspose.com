@@ -24,6 +24,6 @@ void System::Drawing::Size::set_Width(int value)
 
 ## See Also
 
-* Class [Size](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Size](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

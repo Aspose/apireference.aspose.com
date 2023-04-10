@@ -22,7 +22,7 @@ The node type. For [XmlEntity](../) nodes, the value is [XmlNodeType::Entity](..
 
 ## See Also
 
-* Enum [XmlNodeType](../../xmlnodetype/)
-* Class [XmlEntity](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlNodeType](../xmlnodetype/)
+* Class [XmlEntity](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

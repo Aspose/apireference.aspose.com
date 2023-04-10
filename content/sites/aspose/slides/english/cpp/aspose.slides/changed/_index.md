@@ -17,5 +17,5 @@ ASPOSE_SLIDES_LOCAL_API void Aspose::Slides::Changed()
 
 ## See Also
 
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

@@ -24,6 +24,6 @@ System::ScopeGuard<F>::ScopeGuard(F f)
 
 ## See Also
 
-* Struct [ScopeGuard](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [ScopeGuard](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

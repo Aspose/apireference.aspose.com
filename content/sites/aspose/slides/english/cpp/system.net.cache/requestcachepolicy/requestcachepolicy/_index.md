@@ -15,12 +15,7 @@ Constructs a new instance.
 System::Net::Cache::RequestCachePolicy::RequestCachePolicy()
 ```
 
-## See Also
-
-* Class [RequestCachePolicy](../)
-* Namespace [System::Net::Cache](../../)
-* Library [Aspose.Slides](../../../)
-## RequestCachePolicy::RequestCachePolicy([RequestCacheLevel](../../requestcachelevel/)) constructor
+## RequestCachePolicy::RequestCachePolicy(RequestCacheLevel) constructor
 
 
 Construct a new instance with the specified RequestCacheLevel value.
@@ -38,7 +33,7 @@ System::Net::Cache::RequestCachePolicy::RequestCachePolicy(RequestCacheLevel lev
 
 ## See Also
 
-* Enum [RequestCacheLevel](../../requestcachelevel/)
-* Class [RequestCachePolicy](../)
-* Namespace [System::Net::Cache](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [RequestCacheLevel](../requestcachelevel/)
+* Class [RequestCachePolicy](./)
+* Namespace [System::Net::Cache](../)
+* Library [Aspose.Slides](../../)

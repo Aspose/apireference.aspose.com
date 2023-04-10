@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system/smartptr/setcontainedtemplateweakptr/
 ---
-## SmartPtr::SetContainedTemplateWeakPtr(**uint32_t**) const method
+## SmartPtr::SetContainedTemplateWeakPtr(uint32_t) const method
 
 
 Calls SetTemplateWeakPtr() method on pointed object (if any).
@@ -28,6 +28,6 @@ Implementation.
 
 ## See Also
 
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

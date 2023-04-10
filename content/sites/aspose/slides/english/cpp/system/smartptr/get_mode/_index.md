@@ -22,7 +22,7 @@ Mode of pointer object.
 
 ## See Also
 
-* Enum [SmartPtrMode](../../smartptrmode/)
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SmartPtrMode](../smartptrmode/)
+* Class [SmartPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

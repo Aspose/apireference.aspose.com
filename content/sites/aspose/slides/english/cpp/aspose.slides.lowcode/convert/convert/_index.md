@@ -17,6 +17,6 @@ Aspose::Slides::LowCode::Convert::Convert()=delete
 
 ## See Also
 
-* Class [Convert](../)
-* Namespace [Aspose::Slides::LowCode](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Convert](./)
+* Namespace [Aspose::Slides::LowCode](../)
+* Library [Aspose.Slides](../../)

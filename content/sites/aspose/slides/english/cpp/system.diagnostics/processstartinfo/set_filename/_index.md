@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.diagnostics/processstartinfo/set_filename/
 ---
-## ProcessStartInfo::set_FileName(const [String](../../../system/string/)\&) method
+## ProcessStartInfo::set_FileName(const String\&) method
 
 
 Sets process file name.
@@ -24,7 +24,7 @@ void System::Diagnostics::ProcessStartInfo::set_FileName(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ProcessStartInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ProcessStartInfo](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

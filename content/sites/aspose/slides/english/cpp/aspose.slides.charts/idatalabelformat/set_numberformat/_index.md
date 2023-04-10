@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/idatalabelformat/set_numberformat/
 ---
-## IDataLabelFormat::set_NumberFormat([System::String](../../../system/string/)) method
+## IDataLabelFormat::set_NumberFormat(System::String) method
 
 
 Represents the format string for the DataLabels object. Write [System::String](../../../system/string/).
@@ -33,7 +33,7 @@ defaultDataLabelFormat->set_NumberFormat(u"0.0%");
 If parent of this [DataLabelFormat](../../datalabelformat/) object is a [DataLabelCollection](../../datalabelcollection/) collection of data labels, then this property gets or sets the default value of the NumberFormat property for the new data labels in the [DataLabelCollection](../../datalabelcollection/) collection. When this property is set with a value, that value is also set for the NumberFormat property for all data labels in the [DataLabelCollection](../../datalabelcollection/) collection (i.e. \"DataLabels.DefaultDataLabelFormat.NumberFormat = val;\" causes all DataLabels[i].NumberFormat to equal to val). 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

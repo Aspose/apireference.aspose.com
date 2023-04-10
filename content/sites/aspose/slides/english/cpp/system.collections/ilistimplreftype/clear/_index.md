@@ -17,6 +17,6 @@ virtual void System::Collections::IListImplRefType<T>::Clear() override
 
 ## See Also
 
-* Class [IListImplRefType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IListImplRefType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

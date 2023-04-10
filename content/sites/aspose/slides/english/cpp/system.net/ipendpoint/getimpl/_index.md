@@ -22,7 +22,7 @@ A pointer to implementation.
 
 ## See Also
 
-* Typedef [ImplPtr](../../endpoint/implptr/)
-* Class [IPEndPoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ImplPtr](../endpoint/implptr/)
+* Class [IPEndPoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

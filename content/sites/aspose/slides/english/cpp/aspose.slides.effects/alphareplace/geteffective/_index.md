@@ -22,8 +22,8 @@ A [IAlphaReplaceEffectiveData](../../ialphareplaceeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAlphaReplaceEffectiveData](../../ialphareplaceeffectivedata/)
-* Class [AlphaReplace](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAlphaReplaceEffectiveData](../ialphareplaceeffectivedata/)
+* Class [AlphaReplace](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

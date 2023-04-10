@@ -32,14 +32,6 @@ template<typename T> static std::enable_if<IsSmartPtr<T>::value, System::SmartPt
 
 Smart pointer to [Object](../../object/) being either converted pointer or boxed value.
 
-## See Also
-
-* Struct [IsSmartPtr](../../issmartptr/)
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::UnknownToObject(const T\&) method
 
 
@@ -68,9 +60,9 @@ Smart pointer to [Object](../../object/) being either converted pointer or boxed
 
 ## See Also
 
-* Struct [IsSmartPtr](../../issmartptr/)
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](../smartptr/)
+* Class [Object](../object/)
+* Class [ObjectExt](./)
+* Struct [IsSmartPtr](../issmartptr/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

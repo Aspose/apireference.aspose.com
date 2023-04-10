@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICustomXmlPartCollection> Aspose::Slides::ICustomData:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICustomXmlPartCollection](../../icustomxmlpartcollection/)
-* Class [ICustomData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICustomXmlPartCollection](../icustomxmlpartcollection/)
+* Class [ICustomData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/propertyeffect/set_calcmode/
 ---
-## PropertyEffect::set_CalcMode([PropertyCalcModeType](../../propertycalcmodetype/)) method
+## PropertyEffect::set_CalcMode(PropertyCalcModeType) method
 
 
 Specifies the interpolation mode for the animation Write [PropertyCalcModeType](../../propertycalcmodetype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::PropertyEffect::set_CalcMode(PropertyCalcModeTyp
 
 ## See Also
 
-* Enum [PropertyCalcModeType](../../propertycalcmodetype/)
-* Class [PropertyEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PropertyCalcModeType](../propertycalcmodetype/)
+* Class [PropertyEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

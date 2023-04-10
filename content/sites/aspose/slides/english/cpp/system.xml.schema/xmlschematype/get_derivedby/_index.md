@@ -22,7 +22,7 @@ One of the valid XmlSchemaDerivationMethod values.
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
-* Class [XmlSchemaType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
+* Class [XmlSchemaType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

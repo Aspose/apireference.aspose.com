@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.export/ihtmlformattingcontroller/writedocumentend/
 ---
-## IHtmlFormattingController::WriteDocumentEnd([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlGenerator](../../ihtmlgenerator/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IPresentation](../../../aspose.slides/ipresentation/)\>) method
+## IHtmlFormattingController::WriteDocumentEnd(System::SharedPtr\<IHtmlGenerator\>, System::SharedPtr\<IPresentation\>) method
 
 
 Called to write html document footer. Called once per presentation conversion.
@@ -25,9 +25,9 @@ virtual void Aspose::Slides::Export::IHtmlFormattingController::WriteDocumentEnd
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHtmlGenerator](../../ihtmlgenerator/)
-* Class [IPresentation](../../../aspose.slides/ipresentation/)
-* Class [IHtmlFormattingController](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHtmlGenerator](../ihtmlgenerator/)
+* Class [IPresentation](../../aspose.slides/ipresentation/)
+* Class [IHtmlFormattingController](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

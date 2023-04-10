@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlparsercontext/set_nametable/
 ---
-## XmlParserContext::set_NameTable(const [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../xmlnametable/)\>\&) method
+## XmlParserContext::set_NameTable(const SharedPtr\<XmlNameTable\>\&) method
 
 
 Sets the [XmlNameTable](../../xmlnametable/) used to atomize strings. For more information on atomized strings, see [XmlNameTable](../../xmlnametable/).
@@ -24,8 +24,8 @@ void System::Xml::XmlParserContext::set_NameTable(const SharedPtr<XmlNameTable> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNameTable](../../xmlnametable/)
-* Class [XmlParserContext](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNameTable](../xmlnametable/)
+* Class [XmlParserContext](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides.charts/iaxis/set_isautomaticminorunit/
 ---
-## IAxis::set_IsAutomaticMinorUnit(**bool**) method
+## IAxis::set_IsAutomaticMinorUnit(bool) method
 
 
 Indicates whether the minor unit of the axis is automatically assigned. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_IsAutomaticMinorUnit(bool value)
 
 ## See Also
 
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

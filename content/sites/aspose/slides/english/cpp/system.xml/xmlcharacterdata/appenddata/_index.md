@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.xml/xmlcharacterdata/appenddata/
 ---
-## XmlCharacterData::AppendData([String](../../../system/string/)) method
+## XmlCharacterData::AppendData(String) method
 
 
 Appends the specified string to the end of the character data of the node.
@@ -24,7 +24,7 @@ virtual void System::Xml::XmlCharacterData::AppendData(String strData)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlCharacterData](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlCharacterData](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/commandeffect/set_commandstring/
 ---
-## CommandEffect::set_CommandString([System::String](../../../system/string/)) method
+## CommandEffect::set_CommandString(System::String) method
 
 
 Defines command string. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::CommandEffect::set_CommandString(System::String 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [CommandEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [CommandEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ Interval between consequental timer invocations or between timer start and first
 
 ## See Also
 
-* Class [Timer](../)
-* Namespace [System::Timers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Timer](./)
+* Namespace [System::Timers](../)
+* Library [Aspose.Slides](../../)

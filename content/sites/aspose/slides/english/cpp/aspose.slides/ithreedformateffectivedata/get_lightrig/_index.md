@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILightRigEffectiveData> Aspose::Slides::IThreeDFormatE
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILightRigEffectiveData](../../ilightrigeffectivedata/)
-* Class [IThreeDFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILightRigEffectiveData](../ilightrigeffectivedata/)
+* Class [IThreeDFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

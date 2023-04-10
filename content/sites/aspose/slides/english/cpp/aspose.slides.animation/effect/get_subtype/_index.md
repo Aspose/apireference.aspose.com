@@ -17,7 +17,7 @@ EffectSubtype Aspose::Slides::Animation::Effect::get_Subtype() override
 
 ## See Also
 
-* Enum [EffectSubtype](../../effectsubtype/)
-* Class [Effect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EffectSubtype](../effectsubtype/)
+* Class [Effect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

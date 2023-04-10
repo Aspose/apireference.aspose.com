@@ -22,6 +22,6 @@ Always returns true.
 
 ## See Also
 
-* Class [MatchCollection](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MatchCollection](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

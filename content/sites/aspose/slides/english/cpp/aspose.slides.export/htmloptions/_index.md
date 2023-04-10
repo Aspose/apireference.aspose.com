@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.export/htmloptions/
 Represents a HTML exporting options.
 
 ```cpp
-class HtmlOptions : public Aspose::Slides::Export::SaveOptions,
-                    public Aspose::Slides::Export::IHtmlOptions
+class HtmlOptions : public Aspose::Slides::Export::SaveOptions,                    public Aspose::Slides::Export::IHtmlOptions
 ```
 
 ## Methods

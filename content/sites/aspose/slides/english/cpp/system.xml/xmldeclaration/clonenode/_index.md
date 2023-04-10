@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.xml/xmldeclaration/clonenode/
 ---
-## XmlDeclaration::CloneNode(**bool**) method
+## XmlDeclaration::CloneNode(bool) method
 
 
 Creates a duplicate of this node.
@@ -28,8 +28,8 @@ The cloned node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlDeclaration](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlDeclaration](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

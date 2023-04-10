@@ -22,8 +22,8 @@ SharedPtr<Object> System::Text::UnicodeEncoding::Clone() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [UnicodeEncoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [UnicodeEncoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

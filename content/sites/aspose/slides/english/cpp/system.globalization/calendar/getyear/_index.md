@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.globalization/calendar/getyear/
 ---
-## Calendar::GetYear([DateTime](../../../system/datetime/)) const method
+## Calendar::GetYear(DateTime) const method
 
 
 Gets year for the specified time point.
@@ -28,7 +28,7 @@ Year in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ float System::Drawing::SizeF::get_Height() const
 
 ## See Also
 
-* Class [SizeF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SizeF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

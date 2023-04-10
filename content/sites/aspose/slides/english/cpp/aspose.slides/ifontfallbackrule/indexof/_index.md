@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/ifontfallbackrule/indexof/
 ---
-## IFontFallBackRule::IndexOf([System::String](../../../system/string/)) method
+## IFontFallBackRule::IndexOf(System::String) method
 
 
 Returns an index of the specified rule in the collection.
@@ -39,7 +39,7 @@ int32_t tahomaIndex = newRule->IndexOf(u"Tahoma");
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IFontFallBackRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IFontFallBackRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

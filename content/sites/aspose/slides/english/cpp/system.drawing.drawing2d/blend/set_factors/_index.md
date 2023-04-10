@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/blend/set_factors/
 ---
-## Blend::set_Factors(const [ArrayPtr](../../../system/arrayptr/)\<**float**\>\&) method
+## Blend::set_Factors(const ArrayPtr\<float\>\&) method
 
 
 Sets the array of blend factors of the gradient.
@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::Blend::set_Factors(const ArrayPtr<float> &value
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Blend](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Blend](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

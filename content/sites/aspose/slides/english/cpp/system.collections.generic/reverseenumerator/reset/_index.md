@@ -17,6 +17,6 @@ void System::Collections::Generic::ReverseEnumerator<Container, Element>::Reset(
 
 ## See Also
 
-* Class [ReverseEnumerator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ReverseEnumerator](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ The qualified name of the simple type restriction base type.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaSimpleTypeRestriction](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaSimpleTypeRestriction](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

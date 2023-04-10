@@ -17,8 +17,8 @@ SharedPtr<Object> System::Globalization::JapaneseLunisolarCalendar::Clone() over
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [JapaneseLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [JapaneseLunisolarCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

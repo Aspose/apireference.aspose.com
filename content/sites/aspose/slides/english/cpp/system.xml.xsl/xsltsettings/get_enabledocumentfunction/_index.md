@@ -22,6 +22,6 @@ bool System::Xml::Xsl::XsltSettings::get_EnableDocumentFunction()
 
 ## See Also
 
-* Class [XsltSettings](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XsltSettings](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

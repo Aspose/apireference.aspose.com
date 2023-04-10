@@ -22,8 +22,8 @@ A stream that represents serialized content.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [HttpContent](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [HttpContent](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

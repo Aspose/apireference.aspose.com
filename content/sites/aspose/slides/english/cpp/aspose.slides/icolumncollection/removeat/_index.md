@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/icolumncollection/removeat/
 ---
-## IColumnCollection::RemoveAt(**int32_t**, **bool**) method
+## IColumnCollection::RemoveAt(int32_t, bool) method
 
 
 Removes a column at the specified position from a table.
@@ -25,6 +25,6 @@ virtual void Aspose::Slides::IColumnCollection::RemoveAt(int32_t firstColumnInde
 
 ## See Also
 
-* Class [IColumnCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IColumnCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

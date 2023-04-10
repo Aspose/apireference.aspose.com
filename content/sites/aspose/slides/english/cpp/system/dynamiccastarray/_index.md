@@ -6,7 +6,7 @@ type: docs
 weight: 2588
 url: /cpp/system/dynamiccastarray/
 ---
-## System::DynamicCastArray(const [SharedPtr](../sharedptr/)\<[Array](../array/)\<From\>\>\&) function
+## System::DynamicCastArray(const SharedPtr\<Array\<From\>\>\&) function
 
 
 Performs casting of elements of the specified array to different type.
@@ -38,7 +38,7 @@ Deprecated
 
 ## See Also
 
-* Typedef [SharedPtr](../sharedptr/)
-* Class [Array](../array/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](./sharedptr/)
+* Class [Array](./array/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

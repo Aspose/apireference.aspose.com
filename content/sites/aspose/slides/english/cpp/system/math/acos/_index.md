@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/math/acos/
 ---
-## Math::Acos(**double**) method
+## Math::Acos(double) method
 
 
 Calculates the arccosine of the specified value.
@@ -28,6 +28,6 @@ Arccosine of **d**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

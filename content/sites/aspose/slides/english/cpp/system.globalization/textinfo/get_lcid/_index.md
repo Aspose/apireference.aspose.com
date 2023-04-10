@@ -22,6 +22,6 @@ Locale ID.
 
 ## See Also
 
-* Class [TextInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

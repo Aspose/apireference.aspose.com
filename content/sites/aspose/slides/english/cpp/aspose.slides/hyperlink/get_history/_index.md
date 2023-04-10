@@ -17,6 +17,6 @@ bool Aspose::Slides::Hyperlink::get_History() override
 
 ## See Also
 
-* Class [Hyperlink](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Hyperlink](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

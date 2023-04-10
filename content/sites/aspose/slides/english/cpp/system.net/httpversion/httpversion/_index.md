@@ -17,6 +17,6 @@ System::Net::HttpVersion::HttpVersion()=delete
 
 ## See Also
 
-* Class [HttpVersion](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpVersion](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

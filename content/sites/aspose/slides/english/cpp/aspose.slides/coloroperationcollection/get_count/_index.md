@@ -17,6 +17,6 @@ int32_t Aspose::Slides::ColorOperationCollection::get_Count() override
 
 ## See Also
 
-* Class [ColorOperationCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColorOperationCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

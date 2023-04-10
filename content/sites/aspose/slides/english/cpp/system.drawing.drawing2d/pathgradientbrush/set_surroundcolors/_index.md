@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_surroundcolors/
 ---
-## PathGradientBrush::set_SurroundColors(const [ArrayPtr](../../../system/arrayptr/)\<[Color](../../../system.drawing/color/)\>\&) method
+## PathGradientBrush::set_SurroundColors(const ArrayPtr\<Color\>\&) method
 
 
 Sets colors that correspond to the points in the path this [PathGradientBrush](../) fills.
@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_SurroundColors(const Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Color](../../../system.drawing/color/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Color](../../system.drawing/color/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

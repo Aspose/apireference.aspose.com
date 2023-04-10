@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides.animation/timing/set_restart/
 ---
-## Timing::set_Restart([EffectRestartType](../../effectrestarttype/)) method
+## Timing::set_Restart(EffectRestartType) method
 
 
 Specifies if a effect is to restart after complete. Write [EffectRestartType](../../effectrestarttype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::Timing::set_Restart(EffectRestartType value) ove
 
 ## See Also
 
-* Enum [EffectRestartType](../../effectrestarttype/)
-* Class [Timing](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EffectRestartType](../effectrestarttype/)
+* Class [Timing](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

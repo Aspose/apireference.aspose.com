@@ -22,6 +22,6 @@ Hash code value as calculated by corresponding class.
 
 ## See Also
 
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

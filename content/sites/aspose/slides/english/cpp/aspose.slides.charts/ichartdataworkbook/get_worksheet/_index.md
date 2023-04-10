@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/ichartdataworkbook/get_worksheet/
 ---
-## IChartDataWorkbook::get_Worksheet(**int32_t**) method
+## IChartDataWorkbook::get_Worksheet(int32_t) method
 
 
 Returns worksheet of this workbook at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IChartDataWorksheet> Aspose::Slides::Charts::IChartDat
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataWorksheet](../../ichartdataworksheet/)
-* Class [IChartDataWorkbook](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataWorksheet](../ichartdataworksheet/)
+* Class [IChartDataWorkbook](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

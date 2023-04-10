@@ -26,11 +26,6 @@ int System::Collections::Generic::List<T>::IndexOf(const T &item) const override
 
 Index of first occurance of specified item or -1 if not found.
 
-## See Also
-
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## List::IndexOf(const T\&, int) const method
 
 
@@ -54,6 +49,6 @@ Index of first instance of specified item or -1 if not found.
 
 ## See Also
 
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

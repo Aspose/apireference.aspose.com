@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/datalabel/
 Represents a series labels.
 
 ```cpp
-class DataLabel : public Aspose::Slides::Charts::IDataLabel,
-                  public Aspose::Slides::IDOMObject
+class DataLabel : public Aspose::Slides::Charts::IDataLabel,                  public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

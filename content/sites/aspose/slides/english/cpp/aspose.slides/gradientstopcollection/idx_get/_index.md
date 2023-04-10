@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/gradientstopcollection/idx_get/
 ---
-## GradientStopCollection::idx_get(**int32_t**) method
+## GradientStopCollection::idx_get(int32_t) method
 
 
 Returns the gradient stop by index.
@@ -17,8 +17,8 @@ System::SharedPtr<IGradientStop> Aspose::Slides::GradientStopCollection::idx_get
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGradientStop](../../igradientstop/)
-* Class [GradientStopCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGradientStop](../igradientstop/)
+* Class [GradientStopCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

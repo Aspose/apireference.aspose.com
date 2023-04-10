@@ -17,8 +17,8 @@ virtual System::SharedPtr<IChartCategoryLevelsManager> Aspose::Slides::Charts::I
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartCategoryLevelsManager](../../ichartcategorylevelsmanager/)
-* Class [IChartCategory](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartCategoryLevelsManager](../ichartcategorylevelsmanager/)
+* Class [IChartCategory](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

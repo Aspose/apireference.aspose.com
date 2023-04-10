@@ -17,8 +17,8 @@ virtual System::SharedPtr<IGradientFormat> Aspose::Slides::ILineFillFormat::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGradientFormat](../../igradientformat/)
-* Class [ILineFillFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGradientFormat](../igradientformat/)
+* Class [ILineFillFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

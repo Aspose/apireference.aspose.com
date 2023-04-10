@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net/ipendpoint/set_port/
 ---
-## IPEndPoint::set_Port(**int32_t**) method
+## IPEndPoint::set_Port(int32_t) method
 
 
 Sets the port number.
@@ -24,6 +24,6 @@ void System::Net::IPEndPoint::set_Port(int32_t value)
 
 ## See Also
 
-* Class [IPEndPoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPEndPoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

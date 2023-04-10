@@ -22,8 +22,8 @@ The HTTP content headers.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpRequestHeaders](../../../system.net.http.headers/httprequestheaders/)
-* Class [HttpRequestMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpRequestHeaders](../../system.net.http.headers/httprequestheaders/)
+* Class [HttpRequestMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

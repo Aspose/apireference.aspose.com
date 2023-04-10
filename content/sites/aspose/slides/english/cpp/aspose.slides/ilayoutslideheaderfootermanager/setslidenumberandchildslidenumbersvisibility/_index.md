@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/ilayoutslideheaderfootermanager/setslidenumberandchildslidenumbersvisibility/
 ---
-## ILayoutSlideHeaderFooterManager::SetSlideNumberAndChildSlideNumbersVisibility(**bool**) method
+## ILayoutSlideHeaderFooterManager::SetSlideNumberAndChildSlideNumbersVisibility(bool) method
 
 
 Changes layout slide page number placeholder and all child page number placeholders visibility. Child placeholders mean placeholders are contained on depending slides. Depending slides use and depend on layout slide.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::ILayoutSlideHeaderFooterManager::SetSlideNumberAndC
 
 ## See Also
 
-* Class [ILayoutSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILayoutSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The minimum number of times the particle can occur. The default is 1.
 
 ## See Also
 
-* Class [Decimal](../../../system/decimal/)
-* Class [XmlSchemaParticle](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Decimal](../../system/decimal/)
+* Class [XmlSchemaParticle](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

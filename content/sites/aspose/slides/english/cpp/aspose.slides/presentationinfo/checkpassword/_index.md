@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/presentationinfo/checkpassword/
 ---
-## PresentationInfo::CheckPassword([System::String](../../../system/string/)) method
+## PresentationInfo::CheckPassword(System::String) method
 
 
 Checks whether a password is correct for a presentation protected with open password.
@@ -40,7 +40,7 @@ When the password is null or empty, this method returns false.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PresentationInfo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PresentationInfo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

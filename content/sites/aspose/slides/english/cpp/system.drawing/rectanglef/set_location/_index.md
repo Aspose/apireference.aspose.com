@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing/rectanglef/set_location/
 ---
-## RectangleF::set_Location([PointF](../../pointf/)) method
+## RectangleF::set_Location(PointF) method
 
 
 Sets the location of the upper left corner of the rectangle represented by the current object.
@@ -24,7 +24,7 @@ void System::Drawing::RectangleF::set_Location(PointF value)
 
 ## See Also
 
-* Class [PointF](../../pointf/)
-* Class [RectangleF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](../pointf/)
+* Class [RectangleF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

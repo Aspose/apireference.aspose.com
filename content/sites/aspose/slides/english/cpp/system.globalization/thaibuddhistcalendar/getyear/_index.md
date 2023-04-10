@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.globalization/thaibuddhistcalendar/getyear/
 ---
-## ThaiBuddhistCalendar::GetYear([DateTime](../../../system/datetime/)) const method
+## ThaiBuddhistCalendar::GetYear(DateTime) const method
 
 
 Gets year for the specified time point.
@@ -28,7 +28,7 @@ Year in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [ThaiBuddhistCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [ThaiBuddhistCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

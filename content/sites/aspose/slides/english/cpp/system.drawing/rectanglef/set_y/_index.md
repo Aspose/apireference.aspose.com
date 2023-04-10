@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.drawing/rectanglef/set_y/
 ---
-## RectangleF::set_Y(**float**) method
+## RectangleF::set_Y(float) method
 
 
 Sets the Y coordinate of the upper left corner of the rectangle represented by the current object.
@@ -24,6 +24,6 @@ void System::Drawing::RectangleF::set_Y(float value)
 
 ## See Also
 
-* Class [RectangleF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RectangleF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

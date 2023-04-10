@@ -6,7 +6,7 @@ type: docs
 weight: 625
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix42/
 ---
-## ColorMatrix::set_Matrix42(**float**) method
+## ColorMatrix::set_Matrix42(float) method
 
 
 Sets a value in the 4-th row and 2-nd column.
@@ -24,6 +24,6 @@ void System::Drawing::Imaging::ColorMatrix::set_Matrix42(float value)
 
 ## See Also
 
-* Class [ColorMatrix](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColorMatrix](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

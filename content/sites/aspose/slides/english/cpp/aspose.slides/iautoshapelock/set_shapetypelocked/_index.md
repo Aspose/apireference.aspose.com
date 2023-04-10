@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides/iautoshapelock/set_shapetypelocked/
 ---
-## IAutoShapeLock::set_ShapeTypeLocked(**bool**) method
+## IAutoShapeLock::set_ShapeTypeLocked(bool) method
 
 
 Determines whether a changing of a shape type is forbidden. Writes **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IAutoShapeLock::set_ShapeTypeLocked(bool value)=0
 
 ## See Also
 
-* Class [IAutoShapeLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAutoShapeLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

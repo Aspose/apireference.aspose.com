@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/section/set_name/
 ---
-## Section::set_Name([System::String](../../../system/string/)) method
+## Section::set_Name(System::String) method
 
 
 Name of the section.
@@ -17,7 +17,7 @@ void Aspose::Slides::Section::set_Name(System::String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Section](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Section](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

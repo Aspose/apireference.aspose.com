@@ -22,7 +22,7 @@ One of the [System::Drawing::Printing::PaperKind](../../paperkind/) values.
 
 ## See Also
 
-* Enum [PaperKind](../../paperkind/)
-* Class [PaperSize](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PaperKind](../paperkind/)
+* Class [PaperSize](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

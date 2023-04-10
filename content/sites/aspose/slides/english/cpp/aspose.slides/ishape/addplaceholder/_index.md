@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.slides/ishape/addplaceholder/
 ---
-## IShape::AddPlaceholder([System::SharedPtr](../../../system/sharedptr/)\<[IPlaceholder](../../iplaceholder/)\>) method
+## IShape::AddPlaceholder(System::SharedPtr\<IPlaceholder\>) method
 
 
 Adds a new placeholder if there is no and sets placeholder properties to a specified one.
@@ -28,8 +28,8 @@ New [IPlaceholder](../../iplaceholder/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPlaceholder](../../iplaceholder/)
-* Class [IShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPlaceholder](../iplaceholder/)
+* Class [IShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

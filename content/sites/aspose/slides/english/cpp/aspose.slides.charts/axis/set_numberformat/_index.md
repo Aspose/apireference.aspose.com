@@ -6,7 +6,7 @@ type: docs
 weight: 846
 url: /cpp/aspose.slides.charts/axis/set_numberformat/
 ---
-## Axis::set_NumberFormat([System::String](../../../system/string/)) method
+## Axis::set_NumberFormat(System::String) method
 
 
 Represents the format string for the [Axis](../) Labels. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_NumberFormat(System::String value) overri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

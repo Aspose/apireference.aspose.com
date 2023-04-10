@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathematicaltext/
 Mathematical text
 
 ```cpp
-class MathematicalText : public Aspose::Slides::MathText::MathElementBase,
-                         public Aspose::Slides::MathText::IMathematicalText
+class MathematicalText : public Aspose::Slides::MathText::MathElementBase,                         public Aspose::Slides::MathText::IMathematicalText
 ```
 
 ## Methods

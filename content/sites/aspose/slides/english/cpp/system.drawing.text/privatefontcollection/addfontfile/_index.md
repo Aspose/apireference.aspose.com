@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.drawing.text/privatefontcollection/addfontfile/
 ---
-## PrivateFontCollection::AddFontFile(const [String](../../../system/string/)\&) method
+## PrivateFontCollection::AddFontFile(const String\&) method
 
 
 Adds a font from the specified file to the collection.
@@ -24,7 +24,7 @@ void System::Drawing::Text::PrivateFontCollection::AddFontFile(const String &fil
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PrivateFontCollection](../)
-* Namespace [System::Drawing::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PrivateFontCollection](./)
+* Namespace [System::Drawing::Text](../)
+* Library [Aspose.Slides](../../)

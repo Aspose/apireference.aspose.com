@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides.export/iswfoptions/set_showsearch/
 ---
-## ISwfOptions::set_ShowSearch(**bool**) method
+## ISwfOptions::set_ShowSearch(bool) method
 
 
 Show/hide search section. Can be overridden in flashvars. Default is true.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISwfOptions::set_ShowSearch(bool value)=0
 
 ## See Also
 
-* Class [ISwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

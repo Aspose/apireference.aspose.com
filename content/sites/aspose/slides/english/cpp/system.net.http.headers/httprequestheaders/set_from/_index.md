@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.net.http.headers/httprequestheaders/set_from/
 ---
-## HttpRequestHeaders::set_From([String](../../../system/string/)) method
+## HttpRequestHeaders::set_From(String) method
 
 
 Sets a value of the 'From' header.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_From(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

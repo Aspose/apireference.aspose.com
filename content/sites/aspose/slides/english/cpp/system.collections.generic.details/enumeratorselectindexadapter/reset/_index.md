@@ -17,6 +17,6 @@ void System::Collections::Generic::Details::EnumeratorSelectIndexAdapter<Source,
 
 ## See Also
 
-* Class [EnumeratorSelectIndexAdapter](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EnumeratorSelectIndexAdapter](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

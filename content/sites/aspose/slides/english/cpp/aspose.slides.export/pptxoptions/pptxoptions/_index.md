@@ -17,6 +17,6 @@ Aspose::Slides::Export::PptxOptions::PptxOptions()
 
 ## See Also
 
-* Class [PptxOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PptxOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ SharedPtr<Oid> System::Security::Cryptography::ECCurve::get_Oid() const
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Oid](../../oid/)
-* Struct [ECCurve](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Oid](../oid/)
+* Struct [ECCurve](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

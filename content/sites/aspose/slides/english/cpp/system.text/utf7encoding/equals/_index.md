@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.text/utf7encoding/equals/
 ---
-## UTF7Encoding::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## UTF7Encoding::Equals(SharedPtr\<Object\>) method
 
 
 Compares with object.
@@ -28,8 +28,8 @@ True if **obj** is [UTF7Encoding](../) with same parameters, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [UTF7Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [UTF7Encoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ Hashcode **int32_t**.
 
 ## See Also
 
-* Class [FieldType](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FieldType](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

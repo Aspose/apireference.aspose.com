@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/system.io/file/setlastwritetimeutc/
 ---
-## File::SetLastWriteTimeUtc(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## File::SetLastWriteTimeUtc(const String\&, DateTime) method
 
 
 Sets the last write time of the specified entity as UTC time.
@@ -25,8 +25,8 @@ static void System::IO::File::SetLastWriteTimeUtc(const String &path, DateTime l
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

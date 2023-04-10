@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IAudioFrame::get_HideAtShowing()=0
 
 ## See Also
 
-* Class [IAudioFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAudioFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

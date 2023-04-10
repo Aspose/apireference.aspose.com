@@ -22,6 +22,6 @@ True if event should be cancelled, false otherwise.
 
 ## See Also
 
-* Class [CancelEventArgs](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CancelEventArgs](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

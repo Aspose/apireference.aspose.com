@@ -22,6 +22,6 @@ A value that indicates if the certificate must be checked against the certificat
 
 ## See Also
 
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

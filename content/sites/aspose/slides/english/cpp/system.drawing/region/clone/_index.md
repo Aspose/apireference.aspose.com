@@ -17,8 +17,7 @@ SharedPtr<Region> System::Drawing::Region::Clone() const
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Region](../)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Region](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

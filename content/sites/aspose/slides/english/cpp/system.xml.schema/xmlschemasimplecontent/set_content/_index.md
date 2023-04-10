@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemasimplecontent/set_content/
 ---
-## XmlSchemaSimpleContent::set_Content([SharedPtr](../../../system/sharedptr/)\<[XmlSchemaContent](../../xmlschemacontent/)\>) method
+## XmlSchemaSimpleContent::set_Content(SharedPtr\<XmlSchemaContent\>) method
 
 
 Returns one of the [XmlSchemaSimpleContentRestriction](../../xmlschemasimplecontentrestriction/) or [XmlSchemaSimpleContentExtension](../../xmlschemasimplecontentextension/).
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSimpleContent::set_Content(SharedPtr<XmlSchem
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaContent](../../xmlschemacontent/)
-* Class [XmlSchemaSimpleContent](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaContent](../xmlschemacontent/)
+* Class [XmlSchemaSimpleContent](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

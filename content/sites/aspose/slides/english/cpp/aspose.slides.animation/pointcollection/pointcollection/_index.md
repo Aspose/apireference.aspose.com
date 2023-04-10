@@ -17,6 +17,6 @@ Aspose::Slides::Animation::PointCollection::PointCollection()
 
 ## See Also
 
-* Class [PointCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

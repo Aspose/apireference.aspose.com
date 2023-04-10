@@ -17,7 +17,7 @@ System::ArrayPtr<uint8_t> Aspose::Slides::DOM::Ole::OleEmbeddedDataInfo::get_Emb
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [OleEmbeddedDataInfo](../)
-* Namespace [Aspose::Slides::DOM::Ole](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [OleEmbeddedDataInfo](./)
+* Namespace [Aspose::Slides::DOM::Ole](../)
+* Library [Aspose.Slides](../../)

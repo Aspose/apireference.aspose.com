@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/icontrolpropertiescollection/idx_get/
 ---
-## IControlPropertiesCollection::idx_get([System::String](../../../system/string/)) method
+## IControlPropertiesCollection::idx_get(System::String) method
 
 
 Returns property.
@@ -28,7 +28,7 @@ virtual System::String Aspose::Slides::IControlPropertiesCollection::idx_get(Sys
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IControlPropertiesCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IControlPropertiesCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IInnerShadow> Aspose::Slides::IEffectFormat::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IInnerShadow](../../../aspose.slides.effects/iinnershadow/)
-* Class [IEffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IInnerShadow](../../aspose.slides.effects/iinnershadow/)
+* Class [IEffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

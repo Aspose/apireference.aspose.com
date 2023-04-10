@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.net/httpwebrequest/set_contenttype/
 ---
-## HttpWebRequest::set_ContentType([String](../../../system/string/)) method
+## HttpWebRequest::set_ContentType(String) method
 
 
 Sets the MIME type of the request.
@@ -24,7 +24,7 @@ void System::Net::HttpWebRequest::set_ContentType(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.threading/thread/set_name/
 ---
-## Thread::set_Name(const [System::String](../../../system/string/)\&) method
+## Thread::set_Name(const System::String\&) method
 
 
 Sets thread name.
@@ -24,7 +24,7 @@ void System::Threading::Thread::set_Name(const System::String &name)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Thread](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Thread](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

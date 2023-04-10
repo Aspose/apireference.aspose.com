@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httpheaders/contains/
 ---
-## HttpHeaders::Contains([String](../../../system/string/)) method
+## HttpHeaders::Contains(String) method
 
 
 
@@ -17,7 +17,7 @@ bool System::Net::Http::Headers::HttpHeaders::Contains(String name)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

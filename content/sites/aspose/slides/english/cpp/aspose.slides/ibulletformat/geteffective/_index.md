@@ -42,8 +42,8 @@ if (effectiveBulletFormat->get_Type() == Aspose::Slides::BulletType::Numbered)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBulletFormatEffectiveData](../../ibulletformateffectivedata/)
-* Class [IBulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBulletFormatEffectiveData](../ibulletformateffectivedata/)
+* Class [IBulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -35,5 +35,5 @@ The value of type **TTo** equivalent to **value**
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

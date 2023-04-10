@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.slides/presentation/get_section/
 ---
-## Presentation::get_Section(**int32_t**) method
+## Presentation::get_Section(int32_t) method
 
 
 Returns a slide section defined in the presentation at the specified index. Read-only [Aspose::Slides::ISection](../../isection/)
@@ -17,8 +17,8 @@ System::SharedPtr<ISection> Aspose::Slides::Presentation::get_Section(int32_t in
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISection](../../isection/)
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISection](../isection/)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

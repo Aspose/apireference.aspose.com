@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net/servicepoint/set_connectionleasetimeout/
 ---
-## ServicePoint::set_ConnectionLeaseTimeout(**int32_t**) method
+## ServicePoint::set_ConnectionLeaseTimeout(int32_t) method
 
 
 Sets a timeout in milliseconds after which active [ServicePoint](../) will be closed.
@@ -24,6 +24,6 @@ void System::Net::ServicePoint::set_ConnectionLeaseTimeout(int32_t value)
 
 ## See Also
 
-* Class [ServicePoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

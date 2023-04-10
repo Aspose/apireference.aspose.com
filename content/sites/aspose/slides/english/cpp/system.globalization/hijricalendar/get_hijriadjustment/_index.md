@@ -22,6 +22,6 @@ Integer from -2 to 2.
 
 ## See Also
 
-* Class [HijriCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HijriCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

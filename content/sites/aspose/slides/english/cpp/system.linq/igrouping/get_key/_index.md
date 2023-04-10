@@ -17,6 +17,6 @@ virtual TKey System::Linq::IGrouping<TKey, TItem>::get_Key()=0
 
 ## See Also
 
-* Class [IGrouping](../)
-* Namespace [System::Linq](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGrouping](./)
+* Namespace [System::Linq](../)
+* Library [Aspose.Slides](../../)

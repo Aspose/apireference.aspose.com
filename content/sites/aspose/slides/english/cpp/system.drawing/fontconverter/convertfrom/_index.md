@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.drawing/fontconverter/convertfrom/
 ---
-## FontConverter::ConvertFrom(const [System::SharedPtr](../../../system/sharedptr/)\<[ComponentModel::ITypeDescriptorContext](../../../system.componentmodel/itypedescriptorcontext/)\>\&, const [System::SharedPtr](../../../system/sharedptr/)\<[System::Globalization::CultureInfo](../../../system.globalization/cultureinfo/)\>\&, const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&) method
+## FontConverter::ConvertFrom(const System::SharedPtr\<ComponentModel::ITypeDescriptorContext\>\&, const System::SharedPtr\<System::Globalization::CultureInfo\>\&, const System::SharedPtr\<System::Object\>\&) method
 
 
 Converts objects.
@@ -30,10 +30,10 @@ converted object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [ITypeDescriptorContext](../../../system.componentmodel/itypedescriptorcontext/)
-* Class [CultureInfo](../../../system.globalization/cultureinfo/)
-* Class [FontConverter](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [ITypeDescriptorContext](../../system.componentmodel/itypedescriptorcontext/)
+* Class [CultureInfo](../../system.globalization/cultureinfo/)
+* Class [FontConverter](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/pviobject/equals/
 ---
-## PVIObject::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## PVIObject::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Compares with specified object.
@@ -28,8 +28,8 @@ True is objects are equal, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [PVIObject](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [PVIObject](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

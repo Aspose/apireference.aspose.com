@@ -29,6 +29,6 @@ The product of **a** and **b**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

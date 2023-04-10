@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/baseslideheaderfootermanager/setfootervisibility/
 ---
-## BaseSlideHeaderFooterManager::SetFooterVisibility(**bool**) method
+## BaseSlideHeaderFooterManager::SetFooterVisibility(bool) method
 
 
 Changes slide footer placeholder visibility.
@@ -24,6 +24,6 @@ void Aspose::Slides::BaseSlideHeaderFooterManager::SetFooterVisibility(bool isVi
 
 ## See Also
 
-* Class [BaseSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

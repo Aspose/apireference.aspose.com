@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.io/directory/setlastwritetimeutc/
 ---
-## Directory::SetLastWriteTimeUtc(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## Directory::SetLastWriteTimeUtc(const String\&, DateTime) method
 
 
 Sets the last write time of the specified entity as UTC time.
@@ -25,8 +25,8 @@ static void System::IO::Directory::SetLastWriteTimeUtc(const String &path, DateT
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [Directory](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [Directory](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

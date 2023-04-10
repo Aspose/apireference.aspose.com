@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.xml/xmlparsercontext/set_baseuri/
 ---
-## XmlParserContext::set_BaseURI(const [String](../../../system/string/)\&) method
+## XmlParserContext::set_BaseURI(const String\&) method
 
 
 Sets the base URI.
@@ -24,7 +24,7 @@ void System::Xml::XmlParserContext::set_BaseURI(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlParserContext](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlParserContext](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

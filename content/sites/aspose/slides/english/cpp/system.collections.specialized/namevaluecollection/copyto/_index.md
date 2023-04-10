@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.collections.specialized/namevaluecollection/copyto/
 ---
-## NameValueCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>, **int32_t**) method
+## NameValueCollection::CopyTo(System::ArrayPtr\<String\>, int32_t) method
 
 
 Copies collection elements into existing array elements.
@@ -25,8 +25,8 @@ void System::Collections::Specialized::NameValueCollection::CopyTo(System::Array
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [NameValueCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [NameValueCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

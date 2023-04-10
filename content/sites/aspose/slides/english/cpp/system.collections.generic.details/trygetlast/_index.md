@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.collections.generic.details/trygetlast/
 ---
-## System::Collections::Generic::Details::TryGetLast([IEnumerable](../../system.collections.generic/ienumerable/)\<T\>\&, **bool**\&) function
+## System::Collections::Generic::Details::TryGetLast(IEnumerable\<T\>\&, bool\&) function
 
 
 Tries to get the last element of the collection.
@@ -35,6 +35,6 @@ Returns the last collection element. The default value of the type will be retur
 
 ## See Also
 
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [IEnumerable](../system.collections.generic/ienumerable/)
+* Namespace [System::Collections::Generic::Details](./)
+* Library [Aspose.Slides](../)

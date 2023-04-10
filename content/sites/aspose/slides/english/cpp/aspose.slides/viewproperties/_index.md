@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/viewproperties/
 [Presentation](../presentation/) wide view properties.
 
 ```cpp
-class ViewProperties : public Aspose::Slides::IViewProperties,
-                       public Aspose::Slides::IDOMObject
+class ViewProperties : public Aspose::Slides::IViewProperties,                       public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

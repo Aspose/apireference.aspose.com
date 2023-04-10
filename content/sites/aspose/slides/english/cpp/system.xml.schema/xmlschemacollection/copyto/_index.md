@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemacollection/copyto/
 ---
-## XmlSchemaCollection::CopyTo(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[XmlSchema](../../xmlschema/)\>\>\&, **int32_t**) method
+## XmlSchemaCollection::CopyTo(const ArrayPtr\<SharedPtr\<XmlSchema\>\>\&, int32_t) method
 
 
 Copies all the [XmlSchema](../../xmlschema/) objects from this collection into the given array starting at the given index.
@@ -25,9 +25,9 @@ void System::Xml::Schema::XmlSchemaCollection::CopyTo(const ArrayPtr<SharedPtr<X
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchema](../../xmlschema/)
-* Class [XmlSchemaCollection](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchema](../xmlschema/)
+* Class [XmlSchemaCollection](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

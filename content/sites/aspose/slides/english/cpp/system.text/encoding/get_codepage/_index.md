@@ -22,6 +22,6 @@ Codepage ID.
 
 ## See Also
 
-* Class [Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Encoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

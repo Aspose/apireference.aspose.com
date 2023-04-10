@@ -22,6 +22,6 @@ A value that indicates if the domain is implicit.
 
 ## See Also
 
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.vba/vbamodulecollection/remove/
 ---
-## VbaModuleCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IVbaModule](../../ivbamodule/)\>) method
+## VbaModuleCollection::Remove(System::SharedPtr\<IVbaModule\>) method
 
 
 Removes the first occurrence of a specific object from the collection.
@@ -24,8 +24,8 @@ void Aspose::Slides::Vba::VbaModuleCollection::Remove(System::SharedPtr<IVbaModu
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaModule](../../ivbamodule/)
-* Class [VbaModuleCollection](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaModule](../ivbamodule/)
+* Class [VbaModuleCollection](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

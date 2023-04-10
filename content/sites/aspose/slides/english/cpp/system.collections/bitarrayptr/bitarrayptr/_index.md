@@ -15,12 +15,7 @@ Initializes null pointer.
 System::Collections::BitArrayPtr::BitArrayPtr()
 ```
 
-## See Also
-
-* Class [BitArrayPtr](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
-## BitArrayPtr::BitArrayPtr(const [SharedPtr](../../../system/sharedptr/)\<[BitArray](../../bitarray/)\>\&) constructor
+## BitArrayPtr::BitArrayPtr(const SharedPtr\<BitArray\>\&) constructor
 
 
 Conversion constructor.
@@ -38,8 +33,8 @@ System::Collections::BitArrayPtr::BitArrayPtr(const SharedPtr<BitArray> &obj)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [BitArray](../../bitarray/)
-* Class [BitArrayPtr](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [BitArrayPtr](./)
+* Class [BitArray](../bitarray/)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

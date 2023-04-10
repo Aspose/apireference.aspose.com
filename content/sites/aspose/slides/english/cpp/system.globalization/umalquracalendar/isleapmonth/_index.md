@@ -28,11 +28,6 @@ bool System::Globalization::UmAlQuraCalendar::IsLeapMonth(int year, int month, i
 
 True if specified month is leap, false otherwise.
 
-## See Also
-
-* Class [UmAlQuraCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## UmAlQuraCalendar::IsLeapMonth(int, int) const method
 
 
@@ -54,11 +49,6 @@ virtual bool System::Globalization::Calendar::IsLeapMonth(int year, int month) c
 
 True if specified month is leap, false otherwise.
 
-## See Also
-
-* Class [UmAlQuraCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## UmAlQuraCalendar::IsLeapMonth(int, int, int) const method
 
 
@@ -83,6 +73,6 @@ True if specified month is leap, false otherwise.
 
 ## See Also
 
-* Class [UmAlQuraCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UmAlQuraCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ A collection of header names that are stored in the collection.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [WebHeaderCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [WebHeaderCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

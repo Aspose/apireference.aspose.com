@@ -22,8 +22,8 @@ virtual System::SharedPtr<IGlow> Aspose::Slides::Effects::IEffectFactory::Create
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGlow](../../iglow/)
-* Class [IEffectFactory](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGlow](../iglow/)
+* Class [IEffectFactory](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

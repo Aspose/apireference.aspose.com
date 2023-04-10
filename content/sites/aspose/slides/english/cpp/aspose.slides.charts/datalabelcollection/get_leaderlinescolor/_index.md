@@ -33,7 +33,7 @@ labels->set_LeaderLinesColor(System::Drawing::Color::FromArgb(255, 255, 0, 0));
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [DataLabelCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [DataLabelCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

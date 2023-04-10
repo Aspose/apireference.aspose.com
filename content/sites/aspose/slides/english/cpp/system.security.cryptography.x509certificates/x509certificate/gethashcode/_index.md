@@ -22,6 +22,6 @@ Hash code as a integer.
 
 ## See Also
 
-* Class [X509Certificate](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [X509Certificate](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

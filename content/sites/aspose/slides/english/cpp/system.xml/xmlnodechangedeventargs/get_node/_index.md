@@ -22,8 +22,8 @@ The [XmlNode](../../xmlnode/) that is being added, removed or changed; this meth
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlNodeChangedEventArgs](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlNodeChangedEventArgs](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<ITabCollection> Aspose::Slides::ParagraphFormat::get_Tabs() ov
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITabCollection](../../itabcollection/)
-* Class [ParagraphFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITabCollection](../itabcollection/)
+* Class [ParagraphFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

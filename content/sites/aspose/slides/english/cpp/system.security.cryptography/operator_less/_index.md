@@ -6,7 +6,7 @@ type: docs
 weight: 807
 url: /cpp/system.security.cryptography/operator_less/
 ---
-## System::Security::Cryptography::operator<(std::nullptr_t, const [HashAlgorithmName](../hashalgorithmname/)\&) function
+## System::Security::Cryptography::operator<(std::nullptr_t, const HashAlgorithmName\&) function
 
 
 
@@ -17,6 +17,6 @@ constexpr bool System::Security::Cryptography::operator<(std::nullptr_t, const H
 
 ## See Also
 
-* Struct [HashAlgorithmName](../hashalgorithmname/)
-* Namespace [System::Security::Cryptography](../)
-* Library [Aspose.Slides](../../)
+* Struct [HashAlgorithmName](./hashalgorithmname/)
+* Namespace [System::Security::Cryptography](./)
+* Library [Aspose.Slides](../)

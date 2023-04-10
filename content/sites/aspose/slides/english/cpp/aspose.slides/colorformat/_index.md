@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/colorformat/
 Represents a color used in a presentation.
 
 ```cpp
-class ColorFormat : public Aspose::Slides::PVIObject,
-                    public Aspose::Slides::IColorFormat
+class ColorFormat : public Aspose::Slides::PVIObject,                    public Aspose::Slides::IColorFormat
 ```
 
 ## Methods

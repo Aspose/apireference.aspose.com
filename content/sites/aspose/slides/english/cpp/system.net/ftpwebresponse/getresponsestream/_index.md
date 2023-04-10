@@ -17,8 +17,8 @@ System::SharedPtr<System::IO::Stream> System::Net::FtpWebResponse::GetResponseSt
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [FtpWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [FtpWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

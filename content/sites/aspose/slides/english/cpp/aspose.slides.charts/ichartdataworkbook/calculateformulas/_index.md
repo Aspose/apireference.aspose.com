@@ -34,6 +34,6 @@ wb->CalculateFormulas();
 
 ## See Also
 
-* Class [IChartDataWorkbook](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartDataWorkbook](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The host name of the local machine.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Dns](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Dns](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

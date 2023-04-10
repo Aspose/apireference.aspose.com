@@ -17,8 +17,8 @@ System::SharedPtr<IColorFormat> Aspose::Slides::ThreeDFormat::get_ContourColor()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorFormat](../../icolorformat/)
-* Class [ThreeDFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorFormat](../icolorformat/)
+* Class [ThreeDFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

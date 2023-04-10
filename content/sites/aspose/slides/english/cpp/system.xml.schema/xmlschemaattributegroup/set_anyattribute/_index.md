@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaattributegroup/set_anyattribute/
 ---
-## XmlSchemaAttributeGroup::set_AnyAttribute(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)\>\&) method
+## XmlSchemaAttributeGroup::set_AnyAttribute(const SharedPtr\<XmlSchemaAnyAttribute\>\&) method
 
 
 Sets the [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/) component of the attribute group.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaAttributeGroup::set_AnyAttribute(const Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)
-* Class [XmlSchemaAttributeGroup](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaAnyAttribute](../xmlschemaanyattribute/)
+* Class [XmlSchemaAttributeGroup](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

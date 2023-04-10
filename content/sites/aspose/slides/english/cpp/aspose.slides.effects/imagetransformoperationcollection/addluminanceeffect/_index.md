@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/addluminanceeffect/
 ---
-## ImageTransformOperationCollection::AddLuminanceEffect(**float**, **float**) method
+## ImageTransformOperationCollection::AddLuminanceEffect(float, float) method
 
 
 Adds the new [Luminance](../../luminance/) effect to the end of a collection.
@@ -29,8 +29,8 @@ Index of the new image effect in a collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILuminance](../../iluminance/)
-* Class [ImageTransformOperationCollection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILuminance](../iluminance/)
+* Class [ImageTransformOperationCollection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

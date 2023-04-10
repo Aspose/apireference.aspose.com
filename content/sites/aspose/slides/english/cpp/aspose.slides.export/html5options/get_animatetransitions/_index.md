@@ -33,6 +33,6 @@ pres->Save(u"demo-animate-transitions.html", SaveFormat::Html5, options);
 
 ## See Also
 
-* Class [Html5Options](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Html5Options](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

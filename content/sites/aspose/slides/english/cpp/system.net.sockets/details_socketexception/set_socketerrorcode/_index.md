@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net.sockets/details_socketexception/set_socketerrorcode/
 ---
-## Details_SocketException::set_SocketErrorCode([SocketError](../../socketerror/)) method
+## Details_SocketException::set_SocketErrorCode(SocketError) method
 
 
 Sets the socket error code.
@@ -24,7 +24,7 @@ void System::Net::Sockets::Details_SocketException::set_SocketErrorCode(SocketEr
 
 ## See Also
 
-* Enum [SocketError](../../socketerror/)
-* Class [Details_SocketException](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SocketError](../socketerror/)
+* Class [Details_SocketException](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

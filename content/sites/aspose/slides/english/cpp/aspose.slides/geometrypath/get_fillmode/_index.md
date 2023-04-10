@@ -17,7 +17,7 @@ PathFillModeType Aspose::Slides::GeometryPath::get_FillMode() override
 
 ## See Also
 
-* Enum [PathFillModeType](../../pathfillmodetype/)
-* Class [GeometryPath](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PathFillModeType](../pathfillmodetype/)
+* Class [GeometryPath](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/sequencecollection/add/
 ---
-## SequenceCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
+## SequenceCollection::Add(System::SharedPtr\<IShape\>) method
 
 
 Add new interactive sequence. Read/write [Sequence](../../sequence/).
@@ -17,9 +17,9 @@ System::SharedPtr<ISequence> Aspose::Slides::Animation::SequenceCollection::Add(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISequence](../../isequence/)
-* Class [IShape](../../../aspose.slides/ishape/)
-* Class [SequenceCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISequence](../isequence/)
+* Class [IShape](../../aspose.slides/ishape/)
+* Class [SequenceCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

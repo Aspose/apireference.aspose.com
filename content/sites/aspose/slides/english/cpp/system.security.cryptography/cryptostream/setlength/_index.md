@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.security.cryptography/cryptostream/setlength/
 ---
-## CryptoStream::SetLength(**int64_t**) method
+## CryptoStream::SetLength(int64_t) method
 
 
 Seeks size of stream. Not supported.
@@ -18,6 +18,6 @@ void System::Security::Cryptography::CryptoStream::SetLength(int64_t value) over
 
 ## See Also
 
-* Class [CryptoStream](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CryptoStream](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

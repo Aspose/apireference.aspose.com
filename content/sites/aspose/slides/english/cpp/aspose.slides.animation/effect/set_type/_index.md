@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/effect/set_type/
 ---
-## Effect::set_Type([EffectType](../../effecttype/)) method
+## Effect::set_Type(EffectType) method
 
 
 Defines type of effect. Write [EffectType](../../effecttype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::Effect::set_Type(EffectType value) override
 
 ## See Also
 
-* Enum [EffectType](../../effecttype/)
-* Class [Effect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EffectType](../effecttype/)
+* Class [Effect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

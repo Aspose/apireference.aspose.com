@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/remove/
 ---
-## XmlSchemaObjectCollection::Remove(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaObject](../../xmlschemaobject/)\>\&) method
+## XmlSchemaObjectCollection::Remove(const SharedPtr\<XmlSchemaObject\>\&) method
 
 
 Removes an [XmlSchemaObject](../../xmlschemaobject/) from the [XmlSchemaObjectCollection](../).
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaObjectCollection::Remove(const SharedPtr<XmlS
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObject](../../xmlschemaobject/)
-* Class [XmlSchemaObjectCollection](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObject](../xmlschemaobject/)
+* Class [XmlSchemaObjectCollection](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

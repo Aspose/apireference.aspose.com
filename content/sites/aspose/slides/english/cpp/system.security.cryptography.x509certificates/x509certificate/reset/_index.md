@@ -17,6 +17,6 @@ virtual void System::Security::Cryptography::X509Certificates::X509Certificate::
 
 ## See Also
 
-* Class [X509Certificate](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [X509Certificate](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

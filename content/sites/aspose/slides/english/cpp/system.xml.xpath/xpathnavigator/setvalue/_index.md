@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/system.xml.xpath/xpathnavigator/setvalue/
 ---
-## XPathNavigator::SetValue([String](../../../system/string/)) method
+## XPathNavigator::SetValue(String) method
 
 
 Sets the value of the current node.
@@ -24,7 +24,7 @@ virtual void System::Xml::XPath::XPathNavigator::SetValue(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

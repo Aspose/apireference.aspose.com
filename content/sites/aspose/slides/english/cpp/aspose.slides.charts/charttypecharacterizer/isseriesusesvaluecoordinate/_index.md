@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides.charts/charttypecharacterizer/isseriesusesvaluecoordinate/
 ---
-## ChartTypeCharacterizer::IsSeriesUsesValueCoordinate([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::IsSeriesUsesValueCoordinate(ChartType) method
 
 
 Returns if specified series type uses value coordinates.
@@ -28,7 +28,7 @@ True if uses otherwise false.
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

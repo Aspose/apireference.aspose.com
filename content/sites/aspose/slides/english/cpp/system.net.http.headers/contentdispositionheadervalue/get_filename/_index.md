@@ -22,7 +22,7 @@ A value that determines how to construct a filename for storing the message payl
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ContentDispositionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ContentDispositionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

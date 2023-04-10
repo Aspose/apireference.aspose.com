@@ -17,7 +17,7 @@ System::SharedPtr<IColorFormat> Aspose::Slides::get_ForeColor() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IColorFormat](../icolorformat/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../system/sharedptr/)
+* Class [IColorFormat](./icolorformat/)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

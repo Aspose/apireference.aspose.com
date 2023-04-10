@@ -22,7 +22,7 @@ The status code.
 
 ## See Also
 
-* Enum [WebExceptionStatus](../../webexceptionstatus/)
-* Class [Details_WebException](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [WebExceptionStatus](../webexceptionstatus/)
+* Class [Details_WebException](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

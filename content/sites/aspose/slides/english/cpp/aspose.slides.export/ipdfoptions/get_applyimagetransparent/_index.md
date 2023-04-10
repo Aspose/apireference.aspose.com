@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Export::IPdfOptions::get_ApplyImageTransparent()=0
 
 ## See Also
 
-* Class [IPdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

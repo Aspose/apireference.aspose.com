@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/gradientformat/set_lineargradientangle/
 ---
-## GradientFormat::set_LinearGradientAngle(**float**) method
+## GradientFormat::set_LinearGradientAngle(float) method
 
 
 Sets the angle of a gradient. Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::GradientFormat::set_LinearGradientAngle(float value) overri
 
 ## See Also
 
-* Class [GradientFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GradientFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

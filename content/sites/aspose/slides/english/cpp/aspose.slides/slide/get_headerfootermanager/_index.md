@@ -17,8 +17,8 @@ System::SharedPtr<ISlideHeaderFooterManager> Aspose::Slides::Slide::get_HeaderFo
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISlideHeaderFooterManager](../../islideheaderfootermanager/)
-* Class [Slide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISlideHeaderFooterManager](../islideheaderfootermanager/)
+* Class [Slide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

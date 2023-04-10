@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.io/file/delete/
 ---
-## File::Delete(const [String](../../../system/string/)\&) method
+## File::Delete(const String\&) method
 
 
 Deletes the specified file or directory.
@@ -24,7 +24,7 @@ static void System::IO::File::Delete(const String &path)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

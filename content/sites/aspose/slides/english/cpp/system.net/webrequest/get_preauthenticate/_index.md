@@ -22,6 +22,6 @@ A value that indicates if the request must be pre-authenticated.
 
 ## See Also
 
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ System::Security::Cryptography::SHA1CryptoServiceProvider::SHA1CryptoServiceProv
 
 ## See Also
 
-* Class [SHA1CryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SHA1CryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

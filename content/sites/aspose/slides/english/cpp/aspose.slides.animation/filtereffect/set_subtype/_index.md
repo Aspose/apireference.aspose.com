@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/filtereffect/set_subtype/
 ---
-## FilterEffect::set_Subtype([FilterEffectSubtype](../../filtereffectsubtype/)) method
+## FilterEffect::set_Subtype(FilterEffectSubtype) method
 
 
 Represents subtype of filter effect. Write [FilterEffectSubtype](../../filtereffectsubtype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::FilterEffect::set_Subtype(FilterEffectSubtype va
 
 ## See Also
 
-* Enum [FilterEffectSubtype](../../filtereffectsubtype/)
-* Class [FilterEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FilterEffectSubtype](../filtereffectsubtype/)
+* Class [FilterEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

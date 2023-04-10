@@ -17,6 +17,6 @@ int32_t Aspose::Slides::CustomXmlPartCollection::get_Count() override
 
 ## See Also
 
-* Class [CustomXmlPartCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CustomXmlPartCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

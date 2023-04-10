@@ -17,8 +17,8 @@ System::SharedPtr<IXamlOutputSaver> Aspose::Slides::Export::Xaml::XamlOptions::g
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IXamlOutputSaver](../../ixamloutputsaver/)
-* Class [XamlOptions](../)
-* Namespace [Aspose::Slides::Export::Xaml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IXamlOutputSaver](../ixamloutputsaver/)
+* Class [XamlOptions](./)
+* Namespace [Aspose::Slides::Export::Xaml](../)
+* Library [Aspose.Slides](../../)

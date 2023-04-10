@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IParagraphFormatEffectiveData::get_LatinLineBreak()
 
 ## See Also
 
-* Class [IParagraphFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IParagraphFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

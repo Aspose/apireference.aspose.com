@@ -25,6 +25,6 @@ void System::Collections::Generic::BaseDictionary<Map>::Add(const key_t &key, co
 
 ## See Also
 
-* Class [BaseDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

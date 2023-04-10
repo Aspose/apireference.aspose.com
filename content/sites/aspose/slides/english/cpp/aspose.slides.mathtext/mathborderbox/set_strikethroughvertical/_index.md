@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides.mathtext/mathborderbox/set_strikethroughvertical/
 ---
-## MathBorderBox::set_StrikethroughVertical(**bool**) method
+## MathBorderBox::set_StrikethroughVertical(bool) method
 
 
 Strikethrough Vertical (default is false) - specifies the hidden or shown state of a strikethrough vertical line.
@@ -26,6 +26,6 @@ borderBox->set_StrikethroughVertical(true);
 
 ## See Also
 
-* Class [MathBorderBox](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathBorderBox](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

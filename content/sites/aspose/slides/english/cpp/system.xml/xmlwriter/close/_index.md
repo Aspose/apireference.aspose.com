@@ -18,6 +18,6 @@ virtual void System::Xml::XmlWriter::Close()
 
 ## See Also
 
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

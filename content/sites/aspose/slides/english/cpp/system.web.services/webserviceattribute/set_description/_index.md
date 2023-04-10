@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.web.services/webserviceattribute/set_description/
 ---
-## WebServiceAttribute::set_Description([String](../../../system/string/)) method
+## WebServiceAttribute::set_Description(String) method
 
 
 Sets a message that contains the XML [Web](../../../system.web/) service description.
@@ -24,7 +24,7 @@ void System::Web::Services::WebServiceAttribute::set_Description(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WebServiceAttribute](../)
-* Namespace [System::Web::Services](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WebServiceAttribute](./)
+* Namespace [System::Web::Services](../)
+* Library [Aspose.Slides](../../)

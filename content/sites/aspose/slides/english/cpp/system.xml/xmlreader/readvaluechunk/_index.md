@@ -6,7 +6,7 @@ type: docs
 weight: 807
 url: /cpp/system.xml/xmlreader/readvaluechunk/
 ---
-## XmlReader::ReadValueChunk([ArrayPtr](../../../system/arrayptr/)\<char16_t\>, **int32_t**, **int32_t**) method
+## XmlReader::ReadValueChunk(ArrayPtr\<char16_t\>, int32_t, int32_t) method
 
 
 Reads large streams of text embedded in an XML document.
@@ -30,7 +30,7 @@ The number of characters read into the buffer. The value zero is returned when t
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [XmlReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

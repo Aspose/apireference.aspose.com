@@ -22,7 +22,7 @@ virtual MemberTypes System::Reflection::MemberInfo::get_MemberType() const =0
 
 ## See Also
 
-* Enum [MemberTypes](../../membertypes/)
-* Class [MemberInfo](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MemberTypes](../membertypes/)
+* Class [MemberInfo](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

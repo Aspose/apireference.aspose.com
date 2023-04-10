@@ -22,6 +22,6 @@ True if size is fixed, false otherwise.
 
 ## See Also
 
-* Class [IDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

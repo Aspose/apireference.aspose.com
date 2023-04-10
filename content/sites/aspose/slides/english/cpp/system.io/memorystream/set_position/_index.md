@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.io/memorystream/set_position/
 ---
-## MemoryStream::set_Position(**int64_t**) method
+## MemoryStream::set_Position(int64_t) method
 
 
 Sets the stream's position.
@@ -24,6 +24,6 @@ void System::IO::MemoryStream::set_Position(int64_t value) override
 
 ## See Also
 
-* Class [MemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

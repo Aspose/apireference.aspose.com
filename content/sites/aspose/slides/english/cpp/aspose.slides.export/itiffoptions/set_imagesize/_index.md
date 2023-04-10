@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.export/itiffoptions/set_imagesize/
 ---
-## ITiffOptions::set_ImageSize([System::Drawing::Size](../../../system.drawing/size/)) method
+## ITiffOptions::set_ImageSize(System::Drawing::Size) method
 
 
 Specifies size of a generated TIFF image. Default value is 0x0, what means that generated image sizes will be calculated based on presentation slide size value. Write [System::Drawing::Size](../../../system.drawing/size/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Export::ITiffOptions::set_ImageSize(System::Drawing
 
 ## See Also
 
-* Class [Size](../../../system.drawing/size/)
-* Class [ITiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Size](../../system.drawing/size/)
+* Class [ITiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/commentcollection/removeat/
 ---
-## CommentCollection::RemoveAt(**int32_t**) method
+## CommentCollection::RemoveAt(int32_t) method
 
 
 Removes the element at the specified index in a collection.
@@ -24,6 +24,6 @@ void Aspose::Slides::CommentCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [CommentCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CommentCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

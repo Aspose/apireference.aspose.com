@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml/xmldocumentfragment/set_innerxml/
 ---
-## XmlDocumentFragment::set_InnerXml([String](../../../system/string/)) method
+## XmlDocumentFragment::set_InnerXml(String) method
 
 
 Sets the markup representing the children of this node.
@@ -24,7 +24,7 @@ void System::Xml::XmlDocumentFragment::set_InnerXml(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDocumentFragment](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDocumentFragment](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

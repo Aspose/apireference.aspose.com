@@ -17,8 +17,8 @@ System::SharedPtr<Theme::IOverrideThemeManager> Aspose::Slides::NotesSlide::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IOverrideThemeManager](../../../aspose.slides.theme/ioverridethememanager/)
-* Class [NotesSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IOverrideThemeManager](../../aspose.slides.theme/ioverridethememanager/)
+* Class [NotesSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

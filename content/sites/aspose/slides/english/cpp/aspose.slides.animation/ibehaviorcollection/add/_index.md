@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/ibehaviorcollection/add/
 ---
-## IBehaviorCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IBehavior](../../ibehavior/)\>) method
+## IBehaviorCollection::Add(System::SharedPtr\<IBehavior\>) method
 
 
 Add new behavior to a collection.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Animation::IBehaviorCollection::Add(System::SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBehavior](../../ibehavior/)
-* Class [IBehaviorCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBehavior](../ibehavior/)
+* Class [IBehaviorCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

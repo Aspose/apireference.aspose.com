@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.slides.export/ipdfoptions/set_sufficientresolution/
 ---
-## IPdfOptions::set_SufficientResolution(**float**) method
+## IPdfOptions::set_SufficientResolution(float) method
 
 
 Sets a value determining resolution of images inside PDF document.
@@ -27,6 +27,6 @@ Effect of this parameter depends on few factors. Algorithm tries to get best out
 Write **float**. 
 ## See Also
 
-* Class [IPdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

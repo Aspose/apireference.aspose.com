@@ -22,7 +22,7 @@ One of the XmlNodeType values representing the type of the current node.
 
 ## See Also
 
-* Enum [XmlNodeType](../../xmlnodetype/)
-* Class [XmlNodeReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlNodeType](../xmlnodetype/)
+* Class [XmlNodeReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

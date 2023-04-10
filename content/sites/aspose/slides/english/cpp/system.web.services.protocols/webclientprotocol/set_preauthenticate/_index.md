@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.web.services.protocols/webclientprotocol/set_preauthenticate/
 ---
-## WebClientProtocol::set_PreAuthenticate(**bool**) method
+## WebClientProtocol::set_PreAuthenticate(bool) method
 
 
 Sets a value that indicates if pre-authentication is enabled.
@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::WebClientProtocol::set_PreAuthenticate(bo
 
 ## See Also
 
-* Class [WebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

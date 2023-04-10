@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaCompilationSettings::XmlSchemaCompilationSettings(
 
 ## See Also
 
-* Class [XmlSchemaCompilationSettings](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaCompilationSettings](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

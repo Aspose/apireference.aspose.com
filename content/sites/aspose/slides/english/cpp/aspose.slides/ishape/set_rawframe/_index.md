@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/ishape/set_rawframe/
 ---
-## IShape::set_RawFrame([System::SharedPtr](../../../system/sharedptr/)\<[IShapeFrame](../../ishapeframe/)\>) method
+## IShape::set_RawFrame(System::SharedPtr\<IShapeFrame\>) method
 
 
 Sets the raw shape frame's properties. Write [IShapeFrame](../../ishapeframe/).
@@ -74,8 +74,8 @@ NullableBool::NotDefined, NullableBool::NotDefined, 0.0f)); // now shape inherit
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShapeFrame](../../ishapeframe/)
-* Class [IShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShapeFrame](../ishapeframe/)
+* Class [IShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/system.xml/xmlconvert/toguid/
 ---
-## XmlConvert::ToGuid(const [String](../../../system/string/)\&) method
+## XmlConvert::ToGuid(const String\&) method
 
 
 Converts the [String](../../../system/string/) to a [Guid](../../../system/guid/) equivalent.
@@ -28,8 +28,8 @@ A [Guid](../../../system/guid/) equivalent of the string.
 
 ## See Also
 
-* Class [Guid](../../../system/guid/)
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Guid](../../system/guid/)
+* Class [String](../../system/string/)
+* Class [XmlConvert](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ Pointer to the newly created iterator kernel object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [KeyInfoClause](../../keyinfoclause/)
-* Class [KeyInfo](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [KeyInfoClause](../keyinfoclause/)
+* Class [KeyInfo](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

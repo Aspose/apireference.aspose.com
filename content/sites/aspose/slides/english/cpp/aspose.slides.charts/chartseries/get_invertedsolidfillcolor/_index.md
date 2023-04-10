@@ -17,8 +17,8 @@ System::SharedPtr<IColorFormat> Aspose::Slides::Charts::ChartSeries::get_Inverte
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorFormat](../../../aspose.slides/icolorformat/)
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorFormat](../../aspose.slides/icolorformat/)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

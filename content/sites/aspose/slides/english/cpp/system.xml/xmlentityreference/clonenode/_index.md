@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml/xmlentityreference/clonenode/
 ---
-## XmlEntityReference::CloneNode(**bool**) method
+## XmlEntityReference::CloneNode(bool) method
 
 
 Creates a duplicate of this node.
@@ -28,8 +28,8 @@ The cloned node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlEntityReference](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlEntityReference](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

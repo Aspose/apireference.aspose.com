@@ -22,7 +22,7 @@ A string containing the read characters
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [TextReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [TextReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

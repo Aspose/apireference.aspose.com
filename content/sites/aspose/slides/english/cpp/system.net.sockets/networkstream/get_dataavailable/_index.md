@@ -22,6 +22,6 @@ A value that indicates if the there is available data to read.
 
 ## See Also
 
-* Class [NetworkStream](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NetworkStream](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

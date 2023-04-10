@@ -22,6 +22,6 @@ true if the architecture is little endian, false otherwise
 
 ## See Also
 
-* Class [BitConverter](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitConverter](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

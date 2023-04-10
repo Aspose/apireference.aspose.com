@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.xml/xmlprocessinginstruction/set_data/
 ---
-## XmlProcessingInstruction::set_Data(const [String](../../../system/string/)\&) method
+## XmlProcessingInstruction::set_Data(const String\&) method
 
 
 Sets the content of the processing instruction, excluding the target.
@@ -24,7 +24,7 @@ void System::Xml::XmlProcessingInstruction::set_Data(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlProcessingInstruction](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlProcessingInstruction](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

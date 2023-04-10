@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/portion/
 Represents a portion of text inside a text paragraph.
 
 ```cpp
-class Portion : public Aspose::Slides::IPortion,
-                public Aspose::Slides::IDOMObject
+class Portion : public Aspose::Slides::IPortion,                public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.componentmodel/enumconverter/canconvertto/
 ---
-## EnumConverter::CanConvertTo(const [System::SharedPtr](../../../system/sharedptr/)\<[ITypeDescriptorContext](../../itypedescriptorcontext/)\>\&, const [System::TypeInfo](../../../system/typeinfo/)\&) method
+## EnumConverter::CanConvertTo(const System::SharedPtr\<ITypeDescriptorContext\>\&, const System::TypeInfo\&) method
 
 
 Checks if types are convertible; not implemented.
@@ -17,9 +17,9 @@ bool System::ComponentModel::EnumConverter::CanConvertTo(const System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITypeDescriptorContext](../../itypedescriptorcontext/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [EnumConverter](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITypeDescriptorContext](../itypedescriptorcontext/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [EnumConverter](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

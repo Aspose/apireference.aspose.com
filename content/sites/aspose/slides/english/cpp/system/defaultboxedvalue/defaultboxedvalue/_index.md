@@ -24,6 +24,6 @@ System::DefaultBoxedValue<T>::DefaultBoxedValue(const T &value)
 
 ## See Also
 
-* Class [DefaultBoxedValue](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DefaultBoxedValue](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

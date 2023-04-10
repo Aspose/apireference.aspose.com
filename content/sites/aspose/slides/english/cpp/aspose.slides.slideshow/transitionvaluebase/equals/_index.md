@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.slideshow/transitionvaluebase/equals/
 ---
-## TransitionValueBase::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## TransitionValueBase::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines whether the two [TransitionValueBase](../) instances are equal.
@@ -28,8 +28,8 @@ bool Aspose::Slides::SlideShow::TransitionValueBase::Equals(System::SharedPtr<Sy
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [TransitionValueBase](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [TransitionValueBase](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

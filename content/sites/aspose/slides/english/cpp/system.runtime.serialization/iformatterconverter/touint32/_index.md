@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.runtime.serialization/iformatterconverter/touint32/
 ---
-## IFormatterConverter::ToUInt32([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## IFormatterConverter::ToUInt32(System::SharedPtr\<Object\>) method
 
 
 Converts a value to a **uint32_t**.
@@ -28,8 +28,8 @@ The converted value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IFormatterConverter](../)
-* Namespace [System::Runtime::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IFormatterConverter](./)
+* Namespace [System::Runtime::Serialization](../)
+* Library [Aspose.Slides](../../)

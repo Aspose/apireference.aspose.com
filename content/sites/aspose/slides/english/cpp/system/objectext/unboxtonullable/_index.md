@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system/objectext/unboxtonullable/
 ---
-## ObjectExt::UnboxToNullable(const [SmartPtr](../../smartptr/)\<[Object](../../object/)\>\&, **bool**) method
+## ObjectExt::UnboxToNullable(const SmartPtr\<Object\>\&, bool) method
 
 
 Unboxes object to nullable type.
@@ -35,9 +35,9 @@ Unboxed nullable value (could be null).
 
 ## See Also
 
-* Class [Nullable](../../nullable/)
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../nullable/)
+* Class [SmartPtr](../smartptr/)
+* Class [Object](../object/)
+* Class [ObjectExt](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

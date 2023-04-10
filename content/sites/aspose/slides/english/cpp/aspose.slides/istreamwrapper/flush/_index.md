@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IStreamWrapper::Flush()=0
 
 ## See Also
 
-* Class [IStreamWrapper](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IStreamWrapper](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The system identifier on the notation. If there is no system identifier, **nullp
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNotation](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNotation](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

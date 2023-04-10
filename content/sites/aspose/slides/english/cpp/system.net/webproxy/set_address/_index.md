@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net/webproxy/set_address/
 ---
-## WebProxy::set_Address([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
+## WebProxy::set_Address(System::SharedPtr\<Uri\>) method
 
 
 Sets the address of the current proxy server.
@@ -24,8 +24,8 @@ void System::Net::WebProxy::set_Address(System::SharedPtr<Uri> value)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [WebProxy](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [WebProxy](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

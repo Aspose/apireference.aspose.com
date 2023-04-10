@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IBaseHandoutNotesSlideHeaderFooterManag::get_IsHead
 
 ## See Also
 
-* Class [IBaseHandoutNotesSlideHeaderFooterManag](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBaseHandoutNotesSlideHeaderFooterManag](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

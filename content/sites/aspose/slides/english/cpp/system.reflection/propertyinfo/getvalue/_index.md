@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.reflection/propertyinfo/getvalue/
 ---
-## PropertyInfo::GetValue([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## PropertyInfo::GetValue(System::SharedPtr\<System::Object\>) method
 
 
 Gets property value from specific object.
@@ -28,8 +28,8 @@ Value of specified property for specified object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [PropertyInfo](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [PropertyInfo](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

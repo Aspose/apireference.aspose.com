@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.reflection/assembly/getmanifestresourcestream/
 ---
-## Assembly::GetManifestResourceStream([String](../../../system/string/)) const method
+## Assembly::GetManifestResourceStream(String) const method
 
 
 Gets stream connected to manifest resource.
@@ -28,9 +28,9 @@ Stream pointer.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [String](../../../system/string/)
-* Class [Assembly](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [String](../../system/string/)
+* Class [Assembly](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

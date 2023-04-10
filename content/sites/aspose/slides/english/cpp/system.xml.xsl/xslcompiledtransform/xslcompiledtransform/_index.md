@@ -17,6 +17,6 @@ System::Xml::Xsl::XslCompiledTransform::XslCompiledTransform()
 
 ## See Also
 
-* Class [XslCompiledTransform](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XslCompiledTransform](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

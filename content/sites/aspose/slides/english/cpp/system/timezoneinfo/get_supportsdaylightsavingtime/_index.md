@@ -17,6 +17,6 @@ bool System::TimeZoneInfo::get_SupportsDaylightSavingTime() const
 
 ## See Also
 
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

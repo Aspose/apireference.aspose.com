@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.net.http/httpclienthandler/set_proxy/
 ---
-## HttpClientHandler::set_Proxy([System::SharedPtr](../../../system/sharedptr/)\<[IWebProxy](../../../system.net/iwebproxy/)\>) method
+## HttpClientHandler::set_Proxy(System::SharedPtr\<IWebProxy\>) method
 
 
 Sets the proxy information.
@@ -24,8 +24,8 @@ void System::Net::Http::HttpClientHandler::set_Proxy(System::SharedPtr<IWebProxy
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IWebProxy](../../../system.net/iwebproxy/)
-* Class [HttpClientHandler](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IWebProxy](../../system.net/iwebproxy/)
+* Class [HttpClientHandler](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

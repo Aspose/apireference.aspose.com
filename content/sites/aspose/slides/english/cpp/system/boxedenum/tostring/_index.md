@@ -22,7 +22,7 @@ System::String System::BoxedEnum<E, UT>::ToString() const override
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [BoxedEnum](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [BoxedEnum](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

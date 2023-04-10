@@ -30,6 +30,6 @@ True if specified date is leap, false otherwise.
 
 ## See Also
 
-* Class [GregorianCalendarUtils](../)
-* Namespace [System::Globalization::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GregorianCalendarUtils](./)
+* Namespace [System::Globalization::Details](../)
+* Library [Aspose.Slides](../../)

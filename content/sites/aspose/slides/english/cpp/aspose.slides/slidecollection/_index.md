@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/slidecollection/
 Represents a collection of a slides.
 
 ```cpp
-class SlideCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,
-                        public Aspose::Slides::ISlideCollection
+class SlideCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,                        public Aspose::Slides::ISlideCollection
 ```
 
 ## Methods

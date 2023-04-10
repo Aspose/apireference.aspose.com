@@ -17,7 +17,7 @@ static FrameDimensionPtr System::Drawing::Imaging::FrameDimension::get_Time()
 
 ## See Also
 
-* Typedef [FrameDimensionPtr](../../framedimensionptr/)
-* Class [FrameDimension](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [FrameDimensionPtr](../framedimensionptr/)
+* Class [FrameDimension](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/charttypecharacterizer/ischarttypepie/
 ---
-## ChartTypeCharacterizer::IsChartTypePie([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::IsChartTypePie(ChartType) method
 
 
 Return true if chartType is one of Pie subtypes. Subtypes set corresponds to the appropriate set in PowerPoint (see \"Change Chart Type\" dialog in PowerPoint): [ChartType::BarOfPie](../../charttype/), [ChartType::ExplodedPie](../../charttype/), [ChartType::ExplodedPie3D](../../charttype/), [ChartType::Pie](../../charttype/), [ChartType::Pie3D](../../charttype/), [ChartType::PieOfPie](../../charttype/).
@@ -17,7 +17,7 @@ static bool Aspose::Slides::Charts::ChartTypeCharacterizer::IsChartTypePie(Chart
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

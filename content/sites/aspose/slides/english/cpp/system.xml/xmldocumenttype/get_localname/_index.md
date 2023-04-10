@@ -22,7 +22,7 @@ For DocumentType nodes, this method returns the name of the document type.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDocumentType](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDocumentType](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

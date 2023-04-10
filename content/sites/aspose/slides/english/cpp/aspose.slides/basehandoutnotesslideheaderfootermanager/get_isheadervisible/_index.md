@@ -17,6 +17,6 @@ bool Aspose::Slides::BaseHandoutNotesSlideHeaderFooterManager::get_IsHeaderVisib
 
 ## See Also
 
-* Class [BaseHandoutNotesSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseHandoutNotesSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

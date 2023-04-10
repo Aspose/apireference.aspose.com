@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/system/timezoneinfo/isinvalidtime/
 ---
-## TimeZoneInfo::IsInvalidTime([DateTime](../../datetime/)) const method
+## TimeZoneInfo::IsInvalidTime(DateTime) const method
 
 
 Checks if specified date and time is invalid.
@@ -28,7 +28,7 @@ True is date_time is invalid.
 
 ## See Also
 
-* Class [DateTime](../../datetime/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../datetime/)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

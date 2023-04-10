@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.slides.charts/chart/set_showdatalabelsovermaximum/
 ---
-## Chart::set_ShowDataLabelsOverMaximum(**bool**) method
+## Chart::set_ShowDataLabelsOverMaximum(bool) method
 
 
 Specifies data labels over the maximum of the chart shall be shown. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Chart::set_ShowDataLabelsOverMaximum(bool value) ov
 
 ## See Also
 
-* Class [Chart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Chart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

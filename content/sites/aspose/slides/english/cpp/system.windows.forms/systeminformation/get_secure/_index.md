@@ -18,6 +18,6 @@ static bool System::Windows::Forms::SystemInformation::get_Secure()
 
 ## See Also
 
-* Struct [SystemInformation](../)
-* Namespace [System::Windows::Forms](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [SystemInformation](./)
+* Namespace [System::Windows::Forms](../)
+* Library [Aspose.Slides](../../)

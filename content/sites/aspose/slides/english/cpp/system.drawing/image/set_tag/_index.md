@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.drawing/image/set_tag/
 ---
-## Image::set_Tag(const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## Image::set_Tag(const System::SharedPtr\<System::Object\>) method
 
 
 Sets an object that provides additional data about the image.
@@ -17,8 +17,8 @@ virtual void System::Drawing::Image::set_Tag(const System::SharedPtr<System::Obj
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

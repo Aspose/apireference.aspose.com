@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.vba/vbaproject/get_reference/
 ---
-## VbaProject::get_Reference(**int32_t**) method
+## VbaProject::get_Reference(int32_t) method
 
 
 Returns the reference contained in the VBA project at the specified index.
@@ -17,8 +17,8 @@ System::SharedPtr<IVbaReference> Aspose::Slides::Vba::VbaProject::get_Reference(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaReference](../../ivbareference/)
-* Class [VbaProject](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaReference](../ivbareference/)
+* Class [VbaProject](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

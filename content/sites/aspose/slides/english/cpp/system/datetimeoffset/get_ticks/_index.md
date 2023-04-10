@@ -17,6 +17,6 @@ int64_t System::DateTimeOffset::get_Ticks() const
 
 ## See Also
 
-* Class [DateTimeOffset](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTimeOffset](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

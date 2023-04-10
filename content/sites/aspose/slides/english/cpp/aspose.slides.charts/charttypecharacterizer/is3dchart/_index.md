@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/charttypecharacterizer/is3dchart/
 ---
-## ChartTypeCharacterizer::Is3DChart([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::Is3DChart(ChartType) method
 
 
 Return true if *chartType*  is one of 3D chart types.
@@ -17,7 +17,7 @@ static bool Aspose::Slides::Charts::ChartTypeCharacterizer::Is3DChart(ChartType 
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

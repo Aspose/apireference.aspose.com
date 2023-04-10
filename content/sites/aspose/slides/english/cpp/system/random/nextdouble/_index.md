@@ -17,6 +17,6 @@ virtual double System::Random::NextDouble()
 
 ## See Also
 
-* Class [Random](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Random](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

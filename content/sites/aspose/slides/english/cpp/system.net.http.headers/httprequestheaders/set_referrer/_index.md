@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.net.http.headers/httprequestheaders/set_referrer/
 ---
-## HttpRequestHeaders::set_Referrer([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
+## HttpRequestHeaders::set_Referrer(System::SharedPtr\<Uri\>) method
 
 
 Sets a value of the 'Referer' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_Referrer(System::Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

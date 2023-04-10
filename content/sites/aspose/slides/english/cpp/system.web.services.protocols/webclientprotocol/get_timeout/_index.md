@@ -22,6 +22,6 @@ The timespan to wait before the request times out.
 
 ## See Also
 
-* Class [WebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

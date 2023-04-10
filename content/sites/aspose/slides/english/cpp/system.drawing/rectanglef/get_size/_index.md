@@ -17,7 +17,7 @@ SizeF System::Drawing::RectangleF::get_Size() const
 
 ## See Also
 
-* Class [SizeF](../../sizef/)
-* Class [RectangleF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SizeF](../sizef/)
+* Class [RectangleF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

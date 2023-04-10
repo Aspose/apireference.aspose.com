@@ -22,8 +22,8 @@ The endpoint address.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPAddress](../../ipaddress/)
-* Class [IPEndPoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPAddress](../ipaddress/)
+* Class [IPEndPoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -24,7 +24,7 @@ If parent of this [DataLabelFormat](../../datalabelformat/) object is a [DataLab
 
 ## See Also
 
-* Enum [LegendDataLabelPosition](../../legenddatalabelposition/)
-* Class [IDataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LegendDataLabelPosition](../legenddatalabelposition/)
+* Class [IDataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

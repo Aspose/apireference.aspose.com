@@ -17,7 +17,7 @@ Aspose::Slides::SystemColor Aspose::Slides::ColorFormat::get_SystemColor() overr
 
 ## See Also
 
-* Enum [SystemColor](../../systemcolor/)
-* Class [ColorFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SystemColor](../systemcolor/)
+* Class [ColorFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

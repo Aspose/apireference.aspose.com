@@ -17,7 +17,7 @@ virtual Imaging::PixelFormat System::Drawing::Imaging::Metafile::get_PixelFormat
 
 ## See Also
 
-* Enum [PixelFormat](../../pixelformat/)
-* Class [Metafile](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PixelFormat](../pixelformat/)
+* Class [Metafile](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

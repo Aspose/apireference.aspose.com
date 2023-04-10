@@ -17,8 +17,8 @@ virtual System::SharedPtr<IBulletFormat> Aspose::Slides::IParagraphFormat::get_B
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBulletFormat](../../ibulletformat/)
-* Class [IParagraphFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBulletFormat](../ibulletformat/)
+* Class [IParagraphFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

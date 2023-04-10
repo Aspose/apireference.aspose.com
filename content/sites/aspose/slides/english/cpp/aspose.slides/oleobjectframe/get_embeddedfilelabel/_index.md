@@ -17,7 +17,7 @@ System::String Aspose::Slides::OleObjectFrame::get_EmbeddedFileLabel() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [OleObjectFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [OleObjectFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

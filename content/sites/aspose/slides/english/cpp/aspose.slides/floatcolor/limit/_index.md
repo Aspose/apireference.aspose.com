@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/floatcolor/limit/
 ---
-## FloatColor::limit(**float**, **float**, **float**) method
+## FloatColor::limit(float, float, float) method
 
 
 
@@ -17,6 +17,6 @@ static float Aspose::Slides::FloatColor::limit(float value, float min, float max
 
 ## See Also
 
-* Class [FloatColor](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FloatColor](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

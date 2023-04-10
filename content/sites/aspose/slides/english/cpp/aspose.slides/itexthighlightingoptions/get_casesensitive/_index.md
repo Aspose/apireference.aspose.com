@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ITextHighlightingOptions::get_CaseSensitive()=0
 
 ## See Also
 
-* Class [ITextHighlightingOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITextHighlightingOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

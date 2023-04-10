@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing.imaging/imageattributes/clearcolorkey/
 ---
-## ImageAttributes::ClearColorKey([ColorAdjustType](../../coloradjusttype/)) method
+## ImageAttributes::ClearColorKey(ColorAdjustType) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ void System::Drawing::Imaging::ImageAttributes::ClearColorKey(ColorAdjustType ty
 
 ## See Also
 
-* Enum [ColorAdjustType](../../coloradjusttype/)
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorAdjustType](../coloradjusttype/)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemadocumentation/set_markup/
 ---
-## XmlSchemaDocumentation::set_Markup(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../../system.xml/xmlnode/)\>\>\&) method
+## XmlSchemaDocumentation::set_Markup(const ArrayPtr\<SharedPtr\<XmlNode\>\>\&) method
 
 
 Sets an array of [XmlNode](../../../system.xml/xmlnode/) objects that represents the documentation child nodes.
@@ -24,9 +24,9 @@ void System::Xml::Schema::XmlSchemaDocumentation::set_Markup(const ArrayPtr<Shar
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../../system.xml/xmlnode/)
-* Class [XmlSchemaDocumentation](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../../system.xml/xmlnode/)
+* Class [XmlSchemaDocumentation](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

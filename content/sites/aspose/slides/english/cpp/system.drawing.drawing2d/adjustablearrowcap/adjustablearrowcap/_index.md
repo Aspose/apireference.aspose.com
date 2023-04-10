@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.drawing.drawing2d/adjustablearrowcap/adjustablearrowcap/
 ---
-## AdjustableArrowCap::AdjustableArrowCap(**float**, **float**, **bool**) constructor
+## AdjustableArrowCap::AdjustableArrowCap(float, float, bool) constructor
 
 
 Constructs a new instance of [AdjustableArrowCap](../) with the specified width and height.
@@ -26,6 +26,6 @@ System::Drawing::Drawing2D::AdjustableArrowCap::AdjustableArrowCap(float width, 
 
 ## See Also
 
-* Class [AdjustableArrowCap](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AdjustableArrowCap](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

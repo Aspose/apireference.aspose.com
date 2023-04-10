@@ -22,6 +22,6 @@ A value that indicates if the proxy server must be used for local addresses.
 
 ## See Also
 
-* Class [WebProxy](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebProxy](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

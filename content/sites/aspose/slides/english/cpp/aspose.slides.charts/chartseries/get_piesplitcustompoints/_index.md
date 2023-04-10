@@ -21,8 +21,8 @@ System::SharedPtr<IPieSplitCustomPointCollection> Aspose::Slides::Charts::ChartS
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->[get_PieSplitCustomPoints()](./). 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPieSplitCustomPointCollection](../../ipiesplitcustompointcollection/)
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPieSplitCustomPointCollection](../ipiesplitcustompointcollection/)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

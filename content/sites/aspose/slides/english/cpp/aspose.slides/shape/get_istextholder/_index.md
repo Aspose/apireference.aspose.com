@@ -17,6 +17,6 @@ bool Aspose::Slides::Shape::get_IsTextHolder() override
 
 ## See Also
 
-* Class [Shape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Shape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

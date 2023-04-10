@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides.charts/chartseriesgroup/set_bubblesizerepresentation/
 ---
-## ChartSeriesGroup::set_BubbleSizeRepresentation([BubbleSizeRepresentationType](../../bubblesizerepresentationtype/)) method
+## ChartSeriesGroup::set_BubbleSizeRepresentation(BubbleSizeRepresentationType) method
 
 
 Specifies how the bubble size values are represented on the bubble chart. Write [BubbleSizeRepresentationType](../../bubblesizerepresentationtype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartSeriesGroup::set_BubbleSizeRepresentation(Bubb
 
 ## See Also
 
-* Enum [BubbleSizeRepresentationType](../../bubblesizerepresentationtype/)
-* Class [ChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [BubbleSizeRepresentationType](../bubblesizerepresentationtype/)
+* Class [ChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ One of the enumeration values that describes the node change event. The **Action
 
 ## See Also
 
-* Enum [XmlNodeChangedAction](../../xmlnodechangedaction/)
-* Class [XmlNodeChangedEventArgs](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlNodeChangedAction](../xmlnodechangedaction/)
+* Class [XmlNodeChangedEventArgs](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

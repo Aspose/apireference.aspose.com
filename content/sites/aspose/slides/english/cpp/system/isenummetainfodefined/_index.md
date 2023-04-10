@@ -15,10 +15,6 @@ url: /cpp/system/isenummetainfodefined/
 template<class T> static bool System::IsEnumMetaInfoDefined(T value)
 ```
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::IsEnumMetaInfoDefined(T) function
 
 
@@ -30,5 +26,5 @@ template<class T> static bool System::IsEnumMetaInfoDefined(T value)
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

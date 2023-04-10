@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/basescript/
 Math script
 
 ```cpp
-class BaseScript : public Aspose::Slides::MathText::MathElementBase,
-                   public Aspose::Slides::MathText::IHasControlCharacterProperties
+class BaseScript : public Aspose::Slides::MathText::MathElementBase,                   public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

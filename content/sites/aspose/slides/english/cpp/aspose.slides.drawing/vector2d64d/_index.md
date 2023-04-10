@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.drawing/vector2d64d/
 2D vector with **double** components
 
 ```cpp
-class Vector2d64d : public System::Object,
-                    public System::Details::BoxableObjectBase
+class Vector2d64d : public System::Object,                    public System::Details::BoxableObjectBase
 ```
 
 ## Methods

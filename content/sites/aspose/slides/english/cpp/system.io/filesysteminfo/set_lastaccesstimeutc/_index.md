@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.io/filesysteminfo/set_lastaccesstimeutc/
 ---
-## FileSystemInfo::set_LastAccessTimeUtc([DateTime](../../../system/datetime/)) method
+## FileSystemInfo::set_LastAccessTimeUtc(DateTime) method
 
 
 Sets the last access time of the entity represented by the current object as UTC time.
@@ -24,7 +24,7 @@ void System::IO::FileSystemInfo::set_LastAccessTimeUtc(DateTime value)
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [FileSystemInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [FileSystemInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

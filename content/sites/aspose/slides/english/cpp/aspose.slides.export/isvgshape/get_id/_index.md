@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Export::ISvgShape::get_Id()=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ISvgShape](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ISvgShape](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

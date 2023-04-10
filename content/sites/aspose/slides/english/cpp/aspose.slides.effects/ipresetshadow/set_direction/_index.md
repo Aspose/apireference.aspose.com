@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/ipresetshadow/set_direction/
 ---
-## IPresetShadow::set_Direction(**float**) method
+## IPresetShadow::set_Direction(float) method
 
 
 Direction of shadow. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IPresetShadow::set_Direction(float value)=
 
 ## See Also
 
-* Class [IPresetShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPresetShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

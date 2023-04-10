@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.io/directory/createdirectory_/
 ---
-## Directory::CreateDirectory_(const [String](../../../system/string/)\&) method
+## Directory::CreateDirectory_(const String\&) method
 
 
 Creates all directories in the specified path if those don't exist.
@@ -24,7 +24,7 @@ static void System::IO::Directory::CreateDirectory_(const String &path)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Directory](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Directory](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

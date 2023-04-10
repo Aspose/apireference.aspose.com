@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.io/path/toboost/
 ---
-## Path::ToBoost(const [String](../../../system/string/)\&) method
+## Path::ToBoost(const String\&) method
 
 
 Returns an instance of boost::filesystem::path class that represents the specified path.
@@ -28,7 +28,7 @@ a new instance of boost::filesystem::path class that represents **path**
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Path](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Path](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

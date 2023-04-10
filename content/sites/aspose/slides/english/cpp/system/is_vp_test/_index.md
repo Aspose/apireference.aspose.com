@@ -17,5 +17,5 @@ bool System::is_vp_test(const ::testing::TestInfo *test_info)
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

@@ -17,6 +17,6 @@ bool Aspose::Slides::Effects::OuterShadow::get_RotateShadowWithShape() override
 
 ## See Also
 
-* Class [OuterShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [OuterShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

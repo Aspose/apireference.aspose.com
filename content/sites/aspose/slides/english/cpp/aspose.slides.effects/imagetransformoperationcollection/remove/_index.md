@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.slides.effects/imagetransformoperationcollection/remove/
 ---
-## ImageTransformOperationCollection::Remove(const [System::SharedPtr](../../../system/sharedptr/)\<[IImageTransformOperation](../../iimagetransformoperation/)\>\&) method
+## ImageTransformOperationCollection::Remove(const System::SharedPtr\<IImageTransformOperation\>\&) method
 
 
 Removes the first occurrence of a specific object from the [ICollection](../../../system.collections.generic/icollection/).
@@ -28,8 +28,8 @@ true if *item*  was successfully removed from the [ICollection](../../../system.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IImageTransformOperation](../../iimagetransformoperation/)
-* Class [ImageTransformOperationCollection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IImageTransformOperation](../iimagetransformoperation/)
+* Class [ImageTransformOperationCollection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

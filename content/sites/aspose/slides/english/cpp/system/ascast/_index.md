@@ -33,10 +33,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -64,10 +60,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -95,11 +87,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result. Returns nullptr if no conversion available.
 
-## See Also
-
-* Typedef [Exception](../exception/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -127,10 +114,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result. Returns nullptr if no conversion available.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -158,11 +141,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result. Returns nullptr if no conversion available.
 
-## See Also
-
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -190,10 +168,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result. Returns nullptr if no conversion available.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -221,10 +195,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result. Returns empty nullable if no conversion available.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -252,10 +222,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -283,11 +249,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -315,10 +276,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -346,11 +303,6 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 
 The cast result.
 
-## See Also
-
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::AsCast(const Source\&) function
 
 
@@ -380,6 +332,7 @@ The cast result. Returns nullptr if no conversion for any array member is availa
 
 ## See Also
 
-* Struct [CastResult](../castresult/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Typedef [Exception](./exception/)
+* Struct [CastResult](./castresult/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

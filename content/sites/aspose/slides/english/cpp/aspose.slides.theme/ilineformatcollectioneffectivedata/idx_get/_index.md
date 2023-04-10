@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/ilineformatcollectioneffectivedata/idx_get/
 ---
-## ILineFormatCollectionEffectiveData::idx_get(**int32_t**) method
+## ILineFormatCollectionEffectiveData::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [ILineFormatEffectiveData](../../../aspose.slides/ilineformateffectivedata/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILineFormatEffectiveData> Aspose::Slides::Theme::ILine
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILineFormatEffectiveData](../../../aspose.slides/ilineformateffectivedata/)
-* Class [ILineFormatCollectionEffectiveData](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILineFormatEffectiveData](../../aspose.slides/ilineformateffectivedata/)
+* Class [ILineFormatCollectionEffectiveData](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

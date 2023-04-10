@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.mathtext/imathelementcollection/remove/
 ---
-## IMathElementCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
+## IMathElementCollection::Remove(System::SharedPtr\<IMathElement\>) method
 
 
 Removes the first occurrence of a specific object from the collection.
@@ -40,8 +40,8 @@ collection->Remove(plusElement);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathElement](../../imathelement/)
-* Class [IMathElementCollection](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathElement](../imathelement/)
+* Class [IMathElementCollection](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

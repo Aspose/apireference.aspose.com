@@ -17,8 +17,8 @@ System::SharedPtr<IPatternFormat> Aspose::Slides::LineFillFormat::get_PatternFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPatternFormat](../../ipatternformat/)
-* Class [LineFillFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPatternFormat](../ipatternformat/)
+* Class [LineFillFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -12,9 +12,7 @@ url: /cpp/aspose.slides/baseslide/
 Represents common data for all slide types.
 
 ```cpp
-class BaseSlide : public virtual Aspose::Slides::IBaseSlide,
-                  public Aspose::Slides::IDOMObject,
-                  public Aspose::Slides::IStyleColorOwner
+class BaseSlide : public virtual Aspose::Slides::IBaseSlide,                  public Aspose::Slides::IDOMObject,                  public Aspose::Slides::IStyleColorOwner
 ```
 
 ## Methods

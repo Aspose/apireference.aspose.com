@@ -17,7 +17,7 @@ Guid System::Drawing::Imaging::Encoder::get_Guid() const
 
 ## See Also
 
-* Class [Guid](../../../system/guid/)
-* Class [Encoder](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Guid](../../system/guid/)
+* Class [Encoder](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

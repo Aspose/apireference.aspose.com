@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml/xmlentityreference/set_value/
 ---
-## XmlEntityReference::set_Value([String](../../../system/string/)) method
+## XmlEntityReference::set_Value(String) method
 
 
 Sets the value of the node.
@@ -24,7 +24,7 @@ void System::Xml::XmlEntityReference::set_Value(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlEntityReference](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlEntityReference](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

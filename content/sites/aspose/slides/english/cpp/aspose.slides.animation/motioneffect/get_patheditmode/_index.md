@@ -17,7 +17,7 @@ MotionPathEditMode Aspose::Slides::Animation::MotionEffect::get_PathEditMode() o
 
 ## See Also
 
-* Enum [MotionPathEditMode](../../motionpatheditmode/)
-* Class [MotionEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MotionPathEditMode](../motionpatheditmode/)
+* Class [MotionEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

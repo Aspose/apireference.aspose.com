@@ -22,6 +22,6 @@ A value that indicates an amount of time after which data sending will time out.
 
 ## See Also
 
-* Class [TcpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpClient](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

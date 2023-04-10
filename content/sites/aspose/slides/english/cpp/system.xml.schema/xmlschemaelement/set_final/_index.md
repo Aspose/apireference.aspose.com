@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemaelement/set_final/
 ---
-## XmlSchemaElement::set_Final([XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)) method
+## XmlSchemaElement::set_Final(XmlSchemaDerivationMethod) method
 
 
 Sets the **Final** value to indicate that no further derivations are allowed.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaElement::set_Final(XmlSchemaDerivationMethod 
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
-* Class [XmlSchemaElement](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
+* Class [XmlSchemaElement](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

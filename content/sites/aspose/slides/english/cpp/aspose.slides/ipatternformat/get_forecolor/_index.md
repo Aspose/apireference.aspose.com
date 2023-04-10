@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColorFormat> Aspose::Slides::IPatternFormat::get_Fore
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorFormat](../../icolorformat/)
-* Class [IPatternFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorFormat](../icolorformat/)
+* Class [IPatternFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.drawing.imaging/imageattributes/setthreshold/
 ---
-## ImageAttributes::SetThreshold(**float**, [ColorAdjustType](../../coloradjusttype/)) method
+## ImageAttributes::SetThreshold(float, ColorAdjustType) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ void System::Drawing::Imaging::ImageAttributes::SetThreshold(float threshold, Co
 
 ## See Also
 
-* Enum [ColorAdjustType](../../coloradjusttype/)
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorAdjustType](../coloradjusttype/)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

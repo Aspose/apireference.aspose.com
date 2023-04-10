@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing/fontfamily/isstyleavailable/
 ---
-## FontFamily::IsStyleAvailable([FontStyle](../../fontstyle/)) method
+## FontFamily::IsStyleAvailable(FontStyle) method
 
 
 Determines if the specified font style is available.
@@ -28,7 +28,7 @@ True if the specified font style is avaliable, otherwise - false
 
 ## See Also
 
-* Enum [FontStyle](../../fontstyle/)
-* Class [FontFamily](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FontStyle](../fontstyle/)
+* Class [FontFamily](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

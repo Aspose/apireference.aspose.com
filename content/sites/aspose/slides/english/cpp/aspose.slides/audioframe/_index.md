@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/audioframe/
 Represents an audio clip on a slide.
 
 ```cpp
-class AudioFrame : public Aspose::Slides::PictureFrame,
-                   public Aspose::Slides::IAudioFrame
+class AudioFrame : public Aspose::Slides::PictureFrame,                   public Aspose::Slides::IAudioFrame
 ```
 
 ## Methods

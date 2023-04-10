@@ -28,6 +28,6 @@ A 64-bit integer representing the number of elements in specified dimension
 
 ## See Also
 
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

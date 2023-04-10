@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.io/textreader/readblock/
 ---
-## TextReader::ReadBlock([ArrayPtr](../../../system/arrayptr/)\<char_t\>, int, int) method
+## TextReader::ReadBlock(ArrayPtr\<char_t\>, int, int) method
 
 
 Reads the specified maximum number of characters from the current text reader and writes the data to a buffer, starting at the specified index.
@@ -30,7 +30,7 @@ The actual number of characters read
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [TextReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [TextReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

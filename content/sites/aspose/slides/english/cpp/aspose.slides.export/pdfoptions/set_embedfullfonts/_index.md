@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides.export/pdfoptions/set_embedfullfonts/
 ---
-## PdfOptions::set_EmbedFullFonts(**bool**) method
+## PdfOptions::set_EmbedFullFonts(bool) method
 
 
 Determines if all characters of font should be embedded or only used subset. Write **bool**.
@@ -21,6 +21,6 @@ void Aspose::Slides::Export::PdfOptions::set_EmbedFullFonts(bool value) override
 Default is **false**. 
 ## See Also
 
-* Class [PdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

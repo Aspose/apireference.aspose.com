@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.globalization/stringinfo/parsecombiningcharacters/
 ---
-## StringInfo::ParseCombiningCharacters(const [String](../../../system/string/)\&) method
+## StringInfo::ParseCombiningCharacters(const String\&) method
 
 
 Gets indexes of the base characters, high surrogates and control characters.
@@ -28,8 +28,8 @@ static ArrayPtr<int> System::Globalization::StringInfo::ParseCombiningCharacters
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [StringInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [StringInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

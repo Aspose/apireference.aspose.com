@@ -22,7 +22,7 @@ One of the NewLineHandling values. The default is [NewLineHandling::Replace](../
 
 ## See Also
 
-* Enum [NewLineHandling](../../newlinehandling/)
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NewLineHandling](../newlinehandling/)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

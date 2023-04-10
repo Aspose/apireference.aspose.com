@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml/xmlcharacterdata/set_data/
 ---
-## XmlCharacterData::set_Data([String](../../../system/string/)) method
+## XmlCharacterData::set_Data(String) method
 
 
 Sets the data of the node.
@@ -24,7 +24,7 @@ virtual void System::Xml::XmlCharacterData::set_Data(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlCharacterData](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlCharacterData](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

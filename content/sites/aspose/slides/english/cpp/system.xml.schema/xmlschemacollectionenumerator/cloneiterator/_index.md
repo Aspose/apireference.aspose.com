@@ -22,8 +22,8 @@ Copy of the current iterator.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchema](../../xmlschema/)
-* Class [XmlSchemaCollectionEnumerator](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchema](../xmlschema/)
+* Class [XmlSchemaCollectionEnumerator](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

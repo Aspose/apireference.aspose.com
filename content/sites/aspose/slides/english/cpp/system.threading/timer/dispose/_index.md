@@ -17,6 +17,6 @@ void System::Threading::Timer::Dispose()
 
 ## See Also
 
-* Class [Timer](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Timer](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ static void System::Diagnostics::Debugger::Break()
 
 ## See Also
 
-* Struct [Debugger](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Debugger](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

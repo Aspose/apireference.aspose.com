@@ -22,7 +22,7 @@ The qualified name of the attribute node.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlAttribute](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlAttribute](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

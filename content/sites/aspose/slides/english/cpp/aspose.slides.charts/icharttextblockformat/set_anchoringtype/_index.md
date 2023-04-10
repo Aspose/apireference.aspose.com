@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/icharttextblockformat/set_anchoringtype/
 ---
-## IChartTextBlockFormat::set_AnchoringType([TextAnchorType](../../../aspose.slides/textanchortype/)) method
+## IChartTextBlockFormat::set_AnchoringType(TextAnchorType) method
 
 
 Sets vertical anchor text in a [TextFrame](../../../aspose.slides/textframe/). Write [TextAnchorType](../../../aspose.slides/textanchortype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartTextBlockFormat::set_AnchoringType(Te
 
 ## See Also
 
-* Enum [TextAnchorType](../../../aspose.slides/textanchortype/)
-* Class [IChartTextBlockFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextAnchorType](../../aspose.slides/textanchortype/)
+* Class [IChartTextBlockFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

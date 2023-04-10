@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net.http/httpmessageinvoker/send/
 ---
-## HttpMessageInvoker::Send([System::SharedPtr](../../../system/sharedptr/)\<[HttpRequestMessage](../../httprequestmessage/)\>) method
+## HttpMessageInvoker::Send(System::SharedPtr\<HttpRequestMessage\>) method
 
 
 Sends the specified request.
@@ -28,9 +28,9 @@ The HTTP response message.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpResponseMessage](../../httpresponsemessage/)
-* Class [HttpRequestMessage](../../httprequestmessage/)
-* Class [HttpMessageInvoker](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpResponseMessage](../httpresponsemessage/)
+* Class [HttpRequestMessage](../httprequestmessage/)
+* Class [HttpMessageInvoker](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

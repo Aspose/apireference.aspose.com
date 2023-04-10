@@ -12,8 +12,7 @@ url: /cpp/system.io/basicstdiostreamwrapper/
 Represents a [System.IO.Stream](../stream/)-like wrapper for std::basic_iostream and its derived objects. Objects of this class should only be allocated using [System::MakeObject()](../../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../../system/smartptr/) pointer and use this pointer to pass it to functions as argument.
 
 ```cpp
-template<typename T,typename>class BasicSTDIOStreamWrapper : public System::IO::BasicSTDIStreamWrapper<T>,
-                                                             public System::IO::BasicSTDOStreamWrapper<T>
+template<typename T,typename>class BasicSTDIOStreamWrapper : public System::IO::BasicSTDIStreamWrapper<T>,                                                             public System::IO::BasicSTDOStreamWrapper<T>
 ```
 
 ## Methods

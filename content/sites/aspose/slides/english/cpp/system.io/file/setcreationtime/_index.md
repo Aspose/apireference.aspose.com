@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.io/file/setcreationtime/
 ---
-## File::SetCreationTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## File::SetCreationTime(const String\&, DateTime) method
 
 
 NOT IMPLEMENTED.
@@ -18,8 +18,8 @@ static void System::IO::File::SetCreationTime(const String &path, DateTime creat
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

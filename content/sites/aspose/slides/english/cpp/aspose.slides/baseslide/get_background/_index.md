@@ -17,8 +17,8 @@ System::SharedPtr<IBackground> Aspose::Slides::BaseSlide::get_Background() overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBackground](../../ibackground/)
-* Class [BaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBackground](../ibackground/)
+* Class [BaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ A delay timeout in seconds.
 
 ## See Also
 
-* Class [LingerOption](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LingerOption](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

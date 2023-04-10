@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.drawing.imaging/imageattributes/clearremaptable/
 ---
-## ImageAttributes::ClearRemapTable([ColorAdjustType](../../coloradjusttype/)) method
+## ImageAttributes::ClearRemapTable(ColorAdjustType) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ void System::Drawing::Imaging::ImageAttributes::ClearRemapTable(ColorAdjustType 
 
 ## See Also
 
-* Enum [ColorAdjustType](../../coloradjusttype/)
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorAdjustType](../coloradjusttype/)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

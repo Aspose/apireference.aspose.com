@@ -39,8 +39,8 @@ auto delimiterElement = mathBlock->Enclose(u'{', u'}', u'%');
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathDelimiter](../../imathdelimiter/)
-* Class [IMathBlock](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathDelimiter](../imathdelimiter/)
+* Class [IMathBlock](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The host attached to the warning.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WarningHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WarningHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

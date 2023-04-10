@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IConnectorLock::get_RotateLocked()=0
 
 ## See Also
 
-* Class [IConnectorLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IConnectorLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

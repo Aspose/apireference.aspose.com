@@ -22,8 +22,8 @@ The value of the **ParentNode** before the operation began. This method returns 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlNodeChangedEventArgs](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlNodeChangedEventArgs](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

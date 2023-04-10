@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.io/directory/setlastaccesstime/
 ---
-## Directory::SetLastAccessTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## Directory::SetLastAccessTime(const String\&, DateTime) method
 
 
 Sets the last access time of the specified entity as local time.
@@ -25,8 +25,8 @@ static void System::IO::Directory::SetLastAccessTime(const String &path, DateTim
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [Directory](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [Directory](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

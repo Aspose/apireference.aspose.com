@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system/convert/gettypecode/
 ---
-## Convert::GetTypeCode(const [SharedPtr](../../sharedptr/)\<[Object](../../object/)\>\&) method
+## Convert::GetTypeCode(const SharedPtr\<Object\>\&) method
 
 
 Returns a TypeCode value representing the type of the specified boxed value.
@@ -28,9 +28,9 @@ The value representing the type of the boxed value
 
 ## See Also
 
-* Enum [TypeCode](../../typecode/)
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
-* Struct [Convert](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TypeCode](../typecode/)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Object](../object/)
+* Struct [Convert](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::Chart::get_ShowDataLabelsOverMaximum() override
 
 ## See Also
 
-* Class [Chart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Chart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

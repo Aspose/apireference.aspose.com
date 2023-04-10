@@ -34,7 +34,7 @@ Pointer to cloned object.
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Class [Object](../object/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Class [Object](./object/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

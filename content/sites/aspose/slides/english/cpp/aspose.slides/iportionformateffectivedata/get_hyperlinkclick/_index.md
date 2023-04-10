@@ -17,8 +17,8 @@ virtual System::SharedPtr<IHyperlink> Aspose::Slides::IPortionFormatEffectiveDat
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHyperlink](../../ihyperlink/)
-* Class [IPortionFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHyperlink](../ihyperlink/)
+* Class [IPortionFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

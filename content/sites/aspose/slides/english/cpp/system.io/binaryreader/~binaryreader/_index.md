@@ -17,6 +17,6 @@ virtual System::IO::BinaryReader::~BinaryReader()
 
 ## See Also
 
-* Class [BinaryReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BinaryReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

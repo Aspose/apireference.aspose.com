@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/tagcollection/contains/
 ---
-## TagCollection::Contains([System::String](../../../system/string/)) method
+## TagCollection::Contains(System::String) method
 
 
 Determines whether the collection contains a specific name.
@@ -28,7 +28,7 @@ True if the collection contains an tag with the specified key; otherwise, false.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [TagCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [TagCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

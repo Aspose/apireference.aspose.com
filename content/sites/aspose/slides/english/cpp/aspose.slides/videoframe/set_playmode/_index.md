@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/videoframe/set_playmode/
 ---
-## VideoFrame::set_PlayMode([VideoPlayModePreset](../../videoplaymodepreset/)) method
+## VideoFrame::set_PlayMode(VideoPlayModePreset) method
 
 
 Sets the video play mode. Write [VideoPlayModePreset](../../videoplaymodepreset/).
@@ -17,7 +17,7 @@ void Aspose::Slides::VideoFrame::set_PlayMode(VideoPlayModePreset value) overrid
 
 ## See Also
 
-* Enum [VideoPlayModePreset](../../videoplaymodepreset/)
-* Class [VideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [VideoPlayModePreset](../videoplaymodepreset/)
+* Class [VideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

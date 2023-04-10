@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/ishapebevel/set_height/
 ---
-## IShapeBevel::set_Height(**double**) method
+## IShapeBevel::set_Height(double) method
 
 
 Bevel height. Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IShapeBevel::set_Height(double value)=0
 
 ## See Also
 
-* Class [IShapeBevel](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IShapeBevel](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

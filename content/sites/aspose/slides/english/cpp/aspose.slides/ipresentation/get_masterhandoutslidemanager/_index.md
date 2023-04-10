@@ -17,8 +17,8 @@ virtual System::SharedPtr<IMasterHandoutSlideManager> Aspose::Slides::IPresentat
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterHandoutSlideManager](../../imasterhandoutslidemanager/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterHandoutSlideManager](../imasterhandoutslidemanager/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

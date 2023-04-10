@@ -22,7 +22,7 @@ The time in the UTC format when resources stored in the cache must be revalidate
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [HttpRequestCachePolicy](../)
-* Namespace [System::Net::Cache](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [HttpRequestCachePolicy](./)
+* Namespace [System::Net::Cache](../)
+* Library [Aspose.Slides](../../)

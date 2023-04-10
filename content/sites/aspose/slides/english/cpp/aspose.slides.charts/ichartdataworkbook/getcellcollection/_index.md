@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/ichartdataworkbook/getcellcollection/
 ---
-## IChartDataWorkbook::GetCellCollection([System::String](../../../system/string/), **bool**) method
+## IChartDataWorkbook::GetCellCollection(System::String, bool) method
 
 
 Gets the set of cells.
@@ -29,9 +29,9 @@ Set of cells [IChartCellCollection](../../ichartcellcollection/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartCellCollection](../../ichartcellcollection/)
-* Class [String](../../../system/string/)
-* Class [IChartDataWorkbook](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartCellCollection](../ichartcellcollection/)
+* Class [String](../../system/string/)
+* Class [IChartDataWorkbook](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

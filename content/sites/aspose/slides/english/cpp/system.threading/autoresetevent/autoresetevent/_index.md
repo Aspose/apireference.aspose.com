@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.threading/autoresetevent/autoresetevent/
 ---
-## AutoResetEvent::AutoResetEvent(**bool**) constructor
+## AutoResetEvent::AutoResetEvent(bool) constructor
 
 
 Constructor.
@@ -24,6 +24,6 @@ System::Threading::AutoResetEvent::AutoResetEvent(bool initialState)
 
 ## See Also
 
-* Class [AutoResetEvent](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AutoResetEvent](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

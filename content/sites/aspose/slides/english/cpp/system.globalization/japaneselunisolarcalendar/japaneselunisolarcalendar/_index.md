@@ -17,6 +17,6 @@ System::Globalization::JapaneseLunisolarCalendar::JapaneseLunisolarCalendar()
 
 ## See Also
 
-* Class [JapaneseLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [JapaneseLunisolarCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

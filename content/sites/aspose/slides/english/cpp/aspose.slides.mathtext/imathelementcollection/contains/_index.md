@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.mathtext/imathelementcollection/contains/
 ---
-## IMathElementCollection::Contains([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
+## IMathElementCollection::Contains(System::SharedPtr\<IMathElement\>) method
 
 
 Determines whether the collection contains a specific value.
@@ -40,8 +40,8 @@ bool contains = collection->Contains(plusElement);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathElement](../../imathelement/)
-* Class [IMathElementCollection](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathElement](../imathelement/)
+* Class [IMathElementCollection](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

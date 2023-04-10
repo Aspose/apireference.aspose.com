@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/itable/set_horizontalbanding/
 ---
-## ITable::set_HorizontalBanding(**bool**) method
+## ITable::set_HorizontalBanding(bool) method
 
 
 Determines whether the even rows has to be drawn with a different formatting. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITable::set_HorizontalBanding(bool value)=0
 
 ## See Also
 
-* Class [ITable](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITable](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

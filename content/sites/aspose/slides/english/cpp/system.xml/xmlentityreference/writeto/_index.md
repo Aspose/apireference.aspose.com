@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.xml/xmlentityreference/writeto/
 ---
-## XmlEntityReference::WriteTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
+## XmlEntityReference::WriteTo(const SharedPtr\<XmlWriter\>\&) method
 
 
 Saves the node to the specified [XmlWriter](../../xmlwriter/).
@@ -24,8 +24,8 @@ void System::Xml::XmlEntityReference::WriteTo(const SharedPtr<XmlWriter> &w) ove
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../xmlwriter/)
-* Class [XmlEntityReference](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../xmlwriter/)
+* Class [XmlEntityReference](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

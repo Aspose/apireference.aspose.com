@@ -22,7 +22,7 @@ True when the the 'Transfer-Encoding' header value contains 'Chunked', otherwise
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

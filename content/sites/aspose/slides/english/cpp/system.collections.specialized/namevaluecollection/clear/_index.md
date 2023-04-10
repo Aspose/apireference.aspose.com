@@ -17,6 +17,6 @@ void System::Collections::Specialized::NameValueCollection::Clear() override
 
 ## See Also
 
-* Class [NameValueCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NameValueCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

@@ -15,12 +15,7 @@ Initializes a new instance of the [XsltSettings](../) class with default setting
 System::Xml::Xsl::XsltSettings::XsltSettings()
 ```
 
-## See Also
-
-* Class [XsltSettings](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
-## XsltSettings::XsltSettings(**bool**, **bool**) constructor
+## XsltSettings::XsltSettings(bool, bool) constructor
 
 
 Initializes a new instance of the [XsltSettings](../) class with the specified settings.
@@ -39,6 +34,6 @@ System::Xml::Xsl::XsltSettings::XsltSettings(bool enableDocumentFunction, bool e
 
 ## See Also
 
-* Class [XsltSettings](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XsltSettings](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

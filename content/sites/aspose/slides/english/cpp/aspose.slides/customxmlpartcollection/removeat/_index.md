@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/customxmlpartcollection/removeat/
 ---
-## CustomXmlPartCollection::RemoveAt(**int32_t**) method
+## CustomXmlPartCollection::RemoveAt(int32_t) method
 
 
 Removes custom xml part at the specified index.
@@ -24,6 +24,6 @@ void Aspose::Slides::CustomXmlPartCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [CustomXmlPartCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CustomXmlPartCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

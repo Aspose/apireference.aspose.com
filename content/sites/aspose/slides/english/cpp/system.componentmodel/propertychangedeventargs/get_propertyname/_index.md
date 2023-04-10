@@ -22,7 +22,7 @@ virtual String System::ComponentModel::PropertyChangedEventArgs::get_PropertyNam
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PropertyChangedEventArgs](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PropertyChangedEventArgs](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

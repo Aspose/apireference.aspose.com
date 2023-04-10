@@ -26,6 +26,6 @@ char16_t operatorSymbol = naryOperator->get_Operator();
 
 ## See Also
 
-* Class [MathNaryOperator](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathNaryOperator](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

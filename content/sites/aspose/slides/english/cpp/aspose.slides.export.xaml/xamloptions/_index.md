@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.export.xaml/xamloptions/
 Options that control how a XAML document is saved.
 
 ```cpp
-class XamlOptions : public Aspose::Slides::Export::SaveOptions,
-                    public Aspose::Slides::Export::Xaml::IXamlOptions
+class XamlOptions : public Aspose::Slides::Export::SaveOptions,                    public Aspose::Slides::Export::Xaml::IXamlOptions
 ```
 
 ## Methods

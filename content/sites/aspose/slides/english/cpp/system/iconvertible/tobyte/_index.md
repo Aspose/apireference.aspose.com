@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system/iconvertible/tobyte/
 ---
-## IConvertible::ToByte([System::SharedPtr](../../sharedptr/)\<[System::IFormatProvider](../../iformatprovider/)\>) method
+## IConvertible::ToByte(System::SharedPtr\<System::IFormatProvider\>) method
 
 
 Converts the value of this instance to an equivalent 8-bit uint32_teger using the specified culture-specific formatting information.
@@ -28,8 +28,8 @@ A 8-bit unsigned integer value equivalent to the value of this instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [IFormatProvider](../../iformatprovider/)
-* Class [IConvertible](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [IFormatProvider](../iformatprovider/)
+* Class [IConvertible](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

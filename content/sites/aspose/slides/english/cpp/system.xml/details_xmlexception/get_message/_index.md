@@ -22,7 +22,7 @@ The error message that explains the reason for the exception.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Details_XmlException](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Details_XmlException](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

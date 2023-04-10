@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides.theme/fillformatcollection/settemplateweakptr/
 ---
-## FillFormatCollection::SetTemplateWeakPtr(**uint32_t**) method
+## FillFormatCollection::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::Theme::FillFormatCollection::SetTemplateWeakPtr(uint32_t ar
 
 ## See Also
 
-* Class [FillFormatCollection](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FillFormatCollection](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

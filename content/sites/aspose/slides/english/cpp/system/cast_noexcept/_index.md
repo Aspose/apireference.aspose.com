@@ -6,7 +6,7 @@ type: docs
 weight: 2120
 url: /cpp/system/cast_noexcept/
 ---
-## System::Cast_noexcept([SmartPtr](../smartptr/)\<TFrom\> const\&) function
+## System::Cast_noexcept(SmartPtr\<TFrom\> const\&) function
 
 
 Performs cast on [SmartPtr](../smartptr/) objects.
@@ -35,7 +35,7 @@ Cast result if cast is allowed or nullptr otherwise.
 
 ## See Also
 
-* Struct [IsExceptionWrapper](../isexceptionwrapper/)
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Struct [IsExceptionWrapper](./isexceptionwrapper/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

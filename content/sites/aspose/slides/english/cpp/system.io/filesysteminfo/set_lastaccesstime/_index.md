@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.io/filesysteminfo/set_lastaccesstime/
 ---
-## FileSystemInfo::set_LastAccessTime([DateTime](../../../system/datetime/)) method
+## FileSystemInfo::set_LastAccessTime(DateTime) method
 
 
 Sets the last access time of the entity represented by the current object as local time.
@@ -24,7 +24,7 @@ void System::IO::FileSystemInfo::set_LastAccessTime(DateTime value)
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [FileSystemInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [FileSystemInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ System::Security::Cryptography::SHA512Managed::SHA512Managed()
 
 ## See Also
 
-* Class [SHA512Managed](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SHA512Managed](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

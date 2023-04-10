@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::ChartDataPointLevelsManager::get_Count() overrid
 
 ## See Also
 
-* Class [ChartDataPointLevelsManager](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataPointLevelsManager](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

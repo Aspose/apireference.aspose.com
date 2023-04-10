@@ -28,6 +28,6 @@ True if **element** is found, false otherwise.
 
 ## See Also
 
-* Class [LinkedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LinkedList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

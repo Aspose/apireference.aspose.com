@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.import/htmlexternalresolver/getentity/
 ---
-## HtmlExternalResolver::GetEntity([System::String](../../../system/string/)) method
+## HtmlExternalResolver::GetEntity(System::String) method
 
 
 Maps a URI to an object containing the actual resource.
@@ -28,9 +28,9 @@ A [System::IO::Stream](../../../system.io/stream/) object or null if resource ca
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [String](../../../system/string/)
-* Class [HtmlExternalResolver](../)
-* Namespace [Aspose::Slides::Import](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [String](../../system/string/)
+* Class [HtmlExternalResolver](./)
+* Namespace [Aspose::Slides::Import](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The host name.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IPHostEntry](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IPHostEntry](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

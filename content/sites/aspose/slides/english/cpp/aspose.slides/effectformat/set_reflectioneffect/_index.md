@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides/effectformat/set_reflectioneffect/
 ---
-## EffectFormat::set_ReflectionEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::IReflection](../../../aspose.slides.effects/ireflection/)\>) method
+## EffectFormat::set_ReflectionEffect(System::SharedPtr\<Effects::IReflection\>) method
 
 
 Reflection. Write [Effects::IReflection](../../../aspose.slides.effects/ireflection/).
@@ -17,8 +17,8 @@ void Aspose::Slides::EffectFormat::set_ReflectionEffect(System::SharedPtr<Effect
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IReflection](../../../aspose.slides.effects/ireflection/)
-* Class [EffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IReflection](../../aspose.slides.effects/ireflection/)
+* Class [EffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

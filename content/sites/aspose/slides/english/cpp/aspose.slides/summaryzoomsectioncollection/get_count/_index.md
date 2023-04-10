@@ -17,6 +17,6 @@ int32_t Aspose::Slides::SummaryZoomSectionCollection::get_Count() override
 
 ## See Also
 
-* Class [SummaryZoomSectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SummaryZoomSectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

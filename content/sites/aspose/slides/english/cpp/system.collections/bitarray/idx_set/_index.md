@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.collections/bitarray/idx_set/
 ---
-## BitArray::idx_set(int, **bool**) method
+## BitArray::idx_set(int, bool) method
 
 
 Setter function.
@@ -25,6 +25,6 @@ void System::Collections::BitArray::idx_set(int index, bool value)
 
 ## See Also
 
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitArray](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

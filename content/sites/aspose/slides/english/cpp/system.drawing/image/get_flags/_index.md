@@ -17,6 +17,6 @@ virtual int32_t System::Drawing::Image::get_Flags() const
 
 ## See Also
 
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

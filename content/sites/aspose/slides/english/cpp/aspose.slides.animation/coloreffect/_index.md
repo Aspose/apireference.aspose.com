@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.animation/coloreffect/
 Represents a color effect for an animation behavior.
 
 ```cpp
-class ColorEffect : public Aspose::Slides::Animation::Behavior,
-                    public Aspose::Slides::Animation::IColorEffect
+class ColorEffect : public Aspose::Slides::Animation::Behavior,                    public Aspose::Slides::Animation::IColorEffect
 ```
 
 ## Methods

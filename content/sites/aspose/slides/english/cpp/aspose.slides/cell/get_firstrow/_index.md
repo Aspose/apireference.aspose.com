@@ -17,8 +17,8 @@ System::SharedPtr<IRow> Aspose::Slides::Cell::get_FirstRow() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IRow](../../irow/)
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IRow](../irow/)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

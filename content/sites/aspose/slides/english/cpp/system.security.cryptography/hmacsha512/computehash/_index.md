@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography/hmacsha512/computehash/
 ---
-## HMACSHA512::ComputeHash(const [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
+## HMACSHA512::ComputeHash(const ArrayPtr\<uint8_t\>\&) method
 
 
 Calculates [HMAC](../../hmac/).
@@ -28,7 +28,7 @@ Calculated [HMAC](../../hmac/) value.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [HMACSHA512](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [HMACSHA512](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

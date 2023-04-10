@@ -22,7 +22,7 @@ The **string** description of the error condition for this exception.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Details_XPathException](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Details_XPathException](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

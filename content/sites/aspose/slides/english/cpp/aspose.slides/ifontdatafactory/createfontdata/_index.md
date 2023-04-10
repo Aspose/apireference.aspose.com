@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/ifontdatafactory/createfontdata/
 ---
-## IFontDataFactory::CreateFontData([System::String](../../../system/string/)) method
+## IFontDataFactory::CreateFontData(System::String) method
 
 
 Creates [FontData](../../fontdata/) with specified font name.
@@ -28,9 +28,9 @@ virtual System::SharedPtr<IFontData> Aspose::Slides::IFontDataFactory::CreateFon
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontData](../../ifontdata/)
-* Class [String](../../../system/string/)
-* Class [IFontDataFactory](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontData](../ifontdata/)
+* Class [String](../../system/string/)
+* Class [IFontDataFactory](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

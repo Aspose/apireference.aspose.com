@@ -17,6 +17,6 @@ Aspose::Slides::InterruptionTokenSource::InterruptionTokenSource()
 
 ## See Also
 
-* Class [InterruptionTokenSource](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [InterruptionTokenSource](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/tab/tab/
 ---
-## Tab::Tab(**double**, [TabAlignment](../../tabalignment/)) constructor
+## Tab::Tab(double, TabAlignment) constructor
 
 
 Creates new [Tab](../)
@@ -25,7 +25,7 @@ Aspose::Slides::Tab::Tab(double position, TabAlignment align)
 
 ## See Also
 
-* Enum [TabAlignment](../../tabalignment/)
-* Class [Tab](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TabAlignment](../tabalignment/)
+* Class [Tab](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

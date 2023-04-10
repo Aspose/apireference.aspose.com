@@ -22,6 +22,6 @@ True if referenced object was already deleted, false otherwise.
 
 ## See Also
 
-* Class [WeakPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WeakPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

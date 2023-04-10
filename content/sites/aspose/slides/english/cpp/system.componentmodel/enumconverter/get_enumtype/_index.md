@@ -17,7 +17,7 @@ const System::TypeInfo & System::ComponentModel::EnumConverter::get_EnumType()
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [EnumConverter](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [EnumConverter](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/pviproperty/settemplateweakptr/
 ---
-## PVIProperty::SetTemplateWeakPtr(**uint32_t**) method
+## PVIProperty::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::PVIProperty<T, TRealObject>::SetTemplateWeakPtr(uint32_t ar
 
 ## See Also
 
-* Class [PVIProperty](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PVIProperty](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

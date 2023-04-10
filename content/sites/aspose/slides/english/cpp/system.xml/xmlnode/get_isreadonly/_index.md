@@ -22,6 +22,6 @@ virtual bool System::Xml::XmlNode::get_IsReadOnly()
 
 ## See Also
 
-* Class [XmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

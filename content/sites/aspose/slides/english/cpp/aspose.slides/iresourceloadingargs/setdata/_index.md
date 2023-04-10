@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/iresourceloadingargs/setdata/
 ---
-## IResourceLoadingArgs::SetData([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
+## IResourceLoadingArgs::SetData(System::ArrayPtr\<uint8_t\>) method
 
 
 Sets user provided data of the resource which used if [IResourceLoadingCallback::ResourceLoading()](../../iresourceloadingcallback/resourceloading/) returns [ResourceLoadingAction::UserProvided](../../resourceloadingaction/).
@@ -24,7 +24,7 @@ virtual void Aspose::Slides::IResourceLoadingArgs::SetData(System::ArrayPtr<uint
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [IResourceLoadingArgs](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [IResourceLoadingArgs](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

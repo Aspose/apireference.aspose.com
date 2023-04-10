@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.animation/sequence/removebyshape/
 ---
-## Sequence::RemoveByShape([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
+## Sequence::RemoveByShape(System::SharedPtr\<IShape\>) method
 
 
 Remove effect for the specified shape.
@@ -17,8 +17,8 @@ void Aspose::Slides::Animation::Sequence::RemoveByShape(System::SharedPtr<IShape
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShape](../../../aspose.slides/ishape/)
-* Class [Sequence](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShape](../../aspose.slides/ishape/)
+* Class [Sequence](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

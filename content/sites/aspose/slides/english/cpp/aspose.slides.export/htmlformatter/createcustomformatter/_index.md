@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.export/htmlformatter/createcustomformatter/
 ---
-## HtmlFormatter::CreateCustomFormatter([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlFormattingController](../../ihtmlformattingcontroller/)\>) method
+## HtmlFormatter::CreateCustomFormatter(System::SharedPtr\<IHtmlFormattingController\>) method
 
 
 Creates and returns HTML formatter for custom callback-driven html generation.
@@ -28,9 +28,8 @@ static System::SharedPtr<HtmlFormatter> Aspose::Slides::Export::HtmlFormatter::C
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HtmlFormatter](../)
-* Class [IHtmlFormattingController](../../ihtmlformattingcontroller/)
-* Class [HtmlFormatter](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HtmlFormatter](./)
+* Class [IHtmlFormattingController](../ihtmlformattingcontroller/)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

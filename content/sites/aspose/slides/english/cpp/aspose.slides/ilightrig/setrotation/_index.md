@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/ilightrig/setrotation/
 ---
-## ILightRig::SetRotation(**float**, **float**, **float**) method
+## ILightRig::SetRotation(float, float, float) method
 
 
 A rotation is defined through the use of a latitude coordinate, a longitude coordinate, and a revolution about the axis as the latitude and longitude coordinates.
@@ -26,6 +26,6 @@ virtual void Aspose::Slides::ILightRig::SetRotation(float latitude, float longit
 
 ## See Also
 
-* Class [ILightRig](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILightRig](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

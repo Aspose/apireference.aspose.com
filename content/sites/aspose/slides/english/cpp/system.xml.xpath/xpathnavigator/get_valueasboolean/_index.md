@@ -22,6 +22,6 @@ The current node's value as a [Boolean](../../../system/boolean/).
 
 ## See Also
 
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

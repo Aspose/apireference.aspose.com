@@ -17,8 +17,8 @@ System::SharedPtr<ICommentAuthorCollection> Aspose::Slides::Presentation::get_Co
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommentAuthorCollection](../../icommentauthorcollection/)
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommentAuthorCollection](../icommentauthorcollection/)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

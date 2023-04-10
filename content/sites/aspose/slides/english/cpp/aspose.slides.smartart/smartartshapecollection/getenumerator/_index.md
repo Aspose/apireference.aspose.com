@@ -24,9 +24,9 @@ A [IEnumerator](../../../system.collections.generic/ienumerator/) that can be us
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [ISmartArtShape](../../ismartartshape/)
-* Class [SmartArtShapeCollection](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../../system.collections.generic/ienumerator/)
+* Class [ISmartArtShape](../ismartartshape/)
+* Class [SmartArtShapeCollection](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

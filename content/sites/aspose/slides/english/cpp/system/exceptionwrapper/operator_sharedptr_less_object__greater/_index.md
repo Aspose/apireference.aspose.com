@@ -17,6 +17,6 @@ System::ExceptionWrapper<T>::operator SharedPtr<Object>()
 
 ## See Also
 
-* Class [ExceptionWrapper](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ExceptionWrapper](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ float System::Drawing::PointF::get_X() const
 
 ## See Also
 
-* Class [PointF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

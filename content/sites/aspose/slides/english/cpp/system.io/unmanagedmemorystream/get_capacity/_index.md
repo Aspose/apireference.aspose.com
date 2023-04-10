@@ -17,6 +17,6 @@ virtual int64_t System::IO::UnmanagedMemoryStream::get_Capacity() const
 
 ## See Also
 
-* Class [UnmanagedMemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UnmanagedMemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ The number of prefix and namespace pairs in the collection.
 
 ## See Also
 
-* Class [XmlSerializerNamespaces](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSerializerNamespaces](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

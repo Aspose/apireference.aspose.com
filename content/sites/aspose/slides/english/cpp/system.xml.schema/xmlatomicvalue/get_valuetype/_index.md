@@ -22,7 +22,7 @@ The type of the validated XML element or attribute. The default value is [String
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [XmlAtomicValue](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [XmlAtomicValue](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

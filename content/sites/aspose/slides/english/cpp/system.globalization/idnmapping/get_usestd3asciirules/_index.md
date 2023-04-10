@@ -17,6 +17,6 @@ bool System::Globalization::IdnMapping::get_UseStd3AsciiRules() const
 
 ## See Also
 
-* Class [IdnMapping](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IdnMapping](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

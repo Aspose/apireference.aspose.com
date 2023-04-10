@@ -22,6 +22,6 @@ bool System::Xml::XmlElement::get_IsEmpty()
 
 ## See Also
 
-* Class [XmlElement](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlElement](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The Reason-Phrase that is sent by servers together with the status code.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpResponseMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpResponseMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

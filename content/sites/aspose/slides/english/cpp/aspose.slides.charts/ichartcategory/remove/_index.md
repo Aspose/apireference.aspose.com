@@ -18,6 +18,6 @@ virtual void Aspose::Slides::Charts::IChartCategory::Remove()=0
 
 ## See Also
 
-* Class [IChartCategory](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartCategory](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

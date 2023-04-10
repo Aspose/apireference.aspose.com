@@ -6,7 +6,7 @@ type: docs
 weight: 755
 url: /cpp/system.xml/xmlreader/readcontentasbase64/
 ---
-## XmlReader::ReadContentAsBase64([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**) method
+## XmlReader::ReadContentAsBase64(ArrayPtr\<uint8_t\>, int32_t, int32_t) method
 
 
 Reads the content and returns the Base64 decoded binary bytes.
@@ -30,7 +30,7 @@ The number of bytes written to the buffer.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [XmlReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

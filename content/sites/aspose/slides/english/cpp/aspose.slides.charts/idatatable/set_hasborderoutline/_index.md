@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/idatatable/set_hasborderoutline/
 ---
-## IDataTable::set_HasBorderOutline(**bool**) method
+## IDataTable::set_HasBorderOutline(bool) method
 
 
 True if the chart data table has outline borders. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IDataTable::set_HasBorderOutline(bool value
 
 ## See Also
 
-* Class [IDataTable](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDataTable](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

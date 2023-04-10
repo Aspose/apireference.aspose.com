@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.drawing.imaging/propertyitem/set_value/
 ---
-## PropertyItem::set_Value(const [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
+## PropertyItem::set_Value(const System::ArrayPtr\<uint8_t\>\&) method
 
 
 Sets the type of the property represented by the current object in bytes.
@@ -24,7 +24,7 @@ void System::Drawing::Imaging::PropertyItem::set_Value(const System::ArrayPtr<ui
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [PropertyItem](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [PropertyItem](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

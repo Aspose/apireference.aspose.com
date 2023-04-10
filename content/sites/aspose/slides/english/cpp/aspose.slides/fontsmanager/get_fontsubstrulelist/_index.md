@@ -17,8 +17,8 @@ System::SharedPtr<Aspose::Slides::IFontSubstRuleCollection> Aspose::Slides::Font
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontSubstRuleCollection](../../ifontsubstrulecollection/)
-* Class [FontsManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontSubstRuleCollection](../ifontsubstrulecollection/)
+* Class [FontsManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

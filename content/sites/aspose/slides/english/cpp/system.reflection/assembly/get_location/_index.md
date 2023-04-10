@@ -17,7 +17,7 @@ virtual String System::Reflection::Assembly::get_Location() const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Assembly](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Assembly](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.net/cookiecollection/removeat/
 ---
-## CookieCollection::RemoveAt(**int32_t**) method
+## CookieCollection::RemoveAt(int32_t) method
 
 
 Removes a cookie at the specified index.
@@ -24,6 +24,6 @@ void System::Net::CookieCollection::RemoveAt(int32_t idx)
 
 ## See Also
 
-* Class [CookieCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CookieCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

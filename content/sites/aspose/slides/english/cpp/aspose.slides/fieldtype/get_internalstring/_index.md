@@ -17,7 +17,7 @@ System::String Aspose::Slides::FieldType::get_InternalString() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FieldType](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FieldType](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

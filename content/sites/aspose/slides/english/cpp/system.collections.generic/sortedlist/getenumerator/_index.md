@@ -22,7 +22,7 @@ Pointer to newly created enumerator iterating through current list.
 
 ## See Also
 
-* Typedef [IEnumeratorPtr](../ienumeratorptr/)
-* Class [SortedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumeratorPtr](./ienumeratorptr/)
+* Class [SortedList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

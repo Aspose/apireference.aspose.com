@@ -17,7 +17,7 @@ LineJoinStyle Aspose::Slides::LineFormat::get_JoinStyle() override
 
 ## See Also
 
-* Enum [LineJoinStyle](../../linejoinstyle/)
-* Class [LineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineJoinStyle](../linejoinstyle/)
+* Class [LineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.io/fileinfo/set_isreadonly/
 ---
-## FileInfo::set_IsReadOnly(**bool**) method
+## FileInfo::set_IsReadOnly(bool) method
 
 
 Sets or unsets the ReadOnly attribute on the file.
@@ -24,6 +24,6 @@ void System::IO::FileInfo::set_IsReadOnly(bool value)
 
 ## See Also
 
-* Class [FileInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FileInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void System::Collections::Generic::Details::EnumeratorOfTypeAdapter<Source, Resu
 
 ## See Also
 
-* Class [EnumeratorOfTypeAdapter](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EnumeratorOfTypeAdapter](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Cell::get_FirstColumnIndex() override
 
 ## See Also
 
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

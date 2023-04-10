@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_initialcatalog/
 ---
-## SqlConnectionStringBuilder::set_InitialCatalog(const [String](../../../system/string/)\&) method
+## SqlConnectionStringBuilder::set_InitialCatalog(const String\&) method
 
 
 Sets name of database associated with connection.
@@ -24,7 +24,7 @@ void System::Data::SqlClient::SqlConnectionStringBuilder::set_InitialCatalog(con
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SqlConnectionStringBuilder](../)
-* Namespace [System::Data::SqlClient](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SqlConnectionStringBuilder](./)
+* Namespace [System::Data::SqlClient](../)
+* Library [Aspose.Slides](../../)

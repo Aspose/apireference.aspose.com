@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.globalization/numberformatinfo/set_positivesign/
 ---
-## NumberFormatInfo::set_PositiveSign(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_PositiveSign(const String\&) method
 
 
 Sets positive sign.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_PositiveSign(const String &val
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

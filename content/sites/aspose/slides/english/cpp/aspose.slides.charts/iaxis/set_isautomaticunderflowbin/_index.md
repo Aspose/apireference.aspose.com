@@ -6,7 +6,7 @@ type: docs
 weight: 1210
 url: /cpp/aspose.slides.charts/iaxis/set_isautomaticunderflowbin/
 ---
-## IAxis::set_IsAutomaticUnderflowBin(**bool**) method
+## IAxis::set_IsAutomaticUnderflowBin(bool) method
 
 
 Specifies automatic underflow bin value. If false: use UnderflowBin property.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_IsAutomaticUnderflowBin(bool val
 
 ## See Also
 
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

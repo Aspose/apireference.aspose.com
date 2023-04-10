@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.xml/xmlattribute/removechild/
 ---
-## XmlAttribute::RemoveChild([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>) method
+## XmlAttribute::RemoveChild(SharedPtr\<XmlNode\>) method
 
 
 Removes the specified child node.
@@ -28,8 +28,8 @@ The [XmlNode](../../xmlnode/) removed.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlAttribute](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlAttribute](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

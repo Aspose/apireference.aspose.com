@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathmatrix/
 Specifies the Matrix object, consisting of child elements laid out in one or more rows and columns. It is important to note that matrices do not have built in delimiters. To place the matrix in the brackets you should use the delimiter object ([IMathDelimiter](../imathdelimiter/)). Null arguments can be used to create gaps in matrices.
 
 ```cpp
-class MathMatrix : public Aspose::Slides::MathText::MathElementBase,
-                   public Aspose::Slides::MathText::IMathMatrix,
-                   public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathMatrix : public Aspose::Slides::MathText::MathElementBase,                   public Aspose::Slides::MathText::IMathMatrix,                   public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

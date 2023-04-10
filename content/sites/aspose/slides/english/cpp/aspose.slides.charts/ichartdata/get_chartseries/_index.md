@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides.charts/ichartdata/get_chartseries/
 ---
-## IChartData::get_ChartSeries(**int32_t**) method
+## IChartData::get_ChartSeries(int32_t) method
 
 
 Returns the series at the specified index.
@@ -18,8 +18,8 @@ virtual System::SharedPtr<IChartSeries> Aspose::Slides::Charts::IChartData::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartSeries](../../ichartseries/)
-* Class [IChartData](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartSeries](../ichartseries/)
+* Class [IChartData](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

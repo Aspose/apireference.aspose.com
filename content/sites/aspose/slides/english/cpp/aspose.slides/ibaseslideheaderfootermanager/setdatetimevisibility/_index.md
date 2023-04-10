@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/ibaseslideheaderfootermanager/setdatetimevisibility/
 ---
-## IBaseSlideHeaderFooterManager::SetDateTimeVisibility(**bool**) method
+## IBaseSlideHeaderFooterManager::SetDateTimeVisibility(bool) method
 
 
 Changes slide date-time placeholder visibility.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IBaseSlideHeaderFooterManager::SetDateTimeVisibilit
 
 ## See Also
 
-* Class [IBaseSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBaseSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

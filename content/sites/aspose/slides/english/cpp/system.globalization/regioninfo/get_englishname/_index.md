@@ -22,7 +22,7 @@ Region name.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [RegionInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [RegionInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

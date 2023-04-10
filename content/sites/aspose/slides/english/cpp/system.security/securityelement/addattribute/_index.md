@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.security/securityelement/addattribute/
 ---
-## SecurityElement::AddAttribute(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## SecurityElement::AddAttribute(const String\&, const String\&) method
 
 
 Adds attribute to tag.
@@ -25,7 +25,7 @@ void System::Security::SecurityElement::AddAttribute(const String &name, const S
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

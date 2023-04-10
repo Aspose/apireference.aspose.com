@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/background/
 Represents background of a slide.
 
 ```cpp
-class Background : public Aspose::Slides::PVIObject,
-                   public Aspose::Slides::IBackground
+class Background : public Aspose::Slides::PVIObject,                   public Aspose::Slides::IBackground
 ```
 
 ## Methods

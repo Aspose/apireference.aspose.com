@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/ileftrightdirectiontransition/set_direction/
 ---
-## ILeftRightDirectionTransition::set_Direction([TransitionLeftRightDirectionType](../../transitionleftrightdirectiontype/)) method
+## ILeftRightDirectionTransition::set_Direction(TransitionLeftRightDirectionType) method
 
 
 Direction of transition. Write [TransitionLeftRightDirectionType](../../transitionleftrightdirectiontype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::ILeftRightDirectionTransition::set_Direc
 
 ## See Also
 
-* Enum [TransitionLeftRightDirectionType](../../transitionleftrightdirectiontype/)
-* Class [ILeftRightDirectionTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionLeftRightDirectionType](../transitionleftrightdirectiontype/)
+* Class [ILeftRightDirectionTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

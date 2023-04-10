@@ -22,6 +22,6 @@ The unboxed value
 
 ## See Also
 
-* Class [BoxedValue](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BoxedValue](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

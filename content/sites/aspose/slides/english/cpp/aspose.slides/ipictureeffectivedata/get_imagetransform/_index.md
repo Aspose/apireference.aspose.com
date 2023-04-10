@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IImageTransformOCollectionEffectiveData> Aspo
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IImageTransformOCollectionEffectiveData](../../../aspose.slides.effects/iimagetransformocollectioneffectivedata/)
-* Class [IPictureEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IImageTransformOCollectionEffectiveData](../../aspose.slides.effects/iimagetransformocollectioneffectivedata/)
+* Class [IPictureEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

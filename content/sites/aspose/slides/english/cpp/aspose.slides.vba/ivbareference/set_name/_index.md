@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.vba/ivbareference/set_name/
 ---
-## IVbaReference::set_Name([System::String](../../../system/string/)) method
+## IVbaReference::set_Name(System::String) method
 
 
 Represents the name of the VBA project reference. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Vba::IVbaReference::set_Name(System::String value)=
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IVbaReference](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IVbaReference](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ DateTime System::Globalization::GregorianCalendar::get_MinSupportedDateTime() co
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [GregorianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [GregorianCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathrightsubsuperscriptelement/
 Specifies the Sub-Superscript object, which consists of a base and a subscript and superscript placed to the right of the base.
 
 ```cpp
-class MathRightSubSuperscriptElement : public Aspose::Slides::MathText::BaseScript,
-                                       public Aspose::Slides::MathText::IMathRightSubSuperscriptElement
+class MathRightSubSuperscriptElement : public Aspose::Slides::MathText::BaseScript,                                       public Aspose::Slides::MathText::IMathRightSubSuperscriptElement
 ```
 
 ## Methods

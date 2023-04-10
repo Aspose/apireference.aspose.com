@@ -31,14 +31,7 @@ ArrayPtr<String> fontNames = newRule->ToArray();
 ```
 
 
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [FontFallBackRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
-## FontFallBackRule::ToArray(**int32_t**, **int32_t**) method
+## FontFallBackRule::ToArray(int32_t, int32_t) method
 
 
 Creates and returns an array with all FallBack fonts from the specified range in list.
@@ -72,8 +65,8 @@ ArrayPtr<String> fontNames = newRule->ToArray(2, 2);
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [FontFallBackRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [FontFallBackRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

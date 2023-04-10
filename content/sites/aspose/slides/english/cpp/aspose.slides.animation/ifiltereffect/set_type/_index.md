@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/ifiltereffect/set_type/
 ---
-## IFilterEffect::set_Type([FilterEffectType](../../filtereffecttype/)) method
+## IFilterEffect::set_Type(FilterEffectType) method
 
 
 Represents type of filter effect. Write [FilterEffectType](../../filtereffecttype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IFilterEffect::set_Type(FilterEffectType
 
 ## See Also
 
-* Enum [FilterEffectType](../../filtereffecttype/)
-* Class [IFilterEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FilterEffectType](../filtereffecttype/)
+* Class [IFilterEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

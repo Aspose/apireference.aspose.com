@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/ilayoutslideheaderfootermanager/setfooterandchildfootersvisibility/
 ---
-## ILayoutSlideHeaderFooterManager::SetFooterAndChildFootersVisibility(**bool**) method
+## ILayoutSlideHeaderFooterManager::SetFooterAndChildFootersVisibility(bool) method
 
 
 Changes layout slide footer placeholder and all child footer placeholders visibility. Child placeholders mean placeholders are contained on depending slides. Depending slides use and depend on master slide.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::ILayoutSlideHeaderFooterManager::SetFooterAndChildF
 
 ## See Also
 
-* Class [ILayoutSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILayoutSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

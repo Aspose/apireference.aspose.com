@@ -22,7 +22,7 @@ The cookie's specification.
 
 ## See Also
 
-* Enum [CookieVariant](../../cookievariant/)
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CookieVariant](../cookievariant/)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,7 @@ Pointer to newly created [Stopwatch](../) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stopwatch](../)
-* Class [Stopwatch](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stopwatch](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

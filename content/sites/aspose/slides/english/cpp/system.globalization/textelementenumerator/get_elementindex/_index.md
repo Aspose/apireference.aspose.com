@@ -22,6 +22,6 @@ Index of the current text element.
 
 ## See Also
 
-* Class [TextElementEnumerator](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextElementEnumerator](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

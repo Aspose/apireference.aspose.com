@@ -17,6 +17,6 @@ void Aspose::Slides::Portion::RemoveField() override
 
 ## See Also
 
-* Class [Portion](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Portion](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

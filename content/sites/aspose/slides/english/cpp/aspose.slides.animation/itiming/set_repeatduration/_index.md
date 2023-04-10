@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides.animation/itiming/set_repeatduration/
 ---
-## ITiming::set_RepeatDuration(**float**) method
+## ITiming::set_RepeatDuration(float) method
 
 
 Describes the number of times the effect should repeat. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Animation::ITiming::set_RepeatDuration(float value)
 
 ## See Also
 
-* Class [ITiming](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITiming](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

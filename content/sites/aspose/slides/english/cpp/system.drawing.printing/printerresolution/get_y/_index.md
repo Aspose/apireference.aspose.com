@@ -17,6 +17,6 @@ int System::Drawing::Printing::PrinterResolution::get_Y() const
 
 ## See Also
 
-* Class [PrinterResolution](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PrinterResolution](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

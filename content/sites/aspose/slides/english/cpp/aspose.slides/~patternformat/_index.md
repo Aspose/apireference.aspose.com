@@ -17,5 +17,5 @@ virtual Aspose::Slides::~PatternFormat()
 
 ## See Also
 
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

@@ -21,8 +21,8 @@ virtual System::SharedPtr<IShapeFrame> Aspose::Slides::IShape::get_Frame()=0
 Value of each property of the returned [IShapeFrame](../../ishapeframe/) instance is not undefined (is not NaN or NotDefined). Value of each property of the assigned [IShapeFrame](../../ishapeframe/) instance must be not undefined (must be not NaN or NotDefined). You can set undefined values for RawFrame instance properties. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShapeFrame](../../ishapeframe/)
-* Class [IShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShapeFrame](../ishapeframe/)
+* Class [IShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

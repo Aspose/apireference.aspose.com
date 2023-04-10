@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.export/htmlformatter/createdocumentformatter/
 ---
-## HtmlFormatter::CreateDocumentFormatter([System::String](../../../system/string/), **bool**) method
+## HtmlFormatter::CreateDocumentFormatter(System::String, bool) method
 
 
 Creates and returns HTML formatter for a simple document view which consists of sequences of slides one below another.
@@ -29,9 +29,8 @@ static System::SharedPtr<HtmlFormatter> Aspose::Slides::Export::HtmlFormatter::C
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HtmlFormatter](../)
-* Class [String](../../../system/string/)
-* Class [HtmlFormatter](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HtmlFormatter](./)
+* Class [String](../../system/string/)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/slideshowtransition/
 Represents slide show transition.
 
 ```cpp
-class SlideShowTransition : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::BaseSlide>>,
-                            public Aspose::Slides::ISlideShowTransition
+class SlideShowTransition : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::BaseSlide>>,                            public Aspose::Slides::ISlideShowTransition
 ```
 
 ## Methods

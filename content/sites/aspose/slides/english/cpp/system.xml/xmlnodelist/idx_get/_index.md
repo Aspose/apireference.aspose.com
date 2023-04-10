@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml/xmlnodelist/idx_get/
 ---
-## XmlNodeList::idx_get(**int32_t**) method
+## XmlNodeList::idx_get(int32_t) method
 
 
 Returns a node at the given index.
@@ -28,8 +28,8 @@ The [XmlNode](../../xmlnode/) with the specified index in the collection. If ind
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlNodeList](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlNodeList](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IFontData> Aspose::Slides::FontSubstRule::get_SourceFont() ove
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontData](../../ifontdata/)
-* Class [FontSubstRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontData](../ifontdata/)
+* Class [FontSubstRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

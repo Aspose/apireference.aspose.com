@@ -22,6 +22,6 @@ std::string System::String::ToAsciiString() const
 
 ## See Also
 
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ Hash code.
 
 ## See Also
 
-* Class [PPImage](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PPImage](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

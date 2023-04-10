@@ -22,6 +22,6 @@ A value that indicates if SOAP version 1.2 is used.
 
 ## See Also
 
-* Class [SoapMessage](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SoapMessage](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

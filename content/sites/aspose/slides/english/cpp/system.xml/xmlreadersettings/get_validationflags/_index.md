@@ -22,7 +22,7 @@ A bitwise combination of enumeration values that specify validation options. Xml
 
 ## See Also
 
-* Enum [XmlSchemaValidationFlags](../../../system.xml.schema/xmlschemavalidationflags/)
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaValidationFlags](../../system.xml.schema/xmlschemavalidationflags/)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IEffectFormat> Aspose::Slides::Shape::get_EffectFormat() overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffectFormat](../../ieffectformat/)
-* Class [Shape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffectFormat](../ieffectformat/)
+* Class [Shape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

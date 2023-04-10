@@ -17,7 +17,7 @@ virtual System::ArrayPtr<uint8_t> Aspose::Slides::ICustomXmlPart::get_XmlData()=
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [ICustomXmlPart](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [ICustomXmlPart](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ The value that determines if a cache or proxy must not change any part of the en
 
 ## See Also
 
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

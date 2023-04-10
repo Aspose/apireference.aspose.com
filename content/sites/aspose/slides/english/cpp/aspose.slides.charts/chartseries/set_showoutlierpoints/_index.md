@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/aspose.slides.charts/chartseries/set_showoutlierpoints/
 ---
-## ChartSeries::set_ShowOutlierPoints(**bool**) method
+## ChartSeries::set_ShowOutlierPoints(bool) method
 
 
 Represents outlier points. True if outlier points are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartSeries::set_ShowOutlierPoints(bool value) over
 
 ## See Also
 
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

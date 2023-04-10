@@ -23,8 +23,8 @@ Note: [Aspose.Slides](../../) supports only XML based ActiveX properties. If pro
 Read-only [IControlPropertiesCollection](../../icontrolpropertiescollection/). 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IControlPropertiesCollection](../../icontrolpropertiescollection/)
-* Class [Control](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IControlPropertiesCollection](../icontrolpropertiescollection/)
+* Class [Control](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

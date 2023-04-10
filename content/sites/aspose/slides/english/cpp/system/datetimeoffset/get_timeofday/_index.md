@@ -17,7 +17,7 @@ TimeSpan System::DateTimeOffset::get_TimeOfDay() const
 
 ## See Also
 
-* Class [TimeSpan](../../timespan/)
-* Class [DateTimeOffset](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](../timespan/)
+* Class [DateTimeOffset](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IVbaModuleCollection> Aspose::Slides::Vba::VbaProject::get_Mod
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaModuleCollection](../../ivbamodulecollection/)
-* Class [VbaProject](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaModuleCollection](../ivbamodulecollection/)
+* Class [VbaProject](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::ChartDataWorksheetCollection::get_Count() overri
 
 ## See Also
 
-* Class [ChartDataWorksheetCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataWorksheetCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

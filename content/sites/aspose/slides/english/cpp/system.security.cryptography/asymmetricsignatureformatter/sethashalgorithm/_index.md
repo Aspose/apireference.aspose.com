@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography/asymmetricsignatureformatter/sethashalgorithm/
 ---
-## AsymmetricSignatureFormatter::SetHashAlgorithm([System::String](../../../system/string/)) method
+## AsymmetricSignatureFormatter::SetHashAlgorithm(System::String) method
 
 
 Sets hash algorithm to use.
@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::AsymmetricSignatureFormatter::SetHa
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [AsymmetricSignatureFormatter](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [AsymmetricSignatureFormatter](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

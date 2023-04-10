@@ -18,7 +18,7 @@ TypeInfo System::Reflection::ConstructorInfo::get_DeclaringType()
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [ConstructorInfo](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [ConstructorInfo](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

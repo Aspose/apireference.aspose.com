@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.diagnostics/processstartinfo/set_workingdirectory/
 ---
-## ProcessStartInfo::set_WorkingDirectory(const [String](../../../system/string/)\&) method
+## ProcessStartInfo::set_WorkingDirectory(const String\&) method
 
 
 Sets working directory of the process.
@@ -24,7 +24,7 @@ void System::Diagnostics::ProcessStartInfo::set_WorkingDirectory(const String &v
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ProcessStartInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ProcessStartInfo](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

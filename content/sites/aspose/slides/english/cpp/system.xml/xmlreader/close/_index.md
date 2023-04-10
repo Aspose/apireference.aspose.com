@@ -17,6 +17,6 @@ virtual void System::Xml::XmlReader::Close()
 
 ## See Also
 
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_networklibrary/
 ---
-## SqlConnectionStringBuilder::set_NetworkLibrary(const [String](../../../system/string/)\&) method
+## SqlConnectionStringBuilder::set_NetworkLibrary(const String\&) method
 
 
 Selects network library to use.
@@ -24,7 +24,7 @@ void System::Data::SqlClient::SqlConnectionStringBuilder::set_NetworkLibrary(con
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SqlConnectionStringBuilder](../)
-* Namespace [System::Data::SqlClient](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SqlConnectionStringBuilder](./)
+* Namespace [System::Data::SqlClient](../)
+* Library [Aspose.Slides](../../)

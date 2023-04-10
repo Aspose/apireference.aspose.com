@@ -22,6 +22,6 @@ The item's value as a [Double](../../../system/double/).
 
 ## See Also
 
-* Class [XPathItem](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XPathItem](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

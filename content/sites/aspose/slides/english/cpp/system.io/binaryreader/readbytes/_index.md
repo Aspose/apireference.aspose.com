@@ -28,7 +28,7 @@ A byte array containing the read bytes
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [BinaryReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [BinaryReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

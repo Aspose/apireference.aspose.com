@@ -17,6 +17,6 @@ virtual System::Collections::Generic::KeyIterator<Dict>::~KeyIterator()=default
 
 ## See Also
 
-* Class [KeyIterator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [KeyIterator](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

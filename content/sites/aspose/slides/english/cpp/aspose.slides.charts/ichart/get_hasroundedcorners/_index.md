@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::IChart::get_HasRoundedCorners()=0
 
 ## See Also
 
-* Class [IChart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

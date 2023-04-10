@@ -28,8 +28,8 @@ The name of the specified enum constant
 
 ## See Also
 
-* Typedef [UnderlyingType](../underlyingtype/)
-* Class [String](../../string/)
-* Struct [Enum](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [UnderlyingType](./underlyingtype/)
+* Class [String](../string/)
+* Struct [Enum](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

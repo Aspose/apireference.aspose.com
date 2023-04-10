@@ -17,6 +17,6 @@ System::Security::Cryptography::X509Certificates::X509ExtensionCollection::X509E
 
 ## See Also
 
-* Class [X509ExtensionCollection](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [X509ExtensionCollection](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

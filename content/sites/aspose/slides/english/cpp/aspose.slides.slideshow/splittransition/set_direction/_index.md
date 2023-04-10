@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/splittransition/set_direction/
 ---
-## SplitTransition::set_Direction([TransitionInOutDirectionType](../../transitioninoutdirectiontype/)) method
+## SplitTransition::set_Direction(TransitionInOutDirectionType) method
 
 
 Direction of transition split. Write [TransitionInOutDirectionType](../../transitioninoutdirectiontype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::SplitTransition::set_Direction(TransitionInOutDi
 
 ## See Also
 
-* Enum [TransitionInOutDirectionType](../../transitioninoutdirectiontype/)
-* Class [SplitTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionInOutDirectionType](../transitioninoutdirectiontype/)
+* Class [SplitTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

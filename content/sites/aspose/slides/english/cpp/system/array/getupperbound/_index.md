@@ -28,6 +28,6 @@ The upper bound of the specified dimension
 
 ## See Also
 
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

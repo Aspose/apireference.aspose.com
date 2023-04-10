@@ -17,7 +17,7 @@ System::String Aspose::Slides::VideoFrame::get_LinkPathLong() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [VideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [VideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

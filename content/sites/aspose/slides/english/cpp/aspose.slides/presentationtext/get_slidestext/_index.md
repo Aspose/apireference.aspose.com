@@ -17,9 +17,9 @@ System::ArrayPtr<System::SharedPtr<ISlideText>> Aspose::Slides::PresentationText
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISlideText](../../islidetext/)
-* Class [PresentationText](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISlideText](../islidetext/)
+* Class [PresentationText](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

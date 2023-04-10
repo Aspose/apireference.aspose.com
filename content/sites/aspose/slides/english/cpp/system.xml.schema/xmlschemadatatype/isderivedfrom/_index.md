@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.xml.schema/xmlschemadatatype/isderivedfrom/
 ---
-## XmlSchemaDatatype::IsDerivedFrom([SharedPtr](../../../system/sharedptr/)\<[XmlSchemaDatatype](../)\>) method
+## XmlSchemaDatatype::IsDerivedFrom(SharedPtr\<XmlSchemaDatatype\>) method
 
 
 This method always returns **false**.
@@ -28,8 +28,7 @@ Always returns **false**.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaDatatype](../)
-* Class [XmlSchemaDatatype](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaDatatype](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

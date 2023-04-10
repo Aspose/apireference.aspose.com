@@ -17,7 +17,7 @@ virtual BackgroundType Aspose::Slides::IBackground::get_Type()=0
 
 ## See Also
 
-* Enum [BackgroundType](../../backgroundtype/)
-* Class [IBackground](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [BackgroundType](../backgroundtype/)
+* Class [IBackground](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

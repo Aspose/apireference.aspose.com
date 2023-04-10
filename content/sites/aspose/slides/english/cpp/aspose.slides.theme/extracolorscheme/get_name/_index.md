@@ -17,7 +17,7 @@ System::String Aspose::Slides::Theme::ExtraColorScheme::get_Name() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ExtraColorScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ExtraColorScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

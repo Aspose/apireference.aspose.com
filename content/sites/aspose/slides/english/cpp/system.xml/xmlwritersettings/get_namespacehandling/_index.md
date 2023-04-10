@@ -22,7 +22,7 @@ The NamespaceHandling enumeration used to specify whether to remove duplicate na
 
 ## See Also
 
-* Enum [NamespaceHandling](../../namespacehandling/)
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NamespaceHandling](../namespacehandling/)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

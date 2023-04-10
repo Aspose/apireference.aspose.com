@@ -17,6 +17,6 @@ virtual System::Drawing::Region::~Region()
 
 ## See Also
 
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Region](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

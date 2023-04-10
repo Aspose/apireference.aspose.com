@@ -17,8 +17,8 @@ System::SharedPtr<IRowFormat> Aspose::Slides::Row::get_RowFormat() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IRowFormat](../../irowformat/)
-* Class [Row](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IRowFormat](../irowformat/)
+* Class [Row](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

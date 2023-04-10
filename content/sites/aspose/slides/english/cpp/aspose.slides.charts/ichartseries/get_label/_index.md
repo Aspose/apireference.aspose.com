@@ -6,7 +6,7 @@ type: docs
 weight: 833
 url: /cpp/aspose.slides.charts/ichartseries/get_label/
 ---
-## IChartSeries::get_Label(**int32_t**) method
+## IChartSeries::get_Label(int32_t) method
 
 
 Returns data label for the data point of this series at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IDataLabel> Aspose::Slides::Charts::IChartSeries::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IDataLabel](../../idatalabel/)
-* Class [IChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IDataLabel](../idatalabel/)
+* Class [IChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

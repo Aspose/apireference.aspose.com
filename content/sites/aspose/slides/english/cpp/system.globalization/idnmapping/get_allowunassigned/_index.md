@@ -17,6 +17,6 @@ bool System::Globalization::IdnMapping::get_AllowUnassigned() const
 
 ## See Also
 
-* Class [IdnMapping](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IdnMapping](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

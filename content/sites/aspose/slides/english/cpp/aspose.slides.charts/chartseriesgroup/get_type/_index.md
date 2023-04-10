@@ -17,7 +17,7 @@ CombinableSeriesTypesGroup Aspose::Slides::Charts::ChartSeriesGroup::get_Type() 
 
 ## See Also
 
-* Enum [CombinableSeriesTypesGroup](../../combinableseriestypesgroup/)
-* Class [ChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CombinableSeriesTypesGroup](../combinableseriestypesgroup/)
+* Class [ChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

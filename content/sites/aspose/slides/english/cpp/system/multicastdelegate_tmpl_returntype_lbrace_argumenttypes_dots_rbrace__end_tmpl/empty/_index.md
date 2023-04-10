@@ -22,6 +22,6 @@ True if the delegate collection is empty, otherwise - false
 
 ## See Also
 
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

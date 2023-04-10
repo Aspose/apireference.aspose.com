@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaPatternFacet::XmlSchemaPatternFacet()
 
 ## See Also
 
-* Class [XmlSchemaPatternFacet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaPatternFacet](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

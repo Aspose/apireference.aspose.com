@@ -17,8 +17,8 @@ System::SharedPtr<IChartDataWorkbook> Aspose::Slides::Charts::ChartData::get_Cha
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataWorkbook](../../ichartdataworkbook/)
-* Class [ChartData](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataWorkbook](../ichartdataworkbook/)
+* Class [ChartData](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

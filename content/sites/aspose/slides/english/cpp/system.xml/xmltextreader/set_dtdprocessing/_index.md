@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system.xml/xmltextreader/set_dtdprocessing/
 ---
-## XmlTextReader::set_DtdProcessing([System::Xml::DtdProcessing](../../dtdprocessing/)) method
+## XmlTextReader::set_DtdProcessing(System::Xml::DtdProcessing) method
 
 
 Sets the DtdProcessing enumeration.
@@ -24,7 +24,7 @@ void System::Xml::XmlTextReader::set_DtdProcessing(System::Xml::DtdProcessing va
 
 ## See Also
 
-* Enum [DtdProcessing](../../dtdprocessing/)
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DtdProcessing](../dtdprocessing/)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

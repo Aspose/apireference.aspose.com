@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/ibaseportionformat/set_fontitalic/
 ---
-## IBasePortionFormat::set_FontItalic([NullableBool](../../nullablebool/)) method
+## IBasePortionFormat::set_FontItalic(NullableBool) method
 
 
 Determines whether the font is itallic. No inheritance applied. Write [NullableBool](../../nullablebool/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBasePortionFormat::set_FontItalic(NullableBool val
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [IBasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [IBasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

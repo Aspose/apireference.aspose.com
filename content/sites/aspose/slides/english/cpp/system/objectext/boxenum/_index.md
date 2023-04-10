@@ -34,8 +34,8 @@ Boxed enum value.
 
 ## See Also
 
-* Class [SmartPtr](../../smartptr/)
-* Class [BoxedValueBase](../../boxedvaluebase/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](../smartptr/)
+* Class [BoxedValueBase](../boxedvaluebase/)
+* Class [ObjectExt](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

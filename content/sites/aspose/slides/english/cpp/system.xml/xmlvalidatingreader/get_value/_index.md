@@ -40,7 +40,7 @@ The following table lists node types that have a value to return. All other node
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlValidatingReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlValidatingReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

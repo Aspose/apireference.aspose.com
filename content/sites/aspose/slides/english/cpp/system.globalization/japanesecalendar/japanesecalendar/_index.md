@@ -17,6 +17,6 @@ System::Globalization::JapaneseCalendar::JapaneseCalendar()
 
 ## See Also
 
-* Class [JapaneseCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [JapaneseCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

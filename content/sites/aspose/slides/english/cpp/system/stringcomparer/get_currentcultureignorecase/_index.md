@@ -22,7 +22,7 @@ Pointer to current culture case-ignoring comparer.
 
 ## See Also
 
-* Typedef [StringComparerPtr](../../stringcomparerptr/)
-* Class [StringComparer](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [StringComparerPtr](../stringcomparerptr/)
+* Class [StringComparer](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

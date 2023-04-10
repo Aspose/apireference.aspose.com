@@ -6,7 +6,7 @@ type: docs
 weight: 521
 url: /cpp/aspose.slides.charts/axis/set_majortickmark/
 ---
-## Axis::set_MajorTickMark([TickMarkType](../../tickmarktype/)) method
+## Axis::set_MajorTickMark(TickMarkType) method
 
 
 Represents the type of major tick mark for the specified axis. Write [TickMarkType](../../tickmarktype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_MajorTickMark(TickMarkType value) overrid
 
 ## See Also
 
-* Enum [TickMarkType](../../tickmarktype/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TickMarkType](../tickmarktype/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

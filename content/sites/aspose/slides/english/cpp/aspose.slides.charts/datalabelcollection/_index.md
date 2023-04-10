@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/datalabelcollection/
 Represents a series labels.
 
 ```cpp
-class DataLabelCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeries>>,
-                            public Aspose::Slides::Charts::IDataLabelCollection
+class DataLabelCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartSeries>>,                            public Aspose::Slides::Charts::IDataLabelCollection
 ```
 
 ## Methods

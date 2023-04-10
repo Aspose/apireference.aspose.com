@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/mathparagraph/idx_get/
 ---
-## MathParagraph::idx_get(**int32_t**) method
+## MathParagraph::idx_get(int32_t) method
 
 
 Gets the item at the specified index. Read-only [IMathBlock](../../imathblock/).
@@ -40,8 +40,8 @@ auto block = mathParagraph->idx_get(1);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathBlock](../../imathblock/)
-* Class [MathParagraph](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathBlock](../imathblock/)
+* Class [MathParagraph](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

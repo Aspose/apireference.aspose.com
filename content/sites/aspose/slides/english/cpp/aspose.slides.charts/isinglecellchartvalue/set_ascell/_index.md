@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/isinglecellchartvalue/set_ascell/
 ---
-## ISingleCellChartValue::set_AsCell([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataCell](../../ichartdatacell/)\>) method
+## ISingleCellChartValue::set_AsCell(System::SharedPtr\<IChartDataCell\>) method
 
 
 Sets chart data cell. Write [IChartDataCell](../../ichartdatacell/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Charts::ISingleCellChartValue::set_AsCell(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataCell](../../ichartdatacell/)
-* Class [ISingleCellChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataCell](../ichartdatacell/)
+* Class [ISingleCellChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

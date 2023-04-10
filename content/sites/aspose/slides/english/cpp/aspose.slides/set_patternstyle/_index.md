@@ -6,7 +6,7 @@ type: docs
 weight: 5487
 url: /cpp/aspose.slides/set_patternstyle/
 ---
-## Aspose::Slides::set_PatternStyle([Aspose::Slides::PatternStyle](../patternstyle/)) function
+## Aspose::Slides::set_PatternStyle(Aspose::Slides::PatternStyle) function
 
 
 Sets the pattern style. Write [Slides::PatternStyle](../patternstyle/).
@@ -17,6 +17,6 @@ void Aspose::Slides::set_PatternStyle(Aspose::Slides::PatternStyle value) overri
 
 ## See Also
 
-* Enum [PatternStyle](../patternstyle/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PatternStyle](./patternstyle/)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

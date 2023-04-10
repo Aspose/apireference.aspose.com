@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.security.cryptography/symmetricalgorithm/create/
 ---
-## SymmetricAlgorithm::Create(const [String](../../../system/string/)\&) method
+## SymmetricAlgorithm::Create(const String\&) method
 
 
 Creates algorithm instance.
@@ -28,9 +28,8 @@ Newly created algorithm.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SymmetricAlgorithm](../)
-* Class [String](../../../system/string/)
-* Class [SymmetricAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [SymmetricAlgorithm](./)
+* Class [String](../../system/string/)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

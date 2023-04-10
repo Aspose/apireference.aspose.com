@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::PieSplitCustomPointCollection::Clear() override
 
 ## See Also
 
-* Class [PieSplitCustomPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PieSplitCustomPointCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

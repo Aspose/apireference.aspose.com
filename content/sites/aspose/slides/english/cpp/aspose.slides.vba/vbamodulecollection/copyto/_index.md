@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.vba/vbamodulecollection/copyto/
 ---
-## VbaModuleCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IVbaModule](../../ivbamodule/)\>\>, **int32_t**) method
+## VbaModuleCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<IVbaModule\>\>, int32_t) method
 
 
 Copies all elements from the collection to the specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::Vba::VbaModuleCollection::CopyTo(System::ArrayPtr<System::S
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaModule](../../ivbamodule/)
-* Class [VbaModuleCollection](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaModule](../ivbamodule/)
+* Class [VbaModuleCollection](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

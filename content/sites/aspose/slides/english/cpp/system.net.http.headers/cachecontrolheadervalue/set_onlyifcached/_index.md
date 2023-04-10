@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_onlyifcached/
 ---
-## CacheControlHeaderValue::set_OnlyIfCached(**bool**) method
+## CacheControlHeaderValue::set_OnlyIfCached(bool) method
 
 
 Sets the value that determines if the client must use only cached entries.
@@ -24,6 +24,6 @@ void System::Net::Http::Headers::CacheControlHeaderValue::set_OnlyIfCached(bool 
 
 ## See Also
 
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

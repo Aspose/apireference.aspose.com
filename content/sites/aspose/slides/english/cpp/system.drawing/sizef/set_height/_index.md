@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.drawing/sizef/set_height/
 ---
-## SizeF::set_Height(**float**) method
+## SizeF::set_Height(float) method
 
 
 Sets the value of height represented by the current object.
@@ -24,6 +24,6 @@ void System::Drawing::SizeF::set_Height(float value)
 
 ## See Also
 
-* Class [SizeF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SizeF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

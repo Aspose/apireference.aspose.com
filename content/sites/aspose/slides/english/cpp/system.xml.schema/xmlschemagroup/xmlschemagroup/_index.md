@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaGroup::XmlSchemaGroup()
 
 ## See Also
 
-* Class [XmlSchemaGroup](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaGroup](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

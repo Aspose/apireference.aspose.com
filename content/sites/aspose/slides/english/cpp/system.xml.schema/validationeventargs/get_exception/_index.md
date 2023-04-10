@@ -22,7 +22,7 @@ The XmlSchemaException associated with the validation event.
 
 ## See Also
 
-* Typedef [XmlSchemaException](../../xmlschemaexception/)
-* Class [ValidationEventArgs](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [XmlSchemaException](../xmlschemaexception/)
+* Class [ValidationEventArgs](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

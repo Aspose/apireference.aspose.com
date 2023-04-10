@@ -22,7 +22,7 @@ const System::TypeInfo & System::BoxedValue<T>::GetType() const override
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [BoxedValue](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [BoxedValue](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

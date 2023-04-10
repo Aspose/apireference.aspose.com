@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/itextframe/get_paragraph/
 ---
-## ITextFrame::get_Paragraph(**int32_t**) method
+## ITextFrame::get_Paragraph(int32_t) method
 
 
 Returns a paragraph in a frame at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IParagraph> Aspose::Slides::ITextFrame::get_Paragraph(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IParagraph](../../iparagraph/)
-* Class [ITextFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IParagraph](../iparagraph/)
+* Class [ITextFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

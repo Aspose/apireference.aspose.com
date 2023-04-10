@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/picture/set_linkpathlong/
 ---
-## Picture::set_LinkPathLong([System::String](../../../system/string/)) method
+## Picture::set_LinkPathLong(System::String) method
 
 
 Returns of sets linked image's URL. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Picture::set_LinkPathLong(System::String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Picture](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Picture](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

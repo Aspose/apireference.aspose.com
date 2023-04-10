@@ -17,7 +17,7 @@ Point System::Drawing::Rectangle::get_Location() const
 
 ## See Also
 
-* Class [Point](../../point/)
-* Class [Rectangle](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Point](../point/)
+* Class [Rectangle](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

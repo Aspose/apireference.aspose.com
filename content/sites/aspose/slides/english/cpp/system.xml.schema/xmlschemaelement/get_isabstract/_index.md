@@ -22,6 +22,6 @@ If **true**, the element cannot appear in the instance document. The default is 
 
 ## See Also
 
-* Class [XmlSchemaElement](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaElement](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

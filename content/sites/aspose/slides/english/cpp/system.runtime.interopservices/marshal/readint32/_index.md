@@ -29,6 +29,6 @@ Read value.
 
 ## See Also
 
-* Class [Marshal](../)
-* Namespace [System::Runtime::InteropServices](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Marshal](./)
+* Namespace [System::Runtime::InteropServices](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/fontfallbackrulescollection/add/
 ---
-## FontFallBackRulesCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IFontFallBackRule](../../ifontfallbackrule/)\>) method
+## FontFallBackRulesCollection::Add(System::SharedPtr\<IFontFallBackRule\>) method
 
 
 Add a specified FallBack rule to the end of the collection.
@@ -36,8 +36,8 @@ rulesList->Add(MakeObject<FontFallBackRule>(0x400, 0x4FF, u"Times New Roman"));
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontFallBackRule](../../ifontfallbackrule/)
-* Class [FontFallBackRulesCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontFallBackRule](../ifontfallbackrule/)
+* Class [FontFallBackRulesCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

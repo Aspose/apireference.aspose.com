@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/system/string/tobytearray/
 ---
-## String::ToByteArray(**int32_t**, **int32_t**, **bool**) const method
+## String::ToByteArray(int32_t, int32_t, bool) const method
 
 
 Converts string or substring to array of bytes.
@@ -30,7 +30,7 @@ ArrayPtr<uint8_t> System::String::ToByteArray(int32_t startIndex=0, int32_t leng
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

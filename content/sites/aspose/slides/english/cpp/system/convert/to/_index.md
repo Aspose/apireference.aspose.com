@@ -17,6 +17,6 @@ template<typename Source,typename Target> static Target System::Convert::To(cons
 
 ## See Also
 
-* Struct [Convert](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Convert](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

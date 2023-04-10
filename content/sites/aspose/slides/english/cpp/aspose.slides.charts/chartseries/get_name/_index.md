@@ -17,8 +17,8 @@ System::SharedPtr<IStringChartValue> Aspose::Slides::Charts::ChartSeries::get_Na
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IStringChartValue](../../istringchartvalue/)
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IStringChartValue](../istringchartvalue/)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

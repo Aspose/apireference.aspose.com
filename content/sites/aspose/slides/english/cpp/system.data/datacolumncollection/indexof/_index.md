@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.data/datacolumncollection/indexof/
 ---
-## DataColumnCollection::IndexOf(const [System::String](../../../system/string/)\&) method
+## DataColumnCollection::IndexOf(const System::String\&) method
 
 
 Looks for column in collection.
@@ -28,7 +28,7 @@ Column index if found, otherwise -1.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DataColumnCollection](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DataColumnCollection](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

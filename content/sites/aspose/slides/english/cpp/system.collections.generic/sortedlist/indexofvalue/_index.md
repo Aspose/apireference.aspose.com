@@ -28,6 +28,6 @@ Index of the first occurrence of specified value or -1 if not found.
 
 ## See Also
 
-* Class [SortedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SortedList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

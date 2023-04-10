@@ -17,7 +17,7 @@ virtual TiffCompressionTypes Aspose::Slides::Export::ITiffOptions::get_Compressi
 
 ## See Also
 
-* Enum [TiffCompressionTypes](../../tiffcompressiontypes/)
-* Class [ITiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TiffCompressionTypes](../tiffcompressiontypes/)
+* Class [ITiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

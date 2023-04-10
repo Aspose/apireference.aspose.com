@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.text.regularexpressions/match/match/
 ---
-## Match::Match(const [UStringPtr](../../ustringptr/)\&, int, int) constructor
+## Match::Match(const UStringPtr\&, int, int) constructor
 
 
 Constructor.
@@ -26,7 +26,7 @@ System::Text::RegularExpressions::Match::Match(const UStringPtr &source, int ind
 
 ## See Also
 
-* Typedef [UStringPtr](../../ustringptr/)
-* Class [Match](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [UStringPtr](../ustringptr/)
+* Class [Match](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

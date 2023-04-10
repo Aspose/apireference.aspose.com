@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::LegendEntryProperties::get_Hide() override
 
 ## See Also
 
-* Class [LegendEntryProperties](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LegendEntryProperties](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.xml/xmlwriter/writecomment/
 ---
-## XmlWriter::WriteComment([String](../../../system/string/)) method
+## XmlWriter::WriteComment(String) method
 
 
 When overridden in a derived class, writes out a comment **** containing the specified text.
@@ -24,7 +24,7 @@ virtual void System::Xml::XmlWriter::WriteComment(String text)=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

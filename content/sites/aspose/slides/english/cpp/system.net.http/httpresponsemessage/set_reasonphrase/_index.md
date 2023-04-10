@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.net.http/httpresponsemessage/set_reasonphrase/
 ---
-## HttpResponseMessage::set_ReasonPhrase([String](../../../system/string/)) method
+## HttpResponseMessage::set_ReasonPhrase(String) method
 
 
 Sets the Reason-Phrase that is sent by servers together with the status code.
@@ -24,7 +24,7 @@ void System::Net::Http::HttpResponseMessage::set_ReasonPhrase(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpResponseMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpResponseMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ bool Aspose::Slides::SlideShowSettings::get_ShowAnimation()
 
 ## See Also
 
-* Class [SlideShowSettings](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideShowSettings](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

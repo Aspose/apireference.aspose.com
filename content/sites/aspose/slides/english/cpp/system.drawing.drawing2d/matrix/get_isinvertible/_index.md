@@ -17,6 +17,6 @@ bool System::Drawing::Drawing2D::Matrix::get_IsInvertible() const
 
 ## See Also
 
-* Class [Matrix](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Matrix](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual Aspose::Slides::SourceFormat Aspose::Slides::IPresentation::get_SourceFo
 
 ## See Also
 
-* Enum [SourceFormat](../../sourceformat/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SourceFormat](../sourceformat/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ Matching timeout set to regex.
 
 ## See Also
 
-* Class [TimeSpan](../../../system/timespan/)
-* Class [Regex](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](../../system/timespan/)
+* Class [Regex](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

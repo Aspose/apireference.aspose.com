@@ -24,6 +24,6 @@ virtual void System::Collections::IListImplValueType<T>::RemoveAt(int index) ove
 
 ## See Also
 
-* Class [IListImplValueType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IListImplValueType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

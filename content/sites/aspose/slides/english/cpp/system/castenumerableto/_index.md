@@ -33,11 +33,6 @@ template<class To,class From> std::enable_if<!System::detail::has_method_get_Cou
 
 A pointer to a new collection containing elements of type **To** equivalent to the elements of **enumerable**
 
-## See Also
-
-* Class [ListPtr](../../system.collections.generic/listptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::CastEnumerableTo(const From\&) function
 
 
@@ -67,6 +62,6 @@ A pointer to a new collection containing elements of type **To** equivalent to t
 
 ## See Also
 
-* Class [ListPtr](../../system.collections.generic/listptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [ListPtr](../system.collections.generic/listptr/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

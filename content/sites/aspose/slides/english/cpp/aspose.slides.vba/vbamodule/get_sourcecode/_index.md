@@ -17,7 +17,7 @@ System::String Aspose::Slides::Vba::VbaModule::get_SourceCode() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [VbaModule](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [VbaModule](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

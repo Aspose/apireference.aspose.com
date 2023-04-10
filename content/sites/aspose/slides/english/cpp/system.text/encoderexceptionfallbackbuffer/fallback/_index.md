@@ -27,11 +27,6 @@ virtual bool System::Text::EncoderExceptionFallbackBuffer::Fallback(char_t charU
 
 Never actually returns, throws instead.
 
-## See Also
-
-* Class [EncoderExceptionFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
 ## EncoderExceptionFallbackBuffer::Fallback(char_t, char_t, int) method
 
 
@@ -56,6 +51,6 @@ Never actually returns, throws instead.
 
 ## See Also
 
-* Class [EncoderExceptionFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EncoderExceptionFallbackBuffer](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

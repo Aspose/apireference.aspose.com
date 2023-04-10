@@ -17,6 +17,6 @@ bool System::Collections::Specialized::NameValueCollection::HasKeys()
 
 ## See Also
 
-* Class [NameValueCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NameValueCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

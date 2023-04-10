@@ -22,9 +22,9 @@ An array of [XmlSchemaSimpleType](../../xmlschemasimpletype/) objects representi
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaSimpleType](../../xmlschemasimpletype/)
-* Class [XmlSchemaSimpleTypeUnion](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaSimpleType](../xmlschemasimpletype/)
+* Class [XmlSchemaSimpleTypeUnion](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/masterslidecollection/removeat/
 ---
-## MasterSlideCollection::RemoveAt(**int32_t**) method
+## MasterSlideCollection::RemoveAt(int32_t) method
 
 
 Removes the element at the specified index of the collection.
@@ -28,6 +28,6 @@ void Aspose::Slides::MasterSlideCollection::RemoveAt(int32_t index) override
 To avoid throwing of the PptxEditException check master's HasDependingSlides property before. 
 ## See Also
 
-* Class [MasterSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MasterSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

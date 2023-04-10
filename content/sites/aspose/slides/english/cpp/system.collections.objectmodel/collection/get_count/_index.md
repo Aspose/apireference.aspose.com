@@ -22,6 +22,6 @@ Active element count.
 
 ## See Also
 
-* Class [Collection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Collection](./)
+* Namespace [System::Collections::ObjectModel](../)
+* Library [Aspose.Slides](../../)

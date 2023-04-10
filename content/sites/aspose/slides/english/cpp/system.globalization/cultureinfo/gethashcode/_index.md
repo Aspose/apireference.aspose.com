@@ -17,6 +17,6 @@ int System::Globalization::CultureInfo::GetHashCode() const override
 
 ## See Also
 
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

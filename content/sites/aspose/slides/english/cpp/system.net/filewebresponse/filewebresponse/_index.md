@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net/filewebresponse/filewebresponse/
 ---
-## FileWebResponse::FileWebResponse([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) constructor
+## FileWebResponse::FileWebResponse(System::SharedPtr\<Uri\>) constructor
 
 
 Constructs a new instance.
@@ -24,8 +24,8 @@ System::Net::FileWebResponse::FileWebResponse(System::SharedPtr<Uri> uri)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [FileWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [FileWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -20,14 +20,7 @@ static SharedPtr<AsymmetricAlgorithm> System::Security::Cryptography::Asymmetric
 
 Algorithm object.
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../)
-* Class [AsymmetricAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
-## AsymmetricAlgorithm::Create(const [String](../../../system/string/)\&) method
+## AsymmetricAlgorithm::Create(const String\&) method
 
 
 Creates algorithm by name. Not implemented.
@@ -49,9 +42,8 @@ Algorithm object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../)
-* Class [String](../../../system/string/)
-* Class [AsymmetricAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](./)
+* Class [String](../../system/string/)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

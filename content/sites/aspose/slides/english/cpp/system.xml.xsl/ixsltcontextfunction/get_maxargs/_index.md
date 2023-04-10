@@ -22,6 +22,6 @@ The maximum number of arguments for the function.
 
 ## See Also
 
-* Class [IXsltContextFunction](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IXsltContextFunction](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

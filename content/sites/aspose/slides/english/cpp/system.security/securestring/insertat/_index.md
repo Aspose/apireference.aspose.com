@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.security/securestring/insertat/
 ---
-## SecureString::InsertAt(**int32_t**, char16_t) method
+## SecureString::InsertAt(int32_t, char16_t) method
 
 
 Inserts a character at the specified index.
@@ -25,6 +25,6 @@ void System::Security::SecureString::InsertAt(int32_t index, char16_t c)
 
 ## See Also
 
-* Class [SecureString](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SecureString](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

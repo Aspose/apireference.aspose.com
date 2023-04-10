@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFontSources> Aspose::Slides::ILoadOptions::get_Docume
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontSources](../../ifontsources/)
-* Class [ILoadOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontSources](../ifontsources/)
+* Class [ILoadOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

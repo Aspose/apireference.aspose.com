@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.slides/ibaseportionformat/set_ishardunderlineline/
 ---
-## IBasePortionFormat::set_IsHardUnderlineLine([NullableBool](../../nullablebool/)) method
+## IBasePortionFormat::set_IsHardUnderlineLine(NullableBool) method
 
 
 Determines whether the underline style has own [LineFormat](../../lineformat/) properties or inherits it from the [LineFormat](../../lineformat/) properties of the text. Write [NullableBool](../../nullablebool/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBasePortionFormat::set_IsHardUnderlineLine(Nullabl
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [IBasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [IBasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

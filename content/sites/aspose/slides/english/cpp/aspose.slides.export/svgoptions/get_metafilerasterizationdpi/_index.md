@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Export::SVGOptions::get_MetafileRasterizationDpi() overr
 
 ## See Also
 
-* Class [SVGOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SVGOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

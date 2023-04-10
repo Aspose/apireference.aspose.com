@@ -22,7 +22,7 @@ Number format info structure associated with culture.
 
 ## See Also
 
-* Typedef [NumberFormatInfoPtr](../../numberformatinfoptr/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [NumberFormatInfoPtr](../numberformatinfoptr/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

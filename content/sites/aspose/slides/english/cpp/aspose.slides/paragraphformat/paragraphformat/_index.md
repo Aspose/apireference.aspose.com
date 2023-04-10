@@ -17,6 +17,6 @@ Aspose::Slides::ParagraphFormat::ParagraphFormat()
 
 ## See Also
 
-* Class [ParagraphFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ParagraphFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

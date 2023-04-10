@@ -18,6 +18,6 @@ bool Aspose::Slides::MasterSlide::get_ShowMasterShapes() override
 
 ## See Also
 
-* Class [MasterSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MasterSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

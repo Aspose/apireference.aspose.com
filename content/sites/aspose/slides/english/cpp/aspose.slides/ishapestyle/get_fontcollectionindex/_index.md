@@ -17,7 +17,7 @@ virtual Aspose::Slides::FontCollectionIndex Aspose::Slides::IShapeStyle::get_Fon
 
 ## See Also
 
-* Enum [FontCollectionIndex](../../fontcollectionindex/)
-* Class [IShapeStyle](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FontCollectionIndex](../fontcollectionindex/)
+* Class [IShapeStyle](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

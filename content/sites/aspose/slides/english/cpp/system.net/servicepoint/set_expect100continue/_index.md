@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net/servicepoint/set_expect100continue/
 ---
-## ServicePoint::set_Expect100Continue(**bool**) method
+## ServicePoint::set_Expect100Continue(bool) method
 
 
 Sets a value that indicates if the 100-Continue behavior is used.
@@ -24,6 +24,6 @@ void System::Net::ServicePoint::set_Expect100Continue(bool value)
 
 ## See Also
 
-* Class [ServicePoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

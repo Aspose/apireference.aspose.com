@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.effects/iimagetransformoperationfactory/createalphamodulatefixed/
 ---
-## IImageTransformOperationFactory::CreateAlphaModulateFixed(**float**) method
+## IImageTransformOperationFactory::CreateAlphaModulateFixed(float) method
 
 
 Creates Alpha modulate fixed effect.
@@ -28,8 +28,8 @@ Alpha modulate fixed effect.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAlphaModulateFixed](../../ialphamodulatefixed/)
-* Class [IImageTransformOperationFactory](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAlphaModulateFixed](../ialphamodulatefixed/)
+* Class [IImageTransformOperationFactory](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

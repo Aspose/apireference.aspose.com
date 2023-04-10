@@ -17,8 +17,8 @@ System::SharedPtr<IColorFormat> Aspose::Slides::Effects::ColorReplace::get_Color
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorFormat](../../../aspose.slides/icolorformat/)
-* Class [ColorReplace](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorFormat](../../aspose.slides/icolorformat/)
+* Class [ColorReplace](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net/networkcredential/set_domain/
 ---
-## NetworkCredential::set_Domain([String](../../../system/string/)) method
+## NetworkCredential::set_Domain(String) method
 
 
 Sets the domain that verifies the credentials.
@@ -24,7 +24,7 @@ void System::Net::NetworkCredential::set_Domain(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NetworkCredential](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NetworkCredential](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

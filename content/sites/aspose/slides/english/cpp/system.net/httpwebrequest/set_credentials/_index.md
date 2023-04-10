@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.net/httpwebrequest/set_credentials/
 ---
-## HttpWebRequest::set_Credentials([System::SharedPtr](../../../system/sharedptr/)\<[ICredentials](../../icredentials/)\>) method
+## HttpWebRequest::set_Credentials(System::SharedPtr\<ICredentials\>) method
 
 
 Sets authentication information that is associated with the current request.
@@ -24,8 +24,8 @@ void System::Net::HttpWebRequest::set_Credentials(System::SharedPtr<ICredentials
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICredentials](../../icredentials/)
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICredentials](../icredentials/)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

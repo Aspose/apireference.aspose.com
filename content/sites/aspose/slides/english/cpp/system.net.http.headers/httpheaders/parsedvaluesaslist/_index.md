@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.net.http.headers/httpheaders/parsedvaluesaslist/
 ---
-## HttpHeaders::ParsedValuesAsList(const [System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## HttpHeaders::ParsedValuesAsList(const System::SharedPtr\<Object\>) method
 
 
 Converts parsed values to list.
@@ -28,9 +28,9 @@ If the passed value is a List instance, returns it; otherwise, returns nullptr.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [List](../../../system.collections.generic/list/)
-* Class [Object](../../../system/object/)
-* Class [HttpHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [List](../../system.collections.generic/list/)
+* Class [Object](../../system/object/)
+* Class [HttpHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

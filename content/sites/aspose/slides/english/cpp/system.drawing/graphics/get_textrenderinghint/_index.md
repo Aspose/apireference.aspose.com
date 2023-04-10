@@ -17,7 +17,7 @@ Text::TextRenderingHint System::Drawing::Graphics::get_TextRenderingHint()
 
 ## See Also
 
-* Enum [TextRenderingHint](../../../system.drawing.text/textrenderinghint/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextRenderingHint](../../system.drawing.text/textrenderinghint/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

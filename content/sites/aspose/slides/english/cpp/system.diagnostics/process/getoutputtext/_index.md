@@ -22,7 +22,7 @@ String System::Diagnostics::Process::GetOutputText() const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Process](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Process](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

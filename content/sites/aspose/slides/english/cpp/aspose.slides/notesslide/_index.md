@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/notesslide/
 Represents a notes slide in a presentation.
 
 ```cpp
-class NotesSlide : public Aspose::Slides::BaseSlide,
-                   public Aspose::Slides::INotesSlide
+class NotesSlide : public Aspose::Slides::BaseSlide,                   public Aspose::Slides::INotesSlide
 ```
 
 ## Methods

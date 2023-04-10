@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net.http/httpcontent/trycomputelength/
 ---
-## HttpContent::TryComputeLength(**int64_t**\&) method
+## HttpContent::TryComputeLength(int64_t\&) method
 
 
 Tries to calculate the content size.
@@ -28,6 +28,6 @@ True when the size is successfully updated, otherwise false.
 
 ## See Also
 
-* Class [HttpContent](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpContent](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

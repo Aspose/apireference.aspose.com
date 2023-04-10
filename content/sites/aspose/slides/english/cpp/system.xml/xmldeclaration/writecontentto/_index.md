@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.xml/xmldeclaration/writecontentto/
 ---
-## XmlDeclaration::WriteContentTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
+## XmlDeclaration::WriteContentTo(const SharedPtr\<XmlWriter\>\&) method
 
 
 Saves the children of the node to the specified [XmlWriter](../../xmlwriter/). Because [XmlDeclaration](../) nodes do not have children, this method has no effect.
@@ -24,8 +24,8 @@ void System::Xml::XmlDeclaration::WriteContentTo(const SharedPtr<XmlWriter> &w) 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../xmlwriter/)
-* Class [XmlDeclaration](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../xmlwriter/)
+* Class [XmlDeclaration](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

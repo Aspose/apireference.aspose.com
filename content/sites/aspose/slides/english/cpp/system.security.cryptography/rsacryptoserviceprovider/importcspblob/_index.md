@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/importcspblob/
 ---
-## RSACryptoServiceProvider::ImportCspBlob([ByteArrayPtr](../../../system/bytearrayptr/)) method
+## RSACryptoServiceProvider::ImportCspBlob(ByteArrayPtr) method
 
 
 Imports blob with information on key. Not implemented.
@@ -24,7 +24,7 @@ void System::Security::Cryptography::RSACryptoServiceProvider::ImportCspBlob(Byt
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Class [RSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
+* Class [RSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

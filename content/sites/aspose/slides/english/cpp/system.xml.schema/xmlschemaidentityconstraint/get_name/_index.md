@@ -22,7 +22,7 @@ The name of the identity constraint.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaIdentityConstraint](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaIdentityConstraint](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

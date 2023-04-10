@@ -17,7 +17,7 @@ System::SharedPtr<HttpRequest> System::Web::HttpContext::get_Request()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpContext](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpContext](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

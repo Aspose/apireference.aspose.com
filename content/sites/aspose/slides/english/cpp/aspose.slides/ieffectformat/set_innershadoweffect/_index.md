@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/ieffectformat/set_innershadoweffect/
 ---
-## IEffectFormat::set_InnerShadowEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::IInnerShadow](../../../aspose.slides.effects/iinnershadow/)\>) method
+## IEffectFormat::set_InnerShadowEffect(System::SharedPtr\<Effects::IInnerShadow\>) method
 
 
 Inner shadow. Write [Effects::IInnerShadow](../../../aspose.slides.effects/iinnershadow/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IEffectFormat::set_InnerShadowEffect(System::Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IInnerShadow](../../../aspose.slides.effects/iinnershadow/)
-* Class [IEffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IInnerShadow](../../aspose.slides.effects/iinnershadow/)
+* Class [IEffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

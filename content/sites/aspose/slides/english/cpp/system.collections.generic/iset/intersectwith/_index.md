@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.collections.generic/iset/intersectwith/
 ---
-## ISet::IntersectWith([IEnumerablePtr](../ienumerableptr/)) method
+## ISet::IntersectWith(IEnumerablePtr) method
 
 
 Removes elements not present in different container.
@@ -24,7 +24,7 @@ virtual void System::Collections::Generic::ISet<T>::IntersectWith(IEnumerablePtr
 
 ## See Also
 
-* Typedef [IEnumerablePtr](../ienumerableptr/)
-* Class [ISet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumerablePtr](./ienumerableptr/)
+* Class [ISet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

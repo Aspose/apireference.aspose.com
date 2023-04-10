@@ -17,6 +17,6 @@ System::Net::HttpRequestHeaderExtensions::HttpRequestHeaderExtensions()=delete
 
 ## See Also
 
-* Class [HttpRequestHeaderExtensions](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpRequestHeaderExtensions](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

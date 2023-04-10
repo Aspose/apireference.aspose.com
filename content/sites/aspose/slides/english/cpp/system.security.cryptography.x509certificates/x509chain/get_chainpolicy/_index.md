@@ -18,8 +18,8 @@ SharedPtr<X509ChainPolicy> System::Security::Cryptography::X509Certificates::X50
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509ChainPolicy](../../x509chainpolicy/)
-* Class [X509Chain](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [X509ChainPolicy](../x509chainpolicy/)
+* Class [X509Chain](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

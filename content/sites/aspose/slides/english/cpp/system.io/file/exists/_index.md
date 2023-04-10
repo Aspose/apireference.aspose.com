@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.io/file/exists/
 ---
-## File::Exists(const [String](../../../system/string/)\&) method
+## File::Exists(const String\&) method
 
 
 Determines if the specified path references an existing file.
@@ -28,7 +28,7 @@ True if the **path** references an existing file, otherwise - false
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

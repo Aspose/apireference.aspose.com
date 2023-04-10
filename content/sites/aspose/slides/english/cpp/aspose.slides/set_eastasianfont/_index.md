@@ -6,7 +6,7 @@ type: docs
 weight: 5396
 url: /cpp/aspose.slides/set_eastasianfont/
 ---
-## Aspose::Slides::set_EastAsianFont([System::SharedPtr](../../system/sharedptr/)\<[IFontData](../ifontdata/)\>) function
+## Aspose::Slides::set_EastAsianFont(System::SharedPtr\<IFontData\>) function
 
 
 Sets the East Asian font. Write [IFontData](../ifontdata/).
@@ -17,7 +17,7 @@ void Aspose::Slides::set_EastAsianFont(System::SharedPtr<IFontData> value) overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [IFontData](../ifontdata/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../system/sharedptr/)
+* Class [IFontData](./ifontdata/)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

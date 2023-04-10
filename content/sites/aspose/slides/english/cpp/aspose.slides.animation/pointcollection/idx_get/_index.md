@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/pointcollection/idx_get/
 ---
-## PointCollection::idx_get(**int32_t**) method
+## PointCollection::idx_get(int32_t) method
 
 
 Returns a point at the specified index.
@@ -28,8 +28,8 @@ System::SharedPtr<IPoint> Aspose::Slides::Animation::PointCollection::idx_get(in
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPoint](../../ipoint/)
-* Class [PointCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPoint](../ipoint/)
+* Class [PointCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

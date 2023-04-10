@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides/ipictureframelock/set_arrowheadslocked/
 ---
-## IPictureFrameLock::set_ArrowheadsLocked(**bool**) method
+## IPictureFrameLock::set_ArrowheadsLocked(bool) method
 
 
 Determines whether a changing arrowheads is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFrameLock::set_ArrowheadsLocked(bool value)
 
 ## See Also
 
-* Class [IPictureFrameLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPictureFrameLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

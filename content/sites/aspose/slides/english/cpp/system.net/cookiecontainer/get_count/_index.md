@@ -22,6 +22,6 @@ The number of the collection's items.
 
 ## See Also
 
-* Class [CookieContainer](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CookieContainer](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

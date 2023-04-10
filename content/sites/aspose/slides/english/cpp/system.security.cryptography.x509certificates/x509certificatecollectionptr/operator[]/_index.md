@@ -28,8 +28,8 @@ Certificate at specified position.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509Certificate](../../x509certificate/)
-* Class [X509CertificateCollectionPtr](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [X509Certificate](../x509certificate/)
+* Class [X509CertificateCollectionPtr](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

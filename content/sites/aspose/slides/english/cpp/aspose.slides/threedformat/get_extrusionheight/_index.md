@@ -17,6 +17,6 @@ double Aspose::Slides::ThreeDFormat::get_ExtrusionHeight() override
 
 ## See Also
 
-* Class [ThreeDFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ThreeDFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/emptytransition/
 Empty slide transition effect.
 
 ```cpp
-class EmptyTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                        public Aspose::Slides::SlideShow::IEmptyTransition
+class EmptyTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                        public Aspose::Slides::SlideShow::IEmptyTransition
 ```
 
 ## Methods

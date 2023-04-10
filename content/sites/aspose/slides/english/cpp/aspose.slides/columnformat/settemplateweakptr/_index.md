@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/columnformat/settemplateweakptr/
 ---
-## ColumnFormat::SetTemplateWeakPtr(**uint32_t**) method
+## ColumnFormat::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::ColumnFormat::SetTemplateWeakPtr(uint32_t argument) overrid
 
 ## See Also
 
-* Class [ColumnFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColumnFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

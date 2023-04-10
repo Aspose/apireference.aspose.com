@@ -17,8 +17,8 @@ System::SharedPtr<Vba::IVbaProject> Aspose::Slides::Presentation::get_VbaProject
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaProject](../../../aspose.slides.vba/ivbaproject/)
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaProject](../../aspose.slides.vba/ivbaproject/)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

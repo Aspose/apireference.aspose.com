@@ -17,6 +17,6 @@ bool Aspose::Slides::LayoutSlideCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [LayoutSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LayoutSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides/itable/set_verticalbanding/
 ---
-## ITable::set_VerticalBanding(**bool**) method
+## ITable::set_VerticalBanding(bool) method
 
 
 Determines whether the even columns has to be drawn with a different formatting. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITable::set_VerticalBanding(bool value)=0
 
 ## See Also
 
-* Class [ITable](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITable](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

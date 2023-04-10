@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.smartart/ismartartshapecollection/idx_get/
 ---
-## ISmartArtShapeCollection::idx_get(**int32_t**) method
+## ISmartArtShapeCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [ISmartArtShape](../../ismartartshape/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISmartArtShape> Aspose::Slides::SmartArt::ISmartArtSha
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISmartArtShape](../../ismartartshape/)
-* Class [ISmartArtShapeCollection](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISmartArtShape](../ismartartshape/)
+* Class [ISmartArtShapeCollection](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

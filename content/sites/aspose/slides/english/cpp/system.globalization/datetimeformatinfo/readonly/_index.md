@@ -6,7 +6,7 @@ type: docs
 weight: 859
 url: /cpp/system.globalization/datetimeformatinfo/readonly/
 ---
-## DateTimeFormatInfo::ReadOnly(const [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)\&) method
+## DateTimeFormatInfo::ReadOnly(const DateTimeFormatInfoPtr\&) method
 
 
 Gets read-only version of formatter.
@@ -28,7 +28,7 @@ if **info** is read-only, returns it, otherwise creates a copy of it and marks i
 
 ## See Also
 
-* Typedef [DateTimeFormatInfoPtr](../../datetimeformatinfoptr/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DateTimeFormatInfoPtr](../datetimeformatinfoptr/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

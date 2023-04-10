@@ -22,6 +22,6 @@ True if stream was created with [CryptoStreamMode::Read](../../cryptostreammode/
 
 ## See Also
 
-* Class [CryptoStream](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CryptoStream](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

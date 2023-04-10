@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemakeyref/set_refer/
 ---
-## XmlSchemaKeyref::set_Refer(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
+## XmlSchemaKeyref::set_Refer(const SharedPtr\<XmlQualifiedName\>\&) method
 
 
 Sets the name of the key that this constraint refers to in another simple or complex type.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaKeyref::set_Refer(const SharedPtr<XmlQualifie
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaKeyref](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaKeyref](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

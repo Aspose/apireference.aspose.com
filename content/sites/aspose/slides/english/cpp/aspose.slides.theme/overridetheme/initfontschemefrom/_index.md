@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.theme/overridetheme/initfontschemefrom/
 ---
-## OverrideTheme::InitFontSchemeFrom([System::SharedPtr](../../../system/sharedptr/)\<[IFontScheme](../../ifontscheme/)\>) method
+## OverrideTheme::InitFontSchemeFrom(System::SharedPtr\<IFontScheme\>) method
 
 
 Init [FontScheme](../../fontscheme/) with new object for overriding [FontScheme](../../fontscheme/) of InheritedTheme.
@@ -24,8 +24,8 @@ void Aspose::Slides::Theme::OverrideTheme::InitFontSchemeFrom(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontScheme](../../ifontscheme/)
-* Class [OverrideTheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontScheme](../ifontscheme/)
+* Class [OverrideTheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

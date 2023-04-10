@@ -26,11 +26,6 @@ vector_t::reference System::Collections::Generic::List<T>::operator[](int index)
 
 Reference to element at specified position.
 
-## See Also
-
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## List::operator[](int) const method
 
 
@@ -53,6 +48,6 @@ Const reference to element at specified position.
 
 ## See Also
 
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/icamera/set_cameratype/
 ---
-## ICamera::set_CameraType([CameraPresetType](../../camerapresettype/)) method
+## ICamera::set_CameraType(CameraPresetType) method
 
 
 [Camera](../../camera/) type Write [CameraPresetType](../../camerapresettype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ICamera::set_CameraType(CameraPresetType value)=0
 
 ## See Also
 
-* Enum [CameraPresetType](../../camerapresettype/)
-* Class [ICamera](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CameraPresetType](../camerapresettype/)
+* Class [ICamera](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_nostore/
 ---
-## CacheControlHeaderValue::set_NoStore(**bool**) method
+## CacheControlHeaderValue::set_NoStore(bool) method
 
 
 Sets the value that determines if a cache must not store any part of an HTTP request or response.
@@ -24,6 +24,6 @@ void System::Net::Http::Headers::CacheControlHeaderValue::set_NoStore(bool value
 
 ## See Also
 
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

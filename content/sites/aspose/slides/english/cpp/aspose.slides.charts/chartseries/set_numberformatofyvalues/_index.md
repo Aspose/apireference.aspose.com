@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.slides.charts/chartseries/set_numberformatofyvalues/
 ---
-## ChartSeries::set_NumberFormatOfYValues([System::String](../../../system/string/)) method
+## ChartSeries::set_NumberFormatOfYValues(System::String) method
 
 
 NumberFormatOfYValues. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartSeries::set_NumberFormatOfYValues(System::Stri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

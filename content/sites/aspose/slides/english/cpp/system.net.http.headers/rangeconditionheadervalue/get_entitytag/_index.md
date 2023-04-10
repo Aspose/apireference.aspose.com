@@ -22,8 +22,8 @@ The 'ETag' header value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [EntityTagHeaderValue](../../entitytagheadervalue/)
-* Class [RangeConditionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [EntityTagHeaderValue](../entitytagheadervalue/)
+* Class [RangeConditionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::IShapeFrame::get_FlipH()=0
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [IShapeFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [IShapeFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

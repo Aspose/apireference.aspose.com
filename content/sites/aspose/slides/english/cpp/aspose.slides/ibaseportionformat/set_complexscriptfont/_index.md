@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/aspose.slides/ibaseportionformat/set_complexscriptfont/
 ---
-## IBasePortionFormat::set_ComplexScriptFont([System::SharedPtr](../../../system/sharedptr/)\<[IFontData](../../ifontdata/)\>) method
+## IBasePortionFormat::set_ComplexScriptFont(System::SharedPtr\<IFontData\>) method
 
 
 Sets the complex script font info. Null means font is undefined and should be inherited from the Master. Write [IFontData](../../ifontdata/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IBasePortionFormat::set_ComplexScriptFont(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontData](../../ifontdata/)
-* Class [IBasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontData](../ifontdata/)
+* Class [IBasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

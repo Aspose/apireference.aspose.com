@@ -28,6 +28,6 @@ True if the type of the boxed value represented by the current object is **V**, 
 
 ## See Also
 
-* Class [DefaultBoxedValue](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DefaultBoxedValue](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

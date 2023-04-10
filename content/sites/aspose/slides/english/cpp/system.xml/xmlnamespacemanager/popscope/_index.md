@@ -22,6 +22,6 @@ virtual bool System::Xml::XmlNamespaceManager::PopScope()
 
 ## See Also
 
-* Class [XmlNamespaceManager](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlNamespaceManager](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

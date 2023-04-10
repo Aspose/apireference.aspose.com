@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.slides.charts/ichartseries/set_numberformatofbubblesizes/
 ---
-## IChartSeries::set_NumberFormatOfBubbleSizes([System::String](../../../system/string/)) method
+## IChartSeries::set_NumberFormatOfBubbleSizes(System::String) method
 
 
 Sets the number format for series bubble sizes. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartSeries::set_NumberFormatOfBubbleSizes
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

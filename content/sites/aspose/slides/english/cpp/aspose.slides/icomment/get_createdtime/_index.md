@@ -21,7 +21,7 @@ virtual System::DateTime Aspose::Slides::IComment::get_CreatedTime()=0
 [Comment](../../comment/) time is an optional parameter.
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [IComment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [IComment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

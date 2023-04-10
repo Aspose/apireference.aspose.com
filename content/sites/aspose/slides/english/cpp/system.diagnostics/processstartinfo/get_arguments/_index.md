@@ -22,7 +22,7 @@ String System::Diagnostics::ProcessStartInfo::get_Arguments() const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ProcessStartInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ProcessStartInfo](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

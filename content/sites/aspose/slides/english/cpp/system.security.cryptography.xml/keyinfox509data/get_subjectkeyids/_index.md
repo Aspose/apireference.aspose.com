@@ -17,9 +17,9 @@ SharedPtr<Collections::Generic::IList<ArrayPtr<uint8_t>>> System::Security::Cryp
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IList](../../../system.collections.generic/ilist/)
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [KeyInfoX509Data](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [IList](../../system.collections.generic/ilist/)
+* Class [KeyInfoX509Data](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

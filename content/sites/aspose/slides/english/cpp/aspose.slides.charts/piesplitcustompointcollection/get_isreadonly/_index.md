@@ -22,6 +22,6 @@ true if the [ICollection](../../../system.collections.generic/icollection/) is r
 
 ## See Also
 
-* Class [PieSplitCustomPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PieSplitCustomPointCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

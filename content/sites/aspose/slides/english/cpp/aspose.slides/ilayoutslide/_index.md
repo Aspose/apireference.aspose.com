@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/ilayoutslide/
 Represents a layout slide.
 
 ```cpp
-class ILayoutSlide : public virtual Aspose::Slides::IBaseSlide,
-                     public Aspose::Slides::Theme::IOverrideThemeable
+class ILayoutSlide : public virtual Aspose::Slides::IBaseSlide,                     public Aspose::Slides::Theme::IOverrideThemeable
 ```
 
 ## Methods

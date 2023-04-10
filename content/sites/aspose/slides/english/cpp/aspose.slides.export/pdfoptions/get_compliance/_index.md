@@ -21,7 +21,7 @@ PdfCompliance Aspose::Slides::Export::PdfOptions::get_Compliance() override
 Default is [PdfCompliance::Pdf17](../../pdfcompliance/). 
 ## See Also
 
-* Enum [PdfCompliance](../../pdfcompliance/)
-* Class [PdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PdfCompliance](../pdfcompliance/)
+* Class [PdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

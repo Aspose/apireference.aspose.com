@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.net/httpwebrequest/set_protocolversion/
 ---
-## HttpWebRequest::set_ProtocolVersion([System::Version](../../../system/version/)) method
+## HttpWebRequest::set_ProtocolVersion(System::Version) method
 
 
 Sets the version of the HTTP.
@@ -24,7 +24,7 @@ void System::Net::HttpWebRequest::set_ProtocolVersion(System::Version version)
 
 ## See Also
 
-* Class [Version](../../../system/version/)
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Version](../../system/version/)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

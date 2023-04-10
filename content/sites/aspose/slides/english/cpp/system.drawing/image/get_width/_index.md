@@ -17,6 +17,6 @@ virtual int System::Drawing::Image::get_Width() const =0
 
 ## See Also
 
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

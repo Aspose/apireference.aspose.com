@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlreadersettings/set_nametable/
 ---
-## XmlReaderSettings::set_NameTable(const [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../xmlnametable/)\>\&) method
+## XmlReaderSettings::set_NameTable(const SharedPtr\<XmlNameTable\>\&) method
 
 
 Sets the [XmlNameTable](../../xmlnametable/) used for atomized string comparisons.
@@ -24,8 +24,8 @@ void System::Xml::XmlReaderSettings::set_NameTable(const SharedPtr<XmlNameTable>
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNameTable](../../xmlnametable/)
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNameTable](../xmlnametable/)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

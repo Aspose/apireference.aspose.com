@@ -17,6 +17,6 @@ double Aspose::Slides::ShapeBevel::get_Width() override
 
 ## See Also
 
-* Class [ShapeBevel](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ShapeBevel](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

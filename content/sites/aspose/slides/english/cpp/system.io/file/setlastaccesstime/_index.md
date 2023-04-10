@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/system.io/file/setlastaccesstime/
 ---
-## File::SetLastAccessTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## File::SetLastAccessTime(const String\&, DateTime) method
 
 
 NOT IMPLEMENTED.
@@ -18,8 +18,8 @@ static void System::IO::File::SetLastAccessTime(const String &path, DateTime las
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

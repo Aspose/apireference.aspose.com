@@ -22,8 +22,8 @@ Database data reader object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DbDataReader](../../dbdatareader/)
-* Class [DbCommand](../)
-* Namespace [System::Data::Common](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DbDataReader](../dbdatareader/)
+* Class [DbCommand](./)
+* Namespace [System::Data::Common](../)
+* Library [Aspose.Slides](../../)

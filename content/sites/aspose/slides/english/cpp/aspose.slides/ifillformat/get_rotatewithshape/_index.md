@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::IFillFormat::get_RotateWithShape()=0
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [IFillFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [IFillFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

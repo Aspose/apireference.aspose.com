@@ -17,6 +17,6 @@ float Aspose::Slides::AdjustValue::get_AngleValue() override
 
 ## See Also
 
-* Class [AdjustValue](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AdjustValue](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

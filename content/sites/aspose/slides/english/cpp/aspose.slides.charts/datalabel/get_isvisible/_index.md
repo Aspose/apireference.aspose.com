@@ -21,6 +21,6 @@ bool Aspose::Slides::Charts::DataLabel::get_IsVisible() override
 If data label is visible you can make it hidden with [Hide()](../hide/) method. But if data label is not visible (IsVisible is false) you can make data label visible with setting Show*-flags (ShowValue, ...) to true state. 
 ## See Also
 
-* Class [DataLabel](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DataLabel](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

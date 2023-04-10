@@ -22,7 +22,7 @@ The node type. For [XmlDocument](../) nodes, this value is [XmlNodeType::Documen
 
 ## See Also
 
-* Enum [XmlNodeType](../../xmlnodetype/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlNodeType](../xmlnodetype/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

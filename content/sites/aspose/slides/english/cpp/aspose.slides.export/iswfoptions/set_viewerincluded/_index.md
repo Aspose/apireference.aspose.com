@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/iswfoptions/set_viewerincluded/
 ---
-## ISwfOptions::set_ViewerIncluded(**bool**) method
+## ISwfOptions::set_ViewerIncluded(bool) method
 
 
 Specifies whether the generated SWF document should include the integrated document viewer or not. Default is **true**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISwfOptions::set_ViewerIncluded(bool value)
 
 ## See Also
 
-* Class [ISwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

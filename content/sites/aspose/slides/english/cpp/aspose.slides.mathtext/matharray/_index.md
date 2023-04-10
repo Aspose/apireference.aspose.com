@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/matharray/
 Specifies a vertical array of equations or any mathematical objects
 
 ```cpp
-class MathArray : public Aspose::Slides::MathText::MathElementBase,
-                  public Aspose::Slides::MathText::IMathArray
+class MathArray : public Aspose::Slides::MathText::MathElementBase,                  public Aspose::Slides::MathText::IMathArray
 ```
 
 ## Methods

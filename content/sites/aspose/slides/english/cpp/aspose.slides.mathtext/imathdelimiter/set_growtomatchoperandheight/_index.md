@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.mathtext/imathdelimiter/set_growtomatchoperandheight/
 ---
-## IMathDelimiter::set_GrowToMatchOperandHeight(**bool**) method
+## IMathDelimiter::set_GrowToMatchOperandHeight(bool) method
 
 
 Specifies the growth of BeginningCharacter, SeparatorCharacter, EndingCharacter When true, the delimiters grows vertically to match its operand height. The default value is true
@@ -26,6 +26,6 @@ delimiter->set_GrowToMatchOperandHeight(false);
 
 ## See Also
 
-* Class [IMathDelimiter](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathDelimiter](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

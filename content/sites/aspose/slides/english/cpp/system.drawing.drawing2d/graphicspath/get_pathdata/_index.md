@@ -17,8 +17,8 @@ SharedPtr<PathData> System::Drawing::Drawing2D::GraphicsPath::get_PathData()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PathData](../../pathdata/)
-* Class [GraphicsPath](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [PathData](../pathdata/)
+* Class [GraphicsPath](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

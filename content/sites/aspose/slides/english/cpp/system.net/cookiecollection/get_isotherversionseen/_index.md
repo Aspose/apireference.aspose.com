@@ -22,6 +22,6 @@ True when the collection contains a cookie with a version that is not equal to [
 
 ## See Also
 
-* Class [CookieCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CookieCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

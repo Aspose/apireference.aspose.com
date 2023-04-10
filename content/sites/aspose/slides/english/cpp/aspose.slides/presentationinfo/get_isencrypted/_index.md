@@ -17,6 +17,6 @@ bool Aspose::Slides::PresentationInfo::get_IsEncrypted() override
 
 ## See Also
 
-* Class [PresentationInfo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PresentationInfo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

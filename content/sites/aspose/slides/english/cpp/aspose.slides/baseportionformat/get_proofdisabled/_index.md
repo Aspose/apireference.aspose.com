@@ -17,7 +17,7 @@ NullableBool Aspose::Slides::BasePortionFormat::get_ProofDisabled() override
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [BasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [BasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

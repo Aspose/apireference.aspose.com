@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/orientationtransition/
 Orientation slide transition effect.
 
 ```cpp
-class OrientationTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                              public Aspose::Slides::SlideShow::IOrientationTransition
+class OrientationTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                              public Aspose::Slides::SlideShow::IOrientationTransition
 ```
 
 ## Methods

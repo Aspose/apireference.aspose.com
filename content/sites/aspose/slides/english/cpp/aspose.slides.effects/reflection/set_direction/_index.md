@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides.effects/reflection/set_direction/
 ---
-## Reflection::set_Direction(**float**) method
+## Reflection::set_Direction(float) method
 
 
 Direction of reflection. Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::Reflection::set_Direction(float value) override
 
 ## See Also
 
-* Class [Reflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Reflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

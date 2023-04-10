@@ -17,8 +17,8 @@ virtual System::SharedPtr<IBackground> Aspose::Slides::IBaseSlide::get_Backgroun
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBackground](../../ibackground/)
-* Class [IBaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBackground](../ibackground/)
+* Class [IBaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

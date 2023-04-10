@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/animationtimeline/get_interactivesequence/
 ---
-## AnimationTimeLine::get_InteractiveSequence(**int32_t**) method
+## AnimationTimeLine::get_InteractiveSequence(int32_t) method
 
 
 Returns interactive sequence at the specified index. This sequence may contain only effects by \"click on shape\" with specifies target shape.
@@ -17,8 +17,8 @@ System::SharedPtr<ISequence> Aspose::Slides::Animation::AnimationTimeLine::get_I
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISequence](../../isequence/)
-* Class [AnimationTimeLine](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISequence](../isequence/)
+* Class [AnimationTimeLine](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.theme/extracolorschemecollection/
 Represents a collection of additional color schemes.
 
 ```cpp
-class ExtraColorSchemeCollection : public Aspose::Slides::Theme::IExtraColorSchemeCollection,
-                                   public Aspose::Slides::IDOMObject
+class ExtraColorSchemeCollection : public Aspose::Slides::Theme::IExtraColorSchemeCollection,                                   public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

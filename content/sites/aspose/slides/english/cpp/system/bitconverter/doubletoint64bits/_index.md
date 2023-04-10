@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system/bitconverter/doubletoint64bits/
 ---
-## BitConverter::DoubleToInt64Bits(**double**) method
+## BitConverter::DoubleToInt64Bits(double) method
 
 
 Returns a 64-bit integer value whose binary representation is equal to binary representation of the specified double-precision floating point value.
@@ -28,6 +28,6 @@ static int64_t System::BitConverter::DoubleToInt64Bits(double value)
 
 ## See Also
 
-* Class [BitConverter](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitConverter](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

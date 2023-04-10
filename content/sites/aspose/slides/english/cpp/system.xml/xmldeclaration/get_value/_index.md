@@ -22,7 +22,7 @@ The contents of the [XmlDeclaration](../) (that is, everything between **<?xml**
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDeclaration](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDeclaration](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

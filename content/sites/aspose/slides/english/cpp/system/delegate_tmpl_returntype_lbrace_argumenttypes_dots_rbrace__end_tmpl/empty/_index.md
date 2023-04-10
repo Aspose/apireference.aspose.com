@@ -22,6 +22,6 @@ True if current delegate object does not point to a function, a method of a func
 
 ## See Also
 
-* Class [Delegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Delegate< ReturnType(ArgumentTypes...)>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.net/ipendpoint/set_address/
 ---
-## IPEndPoint::set_Address([System::SharedPtr](../../../system/sharedptr/)\<[IPAddress](../../ipaddress/)\>) method
+## IPEndPoint::set_Address(System::SharedPtr\<IPAddress\>) method
 
 
 Sets the endpoint address.
@@ -24,8 +24,8 @@ void System::Net::IPEndPoint::set_Address(System::SharedPtr<IPAddress> value)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPAddress](../../ipaddress/)
-* Class [IPEndPoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPAddress](../ipaddress/)
+* Class [IPEndPoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

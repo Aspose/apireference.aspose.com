@@ -17,6 +17,6 @@ bool Aspose::Slides::SlideShow::SlideShowTransition::get_SoundIsBuiltIn() overri
 
 ## See Also
 
-* Class [SlideShowTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideShowTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

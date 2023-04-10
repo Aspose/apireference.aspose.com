@@ -17,6 +17,6 @@ virtual System::Security::Cryptography::HashAlgorithm::~HashAlgorithm()
 
 ## See Also
 
-* Class [HashAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HashAlgorithm](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

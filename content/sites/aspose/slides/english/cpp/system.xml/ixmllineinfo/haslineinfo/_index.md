@@ -22,6 +22,6 @@ virtual bool System::Xml::IXmlLineInfo::HasLineInfo()=0
 
 ## See Also
 
-* Class [IXmlLineInfo](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IXmlLineInfo](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

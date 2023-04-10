@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.globalization/textinfo/readonly/
 ---
-## TextInfo::ReadOnly(const [TextInfoPtr](../../textinfoptr/)\&) method
+## TextInfo::ReadOnly(const TextInfoPtr\&) method
 
 
 Gets a read only version of culture.
@@ -28,7 +28,7 @@ If **text_info** is read-only, returns same object, otherwise creates a read-onl
 
 ## See Also
 
-* Typedef [TextInfoPtr](../../textinfoptr/)
-* Class [TextInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [TextInfoPtr](../textinfoptr/)
+* Class [TextInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

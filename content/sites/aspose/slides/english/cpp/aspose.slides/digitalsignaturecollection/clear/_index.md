@@ -17,6 +17,6 @@ void Aspose::Slides::DigitalSignatureCollection::Clear() override
 
 ## See Also
 
-* Class [DigitalSignatureCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DigitalSignatureCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

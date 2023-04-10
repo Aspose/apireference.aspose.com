@@ -28,7 +28,7 @@ Reference to string at specified position, either existing or newly created.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringCollectionPtr](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringCollectionPtr](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

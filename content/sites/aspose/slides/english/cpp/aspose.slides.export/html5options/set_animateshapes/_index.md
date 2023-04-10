@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/html5options/set_animateshapes/
 ---
-## Html5Options::set_AnimateShapes(**bool**) method
+## Html5Options::set_AnimateShapes(bool) method
 
 
 Sets shapes animation option. Write **bool**.
@@ -33,6 +33,6 @@ pres->Save(u"demo-animate-shapes.html", SaveFormat::Html5, options);
 
 ## See Also
 
-* Class [Html5Options](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Html5Options](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

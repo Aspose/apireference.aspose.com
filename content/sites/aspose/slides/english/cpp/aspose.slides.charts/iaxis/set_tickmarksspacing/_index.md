@@ -6,7 +6,7 @@ type: docs
 weight: 924
 url: /cpp/aspose.slides.charts/iaxis/set_tickmarksspacing/
 ---
-## IAxis::set_TickMarksSpacing(**uint32_t**) method
+## IAxis::set_TickMarksSpacing(uint32_t) method
 
 
 Specifies how many tick marks shall be skipped before the next one shall be drawn. Applied to category or series axis. Write **uint16_t**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_TickMarksSpacing(uint32_t value)
 
 ## See Also
 
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

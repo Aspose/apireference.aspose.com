@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPPImage> Aspose::Slides::ISlidesPicture::get_Image()=
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPPImage](../../ippimage/)
-* Class [ISlidesPicture](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPPImage](../ippimage/)
+* Class [ISlidesPicture](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

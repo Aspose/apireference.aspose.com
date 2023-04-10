@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/ilayoutslide/set_masterslide/
 ---
-## ILayoutSlide::set_MasterSlide([System::SharedPtr](../../../system/sharedptr/)\<[IMasterSlide](../../imasterslide/)\>) method
+## ILayoutSlide::set_MasterSlide(System::SharedPtr\<IMasterSlide\>) method
 
 
 Sets the master slide for a layout. Write [IMasterSlide](../../imasterslide/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::ILayoutSlide::set_MasterSlide(System::SharedPtr<IMa
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterSlide](../../imasterslide/)
-* Class [ILayoutSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterSlide](../imasterslide/)
+* Class [ILayoutSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_responsenamespace/
 ---
-## SoapDocumentMethodAttribute::set_ResponseNamespace([String](../../../system/string/)) method
+## SoapDocumentMethodAttribute::set_ResponseNamespace(String) method
 
 
 Sets the namespace associated with the SOAP response.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_Response
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SoapDocumentMethodAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SoapDocumentMethodAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

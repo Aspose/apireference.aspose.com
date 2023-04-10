@@ -17,6 +17,6 @@ virtual void System::Security::Cryptography::HashAlgorithm::Initialize()
 
 ## See Also
 
-* Class [HashAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HashAlgorithm](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

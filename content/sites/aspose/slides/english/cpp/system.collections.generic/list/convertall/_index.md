@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/system.collections.generic/list/convertall/
 ---
-## List::ConvertAll([Converter](../../../system/converter/)\<T, OutputType\>) method
+## List::ConvertAll(Converter\<T, OutputType\>) method
 
 
 Creates a list of elements converted to different type.
@@ -34,9 +34,8 @@ A newly created list of converted elements.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [List](../)
-* Typedef [Converter](../../../system/converter/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Typedef [Converter](../../system/converter/)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

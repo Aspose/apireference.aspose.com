@@ -22,7 +22,7 @@ The computed hash code.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Bitmap](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

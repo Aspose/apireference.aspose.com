@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ILoadOptions::get_OnlyLoadDocumentProperties()=0
 
 ## See Also
 
-* Class [ILoadOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILoadOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

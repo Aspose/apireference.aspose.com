@@ -22,6 +22,6 @@ The maximum idle time of the ServicePoint-class instances.
 
 ## See Also
 
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

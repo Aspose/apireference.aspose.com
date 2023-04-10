@@ -17,7 +17,7 @@ TKey System::Collections::Generic::_KeyCollection<Dict>::idx_get(int index) cons
 
 ## See Also
 
-* Typedef [TKey](../tkey/)
-* Class [_KeyCollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [TKey](./tkey/)
+* Class [_KeyCollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

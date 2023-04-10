@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml/xmlparsercontext/set_publicid/
 ---
-## XmlParserContext::set_PublicId(const [String](../../../system/string/)\&) method
+## XmlParserContext::set_PublicId(const String\&) method
 
 
 Sets the public identifier.
@@ -24,7 +24,7 @@ void System::Xml::XmlParserContext::set_PublicId(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlParserContext](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlParserContext](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/tableformat/settemplateweakptr/
 ---
-## TableFormat::SetTemplateWeakPtr(**uint32_t**) method
+## TableFormat::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::TableFormat::SetTemplateWeakPtr(uint32_t argument) override
 
 ## See Also
 
-* Class [TableFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TableFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

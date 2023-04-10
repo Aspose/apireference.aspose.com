@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.globalization/datetimeformatinfo/getformat/
 ---
-## DateTimeFormatInfo::GetFormat(const [TypeInfo](../../../system/typeinfo/)\&) method
+## DateTimeFormatInfo::GetFormat(const TypeInfo\&) method
 
 
 Gets formatter of specific type.
@@ -28,9 +28,9 @@ Formatter or null if not availsable.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

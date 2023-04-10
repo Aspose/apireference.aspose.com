@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.diagnostics/fileversioninfo/getversioninfo/
 ---
-## FileVersionInfo::GetVersionInfo(const [String](../../../system/string/)\&) method
+## FileVersionInfo::GetVersionInfo(const String\&) method
 
 
 Gets file version info; not implemented.
@@ -24,9 +24,8 @@ static SharedPtr<System::Diagnostics::FileVersionInfo> System::Diagnostics::File
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FileVersionInfo](../)
-* Class [String](../../../system/string/)
-* Class [FileVersionInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [FileVersionInfo](./)
+* Class [String](../../system/string/)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.net.sockets/socket/set_exclusiveaddressuse/
 ---
-## Socket::set_ExclusiveAddressUse(**bool**) method
+## Socket::set_ExclusiveAddressUse(bool) method
 
 
 Sets a value that indicates if only one process can bind the socket to a port.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_ExclusiveAddressUse(bool value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

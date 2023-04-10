@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.text/unicodeencoding/equals/
 ---
-## UnicodeEncoding::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## UnicodeEncoding::Equals(SharedPtr\<Object\>) method
 
 
 Compares encodings.
@@ -28,8 +28,8 @@ True if both objects are of same encoding, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [UnicodeEncoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [UnicodeEncoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

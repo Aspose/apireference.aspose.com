@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides/lineformat/set_alignment/
 ---
-## LineFormat::set_Alignment([LineAlignment](../../linealignment/)) method
+## LineFormat::set_Alignment(LineAlignment) method
 
 
 Sets the line alignment. Write [LineAlignment](../../linealignment/).
@@ -17,7 +17,7 @@ void Aspose::Slides::LineFormat::set_Alignment(LineAlignment value) override
 
 ## See Also
 
-* Enum [LineAlignment](../../linealignment/)
-* Class [LineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineAlignment](../linealignment/)
+* Class [LineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.io/file/createtext/
 ---
-## File::CreateText(const [String](../../../system/string/)\&) method
+## File::CreateText(const String\&) method
 
 
 Creates a new or opens existing file for writing UTF-8 encoded text.
@@ -28,8 +28,8 @@ A shared pointer to the [StreamWriter](../../streamwriter/) object associated wi
 
 ## See Also
 
-* Typedef [StreamWriterPtr](../../../system/streamwriterptr/)
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [StreamWriterPtr](../../system/streamwriterptr/)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

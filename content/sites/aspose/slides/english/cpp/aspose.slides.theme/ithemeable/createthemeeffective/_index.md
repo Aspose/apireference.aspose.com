@@ -22,8 +22,8 @@ Effective theme [IThemeEffectiveData](../../ithemeeffectivedata/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IThemeEffectiveData](../../ithemeeffectivedata/)
-* Class [IThemeable](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IThemeEffectiveData](../ithemeeffectivedata/)
+* Class [IThemeable](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void System::Collections::Generic::Details::Grouping<Key, Source>::Add(Source it
 
 ## See Also
 
-* Class [Grouping](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Grouping](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

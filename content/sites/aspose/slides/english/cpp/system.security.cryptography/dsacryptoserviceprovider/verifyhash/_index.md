@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/verifyhash/
 ---
-## DSACryptoServiceProvider::VerifyHash(const [ByteArrayPtr](../../../system/bytearrayptr/)\&, const [String](../../../system/string/)\&, const [ByteArrayPtr](../../../system/bytearrayptr/)\&) method
+## DSACryptoServiceProvider::VerifyHash(const ByteArrayPtr\&, const String\&, const ByteArrayPtr\&) method
 
 
 Checks data signature.
@@ -30,8 +30,8 @@ True if signature is valid, false otherwise.
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Class [String](../../../system/string/)
-* Class [DSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
+* Class [String](../../system/string/)
+* Class [DSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

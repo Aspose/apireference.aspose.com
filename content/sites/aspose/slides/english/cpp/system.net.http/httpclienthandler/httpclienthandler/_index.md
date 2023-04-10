@@ -17,6 +17,6 @@ System::Net::Http::HttpClientHandler::HttpClientHandler()
 
 ## See Also
 
-* Class [HttpClientHandler](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpClientHandler](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

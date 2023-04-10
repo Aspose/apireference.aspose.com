@@ -22,7 +22,7 @@ The XmlSchemaDatatypeVariety value for the simple type.
 
 ## See Also
 
-* Enum [XmlSchemaDatatypeVariety](../../xmlschemadatatypevariety/)
-* Class [XmlSchemaDatatype](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaDatatypeVariety](../xmlschemadatatypevariety/)
+* Class [XmlSchemaDatatype](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

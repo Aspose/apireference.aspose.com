@@ -17,7 +17,7 @@ DirectoryInfoPtr System::IO::DirectoryInfo::get_Root()
 
 ## See Also
 
-* Typedef [DirectoryInfoPtr](../../../system/directoryinfoptr/)
-* Class [DirectoryInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DirectoryInfoPtr](../../system/directoryinfoptr/)
+* Class [DirectoryInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

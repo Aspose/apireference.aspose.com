@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.vba/vbareferencecollection/add/
 ---
-## VbaReferenceCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IVbaReference](../../ivbareference/)\>) method
+## VbaReferenceCollection::Add(System::SharedPtr\<IVbaReference\>) method
 
 
 Adds the new reference to references collection
@@ -17,8 +17,8 @@ void Aspose::Slides::Vba::VbaReferenceCollection::Add(System::SharedPtr<IVbaRefe
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaReference](../../ivbareference/)
-* Class [VbaReferenceCollection](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaReference](../ivbareference/)
+* Class [VbaReferenceCollection](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

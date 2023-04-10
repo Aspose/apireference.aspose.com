@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/ilineformat/set_width/
 ---
-## ILineFormat::set_Width(**double**) method
+## ILineFormat::set_Width(double) method
 
 
 Sets the width of a line. Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ILineFormat::set_Width(double value)=0
 
 ## See Also
 
-* Class [ILineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

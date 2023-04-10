@@ -22,6 +22,6 @@ Next character in replacement string or 0x00 if it is read to the end.
 
 ## See Also
 
-* Class [DecoderReplacementFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DecoderReplacementFallbackBuffer](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

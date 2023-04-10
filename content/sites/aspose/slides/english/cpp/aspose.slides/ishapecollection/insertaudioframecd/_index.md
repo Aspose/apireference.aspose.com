@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/ishapecollection/insertaudioframecd/
 ---
-## IShapeCollection::InsertAudioFrameCD(**int32_t**, **float**, **float**, **float**, **float**) method
+## IShapeCollection::InsertAudioFrameCD(int32_t, float, float, float, float) method
 
 
 Insert an [AudioFrame](../../audioframe/) with CD.
@@ -32,8 +32,8 @@ Created [AudioFrame](../../audioframe/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAudioFrame](../../iaudioframe/)
-* Class [IShapeCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAudioFrame](../iaudioframe/)
+* Class [IShapeCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

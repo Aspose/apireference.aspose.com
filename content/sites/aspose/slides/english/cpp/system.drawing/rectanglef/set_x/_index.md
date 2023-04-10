@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.drawing/rectanglef/set_x/
 ---
-## RectangleF::set_X(**float**) method
+## RectangleF::set_X(float) method
 
 
 Sets the X coordinate of the upper left corner of the rectangle represented by the current object.
@@ -24,6 +24,6 @@ void System::Drawing::RectangleF::set_X(float value)
 
 ## See Also
 
-* Class [RectangleF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RectangleF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

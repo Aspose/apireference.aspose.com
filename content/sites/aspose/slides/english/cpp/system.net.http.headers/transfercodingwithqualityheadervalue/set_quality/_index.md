@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net.http.headers/transfercodingwithqualityheadervalue/set_quality/
 ---
-## TransferCodingWithQualityHeaderValue::set_Quality([Nullable](../../../system/nullable/)\<**double**\>) method
+## TransferCodingWithQualityHeaderValue::set_Quality(Nullable\<double\>) method
 
 
 Sets the quality value of the 'Accept-Encoding' header.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::TransferCodingWithQualityHeaderValue::set_Quali
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [TransferCodingWithQualityHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [TransferCodingWithQualityHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

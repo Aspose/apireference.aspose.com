@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Animation::ISequenceCollection::Clear()=0
 
 ## See Also
 
-* Class [ISequenceCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISequenceCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

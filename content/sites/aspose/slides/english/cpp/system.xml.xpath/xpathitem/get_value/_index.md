@@ -22,7 +22,7 @@ The **string** value of the item.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathItem](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathItem](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The attribute used to block a type derivation. Default value is [XmlSchemaDeriva
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
-* Class [XmlSchemaElement](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
+* Class [XmlSchemaElement](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

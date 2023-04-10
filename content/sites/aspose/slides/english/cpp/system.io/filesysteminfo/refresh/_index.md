@@ -17,6 +17,6 @@ void System::IO::FileSystemInfo::Refresh()
 
 ## See Also
 
-* Class [FileSystemInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FileSystemInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

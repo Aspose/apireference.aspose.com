@@ -22,8 +22,8 @@ An Encoding object indicating the encoding type.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Encoding](../../../system.text/encoding/)
-* Class [XmlParserContext](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Encoding](../../system.text/encoding/)
+* Class [XmlParserContext](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

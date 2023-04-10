@@ -17,6 +17,6 @@ const System::TypeInfo & System::ObjectExt::GetType<System::String>()
 
 ## See Also
 
-* Class [TypeInfo](../typeinfo/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](./typeinfo/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

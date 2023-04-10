@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.theme/lineformatcollection/
 Represents the collection of line styles.
 
 ```cpp
-class LineFormatCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Theme::FormatScheme>>,
-                             public Aspose::Slides::Theme::ILineFormatCollection
+class LineFormatCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Theme::FormatScheme>>,                             public Aspose::Slides::Theme::ILineFormatCollection
 ```
 
 ## Methods

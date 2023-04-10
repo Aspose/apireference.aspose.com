@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/textframeformat/set_margintop/
 ---
-## TextFrameFormat::set_MarginTop(**double**) method
+## TextFrameFormat::set_MarginTop(double) method
 
 
 Sets the top margin (points) in a [TextFrame](../../textframe/). Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::TextFrameFormat::set_MarginTop(double value) override
 
 ## See Also
 
-* Class [TextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

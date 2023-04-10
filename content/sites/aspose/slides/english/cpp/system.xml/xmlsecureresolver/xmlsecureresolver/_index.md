@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlsecureresolver/xmlsecureresolver/
 ---
-## XmlSecureResolver::XmlSecureResolver(const [SharedPtr](../../../system/sharedptr/)\<[XmlResolver](../../xmlresolver/)\>\&, const [String](../../../system/string/)\&) constructor
+## XmlSecureResolver::XmlSecureResolver(const SharedPtr\<XmlResolver\>\&, const String\&) constructor
 
 
 Initializes a new instance of the [XmlSecureResolver](../) class with the [XmlResolver](../../xmlresolver/) and URL provided.
@@ -25,9 +25,9 @@ System::Xml::XmlSecureResolver::XmlSecureResolver(const SharedPtr<XmlResolver> &
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlResolver](../../xmlresolver/)
-* Class [String](../../../system/string/)
-* Class [XmlSecureResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlResolver](../xmlresolver/)
+* Class [String](../../system/string/)
+* Class [XmlSecureResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.slides.export/pdfoptions/set_imagetransparentcolor/
 ---
-## PdfOptions::set_ImageTransparentColor([System::Drawing::Color](../../../system.drawing/color/)) method
+## PdfOptions::set_ImageTransparentColor(System::Drawing::Color) method
 
 
 Sets the image transparent color.
@@ -21,7 +21,7 @@ void Aspose::Slides::Export::PdfOptions::set_ImageTransparentColor(System::Drawi
 The color of the image transparent. 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [PdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [PdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

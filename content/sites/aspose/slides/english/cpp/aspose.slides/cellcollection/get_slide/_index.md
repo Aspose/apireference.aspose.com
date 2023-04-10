@@ -17,8 +17,8 @@ System::SharedPtr<IBaseSlide> Aspose::Slides::CellCollection::get_Slide() overri
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBaseSlide](../../ibaseslide/)
-* Class [CellCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBaseSlide](../ibaseslide/)
+* Class [CellCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The comment.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ProductInfoHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ProductInfoHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

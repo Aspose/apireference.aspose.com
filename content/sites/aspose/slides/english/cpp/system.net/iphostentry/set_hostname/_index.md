@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net/iphostentry/set_hostname/
 ---
-## IPHostEntry::set_HostName([String](../../../system/string/)) method
+## IPHostEntry::set_HostName(String) method
 
 
 Sets the host name.
@@ -24,7 +24,7 @@ void System::Net::IPHostEntry::set_HostName(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IPHostEntry](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IPHostEntry](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -12,9 +12,7 @@ url: /cpp/aspose.slides/rowformat/
 Represents format of a table row.
 
 ```cpp
-class RowFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Row>>,
-                  public Aspose::Slides::IRowFormat,
-                  public Aspose::Slides::IPVIObject
+class RowFormat : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Row>>,                  public Aspose::Slides::IRowFormat,                  public Aspose::Slides::IPVIObject
 ```
 
 ## Methods

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.timers/elapsedeventargs/elapsedeventargs/
 ---
-## ElapsedEventArgs::ElapsedEventArgs(**int32_t**, **int32_t**) constructor
+## ElapsedEventArgs::ElapsedEventArgs(int32_t, int32_t) constructor
 
 
 Constructs arguments object with given parameters.
@@ -25,6 +25,6 @@ System::Timers::ElapsedEventArgs::ElapsedEventArgs(int32_t low, int32_t high)
 
 ## See Also
 
-* Class [ElapsedEventArgs](../)
-* Namespace [System::Timers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ElapsedEventArgs](./)
+* Namespace [System::Timers](../)
+* Library [Aspose.Slides](../../)

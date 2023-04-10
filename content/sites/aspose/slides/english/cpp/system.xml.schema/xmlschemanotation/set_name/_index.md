@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemanotation/set_name/
 ---
-## XmlSchemaNotation::set_Name(const [String](../../../system/string/)\&) method
+## XmlSchemaNotation::set_Name(const String\&) method
 
 
 Sets the name of the notation.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaNotation::set_Name(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaNotation](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaNotation](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

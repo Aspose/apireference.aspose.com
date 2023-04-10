@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/trendline/set_format/
 ---
-## Trendline::set_Format([System::SharedPtr](../../../system/sharedptr/)\<[IFormat](../../iformat/)\>) method
+## Trendline::set_Format(System::SharedPtr\<IFormat\>) method
 
 
 Represents the format of the trend line. Write [IFormat](../../iformat/).
@@ -20,8 +20,8 @@ void Aspose::Slides::Charts::Trendline::set_Format(System::SharedPtr<IFormat> va
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFormat](../../iformat/)
-* Class [Trendline](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFormat](../iformat/)
+* Class [Trendline](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

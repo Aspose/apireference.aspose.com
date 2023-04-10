@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschematype/set_name/
 ---
-## XmlSchemaType::set_Name(const [String](../../../system/string/)\&) method
+## XmlSchemaType::set_Name(const String\&) method
 
 
 Sets the name of the type.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaType::set_Name(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

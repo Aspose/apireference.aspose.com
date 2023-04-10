@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILineFormat> Aspose::Slides::ICellFormat::get_BorderTo
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILineFormat](../../ilineformat/)
-* Class [ICellFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILineFormat](../ilineformat/)
+* Class [ICellFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

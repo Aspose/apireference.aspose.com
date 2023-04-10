@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/createsignature/
 ---
-## DSACryptoServiceProvider::CreateSignature([ByteArrayPtr](../../../system/bytearrayptr/)) method
+## DSACryptoServiceProvider::CreateSignature(ByteArrayPtr) method
 
 
 Create [DSA](../../dsa/) signature for the specified data.
@@ -28,7 +28,7 @@ ByteArrayPtr System::Security::Cryptography::DSACryptoServiceProvider::CreateSig
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Class [DSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
+* Class [DSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

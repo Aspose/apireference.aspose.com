@@ -17,6 +17,6 @@ virtual void System::Xml::XPath::XPathNavigator::MoveToRoot()
 
 ## See Also
 
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

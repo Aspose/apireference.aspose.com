@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.security.cryptography/dsacryptoserviceprovider/set_persistkeyincsp/
 ---
-## DSACryptoServiceProvider::set_PersistKeyInCsp(**bool**) method
+## DSACryptoServiceProvider::set_PersistKeyInCsp(bool) method
 
 
 Defines whether key is persisted in CSP object.
@@ -24,6 +24,6 @@ void System::Security::Cryptography::DSACryptoServiceProvider::set_PersistKeyInC
 
 ## See Also
 
-* Class [DSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

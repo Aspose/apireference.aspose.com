@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.slides/cell/set_anchorcenter/
 ---
-## Cell::set_AnchorCenter(**bool**) method
+## Cell::set_AnchorCenter(bool) method
 
 
 Determines whether or not text box centered inside a cell. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Cell::set_AnchorCenter(bool value) override
 
 ## See Also
 
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

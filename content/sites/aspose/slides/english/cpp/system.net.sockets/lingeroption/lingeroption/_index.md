@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net.sockets/lingeroption/lingeroption/
 ---
-## LingerOption::LingerOption(**bool**, **int32_t**) constructor
+## LingerOption::LingerOption(bool, int32_t) constructor
 
 
 Constructs a new instance.
@@ -25,6 +25,6 @@ System::Net::Sockets::LingerOption::LingerOption(bool enable, int32_t seconds)
 
 ## See Also
 
-* Class [LingerOption](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LingerOption](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 716
 url: /cpp/aspose.slides.charts/iaxis/set_crosstype/
 ---
-## IAxis::set_CrossType([CrossesType](../../crossestype/)) method
+## IAxis::set_CrossType(CrossesType) method
 
 
 Represents the CrossType on the specified axis where the other axis crosses. Write [CrossesType](../../crossestype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_CrossType(CrossesType value)=0
 
 ## See Also
 
-* Enum [CrossesType](../../crossestype/)
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CrossesType](../crossestype/)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

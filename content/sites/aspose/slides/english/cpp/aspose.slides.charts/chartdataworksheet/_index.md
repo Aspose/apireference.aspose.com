@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/chartdataworksheet/
 Represents worksheet associated with [IChartDataCell](../ichartdatacell/)
 
 ```cpp
-class ChartDataWorksheet : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartDataWorksheetCollection>>,
-                           public Aspose::Slides::Charts::IChartDataWorksheet
+class ChartDataWorksheet : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartDataWorksheetCollection>>,                           public Aspose::Slides::Charts::IChartDataWorksheet
 ```
 
 ## Methods

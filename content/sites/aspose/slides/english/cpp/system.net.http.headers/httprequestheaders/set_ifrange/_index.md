@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.net.http.headers/httprequestheaders/set_ifrange/
 ---
-## HttpRequestHeaders::set_IfRange([System::SharedPtr](../../../system/sharedptr/)\<[RangeConditionHeaderValue](../../rangeconditionheadervalue/)\>) method
+## HttpRequestHeaders::set_IfRange(System::SharedPtr\<RangeConditionHeaderValue\>) method
 
 
 Sets a value of the 'If-Range' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_IfRange(System::SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RangeConditionHeaderValue](../../rangeconditionheadervalue/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RangeConditionHeaderValue](../rangeconditionheadervalue/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

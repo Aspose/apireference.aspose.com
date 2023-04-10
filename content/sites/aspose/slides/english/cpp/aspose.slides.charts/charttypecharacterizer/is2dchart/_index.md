@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/charttypecharacterizer/is2dchart/
 ---
-## ChartTypeCharacterizer::Is2DChart([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::Is2DChart(ChartType) method
 
 
 Return true if *chartType*  is one of 2D chart types.
@@ -17,7 +17,7 @@ static bool Aspose::Slides::Charts::ChartTypeCharacterizer::Is2DChart(ChartType 
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

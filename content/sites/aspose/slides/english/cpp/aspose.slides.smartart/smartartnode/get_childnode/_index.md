@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides.smartart/smartartnode/get_childnode/
 ---
-## SmartArtNode::get_ChildNode(**int32_t**) method
+## SmartArtNode::get_ChildNode(int32_t) method
 
 
 Returns a child node of this node at the specified index. Read-only [Aspose::Slides::SmartArt::ISmartArtNode](../../ismartartnode/)
@@ -17,8 +17,8 @@ System::SharedPtr<ISmartArtNode> Aspose::Slides::SmartArt::SmartArtNode::get_Chi
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISmartArtNode](../../ismartartnode/)
-* Class [SmartArtNode](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISmartArtNode](../ismartartnode/)
+* Class [SmartArtNode](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

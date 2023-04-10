@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/ieffect/set_subtype/
 ---
-## IEffect::set_Subtype([EffectSubtype](../../effectsubtype/)) method
+## IEffect::set_Subtype(EffectSubtype) method
 
 
 Defines subtype of effect. Write [EffectSubtype](../../effectsubtype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IEffect::set_Subtype(EffectSubtype value
 
 ## See Also
 
-* Enum [EffectSubtype](../../effectsubtype/)
-* Class [IEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EffectSubtype](../effectsubtype/)
+* Class [IEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

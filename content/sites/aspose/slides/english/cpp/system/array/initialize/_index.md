@@ -17,6 +17,6 @@ void System::Array<T>::Initialize()
 
 ## See Also
 
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

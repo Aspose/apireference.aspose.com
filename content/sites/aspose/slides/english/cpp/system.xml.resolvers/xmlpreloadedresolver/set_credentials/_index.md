@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.xml.resolvers/xmlpreloadedresolver/set_credentials/
 ---
-## XmlPreloadedResolver::set_Credentials([SharedPtr](../../../system/sharedptr/)\<[Net::ICredentials](../../../system.net/icredentials/)\>) method
+## XmlPreloadedResolver::set_Credentials(SharedPtr\<Net::ICredentials\>) method
 
 
 Sets the credentials that are used to authenticate the underlying [Net::WebRequest](../../../system.net/webrequest/).
@@ -24,8 +24,8 @@ void System::Xml::Resolvers::XmlPreloadedResolver::set_Credentials(SharedPtr<Net
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICredentials](../../../system.net/icredentials/)
-* Class [XmlPreloadedResolver](../)
-* Namespace [System::Xml::Resolvers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICredentials](../../system.net/icredentials/)
+* Class [XmlPreloadedResolver](./)
+* Namespace [System::Xml::Resolvers](../)
+* Library [Aspose.Slides](../../)

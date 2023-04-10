@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/system.xml/xmlreadersettings/set_dtdprocessing/
 ---
-## XmlReaderSettings::set_DtdProcessing([System::Xml::DtdProcessing](../../dtdprocessing/)) method
+## XmlReaderSettings::set_DtdProcessing(System::Xml::DtdProcessing) method
 
 
 Sets a value that determines the processing of DTDs.
@@ -24,7 +24,7 @@ void System::Xml::XmlReaderSettings::set_DtdProcessing(System::Xml::DtdProcessin
 
 ## See Also
 
-* Enum [DtdProcessing](../../dtdprocessing/)
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DtdProcessing](../dtdprocessing/)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

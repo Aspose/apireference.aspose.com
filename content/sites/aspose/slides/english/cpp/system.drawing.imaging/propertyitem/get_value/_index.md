@@ -17,7 +17,7 @@ ArrayPtr<uint8_t> System::Drawing::Imaging::PropertyItem::get_Value() const
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [PropertyItem](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [PropertyItem](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IViewProperties> Aspose::Slides::Presentation::get_ViewPropert
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IViewProperties](../../iviewproperties/)
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IViewProperties](../iviewproperties/)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

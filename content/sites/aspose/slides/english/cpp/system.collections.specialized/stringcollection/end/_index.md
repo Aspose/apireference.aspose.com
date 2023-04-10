@@ -20,12 +20,6 @@ iterator System::Collections::Specialized::StringCollection::end() noexcept
 
 An iterator pointing to the theoretical element placed after the last element of the container.
 
-## See Also
-
-* Typedef [iterator](../iterator/)
-* Class [StringCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
 ## StringCollection::end() const method
 
 
@@ -42,7 +36,8 @@ An iterator pointing to the theoretical element placed after the last element of
 
 ## See Also
 
-* Typedef [const_iterator](../const_iterator/)
-* Class [StringCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [iterator](./iterator/)
+* Typedef [const_iterator](./const_iterator/)
+* Class [StringCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

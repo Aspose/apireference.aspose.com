@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/gradientstopeffectivedata/equals/
 ---
-## GradientStopEffectiveData::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## GradientStopEffectiveData::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines whether the specified [GradientStopEffectiveData](../) is equal to the current [GradientStopEffectiveData](../).
@@ -28,8 +28,8 @@ true if objects are equal; otherwise, false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [GradientStopEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [GradientStopEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

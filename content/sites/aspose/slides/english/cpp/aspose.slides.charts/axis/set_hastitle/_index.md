@@ -6,7 +6,7 @@ type: docs
 weight: 820
 url: /cpp/aspose.slides.charts/axis/set_hastitle/
 ---
-## Axis::set_HasTitle(**bool**) method
+## Axis::set_HasTitle(bool) method
 
 
 Determines whether a axis has a visible title. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Axis::set_HasTitle(bool value) override
 
 ## See Also
 
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.io/directory/setcreationtimeutc/
 ---
-## Directory::SetCreationTimeUtc(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## Directory::SetCreationTimeUtc(const String\&, DateTime) method
 
 
 Sets the creation time of the specified entity as UTC time.
@@ -25,8 +25,8 @@ static void System::IO::Directory::SetCreationTimeUtc(const String &path, DateTi
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [Directory](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [Directory](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

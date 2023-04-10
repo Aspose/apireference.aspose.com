@@ -17,7 +17,7 @@ String System::TimeZoneInfo::get_DaylightName() const
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

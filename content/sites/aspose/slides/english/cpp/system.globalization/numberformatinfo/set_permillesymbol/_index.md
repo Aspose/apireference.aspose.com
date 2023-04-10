@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.globalization/numberformatinfo/set_permillesymbol/
 ---
-## NumberFormatInfo::set_PerMilleSymbol(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_PerMilleSymbol(const String\&) method
 
 
 Sets permille symbol.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_PerMilleSymbol(const String &v
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

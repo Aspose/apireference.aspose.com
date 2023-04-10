@@ -17,8 +17,8 @@ virtual System::SharedPtr<IChartPortionFormat> Aspose::Slides::Charts::IChartTex
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartPortionFormat](../../ichartportionformat/)
-* Class [IChartTextFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartPortionFormat](../ichartportionformat/)
+* Class [IChartTextFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

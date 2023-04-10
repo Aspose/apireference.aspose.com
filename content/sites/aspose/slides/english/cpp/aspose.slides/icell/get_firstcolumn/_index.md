@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColumn> Aspose::Slides::ICell::get_FirstColumn()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColumn](../../icolumn/)
-* Class [ICell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColumn](../icolumn/)
+* Class [ICell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

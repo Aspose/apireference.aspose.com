@@ -17,6 +17,6 @@ System::Net::WebClient::WebClient()
 
 ## See Also
 
-* Class [WebClient](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebClient](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemadatatype/parsevalue/
 ---
-## XmlSchemaDatatype::ParseValue([String](../../../system/string/), [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../../system.xml/xmlnametable/)\>, [SharedPtr](../../../system/sharedptr/)\<[IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)\>) method
+## XmlSchemaDatatype::ParseValue(String, SharedPtr\<XmlNameTable\>, SharedPtr\<IXmlNamespaceResolver\>) method
 
 
 When overridden in a derived class, validates the **string** specified against a built-in or user-defined simple type.
@@ -30,11 +30,11 @@ An [Object](../../../system/object/) that can be cast safely to the type returne
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [XmlNameTable](../../../system.xml/xmlnametable/)
-* Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
-* Class [XmlSchemaDatatype](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [String](../../system/string/)
+* Class [XmlNameTable](../../system.xml/xmlnametable/)
+* Class [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/)
+* Class [XmlSchemaDatatype](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

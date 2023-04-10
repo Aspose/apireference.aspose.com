@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/tagcollection/remove/
 ---
-## TagCollection::Remove([System::String](../../../system/string/)) method
+## TagCollection::Remove(System::String) method
 
 
 Removes the tag with a specified name from the collection.
@@ -24,7 +24,7 @@ void Aspose::Slides::TagCollection::Remove(System::String name) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [TagCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [TagCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

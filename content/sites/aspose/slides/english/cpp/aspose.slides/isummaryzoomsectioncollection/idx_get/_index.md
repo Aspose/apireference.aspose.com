@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/isummaryzoomsectioncollection/idx_get/
 ---
-## ISummaryZoomSectionCollection::idx_get(**int32_t**) method
+## ISummaryZoomSectionCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [ISummaryZoomSection](../../isummaryzoomsection/).
@@ -30,8 +30,8 @@ auto zoomSection = collection->idx_get(1);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISummaryZoomSection](../../isummaryzoomsection/)
-* Class [ISummaryZoomSectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISummaryZoomSection](../isummaryzoomsection/)
+* Class [ISummaryZoomSectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

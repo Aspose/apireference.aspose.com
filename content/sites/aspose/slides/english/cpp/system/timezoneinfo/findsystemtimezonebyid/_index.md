@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system/timezoneinfo/findsystemtimezonebyid/
 ---
-## TimeZoneInfo::FindSystemTimeZoneById(const [String](../../string/)\&) method
+## TimeZoneInfo::FindSystemTimeZoneById(const String\&) method
 
 
 Gets time zone with specified identifier.
@@ -28,8 +28,8 @@ Time zone with specified identifier.
 
 ## See Also
 
-* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
-* Class [String](../../string/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [TimeZoneInfoPtr](../timezoneinfoptr/)
+* Class [String](../string/)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

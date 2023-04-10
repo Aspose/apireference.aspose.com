@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic.details/enumeratorcastadapter/enumeratorcastadapter/
 ---
-## EnumeratorCastAdapter::EnumeratorCastAdapter([SharedPtr](../../../system/sharedptr/)\<[IEnumerator](../../../system.collections.generic/ienumerator/)\<Source\>\>) constructor
+## EnumeratorCastAdapter::EnumeratorCastAdapter(SharedPtr\<IEnumerator\<Source\>\>) constructor
 
 
 
@@ -17,8 +17,8 @@ System::Collections::Generic::Details::EnumeratorCastAdapter<Source, Result>::En
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [EnumeratorCastAdapter](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../../system.collections.generic/ienumerator/)
+* Class [EnumeratorCastAdapter](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

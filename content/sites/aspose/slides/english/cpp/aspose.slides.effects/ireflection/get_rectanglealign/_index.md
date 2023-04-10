@@ -17,7 +17,7 @@ virtual RectangleAlignment Aspose::Slides::Effects::IReflection::get_RectangleAl
 
 ## See Also
 
-* Enum [RectangleAlignment](../../../aspose.slides/rectanglealignment/)
-* Class [IReflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [RectangleAlignment](../../aspose.slides/rectanglealignment/)
+* Class [IReflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

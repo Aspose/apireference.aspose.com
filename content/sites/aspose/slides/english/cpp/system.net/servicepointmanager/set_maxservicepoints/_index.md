@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net/servicepointmanager/set_maxservicepoints/
 ---
-## ServicePointManager::set_MaxServicePoints(**int32_t**) method
+## ServicePointManager::set_MaxServicePoints(int32_t) method
 
 
 Sets the maximum number of the ServicePoint-class instances that can be managed by the current instance.
@@ -24,6 +24,6 @@ static void System::Net::ServicePointManager::set_MaxServicePoints(int32_t value
 
 ## See Also
 
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

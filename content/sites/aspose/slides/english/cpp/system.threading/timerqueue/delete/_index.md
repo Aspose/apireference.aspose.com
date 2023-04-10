@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.threading/timerqueue/delete/
 ---
-## TimerQueue::Delete([Timer](../../timer/) *) method
+## TimerQueue::Delete(Timer *) method
 
 
 Deletes timer from queue.
@@ -28,7 +28,7 @@ Always returns true.
 
 ## See Also
 
-* Class [Timer](../../timer/)
-* Class [TimerQueue](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Timer](../timer/)
+* Class [TimerQueue](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

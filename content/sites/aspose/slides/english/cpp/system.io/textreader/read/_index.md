@@ -20,12 +20,7 @@ virtual int System::IO::TextReader::Read()
 
 Read character encoded with UTF-16 encoding; if the read character is represented by two codepoints in UTF-16 encoding then only the high surragate is returned.
 
-## See Also
-
-* Class [TextReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
-## TextReader::Read([ArrayPtr](../../../system/arrayptr/)\<char_t\>, int, int) method
+## TextReader::Read(ArrayPtr\<char_t\>, int, int) method
 
 
 Reads the specified number of characters from the stream and writes them to the specified character array starting at the specified position.
@@ -49,7 +44,7 @@ The number of characters read from the stream
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [TextReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [TextReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

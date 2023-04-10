@@ -22,6 +22,6 @@ Hash code of the [FontData](../).
 
 ## See Also
 
-* Class [FontData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FontData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

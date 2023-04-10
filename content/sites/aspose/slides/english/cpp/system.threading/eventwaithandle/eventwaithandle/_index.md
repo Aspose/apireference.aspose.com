@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.threading/eventwaithandle/eventwaithandle/
 ---
-## EventWaitHandle::EventWaitHandle(**bool**, [EventResetMode](../../eventresetmode/)) constructor
+## EventWaitHandle::EventWaitHandle(bool, EventResetMode) constructor
 
 
 Constructor.
@@ -25,7 +25,7 @@ System::Threading::EventWaitHandle::EventWaitHandle(bool initialState, EventRese
 
 ## See Also
 
-* Enum [EventResetMode](../../eventresetmode/)
-* Class [EventWaitHandle](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EventResetMode](../eventresetmode/)
+* Class [EventWaitHandle](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

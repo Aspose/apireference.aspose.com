@@ -17,6 +17,6 @@ int32_t Aspose::Slides::SectionCollection::get_Count() override
 
 ## See Also
 
-* Class [SectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

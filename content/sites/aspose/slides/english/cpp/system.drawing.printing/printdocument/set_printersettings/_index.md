@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.drawing.printing/printdocument/set_printersettings/
 ---
-## PrintDocument::set_PrinterSettings(const [SharedPtr](../../../system/sharedptr/)\<[PrinterSettings](../../printersettings/)\>\&) method
+## PrintDocument::set_PrinterSettings(const SharedPtr\<PrinterSettings\>\&) method
 
 
 NOT IMPLEMENTED.
@@ -18,8 +18,8 @@ void System::Drawing::Printing::PrintDocument::set_PrinterSettings(const SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PrinterSettings](../../printersettings/)
-* Class [PrintDocument](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [PrinterSettings](../printersettings/)
+* Class [PrintDocument](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

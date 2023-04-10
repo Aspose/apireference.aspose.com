@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/isequence/remove/
 ---
-## ISequence::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IEffect](../../ieffect/)\>) method
+## ISequence::Remove(System::SharedPtr\<IEffect\>) method
 
 
 Removes specified effect from a collection.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Animation::ISequence::Remove(System::SharedPtr<IEff
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffect](../../ieffect/)
-* Class [ISequence](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffect](../ieffect/)
+* Class [ISequence](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

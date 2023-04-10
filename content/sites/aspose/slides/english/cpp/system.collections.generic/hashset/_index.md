@@ -12,8 +12,7 @@ url: /cpp/system.collections.generic/hashset/
 Forward declaration of [HashSet](./) class.
 
 ```cpp
-template<typename T>class HashSet : public virtual System::Object,
-                                    public System::Collections::Generic::ICollection<T>
+template<typename T>class HashSet : public virtual System::Object,                                    public System::Collections::Generic::ICollection<T>
 ```
 
 ## Methods

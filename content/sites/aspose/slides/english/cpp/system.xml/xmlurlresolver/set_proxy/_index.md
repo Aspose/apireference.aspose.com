@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlurlresolver/set_proxy/
 ---
-## XmlUrlResolver::set_Proxy(const [SharedPtr](../../../system/sharedptr/)\<[Net::IWebProxy](../../../system.net/iwebproxy/)\>\&) method
+## XmlUrlResolver::set_Proxy(const SharedPtr\<Net::IWebProxy\>\&) method
 
 
 Sets the network proxy for the underlying WebRequest object.
@@ -24,8 +24,8 @@ void System::Xml::XmlUrlResolver::set_Proxy(const SharedPtr<Net::IWebProxy> &val
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IWebProxy](../../../system.net/iwebproxy/)
-* Class [XmlUrlResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IWebProxy](../../system.net/iwebproxy/)
+* Class [XmlUrlResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

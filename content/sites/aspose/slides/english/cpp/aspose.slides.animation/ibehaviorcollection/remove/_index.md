@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/ibehaviorcollection/remove/
 ---
-## IBehaviorCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IBehavior](../../ibehavior/)\>) method
+## IBehaviorCollection::Remove(System::SharedPtr\<IBehavior\>) method
 
 
 Removes specified behavior from a collection.
@@ -28,8 +28,8 @@ True if a behavior removed successfully **bool**
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBehavior](../../ibehavior/)
-* Class [IBehaviorCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBehavior](../ibehavior/)
+* Class [IBehaviorCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

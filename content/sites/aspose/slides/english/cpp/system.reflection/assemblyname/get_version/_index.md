@@ -22,7 +22,7 @@ Version System::Reflection::AssemblyName::get_Version()
 
 ## See Also
 
-* Class [Version](../../../system/version/)
-* Class [AssemblyName](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Version](../../system/version/)
+* Class [AssemblyName](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

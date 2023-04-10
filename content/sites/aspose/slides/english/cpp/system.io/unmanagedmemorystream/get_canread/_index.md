@@ -22,6 +22,6 @@ True if the stream is readable; otherwise - false
 
 ## See Also
 
-* Class [UnmanagedMemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UnmanagedMemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

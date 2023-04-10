@@ -28,6 +28,6 @@ zoomFrame->set_ReturnToParent(true);
 
 ## See Also
 
-* Class [ZoomObject](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ZoomObject](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

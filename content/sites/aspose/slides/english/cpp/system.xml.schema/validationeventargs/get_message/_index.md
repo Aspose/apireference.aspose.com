@@ -22,7 +22,7 @@ The text description.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ValidationEventArgs](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ValidationEventArgs](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net.http/httpclienthandler/set_credentials/
 ---
-## HttpClientHandler::set_Credentials([System::SharedPtr](../../../system/sharedptr/)\<[ICredentials](../../../system.net/icredentials/)\>) method
+## HttpClientHandler::set_Credentials(System::SharedPtr\<ICredentials\>) method
 
 
 Sets the authentication information.
@@ -24,8 +24,8 @@ void System::Net::Http::HttpClientHandler::set_Credentials(System::SharedPtr<ICr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICredentials](../../../system.net/icredentials/)
-* Class [HttpClientHandler](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICredentials](../../system.net/icredentials/)
+* Class [HttpClientHandler](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

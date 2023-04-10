@@ -22,7 +22,7 @@ The text content as a [DateTimeOffset](../../../system/datetimeoffset/) object.
 
 ## See Also
 
-* Class [DateTimeOffset](../../../system/datetimeoffset/)
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTimeOffset](../../system/datetimeoffset/)
+* Class [XmlReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

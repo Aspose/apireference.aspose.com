@@ -17,8 +17,8 @@ System::SharedPtr<IThemeEffectiveData> Aspose::Slides::Theme::MasterThemeManager
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IThemeEffectiveData](../../ithemeeffectivedata/)
-* Class [MasterThemeManager](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IThemeEffectiveData](../ithemeeffectivedata/)
+* Class [MasterThemeManager](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

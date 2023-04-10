@@ -22,6 +22,6 @@ The current position of the stream.
 
 ## See Also
 
-* Class [Stream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Stream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

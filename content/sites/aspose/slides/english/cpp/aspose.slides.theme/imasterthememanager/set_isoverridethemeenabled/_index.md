@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.theme/imasterthememanager/set_isoverridethemeenabled/
 ---
-## IMasterThemeManager::set_IsOverrideThemeEnabled(**bool**) method
+## IMasterThemeManager::set_IsOverrideThemeEnabled(bool) method
 
 
 Determines whether [OverrideTheme](../../overridetheme/) overrides inherited effective theme (Presentation.MasterTheme) or not. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Theme::IMasterThemeManager::set_IsOverrideThemeEnab
 
 ## See Also
 
-* Class [IMasterThemeManager](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMasterThemeManager](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.net/iwebrequestcreate/create/
 ---
-## IWebRequestCreate::Create([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
+## IWebRequestCreate::Create(System::SharedPtr\<Uri\>) method
 
 
 Creates a WebRequest-class instance for the specified resource's URI.
@@ -28,9 +28,9 @@ A newly created WebRequest-class instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WebRequest](../../webrequest/)
-* Class [Uri](../../../system/uri/)
-* Class [IWebRequestCreate](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [WebRequest](../webrequest/)
+* Class [Uri](../../system/uri/)
+* Class [IWebRequestCreate](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

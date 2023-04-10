@@ -17,6 +17,6 @@ void System::Collections::Generic::EnumeratorWrapperIterator<Element>::Increment
 
 ## See Also
 
-* Class [EnumeratorWrapperIterator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EnumeratorWrapperIterator](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

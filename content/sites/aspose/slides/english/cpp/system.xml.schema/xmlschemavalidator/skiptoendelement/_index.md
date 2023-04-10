@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.xml.schema/xmlschemavalidator/skiptoendelement/
 ---
-## XmlSchemaValidator::SkipToEndElement(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaInfo](../../xmlschemainfo/)\>\&) method
+## XmlSchemaValidator::SkipToEndElement(const SharedPtr\<XmlSchemaInfo\>\&) method
 
 
 Skips validation of the current element content and prepares the [XmlSchemaValidator](../) object to validate content in the parent element's context.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaValidator::SkipToEndElement(const SharedPtr<X
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaInfo](../../xmlschemainfo/)
-* Class [XmlSchemaValidator](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaInfo](../xmlschemainfo/)
+* Class [XmlSchemaValidator](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

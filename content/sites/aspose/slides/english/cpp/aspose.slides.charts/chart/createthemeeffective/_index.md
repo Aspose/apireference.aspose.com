@@ -17,8 +17,8 @@ System::SharedPtr<Aspose::Slides::Theme::IThemeEffectiveData> Aspose::Slides::Ch
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IThemeEffectiveData](../../../aspose.slides.theme/ithemeeffectivedata/)
-* Class [Chart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IThemeEffectiveData](../../aspose.slides.theme/ithemeeffectivedata/)
+* Class [Chart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

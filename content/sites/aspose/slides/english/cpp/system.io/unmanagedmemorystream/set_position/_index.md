@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.io/unmanagedmemorystream/set_position/
 ---
-## UnmanagedMemoryStream::set_Position(**int64_t**) method
+## UnmanagedMemoryStream::set_Position(int64_t) method
 
 
 Sets the stream's position.
@@ -24,6 +24,6 @@ virtual void System::IO::UnmanagedMemoryStream::set_Position(int64_t value) over
 
 ## See Also
 
-* Class [UnmanagedMemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UnmanagedMemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

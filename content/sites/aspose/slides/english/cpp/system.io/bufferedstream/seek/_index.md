@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.io/bufferedstream/seek/
 ---
-## BufferedStream::Seek(**int64_t**, [SeekOrigin](../../seekorigin/)) method
+## BufferedStream::Seek(int64_t, SeekOrigin) method
 
 
 Sets the position of the stream represented by the current object.
@@ -29,7 +29,7 @@ The new position of the stream
 
 ## See Also
 
-* Enum [SeekOrigin](../../seekorigin/)
-* Class [BufferedStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SeekOrigin](../seekorigin/)
+* Class [BufferedStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

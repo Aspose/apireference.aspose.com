@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides/loadoptions/set_warningcallback/
 ---
-## LoadOptions::set_WarningCallback([System::SharedPtr](../../../system/sharedptr/)\<[Warnings::IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/)\>) method
+## LoadOptions::set_WarningCallback(System::SharedPtr\<Warnings::IWarningCallback\>) method
 
 
 Sets an object which receives warnings and decides whether loading process will continue or will be aborted. Write [Warnings::IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/).
@@ -17,8 +17,8 @@ void Aspose::Slides::LoadOptions::set_WarningCallback(System::SharedPtr<Warnings
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/)
-* Class [LoadOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IWarningCallback](../../aspose.slides.warnings/iwarningcallback/)
+* Class [LoadOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

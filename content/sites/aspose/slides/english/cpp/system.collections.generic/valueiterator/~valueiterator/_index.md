@@ -17,6 +17,6 @@ virtual System::Collections::Generic::ValueIterator<Dict>::~ValueIterator()=defa
 
 ## See Also
 
-* Class [ValueIterator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ValueIterator](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

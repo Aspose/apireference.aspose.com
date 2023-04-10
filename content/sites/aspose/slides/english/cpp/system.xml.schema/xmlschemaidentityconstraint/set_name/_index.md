@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/set_name/
 ---
-## XmlSchemaIdentityConstraint::set_Name(const [String](../../../system/string/)\&) method
+## XmlSchemaIdentityConstraint::set_Name(const String\&) method
 
 
 Sets the name of the identity constraint.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaIdentityConstraint::set_Name(const String &va
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaIdentityConstraint](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaIdentityConstraint](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

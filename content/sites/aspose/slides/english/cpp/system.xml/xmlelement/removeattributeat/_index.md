@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/system.xml/xmlelement/removeattributeat/
 ---
-## XmlElement::RemoveAttributeAt(**int32_t**) method
+## XmlElement::RemoveAttributeAt(int32_t) method
 
 
 Removes the attribute node with the specified index from the element. (If the removed attribute has a default value, it is immediately replaced).
@@ -28,8 +28,8 @@ The attribute node removed or **nullptr** if there is no node at the given index
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlElement](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlElement](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

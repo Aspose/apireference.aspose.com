@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net.sockets/tcplistener/set_exclusiveaddressuse/
 ---
-## TcpListener::set_ExclusiveAddressUse(**bool**) method
+## TcpListener::set_ExclusiveAddressUse(bool) method
 
 
 Sets a value that indicates if the current instance allows only one client to use a port.
@@ -24,6 +24,6 @@ void System::Net::Sockets::TcpListener::set_ExclusiveAddressUse(bool value)
 
 ## See Also
 
-* Class [TcpListener](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpListener](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

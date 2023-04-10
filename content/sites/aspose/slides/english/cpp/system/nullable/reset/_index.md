@@ -17,6 +17,6 @@ void System::Nullable<T>::reset()
 
 ## See Also
 
-* Class [Nullable](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

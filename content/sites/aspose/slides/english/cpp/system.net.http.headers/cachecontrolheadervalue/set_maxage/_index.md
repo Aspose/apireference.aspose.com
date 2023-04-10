@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_maxage/
 ---
-## CacheControlHeaderValue::set_MaxAge([Nullable](../../../system/nullable/)\<[TimeSpan](../../../system/timespan/)\>) method
+## CacheControlHeaderValue::set_MaxAge(Nullable\<TimeSpan\>) method
 
 
 Sets the maximum age value in seconds that determines a time during which the client will accept a response.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::CacheControlHeaderValue::set_MaxAge(Nullable<Ti
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [TimeSpan](../../../system/timespan/)
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [TimeSpan](../../system/timespan/)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

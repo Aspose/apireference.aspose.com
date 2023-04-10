@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.web.services/webservicebindingattribute/set_namespace/
 ---
-## WebServiceBindingAttribute::set_Namespace([String](../../../system/string/)) method
+## WebServiceBindingAttribute::set_Namespace(String) method
 
 
 Sets the namespace that is associated with the binding.
@@ -24,7 +24,7 @@ void System::Web::Services::WebServiceBindingAttribute::set_Namespace(String val
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WebServiceBindingAttribute](../)
-* Namespace [System::Web::Services](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WebServiceBindingAttribute](./)
+* Namespace [System::Web::Services](../)
+* Library [Aspose.Slides](../../)

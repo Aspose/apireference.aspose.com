@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.net.http.headers/httpresponseheaders/set_age/
 ---
-## HttpResponseHeaders::set_Age([Nullable](../../../system/nullable/)\<[TimeSpan](../../../system/timespan/)\>) method
+## HttpResponseHeaders::set_Age(Nullable\<TimeSpan\>) method
 
 
 Sets a value of the 'Age' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpResponseHeaders::set_Age(Nullable<TimeSpan>
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [TimeSpan](../../../system/timespan/)
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [TimeSpan](../../system/timespan/)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

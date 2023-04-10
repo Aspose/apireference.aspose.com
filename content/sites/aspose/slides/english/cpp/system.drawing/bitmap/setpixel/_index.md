@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.drawing/bitmap/setpixel/
 ---
-## Bitmap::SetPixel(int, int, [Color](../../color/)) method
+## Bitmap::SetPixel(int, int, Color) method
 
 
 Sets the color of the specified pixel in the bitmap image represented by the current object.
@@ -26,7 +26,7 @@ void System::Drawing::Bitmap::SetPixel(int x, int y, Color color)
 
 ## See Also
 
-* Class [Color](../../color/)
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../color/)
+* Class [Bitmap](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

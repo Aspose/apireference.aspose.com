@@ -22,6 +22,6 @@ A value that indicates if the default credentials must be sent with requests.
 
 ## See Also
 
-* Class [WebProxy](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebProxy](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

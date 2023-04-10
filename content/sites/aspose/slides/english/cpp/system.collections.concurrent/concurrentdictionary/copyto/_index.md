@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.collections.concurrent/concurrentdictionary/copyto/
 ---
-## ConcurrentDictionary::CopyTo([ArrayPtr](../../../system/arrayptr/)\<[System::Collections::Generic::KeyValuePair](../../../system.collections.generic/keyvaluepair/)\<TKey, TValue\>\>, int) method
+## ConcurrentDictionary::CopyTo(ArrayPtr\<System::Collections::Generic::KeyValuePair\<TKey, TValue\>\>, int) method
 
 
 Copies container elements to existing array elements.
@@ -25,8 +25,8 @@ virtual void System::Collections::Concurrent::ConcurrentDictionary<TKey, TValue>
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
-* Class [ConcurrentDictionary](../)
-* Namespace [System::Collections::Concurrent](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [KeyValuePair](../../system.collections.generic/keyvaluepair/)
+* Class [ConcurrentDictionary](./)
+* Namespace [System::Collections::Concurrent](../)
+* Library [Aspose.Slides](../../)

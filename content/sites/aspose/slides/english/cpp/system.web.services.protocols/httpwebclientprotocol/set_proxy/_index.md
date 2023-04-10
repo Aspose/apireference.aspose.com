@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_proxy/
 ---
-## HttpWebClientProtocol::set_Proxy([System::SharedPtr](../../../system/sharedptr/)\<[Net::IWebProxy](../../../system.net/iwebproxy/)\>) method
+## HttpWebClientProtocol::set_Proxy(System::SharedPtr\<Net::IWebProxy\>) method
 
 
 Sets proxy information.
@@ -24,8 +24,8 @@ void System::Web::Services::Protocols::HttpWebClientProtocol::set_Proxy(System::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IWebProxy](../../../system.net/iwebproxy/)
-* Class [HttpWebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IWebProxy](../../system.net/iwebproxy/)
+* Class [HttpWebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

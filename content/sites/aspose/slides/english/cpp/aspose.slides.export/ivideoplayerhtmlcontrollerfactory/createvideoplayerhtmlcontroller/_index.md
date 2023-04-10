@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.export/ivideoplayerhtmlcontrollerfactory/createvideoplayerhtmlcontroller/
 ---
-## IVideoPlayerHtmlControllerFactory::CreateVideoPlayerHtmlController([System::String](../../../system/string/), [System::String](../../../system/string/), [System::String](../../../system/string/)) method
+## IVideoPlayerHtmlControllerFactory::CreateVideoPlayerHtmlController(System::String, System::String, System::String) method
 
 
 Create video player HTML controller.
@@ -30,9 +30,9 @@ virtual System::SharedPtr<IVideoPlayerHtmlController> Aspose::Slides::Export::IV
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVideoPlayerHtmlController](../../ivideoplayerhtmlcontroller/)
-* Class [String](../../../system/string/)
-* Class [IVideoPlayerHtmlControllerFactory](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVideoPlayerHtmlController](../ivideoplayerhtmlcontroller/)
+* Class [String](../../system/string/)
+* Class [IVideoPlayerHtmlControllerFactory](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/rippletransition/
 Ripple slide transition effect.
 
 ```cpp
-class RippleTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                         public Aspose::Slides::SlideShow::IRippleTransition
+class RippleTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                         public Aspose::Slides::SlideShow::IRippleTransition
 ```
 
 ## Methods

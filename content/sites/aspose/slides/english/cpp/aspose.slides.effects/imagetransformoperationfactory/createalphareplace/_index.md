@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createalphareplace/
 ---
-## ImageTransformOperationFactory::CreateAlphaReplace(**float**) method
+## ImageTransformOperationFactory::CreateAlphaReplace(float) method
 
 
 Creates Alpha replace effect.
@@ -28,8 +28,8 @@ Alpha replace effect.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAlphaReplace](../../ialphareplace/)
-* Class [ImageTransformOperationFactory](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAlphaReplace](../ialphareplace/)
+* Class [ImageTransformOperationFactory](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

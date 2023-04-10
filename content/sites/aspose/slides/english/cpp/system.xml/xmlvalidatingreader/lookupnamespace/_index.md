@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/system.xml/xmlvalidatingreader/lookupnamespace/
 ---
-## XmlValidatingReader::LookupNamespace(const [String](../../../system/string/)\&) method
+## XmlValidatingReader::LookupNamespace(const String\&) method
 
 
 Resolves a namespace prefix in the current element's scope.
@@ -28,7 +28,7 @@ The namespace URI to which the prefix maps or **nullptr** if no matching prefix 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlValidatingReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlValidatingReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

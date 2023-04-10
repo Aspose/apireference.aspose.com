@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Warnings::IWarningInfo::get_Description()
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IWarningInfo](../)
-* Namespace [Aspose::Slides::Warnings](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IWarningInfo](./)
+* Namespace [Aspose::Slides::Warnings](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/system/uri/unescapedatastring/
 ---
-## Uri::UnescapeDataString(const [String](../../string/)\&) method
+## Uri::UnescapeDataString(const String\&) method
 
 
 Unescapes the specified escaped string.
@@ -28,7 +28,7 @@ A new string containing the unescaped representation of **stringToUnescape**
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [Uri](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [Uri](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

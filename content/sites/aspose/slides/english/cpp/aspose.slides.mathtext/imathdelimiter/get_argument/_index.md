@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides.mathtext/imathdelimiter/get_argument/
 ---
-## IMathDelimiter::get_Argument(**int32_t**) method
+## IMathDelimiter::get_Argument(int32_t) method
 
 
 Returns mathematical element at the specified index of the array. Read-only [Aspose::Slides::MathText::IMathElement](../../imathelement/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IMathElement> Aspose::Slides::MathText::IMathDelimiter
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathElement](../../imathelement/)
-* Class [IMathDelimiter](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathElement](../imathelement/)
+* Class [IMathDelimiter](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

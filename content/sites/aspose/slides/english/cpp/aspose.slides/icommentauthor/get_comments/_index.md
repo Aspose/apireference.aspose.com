@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICommentCollection> Aspose::Slides::ICommentAuthor::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommentCollection](../../icommentcollection/)
-* Class [ICommentAuthor](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommentCollection](../icommentcollection/)
+* Class [ICommentAuthor](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

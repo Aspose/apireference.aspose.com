@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.collections.specialized/namevaluecollection/getvalues/
 ---
-## NameValueCollection::GetValues(const [String](../../../system/string/)\&) method
+## NameValueCollection::GetValues(const String\&) method
 
 
 Gets the values associated with the specified key.
@@ -17,8 +17,8 @@ virtual System::ArrayPtr<String> System::Collections::Specialized::NameValueColl
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [NameValueCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [NameValueCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

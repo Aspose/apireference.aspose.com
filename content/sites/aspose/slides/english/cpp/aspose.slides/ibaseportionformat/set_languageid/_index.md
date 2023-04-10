@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/aspose.slides/ibaseportionformat/set_languageid/
 ---
-## IBasePortionFormat::set_LanguageId([System::String](../../../system/string/)) method
+## IBasePortionFormat::set_LanguageId(System::String) method
 
 
 Sets the Id of a proofing language. Used for checking spelling and grammar. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IBasePortionFormat::set_LanguageId(System::String v
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IBasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IBasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

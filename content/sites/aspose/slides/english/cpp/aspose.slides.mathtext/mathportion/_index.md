@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathportion/
 Represents a portion with mathematical context inside.
 
 ```cpp
-class MathPortion : public Aspose::Slides::Portion,
-                    public Aspose::Slides::MathText::IMathPortion
+class MathPortion : public Aspose::Slides::Portion,                    public Aspose::Slides::MathText::IMathPortion
 ```
 
 ## Methods

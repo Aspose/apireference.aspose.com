@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Export::IPdfOptions::get_Password()=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IPdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IPdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

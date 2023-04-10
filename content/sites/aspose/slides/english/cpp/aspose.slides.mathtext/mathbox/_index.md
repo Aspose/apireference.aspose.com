@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathbox/
 Specifies the logical boxing (packaging) of mathematical element. For example, a boxed object can serve as an operator emulator with or without an alignment point, serve as a line break point, or be grouped such as not to allow line breaks within. For example, the \"==\" operator should be boxed to prevent line breaks.
 
 ```cpp
-class MathBox : public Aspose::Slides::MathText::MathElementBase,
-                public Aspose::Slides::MathText::IMathBox,
-                public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathBox : public Aspose::Slides::MathText::MathElementBase,                public Aspose::Slides::MathText::IMathBox,                public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

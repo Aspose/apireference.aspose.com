@@ -20,11 +20,6 @@ Map & System::Collections::Generic::BaseDictionary<Map>::data()
 
 Reference to underlying data storage.
 
-## See Also
-
-* Class [BaseDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## BaseDictionary::data() const method
 
 
@@ -41,6 +36,6 @@ Const reference to underlying data storage.
 
 ## See Also
 
-* Class [BaseDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

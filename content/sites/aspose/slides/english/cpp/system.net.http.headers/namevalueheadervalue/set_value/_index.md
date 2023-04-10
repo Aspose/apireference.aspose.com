@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.net.http.headers/namevalueheadervalue/set_value/
 ---
-## NameValueHeaderValue::set_Value([String](../../../system/string/)) method
+## NameValueHeaderValue::set_Value(String) method
 
 
 Sets a value of the current instance.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::NameValueHeaderValue::set_Value(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NameValueHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NameValueHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

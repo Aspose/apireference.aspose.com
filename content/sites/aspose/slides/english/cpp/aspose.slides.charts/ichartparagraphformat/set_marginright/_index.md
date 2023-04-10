@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides.charts/ichartparagraphformat/set_marginright/
 ---
-## IChartParagraphFormat::set_MarginRight(**float**) method
+## IChartParagraphFormat::set_MarginRight(float) method
 
 
 Sets the right margin in a paragraph. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartParagraphFormat::set_MarginRight(floa
 
 ## See Also
 
-* Class [IChartParagraphFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartParagraphFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

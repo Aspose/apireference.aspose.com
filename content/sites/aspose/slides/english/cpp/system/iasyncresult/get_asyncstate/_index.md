@@ -17,8 +17,8 @@ virtual SharedPtr<System::Object> System::IAsyncResult::get_AsyncState()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
-* Class [IAsyncResult](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Object](../object/)
+* Class [IAsyncResult](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

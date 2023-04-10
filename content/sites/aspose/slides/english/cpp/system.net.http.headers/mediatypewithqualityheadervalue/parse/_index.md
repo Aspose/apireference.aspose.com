@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net.http.headers/mediatypewithqualityheadervalue/parse/
 ---
-## MediaTypeWithQualityHeaderValue::Parse([String](../../../system/string/)) method
+## MediaTypeWithQualityHeaderValue::Parse(String) method
 
 
 Converts a passed string to an instance of the [MediaTypeWithQualityHeaderValue](../) class.
@@ -28,9 +28,8 @@ An instance of the [MediaTypeWithQualityHeaderValue](../) class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [MediaTypeWithQualityHeaderValue](../)
-* Class [String](../../../system/string/)
-* Class [MediaTypeWithQualityHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [MediaTypeWithQualityHeaderValue](./)
+* Class [String](../../system/string/)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

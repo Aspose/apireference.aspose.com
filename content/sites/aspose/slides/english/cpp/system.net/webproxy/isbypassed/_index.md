@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net/webproxy/isbypassed/
 ---
-## WebProxy::IsBypassed([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
+## WebProxy::IsBypassed(System::SharedPtr\<Uri\>) method
 
 
 Checks if the proxy server is not used for the specified URI.
@@ -28,8 +28,8 @@ True when the proxy server is not used for the specified URI, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [WebProxy](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [WebProxy](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

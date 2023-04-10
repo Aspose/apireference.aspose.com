@@ -17,7 +17,7 @@ virtual PropertyValueType Aspose::Slides::Animation::IPropertyEffect::get_ValueT
 
 ## See Also
 
-* Enum [PropertyValueType](../../propertyvaluetype/)
-* Class [IPropertyEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PropertyValueType](../propertyvaluetype/)
+* Class [IPropertyEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

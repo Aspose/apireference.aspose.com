@@ -6,7 +6,7 @@ type: docs
 weight: 599
 url: /cpp/aspose.slides.charts/ichartseries/set_parentlabellayout/
 ---
-## IChartSeries::set_ParentLabelLayout([ParentLabelLayoutType](../../parentlabellayouttype/)) method
+## IChartSeries::set_ParentLabelLayout(ParentLabelLayoutType) method
 
 
 Represents layout of parent category labels. Applies only to Treemap charts.
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartSeries::set_ParentLabelLayout(ParentL
 
 ## See Also
 
-* Enum [ParentLabelLayoutType](../../parentlabellayouttype/)
-* Class [IChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ParentLabelLayoutType](../parentlabellayouttype/)
+* Class [IChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

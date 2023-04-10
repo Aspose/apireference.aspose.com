@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.slideshow/ishredtransition/set_pattern/
 ---
-## IShredTransition::set_Pattern([TransitionShredPattern](../../transitionshredpattern/)) method
+## IShredTransition::set_Pattern(TransitionShredPattern) method
 
 
 Specifies the shape of the visuals used during the transition. Write [TransitionShredPattern](../../transitionshredpattern/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::IShredTransition::set_Pattern(Transition
 
 ## See Also
 
-* Enum [TransitionShredPattern](../../transitionshredpattern/)
-* Class [IShredTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionShredPattern](../transitionshredpattern/)
+* Class [IShredTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

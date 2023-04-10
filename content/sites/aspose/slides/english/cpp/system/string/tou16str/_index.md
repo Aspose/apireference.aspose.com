@@ -22,6 +22,6 @@ Original string converted to u16string.
 
 ## See Also
 
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

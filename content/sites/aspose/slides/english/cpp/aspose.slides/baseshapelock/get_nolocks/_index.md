@@ -17,6 +17,6 @@ bool Aspose::Slides::BaseShapeLock::get_NoLocks() override
 
 ## See Also
 
-* Class [BaseShapeLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseShapeLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

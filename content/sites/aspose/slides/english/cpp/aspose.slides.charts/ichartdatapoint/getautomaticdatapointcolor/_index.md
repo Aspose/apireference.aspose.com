@@ -22,7 +22,7 @@ Automatic color of data point [System::Drawing::Color](../../../system.drawing/c
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [IChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [IChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

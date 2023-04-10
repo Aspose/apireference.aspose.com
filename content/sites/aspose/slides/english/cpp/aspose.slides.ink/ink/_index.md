@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.ink/ink/
 Represents an ink object on a slide.
 
 ```cpp
-class Ink : public Aspose::Slides::GraphicalObject,
-            public Aspose::Slides::Ink::IInk
+class Ink : public Aspose::Slides::GraphicalObject,            public Aspose::Slides::Ink::IInk
 ```
 
 ## Methods

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system/testcompare/abstractequal/
 ---
-## TestCompare::AbstractEqual([SCG::ICollection](../../../system.collections.generic/icollection/)\<T\> *const, [SCG::ICollection](../../../system.collections.generic/icollection/)\<T\> *const) method
+## TestCompare::AbstractEqual(SCG::ICollection\<T\> *const, SCG::ICollection\<T\> *const) method
 
 
 Compares two collections of unknown type.
@@ -35,7 +35,7 @@ true if collections match (e. g. both are null), or if sizes match and elements 
 
 ## See Also
 
-* Class [ICollection](../../../system.collections.generic/icollection/)
-* Struct [TestCompare](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICollection](../../system.collections.generic/icollection/)
+* Struct [TestCompare](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ System::String Aspose::Slides::Drawing::Vector2d64d::ToString() const override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Vector2d64d](../)
-* Namespace [Aspose::Slides::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Vector2d64d](./)
+* Namespace [Aspose::Slides::Drawing](../)
+* Library [Aspose.Slides](../../)

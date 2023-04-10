@@ -17,7 +17,7 @@ BulletType Aspose::Slides::BulletFormat::get_Type() override
 
 ## See Also
 
-* Enum [BulletType](../../bullettype/)
-* Class [BulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [BulletType](../bullettype/)
+* Class [BulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

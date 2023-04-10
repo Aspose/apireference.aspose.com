@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathsuperscriptelement/
 Specifies the superscript object, which consists of a base and a reduced-size superscript placed above and to the right
 
 ```cpp
-class MathSuperscriptElement : public Aspose::Slides::MathText::BaseScript,
-                               public Aspose::Slides::MathText::IMathSuperscriptElement
+class MathSuperscriptElement : public Aspose::Slides::MathText::BaseScript,                               public Aspose::Slides::MathText::IMathSuperscriptElement
 ```
 
 ## Methods

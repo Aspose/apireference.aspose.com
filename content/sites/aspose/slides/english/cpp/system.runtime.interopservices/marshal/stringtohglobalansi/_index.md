@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.runtime.interopservices/marshal/stringtohglobalansi/
 ---
-## Marshal::StringToHGlobalAnsi(const [String](../../../system/string/)\&) method
+## Marshal::StringToHGlobalAnsi(const String\&) method
 
 
 Copies the contents of a specified string into unmanaged memory.
@@ -28,7 +28,7 @@ The address, in unmanaged memory.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Marshal](../)
-* Namespace [System::Runtime::InteropServices](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Marshal](./)
+* Namespace [System::Runtime::InteropServices](../)
+* Library [Aspose.Slides](../../)

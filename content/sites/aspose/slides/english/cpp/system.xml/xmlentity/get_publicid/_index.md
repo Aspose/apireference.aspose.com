@@ -22,7 +22,7 @@ The public identifier on the entity. If there is no public identifier, **nullptr
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlEntity](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlEntity](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

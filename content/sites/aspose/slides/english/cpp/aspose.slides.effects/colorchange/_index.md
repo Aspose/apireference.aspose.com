@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.effects/colorchange/
 Represents a Color Change effect. Instances of FromColor are replaced with instances of ToColor.
 
 ```cpp
-class ColorChange : public Aspose::Slides::Effects::ImageTransformOperation,
-                    public Aspose::Slides::Effects::IColorChange,
-                    public Aspose::Slides::Effects::IVisualEffect
+class ColorChange : public Aspose::Slides::Effects::ImageTransformOperation,                    public Aspose::Slides::Effects::IColorChange,                    public Aspose::Slides::Effects::IVisualEffect
 ```
 
 ## Methods

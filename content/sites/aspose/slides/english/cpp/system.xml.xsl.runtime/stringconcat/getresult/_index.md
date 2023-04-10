@@ -22,7 +22,7 @@ A **string** value that contains the result.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringConcat](../)
-* Namespace [System::Xml::Xsl::Runtime](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringConcat](./)
+* Namespace [System::Xml::Xsl::Runtime](../)
+* Library [Aspose.Slides](../../)

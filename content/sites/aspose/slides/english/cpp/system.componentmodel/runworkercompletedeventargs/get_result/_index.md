@@ -22,8 +22,8 @@ An [System.Object](../../../system/object/) representing the result of an asynch
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [RunWorkerCompletedEventArgs](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [RunWorkerCompletedEventArgs](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

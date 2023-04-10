@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.slides.effects/outershadow/equals/
 ---
-## OuterShadow::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## OuterShadow::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines whether the specified [OuterShadow](../) is equal to the current [OuterShadow](../).
@@ -28,8 +28,8 @@ true if objects are equal; otherwise, false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [OuterShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [OuterShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ Aspose::Slides::Util::ShapeUtil::ShapeUtil()=delete
 
 ## See Also
 
-* Class [ShapeUtil](../)
-* Namespace [Aspose::Slides::Util](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ShapeUtil](./)
+* Namespace [Aspose::Slides::Util](../)
+* Library [Aspose.Slides](../../)

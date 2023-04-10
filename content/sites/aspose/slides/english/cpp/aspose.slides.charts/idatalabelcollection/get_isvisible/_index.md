@@ -22,6 +22,6 @@ If data label is visible by default you can make it hidden by default with [Hide
 by default\" with setting Show*-flags (ShowValue, ...) of the DefaultDataLabelFormat property to true state. 
 ## See Also
 
-* Class [IDataLabelCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDataLabelCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

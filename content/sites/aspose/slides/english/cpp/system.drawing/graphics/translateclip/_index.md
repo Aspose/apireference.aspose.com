@@ -16,12 +16,7 @@ void System::Drawing::Graphics::TranslateClip(int dx, int dy)
 ```
 
 
-## See Also
-
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
-## Graphics::TranslateClip(**float**, **float**) method
+## Graphics::TranslateClip(float, float) method
 
 
 NOT IMPLEMENTED.
@@ -33,6 +28,6 @@ void System::Drawing::Graphics::TranslateClip(float dx, float dy)
 
 ## See Also
 
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -15,12 +15,7 @@ Initializes a new instance of the [XmlSchemaSet](../) class.
 System::Xml::Schema::XmlSchemaSet::XmlSchemaSet()
 ```
 
-## See Also
-
-* Class [XmlSchemaSet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
-## XmlSchemaSet::XmlSchemaSet(const [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../../system.xml/xmlnametable/)\>\&) constructor
+## XmlSchemaSet::XmlSchemaSet(const SharedPtr\<XmlNameTable\>\&) constructor
 
 
 Initializes a new instance of the [XmlSchemaSet](../) class with the specified [XmlNameTable](../../../system.xml/xmlnametable/).
@@ -38,8 +33,8 @@ System::Xml::Schema::XmlSchemaSet::XmlSchemaSet(const SharedPtr<XmlNameTable> &n
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNameTable](../../../system.xml/xmlnametable/)
-* Class [XmlSchemaSet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaSet](./)
+* Class [XmlNameTable](../../system.xml/xmlnametable/)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPatternFormat> Aspose::Slides::IFillFormat::get_Patte
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPatternFormat](../../ipatternformat/)
-* Class [IFillFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPatternFormat](../ipatternformat/)
+* Class [IFillFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

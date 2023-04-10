@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartDataPointCollection::Clear()=0
 
 ## See Also
 
-* Class [IChartDataPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartDataPointCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

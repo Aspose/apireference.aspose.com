@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.drawing/pen/set_compoundarray/
 ---
-## Pen::set_CompoundArray(const [System::ArrayPtr](../../../system/arrayptr/)\<**float**\>\&) method
+## Pen::set_CompoundArray(const System::ArrayPtr\<float\>\&) method
 
 
 Sets an array of values that specifies a compound pen.
@@ -24,7 +24,7 @@ void System::Drawing::Pen::set_CompoundArray(const System::ArrayPtr<float> &valu
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Pen](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Pen](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

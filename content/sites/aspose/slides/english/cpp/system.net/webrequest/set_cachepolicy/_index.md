@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/system.net/webrequest/set_cachepolicy/
 ---
-## WebRequest::set_CachePolicy([System::SharedPtr](../../../system/sharedptr/)\<[System::Net::Cache::RequestCachePolicy](../../../system.net.cache/requestcachepolicy/)\>) method
+## WebRequest::set_CachePolicy(System::SharedPtr\<System::Net::Cache::RequestCachePolicy\>) method
 
 
 Sets the cache policy.
@@ -24,8 +24,8 @@ virtual void System::Net::WebRequest::set_CachePolicy(System::SharedPtr<System::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RequestCachePolicy](../../../system.net.cache/requestcachepolicy/)
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RequestCachePolicy](../../system.net.cache/requestcachepolicy/)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

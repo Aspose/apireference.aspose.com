@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography/dsa/verifysignature/
 ---
-## DSA::VerifySignature([ByteArrayPtr](../../../system/bytearrayptr/), [ByteArrayPtr](../../../system/bytearrayptr/)) method
+## DSA::VerifySignature(ByteArrayPtr, ByteArrayPtr) method
 
 
 Verify [DSA](../) signature for the specified data.
@@ -29,7 +29,7 @@ true - if **rgb_signature** matches the [DSA](../) signature computed on **rgb_h
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Class [DSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
+* Class [DSA](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

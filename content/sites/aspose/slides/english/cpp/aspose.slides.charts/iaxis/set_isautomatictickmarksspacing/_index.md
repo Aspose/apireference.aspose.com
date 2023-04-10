@@ -6,7 +6,7 @@ type: docs
 weight: 950
 url: /cpp/aspose.slides.charts/iaxis/set_isautomatictickmarksspacing/
 ---
-## IAxis::set_IsAutomaticTickMarksSpacing(**bool**) method
+## IAxis::set_IsAutomaticTickMarksSpacing(bool) method
 
 
 Specifies automatic tick marks spacing value. If false: use TickMarksSpacing property. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_IsAutomaticTickMarksSpacing(bool
 
 ## See Also
 
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

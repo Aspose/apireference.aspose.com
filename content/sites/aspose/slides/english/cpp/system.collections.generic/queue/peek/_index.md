@@ -22,6 +22,6 @@ First item in queue.
 
 ## See Also
 
-* Class [Queue](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Queue](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

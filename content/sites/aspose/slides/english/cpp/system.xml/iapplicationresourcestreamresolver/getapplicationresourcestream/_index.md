@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.xml/iapplicationresourcestreamresolver/getapplicationresourcestream/
 ---
-## IApplicationResourceStreamResolver::GetApplicationResourceStream([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
+## IApplicationResourceStreamResolver::GetApplicationResourceStream(SharedPtr\<Uri\>) method
 
 
 Returns an application resource stream from the specified URI.
@@ -28,9 +28,9 @@ An application resource stream.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [Uri](../../../system/uri/)
-* Class [IApplicationResourceStreamResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [Uri](../../system/uri/)
+* Class [IApplicationResourceStreamResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

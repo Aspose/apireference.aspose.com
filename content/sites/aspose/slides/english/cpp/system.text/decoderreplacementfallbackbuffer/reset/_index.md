@@ -17,6 +17,6 @@ virtual void System::Text::DecoderReplacementFallbackBuffer::Reset() override
 
 ## See Also
 
-* Class [DecoderReplacementFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DecoderReplacementFallbackBuffer](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

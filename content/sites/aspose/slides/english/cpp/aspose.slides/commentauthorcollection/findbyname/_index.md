@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/commentauthorcollection/findbyname/
 ---
-## CommentAuthorCollection::FindByName([System::String](../../../system/string/)) method
+## CommentAuthorCollection::FindByName(System::String) method
 
 
 Find author in a collection by name.
@@ -28,10 +28,10 @@ Author or null.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommentAuthor](../../icommentauthor/)
-* Class [String](../../../system/string/)
-* Class [CommentAuthorCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommentAuthor](../icommentauthor/)
+* Class [String](../../system/string/)
+* Class [CommentAuthorCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

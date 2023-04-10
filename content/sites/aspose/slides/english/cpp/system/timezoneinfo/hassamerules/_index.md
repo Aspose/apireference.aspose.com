@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/system/timezoneinfo/hassamerules/
 ---
-## TimeZoneInfo::HasSameRules(const [TimeZoneInfoPtr](../../timezoneinfoptr/)\&) const method
+## TimeZoneInfo::HasSameRules(const TimeZoneInfoPtr\&) const method
 
 
 Checks if current and another time zones have the same adjustment rules.
@@ -28,7 +28,7 @@ True if time zones have identical adjustment rules.
 
 ## See Also
 
-* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [TimeZoneInfoPtr](../timezoneinfoptr/)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

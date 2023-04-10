@@ -6,7 +6,7 @@ type: docs
 weight: 2510
 url: /cpp/system/static_pointer_cast/
 ---
-## System::static_pointer_cast([SmartPtr](../smartptr/)\<X\> const\&) function
+## System::static_pointer_cast(SmartPtr\<X\> const\&) function
 
 
 Casts smart pointers using static_cast.
@@ -35,6 +35,6 @@ Pointer after cast.
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

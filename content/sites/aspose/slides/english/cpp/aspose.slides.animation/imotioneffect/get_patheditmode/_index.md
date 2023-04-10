@@ -17,7 +17,7 @@ virtual MotionPathEditMode Aspose::Slides::Animation::IMotionEffect::get_PathEdi
 
 ## See Also
 
-* Enum [MotionPathEditMode](../../motionpatheditmode/)
-* Class [IMotionEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MotionPathEditMode](../motionpatheditmode/)
+* Class [IMotionEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

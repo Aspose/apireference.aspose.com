@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISlide> Aspose::Slides::IHyperlink::get_TargetSlide()=
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISlide](../../islide/)
-* Class [IHyperlink](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISlide](../islide/)
+* Class [IHyperlink](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

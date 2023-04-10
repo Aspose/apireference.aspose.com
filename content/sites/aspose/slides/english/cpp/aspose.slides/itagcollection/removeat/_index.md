@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/itagcollection/removeat/
 ---
-## ITagCollection::RemoveAt(**int32_t**) method
+## ITagCollection::RemoveAt(int32_t) method
 
 
 Removes the tag at the specified index.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::ITagCollection::RemoveAt(int32_t index)=0
 
 ## See Also
 
-* Class [ITagCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITagCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -34,11 +34,6 @@ template<typename T1,typename T2> std::enable_if<System::IsSmartPtr<typenameT1::
 
 True if contained elements and sizes match, false otherwise.
 
-## See Also
-
-* Struct [IsSmartPtr](../../system/issmartptr/)
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
-* Library [Aspose.Slides](../../)
 ## System::TestPredicates::Details::SharedPtrAsserts::AreEqualData(const T1\&, const T2\&) function
 
 
@@ -67,11 +62,6 @@ template<typename T1,typename T2> std::enable_if<!System::IsSmartPtr<typenameT1:
 
 True if contained elements and sizes match, false otherwise.
 
-## See Also
-
-* Struct [IsSmartPtr](../../system/issmartptr/)
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
-* Library [Aspose.Slides](../../)
 ## System::TestPredicates::Details::SharedPtrAsserts::AreEqualData(const T\&, const T\&) function
 
 
@@ -102,6 +92,6 @@ True if contained elements and sizes match, false otherwise.
 
 ## See Also
 
-* Struct [IsSmartPtr](../../system/issmartptr/)
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
-* Library [Aspose.Slides](../../)
+* Struct [IsSmartPtr](../system/issmartptr/)
+* Namespace [System::TestPredicates::Details::SharedPtrAsserts](./)
+* Library [Aspose.Slides](../)

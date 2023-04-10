@@ -22,6 +22,6 @@ The error code.
 
 ## See Also
 
-* Class [Details_SocketException](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Details_SocketException](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

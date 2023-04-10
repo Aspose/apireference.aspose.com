@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.xml.schema/xmlschemavalidator/validateendofattributes/
 ---
-## XmlSchemaValidator::ValidateEndOfAttributes(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaInfo](../../xmlschemainfo/)\>\&) method
+## XmlSchemaValidator::ValidateEndOfAttributes(const SharedPtr\<XmlSchemaInfo\>\&) method
 
 
 Verifies whether all the required attributes in the element context are present and prepares the [XmlSchemaValidator](../) object to validate the child content of the element.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaValidator::ValidateEndOfAttributes(const Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaInfo](../../xmlschemainfo/)
-* Class [XmlSchemaValidator](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaInfo](../xmlschemainfo/)
+* Class [XmlSchemaValidator](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

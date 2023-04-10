@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net.http.headers/httpheadervaluecollection_tmpl_system_string__end_tmpl/add/
 ---
-## HttpHeaderValueCollection< System::String >::Add(const [String](../../../system/string/)\&) method
+## HttpHeaderValueCollection< System::String >::Add(const String\&) method
 
 
 Adds element into collection.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpHeaderValueCollection<System::String>::Add(
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpHeaderValueCollection< System::String >](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpHeaderValueCollection< System::String >](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.export/saveoptions/set_warningcallback/
 ---
-## SaveOptions::set_WarningCallback([System::SharedPtr](../../../system/sharedptr/)\<[Aspose::Slides::Warnings::IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/)\>) method
+## SaveOptions::set_WarningCallback(System::SharedPtr\<Aspose::Slides::Warnings::IWarningCallback\>) method
 
 
 Returns of sets an object which receives warnings and decides whether loading process will continue or will be aborted. Write [Aspose::Slides::Warnings::IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/).
@@ -17,8 +17,8 @@ void Aspose::Slides::Export::SaveOptions::set_WarningCallback(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/)
-* Class [SaveOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IWarningCallback](../../aspose.slides.warnings/iwarningcallback/)
+* Class [SaveOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

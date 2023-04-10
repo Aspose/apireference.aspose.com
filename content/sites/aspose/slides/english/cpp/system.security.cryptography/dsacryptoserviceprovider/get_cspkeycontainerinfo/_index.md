@@ -17,8 +17,8 @@ SharedPtr<CspKeyContainerInfo> System::Security::Cryptography::DSACryptoServiceP
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CspKeyContainerInfo](../../cspkeycontainerinfo/)
-* Class [DSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CspKeyContainerInfo](../cspkeycontainerinfo/)
+* Class [DSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

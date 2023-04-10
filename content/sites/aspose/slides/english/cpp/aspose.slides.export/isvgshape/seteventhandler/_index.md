@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.export/isvgshape/seteventhandler/
 ---
-## ISvgShape::SetEventHandler([SvgEvent](../../svgevent/), [System::String](../../../system/string/)) method
+## ISvgShape::SetEventHandler(SvgEvent, System::String) method
 
 
 Sets event handler for the shape
@@ -25,8 +25,8 @@ virtual void Aspose::Slides::Export::ISvgShape::SetEventHandler(SvgEvent eventTy
 
 ## See Also
 
-* Enum [SvgEvent](../../svgevent/)
-* Class [String](../../../system/string/)
-* Class [ISvgShape](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SvgEvent](../svgevent/)
+* Class [String](../../system/string/)
+* Class [ISvgShape](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

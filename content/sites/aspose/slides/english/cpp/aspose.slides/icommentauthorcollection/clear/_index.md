@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ICommentAuthorCollection::Clear()=0
 
 ## See Also
 
-* Class [ICommentAuthorCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICommentAuthorCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

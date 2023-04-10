@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathelementbase/
 Base class for [IMathElement](../imathelement/) with the implementation of some methods that are common to all inherited classes For internal use only. Inherited class must be [IMathElement](../imathelement/).
 
 ```cpp
-class MathElementBase : public virtual Aspose::Slides::MathText::IMathElement,
-                        public Aspose::Slides::IDOMObject
+class MathElementBase : public virtual Aspose::Slides::MathText::IMathElement,                        public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

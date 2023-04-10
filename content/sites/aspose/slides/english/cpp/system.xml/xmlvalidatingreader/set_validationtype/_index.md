@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/system.xml/xmlvalidatingreader/set_validationtype/
 ---
-## XmlValidatingReader::set_ValidationType([System::Xml::ValidationType](../../validationtype/)) method
+## XmlValidatingReader::set_ValidationType(System::Xml::ValidationType) method
 
 
 Sets a value indicating the type of validation to perform.
@@ -24,7 +24,7 @@ void System::Xml::XmlValidatingReader::set_ValidationType(System::Xml::Validatio
 
 ## See Also
 
-* Enum [ValidationType](../../validationtype/)
-* Class [XmlValidatingReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ValidationType](../validationtype/)
+* Class [XmlValidatingReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

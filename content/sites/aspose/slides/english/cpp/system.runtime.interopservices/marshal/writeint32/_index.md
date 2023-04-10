@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.runtime.interopservices/marshal/writeint32/
 ---
-## Marshal::WriteInt32(IntPtr, int, **int32_t**) method
+## Marshal::WriteInt32(IntPtr, int, int32_t) method
 
 
 Writes int to memory.
@@ -26,6 +26,6 @@ static void System::Runtime::InteropServices::Marshal::WriteInt32(IntPtr ptr, in
 
 ## See Also
 
-* Class [Marshal](../)
-* Namespace [System::Runtime::InteropServices](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Marshal](./)
+* Namespace [System::Runtime::InteropServices](../)
+* Library [Aspose.Slides](../../)

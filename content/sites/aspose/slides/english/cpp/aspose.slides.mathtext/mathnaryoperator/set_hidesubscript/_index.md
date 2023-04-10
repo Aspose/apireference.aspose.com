@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides.mathtext/mathnaryoperator/set_hidesubscript/
 ---
-## MathNaryOperator::set_HideSubscript(**bool**) method
+## MathNaryOperator::set_HideSubscript(bool) method
 
 
 Hide Subscript
@@ -26,6 +26,6 @@ naryOperator->set_HideSubscript(true);
 
 ## See Also
 
-* Class [MathNaryOperator](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathNaryOperator](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

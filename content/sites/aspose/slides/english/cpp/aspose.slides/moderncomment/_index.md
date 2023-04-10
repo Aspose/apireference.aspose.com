@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/moderncomment/
 Represents a comment on a slide.
 
 ```cpp
-class ModernComment : public Aspose::Slides::Comment,
-                      public Aspose::Slides::IModernComment
+class ModernComment : public Aspose::Slides::Comment,                      public Aspose::Slides::IModernComment
 ```
 
 ## Methods

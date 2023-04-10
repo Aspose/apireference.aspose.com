@@ -17,6 +17,6 @@ float System::Drawing::Drawing2D::AdjustableArrowCap::get_Width() const
 
 ## See Also
 
-* Class [AdjustableArrowCap](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AdjustableArrowCap](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

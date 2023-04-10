@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.xml/xmlentity/writecontentto/
 ---
-## XmlEntity::WriteContentTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
+## XmlEntity::WriteContentTo(const SharedPtr\<XmlWriter\>\&) method
 
 
 Saves all the children of the node to the specified [XmlWriter](../../xmlwriter/). For [XmlEntity](../) nodes, this method has no effect.
@@ -24,8 +24,8 @@ void System::Xml::XmlEntity::WriteContentTo(const SharedPtr<XmlWriter> &w) overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../xmlwriter/)
-* Class [XmlEntity](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../xmlwriter/)
+* Class [XmlEntity](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

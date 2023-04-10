@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.security/securityelement/isvalidattributevalue/
 ---
-## SecurityElement::IsValidAttributeValue(const [String](../../../system/string/)\&) method
+## SecurityElement::IsValidAttributeValue(const String\&) method
 
 
 Checks if attribute value is valid.
@@ -28,7 +28,7 @@ True if value is valid, false otherwise.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

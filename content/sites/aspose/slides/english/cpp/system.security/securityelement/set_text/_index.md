@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.security/securityelement/set_text/
 ---
-## SecurityElement::set_Text(const [String](../../../system/string/)\&) method
+## SecurityElement::set_Text(const String\&) method
 
 
 Sets tag inner text.
@@ -24,7 +24,7 @@ void System::Security::SecurityElement::set_Text(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

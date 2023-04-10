@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.security.cryptography/asnencodeddata/format/
 ---
-## AsnEncodedData::Format(**bool**) const method
+## AsnEncodedData::Format(bool) const method
 
 
 Formats data in human-readable form.
@@ -28,7 +28,7 @@ Formatted data.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [AsnEncodedData](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [AsnEncodedData](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

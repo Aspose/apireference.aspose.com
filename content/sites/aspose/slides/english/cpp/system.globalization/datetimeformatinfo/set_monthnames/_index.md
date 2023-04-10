@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/system.globalization/datetimeformatinfo/set_monthnames/
 ---
-## DateTimeFormatInfo::set_MonthNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
+## DateTimeFormatInfo::set_MonthNames(const ArrayPtr\<String\>\&) method
 
 
 Sets month names.
@@ -24,8 +24,8 @@ void System::Globalization::DateTimeFormatInfo::set_MonthNames(const ArrayPtr<St
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The **block** attribute prevents a complex type from being used in the specified
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
-* Class [XmlSchemaComplexType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
+* Class [XmlSchemaComplexType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

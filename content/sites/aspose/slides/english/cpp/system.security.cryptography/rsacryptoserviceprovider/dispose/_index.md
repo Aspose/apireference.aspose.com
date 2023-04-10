@@ -17,6 +17,6 @@ void System::Security::Cryptography::RSACryptoServiceProvider::Dispose() overrid
 
 ## See Also
 
-* Class [RSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

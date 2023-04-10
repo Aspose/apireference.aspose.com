@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.globalization/compareinfo/equals/
 ---
-## CompareInfo::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## CompareInfo::Equals(SharedPtr\<Object\>) method
 
 
 
@@ -17,8 +17,8 @@ bool System::Globalization::CompareInfo::Equals(SharedPtr<Object> other) overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [CompareInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [CompareInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

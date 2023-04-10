@@ -22,8 +22,8 @@ The collection of the client certificates.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509CertificateCollection](../../../system.security.cryptography.x509certificates/x509certificatecollection/)
-* Class [HttpWebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [X509CertificateCollection](../../system.security.cryptography.x509certificates/x509certificatecollection/)
+* Class [HttpWebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

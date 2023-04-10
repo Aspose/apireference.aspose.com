@@ -17,6 +17,6 @@ System::Drawing::Rectangle::operator RectangleF() const
 
 ## See Also
 
-* Class [Rectangle](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Rectangle](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

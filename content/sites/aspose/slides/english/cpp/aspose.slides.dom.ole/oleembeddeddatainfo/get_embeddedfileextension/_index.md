@@ -17,7 +17,7 @@ System::String Aspose::Slides::DOM::Ole::OleEmbeddedDataInfo::get_EmbeddedFileEx
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [OleEmbeddedDataInfo](../)
-* Namespace [Aspose::Slides::DOM::Ole](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [OleEmbeddedDataInfo](./)
+* Namespace [Aspose::Slides::DOM::Ole](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.xml/xmlsecureresolver/set_credentials/
 ---
-## XmlSecureResolver::set_Credentials([SharedPtr](../../../system/sharedptr/)\<[Net::ICredentials](../../../system.net/icredentials/)\>) method
+## XmlSecureResolver::set_Credentials(SharedPtr\<Net::ICredentials\>) method
 
 
 Sets credentials used to authenticate web requests.
@@ -24,8 +24,8 @@ void System::Xml::XmlSecureResolver::set_Credentials(SharedPtr<Net::ICredentials
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICredentials](../../../system.net/icredentials/)
-* Class [XmlSecureResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICredentials](../../system.net/icredentials/)
+* Class [XmlSecureResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections/ilistimplreftype/ilistimplreftype/
 ---
-## IListImplRefType::IListImplRefType([System::SharedPtr](../../../system/sharedptr/)\<[System::Collections::Generic::List](../../../system.collections.generic/list/)\<[System::SharedPtr](../../../system/sharedptr/)\<T\>\>\>) constructor
+## IListImplRefType::IListImplRefType(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<T\>\>\>) constructor
 
 
 Creates new object instance.
@@ -24,8 +24,8 @@ System::Collections::IListImplRefType<T>::IListImplRefType(System::SharedPtr<Sys
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [List](../../../system.collections.generic/list/)
-* Class [IListImplRefType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [List](../../system.collections.generic/list/)
+* Class [IListImplRefType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

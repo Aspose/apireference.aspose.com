@@ -17,7 +17,7 @@ Size System::Drawing::Rectangle::get_Size() const
 
 ## See Also
 
-* Class [Size](../../size/)
-* Class [Rectangle](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Size](../size/)
+* Class [Rectangle](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

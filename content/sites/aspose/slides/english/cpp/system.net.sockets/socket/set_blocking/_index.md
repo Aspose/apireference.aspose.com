@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.net.sockets/socket/set_blocking/
 ---
-## Socket::set_Blocking(**bool**) method
+## Socket::set_Blocking(bool) method
 
 
 Sets a value that indicates if the socket is in the blocking mode.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_Blocking(bool value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

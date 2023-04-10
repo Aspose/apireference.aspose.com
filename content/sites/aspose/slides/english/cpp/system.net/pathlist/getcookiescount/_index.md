@@ -22,6 +22,6 @@ The number of cookies of all collection items.
 
 ## See Also
 
-* Class [PathList](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PathList](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

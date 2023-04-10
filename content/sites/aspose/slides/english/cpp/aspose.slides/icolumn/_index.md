@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/icolumn/
 Represents a column in a table.
 
 ```cpp
-class IColumn : public virtual Aspose::Slides::ICellCollection,
-                public Aspose::Slides::IBulkTextFormattable
+class IColumn : public virtual Aspose::Slides::ICellCollection,                public Aspose::Slides::IBulkTextFormattable
 ```
 
 ## Methods

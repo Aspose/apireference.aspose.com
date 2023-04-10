@@ -22,7 +22,7 @@ The concatenated values of the node and all its children.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlProcessingInstruction](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlProcessingInstruction](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

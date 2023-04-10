@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.drawing/fontfamily/getcelldescent/
 ---
-## FontFamily::GetCellDescent([FontStyle](../../fontstyle/)) method
+## FontFamily::GetCellDescent(FontStyle) method
 
 
 Returns the cell descent of the font family represented by the current object for the specified font style.
@@ -28,7 +28,7 @@ The cell descent of the font family represented by the current object for the sp
 
 ## See Also
 
-* Enum [FontStyle](../../fontstyle/)
-* Class [FontFamily](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FontStyle](../fontstyle/)
+* Class [FontFamily](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

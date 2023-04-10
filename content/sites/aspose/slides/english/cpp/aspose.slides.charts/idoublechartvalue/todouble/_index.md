@@ -22,6 +22,6 @@ Double value.
 
 ## See Also
 
-* Class [IDoubleChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDoubleChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

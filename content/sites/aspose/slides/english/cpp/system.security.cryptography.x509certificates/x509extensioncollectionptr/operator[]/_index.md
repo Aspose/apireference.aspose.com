@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/x509extensioncollectionptr/operator[]/
 ---
-## X509ExtensionCollectionPtr::operator[](**int32_t**) const method
+## X509ExtensionCollectionPtr::operator[](int32_t) const method
 
 
 Accessor.
@@ -28,8 +28,8 @@ Certificate at specified position.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509Extension](../../x509extension/)
-* Class [X509ExtensionCollectionPtr](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [X509Extension](../x509extension/)
+* Class [X509ExtensionCollectionPtr](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

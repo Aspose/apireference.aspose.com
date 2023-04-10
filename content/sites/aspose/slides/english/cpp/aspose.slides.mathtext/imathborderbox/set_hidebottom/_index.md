@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.mathtext/imathborderbox/set_hidebottom/
 ---
-## IMathBorderBox::set_HideBottom(**bool**) method
+## IMathBorderBox::set_HideBottom(bool) method
 
 
 Hide Bottom Edge (default is false) - specifies the hidden or shown state of the bottom edge of border box.
@@ -26,6 +26,6 @@ borderBox->set_HideBottom(true);
 
 ## See Also
 
-* Class [IMathBorderBox](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathBorderBox](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

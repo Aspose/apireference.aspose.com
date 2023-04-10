@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/itabcollection/idx_get/
 ---
-## ITabCollection::idx_get(**int32_t**) method
+## ITabCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [ITab](../../itab/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITab> Aspose::Slides::ITabCollection::idx_get(int32_t 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITab](../../itab/)
-* Class [ITabCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITab](../itab/)
+* Class [ITabCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The HTTP method.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

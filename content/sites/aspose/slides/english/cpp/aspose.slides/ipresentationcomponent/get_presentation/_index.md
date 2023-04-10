@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPresentation> Aspose::Slides::IPresentationComponent:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPresentation](../../ipresentation/)
-* Class [IPresentationComponent](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPresentation](../ipresentation/)
+* Class [IPresentationComponent](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

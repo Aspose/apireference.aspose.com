@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/lightrig/
 Represents [LightRig](./).
 
 ```cpp
-class LightRig : public Aspose::Slides::PVIObject,
-                 public Aspose::Slides::ILightRig
+class LightRig : public Aspose::Slides::PVIObject,                 public Aspose::Slides::ILightRig
 ```
 
 ## Methods

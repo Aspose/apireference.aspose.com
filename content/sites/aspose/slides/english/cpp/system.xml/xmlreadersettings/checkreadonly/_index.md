@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/system.xml/xmlreadersettings/checkreadonly/
 ---
-## XmlReaderSettings::CheckReadOnly(const [String](../../../system/string/)\&) method
+## XmlReaderSettings::CheckReadOnly(const String\&) method
 
 
 
@@ -17,7 +17,7 @@ void System::Xml::XmlReaderSettings::CheckReadOnly(const String &propertyName)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

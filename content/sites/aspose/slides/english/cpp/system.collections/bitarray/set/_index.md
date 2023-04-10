@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.collections/bitarray/set/
 ---
-## BitArray::Set(int, **bool**) method
+## BitArray::Set(int, bool) method
 
 
 Sets [BitArray](../) element.
@@ -25,6 +25,6 @@ void System::Collections::BitArray::Set(int index, bool value)
 
 ## See Also
 
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitArray](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

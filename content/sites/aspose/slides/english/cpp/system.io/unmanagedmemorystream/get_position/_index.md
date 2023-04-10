@@ -17,6 +17,6 @@ virtual int64_t System::IO::UnmanagedMemoryStream::get_Position() const override
 
 ## See Also
 
-* Class [UnmanagedMemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UnmanagedMemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,7 @@ virtual ASPOSE_SLIDES_LOCAL_API System::SharedPtr<IDOMObject> Aspose::Slides::ID
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IDOMObject](../)
-* Class [IDOMObject](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IDOMObject](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

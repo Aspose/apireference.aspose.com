@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFillFormatEffectiveData> Aspose::Slides::IBasePortion
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillFormatEffectiveData](../../ifillformateffectivedata/)
-* Class [IBasePortionFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillFormatEffectiveData](../ifillformateffectivedata/)
+* Class [IBasePortionFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

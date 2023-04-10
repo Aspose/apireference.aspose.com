@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/iformatprovider/getformat/
 ---
-## IFormatProvider::GetFormat(const [TypeInfo](../../typeinfo/)\&) method
+## IFormatProvider::GetFormat(const TypeInfo\&) method
 
 
 Returns an object that provides formatting services for the specified type.
@@ -28,9 +28,9 @@ An object that provides formatting sevices for the specified type
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
-* Class [TypeInfo](../../typeinfo/)
-* Class [IFormatProvider](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Object](../object/)
+* Class [TypeInfo](../typeinfo/)
+* Class [IFormatProvider](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

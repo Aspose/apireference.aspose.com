@@ -22,7 +22,7 @@ The host and port that the request or response was received by.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ViaHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ViaHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

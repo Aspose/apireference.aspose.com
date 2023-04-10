@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.drawing/bitmap/setresolution/
 ---
-## Bitmap::SetResolution(**float**, **float**) method
+## Bitmap::SetResolution(float, float) method
 
 
 Sets the resolution of the image.
@@ -25,6 +25,6 @@ void System::Drawing::Bitmap::SetResolution(float xDpi, float yDpi)
 
 ## See Also
 
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Bitmap](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

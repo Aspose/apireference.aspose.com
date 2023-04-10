@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/icommandeffect/set_type/
 ---
-## ICommandEffect::set_Type([CommandEffectType](../../commandeffecttype/)) method
+## ICommandEffect::set_Type(CommandEffectType) method
 
 
 Defines command effect type of behavior. Write [CommandEffectType](../../commandeffecttype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::ICommandEffect::set_Type(CommandEffectTy
 
 ## See Also
 
-* Enum [CommandEffectType](../../commandeffecttype/)
-* Class [ICommandEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CommandEffectType](../commandeffecttype/)
+* Class [ICommandEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

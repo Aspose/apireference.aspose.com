@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides/igradientformat/get_gradientstop/
 ---
-## IGradientFormat::get_GradientStop(**int32_t**) method
+## IGradientFormat::get_GradientStop(int32_t) method
 
 
 Returns a gradient stop at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IGradientStop> Aspose::Slides::IGradientFormat::get_Gr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGradientStop](../../igradientstop/)
-* Class [IGradientFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGradientStop](../igradientstop/)
+* Class [IGradientFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

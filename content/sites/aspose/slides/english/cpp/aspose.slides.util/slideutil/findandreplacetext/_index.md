@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.util/slideutil/findandreplacetext/
 ---
-## SlideUtil::FindAndReplaceText([System::SharedPtr](../../../system/sharedptr/)\<[IPresentation](../../../aspose.slides/ipresentation/)\>, **bool**, [System::String](../../../system/string/), [System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[PortionFormat](../../../aspose.slides/portionformat/)\>) method
+## SlideUtil::FindAndReplaceText(System::SharedPtr\<IPresentation\>, bool, System::String, System::String, System::SharedPtr\<PortionFormat\>) method
 
 
 Finds and replaces text in presentation with given format
@@ -49,10 +49,10 @@ pres->Save(u"replaced", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPresentation](../../../aspose.slides/ipresentation/)
-* Class [String](../../../system/string/)
-* Class [PortionFormat](../../../aspose.slides/portionformat/)
-* Class [SlideUtil](../)
-* Namespace [Aspose::Slides::Util](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPresentation](../../aspose.slides/ipresentation/)
+* Class [String](../../system/string/)
+* Class [PortionFormat](../../aspose.slides/portionformat/)
+* Class [SlideUtil](./)
+* Namespace [Aspose::Slides::Util](../)
+* Library [Aspose.Slides](../../)

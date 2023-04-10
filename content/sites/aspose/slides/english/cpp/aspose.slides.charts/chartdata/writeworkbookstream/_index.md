@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/chartdata/writeworkbookstream/
 ---
-## ChartData::WriteWorkbookStream([System::SharedPtr](../../../system/sharedptr/)\<[System::IO::MemoryStream](../../../system.io/memorystream/)\>) method
+## ChartData::WriteWorkbookStream(System::SharedPtr\<System::IO::MemoryStream\>) method
 
 
 Initializes the internally contained Excel workbook with user-specified value.
@@ -24,8 +24,8 @@ void Aspose::Slides::Charts::ChartData::WriteWorkbookStream(System::SharedPtr<Sy
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [MemoryStream](../../../system.io/memorystream/)
-* Class [ChartData](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [MemoryStream](../../system.io/memorystream/)
+* Class [ChartData](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

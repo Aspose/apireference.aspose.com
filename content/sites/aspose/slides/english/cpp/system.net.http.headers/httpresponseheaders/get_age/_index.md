@@ -22,8 +22,8 @@ A value of the 'Age' header.
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [TimeSpan](../../../system/timespan/)
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [TimeSpan](../../system/timespan/)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

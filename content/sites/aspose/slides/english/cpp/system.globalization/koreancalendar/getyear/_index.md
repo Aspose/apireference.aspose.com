@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.globalization/koreancalendar/getyear/
 ---
-## KoreanCalendar::GetYear([DateTime](../../../system/datetime/)) const method
+## KoreanCalendar::GetYear(DateTime) const method
 
 
 Gets year for the specified time point.
@@ -28,7 +28,7 @@ Year in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [KoreanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [KoreanCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

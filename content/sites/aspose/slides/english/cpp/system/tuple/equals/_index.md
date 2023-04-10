@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system/tuple/equals/
 ---
-## Tuple::Equals([SharedPtr](../../sharedptr/)\<[Object](../../object/)\>) method
+## Tuple::Equals(SharedPtr\<Object\>) method
 
 
 Determines if the current and the specified objects are identical.
@@ -28,8 +28,8 @@ True if the current and the specified objects are identical, otherwise - false
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
-* Class [Tuple](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Object](../object/)
+* Class [Tuple](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

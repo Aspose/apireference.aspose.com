@@ -17,6 +17,6 @@ virtual void System::Collections::IList::Clear()=0
 
 ## See Also
 
-* Class [IList](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IList](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

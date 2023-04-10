@@ -17,7 +17,7 @@ String System::IO::FileInfo::ToString() const override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FileInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FileInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

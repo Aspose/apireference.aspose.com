@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/commentcollection/addcomment/
 ---
-## CommentCollection::AddComment([System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>, [System::Drawing::PointF](../../../system.drawing/pointf/), [System::DateTime](../../../system/datetime/)) method
+## CommentCollection::AddComment(System::String, System::SharedPtr\<ISlide\>, System::Drawing::PointF, System::DateTime) method
 
 
 Add new comment at the end of a collection.
@@ -31,12 +31,12 @@ Added comment.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComment](../../icomment/)
-* Class [String](../../../system/string/)
-* Class [ISlide](../../islide/)
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [DateTime](../../../system/datetime/)
-* Class [CommentCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComment](../icomment/)
+* Class [String](../../system/string/)
+* Class [ISlide](../islide/)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [DateTime](../../system/datetime/)
+* Class [CommentCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

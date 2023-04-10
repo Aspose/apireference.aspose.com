@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/fontsources/set_memoryfonts/
 ---
-## FontSources::set_MemoryFonts([System::ArrayPtr](../../../system/arrayptr/)\<[System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\>) method
+## FontSources::set_MemoryFonts(System::ArrayPtr\<System::ArrayPtr\<uint8_t\>\>) method
 
 
 A collection of fonts represented as byte arrays.
@@ -17,7 +17,7 @@ void Aspose::Slides::FontSources::set_MemoryFonts(System::ArrayPtr<System::Array
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [FontSources](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [FontSources](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

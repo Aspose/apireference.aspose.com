@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/islidespicture/set_image/
 ---
-## ISlidesPicture::set_Image([System::SharedPtr](../../../system/sharedptr/)\<[IPPImage](../../ippimage/)\>) method
+## ISlidesPicture::set_Image(System::SharedPtr\<IPPImage\>) method
 
 
 Sets the embedded image. Write [IPPImage](../../ippimage/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::ISlidesPicture::set_Image(System::SharedPtr<IPPImag
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPPImage](../../ippimage/)
-* Class [ISlidesPicture](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPPImage](../ippimage/)
+* Class [ISlidesPicture](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

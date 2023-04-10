@@ -25,6 +25,6 @@ virtual void System::Array<T>::idx_set(int index, T value) override
 
 ## See Also
 
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.data/datarow/idx_get/
 ---
-## DataRow::idx_get(const **int32_t**) method
+## DataRow::idx_get(const int32_t) method
 
 
 RTTI information.
@@ -31,8 +31,8 @@ Boxed value.
 Gets object at specified column index. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [DataRow](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [DataRow](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

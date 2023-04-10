@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/isequencecollection/remove/
 ---
-## ISequenceCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[ISequence](../../isequence/)\>) method
+## ISequenceCollection::Remove(System::SharedPtr\<ISequence\>) method
 
 
 Removes specified sequence from a collection.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Animation::ISequenceCollection::Remove(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISequence](../../isequence/)
-* Class [ISequenceCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISequence](../isequence/)
+* Class [ISequenceCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

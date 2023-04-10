@@ -17,8 +17,8 @@ System::SharedPtr<ILineFormat> Aspose::Slides::CellFormat::get_BorderTop() overr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILineFormat](../../ilineformat/)
-* Class [CellFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILineFormat](../ilineformat/)
+* Class [CellFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

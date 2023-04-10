@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/iparagraph/set_text/
 ---
-## IParagraph::set_Text([System::String](../../../system/string/)) method
+## IParagraph::set_Text(System::String) method
 
 
 Sets the the plain text of a paragraph. Write [System::String](../../../system/string/).
@@ -21,7 +21,7 @@ virtual void Aspose::Slides::IParagraph::set_Text(System::String value)=0
 The text. 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IParagraph](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IParagraph](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.security.cryptography.xml/reference/set_digestmethod/
 ---
-## Reference::set_DigestMethod([String](../../../system/string/)) method
+## Reference::set_DigestMethod(String) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::Reference::set_DigestMethod(String val
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Reference](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Reference](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

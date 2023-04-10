@@ -17,7 +17,7 @@ FileAttributes System::IO::FileSystemInfo::get_Attributes()
 
 ## See Also
 
-* Enum [FileAttributes](../../fileattributes/)
-* Class [FileSystemInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FileAttributes](../fileattributes/)
+* Class [FileSystemInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

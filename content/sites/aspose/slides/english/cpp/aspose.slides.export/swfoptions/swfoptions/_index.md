@@ -17,6 +17,6 @@ Aspose::Slides::Export::SwfOptions::SwfOptions()
 
 ## See Also
 
-* Class [SwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

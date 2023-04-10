@@ -17,6 +17,6 @@ Aspose::Slides::Charts::ChartTypeCharacterizer::ChartTypeCharacterizer()=delete
 
 ## See Also
 
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

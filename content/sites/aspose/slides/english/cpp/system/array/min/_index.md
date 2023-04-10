@@ -22,7 +22,7 @@ A copy of the smallest element in the array.
 
 ## See Also
 
-* Typedef [UnderlyingType](../underlyingtype/)
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [UnderlyingType](./underlyingtype/)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

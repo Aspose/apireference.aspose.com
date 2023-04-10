@@ -17,7 +17,7 @@ StringFormatFlags System::Drawing::StringFormat::get_FormatFlags() const
 
 ## See Also
 
-* Enum [StringFormatFlags](../../stringformatflags/)
-* Class [StringFormat](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [StringFormatFlags](../stringformatflags/)
+* Class [StringFormat](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

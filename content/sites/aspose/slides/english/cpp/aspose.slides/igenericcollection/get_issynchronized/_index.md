@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IGenericCollection<T>::get_IsSynchronized()=0
 
 ## See Also
 
-* Class [IGenericCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGenericCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

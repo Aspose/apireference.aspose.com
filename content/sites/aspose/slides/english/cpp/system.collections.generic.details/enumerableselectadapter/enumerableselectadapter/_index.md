@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic.details/enumerableselectadapter/enumerableselectadapter/
 ---
-## EnumerableSelectAdapter::EnumerableSelectAdapter([SharedPtr](../../../system/sharedptr/)\<[IEnumerable](../../../system.collections.generic/ienumerable/)\<Source\>\>, const [Func](../../../system/func/)\<Source, Result\>\&) constructor
+## EnumerableSelectAdapter::EnumerableSelectAdapter(SharedPtr\<IEnumerable\<Source\>\>, const Func\<Source, Result\>\&) constructor
 
 
 
@@ -17,9 +17,9 @@ System::Collections::Generic::Details::EnumerableSelectAdapter<Source, Result>::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
-* Class [Func](../../../system/func/)
-* Class [EnumerableSelectAdapter](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
+* Class [Func](../../system/func/)
+* Class [EnumerableSelectAdapter](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

@@ -20,12 +20,6 @@ iterator Aspose::Slides::ColorOperationCollection::end() noexcept
 
 An iterator pointing right after the last element (if any) of the collection
 
-## See Also
-
-* Typedef [iterator](../iterator/)
-* Class [ColorOperationCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
 ## ColorOperationCollection::end() const method
 
 
@@ -42,7 +36,8 @@ An iterator pointing right after the last element (if any) of the const-qualifie
 
 ## See Also
 
-* Typedef [const_iterator](../const_iterator/)
-* Class [ColorOperationCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [iterator](./iterator/)
+* Typedef [const_iterator](./const_iterator/)
+* Class [ColorOperationCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

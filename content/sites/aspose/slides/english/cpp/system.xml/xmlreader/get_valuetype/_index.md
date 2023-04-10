@@ -22,7 +22,7 @@ The type that corresponds to the typed value of the node. The default is [String
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [XmlReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

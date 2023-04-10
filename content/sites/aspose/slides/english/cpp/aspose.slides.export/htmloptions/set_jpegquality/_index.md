@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.export/htmloptions/set_jpegquality/
 ---
-## HtmlOptions::set_JpegQuality(**uint8_t**) method
+## HtmlOptions::set_JpegQuality(uint8_t) method
 
 
 Sets a value determining the quality of the JPEG images inside PDF document. Write **uint8_t**.
@@ -25,6 +25,6 @@ Use this property to get or set the quality of the images inside a document when
 The default value is **95**.
 ## See Also
 
-* Class [HtmlOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HtmlOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

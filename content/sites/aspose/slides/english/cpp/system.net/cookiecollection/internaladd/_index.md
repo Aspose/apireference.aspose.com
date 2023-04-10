@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.net/cookiecollection/internaladd/
 ---
-## CookieCollection::InternalAdd([System::SharedPtr](../../../system/sharedptr/)\<[Cookie](../../cookie/)\>, **bool**) method
+## CookieCollection::InternalAdd(System::SharedPtr\<Cookie\>, bool) method
 
 
 Adds the specified cookie to the collection.
@@ -29,8 +29,8 @@ int32_t System::Net::CookieCollection::InternalAdd(System::SharedPtr<Cookie> coo
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Cookie](../../cookie/)
-* Class [CookieCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Cookie](../cookie/)
+* Class [CookieCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

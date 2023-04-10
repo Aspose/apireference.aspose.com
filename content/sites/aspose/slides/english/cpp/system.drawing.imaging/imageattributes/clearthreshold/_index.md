@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.drawing.imaging/imageattributes/clearthreshold/
 ---
-## ImageAttributes::ClearThreshold([ColorAdjustType](../../coloradjusttype/)) method
+## ImageAttributes::ClearThreshold(ColorAdjustType) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ void System::Drawing::Imaging::ImageAttributes::ClearThreshold(ColorAdjustType t
 
 ## See Also
 
-* Enum [ColorAdjustType](../../coloradjusttype/)
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorAdjustType](../coloradjusttype/)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

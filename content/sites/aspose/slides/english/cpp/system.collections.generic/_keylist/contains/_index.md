@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.collections.generic/_keylist/contains/
 ---
-## _KeyList::Contains(const [TKey](../../_keycollection/tkey/)\&) const method
+## _KeyList::Contains(const TKey\&) const method
 
 
 Checks if specified key is present in collection.
@@ -28,7 +28,7 @@ True if key is present, false otherwise.
 
 ## See Also
 
-* Typedef [TKey](../../_keycollection/tkey/)
-* Class [_KeyList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [TKey](../_keycollection/tkey/)
+* Class [_KeyList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

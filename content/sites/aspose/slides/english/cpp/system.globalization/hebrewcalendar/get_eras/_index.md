@@ -22,7 +22,7 @@ ArrayPtr<int> System::Globalization::HebrewCalendar::get_Eras() const override
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [HebrewCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [HebrewCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

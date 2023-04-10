@@ -22,8 +22,8 @@ New VBA project
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaProject](../../ivbaproject/)
-* Class [IVbaProjectFactory](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaProject](../ivbaproject/)
+* Class [IVbaProjectFactory](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

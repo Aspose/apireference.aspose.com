@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system/details_executionengineexception/is/
 ---
-## Details_ExecutionEngineException::Is(const [System::TypeInfo](../../typeinfo/)\&) const method
+## Details_ExecutionEngineException::Is(const System::TypeInfo\&) const method
 
 
 
@@ -31,7 +31,7 @@ True if object is of tagged type or its subclass, false otherwise.
 Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [Details_ExecutionEngineException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [Details_ExecutionEngineException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

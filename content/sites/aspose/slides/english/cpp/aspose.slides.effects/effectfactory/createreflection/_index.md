@@ -22,8 +22,8 @@ System::SharedPtr<IReflection> Aspose::Slides::Effects::EffectFactory::CreateRef
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IReflection](../../ireflection/)
-* Class [EffectFactory](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IReflection](../ireflection/)
+* Class [EffectFactory](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ true if the [System::ComponentModel::BackgroundWorker](../) supports progress up
 
 ## See Also
 
-* Class [BackgroundWorker](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BackgroundWorker](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/portioncollection/
 Represents a collection of portions.
 
 ```cpp
-class PortionCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Paragraph>>,
-                          public Aspose::Slides::IPortionCollection
+class PortionCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Paragraph>>,                          public Aspose::Slides::IPortionCollection
 ```
 
 ## Methods

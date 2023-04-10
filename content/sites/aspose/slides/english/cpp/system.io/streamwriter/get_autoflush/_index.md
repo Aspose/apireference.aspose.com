@@ -17,6 +17,6 @@ bool System::IO::StreamWriter::get_AutoFlush() const
 
 ## See Also
 
-* Class [StreamWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StreamWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

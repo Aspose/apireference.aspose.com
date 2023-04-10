@@ -22,8 +22,8 @@ An XPathNavigator object used to navigate the node. The XPathNavigator is positi
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XPathNavigator](../../../system.xml.xpath/xpathnavigator/)
-* Class [XmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XPathNavigator](../../system.xml.xpath/xpathnavigator/)
+* Class [XmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

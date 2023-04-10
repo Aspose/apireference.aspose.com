@@ -22,6 +22,6 @@ virtual bool System::Xml::XmlReader::get_CanReadValueChunk()
 
 ## See Also
 
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

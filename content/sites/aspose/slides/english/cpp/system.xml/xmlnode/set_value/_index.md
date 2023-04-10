@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.xml/xmlnode/set_value/
 ---
-## XmlNode::set_Value([String](../../../system/string/)) method
+## XmlNode::set_Value(String) method
 
 
 Sets the value of the node.
@@ -24,7 +24,7 @@ virtual void System::Xml::XmlNode::set_Value(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

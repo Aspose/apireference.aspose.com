@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/axis/
 Encapsulates the object that represents a chart's axis.
 
 ```cpp
-class Axis : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::AxesManager>>,
-             public Aspose::Slides::Charts::IAxis
+class Axis : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::AxesManager>>,             public Aspose::Slides::Charts::IAxis
 ```
 
 ## Methods

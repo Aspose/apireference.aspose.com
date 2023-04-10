@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/system.collections.generic/list/removeall/
 ---
-## List::RemoveAll([Predicate](../../../system/predicate/)\<T\>) method
+## List::RemoveAll(Predicate\<T\>) method
 
 
 Removes all elements matching specific predicate.
@@ -28,7 +28,7 @@ Number of removed elements.
 
 ## See Also
 
-* Typedef [Predicate](../../../system/predicate/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [Predicate](../../system/predicate/)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

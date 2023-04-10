@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/enumparsehelper/parse/
 ---
-## EnumParseHelper::Parse(const [String](../../string/)\&, **bool**) method
+## EnumParseHelper::Parse(const String\&, bool) method
 
 
 Converts the specfied string into equivalent enum constant value.
@@ -29,7 +29,7 @@ The enumeration constant whose name is specified in **str**
 
 ## See Also
 
-* Class [String](../../string/)
-* Struct [EnumParseHelper](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Struct [EnumParseHelper](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

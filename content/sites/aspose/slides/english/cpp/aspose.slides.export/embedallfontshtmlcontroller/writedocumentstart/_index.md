@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.export/embedallfontshtmlcontroller/writedocumentstart/
 ---
-## EmbedAllFontsHtmlController::WriteDocumentStart([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlGenerator](../../ihtmlgenerator/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IPresentation](../../../aspose.slides/ipresentation/)\>) method
+## EmbedAllFontsHtmlController::WriteDocumentStart(System::SharedPtr\<IHtmlGenerator\>, System::SharedPtr\<IPresentation\>) method
 
 
 Called to write html document header. Called once per presentation conversion.
@@ -25,9 +25,9 @@ void Aspose::Slides::Export::EmbedAllFontsHtmlController::WriteDocumentStart(Sys
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHtmlGenerator](../../ihtmlgenerator/)
-* Class [IPresentation](../../../aspose.slides/ipresentation/)
-* Class [EmbedAllFontsHtmlController](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHtmlGenerator](../ihtmlgenerator/)
+* Class [IPresentation](../../aspose.slides/ipresentation/)
+* Class [EmbedAllFontsHtmlController](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

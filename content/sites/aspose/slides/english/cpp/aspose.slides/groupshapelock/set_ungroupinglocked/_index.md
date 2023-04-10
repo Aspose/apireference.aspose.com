@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/groupshapelock/set_ungroupinglocked/
 ---
-## GroupShapeLock::set_UngroupingLocked(**bool**) method
+## GroupShapeLock::set_UngroupingLocked(bool) method
 
 
 Determines whether splitting this groupshape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::GroupShapeLock::set_UngroupingLocked(bool value) override
 
 ## See Also
 
-* Class [GroupShapeLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GroupShapeLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

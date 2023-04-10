@@ -26,6 +26,6 @@ radical->set_HideDegree(true);
 
 ## See Also
 
-* Class [IMathRadical](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathRadical](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

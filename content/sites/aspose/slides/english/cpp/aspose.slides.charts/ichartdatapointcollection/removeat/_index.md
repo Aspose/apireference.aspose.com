@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.slides.charts/ichartdatapointcollection/removeat/
 ---
-## IChartDataPointCollection::RemoveAt(**int32_t**) method
+## IChartDataPointCollection::RemoveAt(int32_t) method
 
 
 Removes the element at the given index.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::Charts::IChartDataPointCollection::RemoveAt(int32_t
 
 ## See Also
 
-* Class [IChartDataPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartDataPointCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ System::TypeInfoPtr::~TypeInfoPtr()
 
 ## See Also
 
-* Struct [TypeInfoPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [TypeInfoPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

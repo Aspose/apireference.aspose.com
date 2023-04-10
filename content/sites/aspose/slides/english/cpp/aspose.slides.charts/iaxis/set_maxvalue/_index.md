@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides.charts/iaxis/set_maxvalue/
 ---
-## IAxis::set_MaxValue(**double**) method
+## IAxis::set_MaxValue(double) method
 
 
 Represents the maximum value on the value axis. Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_MaxValue(double value)=0
 
 ## See Also
 
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

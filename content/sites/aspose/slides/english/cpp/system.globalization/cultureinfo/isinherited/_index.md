@@ -17,6 +17,6 @@ bool System::Globalization::CultureInfo::IsInherited() const
 
 ## See Also
 
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

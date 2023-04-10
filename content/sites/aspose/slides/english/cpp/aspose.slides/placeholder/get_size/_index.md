@@ -17,7 +17,7 @@ PlaceholderSize Aspose::Slides::Placeholder::get_Size() override
 
 ## See Also
 
-* Enum [PlaceholderSize](../../placeholdersize/)
-* Class [Placeholder](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PlaceholderSize](../placeholdersize/)
+* Class [Placeholder](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

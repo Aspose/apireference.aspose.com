@@ -33,12 +33,6 @@ template<class T,class ...> std::enable_if<!IsSmartPtr<T>::value, SmartPtr<T>>::
 
 [SmartPtr](../smartptr/) to newly created object, always in shared mode.
 
-## See Also
-
-* Struct [IsSmartPtr](../issmartptr/)
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::MakeObject(Args\&&...) function
 
 
@@ -68,6 +62,7 @@ template<class T,class ...> std::enable_if<IsSmartPtr<T>::value, T>::type System
 
 ## See Also
 
-* Struct [IsSmartPtr](../issmartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Struct [IsSmartPtr](./issmartptr/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

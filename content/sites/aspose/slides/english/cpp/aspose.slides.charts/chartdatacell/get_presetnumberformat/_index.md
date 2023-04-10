@@ -60,6 +60,6 @@ uint8_t Aspose::Slides::Charts::ChartDataCell::get_PresetNumberFormat() override
 
 ## See Also
 
-* Class [ChartDataCell](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataCell](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

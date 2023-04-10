@@ -18,8 +18,8 @@ System::SharedPtr<IComment> Aspose::Slides::Comment::get_ParentComment() overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComment](../../icomment/)
-* Class [Comment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComment](../icomment/)
+* Class [Comment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

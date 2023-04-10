@@ -22,8 +22,8 @@ ASN.1-encoded public key parameters.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)
-* Class [PublicKey](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [AsnEncodedData](../../system.security.cryptography/asnencodeddata/)
+* Class [PublicKey](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

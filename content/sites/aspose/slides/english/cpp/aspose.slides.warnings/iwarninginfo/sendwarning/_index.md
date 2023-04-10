@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.warnings/iwarninginfo/sendwarning/
 ---
-## IWarningInfo::SendWarning([System::SharedPtr](../../../system/sharedptr/)\<[IWarningCallback](../../iwarningcallback/)\>) method
+## IWarningInfo::SendWarning(System::SharedPtr\<IWarningCallback\>) method
 
 
 If receiver is not null ends warning to a specified receiver and throws the AbortRequestedException if receiver decided to abort a operation.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Warnings::IWarningInfo::SendWarning(System::SharedP
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IWarningCallback](../../iwarningcallback/)
-* Class [IWarningInfo](../)
-* Namespace [Aspose::Slides::Warnings](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IWarningCallback](../iwarningcallback/)
+* Class [IWarningInfo](./)
+* Namespace [Aspose::Slides::Warnings](../)
+* Library [Aspose.Slides](../../)

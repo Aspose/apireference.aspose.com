@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system/urishim/ishexencoding/
 ---
-## UriShim::IsHexEncoding(const [String](../../string/)\&, **int32_t**) method
+## UriShim::IsHexEncoding(const String\&, int32_t) method
 
 
 Checks if given pattern is an escaped hex form.
@@ -29,7 +29,7 @@ True if there's an escaped hex pattern at given position, false otherwise.
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [UriShim](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [UriShim](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

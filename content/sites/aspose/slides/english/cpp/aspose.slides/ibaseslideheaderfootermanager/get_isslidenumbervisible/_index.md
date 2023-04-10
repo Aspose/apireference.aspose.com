@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IBaseSlideHeaderFooterManager::get_IsSlideNumberVis
 
 ## See Also
 
-* Class [IBaseSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBaseSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

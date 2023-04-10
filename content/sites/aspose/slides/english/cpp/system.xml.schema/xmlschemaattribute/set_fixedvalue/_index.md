@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaattribute/set_fixedvalue/
 ---
-## XmlSchemaAttribute::set_FixedValue(const [String](../../../system/string/)\&) method
+## XmlSchemaAttribute::set_FixedValue(const String\&) method
 
 
 Sets the fixed value for the attribute.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaAttribute::set_FixedValue(const String &value
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaAttribute](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaAttribute](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

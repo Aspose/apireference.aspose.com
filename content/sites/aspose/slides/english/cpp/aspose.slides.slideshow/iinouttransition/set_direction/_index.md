@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/iinouttransition/set_direction/
 ---
-## IInOutTransition::set_Direction([TransitionInOutDirectionType](../../transitioninoutdirectiontype/)) method
+## IInOutTransition::set_Direction(TransitionInOutDirectionType) method
 
 
 Direction of a transition effect. Write [TransitionInOutDirectionType](../../transitioninoutdirectiontype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::IInOutTransition::set_Direction(Transiti
 
 ## See Also
 
-* Enum [TransitionInOutDirectionType](../../transitioninoutdirectiontype/)
-* Class [IInOutTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionInOutDirectionType](../transitioninoutdirectiontype/)
+* Class [IInOutTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

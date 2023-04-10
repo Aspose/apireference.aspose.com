@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml/xmlprocessinginstruction/set_value/
 ---
-## XmlProcessingInstruction::set_Value([String](../../../system/string/)) method
+## XmlProcessingInstruction::set_Value(String) method
 
 
 Sets the value of the node.
@@ -24,7 +24,7 @@ void System::Xml::XmlProcessingInstruction::set_Value(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlProcessingInstruction](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlProcessingInstruction](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

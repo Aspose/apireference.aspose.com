@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/sectioncollection/removesection/
 ---
-## SectionCollection::RemoveSection([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
+## SectionCollection::RemoveSection(System::SharedPtr\<ISection\>) method
 
 
 Remove section. [Slides](../../) contained in the section will be merged into previous section.
@@ -24,8 +24,8 @@ void Aspose::Slides::SectionCollection::RemoveSection(System::SharedPtr<ISection
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISection](../../isection/)
-* Class [SectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISection](../isection/)
+* Class [SectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

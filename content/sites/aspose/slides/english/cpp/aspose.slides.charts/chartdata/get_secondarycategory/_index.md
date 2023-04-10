@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides.charts/chartdata/get_secondarycategory/
 ---
-## ChartData::get_SecondaryCategory(**int32_t**) method
+## ChartData::get_SecondaryCategory(int32_t) method
 
 
 Returns the secondary category at the specified index. If [get_UseSecondaryCategories](../get_usesecondarycategories/) is false, then [ChartData::get_SecondaryCategories](../get_secondarycategories/) is null.
@@ -18,8 +18,8 @@ System::SharedPtr<IChartCategory> Aspose::Slides::Charts::ChartData::get_Seconda
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartCategory](../../ichartcategory/)
-* Class [ChartData](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartCategory](../ichartcategory/)
+* Class [ChartData](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/customlinecap/getstrokecaps/
 ---
-## CustomLineCap::GetStrokeCaps([LineCap](../../linecap/)\&, [LineCap](../../linecap/)\&) method
+## CustomLineCap::GetStrokeCaps(LineCap\&, LineCap\&) method
 
 
 Gets the start and end line caps of the custom cap represented by the current object.
@@ -25,7 +25,7 @@ void System::Drawing::Drawing2D::CustomLineCap::GetStrokeCaps(LineCap &startCap,
 
 ## See Also
 
-* Enum [LineCap](../../linecap/)
-* Class [CustomLineCap](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineCap](../linecap/)
+* Class [CustomLineCap](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

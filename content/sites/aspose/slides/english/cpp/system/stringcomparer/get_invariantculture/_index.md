@@ -22,7 +22,7 @@ Pointer to invariant culture comparer.
 
 ## See Also
 
-* Typedef [StringComparerPtr](../../stringcomparerptr/)
-* Class [StringComparer](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [StringComparerPtr](../stringcomparerptr/)
+* Class [StringComparer](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

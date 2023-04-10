@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.slides.export/pdfoptions/set_drawslidesframe/
 ---
-## PdfOptions::set_DrawSlidesFrame(**bool**) method
+## PdfOptions::set_DrawSlidesFrame(bool) method
 
 
 True to draw black frame around each slide. Write **bool**.
@@ -21,6 +21,6 @@ void Aspose::Slides::Export::PdfOptions::set_DrawSlidesFrame(bool value) overrid
 Default is **false**. 
 ## See Also
 
-* Class [PdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

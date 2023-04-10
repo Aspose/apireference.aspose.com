@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/iprogresscallback/reporting/
 ---
-## IProgressCallback::Reporting(**double**) method
+## IProgressCallback::Reporting(double) method
 
 
 Reports a progress update.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IProgressCallback::Reporting(double progressValue)=
 
 ## See Also
 
-* Class [IProgressCallback](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IProgressCallback](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IMasterSlide> Aspose::Slides::LayoutSlide::get_MasterSlide() o
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterSlide](../../imasterslide/)
-* Class [LayoutSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterSlide](../imasterslide/)
+* Class [LayoutSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

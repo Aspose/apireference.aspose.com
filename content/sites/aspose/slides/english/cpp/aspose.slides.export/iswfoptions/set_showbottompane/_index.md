@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides.export/iswfoptions/set_showbottompane/
 ---
-## ISwfOptions::set_ShowBottomPane(**bool**) method
+## ISwfOptions::set_ShowBottomPane(bool) method
 
 
 Show/hide bottom pane. Can be overridden in flashvars. Default is true.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISwfOptions::set_ShowBottomPane(bool value)
 
 ## See Also
 
-* Class [ISwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

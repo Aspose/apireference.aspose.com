@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.xml/xmlwriter/writeentityref/
 ---
-## XmlWriter::WriteEntityRef(const [String](../../../system/string/)\&) method
+## XmlWriter::WriteEntityRef(const String\&) method
 
 
 When overridden in a derived class, writes out an entity reference as **&name**;.
@@ -24,7 +24,7 @@ virtual void System::Xml::XmlWriter::WriteEntityRef(const String &name)=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

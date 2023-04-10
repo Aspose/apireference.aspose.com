@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.effects/imagetransformoperation/
 Represents abstract image transformation effect.
 
 ```cpp
-class ImageTransformOperation : public Aspose::Slides::PVIObject,
-                                public virtual Aspose::Slides::Effects::IImageTransformOperation
+class ImageTransformOperation : public Aspose::Slides::PVIObject,                                public virtual Aspose::Slides::Effects::IImageTransformOperation
 ```
 
 ## Methods

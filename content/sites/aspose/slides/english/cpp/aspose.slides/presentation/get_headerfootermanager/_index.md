@@ -74,8 +74,8 @@ headerFooterManager->SetDateTimeAndChildDateTimesText(u"Date and time text");
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPresentationHeaderFooterManager](../../ipresentationheaderfootermanager/)
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPresentationHeaderFooterManager](../ipresentationheaderfootermanager/)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

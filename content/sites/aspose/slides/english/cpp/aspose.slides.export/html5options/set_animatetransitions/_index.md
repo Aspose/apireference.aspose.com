@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.export/html5options/set_animatetransitions/
 ---
-## Html5Options::set_AnimateTransitions(**bool**) method
+## Html5Options::set_AnimateTransitions(bool) method
 
 
 Sets transitions animation option. Write **bool**.
@@ -33,6 +33,6 @@ pres->Save(u"demo-animate-transitions.html", SaveFormat::Html5, options);
 
 ## See Also
 
-* Class [Html5Options](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Html5Options](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

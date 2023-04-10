@@ -34,6 +34,6 @@ A new instance of ScopedGuard class
 
 ## See Also
 
-* Struct [ScopeGuard](../scopeguard/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [ScopeGuard](./scopeguard/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IControlPropertiesCollection::get_Count()=0
 
 ## See Also
 
-* Class [IControlPropertiesCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IControlPropertiesCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

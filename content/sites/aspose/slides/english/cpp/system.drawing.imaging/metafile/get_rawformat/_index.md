@@ -17,7 +17,7 @@ virtual Imaging::ImageFormatPtr System::Drawing::Imaging::Metafile::get_RawForma
 
 ## See Also
 
-* Typedef [ImageFormatPtr](../../imageformatptr/)
-* Class [Metafile](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ImageFormatPtr](../imageformatptr/)
+* Class [Metafile](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

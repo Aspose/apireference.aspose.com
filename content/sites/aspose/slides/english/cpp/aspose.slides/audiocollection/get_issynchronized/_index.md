@@ -17,6 +17,6 @@ bool Aspose::Slides::AudioCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [AudioCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AudioCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

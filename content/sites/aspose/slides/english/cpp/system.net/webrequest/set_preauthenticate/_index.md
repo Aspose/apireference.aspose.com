@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system.net/webrequest/set_preauthenticate/
 ---
-## WebRequest::set_PreAuthenticate(**bool**) method
+## WebRequest::set_PreAuthenticate(bool) method
 
 
 Sets a value that indicates if the request must be pre-authenticated.
@@ -24,6 +24,6 @@ virtual void System::Net::WebRequest::set_PreAuthenticate(bool value)
 
 ## See Also
 
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ Newly created collection to wrap collection's keys.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Typedef [KeyCollection](../../../system.collections.generic/dictionary/keycollection/)
-* Class [ConcurrentDictionary](../)
-* Namespace [System::Collections::Concurrent](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Typedef [KeyCollection](../../system.collections.generic/dictionary/keycollection/)
+* Class [ConcurrentDictionary](./)
+* Namespace [System::Collections::Concurrent](../)
+* Library [Aspose.Slides](../../)

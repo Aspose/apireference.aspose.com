@@ -17,6 +17,6 @@ void Aspose::Slides::PortionCollection::Clear() override
 
 ## See Also
 
-* Class [PortionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PortionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

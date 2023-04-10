@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/iaxis/set_displayunit/
 ---
-## IAxis::set_DisplayUnit([DisplayUnitType](../../displayunittype/)) method
+## IAxis::set_DisplayUnit(DisplayUnitType) method
 
 
 Specifies the scaling value of the display units for the value axis. Write [DisplayUnitType](../../displayunittype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_DisplayUnit(DisplayUnitType valu
 
 ## See Also
 
-* Enum [DisplayUnitType](../../displayunittype/)
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DisplayUnitType](../displayunittype/)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

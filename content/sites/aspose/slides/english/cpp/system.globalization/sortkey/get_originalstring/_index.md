@@ -22,7 +22,7 @@ Original string used to create this object.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SortKey](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SortKey](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

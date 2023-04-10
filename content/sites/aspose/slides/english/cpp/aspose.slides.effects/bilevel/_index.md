@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.effects/bilevel/
 Represents a Bi-Level (black/white) effect. Input colors whose luminance is less than the specified threshold value are changed to black. Input colors whose luminance are greater than or equal the specified value are set to white. The alpha effect values are unaffected by this effect.
 
 ```cpp
-class BiLevel : public Aspose::Slides::Effects::ImageTransformOperation,
-                public Aspose::Slides::Effects::IBiLevel,
-                public Aspose::Slides::Effects::IVisualEffect
+class BiLevel : public Aspose::Slides::Effects::ImageTransformOperation,                public Aspose::Slides::Effects::IBiLevel,                public Aspose::Slides::Effects::IVisualEffect
 ```
 
 ## Methods

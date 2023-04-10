@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system/environment/failfast/
 ---
-## Environment::FailFast(const [String](../../string/)\&) method
+## Environment::FailFast(const String\&) method
 
 
 Aborts the current process.
@@ -24,7 +24,7 @@ static void System::Environment::FailFast(const String &message)
 
 ## See Also
 
-* Class [String](../../string/)
-* Struct [Environment](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Struct [Environment](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

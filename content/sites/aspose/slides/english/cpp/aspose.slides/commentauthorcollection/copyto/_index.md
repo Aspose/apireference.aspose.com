@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides/commentauthorcollection/copyto/
 ---
-## CommentAuthorCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[ICommentAuthor](../../icommentauthor/)\>\>, **int32_t**) method
+## CommentAuthorCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<ICommentAuthor\>\>, int32_t) method
 
 
 Copies all elements from the collection to the specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::CommentAuthorCollection::CopyTo(System::ArrayPtr<System::Sh
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommentAuthor](../../icommentauthor/)
-* Class [CommentAuthorCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommentAuthor](../icommentauthor/)
+* Class [CommentAuthorCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

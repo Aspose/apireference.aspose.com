@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.net.http.headers/httprequestheaders/set_maxforwards/
 ---
-## HttpRequestHeaders::set_MaxForwards([Nullable](../../../system/nullable/)\<**int32_t**\>) method
+## HttpRequestHeaders::set_MaxForwards(Nullable\<int32_t\>) method
 
 
 Sets a value of the 'Max-Forwards' header.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_MaxForwards(Nullable<in
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

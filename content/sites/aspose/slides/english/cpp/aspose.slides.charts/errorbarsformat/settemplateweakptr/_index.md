@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/errorbarsformat/settemplateweakptr/
 ---
-## ErrorBarsFormat::SetTemplateWeakPtr(**uint32_t**) method
+## ErrorBarsFormat::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ErrorBarsFormat::SetTemplateWeakPtr(uint32_t argume
 
 ## See Also
 
-* Class [ErrorBarsFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ErrorBarsFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

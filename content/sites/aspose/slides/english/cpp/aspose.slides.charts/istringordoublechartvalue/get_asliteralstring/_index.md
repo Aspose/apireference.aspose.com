@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Charts::IStringOrDoubleChartValue::get_As
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IStringOrDoubleChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IStringOrDoubleChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

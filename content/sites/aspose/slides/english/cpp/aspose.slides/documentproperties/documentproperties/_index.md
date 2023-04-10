@@ -17,6 +17,6 @@ Aspose::Slides::DocumentProperties::DocumentProperties()
 
 ## See Also
 
-* Class [DocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.data.common/dbconnectionstringbuilder/idx_get/
 ---
-## DbConnectionStringBuilder::idx_get([String](../../../system/string/)) method
+## DbConnectionStringBuilder::idx_get(String) method
 
 
 RTTI information.
@@ -31,8 +31,8 @@ Boxed value of named property.
 Gets named value. 
 ## See Also
 
-* Typedef [ptr](../../../system/object/ptr/)
-* Class [String](../../../system/string/)
-* Class [DbConnectionStringBuilder](../)
-* Namespace [System::Data::Common](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ptr](../../system/object/ptr/)
+* Class [String](../../system/string/)
+* Class [DbConnectionStringBuilder](./)
+* Namespace [System::Data::Common](../)
+* Library [Aspose.Slides](../../)

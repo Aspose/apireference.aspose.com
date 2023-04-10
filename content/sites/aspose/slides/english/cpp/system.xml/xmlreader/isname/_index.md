@@ -6,7 +6,7 @@ type: docs
 weight: 989
 url: /cpp/system.xml/xmlreader/isname/
 ---
-## XmlReader::IsName(const [String](../../../system/string/)\&) method
+## XmlReader::IsName(const String\&) method
 
 
 Returns a value indicating whether the string argument is a valid XML name.
@@ -28,7 +28,7 @@ static bool System::Xml::XmlReader::IsName(const String &str)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

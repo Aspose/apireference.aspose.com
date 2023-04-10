@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/summaryzoomsectioncollection/
 Represents a collection of Summary Zoom [Section](../section/) objects.
 
 ```cpp
-class SummaryZoomSectionCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::SummaryZoomFrame>>,
-                                     public Aspose::Slides::ISummaryZoomSectionCollection
+class SummaryZoomSectionCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::SummaryZoomFrame>>,                                     public Aspose::Slides::ISummaryZoomSectionCollection
 ```
 
 ## Methods

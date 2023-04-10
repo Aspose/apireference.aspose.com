@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/itexthighlightingoptions/set_casesensitive/
 ---
-## ITextHighlightingOptions::set_CaseSensitive(**bool**) method
+## ITextHighlightingOptions::set_CaseSensitive(bool) method
 
 
 Set true to use case-sensitive search, false - otherwise. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITextHighlightingOptions::set_CaseSensitive(bool va
 
 ## See Also
 
-* Class [ITextHighlightingOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITextHighlightingOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

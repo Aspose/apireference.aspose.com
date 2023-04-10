@@ -22,8 +22,8 @@ The collection of global simple and complex types.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObjectTable](../../xmlschemaobjecttable/)
-* Class [XmlSchemaSet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObjectTable](../xmlschemaobjecttable/)
+* Class [XmlSchemaSet](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

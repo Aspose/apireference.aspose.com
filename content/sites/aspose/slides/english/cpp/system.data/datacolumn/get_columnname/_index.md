@@ -25,7 +25,7 @@ Column name.
 Gets column name. 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DataColumn](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DataColumn](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

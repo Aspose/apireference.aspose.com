@@ -17,7 +17,7 @@ System::String Aspose::Slides::Animation::PropertyEffect::get_By() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PropertyEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PropertyEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

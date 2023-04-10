@@ -22,8 +22,7 @@ Pointer to entry aseembly.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Assembly](../)
-* Class [Assembly](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Assembly](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

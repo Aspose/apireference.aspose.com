@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.mathtext/mathradicalfactory/createmathradical/
 ---
-## MathRadicalFactory::CreateMathRadical([System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMathElement](../../imathelement/)\>) method
+## MathRadicalFactory::CreateMathRadical(System::SharedPtr\<IMathElement\>, System::SharedPtr\<IMathElement\>) method
 
 
 Creates a math radical
@@ -29,9 +29,9 @@ new radical element
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathRadical](../../imathradical/)
-* Class [IMathElement](../../imathelement/)
-* Class [MathRadicalFactory](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathRadical](../imathradical/)
+* Class [IMathElement](../imathelement/)
+* Class [MathRadicalFactory](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

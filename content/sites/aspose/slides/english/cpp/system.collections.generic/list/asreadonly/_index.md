@@ -22,8 +22,8 @@ Newly created read-only wrapper around current list.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ReadOnlyCollection](../../../system.collections.objectmodel/readonlycollection/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ReadOnlyCollection](../../system.collections.objectmodel/readonlycollection/)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

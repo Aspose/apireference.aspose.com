@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net/webrequest/set_headers/
 ---
-## WebRequest::set_Headers([System::SharedPtr](../../../system/sharedptr/)\<[WebHeaderCollection](../../webheadercollection/)\>) method
+## WebRequest::set_Headers(System::SharedPtr\<WebHeaderCollection\>) method
 
 
 Sets the collection of the HTTP headers.
@@ -24,8 +24,8 @@ virtual void System::Net::WebRequest::set_Headers(System::SharedPtr<WebHeaderCol
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WebHeaderCollection](../../webheadercollection/)
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [WebHeaderCollection](../webheadercollection/)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

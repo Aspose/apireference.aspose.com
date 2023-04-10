@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/effectformat/set_filloverlayeffect/
 ---
-## EffectFormat::set_FillOverlayEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::IFillOverlay](../../../aspose.slides.effects/ifilloverlay/)\>) method
+## EffectFormat::set_FillOverlayEffect(System::SharedPtr\<Effects::IFillOverlay\>) method
 
 
 Fill overlay effect. Write [Effects::IFillOverlay](../../../aspose.slides.effects/ifilloverlay/).
@@ -17,8 +17,8 @@ void Aspose::Slides::EffectFormat::set_FillOverlayEffect(System::SharedPtr<Effec
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillOverlay](../../../aspose.slides.effects/ifilloverlay/)
-* Class [EffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillOverlay](../../aspose.slides.effects/ifilloverlay/)
+* Class [EffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

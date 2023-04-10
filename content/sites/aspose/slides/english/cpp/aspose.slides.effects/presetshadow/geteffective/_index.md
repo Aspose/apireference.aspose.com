@@ -22,8 +22,8 @@ A [IPresetShadowEffectiveData](../../ipresetshadoweffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPresetShadowEffectiveData](../../ipresetshadoweffectivedata/)
-* Class [PresetShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPresetShadowEffectiveData](../ipresetshadoweffectivedata/)
+* Class [PresetShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

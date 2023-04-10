@@ -22,8 +22,8 @@ A value of the 'Content-Range' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ContentRangeHeaderValue](../../contentrangeheadervalue/)
-* Class [HttpContentHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ContentRangeHeaderValue](../contentrangeheadervalue/)
+* Class [HttpContentHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

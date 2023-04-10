@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/system.net.security/sslstream/endwrite/
 ---
-## SslStream::EndWrite([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
+## SslStream::EndWrite(System::SharedPtr\<IAsyncResult\>) method
 
 
 Ends an asynchronous write operation. Waits until the specified asynchronous write operation completes.
@@ -24,8 +24,8 @@ void System::Net::Security::SslStream::EndWrite(System::SharedPtr<IAsyncResult> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

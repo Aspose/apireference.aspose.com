@@ -6,7 +6,7 @@ type: docs
 weight: 989
 url: /cpp/system.xml.xpath/xpathnavigator/prependchildelement/
 ---
-## XPathNavigator::PrependChildElement([String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/)) method
+## XPathNavigator::PrependChildElement(String, String, String, String) method
 
 
 Creates a new child element at the beginning of the list of child nodes of the current node using the namespace prefix, local name, and namespace URI specified with the value specified.
@@ -27,7 +27,7 @@ virtual void System::Xml::XPath::XPathNavigator::PrependChildElement(String pref
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

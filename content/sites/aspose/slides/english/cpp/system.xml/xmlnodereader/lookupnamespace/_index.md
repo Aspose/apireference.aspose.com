@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/system.xml/xmlnodereader/lookupnamespace/
 ---
-## XmlNodeReader::LookupNamespace(const [String](../../../system/string/)\&) method
+## XmlNodeReader::LookupNamespace(const String\&) method
 
 
 Resolves a namespace prefix in the current element's scope.
@@ -28,7 +28,7 @@ The namespace URI to which the prefix maps or **nullptr** if no matching prefix 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNodeReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNodeReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

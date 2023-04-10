@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/system/string/normalize/
 ---
-## String::Normalize([System::Text::NormalizationForm](../../../system.text/normalizationform/)) const method
+## String::Normalize(System::Text::NormalizationForm) const method
 
 
 Normalizes unicode string using normalization form specified.
@@ -28,8 +28,7 @@ Normalized string.
 
 ## See Also
 
-* Class [String](../)
-* Enum [NormalizationForm](../../../system.text/normalizationform/)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NormalizationForm](../../system.text/normalizationform/)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

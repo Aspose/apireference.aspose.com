@@ -33,6 +33,6 @@ pres->Save(options);
 
 ## See Also
 
-* Class [IXamlOptions](../)
-* Namespace [Aspose::Slides::Export::Xaml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IXamlOptions](./)
+* Namespace [Aspose::Slides::Export::Xaml](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/system.collections/bitarray/
 [Array](../../system/array/) of bits which can be addressed by index. Objects of this class should only be allocated using [System::MakeObject()](../../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../../system/smartptr/) pointer and use this pointer to pass it to functions as argument.
 
 ```cpp
-class BitArray : public virtual System::Object,
-                 public System::Collections::Generic::ICollection<bool>
+class BitArray : public virtual System::Object,                 public System::Collections::Generic::ICollection<bool>
 ```
 
 ## Methods

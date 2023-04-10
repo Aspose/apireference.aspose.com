@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.effects/ireflection/set_blurradius/
 ---
-## IReflection::set_BlurRadius(**double**) method
+## IReflection::set_BlurRadius(double) method
 
 
 [Blur](../../blur/) radius. Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IReflection::set_BlurRadius(double value)=
 
 ## See Also
 
-* Class [IReflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IReflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

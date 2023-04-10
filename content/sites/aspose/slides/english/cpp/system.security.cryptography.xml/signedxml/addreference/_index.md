@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.security.cryptography.xml/signedxml/addreference/
 ---
-## SignedXml::AddReference([SharedPtr](../../../system/sharedptr/)\<[Reference](../../reference/)\>) method
+## SignedXml::AddReference(SharedPtr\<Reference\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::SignedXml::AddReference(SharedPtr<Refe
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Reference](../../reference/)
-* Class [SignedXml](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Reference](../reference/)
+* Class [SignedXml](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

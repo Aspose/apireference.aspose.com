@@ -22,7 +22,7 @@ Reverse iterator to the element preceding first character of actual string buffe
 
 ## See Also
 
-* Typedef [reverse_iterator](../reverse_iterator/)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [reverse_iterator](./reverse_iterator/)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

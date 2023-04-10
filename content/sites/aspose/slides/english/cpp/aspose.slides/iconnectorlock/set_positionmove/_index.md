@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/iconnectorlock/set_positionmove/
 ---
-## IConnectorLock::set_PositionMove(**bool**) method
+## IConnectorLock::set_PositionMove(bool) method
 
 
 Determines whether a moving this shape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IConnectorLock::set_PositionMove(bool value)=0
 
 ## See Also
 
-* Class [IConnectorLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IConnectorLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

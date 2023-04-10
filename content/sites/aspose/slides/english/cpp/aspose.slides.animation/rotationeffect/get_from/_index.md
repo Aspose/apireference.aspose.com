@@ -17,6 +17,6 @@ float Aspose::Slides::Animation::RotationEffect::get_From() override
 
 ## See Also
 
-* Class [RotationEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RotationEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

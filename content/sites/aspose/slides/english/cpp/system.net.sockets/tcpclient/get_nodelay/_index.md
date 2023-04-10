@@ -22,6 +22,6 @@ A value that indicates if the current instance is using the Nagle algorithm.
 
 ## See Also
 
-* Class [TcpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpClient](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

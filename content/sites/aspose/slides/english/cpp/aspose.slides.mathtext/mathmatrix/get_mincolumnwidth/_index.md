@@ -26,6 +26,6 @@ matrix->set_MinColumnWidth(20);
 
 ## See Also
 
-* Class [MathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

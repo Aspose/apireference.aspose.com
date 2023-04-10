@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.effects/ipresetshadow/set_preset/
 ---
-## IPresetShadow::set_Preset([PresetShadowType](../../../aspose.slides/presetshadowtype/)) method
+## IPresetShadow::set_Preset(PresetShadowType) method
 
 
 Preset. Write [PresetShadowType](../../../aspose.slides/presetshadowtype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Effects::IPresetShadow::set_Preset(PresetShadowType
 
 ## See Also
 
-* Enum [PresetShadowType](../../../aspose.slides/presetshadowtype/)
-* Class [IPresetShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PresetShadowType](../../aspose.slides/presetshadowtype/)
+* Class [IPresetShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

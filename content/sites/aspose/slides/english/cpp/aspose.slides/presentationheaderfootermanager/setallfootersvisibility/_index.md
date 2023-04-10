@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/presentationheaderfootermanager/setallfootersvisibility/
 ---
-## PresentationHeaderFooterManager::SetAllFootersVisibility(**bool**) method
+## PresentationHeaderFooterManager::SetAllFootersVisibility(bool) method
 
 
 Changes all footer placeholders visibility, including master slides, layout slides, slides, notes master, notes slides and handout master.
@@ -24,6 +24,6 @@ void Aspose::Slides::PresentationHeaderFooterManager::SetAllFootersVisibility(bo
 
 ## See Also
 
-* Class [PresentationHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PresentationHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

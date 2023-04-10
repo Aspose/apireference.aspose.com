@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.collections.generic/basekvcollection/settemplateweakptr/
 ---
-## BaseKVCollection::SetTemplateWeakPtr(**uint32_t**) method
+## BaseKVCollection::SetTemplateWeakPtr(uint32_t) method
 
 
 Enables compilation, but doesn't actually do anything as this structure doesn't own data.
@@ -24,6 +24,6 @@ void System::Collections::Generic::BaseKVCollection<Dict, KV>::SetTemplateWeakPt
 
 ## See Also
 
-* Class [BaseKVCollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseKVCollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

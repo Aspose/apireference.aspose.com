@@ -17,6 +17,6 @@ bool Aspose::Slides::ConnectorLock::get_AdjustHandlesLocked() override
 
 ## See Also
 
-* Class [ConnectorLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ConnectorLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual String System::Uri::ToString() const override
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [Uri](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [Uri](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

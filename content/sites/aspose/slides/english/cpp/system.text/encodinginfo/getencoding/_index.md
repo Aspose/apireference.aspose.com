@@ -22,7 +22,7 @@ EncodingPtr System::Text::EncodingInfo::GetEncoding()
 
 ## See Also
 
-* Typedef [EncodingPtr](../../../system/encodingptr/)
-* Class [EncodingInfo](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [EncodingPtr](../../system/encodingptr/)
+* Class [EncodingInfo](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

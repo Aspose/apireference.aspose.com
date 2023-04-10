@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.io/path/getpathroot/
 ---
-## Path::GetPathRoot(const [String](../../../system/string/)\&) method
+## Path::GetPathRoot(const String\&) method
 
 
 Returns the root directory of the specified path.
@@ -28,7 +28,7 @@ The root directory of **path**
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Path](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Path](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

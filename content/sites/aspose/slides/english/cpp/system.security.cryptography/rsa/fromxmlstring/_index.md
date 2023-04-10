@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.security.cryptography/rsa/fromxmlstring/
 ---
-## RSA::FromXmlString([String](../../../system/string/)) method
+## RSA::FromXmlString(String) method
 
 
 Initializes object using XML-encoded parameters.
@@ -24,7 +24,7 @@ void System::Security::Cryptography::RSA::FromXmlString(String xml_string) overr
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [RSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [RSA](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

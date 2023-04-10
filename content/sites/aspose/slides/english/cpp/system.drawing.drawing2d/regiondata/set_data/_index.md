@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing.drawing2d/regiondata/set_data/
 ---
-## RegionData::set_Data(const [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
+## RegionData::set_Data(const ArrayPtr\<uint8_t\>\&) method
 
 
 Sets a region data for the current object.
@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::RegionData::set_Data(const ArrayPtr<uint8_t> &v
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [RegionData](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [RegionData](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_nocache/
 ---
-## CacheControlHeaderValue::set_NoCache(**bool**) method
+## CacheControlHeaderValue::set_NoCache(bool) method
 
 
 Sets the value that determines if the client will accept a cached response.
@@ -24,6 +24,6 @@ void System::Net::Http::Headers::CacheControlHeaderValue::set_NoCache(bool value
 
 ## See Also
 
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

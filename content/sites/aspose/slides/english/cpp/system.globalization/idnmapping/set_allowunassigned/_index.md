@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.globalization/idnmapping/set_allowunassigned/
 ---
-## IdnMapping::set_AllowUnassigned(**bool**) method
+## IdnMapping::set_AllowUnassigned(bool) method
 
 
 Sets flag that indicates if unassigned code points used in operations.
@@ -24,6 +24,6 @@ void System::Globalization::IdnMapping::set_AllowUnassigned(bool value)
 
 ## See Also
 
-* Class [IdnMapping](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IdnMapping](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

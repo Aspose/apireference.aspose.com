@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/ipresentation/
 [Presentation](../presentation/) document
 
 ```cpp
-class IPresentation : public Aspose::Slides::IPresentationComponent,
-                      public System::IDisposable
+class IPresentation : public Aspose::Slides::IPresentationComponent,                      public System::IDisposable
 ```
 
 ## Methods

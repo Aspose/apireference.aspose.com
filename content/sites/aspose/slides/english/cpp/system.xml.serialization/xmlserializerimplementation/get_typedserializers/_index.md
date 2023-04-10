@@ -17,10 +17,10 @@ virtual System::SharedPtr<Collections::Generic::Dictionary<String, System::Share
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Dictionary](../../../system.collections.generic/dictionary/)
-* Class [String](../../../system/string/)
-* Class [XmlSerializer](../../xmlserializer/)
-* Class [XmlSerializerImplementation](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Dictionary](../../system.collections.generic/dictionary/)
+* Class [String](../../system/string/)
+* Class [XmlSerializer](../xmlserializer/)
+* Class [XmlSerializerImplementation](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

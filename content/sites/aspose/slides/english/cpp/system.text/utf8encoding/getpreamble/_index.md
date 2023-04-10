@@ -22,7 +22,7 @@ If UTF-8 identifier emitting is enabled, returns array with BOM characters, othe
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [UTF8Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [UTF8Encoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.componentmodel/icontainer/add/
 ---
-## IContainer::Add([System::SharedPtr](../../../system/sharedptr/)\<[IComponent](../../icomponent/)\>) method
+## IContainer::Add(System::SharedPtr\<IComponent\>) method
 
 
 RTTI information.
@@ -27,8 +27,8 @@ virtual void System::ComponentModel::IContainer::Add(System::SharedPtr<IComponen
 Adds component into container. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComponent](../../icomponent/)
-* Class [IContainer](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComponent](../icomponent/)
+* Class [IContainer](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

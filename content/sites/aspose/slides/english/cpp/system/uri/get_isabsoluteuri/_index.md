@@ -17,6 +17,6 @@ bool System::Uri::get_IsAbsoluteUri() const
 
 ## See Also
 
-* Class [Uri](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Uri](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/presentationheaderfootermanager/setallfooterstext/
 ---
-## PresentationHeaderFooterManager::SetAllFootersText([System::String](../../../system/string/)) method
+## PresentationHeaderFooterManager::SetAllFootersText(System::String) method
 
 
 Sets text to all footer placeholders, including master slides, layout slides, slides, notes master, notes slides and handout master.
@@ -24,7 +24,7 @@ void Aspose::Slides::PresentationHeaderFooterManager::SetAllFootersText(System::
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PresentationHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PresentationHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

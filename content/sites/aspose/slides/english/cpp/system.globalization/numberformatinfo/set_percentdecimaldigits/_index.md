@@ -24,6 +24,6 @@ void System::Globalization::NumberFormatInfo::set_PercentDecimalDigits(int value
 
 ## See Also
 
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

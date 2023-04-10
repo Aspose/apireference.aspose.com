@@ -22,6 +22,6 @@ True if weak pointer is null and false otherwise.
 
 ## See Also
 
-* Class [WeakPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WeakPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ An [XmlNameTable](../../../system.xml/xmlnametable/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNameTable](../../../system.xml/xmlnametable/)
-* Class [XmlSchemaCollection](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNameTable](../../system.xml/xmlnametable/)
+* Class [XmlSchemaCollection](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

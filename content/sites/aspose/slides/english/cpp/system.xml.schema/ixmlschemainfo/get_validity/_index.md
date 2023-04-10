@@ -22,7 +22,7 @@ An XmlSchemaValidity value of this validated XML node.
 
 ## See Also
 
-* Enum [XmlSchemaValidity](../../xmlschemavalidity/)
-* Class [IXmlSchemaInfo](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaValidity](../xmlschemavalidity/)
+* Class [IXmlSchemaInfo](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

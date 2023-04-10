@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.io/file/encrypt/
 ---
-## File::Encrypt(const [String](../../../system/string/)\&) method
+## File::Encrypt(const String\&) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ static void System::IO::File::Encrypt(const String &path)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

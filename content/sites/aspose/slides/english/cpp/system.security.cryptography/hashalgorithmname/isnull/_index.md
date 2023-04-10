@@ -17,6 +17,6 @@ bool System::Security::Cryptography::HashAlgorithmName::IsNull() const
 
 ## See Also
 
-* Struct [HashAlgorithmName](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [HashAlgorithmName](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

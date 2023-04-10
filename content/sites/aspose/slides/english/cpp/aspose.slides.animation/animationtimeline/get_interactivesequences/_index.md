@@ -17,8 +17,8 @@ System::SharedPtr<ISequenceCollection> Aspose::Slides::Animation::AnimationTimeL
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISequenceCollection](../../isequencecollection/)
-* Class [AnimationTimeLine](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISequenceCollection](../isequencecollection/)
+* Class [AnimationTimeLine](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

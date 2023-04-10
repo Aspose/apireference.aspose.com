@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.web.services.protocols/soapheader/set_encodedrelay/
 ---
-## SoapHeader::set_EncodedRelay([String](../../../system/string/)) method
+## SoapHeader::set_EncodedRelay(String) method
 
 
 Sets a string representation of the 'relay' attribute value.
@@ -29,7 +29,7 @@ Possible values: '0', 'false', '1' and 'true'.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SoapHeader](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SoapHeader](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ Added **[TextAnimation](../../textanimation/)**
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TextAnimation](../../textanimation/)
-* Class [TextAnimationCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [TextAnimation](../textanimation/)
+* Class [TextAnimationCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

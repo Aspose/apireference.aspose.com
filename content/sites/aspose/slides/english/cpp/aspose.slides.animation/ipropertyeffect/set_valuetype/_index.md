@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/ipropertyeffect/set_valuetype/
 ---
-## IPropertyEffect::set_ValueType([PropertyValueType](../../propertyvaluetype/)) method
+## IPropertyEffect::set_ValueType(PropertyValueType) method
 
 
 Specifies the type of a property value. Write [PropertyValueType](../../propertyvaluetype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IPropertyEffect::set_ValueType(PropertyV
 
 ## See Also
 
-* Enum [PropertyValueType](../../propertyvaluetype/)
-* Class [IPropertyEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PropertyValueType](../propertyvaluetype/)
+* Class [IPropertyEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

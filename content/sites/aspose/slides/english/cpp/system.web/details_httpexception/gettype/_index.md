@@ -22,7 +22,7 @@ const System::TypeInfo & System::Web::Details_HttpException::GetType() const ove
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_HttpException](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_HttpException](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ virtual ArrayPtr<System::TypeInfo> System::Reflection::Assembly::GetTypes() cons
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Assembly](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Assembly](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

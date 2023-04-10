@@ -17,8 +17,8 @@ System::SharedPtr<System::Object> Aspose::Slides::RowCollection::get_SyncRoot() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [RowCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [RowCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

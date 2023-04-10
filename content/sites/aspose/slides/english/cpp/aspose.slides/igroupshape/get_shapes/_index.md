@@ -17,8 +17,8 @@ virtual System::SharedPtr<IShapeCollection> Aspose::Slides::IGroupShape::get_Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShapeCollection](../../ishapecollection/)
-* Class [IGroupShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShapeCollection](../ishapecollection/)
+* Class [IGroupShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

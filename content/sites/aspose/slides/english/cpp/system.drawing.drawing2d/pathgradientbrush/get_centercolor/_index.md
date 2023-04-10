@@ -17,7 +17,7 @@ Color System::Drawing::Drawing2D::PathGradientBrush::get_CenterColor() const
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

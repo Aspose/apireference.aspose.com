@@ -17,7 +17,7 @@ virtual Aspose::Slides::Orientation Aspose::Slides::IPlaceholder::get_Orientatio
 
 ## See Also
 
-* Enum [Orientation](../../orientation/)
-* Class [IPlaceholder](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [Orientation](../orientation/)
+* Class [IPlaceholder](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

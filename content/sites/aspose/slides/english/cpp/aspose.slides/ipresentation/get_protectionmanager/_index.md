@@ -17,8 +17,8 @@ virtual System::SharedPtr<IProtectionManager> Aspose::Slides::IPresentation::get
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IProtectionManager](../../iprotectionmanager/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IProtectionManager](../iprotectionmanager/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

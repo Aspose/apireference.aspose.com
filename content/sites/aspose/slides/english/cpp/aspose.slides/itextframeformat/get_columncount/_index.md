@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::ITextFrameFormat::get_ColumnCount()=0
 
 ## See Also
 
-* Class [ITextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/digitalsignaturecollection/idx_get/
 ---
-## DigitalSignatureCollection::idx_get(**int32_t**) method
+## DigitalSignatureCollection::idx_get(int32_t) method
 
 
 Returns the signature by index.
@@ -17,8 +17,8 @@ System::SharedPtr<IDigitalSignature> Aspose::Slides::DigitalSignatureCollection:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IDigitalSignature](../../idigitalsignature/)
-* Class [DigitalSignatureCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IDigitalSignature](../idigitalsignature/)
+* Class [DigitalSignatureCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

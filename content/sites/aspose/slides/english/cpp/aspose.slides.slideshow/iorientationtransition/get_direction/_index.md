@@ -17,7 +17,7 @@ virtual Orientation Aspose::Slides::SlideShow::IOrientationTransition::get_Direc
 
 ## See Also
 
-* Enum [Orientation](../../../aspose.slides/orientation/)
-* Class [IOrientationTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [Orientation](../../aspose.slides/orientation/)
+* Class [IOrientationTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

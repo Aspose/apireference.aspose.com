@@ -17,6 +17,6 @@ float System::Drawing::Image::get_HorizontalResolution() const
 
 ## See Also
 
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

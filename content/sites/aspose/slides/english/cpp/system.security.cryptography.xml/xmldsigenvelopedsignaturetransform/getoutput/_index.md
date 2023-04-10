@@ -15,14 +15,7 @@ url: /cpp/system.security.cryptography.xml/xmldsigenvelopedsignaturetransform/ge
 SharedPtr<Object> System::Security::Cryptography::Xml::XmlDsigEnvelopedSignatureTransform::GetOutput() override
 ```
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [XmlDsigEnvelopedSignatureTransform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
-## XmlDsigEnvelopedSignatureTransform::GetOutput(const [TypeInfo](../../../system/typeinfo/)\&) method
+## XmlDsigEnvelopedSignatureTransform::GetOutput(const TypeInfo\&) method
 
 
 
@@ -33,9 +26,9 @@ SharedPtr<Object> System::Security::Cryptography::Xml::XmlDsigEnvelopedSignature
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [XmlDsigEnvelopedSignatureTransform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [XmlDsigEnvelopedSignatureTransform](./)
+* Class [TypeInfo](../../system/typeinfo/)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

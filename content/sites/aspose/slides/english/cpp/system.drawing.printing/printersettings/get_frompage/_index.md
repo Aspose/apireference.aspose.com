@@ -18,6 +18,6 @@ int System::Drawing::Printing::PrinterSettings::get_FromPage()
 
 ## See Also
 
-* Class [PrinterSettings](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PrinterSettings](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

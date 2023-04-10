@@ -17,8 +17,8 @@ SharedPtr<TransformChain> System::Security::Cryptography::Xml::Reference::get_Tr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TransformChain](../../transformchain/)
-* Class [Reference](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [TransformChain](../transformchain/)
+* Class [Reference](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

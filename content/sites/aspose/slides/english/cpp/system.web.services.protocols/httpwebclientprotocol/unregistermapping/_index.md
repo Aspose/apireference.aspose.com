@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/unregistermapping/
 ---
-## HttpWebClientProtocol::UnregisterMapping([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## HttpWebClientProtocol::UnregisterMapping(System::SharedPtr\<Object\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Web::Services::Protocols::HttpWebClientProtocol::UnregisterMapping(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [HttpWebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [HttpWebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

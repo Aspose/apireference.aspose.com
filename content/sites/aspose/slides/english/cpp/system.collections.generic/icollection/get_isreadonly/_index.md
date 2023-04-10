@@ -22,6 +22,6 @@ true if collection is read only, false otherwise.
 
 ## See Also
 
-* Class [ICollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

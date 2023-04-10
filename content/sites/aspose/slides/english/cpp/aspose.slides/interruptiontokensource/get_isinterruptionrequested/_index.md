@@ -17,6 +17,6 @@ bool Aspose::Slides::InterruptionTokenSource::get_IsInterruptionRequested() over
 
 ## See Also
 
-* Class [InterruptionTokenSource](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [InterruptionTokenSource](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

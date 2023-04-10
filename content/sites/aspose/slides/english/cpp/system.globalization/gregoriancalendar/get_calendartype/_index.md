@@ -22,7 +22,7 @@ virtual GregorianCalendarTypes System::Globalization::GregorianCalendar::get_Cal
 
 ## See Also
 
-* Enum [GregorianCalendarTypes](../../gregoriancalendartypes/)
-* Class [GregorianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [GregorianCalendarTypes](../gregoriancalendartypes/)
+* Class [GregorianCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

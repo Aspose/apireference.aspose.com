@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.slides/colorformat/set_coloroperation/
 ---
-## ColorFormat::set_ColorOperation(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[IColorOperation](../../icoloroperation/)\>) method
+## ColorFormat::set_ColorOperation(int32_t, System::SharedPtr\<IColorOperation\>) method
 
 
 Set color transformation operation applied to color at the specified index. Read/write [Aspose::Slides::IColorOperation](../../icoloroperation/)
@@ -17,8 +17,8 @@ void Aspose::Slides::ColorFormat::set_ColorOperation(int32_t index, System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorOperation](../../icoloroperation/)
-* Class [ColorFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorOperation](../icoloroperation/)
+* Class [ColorFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

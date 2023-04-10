@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.xml/xmltextwriter/writewhitespace/
 ---
-## XmlTextWriter::WriteWhitespace([String](../../../system/string/)) method
+## XmlTextWriter::WriteWhitespace(String) method
 
 
 Writes out the given white space.
@@ -24,7 +24,7 @@ void System::Xml::XmlTextWriter::WriteWhitespace(String ws) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlTextWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlTextWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Animation::ITiming::get_RepeatDuration()=0
 
 ## See Also
 
-* Class [ITiming](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITiming](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

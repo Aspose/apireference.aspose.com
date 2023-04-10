@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.xml/xmlentity/set_innerxml/
 ---
-## XmlEntity::set_InnerXml([String](../../../system/string/)) method
+## XmlEntity::set_InnerXml(String) method
 
 
 Sets the markup representing the children of this node.
@@ -24,7 +24,7 @@ void System::Xml::XmlEntity::set_InnerXml(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlEntity](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlEntity](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

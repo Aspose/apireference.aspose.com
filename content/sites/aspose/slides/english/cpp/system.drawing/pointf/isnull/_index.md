@@ -17,6 +17,6 @@ bool System::Drawing::PointF::IsNull() const
 
 ## See Also
 
-* Class [PointF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

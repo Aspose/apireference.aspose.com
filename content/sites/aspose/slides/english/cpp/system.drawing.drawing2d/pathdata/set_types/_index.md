@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.drawing.drawing2d/pathdata/set_types/
 ---
-## PathData::set_Types(const [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
+## PathData::set_Types(const ArrayPtr\<uint8_t\>\&) method
 
 
 Sets an array containing the values that specify the types of corresponding points in **Points** array.
@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::PathData::set_Types(const ArrayPtr<uint8_t> &va
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [PathData](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [PathData](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

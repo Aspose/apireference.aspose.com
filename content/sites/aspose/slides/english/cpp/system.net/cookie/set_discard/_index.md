@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.net/cookie/set_discard/
 ---
-## Cookie::set_Discard(**bool**) method
+## Cookie::set_Discard(bool) method
 
 
 Sets the 'Discard' attribute's value.
@@ -24,6 +24,6 @@ void System::Net::Cookie::set_Discard(bool value)
 
 ## See Also
 
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

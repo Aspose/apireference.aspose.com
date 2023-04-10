@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides.charts/chartcategorycollection/copyto/
 ---
-## ChartCategoryCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IChartCategory](../../ichartcategory/)\>\>, **int32_t**) method
+## ChartCategoryCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<IChartCategory\>\>, int32_t) method
 
 
 Copies all elements of the collection to the specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::Charts::ChartCategoryCollection::CopyTo(System::ArrayPtr<Sy
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartCategory](../../ichartcategory/)
-* Class [ChartCategoryCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartCategory](../ichartcategory/)
+* Class [ChartCategoryCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

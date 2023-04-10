@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.drawing/pen/set_width/
 ---
-## Pen::set_Width(**float**) method
+## Pen::set_Width(float) method
 
 
 Sets the width of the current [Pen](../) object.
@@ -24,6 +24,6 @@ void System::Drawing::Pen::set_Width(float value)
 
 ## See Also
 
-* Class [Pen](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Pen](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

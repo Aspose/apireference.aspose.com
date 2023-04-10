@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.security.cryptography/ecdsa/verifyhash/
 ---
-## ECDsa::VerifyHash([ByteArrayPtr](../../../system/bytearrayptr/), [ByteArrayPtr](../../../system/bytearrayptr/)) method
+## ECDsa::VerifyHash(ByteArrayPtr, ByteArrayPtr) method
 
 
 Checks data signature.
@@ -29,7 +29,7 @@ True if signature is valid, false otherwise.
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Class [ECDsa](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
+* Class [ECDsa](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

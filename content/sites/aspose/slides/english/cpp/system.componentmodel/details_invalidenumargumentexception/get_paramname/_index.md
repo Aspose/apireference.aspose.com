@@ -25,7 +25,7 @@ The value of the additional ParamName .
 Returns the value of the additional ParamName . 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Details_InvalidEnumArgumentException](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Details_InvalidEnumArgumentException](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

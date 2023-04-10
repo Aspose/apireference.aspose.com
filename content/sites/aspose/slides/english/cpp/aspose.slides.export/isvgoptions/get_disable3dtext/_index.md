@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Export::ISVGOptions::get_Disable3DText()=0
 
 ## See Also
 
-* Class [ISVGOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISVGOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

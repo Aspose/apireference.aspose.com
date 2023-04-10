@@ -34,6 +34,6 @@ Hash code calculated for object passed.
 
 ## See Also
 
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ObjectExt](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

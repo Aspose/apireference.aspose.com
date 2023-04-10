@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.runtime.serialization/formatterconverter/todecimal/
 ---
-## FormatterConverter::ToDecimal([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## FormatterConverter::ToDecimal(System::SharedPtr\<Object\>) method
 
 
 Converts a value to a [Decimal](../../../system/decimal/).
@@ -28,9 +28,9 @@ The converted value.
 
 ## See Also
 
-* Class [Decimal](../../../system/decimal/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [FormatterConverter](../)
-* Namespace [System::Runtime::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Decimal](../../system/decimal/)
+* Class [Object](../../system/object/)
+* Class [FormatterConverter](./)
+* Namespace [System::Runtime::Serialization](../)
+* Library [Aspose.Slides](../../)

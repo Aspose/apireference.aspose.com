@@ -17,6 +17,6 @@ constexpr int System::DateTime::get_Hour() const
 
 ## See Also
 
-* Class [DateTime](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

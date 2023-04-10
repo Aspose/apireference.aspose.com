@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.util/shapeutil/geometrypathtographicspath/
 ---
-## ShapeUtil::GeometryPathToGraphicsPath([System::SharedPtr](../../../system/sharedptr/)\<[IGeometryPath](../../../aspose.slides/igeometrypath/)\>) method
+## ShapeUtil::GeometryPathToGraphicsPath(System::SharedPtr\<IGeometryPath\>) method
 
 
 Converts [IGeometryPath](../../../aspose.slides/igeometrypath/) to [System::Drawing::Drawing2D::GraphicsPath](../../../system.drawing.drawing2d/graphicspath/).
@@ -32,9 +32,9 @@ GraphicsPath can be transformed in a different ways using its convenient methods
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
-* Class [IGeometryPath](../../../aspose.slides/igeometrypath/)
-* Class [ShapeUtil](../)
-* Namespace [Aspose::Slides::Util](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [GraphicsPath](../../system.drawing.drawing2d/graphicspath/)
+* Class [IGeometryPath](../../aspose.slides/igeometrypath/)
+* Class [ShapeUtil](./)
+* Namespace [Aspose::Slides::Util](../)
+* Library [Aspose.Slides](../../)

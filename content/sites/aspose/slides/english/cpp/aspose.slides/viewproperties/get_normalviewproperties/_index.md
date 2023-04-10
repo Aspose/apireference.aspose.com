@@ -17,8 +17,8 @@ System::SharedPtr<INormalViewProperties> Aspose::Slides::ViewProperties::get_Nor
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [INormalViewProperties](../../inormalviewproperties/)
-* Class [ViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [INormalViewProperties](../inormalviewproperties/)
+* Class [ViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

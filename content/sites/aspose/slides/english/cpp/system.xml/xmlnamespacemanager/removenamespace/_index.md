@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.xml/xmlnamespacemanager/removenamespace/
 ---
-## XmlNamespaceManager::RemoveNamespace([String](../../../system/string/), [String](../../../system/string/)) method
+## XmlNamespaceManager::RemoveNamespace(String, String) method
 
 
 Removes the given namespace for the given prefix.
@@ -25,7 +25,7 @@ virtual void System::Xml::XmlNamespaceManager::RemoveNamespace(String prefix, St
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNamespaceManager](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNamespaceManager](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

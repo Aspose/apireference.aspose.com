@@ -17,6 +17,6 @@ virtual uint32_t Aspose::Slides::IFontFallBackRule::get_RangeStartIndex()=0
 
 ## See Also
 
-* Class [IFontFallBackRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IFontFallBackRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

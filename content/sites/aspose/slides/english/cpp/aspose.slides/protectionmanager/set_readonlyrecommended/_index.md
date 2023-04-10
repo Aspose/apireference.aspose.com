@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/protectionmanager/set_readonlyrecommended/
 ---
-## ProtectionManager::set_ReadOnlyRecommended(**bool**) method
+## ProtectionManager::set_ReadOnlyRecommended(bool) method
 
 
 Sets read-only recommendation. Write **bool**.
@@ -27,6 +27,6 @@ pres->Save(u"ReadOnlyPresentation.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Class [ProtectionManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ProtectionManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

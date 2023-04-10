@@ -17,8 +17,8 @@ SharedPtr<AsymmetricAlgorithm> System::Security::Cryptography::Xml::SignedXml::g
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../../../system.security.cryptography/asymmetricalgorithm/)
-* Class [SignedXml](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](../../system.security.cryptography/asymmetricalgorithm/)
+* Class [SignedXml](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

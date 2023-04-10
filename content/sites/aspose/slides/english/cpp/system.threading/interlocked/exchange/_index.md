@@ -33,11 +33,6 @@ template<typename T> static std::enable_if<IsSupportedInt<T>, T>::type System::T
 
 Value of variable right before it was changed.
 
-## See Also
-
-* Class [Interlocked](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
 ## Interlocked::Exchange(T\&, T) method
 
 
@@ -67,6 +62,6 @@ Value of variable right before it was changed.
 
 ## See Also
 
-* Class [Interlocked](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Interlocked](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

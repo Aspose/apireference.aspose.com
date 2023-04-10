@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/table/set_firstrow/
 ---
-## Table::set_FirstRow(**bool**) method
+## Table::set_FirstRow(bool) method
 
 
 Determines whether the first row of a table has to be drawn with a special formatting. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Table::set_FirstRow(bool value) override
 
 ## See Also
 
-* Class [Table](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Table](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.security.cryptography.xml/signedxml/getidelement/
 ---
-## SignedXml::GetIdElement([SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlDocument](../../../system.xml/xmldocument/)\>, [String](../../../system/string/)) method
+## SignedXml::GetIdElement(SharedPtr\<System::Xml::XmlDocument\>, String) method
 
 
 
@@ -17,10 +17,10 @@ virtual SharedPtr<System::Xml::XmlElement> System::Security::Cryptography::Xml::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlElement](../../../system.xml/xmlelement/)
-* Class [XmlDocument](../../../system.xml/xmldocument/)
-* Class [String](../../../system/string/)
-* Class [SignedXml](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlElement](../../system.xml/xmlelement/)
+* Class [XmlDocument](../../system.xml/xmldocument/)
+* Class [String](../../system/string/)
+* Class [SignedXml](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

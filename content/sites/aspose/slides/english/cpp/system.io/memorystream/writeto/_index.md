@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.io/memorystream/writeto/
 ---
-## MemoryStream::WriteTo([SharedPtr](../../../system/sharedptr/)\<[Stream](../../stream/)\>) method
+## MemoryStream::WriteTo(SharedPtr\<Stream\>) method
 
 
 Writes the content of the underlying buffer to the specified stream.
@@ -24,8 +24,8 @@ virtual void System::IO::MemoryStream::WriteTo(SharedPtr<Stream> stream)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../stream/)
-* Class [MemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../stream/)
+* Class [MemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ One of the EntityHandling values. If no EntityHandling is specified, it defaults
 
 ## See Also
 
-* Enum [EntityHandling](../../entityhandling/)
-* Class [XmlValidatingReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EntityHandling](../entityhandling/)
+* Class [XmlValidatingReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

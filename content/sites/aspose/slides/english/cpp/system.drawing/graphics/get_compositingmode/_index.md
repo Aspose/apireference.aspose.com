@@ -17,7 +17,7 @@ Drawing2D::CompositingMode System::Drawing::Graphics::get_CompositingMode()
 
 ## See Also
 
-* Enum [CompositingMode](../../../system.drawing.drawing2d/compositingmode/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CompositingMode](../../system.drawing.drawing2d/compositingmode/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

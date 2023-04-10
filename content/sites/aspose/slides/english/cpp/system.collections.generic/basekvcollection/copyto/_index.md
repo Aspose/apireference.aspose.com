@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.collections.generic/basekvcollection/copyto/
 ---
-## BaseKVCollection::CopyTo([ArrayPtr](../../../system/arrayptr/)\<KV\>, int) method
+## BaseKVCollection::CopyTo(ArrayPtr\<KV\>, int) method
 
 
 Copies data to existing array elements.
@@ -25,7 +25,7 @@ virtual void System::Collections::Generic::BaseKVCollection<Dict, KV>::CopyTo(Ar
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [BaseKVCollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [BaseKVCollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

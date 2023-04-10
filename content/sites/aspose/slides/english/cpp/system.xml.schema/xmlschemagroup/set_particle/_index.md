@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemagroup/set_particle/
 ---
-## XmlSchemaGroup::set_Particle(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaGroupBase](../../xmlschemagroupbase/)\>\&) method
+## XmlSchemaGroup::set_Particle(const SharedPtr\<XmlSchemaGroupBase\>\&) method
 
 
 Sets one of the [XmlSchemaChoice](../../xmlschemachoice/), [XmlSchemaAll](../../xmlschemaall/), or [XmlSchemaSequence](../../xmlschemasequence/) classes.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaGroup::set_Particle(const SharedPtr<XmlSchema
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaGroupBase](../../xmlschemagroupbase/)
-* Class [XmlSchemaGroup](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaGroupBase](../xmlschemagroupbase/)
+* Class [XmlSchemaGroup](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

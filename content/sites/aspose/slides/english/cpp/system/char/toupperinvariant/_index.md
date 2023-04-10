@@ -28,6 +28,6 @@ The specified character in upper case if the specified character is a lower case
 
 ## See Also
 
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Char](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

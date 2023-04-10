@@ -36,7 +36,7 @@ If parent of this [DataLabelFormat](../) object is a [DataLabelCollection](../..
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

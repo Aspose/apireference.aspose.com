@@ -6,7 +6,7 @@ type: docs
 weight: 560
 url: /cpp/aspose.slides/baseportionformat/set_alternativelanguageid/
 ---
-## BasePortionFormat::set_AlternativeLanguageId([System::String](../../../system/string/)) method
+## BasePortionFormat::set_AlternativeLanguageId(System::String) method
 
 
 Sets the Id of an alternative language. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::BasePortionFormat::set_AlternativeLanguageId(System::String
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [BasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [BasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

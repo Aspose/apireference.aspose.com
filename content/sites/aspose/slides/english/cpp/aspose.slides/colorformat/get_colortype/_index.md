@@ -17,7 +17,7 @@ Aspose::Slides::ColorType Aspose::Slides::ColorFormat::get_ColorType() override
 
 ## See Also
 
-* Enum [ColorType](../../colortype/)
-* Class [ColorFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorType](../colortype/)
+* Class [ColorFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

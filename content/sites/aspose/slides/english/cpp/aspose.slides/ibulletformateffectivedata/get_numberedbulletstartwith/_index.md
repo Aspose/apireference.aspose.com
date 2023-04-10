@@ -17,6 +17,6 @@ virtual int16_t Aspose::Slides::IBulletFormatEffectiveData::get_NumberedBulletSt
 
 ## See Also
 
-* Class [IBulletFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBulletFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

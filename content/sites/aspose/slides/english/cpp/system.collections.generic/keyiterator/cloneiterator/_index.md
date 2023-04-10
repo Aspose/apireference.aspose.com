@@ -22,6 +22,6 @@ Copy of the current iterator.
 
 ## See Also
 
-* Class [KeyIterator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [KeyIterator](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

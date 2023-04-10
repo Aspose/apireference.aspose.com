@@ -22,6 +22,6 @@ A value that indicates if the current instance allows only one client to use a p
 
 ## See Also
 
-* Class [TcpListener](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpListener](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

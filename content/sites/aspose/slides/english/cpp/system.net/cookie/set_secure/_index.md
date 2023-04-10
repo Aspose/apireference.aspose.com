@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/system.net/cookie/set_secure/
 ---
-## Cookie::set_Secure(**bool**) method
+## Cookie::set_Secure(bool) method
 
 
 Sets the 'Secure' attribute's value.
@@ -24,6 +24,6 @@ void System::Net::Cookie::set_Secure(bool value)
 
 ## See Also
 
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/slideshowsettings/set_shownarration/
 ---
-## SlideShowSettings::set_ShowNarration(**bool**) method
+## SlideShowSettings::set_ShowNarration(bool) method
 
 
 Show Narration in [Slide](../../slide/) Show
@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShowSettings::set_ShowNarration(bool value)
 
 ## See Also
 
-* Class [SlideShowSettings](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideShowSettings](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

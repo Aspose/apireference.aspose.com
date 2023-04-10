@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.componentmodel/progresschangedeventargs/progresschangedeventargs/
 ---
-## ProgressChangedEventArgs::ProgressChangedEventArgs(int, [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) constructor
+## ProgressChangedEventArgs::ProgressChangedEventArgs(int, System::SharedPtr\<System::Object\>) constructor
 
 
 Constructor.
@@ -25,8 +25,8 @@ System::ComponentModel::ProgressChangedEventArgs::ProgressChangedEventArgs(int p
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [ProgressChangedEventArgs](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [ProgressChangedEventArgs](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

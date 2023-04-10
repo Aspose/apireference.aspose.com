@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.drawing/graphics/set_textrenderinghint/
 ---
-## Graphics::set_TextRenderingHint([Text::TextRenderingHint](../../../system.drawing.text/textrenderinghint/)) method
+## Graphics::set_TextRenderingHint(Text::TextRenderingHint) method
 
 
 Sets a value that specifies the quality of text rendering.
@@ -24,7 +24,7 @@ void System::Drawing::Graphics::set_TextRenderingHint(Text::TextRenderingHint hi
 
 ## See Also
 
-* Enum [TextRenderingHint](../../../system.drawing.text/textrenderinghint/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextRenderingHint](../../system.drawing.text/textrenderinghint/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

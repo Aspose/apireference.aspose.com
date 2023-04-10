@@ -22,8 +22,8 @@ A [IGrayScaleEffectiveData](../../igrayscaleeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGrayScaleEffectiveData](../../igrayscaleeffectivedata/)
-* Class [GrayScale](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGrayScaleEffectiveData](../igrayscaleeffectivedata/)
+* Class [GrayScale](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

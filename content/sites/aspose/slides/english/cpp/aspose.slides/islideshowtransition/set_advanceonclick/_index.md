@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/islideshowtransition/set_advanceonclick/
 ---
-## ISlideShowTransition::set_AdvanceOnClick(**bool**) method
+## ISlideShowTransition::set_AdvanceOnClick(bool) method
 
 
 Specifies whether a mouse click will advance the slide or not. If this attribute is not specified then a value of true is assumed. Writes **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ISlideShowTransition::set_AdvanceOnClick(bool value
 
 ## See Also
 
-* Class [ISlideShowTransition](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISlideShowTransition](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

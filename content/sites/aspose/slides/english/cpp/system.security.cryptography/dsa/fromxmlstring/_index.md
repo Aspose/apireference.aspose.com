@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.security.cryptography/dsa/fromxmlstring/
 ---
-## DSA::FromXmlString([String](../../../system/string/)) method
+## DSA::FromXmlString(String) method
 
 
 Initializes object using XML-encoded parameters.
@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::DSA::FromXmlString(String xml_strin
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DSA](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

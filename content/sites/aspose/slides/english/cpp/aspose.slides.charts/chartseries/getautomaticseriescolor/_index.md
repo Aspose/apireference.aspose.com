@@ -22,7 +22,7 @@ System::Drawing::Color Aspose::Slides::Charts::ChartSeries::GetAutomaticSeriesCo
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

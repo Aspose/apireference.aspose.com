@@ -22,8 +22,8 @@ Master handout slide [IMasterHandoutSlide](../../imasterhandoutslide/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterHandoutSlide](../../imasterhandoutslide/)
-* Class [IMasterHandoutSlideManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterHandoutSlide](../imasterhandoutslide/)
+* Class [IMasterHandoutSlideManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

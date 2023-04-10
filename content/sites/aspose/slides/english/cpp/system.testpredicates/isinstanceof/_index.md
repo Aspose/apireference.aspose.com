@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.testpredicates/isinstanceof/
 ---
-## System::TestPredicates::IsInstanceOf(const char *, const char *, const [TypeInfo](../../system/typeinfo/)\&, const T\&) function
+## System::TestPredicates::IsInstanceOf(const char *, const char *, const TypeInfo\&, const T\&) function
 
 
 Is-instance-of-compares arguments for IsInstanceOf assertion translation.
@@ -37,6 +37,6 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Class [TypeInfo](../../system/typeinfo/)
-* Namespace [System::TestPredicates](../)
-* Library [Aspose.Slides](../../)
+* Class [TypeInfo](../system/typeinfo/)
+* Namespace [System::TestPredicates](./)
+* Library [Aspose.Slides](../)

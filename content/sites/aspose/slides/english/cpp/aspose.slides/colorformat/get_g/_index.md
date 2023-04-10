@@ -17,6 +17,6 @@ uint8_t Aspose::Slides::ColorFormat::get_G() override
 
 ## See Also
 
-* Class [ColorFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColorFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

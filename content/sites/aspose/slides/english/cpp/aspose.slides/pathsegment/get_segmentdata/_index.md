@@ -17,7 +17,7 @@ System::ArrayPtr<float> Aspose::Slides::PathSegment::get_SegmentData() override
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [PathSegment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [PathSegment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

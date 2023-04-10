@@ -17,7 +17,7 @@ ShapeElementStrokeSource Aspose::Slides::ShapeElement::get_StrokeSource()
 
 ## See Also
 
-* Enum [ShapeElementStrokeSource](../../shapeelementstrokesource/)
-* Class [ShapeElement](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ShapeElementStrokeSource](../shapeelementstrokesource/)
+* Class [ShapeElement](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ System::Reflection::MethodBase::MethodBase()
 
 ## See Also
 
-* Class [MethodBase](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MethodBase](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

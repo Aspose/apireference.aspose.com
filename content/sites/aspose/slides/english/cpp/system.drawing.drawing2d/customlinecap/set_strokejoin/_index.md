@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.drawing.drawing2d/customlinecap/set_strokejoin/
 ---
-## CustomLineCap::set_StrokeJoin([LineJoin](../../linejoin/)) method
+## CustomLineCap::set_StrokeJoin(LineJoin) method
 
 
 Sets the LineJoin value which determines how lines of this custom cap are joined.
@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::CustomLineCap::set_StrokeJoin(LineJoin value)
 
 ## See Also
 
-* Enum [LineJoin](../../linejoin/)
-* Class [CustomLineCap](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineJoin](../linejoin/)
+* Class [CustomLineCap](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ SharedPtr<System::IO::Stream> System::Web::HttpResponse::get_OutputStream()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [HttpResponse](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [HttpResponse](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

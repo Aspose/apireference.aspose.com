@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.net.sockets/details_socketexception/set_errorcode/
 ---
-## Details_SocketException::set_ErrorCode(**int32_t**) method
+## Details_SocketException::set_ErrorCode(int32_t) method
 
 
 Sets the error code.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Details_SocketException::set_ErrorCode(int32_t code)
 
 ## See Also
 
-* Class [Details_SocketException](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Details_SocketException](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

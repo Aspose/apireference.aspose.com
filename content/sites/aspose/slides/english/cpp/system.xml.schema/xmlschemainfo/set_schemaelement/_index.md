@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.xml.schema/xmlschemainfo/set_schemaelement/
 ---
-## XmlSchemaInfo::set_SchemaElement(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaElement](../../xmlschemaelement/)\>\&) method
+## XmlSchemaInfo::set_SchemaElement(const SharedPtr\<XmlSchemaElement\>\&) method
 
 
 Sets the compiled [XmlSchemaElement](../../xmlschemaelement/) object that corresponds to this validated XML node.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaInfo::set_SchemaElement(const SharedPtr<XmlSc
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaElement](../../xmlschemaelement/)
-* Class [XmlSchemaInfo](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaElement](../xmlschemaelement/)
+* Class [XmlSchemaInfo](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

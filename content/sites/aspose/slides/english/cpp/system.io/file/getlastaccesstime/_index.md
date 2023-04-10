@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.io/file/getlastaccesstime/
 ---
-## File::GetLastAccessTime(const [String](../../../system/string/)\&) method
+## File::GetLastAccessTime(const String\&) method
 
 
 Returns the last access time of the specified entity as local time.
@@ -28,8 +28,8 @@ A [DateTime](../../../system/datetime/) object representing the last access time
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

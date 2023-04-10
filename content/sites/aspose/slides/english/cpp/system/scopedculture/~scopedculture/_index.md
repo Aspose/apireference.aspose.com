@@ -17,6 +17,6 @@ System::ScopedCulture::~ScopedCulture()
 
 ## See Also
 
-* Class [ScopedCulture](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ScopedCulture](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

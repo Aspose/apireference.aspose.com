@@ -17,7 +17,7 @@ virtual AxisAggregationType Aspose::Slides::Charts::IAxis::get_AggregationType()
 
 ## See Also
 
-* Enum [AxisAggregationType](../../axisaggregationtype/)
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [AxisAggregationType](../axisaggregationtype/)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual Imaging::PixelFormat System::Drawing::Image::get_PixelFormat() const =0
 
 ## See Also
 
-* Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PixelFormat](../../system.drawing.imaging/pixelformat/)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

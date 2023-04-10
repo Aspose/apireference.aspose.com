@@ -22,6 +22,6 @@ A read character or -1 if no character has been read
 
 ## See Also
 
-* Class [StringReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StringReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

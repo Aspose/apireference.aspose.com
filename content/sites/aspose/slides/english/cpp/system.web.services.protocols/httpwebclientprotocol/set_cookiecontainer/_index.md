@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_cookiecontainer/
 ---
-## HttpWebClientProtocol::set_CookieContainer([System::SharedPtr](../../../system/sharedptr/)\<[System::Net::CookieContainer](../../../system.net/cookiecontainer/)\>) method
+## HttpWebClientProtocol::set_CookieContainer(System::SharedPtr\<System::Net::CookieContainer\>) method
 
 
 Sets a container that is used to store cookies.
@@ -24,8 +24,8 @@ void System::Web::Services::Protocols::HttpWebClientProtocol::set_CookieContaine
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CookieContainer](../../../system.net/cookiecontainer/)
-* Class [HttpWebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CookieContainer](../../system.net/cookiecontainer/)
+* Class [HttpWebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

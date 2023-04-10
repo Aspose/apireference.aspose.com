@@ -17,6 +17,6 @@ virtual double Aspose::Slides::ITextFrameFormatEffectiveData::get_MarginRight()=
 
 ## See Also
 
-* Class [ITextFrameFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITextFrameFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

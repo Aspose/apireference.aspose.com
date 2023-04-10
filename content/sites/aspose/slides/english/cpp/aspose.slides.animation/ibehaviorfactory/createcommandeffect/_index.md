@@ -22,8 +22,8 @@ Command effect.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommandEffect](../../icommandeffect/)
-* Class [IBehaviorFactory](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommandEffect](../icommandeffect/)
+* Class [IBehaviorFactory](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

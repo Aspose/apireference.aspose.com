@@ -34,10 +34,6 @@ template<typename T,typename T2> T System::setter_wrap(void(*pSetter)(T2), T val
 
 set value.
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::setter_wrap(Host *const, void(HostSet::*)(T2), T) function
 
 
@@ -71,5 +67,5 @@ set value.
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

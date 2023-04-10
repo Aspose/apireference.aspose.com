@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides/ivideoframe/set_embeddedvideo/
 ---
-## IVideoFrame::set_EmbeddedVideo([System::SharedPtr](../../../system/sharedptr/)\<[IVideo](../../ivideo/)\>) method
+## IVideoFrame::set_EmbeddedVideo(System::SharedPtr\<IVideo\>) method
 
 
 Sets embedded video object. Write [IVideo](../../ivideo/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IVideoFrame::set_EmbeddedVideo(System::SharedPtr<IV
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVideo](../../ivideo/)
-* Class [IVideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVideo](../ivideo/)
+* Class [IVideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

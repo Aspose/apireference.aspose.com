@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addalphareplaceeffect/
 ---
-## IImageTransformOperationCollection::AddAlphaReplaceEffect(**float**) method
+## IImageTransformOperationCollection::AddAlphaReplaceEffect(float) method
 
 
 Adds the new Alpha Replace effect to the end of a collection.
@@ -28,8 +28,8 @@ Index of the new image effect in a collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAlphaReplace](../../ialphareplace/)
-* Class [IImageTransformOperationCollection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAlphaReplace](../ialphareplace/)
+* Class [IImageTransformOperationCollection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

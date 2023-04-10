@@ -18,6 +18,6 @@ virtual void Aspose::Slides::IInterruptionToken::ThrowIfInterruptionRequested()=
 
 ## See Also
 
-* Class [IInterruptionToken](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IInterruptionToken](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IFieldType> Aspose::Slides::Field::get_Type() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFieldType](../../ifieldtype/)
-* Class [Field](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFieldType](../ifieldtype/)
+* Class [Field](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

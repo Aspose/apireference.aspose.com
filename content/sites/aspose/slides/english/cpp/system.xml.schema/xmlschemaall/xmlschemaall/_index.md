@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaAll::XmlSchemaAll()
 
 ## See Also
 
-* Class [XmlSchemaAll](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaAll](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

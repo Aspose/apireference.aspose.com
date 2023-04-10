@@ -6,7 +6,7 @@ type: docs
 weight: 612
 url: /cpp/aspose.slides/idocumentproperties/idx_get/
 ---
-## IDocumentProperties::idx_get([System::String](../../../system/string/)) method
+## IDocumentProperties::idx_get(System::String) method
 
 
 Returns the custom property associated with a specified name. Read [System::Object](../../../system/object/).
@@ -21,9 +21,9 @@ virtual System::SharedPtr<System::Object> Aspose::Slides::IDocumentProperties::i
 Value can be **int**, **float**, **double**, **string**, **bool** or **DateTime**. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [IDocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [String](../../system/string/)
+* Class [IDocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.text/utf32encoding/equals/
 ---
-## UTF32Encoding::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## UTF32Encoding::Equals(SharedPtr\<Object\>) method
 
 
 Compares with object.
@@ -28,8 +28,8 @@ True if **obj** is [UTF32Encoding](../) with same parameters, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [UTF32Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [UTF32Encoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

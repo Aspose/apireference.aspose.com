@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml/xmlparsercontext/set_namespacemanager/
 ---
-## XmlParserContext::set_NamespaceManager(const [SharedPtr](../../../system/sharedptr/)\<[XmlNamespaceManager](../../xmlnamespacemanager/)\>\&) method
+## XmlParserContext::set_NamespaceManager(const SharedPtr\<XmlNamespaceManager\>\&) method
 
 
 Sets the [XmlNamespaceManager](../../xmlnamespacemanager/).
@@ -24,8 +24,8 @@ void System::Xml::XmlParserContext::set_NamespaceManager(const SharedPtr<XmlName
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNamespaceManager](../../xmlnamespacemanager/)
-* Class [XmlParserContext](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNamespaceManager](../xmlnamespacemanager/)
+* Class [XmlParserContext](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

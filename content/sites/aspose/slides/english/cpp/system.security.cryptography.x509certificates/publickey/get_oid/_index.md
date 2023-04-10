@@ -22,8 +22,8 @@ SharedPtr<Oid> System::Security::Cryptography::X509Certificates::PublicKey::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Oid](../../../system.security.cryptography/oid/)
-* Class [PublicKey](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Oid](../../system.security.cryptography/oid/)
+* Class [PublicKey](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

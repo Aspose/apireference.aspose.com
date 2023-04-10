@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IPresetShadowEffectiveData> Aspose::Slides::I
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPresetShadowEffectiveData](../../../aspose.slides.effects/ipresetshadoweffectivedata/)
-* Class [IEffectFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPresetShadowEffectiveData](../../aspose.slides.effects/ipresetshadoweffectivedata/)
+* Class [IEffectFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

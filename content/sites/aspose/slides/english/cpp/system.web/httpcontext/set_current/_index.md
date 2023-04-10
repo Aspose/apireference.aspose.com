@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.web/httpcontext/set_current/
 ---
-## HttpContext::set_Current(const [System::SharedPtr](../../../system/sharedptr/)\<[HttpContext](../)\>\&) method
+## HttpContext::set_Current(const System::SharedPtr\<HttpContext\>\&) method
 
 
 Not implemented.
@@ -17,8 +17,7 @@ static void System::Web::HttpContext::set_Current(const System::SharedPtr<HttpCo
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpContext](../)
-* Class [HttpContext](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpContext](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

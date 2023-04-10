@@ -21,8 +21,8 @@ System::SharedPtr<IMasterLayoutSlideCollection> Aspose::Slides::MasterSlide::get
 You can access to alternative API for adding/inserting/removing/cloning layout slides by using [IPresentation::get_LayoutSlides()](../../ipresentation/get_layoutslides/) property. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterLayoutSlideCollection](../../imasterlayoutslidecollection/)
-* Class [MasterSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterLayoutSlideCollection](../imasterlayoutslidecollection/)
+* Class [MasterSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

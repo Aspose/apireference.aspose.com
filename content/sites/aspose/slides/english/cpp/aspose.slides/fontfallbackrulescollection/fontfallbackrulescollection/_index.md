@@ -17,6 +17,6 @@ Aspose::Slides::FontFallBackRulesCollection::FontFallBackRulesCollection()
 
 ## See Also
 
-* Class [FontFallBackRulesCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FontFallBackRulesCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

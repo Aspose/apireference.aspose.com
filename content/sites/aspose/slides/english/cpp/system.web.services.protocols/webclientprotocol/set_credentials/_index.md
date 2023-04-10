@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.web.services.protocols/webclientprotocol/set_credentials/
 ---
-## WebClientProtocol::set_Credentials([System::SharedPtr](../../../system/sharedptr/)\<[Net::ICredentials](../../../system.net/icredentials/)\>) method
+## WebClientProtocol::set_Credentials(System::SharedPtr\<Net::ICredentials\>) method
 
 
 Sets the authentication information.
@@ -24,8 +24,8 @@ void System::Web::Services::Protocols::WebClientProtocol::set_Credentials(System
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICredentials](../../../system.net/icredentials/)
-* Class [WebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICredentials](../../system.net/icredentials/)
+* Class [WebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

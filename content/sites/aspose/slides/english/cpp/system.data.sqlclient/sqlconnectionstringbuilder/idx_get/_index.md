@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/idx_get/
 ---
-## SqlConnectionStringBuilder::idx_get([String](../../../system/string/)) method
+## SqlConnectionStringBuilder::idx_get(String) method
 
 
 RTTI information.
@@ -31,8 +31,8 @@ Item associated with specified key.
 Gets keyed object. 
 ## See Also
 
-* Typedef [ptr](../../../system/object/ptr/)
-* Class [String](../../../system/string/)
-* Class [SqlConnectionStringBuilder](../)
-* Namespace [System::Data::SqlClient](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ptr](../../system/object/ptr/)
+* Class [String](../../system/string/)
+* Class [SqlConnectionStringBuilder](./)
+* Namespace [System::Data::SqlClient](../)
+* Library [Aspose.Slides](../../)

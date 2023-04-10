@@ -17,8 +17,8 @@ System::SharedPtr<ITransitionValueBase> Aspose::Slides::SlideShow::SlideShowTran
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITransitionValueBase](../../itransitionvaluebase/)
-* Class [SlideShowTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITransitionValueBase](../itransitionvaluebase/)
+* Class [SlideShowTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

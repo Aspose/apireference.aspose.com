@@ -17,7 +17,7 @@ TransitionType Aspose::Slides::SlideShow::SlideShowTransition::get_Type() overri
 
 ## See Also
 
-* Enum [TransitionType](../../transitiontype/)
-* Class [SlideShowTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionType](../transitiontype/)
+* Class [SlideShowTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

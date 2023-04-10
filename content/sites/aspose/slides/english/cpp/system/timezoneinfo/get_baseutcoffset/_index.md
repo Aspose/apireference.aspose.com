@@ -17,7 +17,7 @@ TimeSpan System::TimeZoneInfo::get_BaseUtcOffset() const
 
 ## See Also
 
-* Class [TimeSpan](../../timespan/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](../timespan/)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

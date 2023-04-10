@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides/textframeformat/set_autofittype/
 ---
-## TextFrameFormat::set_AutofitType([TextAutofitType](../../textautofittype/)) method
+## TextFrameFormat::set_AutofitType(TextAutofitType) method
 
 
 Sets text's autofit mode. Write [TextAutofitType](../../textautofittype/).
@@ -50,7 +50,7 @@ pres->Save(u"Output-presentation.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Enum [TextAutofitType](../../textautofittype/)
-* Class [TextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextAutofitType](../textautofittype/)
+* Class [TextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/format/
 Represents chart format properties.
 
 ```cpp
-class Format : public Aspose::Slides::PVIObject,
-               public Aspose::Slides::Charts::IFormat
+class Format : public Aspose::Slides::PVIObject,               public Aspose::Slides::Charts::IFormat
 ```
 
 ## Methods

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaexternal/set_schema/
 ---
-## XmlSchemaExternal::set_Schema(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchema](../../xmlschema/)\>\&) method
+## XmlSchemaExternal::set_Schema(const SharedPtr\<XmlSchema\>\&) method
 
 
 Sets the [XmlSchema](../../xmlschema/) for the referenced schema.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaExternal::set_Schema(const SharedPtr<XmlSchem
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchema](../../xmlschema/)
-* Class [XmlSchemaExternal](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchema](../xmlschema/)
+* Class [XmlSchemaExternal](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

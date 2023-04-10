@@ -22,6 +22,6 @@ True if the stream is writable; otherwise - false
 
 ## See Also
 
-* Class [MemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

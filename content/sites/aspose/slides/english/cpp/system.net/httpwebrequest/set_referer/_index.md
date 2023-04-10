@@ -6,7 +6,7 @@ type: docs
 weight: 716
 url: /cpp/system.net/httpwebrequest/set_referer/
 ---
-## HttpWebRequest::set_Referer([System::String](../../../system/string/)) method
+## HttpWebRequest::set_Referer(System::String) method
 
 
 Sets a value of the 'Referer' header.
@@ -24,7 +24,7 @@ virtual void System::Net::HttpWebRequest::set_Referer(System::String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

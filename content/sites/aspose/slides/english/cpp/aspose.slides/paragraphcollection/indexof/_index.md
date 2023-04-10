@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/paragraphcollection/indexof/
 ---
-## ParagraphCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[IParagraph](../../iparagraph/)\>) method
+## ParagraphCollection::IndexOf(System::SharedPtr\<IParagraph\>) method
 
 
 Determines the index of a specific item in the [IList](../../../system.collections.generic/ilist/).
@@ -28,8 +28,8 @@ The index of *item*  if found in the list; otherwise, -1.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IParagraph](../../iparagraph/)
-* Class [ParagraphCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IParagraph](../iparagraph/)
+* Class [ParagraphCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

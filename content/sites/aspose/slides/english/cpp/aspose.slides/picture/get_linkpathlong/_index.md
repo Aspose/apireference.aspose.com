@@ -17,7 +17,7 @@ System::String Aspose::Slides::Picture::get_LinkPathLong() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Picture](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Picture](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

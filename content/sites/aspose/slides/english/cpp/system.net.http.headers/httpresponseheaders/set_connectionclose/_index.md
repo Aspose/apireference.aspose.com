@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.net.http.headers/httpresponseheaders/set_connectionclose/
 ---
-## HttpResponseHeaders::set_ConnectionClose([Nullable](../../../system/nullable/)\<**bool**\>) method
+## HttpResponseHeaders::set_ConnectionClose(Nullable\<bool\>) method
 
 
 Sets a value that indicates if the 'Connection' header value contains 'Close'.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpResponseHeaders::set_ConnectionClose(Nullab
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

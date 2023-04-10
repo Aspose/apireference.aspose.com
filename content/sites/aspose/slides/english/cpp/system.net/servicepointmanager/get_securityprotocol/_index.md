@@ -22,7 +22,7 @@ The security protocol type used by the ServicePoint-class instances that are man
 
 ## See Also
 
-* Enum [SecurityProtocolType](../../securityprotocoltype/)
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SecurityProtocolType](../securityprotocoltype/)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

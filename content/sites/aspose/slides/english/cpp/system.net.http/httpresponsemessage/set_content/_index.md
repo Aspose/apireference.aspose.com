@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net.http/httpresponsemessage/set_content/
 ---
-## HttpResponseMessage::set_Content([System::SharedPtr](../../../system/sharedptr/)\<[HttpContent](../../httpcontent/)\>) method
+## HttpResponseMessage::set_Content(System::SharedPtr\<HttpContent\>) method
 
 
 Sets content of the HTTP response.
@@ -24,8 +24,8 @@ void System::Net::Http::HttpResponseMessage::set_Content(System::SharedPtr<HttpC
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpContent](../../httpcontent/)
-* Class [HttpResponseMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpContent](../httpcontent/)
+* Class [HttpResponseMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

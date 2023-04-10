@@ -17,8 +17,8 @@ static ArrayPtr<String> System::Environment::GetLogicalDrives()
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../../string/)
-* Struct [Environment](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Class [String](../string/)
+* Struct [Environment](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

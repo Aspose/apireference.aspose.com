@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.collections/collectionbase/set_capacity/
 ---
-## CollectionBase::set_Capacity(**int32_t**) method
+## CollectionBase::set_Capacity(int32_t) method
 
 
 Sets the number of elements that the collection can contain.
@@ -24,6 +24,6 @@ void System::Collections::CollectionBase<T>::set_Capacity(int32_t value)
 
 ## See Also
 
-* Class [CollectionBase](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CollectionBase](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

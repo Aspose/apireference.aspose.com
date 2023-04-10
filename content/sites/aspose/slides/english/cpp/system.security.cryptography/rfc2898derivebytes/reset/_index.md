@@ -17,6 +17,6 @@ virtual void System::Security::Cryptography::Rfc2898DeriveBytes::Reset() overrid
 
 ## See Also
 
-* Class [Rfc2898DeriveBytes](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Rfc2898DeriveBytes](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

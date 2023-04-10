@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/fillformat/
 Represents a fill formatting options.
 
 ```cpp
-class FillFormat : public Aspose::Slides::PVIObject,
-                   public Aspose::Slides::IFillFormat
+class FillFormat : public Aspose::Slides::PVIObject,                   public Aspose::Slides::IFillFormat
 ```
 
 ## Methods

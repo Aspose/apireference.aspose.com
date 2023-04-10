@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/istringchartvalue/setfromonecell/
 ---
-## IStringChartValue::SetFromOneCell([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataCell](../../ichartdatacell/)\>) method
+## IStringChartValue::SetFromOneCell(System::SharedPtr\<IChartDataCell\>) method
 
 
 Sets value from specified cell.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Charts::IStringChartValue::SetFromOneCell(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataCell](../../ichartdatacell/)
-* Class [IStringChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataCell](../ichartdatacell/)
+* Class [IStringChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

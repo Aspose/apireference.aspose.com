@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/system.xml/xmlnode/writecontentto/
 ---
-## XmlNode::WriteContentTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
+## XmlNode::WriteContentTo(const SharedPtr\<XmlWriter\>\&) method
 
 
 Saves all the child nodes of the node to the specified [XmlWriter](../../xmlwriter/), when overridden in a derived class.
@@ -24,8 +24,8 @@ virtual void System::Xml::XmlNode::WriteContentTo(const SharedPtr<XmlWriter> &w)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../xmlwriter/)
-* Class [XmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../xmlwriter/)
+* Class [XmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

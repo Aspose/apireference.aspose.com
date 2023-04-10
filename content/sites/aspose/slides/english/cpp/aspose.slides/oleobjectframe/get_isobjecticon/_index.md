@@ -17,6 +17,6 @@ bool Aspose::Slides::OleObjectFrame::get_IsObjectIcon() override
 
 ## See Also
 
-* Class [OleObjectFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [OleObjectFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

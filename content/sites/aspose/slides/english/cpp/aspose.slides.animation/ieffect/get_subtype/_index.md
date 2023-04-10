@@ -17,7 +17,7 @@ virtual EffectSubtype Aspose::Slides::Animation::IEffect::get_Subtype()=0
 
 ## See Also
 
-* Enum [EffectSubtype](../../effectsubtype/)
-* Class [IEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EffectSubtype](../effectsubtype/)
+* Class [IEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

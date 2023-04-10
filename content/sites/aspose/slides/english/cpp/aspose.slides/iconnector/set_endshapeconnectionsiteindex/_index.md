@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/iconnector/set_endshapeconnectionsiteindex/
 ---
-## IConnector::set_EndShapeConnectionSiteIndex(**uint32_t**) method
+## IConnector::set_EndShapeConnectionSiteIndex(uint32_t) method
 
 
 Sets the index of connection site for end shape. Write **uint32_t**.
@@ -18,6 +18,6 @@ virtual void Aspose::Slides::IConnector::set_EndShapeConnectionSiteIndex(uint32_
 
 ## See Also
 
-* Class [IConnector](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IConnector](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

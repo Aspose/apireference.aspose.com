@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/ieightdirectiontransition/set_direction/
 ---
-## IEightDirectionTransition::set_Direction([TransitionEightDirectionType](../../transitioneightdirectiontype/)) method
+## IEightDirectionTransition::set_Direction(TransitionEightDirectionType) method
 
 
 Direction of transition. Write [TransitionEightDirectionType](../../transitioneightdirectiontype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::IEightDirectionTransition::set_Direction
 
 ## See Also
 
-* Enum [TransitionEightDirectionType](../../transitioneightdirectiontype/)
-* Class [IEightDirectionTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionEightDirectionType](../transitioneightdirectiontype/)
+* Class [IEightDirectionTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

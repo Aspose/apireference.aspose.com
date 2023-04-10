@@ -28,6 +28,6 @@ True if element was found and removed, false otherwise.
 
 ## See Also
 
-* Class [ConcurrentDictionary](../)
-* Namespace [System::Collections::Concurrent](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ConcurrentDictionary](./)
+* Namespace [System::Collections::Concurrent](../)
+* Library [Aspose.Slides](../../)

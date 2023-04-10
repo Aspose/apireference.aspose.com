@@ -28,7 +28,7 @@ A key at the specified index.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WebHeaderCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WebHeaderCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

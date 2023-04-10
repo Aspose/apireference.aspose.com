@@ -17,8 +17,8 @@ System::SharedPtr<IEffectFormat> Aspose::Slides::Background::get_EffectFormat() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffectFormat](../../ieffectformat/)
-* Class [Background](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffectFormat](../ieffectformat/)
+* Class [Background](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

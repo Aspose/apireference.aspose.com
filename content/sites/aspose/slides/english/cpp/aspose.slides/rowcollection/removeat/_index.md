@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/rowcollection/removeat/
 ---
-## RowCollection::RemoveAt(**int32_t**, **bool**) method
+## RowCollection::RemoveAt(int32_t, bool) method
 
 
 Removes a row at the specified position from a table.
@@ -25,6 +25,6 @@ void Aspose::Slides::RowCollection::RemoveAt(int32_t firstRowIndex, bool withAtt
 
 ## See Also
 
-* Class [RowCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RowCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

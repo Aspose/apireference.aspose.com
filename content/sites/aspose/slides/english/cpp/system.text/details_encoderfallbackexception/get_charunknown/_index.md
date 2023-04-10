@@ -22,6 +22,6 @@ Character that broke encoding.
 
 ## See Also
 
-* Class [Details_EncoderFallbackException](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Details_EncoderFallbackException](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

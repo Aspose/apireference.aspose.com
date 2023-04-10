@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.slides/presentation/set_firstslidenumber/
 ---
-## Presentation::set_FirstSlideNumber(**int32_t**) method
+## Presentation::set_FirstSlideNumber(int32_t) method
 
 
 Represents the first slide number in the presentation
@@ -17,6 +17,6 @@ void Aspose::Slides::Presentation::set_FirstSlideNumber(int32_t value) override
 
 ## See Also
 
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

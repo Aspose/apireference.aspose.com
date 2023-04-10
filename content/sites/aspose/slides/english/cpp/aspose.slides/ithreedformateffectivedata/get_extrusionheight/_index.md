@@ -17,6 +17,6 @@ virtual double Aspose::Slides::IThreeDFormatEffectiveData::get_ExtrusionHeight()
 
 ## See Also
 
-* Class [IThreeDFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IThreeDFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

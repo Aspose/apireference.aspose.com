@@ -24,6 +24,6 @@ void System::Security::SecureString::AppendChar(char16_t c)
 
 ## See Also
 
-* Class [SecureString](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SecureString](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

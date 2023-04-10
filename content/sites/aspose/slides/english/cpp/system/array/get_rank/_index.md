@@ -17,6 +17,6 @@ int32_t System::Array<T>::get_Rank() const
 
 ## See Also
 
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

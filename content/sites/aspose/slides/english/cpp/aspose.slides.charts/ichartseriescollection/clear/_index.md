@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartSeriesCollection::Clear()=0
 
 ## See Also
 
-* Class [IChartSeriesCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartSeriesCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

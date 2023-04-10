@@ -22,6 +22,6 @@ A number of elements in the collection.
 
 ## See Also
 
-* Class [WebHeaderCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebHeaderCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

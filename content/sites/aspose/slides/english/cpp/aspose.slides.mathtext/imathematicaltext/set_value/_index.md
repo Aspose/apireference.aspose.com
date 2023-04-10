@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathematicaltext/set_value/
 ---
-## IMathematicalText::set_Value([System::String](../../../system/string/)) method
+## IMathematicalText::set_Value(System::String) method
 
 
 Text value
@@ -26,7 +26,7 @@ System::String textValue = mathText->get_Value();
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IMathematicalText](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IMathematicalText](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

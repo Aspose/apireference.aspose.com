@@ -17,6 +17,6 @@ constexpr int System::TimeSpan::get_Hours() const
 
 ## See Also
 
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides/textframeformat/set_centertext/
 ---
-## TextFrameFormat::set_CenterText([NullableBool](../../nullablebool/)) method
+## TextFrameFormat::set_CenterText(NullableBool) method
 
 
 If [NullableBool::True](../../nullablebool/) then text should be centered in box horizontally. Write [NullableBool](../../nullablebool/).
@@ -17,7 +17,7 @@ void Aspose::Slides::TextFrameFormat::set_CenterText(NullableBool value) overrid
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [TextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [TextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

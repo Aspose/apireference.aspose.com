@@ -17,7 +17,7 @@ System::TimeSpan Aspose::Slides::DocumentProperties::get_TotalEditingTime() over
 
 ## See Also
 
-* Class [TimeSpan](../../../system/timespan/)
-* Class [DocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](../../system/timespan/)
+* Class [DocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void System::Xml::XmlNodeReader::Close() override
 
 ## See Also
 
-* Class [XmlNodeReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlNodeReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

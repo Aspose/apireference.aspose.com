@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/igradientformat/set_gradientshape/
 ---
-## IGradientFormat::set_GradientShape([Aspose::Slides::GradientShape](../../gradientshape/)) method
+## IGradientFormat::set_GradientShape(Aspose::Slides::GradientShape) method
 
 
 Sets the shape of a gradient. Write [Slides::GradientShape](../../gradientshape/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IGradientFormat::set_GradientShape(Aspose::Slides::
 
 ## See Also
 
-* Enum [GradientShape](../../gradientshape/)
-* Class [IGradientFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [GradientShape](../gradientshape/)
+* Class [IGradientFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

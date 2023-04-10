@@ -34,7 +34,7 @@ pres->Save(u"SomePresentation-out-ArialBlack.pdf", Aspose::Slides::Export::SaveF
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ISaveOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ISaveOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

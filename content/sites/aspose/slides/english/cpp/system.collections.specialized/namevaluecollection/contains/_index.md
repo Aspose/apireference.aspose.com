@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.collections.specialized/namevaluecollection/contains/
 ---
-## NameValueCollection::Contains(const [String](../../../system/string/)\&) const method
+## NameValueCollection::Contains(const String\&) const method
 
 
 Checks if item is present in collection.
@@ -28,7 +28,7 @@ True if item is present, false otherwise.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NameValueCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NameValueCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

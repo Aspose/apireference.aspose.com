@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.text.regularexpressions/capturecollection/add/
 ---
-## CaptureCollection::Add(const [CapturePtr](../../captureptr/)\&) method
+## CaptureCollection::Add(const CapturePtr\&) method
 
 
 Disables collection ammendment.
@@ -24,7 +24,7 @@ void System::Text::RegularExpressions::CaptureCollection::Add(const CapturePtr &
 
 ## See Also
 
-* Typedef [CapturePtr](../../captureptr/)
-* Class [CaptureCollection](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [CapturePtr](../captureptr/)
+* Class [CaptureCollection](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

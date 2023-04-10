@@ -6,7 +6,7 @@ type: docs
 weight: 560
 url: /cpp/aspose.slides/ipresentation/get_digitalsignature/
 ---
-## IPresentation::get_DigitalSignature(**int32_t**) method
+## IPresentation::get_DigitalSignature(int32_t) method
 
 
 Returns digital signature used to sign the presentation at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IDigitalSignature> Aspose::Slides::IPresentation::get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IDigitalSignature](../../idigitalsignature/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IDigitalSignature](../idigitalsignature/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

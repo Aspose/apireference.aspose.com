@@ -26,7 +26,7 @@ delimiter->set_DelimiterShape(MathDelimiterShape::Match);
 
 ## See Also
 
-* Enum [MathDelimiterShape](../../mathdelimitershape/)
-* Class [IMathDelimiter](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathDelimiterShape](../mathdelimitershape/)
+* Class [IMathDelimiter](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

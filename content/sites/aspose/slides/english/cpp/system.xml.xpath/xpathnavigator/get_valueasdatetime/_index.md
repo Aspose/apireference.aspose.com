@@ -22,7 +22,7 @@ The current node's value as a [DateTime](../../../system/datetime/).
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

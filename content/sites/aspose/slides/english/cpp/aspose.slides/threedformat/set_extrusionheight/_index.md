@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/threedformat/set_extrusionheight/
 ---
-## ThreeDFormat::set_ExtrusionHeight(**double**) method
+## ThreeDFormat::set_ExtrusionHeight(double) method
 
 
 Sets the height of an extrusion effect. Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::ThreeDFormat::set_ExtrusionHeight(double value) override
 
 ## See Also
 
-* Class [ThreeDFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ThreeDFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

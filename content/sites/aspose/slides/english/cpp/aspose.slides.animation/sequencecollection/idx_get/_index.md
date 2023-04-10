@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/sequencecollection/idx_get/
 ---
-## SequenceCollection::idx_get(**int32_t**) method
+## SequenceCollection::idx_get(int32_t) method
 
 
 Returns a sequense at the specified index.
@@ -28,8 +28,8 @@ System::SharedPtr<ISequence> Aspose::Slides::Animation::SequenceCollection::idx_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISequence](../../isequence/)
-* Class [SequenceCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISequence](../isequence/)
+* Class [SequenceCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

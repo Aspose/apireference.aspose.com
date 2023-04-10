@@ -17,7 +17,7 @@ EncoderPtr System::Drawing::Imaging::EncoderParameter::get_Encoder() const
 
 ## See Also
 
-* Typedef [EncoderPtr](../../encoderptr/)
-* Class [EncoderParameter](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [EncoderPtr](../encoderptr/)
+* Class [EncoderParameter](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

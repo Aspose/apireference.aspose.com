@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.xml/xmlwriter/writedoctype/
 ---
-## XmlWriter::WriteDocType(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## XmlWriter::WriteDocType(const String\&, const String\&, const String\&, const String\&) method
 
 
 When overridden in a derived class, writes the DOCTYPE declaration with the specified name and optional attributes.
@@ -27,7 +27,7 @@ virtual void System::Xml::XmlWriter::WriteDocType(const String &name, const Stri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

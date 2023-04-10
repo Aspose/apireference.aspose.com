@@ -17,8 +17,7 @@ static System::SharedPtr<FieldType> Aspose::Slides::FieldType::get_DateTime13()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FieldType](../)
-* Class [FieldType](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [FieldType](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

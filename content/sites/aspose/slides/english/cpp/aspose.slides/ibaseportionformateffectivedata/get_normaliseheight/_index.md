@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IBasePortionFormatEffectiveData::get_NormaliseHeigh
 
 ## See Also
 
-* Class [IBasePortionFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBasePortionFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ A string representation of the value represented by the current object or an emp
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [Nullable](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [Nullable](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

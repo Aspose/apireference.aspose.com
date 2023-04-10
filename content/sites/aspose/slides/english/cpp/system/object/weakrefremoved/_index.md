@@ -21,6 +21,6 @@ void System::Object::WeakRefRemoved()
 Implementation. 
 ## See Also
 
-* Class [Object](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Object](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

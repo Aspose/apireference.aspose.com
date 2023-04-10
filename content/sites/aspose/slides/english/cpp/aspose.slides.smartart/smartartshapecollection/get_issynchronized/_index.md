@@ -17,6 +17,6 @@ bool Aspose::Slides::SmartArt::SmartArtShapeCollection::get_IsSynchronized() ove
 
 ## See Also
 
-* Class [SmartArtShapeCollection](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartArtShapeCollection](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

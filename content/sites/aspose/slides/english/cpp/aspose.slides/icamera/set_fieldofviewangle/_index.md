@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/icamera/set_fieldofviewangle/
 ---
-## ICamera::set_FieldOfViewAngle(**float**) method
+## ICamera::set_FieldOfViewAngle(float) method
 
 
 [Camera](../../camera/) FOV (0-180 deg, field of View) Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ICamera::set_FieldOfViewAngle(float value)=0
 
 ## See Also
 
-* Class [ICamera](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICamera](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

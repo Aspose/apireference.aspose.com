@@ -22,8 +22,8 @@ An [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/)
-* Class [XmlSchemaGroupBase](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../xmlschemaobjectcollection/)
+* Class [XmlSchemaGroupBase](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

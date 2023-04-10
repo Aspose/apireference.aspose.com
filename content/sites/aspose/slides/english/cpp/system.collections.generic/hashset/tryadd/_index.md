@@ -28,6 +28,6 @@ True if element was added, false if already exists.
 
 ## See Also
 
-* Class [HashSet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HashSet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

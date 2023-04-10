@@ -17,8 +17,8 @@ System::SharedPtr<IFillFormatCollection> Aspose::Slides::Theme::FormatScheme::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillFormatCollection](../../ifillformatcollection/)
-* Class [FormatScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillFormatCollection](../ifillformatcollection/)
+* Class [FormatScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

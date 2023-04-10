@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/ibaseslide/get_control/
 ---
-## IBaseSlide::get_Control(**int32_t**) method
+## IBaseSlide::get_Control(int32_t) method
 
 
 Returns the ActiveX control at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IControl> Aspose::Slides::IBaseSlide::get_Control(int3
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IControl](../../icontrol/)
-* Class [IBaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IControl](../icontrol/)
+* Class [IBaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

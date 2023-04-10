@@ -17,6 +17,6 @@ virtual void System::Collections::IEnumerator::Reset()
 
 ## See Also
 
-* Class [IEnumerator](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IEnumerator](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

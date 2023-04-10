@@ -17,6 +17,6 @@ void System::Collections::Generic::DictionaryIterator<Dict>::DecrementIterator()
 
 ## See Also
 
-* Class [DictionaryIterator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DictionaryIterator](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

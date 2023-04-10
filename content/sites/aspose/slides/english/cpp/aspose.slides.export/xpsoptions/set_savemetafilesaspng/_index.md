@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/xpsoptions/set_savemetafilesaspng/
 ---
-## XpsOptions::set_SaveMetafilesAsPng(**bool**) method
+## XpsOptions::set_SaveMetafilesAsPng(bool) method
 
 
 True to convert all metafiles used in a presentation to the PNG images. Write **bool**.
@@ -21,6 +21,6 @@ void Aspose::Slides::Export::XpsOptions::set_SaveMetafilesAsPng(bool value) over
 Default is **true**. 
 ## See Also
 
-* Class [XpsOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XpsOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

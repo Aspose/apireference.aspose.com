@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.slides.charts/ichartseries/set_showmeanmarkers/
 ---
-## IChartSeries::set_ShowMeanMarkers(**bool**) method
+## IChartSeries::set_ShowMeanMarkers(bool) method
 
 
 Represents mean markers. True if mean markers are shown on the BoxAndWhisker chart. Applies only to BoxAndWhisker charts. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartSeries::set_ShowMeanMarkers(bool valu
 
 ## See Also
 
-* Class [IChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.theme/overridetheme/initformatschemefrom/
 ---
-## OverrideTheme::InitFormatSchemeFrom([System::SharedPtr](../../../system/sharedptr/)\<[IFormatScheme](../../iformatscheme/)\>) method
+## OverrideTheme::InitFormatSchemeFrom(System::SharedPtr\<IFormatScheme\>) method
 
 
 Init [FormatScheme](../../formatscheme/) with new object for overriding [FormatScheme](../../formatscheme/) of InheritedTheme.
@@ -24,8 +24,8 @@ void Aspose::Slides::Theme::OverrideTheme::InitFormatSchemeFrom(System::SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFormatScheme](../../iformatscheme/)
-* Class [OverrideTheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFormatScheme](../iformatscheme/)
+* Class [OverrideTheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides/commentcollection/findcommentbyidx/
 ---
-## CommentCollection::FindCommentByIdx(**int32_t**) method
+## CommentCollection::FindCommentByIdx(int32_t) method
 
 
 Finds a comment in the collection by index.
@@ -28,8 +28,8 @@ Found comment or null [IComment](../../icomment/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComment](../../icomment/)
-* Class [CommentCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComment](../icomment/)
+* Class [CommentCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

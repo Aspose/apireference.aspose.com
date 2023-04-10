@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.io/file/opentext/
 ---
-## File::OpenText(const [String](../../../system/string/)\&, const [EncodingPtr](../../../system/encodingptr/)\&) method
+## File::OpenText(const String\&, const EncodingPtr\&) method
 
 
 Opens the specified existing file for reading text using UTF-8 encoding with no sharing.
@@ -29,9 +29,9 @@ A shared pointer to a [StreamWriter](../../streamwriter/) object associated with
 
 ## See Also
 
-* Typedef [StreamReaderPtr](../../../system/streamreaderptr/)
-* Class [String](../../../system/string/)
-* Typedef [EncodingPtr](../../../system/encodingptr/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [StreamReaderPtr](../../system/streamreaderptr/)
+* Typedef [EncodingPtr](../../system/encodingptr/)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

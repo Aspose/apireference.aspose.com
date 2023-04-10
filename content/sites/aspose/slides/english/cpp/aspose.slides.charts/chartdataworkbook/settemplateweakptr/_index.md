@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/chartdataworkbook/settemplateweakptr/
 ---
-## ChartDataWorkbook::SetTemplateWeakPtr(**uint32_t**) method
+## ChartDataWorkbook::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartDataWorkbook::SetTemplateWeakPtr(uint32_t argu
 
 ## See Also
 
-* Class [ChartDataWorkbook](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataWorkbook](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

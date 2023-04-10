@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides.charts/charttypecharacterizer/iserrorbarsxallowed/
 ---
-## ChartTypeCharacterizer::IsErrorBarsXAllowed([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::IsErrorBarsXAllowed(ChartType) method
 
 
 Returns if error bars X allowed for specified series type.
@@ -28,7 +28,7 @@ True if allowed, otherwise false.
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

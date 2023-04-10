@@ -17,6 +17,6 @@ bool Aspose::Slides::ColumnCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [ColumnCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColumnCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

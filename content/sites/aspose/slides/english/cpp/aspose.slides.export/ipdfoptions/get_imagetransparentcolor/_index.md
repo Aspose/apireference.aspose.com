@@ -21,7 +21,7 @@ virtual System::Drawing::Color Aspose::Slides::Export::IPdfOptions::get_ImageTra
 The color of the image transparent. 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [IPdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [IPdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

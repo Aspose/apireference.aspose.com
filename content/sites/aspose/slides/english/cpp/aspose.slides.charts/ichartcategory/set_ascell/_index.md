@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/ichartcategory/set_ascell/
 ---
-## IChartCategory::set_AsCell([System::SharedPtr](../../../system/sharedptr/)\<[IChartDataCell](../../ichartdatacell/)\>) method
+## IChartCategory::set_AsCell(System::SharedPtr\<IChartDataCell\>) method
 
 
 Sets [IChartDataCell](../../ichartdatacell/) object. If category is multi-level then used [IChartDataCell](../../ichartdatacell/) object for level \"0\". Write [IChartDataCell](../../ichartdatacell/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Charts::IChartCategory::set_AsCell(System::SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataCell](../../ichartdatacell/)
-* Class [IChartCategory](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataCell](../ichartdatacell/)
+* Class [IChartCategory](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

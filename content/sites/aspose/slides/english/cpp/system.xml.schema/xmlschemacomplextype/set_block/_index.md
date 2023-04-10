@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemacomplextype/set_block/
 ---
-## XmlSchemaComplexType::set_Block([XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)) method
+## XmlSchemaComplexType::set_Block(XmlSchemaDerivationMethod) method
 
 
 Sets the **block** attribute.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaComplexType::set_Block(XmlSchemaDerivationMet
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
-* Class [XmlSchemaComplexType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
+* Class [XmlSchemaComplexType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

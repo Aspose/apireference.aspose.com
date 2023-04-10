@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::INormalViewRestoredProperties::get_AutoAdjust()=0
 
 ## See Also
 
-* Class [INormalViewRestoredProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [INormalViewRestoredProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

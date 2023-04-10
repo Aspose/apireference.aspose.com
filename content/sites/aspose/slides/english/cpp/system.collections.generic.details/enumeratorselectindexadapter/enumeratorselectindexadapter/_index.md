@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic.details/enumeratorselectindexadapter/enumeratorselectindexadapter/
 ---
-## EnumeratorSelectIndexAdapter::EnumeratorSelectIndexAdapter([SharedPtr](../../../system/sharedptr/)\<[IEnumerator](../../../system.collections.generic/ienumerator/)\<Source\>\>, const [Func](../../../system/func/)\<Source, **int32_t**, Result\>\&) constructor
+## EnumeratorSelectIndexAdapter::EnumeratorSelectIndexAdapter(SharedPtr\<IEnumerator\<Source\>\>, const Func\<Source, int32_t, Result\>\&) constructor
 
 
 
@@ -17,9 +17,9 @@ System::Collections::Generic::Details::EnumeratorSelectIndexAdapter<Source, Resu
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [Func](../../../system/func/)
-* Class [EnumeratorSelectIndexAdapter](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../../system.collections.generic/ienumerator/)
+* Class [Func](../../system/func/)
+* Class [EnumeratorSelectIndexAdapter](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ Raw handle owned by object.
 
 ## See Also
 
-* Typedef [wait_handle_t](../../wait_handle_t/)
-* Class [WaitHandle](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [wait_handle_t](../wait_handle_t/)
+* Class [WaitHandle](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

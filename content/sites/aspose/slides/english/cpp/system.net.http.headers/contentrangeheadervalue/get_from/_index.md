@@ -22,7 +22,7 @@ A position at which data sending must start.
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [ContentRangeHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [ContentRangeHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

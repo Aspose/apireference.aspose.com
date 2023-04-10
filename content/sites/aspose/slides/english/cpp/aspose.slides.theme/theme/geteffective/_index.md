@@ -35,8 +35,8 @@ Console::WriteLine(String(u"Minor latin font: ") + effectiveTheme->get_FontSchem
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IThemeEffectiveData](../../ithemeeffectivedata/)
-* Class [Theme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IThemeEffectiveData](../ithemeeffectivedata/)
+* Class [Theme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

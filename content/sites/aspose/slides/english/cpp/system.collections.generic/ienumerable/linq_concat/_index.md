@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.collections.generic/ienumerable/linq_concat/
 ---
-## IEnumerable::LINQ_Concat([SharedPtr](../../../system/sharedptr/)\<[IEnumerable](../)\<T\>\>) method
+## IEnumerable::LINQ_Concat(SharedPtr\<IEnumerable\<T\>\>) method
 
 
 Concatenates two sequences.
@@ -28,8 +28,7 @@ An [IEnumerable](../) that contains the concatenated elements of the two input s
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../)
-* Class [IEnumerable](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerable](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

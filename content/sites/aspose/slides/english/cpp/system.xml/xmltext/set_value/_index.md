@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml/xmltext/set_value/
 ---
-## XmlText::set_Value([String](../../../system/string/)) method
+## XmlText::set_Value(String) method
 
 
 Sets the value of the node.
@@ -24,7 +24,7 @@ void System::Xml::XmlText::set_Value(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlText](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlText](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

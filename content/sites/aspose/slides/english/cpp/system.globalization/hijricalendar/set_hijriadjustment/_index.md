@@ -24,6 +24,6 @@ void System::Globalization::HijriCalendar::set_HijriAdjustment(int value)
 
 ## See Also
 
-* Class [HijriCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HijriCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

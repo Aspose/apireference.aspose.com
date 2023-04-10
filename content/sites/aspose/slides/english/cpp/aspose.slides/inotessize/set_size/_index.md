@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/inotessize/set_size/
 ---
-## INotesSize::set_Size([System::Drawing::SizeF](../../../system.drawing/sizef/)) method
+## INotesSize::set_Size(System::Drawing::SizeF) method
 
 
 Sets the size in points. Write [System::Drawing::SizeF](../../../system.drawing/sizef/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::INotesSize::set_Size(System::Drawing::SizeF value)=
 
 ## See Also
 
-* Class [SizeF](../../../system.drawing/sizef/)
-* Class [INotesSize](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SizeF](../../system.drawing/sizef/)
+* Class [INotesSize](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

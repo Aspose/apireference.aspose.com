@@ -17,7 +17,7 @@ System::Drawing::PointF Aspose::Slides::Animation::ScaleEffect::get_From() overr
 
 ## See Also
 
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [ScaleEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [ScaleEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

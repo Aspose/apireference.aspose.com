@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.xsl/xsltargumentlist/getparam/
 ---
-## XsltArgumentList::GetParam(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## XsltArgumentList::GetParam(const String\&, const String\&) method
 
 
 Returns the parameter associated with the namespace qualified name.
@@ -29,9 +29,9 @@ The parameter object or **nullptr** if one was not found.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [XsltArgumentList](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [String](../../system/string/)
+* Class [XsltArgumentList](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

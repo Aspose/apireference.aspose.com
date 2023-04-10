@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.slides/ishape/set_alternativetexttitle/
 ---
-## IShape::set_AlternativeTextTitle([System::String](../../../system/string/)) method
+## IShape::set_AlternativeTextTitle(System::String) method
 
 
 Sets the title of alternative text associated with a shape. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IShape::set_AlternativeTextTitle(System::String val
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

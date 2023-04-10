@@ -22,6 +22,6 @@ The validated XML element or attribute's value as an [Int32](../../../system/int
 
 ## See Also
 
-* Class [XmlAtomicValue](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlAtomicValue](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

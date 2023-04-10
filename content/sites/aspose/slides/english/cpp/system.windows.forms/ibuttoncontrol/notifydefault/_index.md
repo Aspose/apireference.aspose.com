@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.windows.forms/ibuttoncontrol/notifydefault/
 ---
-## IButtonControl::NotifyDefault(**bool**) method
+## IButtonControl::NotifyDefault(bool) method
 
 
 Makes control default or non-default.
@@ -17,6 +17,6 @@ virtual void System::Windows::Forms::IButtonControl::NotifyDefault(bool value)=0
 
 ## See Also
 
-* Class [IButtonControl](../)
-* Namespace [System::Windows::Forms](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IButtonControl](./)
+* Namespace [System::Windows::Forms](../)
+* Library [Aspose.Slides](../../)

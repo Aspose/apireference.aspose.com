@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Effects::IGlowEffectiveData::get_Radius()=0
 
 ## See Also
 
-* Class [IGlowEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGlowEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

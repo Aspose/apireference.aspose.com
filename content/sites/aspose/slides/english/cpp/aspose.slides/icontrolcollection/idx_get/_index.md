@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/icontrolcollection/idx_get/
 ---
-## IControlCollection::idx_get(**int32_t**) method
+## IControlCollection::idx_get(int32_t) method
 
 
 Returns a control at the specified position.
@@ -24,8 +24,8 @@ virtual System::SharedPtr<IControl> Aspose::Slides::IControlCollection::idx_get(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IControl](../../icontrol/)
-* Class [IControlCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IControl](../icontrol/)
+* Class [IControlCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

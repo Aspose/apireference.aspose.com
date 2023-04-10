@@ -17,6 +17,6 @@ int32_t Aspose::Slides::ModernComment::get_TextSelectionStart() override
 
 ## See Also
 
-* Class [ModernComment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ModernComment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

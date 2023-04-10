@@ -6,7 +6,7 @@ type: docs
 weight: 989
 url: /cpp/system.drawing/graphics/endcontainer/
 ---
-## Graphics::EndContainer(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::GraphicsContainer](../../../system.drawing.drawing2d/graphicscontainer/)\>\&) method
+## Graphics::EndContainer(const SharedPtr\<Drawing2D::GraphicsContainer\>\&) method
 
 
 Closes the current container and restores the state of this object from the state of saved container.
@@ -24,8 +24,8 @@ void System::Drawing::Graphics::EndContainer(const SharedPtr<Drawing2D::Graphics
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [GraphicsContainer](../../../system.drawing.drawing2d/graphicscontainer/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [GraphicsContainer](../../system.drawing.drawing2d/graphicscontainer/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

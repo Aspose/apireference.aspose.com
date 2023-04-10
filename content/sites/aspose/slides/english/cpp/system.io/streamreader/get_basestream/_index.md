@@ -17,8 +17,8 @@ SharedPtr<Stream> System::IO::StreamReader::get_BaseStream() const
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../stream/)
-* Class [StreamReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../stream/)
+* Class [StreamReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

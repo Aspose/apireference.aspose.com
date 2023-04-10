@@ -20,12 +20,6 @@ reverse_iterator System::Collections::Generic::SortedDictionary<TKey, TValue>::r
 
 A reverse iterator pointing to the theoretical element preceeding the first element in the map (last in reverse).
 
-## See Also
-
-* Typedef [reverse_iterator](../reverse_iterator/)
-* Class [SortedDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## SortedDictionary::rend() const method
 
 
@@ -42,7 +36,8 @@ A reverse iterator pointing to the theoretical element preceeding the first elem
 
 ## See Also
 
-* Typedef [const_reverse_iterator](../const_reverse_iterator/)
-* Class [SortedDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [reverse_iterator](./reverse_iterator/)
+* Typedef [const_reverse_iterator](./const_reverse_iterator/)
+* Class [SortedDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ioverridabletext/addtextframeforoverriding/
 ---
-## IOverridableText::AddTextFrameForOverriding([System::String](../../../system/string/)) method
+## IOverridableText::AddTextFrameForOverriding(System::String) method
 
 
 Initialize TextFrameForOverriding with the text in paramener \"text\". If TextFrameForOverriding is already initialized then simply changes its text.
@@ -28,9 +28,9 @@ Text frame [ITextFrame](../../../aspose.slides/itextframe/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITextFrame](../../../aspose.slides/itextframe/)
-* Class [String](../../../system/string/)
-* Class [IOverridableText](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITextFrame](../../aspose.slides/itextframe/)
+* Class [String](../../system/string/)
+* Class [IOverridableText](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

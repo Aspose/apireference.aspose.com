@@ -17,8 +17,8 @@ System::SharedPtr<IPortionCollection> Aspose::Slides::Paragraph::get_Portions() 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPortionCollection](../../iportioncollection/)
-* Class [Paragraph](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPortionCollection](../iportioncollection/)
+* Class [Paragraph](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

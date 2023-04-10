@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.collections.generic/iset/ispropersubsetof/
 ---
-## ISet::IsProperSubsetOf([IEnumerablePtr](../ienumerableptr/)) method
+## ISet::IsProperSubsetOf(IEnumerablePtr) method
 
 
 Checks if current set is a strict subset of other container.
@@ -28,7 +28,7 @@ True if all elements in current set are present in **other** and **other** has m
 
 ## See Also
 
-* Typedef [IEnumerablePtr](../ienumerableptr/)
-* Class [ISet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumerablePtr](./ienumerableptr/)
+* Class [ISet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

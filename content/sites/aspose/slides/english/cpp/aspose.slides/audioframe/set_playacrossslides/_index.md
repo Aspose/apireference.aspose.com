@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides/audioframe/set_playacrossslides/
 ---
-## AudioFrame::set_PlayAcrossSlides(**bool**) method
+## AudioFrame::set_PlayAcrossSlides(bool) method
 
 
 Determines whether audio is playing across the slides. Write **bool**.
@@ -38,6 +38,6 @@ pres->Save(u"AudioFrame_out.pptx", Aspose::Slides::Export::SaveFormat::Pptx);
 
 ## See Also
 
-* Class [AudioFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AudioFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

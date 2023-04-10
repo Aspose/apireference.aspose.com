@@ -6,7 +6,7 @@ type: docs
 weight: 612
 url: /cpp/system/array/findindex/
 ---
-## Array::FindIndex([System::ArrayPtr](../../arrayptr/)\<T\>, [System::Predicate](../../predicate/)\<T\>) method
+## Array::FindIndex(System::ArrayPtr\<T\>, System::Predicate\<T\>) method
 
 
 Searches for the first element in the specified array that satisfies the conditions of the specified predicate.
@@ -29,8 +29,8 @@ The index of the first element in the array that satisfies the conditions define
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Typedef [Predicate](../../predicate/)
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Typedef [Predicate](../predicate/)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

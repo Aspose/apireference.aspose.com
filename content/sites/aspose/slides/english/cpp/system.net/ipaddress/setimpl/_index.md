@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.net/ipaddress/setimpl/
 ---
-## IPAddress::SetImpl([ImplPtr](../implptr/)) method
+## IPAddress::SetImpl(ImplPtr) method
 
 
 Sets a pointer to implementation.
@@ -24,7 +24,7 @@ void System::Net::IPAddress::SetImpl(ImplPtr impl)
 
 ## See Also
 
-* Typedef [ImplPtr](../implptr/)
-* Class [IPAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ImplPtr](./implptr/)
+* Class [IPAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

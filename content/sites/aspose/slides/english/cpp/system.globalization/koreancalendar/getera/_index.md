@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.globalization/koreancalendar/getera/
 ---
-## KoreanCalendar::GetEra([DateTime](../../../system/datetime/)) const method
+## KoreanCalendar::GetEra(DateTime) const method
 
 
 Gets era for the specified time point.
@@ -28,7 +28,7 @@ Era of the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [KoreanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [KoreanCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

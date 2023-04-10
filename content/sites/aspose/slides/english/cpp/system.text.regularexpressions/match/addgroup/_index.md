@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.text.regularexpressions/match/addgroup/
 ---
-## Match::AddGroup(const [GroupPtr](../../groupptr/)\&) method
+## Match::AddGroup(const GroupPtr\&) method
 
 
 Adds group into match.
@@ -24,7 +24,7 @@ void System::Text::RegularExpressions::Match::AddGroup(const GroupPtr &item)
 
 ## See Also
 
-* Typedef [GroupPtr](../../groupptr/)
-* Class [Match](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [GroupPtr](../groupptr/)
+* Class [Match](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.slides/idocumentproperties/set_author/
 ---
-## IDocumentProperties::set_Author([System::String](../../../system/string/)) method
+## IDocumentProperties::set_Author(System::String) method
 
 
 Sets the author of a presentation. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_Author(System::String valu
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

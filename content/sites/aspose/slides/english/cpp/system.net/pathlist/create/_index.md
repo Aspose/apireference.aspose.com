@@ -22,8 +22,7 @@ A newly created instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PathList](../)
-* Class [PathList](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [PathList](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ PixelFormat System::Drawing::Imaging::BitmapData::get_PixelFormat() const
 
 ## See Also
 
-* Enum [PixelFormat](../../pixelformat/)
-* Class [BitmapData](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PixelFormat](../pixelformat/)
+* Class [BitmapData](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ One of either the [XmlSchemaComplexContentRestriction](../../xmlschemacomplexcon
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaContent](../../xmlschemacontent/)
-* Class [XmlSchemaComplexContent](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaContent](../xmlschemacontent/)
+* Class [XmlSchemaComplexContent](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

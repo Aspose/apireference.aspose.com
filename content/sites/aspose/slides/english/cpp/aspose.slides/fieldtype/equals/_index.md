@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/fieldtype/equals/
 ---
-## FieldType::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## FieldType::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Checks if this field is equal to another.
@@ -28,8 +28,8 @@ True if fields are equal.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [FieldType](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [FieldType](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

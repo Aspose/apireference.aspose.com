@@ -17,6 +17,6 @@ bool Aspose::Slides::NormalViewRestoredProperties::get_AutoAdjust() override
 
 ## See Also
 
-* Class [NormalViewRestoredProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NormalViewRestoredProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

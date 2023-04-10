@@ -24,6 +24,6 @@ System::Text::ICUEncoding::ICUEncoding(const Details::EncodingInfoInternal *enco
 
 ## See Also
 
-* Class [ICUEncoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICUEncoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

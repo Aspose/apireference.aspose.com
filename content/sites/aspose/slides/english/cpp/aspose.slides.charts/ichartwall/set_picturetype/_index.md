@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/ichartwall/set_picturetype/
 ---
-## IChartWall::set_PictureType([Aspose::Slides::Charts::PictureType](../../picturetype/)) method
+## IChartWall::set_PictureType(Aspose::Slides::Charts::PictureType) method
 
 
 Return or sets the picture type. Write [PictureType](../../picturetype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartWall::set_PictureType(Aspose::Slides:
 
 ## See Also
 
-* Enum [PictureType](../../picturetype/)
-* Class [IChartWall](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PictureType](../picturetype/)
+* Class [IChartWall](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

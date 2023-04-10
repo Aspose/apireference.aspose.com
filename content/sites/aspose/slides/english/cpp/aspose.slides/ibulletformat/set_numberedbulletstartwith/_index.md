@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides/ibulletformat/set_numberedbulletstartwith/
 ---
-## IBulletFormat::set_NumberedBulletStartWith(**int16_t**) method
+## IBulletFormat::set_NumberedBulletStartWith(int16_t) method
 
 
 Sets the first number which is used for group of numbered bullets with no inheritance. Write **int16_t**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IBulletFormat::set_NumberedBulletStartWith(int16_t 
 
 ## See Also
 
-* Class [IBulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

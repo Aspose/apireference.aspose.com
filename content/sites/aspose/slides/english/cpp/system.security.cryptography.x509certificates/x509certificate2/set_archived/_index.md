@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/set_archived/
 ---
-## X509Certificate2::set_Archived(**bool**) const method
+## X509Certificate2::set_Archived(bool) const method
 
 
 Sets a value indicating that certificate is archived.
@@ -24,6 +24,6 @@ void System::Security::Cryptography::X509Certificates::X509Certificate2::set_Arc
 
 ## See Also
 
-* Class [X509Certificate2](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [X509Certificate2](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

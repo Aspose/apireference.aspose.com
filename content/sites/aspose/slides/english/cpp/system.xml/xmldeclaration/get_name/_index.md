@@ -22,7 +22,7 @@ For [XmlDeclaration](../) nodes, the name is **xml**.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDeclaration](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDeclaration](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

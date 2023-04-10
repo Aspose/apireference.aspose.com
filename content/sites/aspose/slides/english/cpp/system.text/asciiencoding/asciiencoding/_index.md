@@ -17,6 +17,6 @@ System::Text::ASCIIEncoding::ASCIIEncoding()
 
 ## See Also
 
-* Class [ASCIIEncoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ASCIIEncoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

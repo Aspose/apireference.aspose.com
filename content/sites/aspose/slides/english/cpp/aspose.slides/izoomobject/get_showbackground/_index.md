@@ -29,6 +29,6 @@ zoomFrame->set_ShowBackground(false);
 
 ## See Also
 
-* Class [IZoomObject](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IZoomObject](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

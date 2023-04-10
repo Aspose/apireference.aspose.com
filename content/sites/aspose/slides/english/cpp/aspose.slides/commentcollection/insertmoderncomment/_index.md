@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/commentcollection/insertmoderncomment/
 ---
-## CommentCollection::InsertModernComment(**int32_t**, [System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../ishape/)\>, [System::Drawing::PointF](../../../system.drawing/pointf/), [System::DateTime](../../../system/datetime/)) method
+## CommentCollection::InsertModernComment(int32_t, System::String, System::SharedPtr\<ISlide\>, System::SharedPtr\<IShape\>, System::Drawing::PointF, System::DateTime) method
 
 
 Insert new modern comment to a collection at the specified index.
@@ -33,13 +33,13 @@ Inserted modern comment.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IModernComment](../../imoderncomment/)
-* Class [String](../../../system/string/)
-* Class [ISlide](../../islide/)
-* Class [IShape](../../ishape/)
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [DateTime](../../../system/datetime/)
-* Class [CommentCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IModernComment](../imoderncomment/)
+* Class [String](../../system/string/)
+* Class [ISlide](../islide/)
+* Class [IShape](../ishape/)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [DateTime](../../system/datetime/)
+* Class [CommentCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

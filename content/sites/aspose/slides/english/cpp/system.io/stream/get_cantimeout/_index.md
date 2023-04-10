@@ -22,6 +22,6 @@ True when the current stream can time out, otherwise - false.
 
 ## See Also
 
-* Class [Stream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Stream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

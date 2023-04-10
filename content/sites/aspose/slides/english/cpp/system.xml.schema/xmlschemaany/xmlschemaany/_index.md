@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaAny::XmlSchemaAny()
 
 ## See Also
 
-* Class [XmlSchemaAny](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaAny](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/effectformat/
 Represents effect properties of shape.
 
 ```cpp
-class EffectFormat : public Aspose::Slides::PVIObject,
-                     public Aspose::Slides::IEffectFormat
+class EffectFormat : public Aspose::Slides::PVIObject,                     public Aspose::Slides::IEffectFormat
 ```
 
 ## Methods

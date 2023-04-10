@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.effects/iglow/
 Represents a [Glow](../glow/) effect, in which a color blurred outline is added outside the edges of the object.
 
 ```cpp
-class IGlow : public virtual Aspose::Slides::Effects::IImageTransformOperation,
-              public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IGlowEffectiveData>>
+class IGlow : public virtual Aspose::Slides::Effects::IImageTransformOperation,              public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IGlowEffectiveData>>
 ```
 
 ## Methods

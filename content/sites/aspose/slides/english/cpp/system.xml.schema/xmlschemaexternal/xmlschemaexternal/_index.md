@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaExternal::XmlSchemaExternal()
 
 ## See Also
 
-* Class [XmlSchemaExternal](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaExternal](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

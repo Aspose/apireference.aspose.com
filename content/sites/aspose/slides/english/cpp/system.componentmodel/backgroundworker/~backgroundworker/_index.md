@@ -17,6 +17,6 @@ System::ComponentModel::BackgroundWorker::~BackgroundWorker()
 
 ## See Also
 
-* Class [BackgroundWorker](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BackgroundWorker](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

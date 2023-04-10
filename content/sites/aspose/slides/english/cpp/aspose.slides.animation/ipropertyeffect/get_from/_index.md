@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Animation::IPropertyEffect::get_From()=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IPropertyEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IPropertyEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

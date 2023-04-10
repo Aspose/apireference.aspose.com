@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/layoutslidecollection/idx_get/
 ---
-## LayoutSlideCollection::idx_get(**int32_t**) method
+## LayoutSlideCollection::idx_get(int32_t) method
 
 
 Returns the layout slide by index. Read-only [LayoutSlide](../../layoutslide/).
@@ -17,8 +17,8 @@ System::SharedPtr<ILayoutSlide> Aspose::Slides::LayoutSlideCollection::idx_get(i
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILayoutSlide](../../ilayoutslide/)
-* Class [LayoutSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILayoutSlide](../ilayoutslide/)
+* Class [LayoutSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

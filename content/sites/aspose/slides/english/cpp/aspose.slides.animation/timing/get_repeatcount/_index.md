@@ -17,6 +17,6 @@ float Aspose::Slides::Animation::Timing::get_RepeatCount() override
 
 ## See Also
 
-* Class [Timing](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Timing](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

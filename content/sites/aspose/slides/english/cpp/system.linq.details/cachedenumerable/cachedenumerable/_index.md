@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.linq.details/cachedenumerable/cachedenumerable/
 ---
-## CachedEnumerable::CachedEnumerable([System::Func](../../../system/func/)\<**bool**\>) constructor
+## CachedEnumerable::CachedEnumerable(System::Func\<bool\>) constructor
 
 
 
@@ -24,7 +24,7 @@ System::Linq::Details::CachedEnumerable<TItem>::CachedEnumerable(System::Func<bo
 
 ## See Also
 
-* Class [Func](../../../system/func/)
-* Class [CachedEnumerable](../)
-* Namespace [System::Linq::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Func](../../system/func/)
+* Class [CachedEnumerable](./)
+* Namespace [System::Linq::Details](../)
+* Library [Aspose.Slides](../../)

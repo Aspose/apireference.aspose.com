@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.slides.charts/ichartparagraphformat/get_tab/
 ---
-## IChartParagraphFormat::get_Tab(**int32_t**) method
+## IChartParagraphFormat::get_Tab(int32_t) method
 
 
 Returns the tabulation of a paragraph at the specified index. Read-only [Aspose::Slides::ITab](../../../aspose.slides/itab/)
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITab> Aspose::Slides::Charts::IChartParagraphFormat::g
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITab](../../../aspose.slides/itab/)
-* Class [IChartParagraphFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITab](../../aspose.slides/itab/)
+* Class [IChartParagraphFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

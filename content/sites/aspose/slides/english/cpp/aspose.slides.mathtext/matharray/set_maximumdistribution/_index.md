@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.mathtext/matharray/set_maximumdistribution/
 ---
-## MathArray::set_MaximumDistribution(**bool**) method
+## MathArray::set_MaximumDistribution(bool) method
 
 
 Maximum Distribution When true, the array is spaced to the maximum width of the containing element(page, column, cell, etc.).
@@ -26,6 +26,6 @@ mathArray->set_MaximumDistribution(true);
 
 ## See Also
 
-* Class [MathArray](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathArray](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides.animation/effect/set_stopprevioussound/
 ---
-## Effect::set_StopPreviousSound(**bool**) method
+## Effect::set_StopPreviousSound(bool) method
 
 
 This attribute specifies if the animation effect stops the previous sound. Write **bool**.
@@ -37,6 +37,6 @@ if (firstSlideEffect->get_Sound() != nullptr)
 
 ## See Also
 
-* Class [Effect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Effect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

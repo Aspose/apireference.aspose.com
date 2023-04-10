@@ -17,7 +17,7 @@ static TimeZoneInfoPtr System::TimeZoneInfo::get_Utc()
 
 ## See Also
 
-* Typedef [TimeZoneInfoPtr](../../timezoneinfoptr/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [TimeZoneInfoPtr](../timezoneinfoptr/)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

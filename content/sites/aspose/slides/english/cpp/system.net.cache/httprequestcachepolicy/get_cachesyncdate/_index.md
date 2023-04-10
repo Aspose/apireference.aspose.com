@@ -22,7 +22,7 @@ The time when resources stored in the cache must be revalidated.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [HttpRequestCachePolicy](../)
-* Namespace [System::Net::Cache](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [HttpRequestCachePolicy](./)
+* Namespace [System::Net::Cache](../)
+* Library [Aspose.Slides](../../)

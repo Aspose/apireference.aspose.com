@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system/objectext/unboxstringsafe/
 ---
-## ObjectExt::UnboxStringSafe(const [SmartPtr](../../smartptr/)\<[Object](../../object/)\>\&) method
+## ObjectExt::UnboxStringSafe(const SmartPtr\<Object\>\&) method
 
 
 Unboxes string from boxed value.
@@ -28,9 +28,9 @@ If **obj** is a boxed string, returns unboxed value, otherwise returns empty str
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [SmartPtr](../smartptr/)
+* Class [Object](../object/)
+* Class [ObjectExt](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

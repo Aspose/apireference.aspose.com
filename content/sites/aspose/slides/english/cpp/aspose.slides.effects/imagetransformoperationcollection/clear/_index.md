@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::ImageTransformOperationCollection::Clear() overrid
 
 ## See Also
 
-* Class [ImageTransformOperationCollection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ImageTransformOperationCollection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual String System::IO::StringWriter::ToString() const override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.collections/bitarray/copyto/
 ---
-## BitArray::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<**bool**\>, int) method
+## BitArray::CopyTo(System::ArrayPtr\<bool\>, int) method
 
 
 Copies data to existing array elements.
@@ -25,7 +25,7 @@ void System::Collections::BitArray::CopyTo(System::ArrayPtr<bool> array, int arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [BitArray](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

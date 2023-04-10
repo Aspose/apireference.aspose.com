@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides/shapecollection/insertsummaryzoomframe/
 ---
-## ShapeCollection::InsertSummaryZoomFrame(**int32_t**, **float**, **float**, **float**, **float**) method
+## ShapeCollection::InsertSummaryZoomFrame(int32_t, float, float, float, float) method
 
 
 Creates a new Summary Zoom object and inserts it to a collection at the specified index.
@@ -45,8 +45,8 @@ auto zoomFrame = shapes->InsertSummaryZoomFrame(2, 150.0f, 20.0f, 50.0f, 50.0f)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISummaryZoomFrame](../../isummaryzoomframe/)
-* Class [ShapeCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISummaryZoomFrame](../isummaryzoomframe/)
+* Class [ShapeCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

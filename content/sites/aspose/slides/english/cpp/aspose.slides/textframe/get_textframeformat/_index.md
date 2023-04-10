@@ -17,8 +17,8 @@ System::SharedPtr<ITextFrameFormat> Aspose::Slides::TextFrame::get_TextFrameForm
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITextFrameFormat](../../itextframeformat/)
-* Class [TextFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITextFrameFormat](../itextframeformat/)
+* Class [TextFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

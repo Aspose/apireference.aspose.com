@@ -20,12 +20,7 @@ bool System::MulticastDelegate<ReturnType(ArgumentTypes...)>::operator==(const s
 
 True if the delegate collection is empty, otherwise - false
 
-## See Also
-
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
-## MulticastDelegate< ReturnType(ArgumentTypes...)>::operator==(const [MulticastDelegate](../multicastdelegate/)\&) const method
+## MulticastDelegate< ReturnType(ArgumentTypes...)>::operator==(const MulticastDelegate\&) const method
 
 
 Determines whether two instances of MulticastDelegate - the current object and the specified object - point to the same delegates collection.
@@ -47,6 +42,7 @@ True if both objects represent the same delegates collection, otherwise - false
 
 ## See Also
 
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Method [MulticastDelegate](./multicastdelegate/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

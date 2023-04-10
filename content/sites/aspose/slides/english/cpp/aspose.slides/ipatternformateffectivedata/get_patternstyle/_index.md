@@ -17,7 +17,7 @@ virtual Aspose::Slides::PatternStyle Aspose::Slides::IPatternFormatEffectiveData
 
 ## See Also
 
-* Enum [PatternStyle](../../patternstyle/)
-* Class [IPatternFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PatternStyle](../patternstyle/)
+* Class [IPatternFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

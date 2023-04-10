@@ -22,6 +22,6 @@ True is thread is background, false otherwise.
 
 ## See Also
 
-* Class [Thread](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Thread](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

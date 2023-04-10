@@ -17,6 +17,6 @@ void System::Net::FtpWebResponse::Close() override
 
 ## See Also
 
-* Class [FtpWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FtpWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

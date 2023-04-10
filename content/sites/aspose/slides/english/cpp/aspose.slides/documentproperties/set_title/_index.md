@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/documentproperties/set_title/
 ---
-## DocumentProperties::set_Title([System::String](../../../system/string/)) method
+## DocumentProperties::set_Title(System::String) method
 
 
 Sets the title of a presentation. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::DocumentProperties::set_Title(System::String value) overrid
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

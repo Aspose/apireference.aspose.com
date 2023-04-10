@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.effects/iluminance/
 Represents a [Luminance](../luminance/) effect. Brightness linearly shifts all colors closer to white or black. Contrast scales all colors to be either closer or further apart.
 
 ```cpp
-class ILuminance : public virtual Aspose::Slides::Effects::IImageTransformOperation,
-                   public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::ILuminanceEffectiveData>>
+class ILuminance : public virtual Aspose::Slides::Effects::IImageTransformOperation,                   public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::ILuminanceEffectiveData>>
 ```
 
 ## Methods

@@ -17,7 +17,7 @@ ErrorBarType Aspose::Slides::Charts::ErrorBarsFormat::get_Type() override
 
 ## See Also
 
-* Enum [ErrorBarType](../../errorbartype/)
-* Class [ErrorBarsFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ErrorBarType](../errorbartype/)
+* Class [ErrorBarsFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -29,13 +29,6 @@ auto element = System::MakeObject<MathematicalText>(u"x");
 auto delimiter = element->Enclose();
 ```
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathDelimiter](../../imathdelimiter/)
-* Class [IMathElement](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
 ## IMathElement::Enclose(char16_t, char16_t) method
 
 
@@ -68,8 +61,8 @@ auto delimiter = element->Enclose(u'[', u']');
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathDelimiter](../../imathdelimiter/)
-* Class [IMathElement](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathDelimiter](../imathdelimiter/)
+* Class [IMathElement](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

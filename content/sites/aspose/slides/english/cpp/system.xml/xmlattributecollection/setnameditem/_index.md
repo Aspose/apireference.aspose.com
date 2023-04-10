@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlattributecollection/setnameditem/
 ---
-## XmlAttributeCollection::SetNamedItem([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>) method
+## XmlAttributeCollection::SetNamedItem(SharedPtr\<XmlNode\>) method
 
 
 Adds an [XmlNode](../../xmlnode/) using its [XmlNode::get_Name](../../xmlnode/get_name/) result.
@@ -28,8 +28,8 @@ If the **node** replaces an existing node with the same name, the old node is re
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlAttributeCollection](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlAttributeCollection](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

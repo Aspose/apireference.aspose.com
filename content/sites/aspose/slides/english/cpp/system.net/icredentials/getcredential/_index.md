@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.net/icredentials/getcredential/
 ---
-## ICredentials::GetCredential([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/)) method
+## ICredentials::GetCredential(System::SharedPtr\<Uri\>, String) method
 
 
 Returns credentials for the specified URI and authentication type.
@@ -25,10 +25,10 @@ virtual System::SharedPtr<NetworkCredential> System::Net::ICredentials::GetCrede
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NetworkCredential](../../networkcredential/)
-* Class [Uri](../../../system/uri/)
-* Class [String](../../../system/string/)
-* Class [ICredentials](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [NetworkCredential](../networkcredential/)
+* Class [Uri](../../system/uri/)
+* Class [String](../../system/string/)
+* Class [ICredentials](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

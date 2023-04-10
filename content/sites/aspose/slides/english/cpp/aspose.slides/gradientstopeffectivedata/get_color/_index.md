@@ -17,7 +17,7 @@ System::Drawing::Color Aspose::Slides::GradientStopEffectiveData::get_Color() ov
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [GradientStopEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [GradientStopEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -21,7 +21,7 @@ System::Drawing::SizeF Aspose::Slides::SlideSize::get_Size() override
 Read [System::Drawing::SizeF](../../../system.drawing/sizef/). 
 ## See Also
 
-* Class [SizeF](../../../system.drawing/sizef/)
-* Class [SlideSize](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SizeF](../../system.drawing/sizef/)
+* Class [SlideSize](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

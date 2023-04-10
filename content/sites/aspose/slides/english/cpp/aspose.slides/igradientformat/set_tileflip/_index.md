@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/igradientformat/set_tileflip/
 ---
-## IGradientFormat::set_TileFlip([Aspose::Slides::TileFlip](../../tileflip/)) method
+## IGradientFormat::set_TileFlip(Aspose::Slides::TileFlip) method
 
 
 Sets the flipping mode for a gradient. Write [Slides::TileFlip](../../tileflip/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IGradientFormat::set_TileFlip(Aspose::Slides::TileF
 
 ## See Also
 
-* Enum [TileFlip](../../tileflip/)
-* Class [IGradientFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TileFlip](../tileflip/)
+* Class [IGradientFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

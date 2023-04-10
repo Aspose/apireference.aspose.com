@@ -17,6 +17,6 @@ uint32_t Aspose::Slides::Placeholder::get_Index() override
 
 ## See Also
 
-* Class [Placeholder](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Placeholder](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.theme/mastertheme/set_name/
 ---
-## MasterTheme::set_Name([System::String](../../../system/string/)) method
+## MasterTheme::set_Name(System::String) method
 
 
 Returns the name of a theme. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Theme::MasterTheme::set_Name(System::String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [MasterTheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [MasterTheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

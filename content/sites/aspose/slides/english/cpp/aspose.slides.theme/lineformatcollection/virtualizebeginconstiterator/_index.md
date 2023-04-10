@@ -24,7 +24,7 @@ Newly-created iterator object.
 
 ## See Also
 
-* Typedef [virtualized_iterator](../virtualized_iterator/)
-* Class [LineFormatCollection](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [virtualized_iterator](./virtualized_iterator/)
+* Class [LineFormatCollection](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

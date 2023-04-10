@@ -22,6 +22,6 @@ A value that indicates if a server and a client are authenticated.
 
 ## See Also
 
-* Class [AuthenticatedStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AuthenticatedStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

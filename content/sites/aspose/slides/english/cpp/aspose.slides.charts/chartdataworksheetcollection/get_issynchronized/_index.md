@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::ChartDataWorksheetCollection::get_IsSynchronized() 
 
 ## See Also
 
-* Class [ChartDataWorksheetCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataWorksheetCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

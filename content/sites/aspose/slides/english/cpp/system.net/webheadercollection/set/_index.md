@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.net/webheadercollection/set/
 ---
-## WebHeaderCollection::Set([String](../../../system/string/), [String](../../../system/string/)) method
+## WebHeaderCollection::Set(String, String) method
 
 
 Sets the value of the specified header.
@@ -25,7 +25,7 @@ void System::Net::WebHeaderCollection::Set(String name, String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WebHeaderCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WebHeaderCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColumnFormat> Aspose::Slides::IColumn::get_ColumnForm
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColumnFormat](../../icolumnformat/)
-* Class [IColumn](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColumnFormat](../icolumnformat/)
+* Class [IColumn](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

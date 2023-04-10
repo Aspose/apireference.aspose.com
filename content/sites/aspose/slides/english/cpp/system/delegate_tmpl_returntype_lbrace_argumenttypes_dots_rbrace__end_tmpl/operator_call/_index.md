@@ -28,6 +28,6 @@ The value returned by invoked entity
 
 ## See Also
 
-* Class [Delegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Delegate< ReturnType(ArgumentTypes...)>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

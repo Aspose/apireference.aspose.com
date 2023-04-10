@@ -22,7 +22,7 @@ String System::TimeZoneInfo::ToString() const override
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

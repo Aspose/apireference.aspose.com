@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/system.net/webrequest/set_connectiongroupname/
 ---
-## WebRequest::set_ConnectionGroupName([System::String](../../../system/string/)) method
+## WebRequest::set_ConnectionGroupName(System::String) method
 
 
 Sets the name of the connection group.
@@ -24,7 +24,7 @@ virtual void System::Net::WebRequest::set_ConnectionGroupName(System::String val
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

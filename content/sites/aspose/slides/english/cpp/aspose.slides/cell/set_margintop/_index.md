@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides/cell/set_margintop/
 ---
-## Cell::set_MarginTop(**double**) method
+## Cell::set_MarginTop(double) method
 
 
 Sets the top margin in a [TextFrame](../../textframe/). Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Cell::set_MarginTop(double value) override
 
 ## See Also
 
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

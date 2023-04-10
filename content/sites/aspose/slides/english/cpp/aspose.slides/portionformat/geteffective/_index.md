@@ -36,8 +36,8 @@ Console::WriteLine(String(u"Fill type: ") + ObjectExt::ToString(effectivePortion
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPortionFormatEffectiveData](../../iportionformateffectivedata/)
-* Class [PortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPortionFormatEffectiveData](../iportionformateffectivedata/)
+* Class [PortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IDocumentProperties> Aspose::Slides::PresentationInfo::ReadDoc
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IDocumentProperties](../../idocumentproperties/)
-* Class [PresentationInfo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IDocumentProperties](../idocumentproperties/)
+* Class [PresentationInfo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

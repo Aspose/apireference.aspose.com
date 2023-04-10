@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides/cell/set_textanchortype/
 ---
-## Cell::set_TextAnchorType([Aspose::Slides::TextAnchorType](../../textanchortype/)) method
+## Cell::set_TextAnchorType(Aspose::Slides::TextAnchorType) method
 
 
 Sets the text anchor type. Write [Slides::TextAnchorType](../../textanchortype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Cell::set_TextAnchorType(Aspose::Slides::TextAnchorType val
 
 ## See Also
 
-* Enum [TextAnchorType](../../textanchortype/)
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextAnchorType](../textanchortype/)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

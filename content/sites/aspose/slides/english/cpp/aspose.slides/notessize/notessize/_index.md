@@ -17,6 +17,6 @@ Aspose::Slides::NotesSize::NotesSize()
 
 ## See Also
 
-* Class [NotesSize](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NotesSize](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

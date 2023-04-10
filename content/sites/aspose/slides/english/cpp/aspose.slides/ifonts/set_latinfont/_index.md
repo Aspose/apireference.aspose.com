@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/ifonts/set_latinfont/
 ---
-## IFonts::set_LatinFont([System::SharedPtr](../../../system/sharedptr/)\<[IFontData](../../ifontdata/)\>) method
+## IFonts::set_LatinFont(System::SharedPtr\<IFontData\>) method
 
 
 Sets the Latin font. Write [IFontData](../../ifontdata/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IFonts::set_LatinFont(System::SharedPtr<IFontData> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontData](../../ifontdata/)
-* Class [IFonts](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontData](../ifontdata/)
+* Class [IFonts](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

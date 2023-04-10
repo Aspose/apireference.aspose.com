@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/imasterlayoutslidecollection/insert/
 ---
-## IMasterLayoutSlideCollection::Insert(**int32_t**, [SlideLayoutType](../../slidelayouttype/), [System::String](../../../system/string/)) method
+## IMasterLayoutSlideCollection::Insert(int32_t, SlideLayoutType, System::String) method
 
 
 Inserts a new layout slide to specified position of the collection.
@@ -35,10 +35,10 @@ Inserted layout for value [SlideLayoutType::Custom](../../slidelayouttype/) of *
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILayoutSlide](../../ilayoutslide/)
-* Enum [SlideLayoutType](../../slidelayouttype/)
-* Class [String](../../../system/string/)
-* Class [IMasterLayoutSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SlideLayoutType](../slidelayouttype/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILayoutSlide](../ilayoutslide/)
+* Class [String](../../system/string/)
+* Class [IMasterLayoutSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

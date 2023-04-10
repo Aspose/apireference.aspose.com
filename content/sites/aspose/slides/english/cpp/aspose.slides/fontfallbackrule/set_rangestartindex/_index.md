@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/fontfallbackrule/set_rangestartindex/
 ---
-## FontFallBackRule::set_RangeStartIndex(**uint32_t**) method
+## FontFallBackRule::set_RangeStartIndex(uint32_t) method
 
 
 Get first index of continuous unicode range.
@@ -17,6 +17,6 @@ void Aspose::Slides::FontFallBackRule::set_RangeStartIndex(uint32_t value)
 
 ## See Also
 
-* Class [FontFallBackRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FontFallBackRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

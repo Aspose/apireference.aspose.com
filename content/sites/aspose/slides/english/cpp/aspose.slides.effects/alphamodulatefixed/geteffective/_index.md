@@ -22,8 +22,8 @@ A [IAlphaModulateFixedEffectiveData ](../../ialphamodulatefixedeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAlphaModulateFixedEffectiveData](../../ialphamodulatefixedeffectivedata/)
-* Class [AlphaModulateFixed](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAlphaModulateFixedEffectiveData](../ialphamodulatefixedeffectivedata/)
+* Class [AlphaModulateFixed](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

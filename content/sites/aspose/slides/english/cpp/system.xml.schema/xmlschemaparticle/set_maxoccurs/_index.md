@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemaparticle/set_maxoccurs/
 ---
-## XmlSchemaParticle::set_MaxOccurs([Decimal](../../../system/decimal/)) method
+## XmlSchemaParticle::set_MaxOccurs(Decimal) method
 
 
 Sets the maximum number of times the particle can occur.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaParticle::set_MaxOccurs(Decimal value)
 
 ## See Also
 
-* Class [Decimal](../../../system/decimal/)
-* Class [XmlSchemaParticle](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Decimal](../../system/decimal/)
+* Class [XmlSchemaParticle](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

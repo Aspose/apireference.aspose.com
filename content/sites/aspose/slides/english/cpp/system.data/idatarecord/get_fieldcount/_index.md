@@ -25,6 +25,6 @@ Number of fields in current record.
 Gets number of fields in the record. 
 ## See Also
 
-* Class [IDataRecord](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDataRecord](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

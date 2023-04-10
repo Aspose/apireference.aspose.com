@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/shapeframe/shapeframe/
 ---
-## ShapeFrame::ShapeFrame(**float**, **float**, **float**, **float**, [NullableBool](../../nullablebool/), [NullableBool](../../nullablebool/), **float**) constructor
+## ShapeFrame::ShapeFrame(float, float, float, float, NullableBool, NullableBool, float) constructor
 
 
 Creates new shape frame's properties.
@@ -30,7 +30,7 @@ Aspose::Slides::ShapeFrame::ShapeFrame(float x, float y, float width, float heig
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [ShapeFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [ShapeFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

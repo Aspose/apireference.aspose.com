@@ -17,7 +17,7 @@ System::String Aspose::Slides::Theme::FontScheme::get_Name() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FontScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FontScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

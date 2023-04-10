@@ -22,8 +22,8 @@ List of slides.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISectionSlideCollection](../../isectionslidecollection/)
-* Class [Section](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISectionSlideCollection](../isectionslidecollection/)
+* Class [Section](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

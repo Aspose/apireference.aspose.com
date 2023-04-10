@@ -17,7 +17,7 @@ virtual System::Drawing::Size Aspose::Slides::Export::ITiffOptions::get_ImageSiz
 
 ## See Also
 
-* Class [Size](../../../system.drawing/size/)
-* Class [ITiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Size](../../system.drawing/size/)
+* Class [ITiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual ASPOSE_SLIDES_LOCAL_API System::String Aspose::Slides::Effects::IApplica
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IApplicableEffect](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IApplicableEffect](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

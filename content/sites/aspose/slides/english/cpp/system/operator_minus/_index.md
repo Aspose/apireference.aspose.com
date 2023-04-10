@@ -6,7 +6,7 @@ type: docs
 weight: 2003
 url: /cpp/system/operator_minus/
 ---
-## System::operator-([DayOfWeek](../dayofweek/), [DayOfWeek](../dayofweek/)) function
+## System::operator-(DayOfWeek, DayOfWeek) function
 
 
 Calculates the number of days between two days of week.
@@ -27,12 +27,7 @@ auto System::operator-(DayOfWeek a, DayOfWeek b)
 
 The number of days between weekdays **a** and **b**; the return value is a negative number if *goes* after ****
 
-## See Also
-
-* Enum [DayOfWeek](../dayofweek/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
-## System::operator-(const T\&, const [Decimal](../decimal/)\&) function
+## System::operator-(const T\&, const Decimal\&) function
 
 
 Returns a new instance of [Decimal](../decimal/) class that represents a value that is the result of subtraction of the value represented by the specified [Decimal](../decimal/) object from the specified value.
@@ -53,12 +48,7 @@ template<typename T,typename _> Decimal System::operator-(const T &x, const Deci
 
 A new instance of [Decimal](../decimal/) class that represents a value that is the result of subtraction of the value represented by **d** from **x**.
 
-## See Also
-
-* Class [Decimal](../decimal/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
-## System::operator-(const T1\&, const [Nullable](../nullable/)\<T2\>\&) function
+## System::operator-(const T1\&, const Nullable\<T2\>\&) function
 
 
 Subtracts non-nullable and nullable values.
@@ -88,6 +78,8 @@ Substation result.
 
 ## See Also
 
-* Class [Nullable](../nullable/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Enum [DayOfWeek](./dayofweek/)
+* Class [Decimal](./decimal/)
+* Class [Nullable](./nullable/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

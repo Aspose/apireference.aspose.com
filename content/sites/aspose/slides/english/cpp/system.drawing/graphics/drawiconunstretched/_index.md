@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/system.drawing/graphics/drawiconunstretched/
 ---
-## Graphics::DrawIconUnstretched(const [SharedPtr](../../../system/sharedptr/)\<[Icon](../../icon/)\>\&, [Rectangle](../../rectangle/)) method
+## Graphics::DrawIconUnstretched(const SharedPtr\<Icon\>\&, Rectangle) method
 
 
 NOT IMPLEMENTED.
@@ -18,9 +18,9 @@ void System::Drawing::Graphics::DrawIconUnstretched(const SharedPtr<Icon> &icon,
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Icon](../../icon/)
-* Class [Rectangle](../../rectangle/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Icon](../icon/)
+* Class [Rectangle](../rectangle/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

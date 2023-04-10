@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.xml.schema/xmlschema/set_version/
 ---
-## XmlSchema::set_Version(const [String](../../../system/string/)\&) method
+## XmlSchema::set_Version(const String\&) method
 
 
 Sets the version of the schema.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchema::set_Version(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchema](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchema](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

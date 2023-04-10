@@ -6,7 +6,7 @@ type: docs
 weight: 573
 url: /cpp/system.globalization/numberformatinfo/set_percentdecimalseparator/
 ---
-## NumberFormatInfo::set_PercentDecimalSeparator(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_PercentDecimalSeparator(const String\&) method
 
 
 Sets decimal separator in percent values.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_PercentDecimalSeparator(const 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

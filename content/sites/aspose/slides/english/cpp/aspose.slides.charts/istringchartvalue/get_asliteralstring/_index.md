@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Charts::IStringChartValue::get_AsLiteralS
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IStringChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IStringChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

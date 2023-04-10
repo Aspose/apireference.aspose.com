@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/stringhashcompiletime/hash/
 ---
-## StringHashCompiletime::Hash(**uint32_t**\&, int, const char_t *) method
+## StringHashCompiletime::Hash(uint32_t\&, int, const char_t *) method
 
 
 Generates a hash value from the specified c-string of the specified length.
@@ -26,6 +26,6 @@ static void System::StringHashCompiletime<i>::Hash(uint32_t &hash, int strLen, c
 
 ## See Also
 
-* Class [StringHashCompiletime](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StringHashCompiletime](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

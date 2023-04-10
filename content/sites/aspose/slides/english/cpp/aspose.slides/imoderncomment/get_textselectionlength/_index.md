@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IModernComment::get_TextSelectionLength()=0
 
 ## See Also
 
-* Class [IModernComment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IModernComment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

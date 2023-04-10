@@ -17,6 +17,6 @@ time_t System::DateTime::ToUnixTime() const
 
 ## See Also
 
-* Class [DateTime](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

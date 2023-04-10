@@ -17,6 +17,6 @@ bool Aspose::Slides::OleObjectFrame::get_IsObjectLink() override
 
 ## See Also
 
-* Class [OleObjectFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [OleObjectFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

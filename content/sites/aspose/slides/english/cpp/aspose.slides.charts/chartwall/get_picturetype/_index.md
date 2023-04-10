@@ -17,7 +17,7 @@ Aspose::Slides::Charts::PictureType Aspose::Slides::Charts::ChartWall::get_Pictu
 
 ## See Also
 
-* Enum [PictureType](../../picturetype/)
-* Class [ChartWall](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PictureType](../picturetype/)
+* Class [ChartWall](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/lightrig/set_direction/
 ---
-## LightRig::set_Direction([LightingDirection](../../lightingdirection/)) method
+## LightRig::set_Direction(LightingDirection) method
 
 
 Light direction. Write [LightingDirection](../../lightingdirection/).
@@ -17,7 +17,7 @@ void Aspose::Slides::LightRig::set_Direction(LightingDirection value) override
 
 ## See Also
 
-* Enum [LightingDirection](../../lightingdirection/)
-* Class [LightRig](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LightingDirection](../lightingdirection/)
+* Class [LightRig](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

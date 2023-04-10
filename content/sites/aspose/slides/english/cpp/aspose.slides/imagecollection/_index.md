@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/imagecollection/
 Represents collection of [PPImage](../ppimage/).
 
 ```cpp
-class ImageCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,
-                        public Aspose::Slides::IImageCollection
+class ImageCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,                        public Aspose::Slides::IImageCollection
 ```
 
 ## Methods

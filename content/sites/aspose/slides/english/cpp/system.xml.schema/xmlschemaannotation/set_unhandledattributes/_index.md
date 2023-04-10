@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaannotation/set_unhandledattributes/
 ---
-## XmlSchemaAnnotation::set_UnhandledAttributes(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../../system.xml/xmlattribute/)\>\>\&) method
+## XmlSchemaAnnotation::set_UnhandledAttributes(const ArrayPtr\<SharedPtr\<XmlAttribute\>\>\&) method
 
 
 Sets the qualified attributes that do not belong to the schema's target namespace.
@@ -24,9 +24,9 @@ void System::Xml::Schema::XmlSchemaAnnotation::set_UnhandledAttributes(const Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlAttribute](../../../system.xml/xmlattribute/)
-* Class [XmlSchemaAnnotation](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlAttribute](../../system.xml/xmlattribute/)
+* Class [XmlSchemaAnnotation](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

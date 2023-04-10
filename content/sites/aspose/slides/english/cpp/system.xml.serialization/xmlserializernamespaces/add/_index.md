@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml.serialization/xmlserializernamespaces/add/
 ---
-## XmlSerializerNamespaces::Add(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## XmlSerializerNamespaces::Add(const String\&, const String\&) method
 
 
 Adds a prefix and namespace pair to an [Serialization::XmlSerializerNamespaces](../) object.
@@ -25,7 +25,7 @@ void System::Xml::Serialization::XmlSerializerNamespaces::Add(const String &pref
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSerializerNamespaces](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSerializerNamespaces](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

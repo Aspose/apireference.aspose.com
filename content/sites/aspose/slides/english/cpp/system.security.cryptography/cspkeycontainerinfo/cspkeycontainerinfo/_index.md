@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.security.cryptography/cspkeycontainerinfo/cspkeycontainerinfo/
 ---
-## CspKeyContainerInfo::CspKeyContainerInfo(const [SharedPtr](../../../system/sharedptr/)\<[CspParameters](../../cspparameters/)\>\&) constructor
+## CspKeyContainerInfo::CspKeyContainerInfo(const SharedPtr\<CspParameters\>\&) constructor
 
 
 Consturctor.
@@ -24,8 +24,8 @@ System::Security::Cryptography::CspKeyContainerInfo::CspKeyContainerInfo(const S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CspParameters](../../cspparameters/)
-* Class [CspKeyContainerInfo](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CspParameters](../cspparameters/)
+* Class [CspKeyContainerInfo](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

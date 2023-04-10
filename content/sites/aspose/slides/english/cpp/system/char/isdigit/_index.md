@@ -27,12 +27,7 @@ static bool System::Char::IsDigit(const char_t *str, int idx)
 
 True if the character at the specified index is a decimal digit, otherwise - false
 
-## See Also
-
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
-## Char::IsDigit(const [String](../../string/)\&, const **int32_t**) method
+## Char::IsDigit(const String\&, const int32_t) method
 
 
 Determines whether the character at the specified index in the specified string is classified as a decimal digit.
@@ -53,12 +48,6 @@ static bool System::Char::IsDigit(const String &str, const int32_t idx)
 
 True if the character at the specified index is a decimal digit, otherwise - false
 
-## See Also
-
-* Class [String](../../string/)
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## Char::IsDigit(char_t) method
 
 
@@ -81,6 +70,7 @@ True if the specified character is a decimal digit, otherwise - false
 
 ## See Also
 
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Char](./)
+* Class [String](../string/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

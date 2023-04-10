@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.net/webrequest/endgetresponse/
 ---
-## WebRequest::EndGetResponse([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
+## WebRequest::EndGetResponse(System::SharedPtr\<IAsyncResult\>) method
 
 
 Waits until the specified asynchronous request for the resource completes.
@@ -28,9 +28,9 @@ The web response.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WebResponse](../../webresponse/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [WebResponse](../webresponse/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

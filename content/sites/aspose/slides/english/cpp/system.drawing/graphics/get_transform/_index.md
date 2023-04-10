@@ -17,8 +17,8 @@ SharedPtr<Drawing2D::Matrix> System::Drawing::Graphics::get_Transform()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Matrix](../../system.drawing.drawing2d/matrix/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system/delegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/comparedelegateto/
 ---
-## Delegate< ReturnType(ArgumentTypes...)>::CompareDelegateTo(const [Delegate](../delegate/)\&) const method
+## Delegate< ReturnType(ArgumentTypes...)>::CompareDelegateTo(const Delegate\&) const method
 
 
 Compares two delegates for equality and alikeness.
@@ -28,7 +28,8 @@ The comparison result.
 
 ## See Also
 
-* Enum [DelegateEquality](../../delegateequality/)
-* Class [Delegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DelegateEquality](../delegateequality/)
+* Method [Delegate](./delegate/)
+* Class [Delegate< ReturnType(ArgumentTypes...)>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

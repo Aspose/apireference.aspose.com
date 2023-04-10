@@ -6,7 +6,7 @@ type: docs
 weight: 755
 url: /cpp/system.net.sockets/socket/shutdown/
 ---
-## Socket::Shutdown([SocketShutdown](../../socketshutdown/)) method
+## Socket::Shutdown(SocketShutdown) method
 
 
 Disables the send and receive operations of the socket.
@@ -24,7 +24,7 @@ void System::Net::Sockets::Socket::Shutdown(SocketShutdown how)
 
 ## See Also
 
-* Enum [SocketShutdown](../../socketshutdown/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SocketShutdown](../socketshutdown/)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

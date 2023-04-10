@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.collections/ilistimplreftype/add/
 ---
-## IListImplRefType::Add([SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## IListImplRefType::Add(SharedPtr\<System::Object\>) method
 
 
 Adds element to the end of list.
@@ -24,8 +24,8 @@ virtual int System::Collections::IListImplRefType<T>::Add(SharedPtr<System::Obje
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IListImplRefType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IListImplRefType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

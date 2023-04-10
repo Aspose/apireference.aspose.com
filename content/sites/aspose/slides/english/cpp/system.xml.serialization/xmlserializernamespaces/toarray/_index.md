@@ -22,9 +22,9 @@ An array of [XmlQualifiedName](../../../system.xml/xmlqualifiedname/) objects th
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [XmlSerializerNamespaces](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [XmlSerializerNamespaces](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

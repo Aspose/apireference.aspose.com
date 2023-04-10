@@ -36,7 +36,7 @@ The most commonly supported character encoding names for XML are the following:
 This value is optional. If a value is not set, this method returns [String::Empty](../../../system/string/empty/). If an encoding attribute is not included, UTF-8 encoding is assumed when the document is written or saved out. 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDeclaration](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDeclaration](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

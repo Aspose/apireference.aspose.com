@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.export/swfoptions/set_showfullscreen/
 ---
-## SwfOptions::set_ShowFullScreen(**bool**) method
+## SwfOptions::set_ShowFullScreen(bool) method
 
 
 Show/hide fullscreen button. Can be overridden in flashvars. Default is true.
@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SwfOptions::set_ShowFullScreen(bool value) override
 
 ## See Also
 
-* Class [SwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

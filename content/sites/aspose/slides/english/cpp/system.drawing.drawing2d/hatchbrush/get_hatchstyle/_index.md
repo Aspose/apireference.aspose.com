@@ -17,7 +17,7 @@ HatchStyle System::Drawing::Drawing2D::HatchBrush::get_HatchStyle() const
 
 ## See Also
 
-* Enum [HatchStyle](../../hatchstyle/)
-* Class [HatchBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [HatchStyle](../hatchstyle/)
+* Class [HatchBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

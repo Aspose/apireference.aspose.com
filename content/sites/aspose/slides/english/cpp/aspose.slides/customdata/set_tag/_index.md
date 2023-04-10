@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/customdata/set_tag/
 ---
-## CustomData::set_Tag([System::String](../../../system/string/), [System::String](../../../system/string/)) method
+## CustomData::set_Tag(System::String, System::String) method
 
 
 Set the Customer Data Tag specified at the index.
@@ -17,7 +17,7 @@ void Aspose::Slides::CustomData::set_Tag(System::String name, System::String val
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [CustomData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [CustomData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

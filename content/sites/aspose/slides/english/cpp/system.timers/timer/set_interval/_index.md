@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.timers/timer/set_interval/
 ---
-## Timer::set_Interval(**double**) method
+## Timer::set_Interval(double) method
 
 
 Sets timer interval.
@@ -24,6 +24,6 @@ void System::Timers::Timer::set_Interval(double ms)
 
 ## See Also
 
-* Class [Timer](../)
-* Namespace [System::Timers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Timer](./)
+* Namespace [System::Timers](../)
+* Library [Aspose.Slides](../../)

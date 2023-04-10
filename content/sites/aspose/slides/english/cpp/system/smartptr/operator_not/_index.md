@@ -22,6 +22,6 @@ True if pointer is null, false otherwise.
 
 ## See Also
 
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

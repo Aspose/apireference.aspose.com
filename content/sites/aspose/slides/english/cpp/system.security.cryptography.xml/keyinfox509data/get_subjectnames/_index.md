@@ -17,9 +17,9 @@ SharedPtr<Collections::Generic::IList<String>> System::Security::Cryptography::X
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IList](../../../system.collections.generic/ilist/)
-* Class [String](../../../system/string/)
-* Class [KeyInfoX509Data](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IList](../../system.collections.generic/ilist/)
+* Class [String](../../system/string/)
+* Class [KeyInfoX509Data](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

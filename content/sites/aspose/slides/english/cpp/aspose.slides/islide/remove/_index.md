@@ -18,6 +18,6 @@ virtual void Aspose::Slides::ISlide::Remove()=0
 
 ## See Also
 
-* Class [ISlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

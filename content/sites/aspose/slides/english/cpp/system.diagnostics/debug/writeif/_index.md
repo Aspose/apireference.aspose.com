@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.diagnostics/debug/writeif/
 ---
-## Debug::WriteIf(**bool**, const [System::String](../../../system/string/)\&) method
+## Debug::WriteIf(bool, const System::String\&) method
 
 
 Writes string to debug interface if a condition is true.
@@ -25,7 +25,7 @@ static void System::Diagnostics::Debug::WriteIf(bool condition, const System::St
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Struct [Debug](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Struct [Debug](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

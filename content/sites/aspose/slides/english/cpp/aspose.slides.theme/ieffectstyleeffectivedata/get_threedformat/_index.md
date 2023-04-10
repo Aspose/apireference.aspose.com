@@ -17,8 +17,8 @@ virtual System::SharedPtr<IThreeDFormatEffectiveData> Aspose::Slides::Theme::IEf
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IThreeDFormatEffectiveData](../../../aspose.slides/ithreedformateffectivedata/)
-* Class [IEffectStyleEffectiveData](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IThreeDFormatEffectiveData](../../aspose.slides/ithreedformateffectivedata/)
+* Class [IEffectStyleEffectiveData](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

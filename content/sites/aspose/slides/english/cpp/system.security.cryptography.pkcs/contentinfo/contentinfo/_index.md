@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.security.cryptography.pkcs/contentinfo/contentinfo/
 ---
-## ContentInfo::ContentInfo(const [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) constructor
+## ContentInfo::ContentInfo(const System::ArrayPtr\<uint8_t\>\&) constructor
 
 
 Constructor.
@@ -24,7 +24,7 @@ System::Security::Cryptography::Pkcs::ContentInfo::ContentInfo(const System::Arr
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [ContentInfo](../)
-* Namespace [System::Security::Cryptography::Pkcs](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [ContentInfo](./)
+* Namespace [System::Security::Cryptography::Pkcs](../)
+* Library [Aspose.Slides](../../)

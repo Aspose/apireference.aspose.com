@@ -22,6 +22,6 @@ A value that indicates if the data sent using this stream is encrypted.
 
 ## See Also
 
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

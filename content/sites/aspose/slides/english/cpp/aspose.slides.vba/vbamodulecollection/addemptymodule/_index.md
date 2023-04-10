@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.vba/vbamodulecollection/addemptymodule/
 ---
-## VbaModuleCollection::AddEmptyModule([System::String](../../../system/string/)) method
+## VbaModuleCollection::AddEmptyModule(System::String) method
 
 
 Adds a new empty module to the VBA Project.
@@ -28,9 +28,9 @@ Added module.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaModule](../../ivbamodule/)
-* Class [String](../../../system/string/)
-* Class [VbaModuleCollection](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaModule](../ivbamodule/)
+* Class [String](../../system/string/)
+* Class [VbaModuleCollection](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

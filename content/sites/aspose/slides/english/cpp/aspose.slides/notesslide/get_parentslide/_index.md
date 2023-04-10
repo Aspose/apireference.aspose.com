@@ -17,8 +17,8 @@ System::SharedPtr<ISlide> Aspose::Slides::NotesSlide::get_ParentSlide() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISlide](../../islide/)
-* Class [NotesSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISlide](../islide/)
+* Class [NotesSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

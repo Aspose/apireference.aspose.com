@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net/webclient/set_usedefaultcredentials/
 ---
-## WebClient::set_UseDefaultCredentials(**bool**) method
+## WebClient::set_UseDefaultCredentials(bool) method
 
 
 NOT IMPLEMENTED.
@@ -17,6 +17,6 @@ void System::Net::WebClient::set_UseDefaultCredentials(bool)
 
 ## See Also
 
-* Class [WebClient](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebClient](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

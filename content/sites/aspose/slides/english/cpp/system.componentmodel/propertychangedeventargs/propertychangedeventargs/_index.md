@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.componentmodel/propertychangedeventargs/propertychangedeventargs/
 ---
-## PropertyChangedEventArgs::PropertyChangedEventArgs(const [String](../../../system/string/)\&) constructor
+## PropertyChangedEventArgs::PropertyChangedEventArgs(const String\&) constructor
 
 
 Initializes PropertyChanged event arguments.
@@ -24,7 +24,7 @@ System::ComponentModel::PropertyChangedEventArgs::PropertyChangedEventArgs(const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PropertyChangedEventArgs](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PropertyChangedEventArgs](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

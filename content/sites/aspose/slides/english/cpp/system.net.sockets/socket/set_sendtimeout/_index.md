@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.net.sockets/socket/set_sendtimeout/
 ---
-## Socket::set_SendTimeout(**int32_t**) method
+## Socket::set_SendTimeout(int32_t) method
 
 
 Sets a period after which a 'Send' call will time out.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_SendTimeout(int32_t value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

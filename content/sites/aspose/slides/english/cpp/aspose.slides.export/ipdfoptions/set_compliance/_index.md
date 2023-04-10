@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides.export/ipdfoptions/set_compliance/
 ---
-## IPdfOptions::set_Compliance([PdfCompliance](../../pdfcompliance/)) method
+## IPdfOptions::set_Compliance(PdfCompliance) method
 
 
 Desired conformance level for generated PDF document. Write [PdfCompliance](../../pdfcompliance/).
@@ -21,7 +21,7 @@ virtual void Aspose::Slides::Export::IPdfOptions::set_Compliance(PdfCompliance v
 Default is [PdfCompliance::Pdf17](../../pdfcompliance/). 
 ## See Also
 
-* Enum [PdfCompliance](../../pdfcompliance/)
-* Class [IPdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PdfCompliance](../pdfcompliance/)
+* Class [IPdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

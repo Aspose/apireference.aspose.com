@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.warnings/iwarningcallback/warning/
 ---
-## IWarningCallback::Warning([System::SharedPtr](../../../system/sharedptr/)\<[IWarningInfo](../../iwarninginfo/)\>) method
+## IWarningCallback::Warning(System::SharedPtr\<IWarningInfo\>) method
 
 
 Callback method which receives warning and decides whether operation should be aborted.
@@ -28,9 +28,9 @@ Abortion decision [ReturnAction](../../returnaction/).
 
 ## See Also
 
-* Enum [ReturnAction](../../returnaction/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IWarningInfo](../../iwarninginfo/)
-* Class [IWarningCallback](../)
-* Namespace [Aspose::Slides::Warnings](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ReturnAction](../returnaction/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IWarningInfo](../iwarninginfo/)
+* Class [IWarningCallback](./)
+* Namespace [Aspose::Slides::Warnings](../)
+* Library [Aspose.Slides](../../)

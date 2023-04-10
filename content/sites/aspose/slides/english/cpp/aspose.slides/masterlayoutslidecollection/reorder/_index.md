@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/masterlayoutslidecollection/reorder/
 ---
-## MasterLayoutSlideCollection::Reorder(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
+## MasterLayoutSlideCollection::Reorder(int32_t, System::SharedPtr\<ILayoutSlide\>) method
 
 
 Moves layout slide from the collection to the specified position.
@@ -25,8 +25,8 @@ void Aspose::Slides::MasterLayoutSlideCollection::Reorder(int32_t index, System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILayoutSlide](../../ilayoutslide/)
-* Class [MasterLayoutSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILayoutSlide](../ilayoutslide/)
+* Class [MasterLayoutSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

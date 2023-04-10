@@ -17,7 +17,7 @@ virtual Aspose::Slides::BlackWhiteMode Aspose::Slides::IShape::get_BlackWhiteMod
 
 ## See Also
 
-* Enum [BlackWhiteMode](../../blackwhitemode/)
-* Class [IShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [BlackWhiteMode](../blackwhitemode/)
+* Class [IShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

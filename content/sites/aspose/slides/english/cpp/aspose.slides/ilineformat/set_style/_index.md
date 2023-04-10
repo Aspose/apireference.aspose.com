@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides/ilineformat/set_style/
 ---
-## ILineFormat::set_Style([LineStyle](../../linestyle/)) method
+## ILineFormat::set_Style(LineStyle) method
 
 
 Sets the line style. Write [LineStyle](../../linestyle/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILineFormat::set_Style(LineStyle value)=0
 
 ## See Also
 
-* Enum [LineStyle](../../linestyle/)
-* Class [ILineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineStyle](../linestyle/)
+* Class [ILineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

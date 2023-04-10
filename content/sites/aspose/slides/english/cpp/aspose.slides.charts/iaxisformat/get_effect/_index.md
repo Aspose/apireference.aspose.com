@@ -17,8 +17,8 @@ virtual System::SharedPtr<IEffectFormat> Aspose::Slides::Charts::IAxisFormat::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffectFormat](../../../aspose.slides/ieffectformat/)
-* Class [IAxisFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffectFormat](../../aspose.slides/ieffectformat/)
+* Class [IAxisFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

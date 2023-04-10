@@ -22,7 +22,7 @@ The **system** identifier. The value must be a valid URI.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaNotation](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaNotation](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

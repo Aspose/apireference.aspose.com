@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/zoomobject/set_imagetype/
 ---
-## ZoomObject::set_ImageType([ZoomImageType](../../zoomimagetype/)) method
+## ZoomObject::set_ImageType(ZoomImageType) method
 
 
 Sets the image type of a zoom object. Write [ZoomImageType](../../zoomimagetype/). Default value: Preview
@@ -32,7 +32,7 @@ zoomFrame->set_ImageType(ZoomImageType::Preview);
 
 ## See Also
 
-* Enum [ZoomImageType](../../zoomimagetype/)
-* Class [ZoomObject](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ZoomImageType](../zoomimagetype/)
+* Class [ZoomObject](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

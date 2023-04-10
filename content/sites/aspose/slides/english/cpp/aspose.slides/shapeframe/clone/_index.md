@@ -22,8 +22,8 @@ Cloned shape frame.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [ShapeFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [ShapeFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

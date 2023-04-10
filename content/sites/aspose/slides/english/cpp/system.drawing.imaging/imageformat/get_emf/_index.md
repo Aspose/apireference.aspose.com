@@ -17,7 +17,7 @@ static ImageFormatPtr System::Drawing::Imaging::ImageFormat::get_Emf()
 
 ## See Also
 
-* Typedef [ImageFormatPtr](../../imageformatptr/)
-* Class [ImageFormat](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ImageFormatPtr](../imageformatptr/)
+* Class [ImageFormat](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

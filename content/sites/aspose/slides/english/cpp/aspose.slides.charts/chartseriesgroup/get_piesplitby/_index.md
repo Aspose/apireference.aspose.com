@@ -17,7 +17,7 @@ PieSplitType Aspose::Slides::Charts::ChartSeriesGroup::get_PieSplitBy() override
 
 ## See Also
 
-* Enum [PieSplitType](../../piesplittype/)
-* Class [ChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PieSplitType](../piesplittype/)
+* Class [ChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

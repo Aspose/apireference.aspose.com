@@ -17,6 +17,6 @@ System::Net::Http::Headers::HttpResponseHeaders::HttpResponseHeaders()
 
 ## See Also
 
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

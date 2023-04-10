@@ -20,11 +20,6 @@ virtual bool System::Threading::Semaphore::WaitOne() override
 
 Always returns true as it does not return until semaphore is locked.
 
-## See Also
-
-* Class [Semaphore](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
 ## Semaphore::WaitOne(int) method
 
 
@@ -47,6 +42,6 @@ Returns true if semaphore was locked or false if timeout exceeded.
 
 ## See Also
 
-* Class [Semaphore](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Semaphore](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

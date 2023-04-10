@@ -17,6 +17,6 @@ System::Collections::Specialized::StringCollection::StringCollection()
 
 ## See Also
 
-* Class [StringCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StringCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

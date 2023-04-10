@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/ifillformat/set_filltype/
 ---
-## IFillFormat::set_FillType([Aspose::Slides::FillType](../../filltype/)) method
+## IFillFormat::set_FillType(Aspose::Slides::FillType) method
 
 
 Sets the type of filling. Write [Slides::FillType](../../filltype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IFillFormat::set_FillType(Aspose::Slides::FillType 
 
 ## See Also
 
-* Enum [FillType](../../filltype/)
-* Class [IFillFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FillType](../filltype/)
+* Class [IFillFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

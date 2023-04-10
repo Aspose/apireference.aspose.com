@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaGroupRef::XmlSchemaGroupRef()
 
 ## See Also
 
-* Class [XmlSchemaGroupRef](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaGroupRef](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

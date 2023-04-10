@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/system.xml/xmlwriter/writeattributes/
 ---
-## XmlWriter::WriteAttributes([SharedPtr](../../../system/sharedptr/)\<[XmlReader](../../xmlreader/)\>, **bool**) method
+## XmlWriter::WriteAttributes(SharedPtr\<XmlReader\>, bool) method
 
 
 When overridden in a derived class, writes out all the attributes found at the current position in the [XmlReader](../../xmlreader/).
@@ -25,8 +25,8 @@ virtual void System::Xml::XmlWriter::WriteAttributes(SharedPtr<XmlReader> reader
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlReader](../../xmlreader/)
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlReader](../xmlreader/)
+* Class [XmlWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

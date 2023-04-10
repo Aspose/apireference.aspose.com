@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaannotation/set_id/
 ---
-## XmlSchemaAnnotation::set_Id(const [String](../../../system/string/)\&) method
+## XmlSchemaAnnotation::set_Id(const String\&) method
 
 
 Sets the string id.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaAnnotation::set_Id(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaAnnotation](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaAnnotation](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

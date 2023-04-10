@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net/filewebrequest/set_method/
 ---
-## FileWebRequest::set_Method([String](../../../system/string/)) method
+## FileWebRequest::set_Method(String) method
 
 
 Sets the HTTP method.
@@ -24,7 +24,7 @@ void System::Net::FileWebRequest::set_Method(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FileWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FileWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

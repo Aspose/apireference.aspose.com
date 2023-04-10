@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security/securestringmarshal/securestringtoglobalallocunicode/
 ---
-## SecureStringMarshal::SecureStringToGlobalAllocUnicode(const [SharedPtr](../../../system/sharedptr/)\<[Security::SecureString](../../securestring/)\>\&) method
+## SecureStringMarshal::SecureStringToGlobalAllocUnicode(const SharedPtr\<Security::SecureString\>\&) method
 
 
 Copies contents of specified secure string into unmanaged memory.
@@ -28,8 +28,8 @@ The address in unmanaged memory.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SecureString](../../securestring/)
-* Class [SecureStringMarshal](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [SecureString](../securestring/)
+* Class [SecureStringMarshal](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

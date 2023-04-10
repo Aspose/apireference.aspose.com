@@ -17,7 +17,7 @@ Drawing2D::DashCap System::Drawing::Pen::get_DashCap() const
 
 ## See Also
 
-* Enum [DashCap](../../../system.drawing.drawing2d/dashcap/)
-* Class [Pen](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DashCap](../../system.drawing.drawing2d/dashcap/)
+* Class [Pen](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

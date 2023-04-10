@@ -26,6 +26,6 @@ naryOperator->set_HideSuperscript(true);
 
 ## See Also
 
-* Class [MathNaryOperator](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathNaryOperator](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

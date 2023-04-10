@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.mathtext/mathnaryoperator/set_growtomatchoperandheight/
 ---
-## MathNaryOperator::set_GrowToMatchOperandHeight(**bool**) method
+## MathNaryOperator::set_GrowToMatchOperandHeight(bool) method
 
 
 Operator Character grows vertically to match its operand height
@@ -26,6 +26,6 @@ naryOperator->set_GrowToMatchOperandHeight(true);
 
 ## See Also
 
-* Class [MathNaryOperator](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathNaryOperator](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

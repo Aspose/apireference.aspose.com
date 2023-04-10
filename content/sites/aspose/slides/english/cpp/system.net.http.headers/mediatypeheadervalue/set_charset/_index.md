@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net.http.headers/mediatypeheadervalue/set_charset/
 ---
-## MediaTypeHeaderValue::set_CharSet([String](../../../system/string/)) method
+## MediaTypeHeaderValue::set_CharSet(String) method
 
 
 Sets a character set.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::MediaTypeHeaderValue::set_CharSet(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [MediaTypeHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [MediaTypeHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

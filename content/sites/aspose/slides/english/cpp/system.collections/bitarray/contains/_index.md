@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.collections/bitarray/contains/
 ---
-## BitArray::Contains(const **bool**\&) const method
+## BitArray::Contains(const bool\&) const method
 
 
 Checks whether specific value is present in container. Not implemented.
@@ -28,6 +28,6 @@ true if the element is present, false otherwise.
 
 ## See Also
 
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitArray](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

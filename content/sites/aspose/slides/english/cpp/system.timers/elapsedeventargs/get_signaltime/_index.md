@@ -17,7 +17,7 @@ DateTime System::Timers::ElapsedEventArgs::get_SignalTime()
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [ElapsedEventArgs](../)
-* Namespace [System::Timers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [ElapsedEventArgs](./)
+* Namespace [System::Timers](../)
+* Library [Aspose.Slides](../../)

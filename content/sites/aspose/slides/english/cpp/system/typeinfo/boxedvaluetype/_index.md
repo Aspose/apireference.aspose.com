@@ -28,7 +28,6 @@ template<class T> static const TypeInfo & System::TypeInfo::BoxedValueType()
 
 ## See Also
 
-* Class [TypeInfo](../)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ System::ArrayPtr<T> System::ArraySegment<T>::get_Array()
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [ArraySegment](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Class [ArraySegment](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

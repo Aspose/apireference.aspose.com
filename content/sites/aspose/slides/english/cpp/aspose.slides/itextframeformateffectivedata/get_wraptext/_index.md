@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ITextFrameFormatEffectiveData::get_WrapText()=0
 
 ## See Also
 
-* Class [ITextFrameFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITextFrameFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

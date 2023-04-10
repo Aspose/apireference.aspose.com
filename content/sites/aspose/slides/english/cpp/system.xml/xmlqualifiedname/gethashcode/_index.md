@@ -22,6 +22,6 @@ A hash code for this object.
 
 ## See Also
 
-* Class [XmlQualifiedName](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlQualifiedName](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

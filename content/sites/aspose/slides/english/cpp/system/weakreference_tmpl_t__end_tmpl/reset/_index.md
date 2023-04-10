@@ -17,6 +17,6 @@ void System::WeakReference<T>::reset()
 
 ## See Also
 
-* Class [WeakReference< T >](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WeakReference< T >](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

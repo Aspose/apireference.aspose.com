@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.globalization/umalquracalendar/getdayofweek/
 ---
-## UmAlQuraCalendar::GetDayOfWeek([DateTime](../../../system/datetime/)) const method
+## UmAlQuraCalendar::GetDayOfWeek(DateTime) const method
 
 
 Gets day of week for the specified time point.
@@ -28,8 +28,8 @@ Day of week in the time point passed.
 
 ## See Also
 
-* Enum [DayOfWeek](../../../system/dayofweek/)
-* Class [DateTime](../../../system/datetime/)
-* Class [UmAlQuraCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DayOfWeek](../../system/dayofweek/)
+* Class [DateTime](../../system/datetime/)
+* Class [UmAlQuraCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

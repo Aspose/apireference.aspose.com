@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/icustomxmlpartcollection/remove/
 ---
-## ICustomXmlPartCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[ICustomXmlPart](../../icustomxmlpart/)\>) method
+## ICustomXmlPartCollection::Remove(System::SharedPtr\<ICustomXmlPart\>) method
 
 
 Removes the first occurrence of a specific object from the collection.
@@ -28,8 +28,8 @@ virtual bool Aspose::Slides::ICustomXmlPartCollection::Remove(System::SharedPtr<
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICustomXmlPart](../../icustomxmlpart/)
-* Class [ICustomXmlPartCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICustomXmlPart](../icustomxmlpart/)
+* Class [ICustomXmlPartCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/masterslideheaderfootermanager/
 Represents manager which holds behavior of the master slide footer, date-time, page number placeholders and all child placeholders. Child placeholders mean placeholders are contained on depending layout slides and depending slides. Depending layout slides and slides use and depend on master slide.
 
 ```cpp
-class MasterSlideHeaderFooterManager : public Aspose::Slides::BaseSlideHeaderFooterManager,
-                                       public Aspose::Slides::IMasterSlideHeaderFooterManager
+class MasterSlideHeaderFooterManager : public Aspose::Slides::BaseSlideHeaderFooterManager,                                       public Aspose::Slides::IMasterSlideHeaderFooterManager
 ```
 
 ## Methods

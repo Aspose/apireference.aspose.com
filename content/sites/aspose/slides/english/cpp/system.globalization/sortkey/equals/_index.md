@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.globalization/sortkey/equals/
 ---
-## SortKey::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## SortKey::Equals(SharedPtr\<Object\>) method
 
 
 Checks if the specified object is equal to the current [SortKey](../) object.
@@ -28,8 +28,8 @@ true if objects are equals, otherwise - false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [SortKey](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [SortKey](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

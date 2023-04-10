@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.mathtext/mathbar/set_position/
 ---
-## MathBar::set_Position([MathTopBotPositions](../../mathtopbotpositions/)) method
+## MathBar::set_Position(MathTopBotPositions) method
 
 
 Position of the bar line. Default: Top
@@ -26,7 +26,7 @@ mathBar->set_Position(MathTopBotPositions::Bottom);
 
 ## See Also
 
-* Enum [MathTopBotPositions](../../mathtopbotpositions/)
-* Class [MathBar](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathTopBotPositions](../mathtopbotpositions/)
+* Class [MathBar](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/system.drawing/graphics/measurecharacterranges/
 ---
-## Graphics::MeasureCharacterRanges(const [System::String](../../../system/string/)\&, const [SharedPtr](../../../system/sharedptr/)\<[Font](../../font/)\>\&, [RectangleF](../../rectanglef/), const [SharedPtr](../../../system/sharedptr/)\<[StringFormat](../../stringformat/)\>\&) method
+## Graphics::MeasureCharacterRanges(const System::String\&, const SharedPtr\<Font\>\&, RectangleF, const SharedPtr\<StringFormat\>\&) method
 
 
 Returns an array of regions each of which bounds character positions in the specified string.
@@ -27,13 +27,13 @@ ArrayPtr<SharedPtr<Region>> System::Drawing::Graphics::MeasureCharacterRanges(co
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Region](../../region/)
-* Class [String](../../../system/string/)
-* Class [Font](../../font/)
-* Class [RectangleF](../../rectanglef/)
-* Class [StringFormat](../../stringformat/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Region](../region/)
+* Class [String](../../system/string/)
+* Class [Font](../font/)
+* Class [RectangleF](../rectanglef/)
+* Class [StringFormat](../stringformat/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

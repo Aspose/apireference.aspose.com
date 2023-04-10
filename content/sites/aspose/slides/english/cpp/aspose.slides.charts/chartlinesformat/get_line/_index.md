@@ -17,8 +17,8 @@ System::SharedPtr<ILineFormat> Aspose::Slides::Charts::ChartLinesFormat::get_Lin
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILineFormat](../../../aspose.slides/ilineformat/)
-* Class [ChartLinesFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILineFormat](../../aspose.slides/ilineformat/)
+* Class [ChartLinesFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

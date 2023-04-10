@@ -25,7 +25,7 @@ The value of the additional ParamName .
 Returns the value of the additional ParamName . 
 ## See Also
 
-* Class [String](../../string/)
-* Class [Details_ArgumentOutOfRangeException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [Details_ArgumentOutOfRangeException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

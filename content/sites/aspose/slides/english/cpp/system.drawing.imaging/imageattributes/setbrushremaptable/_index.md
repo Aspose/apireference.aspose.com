@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.drawing.imaging/imageattributes/setbrushremaptable/
 ---
-## ImageAttributes::SetBrushRemapTable(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[ColorMap](../../colormap/)\>\>\&) method
+## ImageAttributes::SetBrushRemapTable(const ArrayPtr\<SharedPtr\<ColorMap\>\>\&) method
 
 
 NOT IMPLEMENTED.
@@ -18,9 +18,9 @@ void System::Drawing::Imaging::ImageAttributes::SetBrushRemapTable(const ArrayPt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ColorMap](../../colormap/)
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ColorMap](../colormap/)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

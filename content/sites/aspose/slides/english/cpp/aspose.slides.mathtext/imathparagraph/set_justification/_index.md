@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathparagraph/set_justification/
 ---
-## IMathParagraph::set_Justification([MathJustification](../../mathjustification/)) method
+## IMathParagraph::set_Justification(MathJustification) method
 
 
 [Paragraph](../../../aspose.slides/paragraph/) Justification Default value: CenteredAsGroup
@@ -27,7 +27,7 @@ mathParagraph->set_Justification(MathJustification::LeftJustified);
 
 ## See Also
 
-* Enum [MathJustification](../../mathjustification/)
-* Class [IMathParagraph](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathJustification](../mathjustification/)
+* Class [IMathParagraph](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

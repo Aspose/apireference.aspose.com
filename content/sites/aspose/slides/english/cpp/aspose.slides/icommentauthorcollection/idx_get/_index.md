@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/icommentauthorcollection/idx_get/
 ---
-## ICommentAuthorCollection::idx_get(**int32_t**) method
+## ICommentAuthorCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [ICommentAuthor](../../icommentauthor/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICommentAuthor> Aspose::Slides::ICommentAuthorCollecti
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommentAuthor](../../icommentauthor/)
-* Class [ICommentAuthorCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommentAuthor](../icommentauthor/)
+* Class [ICommentAuthorCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

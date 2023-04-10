@@ -12,9 +12,7 @@ url: /cpp/aspose.slides/paragraph/
 Represents a paragraph of text.
 
 ```cpp
-class Paragraph : public Aspose::Slides::IParagraph,
-                  public Aspose::Slides::Patterns::IObservable,
-                  public Aspose::Slides::IDOMObject
+class Paragraph : public Aspose::Slides::IParagraph,                  public Aspose::Slides::Patterns::IObservable,                  public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

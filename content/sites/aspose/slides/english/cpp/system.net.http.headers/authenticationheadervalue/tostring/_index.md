@@ -22,7 +22,7 @@ virtual String System::Net::Http::Headers::AuthenticationHeaderValue::ToString()
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [AuthenticationHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [AuthenticationHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

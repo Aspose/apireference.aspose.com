@@ -17,6 +17,6 @@ int32_t System::Security::Cryptography::Xml::TransformChain::get_Count()
 
 ## See Also
 
-* Class [TransformChain](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TransformChain](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

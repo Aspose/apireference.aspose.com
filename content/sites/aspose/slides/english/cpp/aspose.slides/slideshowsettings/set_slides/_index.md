@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/slideshowsettings/set_slides/
 ---
-## SlideShowSettings::set_Slides([System::SharedPtr](../../../system/sharedptr/)\<[SlidesRange](../../slidesrange/)\>) method
+## SlideShowSettings::set_Slides(System::SharedPtr\<SlidesRange\>) method
 
 
 [Slides](../../) range
@@ -34,8 +34,8 @@ pres->get_SlideShowSettings()->set_Slides(slidesRange);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SlidesRange](../../slidesrange/)
-* Class [SlideShowSettings](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [SlidesRange](../slidesrange/)
+* Class [SlideShowSettings](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

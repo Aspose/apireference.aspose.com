@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Export::HtmlGenerator::get_NextSlideIndex() override
 
 ## See Also
 
-* Class [HtmlGenerator](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HtmlGenerator](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.globalization/calendar/getdayofweek/
 ---
-## Calendar::GetDayOfWeek([DateTime](../../../system/datetime/)) const method
+## Calendar::GetDayOfWeek(DateTime) const method
 
 
 Gets day of week for the specified time point.
@@ -28,8 +28,8 @@ Day of week in the time point passed.
 
 ## See Also
 
-* Enum [DayOfWeek](../../../system/dayofweek/)
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DayOfWeek](../../system/dayofweek/)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

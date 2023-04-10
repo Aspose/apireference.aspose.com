@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::ChartDataCell::get_Column() override
 
 ## See Also
 
-* Class [ChartDataCell](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataCell](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

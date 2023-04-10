@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/idigitalsignaturecollection/removeat/
 ---
-## IDigitalSignatureCollection::RemoveAt(**int32_t**) method
+## IDigitalSignatureCollection::RemoveAt(int32_t) method
 
 
 Removes the signature at the specified index.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IDigitalSignatureCollection::RemoveAt(int32_t index
 
 ## See Also
 
-* Class [IDigitalSignatureCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDigitalSignatureCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

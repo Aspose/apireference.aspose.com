@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_action/
 ---
-## SoapDocumentMethodAttribute::set_Action([String](../../../system/string/)) method
+## SoapDocumentMethodAttribute::set_Action(String) method
 
 
 Sets a value of the 'SOAPAction' attribute.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_Action(S
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SoapDocumentMethodAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SoapDocumentMethodAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

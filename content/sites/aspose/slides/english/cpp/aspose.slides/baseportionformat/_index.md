@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/baseportionformat/
 Common text portion formatting properties.
 
 ```cpp
-class BasePortionFormat : public Aspose::Slides::PVIObject,
-                          public virtual Aspose::Slides::IBasePortionFormat
+class BasePortionFormat : public Aspose::Slides::PVIObject,                          public virtual Aspose::Slides::IBasePortionFormat
 ```
 
 ## Methods

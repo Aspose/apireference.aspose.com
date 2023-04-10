@@ -17,6 +17,6 @@ float Aspose::Slides::PictureFrame::get_RelativeScaleHeight() override
 
 ## See Also
 
-* Class [PictureFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PictureFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.net.security/sslstream/seek/
 ---
-## SslStream::Seek(**int64_t**, [IO::SeekOrigin](../../../system.io/seekorigin/)) method
+## SslStream::Seek(int64_t, IO::SeekOrigin) method
 
 
 Sets the position of the stream represented by the current object.
@@ -29,7 +29,7 @@ The new position of the stream
 
 ## See Also
 
-* Enum [SeekOrigin](../../../system.io/seekorigin/)
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SeekOrigin](../../system.io/seekorigin/)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

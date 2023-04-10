@@ -22,6 +22,6 @@ Number of elements.
 
 ## See Also
 
-* Class [CookieCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CookieCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

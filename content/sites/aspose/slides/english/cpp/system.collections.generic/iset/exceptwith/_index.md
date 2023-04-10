@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.collections.generic/iset/exceptwith/
 ---
-## ISet::ExceptWith([IEnumerablePtr](../ienumerableptr/)) method
+## ISet::ExceptWith(IEnumerablePtr) method
 
 
 Removes group of elements.
@@ -24,7 +24,7 @@ virtual void System::Collections::Generic::ISet<T>::ExceptWith(IEnumerablePtr ot
 
 ## See Also
 
-* Typedef [IEnumerablePtr](../ienumerableptr/)
-* Class [ISet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumerablePtr](./ienumerableptr/)
+* Class [ISet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

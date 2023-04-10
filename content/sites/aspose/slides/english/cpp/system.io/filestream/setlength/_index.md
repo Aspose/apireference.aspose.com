@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.io/filestream/setlength/
 ---
-## FileStream::SetLength(**int64_t**) method
+## FileStream::SetLength(int64_t) method
 
 
 Sets the length of the stream represented by the current object.
@@ -24,6 +24,6 @@ void System::IO::FileStream::SetLength(int64_t value) override
 
 ## See Also
 
-* Class [FileStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FileStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

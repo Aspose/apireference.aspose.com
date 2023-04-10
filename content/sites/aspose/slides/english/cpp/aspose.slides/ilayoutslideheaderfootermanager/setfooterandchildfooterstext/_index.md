@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/ilayoutslideheaderfootermanager/setfooterandchildfooterstext/
 ---
-## ILayoutSlideHeaderFooterManager::SetFooterAndChildFootersText([System::String](../../../system/string/)) method
+## ILayoutSlideHeaderFooterManager::SetFooterAndChildFootersText(System::String) method
 
 
 Sets text to layout slide footer placeholder and all child footer placeholders. Child placeholders mean placeholders are contained on depending slides. Depending slides use and depend on layout slide.
@@ -24,7 +24,7 @@ virtual void Aspose::Slides::ILayoutSlideHeaderFooterManager::SetFooterAndChildF
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ILayoutSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ILayoutSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

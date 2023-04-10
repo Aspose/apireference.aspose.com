@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/datalabelformat/set_showseriesname/
 ---
-## DataLabelFormat::set_ShowSeriesName(**bool**) method
+## DataLabelFormat::set_ShowSeriesName(bool) method
 
 
 Sets a Boolean to indicate the series name display behavior for the data labels on a chart. True to show the series name. False to hide. Write **bool**.
@@ -24,6 +24,6 @@ If parent of this [DataLabelFormat](../) object is a [DataLabelCollection](../..
 
 ## See Also
 
-* Class [DataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/coloroperation/equals/
 ---
-## ColorOperation::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## ColorOperation::Equals(System::SharedPtr\<System::Object\>) method
 
 
 Determines whether the two [ColorOperation](../) instances are equal.
@@ -28,8 +28,8 @@ bool Aspose::Slides::ColorOperation::Equals(System::SharedPtr<System::Object> ob
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [ColorOperation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [ColorOperation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

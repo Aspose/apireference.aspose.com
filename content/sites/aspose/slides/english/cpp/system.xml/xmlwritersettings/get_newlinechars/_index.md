@@ -22,7 +22,7 @@ The character string to use for line breaks. This can be set to any string value
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ Attributes keys and values collection.
 
 ## See Also
 
-* Class [Dictionary](../../../system.collections.generic/dictionary/)
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Dictionary](../../system.collections.generic/dictionary/)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

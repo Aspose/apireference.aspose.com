@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/system/environment/getenvironmentvariablew/
 ---
-## Environment::GetEnvironmentVariableW(const [String](../../string/)\&) method
+## Environment::GetEnvironmentVariableW(const String\&) method
 
 
 Returns the value of the specified environment varibale associated with the current process.
@@ -28,7 +28,7 @@ The value of the specified variable
 
 ## See Also
 
-* Class [String](../../string/)
-* Struct [Environment](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Struct [Environment](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

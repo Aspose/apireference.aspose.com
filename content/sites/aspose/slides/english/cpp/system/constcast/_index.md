@@ -6,7 +6,7 @@ type: docs
 weight: 2198
 url: /cpp/system/constcast/
 ---
-## System::ConstCast(const [SmartPtr](../smartptr/)\<TFrom\>\&) function
+## System::ConstCast(const SmartPtr\<TFrom\>\&) function
 
 
 End of deprecated casts.
@@ -38,7 +38,7 @@ Cast result if cast is allowed or nullptr otherwise.
 Performs const cast on [SmartPtr](../smartptr/) objects. 
 ## See Also
 
-* Struct [CastResult](../castresult/)
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Struct [CastResult](./castresult/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.xml/xmlcdatasection/writecontentto/
 ---
-## XmlCDataSection::WriteContentTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
+## XmlCDataSection::WriteContentTo(const SharedPtr\<XmlWriter\>\&) method
 
 
 Saves the children of the node to the specified [XmlWriter](../../xmlwriter/).
@@ -24,8 +24,8 @@ void System::Xml::XmlCDataSection::WriteContentTo(const SharedPtr<XmlWriter> &w)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../xmlwriter/)
-* Class [XmlCDataSection](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../xmlwriter/)
+* Class [XmlCDataSection](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

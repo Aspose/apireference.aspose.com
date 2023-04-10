@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/presentationanimationsgenerator/set_includehiddenslides/
 ---
-## PresentationAnimationsGenerator::set_IncludeHiddenSlides(**bool**) method
+## PresentationAnimationsGenerator::set_IncludeHiddenSlides(bool) method
 
 
 Get or sets if hidden slides should be included.
@@ -34,6 +34,6 @@ animationsGenerator->Run(presentation->get_Slides());
 
 ## See Also
 
-* Class [PresentationAnimationsGenerator](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PresentationAnimationsGenerator](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

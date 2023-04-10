@@ -17,6 +17,6 @@ Aspose::Slides::LowCode::ForEach::ForEach()=delete
 
 ## See Also
 
-* Class [ForEach](../)
-* Namespace [Aspose::Slides::LowCode](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ForEach](./)
+* Namespace [Aspose::Slides::LowCode](../)
+* Library [Aspose.Slides](../../)

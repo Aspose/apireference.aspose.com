@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides/streamwrapper/writebyte/
 ---
-## StreamWrapper::WriteByte(**uint8_t**) method
+## StreamWrapper::WriteByte(uint8_t) method
 
 
 Writes a byte to the current position in the stream and advances the position within the stream by one byte.
@@ -24,6 +24,6 @@ void Aspose::Slides::StreamWrapper::WriteByte(uint8_t value) override
 
 ## See Also
 
-* Class [StreamWrapper](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StreamWrapper](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

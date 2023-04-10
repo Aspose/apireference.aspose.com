@@ -22,8 +22,8 @@ A read-only [XPathNavigator](../../xpathnavigator/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XPathNavigator](../../xpathnavigator/)
-* Class [XPathDocument](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XPathNavigator](../xpathnavigator/)
+* Class [XPathDocument](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

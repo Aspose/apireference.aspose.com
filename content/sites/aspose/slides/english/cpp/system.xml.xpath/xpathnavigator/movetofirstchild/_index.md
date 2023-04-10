@@ -22,6 +22,6 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToFirstChild()=0
 
 ## See Also
 
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

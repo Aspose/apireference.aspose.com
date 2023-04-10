@@ -17,8 +17,8 @@ virtual System::SharedPtr<IShapeBevel> Aspose::Slides::IThreeDFormat::get_BevelT
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShapeBevel](../../ishapebevel/)
-* Class [IThreeDFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShapeBevel](../ishapebevel/)
+* Class [IThreeDFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

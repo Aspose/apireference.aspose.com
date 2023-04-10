@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/ipiesplitcustompointcollection/idx_get/
 ---
-## IPieSplitCustomPointCollection::idx_get(**int32_t**) method
+## IPieSplitCustomPointCollection::idx_get(int32_t) method
 
 
 Returns chart data point by index.
@@ -28,8 +28,8 @@ virtual System::SharedPtr<IChartDataPoint> Aspose::Slides::Charts::IPieSplitCust
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataPoint](../../ichartdatapoint/)
-* Class [IPieSplitCustomPointCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataPoint](../ichartdatapoint/)
+* Class [IPieSplitCustomPointCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

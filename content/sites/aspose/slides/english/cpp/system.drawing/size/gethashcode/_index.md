@@ -17,6 +17,6 @@ int32_t System::Drawing::Size::GetHashCode() const
 
 ## See Also
 
-* Class [Size](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Size](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

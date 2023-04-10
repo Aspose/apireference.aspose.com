@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.xml/xmldocument/set_innertext/
 ---
-## XmlDocument::set_InnerText([String](../../../system/string/)) method
+## XmlDocument::set_InnerText(String) method
 
 
 Throws an InvalidOperationException in all cases.
@@ -24,7 +24,7 @@ void System::Xml::XmlDocument::set_InnerText(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

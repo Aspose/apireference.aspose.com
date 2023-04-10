@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ITable::get_FirstCol()=0
 
 ## See Also
 
-* Class [ITable](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITable](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

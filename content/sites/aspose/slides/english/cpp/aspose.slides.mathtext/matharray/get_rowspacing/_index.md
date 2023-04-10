@@ -27,6 +27,6 @@ mathArray->set_RowSpacing(10);
 
 ## See Also
 
-* Class [MathArray](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathArray](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

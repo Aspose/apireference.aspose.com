@@ -17,6 +17,6 @@ float System::Drawing::RectangleF::get_Top() const
 
 ## See Also
 
-* Class [RectangleF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RectangleF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

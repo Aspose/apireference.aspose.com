@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/shapecollection/
 Represents a collection of a shapes.
 
 ```cpp
-class ShapeCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::GroupShape>>,
-                        public Aspose::Slides::IShapeCollection
+class ShapeCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::GroupShape>>,                        public Aspose::Slides::IShapeCollection
 ```
 
 ## Methods

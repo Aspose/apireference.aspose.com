@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.theme/ithememanager/applycolorscheme/
 ---
-## IThemeManager::ApplyColorScheme([System::SharedPtr](../../../system/sharedptr/)\<[IExtraColorScheme](../../iextracolorscheme/)\>) method
+## IThemeManager::ApplyColorScheme(System::SharedPtr\<IExtraColorScheme\>) method
 
 
 Applies extra color scheme to a slide.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Theme::IThemeManager::ApplyColorScheme(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IExtraColorScheme](../../iextracolorscheme/)
-* Class [IThemeManager](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IExtraColorScheme](../iextracolorscheme/)
+* Class [IThemeManager](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/digitalsignaturecollection/add/
 ---
-## DigitalSignatureCollection::Add([System::SharedPtr](../../../system/sharedptr/)\<[IDigitalSignature](../../idigitalsignature/)\>) method
+## DigitalSignatureCollection::Add(System::SharedPtr\<IDigitalSignature\>) method
 
 
 Adds the signature at the end of collection.
@@ -36,8 +36,8 @@ pres->Save(u"SomePresentationSigned.pptx", Aspose::Slides::Export::SaveFormat::P
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IDigitalSignature](../../idigitalsignature/)
-* Class [DigitalSignatureCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IDigitalSignature](../idigitalsignature/)
+* Class [DigitalSignatureCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

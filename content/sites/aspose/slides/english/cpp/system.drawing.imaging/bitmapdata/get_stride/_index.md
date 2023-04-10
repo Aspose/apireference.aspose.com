@@ -17,6 +17,6 @@ int System::Drawing::Imaging::BitmapData::get_Stride() const
 
 ## See Also
 
-* Class [BitmapData](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitmapData](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

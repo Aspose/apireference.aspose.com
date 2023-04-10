@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.globalization/koreancalendar/getdayofmonth/
 ---
-## KoreanCalendar::GetDayOfMonth([DateTime](../../../system/datetime/)) const method
+## KoreanCalendar::GetDayOfMonth(DateTime) const method
 
 
 Gets day of month for the specified time point.
@@ -28,7 +28,7 @@ Day of month in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [KoreanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [KoreanCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/coloreffect/set_by/
 ---
-## ColorEffect::set_By([System::SharedPtr](../../../system/sharedptr/)\<[IColorOffset](../../icoloroffset/)\>) method
+## ColorEffect::set_By(System::SharedPtr\<IColorOffset\>) method
 
 
 Describes the relative offset value for the color animation. Write [IColorOffset](../../icoloroffset/).
@@ -17,8 +17,8 @@ void Aspose::Slides::Animation::ColorEffect::set_By(System::SharedPtr<IColorOffs
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorOffset](../../icoloroffset/)
-* Class [ColorEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorOffset](../icoloroffset/)
+* Class [ColorEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

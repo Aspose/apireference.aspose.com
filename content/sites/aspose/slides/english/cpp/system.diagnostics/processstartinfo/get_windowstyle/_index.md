@@ -22,7 +22,7 @@ ProcessWindowStyle System::Diagnostics::ProcessStartInfo::get_WindowStyle() cons
 
 ## See Also
 
-* Enum [ProcessWindowStyle](../../processwindowstyle/)
-* Class [ProcessStartInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ProcessWindowStyle](../processwindowstyle/)
+* Class [ProcessStartInfo](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

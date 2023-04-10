@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.xml/xmldocumenttype/writeto/
 ---
-## XmlDocumentType::WriteTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
+## XmlDocumentType::WriteTo(const SharedPtr\<XmlWriter\>\&) method
 
 
 Saves the node to the specified [XmlWriter](../../xmlwriter/).
@@ -24,8 +24,8 @@ void System::Xml::XmlDocumentType::WriteTo(const SharedPtr<XmlWriter> &w) overri
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../xmlwriter/)
-* Class [XmlDocumentType](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../xmlwriter/)
+* Class [XmlDocumentType](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

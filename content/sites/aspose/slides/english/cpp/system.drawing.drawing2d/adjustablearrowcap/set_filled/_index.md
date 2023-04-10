@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.drawing.drawing2d/adjustablearrowcap/set_filled/
 ---
-## AdjustableArrowCap::set_Filled(**bool**) method
+## AdjustableArrowCap::set_Filled(bool) method
 
 
 Sets a value that specifies if the arrow represented by the current object is filled.
@@ -24,6 +24,6 @@ void System::Drawing::Drawing2D::AdjustableArrowCap::set_Filled(bool value)
 
 ## See Also
 
-* Class [AdjustableArrowCap](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AdjustableArrowCap](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

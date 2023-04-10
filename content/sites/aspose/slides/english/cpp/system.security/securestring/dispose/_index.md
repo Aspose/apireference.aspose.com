@@ -17,6 +17,6 @@ void System::Security::SecureString::Dispose() override
 
 ## See Also
 
-* Class [SecureString](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SecureString](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

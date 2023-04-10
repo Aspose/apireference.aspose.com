@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/isectioncollection/removesectionwithslides/
 ---
-## ISectionCollection::RemoveSectionWithSlides([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
+## ISectionCollection::RemoveSectionWithSlides(System::SharedPtr\<ISection\>) method
 
 
 Remove section and slides contained in the section.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::ISectionCollection::RemoveSectionWithSlides(System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISection](../../isection/)
-* Class [ISectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISection](../isection/)
+* Class [ISectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.io/file/getattributes/
 ---
-## File::GetAttributes(const [String](../../../system/string/)\&) method
+## File::GetAttributes(const String\&) method
 
 
 Returns the attributes of the specified entity.
@@ -28,8 +28,8 @@ The attributes of the entity referenced by **path**
 
 ## See Also
 
-* Enum [FileAttributes](../../fileattributes/)
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FileAttributes](../fileattributes/)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

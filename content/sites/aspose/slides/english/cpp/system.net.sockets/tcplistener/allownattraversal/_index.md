@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net.sockets/tcplistener/allownattraversal/
 ---
-## TcpListener::AllowNatTraversal(**bool**) method
+## TcpListener::AllowNatTraversal(bool) method
 
 
 Enables or disables the NAT traversal.
@@ -24,6 +24,6 @@ void System::Net::Sockets::TcpListener::AllowNatTraversal(bool allowed)
 
 ## See Also
 
-* Class [TcpListener](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpListener](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

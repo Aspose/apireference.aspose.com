@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemainfo/set_validity/
 ---
-## XmlSchemaInfo::set_Validity([XmlSchemaValidity](../../xmlschemavalidity/)) method
+## XmlSchemaInfo::set_Validity(XmlSchemaValidity) method
 
 
 Sets the XmlSchemaValidity value of this validated XML node.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaInfo::set_Validity(XmlSchemaValidity value)
 
 ## See Also
 
-* Enum [XmlSchemaValidity](../../xmlschemavalidity/)
-* Class [XmlSchemaInfo](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaValidity](../xmlschemavalidity/)
+* Class [XmlSchemaInfo](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

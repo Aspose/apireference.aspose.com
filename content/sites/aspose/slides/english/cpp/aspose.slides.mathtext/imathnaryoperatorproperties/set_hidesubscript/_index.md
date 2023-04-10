@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.mathtext/imathnaryoperatorproperties/set_hidesubscript/
 ---
-## IMathNaryOperatorProperties::set_HideSubscript(**bool**) method
+## IMathNaryOperatorProperties::set_HideSubscript(bool) method
 
 
 Hide Subscript
@@ -26,6 +26,6 @@ naryOperator->set_HideSubscript(true);
 
 ## See Also
 
-* Class [IMathNaryOperatorProperties](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathNaryOperatorProperties](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

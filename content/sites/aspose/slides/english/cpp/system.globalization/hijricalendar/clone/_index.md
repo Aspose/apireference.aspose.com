@@ -17,8 +17,8 @@ SharedPtr<Object> System::Globalization::HijriCalendar::Clone() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [HijriCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [HijriCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

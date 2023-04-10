@@ -17,8 +17,8 @@ System::SharedPtr<System::Reflection::Assembly> System::TypeInfo::get_Assembly()
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Assembly](../../../system.reflection/assembly/)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Assembly](../../system.reflection/assembly/)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 612
 url: /cpp/system.net.sockets/socket/listen/
 ---
-## Socket::Listen(**int32_t**) method
+## Socket::Listen(int32_t) method
 
 
 Changes the socket state to 'listen'.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::Listen(int32_t backlog)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

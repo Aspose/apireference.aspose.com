@@ -17,7 +17,7 @@ System::String Aspose::Slides::FontSubstitutionInfo::get_OriginalFontName()
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FontSubstitutionInfo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FontSubstitutionInfo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

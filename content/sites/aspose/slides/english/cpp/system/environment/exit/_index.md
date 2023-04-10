@@ -24,6 +24,6 @@ static void System::Environment::Exit(int exitCode)
 
 ## See Also
 
-* Struct [Environment](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Environment](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

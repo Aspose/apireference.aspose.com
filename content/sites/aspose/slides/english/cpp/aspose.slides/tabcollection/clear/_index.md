@@ -17,6 +17,6 @@ void Aspose::Slides::TabCollection::Clear() override
 
 ## See Also
 
-* Class [TabCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TabCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

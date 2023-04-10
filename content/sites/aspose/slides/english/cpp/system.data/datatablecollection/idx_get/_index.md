@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.data/datatablecollection/idx_get/
 ---
-## DataTableCollection::idx_get(const [System::String](../../../system/string/)\&) method
+## DataTableCollection::idx_get(const System::String\&) method
 
 
 RTTI information.
@@ -31,9 +31,9 @@ Table with specified name.
 Gets table by name. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DataTable](../../datatable/)
-* Class [String](../../../system/string/)
-* Class [DataTableCollection](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DataTable](../datatable/)
+* Class [String](../../system/string/)
+* Class [DataTableCollection](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

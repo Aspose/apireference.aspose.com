@@ -22,7 +22,7 @@ CaptureCollectionPtr System::Text::RegularExpressions::Group::get_Captures()
 
 ## See Also
 
-* Typedef [CaptureCollectionPtr](../../capturecollectionptr/)
-* Class [Group](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [CaptureCollectionPtr](../capturecollectionptr/)
+* Class [Group](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

@@ -35,5 +35,5 @@ True if contained keys, values and sizes match, false otherwise.
 
 ## See Also
 
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System::TestPredicates::Details::SharedPtrAsserts](./)
+* Library [Aspose.Slides](../)

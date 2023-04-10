@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/iblobmanagementoptions/set_istemporaryfilesallowed/
 ---
-## IBlobManagementOptions::set_IsTemporaryFilesAllowed(**bool**) method
+## IBlobManagementOptions::set_IsTemporaryFilesAllowed(bool) method
 
 
 This property defines if temporary files can be created while working with BLOBs, what greatly decreases the memory consumption but requires permissions to create files.
@@ -21,6 +21,6 @@ virtual void Aspose::Slides::IBlobManagementOptions::set_IsTemporaryFilesAllowed
 All files will be deleted after work with the presentation will be finished.
 ## See Also
 
-* Class [IBlobManagementOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBlobManagementOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.net.sockets/networkstream/set_position/
 ---
-## NetworkStream::set_Position(**int64_t**) method
+## NetworkStream::set_Position(int64_t) method
 
 
 Sets the stream's position.
@@ -24,6 +24,6 @@ void System::Net::Sockets::NetworkStream::set_Position(int64_t value) override
 
 ## See Also
 
-* Class [NetworkStream](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NetworkStream](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

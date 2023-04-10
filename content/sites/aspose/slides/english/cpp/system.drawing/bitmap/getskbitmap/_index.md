@@ -17,6 +17,6 @@ virtual const SkBitmap * System::Drawing::Bitmap::GetSkBitmap() const override
 
 ## See Also
 
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Bitmap](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

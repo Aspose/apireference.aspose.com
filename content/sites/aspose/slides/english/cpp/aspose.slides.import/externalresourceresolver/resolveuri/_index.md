@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.import/externalresourceresolver/resolveuri/
 ---
-## ExternalResourceResolver::ResolveUri([System::String](../../../system/string/), [System::String](../../../system/string/)) method
+## ExternalResourceResolver::ResolveUri(System::String, System::String) method
 
 
 Resolves the absolute URI from the base and relative URIs.
@@ -29,7 +29,7 @@ Absolute URI or null if the relative URI cannot be resolved.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ExternalResourceResolver](../)
-* Namespace [Aspose::Slides::Import](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ExternalResourceResolver](./)
+* Namespace [Aspose::Slides::Import](../)
+* Library [Aspose.Slides](../../)

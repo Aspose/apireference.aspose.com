@@ -21,7 +21,7 @@ SplitterBarStateType Aspose::Slides::NormalViewProperties::get_VerticalBarState(
 Read [SplitterBarStateType](../../splitterbarstatetype/)
 ## See Also
 
-* Enum [SplitterBarStateType](../../splitterbarstatetype/)
-* Class [NormalViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SplitterBarStateType](../splitterbarstatetype/)
+* Class [NormalViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

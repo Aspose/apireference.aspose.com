@@ -17,7 +17,7 @@ System::Drawing::Color Aspose::Slides::Charts::ChartDataPoint::GetAutomaticDataP
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [ChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [ChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

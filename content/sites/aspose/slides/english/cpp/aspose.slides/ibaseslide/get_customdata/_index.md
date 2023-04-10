@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICustomData> Aspose::Slides::IBaseSlide::get_CustomDat
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICustomData](../../icustomdata/)
-* Class [IBaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICustomData](../icustomdata/)
+* Class [IBaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

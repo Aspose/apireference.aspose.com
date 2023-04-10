@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.runtime.serialization/serializationinfo/serializationinfo/
 ---
-## SerializationInfo::SerializationInfo(const [System::TypeInfo](../../../system/typeinfo/)\&, const [System::SharedPtr](../../../system/sharedptr/)\<[IFormatterConverter](../../iformatterconverter/)\>\&) constructor
+## SerializationInfo::SerializationInfo(const System::TypeInfo\&, const System::SharedPtr\<IFormatterConverter\>\&) constructor
 
 
 RTTI information.
@@ -28,9 +28,9 @@ System::Runtime::Serialization::SerializationInfo::SerializationInfo(const Syste
 Creates a new instance of the [SerializationInfo](../) class. 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFormatterConverter](../../iformatterconverter/)
-* Class [SerializationInfo](../)
-* Namespace [System::Runtime::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [IFormatterConverter](../iformatterconverter/)
+* Class [SerializationInfo](./)
+* Namespace [System::Runtime::Serialization](../)
+* Library [Aspose.Slides](../../)

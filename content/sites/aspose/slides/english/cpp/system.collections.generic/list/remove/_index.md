@@ -28,6 +28,6 @@ True if item was found and removed, false otherwise.
 
 ## See Also
 
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

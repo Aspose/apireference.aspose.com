@@ -22,6 +22,6 @@ Last element in the sequence or default-constructed value if the sequence is emp
 
 ## See Also
 
-* Class [IEnumerable](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IEnumerable](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ Contains [XmlSchemaAttribute](../../xmlschemaattribute/) and [XmlSchemaAttribute
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/)
-* Class [XmlSchemaComplexType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../xmlschemaobjectcollection/)
+* Class [XmlSchemaComplexType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

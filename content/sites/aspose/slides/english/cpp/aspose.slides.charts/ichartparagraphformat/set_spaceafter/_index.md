@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.charts/ichartparagraphformat/set_spaceafter/
 ---
-## IChartParagraphFormat::set_SpaceAfter(**float**) method
+## IChartParagraphFormat::set_SpaceAfter(float) method
 
 
 Sets the amount of space after the last line in a paragraph. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartParagraphFormat::set_SpaceAfter(float
 
 ## See Also
 
-* Class [IChartParagraphFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartParagraphFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

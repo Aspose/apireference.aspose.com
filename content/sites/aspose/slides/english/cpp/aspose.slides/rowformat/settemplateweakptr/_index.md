@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/rowformat/settemplateweakptr/
 ---
-## RowFormat::SetTemplateWeakPtr(**uint32_t**) method
+## RowFormat::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::RowFormat::SetTemplateWeakPtr(uint32_t argument) override
 
 ## See Also
 
-* Class [RowFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RowFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

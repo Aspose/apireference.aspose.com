@@ -17,6 +17,6 @@ float Aspose::Slides::Charts::ChartDataPoint::get_ActualX() override
 
 ## See Also
 
-* Class [ChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

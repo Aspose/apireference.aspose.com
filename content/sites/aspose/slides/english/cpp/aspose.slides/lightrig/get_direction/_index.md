@@ -17,7 +17,7 @@ LightingDirection Aspose::Slides::LightRig::get_Direction() override
 
 ## See Also
 
-* Enum [LightingDirection](../../lightingdirection/)
-* Class [LightRig](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LightingDirection](../lightingdirection/)
+* Class [LightRig](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

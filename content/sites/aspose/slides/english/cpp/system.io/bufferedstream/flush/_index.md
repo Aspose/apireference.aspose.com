@@ -17,6 +17,6 @@ virtual void System::IO::BufferedStream::Flush() override
 
 ## See Also
 
-* Class [BufferedStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BufferedStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

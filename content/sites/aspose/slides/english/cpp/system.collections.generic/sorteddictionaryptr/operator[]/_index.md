@@ -28,6 +28,6 @@ Reference to element at specified key.
 
 ## See Also
 
-* Class [SortedDictionaryPtr](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SortedDictionaryPtr](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

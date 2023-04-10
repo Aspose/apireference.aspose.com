@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.web.services.protocols/soapheader/soapheader/
 ---
-## SoapHeader::SoapHeader([System::SharedPtr](../../../system/sharedptr/)\<[Xml::XmlElement](../../../system.xml/xmlelement/)\>) constructor
+## SoapHeader::SoapHeader(System::SharedPtr\<Xml::XmlElement\>) constructor
 
 
 Constructs a new instance.
@@ -24,8 +24,8 @@ System::Web::Services::Protocols::SoapHeader::SoapHeader(System::SharedPtr<Xml::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlElement](../../../system.xml/xmlelement/)
-* Class [SoapHeader](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlElement](../../system.xml/xmlelement/)
+* Class [SoapHeader](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ System::Xml::Xsl::Runtime::StringConcat::StringConcat()
 
 ## See Also
 
-* Class [StringConcat](../)
-* Namespace [System::Xml::Xsl::Runtime](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StringConcat](./)
+* Namespace [System::Xml::Xsl::Runtime](../)
+* Library [Aspose.Slides](../../)

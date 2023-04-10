@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/ichartparagraphformat/set_eastasianlinebreak/
 ---
-## IChartParagraphFormat::set_EastAsianLineBreak([NullableBool](../../../aspose.slides/nullablebool/)) method
+## IChartParagraphFormat::set_EastAsianLineBreak(NullableBool) method
 
 
 Determines whether the East Asian line break is used in a paragraph. Write [NullableBool](../../../aspose.slides/nullablebool/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChartParagraphFormat::set_EastAsianLineBre
 
 ## See Also
 
-* Enum [NullableBool](../../../aspose.slides/nullablebool/)
-* Class [IChartParagraphFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../../aspose.slides/nullablebool/)
+* Class [IChartParagraphFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

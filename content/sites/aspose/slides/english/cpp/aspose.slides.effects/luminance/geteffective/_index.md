@@ -22,8 +22,8 @@ A [ILuminanceEffectiveData](../../iluminanceeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILuminanceEffectiveData](../../iluminanceeffectivedata/)
-* Class [Luminance](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILuminanceEffectiveData](../iluminanceeffectivedata/)
+* Class [Luminance](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

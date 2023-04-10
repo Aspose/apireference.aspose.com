@@ -17,6 +17,6 @@ void Aspose::Slides::NotesSlideManager::RemoveNotesSlide() override
 
 ## See Also
 
-* Class [NotesSlideManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NotesSlideManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

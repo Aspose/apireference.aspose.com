@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/ichartcategorylevelsmanager/setgroupingitem/
 ---
-## IChartCategoryLevelsManager::SetGroupingItem(**int32_t**, [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## IChartCategoryLevelsManager::SetGroupingItem(int32_t, System::SharedPtr\<System::Object\>) method
 
 
 Sets grouping item for defined level.
@@ -25,8 +25,8 @@ virtual void Aspose::Slides::Charts::IChartCategoryLevelsManager::SetGroupingIte
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IChartCategoryLevelsManager](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IChartCategoryLevelsManager](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual Aspose::Slides::NumberedBulletStyle Aspose::Slides::IBulletFormatEffecti
 
 ## See Also
 
-* Enum [NumberedBulletStyle](../../numberedbulletstyle/)
-* Class [IBulletFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NumberedBulletStyle](../numberedbulletstyle/)
+* Class [IBulletFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

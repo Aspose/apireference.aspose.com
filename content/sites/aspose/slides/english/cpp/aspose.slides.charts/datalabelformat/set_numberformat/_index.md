@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/datalabelformat/set_numberformat/
 ---
-## DataLabelFormat::set_NumberFormat([System::String](../../../system/string/)) method
+## DataLabelFormat::set_NumberFormat(System::String) method
 
 
 Represents the format string for the DataLabels object. Write [System::String](../../../system/string/).
@@ -36,7 +36,7 @@ If parent of this [DataLabelFormat](../) object is a [DataLabelCollection](../..
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

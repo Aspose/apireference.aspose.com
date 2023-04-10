@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides/shapecollection/addaudioframecd/
 ---
-## ShapeCollection::AddAudioFrameCD(**float**, **float**, **float**, **float**) method
+## ShapeCollection::AddAudioFrameCD(float, float, float, float) method
 
 
 Adds an [AudioFrame](../../audioframe/) with CD to the end of collection.
@@ -31,8 +31,8 @@ Created [AudioFrame](../../audioframe/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAudioFrame](../../iaudioframe/)
-* Class [ShapeCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAudioFrame](../iaudioframe/)
+* Class [ShapeCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

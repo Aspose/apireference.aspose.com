@@ -15,12 +15,7 @@ Clears this stream's buffers and writes all buffered data to the underlying file
 void System::IO::FileStream::Flush() override
 ```
 
-## See Also
-
-* Class [FileStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
-## FileStream::Flush(**bool**) method
+## FileStream::Flush(bool) method
 
 
 Clears this stream's buffers and writes all buffered data to the underlying file. Synonym for method [Flush()](./).
@@ -38,6 +33,6 @@ void System::IO::FileStream::Flush(bool flush_to_disk)
 
 ## See Also
 
-* Class [FileStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FileStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml/xmlattributecollection/insertafter/
 ---
-## XmlAttributeCollection::InsertAfter(const [SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../xmlattribute/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../xmlattribute/)\>\&) method
+## XmlAttributeCollection::InsertAfter(const SharedPtr\<XmlAttribute\>\&, const SharedPtr\<XmlAttribute\>\&) method
 
 
 Inserts the specified attribute immediately after the specified reference attribute.
@@ -29,8 +29,8 @@ The [XmlAttribute](../../xmlattribute/) to insert into the collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlAttribute](../../xmlattribute/)
-* Class [XmlAttributeCollection](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlAttribute](../xmlattribute/)
+* Class [XmlAttributeCollection](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

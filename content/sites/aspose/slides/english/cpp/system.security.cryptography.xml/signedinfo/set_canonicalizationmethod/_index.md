@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.security.cryptography.xml/signedinfo/set_canonicalizationmethod/
 ---
-## SignedInfo::set_CanonicalizationMethod([String](../../../system/string/)) method
+## SignedInfo::set_CanonicalizationMethod(String) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::SignedInfo::set_CanonicalizationMethod
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SignedInfo](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SignedInfo](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

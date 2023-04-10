@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/translatetransform/
 ---
-## LinearGradientBrush::TranslateTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../matrixorder/)) method
+## LinearGradientBrush::TranslateTransform(float, float, Drawing2D::MatrixOrder) method
 
 
 Translates current object's transform matrix.
@@ -26,7 +26,7 @@ void System::Drawing::Drawing2D::LinearGradientBrush::TranslateTransform(float d
 
 ## See Also
 
-* Enum [MatrixOrder](../../matrixorder/)
-* Class [LinearGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MatrixOrder](../matrixorder/)
+* Class [LinearGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

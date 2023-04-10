@@ -22,6 +22,6 @@ A value that indicates if the certificate revocation list is checked during the 
 
 ## See Also
 
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 508
 url: /cpp/aspose.slides/ibaseportionformat/set_kerningminimalsize/
 ---
-## IBasePortionFormat::set_KerningMinimalSize(**float**) method
+## IBasePortionFormat::set_KerningMinimalSize(float) method
 
 
 Sets the minimal font size, for which kerning should be switched on. **std::numeric_limits<float>::quiet_NaN()** means value is undefined and should be inherited from the Master. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IBasePortionFormat::set_KerningMinimalSize(float va
 
 ## See Also
 
-* Class [IBasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

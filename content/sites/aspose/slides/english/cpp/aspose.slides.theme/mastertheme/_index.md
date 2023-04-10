@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.theme/mastertheme/
 Represents a master theme.
 
 ```cpp
-class MasterTheme : public Aspose::Slides::Theme::Theme,
-                    public Aspose::Slides::Theme::IMasterTheme
+class MasterTheme : public Aspose::Slides::Theme::Theme,                    public Aspose::Slides::Theme::IMasterTheme
 ```
 
 ## Methods

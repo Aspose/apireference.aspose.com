@@ -22,8 +22,8 @@ Returns [XmlNode](../../xmlnode/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlCDataSection](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlCDataSection](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

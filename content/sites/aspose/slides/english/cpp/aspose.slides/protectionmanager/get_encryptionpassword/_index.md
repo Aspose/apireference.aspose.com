@@ -17,7 +17,7 @@ System::String Aspose::Slides::ProtectionManager::get_EncryptionPassword() overr
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ProtectionManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ProtectionManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

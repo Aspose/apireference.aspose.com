@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.security.cryptography/eccurve/createfromfriendlyname/
 ---
-## ECCurve::CreateFromFriendlyName(const [String](../../../system/string/)\&) method
+## ECCurve::CreateFromFriendlyName(const String\&) method
 
 
 Create a curve from the specified OID firendly name.
@@ -17,8 +17,7 @@ static ECCurve System::Security::Cryptography::ECCurve::CreateFromFriendlyName(c
 
 ## See Also
 
-* Struct [ECCurve](../)
-* Class [String](../../../system/string/)
-* Struct [ECCurve](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Struct [ECCurve](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

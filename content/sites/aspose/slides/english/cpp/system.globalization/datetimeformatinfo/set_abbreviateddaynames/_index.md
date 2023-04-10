@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.globalization/datetimeformatinfo/set_abbreviateddaynames/
 ---
-## DateTimeFormatInfo::set_AbbreviatedDayNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
+## DateTimeFormatInfo::set_AbbreviatedDayNames(const ArrayPtr\<String\>\&) method
 
 
 Sets abbreviated day names.
@@ -24,8 +24,8 @@ void System::Globalization::DateTimeFormatInfo::set_AbbreviatedDayNames(const Ar
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

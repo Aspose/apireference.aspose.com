@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.slides/icell/splitbyheight/
 ---
-## ICell::SplitByHeight(**double**) method
+## ICell::SplitByHeight(double) method
 
 
 Splits the cell by height.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::ICell::SplitByHeight(double height)=0
 
 ## See Also
 
-* Class [ICell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

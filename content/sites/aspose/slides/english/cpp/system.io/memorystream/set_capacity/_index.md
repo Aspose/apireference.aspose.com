@@ -24,6 +24,6 @@ void System::IO::MemoryStream::set_Capacity(int value)
 
 ## See Also
 
-* Class [MemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

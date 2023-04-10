@@ -22,7 +22,7 @@ The string attribute value for the [XPath](../../../system.xml.xpath/) expressio
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaXPath](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaXPath](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

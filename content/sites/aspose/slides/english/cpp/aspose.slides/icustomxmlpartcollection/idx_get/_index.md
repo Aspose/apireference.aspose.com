@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/icustomxmlpartcollection/idx_get/
 ---
-## ICustomXmlPartCollection::idx_get(**int32_t**) method
+## ICustomXmlPartCollection::idx_get(int32_t) method
 
 
 Returns the element at the specified index.
@@ -28,8 +28,8 @@ The element at the specified index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICustomXmlPart](../../icustomxmlpart/)
-* Class [ICustomXmlPartCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICustomXmlPart](../icustomxmlpart/)
+* Class [ICustomXmlPartCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

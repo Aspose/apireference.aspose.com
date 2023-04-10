@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.xml.schema/xmlschemainfo/set_schemaattribute/
 ---
-## XmlSchemaInfo::set_SchemaAttribute(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaAttribute](../../xmlschemaattribute/)\>\&) method
+## XmlSchemaInfo::set_SchemaAttribute(const SharedPtr\<XmlSchemaAttribute\>\&) method
 
 
 Sets the compiled [XmlSchemaAttribute](../../xmlschemaattribute/) object that corresponds to this validated XML node.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaInfo::set_SchemaAttribute(const SharedPtr<Xml
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaAttribute](../../xmlschemaattribute/)
-* Class [XmlSchemaInfo](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaAttribute](../xmlschemaattribute/)
+* Class [XmlSchemaInfo](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

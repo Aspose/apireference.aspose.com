@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.security.cryptography.xml/keyinfox509data/addsubjectkeyid/
 ---
-## KeyInfoX509Data::AddSubjectKeyId([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
+## KeyInfoX509Data::AddSubjectKeyId(ArrayPtr\<uint8_t\>) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::KeyInfoX509Data::AddSubjectKeyId(Array
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [KeyInfoX509Data](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [KeyInfoX509Data](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

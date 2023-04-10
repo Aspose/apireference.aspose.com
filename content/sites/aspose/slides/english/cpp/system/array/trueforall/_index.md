@@ -6,7 +6,7 @@ type: docs
 weight: 651
 url: /cpp/system/array/trueforall/
 ---
-## Array::TrueForAll([System::ArrayPtr](../../arrayptr/)\<T\>, [System::Predicate](../../predicate/)\<T\>) method
+## Array::TrueForAll(System::ArrayPtr\<T\>, System::Predicate\<T\>) method
 
 
 Determines whether all elements in the specified array satisfy the conditions defined by specified predicate.
@@ -29,8 +29,8 @@ true if all elements of the array arr satisfy the conditions defined by predicat
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Typedef [Predicate](../../predicate/)
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Typedef [Predicate](../predicate/)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

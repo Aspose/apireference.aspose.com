@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/imotionpath/remove/
 ---
-## IMotionPath::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IMotionCmdPath](../../imotioncmdpath/)\>) method
+## IMotionPath::Remove(System::SharedPtr\<IMotionCmdPath\>) method
 
 
 Removes specified commans from the collection.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::Animation::IMotionPath::Remove(System::SharedPtr<IM
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMotionCmdPath](../../imotioncmdpath/)
-* Class [IMotionPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMotionCmdPath](../imotioncmdpath/)
+* Class [IMotionPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,7 @@ The corresponding IPv4 address.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPAddress](../)
-* Class [IPAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

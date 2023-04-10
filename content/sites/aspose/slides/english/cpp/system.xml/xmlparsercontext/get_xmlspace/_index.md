@@ -22,7 +22,7 @@ An XmlSpace value indicating the **xml:space** scope.
 
 ## See Also
 
-* Enum [XmlSpace](../../xmlspace/)
-* Class [XmlParserContext](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSpace](../xmlspace/)
+* Class [XmlParserContext](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

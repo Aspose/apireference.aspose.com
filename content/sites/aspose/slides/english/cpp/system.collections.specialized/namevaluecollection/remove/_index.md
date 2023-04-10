@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.collections.specialized/namevaluecollection/remove/
 ---
-## NameValueCollection::Remove(const [String](../../../system/string/)\&) method
+## NameValueCollection::Remove(const String\&) method
 
 
 Removes specific item.
@@ -28,7 +28,7 @@ True if item was found and removed, false otherwise.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NameValueCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NameValueCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

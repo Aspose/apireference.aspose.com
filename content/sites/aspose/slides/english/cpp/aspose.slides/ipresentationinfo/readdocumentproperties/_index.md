@@ -22,8 +22,8 @@ Document properties [IDocumentProperties](../../idocumentproperties/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IDocumentProperties](../../idocumentproperties/)
-* Class [IPresentationInfo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IDocumentProperties](../idocumentproperties/)
+* Class [IPresentationInfo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

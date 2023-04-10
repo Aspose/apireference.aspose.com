@@ -22,6 +22,6 @@ int64_t System::Diagnostics::Process::get_WorkingSet64() const
 
 ## See Also
 
-* Class [Process](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Process](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system/typeinfo/addattribute/
 ---
-## TypeInfo::AddAttribute(const [ObjectPtr](../../smartptr/)\&) method
+## TypeInfo::AddAttribute(const ObjectPtr\&) method
 
 
 Adds the specified attribute to the list of type's attributes.
@@ -24,7 +24,7 @@ void System::TypeInfo::AddAttribute(const ObjectPtr &attribute)
 
 ## See Also
 
-* Class [SmartPtr](../../smartptr/)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](../smartptr/)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

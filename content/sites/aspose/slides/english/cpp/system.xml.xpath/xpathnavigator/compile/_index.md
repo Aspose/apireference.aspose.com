@@ -6,7 +6,7 @@ type: docs
 weight: 768
 url: /cpp/system.xml.xpath/xpathnavigator/compile/
 ---
-## XPathNavigator::Compile([String](../../../system/string/)) method
+## XPathNavigator::Compile(String) method
 
 
 Compiles a string representing an [XPath](../../) expression and returns an [XPathExpression](../../xpathexpression/) object.
@@ -28,9 +28,9 @@ An [XPathExpression](../../xpathexpression/) object representing the [XPath](../
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XPathExpression](../../xpathexpression/)
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XPathExpression](../xpathexpression/)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

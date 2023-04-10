@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathparagraph/
 Mathematical paragraph that is a container for mathematical blocks ([IMathBlock](../imathblock/))
 
 ```cpp
-class MathParagraph : public Aspose::Slides::MathText::IMathParagraph,
-                      public Aspose::Slides::IDOMObject
+class MathParagraph : public Aspose::Slides::MathText::IMathParagraph,                      public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

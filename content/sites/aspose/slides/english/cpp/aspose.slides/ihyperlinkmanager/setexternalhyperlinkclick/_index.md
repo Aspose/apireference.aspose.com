@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/ihyperlinkmanager/setexternalhyperlinkclick/
 ---
-## IHyperlinkManager::SetExternalHyperlinkClick([System::String](../../../system/string/)) method
+## IHyperlinkManager::SetExternalHyperlinkClick(System::String) method
 
 
 Set external hyperlink on click.
@@ -28,9 +28,9 @@ virtual System::SharedPtr<IHyperlink> Aspose::Slides::IHyperlinkManager::SetExte
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHyperlink](../../ihyperlink/)
-* Class [String](../../../system/string/)
-* Class [IHyperlinkManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHyperlink](../ihyperlink/)
+* Class [String](../../system/string/)
+* Class [IHyperlinkManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

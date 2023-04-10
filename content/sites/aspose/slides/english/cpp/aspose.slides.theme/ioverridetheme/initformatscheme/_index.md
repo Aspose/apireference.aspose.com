@@ -18,6 +18,6 @@ virtual void Aspose::Slides::Theme::IOverrideTheme::InitFormatScheme()=0
 
 ## See Also
 
-* Class [IOverrideTheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IOverrideTheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

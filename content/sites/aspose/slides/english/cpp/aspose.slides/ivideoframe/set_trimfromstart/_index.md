@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides/ivideoframe/set_trimfromstart/
 ---
-## IVideoFrame::set_TrimFromStart(**float**) method
+## IVideoFrame::set_TrimFromStart(float) method
 
 
 Trim start [ms]
@@ -36,6 +36,6 @@ videoFrame->set_TrimFromEnd(2000.0f);
 
 ## See Also
 
-* Class [IVideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IVideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

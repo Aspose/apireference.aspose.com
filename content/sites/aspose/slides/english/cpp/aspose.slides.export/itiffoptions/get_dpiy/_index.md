@@ -17,6 +17,6 @@ virtual uint32_t Aspose::Slides::Export::ITiffOptions::get_DpiY()=0
 
 ## See Also
 
-* Class [ITiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

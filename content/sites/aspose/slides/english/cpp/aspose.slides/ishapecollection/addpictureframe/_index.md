@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.slides/ishapecollection/addpictureframe/
 ---
-## IShapeCollection::AddPictureFrame([ShapeType](../../shapetype/), **float**, **float**, **float**, **float**, [System::SharedPtr](../../../system/sharedptr/)\<[IPPImage](../../ippimage/)\>) method
+## IShapeCollection::AddPictureFrame(ShapeType, float, float, float, float, System::SharedPtr\<IPPImage\>) method
 
 
 Creates a new [PictureFrame](../../pictureframe/) and adds it to the end of the collection.
@@ -53,10 +53,10 @@ Created [PictureFrame](../../pictureframe/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPictureFrame](../../ipictureframe/)
-* Enum [ShapeType](../../shapetype/)
-* Class [IPPImage](../../ippimage/)
-* Class [IShapeCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ShapeType](../shapetype/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPictureFrame](../ipictureframe/)
+* Class [IPPImage](../ippimage/)
+* Class [IShapeCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

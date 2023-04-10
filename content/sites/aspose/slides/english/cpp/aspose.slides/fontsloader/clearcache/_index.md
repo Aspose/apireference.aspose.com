@@ -21,6 +21,6 @@ static void Aspose::Slides::FontsLoader::ClearCache()
 This method needs to clear cache with custom fonts defined by user.
 ## See Also
 
-* Class [FontsLoader](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FontsLoader](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

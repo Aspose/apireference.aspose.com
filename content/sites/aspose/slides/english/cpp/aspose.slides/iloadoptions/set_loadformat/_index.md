@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/iloadoptions/set_loadformat/
 ---
-## ILoadOptions::set_LoadFormat([Aspose::Slides::LoadFormat](../../loadformat/)) method
+## ILoadOptions::set_LoadFormat(Aspose::Slides::LoadFormat) method
 
 
 Sets format of a presentation to load. Write [Slides::LoadFormat](../../loadformat/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ILoadOptions::set_LoadFormat(Aspose::Slides::LoadFo
 
 ## See Also
 
-* Enum [LoadFormat](../../loadformat/)
-* Class [ILoadOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LoadFormat](../loadformat/)
+* Class [ILoadOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

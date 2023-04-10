@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaexternal/set_schemalocation/
 ---
-## XmlSchemaExternal::set_SchemaLocation(const [String](../../../system/string/)\&) method
+## XmlSchemaExternal::set_SchemaLocation(const String\&) method
 
 
 Sets the Uniform Resource Identifier (URI) location for the schema, which tells the schema processor where the schema physically resides.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaExternal::set_SchemaLocation(const String &va
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaExternal](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaExternal](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

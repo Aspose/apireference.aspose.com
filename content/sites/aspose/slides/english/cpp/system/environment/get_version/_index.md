@@ -17,7 +17,7 @@ static Version System::Environment::get_Version()
 
 ## See Also
 
-* Class [Version](../../version/)
-* Struct [Environment](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Version](../version/)
+* Struct [Environment](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

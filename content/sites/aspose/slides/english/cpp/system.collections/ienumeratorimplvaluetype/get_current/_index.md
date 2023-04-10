@@ -22,8 +22,8 @@ Currently referenced element copy.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IEnumeratorImplValueType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IEnumeratorImplValueType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

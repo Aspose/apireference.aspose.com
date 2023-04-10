@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net/socketaddress/idx_set/
 ---
-## SocketAddress::idx_set(**int32_t**, **uint8_t**) method
+## SocketAddress::idx_set(int32_t, uint8_t) method
 
 
 Sets a value of the underlying buffer at the specified index.
@@ -25,6 +25,6 @@ void System::Net::SocketAddress::idx_set(int32_t offset, uint8_t value)
 
 ## See Also
 
-* Class [SocketAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SocketAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

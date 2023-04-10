@@ -17,6 +17,6 @@ System::Drawing::SizeF::operator PointF() const
 
 ## See Also
 
-* Class [SizeF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SizeF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

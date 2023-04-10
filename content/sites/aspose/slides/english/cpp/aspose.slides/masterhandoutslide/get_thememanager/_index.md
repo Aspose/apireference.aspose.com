@@ -17,8 +17,8 @@ System::SharedPtr<Theme::IMasterThemeManager> Aspose::Slides::MasterHandoutSlide
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterThemeManager](../../../aspose.slides.theme/imasterthememanager/)
-* Class [MasterHandoutSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterThemeManager](../../aspose.slides.theme/imasterthememanager/)
+* Class [MasterHandoutSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

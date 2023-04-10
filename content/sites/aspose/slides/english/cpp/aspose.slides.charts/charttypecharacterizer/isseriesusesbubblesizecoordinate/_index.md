@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides.charts/charttypecharacterizer/isseriesusesbubblesizecoordinate/
 ---
-## ChartTypeCharacterizer::IsSeriesUsesBubbleSizeCoordinate([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::IsSeriesUsesBubbleSizeCoordinate(ChartType) method
 
 
 Returns if bubble size coordinates can be used for specified series type.
@@ -28,7 +28,7 @@ True if can be used, otherwise false.
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

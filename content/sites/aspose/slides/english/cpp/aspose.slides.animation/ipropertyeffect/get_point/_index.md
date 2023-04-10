@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides.animation/ipropertyeffect/get_point/
 ---
-## IPropertyEffect::get_Point(**int32_t**) method
+## IPropertyEffect::get_Point(int32_t) method
 
 
 Returns a point of the animation at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPoint> Aspose::Slides::Animation::IPropertyEffect::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPoint](../../ipoint/)
-* Class [IPropertyEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPoint](../ipoint/)
+* Class [IPropertyEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual System::Collections::Generic::ReverseEnumerator<Container, Element>::~Re
 
 ## See Also
 
-* Class [ReverseEnumerator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ReverseEnumerator](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

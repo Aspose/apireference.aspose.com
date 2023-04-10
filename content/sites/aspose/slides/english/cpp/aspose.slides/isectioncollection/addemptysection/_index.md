@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/isectioncollection/addemptysection/
 ---
-## ISectionCollection::AddEmptySection([System::String](../../../system/string/), **int32_t**) method
+## ISectionCollection::AddEmptySection(System::String, int32_t) method
 
 
 Add empty section to specified position of the collection.
@@ -29,9 +29,9 @@ Added section.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISection](../../isection/)
-* Class [String](../../../system/string/)
-* Class [ISectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISection](../isection/)
+* Class [String](../../system/string/)
+* Class [ISectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

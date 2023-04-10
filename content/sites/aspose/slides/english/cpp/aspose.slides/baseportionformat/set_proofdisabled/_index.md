@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides/baseportionformat/set_proofdisabled/
 ---
-## BasePortionFormat::set_ProofDisabled([NullableBool](../../nullablebool/)) method
+## BasePortionFormat::set_ProofDisabled(NullableBool) method
 
 
 Determines whether the text shouldn't be proofed. No inheritance applied. Write [NullableBool](../../nullablebool/).
@@ -17,7 +17,7 @@ void Aspose::Slides::BasePortionFormat::set_ProofDisabled(NullableBool value) ov
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [BasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [BasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

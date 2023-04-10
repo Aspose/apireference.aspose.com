@@ -22,8 +22,8 @@ Pointer to containing list (if any) or null.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [LinkedList](../../linkedlist/)
-* Class [LinkedListNode](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [LinkedList](../linkedlist/)
+* Class [LinkedListNode](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

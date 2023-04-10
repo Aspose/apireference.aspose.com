@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/portioncollection/idx_get/
 ---
-## PortionCollection::idx_get(**int32_t**) method
+## PortionCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index.
@@ -17,8 +17,8 @@ System::SharedPtr<IPortion> Aspose::Slides::PortionCollection::idx_get(int32_t i
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPortion](../../iportion/)
-* Class [PortionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPortion](../iportion/)
+* Class [PortionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

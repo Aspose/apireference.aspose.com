@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.mathtext/imathnaryoperatorproperties/set_hidesuperscript/
 ---
-## IMathNaryOperatorProperties::set_HideSuperscript(**bool**) method
+## IMathNaryOperatorProperties::set_HideSuperscript(bool) method
 
 
 Hide Superscript
@@ -26,6 +26,6 @@ naryOperator->set_HideSuperscript(true);
 
 ## See Also
 
-* Class [IMathNaryOperatorProperties](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMathNaryOperatorProperties](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

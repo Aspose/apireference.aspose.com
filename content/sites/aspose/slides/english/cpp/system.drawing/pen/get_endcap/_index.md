@@ -17,7 +17,7 @@ Drawing2D::LineCap System::Drawing::Pen::get_EndCap() const
 
 ## See Also
 
-* Enum [LineCap](../../../system.drawing.drawing2d/linecap/)
-* Class [Pen](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineCap](../../system.drawing.drawing2d/linecap/)
+* Class [Pen](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

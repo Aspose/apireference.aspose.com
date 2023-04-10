@@ -28,7 +28,7 @@ One of the values of UnicodeCategory enum representing the Unicode category to w
 
 ## See Also
 
-* Enum [UnicodeCategory](../../../system.globalization/unicodecategory/)
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [UnicodeCategory](../../system.globalization/unicodecategory/)
+* Class [Char](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

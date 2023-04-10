@@ -6,7 +6,7 @@ type: docs
 weight: 742
 url: /cpp/aspose.slides.charts/iaxis/set_position/
 ---
-## IAxis::set_Position([AxisPositionType](../../axispositiontype/)) method
+## IAxis::set_Position(AxisPositionType) method
 
 
 Represents position of axis. Write [AxisPositionType](../../axispositiontype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_Position(AxisPositionType value)
 
 ## See Also
 
-* Enum [AxisPositionType](../../axispositiontype/)
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [AxisPositionType](../axispositiontype/)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

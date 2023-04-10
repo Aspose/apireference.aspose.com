@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/graphicalobjectlock/set_positionlocked/
 ---
-## GraphicalObjectLock::set_PositionLocked(**bool**) method
+## GraphicalObjectLock::set_PositionLocked(bool) method
 
 
 Determines whether moving this shape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::GraphicalObjectLock::set_PositionLocked(bool value) overrid
 
 ## See Also
 
-* Class [GraphicalObjectLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GraphicalObjectLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<IFontScheme> Aspose::Slides::Theme::Theme::get_FontScheme() ov
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontScheme](../../ifontscheme/)
-* Class [Theme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontScheme](../ifontscheme/)
+* Class [Theme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

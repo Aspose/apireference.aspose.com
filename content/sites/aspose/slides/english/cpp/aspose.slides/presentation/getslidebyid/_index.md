@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.slides/presentation/getslidebyid/
 ---
-## Presentation::GetSlideById(**uint32_t**) method
+## Presentation::GetSlideById(uint32_t) method
 
 
 Returns a [Slide](../../slide/), [MasterSlide](../../masterslide/) or [LayoutSlide](../../layoutslide/) by Id.
@@ -28,8 +28,8 @@ System::SharedPtr<IBaseSlide> Aspose::Slides::Presentation::GetSlideById(uint32_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBaseSlide](../../ibaseslide/)
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBaseSlide](../ibaseslide/)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system/math/asin/
 ---
-## Math::Asin(**double**) method
+## Math::Asin(double) method
 
 
 Calculates the arcsin of the specified value.
@@ -28,6 +28,6 @@ Arcsin of **d**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

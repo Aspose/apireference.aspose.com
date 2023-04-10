@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.xsl/xsltsettings/set_enabledocumentfunction/
 ---
-## XsltSettings::set_EnableDocumentFunction(**bool**) method
+## XsltSettings::set_EnableDocumentFunction(bool) method
 
 
 Sets a value indicating whether to enable support for the XSLT **document()** function.
@@ -24,6 +24,6 @@ void System::Xml::Xsl::XsltSettings::set_EnableDocumentFunction(bool value)
 
 ## See Also
 
-* Class [XsltSettings](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XsltSettings](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

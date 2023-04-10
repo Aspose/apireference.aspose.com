@@ -6,7 +6,7 @@ type: docs
 weight: 833
 url: /cpp/aspose.slides.charts/chartseries/get_parentseries/
 ---
-## ChartSeries::get_ParentSeries(**int32_t**) method
+## ChartSeries::get_ParentSeries(int32_t) method
 
 
 Returns chart series in the parent series group at the specified index.
@@ -17,8 +17,8 @@ System::SharedPtr<IChartSeries> Aspose::Slides::Charts::ChartSeries::get_ParentS
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartSeries](../../ichartseries/)
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartSeries](../ichartseries/)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

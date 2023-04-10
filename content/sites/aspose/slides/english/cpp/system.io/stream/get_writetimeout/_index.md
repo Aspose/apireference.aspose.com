@@ -17,6 +17,6 @@ virtual int System::IO::Stream::get_WriteTimeout() const
 
 ## See Also
 
-* Class [Stream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Stream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

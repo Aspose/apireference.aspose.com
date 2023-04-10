@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Export::IHtmlGenerator::get_SlideImageSiz
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IHtmlGenerator](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IHtmlGenerator](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

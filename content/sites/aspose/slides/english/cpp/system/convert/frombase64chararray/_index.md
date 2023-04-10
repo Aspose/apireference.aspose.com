@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system/convert/frombase64chararray/
 ---
-## Convert::FromBase64CharArray(const [ArrayPtr](../../arrayptr/)\<char_t\>\&, int, int) method
+## Convert::FromBase64CharArray(const ArrayPtr\<char_t\>\&, int, int) method
 
 
 Decodes base-64 encoded data represented as a range in the array of Unicode characters.
@@ -30,7 +30,7 @@ A byte-array containing the decoded data
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Struct [Convert](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Struct [Convert](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

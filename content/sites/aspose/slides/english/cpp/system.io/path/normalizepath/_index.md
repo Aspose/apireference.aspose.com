@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.io/path/normalizepath/
 ---
-## Path::NormalizePath(const [String](../../../system/string/)\&) method
+## Path::NormalizePath(const String\&) method
 
 
 Normalizes the specified path.
@@ -28,7 +28,7 @@ The normalized path
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Path](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Path](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.net/icredentialsbyhost/getcredential/
 ---
-## ICredentialsByHost::GetCredential([String](../../../system/string/), **int32_t**, [String](../../../system/string/)) method
+## ICredentialsByHost::GetCredential(String, int32_t, String) method
 
 
 Returns credentials for the specified host and authentication type.
@@ -26,9 +26,9 @@ virtual System::SharedPtr<NetworkCredential> System::Net::ICredentialsByHost::Ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NetworkCredential](../../networkcredential/)
-* Class [String](../../../system/string/)
-* Class [ICredentialsByHost](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [NetworkCredential](../networkcredential/)
+* Class [String](../../system/string/)
+* Class [ICredentialsByHost](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

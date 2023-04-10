@@ -22,7 +22,7 @@ The SOAP header direction.
 
 ## See Also
 
-* Enum [SoapHeaderDirection](../../soapheaderdirection/)
-* Class [SoapHeaderAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SoapHeaderDirection](../soapheaderdirection/)
+* Class [SoapHeaderAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

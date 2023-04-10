@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/itiffoptions/set_dpix/
 ---
-## ITiffOptions::set_DpiX(**uint32_t**) method
+## ITiffOptions::set_DpiX(uint32_t) method
 
 
 Specifies the horizontal resolution in dots per inch. Write **uint32_t**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ITiffOptions::set_DpiX(uint32_t value)=0
 
 ## See Also
 
-* Class [ITiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

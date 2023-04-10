@@ -22,9 +22,9 @@ A collection of fieldnames in the 'no-cache' directive in the 'Cache-Control' he
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICollection](../../../system.collections.generic/icollection/)
-* Class [String](../../../system/string/)
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICollection](../../system.collections.generic/icollection/)
+* Class [String](../../system/string/)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

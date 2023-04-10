@@ -17,7 +17,7 @@ String System::OperatingSystem::get_ServicePack() const
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [OperatingSystem](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [OperatingSystem](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

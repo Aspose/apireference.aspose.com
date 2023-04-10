@@ -28,11 +28,6 @@ bool System::Globalization::KoreanCalendar::IsLeapMonth(int year, int month, int
 
 True if specified month is leap, false otherwise.
 
-## See Also
-
-* Class [KoreanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## KoreanCalendar::IsLeapMonth(int, int) const method
 
 
@@ -54,11 +49,6 @@ virtual bool System::Globalization::Calendar::IsLeapMonth(int year, int month) c
 
 True if specified month is leap, false otherwise.
 
-## See Also
-
-* Class [KoreanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## KoreanCalendar::IsLeapMonth(int, int, int) const method
 
 
@@ -83,6 +73,6 @@ True if specified month is leap, false otherwise.
 
 ## See Also
 
-* Class [KoreanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [KoreanCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

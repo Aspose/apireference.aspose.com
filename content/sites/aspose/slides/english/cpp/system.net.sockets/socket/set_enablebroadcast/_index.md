@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/system.net.sockets/socket/set_enablebroadcast/
 ---
-## Socket::set_EnableBroadcast(**bool**) method
+## Socket::set_EnableBroadcast(bool) method
 
 
 Sets a value that indicates if the socket allows broadcast packets.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_EnableBroadcast(bool value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

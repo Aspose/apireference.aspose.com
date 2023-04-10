@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.lowcode/compress/compressembeddedfonts/
 ---
-## Compress::CompressEmbeddedFonts([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>) method
+## Compress::CompressEmbeddedFonts(System::SharedPtr\<Presentation\>) method
 
 
 Makes compression of the [Presentation](../../../aspose.slides/presentation/) by removing unused characters from embedded fonts.
@@ -35,8 +35,8 @@ pres->Save(u"pres-out.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Presentation](../../../aspose.slides/presentation/)
-* Class [Compress](../)
-* Namespace [Aspose::Slides::LowCode](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Presentation](../../aspose.slides/presentation/)
+* Class [Compress](./)
+* Namespace [Aspose::Slides::LowCode](../)
+* Library [Aspose.Slides](../../)

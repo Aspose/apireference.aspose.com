@@ -17,6 +17,6 @@ System::Drawing::Text::InstalledFontCollection::InstalledFontCollection()
 
 ## See Also
 
-* Class [InstalledFontCollection](../)
-* Namespace [System::Drawing::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [InstalledFontCollection](./)
+* Namespace [System::Drawing::Text](../)
+* Library [Aspose.Slides](../../)

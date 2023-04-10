@@ -22,7 +22,7 @@ The HTTP version.
 
 ## See Also
 
-* Class [Version](../../../system/version/)
-* Class [ServicePoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Version](../../system/version/)
+* Class [ServicePoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

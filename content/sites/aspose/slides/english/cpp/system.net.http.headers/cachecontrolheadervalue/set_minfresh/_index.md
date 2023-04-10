@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_minfresh/
 ---
-## CacheControlHeaderValue::set_MinFresh([Nullable](../../../system/nullable/)\<[TimeSpan](../../../system/timespan/)\>) method
+## CacheControlHeaderValue::set_MinFresh(Nullable\<TimeSpan\>) method
 
 
 Sets the value that determines the freshness lifetime.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::CacheControlHeaderValue::set_MinFresh(Nullable<
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [TimeSpan](../../../system/timespan/)
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [TimeSpan](../../system/timespan/)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

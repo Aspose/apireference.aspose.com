@@ -17,7 +17,7 @@ virtual System::Drawing::Color Aspose::Slides::Effects::IDuotoneEffectiveData::g
 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [IDuotoneEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [IDuotoneEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

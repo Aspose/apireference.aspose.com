@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/chartcategory/
 Represents chart categories.
 
 ```cpp
-class ChartCategory : public Aspose::Slides::Charts::IChartCategory,
-                      public Aspose::Slides::IDOMObject
+class ChartCategory : public Aspose::Slides::Charts::IChartCategory,                      public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

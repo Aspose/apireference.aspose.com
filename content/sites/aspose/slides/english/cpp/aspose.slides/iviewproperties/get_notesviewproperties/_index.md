@@ -17,8 +17,8 @@ virtual System::SharedPtr<ICommonSlideViewProperties> Aspose::Slides::IViewPrope
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommonSlideViewProperties](../../icommonslideviewproperties/)
-* Class [IViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommonSlideViewProperties](../icommonslideviewproperties/)
+* Class [IViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

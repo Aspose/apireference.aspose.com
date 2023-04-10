@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system/timezoneinfo/transitiontimetodatetime/
 ---
-## TimeZoneInfo::TransitionTimeToDateTime(**int32_t**, const **TransitionTime**\&) method
+## TimeZoneInfo::TransitionTimeToDateTime(int32_t, const TransitionTime\&) method
 
 
 Helper function that converts a year and **TransitionTime** into a [DateTime](../../datetime/).
@@ -17,7 +17,7 @@ static DateTime System::TimeZoneInfo::TransitionTimeToDateTime(int32_t year, con
 
 ## See Also
 
-* Class [DateTime](../../datetime/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../datetime/)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

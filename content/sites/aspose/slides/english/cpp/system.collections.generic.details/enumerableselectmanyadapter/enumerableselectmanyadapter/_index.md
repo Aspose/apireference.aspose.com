@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic.details/enumerableselectmanyadapter/enumerableselectmanyadapter/
 ---
-## EnumerableSelectManyAdapter::EnumerableSelectManyAdapter([SharedPtr](../../../system/sharedptr/)\<[IEnumerable](../../../system.collections.generic/ienumerable/)\<Source\>\>, const [Func](../../../system/func/)\<Source, [SharedPtr](../../../system/sharedptr/)\<[IEnumerable](../../../system.collections.generic/ienumerable/)\<Result\>\>\>\&) constructor
+## EnumerableSelectManyAdapter::EnumerableSelectManyAdapter(SharedPtr\<IEnumerable\<Source\>\>, const Func\<Source, SharedPtr\<IEnumerable\<Result\>\>\>\&) constructor
 
 
 
@@ -17,9 +17,9 @@ System::Collections::Generic::Details::EnumerableSelectManyAdapter<Source, Resul
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
-* Class [Func](../../../system/func/)
-* Class [EnumerableSelectManyAdapter](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
+* Class [Func](../../system/func/)
+* Class [EnumerableSelectManyAdapter](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

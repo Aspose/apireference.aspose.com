@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/videoframe/set_hideatshowing/
 ---
-## VideoFrame::set_HideAtShowing(**bool**) method
+## VideoFrame::set_HideAtShowing(bool) method
 
 
 Determines whether a [VideoFrame](../) is hidden. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::VideoFrame::set_HideAtShowing(bool value) override
 
 ## See Also
 
-* Class [VideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [VideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

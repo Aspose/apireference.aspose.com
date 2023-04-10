@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.drawing/rectangle/set_size/
 ---
-## Rectangle::set_Size([Size](../../size/)) method
+## Rectangle::set_Size(Size) method
 
 
 Sets the width and height of the rectangle represented by the current object.
@@ -24,7 +24,7 @@ void System::Drawing::Rectangle::set_Size(Size value)
 
 ## See Also
 
-* Class [Size](../../size/)
-* Class [Rectangle](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Size](../size/)
+* Class [Rectangle](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_OutOfMemoryException::GetType() const o
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [Details_OutOfMemoryException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [Details_OutOfMemoryException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

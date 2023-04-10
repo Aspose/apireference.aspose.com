@@ -22,6 +22,6 @@ Hash code value as calculated by corresponding class.
 
 ## See Also
 
-* Class [HttpMethod](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpMethod](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/portioncollection/indexof/
 ---
-## PortionCollection::IndexOf([System::SharedPtr](../../../system/sharedptr/)\<[IPortion](../../iportion/)\>) method
+## PortionCollection::IndexOf(System::SharedPtr\<IPortion\>) method
 
 
 Determines the index of a specific item in the [IList](../../../system.collections.generic/ilist/).
@@ -28,8 +28,8 @@ The index of *item*  if found in the list; otherwise, -1.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPortion](../../iportion/)
-* Class [PortionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPortion](../iportion/)
+* Class [PortionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

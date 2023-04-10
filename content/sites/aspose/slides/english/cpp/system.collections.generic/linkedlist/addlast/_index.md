@@ -26,14 +26,7 @@ SharedPtr<LinkedListNode<T>> System::Collections::Generic::LinkedList<T>::AddLas
 
 New node.
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [LinkedListNode](../../linkedlistnode/)
-* Class [LinkedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
-## LinkedList::AddLast(const [SharedPtr](../../../system/sharedptr/)\<[LinkedListNode](../../linkedlistnode/)\<T\>\>\&) method
+## LinkedList::AddLast(const SharedPtr\<LinkedListNode\<T\>\>\&) method
 
 
 Adds **newNode** to the end of the list.
@@ -51,8 +44,8 @@ void System::Collections::Generic::LinkedList<T>::AddLast(const SharedPtr<Linked
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [LinkedListNode](../../linkedlistnode/)
-* Class [LinkedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [LinkedListNode](../linkedlistnode/)
+* Class [LinkedList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

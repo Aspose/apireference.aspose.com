@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.security.cryptography/hashalgorithm/transformfinalblock/
 ---
-## HashAlgorithm::TransformFinalBlock([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int, int) method
+## HashAlgorithm::TransformFinalBlock(ArrayPtr\<uint8_t\>, int, int) method
 
 
 Processes last block of data and calculates hash.
@@ -30,7 +30,7 @@ Hash calculated for the whole data sequence.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [HashAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [HashAlgorithm](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

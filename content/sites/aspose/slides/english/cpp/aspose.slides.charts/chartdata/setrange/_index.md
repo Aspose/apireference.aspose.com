@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides.charts/chartdata/setrange/
 ---
-## ChartData::SetRange([System::String](../../../system/string/)) method
+## ChartData::SetRange(System::String) method
 
 
 Set chart data range. Series and categories will be updated based on new data range. If amount of series in data range greater than count of series in the chart data then additional series with the same type as a last series in the current collection will be added to the end of the collection.
@@ -24,7 +24,7 @@ void Aspose::Slides::Charts::ChartData::SetRange(System::String formula) overrid
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ChartData](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ChartData](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net/servicepointmanager/set_defaultconnectionlimit/
 ---
-## ServicePointManager::set_DefaultConnectionLimit(**int32_t**) method
+## ServicePointManager::set_DefaultConnectionLimit(int32_t) method
 
 
 Sets the maximum number of concurrent connections that are allowed by the ServicePoint-class instances.
@@ -24,6 +24,6 @@ static void System::Net::ServicePointManager::set_DefaultConnectionLimit(int32_t
 
 ## See Also
 
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

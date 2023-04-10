@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system/math/sinh/
 ---
-## Math::Sinh(**double**) method
+## Math::Sinh(double) method
 
 
 Calculates the hyperbolic sine of the specified value.
@@ -28,6 +28,6 @@ The hyperbolic sine of **value**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

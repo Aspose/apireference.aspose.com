@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/system.drawing/image/fromfile/
 ---
-## Image::FromFile(const [String](../../../system/string/)\&, **bool**) method
+## Image::FromFile(const String\&, bool) method
 
 
 Creates an [Image](../) object from the specified file.
@@ -29,9 +29,8 @@ A shared pointer to the created [Image](../) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Image](../)
-* Class [String](../../../system/string/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Image](./)
+* Class [String](../../system/string/)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

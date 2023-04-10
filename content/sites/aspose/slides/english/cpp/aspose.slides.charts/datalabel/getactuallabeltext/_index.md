@@ -22,7 +22,7 @@ System::String Aspose::Slides::Charts::DataLabel::GetActualLabelText() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DataLabel](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DataLabel](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

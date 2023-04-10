@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/imasterslidecollection/idx_get/
 ---
-## IMasterSlideCollection::idx_get(**int32_t**) method
+## IMasterSlideCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [IMasterSlide](../../imasterslide/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IMasterSlide> Aspose::Slides::IMasterSlideCollection::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterSlide](../../imasterslide/)
-* Class [IMasterSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterSlide](../imasterslide/)
+* Class [IMasterSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

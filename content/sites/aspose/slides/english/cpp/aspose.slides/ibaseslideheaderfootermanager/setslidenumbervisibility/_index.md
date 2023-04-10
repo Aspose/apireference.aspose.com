@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/ibaseslideheaderfootermanager/setslidenumbervisibility/
 ---
-## IBaseSlideHeaderFooterManager::SetSlideNumberVisibility(**bool**) method
+## IBaseSlideHeaderFooterManager::SetSlideNumberVisibility(bool) method
 
 
 Changes slide page number placeholder visibility.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IBaseSlideHeaderFooterManager::SetSlideNumberVisibi
 
 ## See Also
 
-* Class [IBaseSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBaseSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

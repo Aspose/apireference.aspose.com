@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.security.cryptography/hashalgorithmname/fromoid/
 ---
-## HashAlgorithmName::FromOid(const [String](../../../system/string/)\&) method
+## HashAlgorithmName::FromOid(const String\&) method
 
 
 Create [HashAlgorithmName](../) from OID-value.
@@ -28,8 +28,7 @@ Hash algorithm name.
 
 ## See Also
 
-* Struct [HashAlgorithmName](../)
-* Class [String](../../../system/string/)
-* Struct [HashAlgorithmName](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Struct [HashAlgorithmName](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

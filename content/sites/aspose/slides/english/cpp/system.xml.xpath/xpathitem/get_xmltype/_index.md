@@ -22,8 +22,8 @@ The XmlSchemaType for the item.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaType](../../../system.xml.schema/xmlschematype/)
-* Class [XPathItem](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaType](../../system.xml.schema/xmlschematype/)
+* Class [XPathItem](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

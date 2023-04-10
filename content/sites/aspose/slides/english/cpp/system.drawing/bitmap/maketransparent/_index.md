@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.drawing/bitmap/maketransparent/
 ---
-## Bitmap::MakeTransparent([Color](../../color/)) method
+## Bitmap::MakeTransparent(Color) method
 
 
 Changes the color of all pixels with the specified color to transparent.
@@ -24,7 +24,7 @@ void System::Drawing::Bitmap::MakeTransparent(Color transparent_color=Color::get
 
 ## See Also
 
-* Class [Color](../../color/)
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../color/)
+* Class [Bitmap](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

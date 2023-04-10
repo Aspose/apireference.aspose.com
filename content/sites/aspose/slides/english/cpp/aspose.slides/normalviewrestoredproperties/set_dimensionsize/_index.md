@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/normalviewrestoredproperties/set_dimensionsize/
 ---
-## NormalViewRestoredProperties::set_DimensionSize(**float**) method
+## NormalViewRestoredProperties::set_DimensionSize(float) method
 
 
 Specifies the size of the slide region (width when a child of RestoredTop, height when a child of RestoredLeft). Write **float**.
@@ -18,6 +18,6 @@ void Aspose::Slides::NormalViewRestoredProperties::set_DimensionSize(float value
 
 ## See Also
 
-* Class [NormalViewRestoredProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NormalViewRestoredProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

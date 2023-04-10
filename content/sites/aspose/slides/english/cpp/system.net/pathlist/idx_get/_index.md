@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net/pathlist/idx_get/
 ---
-## PathList::idx_get([String](../../../system/string/)) method
+## PathList::idx_get(String) method
 
 
 Gets the cookie collection by specified path.
@@ -28,9 +28,9 @@ The cookie collection by specified path.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CookieCollection](../../cookiecollection/)
-* Class [String](../../../system/string/)
-* Class [PathList](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CookieCollection](../cookiecollection/)
+* Class [String](../../system/string/)
+* Class [PathList](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual TextStrikethroughType Aspose::Slides::IBasePortionFormat::get_Strikethro
 
 ## See Also
 
-* Enum [TextStrikethroughType](../../textstrikethroughtype/)
-* Class [IBasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextStrikethroughType](../textstrikethroughtype/)
+* Class [IBasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

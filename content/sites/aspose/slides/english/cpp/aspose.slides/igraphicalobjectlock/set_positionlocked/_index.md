@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/igraphicalobjectlock/set_positionlocked/
 ---
-## IGraphicalObjectLock::set_PositionLocked(**bool**) method
+## IGraphicalObjectLock::set_PositionLocked(bool) method
 
 
 Determines whether moving this shape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IGraphicalObjectLock::set_PositionLocked(bool value
 
 ## See Also
 
-* Class [IGraphicalObjectLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGraphicalObjectLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

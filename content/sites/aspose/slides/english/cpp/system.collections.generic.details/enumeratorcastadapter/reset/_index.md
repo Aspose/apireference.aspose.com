@@ -17,6 +17,6 @@ void System::Collections::Generic::Details::EnumeratorCastAdapter<Source, Result
 
 ## See Also
 
-* Class [EnumeratorCastAdapter](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EnumeratorCastAdapter](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

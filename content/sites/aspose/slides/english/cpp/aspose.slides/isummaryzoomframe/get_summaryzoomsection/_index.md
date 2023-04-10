@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/isummaryzoomframe/get_summaryzoomsection/
 ---
-## ISummaryZoomFrame::get_SummaryZoomSection(**int32_t**) method
+## ISummaryZoomFrame::get_SummaryZoomSection(int32_t) method
 
 
 Returns the Summary Zoom [Section](../../section/) object in the slide at the specified index. Read-only [Aspose::Slides::ISummaryZoomSection](../../isummaryzoomsection/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISummaryZoomSection> Aspose::Slides::ISummaryZoomFrame
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISummaryZoomSection](../../isummaryzoomsection/)
-* Class [ISummaryZoomFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISummaryZoomSection](../isummaryzoomsection/)
+* Class [ISummaryZoomFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.io/stream/set_position/
 ---
-## Stream::set_Position(**int64_t**) method
+## Stream::set_Position(int64_t) method
 
 
 Sets the stream's position.
@@ -24,6 +24,6 @@ virtual void System::IO::Stream::set_Position(int64_t value)=0
 
 ## See Also
 
-* Class [Stream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Stream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ System::Xml::XPath::XPathNodeIterator::XPathNodeIterator()
 
 ## See Also
 
-* Class [XPathNodeIterator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XPathNodeIterator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ int32_t Aspose::Slides::LayoutSlideCollection::get_Count() override
 
 ## See Also
 
-* Class [LayoutSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LayoutSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

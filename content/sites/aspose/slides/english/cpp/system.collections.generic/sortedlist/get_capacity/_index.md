@@ -22,6 +22,6 @@ Actual capacity of current list.
 
 ## See Also
 
-* Class [SortedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SortedList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

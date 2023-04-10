@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/ipictureframelock/set_aspectratiolocked/
 ---
-## IPictureFrameLock::set_AspectRatioLocked(**bool**) method
+## IPictureFrameLock::set_AspectRatioLocked(bool) method
 
 
 Determines whether a shape have to preserve aspect ratio on resizing. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFrameLock::set_AspectRatioLocked(bool value
 
 ## See Also
 
-* Class [IPictureFrameLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPictureFrameLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

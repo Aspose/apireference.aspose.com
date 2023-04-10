@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/system.xml.xpath/xpathnavigator/movetonamespace/
 ---
-## XPathNavigator::MoveToNamespace([String](../../../system/string/)) method
+## XPathNavigator::MoveToNamespace(String) method
 
 
 Moves the [XPathNavigator](../) to the namespace node with the specified namespace prefix.
@@ -28,7 +28,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToNamespace(String name)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

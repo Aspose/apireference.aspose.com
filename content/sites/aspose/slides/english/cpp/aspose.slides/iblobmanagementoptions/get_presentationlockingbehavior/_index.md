@@ -33,7 +33,7 @@ IO::File::Delete(u"pres.pptx");
 
 ## See Also
 
-* Enum [PresentationLockingBehavior](../../presentationlockingbehavior/)
-* Class [IBlobManagementOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PresentationLockingBehavior](../presentationlockingbehavior/)
+* Class [IBlobManagementOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

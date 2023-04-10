@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IShape::RemovePlaceholder()=0
 
 ## See Also
 
-* Class [IShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

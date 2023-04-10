@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Animation::MotionPath::get_Count() override
 
 ## See Also
 
-* Class [MotionPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MotionPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

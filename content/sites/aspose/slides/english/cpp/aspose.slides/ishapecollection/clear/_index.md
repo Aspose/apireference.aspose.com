@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IShapeCollection::Clear()=0
 
 ## See Also
 
-* Class [IShapeCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IShapeCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

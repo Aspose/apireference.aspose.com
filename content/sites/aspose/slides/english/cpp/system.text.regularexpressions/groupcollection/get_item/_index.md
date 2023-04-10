@@ -26,13 +26,7 @@ GroupPtr System::Text::RegularExpressions::GroupCollection::get_Item(int index) 
 
 [Group](../../group/) with specified index.
 
-## See Also
-
-* Typedef [GroupPtr](../../groupptr/)
-* Class [GroupCollection](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
-## GroupCollection::get_Item(const [String](../../../system/string/)\&) const method
+## GroupCollection::get_Item(const String\&) const method
 
 
 [Group](../../group/) accessor.
@@ -54,8 +48,8 @@ GroupPtr System::Text::RegularExpressions::GroupCollection::get_Item(const Strin
 
 ## See Also
 
-* Typedef [GroupPtr](../../groupptr/)
-* Class [String](../../../system/string/)
-* Class [GroupCollection](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [GroupPtr](../groupptr/)
+* Class [GroupCollection](./)
+* Class [String](../../system/string/)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

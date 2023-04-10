@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/aspose.slides.charts/chart/set_hasroundedcorners/
 ---
-## Chart::set_HasRoundedCorners(**bool**) method
+## Chart::set_HasRoundedCorners(bool) method
 
 
 Specifies the chart area shall have rounded corners. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Chart::set_HasRoundedCorners(bool value) override
 
 ## See Also
 
-* Class [Chart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Chart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

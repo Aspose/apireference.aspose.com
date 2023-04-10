@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections/invalidatabletracker/invalidatabletracker/
 ---
-## InvalidatableTracker::InvalidatableTracker([Invalidatable](../../invalidatable/) *) constructor
+## InvalidatableTracker::InvalidatableTracker(Invalidatable *) constructor
 
 
 Constructs a tracker object.
@@ -24,7 +24,7 @@ System::Collections::InvalidatableTracker::InvalidatableTracker(Invalidatable *i
 
 ## See Also
 
-* Class [Invalidatable](../../invalidatable/)
-* Class [InvalidatableTracker](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Invalidatable](../invalidatable/)
+* Class [InvalidatableTracker](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

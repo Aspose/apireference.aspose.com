@@ -22,6 +22,6 @@ The scope identifier of the IPv6 address.
 
 ## See Also
 
-* Class [IPAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

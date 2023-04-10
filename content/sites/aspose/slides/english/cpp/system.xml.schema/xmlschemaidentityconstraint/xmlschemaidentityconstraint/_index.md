@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaIdentityConstraint::XmlSchemaIdentityConstraint()
 
 ## See Also
 
-* Class [XmlSchemaIdentityConstraint](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaIdentityConstraint](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

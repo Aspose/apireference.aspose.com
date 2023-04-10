@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.slides.effects/ireflection/set_skewvertical/
 ---
-## IReflection::set_SkewVertical(**double**) method
+## IReflection::set_SkewVertical(double) method
 
 
 Specifies the vertical skew angle. Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IReflection::set_SkewVertical(double value
 
 ## See Also
 
-* Class [IReflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IReflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

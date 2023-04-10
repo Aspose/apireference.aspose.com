@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITextFrame::JoinPortionsWithSameFormatting()=0
 
 ## See Also
 
-* Class [ITextFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITextFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

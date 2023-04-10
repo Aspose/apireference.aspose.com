@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlwritersettings/set_encoding/
 ---
-## XmlWriterSettings::set_Encoding(const [SharedPtr](../../../system/sharedptr/)\<[System::Text::Encoding](../../../system.text/encoding/)\>\&) method
+## XmlWriterSettings::set_Encoding(const SharedPtr\<System::Text::Encoding\>\&) method
 
 
 Sets the type of text encoding to use.
@@ -24,8 +24,8 @@ void System::Xml::XmlWriterSettings::set_Encoding(const SharedPtr<System::Text::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Encoding](../../../system.text/encoding/)
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Encoding](../../system.text/encoding/)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

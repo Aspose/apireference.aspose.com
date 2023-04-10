@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/lineformat/
 Represents format of a line.
 
 ```cpp
-class LineFormat : public Aspose::Slides::PVIObject,
-                   public Aspose::Slides::ILineFormat
+class LineFormat : public Aspose::Slides::PVIObject,                   public Aspose::Slides::ILineFormat
 ```
 
 ## Methods

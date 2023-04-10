@@ -17,8 +17,8 @@ System::SharedPtr<IMasterHandoutSlideHeaderFooterManager> Aspose::Slides::Master
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterHandoutSlideHeaderFooterManager](../../imasterhandoutslideheaderfootermanager/)
-* Class [MasterHandoutSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterHandoutSlideHeaderFooterManager](../imasterhandoutslideheaderfootermanager/)
+* Class [MasterHandoutSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

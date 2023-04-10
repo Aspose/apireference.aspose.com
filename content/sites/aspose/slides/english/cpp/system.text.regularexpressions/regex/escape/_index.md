@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.text.regularexpressions/regex/escape/
 ---
-## Regex::Escape(const [String](../../../system/string/)\&) method
+## Regex::Escape(const String\&) method
 
 
 Escapes special characters to use string as part of the pattern.
@@ -28,7 +28,7 @@ static String System::Text::RegularExpressions::Regex::Escape(const String &str)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Regex](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Regex](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

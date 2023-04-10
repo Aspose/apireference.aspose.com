@@ -17,7 +17,7 @@ CameraPresetType Aspose::Slides::Camera::get_CameraType() override
 
 ## See Also
 
-* Enum [CameraPresetType](../../camerapresettype/)
-* Class [Camera](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CameraPresetType](../camerapresettype/)
+* Class [Camera](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

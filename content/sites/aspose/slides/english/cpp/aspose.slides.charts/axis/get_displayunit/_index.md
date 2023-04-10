@@ -17,7 +17,7 @@ DisplayUnitType Aspose::Slides::Charts::Axis::get_DisplayUnit() override
 
 ## See Also
 
-* Enum [DisplayUnitType](../../displayunittype/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DisplayUnitType](../displayunittype/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

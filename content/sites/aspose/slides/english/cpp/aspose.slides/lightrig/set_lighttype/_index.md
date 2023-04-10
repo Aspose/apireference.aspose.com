@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/lightrig/set_lighttype/
 ---
-## LightRig::set_LightType([LightRigPresetType](../../lightrigpresettype/)) method
+## LightRig::set_LightType(LightRigPresetType) method
 
 
 Represents a preset light right that can be applied to a shape. The light rig represents a group of lights oriented in a specific way relative to a 3D scene. Write [LightRigPresetType](../../lightrigpresettype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::LightRig::set_LightType(LightRigPresetType value) override
 
 ## See Also
 
-* Enum [LightRigPresetType](../../lightrigpresettype/)
-* Class [LightRig](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LightRigPresetType](../lightrigpresettype/)
+* Class [LightRig](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

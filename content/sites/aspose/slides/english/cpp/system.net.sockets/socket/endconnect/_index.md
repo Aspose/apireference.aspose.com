@@ -6,7 +6,7 @@ type: docs
 weight: 599
 url: /cpp/system.net.sockets/socket/endconnect/
 ---
-## Socket::EndConnect([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
+## Socket::EndConnect(System::SharedPtr\<IAsyncResult\>) method
 
 
 Waits until the specified asynchronous connect operation completes.
@@ -24,8 +24,8 @@ void System::Net::Sockets::Socket::EndConnect(System::SharedPtr<IAsyncResult> as
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

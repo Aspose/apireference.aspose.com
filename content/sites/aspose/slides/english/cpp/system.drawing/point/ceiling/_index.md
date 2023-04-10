@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.drawing/point/ceiling/
 ---
-## Point::Ceiling(const [PointF](../../pointf/)\&) method
+## Point::Ceiling(const PointF\&) method
 
 
 Constructs a [Point](../) object from the specified [PointF](../../pointf/) object by rounding the [PointF](../../pointf/) object's X and Y coordinates values to the next higher integer values.
@@ -28,8 +28,7 @@ A [Point](../) object constructed from **point**
 
 ## See Also
 
-* Class [Point](../)
-* Class [PointF](../../pointf/)
-* Class [Point](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Point](./)
+* Class [PointF](../pointf/)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

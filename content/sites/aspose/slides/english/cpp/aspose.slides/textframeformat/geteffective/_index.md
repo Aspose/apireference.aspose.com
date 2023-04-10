@@ -41,8 +41,8 @@ Console::WriteLine(String(u"   Bottom: ") + effectiveTextFrameFormat->get_Margin
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITextFrameFormatEffectiveData](../../itextframeformateffectivedata/)
-* Class [TextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITextFrameFormatEffectiveData](../itextframeformateffectivedata/)
+* Class [TextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

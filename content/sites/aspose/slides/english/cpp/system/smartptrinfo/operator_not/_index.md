@@ -22,6 +22,6 @@ False if info object doesn't point to any pointer or if referenced pointer is nu
 
 ## See Also
 
-* Class [SmartPtrInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtrInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

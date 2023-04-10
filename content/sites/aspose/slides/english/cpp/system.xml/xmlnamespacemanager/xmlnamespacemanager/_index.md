@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.xml/xmlnamespacemanager/xmlnamespacemanager/
 ---
-## XmlNamespaceManager::XmlNamespaceManager(const [SharedPtr](../../../system/sharedptr/)\<[XmlNameTable](../../xmlnametable/)\>\&) constructor
+## XmlNamespaceManager::XmlNamespaceManager(const SharedPtr\<XmlNameTable\>\&) constructor
 
 
 Initializes a new instance of the [XmlNamespaceManager](../) class with the specified [XmlNameTable](../../xmlnametable/).
@@ -24,8 +24,8 @@ System::Xml::XmlNamespaceManager::XmlNamespaceManager(const SharedPtr<XmlNameTab
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNameTable](../../xmlnametable/)
-* Class [XmlNamespaceManager](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNameTable](../xmlnametable/)
+* Class [XmlNamespaceManager](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

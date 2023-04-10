@@ -20,12 +20,6 @@ iterator System::Collections::Generic::IEnumerable<T>::end()
 
 An iterator pointing right after the last element (if any) of the collection
 
-## See Also
-
-* Typedef [iterator](../iterator/)
-* Class [IEnumerable](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## IEnumerable::end() const method
 
 
@@ -42,7 +36,8 @@ An iterator pointing right after the last element (if any) of the const-qualifie
 
 ## See Also
 
-* Typedef [const_iterator](../const_iterator/)
-* Class [IEnumerable](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [iterator](./iterator/)
+* Typedef [const_iterator](./const_iterator/)
+* Class [IEnumerable](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

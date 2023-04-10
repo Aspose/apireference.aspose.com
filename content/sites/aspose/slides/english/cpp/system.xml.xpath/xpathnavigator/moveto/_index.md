@@ -6,7 +6,7 @@ type: docs
 weight: 664
 url: /cpp/system.xml.xpath/xpathnavigator/moveto/
 ---
-## XPathNavigator::MoveTo([SharedPtr](../../../system/sharedptr/)\<[XPathNavigator](../)\>) method
+## XPathNavigator::MoveTo(SharedPtr\<XPathNavigator\>) method
 
 
 When overridden in a derived class, moves the [XPathNavigator](../) to the same position as the specified [XPathNavigator](../).
@@ -28,8 +28,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveTo(SharedPtr<XPathNavigator
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XPathNavigator](../)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

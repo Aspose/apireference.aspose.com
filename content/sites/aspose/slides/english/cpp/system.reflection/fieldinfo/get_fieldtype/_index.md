@@ -22,7 +22,7 @@ Type of the field.
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [FieldInfo](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [FieldInfo](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

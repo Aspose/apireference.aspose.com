@@ -17,7 +17,7 @@ virtual TransitionInOutDirectionType Aspose::Slides::SlideShow::IFlyThroughTrans
 
 ## See Also
 
-* Enum [TransitionInOutDirectionType](../../transitioninoutdirectiontype/)
-* Class [IFlyThroughTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionInOutDirectionType](../transitioninoutdirectiontype/)
+* Class [IFlyThroughTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

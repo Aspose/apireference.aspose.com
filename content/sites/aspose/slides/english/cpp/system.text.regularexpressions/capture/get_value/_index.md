@@ -22,7 +22,7 @@ Captured substring.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Capture](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Capture](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

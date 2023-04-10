@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.net.sockets/tcpclient/set_nodelay/
 ---
-## TcpClient::set_NoDelay(**bool**) method
+## TcpClient::set_NoDelay(bool) method
 
 
 Sets a value that indicates if the current instance is using the Nagle algorithm.
@@ -24,6 +24,6 @@ void System::Net::Sockets::TcpClient::set_NoDelay(bool value)
 
 ## See Also
 
-* Class [TcpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpClient](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

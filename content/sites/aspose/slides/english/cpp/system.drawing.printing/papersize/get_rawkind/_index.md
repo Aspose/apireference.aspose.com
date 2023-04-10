@@ -22,6 +22,6 @@ An integer representing one of the [System::Drawing::Printing::PaperSize](../) v
 
 ## See Also
 
-* Class [PaperSize](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PaperSize](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

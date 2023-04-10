@@ -26,11 +26,6 @@ virtual int System::Globalization::Calendar::GetMonthsInYear(int year) const
 
 Number of months in the specified year.
 
-## See Also
-
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## Calendar::GetMonthsInYear(int, int) const method
 
 
@@ -54,6 +49,6 @@ Number of months in the specified year of specified era.
 
 ## See Also
 
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

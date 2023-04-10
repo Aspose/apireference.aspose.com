@@ -22,7 +22,7 @@ System::String System::Threading::Thread::get_Name()
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Thread](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Thread](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

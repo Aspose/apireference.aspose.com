@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.security.cryptography.xml/xmldsigenvelopedsignaturetransform/loadinput/
 ---
-## XmlDsigEnvelopedSignatureTransform::LoadInput([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## XmlDsigEnvelopedSignatureTransform::LoadInput(SharedPtr\<Object\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::XmlDsigEnvelopedSignatureTransform::Lo
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [XmlDsigEnvelopedSignatureTransform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [XmlDsigEnvelopedSignatureTransform](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

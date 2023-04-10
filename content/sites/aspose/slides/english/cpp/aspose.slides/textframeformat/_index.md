@@ -12,9 +12,7 @@ url: /cpp/aspose.slides/textframeformat/
 Contains the [TextFrame](../textframe/)'s formatTextFrameFormatting properties.
 
 ```cpp
-class TextFrameFormat : public Aspose::Slides::PVIObject,
-                        public Aspose::Slides::ITextFrameFormat,
-                        public Aspose::Slides::Charts::IChartTextBlockFormat
+class TextFrameFormat : public Aspose::Slides::PVIObject,                        public Aspose::Slides::ITextFrameFormat,                        public Aspose::Slides::Charts::IChartTextBlockFormat
 ```
 
 ## Methods

@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathaccent/
 Specifies the accent function, consisting of a base and a combining diacritical mark Example: \\uD835\\uDC4E\\u0301
 
 ```cpp
-class MathAccent : public Aspose::Slides::MathText::MathElementBase,
-                   public Aspose::Slides::MathText::IMathAccent,
-                   public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathAccent : public Aspose::Slides::MathText::MathElementBase,                   public Aspose::Slides::MathText::IMathAccent,                   public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

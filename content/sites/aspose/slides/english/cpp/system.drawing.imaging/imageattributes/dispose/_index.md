@@ -17,6 +17,6 @@ void System::Drawing::Imaging::ImageAttributes::Dispose()
 
 ## See Also
 
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

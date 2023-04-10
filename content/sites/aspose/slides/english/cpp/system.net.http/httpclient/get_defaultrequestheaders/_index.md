@@ -22,8 +22,8 @@ The headers sent with each request.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpRequestHeaders](../../../system.net.http.headers/httprequestheaders/)
-* Class [HttpClient](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpRequestHeaders](../../system.net.http.headers/httprequestheaders/)
+* Class [HttpClient](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

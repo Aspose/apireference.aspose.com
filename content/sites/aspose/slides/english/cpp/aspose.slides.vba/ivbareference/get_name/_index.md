@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Vba::IVbaReference::get_Name()=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IVbaReference](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IVbaReference](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.net.http/httpmessagehandler/send/
 ---
-## HttpMessageHandler::Send([System::SharedPtr](../../../system/sharedptr/)\<[HttpRequestMessage](../../httprequestmessage/)\>) method
+## HttpMessageHandler::Send(System::SharedPtr\<HttpRequestMessage\>) method
 
 
 Sends the specified request.
@@ -28,9 +28,9 @@ The HTTP response message.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpResponseMessage](../../httpresponsemessage/)
-* Class [HttpRequestMessage](../../httprequestmessage/)
-* Class [HttpMessageHandler](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpResponseMessage](../httpresponsemessage/)
+* Class [HttpRequestMessage](../httprequestmessage/)
+* Class [HttpMessageHandler](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

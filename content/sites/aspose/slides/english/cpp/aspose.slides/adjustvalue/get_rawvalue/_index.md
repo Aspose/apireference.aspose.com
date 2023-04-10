@@ -17,6 +17,6 @@ int64_t Aspose::Slides::AdjustValue::get_RawValue() override
 
 ## See Also
 
-* Class [AdjustValue](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AdjustValue](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

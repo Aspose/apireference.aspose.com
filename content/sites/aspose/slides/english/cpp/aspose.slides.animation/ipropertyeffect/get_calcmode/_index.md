@@ -17,7 +17,7 @@ virtual PropertyCalcModeType Aspose::Slides::Animation::IPropertyEffect::get_Cal
 
 ## See Also
 
-* Enum [PropertyCalcModeType](../../propertycalcmodetype/)
-* Class [IPropertyEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PropertyCalcModeType](../propertycalcmodetype/)
+* Class [IPropertyEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

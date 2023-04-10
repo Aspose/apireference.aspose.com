@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/tabcollection/
 Represents a collection of tabs.
 
 ```cpp
-class TabCollection : public Aspose::Slides::ITabCollection,
-                      public Aspose::Slides::IDOMObject
+class TabCollection : public Aspose::Slides::ITabCollection,                      public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

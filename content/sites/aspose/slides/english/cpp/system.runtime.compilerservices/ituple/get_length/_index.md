@@ -17,6 +17,6 @@ virtual int32_t System::Runtime::CompilerServices::ITuple::get_Length() const =0
 
 ## See Also
 
-* Class [ITuple](../)
-* Namespace [System::Runtime::CompilerServices](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITuple](./)
+* Namespace [System::Runtime::CompilerServices](../)
+* Library [Aspose.Slides](../../)

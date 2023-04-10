@@ -22,7 +22,7 @@ For [XmlNotation](../) nodes, this method returns the name of the notation.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNotation](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNotation](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void System::Xml::Schema::XmlSchemaObjectEnumerator::Reset() override
 
 ## See Also
 
-* Class [XmlSchemaObjectEnumerator](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaObjectEnumerator](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

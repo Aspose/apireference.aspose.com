@@ -34,8 +34,8 @@ pres->get_SlideShowSettings()->set_SlideShowType(System::MakeObject<PresentedByS
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SlideShowType](../../slideshowtype/)
-* Class [SlideShowSettings](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [SlideShowType](../slideshowtype/)
+* Class [SlideShowSettings](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

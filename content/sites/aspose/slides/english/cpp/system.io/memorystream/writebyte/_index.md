@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.io/memorystream/writebyte/
 ---
-## MemoryStream::WriteByte(**uint8_t**) method
+## MemoryStream::WriteByte(uint8_t) method
 
 
 Writes the specified unsigned 8-bit integer value to the stream.
@@ -24,6 +24,6 @@ void System::IO::MemoryStream::WriteByte(uint8_t value) override
 
 ## See Also
 
-* Class [MemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

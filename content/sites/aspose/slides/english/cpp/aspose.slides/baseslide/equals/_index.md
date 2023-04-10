@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides/baseslide/equals/
 ---
-## BaseSlide::Equals([System::SharedPtr](../../../system/sharedptr/)\<[IBaseSlide](../../ibaseslide/)\>) method
+## BaseSlide::Equals(System::SharedPtr\<IBaseSlide\>) method
 
 
 Determines whether the two [IBaseSlide](../../ibaseslide/) instances are equal. Returning value is calculated based on slide's structure and static content. Two slides are equal if all shapes, styles, texts, animation and other settings. etc. are equal. The comparison doesn't take into account unique identifier values, e.g. SlideId and dynamic content, e.g. current date value in Date [Placeholder](../../placeholder/).
@@ -49,8 +49,8 @@ for (int32_t i = 0; i < presentation1->get_Masters()->get_Count(); i++)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBaseSlide](../../ibaseslide/)
-* Class [BaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBaseSlide](../ibaseslide/)
+* Class [BaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

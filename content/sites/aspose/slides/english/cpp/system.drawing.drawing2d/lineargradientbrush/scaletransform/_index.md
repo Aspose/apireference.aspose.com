@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/scaletransform/
 ---
-## LinearGradientBrush::ScaleTransform(**float**, **float**, [MatrixOrder](../../matrixorder/)) method
+## LinearGradientBrush::ScaleTransform(float, float, MatrixOrder) method
 
 
 Scales current object's transform matrix.
@@ -26,7 +26,7 @@ void System::Drawing::Drawing2D::LinearGradientBrush::ScaleTransform(float sx, f
 
 ## See Also
 
-* Enum [MatrixOrder](../../matrixorder/)
-* Class [LinearGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MatrixOrder](../matrixorder/)
+* Class [LinearGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

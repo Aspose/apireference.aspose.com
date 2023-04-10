@@ -17,7 +17,7 @@ Color System::Drawing::SolidBrush::get_Color() const
 
 ## See Also
 
-* Class [Color](../../color/)
-* Class [SolidBrush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../color/)
+* Class [SolidBrush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

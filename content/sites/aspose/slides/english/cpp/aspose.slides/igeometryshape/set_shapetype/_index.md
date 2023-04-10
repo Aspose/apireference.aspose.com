@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/igeometryshape/set_shapetype/
 ---
-## IGeometryShape::set_ShapeType([Aspose::Slides::ShapeType](../../shapetype/)) method
+## IGeometryShape::set_ShapeType(Aspose::Slides::ShapeType) method
 
 
 Sets the geometry preset type. Note: on value changing all adjustment values will reset to their default values. Write [Slides::ShapeType](../../shapetype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IGeometryShape::set_ShapeType(Aspose::Slides::Shape
 
 ## See Also
 
-* Enum [ShapeType](../../shapetype/)
-* Class [IGeometryShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ShapeType](../shapetype/)
+* Class [IGeometryShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

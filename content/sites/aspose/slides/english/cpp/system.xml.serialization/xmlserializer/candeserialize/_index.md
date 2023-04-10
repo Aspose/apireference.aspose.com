@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.xml.serialization/xmlserializer/candeserialize/
 ---
-## XmlSerializer::CanDeserialize([System::SharedPtr](../../../system/sharedptr/)\<[XmlReader](../../../system.xml/xmlreader/)\>) method
+## XmlSerializer::CanDeserialize(System::SharedPtr\<XmlReader\>) method
 
 
 Checks if specific reader is in deserializable state.
@@ -28,8 +28,8 @@ true if xmlReader can be deserialized, false otherwise.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlReader](../../../system.xml/xmlreader/)
-* Class [XmlSerializer](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlReader](../../system.xml/xmlreader/)
+* Class [XmlSerializer](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathblock/
 Specifies an instance of mathematical text that contained within a [MathParagraph](../mathparagraph/) and starts on its own line. All math zones, including equations, expressions, arrays of equations or expressions, and formulas are represented by math block.
 
 ```cpp
-class MathBlock : public Aspose::Slides::MathText::MathElementBase,
-                  public Aspose::Slides::MathText::IMathBlock
+class MathBlock : public Aspose::Slides::MathText::MathElementBase,                  public Aspose::Slides::MathText::IMathBlock
 ```
 
 ## Methods

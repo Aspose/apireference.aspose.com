@@ -17,8 +17,8 @@ System::SharedPtr<IBaseSlide> Aspose::Slides::Theme::FormatScheme::get_Slide() o
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBaseSlide](../../../aspose.slides/ibaseslide/)
-* Class [FormatScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBaseSlide](../../aspose.slides/ibaseslide/)
+* Class [FormatScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

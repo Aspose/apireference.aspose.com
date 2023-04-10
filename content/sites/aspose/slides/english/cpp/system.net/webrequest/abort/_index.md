@@ -17,6 +17,6 @@ virtual void System::Net::WebRequest::Abort()=0
 
 ## See Also
 
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/idocumentproperties/set_manager/
 ---
-## IDocumentProperties::set_Manager([System::String](../../../system/string/)) method
+## IDocumentProperties::set_Manager(System::String) method
 
 
 Sets the manager property. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_Manager(System::String val
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

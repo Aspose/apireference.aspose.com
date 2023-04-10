@@ -6,7 +6,7 @@ type: docs
 weight: 794
 url: /cpp/system.globalization/numberformatinfo/getinstance/
 ---
-## NumberFormatInfo::GetInstance(const [IFormatProviderPtr](../../../system/iformatproviderptr/)\&) method
+## NumberFormatInfo::GetInstance(const IFormatProviderPtr\&) method
 
 
 Gets formatter associated with format provider.
@@ -28,8 +28,8 @@ Formatter associated with format provider or current thread's format if unavaila
 
 ## See Also
 
-* Typedef [NumberFormatInfoPtr](../../numberformatinfoptr/)
-* Typedef [IFormatProviderPtr](../../../system/iformatproviderptr/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [NumberFormatInfoPtr](../numberformatinfoptr/)
+* Typedef [IFormatProviderPtr](../../system/iformatproviderptr/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

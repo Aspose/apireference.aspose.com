@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IHyperlinkQueries::RemoveAllHyperlinks()=0
 
 ## See Also
 
-* Class [IHyperlinkQueries](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IHyperlinkQueries](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

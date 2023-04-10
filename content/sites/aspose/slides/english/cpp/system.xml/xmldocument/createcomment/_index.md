@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/system.xml/xmldocument/createcomment/
 ---
-## XmlDocument::CreateComment(const [String](../../../system/string/)\&) method
+## XmlDocument::CreateComment(const String\&) method
 
 
 Creates an [XmlComment](../../xmlcomment/) containing the specified data.
@@ -28,9 +28,9 @@ The new [XmlComment](../../xmlcomment/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlComment](../../xmlcomment/)
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlComment](../xmlcomment/)
+* Class [String](../../system/string/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

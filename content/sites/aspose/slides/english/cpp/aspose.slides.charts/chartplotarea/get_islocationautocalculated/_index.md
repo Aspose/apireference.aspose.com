@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::ChartPlotArea::get_IsLocationAutocalculated()
 
 ## See Also
 
-* Class [ChartPlotArea](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartPlotArea](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

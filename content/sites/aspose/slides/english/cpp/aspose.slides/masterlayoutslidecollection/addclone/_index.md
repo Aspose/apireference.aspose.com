@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/masterlayoutslidecollection/addclone/
 ---
-## MasterLayoutSlideCollection::AddClone([System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
+## MasterLayoutSlideCollection::AddClone(System::SharedPtr\<ILayoutSlide\>) method
 
 
 Adds a copy of a specified layout slide to the end of the collection.
@@ -32,8 +32,8 @@ Added slide.
 1) New layout will be linked with parent master slide for this layout slides collection. So this is analogue of copy/paste with \"Use Destination Theme\" option in PowerPoint. 2) Analogue of this method is method [IGlobalLayoutSlideCollection::AddClone(SharedPtr<ILayoutSlide>, SharedPtr<IMasterSlide>)](../../igloballayoutslidecollection/addclone/) accessed with [IPresentation::get_LayoutSlides()](../../ipresentation/get_layoutslides/) property. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILayoutSlide](../../ilayoutslide/)
-* Class [MasterLayoutSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILayoutSlide](../ilayoutslide/)
+* Class [MasterLayoutSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

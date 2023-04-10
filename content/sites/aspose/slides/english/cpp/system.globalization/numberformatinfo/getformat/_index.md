@@ -6,7 +6,7 @@ type: docs
 weight: 742
 url: /cpp/system.globalization/numberformatinfo/getformat/
 ---
-## NumberFormatInfo::GetFormat(const [TypeInfo](../../../system/typeinfo/)\&) method
+## NumberFormatInfo::GetFormat(const TypeInfo\&) method
 
 
 Gets formatter of specific type.
@@ -28,9 +28,9 @@ Formatter or null if not availsable.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

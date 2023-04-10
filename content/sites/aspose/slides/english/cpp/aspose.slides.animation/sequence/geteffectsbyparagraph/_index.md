@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/sequence/geteffectsbyparagraph/
 ---
-## Sequence::GetEffectsByParagraph([System::SharedPtr](../../../system/sharedptr/)\<[IParagraph](../../../aspose.slides/iparagraph/)\>) method
+## Sequence::GetEffectsByParagraph(System::SharedPtr\<IParagraph\>) method
 
 
 Returns array of effects for the specified paragraph.
@@ -17,10 +17,10 @@ System::ArrayPtr<System::SharedPtr<IEffect>> Aspose::Slides::Animation::Sequence
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffect](../../ieffect/)
-* Class [IParagraph](../../../aspose.slides/iparagraph/)
-* Class [Sequence](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffect](../ieffect/)
+* Class [IParagraph](../../aspose.slides/iparagraph/)
+* Class [Sequence](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

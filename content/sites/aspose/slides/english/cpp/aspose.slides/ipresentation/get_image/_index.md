@@ -6,7 +6,7 @@ type: docs
 weight: 521
 url: /cpp/aspose.slides/ipresentation/get_image/
 ---
-## IPresentation::get_Image(**int32_t**) method
+## IPresentation::get_Image(int32_t) method
 
 
 Returns image in the presentation at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPPImage> Aspose::Slides::IPresentation::get_Image(int
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPPImage](../../ippimage/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPPImage](../ippimage/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

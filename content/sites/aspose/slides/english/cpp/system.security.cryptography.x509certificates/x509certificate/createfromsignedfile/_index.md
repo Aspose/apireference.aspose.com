@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/createfromsignedfile/
 ---
-## X509Certificate::CreateFromSignedFile(const [String](../../../system/string/)\&) method
+## X509Certificate::CreateFromSignedFile(const String\&) method
 
 
 Creates sertificate from the specified signed file.
@@ -28,9 +28,8 @@ The newly created certificate.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509Certificate](../)
-* Class [String](../../../system/string/)
-* Class [X509Certificate](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [X509Certificate](./)
+* Class [String](../../system/string/)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

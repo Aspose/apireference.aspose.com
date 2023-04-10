@@ -22,6 +22,6 @@ Number of rows affected.
 
 ## See Also
 
-* Class [DbCommand](../)
-* Namespace [System::Data::Common](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DbCommand](./)
+* Namespace [System::Data::Common](../)
+* Library [Aspose.Slides](../../)

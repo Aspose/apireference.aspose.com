@@ -30,10 +30,6 @@ template<typename T,typename F> std::enable_if_t<Details::is_lambda_void_void<T>
 | tryBlock | T\&& | The function object whose body contains the implementation of the try[-catch] part of the try[-catch]-finally statemet being emulated |
 | finallyBlock | F\&& | The function object whose body contains the implementation of the finally part of the try[-catch]-finally statement being emulated |
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::DoTryFinally(T\&&, F\&&) function
 
 
@@ -58,10 +54,6 @@ template<typename T,typename F> std::enable_if_t<Details::is_lambda_void_boolref
 | tryBlock | T\&& | The function object whose body contains the implementation of the try[-catch] part of the try[-catch]-finally statemet being emulated |
 | finallyBlock | F\&& | The function object whose body contains the implementation of the finally part of the try[-catch]-finally statement being emulated |
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::DoTryFinally(T\&&, F\&&) function
 
 
@@ -88,5 +80,5 @@ template<typename T,typename F> std::enable_if_t<Details::is_lambda_nonovoid_boo
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

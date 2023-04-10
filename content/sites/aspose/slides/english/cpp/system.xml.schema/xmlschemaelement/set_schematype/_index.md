@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/system.xml.schema/xmlschemaelement/set_schematype/
 ---
-## XmlSchemaElement::set_SchemaType(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaType](../../xmlschematype/)\>\&) method
+## XmlSchemaElement::set_SchemaType(const SharedPtr\<XmlSchemaType\>\&) method
 
 
 Sets the type of the element. This can either be a complex type or a simple type.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaElement::set_SchemaType(const SharedPtr<XmlSc
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaType](../../xmlschematype/)
-* Class [XmlSchemaElement](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaType](../xmlschematype/)
+* Class [XmlSchemaElement](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

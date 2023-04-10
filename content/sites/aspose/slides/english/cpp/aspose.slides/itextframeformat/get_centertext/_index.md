@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::ITextFrameFormat::get_CenterText()=0
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [ITextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [ITextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

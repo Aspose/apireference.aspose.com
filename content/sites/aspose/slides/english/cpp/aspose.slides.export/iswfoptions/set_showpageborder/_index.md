@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.export/iswfoptions/set_showpageborder/
 ---
-## ISwfOptions::set_ShowPageBorder(**bool**) method
+## ISwfOptions::set_ShowPageBorder(bool) method
 
 
 Specifies whether border around pages should be shown. Default is true.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISwfOptions::set_ShowPageBorder(bool value)
 
 ## See Also
 
-* Class [ISwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

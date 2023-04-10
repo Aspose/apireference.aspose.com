@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/tab/set_alignment/
 ---
-## Tab::set_Alignment([TabAlignment](../../tabalignment/)) method
+## Tab::set_Alignment(TabAlignment) method
 
 
 Sets align style of a tab. Write [TabAlignment](../../tabalignment/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Tab::set_Alignment(TabAlignment value) override
 
 ## See Also
 
-* Enum [TabAlignment](../../tabalignment/)
-* Class [Tab](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TabAlignment](../tabalignment/)
+* Class [Tab](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

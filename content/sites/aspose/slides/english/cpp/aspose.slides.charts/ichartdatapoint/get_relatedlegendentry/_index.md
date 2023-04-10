@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILegendEntryProperties> Aspose::Slides::Charts::IChart
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILegendEntryProperties](../../ilegendentryproperties/)
-* Class [IChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILegendEntryProperties](../ilegendentryproperties/)
+* Class [IChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

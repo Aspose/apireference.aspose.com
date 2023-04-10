@@ -17,6 +17,6 @@ System::Security::SecureString::~SecureString()
 
 ## See Also
 
-* Class [SecureString](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SecureString](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

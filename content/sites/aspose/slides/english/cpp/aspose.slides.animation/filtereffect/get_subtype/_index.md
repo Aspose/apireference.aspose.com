@@ -17,7 +17,7 @@ FilterEffectSubtype Aspose::Slides::Animation::FilterEffect::get_Subtype() overr
 
 ## See Also
 
-* Enum [FilterEffectSubtype](../../filtereffectsubtype/)
-* Class [FilterEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FilterEffectSubtype](../filtereffectsubtype/)
+* Class [FilterEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

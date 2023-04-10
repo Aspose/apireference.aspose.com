@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/system.xml/xmldocument/getelementbyid/
 ---
-## XmlDocument::GetElementById([String](../../../system/string/)) method
+## XmlDocument::GetElementById(String) method
 
 
 Returns the [XmlElement](../../xmlelement/) with the specified ID.
@@ -28,9 +28,9 @@ The [XmlElement](../../xmlelement/) with the matching ID or **nullptr** if no ma
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlElement](../../xmlelement/)
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlElement](../xmlelement/)
+* Class [String](../../system/string/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

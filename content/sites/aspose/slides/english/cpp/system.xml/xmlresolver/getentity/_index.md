@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlresolver/getentity/
 ---
-## XmlResolver::GetEntity([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/), const [TypeInfo](../../../system/typeinfo/)\&) method
+## XmlResolver::GetEntity(SharedPtr\<Uri\>, String, const TypeInfo\&) method
 
 
 When overridden in a derived class, maps a URI to an object that contains the actual resource.
@@ -30,11 +30,11 @@ A stream object or **nullptr** if a type other than stream is specified.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [Uri](../../../system/uri/)
-* Class [String](../../../system/string/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [XmlResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [Uri](../../system/uri/)
+* Class [String](../../system/string/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [XmlResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

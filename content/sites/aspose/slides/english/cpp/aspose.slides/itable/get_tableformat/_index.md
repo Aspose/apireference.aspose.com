@@ -17,8 +17,8 @@ virtual System::SharedPtr<ITableFormat> Aspose::Slides::ITable::get_TableFormat(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITableFormat](../../itableformat/)
-* Class [ITable](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITableFormat](../itableformat/)
+* Class [ITable](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ True if extension is critical, false otherwise.
 
 ## See Also
 
-* Class [X509Extension](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [X509Extension](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

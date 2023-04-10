@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.testpredicates.details.sharedptrasserts/notnullareequalhelper/
 ---
-## System::TestPredicates::Details::SharedPtrAsserts::NotNullAreEqualHelper(const [SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::ICollection](../../system.collections.generic/icollection/)\<T\>\>\&, const [SharedPtr](../../system/sharedptr/)\<[System::Collections::Generic::ICollection](../../system.collections.generic/icollection/)\<T\>\>\&) function
+## System::TestPredicates::Details::SharedPtrAsserts::NotNullAreEqualHelper(const SharedPtr\<System::Collections::Generic::ICollection\<T\>\>\&, const SharedPtr\<System::Collections::Generic::ICollection\<T\>\>\&) function
 
 
 Equal-compares abstract collections.
@@ -35,7 +35,7 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [ICollection](../../system.collections.generic/icollection/)
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../system/sharedptr/)
+* Class [ICollection](../system.collections.generic/icollection/)
+* Namespace [System::TestPredicates::Details::SharedPtrAsserts](./)
+* Library [Aspose.Slides](../)

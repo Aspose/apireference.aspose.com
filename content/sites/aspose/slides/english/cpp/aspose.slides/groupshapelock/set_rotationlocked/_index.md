@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/groupshapelock/set_rotationlocked/
 ---
-## GroupShapeLock::set_RotationLocked(**bool**) method
+## GroupShapeLock::set_RotationLocked(bool) method
 
 
 Determines whether changing rotation angle of this shape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::GroupShapeLock::set_RotationLocked(bool value) override
 
 ## See Also
 
-* Class [GroupShapeLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GroupShapeLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

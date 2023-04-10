@@ -17,8 +17,8 @@ System::SharedPtr<IShapeStyle> Aspose::Slides::GeometryShape::get_ShapeStyle() o
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShapeStyle](../../ishapestyle/)
-* Class [GeometryShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShapeStyle](../ishapestyle/)
+* Class [GeometryShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

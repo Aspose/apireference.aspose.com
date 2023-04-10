@@ -17,6 +17,6 @@ bool Aspose::Slides::Cell::get_IsMergedCell() override
 
 ## See Also
 
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

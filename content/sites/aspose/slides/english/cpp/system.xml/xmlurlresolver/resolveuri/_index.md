@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml/xmlurlresolver/resolveuri/
 ---
-## XmlUrlResolver::ResolveUri([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/)) method
+## XmlUrlResolver::ResolveUri(SharedPtr\<Uri\>, String) method
 
 
 Resolves the absolute URI from the base and relative URIs.
@@ -29,9 +29,9 @@ The absolute URI, or **nullptr** if the relative URI cannot be resolved.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [String](../../../system/string/)
-* Class [XmlUrlResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [String](../../system/string/)
+* Class [XmlUrlResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

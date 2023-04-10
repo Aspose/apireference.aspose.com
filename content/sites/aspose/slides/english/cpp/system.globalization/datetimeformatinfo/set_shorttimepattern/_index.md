@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.globalization/datetimeformatinfo/set_shorttimepattern/
 ---
-## DateTimeFormatInfo::set_ShortTimePattern(const [String](../../../system/string/)\&) method
+## DateTimeFormatInfo::set_ShortTimePattern(const String\&) method
 
 
 Sets short time pattern.
@@ -24,7 +24,7 @@ void System::Globalization::DateTimeFormatInfo::set_ShortTimePattern(const Strin
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

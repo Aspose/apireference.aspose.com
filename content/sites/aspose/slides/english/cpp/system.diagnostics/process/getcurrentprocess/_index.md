@@ -17,8 +17,7 @@ static SharedPtr<Process> System::Diagnostics::Process::GetCurrentProcess()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Process](../)
-* Class [Process](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Process](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

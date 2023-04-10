@@ -17,8 +17,8 @@ SharedPtr<Drawing2D::RegionData> System::Drawing::Region::GetRegionData() const
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RegionData](../../../system.drawing.drawing2d/regiondata/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RegionData](../../system.drawing.drawing2d/regiondata/)
+* Class [Region](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

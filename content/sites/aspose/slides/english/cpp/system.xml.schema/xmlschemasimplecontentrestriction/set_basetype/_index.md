@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/set_basetype/
 ---
-## XmlSchemaSimpleContentRestriction::set_BaseType(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaSimpleType](../../xmlschemasimpletype/)\>\&) method
+## XmlSchemaSimpleContentRestriction::set_BaseType(const SharedPtr\<XmlSchemaSimpleType\>\&) method
 
 
 Sets the simple type base value.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSimpleContentRestriction::set_BaseType(const 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaSimpleType](../../xmlschemasimpletype/)
-* Class [XmlSchemaSimpleContentRestriction](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaSimpleType](../xmlschemasimpletype/)
+* Class [XmlSchemaSimpleContentRestriction](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

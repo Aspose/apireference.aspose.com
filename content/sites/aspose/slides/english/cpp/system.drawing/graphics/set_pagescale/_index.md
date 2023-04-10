@@ -6,7 +6,7 @@ type: docs
 weight: 573
 url: /cpp/system.drawing/graphics/set_pagescale/
 ---
-## Graphics::set_PageScale(**float**) method
+## Graphics::set_PageScale(float) method
 
 
 Sets the scaling between world units and page units for the current [Graphics](../) object.
@@ -24,6 +24,6 @@ void System::Drawing::Graphics::set_PageScale(float scale)
 
 ## See Also
 
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

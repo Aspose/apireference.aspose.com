@@ -27,6 +27,6 @@ groupingCharacter->set_Character(u'\u23DD');
 
 ## See Also
 
-* Class [MathGroupingCharacter](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathGroupingCharacter](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

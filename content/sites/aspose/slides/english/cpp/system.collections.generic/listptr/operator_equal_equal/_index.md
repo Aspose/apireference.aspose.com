@@ -22,6 +22,6 @@ True if [List](../../list/) pointer is null and false otherwise.
 
 ## See Also
 
-* Class [ListPtr](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ListPtr](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

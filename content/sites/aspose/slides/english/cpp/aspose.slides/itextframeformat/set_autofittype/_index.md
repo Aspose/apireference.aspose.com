@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides/itextframeformat/set_autofittype/
 ---
-## ITextFrameFormat::set_AutofitType([TextAutofitType](../../textautofittype/)) method
+## ITextFrameFormat::set_AutofitType(TextAutofitType) method
 
 
 Sets text's autofit mode. Write [TextAutofitType](../../textautofittype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ITextFrameFormat::set_AutofitType(TextAutofitType v
 
 ## See Also
 
-* Enum [TextAutofitType](../../textautofittype/)
-* Class [ITextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextAutofitType](../textautofittype/)
+* Class [ITextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

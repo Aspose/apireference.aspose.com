@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/normalviewrestoredproperties/set_autoadjust/
 ---
-## NormalViewRestoredProperties::set_AutoAdjust(**bool**) method
+## NormalViewRestoredProperties::set_AutoAdjust(bool) method
 
 
 Specifies whether the size of the side content region should compensate for the new size when resizing the window containing the view within the application Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::NormalViewRestoredProperties::set_AutoAdjust(bool value) ov
 
 ## See Also
 
-* Class [NormalViewRestoredProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NormalViewRestoredProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

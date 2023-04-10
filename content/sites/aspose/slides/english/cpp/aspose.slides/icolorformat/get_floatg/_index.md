@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IColorFormat::get_FloatG()=0
 
 ## See Also
 
-* Class [IColorFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IColorFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

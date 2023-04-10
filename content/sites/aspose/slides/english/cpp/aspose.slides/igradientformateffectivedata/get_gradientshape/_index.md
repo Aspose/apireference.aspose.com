@@ -17,7 +17,7 @@ virtual Aspose::Slides::GradientShape Aspose::Slides::IGradientFormatEffectiveDa
 
 ## See Also
 
-* Enum [GradientShape](../../gradientshape/)
-* Class [IGradientFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [GradientShape](../gradientshape/)
+* Class [IGradientFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.threading/threadpoolimpl/queueuserworkitem/
 ---
-## ThreadPoolImpl::QueueUserWorkItem([WaitCallback](../../waitcallback/), const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&) method
+## ThreadPoolImpl::QueueUserWorkItem(WaitCallback, const System::SharedPtr\<System::Object\>\&) method
 
 
 Adds work item to queue.
@@ -29,9 +29,9 @@ Always returns true.
 
 ## See Also
 
-* Typedef [WaitCallback](../../waitcallback/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [ThreadPoolImpl](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [WaitCallback](../waitcallback/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [ThreadPoolImpl](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

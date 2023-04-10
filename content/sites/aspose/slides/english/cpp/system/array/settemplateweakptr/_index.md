@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system/array/settemplateweakptr/
 ---
-## Array::SetTemplateWeakPtr(**uint32_t**) method
+## Array::SetTemplateWeakPtr(uint32_t) method
 
 
 Makes array treat stored pointers as weak (if applicable).
@@ -24,6 +24,6 @@ void System::Array<T>::SetTemplateWeakPtr(uint32_t argument) override
 
 ## See Also
 
-* Class [Array](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Array](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

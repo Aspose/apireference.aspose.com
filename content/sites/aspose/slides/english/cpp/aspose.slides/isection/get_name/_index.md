@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::ISection::get_Name()=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ISection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ISection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaimport/set_annotation/
 ---
-## XmlSchemaImport::set_Annotation(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaAnnotation](../../xmlschemaannotation/)\>\&) method
+## XmlSchemaImport::set_Annotation(const SharedPtr\<XmlSchemaAnnotation\>\&) method
 
 
 Sets the **annotation** value.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaImport::set_Annotation(const SharedPtr<XmlSch
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaAnnotation](../../xmlschemaannotation/)
-* Class [XmlSchemaImport](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaAnnotation](../xmlschemaannotation/)
+* Class [XmlSchemaImport](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

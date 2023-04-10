@@ -17,9 +17,9 @@ virtual System::SharedPtr<Collections::Generic::Dictionary<String, String>> Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Dictionary](../../../system.collections.generic/dictionary/)
-* Class [String](../../../system/string/)
-* Class [XmlSerializerImplementation](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Dictionary](../../system.collections.generic/dictionary/)
+* Class [String](../../system/string/)
+* Class [XmlSerializerImplementation](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

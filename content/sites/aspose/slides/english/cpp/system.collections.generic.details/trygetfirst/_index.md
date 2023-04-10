@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.collections.generic.details/trygetfirst/
 ---
-## System::Collections::Generic::Details::TryGetFirst([IEnumerable](../../system.collections.generic/ienumerable/)\<T\>\&, **bool**\&) function
+## System::Collections::Generic::Details::TryGetFirst(IEnumerable\<T\>\&, bool\&) function
 
 
 Tries to get the first element of the collection.
@@ -33,12 +33,7 @@ template<typename T> T System::Collections::Generic::Details::TryGetFirst(IEnume
 
 Returns the first collection element. The default value of the type will be returned when the collection is empty.
 
-## See Also
-
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
-## System::Collections::Generic::Details::TryGetFirst([IEnumerable](../../system.collections.generic/ienumerable/)\<T\>\&, const [Func](../../system/func/)\<T, **bool**\>\&, **bool**\&) function
+## System::Collections::Generic::Details::TryGetFirst(IEnumerable\<T\>\&, const Func\<T, bool\>\&, bool\&) function
 
 
 Tries to get the first element of the collection, which satisfies to the predicate function.
@@ -68,7 +63,7 @@ Returns the first collection element. The default value of the type will be retu
 
 ## See Also
 
-* Class [IEnumerable](../../system.collections.generic/ienumerable/)
-* Class [Func](../../system/func/)
-* Namespace [System::Collections::Generic::Details](../)
-* Library [Aspose.Slides](../../)
+* Class [IEnumerable](../system.collections.generic/ienumerable/)
+* Class [Func](../system/func/)
+* Namespace [System::Collections::Generic::Details](./)
+* Library [Aspose.Slides](../)

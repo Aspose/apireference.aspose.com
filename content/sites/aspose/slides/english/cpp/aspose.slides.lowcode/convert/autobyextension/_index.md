@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.lowcode/convert/autobyextension/
 ---
-## Convert::AutoByExtension([System::String](../../../system/string/), [System::String](../../../system/string/)) method
+## Convert::AutoByExtension(System::String, System::String) method
 
 
 Converts [Presentation](../../../aspose.slides/presentation/) using the passed output path extension to determine the required export format.
@@ -36,7 +36,7 @@ Convert::AutoByExtension(u"pres.pptx", u"pres.pdf");
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Convert](../)
-* Namespace [Aspose::Slides::LowCode](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Convert](./)
+* Namespace [Aspose::Slides::LowCode](../)
+* Library [Aspose.Slides](../../)

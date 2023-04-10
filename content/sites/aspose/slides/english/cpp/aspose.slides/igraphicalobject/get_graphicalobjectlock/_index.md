@@ -17,8 +17,8 @@ virtual System::SharedPtr<IGraphicalObjectLock> Aspose::Slides::IGraphicalObject
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGraphicalObjectLock](../../igraphicalobjectlock/)
-* Class [IGraphicalObject](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGraphicalObjectLock](../igraphicalobjectlock/)
+* Class [IGraphicalObject](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

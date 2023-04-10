@@ -20,11 +20,6 @@ template<typename Q> auto System::SmartPtr<T>::end() -> decltype(std::declval<Q>
 
 iterator to the end of collection
 
-## See Also
-
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## SmartPtr::end() const method
 
 
@@ -41,6 +36,6 @@ iterator to the end of collection
 
 ## See Also
 
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

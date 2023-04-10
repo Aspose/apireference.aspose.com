@@ -17,7 +17,7 @@ System::String Aspose::Slides::Charts::StringChartValue::GetCellsAddressInWorkbo
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

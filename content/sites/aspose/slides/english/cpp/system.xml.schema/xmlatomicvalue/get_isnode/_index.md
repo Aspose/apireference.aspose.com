@@ -22,6 +22,6 @@ bool System::Xml::Schema::XmlAtomicValue::get_IsNode() override
 
 ## See Also
 
-* Class [XmlAtomicValue](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlAtomicValue](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

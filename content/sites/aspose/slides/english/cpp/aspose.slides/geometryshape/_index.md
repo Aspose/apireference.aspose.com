@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/geometryshape/
 Represents the parent class for all geometric shapes.
 
 ```cpp
-class GeometryShape : public Aspose::Slides::Shape,
-                      public virtual Aspose::Slides::IGeometryShape
+class GeometryShape : public Aspose::Slides::Shape,                      public virtual Aspose::Slides::IGeometryShape
 ```
 
 ## Methods

@@ -17,6 +17,6 @@ void System::Collections::Generic::BaseDictionary<Map>::SetTemplateWeakPtr(unsig
 
 ## See Also
 
-* Class [BaseDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BaseDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

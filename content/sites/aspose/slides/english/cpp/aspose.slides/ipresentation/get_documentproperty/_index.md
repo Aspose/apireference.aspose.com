@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/aspose.slides/ipresentation/get_documentproperty/
 ---
-## IPresentation::get_DocumentProperty([System::String](../../../system/string/)) method
+## IPresentation::get_DocumentProperty(System::String) method
 
 
 Returns custom property defined by name.
@@ -21,9 +21,9 @@ virtual System::SharedPtr<System::Object> Aspose::Slides::IPresentation::get_Doc
 Value can be **int**, **float**, **double**, **string**, **bool** or **DateTime**. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [String](../../system/string/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

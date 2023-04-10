@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.smartart/smartartnodecollection/copyto/
 ---
-## SmartArtNodeCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[ISmartArtNode](../../ismartartnode/)\>\>, **int32_t**) method
+## SmartArtNodeCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<ISmartArtNode\>\>, int32_t) method
 
 
 Copies all elements from the collection to the specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::SmartArt::SmartArtNodeCollection::CopyTo(System::ArrayPtr<S
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISmartArtNode](../../ismartartnode/)
-* Class [SmartArtNodeCollection](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISmartArtNode](../ismartartnode/)
+* Class [SmartArtNodeCollection](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

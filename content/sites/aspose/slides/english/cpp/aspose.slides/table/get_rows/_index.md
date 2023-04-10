@@ -17,8 +17,8 @@ System::SharedPtr<IRowCollection> Aspose::Slides::Table::get_Rows() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IRowCollection](../../irowcollection/)
-* Class [Table](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IRowCollection](../irowcollection/)
+* Class [Table](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

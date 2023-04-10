@@ -6,7 +6,7 @@ type: docs
 weight: 846
 url: /cpp/system.drawing/graphics/rotatetransform/
 ---
-## Graphics::RotateTransform(**float**, [Drawing2D::MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)) method
+## Graphics::RotateTransform(float, Drawing2D::MatrixOrder) method
 
 
 Applies the specified rotation to the world transformation matrix of the current [Graphics](../) object in the specified order.
@@ -25,7 +25,7 @@ void System::Drawing::Graphics::RotateTransform(float angle, Drawing2D::MatrixOr
 
 ## See Also
 
-* Enum [MatrixOrder](../../../system.drawing.drawing2d/matrixorder/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MatrixOrder](../../system.drawing.drawing2d/matrixorder/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

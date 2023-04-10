@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/icornerdirectiontransition/set_direction/
 ---
-## ICornerDirectionTransition::set_Direction([TransitionCornerDirectionType](../../transitioncornerdirectiontype/)) method
+## ICornerDirectionTransition::set_Direction(TransitionCornerDirectionType) method
 
 
 Direction of transition. Write [TransitionCornerDirectionType](../../transitioncornerdirectiontype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::ICornerDirectionTransition::set_Directio
 
 ## See Also
 
-* Enum [TransitionCornerDirectionType](../../transitioncornerdirectiontype/)
-* Class [ICornerDirectionTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionCornerDirectionType](../transitioncornerdirectiontype/)
+* Class [ICornerDirectionTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

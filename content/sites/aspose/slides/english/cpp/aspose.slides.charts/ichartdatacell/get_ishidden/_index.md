@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::IChartDataCell::get_IsHidden()=0
 
 ## See Also
 
-* Class [IChartDataCell](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartDataCell](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

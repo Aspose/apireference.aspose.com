@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.diagnostics/trace/writeline/
 ---
-## Trace::WriteLine(const [String](../../../system/string/)\&) method
+## Trace::WriteLine(const String\&) method
 
 
 Writes line to debugger trace.
@@ -24,7 +24,7 @@ static void System::Diagnostics::Trace::WriteLine(const String &message)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Struct [Trace](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Struct [Trace](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/controlpropertiescollection/remove/
 ---
-## ControlPropertiesCollection::Remove([System::String](../../../system/string/)) method
+## ControlPropertiesCollection::Remove(System::String) method
 
 
 Removes a property with the specified name.
@@ -24,7 +24,7 @@ void Aspose::Slides::ControlPropertiesCollection::Remove(System::String name) ov
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ControlPropertiesCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ControlPropertiesCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

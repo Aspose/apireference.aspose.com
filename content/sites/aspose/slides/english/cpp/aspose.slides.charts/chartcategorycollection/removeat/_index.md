@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/chartcategorycollection/removeat/
 ---
-## ChartCategoryCollection::RemoveAt(**int32_t**) method
+## ChartCategoryCollection::RemoveAt(int32_t) method
 
 
 Removes the element at the given index.
@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartCategoryCollection::RemoveAt(int32_t index) ov
 
 ## See Also
 
-* Class [ChartCategoryCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartCategoryCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

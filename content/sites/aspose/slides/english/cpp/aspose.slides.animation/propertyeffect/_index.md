@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.animation/propertyeffect/
 Represent property effect behavior.
 
 ```cpp
-class PropertyEffect : public Aspose::Slides::Animation::Behavior,
-                       public Aspose::Slides::Animation::IPropertyEffect
+class PropertyEffect : public Aspose::Slides::Animation::Behavior,                       public Aspose::Slides::Animation::IPropertyEffect
 ```
 
 ## Methods

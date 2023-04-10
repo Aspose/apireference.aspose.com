@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net/servicepointmanager/set_securityprotocol/
 ---
-## ServicePointManager::set_SecurityProtocol([SecurityProtocolType](../../securityprotocoltype/)) method
+## ServicePointManager::set_SecurityProtocol(SecurityProtocolType) method
 
 
 Sets the security protocol type used by the ServicePoint-class instances that are managed by the current instance.
@@ -24,7 +24,7 @@ static void System::Net::ServicePointManager::set_SecurityProtocol(SecurityProto
 
 ## See Also
 
-* Enum [SecurityProtocolType](../../securityprotocoltype/)
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SecurityProtocolType](../securityprotocoltype/)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

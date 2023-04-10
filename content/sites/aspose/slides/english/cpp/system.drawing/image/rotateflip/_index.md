@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.drawing/image/rotateflip/
 ---
-## Image::RotateFlip([RotateFlipType](../../rotatefliptype/)) method
+## Image::RotateFlip(RotateFlipType) method
 
 
 Rotate image to multiple of 90 degrees and flip.
@@ -24,7 +24,7 @@ virtual void System::Drawing::Image::RotateFlip(RotateFlipType rotate_flip_type)
 
 ## See Also
 
-* Enum [RotateFlipType](../../rotatefliptype/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [RotateFlipType](../rotatefliptype/)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,6 @@ TimeSpan System::TimeSpan::Negate() const
 
 ## See Also
 
-* Class [TimeSpan](../)
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

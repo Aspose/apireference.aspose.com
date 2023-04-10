@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaFractionDigitsFacet::XmlSchemaFractionDigitsFacet(
 
 ## See Also
 
-* Class [XmlSchemaFractionDigitsFacet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaFractionDigitsFacet](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

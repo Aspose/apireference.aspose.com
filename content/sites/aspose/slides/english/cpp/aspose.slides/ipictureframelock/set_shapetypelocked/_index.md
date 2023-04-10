@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides/ipictureframelock/set_shapetypelocked/
 ---
-## IPictureFrameLock::set_ShapeTypeLocked(**bool**) method
+## IPictureFrameLock::set_ShapeTypeLocked(bool) method
 
 
 Determines whether a changing of a shape type is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFrameLock::set_ShapeTypeLocked(bool value)=
 
 ## See Also
 
-* Class [IPictureFrameLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPictureFrameLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

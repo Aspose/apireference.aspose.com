@@ -6,7 +6,7 @@ type: docs
 weight: 664
 url: /cpp/system.collections.generic/operator_less_less/
 ---
-## System::Collections::Generic::operator<<(std::ostream\&, const [KeyValuePair](../keyvaluepair/)\<TKey, TValue\>\&) function
+## System::Collections::Generic::operator<<(std::ostream\&, const KeyValuePair\<TKey, TValue\>\&) function
 
 
 Insert data into the stream using UTF-8 encoding.
@@ -34,12 +34,7 @@ template<typename TKey,typename TValue> std::ostream & System::Collections::Gene
 
 **stream**.
 
-## See Also
-
-* Class [KeyValuePair](../keyvaluepair/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
-## System::Collections::Generic::operator<<(std::wostream\&, const [KeyValuePair](../keyvaluepair/)\<TKey, TValue\>\&) function
+## System::Collections::Generic::operator<<(std::wostream\&, const KeyValuePair\<TKey, TValue\>\&) function
 
 
 Insert data into the stream.
@@ -69,6 +64,6 @@ template<typename TKey,typename TValue> std::wostream & System::Collections::Gen
 
 ## See Also
 
-* Class [KeyValuePair](../keyvaluepair/)
-* Namespace [System::Collections::Generic](../)
-* Library [Aspose.Slides](../../)
+* Class [KeyValuePair](./keyvaluepair/)
+* Namespace [System::Collections::Generic](./)
+* Library [Aspose.Slides](../)

@@ -22,7 +22,7 @@ String System::Net::Http::Headers::RangeItemHeaderValue::ToString() const overri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [RangeItemHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [RangeItemHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

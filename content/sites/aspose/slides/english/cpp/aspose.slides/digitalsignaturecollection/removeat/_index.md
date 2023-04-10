@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/digitalsignaturecollection/removeat/
 ---
-## DigitalSignatureCollection::RemoveAt(**int32_t**) method
+## DigitalSignatureCollection::RemoveAt(int32_t) method
 
 
 Removes the signature at the specified index.
@@ -24,6 +24,6 @@ void Aspose::Slides::DigitalSignatureCollection::RemoveAt(int32_t index) overrid
 
 ## See Also
 
-* Class [DigitalSignatureCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DigitalSignatureCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

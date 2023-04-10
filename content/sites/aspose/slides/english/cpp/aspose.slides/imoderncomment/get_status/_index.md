@@ -17,7 +17,7 @@ virtual ModernCommentStatus Aspose::Slides::IModernComment::get_Status()=0
 
 ## See Also
 
-* Enum [ModernCommentStatus](../../moderncommentstatus/)
-* Class [IModernComment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ModernCommentStatus](../moderncommentstatus/)
+* Class [IModernComment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

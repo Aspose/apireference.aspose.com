@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.effects/itint/
 Represents a [Tint](../tint/) effect. Shifts effect color values towards/away from hue by the specified amount.
 
 ```cpp
-class ITint : public virtual Aspose::Slides::Effects::IImageTransformOperation,
-              public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::ITintEffectiveData>>
+class ITint : public virtual Aspose::Slides::Effects::IImageTransformOperation,              public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::ITintEffectiveData>>
 ```
 
 ## Methods

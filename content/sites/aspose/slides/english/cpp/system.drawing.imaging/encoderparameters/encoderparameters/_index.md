@@ -24,6 +24,6 @@ System::Drawing::Imaging::EncoderParameters::EncoderParameters(int count=1)
 
 ## See Also
 
-* Class [EncoderParameters](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EncoderParameters](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

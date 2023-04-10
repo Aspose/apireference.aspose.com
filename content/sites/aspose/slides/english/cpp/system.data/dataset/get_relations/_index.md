@@ -22,8 +22,8 @@ Table relation collection object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DataRelationCollection](../../datarelationcollection/)
-* Class [DataSet](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DataRelationCollection](../datarelationcollection/)
+* Class [DataSet](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

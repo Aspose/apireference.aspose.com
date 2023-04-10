@@ -15,12 +15,7 @@ Constructor.
 System::Security::Cryptography::HMACSHA512::HMACSHA512()
 ```
 
-## See Also
-
-* Class [HMACSHA512](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
-## HMACSHA512::HMACSHA512(const [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) constructor
+## HMACSHA512::HMACSHA512(const System::ArrayPtr\<uint8_t\>\&) constructor
 
 
 Constructor.
@@ -38,7 +33,7 @@ System::Security::Cryptography::HMACSHA512::HMACSHA512(const System::ArrayPtr<ui
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [HMACSHA512](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [HMACSHA512](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

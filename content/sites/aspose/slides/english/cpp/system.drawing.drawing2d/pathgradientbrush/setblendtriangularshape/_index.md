@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/setblendtriangularshape/
 ---
-## PathGradientBrush::SetBlendTriangularShape(**float**, **float**) method
+## PathGradientBrush::SetBlendTriangularShape(float, float) method
 
 
 NOT IMPLEMENTED.
@@ -18,6 +18,6 @@ void System::Drawing::Drawing2D::PathGradientBrush::SetBlendTriangularShape(floa
 
 ## See Also
 
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

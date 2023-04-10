@@ -22,7 +22,7 @@ String System::Net::Http::Headers::WarningHeaderValue::ToString() const override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WarningHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WarningHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

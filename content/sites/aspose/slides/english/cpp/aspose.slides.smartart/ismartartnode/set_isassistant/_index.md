@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.smartart/ismartartnode/set_isassistant/
 ---
-## ISmartArtNode::set_IsAssistant(**bool**) method
+## ISmartArtNode::set_IsAssistant(bool) method
 
 
 Sets the node as assistant. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::SmartArt::ISmartArtNode::set_IsAssistant(bool value
 
 ## See Also
 
-* Class [ISmartArtNode](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISmartArtNode](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

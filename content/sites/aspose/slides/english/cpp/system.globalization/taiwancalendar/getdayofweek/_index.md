@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.globalization/taiwancalendar/getdayofweek/
 ---
-## TaiwanCalendar::GetDayOfWeek([DateTime](../../../system/datetime/)) const method
+## TaiwanCalendar::GetDayOfWeek(DateTime) const method
 
 
 Gets day of week for the specified time point.
@@ -28,8 +28,8 @@ Day of week in the time point passed.
 
 ## See Also
 
-* Enum [DayOfWeek](../../../system/dayofweek/)
-* Class [DateTime](../../../system/datetime/)
-* Class [TaiwanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DayOfWeek](../../system/dayofweek/)
+* Class [DateTime](../../system/datetime/)
+* Class [TaiwanCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.slides.charts/chartseriescollection/settemplateweakptr/
 ---
-## ChartSeriesCollection::SetTemplateWeakPtr(**uint32_t**) method
+## ChartSeriesCollection::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartSeriesCollection::SetTemplateWeakPtr(uint32_t 
 
 ## See Also
 
-* Class [ChartSeriesCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeriesCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

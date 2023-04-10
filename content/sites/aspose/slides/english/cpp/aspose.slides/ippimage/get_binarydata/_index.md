@@ -17,7 +17,7 @@ virtual System::ArrayPtr<uint8_t> Aspose::Slides::IPPImage::get_BinaryData()=0
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [IPPImage](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [IPPImage](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

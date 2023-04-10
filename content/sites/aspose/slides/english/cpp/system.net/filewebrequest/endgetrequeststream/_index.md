@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net/filewebrequest/endgetrequeststream/
 ---
-## FileWebRequest::EndGetRequestStream([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
+## FileWebRequest::EndGetRequestStream(System::SharedPtr\<IAsyncResult\>) method
 
 
 Waits until the specified asynchronous operation to get a stream completes.
@@ -28,9 +28,9 @@ The stream for writing data to the resource.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Class [FileWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [FileWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

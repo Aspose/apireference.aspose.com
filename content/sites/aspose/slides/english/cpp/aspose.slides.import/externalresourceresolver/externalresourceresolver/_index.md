@@ -17,6 +17,6 @@ Aspose::Slides::Import::ExternalResourceResolver::ExternalResourceResolver()
 
 ## See Also
 
-* Class [ExternalResourceResolver](../)
-* Namespace [Aspose::Slides::Import](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ExternalResourceResolver](./)
+* Namespace [Aspose::Slides::Import](../)
+* Library [Aspose.Slides](../../)

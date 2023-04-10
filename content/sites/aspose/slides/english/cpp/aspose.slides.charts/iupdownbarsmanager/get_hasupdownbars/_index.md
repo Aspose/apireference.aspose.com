@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::IUpDownBarsManager::get_HasUpDownBars()=0
 
 ## See Also
 
-* Class [IUpDownBarsManager](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IUpDownBarsManager](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.reflection/fieldinfo/setvalue/
 ---
-## FieldInfo::SetValue(const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&, const [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&) method
+## FieldInfo::SetValue(const System::SharedPtr\<System::Object\>\&, const System::SharedPtr\<System::Object\>\&) method
 
 
 Sets property value to specific object.
@@ -25,8 +25,8 @@ void System::Reflection::FieldInfo::SetValue(const System::SharedPtr<System::Obj
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [FieldInfo](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [FieldInfo](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

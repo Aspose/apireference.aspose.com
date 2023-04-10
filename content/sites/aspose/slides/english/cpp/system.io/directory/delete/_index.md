@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.io/directory/delete/
 ---
-## Directory::Delete(const [String](../../../system/string/)\&, **bool**) method
+## Directory::Delete(const String\&, bool) method
 
 
 Removes the specified file or directory. Does not throw.
@@ -25,7 +25,7 @@ static void System::IO::Directory::Delete(const String &path, bool recursive=fal
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Directory](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Directory](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

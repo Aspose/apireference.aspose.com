@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/ifontsmanager/set_fontsubstrulelist/
 ---
-## IFontsManager::set_FontSubstRuleList([System::SharedPtr](../../../system/sharedptr/)\<[IFontSubstRuleCollection](../../ifontsubstrulecollection/)\>) method
+## IFontsManager::set_FontSubstRuleList(System::SharedPtr\<IFontSubstRuleCollection\>) method
 
 
 Font substitutions to use when rendering Write [IFontSubstRuleCollection](../../ifontsubstrulecollection/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IFontsManager::set_FontSubstRuleList(System::Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontSubstRuleCollection](../../ifontsubstrulecollection/)
-* Class [IFontsManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontSubstRuleCollection](../ifontsubstrulecollection/)
+* Class [IFontsManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

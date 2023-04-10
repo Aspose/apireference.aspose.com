@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.io/binarywriter/binarywriter/
 ---
-## BinaryWriter::BinaryWriter(const [StreamPtr](../../../system/streamptr/)\&, const [EncodingPtr](../../../system/encodingptr/)\&, **bool**) constructor
+## BinaryWriter::BinaryWriter(const StreamPtr\&, const EncodingPtr\&, bool) constructor
 
 
 Constructs an instance of [BinaryWriter](../) class that writes data to the specified stream using the specified encoding.
@@ -26,8 +26,8 @@ System::IO::BinaryWriter::BinaryWriter(const StreamPtr &stream, const EncodingPt
 
 ## See Also
 
-* Typedef [StreamPtr](../../../system/streamptr/)
-* Typedef [EncodingPtr](../../../system/encodingptr/)
-* Class [BinaryWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [StreamPtr](../../system/streamptr/)
+* Typedef [EncodingPtr](../../system/encodingptr/)
+* Class [BinaryWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

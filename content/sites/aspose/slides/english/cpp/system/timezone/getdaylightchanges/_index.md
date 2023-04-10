@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system/timezone/getdaylightchanges/
 ---
-## TimeZone::GetDaylightChanges(**int32_t**) method
+## TimeZone::GetDaylightChanges(int32_t) method
 
 
 Returns the daylight saving time period for a particular year.
@@ -22,7 +22,7 @@ A DaylightTime object that contains the start and end date for daylight saving t
 
 ## See Also
 
-* Typedef [DaylightTimePtr](../../../system.globalization/daylighttimeptr/)
-* Class [TimeZone](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DaylightTimePtr](../../system.globalization/daylighttimeptr/)
+* Class [TimeZone](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

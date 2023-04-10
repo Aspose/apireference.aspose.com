@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.net/webheadercollection/getvalues/
 ---
-## WebHeaderCollection::GetValues([String](../../../system/string/)) method
+## WebHeaderCollection::GetValues(String) method
 
 
 Returns the collection of the header values.
@@ -28,8 +28,8 @@ The collection of the header values.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [WebHeaderCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [WebHeaderCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

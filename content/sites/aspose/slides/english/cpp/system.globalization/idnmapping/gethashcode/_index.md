@@ -22,6 +22,6 @@ A 32-bit signed integer hash code.
 
 ## See Also
 
-* Class [IdnMapping](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IdnMapping](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

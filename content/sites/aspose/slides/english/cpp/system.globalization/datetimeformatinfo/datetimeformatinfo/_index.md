@@ -17,6 +17,6 @@ System::Globalization::DateTimeFormatInfo::DateTimeFormatInfo()
 
 ## See Also
 
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

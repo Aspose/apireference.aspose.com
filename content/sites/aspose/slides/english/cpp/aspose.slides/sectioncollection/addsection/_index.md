@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/sectioncollection/addsection/
 ---
-## SectionCollection::AddSection([System::String](../../../system/string/), [System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>) method
+## SectionCollection::AddSection(System::String, System::SharedPtr\<ISlide\>) method
 
 
 Add slides section started form specific slide.
@@ -29,10 +29,10 @@ Added section.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISection](../../isection/)
-* Class [String](../../../system/string/)
-* Class [ISlide](../../islide/)
-* Class [SectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISection](../isection/)
+* Class [String](../../system/string/)
+* Class [ISlide](../islide/)
+* Class [SectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

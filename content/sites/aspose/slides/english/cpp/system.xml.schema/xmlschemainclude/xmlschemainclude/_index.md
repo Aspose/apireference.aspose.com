@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaInclude::XmlSchemaInclude()
 
 ## See Also
 
-* Class [XmlSchemaInclude](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaInclude](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

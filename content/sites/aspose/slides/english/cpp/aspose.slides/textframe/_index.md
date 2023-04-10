@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/textframe/
 Represents a [TextFrame](./).
 
 ```cpp
-class TextFrame : public Aspose::Slides::ITextFrame,
-                  public Aspose::Slides::IDOMObject
+class TextFrame : public Aspose::Slides::ITextFrame,                  public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

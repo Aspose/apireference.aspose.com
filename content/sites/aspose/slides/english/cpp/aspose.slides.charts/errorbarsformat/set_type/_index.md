@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/errorbarsformat/set_type/
 ---
-## ErrorBarsFormat::set_Type([ErrorBarType](../../errorbartype/)) method
+## ErrorBarsFormat::set_Type(ErrorBarType) method
 
 
 Sets type of error bars. Write [ErrorBarType](../../errorbartype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ErrorBarsFormat::set_Type(ErrorBarType value) overr
 
 ## See Also
 
-* Enum [ErrorBarType](../../errorbartype/)
-* Class [ErrorBarsFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ErrorBarType](../errorbartype/)
+* Class [ErrorBarsFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.slides/baseportionformat/set_ishardunderlinefill/
 ---
-## BasePortionFormat::set_IsHardUnderlineFill([NullableBool](../../nullablebool/)) method
+## BasePortionFormat::set_IsHardUnderlineFill(NullableBool) method
 
 
 Determines whether the underline style has own [FillFormat](../../fillformat/) properties or inherits it from the [FillFormat](../../fillformat/) properties of the text. Write [NullableBool](../../nullablebool/).
@@ -17,7 +17,7 @@ void Aspose::Slides::BasePortionFormat::set_IsHardUnderlineFill(NullableBool val
 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [BasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [BasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

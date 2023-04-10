@@ -25,7 +25,7 @@ Connection string.
 Gets connection information (e. g. server and port). 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DbConnection](../)
-* Namespace [System::Data::Common](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DbConnection](./)
+* Namespace [System::Data::Common](../)
+* Library [Aspose.Slides](../../)

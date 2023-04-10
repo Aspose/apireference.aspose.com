@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.drawing.imaging/imageattributes/clearoutputchannel/
 ---
-## ImageAttributes::ClearOutputChannel([ColorAdjustType](../../coloradjusttype/)) method
+## ImageAttributes::ClearOutputChannel(ColorAdjustType) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ void System::Drawing::Imaging::ImageAttributes::ClearOutputChannel(ColorAdjustTy
 
 ## See Also
 
-* Enum [ColorAdjustType](../../coloradjusttype/)
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorAdjustType](../coloradjusttype/)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ Aspose::Slides::Animation::ScaleEffect::ScaleEffect()
 
 ## See Also
 
-* Class [ScaleEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ScaleEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

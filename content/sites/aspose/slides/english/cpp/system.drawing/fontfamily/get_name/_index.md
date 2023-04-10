@@ -17,7 +17,7 @@ String System::Drawing::FontFamily::get_Name() const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FontFamily](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FontFamily](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

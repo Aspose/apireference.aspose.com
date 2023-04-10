@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/stylecoloreffectivedata/equals/
 ---
-## StyleColorEffectiveData::Equals([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## StyleColorEffectiveData::Equals(System::SharedPtr\<System::Object\>) method
 
 
 
@@ -17,8 +17,8 @@ bool Aspose::Slides::StyleColorEffectiveData::Equals(System::SharedPtr<System::O
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [StyleColorEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [StyleColorEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

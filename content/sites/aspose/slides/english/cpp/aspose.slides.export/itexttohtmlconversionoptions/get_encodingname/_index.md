@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Export::ITextToHtmlConversionOptions::get
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ITextToHtmlConversionOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ITextToHtmlConversionOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

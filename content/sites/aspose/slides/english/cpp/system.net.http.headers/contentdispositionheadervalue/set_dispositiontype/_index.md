@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_dispositiontype/
 ---
-## ContentDispositionHeaderValue::set_DispositionType([String](../../../system/string/)) method
+## ContentDispositionHeaderValue::set_DispositionType(String) method
 
 
 Sets a disposition type.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::ContentDispositionHeaderValue::set_DispositionT
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ContentDispositionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ContentDispositionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

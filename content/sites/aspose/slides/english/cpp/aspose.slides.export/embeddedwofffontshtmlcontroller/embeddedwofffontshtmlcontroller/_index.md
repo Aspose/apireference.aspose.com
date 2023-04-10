@@ -15,12 +15,7 @@ Creates new instance.
 Aspose::Slides::Export::EmbeddedWoffFontsHtmlController::EmbeddedWoffFontsHtmlController()
 ```
 
-## See Also
-
-* Class [EmbeddedWoffFontsHtmlController](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
-## EmbeddedWoffFontsHtmlController::EmbeddedWoffFontsHtmlController([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlFormattingController](../../ihtmlformattingcontroller/)\>) constructor
+## EmbeddedWoffFontsHtmlController::EmbeddedWoffFontsHtmlController(System::SharedPtr\<IHtmlFormattingController\>) constructor
 
 
 Creates new instance.
@@ -38,8 +33,8 @@ Aspose::Slides::Export::EmbeddedWoffFontsHtmlController::EmbeddedWoffFontsHtmlCo
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHtmlFormattingController](../../ihtmlformattingcontroller/)
-* Class [EmbeddedWoffFontsHtmlController](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [EmbeddedWoffFontsHtmlController](./)
+* Class [IHtmlFormattingController](../ihtmlformattingcontroller/)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

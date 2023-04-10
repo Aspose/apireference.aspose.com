@@ -17,7 +17,7 @@ virtual ChartType Aspose::Slides::Charts::IChartSeries::get_Type()=0
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [IChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [IChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

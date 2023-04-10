@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system/random/nextbytes/
 ---
-## Random::NextBytes(const [ArrayPtr](../../arrayptr/)\<**uint8_t**\>\&) method
+## Random::NextBytes(const ArrayPtr\<uint8_t\>\&) method
 
 
 Fills the elements of the specified array of bytes with random numbers.
@@ -24,7 +24,7 @@ virtual void System::Random::NextBytes(const ArrayPtr<uint8_t> &buffer)
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [Random](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Class [Random](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

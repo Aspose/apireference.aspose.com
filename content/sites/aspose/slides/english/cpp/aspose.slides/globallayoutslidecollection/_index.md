@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/globallayoutslidecollection/
 Represents a collection of all layout slides in presentation. Extends [LayoutSlideCollection](../layoutslidecollection/) class with methods for adding/cloning layout slides in context of uniting of the individual collections of master's layout slides.
 
 ```cpp
-class GlobalLayoutSlideCollection : public Aspose::Slides::LayoutSlideCollection,
-                                    public Aspose::Slides::IGlobalLayoutSlideCollection
+class GlobalLayoutSlideCollection : public Aspose::Slides::LayoutSlideCollection,                                    public Aspose::Slides::IGlobalLayoutSlideCollection
 ```
 
 ## Methods

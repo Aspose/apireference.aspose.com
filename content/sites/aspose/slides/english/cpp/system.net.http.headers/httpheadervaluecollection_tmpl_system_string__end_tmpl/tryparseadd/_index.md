@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httpheadervaluecollection_tmpl_system_string__end_tmpl/tryparseadd/
 ---
-## HttpHeaderValueCollection< System::String >::TryParseAdd([String](../../../system/string/)) method
+## HttpHeaderValueCollection< System::String >::TryParseAdd(String) method
 
 
 
@@ -17,7 +17,7 @@ bool System::Net::Http::Headers::HttpHeaderValueCollection<System::String>::TryP
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpHeaderValueCollection< System::String >](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpHeaderValueCollection< System::String >](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

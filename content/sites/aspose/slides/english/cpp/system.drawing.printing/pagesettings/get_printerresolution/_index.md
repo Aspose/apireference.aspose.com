@@ -18,8 +18,8 @@ SharedPtr<PrinterResolution> System::Drawing::Printing::PageSettings::get_Printe
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PrinterResolution](../../printerresolution/)
-* Class [PageSettings](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [PrinterResolution](../printerresolution/)
+* Class [PageSettings](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

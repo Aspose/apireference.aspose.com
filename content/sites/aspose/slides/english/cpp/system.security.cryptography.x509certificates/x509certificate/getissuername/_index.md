@@ -22,7 +22,7 @@ The name of the certification authority.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [X509Certificate](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [X509Certificate](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

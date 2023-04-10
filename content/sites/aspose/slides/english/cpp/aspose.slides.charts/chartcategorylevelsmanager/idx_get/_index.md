@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.charts/chartcategorylevelsmanager/idx_get/
 ---
-## ChartCategoryLevelsManager::idx_get(**int32_t**) method
+## ChartCategoryLevelsManager::idx_get(int32_t) method
 
 
 Returns [IChartDataCell](../../ichartdatacell/) object for defined level.
@@ -17,8 +17,8 @@ System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::ChartCategoryLevelsMan
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataCell](../../ichartdatacell/)
-* Class [ChartCategoryLevelsManager](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataCell](../ichartdatacell/)
+* Class [ChartCategoryLevelsManager](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

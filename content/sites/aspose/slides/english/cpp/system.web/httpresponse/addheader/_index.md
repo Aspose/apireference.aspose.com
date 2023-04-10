@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.web/httpresponse/addheader/
 ---
-## HttpResponse::AddHeader(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## HttpResponse::AddHeader(const String\&, const String\&) method
 
 
 Not implemented.
@@ -17,7 +17,7 @@ void System::Web::HttpResponse::AddHeader(const String &name, const String &valu
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpResponse](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpResponse](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

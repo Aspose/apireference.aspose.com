@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/collectionasserthelper/makediff/
 ---
-## CollectionAssertHelper::MakeDiff(const [System::SharedPtr](../../sharedptr/)\<[System::Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<T1\>\>\&, const [System::SharedPtr](../../sharedptr/)\<[System::Collections::Generic::IEnumerable](../../../system.collections.generic/ienumerable/)\<T2\>\>\&) method
+## CollectionAssertHelper::MakeDiff(const System::SharedPtr\<System::Collections::Generic::IEnumerable\<T1\>\>\&, const System::SharedPtr\<System::Collections::Generic::IEnumerable\<T2\>\>\&) method
 
 
 Calculates 'diff' between two collections. For every element of each collection as key resulting value will be positive if element occures more times in \"expected\" collection, negative if element occures more times in \"actual\" collection, and zero if element occures equal times in each collection.
@@ -36,9 +36,9 @@ Map of per-value comparison results as per rules above.
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Dictionary](../../../system.collections.generic/dictionary/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
-* Struct [CollectionAssertHelper](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Dictionary](../../system.collections.generic/dictionary/)
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
+* Struct [CollectionAssertHelper](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

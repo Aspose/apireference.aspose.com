@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.globalization/gregoriancalendar/set_calendartype/
 ---
-## GregorianCalendar::set_CalendarType([GregorianCalendarTypes](../../gregoriancalendartypes/)) method
+## GregorianCalendar::set_CalendarType(GregorianCalendarTypes) method
 
 
 Sets Gregorian calendar type.
@@ -24,7 +24,7 @@ virtual void System::Globalization::GregorianCalendar::set_CalendarType(Gregoria
 
 ## See Also
 
-* Enum [GregorianCalendarTypes](../../gregoriancalendartypes/)
-* Class [GregorianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [GregorianCalendarTypes](../gregoriancalendartypes/)
+* Class [GregorianCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

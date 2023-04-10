@@ -28,7 +28,7 @@ GroupPtr System::Text::RegularExpressions::GroupCollectionPtr::operator[](size_t
 
 ## See Also
 
-* Typedef [GroupPtr](../../groupptr/)
-* Class [GroupCollectionPtr](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [GroupPtr](../groupptr/)
+* Class [GroupCollectionPtr](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

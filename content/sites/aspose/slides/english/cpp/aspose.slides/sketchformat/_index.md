@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/sketchformat/
 Represents properties for lines sketch format.
 
 ```cpp
-class SketchFormat : public Aspose::Slides::PVIObject,
-                     public Aspose::Slides::ISketchFormat
+class SketchFormat : public Aspose::Slides::PVIObject,                     public Aspose::Slides::ISketchFormat
 ```
 
 ## Methods

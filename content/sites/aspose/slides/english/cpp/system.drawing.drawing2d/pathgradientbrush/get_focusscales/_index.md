@@ -17,7 +17,7 @@ PointF System::Drawing::Drawing2D::PathGradientBrush::get_FocusScales() const
 
 ## See Also
 
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

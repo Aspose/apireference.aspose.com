@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/ioutershadow/set_blurradius/
 ---
-## IOuterShadow::set_BlurRadius(**double**) method
+## IOuterShadow::set_BlurRadius(double) method
 
 
 [Blur](../../blur/) radius. Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IOuterShadow::set_BlurRadius(double value)
 
 ## See Also
 
-* Class [IOuterShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IOuterShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

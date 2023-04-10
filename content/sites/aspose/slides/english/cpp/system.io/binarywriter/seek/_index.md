@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.io/binarywriter/seek/
 ---
-## BinaryWriter::Seek(int, [System::IO::SeekOrigin](../../seekorigin/)) method
+## BinaryWriter::Seek(int, System::IO::SeekOrigin) method
 
 
 Sets the position of the stream represented by the current object.
@@ -29,7 +29,7 @@ The new position of the stream
 
 ## See Also
 
-* Enum [SeekOrigin](../../seekorigin/)
-* Class [BinaryWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SeekOrigin](../seekorigin/)
+* Class [BinaryWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography.xml/x509issuerserial/set_issuername/
 ---
-## X509IssuerSerial::set_IssuerName([String](../../../system/string/)) method
+## X509IssuerSerial::set_IssuerName(String) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::X509IssuerSerial::set_IssuerName(Strin
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [X509IssuerSerial](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [X509IssuerSerial](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

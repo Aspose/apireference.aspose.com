@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemacomplexcontent/set_content/
 ---
-## XmlSchemaComplexContent::set_Content([SharedPtr](../../../system/sharedptr/)\<[XmlSchemaContent](../../xmlschemacontent/)\>) method
+## XmlSchemaComplexContent::set_Content(SharedPtr\<XmlSchemaContent\>) method
 
 
 Sets the content.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaComplexContent::set_Content(SharedPtr<XmlSche
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaContent](../../xmlschemacontent/)
-* Class [XmlSchemaComplexContent](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaContent](../xmlschemacontent/)
+* Class [XmlSchemaComplexContent](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

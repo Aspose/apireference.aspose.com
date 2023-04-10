@@ -17,6 +17,6 @@ bool Aspose::Slides::GeometryPath::get_Stroke() override
 
 ## See Also
 
-* Class [GeometryPath](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GeometryPath](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

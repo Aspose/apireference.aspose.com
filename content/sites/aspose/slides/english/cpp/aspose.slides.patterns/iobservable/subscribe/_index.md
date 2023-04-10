@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.patterns/iobservable/subscribe/
 ---
-## IObservable::Subscribe([System::SharedPtr](../../../system/sharedptr/)\<[IObserver](../../iobserver/)\>) method
+## IObservable::Subscribe(System::SharedPtr\<IObserver\>) method
 
 
 
@@ -17,8 +17,8 @@ virtual ASPOSE_SLIDES_LOCAL_API void Aspose::Slides::Patterns::IObservable::Subs
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IObserver](../../iobserver/)
-* Class [IObservable](../)
-* Namespace [Aspose::Slides::Patterns](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IObserver](../iobserver/)
+* Class [IObservable](./)
+* Namespace [Aspose::Slides::Patterns](../)
+* Library [Aspose.Slides](../../)

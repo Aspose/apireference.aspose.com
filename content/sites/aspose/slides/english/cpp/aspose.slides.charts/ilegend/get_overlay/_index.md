@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::ILegend::get_Overlay()=0
 
 ## See Also
 
-* Class [ILegend](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILegend](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1028
 url: /cpp/aspose.slides.charts/iaxis/set_aggregationtype/
 ---
-## IAxis::set_AggregationType([AxisAggregationType](../../axisaggregationtype/)) method
+## IAxis::set_AggregationType(AxisAggregationType) method
 
 
 Represents aggregation type of category axis (binning). Applied to category. Used with Histogram or HistogramPareto series only.
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IAxis::set_AggregationType(AxisAggregationT
 
 ## See Also
 
-* Enum [AxisAggregationType](../../axisaggregationtype/)
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [AxisAggregationType](../axisaggregationtype/)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/shapebevel/
 Contains the properties of shape's main face relief.
 
 ```cpp
-class ShapeBevel : public Aspose::Slides::PVIObject,
-                   public Aspose::Slides::IShapeBevel
+class ShapeBevel : public Aspose::Slides::PVIObject,                   public Aspose::Slides::IShapeBevel
 ```
 
 ## Methods

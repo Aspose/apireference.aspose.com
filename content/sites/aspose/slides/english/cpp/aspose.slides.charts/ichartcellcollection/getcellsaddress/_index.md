@@ -22,7 +22,7 @@ Address of the set of cells in workbook [System::String](../../../system/string/
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IChartCellCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IChartCellCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

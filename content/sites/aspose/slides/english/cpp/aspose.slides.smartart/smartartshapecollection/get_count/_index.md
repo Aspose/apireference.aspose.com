@@ -17,6 +17,6 @@ int32_t Aspose::Slides::SmartArt::SmartArtShapeCollection::get_Count() override
 
 ## See Also
 
-* Class [SmartArtShapeCollection](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartArtShapeCollection](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

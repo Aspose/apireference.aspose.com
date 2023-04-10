@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.net/cookiecontainer/islocaldomain/
 ---
-## CookieContainer::IsLocalDomain([String](../../../system/string/)) method
+## CookieContainer::IsLocalDomain(String) method
 
 
 Checks if the specified domain is localhost.
@@ -28,7 +28,7 @@ True when the specified domain is localhost, otherwise false.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [CookieContainer](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [CookieContainer](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

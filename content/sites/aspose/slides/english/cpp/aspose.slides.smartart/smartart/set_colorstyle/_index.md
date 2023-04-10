@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.smartart/smartart/set_colorstyle/
 ---
-## SmartArt::set_ColorStyle([SmartArtColorType](../../smartartcolortype/)) method
+## SmartArt::set_ColorStyle(SmartArtColorType) method
 
 
 Sets color style of [SmartArt](../) object. Write [SmartArtColorType](../../smartartcolortype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::SmartArt::SmartArt::set_ColorStyle(SmartArtColorType value)
 
 ## See Also
 
-* Enum [SmartArtColorType](../../smartartcolortype/)
-* Class [SmartArt](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SmartArtColorType](../smartartcolortype/)
+* Class [SmartArt](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

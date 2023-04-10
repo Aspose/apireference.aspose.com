@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/chartdataworksheetcollection/idx_get/
 ---
-## ChartDataWorksheetCollection::idx_get(**int32_t**) method
+## ChartDataWorksheetCollection::idx_get(int32_t) method
 
 
 Returns the worksheet by index.
@@ -28,8 +28,8 @@ Instance of the [IChartDataWorksheet](../../ichartdataworksheet/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataWorksheet](../../ichartdataworksheet/)
-* Class [ChartDataWorksheetCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataWorksheet](../ichartdataworksheet/)
+* Class [ChartDataWorksheetCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

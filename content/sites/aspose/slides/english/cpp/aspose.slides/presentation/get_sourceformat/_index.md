@@ -17,7 +17,7 @@ Aspose::Slides::SourceFormat Aspose::Slides::Presentation::get_SourceFormat() ov
 
 ## See Also
 
-* Enum [SourceFormat](../../sourceformat/)
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SourceFormat](../sourceformat/)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

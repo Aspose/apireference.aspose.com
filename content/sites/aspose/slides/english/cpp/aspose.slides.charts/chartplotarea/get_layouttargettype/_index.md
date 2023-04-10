@@ -35,7 +35,7 @@ chart->get_PlotArea()->set_LayoutTargetType(LayoutTargetType::Inner);
 
 ## See Also
 
-* Enum [LayoutTargetType](../../layouttargettype/)
-* Class [ChartPlotArea](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LayoutTargetType](../layouttargettype/)
+* Class [ChartPlotArea](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

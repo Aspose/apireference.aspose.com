@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system/string/isnormalized/
 ---
-## String::IsNormalized([System::Text::NormalizationForm](../../../system.text/normalizationform/)) const method
+## String::IsNormalized(System::Text::NormalizationForm) const method
 
 
 Checks if unicode string is normalized using normalization form specified.
@@ -28,7 +28,7 @@ true if string is already normalized, false otherwise.
 
 ## See Also
 
-* Enum [NormalizationForm](../../../system.text/normalizationform/)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NormalizationForm](../../system.text/normalizationform/)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

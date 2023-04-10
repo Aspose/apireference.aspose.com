@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.security.cryptography.pkcs/signedcms/signedcms/
 ---
-## SignedCms::SignedCms(const [SharedPtr](../../../system/sharedptr/)\<[ContentInfo](../../contentinfo/)\>\&, **bool**) constructor
+## SignedCms::SignedCms(const SharedPtr\<ContentInfo\>\&, bool) constructor
 
 
 Constructor.
@@ -25,8 +25,8 @@ System::Security::Cryptography::Pkcs::SignedCms::SignedCms(const SharedPtr<Conte
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ContentInfo](../../contentinfo/)
-* Class [SignedCms](../)
-* Namespace [System::Security::Cryptography::Pkcs](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ContentInfo](../contentinfo/)
+* Class [SignedCms](./)
+* Namespace [System::Security::Cryptography::Pkcs](../)
+* Library [Aspose.Slides](../../)

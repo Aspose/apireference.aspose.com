@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_blend/
 ---
-## PathGradientBrush::set_Blend(const [SharedPtr](../../../system/sharedptr/)\<[Blend](../../blend/)\>\&) method
+## PathGradientBrush::set_Blend(const SharedPtr\<Blend\>\&) method
 
 
 Sets a blend that specifies factors and positions of base colors for this brush.
@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_Blend(const SharedPtr<Bl
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Blend](../../blend/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Blend](../blend/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

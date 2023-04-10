@@ -22,7 +22,7 @@ The protocol name from the 'Via' header value.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ViaHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ViaHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

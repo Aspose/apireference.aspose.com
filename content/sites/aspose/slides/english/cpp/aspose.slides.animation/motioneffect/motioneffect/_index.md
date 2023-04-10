@@ -17,6 +17,6 @@ Aspose::Slides::Animation::MotionEffect::MotionEffect()
 
 ## See Also
 
-* Class [MotionEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MotionEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

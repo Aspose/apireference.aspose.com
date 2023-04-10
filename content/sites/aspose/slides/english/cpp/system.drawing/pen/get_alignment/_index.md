@@ -17,7 +17,7 @@ Drawing2D::PenAlignment System::Drawing::Pen::get_Alignment() const
 
 ## See Also
 
-* Enum [PenAlignment](../../../system.drawing.drawing2d/penalignment/)
-* Class [Pen](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PenAlignment](../../system.drawing.drawing2d/penalignment/)
+* Class [Pen](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

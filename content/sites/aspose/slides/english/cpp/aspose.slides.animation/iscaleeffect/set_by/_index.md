@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/iscaleeffect/set_by/
 ---
-## IScaleEffect::set_By([System::Drawing::PointF](../../../system.drawing/pointf/)) method
+## IScaleEffect::set_By(System::Drawing::PointF) method
 
 
 describes the relative offset value for the animation (in percents). Write [System::Drawing::PointF](../../../system.drawing/pointf/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IScaleEffect::set_By(System::Drawing::Po
 
 ## See Also
 
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [IScaleEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [IScaleEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

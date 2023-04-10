@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.web.services.protocols/soapmessage/set_internalstream/
 ---
-## SoapMessage::set_InternalStream([System::SharedPtr](../../../system/sharedptr/)\<[System::IO::Stream](../../../system.io/stream/)\>) method
+## SoapMessage::set_InternalStream(System::SharedPtr\<System::IO::Stream\>) method
 
 
 Sets the stream that contains the SOAP message data.
@@ -24,8 +24,8 @@ void System::Web::Services::Protocols::SoapMessage::set_InternalStream(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [SoapMessage](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [SoapMessage](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/motioncmdpath/set_isrelative/
 ---
-## MotionCmdPath::set_IsRelative(**bool**) method
+## MotionCmdPath::set_IsRelative(bool) method
 
 
 Determine command coordinates relative or not. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Animation::MotionCmdPath::set_IsRelative(bool value) overri
 
 ## See Also
 
-* Class [MotionCmdPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MotionCmdPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

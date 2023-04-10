@@ -17,7 +17,7 @@ String System::Security::Cryptography::X509Certificates::X509ChainStatus::get_St
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [X509ChainStatus](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [X509ChainStatus](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

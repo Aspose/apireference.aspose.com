@@ -17,7 +17,7 @@ CommandEffectType Aspose::Slides::Animation::CommandEffect::get_Type() override
 
 ## See Also
 
-* Enum [CommandEffectType](../../commandeffecttype/)
-* Class [CommandEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CommandEffectType](../commandeffecttype/)
+* Class [CommandEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

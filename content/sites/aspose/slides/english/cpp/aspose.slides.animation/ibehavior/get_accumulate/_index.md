@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::Animation::IBehavior::get_Accumulate()=0
 
 ## See Also
 
-* Enum [NullableBool](../../../aspose.slides/nullablebool/)
-* Class [IBehavior](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../../aspose.slides/nullablebool/)
+* Class [IBehavior](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

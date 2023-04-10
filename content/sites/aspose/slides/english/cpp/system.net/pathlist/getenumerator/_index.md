@@ -22,11 +22,11 @@ The enumerator for the current collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
-* Class [String](../../../system/string/)
-* Class [CookieCollection](../../cookiecollection/)
-* Class [PathList](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../../system.collections.generic/ienumerator/)
+* Class [KeyValuePair](../../system.collections.generic/keyvaluepair/)
+* Class [String](../../system/string/)
+* Class [CookieCollection](../cookiecollection/)
+* Class [PathList](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

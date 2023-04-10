@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/isummaryzoomsectioncollection/getsummarysection/
 ---
-## ISummaryZoomSectionCollection::GetSummarySection([System::SharedPtr](../../../system/sharedptr/)\<[ISection](../../isection/)\>) method
+## ISummaryZoomSectionCollection::GetSummarySection(System::SharedPtr\<ISection\>) method
 
 
 Returns Summary Zoom [Section](../../section/) element for the given section.
@@ -41,9 +41,9 @@ auto selectedObject = collection->GetSummarySection(pres->get_Sections()->idx_ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISummaryZoomSection](../../isummaryzoomsection/)
-* Class [ISection](../../isection/)
-* Class [ISummaryZoomSectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISummaryZoomSection](../isummaryzoomsection/)
+* Class [ISection](../isection/)
+* Class [ISummaryZoomSectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.drawing/region/getbounds/
 ---
-## Region::GetBounds(const [SharedPtr](../../../system/sharedptr/)\<[Graphics](../../graphics/)\>\&) const method
+## Region::GetBounds(const SharedPtr\<Graphics\>\&) const method
 
 
 Gets a [RectangleF](../../rectanglef/) structure that represents a rectangle that bounds this [Region](../) on the drawing surface of a [Graphics](../../graphics/) object.
@@ -24,9 +24,9 @@ RectangleF System::Drawing::Region::GetBounds(const SharedPtr<Graphics> &graphic
 
 ## See Also
 
-* Class [RectangleF](../../rectanglef/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RectangleF](../rectanglef/)
+* Class [Graphics](../graphics/)
+* Class [Region](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

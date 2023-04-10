@@ -17,6 +17,6 @@ float Aspose::Slides::ParagraphFormat::get_MarginLeft() override
 
 ## See Also
 
-* Class [ParagraphFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ParagraphFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

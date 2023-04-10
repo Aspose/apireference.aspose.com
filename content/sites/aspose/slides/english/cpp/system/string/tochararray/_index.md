@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/system/string/tochararray/
 ---
-## String::ToCharArray(**int32_t**, **int32_t**) const method
+## String::ToCharArray(int32_t, int32_t) const method
 
 
 Converts string or substring to array of characters.
@@ -29,7 +29,7 @@ ArrayPtr<char_t> System::String::ToCharArray(int32_t startIndex=0, int32_t lengt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../arrayptr/)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

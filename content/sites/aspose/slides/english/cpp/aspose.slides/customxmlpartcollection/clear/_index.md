@@ -17,6 +17,6 @@ void Aspose::Slides::CustomXmlPartCollection::Clear() override
 
 ## See Also
 
-* Class [CustomXmlPartCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CustomXmlPartCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/aspose.slides/shape/set_alternativetext/
 ---
-## Shape::set_AlternativeText([System::String](../../../system/string/)) method
+## Shape::set_AlternativeText(System::String) method
 
 
 Sets the alternative text associated with a shape. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Shape::set_AlternativeText(System::String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Shape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Shape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

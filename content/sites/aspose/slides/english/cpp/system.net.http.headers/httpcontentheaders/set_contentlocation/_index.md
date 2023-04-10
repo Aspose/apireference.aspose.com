@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contentlocation/
 ---
-## HttpContentHeaders::set_ContentLocation([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
+## HttpContentHeaders::set_ContentLocation(System::SharedPtr\<Uri\>) method
 
 
 Sets a value of the 'Content-Location' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpContentHeaders::set_ContentLocation(System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [HttpContentHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [HttpContentHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

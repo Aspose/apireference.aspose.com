@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/portionformat/
 This class contains the text portion formatting properties. Unlike [IPortionFormatEffectiveData](../iportionformateffectivedata/), all properties of this class are writeable.
 
 ```cpp
-class PortionFormat : public Aspose::Slides::BasePortionFormat,
-                      public Aspose::Slides::IPortionFormat
+class PortionFormat : public Aspose::Slides::BasePortionFormat,                      public Aspose::Slides::IPortionFormat
 ```
 
 ## Methods

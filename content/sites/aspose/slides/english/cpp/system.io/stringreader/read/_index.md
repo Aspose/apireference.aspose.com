@@ -20,12 +20,7 @@ virtual int System::IO::StringReader::Read() override
 
 A read character or -1 if no character has been read
 
-## See Also
-
-* Class [StringReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
-## StringReader::Read([ArrayPtr](../../../system/arrayptr/)\<char_t\>, int, int) method
+## StringReader::Read(ArrayPtr\<char_t\>, int, int) method
 
 
 Reads the specified number of characters from the stream to the specified character array starting at the specified position.
@@ -49,7 +44,7 @@ The number of characters read from the stream
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [StringReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [StringReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

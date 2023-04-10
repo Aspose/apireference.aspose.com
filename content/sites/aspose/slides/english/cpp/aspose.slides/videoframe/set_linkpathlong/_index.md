@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/aspose.slides/videoframe/set_linkpathlong/
 ---
-## VideoFrame::set_LinkPathLong([System::String](../../../system/string/)) method
+## VideoFrame::set_LinkPathLong(System::String) method
 
 
 Sets the name of an video file which is linked to a [VideoFrame](../). Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::VideoFrame::set_LinkPathLong(System::String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [VideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [VideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

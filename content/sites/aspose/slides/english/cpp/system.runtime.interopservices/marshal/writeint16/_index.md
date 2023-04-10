@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.runtime.interopservices/marshal/writeint16/
 ---
-## Marshal::WriteInt16(IntPtr, int, **int16_t**) method
+## Marshal::WriteInt16(IntPtr, int, int16_t) method
 
 
 Writes short to memory.
@@ -26,6 +26,6 @@ static void System::Runtime::InteropServices::Marshal::WriteInt16(IntPtr ptr, in
 
 ## See Also
 
-* Class [Marshal](../)
-* Namespace [System::Runtime::InteropServices](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Marshal](./)
+* Namespace [System::Runtime::InteropServices](../)
+* Library [Aspose.Slides](../../)

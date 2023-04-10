@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net.http.headers/httpheadervaluecollection/parseadd/
 ---
-## HttpHeaderValueCollection::ParseAdd([String](../../../system/string/)) method
+## HttpHeaderValueCollection::ParseAdd(String) method
 
 
 Parses a header string representation and adds it to the current collection.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpHeaderValueCollection<T>::ParseAdd(String i
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpHeaderValueCollection](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpHeaderValueCollection](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

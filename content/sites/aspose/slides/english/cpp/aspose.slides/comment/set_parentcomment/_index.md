@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/comment/set_parentcomment/
 ---
-## Comment::set_ParentComment([System::SharedPtr](../../../system/sharedptr/)\<[IComment](../../icomment/)\>) method
+## Comment::set_ParentComment(System::SharedPtr\<IComment\>) method
 
 
 Sets parent comment. Write [IComment](../../icomment/).
@@ -18,8 +18,8 @@ void Aspose::Slides::Comment::set_ParentComment(System::SharedPtr<IComment> valu
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComment](../../icomment/)
-* Class [Comment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComment](../icomment/)
+* Class [Comment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

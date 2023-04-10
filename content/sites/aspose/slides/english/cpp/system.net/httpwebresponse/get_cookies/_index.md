@@ -22,8 +22,8 @@ Cookies associated with the web response.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CookieCollection](../../cookiecollection/)
-* Class [HttpWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CookieCollection](../cookiecollection/)
+* Class [HttpWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

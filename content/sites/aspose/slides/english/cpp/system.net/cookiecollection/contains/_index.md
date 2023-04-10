@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net/cookiecollection/contains/
 ---
-## CookieCollection::Contains(const [System::SharedPtr](../../../system/sharedptr/)\<[Cookie](../../cookie/)\>\&) const method
+## CookieCollection::Contains(const System::SharedPtr\<Cookie\>\&) const method
 
 
 Checks if the collection contains the specified cookie.
@@ -28,8 +28,8 @@ True when the collection contains the specified cookie, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Cookie](../../cookie/)
-* Class [CookieCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Cookie](../cookie/)
+* Class [CookieCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -28,6 +28,6 @@ Index of first appearance of item in container or -1 if not found.
 
 ## See Also
 
-* Class [IList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

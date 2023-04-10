@@ -6,7 +6,7 @@ type: docs
 weight: 1028
 url: /cpp/system.xml.xpath/xpathnavigator/insertelementafter/
 ---
-## XPathNavigator::InsertElementAfter([String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/), [String](../../../system/string/)) method
+## XPathNavigator::InsertElementAfter(String, String, String, String) method
 
 
 Creates a new sibling element after the current node using the namespace prefix, local name and namespace URI specified, with the value specified.
@@ -27,7 +27,7 @@ virtual void System::Xml::XPath::XPathNavigator::InsertElementAfter(String prefi
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

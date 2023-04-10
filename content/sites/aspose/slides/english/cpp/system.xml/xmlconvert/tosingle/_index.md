@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/system.xml/xmlconvert/tosingle/
 ---
-## XmlConvert::ToSingle([String](../../../system/string/)) method
+## XmlConvert::ToSingle(String) method
 
 
 Converts the [String](../../../system/string/) to a [Single](../../../system/single/) equivalent.
@@ -28,7 +28,7 @@ A [Single](../../../system/single/) equivalent of the string.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlConvert](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

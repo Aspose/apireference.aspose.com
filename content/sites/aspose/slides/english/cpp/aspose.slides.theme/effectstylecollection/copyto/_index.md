@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.theme/effectstylecollection/copyto/
 ---
-## EffectStyleCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IEffectStyle](../../ieffectstyle/)\>\>, **int32_t**) method
+## EffectStyleCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<IEffectStyle\>\>, int32_t) method
 
 
 Copies all elements from the collection to the specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::Theme::EffectStyleCollection::CopyTo(System::ArrayPtr<Syste
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffectStyle](../../ieffectstyle/)
-* Class [EffectStyleCollection](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffectStyle](../ieffectstyle/)
+* Class [EffectStyleCollection](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

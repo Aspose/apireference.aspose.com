@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.net/httpwebresponse/getresponseheader/
 ---
-## HttpWebResponse::GetResponseHeader([String](../../../system/string/)) method
+## HttpWebResponse::GetResponseHeader(String) method
 
 
 Returns the corresponding value for the specified header name.
@@ -28,7 +28,7 @@ The corresponding value for the specified header name.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/system.drawing/pen/set_customstartcap/
 ---
-## Pen::set_CustomStartCap(const [SharedPtr](../../../system/sharedptr/)\<[Drawing2D::CustomLineCap](../../../system.drawing.drawing2d/customlinecap/)\>\&) method
+## Pen::set_CustomStartCap(const SharedPtr\<Drawing2D::CustomLineCap\>\&) method
 
 
 Sets the custom start line cap.
@@ -24,8 +24,8 @@ void System::Drawing::Pen::set_CustomStartCap(const SharedPtr<Drawing2D::CustomL
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CustomLineCap](../../../system.drawing.drawing2d/customlinecap/)
-* Class [Pen](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CustomLineCap](../../system.drawing.drawing2d/customlinecap/)
+* Class [Pen](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

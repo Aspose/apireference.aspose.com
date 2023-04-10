@@ -22,7 +22,7 @@ The name of the type.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/autoshapelock/set_groupinglocked/
 ---
-## AutoShapeLock::set_GroupingLocked(**bool**) method
+## AutoShapeLock::set_GroupingLocked(bool) method
 
 
 Determines whether an adding this shape to a group is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::AutoShapeLock::set_GroupingLocked(bool value) override
 
 ## See Also
 
-* Class [AutoShapeLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AutoShapeLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

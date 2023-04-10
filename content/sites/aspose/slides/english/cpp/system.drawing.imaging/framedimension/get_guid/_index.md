@@ -17,7 +17,7 @@ System::Guid System::Drawing::Imaging::FrameDimension::get_Guid() const
 
 ## See Also
 
-* Class [Guid](../../../system/guid/)
-* Class [FrameDimension](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Guid](../../system/guid/)
+* Class [FrameDimension](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

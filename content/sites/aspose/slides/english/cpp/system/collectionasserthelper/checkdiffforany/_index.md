@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system/collectionasserthelper/checkdiffforany/
 ---
-## CollectionAssertHelper::CheckDiffForAny(const std::function\<**bool**(int)>\&, const [System::SharedPtr](../../sharedptr/)\<[System::Collections::Generic::ICollection](../../../system.collections.generic/icollection/)\<**int32_t**\>\>\&) method
+## CollectionAssertHelper::CheckDiffForAny(const std::function\<bool(int)>\&, const System::SharedPtr\<System::Collections::Generic::ICollection\<int32_t\>\>\&) method
 
 
 Checks that any collection element adheres the predicate.
@@ -29,8 +29,8 @@ True if check suceeds for any element, false if all pass.
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [ICollection](../../../system.collections.generic/icollection/)
-* Struct [CollectionAssertHelper](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [ICollection](../../system.collections.generic/icollection/)
+* Struct [CollectionAssertHelper](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

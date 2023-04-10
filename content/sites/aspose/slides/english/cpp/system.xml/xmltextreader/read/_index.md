@@ -22,6 +22,6 @@ bool System::Xml::XmlTextReader::Read() override
 
 ## See Also
 
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

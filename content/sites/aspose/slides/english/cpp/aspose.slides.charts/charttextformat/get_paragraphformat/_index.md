@@ -17,8 +17,8 @@ System::SharedPtr<IChartParagraphFormat> Aspose::Slides::Charts::ChartTextFormat
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartParagraphFormat](../../ichartparagraphformat/)
-* Class [ChartTextFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartParagraphFormat](../ichartparagraphformat/)
+* Class [ChartTextFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

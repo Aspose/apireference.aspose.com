@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net/iwebproxy/set_credentials/
 ---
-## IWebProxy::set_Credentials([System::SharedPtr](../../../system/sharedptr/)\<[ICredentials](../../icredentials/)\>) method
+## IWebProxy::set_Credentials(System::SharedPtr\<ICredentials\>) method
 
 
 Sets credentials for authentication on the proxy server.
@@ -24,8 +24,8 @@ virtual void System::Net::IWebProxy::set_Credentials(System::SharedPtr<ICredenti
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICredentials](../../icredentials/)
-* Class [IWebProxy](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICredentials](../icredentials/)
+* Class [IWebProxy](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

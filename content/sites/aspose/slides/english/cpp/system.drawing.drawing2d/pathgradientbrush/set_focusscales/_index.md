@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/set_focusscales/
 ---
-## PathGradientBrush::set_FocusScales(const [PointF](../../../system.drawing/pointf/)\&) method
+## PathGradientBrush::set_FocusScales(const PointF\&) method
 
 
 Sets the focus point for the gradient falloff.
@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::PathGradientBrush::set_FocusScales(const PointF
 
 ## See Also
 
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

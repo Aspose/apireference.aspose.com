@@ -25,8 +25,8 @@ System::SharedPtr<DataRowCollection> System::Data::DataTable::get_Rows()
 Gets rows present in the table. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DataRowCollection](../../datarowcollection/)
-* Class [DataTable](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DataRowCollection](../datarowcollection/)
+* Class [DataTable](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

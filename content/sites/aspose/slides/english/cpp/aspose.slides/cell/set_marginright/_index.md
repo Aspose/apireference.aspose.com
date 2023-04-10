@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/cell/set_marginright/
 ---
-## Cell::set_MarginRight(**double**) method
+## Cell::set_MarginRight(double) method
 
 
 Sets the right margin in a [TextFrame](../../textframe/). Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Cell::set_MarginRight(double value) override
 
 ## See Also
 
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

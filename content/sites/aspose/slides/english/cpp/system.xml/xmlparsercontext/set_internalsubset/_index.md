@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.xml/xmlparsercontext/set_internalsubset/
 ---
-## XmlParserContext::set_InternalSubset(const [String](../../../system/string/)\&) method
+## XmlParserContext::set_InternalSubset(const String\&) method
 
 
 Sets the internal DTD subset.
@@ -24,7 +24,7 @@ void System::Xml::XmlParserContext::set_InternalSubset(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlParserContext](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlParserContext](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.io/memorystream/trygetbuffer/
 ---
-## MemoryStream::TryGetBuffer([ArraySegment](../../../system/arraysegment/)\<**uint8_t**\>\&) method
+## MemoryStream::TryGetBuffer(ArraySegment\<uint8_t\>\&) method
 
 
 Returns the array of unsigned bytes from which this stream was created.
@@ -28,7 +28,7 @@ True if the conversion succeeded.
 
 ## See Also
 
-* Class [ArraySegment](../../../system/arraysegment/)
-* Class [MemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ArraySegment](../../system/arraysegment/)
+* Class [MemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ const WeakPtr<Object> & System::WeakReference<>::get_Target() const
 
 ## See Also
 
-* Class [WeakPtr](../../weakptr/)
-* Class [Object](../../object/)
-* Class [WeakReference<>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WeakPtr](../weakptr/)
+* Class [Object](../object/)
+* Class [WeakReference<>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

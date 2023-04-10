@@ -33,10 +33,6 @@ template<typename T> T System::setter_post_increment_wrap(T(*pGetter)(), void(*p
 
 The value of the property before incrementing
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::setter_post_increment_wrap(Host *const, T(HostGet::*)(), void(HostSet::*)(T)) function
 
 
@@ -68,10 +64,6 @@ template<typename T,typename Host,typename HostGet,typename HostSet> std::enable
 
 The value of the property before incrementing
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::setter_post_increment_wrap(Host *const, T(HostConstGet::*)() const, void(HostSet::*)(T)) function
 
 
@@ -105,5 +97,5 @@ The value of the property before incrementing
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

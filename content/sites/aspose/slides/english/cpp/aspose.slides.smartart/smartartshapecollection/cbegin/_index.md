@@ -22,7 +22,7 @@ An iterator pointing to the first const-qualified element (if any) of the collec
 
 ## See Also
 
-* Typedef [const_iterator](../const_iterator/)
-* Class [SmartArtShapeCollection](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [const_iterator](./const_iterator/)
+* Class [SmartArtShapeCollection](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

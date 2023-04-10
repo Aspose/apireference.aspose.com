@@ -32,7 +32,7 @@ String result = (AsCast<Charts::ChartData>(chart->get_ChartData()))->GetRange();
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ChartData](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ChartData](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

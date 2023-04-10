@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.net/cookie/set_expires/
 ---
-## Cookie::set_Expires([DateTime](../../../system/datetime/)) method
+## Cookie::set_Expires(DateTime) method
 
 
 Sets the 'Expires' attribute's value.
@@ -24,7 +24,7 @@ void System::Net::Cookie::set_Expires(DateTime value)
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

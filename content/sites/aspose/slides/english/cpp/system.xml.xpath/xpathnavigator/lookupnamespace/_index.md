@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/system.xml.xpath/xpathnavigator/lookupnamespace/
 ---
-## XPathNavigator::LookupNamespace(const [String](../../../system/string/)\&) method
+## XPathNavigator::LookupNamespace(const String\&) method
 
 
 Returns the namespace URI for the specified prefix.
@@ -28,7 +28,7 @@ A [String](../../../system/string/) that contains the namespace URI assigned to 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

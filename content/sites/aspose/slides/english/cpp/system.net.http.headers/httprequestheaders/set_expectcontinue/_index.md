@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.net.http.headers/httprequestheaders/set_expectcontinue/
 ---
-## HttpRequestHeaders::set_ExpectContinue([Nullable](../../../system/nullable/)\<**bool**\>) method
+## HttpRequestHeaders::set_ExpectContinue(Nullable\<bool\>) method
 
 
 Sets a value that indicates if the 'Expect' header value contains 'Continue'.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::HttpRequestHeaders::set_ExpectContinue(Nullable
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.collections.objectmodel/readonlycollection/settemplateweakptr/
 ---
-## ReadOnlyCollection::SetTemplateWeakPtr(**uint32_t**) method
+## ReadOnlyCollection::SetTemplateWeakPtr(uint32_t) method
 
 
 Does nothing as read-only collection only wraps data and stores nothing.
@@ -17,6 +17,6 @@ void System::Collections::ObjectModel::ReadOnlyCollection<T>::SetTemplateWeakPtr
 
 ## See Also
 
-* Class [ReadOnlyCollection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ReadOnlyCollection](./)
+* Namespace [System::Collections::ObjectModel](../)
+* Library [Aspose.Slides](../../)

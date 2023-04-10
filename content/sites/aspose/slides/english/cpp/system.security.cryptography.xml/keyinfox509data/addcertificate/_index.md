@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.security.cryptography.xml/keyinfox509data/addcertificate/
 ---
-## KeyInfoX509Data::AddCertificate([SharedPtr](../../../system/sharedptr/)\<[X509Certificates::X509Certificate](../../../system.security.cryptography.x509certificates/x509certificate/)\>) method
+## KeyInfoX509Data::AddCertificate(SharedPtr\<X509Certificates::X509Certificate\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::KeyInfoX509Data::AddCertificate(Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509Certificate](../../../system.security.cryptography.x509certificates/x509certificate/)
-* Class [KeyInfoX509Data](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [X509Certificate](../../system.security.cryptography.x509certificates/x509certificate/)
+* Class [KeyInfoX509Data](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

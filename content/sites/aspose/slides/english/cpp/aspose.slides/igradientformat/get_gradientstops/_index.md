@@ -17,8 +17,8 @@ virtual System::SharedPtr<IGradientStopCollection> Aspose::Slides::IGradientForm
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGradientStopCollection](../../igradientstopcollection/)
-* Class [IGradientFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGradientStopCollection](../igradientstopcollection/)
+* Class [IGradientFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

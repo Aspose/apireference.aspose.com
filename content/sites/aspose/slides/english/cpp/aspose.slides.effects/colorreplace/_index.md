@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.effects/colorreplace/
 Represents a Color Replacement effect. All effect colors are changed to a fixed color. Alpha values are unaffected.
 
 ```cpp
-class ColorReplace : public Aspose::Slides::Effects::ImageTransformOperation,
-                     public Aspose::Slides::Effects::IColorReplace,
-                     public Aspose::Slides::Effects::IVisualEffect
+class ColorReplace : public Aspose::Slides::Effects::ImageTransformOperation,                     public Aspose::Slides::Effects::IColorReplace,                     public Aspose::Slides::Effects::IVisualEffect
 ```
 
 ## Methods

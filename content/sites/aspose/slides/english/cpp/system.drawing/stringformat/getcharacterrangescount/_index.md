@@ -22,6 +22,6 @@ a size of the [CharacterRange](../../characterrange/) array
 
 ## See Also
 
-* Class [StringFormat](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StringFormat](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

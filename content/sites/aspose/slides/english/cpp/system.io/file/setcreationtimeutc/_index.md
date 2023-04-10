@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/system.io/file/setcreationtimeutc/
 ---
-## File::SetCreationTimeUtc(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## File::SetCreationTimeUtc(const String\&, DateTime) method
 
 
 NOT IMPLEMENTED.
@@ -18,8 +18,8 @@ static void System::IO::File::SetCreationTimeUtc(const String &path, DateTime cr
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

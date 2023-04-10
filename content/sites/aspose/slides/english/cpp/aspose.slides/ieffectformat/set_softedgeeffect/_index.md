@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/ieffectformat/set_softedgeeffect/
 ---
-## IEffectFormat::set_SoftEdgeEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::ISoftEdge](../../../aspose.slides.effects/isoftedge/)\>) method
+## IEffectFormat::set_SoftEdgeEffect(System::SharedPtr\<Effects::ISoftEdge\>) method
 
 
 Soft edge. Write [Effects::ISoftEdge](../../../aspose.slides.effects/isoftedge/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IEffectFormat::set_SoftEdgeEffect(System::SharedPtr
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISoftEdge](../../../aspose.slides.effects/isoftedge/)
-* Class [IEffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISoftEdge](../../aspose.slides.effects/isoftedge/)
+* Class [IEffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

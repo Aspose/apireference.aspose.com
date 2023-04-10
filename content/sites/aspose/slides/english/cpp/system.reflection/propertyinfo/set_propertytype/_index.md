@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.reflection/propertyinfo/set_propertytype/
 ---
-## PropertyInfo::set_PropertyType(const [TypeInfo](../../../system/typeinfo/)\&) method
+## PropertyInfo::set_PropertyType(const TypeInfo\&) method
 
 
 Sets the type of this property.
@@ -24,7 +24,7 @@ void System::Reflection::PropertyInfo::set_PropertyType(const TypeInfo &type)
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [PropertyInfo](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [PropertyInfo](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

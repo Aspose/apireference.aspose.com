@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml/xmlattributecollection/removeat/
 ---
-## XmlAttributeCollection::RemoveAt(**int32_t**) method
+## XmlAttributeCollection::RemoveAt(int32_t) method
 
 
 Removes the attribute corresponding to the specified index from the collection.
@@ -28,8 +28,8 @@ Returns **nullptr** if there is no attribute at the specified index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlAttribute](../../xmlattribute/)
-* Class [XmlAttributeCollection](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlAttribute](../xmlattribute/)
+* Class [XmlAttributeCollection](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

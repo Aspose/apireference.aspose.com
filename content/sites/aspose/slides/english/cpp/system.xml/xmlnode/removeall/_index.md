@@ -17,6 +17,6 @@ virtual void System::Xml::XmlNode::RemoveAll()
 
 ## See Also
 
-* Class [XmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

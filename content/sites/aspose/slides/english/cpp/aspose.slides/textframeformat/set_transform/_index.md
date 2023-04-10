@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.slides/textframeformat/set_transform/
 ---
-## TextFrameFormat::set_Transform([TextShapeType](../../textshapetype/)) method
+## TextFrameFormat::set_Transform(TextShapeType) method
 
 
 Sets text wrapping shape. Write [TextShapeType](../../textshapetype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::TextFrameFormat::set_Transform(TextShapeType value) overrid
 
 ## See Also
 
-* Enum [TextShapeType](../../textshapetype/)
-* Class [TextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextShapeType](../textshapetype/)
+* Class [TextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

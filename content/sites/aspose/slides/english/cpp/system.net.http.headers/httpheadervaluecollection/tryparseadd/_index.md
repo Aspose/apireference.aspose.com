@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net.http.headers/httpheadervaluecollection/tryparseadd/
 ---
-## HttpHeaderValueCollection::TryParseAdd([String](../../../system/string/)) method
+## HttpHeaderValueCollection::TryParseAdd(String) method
 
 
 Tries to parse a header string representation and add it to the current collection.
@@ -28,7 +28,7 @@ True when the parsing is successfully done, otherwise false.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpHeaderValueCollection](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpHeaderValueCollection](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.data.common/dbconnectionstringbuilder/idx_set/
 ---
-## DbConnectionStringBuilder::idx_set([String](../../../system/string/), [Object::ptr](../../../system/object/ptr/)) method
+## DbConnectionStringBuilder::idx_set(String, Object::ptr) method
 
 
 Sets named value.
@@ -25,8 +25,8 @@ virtual Object::ptr System::Data::Common::DbConnectionStringBuilder::idx_set(Str
 
 ## See Also
 
-* Typedef [ptr](../../../system/object/ptr/)
-* Class [String](../../../system/string/)
-* Class [DbConnectionStringBuilder](../)
-* Namespace [System::Data::Common](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ptr](../../system/object/ptr/)
+* Class [String](../../system/string/)
+* Class [DbConnectionStringBuilder](./)
+* Namespace [System::Data::Common](../)
+* Library [Aspose.Slides](../../)

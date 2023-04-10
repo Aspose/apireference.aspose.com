@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/aspose.slides/commentauthorcollection/settemplateweakptr/
 ---
-## CommentAuthorCollection::SetTemplateWeakPtr(**uint32_t**) method
+## CommentAuthorCollection::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::CommentAuthorCollection::SetTemplateWeakPtr(uint32_t argume
 
 ## See Also
 
-* Class [CommentAuthorCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CommentAuthorCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

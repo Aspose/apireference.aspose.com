@@ -22,7 +22,7 @@ Pointer to newly created enumerator.
 
 ## See Also
 
-* Typedef [IEnumeratorPtr](../ienumeratorptr/)
-* Class [ReadOnlyCollection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumeratorPtr](./ienumeratorptr/)
+* Class [ReadOnlyCollection](./)
+* Namespace [System::Collections::ObjectModel](../)
+* Library [Aspose.Slides](../../)

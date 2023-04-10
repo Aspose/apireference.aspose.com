@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.io/stringreader/stringreader/
 ---
-## StringReader::StringReader(const [String](../../../system/string/)\&) constructor
+## StringReader::StringReader(const String\&) constructor
 
 
 Constructs a new instance of [StringReader](../) class that reads characters from the specified string.
@@ -24,7 +24,7 @@ System::IO::StringReader::StringReader(const String &s)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

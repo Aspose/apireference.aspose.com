@@ -17,8 +17,8 @@ System::SharedPtr<System::Collections::IList> System::Collections::Generic::List
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IList](../../../system.collections/ilist/)
-* Class [ListExt](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IList](../../system.collections/ilist/)
+* Class [ListExt](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

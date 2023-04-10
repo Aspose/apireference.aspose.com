@@ -17,6 +17,6 @@ void Aspose::Slides::TagCollection::Clear() override
 
 ## See Also
 
-* Class [TagCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TagCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.net.http.headers/httpcontentheaders/set_expires/
 ---
-## HttpContentHeaders::set_Expires([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
+## HttpContentHeaders::set_Expires(Nullable\<DateTimeOffset\>) method
 
 
 Sets a value of the 'Expires' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpContentHeaders::set_Expires(Nullable<DateTi
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [DateTimeOffset](../../../system/datetimeoffset/)
-* Class [HttpContentHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [DateTimeOffset](../../system/datetimeoffset/)
+* Class [HttpContentHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

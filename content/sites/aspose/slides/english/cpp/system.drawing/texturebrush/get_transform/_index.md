@@ -17,8 +17,8 @@ System::SharedPtr<Drawing2D::Matrix> System::Drawing::TextureBrush::get_Transfor
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../../../system.drawing.drawing2d/matrix/)
-* Class [TextureBrush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Matrix](../../system.drawing.drawing2d/matrix/)
+* Class [TextureBrush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

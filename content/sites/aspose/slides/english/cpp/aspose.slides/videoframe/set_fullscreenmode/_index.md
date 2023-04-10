@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides/videoframe/set_fullscreenmode/
 ---
-## VideoFrame::set_FullScreenMode(**bool**) method
+## VideoFrame::set_FullScreenMode(bool) method
 
 
 Determines whether a video is shown in full screen mode. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::VideoFrame::set_FullScreenMode(bool value) override
 
 ## See Also
 
-* Class [VideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [VideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/ishape/set_frame/
 ---
-## IShape::set_Frame([System::SharedPtr](../../../system/sharedptr/)\<[IShapeFrame](../../ishapeframe/)\>) method
+## IShape::set_Frame(System::SharedPtr\<IShapeFrame\>) method
 
 
 Sets the shape frame's properties. Write [IShapeFrame](../../ishapeframe/).
@@ -21,8 +21,8 @@ virtual void Aspose::Slides::IShape::set_Frame(System::SharedPtr<IShapeFrame> va
 Value of each property of the returned [IShapeFrame](../../ishapeframe/) instance is not undefined (is not NaN or NotDefined). Value of each property of the assigned [IShapeFrame](../../ishapeframe/) instance must be not undefined (must be not NaN or NotDefined). You can set undefined values for RawFrame instance properties. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShapeFrame](../../ishapeframe/)
-* Class [IShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShapeFrame](../ishapeframe/)
+* Class [IShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

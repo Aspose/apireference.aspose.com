@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net.http.headers/contentdispositionheadervalue/set_name/
 ---
-## ContentDispositionHeaderValue::set_Name([String](../../../system/string/)) method
+## ContentDispositionHeaderValue::set_Name(String) method
 
 
 Sets a name for a part of the content body.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::ContentDispositionHeaderValue::set_Name(String 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ContentDispositionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ContentDispositionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

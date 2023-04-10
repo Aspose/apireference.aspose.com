@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.net/cookieparser/cookieparser/
 ---
-## CookieParser::CookieParser([String](../../../system/string/)) constructor
+## CookieParser::CookieParser(String) constructor
 
 
 Constructs a new instance.
@@ -24,7 +24,7 @@ System::Net::CookieParser::CookieParser(String cookieString)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [CookieParser](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [CookieParser](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

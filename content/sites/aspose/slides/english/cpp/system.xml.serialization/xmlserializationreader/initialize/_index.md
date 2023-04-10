@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.xml.serialization/xmlserializationreader/initialize/
 ---
-## XmlSerializationReader::Initialize([System::SharedPtr](../../../system/sharedptr/)\<[XmlReader](../../../system.xml/xmlreader/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[XmlSerializer](../../xmlserializer/)\>) method
+## XmlSerializationReader::Initialize(System::SharedPtr\<XmlReader\>, System::SharedPtr\<XmlSerializer\>) method
 
 
 Initializes [XmlSerializationReader](../) class.
@@ -25,9 +25,9 @@ void System::Xml::Serialization::XmlSerializationReader::Initialize(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlReader](../../../system.xml/xmlreader/)
-* Class [XmlSerializer](../../xmlserializer/)
-* Class [XmlSerializationReader](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlReader](../../system.xml/xmlreader/)
+* Class [XmlSerializer](../xmlserializer/)
+* Class [XmlSerializationReader](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

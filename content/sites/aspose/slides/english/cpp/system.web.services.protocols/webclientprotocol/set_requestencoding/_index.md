@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.web.services.protocols/webclientprotocol/set_requestencoding/
 ---
-## WebClientProtocol::set_RequestEncoding([System::SharedPtr](../../../system/sharedptr/)\<[Text::Encoding](../../../system.text/encoding/)\>) method
+## WebClientProtocol::set_RequestEncoding(System::SharedPtr\<Text::Encoding\>) method
 
 
 Sets the encoding that is used to make the client requests.
@@ -24,8 +24,8 @@ void System::Web::Services::Protocols::WebClientProtocol::set_RequestEncoding(Sy
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Encoding](../../../system.text/encoding/)
-* Class [WebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Encoding](../../system.text/encoding/)
+* Class [WebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<ICustomXmlPartCollection> Aspose::Slides::CustomData::get_Cust
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICustomXmlPartCollection](../../icustomxmlpartcollection/)
-* Class [CustomData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICustomXmlPartCollection](../icustomxmlpartcollection/)
+* Class [CustomData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

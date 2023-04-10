@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.security/securityelement/isvalidtag/
 ---
-## SecurityElement::IsValidTag(const [String](../../../system/string/)\&) method
+## SecurityElement::IsValidTag(const String\&) method
 
 
 Checks if tag is valid.
@@ -28,7 +28,7 @@ True if tag is valid, false otherwise.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::ChartDataPoint::get_InvertIfNegative() override
 
 ## See Also
 
-* Class [ChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

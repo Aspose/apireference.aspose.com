@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.io/file/copy/
 ---
-## File::Copy(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, **bool**) method
+## File::Copy(const String\&, const String\&, bool) method
 
 
 Copies the specified file to the specified location. If the destination file already exists, a parameter specifies if it should be overwritten.
@@ -26,7 +26,7 @@ static void System::IO::File::Copy(const String &sourceFileName, const String &d
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

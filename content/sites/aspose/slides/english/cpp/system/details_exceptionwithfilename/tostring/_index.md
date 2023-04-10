@@ -18,7 +18,7 @@ virtual String System::Details_ExceptionWithFilename<T, typename>::ToString() co
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [Details_ExceptionWithFilename](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [Details_ExceptionWithFilename](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

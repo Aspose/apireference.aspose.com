@@ -18,8 +18,8 @@ SharedPtr<PageSettings> System::Drawing::Printing::PrintPageEventArgs::get_PageS
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PageSettings](../../pagesettings/)
-* Class [PrintPageEventArgs](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [PageSettings](../pagesettings/)
+* Class [PrintPageEventArgs](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

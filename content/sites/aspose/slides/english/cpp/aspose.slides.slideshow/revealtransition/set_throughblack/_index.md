@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.slideshow/revealtransition/set_throughblack/
 ---
-## RevealTransition::set_ThroughBlack(**bool**) method
+## RevealTransition::set_ThroughBlack(bool) method
 
 
 Specifies whether the transition fades through black. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShow::RevealTransition::set_ThroughBlack(bool value) o
 
 ## See Also
 
-* Class [RevealTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RevealTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

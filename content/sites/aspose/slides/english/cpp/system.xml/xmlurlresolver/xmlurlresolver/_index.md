@@ -17,6 +17,6 @@ System::Xml::XmlUrlResolver::XmlUrlResolver()
 
 ## See Also
 
-* Class [XmlUrlResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlUrlResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

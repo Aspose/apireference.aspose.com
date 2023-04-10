@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.net/servicepointmanager/set_dnsrefreshtimeout/
 ---
-## ServicePointManager::set_DnsRefreshTimeout(**int32_t**) method
+## ServicePointManager::set_DnsRefreshTimeout(int32_t) method
 
 
 Sets a timeout in milliseconds during which a DNS resolution is considered valid.
@@ -24,6 +24,6 @@ static void System::Net::ServicePointManager::set_DnsRefreshTimeout(int32_t valu
 
 ## See Also
 
-* Class [ServicePointManager](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePointManager](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartSeriesCollection::Clear() override
 
 ## See Also
 
-* Class [ChartSeriesCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeriesCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

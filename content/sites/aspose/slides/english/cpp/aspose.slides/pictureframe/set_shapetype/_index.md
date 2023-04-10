@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/pictureframe/set_shapetype/
 ---
-## PictureFrame::set_ShapeType([Aspose::Slides::ShapeType](../../shapetype/)) method
+## PictureFrame::set_ShapeType(Aspose::Slides::ShapeType) method
 
 
 
@@ -43,7 +43,7 @@ Sets the [AutoShape](../../autoshape/) type for a [PictureFrame](../). There are
 Write [Slides::ShapeType](../../shapetype/). 
 ## See Also
 
-* Enum [ShapeType](../../shapetype/)
-* Class [PictureFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ShapeType](../shapetype/)
+* Class [PictureFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

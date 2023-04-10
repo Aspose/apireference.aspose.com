@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.text/stringbuilder/copyto/
 ---
-## StringBuilder::CopyTo(int, [System::ArrayPtr](../../../system/arrayptr/)\<char_t\> const\&, int, int) method
+## StringBuilder::CopyTo(int, System::ArrayPtr\<char_t\> const\&, int, int) method
 
 
 Copies builder's data into existing array positions.
@@ -27,7 +27,7 @@ void System::Text::StringBuilder::CopyTo(int sourceIndex, System::ArrayPtr<char_
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [StringBuilder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [StringBuilder](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

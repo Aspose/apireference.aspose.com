@@ -17,6 +17,6 @@ Aspose::Slides::PatternStyle Aspose::Slides::get_PatternStyle() override
 
 ## See Also
 
-* Enum [PatternStyle](../patternstyle/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Enum [PatternStyle](./patternstyle/)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

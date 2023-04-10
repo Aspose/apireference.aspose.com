@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system/nullable/nullableboolhelper/
 ---
-## Nullable::NullableBoolHelper(const T1\&, const std::function\<**bool**()>\&, **bool**) const method
+## Nullable::NullableBoolHelper(const T1\&, const std::function\<bool()>\&, bool) const method
 
 
 Helper function to check if this and **other** are both not nulls and call a lambda if so. Used in implementation.s.
@@ -36,6 +36,6 @@ false if either **this** or **other** is null; **default_if_both_are_null** if b
 
 ## See Also
 
-* Class [Nullable](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

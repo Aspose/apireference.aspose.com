@@ -17,7 +17,7 @@ AxisAggregationType Aspose::Slides::Charts::Axis::get_AggregationType() override
 
 ## See Also
 
-* Enum [AxisAggregationType](../../axisaggregationtype/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [AxisAggregationType](../axisaggregationtype/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

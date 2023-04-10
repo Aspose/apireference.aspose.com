@@ -22,6 +22,6 @@ The stream that is used by the current class instances for sending and receiving
 
 ## See Also
 
-* Class [AuthenticatedStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AuthenticatedStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

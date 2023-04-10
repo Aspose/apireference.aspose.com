@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/ixpsoptions/set_drawslidesframe/
 ---
-## IXpsOptions::set_DrawSlidesFrame(**bool**) method
+## IXpsOptions::set_DrawSlidesFrame(bool) method
 
 
 True to draw black frame around each slide. Write **bool**.
@@ -21,6 +21,6 @@ virtual void Aspose::Slides::Export::IXpsOptions::set_DrawSlidesFrame(bool value
 Default is **false**. 
 ## See Also
 
-* Class [IXpsOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IXpsOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

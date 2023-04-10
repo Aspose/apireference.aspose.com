@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides/igraphicalobjectlock/set_sizelocked/
 ---
-## IGraphicalObjectLock::set_SizeLocked(**bool**) method
+## IGraphicalObjectLock::set_SizeLocked(bool) method
 
 
 Determines whether resizing this shape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IGraphicalObjectLock::set_SizeLocked(bool value)=0
 
 ## See Also
 
-* Class [IGraphicalObjectLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGraphicalObjectLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

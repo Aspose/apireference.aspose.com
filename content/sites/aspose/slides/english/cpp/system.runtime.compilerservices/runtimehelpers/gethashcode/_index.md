@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.runtime.compilerservices/runtimehelpers/gethashcode/
 ---
-## RuntimeHelpers::GetHashCode([SmartPtr](../../../system/smartptr/)\<T\> const\&) method
+## RuntimeHelpers::GetHashCode(SmartPtr\<T\> const\&) method
 
 
 Gets hash code on arbitrary type. Calls [Object::GetHashCode()](../../../system/object/gethashcode/) to do so.
@@ -34,7 +34,7 @@ Hash code value as calcualted by target implementation.
 
 ## See Also
 
-* Class [SmartPtr](../../../system/smartptr/)
-* Class [RuntimeHelpers](../)
-* Namespace [System::Runtime::CompilerServices](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](../../system/smartptr/)
+* Class [RuntimeHelpers](./)
+* Namespace [System::Runtime::CompilerServices](../)
+* Library [Aspose.Slides](../../)

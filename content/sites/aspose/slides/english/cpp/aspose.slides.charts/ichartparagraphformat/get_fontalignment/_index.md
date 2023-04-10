@@ -17,7 +17,7 @@ virtual Aspose::Slides::FontAlignment Aspose::Slides::Charts::IChartParagraphFor
 
 ## See Also
 
-* Enum [FontAlignment](../../../aspose.slides/fontalignment/)
-* Class [IChartParagraphFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FontAlignment](../../aspose.slides/fontalignment/)
+* Class [IChartParagraphFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

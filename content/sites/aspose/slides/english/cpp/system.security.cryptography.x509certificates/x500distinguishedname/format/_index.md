@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.security.cryptography.x509certificates/x500distinguishedname/format/
 ---
-## X500DistinguishedName::Format(**bool**) const method
+## X500DistinguishedName::Format(bool) const method
 
 
 Formats name for printing.
@@ -28,7 +28,7 @@ X509 distinguished name in a readable form.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [X500DistinguishedName](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [X500DistinguishedName](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

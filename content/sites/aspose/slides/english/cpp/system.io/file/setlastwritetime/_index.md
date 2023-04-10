@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/system.io/file/setlastwritetime/
 ---
-## File::SetLastWriteTime(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## File::SetLastWriteTime(const String\&, DateTime) method
 
 
 Sets the last write time of the specified entity as local time.
@@ -25,8 +25,8 @@ static void System::IO::File::SetLastWriteTime(const String &path, DateTime last
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides.slideshow/slideshowtransition/set_soundisbuiltin/
 ---
-## SlideShowTransition::set_SoundIsBuiltIn(**bool**) method
+## SlideShowTransition::set_SoundIsBuiltIn(bool) method
 
 
 Specifies whether or not this sound is a built-in sound. If this attribute is set to true then the generating application is alerted to check the name attribute specified for this sound in it's list of built-in sounds and can then surface a custom name or UI as needed. Writes **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShow::SlideShowTransition::set_SoundIsBuiltIn(bool val
 
 ## See Also
 
-* Class [SlideShowTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideShowTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

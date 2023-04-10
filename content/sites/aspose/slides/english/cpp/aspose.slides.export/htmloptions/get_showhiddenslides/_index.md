@@ -17,6 +17,6 @@ bool Aspose::Slides::Export::HtmlOptions::get_ShowHiddenSlides() override
 
 ## See Also
 
-* Class [HtmlOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HtmlOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

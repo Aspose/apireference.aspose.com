@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net.http.headers/mediatypewithqualityheadervalue/set_quality/
 ---
-## MediaTypeWithQualityHeaderValue::set_Quality([Nullable](../../../system/nullable/)\<**double**\>) method
+## MediaTypeWithQualityHeaderValue::set_Quality(Nullable\<double\>) method
 
 
 Sets a quality value.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::MediaTypeWithQualityHeaderValue::set_Quality(Nu
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [MediaTypeWithQualityHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [MediaTypeWithQualityHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

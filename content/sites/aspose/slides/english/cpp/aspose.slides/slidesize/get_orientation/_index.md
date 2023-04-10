@@ -23,7 +23,7 @@ Changing this value will swap slide's dimensions.
 Read [SlideOrientation](../../slideorientation/). 
 ## See Also
 
-* Enum [SlideOrientation](../../slideorientation/)
-* Class [SlideSize](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SlideOrientation](../slideorientation/)
+* Class [SlideSize](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

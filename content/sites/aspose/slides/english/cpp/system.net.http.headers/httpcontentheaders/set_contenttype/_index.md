@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.net.http.headers/httpcontentheaders/set_contenttype/
 ---
-## HttpContentHeaders::set_ContentType([System::SharedPtr](../../../system/sharedptr/)\<[MediaTypeHeaderValue](../../mediatypeheadervalue/)\>) method
+## HttpContentHeaders::set_ContentType(System::SharedPtr\<MediaTypeHeaderValue\>) method
 
 
 Sets a value of the 'Content-Type' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpContentHeaders::set_ContentType(System::Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [MediaTypeHeaderValue](../../mediatypeheadervalue/)
-* Class [HttpContentHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [MediaTypeHeaderValue](../mediatypeheadervalue/)
+* Class [HttpContentHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

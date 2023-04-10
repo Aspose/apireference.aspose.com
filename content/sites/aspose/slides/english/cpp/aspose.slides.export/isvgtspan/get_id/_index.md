@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Export::ISvgTSpan::get_Id()=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ISvgTSpan](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ISvgTSpan](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

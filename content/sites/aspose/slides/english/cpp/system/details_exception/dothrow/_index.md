@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system/details_exception/dothrow/
 ---
-## Details_Exception::DoThrow(const [ExceptionPtr](../../exceptionptr/)\&) const method
+## Details_Exception::DoThrow(const ExceptionPtr\&) const method
 
 
 Throws exception instance wrapped by exception wrapper.
@@ -24,7 +24,7 @@ virtual void System::Details_Exception::DoThrow(const ExceptionPtr &self) const
 
 ## See Also
 
-* Typedef [ExceptionPtr](../../exceptionptr/)
-* Class [Details_Exception](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ExceptionPtr](../exceptionptr/)
+* Class [Details_Exception](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

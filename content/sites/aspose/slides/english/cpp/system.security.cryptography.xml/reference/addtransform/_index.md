@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.security.cryptography.xml/reference/addtransform/
 ---
-## Reference::AddTransform([SharedPtr](../../../system/sharedptr/)\<[Transform](../../transform/)\>) method
+## Reference::AddTransform(SharedPtr\<Transform\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::Reference::AddTransform(SharedPtr<Tran
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Transform](../../transform/)
-* Class [Reference](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Transform](../transform/)
+* Class [Reference](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

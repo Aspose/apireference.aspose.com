@@ -6,7 +6,7 @@ type: docs
 weight: 573
 url: /cpp/system/uri/escapedatastring/
 ---
-## Uri::EscapeDataString(const [String](../../string/)\&) method
+## Uri::EscapeDataString(const String\&) method
 
 
 Converts a string to its escaped representation.
@@ -28,7 +28,7 @@ A new string containing the escaped representation of **stringToEscape**
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [Uri](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [Uri](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

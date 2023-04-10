@@ -15,13 +15,6 @@ Creates a new tuple object.
 template<typename ...> static SharedPtr<Tuple<Args...>> System::TupleFactory::Create(Args... args)
 ```
 
-## See Also
-
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Tuple](../../tuple/)
-* Class [TupleFactory](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## TupleFactory::Create(T1, T2, T3, T4, T5, T6, T7, TRest) method
 
 
@@ -33,8 +26,8 @@ template<typename T1,typename T2,typename T3,typename T4,typename T5,typename T6
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Tuple](../../tuple/)
-* Class [TupleFactory](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Tuple](../tuple/)
+* Class [TupleFactory](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/linefillformat/
 Represents properties for lines filling.
 
 ```cpp
-class LineFillFormat : public Aspose::Slides::PVIObject,
-                       public Aspose::Slides::ILineFillFormat
+class LineFillFormat : public Aspose::Slides::PVIObject,                       public Aspose::Slides::ILineFillFormat
 ```
 
 ## Methods

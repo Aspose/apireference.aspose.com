@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.drawing/rectanglef/set_width/
 ---
-## RectangleF::set_Width(**float**) method
+## RectangleF::set_Width(float) method
 
 
 Sets the width of the rectangle represented by the current object.
@@ -24,6 +24,6 @@ void System::Drawing::RectangleF::set_Width(float value)
 
 ## See Also
 
-* Class [RectangleF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RectangleF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

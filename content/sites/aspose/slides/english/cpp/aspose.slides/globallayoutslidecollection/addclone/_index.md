@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/globallayoutslidecollection/addclone/
 ---
-## GlobalLayoutSlideCollection::AddClone([System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>) method
+## GlobalLayoutSlideCollection::AddClone(System::SharedPtr\<ILayoutSlide\>) method
 
 
 Adds a copy of a specified layout slide to the presentation.
@@ -30,14 +30,7 @@ Added slide.
 
 
 When cloning a layout between different presentations layout's master can be cloned too to keep source formatting. Internal registry is used to track automatically cloned masters to prevent creation of multiple clones of the same master slide. Manual cloning of master slides will be neither prevented nor registered. 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILayoutSlide](../../ilayoutslide/)
-* Class [GlobalLayoutSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
-## GlobalLayoutSlideCollection::AddClone([System::SharedPtr](../../../system/sharedptr/)\<[ILayoutSlide](../../ilayoutslide/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IMasterSlide](../../imasterslide/)\>) method
+## GlobalLayoutSlideCollection::AddClone(System::SharedPtr\<ILayoutSlide\>, System::SharedPtr\<IMasterSlide\>) method
 
 
 Adds a copy of a specified layout slide to the presentation.
@@ -64,9 +57,9 @@ Added slide.
 1) New layout will be linked with defined master in destination presentation. So this is analogue of copy/paste with \"Use Destination Theme\" option in PowerPoint. 2) Analogue of this method is method [IMasterLayoutSlideCollection::AddClone(SharedPtr<ILayoutSlide>)](../../imasterlayoutslidecollection/addclone/) accessed with [IMasterSlide::get_LayoutSlides()](../../imasterslide/get_layoutslides/) property. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILayoutSlide](../../ilayoutslide/)
-* Class [IMasterSlide](../../imasterslide/)
-* Class [GlobalLayoutSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILayoutSlide](../ilayoutslide/)
+* Class [GlobalLayoutSlideCollection](./)
+* Class [IMasterSlide](../imasterslide/)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

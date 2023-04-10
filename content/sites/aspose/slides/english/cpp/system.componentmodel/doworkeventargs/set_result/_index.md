@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.componentmodel/doworkeventargs/set_result/
 ---
-## DoWorkEventArgs::set_Result(const [SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>\&) method
+## DoWorkEventArgs::set_Result(const SharedPtr\<System::Object\>\&) method
 
 
 Sets Result property; not implemented.
@@ -17,8 +17,8 @@ void System::ComponentModel::DoWorkEventArgs::set_Result(const SharedPtr<System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [DoWorkEventArgs](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [DoWorkEventArgs](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

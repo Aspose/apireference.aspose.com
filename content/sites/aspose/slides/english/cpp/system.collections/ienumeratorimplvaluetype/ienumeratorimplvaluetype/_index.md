@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections/ienumeratorimplvaluetype/ienumeratorimplvaluetype/
 ---
-## IEnumeratorImplValueType::IEnumeratorImplValueType([System::SharedPtr](../../../system/sharedptr/)\<[System::Collections::Generic::IEnumerator](../../../system.collections.generic/ienumerator/)\<T\>\>) constructor
+## IEnumeratorImplValueType::IEnumeratorImplValueType(System::SharedPtr\<System::Collections::Generic::IEnumerator\<T\>\>) constructor
 
 
 wrapper constructor
@@ -17,8 +17,8 @@ System::Collections::IEnumeratorImplValueType<T>::IEnumeratorImplValueType(Syste
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [IEnumeratorImplValueType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../../system.collections.generic/ienumerator/)
+* Class [IEnumeratorImplValueType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.security.cryptography.x509certificates/x509chainstatus/set_statusinformation/
 ---
-## X509ChainStatus::set_StatusInformation([String](../../../system/string/)) method
+## X509ChainStatus::set_StatusInformation(String) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::X509Certificates::X509ChainStatus::set_Stat
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [X509ChainStatus](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [X509ChainStatus](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

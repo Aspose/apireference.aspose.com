@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.xml/xmlattributecollection/prepend/
 ---
-## XmlAttributeCollection::Prepend(const [SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../xmlattribute/)\>\&) method
+## XmlAttributeCollection::Prepend(const SharedPtr\<XmlAttribute\>\&) method
 
 
 Inserts the specified attribute as the first node in the collection.
@@ -28,8 +28,8 @@ The [XmlAttribute](../../xmlattribute/) added to the collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlAttribute](../../xmlattribute/)
-* Class [XmlAttributeCollection](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlAttribute](../xmlattribute/)
+* Class [XmlAttributeCollection](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -28,6 +28,6 @@ True if the specified year is a leap year, otherwise - false
 
 ## See Also
 
-* Class [DateTime](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

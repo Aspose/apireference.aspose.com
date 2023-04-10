@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.net/cookiecollection/remove/
 ---
-## CookieCollection::Remove(const [System::SharedPtr](../../../system/sharedptr/)\<[Cookie](../../cookie/)\>\&) method
+## CookieCollection::Remove(const System::SharedPtr\<Cookie\>\&) method
 
 
 Removes the specified cookie from the collection.
@@ -28,8 +28,8 @@ True when the specified cookie is removed successfully, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Cookie](../../cookie/)
-* Class [CookieCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Cookie](../cookie/)
+* Class [CookieCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

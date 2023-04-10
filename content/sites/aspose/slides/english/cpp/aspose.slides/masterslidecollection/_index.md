@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/masterslidecollection/
 Represents a collection of master slides.
 
 ```cpp
-class MasterSlideCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,
-                              public Aspose::Slides::IMasterSlideCollection
+class MasterSlideCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Presentation>>,                              public Aspose::Slides::IMasterSlideCollection
 ```
 
 ## Methods

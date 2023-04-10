@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.drawing/region/isempty/
 ---
-## Region::IsEmpty(const [SharedPtr](../../../system/sharedptr/)\<[Graphics](../../graphics/)\>\&) const method
+## Region::IsEmpty(const SharedPtr\<Graphics\>\&) const method
 
 
 Determines wheter the region represented by the current object has empty interior on the specified drawing surface.
@@ -24,8 +24,8 @@ bool System::Drawing::Region::IsEmpty(const SharedPtr<Graphics> &g) const
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Graphics](../graphics/)
+* Class [Region](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

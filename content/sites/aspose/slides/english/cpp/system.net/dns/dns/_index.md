@@ -17,6 +17,6 @@ System::Net::Dns::Dns()=delete
 
 ## See Also
 
-* Class [Dns](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Dns](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

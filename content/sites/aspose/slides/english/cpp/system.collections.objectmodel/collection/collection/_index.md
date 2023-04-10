@@ -15,12 +15,7 @@ Creates empty collection.
 System::Collections::ObjectModel::Collection<T>::Collection()
 ```
 
-## See Also
-
-* Class [Collection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
-## Collection::Collection([SharedPtr](../../../system/sharedptr/)\<[Generic::IList](../../../system.collections.generic/ilist/)\<T\>\>) constructor
+## Collection::Collection(SharedPtr\<Generic::IList\<T\>\>) constructor
 
 
 
@@ -31,8 +26,8 @@ System::Collections::ObjectModel::Collection<T>::Collection(SharedPtr<Generic::I
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IList](../../../system.collections.generic/ilist/)
-* Class [Collection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Collection](./)
+* Class [IList](../../system.collections.generic/ilist/)
+* Namespace [System::Collections::ObjectModel](../)
+* Library [Aspose.Slides](../../)

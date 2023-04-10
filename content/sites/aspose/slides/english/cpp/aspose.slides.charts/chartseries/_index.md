@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/chartseries/
 Represents a chart series.
 
 ```cpp
-class ChartSeries : public Aspose::Slides::Charts::IChartSeries,
-                    public Aspose::Slides::IDOMObject
+class ChartSeries : public Aspose::Slides::Charts::IChartSeries,                    public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

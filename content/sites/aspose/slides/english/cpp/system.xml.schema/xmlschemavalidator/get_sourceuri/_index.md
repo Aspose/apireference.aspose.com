@@ -22,8 +22,8 @@ A [Uri](../../../system/uri/) object representing the source URI for the XML nod
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [XmlSchemaValidator](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [XmlSchemaValidator](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

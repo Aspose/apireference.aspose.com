@@ -40,7 +40,7 @@ The value returned depends on the [XmlNode::get_NodeType](../get_nodetype/) of t
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

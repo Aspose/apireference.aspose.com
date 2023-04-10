@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system/boolean/tryparse/
 ---
-## Boolean::TryParse(const [String](../../string/)\&, **bool**\&) method
+## Boolean::TryParse(const String\&, bool\&) method
 
 
 Converts the specified string to a value of bool type.
@@ -29,7 +29,7 @@ True if the specified string is equal either to \"True\" or \"False\", otherwise
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [Boolean](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [Boolean](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

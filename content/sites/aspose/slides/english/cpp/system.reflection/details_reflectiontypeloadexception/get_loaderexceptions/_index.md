@@ -22,8 +22,8 @@ An array of exceptions.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [Exception](../../../system/exception/)
-* Class [Details_ReflectionTypeLoadException](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [Exception](../../system/exception/)
+* Class [Details_ReflectionTypeLoadException](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

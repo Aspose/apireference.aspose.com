@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.effects/ioutershadow/set_distance/
 ---
-## IOuterShadow::set_Distance(**double**) method
+## IOuterShadow::set_Distance(double) method
 
 
 Distance of shadow. Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IOuterShadow::set_Distance(double value)=0
 
 ## See Also
 
-* Class [IOuterShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IOuterShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

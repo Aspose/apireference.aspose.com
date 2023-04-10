@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Animation::IMotionPath::Clear()=0
 
 ## See Also
 
-* Class [IMotionPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMotionPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

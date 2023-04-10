@@ -22,6 +22,6 @@ True if some element is available after call, false otherwise.
 
 ## See Also
 
-* Class [EmptyEnumerator](../)
-* Namespace [System::Linq::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EmptyEnumerator](./)
+* Namespace [System::Linq::Details](../)
+* Library [Aspose.Slides](../../)

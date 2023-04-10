@@ -17,6 +17,6 @@ Aspose::Slides::Export::SlideImageFormat::SlideImageFormat()
 
 ## See Also
 
-* Class [SlideImageFormat](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideImageFormat](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

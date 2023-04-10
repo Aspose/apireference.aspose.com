@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides.charts/ichartparagraphformat/set_marginleft/
 ---
-## IChartParagraphFormat::set_MarginLeft(**float**) method
+## IChartParagraphFormat::set_MarginLeft(float) method
 
 
 Sets the left margin in a paragraph. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartParagraphFormat::set_MarginLeft(float
 
 ## See Also
 
-* Class [IChartParagraphFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartParagraphFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

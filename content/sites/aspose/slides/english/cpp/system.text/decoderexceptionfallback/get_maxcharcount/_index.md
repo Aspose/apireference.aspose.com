@@ -22,6 +22,6 @@ Always returns 0.
 
 ## See Also
 
-* Class [DecoderExceptionFallback](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DecoderExceptionFallback](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

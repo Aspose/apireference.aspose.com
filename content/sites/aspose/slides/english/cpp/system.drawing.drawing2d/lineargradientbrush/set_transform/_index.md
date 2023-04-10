@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/set_transform/
 ---
-## LinearGradientBrush::set_Transform(const [SharedPtr](../../../system/sharedptr/)\<[Matrix](../../matrix/)\>\&) method
+## LinearGradientBrush::set_Transform(const SharedPtr\<Matrix\>\&) method
 
 
 Sets a [Matrix](../../matrix/) object that specifies the geometrical transformations for the brush represented by the current object.
@@ -24,8 +24,8 @@ void System::Drawing::Drawing2D::LinearGradientBrush::set_Transform(const Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../../matrix/)
-* Class [LinearGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Matrix](../matrix/)
+* Class [LinearGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

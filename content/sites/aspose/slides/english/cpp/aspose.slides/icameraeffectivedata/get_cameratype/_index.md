@@ -17,7 +17,7 @@ virtual CameraPresetType Aspose::Slides::ICameraEffectiveData::get_CameraType()=
 
 ## See Also
 
-* Enum [CameraPresetType](../../camerapresettype/)
-* Class [ICameraEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CameraPresetType](../camerapresettype/)
+* Class [ICameraEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

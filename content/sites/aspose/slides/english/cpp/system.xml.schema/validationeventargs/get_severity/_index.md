@@ -22,7 +22,7 @@ An XmlSeverityType value representing the severity of the validation event.
 
 ## See Also
 
-* Enum [XmlSeverityType](../../xmlseveritytype/)
-* Class [ValidationEventArgs](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSeverityType](../xmlseveritytype/)
+* Class [ValidationEventArgs](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

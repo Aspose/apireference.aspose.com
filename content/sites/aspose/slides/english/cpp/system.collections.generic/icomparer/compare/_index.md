@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic/icomparer/compare/
 ---
-## IComparer::Compare([args_type](../args_type/), [args_type](../args_type/)) const method
+## IComparer::Compare(args_type, args_type) const method
 
 
 [Comparison](../../../system/comparison/) function.
@@ -29,7 +29,7 @@ Negative value if **x** is less than **y**; zero if they are equal; positive val
 
 ## See Also
 
-* Typedef [args_type](../args_type/)
-* Class [IComparer](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [args_type](./args_type/)
+* Class [IComparer](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

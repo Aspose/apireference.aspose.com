@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/chartcategorylevelsmanager/deletegroupingitem/
 ---
-## ChartCategoryLevelsManager::DeleteGroupingItem(**int32_t**) method
+## ChartCategoryLevelsManager::DeleteGroupingItem(int32_t) method
 
 
 Delete grouping item for defined level.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartCategoryLevelsManager::DeleteGroupingItem(int3
 
 ## See Also
 
-* Class [ChartCategoryLevelsManager](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartCategoryLevelsManager](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

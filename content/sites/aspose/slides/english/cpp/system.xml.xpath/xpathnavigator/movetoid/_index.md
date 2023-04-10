@@ -6,7 +6,7 @@ type: docs
 weight: 677
 url: /cpp/system.xml.xpath/xpathnavigator/movetoid/
 ---
-## XPathNavigator::MoveToId([String](../../../system/string/)) method
+## XPathNavigator::MoveToId(String) method
 
 
 When overridden in a derived class, moves to the node that has an attribute of type **ID** whose value matches the specified [String](../../../system/string/).
@@ -28,7 +28,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToId(String id)=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

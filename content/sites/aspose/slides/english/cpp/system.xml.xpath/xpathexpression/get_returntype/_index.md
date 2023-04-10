@@ -22,7 +22,7 @@ An XPathResultType value representing the result type of the [XPath](../../) exp
 
 ## See Also
 
-* Enum [XPathResultType](../../xpathresulttype/)
-* Class [XPathExpression](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XPathResultType](../xpathresulttype/)
+* Class [XPathExpression](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ One of [XmlSchemaSimpleTypeUnion](../../xmlschemasimpletypeunion/), [XmlSchemaSi
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaSimpleTypeContent](../../xmlschemasimpletypecontent/)
-* Class [XmlSchemaSimpleType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaSimpleTypeContent](../xmlschemasimpletypecontent/)
+* Class [XmlSchemaSimpleType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ True if some element is available after call, false otherwise.
 
 ## See Also
 
-* Class [IEnumerator](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IEnumerator](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

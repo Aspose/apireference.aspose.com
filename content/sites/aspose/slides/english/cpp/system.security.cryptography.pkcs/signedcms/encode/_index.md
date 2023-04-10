@@ -22,7 +22,7 @@ Complete message encoded into byte form.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [SignedCms](../)
-* Namespace [System::Security::Cryptography::Pkcs](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [SignedCms](./)
+* Namespace [System::Security::Cryptography::Pkcs](../)
+* Library [Aspose.Slides](../../)

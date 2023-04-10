@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system/uribuilder/set_scheme/
 ---
-## UriBuilder::set_Scheme(const [String](../../string/)\&) method
+## UriBuilder::set_Scheme(const String\&) method
 
 
 Sets the scheme of the URI constructed by the current object to the specified value.
@@ -24,7 +24,7 @@ void System::UriBuilder::set_Scheme(const String &value)
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [UriBuilder](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [UriBuilder](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

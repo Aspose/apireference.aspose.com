@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/camera/set_zoom/
 ---
-## Camera::set_Zoom(**float**) method
+## Camera::set_Zoom(float) method
 
 
 [Camera](../) zoom (positive value in percentage). Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Camera::set_Zoom(float value) override
 
 ## See Also
 
-* Class [Camera](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Camera](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

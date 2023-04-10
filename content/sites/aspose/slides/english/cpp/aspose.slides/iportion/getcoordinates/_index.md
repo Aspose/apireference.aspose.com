@@ -22,7 +22,7 @@ Coordinates of the beginning of the portion [System::Drawing::PointF](../../../s
 
 ## See Also
 
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [IPortion](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [IPortion](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

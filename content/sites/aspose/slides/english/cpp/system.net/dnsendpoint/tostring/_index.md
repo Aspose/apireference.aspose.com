@@ -22,7 +22,7 @@ String System::Net::DnsEndPoint::ToString() const override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DnsEndPoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DnsEndPoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

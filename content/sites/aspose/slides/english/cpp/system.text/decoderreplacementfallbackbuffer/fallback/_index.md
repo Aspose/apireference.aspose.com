@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.text/decoderreplacementfallbackbuffer/fallback/
 ---
-## DecoderReplacementFallbackBuffer::Fallback([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int) method
+## DecoderReplacementFallbackBuffer::Fallback(ArrayPtr\<uint8_t\>, int) method
 
 
 Handles decoding failure.
@@ -29,7 +29,7 @@ True if replacement string is provided and is not empty, false otherwise.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [DecoderReplacementFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [DecoderReplacementFallbackBuffer](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

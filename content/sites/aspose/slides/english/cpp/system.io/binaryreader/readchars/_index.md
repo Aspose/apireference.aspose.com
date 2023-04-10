@@ -28,7 +28,7 @@ An array containing the read characters
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [BinaryReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [BinaryReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

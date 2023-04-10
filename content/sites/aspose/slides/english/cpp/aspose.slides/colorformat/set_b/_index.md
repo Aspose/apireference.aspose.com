@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides/colorformat/set_b/
 ---
-## ColorFormat::set_B(**uint8_t**) method
+## ColorFormat::set_B(uint8_t) method
 
 
 Sets the blue component of a color. All color transformations are ignored. Write **uint8_t**.
@@ -17,6 +17,6 @@ void Aspose::Slides::ColorFormat::set_B(uint8_t value) override
 
 ## See Also
 
-* Class [ColorFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColorFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

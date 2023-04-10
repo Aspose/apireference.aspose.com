@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/itextstyleeffectivedata/getlevel/
 ---
-## ITextStyleEffectiveData::GetLevel(**int32_t**) method
+## ITextStyleEffectiveData::GetLevel(int32_t) method
 
 
 Returns level of effective style.
@@ -28,8 +28,8 @@ Effective formatting of level [IParagraphFormatEffectiveData](../../iparagraphfo
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IParagraphFormatEffectiveData](../../iparagraphformateffectivedata/)
-* Class [ITextStyleEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IParagraphFormatEffectiveData](../iparagraphformateffectivedata/)
+* Class [ITextStyleEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

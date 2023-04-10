@@ -24,6 +24,6 @@ void System::Collections::Generic::LinkedList<T>::Add(const T &element) override
 
 ## See Also
 
-* Class [LinkedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LinkedList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

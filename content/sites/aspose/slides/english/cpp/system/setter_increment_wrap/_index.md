@@ -33,10 +33,6 @@ template<typename T> T System::setter_increment_wrap(T(*pGetter)(), void(*pSette
 
 The incremented value of the property
 
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::setter_increment_wrap(Host *const, T(HostGet::*)(), void(HostSet::*)(T)) function
 
 
@@ -70,5 +66,5 @@ The incremented value of the property
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

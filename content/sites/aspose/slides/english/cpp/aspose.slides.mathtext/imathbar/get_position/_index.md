@@ -26,7 +26,7 @@ mathBar->set_Position(MathTopBotPositions::Bottom);
 
 ## See Also
 
-* Enum [MathTopBotPositions](../../mathtopbotpositions/)
-* Class [IMathBar](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathTopBotPositions](../mathtopbotpositions/)
+* Class [IMathBar](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

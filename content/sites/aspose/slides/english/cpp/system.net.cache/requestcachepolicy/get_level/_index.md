@@ -22,7 +22,7 @@ The specified RequestCacheLevel value.
 
 ## See Also
 
-* Enum [RequestCacheLevel](../../requestcachelevel/)
-* Class [RequestCachePolicy](../)
-* Namespace [System::Net::Cache](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [RequestCacheLevel](../requestcachelevel/)
+* Class [RequestCachePolicy](./)
+* Namespace [System::Net::Cache](../)
+* Library [Aspose.Slides](../../)

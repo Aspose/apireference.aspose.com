@@ -17,6 +17,6 @@ int System::Drawing::Color::get_A() const
 
 ## See Also
 
-* Class [Color](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/shapestyle/
 Represent shape's style reference.
 
 ```cpp
-class ShapeStyle : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Shape>>,
-                   public Aspose::Slides::IShapeStyle
+class ShapeStyle : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Shape>>,                   public Aspose::Slides::IShapeStyle
 ```
 
 ## Methods

@@ -17,7 +17,7 @@ static System::DateTime & Aspose::Slides::BuildVersionInfo::ReleaseDate()
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [BuildVersionInfo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [BuildVersionInfo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

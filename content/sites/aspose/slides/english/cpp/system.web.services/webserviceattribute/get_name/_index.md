@@ -22,7 +22,7 @@ The XML [Web](../../../system.web/) service's name.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WebServiceAttribute](../)
-* Namespace [System::Web::Services](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WebServiceAttribute](./)
+* Namespace [System::Web::Services](../)
+* Library [Aspose.Slides](../../)

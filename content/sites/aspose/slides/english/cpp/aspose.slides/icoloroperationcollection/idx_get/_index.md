@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/icoloroperationcollection/idx_get/
 ---
-## IColorOperationCollection::idx_get(**int32_t**) method
+## IColorOperationCollection::idx_get(int32_t) method
 
 
 Returns the operation at the specified index. Read [IColorOperation](../../icoloroperation/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColorOperation> Aspose::Slides::IColorOperationCollec
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorOperation](../../icoloroperation/)
-* Class [IColorOperationCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorOperation](../icoloroperation/)
+* Class [IColorOperationCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

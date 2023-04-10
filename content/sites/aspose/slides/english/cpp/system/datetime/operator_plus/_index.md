@@ -6,7 +6,7 @@ type: docs
 weight: 638
 url: /cpp/system/datetime/operator_plus/
 ---
-## DateTime::operator+([TimeSpan](../../timespan/)) const method
+## DateTime::operator+(TimeSpan) const method
 
 
 Returns a new instance of [DateTime](../) class that represents the date and time value that is the sum of the value represented by the current object and the specified time span.
@@ -28,8 +28,7 @@ A new instance of [DateTime](../) class that represents the date and time value 
 
 ## See Also
 
-* Class [DateTime](../)
-* Class [TimeSpan](../../timespan/)
-* Class [DateTime](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](./)
+* Class [TimeSpan](../timespan/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

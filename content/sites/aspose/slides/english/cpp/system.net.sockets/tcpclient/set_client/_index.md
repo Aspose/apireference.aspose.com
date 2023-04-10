@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net.sockets/tcpclient/set_client/
 ---
-## TcpClient::set_Client([System::SharedPtr](../../../system/sharedptr/)\<[Socket](../../socket/)\>) method
+## TcpClient::set_Client(System::SharedPtr\<Socket\>) method
 
 
 Sets the socket.
@@ -24,8 +24,8 @@ void System::Net::Sockets::TcpClient::set_Client(System::SharedPtr<Socket> value
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Socket](../../socket/)
-* Class [TcpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Socket](../socket/)
+* Class [TcpClient](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

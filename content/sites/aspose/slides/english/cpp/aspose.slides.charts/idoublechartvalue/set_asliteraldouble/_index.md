@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/idoublechartvalue/set_asliteraldouble/
 ---
-## IDoubleChartValue::set_AsLiteralDouble(**double**) method
+## IDoubleChartValue::set_AsLiteralDouble(double) method
 
 
 Sets literal double value if DataSourceType = [Charts::DataSourceType::DoubleLiterals](../../datasourcetype/). Write **double**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IDoubleChartValue::set_AsLiteralDouble(doub
 
 ## See Also
 
-* Class [IDoubleChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDoubleChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

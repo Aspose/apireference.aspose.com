@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.charts/rotation3d/set_heightpercents/
 ---
-## Rotation3D::set_HeightPercents(**uint16_t**) method
+## Rotation3D::set_HeightPercents(uint16_t) method
 
 
 Specifies the height of a 3-D chart as a percentage of the chart width (between 5 and 500 percent). Write **uint16_t**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Rotation3D::set_HeightPercents(uint16_t value) over
 
 ## See Also
 
-* Class [Rotation3D](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Rotation3D](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

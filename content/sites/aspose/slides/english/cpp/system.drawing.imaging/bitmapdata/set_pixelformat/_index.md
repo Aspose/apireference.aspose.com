@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.drawing.imaging/bitmapdata/set_pixelformat/
 ---
-## BitmapData::set_PixelFormat([PixelFormat](../../pixelformat/)) method
+## BitmapData::set_PixelFormat(PixelFormat) method
 
 
 Sets the pixel format of the bitmap image.
@@ -24,7 +24,7 @@ void System::Drawing::Imaging::BitmapData::set_PixelFormat(PixelFormat value)
 
 ## See Also
 
-* Enum [PixelFormat](../../pixelformat/)
-* Class [BitmapData](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PixelFormat](../pixelformat/)
+* Class [BitmapData](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

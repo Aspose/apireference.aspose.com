@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.xml.schema/xmlschemavalidator/addschema/
 ---
-## XmlSchemaValidator::AddSchema(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchema](../../xmlschema/)\>\&) method
+## XmlSchemaValidator::AddSchema(const SharedPtr\<XmlSchema\>\&) method
 
 
 Adds an XML [Schema](../../) Definition Language (XSD) schema to the set of schemas used for validation.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaValidator::AddSchema(const SharedPtr<XmlSchem
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchema](../../xmlschema/)
-* Class [XmlSchemaValidator](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchema](../xmlschema/)
+* Class [XmlSchemaValidator](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

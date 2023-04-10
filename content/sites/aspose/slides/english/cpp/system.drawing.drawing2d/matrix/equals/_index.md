@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.drawing.drawing2d/matrix/equals/
 ---
-## Matrix::Equals([ptr](../../../system/object/ptr/)) method
+## Matrix::Equals(ptr) method
 
 
 Tests whether the specified object is a [Matrix](../) and is identical to this object.
@@ -24,7 +24,7 @@ bool System::Drawing::Drawing2D::Matrix::Equals(ptr obj) override
 
 ## See Also
 
-* Typedef [ptr](../../../system/object/ptr/)
-* Class [Matrix](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ptr](../../system/object/ptr/)
+* Class [Matrix](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

@@ -25,8 +25,8 @@ virtual SharedPtr<System::Object> System::Collections::IListImplValueType<T>::id
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IListImplValueType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IListImplValueType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

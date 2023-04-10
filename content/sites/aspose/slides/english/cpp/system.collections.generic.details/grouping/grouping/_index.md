@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic.details/grouping/grouping/
 ---
-## Grouping::Grouping(Key, [System::Func](../../../system/func/)\<**bool**\>) constructor
+## Grouping::Grouping(Key, System::Func\<bool\>) constructor
 
 
 
@@ -17,7 +17,7 @@ System::Collections::Generic::Details::Grouping<Key, Source>::Grouping(Key key, 
 
 ## See Also
 
-* Class [Func](../../../system/func/)
-* Class [Grouping](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Func](../../system/func/)
+* Class [Grouping](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

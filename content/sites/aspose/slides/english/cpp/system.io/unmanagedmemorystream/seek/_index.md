@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.io/unmanagedmemorystream/seek/
 ---
-## UnmanagedMemoryStream::Seek(**int64_t**, [SeekOrigin](../../seekorigin/)) method
+## UnmanagedMemoryStream::Seek(int64_t, SeekOrigin) method
 
 
 Sets the position of the stream represented by the current object.
@@ -29,7 +29,7 @@ The new position of the stream
 
 ## See Also
 
-* Enum [SeekOrigin](../../seekorigin/)
-* Class [UnmanagedMemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SeekOrigin](../seekorigin/)
+* Class [UnmanagedMemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

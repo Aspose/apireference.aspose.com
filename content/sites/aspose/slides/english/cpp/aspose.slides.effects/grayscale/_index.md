@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.effects/grayscale/
 Represents a Gray Scale effect. Converts all effect color values to a shade of gray, corresponding to their luminance. Effect alpha (opacity) values are unaffected.
 
 ```cpp
-class GrayScale : public Aspose::Slides::Effects::ImageTransformOperation,
-                  public Aspose::Slides::Effects::IGrayScale,
-                  public Aspose::Slides::Effects::IVisualEffect
+class GrayScale : public Aspose::Slides::Effects::ImageTransformOperation,                  public Aspose::Slides::Effects::IGrayScale,                  public Aspose::Slides::Effects::IVisualEffect
 ```
 
 ## Methods

@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides/shapecollection/insertvideoframe/
 ---
-## ShapeCollection::InsertVideoFrame(**int32_t**, **float**, **float**, **float**, **float**, [System::String](../../../system/string/)) method
+## ShapeCollection::InsertVideoFrame(int32_t, float, float, float, float, System::String) method
 
 
 Creates a new video frame and inserts it to a collection at the specified index.
@@ -33,9 +33,9 @@ Created [VideoFrame](../../videoframe/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVideoFrame](../../ivideoframe/)
-* Class [String](../../../system/string/)
-* Class [ShapeCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVideoFrame](../ivideoframe/)
+* Class [String](../../system/string/)
+* Class [ShapeCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IPortionFormatEffectiveData::get_Bookmark
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IPortionFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IPortionFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

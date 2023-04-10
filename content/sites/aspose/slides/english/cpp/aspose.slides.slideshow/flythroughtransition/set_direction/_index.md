@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.slideshow/flythroughtransition/set_direction/
 ---
-## FlyThroughTransition::set_Direction([TransitionInOutDirectionType](../../transitioninoutdirectiontype/)) method
+## FlyThroughTransition::set_Direction(TransitionInOutDirectionType) method
 
 
 Direction of transition. Write [TransitionInOutDirectionType](../../transitioninoutdirectiontype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::SlideShow::FlyThroughTransition::set_Direction(TransitionIn
 
 ## See Also
 
-* Enum [TransitionInOutDirectionType](../../transitioninoutdirectiontype/)
-* Class [FlyThroughTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionInOutDirectionType](../transitioninoutdirectiontype/)
+* Class [FlyThroughTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

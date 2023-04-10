@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/ifontfallbackrule/remove/
 ---
-## IFontFallBackRule::Remove([System::String](../../../system/string/)) method
+## IFontFallBackRule::Remove(System::String) method
 
 
 Removes the first occurrence of a specific FallBack font from the list.
@@ -35,7 +35,7 @@ newRule->Remove(u"Tahoma");
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IFontFallBackRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IFontFallBackRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

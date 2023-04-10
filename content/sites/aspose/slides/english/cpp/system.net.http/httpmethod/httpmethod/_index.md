@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.net.http/httpmethod/httpmethod/
 ---
-## HttpMethod::HttpMethod([String](../../../system/string/)) constructor
+## HttpMethod::HttpMethod(String) constructor
 
 
 Constructs a new instance.
@@ -24,7 +24,7 @@ System::Net::Http::HttpMethod::HttpMethod(String method)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpMethod](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpMethod](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

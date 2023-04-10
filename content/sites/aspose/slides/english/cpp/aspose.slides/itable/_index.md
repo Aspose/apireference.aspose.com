@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/itable/
 Represents a table on a slide.
 
 ```cpp
-class ITable : public virtual Aspose::Slides::IGraphicalObject,
-               public Aspose::Slides::IBulkTextFormattable
+class ITable : public virtual Aspose::Slides::IGraphicalObject,               public Aspose::Slides::IBulkTextFormattable
 ```
 
 ## Methods

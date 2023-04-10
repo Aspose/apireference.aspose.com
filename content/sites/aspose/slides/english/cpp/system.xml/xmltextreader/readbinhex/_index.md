@@ -6,7 +6,7 @@ type: docs
 weight: 781
 url: /cpp/system.xml/xmltextreader/readbinhex/
 ---
-## XmlTextReader::ReadBinHex(const [ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&, **int32_t**, **int32_t**) method
+## XmlTextReader::ReadBinHex(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method
 
 
 Decodes **BinHex** and returns the decoded binary bytes.
@@ -30,7 +30,7 @@ The number of bytes written to your buffer.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

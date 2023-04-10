@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.collections.specialized/stringcollection/contains/
 ---
-## StringCollection::Contains(const [System::String](../../../system/string/)\&) const method
+## StringCollection::Contains(const System::String\&) const method
 
 
 Checks whether specific string is present in container.
@@ -28,7 +28,7 @@ True if string is found, false otherwise.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

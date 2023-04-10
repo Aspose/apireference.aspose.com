@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Animation::BehaviorPropertyCollection::get_Count() const
 
 ## See Also
 
-* Class [BehaviorPropertyCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BehaviorPropertyCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

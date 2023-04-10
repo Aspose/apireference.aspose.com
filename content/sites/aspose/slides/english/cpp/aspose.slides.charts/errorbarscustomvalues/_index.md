@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/errorbarscustomvalues/
 Specifies the errors bar values. It shall be used only when the Error bars value type is Custom.
 
 ```cpp
-class ErrorBarsCustomValues : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartDataPoint>>,
-                              public Aspose::Slides::Charts::IErrorBarsCustomValues
+class ErrorBarsCustomValues : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::ChartDataPoint>>,                              public Aspose::Slides::Charts::IErrorBarsCustomValues
 ```
 
 ## Methods

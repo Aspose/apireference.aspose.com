@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.mathtext/mathborderbox/
 Draws a rectangular or some other border around the [IMathElement](../imathelement/).
 
 ```cpp
-class MathBorderBox : public Aspose::Slides::MathText::MathElementBase,
-                      public Aspose::Slides::MathText::IMathBorderBox,
-                      public Aspose::Slides::MathText::IHasControlCharacterProperties
+class MathBorderBox : public Aspose::Slides::MathText::MathElementBase,                      public Aspose::Slides::MathText::IMathBorderBox,                      public Aspose::Slides::MathText::IHasControlCharacterProperties
 ```
 
 ## Methods

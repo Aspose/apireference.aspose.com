@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing/pen/set_alignment/
 ---
-## Pen::set_Alignment([Drawing2D::PenAlignment](../../../system.drawing.drawing2d/penalignment/)) method
+## Pen::set_Alignment(Drawing2D::PenAlignment) method
 
 
 Sets the alignment of the current [Pen](../) object.
@@ -24,7 +24,7 @@ void System::Drawing::Pen::set_Alignment(Drawing2D::PenAlignment value)
 
 ## See Also
 
-* Enum [PenAlignment](../../../system.drawing.drawing2d/penalignment/)
-* Class [Pen](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PenAlignment](../../system.drawing.drawing2d/penalignment/)
+* Class [Pen](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

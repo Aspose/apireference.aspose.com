@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/aspose.slides/ipicturefillformat/set_stretchoffsetbottom/
 ---
-## IPictureFillFormat::set_StretchOffsetBottom(**float**) method
+## IPictureFillFormat::set_StretchOffsetBottom(float) method
 
 
 Sets bottom edge of the fill rectangle that is defined by a percentage offset from the bottom edge of the shape's bounding box. A positive percentage specifies an inset, while a negative percentage specifies an outset. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFillFormat::set_StretchOffsetBottom(float v
 
 ## See Also
 
-* Class [IPictureFillFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPictureFillFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

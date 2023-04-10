@@ -17,7 +17,7 @@ RectangleF System::Drawing::Graphics::get_ClipBounds() const
 
 ## See Also
 
-* Class [RectangleF](../../rectanglef/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RectangleF](../rectanglef/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

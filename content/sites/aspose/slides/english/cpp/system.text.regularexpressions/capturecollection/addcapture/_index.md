@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.text.regularexpressions/capturecollection/addcapture/
 ---
-## CaptureCollection::AddCapture(const [CapturePtr](../../captureptr/)\&) method
+## CaptureCollection::AddCapture(const CapturePtr\&) method
 
 
 Service method to add capture into collection.
@@ -24,7 +24,7 @@ void System::Text::RegularExpressions::CaptureCollection::AddCapture(const Captu
 
 ## See Also
 
-* Typedef [CapturePtr](../../captureptr/)
-* Class [CaptureCollection](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [CapturePtr](../captureptr/)
+* Class [CaptureCollection](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

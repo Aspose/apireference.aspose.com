@@ -22,6 +22,6 @@ True when the pending connection requests are present, otherwise false.
 
 ## See Also
 
-* Class [TcpListener](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpListener](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

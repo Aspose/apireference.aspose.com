@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::ISoftEdge> Aspose::Slides::IEffectFormat::get
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISoftEdge](../../../aspose.slides.effects/isoftedge/)
-* Class [IEffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISoftEdge](../../aspose.slides.effects/isoftedge/)
+* Class [IEffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

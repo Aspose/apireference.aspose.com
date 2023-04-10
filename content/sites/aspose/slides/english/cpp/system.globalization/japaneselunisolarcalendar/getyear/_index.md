@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.globalization/japaneselunisolarcalendar/getyear/
 ---
-## JapaneseLunisolarCalendar::GetYear([DateTime](../../../system/datetime/)) const method
+## JapaneseLunisolarCalendar::GetYear(DateTime) const method
 
 
 Gets year for the specified time point.
@@ -28,7 +28,7 @@ Year in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [JapaneseLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [JapaneseLunisolarCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

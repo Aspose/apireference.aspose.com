@@ -28,6 +28,6 @@ True if key is found and removed, false otherwise.
 
 ## See Also
 
-* Class [KeyedCollection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [KeyedCollection](./)
+* Namespace [System::Collections::ObjectModel](../)
+* Library [Aspose.Slides](../../)

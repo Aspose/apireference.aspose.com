@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.collections.generic/linkedlist/copyto/
 ---
-## LinkedList::CopyTo([ArrayPtr](../../../system/arrayptr/)\<T\>, int) method
+## LinkedList::CopyTo(ArrayPtr\<T\>, int) method
 
 
 Copies container data into existing array elements.
@@ -25,7 +25,7 @@ void System::Collections::Generic::LinkedList<T>::CopyTo(ArrayPtr<T> array, int 
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [LinkedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [LinkedList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

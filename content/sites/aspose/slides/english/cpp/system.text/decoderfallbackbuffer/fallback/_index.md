@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.text/decoderfallbackbuffer/fallback/
 ---
-## DecoderFallbackBuffer::Fallback([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int) method
+## DecoderFallbackBuffer::Fallback(ArrayPtr\<uint8_t\>, int) method
 
 
 Implements actual fallback procedure.
@@ -29,7 +29,7 @@ True if buffer processes unknown bytes, false if it ignores them.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [DecoderFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [DecoderFallbackBuffer](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

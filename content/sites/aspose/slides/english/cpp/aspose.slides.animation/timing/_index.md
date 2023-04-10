@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.animation/timing/
 Represents animation timing.
 
 ```cpp
-class Timing : public Aspose::Slides::Animation::ITiming,
-               public Aspose::Slides::IDOMObject
+class Timing : public Aspose::Slides::Animation::ITiming,               public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

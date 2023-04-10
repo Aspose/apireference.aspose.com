@@ -20,13 +20,7 @@ virtual String System::Security::Cryptography::X509Certificates::X509Certificate
 
 The hexadecimal string.
 
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [X509Certificate](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
-## X509Certificate::GetCertHashString(const [HashAlgorithmName](../../../system.security.cryptography/hashalgorithmname/)\&) const method
+## X509Certificate::GetCertHashString(const HashAlgorithmName\&) const method
 
 
 Gets [SHA1](../../../system.security.cryptography/sha1/) hash for the current object as a hexadecimal string.
@@ -48,8 +42,8 @@ The hexadecimal string.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Struct [HashAlgorithmName](../../../system.security.cryptography/hashalgorithmname/)
-* Class [X509Certificate](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [X509Certificate](./)
+* Struct [HashAlgorithmName](../../system.security.cryptography/hashalgorithmname/)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

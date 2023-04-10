@@ -22,11 +22,6 @@ template<typename T> std::enable_if<IsExceptionWrapper<T>::value, constT &>::typ
 | --- | --- |
 | T | The type whose instance is returned |
 
-## See Also
-
-* Struct [IsExceptionWrapper](../isexceptionwrapper/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::Default() function
 
 
@@ -45,6 +40,6 @@ template<typename T> std::enable_if<!IsExceptionWrapper<T>::value, constT &>::ty
 
 ## See Also
 
-* Struct [IsExceptionWrapper](../isexceptionwrapper/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Struct [IsExceptionWrapper](./isexceptionwrapper/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

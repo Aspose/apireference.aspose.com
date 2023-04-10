@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic/defaultcomparer/compare/
 ---
-## DefaultComparer::Compare(typename [ThisType::args_type](../../icomparer/args_type/), typename [ThisType::args_type](../../icomparer/args_type/)) const method
+## DefaultComparer::Compare(typename ThisType::args_type, typename ThisType::args_type) const method
 
 
 Actual data comparison.
@@ -29,7 +29,7 @@ Negative value if **x** is less than **y**, 0 if operands are equal and positive
 
 ## See Also
 
-* Typedef [args_type](../../icomparer/args_type/)
-* Class [DefaultComparer](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [args_type](../icomparer/args_type/)
+* Class [DefaultComparer](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

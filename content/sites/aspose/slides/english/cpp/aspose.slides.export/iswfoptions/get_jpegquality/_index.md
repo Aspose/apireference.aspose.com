@@ -19,6 +19,6 @@ virtual int32_t Aspose::Slides::Export::ISwfOptions::get_JpegQuality()=0
 
 ## See Also
 
-* Class [ISwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

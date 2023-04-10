@@ -18,6 +18,6 @@ void Aspose::Slides::Charts::ChartDataPoint::Remove() override
 
 ## See Also
 
-* Class [ChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

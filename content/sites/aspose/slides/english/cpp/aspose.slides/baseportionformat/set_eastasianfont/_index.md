@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/aspose.slides/baseportionformat/set_eastasianfont/
 ---
-## BasePortionFormat::set_EastAsianFont([System::SharedPtr](../../../system/sharedptr/)\<[IFontData](../../ifontdata/)\>) method
+## BasePortionFormat::set_EastAsianFont(System::SharedPtr\<IFontData\>) method
 
 
 Sets the East Asian font info. Null means font is undefined and should be inherited from the Master. Write [IFontData](../../ifontdata/).
@@ -17,8 +17,8 @@ void Aspose::Slides::BasePortionFormat::set_EastAsianFont(System::SharedPtr<IFon
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontData](../../ifontdata/)
-* Class [BasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontData](../ifontdata/)
+* Class [BasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

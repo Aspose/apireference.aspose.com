@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.net/httpwebrequest/set_method/
 ---
-## HttpWebRequest::set_Method([String](../../../system/string/)) method
+## HttpWebRequest::set_Method(String) method
 
 
 Sets the HTTP method.
@@ -24,7 +24,7 @@ void System::Net::HttpWebRequest::set_Method(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

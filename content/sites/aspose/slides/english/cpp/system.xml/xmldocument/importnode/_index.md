@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/system.xml/xmldocument/importnode/
 ---
-## XmlDocument::ImportNode([SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../xmlnode/)\>, **bool**) method
+## XmlDocument::ImportNode(SharedPtr\<XmlNode\>, bool) method
 
 
 Imports a node from another document to the current document.
@@ -29,8 +29,8 @@ The imported [XmlNode](../../xmlnode/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

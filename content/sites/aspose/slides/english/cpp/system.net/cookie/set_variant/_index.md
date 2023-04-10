@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/system.net/cookie/set_variant/
 ---
-## Cookie::set_Variant([CookieVariant](../../cookievariant/)) method
+## Cookie::set_Variant(CookieVariant) method
 
 
 Sets the cookie's specification.
@@ -24,7 +24,7 @@ void System::Net::Cookie::set_Variant(CookieVariant value)
 
 ## See Also
 
-* Enum [CookieVariant](../../cookievariant/)
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CookieVariant](../cookievariant/)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual Aspose::Slides::Charts::PictureType Aspose::Slides::Charts::IChartWall::
 
 ## See Also
 
-* Enum [PictureType](../../picturetype/)
-* Class [IChartWall](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PictureType](../picturetype/)
+* Class [IChartWall](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ true if the [ICollection](../../../system.collections.generic/icollection/) is r
 
 ## See Also
 
-* Class [ParagraphCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ParagraphCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

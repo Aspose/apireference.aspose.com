@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides/ibaseslide/get_shape/
 ---
-## IBaseSlide::get_Shape(**int32_t**) method
+## IBaseSlide::get_Shape(int32_t) method
 
 
 Returns the shape at the specified index. Read-only [Aspose::Slides::IShape](../../ishape/)
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IShape> Aspose::Slides::IBaseSlide::get_Shape(int32_t 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShape](../../ishape/)
-* Class [IBaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShape](../ishape/)
+* Class [IBaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

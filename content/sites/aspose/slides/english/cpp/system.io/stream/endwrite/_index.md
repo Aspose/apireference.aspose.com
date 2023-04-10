@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.io/stream/endwrite/
 ---
-## Stream::EndWrite([System::SharedPtr](../../../system/sharedptr/)\<[System::IAsyncResult](../../../system/iasyncresult/)\>) method
+## Stream::EndWrite(System::SharedPtr\<System::IAsyncResult\>) method
 
 
 Ends an asynchronous write operation. Waits until the specified asynchronous write operation completes.
@@ -24,8 +24,8 @@ virtual void System::IO::Stream::EndWrite(System::SharedPtr<System::IAsyncResult
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Class [Stream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [Stream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

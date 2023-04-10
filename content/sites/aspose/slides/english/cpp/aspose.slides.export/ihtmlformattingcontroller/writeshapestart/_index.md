@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.export/ihtmlformattingcontroller/writeshapestart/
 ---
-## IHtmlFormattingController::WriteShapeStart([System::SharedPtr](../../../system/sharedptr/)\<[IHtmlGenerator](../../ihtmlgenerator/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
+## IHtmlFormattingController::WriteShapeStart(System::SharedPtr\<IHtmlGenerator\>, System::SharedPtr\<IShape\>) method
 
 
 Called before shape's rendering. Called once per each of shape. If this function writes anything to generator, current slide image generation will be finished, added html fragment inserted and new image will be started atop of the previous.
@@ -25,9 +25,9 @@ virtual void Aspose::Slides::Export::IHtmlFormattingController::WriteShapeStart(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHtmlGenerator](../../ihtmlgenerator/)
-* Class [IShape](../../../aspose.slides/ishape/)
-* Class [IHtmlFormattingController](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHtmlGenerator](../ihtmlgenerator/)
+* Class [IShape](../../aspose.slides/ishape/)
+* Class [IHtmlFormattingController](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

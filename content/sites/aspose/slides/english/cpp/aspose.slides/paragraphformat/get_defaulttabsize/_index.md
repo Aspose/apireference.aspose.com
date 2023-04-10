@@ -17,6 +17,6 @@ float Aspose::Slides::ParagraphFormat::get_DefaultTabSize() override
 
 ## See Also
 
-* Class [ParagraphFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ParagraphFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ System::DateTime Aspose::Slides::Presentation::get_CurrentDateTime() override
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

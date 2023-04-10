@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Export::IHtmlGenerator::get_NextSlideIndex()=0
 
 ## See Also
 
-* Class [IHtmlGenerator](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IHtmlGenerator](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

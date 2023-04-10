@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml.xsl/xsltargumentlist/removeparam/
 ---
-## XsltArgumentList::RemoveParam(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## XsltArgumentList::RemoveParam(const String\&, const String\&) method
 
 
 Removes the parameter from the [XsltArgumentList](../).
@@ -29,9 +29,9 @@ The parameter object or **nullptr** if one was not found.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [XsltArgumentList](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [String](../../system/string/)
+* Class [XsltArgumentList](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

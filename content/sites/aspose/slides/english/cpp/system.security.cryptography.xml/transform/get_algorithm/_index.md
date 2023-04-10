@@ -17,7 +17,7 @@ String System::Security::Cryptography::Xml::Transform::get_Algorithm()
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Transform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Transform](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

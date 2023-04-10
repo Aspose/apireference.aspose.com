@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/aspose.slides.mathtext/mathblock/joinblock/
 ---
-## MathBlock::JoinBlock([System::SharedPtr](../../../system/sharedptr/)\<[IMathBlock](../../imathblock/)\>) method
+## MathBlock::JoinBlock(System::SharedPtr\<IMathBlock\>) method
 
 
 Joins another mathematical block with this one
@@ -38,8 +38,8 @@ auto block3 = block1->JoinBlock(block2);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathBlock](../../imathblock/)
-* Class [MathBlock](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathBlock](../imathblock/)
+* Class [MathBlock](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

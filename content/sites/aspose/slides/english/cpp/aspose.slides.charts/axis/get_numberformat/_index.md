@@ -17,7 +17,7 @@ System::String Aspose::Slides::Charts::Axis::get_NumberFormat() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides/ishapecollection/insertaudioframelinked/
 ---
-## IShapeCollection::InsertAudioFrameLinked(**int32_t**, **float**, **float**, **float**, **float**, [System::String](../../../system/string/)) method
+## IShapeCollection::InsertAudioFrameLinked(int32_t, float, float, float, float, System::String) method
 
 
 Creates a new audio frame with linked audio file and inserts it to a collection at the specified index.
@@ -33,9 +33,9 @@ Created [AudioFrame](../../audioframe/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAudioFrame](../../iaudioframe/)
-* Class [String](../../../system/string/)
-* Class [IShapeCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAudioFrame](../iaudioframe/)
+* Class [String](../../system/string/)
+* Class [IShapeCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

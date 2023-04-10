@@ -17,6 +17,6 @@ Aspose::Slides::Animation::ColorEffect::ColorEffect()
 
 ## See Also
 
-* Class [ColorEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColorEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

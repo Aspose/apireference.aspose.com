@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.collections.generic/equalitycompareradapter/set_equalitycomparator/
 ---
-## EqualityComparerAdapter::set_EqualityComparator(const [SharedPtr](../../../system/sharedptr/)\<[IEqualityComparer](../../iequalitycomparer/)\<T\>\>\&) method
+## EqualityComparerAdapter::set_EqualityComparator(const SharedPtr\<IEqualityComparer\<T\>\>\&) method
 
 
 Sets comparator.
@@ -24,8 +24,8 @@ void System::Collections::Generic::EqualityComparerAdapter<T>::set_EqualityCompa
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEqualityComparer](../../iequalitycomparer/)
-* Struct [EqualityComparerAdapter](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEqualityComparer](../iequalitycomparer/)
+* Struct [EqualityComparerAdapter](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

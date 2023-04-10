@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.globalization/taiwanlunisolarcalendar/getera/
 ---
-## TaiwanLunisolarCalendar::GetEra([DateTime](../../../system/datetime/)) const method
+## TaiwanLunisolarCalendar::GetEra(DateTime) const method
 
 
 Gets era for the specified time point.
@@ -28,7 +28,7 @@ Era of the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [TaiwanLunisolarCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [TaiwanLunisolarCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

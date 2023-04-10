@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.xml/xmldocumentfragment/writecontentto/
 ---
-## XmlDocumentFragment::WriteContentTo(const [SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../xmlwriter/)\>\&) method
+## XmlDocumentFragment::WriteContentTo(const SharedPtr\<XmlWriter\>\&) method
 
 
 Saves all the children of the node to the specified [XmlWriter](../../xmlwriter/).
@@ -24,8 +24,8 @@ void System::Xml::XmlDocumentFragment::WriteContentTo(const SharedPtr<XmlWriter>
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../xmlwriter/)
-* Class [XmlDocumentFragment](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../xmlwriter/)
+* Class [XmlDocumentFragment](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/system.xml.xpath/xpathnavigator/set_outerxml/
 ---
-## XPathNavigator::set_OuterXml([String](../../../system/string/)) method
+## XPathNavigator::set_OuterXml(String) method
 
 
 Sets the markup representing the opening and closing tags of the current node and its child nodes.
@@ -24,7 +24,7 @@ virtual void System::Xml::XPath::XPathNavigator::set_OuterXml(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

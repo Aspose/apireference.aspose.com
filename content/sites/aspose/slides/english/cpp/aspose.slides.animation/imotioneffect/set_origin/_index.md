@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/imotioneffect/set_origin/
 ---
-## IMotionEffect::set_Origin([MotionOriginType](../../motionorigintype/)) method
+## IMotionEffect::set_Origin(MotionOriginType) method
 
 
 Specifies what the origin of the motion path is relative to such as the layout of the slide, or the parent. Write [MotionOriginType](../../motionorigintype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::IMotionEffect::set_Origin(MotionOriginTy
 
 ## See Also
 
-* Enum [MotionOriginType](../../motionorigintype/)
-* Class [IMotionEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MotionOriginType](../motionorigintype/)
+* Class [IMotionEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

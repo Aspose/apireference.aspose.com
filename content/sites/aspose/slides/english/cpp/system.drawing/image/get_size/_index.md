@@ -17,7 +17,7 @@ Size System::Drawing::Image::get_Size() const
 
 ## See Also
 
-* Class [Size](../../size/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Size](../size/)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ HyperlinkColorSource Aspose::Slides::Hyperlink::get_ColorSource() override
 
 ## See Also
 
-* Enum [HyperlinkColorSource](../../hyperlinkcolorsource/)
-* Class [Hyperlink](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [HyperlinkColorSource](../hyperlinkcolorsource/)
+* Class [Hyperlink](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

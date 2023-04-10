@@ -28,6 +28,6 @@ true if the sequence contains the specified value, otherwise false.
 
 ## See Also
 
-* Class [IEnumerable](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IEnumerable](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

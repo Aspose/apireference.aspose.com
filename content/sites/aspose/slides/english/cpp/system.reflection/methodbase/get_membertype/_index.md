@@ -17,7 +17,7 @@ virtual MemberTypes System::Reflection::MethodBase::get_MemberType() const overr
 
 ## See Also
 
-* Enum [MemberTypes](../../membertypes/)
-* Class [MethodBase](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MemberTypes](../membertypes/)
+* Class [MethodBase](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

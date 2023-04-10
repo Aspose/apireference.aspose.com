@@ -12,8 +12,7 @@ url: /cpp/system.collections.generic/keyiterator/
 [Dictionary](../dictionary/) iterator that provides key access.
 
 ```cpp
-template<typename Dict>class KeyIterator : public System::Details::NativeIteratorWrapperBase<Dict::map_t::key_type, Dict::map_t::const_iterator>,
-                                           private System::Details::IteratorPointerUpdater<Dict::map_t::key_type, false>
+template<typename Dict>class KeyIterator : public System::Details::NativeIteratorWrapperBase<Dict::map_t::key_type, Dict::map_t::const_iterator>,                                           private System::Details::IteratorPointerUpdater<Dict::map_t::key_type, false>
 ```
 
 

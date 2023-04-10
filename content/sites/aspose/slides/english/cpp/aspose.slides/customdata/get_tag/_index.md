@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/customdata/get_tag/
 ---
-## CustomData::get_Tag([System::String](../../../system/string/)) method
+## CustomData::get_Tag(System::String) method
 
 
 Returns the Customer Data Tag specified at the index.
@@ -17,7 +17,7 @@ System::String Aspose::Slides::CustomData::get_Tag(System::String name) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [CustomData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [CustomData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

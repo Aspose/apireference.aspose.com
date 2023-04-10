@@ -17,6 +17,6 @@ int64_t Aspose::Slides::StreamWrapper::get_Length() override
 
 ## See Also
 
-* Class [StreamWrapper](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StreamWrapper](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

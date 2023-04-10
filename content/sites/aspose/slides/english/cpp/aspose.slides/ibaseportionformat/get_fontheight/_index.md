@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IBasePortionFormat::get_FontHeight()=0
 
 ## See Also
 
-* Class [IBasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

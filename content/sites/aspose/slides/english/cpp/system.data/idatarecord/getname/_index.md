@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.data/idatarecord/getname/
 ---
-## IDataRecord::GetName(const **int32_t**) method
+## IDataRecord::GetName(const int32_t) method
 
 
 Gets name of field at specified position.
@@ -28,7 +28,7 @@ Feild name at specified index.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDataRecord](../)
-* Namespace [System::Data](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDataRecord](./)
+* Namespace [System::Data](../)
+* Library [Aspose.Slides](../../)

@@ -29,6 +29,6 @@ A UTF-32 code unit resulting from conversion
 
 ## See Also
 
-* Class [Char](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Char](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

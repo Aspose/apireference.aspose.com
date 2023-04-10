@@ -22,7 +22,7 @@ The name of the element. The default is [String::Empty](../../../system/string/e
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaElement](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaElement](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

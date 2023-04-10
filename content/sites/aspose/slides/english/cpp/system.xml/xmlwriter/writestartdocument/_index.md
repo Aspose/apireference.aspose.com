@@ -16,12 +16,7 @@ virtual void System::Xml::XmlWriter::WriteStartDocument()=0
 ```
 
 
-## See Also
-
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
-## XmlWriter::WriteStartDocument(**bool**) method
+## XmlWriter::WriteStartDocument(bool) method
 
 
 When overridden in a derived class, writes the XML declaration with the version \"1.0\" and the standalone attribute.
@@ -39,6 +34,6 @@ virtual void System::Xml::XmlWriter::WriteStartDocument(bool standalone)=0
 
 ## See Also
 
-* Class [XmlWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

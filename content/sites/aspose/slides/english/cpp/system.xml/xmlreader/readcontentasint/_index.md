@@ -22,6 +22,6 @@ The text content as a 32-bit signed integer.
 
 ## See Also
 
-* Class [XmlReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

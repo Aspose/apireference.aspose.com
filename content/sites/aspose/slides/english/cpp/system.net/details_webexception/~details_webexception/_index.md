@@ -17,6 +17,6 @@ virtual System::Net::Details_WebException::~Details_WebException()
 
 ## See Also
 
-* Class [Details_WebException](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Details_WebException](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

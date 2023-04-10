@@ -6,7 +6,7 @@ type: docs
 weight: 742
 url: /cpp/system.net.sockets/socket/poll/
 ---
-## Socket::Poll(**int32_t**, [SelectMode](../../selectmode/)) method
+## Socket::Poll(int32_t, SelectMode) method
 
 
 Returns the status of the socket based on the specified polling mode.
@@ -29,7 +29,7 @@ The status of the socket based on the specified polling mode.
 
 ## See Also
 
-* Enum [SelectMode](../../selectmode/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SelectMode](../selectmode/)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

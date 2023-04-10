@@ -17,6 +17,6 @@ bool Aspose::Slides::NormalViewProperties::get_PreferSingleView() override
 
 ## See Also
 
-* Class [NormalViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [NormalViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

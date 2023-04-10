@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::IErrorBarsFormat::get_IsVisible()=0
 
 ## See Also
 
-* Class [IErrorBarsFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IErrorBarsFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

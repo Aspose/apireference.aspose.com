@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides.effects/outershadow/set_skewvertical/
 ---
-## OuterShadow::set_SkewVertical(**double**) method
+## OuterShadow::set_SkewVertical(double) method
 
 
 Specifies the vertical skew angle (in degrees). Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::OuterShadow::set_SkewVertical(double value) overri
 
 ## See Also
 
-* Class [OuterShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [OuterShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 846
 url: /cpp/aspose.slides.charts/iaxis/set_ticklabelrotationangle/
 ---
-## IAxis::set_TickLabelRotationAngle(**float**) method
+## IAxis::set_TickLabelRotationAngle(float) method
 
 
 Represents the rotation angle of tick labels Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IAxis::set_TickLabelRotationAngle(float val
 
 ## See Also
 
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

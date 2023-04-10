@@ -17,7 +17,7 @@ String System::DateTime::ToShortTimeString() const
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [DateTime](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [DateTime](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

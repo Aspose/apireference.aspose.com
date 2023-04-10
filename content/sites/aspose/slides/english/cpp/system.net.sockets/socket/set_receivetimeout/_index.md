@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.net.sockets/socket/set_receivetimeout/
 ---
-## Socket::set_ReceiveTimeout(**int32_t**) method
+## Socket::set_ReceiveTimeout(int32_t) method
 
 
 Sets a period after which a 'Receive' call will time out.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_ReceiveTimeout(int32_t value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

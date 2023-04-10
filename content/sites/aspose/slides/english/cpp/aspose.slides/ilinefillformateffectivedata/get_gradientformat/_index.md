@@ -17,8 +17,8 @@ virtual System::SharedPtr<IGradientFormatEffectiveData> Aspose::Slides::ILineFil
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGradientFormatEffectiveData](../../igradientformateffectivedata/)
-* Class [ILineFillFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGradientFormatEffectiveData](../igradientformateffectivedata/)
+* Class [ILineFillFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

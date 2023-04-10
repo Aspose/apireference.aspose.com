@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml.serialization/xmlserializerimplementation/canserialize/
 ---
-## XmlSerializerImplementation::CanSerialize(const [TypeInfo](../../../system/typeinfo/)\&) method
+## XmlSerializerImplementation::CanSerialize(const TypeInfo\&) method
 
 
 
@@ -17,7 +17,7 @@ virtual bool System::Xml::Serialization::XmlSerializerImplementation::CanSeriali
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [XmlSerializerImplementation](../)
-* Namespace [System::Xml::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [XmlSerializerImplementation](./)
+* Namespace [System::Xml::Serialization](../)
+* Library [Aspose.Slides](../../)

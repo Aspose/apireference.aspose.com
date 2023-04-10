@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/notescommentslayoutingoptions/set_notesposition/
 ---
-## NotesCommentsLayoutingOptions::set_NotesPosition([NotesPositions](../../notespositions/)) method
+## NotesCommentsLayoutingOptions::set_NotesPosition(NotesPositions) method
 
 
 Sets the position of the notes on the page.
@@ -21,7 +21,7 @@ void Aspose::Slides::Export::NotesCommentsLayoutingOptions::set_NotesPosition(No
 Default is **[NotesPositions::None](../../notespositions/)**. 
 ## See Also
 
-* Enum [NotesPositions](../../notespositions/)
-* Class [NotesCommentsLayoutingOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NotesPositions](../notespositions/)
+* Class [NotesCommentsLayoutingOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

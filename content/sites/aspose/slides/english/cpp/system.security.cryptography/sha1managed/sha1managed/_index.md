@@ -17,6 +17,6 @@ System::Security::Cryptography::SHA1Managed::SHA1Managed()
 
 ## See Also
 
-* Class [SHA1Managed](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SHA1Managed](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

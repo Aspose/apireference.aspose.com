@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.xml/xmlattribute/set_innertext/
 ---
-## XmlAttribute::set_InnerText([String](../../../system/string/)) method
+## XmlAttribute::set_InnerText(String) method
 
 
 Sets the concatenated values of the node and all its children.
@@ -24,7 +24,7 @@ void System::Xml::XmlAttribute::set_InnerText(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlAttribute](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlAttribute](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

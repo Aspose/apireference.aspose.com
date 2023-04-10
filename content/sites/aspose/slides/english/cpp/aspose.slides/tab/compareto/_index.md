@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/tab/compareto/
 ---
-## Tab::CompareTo([System::SharedPtr](../../../system/sharedptr/)\<[ITab](../../itab/)\>) method
+## Tab::CompareTo(System::SharedPtr\<ITab\>) method
 
 
 Compares the current instance with another object of the same type.
@@ -30,8 +30,8 @@ A 32-bit integer that indicates the relative order of the comparands. The return
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITab](../../itab/)
-* Class [Tab](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITab](../itab/)
+* Class [Tab](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

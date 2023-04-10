@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/icolorformat/set_colortype/
 ---
-## IColorFormat::set_ColorType([Aspose::Slides::ColorType](../../colortype/)) method
+## IColorFormat::set_ColorType(Aspose::Slides::ColorType) method
 
 
 Sets the color definition method. Write [Slides::ColorType](../../colortype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IColorFormat::set_ColorType(Aspose::Slides::ColorTy
 
 ## See Also
 
-* Enum [ColorType](../../colortype/)
-* Class [IColorFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorType](../colortype/)
+* Class [IColorFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

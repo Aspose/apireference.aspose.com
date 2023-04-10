@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net.http.headers/namevalueheadervalue/getvaluelength/
 ---
-## NameValueHeaderValue::GetValueLength([String](../../../system/string/), **int32_t**) method
+## NameValueHeaderValue::GetValueLength(String, int32_t) method
 
 
 Returns the length of a value from the specified index.
@@ -29,7 +29,7 @@ The length of a value from the specified index.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NameValueHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NameValueHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

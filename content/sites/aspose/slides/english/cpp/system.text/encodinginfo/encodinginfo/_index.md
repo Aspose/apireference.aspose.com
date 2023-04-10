@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.text/encodinginfo/encodinginfo/
 ---
-## EncodingInfo::EncodingInfo(int, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) constructor
+## EncodingInfo::EncodingInfo(int, const String\&, const String\&) constructor
 
 
 Constuctor.
@@ -26,7 +26,7 @@ System::Text::EncodingInfo::EncodingInfo(int codepage, const String &name, const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [EncodingInfo](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [EncodingInfo](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

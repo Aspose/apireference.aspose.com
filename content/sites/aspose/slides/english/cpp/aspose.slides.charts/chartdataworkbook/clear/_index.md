@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/chartdataworkbook/clear/
 ---
-## ChartDataWorkbook::Clear(**int32_t**) method
+## ChartDataWorkbook::Clear(int32_t) method
 
 
 Clear all cells values on sheet
@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartDataWorkbook::Clear(int32_t sheetIndex) overri
 
 ## See Also
 
-* Class [ChartDataWorkbook](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataWorkbook](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

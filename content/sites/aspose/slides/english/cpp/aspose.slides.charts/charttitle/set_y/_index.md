@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/charttitle/set_y/
 ---
-## ChartTitle::set_Y(**float**) method
+## ChartTitle::set_Y(float) method
 
 
 Sets the y coordinate of a title as a fraction of the height of the chart. Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartTitle::set_Y(float value) override
 
 ## See Also
 
-* Class [ChartTitle](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartTitle](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ uint64_t System::BoxedValue<T>::GetUnsignedLongLongValue() override
 
 ## See Also
 
-* Class [BoxedValue](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BoxedValue](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

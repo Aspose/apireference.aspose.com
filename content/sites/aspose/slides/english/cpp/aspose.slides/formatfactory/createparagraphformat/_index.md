@@ -22,8 +22,8 @@ New paragraph format.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IParagraphFormat](../../iparagraphformat/)
-* Class [FormatFactory](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IParagraphFormat](../iparagraphformat/)
+* Class [FormatFactory](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

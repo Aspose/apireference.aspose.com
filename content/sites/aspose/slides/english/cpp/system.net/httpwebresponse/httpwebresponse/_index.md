@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.net/httpwebresponse/httpwebresponse/
 ---
-## HttpWebResponse::HttpWebResponse([System::SharedPtr](../../../system/sharedptr/)\<[Http::HttpResponseMessage](../../../system.net.http/httpresponsemessage/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[CookieContainer](../../cookiecontainer/)\>) constructor
+## HttpWebResponse::HttpWebResponse(System::SharedPtr\<Http::HttpResponseMessage\>, System::SharedPtr\<Uri\>, System::SharedPtr\<CookieContainer\>) constructor
 
 
 Constructs a new instance.
@@ -26,10 +26,10 @@ System::Net::HttpWebResponse::HttpWebResponse(System::SharedPtr<Http::HttpRespon
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpResponseMessage](../../../system.net.http/httpresponsemessage/)
-* Class [Uri](../../../system/uri/)
-* Class [CookieContainer](../../cookiecontainer/)
-* Class [HttpWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpResponseMessage](../../system.net.http/httpresponsemessage/)
+* Class [Uri](../../system/uri/)
+* Class [CookieContainer](../cookiecontainer/)
+* Class [HttpWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

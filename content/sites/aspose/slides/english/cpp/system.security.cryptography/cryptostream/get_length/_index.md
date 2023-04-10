@@ -18,6 +18,6 @@ int64_t System::Security::Cryptography::CryptoStream::get_Length() const overrid
 
 ## See Also
 
-* Class [CryptoStream](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CryptoStream](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

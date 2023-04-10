@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Charts::IChartDataWorksheet::get_Index()=0
 
 ## See Also
 
-* Class [IChartDataWorksheet](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartDataWorksheet](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

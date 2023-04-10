@@ -17,8 +17,8 @@ System::SharedPtr<Effects::IFillOverlay> Aspose::Slides::EffectFormat::get_FillO
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillOverlay](../../../aspose.slides.effects/ifilloverlay/)
-* Class [EffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillOverlay](../../aspose.slides.effects/ifilloverlay/)
+* Class [EffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

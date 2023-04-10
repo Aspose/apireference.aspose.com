@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlnodelist/item/
 ---
-## XmlNodeList::Item(**int32_t**) method
+## XmlNodeList::Item(int32_t) method
 
 
 Retrieves a node at the given index.
@@ -28,8 +28,8 @@ The [XmlNode](../../xmlnode/) with the specified index in the collection. If **i
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlNodeList](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlNodeList](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

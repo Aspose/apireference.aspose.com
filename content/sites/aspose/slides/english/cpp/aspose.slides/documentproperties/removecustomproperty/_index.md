@@ -6,7 +6,7 @@ type: docs
 weight: 586
 url: /cpp/aspose.slides/documentproperties/removecustomproperty/
 ---
-## DocumentProperties::RemoveCustomProperty([System::String](../../../system/string/)) method
+## DocumentProperties::RemoveCustomProperty(System::String) method
 
 
 Remove a custom property associated with a specified name.
@@ -28,7 +28,7 @@ Return true if a property was removed, false overwise.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

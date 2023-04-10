@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_TypeInitializationException::GetType() 
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [Details_TypeInitializationException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [Details_TypeInitializationException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

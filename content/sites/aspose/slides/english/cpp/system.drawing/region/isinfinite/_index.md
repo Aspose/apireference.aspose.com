@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.drawing/region/isinfinite/
 ---
-## Region::IsInfinite(const [SharedPtr](../../../system/sharedptr/)\<[Graphics](../../graphics/)\>\&) const method
+## Region::IsInfinite(const SharedPtr\<Graphics\>\&) const method
 
 
 Determines wheter the region represented by the current object has infinite interior on the specified drawing surface.
@@ -24,8 +24,8 @@ bool System::Drawing::Region::IsInfinite(const SharedPtr<Graphics> &g) const
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
-* Class [Region](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Graphics](../graphics/)
+* Class [Region](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

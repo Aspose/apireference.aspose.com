@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.slides.charts/axis/set_islogarithmic/
 ---
-## Axis::set_IsLogarithmic(**bool**) method
+## Axis::set_IsLogarithmic(bool) method
 
 
 Represents if the value axis scale type is logarithmic or not. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Axis::set_IsLogarithmic(bool value) override
 
 ## See Also
 
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

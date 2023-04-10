@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/eightdirectiontransition/
 Eight direction slide transition effect.
 
 ```cpp
-class EightDirectionTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                                 public Aspose::Slides::SlideShow::IEightDirectionTransition
+class EightDirectionTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                                 public Aspose::Slides::SlideShow::IEightDirectionTransition
 ```
 
 ## Methods

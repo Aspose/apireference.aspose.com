@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.charts/chartcategorycollection/set_usecells/
 ---
-## ChartCategoryCollection::set_UseCells(**bool**) method
+## ChartCategoryCollection::set_UseCells(bool) method
 
 
 If true then worksheet is used for storing categories (this case supports a multi-level categories). If false then worksheet is NOT used for storing values (and this case doesn't support a multi-level categories). Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartCategoryCollection::set_UseCells(bool value) o
 
 ## See Also
 
-* Class [ChartCategoryCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartCategoryCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

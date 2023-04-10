@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IBlobManagementOptions::get_TempFilesRoot
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IBlobManagementOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IBlobManagementOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

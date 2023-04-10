@@ -17,8 +17,8 @@ System::SharedPtr<IMotionPath> Aspose::Slides::Animation::MotionEffect::get_Path
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMotionPath](../../imotionpath/)
-* Class [MotionEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMotionPath](../imotionpath/)
+* Class [MotionEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

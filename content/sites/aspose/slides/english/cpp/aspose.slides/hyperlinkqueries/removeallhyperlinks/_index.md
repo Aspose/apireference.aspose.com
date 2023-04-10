@@ -17,6 +17,6 @@ void Aspose::Slides::HyperlinkQueries::RemoveAllHyperlinks() override
 
 ## See Also
 
-* Class [HyperlinkQueries](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HyperlinkQueries](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/itagcollection/idx_get/
 ---
-## ITagCollection::idx_get([System::String](../../../system/string/)) method
+## ITagCollection::idx_get(System::String) method
 
 
 Returns a key and a value pair of a tag.
@@ -28,7 +28,7 @@ Value of a tag.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ITagCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ITagCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ The content contained within the [XmlSchemaSimpleContentRestriction](../../xmlsc
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaContent](../../xmlschemacontent/)
-* Class [XmlSchemaSimpleContent](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaContent](../xmlschemacontent/)
+* Class [XmlSchemaSimpleContent](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

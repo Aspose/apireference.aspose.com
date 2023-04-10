@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.xml/xmlelement/set_isempty/
 ---
-## XmlElement::set_IsEmpty(**bool**) method
+## XmlElement::set_IsEmpty(bool) method
 
 
 Sets the tag format of the element.
@@ -24,6 +24,6 @@ void System::Xml::XmlElement::set_IsEmpty(bool value)
 
 ## See Also
 
-* Class [XmlElement](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlElement](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

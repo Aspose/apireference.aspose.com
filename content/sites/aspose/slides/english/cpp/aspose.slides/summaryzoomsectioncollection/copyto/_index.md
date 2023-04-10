@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/summaryzoomsectioncollection/copyto/
 ---
-## SummaryZoomSectionCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[ISummaryZoomSection](../../isummaryzoomsection/)\>\>, **int32_t**) method
+## SummaryZoomSectionCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<ISummaryZoomSection\>\>, int32_t) method
 
 
 Copies the entire collection to the specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::SummaryZoomSectionCollection::CopyTo(System::ArrayPtr<Syste
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISummaryZoomSection](../../isummaryzoomsection/)
-* Class [SummaryZoomSectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISummaryZoomSection](../isummaryzoomsection/)
+* Class [SummaryZoomSectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

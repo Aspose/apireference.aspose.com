@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/system.net/httpwebrequest/httpwebrequest/
 ---
-## HttpWebRequest::HttpWebRequest([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) constructor
+## HttpWebRequest::HttpWebRequest(System::SharedPtr\<Uri\>) constructor
 
 
 Constructs a new instance.
@@ -24,8 +24,8 @@ System::Net::HttpWebRequest::HttpWebRequest(System::SharedPtr<Uri> uri)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

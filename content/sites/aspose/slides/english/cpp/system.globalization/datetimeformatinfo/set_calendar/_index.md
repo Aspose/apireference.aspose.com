@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/system.globalization/datetimeformatinfo/set_calendar/
 ---
-## DateTimeFormatInfo::set_Calendar(const [SharedPtr](../../../system/sharedptr/)\<[Calendar](../../calendar/)\>\&) method
+## DateTimeFormatInfo::set_Calendar(const SharedPtr\<Calendar\>\&) method
 
 
 Sets calendar associated with formatter.
@@ -24,8 +24,8 @@ void System::Globalization::DateTimeFormatInfo::set_Calendar(const SharedPtr<Cal
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Calendar](../../calendar/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Calendar](../calendar/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

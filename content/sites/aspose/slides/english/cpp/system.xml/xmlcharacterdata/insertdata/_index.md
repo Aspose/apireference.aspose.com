@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.xml/xmlcharacterdata/insertdata/
 ---
-## XmlCharacterData::InsertData(**int32_t**, [String](../../../system/string/)) method
+## XmlCharacterData::InsertData(int32_t, String) method
 
 
 Inserts the specified string at the specified character offset.
@@ -25,7 +25,7 @@ virtual void System::Xml::XmlCharacterData::InsertData(int32_t offset, String st
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlCharacterData](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlCharacterData](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaparticle/set_minoccursstring/
 ---
-## XmlSchemaParticle::set_MinOccursString(const [String](../../../system/string/)\&) method
+## XmlSchemaParticle::set_MinOccursString(const String\&) method
 
 
 Sets the number as a string value. The minimum number of times the particle can occur.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaParticle::set_MinOccursString(const String &v
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaParticle](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaParticle](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

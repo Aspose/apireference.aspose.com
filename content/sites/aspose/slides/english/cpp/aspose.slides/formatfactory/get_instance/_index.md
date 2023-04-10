@@ -17,8 +17,7 @@ static System::SharedPtr<FormatFactory> Aspose::Slides::FormatFactory::get_Insta
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FormatFactory](../)
-* Class [FormatFactory](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [FormatFactory](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

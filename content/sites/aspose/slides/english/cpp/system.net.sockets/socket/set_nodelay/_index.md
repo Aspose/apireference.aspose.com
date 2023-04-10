@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/system.net.sockets/socket/set_nodelay/
 ---
-## Socket::set_NoDelay(**bool**) method
+## Socket::set_NoDelay(bool) method
 
 
 Sets a value that indicates if the socket is using the Nagle algorithm.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_NoDelay(bool value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

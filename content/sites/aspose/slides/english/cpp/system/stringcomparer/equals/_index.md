@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system/stringcomparer/equals/
 ---
-## StringComparer::Equals([String](../../string/), [String](../../string/)) const method
+## StringComparer::Equals(String, String) const method
 
 
 Checks if two strings are equal using current settings.
@@ -29,7 +29,7 @@ True if strings are equal, false otherwise.
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [StringComparer](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [StringComparer](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

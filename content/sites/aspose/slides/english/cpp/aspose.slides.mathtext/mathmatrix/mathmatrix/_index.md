@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides.mathtext/mathmatrix/mathmatrix/
 ---
-## MathMatrix::MathMatrix(**int32_t**, **int32_t**) constructor
+## MathMatrix::MathMatrix(int32_t, int32_t) constructor
 
 
 Initializes a new instance of the [MathMatrix](../) class.
@@ -33,6 +33,6 @@ auto matrix = System::MakeObject<MathMatrix>(2, 3);
 
 ## See Also
 
-* Class [MathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

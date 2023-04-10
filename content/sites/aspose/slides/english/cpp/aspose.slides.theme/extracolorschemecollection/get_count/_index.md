@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Theme::ExtraColorSchemeCollection::get_Count() override
 
 ## See Also
 
-* Class [ExtraColorSchemeCollection](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ExtraColorSchemeCollection](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.globalization/calendar/addyears/
 ---
-## Calendar::AddYears([DateTime](../../../system/datetime/), int) const method
+## Calendar::AddYears(DateTime, int) const method
 
 
 Adds years to time point.
@@ -29,7 +29,7 @@ Time point after calculation is done.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

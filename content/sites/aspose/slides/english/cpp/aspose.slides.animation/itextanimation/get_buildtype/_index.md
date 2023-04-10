@@ -17,7 +17,7 @@ virtual Aspose::Slides::Animation::BuildType Aspose::Slides::Animation::ITextAni
 
 ## See Also
 
-* Enum [BuildType](../../buildtype/)
-* Class [ITextAnimation](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [BuildType](../buildtype/)
+* Class [ITextAnimation](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

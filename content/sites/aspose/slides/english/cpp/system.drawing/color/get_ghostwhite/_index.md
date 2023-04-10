@@ -17,7 +17,6 @@ static Color System::Drawing::Color::get_GhostWhite()
 
 ## See Also
 
-* Class [Color](../)
-* Class [Color](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

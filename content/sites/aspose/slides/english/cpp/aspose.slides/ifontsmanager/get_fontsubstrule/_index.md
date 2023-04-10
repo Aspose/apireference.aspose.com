@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/ifontsmanager/get_fontsubstrule/
 ---
-## IFontsManager::get_FontSubstRule(**int32_t**) method
+## IFontsManager::get_FontSubstRule(int32_t) method
 
 
 Returns font substitution rule at the specified index to use when rendering.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFontSubstRule> Aspose::Slides::IFontsManager::get_Fon
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontSubstRule](../../ifontsubstrule/)
-* Class [IFontsManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontSubstRule](../ifontsubstrule/)
+* Class [IFontsManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

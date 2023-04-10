@@ -12,8 +12,7 @@ url: /cpp/system.xml/xmlnodelist/
 Represents an ordered collection of nodes.
 
 ```cpp
-class XmlNodeList : public System::Collections::Generic::IEnumerable<SharedPtr<System::Xml::XmlNode>>,
-                    public System::IDisposable
+class XmlNodeList : public System::Collections::Generic::IEnumerable<SharedPtr<System::Xml::XmlNode>>,                    public System::IDisposable
 ```
 
 ## Methods

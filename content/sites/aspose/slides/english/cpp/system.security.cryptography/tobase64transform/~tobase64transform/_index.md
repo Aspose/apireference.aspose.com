@@ -17,6 +17,6 @@ virtual System::Security::Cryptography::ToBase64Transform::~ToBase64Transform()
 
 ## See Also
 
-* Class [ToBase64Transform](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ToBase64Transform](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

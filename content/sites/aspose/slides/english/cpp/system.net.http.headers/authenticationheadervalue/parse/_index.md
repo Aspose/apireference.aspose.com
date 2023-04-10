@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.net.http.headers/authenticationheadervalue/parse/
 ---
-## AuthenticationHeaderValue::Parse([String](../../../system/string/)) method
+## AuthenticationHeaderValue::Parse(String) method
 
 
 Converts a passed string to an instance of the [AuthenticationHeaderValue](../) class.
@@ -28,9 +28,8 @@ An instance of the [AuthenticationHeaderValue](../) class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AuthenticationHeaderValue](../)
-* Class [String](../../../system/string/)
-* Class [AuthenticationHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [AuthenticationHeaderValue](./)
+* Class [String](../../system/string/)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

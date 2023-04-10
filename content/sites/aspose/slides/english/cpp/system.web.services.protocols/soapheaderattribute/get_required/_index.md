@@ -25,6 +25,6 @@ Deprecated
 
 ## See Also
 
-* Class [SoapHeaderAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SoapHeaderAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

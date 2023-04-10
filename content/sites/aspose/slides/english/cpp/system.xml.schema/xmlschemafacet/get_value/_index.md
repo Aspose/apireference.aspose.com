@@ -22,7 +22,7 @@ The value attribute.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaFacet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaFacet](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

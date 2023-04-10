@@ -22,8 +22,8 @@ System::SharedPtr<System::Reflection::MethodBase> System::Diagnostics::StackFram
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [MethodBase](../../../system.reflection/methodbase/)
-* Class [StackFrame](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [MethodBase](../../system.reflection/methodbase/)
+* Class [StackFrame](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

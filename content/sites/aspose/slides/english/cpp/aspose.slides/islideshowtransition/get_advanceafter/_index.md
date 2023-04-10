@@ -33,6 +33,6 @@ if (slideTransition->get_AdvanceAfter())
 
 ## See Also
 
-* Class [ISlideShowTransition](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISlideShowTransition](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

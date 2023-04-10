@@ -22,7 +22,7 @@ const System::TypeInfo & System::Runtime::Serialization::Details_SerializationEx
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_SerializationException](../)
-* Namespace [System::Runtime::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_SerializationException](./)
+* Namespace [System::Runtime::Serialization](../)
+* Library [Aspose.Slides](../../)

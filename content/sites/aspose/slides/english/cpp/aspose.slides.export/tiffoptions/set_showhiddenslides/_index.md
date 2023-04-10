@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.export/tiffoptions/set_showhiddenslides/
 ---
-## TiffOptions::set_ShowHiddenSlides(**bool**) method
+## TiffOptions::set_ShowHiddenSlides(bool) method
 
 
 Specifies whether the generated document should include hidden slides or not. Default is **false**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Export::TiffOptions::set_ShowHiddenSlides(bool value) overr
 
 ## See Also
 
-* Class [TiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ static ImageFormatPtr System::Drawing::Imaging::ImageFormat::get_Wmf()
 
 ## See Also
 
-* Typedef [ImageFormatPtr](../../imageformatptr/)
-* Class [ImageFormat](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ImageFormatPtr](../imageformatptr/)
+* Class [ImageFormat](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

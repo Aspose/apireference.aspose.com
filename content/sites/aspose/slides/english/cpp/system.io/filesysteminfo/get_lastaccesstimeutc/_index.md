@@ -17,7 +17,7 @@ DateTime System::IO::FileSystemInfo::get_LastAccessTimeUtc()
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [FileSystemInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [FileSystemInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

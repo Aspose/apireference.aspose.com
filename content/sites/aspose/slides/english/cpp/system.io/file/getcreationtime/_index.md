@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.io/file/getcreationtime/
 ---
-## File::GetCreationTime(const [String](../../../system/string/)\&) method
+## File::GetCreationTime(const String\&) method
 
 
 Returns the creation time of the specified entity as local time.
@@ -28,8 +28,8 @@ A [DateTime](../../../system/datetime/) object representing the creation time of
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

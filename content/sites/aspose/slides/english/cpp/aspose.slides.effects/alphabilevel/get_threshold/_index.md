@@ -17,6 +17,6 @@ float Aspose::Slides::Effects::AlphaBiLevel::get_Threshold() override
 
 ## See Also
 
-* Class [AlphaBiLevel](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AlphaBiLevel](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

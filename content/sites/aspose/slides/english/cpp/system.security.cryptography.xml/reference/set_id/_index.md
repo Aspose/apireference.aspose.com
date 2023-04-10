@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography.xml/reference/set_id/
 ---
-## Reference::set_Id([String](../../../system/string/)) method
+## Reference::set_Id(String) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::Reference::set_Id(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Reference](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Reference](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

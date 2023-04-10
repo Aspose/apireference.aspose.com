@@ -17,8 +17,8 @@ virtual System::SharedPtr<IVbaReferenceCollection> Aspose::Slides::Vba::IVbaProj
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaReferenceCollection](../../ivbareferencecollection/)
-* Class [IVbaProject](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaReferenceCollection](../ivbareferencecollection/)
+* Class [IVbaProject](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

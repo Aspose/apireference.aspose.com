@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.text.regularexpressions/groupcollection/remove/
 ---
-## GroupCollection::Remove(const [GroupPtr](../../groupptr/)\&) method
+## GroupCollection::Remove(const GroupPtr\&) method
 
 
 Disables removing element from collection.
@@ -24,7 +24,7 @@ bool System::Text::RegularExpressions::GroupCollection::Remove(const GroupPtr &i
 
 ## See Also
 
-* Typedef [GroupPtr](../../groupptr/)
-* Class [GroupCollection](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [GroupPtr](../groupptr/)
+* Class [GroupCollection](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

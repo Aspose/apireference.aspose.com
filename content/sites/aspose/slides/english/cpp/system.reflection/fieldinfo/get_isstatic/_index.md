@@ -22,6 +22,6 @@ true if this field is static; otherwise, false.
 
 ## See Also
 
-* Class [FieldInfo](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FieldInfo](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual NullableBool Aspose::Slides::Charts::IChartTextBlockFormat::get_CenterTe
 
 ## See Also
 
-* Enum [NullableBool](../../../aspose.slides/nullablebool/)
-* Class [IChartTextBlockFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../../aspose.slides/nullablebool/)
+* Class [IChartTextBlockFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

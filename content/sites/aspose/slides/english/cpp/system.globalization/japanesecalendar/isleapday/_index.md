@@ -29,11 +29,6 @@ bool System::Globalization::JapaneseCalendar::IsLeapDay(int year, int month, int
 
 True if specified date is leap, false otherwise.
 
-## See Also
-
-* Class [JapaneseCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## JapaneseCalendar::IsLeapDay(int, int, int) const method
 
 
@@ -56,11 +51,6 @@ virtual bool System::Globalization::Calendar::IsLeapDay(int year, int month, int
 
 True if specified date is leap, false otherwise.
 
-## See Also
-
-* Class [JapaneseCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
 ## JapaneseCalendar::IsLeapDay(int, int, int, int) const method
 
 
@@ -86,6 +76,6 @@ True if specified date is leap, false otherwise.
 
 ## See Also
 
-* Class [JapaneseCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [JapaneseCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

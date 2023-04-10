@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/igraphicalobjectlock/set_selectlocked/
 ---
-## IGraphicalObjectLock::set_SelectLocked(**bool**) method
+## IGraphicalObjectLock::set_SelectLocked(bool) method
 
 
 Determines whether selecting this shape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IGraphicalObjectLock::set_SelectLocked(bool value)=
 
 ## See Also
 
-* Class [IGraphicalObjectLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGraphicalObjectLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.security.cryptography.xml/transformchain/add/
 ---
-## TransformChain::Add([SharedPtr](../../../system/sharedptr/)\<[Transform](../../transform/)\>) method
+## TransformChain::Add(SharedPtr\<Transform\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::TransformChain::Add(SharedPtr<Transfor
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Transform](../../transform/)
-* Class [TransformChain](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Transform](../transform/)
+* Class [TransformChain](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

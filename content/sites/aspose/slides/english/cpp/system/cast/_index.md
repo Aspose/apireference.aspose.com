@@ -6,7 +6,7 @@ type: docs
 weight: 2133
 url: /cpp/system/cast/
 ---
-## System::Cast([SmartPtr](../smartptr/)\<TFrom\> const\&) function
+## System::Cast(SmartPtr\<TFrom\> const\&) function
 
 
 Performs cast on [SmartPtr](../smartptr/) objects.
@@ -35,7 +35,7 @@ Cast result if cast is allowed.
 
 ## See Also
 
-* Struct [IsExceptionWrapper](../isexceptionwrapper/)
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Struct [IsExceptionWrapper](./isexceptionwrapper/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

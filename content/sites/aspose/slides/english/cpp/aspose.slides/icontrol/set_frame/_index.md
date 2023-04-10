@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/icontrol/set_frame/
 ---
-## IControl::set_Frame([System::SharedPtr](../../../system/sharedptr/)\<[IShapeFrame](../../ishapeframe/)\>) method
+## IControl::set_Frame(System::SharedPtr\<IShapeFrame\>) method
 
 
 Sets control's frame. Write [IShapeFrame](../../ishapeframe/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::IControl::set_Frame(System::SharedPtr<IShapeFrame> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShapeFrame](../../ishapeframe/)
-* Class [IControl](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShapeFrame](../ishapeframe/)
+* Class [IControl](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

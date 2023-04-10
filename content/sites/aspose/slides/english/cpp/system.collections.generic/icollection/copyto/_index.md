@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.collections.generic/icollection/copyto/
 ---
-## ICollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<T\>, int) method
+## ICollection::CopyTo(System::ArrayPtr\<T\>, int) method
 
 
 Copies all collection elements to existing array elements.
@@ -25,7 +25,7 @@ virtual void System::Collections::Generic::ICollection<T>::CopyTo(System::ArrayP
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [ICollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [ICollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The type of the item.
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [XmlSchemaDatatype](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [XmlSchemaDatatype](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

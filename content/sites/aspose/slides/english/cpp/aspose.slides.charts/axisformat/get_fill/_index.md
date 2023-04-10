@@ -17,8 +17,8 @@ System::SharedPtr<IFillFormat> Aspose::Slides::Charts::AxisFormat::get_Fill() ov
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillFormat](../../../aspose.slides/ifillformat/)
-* Class [AxisFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillFormat](../../aspose.slides/ifillformat/)
+* Class [AxisFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

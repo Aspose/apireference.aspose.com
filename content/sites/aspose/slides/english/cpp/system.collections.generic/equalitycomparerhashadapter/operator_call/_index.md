@@ -28,6 +28,6 @@ Calculated hash value.
 
 ## See Also
 
-* Struct [EqualityComparerHashAdapter](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [EqualityComparerHashAdapter](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

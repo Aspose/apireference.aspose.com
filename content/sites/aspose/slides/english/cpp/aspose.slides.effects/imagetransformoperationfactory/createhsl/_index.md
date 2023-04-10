@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createhsl/
 ---
-## ImageTransformOperationFactory::CreateHSL(**float**, **float**, **float**) method
+## ImageTransformOperationFactory::CreateHSL(float, float, float) method
 
 
 Creates Hue Saturation [Luminance](../../luminance/) effect.
@@ -30,8 +30,8 @@ System::SharedPtr<IHSL> Aspose::Slides::Effects::ImageTransformOperationFactory:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHSL](../../ihsl/)
-* Class [ImageTransformOperationFactory](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHSL](../ihsl/)
+* Class [ImageTransformOperationFactory](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ A [IAlphaInverseEffectiveData](../../ialphainverseeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAlphaInverseEffectiveData](../../ialphainverseeffectivedata/)
-* Class [AlphaInverse](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAlphaInverseEffectiveData](../ialphainverseeffectivedata/)
+* Class [AlphaInverse](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

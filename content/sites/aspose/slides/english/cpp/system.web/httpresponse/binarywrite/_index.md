@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.web/httpresponse/binarywrite/
 ---
-## HttpResponse::BinaryWrite(const [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
+## HttpResponse::BinaryWrite(const System::ArrayPtr\<uint8_t\>\&) method
 
 
 Not implemented.
@@ -17,7 +17,7 @@ void System::Web::HttpResponse::BinaryWrite(const System::ArrayPtr<uint8_t> &buf
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [HttpResponse](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [HttpResponse](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

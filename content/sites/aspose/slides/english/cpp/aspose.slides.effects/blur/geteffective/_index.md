@@ -22,8 +22,8 @@ A [IBlurEffectiveData](../../iblureffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBlurEffectiveData](../../iblureffectivedata/)
-* Class [Blur](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBlurEffectiveData](../iblureffectivedata/)
+* Class [Blur](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ Aspose::Slides::LowCode::Compress::Compress()=delete
 
 ## See Also
 
-* Class [Compress](../)
-* Namespace [Aspose::Slides::LowCode](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Compress](./)
+* Namespace [Aspose::Slides::LowCode](../)
+* Library [Aspose.Slides](../../)

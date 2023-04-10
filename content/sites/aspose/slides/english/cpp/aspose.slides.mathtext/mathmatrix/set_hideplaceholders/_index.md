@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.mathtext/mathmatrix/set_hideplaceholders/
 ---
-## MathMatrix::set_HidePlaceholders(**bool**) method
+## MathMatrix::set_HidePlaceholders(bool) method
 
 
 Hide the placeholders for empty matrix elements Default: false
@@ -26,6 +26,6 @@ matrix->set_HidePlaceholders(true);
 
 ## See Also
 
-* Class [MathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

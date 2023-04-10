@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/idatalabelcollection/
 Represents a series labels.
 
 ```cpp
-class IDataLabelCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Slides::Charts::IDataLabel>>,
-                             public Aspose::Slides::Charts::IChartComponent
+class IDataLabelCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Slides::Charts::IDataLabel>>,                             public Aspose::Slides::Charts::IChartComponent
 ```
 
 ## Methods

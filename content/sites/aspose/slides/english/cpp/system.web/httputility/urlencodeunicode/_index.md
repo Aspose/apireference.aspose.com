@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.web/httputility/urlencodeunicode/
 ---
-## HttpUtility::UrlEncodeUnicode(const [String](../../../system/string/)\&) method
+## HttpUtility::UrlEncodeUnicode(const String\&) method
 
 
 Encodes URI fragment usign Unicode.
@@ -28,7 +28,7 @@ Encoded URI fragment.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpUtility](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpUtility](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

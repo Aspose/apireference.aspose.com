@@ -12,9 +12,7 @@ url: /cpp/aspose.slides/paragraphcollection/
 Represents a collection of a paragraphs.
 
 ```cpp
-class ParagraphCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::TextFrame>>,
-                            public Aspose::Slides::IParagraphCollection,
-                            public Aspose::Slides::Patterns::IObserver
+class ParagraphCollection : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::TextFrame>>,                            public Aspose::Slides::IParagraphCollection,                            public Aspose::Slides::Patterns::IObserver
 ```
 
 ## Methods

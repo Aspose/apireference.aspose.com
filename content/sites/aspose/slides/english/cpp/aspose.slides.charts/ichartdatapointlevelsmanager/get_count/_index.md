@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Charts::IChartDataPointLevelsManager::get_Count(
 
 ## See Also
 
-* Class [IChartDataPointLevelsManager](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartDataPointLevelsManager](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

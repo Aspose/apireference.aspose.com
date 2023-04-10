@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net/webrequest/create/
 ---
-## WebRequest::Create([String](../../../system/string/)) method
+## WebRequest::Create(String) method
 
 
 Creates a new instance of the [WebRequest](../) class using the specified URI.
@@ -26,15 +26,7 @@ static System::SharedPtr<WebRequest> System::Net::WebRequest::Create(String requ
 
 A newly created WebRequest-class instance.
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WebRequest](../)
-* Class [String](../../../system/string/)
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
-## WebRequest::Create([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
+## WebRequest::Create(System::SharedPtr\<Uri\>) method
 
 
 Creates a new instance of the [WebRequest](../) class using the specified URI.
@@ -56,9 +48,9 @@ A newly created WebRequest-class instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WebRequest](../)
-* Class [Uri](../../../system/uri/)
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [WebRequest](./)
+* Class [String](../../system/string/)
+* Class [Uri](../../system/uri/)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

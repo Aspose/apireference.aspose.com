@@ -17,7 +17,7 @@ FilterEffectRevealType Aspose::Slides::Animation::FilterEffect::get_Reveal() ove
 
 ## See Also
 
-* Enum [FilterEffectRevealType](../../filtereffectrevealtype/)
-* Class [FilterEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FilterEffectRevealType](../filtereffectrevealtype/)
+* Class [FilterEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

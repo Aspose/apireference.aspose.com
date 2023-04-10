@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system/bitconverter/int64bitstodouble/
 ---
-## BitConverter::Int64BitsToDouble(**int64_t**) method
+## BitConverter::Int64BitsToDouble(int64_t) method
 
 
 Returns a double-precision floating point value whose value is equivalent to value.
@@ -28,6 +28,6 @@ The double-precision floating point value
 
 ## See Also
 
-* Class [BitConverter](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitConverter](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

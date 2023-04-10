@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.globalization/koreancalendar/getdayofyear/
 ---
-## KoreanCalendar::GetDayOfYear([DateTime](../../../system/datetime/)) const method
+## KoreanCalendar::GetDayOfYear(DateTime) const method
 
 
 Gets day of year for the specified time point.
@@ -28,7 +28,7 @@ Day of year in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [KoreanCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [KoreanCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

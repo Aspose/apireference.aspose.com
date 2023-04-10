@@ -22,6 +22,6 @@ The collection capacity.
 
 ## See Also
 
-* Class [CookieContainer](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CookieContainer](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

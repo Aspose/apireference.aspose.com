@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.drawing/image/set_palette/
 ---
-## Image::set_Palette([Imaging::ColorPalettePtr](../../../system.drawing.imaging/colorpaletteptr/)) method
+## Image::set_Palette(Imaging::ColorPalettePtr) method
 
 
 Sets the color palette used by the image represented by the current object.
@@ -24,7 +24,7 @@ virtual void System::Drawing::Image::set_Palette(Imaging::ColorPalettePtr value)
 
 ## See Also
 
-* Typedef [ColorPalettePtr](../../../system.drawing.imaging/colorpaletteptr/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ColorPalettePtr](../../system.drawing.imaging/colorpaletteptr/)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

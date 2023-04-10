@@ -17,6 +17,6 @@ int16_t Aspose::Slides::BulletFormat::get_NumberedBulletStartWith() override
 
 ## See Also
 
-* Class [BulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

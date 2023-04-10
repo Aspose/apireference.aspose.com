@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.net.http.headers/stringwithqualityheadervalue/parse/
 ---
-## StringWithQualityHeaderValue::Parse([String](../../../system/string/)) method
+## StringWithQualityHeaderValue::Parse(String) method
 
 
 Converts a passed string to an instance of the [StringWithQualityHeaderValue](../) class.
@@ -28,9 +28,8 @@ An instance of the [RangeHeaderValue](../../rangeheadervalue/) class.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [StringWithQualityHeaderValue](../)
-* Class [String](../../../system/string/)
-* Class [StringWithQualityHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [StringWithQualityHeaderValue](./)
+* Class [String](../../system/string/)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.drawing/bitmap/converttoargbimage/
 ---
-## Bitmap::ConvertToARGBImage(const [SharedPtr](../../../system/sharedptr/)\<[Bitmap](../)\>\&) method
+## Bitmap::ConvertToARGBImage(const SharedPtr\<Bitmap\>\&) method
 
 
 Creates a copy of the specified bitmap image with pixel format changed to Format32bppArgb.
@@ -28,8 +28,7 @@ The copy of the original bitmap with the pixel format changed to Format32bppArgb
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Bitmap](../)
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Bitmap](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

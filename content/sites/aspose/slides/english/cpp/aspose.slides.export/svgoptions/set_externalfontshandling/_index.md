@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.slides.export/svgoptions/set_externalfontshandling/
 ---
-## SVGOptions::set_ExternalFontsHandling([SvgExternalFontsHandling](../../svgexternalfontshandling/)) method
+## SVGOptions::set_ExternalFontsHandling(SvgExternalFontsHandling) method
 
 
 Determines a way of handling externally loaded fonts. Write [SvgExternalFontsHandling](../../svgexternalfontshandling/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Export::SVGOptions::set_ExternalFontsHandling(SvgExternalFo
 
 ## See Also
 
-* Enum [SvgExternalFontsHandling](../../svgexternalfontshandling/)
-* Class [SVGOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SvgExternalFontsHandling](../svgexternalfontshandling/)
+* Class [SVGOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

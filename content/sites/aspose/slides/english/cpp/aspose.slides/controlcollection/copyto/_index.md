@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/controlcollection/copyto/
 ---
-## ControlCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IControl](../../icontrol/)\>\>, **int32_t**) method
+## ControlCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<IControl\>\>, int32_t) method
 
 
 Copies the entire collection to the specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::ControlCollection::CopyTo(System::ArrayPtr<System::SharedPt
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IControl](../../icontrol/)
-* Class [ControlCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IControl](../icontrol/)
+* Class [ControlCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

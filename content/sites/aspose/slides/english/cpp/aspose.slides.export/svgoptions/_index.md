@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.export/svgoptions/
 Represents an SVG options.
 
 ```cpp
-class SVGOptions : public Aspose::Slides::Export::SaveOptions,
-                   public Aspose::Slides::Export::ISVGOptions
+class SVGOptions : public Aspose::Slides::Export::SaveOptions,                   public Aspose::Slides::Export::ISVGOptions
 ```
 
 ## Methods

@@ -17,7 +17,7 @@ MotionOriginType Aspose::Slides::Animation::MotionEffect::get_Origin() override
 
 ## See Also
 
-* Enum [MotionOriginType](../../motionorigintype/)
-* Class [MotionEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MotionOriginType](../motionorigintype/)
+* Class [MotionEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ TickMarkType Aspose::Slides::Charts::Axis::get_MajorTickMark() override
 
 ## See Also
 
-* Enum [TickMarkType](../../tickmarktype/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TickMarkType](../tickmarktype/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

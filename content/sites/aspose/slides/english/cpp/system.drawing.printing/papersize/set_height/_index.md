@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing.printing/papersize/set_height/
 ---
-## PaperSize::set_Height(**int32_t**) method
+## PaperSize::set_Height(int32_t) method
 
 
 Sets the height of the paper, in hundredths of an inch.
@@ -18,6 +18,6 @@ void System::Drawing::Printing::PaperSize::set_Height(int32_t value)
 
 ## See Also
 
-* Class [PaperSize](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PaperSize](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

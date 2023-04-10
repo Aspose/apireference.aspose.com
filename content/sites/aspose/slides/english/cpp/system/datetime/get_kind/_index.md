@@ -17,7 +17,7 @@ constexpr DateTimeKind System::DateTime::get_Kind() const
 
 ## See Also
 
-* Enum [DateTimeKind](../../datetimekind/)
-* Class [DateTime](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DateTimeKind](../datetimekind/)
+* Class [DateTime](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

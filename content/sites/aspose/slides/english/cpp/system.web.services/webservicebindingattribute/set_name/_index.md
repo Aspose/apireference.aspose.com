@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.web.services/webservicebindingattribute/set_name/
 ---
-## WebServiceBindingAttribute::set_Name([String](../../../system/string/)) method
+## WebServiceBindingAttribute::set_Name(String) method
 
 
 Sets the binding's name.
@@ -24,7 +24,7 @@ void System::Web::Services::WebServiceBindingAttribute::set_Name(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WebServiceBindingAttribute](../)
-* Namespace [System::Web::Services](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WebServiceBindingAttribute](./)
+* Namespace [System::Web::Services](../)
+* Library [Aspose.Slides](../../)

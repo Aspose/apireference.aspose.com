@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.charts/chartdatapointlevel/settemplateweakptr/
 ---
-## ChartDataPointLevel::SetTemplateWeakPtr(**uint32_t**) method
+## ChartDataPointLevel::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartDataPointLevel::SetTemplateWeakPtr(uint32_t ar
 
 ## See Also
 
-* Class [ChartDataPointLevel](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataPointLevel](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

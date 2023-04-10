@@ -17,6 +17,6 @@ virtual void System::Xml::XmlNamespaceManager::PushScope()
 
 ## See Also
 
-* Class [XmlNamespaceManager](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlNamespaceManager](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

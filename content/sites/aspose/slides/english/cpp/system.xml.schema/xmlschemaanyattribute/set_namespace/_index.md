@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaanyattribute/set_namespace/
 ---
-## XmlSchemaAnyAttribute::set_Namespace(const [String](../../../system/string/)\&) method
+## XmlSchemaAnyAttribute::set_Namespace(const String\&) method
 
 
 Sets the namespaces containing the attributes that can be used.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaAnyAttribute::set_Namespace(const String &val
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaAnyAttribute](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaAnyAttribute](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

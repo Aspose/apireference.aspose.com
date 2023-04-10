@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ISectionCollection::Clear()=0
 
 ## See Also
 
-* Class [ISectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

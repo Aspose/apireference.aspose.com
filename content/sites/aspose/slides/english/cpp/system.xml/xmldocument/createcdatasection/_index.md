@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.xml/xmldocument/createcdatasection/
 ---
-## XmlDocument::CreateCDataSection(const [String](../../../system/string/)\&) method
+## XmlDocument::CreateCDataSection(const String\&) method
 
 
 Creates an [XmlCDataSection](../../xmlcdatasection/) containing the specified data.
@@ -28,9 +28,9 @@ The new [XmlCDataSection](../../xmlcdatasection/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlCDataSection](../../xmlcdatasection/)
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlCDataSection](../xmlcdatasection/)
+* Class [String](../../system/string/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

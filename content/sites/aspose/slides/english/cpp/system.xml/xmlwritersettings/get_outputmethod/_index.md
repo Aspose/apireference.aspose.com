@@ -22,7 +22,7 @@ One of the XmlOutputMethod values. The default is [XmlOutputMethod::Xml](../../x
 
 ## See Also
 
-* Enum [XmlOutputMethod](../../xmloutputmethod/)
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlOutputMethod](../xmloutputmethod/)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

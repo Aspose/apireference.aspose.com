@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.net.sockets/udpclient/receive/
 ---
-## UdpClient::Receive([System::SharedPtr](../../../system/sharedptr/)\<[IPEndPoint](../../../system.net/ipendpoint/)\>\&) method
+## UdpClient::Receive(System::SharedPtr\<IPEndPoint\>\&) method
 
 
 Returns a datagram sent by a server.
@@ -28,9 +28,9 @@ A byte array where received data will be assigned.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPEndPoint](../../../system.net/ipendpoint/)
-* Class [UdpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPEndPoint](../../system.net/ipendpoint/)
+* Class [UdpClient](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

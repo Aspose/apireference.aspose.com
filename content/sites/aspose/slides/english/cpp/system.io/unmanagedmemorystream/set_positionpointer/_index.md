@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.io/unmanagedmemorystream/set_positionpointer/
 ---
-## UnmanagedMemoryStream::set_PositionPointer(**uint8_t** *) method
+## UnmanagedMemoryStream::set_PositionPointer(uint8_t *) method
 
 
 NOT IMPLEMENTED.
@@ -17,6 +17,6 @@ void System::IO::UnmanagedMemoryStream::set_PositionPointer(uint8_t *value)
 
 ## See Also
 
-* Class [UnmanagedMemoryStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UnmanagedMemoryStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

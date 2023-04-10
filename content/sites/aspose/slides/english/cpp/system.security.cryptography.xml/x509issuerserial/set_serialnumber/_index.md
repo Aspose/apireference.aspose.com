@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.security.cryptography.xml/x509issuerserial/set_serialnumber/
 ---
-## X509IssuerSerial::set_SerialNumber([String](../../../system/string/)) method
+## X509IssuerSerial::set_SerialNumber(String) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::X509IssuerSerial::set_SerialNumber(Str
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [X509IssuerSerial](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [X509IssuerSerial](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

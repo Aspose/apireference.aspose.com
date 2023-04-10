@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Effects::IBlur::get_Radius()=0
 
 ## See Also
 
-* Class [IBlur](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBlur](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

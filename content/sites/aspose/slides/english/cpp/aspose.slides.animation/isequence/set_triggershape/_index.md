@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/isequence/set_triggershape/
 ---
-## ISequence::set_TriggerShape([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
+## ISequence::set_TriggerShape(System::SharedPtr\<IShape\>) method
 
 
 Sets shape target for INTERACTIVE sequence. If sequence is not interactive then returns null. Write [IShape](../../../aspose.slides/ishape/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::ISequence::set_TriggerShape(System::Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShape](../../../aspose.slides/ishape/)
-* Class [ISequence](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShape](../../aspose.slides/ishape/)
+* Class [ISequence](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

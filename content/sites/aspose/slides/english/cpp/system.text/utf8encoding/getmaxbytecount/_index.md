@@ -28,6 +28,6 @@ Number of bytes sufficient to encode any string of given character length.
 
 ## See Also
 
-* Class [UTF8Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UTF8Encoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

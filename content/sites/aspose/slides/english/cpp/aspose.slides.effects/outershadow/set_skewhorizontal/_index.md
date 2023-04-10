@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides.effects/outershadow/set_skewhorizontal/
 ---
-## OuterShadow::set_SkewHorizontal(**double**) method
+## OuterShadow::set_SkewHorizontal(double) method
 
 
 Specifies the horizontal skew angle (in degrees). Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::OuterShadow::set_SkewHorizontal(double value) over
 
 ## See Also
 
-* Class [OuterShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [OuterShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

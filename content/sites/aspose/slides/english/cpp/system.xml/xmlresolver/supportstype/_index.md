@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml/xmlresolver/supportstype/
 ---
-## XmlResolver::SupportsType([SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, const [TypeInfo](../../../system/typeinfo/)\&) method
+## XmlResolver::SupportsType(SharedPtr\<Uri\>, const TypeInfo\&) method
 
 
 Enables the resolver to return types other than Stream.
@@ -29,9 +29,9 @@ virtual bool System::Xml::XmlResolver::SupportsType(SharedPtr<Uri> absoluteUri, 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [XmlResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [XmlResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

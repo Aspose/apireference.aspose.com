@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaobject/set_lineposition/
 ---
-## XmlSchemaObject::set_LinePosition(**int32_t**) method
+## XmlSchemaObject::set_LinePosition(int32_t) method
 
 
 Sets the line position in the file to which the **schema** element refers.
@@ -24,6 +24,6 @@ void System::Xml::Schema::XmlSchemaObject::set_LinePosition(int32_t value)
 
 ## See Also
 
-* Class [XmlSchemaObject](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaObject](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

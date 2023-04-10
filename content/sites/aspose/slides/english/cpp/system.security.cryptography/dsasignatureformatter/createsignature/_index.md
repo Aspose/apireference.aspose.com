@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.security.cryptography/dsasignatureformatter/createsignature/
 ---
-## DSASignatureFormatter::CreateSignature([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
+## DSASignatureFormatter::CreateSignature(ArrayPtr\<uint8_t\>) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ ArrayPtr<uint8_t> System::Security::Cryptography::DSASignatureFormatter::CreateS
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [DSASignatureFormatter](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [DSASignatureFormatter](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

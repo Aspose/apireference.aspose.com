@@ -17,8 +17,8 @@ System::SharedPtr<System::Drawing::Drawing2D::GraphicsPath> Aspose::Slides::Shap
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [GraphicsPath](../../../system.drawing.drawing2d/graphicspath/)
-* Class [ShapeElement](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [GraphicsPath](../../system.drawing.drawing2d/graphicspath/)
+* Class [ShapeElement](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

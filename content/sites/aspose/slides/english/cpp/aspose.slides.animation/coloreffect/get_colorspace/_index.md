@@ -17,7 +17,7 @@ Aspose::Slides::Animation::ColorSpace Aspose::Slides::Animation::ColorEffect::ge
 
 ## See Also
 
-* Enum [ColorSpace](../../colorspace/)
-* Class [ColorEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorSpace](../colorspace/)
+* Class [ColorEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

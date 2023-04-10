@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.theme/ieffectstylecollectioneffectivedata/idx_get/
 ---
-## IEffectStyleCollectionEffectiveData::idx_get(**int32_t**) method
+## IEffectStyleCollectionEffectiveData::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [IEffectStyleEffectiveData](../../ieffectstyleeffectivedata/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IEffectStyleEffectiveData> Aspose::Slides::Theme::IEff
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffectStyleEffectiveData](../../ieffectstyleeffectivedata/)
-* Class [IEffectStyleCollectionEffectiveData](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffectStyleEffectiveData](../ieffectstyleeffectivedata/)
+* Class [IEffectStyleCollectionEffectiveData](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

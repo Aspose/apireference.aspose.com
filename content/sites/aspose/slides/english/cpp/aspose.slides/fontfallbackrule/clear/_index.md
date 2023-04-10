@@ -17,6 +17,6 @@ void Aspose::Slides::FontFallBackRule::Clear() override
 
 ## See Also
 
-* Class [FontFallBackRule](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FontFallBackRule](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

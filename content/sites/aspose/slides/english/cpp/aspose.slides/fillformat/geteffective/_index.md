@@ -58,8 +58,8 @@ switch (effectiveFillFormat->get_FillType())
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillFormatEffectiveData](../../ifillformateffectivedata/)
-* Class [FillFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillFormatEffectiveData](../ifillformateffectivedata/)
+* Class [FillFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

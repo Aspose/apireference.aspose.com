@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.xml/xmlconvert/toboolean/
 ---
-## XmlConvert::ToBoolean([String](../../../system/string/)) method
+## XmlConvert::ToBoolean(String) method
 
 
 Converts the [String](../../../system/string/) to a [Boolean](../../../system/boolean/) equivalent.
@@ -28,7 +28,7 @@ A **[Boolean](../../../system/boolean/)** value, that is, **true** or **false**.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlConvert](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

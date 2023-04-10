@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/motioneffect/set_to/
 ---
-## MotionEffect::set_To([System::Drawing::PointF](../../../system.drawing/pointf/)) method
+## MotionEffect::set_To(System::Drawing::PointF) method
 
 
 Specifies the target location for an animation motion effect (in percents). Write [System::Drawing::PointF](../../../system.drawing/pointf/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::MotionEffect::set_To(System::Drawing::PointF val
 
 ## See Also
 
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [MotionEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [MotionEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

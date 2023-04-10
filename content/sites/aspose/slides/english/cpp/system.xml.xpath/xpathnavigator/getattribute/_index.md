@@ -6,7 +6,7 @@ type: docs
 weight: 482
 url: /cpp/system.xml.xpath/xpathnavigator/getattribute/
 ---
-## XPathNavigator::GetAttribute([String](../../../system/string/), [String](../../../system/string/)) method
+## XPathNavigator::GetAttribute(String, String) method
 
 
 Returns the value of the attribute with the specified local name and namespace URI.
@@ -29,7 +29,7 @@ A [String](../../../system/string/) that contains the value of the specified att
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system/version/parse/
 ---
-## Version::Parse(const [String](../../string/)\&) method
+## Version::Parse(const String\&) method
 
 
 Converts the string representation of a version number into equivalent instance of [Version](../) class.
@@ -28,8 +28,7 @@ An instance of [Version](../) class that represents the version number equivalen
 
 ## See Also
 
-* Class [Version](../)
-* Class [String](../../string/)
-* Class [Version](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Version](./)
+* Class [String](../string/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

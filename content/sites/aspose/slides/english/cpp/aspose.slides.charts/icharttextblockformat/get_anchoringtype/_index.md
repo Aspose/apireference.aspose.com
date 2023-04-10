@@ -17,7 +17,7 @@ virtual TextAnchorType Aspose::Slides::Charts::IChartTextBlockFormat::get_Anchor
 
 ## See Also
 
-* Enum [TextAnchorType](../../../aspose.slides/textanchortype/)
-* Class [IChartTextBlockFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextAnchorType](../../aspose.slides/textanchortype/)
+* Class [IChartTextBlockFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

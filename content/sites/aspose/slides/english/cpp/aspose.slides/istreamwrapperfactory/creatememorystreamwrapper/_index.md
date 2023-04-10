@@ -20,14 +20,7 @@ virtual System::SharedPtr<IStreamWrapper> Aspose::Slides::IStreamWrapperFactory:
 
 Stream wrapper for COM interface [IStreamWrapper](../../istreamwrapper/)
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IStreamWrapper](../../istreamwrapper/)
-* Class [IStreamWrapperFactory](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
-## IStreamWrapperFactory::CreateMemoryStreamWrapper([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
+## IStreamWrapperFactory::CreateMemoryStreamWrapper(System::ArrayPtr\<uint8_t\>) method
 
 
 Creates MemoryStream wrapper based on the specified byte array.
@@ -49,9 +42,9 @@ Stream wrapper for COM interface [IStreamWrapper](../../istreamwrapper/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IStreamWrapper](../../istreamwrapper/)
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [IStreamWrapperFactory](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [IStreamWrapper](../istreamwrapper/)
+* Class [IStreamWrapperFactory](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

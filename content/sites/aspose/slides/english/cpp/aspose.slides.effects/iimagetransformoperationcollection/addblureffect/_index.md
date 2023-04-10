@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addblureffect/
 ---
-## IImageTransformOperationCollection::AddBlurEffect(**double**, **bool**) method
+## IImageTransformOperationCollection::AddBlurEffect(double, bool) method
 
 
 Adds the new [Blur](../../blur/) effect to the end of a collection.
@@ -29,8 +29,8 @@ Index of the new image effect in a collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBlur](../../iblur/)
-* Class [IImageTransformOperationCollection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBlur](../iblur/)
+* Class [IImageTransformOperationCollection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

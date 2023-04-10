@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.drawing.drawing2d/colorblend/set_positions/
 ---
-## ColorBlend::set_Positions(const [ArrayPtr](../../../system/arrayptr/)\<**float**\>\&) method
+## ColorBlend::set_Positions(const ArrayPtr\<float\>\&) method
 
 
 Sets the array of blend positions along a gradient.
@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::ColorBlend::set_Positions(const ArrayPtr<float>
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [ColorBlend](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [ColorBlend](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

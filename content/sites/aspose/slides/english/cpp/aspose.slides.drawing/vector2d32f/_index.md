@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.drawing/vector2d32f/
 2D vector with **float** components
 
 ```cpp
-class Vector2d32f : public System::Object,
-                    public System::Details::BoxableObjectBase
+class Vector2d32f : public System::Object,                    public System::Details::BoxableObjectBase
 ```
 
 ## Methods

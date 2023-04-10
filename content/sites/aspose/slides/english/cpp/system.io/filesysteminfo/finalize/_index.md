@@ -17,6 +17,6 @@ virtual void System::IO::FileSystemInfo::Finalize()
 
 ## See Also
 
-* Class [FileSystemInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FileSystemInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

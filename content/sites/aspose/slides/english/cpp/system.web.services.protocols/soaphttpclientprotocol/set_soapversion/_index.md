@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soaphttpclientprotocol/set_soapversion/
 ---
-## SoapHttpClientProtocol::set_SoapVersion([SoapProtocolVersion](../../soapprotocolversion/)) method
+## SoapHttpClientProtocol::set_SoapVersion(SoapProtocolVersion) method
 
 
 Sets the SOAP version.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapHttpClientProtocol::set_SoapVersion(S
 
 ## See Also
 
-* Enum [SoapProtocolVersion](../../soapprotocolversion/)
-* Class [SoapHttpClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SoapProtocolVersion](../soapprotocolversion/)
+* Class [SoapHttpClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

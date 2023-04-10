@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/motioncmdpath/set_commandtype/
 ---
-## MotionCmdPath::set_CommandType([MotionCommandPathType](../../motioncommandpathtype/)) method
+## MotionCmdPath::set_CommandType(MotionCommandPathType) method
 
 
 Specifies command type. Write [MotionCommandPathType](../../motioncommandpathtype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::MotionCmdPath::set_CommandType(MotionCommandPath
 
 ## See Also
 
-* Enum [MotionCommandPathType](../../motioncommandpathtype/)
-* Class [MotionCmdPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MotionCommandPathType](../motioncommandpathtype/)
+* Class [MotionCmdPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.xml.schema/xmlschemaelement/set_form/
 ---
-## XmlSchemaElement::set_Form([XmlSchemaForm](../../xmlschemaform/)) method
+## XmlSchemaElement::set_Form(XmlSchemaForm) method
 
 
 Sets the form for the element.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaElement::set_Form(XmlSchemaForm value)
 
 ## See Also
 
-* Enum [XmlSchemaForm](../../xmlschemaform/)
-* Class [XmlSchemaElement](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaForm](../xmlschemaform/)
+* Class [XmlSchemaElement](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

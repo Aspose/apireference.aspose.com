@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides.animation/behaviorpropertycollection/idx_get/
 ---
-## BehaviorPropertyCollection::idx_get(**int32_t**) const method
+## BehaviorPropertyCollection::idx_get(int32_t) const method
 
 
 Returns a property at the specified index.
@@ -28,8 +28,8 @@ System::SharedPtr<IBehaviorProperty> Aspose::Slides::Animation::BehaviorProperty
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBehaviorProperty](../../ibehaviorproperty/)
-* Class [BehaviorPropertyCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBehaviorProperty](../ibehaviorproperty/)
+* Class [BehaviorPropertyCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

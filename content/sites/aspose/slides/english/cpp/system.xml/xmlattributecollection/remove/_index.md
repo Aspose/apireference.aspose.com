@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.xml/xmlattributecollection/remove/
 ---
-## XmlAttributeCollection::Remove(const [SharedPtr](../../../system/sharedptr/)\<[XmlAttribute](../../xmlattribute/)\>\&) method
+## XmlAttributeCollection::Remove(const SharedPtr\<XmlAttribute\>\&) method
 
 
 Removes the specified attribute from the collection.
@@ -28,8 +28,8 @@ The node removed or **nullptr** if it is not found in the collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlAttribute](../../xmlattribute/)
-* Class [XmlAttributeCollection](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlAttribute](../xmlattribute/)
+* Class [XmlAttributeCollection](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

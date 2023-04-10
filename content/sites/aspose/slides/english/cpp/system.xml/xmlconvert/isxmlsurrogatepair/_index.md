@@ -29,6 +29,6 @@ static bool System::Xml::XmlConvert::IsXmlSurrogatePair(char16_t lowChar, char16
 
 ## See Also
 
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlConvert](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

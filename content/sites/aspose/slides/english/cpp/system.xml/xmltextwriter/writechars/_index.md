@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/system.xml/xmltextwriter/writechars/
 ---
-## XmlTextWriter::WriteChars([ArrayPtr](../../../system/arrayptr/)\<char16_t\>, **int32_t**, **int32_t**) method
+## XmlTextWriter::WriteChars(ArrayPtr\<char16_t\>, int32_t, int32_t) method
 
 
 Writes text one buffer at a time.
@@ -26,7 +26,7 @@ void System::Xml::XmlTextWriter::WriteChars(ArrayPtr<char16_t> buffer, int32_t i
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [XmlTextWriter](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [XmlTextWriter](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

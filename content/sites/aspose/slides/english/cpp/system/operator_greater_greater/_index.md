@@ -6,7 +6,7 @@ type: docs
 weight: 2601
 url: /cpp/system/operator_greater_greater/
 ---
-## System::operator>>(std::istream\&, [String](../string/)\&) function
+## System::operator>>(std::istream\&, String\&) function
 
 
 Gets a string from the input streamusing UTF-8 encoding.
@@ -27,12 +27,7 @@ std::istream & System::operator>>(std::istream &in, String &str)
 
 An input stream from which the string was extracted.
 
-## See Also
-
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
-## System::operator>>(std::wistream\&, [String](../string/)\&) function
+## System::operator>>(std::wistream\&, String\&) function
 
 
 Gets a string from the input stream.
@@ -55,6 +50,6 @@ An input stream from which the string was extracted.
 
 ## See Also
 
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](./string/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

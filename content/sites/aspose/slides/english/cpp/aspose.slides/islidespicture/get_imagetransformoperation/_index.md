@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/islidespicture/get_imagetransformoperation/
 ---
-## ISlidesPicture::get_ImageTransformOperation(**int32_t**) method
+## ISlidesPicture::get_ImageTransformOperation(int32_t) method
 
 
 Returns image transform operation at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IImageTransformOperation> Aspose::Slides::ISl
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IImageTransformOperation](../../../aspose.slides.effects/iimagetransformoperation/)
-* Class [ISlidesPicture](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IImageTransformOperation](../../aspose.slides.effects/iimagetransformoperation/)
+* Class [ISlidesPicture](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

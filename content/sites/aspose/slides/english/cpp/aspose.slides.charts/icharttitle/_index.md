@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/icharttitle/
 Represents chart title properties.
 
 ```cpp
-class IChartTitle : public Aspose::Slides::Charts::ILayoutable,
-                    public Aspose::Slides::Charts::IOverridableText
+class IChartTitle : public Aspose::Slides::Charts::ILayoutable,                    public Aspose::Slides::Charts::IOverridableText
 ```
 
 ## Methods

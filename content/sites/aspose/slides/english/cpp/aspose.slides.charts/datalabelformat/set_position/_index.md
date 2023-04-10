@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/datalabelformat/set_position/
 ---
-## DataLabelFormat::set_Position([LegendDataLabelPosition](../../legenddatalabelposition/)) method
+## DataLabelFormat::set_Position(LegendDataLabelPosition) method
 
 
 Represents the position of the data label. Write [LegendDataLabelPosition](../../legenddatalabelposition/).
@@ -24,7 +24,7 @@ If parent of this [DataLabelFormat](../) object is a [DataLabelCollection](../..
 
 ## See Also
 
-* Enum [LegendDataLabelPosition](../../legenddatalabelposition/)
-* Class [DataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LegendDataLabelPosition](../legenddatalabelposition/)
+* Class [DataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

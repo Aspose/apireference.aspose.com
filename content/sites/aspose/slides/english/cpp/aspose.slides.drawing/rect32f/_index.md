@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.drawing/rect32f/
 Rectangle struct
 
 ```cpp
-class Rect32f : public System::Object,
-                public System::Details::BoxableObjectBase
+class Rect32f : public System::Object,                public System::Details::BoxableObjectBase
 ```
 
 ## Methods

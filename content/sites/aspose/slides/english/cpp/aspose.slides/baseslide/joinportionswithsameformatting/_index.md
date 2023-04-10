@@ -15,12 +15,7 @@ Joins runs with same formatting in all paragraphs all acceptable shapes.
 void Aspose::Slides::BaseSlide::JoinPortionsWithSameFormatting() override
 ```
 
-## See Also
-
-* Class [BaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
-## BaseSlide::JoinPortionsWithSameFormatting([System::SharedPtr](../../../system/sharedptr/)\<[IShapeCollection](../../ishapecollection/)\>) method
+## BaseSlide::JoinPortionsWithSameFormatting(System::SharedPtr\<IShapeCollection\>) method
 
 
 Joins runs with same formatting in all paragraphs in all acceptable shapes.
@@ -31,8 +26,8 @@ virtual void Aspose::Slides::BaseSlide::JoinPortionsWithSameFormatting(System::S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShapeCollection](../../ishapecollection/)
-* Class [BaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [BaseSlide](./)
+* Class [IShapeCollection](../ishapecollection/)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

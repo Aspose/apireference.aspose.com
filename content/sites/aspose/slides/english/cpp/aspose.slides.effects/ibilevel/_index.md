@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.effects/ibilevel/
 Represents base [IImageTransformOperation](../iimagetransformoperation/) interface.
 
 ```cpp
-class IBiLevel : public virtual Aspose::Slides::Effects::IImageTransformOperation,
-                 public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IBiLevelEffectiveData>>
+class IBiLevel : public virtual Aspose::Slides::Effects::IImageTransformOperation,                 public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IBiLevelEffectiveData>>
 ```
 
 ## Methods

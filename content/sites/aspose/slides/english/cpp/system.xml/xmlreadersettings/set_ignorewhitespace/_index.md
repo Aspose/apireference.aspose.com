@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.xml/xmlreadersettings/set_ignorewhitespace/
 ---
-## XmlReaderSettings::set_IgnoreWhitespace(**bool**) method
+## XmlReaderSettings::set_IgnoreWhitespace(bool) method
 
 
 Sets a value indicating whether to ignore insignificant white space.
@@ -24,6 +24,6 @@ void System::Xml::XmlReaderSettings::set_IgnoreWhitespace(bool value)
 
 ## See Also
 
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

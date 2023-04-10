@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaAttributeGroupRef::XmlSchemaAttributeGroupRef()
 
 ## See Also
 
-* Class [XmlSchemaAttributeGroupRef](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaAttributeGroupRef](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

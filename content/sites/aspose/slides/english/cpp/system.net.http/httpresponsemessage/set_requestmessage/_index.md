@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.net.http/httpresponsemessage/set_requestmessage/
 ---
-## HttpResponseMessage::set_RequestMessage([System::SharedPtr](../../../system/sharedptr/)\<[HttpRequestMessage](../../httprequestmessage/)\>) method
+## HttpResponseMessage::set_RequestMessage(System::SharedPtr\<HttpRequestMessage\>) method
 
 
 Sets the HTTP request message.
@@ -24,8 +24,8 @@ void System::Net::Http::HttpResponseMessage::set_RequestMessage(System::SharedPt
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpRequestMessage](../../httprequestmessage/)
-* Class [HttpResponseMessage](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpRequestMessage](../httprequestmessage/)
+* Class [HttpResponseMessage](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

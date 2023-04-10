@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/control/get_property/
 ---
-## Control::get_Property([System::String](../../../system/string/)) method
+## Control::get_Property(System::String) method
 
 
 Returns an ActiveX property at the specified index.
@@ -17,7 +17,7 @@ System::String Aspose::Slides::Control::get_Property(System::String name) overri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Control](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Control](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

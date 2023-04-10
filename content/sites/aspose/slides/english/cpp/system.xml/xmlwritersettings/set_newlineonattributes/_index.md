@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.xml/xmlwritersettings/set_newlineonattributes/
 ---
-## XmlWriterSettings::set_NewLineOnAttributes(**bool**) method
+## XmlWriterSettings::set_NewLineOnAttributes(bool) method
 
 
 Sets a value indicating whether to write attributes on a new line.
@@ -24,6 +24,6 @@ void System::Xml::XmlWriterSettings::set_NewLineOnAttributes(bool value)
 
 ## See Also
 
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

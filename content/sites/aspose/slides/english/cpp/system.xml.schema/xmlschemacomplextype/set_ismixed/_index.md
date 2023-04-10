@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemacomplextype/set_ismixed/
 ---
-## XmlSchemaComplexType::set_IsMixed(**bool**) method
+## XmlSchemaComplexType::set_IsMixed(bool) method
 
 
 Sets information that determines if the complex type has a mixed content model (markup within the content).
@@ -24,6 +24,6 @@ void System::Xml::Schema::XmlSchemaComplexType::set_IsMixed(bool value) override
 
 ## See Also
 
-* Class [XmlSchemaComplexType](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaComplexType](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

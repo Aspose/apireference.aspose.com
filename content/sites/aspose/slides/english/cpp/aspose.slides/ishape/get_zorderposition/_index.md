@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::IShape::get_ZOrderPosition()=0
 
 ## See Also
 
-* Class [IShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

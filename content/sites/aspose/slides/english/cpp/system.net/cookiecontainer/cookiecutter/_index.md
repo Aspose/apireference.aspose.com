@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.net/cookiecontainer/cookiecutter/
 ---
-## CookieContainer::CookieCutter([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>, [String](../../../system/string/), [String](../../../system/string/), **bool**) method
+## CookieContainer::CookieCutter(System::SharedPtr\<Uri\>, String, String, bool) method
 
 
 Copies cookies from the specified HTTP header for the specified URI.
@@ -17,10 +17,10 @@ System::SharedPtr<CookieCollection> System::Net::CookieContainer::CookieCutter(S
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CookieCollection](../../cookiecollection/)
-* Class [Uri](../../../system/uri/)
-* Class [String](../../../system/string/)
-* Class [CookieContainer](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CookieCollection](../cookiecollection/)
+* Class [Uri](../../system/uri/)
+* Class [String](../../system/string/)
+* Class [CookieContainer](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

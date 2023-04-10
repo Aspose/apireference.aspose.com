@@ -22,6 +22,6 @@ int System::Drawing::Imaging::ColorPalette::get_Flags() const
 
 ## See Also
 
-* Class [ColorPalette](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColorPalette](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

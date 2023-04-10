@@ -6,7 +6,7 @@ type: docs
 weight: 521
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix33/
 ---
-## ColorMatrix::set_Matrix33(**float**) method
+## ColorMatrix::set_Matrix33(float) method
 
 
 Sets a value in the 3-rd row and 3-rd column.
@@ -24,6 +24,6 @@ void System::Drawing::Imaging::ColorMatrix::set_Matrix33(float value)
 
 ## See Also
 
-* Class [ColorMatrix](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColorMatrix](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

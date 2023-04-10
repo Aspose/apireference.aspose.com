@@ -17,8 +17,8 @@ System::SharedPtr<ISvgShapeFormattingController> Aspose::Slides::Export::SVGOpti
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISvgShapeFormattingController](../../isvgshapeformattingcontroller/)
-* Class [SVGOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISvgShapeFormattingController](../isvgshapeformattingcontroller/)
+* Class [SVGOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

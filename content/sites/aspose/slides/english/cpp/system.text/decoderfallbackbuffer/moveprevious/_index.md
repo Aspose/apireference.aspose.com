@@ -22,6 +22,6 @@ True if a step back was taken, false otherwise.
 
 ## See Also
 
-* Class [DecoderFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DecoderFallbackBuffer](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

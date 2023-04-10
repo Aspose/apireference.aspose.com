@@ -24,6 +24,6 @@ void System::Collections::Generic::HashSet<T>::_add_range(std::initializer_list<
 
 ## See Also
 
-* Class [HashSet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HashSet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

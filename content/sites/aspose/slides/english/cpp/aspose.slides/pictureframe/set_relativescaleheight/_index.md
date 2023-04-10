@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/pictureframe/set_relativescaleheight/
 ---
-## PictureFrame::set_RelativeScaleHeight(**float**) method
+## PictureFrame::set_RelativeScaleHeight(float) method
 
 
 Sets the scale of height(relative to original picture size) of the picture frame. Value 1.0 corresponds to 100%. Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::PictureFrame::set_RelativeScaleHeight(float value) override
 
 ## See Also
 
-* Class [PictureFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PictureFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

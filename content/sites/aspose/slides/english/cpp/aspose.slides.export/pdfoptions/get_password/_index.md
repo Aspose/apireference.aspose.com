@@ -17,7 +17,7 @@ System::String Aspose::Slides::Export::PdfOptions::get_Password() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

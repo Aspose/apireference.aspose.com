@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/bulletformat/set_font/
 ---
-## BulletFormat::set_Font([System::SharedPtr](../../../system/sharedptr/)\<[IFontData](../../ifontdata/)\>) method
+## BulletFormat::set_Font(System::SharedPtr\<IFontData\>) method
 
 
 Sets the bullet font of a paragraph with no inheritance. Write [IFontData](../../ifontdata/).
@@ -17,8 +17,8 @@ void Aspose::Slides::BulletFormat::set_Font(System::SharedPtr<IFontData> value) 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontData](../../ifontdata/)
-* Class [BulletFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontData](../ifontdata/)
+* Class [BulletFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

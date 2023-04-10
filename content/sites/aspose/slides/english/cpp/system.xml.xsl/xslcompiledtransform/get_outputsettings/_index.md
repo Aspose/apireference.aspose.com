@@ -22,8 +22,8 @@ A read-only [XmlWriterSettings](../../../system.xml/xmlwritersettings/) object t
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriterSettings](../../../system.xml/xmlwritersettings/)
-* Class [XslCompiledTransform](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriterSettings](../../system.xml/xmlwritersettings/)
+* Class [XslCompiledTransform](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ Set effect.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISetEffect](../../iseteffect/)
-* Class [IBehaviorFactory](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISetEffect](../iseteffect/)
+* Class [IBehaviorFactory](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

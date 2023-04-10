@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_maxstale/
 ---
-## CacheControlHeaderValue::set_MaxStale(**bool**) method
+## CacheControlHeaderValue::set_MaxStale(bool) method
 
 
 Sets the value that determines if the client will accept the expired responses.
@@ -24,6 +24,6 @@ void System::Net::Http::Headers::CacheControlHeaderValue::set_MaxStale(bool valu
 
 ## See Also
 
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

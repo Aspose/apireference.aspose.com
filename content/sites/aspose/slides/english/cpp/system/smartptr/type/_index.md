@@ -22,7 +22,7 @@ Const reference to [TypeInfo](../../typeinfo/) structure which describes Pointee
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [SmartPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

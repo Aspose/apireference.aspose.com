@@ -24,6 +24,6 @@ void System::Globalization::HebrewCalendar::set_TwoDigitYearMax(int value) overr
 
 ## See Also
 
-* Class [HebrewCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HebrewCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing/stringformat/set_formatflags/
 ---
-## StringFormat::set_FormatFlags([StringFormatFlags](../../stringformatflags/)) method
+## StringFormat::set_FormatFlags(StringFormatFlags) method
 
 
 Sets the string format flags.
@@ -24,7 +24,7 @@ void System::Drawing::StringFormat::set_FormatFlags(StringFormatFlags value)
 
 ## See Also
 
-* Enum [StringFormatFlags](../../stringformatflags/)
-* Class [StringFormat](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [StringFormatFlags](../stringformatflags/)
+* Class [StringFormat](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

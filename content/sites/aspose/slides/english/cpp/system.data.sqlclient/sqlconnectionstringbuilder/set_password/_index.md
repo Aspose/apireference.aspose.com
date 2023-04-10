@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.data.sqlclient/sqlconnectionstringbuilder/set_password/
 ---
-## SqlConnectionStringBuilder::set_Password(const [String](../../../system/string/)\&) method
+## SqlConnectionStringBuilder::set_Password(const String\&) method
 
 
 Sets password to be used to connect to database.
@@ -24,7 +24,7 @@ void System::Data::SqlClient::SqlConnectionStringBuilder::set_Password(const Str
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SqlConnectionStringBuilder](../)
-* Namespace [System::Data::SqlClient](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SqlConnectionStringBuilder](./)
+* Namespace [System::Data::SqlClient](../)
+* Library [Aspose.Slides](../../)

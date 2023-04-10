@@ -22,8 +22,7 @@ The created [FontFamily](../) object
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FontFamily](../)
-* Class [FontFamily](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [FontFamily](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

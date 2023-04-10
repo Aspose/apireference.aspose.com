@@ -17,7 +17,7 @@ virtual Aspose::Slides::TileFlip Aspose::Slides::IGradientFormatEffectiveData::g
 
 ## See Also
 
-* Enum [TileFlip](../../tileflip/)
-* Class [IGradientFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TileFlip](../tileflip/)
+* Class [IGradientFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

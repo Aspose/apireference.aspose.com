@@ -27,6 +27,6 @@ pres->Save(u"ReadOnlyPresentation.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Class [ProtectionManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ProtectionManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

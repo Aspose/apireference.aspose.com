@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/glittertransition/
 Glitter slide transition effect.
 
 ```cpp
-class GlitterTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                          public Aspose::Slides::SlideShow::IGlitterTransition
+class GlitterTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                          public Aspose::Slides::SlideShow::IGlitterTransition
 ```
 
 ## Methods

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.slideshow/inouttransition/
 In-Out slide transition effect.
 
 ```cpp
-class InOutTransition : public Aspose::Slides::SlideShow::TransitionValueBase,
-                        public Aspose::Slides::SlideShow::IInOutTransition
+class InOutTransition : public Aspose::Slides::SlideShow::TransitionValueBase,                        public Aspose::Slides::SlideShow::IInOutTransition
 ```
 
 ## Methods

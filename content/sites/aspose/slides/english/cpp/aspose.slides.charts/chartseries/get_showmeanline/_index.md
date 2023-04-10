@@ -17,6 +17,6 @@ bool Aspose::Slides::Charts::ChartSeries::get_ShowMeanLine() override
 
 ## See Also
 
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

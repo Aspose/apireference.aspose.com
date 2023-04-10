@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.util/slideutil/getalltextboxes/
 ---
-## SlideUtil::GetAllTextBoxes([System::SharedPtr](../../../system/sharedptr/)\<[IBaseSlide](../../../aspose.slides/ibaseslide/)\>) method
+## SlideUtil::GetAllTextBoxes(System::SharedPtr\<IBaseSlide\>) method
 
 
 Returns all text frames on a slide in a PPTX presentation.
@@ -28,10 +28,10 @@ Array of [TextFrame](../../../aspose.slides/textframe/) objects.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITextFrame](../../../aspose.slides/itextframe/)
-* Class [IBaseSlide](../../../aspose.slides/ibaseslide/)
-* Class [SlideUtil](../)
-* Namespace [Aspose::Slides::Util](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITextFrame](../../aspose.slides/itextframe/)
+* Class [IBaseSlide](../../aspose.slides/ibaseslide/)
+* Class [SlideUtil](./)
+* Namespace [Aspose::Slides::Util](../)
+* Library [Aspose.Slides](../../)

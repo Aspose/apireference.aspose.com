@@ -17,8 +17,8 @@ System::SharedPtr<Import::IExternalResourceResolver> Aspose::Slides::SvgImage::g
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IExternalResourceResolver](../../../aspose.slides.import/iexternalresourceresolver/)
-* Class [SvgImage](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IExternalResourceResolver](../../aspose.slides.import/iexternalresourceresolver/)
+* Class [SvgImage](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

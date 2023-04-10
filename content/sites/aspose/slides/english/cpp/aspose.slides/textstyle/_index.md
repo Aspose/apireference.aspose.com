@@ -12,9 +12,7 @@ url: /cpp/aspose.slides/textstyle/
 This class contains the text style formatting properties.
 
 ```cpp
-class TextStyle : public Aspose::Slides::PVIObject,
-                  public Aspose::Slides::ITextStyle,
-                  public Aspose::Slides::IStyleColorOwner
+class TextStyle : public Aspose::Slides::PVIObject,                  public Aspose::Slides::ITextStyle,                  public Aspose::Slides::IStyleColorOwner
 ```
 
 ## Methods

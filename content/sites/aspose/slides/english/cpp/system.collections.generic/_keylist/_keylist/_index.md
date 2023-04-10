@@ -24,6 +24,6 @@ System::Collections::Generic::_KeyList<Dict>::_KeyList(const typename Dict::Ptr 
 
 ## See Also
 
-* Class [_KeyList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [_KeyList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

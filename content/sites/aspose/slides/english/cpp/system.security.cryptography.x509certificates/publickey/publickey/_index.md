@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.security.cryptography.x509certificates/publickey/publickey/
 ---
-## PublicKey::PublicKey(const [SharedPtr](../../../system/sharedptr/)\<[Oid](../../../system.security.cryptography/oid/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)\>\&, const [SharedPtr](../../../system/sharedptr/)\<[AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)\>) constructor
+## PublicKey::PublicKey(const SharedPtr\<Oid\>\&, const SharedPtr\<AsnEncodedData\>\&, const SharedPtr\<AsnEncodedData\>) constructor
 
 
 Constructor.
@@ -26,9 +26,9 @@ System::Security::Cryptography::X509Certificates::PublicKey::PublicKey(const Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Oid](../../../system.security.cryptography/oid/)
-* Class [AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)
-* Class [PublicKey](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Oid](../../system.security.cryptography/oid/)
+* Class [AsnEncodedData](../../system.security.cryptography/asnencodeddata/)
+* Class [PublicKey](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

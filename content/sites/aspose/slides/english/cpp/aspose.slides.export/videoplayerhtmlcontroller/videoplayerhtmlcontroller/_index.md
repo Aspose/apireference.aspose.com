@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.export/videoplayerhtmlcontroller/videoplayerhtmlcontroller/
 ---
-## VideoPlayerHtmlController::VideoPlayerHtmlController([System::String](../../../system/string/), [System::String](../../../system/string/), [System::String](../../../system/string/)) constructor
+## VideoPlayerHtmlController::VideoPlayerHtmlController(System::String, System::String, System::String) constructor
 
 
 Creates a new instance of controller
@@ -26,7 +26,7 @@ Aspose::Slides::Export::VideoPlayerHtmlController::VideoPlayerHtmlController(Sys
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [VideoPlayerHtmlController](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [VideoPlayerHtmlController](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

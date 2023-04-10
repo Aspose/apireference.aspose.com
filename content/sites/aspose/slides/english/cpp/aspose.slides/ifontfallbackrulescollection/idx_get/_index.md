@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/ifontfallbackrulescollection/idx_get/
 ---
-## IFontFallBackRulesCollection::idx_get(**int32_t**) method
+## IFontFallBackRulesCollection::idx_get(int32_t) method
 
 
 Gets the rule at the specified index. Read-only [IFontFallBackRule](../../ifontfallbackrule/).
@@ -32,8 +32,8 @@ auto firstRule = rulesList->idx_get(0);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFontFallBackRule](../../ifontfallbackrule/)
-* Class [IFontFallBackRulesCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFontFallBackRule](../ifontfallbackrule/)
+* Class [IFontFallBackRulesCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

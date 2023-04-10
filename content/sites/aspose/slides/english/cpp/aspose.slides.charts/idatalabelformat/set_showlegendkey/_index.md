@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.charts/idatalabelformat/set_showlegendkey/
 ---
-## IDataLabelFormat::set_ShowLegendKey(**bool**) method
+## IDataLabelFormat::set_ShowLegendKey(bool) method
 
 
 Represents a specified chart's data label legend key display behavior. True if the data label legend key is visible. Write **bool**.
@@ -24,6 +24,6 @@ If parent of this [DataLabelFormat](../../datalabelformat/) object is a [DataLab
 
 ## See Also
 
-* Class [IDataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

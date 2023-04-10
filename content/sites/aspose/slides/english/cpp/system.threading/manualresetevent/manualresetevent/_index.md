@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.threading/manualresetevent/manualresetevent/
 ---
-## ManualResetEvent::ManualResetEvent(**bool**) constructor
+## ManualResetEvent::ManualResetEvent(bool) constructor
 
 
 Constructor.
@@ -24,6 +24,6 @@ System::Threading::ManualResetEvent::ManualResetEvent(bool initialState)
 
 ## See Also
 
-* Class [ManualResetEvent](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ManualResetEvent](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

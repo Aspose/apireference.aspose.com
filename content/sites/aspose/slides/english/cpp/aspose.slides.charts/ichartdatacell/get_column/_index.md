@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Charts::IChartDataCell::get_Column()=0
 
 ## See Also
 
-* Class [IChartDataCell](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartDataCell](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

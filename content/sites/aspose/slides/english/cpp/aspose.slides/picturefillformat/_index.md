@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/picturefillformat/
 Represents a picture fill style.
 
 ```cpp
-class PictureFillFormat : public Aspose::Slides::PVIObject,
-                          public Aspose::Slides::IPictureFillFormat
+class PictureFillFormat : public Aspose::Slides::PVIObject,                          public Aspose::Slides::IPictureFillFormat
 ```
 
 ## Methods

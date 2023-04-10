@@ -29,6 +29,6 @@ True if bits that are set in **mask** are also set in **value**, otherwise - fal
 
 ## See Also
 
-* Struct [Enum](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Enum](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

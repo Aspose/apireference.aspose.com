@@ -17,7 +17,7 @@ virtual TransitionCornerAndCenterDirectionType Aspose::Slides::SlideShow::IRippl
 
 ## See Also
 
-* Enum [TransitionCornerAndCenterDirectionType](../../transitioncornerandcenterdirectiontype/)
-* Class [IRippleTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionCornerAndCenterDirectionType](../transitioncornerandcenterdirectiontype/)
+* Class [IRippleTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

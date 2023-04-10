@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/ichart/set_displayblanksas/
 ---
-## IChart::set_DisplayBlanksAs([DisplayBlanksAsType](../../displayblanksastype/)) method
+## IChart::set_DisplayBlanksAs(DisplayBlanksAsType) method
 
 
 Sets the way to plot blank cells on a chart. Write [DisplayBlanksAsType](../../displayblanksastype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Charts::IChart::set_DisplayBlanksAs(DisplayBlanksAs
 
 ## See Also
 
-* Enum [DisplayBlanksAsType](../../displayblanksastype/)
-* Class [IChart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DisplayBlanksAsType](../displayblanksastype/)
+* Class [IChart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

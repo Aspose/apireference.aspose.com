@@ -22,7 +22,7 @@ For [XmlWhitespace](../) nodes, the value is [XmlNodeType::Whitespace](../../xml
 
 ## See Also
 
-* Enum [XmlNodeType](../../xmlnodetype/)
-* Class [XmlWhitespace](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlNodeType](../xmlnodetype/)
+* Class [XmlWhitespace](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

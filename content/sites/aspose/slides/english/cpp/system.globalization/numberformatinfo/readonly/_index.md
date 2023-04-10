@@ -6,7 +6,7 @@ type: docs
 weight: 807
 url: /cpp/system.globalization/numberformatinfo/readonly/
 ---
-## NumberFormatInfo::ReadOnly([NumberFormatInfoPtr](../../numberformatinfoptr/)) method
+## NumberFormatInfo::ReadOnly(NumberFormatInfoPtr) method
 
 
 Gets read-only version of formatter.
@@ -28,7 +28,7 @@ if **nfi** is read-only, returns it, otherwise creates a copy of it and marks it
 
 ## See Also
 
-* Typedef [NumberFormatInfoPtr](../../numberformatinfoptr/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [NumberFormatInfoPtr](../numberformatinfoptr/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

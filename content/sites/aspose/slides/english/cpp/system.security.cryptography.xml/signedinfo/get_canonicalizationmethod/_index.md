@@ -17,7 +17,7 @@ String System::Security::Cryptography::Xml::SignedInfo::get_CanonicalizationMeth
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SignedInfo](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SignedInfo](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

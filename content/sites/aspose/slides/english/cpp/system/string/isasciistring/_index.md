@@ -22,6 +22,6 @@ True if a string is an ASCII string.
 
 ## See Also
 
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 547
 url: /cpp/system.net.sockets/socket/bind/
 ---
-## Socket::Bind([System::SharedPtr](../../../system/sharedptr/)\<[EndPoint](../../../system.net/endpoint/)\>) method
+## Socket::Bind(System::SharedPtr\<EndPoint\>) method
 
 
 Binds the socket with to the specified local endpoint.
@@ -24,8 +24,8 @@ void System::Net::Sockets::Socket::Bind(System::SharedPtr<EndPoint> localEP)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [EndPoint](../../../system.net/endpoint/)
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [EndPoint](../../system.net/endpoint/)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

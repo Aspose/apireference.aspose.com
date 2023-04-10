@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::Marker::get_Size() override
 
 ## See Also
 
-* Class [Marker](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Marker](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/loadoptions/set_password/
 ---
-## LoadOptions::set_Password([System::String](../../../system/string/)) method
+## LoadOptions::set_Password(System::String) method
 
 
 Sets the password. Write [System::String](../../../system/string/).
@@ -30,7 +30,7 @@ auto presentation = System::MakeObject<Presentation>(u"pres.pptx", loadOptions);
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [LoadOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [LoadOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

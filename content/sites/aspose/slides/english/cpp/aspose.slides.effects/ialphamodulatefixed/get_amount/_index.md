@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IAlphaModulateFixed::get_Amount()=0
 
 ## See Also
 
-* Class [IAlphaModulateFixed](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAlphaModulateFixed](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

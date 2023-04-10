@@ -17,6 +17,6 @@ System::Web::Services::Soap12::Soap12()=delete
 
 ## See Also
 
-* Class [Soap12](../)
-* Namespace [System::Web::Services](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Soap12](./)
+* Namespace [System::Web::Services](../)
+* Library [Aspose.Slides](../../)

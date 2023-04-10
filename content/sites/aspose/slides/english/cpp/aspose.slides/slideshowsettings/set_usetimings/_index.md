@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides/slideshowsettings/set_usetimings/
 ---
-## SlideShowSettings::set_UseTimings(**bool**) method
+## SlideShowSettings::set_UseTimings(bool) method
 
 
 Use Timings in [Slide](../../slide/) Show
@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShowSettings::set_UseTimings(bool value)
 
 ## See Also
 
-* Class [SlideShowSettings](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideShowSettings](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

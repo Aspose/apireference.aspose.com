@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.lowcode/foreach/layoutslide/
 ---
-## ForEach::LayoutSlide([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>, [ForEach::ForEachLayoutSlideCallback](../foreachlayoutslidecallback/)) method
+## ForEach::LayoutSlide(System::SharedPtr\<Presentation\>, ForEach::ForEachLayoutSlideCallback) method
 
 
 Iterate each [ForEach::LayoutSlide](./) in the [Presentation](../../../aspose.slides/presentation/).
@@ -40,9 +40,9 @@ ForEach::LayoutSlide(pres, callback);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Presentation](../../../aspose.slides/presentation/)
-* Typedef [ForEachLayoutSlideCallback](../foreachlayoutslidecallback/)
-* Class [ForEach](../)
-* Namespace [Aspose::Slides::LowCode](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Typedef [ForEachLayoutSlideCallback](./foreachlayoutslidecallback/)
+* Class [Presentation](../../aspose.slides/presentation/)
+* Class [ForEach](./)
+* Namespace [Aspose::Slides::LowCode](../)
+* Library [Aspose.Slides](../../)

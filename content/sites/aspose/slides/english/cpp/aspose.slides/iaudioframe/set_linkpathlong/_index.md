@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.slides/iaudioframe/set_linkpathlong/
 ---
-## IAudioFrame::set_LinkPathLong([System::String](../../../system/string/)) method
+## IAudioFrame::set_LinkPathLong(System::String) method
 
 
 Sets the name of an audio file which is linked to an [AudioFrame](../../audioframe/). Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IAudioFrame::set_LinkPathLong(System::String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IAudioFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IAudioFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

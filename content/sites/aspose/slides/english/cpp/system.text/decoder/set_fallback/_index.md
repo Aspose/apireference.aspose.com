@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.text/decoder/set_fallback/
 ---
-## Decoder::set_Fallback(const [DecoderFallbackPtr](../../../system/decoderfallbackptr/)\&) method
+## Decoder::set_Fallback(const DecoderFallbackPtr\&) method
 
 
 Sets error handling fallback.
@@ -24,7 +24,7 @@ void System::Text::Decoder::set_Fallback(const DecoderFallbackPtr &value)
 
 ## See Also
 
-* Typedef [DecoderFallbackPtr](../../../system/decoderfallbackptr/)
-* Class [Decoder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DecoderFallbackPtr](../../system/decoderfallbackptr/)
+* Class [Decoder](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

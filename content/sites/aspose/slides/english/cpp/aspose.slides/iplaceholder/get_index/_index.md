@@ -17,6 +17,6 @@ virtual uint32_t Aspose::Slides::IPlaceholder::get_Index()=0
 
 ## See Also
 
-* Class [IPlaceholder](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPlaceholder](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

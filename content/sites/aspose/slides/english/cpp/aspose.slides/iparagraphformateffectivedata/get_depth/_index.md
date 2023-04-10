@@ -17,6 +17,6 @@ virtual int16_t Aspose::Slides::IParagraphFormatEffectiveData::get_Depth()=0
 
 ## See Also
 
-* Class [IParagraphFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IParagraphFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

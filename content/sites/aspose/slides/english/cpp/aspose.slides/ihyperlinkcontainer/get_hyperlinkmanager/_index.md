@@ -17,8 +17,8 @@ virtual System::SharedPtr<IHyperlinkManager> Aspose::Slides::IHyperlinkContainer
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHyperlinkManager](../../ihyperlinkmanager/)
-* Class [IHyperlinkContainer](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHyperlinkManager](../ihyperlinkmanager/)
+* Class [IHyperlinkContainer](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

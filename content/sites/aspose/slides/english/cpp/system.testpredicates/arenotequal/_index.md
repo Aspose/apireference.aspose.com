@@ -38,5 +38,5 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Namespace [System::TestPredicates](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System::TestPredicates](./)
+* Library [Aspose.Slides](../)

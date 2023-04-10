@@ -26,6 +26,6 @@ license->SetLicense(u"MyLicense.lic");
 
 ## See Also
 
-* Class [License](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [License](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

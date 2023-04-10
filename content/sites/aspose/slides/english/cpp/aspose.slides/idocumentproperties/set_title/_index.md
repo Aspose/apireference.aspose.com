@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/idocumentproperties/set_title/
 ---
-## IDocumentProperties::set_Title([System::String](../../../system/string/)) method
+## IDocumentProperties::set_Title(System::String) method
 
 
 Sets the title of a presentation. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_Title(System::String value
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

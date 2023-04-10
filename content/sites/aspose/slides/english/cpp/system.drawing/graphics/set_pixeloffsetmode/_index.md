@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.drawing/graphics/set_pixeloffsetmode/
 ---
-## Graphics::set_PixelOffsetMode([Drawing2D::PixelOffsetMode](../../../system.drawing.drawing2d/pixeloffsetmode/)) method
+## Graphics::set_PixelOffsetMode(Drawing2D::PixelOffsetMode) method
 
 
 Sets a value that specifies how the pixels should be offset during rendering on the surface represented by the current object.
@@ -24,7 +24,7 @@ void System::Drawing::Graphics::set_PixelOffsetMode(Drawing2D::PixelOffsetMode m
 
 ## See Also
 
-* Enum [PixelOffsetMode](../../../system.drawing.drawing2d/pixeloffsetmode/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PixelOffsetMode](../../system.drawing.drawing2d/pixeloffsetmode/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

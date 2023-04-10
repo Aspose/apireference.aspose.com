@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.drawing.imaging/metafile/playrecord/
 ---
-## Metafile::PlayRecord([EmfPlusRecordType](../../emfplusrecordtype/), **int32_t**, **int32_t**, [System::ByteArrayPtr](../../../system/bytearrayptr/)) method
+## Metafile::PlayRecord(EmfPlusRecordType, int32_t, int32_t, System::ByteArrayPtr) method
 
 
 NOT IMPLEMENTED.
@@ -18,8 +18,8 @@ void System::Drawing::Imaging::Metafile::PlayRecord(EmfPlusRecordType, int32_t, 
 
 ## See Also
 
-* Enum [EmfPlusRecordType](../../emfplusrecordtype/)
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Class [Metafile](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EmfPlusRecordType](../emfplusrecordtype/)
+* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
+* Class [Metafile](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

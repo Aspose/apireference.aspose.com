@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IHSLEffectiveData::get_Hue()=0
 
 ## See Also
 
-* Class [IHSLEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IHSLEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

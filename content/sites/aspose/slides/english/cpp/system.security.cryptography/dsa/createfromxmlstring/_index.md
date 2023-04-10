@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.security.cryptography/dsa/createfromxmlstring/
 ---
-## DSA::CreateFromXmlString(const [String](../../../system/string/)\&) method
+## DSA::CreateFromXmlString(const String\&) method
 
 
 Creates default [DSA](../) algorithm implementation with specifed XML-encoded parameters.
@@ -24,9 +24,8 @@ static SharedPtr<DSA> System::Security::Cryptography::DSA::CreateFromXmlString(c
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DSA](../)
-* Class [String](../../../system/string/)
-* Class [DSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DSA](./)
+* Class [String](../../system/string/)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

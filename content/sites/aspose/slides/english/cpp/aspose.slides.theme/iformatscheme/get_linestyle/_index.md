@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.theme/iformatscheme/get_linestyle/
 ---
-## IFormatScheme::get_LineStyle(**int32_t**) method
+## IFormatScheme::get_LineStyle(int32_t) method
 
 
 Returns the theme-defined line style at the specified index. Read-only [Aspose::Slides::ILineFormat](../../../aspose.slides/ilineformat/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILineFormat> Aspose::Slides::Theme::IFormatScheme::get
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILineFormat](../../../aspose.slides/ilineformat/)
-* Class [IFormatScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILineFormat](../../aspose.slides/ilineformat/)
+* Class [IFormatScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system/math/atan/
 ---
-## Math::Atan(**double**) method
+## Math::Atan(double) method
 
 
 Calculates the arctan of the specified value.
@@ -28,6 +28,6 @@ Arctan of **d**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

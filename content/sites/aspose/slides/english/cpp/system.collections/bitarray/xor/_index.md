@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.collections/bitarray/xor/
 ---
-## BitArray::Xor(const [BitArrayPtr](../../bitarrayptr/)\&) method
+## BitArray::Xor(const BitArrayPtr\&) method
 
 
 Calculates bitwise 'xor' between two BitSets.
@@ -28,7 +28,7 @@ Bitwise 'xor' result.
 
 ## See Also
 
-* Class [BitArrayPtr](../../bitarrayptr/)
-* Class [BitArray](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BitArrayPtr](../bitarrayptr/)
+* Class [BitArray](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

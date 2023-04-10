@@ -17,6 +17,6 @@ System::Security::Cryptography::X509Certificates::X509ExtensionEnumerator::ASPOS
 
 ## See Also
 
-* Class [X509ExtensionEnumerator](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [X509ExtensionEnumerator](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

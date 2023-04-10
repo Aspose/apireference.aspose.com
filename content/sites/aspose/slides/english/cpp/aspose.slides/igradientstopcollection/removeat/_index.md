@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/igradientstopcollection/removeat/
 ---
-## IGradientStopCollection::RemoveAt(**int32_t**) method
+## IGradientStopCollection::RemoveAt(int32_t) method
 
 
 Removes a gradient stop at the specified index.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IGradientStopCollection::RemoveAt(int32_t index)=0
 
 ## See Also
 
-* Class [IGradientStopCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGradientStopCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

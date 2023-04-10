@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/equals/
 ---
-## X509Certificate::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## X509Certificate::Equals(SharedPtr\<Object\>) method
 
 
 Compares two certificates.
@@ -28,8 +28,8 @@ true if the current certificate is equal to the specified certificate.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [X509Certificate](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [X509Certificate](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.slides.charts/idatalabelformat/set_separator/
 ---
-## IDataLabelFormat::set_Separator([System::String](../../../system/string/)) method
+## IDataLabelFormat::set_Separator(System::String) method
 
 
 Sets or returns a Variant representing the separator used for the data labels on a chart. Write [System::String](../../../system/string/).
@@ -24,7 +24,7 @@ If parent of this [DataLabelFormat](../../datalabelformat/) object is a [DataLab
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

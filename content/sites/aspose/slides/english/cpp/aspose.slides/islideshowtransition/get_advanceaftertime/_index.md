@@ -17,6 +17,6 @@ virtual uint32_t Aspose::Slides::ISlideShowTransition::get_AdvanceAfterTime()=0
 
 ## See Also
 
-* Class [ISlideShowTransition](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISlideShowTransition](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

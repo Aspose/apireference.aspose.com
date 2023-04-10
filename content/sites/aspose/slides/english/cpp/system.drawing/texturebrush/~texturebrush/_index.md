@@ -17,6 +17,6 @@ virtual System::Drawing::TextureBrush::~TextureBrush()
 
 ## See Also
 
-* Class [TextureBrush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextureBrush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

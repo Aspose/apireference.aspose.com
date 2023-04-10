@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system/console/mute/
 ---
-## Console::Mute(**bool**) method
+## Console::Mute(bool) method
 
 
 Mutes or unmutes the standard output stream.
@@ -24,6 +24,6 @@ static void System::Console::Mute(bool muted)
 
 ## See Also
 
-* Class [Console](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Console](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

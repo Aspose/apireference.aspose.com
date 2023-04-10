@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaobjecttable/contains/
 ---
-## XmlSchemaObjectTable::Contains(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
+## XmlSchemaObjectTable::Contains(const SharedPtr\<XmlQualifiedName\>\&) method
 
 
 Determines if the qualified name specified exists in the collection.
@@ -28,8 +28,8 @@ bool System::Xml::Schema::XmlSchemaObjectTable::Contains(const SharedPtr<XmlQual
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaObjectTable](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaObjectTable](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

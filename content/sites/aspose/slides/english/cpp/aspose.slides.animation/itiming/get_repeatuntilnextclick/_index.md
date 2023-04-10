@@ -34,6 +34,6 @@ effect->get_Timing()->set_RepeatUntilNextClick(true);
 
 ## See Also
 
-* Class [ITiming](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITiming](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

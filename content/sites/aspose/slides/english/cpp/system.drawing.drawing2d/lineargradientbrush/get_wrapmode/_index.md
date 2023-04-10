@@ -17,7 +17,7 @@ WrapMode System::Drawing::Drawing2D::LinearGradientBrush::get_WrapMode() const
 
 ## See Also
 
-* Enum [WrapMode](../../wrapmode/)
-* Class [LinearGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [WrapMode](../wrapmode/)
+* Class [LinearGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

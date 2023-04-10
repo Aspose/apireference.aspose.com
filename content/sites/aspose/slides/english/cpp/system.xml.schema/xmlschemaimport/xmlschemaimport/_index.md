@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaImport::XmlSchemaImport()
 
 ## See Also
 
-* Class [XmlSchemaImport](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaImport](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.animation/scaleeffect/
 Represents animation scale effect.
 
 ```cpp
-class ScaleEffect : public Aspose::Slides::Animation::Behavior,
-                    public Aspose::Slides::Animation::IScaleEffect
+class ScaleEffect : public Aspose::Slides::Animation::Behavior,                    public Aspose::Slides::Animation::IScaleEffect
 ```
 
 ## Methods

@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/chartseries/set_order/
 ---
-## ChartSeries::set_Order(**int32_t**) method
+## ChartSeries::set_Order(int32_t) method
 
 
 Returns the order of a series. Write **int32_t**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartSeries::set_Order(int32_t value) override
 
 ## See Also
 
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

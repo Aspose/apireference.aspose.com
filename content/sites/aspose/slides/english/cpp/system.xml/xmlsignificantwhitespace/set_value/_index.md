@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml/xmlsignificantwhitespace/set_value/
 ---
-## XmlSignificantWhitespace::set_Value([String](../../../system/string/)) method
+## XmlSignificantWhitespace::set_Value(String) method
 
 
 Sets the value of the node.
@@ -24,7 +24,7 @@ void System::Xml::XmlSignificantWhitespace::set_Value(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSignificantWhitespace](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSignificantWhitespace](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

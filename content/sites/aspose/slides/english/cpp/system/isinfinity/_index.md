@@ -34,5 +34,5 @@ True if **value** represents infinity, otherwise - false
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

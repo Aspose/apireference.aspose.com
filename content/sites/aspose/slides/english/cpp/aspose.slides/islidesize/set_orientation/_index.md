@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/islidesize/set_orientation/
 ---
-## ISlideSize::set_Orientation([SlideOrientation](../../slideorientation/)) method
+## ISlideSize::set_Orientation(SlideOrientation) method
 
 
 Sets the slide orientation.
@@ -23,7 +23,7 @@ Changing this value will swap slide's dimensions.
 Write [SlideOrientation](../../slideorientation/). 
 ## See Also
 
-* Enum [SlideOrientation](../../slideorientation/)
-* Class [ISlideSize](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SlideOrientation](../slideorientation/)
+* Class [ISlideSize](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

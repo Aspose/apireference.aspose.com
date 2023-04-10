@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColumnCollection> Aspose::Slides::ITable::get_Columns
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColumnCollection](../../icolumncollection/)
-* Class [ITable](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColumnCollection](../icolumncollection/)
+* Class [ITable](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

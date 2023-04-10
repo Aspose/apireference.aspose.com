@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.io/stream/setlength/
 ---
-## Stream::SetLength(**int64_t**) method
+## Stream::SetLength(int64_t) method
 
 
 Sets the length of the stream represented by the current object.
@@ -24,6 +24,6 @@ virtual void System::IO::Stream::SetLength(int64_t value)=0
 
 ## See Also
 
-* Class [Stream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Stream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.drawing.printing/papersize/set_papername/
 ---
-## PaperSize::set_PaperName([System::String](../../../system/string/)) method
+## PaperSize::set_PaperName(System::String) method
 
 
 Sets the name of the type of paper.
@@ -18,7 +18,7 @@ void System::Drawing::Printing::PaperSize::set_PaperName(System::String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PaperSize](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PaperSize](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

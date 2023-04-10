@@ -17,7 +17,7 @@ DateTime System::Globalization::JapaneseCalendar::get_MinSupportedDateTime() con
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [JapaneseCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [JapaneseCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ A 32-bit unique identificator.
 
 ## See Also
 
-* Class [RegionInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RegionInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

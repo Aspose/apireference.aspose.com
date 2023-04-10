@@ -12,9 +12,7 @@ url: /cpp/aspose.slides.effects/alphareplace/
 Represents and Alpha Replace effect. Effect alpha (opacity) values are replaced by a fixed alpha.
 
 ```cpp
-class AlphaReplace : public Aspose::Slides::Effects::ImageTransformOperation,
-                     public Aspose::Slides::Effects::IAlphaReplace,
-                     public Aspose::Slides::Effects::IVisualEffect
+class AlphaReplace : public Aspose::Slides::Effects::ImageTransformOperation,                     public Aspose::Slides::Effects::IAlphaReplace,                     public Aspose::Slides::Effects::IVisualEffect
 ```
 
 ## Methods

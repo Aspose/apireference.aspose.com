@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/moderncomment/set_status/
 ---
-## ModernComment::set_Status([ModernCommentStatus](../../moderncommentstatus/)) method
+## ModernComment::set_Status(ModernCommentStatus) method
 
 
 Sets the status of the comment. Write [ModernCommentStatus](../../moderncommentstatus/).
@@ -17,7 +17,7 @@ void Aspose::Slides::ModernComment::set_Status(ModernCommentStatus value) overri
 
 ## See Also
 
-* Enum [ModernCommentStatus](../../moderncommentstatus/)
-* Class [ModernComment](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ModernCommentStatus](../moderncommentstatus/)
+* Class [ModernComment](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

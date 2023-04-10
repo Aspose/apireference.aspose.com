@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/system.net.sockets/socket/set_dontfragment/
 ---
-## Socket::set_DontFragment(**bool**) method
+## Socket::set_DontFragment(bool) method
 
 
 Sets a value that indicates if the socket allows IP datagrams to be fragmented.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_DontFragment(bool value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

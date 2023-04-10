@@ -38,5 +38,5 @@ gtest-styled assertion result.
 
 ## See Also
 
-* Namespace [System::TestPredicates::Details::SharedPtrAsserts](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System::TestPredicates::Details::SharedPtrAsserts](./)
+* Library [Aspose.Slides](../)

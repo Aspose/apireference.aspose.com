@@ -22,8 +22,8 @@ The name of the complex type from which this type is derived by extension.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaComplexContentExtension](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaComplexContentExtension](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

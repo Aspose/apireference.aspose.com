@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IMasterSlide::get_Preserve()=0
 
 ## See Also
 
-* Class [IMasterSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMasterSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

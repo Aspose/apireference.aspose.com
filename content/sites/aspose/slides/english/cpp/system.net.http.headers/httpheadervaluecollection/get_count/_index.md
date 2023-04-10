@@ -22,6 +22,6 @@ Number of elements.
 
 ## See Also
 
-* Class [HttpHeaderValueCollection](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpHeaderValueCollection](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

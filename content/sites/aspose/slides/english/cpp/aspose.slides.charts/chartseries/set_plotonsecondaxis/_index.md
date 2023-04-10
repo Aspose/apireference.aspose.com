@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides.charts/chartseries/set_plotonsecondaxis/
 ---
-## ChartSeries::set_PlotOnSecondAxis(**bool**) method
+## ChartSeries::set_PlotOnSecondAxis(bool) method
 
 
 Indicates if this series is plotted on secondary axis. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::ChartSeries::set_PlotOnSecondAxis(bool value) overr
 
 ## See Also
 
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

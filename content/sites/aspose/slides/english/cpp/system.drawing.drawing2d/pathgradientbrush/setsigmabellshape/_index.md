@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/setsigmabellshape/
 ---
-## PathGradientBrush::SetSigmaBellShape(**float**, **float**) method
+## PathGradientBrush::SetSigmaBellShape(float, float) method
 
 
 NOT IMPLEMENTED.
@@ -18,6 +18,6 @@ void System::Drawing::Drawing2D::PathGradientBrush::SetSigmaBellShape(float focu
 
 ## See Also
 
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

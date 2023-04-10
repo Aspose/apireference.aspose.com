@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.slides.charts/idatalabelformat/set_showlabelasdatacallout/
 ---
-## IDataLabelFormat::set_ShowLabelAsDataCallout(**bool**) method
+## IDataLabelFormat::set_ShowLabelAsDataCallout(bool) method
 
 
 Determines either specified chart's data label will be displayed as data callout or as data label.
@@ -21,6 +21,6 @@ virtual void Aspose::Slides::Charts::IDataLabelFormat::set_ShowLabelAsDataCallou
 If parent of this [DataLabelFormat](../../datalabelformat/) object is a [DataLabelCollection](../../datalabelcollection/) collection of data labels then this property gets or sets the default value of the ShowLabelAsDataCallout property for the new data labels in the [DataLabelCollection](../../datalabelcollection/) collection. Set this property with value also sets this value to the ShowLabelAsDataCallout property for all data labels in the [DataLabelCollection](../../datalabelcollection/) collection (i.e. \"DataLabels.DefaultDataLabelFormat.ShowLabelAsDataCallout = val;\" cause to all DataLabels[i].ShowLabelAsDataCallout is equal to val). 
 ## See Also
 
-* Class [IDataLabelFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDataLabelFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

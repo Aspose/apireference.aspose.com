@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.drawing/rect64d/
 Rectangle struct
 
 ```cpp
-class Rect64d : public System::Object,
-                public System::Details::BoxableObjectBase
+class Rect64d : public System::Object,                public System::Details::BoxableObjectBase
 ```
 
 ## Methods

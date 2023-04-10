@@ -22,6 +22,6 @@ True if text direction is LTR, false if it is RTL.
 
 ## See Also
 
-* Class [TextInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.vba/ivbaproject/get_module/
 ---
-## IVbaProject::get_Module(**int32_t**) method
+## IVbaProject::get_Module(int32_t) method
 
 
 Returns the module contained in the VBA project at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IVbaModule> Aspose::Slides::Vba::IVbaProject::get_Modu
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVbaModule](../../ivbamodule/)
-* Class [IVbaProject](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVbaModule](../ivbamodule/)
+* Class [IVbaProject](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

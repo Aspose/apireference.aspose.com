@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.security.cryptography/rsa/encryptvalue/
 ---
-## RSA::EncryptValue([ByteArrayPtr](../../../system/bytearrayptr/)) method
+## RSA::EncryptValue(ByteArrayPtr) method
 
 
 Encrypts value using private key.
@@ -28,7 +28,7 @@ Encrypted data in byte array format.
 
 ## See Also
 
-* Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
-* Class [RSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ByteArrayPtr](../../system/bytearrayptr/)
+* Class [RSA](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

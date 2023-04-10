@@ -17,5 +17,5 @@ void Aspose::Slides::CreateChildObjects() override
 
 ## See Also
 
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

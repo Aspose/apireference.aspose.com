@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.diagnostics/processstartinfo/set_useshellexecute/
 ---
-## ProcessStartInfo::set_UseShellExecute(**bool**) method
+## ProcessStartInfo::set_UseShellExecute(bool) method
 
 
 Sets UseShellExecute property.
@@ -24,6 +24,6 @@ void System::Diagnostics::ProcessStartInfo::set_UseShellExecute(bool value)
 
 ## See Also
 
-* Class [ProcessStartInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ProcessStartInfo](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.xml/xmlparsercontext/set_systemid/
 ---
-## XmlParserContext::set_SystemId(const [String](../../../system/string/)\&) method
+## XmlParserContext::set_SystemId(const String\&) method
 
 
 Sets the system identifier.
@@ -24,7 +24,7 @@ void System::Xml::XmlParserContext::set_SystemId(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlParserContext](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlParserContext](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void Aspose::Slides::Export::PresentationAnimationsGenerator::Dispose() override
 
 ## See Also
 
-* Class [PresentationAnimationsGenerator](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PresentationAnimationsGenerator](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

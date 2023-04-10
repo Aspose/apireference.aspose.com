@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.effects/reflection/set_endposalpha/
 ---
-## Reflection::set_EndPosAlpha(**float**) method
+## Reflection::set_EndPosAlpha(float) method
 
 
 Specifies the end position (along the alpha gradient ramp) of the end alpha value (percents). Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::Reflection::set_EndPosAlpha(float value) override
 
 ## See Also
 
-* Class [Reflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Reflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

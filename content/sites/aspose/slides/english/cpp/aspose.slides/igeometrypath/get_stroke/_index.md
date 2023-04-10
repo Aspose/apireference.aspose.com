@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IGeometryPath::get_Stroke()=0
 
 ## See Also
 
-* Class [IGeometryPath](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGeometryPath](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

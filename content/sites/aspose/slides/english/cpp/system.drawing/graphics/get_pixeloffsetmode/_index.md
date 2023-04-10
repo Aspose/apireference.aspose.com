@@ -17,7 +17,7 @@ Drawing2D::PixelOffsetMode System::Drawing::Graphics::get_PixelOffsetMode()
 
 ## See Also
 
-* Enum [PixelOffsetMode](../../../system.drawing.drawing2d/pixeloffsetmode/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PixelOffsetMode](../../system.drawing.drawing2d/pixeloffsetmode/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

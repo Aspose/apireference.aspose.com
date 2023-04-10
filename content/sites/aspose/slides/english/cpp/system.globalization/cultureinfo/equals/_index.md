@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/system.globalization/cultureinfo/equals/
 ---
-## CultureInfo::Equals([SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## CultureInfo::Equals(SharedPtr\<Object\>) method
 
 
 Compares objects.
@@ -28,8 +28,8 @@ True if **obj** is [CultureInfo](../) and has same parameters as this object, fa
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/tab/
 Represents a tabulation for a text.
 
 ```cpp
-class Tab : public Aspose::Slides::PVIObject,
-            public Aspose::Slides::ITab
+class Tab : public Aspose::Slides::PVIObject,            public Aspose::Slides::ITab
 ```
 
 ## Methods

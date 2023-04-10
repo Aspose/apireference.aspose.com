@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net/servicepoint/set_bindipendpointdelegate/
 ---
-## ServicePoint::set_BindIPEndPointDelegate([BindIPEndPoint](../../bindipendpoint/)) method
+## ServicePoint::set_BindIPEndPointDelegate(BindIPEndPoint) method
 
 
 Sets the delegate that is used to associate local [IPEndPoint](../../ipendpoint/) with the current instance.
@@ -24,7 +24,7 @@ void System::Net::ServicePoint::set_BindIPEndPointDelegate(BindIPEndPoint value)
 
 ## See Also
 
-* Typedef [BindIPEndPoint](../../bindipendpoint/)
-* Class [ServicePoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [BindIPEndPoint](../bindipendpoint/)
+* Class [ServicePoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ Pointer to the newly created iterator kernel object.
 
 ## See Also
 
-* Typedef [virtualized_iterator](../virtualized_iterator/)
-* Class [IEnumerable](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [virtualized_iterator](./virtualized_iterator/)
+* Class [IEnumerable](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

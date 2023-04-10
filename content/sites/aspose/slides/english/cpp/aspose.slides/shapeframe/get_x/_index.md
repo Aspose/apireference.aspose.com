@@ -17,6 +17,6 @@ float Aspose::Slides::ShapeFrame::get_X() override
 
 ## See Also
 
-* Class [ShapeFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ShapeFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

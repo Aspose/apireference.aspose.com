@@ -17,6 +17,6 @@ virtual System::Collections::Generic::ISet<T>::~ISet()
 
 ## See Also
 
-* Class [ISet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

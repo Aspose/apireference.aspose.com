@@ -17,6 +17,6 @@ constexpr double System::TimeSpan::get_TotalDays() const
 
 ## See Also
 
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

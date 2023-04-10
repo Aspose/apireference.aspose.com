@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/charttypecharacterizer/ischarttypeline/
 ---
-## ChartTypeCharacterizer::IsChartTypeLine([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::IsChartTypeLine(ChartType) method
 
 
 Return true if chartType is one of Line subtypes. Subtypes set corresponds to the appropriate set in PowerPoint (see \"Change Chart Type\" dialog in PowerPoint): [ChartType::Line](../../charttype/), [ChartType::LineWithMarkers](../../charttype/), [ChartType::PercentsStackedLine](../../charttype/), [ChartType::PercentsStackedLineWithMarkers](../../charttype/), [ChartType::StackedLine](../../charttype/), [ChartType::StackedLineWithMarkers](../../charttype/), [ChartType::Line3D](../../charttype/).
@@ -17,7 +17,7 @@ static bool Aspose::Slides::Charts::ChartTypeCharacterizer::IsChartTypeLine(Char
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

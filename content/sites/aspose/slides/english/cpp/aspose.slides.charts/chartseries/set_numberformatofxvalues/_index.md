@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/aspose.slides.charts/chartseries/set_numberformatofxvalues/
 ---
-## ChartSeries::set_NumberFormatOfXValues([System::String](../../../system/string/)) method
+## ChartSeries::set_NumberFormatOfXValues(System::String) method
 
 
 NumberFormatOfXValues. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::ChartSeries::set_NumberFormatOfXValues(System::Stri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

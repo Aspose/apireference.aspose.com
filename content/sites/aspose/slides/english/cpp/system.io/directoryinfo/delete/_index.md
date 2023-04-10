@@ -15,12 +15,7 @@ Removes the directory referred to by the path represented by the current object 
 virtual void System::IO::DirectoryInfo::Delete() override
 ```
 
-## See Also
-
-* Class [DirectoryInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
-## DirectoryInfo::Delete(**bool**) method
+## DirectoryInfo::Delete(bool) method
 
 
 Removes the directory referred to by the path represented by the current object. A parameter specifies if the content of the directory should be recursively removed if the directory is not empty.
@@ -38,6 +33,6 @@ void System::IO::DirectoryInfo::Delete(bool recursive)
 
 ## See Also
 
-* Class [DirectoryInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DirectoryInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

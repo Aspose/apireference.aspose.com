@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.globalization/numberformatinfo/set_currencysymbol/
 ---
-## NumberFormatInfo::set_CurrencySymbol(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_CurrencySymbol(const String\&) method
 
 
 Sets currency symbol.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_CurrencySymbol(const String &v
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

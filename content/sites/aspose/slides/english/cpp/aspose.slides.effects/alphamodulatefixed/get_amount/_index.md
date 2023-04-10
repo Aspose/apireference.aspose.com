@@ -17,6 +17,6 @@ float Aspose::Slides::Effects::AlphaModulateFixed::get_Amount() override
 
 ## See Also
 
-* Class [AlphaModulateFixed](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AlphaModulateFixed](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

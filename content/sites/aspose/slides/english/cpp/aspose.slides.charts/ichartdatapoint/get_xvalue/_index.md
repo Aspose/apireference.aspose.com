@@ -17,8 +17,8 @@ virtual System::SharedPtr<IStringOrDoubleChartValue> Aspose::Slides::Charts::ICh
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IStringOrDoubleChartValue](../../istringordoublechartvalue/)
-* Class [IChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IStringOrDoubleChartValue](../istringordoublechartvalue/)
+* Class [IChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

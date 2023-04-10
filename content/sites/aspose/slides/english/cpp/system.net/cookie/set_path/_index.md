@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.net/cookie/set_path/
 ---
-## Cookie::set_Path([String](../../../system/string/)) method
+## Cookie::set_Path(String) method
 
 
 Sets the 'Path' attribute's value.
@@ -24,7 +24,7 @@ void System::Net::Cookie::set_Path(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

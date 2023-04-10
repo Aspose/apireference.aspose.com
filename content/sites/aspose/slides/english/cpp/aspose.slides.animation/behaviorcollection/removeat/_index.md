@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/behaviorcollection/removeat/
 ---
-## BehaviorCollection::RemoveAt(**int32_t**) method
+## BehaviorCollection::RemoveAt(int32_t) method
 
 
 Removes behavior from a collection at the specified index.
@@ -24,6 +24,6 @@ void Aspose::Slides::Animation::BehaviorCollection::RemoveAt(int32_t index) over
 
 ## See Also
 
-* Class [BehaviorCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BehaviorCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

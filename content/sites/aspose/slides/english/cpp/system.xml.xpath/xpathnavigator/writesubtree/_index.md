@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/system.xml.xpath/xpathnavigator/writesubtree/
 ---
-## XPathNavigator::WriteSubtree([SharedPtr](../../../system/sharedptr/)\<[XmlWriter](../../../system.xml/xmlwriter/)\>) method
+## XPathNavigator::WriteSubtree(SharedPtr\<XmlWriter\>) method
 
 
 Streams the current node and its child nodes to the [XmlWriter](../../../system.xml/xmlwriter/) object specified.
@@ -24,8 +24,8 @@ virtual void System::Xml::XPath::XPathNavigator::WriteSubtree(SharedPtr<XmlWrite
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlWriter](../../system.xml/xmlwriter/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

@@ -22,8 +22,8 @@ virtual ArrayPtr<String> System::Reflection::Assembly::GetManifestResourceNames(
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [Assembly](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [Assembly](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

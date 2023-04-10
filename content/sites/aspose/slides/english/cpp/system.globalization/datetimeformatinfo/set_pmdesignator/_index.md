@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.globalization/datetimeformatinfo/set_pmdesignator/
 ---
-## DateTimeFormatInfo::set_PMDesignator(const [String](../../../system/string/)\&) method
+## DateTimeFormatInfo::set_PMDesignator(const String\&) method
 
 
 Sets PM designator.
@@ -24,7 +24,7 @@ void System::Globalization::DateTimeFormatInfo::set_PMDesignator(const String &v
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -22,9 +22,9 @@ A parameters collection of the 'Content-Disposition' header.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICollection](../../../system.collections.generic/icollection/)
-* Class [NameValueHeaderValue](../../namevalueheadervalue/)
-* Class [ContentDispositionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICollection](../../system.collections.generic/icollection/)
+* Class [NameValueHeaderValue](../namevalueheadervalue/)
+* Class [ContentDispositionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

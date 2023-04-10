@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.web.services.protocols/soapheader/set_mustunderstand/
 ---
-## SoapHeader::set_MustUnderstand(**bool**) method
+## SoapHeader::set_MustUnderstand(bool) method
 
 
 Sets a value that indicates if the SOAP header must be understood.
@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::SoapHeader::set_MustUnderstand(bool value
 
 ## See Also
 
-* Class [SoapHeader](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SoapHeader](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

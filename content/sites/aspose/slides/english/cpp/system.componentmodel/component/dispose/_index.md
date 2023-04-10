@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.componentmodel/component/dispose/
 ---
-## Component::Dispose(**bool**) method
+## Component::Dispose(bool) method
 
 
 Disposable pattern support; does nothing.
@@ -24,6 +24,6 @@ void System::ComponentModel::Component::Dispose(bool disposing=false)
 
 ## See Also
 
-* Class [Component](../)
-* Namespace [System::ComponentModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Component](./)
+* Namespace [System::ComponentModel](../)
+* Library [Aspose.Slides](../../)

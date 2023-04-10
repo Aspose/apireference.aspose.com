@@ -17,6 +17,6 @@ bool System::Drawing::Color::IsNull() const
 
 ## See Also
 
-* Class [Color](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

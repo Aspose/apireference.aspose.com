@@ -17,6 +17,6 @@ System::UriParser::UriParser()=delete
 
 ## See Also
 
-* Class [UriParser](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UriParser](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

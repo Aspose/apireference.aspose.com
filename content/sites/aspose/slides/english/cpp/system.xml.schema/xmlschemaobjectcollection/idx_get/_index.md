@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/idx_get/
 ---
-## XmlSchemaObjectCollection::idx_get(**int32_t**) method
+## XmlSchemaObjectCollection::idx_get(int32_t) method
 
 
 Returns the [XmlSchemaObject](../../xmlschemaobject/) at the specified index.
@@ -28,8 +28,8 @@ The [XmlSchemaObject](../../xmlschemaobject/) at the specified index.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObject](../../xmlschemaobject/)
-* Class [XmlSchemaObjectCollection](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObject](../xmlschemaobject/)
+* Class [XmlSchemaObjectCollection](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

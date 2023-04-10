@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides/slidecollection/removeat/
 ---
-## SlideCollection::RemoveAt(**int32_t**) method
+## SlideCollection::RemoveAt(int32_t) method
 
 
 Removes the element at the specified index of the collection.
@@ -24,6 +24,6 @@ void Aspose::Slides::SlideCollection::RemoveAt(int32_t index) override
 
 ## See Also
 
-* Class [SlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

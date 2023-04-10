@@ -22,8 +22,8 @@ A [IFillOverlayEffectiveData](../../ifilloverlayeffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillOverlayEffectiveData](../../ifilloverlayeffectivedata/)
-* Class [FillOverlay](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillOverlayEffectiveData](../ifilloverlayeffectivedata/)
+* Class [FillOverlay](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

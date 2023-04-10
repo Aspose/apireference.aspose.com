@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/icommonslideviewproperties/set_scale/
 ---
-## ICommonSlideViewProperties::set_Scale(**int32_t**) method
+## ICommonSlideViewProperties::set_Scale(int32_t) method
 
 
 Specifies the view scaling ratio in percentages. Write **int32_t**.
@@ -18,6 +18,6 @@ virtual void Aspose::Slides::ICommonSlideViewProperties::set_Scale(int32_t value
 
 ## See Also
 
-* Class [ICommonSlideViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICommonSlideViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

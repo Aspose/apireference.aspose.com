@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/aspose.slides/ishapecollection/removeat/
 ---
-## IShapeCollection::RemoveAt(**int32_t**) method
+## IShapeCollection::RemoveAt(int32_t) method
 
 
 Removes the element at the specified index of the collection.
@@ -24,6 +24,6 @@ virtual void Aspose::Slides::IShapeCollection::RemoveAt(int32_t index)=0
 
 ## See Also
 
-* Class [IShapeCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IShapeCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

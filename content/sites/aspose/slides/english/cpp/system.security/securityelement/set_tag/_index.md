@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.security/securityelement/set_tag/
 ---
-## SecurityElement::set_Tag(const [String](../../../system/string/)\&) method
+## SecurityElement::set_Tag(const String\&) method
 
 
 Sets tag name.
@@ -24,7 +24,7 @@ void System::Security::SecurityElement::set_Tag(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

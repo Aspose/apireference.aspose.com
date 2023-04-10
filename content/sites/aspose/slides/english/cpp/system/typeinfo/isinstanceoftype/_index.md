@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system/typeinfo/isinstanceoftype/
 ---
-## TypeInfo::IsInstanceOfType(const [SharedPtr](../../sharedptr/)\<[Object](../../object/)\>\&) const method
+## TypeInfo::IsInstanceOfType(const SharedPtr\<Object\>\&) const method
 
 
 Determines whether the specified object is an instance of the current type.
@@ -28,8 +28,8 @@ true if the current type is in the inheritance hierarchy of the object represent
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Object](../object/)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

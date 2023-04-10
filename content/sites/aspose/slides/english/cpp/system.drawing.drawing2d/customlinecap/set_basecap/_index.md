@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.drawing.drawing2d/customlinecap/set_basecap/
 ---
-## CustomLineCap::set_BaseCap([LineCap](../../linecap/)) method
+## CustomLineCap::set_BaseCap(LineCap) method
 
 
 Sets the base line cap value for this custom cap.
@@ -24,7 +24,7 @@ void System::Drawing::Drawing2D::CustomLineCap::set_BaseCap(LineCap value)
 
 ## See Also
 
-* Enum [LineCap](../../linecap/)
-* Class [CustomLineCap](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineCap](../linecap/)
+* Class [CustomLineCap](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

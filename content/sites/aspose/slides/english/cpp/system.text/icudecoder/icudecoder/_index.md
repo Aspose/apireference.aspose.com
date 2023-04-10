@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.text/icudecoder/icudecoder/
 ---
-## ICUDecoder::ICUDecoder([ICUEncoding](../../icuencoding/) *) constructor
+## ICUDecoder::ICUDecoder(ICUEncoding *) constructor
 
 
 Constructor.
@@ -24,7 +24,7 @@ System::Text::ICUDecoder::ICUDecoder(ICUEncoding *encoding)
 
 ## See Also
 
-* Class [ICUEncoding](../../icuencoding/)
-* Class [ICUDecoder](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICUEncoding](../icuencoding/)
+* Class [ICUDecoder](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

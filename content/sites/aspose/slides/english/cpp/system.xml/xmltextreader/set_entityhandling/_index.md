@@ -6,7 +6,7 @@ type: docs
 weight: 456
 url: /cpp/system.xml/xmltextreader/set_entityhandling/
 ---
-## XmlTextReader::set_EntityHandling([System::Xml::EntityHandling](../../entityhandling/)) method
+## XmlTextReader::set_EntityHandling(System::Xml::EntityHandling) method
 
 
 Sets a value that specifies how the reader handles entities.
@@ -24,7 +24,7 @@ void System::Xml::XmlTextReader::set_EntityHandling(System::Xml::EntityHandling 
 
 ## See Also
 
-* Enum [EntityHandling](../../entityhandling/)
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EntityHandling](../entityhandling/)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

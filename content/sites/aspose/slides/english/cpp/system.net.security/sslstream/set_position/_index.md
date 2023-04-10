@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/system.net.security/sslstream/set_position/
 ---
-## SslStream::set_Position(**int64_t**) method
+## SslStream::set_Position(int64_t) method
 
 
 Sets the stream's position.
@@ -24,6 +24,6 @@ void System::Net::Security::SslStream::set_Position(int64_t value) override
 
 ## See Also
 
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

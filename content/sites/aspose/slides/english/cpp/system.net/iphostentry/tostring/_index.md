@@ -22,7 +22,7 @@ String System::Net::IPHostEntry::ToString() const override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IPHostEntry](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IPHostEntry](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

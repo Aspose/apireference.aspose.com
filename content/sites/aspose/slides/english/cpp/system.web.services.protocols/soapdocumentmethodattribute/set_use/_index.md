@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.web.services.protocols/soapdocumentmethodattribute/set_use/
 ---
-## SoapDocumentMethodAttribute::set_Use([Description::SoapBindingUse](../../../system.web.services.description/soapbindinguse/)) method
+## SoapDocumentMethodAttribute::set_Use(Description::SoapBindingUse) method
 
 
 Sets a value that determines the message encoding method.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentMethodAttribute::set_Use(Desc
 
 ## See Also
 
-* Enum [SoapBindingUse](../../../system.web.services.description/soapbindinguse/)
-* Class [SoapDocumentMethodAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SoapBindingUse](../../system.web.services.description/soapbindinguse/)
+* Class [SoapDocumentMethodAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

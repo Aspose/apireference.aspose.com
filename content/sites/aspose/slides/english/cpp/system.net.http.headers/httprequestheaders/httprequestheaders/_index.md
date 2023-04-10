@@ -17,6 +17,6 @@ System::Net::Http::Headers::HttpRequestHeaders::HttpRequestHeaders()
 
 ## See Also
 
-* Class [HttpRequestHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpRequestHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

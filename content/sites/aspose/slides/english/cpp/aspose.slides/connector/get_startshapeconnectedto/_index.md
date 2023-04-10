@@ -18,8 +18,8 @@ System::SharedPtr<IShape> Aspose::Slides::Connector::get_StartShapeConnectedTo()
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IShape](../../ishape/)
-* Class [Connector](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IShape](../ishape/)
+* Class [Connector](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

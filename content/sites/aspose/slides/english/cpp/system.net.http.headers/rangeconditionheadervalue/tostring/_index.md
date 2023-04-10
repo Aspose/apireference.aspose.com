@@ -22,7 +22,7 @@ String System::Net::Http::Headers::RangeConditionHeaderValue::ToString() const o
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [RangeConditionHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [RangeConditionHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

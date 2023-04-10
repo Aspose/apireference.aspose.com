@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml.schema/xmlschemaobject/set_sourceuri/
 ---
-## XmlSchemaObject::set_SourceUri(const [String](../../../system/string/)\&) method
+## XmlSchemaObject::set_SourceUri(const String\&) method
 
 
 Sets the source location for the file that loaded the schema.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaObject::set_SourceUri(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaObject](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaObject](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

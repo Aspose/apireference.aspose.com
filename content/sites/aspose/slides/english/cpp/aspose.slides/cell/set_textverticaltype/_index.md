@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/cell/set_textverticaltype/
 ---
-## Cell::set_TextVerticalType([Aspose::Slides::TextVerticalType](../../textverticaltype/)) method
+## Cell::set_TextVerticalType(Aspose::Slides::TextVerticalType) method
 
 
 Sets the type of vertical text. Write [Slides::TextVerticalType](../../textverticaltype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Cell::set_TextVerticalType(Aspose::Slides::TextVerticalType
 
 ## See Also
 
-* Enum [TextVerticalType](../../textverticaltype/)
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextVerticalType](../textverticaltype/)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

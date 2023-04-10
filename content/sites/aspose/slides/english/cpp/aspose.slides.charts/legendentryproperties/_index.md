@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/legendentryproperties/
 Represents legend properties of a chart.
 
 ```cpp
-class LegendEntryProperties : public Aspose::Slides::Charts::ILegendEntryProperties,
-                              public Aspose::Slides::IDOMObject
+class LegendEntryProperties : public Aspose::Slides::Charts::ILegendEntryProperties,                              public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.reflection/propertyinfo/setvalue/
 ---
-## PropertyInfo::SetValue([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>, [System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## PropertyInfo::SetValue(System::SharedPtr\<System::Object\>, System::SharedPtr\<System::Object\>) method
 
 
 Sets property value to specific object.
@@ -25,8 +25,8 @@ void System::Reflection::PropertyInfo::SetValue(System::SharedPtr<System::Object
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [PropertyInfo](../)
-* Namespace [System::Reflection](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [PropertyInfo](./)
+* Namespace [System::Reflection](../)
+* Library [Aspose.Slides](../../)

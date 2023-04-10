@@ -22,6 +22,6 @@ True if pointer has a difference in pointed and owned objects, false otherwise.
 
 ## See Also
 
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

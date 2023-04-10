@@ -22,8 +22,8 @@ The base type for the **simpleType** element.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaSimpleType](../../xmlschemasimpletype/)
-* Class [XmlSchemaSimpleTypeRestriction](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaSimpleType](../xmlschemasimpletype/)
+* Class [XmlSchemaSimpleTypeRestriction](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

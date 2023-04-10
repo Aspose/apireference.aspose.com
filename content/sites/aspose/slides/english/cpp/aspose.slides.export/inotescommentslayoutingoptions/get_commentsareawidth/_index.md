@@ -21,6 +21,6 @@ virtual int32_t Aspose::Slides::Export::INotesCommentsLayoutingOptions::get_Comm
 Minimal and default value is **150**. 
 ## See Also
 
-* Class [INotesCommentsLayoutingOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [INotesCommentsLayoutingOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

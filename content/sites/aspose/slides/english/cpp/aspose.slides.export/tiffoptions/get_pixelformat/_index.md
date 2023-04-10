@@ -17,7 +17,7 @@ ImagePixelFormat Aspose::Slides::Export::TiffOptions::get_PixelFormat() override
 
 ## See Also
 
-* Enum [ImagePixelFormat](../../imagepixelformat/)
-* Class [TiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ImagePixelFormat](../imagepixelformat/)
+* Class [TiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

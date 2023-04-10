@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/slideshowsettings/set_showanimation/
 ---
-## SlideShowSettings::set_ShowAnimation(**bool**) method
+## SlideShowSettings::set_ShowAnimation(bool) method
 
 
 Show [Animation](../../../aspose.slides.animation/) in [Slide](../../slide/) Show
@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShowSettings::set_ShowAnimation(bool value)
 
 ## See Also
 
-* Class [SlideShowSettings](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideShowSettings](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ A string that represents serialized content.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [HttpContent](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [HttpContent](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

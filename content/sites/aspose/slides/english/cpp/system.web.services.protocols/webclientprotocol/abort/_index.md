@@ -17,6 +17,6 @@ virtual void System::Web::Services::Protocols::WebClientProtocol::Abort()
 
 ## See Also
 
-* Class [WebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

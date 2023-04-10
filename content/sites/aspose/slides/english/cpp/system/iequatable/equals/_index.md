@@ -28,6 +28,6 @@ True if the objects are equal, otherwise - false
 
 ## See Also
 
-* Class [IEquatable](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IEquatable](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

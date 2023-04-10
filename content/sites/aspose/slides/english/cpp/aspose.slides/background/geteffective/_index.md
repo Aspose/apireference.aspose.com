@@ -33,8 +33,8 @@ Console::WriteLine(String(u"Any effects applied: ") + !effectiveBackground->get_
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBackgroundEffectiveData](../../ibackgroundeffectivedata/)
-* Class [Background](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBackgroundEffectiveData](../ibackgroundeffectivedata/)
+* Class [Background](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/chartdatapoint/
 Represents series data point.
 
 ```cpp
-class ChartDataPoint : public Aspose::Slides::Charts::IChartDataPoint,
-                       public Aspose::Slides::IDOMObject
+class ChartDataPoint : public Aspose::Slides::Charts::IChartDataPoint,                       public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

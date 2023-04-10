@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.collections.generic/compareradapter/set_comparator/
 ---
-## ComparerAdapter::set_Comparator(const [SharedPtr](../../../system/sharedptr/)\<[IComparer](../../icomparer/)\<T\>\>\&) method
+## ComparerAdapter::set_Comparator(const SharedPtr\<IComparer\<T\>\>\&) method
 
 
 Sets comparator object.
@@ -24,8 +24,8 @@ void System::Collections::Generic::ComparerAdapter<T>::set_Comparator(const Shar
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComparer](../../icomparer/)
-* Struct [ComparerAdapter](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComparer](../icomparer/)
+* Struct [ComparerAdapter](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

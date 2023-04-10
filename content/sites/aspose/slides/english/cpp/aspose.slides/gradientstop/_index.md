@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/gradientstop/
 Represents a gradient format.
 
 ```cpp
-class GradientStop : public Aspose::Slides::PVIObject,
-                     public Aspose::Slides::IGradientStop
+class GradientStop : public Aspose::Slides::PVIObject,                     public Aspose::Slides::IGradientStop
 ```
 
 ## Methods

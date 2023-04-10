@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Charts::ILayoutable::get_Right()=0
 
 ## See Also
 
-* Class [ILayoutable](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILayoutable](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

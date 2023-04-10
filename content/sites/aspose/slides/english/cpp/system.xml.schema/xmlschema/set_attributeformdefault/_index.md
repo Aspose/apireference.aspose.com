@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschema/set_attributeformdefault/
 ---
-## XmlSchema::set_AttributeFormDefault([XmlSchemaForm](../../xmlschemaform/)) method
+## XmlSchema::set_AttributeFormDefault(XmlSchemaForm) method
 
 
 Sets the form for attributes declared in the target namespace of the schema.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchema::set_AttributeFormDefault(XmlSchemaForm valu
 
 ## See Also
 
-* Enum [XmlSchemaForm](../../xmlschemaform/)
-* Class [XmlSchema](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaForm](../xmlschemaform/)
+* Class [XmlSchema](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

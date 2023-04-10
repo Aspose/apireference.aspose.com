@@ -22,6 +22,6 @@ The value represented by the current object
 
 ## See Also
 
-* Class [Nullable](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

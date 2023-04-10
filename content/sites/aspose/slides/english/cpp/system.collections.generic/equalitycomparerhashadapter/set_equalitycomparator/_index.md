@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.collections.generic/equalitycomparerhashadapter/set_equalitycomparator/
 ---
-## EqualityComparerHashAdapter::set_EqualityComparator(const [SharedPtr](../../../system/sharedptr/)\<[IEqualityComparer](../../iequalitycomparer/)\<T\>\>\&) method
+## EqualityComparerHashAdapter::set_EqualityComparator(const SharedPtr\<IEqualityComparer\<T\>\>\&) method
 
 
 Sets comparator to use.
@@ -24,8 +24,8 @@ void System::Collections::Generic::EqualityComparerHashAdapter<T>::set_EqualityC
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEqualityComparer](../../iequalitycomparer/)
-* Struct [EqualityComparerHashAdapter](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEqualityComparer](../iequalitycomparer/)
+* Struct [EqualityComparerHashAdapter](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

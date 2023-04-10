@@ -17,6 +17,6 @@ virtual double Aspose::Slides::ITabEffectiveData::get_Position()=0
 
 ## See Also
 
-* Class [ITabEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITabEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

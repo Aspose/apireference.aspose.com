@@ -22,7 +22,6 @@ Tag copy.
 
 ## See Also
 
-* Class [SecurityElement](../)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

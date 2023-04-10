@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.mathtext/matharray/set_objectdistribution/
 ---
-## MathArray::set_ObjectDistribution(**bool**) method
+## MathArray::set_ObjectDistribution(bool) method
 
 
 Object Distribution When true, the contents of the array are spaced to the maximum width of the array object.
@@ -26,6 +26,6 @@ mathArray->set_ObjectDistribution(true);
 
 ## See Also
 
-* Class [MathArray](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathArray](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

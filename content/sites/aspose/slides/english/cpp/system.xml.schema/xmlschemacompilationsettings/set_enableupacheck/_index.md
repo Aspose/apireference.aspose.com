@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemacompilationsettings/set_enableupacheck/
 ---
-## XmlSchemaCompilationSettings::set_EnableUpaCheck(**bool**) method
+## XmlSchemaCompilationSettings::set_EnableUpaCheck(bool) method
 
 
 Sets a value indicating whether the [XmlSchemaSet](../../xmlschemaset/) should check for Unique Particle Attribution (UPA) violations.
@@ -24,6 +24,6 @@ void System::Xml::Schema::XmlSchemaCompilationSettings::set_EnableUpaCheck(bool 
 
 ## See Also
 
-* Class [XmlSchemaCompilationSettings](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaCompilationSettings](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ One of the XmlSchemaContentProcessing values. If no **processContents** attribut
 
 ## See Also
 
-* Enum [XmlSchemaContentProcessing](../../xmlschemacontentprocessing/)
-* Class [XmlSchemaAnyAttribute](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaContentProcessing](../xmlschemacontentprocessing/)
+* Class [XmlSchemaAnyAttribute](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

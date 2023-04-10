@@ -17,8 +17,8 @@ System::SharedPtr<Theme::IThemeEffectiveData> Aspose::Slides::BaseSlide::CreateT
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IThemeEffectiveData](../../../aspose.slides.theme/ithemeeffectivedata/)
-* Class [BaseSlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IThemeEffectiveData](../../aspose.slides.theme/ithemeeffectivedata/)
+* Class [BaseSlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

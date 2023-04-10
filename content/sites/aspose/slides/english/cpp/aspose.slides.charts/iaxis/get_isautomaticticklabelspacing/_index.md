@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Charts::IAxis::get_IsAutomaticTickLabelSpacing()=0
 
 ## See Also
 
-* Class [IAxis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAxis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 300
 url: /cpp/system.globalization/datetimeformatinfo/set_abbreviatedmonthgenitivenames/
 ---
-## DateTimeFormatInfo::set_AbbreviatedMonthGenitiveNames(const [ArrayPtr](../../../system/arrayptr/)\<[String](../../../system/string/)\>\&) method
+## DateTimeFormatInfo::set_AbbreviatedMonthGenitiveNames(const ArrayPtr\<String\>\&) method
 
 
 Sets abbreviated month names in genitive form.
@@ -24,8 +24,8 @@ void System::Globalization::DateTimeFormatInfo::set_AbbreviatedMonthGenitiveName
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

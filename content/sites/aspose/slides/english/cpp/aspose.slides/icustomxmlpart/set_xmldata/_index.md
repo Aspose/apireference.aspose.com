@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/icustomxmlpart/set_xmldata/
 ---
-## ICustomXmlPart::set_XmlData([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
+## ICustomXmlPart::set_XmlData(System::ArrayPtr\<uint8_t\>) method
 
 
 Sets xml data. Write **uint8_t**[].
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ICustomXmlPart::set_XmlData(System::ArrayPtr<uint8_
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [ICustomXmlPart](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [ICustomXmlPart](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

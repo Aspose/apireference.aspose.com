@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::SmartArt::ISmartArtNode::get_IsAssistant()=0
 
 ## See Also
 
-* Class [ISmartArtNode](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISmartArtNode](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

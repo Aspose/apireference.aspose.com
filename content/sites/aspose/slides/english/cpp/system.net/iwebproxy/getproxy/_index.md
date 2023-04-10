@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.net/iwebproxy/getproxy/
 ---
-## IWebProxy::GetProxy([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
+## IWebProxy::GetProxy(System::SharedPtr\<Uri\>) method
 
 
 Returns the proxy URI.
@@ -28,8 +28,8 @@ The proxy URI.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [IWebProxy](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [IWebProxy](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/izoomobject/set_returntoparent/
 ---
-## IZoomObject::set_ReturnToParent(**bool**) method
+## IZoomObject::set_ReturnToParent(bool) method
 
 
 Sets the navigation behavior in slideshow. Write **bool**. Default value: false
@@ -31,6 +31,6 @@ zoomFrame->set_ReturnToParent(true);
 
 ## See Also
 
-* Class [IZoomObject](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IZoomObject](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

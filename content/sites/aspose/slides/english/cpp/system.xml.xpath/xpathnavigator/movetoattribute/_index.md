@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/system.xml.xpath/xpathnavigator/movetoattribute/
 ---
-## XPathNavigator::MoveToAttribute([String](../../../system/string/), [String](../../../system/string/)) method
+## XPathNavigator::MoveToAttribute(String, String) method
 
 
 Moves the [XPathNavigator](../) to the attribute with the matching local name and namespace URI.
@@ -29,7 +29,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToAttribute(String localNam
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

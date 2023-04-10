@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography.x509certificates/x509extensioncollection/idx_get/
 ---
-## X509ExtensionCollection::idx_get(const [String](../../../system/string/)\&) const method
+## X509ExtensionCollection::idx_get(const String\&) const method
 
 
 Accessor. Not implemented.
@@ -28,9 +28,9 @@ Extension at specified key.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509Extension](../../x509extension/)
-* Class [String](../../../system/string/)
-* Class [X509ExtensionCollection](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [X509Extension](../x509extension/)
+* Class [String](../../system/string/)
+* Class [X509ExtensionCollection](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

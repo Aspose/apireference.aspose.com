@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.collections.specialized/operator_not_equal/
 ---
-## System::Collections::Specialized::operator!=(**BitVector32::Section**, **BitVector32::Section**) function
+## System::Collections::Specialized::operator!=(BitVector32::Section, BitVector32::Section) function
 
 
 Checks if two specified objects are not equal.
@@ -29,5 +29,5 @@ true if are not equal, otherwise - false.
 
 ## See Also
 
-* Namespace [System::Collections::Specialized](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System::Collections::Specialized](./)
+* Library [Aspose.Slides](../)

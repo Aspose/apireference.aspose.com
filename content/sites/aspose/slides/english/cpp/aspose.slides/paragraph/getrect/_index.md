@@ -17,7 +17,7 @@ System::Drawing::RectangleF Aspose::Slides::Paragraph::GetRect() override
 
 ## See Also
 
-* Class [RectangleF](../../../system.drawing/rectanglef/)
-* Class [Paragraph](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RectangleF](../../system.drawing/rectanglef/)
+* Class [Paragraph](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

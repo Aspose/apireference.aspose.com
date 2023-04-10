@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.io/path/ispathrooted/
 ---
-## Path::IsPathRooted(const [String](../../../system/string/)\&) method
+## Path::IsPathRooted(const String\&) method
 
 
 Determines if the specified path contains a root.
@@ -28,7 +28,7 @@ True if **path** contains a root, otherwise - false
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Path](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Path](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

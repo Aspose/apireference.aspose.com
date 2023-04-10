@@ -22,7 +22,6 @@ Pointer to base type descriptor or null if not found.
 
 ## See Also
 
-* Class [TypeInfo](../)
-* Class [TypeInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

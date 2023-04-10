@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.io/file/openwrite/
 ---
-## File::OpenWrite(const [String](../../../system/string/)\&) method
+## File::OpenWrite(const String\&) method
 
 
 Opens the specified file for writing only, in 'OpenOrCreate' mode with no sharing.
@@ -28,8 +28,8 @@ A [FileStream](../../filestream/) object associated with the opened file
 
 ## See Also
 
-* Typedef [FileStreamPtr](../../../system/filestreamptr/)
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [FileStreamPtr](../../system/filestreamptr/)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

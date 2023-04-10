@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.theme/fontscheme/
 Stores theme-defined fonts.
 
 ```cpp
-class FontScheme : public Aspose::Slides::Theme::IFontScheme,
-                   public Aspose::Slides::IDOMObject
+class FontScheme : public Aspose::Slides::Theme::IFontScheme,                   public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

@@ -17,7 +17,7 @@ String System::IO::FileStream::get_Name() const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FileStream](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FileStream](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

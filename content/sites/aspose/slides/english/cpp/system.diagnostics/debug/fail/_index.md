@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.diagnostics/debug/fail/
 ---
-## Debug::Fail(const [String](../../../system/string/)\&) method
+## Debug::Fail(const String\&) method
 
 
 Send fail message.
@@ -24,7 +24,7 @@ static void System::Diagnostics::Debug::Fail(const String &message)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Struct [Debug](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Struct [Debug](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

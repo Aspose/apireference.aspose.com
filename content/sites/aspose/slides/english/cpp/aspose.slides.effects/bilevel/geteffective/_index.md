@@ -22,8 +22,8 @@ A [IBiLevelEffectiveData](../../ibileveleffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBiLevelEffectiveData](../../ibileveleffectivedata/)
-* Class [BiLevel](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBiLevelEffectiveData](../ibileveleffectivedata/)
+* Class [BiLevel](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

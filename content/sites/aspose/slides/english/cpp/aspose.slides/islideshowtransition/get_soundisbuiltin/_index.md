@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::ISlideShowTransition::get_SoundIsBuiltIn()=0
 
 ## See Also
 
-* Class [ISlideShowTransition](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISlideShowTransition](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

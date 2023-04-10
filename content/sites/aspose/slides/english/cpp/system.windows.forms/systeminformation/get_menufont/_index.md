@@ -18,8 +18,8 @@ static System::SharedPtr<System::Drawing::Font> System::Windows::Forms::SystemIn
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Font](../../../system.drawing/font/)
-* Struct [SystemInformation](../)
-* Namespace [System::Windows::Forms](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Font](../../system.drawing/font/)
+* Struct [SystemInformation](./)
+* Namespace [System::Windows::Forms](../)
+* Library [Aspose.Slides](../../)

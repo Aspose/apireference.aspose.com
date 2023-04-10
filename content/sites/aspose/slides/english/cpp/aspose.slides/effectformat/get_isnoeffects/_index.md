@@ -17,6 +17,6 @@ bool Aspose::Slides::EffectFormat::get_IsNoEffects() override
 
 ## See Also
 
-* Class [EffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

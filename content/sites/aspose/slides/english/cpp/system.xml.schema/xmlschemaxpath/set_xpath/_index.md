@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml.schema/xmlschemaxpath/set_xpath/
 ---
-## XmlSchemaXPath::set_XPath(const [String](../../../system/string/)\&) method
+## XmlSchemaXPath::set_XPath(const String\&) method
 
 
 Sets the attribute for the [XPath](../../../system.xml.xpath/) expression.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaXPath::set_XPath(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaXPath](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaXPath](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

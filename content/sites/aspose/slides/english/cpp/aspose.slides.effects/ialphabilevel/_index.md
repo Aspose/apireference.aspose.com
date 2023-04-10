@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.effects/ialphabilevel/
 Represents an Alpha Bi-Level effect. Alpha (Opacity) values less than the threshold are changed to 0 (fully transparent) and alpha values greater than or equal to the threshold are changed to 100% (fully opaque).
 
 ```cpp
-class IAlphaBiLevel : public virtual Aspose::Slides::Effects::IImageTransformOperation,
-                      public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaBiLevelEffectiveData>>
+class IAlphaBiLevel : public virtual Aspose::Slides::Effects::IImageTransformOperation,                      public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IAlphaBiLevelEffectiveData>>
 ```
 
 ## Methods

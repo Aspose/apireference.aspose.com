@@ -32,13 +32,6 @@ template<typename T> static std::enable_if<std::is_enum<T>::value, System::Smart
 
 Smart pointer to object keeping boxed value.
 
-## See Also
-
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::Box(const T\&) method
 
 
@@ -65,14 +58,6 @@ template<typename T> static std::enable_if<!std::is_enum<T>::value &&!IsNullable
 
 Smart pointer to object keeping boxed value.
 
-## See Also
-
-* Struct [IsNullable](../../isnullable/)
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## ObjectExt::Box(const T\&) method
 
 
@@ -99,15 +84,7 @@ template<typename T> static std::enable_if<IsNullable<T>::value, System::SmartPt
 
 Smart pointer to object keeping boxed value.
 
-## See Also
-
-* Struct [IsNullable](../../isnullable/)
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
-## ObjectExt::Box(const [String](../../string/)\&) method
+## ObjectExt::Box(const String\&) method
 
 
 Boxes string values.
@@ -129,9 +106,10 @@ Boxed value or null, if source string is null.
 
 ## See Also
 
-* Class [SmartPtr](../../smartptr/)
-* Class [Object](../../object/)
-* Class [String](../../string/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](../smartptr/)
+* Class [Object](../object/)
+* Class [ObjectExt](./)
+* Class [String](../string/)
+* Struct [IsNullable](../isnullable/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.globalization/datetimeformatinfo/set_longtimepattern/
 ---
-## DateTimeFormatInfo::set_LongTimePattern(const [String](../../../system/string/)\&) method
+## DateTimeFormatInfo::set_LongTimePattern(const String\&) method
 
 
 Sets long time pattern.
@@ -24,7 +24,7 @@ void System::Globalization::DateTimeFormatInfo::set_LongTimePattern(const String
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

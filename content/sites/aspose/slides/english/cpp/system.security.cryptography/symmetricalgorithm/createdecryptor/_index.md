@@ -20,14 +20,7 @@ virtual SharedPtr<ICryptoTransform> System::Security::Cryptography::SymmetricAlg
 
 Newly created decryptor object.
 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICryptoTransform](../../icryptotransform/)
-* Class [SymmetricAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
-## SymmetricAlgorithm::CreateDecryptor([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>) method
+## SymmetricAlgorithm::CreateDecryptor(System::ArrayPtr\<uint8_t\>, System::ArrayPtr\<uint8_t\>) method
 
 
 Creates decryptor with explicit parameters.
@@ -50,9 +43,9 @@ Newly created decryptor object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICryptoTransform](../../icryptotransform/)
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [SymmetricAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [ICryptoTransform](../icryptotransform/)
+* Class [SymmetricAlgorithm](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

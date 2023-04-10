@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_ApplicationException::GetType() const o
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [Details_ApplicationException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [Details_ApplicationException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

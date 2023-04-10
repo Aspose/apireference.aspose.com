@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system/defaultboxedvalue/equals/
 ---
-## DefaultBoxedValue::Equals([ptr](../../object/ptr/)) method
+## DefaultBoxedValue::Equals(ptr) method
 
 
 Determines the equality of the boxed values represented by the current and specified objects.
@@ -28,7 +28,7 @@ True if the boxed value represented by the current object and **obj** are equal,
 
 ## See Also
 
-* Typedef [ptr](../../object/ptr/)
-* Class [DefaultBoxedValue](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ptr](../object/ptr/)
+* Class [DefaultBoxedValue](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

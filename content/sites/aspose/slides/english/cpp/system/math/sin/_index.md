@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system/math/sin/
 ---
-## Math::Sin(**double**) method
+## Math::Sin(double) method
 
 
 Calculates the sine of the specified value.
@@ -28,6 +28,6 @@ The sine of **a**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

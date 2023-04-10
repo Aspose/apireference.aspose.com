@@ -17,7 +17,7 @@ virtual ViewType Aspose::Slides::IViewProperties::get_LastView()=0
 
 ## See Also
 
-* Enum [ViewType](../../viewtype/)
-* Class [IViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ViewType](../viewtype/)
+* Class [IViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

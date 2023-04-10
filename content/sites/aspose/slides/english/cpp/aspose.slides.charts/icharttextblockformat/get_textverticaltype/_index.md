@@ -17,7 +17,7 @@ virtual Aspose::Slides::TextVerticalType Aspose::Slides::Charts::IChartTextBlock
 
 ## See Also
 
-* Enum [TextVerticalType](../../../aspose.slides/textverticaltype/)
-* Class [IChartTextBlockFormat](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextVerticalType](../../aspose.slides/textverticaltype/)
+* Class [IChartTextBlockFormat](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

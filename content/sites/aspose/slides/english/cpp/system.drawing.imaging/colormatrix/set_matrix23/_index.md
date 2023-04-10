@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/system.drawing.imaging/colormatrix/set_matrix23/
 ---
-## ColorMatrix::set_Matrix23(**float**) method
+## ColorMatrix::set_Matrix23(float) method
 
 
 Sets a value in the 2-nd row and 3-rd column.
@@ -24,6 +24,6 @@ void System::Drawing::Imaging::ColorMatrix::set_Matrix23(float value)
 
 ## See Also
 
-* Class [ColorMatrix](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColorMatrix](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

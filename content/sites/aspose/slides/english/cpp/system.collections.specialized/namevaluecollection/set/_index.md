@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.collections.specialized/namevaluecollection/set/
 ---
-## NameValueCollection::Set(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## NameValueCollection::Set(const String\&, const String\&) method
 
 
 Sets the value of an entry.
@@ -17,7 +17,7 @@ virtual void System::Collections::Specialized::NameValueCollection::Set(const St
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NameValueCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NameValueCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/icellcollection/
 Represents a collection of cells.
 
 ```cpp
-class ICellCollection : public Aspose::Slides::ISlideComponent,
-                        public Aspose::Slides::IGenericCollection<System::SharedPtr<Aspose::Slides::ICell>>
+class ICellCollection : public Aspose::Slides::ISlideComponent,                        public Aspose::Slides::IGenericCollection<System::SharedPtr<Aspose::Slides::ICell>>
 ```
 
 ## Methods

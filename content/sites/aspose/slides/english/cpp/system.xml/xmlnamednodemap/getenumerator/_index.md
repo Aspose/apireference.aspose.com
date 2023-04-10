@@ -22,9 +22,9 @@ An enumerator object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlNamedNodeMap](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../../system.collections.generic/ienumerator/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlNamedNodeMap](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

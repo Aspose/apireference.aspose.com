@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/blobmanagementoptions/set_presentationlockingbehavior/
 ---
-## BlobManagementOptions::set_PresentationLockingBehavior([Aspose::Slides::PresentationLockingBehavior](../../presentationlockingbehavior/)) method
+## BlobManagementOptions::set_PresentationLockingBehavior(Aspose::Slides::PresentationLockingBehavior) method
 
 
 This property defines if an instance of the [Presentation](../../presentation/) class can be an owner of the source - file or stream during the instance lifetime. If the instance is an owner, it locks the source. This helps to improve memory consumption and performance while working with BLOBs, but the source (stream or file) can't be changed during [Presentation](../../presentation/)'s instance lifetime.
@@ -17,7 +17,7 @@ void Aspose::Slides::BlobManagementOptions::set_PresentationLockingBehavior(Aspo
 
 ## See Also
 
-* Enum [PresentationLockingBehavior](../../presentationlockingbehavior/)
-* Class [BlobManagementOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PresentationLockingBehavior](../presentationlockingbehavior/)
+* Class [BlobManagementOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

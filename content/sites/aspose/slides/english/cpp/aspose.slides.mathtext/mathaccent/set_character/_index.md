@@ -26,6 +26,6 @@ char16_t ch = accent->get_Character();
 
 ## See Also
 
-* Class [MathAccent](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathAccent](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

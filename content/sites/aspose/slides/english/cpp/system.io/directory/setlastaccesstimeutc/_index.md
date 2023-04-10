@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.io/directory/setlastaccesstimeutc/
 ---
-## Directory::SetLastAccessTimeUtc(const [String](../../../system/string/)\&, [DateTime](../../../system/datetime/)) method
+## Directory::SetLastAccessTimeUtc(const String\&, DateTime) method
 
 
 Sets the last access time of the specified entity as UTC time.
@@ -25,8 +25,8 @@ static void System::IO::Directory::SetLastAccessTimeUtc(const String &path, Date
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DateTime](../../../system/datetime/)
-* Class [Directory](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DateTime](../../system/datetime/)
+* Class [Directory](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

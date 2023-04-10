@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.patterns/iobservable/unsubscribe/
 ---
-## IObservable::Unsubscribe([System::SharedPtr](../../../system/sharedptr/)\<[IObserver](../../iobserver/)\>) method
+## IObservable::Unsubscribe(System::SharedPtr\<IObserver\>) method
 
 
 
@@ -17,8 +17,8 @@ virtual ASPOSE_SLIDES_LOCAL_API void Aspose::Slides::Patterns::IObservable::Unsu
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IObserver](../../iobserver/)
-* Class [IObservable](../)
-* Namespace [Aspose::Slides::Patterns](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IObserver](../iobserver/)
+* Class [IObservable](./)
+* Namespace [Aspose::Slides::Patterns](../)
+* Library [Aspose.Slides](../../)

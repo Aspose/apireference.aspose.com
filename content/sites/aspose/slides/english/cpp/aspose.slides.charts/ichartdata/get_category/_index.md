@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides.charts/ichartdata/get_category/
 ---
-## IChartData::get_Category(**int32_t**) method
+## IChartData::get_Category(int32_t) method
 
 
 Returns the primary category at the specified index. If [get_UseSecondaryCategories](../get_usesecondarycategories/) is false, get among all categories.
@@ -18,8 +18,8 @@ virtual System::SharedPtr<IChartCategory> Aspose::Slides::Charts::IChartData::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartCategory](../../ichartcategory/)
-* Class [IChartData](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartCategory](../ichartcategory/)
+* Class [IChartData](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

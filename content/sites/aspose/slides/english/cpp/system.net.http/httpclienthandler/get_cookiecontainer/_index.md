@@ -22,8 +22,8 @@ The cookie container that is used to store server cookies.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CookieContainer](../../../system.net/cookiecontainer/)
-* Class [HttpClientHandler](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CookieContainer](../../system.net/cookiecontainer/)
+* Class [HttpClientHandler](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

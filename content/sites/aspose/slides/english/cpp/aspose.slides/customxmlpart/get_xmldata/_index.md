@@ -17,7 +17,7 @@ System::ArrayPtr<uint8_t> Aspose::Slides::CustomXmlPart::get_XmlData() override
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [CustomXmlPart](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [CustomXmlPart](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

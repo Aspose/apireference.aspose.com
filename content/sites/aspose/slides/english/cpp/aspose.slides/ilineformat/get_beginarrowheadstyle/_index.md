@@ -17,7 +17,7 @@ virtual LineArrowheadStyle Aspose::Slides::ILineFormat::get_BeginArrowheadStyle(
 
 ## See Also
 
-* Enum [LineArrowheadStyle](../../linearrowheadstyle/)
-* Class [ILineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineArrowheadStyle](../linearrowheadstyle/)
+* Class [ILineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

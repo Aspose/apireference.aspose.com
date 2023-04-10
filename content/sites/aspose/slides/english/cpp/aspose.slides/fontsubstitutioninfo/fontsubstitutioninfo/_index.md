@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/fontsubstitutioninfo/fontsubstitutioninfo/
 ---
-## FontSubstitutionInfo::FontSubstitutionInfo([System::String](../../../system/string/), [System::String](../../../system/string/)) constructor
+## FontSubstitutionInfo::FontSubstitutionInfo(System::String, System::String) constructor
 
 
 Creates an instance of [FontSubstitutionInfo](../) class.
@@ -25,7 +25,7 @@ Aspose::Slides::FontSubstitutionInfo::FontSubstitutionInfo(System::String origin
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FontSubstitutionInfo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FontSubstitutionInfo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

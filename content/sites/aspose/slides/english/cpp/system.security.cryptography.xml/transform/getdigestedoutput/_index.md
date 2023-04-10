@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.security.cryptography.xml/transform/getdigestedoutput/
 ---
-## Transform::GetDigestedOutput([SharedPtr](../../../system/sharedptr/)\<[HashAlgorithm](../../../system.security.cryptography/hashalgorithm/)\>) method
+## Transform::GetDigestedOutput(SharedPtr\<HashAlgorithm\>) method
 
 
 
@@ -17,9 +17,9 @@ virtual ArrayPtr<uint8_t> System::Security::Cryptography::Xml::Transform::GetDig
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HashAlgorithm](../../../system.security.cryptography/hashalgorithm/)
-* Class [Transform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HashAlgorithm](../../system.security.cryptography/hashalgorithm/)
+* Class [Transform](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

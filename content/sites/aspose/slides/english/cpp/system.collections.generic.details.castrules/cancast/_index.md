@@ -27,11 +27,6 @@ template<typename Source,typename Result> std::enable_if_t<CastType<Source, Resu
 
 True when a non nullptr value is returns after casting, otherwise false.
 
-## See Also
-
-* Struct [CastType](../casttype/)
-* Namespace [System::Collections::Generic::Details::CastRules](../)
-* Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::CastRules::CanCast(Source) function
 
 
@@ -53,11 +48,6 @@ template<typename Source,typename Result> std::enable_if_t<CastType<Source, Resu
 
 True when a non nullptr value is returns after casting, otherwise false.
 
-## See Also
-
-* Struct [CastType](../casttype/)
-* Namespace [System::Collections::Generic::Details::CastRules](../)
-* Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::CastRules::CanCast(Source) function
 
 
@@ -79,11 +69,6 @@ template<typename Source,typename Result> std::enable_if_t<CastType<Source, Resu
 
 True when a non nullptr value is returns after casting, otherwise false.
 
-## See Also
-
-* Struct [CastType](../casttype/)
-* Namespace [System::Collections::Generic::Details::CastRules](../)
-* Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::CastRules::CanCast(Source) function
 
 
@@ -105,11 +90,6 @@ template<typename Source,typename Result> std::enable_if_t<CastType<Source, Resu
 
 Always returns true.
 
-## See Also
-
-* Struct [CastType](../casttype/)
-* Namespace [System::Collections::Generic::Details::CastRules](../)
-* Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::CastRules::CanCast(Source) function
 
 
@@ -131,11 +111,6 @@ template<typename Source,typename Result> std::enable_if_t<CastType<Source, Resu
 
 True when a non nullptr value is returns after casting, otherwise false.
 
-## See Also
-
-* Struct [CastType](../casttype/)
-* Namespace [System::Collections::Generic::Details::CastRules](../)
-* Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::CastRules::CanCast(Source) function
 
 
@@ -157,11 +132,6 @@ template<typename Source,typename Result> std::enable_if_t<CastType<Source, Resu
 
 Always returns true.
 
-## See Also
-
-* Struct [CastType](../casttype/)
-* Namespace [System::Collections::Generic::Details::CastRules](../)
-* Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::CastRules::CanCast(Source) function
 
 
@@ -183,11 +153,6 @@ template<typename Source,typename Result> std::enable_if_t<CastType<Source, Resu
 
 True if the cast operation was successfully done, otherwise false.
 
-## See Also
-
-* Struct [CastType](../casttype/)
-* Namespace [System::Collections::Generic::Details::CastRules](../)
-* Library [Aspose.Slides](../../)
 ## System::Collections::Generic::Details::CastRules::CanCast(Source) function
 
 
@@ -211,6 +176,6 @@ Always returns false.
 
 ## See Also
 
-* Struct [CastType](../casttype/)
-* Namespace [System::Collections::Generic::Details::CastRules](../)
-* Library [Aspose.Slides](../../)
+* Struct [CastType](./casttype/)
+* Namespace [System::Collections::Generic::Details::CastRules](./)
+* Library [Aspose.Slides](../)

@@ -17,7 +17,7 @@ String System::Security::Cryptography::HashAlgorithmName::ToString() const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Struct [HashAlgorithmName](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Struct [HashAlgorithmName](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

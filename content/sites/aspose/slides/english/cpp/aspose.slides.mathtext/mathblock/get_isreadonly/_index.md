@@ -17,6 +17,6 @@ bool Aspose::Slides::MathText::MathBlock::get_IsReadOnly()
 
 ## See Also
 
-* Class [MathBlock](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathBlock](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

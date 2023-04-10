@@ -22,8 +22,8 @@ Stream for reading.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [IVideo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Stream](../../system.io/stream/)
+* Class [IVideo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

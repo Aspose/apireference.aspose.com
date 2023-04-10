@@ -17,6 +17,6 @@ void Aspose::Slides::Animation::BehaviorCollection::Clear() override
 
 ## See Also
 
-* Class [BehaviorCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BehaviorCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

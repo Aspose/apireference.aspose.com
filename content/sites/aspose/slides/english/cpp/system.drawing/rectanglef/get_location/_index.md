@@ -17,7 +17,7 @@ PointF System::Drawing::RectangleF::get_Location() const
 
 ## See Also
 
-* Class [PointF](../../pointf/)
-* Class [RectangleF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](../pointf/)
+* Class [RectangleF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net/iwebproxy/isbypassed/
 ---
-## IWebProxy::IsBypassed([System::SharedPtr](../../../system/sharedptr/)\<[Uri](../../../system/uri/)\>) method
+## IWebProxy::IsBypassed(System::SharedPtr\<Uri\>) method
 
 
 Returns a value that indicates if the proxy must not be used for the specified host.
@@ -28,8 +28,8 @@ True when the proxy server must not be used, otherwise false.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Uri](../../../system/uri/)
-* Class [IWebProxy](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Uri](../../system/uri/)
+* Class [IWebProxy](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

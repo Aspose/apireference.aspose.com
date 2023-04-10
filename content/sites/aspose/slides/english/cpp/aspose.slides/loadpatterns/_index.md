@@ -6,7 +6,7 @@ type: docs
 weight: 5578
 url: /cpp/aspose.slides/loadpatterns/
 ---
-## Aspose::Slides::LoadPatterns([System::String](../../system/string/)) function
+## Aspose::Slides::LoadPatterns(System::String) function
 
 
 
@@ -17,8 +17,8 @@ static ASPOSE_SLIDES_LOCAL_API System::SharedPtr<System::Collections::Generic::D
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Dictionary](../../system.collections.generic/dictionary/)
-* Class [String](../../system/string/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../system/sharedptr/)
+* Class [Dictionary](../system.collections.generic/dictionary/)
+* Class [String](../system/string/)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

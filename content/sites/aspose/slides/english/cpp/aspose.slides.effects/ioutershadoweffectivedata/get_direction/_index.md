@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::IOuterShadowEffectiveData::get_Direction(
 
 ## See Also
 
-* Class [IOuterShadowEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IOuterShadowEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

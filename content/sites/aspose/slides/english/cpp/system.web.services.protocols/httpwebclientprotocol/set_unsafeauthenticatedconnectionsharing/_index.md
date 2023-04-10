@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_unsafeauthenticatedconnectionsharing/
 ---
-## HttpWebClientProtocol::set_UnsafeAuthenticatedConnectionSharing(**bool**) method
+## HttpWebClientProtocol::set_UnsafeAuthenticatedConnectionSharing(bool) method
 
 
 Sets a value that indicates if the connection sharing is enabled when the client uses NTLM authentication.
@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::HttpWebClientProtocol::set_UnsafeAuthenti
 
 ## See Also
 
-* Class [HttpWebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpWebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

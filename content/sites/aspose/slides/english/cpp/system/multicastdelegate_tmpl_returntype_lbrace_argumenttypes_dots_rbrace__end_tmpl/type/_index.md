@@ -17,7 +17,7 @@ static const TypeInfo & System::MulticastDelegate<ReturnType(ArgumentTypes...)>:
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ virtual ChartDataSourceType Aspose::Slides::Charts::IChartData::get_DataSourceTy
 
 ## See Also
 
-* Enum [ChartDataSourceType](../../chartdatasourcetype/)
-* Class [IChartData](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartDataSourceType](../chartdatasourcetype/)
+* Class [IChartData](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

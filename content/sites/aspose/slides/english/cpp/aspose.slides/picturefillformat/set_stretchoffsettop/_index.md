@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/aspose.slides/picturefillformat/set_stretchoffsettop/
 ---
-## PictureFillFormat::set_StretchOffsetTop(**float**) method
+## PictureFillFormat::set_StretchOffsetTop(float) method
 
 
 Sets top edge of the fill rectangle that is defined by a percentage offset from the top edge of the shape's bounding box. A positive percentage specifies an inset, while a negative percentage specifies an outset. Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::PictureFillFormat::set_StretchOffsetTop(float value) overri
 
 ## See Also
 
-* Class [PictureFillFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PictureFillFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

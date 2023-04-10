@@ -17,8 +17,8 @@ virtual System::SharedPtr<Effects::IOuterShadowEffectiveData> Aspose::Slides::IE
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IOuterShadowEffectiveData](../../../aspose.slides.effects/ioutershadoweffectivedata/)
-* Class [IEffectFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IOuterShadowEffectiveData](../../aspose.slides.effects/ioutershadoweffectivedata/)
+* Class [IEffectFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

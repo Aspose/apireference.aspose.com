@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/ihyperlinkmanager/setmacrohyperlinkclick/
 ---
-## IHyperlinkManager::SetMacroHyperlinkClick([System::String](../../../system/string/)) method
+## IHyperlinkManager::SetMacroHyperlinkClick(System::String) method
 
 
 Set Macro hyperlink on a click.
@@ -41,9 +41,9 @@ shape->get_HyperlinkManager()->SetMacroHyperlinkClick(u"MacroName");
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHyperlink](../../ihyperlink/)
-* Class [String](../../../system/string/)
-* Class [IHyperlinkManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHyperlink](../ihyperlink/)
+* Class [String](../../system/string/)
+* Class [IHyperlinkManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ The network interface information.
 
 ## See Also
 
-* Class [IPPacketInformation](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPPacketInformation](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

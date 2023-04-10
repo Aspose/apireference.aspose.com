@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaelement/set_block/
 ---
-## XmlSchemaElement::set_Block([XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)) method
+## XmlSchemaElement::set_Block(XmlSchemaDerivationMethod) method
 
 
 Sets a **Block** derivation.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchemaElement::set_Block(XmlSchemaDerivationMethod 
 
 ## See Also
 
-* Enum [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/)
-* Class [XmlSchemaElement](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaDerivationMethod](../xmlschemaderivationmethod/)
+* Class [XmlSchemaElement](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

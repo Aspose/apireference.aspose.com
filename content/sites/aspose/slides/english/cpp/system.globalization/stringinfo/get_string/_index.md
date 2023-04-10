@@ -22,7 +22,7 @@ String System::Globalization::StringInfo::get_String() const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

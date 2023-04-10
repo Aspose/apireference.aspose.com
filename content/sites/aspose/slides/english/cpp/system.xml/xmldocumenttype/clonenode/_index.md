@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.xml/xmldocumenttype/clonenode/
 ---
-## XmlDocumentType::CloneNode(**bool**) method
+## XmlDocumentType::CloneNode(bool) method
 
 
 Creates a duplicate of this node.
@@ -28,8 +28,8 @@ The cloned node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [XmlDocumentType](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [XmlDocumentType](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography.xml/rsakeyvalue/set_key/
 ---
-## RSAKeyValue::set_Key([SharedPtr](../../../system/sharedptr/)\<[RSA](../../../system.security.cryptography/rsa/)\>) method
+## RSAKeyValue::set_Key(SharedPtr\<RSA\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::RSAKeyValue::set_Key(SharedPtr<RSA> va
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RSA](../../../system.security.cryptography/rsa/)
-* Class [RSAKeyValue](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RSA](../../system.security.cryptography/rsa/)
+* Class [RSAKeyValue](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

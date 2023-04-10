@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.drawing.imaging/imageattributes/setoutputchannel/
 ---
-## ImageAttributes::SetOutputChannel([ColorChannelFlag](../../colorchannelflag/), [ColorAdjustType](../../coloradjusttype/)) method
+## ImageAttributes::SetOutputChannel(ColorChannelFlag, ColorAdjustType) method
 
 
 NOT IMPLEMENTED.
@@ -18,8 +18,8 @@ void System::Drawing::Imaging::ImageAttributes::SetOutputChannel(ColorChannelFla
 
 ## See Also
 
-* Enum [ColorChannelFlag](../../colorchannelflag/)
-* Enum [ColorAdjustType](../../coloradjusttype/)
-* Class [ImageAttributes](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ColorChannelFlag](../colorchannelflag/)
+* Enum [ColorAdjustType](../coloradjusttype/)
+* Class [ImageAttributes](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

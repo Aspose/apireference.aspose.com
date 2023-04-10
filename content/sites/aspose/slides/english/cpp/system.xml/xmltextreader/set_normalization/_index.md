@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/system.xml/xmltextreader/set_normalization/
 ---
-## XmlTextReader::set_Normalization(**bool**) method
+## XmlTextReader::set_Normalization(bool) method
 
 
 Sets a value indicating whether to normalize white space and attribute values.
@@ -24,6 +24,6 @@ void System::Xml::XmlTextReader::set_Normalization(bool value)
 
 ## See Also
 
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

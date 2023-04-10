@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.slides.charts/datalabel/addtextframeforoverriding/
 ---
-## DataLabel::AddTextFrameForOverriding([System::String](../../../system/string/)) method
+## DataLabel::AddTextFrameForOverriding(System::String) method
 
 
 Initialize TextFrameForOverriding with the text in paramener \"text\". If TextFrameForOverriding is already initialized then simply changes its text.
@@ -24,9 +24,9 @@ System::SharedPtr<ITextFrame> Aspose::Slides::Charts::DataLabel::AddTextFrameFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITextFrame](../../../aspose.slides/itextframe/)
-* Class [String](../../../system/string/)
-* Class [DataLabel](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITextFrame](../../aspose.slides/itextframe/)
+* Class [String](../../system/string/)
+* Class [DataLabel](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

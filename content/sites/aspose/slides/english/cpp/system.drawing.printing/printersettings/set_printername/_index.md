@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.drawing.printing/printersettings/set_printername/
 ---
-## PrinterSettings::set_PrinterName(const [String](../../../system/string/)\&) method
+## PrinterSettings::set_PrinterName(const String\&) method
 
 
 NOT IMPLEMENTED.
@@ -17,7 +17,7 @@ void System::Drawing::Printing::PrinterSettings::set_PrinterName(const String &v
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [PrinterSettings](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [PrinterSettings](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

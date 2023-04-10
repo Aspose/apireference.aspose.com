@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.mathtext/imathelementcollection/idx_get/
 ---
-## IMathElementCollection::idx_get(**int32_t**) method
+## IMathElementCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [IMathElement](../../imathelement/).
@@ -33,8 +33,8 @@ auto firstElem = collection->idx_get(0);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMathElement](../../imathelement/)
-* Class [IMathElementCollection](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMathElement](../imathelement/)
+* Class [IMathElementCollection](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

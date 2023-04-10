@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/system.xml/xmldocument/createxmldeclaration/
 ---
-## XmlDocument::CreateXmlDeclaration(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## XmlDocument::CreateXmlDeclaration(const String\&, const String\&, const String\&) method
 
 
 Creates an [XmlDeclaration](../../xmldeclaration/) node with the specified values.
@@ -34,9 +34,9 @@ The new [XmlDeclaration](../../xmldeclaration/) node.
 Note: If the [XmlDocument](../) is saved to either a TextWriter or an [XmlTextWriter](../../xmltextwriter/), this encoding value is discarded. Instead, the encoding of the TextWriter or the [XmlTextWriter](../../xmltextwriter/) is used. This ensures that the XML written out can be read back using the correct encoding. 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlDeclaration](../../xmldeclaration/)
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlDeclaration](../xmldeclaration/)
+* Class [String](../../system/string/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

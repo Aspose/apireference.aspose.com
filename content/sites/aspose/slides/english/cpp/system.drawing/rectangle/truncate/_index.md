@@ -6,7 +6,7 @@ type: docs
 weight: 404
 url: /cpp/system.drawing/rectangle/truncate/
 ---
-## Rectangle::Truncate(const [RectangleF](../../rectanglef/)\&) method
+## Rectangle::Truncate(const RectangleF\&) method
 
 
 Constructs a [Rectangle](../) object from the specified [RectangleF](../../rectanglef/) object by truncating the [RectangleF](../../rectanglef/) object's location and size values to the next lower integer values.
@@ -28,8 +28,7 @@ The [Rectangle](../) object constructed from **rect**
 
 ## See Also
 
-* Class [Rectangle](../)
-* Class [RectangleF](../../rectanglef/)
-* Class [Rectangle](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Rectangle](./)
+* Class [RectangleF](../rectanglef/)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

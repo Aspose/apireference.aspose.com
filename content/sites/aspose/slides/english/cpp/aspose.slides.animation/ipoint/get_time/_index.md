@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Animation::IPoint::get_Time()=0
 
 ## See Also
 
-* Class [IPoint](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPoint](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

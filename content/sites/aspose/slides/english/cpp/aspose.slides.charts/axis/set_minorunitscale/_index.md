@@ -6,7 +6,7 @@ type: docs
 weight: 625
 url: /cpp/aspose.slides.charts/axis/set_minorunitscale/
 ---
-## Axis::set_MinorUnitScale([TimeUnitType](../../timeunittype/)) method
+## Axis::set_MinorUnitScale(TimeUnitType) method
 
 
 Represents the major unit scale for the date axis. Write [TimeUnitType](../../timeunittype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Axis::set_MinorUnitScale(TimeUnitType value) overri
 
 ## See Also
 
-* Enum [TimeUnitType](../../timeunittype/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TimeUnitType](../timeunittype/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

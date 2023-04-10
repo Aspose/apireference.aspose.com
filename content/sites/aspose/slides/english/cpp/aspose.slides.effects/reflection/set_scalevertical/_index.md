@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/aspose.slides.effects/reflection/set_scalevertical/
 ---
-## Reflection::set_ScaleVertical(**double**) method
+## Reflection::set_ScaleVertical(double) method
 
 
 Specifies the vertical scaling factor, negative scaling causes a flip. (percents) Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::Reflection::set_ScaleVertical(double value) overri
 
 ## See Also
 
-* Class [Reflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Reflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

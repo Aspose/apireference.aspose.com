@@ -22,8 +22,8 @@ Created [SmartArt](../../../aspose.slides.smartart/) object.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISmartArt](../../../aspose.slides.smartart/ismartart/)
-* Class [LegacyDiagram](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISmartArt](../../aspose.slides.smartart/ismartart/)
+* Class [LegacyDiagram](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

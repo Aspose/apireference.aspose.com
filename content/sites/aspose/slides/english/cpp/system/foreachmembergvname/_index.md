@@ -17,5 +17,5 @@ std::string System::ForEachMemberGVName()
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

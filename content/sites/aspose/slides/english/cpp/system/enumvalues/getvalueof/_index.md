@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system/enumvalues/getvalueof/
 ---
-## EnumValues::GetValueOf(const [String](../../string/)\&, **bool**) const method
+## EnumValues::GetValueOf(const String\&, bool) const method
 
 
 Returns boxed value of the enum constant with the specified name.
@@ -29,9 +29,9 @@ A boxed value of the enum constant whose name is specified in **str**.
 
 ## See Also
 
-* Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
-* Class [String](../../string/)
-* Class [EnumValues](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../sharedptr/)
+* Class [Object](../object/)
+* Class [String](../string/)
+* Class [EnumValues](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

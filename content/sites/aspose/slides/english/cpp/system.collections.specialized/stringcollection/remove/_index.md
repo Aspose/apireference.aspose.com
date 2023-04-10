@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.collections.specialized/stringcollection/remove/
 ---
-## StringCollection::Remove(const [System::String](../../../system/string/)\&) method
+## StringCollection::Remove(const System::String\&) method
 
 
 Removes first occurrence of specified string.
@@ -24,7 +24,7 @@ void System::Collections::Specialized::StringCollection::Remove(const System::St
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [StringCollection](../)
-* Namespace [System::Collections::Specialized](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [StringCollection](./)
+* Namespace [System::Collections::Specialized](../)
+* Library [Aspose.Slides](../../)

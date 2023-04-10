@@ -43,7 +43,7 @@ Returns the [AutoShape](../../autoshape/) type for a [PictureFrame](../). There 
 Read [Slides::ShapeType](../../shapetype/). 
 ## See Also
 
-* Enum [ShapeType](../../shapetype/)
-* Class [PictureFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ShapeType](../shapetype/)
+* Class [PictureFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

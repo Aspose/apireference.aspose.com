@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/ishape/
 Represents a shape on a slide.
 
 ```cpp
-class IShape : public virtual Aspose::Slides::ISlideComponent,
-               public Aspose::Slides::IHyperlinkContainer
+class IShape : public virtual Aspose::Slides::ISlideComponent,               public Aspose::Slides::IHyperlinkContainer
 ```
 
 ## Methods

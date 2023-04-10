@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.security/securityelement/set_children/
 ---
-## SecurityElement::set_Children([System::Collections::Generic::List](../../../system.collections.generic/list/)\<[SecurityElement](../)\>) method
+## SecurityElement::set_Children(System::Collections::Generic::List\<SecurityElement\>) method
 
 
 Sets tag child objects.
@@ -24,8 +24,7 @@ void System::Security::SecurityElement::set_Children(System::Collections::Generi
 
 ## See Also
 
-* Class [List](../../../system.collections.generic/list/)
-* Class [SecurityElement](../)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [List](../../system.collections.generic/list/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

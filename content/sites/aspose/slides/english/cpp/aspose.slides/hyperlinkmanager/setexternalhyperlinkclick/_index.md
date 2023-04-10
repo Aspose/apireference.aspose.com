@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/hyperlinkmanager/setexternalhyperlinkclick/
 ---
-## HyperlinkManager::SetExternalHyperlinkClick([System::String](../../../system/string/)) method
+## HyperlinkManager::SetExternalHyperlinkClick(System::String) method
 
 
 Set external hyperlink on click.
@@ -51,9 +51,9 @@ pptxPresentation->Save(u"hLinkPPTX_out.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IHyperlink](../../ihyperlink/)
-* Class [String](../../../system/string/)
-* Class [HyperlinkManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IHyperlink](../ihyperlink/)
+* Class [String](../../system/string/)
+* Class [HyperlinkManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

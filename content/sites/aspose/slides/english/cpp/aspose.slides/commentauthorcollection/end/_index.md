@@ -20,12 +20,6 @@ iterator Aspose::Slides::CommentAuthorCollection::end() noexcept
 
 An iterator pointing right after the last element (if any) of the collection
 
-## See Also
-
-* Typedef [iterator](../iterator/)
-* Class [CommentAuthorCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
 ## CommentAuthorCollection::end() const method
 
 
@@ -42,7 +36,8 @@ An iterator pointing right after the last element (if any) of the const-qualifie
 
 ## See Also
 
-* Typedef [const_iterator](../const_iterator/)
-* Class [CommentAuthorCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [iterator](./iterator/)
+* Typedef [const_iterator](./const_iterator/)
+* Class [CommentAuthorCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

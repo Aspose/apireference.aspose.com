@@ -17,8 +17,8 @@ virtual System::SharedPtr<IPieSplitCustomPointCollection> Aspose::Slides::Charts
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPieSplitCustomPointCollection](../../ipiesplitcustompointcollection/)
-* Class [IChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPieSplitCustomPointCollection](../ipiesplitcustompointcollection/)
+* Class [IChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaappinfo/set_markup/
 ---
-## XmlSchemaAppInfo::set_Markup(const [ArrayPtr](../../../system/arrayptr/)\<[SharedPtr](../../../system/sharedptr/)\<[XmlNode](../../../system.xml/xmlnode/)\>\>\&) method
+## XmlSchemaAppInfo::set_Markup(const ArrayPtr\<SharedPtr\<XmlNode\>\>\&) method
 
 
 Sets an array of [XmlNode](../../../system.xml/xmlnode/) objects that represents the **appinfo** child nodes.
@@ -24,9 +24,9 @@ void System::Xml::Schema::XmlSchemaAppInfo::set_Markup(const ArrayPtr<SharedPtr<
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../../system.xml/xmlnode/)
-* Class [XmlSchemaAppInfo](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../../system.xml/xmlnode/)
+* Class [XmlSchemaAppInfo](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/picture/
 Represents a picture in a presentation.
 
 ```cpp
-class Picture : public Aspose::Slides::IPVIObject,
-                public Aspose::Slides::ISlidesPicture
+class Picture : public Aspose::Slides::IPVIObject,                public Aspose::Slides::ISlidesPicture
 ```
 
 ## Methods

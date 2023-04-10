@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::Effects::IColorChangeEffectiveData::get_UseAlpha()=
 
 ## See Also
 
-* Class [IColorChangeEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IColorChangeEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

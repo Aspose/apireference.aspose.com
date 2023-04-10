@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.xml/xmlreadersettings/set_ignorecomments/
 ---
-## XmlReaderSettings::set_IgnoreComments(**bool**) method
+## XmlReaderSettings::set_IgnoreComments(bool) method
 
 
 Sets a value indicating whether to ignore comments.
@@ -24,6 +24,6 @@ void System::Xml::XmlReaderSettings::set_IgnoreComments(bool value)
 
 ## See Also
 
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

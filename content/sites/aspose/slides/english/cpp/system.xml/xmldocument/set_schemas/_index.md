@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.xml/xmldocument/set_schemas/
 ---
-## XmlDocument::set_Schemas(const [SharedPtr](../../../system/sharedptr/)\<[Schema::XmlSchemaSet](../../../system.xml.schema/xmlschemaset/)\>\&) method
+## XmlDocument::set_Schemas(const SharedPtr\<Schema::XmlSchemaSet\>\&) method
 
 
 Sets the XmlSchemaSet object associated with this [XmlDocument](../).
@@ -24,8 +24,8 @@ void System::Xml::XmlDocument::set_Schemas(const SharedPtr<Schema::XmlSchemaSet>
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaSet](../../../system.xml.schema/xmlschemaset/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaSet](../../system.xml.schema/xmlschemaset/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

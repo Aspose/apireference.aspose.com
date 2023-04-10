@@ -18,6 +18,6 @@ float System::Drawing::Printing::PageSettings::get_HardMarginY()
 
 ## See Also
 
-* Class [PageSettings](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PageSettings](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

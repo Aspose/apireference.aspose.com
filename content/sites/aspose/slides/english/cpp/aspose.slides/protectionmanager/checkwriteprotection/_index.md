@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides/protectionmanager/checkwriteprotection/
 ---
-## ProtectionManager::CheckWriteProtection([System::String](../../../system/string/)) method
+## ProtectionManager::CheckWriteProtection(System::String) method
 
 
 Determines whether a presentation is a password protected to modify.
@@ -42,7 +42,7 @@ bool isWriteProtected = presentation->get_ProtectionManager()->CheckWriteProtect
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ProtectionManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ProtectionManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

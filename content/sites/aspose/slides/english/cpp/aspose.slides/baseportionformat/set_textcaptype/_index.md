@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides/baseportionformat/set_textcaptype/
 ---
-## BasePortionFormat::set_TextCapType([Aspose::Slides::TextCapType](../../textcaptype/)) method
+## BasePortionFormat::set_TextCapType(Aspose::Slides::TextCapType) method
 
 
 Sets the type of text capitalization. No inheritance applied. Write [Slides::TextCapType](../../textcaptype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::BasePortionFormat::set_TextCapType(Aspose::Slides::TextCapT
 
 ## See Also
 
-* Enum [TextCapType](../../textcaptype/)
-* Class [BasePortionFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextCapType](../textcaptype/)
+* Class [BasePortionFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

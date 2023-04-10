@@ -28,7 +28,7 @@ A [Color](../../color/) object that represents the specified [Windows](../../../
 
 ## See Also
 
-* Class [Color](../../color/)
-* Class [ColorTranslator](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../color/)
+* Class [ColorTranslator](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.security.cryptography/rsa/toxmlstring/
 ---
-## RSA::ToXmlString(**bool**) method
+## RSA::ToXmlString(bool) method
 
 
 Exports all parameters in XML format.
@@ -28,7 +28,7 @@ XML-encoded parameters.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [RSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [RSA](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

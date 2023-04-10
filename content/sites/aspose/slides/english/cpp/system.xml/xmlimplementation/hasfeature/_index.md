@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlimplementation/hasfeature/
 ---
-## XmlImplementation::HasFeature(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## XmlImplementation::HasFeature(const String\&, const String\&) method
 
 
 Tests if the Document [Object](../../../system/object/) Model (DOM) implementation implements a specific feature.
@@ -40,7 +40,7 @@ The following table shows the combinations that cause **HasFeature** to return *
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlImplementation](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlImplementation](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

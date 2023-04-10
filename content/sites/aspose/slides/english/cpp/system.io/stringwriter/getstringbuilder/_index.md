@@ -17,8 +17,8 @@ virtual SharedPtr<Text::StringBuilder> System::IO::StringWriter::GetStringBuilde
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [StringBuilder](../../../system.text/stringbuilder/)
-* Class [StringWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [StringBuilder](../../system.text/stringbuilder/)
+* Class [StringWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.drawing/graphics/set_compositingquality/
 ---
-## Graphics::set_CompositingQuality([Drawing2D::CompositingQuality](../../../system.drawing.drawing2d/compositingquality/)) method
+## Graphics::set_CompositingQuality(Drawing2D::CompositingQuality) method
 
 
 Sets a value that specifies the quality level to use when compositing images.
@@ -24,7 +24,7 @@ void System::Drawing::Graphics::set_CompositingQuality(Drawing2D::CompositingQua
 
 ## See Also
 
-* Enum [CompositingQuality](../../../system.drawing.drawing2d/compositingquality/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CompositingQuality](../../system.drawing.drawing2d/compositingquality/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

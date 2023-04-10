@@ -17,6 +17,6 @@ virtual double Aspose::Slides::ITab::get_Position()=0
 
 ## See Also
 
-* Class [ITab](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITab](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

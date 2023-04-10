@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/colorformat/set_systemcolor/
 ---
-## ColorFormat::set_SystemColor([Aspose::Slides::SystemColor](../../systemcolor/)) method
+## ColorFormat::set_SystemColor(Aspose::Slides::SystemColor) method
 
 
 Sets the color identified by the system color table. Write [Slides::SystemColor](../../systemcolor/).
@@ -17,7 +17,7 @@ void Aspose::Slides::ColorFormat::set_SystemColor(Aspose::Slides::SystemColor va
 
 ## See Also
 
-* Enum [SystemColor](../../systemcolor/)
-* Class [ColorFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SystemColor](../systemcolor/)
+* Class [ColorFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.export/ihtmloptions/set_picturescompression/
 ---
-## IHtmlOptions::set_PicturesCompression([Aspose::Slides::Export::PicturesCompression](../../picturescompression/)) method
+## IHtmlOptions::set_PicturesCompression(Aspose::Slides::Export::PicturesCompression) method
 
 
 Represents the pictures compression level Write [PicturesCompression](../../picturescompression/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Export::IHtmlOptions::set_PicturesCompression(Aspos
 
 ## See Also
 
-* Enum [PicturesCompression](../../picturescompression/)
-* Class [IHtmlOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PicturesCompression](../picturescompression/)
+* Class [IHtmlOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

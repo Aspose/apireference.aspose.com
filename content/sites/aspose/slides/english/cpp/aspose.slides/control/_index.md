@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/control/
 Represents an ActiveX control.
 
 ```cpp
-class Control : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::ControlCollection>>,
-                public Aspose::Slides::IControl
+class Control : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::ControlCollection>>,                public Aspose::Slides::IControl
 ```
 
 ## Methods

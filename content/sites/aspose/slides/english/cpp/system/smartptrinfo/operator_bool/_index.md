@@ -22,6 +22,6 @@ True if info object points to the pointer and this pointer is not null, false ot
 
 ## See Also
 
-* Class [SmartPtrInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtrInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

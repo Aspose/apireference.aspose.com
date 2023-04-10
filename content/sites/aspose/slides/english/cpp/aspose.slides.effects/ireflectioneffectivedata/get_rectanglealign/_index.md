@@ -17,7 +17,7 @@ virtual RectangleAlignment Aspose::Slides::Effects::IReflectionEffectiveData::ge
 
 ## See Also
 
-* Enum [RectangleAlignment](../../../aspose.slides/rectanglealignment/)
-* Class [IReflectionEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [RectangleAlignment](../../aspose.slides/rectanglealignment/)
+* Class [IReflectionEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

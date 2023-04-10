@@ -17,6 +17,6 @@ System::Threading::ThreadPoolImpl::ThreadPoolImpl()
 
 ## See Also
 
-* Class [ThreadPoolImpl](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ThreadPoolImpl](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

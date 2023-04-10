@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/audiocollection/idx_get/
 ---
-## AudioCollection::idx_get(**int32_t**) method
+## AudioCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [IAudio](../../iaudio/).
@@ -17,8 +17,8 @@ System::SharedPtr<IAudio> Aspose::Slides::AudioCollection::idx_get(int32_t index
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAudio](../../iaudio/)
-* Class [AudioCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAudio](../iaudio/)
+* Class [AudioCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

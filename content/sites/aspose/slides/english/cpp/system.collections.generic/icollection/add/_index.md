@@ -24,6 +24,6 @@ virtual void System::Collections::Generic::ICollection<T>::Add(const T &item)=0
 
 ## See Also
 
-* Class [ICollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/ianimationtimeline/get_mainsequenceeffect/
 ---
-## IAnimationTimeLine::get_MainSequenceEffect(**int32_t**) method
+## IAnimationTimeLine::get_MainSequenceEffect(int32_t) method
 
 
 Returns effect from main sequence at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<Animation::IEffect> Aspose::Slides::IAnimationTimeLine
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffect](../../../aspose.slides.animation/ieffect/)
-* Class [IAnimationTimeLine](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffect](../../aspose.slides.animation/ieffect/)
+* Class [IAnimationTimeLine](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

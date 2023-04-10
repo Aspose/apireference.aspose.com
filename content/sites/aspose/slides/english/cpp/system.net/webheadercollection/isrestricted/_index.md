@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net/webheadercollection/isrestricted/
 ---
-## WebHeaderCollection::IsRestricted(const [String](../../../system/string/)\&) method
+## WebHeaderCollection::IsRestricted(const String\&) method
 
 
 Not implemented.
@@ -17,7 +17,7 @@ static bool System::Net::WebHeaderCollection::IsRestricted(const String &headerN
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [WebHeaderCollection](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [WebHeaderCollection](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

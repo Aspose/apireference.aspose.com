@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/commentauthorcollection/addauthor/
 ---
-## CommentAuthorCollection::AddAuthor([System::String](../../../system/string/), [System::String](../../../system/string/)) method
+## CommentAuthorCollection::AddAuthor(System::String, System::String) method
 
 
 Add new author at the end of a collection.
@@ -29,9 +29,9 @@ System::SharedPtr<ICommentAuthor> Aspose::Slides::CommentAuthorCollection::AddAu
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICommentAuthor](../../icommentauthor/)
-* Class [String](../../../system/string/)
-* Class [CommentAuthorCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICommentAuthor](../icommentauthor/)
+* Class [String](../../system/string/)
+* Class [CommentAuthorCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

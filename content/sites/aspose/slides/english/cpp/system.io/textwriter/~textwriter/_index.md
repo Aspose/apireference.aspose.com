@@ -17,6 +17,6 @@ virtual System::IO::TextWriter::~TextWriter()
 
 ## See Also
 
-* Class [TextWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

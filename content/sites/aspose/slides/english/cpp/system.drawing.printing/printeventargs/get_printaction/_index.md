@@ -17,7 +17,7 @@ PrintAction System::Drawing::Printing::PrintEventArgs::get_PrintAction()
 
 ## See Also
 
-* Enum [PrintAction](../../printaction/)
-* Class [PrintEventArgs](../)
-* Namespace [System::Drawing::Printing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PrintAction](../printaction/)
+* Class [PrintEventArgs](./)
+* Namespace [System::Drawing::Printing](../)
+* Library [Aspose.Slides](../../)

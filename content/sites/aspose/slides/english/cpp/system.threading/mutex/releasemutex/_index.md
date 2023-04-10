@@ -17,6 +17,6 @@ void System::Threading::Mutex::ReleaseMutex()
 
 ## See Also
 
-* Class [Mutex](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Mutex](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

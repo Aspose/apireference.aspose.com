@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.globalization/cultureinfo/set_numberformat/
 ---
-## CultureInfo::set_NumberFormat([NumberFormatInfoPtr](../../numberformatinfoptr/)) method
+## CultureInfo::set_NumberFormat(NumberFormatInfoPtr) method
 
 
 Gets number format information.
@@ -24,7 +24,7 @@ virtual void System::Globalization::CultureInfo::set_NumberFormat(NumberFormatIn
 
 ## See Also
 
-* Typedef [NumberFormatInfoPtr](../../numberformatinfoptr/)
-* Class [CultureInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [NumberFormatInfoPtr](../numberformatinfoptr/)
+* Class [CultureInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

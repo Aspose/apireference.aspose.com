@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/icustomdata/get_customxmlpart/
 ---
-## ICustomData::get_CustomXmlPart(**int32_t**) method
+## ICustomData::get_CustomXmlPart(int32_t) method
 
 
 Returns the custom XML part at the specified index.
@@ -18,8 +18,8 @@ virtual System::SharedPtr<ICustomXmlPart> Aspose::Slides::ICustomData::get_Custo
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICustomXmlPart](../../icustomxmlpart/)
-* Class [ICustomData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICustomXmlPart](../icustomxmlpart/)
+* Class [ICustomData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

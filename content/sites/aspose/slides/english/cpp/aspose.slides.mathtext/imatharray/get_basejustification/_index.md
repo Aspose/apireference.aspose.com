@@ -26,7 +26,7 @@ mathArray->set_BaseJustification(MathVerticalAlignment::Top);
 
 ## See Also
 
-* Enum [MathVerticalAlignment](../../mathverticalalignment/)
-* Class [IMathArray](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathVerticalAlignment](../mathverticalalignment/)
+* Class [IMathArray](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

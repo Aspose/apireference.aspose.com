@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.animation/ipoint/set_value/
 ---
-## IPoint::set_Value([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## IPoint::set_Value(System::SharedPtr\<System::Object\>) method
 
 
 Represents point value. Only: bool, [ColorFormat](../../../aspose.slides/colorformat/), float, int, string. Write [System::Object](../../../system/object/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Animation::IPoint::set_Value(System::SharedPtr<Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IPoint](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IPoint](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

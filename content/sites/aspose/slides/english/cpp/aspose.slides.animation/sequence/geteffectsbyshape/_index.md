@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.animation/sequence/geteffectsbyshape/
 ---
-## Sequence::GetEffectsByShape([System::SharedPtr](../../../system/sharedptr/)\<[IShape](../../../aspose.slides/ishape/)\>) method
+## Sequence::GetEffectsByShape(System::SharedPtr\<IShape\>) method
 
 
 Returns array of effects for the specified shape.
@@ -17,10 +17,10 @@ System::ArrayPtr<System::SharedPtr<IEffect>> Aspose::Slides::Animation::Sequence
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffect](../../ieffect/)
-* Class [IShape](../../../aspose.slides/ishape/)
-* Class [Sequence](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffect](../ieffect/)
+* Class [IShape](../../aspose.slides/ishape/)
+* Class [Sequence](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

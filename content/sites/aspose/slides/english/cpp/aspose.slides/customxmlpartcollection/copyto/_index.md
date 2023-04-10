@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/customxmlpartcollection/copyto/
 ---
-## CustomXmlPartCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[ICustomXmlPart](../../icustomxmlpart/)\>\>, **int32_t**) method
+## CustomXmlPartCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<ICustomXmlPart\>\>, int32_t) method
 
 
 Copy to specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::CustomXmlPartCollection::CopyTo(System::ArrayPtr<System::Sh
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICustomXmlPart](../../icustomxmlpart/)
-* Class [CustomXmlPartCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ICustomXmlPart](../icustomxmlpart/)
+* Class [CustomXmlPartCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

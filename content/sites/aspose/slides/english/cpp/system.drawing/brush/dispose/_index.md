@@ -17,6 +17,6 @@ void System::Drawing::Brush::Dispose()
 
 ## See Also
 
-* Class [Brush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Brush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

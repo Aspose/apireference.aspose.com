@@ -22,6 +22,6 @@ True if the state of the tracked object has not changed, false otherwise.
 
 ## See Also
 
-* Class [InvalidatableTracker](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [InvalidatableTracker](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

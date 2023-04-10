@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.collections.generic/iset/setequals/
 ---
-## ISet::SetEquals([IEnumerablePtr](../ienumerableptr/)) method
+## ISet::SetEquals(IEnumerablePtr) method
 
 
 Checks if set and container contain same elements.
@@ -28,7 +28,7 @@ True if both containers contain same elements, false otherwise.
 
 ## See Also
 
-* Typedef [IEnumerablePtr](../ienumerableptr/)
-* Class [ISet](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [IEnumerablePtr](./ienumerableptr/)
+* Class [ISet](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

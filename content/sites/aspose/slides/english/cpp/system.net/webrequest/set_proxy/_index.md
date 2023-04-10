@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.net/webrequest/set_proxy/
 ---
-## WebRequest::set_Proxy([System::SharedPtr](../../../system/sharedptr/)\<[IWebProxy](../../iwebproxy/)\>) method
+## WebRequest::set_Proxy(System::SharedPtr\<IWebProxy\>) method
 
 
 Sets the HTTP proxy.
@@ -24,8 +24,8 @@ virtual void System::Net::WebRequest::set_Proxy(System::SharedPtr<IWebProxy> val
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IWebProxy](../../iwebproxy/)
-* Class [WebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IWebProxy](../iwebproxy/)
+* Class [WebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

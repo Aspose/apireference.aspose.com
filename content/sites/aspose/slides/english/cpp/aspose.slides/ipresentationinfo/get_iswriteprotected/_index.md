@@ -31,7 +31,7 @@ if (info->get_IsWriteProtected() == Aspose::Slides::NullableBool::True)
 If the presentation is protected by a password to open, the property value equals NotDefined. See [NullableBool](../../nullablebool/) enumeration. 
 ## See Also
 
-* Enum [NullableBool](../../nullablebool/)
-* Class [IPresentationInfo](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [NullableBool](../nullablebool/)
+* Class [IPresentationInfo](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

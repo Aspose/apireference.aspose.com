@@ -17,7 +17,7 @@ virtual MaterialPresetType Aspose::Slides::IThreeDFormatEffectiveData::get_Mater
 
 ## See Also
 
-* Enum [MaterialPresetType](../../materialpresettype/)
-* Class [IThreeDFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MaterialPresetType](../materialpresettype/)
+* Class [IThreeDFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

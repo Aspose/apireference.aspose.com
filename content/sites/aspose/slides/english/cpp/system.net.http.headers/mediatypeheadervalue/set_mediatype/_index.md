@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net.http.headers/mediatypeheadervalue/set_mediatype/
 ---
-## MediaTypeHeaderValue::set_MediaType([String](../../../system/string/)) method
+## MediaTypeHeaderValue::set_MediaType(String) method
 
 
 Sets a value of the media-type header.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::MediaTypeHeaderValue::set_MediaType(String valu
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [MediaTypeHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [MediaTypeHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

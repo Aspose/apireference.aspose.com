@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/customxmlpartcollection/
 Represents collection of custom xml parts.
 
 ```cpp
-class CustomXmlPartCollection : public Aspose::Slides::ICustomXmlPartCollection,
-                                public Aspose::Slides::IDOMObject
+class CustomXmlPartCollection : public Aspose::Slides::ICustomXmlPartCollection,                                public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

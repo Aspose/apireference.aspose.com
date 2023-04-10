@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/set_anyattribute/
 ---
-## XmlSchemaSimpleContentRestriction::set_AnyAttribute(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)\>\&) method
+## XmlSchemaSimpleContentRestriction::set_AnyAttribute(const SharedPtr\<XmlSchemaAnyAttribute\>\&) method
 
 
 Sets an [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/) to be used for the attribute value.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaSimpleContentRestriction::set_AnyAttribute(co
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaAnyAttribute](../../xmlschemaanyattribute/)
-* Class [XmlSchemaSimpleContentRestriction](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaAnyAttribute](../xmlschemaanyattribute/)
+* Class [XmlSchemaSimpleContentRestriction](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

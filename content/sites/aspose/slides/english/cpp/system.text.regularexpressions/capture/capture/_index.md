@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.text.regularexpressions/capture/capture/
 ---
-## Capture::Capture(const [UStringPtr](../../ustringptr/)\&, int, int) constructor
+## Capture::Capture(const UStringPtr\&, int, int) constructor
 
 
 Constructor.
@@ -26,7 +26,7 @@ System::Text::RegularExpressions::Capture::Capture(const UStringPtr &source, int
 
 ## See Also
 
-* Typedef [UStringPtr](../../ustringptr/)
-* Class [Capture](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [UStringPtr](../ustringptr/)
+* Class [Capture](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

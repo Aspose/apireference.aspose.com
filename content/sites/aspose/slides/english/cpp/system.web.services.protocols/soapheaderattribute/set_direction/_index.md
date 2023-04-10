@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/soapheaderattribute/set_direction/
 ---
-## SoapHeaderAttribute::set_Direction([SoapHeaderDirection](../../soapheaderdirection/)) method
+## SoapHeaderAttribute::set_Direction(SoapHeaderDirection) method
 
 
 Sets the SOAP header direction.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapHeaderAttribute::set_Direction(SoapHe
 
 ## See Also
 
-* Enum [SoapHeaderDirection](../../soapheaderdirection/)
-* Class [SoapHeaderAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SoapHeaderDirection](../soapheaderdirection/)
+* Class [SoapHeaderAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

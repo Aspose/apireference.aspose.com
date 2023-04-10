@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.collections/ilistimplreftype/boxvalue/
 ---
-## IListImplRefType::BoxValue([System::SharedPtr](../../../system/sharedptr/)\<T\>) method
+## IListImplRefType::BoxValue(System::SharedPtr\<T\>) method
 
 
 Converting type reference into object value into object.
@@ -17,8 +17,8 @@ static System::SharedPtr<System::Object> System::Collections::IListImplRefType<T
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IListImplRefType](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [IListImplRefType](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

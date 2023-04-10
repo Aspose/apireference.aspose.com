@@ -17,8 +17,8 @@ System::SharedPtr<ILineFormat> Aspose::Slides::GroupShape::get_LineFormat() over
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILineFormat](../../ilineformat/)
-* Class [GroupShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILineFormat](../ilineformat/)
+* Class [GroupShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

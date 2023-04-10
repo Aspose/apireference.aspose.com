@@ -17,8 +17,8 @@ virtual System::SharedPtr<IColorOffset> Aspose::Slides::Animation::IColorEffect:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorOffset](../../icoloroffset/)
-* Class [IColorEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorOffset](../icoloroffset/)
+* Class [IColorEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

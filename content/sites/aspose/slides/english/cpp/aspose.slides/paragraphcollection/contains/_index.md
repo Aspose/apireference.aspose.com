@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/paragraphcollection/contains/
 ---
-## ParagraphCollection::Contains([System::SharedPtr](../../../system/sharedptr/)\<[IParagraph](../../iparagraph/)\>) method
+## ParagraphCollection::Contains(System::SharedPtr\<IParagraph\>) method
 
 
 Determines whether the [ICollection](../../../system.collections.generic/icollection/) contains a specific value.
@@ -28,8 +28,8 @@ true if *item*  is found in the [ICollection](../../../system.collections.generi
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IParagraph](../../iparagraph/)
-* Class [ParagraphCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IParagraph](../iparagraph/)
+* Class [ParagraphCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

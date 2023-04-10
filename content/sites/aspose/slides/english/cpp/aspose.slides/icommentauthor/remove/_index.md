@@ -18,6 +18,6 @@ virtual void Aspose::Slides::ICommentAuthor::Remove()=0
 
 ## See Also
 
-* Class [ICommentAuthor](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ICommentAuthor](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

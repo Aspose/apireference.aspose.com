@@ -17,8 +17,8 @@ virtual System::SharedPtr<IEffectFormatEffectiveData> Aspose::Slides::IBackgroun
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffectFormatEffectiveData](../../ieffectformateffectivedata/)
-* Class [IBackgroundEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffectFormatEffectiveData](../ieffectformateffectivedata/)
+* Class [IBackgroundEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

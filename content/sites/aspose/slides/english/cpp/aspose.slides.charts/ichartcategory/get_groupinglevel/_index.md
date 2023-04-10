@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.charts/ichartcategory/get_groupinglevel/
 ---
-## IChartCategory::get_GroupingLevel(**int32_t**) method
+## IChartCategory::get_GroupingLevel(int32_t) method
 
 
 Returns a chart category grouping level at the specified index.
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::IChartCategory
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataCell](../../ichartdatacell/)
-* Class [IChartCategory](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataCell](../ichartdatacell/)
+* Class [IChartCategory](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

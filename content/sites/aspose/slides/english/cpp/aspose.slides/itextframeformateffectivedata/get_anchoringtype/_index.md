@@ -17,7 +17,7 @@ virtual TextAnchorType Aspose::Slides::ITextFrameFormatEffectiveData::get_Anchor
 
 ## See Also
 
-* Enum [TextAnchorType](../../textanchortype/)
-* Class [ITextFrameFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextAnchorType](../textanchortype/)
+* Class [ITextFrameFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

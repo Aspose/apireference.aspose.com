@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.security.cryptography.xml/keyinfox509data/internaladdissuerserial/
 ---
-## KeyInfoX509Data::InternalAddIssuerSerial([String](../../../system/string/), [String](../../../system/string/)) method
+## KeyInfoX509Data::InternalAddIssuerSerial(String, String) method
 
 
 
@@ -17,7 +17,7 @@ void System::Security::Cryptography::Xml::KeyInfoX509Data::InternalAddIssuerSeri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [KeyInfoX509Data](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [KeyInfoX509Data](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.xml/xmldeclaration/set_innertext/
 ---
-## XmlDeclaration::set_InnerText([String](../../../system/string/)) method
+## XmlDeclaration::set_InnerText(String) method
 
 
 Sets the concatenated values of the [XmlDeclaration](../).
@@ -24,7 +24,7 @@ void System::Xml::XmlDeclaration::set_InnerText(String value) override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDeclaration](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDeclaration](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

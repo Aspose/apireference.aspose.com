@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.drawing/stringformat/set_alignment/
 ---
-## StringFormat::set_Alignment([StringAlignment](../../stringalignment/)) method
+## StringFormat::set_Alignment(StringAlignment) method
 
 
 Sets horizontal alignment of the string.
@@ -24,7 +24,7 @@ void System::Drawing::StringFormat::set_Alignment(StringAlignment value)
 
 ## See Also
 
-* Enum [StringAlignment](../../stringalignment/)
-* Class [StringFormat](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [StringAlignment](../stringalignment/)
+* Class [StringFormat](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

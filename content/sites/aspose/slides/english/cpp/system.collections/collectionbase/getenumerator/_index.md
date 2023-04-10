@@ -22,8 +22,8 @@ An [IEnumerator](../../ienumerator/) for the collection instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [CollectionBase](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../../system.collections.generic/ienumerator/)
+* Class [CollectionBase](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

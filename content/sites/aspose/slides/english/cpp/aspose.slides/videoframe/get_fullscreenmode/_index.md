@@ -17,6 +17,6 @@ bool Aspose::Slides::VideoFrame::get_FullScreenMode() override
 
 ## See Also
 
-* Class [VideoFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [VideoFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

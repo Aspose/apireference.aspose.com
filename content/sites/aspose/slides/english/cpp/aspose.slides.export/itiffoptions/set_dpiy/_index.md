@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.export/itiffoptions/set_dpiy/
 ---
-## ITiffOptions::set_DpiY(**uint32_t**) method
+## ITiffOptions::set_DpiY(uint32_t) method
 
 
 Specifies the vertical resolution in dots per inch. Write **uint32_t**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ITiffOptions::set_DpiY(uint32_t value)=0
 
 ## See Also
 
-* Class [ITiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

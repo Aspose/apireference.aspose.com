@@ -6,7 +6,7 @@ type: docs
 weight: 2016
 url: /cpp/system/operator_plus/
 ---
-## System::operator+(const T\&, const [Decimal](../decimal/)\&) function
+## System::operator+(const T\&, const Decimal\&) function
 
 
 Returns a new instance of [Decimal](../decimal/) class that represents a value that is a sum of the specified value and the value represented by the specified [Decimal](../decimal/) object.
@@ -27,12 +27,7 @@ template<typename T,typename _> Decimal System::operator+(const T &x, const Deci
 
 A new instance of [Decimal](../decimal/) class that represents a value that is a sum of **x** and the value represented by the **d**.
 
-## See Also
-
-* Class [Decimal](../decimal/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
-## System::operator+(const T1\&, const [Nullable](../nullable/)\<T2\>\&) function
+## System::operator+(const T1\&, const Nullable\<T2\>\&) function
 
 
 Sums non-nullable and nullable values.
@@ -60,12 +55,7 @@ template<typename T1,typename T2,typename> auto System::operator+(const T1 &some
 
 Summing result.
 
-## See Also
-
-* Class [Nullable](../nullable/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
-## System::operator+(T\&, const [String](../string/)\&) function
+## System::operator+(T\&, const String\&) function
 
 
 [String](../string/) concatenation.
@@ -92,13 +82,7 @@ template<typename T> std::enable_if<IsStringLiteral<T, char_t>::value, String>::
 
 Concatenated string.
 
-## See Also
-
-* Struct [IsStringLiteral](../isstringliteral/)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
-## System::operator+(T\&, const [String](../string/)\&) function
+## System::operator+(T\&, const String\&) function
 
 
 [String](../string/) concatenation.
@@ -125,13 +109,7 @@ template<typename T> std::enable_if<IsStringPointer<T, char_t>::value, String>::
 
 Concatenated string.
 
-## See Also
-
-* Struct [IsStringPointer](../isstringpointer/)
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
-## System::operator+(const char_t, const [String](../string/)\&) function
+## System::operator+(const char_t, const String\&) function
 
 
 [String](../string/) concatenation.
@@ -154,6 +132,10 @@ Concatenated string.
 
 ## See Also
 
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [Decimal](./decimal/)
+* Class [Nullable](./nullable/)
+* Class [String](./string/)
+* Struct [IsStringLiteral](./isstringliteral/)
+* Struct [IsStringPointer](./isstringpointer/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

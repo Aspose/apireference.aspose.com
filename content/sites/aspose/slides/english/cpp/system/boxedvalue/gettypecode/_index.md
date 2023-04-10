@@ -22,7 +22,7 @@ Value of TypeCode enum representing the type of the boxed value represented by t
 
 ## See Also
 
-* Enum [TypeCode](../../typecode/)
-* Class [BoxedValue](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TypeCode](../typecode/)
+* Class [BoxedValue](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

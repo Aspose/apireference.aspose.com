@@ -17,7 +17,7 @@ X509ChainStatusFlags System::Security::Cryptography::X509Certificates::X509Chain
 
 ## See Also
 
-* Enum [X509ChainStatusFlags](../../x509chainstatusflags/)
-* Class [X509ChainStatus](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [X509ChainStatusFlags](../x509chainstatusflags/)
+* Class [X509ChainStatus](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

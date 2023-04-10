@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.io/path/getextension/
 ---
-## Path::GetExtension(const [String](../../../system/string/)\&) method
+## Path::GetExtension(const String\&) method
 
 
 Returns the extension of the file referenced by the specified path.
@@ -28,7 +28,7 @@ The extension of the file
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Path](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Path](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

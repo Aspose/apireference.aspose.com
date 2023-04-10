@@ -22,7 +22,7 @@ The SSL protocol.
 
 ## See Also
 
-* Enum [SslProtocols](../../../system.security.authentication/sslprotocols/)
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SslProtocols](../../system.security.authentication/sslprotocols/)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

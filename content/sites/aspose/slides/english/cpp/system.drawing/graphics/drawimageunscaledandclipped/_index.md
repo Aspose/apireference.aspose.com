@@ -6,7 +6,7 @@ type: docs
 weight: 495
 url: /cpp/system.drawing/graphics/drawimageunscaledandclipped/
 ---
-## Graphics::DrawImageUnscaledAndClipped(const [SharedPtr](../../../system/sharedptr/)\<[Image](../../image/)\>\&, [Rectangle](../../rectangle/)) method
+## Graphics::DrawImageUnscaledAndClipped(const SharedPtr\<Image\>\&, Rectangle) method
 
 
 NOT IMPLEMENTED.
@@ -18,9 +18,9 @@ void System::Drawing::Graphics::DrawImageUnscaledAndClipped(const SharedPtr<Imag
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Image](../../image/)
-* Class [Rectangle](../../rectangle/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Image](../image/)
+* Class [Rectangle](../rectangle/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

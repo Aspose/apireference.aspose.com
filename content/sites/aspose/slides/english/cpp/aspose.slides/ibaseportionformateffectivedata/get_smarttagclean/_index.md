@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IBasePortionFormatEffectiveData::get_SmartTagClean(
 
 ## See Also
 
-* Class [IBasePortionFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBasePortionFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_maxstalelimit/
 ---
-## CacheControlHeaderValue::set_MaxStaleLimit([Nullable](../../../system/nullable/)\<[TimeSpan](../../../system/timespan/)\>) method
+## CacheControlHeaderValue::set_MaxStaleLimit(Nullable\<TimeSpan\>) method
 
 
 Sets the value in seconds that determines the time during which the client will accept the expired responses.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::CacheControlHeaderValue::set_MaxStaleLimit(Null
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [TimeSpan](../../../system/timespan/)
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [TimeSpan](../../system/timespan/)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

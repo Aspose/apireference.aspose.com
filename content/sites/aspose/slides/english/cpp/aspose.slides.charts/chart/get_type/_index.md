@@ -17,7 +17,7 @@ ChartType Aspose::Slides::Charts::Chart::get_Type() override
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [Chart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [Chart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -21,6 +21,6 @@ int8_t Aspose::Slides::Charts::ChartSeries::get_Overlap() override
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get(set)_Overlap(). 
 ## See Also
 
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

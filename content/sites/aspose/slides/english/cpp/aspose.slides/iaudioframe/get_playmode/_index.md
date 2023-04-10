@@ -17,7 +17,7 @@ virtual AudioPlayModePreset Aspose::Slides::IAudioFrame::get_PlayMode()=0
 
 ## See Also
 
-* Enum [AudioPlayModePreset](../../audioplaymodepreset/)
-* Class [IAudioFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [AudioPlayModePreset](../audioplaymodepreset/)
+* Class [IAudioFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

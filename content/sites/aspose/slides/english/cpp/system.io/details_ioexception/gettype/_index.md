@@ -22,7 +22,7 @@ const System::TypeInfo & System::IO::Details_IOException::GetType() const overri
 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_IOException](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_IOException](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

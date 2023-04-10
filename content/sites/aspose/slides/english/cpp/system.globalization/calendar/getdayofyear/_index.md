@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.globalization/calendar/getdayofyear/
 ---
-## Calendar::GetDayOfYear([DateTime](../../../system/datetime/)) const method
+## Calendar::GetDayOfYear(DateTime) const method
 
 
 Gets day of year for the specified time point.
@@ -28,7 +28,7 @@ Day of year in the time point passed.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ GraphicsUnit System::Drawing::Font::get_Unit()
 
 ## See Also
 
-* Enum [GraphicsUnit](../../graphicsunit/)
-* Class [Font](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [GraphicsUnit](../graphicsunit/)
+* Class [Font](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.export/pdfoptions/
 Provides options that control how a presentation is saved in Pdf format.
 
 ```cpp
-class PdfOptions : public Aspose::Slides::Export::SaveOptions,
-                   public Aspose::Slides::Export::IPdfOptions
+class PdfOptions : public Aspose::Slides::Export::SaveOptions,                   public Aspose::Slides::Export::IPdfOptions
 ```
 
 ## Methods

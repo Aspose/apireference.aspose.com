@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.web/details_httpexception/is/
 ---
-## Details_HttpException::Is(const [System::TypeInfo](../../../system/typeinfo/)\&) const method
+## Details_HttpException::Is(const System::TypeInfo\&) const method
 
 
 
@@ -31,7 +31,7 @@ True if object is of tagged type or its subclass, false otherwise.
 Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_HttpException](../)
-* Namespace [System::Web](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_HttpException](./)
+* Namespace [System::Web](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual void System::Xml::XmlElement::RemoveAllAttributes()
 
 ## See Also
 
-* Class [XmlElement](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlElement](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

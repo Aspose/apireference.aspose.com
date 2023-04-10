@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.animation/itextanimation/set_buildtype/
 ---
-## ITextAnimation::set_BuildType([Aspose::Slides::Animation::BuildType](../../buildtype/)) method
+## ITextAnimation::set_BuildType(Aspose::Slides::Animation::BuildType) method
 
 
 List of build type (for exp. [Paragraph](../../../aspose.slides/paragraph/) 1,2,3, All at Once) of text animation. Write [BuildType](../../buildtype/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Animation::ITextAnimation::set_BuildType(Aspose::Sl
 
 ## See Also
 
-* Enum [BuildType](../../buildtype/)
-* Class [ITextAnimation](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [BuildType](../buildtype/)
+* Class [ITextAnimation](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

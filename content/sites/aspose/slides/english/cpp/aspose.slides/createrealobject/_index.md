@@ -17,7 +17,7 @@ System::SharedPtr<System::Object> Aspose::Slides::CreateRealObject() override
 
 ## See Also
 
-* Typedef [SharedPtr](../../system/sharedptr/)
-* Class [Object](../../system/object/)
-* Namespace [Aspose::Slides](../)
-* Library [Aspose.Slides](../../)
+* Typedef [SharedPtr](../system/sharedptr/)
+* Class [Object](../system/object/)
+* Namespace [Aspose::Slides](./)
+* Library [Aspose.Slides](../)

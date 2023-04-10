@@ -22,8 +22,8 @@ A [IInnerShadowEffectiveData](../../iinnershadoweffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IInnerShadowEffectiveData](../../iinnershadoweffectivedata/)
-* Class [InnerShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IInnerShadowEffectiveData](../iinnershadoweffectivedata/)
+* Class [InnerShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

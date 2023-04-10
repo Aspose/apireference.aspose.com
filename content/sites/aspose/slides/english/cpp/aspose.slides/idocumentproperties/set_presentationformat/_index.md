@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/idocumentproperties/set_presentationformat/
 ---
-## IDocumentProperties::set_PresentationFormat([System::String](../../../system/string/)) method
+## IDocumentProperties::set_PresentationFormat(System::String) method
 
 
 Sets the intended format of a presentation. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_PresentationFormat(System:
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

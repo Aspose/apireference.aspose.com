@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system.drawing.drawing2d/pathgradientbrush/translatetransform/
 ---
-## PathGradientBrush::TranslateTransform(**float**, **float**, [Drawing2D::MatrixOrder](../../matrixorder/)) method
+## PathGradientBrush::TranslateTransform(float, float, Drawing2D::MatrixOrder) method
 
 
 Translates the local geometric transformation by the specified dimensions in the specified order.
@@ -26,7 +26,7 @@ void System::Drawing::Drawing2D::PathGradientBrush::TranslateTransform(float dx,
 
 ## See Also
 
-* Enum [MatrixOrder](../../matrixorder/)
-* Class [PathGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MatrixOrder](../matrixorder/)
+* Class [PathGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

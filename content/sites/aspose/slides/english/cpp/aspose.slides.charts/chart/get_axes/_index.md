@@ -17,8 +17,8 @@ System::SharedPtr<IAxesManager> Aspose::Slides::Charts::Chart::get_Axes() overri
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAxesManager](../../iaxesmanager/)
-* Class [Chart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAxesManager](../iaxesmanager/)
+* Class [Chart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

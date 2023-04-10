@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/igeometryshape/setgeometrypath/
 ---
-## IGeometryShape::SetGeometryPath([System::SharedPtr](../../../system/sharedptr/)\<[IGeometryPath](../../igeometrypath/)\>) method
+## IGeometryShape::SetGeometryPath(System::SharedPtr\<IGeometryPath\>) method
 
 
 Updates shape geometry from [IGeometryPath](../../igeometrypath/) object. Coordinates must be relative to the left top corner of the shape. Changes the type of the shape ([ShapeType](../../shapetype/)) to [ShapeType::Custom](../../shapetype/).
@@ -55,8 +55,8 @@ pres->Save(u"output.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IGeometryPath](../../igeometrypath/)
-* Class [IGeometryShape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IGeometryPath](../igeometrypath/)
+* Class [IGeometryShape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

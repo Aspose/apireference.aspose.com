@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/igeometrypath/set_stroke/
 ---
-## IGeometryPath::set_Stroke(**bool**) method
+## IGeometryPath::set_Stroke(bool) method
 
 
 Sets stroke appearance
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IGeometryPath::set_Stroke(bool value)=0
 
 ## See Also
 
-* Class [IGeometryPath](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGeometryPath](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

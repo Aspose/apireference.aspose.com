@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.export/swfoptions/set_showhiddenslides/
 ---
-## SwfOptions::set_ShowHiddenSlides(**bool**) method
+## SwfOptions::set_ShowHiddenSlides(bool) method
 
 
 Specifies whether the generated document should include hidden slides or not. Default is **false**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Export::SwfOptions::set_ShowHiddenSlides(bool value) overri
 
 ## See Also
 
-* Class [SwfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SwfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

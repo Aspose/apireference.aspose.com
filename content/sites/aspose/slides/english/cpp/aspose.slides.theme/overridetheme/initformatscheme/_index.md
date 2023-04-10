@@ -18,6 +18,6 @@ void Aspose::Slides::Theme::OverrideTheme::InitFormatScheme() override
 
 ## See Also
 
-* Class [OverrideTheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Class [OverrideTheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

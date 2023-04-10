@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.animation/effect/
 Represents animation effect.
 
 ```cpp
-class Effect : public Aspose::Slides::Animation::IEffect,
-               public Aspose::Slides::IDOMObject
+class Effect : public Aspose::Slides::Animation::IEffect,               public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

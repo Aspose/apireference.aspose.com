@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.animation/irotationeffect/set_by/
 ---
-## IRotationEffect::set_By(**float**) method
+## IRotationEffect::set_By(float) method
 
 
 Describes the relative offset value for the animation. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Animation::IRotationEffect::set_By(float value)=0
 
 ## See Also
 
-* Class [IRotationEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IRotationEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

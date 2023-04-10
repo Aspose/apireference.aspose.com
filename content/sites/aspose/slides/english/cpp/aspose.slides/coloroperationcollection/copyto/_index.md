@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/coloroperationcollection/copyto/
 ---
-## ColorOperationCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IColorOperation](../../icoloroperation/)\>\>, **int32_t**) method
+## ColorOperationCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<IColorOperation\>\>, int32_t) method
 
 
 Copies all elements from the collection to the specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::ColorOperationCollection::CopyTo(System::ArrayPtr<System::S
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IColorOperation](../../icoloroperation/)
-* Class [ColorOperationCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IColorOperation](../icoloroperation/)
+* Class [ColorOperationCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ ArrayPtr<TypeInfo> System::Security::Cryptography::Xml::XmlDsigEnvelopedSignatur
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [XmlDsigEnvelopedSignatureTransform](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [XmlDsigEnvelopedSignatureTransform](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.web.services.protocols/soapheader/set_role/
 ---
-## SoapHeader::set_Role([String](../../../system/string/)) method
+## SoapHeader::set_Role(String) method
 
 
 Sets the URI of the SOAP header recipient when SOAP version 1.2 is used.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapHeader::set_Role(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SoapHeader](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SoapHeader](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

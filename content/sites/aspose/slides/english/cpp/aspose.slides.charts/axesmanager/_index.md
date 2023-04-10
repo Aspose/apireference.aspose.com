@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/axesmanager/
 Provides access to chart axes.
 
 ```cpp
-class AxesManager : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,
-                    public Aspose::Slides::Charts::IAxesManager
+class AxesManager : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,                    public Aspose::Slides::Charts::IAxesManager
 ```
 
 ## Methods

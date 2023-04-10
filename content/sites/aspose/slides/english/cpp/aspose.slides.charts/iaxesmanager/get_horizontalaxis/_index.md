@@ -17,8 +17,8 @@ virtual System::SharedPtr<IAxis> Aspose::Slides::Charts::IAxesManager::get_Horiz
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAxis](../../iaxis/)
-* Class [IAxesManager](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAxis](../iaxis/)
+* Class [IAxesManager](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

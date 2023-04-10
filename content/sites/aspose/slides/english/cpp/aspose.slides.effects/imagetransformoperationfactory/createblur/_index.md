@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides.effects/imagetransformoperationfactory/createblur/
 ---
-## ImageTransformOperationFactory::CreateBlur(**double**, **bool**) method
+## ImageTransformOperationFactory::CreateBlur(double, bool) method
 
 
 Creates [Blur](../../blur/) effect.
@@ -29,8 +29,8 @@ System::SharedPtr<IBlur> Aspose::Slides::Effects::ImageTransformOperationFactory
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBlur](../../iblur/)
-* Class [ImageTransformOperationFactory](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBlur](../iblur/)
+* Class [ImageTransformOperationFactory](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

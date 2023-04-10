@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides/effectformat/set_presetshadoweffect/
 ---
-## EffectFormat::set_PresetShadowEffect([System::SharedPtr](../../../system/sharedptr/)\<[Effects::IPresetShadow](../../../aspose.slides.effects/ipresetshadow/)\>) method
+## EffectFormat::set_PresetShadowEffect(System::SharedPtr\<Effects::IPresetShadow\>) method
 
 
 Preset shadow. Write [Effects::IPresetShadow](../../../aspose.slides.effects/ipresetshadow/).
@@ -17,8 +17,8 @@ void Aspose::Slides::EffectFormat::set_PresetShadowEffect(System::SharedPtr<Effe
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPresetShadow](../../../aspose.slides.effects/ipresetshadow/)
-* Class [EffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPresetShadow](../../aspose.slides.effects/ipresetshadow/)
+* Class [EffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

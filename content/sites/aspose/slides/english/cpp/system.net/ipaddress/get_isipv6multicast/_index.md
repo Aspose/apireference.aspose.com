@@ -22,6 +22,6 @@ A value that indicates if the address is a global IPv6 multicast address.
 
 ## See Also
 
-* Class [IPAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

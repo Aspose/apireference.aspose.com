@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system.net.security/sslstream/endread/
 ---
-## SslStream::EndRead([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
+## SslStream::EndRead(System::SharedPtr\<IAsyncResult\>) method
 
 
 Waits until the specified asynchronous read operation completes.
@@ -28,8 +28,8 @@ The number of bytes read during the read operation represented by **asyncResult*
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Class [SslStream](../)
-* Namespace [System::Net::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [SslStream](./)
+* Namespace [System::Net::Security](../)
+* Library [Aspose.Slides](../../)

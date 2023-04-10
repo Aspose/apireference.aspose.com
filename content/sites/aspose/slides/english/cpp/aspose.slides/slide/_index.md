@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/slide/
 Represents a slide in a presentation.
 
 ```cpp
-class Slide : public Aspose::Slides::BaseSlide,
-              public Aspose::Slides::ISlide
+class Slide : public Aspose::Slides::BaseSlide,              public Aspose::Slides::ISlide
 ```
 
 ## Methods

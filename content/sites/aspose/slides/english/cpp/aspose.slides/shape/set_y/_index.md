@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.slides/shape/set_y/
 ---
-## Shape::set_Y(**float**) method
+## Shape::set_Y(float) method
 
 
 Sets the y-coordinate of the upper-left corner of the shape. Write **float**.
@@ -21,6 +21,6 @@ void Aspose::Slides::Shape::set_Y(float value) override
 Returned value is always defined (is not std::numeric_limits<float>::quiet_NaN()). Assigned value must be defined (not std::numeric_limits<float>::quiet_NaN()). You can set undefined values for RawFrame instance properties. 
 ## See Also
 
-* Class [Shape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Shape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

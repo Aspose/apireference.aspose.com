@@ -17,7 +17,7 @@ System::String Aspose::Slides::AdjustValue::get_Name() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [AdjustValue](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [AdjustValue](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

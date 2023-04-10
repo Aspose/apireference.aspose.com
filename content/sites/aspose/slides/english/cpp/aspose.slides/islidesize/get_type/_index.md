@@ -17,7 +17,7 @@ virtual SlideSizeType Aspose::Slides::ISlideSize::get_Type()=0
 
 ## See Also
 
-* Enum [SlideSizeType](../../slidesizetype/)
-* Class [ISlideSize](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SlideSizeType](../slidesizetype/)
+* Class [ISlideSize](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

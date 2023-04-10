@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.theme/imasterthememanager/set_overridetheme/
 ---
-## IMasterThemeManager::set_OverrideTheme([System::SharedPtr](../../../system/sharedptr/)\<[IMasterTheme](../../imastertheme/)\>) method
+## IMasterThemeManager::set_OverrideTheme(System::SharedPtr\<IMasterTheme\>) method
 
 
 Returns the overriding theme object. Write [IMasterTheme](../../imastertheme/).
@@ -17,8 +17,8 @@ virtual void Aspose::Slides::Theme::IMasterThemeManager::set_OverrideTheme(Syste
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMasterTheme](../../imastertheme/)
-* Class [IMasterThemeManager](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMasterTheme](../imastertheme/)
+* Class [IMasterThemeManager](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

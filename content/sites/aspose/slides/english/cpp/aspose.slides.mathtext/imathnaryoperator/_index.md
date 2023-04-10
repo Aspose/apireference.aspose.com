@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.mathtext/imathnaryoperator/
 Specifies an N-ary mathematical object, such as Summation and Integral. It consists of an operator, a base (or operand), and optional upper and lower limits. Examples of N-ary operators are: Summation, Union, Intersection, Integral
 
 ```cpp
-class IMathNaryOperator : public virtual Aspose::Slides::MathText::IMathElement,
-                          public Aspose::Slides::MathText::IMathNaryOperatorProperties
+class IMathNaryOperator : public virtual Aspose::Slides::MathText::IMathElement,                          public Aspose::Slides::MathText::IMathNaryOperatorProperties
 ```
 
 ## Methods

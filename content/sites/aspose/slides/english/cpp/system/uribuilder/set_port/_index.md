@@ -24,6 +24,6 @@ void System::UriBuilder::set_Port(int value)
 
 ## See Also
 
-* Class [UriBuilder](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UriBuilder](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

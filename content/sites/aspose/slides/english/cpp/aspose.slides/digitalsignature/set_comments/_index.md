@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/digitalsignature/set_comments/
 ---
-## DigitalSignature::set_Comments([System::String](../../../system/string/)) method
+## DigitalSignature::set_Comments(System::String) method
 
 
 The purpose of signature. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::DigitalSignature::set_Comments(System::String value) overri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DigitalSignature](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DigitalSignature](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

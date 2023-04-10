@@ -25,7 +25,7 @@ Information about the current type.
 Returns information about the current type. 
 ## See Also
 
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [Details_SecurityException](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [Details_SecurityException](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

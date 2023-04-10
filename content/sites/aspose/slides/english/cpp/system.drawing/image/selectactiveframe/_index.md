@@ -6,7 +6,7 @@ type: docs
 weight: 274
 url: /cpp/system.drawing/image/selectactiveframe/
 ---
-## Image::SelectActiveFrame(const [Imaging::FrameDimensionPtr](../../../system.drawing.imaging/framedimensionptr/)\&, int) method
+## Image::SelectActiveFrame(const Imaging::FrameDimensionPtr\&, int) method
 
 
 Selects the specified frame.
@@ -25,7 +25,7 @@ int System::Drawing::Image::SelectActiveFrame(const Imaging::FrameDimensionPtr &
 
 ## See Also
 
-* Typedef [FrameDimensionPtr](../../../system.drawing.imaging/framedimensionptr/)
-* Class [Image](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [FrameDimensionPtr](../../system.drawing.imaging/framedimensionptr/)
+* Class [Image](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

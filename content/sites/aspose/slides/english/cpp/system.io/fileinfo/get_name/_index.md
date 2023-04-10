@@ -17,7 +17,7 @@ virtual String System::IO::FileInfo::get_Name() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FileInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FileInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

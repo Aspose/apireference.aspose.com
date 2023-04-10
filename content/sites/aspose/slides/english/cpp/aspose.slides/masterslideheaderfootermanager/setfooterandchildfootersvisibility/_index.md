@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/masterslideheaderfootermanager/setfooterandchildfootersvisibility/
 ---
-## MasterSlideHeaderFooterManager::SetFooterAndChildFootersVisibility(**bool**) method
+## MasterSlideHeaderFooterManager::SetFooterAndChildFootersVisibility(bool) method
 
 
 Changes master slide footer placeholder and all child footer placeholders visibility. Child placeholders mean placeholders are contained on depending layout slides and depending slides. Depending layout slides and slides use and depend on master slide.
@@ -24,6 +24,6 @@ void Aspose::Slides::MasterSlideHeaderFooterManager::SetFooterAndChildFootersVis
 
 ## See Also
 
-* Class [MasterSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MasterSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

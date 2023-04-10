@@ -17,7 +17,7 @@ HyperlinkActionType Aspose::Slides::Hyperlink::get_ActionType() override
 
 ## See Also
 
-* Enum [HyperlinkActionType](../../hyperlinkactiontype/)
-* Class [Hyperlink](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [HyperlinkActionType](../hyperlinkactiontype/)
+* Class [Hyperlink](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

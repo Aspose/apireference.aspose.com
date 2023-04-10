@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.net.http.headers/httpcontentheaders/set_lastmodified/
 ---
-## HttpContentHeaders::set_LastModified([Nullable](../../../system/nullable/)\<[DateTimeOffset](../../../system/datetimeoffset/)\>) method
+## HttpContentHeaders::set_LastModified(Nullable\<DateTimeOffset\>) method
 
 
 Sets a value of the 'Last-Modified' header.
@@ -24,8 +24,8 @@ void System::Net::Http::Headers::HttpContentHeaders::set_LastModified(Nullable<D
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [DateTimeOffset](../../../system/datetimeoffset/)
-* Class [HttpContentHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [DateTimeOffset](../../system/datetimeoffset/)
+* Class [HttpContentHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

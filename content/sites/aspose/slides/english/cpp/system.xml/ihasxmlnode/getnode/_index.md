@@ -22,8 +22,8 @@ The [XmlNode](../../xmlnode/) for the current position.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlNode](../../xmlnode/)
-* Class [IHasXmlNode](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlNode](../xmlnode/)
+* Class [IHasXmlNode](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

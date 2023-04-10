@@ -22,6 +22,6 @@ The number of items contained in the [XmlSchemaObjectTable](../).
 
 ## See Also
 
-* Class [XmlSchemaObjectTable](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaObjectTable](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

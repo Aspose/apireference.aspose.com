@@ -36,5 +36,5 @@ The boolean value returned by [operator==()](../operator_equal_equal/) applied t
 
 ## See Also
 
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

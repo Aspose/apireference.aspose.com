@@ -17,6 +17,6 @@ void System::Drawing::TextureBrush::ResetTransform()
 
 ## See Also
 
-* Class [TextureBrush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextureBrush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

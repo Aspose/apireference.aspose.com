@@ -17,6 +17,6 @@ System::Security::Cryptography::Xml::TransformChain::TransformChain()
 
 ## See Also
 
-* Class [TransformChain](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TransformChain](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

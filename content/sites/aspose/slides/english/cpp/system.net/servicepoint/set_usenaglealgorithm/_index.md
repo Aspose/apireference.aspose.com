@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.net/servicepoint/set_usenaglealgorithm/
 ---
-## ServicePoint::set_UseNagleAlgorithm(**bool**) method
+## ServicePoint::set_UseNagleAlgorithm(bool) method
 
 
 Sets a value that indicates if the Nagle algorithm is used by connections managed by the current instance.
@@ -24,6 +24,6 @@ void System::Net::ServicePoint::set_UseNagleAlgorithm(bool value)
 
 ## See Also
 
-* Class [ServicePoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ServicePoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

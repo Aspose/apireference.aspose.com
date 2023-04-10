@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.net/dns/gethostbyname/
 ---
-## Dns::GetHostByName([String](../../../system/string/)) method
+## Dns::GetHostByName(String) method
 
 
 Creates a new IPHostEntry-class instance using the specified host name.
@@ -28,9 +28,9 @@ A newly created IPHostEntry-class instance.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPHostEntry](../../iphostentry/)
-* Class [String](../../../system/string/)
-* Class [Dns](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IPHostEntry](../iphostentry/)
+* Class [String](../../system/string/)
+* Class [Dns](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

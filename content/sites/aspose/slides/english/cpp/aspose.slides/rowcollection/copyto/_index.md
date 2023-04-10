@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/aspose.slides/rowcollection/copyto/
 ---
-## RowCollection::CopyTo([System::ArrayPtr](../../../system/arrayptr/)\<[System::SharedPtr](../../../system/sharedptr/)\<[IRow](../../irow/)\>\>, **int32_t**) method
+## RowCollection::CopyTo(System::ArrayPtr\<System::SharedPtr\<IRow\>\>, int32_t) method
 
 
 Copies all elements from the collection to the specified array.
@@ -25,9 +25,9 @@ void Aspose::Slides::RowCollection::CopyTo(System::ArrayPtr<System::SharedPtr<IR
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IRow](../../irow/)
-* Class [RowCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IRow](../irow/)
+* Class [RowCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.charts/ichart/set_hastitle/
 ---
-## IChart::set_HasTitle(**bool**) method
+## IChart::set_HasTitle(bool) method
 
 
 Determines whether a chart has a visible title. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChart::set_HasTitle(bool value)=0
 
 ## See Also
 
-* Class [IChart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual float Aspose::Slides::Effects::ITintEffectiveData::get_Amount()=0
 
 ## See Also
 
-* Class [ITintEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITintEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

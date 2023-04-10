@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.security.cryptography/rsacryptoserviceprovider/set_persistkeyincsp/
 ---
-## RSACryptoServiceProvider::set_PersistKeyInCsp(**bool**) method
+## RSACryptoServiceProvider::set_PersistKeyInCsp(bool) method
 
 
 Defines whether key is persisted in CSP object.
@@ -24,6 +24,6 @@ void System::Security::Cryptography::RSACryptoServiceProvider::set_PersistKeyInC
 
 ## See Also
 
-* Class [RSACryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RSACryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

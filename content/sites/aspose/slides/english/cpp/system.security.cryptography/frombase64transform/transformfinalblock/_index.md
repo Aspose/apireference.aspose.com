@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.security.cryptography/frombase64transform/transformfinalblock/
 ---
-## FromBase64Transform::TransformFinalBlock([System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, **int32_t**, **int32_t**) method
+## FromBase64Transform::TransformFinalBlock(System::ArrayPtr\<uint8_t\>, int32_t, int32_t) method
 
 
 
@@ -17,7 +17,7 @@ System::ArrayPtr<uint8_t> System::Security::Cryptography::FromBase64Transform::T
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [FromBase64Transform](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [FromBase64Transform](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

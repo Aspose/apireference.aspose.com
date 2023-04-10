@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.globalization/daylighttime/daylighttime/
 ---
-## DaylightTime::DaylightTime([DateTime](../../../system/datetime/), [DateTime](../../../system/datetime/), [TimeSpan](../../../system/timespan/)) constructor
+## DaylightTime::DaylightTime(DateTime, DateTime, TimeSpan) constructor
 
 
 RTTI information.
@@ -29,8 +29,8 @@ System::Globalization::DaylightTime::DaylightTime(DateTime start, DateTime end, 
 Constructor. 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [TimeSpan](../../../system/timespan/)
-* Class [DaylightTime](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [TimeSpan](../../system/timespan/)
+* Class [DaylightTime](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

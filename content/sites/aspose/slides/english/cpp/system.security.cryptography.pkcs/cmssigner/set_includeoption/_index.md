@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.security.cryptography.pkcs/cmssigner/set_includeoption/
 ---
-## CmsSigner::set_IncludeOption([X509Certificates::X509IncludeOption](../../../system.security.cryptography.x509certificates/x509includeoption/)) method
+## CmsSigner::set_IncludeOption(X509Certificates::X509IncludeOption) method
 
 
 Specifies which certificates from the chain will be included into the signature.
@@ -24,7 +24,7 @@ void System::Security::Cryptography::Pkcs::CmsSigner::set_IncludeOption(X509Cert
 
 ## See Also
 
-* Enum [X509IncludeOption](../../../system.security.cryptography.x509certificates/x509includeoption/)
-* Class [CmsSigner](../)
-* Namespace [System::Security::Cryptography::Pkcs](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [X509IncludeOption](../../system.security.cryptography.x509certificates/x509includeoption/)
+* Class [CmsSigner](./)
+* Namespace [System::Security::Cryptography::Pkcs](../)
+* Library [Aspose.Slides](../../)

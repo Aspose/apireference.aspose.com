@@ -17,6 +17,6 @@ void System::Timers::Timer::Start()
 
 ## See Also
 
-* Class [Timer](../)
-* Namespace [System::Timers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Timer](./)
+* Namespace [System::Timers](../)
+* Library [Aspose.Slides](../../)

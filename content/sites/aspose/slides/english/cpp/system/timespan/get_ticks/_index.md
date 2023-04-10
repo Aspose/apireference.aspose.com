@@ -17,6 +17,6 @@ constexpr int64_t System::TimeSpan::get_Ticks() const
 
 ## See Also
 
-* Class [TimeSpan](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

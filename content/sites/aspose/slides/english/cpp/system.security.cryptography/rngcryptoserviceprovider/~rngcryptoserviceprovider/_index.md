@@ -17,6 +17,6 @@ virtual System::Security::Cryptography::RNGCryptoServiceProvider::~RNGCryptoServ
 
 ## See Also
 
-* Class [RNGCryptoServiceProvider](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [RNGCryptoServiceProvider](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

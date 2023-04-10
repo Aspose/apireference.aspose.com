@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.threading/thread/set_currentuiculture/
 ---
-## Thread::set_CurrentUICulture(const [SharedPtr](../../../system/sharedptr/)\<[Globalization::CultureInfo](../../../system.globalization/cultureinfo/)\>\&) method
+## Thread::set_CurrentUICulture(const SharedPtr\<Globalization::CultureInfo\>\&) method
 
 
 Sets user interface culture used by thread.
@@ -17,8 +17,8 @@ void System::Threading::Thread::set_CurrentUICulture(const SharedPtr<Globalizati
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CultureInfo](../../../system.globalization/cultureinfo/)
-* Class [Thread](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CultureInfo](../../system.globalization/cultureinfo/)
+* Class [Thread](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

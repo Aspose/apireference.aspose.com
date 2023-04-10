@@ -17,7 +17,7 @@ virtual LineAlignment Aspose::Slides::ILineFormatEffectiveData::get_Alignment()=
 
 ## See Also
 
-* Enum [LineAlignment](../../linealignment/)
-* Class [ILineFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineAlignment](../linealignment/)
+* Class [ILineFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

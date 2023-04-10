@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system.globalization/numberformatinfo/set_currencydecimalseparator/
 ---
-## NumberFormatInfo::set_CurrencyDecimalSeparator(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_CurrencyDecimalSeparator(const String\&) method
 
 
 Sets currency decimal separator.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_CurrencyDecimalSeparator(const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

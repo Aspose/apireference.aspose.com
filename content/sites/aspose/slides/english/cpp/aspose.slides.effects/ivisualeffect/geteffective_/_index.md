@@ -17,8 +17,8 @@ virtual ASPOSE_SLIDES_LOCAL_API System::SharedPtr<IEffectEffectiveData> Aspose::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffectEffectiveData](../../ieffecteffectivedata/)
-* Class [IVisualEffect](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffectEffectiveData](../ieffecteffectivedata/)
+* Class [IVisualEffect](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ void System::Collections::Invalidatable::Invalidate()
 
 ## See Also
 
-* Class [Invalidatable](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Invalidatable](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

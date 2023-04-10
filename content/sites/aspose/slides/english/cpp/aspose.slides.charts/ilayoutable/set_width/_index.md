@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.charts/ilayoutable/set_width/
 ---
-## ILayoutable::set_Width(**float**) method
+## ILayoutable::set_Width(float) method
 
 
 Specifies the width of the chart element as a fraction of the width of the chart. Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::ILayoutable::set_Width(float value)=0
 
 ## See Also
 
-* Class [ILayoutable](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ILayoutable](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

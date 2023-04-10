@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.theme/extracolorscheme/
 Represents an additional color scheme which can be assigned to a slide.
 
 ```cpp
-class ExtraColorScheme : public Aspose::Slides::Theme::IExtraColorScheme,
-                         public Aspose::Slides::IDOMObject
+class ExtraColorScheme : public Aspose::Slides::Theme::IExtraColorScheme,                         public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

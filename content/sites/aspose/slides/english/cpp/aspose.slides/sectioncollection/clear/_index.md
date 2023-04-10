@@ -17,6 +17,6 @@ void Aspose::Slides::SectionCollection::Clear() override
 
 ## See Also
 
-* Class [SectionCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SectionCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

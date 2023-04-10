@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.globalization/calendar/addmilliseconds/
 ---
-## Calendar::AddMilliseconds([DateTime](../../../system/datetime/), **double**) const method
+## Calendar::AddMilliseconds(DateTime, double) const method
 
 
 Adds milliseconds to time point.
@@ -29,7 +29,7 @@ Time point after calculation is done.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [Calendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [Calendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

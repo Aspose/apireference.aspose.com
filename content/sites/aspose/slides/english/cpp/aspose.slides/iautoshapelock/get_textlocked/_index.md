@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IAutoShapeLock::get_TextLocked()=0
 
 ## See Also
 
-* Class [IAutoShapeLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IAutoShapeLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

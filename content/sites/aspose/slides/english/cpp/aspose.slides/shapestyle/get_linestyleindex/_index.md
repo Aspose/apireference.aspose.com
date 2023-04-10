@@ -17,6 +17,6 @@ uint16_t Aspose::Slides::ShapeStyle::get_LineStyleIndex() override
 
 ## See Also
 
-* Class [ShapeStyle](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ShapeStyle](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

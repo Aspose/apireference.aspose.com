@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.animation/ibehaviorpropertycollection/contains/
 ---
-## IBehaviorPropertyCollection::Contains(const [System::String](../../../system/string/)\&) const method
+## IBehaviorPropertyCollection::Contains(const System::String\&) const method
 
 
 Determines whether the [ICollection](../../../system.collections.generic/icollection/) contains a specific value.
@@ -28,7 +28,7 @@ true if *propertyValue*  is found in the [ICollection](../../../system.collectio
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IBehaviorPropertyCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IBehaviorPropertyCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ bool Aspose::Slides::FontFallBackRulesCollection::get_IsSynchronized() override
 
 ## See Also
 
-* Class [FontFallBackRulesCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FontFallBackRulesCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

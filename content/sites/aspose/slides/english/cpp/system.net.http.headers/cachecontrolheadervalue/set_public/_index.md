@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.net.http.headers/cachecontrolheadervalue/set_public/
 ---
-## CacheControlHeaderValue::set_Public(**bool**) method
+## CacheControlHeaderValue::set_Public(bool) method
 
 
 Sets the value that determines if an HTTP response can be cached by any cache.
@@ -24,6 +24,6 @@ void System::Net::Http::Headers::CacheControlHeaderValue::set_Public(bool value)
 
 ## See Also
 
-* Class [CacheControlHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CacheControlHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

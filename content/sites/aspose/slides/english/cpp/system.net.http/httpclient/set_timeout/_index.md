@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net.http/httpclient/set_timeout/
 ---
-## HttpClient::set_Timeout([TimeSpan](../../../system/timespan/)) method
+## HttpClient::set_Timeout(TimeSpan) method
 
 
 Sets the timespan to wait before the request times out.
@@ -24,7 +24,7 @@ void System::Net::Http::HttpClient::set_Timeout(TimeSpan value)
 
 ## See Also
 
-* Class [TimeSpan](../../../system/timespan/)
-* Class [HttpClient](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](../../system/timespan/)
+* Class [HttpClient](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

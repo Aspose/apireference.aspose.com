@@ -17,8 +17,8 @@ virtual System::SharedPtr<ILayoutSlide> Aspose::Slides::ISlide::get_LayoutSlide(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ILayoutSlide](../../ilayoutslide/)
-* Class [ISlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ILayoutSlide](../ilayoutslide/)
+* Class [ISlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

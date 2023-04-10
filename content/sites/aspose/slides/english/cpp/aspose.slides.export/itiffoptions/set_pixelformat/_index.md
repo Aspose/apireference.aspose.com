@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.export/itiffoptions/set_pixelformat/
 ---
-## ITiffOptions::set_PixelFormat([ImagePixelFormat](../../imagepixelformat/)) method
+## ITiffOptions::set_PixelFormat(ImagePixelFormat) method
 
 
 Specifies the pixel format for the generated images. Write [ImagePixelFormat](../../imagepixelformat/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Export::ITiffOptions::set_PixelFormat(ImagePixelFor
 
 ## See Also
 
-* Enum [ImagePixelFormat](../../imagepixelformat/)
-* Class [ITiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ImagePixelFormat](../imagepixelformat/)
+* Class [ITiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

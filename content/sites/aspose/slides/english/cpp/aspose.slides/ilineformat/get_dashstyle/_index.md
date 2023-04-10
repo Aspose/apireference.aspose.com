@@ -17,7 +17,7 @@ virtual LineDashStyle Aspose::Slides::ILineFormat::get_DashStyle()=0
 
 ## See Also
 
-* Enum [LineDashStyle](../../linedashstyle/)
-* Class [ILineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineDashStyle](../linedashstyle/)
+* Class [ILineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

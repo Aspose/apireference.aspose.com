@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/blur/set_radius/
 ---
-## Blur::set_Radius(**double**) method
+## Blur::set_Radius(double) method
 
 
 Sets blur radius. Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::Effects::Blur::set_Radius(double value) override
 
 ## See Also
 
-* Class [Blur](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Blur](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ An iterator pointing to the theoretical const-qualified element placed after the
 
 ## See Also
 
-* Typedef [const_iterator](../../ienumerable/const_iterator/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [const_iterator](../ienumerable/const_iterator/)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

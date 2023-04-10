@@ -22,8 +22,8 @@ An [XmlSchemaElement](../../xmlschemaelement/) that corresponds to this validate
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaElement](../../xmlschemaelement/)
-* Class [IXmlSchemaInfo](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaElement](../xmlschemaelement/)
+* Class [IXmlSchemaInfo](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

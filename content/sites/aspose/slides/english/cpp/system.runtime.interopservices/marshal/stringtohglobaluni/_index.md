@@ -6,7 +6,7 @@ type: docs
 weight: 209
 url: /cpp/system.runtime.interopservices/marshal/stringtohglobaluni/
 ---
-## Marshal::StringToHGlobalUni(const [String](../../../system/string/)\&) method
+## Marshal::StringToHGlobalUni(const String\&) method
 
 
 Copies the contents of a specified string into unmanaged memory.
@@ -28,7 +28,7 @@ The address, in unmanaged memory.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Marshal](../)
-* Namespace [System::Runtime::InteropServices](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Marshal](./)
+* Namespace [System::Runtime::InteropServices](../)
+* Library [Aspose.Slides](../../)

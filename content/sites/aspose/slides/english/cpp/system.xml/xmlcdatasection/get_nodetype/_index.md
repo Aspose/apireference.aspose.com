@@ -22,7 +22,7 @@ The node type. For CDATA nodes, the value is [XmlNodeType::CDATA](../../xmlnodet
 
 ## See Also
 
-* Enum [XmlNodeType](../../xmlnodetype/)
-* Class [XmlCDataSection](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlNodeType](../xmlnodetype/)
+* Class [XmlCDataSection](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual double Aspose::Slides::IColumn::get_Width()=0
 
 ## See Also
 
-* Class [IColumn](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IColumn](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

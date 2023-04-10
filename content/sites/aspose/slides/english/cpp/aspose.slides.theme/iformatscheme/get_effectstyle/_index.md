@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.theme/iformatscheme/get_effectstyle/
 ---
-## IFormatScheme::get_EffectStyle(**int32_t**) method
+## IFormatScheme::get_EffectStyle(int32_t) method
 
 
 Returns the theme-defined effect style at the specified index. Read-only [Aspose::Slides::Theme::IEffectStyle](../../ieffectstyle/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IEffectStyle> Aspose::Slides::Theme::IFormatScheme::ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEffectStyle](../../ieffectstyle/)
-* Class [IFormatScheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEffectStyle](../ieffectstyle/)
+* Class [IFormatScheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

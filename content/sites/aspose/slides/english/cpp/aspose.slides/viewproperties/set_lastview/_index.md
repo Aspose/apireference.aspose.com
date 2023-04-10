@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/viewproperties/set_lastview/
 ---
-## ViewProperties::set_LastView([ViewType](../../viewtype/)) method
+## ViewProperties::set_LastView(ViewType) method
 
 
 Specifies the view mode that was used when the presentation document was last saved. Write [ViewType](../../viewtype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::ViewProperties::set_LastView(ViewType value) override
 
 ## See Also
 
-* Enum [ViewType](../../viewtype/)
-* Class [ViewProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ViewType](../viewtype/)
+* Class [ViewProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

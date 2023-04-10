@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.text.regularexpressions/group/addcapture/
 ---
-## Group::AddCapture(const [CapturePtr](../../captureptr/)\&) method
+## Group::AddCapture(const CapturePtr\&) method
 
 
 Adds capture into group.
@@ -24,7 +24,7 @@ void System::Text::RegularExpressions::Group::AddCapture(const CapturePtr &item)
 
 ## See Also
 
-* Typedef [CapturePtr](../../captureptr/)
-* Class [Group](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [CapturePtr](../captureptr/)
+* Class [Group](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

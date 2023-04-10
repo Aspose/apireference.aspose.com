@@ -17,8 +17,8 @@ System::SharedPtr<IFormatScheme> Aspose::Slides::Theme::MasterTheme::get_FormatS
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFormatScheme](../../iformatscheme/)
-* Class [MasterTheme](../)
-* Namespace [Aspose::Slides::Theme](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFormatScheme](../iformatscheme/)
+* Class [MasterTheme](./)
+* Namespace [Aspose::Slides::Theme](../)
+* Library [Aspose.Slides](../../)

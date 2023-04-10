@@ -17,6 +17,6 @@ uint32_t Aspose::Slides::Export::TiffOptions::get_DpiY() override
 
 ## See Also
 
-* Class [TiffOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TiffOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

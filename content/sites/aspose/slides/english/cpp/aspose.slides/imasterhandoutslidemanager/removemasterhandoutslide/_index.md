@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IMasterHandoutSlideManager::RemoveMasterHandoutSlid
 
 ## See Also
 
-* Class [IMasterHandoutSlideManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IMasterHandoutSlideManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

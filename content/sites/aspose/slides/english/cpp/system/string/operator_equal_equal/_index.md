@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/system/string/operator_equal_equal/
 ---
-## String::operator==(const [String](../)\&) const method
+## String::operator==(const String\&) const method
 
 
 Equality comparison operator.
@@ -26,12 +26,6 @@ bool System::String::operator==(const String &str) const
 
 true if both strings are null or both are not null and match, false otherwise.
 
-## See Also
-
-* Class [String](../)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## String::operator==(std::nullptr_t) const method
 
 
@@ -48,6 +42,6 @@ true if string is null, false otherwise.
 
 ## See Also
 
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/isectionslidecollection/idx_get/
 ---
-## ISectionSlideCollection::idx_get(**int32_t**) method
+## ISectionSlideCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [ISlide](../../islide/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<ISlide> Aspose::Slides::ISectionSlideCollection::idx_g
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISlide](../../islide/)
-* Class [ISectionSlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISlide](../islide/)
+* Class [ISectionSlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

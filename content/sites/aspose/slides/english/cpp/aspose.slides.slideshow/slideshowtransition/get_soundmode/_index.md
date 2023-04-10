@@ -17,7 +17,7 @@ TransitionSoundMode Aspose::Slides::SlideShow::SlideShowTransition::get_SoundMod
 
 ## See Also
 
-* Enum [TransitionSoundMode](../../transitionsoundmode/)
-* Class [SlideShowTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionSoundMode](../transitionsoundmode/)
+* Class [SlideShowTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ Aspose::Slides::Animation::MotionPath::MotionPath()
 
 ## See Also
 
-* Class [MotionPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MotionPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

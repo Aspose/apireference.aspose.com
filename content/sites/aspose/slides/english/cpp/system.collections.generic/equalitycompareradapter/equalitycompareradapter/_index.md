@@ -15,12 +15,7 @@ Creates adapter not using any comparator.
 System::Collections::Generic::EqualityComparerAdapter<T>::EqualityComparerAdapter()
 ```
 
-## See Also
-
-* Struct [EqualityComparerAdapter](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
-## EqualityComparerAdapter::EqualityComparerAdapter(const [SharedPtr](../../../system/sharedptr/)\<[IEqualityComparer](../../iequalitycomparer/)\<T\>\>\&) constructor
+## EqualityComparerAdapter::EqualityComparerAdapter(const SharedPtr\<IEqualityComparer\<T\>\>\&) constructor
 
 
 Creates adapter with given comparator.
@@ -38,8 +33,8 @@ System::Collections::Generic::EqualityComparerAdapter<T>::EqualityComparerAdapte
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEqualityComparer](../../iequalitycomparer/)
-* Struct [EqualityComparerAdapter](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEqualityComparer](../iequalitycomparer/)
+* Struct [EqualityComparerAdapter](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

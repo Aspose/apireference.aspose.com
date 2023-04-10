@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides.effects/ireflection/set_rectanglealign/
 ---
-## IReflection::set_RectangleAlign([RectangleAlignment](../../../aspose.slides/rectanglealignment/)) method
+## IReflection::set_RectangleAlign(RectangleAlignment) method
 
 
 Rectangle alignment. Write [RectangleAlignment](../../../aspose.slides/rectanglealignment/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::Effects::IReflection::set_RectangleAlign(RectangleA
 
 ## See Also
 
-* Enum [RectangleAlignment](../../../aspose.slides/rectanglealignment/)
-* Class [IReflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [RectangleAlignment](../../aspose.slides/rectanglealignment/)
+* Class [IReflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

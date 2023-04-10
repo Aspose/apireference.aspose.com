@@ -22,8 +22,8 @@ The collection of simple type base values.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObjectCollection](../../xmlschemaobjectcollection/)
-* Class [XmlSchemaSimpleTypeUnion](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObjectCollection](../xmlschemaobjectcollection/)
+* Class [XmlSchemaSimpleTypeUnion](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

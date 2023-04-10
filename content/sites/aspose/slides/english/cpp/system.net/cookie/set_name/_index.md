@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.net/cookie/set_name/
 ---
-## Cookie::set_Name([String](../../../system/string/)) method
+## Cookie::set_Name(String) method
 
 
 Sets the cookie's name.
@@ -24,7 +24,7 @@ void System::Net::Cookie::set_Name(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

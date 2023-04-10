@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic.details/groupenumerable/groupenumerable/
 ---
-## GroupEnumerable::GroupEnumerable([SharedPtr](../../../system/sharedptr/)\<[IEnumerable](../../../system.collections.generic/ienumerable/)\<Source\>\>, const [Func](../../../system/func/)\<Source, Key\>\&) constructor
+## GroupEnumerable::GroupEnumerable(SharedPtr\<IEnumerable\<Source\>\>, const Func\<Source, Key\>\&) constructor
 
 
 
@@ -17,9 +17,9 @@ System::Collections::Generic::Details::GroupEnumerable<Source, Key>::GroupEnumer
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
-* Class [Func](../../../system/func/)
-* Class [GroupEnumerable](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
+* Class [Func](../../system/func/)
+* Class [GroupEnumerable](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

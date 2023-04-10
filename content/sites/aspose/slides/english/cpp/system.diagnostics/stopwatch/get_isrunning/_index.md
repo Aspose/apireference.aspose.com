@@ -22,6 +22,6 @@ True if we're measuring time now, false otherwise.
 
 ## See Also
 
-* Class [Stopwatch](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Stopwatch](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

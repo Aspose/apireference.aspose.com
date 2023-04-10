@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml.schema/xmlschemaobjecttable/idx_get/
 ---
-## XmlSchemaObjectTable::idx_get(const [SharedPtr](../../../system/sharedptr/)\<[XmlQualifiedName](../../../system.xml/xmlqualifiedname/)\>\&) method
+## XmlSchemaObjectTable::idx_get(const SharedPtr\<XmlQualifiedName\>\&) method
 
 
 Returns the element in the [XmlSchemaObjectTable](../) specified by qualified name.
@@ -28,9 +28,9 @@ The [XmlSchemaObject](../../xmlschemaobject/) of the element in the [XmlSchemaOb
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObject](../../xmlschemaobject/)
-* Class [XmlQualifiedName](../../../system.xml/xmlqualifiedname/)
-* Class [XmlSchemaObjectTable](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObject](../xmlschemaobject/)
+* Class [XmlQualifiedName](../../system.xml/xmlqualifiedname/)
+* Class [XmlSchemaObjectTable](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

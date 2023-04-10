@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.effects/ireflection/set_startposalpha/
 ---
-## IReflection::set_StartPosAlpha(**float**) method
+## IReflection::set_StartPosAlpha(float) method
 
 
 Specifies the start position (along the alpha gradient ramp) of the start alpha value (percents). Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IReflection::set_StartPosAlpha(float value
 
 ## See Also
 
-* Class [IReflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IReflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/system/decimal/operator_not_equal/
 ---
-## Decimal::operator!=(const [Decimal](../)\&) const method
+## Decimal::operator!=(const Decimal\&) const method
 
 
 Determines if the values represented by the current object and the specified object are not equal.
@@ -26,12 +26,6 @@ bool System::Decimal::operator!=(const Decimal &d) const
 
 True if the value represented by the current and the specified objects are not equal, otherwise - false
 
-## See Also
-
-* Class [Decimal](../)
-* Class [Decimal](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
 ## Decimal::operator!=(std::nullptr_t) const method
 
 
@@ -48,6 +42,6 @@ True if the value represented by the current object is different from 0, otherwi
 
 ## See Also
 
-* Class [Decimal](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Decimal](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

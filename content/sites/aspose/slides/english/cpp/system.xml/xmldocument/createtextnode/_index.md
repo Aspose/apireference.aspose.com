@@ -6,7 +6,7 @@ type: docs
 weight: 391
 url: /cpp/system.xml/xmldocument/createtextnode/
 ---
-## XmlDocument::CreateTextNode(const [String](../../../system/string/)\&) method
+## XmlDocument::CreateTextNode(const String\&) method
 
 
 Creates an [XmlText](../../xmltext/) with the specified text.
@@ -28,9 +28,9 @@ The new [XmlText](../../xmltext/) node.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlText](../../xmltext/)
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlText](../xmltext/)
+* Class [String](../../system/string/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

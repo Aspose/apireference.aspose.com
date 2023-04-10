@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.animation/effect/set_timing/
 ---
-## Effect::set_Timing([System::SharedPtr](../../../system/sharedptr/)\<[ITiming](../../itiming/)\>) method
+## Effect::set_Timing(System::SharedPtr\<ITiming\>) method
 
 
 Defines timing value for effect. Write [ITiming](../../itiming/).
@@ -17,8 +17,8 @@ void Aspose::Slides::Animation::Effect::set_Timing(System::SharedPtr<ITiming> va
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITiming](../../itiming/)
-* Class [Effect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITiming](../itiming/)
+* Class [Effect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

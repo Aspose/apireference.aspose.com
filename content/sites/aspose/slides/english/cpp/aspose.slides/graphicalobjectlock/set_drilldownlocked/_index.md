@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/graphicalobjectlock/set_drilldownlocked/
 ---
-## GraphicalObjectLock::set_DrilldownLocked(**bool**) method
+## GraphicalObjectLock::set_DrilldownLocked(bool) method
 
 
 Determines whether selecting subshapes of this object is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::GraphicalObjectLock::set_DrilldownLocked(bool value) overri
 
 ## See Also
 
-* Class [GraphicalObjectLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GraphicalObjectLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

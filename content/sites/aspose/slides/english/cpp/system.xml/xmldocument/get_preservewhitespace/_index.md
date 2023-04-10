@@ -22,6 +22,6 @@ bool System::Xml::XmlDocument::get_PreserveWhitespace()
 
 ## See Also
 
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

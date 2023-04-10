@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/system.globalization/numberformatinfo/set_positiveinfinitysymbol/
 ---
-## NumberFormatInfo::set_PositiveInfinitySymbol(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_PositiveInfinitySymbol(const String\&) method
 
 
 Sets positive infinity symbol.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_PositiveInfinitySymbol(const S
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

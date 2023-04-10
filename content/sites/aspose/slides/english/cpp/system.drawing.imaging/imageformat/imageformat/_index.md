@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.drawing.imaging/imageformat/imageformat/
 ---
-## ImageFormat::ImageFormat(const [System::Guid](../../../system/guid/)\&) constructor
+## ImageFormat::ImageFormat(const System::Guid\&) constructor
 
 
 Constructs an instance of [ImageFormat](../) class that represents an image format format associated with the specified GUID.
@@ -24,7 +24,7 @@ System::Drawing::Imaging::ImageFormat::ImageFormat(const System::Guid &guid)
 
 ## See Also
 
-* Class [Guid](../../../system/guid/)
-* Class [ImageFormat](../)
-* Namespace [System::Drawing::Imaging](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Guid](../../system/guid/)
+* Class [ImageFormat](./)
+* Namespace [System::Drawing::Imaging](../)
+* Library [Aspose.Slides](../../)

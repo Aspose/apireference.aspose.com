@@ -17,6 +17,6 @@ virtual bool Aspose::Slides::IGroupShapeLock::get_SizeLocked()=0
 
 ## See Also
 
-* Class [IGroupShapeLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IGroupShapeLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

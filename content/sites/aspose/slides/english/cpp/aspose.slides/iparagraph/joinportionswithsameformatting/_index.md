@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IParagraph::JoinPortionsWithSameFormatting()=0
 
 ## See Also
 
-* Class [IParagraph](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IParagraph](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ String System::Net::IPEndPoint::ToString() const override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IPEndPoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IPEndPoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

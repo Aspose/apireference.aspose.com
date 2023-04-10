@@ -22,8 +22,8 @@ A [IAlphaBiLevelEffectiveData](../../ialphabileveleffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAlphaBiLevelEffectiveData](../../ialphabileveleffectivedata/)
-* Class [AlphaBiLevel](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAlphaBiLevelEffectiveData](../ialphabileveleffectivedata/)
+* Class [AlphaBiLevel](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

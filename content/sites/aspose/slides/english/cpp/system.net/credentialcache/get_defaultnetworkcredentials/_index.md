@@ -17,8 +17,8 @@ static System::SharedPtr<NetworkCredential> System::Net::CredentialCache::get_De
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NetworkCredential](../../networkcredential/)
-* Class [CredentialCache](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [NetworkCredential](../networkcredential/)
+* Class [CredentialCache](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

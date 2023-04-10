@@ -17,7 +17,7 @@ MaterialPresetType Aspose::Slides::ThreeDFormat::get_Material() override
 
 ## See Also
 
-* Enum [MaterialPresetType](../../materialpresettype/)
-* Class [ThreeDFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MaterialPresetType](../materialpresettype/)
+* Class [ThreeDFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

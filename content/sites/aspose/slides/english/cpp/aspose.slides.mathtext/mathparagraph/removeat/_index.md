@@ -6,7 +6,7 @@ type: docs
 weight: 157
 url: /cpp/aspose.slides.mathtext/mathparagraph/removeat/
 ---
-## MathParagraph::RemoveAt(**int32_t**) method
+## MathParagraph::RemoveAt(int32_t) method
 
 
 Removes an item at the specified index of the collection.
@@ -36,6 +36,6 @@ mathParagraph->RemoveAt(0);
 
 ## See Also
 
-* Class [MathParagraph](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Class [MathParagraph](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

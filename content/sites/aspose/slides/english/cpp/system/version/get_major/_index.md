@@ -17,6 +17,6 @@ int System::Version::get_Major() const
 
 ## See Also
 
-* Class [Version](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Version](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

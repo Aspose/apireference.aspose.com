@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::Animation::ISequence::get_Count()=0
 
 ## See Also
 
-* Class [ISequence](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISequence](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

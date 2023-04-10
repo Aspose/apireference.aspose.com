@@ -6,7 +6,7 @@ type: docs
 weight: 1015
 url: /cpp/system.drawing/graphics/addmetafilecomment/
 ---
-## Graphics::AddMetafileComment(const [System::ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>\&) method
+## Graphics::AddMetafileComment(const System::ArrayPtr\<uint8_t\>\&) method
 
 
 NOT IMPLEMENTED.
@@ -18,7 +18,7 @@ void System::Drawing::Graphics::AddMetafileComment(const System::ArrayPtr<uint8_
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

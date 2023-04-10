@@ -26,7 +26,7 @@ matrix->set_RowGapRule(MathSpacingRules::OneAndHalfSpacingGap);
 
 ## See Also
 
-* Enum [MathSpacingRules](../../mathspacingrules/)
-* Class [MathMatrix](../)
-* Namespace [Aspose::Slides::MathText](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MathSpacingRules](../mathspacingrules/)
+* Class [MathMatrix](./)
+* Namespace [Aspose::Slides::MathText](../)
+* Library [Aspose.Slides](../../)

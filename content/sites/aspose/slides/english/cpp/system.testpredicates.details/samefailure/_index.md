@@ -38,5 +38,5 @@ template<typename T1,typename T2> testing::AssertionResult System::TestPredicate
 
 ## See Also
 
-* Namespace [System::TestPredicates::Details](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System::TestPredicates::Details](./)
+* Library [Aspose.Slides](../)

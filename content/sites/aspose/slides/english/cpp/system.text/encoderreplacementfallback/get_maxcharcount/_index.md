@@ -22,6 +22,6 @@ Replacement string length.
 
 ## See Also
 
-* Class [EncoderReplacementFallback](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EncoderReplacementFallback](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.export/inotescommentslayoutingoptions/set_commentsareacolor/
 ---
-## INotesCommentsLayoutingOptions::set_CommentsAreaColor([System::Drawing::Color](../../../system.drawing/color/)) method
+## INotesCommentsLayoutingOptions::set_CommentsAreaColor(System::Drawing::Color) method
 
 
 Sets the color of comments area (Applies only if comments are displayed on the right).
@@ -21,7 +21,7 @@ virtual void Aspose::Slides::Export::INotesCommentsLayoutingOptions::set_Comment
 Default is **Color::get_SkyBlue**. 
 ## See Also
 
-* Class [Color](../../../system.drawing/color/)
-* Class [INotesCommentsLayoutingOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../../system.drawing/color/)
+* Class [INotesCommentsLayoutingOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

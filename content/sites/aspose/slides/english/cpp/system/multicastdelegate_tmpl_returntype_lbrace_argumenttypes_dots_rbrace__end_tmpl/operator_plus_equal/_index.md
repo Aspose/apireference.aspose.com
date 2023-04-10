@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system/multicastdelegate_tmpl_returntype_lbrace_argumenttypes_dots_rbrace__end_tmpl/operator_plus_equal/
 ---
-## MulticastDelegate< ReturnType(ArgumentTypes...)>::operator+=([Callback](../callback/)) method
+## MulticastDelegate< ReturnType(ArgumentTypes...)>::operator+=(Callback) method
 
 
 Adds the specified delegate to the collection.
@@ -28,7 +28,8 @@ A reference to the self
 
 ## See Also
 
-* Typedef [Callback](../callback/)
-* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [Callback](./callback/)
+* Method [MulticastDelegate](./multicastdelegate/)
+* Class [MulticastDelegate< ReturnType(ArgumentTypes...)>](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

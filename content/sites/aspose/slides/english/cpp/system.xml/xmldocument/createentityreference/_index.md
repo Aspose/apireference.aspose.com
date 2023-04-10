@@ -6,7 +6,7 @@ type: docs
 weight: 352
 url: /cpp/system.xml/xmldocument/createentityreference/
 ---
-## XmlDocument::CreateEntityReference(const [String](../../../system/string/)\&) method
+## XmlDocument::CreateEntityReference(const String\&) method
 
 
 Creates an [XmlEntityReference](../../xmlentityreference/) with the specified name.
@@ -28,9 +28,9 @@ The new [XmlEntityReference](../../xmlentityreference/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlEntityReference](../../xmlentityreference/)
-* Class [String](../../../system/string/)
-* Class [XmlDocument](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlEntityReference](../xmlentityreference/)
+* Class [String](../../system/string/)
+* Class [XmlDocument](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

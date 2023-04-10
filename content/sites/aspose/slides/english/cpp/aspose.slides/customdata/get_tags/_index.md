@@ -17,8 +17,8 @@ System::SharedPtr<ITagCollection> Aspose::Slides::CustomData::get_Tags() overrid
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ITagCollection](../../itagcollection/)
-* Class [CustomData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ITagCollection](../itagcollection/)
+* Class [CustomData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

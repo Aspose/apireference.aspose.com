@@ -37,7 +37,7 @@ The name returned is dependent on the XmlValidatingReader::NodeType of the node.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlValidatingReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlValidatingReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

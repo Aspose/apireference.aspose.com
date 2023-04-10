@@ -17,7 +17,7 @@ Aspose::Slides::Charts::CategoryAxisType Aspose::Slides::Charts::Axis::get_Categ
 
 ## See Also
 
-* Enum [CategoryAxisType](../../categoryaxistype/)
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CategoryAxisType](../categoryaxistype/)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/shapebevel/shapebevel/
 ---
-## ShapeBevel::ShapeBevel(**bool**) constructor
+## ShapeBevel::ShapeBevel(bool) constructor
 
 
 Creates new instance.
@@ -24,6 +24,6 @@ Aspose::Slides::ShapeBevel::ShapeBevel(bool bIsTopBevel)
 
 ## See Also
 
-* Class [ShapeBevel](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ShapeBevel](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

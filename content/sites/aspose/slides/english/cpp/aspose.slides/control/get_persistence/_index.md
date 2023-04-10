@@ -33,7 +33,7 @@ else
 
 ## See Also
 
-* Enum [PersistenceType](../../persistencetype/)
-* Class [Control](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PersistenceType](../persistencetype/)
+* Class [Control](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

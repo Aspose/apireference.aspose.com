@@ -17,5 +17,5 @@ System::Text::RegularExpressions::ASPOSECPP_3RD_PARTY_UNCOPYBALE_TYPE_HOLDER(Det
 
 ## See Also
 
-* Namespace [System::Text::RegularExpressions](../)
-* Library [Aspose.Slides](../../)
+* Namespace [System::Text::RegularExpressions](./)
+* Library [Aspose.Slides](../)

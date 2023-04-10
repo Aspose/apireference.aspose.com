@@ -17,8 +17,8 @@ System::SharedPtr<Aspose::Slides::Warnings::IWarningCallback> Aspose::Slides::Ex
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IWarningCallback](../../../aspose.slides.warnings/iwarningcallback/)
-* Class [SaveOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IWarningCallback](../../aspose.slides.warnings/iwarningcallback/)
+* Class [SaveOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

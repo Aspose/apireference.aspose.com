@@ -18,6 +18,6 @@ void System::IO::FileInfo::Decrypt()
 
 ## See Also
 
-* Class [FileInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [FileInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

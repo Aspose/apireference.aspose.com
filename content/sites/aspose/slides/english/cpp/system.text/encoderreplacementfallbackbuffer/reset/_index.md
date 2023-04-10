@@ -17,6 +17,6 @@ virtual void System::Text::EncoderReplacementFallbackBuffer::Reset() override
 
 ## See Also
 
-* Class [EncoderReplacementFallbackBuffer](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EncoderReplacementFallbackBuffer](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

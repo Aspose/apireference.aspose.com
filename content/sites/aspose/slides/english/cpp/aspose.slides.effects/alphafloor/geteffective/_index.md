@@ -22,8 +22,8 @@ A [IAlphaFloorEffectiveData](../../ialphaflooreffectivedata/).
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAlphaFloorEffectiveData](../../ialphaflooreffectivedata/)
-* Class [AlphaFloor](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAlphaFloorEffectiveData](../ialphaflooreffectivedata/)
+* Class [AlphaFloor](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

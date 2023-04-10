@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/ioleobjectframe/set_objectprogid/
 ---
-## IOleObjectFrame::set_ObjectProgId([System::String](../../../system/string/)) method
+## IOleObjectFrame::set_ObjectProgId(System::String) method
 
 
 Returns the ProgID of an object. Read olny [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IOleObjectFrame::set_ObjectProgId(System::String va
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IOleObjectFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IOleObjectFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

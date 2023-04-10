@@ -22,6 +22,6 @@ Captured substring length.
 
 ## See Also
 
-* Class [Capture](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Capture](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

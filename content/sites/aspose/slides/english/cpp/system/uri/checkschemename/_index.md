@@ -6,7 +6,7 @@ type: docs
 weight: 469
 url: /cpp/system/uri/checkschemename/
 ---
-## Uri::CheckSchemeName(const [String](../../string/)\&) method
+## Uri::CheckSchemeName(const String\&) method
 
 
 Determines if the specified scheme is valid.
@@ -28,7 +28,7 @@ True if the specified string is a valid scheme, otherwise - false
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [Uri](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [Uri](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

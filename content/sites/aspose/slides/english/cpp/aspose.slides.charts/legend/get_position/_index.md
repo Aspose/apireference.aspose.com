@@ -17,7 +17,7 @@ LegendPositionType Aspose::Slides::Charts::Legend::get_Position() override
 
 ## See Also
 
-* Enum [LegendPositionType](../../legendpositiontype/)
-* Class [Legend](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LegendPositionType](../legendpositiontype/)
+* Class [Legend](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

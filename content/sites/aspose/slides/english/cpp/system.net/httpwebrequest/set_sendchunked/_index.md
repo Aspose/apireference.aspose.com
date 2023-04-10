@@ -6,7 +6,7 @@ type: docs
 weight: 534
 url: /cpp/system.net/httpwebrequest/set_sendchunked/
 ---
-## HttpWebRequest::set_SendChunked(**bool**) method
+## HttpWebRequest::set_SendChunked(bool) method
 
 
 Sets a value that indicates if data must be sent in segments.
@@ -24,6 +24,6 @@ virtual void System::Net::HttpWebRequest::set_SendChunked(bool value)
 
 ## See Also
 
-* Class [HttpWebRequest](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpWebRequest](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

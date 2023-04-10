@@ -22,8 +22,8 @@ SharedPtr<AsymmetricAlgorithm> System::Security::Cryptography::X509Certificates:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../../../system.security.cryptography/asymmetricalgorithm/)
-* Class [PublicKey](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](../../system.security.cryptography/asymmetricalgorithm/)
+* Class [PublicKey](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

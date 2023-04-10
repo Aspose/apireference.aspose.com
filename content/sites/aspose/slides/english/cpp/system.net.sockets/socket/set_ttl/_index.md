@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.net.sockets/socket/set_ttl/
 ---
-## Socket::set_Ttl(**int16_t**) method
+## Socket::set_Ttl(int16_t) method
 
 
 Sets the TTL value.
@@ -24,6 +24,6 @@ void System::Net::Sockets::Socket::set_Ttl(int16_t value)
 
 ## See Also
 
-* Class [Socket](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Socket](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

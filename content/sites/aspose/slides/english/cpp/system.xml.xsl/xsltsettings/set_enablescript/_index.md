@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.xml.xsl/xsltsettings/set_enablescript/
 ---
-## XsltSettings::set_EnableScript(**bool**) method
+## XsltSettings::set_EnableScript(bool) method
 
 
 Sets a value indicating whether to enable support for embedded script blocks.
@@ -24,6 +24,6 @@ void System::Xml::Xsl::XsltSettings::set_EnableScript(bool value)
 
 ## See Also
 
-* Class [XsltSettings](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XsltSettings](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

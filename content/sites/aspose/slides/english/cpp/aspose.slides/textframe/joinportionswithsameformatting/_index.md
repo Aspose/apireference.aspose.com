@@ -17,6 +17,6 @@ void Aspose::Slides::TextFrame::JoinPortionsWithSameFormatting() override
 
 ## See Also
 
-* Class [TextFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TextFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.xml/ixmlnamespaceresolver/lookupprefix/
 ---
-## IXmlNamespaceResolver::LookupPrefix(const [String](../../../system/string/)\&) method
+## IXmlNamespaceResolver::LookupPrefix(const String\&) method
 
 
 Returns the prefix that is mapped to the specified namespace URI.
@@ -28,7 +28,7 @@ The prefix that is mapped to the namespace URI; **nullptr** if the namespace URI
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IXmlNamespaceResolver](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IXmlNamespaceResolver](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

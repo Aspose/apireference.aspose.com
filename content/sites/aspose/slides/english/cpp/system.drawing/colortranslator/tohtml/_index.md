@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing/colortranslator/tohtml/
 ---
-## ColorTranslator::ToHtml(const [Color](../../color/)\&) method
+## ColorTranslator::ToHtml(const Color\&) method
 
 
 Converts the specified [Color](../../color/) object to the string representation of equivalent HTML color.
@@ -28,8 +28,8 @@ The name of HTML color equivalent to the color represented by **color**
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Color](../../color/)
-* Class [ColorTranslator](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Color](../color/)
+* Class [ColorTranslator](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

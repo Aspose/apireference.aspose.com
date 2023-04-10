@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.diagnostics/processstartinfo/set_arguments/
 ---
-## ProcessStartInfo::set_Arguments(const [String](../../../system/string/)\&) method
+## ProcessStartInfo::set_Arguments(const String\&) method
 
 
 Sets process arguments.
@@ -24,7 +24,7 @@ void System::Diagnostics::ProcessStartInfo::set_Arguments(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ProcessStartInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ProcessStartInfo](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

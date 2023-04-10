@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides/idocumentproperties/set_company/
 ---
-## IDocumentProperties::set_Company([System::String](../../../system/string/)) method
+## IDocumentProperties::set_Company(System::String) method
 
 
 Sets the company property. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_Company(System::String val
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

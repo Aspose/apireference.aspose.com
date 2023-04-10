@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/aspose.slides.charts/chartcategory/set_asliteral/
 ---
-## ChartCategory::set_AsLiteral([System::SharedPtr](../../../system/sharedptr/)\<[System::Object](../../../system/object/)\>) method
+## ChartCategory::set_AsLiteral(System::SharedPtr\<System::Object\>) method
 
 
 Sets AsLiteral object. Write [System::Object](../../../system/object/).
@@ -17,8 +17,8 @@ void Aspose::Slides::Charts::ChartCategory::set_AsLiteral(System::SharedPtr<Syst
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [ChartCategory](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [ChartCategory](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

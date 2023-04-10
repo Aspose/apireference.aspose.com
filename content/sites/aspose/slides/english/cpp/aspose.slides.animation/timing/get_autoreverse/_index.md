@@ -17,6 +17,6 @@ bool Aspose::Slides::Animation::Timing::get_AutoReverse() override
 
 ## See Also
 
-* Class [Timing](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Timing](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

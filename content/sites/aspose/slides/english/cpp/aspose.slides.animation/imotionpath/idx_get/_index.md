@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides.animation/imotionpath/idx_get/
 ---
-## IMotionPath::idx_get(**int32_t**) method
+## IMotionPath::idx_get(int32_t) method
 
 
 Returns a command at the specified index.
@@ -28,8 +28,8 @@ Command at specified index [IMotionCmdPath](../../imotioncmdpath/)
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IMotionCmdPath](../../imotioncmdpath/)
-* Class [IMotionPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IMotionCmdPath](../imotioncmdpath/)
+* Class [IMotionPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

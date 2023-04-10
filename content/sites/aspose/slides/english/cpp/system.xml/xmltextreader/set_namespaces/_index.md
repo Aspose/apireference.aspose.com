@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/system.xml/xmltextreader/set_namespaces/
 ---
-## XmlTextReader::set_Namespaces(**bool**) method
+## XmlTextReader::set_Namespaces(bool) method
 
 
 Sets a value indicating whether to do namespace support.
@@ -24,6 +24,6 @@ void System::Xml::XmlTextReader::set_Namespaces(bool value)
 
 ## See Also
 
-* Class [XmlTextReader](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlTextReader](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

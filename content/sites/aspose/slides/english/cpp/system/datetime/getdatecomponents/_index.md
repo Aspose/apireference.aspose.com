@@ -17,6 +17,6 @@ void System::DateTime::GetDateComponents(int &year, int &month, int &day) const
 
 ## See Also
 
-* Class [DateTime](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

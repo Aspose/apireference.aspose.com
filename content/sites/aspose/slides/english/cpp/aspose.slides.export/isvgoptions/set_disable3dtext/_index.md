@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.export/isvgoptions/set_disable3dtext/
 ---
-## ISVGOptions::set_Disable3DText(**bool**) method
+## ISVGOptions::set_Disable3DText(bool) method
 
 
 Determines whether the 3D text is disabled in SVG. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISVGOptions::set_Disable3DText(bool value)=
 
 ## See Also
 
-* Class [ISVGOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISVGOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

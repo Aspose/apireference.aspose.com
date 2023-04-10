@@ -28,6 +28,6 @@ Dummy value.
 
 ## See Also
 
-* Class [HashDictionary](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HashDictionary](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

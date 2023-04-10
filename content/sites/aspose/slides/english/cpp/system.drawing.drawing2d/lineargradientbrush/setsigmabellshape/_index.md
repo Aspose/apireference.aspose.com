@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.drawing.drawing2d/lineargradientbrush/setsigmabellshape/
 ---
-## LinearGradientBrush::SetSigmaBellShape(**float**, **float**) method
+## LinearGradientBrush::SetSigmaBellShape(float, float) method
 
 
 NOT IMPLEMENTED.
@@ -18,6 +18,6 @@ void System::Drawing::Drawing2D::LinearGradientBrush::SetSigmaBellShape(float fo
 
 ## See Also
 
-* Class [LinearGradientBrush](../)
-* Namespace [System::Drawing::Drawing2D](../../)
-* Library [Aspose.Slides](../../../)
+* Class [LinearGradientBrush](./)
+* Namespace [System::Drawing::Drawing2D](../)
+* Library [Aspose.Slides](../../)

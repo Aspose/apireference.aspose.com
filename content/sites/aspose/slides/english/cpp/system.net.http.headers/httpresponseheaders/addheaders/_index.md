@@ -6,7 +6,7 @@ type: docs
 weight: 378
 url: /cpp/system.net.http.headers/httpresponseheaders/addheaders/
 ---
-## HttpResponseHeaders::AddHeaders([System::SharedPtr](../../../system/sharedptr/)\<[HttpHeaders](../../httpheaders/)\>) method
+## HttpResponseHeaders::AddHeaders(System::SharedPtr\<HttpHeaders\>) method
 
 
 Concatenates the specified HttpHeaders-class instance with the current one.
@@ -24,8 +24,8 @@ virtual void System::Net::Http::Headers::HttpResponseHeaders::AddHeaders(System:
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpHeaders](../../httpheaders/)
-* Class [HttpResponseHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [HttpHeaders](../httpheaders/)
+* Class [HttpResponseHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

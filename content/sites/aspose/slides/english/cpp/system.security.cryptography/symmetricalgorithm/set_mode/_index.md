@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/system.security.cryptography/symmetricalgorithm/set_mode/
 ---
-## SymmetricAlgorithm::set_Mode([CipherMode](../../ciphermode/)) method
+## SymmetricAlgorithm::set_Mode(CipherMode) method
 
 
 Sets mode of cryptographic operation.
@@ -24,7 +24,7 @@ virtual void System::Security::Cryptography::SymmetricAlgorithm::set_Mode(Cipher
 
 ## See Also
 
-* Enum [CipherMode](../../ciphermode/)
-* Class [SymmetricAlgorithm](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CipherMode](../ciphermode/)
+* Class [SymmetricAlgorithm](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

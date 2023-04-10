@@ -22,6 +22,6 @@ If this value is **true**, character data is allowed to appear between the child
 
 ## See Also
 
-* Class [XmlSchemaComplexContent](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaComplexContent](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

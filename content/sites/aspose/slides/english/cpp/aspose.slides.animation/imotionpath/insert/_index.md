@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides.animation/imotionpath/insert/
 ---
-## IMotionPath::Insert(**int32_t**, [MotionCommandPathType](../../motioncommandpathtype/), [System::ArrayPtr](../../../system/arrayptr/)\<[System::Drawing::PointF](../../../system.drawing/pointf/)\>, [MotionPathPointsType](../../motionpathpointstype/), **bool**) method
+## IMotionPath::Insert(int32_t, MotionCommandPathType, System::ArrayPtr\<System::Drawing::PointF\>, MotionPathPointsType, bool) method
 
 
 Insert new command to path
@@ -28,10 +28,10 @@ virtual void Aspose::Slides::Animation::IMotionPath::Insert(int32_t index, Motio
 
 ## See Also
 
-* Enum [MotionCommandPathType](../../motioncommandpathtype/)
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [PointF](../../../system.drawing/pointf/)
-* Enum [MotionPathPointsType](../../motionpathpointstype/)
-* Class [IMotionPath](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [MotionCommandPathType](../motioncommandpathtype/)
+* Enum [MotionPathPointsType](../motionpathpointstype/)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [IMotionPath](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

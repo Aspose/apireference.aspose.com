@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFieldType> Aspose::Slides::IField::get_Type()=0
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFieldType](../../ifieldtype/)
-* Class [IField](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFieldType](../ifieldtype/)
+* Class [IField](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ System::IO::StreamReader::~StreamReader()
 
 ## See Also
 
-* Class [StreamReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [StreamReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

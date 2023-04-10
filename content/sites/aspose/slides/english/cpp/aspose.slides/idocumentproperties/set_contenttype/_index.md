@@ -6,7 +6,7 @@ type: docs
 weight: 521
 url: /cpp/aspose.slides/idocumentproperties/set_contenttype/
 ---
-## IDocumentProperties::set_ContentType([System::String](../../../system/string/)) method
+## IDocumentProperties::set_ContentType(System::String) method
 
 
 Sets the content type of a presentation. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_ContentType(System::String
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

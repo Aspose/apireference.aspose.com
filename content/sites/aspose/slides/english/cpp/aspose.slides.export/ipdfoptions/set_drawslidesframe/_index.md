@@ -6,7 +6,7 @@ type: docs
 weight: 326
 url: /cpp/aspose.slides.export/ipdfoptions/set_drawslidesframe/
 ---
-## IPdfOptions::set_DrawSlidesFrame(**bool**) method
+## IPdfOptions::set_DrawSlidesFrame(bool) method
 
 
 True to draw black frame around each slide. Write **bool**.
@@ -21,6 +21,6 @@ virtual void Aspose::Slides::Export::IPdfOptions::set_DrawSlidesFrame(bool value
 Default is **false**. 
 ## See Also
 
-* Class [IPdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

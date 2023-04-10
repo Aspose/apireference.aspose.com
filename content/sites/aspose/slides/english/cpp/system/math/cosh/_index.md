@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system/math/cosh/
 ---
-## Math::Cosh(**double**) method
+## Math::Cosh(double) method
 
 
 Calculates the hyperbolic cosine of the specified value.
@@ -28,6 +28,6 @@ The hyperbolic cosine of **value**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

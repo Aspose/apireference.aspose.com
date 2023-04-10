@@ -21,6 +21,6 @@ bool Aspose::Slides::Charts::ChartSeries::get_HasUpDownBars() override
 This is the projection of the property [get_ParentSeriesGroup()](../get_parentseriesgroup/)->get_UpDownBars()->get(set)_HasUpDownBars(). 
 ## See Also
 
-* Class [ChartSeries](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartSeries](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

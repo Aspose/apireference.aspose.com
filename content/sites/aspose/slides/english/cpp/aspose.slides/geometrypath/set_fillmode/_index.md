@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/aspose.slides/geometrypath/set_fillmode/
 ---
-## GeometryPath::set_FillMode([PathFillModeType](../../pathfillmodetype/)) method
+## GeometryPath::set_FillMode(PathFillModeType) method
 
 
 Sets fill mode
@@ -17,7 +17,7 @@ void Aspose::Slides::GeometryPath::set_FillMode(PathFillModeType value) override
 
 ## See Also
 
-* Enum [PathFillModeType](../../pathfillmodetype/)
-* Class [GeometryPath](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PathFillModeType](../pathfillmodetype/)
+* Class [GeometryPath](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

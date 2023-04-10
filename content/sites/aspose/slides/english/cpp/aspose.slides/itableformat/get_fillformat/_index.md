@@ -17,8 +17,8 @@ virtual System::SharedPtr<IFillFormat> Aspose::Slides::ITableFormat::get_FillFor
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IFillFormat](../../ifillformat/)
-* Class [ITableFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IFillFormat](../ifillformat/)
+* Class [ITableFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

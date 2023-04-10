@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.security.cryptography/dsa/toxmlstring/
 ---
-## DSA::ToXmlString(**bool**) method
+## DSA::ToXmlString(bool) method
 
 
 Exports all parameters in XML format.
@@ -28,7 +28,7 @@ XML-encoded parameters.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DSA](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ The underlying buffer size.
 
 ## See Also
 
-* Class [SocketAddress](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SocketAddress](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

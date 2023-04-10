@@ -17,7 +17,7 @@ TValue System::Collections::Generic::_ValueCollection<Dict>::idx_get(int index) 
 
 ## See Also
 
-* Typedef [TValue](../tvalue/)
-* Class [_ValueCollection](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [TValue](./tvalue/)
+* Class [_ValueCollection](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

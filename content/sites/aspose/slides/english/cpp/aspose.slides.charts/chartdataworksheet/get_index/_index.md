@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Charts::ChartDataWorksheet::get_Index() override
 
 ## See Also
 
-* Class [ChartDataWorksheet](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataWorksheet](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

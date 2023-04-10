@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/tagcollection/add/
 ---
-## TagCollection::Add([System::String](../../../system/string/), [System::String](../../../system/string/)) method
+## TagCollection::Add(System::String, System::String) method
 
 
 Adds a new tag to collection.
@@ -29,7 +29,7 @@ The index of the added tag.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [TagCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [TagCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

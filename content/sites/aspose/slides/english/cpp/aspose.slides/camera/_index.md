@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/camera/
 Represents [Camera](./).
 
 ```cpp
-class Camera : public Aspose::Slides::PVIObject,
-               public Aspose::Slides::ICamera
+class Camera : public Aspose::Slides::PVIObject,               public Aspose::Slides::ICamera
 ```
 
 ## Methods

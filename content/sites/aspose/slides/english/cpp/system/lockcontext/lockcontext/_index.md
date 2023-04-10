@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/lockcontext/lockcontext/
 ---
-## LockContext::LockContext([Object](../../object/) *) constructor
+## LockContext::LockContext(Object *) constructor
 
 
 Locks object.
@@ -17,7 +17,7 @@ System::LockContext::LockContext(Object *lockable)
 
 ## See Also
 
-* Class [Object](../../object/)
-* Class [LockContext](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Object](../object/)
+* Class [LockContext](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

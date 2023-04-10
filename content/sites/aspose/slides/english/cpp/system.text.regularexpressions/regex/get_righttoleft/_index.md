@@ -22,6 +22,6 @@ True if matching is done right-to-left, false if it is done left-to-right.
 
 ## See Also
 
-* Class [Regex](../)
-* Namespace [System::Text::RegularExpressions](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Regex](./)
+* Namespace [System::Text::RegularExpressions](../)
+* Library [Aspose.Slides](../../)

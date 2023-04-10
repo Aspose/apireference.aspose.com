@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides/connectorlock/set_sizelocked/
 ---
-## ConnectorLock::set_SizeLocked(**bool**) method
+## ConnectorLock::set_SizeLocked(bool) method
 
 
 Determines whether a resizing this shape is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ void Aspose::Slides::ConnectorLock::set_SizeLocked(bool value) override
 
 ## See Also
 
-* Class [ConnectorLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ConnectorLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

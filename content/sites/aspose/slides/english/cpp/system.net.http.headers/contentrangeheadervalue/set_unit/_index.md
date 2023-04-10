@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.net.http.headers/contentrangeheadervalue/set_unit/
 ---
-## ContentRangeHeaderValue::set_Unit([String](../../../system/string/)) method
+## ContentRangeHeaderValue::set_Unit(String) method
 
 
 Sets units used in the range.
@@ -24,7 +24,7 @@ void System::Net::Http::Headers::ContentRangeHeaderValue::set_Unit(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ContentRangeHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ContentRangeHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

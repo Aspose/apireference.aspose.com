@@ -17,8 +17,8 @@ System::SharedPtr<IChartCellCollection> Aspose::Slides::Charts::StringChartValue
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartCellCollection](../../ichartcellcollection/)
-* Class [StringChartValue](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartCellCollection](../ichartcellcollection/)
+* Class [StringChartValue](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

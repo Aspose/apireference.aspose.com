@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/paragraphformat/set_alignment/
 ---
-## ParagraphFormat::set_Alignment([TextAlignment](../../textalignment/)) method
+## ParagraphFormat::set_Alignment(TextAlignment) method
 
 
 Sets the text alignment in a paragraph with no inheritance. Write [TextAlignment](../../textalignment/).
@@ -42,7 +42,7 @@ pres->Save(u"Centeralign_out.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Enum [TextAlignment](../../textalignment/)
-* Class [ParagraphFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextAlignment](../textalignment/)
+* Class [ParagraphFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

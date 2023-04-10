@@ -6,7 +6,7 @@ type: docs
 weight: 2536
 url: /cpp/system/const_pointer_cast/
 ---
-## System::const_pointer_cast([SmartPtr](../smartptr/)\<X\> const\&) function
+## System::const_pointer_cast(SmartPtr\<X\> const\&) function
 
 
 Casts smart pointers using const_cast.
@@ -35,6 +35,6 @@ Pointer after cast.
 
 ## See Also
 
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [SmartPtr](./smartptr/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

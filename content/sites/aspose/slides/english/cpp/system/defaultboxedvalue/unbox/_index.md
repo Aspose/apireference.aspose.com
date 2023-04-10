@@ -22,6 +22,6 @@ A constant reference to the boxed value represented by the current object.
 
 ## See Also
 
-* Class [DefaultBoxedValue](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DefaultBoxedValue](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

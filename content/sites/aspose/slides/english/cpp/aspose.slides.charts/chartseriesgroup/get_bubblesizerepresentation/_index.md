@@ -17,7 +17,7 @@ BubbleSizeRepresentationType Aspose::Slides::Charts::ChartSeriesGroup::get_Bubbl
 
 ## See Also
 
-* Enum [BubbleSizeRepresentationType](../../bubblesizerepresentationtype/)
-* Class [ChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [BubbleSizeRepresentationType](../bubblesizerepresentationtype/)
+* Class [ChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

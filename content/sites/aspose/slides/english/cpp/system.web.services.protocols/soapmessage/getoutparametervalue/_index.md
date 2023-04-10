@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.web.services.protocols/soapmessage/getoutparametervalue/
 ---
-## SoapMessage::GetOutParameterValue(**int32_t**) method
+## SoapMessage::GetOutParameterValue(int32_t) method
 
 
 Gets the output parameter value at the specified index.
@@ -28,8 +28,8 @@ The output parameter value.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [SoapMessage](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [SoapMessage](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/system.xml/xmlconvert/touint64/
 ---
-## XmlConvert::ToUInt64(const [String](../../../system/string/)\&) method
+## XmlConvert::ToUInt64(const String\&) method
 
 
 Converts the [String](../../../system/string/) to a [UInt64](../../../system/uint64/) equivalent.
@@ -28,7 +28,7 @@ A [UInt64](../../../system/uint64/) equivalent of the string.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlConvert](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

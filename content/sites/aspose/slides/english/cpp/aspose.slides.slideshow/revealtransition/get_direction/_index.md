@@ -17,7 +17,7 @@ TransitionLeftRightDirectionType Aspose::Slides::SlideShow::RevealTransition::ge
 
 ## See Also
 
-* Enum [TransitionLeftRightDirectionType](../../transitionleftrightdirectiontype/)
-* Class [RevealTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionLeftRightDirectionType](../transitionleftrightdirectiontype/)
+* Class [RevealTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

@@ -22,6 +22,6 @@ The index of the last node in the selected set of nodes, or 0 if there are no se
 
 ## See Also
 
-* Class [XPathNodeIterator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XPathNodeIterator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

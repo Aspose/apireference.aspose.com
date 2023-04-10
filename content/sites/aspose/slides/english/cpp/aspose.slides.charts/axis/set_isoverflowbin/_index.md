@@ -6,7 +6,7 @@ type: docs
 weight: 1132
 url: /cpp/aspose.slides.charts/axis/set_isoverflowbin/
 ---
-## Axis::set_IsOverflowBin(**bool**) method
+## Axis::set_IsOverflowBin(bool) method
 
 
 Specifies if overflow bin applied. Use IsAutomaticOverflowBin and OverflowBin to adjust overflow bin value.
@@ -17,6 +17,6 @@ void Aspose::Slides::Charts::Axis::set_IsOverflowBin(bool value) override
 
 ## See Also
 
-* Class [Axis](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Axis](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

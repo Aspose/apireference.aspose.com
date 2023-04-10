@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/aspose.slides.charts/charttypecharacterizer/hasseriestrendlines/
 ---
-## ChartTypeCharacterizer::HasSeriesTrendLines([ChartType](../../charttype/)) method
+## ChartTypeCharacterizer::HasSeriesTrendLines(ChartType) method
 
 
 Returns if there are series trend lines for specified series type.
@@ -28,7 +28,7 @@ True if present otherwise false.
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [ChartTypeCharacterizer](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [ChartTypeCharacterizer](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.animation/scaleeffect/set_by/
 ---
-## ScaleEffect::set_By([System::Drawing::PointF](../../../system.drawing/pointf/)) method
+## ScaleEffect::set_By(System::Drawing::PointF) method
 
 
 describes the relative offset value for the animation (in percents). Write [System::Drawing::PointF](../../../system.drawing/pointf/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Animation::ScaleEffect::set_By(System::Drawing::PointF valu
 
 ## See Also
 
-* Class [PointF](../../../system.drawing/pointf/)
-* Class [ScaleEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](../../system.drawing/pointf/)
+* Class [ScaleEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

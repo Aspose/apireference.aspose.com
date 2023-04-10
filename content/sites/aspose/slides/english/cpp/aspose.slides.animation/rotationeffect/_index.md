@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.animation/rotationeffect/
 Represent rotation behavior of effect.
 
 ```cpp
-class RotationEffect : public Aspose::Slides::Animation::Behavior,
-                       public Aspose::Slides::Animation::IRotationEffect
+class RotationEffect : public Aspose::Slides::Animation::Behavior,                       public Aspose::Slides::Animation::IRotationEffect
 ```
 
 ## Methods

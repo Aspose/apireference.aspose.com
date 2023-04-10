@@ -17,6 +17,6 @@ bool System::Drawing::Rectangle::operator==(std::nullptr_t) const
 
 ## See Also
 
-* Class [Rectangle](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Rectangle](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

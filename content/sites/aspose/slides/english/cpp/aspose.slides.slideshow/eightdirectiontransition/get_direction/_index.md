@@ -17,7 +17,7 @@ TransitionEightDirectionType Aspose::Slides::SlideShow::EightDirectionTransition
 
 ## See Also
 
-* Enum [TransitionEightDirectionType](../../transitioneightdirectiontype/)
-* Class [EightDirectionTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionEightDirectionType](../transitioneightdirectiontype/)
+* Class [EightDirectionTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

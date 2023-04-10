@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.collections.objectmodel/collection/settemplateweakptr/
 ---
-## Collection::SetTemplateWeakPtr(**uint32_t**) method
+## Collection::SetTemplateWeakPtr(uint32_t) method
 
 
 Makes stored pointers weak (if applicable).
@@ -24,6 +24,6 @@ void System::Collections::ObjectModel::Collection<T>::SetTemplateWeakPtr(uint32_
 
 ## See Also
 
-* Class [Collection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Collection](./)
+* Namespace [System::Collections::ObjectModel](../)
+* Library [Aspose.Slides](../../)

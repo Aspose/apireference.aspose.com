@@ -17,7 +17,7 @@ System::String Aspose::Slides::Shape::get_AlternativeText() override
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Shape](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Shape](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

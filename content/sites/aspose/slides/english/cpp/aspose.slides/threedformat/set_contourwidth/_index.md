@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/threedformat/set_contourwidth/
 ---
-## ThreeDFormat::set_ContourWidth(**double**) method
+## ThreeDFormat::set_ContourWidth(double) method
 
 
 Sets the width of a 3D contour. Write **double**.
@@ -17,6 +17,6 @@ void Aspose::Slides::ThreeDFormat::set_ContourWidth(double value) override
 
 ## See Also
 
-* Class [ThreeDFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ThreeDFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

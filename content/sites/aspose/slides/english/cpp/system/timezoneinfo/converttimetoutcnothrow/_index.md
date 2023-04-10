@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system/timezoneinfo/converttimetoutcnothrow/
 ---
-## TimeZoneInfo::ConvertTimeToUtcNoThrow([DateTime](../../datetime/)) method
+## TimeZoneInfo::ConvertTimeToUtcNoThrow(DateTime) method
 
 
 Converts time to UTC-time. FOR INTERNAL USE.
@@ -28,7 +28,7 @@ Converted date and time.
 
 ## See Also
 
-* Class [DateTime](../../datetime/)
-* Class [TimeZoneInfo](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../datetime/)
+* Class [TimeZoneInfo](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

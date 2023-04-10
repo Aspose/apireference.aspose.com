@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/gifoptions/set_exporthiddenslides/
 ---
-## GifOptions::set_ExportHiddenSlides(**bool**) method
+## GifOptions::set_ExportHiddenSlides(bool) method
 
 
 Determines whether hidden slides will be exported. The default value is false.
@@ -32,6 +32,6 @@ pres->Save(u"pres.gif", SaveFormat::Gif, gifOptions);
 
 ## See Also
 
-* Class [GifOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GifOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

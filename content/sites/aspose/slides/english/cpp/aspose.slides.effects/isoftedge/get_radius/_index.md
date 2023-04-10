@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Effects::ISoftEdge::get_Radius()=0
 
 ## See Also
 
-* Class [ISoftEdge](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISoftEdge](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

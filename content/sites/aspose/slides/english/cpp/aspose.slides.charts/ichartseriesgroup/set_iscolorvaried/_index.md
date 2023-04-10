@@ -6,7 +6,7 @@ type: docs
 weight: 144
 url: /cpp/aspose.slides.charts/ichartseriesgroup/set_iscolorvaried/
 ---
-## IChartSeriesGroup::set_IsColorVaried(**bool**) method
+## IChartSeriesGroup::set_IsColorVaried(bool) method
 
 
 Specifies that each data marker in the series has a different color. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Charts::IChartSeriesGroup::set_IsColorVaried(bool v
 
 ## See Also
 
-* Class [IChartSeriesGroup](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IChartSeriesGroup](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.net/webproxy/set_bypassproxyonlocal/
 ---
-## WebProxy::set_BypassProxyOnLocal(**bool**) method
+## WebProxy::set_BypassProxyOnLocal(bool) method
 
 
 Sets a value that indicates if the proxy server must be used for local addresses.
@@ -24,6 +24,6 @@ void System::Net::WebProxy::set_BypassProxyOnLocal(bool value)
 
 ## See Also
 
-* Class [WebProxy](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [WebProxy](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

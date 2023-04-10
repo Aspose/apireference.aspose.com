@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system/math/tan/
 ---
-## Math::Tan(**double**) method
+## Math::Tan(double) method
 
 
 Calculates the tangen of the specified value.
@@ -28,6 +28,6 @@ The tangen of **a**
 
 ## See Also
 
-* Struct [Math](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Struct [Math](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

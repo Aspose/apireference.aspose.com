@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides.effects/ireflection/set_startreflectionopacity/
 ---
-## IReflection::set_StartReflectionOpacity(**float**) method
+## IReflection::set_StartReflectionOpacity(float) method
 
 
 Starting reflection opacity. (percents). Write **float**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Effects::IReflection::set_StartReflectionOpacity(fl
 
 ## See Also
 
-* Class [IReflection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IReflection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

@@ -45,8 +45,8 @@ Console::WriteLine(String(u"Height: ") + threeDEffectiveData->get_BevelTop()->ge
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IThreeDFormatEffectiveData](../../ithreedformateffectivedata/)
-* Class [ThreeDFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IThreeDFormatEffectiveData](../ithreedformateffectivedata/)
+* Class [ThreeDFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

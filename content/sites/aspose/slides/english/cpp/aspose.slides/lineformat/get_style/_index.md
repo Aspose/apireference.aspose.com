@@ -17,7 +17,7 @@ LineStyle Aspose::Slides::LineFormat::get_Style() override
 
 ## See Also
 
-* Enum [LineStyle](../../linestyle/)
-* Class [LineFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [LineStyle](../linestyle/)
+* Class [LineFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

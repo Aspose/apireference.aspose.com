@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.xml/xmlwritersettings/set_indent/
 ---
-## XmlWriterSettings::set_Indent(**bool**) method
+## XmlWriterSettings::set_Indent(bool) method
 
 
 Sets a value indicating whether to indent elements.
@@ -24,6 +24,6 @@ void System::Xml::XmlWriterSettings::set_Indent(bool value)
 
 ## See Also
 
-* Class [XmlWriterSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlWriterSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

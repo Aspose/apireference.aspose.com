@@ -22,9 +22,9 @@ Qualified attributes that belong to another target namespace.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlAttribute](../../../system.xml/xmlattribute/)
-* Class [XmlSchemaExternal](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlAttribute](../../system.xml/xmlattribute/)
+* Class [XmlSchemaExternal](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

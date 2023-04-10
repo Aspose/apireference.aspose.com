@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/aspose.slides/colorformat/set_floatg/
 ---
-## ColorFormat::set_FloatG(**float**) method
+## ColorFormat::set_FloatG(float) method
 
 
 Sets the green component of a color. All color transformations are ignored. Write **float**.
@@ -17,6 +17,6 @@ void Aspose::Slides::ColorFormat::set_FloatG(float value) override
 
 ## See Also
 
-* Class [ColorFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ColorFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

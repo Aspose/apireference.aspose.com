@@ -25,7 +25,7 @@ The value of the additional FileName .
 Returns the value of the additional FileName . 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Details_FileLoadException](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Details_FileLoadException](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

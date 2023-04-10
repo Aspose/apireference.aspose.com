@@ -17,7 +17,7 @@ SmartArtColorType Aspose::Slides::SmartArt::SmartArt::get_ColorStyle() override
 
 ## See Also
 
-* Enum [SmartArtColorType](../../smartartcolortype/)
-* Class [SmartArt](../)
-* Namespace [Aspose::Slides::SmartArt](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SmartArtColorType](../smartartcolortype/)
+* Class [SmartArt](./)
+* Namespace [Aspose::Slides::SmartArt](../)
+* Library [Aspose.Slides](../../)

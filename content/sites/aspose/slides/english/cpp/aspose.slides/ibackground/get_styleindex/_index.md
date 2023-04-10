@@ -17,6 +17,6 @@ virtual uint16_t Aspose::Slides::IBackground::get_StyleIndex()=0
 
 ## See Also
 
-* Class [IBackground](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IBackground](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

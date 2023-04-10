@@ -17,6 +17,6 @@ void System::IO::BinaryWriter::Flush()
 
 ## See Also
 
-* Class [BinaryWriter](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BinaryWriter](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

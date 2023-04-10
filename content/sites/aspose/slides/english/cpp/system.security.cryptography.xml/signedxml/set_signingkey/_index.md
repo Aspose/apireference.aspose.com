@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.security.cryptography.xml/signedxml/set_signingkey/
 ---
-## SignedXml::set_SigningKey([SharedPtr](../../../system/sharedptr/)\<[AsymmetricAlgorithm](../../../system.security.cryptography/asymmetricalgorithm/)\>) method
+## SignedXml::set_SigningKey(SharedPtr\<AsymmetricAlgorithm\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::SignedXml::set_SigningKey(SharedPtr<As
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../../../system.security.cryptography/asymmetricalgorithm/)
-* Class [SignedXml](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [AsymmetricAlgorithm](../../system.security.cryptography/asymmetricalgorithm/)
+* Class [SignedXml](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

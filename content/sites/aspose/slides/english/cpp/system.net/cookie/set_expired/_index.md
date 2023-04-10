@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.net/cookie/set_expired/
 ---
-## Cookie::set_Expired(**bool**) method
+## Cookie::set_Expired(bool) method
 
 
 Sets a value that indicates if the cookie expired.
@@ -24,6 +24,6 @@ void System::Net::Cookie::set_Expired(bool value)
 
 ## See Also
 
-* Class [Cookie](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cookie](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/gc/gettotalmemory/
 ---
-## GC::GetTotalMemory(**bool**) method
+## GC::GetTotalMemory(bool) method
 
 
 Returns the number of bytes of private memory currently allocated by the current process.
@@ -28,6 +28,6 @@ The number of bytes of private memory currently allocated by the current process
 
 ## See Also
 
-* Class [GC](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GC](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

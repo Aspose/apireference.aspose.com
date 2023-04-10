@@ -26,8 +26,7 @@ Implementation.
 
 ## See Also
 
-* Class [SmartPtr](../)
-* Class [Object](../../object/)
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SmartPtr](./)
+* Class [Object](../object/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

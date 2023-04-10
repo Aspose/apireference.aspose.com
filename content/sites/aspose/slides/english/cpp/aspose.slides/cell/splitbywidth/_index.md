@@ -6,7 +6,7 @@ type: docs
 weight: 443
 url: /cpp/aspose.slides/cell/splitbywidth/
 ---
-## Cell::SplitByWidth(**double**) method
+## Cell::SplitByWidth(double) method
 
 
 Splits the cell by width.
@@ -24,6 +24,6 @@ void Aspose::Slides::Cell::SplitByWidth(double width) override
 
 ## See Also
 
-* Class [Cell](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Cell](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ constexpr bool System::DateTimeOffset::IsNull() const
 
 ## See Also
 
-* Class [DateTimeOffset](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTimeOffset](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

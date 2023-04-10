@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system/smartptr/set_mode/
 ---
-## SmartPtr::set_Mode([SmartPtrMode](../../smartptrmode/)) method
+## SmartPtr::set_Mode(SmartPtrMode) method
 
 
 Sets pointer mode. May alter referenced object's reference counts.
@@ -81,7 +81,7 @@ The pointer to an instance of the Item class expired: True
 
 ## See Also
 
-* Enum [SmartPtrMode](../../smartptrmode/)
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SmartPtrMode](../smartptrmode/)
+* Class [SmartPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The delegate that is used to associate local [IPEndPoint](../../ipendpoint/) wit
 
 ## See Also
 
-* Typedef [BindIPEndPoint](../../bindipendpoint/)
-* Class [ServicePoint](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [BindIPEndPoint](../bindipendpoint/)
+* Class [ServicePoint](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

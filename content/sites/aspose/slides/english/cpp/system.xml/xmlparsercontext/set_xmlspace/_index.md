@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.xml/xmlparsercontext/set_xmlspace/
 ---
-## XmlParserContext::set_XmlSpace([System::Xml::XmlSpace](../../xmlspace/)) method
+## XmlParserContext::set_XmlSpace(System::Xml::XmlSpace) method
 
 
 Sets the current **xml:space** scope.
@@ -24,7 +24,7 @@ void System::Xml::XmlParserContext::set_XmlSpace(System::Xml::XmlSpace value)
 
 ## See Also
 
-* Enum [XmlSpace](../../xmlspace/)
-* Class [XmlParserContext](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSpace](../xmlspace/)
+* Class [XmlParserContext](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

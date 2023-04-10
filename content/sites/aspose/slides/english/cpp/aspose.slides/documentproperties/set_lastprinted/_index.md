@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/aspose.slides/documentproperties/set_lastprinted/
 ---
-## DocumentProperties::set_LastPrinted([System::DateTime](../../../system/datetime/)) method
+## DocumentProperties::set_LastPrinted(System::DateTime) method
 
 
 Returns the date when a presentation was printed last time. Write [System::DateTime](../../../system/datetime/).
@@ -17,7 +17,7 @@ void Aspose::Slides::DocumentProperties::set_LastPrinted(System::DateTime value)
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [DocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [DocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

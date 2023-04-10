@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaMaxExclusiveFacet::XmlSchemaMaxExclusiveFacet()
 
 ## See Also
 
-* Class [XmlSchemaMaxExclusiveFacet](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaMaxExclusiveFacet](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

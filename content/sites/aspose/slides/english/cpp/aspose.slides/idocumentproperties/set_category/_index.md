@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/aspose.slides/idocumentproperties/set_category/
 ---
-## IDocumentProperties::set_Category([System::String](../../../system/string/)) method
+## IDocumentProperties::set_Category(System::String) method
 
 
 Sets the category of a presentation. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::IDocumentProperties::set_Category(System::String va
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IDocumentProperties](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IDocumentProperties](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

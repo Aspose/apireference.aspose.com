@@ -17,6 +17,6 @@ System::Drawing::PointF::operator bool()
 
 ## See Also
 
-* Class [PointF](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PointF](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

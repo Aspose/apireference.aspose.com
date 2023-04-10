@@ -17,7 +17,7 @@ static CalendarPtr System::Globalization::GregorianCalendar::GetDefaultInstance(
 
 ## See Also
 
-* Typedef [CalendarPtr](../../calendarptr/)
-* Class [GregorianCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [CalendarPtr](../calendarptr/)
+* Class [GregorianCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

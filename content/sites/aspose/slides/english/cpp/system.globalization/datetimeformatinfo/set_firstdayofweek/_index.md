@@ -6,7 +6,7 @@ type: docs
 weight: 430
 url: /cpp/system.globalization/datetimeformatinfo/set_firstdayofweek/
 ---
-## DateTimeFormatInfo::set_FirstDayOfWeek([DayOfWeek](../../../system/dayofweek/)) method
+## DateTimeFormatInfo::set_FirstDayOfWeek(DayOfWeek) method
 
 
 Sets first day of week.
@@ -24,7 +24,7 @@ void System::Globalization::DateTimeFormatInfo::set_FirstDayOfWeek(DayOfWeek val
 
 ## See Also
 
-* Enum [DayOfWeek](../../../system/dayofweek/)
-* Class [DateTimeFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [DayOfWeek](../../system/dayofweek/)
+* Class [DateTimeFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

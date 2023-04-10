@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.permissions/securitypermission/set_flags/
 ---
-## SecurityPermission::set_Flags([SecurityPermissionFlag](../../securitypermissionflag/)) method
+## SecurityPermission::set_Flags(SecurityPermissionFlag) method
 
 
 Sets flags associated with permission.
@@ -24,7 +24,7 @@ void System::Security::Permissions::SecurityPermission::set_Flags(SecurityPermis
 
 ## See Also
 
-* Enum [SecurityPermissionFlag](../../securitypermissionflag/)
-* Class [SecurityPermission](../)
-* Namespace [System::Security::Permissions](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SecurityPermissionFlag](../securitypermissionflag/)
+* Class [SecurityPermission](./)
+* Namespace [System::Security::Permissions](../)
+* Library [Aspose.Slides](../../)

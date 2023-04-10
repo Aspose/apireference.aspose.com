@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.drawing/stringformat/setdigitsubstitution/
 ---
-## StringFormat::SetDigitSubstitution(**int32_t**, [StringDigitSubstitute](../../stringdigitsubstitute/)) method
+## StringFormat::SetDigitSubstitution(int32_t, StringDigitSubstitute) method
 
 
 Sets digit substitution language and method.
@@ -25,7 +25,7 @@ void System::Drawing::StringFormat::SetDigitSubstitution(int32_t language, Strin
 
 ## See Also
 
-* Enum [StringDigitSubstitute](../../stringdigitsubstitute/)
-* Class [StringFormat](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [StringDigitSubstitute](../stringdigitsubstitute/)
+* Class [StringFormat](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

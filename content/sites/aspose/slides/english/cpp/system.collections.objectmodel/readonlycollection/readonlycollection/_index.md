@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.objectmodel/readonlycollection/readonlycollection/
 ---
-## ReadOnlyCollection::ReadOnlyCollection(const [SharedPtr](../../../system/sharedptr/)\<[Generic::IList](../../../system.collections.generic/ilist/)\<T\>\>\&) constructor
+## ReadOnlyCollection::ReadOnlyCollection(const SharedPtr\<Generic::IList\<T\>\>\&) constructor
 
 
 Wraps read-only collection around specific collection.
@@ -24,8 +24,8 @@ System::Collections::ObjectModel::ReadOnlyCollection<T>::ReadOnlyCollection(cons
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IList](../../../system.collections.generic/ilist/)
-* Class [ReadOnlyCollection](../)
-* Namespace [System::Collections::ObjectModel](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IList](../../system.collections.generic/ilist/)
+* Class [ReadOnlyCollection](./)
+* Namespace [System::Collections::ObjectModel](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The **xml:lang** attribute. Optional.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaDocumentation](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaDocumentation](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

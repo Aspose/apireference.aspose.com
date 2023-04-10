@@ -25,6 +25,6 @@ void System::Threading::ThreadPoolImpl::GetMinThreads(int &wt, int &cpt)
 
 ## See Also
 
-* Class [ThreadPoolImpl](../)
-* Namespace [System::Threading](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ThreadPoolImpl](./)
+* Namespace [System::Threading](../)
+* Library [Aspose.Slides](../../)

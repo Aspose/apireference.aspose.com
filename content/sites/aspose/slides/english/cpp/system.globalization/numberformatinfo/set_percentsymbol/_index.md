@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.globalization/numberformatinfo/set_percentsymbol/
 ---
-## NumberFormatInfo::set_PercentSymbol(const [String](../../../system/string/)\&) method
+## NumberFormatInfo::set_PercentSymbol(const String\&) method
 
 
 Sets percent symbol.
@@ -24,7 +24,7 @@ void System::Globalization::NumberFormatInfo::set_PercentSymbol(const String &va
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [NumberFormatInfo](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [NumberFormatInfo](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

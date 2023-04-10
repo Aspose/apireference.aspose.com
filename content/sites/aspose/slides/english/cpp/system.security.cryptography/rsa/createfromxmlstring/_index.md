@@ -6,7 +6,7 @@ type: docs
 weight: 196
 url: /cpp/system.security.cryptography/rsa/createfromxmlstring/
 ---
-## RSA::CreateFromXmlString(const [String](../../../system/string/)\&) method
+## RSA::CreateFromXmlString(const String\&) method
 
 
 Creates default [RSA](../) algorithm implementation with specifed XML-encoded parameters.
@@ -24,9 +24,8 @@ static SharedPtr<RSA> System::Security::Cryptography::RSA::CreateFromXmlString(c
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RSA](../)
-* Class [String](../../../system/string/)
-* Class [RSA](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [RSA](./)
+* Class [String](../../system/string/)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

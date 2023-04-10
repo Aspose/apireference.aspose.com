@@ -17,7 +17,7 @@ Aspose::Slides::PresentationLockingBehavior Aspose::Slides::BlobManagementOption
 
 ## See Also
 
-* Enum [PresentationLockingBehavior](../../presentationlockingbehavior/)
-* Class [BlobManagementOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PresentationLockingBehavior](../presentationlockingbehavior/)
+* Class [BlobManagementOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

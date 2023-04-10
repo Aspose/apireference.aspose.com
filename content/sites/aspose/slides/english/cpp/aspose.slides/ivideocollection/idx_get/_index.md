@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides/ivideocollection/idx_get/
 ---
-## IVideoCollection::idx_get(**int32_t**) method
+## IVideoCollection::idx_get(int32_t) method
 
 
 Gets the element at the specified index. Read-only [IVideo](../../ivideo/).
@@ -17,8 +17,8 @@ virtual System::SharedPtr<IVideo> Aspose::Slides::IVideoCollection::idx_get(int3
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IVideo](../../ivideo/)
-* Class [IVideoCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IVideo](../ivideo/)
+* Class [IVideoCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

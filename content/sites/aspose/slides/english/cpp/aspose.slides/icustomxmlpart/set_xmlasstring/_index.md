@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/icustomxmlpart/set_xmlasstring/
 ---
-## ICustomXmlPart::set_XmlAsString([System::String](../../../system/string/)) method
+## ICustomXmlPart::set_XmlAsString(System::String) method
 
 
 Sets xml data as UTF-8 string. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::ICustomXmlPart::set_XmlAsString(System::String valu
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [ICustomXmlPart](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [ICustomXmlPart](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

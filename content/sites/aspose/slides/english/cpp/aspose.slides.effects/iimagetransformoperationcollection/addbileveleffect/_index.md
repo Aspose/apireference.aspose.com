@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/aspose.slides.effects/iimagetransformoperationcollection/addbileveleffect/
 ---
-## IImageTransformOperationCollection::AddBiLevelEffect(**float**) method
+## IImageTransformOperationCollection::AddBiLevelEffect(float) method
 
 
 Adds the new Bi-Level (black/white) effect to the end of a collection.
@@ -28,8 +28,8 @@ Index of the new image effect in a collection.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IBiLevel](../../ibilevel/)
-* Class [IImageTransformOperationCollection](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IBiLevel](../ibilevel/)
+* Class [IImageTransformOperationCollection](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

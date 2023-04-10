@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/chartplotarea/
 Represents rectangle where chart should be plotted.
 
 ```cpp
-class ChartPlotArea : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,
-                      public Aspose::Slides::Charts::IChartPlotArea
+class ChartPlotArea : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,                      public Aspose::Slides::Charts::IChartPlotArea
 ```
 
 ## Methods

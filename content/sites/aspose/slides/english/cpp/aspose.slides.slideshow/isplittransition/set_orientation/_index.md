@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.slideshow/isplittransition/set_orientation/
 ---
-## ISplitTransition::set_Orientation([Aspose::Slides::Orientation](../../../aspose.slides/orientation/)) method
+## ISplitTransition::set_Orientation(Aspose::Slides::Orientation) method
 
 
 Orientation of transition split. Write [Slides::Orientation](../../../aspose.slides/orientation/).
@@ -17,7 +17,7 @@ virtual void Aspose::Slides::SlideShow::ISplitTransition::set_Orientation(Aspose
 
 ## See Also
 
-* Enum [Orientation](../../../aspose.slides/orientation/)
-* Class [ISplitTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [Orientation](../../aspose.slides/orientation/)
+* Class [ISplitTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

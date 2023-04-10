@@ -22,7 +22,6 @@ The reference to the self
 
 ## See Also
 
-* Class [Decimal](../)
-* Class [Decimal](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Decimal](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

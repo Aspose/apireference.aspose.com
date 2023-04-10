@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/aspose.slides/icommentcollection/remove/
 ---
-## ICommentCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[IComment](../../icomment/)\>) method
+## ICommentCollection::Remove(System::SharedPtr\<IComment\>) method
 
 
 Removes the first occurrence of the specified comment in a collection.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::ICommentCollection::Remove(System::SharedPtr<IComme
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IComment](../../icomment/)
-* Class [ICommentCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IComment](../icomment/)
+* Class [ICommentCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

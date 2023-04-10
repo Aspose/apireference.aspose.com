@@ -6,7 +6,7 @@ type: docs
 weight: 287
 url: /cpp/aspose.slides/paragraphcollection/settemplateweakptr/
 ---
-## ParagraphCollection::SetTemplateWeakPtr(**uint32_t**) method
+## ParagraphCollection::SetTemplateWeakPtr(uint32_t) method
 
 
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
@@ -24,6 +24,6 @@ void Aspose::Slides::ParagraphCollection::SetTemplateWeakPtr(uint32_t argument) 
 
 ## See Also
 
-* Class [ParagraphCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ParagraphCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,7 +17,7 @@ TransitionCornerAndCenterDirectionType Aspose::Slides::SlideShow::RippleTransiti
 
 ## See Also
 
-* Enum [TransitionCornerAndCenterDirectionType](../../transitioncornerandcenterdirectiontype/)
-* Class [RippleTransition](../)
-* Namespace [Aspose::Slides::SlideShow](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TransitionCornerAndCenterDirectionType](../transitioncornerandcenterdirectiontype/)
+* Class [RippleTransition](./)
+* Namespace [Aspose::Slides::SlideShow](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ const System::TypeInfo & System::Details_ArithmeticException::GetType() const ov
 
 ## See Also
 
-* Class [TypeInfo](../../typeinfo/)
-* Class [Details_ArithmeticException](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TypeInfo](../typeinfo/)
+* Class [Details_ArithmeticException](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.security/securityelement/escape/
 ---
-## SecurityElement::Escape(const [String](../../../system/string/)\&) method
+## SecurityElement::Escape(const String\&) method
 
 
 Escapes characters in XML string.
@@ -28,7 +28,7 @@ Escaped string.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [SecurityElement](../)
-* Namespace [System::Security](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [SecurityElement](./)
+* Namespace [System::Security](../)
+* Library [Aspose.Slides](../../)

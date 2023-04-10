@@ -22,7 +22,7 @@ Raw pointer to referenced object (if assigned and not expired) or nullptr.
 
 ## See Also
 
-* Class [Object](../../object/)
-* Class [WeakPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Object](../object/)
+* Class [WeakPtr](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

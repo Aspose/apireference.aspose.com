@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides.charts/chart/set_type/
 ---
-## Chart::set_Type([ChartType](../../charttype/)) method
+## Chart::set_Type(ChartType) method
 
 
 Sets the chart type. Write [ChartType](../../charttype/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Charts::Chart::set_Type(ChartType value) override
 
 ## See Also
 
-* Enum [ChartType](../../charttype/)
-* Class [Chart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [ChartType](../charttype/)
+* Class [Chart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

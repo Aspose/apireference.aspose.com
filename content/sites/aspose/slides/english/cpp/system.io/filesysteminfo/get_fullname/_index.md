@@ -17,7 +17,7 @@ virtual String System::IO::FileSystemInfo::get_FullName()
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FileSystemInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FileSystemInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

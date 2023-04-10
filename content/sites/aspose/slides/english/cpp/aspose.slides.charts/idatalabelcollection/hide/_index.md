@@ -22,6 +22,6 @@ If data label is not visible by default (IsVisible is false) you can make data l
 by default\" with setting Show*-flags (ShowValue, ...) of the DefaultDataLabelFormat property to true state. 
 ## See Also
 
-* Class [IDataLabelCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IDataLabelCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

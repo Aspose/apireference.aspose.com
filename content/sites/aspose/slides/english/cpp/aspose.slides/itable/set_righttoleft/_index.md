@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/aspose.slides/itable/set_righttoleft/
 ---
-## ITable::set_RightToLeft(**bool**) method
+## ITable::set_RightToLeft(bool) method
 
 
 Determines whether the table has right to left reading order. Writes **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::ITable::set_RightToLeft(bool value)=0
 
 ## See Also
 
-* Class [ITable](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ITable](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

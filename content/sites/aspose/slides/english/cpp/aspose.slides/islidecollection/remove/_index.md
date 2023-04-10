@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides/islidecollection/remove/
 ---
-## ISlideCollection::Remove([System::SharedPtr](../../../system/sharedptr/)\<[ISlide](../../islide/)\>) method
+## ISlideCollection::Remove(System::SharedPtr\<ISlide\>) method
 
 
 Removes the first occurrence of a specific object from the collection.
@@ -24,8 +24,8 @@ virtual void Aspose::Slides::ISlideCollection::Remove(System::SharedPtr<ISlide> 
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ISlide](../../islide/)
-* Class [ISlideCollection](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [ISlide](../islide/)
+* Class [ISlideCollection](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

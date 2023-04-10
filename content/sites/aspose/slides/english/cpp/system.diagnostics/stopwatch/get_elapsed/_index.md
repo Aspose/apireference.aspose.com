@@ -22,7 +22,7 @@ A [TimeSpan](../../../system/timespan/) representing the total elapsed time meas
 
 ## See Also
 
-* Class [TimeSpan](../../../system/timespan/)
-* Class [Stopwatch](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TimeSpan](../../system/timespan/)
+* Class [Stopwatch](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

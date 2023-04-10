@@ -32,6 +32,6 @@ pres->Save(u"pres.gif", SaveFormat::Gif, gifOptions);
 
 ## See Also
 
-* Class [GifOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [GifOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

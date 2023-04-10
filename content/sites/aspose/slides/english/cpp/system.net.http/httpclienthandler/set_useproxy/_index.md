@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.net.http/httpclienthandler/set_useproxy/
 ---
-## HttpClientHandler::set_UseProxy(**bool**) method
+## HttpClientHandler::set_UseProxy(bool) method
 
 
 Sets the value that indicates if the current instance uses the proxy for sending requests.
@@ -24,6 +24,6 @@ void System::Net::Http::HttpClientHandler::set_UseProxy(bool value)
 
 ## See Also
 
-* Class [HttpClientHandler](../)
-* Namespace [System::Net::Http](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpClientHandler](./)
+* Namespace [System::Net::Http](../)
+* Library [Aspose.Slides](../../)

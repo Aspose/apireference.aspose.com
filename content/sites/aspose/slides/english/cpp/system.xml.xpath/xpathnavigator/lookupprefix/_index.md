@@ -6,7 +6,7 @@ type: docs
 weight: 417
 url: /cpp/system.xml.xpath/xpathnavigator/lookupprefix/
 ---
-## XPathNavigator::LookupPrefix(const [String](../../../system/string/)\&) method
+## XPathNavigator::LookupPrefix(const String\&) method
 
 
 Returns the prefix declared for the specified namespace URI.
@@ -28,7 +28,7 @@ A [String](../../../system/string/) that contains the namespace prefix assigned 
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

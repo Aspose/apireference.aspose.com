@@ -17,7 +17,7 @@ EffectTriggerType Aspose::Slides::Animation::Timing::get_TriggerType() override
 
 ## See Also
 
-* Enum [EffectTriggerType](../../effecttriggertype/)
-* Class [Timing](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [EffectTriggerType](../effecttriggertype/)
+* Class [Timing](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

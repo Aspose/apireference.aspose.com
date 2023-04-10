@@ -24,6 +24,6 @@ void System::Globalization::UmAlQuraCalendar::set_TwoDigitYearMax(int value) ove
 
 ## See Also
 
-* Class [UmAlQuraCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UmAlQuraCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

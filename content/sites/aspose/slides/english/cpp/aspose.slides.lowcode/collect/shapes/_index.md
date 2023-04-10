@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/aspose.slides.lowcode/collect/shapes/
 ---
-## Collect::Shapes([System::SharedPtr](../../../system/sharedptr/)\<[Presentation](../../../aspose.slides/presentation/)\>) method
+## Collect::Shapes(System::SharedPtr\<Presentation\>) method
 
 
 Collects all instances of [Shape](../../../aspose.slides/shape/) in the [Presentation](../../../aspose.slides/presentation/).
@@ -54,10 +54,10 @@ pres->Save(u"pres-out.pptx", SaveFormat::Pptx);
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
-* Class [Shape](../../../aspose.slides/shape/)
-* Class [Presentation](../../../aspose.slides/presentation/)
-* Class [Collect](../)
-* Namespace [Aspose::Slides::LowCode](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
+* Class [Shape](../../aspose.slides/shape/)
+* Class [Presentation](../../aspose.slides/presentation/)
+* Class [Collect](./)
+* Namespace [Aspose::Slides::LowCode](../)
+* Library [Aspose.Slides](../../)

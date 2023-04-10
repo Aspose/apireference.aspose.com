@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.io/directoryinfo/createsubdirectory/
 ---
-## DirectoryInfo::CreateSubdirectory(const [String](../../../system/string/)\&) method
+## DirectoryInfo::CreateSubdirectory(const String\&) method
 
 
 Creates subdirectories on the specified path.
@@ -28,8 +28,8 @@ The last directory specified in **path**.
 
 ## See Also
 
-* Typedef [DirectoryInfoPtr](../../../system/directoryinfoptr/)
-* Class [String](../../../system/string/)
-* Class [DirectoryInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [DirectoryInfoPtr](../../system/directoryinfoptr/)
+* Class [String](../../system/string/)
+* Class [DirectoryInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

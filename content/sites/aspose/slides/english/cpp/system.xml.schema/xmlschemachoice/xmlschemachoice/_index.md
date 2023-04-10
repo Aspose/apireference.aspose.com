@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaChoice::XmlSchemaChoice()
 
 ## See Also
 
-* Class [XmlSchemaChoice](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaChoice](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

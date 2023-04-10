@@ -17,7 +17,7 @@ DateTime System::Globalization::HebrewCalendar::get_MaxSupportedDateTime() const
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Class [HebrewCalendar](../)
-* Namespace [System::Globalization](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DateTime](../../system/datetime/)
+* Class [HebrewCalendar](./)
+* Namespace [System::Globalization](../)
+* Library [Aspose.Slides](../../)

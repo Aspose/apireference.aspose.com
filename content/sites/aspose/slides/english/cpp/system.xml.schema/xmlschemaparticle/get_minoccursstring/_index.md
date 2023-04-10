@@ -22,7 +22,7 @@ The number as a string value. [String::Empty](../../../system/string/empty/) ind
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlSchemaParticle](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlSchemaParticle](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

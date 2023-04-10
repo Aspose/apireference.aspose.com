@@ -35,6 +35,6 @@ template<typename To,typename ...> static std::enable_if<(std::is_fundamental<To
 
 ## See Also
 
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ObjectExt](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.net.http.headers/httpheaders/getvalues/
 ---
-## HttpHeaders::GetValues([String](../../../system/string/)) method
+## HttpHeaders::GetValues(String) method
 
 
 Returns corresponding values by the specified name.
@@ -28,9 +28,9 @@ The corresponding values.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
-* Class [String](../../../system/string/)
-* Class [HttpHeaders](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
+* Class [String](../../system/string/)
+* Class [HttpHeaders](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

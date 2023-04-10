@@ -17,7 +17,7 @@ virtual StyleType Aspose::Slides::Charts::IChart::get_Style()=0
 
 ## See Also
 
-* Enum [StyleType](../../styletype/)
-* Class [IChart](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [StyleType](../styletype/)
+* Class [IChart](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

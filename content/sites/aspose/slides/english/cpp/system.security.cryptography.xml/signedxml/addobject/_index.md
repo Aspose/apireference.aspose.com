@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/system.security.cryptography.xml/signedxml/addobject/
 ---
-## SignedXml::AddObject([SharedPtr](../../../system/sharedptr/)\<[DataObject](../../dataobject/)\>) method
+## SignedXml::AddObject(SharedPtr\<DataObject\>) method
 
 
 
@@ -17,8 +17,8 @@ void System::Security::Cryptography::Xml::SignedXml::AddObject(SharedPtr<DataObj
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DataObject](../../dataobject/)
-* Class [SignedXml](../)
-* Namespace [System::Security::Cryptography::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DataObject](../dataobject/)
+* Class [SignedXml](./)
+* Namespace [System::Security::Cryptography::Xml](../)
+* Library [Aspose.Slides](../../)

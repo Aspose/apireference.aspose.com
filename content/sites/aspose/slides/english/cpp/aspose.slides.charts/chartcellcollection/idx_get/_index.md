@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.charts/chartcellcollection/idx_get/
 ---
-## ChartCellCollection::idx_get(**int32_t**) method
+## ChartCellCollection::idx_get(int32_t) method
 
 
 Returns a cell ([IChartDataCell](../../ichartdatacell/)) by index.
@@ -28,8 +28,8 @@ System::SharedPtr<IChartDataCell> Aspose::Slides::Charts::ChartCellCollection::i
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataCell](../../ichartdatacell/)
-* Class [ChartCellCollection](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataCell](../ichartdatacell/)
+* Class [ChartCellCollection](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

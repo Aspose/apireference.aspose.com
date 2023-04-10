@@ -6,7 +6,7 @@ type: docs
 weight: 105
 url: /cpp/system.drawing/graphics/set_interpolationmode/
 ---
-## Graphics::set_InterpolationMode([Drawing2D::InterpolationMode](../../../system.drawing.drawing2d/interpolationmode/)) method
+## Graphics::set_InterpolationMode(Drawing2D::InterpolationMode) method
 
 
 Sets a value that indicates the interpolation mode associated with the current object.
@@ -24,7 +24,7 @@ void System::Drawing::Graphics::set_InterpolationMode(Drawing2D::InterpolationMo
 
 ## See Also
 
-* Enum [InterpolationMode](../../../system.drawing.drawing2d/interpolationmode/)
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [InterpolationMode](../../system.drawing.drawing2d/interpolationmode/)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

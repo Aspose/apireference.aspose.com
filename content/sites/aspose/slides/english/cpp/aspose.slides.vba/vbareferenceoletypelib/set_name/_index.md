@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.vba/vbareferenceoletypelib/set_name/
 ---
-## VbaReferenceOleTypeLib::set_Name([System::String](../../../system/string/)) method
+## VbaReferenceOleTypeLib::set_Name(System::String) method
 
 
 Represents the name of the VBA project reference. Write [System::String](../../../system/string/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Vba::VbaReferenceOleTypeLib::set_Name(System::String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [VbaReferenceOleTypeLib](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [VbaReferenceOleTypeLib](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

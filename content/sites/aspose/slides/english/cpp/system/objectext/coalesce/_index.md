@@ -34,12 +34,7 @@ template<typename T0,typename T1> static auto System::ObjectExt::Coalesce(T0 val
 
 If LHS value is not null, returns LHS, otherwise calculates RHS expression and returns result.
 
-## See Also
-
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
-## ObjectExt::Coalesce([System::Nullable](../../nullable/)\<T0\>, T1) method
+## ObjectExt::Coalesce(System::Nullable\<T0\>, T1) method
 
 
 Implementation of '?' operator translation for nullable types.
@@ -69,7 +64,7 @@ If LHS value is not null, returns LHS, otherwise calculates RHS expression and r
 
 ## See Also
 
-* Class [Nullable](../../nullable/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ObjectExt](./)
+* Class [Nullable](../nullable/)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

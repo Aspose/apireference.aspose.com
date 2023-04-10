@@ -17,6 +17,6 @@ void System::Diagnostics::PerformanceCounter::Close()
 
 ## See Also
 
-* Class [PerformanceCounter](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [PerformanceCounter](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

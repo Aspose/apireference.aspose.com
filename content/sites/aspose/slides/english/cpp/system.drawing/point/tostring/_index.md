@@ -17,7 +17,7 @@ String System::Drawing::Point::ToString() const
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Point](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Point](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

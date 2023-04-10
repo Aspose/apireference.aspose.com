@@ -17,7 +17,7 @@ EncodingPtr System::IO::StreamReader::get_CurrentEncoding()
 
 ## See Also
 
-* Typedef [EncodingPtr](../../../system/encodingptr/)
-* Class [StreamReader](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [EncodingPtr](../../system/encodingptr/)
+* Class [StreamReader](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

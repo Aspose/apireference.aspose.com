@@ -17,8 +17,8 @@ System::SharedPtr<System::Globalization::CultureInfo> Aspose::Slides::Spreadshee
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CultureInfo](../../../system.globalization/cultureinfo/)
-* Class [SpreadsheetOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CultureInfo](../../system.globalization/cultureinfo/)
+* Class [SpreadsheetOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

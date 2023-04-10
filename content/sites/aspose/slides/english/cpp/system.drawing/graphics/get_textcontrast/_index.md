@@ -18,6 +18,6 @@ int32_t System::Drawing::Graphics::get_TextContrast() const
 
 ## See Also
 
-* Class [Graphics](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Graphics](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

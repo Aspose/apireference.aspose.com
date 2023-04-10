@@ -17,6 +17,6 @@ System::Details::VirtualizedIteratorBase<Result> * System::Collections::Generic:
 
 ## See Also
 
-* Class [EnumeratorSelectAdapter](../)
-* Namespace [System::Collections::Generic::Details](../../)
-* Library [Aspose.Slides](../../../)
+* Class [EnumeratorSelectAdapter](./)
+* Namespace [System::Collections::Generic::Details](../)
+* Library [Aspose.Slides](../../)

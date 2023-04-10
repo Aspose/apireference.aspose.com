@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/shape/
 Represents a shape on a slide.
 
 ```cpp
-class Shape : public virtual Aspose::Slides::IShape,
-              public Aspose::Slides::IDOMObject
+class Shape : public virtual Aspose::Slides::IShape,              public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

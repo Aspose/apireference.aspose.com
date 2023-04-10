@@ -6,7 +6,7 @@ type: docs
 weight: 313
 url: /cpp/aspose.slides/hyperlink/set_colorsource/
 ---
-## Hyperlink::set_ColorSource([HyperlinkColorSource](../../hyperlinkcolorsource/)) method
+## Hyperlink::set_ColorSource(HyperlinkColorSource) method
 
 
 Represents the source of hyperlink color - either styles or portion format. Write [HyperlinkColorSource](../../hyperlinkcolorsource/).
@@ -17,7 +17,7 @@ void Aspose::Slides::Hyperlink::set_ColorSource(HyperlinkColorSource value) over
 
 ## See Also
 
-* Enum [HyperlinkColorSource](../../hyperlinkcolorsource/)
-* Class [Hyperlink](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [HyperlinkColorSource](../hyperlinkcolorsource/)
+* Class [Hyperlink](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

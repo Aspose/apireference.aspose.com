@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/gradientstopeffectivedata/
 Immutable object which represents a gradient stop.
 
 ```cpp
-class GradientStopEffectiveData : public Aspose::Slides::IEffectiveData,
-                                  public Aspose::Slides::IGradientStopEffectiveData
+class GradientStopEffectiveData : public Aspose::Slides::IEffectiveData,                                  public Aspose::Slides::IGradientStopEffectiveData
 ```
 
 ## Methods

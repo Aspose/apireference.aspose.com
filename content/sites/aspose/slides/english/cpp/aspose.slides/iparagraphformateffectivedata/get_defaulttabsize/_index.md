@@ -17,6 +17,6 @@ virtual float Aspose::Slides::IParagraphFormatEffectiveData::get_DefaultTabSize(
 
 ## See Also
 
-* Class [IParagraphFormatEffectiveData](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IParagraphFormatEffectiveData](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

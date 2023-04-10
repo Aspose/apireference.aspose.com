@@ -15,11 +15,6 @@ url: /cpp/system/enumgetname/
 template<class T> static System::String System::EnumGetName(T value)
 ```
 
-## See Also
-
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
 ## System::EnumGetName(T) function
 
 
@@ -31,6 +26,6 @@ template<class T> static System::String System::EnumGetName(T value)
 
 ## See Also
 
-* Class [String](../string/)
-* Namespace [System](../)
-* Library [Aspose.Slides](../../)
+* Class [String](./string/)
+* Namespace [System](./)
+* Library [Aspose.Slides](../)

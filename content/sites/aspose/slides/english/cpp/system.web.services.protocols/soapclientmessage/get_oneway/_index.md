@@ -22,6 +22,6 @@ A value that indicates if a client doesn't wait for a server to finish processin
 
 ## See Also
 
-* Class [SoapClientMessage](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SoapClientMessage](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

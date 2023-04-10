@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschemaobjectcollection/contains/
 ---
-## XmlSchemaObjectCollection::Contains(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaObject](../../xmlschemaobject/)\>\&) method
+## XmlSchemaObjectCollection::Contains(const SharedPtr\<XmlSchemaObject\>\&) method
 
 
 Indicates if the specified [XmlSchemaObject](../../xmlschemaobject/) is in the [XmlSchemaObjectCollection](../).
@@ -28,8 +28,8 @@ bool System::Xml::Schema::XmlSchemaObjectCollection::Contains(const SharedPtr<Xm
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaObject](../../xmlschemaobject/)
-* Class [XmlSchemaObjectCollection](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaObject](../xmlschemaobject/)
+* Class [XmlSchemaObjectCollection](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

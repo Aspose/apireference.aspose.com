@@ -22,7 +22,7 @@ An XmlTokenizedType value for the **string**.
 
 ## See Also
 
-* Enum [XmlTokenizedType](../../../system.xml/xmltokenizedtype/)
-* Class [XmlSchemaDatatype](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlTokenizedType](../../system.xml/xmltokenizedtype/)
+* Class [XmlSchemaDatatype](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

@@ -21,6 +21,6 @@ virtual bool Aspose::Slides::Export::IPdfOptions::get_EmbedTrueTypeFontsForASCII
 Default is **true**. 
 ## See Also
 
-* Class [IPdfOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPdfOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

@@ -18,6 +18,6 @@ virtual uint32_t Aspose::Slides::IConnector::get_StartShapeConnectionSiteIndex()
 
 ## See Also
 
-* Class [IConnector](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IConnector](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

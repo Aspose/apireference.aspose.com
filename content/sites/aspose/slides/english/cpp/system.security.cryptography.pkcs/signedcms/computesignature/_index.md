@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography.pkcs/signedcms/computesignature/
 ---
-## SignedCms::ComputeSignature(const [SharedPtr](../../../system/sharedptr/)\<[CmsSigner](../../cmssigner/)\>\&, **bool**) method
+## SignedCms::ComputeSignature(const SharedPtr\<CmsSigner\>\&, bool) method
 
 
 Creates a signature.
@@ -25,8 +25,8 @@ void System::Security::Cryptography::Pkcs::SignedCms::ComputeSignature(const Sha
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CmsSigner](../../cmssigner/)
-* Class [SignedCms](../)
-* Namespace [System::Security::Cryptography::Pkcs](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [CmsSigner](../cmssigner/)
+* Class [SignedCms](./)
+* Namespace [System::Security::Cryptography::Pkcs](../)
+* Library [Aspose.Slides](../../)

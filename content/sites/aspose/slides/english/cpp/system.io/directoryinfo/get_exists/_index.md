@@ -22,6 +22,6 @@ True if the path refers to existing directory, otherwise - false
 
 ## See Also
 
-* Class [DirectoryInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [DirectoryInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

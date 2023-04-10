@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/system.web.services.protocols/soapdocumentserviceattribute/set_use/
 ---
-## SoapDocumentServiceAttribute::set_Use([Description::SoapBindingUse](../../../system.web.services.description/soapbindinguse/)) method
+## SoapDocumentServiceAttribute::set_Use(Description::SoapBindingUse) method
 
 
 Sets the parameter formatting.
@@ -24,7 +24,7 @@ void System::Web::Services::Protocols::SoapDocumentServiceAttribute::set_Use(Des
 
 ## See Also
 
-* Enum [SoapBindingUse](../../../system.web.services.description/soapbindinguse/)
-* Class [SoapDocumentServiceAttribute](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SoapBindingUse](../../system.web.services.description/soapbindinguse/)
+* Class [SoapDocumentServiceAttribute](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

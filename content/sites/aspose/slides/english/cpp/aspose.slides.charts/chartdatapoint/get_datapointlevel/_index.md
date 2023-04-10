@@ -6,7 +6,7 @@ type: docs
 weight: 365
 url: /cpp/aspose.slides.charts/chartdatapoint/get_datapointlevel/
 ---
-## ChartDataPoint::get_DataPointLevel(**int32_t**) method
+## ChartDataPoint::get_DataPointLevel(int32_t) method
 
 
 Returns a data point level at the specified index. Applied for Treeamp and Sunburst series. Data point levels indexing is zero-based.
@@ -17,8 +17,8 @@ System::SharedPtr<IChartDataPointLevel> Aspose::Slides::Charts::ChartDataPoint::
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IChartDataPointLevel](../../ichartdatapointlevel/)
-* Class [ChartDataPoint](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IChartDataPointLevel](../ichartdatapointlevel/)
+* Class [ChartDataPoint](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

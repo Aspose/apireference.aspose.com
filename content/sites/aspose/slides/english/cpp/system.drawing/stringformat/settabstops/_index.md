@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/system.drawing/stringformat/settabstops/
 ---
-## StringFormat::SetTabStops(**float**, const [ArrayPtr](../../../system/arrayptr/)\<**float**\>\&) method
+## StringFormat::SetTabStops(float, const ArrayPtr\<float\>\&) method
 
 
 Sets the tab stops for the current [StringFormat](../) object.
@@ -25,7 +25,7 @@ void System::Drawing::StringFormat::SetTabStops(float first_tab_offset, const Ar
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [StringFormat](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [StringFormat](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 235
 url: /cpp/system.xml/xmlreadersettings/set_ignoreprocessinginstructions/
 ---
-## XmlReaderSettings::set_IgnoreProcessingInstructions(**bool**) method
+## XmlReaderSettings::set_IgnoreProcessingInstructions(bool) method
 
 
 Sets a value indicating whether to ignore processing instructions.
@@ -24,6 +24,6 @@ void System::Xml::XmlReaderSettings::set_IgnoreProcessingInstructions(bool value
 
 ## See Also
 
-* Class [XmlReaderSettings](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlReaderSettings](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

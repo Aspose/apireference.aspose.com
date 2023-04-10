@@ -22,8 +22,8 @@ Rotation effect.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IRotationEffect](../../irotationeffect/)
-* Class [IBehaviorFactory](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IRotationEffect](../irotationeffect/)
+* Class [IBehaviorFactory](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

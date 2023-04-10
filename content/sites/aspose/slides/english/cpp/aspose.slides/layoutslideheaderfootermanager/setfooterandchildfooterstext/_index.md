@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/layoutslideheaderfootermanager/setfooterandchildfooterstext/
 ---
-## LayoutSlideHeaderFooterManager::SetFooterAndChildFootersText([System::String](../../../system/string/)) method
+## LayoutSlideHeaderFooterManager::SetFooterAndChildFootersText(System::String) method
 
 
 Sets text to layout slide footer placeholder and all child footer placeholders. Child placeholders mean placeholders are contained on depending slides. Depending slides use and depend on layout slide.
@@ -24,7 +24,7 @@ void Aspose::Slides::LayoutSlideHeaderFooterManager::SetFooterAndChildFootersTex
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [LayoutSlideHeaderFooterManager](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [LayoutSlideHeaderFooterManager](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

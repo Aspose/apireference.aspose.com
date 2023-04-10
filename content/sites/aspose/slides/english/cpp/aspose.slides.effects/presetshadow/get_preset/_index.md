@@ -17,7 +17,7 @@ PresetShadowType Aspose::Slides::Effects::PresetShadow::get_Preset() override
 
 ## See Also
 
-* Enum [PresetShadowType](../../../aspose.slides/presetshadowtype/)
-* Class [PresetShadow](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [PresetShadowType](../../aspose.slides/presetshadowtype/)
+* Class [PresetShadow](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

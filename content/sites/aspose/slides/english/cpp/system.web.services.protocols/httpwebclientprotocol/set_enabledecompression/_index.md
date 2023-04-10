@@ -6,7 +6,7 @@ type: docs
 weight: 79
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_enabledecompression/
 ---
-## HttpWebClientProtocol::set_EnableDecompression(**bool**) method
+## HttpWebClientProtocol::set_EnableDecompression(bool) method
 
 
 Sets a value that indicates if decompression is enabled.
@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::HttpWebClientProtocol::set_EnableDecompre
 
 ## See Also
 
-* Class [HttpWebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpWebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.xml/xmldeclaration/set_standalone/
 ---
-## XmlDeclaration::set_Standalone(const [String](../../../system/string/)\&) method
+## XmlDeclaration::set_Standalone(const String\&) method
 
 
 Sets the value of the standalone attribute.
@@ -24,7 +24,7 @@ void System::Xml::XmlDeclaration::set_Standalone(const String &value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlDeclaration](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlDeclaration](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

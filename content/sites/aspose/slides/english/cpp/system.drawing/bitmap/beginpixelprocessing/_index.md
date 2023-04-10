@@ -6,7 +6,7 @@ type: docs
 weight: 248
 url: /cpp/system.drawing/bitmap/beginpixelprocessing/
 ---
-## Bitmap::BeginPixelProcessing(**bool**) method
+## Bitmap::BeginPixelProcessing(bool) method
 
 
 Enables pixel processing mode.
@@ -24,6 +24,6 @@ bool System::Drawing::Bitmap::BeginPixelProcessing(bool update_colors=1)
 
 ## See Also
 
-* Class [Bitmap](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Bitmap](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

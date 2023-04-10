@@ -12,8 +12,7 @@ url: /cpp/aspose.slides/comment/
 Represents a comment on a slide.
 
 ```cpp
-class Comment : public virtual Aspose::Slides::IComment,
-                public Aspose::Slides::IDOMObject
+class Comment : public virtual Aspose::Slides::IComment,                public Aspose::Slides::IDOMObject
 ```
 
 ## Methods

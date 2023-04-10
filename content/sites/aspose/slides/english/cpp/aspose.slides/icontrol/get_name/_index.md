@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::IControl::get_Name()=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IControl](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IControl](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

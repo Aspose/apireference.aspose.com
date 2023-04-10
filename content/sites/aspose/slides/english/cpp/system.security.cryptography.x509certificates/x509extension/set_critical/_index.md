@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.security.cryptography.x509certificates/x509extension/set_critical/
 ---
-## X509Extension::set_Critical(**bool**) method
+## X509Extension::set_Critical(bool) method
 
 
 Defines whether extension is critical.
@@ -24,6 +24,6 @@ void System::Security::Cryptography::X509Certificates::X509Extension::set_Critic
 
 ## See Also
 
-* Class [X509Extension](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Class [X509Extension](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

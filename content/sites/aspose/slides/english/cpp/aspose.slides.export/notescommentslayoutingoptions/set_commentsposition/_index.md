@@ -6,7 +6,7 @@ type: docs
 weight: 66
 url: /cpp/aspose.slides.export/notescommentslayoutingoptions/set_commentsposition/
 ---
-## NotesCommentsLayoutingOptions::set_CommentsPosition([CommentsPositions](../../commentspositions/)) method
+## NotesCommentsLayoutingOptions::set_CommentsPosition(CommentsPositions) method
 
 
 Sets the position of the comments on the page.
@@ -21,7 +21,7 @@ void Aspose::Slides::Export::NotesCommentsLayoutingOptions::set_CommentsPosition
 Default is **[CommentsPositions::None](../../commentspositions/)**. 
 ## See Also
 
-* Enum [CommentsPositions](../../commentspositions/)
-* Class [NotesCommentsLayoutingOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [CommentsPositions](../commentspositions/)
+* Class [NotesCommentsLayoutingOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

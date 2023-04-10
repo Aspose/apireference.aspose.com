@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/aspose.slides/ieffectformat/setblureffect/
 ---
-## IEffectFormat::SetBlurEffect(**double**, **bool**) method
+## IEffectFormat::SetBlurEffect(double, bool) method
 
 
 Sets blur effect.
@@ -25,6 +25,6 @@ virtual void Aspose::Slides::IEffectFormat::SetBlurEffect(double radius, bool gr
 
 ## See Also
 
-* Class [IEffectFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IEffectFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

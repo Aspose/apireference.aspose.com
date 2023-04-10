@@ -6,7 +6,7 @@ type: docs
 weight: 118
 url: /cpp/system.runtime.interopservices/marshal/securestringtoglobalallocansi/
 ---
-## Marshal::SecureStringToGlobalAllocAnsi(const [SharedPtr](../../../system/sharedptr/)\<[Security::SecureString](../../../system.security/securestring/)\>\&) method
+## Marshal::SecureStringToGlobalAllocAnsi(const SharedPtr\<Security::SecureString\>\&) method
 
 
 Copies contents of specified secure string into unmanaged memory, converting into ANSI format.
@@ -28,8 +28,8 @@ The address in unmanaged memory.
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SecureString](../../../system.security/securestring/)
-* Class [Marshal](../)
-* Namespace [System::Runtime::InteropServices](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [SecureString](../../system.security/securestring/)
+* Class [Marshal](./)
+* Namespace [System::Runtime::InteropServices](../)
+* Library [Aspose.Slides](../../)

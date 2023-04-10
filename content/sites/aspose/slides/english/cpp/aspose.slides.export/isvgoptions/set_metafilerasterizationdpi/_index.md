@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides.export/isvgoptions/set_metafilerasterizationdpi/
 ---
-## ISVGOptions::set_MetafileRasterizationDpi(**int32_t**) method
+## ISVGOptions::set_MetafileRasterizationDpi(int32_t) method
 
 
 Sets the lower resolution limit for metafile rasterization. Write **int32_t**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISVGOptions::set_MetafileRasterizationDpi(i
 
 ## See Also
 
-* Class [ISVGOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISVGOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

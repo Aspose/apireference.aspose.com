@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides/ipictureframelock/set_groupinglocked/
 ---
-## IPictureFrameLock::set_GroupingLocked(**bool**) method
+## IPictureFrameLock::set_GroupingLocked(bool) method
 
 
 Determines whether an adding this shape to a group is forbidden. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::IPictureFrameLock::set_GroupingLocked(bool value)=0
 
 ## See Also
 
-* Class [IPictureFrameLock](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IPictureFrameLock](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

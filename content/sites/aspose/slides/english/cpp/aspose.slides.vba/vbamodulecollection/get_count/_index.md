@@ -17,6 +17,6 @@ int32_t Aspose::Slides::Vba::VbaModuleCollection::get_Count() override
 
 ## See Also
 
-* Class [VbaModuleCollection](../)
-* Namespace [Aspose::Slides::Vba](../../)
-* Library [Aspose.Slides](../../../)
+* Class [VbaModuleCollection](./)
+* Namespace [Aspose::Slides::Vba](../)
+* Library [Aspose.Slides](../../)

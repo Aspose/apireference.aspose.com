@@ -6,7 +6,7 @@ type: docs
 weight: 222
 url: /cpp/system.io/file/move/
 ---
-## File::Move(const [String](../../../system/string/)\&, const [String](../../../system/string/)\&) method
+## File::Move(const String\&, const String\&) method
 
 
 Moves the specified file to the new location.
@@ -25,7 +25,7 @@ static void System::IO::File::Move(const String &sourceFileName, const String &d
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [File](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [File](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)

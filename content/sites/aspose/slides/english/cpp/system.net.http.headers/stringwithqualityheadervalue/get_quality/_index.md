@@ -22,7 +22,7 @@ The quality.
 
 ## See Also
 
-* Class [Nullable](../../../system/nullable/)
-* Class [StringWithQualityHeaderValue](../)
-* Namespace [System::Net::Http::Headers](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Nullable](../../system/nullable/)
+* Class [StringWithQualityHeaderValue](./)
+* Namespace [System::Net::Http::Headers](../)
+* Library [Aspose.Slides](../../)

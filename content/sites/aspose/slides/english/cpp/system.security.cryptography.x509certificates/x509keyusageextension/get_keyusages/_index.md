@@ -17,7 +17,7 @@ X509KeyUsageFlags System::Security::Cryptography::X509Certificates::X509KeyUsage
 
 ## See Also
 
-* Enum [X509KeyUsageFlags](../../x509keyusageflags/)
-* Class [X509KeyUsageExtension](../)
-* Namespace [System::Security::Cryptography::X509Certificates](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [X509KeyUsageFlags](../x509keyusageflags/)
+* Class [X509KeyUsageExtension](./)
+* Namespace [System::Security::Cryptography::X509Certificates](../)
+* Library [Aspose.Slides](../../)

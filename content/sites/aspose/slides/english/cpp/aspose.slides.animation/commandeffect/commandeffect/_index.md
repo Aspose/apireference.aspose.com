@@ -17,6 +17,6 @@ Aspose::Slides::Animation::CommandEffect::CommandEffect()
 
 ## See Also
 
-* Class [CommandEffect](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [CommandEffect](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 339
 url: /cpp/system.xml.xpath/xpathnavigator/set_innerxml/
 ---
-## XPathNavigator::set_InnerXml([String](../../../system/string/)) method
+## XPathNavigator::set_InnerXml(String) method
 
 
 Sets the markup representing the child nodes of the current node.
@@ -24,7 +24,7 @@ virtual void System::Xml::XPath::XPathNavigator::set_InnerXml(String value)
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XPathNavigator](../)
-* Namespace [System::Xml::XPath](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XPathNavigator](./)
+* Namespace [System::Xml::XPath](../)
+* Library [Aspose.Slides](../../)

@@ -22,7 +22,7 @@ The URI location of the schema that caused the exception.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [Details_XmlSchemaException](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [Details_XmlSchemaException](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

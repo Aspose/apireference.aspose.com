@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.xml/xmlconvert/encodenmtoken/
 ---
-## XmlConvert::EncodeNmToken(const [String](../../../system/string/)\&) method
+## XmlConvert::EncodeNmToken(const String\&) method
 
 
 Verifies the name is valid according to the XML specification.
@@ -28,7 +28,7 @@ The encoded name.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [XmlConvert](../)
-* Namespace [System::Xml](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [XmlConvert](./)
+* Namespace [System::Xml](../)
+* Library [Aspose.Slides](../../)

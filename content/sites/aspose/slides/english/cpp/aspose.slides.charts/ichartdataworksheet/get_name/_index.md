@@ -17,7 +17,7 @@ virtual System::String Aspose::Slides::Charts::IChartDataWorksheet::get_Name()=0
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [IChartDataWorksheet](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [IChartDataWorksheet](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

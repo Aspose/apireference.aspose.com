@@ -17,7 +17,7 @@ System::ArrayPtr<float> Aspose::Slides::Camera::GetRotation() override
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Camera](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [Camera](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

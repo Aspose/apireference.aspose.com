@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.xml.schema/xmlschemaidentityconstraint/set_selector/
 ---
-## XmlSchemaIdentityConstraint::set_Selector(const [SharedPtr](../../../system/sharedptr/)\<[XmlSchemaXPath](../../xmlschemaxpath/)\>\&) method
+## XmlSchemaIdentityConstraint::set_Selector(const SharedPtr\<XmlSchemaXPath\>\&) method
 
 
 Sets the [XPath](../../../system.xml.xpath/) expression **selector** element.
@@ -24,8 +24,8 @@ void System::Xml::Schema::XmlSchemaIdentityConstraint::set_Selector(const Shared
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchemaXPath](../../xmlschemaxpath/)
-* Class [XmlSchemaIdentityConstraint](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlSchemaXPath](../xmlschemaxpath/)
+* Class [XmlSchemaIdentityConstraint](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

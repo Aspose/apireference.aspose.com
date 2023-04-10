@@ -17,6 +17,6 @@ System::Xml::Schema::XmlSchemaInference::XmlSchemaInference()
 
 ## See Also
 
-* Class [XmlSchemaInference](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Class [XmlSchemaInference](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

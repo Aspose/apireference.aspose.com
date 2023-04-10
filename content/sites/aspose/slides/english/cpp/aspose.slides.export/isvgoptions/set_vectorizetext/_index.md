@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/aspose.slides.export/isvgoptions/set_vectorizetext/
 ---
-## ISVGOptions::set_VectorizeText(**bool**) method
+## ISVGOptions::set_VectorizeText(bool) method
 
 
 Determines whether the text on a slide will be saved as graphics. Write **bool**.
@@ -17,6 +17,6 @@ virtual void Aspose::Slides::Export::ISVGOptions::set_VectorizeText(bool value)=
 
 ## See Also
 
-* Class [ISVGOptions](../)
-* Namespace [Aspose::Slides::Export](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISVGOptions](./)
+* Namespace [Aspose::Slides::Export](../)
+* Library [Aspose.Slides](../../)

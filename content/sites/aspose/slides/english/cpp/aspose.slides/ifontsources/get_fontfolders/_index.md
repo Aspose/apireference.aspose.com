@@ -17,8 +17,8 @@ virtual System::ArrayPtr<System::String> Aspose::Slides::IFontSources::get_FontF
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [IFontSources](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [String](../../system/string/)
+* Class [IFontSources](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

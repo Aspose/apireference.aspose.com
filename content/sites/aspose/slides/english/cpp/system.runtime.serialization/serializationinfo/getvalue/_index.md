@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.runtime.serialization/serializationinfo/getvalue/
 ---
-## SerializationInfo::GetValue(const [System::String](../../../system/string/)\&, const [System::TypeInfo](../../../system/typeinfo/)\&) method
+## SerializationInfo::GetValue(const System::String\&, const System::TypeInfo\&) method
 
 
 Retrieves a value from the [SerializationInfo](../) store. Not implemented.
@@ -25,10 +25,10 @@ System::SharedPtr<System::Object> System::Runtime::Serialization::SerializationI
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [String](../../../system/string/)
-* Class [TypeInfo](../../../system/typeinfo/)
-* Class [SerializationInfo](../)
-* Namespace [System::Runtime::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [Object](../../system/object/)
+* Class [String](../../system/string/)
+* Class [TypeInfo](../../system/typeinfo/)
+* Class [SerializationInfo](./)
+* Namespace [System::Runtime::Serialization](../)
+* Library [Aspose.Slides](../../)

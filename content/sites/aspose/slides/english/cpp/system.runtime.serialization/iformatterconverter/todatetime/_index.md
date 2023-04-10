@@ -6,7 +6,7 @@ type: docs
 weight: 53
 url: /cpp/system.runtime.serialization/iformatterconverter/todatetime/
 ---
-## IFormatterConverter::ToDateTime([System::SharedPtr](../../../system/sharedptr/)\<[Object](../../../system/object/)\>) method
+## IFormatterConverter::ToDateTime(System::SharedPtr\<Object\>) method
 
 
 Converts a value to a [DateTime](../../../system/datetime/).
@@ -28,9 +28,9 @@ The converted value.
 
 ## See Also
 
-* Class [DateTime](../../../system/datetime/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
-* Class [IFormatterConverter](../)
-* Namespace [System::Runtime::Serialization](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [DateTime](../../system/datetime/)
+* Class [Object](../../system/object/)
+* Class [IFormatterConverter](./)
+* Namespace [System::Runtime::Serialization](../)
+* Library [Aspose.Slides](../../)

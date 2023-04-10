@@ -6,7 +6,7 @@ type: docs
 weight: 261
 url: /cpp/system.net.sockets/networkstream/endread/
 ---
-## NetworkStream::EndRead([System::SharedPtr](../../../system/sharedptr/)\<[IAsyncResult](../../../system/iasyncresult/)\>) method
+## NetworkStream::EndRead(System::SharedPtr\<IAsyncResult\>) method
 
 
 Waits until the specified asynchronous read operation completes.
@@ -28,8 +28,8 @@ The number of bytes read during the read operation represented by **asyncResult*
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAsyncResult](../../../system/iasyncresult/)
-* Class [NetworkStream](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAsyncResult](../../system/iasyncresult/)
+* Class [NetworkStream](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

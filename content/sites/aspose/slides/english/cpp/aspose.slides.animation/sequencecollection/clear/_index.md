@@ -17,6 +17,6 @@ void Aspose::Slides::Animation::SequenceCollection::Clear() override
 
 ## See Also
 
-* Class [SequenceCollection](../)
-* Namespace [Aspose::Slides::Animation](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SequenceCollection](./)
+* Namespace [Aspose::Slides::Animation](../)
+* Library [Aspose.Slides](../../)

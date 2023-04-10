@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.charts/datatable/
 Represents data table properties.
 
 ```cpp
-class DataTable : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,
-                  public Aspose::Slides::Charts::IDataTable
+class DataTable : public Aspose::Slides::DomObject<System::SharedPtr<Aspose::Slides::Charts::Chart>>,                  public Aspose::Slides::Charts::IDataTable
 ```
 
 ## Methods

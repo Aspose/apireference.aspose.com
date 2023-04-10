@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /cpp/system.net.sockets/tcpclient/set_sendtimeout/
 ---
-## TcpClient::set_SendTimeout(**int32_t**) method
+## TcpClient::set_SendTimeout(int32_t) method
 
 
 Sets a value that indicates an amount of time after which data sending will time out.
@@ -24,6 +24,6 @@ void System::Net::Sockets::TcpClient::set_SendTimeout(int32_t value)
 
 ## See Also
 
-* Class [TcpClient](../)
-* Namespace [System::Net::Sockets](../../)
-* Library [Aspose.Slides](../../../)
+* Class [TcpClient](./)
+* Namespace [System::Net::Sockets](../)
+* Library [Aspose.Slides](../../)

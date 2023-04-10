@@ -6,7 +6,7 @@ type: docs
 weight: 183
 url: /cpp/aspose.slides.charts/chartdatacell/calculate/
 ---
-## ChartDataCell::Calculate(**bool**) method
+## ChartDataCell::Calculate(bool) method
 
 
 If the cell contains a formula, the value will be updated base on that formula.
@@ -24,6 +24,6 @@ void Aspose::Slides::Charts::ChartDataCell::Calculate(bool updateValues) overrid
 
 ## See Also
 
-* Class [ChartDataCell](../)
-* Namespace [Aspose::Slides::Charts](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ChartDataCell](./)
+* Namespace [Aspose::Slides::Charts](../)
+* Library [Aspose.Slides](../../)

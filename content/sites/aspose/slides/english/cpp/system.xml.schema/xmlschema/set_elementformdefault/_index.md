@@ -6,7 +6,7 @@ type: docs
 weight: 92
 url: /cpp/system.xml.schema/xmlschema/set_elementformdefault/
 ---
-## XmlSchema::set_ElementFormDefault([XmlSchemaForm](../../xmlschemaform/)) method
+## XmlSchema::set_ElementFormDefault(XmlSchemaForm) method
 
 
 Sets the form for elements declared in the target namespace of the schema.
@@ -24,7 +24,7 @@ void System::Xml::Schema::XmlSchema::set_ElementFormDefault(XmlSchemaForm value)
 
 ## See Also
 
-* Enum [XmlSchemaForm](../../xmlschemaform/)
-* Class [XmlSchema](../)
-* Namespace [System::Xml::Schema](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [XmlSchemaForm](../xmlschemaform/)
+* Class [XmlSchema](./)
+* Namespace [System::Xml::Schema](../)
+* Library [Aspose.Slides](../../)

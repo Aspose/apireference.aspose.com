@@ -6,7 +6,7 @@ type: docs
 weight: 27
 url: /cpp/system.drawing/solidbrush/set_color/
 ---
-## SolidBrush::set_Color([Color](../../color/)) method
+## SolidBrush::set_Color(Color) method
 
 
 Sets the color of this brush.
@@ -24,7 +24,7 @@ void System::Drawing::SolidBrush::set_Color(Color color)
 
 ## See Also
 
-* Class [Color](../../color/)
-* Class [SolidBrush](../)
-* Namespace [System::Drawing](../../)
-* Library [Aspose.Slides](../../../)
+* Class [Color](../color/)
+* Class [SolidBrush](./)
+* Namespace [System::Drawing](../)
+* Library [Aspose.Slides](../../)

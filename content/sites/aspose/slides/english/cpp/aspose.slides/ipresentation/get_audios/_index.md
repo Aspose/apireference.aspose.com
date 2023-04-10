@@ -17,8 +17,8 @@ virtual System::SharedPtr<IAudioCollection> Aspose::Slides::IPresentation::get_A
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IAudioCollection](../../iaudiocollection/)
-* Class [IPresentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IAudioCollection](../iaudiocollection/)
+* Class [IPresentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

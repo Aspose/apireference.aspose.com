@@ -22,6 +22,6 @@ Maximal valid key size, bits.
 
 ## See Also
 
-* Class [KeySizes](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Class [KeySizes](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

@@ -17,8 +17,8 @@ System::SharedPtr<Aspose::Slides::SlideShowSettings> Aspose::Slides::Presentatio
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SlideShowSettings](../../slideshowsettings/)
-* Class [Presentation](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [SlideShowSettings](../slideshowsettings/)
+* Class [Presentation](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

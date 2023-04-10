@@ -22,6 +22,6 @@ True when the list has a fixed size, otherwise false.
 
 ## See Also
 
-* Class [IList](../)
-* Namespace [System::Collections](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IList](./)
+* Namespace [System::Collections](../)
+* Library [Aspose.Slides](../../)

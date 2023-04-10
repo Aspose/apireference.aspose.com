@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.security.cryptography/icryptotransform/transformfinalblock/
 ---
-## ICryptoTransform::TransformFinalBlock([ArrayPtr](../../../system/arrayptr/)\<**uint8_t**\>, int, int) method
+## ICryptoTransform::TransformFinalBlock(ArrayPtr\<uint8_t\>, int, int) method
 
 
 Processes last block of data and calculates output value.
@@ -30,7 +30,7 @@ Output calculated for the whole input sequence.
 
 ## See Also
 
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [ICryptoTransform](../)
-* Namespace [System::Security::Cryptography](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [ArrayPtr](../../system/arrayptr/)
+* Class [ICryptoTransform](./)
+* Namespace [System::Security::Cryptography](../)
+* Library [Aspose.Slides](../../)

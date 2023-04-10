@@ -17,7 +17,7 @@ virtual TextShapeType Aspose::Slides::ITextFrameFormat::get_Transform()=0
 
 ## See Also
 
-* Enum [TextShapeType](../../textshapetype/)
-* Class [ITextFrameFormat](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [TextShapeType](../textshapetype/)
+* Class [ITextFrameFormat](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

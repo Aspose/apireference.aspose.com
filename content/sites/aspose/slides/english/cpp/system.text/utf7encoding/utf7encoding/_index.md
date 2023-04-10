@@ -15,12 +15,7 @@ Constructor.
 System::Text::UTF7Encoding::UTF7Encoding()
 ```
 
-## See Also
-
-* Class [UTF7Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
-## UTF7Encoding::UTF7Encoding(**bool**) constructor
+## UTF7Encoding::UTF7Encoding(bool) constructor
 
 
 Constructor.
@@ -38,6 +33,6 @@ System::Text::UTF7Encoding::UTF7Encoding(bool allow_optionals)
 
 ## See Also
 
-* Class [UTF7Encoding](../)
-* Namespace [System::Text](../../)
-* Library [Aspose.Slides](../../../)
+* Class [UTF7Encoding](./)
+* Namespace [System::Text](../)
+* Library [Aspose.Slides](../../)

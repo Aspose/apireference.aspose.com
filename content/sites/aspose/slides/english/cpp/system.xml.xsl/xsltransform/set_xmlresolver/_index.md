@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.xml.xsl/xsltransform/set_xmlresolver/
 ---
-## XslTransform::set_XmlResolver(const [SharedPtr](../../../system/sharedptr/)\<[System::Xml::XmlResolver](../../../system.xml/xmlresolver/)\>\&) method
+## XslTransform::set_XmlResolver(const SharedPtr\<System::Xml::XmlResolver\>\&) method
 
 
 Sets the [XmlResolver](../../../system.xml/xmlresolver/) used to resolve external resources when the [XslTransform::Transform](../transform/) method is called.
@@ -24,8 +24,8 @@ void System::Xml::Xsl::XslTransform::set_XmlResolver(const SharedPtr<System::Xml
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlResolver](../../../system.xml/xmlresolver/)
-* Class [XslTransform](../)
-* Namespace [System::Xml::Xsl](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [XmlResolver](../../system.xml/xmlresolver/)
+* Class [XslTransform](./)
+* Namespace [System::Xml::Xsl](../)
+* Library [Aspose.Slides](../../)

@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system/uriparser/isknownscheme/
 ---
-## UriParser::IsKnownScheme(const [String](../../string/)\&) method
+## UriParser::IsKnownScheme(const String\&) method
 
 
 Indicates whether the parser for a scheme is registered.
@@ -28,7 +28,7 @@ True if **schemeName** has been registered; otherwise, false
 
 ## See Also
 
-* Class [String](../../string/)
-* Class [UriParser](../)
-* Namespace [System](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../string/)
+* Class [UriParser](./)
+* Namespace [System](../)
+* Library [Aspose.Slides](../../)

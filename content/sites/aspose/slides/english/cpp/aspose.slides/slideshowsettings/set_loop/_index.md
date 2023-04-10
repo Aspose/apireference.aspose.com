@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/aspose.slides/slideshowsettings/set_loop/
 ---
-## SlideShowSettings::set_Loop(**bool**) method
+## SlideShowSettings::set_Loop(bool) method
 
 
 Loop [Slide](../../slide/) Show
@@ -17,6 +17,6 @@ void Aspose::Slides::SlideShowSettings::set_Loop(bool value)
 
 ## See Also
 
-* Class [SlideShowSettings](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [SlideShowSettings](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

@@ -17,6 +17,6 @@ virtual double Aspose::Slides::Effects::IOuterShadowEffectiveData::get_SkewHoriz
 
 ## See Also
 
-* Class [IOuterShadowEffectiveData](../)
-* Namespace [Aspose::Slides::Effects](../../)
-* Library [Aspose.Slides](../../../)
+* Class [IOuterShadowEffectiveData](./)
+* Namespace [Aspose::Slides::Effects](../)
+* Library [Aspose.Slides](../../)

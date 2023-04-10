@@ -6,7 +6,7 @@ type: docs
 weight: 1
 url: /cpp/system.collections.generic/enumeratorwrapperiterator/enumeratorwrapperiterator/
 ---
-## EnumeratorWrapperIterator::EnumeratorWrapperIterator(const [SharedPtr](../../../system/sharedptr/)\<[IEnumerator](../../ienumerator/)\<Element\>\>\&) constructor
+## EnumeratorWrapperIterator::EnumeratorWrapperIterator(const SharedPtr\<IEnumerator\<Element\>\>\&) constructor
 
 
 
@@ -17,8 +17,8 @@ System::Collections::Generic::EnumeratorWrapperIterator<Element>::EnumeratorWrap
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerator](../../ienumerator/)
-* Class [EnumeratorWrapperIterator](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IEnumerator](../ienumerator/)
+* Class [EnumeratorWrapperIterator](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

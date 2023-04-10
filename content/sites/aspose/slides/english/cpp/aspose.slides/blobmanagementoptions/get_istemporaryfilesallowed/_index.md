@@ -21,6 +21,6 @@ bool Aspose::Slides::BlobManagementOptions::get_IsTemporaryFilesAllowed() overri
 All files will be deleted after work with the presentation will be finished.
 ## See Also
 
-* Class [BlobManagementOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [BlobManagementOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

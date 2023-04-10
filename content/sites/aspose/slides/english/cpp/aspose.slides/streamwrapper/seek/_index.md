@@ -6,7 +6,7 @@ type: docs
 weight: 131
 url: /cpp/aspose.slides/streamwrapper/seek/
 ---
-## StreamWrapper::Seek(**int64_t**, [System::IO::SeekOrigin](../../../system.io/seekorigin/)) method
+## StreamWrapper::Seek(int64_t, System::IO::SeekOrigin) method
 
 
 Sets the position within the current stream
@@ -17,7 +17,7 @@ int64_t Aspose::Slides::StreamWrapper::Seek(int64_t offset, System::IO::SeekOrig
 
 ## See Also
 
-* Enum [SeekOrigin](../../../system.io/seekorigin/)
-* Class [StreamWrapper](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [SeekOrigin](../../system.io/seekorigin/)
+* Class [StreamWrapper](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

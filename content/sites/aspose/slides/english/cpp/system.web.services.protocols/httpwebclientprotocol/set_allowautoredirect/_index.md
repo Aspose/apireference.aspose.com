@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.web.services.protocols/httpwebclientprotocol/set_allowautoredirect/
 ---
-## HttpWebClientProtocol::set_AllowAutoRedirect(**bool**) method
+## HttpWebClientProtocol::set_AllowAutoRedirect(bool) method
 
 
 Sets a value that indicates if the client follows server redirects.
@@ -24,6 +24,6 @@ void System::Web::Services::Protocols::HttpWebClientProtocol::set_AllowAutoRedir
 
 ## See Also
 
-* Class [HttpWebClientProtocol](../)
-* Namespace [System::Web::Services::Protocols](../../)
-* Library [Aspose.Slides](../../../)
+* Class [HttpWebClientProtocol](./)
+* Namespace [System::Web::Services::Protocols](../)
+* Library [Aspose.Slides](../../)

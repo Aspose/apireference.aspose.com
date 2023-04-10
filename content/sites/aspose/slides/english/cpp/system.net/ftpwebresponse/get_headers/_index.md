@@ -17,8 +17,8 @@ System::SharedPtr<WebHeaderCollection> System::Net::FtpWebResponse::get_Headers(
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WebHeaderCollection](../../webheadercollection/)
-* Class [FtpWebResponse](../)
-* Namespace [System::Net](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [WebHeaderCollection](../webheadercollection/)
+* Class [FtpWebResponse](./)
+* Namespace [System::Net](../)
+* Library [Aspose.Slides](../../)

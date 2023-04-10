@@ -20,12 +20,6 @@ vector_t & System::Collections::Generic::List<T>::data()
 
 Reference to underlying vector.
 
-## See Also
-
-* Typedef [vector_t](../vector_t/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## List::data() const method
 
 
@@ -42,7 +36,7 @@ Const reference to underlying vector.
 
 ## See Also
 
-* Typedef [vector_t](../vector_t/)
-* Class [List](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [vector_t](./vector_t/)
+* Class [List](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

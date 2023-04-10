@@ -17,6 +17,6 @@ int32_t Aspose::Slides::AudioFrame::get_AudioCdStartTrackTime() override
 
 ## See Also
 
-* Class [AudioFrame](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [AudioFrame](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

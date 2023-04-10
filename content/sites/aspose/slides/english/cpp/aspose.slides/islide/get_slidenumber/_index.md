@@ -17,6 +17,6 @@ virtual int32_t Aspose::Slides::ISlide::get_SlideNumber()=0
 
 ## See Also
 
-* Class [ISlide](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISlide](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

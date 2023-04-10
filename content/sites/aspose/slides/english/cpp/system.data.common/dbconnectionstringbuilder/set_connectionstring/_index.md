@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /cpp/system.data.common/dbconnectionstringbuilder/set_connectionstring/
 ---
-## DbConnectionStringBuilder::set_ConnectionString([String](../../../system/string/)) method
+## DbConnectionStringBuilder::set_ConnectionString(String) method
 
 
 Sets whole connection string.
@@ -24,7 +24,7 @@ virtual void System::Data::Common::DbConnectionStringBuilder::set_ConnectionStri
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [DbConnectionStringBuilder](../)
-* Namespace [System::Data::Common](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [DbConnectionStringBuilder](./)
+* Namespace [System::Data::Common](../)
+* Library [Aspose.Slides](../../)

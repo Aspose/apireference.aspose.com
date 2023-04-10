@@ -12,8 +12,7 @@ url: /cpp/aspose.slides.effects/iinnershadow/
 Represents a inner shadow effect.
 
 ```cpp
-class IInnerShadow : public virtual Aspose::Slides::Effects::IImageTransformOperation,
-                     public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IInnerShadowEffectiveData>>
+class IInnerShadow : public virtual Aspose::Slides::Effects::IImageTransformOperation,                     public Aspose::Slides::IAccessiblePVIObject<System::SharedPtr<Aspose::Slides::Effects::IInnerShadowEffectiveData>>
 ```
 
 ## Methods

@@ -20,12 +20,6 @@ queue_t & System::Collections::Generic::Queue<T>::data()
 
 Reference to underlying data structure.
 
-## See Also
-
-* Typedef [queue_t](../queue_t/)
-* Class [Queue](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
 ## Queue::data() const method
 
 
@@ -42,7 +36,7 @@ Const reference to underlying data structure.
 
 ## See Also
 
-* Typedef [queue_t](../queue_t/)
-* Class [Queue](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [queue_t](./queue_t/)
+* Class [Queue](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

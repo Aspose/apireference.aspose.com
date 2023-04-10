@@ -22,8 +22,8 @@ Pointer to interface providing access to stored values via [ICollection](../../i
 
 ## See Also
 
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IList](../../ilist/)
-* Class [SortedList](../)
-* Namespace [System::Collections::Generic](../../)
-* Library [Aspose.Slides](../../../)
+* Typedef [SharedPtr](../../system/sharedptr/)
+* Class [IList](../ilist/)
+* Class [SortedList](./)
+* Namespace [System::Collections::Generic](../)
+* Library [Aspose.Slides](../../)

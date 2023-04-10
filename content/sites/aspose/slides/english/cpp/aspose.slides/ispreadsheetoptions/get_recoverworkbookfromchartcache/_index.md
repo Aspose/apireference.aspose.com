@@ -32,6 +32,6 @@ auto recoveredWorkbook = chart->get_ChartData()->get_ChartDataWorkbook();
 
 ## See Also
 
-* Class [ISpreadsheetOptions](../)
-* Namespace [Aspose::Slides](../../)
-* Library [Aspose.Slides](../../../)
+* Class [ISpreadsheetOptions](./)
+* Namespace [Aspose::Slides](../)
+* Library [Aspose.Slides](../../)

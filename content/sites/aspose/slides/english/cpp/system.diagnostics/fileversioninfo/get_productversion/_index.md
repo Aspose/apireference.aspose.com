@@ -22,7 +22,7 @@ Product version string.
 
 ## See Also
 
-* Class [String](../../../system/string/)
-* Class [FileVersionInfo](../)
-* Namespace [System::Diagnostics](../../)
-* Library [Aspose.Slides](../../../)
+* Class [String](../../system/string/)
+* Class [FileVersionInfo](./)
+* Namespace [System::Diagnostics](../)
+* Library [Aspose.Slides](../../)

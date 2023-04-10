@@ -6,7 +6,7 @@ type: docs
 weight: 14
 url: /cpp/system.io/filesysteminfo/set_attributes/
 ---
-## FileSystemInfo::set_Attributes([FileAttributes](../../fileattributes/)) method
+## FileSystemInfo::set_Attributes(FileAttributes) method
 
 
 Sets the specified attributes on the entity represeted by the current object.
@@ -24,7 +24,7 @@ void System::IO::FileSystemInfo::set_Attributes(FileAttributes value)
 
 ## See Also
 
-* Enum [FileAttributes](../../fileattributes/)
-* Class [FileSystemInfo](../)
-* Namespace [System::IO](../../)
-* Library [Aspose.Slides](../../../)
+* Enum [FileAttributes](../fileattributes/)
+* Class [FileSystemInfo](./)
+* Namespace [System::IO](../)
+* Library [Aspose.Slides](../../)
