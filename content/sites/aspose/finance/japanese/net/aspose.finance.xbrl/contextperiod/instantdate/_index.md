@@ -1,0 +1,23 @@
+---
+title: ContextPeriod.InstantDate
+second_title: Aspose.Finance for .NET API リファレンス
+description: ContextPeriod 財産. 期間のインスタント日付を取得または設定します
+type: docs
+weight: 20
+url: /ja/net/aspose.finance.xbrl/contextperiod/instantdate/
+---
+## ContextPeriod.InstantDate property
+
+期間のインスタント日付を取得または設定します。
+
+```csharp
+public DateTime InstantDate { get; set; }
+```
+
+### 関連項目
+
+* class [ContextPeriod](../)
+* 名前空間 [Aspose.Finance.Xbrl](../../contextperiod/)
+* 組み立て [Aspose.Finance](../../../)
+
+

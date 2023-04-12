@@ -1,0 +1,28 @@
+---
+title: PresentationArc.GetToLocs
+second_title: .NET API 참조용 Aspose.Finance
+description: PresentationArc 방법. 에 대한 컬렉션을 가져옵니다.Loc 에서PresentationArc .
+type: docs
+weight: 30
+url: /ko/net/aspose.finance.xbrl/presentationarc/gettolocs/
+---
+## PresentationArc.GetToLocs method
+
+에 대한 컬렉션을 가져옵니다.[`Loc`](../../loc/) 에서[`PresentationArc`](../) .
+
+```csharp
+public List<Loc> GetToLocs()
+```
+
+### 반환 값
+
+의 컬렉션[`Loc`](../../loc/).
+
+### 또한보십시오
+
+* class [Loc](../../loc/)
+* class [PresentationArc](../)
+* 네임스페이스 [Aspose.Finance.Xbrl](../../presentationarc/)
+* 집회 [Aspose.Finance](../../../)
+
+

@@ -1,0 +1,24 @@
+---
+title: StopCheckResponse.Currency
+second_title: .NET API 참조용 Aspose.Finance
+description: StopCheckResponse 재산. 마감 정보에 사용되는 기본 통화를 가져오거나 설정합니다.
+type: docs
+weight: 30
+url: /ko/net/aspose.finance.ofx.bank/stopcheckresponse/currency/
+---
+## StopCheckResponse.Currency property
+
+마감 정보에 사용되는 기본 통화를 가져오거나 설정합니다.
+
+```csharp
+public CurrencyEnum Currency { get; set; }
+```
+
+### 또한보십시오
+
+* enum [CurrencyEnum](../../../aspose.finance.ofx/currencyenum/)
+* class [StopCheckResponse](../)
+* 네임스페이스 [Aspose.Finance.Ofx.Bank](../../stopcheckresponse/)
+* 집회 [Aspose.Finance](../../../)
+
+

@@ -1,0 +1,23 @@
+---
+title: LineItem.LineItem
+second_title: Aspose.Finance for .NET API リファレンス
+description: LineItem コンストラクタ. の新しいインスタンスを初期化しますLineItemclass.
+type: docs
+weight: 10
+url: /ja/net/aspose.finance.ofx/lineitem/lineitem/
+---
+## LineItem constructor
+
+の新しいインスタンスを初期化します[`LineItem`](../)class.
+
+```csharp
+public LineItem()
+```
+
+### 関連項目
+
+* class [LineItem](../)
+* 名前空間 [Aspose.Finance.Ofx](../../lineitem/)
+* 組み立て [Aspose.Finance](../../../)
+
+

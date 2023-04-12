@@ -1,0 +1,24 @@
+---
+title: IntraSyncRequest.OfxExtension
+second_title: Aspose.Finance voor .NET API-referentie
+description: IntraSyncRequest eigendom. Haalt of stelt deOfxExtensionType .
+type: docs
+weight: 40
+url: /nl/net/aspose.finance.ofx.bank/intrasyncrequest/ofxextension/
+---
+## IntraSyncRequest.OfxExtension property
+
+Haalt of stelt de[`OfxExtensionType`](../../../aspose.finance.ofx/ofxextensiontype/) .
+
+```csharp
+public OfxExtensionType OfxExtension { get; set; }
+```
+
+### Zie ook
+
+* class [OfxExtensionType](../../../aspose.finance.ofx/ofxextensiontype/)
+* class [IntraSyncRequest](../)
+* naamruimte [Aspose.Finance.Ofx.Bank](../../intrasyncrequest/)
+* montage [Aspose.Finance](../../../)
+
+

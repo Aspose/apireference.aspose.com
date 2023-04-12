@@ -1,0 +1,23 @@
+---
+title: InterTransferResponseMessageSetV1.InterTransferResponseMessageSetV1
+second_title: Aspose.Finance for .NET API Reference
+description: InterTransferResponseMessageSetV1 नर्मत. क एक नय उदहरण शुरू करत हैInterTransferResponseMessageSetV1 वर्ग.
+type: docs
+weight: 10
+url: /hi/net/aspose.finance.ofx/intertransferresponsemessagesetv1/intertransferresponsemessagesetv1/
+---
+## InterTransferResponseMessageSetV1 constructor
+
+का एक नया उदाहरण शुरू करता है[`InterTransferResponseMessageSetV1`](../) वर्ग.
+
+```csharp
+public InterTransferResponseMessageSetV1()
+```
+
+### यह सभी देखें
+
+* class [InterTransferResponseMessageSetV1](../)
+* नाम स्थान [Aspose.Finance.Ofx](../../intertransferresponsemessagesetv1/)
+* सभा [Aspose.Finance](../../../)
+
+

@@ -1,0 +1,23 @@
+---
+title: TaxW2Response.TaxW2Response
+second_title: .NET API 참조용 Aspose.Finance
+description: TaxW2Response 건설자. 의 새 인스턴스를 초기화합니다.TaxW2Response 클래스.
+type: docs
+weight: 10
+url: /ko/net/aspose.finance.ofx.taxw2/taxw2response/taxw2response/
+---
+## TaxW2Response constructor
+
+의 새 인스턴스를 초기화합니다.[`TaxW2Response`](../) 클래스.
+
+```csharp
+public TaxW2Response()
+```
+
+### 또한보십시오
+
+* class [TaxW2Response](../)
+* 네임스페이스 [Aspose.Finance.Ofx.TaxW2](../../taxw2response/)
+* 집회 [Aspose.Finance](../../../)
+
+

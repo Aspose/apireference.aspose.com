@@ -1,0 +1,24 @@
+---
+title: BankMessageSetV1.TransferProfile
+second_title: Aspose.Finance for .NET API リファレンス
+description: BankMessageSetV1 財産. を取得または設定しますTransferProfile.
+type: docs
+weight: 80
+url: /ja/net/aspose.finance.ofx.profile/bankmessagesetv1/transferprofile/
+---
+## BankMessageSetV1.TransferProfile property
+
+を取得または設定します`TransferProfile`.
+
+```csharp
+public TransferProfile TransferProfile { get; set; }
+```
+
+### 関連項目
+
+* class [TransferProfile](../../transferprofile/)
+* class [BankMessageSetV1](../)
+* 名前空間 [Aspose.Finance.Ofx.Profile](../../bankmessagesetv1/)
+* 組み立て [Aspose.Finance](../../../)
+
+

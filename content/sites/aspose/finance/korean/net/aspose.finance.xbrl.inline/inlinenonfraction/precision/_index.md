@@ -1,0 +1,23 @@
+---
+title: InlineNonfraction.Precision
+second_title: .NET API 참조용 Aspose.Finance
+description: InlineNonfraction 재산. 정밀도를 가져오거나 설정합니다.InlineNonfraction .
+type: docs
+weight: 70
+url: /ko/net/aspose.finance.xbrl.inline/inlinenonfraction/precision/
+---
+## InlineNonfraction.Precision property
+
+정밀도를 가져오거나 설정합니다.[`InlineNonfraction`](../) .
+
+```csharp
+public int Precision { get; set; }
+```
+
+### 또한보십시오
+
+* class [InlineNonfraction](../)
+* 네임스페이스 [Aspose.Finance.Xbrl.Inline](../../inlinenonfraction/)
+* 집회 [Aspose.Finance](../../../)
+
+

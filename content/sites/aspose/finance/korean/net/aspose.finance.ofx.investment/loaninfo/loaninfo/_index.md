@@ -1,0 +1,23 @@
+---
+title: LoanInfo.LoanInfo
+second_title: .NET API 참조용 Aspose.Finance
+description: LoanInfo 건설자. 의 새 인스턴스를 초기화합니다.LoanInfo 클래스.
+type: docs
+weight: 10
+url: /ko/net/aspose.finance.ofx.investment/loaninfo/loaninfo/
+---
+## LoanInfo constructor
+
+의 새 인스턴스를 초기화합니다.[`LoanInfo`](../) 클래스.
+
+```csharp
+public LoanInfo()
+```
+
+### 또한보십시오
+
+* class [LoanInfo](../)
+* 네임스페이스 [Aspose.Finance.Ofx.Investment](../../loaninfo/)
+* 집회 [Aspose.Finance](../../../)
+
+

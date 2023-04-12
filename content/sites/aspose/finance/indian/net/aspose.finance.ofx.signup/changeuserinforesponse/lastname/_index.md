@@ -1,0 +1,23 @@
+---
+title: ChangeUserInfoResponse.LastName
+second_title: Aspose.Finance for .NET API Reference
+description: ChangeUserInfoResponse संपत्त. उपयगकर्त क अंतम नम प्रप्त य सेट करत है
+type: docs
+weight: 120
+url: /hi/net/aspose.finance.ofx.signup/changeuserinforesponse/lastname/
+---
+## ChangeUserInfoResponse.LastName property
+
+उपयोगकर्ता का अंतिम नाम प्राप्त या सेट करता है।
+
+```csharp
+public string LastName { get; set; }
+```
+
+### यह सभी देखें
+
+* class [ChangeUserInfoResponse](../)
+* नाम स्थान [Aspose.Finance.Ofx.Signup](../../changeuserinforesponse/)
+* सभा [Aspose.Finance](../../../)
+
+

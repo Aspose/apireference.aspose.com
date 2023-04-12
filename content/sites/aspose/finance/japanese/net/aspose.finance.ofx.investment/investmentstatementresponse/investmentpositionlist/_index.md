@@ -1,0 +1,24 @@
+---
+title: InvestmentStatementResponse.InvestmentPositionList
+second_title: Aspose.Finance for .NET API リファレンス
+description: InvestmentStatementResponse 財産. を取得または設定しますInvestmentPositionList.
+type: docs
+weight: 90
+url: /ja/net/aspose.finance.ofx.investment/investmentstatementresponse/investmentpositionlist/
+---
+## InvestmentStatementResponse.InvestmentPositionList property
+
+を取得または設定します`InvestmentPositionList`.
+
+```csharp
+public InvestmentPositionList InvestmentPositionList { get; set; }
+```
+
+### 関連項目
+
+* class [InvestmentPositionList](../../investmentpositionlist/)
+* class [InvestmentStatementResponse](../)
+* 名前空間 [Aspose.Finance.Ofx.Investment](../../investmentstatementresponse/)
+* 組み立て [Aspose.Finance](../../../)
+
+

@@ -1,0 +1,23 @@
+---
+title: SecurityListRequestMessageSetV1.SecurityListRequestMessageSetV1
+second_title: Aspose.Finance for .NET API Reference
+description: SecurityListRequestMessageSetV1 नर्मत. क एक नय उदहरण शुरू करत हैSecurityListRequestMessageSetV1 वर्ग.
+type: docs
+weight: 10
+url: /hi/net/aspose.finance.ofx/securitylistrequestmessagesetv1/securitylistrequestmessagesetv1/
+---
+## SecurityListRequestMessageSetV1 constructor
+
+का एक नया उदाहरण शुरू करता है[`SecurityListRequestMessageSetV1`](../) वर्ग.
+
+```csharp
+public SecurityListRequestMessageSetV1()
+```
+
+### यह सभी देखें
+
+* class [SecurityListRequestMessageSetV1](../)
+* नाम स्थान [Aspose.Finance.Ofx](../../securitylistrequestmessagesetv1/)
+* सभा [Aspose.Finance](../../../)
+
+

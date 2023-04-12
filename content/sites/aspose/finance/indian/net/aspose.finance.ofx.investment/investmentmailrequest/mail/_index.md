@@ -1,0 +1,24 @@
+---
+title: InvestmentMailRequest.Mail
+second_title: Aspose.Finance for .NET API Reference
+description: InvestmentMailRequest संपत्त. ह जत है य सेट करत हैMail .
+type: docs
+weight: 30
+url: /hi/net/aspose.finance.ofx.investment/investmentmailrequest/mail/
+---
+## InvestmentMailRequest.Mail property
+
+हो जाता है या सेट करता है`Mail` .
+
+```csharp
+public Mail Mail { get; set; }
+```
+
+### यह सभी देखें
+
+* class [Mail](../../../aspose.finance.ofx/mail/)
+* class [InvestmentMailRequest](../)
+* नाम स्थान [Aspose.Finance.Ofx.Investment](../../investmentmailrequest/)
+* सभा [Aspose.Finance](../../../)
+
+
