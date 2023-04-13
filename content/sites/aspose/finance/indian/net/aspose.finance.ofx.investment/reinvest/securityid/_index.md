@@ -1,0 +1,24 @@
+---
+title: Reinvest.SecurityId
+second_title: Aspose.Finance for .NET API Reference
+description: Reinvest संपत्त. ह जत है य सेट करत हैSecurityId .
+type: docs
+weight: 90
+url: /hi/net/aspose.finance.ofx.investment/reinvest/securityid/
+---
+## Reinvest.SecurityId property
+
+हो जाता है या सेट करता है`SecurityId` .
+
+```csharp
+public SecurityId SecurityId { get; set; }
+```
+
+### यह सभी देखें
+
+* class [SecurityId](../../../aspose.finance.ofx/securityid/)
+* class [Reinvest](../)
+* नाम स्थान [Aspose.Finance.Ofx.Investment](../../reinvest/)
+* सभा [Aspose.Finance](../../../)
+
+

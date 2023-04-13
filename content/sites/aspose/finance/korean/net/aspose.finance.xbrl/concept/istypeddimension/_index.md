@@ -1,0 +1,23 @@
+---
+title: Concept.IsTypedDimension
+second_title: .NET API 참조용 Aspose.Finance
+description: Concept 재산. 입력된 차원 개념인지 여부를 가져옵니다.
+type: docs
+weight: 60
+url: /ko/net/aspose.finance.xbrl/concept/istypeddimension/
+---
+## Concept.IsTypedDimension property
+
+입력된 차원 개념인지 여부를 가져옵니다.
+
+```csharp
+public bool IsTypedDimension { get; }
+```
+
+### 또한보십시오
+
+* class [Concept](../)
+* 네임스페이스 [Aspose.Finance.Xbrl](../../concept/)
+* 집회 [Aspose.Finance](../../../)
+
+

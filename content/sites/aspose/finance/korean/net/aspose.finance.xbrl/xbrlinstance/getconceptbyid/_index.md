@@ -1,0 +1,32 @@
+---
+title: XbrlInstance.GetConceptById
+second_title: .NET API 참조용 Aspose.Finance
+description: XbrlInstance 방법. 지정된 id를 가진 개념을 가져옵니다.
+type: docs
+weight: 160
+url: /ko/net/aspose.finance.xbrl/xbrlinstance/getconceptbyid/
+---
+## XbrlInstance.GetConceptById method
+
+지정된 id를 가진 개념을 가져옵니다.
+
+```csharp
+public Concept GetConceptById(string conceptId)
+```
+
+| 모수 | 유형 | 설명 |
+| --- | --- | --- |
+| conceptId | String | 컨셉아이디. |
+
+### 반환 값
+
+개념.
+
+### 또한보십시오
+
+* class [Concept](../../concept/)
+* class [XbrlInstance](../)
+* 네임스페이스 [Aspose.Finance.Xbrl](../../xbrlinstance/)
+* 집회 [Aspose.Finance](../../../)
+
+

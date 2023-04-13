@@ -1,0 +1,24 @@
+---
+title: CreditCardStatementEndRequest.CreditCardAccountFrom
+second_title: .NET API 참조용 Aspose.Finance
+description: CreditCardStatementEndRequest 재산. 에서 가져오거나 설정합니다.CreditCardAccount .
+type: docs
+weight: 20
+url: /ko/net/aspose.finance.ofx.creditcard/creditcardstatementendrequest/creditcardaccountfrom/
+---
+## CreditCardStatementEndRequest.CreditCardAccountFrom property
+
+에서 가져오거나 설정합니다.[`CreditCardAccount`](../../../aspose.finance.ofx/creditcardaccount/) .
+
+```csharp
+public CreditCardAccount CreditCardAccountFrom { get; set; }
+```
+
+### 또한보십시오
+
+* class [CreditCardAccount](../../../aspose.finance.ofx/creditcardaccount/)
+* class [CreditCardStatementEndRequest](../)
+* 네임스페이스 [Aspose.Finance.Ofx.CreditCard](../../creditcardstatementendrequest/)
+* 집회 [Aspose.Finance](../../../)
+
+

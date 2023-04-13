@@ -1,0 +1,23 @@
+---
+title: StatementTransaction.CorrectFinancialInstitutionTransactionId
+second_title: Aspose.Finance for .NET API Reference
+description: StatementTransaction संपत्त. संशधत लेनदेन आईड प्रप्त य सेट करत है यद मजूद है त पहले भेजे गए लेनदेन क FinancialInstitionTransactionId ज इस रकर्ड द्वर ठक कय गय है
+type: docs
+weight: 50
+url: /hi/net/aspose.finance.ofx/statementtransaction/correctfinancialinstitutiontransactionid/
+---
+## StatementTransaction.CorrectFinancialInstitutionTransactionId property
+
+संशोधित लेन-देन आईडी प्राप्त या सेट करता है। यदि मौजूद है, तो पहले भेजे गए लेन-देन का FinancialInstitionTransactionId जो इस रिकॉर्ड द्वारा ठीक किया गया है।
+
+```csharp
+public string CorrectFinancialInstitutionTransactionId { get; set; }
+```
+
+### यह सभी देखें
+
+* class [StatementTransaction](../)
+* नाम स्थान [Aspose.Finance.Ofx](../../statementtransaction/)
+* सभा [Aspose.Finance](../../../)
+
+

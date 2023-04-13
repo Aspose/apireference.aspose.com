@@ -1,0 +1,24 @@
+---
+title: PaymentMailRequest.PaymentInfo
+second_title: Aspose.Finance for .NET API Reference
+description: PaymentMailRequest संपत्त. ह जत है य सेट करत हैPaymentInfo .
+type: docs
+weight: 30
+url: /hi/net/aspose.finance.ofx.billpay/paymentmailrequest/paymentinfo/
+---
+## PaymentMailRequest.PaymentInfo property
+
+हो जाता है या सेट करता है`PaymentInfo` .
+
+```csharp
+public PaymentInfo PaymentInfo { get; set; }
+```
+
+### यह सभी देखें
+
+* class [PaymentInfo](../../paymentinfo/)
+* class [PaymentMailRequest](../)
+* नाम स्थान [Aspose.Finance.Ofx.BillPay](../../paymentmailrequest/)
+* सभा [Aspose.Finance](../../../)
+
+

@@ -1,0 +1,24 @@
+---
+title: PayeeModResponse.BankAccountTo
+second_title: .NET API 참조용 Aspose.Finance
+description: PayeeModResponse 재산. 대상을 가져오거나 설정합니다.BankAccount 송금을 사용하여 청구서를 지불하는 국가의 경우.
+type: docs
+weight: 20
+url: /ko/net/aspose.finance.ofx.billpay/payeemodresponse/bankaccountto/
+---
+## PayeeModResponse.BankAccountTo property
+
+대상을 가져오거나 설정합니다.[`BankAccount`](../../../aspose.finance.ofx/bankaccount/) 송금을 사용하여 청구서를 지불하는 국가의 경우.
+
+```csharp
+public BankAccount BankAccountTo { get; set; }
+```
+
+### 또한보십시오
+
+* class [BankAccount](../../../aspose.finance.ofx/bankaccount/)
+* class [PayeeModResponse](../)
+* 네임스페이스 [Aspose.Finance.Ofx.BillPay](../../payeemodresponse/)
+* 집회 [Aspose.Finance](../../../)
+
+

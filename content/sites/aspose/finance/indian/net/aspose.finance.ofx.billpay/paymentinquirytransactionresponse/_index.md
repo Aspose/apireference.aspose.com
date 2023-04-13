@@ -1,0 +1,39 @@
+---
+title: Class PaymentInquiryTransactionResponse
+second_title: Aspose.Finance for .NET API Reference
+description: Aspose.Finance.Ofx.BillPay.PaymentInquiryTransactionResponse कक्ष. भुगतन स्थत पूछतछ लेनदेन प्रतक्रय वर्ग.
+type: docs
+weight: 1110
+url: /hi/net/aspose.finance.ofx.billpay/paymentinquirytransactionresponse/
+---
+## PaymentInquiryTransactionResponse class
+
+भुगतान स्थिति पूछताछ लेनदेन प्रतिक्रिया वर्ग.
+
+```csharp
+public class PaymentInquiryTransactionResponse : AbstractTransactionResponse
+```
+
+## कंस्ट्रक्टर्स
+
+| नाम | विवरण |
+| --- | --- |
+| [PaymentInquiryTransactionResponse](paymentinquirytransactionresponse/)() | का एक नया उदाहरण शुरू करता है`PaymentInquiryTransactionResponse` वर्ग. |
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionresponse/clientcookie/) { get; set; } | लेन-देन प्रतिक्रिया में प्रतिध्वनित होने के लिए डेटा प्राप्त या सेट करता है |
+| [OfxExtension](../../aspose.finance.ofx.billpay/paymentinquirytransactionresponse/ofxextension/) { get; set; } | हो जाता है या सेट करता है[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype/) . |
+| [PaymentInquiryResponse](../../aspose.finance.ofx.billpay/paymentinquirytransactionresponse/paymentinquiryresponse/) { get; set; } | हो जाता है या सेट करता है[`PaymentInquiryResponse`](./paymentinquiryresponse/) . |
+| [Status](../../aspose.finance.ofx/abstracttransactionresponse/status/) { get; set; } | हो जाता है या सेट करता है[`Status`](../../aspose.finance.ofx/abstracttransactionresponse/status/) . |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionresponse/transactionuniqueid/) { get; set; } | इस लेन-देन के लिए वैश्विक रूप से विशिष्ट आईडी क्लाइंट द्वारा निर्दिष्ट या सेट करता है। |
+
+### यह सभी देखें
+
+* class [AbstractTransactionResponse](../../aspose.finance.ofx/abstracttransactionresponse/)
+* नाम स्थान [Aspose.Finance.Ofx.BillPay](../../aspose.finance.ofx.billpay/)
+* सभा [Aspose.Finance](../../)
+
+

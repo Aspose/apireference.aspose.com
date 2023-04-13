@@ -1,0 +1,24 @@
+---
+title: CreditCardClosing.OriginCurrency
+second_title: Aspose.Finance for .NET API Reference
+description: CreditCardClosing संपत्त. मूल क प्रप्त य सेट करत हैCurrency .
+type: docs
+weight: 230
+url: /hi/net/aspose.finance.ofx.creditcard/creditcardclosing/origincurrency/
+---
+## CreditCardClosing.OriginCurrency property
+
+मूल को प्राप्त या सेट करता है[`Currency`](../currency/) .
+
+```csharp
+public Currency OriginCurrency { get; set; }
+```
+
+### यह सभी देखें
+
+* class [Currency](../../../aspose.finance.ofx/currency/)
+* class [CreditCardClosing](../)
+* नाम स्थान [Aspose.Finance.Ofx.CreditCard](../../creditcardclosing/)
+* सभा [Aspose.Finance](../../../)
+
+

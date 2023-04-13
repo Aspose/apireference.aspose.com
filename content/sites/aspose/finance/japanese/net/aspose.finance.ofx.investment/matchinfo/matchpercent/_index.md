@@ -1,0 +1,23 @@
+---
+title: MatchInfo.MatchPercent
+second_title: Aspose.Finance for .NET API リファレンス
+description: MatchInfo 財産. 一致した従業員の貢献の割合を取得または設定します
+type: docs
+weight: 40
+url: /ja/net/aspose.finance.ofx.investment/matchinfo/matchpercent/
+---
+## MatchInfo.MatchPercent property
+
+一致した従業員の貢献の割合を取得または設定します。
+
+```csharp
+public string MatchPercent { get; set; }
+```
+
+### 関連項目
+
+* class [MatchInfo](../)
+* 名前空間 [Aspose.Finance.Ofx.Investment](../../matchinfo/)
+* 組み立て [Aspose.Finance](../../../)
+
+

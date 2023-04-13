@@ -1,0 +1,23 @@
+---
+title: Tax1099MISC_V100.StateIncome
+second_title: Aspose.Finance for .NET API Reference
+description: Tax1099MISC_V100 ιδιοκτησία. Λαμβάνει ή ορίζει το ποσό του κρατικού εισοδήματος.
+type: docs
+weight: 240
+url: /el/net/aspose.finance.ofx.tax1099/tax1099misc_v100/stateincome/
+---
+## Tax1099MISC_V100.StateIncome property
+
+Λαμβάνει ή ορίζει το ποσό του κρατικού εισοδήματος.
+
+```csharp
+public string StateIncome { get; set; }
+```
+
+### Δείτε επίσης
+
+* class [Tax1099MISC_V100](../)
+* χώρος ονομάτων [Aspose.Finance.Ofx.Tax1099](../../tax1099misc_v100/)
+* συνέλευση [Aspose.Finance](../../../)
+
+

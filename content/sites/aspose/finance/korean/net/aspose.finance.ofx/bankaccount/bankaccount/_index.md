@@ -1,0 +1,23 @@
+---
+title: BankAccount.BankAccount
+second_title: .NET API 참조용 Aspose.Finance
+description: BankAccount 건설자. 의 새 인스턴스를 초기화합니다.BankAccount 클래스.
+type: docs
+weight: 10
+url: /ko/net/aspose.finance.ofx/bankaccount/bankaccount/
+---
+## BankAccount constructor
+
+의 새 인스턴스를 초기화합니다.[`BankAccount`](../) 클래스.
+
+```csharp
+public BankAccount()
+```
+
+### 또한보십시오
+
+* class [BankAccount](../)
+* 네임스페이스 [Aspose.Finance.Ofx](../../bankaccount/)
+* 집회 [Aspose.Finance](../../../)
+
+

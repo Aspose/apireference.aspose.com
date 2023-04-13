@@ -1,0 +1,24 @@
+---
+title: BankMailSyncRequest.OfxExtension
+second_title: Aspose.Finance for .NET API Reference
+description: BankMailSyncRequest संपत्त. ह जत है य सेट करत हैOfxExtensionType .
+type: docs
+weight: 50
+url: /hi/net/aspose.finance.ofx.bank/bankmailsyncrequest/ofxextension/
+---
+## BankMailSyncRequest.OfxExtension property
+
+हो जाता है या सेट करता है[`OfxExtensionType`](../../../aspose.finance.ofx/ofxextensiontype/) .
+
+```csharp
+public OfxExtensionType OfxExtension { get; set; }
+```
+
+### यह सभी देखें
+
+* class [OfxExtensionType](../../../aspose.finance.ofx/ofxextensiontype/)
+* class [BankMailSyncRequest](../)
+* नाम स्थान [Aspose.Finance.Ofx.Bank](../../bankmailsyncrequest/)
+* सभा [Aspose.Finance](../../../)
+
+

@@ -1,0 +1,39 @@
+---
+title: Class RecurringInterSyncResponse
+second_title: Aspose.Finance for .NET API Reference
+description: Aspose.Finance.Ofx.InterTransfer.RecurringInterSyncResponse कक्ष. आवर्त इंटरबैंक लेनदेन तुल्यकलन प्रतक्रय वर्ग.
+type: docs
+weight: 2570
+url: /hi/net/aspose.finance.ofx.intertransfer/recurringintersyncresponse/
+---
+## RecurringInterSyncResponse class
+
+आवर्ती इंटरबैंक लेनदेन तुल्यकालन प्रतिक्रिया वर्ग.
+
+```csharp
+public class RecurringInterSyncResponse : AbstractSyncResponse
+```
+
+## कंस्ट्रक्टर्स
+
+| नाम | विवरण |
+| --- | --- |
+| [RecurringInterSyncResponse](recurringintersyncresponse/)() | का एक नया उदाहरण शुरू करता है`RecurringInterSyncResponse` वर्ग. |
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [AccountFrom](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse/accountfrom/) { get; set; } | से प्राप्त या सेट करता है[`BankAccount`](../../aspose.finance.ofx/bankaccount/) या[`CreditCardAccount`](../../aspose.finance.ofx/creditcardaccount/) या[`LoanAccount`](../../aspose.finance.ofx/loanaccount/) . |
+| [LostSynchronization](../../aspose.finance.ofx/abstractsyncresponse/lostsynchronization/) { get; set; } | हां, यदि तुल्यकालन अनुरोध में टोकन सर्वर की इतिहास तालिका में सबसे पुरानी प्रविष्टि से पुराना है। इस मामले में, कुछ प्रतिक्रियाएं खो गई हैं। नहीं यदि तुल्यकालन अनुरोध में टोकन सर्वर के टोकन से नया है या मेल खाता है इतिहास तालिका. |
+| [OfxExtension](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse/ofxextension/) { get; set; } | हो जाता है या सेट करता है[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype/) . |
+| [RecurringInterTransactionResponses](../../aspose.finance.ofx.intertransfer/recurringintersyncresponse/recurringintertransactionresponses/) { get; set; } | का संग्रह प्राप्त या सेट करता है[`RecurringInterTransactionResponse`](../recurringintertransactionresponse/) . |
+| [Token](../../aspose.finance.ofx/abstractsyncresponse/token/) { get; set; } | नया तुल्यकालन टोकन प्राप्त या सेट करता है। |
+
+### यह सभी देखें
+
+* class [AbstractSyncResponse](../../aspose.finance.ofx/abstractsyncresponse/)
+* नाम स्थान [Aspose.Finance.Ofx.InterTransfer](../../aspose.finance.ofx.intertransfer/)
+* सभा [Aspose.Finance](../../)
+
+

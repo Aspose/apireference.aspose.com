@@ -1,0 +1,39 @@
+---
+title: Class PresentmentMailTransactionRequest
+second_title: Aspose.Finance for .NET API Reference
+description: Aspose.Finance.Ofx.BillerDelivery.PresentmentMailTransactionRequest कक्ष. बल प्रस्तुत मेल लेनदेन अनुरध वर्ग.
+type: docs
+weight: 1770
+url: /hi/net/aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest/
+---
+## PresentmentMailTransactionRequest class
+
+बिल प्रस्तुति मेल लेनदेन अनुरोध वर्ग.
+
+```csharp
+public class PresentmentMailTransactionRequest : AbstractTransactionRequest
+```
+
+## कंस्ट्रक्टर्स
+
+| नाम | विवरण |
+| --- | --- |
+| [PresentmentMailTransactionRequest](presentmentmailtransactionrequest/)() | का एक नया उदाहरण शुरू करता है`PresentmentMailTransactionRequest` वर्ग. |
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [ClientCookie](../../aspose.finance.ofx/abstracttransactionrequest/clientcookie/) { get; set; } | लेन-देन प्रतिक्रिया में प्रतिध्वनित होने के लिए डेटा प्राप्त या सेट करता है |
+| [OfxExtension](../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest/ofxextension/) { get; set; } | हो जाता है या सेट करता है[`OfxExtensionType`](../../aspose.finance.ofx/ofxextensiontype/) . |
+| [PresentmentMailRequest](../../aspose.finance.ofx.billerdelivery/presentmentmailtransactionrequest/presentmentmailrequest/) { get; set; } | हो जाता है या सेट करता है[`PresentmentMailRequest`](./presentmentmailrequest/) . |
+| [TransactionAuthorizationNumber](../../aspose.finance.ofx/abstracttransactionrequest/transactionauthorizationnumber/) { get; set; } | लेन-देन प्राधिकरण संख्या प्राप्त या सेट करता है। |
+| [TransactionUniqueId](../../aspose.finance.ofx/abstracttransactionrequest/transactionuniqueid/) { get; set; } | इस लेन-देन के लिए वैश्विक रूप से अद्वितीय आईडी क्लाइंट द्वारा असाइन किया गया या सेट करता है |
+
+### यह सभी देखें
+
+* class [AbstractTransactionRequest](../../aspose.finance.ofx/abstracttransactionrequest/)
+* नाम स्थान [Aspose.Finance.Ofx.BillerDelivery](../../aspose.finance.ofx.billerdelivery/)
+* सभा [Aspose.Finance](../../)
+
+
