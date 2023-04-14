@@ -14,6 +14,10 @@ Gets or sets the transform matrix.
 public Matrix4 TransformMatrix { get; set; }
 ```
 
+### Remarks
+
+Assign on this will reset the [`Translation`](../translation), [`Scale`](../scale) and [`Rotation`](../rotation), the [`GeometricRotation`](../geometricrotation), [`GeometricScaling`](../geometricscaling) and [`GeometricTranslation`](../geometrictranslation) will not be affected.
+
 ### Examples
 
 ```csharp

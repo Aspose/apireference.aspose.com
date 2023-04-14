@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/end_vertex/
 is_root: false
 ---
 
-## end_vertex() {#}
+## end_vertex {#}
 
 End adding vertex
 

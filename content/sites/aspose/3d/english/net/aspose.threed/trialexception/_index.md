@@ -3,7 +3,7 @@ title: TrialException
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2410
+weight: 2470
 url: /net/aspose.threed/trialexception/
 ---
 ## TrialException class

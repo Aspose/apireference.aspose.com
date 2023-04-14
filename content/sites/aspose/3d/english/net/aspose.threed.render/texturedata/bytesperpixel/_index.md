@@ -3,7 +3,7 @@ title: BytesPerPixel
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.threed.render/texturedata/bytesperpixel/
 ---
 ## TextureData.BytesPerPixel property

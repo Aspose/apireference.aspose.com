@@ -3,7 +3,7 @@ title: ComposeOrder
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2450
+weight: 2510
 url: /net/aspose.threed.utilities/composeorder/
 ---
 ## ComposeOrder enumeration

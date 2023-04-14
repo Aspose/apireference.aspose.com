@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/compositecurve/add_segment/
 is_root: false
 ---
 
-## add_segment(curve, same_direction) {#Curve-bool}
+## add_segment {#aspose.threed.entities.Curve-bool}
 
 The
 

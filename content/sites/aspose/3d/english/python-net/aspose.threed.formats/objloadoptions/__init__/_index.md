@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/objloadoptions/__init__/
 is_root: false
 ---
 
-## ObjLoadOptions() {#}
+## __init__ {#}
 
 Constructor of [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions)
 

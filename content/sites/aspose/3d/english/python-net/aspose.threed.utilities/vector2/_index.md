@@ -3,7 +3,7 @@ title: Vector2 class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 200
 url: /python-net/aspose.threed.utilities/vector2/
 is_root: false
 ---
@@ -19,10 +19,10 @@ The Vector2 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Vector2(s)](/3d/python-net/aspose.threed.utilities/vector2/__init__/#float) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
-| [Vector2(vec)](/3d/python-net/aspose.threed.utilities/vector2/__init__/#FVector2) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
-| [Vector2(x, y)](/3d/python-net/aspose.threed.utilities/vector2/__init__/#float-float) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
-| [Vector2()](/3d/python-net/aspose.threed.utilities/vector2/__init__/#) | Constructs a new instance of Vector2 |
+| [__init__](/3d/python-net/aspose.threed.utilities/vector2/__init__/#float) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
+| [__init__](/3d/python-net/aspose.threed.utilities/vector2/__init__/#aspose.threed.utilities.FVector2) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
+| [__init__](/3d/python-net/aspose.threed.utilities/vector2/__init__/#float-float) | Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct. |
+| [__init__](/3d/python-net/aspose.threed.utilities/vector2/__init__/#) | Constructs a new instance of Vector2 |
 
 
 ### Properties
@@ -38,11 +38,11 @@ The Vector2 type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [dot(rhs)](/3d/python-net/aspose.threed.utilities/vector2/dot/#Vector2) | Gets the dot product of two vectors |
-| [equals(rhs)](/3d/python-net/aspose.threed.utilities/vector2/equals/#Vector2) | Check if two vector2 equals |
-| [cross(v)](/3d/python-net/aspose.threed.utilities/vector2/cross/#Vector2) | Cross product of two vectors |
-| [normalize()](/3d/python-net/aspose.threed.utilities/vector2/normalize/#) | Normalizes this instance. |
-| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vector2/compare_to/#Vector2) | Compare current vector to another instance. |
+| [dot](/3d/python-net/aspose.threed.utilities/vector2/dot/#aspose.threed.utilities.Vector2) | Gets the dot product of two vectors |
+| [equals](/3d/python-net/aspose.threed.utilities/vector2/equals/#aspose.threed.utilities.Vector2) | Check if two vector2 equals |
+| [cross](/3d/python-net/aspose.threed.utilities/vector2/cross/#aspose.threed.utilities.Vector2) | Cross product of two vectors |
+| [normalize](/3d/python-net/aspose.threed.utilities/vector2/normalize/#) | Normalizes this instance. |
+| [compare_to](/3d/python-net/aspose.threed.utilities/vector2/compare_to/#aspose.threed.utilities.Vector2) | Compare current vector to another instance. |
 
 
 

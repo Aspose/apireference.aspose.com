@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/pdfformat/extract/
 is_root: false
 ---
 
-## extract(file_name, password) {#str-bytes}
+## extract {#str-bytes}
 
 Extract raw 3D content from PDF file.
 
@@ -31,7 +31,7 @@ def extract(self, file_name, password):
 | password | bytes |  |
 
 
-## extract(stream, password) {#io.RawIOBase-bytes}
+## extract {#io.RawIOBase-bytes}
 
 Extract raw 3D content from PDF stream.
 

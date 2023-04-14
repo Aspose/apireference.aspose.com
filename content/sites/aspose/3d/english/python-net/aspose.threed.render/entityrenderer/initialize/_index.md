@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/entityrenderer/initialize/
 is_root: false
 ---
 
-## initialize(renderer) {#Renderer}
+## initialize {#aspose.threed.render.Renderer}
 
 Initialize the entity renderer
 

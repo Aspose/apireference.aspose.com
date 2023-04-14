@@ -3,7 +3,7 @@ title: show_rulers property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.threed.formats/html5saveoptions/show_rulers/
 is_root: false
 ---

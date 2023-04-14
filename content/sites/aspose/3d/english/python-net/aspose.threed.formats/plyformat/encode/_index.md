@@ -8,9 +8,9 @@ url: /python-net/aspose.threed.formats/plyformat/encode/
 is_root: false
 ---
 
-## encode(entity, stream) {#Entity-io.RawIOBase}
+## encode {#aspose.threed.Entity-io.RawIOBase}
 
-
+Encode the entity and save the result into the stream.
 
 
 
@@ -22,13 +22,13 @@ def encode(self, entity, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) |  |
-| stream | io.RawIOBase |  |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to encode |
+| stream | io.RawIOBase | The stream to write to, this method will not close this stream |
 
 
-## encode(entity, file_name) {#Entity-str}
+## encode {#aspose.threed.Entity-str}
 
-
+Encode the entity and save the result into an external file.
 
 
 
@@ -40,11 +40,11 @@ def encode(self, entity, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| entity | [`Entity`](/3d/python-net/aspose.threed/entity) |  |
-| file_name | str |  |
+| entity | [`Entity`](/3d/python-net/aspose.threed/entity) | The entity to encode |
+| file_name | str | The file to write to |
 
 
-## encode(entity, stream, opt) {#Entity-io.RawIOBase-PlySaveOptions}
+## encode {#aspose.threed.Entity-io.RawIOBase-aspose.threed.formats.PlySaveOptions}
 
 Encode the entity and save the result into the stream.
 
@@ -63,7 +63,7 @@ def encode(self, entity, stream, opt):
 | opt | [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) | Save options |
 
 
-## encode(entity, file_name, opt) {#Entity-str-PlySaveOptions}
+## encode {#aspose.threed.Entity-str-aspose.threed.formats.PlySaveOptions}
 
 Encode the entity and save the result into an external file.
 

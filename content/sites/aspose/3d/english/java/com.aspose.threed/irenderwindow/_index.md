@@ -3,7 +3,7 @@ title: IRenderWindow
 second_title: Aspose.3D for Java API Reference
 description: IRenderWindow represents the native window created by operating system that supports rendering.
 type: docs
-weight: 228
+weight: 232
 url: /java/com.aspose.threed/irenderwindow/
 ---
 

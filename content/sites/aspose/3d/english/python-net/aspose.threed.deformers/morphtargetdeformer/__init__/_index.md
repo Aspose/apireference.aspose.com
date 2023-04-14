@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.deformers/morphtargetdeformer/__init__/
 is_root: false
 ---
 
-## MorphTargetDeformer() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## MorphTargetDeformer(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class.
 

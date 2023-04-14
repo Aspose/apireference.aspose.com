@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementtangent/__init__/
 is_root: false
 ---
 
-## VertexElementTangent() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementTangent`](/3d/python-net/aspose.threed.entities/vertexelementtangent) class.
 

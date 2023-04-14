@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/imagerenderoptions/__init__/
 is_root: false
 ---
 
-## ImageRenderOptions() {#}
+## __init__ {#}
 
 Initialize an instance of [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions)
 

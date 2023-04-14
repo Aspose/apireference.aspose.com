@@ -3,7 +3,7 @@ title: ShaderStage
 second_title: Aspose.3D for Java API Reference
 description: Shader stage
 type: docs
-weight: 153
+weight: 156
 url: /java/com.aspose.threed/shaderstage/
 ---
 

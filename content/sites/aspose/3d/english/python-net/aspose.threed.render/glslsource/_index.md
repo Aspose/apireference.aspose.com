@@ -24,7 +24,7 @@ The GLSLSource type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [GLSLSource()](/3d/python-net/aspose.threed.render/glslsource/__init__/#) | Constructs a new instance of GLSLSource |
+| [__init__](/3d/python-net/aspose.threed.render/glslsource/__init__/#) | Constructs a new instance of GLSLSource |
 
 
 ### Properties
@@ -39,7 +39,7 @@ The GLSLSource type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [define_include(file_name, content)](/3d/python-net/aspose.threed.render/glslsource/define_include/#str-str) | Define virtual file for #include in GLSL source code |
+| [define_include](/3d/python-net/aspose.threed.render/glslsource/define_include/#str-str) | Define virtual file for #include in GLSL source code |
 
 
 

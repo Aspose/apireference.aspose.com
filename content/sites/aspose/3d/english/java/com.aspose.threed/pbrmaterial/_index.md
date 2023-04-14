@@ -3,7 +3,7 @@ title: PbrMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for physically based rendering based on albedo color/metallic/roughness
 type: docs
-weight: 108
+weight: 109
 url: /java/com.aspose.threed/pbrmaterial/
 ---
 
@@ -19,7 +19,7 @@ Material for physically based rendering based on albedo color/metallic/roughness
 | Constructor | Description |
 | --- | --- |
 | [PbrMaterial()](#PbrMaterial--) | Construct a default PBR material instance |
-| [PbrMaterial(Color albedo)](#PbrMaterial-java.awt.Color-) | Construct a default PBR material with specified albedo color value. |
+| [PbrMaterial(Vector3 albedo)](#PbrMaterial-com.aspose.threed.Vector3-) | Construct a default PBR material with specified albedo color value. |
 ## Fields
 
 | Field | Description |
@@ -86,9 +86,9 @@ public PbrMaterial()
 
 Construct a default PBR material instance
 
-### PbrMaterial(Color albedo) {#PbrMaterial-java.awt.Color-}
+### PbrMaterial(Vector3 albedo) {#PbrMaterial-com.aspose.threed.Vector3-}
 ```
-public PbrMaterial(Color albedo)
+public PbrMaterial(Vector3 albedo)
 ```
 
 
@@ -97,7 +97,7 @@ Construct a default PBR material with specified albedo color value.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| albedo | java.awt.Color | The default albedo color value |
+| albedo | [Vector3](../../com.aspose.threed/vector3) | The default albedo color value |
 
 ### MAP_AMBIENT {#MAP-AMBIENT}
 ```

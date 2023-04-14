@@ -19,10 +19,10 @@ public class Mesh : Geometry, IEnumerable<int[]>, IMeshConvertible
 | Name | Description |
 | --- | --- |
 | [Mesh](mesh)() | Initializes a new instance of the [`Mesh`](../mesh) class. |
-| [Mesh](mesh)(Bitmap) | Construct a mesh using specified height map, if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z) The control point's x and y components are normalized pixel coordinate. |
 | [Mesh](mesh)(string) | Initializes a new instance of the [`Mesh`](../mesh) class. |
-| [Mesh](mesh)(Bitmap, Matrix4) | Construct a mesh using specified height map, if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z) The control point's x and y components are normalized pixel coordinate. |
-| [Mesh](mesh)(Bitmap, bool, Matrix4) | Construct a mesh using specified height map, if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z) The control point's x and y components are normalized pixel coordinate. |
+| [Mesh](mesh)(TextureData) | Construct a mesh using specified height map, if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z) The control point's x and y components are normalized pixel coordinate. |
+| [Mesh](mesh)(TextureData, Matrix4) | Construct a mesh using specified height map, if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z) The control point's x and y components are normalized pixel coordinate. |
+| [Mesh](mesh)(TextureData, bool, Matrix4) | Construct a mesh using specified height map, if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z) The control point's x and y components are normalized pixel coordinate. |
 
 ## Properties
 

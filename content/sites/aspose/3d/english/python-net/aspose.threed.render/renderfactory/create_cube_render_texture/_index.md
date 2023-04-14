@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_cube_render_texture/
 is_root: false
 ---
 
-## create_cube_render_texture(parameters, width, height) {#RenderParameters-int-int}
+## create_cube_render_texture {#aspose.threed.render.RenderParameters-int-int}
 
 Create a render target contains 1 cube texture
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementuv/__init__/
 is_root: false
 ---
 
-## VertexElementUV() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) class.
 The default texture mapping type is [`TextureMapping.DIFFUSE`](/3d/python-net/aspose.threed.entities/texturemapping#DIFFUSE)
@@ -23,7 +23,7 @@ def __init__(self):
 
 
 
-## VertexElementUV(texture_mapping) {#TextureMapping}
+## __init__ {#aspose.threed.entities.TextureMapping}
 
 Initializes a new instance of the [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) class.
 

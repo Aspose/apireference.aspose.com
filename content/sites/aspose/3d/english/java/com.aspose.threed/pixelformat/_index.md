@@ -3,7 +3,7 @@ title: PixelFormat
 second_title: Aspose.3D for Java API Reference
 description: The pixels format used in texture unit.
 type: docs
-weight: 261
+weight: 268
 url: /java/com.aspose.threed/pixelformat/
 ---
 
@@ -27,6 +27,7 @@ The pixel's format used in texture unit.
 | [A8B8G8R8](#A8B8G8R8) | 32-bit pixel format, 8 bits for blue, green, red and alpha. |
 | [A8R8G8B8](#A8R8G8B8) | 32-bit pixel format, 8 bits for alpha, red, green and blue. |
 | [B5G6R5](#B5G6R5) | 16-bit pixel format, 5 bits red, 6 bits green, 5 bits blue. |
+| [B8](#B8) | 8-bit pixel format, all bits blue. |
 | [B8G8R8](#B8G8R8) | 24-bit pixel format, 8 bits for blue, green and red. |
 | [B8G8R8A8](#B8G8R8A8) | 32-bit pixel format, 8 bits for blue, green, red and alpha. |
 | [BYTE_LA](#BYTE-LA) | 2 byte pixel format, 1 byte luminance, 1 byte alpha |
@@ -44,6 +45,7 @@ The pixel's format used in texture unit.
 | [FLOAT32_R](#FLOAT32-R) | 32-bit pixel format, 32 bits (float) for red |
 | [FLOAT32_RGB](#FLOAT32-RGB) | 96-bit pixel format, 32 bits (float) for red, 32 bits (float) for green, 32 bits (float) for blue |
 | [FLOAT32_RGBA](#FLOAT32-RGBA) | 128-bit pixel format, 32 bits (float) for red, 32 bits (float) for green, 32 bits (float) for blue, 32 bits (float) for alpha |
+| [G8](#G8) | 8-bit pixel format, all bits green. |
 | [L16](#L16) | 16-bit pixel format, all bits luminance. |
 | [L8](#L8) | 8-bit pixel format, all bits luminance. |
 | [R32G32B32A32_UINT](#R32G32B32A32-UINT) | 128-bit pixel format, 32 bits red (unsigned int), 32 bits blue (unsigned int), 32 bits green (unsigned int), 32 bits alpha (unsigned int). |
@@ -152,6 +154,14 @@ public static final PixelFormat B5G6R5
 
 
 16-bit pixel format, 5 bits red, 6 bits green, 5 bits blue.
+
+### B8 {#B8}
+```
+public static final PixelFormat B8
+```
+
+
+8-bit pixel format, all bits blue.
 
 ### B8G8R8 {#B8G8R8}
 ```
@@ -288,6 +298,14 @@ public static final PixelFormat FLOAT32_RGBA
 
 
 128-bit pixel format, 32 bits (float) for red, 32 bits (float) for green, 32 bits (float) for blue, 32 bits (float) for alpha
+
+### G8 {#G8}
+```
+public static final PixelFormat G8
+```
+
+
+8-bit pixel format, all bits green.
 
 ### L16 {#L16}
 ```

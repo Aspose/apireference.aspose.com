@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/html5saveoptions/__init__/
 is_root: false
 ---
 
-## Html5SaveOptions() {#}
+## __init__ {#}
 
 Constructor of [`Html5SaveOptions`](/3d/python-net/aspose.threed.formats/html5saveoptions) with all default settings.
 

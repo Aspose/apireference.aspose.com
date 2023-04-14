@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector2/cross/
 is_root: false
 ---
 
-## cross(v) {#Vector2}
+## cross {#aspose.threed.utilities.Vector2}
 
 Cross product of two vectors
 

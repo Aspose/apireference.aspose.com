@@ -19,9 +19,9 @@ public interface ITexture2D : ITextureUnit
 | Name | Description |
 | --- | --- |
 | [Load](../../aspose.threed.render/itexture2d/load)(TextureData) | Load texture content from specified Bitmap |
-| [Save](../../aspose.threed.render/itexture2d/save)(Bitmap) | Save the texture content to external file. |
-| [Save](../../aspose.threed.render/itexture2d/save)(string, ImageFormat) | Save the texture content to external file. |
-| [ToBitmap](../../aspose.threed.render/itexture2d/tobitmap)() | Convert the texture unit to Bitmap instance |
+| [Save](../../aspose.threed.render/itexture2d/save)(TextureData) | Save the texture content to external file. |
+| [Save](../../aspose.threed.render/itexture2d/save)(string, string) | Save the texture content to external file. |
+| [ToBitmap](../../aspose.threed.render/itexture2d/tobitmap)() | Convert the texture unit to [`TextureData`](../texturedata) instance |
 
 ### See Also
 

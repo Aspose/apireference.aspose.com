@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/endpoint/__init__/
 is_root: false
 ---
 
-## EndPoint() {#}
+## __init__ {#}
 
 Constructs a new instance of EndPoint
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## EndPoint(point) {#aspose.threed.utilities.Vector3}
+## __init__ {#aspose.threed.utilities.Vector3}
 
 Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a Cartesian point.
 
@@ -39,7 +39,7 @@ def __init__(self, point):
 | point | aspose.threed.utilities.Vector3 |  |
 
 
-## EndPoint(v) {#float}
+## __init__ {#float}
 
 Construct a [`EndPoint`](/3d/python-net/aspose.threed.entities/endpoint) from a real parameter.
 

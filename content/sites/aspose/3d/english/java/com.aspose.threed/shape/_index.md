@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.3D for Java API Reference
 description: The shape describes the deformation on a set of control points which is similar to the cluster deformer in Maya.
 type: docs
-weight: 156
+weight: 159
 url: /java/com.aspose.threed/shape/
 ---
 

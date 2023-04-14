@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementmaterial/__init__/
 is_root: false
 ---
 
-## VertexElementMaterial() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial) class.
 

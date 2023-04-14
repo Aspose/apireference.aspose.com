@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/patch/create_element_uv/
 is_root: false
 ---
 
-## create_element_uv(uv_mapping) {#TextureMapping}
+## create_element_uv {#aspose.threed.entities.TextureMapping}
 
 Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type.
 
@@ -30,7 +30,7 @@ def create_element_uv(self, uv_mapping):
 | uv_mapping | [`TextureMapping`](/3d/python-net/aspose.threed.entities/texturemapping) | Which texture mapping type to create |
 
 
-## create_element_uv(uv_mapping, mapping_mode, reference_mode) {#TextureMapping-MappingMode-ReferenceMode}
+## create_element_uv {#aspose.threed.entities.TextureMapping-aspose.threed.entities.MappingMode-aspose.threed.entities.ReferenceMode}
 
 Creates a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with given texture mapping type.
 

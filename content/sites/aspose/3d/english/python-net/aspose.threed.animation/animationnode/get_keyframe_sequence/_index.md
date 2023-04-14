@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/animationnode/get_keyframe_sequence/
 is_root: false
 ---
 
-## get_keyframe_sequence(target, prop_name, create) {#A3DObject-str-bool}
+## get_keyframe_sequence {#aspose.threed.A3DObject-str-bool}
 
 Gets the keyframe sequence on given property.
 
@@ -32,7 +32,7 @@ def get_keyframe_sequence(self, target, prop_name, create):
 | create | bool | If set to `true`, create the sequence if it's not existing. |
 
 
-## get_keyframe_sequence(target, prop_name, channel_name, create) {#A3DObject-str-str-bool}
+## get_keyframe_sequence {#aspose.threed.A3DObject-str-str-bool}
 
 Gets the keyframe sequence on given property and channel.
 

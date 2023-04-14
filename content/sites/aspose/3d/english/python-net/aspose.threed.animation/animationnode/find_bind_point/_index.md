@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/animationnode/find_bind_point/
 is_root: false
 ---
 
-## find_bind_point(name) {#str}
+## find_bind_point {#str}
 
 Finds the bind point by name.
 

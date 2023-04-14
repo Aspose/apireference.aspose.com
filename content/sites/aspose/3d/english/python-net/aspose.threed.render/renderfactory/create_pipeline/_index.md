@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_pipeline/
 is_root: false
 ---
 
-## create_pipeline(shader, render_state, vertex_declaration, draw_operation) {#ShaderProgram-RenderState-aspose.threed.utilities.VertexDeclaration-DrawOperation}
+## create_pipeline {#aspose.threed.render.ShaderProgram-aspose.threed.render.RenderState-aspose.threed.utilities.VertexDeclaration-aspose.threed.render.DrawOperation}
 
 Create a preconfigured graphics pipeline with preconfigured shader/render state/vertex declaration and draw operations.
 

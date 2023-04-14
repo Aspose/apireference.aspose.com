@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_texture_unit/
 is_root: false
 ---
 
-## create_texture_unit() {#}
+## create_texture_unit {#}
 
 Create a 2D texture unit that can be accessed by shader.
 
@@ -27,7 +27,7 @@ def create_texture_unit(self):
 
 
 
-## create_texture_unit(texture_type) {#TextureType}
+## create_texture_unit {#aspose.threed.render.TextureType}
 
 Create a texture unit that can be accessed by shader.
 

@@ -11,11 +11,12 @@ url: /net/aspose.threed/imagerenderoptions/backgroundcolor/
 The background color of the render result.
 
 ```csharp
-public Color BackgroundColor { get; set; }
+public Vector3 BackgroundColor { get; set; }
 ```
 
 ### See Also
 
+* struct [Vector3](../../../aspose.threed.utilities/vector3)
 * class [ImageRenderOptions](../../imagerenderoptions)
 * namespace [Aspose.ThreeD](../../imagerenderoptions)
 * assembly [Aspose.3D](../../../)

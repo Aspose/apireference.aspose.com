@@ -18,6 +18,7 @@ All rendering related classes are defined in this namespace
 | [EntityRendererKey](./entityrendererkey) | The key of registered entity renderer |
 | [GLSLSource](./glslsource) | The source code of shaders in GLSL |
 | [InitializationException](./initializationexception) | Exceptions in render pipeline initialization |
+| [PixelMapping](./pixelmapping) |  |
 | [PostProcessing](./postprocessing) | The post-processing effects |
 | [PushConstant](./pushconstant) | A utility to provide data to shader through push constant. |
 | [Renderer](./renderer) | The context about renderer. |
@@ -33,6 +34,7 @@ All rendering related classes are defined in this namespace
 | [ShaderVariable](./shadervariable) | Shader variable |
 | [SPIRVSource](./spirvsource) | The compiled shader in SPIR-V format. |
 | [StencilState](./stencilstate) | Stencil states per face. |
+| [TextureCodec](./texturecodec) | Class to manage encoders and decoders for textures. |
 | [TextureData](./texturedata) | This class contains the raw data and format definition of a texture. |
 | [Viewport](./viewport) | A [`IRenderTarget`](../aspose.threed.render/irendertarget) contains at least one viewport for rendering the scene. |
 | [WindowHandle](./windowhandle) | Encapsulated window handle for different platforms. |
@@ -51,7 +53,10 @@ All rendering related classes are defined in this namespace
 | [IRenderWindow](./irenderwindow) | IRenderWindow represents the native window created by operating system that supports rendering. |
 | [ITexture1D](./itexture1d) | 1D texture |
 | [ITexture2D](./itexture2d) | 2D texture |
+| [ITextureCodec](./itexturecodec) | Codec for textures |
 | [ITextureCubemap](./itexturecubemap) | Cube map texture |
+| [ITextureDecoder](./itexturedecoder) | External texture decoder should implement this interface for decoding. |
+| [ITextureEncoder](./itextureencoder) | External texture encoder should implement this interface for encoding. |
 | [ITextureUnit](./itextureunit) | [`ITextureUnit`](../aspose.threed.render/itextureunit) represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader, where the [`Texture`](../aspose.threed.shading/texture) only represents a reference to an external file. More details can be found https://en.wikipedia.org/wiki/Texture_mapping_unit |
 | [IVertexBuffer](./ivertexbuffer) | The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline |
 ## Enumeration
@@ -67,6 +72,7 @@ All rendering related classes are defined in this namespace
 | [FrontFace](./frontface) | Define front- and back-facing polygons |
 | [IndexDataType](./indexdatatype) | The data type of the elements in [`IIndexBuffer`](../aspose.threed.render/iindexbuffer) |
 | [PixelFormat](./pixelformat) | The pixel's format used in texture unit. |
+| [PixelMapMode](./pixelmapmode) |  |
 | [PolygonMode](./polygonmode) | The polygon rasterization mode |
 | [PresetShaders](./presetshaders) | This defines the preset internal shaders used by the renderer. |
 | [RenderQueueGroupId](./renderqueuegroupid) | The group id of render queue |

@@ -25,7 +25,7 @@ The VertexElementEdgeCrease type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementEdgeCrease()](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/__init__/#) | Initializes a new instance of the [`VertexElementEdgeCrease`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/__init__/#) | Initializes a new instance of the [`VertexElementEdgeCrease`](/3d/python-net/aspose.threed.entities/vertexelementedgecrease) class. |
 
 
 ### Properties
@@ -41,10 +41,10 @@ The VertexElementEdgeCrease type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to(target)](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/copy_to/#VertexElementDoublesTemplate) | Copies data to specified element |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/set_data/#list) | Load data |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/clear/#) | Removes all elements from the direct and the index arrays. |
+| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/copy_to/#aspose.threed.entities.VertexElementDoublesTemplate) | Copies data to specified element |
+| [set_data](/3d/python-net/aspose.threed.entities/vertexelementedgecrease/set_data/#list) | Load data |
 
 
 

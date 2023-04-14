@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/texturedata/to_bitmap/
 is_root: false
 ---
 
-## to_bitmap() {#}
+## to_bitmap {#}
 
 Convert the TextureData to a Bitmap instance.
 

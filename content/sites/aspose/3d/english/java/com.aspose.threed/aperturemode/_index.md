@@ -3,7 +3,7 @@ title: ApertureMode
 second_title: Aspose.3D for Java API Reference
 description: Camera aperture modes.
 type: docs
-weight: 237
+weight: 244
 url: /java/com.aspose.threed/aperturemode/
 ---
 

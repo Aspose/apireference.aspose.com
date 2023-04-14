@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/transformbuilder/rotate/
 is_root: false
 ---
 
-## rotate(q) {#Quaternion}
+## rotate {#aspose.threed.utilities.Quaternion}
 
 Chain a rotation by a quaternion
 
@@ -29,6 +29,7 @@ def rotate(self, q):
 
 ```python
 from aspose.threed.utilities import Quaternion, TransformBuilder
+import math
 
 tb = TransformBuilder()
 tb.rotate(Quaternion.from_euler_angle(0, math.pi, 0))

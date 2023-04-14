@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/iindexbuffer/load_data/
 is_root: false
 ---
 
-## load_data(mesh) {#aspose.threed.entities.TriMesh}
+## load_data {#aspose.threed.entities.TriMesh}
 
 Load indice data from [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)
 
@@ -25,7 +25,7 @@ def load_data(self, mesh):
 | mesh | aspose.threed.entities.TriMesh |  |
 
 
-## load_data(indices) {#list}
+## load_data {#list}
 
 Load indice data
 
@@ -42,7 +42,7 @@ def load_data(self, indices):
 | indices | list |  |
 
 
-## load_data(indices) {#list}
+## load_data {#list}
 
 Load indice data
 
@@ -59,7 +59,7 @@ def load_data(self, indices):
 | indices | list |  |
 
 
-## load_data(indices) {#list}
+## load_data {#list}
 
 Load indice data
 
@@ -76,7 +76,7 @@ def load_data(self, indices):
 | indices | list |  |
 
 
-## load_data(data) {#bytes}
+## load_data {#bytes}
 
 Load the data into current buffer
 

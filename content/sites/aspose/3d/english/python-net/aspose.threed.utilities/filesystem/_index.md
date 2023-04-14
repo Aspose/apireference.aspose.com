@@ -20,8 +20,8 @@ The FileSystem type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [read_file(file_name, options)](/3d/python-net/aspose.threed.utilities/filesystem/read_file/#str-aspose.threed.formats.IOConfig) | Create a stream for reading dependencies. |
-| [write_file(file_name, options)](/3d/python-net/aspose.threed.utilities/filesystem/write_file/#str-aspose.threed.formats.IOConfig) | Create a stream for writing dependencies. |
+| [read_file](/3d/python-net/aspose.threed.utilities/filesystem/read_file/#str-aspose.threed.formats.IOConfig) | Create a stream for reading dependencies. |
+| [write_file](/3d/python-net/aspose.threed.utilities/filesystem/write_file/#str-aspose.threed.formats.IOConfig) | Create a stream for writing dependencies. |
 
 
 

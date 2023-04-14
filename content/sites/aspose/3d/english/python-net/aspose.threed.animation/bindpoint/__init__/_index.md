@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/bindpoint/__init__/
 is_root: false
 ---
 
-## BindPoint(scene, prop) {#Scene-Property}
+## __init__ {#aspose.threed.Scene-aspose.threed.Property}
 
 Initializes a new instance of the [`BindPoint`](/3d/python-net/aspose.threed.animation/bindpoint) class.
 

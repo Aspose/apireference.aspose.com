@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/plysaveoptions/__init__/
 is_root: false
 ---
 
-## PlySaveOptions() {#}
+## __init__ {#}
 
 Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions)
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## PlySaveOptions(content_type) {#FileContentType}
+## __init__ {#aspose.threed.FileContentType}
 
 Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions)
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonmodifier/scale/
 is_root: false
 ---
 
-## scale(scene, scale) {#Scene-aspose.threed.utilities.Vector3}
+## scale {#aspose.threed.Scene-aspose.threed.utilities.Vector3}
 
 Scale all geometries(Scale the control points not the transformation matrix) in this scene
 
@@ -26,7 +26,7 @@ def scale(self, scene, scale):
 | scale | aspose.threed.utilities.Vector3 | The scale factor |
 
 
-## scale(node, scale) {#Node-aspose.threed.utilities.Vector3}
+## scale {#aspose.threed.Node-aspose.threed.utilities.Vector3}
 
 Scale all geometries(Scale the control points not the transformation matrix) in this node
 

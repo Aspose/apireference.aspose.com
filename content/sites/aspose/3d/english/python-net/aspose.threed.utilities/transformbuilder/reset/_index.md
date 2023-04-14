@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/transformbuilder/reset/
 is_root: false
 ---
 
-## reset() {#}
+## reset {#}
 
 Reset the transform to identity matrix
 

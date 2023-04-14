@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderstate/compare_to/
 is_root: false
 ---
 
-## compare_to(other) {#RenderState}
+## compare_to {#aspose.threed.render.RenderState}
 
 Compare the render state with another instance
 

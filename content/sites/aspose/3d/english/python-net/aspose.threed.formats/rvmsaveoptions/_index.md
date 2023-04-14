@@ -25,8 +25,8 @@ The RvmSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RvmSaveOptions()](/3d/python-net/aspose.threed.formats/rvmsaveoptions/__init__/#) | Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions) |
-| [RvmSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/rvmsaveoptions/__init__/#FileContentType) | Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/rvmsaveoptions/__init__/#) | Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/rvmsaveoptions/__init__/#aspose.threed.FileContentType) | Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions) |
 
 
 ### Properties
@@ -37,6 +37,7 @@ The RvmSaveOptions type exposes the following members:
 | [file_system](/3d/python-net/aspose.threed.formats/rvmsaveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/rvmsaveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [file_name](/3d/python-net/aspose.threed.formats/rvmsaveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
+| [export_textures](/3d/python-net/aspose.threed.formats/rvmsaveoptions/export_textures) | Try to copy textures used in scene to output directory. |
 | [file_note](/3d/python-net/aspose.threed.formats/rvmsaveoptions/file_note) | File note in the file header. |
 | [author](/3d/python-net/aspose.threed.formats/rvmsaveoptions/author) | Author information, default value is '3d@aspose' |
 | [creation_time](/3d/python-net/aspose.threed.formats/rvmsaveoptions/creation_time) | The timestamp that exported this file, default value is current time |

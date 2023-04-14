@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/revolvedareasolid/__init__/
 is_root: false
 ---
 
-## RevolvedAreaSolid() {#}
+## __init__ {#}
 
 Initialize an SceneObject.
 

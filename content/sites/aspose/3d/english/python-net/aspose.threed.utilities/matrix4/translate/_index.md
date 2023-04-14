@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/translate/
 is_root: false
 ---
 
-## translate(t) {#Vector3}
+## translate {#aspose.threed.utilities.Vector3}
 
 Creates a matrix that translates along the x-axis, the y-axis and the z-axis
 
@@ -44,7 +44,7 @@ print(f"Transformed: {t * pos}")
 ```
 
 
-## translate(tx, ty, tz) {#float-float-float}
+## translate {#float-float-float}
 
 Creates a matrix that translates along the x-axis, the y-axis and the z-axis
 

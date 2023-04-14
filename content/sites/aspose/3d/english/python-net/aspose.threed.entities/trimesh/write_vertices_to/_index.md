@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/write_vertices_to/
 is_root: false
 ---
 
-## write_vertices_to(stream) {#io.RawIOBase}
+## write_vertices_to {#io.RawIOBase}
 
 Write vertices data to the specified stream
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/importexception/__init__/
 is_root: false
 ---
 
-## ImportException(msg) {#str}
+## __init__ {#str}
 
 Initializes a new instance
 

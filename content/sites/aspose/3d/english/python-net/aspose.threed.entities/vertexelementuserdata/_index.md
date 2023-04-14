@@ -25,7 +25,7 @@ The VertexElementUserData type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementUserData()](/3d/python-net/aspose.threed.entities/vertexelementuserdata/__init__/#) | Initializes a new instance of the [`VertexElementUserData`](/3d/python-net/aspose.threed.entities/vertexelementuserdata) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/vertexelementuserdata/__init__/#) | Initializes a new instance of the [`VertexElementUserData`](/3d/python-net/aspose.threed.entities/vertexelementuserdata) class. |
 
 
 ### Properties
@@ -42,8 +42,8 @@ The VertexElementUserData type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementuserdata/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementuserdata/clear/#) | Clears all the data from this vertex element. |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementuserdata/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementuserdata/clear/#) | Clears all the data from this vertex element. |
 
 
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/inverse/
 is_root: false
 ---
 
-## inverse() {#}
+## inverse {#}
 
 Returns a inverse quaternion of current quaternion
 

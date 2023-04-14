@@ -25,8 +25,8 @@ The GltfSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [GltfSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#FileContentType) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
-| [GltfSaveOptions(format)](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#FileFormat) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.FileContentType) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/gltfsaveoptions/__init__/#aspose.threed.FileFormat) | Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions) |
 
 
 ### Properties
@@ -37,6 +37,7 @@ The GltfSaveOptions type exposes the following members:
 | [file_system](/3d/python-net/aspose.threed.formats/gltfsaveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/gltfsaveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [file_name](/3d/python-net/aspose.threed.formats/gltfsaveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
+| [export_textures](/3d/python-net/aspose.threed.formats/gltfsaveoptions/export_textures) | Try to copy textures used in scene to output directory. |
 | [pretty_print](/3d/python-net/aspose.threed.formats/gltfsaveoptions/pretty_print) | The JSON content of GLTF file is indented for human reading, default value is false |
 | [fallback_normal](/3d/python-net/aspose.threed.formats/gltfsaveoptions/fallback_normal) | When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation.<br/>Default value is (0, 1, 0) |
 | [embed_assets](/3d/python-net/aspose.threed.formats/gltfsaveoptions/embed_assets) | Embed all external assets as base64 into single file in ASCII mode, default value is false. |

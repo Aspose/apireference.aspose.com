@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/skeleton/__init__/
 is_root: false
 ---
 
-## Skeleton() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Skeleton(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`Skeleton`](/3d/python-net/aspose.threed.entities/skeleton) class.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/tshape/__init__/
 is_root: false
 ---
 
-## TShape() {#}
+## __init__ {#}
 
 Constructor of [`TShape`](/3d/python-net/aspose.threed.profiles/tshape)
 

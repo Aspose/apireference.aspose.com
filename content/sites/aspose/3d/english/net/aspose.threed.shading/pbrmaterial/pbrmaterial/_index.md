@@ -27,15 +27,16 @@ public PbrMaterial()
 Construct a default PBR material with specified albedo color value.
 
 ```csharp
-public PbrMaterial(Color albedo)
+public PbrMaterial(Vector3 albedo)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| albedo | Color | The default albedo color value |
+| albedo | Vector3 | The default albedo color value |
 
 ### See Also
 
+* struct [Vector3](../../../aspose.threed.utilities/vector3)
 * class [PbrMaterial](../../pbrmaterial)
 * namespace [Aspose.ThreeD.Shading](../../pbrmaterial)
 * assembly [Aspose.3D](../../../)

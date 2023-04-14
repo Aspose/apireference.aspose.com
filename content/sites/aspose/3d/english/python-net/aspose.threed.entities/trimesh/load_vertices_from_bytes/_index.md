@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/load_vertices_from_bytes/
 is_root: false
 ---
 
-## load_vertices_from_bytes(vertices_in_bytes) {#bytes}
+## load_vertices_from_bytes {#bytes}
 
 Load vertices from bytes, the length of bytes must be an integer multiple of vertex size.
 

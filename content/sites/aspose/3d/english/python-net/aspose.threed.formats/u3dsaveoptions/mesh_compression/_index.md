@@ -3,7 +3,7 @@ title: mesh_compression property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 150
 url: /python-net/aspose.threed.formats/u3dsaveoptions/mesh_compression/
 is_root: false
 ---

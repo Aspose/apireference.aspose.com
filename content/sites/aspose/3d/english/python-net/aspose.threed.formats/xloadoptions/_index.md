@@ -25,7 +25,7 @@ The XLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [XLoadOptions(content_type)](/3d/python-net/aspose.threed.formats/xloadoptions/__init__/#FileContentType) | Constructor of [`XLoadOptions`](/3d/python-net/aspose.threed.formats/xloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/xloadoptions/__init__/#aspose.threed.FileContentType) | Constructor of [`XLoadOptions`](/3d/python-net/aspose.threed.formats/xloadoptions) |
 
 
 ### Properties

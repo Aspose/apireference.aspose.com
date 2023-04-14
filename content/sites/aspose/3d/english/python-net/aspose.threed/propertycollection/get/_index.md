@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/propertycollection/get/
 is_root: false
 ---
 
-## get(property) {#str}
+## get {#str}
 
 
 

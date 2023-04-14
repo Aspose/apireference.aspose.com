@@ -25,7 +25,7 @@ The VertexElementSpecular type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementSpecular()](/3d/python-net/aspose.threed.entities/vertexelementspecular/__init__/#) | Initializes a new instance of the [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/vertexelementspecular/__init__/#) | Initializes a new instance of the [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular) class. |
 
 
 ### Properties
@@ -42,10 +42,10 @@ The VertexElementSpecular type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementspecular/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementspecular/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to(target)](/3d/python-net/aspose.threed.entities/vertexelementspecular/copy_to/#VertexElementVector4) | Copies data to specified element |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementspecular/set_data/#list) | Load data |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementspecular/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementspecular/clear/#) | Removes all elements from the direct and the index arrays. |
+| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementspecular/copy_to/#aspose.threed.entities.VertexElementVector4) | Copies data to specified element |
+| [set_data](/3d/python-net/aspose.threed.entities/vertexelementspecular/set_data/#list) | Load data |
 
 
 

@@ -3,7 +3,7 @@ title: VertexElementVertexCrease
 second_title: Aspose.3D for Java API Reference
 description: Defines the vertex crease for specified components
 type: docs
-weight: 203
+weight: 207
 url: /java/com.aspose.threed/vertexelementvertexcrease/
 ---
 

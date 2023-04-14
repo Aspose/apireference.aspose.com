@@ -11,11 +11,12 @@ url: /net/aspose.threed.render/viewport/backgroundcolor/
 Gets or sets the background color of the viewport.
 
 ```csharp
-public Color BackgroundColor { get; set; }
+public Vector3 BackgroundColor { get; set; }
 ```
 
 ### See Also
 
+* struct [Vector3](../../../aspose.threed.utilities/vector3)
 * class [Viewport](../../viewport)
 * namespace [Aspose.ThreeD.Render](../../viewport)
 * assembly [Aspose.3D](../../../)

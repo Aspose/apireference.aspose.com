@@ -11,13 +11,13 @@ url: /net/aspose.threed.render/itexture1d/save/
 Save the texture content to external file.
 
 ```csharp
-public void Save(string path, ImageFormat format)
+public void Save(string path, string format)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | path | String | File name to save. |
-| format | ImageFormat | Image format |
+| format | String | Image format |
 
 ### Exceptions
 
@@ -38,15 +38,16 @@ public void Save(string path, ImageFormat format)
 Save the texture content to external file.
 
 ```csharp
-public void Save(Bitmap bitmap)
+public void Save(TextureData bitmap)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bitmap | Bitmap | Result bitmap to save. |
+| bitmap | TextureData | Result bitmap to save. |
 
 ### See Also
 
+* class [TextureData](../../texturedata)
 * interface [ITexture1D](../../itexture1d)
 * namespace [Aspose.ThreeD.Render](../../itexture1d)
 * assembly [Aspose.3D](../../../)

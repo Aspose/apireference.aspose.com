@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementvertexcrease/__init__/
 is_root: false
 ---
 
-## VertexElementVertexCrease() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementVertexCrease`](/3d/python-net/aspose.threed.entities/vertexelementvertexcrease) class.
 

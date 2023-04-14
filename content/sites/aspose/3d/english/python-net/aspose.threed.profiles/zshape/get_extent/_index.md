@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/zshape/get_extent/
 is_root: false
 ---
 
-## get_extent() {#}
+## get_extent {#}
 
 Gets the extent in x and y dimension.
 

@@ -25,7 +25,7 @@ The U3dLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [U3dLoadOptions()](/3d/python-net/aspose.threed.formats/u3dloadoptions/__init__/#) | Constructor of [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/u3dloadoptions/__init__/#) | Constructor of [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions) |
 
 
 ### Properties

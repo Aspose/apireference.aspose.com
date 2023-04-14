@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/fbxloadoptions/__init__/
 is_root: false
 ---
 
-## FbxLoadOptions() {#}
+## __init__ {#}
 
 Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## FbxLoadOptions(format) {#FileFormat}
+## __init__ {#aspose.threed.FileFormat}
 
 Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions)
 

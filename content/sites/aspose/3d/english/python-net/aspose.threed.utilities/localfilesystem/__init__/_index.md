@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/localfilesystem/__init__/
 is_root: false
 ---
 
-## LocalFileSystem(directory) {#str}
+## __init__ {#str}
 
 Initialize a new [`LocalFileSystem`](/3d/python-net/aspose.threed.utilities/localfilesystem) with specified base directory.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector2/normalize/
 is_root: false
 ---
 
-## normalize() {#}
+## normalize {#}
 
 Normalizes this instance.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/rectangulartorus/to_mesh/
 is_root: false
 ---
 
-## to_mesh() {#}
+## to_mesh {#}
 
 Convert this primitive to [`Mesh`](/3d/python-net/aspose.threed.entities/mesh)
 

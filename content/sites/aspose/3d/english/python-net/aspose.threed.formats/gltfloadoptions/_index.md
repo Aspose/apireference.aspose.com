@@ -25,7 +25,7 @@ The GltfLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [GltfLoadOptions()](/3d/python-net/aspose.threed.formats/gltfloadoptions/__init__/#) | Constructor of [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/gltfloadoptions/__init__/#) | Constructor of [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions) |
 
 
 ### Properties

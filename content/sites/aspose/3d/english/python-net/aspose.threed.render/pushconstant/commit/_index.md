@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/pushconstant/commit/
 is_root: false
 ---
 
-## commit(stage, command_list) {#ShaderStage-ICommandList}
+## commit {#aspose.threed.render.ShaderStage-aspose.threed.render.ICommandList}
 
 Commit prepared data to graphics pipeline.
 

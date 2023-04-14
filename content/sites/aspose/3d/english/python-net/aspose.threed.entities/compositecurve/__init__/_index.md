@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/compositecurve/__init__/
 is_root: false
 ---
 
-## CompositeCurve() {#}
+## __init__ {#}
 
 Constructor of [`CompositeCurve`](/3d/python-net/aspose.threed.entities/compositecurve)
 

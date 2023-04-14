@@ -26,6 +26,7 @@ public class ObjSaveOptions : SaveOptions
 | --- | --- |
 | [EnableMaterials](../../aspose.threed.formats/objsaveoptions/enablematerials) { get; set; } | Gets or sets whether import/export materials for each object |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
+| [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
 | [FileSystem](../../aspose.threed.formats/ioconfig/filesystem) { get; set; } | Allow user to handle how to manage the external dependencies during load/save. |

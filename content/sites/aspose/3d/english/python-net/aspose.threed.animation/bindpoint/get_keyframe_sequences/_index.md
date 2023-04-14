@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/bindpoint/get_keyframe_sequences/
 is_root: false
 ---
 
-## get_keyframe_sequences(channel_name) {#str}
+## get_keyframe_sequences {#str}
 
 Gets all keyframe sequences in specified channel
 

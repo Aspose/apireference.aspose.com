@@ -38,7 +38,7 @@ Options for [Scene](../../com.aspose.threed/scene) and [Scene](../../com.aspose.
 | [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
 | [setAssetDirectories(ArrayList<String> value)](#setAssetDirectories-java.util.ArrayList-java.lang.String--) | Directories that stored external assets(like textures) |
-| [setBackgroundColor(Color value)](#setBackgroundColor-java.awt.Color-) | The background color of the render result. |
+| [setBackgroundColor(Vector3 value)](#setBackgroundColor-com.aspose.threed.Vector3-) | The background color of the render result. |
 | [setEnableShadows(boolean value)](#setEnableShadows-boolean-) | Sets whether to render shadows. |
 | [setName(String value)](#setName-java.lang.String-) | Sets the name. |
 | [setProperty(String property, Object value)](#setProperty-java.lang.String-java.lang.Object-) | Sets the value of specified property |
@@ -96,14 +96,14 @@ Directories that stored external assets(like textures)
 java.util.ArrayList<java.lang.String>
 ### getBackgroundColor() {#getBackgroundColor--}
 ```
-public Color getBackgroundColor()
+public Vector3 getBackgroundColor()
 ```
 
 
 The background color of the render result.
 
 **Returns:**
-java.awt.Color
+[Vector3](../../com.aspose.threed/vector3)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -228,9 +228,9 @@ Directories that stored external assets(like textures)
 | --- | --- | --- |
 | value | java.util.ArrayList<java.lang.String> | New value |
 
-### setBackgroundColor(Color value) {#setBackgroundColor-java.awt.Color-}
+### setBackgroundColor(Vector3 value) {#setBackgroundColor-com.aspose.threed.Vector3-}
 ```
-public void setBackgroundColor(Color value)
+public void setBackgroundColor(Vector3 value)
 ```
 
 
@@ -239,7 +239,7 @@ The background color of the render result.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.awt.Color | New value |
+| value | [Vector3](../../com.aspose.threed/vector3) | New value |
 
 ### setEnableShadows(boolean value) {#setEnableShadows-boolean-}
 ```

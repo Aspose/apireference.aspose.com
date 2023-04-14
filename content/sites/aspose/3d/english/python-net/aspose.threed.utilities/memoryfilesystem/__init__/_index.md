@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/memoryfilesystem/__init__/
 is_root: false
 ---
 
-## MemoryFileSystem() {#}
+## __init__ {#}
 
 Constructs a new instance of MemoryFileSystem
 

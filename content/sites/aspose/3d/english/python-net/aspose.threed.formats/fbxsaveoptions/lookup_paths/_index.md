@@ -3,7 +3,7 @@ title: lookup_paths property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.threed.formats/fbxsaveoptions/lookup_paths/
 is_root: false
 ---

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/entityrenderer/frame_begin/
 is_root: false
 ---
 
-## frame_begin(renderer, render_queue) {#Renderer-IRenderQueue}
+## frame_begin {#aspose.threed.render.Renderer-aspose.threed.render.IRenderQueue}
 
 Begin rendering a frame
 

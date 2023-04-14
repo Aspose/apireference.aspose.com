@@ -3,7 +3,7 @@ title: UShape
 second_title: Aspose.3D for Java API Reference
 description: IFC compatible U-shape defined by parameters.
 type: docs
-weight: 179
+weight: 183
 url: /java/com.aspose.threed/ushape/
 ---
 

@@ -3,7 +3,7 @@ title: Line
 second_title: Aspose.3D for Java API Reference
 description: A polyline is a path defined by a set of points with  and connected by  which means it can also be a set of connected line segments.
 type: docs
-weight: 85
+weight: 86
 url: /java/com.aspose.threed/line/
 ---
 

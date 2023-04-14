@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vertex/read_double/
 is_root: false
 ---
 
-## read_double(field) {#VertexField}
+## read_double {#aspose.threed.utilities.VertexField}
 
 Read the double field
 

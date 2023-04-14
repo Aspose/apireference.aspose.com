@@ -3,7 +3,7 @@ title: RelativeRectangle class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 160
+weight: 170
 url: /python-net/aspose.threed.utilities/relativerectangle/
 is_root: false
 ---
@@ -22,7 +22,8 @@ The RelativeRectangle type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RelativeRectangle()](/3d/python-net/aspose.threed.utilities/relativerectangle/__init__/#) | Constructs a new instance of RelativeRectangle |
+| [__init__](/3d/python-net/aspose.threed.utilities/relativerectangle/__init__/#int-int-int-int) | Construct a [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle) |
+| [__init__](/3d/python-net/aspose.threed.utilities/relativerectangle/__init__/#) | Constructs a new instance of RelativeRectangle |
 
 
 ### Properties
@@ -41,9 +42,8 @@ The RelativeRectangle type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [to_absolute(rect)](/3d/python-net/aspose.threed.utilities/relativerectangle/to_absolute/#aspose.pydrawing.Size) | Convert the relative rectangle to absolute rectangle |
-| [to_absolute(rect)](/3d/python-net/aspose.threed.utilities/relativerectangle/to_absolute/#aspose.pydrawing.Rectangle) | Convert the relative rectangle to absolute rectangle |
-| [from_scale(scale_x, scale_y, scale_width, scale_height)](/3d/python-net/aspose.threed.utilities/relativerectangle/from_scale/#float-float-float-float) | Construct a [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle) with all offset fields zero and scale fields from given parameters. |
+| [to_absolute](/3d/python-net/aspose.threed.utilities/relativerectangle/to_absolute/#int-int-int-int) | Convert the relative rectangle to absolute rectangle |
+| [from_scale](/3d/python-net/aspose.threed.utilities/relativerectangle/from_scale/#float-float-float-float) | Construct a [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle) with all offset fields zero and scale fields from given parameters. |
 
 
 

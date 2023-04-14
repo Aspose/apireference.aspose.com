@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.deformers/bone/set_weight/
 is_root: false
 ---
 
-## set_weight(index, weight) {#int-float}
+## set_weight {#int-float}
 
 Sets the weight for control point specified by index
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementuserdata/set_indices/
 is_root: false
 ---
 
-## set_indices(data) {#list}
+## set_indices {#list}
 
 Load indices
 

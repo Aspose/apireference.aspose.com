@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/objsaveoptions/__init__/
 is_root: false
 ---
 
-## ObjSaveOptions() {#}
+## __init__ {#}
 
 Constructor of [`ObjSaveOptions`](/3d/python-net/aspose.threed.formats/objsaveoptions)
 

@@ -82,6 +82,7 @@ url: /java/com.aspose.threed/
 | [ImageRenderOptions](../com.aspose.threed/imagerenderoptions) | Options for [Scene](../com.aspose.threed/scene) and [Scene](../com.aspose.threed/scene) |
 | [ImportException](../com.aspose.threed/importexception) | Exception when Aspose.3D failed to open the specified source |
 | [InitializationException](../com.aspose.threed/initializationexception) | Exceptions in render pipeline initialization |
+| [JavaXImageCodec](../com.aspose.threed/javaximagecodec) |  |
 | [KeyFrame](../com.aspose.threed/keyframe) | A key frame is mainly defined by a time and a value, for some interpolation types, tangent/tension/bias/continuity is also used by calculating the final sampled value. |
 | [KeyframeSequence](../com.aspose.threed/keyframesequence) | The sequence of key-frames, it describes the transformation of a sampled value over time. |
 | [LShape](../com.aspose.threed/lshape) | IFC compatible L-shape profile that defined by parameters. |
@@ -117,6 +118,7 @@ url: /java/com.aspose.threed/
 | [PdfLoadOptions](../com.aspose.threed/pdfloadoptions) | Options for PDF loading |
 | [PdfSaveOptions](../com.aspose.threed/pdfsaveoptions) | The save options in PDF exporting. |
 | [PhongMaterial](../com.aspose.threed/phongmaterial) | Material for blinn-phong shading model. |
+| [PixelMapping](../com.aspose.threed/pixelmapping) |  |
 | [Plane](../com.aspose.threed/plane) | Parameterized plane. |
 | [PlyFormat](../com.aspose.threed/plyformat) | The PLY format. |
 | [PlyLoadOptions](../com.aspose.threed/plyloadoptions) | Load options for PLY files |
@@ -133,6 +135,7 @@ url: /java/com.aspose.threed/
 | [PushConstant](../com.aspose.threed/pushconstant) | A utility to provide data to shader through push constant. |
 | [Pyramid](../com.aspose.threed/pyramid) | Parameterized pyramid. |
 | [Quaternion](../com.aspose.threed/quaternion) | Quaternion is usually used to perform rotation in computer graphics. |
+| [Rect](../com.aspose.threed/rect) | A class to represent the rectangle |
 | [RectangleShape](../com.aspose.threed/rectangleshape) | IFC compatible rectangular shape with rounding corners. |
 | [RectangularTorus](../com.aspose.threed/rectangulartorus) | Parameterized rectangular torus. |
 | [RelativeRectangle](../com.aspose.threed/relativerectangle) | Relative rectangle The formula between relative component to absolute value is: Scale \* (Reference Width) + offset So if we want it to represent an absolute value, leave all scale fields zero, and use offset fields instead. |
@@ -170,6 +173,7 @@ url: /java/com.aspose.threed/
 | [TShape](../com.aspose.threed/tshape) | IFC compatible T-shape defined by parameters. |
 | [Texture](../com.aspose.threed/texture) | This class defines the texture from an external file. |
 | [TextureBase](../com.aspose.threed/texturebase) | Base class for all concrete textures. |
+| [TextureCodec](../com.aspose.threed/texturecodec) | Class to manage encoders and decoders for textures. |
 | [TextureData](../com.aspose.threed/texturedata) | This class contains the raw data and format definition of a texture. |
 | [TextureSlot](../com.aspose.threed/textureslot) | Texture slot in [Material](../com.aspose.threed/material), can be enumerated through material instance. |
 | [Torus](../com.aspose.threed/torus) | Parameterized torus. |
@@ -239,7 +243,10 @@ url: /java/com.aspose.threed/
 | [IRenderWindow](../com.aspose.threed/irenderwindow) | IRenderWindow represents the native window created by operating system that supports rendering. |
 | [ITexture1D](../com.aspose.threed/itexture1d) | 1D texture |
 | [ITexture2D](../com.aspose.threed/itexture2d) | 2D texture |
+| [ITextureCodec](../com.aspose.threed/itexturecodec) | Codec for textures |
 | [ITextureCubemap](../com.aspose.threed/itexturecubemap) | Cube map texture |
+| [ITextureDecoder](../com.aspose.threed/itexturedecoder) | External texture decoder should implement this interface for decoding. |
+| [ITextureEncoder](../com.aspose.threed/itextureencoder) | External texture encoder should implement this interface for encoding. |
 | [ITextureUnit](../com.aspose.threed/itextureunit) | [ITextureUnit](../com.aspose.threed/itextureunit) represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader, where the [Texture](../com.aspose.threed/texture) only represents a reference to an external file. |
 | [IVertexBuffer](../com.aspose.threed/ivertexbuffer) | The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline |
 | [MaterialConverter](../com.aspose.threed/materialconverter) | Custom converter to convert the geometry's original material to GLTF's PBR material. |
@@ -275,6 +282,7 @@ url: /java/com.aspose.threed/
 | [PdfLightingScheme](../com.aspose.threed/pdflightingscheme) | LightingScheme specifies the lighting to apply to 3D artwork. |
 | [PdfRenderMode](../com.aspose.threed/pdfrendermode) | Render mode specifies the style in which the 3D artwork is rendered. |
 | [PixelFormat](../com.aspose.threed/pixelformat) | The pixel's format used in texture unit. |
+| [PixelMapMode](../com.aspose.threed/pixelmapmode) |  |
 | [PolygonMode](../com.aspose.threed/polygonmode) | The polygon rasterization mode |
 | [PoseType](../com.aspose.threed/posetype) | Pose type. |
 | [PresetShaders](../com.aspose.threed/presetshaders) | This defines the preset internal shaders used by the renderer. |
@@ -282,10 +290,8 @@ url: /java/com.aspose.threed/
 | [ReferenceMode](../com.aspose.threed/referencemode) | [ReferenceMode](../com.aspose.threed/referencemode) defines how mapping information is stored and referenced by. |
 | [RenderQueueGroupId](../com.aspose.threed/renderqueuegroupid) | The group id of render queue |
 | [RenderStage](../com.aspose.threed/renderstage) | The render stage |
-| [RenderingAPI](../com.aspose.threed/renderingapi) | Commonly used rendering APIs |
 | [RotationMode](../com.aspose.threed/rotationmode) | The frustum's rotation mode |
 | [RotationOrder](../com.aspose.threed/rotationorder) | The order controls which rx ry rz are applied in the transformation matrix. |
-| [ShadingLanguage](../com.aspose.threed/shadinglanguage) | Commonly used shading languages |
 | [SkeletonType](../com.aspose.threed/skeletontype) | [Skeleton](../com.aspose.threed/skeleton)'s types. |
 | [SplitMeshPolicy](../com.aspose.threed/splitmeshpolicy) | Share vertex/control point data between sub-meshes or each sub-mesh has its own compacted data. |
 | [StencilAction](../com.aspose.threed/stencilaction) | The stencil test actions |

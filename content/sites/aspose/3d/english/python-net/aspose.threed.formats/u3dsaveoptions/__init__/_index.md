@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/u3dsaveoptions/__init__/
 is_root: false
 ---
 
-## U3dSaveOptions() {#}
+## __init__ {#}
 
 Constructor of [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions)
 

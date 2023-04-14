@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/torus/__init__/
 is_root: false
 ---
 
-## Torus() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Torus(radius, tube) {#float-float}
+## __init__ {#float-float}
 
 Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
@@ -40,7 +40,7 @@ def __init__(self, radius, tube):
 | tube | float | The radius of the torus' tube. |
 
 
-## Torus(radius, tube, arc) {#float-float-float}
+## __init__ {#float-float-float}
 
 Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 
@@ -59,7 +59,7 @@ def __init__(self, radius, tube, arc):
 | arc | float | Arc. |
 
 
-## Torus(name, radius, tube, radial_segments, tubular_segments, arc) {#str-float-float-int-int-float}
+## __init__ {#str-float-float-int-int-float}
 
 Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class.
 

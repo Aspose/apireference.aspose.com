@@ -3,7 +3,7 @@ title: PatchDirection
 second_title: Aspose.3D for Java API Reference
 description: Patchs U and V direction.
 type: docs
-weight: 107
+weight: 108
 url: /java/com.aspose.threed/patchdirection/
 ---
 

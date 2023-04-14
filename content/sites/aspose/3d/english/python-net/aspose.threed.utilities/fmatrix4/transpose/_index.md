@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/fmatrix4/transpose/
 is_root: false
 ---
 
-## transpose() {#}
+## transpose {#}
 
 Transposes this instance.
 

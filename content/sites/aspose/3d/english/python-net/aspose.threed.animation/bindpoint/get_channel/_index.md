@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/bindpoint/get_channel/
 is_root: false
 ---
 
-## get_channel(channel_name) {#str}
+## get_channel {#str}
 
 Gets channel by given name
 

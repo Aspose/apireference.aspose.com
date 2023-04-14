@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/read_double/
 is_root: false
 ---
 
-## read_double(idx, field) {#int-aspose.threed.utilities.VertexField}
+## read_double {#int-aspose.threed.utilities.VertexField}
 
 Read the double field
 

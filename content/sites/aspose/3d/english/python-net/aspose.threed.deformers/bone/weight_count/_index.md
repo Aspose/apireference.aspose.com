@@ -11,7 +11,7 @@ is_root: false
 ## weight_count property
 
 
-Gets the count of weight, this is automatically extended by [`Bone.set_weight(index, weight)`](/3d/python-net/aspose.threed.deformers/bone/set_weight)
+Gets the count of weight, this is automatically extended by [`Bone.set_weight`](/3d/python-net/aspose.threed.deformers/bone/set_weight)
 ### Definition:
 ```python
 @property

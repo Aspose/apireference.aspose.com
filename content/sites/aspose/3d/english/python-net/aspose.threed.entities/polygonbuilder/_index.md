@@ -19,15 +19,15 @@ The PolygonBuilder type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PolygonBuilder(mesh)](/3d/python-net/aspose.threed.entities/polygonbuilder/__init__/#Mesh) | Initializes a new instance of the [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/polygonbuilder/__init__/#aspose.threed.entities.Mesh) | Initializes a new instance of the [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) class. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [begin()](/3d/python-net/aspose.threed.entities/polygonbuilder/begin/#) | Begins to add a new polygon |
-| [add_vertex(index)](/3d/python-net/aspose.threed.entities/polygonbuilder/add_vertex/#int) | Adds a vertex index to the polygon |
-| [end()](/3d/python-net/aspose.threed.entities/polygonbuilder/end/#) | Finishes the polygon creation |
+| [begin](/3d/python-net/aspose.threed.entities/polygonbuilder/begin/#) | Begins to add a new polygon |
+| [add_vertex](/3d/python-net/aspose.threed.entities/polygonbuilder/add_vertex/#int) | Adds a vertex index to the polygon |
+| [end](/3d/python-net/aspose.threed.entities/polygonbuilder/end/#) | Finishes the polygon creation |
 
 
 
@@ -58,7 +58,7 @@ mesh.create_polygon(indices)
 
 ```
 
-If all indices are ready to use, [`Mesh.create_polygon(indices, offset, length)`](/3d/python-net/aspose.threed.entities/mesh/create_polygon) is preferred, otherwise [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) would be a better choice.
+If all indices are ready to use, [`Mesh.create_polygon`](/3d/python-net/aspose.threed.entities/mesh/create_polygon) is preferred, otherwise [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) would be a better choice.
 
 ### See Also
 * module [`aspose.threed.entities`](..)

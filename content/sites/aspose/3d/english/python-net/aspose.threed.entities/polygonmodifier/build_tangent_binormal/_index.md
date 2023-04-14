@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonmodifier/build_tangent_binormal/
 is_root: false
 ---
 
-## build_tangent_binormal(scene) {#Scene}
+## build_tangent_binormal {#aspose.threed.Scene}
 
 This will create tangent and binormal on all meshes of the scene
 Normal is required, if normal is not existing on the mesh, it will also create the normal data from position.
@@ -27,7 +27,7 @@ def build_tangent_binormal(self, scene):
 | scene | [`Scene`](/3d/python-net/aspose.threed/scene) |  |
 
 
-## build_tangent_binormal(mesh) {#Mesh}
+## build_tangent_binormal {#aspose.threed.entities.Mesh}
 
 This will create tangent and binormal on the mesh
 Normal is required, if normal is not existing on the mesh, it will also create the normal data from position.

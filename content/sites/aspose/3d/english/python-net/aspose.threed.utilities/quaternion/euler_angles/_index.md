@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/euler_angles/
 is_root: false
 ---
 
-## euler_angles() {#}
+## euler_angles {#}
 
 Converts quaternion to rotation represented by Euler angles
 All components are in radian

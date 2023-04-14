@@ -30,6 +30,7 @@ Save options for glTF format.
 | [getDracoCompression()](#getDracoCompression--) | Gets whether to enable draco compression |
 | [getEmbedAssets()](#getEmbedAssets--) | Embed all external assets as base64 into single file in ASCII mode, default value is false. |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getExternalDracoEncoder()](#getExternalDracoEncoder--) | Use external draco encoder to accelerate the draco compression speed. |
 | [getFallbackNormal()](#getFallbackNormal--) | When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
@@ -50,6 +51,7 @@ Save options for glTF format.
 | [setDracoCompression(boolean value)](#setDracoCompression-boolean-) | Sets whether to enable draco compression |
 | [setEmbedAssets(boolean value)](#setEmbedAssets-boolean-) | Embed all external assets as base64 into single file in ASCII mode, default value is false. |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setExternalDracoEncoder(String value)](#setExternalDracoEncoder-java.lang.String-) | Use external draco encoder to accelerate the draco compression speed. |
 | [setFallbackNormal(Vector3 value)](#setFallbackNormal-com.aspose.threed.Vector3-) | When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
@@ -157,6 +159,16 @@ Gets the default encoding for text-based files. Default value is null which mean
 
 **Returns:**
 java.nio.charset.Charset
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Returns:**
+boolean
 ### getExternalDracoEncoder() {#getExternalDracoEncoder--}
 ```
 public String getExternalDracoEncoder()
@@ -364,6 +376,19 @@ Sets the default encoding for text-based files. Default value is null which mean
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.nio.charset.Charset | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setExternalDracoEncoder(String value) {#setExternalDracoEncoder-java.lang.String-}
 ```

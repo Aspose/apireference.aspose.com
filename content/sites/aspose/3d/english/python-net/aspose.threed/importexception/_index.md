@@ -19,7 +19,7 @@ The ImportException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ImportException(msg)](/3d/python-net/aspose.threed/importexception/__init__/#str) | Initializes a new instance |
+| [__init__](/3d/python-net/aspose.threed/importexception/__init__/#str) | Initializes a new instance |
 
 
 

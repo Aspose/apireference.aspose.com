@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonbuilder/__init__/
 is_root: false
 ---
 
-## PolygonBuilder(mesh) {#Mesh}
+## __init__ {#aspose.threed.entities.Mesh}
 
 Initializes a new instance of the [`PolygonBuilder`](/3d/python-net/aspose.threed.entities/polygonbuilder) class.
 

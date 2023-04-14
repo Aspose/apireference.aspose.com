@@ -28,7 +28,7 @@ The TrapeziumShape type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [TrapeziumShape()](/3d/python-net/aspose.threed.profiles/trapeziumshape/__init__/#) | Constructor of [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape) |
+| [__init__](/3d/python-net/aspose.threed.profiles/trapeziumshape/__init__/#) | Constructor of [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape) |
 
 
 ### Properties
@@ -49,14 +49,14 @@ The TrapeziumShape type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.profiles/trapeziumshape/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.profiles/trapeziumshape/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.profiles/trapeziumshape/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.profiles/trapeziumshape/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.profiles/trapeziumshape/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box()](/3d/python-net/aspose.threed.profiles/trapeziumshape/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key()](/3d/python-net/aspose.threed.profiles/trapeziumshape/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [get_extent()](/3d/python-net/aspose.threed.profiles/trapeziumshape/get_extent/#) | Gets the extent in x and y dimension. |
+| [remove_property](/3d/python-net/aspose.threed.profiles/trapeziumshape/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.profiles/trapeziumshape/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.profiles/trapeziumshape/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.profiles/trapeziumshape/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.profiles/trapeziumshape/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get_bounding_box](/3d/python-net/aspose.threed.profiles/trapeziumshape/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [get_entity_renderer_key](/3d/python-net/aspose.threed.profiles/trapeziumshape/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [get_extent](/3d/python-net/aspose.threed.profiles/trapeziumshape/get_extent/#) | Gets the extent in x and y dimension. |
 
 
 

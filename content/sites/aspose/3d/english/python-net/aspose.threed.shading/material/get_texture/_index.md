@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/material/get_texture/
 is_root: false
 ---
 
-## get_texture(slot_name) {#str}
+## get_texture {#str}
 
 Gets the texture from the specified slot, it can be material's property name or shader's parameter name
 

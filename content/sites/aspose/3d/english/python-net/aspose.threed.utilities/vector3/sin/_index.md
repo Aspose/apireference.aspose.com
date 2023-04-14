@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector3/sin/
 is_root: false
 ---
 
-## sin() {#}
+## sin {#}
 
 Calculates sine on each component
 

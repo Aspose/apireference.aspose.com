@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/tshape/get_bounding_box/
 is_root: false
 ---
 
-## get_bounding_box() {#}
+## get_bounding_box {#}
 
 Gets the bounding box of current entity in its object space coordinate system.
 
@@ -30,7 +30,7 @@ The following code shows how to calculate the bounding box of a shape
 from aspose.threed.entities import Sphere
 
 sphere = Sphere()
-sphere.radius = 10 
+sphere.radius = 10 .0
 entity = sphere
 bbox = entity.get_bounding_box()
 print(f"The bounding box of the entity is {bbox.minimum} ~ {bbox.maximum}")

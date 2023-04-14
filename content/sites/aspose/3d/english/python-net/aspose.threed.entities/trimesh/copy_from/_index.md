@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/copy_from/
 is_root: false
 ---
 
-## copy_from(input, vd) {#TriMesh-aspose.threed.utilities.VertexDeclaration}
+## copy_from {#aspose.threed.entities.TriMesh-aspose.threed.utilities.VertexDeclaration}
 
 Copy the [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) from input with new vertex layout
 

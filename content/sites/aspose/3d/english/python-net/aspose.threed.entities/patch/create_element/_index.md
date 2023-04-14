@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/patch/create_element/
 is_root: false
 ---
 
-## create_element(type) {#VertexElementType}
+## create_element {#aspose.threed.entities.VertexElementType}
 
 Creates a vertex element with specified type and add it to the geometry.
 
@@ -32,7 +32,7 @@ def create_element(self, type):
 
 If type is [`VertexElementType.UV`](/3d/python-net/aspose.threed.entities/vertexelementtype#UV), a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) with texture mapping type to [`TextureMapping.DIFFUSE`](/3d/python-net/aspose.threed.entities/texturemapping#DIFFUSE) will be created.
 
-## create_element(type, mapping_mode, reference_mode) {#VertexElementType-MappingMode-ReferenceMode}
+## create_element {#aspose.threed.entities.VertexElementType-aspose.threed.entities.MappingMode-aspose.threed.entities.ReferenceMode}
 
 Creates a vertex element with specified type and add it to the geometry.
 

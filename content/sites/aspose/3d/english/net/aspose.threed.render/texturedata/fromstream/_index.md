@@ -3,7 +3,7 @@ title: FromStream
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.threed.render/texturedata/fromstream/
 ---
 ## TextureData.FromStream method

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/nurbscurve/evaluate_at/
 is_root: false
 ---
 
-## evaluate_at(u) {#float}
+## evaluate_at {#float}
 
 Evaluate the curve's point at specified position
 

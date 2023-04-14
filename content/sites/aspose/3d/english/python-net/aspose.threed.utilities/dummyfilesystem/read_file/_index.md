@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/dummyfilesystem/read_file/
 is_root: false
 ---
 
-## read_file(file_name, options) {#str-aspose.threed.formats.IOConfig}
+## read_file {#str-aspose.threed.formats.IOConfig}
 
 Create a stream for reading dependencies.
 

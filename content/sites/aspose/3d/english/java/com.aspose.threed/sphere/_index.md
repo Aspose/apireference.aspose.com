@@ -3,7 +3,7 @@ title: Sphere
 second_title: Aspose.3D for Java API Reference
 description: Parameterized sphere.
 type: docs
-weight: 159
+weight: 162
 url: /java/com.aspose.threed/sphere/
 ---
 

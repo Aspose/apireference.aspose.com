@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/hollowrectangleshape/__init__/
 is_root: false
 ---
 
-## HollowRectangleShape() {#}
+## __init__ {#}
 
 Constructor of [`RectangleShape`](/3d/python-net/aspose.threed.profiles/rectangleshape)
 

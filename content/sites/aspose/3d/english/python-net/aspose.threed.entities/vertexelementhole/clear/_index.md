@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementhole/clear/
 is_root: false
 ---
 
-## clear() {#}
+## clear {#}
 
 Clears all the data from this vertex element.
 

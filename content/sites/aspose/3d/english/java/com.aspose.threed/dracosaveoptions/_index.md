@@ -28,6 +28,7 @@ Save options for Google draco files
 | [getColorBits()](#getColorBits--) | Quantization bits for vertex color, default value is 10 |
 | [getCompressionLevel()](#getCompressionLevel--) | Compression level, default value is [DracoCompressionLevel.STANDARD](../../com.aspose.threed/dracocompressionlevel\#STANDARD) |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
 | [getFileName()](#getFileName--) | The file name of the exporting/importing scene. |
 | [getFileSystem()](#getFileSystem--) | Allow user to handle how to manage the external dependencies during load/save. |
@@ -43,6 +44,7 @@ Save options for Google draco files
 | [setColorBits(int value)](#setColorBits-int-) | Quantization bits for vertex color, default value is 10 |
 | [setCompressionLevel(DracoCompressionLevel value)](#setCompressionLevel-com.aspose.threed.DracoCompressionLevel-) | Compression level, default value is [DracoCompressionLevel.STANDARD](../../com.aspose.threed/dracocompressionlevel\#STANDARD) |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
 | [setFileSystem(FileSystem value)](#setFileSystem-com.aspose.threed.FileSystem-) | Allow user to handle how to manage the external dependencies during load/save. |
 | [setFileSystemFactory(FileSystemFactory value)](#setFileSystemFactory-com.aspose.threed.FileSystemFactory-) | Sets the factory class for FileSystem. |
@@ -118,6 +120,16 @@ Gets the default encoding for text-based files. Default value is null which mean
 
 **Returns:**
 java.nio.charset.Charset
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Returns:**
+boolean
 ### getFileFormat() {#getFileFormat--}
 ```
 public FileFormat getFileFormat()
@@ -272,6 +284,19 @@ Sets the default encoding for text-based files. Default value is null which mean
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.nio.charset.Charset | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setFileName(String value) {#setFileName-java.lang.String-}
 ```

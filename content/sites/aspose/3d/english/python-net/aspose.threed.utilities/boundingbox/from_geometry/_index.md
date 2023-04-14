@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/boundingbox/from_geometry/
 is_root: false
 ---
 
-## from_geometry(geometry) {#aspose.threed.entities.Geometry}
+## from_geometry {#aspose.threed.entities.Geometry}
 
 Construct a bounding box from given geometry
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/mesh/get_polygon_size/
 is_root: false
 ---
 
-## get_polygon_size(index) {#int}
+## get_polygon_size {#int}
 
 Gets the vertex count of the specified polygon.
 

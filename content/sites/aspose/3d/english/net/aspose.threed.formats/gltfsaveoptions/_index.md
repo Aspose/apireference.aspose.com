@@ -29,6 +29,7 @@ public class GltfSaveOptions : SaveOptions
 | [DracoCompression](../../aspose.threed.formats/gltfsaveoptions/dracocompression) { get; set; } | Gets or sets whether to enable draco compression |
 | [EmbedAssets](../../aspose.threed.formats/gltfsaveoptions/embedassets) { get; set; } | Embed all external assets as base64 into single file in ASCII mode, default value is false. |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
+| [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |
 | [ExternalDracoEncoder](../../aspose.threed.formats/gltfsaveoptions/externaldracoencoder) { get; set; } | Use external draco encoder to accelerate the draco compression speed. |
 | [FallbackNormal](../../aspose.threed.formats/gltfsaveoptions/fallbacknormal) { get; set; } | When GLTF2 exporter detected an invalid normal, this will be used instead of its original value to bypass the validation. Default value is (0, 1, 0) |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |

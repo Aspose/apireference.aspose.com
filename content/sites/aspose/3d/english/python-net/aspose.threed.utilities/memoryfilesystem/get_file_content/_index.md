@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/memoryfilesystem/get_file_content/
 is_root: false
 ---
 
-## get_file_content(file_name) {#str}
+## get_file_content {#str}
 
 Returns the raw content of the specified file.
 Throw FileNotFoundException if the specified file is not existing.

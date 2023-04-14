@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/ellipse/__init__/
 is_root: false
 ---
 
-## Ellipse() {#}
+## __init__ {#}
 
 Constructor of [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse)
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Ellipse(semi_axis1, semi_axis2) {#float-float}
+## __init__ {#float-float}
 
 Constructor of [`Ellipse`](/3d/python-net/aspose.threed.entities/ellipse)
 

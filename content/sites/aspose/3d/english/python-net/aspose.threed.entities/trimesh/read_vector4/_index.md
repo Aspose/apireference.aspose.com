@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/read_vector4/
 is_root: false
 ---
 
-## read_vector4(idx, field) {#int-aspose.threed.utilities.VertexField}
+## read_vector4 {#int-aspose.threed.utilities.VertexField}
 
 Read the vector4 field
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/to_angle_axis/
 is_root: false
 ---
 
-## to_angle_axis(angle, axis) {#any-any}
+## to_angle_axis {#any-any}
 
 
 

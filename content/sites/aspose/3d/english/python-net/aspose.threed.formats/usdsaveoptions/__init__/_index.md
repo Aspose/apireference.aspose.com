@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/usdsaveoptions/__init__/
 is_root: false
 ---
 
-## UsdSaveOptions() {#}
+## __init__ {#}
 
 Initialize a new [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions) with [`FileFormat.USD`](/3d/python-net/aspose.threed/fileformat) format
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## UsdSaveOptions(file_format) {#FileFormat}
+## __init__ {#aspose.threed.FileFormat}
 
 Initialize a new [`UsdSaveOptions`](/3d/python-net/aspose.threed.formats/usdsaveoptions) with specified USD/USDZ format.
 

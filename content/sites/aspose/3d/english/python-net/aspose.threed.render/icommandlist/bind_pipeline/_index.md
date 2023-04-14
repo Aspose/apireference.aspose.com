@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/icommandlist/bind_pipeline/
 is_root: false
 ---
 
-## bind_pipeline(pipeline) {#IPipeline}
+## bind_pipeline {#aspose.threed.render.IPipeline}
 
 Bind the pipeline instance for rendering
 

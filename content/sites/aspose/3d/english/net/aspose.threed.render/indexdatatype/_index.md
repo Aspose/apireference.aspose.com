@@ -3,7 +3,7 @@ title: IndexDataType
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 1970
+weight: 2000
 url: /net/aspose.threed.render/indexdatatype/
 ---
 ## IndexDataType enumeration

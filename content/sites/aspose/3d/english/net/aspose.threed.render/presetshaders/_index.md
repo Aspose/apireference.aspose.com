@@ -3,7 +3,7 @@ title: PresetShaders
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2020
+weight: 2070
 url: /net/aspose.threed.render/presetshaders/
 ---
 ## PresetShaders enumeration

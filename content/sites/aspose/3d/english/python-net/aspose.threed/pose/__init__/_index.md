@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/pose/__init__/
 is_root: false
 ---
 
-## Pose() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Pose`](/3d/python-net/aspose.threed/pose) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Pose(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`Pose`](/3d/python-net/aspose.threed/pose) class.
 

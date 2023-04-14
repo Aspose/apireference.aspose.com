@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/set_trs/
 is_root: false
 ---
 
-## set_trs(translation, rotation, scale) {#Vector3-Vector3-Vector3}
+## set_trs {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
 
 Initializes the matrix with translation/rotation/scale
 

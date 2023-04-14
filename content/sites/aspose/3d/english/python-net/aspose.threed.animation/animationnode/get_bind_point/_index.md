@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/animationnode/get_bind_point/
 is_root: false
 ---
 
-## get_bind_point(target, prop_name, create) {#A3DObject-str-bool}
+## get_bind_point {#aspose.threed.A3DObject-str-bool}
 
 Gets the animation bind point on given property.
 

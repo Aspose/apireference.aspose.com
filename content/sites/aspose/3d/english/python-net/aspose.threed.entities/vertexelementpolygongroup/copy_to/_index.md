@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementpolygongroup/copy_to/
 is_root: false
 ---
 
-## copy_to(target) {#VertexElementIntsTemplate}
+## copy_to {#aspose.threed.entities.VertexElementIntsTemplate}
 
 Copies data to specified element
 

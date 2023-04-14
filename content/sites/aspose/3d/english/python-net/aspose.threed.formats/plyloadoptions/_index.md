@@ -25,7 +25,7 @@ The PlyLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PlyLoadOptions()](/3d/python-net/aspose.threed.formats/plyloadoptions/__init__/#) | Constructor of [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/plyloadoptions/__init__/#) | Constructor of [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions) |
 
 
 ### Properties

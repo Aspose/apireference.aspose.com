@@ -25,7 +25,7 @@ The ObjLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [ObjLoadOptions()](/3d/python-net/aspose.threed.formats/objloadoptions/__init__/#) | Constructor of [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/objloadoptions/__init__/#) | Constructor of [`ObjLoadOptions`](/3d/python-net/aspose.threed.formats/objloadoptions) |
 
 
 ### Properties

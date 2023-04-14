@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/shadermaterial/__init__/
 is_root: false
 ---
 
-## ShaderMaterial() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`ShaderMaterial`](/3d/python-net/aspose.threed.shading/shadermaterial) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## ShaderMaterial(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`ShaderMaterial`](/3d/python-net/aspose.threed.shading/shadermaterial) class.
 

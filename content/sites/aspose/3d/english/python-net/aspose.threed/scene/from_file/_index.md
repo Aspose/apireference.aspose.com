@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/from_file/
 is_root: false
 ---
 
-## from_file(file_name) {#str}
+## from_file {#str}
 
 Opens the scene from given path
 

@@ -13,6 +13,11 @@ is_root: false
 
 Gets or sets the transform matrix.
 
+### Remarks 
+
+
+Assign on this will reset the [`Transform.translation`](/3d/python-net/aspose.threed/transform#translation), [`Transform.scale`](/3d/python-net/aspose.threed/transform#scale) and [`Transform.rotation`](/3d/python-net/aspose.threed/transform#rotation), the [`Transform.geometric_rotation`](/3d/python-net/aspose.threed/transform#geometric_rotation), [`Transform.geometric_scaling`](/3d/python-net/aspose.threed/transform#geometric_scaling) and [`Transform.geometric_translation`](/3d/python-net/aspose.threed/transform#geometric_translation) will not be affected.
+
 ### Example 
 
 

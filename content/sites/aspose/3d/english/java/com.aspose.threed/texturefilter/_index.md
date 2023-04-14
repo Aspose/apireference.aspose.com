@@ -3,7 +3,7 @@ title: TextureFilter
 second_title: Aspose.3D for Java API Reference
 description: Filter options during texture sampling.
 type: docs
-weight: 277
+weight: 283
 url: /java/com.aspose.threed/texturefilter/
 ---
 

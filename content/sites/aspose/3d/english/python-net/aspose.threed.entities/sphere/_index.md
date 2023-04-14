@@ -27,10 +27,10 @@ The Sphere type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Sphere()](/3d/python-net/aspose.threed.entities/sphere/__init__/#) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) with default radius 1. |
-| [Sphere(radius)](/3d/python-net/aspose.threed.entities/sphere/__init__/#float) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius. |
-| [Sphere(radius, width_segments, height_segments)](/3d/python-net/aspose.threed.entities/sphere/__init__/#float-int-int) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius, width segments and height segments. |
-| [Sphere(name, radius, width_segments, height_segments, phi_start, phi_length, theta_start, theta_length)](/3d/python-net/aspose.threed.entities/sphere/__init__/#str-float-int-int-float-float-float-float) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/sphere/__init__/#) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) with default radius 1. |
+| [__init__](/3d/python-net/aspose.threed.entities/sphere/__init__/#float) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius. |
+| [__init__](/3d/python-net/aspose.threed.entities/sphere/__init__/#float-int-int) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class with specified radius, width segments and height segments. |
+| [__init__](/3d/python-net/aspose.threed.entities/sphere/__init__/#str-float-int-int-float-float-float-float) | Initializes a new instance of the [`Sphere`](/3d/python-net/aspose.threed.entities/sphere) class. |
 
 
 ### Properties
@@ -56,14 +56,14 @@ The Sphere type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/sphere/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/sphere/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.entities/sphere/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.entities/sphere/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/sphere/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box()](/3d/python-net/aspose.threed.entities/sphere/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/sphere/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [to_mesh()](/3d/python-net/aspose.threed.entities/sphere/to_mesh/#) | Convert current object to mesh |
+| [remove_property](/3d/python-net/aspose.threed.entities/sphere/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.entities/sphere/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.entities/sphere/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.entities/sphere/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.entities/sphere/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get_bounding_box](/3d/python-net/aspose.threed.entities/sphere/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/sphere/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [to_mesh](/3d/python-net/aspose.threed.entities/sphere/to_mesh/#) | Convert current object to mesh |
 
 
 

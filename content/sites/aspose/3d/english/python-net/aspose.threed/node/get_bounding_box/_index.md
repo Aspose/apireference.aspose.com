@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/get_bounding_box/
 is_root: false
 ---
 
-## get_bounding_box() {#}
+## get_bounding_box {#}
 
 Calculate the bounding box of the node
 

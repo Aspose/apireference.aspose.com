@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/merge/
 is_root: false
 ---
 
-## merge(node) {#Node}
+## merge {#aspose.threed.Node}
 
 Detach everything under the node and attach them to current node.
 

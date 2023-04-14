@@ -8,9 +8,9 @@ url: /python-net/aspose.threed.render/itexturecubemap/to_bitmap/
 is_root: false
 ---
 
-## to_bitmap(side) {#CubeFace}
+## to_bitmap {#aspose.threed.render.CubeFace}
 
-Convert the texture unit to Bitmap instance
+Convert the texture unit to [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) instance
 
 
 
@@ -29,3 +29,4 @@ def to_bitmap(self, side):
 ### See Also
 * module [`aspose.threed.render`](../../)
 * class [`ITextureCubemap`](/3d/python-net/aspose.threed.render/itexturecubemap)
+* class [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)

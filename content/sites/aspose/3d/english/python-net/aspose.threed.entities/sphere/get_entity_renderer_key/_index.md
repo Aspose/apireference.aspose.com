@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/sphere/get_entity_renderer_key/
 is_root: false
 ---
 
-## get_entity_renderer_key() {#}
+## get_entity_renderer_key {#}
 
 Gets the key of the entity renderer registered in the renderer
 

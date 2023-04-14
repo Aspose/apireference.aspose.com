@@ -3,7 +3,7 @@ title: PdfLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: Options for PDF loading
 type: docs
-weight: 111
+weight: 112
 url: /java/com.aspose.threed/pdfloadoptions/
 ---
 

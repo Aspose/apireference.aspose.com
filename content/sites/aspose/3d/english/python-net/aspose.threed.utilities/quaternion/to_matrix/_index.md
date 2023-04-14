@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/to_matrix/
 is_root: false
 ---
 
-## to_matrix() {#}
+## to_matrix {#}
 
 Convert the rotation presented by quaternion to transform matrix.
 

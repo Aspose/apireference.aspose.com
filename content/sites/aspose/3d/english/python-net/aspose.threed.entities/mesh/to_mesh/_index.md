@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/mesh/to_mesh/
 is_root: false
 ---
 
-## to_mesh() {#}
+## to_mesh {#}
 
 Gets the Mesh instance from current entity.
 

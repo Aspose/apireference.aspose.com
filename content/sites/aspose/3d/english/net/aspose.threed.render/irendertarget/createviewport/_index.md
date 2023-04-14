@@ -11,19 +11,20 @@ url: /net/aspose.threed.render/irendertarget/createviewport/
 Create a viewport with specified background color and position/size in specified camera perspective.
 
 ```csharp
-public Viewport CreateViewport(Camera camera, Color backgroundColor, RelativeRectangle rect)
+public Viewport CreateViewport(Camera camera, Vector3 backgroundColor, RelativeRectangle rect)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | camera | Camera | The camera |
-| backgroundColor | Color | The background of the viewport |
+| backgroundColor | Vector3 | The background of the viewport |
 | rect | RelativeRectangle | Position and size of the viewport |
 
 ### See Also
 
 * class [Viewport](../../viewport)
 * class [Camera](../../../aspose.threed.entities/camera)
+* struct [Vector3](../../../aspose.threed.utilities/vector3)
 * struct [RelativeRectangle](../../../aspose.threed.utilities/relativerectangle)
 * interface [IRenderTarget](../../irendertarget)
 * namespace [Aspose.ThreeD.Render](../../irendertarget)

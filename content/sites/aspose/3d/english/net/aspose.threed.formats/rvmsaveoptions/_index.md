@@ -31,6 +31,7 @@ public class RvmSaveOptions : SaveOptions
 | [CreationTime](../../aspose.threed.formats/rvmsaveoptions/creationtime) { get; set; } | The timestamp that exported this file, default value is current time |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
 | [ExportAttributes](../../aspose.threed.formats/rvmsaveoptions/exportattributes) { get; set; } | Gets or sets whether to export the attribute list to an external .att file, default value is false. |
+| [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |
 | [FileName](../../aspose.threed.formats/ioconfig/filename) { get; set; } | The file name of the exporting/importing scene. This is optional, but useful when serialize external assets like OBJ's material. |
 | [FileNote](../../aspose.threed.formats/rvmsaveoptions/filenote) { get; set; } | File note in the file header. |

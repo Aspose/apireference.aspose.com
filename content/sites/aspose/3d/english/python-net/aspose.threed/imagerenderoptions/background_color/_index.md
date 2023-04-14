@@ -25,3 +25,4 @@ def background_color(self, value):
 ### See Also
 * module [`aspose.threed`](../../)
 * class [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions)
+* class [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3)

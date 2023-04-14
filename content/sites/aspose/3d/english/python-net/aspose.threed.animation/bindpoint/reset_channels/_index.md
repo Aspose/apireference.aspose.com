@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/bindpoint/reset_channels/
 is_root: false
 ---
 
-## reset_channels() {#}
+## reset_channels {#}
 
 Empties the property channels of this animation curve mapping.
 

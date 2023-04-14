@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/phongmaterial/__init__/
 is_root: false
 ---
 
-## PhongMaterial() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## PhongMaterial(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`PhongMaterial`](/3d/python-net/aspose.threed.shading/phongmaterial) class.
 

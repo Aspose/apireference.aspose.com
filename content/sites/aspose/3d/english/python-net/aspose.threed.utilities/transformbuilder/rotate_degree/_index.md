@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/transformbuilder/rotate_degree/
 is_root: false
 ---
 
-## rotate_degree(angle, axis) {#float-Vector3}
+## rotate_degree {#float-aspose.threed.utilities.Vector3}
 
 Chain a rotation transform in degree
 
@@ -38,7 +38,7 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 
-## rotate_degree(rot, order) {#Vector3-RotationOrder}
+## rotate_degree {#aspose.threed.utilities.Vector3-aspose.threed.utilities.RotationOrder}
 
 Append rotation with specified order
 

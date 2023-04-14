@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/propertycollection/find_property/
 is_root: false
 ---
 
-## find_property(property) {#str}
+## find_property {#str}
 
 Finds the property.
 It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 

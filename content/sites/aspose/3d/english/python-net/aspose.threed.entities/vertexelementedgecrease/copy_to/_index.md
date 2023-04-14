@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementedgecrease/copy_to/
 is_root: false
 ---
 
-## copy_to(target) {#VertexElementDoublesTemplate}
+## copy_to {#aspose.threed.entities.VertexElementDoublesTemplate}
 
 Copies data to specified element
 

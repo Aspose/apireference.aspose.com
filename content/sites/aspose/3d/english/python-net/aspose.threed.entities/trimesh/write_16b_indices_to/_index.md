@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/write_16b_indices_to/
 is_root: false
 ---
 
-## write_16b_indices_to(stream) {#io.RawIOBase}
+## write_16b_indices_to {#io.RawIOBase}
 
 Write the indices data as 16bit integer to the stream
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/metered/get_consumption_quantity/
 is_root: false
 ---
 
-## get_consumption_quantity() {#}
+## get_consumption_quantity {#}
 
 Gets consumption file size
 

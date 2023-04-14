@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/pdfsaveoptions/__init__/
 is_root: false
 ---
 
-## PdfSaveOptions() {#}
+## __init__ {#}
 
 Constructor of [`PdfSaveOptions`](/3d/python-net/aspose.threed.formats/pdfsaveoptions)
 

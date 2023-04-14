@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/dummyfilesystem/__init__/
 is_root: false
 ---
 
-## DummyFileSystem() {#}
+## __init__ {#}
 
 Constructs a new instance of DummyFileSystem
 

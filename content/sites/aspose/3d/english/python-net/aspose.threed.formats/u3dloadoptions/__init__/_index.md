@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/u3dloadoptions/__init__/
 is_root: false
 ---
 
-## U3dLoadOptions() {#}
+## __init__ {#}
 
 Constructor of [`U3dLoadOptions`](/3d/python-net/aspose.threed.formats/u3dloadoptions)
 

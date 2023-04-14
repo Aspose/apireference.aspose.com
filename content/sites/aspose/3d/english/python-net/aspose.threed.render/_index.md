@@ -29,10 +29,14 @@ All rendering related classes are defined in this namespace
 | [`IRenderWindow`](/3d/python-net/aspose.threed.render/irenderwindow) | IRenderWindow represents the native window created by operating system that supports rendering. |
 | [`ITexture1D`](/3d/python-net/aspose.threed.render/itexture1d) | 1D texture |
 | [`ITexture2D`](/3d/python-net/aspose.threed.render/itexture2d) | 2D texture |
+| [`ITextureCodec`](/3d/python-net/aspose.threed.render/itexturecodec) | Codec for textures |
 | [`ITextureCubemap`](/3d/python-net/aspose.threed.render/itexturecubemap) | Cube map texture |
+| [`ITextureDecoder`](/3d/python-net/aspose.threed.render/itexturedecoder) | External texture decoder should implement this interface for decoding. |
+| [`ITextureEncoder`](/3d/python-net/aspose.threed.render/itextureencoder) | External texture encoder should implement this interface for encoding. |
 | [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit) | [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit) represents a texture in the memory that shared between GPU and CPU and can be sampled by the shader,<br/>where the [`Texture`](/3d/python-net/aspose.threed.shading/texture) only represents a reference to an external file.<br/>More details can be found https://en.wikipedia.org/wiki/Texture_mapping_unit |
 | [`IVertexBuffer`](/3d/python-net/aspose.threed.render/ivertexbuffer) | The vertex buffer holds the polygon vertex data that will be sent to rendering pipeline |
 | [`InitializationException`](/3d/python-net/aspose.threed.render/initializationexception) | Exceptions in render pipeline initialization |
+| [`PixelMapping`](/3d/python-net/aspose.threed.render/pixelmapping) |  |
 | [`PostProcessing`](/3d/python-net/aspose.threed.render/postprocessing) | The post-processing effects |
 | [`PushConstant`](/3d/python-net/aspose.threed.render/pushconstant) | A utility to provide data to shader through push constant. |
 | [`RenderFactory`](/3d/python-net/aspose.threed.render/renderfactory) | RenderFactory creates all resources that represented in rendering pipeline. |
@@ -48,6 +52,7 @@ All rendering related classes are defined in this namespace
 | [`ShaderSource`](/3d/python-net/aspose.threed.render/shadersource) | The source code of shader |
 | [`ShaderVariable`](/3d/python-net/aspose.threed.render/shadervariable) | Shader variable |
 | [`StencilState`](/3d/python-net/aspose.threed.render/stencilstate) | Stencil states per face. |
+| [`TextureCodec`](/3d/python-net/aspose.threed.render/texturecodec) | Class to manage encoders and decoders for textures. |
 | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) | This class contains the raw data and format definition of a texture. |
 | [`Viewport`](/3d/python-net/aspose.threed.render/viewport) | A [`IRenderTarget`](/3d/python-net/aspose.threed.render/irendertarget) contains at least one viewport for rendering the scene. |
 | [`WindowHandle`](/3d/python-net/aspose.threed.render/windowhandle) | Encapsulated window handle for different platforms. |
@@ -65,6 +70,7 @@ All rendering related classes are defined in this namespace
 | [`FrontFace`](/3d/python-net/aspose.threed.render/frontface) | Define front- and back-facing polygons |
 | [`IndexDataType`](/3d/python-net/aspose.threed.render/indexdatatype) | The data type of the elements in [`IIndexBuffer`](/3d/python-net/aspose.threed.render/iindexbuffer) |
 | [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) | The pixel's format used in texture unit. |
+| [`PixelMapMode`](/3d/python-net/aspose.threed.render/pixelmapmode) |  |
 | [`PolygonMode`](/3d/python-net/aspose.threed.render/polygonmode) | The polygon rasterization mode |
 | [`PresetShaders`](/3d/python-net/aspose.threed.render/presetshaders) | This defines the preset internal shaders used by the renderer. |
 | [`RenderQueueGroupId`](/3d/python-net/aspose.threed.render/renderqueuegroupid) | The group id of render queue |

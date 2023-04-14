@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementdoublestemplate/clear/
 is_root: false
 ---
 
-## clear() {#}
+## clear {#}
 
 Removes all elements from the direct and the index arrays.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/hshape/__init__/
 is_root: false
 ---
 
-## HShape() {#}
+## __init__ {#}
 
 Constructor of [`HShape`](/3d/python-net/aspose.threed.profiles/hshape)
 

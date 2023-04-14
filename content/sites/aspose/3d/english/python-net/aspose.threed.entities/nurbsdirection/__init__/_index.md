@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/nurbsdirection/__init__/
 is_root: false
 ---
 
-## NurbsDirection() {#}
+## __init__ {#}
 
 Constructs a new instance of NurbsDirection
 

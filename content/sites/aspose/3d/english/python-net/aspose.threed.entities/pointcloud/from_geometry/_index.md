@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/pointcloud/from_geometry/
 is_root: false
 ---
 
-## from_geometry(g) {#Geometry}
+## from_geometry {#aspose.threed.entities.Geometry}
 
 Create a new PointCloud instance from a geometry object
 
@@ -30,7 +30,7 @@ def from_geometry(self, g):
 | g | [`Geometry`](/3d/python-net/aspose.threed.entities/geometry) |  |
 
 
-## from_geometry(g, density) {#Geometry-int}
+## from_geometry {#aspose.threed.entities.Geometry-int}
 
 Create a new point cloud instance from a geometry object.
 Density is the number of points per unit triangle(Unit triangle are the triangle with maximum surface area from the mesh)

@@ -3,7 +3,7 @@ title: RvmSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for Aveva PDMS RVM file.
 type: docs
-weight: 143
+weight: 146
 url: /java/com.aspose.threed/rvmsaveoptions/
 ---
 
@@ -32,6 +32,7 @@ Save options for Aveva PDMS RVM file.
 | [getCreationTime()](#getCreationTime--) | The timestamp that exported this file, default value is current time |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
 | [getExportAttributes()](#getExportAttributes--) | Gets whether to export the attribute list to an external .att file, default value is false. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
 | [getFileName()](#getFileName--) | The file name of the exporting/importing scene. |
 | [getFileNote()](#getFileNote--) | File note in the file header. |
@@ -47,6 +48,7 @@ Save options for Aveva PDMS RVM file.
 | [setCreationTime(String value)](#setCreationTime-java.lang.String-) | The timestamp that exported this file, default value is current time |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
 | [setExportAttributes(boolean value)](#setExportAttributes-boolean-) | Sets whether to export the attribute list to an external .att file, default value is false. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
 | [setFileNote(String value)](#setFileNote-java.lang.String-) | File note in the file header. |
 | [setFileSystem(FileSystem value)](#setFileSystem-com.aspose.threed.FileSystem-) | Allow user to handle how to manage the external dependencies during load/save. |
@@ -159,6 +161,16 @@ public boolean getExportAttributes()
 
 
 Gets whether to export the attribute list to an external .att file, default value is false.
+
+**Returns:**
+boolean
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
 
 **Returns:**
 boolean
@@ -320,6 +332,19 @@ public void setExportAttributes(boolean value)
 
 
 Sets whether to export the attribute list to an external .att file, default value is false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
 
 **Parameters:**
 | Parameter | Type | Description |

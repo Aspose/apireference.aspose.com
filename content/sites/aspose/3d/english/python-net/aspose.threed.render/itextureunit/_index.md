@@ -3,7 +3,7 @@ title: ITextureUnit class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 210
 url: /python-net/aspose.threed.render/itextureunit/
 is_root: false
 ---

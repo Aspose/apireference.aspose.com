@@ -3,7 +3,7 @@ title: AlphaSource
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2270
+weight: 2330
 url: /net/aspose.threed.shading/alphasource/
 ---
 ## AlphaSource enumeration

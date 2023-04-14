@@ -25,7 +25,7 @@ The IBuffer type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [load_data(data)](/3d/python-net/aspose.threed.render/ibuffer/load_data/#bytes) | Load the data into current buffer |
+| [load_data](/3d/python-net/aspose.threed.render/ibuffer/load_data/#bytes) | Load the data into current buffer |
 
 
 

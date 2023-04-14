@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/assetinfo/__init__/
 is_root: false
 ---
 
-## AssetInfo() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## AssetInfo(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`AssetInfo`](/3d/python-net/aspose.threed/assetinfo) class.
 

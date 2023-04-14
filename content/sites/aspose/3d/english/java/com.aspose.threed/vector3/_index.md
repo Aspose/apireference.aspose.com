@@ -3,7 +3,7 @@ title: Vector3
 second_title: Aspose.3D for Java API Reference
 description: A vector with three components.
 type: docs
-weight: 182
+weight: 186
 url: /java/com.aspose.threed/vector3/
 ---
 
@@ -23,7 +23,6 @@ A vector with three components.
 | --- | --- |
 | [Vector3(double x, double y, double z)](#Vector3-double-double-double-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
 | [Vector3(FVector3 vec)](#Vector3-com.aspose.threed.FVector3-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
-| [Vector3(Color color)](#Vector3-java.awt.Color-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
 | [Vector3(double v)](#Vector3-double-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
 | [Vector3(Vector4 vec4)](#Vector3-com.aspose.threed.Vector4-) | Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct. |
 | [Vector3()](#Vector3--) |  |
@@ -102,19 +101,6 @@ Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) str
 | Parameter | Type | Description |
 | --- | --- | --- |
 | vec | [FVector3](../../com.aspose.threed/fvector3) | The x coordinate. |
-
-### Vector3(Color color) {#Vector3-java.awt.Color-}
-```
-public Vector3(Color color)
-```
-
-
-Initializes a new instance of the [Vector3](../../com.aspose.threed/vector3) struct.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | java.awt.Color | Color. |
 
 ### Vector3(double v) {#Vector3-double-}
 ```

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/__init__/
 is_root: false
 ---
 
-## Node() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Node(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 
@@ -39,7 +39,7 @@ def __init__(self, name):
 | name | str | Name. |
 
 
-## Node(name, entity) {#str-Entity}
+## __init__ {#str-aspose.threed.Entity}
 
 Initializes a new instance of the [`Node`](/3d/python-net/aspose.threed/node) class.
 

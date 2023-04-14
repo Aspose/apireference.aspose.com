@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementuv/add_data/
 is_root: false
 ---
 
-## add_data(data) {#list}
+## add_data {#list}
 
 
 
@@ -25,7 +25,7 @@ def add_data(self, data):
 | data | list |  |
 
 
-## add_data(data) {#list}
+## add_data {#list}
 
 
 

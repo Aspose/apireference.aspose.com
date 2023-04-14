@@ -27,15 +27,16 @@ public Mesh()
 Construct a mesh using specified height map, if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z) The control point's x and y components are normalized pixel coordinate.
 
 ```csharp
-public Mesh(Bitmap heightMap)
+public Mesh(TextureData heightMap)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| heightMap | Bitmap | Input height map |
+| heightMap | TextureData | Input height map |
 
 ### See Also
 
+* class [TextureData](../../../aspose.threed.render/texturedata)
 * class [Mesh](../../mesh)
 * namespace [Aspose.ThreeD.Entities](../../mesh)
 * assembly [Aspose.3D](../../../)
@@ -47,16 +48,17 @@ public Mesh(Bitmap heightMap)
 Construct a mesh using specified height map, if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z) The control point's x and y components are normalized pixel coordinate.
 
 ```csharp
-public Mesh(Bitmap heightMap, Matrix4 transform)
+public Mesh(TextureData heightMap, Matrix4 transform)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| heightMap | Bitmap | Input height map |
+| heightMap | TextureData | Input height map |
 | transform | Matrix4 | The transform that applied on the control points |
 
 ### See Also
 
+* class [TextureData](../../../aspose.threed.render/texturedata)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4)
 * class [Mesh](../../mesh)
 * namespace [Aspose.ThreeD.Entities](../../mesh)
@@ -69,17 +71,18 @@ public Mesh(Bitmap heightMap, Matrix4 transform)
 Construct a mesh using specified height map, if the height map's pixel format contains multiple components, the first(usually the red) component will be used as the height value(z) The control point's x and y components are normalized pixel coordinate.
 
 ```csharp
-public Mesh(Bitmap heightMap, bool triMesh, Matrix4 transform)
+public Mesh(TextureData heightMap, bool triMesh, Matrix4 transform)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| heightMap | Bitmap | Input height map |
+| heightMap | TextureData | Input height map |
 | triMesh | Boolean |  |
 | transform | Matrix4 | The transform that applied on the control points |
 
 ### See Also
 
+* class [TextureData](../../../aspose.threed.render/texturedata)
 * struct [Matrix4](../../../aspose.threed.utilities/matrix4)
 * class [Mesh](../../mesh)
 * namespace [Aspose.ThreeD.Entities](../../mesh)

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/compositecurve/set_property/
 is_root: false
 ---
 
-## set_property(property, value) {#str-any}
+## set_property {#str-any}
 
 Sets the value of specified property
 

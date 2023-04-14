@@ -3,7 +3,7 @@ title: IVertexBuffer class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 190
+weight: 220
 url: /python-net/aspose.threed.render/ivertexbuffer/
 is_root: false
 ---
@@ -26,9 +26,9 @@ The IVertexBuffer type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [load_data(mesh)](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#aspose.threed.entities.TriMesh) | Load vertex data from [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) |
-| [load_data(array)](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#Array) |  |
-| [load_data(data)](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#bytes) | Load the data into current buffer |
+| [load_data](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#aspose.threed.entities.TriMesh) | Load vertex data from [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh) |
+| [load_data](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#Array) |  |
+| [load_data](/3d/python-net/aspose.threed.render/ivertexbuffer/load_data/#bytes) | Load the data into current buffer |
 
 
 

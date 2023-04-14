@@ -3,7 +3,7 @@ title: BoundingBox
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2420
+weight: 2480
 url: /net/aspose.threed.utilities/boundingbox/
 ---
 ## BoundingBox structure

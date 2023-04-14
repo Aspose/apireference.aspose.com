@@ -28,6 +28,7 @@ All utility classes are defined in this namespace.
 | [`MemoryFileSystem`](/3d/python-net/aspose.threed.utilities/memoryfilesystem) | The [`MemoryFileSystem`](/3d/python-net/aspose.threed.utilities/memoryfilesystem) will maps the read/write operations to memory. |
 | [`ParseException`](/3d/python-net/aspose.threed.utilities/parseexception) | Exception when Aspose.3D failed to parse the input. |
 | [`Quaternion`](/3d/python-net/aspose.threed.utilities/quaternion) | Quaternion is usually used to perform rotation in computer graphics. |
+| [`Rect`](/3d/python-net/aspose.threed.utilities/rect) | A class to represent the rectangle |
 | [`RelativeRectangle`](/3d/python-net/aspose.threed.utilities/relativerectangle) | Relative rectangle<br/>The formula between relative component to absolute value is:<br/>Scale * (Reference Width) + offset<br/>So if we want it to represent an absolute value, leave all scale fields zero, and use offset fields instead. |
 | [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute) | Allow user to use their own structure for static declaration of [`VertexDeclaration`](/3d/python-net/aspose.threed.utilities/vertexdeclaration) |
 | [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder) | The [`TransformBuilder`](/3d/python-net/aspose.threed.utilities/transformbuilder) is used to build transform matrix by a chain of transformations. |

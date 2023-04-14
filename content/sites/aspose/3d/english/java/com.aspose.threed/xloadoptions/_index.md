@@ -3,7 +3,7 @@ title: XLoadOptions
 second_title: Aspose.3D for Java API Reference
 description: The Load options for DirectX X files.
 type: docs
-weight: 212
+weight: 216
 url: /java/com.aspose.threed/xloadoptions/
 ---
 

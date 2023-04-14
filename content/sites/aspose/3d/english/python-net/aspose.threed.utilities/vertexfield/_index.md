@@ -3,7 +3,7 @@ title: VertexField class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /python-net/aspose.threed.utilities/vertexfield/
 is_root: false
 ---
@@ -30,7 +30,7 @@ The VertexField type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [compare_to(other)](/3d/python-net/aspose.threed.utilities/vertexfield/compare_to/#VertexField) | Compares this instance to a specified object and returns an indication of their relative values. |
+| [compare_to](/3d/python-net/aspose.threed.utilities/vertexfield/compare_to/#aspose.threed.utilities.VertexField) | Compares this instance to a specified object and returns an indication of their relative values. |
 
 
 

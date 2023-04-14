@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/read_float/
 is_root: false
 ---
 
-## read_float(idx, field) {#int-aspose.threed.utilities.VertexField}
+## read_float {#int-aspose.threed.utilities.VertexField}
 
 Read the float field
 

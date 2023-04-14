@@ -3,7 +3,7 @@ title: NurbsSurface
 second_title: Aspose.3D for Java API Reference
 description: is a surface represented by NURBSNon-uniform rational basis spline A  is defined by two   and .
 type: docs
-weight: 101
+weight: 102
 url: /java/com.aspose.threed/nurbssurface/
 ---
 

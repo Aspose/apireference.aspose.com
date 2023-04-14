@@ -3,43 +3,27 @@ title: ToAbsolute
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.threed.utilities/relativerectangle/toabsolute/
 ---
-## RelativeRectangle.ToAbsolute method (1 of 2)
+## RelativeRectangle.ToAbsolute method
 
 Convert the relative rectangle to absolute rectangle
 
 ```csharp
-public Rectangle ToAbsolute(Size rect)
+public Rect ToAbsolute(int left, int top, int width, int height)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | Size |  |
+| left | Int32 | Left of the rectangle |
+| top | Int32 | Top of the rectangle |
+| width | Int32 | Width of the rectangle |
+| height | Int32 | Height of the rectangle |
 
 ### See Also
 
-* struct [RelativeRectangle](../../relativerectangle)
-* namespace [Aspose.ThreeD.Utilities](../../relativerectangle)
-* assembly [Aspose.3D](../../../)
-
----
-
-## RelativeRectangle.ToAbsolute method (2 of 2)
-
-Convert the relative rectangle to absolute rectangle
-
-```csharp
-public Rectangle ToAbsolute(Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | Rectangle |  |
-
-### See Also
-
+* struct [Rect](../../rect)
 * struct [RelativeRectangle](../../relativerectangle)
 * namespace [Aspose.ThreeD.Utilities](../../relativerectangle)
 * assembly [Aspose.3D](../../../)

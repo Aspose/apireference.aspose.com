@@ -3,7 +3,7 @@ title: Scene
 second_title: Aspose.3D for Java API Reference
 description: A scene is a top-level object that contains the nodes geometries materials textures animation poses sub-scenes and etc.
 type: docs
-weight: 146
+weight: 149
 url: /java/com.aspose.threed/scene/
 ---
 
@@ -77,11 +77,11 @@ A scene is a top-level object that contains the nodes, geometries, materials, te
 | [open(String fileName, LoadOptions options, Cancellation cancellationToken)](#open-java.lang.String-com.aspose.threed.LoadOptions-com.aspose.threed.Cancellation-) | Opens the scene from given path using specified file format. |
 | [removeProperty(Property property)](#removeProperty-com.aspose.threed.Property-) | Removes a dynamic property. |
 | [removeProperty(String property)](#removeProperty-java.lang.String-) | Remove the specified property identified by name |
-| [render(Camera camera, BufferedImage bitmap)](#render-com.aspose.threed.Camera-java.awt.image.BufferedImage-) | Render the scene into bitmap from given camera's perspective. |
-| [render(Camera camera, BufferedImage bitmap, ImageRenderOptions options)](#render-com.aspose.threed.Camera-java.awt.image.BufferedImage-com.aspose.threed.ImageRenderOptions-) | Render the scene into bitmap from given camera's perspective. |
+| [render(Camera camera, TextureData bitmap)](#render-com.aspose.threed.Camera-com.aspose.threed.TextureData-) | Render the scene into bitmap from given camera's perspective. |
+| [render(Camera camera, TextureData bitmap, ImageRenderOptions options)](#render-com.aspose.threed.Camera-com.aspose.threed.TextureData-com.aspose.threed.ImageRenderOptions-) | Render the scene into bitmap from given camera's perspective. |
 | [render(Camera camera, String fileName)](#render-com.aspose.threed.Camera-java.lang.String-) | Render the scene into external file from given camera's perspective. |
-| [render(Camera camera, String fileName, Dimension size, String format)](#render-com.aspose.threed.Camera-java.lang.String-java.awt.Dimension-java.lang.String-) | Render the scene into external file from given camera's perspective. |
-| [render(Camera camera, String fileName, Dimension size, String format, ImageRenderOptions options)](#render-com.aspose.threed.Camera-java.lang.String-java.awt.Dimension-java.lang.String-com.aspose.threed.ImageRenderOptions-) | Render the scene into external file from given camera's perspective. |
+| [render(Camera camera, String fileName, Vector2 size, String format)](#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-) | Render the scene into external file from given camera's perspective. |
+| [render(Camera camera, String fileName, Vector2 size, String format, ImageRenderOptions options)](#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-com.aspose.threed.ImageRenderOptions-) | Render the scene into external file from given camera's perspective. |
 | [save(Stream stream, FileFormat format)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-) | Saves the scene to stream using specified file format. |
 | [save(Stream stream, FileFormat format, Cancellation cancellationToken)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.FileFormat-com.aspose.threed.Cancellation-) | Saves the scene to stream using specified file format. |
 | [save(Stream stream, SaveOptions options)](#save-com.aspose.csporter.helpers.Stream-com.aspose.threed.SaveOptions-) | Saves the scene to stream using specified file format. |
@@ -766,23 +766,9 @@ Remove the specified property identified by name
 
 **Returns:**
 boolean
-### render(Camera camera, BufferedImage bitmap) {#render-com.aspose.threed.Camera-java.awt.image.BufferedImage-}
+### render(Camera camera, TextureData bitmap) {#render-com.aspose.threed.Camera-com.aspose.threed.TextureData-}
 ```
-public void render(Camera camera, BufferedImage bitmap)
-```
-
-
-Render the scene into bitmap from given camera's perspective.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
-| bitmap | java.awt.image.BufferedImage | Target of the rendered result |
-
-### render(Camera camera, BufferedImage bitmap, ImageRenderOptions options) {#render-com.aspose.threed.Camera-java.awt.image.BufferedImage-com.aspose.threed.ImageRenderOptions-}
-```
-public void render(Camera camera, BufferedImage bitmap, ImageRenderOptions options)
+public void render(Camera camera, TextureData bitmap)
 ```
 
 
@@ -792,7 +778,21 @@ Render the scene into bitmap from given camera's perspective.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
-| bitmap | java.awt.image.BufferedImage | Target of the rendered result |
+| bitmap | [TextureData](../../com.aspose.threed/texturedata) | Target of the rendered result |
+
+### render(Camera camera, TextureData bitmap, ImageRenderOptions options) {#render-com.aspose.threed.Camera-com.aspose.threed.TextureData-com.aspose.threed.ImageRenderOptions-}
+```
+public void render(Camera camera, TextureData bitmap, ImageRenderOptions options)
+```
+
+
+Render the scene into bitmap from given camera's perspective.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
+| bitmap | [TextureData](../../com.aspose.threed/texturedata) | Target of the rendered result |
 | options | [ImageRenderOptions](../../com.aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
 
 ### render(Camera camera, String fileName) {#render-com.aspose.threed.Camera-java.lang.String-}
@@ -809,9 +809,9 @@ Render the scene into external file from given camera's perspective. The default
 | camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
 | fileName | java.lang.String | The file name of output file |
 
-### render(Camera camera, String fileName, Dimension size, String format) {#render-com.aspose.threed.Camera-java.lang.String-java.awt.Dimension-java.lang.String-}
+### render(Camera camera, String fileName, Vector2 size, String format) {#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-}
 ```
-public void render(Camera camera, String fileName, Dimension size, String format)
+public void render(Camera camera, String fileName, Vector2 size, String format)
 ```
 
 
@@ -822,12 +822,12 @@ Render the scene into external file from given camera's perspective.
 | --- | --- | --- |
 | camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
 | fileName | java.lang.String | The file name of output file |
-| size | java.awt.Dimension | The size of final rendered image |
+| size | [Vector2](../../com.aspose.threed/vector2) | The size of final rendered image |
 | format | java.lang.String | The image format of the output file |
 
-### render(Camera camera, String fileName, Dimension size, String format, ImageRenderOptions options) {#render-com.aspose.threed.Camera-java.lang.String-java.awt.Dimension-java.lang.String-com.aspose.threed.ImageRenderOptions-}
+### render(Camera camera, String fileName, Vector2 size, String format, ImageRenderOptions options) {#render-com.aspose.threed.Camera-java.lang.String-com.aspose.threed.Vector2-java.lang.String-com.aspose.threed.ImageRenderOptions-}
 ```
-public void render(Camera camera, String fileName, Dimension size, String format, ImageRenderOptions options)
+public void render(Camera camera, String fileName, Vector2 size, String format, ImageRenderOptions options)
 ```
 
 
@@ -838,7 +838,7 @@ Render the scene into external file from given camera's perspective.
 | --- | --- | --- |
 | camera | [Camera](../../com.aspose.threed/camera) | From which camera's perspective to render the scene |
 | fileName | java.lang.String | The file name of output file |
-| size | java.awt.Dimension | The size of final rendered image |
+| size | [Vector2](../../com.aspose.threed/vector2) | The size of final rendered image |
 | format | java.lang.String | The image format of the output file |
 | options | [ImageRenderOptions](../../com.aspose.threed/imagerenderoptions) | The option to customize some internal settings. |
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/begin_vertex/
 is_root: false
 ---
 
-## begin_vertex() {#}
+## begin_vertex {#}
 
 Begin adding vertex
 

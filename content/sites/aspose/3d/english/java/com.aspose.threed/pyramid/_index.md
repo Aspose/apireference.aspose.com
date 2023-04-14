@@ -3,7 +3,7 @@ title: Pyramid
 second_title: Aspose.3D for Java API Reference
 description: Parameterized pyramid.
 type: docs
-weight: 128
+weight: 130
 url: /java/com.aspose.threed/pyramid/
 ---
 

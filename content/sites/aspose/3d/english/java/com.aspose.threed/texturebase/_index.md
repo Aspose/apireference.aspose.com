@@ -3,7 +3,7 @@ title: TextureBase
 second_title: Aspose.3D for Java API Reference
 description: Base class for all concrete textures.
 type: docs
-weight: 166
+weight: 169
 url: /java/com.aspose.threed/texturebase/
 ---
 

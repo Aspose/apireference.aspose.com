@@ -35,10 +35,10 @@ The VertexElementVector4 type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementvector4/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementvector4/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to(target)](/3d/python-net/aspose.threed.entities/vertexelementvector4/copy_to/#VertexElementVector4) | Copies data to specified element |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementvector4/set_data/#list) | Load data |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementvector4/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementvector4/clear/#) | Removes all elements from the direct and the index arrays. |
+| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementvector4/copy_to/#aspose.threed.entities.VertexElementVector4) | Copies data to specified element |
+| [set_data](/3d/python-net/aspose.threed.entities/vertexelementvector4/set_data/#list) | Load data |
 
 
 

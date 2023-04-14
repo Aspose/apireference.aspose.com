@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/mirroredprofile/get_property/
 is_root: false
 ---
 
-## get_property(property) {#str}
+## get_property {#str}
 
 Get the value of specified property
 

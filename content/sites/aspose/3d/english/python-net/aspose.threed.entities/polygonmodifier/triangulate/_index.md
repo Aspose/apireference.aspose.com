@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonmodifier/triangulate/
 is_root: false
 ---
 
-## triangulate(scene) {#Scene}
+## triangulate {#aspose.threed.Scene}
 
 Convert all polygon-based meshes into full triangle mesh
 
@@ -25,7 +25,7 @@ def triangulate(self, scene):
 | scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene to process |
 
 
-## triangulate(mesh) {#Mesh}
+## triangulate {#aspose.threed.entities.Mesh}
 
 Convert a polygon-based mesh into full triangle mesh
 
@@ -47,7 +47,7 @@ def triangulate(self, mesh):
 | mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | The original non-triangle mesh |
 
 
-## triangulate(control_points) {#list}
+## triangulate {#list}
 
 
 
@@ -64,7 +64,7 @@ def triangulate(self, control_points):
 | control_points | list |  |
 
 
-## triangulate(control_points, polygons) {#list-list}
+## triangulate {#list-list}
 
 
 
@@ -82,7 +82,7 @@ def triangulate(self, control_points, polygons):
 | polygons | list |  |
 
 
-## triangulate(control_points, polygon) {#list-list}
+## triangulate {#list-list}
 
 
 
@@ -100,7 +100,7 @@ def triangulate(self, control_points, polygon):
 | polygon | list |  |
 
 
-## triangulate(control_points, polygons, generate_normals, nor_out) {#list-list-bool-any}
+## triangulate {#list-list-bool-any}
 
 
 

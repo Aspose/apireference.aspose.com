@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/stlsaveoptions/__init__/
 is_root: false
 ---
 
-## StlSaveOptions() {#}
+## __init__ {#}
 
 Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## StlSaveOptions(content_type) {#FileContentType}
+## __init__ {#aspose.threed.FileContentType}
 
 Initializes of a new [`StlSaveOptions`](/3d/python-net/aspose.threed.formats/stlsaveoptions) instance.
 

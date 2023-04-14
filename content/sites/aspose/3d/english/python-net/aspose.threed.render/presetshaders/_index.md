@@ -3,7 +3,7 @@ title: PresetShaders enumeration
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 490
+weight: 550
 url: /python-net/aspose.threed.render/presetshaders/
 is_root: false
 ---

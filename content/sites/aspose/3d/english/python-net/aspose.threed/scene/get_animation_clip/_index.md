@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/get_animation_clip/
 is_root: false
 ---
 
-## get_animation_clip(name) {#str}
+## get_animation_clip {#str}
 
 Gets a named [`AnimationClip`](/3d/python-net/aspose.threed.animation/animationclip)
 

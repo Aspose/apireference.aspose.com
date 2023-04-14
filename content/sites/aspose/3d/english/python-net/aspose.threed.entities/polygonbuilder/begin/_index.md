@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonbuilder/begin/
 is_root: false
 ---
 
-## begin() {#}
+## begin {#}
 
 Begins to add a new polygon
 

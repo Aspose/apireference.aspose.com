@@ -25,8 +25,8 @@ The StlLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [StlLoadOptions()](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
-| [StlLoadOptions(content_type)](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#FileContentType) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
+| [__init__](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
+| [__init__](/3d/python-net/aspose.threed.formats/stlloadoptions/__init__/#aspose.threed.FileContentType) | Initializes of a new [`StlLoadOptions`](/3d/python-net/aspose.threed.formats/stlloadoptions) instance. |
 
 
 ### Properties

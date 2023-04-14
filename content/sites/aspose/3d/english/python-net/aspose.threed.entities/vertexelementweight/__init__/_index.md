@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementweight/__init__/
 is_root: false
 ---
 
-## VertexElementWeight() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementWeight`](/3d/python-net/aspose.threed.entities/vertexelementweight) class.
 

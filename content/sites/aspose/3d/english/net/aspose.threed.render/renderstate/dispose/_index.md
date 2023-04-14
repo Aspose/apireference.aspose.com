@@ -3,7 +3,7 @@ title: Dispose
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 210
+weight: 200
 url: /net/aspose.threed.render/renderstate/dispose/
 ---
 ## RenderState.Dispose method

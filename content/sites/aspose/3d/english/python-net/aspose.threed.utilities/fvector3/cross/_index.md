@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/fvector3/cross/
 is_root: false
 ---
 
-## cross(rhs) {#FVector3}
+## cross {#aspose.threed.utilities.FVector3}
 
 Cross product of two vectors
 

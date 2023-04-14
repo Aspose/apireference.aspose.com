@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/shadertechnique/__init__/
 is_root: false
 ---
 
-## ShaderTechnique() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`ShaderTechnique`](/3d/python-net/aspose.threed.shading/shadertechnique) class.
 

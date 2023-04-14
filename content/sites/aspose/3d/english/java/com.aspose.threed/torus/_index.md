@@ -3,7 +3,7 @@ title: Torus
 second_title: Aspose.3D for Java API Reference
 description: Parameterized torus.
 type: docs
-weight: 169
+weight: 173
 url: /java/com.aspose.threed/torus/
 ---
 

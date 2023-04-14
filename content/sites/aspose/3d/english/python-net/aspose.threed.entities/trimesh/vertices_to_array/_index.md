@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/vertices_to_array/
 is_root: false
 ---
 
-## vertices_to_array() {#}
+## vertices_to_array {#}
 
 Convert the vertices data to byte array
 

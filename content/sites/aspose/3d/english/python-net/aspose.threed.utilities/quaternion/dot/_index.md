@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/dot/
 is_root: false
 ---
 
-## dot(q) {#Quaternion}
+## dot {#aspose.threed.utilities.Quaternion}
 
 Dots product
 

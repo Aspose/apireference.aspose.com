@@ -31,6 +31,7 @@ Save options for 3DS file.
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
 | [getExportCamera()](#getExportCamera--) | Gets whether export all cameras in the scene. |
 | [getExportLight()](#getExportLight--) | Gets whether export all lights in the scene. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
 | [getFileName()](#getFileName--) | The file name of the exporting/importing scene. |
 | [getFileSystem()](#getFileSystem--) | Allow user to handle how to manage the external dependencies during load/save. |
@@ -49,6 +50,7 @@ Save options for 3DS file.
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
 | [setExportCamera(boolean value)](#setExportCamera-boolean-) | Sets whether export all cameras in the scene. |
 | [setExportLight(boolean value)](#setExportLight-boolean-) | Sets whether export all lights in the scene. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
 | [setFileSystem(FileSystem value)](#setFileSystem-com.aspose.threed.FileSystem-) | Allow user to handle how to manage the external dependencies during load/save. |
 | [setFileSystemFactory(FileSystemFactory value)](#setFileSystemFactory-com.aspose.threed.FileSystemFactory-) | Sets the factory class for FileSystem. |
@@ -151,6 +153,16 @@ public boolean getExportLight()
 
 
 Gets whether export all lights in the scene.
+
+**Returns:**
+boolean
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
 
 **Returns:**
 boolean
@@ -342,6 +354,19 @@ public void setExportLight(boolean value)
 
 
 Sets whether export all lights in the scene.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
 
 **Parameters:**
 | Parameter | Type | Description |

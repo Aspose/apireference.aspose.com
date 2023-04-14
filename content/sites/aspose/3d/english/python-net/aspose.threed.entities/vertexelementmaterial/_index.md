@@ -26,7 +26,7 @@ The VertexElementMaterial type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementMaterial()](/3d/python-net/aspose.threed.entities/vertexelementmaterial/__init__/#) | Initializes a new instance of the [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/vertexelementmaterial/__init__/#) | Initializes a new instance of the [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial) class. |
 
 
 ### Properties
@@ -42,8 +42,8 @@ The VertexElementMaterial type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementmaterial/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementmaterial/clear/#) | Removes all elements from the direct and the index arrays. |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementmaterial/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementmaterial/clear/#) | Removes all elements from the direct and the index arrays. |
 
 
 

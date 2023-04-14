@@ -3,7 +3,7 @@ title: file_system property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.threed.formats/rvmsaveoptions/file_system/
 is_root: false
 ---

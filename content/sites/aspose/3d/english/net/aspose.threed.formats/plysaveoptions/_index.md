@@ -27,6 +27,7 @@ public class PlySaveOptions : SaveOptions
 | --- | --- |
 | [ColorComponents](../../aspose.threed.formats/plysaveoptions/colorcomponents) { get; set; } | The component names for vertex color, default value is ("red", "green", "blue") |
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
+| [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |
 | [FaceElement](../../aspose.threed.formats/plysaveoptions/faceelement) { get; set; } | The element name for the face data, default value is "face" |
 | [FaceProperty](../../aspose.threed.formats/plysaveoptions/faceproperty) { get; set; } | The property name for the face data, default value is "vertex_index" |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |

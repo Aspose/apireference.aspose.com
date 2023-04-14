@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/endpoint/from_degree/
 is_root: false
 ---
 
-## from_degree(degree) {#float}
+## from_degree {#float}
 
 Create an end point measured in degree.
 

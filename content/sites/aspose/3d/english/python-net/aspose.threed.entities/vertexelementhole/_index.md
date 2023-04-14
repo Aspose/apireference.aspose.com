@@ -24,7 +24,7 @@ The VertexElementHole type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementHole()](/3d/python-net/aspose.threed.entities/vertexelementhole/__init__/#) | Initializes a new instance of the [`VertexElementHole`](/3d/python-net/aspose.threed.entities/vertexelementhole) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/vertexelementhole/__init__/#) | Initializes a new instance of the [`VertexElementHole`](/3d/python-net/aspose.threed.entities/vertexelementhole) class. |
 
 
 ### Properties
@@ -40,9 +40,9 @@ The VertexElementHole type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementhole/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementhole/clear/#) | Clears all the data from this vertex element. |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementhole/set_data/#list) |  |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementhole/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementhole/clear/#) | Clears all the data from this vertex element. |
+| [set_data](/3d/python-net/aspose.threed.entities/vertexelementhole/set_data/#list) |  |
 
 
 

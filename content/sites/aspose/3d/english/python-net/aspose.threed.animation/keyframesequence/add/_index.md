@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/keyframesequence/add/
 is_root: false
 ---
 
-## add(time, value) {#float-float}
+## add {#float-float}
 
 Create a new key frame with specified value
 
@@ -26,7 +26,7 @@ def add(self, time, value):
 | value | float | The value at this time position |
 
 
-## add(time, value, interpolation) {#float-float-Interpolation}
+## add {#float-float-aspose.threed.animation.Interpolation}
 
 Create a new key frame with specified value
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vertex/read_f_vector2/
 is_root: false
 ---
 
-## read_f_vector2(field) {#VertexField}
+## read_f_vector2 {#aspose.threed.utilities.VertexField}
 
 Read the vector2 field
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/trialexception/__init__/
 is_root: false
 ---
 
-## TrialException(msg) {#str}
+## __init__ {#str}
 
 Constructor of [`TrialException`](/3d/python-net/aspose.threed/trialexception)
 

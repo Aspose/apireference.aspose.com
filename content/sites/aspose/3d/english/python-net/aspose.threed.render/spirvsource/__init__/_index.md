@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/spirvsource/__init__/
 is_root: false
 ---
 
-## SPIRVSource() {#}
+## __init__ {#}
 
 Constructor of SPIR-V based shader sources.
 

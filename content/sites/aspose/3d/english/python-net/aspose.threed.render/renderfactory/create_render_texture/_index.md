@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_render_texture/
 is_root: false
 ---
 
-## create_render_texture(parameters, width, height) {#RenderParameters-int-int}
+## create_render_texture {#aspose.threed.render.RenderParameters-int-int}
 
 Create a render target contains 1 targets that renders to the texture
 
@@ -32,7 +32,7 @@ def create_render_texture(self, parameters, width, height):
 | height | int | The height of the render texture |
 
 
-## create_render_texture(parameters, targets, width, height) {#RenderParameters-int-int-int}
+## create_render_texture {#aspose.threed.render.RenderParameters-int-int-int}
 
 Create a render target that renders to the texture
 

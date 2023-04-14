@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/entityrenderer/render_entity/
 is_root: false
 ---
 
-## render_entity(renderer, command_list, node, renderable_resource, sub_entity) {#Renderer-ICommandList-Node-any-int}
+## render_entity {#aspose.threed.render.Renderer-aspose.threed.render.ICommandList-aspose.threed.Node-any-int}
 
 Each render task pushed to the [`IRenderQueue`](/3d/python-net/aspose.threed.render/irenderqueue) will have a corresponding RenderEntity call
 to perform the concrete rendering job.

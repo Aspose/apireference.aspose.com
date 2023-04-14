@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/pushconstant/__init__/
 is_root: false
 ---
 
-## PushConstant() {#}
+## __init__ {#}
 
 Constructor of the [`PushConstant`](/3d/python-net/aspose.threed.render/pushconstant)
 

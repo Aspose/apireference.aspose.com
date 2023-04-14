@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/to_array/
 is_root: false
 ---
 
-## to_array() {#}
+## to_array {#}
 
 Converts matrix to array.
 

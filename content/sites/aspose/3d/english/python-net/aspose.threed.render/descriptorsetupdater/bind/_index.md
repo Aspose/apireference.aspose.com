@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/descriptorsetupdater/bind/
 is_root: false
 ---
 
-## bind(buffer) {#IBuffer}
+## bind {#aspose.threed.render.IBuffer}
 
 Bind the entire buffer to current descriptor
 
@@ -30,7 +30,7 @@ def bind(self, buffer):
 | buffer | [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer) |  |
 
 
-## bind(texture) {#ITextureUnit}
+## bind {#aspose.threed.render.ITextureUnit}
 
 Bind the texture unit to current descriptor set
 
@@ -52,7 +52,7 @@ def bind(self, texture):
 | texture | [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit) | The texture unit to bind |
 
 
-## bind(binding, buffer) {#int-IBuffer}
+## bind {#int-aspose.threed.render.IBuffer}
 
 Bind the buffer to current descriptor set at specified binding location.
 
@@ -75,7 +75,7 @@ def bind(self, binding, buffer):
 | buffer | [`IBuffer`](/3d/python-net/aspose.threed.render/ibuffer) | The entire buffer to bind |
 
 
-## bind(binding, texture) {#int-ITextureUnit}
+## bind {#int-aspose.threed.render.ITextureUnit}
 
 Bind the texture unit to current descriptor set
 
@@ -98,7 +98,7 @@ def bind(self, binding, texture):
 | texture | [`ITextureUnit`](/3d/python-net/aspose.threed.render/itextureunit) | The texture unit to bind |
 
 
-## bind(buffer, offset, size) {#IBuffer-int-int}
+## bind {#aspose.threed.render.IBuffer-int-int}
 
 Bind the buffer to current descriptor set
 
@@ -122,7 +122,7 @@ def bind(self, buffer, offset, size):
 | size | int | Size of the buffer to bind |
 
 
-## bind(binding, buffer, offset, size) {#int-IBuffer-int-int}
+## bind {#int-aspose.threed.render.IBuffer-int-int}
 
 Bind the buffer to current descriptor set at specified binding location.
 

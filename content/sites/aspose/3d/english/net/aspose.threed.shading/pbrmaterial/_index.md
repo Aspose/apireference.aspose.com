@@ -3,7 +3,7 @@ title: PbrMaterial
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2300
+weight: 2360
 url: /net/aspose.threed.shading/pbrmaterial/
 ---
 ## PbrMaterial class
@@ -19,7 +19,7 @@ public class PbrMaterial : Material
 | Name | Description |
 | --- | --- |
 | [PbrMaterial](pbrmaterial)() | Construct a default PBR material instance |
-| [PbrMaterial](pbrmaterial)(Color) | Construct a default PBR material with specified albedo color value. |
+| [PbrMaterial](pbrmaterial)(Vector3) | Construct a default PBR material with specified albedo color value. |
 
 ## Properties
 

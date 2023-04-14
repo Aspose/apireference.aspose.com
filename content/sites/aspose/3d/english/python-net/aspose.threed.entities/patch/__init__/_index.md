@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/patch/__init__/
 is_root: false
 ---
 
-## Patch() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Patch`](/3d/python-net/aspose.threed.entities/patch) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Patch(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`Patch`](/3d/python-net/aspose.threed.entities/patch) class.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderer/register_entity_renderer/
 is_root: false
 ---
 
-## register_entity_renderer(renderer) {#EntityRenderer}
+## register_entity_renderer {#aspose.threed.render.EntityRenderer}
 
 Register the entity renderer for specified entity
 

@@ -3,7 +3,7 @@ title: RenderQueueGroupId
 second_title: Aspose.3D for Java API Reference
 description: The group id of render queue
 type: docs
-weight: 267
+weight: 275
 url: /java/com.aspose.threed/renderqueuegroupid/
 ---
 

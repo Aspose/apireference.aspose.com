@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/animationchannel/add_keyframe_sequence/
 is_root: false
 ---
 
-## add_keyframe_sequence(sequence) {#KeyframeSequence}
+## add_keyframe_sequence {#aspose.threed.animation.KeyframeSequence}
 
 Adds keyframe sequence to this channel
 

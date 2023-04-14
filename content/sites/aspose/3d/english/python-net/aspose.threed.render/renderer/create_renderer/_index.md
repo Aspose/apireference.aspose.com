@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderer/create_renderer/
 is_root: false
 ---
 
-## create_renderer() {#}
+## create_renderer {#}
 
 Creates a new [`Renderer`](/3d/python-net/aspose.threed.render/renderer) with default profile.
 

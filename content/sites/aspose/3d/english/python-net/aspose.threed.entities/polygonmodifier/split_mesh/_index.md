@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonmodifier/split_mesh/
 is_root: false
 ---
 
-## split_mesh(mesh, policy) {#Mesh-SplitMeshPolicy}
+## split_mesh {#aspose.threed.entities.Mesh-aspose.threed.entities.SplitMeshPolicy}
 
 Split mesh into sub-meshes by [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial).
 Each sub-mesh will use only one material.
@@ -33,7 +33,7 @@ def split_mesh(self, mesh, policy):
 | policy | [`SplitMeshPolicy`](/3d/python-net/aspose.threed.entities/splitmeshpolicy) |  |
 
 
-## split_mesh(scene, policy, remove_old_mesh) {#Scene-SplitMeshPolicy-bool}
+## split_mesh {#aspose.threed.Scene-aspose.threed.entities.SplitMeshPolicy-bool}
 
 Split mesh into sub-meshes by [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial).
 Each sub-mesh will use only one material.
@@ -54,7 +54,7 @@ def split_mesh(self, scene, policy, remove_old_mesh):
 | remove_old_mesh | bool |  |
 
 
-## split_mesh(node, policy, create_child_nodes, remove_old_mesh) {#Node-SplitMeshPolicy-bool-bool}
+## split_mesh {#aspose.threed.Node-aspose.threed.entities.SplitMeshPolicy-bool-bool}
 
 Split mesh into sub-meshes by [`VertexElementMaterial`](/3d/python-net/aspose.threed.entities/vertexelementmaterial).
 Each sub-mesh will use only one material.

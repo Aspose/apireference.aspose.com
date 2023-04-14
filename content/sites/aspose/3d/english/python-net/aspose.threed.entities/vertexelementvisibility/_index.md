@@ -24,7 +24,7 @@ The VertexElementVisibility type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementVisibility()](/3d/python-net/aspose.threed.entities/vertexelementvisibility/__init__/#) | Initializes a new instance of the [`VertexElementVisibility`](/3d/python-net/aspose.threed.entities/vertexelementvisibility) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/vertexelementvisibility/__init__/#) | Initializes a new instance of the [`VertexElementVisibility`](/3d/python-net/aspose.threed.entities/vertexelementvisibility) class. |
 
 
 ### Properties
@@ -40,9 +40,9 @@ The VertexElementVisibility type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementvisibility/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementvisibility/clear/#) | Clears all the data from this vertex element. |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementvisibility/set_data/#list) |  |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementvisibility/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementvisibility/clear/#) | Clears all the data from this vertex element. |
+| [set_data](/3d/python-net/aspose.threed.entities/vertexelementvisibility/set_data/#list) |  |
 
 
 

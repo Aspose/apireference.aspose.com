@@ -3,7 +3,7 @@ title: Quaternion
 second_title: Aspose.3D for Java API Reference
 description: Quaternion is usually used to perform rotation in computer graphics.
 type: docs
-weight: 129
+weight: 131
 url: /java/com.aspose.threed/quaternion/
 ---
 

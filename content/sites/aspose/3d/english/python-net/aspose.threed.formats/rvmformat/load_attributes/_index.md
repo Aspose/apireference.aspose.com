@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/rvmformat/load_attributes/
 is_root: false
 ---
 
-## load_attributes(scene, file_name, prefix) {#Scene-str-str}
+## load_attributes {#aspose.threed.Scene-str-str}
 
 Load the attributes from specified file name
 
@@ -27,7 +27,7 @@ def load_attributes(self, scene, file_name, prefix):
 | prefix | str | The prefix of the attributes that used to avoid conflict of names, default value is "rvm:" |
 
 
-## load_attributes(scene, stream, prefix) {#Scene-io.RawIOBase-str}
+## load_attributes {#aspose.threed.Scene-io.RawIOBase-str}
 
 Load the attributes from specified stream
 

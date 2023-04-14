@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonmodifier/generate_normal/
 is_root: false
 ---
 
-## generate_normal(mesh) {#Mesh}
+## generate_normal {#aspose.threed.entities.Mesh}
 
 Generate normal data from Mesh definition
 

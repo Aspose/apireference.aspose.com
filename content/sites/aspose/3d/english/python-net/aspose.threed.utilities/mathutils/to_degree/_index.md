@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/mathutils/to_degree/
 is_root: false
 ---
 
-## to_degree(radian) {#Vector3}
+## to_degree {#aspose.threed.utilities.Vector3}
 
 Convert a [`Vector3`](/3d/python-net/aspose.threed.utilities/vector3) from radian to degree.
 
@@ -41,7 +41,7 @@ print(f"Degrees = {degrees}")
 ```
 
 
-## to_degree(radian) {#float}
+## to_degree {#float}
 
 Convert a number from radian to degree
 
@@ -74,7 +74,7 @@ print(f"Degree = {deg}")
 ```
 
 
-## to_degree(radian) {#float}
+## to_degree {#float}
 
 Convert a number from radian to degree
 
@@ -107,7 +107,7 @@ print(f"Degree = {deg}")
 ```
 
 
-## to_degree(x, y, z) {#float-float-float}
+## to_degree {#float-float-float}
 
 Convert a number from radian to degree
 

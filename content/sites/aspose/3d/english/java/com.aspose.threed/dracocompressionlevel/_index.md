@@ -3,7 +3,7 @@ title: DracoCompressionLevel
 second_title: Aspose.3D for Java API Reference
 description: Compression level for draco file
 type: docs
-weight: 247
+weight: 254
 url: /java/com.aspose.threed/dracocompressionlevel/
 ---
 

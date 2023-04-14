@@ -31,10 +31,10 @@ The PropertyCollection type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed/propertycollection/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed/propertycollection/remove_property/#str) | Removes a dynamic property. |
-| [find_property(property)](/3d/python-net/aspose.threed/propertycollection/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get(property)](/3d/python-net/aspose.threed/propertycollection/get/#str) |  |
+| [remove_property](/3d/python-net/aspose.threed/propertycollection/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed/propertycollection/remove_property/#str) | Removes a dynamic property. |
+| [find_property](/3d/python-net/aspose.threed/propertycollection/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get](/3d/python-net/aspose.threed/propertycollection/get/#str) |  |
 
 
 

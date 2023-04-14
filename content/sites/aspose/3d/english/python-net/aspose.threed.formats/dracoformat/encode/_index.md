@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/dracoformat/encode/
 is_root: false
 ---
 
-## encode(entity, options) {#Entity-DracoSaveOptions}
+## encode {#aspose.threed.Entity-aspose.threed.formats.DracoSaveOptions}
 
 Encode the entity to Draco raw data
 
@@ -31,7 +31,7 @@ def encode(self, entity, options):
 | options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
 
 
-## encode(entity, stream, options) {#Entity-io.RawIOBase-DracoSaveOptions}
+## encode {#aspose.threed.Entity-io.RawIOBase-aspose.threed.formats.DracoSaveOptions}
 
 Encode the entity to specified stream
 
@@ -50,7 +50,7 @@ def encode(self, entity, stream, options):
 | options | [`DracoSaveOptions`](/3d/python-net/aspose.threed.formats/dracosaveoptions) | Extra options for encoding the point cloud |
 
 
-## encode(entity, file_name, options) {#Entity-str-DracoSaveOptions}
+## encode {#aspose.threed.Entity-str-aspose.threed.formats.DracoSaveOptions}
 
 Encode the entity to specified file
 

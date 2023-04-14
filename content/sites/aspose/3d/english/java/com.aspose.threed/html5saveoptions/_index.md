@@ -27,6 +27,7 @@ Save options for HTML5
 | [getCameraPosition()](#getCameraPosition--) | Gets the initial position of the camera, default value is (10, 10, 10) |
 | [getClass()](#getClass--) |  |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFarPlane()](#getFarPlane--) | Gets the far plane of the camera, default value is 1000. |
 | [getFieldOfView()](#getFieldOfView--) | Gets the field of the view, default value is 45, measured in degree. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
@@ -46,6 +47,7 @@ Save options for HTML5
 | [notifyAll()](#notifyAll--) |  |
 | [setCameraPosition(Vector3 value)](#setCameraPosition-com.aspose.threed.Vector3-) | Sets the initial position of the camera, default value is (10, 10, 10) |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFarPlane(double value)](#setFarPlane-double-) | Sets the far plane of the camera, default value is 1000. |
 | [setFieldOfView(double value)](#setFieldOfView-double-) | Sets the field of the view, default value is 45, measured in degree. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
@@ -116,6 +118,16 @@ Gets the default encoding for text-based files. Default value is null which mean
 
 **Returns:**
 java.nio.charset.Charset
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Returns:**
+boolean
 ### getFarPlane() {#getFarPlane--}
 ```
 public double getFarPlane()
@@ -307,6 +319,19 @@ Sets the default encoding for text-based files. Default value is null which mean
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.nio.charset.Charset | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setFarPlane(double value) {#setFarPlane-double-}
 ```

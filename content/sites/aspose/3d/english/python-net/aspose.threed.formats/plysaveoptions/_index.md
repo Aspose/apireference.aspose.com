@@ -25,8 +25,8 @@ The PlySaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PlySaveOptions()](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
-| [PlySaveOptions(content_type)](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#FileContentType) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/plysaveoptions/__init__/#aspose.threed.FileContentType) | Constructor of [`PlySaveOptions`](/3d/python-net/aspose.threed.formats/plysaveoptions) |
 
 
 ### Properties
@@ -37,6 +37,7 @@ The PlySaveOptions type exposes the following members:
 | [file_system](/3d/python-net/aspose.threed.formats/plysaveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/plysaveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [file_name](/3d/python-net/aspose.threed.formats/plysaveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
+| [export_textures](/3d/python-net/aspose.threed.formats/plysaveoptions/export_textures) | Try to copy textures used in scene to output directory. |
 | [point_cloud](/3d/python-net/aspose.threed.formats/plysaveoptions/point_cloud) | Export the scene as point cloud, the default value is false. |
 | [flip_coordinate](/3d/python-net/aspose.threed.formats/plysaveoptions/flip_coordinate) | Flip the coordinate while saving the scene, default value is true |
 | [vertex_element](/3d/python-net/aspose.threed.formats/plysaveoptions/vertex_element) | The element name for the vertex data, default value is "vertex" |

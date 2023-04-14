@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/transform/set_geometric_rotation/
 is_root: false
 ---
 
-## set_geometric_rotation(rx, ry, rz) {#float-float-float}
+## set_geometric_rotation {#float-float-float}
 
 Sets the geometric Euler rotation(measured in degree). 
 Geometric transformation only affects the entities attached and leave the child nodes unaffected.

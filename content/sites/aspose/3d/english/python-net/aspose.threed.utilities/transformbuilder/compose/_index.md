@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/transformbuilder/compose/
 is_root: false
 ---
 
-## compose(m) {#Matrix4}
+## compose {#aspose.threed.utilities.Matrix4}
 
 Append or prepend the argument to internal matrix.
 

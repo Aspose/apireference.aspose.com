@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/ivertexbuffer/load_data/
 is_root: false
 ---
 
-## load_data(mesh) {#aspose.threed.entities.TriMesh}
+## load_data {#aspose.threed.entities.TriMesh}
 
 Load vertex data from [`TriMesh`](/3d/python-net/aspose.threed.entities/trimesh)
 
@@ -25,7 +25,7 @@ def load_data(self, mesh):
 | mesh | aspose.threed.entities.TriMesh |  |
 
 
-## load_data(array) {#Array}
+## load_data {#Array}
 
 
 
@@ -42,7 +42,7 @@ def load_data(self, array):
 | array | Array |  |
 
 
-## load_data(data) {#bytes}
+## load_data {#bytes}
 
 Load the data into current buffer
 

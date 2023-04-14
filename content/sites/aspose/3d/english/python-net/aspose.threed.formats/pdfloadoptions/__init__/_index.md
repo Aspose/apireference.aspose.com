@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/pdfloadoptions/__init__/
 is_root: false
 ---
 
-## PdfLoadOptions() {#}
+## __init__ {#}
 
 Constructor of [`PdfLoadOptions`](/3d/python-net/aspose.threed.formats/pdfloadoptions)
 

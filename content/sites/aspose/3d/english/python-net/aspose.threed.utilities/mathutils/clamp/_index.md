@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/mathutils/clamp/
 is_root: false
 ---
 
-## clamp(val, min, max) {#float-float-float}
+## clamp {#float-float-float}
 
 Clamp value to range [min, max]
 

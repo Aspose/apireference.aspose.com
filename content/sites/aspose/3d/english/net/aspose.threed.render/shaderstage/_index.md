@@ -3,7 +3,7 @@ title: ShaderStage
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2170
+weight: 2220
 url: /net/aspose.threed.render/shaderstage/
 ---
 ## ShaderStage enumeration

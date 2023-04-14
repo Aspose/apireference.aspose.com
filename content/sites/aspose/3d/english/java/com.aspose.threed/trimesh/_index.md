@@ -3,7 +3,7 @@ title: TriMesh
 second_title: Aspose.3D for Java API Reference
 description: A TriMesh contains raw data that can be used by GPU directly.
 type: docs
-weight: 174
+weight: 178
 url: /java/com.aspose.threed/trimesh/
 ---
 

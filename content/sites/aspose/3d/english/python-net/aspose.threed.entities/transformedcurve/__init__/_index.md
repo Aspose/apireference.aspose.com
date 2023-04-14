@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/transformedcurve/__init__/
 is_root: false
 ---
 
-## TransformedCurve() {#}
+## __init__ {#}
 
 The constructor of [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## TransformedCurve(basis_curve, transformation) {#Curve-aspose.threed.utilities.Matrix4}
+## __init__ {#aspose.threed.entities.Curve-aspose.threed.utilities.Matrix4}
 
 The constructor of [`TransformedCurve`](/3d/python-net/aspose.threed.entities/transformedcurve)
 

@@ -3,7 +3,7 @@ title: RenderResource class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 290
 url: /python-net/aspose.threed.render/renderresource/
 is_root: false
 ---

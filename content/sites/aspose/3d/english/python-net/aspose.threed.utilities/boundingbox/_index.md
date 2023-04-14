@@ -19,9 +19,9 @@ The BoundingBox type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [BoundingBox(minimum, maximum)](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#Vector3-Vector3) | Initialize a finite bounding box with given minimum and maximum corner |
-| [BoundingBox(min_x, min_y, min_z, max_x, max_y, max_z)](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#float-float-float-float-float-float) | Initialize a finite bounding box with given minimum and maximum corner |
-| [BoundingBox()](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#) | Constructs a new instance of BoundingBox |
+| [__init__](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3) | Initialize a finite bounding box with given minimum and maximum corner |
+| [__init__](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#float-float-float-float-float-float) | Initialize a finite bounding box with given minimum and maximum corner |
+| [__init__](/3d/python-net/aspose.threed.utilities/boundingbox/__init__/#) | Constructs a new instance of BoundingBox |
 
 
 ### Properties
@@ -39,7 +39,7 @@ The BoundingBox type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [from_geometry(geometry)](/3d/python-net/aspose.threed.utilities/boundingbox/from_geometry/#aspose.threed.entities.Geometry) | Construct a bounding box from given geometry |
+| [from_geometry](/3d/python-net/aspose.threed.utilities/boundingbox/from_geometry/#aspose.threed.entities.Geometry) | Construct a bounding box from given geometry |
 
 
 

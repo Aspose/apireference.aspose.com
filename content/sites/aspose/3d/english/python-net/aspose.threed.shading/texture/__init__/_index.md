@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/texture/__init__/
 is_root: false
 ---
 
-## Texture() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Texture(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`Texture`](/3d/python-net/aspose.threed.shading/texture) class.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_uniform_buffer/
 is_root: false
 ---
 
-## create_uniform_buffer(size) {#int}
+## create_uniform_buffer {#int}
 
 Create a new uniform buffer in GPU side with pre-allocated size.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/memoryfilesystem/write_file/
 is_root: false
 ---
 
-## write_file(file_name, options) {#str-aspose.threed.formats.IOConfig}
+## write_file {#str-aspose.threed.formats.IOConfig}
 
 Create a stream for writing dependencies.
 

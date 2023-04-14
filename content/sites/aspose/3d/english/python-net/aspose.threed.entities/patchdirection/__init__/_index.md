@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/patchdirection/__init__/
 is_root: false
 ---
 
-## PatchDirection() {#}
+## __init__ {#}
 
 Constructs a new instance of PatchDirection
 

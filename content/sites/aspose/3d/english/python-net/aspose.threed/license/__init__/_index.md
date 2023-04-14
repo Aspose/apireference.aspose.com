@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/license/__init__/
 is_root: false
 ---
 
-## License() {#}
+## __init__ {#}
 
 Initializes a new instance of this class.
 

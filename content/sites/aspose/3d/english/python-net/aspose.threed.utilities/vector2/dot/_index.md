@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector2/dot/
 is_root: false
 ---
 
-## dot(rhs) {#Vector2}
+## dot {#aspose.threed.utilities.Vector2}
 
 Gets the dot product of two vectors
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/dish/__init__/
 is_root: false
 ---
 
-## Dish() {#}
+## __init__ {#}
 
 Create a new dish instance with default radius(10) and default height(5)
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Dish(radius, height) {#float-float}
+## __init__ {#float-float}
 
 Create a new dish instance with specified radius and height
 
@@ -40,7 +40,7 @@ def __init__(self, radius, height):
 | height | float | The height of the dish |
 
 
-## Dish(name, radius, height, width_segments, height_segments) {#str-float-float-int-int}
+## __init__ {#str-float-float-int-int}
 
 Create a new dish instance with specified radius and height
 

@@ -3,7 +3,7 @@ title: Property
 second_title: Aspose.3D for Java API Reference
 description: Class to hold user-defined properties.
 type: docs
-weight: 125
+weight: 127
 url: /java/com.aspose.threed/property/
 ---
 

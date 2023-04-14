@@ -24,7 +24,7 @@ The MemoryFileSystem type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [MemoryFileSystem()](/3d/python-net/aspose.threed.utilities/memoryfilesystem/__init__/#) | Constructs a new instance of MemoryFileSystem |
+| [__init__](/3d/python-net/aspose.threed.utilities/memoryfilesystem/__init__/#) | Constructs a new instance of MemoryFileSystem |
 
 
 ### Properties
@@ -36,9 +36,9 @@ The MemoryFileSystem type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [read_file(file_name, options)](/3d/python-net/aspose.threed.utilities/memoryfilesystem/read_file/#str-aspose.threed.formats.IOConfig) | Create a stream for reading dependencies. |
-| [write_file(file_name, options)](/3d/python-net/aspose.threed.utilities/memoryfilesystem/write_file/#str-aspose.threed.formats.IOConfig) | Create a stream for writing dependencies. |
-| [get_file_content(file_name)](/3d/python-net/aspose.threed.utilities/memoryfilesystem/get_file_content/#str) | Returns the raw content of the specified file.<br/>Throw FileNotFoundException if the specified file is not existing. |
+| [read_file](/3d/python-net/aspose.threed.utilities/memoryfilesystem/read_file/#str-aspose.threed.formats.IOConfig) | Create a stream for reading dependencies. |
+| [write_file](/3d/python-net/aspose.threed.utilities/memoryfilesystem/write_file/#str-aspose.threed.formats.IOConfig) | Create a stream for writing dependencies. |
+| [get_file_content](/3d/python-net/aspose.threed.utilities/memoryfilesystem/get_file_content/#str) | Returns the raw content of the specified file.<br/>Throw FileNotFoundException if the specified file is not existing. |
 
 
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/icommandlist/bind_descriptor_set/
 is_root: false
 ---
 
-## bind_descriptor_set(descriptor_set) {#IDescriptorSet}
+## bind_descriptor_set {#aspose.threed.render.IDescriptorSet}
 
 Bind the descriptor set to current pipeline
 

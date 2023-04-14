@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/icommandlist/draw_index/
 is_root: false
 ---
 
-## draw_index() {#}
+## draw_index {#}
 
 Issue an indexed draw into a command list
 
@@ -22,7 +22,7 @@ def draw_index(self):
 
 
 
-## draw_index(start, count) {#int-int}
+## draw_index {#int-int}
 
 Issue an indexed draw into a command list
 

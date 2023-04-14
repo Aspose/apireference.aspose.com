@@ -3,7 +3,7 @@ title: Vector4
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2660
+weight: 2730
 url: /net/aspose.threed.utilities/vector4/
 ---
 ## Vector4 structure
@@ -18,7 +18,6 @@ public struct Vector4 : IComparable<Vector4>
 
 | Name | Description |
 | --- | --- |
-| [Vector4](vector4)(Color) | Initializes a new instance of the [`Vector4`](../vector4) struct. |
 | [Vector4](vector4)(FVector4) | Initializes a new instance of the [`Vector4`](../vector4) struct. |
 | [Vector4](vector4)(Vector3) | Initializes a new instance of the [`Vector4`](../vector4) struct. |
 | [Vector4](vector4)(Vector3, double) | Initializes a new instance of the [`Vector4`](../vector4) struct. |

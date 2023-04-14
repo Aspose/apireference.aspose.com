@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/amfsaveoptions/__init__/
 is_root: false
 ---
 
-## AmfSaveOptions() {#}
+## __init__ {#}
 
 Constructor of [`AmfSaveOptions`](/3d/python-net/aspose.threed.formats/amfsaveoptions)
 

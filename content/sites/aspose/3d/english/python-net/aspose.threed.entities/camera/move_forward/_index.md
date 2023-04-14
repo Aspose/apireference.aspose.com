@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/camera/move_forward/
 is_root: false
 ---
 
-## move_forward(distance) {#float}
+## move_forward {#float}
 
 Move camera forward towards its direction or target.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/from_rotation/
 is_root: false
 ---
 
-## from_rotation(orig, dest) {#Vector3-Vector3}
+## from_rotation {#aspose.threed.utilities.Vector3-aspose.threed.utilities.Vector3}
 
 Creates a quaternion that rotate from original to destination direction
 

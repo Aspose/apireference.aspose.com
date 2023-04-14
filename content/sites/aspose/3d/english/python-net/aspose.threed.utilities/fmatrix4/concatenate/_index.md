@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/fmatrix4/concatenate/
 is_root: false
 ---
 
-## concatenate(m2) {#FMatrix4}
+## concatenate {#aspose.threed.utilities.FMatrix4}
 
 Concatenates the two matrices
 
@@ -30,7 +30,7 @@ def concatenate(self, m2):
 | m2 | [`FMatrix4`](/3d/python-net/aspose.threed.utilities/fmatrix4) | M2. |
 
 
-## concatenate(m2) {#Matrix4}
+## concatenate {#aspose.threed.utilities.Matrix4}
 
 Concatenates the two matrices
 

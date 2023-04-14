@@ -28,7 +28,7 @@ The AnimationChannel type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [add_keyframe_sequence(sequence)](/3d/python-net/aspose.threed.animation/animationchannel/add_keyframe_sequence/#KeyframeSequence) | Adds keyframe sequence to this channel |
+| [add_keyframe_sequence](/3d/python-net/aspose.threed.animation/animationchannel/add_keyframe_sequence/#aspose.threed.animation.KeyframeSequence) | Adds keyframe sequence to this channel |
 
 
 

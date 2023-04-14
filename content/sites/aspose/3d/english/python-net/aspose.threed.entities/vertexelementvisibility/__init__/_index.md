@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementvisibility/__init__/
 is_root: false
 ---
 
-## VertexElementVisibility() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementVisibility`](/3d/python-net/aspose.threed.entities/vertexelementvisibility) class.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/glslsource/__init__/
 is_root: false
 ---
 
-## GLSLSource() {#}
+## __init__ {#}
 
 Constructs a new instance of GLSLSource
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/inverse/
 is_root: false
 ---
 
-## inverse() {#}
+## inverse {#}
 
 Inverses this instance.
 

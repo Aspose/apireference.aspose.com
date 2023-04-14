@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementbinormal/__init__/
 is_root: false
 ---
 
-## VertexElementBinormal() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementBinormal`](/3d/python-net/aspose.threed.entities/vertexelementbinormal) class.
 

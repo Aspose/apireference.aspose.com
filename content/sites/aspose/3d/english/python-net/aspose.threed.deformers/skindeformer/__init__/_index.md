@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.deformers/skindeformer/__init__/
 is_root: false
 ---
 
-## SkinDeformer() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## SkinDeformer(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`SkinDeformer`](/3d/python-net/aspose.threed.deformers/skindeformer) class.
 

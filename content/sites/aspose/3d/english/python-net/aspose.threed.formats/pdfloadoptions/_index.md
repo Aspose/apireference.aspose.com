@@ -25,7 +25,7 @@ The PdfLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [PdfLoadOptions()](/3d/python-net/aspose.threed.formats/pdfloadoptions/__init__/#) | Constructor of [`PdfLoadOptions`](/3d/python-net/aspose.threed.formats/pdfloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/pdfloadoptions/__init__/#) | Constructor of [`PdfLoadOptions`](/3d/python-net/aspose.threed.formats/pdfloadoptions) |
 
 
 ### Properties

@@ -3,7 +3,7 @@ title: SPIRVSource
 second_title: Aspose.3D for Java API Reference
 description: The compiled shader in SPIR-V format.
 type: docs
-weight: 144
+weight: 147
 url: /java/com.aspose.threed/spirvsource/
 ---
 

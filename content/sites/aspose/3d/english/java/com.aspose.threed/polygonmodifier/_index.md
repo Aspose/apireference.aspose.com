@@ -3,7 +3,7 @@ title: PolygonModifier
 second_title: Aspose.3D for Java API Reference
 description: Utilities to modify polygons
 type: docs
-weight: 120
+weight: 122
 url: /java/com.aspose.threed/polygonmodifier/
 ---
 

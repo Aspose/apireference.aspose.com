@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/bonepose/__init__/
 is_root: false
 ---
 
-## BonePose() {#}
+## __init__ {#}
 
 Constructs a new instance of BonePose
 

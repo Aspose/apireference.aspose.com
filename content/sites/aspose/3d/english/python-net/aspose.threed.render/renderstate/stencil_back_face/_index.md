@@ -3,7 +3,7 @@ title: stencil_back_face property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 160
 url: /python-net/aspose.threed.render/renderstate/stencil_back_face/
 is_root: false
 ---

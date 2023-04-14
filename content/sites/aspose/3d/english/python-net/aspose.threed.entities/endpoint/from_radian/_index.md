@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/endpoint/from_radian/
 is_root: false
 ---
 
-## from_radian(degree) {#float}
+## from_radian {#float}
 
 Create an end point measured in radian.
 

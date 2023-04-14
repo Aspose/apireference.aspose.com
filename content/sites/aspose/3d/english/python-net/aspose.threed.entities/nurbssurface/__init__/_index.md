@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/nurbssurface/__init__/
 is_root: false
 ---
 
-## NurbsSurface() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## NurbsSurface(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`NurbsSurface`](/3d/python-net/aspose.threed.entities/nurbssurface) class.
 

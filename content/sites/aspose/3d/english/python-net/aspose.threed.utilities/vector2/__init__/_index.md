@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector2/__init__/
 is_root: false
 ---
 
-## Vector2() {#}
+## __init__ {#}
 
 Constructs a new instance of Vector2
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Vector2(s) {#float}
+## __init__ {#float}
 
 Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct.
 
@@ -39,7 +39,7 @@ def __init__(self, s):
 | s | float | S. |
 
 
-## Vector2(vec) {#FVector2}
+## __init__ {#aspose.threed.utilities.FVector2}
 
 Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct.
 
@@ -56,7 +56,7 @@ def __init__(self, vec):
 | vec | [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2) | Vector in float. |
 
 
-## Vector2(x, y) {#float-float}
+## __init__ {#float-float}
 
 Initializes a new instance of the [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) struct.
 

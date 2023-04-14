@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_render_window/
 is_root: false
 ---
 
-## create_render_window(parameters, handle) {#RenderParameters-WindowHandle}
+## create_render_window {#aspose.threed.render.RenderParameters-aspose.threed.render.WindowHandle}
 
 Create a render target that renders to the native window.
 

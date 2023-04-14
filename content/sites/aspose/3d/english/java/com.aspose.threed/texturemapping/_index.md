@@ -3,7 +3,7 @@ title: TextureMapping
 second_title: Aspose.3D for Java API Reference
 description: The texture mapping type for  Describes which kind of texture mapping is used.
 type: docs
-weight: 278
+weight: 284
 url: /java/com.aspose.threed/texturemapping/
 ---
 

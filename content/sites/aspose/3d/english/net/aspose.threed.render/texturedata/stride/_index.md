@@ -3,7 +3,7 @@ title: Stride
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 90
+weight: 80
 url: /net/aspose.threed.render/texturedata/stride/
 ---
 ## TextureData.Stride property

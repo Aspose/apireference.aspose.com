@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/find_property/
 is_root: false
 ---
 
-## find_property(property_name) {#str}
+## find_property {#str}
 
 Finds the property.
 It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) 

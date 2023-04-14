@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/shape/__init__/
 is_root: false
 ---
 
-## Shape() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Shape`](/3d/python-net/aspose.threed.entities/shape) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Shape(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`Shape`](/3d/python-net/aspose.threed.entities/shape) class.
 

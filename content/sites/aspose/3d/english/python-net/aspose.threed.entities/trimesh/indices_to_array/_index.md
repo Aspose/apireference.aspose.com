@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/indices_to_array/
 is_root: false
 ---
 
-## indices_to_array(result) {#any}
+## indices_to_array {#any}
 
 
 
@@ -25,7 +25,7 @@ def indices_to_array(self, result):
 | result | any |  |
 
 
-## indices_to_array(result) {#any}
+## indices_to_array {#any}
 
 
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/entityrenderer/prepare_render_queue/
 is_root: false
 ---
 
-## prepare_render_queue(renderer, queue, node, entity) {#Renderer-IRenderQueue-Node-Entity}
+## prepare_render_queue {#aspose.threed.render.Renderer-aspose.threed.render.IRenderQueue-aspose.threed.Node-aspose.threed.Entity}
 
 Prepare rendering commands for specified node/entity pair.
 

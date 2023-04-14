@@ -32,8 +32,8 @@ The VertexElement type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelement/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelement/clear/#) | Clears all the data from this vertex element. |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelement/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelement/clear/#) | Clears all the data from this vertex element. |
 
 
 

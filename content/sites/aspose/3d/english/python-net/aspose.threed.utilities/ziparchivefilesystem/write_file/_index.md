@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/ziparchivefilesystem/write_file/
 is_root: false
 ---
 
-## write_file(file_name, options) {#str-aspose.threed.formats.IOConfig}
+## write_file {#str-aspose.threed.formats.IOConfig}
 
 Open file for writing, not implemented in this class.
 

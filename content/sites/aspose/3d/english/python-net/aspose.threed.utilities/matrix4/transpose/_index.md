@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/transpose/
 is_root: false
 ---
 
-## transpose() {#}
+## transpose {#}
 
 Transposes this instance.
 

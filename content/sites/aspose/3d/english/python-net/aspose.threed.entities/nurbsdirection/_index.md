@@ -20,7 +20,7 @@ The NurbsDirection type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [NurbsDirection()](/3d/python-net/aspose.threed.entities/nurbsdirection/__init__/#) | Constructs a new instance of NurbsDirection |
+| [__init__](/3d/python-net/aspose.threed.entities/nurbsdirection/__init__/#) | Constructs a new instance of NurbsDirection |
 
 
 ### Properties

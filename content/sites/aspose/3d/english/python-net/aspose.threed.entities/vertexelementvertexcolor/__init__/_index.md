@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementvertexcolor/__init__/
 is_root: false
 ---
 
-## VertexElementVertexColor() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementVertexColor`](/3d/python-net/aspose.threed.entities/vertexelementvertexcolor) class.
 

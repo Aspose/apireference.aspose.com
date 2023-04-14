@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector4/set/
 is_root: false
 ---
 
-## set(new_x, new_y, new_z) {#float-float-float}
+## set {#float-float-float}
 
 Sets vector's xyz components at a time, w will be set to 1
 
@@ -27,7 +27,7 @@ def set(self, new_x, new_y, new_z):
 | new_z | float | New Z component. |
 
 
-## set(new_x, new_y, new_z, new_w) {#float-float-float-float}
+## set {#float-float-float-float}
 
 Sets vector's all components at a time
 

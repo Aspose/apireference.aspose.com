@@ -3,7 +3,7 @@ title: file_name property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /python-net/aspose.threed.formats/rvmsaveoptions/file_name/
 is_root: false
 ---

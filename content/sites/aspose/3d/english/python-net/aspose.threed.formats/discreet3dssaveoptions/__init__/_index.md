@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/discreet3dssaveoptions/__init__/
 is_root: false
 ---
 
-## Discreet3dsSaveOptions() {#}
+## __init__ {#}
 
 Constructor of [`Discreet3dsSaveOptions`](/3d/python-net/aspose.threed.formats/discreet3dssaveoptions)
 

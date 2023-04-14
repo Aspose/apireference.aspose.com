@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/line/__init__/
 is_root: false
 ---
 
-## Line() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Line(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class.
 

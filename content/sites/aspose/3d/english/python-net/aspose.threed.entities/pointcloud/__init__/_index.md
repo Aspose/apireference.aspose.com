@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/pointcloud/__init__/
 is_root: false
 ---
 
-## PointCloud() {#}
+## __init__ {#}
 
 Constructor of [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## PointCloud(name) {#str}
+## __init__ {#str}
 
 Constructor of [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud)
 

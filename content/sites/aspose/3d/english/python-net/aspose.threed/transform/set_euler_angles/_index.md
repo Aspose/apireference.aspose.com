@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/transform/set_euler_angles/
 is_root: false
 ---
 
-## set_euler_angles(rx, ry, rz) {#float-float-float}
+## set_euler_angles {#float-float-float}
 
 Sets the Euler angles in degrees of current transform.
 

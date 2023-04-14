@@ -3,7 +3,7 @@ title: PresetShaders
 second_title: Aspose.3D for Java API Reference
 description: This defines the preset internal shaders used by the renderer.
 type: docs
-weight: 264
+weight: 272
 url: /java/com.aspose.threed/presetshaders/
 ---
 

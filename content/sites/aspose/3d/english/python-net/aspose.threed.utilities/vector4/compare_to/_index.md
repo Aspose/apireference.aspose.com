@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector4/compare_to/
 is_root: false
 ---
 
-## compare_to(other) {#Vector4}
+## compare_to {#aspose.threed.utilities.Vector4}
 
 Compare current vector to another instance.
 

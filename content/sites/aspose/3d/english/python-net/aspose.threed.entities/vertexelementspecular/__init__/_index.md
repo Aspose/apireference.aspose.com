@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementspecular/__init__/
 is_root: false
 ---
 
-## VertexElementSpecular() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementSpecular`](/3d/python-net/aspose.threed.entities/vertexelementspecular) class.
 

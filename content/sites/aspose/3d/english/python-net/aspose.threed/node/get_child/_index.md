@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/get_child/
 is_root: false
 ---
 
-## get_child(index) {#int}
+## get_child {#int}
 
 Gets the child node at specified index.
 
@@ -44,7 +44,7 @@ print(f"The first node of the file is {node.name}")
 ```
 
 
-## get_child(node_name) {#str}
+## get_child {#str}
 
 Gets the child node with the specified name
 

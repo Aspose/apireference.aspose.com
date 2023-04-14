@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/dracosaveoptions/__init__/
 is_root: false
 ---
 
-## DracoSaveOptions() {#}
+## __init__ {#}
 
 Construct a default configuration for saving draco files.
 

@@ -26,7 +26,7 @@ The VertexElementSmoothingGroup type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementSmoothingGroup()](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/__init__/#) | Initializes a new instance of the [`VertexElementSmoothingGroup`](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/__init__/#) | Initializes a new instance of the [`VertexElementSmoothingGroup`](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup) class. |
 
 
 ### Properties
@@ -43,10 +43,10 @@ The VertexElementSmoothingGroup type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to(target)](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/copy_to/#VertexElementIntsTemplate) | Copies data to specified element |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/set_data/#list) | Load data |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/clear/#) | Removes all elements from the direct and the index arrays. |
+| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/copy_to/#aspose.threed.entities.VertexElementIntsTemplate) | Copies data to specified element |
+| [set_data](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup/set_data/#list) | Load data |
 
 
 

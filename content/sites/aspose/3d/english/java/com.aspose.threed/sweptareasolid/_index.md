@@ -3,7 +3,7 @@ title: SweptAreaSolid
 second_title: Aspose.3D for Java API Reference
 description: A  constructs a geometry by sweeping a profile along a directrix.
 type: docs
-weight: 163
+weight: 166
 url: /java/com.aspose.threed/sweptareasolid/
 ---
 

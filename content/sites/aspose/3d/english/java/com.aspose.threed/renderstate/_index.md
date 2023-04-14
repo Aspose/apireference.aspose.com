@@ -3,7 +3,7 @@ title: RenderState
 second_title: Aspose.3D for Java API Reference
 description: Render state for building the pipeline The changes made on render state will not affect the created pipeline instances.
 type: docs
-weight: 136
+weight: 139
 url: /java/com.aspose.threed/renderstate/
 ---
 
@@ -40,7 +40,6 @@ Render state for building the pipeline The changes made on render state will not
 | [getDestinationBlendFactor()](#getDestinationBlendFactor--) | Gets how the color is blended. |
 | [getFrontFace()](#getFrontFace--) | Gets which order is front face. |
 | [getPolygonMode()](#getPolygonMode--) | Gets the polygon's render mode. |
-| [getScissorBox()](#getScissorBox--) | Gets the scissor box |
 | [getScissorTest()](#getScissorTest--) | Enable or disable scissor test |
 | [getSourceBlendFactor()](#getSourceBlendFactor--) | Gets how the color is blended. |
 | [getStencilBackFace()](#getStencilBackFace--) | Gets the stencil state for back face. |
@@ -61,7 +60,6 @@ Render state for building the pipeline The changes made on render state will not
 | [setDestinationBlendFactor(BlendFactor value)](#setDestinationBlendFactor-com.aspose.threed.BlendFactor-) | Sets how the color is blended. |
 | [setFrontFace(FrontFace value)](#setFrontFace-com.aspose.threed.FrontFace-) | Sets which order is front face. |
 | [setPolygonMode(PolygonMode value)](#setPolygonMode-com.aspose.threed.PolygonMode-) | Sets the polygon's render mode. |
-| [setScissorBox(Rectangle value)](#setScissorBox-java.awt.Rectangle-) | Sets the scissor box |
 | [setScissorTest(boolean value)](#setScissorTest-boolean-) | Enable or disable scissor test |
 | [setSourceBlendFactor(BlendFactor value)](#setSourceBlendFactor-com.aspose.threed.BlendFactor-) | Sets how the color is blended. |
 | [setStencilMask(int value)](#setStencilMask-int-) | Sets the mask that is ANDed with the both reference and stored stencil value when test is done. |
@@ -227,16 +225,6 @@ Gets the polygon's render mode.
 
 **Returns:**
 [PolygonMode](../../com.aspose.threed/polygonmode)
-### getScissorBox() {#getScissorBox--}
-```
-public Rectangle getScissorBox()
-```
-
-
-Gets the scissor box
-
-**Returns:**
-java.awt.Rectangle
 ### getScissorTest() {#getScissorTest--}
 ```
 public boolean getScissorTest()
@@ -462,19 +450,6 @@ Sets the polygon's render mode.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [PolygonMode](../../com.aspose.threed/polygonmode) | New value |
-
-### setScissorBox(Rectangle value) {#setScissorBox-java.awt.Rectangle-}
-```
-public void setScissorBox(Rectangle value)
-```
-
-
-Sets the scissor box
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.awt.Rectangle | New value |
 
 ### setScissorTest(boolean value) {#setScissorTest-boolean-}
 ```

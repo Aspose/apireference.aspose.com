@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/bindpoint/create_keyframe_sequence/
 is_root: false
 ---
 
-## create_keyframe_sequence(name) {#str}
+## create_keyframe_sequence {#str}
 
 Creates a new curve and connects it to the first channel of the curve mapping
 

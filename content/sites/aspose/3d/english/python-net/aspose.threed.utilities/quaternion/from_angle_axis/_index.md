@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/from_angle_axis/
 is_root: false
 ---
 
-## from_angle_axis(a, axis) {#float-Vector3}
+## from_angle_axis {#float-aspose.threed.utilities.Vector3}
 
 Creates a quaternion around given axis and rotate in clockwise
 

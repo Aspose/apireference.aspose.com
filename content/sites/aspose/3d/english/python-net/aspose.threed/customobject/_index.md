@@ -25,8 +25,8 @@ The CustomObject type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [CustomObject()](/3d/python-net/aspose.threed/customobject/__init__/#) | Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class. |
-| [CustomObject(name)](/3d/python-net/aspose.threed/customobject/__init__/#str) | Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class. |
+| [__init__](/3d/python-net/aspose.threed/customobject/__init__/#) | Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class. |
+| [__init__](/3d/python-net/aspose.threed/customobject/__init__/#str) | Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class. |
 
 
 ### Properties
@@ -39,11 +39,11 @@ The CustomObject type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed/customobject/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed/customobject/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed/customobject/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed/customobject/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed/customobject/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [remove_property](/3d/python-net/aspose.threed/customobject/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed/customobject/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed/customobject/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed/customobject/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed/customobject/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
 

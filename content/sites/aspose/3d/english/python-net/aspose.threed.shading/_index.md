@@ -29,8 +29,6 @@ All shading related classes are defined in this namespace.
 | Enumeration | Description |
 | :- | :- |
 | [`AlphaSource`](/3d/python-net/aspose.threed.shading/alphasource) | Defines whether the texture contains the alpha channel. |
-| [`RenderingAPI`](/3d/python-net/aspose.threed.shading/renderingapi) | Commonly used rendering APIs |
-| [`ShadingLanguage`](/3d/python-net/aspose.threed.shading/shadinglanguage) | Commonly used shading languages |
 | [`TextureFilter`](/3d/python-net/aspose.threed.shading/texturefilter) | Filter options during texture sampling. |
 | [`WrapMode`](/3d/python-net/aspose.threed.shading/wrapmode) | Texture's wrap mode. |
 

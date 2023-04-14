@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/ziparchivefilesystem/read_file/
 is_root: false
 ---
 
-## read_file(file_name, options) {#str-aspose.threed.formats.IOConfig}
+## read_file {#str-aspose.threed.formats.IOConfig}
 
 Open file for reading
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonbuilder/add_vertex/
 is_root: false
 ---
 
-## add_vertex(index) {#int}
+## add_vertex {#int}
 
 Adds a vertex index to the polygon
 

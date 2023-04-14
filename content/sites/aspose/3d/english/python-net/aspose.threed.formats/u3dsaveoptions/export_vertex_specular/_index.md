@@ -3,7 +3,7 @@ title: export_vertex_specular property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /python-net/aspose.threed.formats/u3dsaveoptions/export_vertex_specular/
 is_root: false
 ---

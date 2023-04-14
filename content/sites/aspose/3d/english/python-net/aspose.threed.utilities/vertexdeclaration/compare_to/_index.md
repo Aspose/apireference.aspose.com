@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vertexdeclaration/compare_to/
 is_root: false
 ---
 
-## compare_to(other) {#VertexDeclaration}
+## compare_to {#aspose.threed.utilities.VertexDeclaration}
 
 Compares this instance to a specified object and returns an indication of their relative values.
 

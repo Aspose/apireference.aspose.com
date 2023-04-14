@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/create_child_node/
 is_root: false
 ---
 
-## create_child_node() {#}
+## create_child_node {#}
 
 Creates a child node
 
@@ -43,7 +43,7 @@ scene.save("output.fbx")
 ```
 
 
-## create_child_node(node_name) {#str}
+## create_child_node {#str}
 
 Create a new child node with given node name
 
@@ -81,7 +81,7 @@ scene.save("output.fbx")
 ```
 
 
-## create_child_node(entity) {#Entity}
+## create_child_node {#aspose.threed.Entity}
 
 Create a new child node with given entity attached
 
@@ -118,7 +118,7 @@ scene.save("output.fbx")
 ```
 
 
-## create_child_node(node_name, entity) {#str-Entity}
+## create_child_node {#str-aspose.threed.Entity}
 
 Create a new child node with given node name
 
@@ -141,7 +141,7 @@ def create_child_node(self, node_name, entity):
 | entity | [`Entity`](/3d/python-net/aspose.threed/entity) | Default entity attached to the node |
 
 
-## create_child_node(node_name, entity, material) {#str-Entity-aspose.threed.shading.Material}
+## create_child_node {#str-aspose.threed.Entity-aspose.threed.shading.Material}
 
 Create a new child node with given node name, and attach specified entity and a material
 

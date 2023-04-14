@@ -3,7 +3,7 @@ title: Mesh
 second_title: Aspose.3D for Java API Reference
 description: A mesh is made of many n-sided polygons.
 type: docs
-weight: 93
+weight: 94
 url: /java/com.aspose.threed/mesh/
 ---
 

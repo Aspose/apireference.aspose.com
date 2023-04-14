@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/nurbscurve/__init__/
 is_root: false
 ---
 
-## NurbsCurve() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## NurbsCurve(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`NurbsCurve`](/3d/python-net/aspose.threed.entities/nurbscurve) class.
 

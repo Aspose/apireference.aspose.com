@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonmodifier/generate_uv/
 is_root: false
 ---
 
-## generate_uv(mesh) {#Mesh}
+## generate_uv {#aspose.threed.entities.Mesh}
 
 Generate UV data from the given input mesh
 
@@ -30,7 +30,7 @@ def generate_uv(self, mesh):
 | mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) | The input mesh |
 
 
-## generate_uv(mesh, normals) {#Mesh-VertexElementNormal}
+## generate_uv {#aspose.threed.entities.Mesh-aspose.threed.entities.VertexElementNormal}
 
 Generate UV data from the given input mesh and specified normal data.
 

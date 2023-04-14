@@ -8,10 +8,15 @@ url: /python-net/aspose.threed.formats/plyformat/decode/
 is_root: false
 ---
 
-## decode(file_name) {#str}
+## decode {#str}
+
+Decode a point cloud or mesh from the specified stream.
 
 
+### Returns 
 
+
+A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud) instance
 
 
 ```python
@@ -22,13 +27,18 @@ def decode(self, file_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_name | str |  |
+| file_name | str | The input stream |
 
 
-## decode(stream) {#io.RawIOBase}
+## decode {#io.RawIOBase}
+
+Decode a point cloud or mesh from the specified stream.
 
 
+### Returns 
 
+
+A [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) or [`PointCloud`](/3d/python-net/aspose.threed.entities/pointcloud) instance
 
 
 ```python
@@ -39,10 +49,10 @@ def decode(self, stream):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| stream | io.RawIOBase |  |
+| stream | io.RawIOBase | The input stream |
 
 
-## decode(file_name, opt) {#str-PlyLoadOptions}
+## decode {#str-aspose.threed.formats.PlyLoadOptions}
 
 Decode a point cloud or mesh from the specified stream.
 
@@ -65,7 +75,7 @@ def decode(self, file_name, opt):
 | opt | [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions) | The load option of PLY format |
 
 
-## decode(stream, opt) {#io.RawIOBase-PlyLoadOptions}
+## decode {#io.RawIOBase-aspose.threed.formats.PlyLoadOptions}
 
 Decode a point cloud or mesh from the specified stream.
 

@@ -34,10 +34,10 @@ The VertexElementDoublesTemplate type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to(target)](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/copy_to/#VertexElementDoublesTemplate) | Copies data to specified element |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/set_data/#list) | Load data |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/clear/#) | Removes all elements from the direct and the index arrays. |
+| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/copy_to/#aspose.threed.entities.VertexElementDoublesTemplate) | Copies data to specified element |
+| [set_data](/3d/python-net/aspose.threed.entities/vertexelementdoublestemplate/set_data/#list) | Load data |
 
 
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/dracoformat/create_load_options/
 is_root: false
 ---
 
-## create_load_options() {#}
+## create_load_options {#}
 
 Create a default load options for this file format
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/add_child_node/
 is_root: false
 ---
 
-## add_child_node(node) {#Node}
+## add_child_node {#aspose.threed.Node}
 
 Add a child node to this node
 

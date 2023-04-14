@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.3D for Java API Reference
 description: The save options in PDF exporting.
 type: docs
-weight: 112
+weight: 113
 url: /java/com.aspose.threed/pdfsaveoptions/
 ---
 
@@ -29,6 +29,7 @@ The save options in PDF exporting.
 | [getClass()](#getClass--) |  |
 | [getEmbedTextures()](#getEmbedTextures--) | Embed the external textures into the PDF file, default value is false. |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFaceColor()](#getFaceColor--) | Gets the face color to be used when rendering the 3D content. |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
 | [getFileName()](#getFileName--) | The file name of the exporting/importing scene. |
@@ -45,6 +46,7 @@ The save options in PDF exporting.
 | [setBackgroundColor(Vector3 value)](#setBackgroundColor-com.aspose.threed.Vector3-) | Background color of the 3D view in PDF file. |
 | [setEmbedTextures(boolean value)](#setEmbedTextures-boolean-) | Embed the external textures into the PDF file, default value is false. |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFaceColor(Vector3 value)](#setFaceColor-com.aspose.threed.Vector3-) | Sets the face color to be used when rendering the 3D content. |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
 | [setFileSystem(FileSystem value)](#setFileSystem-com.aspose.threed.FileSystem-) | Allow user to handle how to manage the external dependencies during load/save. |
@@ -130,6 +132,16 @@ Gets the default encoding for text-based files. Default value is null which mean
 
 **Returns:**
 java.nio.charset.Charset
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Returns:**
+boolean
 ### getFaceColor() {#getFaceColor--}
 ```
 public Vector3 getFaceColor()
@@ -297,6 +309,19 @@ Sets the default encoding for text-based files. Default value is null which mean
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.nio.charset.Charset | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setFaceColor(Vector3 value) {#setFaceColor-com.aspose.threed.Vector3-}
 ```

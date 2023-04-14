@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderer/clear_cache/
 is_root: false
 ---
 
-## clear_cache() {#}
+## clear_cache {#}
 
 Manually clear the cache.
 Aspose.3D will cache some objects like materials/geometries into internal types that compatible with the render pipeline.

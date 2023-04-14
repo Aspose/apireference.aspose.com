@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/open/
 is_root: false
 ---
 
-## open(stream) {#io.RawIOBase}
+## open {#io.RawIOBase}
 
 Opens the scene from given stream
 
@@ -39,7 +39,7 @@ with open("input.fbx", "rb") as stream:
 ```
 
 
-## open(file_name) {#str}
+## open {#str}
 
 Opens the scene from given path
 
@@ -69,7 +69,7 @@ scene.open("input.fbx")
 ```
 
 
-## open(file_name, options) {#str-aspose.threed.formats.LoadOptions}
+## open {#str-aspose.threed.formats.LoadOptions}
 
 Opens the scene from given path using specified file format.
 

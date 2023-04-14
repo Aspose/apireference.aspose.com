@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/fmatrix4/inverse/
 is_root: false
 ---
 
-## inverse() {#}
+## inverse {#}
 
 Calculate the inverse matrix of current instance.
 

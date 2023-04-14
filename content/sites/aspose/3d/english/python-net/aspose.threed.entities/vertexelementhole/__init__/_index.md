@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementhole/__init__/
 is_root: false
 ---
 
-## VertexElementHole() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementHole`](/3d/python-net/aspose.threed.entities/vertexelementhole) class.
 

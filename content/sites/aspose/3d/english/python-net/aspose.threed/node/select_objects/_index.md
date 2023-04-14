@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/node/select_objects/
 is_root: false
 ---
 
-## select_objects(path) {#str}
+## select_objects {#str}
 
 Select multiple objects under current node using XPath-like query syntax.
 

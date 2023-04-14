@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/itexture1d/load/
 is_root: false
 ---
 
-## load(bitmap) {#TextureData}
+## load {#aspose.threed.render.TextureData}
 
 Load texture content from specified Bitmap
 

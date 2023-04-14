@@ -23,7 +23,7 @@ The base namespace of Aspose.3D
 | [`FileFormatType`](/3d/python-net/aspose.threed/fileformattype) | File format type |
 | [`GlobalTransform`](/3d/python-net/aspose.threed/globaltransform) | Global transform is similar to [`Transform`](/3d/python-net/aspose.threed/transform) but it's immutable while it represents the final evaluated transformation.<br/>Right-hand coordinate system is used while evaluating global transform |
 | [`INamedObject`](/3d/python-net/aspose.threed/inamedobject) | Object that has a name |
-| [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions) | Options for [`Scene.render(camera, file_name)`](/3d/python-net/aspose.threed/scene/render) and  [`Scene.render(camera, file_name)`](/3d/python-net/aspose.threed/scene/render) |
+| [`ImageRenderOptions`](/3d/python-net/aspose.threed/imagerenderoptions) | Options for [`Scene.render`](/3d/python-net/aspose.threed/scene/render) and  [`Scene.render`](/3d/python-net/aspose.threed/scene/render) |
 | [`ImportException`](/3d/python-net/aspose.threed/importexception) | Exception when Aspose.3D failed to open the specified source |
 | [`License`](/3d/python-net/aspose.threed/license) | Provides methods to license the component. |
 | [`Metered`](/3d/python-net/aspose.threed/metered) | Provides methods to set metered key. |

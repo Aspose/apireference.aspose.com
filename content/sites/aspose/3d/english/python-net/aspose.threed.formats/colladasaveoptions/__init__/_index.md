@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/colladasaveoptions/__init__/
 is_root: false
 ---
 
-## ColladaSaveOptions() {#}
+## __init__ {#}
 
 Constructor of [`ColladaSaveOptions`](/3d/python-net/aspose.threed.formats/colladasaveoptions)
 

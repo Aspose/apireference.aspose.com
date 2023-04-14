@@ -3,7 +3,7 @@ title: VertexElementBinormal
 second_title: Aspose.3D for Java API Reference
 description: Defines the binormal vectors for specified components.
 type: docs
-weight: 187
+weight: 191
 url: /java/com.aspose.threed/vertexelementbinormal/
 ---
 

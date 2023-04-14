@@ -3,7 +3,7 @@ title: LambertMaterial
 second_title: Aspose.3D for Java API Reference
 description: Material for lambert shading model
 type: docs
-weight: 82
+weight: 83
 url: /java/com.aspose.threed/lambertmaterial/
 ---
 

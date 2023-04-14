@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/pdfformat/extract_scene/
 is_root: false
 ---
 
-## extract_scene(file_name) {#str}
+## extract_scene {#str}
 
 Extract 3D scenes from PDF file.
 
@@ -30,7 +30,7 @@ def extract_scene(self, file_name):
 | file_name | str |  |
 
 
-## extract_scene(file_name, password) {#str-bytes}
+## extract_scene {#str-bytes}
 
 Extract 3D scenes from PDF file.
 
@@ -53,7 +53,7 @@ def extract_scene(self, file_name, password):
 | password | bytes |  |
 
 
-## extract_scene(stream, password) {#io.RawIOBase-bytes}
+## extract_scene {#io.RawIOBase-bytes}
 
 Extract raw 3D content from PDF stream.
 

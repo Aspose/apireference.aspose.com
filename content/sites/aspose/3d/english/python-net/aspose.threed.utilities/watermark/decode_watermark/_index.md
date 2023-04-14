@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/watermark/decode_watermark/
 is_root: false
 ---
 
-## decode_watermark(input, password) {#aspose.threed.entities.Mesh-str}
+## decode_watermark {#aspose.threed.entities.Mesh-str}
 
 Decode the watermark from a mesh
 
@@ -47,7 +47,7 @@ from aspose.threed import FileFormat
 from aspose.threed.entities import Mesh
 from aspose.threed.utilities import Watermark
 
-mesh = pycore.cast(Mesh, FileFormat.PLY.decode("test.ply", None))
+mesh = pycore.cast(Mesh, FileFormat.PLY.decode("test.ply"))
 watermark = Watermark.decode_watermark(mesh, "password")
 
 ```

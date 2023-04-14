@@ -3,7 +3,7 @@ title: fallback_normal property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /python-net/aspose.threed.formats/gltfsaveoptions/fallback_normal/
 is_root: false
 ---

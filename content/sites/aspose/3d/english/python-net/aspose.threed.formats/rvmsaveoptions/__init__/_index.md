@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/rvmsaveoptions/__init__/
 is_root: false
 ---
 
-## RvmSaveOptions() {#}
+## __init__ {#}
 
 Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions)
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## RvmSaveOptions(content_type) {#FileContentType}
+## __init__ {#aspose.threed.FileContentType}
 
 Constructor of [`RvmSaveOptions`](/3d/python-net/aspose.threed.formats/rvmsaveoptions)
 

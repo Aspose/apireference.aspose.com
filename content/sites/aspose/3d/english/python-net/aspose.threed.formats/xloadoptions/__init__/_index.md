@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/xloadoptions/__init__/
 is_root: false
 ---
 
-## XLoadOptions(content_type) {#FileContentType}
+## __init__ {#aspose.threed.FileContentType}
 
 Constructor of [`XLoadOptions`](/3d/python-net/aspose.threed.formats/xloadoptions)
 

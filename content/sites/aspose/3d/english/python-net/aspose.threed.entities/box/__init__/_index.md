@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/box/__init__/
 is_root: false
 ---
 
-## Box() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Box(length, width, height) {#float-float-float}
+## __init__ {#float-float-float}
 
 Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 
@@ -41,7 +41,7 @@ def __init__(self, length, width, height):
 | height | float | Height of the box aligned in y-axis. |
 
 
-## Box(name, length, width, height, length_segments, width_segments, height_segments) {#str-float-float-float-int-int-int}
+## __init__ {#str-float-float-float-int-int-int}
 
 Initializes a new instance of the [`Box`](/3d/python-net/aspose.threed.entities/box) class.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/ellipseshape/__init__/
 is_root: false
 ---
 
-## EllipseShape() {#}
+## __init__ {#}
 
 Initialize an SceneObject.
 

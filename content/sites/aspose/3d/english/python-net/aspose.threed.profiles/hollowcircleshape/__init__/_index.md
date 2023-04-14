@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/hollowcircleshape/__init__/
 is_root: false
 ---
 
-## HollowCircleShape() {#}
+## __init__ {#}
 
 Construct a [`CircleShape`](/3d/python-net/aspose.threed.profiles/circleshape) profile with default radius(5).
 

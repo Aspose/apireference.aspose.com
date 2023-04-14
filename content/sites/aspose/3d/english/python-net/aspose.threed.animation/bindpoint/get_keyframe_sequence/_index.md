@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/bindpoint/get_keyframe_sequence/
 is_root: false
 ---
 
-## get_keyframe_sequence(channel_name) {#str}
+## get_keyframe_sequence {#str}
 
 Gets the first keyframe sequence in specified channel
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/rotate/
 is_root: false
 ---
 
-## rotate(q) {#Quaternion}
+## rotate {#aspose.threed.utilities.Quaternion}
 
 Create a rotation matrix from a quaternion
 
@@ -36,6 +36,7 @@ The following code shows how to create a matrix for rotate operation.
 
 ```python
 from aspose.threed.utilities import Matrix4, Quaternion, Vector3
+import math
 
 t = Matrix4.rotate(Quaternion.from_angle_axis(math.pi, Vector3.Y_AXIS))
 pos = Vector3(1, 1, 10)
@@ -44,7 +45,7 @@ print(f"Transformed: {t * pos}")
 ```
 
 
-## rotate(angle, axis) {#float-Vector3}
+## rotate {#float-aspose.threed.utilities.Vector3}
 
 Create a rotation matrix by rotation angle and axis
 
@@ -73,6 +74,7 @@ The following code shows how to create a matrix for rotate operation.
 
 ```python
 from aspose.threed.utilities import Matrix4, Vector3
+import math
 
 t = Matrix4.rotate(math.pi, Vector3(0, 1, 0))
 pos = Vector3(1, 1, 10)

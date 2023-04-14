@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/pbrspecularmaterial/__init__/
 is_root: false
 ---
 
-## PbrSpecularMaterial() {#}
+## __init__ {#}
 
 Constructor of the [`PbrSpecularMaterial`](/3d/python-net/aspose.threed.shading/pbrspecularmaterial)
 

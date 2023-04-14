@@ -3,7 +3,7 @@ title: SPIRVSource class
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 290
+weight: 330
 url: /python-net/aspose.threed.render/spirvsource/
 is_root: false
 ---
@@ -24,7 +24,7 @@ The SPIRVSource type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [SPIRVSource()](/3d/python-net/aspose.threed.render/spirvsource/__init__/#) | Constructor of SPIR-V based shader sources. |
+| [__init__](/3d/python-net/aspose.threed.render/spirvsource/__init__/#) | Constructor of SPIR-V based shader sources. |
 
 
 ### Properties

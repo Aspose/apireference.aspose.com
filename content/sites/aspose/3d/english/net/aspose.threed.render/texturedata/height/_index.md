@@ -3,7 +3,7 @@ title: Height
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.threed.render/texturedata/height/
 ---
 ## TextureData.Height property

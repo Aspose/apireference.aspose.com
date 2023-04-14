@@ -29,8 +29,8 @@ The Line type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Line()](/3d/python-net/aspose.threed.entities/line/__init__/#) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
-| [Line(name)](/3d/python-net/aspose.threed.entities/line/__init__/#str) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/line/__init__/#) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/line/__init__/#str) | Initializes a new instance of the [`Line`](/3d/python-net/aspose.threed.entities/line) class. |
 
 
 ### Properties
@@ -50,15 +50,15 @@ The Line type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/line/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/line/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.entities/line/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.entities/line/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/line/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box()](/3d/python-net/aspose.threed.entities/line/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/line/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [from_points(points)](/3d/python-net/aspose.threed.entities/line/from_points/#list) | Construct a [`Line`](/3d/python-net/aspose.threed.entities/line) instance from a set of points. |
-| [make_default_indices()](/3d/python-net/aspose.threed.entities/line/make_default_indices/#) | Generate the sequence 0,1,2,3....[`Geometry.control_points`](/3d/python-net/aspose.threed.entities/geometry#control_points).Length-1 to [`Line.segments`](/3d/python-net/aspose.threed.entities/line#segments) so the ControlPoints can be used as a single line |
+| [remove_property](/3d/python-net/aspose.threed.entities/line/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.entities/line/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.entities/line/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.entities/line/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.entities/line/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get_bounding_box](/3d/python-net/aspose.threed.entities/line/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/line/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [from_points](/3d/python-net/aspose.threed.entities/line/from_points/#list) | Construct a [`Line`](/3d/python-net/aspose.threed.entities/line) instance from a set of points. |
+| [make_default_indices](/3d/python-net/aspose.threed.entities/line/make_default_indices/#) | Generate the sequence 0,1,2,3....[`Geometry.control_points`](/3d/python-net/aspose.threed.entities/geometry#control_points).Length-1 to [`Line.segments`](/3d/python-net/aspose.threed.entities/line#segments) so the ControlPoints can be used as a single line |
 
 
 

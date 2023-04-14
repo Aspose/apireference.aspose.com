@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vector2/equals/
 is_root: false
 ---
 
-## equals(rhs) {#Vector2}
+## equals {#aspose.threed.utilities.Vector2}
 
 Check if two vector2 equals
 

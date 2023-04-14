@@ -11,7 +11,7 @@ is_root: false
 ## unmerged_vertices_count property
 
 
-The count of unmerged vertices that passed in by [`TriMesh.begin_vertex()`](/3d/python-net/aspose.threed.entities/trimesh/begin_vertex) and [`TriMesh.end_vertex()`](/3d/python-net/aspose.threed.entities/trimesh/end_vertex).
+The count of unmerged vertices that passed in by [`TriMesh.begin_vertex`](/3d/python-net/aspose.threed.entities/trimesh/begin_vertex) and [`TriMesh.end_vertex`](/3d/python-net/aspose.threed.entities/trimesh/end_vertex).
 ### Definition:
 ```python
 @property

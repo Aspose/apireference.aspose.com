@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.profiles/trapeziumshape/__init__/
 is_root: false
 ---
 
-## TrapeziumShape() {#}
+## __init__ {#}
 
 Constructor of [`TrapeziumShape`](/3d/python-net/aspose.threed.profiles/trapeziumshape)
 

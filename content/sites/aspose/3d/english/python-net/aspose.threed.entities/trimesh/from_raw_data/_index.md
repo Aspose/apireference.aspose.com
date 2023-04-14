@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/from_raw_data/
 is_root: false
 ---
 
-## from_raw_data(vd, vertices, indices, generate_vertex_mapping) {#aspose.threed.utilities.VertexDeclaration-bytes-list-bool}
+## from_raw_data {#aspose.threed.utilities.VertexDeclaration-bytes-list-bool}
 
 Create TriMesh from raw data
 

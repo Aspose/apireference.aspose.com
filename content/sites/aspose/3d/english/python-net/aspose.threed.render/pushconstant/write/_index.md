@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/pushconstant/write/
 is_root: false
 ---
 
-## write(mat) {#aspose.threed.utilities.FMatrix4}
+## write {#aspose.threed.utilities.FMatrix4}
 
 Write the matrix to the constant
 
@@ -25,7 +25,7 @@ def write(self, mat):
 | mat | aspose.threed.utilities.FMatrix4 | The matrix to write |
 
 
-## write(n) {#int}
+## write {#int}
 
 Write a int value to the constant
 
@@ -42,7 +42,7 @@ def write(self, n):
 | n | int |  |
 
 
-## write(f) {#float}
+## write {#float}
 
 Write a float value to the constant
 
@@ -59,7 +59,7 @@ def write(self, f):
 | f | float |  |
 
 
-## write(vec) {#aspose.threed.utilities.FVector4}
+## write {#aspose.threed.utilities.FVector4}
 
 Write a 4-component vector to the constant
 
@@ -76,7 +76,7 @@ def write(self, vec):
 | vec | aspose.threed.utilities.FVector4 |  |
 
 
-## write(vec) {#aspose.threed.utilities.FVector3}
+## write {#aspose.threed.utilities.FVector3}
 
 Write a 3-component vector to the constant
 
@@ -93,7 +93,7 @@ def write(self, vec):
 | vec | aspose.threed.utilities.FVector3 |  |
 
 
-## write(x, y, z, w) {#float-float-float-float}
+## write {#float-float-float-float}
 
 Write a 4-component vector to the constant
 

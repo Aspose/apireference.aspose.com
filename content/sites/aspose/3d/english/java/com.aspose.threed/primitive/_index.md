@@ -3,7 +3,7 @@ title: Primitive
 second_title: Aspose.3D for Java API Reference
 description: Base class for all primitives
 type: docs
-weight: 123
+weight: 125
 url: /java/com.aspose.threed/primitive/
 ---
 

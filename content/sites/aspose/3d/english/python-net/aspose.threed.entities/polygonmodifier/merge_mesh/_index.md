@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/polygonmodifier/merge_mesh/
 is_root: false
 ---
 
-## merge_mesh(scene) {#Scene}
+## merge_mesh {#aspose.threed.Scene}
 
 Convert a whole scene to a single transformed mesh
 Vertex elements like normal/texture coordinates are not supported yet
@@ -31,7 +31,7 @@ def merge_mesh(self, scene):
 | scene | [`Scene`](/3d/python-net/aspose.threed/scene) | The scene to merge |
 
 
-## merge_mesh(nodes) {#list}
+## merge_mesh {#list}
 
 
 
@@ -48,7 +48,7 @@ def merge_mesh(self, nodes):
 | nodes | list |  |
 
 
-## merge_mesh(node) {#Node}
+## merge_mesh {#aspose.threed.Node}
 
 Convert a whole node to a single transformed mesh
 Vertex elements like normal/texture coordinates are not supported yet

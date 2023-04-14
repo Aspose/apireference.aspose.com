@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.deformers/bone/__init__/
 is_root: false
 ---
 
-## Bone() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Bone`](/3d/python-net/aspose.threed.deformers/bone) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Bone(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`Bone`](/3d/python-net/aspose.threed.deformers/bone) class.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/quaternion/conjugate/
 is_root: false
 ---
 
-## conjugate() {#}
+## conjugate {#}
 
 Returns a conjugate quaternion of current quaternion
 

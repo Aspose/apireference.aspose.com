@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementspecular/set_data/
 is_root: false
 ---
 
-## set_data(data) {#list}
+## set_data {#list}
 
 Load data
 

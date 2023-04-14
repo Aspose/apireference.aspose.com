@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/sweptareasolid/__init__/
 is_root: false
 ---
 
-## SweptAreaSolid() {#}
+## __init__ {#}
 
 Initialize an SceneObject.
 

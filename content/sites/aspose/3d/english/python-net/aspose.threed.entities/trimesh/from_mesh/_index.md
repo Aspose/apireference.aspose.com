@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimesh/from_mesh/
 is_root: false
 ---
 
-## from_mesh(declaration, mesh) {#aspose.threed.utilities.VertexDeclaration-Mesh}
+## from_mesh {#aspose.threed.utilities.VertexDeclaration-aspose.threed.entities.Mesh}
 
 Create a TriMesh from given mesh object with given vertex layout.
 
@@ -31,7 +31,7 @@ def from_mesh(self, declaration, mesh):
 | mesh | [`Mesh`](/3d/python-net/aspose.threed.entities/mesh) |  |
 
 
-## from_mesh(mesh, use_float) {#Mesh-bool}
+## from_mesh {#aspose.threed.entities.Mesh-bool}
 
 Create a TriMesh from given mesh object, the vertex declaration are based on the input mesh's structure.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.deformers/morphtargetchannel/__init__/
 is_root: false
 ---
 
-## MorphTargetChannel() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## MorphTargetChannel(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`MorphTargetChannel`](/3d/python-net/aspose.threed.deformers/morphtargetchannel) class.
 

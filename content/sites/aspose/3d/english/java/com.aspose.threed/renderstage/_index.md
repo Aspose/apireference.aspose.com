@@ -3,7 +3,7 @@ title: RenderStage
 second_title: Aspose.3D for Java API Reference
 description: The render stage
 type: docs
-weight: 268
+weight: 276
 url: /java/com.aspose.threed/renderstage/
 ---
 

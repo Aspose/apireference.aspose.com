@@ -28,6 +28,7 @@ public class U3dSaveOptions : SaveOptions
 | [Encoding](../../aspose.threed.formats/ioconfig/encoding) { get; set; } | Gets or sets the default encoding for text-based files. Default value is null which means the importer/exporter will decide which encoding to use. |
 | [ExportNormals](../../aspose.threed.formats/u3dsaveoptions/exportnormals) { get; set; } | Gets or sets whether to export normal data. |
 | [ExportTextureCoordinates](../../aspose.threed.formats/u3dsaveoptions/exporttexturecoordinates) { get; set; } | Gets or sets whether to export texture coordinates. |
+| [ExportTextures](../../aspose.threed.formats/saveoptions/exporttextures) { get; set; } | Try to copy textures used in scene to output directory. |
 | [ExportVertexDiffuse](../../aspose.threed.formats/u3dsaveoptions/exportvertexdiffuse) { get; set; } | Gets or sets whether to export vertex's diffuse color. |
 | [ExportVertexSpecular](../../aspose.threed.formats/u3dsaveoptions/exportvertexspecular) { get; set; } | Gets or sets whether to export vertex' specular color. |
 | [FileFormat](../../aspose.threed.formats/ioconfig/fileformat) { get; } | Gets the file format that specified in current Save/Load option. |

@@ -3,7 +3,7 @@ title: PlySaveOptions
 second_title: Aspose.3D for Java API Reference
 description: Save options for exporting scene as PLY file.
 type: docs
-weight: 117
+weight: 119
 url: /java/com.aspose.threed/plysaveoptions/
 ---
 
@@ -28,6 +28,7 @@ Save options for exporting scene as PLY file.
 | [getClass()](#getClass--) |  |
 | [getColorComponents()](#getColorComponents--) | The component names for vertex color, default value is ("red", "green", "blue") |
 | [getEncoding()](#getEncoding--) | Gets the default encoding for text-based files. |
+| [getExportTextures()](#getExportTextures--) | Try to copy textures used in scene to output directory. |
 | [getFaceElement()](#getFaceElement--) | The element name for the face data, default value is "face" |
 | [getFaceProperty()](#getFaceProperty--) | The property name for the face data, default value is "vertex\_index" |
 | [getFileFormat()](#getFileFormat--) | Gets the file format that specified in current Save/Load option. |
@@ -46,6 +47,7 @@ Save options for exporting scene as PLY file.
 | [notifyAll()](#notifyAll--) |  |
 | [setColorComponents(Tuple_3<String,String,String> value)](#setColorComponents-com.aspose.csporter.helpers.Tuple-3-java.lang.String-java.lang.String-java.lang.String--) | The component names for vertex color, default value is ("red", "green", "blue") |
 | [setEncoding(Charset value)](#setEncoding-java.nio.charset.Charset-) | Sets the default encoding for text-based files. |
+| [setExportTextures(boolean value)](#setExportTextures-boolean-) | Try to copy textures used in scene to output directory. |
 | [setFaceElement(String value)](#setFaceElement-java.lang.String-) | The element name for the face data, default value is "face" |
 | [setFaceProperty(String value)](#setFaceProperty-java.lang.String-) | The property name for the face data, default value is "vertex\_index" |
 | [setFileName(String value)](#setFileName-java.lang.String-) | The file name of the exporting/importing scene. |
@@ -128,6 +130,16 @@ Gets the default encoding for text-based files. Default value is null which mean
 
 **Returns:**
 java.nio.charset.Charset
+### getExportTextures() {#getExportTextures--}
+```
+public boolean getExportTextures()
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Returns:**
+boolean
 ### getFaceElement() {#getFaceElement--}
 ```
 public String getFaceElement()
@@ -309,6 +321,19 @@ Sets the default encoding for text-based files. Default value is null which mean
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.nio.charset.Charset | New value |
+
+### setExportTextures(boolean value) {#setExportTextures-boolean-}
+```
+public void setExportTextures(boolean value)
+```
+
+
+Try to copy textures used in scene to output directory.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | New value |
 
 ### setFaceElement(String value) {#setFaceElement-java.lang.String-}
 ```

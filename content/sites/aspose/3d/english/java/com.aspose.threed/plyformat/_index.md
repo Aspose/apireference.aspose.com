@@ -3,7 +3,7 @@ title: PlyFormat
 second_title: Aspose.3D for Java API Reference
 description: The PLY format.
 type: docs
-weight: 115
+weight: 117
 url: /java/com.aspose.threed/plyformat/
 ---
 

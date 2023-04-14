@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/discreet3dsloadoptions/__init__/
 is_root: false
 ---
 
-## Discreet3dsLoadOptions() {#}
+## __init__ {#}
 
 Constructor of [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions)
 

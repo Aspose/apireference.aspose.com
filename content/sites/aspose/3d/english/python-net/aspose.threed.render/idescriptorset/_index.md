@@ -19,7 +19,7 @@ The IDescriptorSet type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [begin_update()](/3d/python-net/aspose.threed.render/idescriptorset/begin_update/#) | Begin to update the descriptor set |
+| [begin_update](/3d/python-net/aspose.threed.render/idescriptorset/begin_update/#) | Begin to update the descriptor set |
 
 
 

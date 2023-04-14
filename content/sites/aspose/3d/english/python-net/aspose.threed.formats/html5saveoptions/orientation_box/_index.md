@@ -3,7 +3,7 @@ title: orientation_box property
 second_title: Aspose.3D for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.threed.formats/html5saveoptions/orientation_box/
 is_root: false
 ---

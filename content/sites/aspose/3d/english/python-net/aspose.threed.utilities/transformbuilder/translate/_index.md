@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/transformbuilder/translate/
 is_root: false
 ---
 
-## translate(v) {#Vector3}
+## translate {#aspose.threed.utilities.Vector3}
 
 Chain a translation transform
 
@@ -37,7 +37,7 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 
-## translate(tx, ty, tz) {#float-float-float}
+## translate {#float-float-float}
 
 Chain a translation transform
 

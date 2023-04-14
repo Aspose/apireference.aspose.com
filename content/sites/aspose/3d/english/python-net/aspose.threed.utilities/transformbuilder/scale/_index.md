@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/transformbuilder/scale/
 is_root: false
 ---
 
-## scale(s) {#float}
+## scale {#float}
 
 Chain a scaling transform matrix with a component scaled by s
 
@@ -37,7 +37,7 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 
-## scale(s) {#Vector3}
+## scale {#aspose.threed.utilities.Vector3}
 
 Chain a scale transform
 
@@ -66,7 +66,7 @@ print(f"Transform Matrix: {tb.matrix}")
 ```
 
 
-## scale(x, y, z) {#float-float-float}
+## scale {#float-float-float}
 
 Chain a scaling transform matrix
 

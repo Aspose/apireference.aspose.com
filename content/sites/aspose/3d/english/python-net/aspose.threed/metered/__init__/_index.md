@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/metered/__init__/
 is_root: false
 ---
 
-## Metered() {#}
+## __init__ {#}
 
 Initializes a new instance of this class.
 

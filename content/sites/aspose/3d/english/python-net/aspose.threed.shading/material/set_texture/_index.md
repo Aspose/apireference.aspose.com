@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/material/set_texture/
 is_root: false
 ---
 
-## set_texture(slot_name, texture) {#str-TextureBase}
+## set_texture {#str-aspose.threed.shading.TextureBase}
 
 Sets the texture to specified slot
 

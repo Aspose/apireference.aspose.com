@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/animationnode/__init__/
 is_root: false
 ---
 
-## AnimationNode() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## AnimationNode(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`AnimationNode`](/3d/python-net/aspose.threed.animation/animationnode) class.
 

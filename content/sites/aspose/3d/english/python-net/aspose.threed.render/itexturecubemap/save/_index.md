@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/itexturecubemap/save/
 is_root: false
 ---
 
-## save(side, bitmap) {#CubeFace-aspose.pydrawing.Bitmap}
+## save {#aspose.threed.render.CubeFace-aspose.threed.render.TextureData}
 
 Save the specified side to memory
 
@@ -23,7 +23,7 @@ def save(self, side, bitmap):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | side | [`CubeFace`](/3d/python-net/aspose.threed.render/cubeface) |  |
-| bitmap | aspose.pydrawing.Bitmap |  |
+| bitmap | [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) |  |
 
 
 

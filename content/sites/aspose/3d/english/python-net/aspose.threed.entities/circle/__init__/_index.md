@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/circle/__init__/
 is_root: false
 ---
 
-## Circle() {#}
+## __init__ {#}
 
 Constructor of [`Circle`](/3d/python-net/aspose.threed.entities/circle)
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Circle(radius) {#float}
+## __init__ {#float}
 
 Constructor of [`Circle`](/3d/python-net/aspose.threed.entities/circle)
 

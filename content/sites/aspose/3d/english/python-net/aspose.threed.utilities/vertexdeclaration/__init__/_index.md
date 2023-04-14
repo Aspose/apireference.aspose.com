@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/vertexdeclaration/__init__/
 is_root: false
 ---
 
-## VertexDeclaration() {#}
+## __init__ {#}
 
 Constructs a new instance of VertexDeclaration
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.animation/keyframesequence/__init__/
 is_root: false
 ---
 
-## KeyframeSequence() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## KeyframeSequence(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`KeyframeSequence`](/3d/python-net/aspose.threed.animation/keyframesequence) class.
 

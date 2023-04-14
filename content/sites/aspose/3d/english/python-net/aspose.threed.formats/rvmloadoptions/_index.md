@@ -25,8 +25,8 @@ The RvmLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [RvmLoadOptions(content_type)](/3d/python-net/aspose.threed.formats/rvmloadoptions/__init__/#FileContentType) | Construct a [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance |
-| [RvmLoadOptions()](/3d/python-net/aspose.threed.formats/rvmloadoptions/__init__/#) | Construct a [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance |
+| [__init__](/3d/python-net/aspose.threed.formats/rvmloadoptions/__init__/#aspose.threed.FileContentType) | Construct a [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance |
+| [__init__](/3d/python-net/aspose.threed.formats/rvmloadoptions/__init__/#) | Construct a [`RvmLoadOptions`](/3d/python-net/aspose.threed.formats/rvmloadoptions) instance |
 
 
 ### Properties

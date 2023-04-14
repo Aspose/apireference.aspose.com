@@ -25,7 +25,7 @@ The VertexElementWeight type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [VertexElementWeight()](/3d/python-net/aspose.threed.entities/vertexelementweight/__init__/#) | Initializes a new instance of the [`VertexElementWeight`](/3d/python-net/aspose.threed.entities/vertexelementweight) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/vertexelementweight/__init__/#) | Initializes a new instance of the [`VertexElementWeight`](/3d/python-net/aspose.threed.entities/vertexelementweight) class. |
 
 
 ### Properties
@@ -41,10 +41,10 @@ The VertexElementWeight type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_indices(data)](/3d/python-net/aspose.threed.entities/vertexelementweight/set_indices/#list) | Load indices |
-| [clear()](/3d/python-net/aspose.threed.entities/vertexelementweight/clear/#) | Removes all elements from the direct and the index arrays. |
-| [copy_to(target)](/3d/python-net/aspose.threed.entities/vertexelementweight/copy_to/#VertexElementDoublesTemplate) | Copies data to specified element |
-| [set_data(data)](/3d/python-net/aspose.threed.entities/vertexelementweight/set_data/#list) | Load data |
+| [set_indices](/3d/python-net/aspose.threed.entities/vertexelementweight/set_indices/#list) | Load indices |
+| [clear](/3d/python-net/aspose.threed.entities/vertexelementweight/clear/#) | Removes all elements from the direct and the index arrays. |
+| [copy_to](/3d/python-net/aspose.threed.entities/vertexelementweight/copy_to/#aspose.threed.entities.VertexElementDoublesTemplate) | Copies data to specified element |
+| [set_data](/3d/python-net/aspose.threed.entities/vertexelementweight/set_data/#list) | Load data |
 
 
 

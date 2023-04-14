@@ -19,9 +19,9 @@ The FVector2 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FVector2(x, y)](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#float-float) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
-| [FVector2(vec)](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#Vector2) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
-| [FVector2()](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#) | Constructs a new instance of FVector2 |
+| [__init__](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#float-float) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
+| [__init__](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#aspose.threed.utilities.Vector2) | Initializes a new instance of the [`FVector2`](/3d/python-net/aspose.threed.utilities/fvector2). |
+| [__init__](/3d/python-net/aspose.threed.utilities/fvector2/__init__/#) | Constructs a new instance of FVector2 |
 
 
 ### Properties
@@ -34,7 +34,7 @@ The FVector2 type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals(rhs)](/3d/python-net/aspose.threed.utilities/fvector2/equals/#FVector2) | Check if two vectors are equal |
+| [equals](/3d/python-net/aspose.threed.utilities/fvector2/equals/#aspose.threed.utilities.FVector2) | Check if two vectors are equal |
 
 
 

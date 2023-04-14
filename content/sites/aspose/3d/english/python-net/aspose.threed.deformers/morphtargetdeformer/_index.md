@@ -28,8 +28,8 @@ The MorphTargetDeformer type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [MorphTargetDeformer(name)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/__init__/#str) | Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class. |
-| [MorphTargetDeformer()](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/__init__/#) | Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class. |
+| [__init__](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/__init__/#str) | Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class. |
+| [__init__](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/__init__/#) | Initializes a new instance of the [`MorphTargetDeformer`](/3d/python-net/aspose.threed.deformers/morphtargetdeformer) class. |
 
 
 ### Properties
@@ -44,11 +44,11 @@ The MorphTargetDeformer type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [remove_property](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.deformers/morphtargetdeformer/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
 
 
 

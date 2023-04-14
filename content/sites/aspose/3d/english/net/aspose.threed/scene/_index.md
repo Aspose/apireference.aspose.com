@@ -3,7 +3,7 @@ title: Scene
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2250
+weight: 2310
 url: /net/aspose.threed/scene/
 ---
 ## Scene class
@@ -64,11 +64,11 @@ public class Scene : SceneObject
 | [Open](../../aspose.threed/scene/open)(string, LoadOptions, CancellationToken) | Opens the scene from given path using specified file format. |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(Property) | Removes a dynamic property. |
 | [RemoveProperty](../../aspose.threed/a3dobject/removeproperty)(string) | Remove the specified property identified by name |
-| [Render](../../aspose.threed/scene/render)(Camera, Bitmap) | Render the scene into bitmap from given camera's perspective. |
 | [Render](../../aspose.threed/scene/render)(Camera, string) | Render the scene into external file from given camera's perspective. The default output size is 1024x768 and output format is png |
-| [Render](../../aspose.threed/scene/render)(Camera, Bitmap, ImageRenderOptions) | Render the scene into bitmap from given camera's perspective. |
-| [Render](../../aspose.threed/scene/render)(Camera, string, Size, ImageFormat) | Render the scene into external file from given camera's perspective. |
-| [Render](../../aspose.threed/scene/render)(Camera, string, Size, ImageFormat, ImageRenderOptions) | Render the scene into external file from given camera's perspective. |
+| [Render](../../aspose.threed/scene/render)(Camera, TextureData) | Render the scene into bitmap from given camera's perspective. |
+| [Render](../../aspose.threed/scene/render)(Camera, TextureData, ImageRenderOptions) | Render the scene into bitmap from given camera's perspective. |
+| [Render](../../aspose.threed/scene/render)(Camera, string, Vector2, string) | Render the scene into external file from given camera's perspective. |
+| [Render](../../aspose.threed/scene/render)(Camera, string, Vector2, string, ImageRenderOptions) | Render the scene into external file from given camera's perspective. |
 | [Save](../../aspose.threed/scene/save)(string) | Saves the scene to specified path using specified file format. |
 | [Save](../../aspose.threed/scene/save)(Stream, FileFormat) | Saves the scene to stream using specified file format. |
 | [Save](../../aspose.threed/scene/save)(Stream, SaveOptions) | Saves the scene to stream using specified file format. |

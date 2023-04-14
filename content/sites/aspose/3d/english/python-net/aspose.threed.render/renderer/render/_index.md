@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderer/render/
 is_root: false
 ---
 
-## render(render_target) {#IRenderTarget}
+## render {#aspose.threed.render.IRenderTarget}
 
 Render the specified target
 

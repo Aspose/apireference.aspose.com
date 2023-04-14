@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/customobject/__init__/
 is_root: false
 ---
 
-## CustomObject() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## CustomObject(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`CustomObject`](/3d/python-net/aspose.threed/customobject) class.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementvertexcolor/copy_to/
 is_root: false
 ---
 
-## copy_to(target) {#VertexElementVector4}
+## copy_to {#aspose.threed.entities.VertexElementVector4}
 
 Copies data to specified element
 

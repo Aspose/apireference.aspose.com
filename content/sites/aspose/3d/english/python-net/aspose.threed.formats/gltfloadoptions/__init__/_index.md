@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/gltfloadoptions/__init__/
 is_root: false
 ---
 
-## GltfLoadOptions() {#}
+## __init__ {#}
 
 Constructor of [`GltfLoadOptions`](/3d/python-net/aspose.threed.formats/gltfloadoptions)
 

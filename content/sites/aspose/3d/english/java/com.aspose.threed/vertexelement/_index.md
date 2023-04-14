@@ -3,7 +3,7 @@ title: VertexElement
 second_title: Aspose.3D for Java API Reference
 description: Base class of vertex elements.
 type: docs
-weight: 186
+weight: 190
 url: /java/com.aspose.threed/vertexelement/
 ---
 

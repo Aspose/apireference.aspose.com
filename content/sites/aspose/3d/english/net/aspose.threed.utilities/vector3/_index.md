@@ -3,7 +3,7 @@ title: Vector3
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2650
+weight: 2720
 url: /net/aspose.threed.utilities/vector3/
 ---
 ## Vector3 structure
@@ -18,7 +18,6 @@ public struct Vector3 : IComparable<Vector3>
 
 | Name | Description |
 | --- | --- |
-| [Vector3](vector3)(Color) | Initializes a new instance of the [`Vector3`](../vector3) struct. |
 | [Vector3](vector3)(double) | Initializes a new instance of the [`Vector3`](../vector3) struct. |
 | [Vector3](vector3)(FVector3) | Initializes a new instance of the [`Vector3`](../vector3) struct. |
 | [Vector3](vector3)(Vector4) | Initializes a new instance of the [`Vector3`](../vector3) struct. |

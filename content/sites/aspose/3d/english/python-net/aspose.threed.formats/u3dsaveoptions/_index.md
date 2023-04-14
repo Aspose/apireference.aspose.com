@@ -25,7 +25,7 @@ The U3dSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [U3dSaveOptions()](/3d/python-net/aspose.threed.formats/u3dsaveoptions/__init__/#) | Constructor of [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/u3dsaveoptions/__init__/#) | Constructor of [`U3dSaveOptions`](/3d/python-net/aspose.threed.formats/u3dsaveoptions) |
 
 
 ### Properties
@@ -36,6 +36,7 @@ The U3dSaveOptions type exposes the following members:
 | [file_system](/3d/python-net/aspose.threed.formats/u3dsaveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/u3dsaveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [file_name](/3d/python-net/aspose.threed.formats/u3dsaveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
+| [export_textures](/3d/python-net/aspose.threed.formats/u3dsaveoptions/export_textures) | Try to copy textures used in scene to output directory. |
 | [flip_coordinate_system](/3d/python-net/aspose.threed.formats/u3dsaveoptions/flip_coordinate_system) | Gets or sets whether flip coordinate system of control points/normal during importing/exporting. |
 | [mesh_compression](/3d/python-net/aspose.threed.formats/u3dsaveoptions/mesh_compression) | Gets or sets whether to enable mesh data compression. |
 | [export_normals](/3d/python-net/aspose.threed.formats/u3dsaveoptions/export_normals) | Gets or sets whether to export normal data. |

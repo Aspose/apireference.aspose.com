@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/vertexelementsmoothinggroup/__init__/
 is_root: false
 ---
 
-## VertexElementSmoothingGroup() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`VertexElementSmoothingGroup`](/3d/python-net/aspose.threed.entities/vertexelementsmoothinggroup) class.
 

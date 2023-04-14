@@ -19,10 +19,10 @@ The FVector3 type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FVector3(x, y, z)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#float-float-float) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
-| [FVector3(vec)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#Vector3) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
-| [FVector3(vec)](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#Vector4) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
-| [FVector3()](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#) | Constructs a new instance of FVector3 |
+| [__init__](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#float-float-float) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
+| [__init__](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#aspose.threed.utilities.Vector3) | Initializes a new instance of the [`FVector3`](/3d/python-net/aspose.threed.utilities/fvector3). |
+| [__init__](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#aspose.threed.utilities.Vector4) | Initializes a new instance of the [`FVector4`](/3d/python-net/aspose.threed.utilities/fvector4). |
+| [__init__](/3d/python-net/aspose.threed.utilities/fvector3/__init__/#) | Constructs a new instance of FVector3 |
 
 
 ### Properties
@@ -38,8 +38,8 @@ The FVector3 type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [normalize()](/3d/python-net/aspose.threed.utilities/fvector3/normalize/#) | Normalizes this instance. |
-| [cross(rhs)](/3d/python-net/aspose.threed.utilities/fvector3/cross/#FVector3) | Cross product of two vectors |
+| [normalize](/3d/python-net/aspose.threed.utilities/fvector3/normalize/#) | Normalizes this instance. |
+| [cross](/3d/python-net/aspose.threed.utilities/fvector3/cross/#aspose.threed.utilities.FVector3) | Cross product of two vectors |
 
 
 

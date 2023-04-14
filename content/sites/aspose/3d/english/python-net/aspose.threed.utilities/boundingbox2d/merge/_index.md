@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/boundingbox2d/merge/
 is_root: false
 ---
 
-## merge(pt) {#Vector2}
+## merge {#aspose.threed.utilities.Vector2}
 
 Merges the new box into the current bounding box.
 
@@ -25,7 +25,7 @@ def merge(self, pt):
 | pt | [`Vector2`](/3d/python-net/aspose.threed.utilities/vector2) |  |
 
 
-## merge(bb) {#BoundingBox2D}
+## merge {#aspose.threed.utilities.BoundingBox2D}
 
 Merges the new box into the current bounding box.
 

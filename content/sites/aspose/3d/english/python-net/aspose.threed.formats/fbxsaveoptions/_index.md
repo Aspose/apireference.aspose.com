@@ -25,8 +25,8 @@ The FbxSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FbxSaveOptions(format)](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#FileFormat) | Initializes a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) |
-| [FbxSaveOptions(content_type)](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#FileContentType) | Initialize a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) using latest supported version. |
+| [__init__](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#aspose.threed.FileFormat) | Initializes a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/fbxsaveoptions/__init__/#aspose.threed.FileContentType) | Initialize a [`FbxSaveOptions`](/3d/python-net/aspose.threed.formats/fbxsaveoptions) using latest supported version. |
 
 
 ### Properties
@@ -37,6 +37,7 @@ The FbxSaveOptions type exposes the following members:
 | [file_system](/3d/python-net/aspose.threed.formats/fbxsaveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/fbxsaveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [file_name](/3d/python-net/aspose.threed.formats/fbxsaveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
+| [export_textures](/3d/python-net/aspose.threed.formats/fbxsaveoptions/export_textures) | Try to copy textures used in scene to output directory. |
 | [reuse_primitive_mesh](/3d/python-net/aspose.threed.formats/fbxsaveoptions/reuse_primitive_mesh) | Reuse the mesh for the primitives with same parameters, this will significantly reduce the size of FBX output which scene was constructed by large set of primitive shapes(like imported from CAD files).<br/>Default value is false |
 | [enable_compression](/3d/python-net/aspose.threed.formats/fbxsaveoptions/enable_compression) | Compression large binary data in the FBX file(e.g. animation data, control points, vertex element data, indices), default value is true. |
 | [fold_repeated_curve_data](/3d/python-net/aspose.threed.formats/fbxsaveoptions/fold_repeated_curve_data) | Gets or sets whether reuse repeated curve data by increasing last data's ref count |

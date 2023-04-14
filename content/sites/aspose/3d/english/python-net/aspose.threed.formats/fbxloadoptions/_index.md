@@ -25,8 +25,8 @@ The FbxLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [FbxLoadOptions(format)](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#FileFormat) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
-| [FbxLoadOptions()](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#aspose.threed.FileFormat) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/fbxloadoptions/__init__/#) | Constructor of [`FbxLoadOptions`](/3d/python-net/aspose.threed.formats/fbxloadoptions) |
 
 
 ### Properties

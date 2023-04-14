@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/trimmedcurve/__init__/
 is_root: false
 ---
 
-## TrimmedCurve() {#}
+## __init__ {#}
 
 Constructor of [`TrimmedCurve`](/3d/python-net/aspose.threed.entities/trimmedcurve)
 

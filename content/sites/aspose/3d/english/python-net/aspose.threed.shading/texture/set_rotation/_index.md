@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/texture/set_rotation/
 is_root: false
 ---
 
-## set_rotation(u, v) {#float-float}
+## set_rotation {#float-float}
 
 Sets the UV rotation.
 

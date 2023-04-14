@@ -27,10 +27,10 @@ The Torus type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Torus()](/3d/python-net/aspose.threed.entities/torus/__init__/#) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
-| [Torus(radius, tube)](/3d/python-net/aspose.threed.entities/torus/__init__/#float-float) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
-| [Torus(radius, tube, arc)](/3d/python-net/aspose.threed.entities/torus/__init__/#float-float-float) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
-| [Torus(name, radius, tube, radial_segments, tubular_segments, arc)](/3d/python-net/aspose.threed.entities/torus/__init__/#str-float-float-int-int-float) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/torus/__init__/#) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/torus/__init__/#float-float) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/torus/__init__/#float-float-float) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
+| [__init__](/3d/python-net/aspose.threed.entities/torus/__init__/#str-float-float-int-int-float) | Initializes a new instance of the [`Torus`](/3d/python-net/aspose.threed.entities/torus) class. |
 
 
 ### Properties
@@ -54,14 +54,14 @@ The Torus type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/torus/remove_property/#Property) | Removes a dynamic property. |
-| [remove_property(property)](/3d/python-net/aspose.threed.entities/torus/remove_property/#str) | Remove the specified property identified by name |
-| [get_property(property)](/3d/python-net/aspose.threed.entities/torus/get_property/#str) | Get the value of specified property |
-| [set_property(property, value)](/3d/python-net/aspose.threed.entities/torus/set_property/#str-any) | Sets the value of specified property |
-| [find_property(property_name)](/3d/python-net/aspose.threed.entities/torus/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
-| [get_bounding_box()](/3d/python-net/aspose.threed.entities/torus/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
-| [get_entity_renderer_key()](/3d/python-net/aspose.threed.entities/torus/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
-| [to_mesh()](/3d/python-net/aspose.threed.entities/torus/to_mesh/#) | Convert current object to mesh |
+| [remove_property](/3d/python-net/aspose.threed.entities/torus/remove_property/#aspose.threed.Property) | Removes a dynamic property. |
+| [remove_property](/3d/python-net/aspose.threed.entities/torus/remove_property/#str) | Remove the specified property identified by name |
+| [get_property](/3d/python-net/aspose.threed.entities/torus/get_property/#str) | Get the value of specified property |
+| [set_property](/3d/python-net/aspose.threed.entities/torus/set_property/#str-any) | Sets the value of specified property |
+| [find_property](/3d/python-net/aspose.threed.entities/torus/find_property/#str) | Finds the property.<br/>It can be a dynamic property (Created by CreateDynamicProperty/SetProperty) <br/>or native property(Identified by its name) |
+| [get_bounding_box](/3d/python-net/aspose.threed.entities/torus/get_bounding_box/#) | Gets the bounding box of current entity in its object space coordinate system. |
+| [get_entity_renderer_key](/3d/python-net/aspose.threed.entities/torus/get_entity_renderer_key/#) | Gets the key of the entity renderer registered in the renderer |
+| [to_mesh](/3d/python-net/aspose.threed.entities/torus/to_mesh/#) | Convert current object to mesh |
 
 
 

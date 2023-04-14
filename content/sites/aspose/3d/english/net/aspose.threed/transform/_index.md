@@ -3,7 +3,7 @@ title: Transform
 second_title: Aspose.3D for .NET API Reference
 description: 
 type: docs
-weight: 2400
+weight: 2460
 url: /net/aspose.threed/transform/
 ---
 ## Transform class

@@ -19,12 +19,12 @@ The DescriptorSetUpdater type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [bind(buffer, offset, size)](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#IBuffer-int-int) | Bind the buffer to current descriptor set |
-| [bind(buffer)](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#IBuffer) | Bind the entire buffer to current descriptor |
-| [bind(binding, buffer)](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#int-IBuffer) | Bind the buffer to current descriptor set at specified binding location. |
-| [bind(binding, buffer, offset, size)](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#int-IBuffer-int-int) | Bind the buffer to current descriptor set at specified binding location. |
-| [bind(texture)](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#ITextureUnit) | Bind the texture unit to current descriptor set |
-| [bind(binding, texture)](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#int-ITextureUnit) | Bind the texture unit to current descriptor set |
+| [bind](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#aspose.threed.render.IBuffer-int-int) | Bind the buffer to current descriptor set |
+| [bind](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#aspose.threed.render.IBuffer) | Bind the entire buffer to current descriptor |
+| [bind](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#int-aspose.threed.render.IBuffer) | Bind the buffer to current descriptor set at specified binding location. |
+| [bind](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#int-aspose.threed.render.IBuffer-int-int) | Bind the buffer to current descriptor set at specified binding location. |
+| [bind](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#aspose.threed.render.ITextureUnit) | Bind the texture unit to current descriptor set |
+| [bind](/3d/python-net/aspose.threed.render/descriptorsetupdater/bind/#int-aspose.threed.render.ITextureUnit) | Bind the texture unit to current descriptor set |
 
 
 

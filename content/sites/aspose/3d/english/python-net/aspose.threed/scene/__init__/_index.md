@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/scene/__init__/
 is_root: false
 ---
 
-## Scene() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## Scene(entity) {#Entity}
+## __init__ {#aspose.threed.Entity}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class with an entity attached to a new node.
 
@@ -52,10 +52,10 @@ scene = Scene(Box())
 ```
 
 
-## Scene(file_name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class and open the file immediately.
-This is an obsoleted constructor, please use [`Scene.from_file(file_name)`](/3d/python-net/aspose.threed/scene/from_file).
+This is an obsoleted constructor, please use [`Scene.from_file`](/3d/python-net/aspose.threed/scene/from_file).
 
 
 
@@ -70,7 +70,7 @@ def __init__(self, file_name):
 | file_name | str | File's name to open. |
 
 
-## Scene(parent_scene, name) {#Scene-str}
+## __init__ {#aspose.threed.Scene-str}
 
 Initializes a new instance of the [`Scene`](/3d/python-net/aspose.threed/scene) class as a sub-scene.
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/plyloadoptions/__init__/
 is_root: false
 ---
 
-## PlyLoadOptions() {#}
+## __init__ {#}
 
 Constructor of [`PlyLoadOptions`](/3d/python-net/aspose.threed.formats/plyloadoptions)
 

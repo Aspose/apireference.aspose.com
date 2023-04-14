@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.formats/gltfsaveoptions/__init__/
 is_root: false
 ---
 
-## GltfSaveOptions(content_type) {#FileContentType}
+## __init__ {#aspose.threed.FileContentType}
 
 Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
 
@@ -25,7 +25,7 @@ def __init__(self, content_type):
 | content_type | [`FileContentType`](/3d/python-net/aspose.threed/filecontenttype) |  |
 
 
-## GltfSaveOptions(format) {#FileFormat}
+## __init__ {#aspose.threed.FileFormat}
 
 Constructor of [`GltfSaveOptions`](/3d/python-net/aspose.threed.formats/gltfsaveoptions)
 

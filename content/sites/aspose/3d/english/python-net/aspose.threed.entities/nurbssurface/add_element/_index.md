@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/nurbssurface/add_element/
 is_root: false
 ---
 
-## add_element(element) {#VertexElement}
+## add_element {#aspose.threed.entities.VertexElement}
 
 Adds an existing vertex element to current geometry
 

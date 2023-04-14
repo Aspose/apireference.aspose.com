@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderfactory/create_index_buffer/
 is_root: false
 ---
 
-## create_index_buffer() {#}
+## create_index_buffer {#}
 
 Create an [`IIndexBuffer`](/3d/python-net/aspose.threed.render/iindexbuffer) instance to store polygon's face information.
 

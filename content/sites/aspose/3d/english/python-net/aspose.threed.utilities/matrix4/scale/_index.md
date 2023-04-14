@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/matrix4/scale/
 is_root: false
 ---
 
-## scale(s) {#Vector3}
+## scale {#aspose.threed.utilities.Vector3}
 
 Creates a matrix that scales along the x-axis, the y-axis and the z-axis.
 
@@ -44,7 +44,7 @@ print(f"Transformed: {t * pos}")
 ```
 
 
-## scale(s) {#float}
+## scale {#float}
 
 Creates a matrix that scales along the x-axis, the y-axis and the z-axis.
 
@@ -66,7 +66,7 @@ def scale(self, s):
 | s | float | Scaling factories applies to all axex |
 
 
-## scale(sx, sy, sz) {#float-float-float}
+## scale {#float-float-float}
 
 Creates a matrix that scales along the x-axis, the y-axis and the z-axis.
 

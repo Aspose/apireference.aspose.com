@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/nurbssurface/get_vertex_element_of_uv/
 is_root: false
 ---
 
-## get_vertex_element_of_uv(texture_mapping) {#TextureMapping}
+## get_vertex_element_of_uv {#aspose.threed.entities.TextureMapping}
 
 Gets a [`VertexElementUV`](/3d/python-net/aspose.threed.entities/vertexelementuv) instance with given texture mapping type
 

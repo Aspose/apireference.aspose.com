@@ -25,7 +25,7 @@ The Discreet3dsLoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [Discreet3dsLoadOptions()](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions/__init__/#) | Constructor of [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions) |
+| [__init__](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions/__init__/#) | Constructor of [`Discreet3dsLoadOptions`](/3d/python-net/aspose.threed.formats/discreet3dsloadoptions) |
 
 
 ### Properties

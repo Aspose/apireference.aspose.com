@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/metered/get_consumption_credit/
 is_root: false
 ---
 
-## get_consumption_credit() {#}
+## get_consumption_credit {#}
 
 Gets consumption credit
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/geometry/get_element/
 is_root: false
 ---
 
-## get_element(type) {#VertexElementType}
+## get_element {#aspose.threed.entities.VertexElementType}
 
 Gets a vertex element with specified type
 

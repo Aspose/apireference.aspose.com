@@ -3,7 +3,7 @@ title: NurbsCurve
 second_title: Aspose.3D for Java API Reference
 description: NURBS curve is a curve represented by NURBSNon-uniform rational basis spline A NURBS curve is defined by its  a set of weighted  and a  The w component in control point is used as control points weight whatever it is a  or
 type: docs
-weight: 99
+weight: 100
 url: /java/com.aspose.threed/nurbscurve/
 ---
 

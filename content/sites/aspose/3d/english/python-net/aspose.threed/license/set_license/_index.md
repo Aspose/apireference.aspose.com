@@ -8,7 +8,7 @@ url: /python-net/aspose.threed/license/set_license/
 is_root: false
 ---
 
-## set_license(license_name) {#str}
+## set_license {#str}
 
 Licenses the component.
 
@@ -39,7 +39,7 @@ Can be a full or short file name.
 Use an empty string to switch to evaluation mode.
 
 
-## set_license(stream) {#io.RawIOBase}
+## set_license {#io.RawIOBase}
 
 Licenses the component.
 

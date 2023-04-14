@@ -29,6 +29,7 @@ The SaveOptions type exposes the following members:
 | [file_system](/3d/python-net/aspose.threed.formats/saveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/saveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [file_name](/3d/python-net/aspose.threed.formats/saveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
+| [export_textures](/3d/python-net/aspose.threed.formats/saveoptions/export_textures) | Try to copy textures used in scene to output directory. |
 
 
 

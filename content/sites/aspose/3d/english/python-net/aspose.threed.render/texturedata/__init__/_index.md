@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/texturedata/__init__/
 is_root: false
 ---
 
-## TextureData() {#}
+## __init__ {#}
 
 Constructor of [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)
 
@@ -22,14 +22,14 @@ def __init__(self):
 
 
 
-## TextureData(width, height, stride, bytes_per_pixel, pixel_format, data) {#int-int-int-int-aspose.pydrawing.imaging.PixelFormat-bytes}
+## __init__ {#int-int-aspose.threed.render.PixelFormat}
 
-Constructor of [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)
+Constructs a new [`TextureData`](/3d/python-net/aspose.threed.render/texturedata) and allocate pixel data.
 
 
 
 ```python
-def __init__(self, width, height, stride, bytes_per_pixel, pixel_format, data):
+def __init__(self, width, height, pixel_format):
     ...
 ```
 
@@ -38,13 +38,10 @@ def __init__(self, width, height, stride, bytes_per_pixel, pixel_format, data):
 | :- | :- | :- |
 | width | int |  |
 | height | int |  |
-| stride | int |  |
-| bytes_per_pixel | int |  |
-| pixel_format | aspose.pydrawing.imaging.PixelFormat |  |
-| data | bytes |  |
+| pixel_format | [`PixelFormat`](/3d/python-net/aspose.threed.render/pixelformat) |  |
 
 
-## TextureData(width, height, stride, bytes_per_pixel, pixel_format, data) {#int-int-int-int-PixelFormat-bytes}
+## __init__ {#int-int-int-int-aspose.threed.render.PixelFormat-bytes}
 
 Constructor of [`TextureData`](/3d/python-net/aspose.threed.render/texturedata)
 

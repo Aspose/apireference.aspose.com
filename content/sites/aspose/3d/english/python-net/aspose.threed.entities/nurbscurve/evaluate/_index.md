@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.entities/nurbscurve/evaluate/
 is_root: false
 ---
 
-## evaluate(steps) {#int}
+## evaluate {#int}
 
 Evaluate the NURBS curve
 

@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.shading/lambertmaterial/__init__/
 is_root: false
 ---
 
-## LambertMaterial() {#}
+## __init__ {#}
 
 Initializes a new instance of the [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial) class.
 
@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## LambertMaterial(name) {#str}
+## __init__ {#str}
 
 Initializes a new instance of the [`LambertMaterial`](/3d/python-net/aspose.threed.shading/lambertmaterial) class.
 

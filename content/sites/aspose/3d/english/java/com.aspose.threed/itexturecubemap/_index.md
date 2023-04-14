@@ -3,7 +3,7 @@ title: ITextureCubemap
 second_title: Aspose.3D for Java API Reference
 description: Cube map texture
 type: docs
-weight: 231
+weight: 236
 url: /java/com.aspose.threed/itexturecubemap/
 ---
 
@@ -21,10 +21,10 @@ Cube map texture
 | [load(CubeFace face, TextureData data)](#load-com.aspose.threed.CubeFace-com.aspose.threed.TextureData-) | Load the data into specified face |
 | [load(CubeFaceData<TextureData> data)](#load-com.aspose.threed.CubeFaceData-com.aspose.threed.TextureData--) | Load texture content from specified [TextureData](../../com.aspose.threed/texturedata) |
 | [loadFromFiles(CubeFaceData<String> fileNames)](#loadFromFiles-com.aspose.threed.CubeFaceData-java.lang.String--) | Load texture content from specified files |
-| [save(CubeFace side, BufferedImage bitmap)](#save-com.aspose.threed.CubeFace-java.awt.image.BufferedImage-) | Save the specified side to memory |
-| [save(CubeFaceData<BufferedImage> bitmap)](#save-com.aspose.threed.CubeFaceData-java.awt.image.BufferedImage--) | Save the texture content to memory. |
+| [save(CubeFace side, TextureData bitmap)](#save-com.aspose.threed.CubeFace-com.aspose.threed.TextureData-) | Save the specified side to memory |
+| [save(CubeFaceData<TextureData> bitmap)](#save-com.aspose.threed.CubeFaceData-com.aspose.threed.TextureData--) | Save the texture content to memory. |
 | [save(CubeFaceData<String> path, String format)](#save-com.aspose.threed.CubeFaceData-java.lang.String--java.lang.String-) | Save the cube's sides texture content to external files. |
-| [toBitmap(CubeFace side)](#toBitmap-com.aspose.threed.CubeFace-) | Convert the texture unit to java.awt.image.BufferedImage instance |
+| [toBitmap(CubeFace side)](#toBitmap-com.aspose.threed.CubeFace-) | Convert the texture unit to [TextureData](../../com.aspose.threed/texturedata) instance |
 ### load(CubeFace face, TextureData data) {#load-com.aspose.threed.CubeFace-com.aspose.threed.TextureData-}
 ```
 public abstract void load(CubeFace face, TextureData data)
@@ -65,9 +65,9 @@ Load texture content from specified files
 | --- | --- | --- |
 | fileNames | com.aspose.threed.CubeFaceData<java.lang.String> |  |
 
-### save(CubeFace side, BufferedImage bitmap) {#save-com.aspose.threed.CubeFace-java.awt.image.BufferedImage-}
+### save(CubeFace side, TextureData bitmap) {#save-com.aspose.threed.CubeFace-com.aspose.threed.TextureData-}
 ```
-public abstract void save(CubeFace side, BufferedImage bitmap)
+public abstract void save(CubeFace side, TextureData bitmap)
 ```
 
 
@@ -77,11 +77,11 @@ Save the specified side to memory
 | Parameter | Type | Description |
 | --- | --- | --- |
 | side | [CubeFace](../../com.aspose.threed/cubeface) |  |
-| bitmap | java.awt.image.BufferedImage |  |
+| bitmap | [TextureData](../../com.aspose.threed/texturedata) |  |
 
-### save(CubeFaceData<BufferedImage> bitmap) {#save-com.aspose.threed.CubeFaceData-java.awt.image.BufferedImage--}
+### save(CubeFaceData<TextureData> bitmap) {#save-com.aspose.threed.CubeFaceData-com.aspose.threed.TextureData--}
 ```
-public abstract void save(CubeFaceData<BufferedImage> bitmap)
+public abstract void save(CubeFaceData<TextureData> bitmap)
 ```
 
 
@@ -90,7 +90,7 @@ Save the texture content to memory.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bitmap | com.aspose.threed.CubeFaceData<java.awt.image.BufferedImage> | Result bitmap to save. |
+| bitmap | com.aspose.threed.CubeFaceData<com.aspose.threed.TextureData> | Result bitmap to save. |
 
 ### save(CubeFaceData<String> path, String format) {#save-com.aspose.threed.CubeFaceData-java.lang.String--java.lang.String-}
 ```
@@ -108,11 +108,11 @@ Save the cube's sides texture content to external files.
 
 ### toBitmap(CubeFace side) {#toBitmap-com.aspose.threed.CubeFace-}
 ```
-public abstract BufferedImage toBitmap(CubeFace side)
+public abstract TextureData toBitmap(CubeFace side)
 ```
 
 
-Convert the texture unit to java.awt.image.BufferedImage instance
+Convert the texture unit to [TextureData](../../com.aspose.threed/texturedata) instance
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -120,4 +120,4 @@ Convert the texture unit to java.awt.image.BufferedImage instance
 | side | [CubeFace](../../com.aspose.threed/cubeface) |  |
 
 **Returns:**
-java.awt.image.BufferedImage
+[TextureData](../../com.aspose.threed/texturedata)

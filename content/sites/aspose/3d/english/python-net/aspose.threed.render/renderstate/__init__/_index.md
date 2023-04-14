@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/renderstate/__init__/
 is_root: false
 ---
 
-## RenderState() {#}
+## __init__ {#}
 
 Constructor of [`RenderState`](/3d/python-net/aspose.threed.render/renderstate)
 

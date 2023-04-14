@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/shaderexception/__init__/
 is_root: false
 ---
 
-## ShaderException(message) {#str}
+## __init__ {#str}
 
 Constructor of [`ShaderException`](/3d/python-net/aspose.threed.render/shaderexception)
 

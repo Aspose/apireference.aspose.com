@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.utilities/semanticattribute/__init__/
 is_root: false
 ---
 
-## SemanticAttribute(semantic) {#VertexFieldSemantic}
+## __init__ {#aspose.threed.utilities.VertexFieldSemantic}
 
 Initialize a [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute)
 
@@ -25,7 +25,7 @@ def __init__(self, semantic):
 | semantic | [`VertexFieldSemantic`](/3d/python-net/aspose.threed.utilities/vertexfieldsemantic) | The semantic of the struct's field. |
 
 
-## SemanticAttribute(semantic, alias) {#VertexFieldSemantic-str}
+## __init__ {#aspose.threed.utilities.VertexFieldSemantic-str}
 
 Initialize a [`SemanticAttribute`](/3d/python-net/aspose.threed.utilities/semanticattribute)
 

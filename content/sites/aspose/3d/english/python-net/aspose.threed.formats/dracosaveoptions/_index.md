@@ -25,7 +25,7 @@ The DracoSaveOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [DracoSaveOptions()](/3d/python-net/aspose.threed.formats/dracosaveoptions/__init__/#) | Construct a default configuration for saving draco files. |
+| [__init__](/3d/python-net/aspose.threed.formats/dracosaveoptions/__init__/#) | Construct a default configuration for saving draco files. |
 
 
 ### Properties
@@ -36,6 +36,7 @@ The DracoSaveOptions type exposes the following members:
 | [file_system](/3d/python-net/aspose.threed.formats/dracosaveoptions/file_system) | Allow user to handle how to manage the external dependencies during load/save. |
 | [lookup_paths](/3d/python-net/aspose.threed.formats/dracosaveoptions/lookup_paths) | Some files like OBJ depends on external file, the lookup paths will allows Aspose.3D to look for external file to load. |
 | [file_name](/3d/python-net/aspose.threed.formats/dracosaveoptions/file_name) | The file name of the exporting/importing scene.<br/>This is optional, but useful when serialize external assets like OBJ's material. |
+| [export_textures](/3d/python-net/aspose.threed.formats/dracosaveoptions/export_textures) | Try to copy textures used in scene to output directory. |
 | [position_bits](/3d/python-net/aspose.threed.formats/dracosaveoptions/position_bits) | Quantization bits for position, default value is 14 |
 | [texture_coordinate_bits](/3d/python-net/aspose.threed.formats/dracosaveoptions/texture_coordinate_bits) | Quantization bits for texture coordinate, default value is 12 |
 | [color_bits](/3d/python-net/aspose.threed.formats/dracosaveoptions/color_bits) | Quantization bits for vertex color, default value is 10 |

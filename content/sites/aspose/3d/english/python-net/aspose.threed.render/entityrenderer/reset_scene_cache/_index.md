@@ -8,7 +8,7 @@ url: /python-net/aspose.threed.render/entityrenderer/reset_scene_cache/
 is_root: false
 ---
 
-## reset_scene_cache() {#}
+## reset_scene_cache {#}
 
 The scene has changed or removed, need to dispose scene-level render resources in this
 
