@@ -13,6 +13,7 @@ rewrite /(words|slides)/cpp/class/(.*)\.(.*)_(.*)_(.*)_(.*) https://reference.as
 rewrite /(words|slides)/cpp/class/(.*)\.(.*)_(.*)_(.*) https://reference.aspose.com/$1/cpp/$2/$3$4$5 permanent;
 rewrite /(words|slides)/cpp/class/(.*)\.(.*)_(.*) https://reference.aspose.com/$1/cpp/$2/$3$4 permanent;
 rewrite /(words|slides)/cpp/class/(.*)\.(.*) https://reference.aspose.com/$1/cpp/$2/$3 permanent;
+rewrite /(.*)index.html https://reference.aspose.com/$1 permanent;
 rewrite /(.*)/index/?$ https://reference.aspose.com/$1/ permanent;
 rewrite /pdf/net/aspose.pdf.facades.pdffileeditor/(pagebreak|contentsresizeparameters|contentsresizevalue|corrupteditem)(.*) https://reference.aspose.com/pdf/net/aspose.pdf.facades/pdffileeditor.$1$2 permanent;
 rewrite /pdf/net/aspose.pdf.facades/pdffileeditor.(pagebreak|contentsresizeparameters|contentsresizevalue|corrupteditem)/constructors(.*) https://reference.aspose.com/pdf/net/aspose.pdf.facades/pdffileeditor.$1/$1/ permanent; 
