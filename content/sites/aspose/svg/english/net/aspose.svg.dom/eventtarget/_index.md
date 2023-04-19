@@ -1,14 +1,14 @@
 ---
-title: EventTarget
+title: EventTarget Class
 second_title: Aspose.SVG for .NET API Reference
-description: The EventTarget./eventtarget/ interface is implemented by all Nodes in an implementation which supports the DOM Event Model. Therefore this interface can be obtained by using binding-specific casting methods on an instance of the Node interface. The interface allows registration and removal of Event Listeners on an EventTarget./eventtarget/ and dispatch of events to that IEventTarget../aspose.svg.dom.events/ieventtarget/.
+description: Aspose.Svg.Dom.EventTarget class. The EventTarget interface is implemented by all Nodes in an implementation which supports the DOM Event Model. Therefore this interface can be obtained by using binding-specific casting methods on an instance of the Node interface. The interface allows registration and removal of Event Listeners on an EventTarget and dispatch of events to that IEventTarget
 type: docs
 weight: 870
 url: /net/aspose.svg.dom/eventtarget/
 ---
 ## EventTarget class
 
-The [`EventTarget`](./eventtarget/) interface is implemented by all Nodes in an implementation which supports the DOM Event Model. Therefore, this interface can be obtained by using binding-specific casting methods on an instance of the Node interface. The interface allows registration and removal of Event Listeners on an [`EventTarget`](./eventtarget/) and dispatch of events to that [`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/).
+The `EventTarget` interface is implemented by all Nodes in an implementation which supports the DOM Event Model. Therefore, this interface can be obtained by using binding-specific casting methods on an instance of the Node interface. The interface allows registration and removal of Event Listeners on an `EventTarget` and dispatch of events to that [`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/).
 
 ```csharp
 public class EventTarget : DOMObject, IDisposable, IEventTarget
@@ -24,9 +24,9 @@ public class EventTarget : DOMObject, IDisposable, IEventTarget
 | [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | This method allows the dispatch of events into the implementations event model. |
 | [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_1)(string, IEventListener) | This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) is removed from an [`EventTarget`](./eventtarget/) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener)(string, DOMEventHandler, bool) | This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) is removed from an [`EventTarget`](./eventtarget/) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_2)(string, IEventListener, bool) | This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) is removed from an [`EventTarget`](./eventtarget/) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_1)(string, IEventListener) | This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) is removed from an `EventTarget` while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener)(string, DOMEventHandler, bool) | This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) is removed from an `EventTarget` while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_2)(string, IEventListener, bool) | This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) is removed from an `EventTarget` while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
 
 ### See Also
 
@@ -34,5 +34,3 @@ public class EventTarget : DOMObject, IDisposable, IEventTarget
 * interface [IEventTarget](../../aspose.svg.dom.events/ieventtarget/)
 * namespace [Aspose.Svg.Dom](../../aspose.svg.dom/)
 * assembly [Aspose.SVG](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
