@@ -1,7 +1,7 @@
 ---
-title: ImageDevice
+title: ImageDevice Class
 second_title: Aspose.SVG for .NET API Reference
-description: Represents rendering to raster formats jpeg png bmp gif tiff.
+description: Aspose.Svg.Rendering.Image.ImageDevice class. Represents rendering to raster formats jpeg png bmp gif tiff
 type: docs
 weight: 2830
 url: /net/aspose.svg.rendering.image/imagedevice/
@@ -18,20 +18,20 @@ public class ImageDevice : Device<ImageGraphicContext, ImageRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [ImageDevice](imagedevice#constructor)(ICreateStreamProvider) | Initializes a new instance of the [`ImageDevice`](./imagedevice/) class. |
-| [ImageDevice](imagedevice#constructor_4)(Stream) | Initializes a new instance of the [`ImageDevice`](./imagedevice/) class. |
-| [ImageDevice](imagedevice#constructor_5)(string) | Initializes a new instance of the [`ImageDevice`](./imagedevice/) class. |
-| [ImageDevice](imagedevice#constructor_1)(ImageRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`ImageDevice`](./imagedevice/) class by rendering options and stream provider. |
-| [ImageDevice](imagedevice#constructor_2)(ImageRenderingOptions, Stream) | Initializes a new instance of the [`ImageDevice`](./imagedevice/) class by rendering options and output stream. |
-| [ImageDevice](imagedevice#constructor_3)(ImageRenderingOptions, string) | Initializes a new instance of the [`ImageDevice`](./imagedevice/) class by rendering options and output file name. |
+| [ImageDevice](imagedevice/#constructor)(ICreateStreamProvider) | Initializes a new instance of the `ImageDevice` class. |
+| [ImageDevice](imagedevice/#constructor_4)(Stream) | Initializes a new instance of the `ImageDevice` class. |
+| [ImageDevice](imagedevice/#constructor_5)(string) | Initializes a new instance of the `ImageDevice` class. |
+| [ImageDevice](imagedevice/#constructor_1)(ImageRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the `ImageDevice` class by rendering options and stream provider. |
+| [ImageDevice](imagedevice/#constructor_2)(ImageRenderingOptions, Stream) | Initializes a new instance of the `ImageDevice` class by rendering options and output stream. |
+| [ImageDevice](imagedevice/#constructor_3)(ImageRenderingOptions, string) | Initializes a new instance of the `ImageDevice` class by rendering options and output file name. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphicContext](../../aspose.svg.rendering/device`2/graphiccontext/) { get; } |  |
+| [GraphicContext](../../aspose.svg.rendering/device-2/graphiccontext/) { get; } |  |
 | virtual [Graphics](../../aspose.svg.rendering.image/imagedevice/graphics/) { get; } | Gets the instance of Graphics. |
-| [Options](../../aspose.svg.rendering/device`2/options/) { get; } |  |
+| [Options](../../aspose.svg.rendering/device-2/options/) { get; } |  |
 
 ## Methods
 
@@ -44,7 +44,7 @@ public class ImageDevice : Device<ImageGraphicContext, ImageRenderingOptions>
 | override [Clip](../../aspose.svg.rendering.image/imagedevice/clip/)(FillMode) | Modifies the current clipping path by intersecting it with the current path, using the FillMode rule to determine the region to fill. This method terminates current path. |
 | override [ClosePath](../../aspose.svg.rendering.image/imagedevice/closepath/)() | Closes the current subpath by appending a straight line segment from the current point to the starting point of the subpath. If the current subpath is already closed, "ClosePath" does nothing. This operator terminates the current subpath. Appending another segment to the current path begins a new subpath, even if the new segment begins at the endpoint reached by the "ClosePath" method. |
 | override [CubicBezierTo](../../aspose.svg.rendering.image/imagedevice/cubicbezierto/)(PointF, PointF, PointF) | Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2, using pt1 and pt2 as the Bézier control points. The new current point is pt3. |
-| [Dispose](../../aspose.svg.rendering/device`2/dispose/)() |  |
+| [Dispose](../../aspose.svg.rendering/device-2/dispose/)() |  |
 | override [DrawImage](../../aspose.svg.rendering.image/imagedevice/drawimage/)(byte[], ImageType, RectangleF) | Draws the specified image. |
 | override [EndDocument](../../aspose.svg.rendering.image/imagedevice/enddocument/)() | Ends rendering of the document. |
 | override [EndElement](../../aspose.svg.rendering.image/imagedevice/endelement/)(Element) | Ends rendering of the element. |
@@ -64,7 +64,7 @@ public class ImageDevice : Device<ImageGraphicContext, ImageRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| class [ImageGraphicContext](../../aspose.svg.rendering.image/imagedevice.imagegraphiccontext) | Holds current graphics control parameters for the [`ImageDevice`](./imagedevice/). These parameters define the global framework within which the graphics operators execute. |
+| class [ImageGraphicContext](../../aspose.svg.rendering.image/imagedevice.imagegraphiccontext) | Holds current graphics control parameters for the `ImageDevice`. These parameters define the global framework within which the graphics operators execute. |
 
 ### See Also
 
@@ -73,5 +73,3 @@ public class ImageDevice : Device<ImageGraphicContext, ImageRenderingOptions>
 * class [ImageRenderingOptions](../imagerenderingoptions/)
 * namespace [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
 * assembly [Aspose.SVG](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
