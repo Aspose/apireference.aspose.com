@@ -1,14 +1,14 @@
 ---
-title: Render
+title: Renderer1.Render
 second_title: Referencia de API de Aspose.SVG para .NET
-description: Define el método para renderizarTDocumenten especificadoIDeviceaspose.svg.rendering/idevice .
+description: Renderer método. Define el método para renderizarTDocument en especificadoIDevice .
 type: docs
 weight: 10
 url: /es/net/aspose.svg.rendering/renderer-1/render/
 ---
-## Render(IDevice, TDocument) {#render_2}
+## Render(IDevice, TDocument) {#render_3}
 
-Define el método para renderizar!:TDocumenten especificado[`IDevice`](../../idevice) .
+Define el método para renderizar!:TDocument en especificado[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document)
@@ -21,16 +21,16 @@ public void Render(IDevice device, TDocument document)
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, TimeSpan) {#render_4}
+## Render(IDevice, TDocument, TimeSpan) {#render_5}
 
-Define el método para renderizar!:TDocumenten especificado[`IDevice`](../../idevice) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
+Define el método para renderizar!:TDocument en especificado[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
@@ -44,16 +44,16 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, int) {#render_3}
+## Render(IDevice, TDocument, int) {#render_4}
 
-Define el método para renderizar!:TDocumenten especificado[`IDevice`](../../idevice) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
+Define el método para renderizar!:TDocument en especificado[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
@@ -67,16 +67,16 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, params TDocument[]) {#render_5}
+## Render(IDevice, params TDocument[]) {#render_6}
 
-Define el método para renderizar múltiples!:TDocument s en específico[`IDevice`](../../idevice) .
+Define el método para renderizar múltiples!:TDocument s en específico[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -89,16 +89,16 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
 
 ## Render(IDevice, int, params TDocument[]) {#render}
 
-Define el método para renderizar múltiples!:TDocument s en específico[`IDevice`](../../idevice) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
+Define el método para renderizar múltiples!:TDocument s en específico[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -112,16 +112,16 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
+## Render(IDevice, TimeSpan, params TDocument[]) {#render_2}
 
-Define el método para renderizar múltiples!:TDocument s en específico[`IDevice`](../../idevice) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
+Define el método para renderizar múltiples!:TDocument s en específico[`IDevice`](../../idevice/) .
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
@@ -135,9 +135,33 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1/)
 * asamblea [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+---
+
+## Render(IDevice, CancellationToken, params TDocument[]) {#render_1}
+
+Define un método para renderizar múltiples!:TDocument s en un específico[`IDevice`](../../idevice/) , utilizando un token de cancelación para solicitar la cancelación de la operación.
+
+```csharp
+public abstract void Render(IDevice device, CancellationToken cancellationToken, 
+    params TDocument[] documents)
+```
+
+| Parámetro | Escribe | Descripción |
+| --- | --- | --- |
+| device | IDevice | El dispositivo de salida. |
+| cancellationToken | CancellationToken | ACancellationToken para observar mientras espera que se complete la tarea. |
+| documents | TDocument[] | Los documentos a rendir. |
+
+### Ver también
+
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* espacio de nombres [Aspose.Svg.Rendering](../../renderer-1/)
+* asamblea [Aspose.SVG](../../../)
+
+

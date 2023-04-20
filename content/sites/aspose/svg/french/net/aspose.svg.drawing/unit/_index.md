@@ -1,7 +1,7 @@
 ---
-title: Unit
+title: Class Unit
 second_title: Référence de l'API Aspose.SVG pour .NET
-description: Fournit la classe de base pour les unités de mesure.
+description: Aspose.Svg.Drawing.Unit classe. Fournit la classe de base pour les unités de mesure.
 type: docs
 weight: 1600
 url: /fr/net/aspose.svg.drawing/unit/
@@ -18,38 +18,38 @@ public abstract class Unit : IEquatable<Unit>
 
 | Nom | La description |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype) { get; } | Obtient le type d'unité du[`Unit`](../unit) . |
+| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | Obtient le type d'unité du`Unit` . |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unit/equals#equals_1)(object) | Détermine si la valeur spécifiéeObject , est égal à cette instance. |
-| virtual [Equals](../../aspose.svg.drawing/unit/equals#equals)(Unit) | Détermine si la valeur spécifiée[`Unit`](../unit) , est égal à cette instance. |
-| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode)() | Renvoie un code de hachage pour cette instance. |
-| override [ToString](../../aspose.svg.drawing/unit/tostring)() | Renvoie unString qui représente cette instance. |
-| static [FromCentimeters](../../aspose.svg.drawing/unit/fromcentimeters)(double) | Renvoie un[`Length`](../length) objet représenté en centimètres. |
-| static [FromDegrees](../../aspose.svg.drawing/unit/fromdegrees)(double) | Renvoie un[`Angle`](../angle) objet qui est représenté en degrés. |
-| static [FromDotsPerCentimeters](../../aspose.svg.drawing/unit/fromdotspercentimeters)(double) | Renvoie un[`Resolution`](../resolution) objet qui est représenté en points par centimètres. |
-| static [FromDotsPerInch](../../aspose.svg.drawing/unit/fromdotsperinch)(double) | Renvoie un[`Resolution`](../resolution) objet qui est représenté en points par pouce. |
-| static [FromDotsPerPixel](../../aspose.svg.drawing/unit/fromdotsperpixel)(double) | Renvoie un[`Resolution`](../resolution) objet qui est représenté en points par pixels. |
-| static [FromGradians](../../aspose.svg.drawing/unit/fromgradians)(double) | Renvoie un[`Angle`](../angle)objet représenté en grades. |
-| static [FromHertz](../../aspose.svg.drawing/unit/fromhertz)(double) | Renvoie un[`Frequency`](../frequency) objet représenté en hertz. |
-| static [FromInches](../../aspose.svg.drawing/unit/frominches)(double) | Renvoie un[`Length`](../length) objet qui est représenté en pouces. |
-| static [FromKiloHertz](../../aspose.svg.drawing/unit/fromkilohertz)(double) | Renvoie un[`Frequency`](../frequency) objet qui est représenté en kiloHertz. |
-| static [FromMillimeters](../../aspose.svg.drawing/unit/frommillimeters)(double) | Renvoie un[`Length`](../length) objet représenté en millimètres. |
-| static [FromMilliseconds](../../aspose.svg.drawing/unit/frommilliseconds)(double) | Renvoie un[`Time`](../time) objet représenté en millisecondes. |
-| static [FromPicas](../../aspose.svg.drawing/unit/frompicas)(double) | Renvoie un[`Length`](../length) objet représenté en picas. |
-| static [FromPixels](../../aspose.svg.drawing/unit/frompixels)(double) | Renvoie un[`Length`](../length) objet représenté en pixels. |
-| static [FromPoints](../../aspose.svg.drawing/unit/frompoints)(double) | Renvoie un[`Length`](../length) objet qui est représenté en points. |
-| static [FromQuarterMillimeters](../../aspose.svg.drawing/unit/fromquartermillimeters)(double) | Renvoie un[`Length`](../length) objet représenté en quart de millimètre. |
-| static [FromRadians](../../aspose.svg.drawing/unit/fromradians)(double) | Renvoie un[`Angle`](../angle) objet représenté en radians. |
-| static [FromSeconds](../../aspose.svg.drawing/unit/fromseconds)(double) | Renvoie un[`Time`](../time) objet représenté en secondes. |
-| static [FromTurns](../../aspose.svg.drawing/unit/fromturns)(double) | Renvoie un[`Angle`](../angle) objet qui est représenté à tour de rôle. |
+| override [Equals](../../aspose.svg.drawing/unit/equals/#equals_1)(object) | Détermine si la valeur spécifiéeObject , est égal à cette instance. |
+| virtual [Equals](../../aspose.svg.drawing/unit/equals/#equals)(Unit) | Détermine si la valeur spécifiée`Unit` , est égal à cette instance. |
+| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode/)() | Renvoie un code de hachage pour cette instance. |
+| override [ToString](../../aspose.svg.drawing/unit/tostring/)() | Renvoie unString qui représente cette instance. |
+| static [FromCentimeters](../../aspose.svg.drawing/unit/fromcentimeters/)(double) | Renvoie un[`Length`](../length/) objet représenté en centimètres. |
+| static [FromDegrees](../../aspose.svg.drawing/unit/fromdegrees/)(double) | Renvoie un[`Angle`](../angle/) objet qui est représenté en degrés. |
+| static [FromDotsPerCentimeters](../../aspose.svg.drawing/unit/fromdotspercentimeters/)(double) | Renvoie un[`Resolution`](../resolution/) objet qui est représenté en points par centimètres. |
+| static [FromDotsPerInch](../../aspose.svg.drawing/unit/fromdotsperinch/)(double) | Renvoie un[`Resolution`](../resolution/) objet qui est représenté en points par pouce. |
+| static [FromDotsPerPixel](../../aspose.svg.drawing/unit/fromdotsperpixel/)(double) | Renvoie un[`Resolution`](../resolution/) objet qui est représenté en points par pixels. |
+| static [FromGradians](../../aspose.svg.drawing/unit/fromgradians/)(double) | Renvoie un[`Angle`](../angle/)objet représenté en grades. |
+| static [FromHertz](../../aspose.svg.drawing/unit/fromhertz/)(double) | Renvoie un[`Frequency`](../frequency/) objet représenté en hertz. |
+| static [FromInches](../../aspose.svg.drawing/unit/frominches/)(double) | Renvoie un[`Length`](../length/) objet qui est représenté en pouces. |
+| static [FromKiloHertz](../../aspose.svg.drawing/unit/fromkilohertz/)(double) | Renvoie un[`Frequency`](../frequency/) objet qui est représenté en kiloHertz. |
+| static [FromMillimeters](../../aspose.svg.drawing/unit/frommillimeters/)(double) | Renvoie un[`Length`](../length/) objet représenté en millimètres. |
+| static [FromMilliseconds](../../aspose.svg.drawing/unit/frommilliseconds/)(double) | Renvoie un[`Time`](../time/) objet représenté en millisecondes. |
+| static [FromPicas](../../aspose.svg.drawing/unit/frompicas/)(double) | Renvoie un[`Length`](../length/) objet représenté en picas. |
+| static [FromPixels](../../aspose.svg.drawing/unit/frompixels/)(double) | Renvoie un[`Length`](../length/) objet représenté en pixels. |
+| static [FromPoints](../../aspose.svg.drawing/unit/frompoints/)(double) | Renvoie un[`Length`](../length/) objet qui est représenté en points. |
+| static [FromQuarterMillimeters](../../aspose.svg.drawing/unit/fromquartermillimeters/)(double) | Renvoie un[`Length`](../length/) objet représenté en quart de millimètre. |
+| static [FromRadians](../../aspose.svg.drawing/unit/fromradians/)(double) | Renvoie un[`Angle`](../angle/) objet représenté en radians. |
+| static [FromSeconds](../../aspose.svg.drawing/unit/fromseconds/)(double) | Renvoie un[`Time`](../time/) objet représenté en secondes. |
+| static [FromTurns](../../aspose.svg.drawing/unit/fromturns/)(double) | Renvoie un[`Angle`](../angle/) objet qui est représenté à tour de rôle. |
 
 ### Voir également
 
-* espace de noms [Aspose.Svg.Drawing](../../aspose.svg.drawing)
+* espace de noms [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
 * Assemblée [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

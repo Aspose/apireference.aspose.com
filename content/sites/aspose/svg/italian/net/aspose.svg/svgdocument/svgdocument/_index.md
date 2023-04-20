@@ -1,14 +1,14 @@
 ---
-title: SVGDocument
+title: SVGDocument.SVGDocument
 second_title: Riferimento API Aspose.SVG per .NET
-description: Inizializza una nuova istanza diSVGDocumentaspose.svg/svgdocument classe.
+description: SVGDocument costruttore. Inizializza una nuova istanza diSVGDocument classe.
 type: docs
 weight: 10
 url: /it/net/aspose.svg/svgdocument/svgdocument/
 ---
 ## SVGDocument() {#constructor}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument) classe.
+Inizializza una nuova istanza di[`SVGDocument`](../) classe.
 
 ```csharp
 public SVGDocument()
@@ -16,15 +16,15 @@ public SVGDocument()
 
 ### Guarda anche
 
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Configuration) {#constructor_1}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument) classe.
+Inizializza una nuova istanza di[`SVGDocument`](../) classe.
 
 ```csharp
 public SVGDocument(Configuration configuration)
@@ -36,16 +36,16 @@ public SVGDocument(Configuration configuration)
 
 ### Guarda anche
 
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string) {#constructor_10}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string address)
@@ -57,15 +57,15 @@ public SVGDocument(string address)
 
 ### Guarda anche
 
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Url) {#constructor_4}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(Url url)
@@ -77,16 +77,16 @@ public SVGDocument(Url url)
 
 ### Guarda anche
 
-* class [Url](../../url)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, Configuration) {#constructor_11}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string address, Configuration configuration)
@@ -99,16 +99,16 @@ public SVGDocument(string address, Configuration configuration)
 
 ### Guarda anche
 
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Url, Configuration) {#constructor_5}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(Url url, Configuration configuration)
@@ -121,17 +121,17 @@ public SVGDocument(Url url, Configuration configuration)
 
 ### Guarda anche
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Stream, string) {#constructor_8}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . Il caricamento del documento inizia dalla posizione corrente nello stream.
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Il caricamento del documento inizia dalla posizione corrente nello stream.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri)
@@ -146,19 +146,19 @@ public SVGDocument(Stream content, string baseUri)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | `baseUri` è`nullo`. |
+| ArgumentNullException | `baseUri` È`nullo`. |
 
 ### Guarda anche
 
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Stream, string, Configuration) {#constructor_9}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . Il caricamento del documento inizia dalla posizione corrente nello stream.
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Il caricamento del documento inizia dalla posizione corrente nello stream.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri, Configuration configuration)
@@ -174,20 +174,20 @@ public SVGDocument(Stream content, string baseUri, Configuration configuration)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | `baseUri` è`nullo`. |
+| ArgumentNullException | `baseUri` È`nullo`. |
 
 ### Guarda anche
 
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Stream, Url) {#constructor_6}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . Il caricamento del documento inizia dalla posizione corrente nello stream.
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Il caricamento del documento inizia dalla posizione corrente nello stream.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri)
@@ -202,20 +202,20 @@ public SVGDocument(Stream content, Url baseUri)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | `baseUri` è`nullo`. |
+| ArgumentNullException | `baseUri` È`nullo`. |
 
 ### Guarda anche
 
-* class [Url](../../url)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Stream, Url, Configuration) {#constructor_7}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . Il caricamento del documento inizia dalla posizione corrente nello stream.
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . Il caricamento del documento inizia dalla posizione corrente nello stream.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri, Configuration configuration)
@@ -231,21 +231,21 @@ public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | `baseUri` è`nullo`. |
+| ArgumentNullException | `baseUri` È`nullo`. |
 
 ### Guarda anche
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, string) {#constructor_14}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string content, string baseUri)
@@ -260,19 +260,19 @@ public SVGDocument(string content, string baseUri)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | `baseUri` è`nullo`. |
+| ArgumentNullException | `baseUri` È`nullo`. |
 
 ### Guarda anche
 
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, string, Configuration) {#constructor_15}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string content, string baseUri, Configuration configuration)
@@ -288,20 +288,20 @@ public SVGDocument(string content, string baseUri, Configuration configuration)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | `baseUri` è`nullo`. |
+| ArgumentNullException | `baseUri` È`nullo`. |
 
 ### Guarda anche
 
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, Url) {#constructor_12}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string content, Url baseUri)
@@ -316,20 +316,20 @@ public SVGDocument(string content, Url baseUri)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | `baseUri` è`nullo`. |
+| ArgumentNullException | `baseUri` È`nullo`. |
 
 ### Guarda anche
 
-* class [Url](../../url)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, Url, Configuration) {#constructor_13}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string content, Url baseUri, Configuration configuration)
@@ -345,21 +345,21 @@ public SVGDocument(string content, Url baseUri, Configuration configuration)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | `baseUri` è`nullo`. |
+| ArgumentNullException | `baseUri` È`nullo`. |
 
 ### Guarda anche
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(RequestMessage) {#constructor_2}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(RequestMessage request)
@@ -371,16 +371,16 @@ public SVGDocument(RequestMessage request)
 
 ### Guarda anche
 
-* class [RequestMessage](../../../aspose.svg.net/requestmessage)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [RequestMessage](../../../aspose.svg.net/requestmessage/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(RequestMessage, Configuration) {#constructor_3}
 
-Inizializza una nuova istanza di[`SVGDocument`](../../svgdocument)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono usa il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+Inizializza una nuova istanza di[`SVGDocument`](../)classe. Il costruttore funziona in modo sincrono, attende il caricamento di tutte le risorse esterne (immagini, script, ecc.). Per caricare il documento in modo asincrono utilizzare il metodo[`Navigate`](../../../aspose.svg.dom/document/navigate/) o i suoi sovraccarichi. Oppure puoi disabilitare il caricamento di alcune risorse esterne impostando i flag appropriati in[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(RequestMessage request, Configuration configuration)
@@ -393,10 +393,10 @@ public SVGDocument(RequestMessage request, Configuration configuration)
 
 ### Guarda anche
 
-* class [RequestMessage](../../../aspose.svg.net/requestmessage)
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* spazio dei nomi [Aspose.Svg](../../svgdocument)
+* class [RequestMessage](../../../aspose.svg.net/requestmessage/)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* spazio dei nomi [Aspose.Svg](../../svgdocument/)
 * assemblea [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

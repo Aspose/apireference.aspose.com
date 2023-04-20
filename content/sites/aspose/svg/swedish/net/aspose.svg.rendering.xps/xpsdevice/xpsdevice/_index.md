@@ -1,14 +1,14 @@
 ---
-title: XpsDevice
+title: XpsDevice.XpsDevice
 second_title: Aspose.SVG för .NET API Referens
-description: Initierar en ny instans avXpsDeviceaspose.svg.rendering.xps/xpsdevice class.
+description: XpsDevice byggare. Initierar en ny instans avXpsDevice class.
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 
-Initierar en ny instans av[`XpsDevice`](../../xpsdevice) class.
+Initierar en ny instans av[`XpsDevice`](../) class.
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 ### Se även
 
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Initierar en ny instans av[`XpsDevice`](../../xpsdevice) klass genom renderingsalternativ och strömleverantör.
+Initierar en ny instans av[`XpsDevice`](../) klass genom renderingsalternativ och strömleverantör.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | options | XpsRenderingOptions | Återgivningsalternativ. |
-| streamProvider | ICreateStreamProvider | Objekt som implementerar[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) gränssnitt |
+| streamProvider | ICreateStreamProvider | Objekt som implementerar[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) gränssnitt |
 
 ### Se även
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(string) {#constructor_5}
 
-Initierar en ny instans av[`XpsDevice`](../../xpsdevice) class.
+Initierar en ny instans av[`XpsDevice`](../) class.
 
 ```csharp
 public XpsDevice(string file)
@@ -64,15 +64,15 @@ public XpsDevice(string file)
 
 ### Se även
 
-* class [XpsDevice](../../xpsdevice)
-* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
-Initierar en ny instans av[`XpsDevice`](../../xpsdevice) klass genom att rendera alternativ och utdatafilnamn.
+Initierar en ny instans av[`XpsDevice`](../) klass genom att rendera alternativ och utdatafilnamn.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 ### Se även
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(Stream) {#constructor_4}
 
-Initierar en ny instans av[`XpsDevice`](../../xpsdevice) class.
+Initierar en ny instans av[`XpsDevice`](../) class.
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -106,15 +106,15 @@ public XpsDevice(Stream stream)
 
 ### Se även
 
-* class [XpsDevice](../../xpsdevice)
-* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
-Initierar en ny instans av[`XpsDevice`](../../xpsdevice) klass genom att rendera alternativ och utdataström.
+Initierar en ny instans av[`XpsDevice`](../) klass genom att rendera alternativ och utdataström.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 ### Se även
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* namnutrymme [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * hopsättning [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

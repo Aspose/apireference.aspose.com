@@ -1,14 +1,14 @@
 ---
-title: Render
+title: Renderer1.Render
 second_title: Aspose.SVG för .NET API Referens
-description: Definierar metod för renderingTDocumenttill specificeradeIDeviceaspose.svg.rendering/idevice .
+description: Renderer metod. Definierar metod för renderingTDocument till specificeradeIDevice .
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.rendering/renderer-1/render/
 ---
-## Render(IDevice, TDocument) {#render_2}
+## Render(IDevice, TDocument) {#render_3}
 
-Definierar metod för rendering!:TDocumenttill specificerade[`IDevice`](../../idevice) .
+Definierar metod för rendering!:TDocument till specificerade[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document)
@@ -21,16 +21,16 @@ public void Render(IDevice device, TDocument document)
 
 ### Se även
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namnutrymme [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namnutrymme [Aspose.Svg.Rendering](../../renderer-1/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, TimeSpan) {#render_4}
+## Render(IDevice, TDocument, TimeSpan) {#render_5}
 
-Definierar metod för rendering!:TDocumenttill specificerade[`IDevice`](../../idevice) . Renderingen kommer att utföras när det inte finns några nätverksoperationer för att ladda resurser, aktiva timers, animeringsuppgifter eller specificerad timeout har förflutit.
+Definierar metod för rendering!:TDocument till specificerade[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
@@ -44,16 +44,16 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ### Se även
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namnutrymme [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namnutrymme [Aspose.Svg.Rendering](../../renderer-1/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, int) {#render_3}
+## Render(IDevice, TDocument, int) {#render_4}
 
-Definierar metod för rendering!:TDocumenttill specificerade[`IDevice`](../../idevice) . Renderingen kommer att utföras när det inte finns några nätverksoperationer för att ladda resurser, aktiva timers, animeringsuppgifter eller specificerad timeout har förflutit.
+Definierar metod för rendering!:TDocument till specificerade[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
@@ -67,16 +67,16 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ### Se även
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namnutrymme [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namnutrymme [Aspose.Svg.Rendering](../../renderer-1/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, params TDocument[]) {#render_5}
+## Render(IDevice, params TDocument[]) {#render_6}
 
-Definierar metod för att rendera flera!:TDocument är i specifika[`IDevice`](../../idevice) .
+Definierar metod för att rendera flera!:TDocument är i specifika[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -89,16 +89,16 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ### Se även
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namnutrymme [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namnutrymme [Aspose.Svg.Rendering](../../renderer-1/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
 ## Render(IDevice, int, params TDocument[]) {#render}
 
-Definierar metod för att rendera flera!:TDocument är i specifika[`IDevice`](../../idevice) . Renderingen kommer att utföras när det inte finns några nätverksoperationer för att ladda resurser, aktiva timers, animeringsuppgifter eller specificerad timeout har förflutit.
+Definierar metod för att rendera flera!:TDocument är i specifika[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -112,16 +112,16 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ### Se även
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namnutrymme [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namnutrymme [Aspose.Svg.Rendering](../../renderer-1/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
+## Render(IDevice, TimeSpan, params TDocument[]) {#render_2}
 
-Definierar metod för att rendera flera!:TDocument är i specifika[`IDevice`](../../idevice) . Renderingen kommer att utföras när det inte finns några nätverksoperationer för att ladda resurser, aktiva timers, animeringsuppgifter eller specificerad timeout har förflutit.
+Definierar metod för att rendera flera!:TDocument är i specifika[`IDevice`](../../idevice/) .
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
@@ -135,9 +135,33 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 
 ### Se även
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* namnutrymme [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namnutrymme [Aspose.Svg.Rendering](../../renderer-1/)
 * hopsättning [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+---
+
+## Render(IDevice, CancellationToken, params TDocument[]) {#render_1}
+
+Definierar en metod för att rendera flera!:TDocument är i en specifik[`IDevice`](../../idevice/) , med hjälp av en avbokningstoken för att begära avbrytning av operationen.
+
+```csharp
+public abstract void Render(IDevice device, CancellationToken cancellationToken, 
+    params TDocument[] documents)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| device | IDevice | Utmatningsenheten. |
+| cancellationToken | CancellationToken | ACancellationToken att observera medan du väntar på att uppgiften ska slutföras. |
+| documents | TDocument[] | Dokumenten som ska återges. |
+
+### Se även
+
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namnutrymme [Aspose.Svg.Rendering](../../renderer-1/)
+* hopsättning [Aspose.SVG](../../../)
+
+

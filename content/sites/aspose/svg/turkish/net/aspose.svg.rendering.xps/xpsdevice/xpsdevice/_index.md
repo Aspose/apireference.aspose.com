@@ -1,14 +1,14 @@
 ---
-title: XpsDevice
+title: XpsDevice.XpsDevice
 second_title: Aspose.SVG for .NET API Referansı
-description: Yeni bir örneğini başlatırXpsDeviceaspose.svg.rendering.xps/xpsdevice sınıf.
+description: XpsDevice inşaatçı. Yeni bir örneğini başlatır.XpsDevice sınıf.
 type: docs
 weight: 10
 url: /tr/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 
-Yeni bir örneğini başlatır[`XpsDevice`](../../xpsdevice) sınıf.
+Yeni bir örneğini başlatır.[`XpsDevice`](../) sınıf.
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 ### Ayrıca bakınız
 
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Yeni bir örneğini başlatır[`XpsDevice`](../../xpsdevice) seçenekleri ve akış sağlayıcısını oluşturarak sınıf.
+Yeni bir örneğini başlatır.[`XpsDevice`](../) oluşturma seçeneklerine ve akış sağlayıcısına göre sınıf.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| options | XpsRenderingOptions | İşleme seçenekleri. |
-| streamProvider | ICreateStreamProvider | Uygulayan nesne[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) arayüz |
+| options | XpsRenderingOptions | Oluşturma seçenekleri. |
+| streamProvider | ICreateStreamProvider | uygulayan nesne[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) arayüz |
 
 ### Ayrıca bakınız
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(string) {#constructor_5}
 
-Yeni bir örneğini başlatır[`XpsDevice`](../../xpsdevice) sınıf.
+Yeni bir örneğini başlatır.[`XpsDevice`](../) sınıf.
 
 ```csharp
 public XpsDevice(string file)
@@ -64,15 +64,15 @@ public XpsDevice(string file)
 
 ### Ayrıca bakınız
 
-* class [XpsDevice](../../xpsdevice)
-* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
-Yeni bir örneğini başlatır[`XpsDevice`](../../xpsdevice) seçenekleri ve çıktı dosyası adını oluşturarak sınıf.
+Yeni bir örneğini başlatır.[`XpsDevice`](../) işleme seçeneklerine ve çıktı dosyası adına göre sınıf.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| options | XpsRenderingOptions | İşleme seçenekleri. |
+| options | XpsRenderingOptions | Oluşturma seçenekleri. |
 | file | String | Çıktı dosyası adı. |
 
 ### Ayrıca bakınız
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(Stream) {#constructor_4}
 
-Yeni bir örneğini başlatır[`XpsDevice`](../../xpsdevice) sınıf.
+Yeni bir örneğini başlatır.[`XpsDevice`](../) sınıf.
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -106,15 +106,15 @@ public XpsDevice(Stream stream)
 
 ### Ayrıca bakınız
 
-* class [XpsDevice](../../xpsdevice)
-* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
-Yeni bir örneğini başlatır[`XpsDevice`](../../xpsdevice) seçenekleri ve çıktı akışını oluşturarak sınıflandırın.
+Yeni bir örneğini başlatır.[`XpsDevice`](../) işleme seçeneklerine ve çıktı akışına göre sınıf.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -122,14 +122,14 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| options | XpsRenderingOptions | İşleme seçenekleri. |
+| options | XpsRenderingOptions | Oluşturma seçenekleri. |
 | stream | Stream | Çıkış akışı. |
 
 ### Ayrıca bakınız
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * toplantı [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

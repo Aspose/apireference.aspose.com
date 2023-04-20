@@ -1,14 +1,14 @@
 ---
-title: Save
+title: SVGDocument.Save
 second_title: Aspose.SVG for .NET API Referansı
-description: Belgeyi tarafından belirtilen yerel dosyaya kaydeder.url . Bu belgede kullanılan tüm kaynaklar adı şu şekilde oluşturulacak olan bitişik klasöre içinde kaydedilecektir output_file_name  _files.
+description: SVGDocument yöntem. Belgeyi tarafından belirtilen yerel dosyaya kaydeder.url . Bu belgede kullanılan tüm kaynaklar adı şu şekilde yapılandırılacak olan bitişik klasöre dosyasına kaydedilecektir output_file_name  _files.
 type: docs
 weight: 90
 url: /tr/net/aspose.svg/svgdocument/save/
 ---
 ## Save(Url) {#save_3}
 
-Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`url` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde oluşturulacak olan bitişik klasöre içinde kaydedilecektir: output_file_name + "_files".
+Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`url` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde yapılandırılacak olan bitişik klasöre dosyasına kaydedilecektir: output_file_name + "_files".
 
 ```csharp
 public void Save(Url url)
@@ -16,26 +16,26 @@ public void Save(Url url)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| url | Url | Çıktı dosyasına yerel URL. |
+| url | Url | Çıkış dosyası için yerel URL. |
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Belirtilen ise yükseltilmiş`url` geçerli bir yerel dosya URL'si değil. |
+| ArgumentException | Belirtilmişse yükseltilmiş`url` geçerli bir yerel dosya URL'si değil. |
 
 ### Ayrıca bakınız
 
-* class [Url](../../url)
-* class [SVGDocument](../../svgdocument)
-* ad alanı [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGDocument](../)
+* ad alanı [Aspose.Svg](../../svgdocument/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## Save(string) {#save_6}
 
-Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`yol` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde oluşturulacak olan bitişik klasöre içinde kaydedilecektir: output_file_name + "_files".
+Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`yol` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde yapılandırılacak olan bitişik klasöre dosyasına kaydedilecektir: output_file_name + "_files".
 
 ```csharp
 public void Save(string path)
@@ -49,12 +49,12 @@ public void Save(string path)
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Belirtilen ise yükseltilmiş`yol` geçerli bir yerel dosya yolu değil. |
+| ArgumentException | Belirtilmişse yükseltilmiş`yol` geçerli bir yerel dosya yolu değil. |
 
 ### Ayrıca bakınız
 
-* class [SVGDocument](../../svgdocument)
-* ad alanı [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* ad alanı [Aspose.Svg](../../svgdocument/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
@@ -69,20 +69,20 @@ public void Save(IOutputStorage outputStorage)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | çıkış depolama[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage). |
+| outputStorage | IOutputStorage | çıkış depolama[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
 
 ### Ayrıca bakınız
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage)
-* class [SVGDocument](../../svgdocument)
-* ad alanı [Aspose.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [SVGDocument](../)
+* ad alanı [Aspose.Svg](../../svgdocument/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## Save(string, SVGSaveFormat) {#save_7}
 
-Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`yol` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde oluşturulacak olan bitişik klasöre içinde kaydedilecektir: output_file_name + "_files".
+Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`yol` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde yapılandırılacak olan bitişik klasöre dosyasına kaydedilecektir: output_file_name + "_files".
 
 ```csharp
 public void Save(string path, SVGSaveFormat saveFormat)
@@ -97,13 +97,13 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Belirtilen ise yükseltilmiş`yol` geçerli bir yerel dosya yolu değil. |
+| ArgumentException | Belirtilmişse yükseltilmiş`yol` geçerli bir yerel dosya yolu değil. |
 
 ### Ayrıca bakınız
 
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* ad alanı [Aspose.Svg](../../svgdocument)
+* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* ad alanı [Aspose.Svg](../../svgdocument/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
@@ -118,22 +118,22 @@ public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | çıkış depolama[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage). |
+| outputStorage | IOutputStorage | çıkış depolama[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
 | saveFormat | SVGSaveFormat | Belgenin kaydedildiği biçim. |
 
 ### Ayrıca bakınız
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage)
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* ad alanı [Aspose.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* ad alanı [Aspose.Svg](../../svgdocument/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## Save(string, SVGSaveOptions) {#save_8}
 
-Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`yol` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde oluşturulacak olan bitişik klasöre içinde kaydedilecektir: output_file_name + "_files".
+Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`yol` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde yapılandırılacak olan bitişik klasöre dosyasına kaydedilecektir: output_file_name + "_files".
 
 ```csharp
 public void Save(string path, SVGSaveOptions saveOptions)
@@ -148,13 +148,13 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Belirtilen ise yükseltilmiş`yol` geçerli bir yerel dosya yolu değil. |
+| ArgumentException | Belirtilmişse yükseltilmiş`yol` geçerli bir yerel dosya yolu değil. |
 
 ### Ayrıca bakınız
 
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* ad alanı [Aspose.Svg](../../svgdocument)
+* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* ad alanı [Aspose.Svg](../../svgdocument/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
@@ -169,22 +169,22 @@ public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | çıkış depolama[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage). |
+| outputStorage | IOutputStorage | çıkış depolama[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
 | saveOptions | SVGSaveOptions | SVG kaydetme seçenekleri. |
 
 ### Ayrıca bakınız
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage)
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* ad alanı [Aspose.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* ad alanı [Aspose.Svg](../../svgdocument/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## Save(Url, SVGSaveFormat) {#save_4}
 
-Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`url` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde oluşturulacak olan bitişik klasöre içinde kaydedilecektir: output_file_name + "_files".
+Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`url` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde yapılandırılacak olan bitişik klasöre dosyasına kaydedilecektir: output_file_name + "_files".
 
 ```csharp
 public void Save(Url url, SVGSaveFormat saveFormat)
@@ -192,28 +192,28 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| url | Url | Çıktı dosyasına yerel URL. |
+| url | Url | Çıkış dosyası için yerel URL. |
 | saveFormat | SVGSaveFormat | Belgenin kaydedildiği biçim. |
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Belirtilen ise yükseltilmiş`url` geçerli bir yerel dosya URL'si değil. |
+| ArgumentException | Belirtilmişse yükseltilmiş`url` geçerli bir yerel dosya URL'si değil. |
 
 ### Ayrıca bakınız
 
-* class [Url](../../url)
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* ad alanı [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* ad alanı [Aspose.Svg](../../svgdocument/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## Save(Url, SVGSaveOptions) {#save_5}
 
-Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`url` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde oluşturulacak olan bitişik klasöre içinde kaydedilecektir: output_file_name + "_files".
+Belgeyi tarafından belirtilen yerel dosyaya kaydeder.`url` . Bu belgede kullanılan tüm kaynaklar, adı şu şekilde yapılandırılacak olan bitişik klasöre dosyasına kaydedilecektir: output_file_name + "_files".
 
 ```csharp
 public void Save(Url url, SVGSaveOptions saveOptions)
@@ -221,21 +221,21 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| url | Url | Çıktı dosyasına yerel URL. |
+| url | Url | Çıkış dosyası için yerel URL. |
 | saveOptions | SVGSaveOptions | SVG kaydetme seçenekleri. |
 
 ### istisnalar
 
 | istisna | şart |
 | --- | --- |
-| ArgumentException | Belirtilen ise yükseltilmiş`url` geçerli bir yerel dosya URL'si değil. |
+| ArgumentException | Belirtilmişse yükseltilmiş`url` geçerli bir yerel dosya URL'si değil. |
 
 ### Ayrıca bakınız
 
-* class [Url](../../url)
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* ad alanı [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* ad alanı [Aspose.Svg](../../svgdocument/)
 * toplantı [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

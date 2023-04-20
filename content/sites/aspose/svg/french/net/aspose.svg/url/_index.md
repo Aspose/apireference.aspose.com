@@ -1,9 +1,9 @@
 ---
-title: Url
+title: Class Url
 second_title: Référence de l'API Aspose.SVG pour .NET
-description: Fournit une représentation dobjet dun identifiant universel URL.
+description: Aspose.Svg.Url classe. Fournit une représentation dobjet dun identifiant universel URL.
 type: docs
-weight: 3730
+weight: 3810
 url: /fr/net/aspose.svg/url/
 ---
 ## Url class
@@ -18,40 +18,40 @@ public class Url : DOMObject
 
 | Nom | La description |
 | --- | --- |
-| [Url](url#constructor)(string) | Initialise une nouvelle instance du[`Url`](../url) avec l'URL spécifiée. |
-| [Url](url#constructor_1)(string, string) | Initialise une nouvelle instance du[`Url`](../url) avec l'URL et l'URL de base spécifiées. |
+| [Url](url/#constructor)(string) | Initialise une nouvelle instance du`Url` avec l'URL spécifiée. |
+| [Url](url/#constructor_1)(string, string) | Initialise une nouvelle instance du`Url` avec l'URL et l'URL de base spécifiées. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Hash](../../aspose.svg/url/hash) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le segment de hachage d'URL spécifié. |
-| [Host](../../aspose.svg/url/host) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour l'hôte d'URL spécifié. |
-| [Hostname](../../aspose.svg/url/hostname) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le nom d'hôte de l'URL spécifié. |
-| [Href](../../aspose.svg/url/href) { get; set; } | Obtient ou définit une représentation sérialisée pour l'instance d'URL spécifiée. |
-| [Origin](../../aspose.svg/url/origin) { get; } | Obtient une représentation sous forme de chaîne pour l'origine de l'URL spécifiée. |
-| [Password](../../aspose.svg/url/password) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le mot de passe d'URL spécifié. |
-| [Pathname](../../aspose.svg/url/pathname) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le chemin d'URL spécifié. |
-| [Port](../../aspose.svg/url/port) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le port d'URL spécifié. |
-| [Protocol](../../aspose.svg/url/protocol) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le schéma d'URL spécifié. |
-| [Search](../../aspose.svg/url/search) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le segment de recherche d'URL spécifié. |
-| [SearchParams](../../aspose.svg/url/searchparams) { get; } | Obtient un associé[`IUrlSearchParams`](../iurlsearchparams) objet. |
-| [Username](../../aspose.svg/url/username) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le nom d'utilisateur de l'URL spécifiée. |
+| [Hash](../../aspose.svg/url/hash/) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le segment de hachage d'URL spécifié. |
+| [Host](../../aspose.svg/url/host/) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour l'hôte d'URL spécifié. |
+| [Hostname](../../aspose.svg/url/hostname/) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le nom d'hôte de l'URL spécifié. |
+| [Href](../../aspose.svg/url/href/) { get; set; } | Obtient ou définit une représentation sérialisée pour l'instance d'URL spécifiée. |
+| [Origin](../../aspose.svg/url/origin/) { get; } | Obtient une représentation sous forme de chaîne pour l'origine de l'URL spécifiée. |
+| [Password](../../aspose.svg/url/password/) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le mot de passe d'URL spécifié. |
+| [Pathname](../../aspose.svg/url/pathname/) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le chemin d'URL spécifié. |
+| [Port](../../aspose.svg/url/port/) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le port d'URL spécifié. |
+| [Protocol](../../aspose.svg/url/protocol/) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le schéma d'URL spécifié. |
+| [Search](../../aspose.svg/url/search/) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le segment de recherche d'URL spécifié. |
+| [SearchParams](../../aspose.svg/url/searchparams/) { get; } | Obtient un associé[`IUrlSearchParams`](../iurlsearchparams/) objet. |
+| [Username](../../aspose.svg/url/username/) { get; set; } | Obtient ou définit une représentation sous forme de chaîne pour le nom d'utilisateur de l'URL spécifiée. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Equals](../../aspose.svg/url/equals)(object) | Détermine si la valeur spécifiéeObject , est égal à cette instance. |
-| override [GetHashCode](../../aspose.svg/url/gethashcode)() | Renvoie un code de hachage pour cette instance. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Cette méthode est utilisée pour récupérer l'objet ECMAScriptType . |
-| [ToJson](../../aspose.svg/url/tojson)() | Renvoie unString qui représente cette instance. |
-| override [ToString](../../aspose.svg/url/tostring)() | Renvoie unString qui représente cette instance. |
+| override [Equals](../../aspose.svg/url/equals/)(object) | Détermine si la valeur spécifiéeObject , est égal à cette instance. |
+| override [GetHashCode](../../aspose.svg/url/gethashcode/)() | Renvoie un code de hachage pour cette instance. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Cette méthode est utilisée pour récupérer l'objet ECMAScriptType . |
+| [ToJson](../../aspose.svg/url/tojson/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.svg/url/tostring/)() | Renvoie unString qui représente cette instance. |
 
 ### Voir également
 
-* class [DOMObject](../../aspose.svg.dom/domobject)
-* espace de noms [Aspose.Svg](../../aspose.svg)
+* class [DOMObject](../../aspose.svg.dom/domobject/)
+* espace de noms [Aspose.Svg](../../aspose.svg/)
 * Assemblée [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

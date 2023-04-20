@@ -1,14 +1,14 @@
 ---
-title: SVGAngle
+title: Class SVGAngle
 second_title: Aspose.SVG for .NET API Referansı
-description: SVGAngle arabirimi açı temel veri türüne karşılık gelir.
+description: Aspose.Svg.DataTypes.SVGAngle sınıf. SVGAngle arayüzü açı temel veri tipine karşılık gelir.
 type: docs
 weight: 80
 url: /tr/net/aspose.svg.datatypes/svgangle/
 ---
 ## SVGAngle class
 
-SVGAngle arabirimi, açı temel veri türüne karşılık gelir.
+SVGAngle arayüzü açı temel veri tipine karşılık gelir.
 
 ```csharp
 public class SVGAngle : SVGValueType
@@ -18,35 +18,35 @@ public class SVGAngle : SVGValueType
 
 | İsim | Tanım |
 | --- | --- |
-| [UnitType](../../aspose.svg.datatypes/svgangle/unittype) { get; } | Bu arabirimde tanımlanan SVG_ANGLETYPE_* sabitlerinden biri tarafından belirtilen değerin türü. |
-| [Value](../../aspose.svg.datatypes/svgangle/value) { get; set; } | Derece cinsinden kayan nokta değeri olarak açı değeri. Bu özniteliğin ayarlanması, valueInSpecifiedUnits ve valueAsString'in bu ayarı yansıtacak şekilde otomatik olarak güncellenmesine neden olur. |
-| [ValueAsString](../../aspose.svg.datatypes/svgangle/valueasstring) { get; set; } | UnitType tarafından ifade edilen birimlerde bir dize değeri olarak açı değeri. Bu özniteliğin ayarlanması value, valueInSpecifiedUnits ve unitType'ın bu ayarı yansıtacak şekilde otomatik olarak güncellenmesine neden olur. |
-| [ValueInSpecifiedUnits](../../aspose.svg.datatypes/svgangle/valueinspecifiedunits) { get; set; } | UnitType tarafından ifade edilen birimlerde kayan nokta değeri olarak açı değeri. Bu özelliğin ayarlanması, value ve valueAsString'in bu ayarı yansıtacak şekilde otomatik olarak güncellenmesine neden olur. |
+| [UnitType](../../aspose.svg.datatypes/svgangle/unittype/) { get; } | Bu arabirimde tanımlanan SVG_ANGLETYPE_* sabitlerinden biri tarafından belirtilen değerin türü. |
+| [Value](../../aspose.svg.datatypes/svgangle/value/) { get; set; } | Derece cinsinden kayan nokta değeri olarak açı değeri. Bu özniteliğin ayarlanması, valueInSpecifiedUnits ve valueAsString'in bu ayarı yansıtacak şekilde otomatik olarak güncellenmesine neden olur. |
+| [ValueAsString](../../aspose.svg.datatypes/svgangle/valueasstring/) { get; set; } | UnitType tarafından ifade edilen birimlerde dize değeri olarak açı değeri. Bu özniteliğin ayarlanması, value, valueInSpecifiedUnits ve unitType'ın bu ayarı yansıtacak şekilde otomatik olarak güncellenmesine neden olur. |
+| [ValueInSpecifiedUnits](../../aspose.svg.datatypes/svgangle/valueinspecifiedunits/) { get; set; } | UnitType tarafından ifade edilen birimlerde kayan nokta değeri olarak açı değeri. Bu özniteliğin ayarlanması, value ve valueAsString'in bu ayarı yansıtacak şekilde otomatik olarak güncellenmesine neden olur. |
 
 ## yöntemler
 
 | İsim | Tanım |
 | --- | --- |
-| [ConvertToSpecifiedUnits](../../aspose.svg.datatypes/svgangle/converttospecifiedunits)(ushort) | Aynı temel depolanan değeri koruyun, ancak depolanan birim tanımlayıcısını verilen unitType'a sıfırlayın. UnitType, valueInSpecifiedUnits ve valueAsString nesne nitelikleri bu yöntemin bir sonucu olarak değiştirilebilir. |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Yönetilmeyen ve isteğe bağlı olarak yönetilen kaynakları serbest bırakır. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Bu yöntem, ECMAScript nesnesini almak için kullanılırType . |
-| [NewValueSpecifiedUnits](../../aspose.svg.datatypes/svgangle/newvaluespecifiedunits)(ushort, float) | Değeri, ilişkili bir unitType ile bir sayı olarak sıfırlayın, böylece nesnedeki tüm özniteliklerin değerlerini değiştirin. |
-| override [ToString](../../aspose.svg.datatypes/svgangle/tostring)() | Bir döndürürString bu, bu örneği temsil eder. |
+| [ConvertToSpecifiedUnits](../../aspose.svg.datatypes/svgangle/converttospecifiedunits/)(ushort) | Aynı temel depolanan değeri koruyun, ancak depolanan birim tanımlayıcısını verilen unitType'a sıfırlayın. UnitType, valueInSpecifiedUnits ve valueAsString nesne nitelikleri bu yöntemin bir sonucu olarak değiştirilebilir. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Yönetilmeyen ve - isteğe bağlı olarak - yönetilen kaynakları serbest bırakır. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Bu yöntem ECMAScript nesnesini almak için kullanılır.Type . |
+| [NewValueSpecifiedUnits](../../aspose.svg.datatypes/svgangle/newvaluespecifiedunits/)(ushort, float) | İlişkili bir unitType ile değeri bir sayı olarak sıfırlayın, böylece nesnedeki tüm özniteliklerin değerlerini değiştirin. |
+| override [ToString](../../aspose.svg.datatypes/svgangle/tostring/)() | a döndürürString bu örneği temsil eder. |
 
 ## Alanlar
 
 | İsim | Tanım |
 | --- | --- |
-| const [SVG_ANGLETYPE_DEG](../../aspose.svg.datatypes/svgangle/svg_angletype_deg) | Birim türü açıkça derece olarak ayarlandı. |
-| const [SVG_ANGLETYPE_GRAD](../../aspose.svg.datatypes/svgangle/svg_angletype_grad) | Birim türü radyandır. |
-| const [SVG_ANGLETYPE_RAD](../../aspose.svg.datatypes/svgangle/svg_angletype_rad) | Birim türü radyandır. |
-| const [SVG_ANGLETYPE_UNKNOWN](../../aspose.svg.datatypes/svgangle/svg_angletype_unknown) | Birim türü, önceden tanımlanmış birim türlerinden biri değil. Bu türde yeni bir değer tanımlamaya veya mevcut bir değeri bu türe değiştirmeye çalışmak geçersizdir. |
-| const [SVG_ANGLETYPE_UNSPECIFIED](../../aspose.svg.datatypes/svgangle/svg_angletype_unspecified) | Birim türü sağlanmadı (yani, birimsiz bir değer belirtildi). Açılar için, birimsiz bir değer, dereceler belirtilmiş gibi ele alınır. |
+| const [SVG_ANGLETYPE_DEG](../../aspose.svg.datatypes/svgangle/svg_angletype_deg/) | Birim türü açıkça derece olarak ayarlandı. |
+| const [SVG_ANGLETYPE_GRAD](../../aspose.svg.datatypes/svgangle/svg_angletype_grad/) | Birim türü radyandır. |
+| const [SVG_ANGLETYPE_RAD](../../aspose.svg.datatypes/svgangle/svg_angletype_rad/) | Birim türü radyandır. |
+| const [SVG_ANGLETYPE_UNKNOWN](../../aspose.svg.datatypes/svgangle/svg_angletype_unknown/) | Birim türü, önceden tanımlanmış birim türlerinden biri değil. Bu türde yeni bir değer tanımlamaya veya mevcut bir değeri bu türe değiştirmeye çalışmak geçersizdir. |
+| const [SVG_ANGLETYPE_UNSPECIFIED](../../aspose.svg.datatypes/svgangle/svg_angletype_unspecified/) | Birim türü sağlanmadı (yani, birimsiz bir değer belirtildi). Açılar için birimsiz bir değer, derece belirtilmiş gibi ele alınır. |
 
 ### Ayrıca bakınız
 
-* class [SVGValueType](../svgvaluetype)
-* ad alanı [Aspose.Svg.DataTypes](../../aspose.svg.datatypes)
+* class [SVGValueType](../svgvaluetype/)
+* ad alanı [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
 * toplantı [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: Unit
+title: Class Unit
 second_title: Aspose.SVG för .NET API Referens
-description: Tillhandahåller basklassen för måttenheter.
+description: Aspose.Svg.Drawing.Unit klass. Tillhandahåller basklassen för måttenheter.
 type: docs
 weight: 1600
 url: /sv/net/aspose.svg.drawing/unit/
@@ -18,38 +18,38 @@ public abstract class Unit : IEquatable<Unit>
 
 | namn | Beskrivning |
 | --- | --- |
-| [UnitType](../../aspose.svg.drawing/unit/unittype) { get; } | Hämtar enhetstypen för[`Unit`](../unit) . |
+| [UnitType](../../aspose.svg.drawing/unit/unittype/) { get; } | Hämtar enhetstypen för`Unit` . |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unit/equals#equals_1)(object) | Bestämmer om den angivnaObject , är lika med denna instans. |
-| virtual [Equals](../../aspose.svg.drawing/unit/equals#equals)(Unit) | Bestämmer om den angivna[`Unit`](../unit) , är lika med denna instans. |
-| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode)() | Returnerar en hash-kod för denna instans. |
-| override [ToString](../../aspose.svg.drawing/unit/tostring)() | Returnerar enString som representerar denna instans. |
-| static [FromCentimeters](../../aspose.svg.drawing/unit/fromcentimeters)(double) | Returnerar en[`Length`](../length) objekt som representeras i centimeter. |
-| static [FromDegrees](../../aspose.svg.drawing/unit/fromdegrees)(double) | Returnerar en[`Angle`](../angle) objekt som representeras i grader. |
-| static [FromDotsPerCentimeters](../../aspose.svg.drawing/unit/fromdotspercentimeters)(double) | Returnerar en[`Resolution`](../resolution) objekt som representeras i punkter per centimeter. |
-| static [FromDotsPerInch](../../aspose.svg.drawing/unit/fromdotsperinch)(double) | Returnerar en[`Resolution`](../resolution) objekt som representeras i punkter per tum. |
-| static [FromDotsPerPixel](../../aspose.svg.drawing/unit/fromdotsperpixel)(double) | Returnerar en[`Resolution`](../resolution) objekt som representeras i punkter per pixel. |
-| static [FromGradians](../../aspose.svg.drawing/unit/fromgradians)(double) | Returnerar en[`Angle`](../angle)objekt som representeras i nyanser. |
-| static [FromHertz](../../aspose.svg.drawing/unit/fromhertz)(double) | Returnerar en[`Frequency`](../frequency) objekt som representeras i hertz. |
-| static [FromInches](../../aspose.svg.drawing/unit/frominches)(double) | Returnerar en[`Length`](../length) objekt som representeras i tum. |
-| static [FromKiloHertz](../../aspose.svg.drawing/unit/fromkilohertz)(double) | Returnerar en[`Frequency`](../frequency) objekt som representeras i kiloHertz. |
-| static [FromMillimeters](../../aspose.svg.drawing/unit/frommillimeters)(double) | Returnerar en[`Length`](../length) objekt som representeras i millimeter. |
-| static [FromMilliseconds](../../aspose.svg.drawing/unit/frommilliseconds)(double) | Returnerar en[`Time`](../time) objekt som representeras i millisekunder. |
-| static [FromPicas](../../aspose.svg.drawing/unit/frompicas)(double) | Returnerar en[`Length`](../length) objekt som representeras i picas. |
-| static [FromPixels](../../aspose.svg.drawing/unit/frompixels)(double) | Returnerar en[`Length`](../length) objekt som representeras i pixlar. |
-| static [FromPoints](../../aspose.svg.drawing/unit/frompoints)(double) | Returnerar en[`Length`](../length) objekt som representeras i punkter. |
-| static [FromQuarterMillimeters](../../aspose.svg.drawing/unit/fromquartermillimeters)(double) | Returnerar en[`Length`](../length) objekt som representeras i kvartsmillimeter. |
-| static [FromRadians](../../aspose.svg.drawing/unit/fromradians)(double) | Returnerar en[`Angle`](../angle) objekt som representeras i radianer. |
-| static [FromSeconds](../../aspose.svg.drawing/unit/fromseconds)(double) | Returnerar en[`Time`](../time) objekt som representeras i sekunder. |
-| static [FromTurns](../../aspose.svg.drawing/unit/fromturns)(double) | Returnerar en[`Angle`](../angle) objekt som representeras i varv. |
+| override [Equals](../../aspose.svg.drawing/unit/equals/#equals_1)(object) | Bestämmer om den angivnaObject , är lika med denna instans. |
+| virtual [Equals](../../aspose.svg.drawing/unit/equals/#equals)(Unit) | Bestämmer om den angivna`Unit` , är lika med denna instans. |
+| override [GetHashCode](../../aspose.svg.drawing/unit/gethashcode/)() | Returnerar en hash-kod för denna instans. |
+| override [ToString](../../aspose.svg.drawing/unit/tostring/)() | Returnerar enString som representerar denna instans. |
+| static [FromCentimeters](../../aspose.svg.drawing/unit/fromcentimeters/)(double) | Returnerar en[`Length`](../length/) objekt som representeras i centimeter. |
+| static [FromDegrees](../../aspose.svg.drawing/unit/fromdegrees/)(double) | Returnerar en[`Angle`](../angle/) objekt som representeras i grader. |
+| static [FromDotsPerCentimeters](../../aspose.svg.drawing/unit/fromdotspercentimeters/)(double) | Returnerar en[`Resolution`](../resolution/) objekt som representeras i punkter per centimeter. |
+| static [FromDotsPerInch](../../aspose.svg.drawing/unit/fromdotsperinch/)(double) | Returnerar en[`Resolution`](../resolution/) objekt som representeras i punkter per tum. |
+| static [FromDotsPerPixel](../../aspose.svg.drawing/unit/fromdotsperpixel/)(double) | Returnerar en[`Resolution`](../resolution/) objekt som representeras i punkter per pixel. |
+| static [FromGradians](../../aspose.svg.drawing/unit/fromgradians/)(double) | Returnerar en[`Angle`](../angle/)objekt som representeras i nyanser. |
+| static [FromHertz](../../aspose.svg.drawing/unit/fromhertz/)(double) | Returnerar en[`Frequency`](../frequency/) objekt som representeras i hertz. |
+| static [FromInches](../../aspose.svg.drawing/unit/frominches/)(double) | Returnerar en[`Length`](../length/) objekt som representeras i tum. |
+| static [FromKiloHertz](../../aspose.svg.drawing/unit/fromkilohertz/)(double) | Returnerar en[`Frequency`](../frequency/) objekt som representeras i kiloHertz. |
+| static [FromMillimeters](../../aspose.svg.drawing/unit/frommillimeters/)(double) | Returnerar en[`Length`](../length/) objekt som representeras i millimeter. |
+| static [FromMilliseconds](../../aspose.svg.drawing/unit/frommilliseconds/)(double) | Returnerar en[`Time`](../time/) objekt som representeras i millisekunder. |
+| static [FromPicas](../../aspose.svg.drawing/unit/frompicas/)(double) | Returnerar en[`Length`](../length/) objekt som representeras i picas. |
+| static [FromPixels](../../aspose.svg.drawing/unit/frompixels/)(double) | Returnerar en[`Length`](../length/) objekt som representeras i pixlar. |
+| static [FromPoints](../../aspose.svg.drawing/unit/frompoints/)(double) | Returnerar en[`Length`](../length/) objekt som representeras i punkter. |
+| static [FromQuarterMillimeters](../../aspose.svg.drawing/unit/fromquartermillimeters/)(double) | Returnerar en[`Length`](../length/) objekt som representeras i kvartsmillimeter. |
+| static [FromRadians](../../aspose.svg.drawing/unit/fromradians/)(double) | Returnerar en[`Angle`](../angle/) objekt som representeras i radianer. |
+| static [FromSeconds](../../aspose.svg.drawing/unit/fromseconds/)(double) | Returnerar en[`Time`](../time/) objekt som representeras i sekunder. |
+| static [FromTurns](../../aspose.svg.drawing/unit/fromturns/)(double) | Returnerar en[`Angle`](../angle/) objekt som representeras i varv. |
 
 ### Se även
 
-* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing)
+* namnutrymme [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
 * hopsättning [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

@@ -1,0 +1,33 @@
+---
+title: SVGPathSegCurvetoCubicAbs.Y
+second_title: .NET API संदर्भ के लिए Aspose.SVG
+description: SVGPathSegCurvetoCubicAbs संपत्त. इस पथ खंड के अंत बंदु के लए पूर्ण Y नर्देशंक
+type: docs
+weight: 40
+url: /hi/net/aspose.svg.paths/svgpathsegcurvetocubicabs/y/
+---
+## SVGPathSegCurvetoCubicAbs.Y property
+
+इस पथ खंड के अंत बिंदु के लिए पूर्ण Y निर्देशांक।
+
+```csharp
+public float Y { get; set; }
+```
+
+### संपत्ति मूल्य
+
+पूर्ण Y निर्देशांक
+
+### अपवाद
+
+| अपवाद | स्थिति |
+| --- | --- |
+| [DOMException](../../../aspose.svg.dom/domexception/) | कोड[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.svg.dom/domexception/no_modification_allowed_err/) . केवल पढ़ने योग्य विशेषता के मान को बदलने के प्रयास पर उठाया गया। |
+
+### यह सभी देखें
+
+* class [SVGPathSegCurvetoCubicAbs](../)
+* नाम स्थान [Aspose.Svg.Paths](../../svgpathsegcurvetocubicabs/)
+* सभा [Aspose.SVG](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: ITreeWalker
+title: Interface ITreeWalker
 second_title: Aspose.SVG för .NET API Referens
-description: TreeWalkerobjekt används för att navigera i ett dokumentträd eller underträd med hjälp av vyn av dokumentet som definieras av deras whatToShowflaggor och filter om några. Alla funktioner som utför navigering med en TreeWalker kommer automatiskt att stödja alla vyer som definieras av en TreeWalker.
+description: Aspose.Svg.Dom.Traversal.ITreeWalker gränssnitt. TreeWalkerobjekt används för att navigera i ett dokumentträd eller underträd med hjälp av vyn av dokumentet som definieras av deras whatToShowflaggor och filter om några. Alla funktioner som utför navigering med en TreeWalker kommer automatiskt att stödja alla vyer som definieras av en TreeWalker.
 type: docs
 weight: 1270
 url: /sv/net/aspose.svg.dom.traversal/itreewalker/
@@ -22,24 +22,24 @@ public interface ITreeWalker : ITraversal
 
 | namn | Beskrivning |
 | --- | --- |
-| [CurrentNode](../../aspose.svg.dom.traversal/itreewalker/currentnode) { get; set; } | Noden där TreeWalker för närvarande är placerad. Ändringar av DOM-trädet kan göra att den aktuella noden inte längre accepteras av TreeWalkers associerade filter. currentNode kan också uttryckligen ställas in på vilken nod som helst, eller inte inom underträdet som anges av rotnoden eller skulle accepteras av filtret och whatToShow-flaggor. Ytterligare korsning sker i förhållande till currentNode även om den inte är en del av den aktuella vyn, genom att applicera filtren i den begärda riktningen; om ingen traversal är möjlig ändras inte aktuellNode. |
+| [CurrentNode](../../aspose.svg.dom.traversal/itreewalker/currentnode/) { get; set; } | Noden där TreeWalker för närvarande är placerad. Ändringar av DOM-trädet kan göra att den aktuella noden inte längre accepteras av TreeWalkers associerade filter. currentNode kan också uttryckligen ställas in på vilken nod som helst, eller inte inom underträdet som anges av rotnoden eller skulle accepteras av filtret och whatToShow-flaggor. Ytterligare korsning sker i förhållande till currentNode även om den inte är en del av den aktuella vyn, genom att applicera filtren i den begärda riktningen; om ingen traversal är möjlig ändras inte aktuellNode. |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| [FirstChild](../../aspose.svg.dom.traversal/itreewalker/firstchild)() | Flyttar TreeWalker till den första synliga underordnade av den nuvarande noden och returnerar den nya noden. Om den aktuella noden har no synliga barn, returnerar null och behåller noden current . |
-| [LastChild](../../aspose.svg.dom.traversal/itreewalker/lastchild)() | Flyttar TreeWalker till den sista synliga underordnade av den nuvarande noden och returnerar den nya noden. Om den aktuella noden har no synliga barn, returnerar null och behåller noden current . |
-| [NextNode](../../aspose.svg.dom.traversal/itreewalker/nextnode)() | Flyttar TreeWalker till nästa synliga nod i document ordning i förhållande till den aktuella noden och returnerar den nya noden. Om den nuvarande noden inte har någon nästa nod, eller om sökningen efter nextNode försöker att kliva uppåt från TreeWalkers root nod, returnerar null och behåller den nuvarande noden. |
-| [NextSibling](../../aspose.svg.dom.traversal/itreewalker/nextsibling)() | Flyttar TreeWalker till nästa syskon till noden current och returnerar den nya noden. Om den aktuella noden inte har någon visible nästa syskon, returnerar null och behåller den nuvarande noden. |
-| [ParentNode](../../aspose.svg.dom.traversal/itreewalker/parentnode)() | Flyttar till och returnerar den närmast synliga förfadernoden för noden current . Om sökningen efter parentNode försöker stega uppåt från TreeWalkers rotnod, eller om den inte lyckas hitta en synlig förfadernod, behåller denna metod den nuvarande positionen och returnerar null. |
-| [PreviousNode](../../aspose.svg.dom.traversal/itreewalker/previousnode)() | Flyttar TreeWalker till föregående synliga nod i dokumentordning i förhållande till den aktuella noden och returnerar noden new . Om den aktuella noden inte har någon tidigare nod, eller om sökningen efter previousNode försöker kliva uppåt från TreeWalkers rotnod, returnerar null och behåller den nuvarande noden. |
-| [PreviousSibling](../../aspose.svg.dom.traversal/itreewalker/previoussibling)() | Flyttar TreeWalker till föregående syskon till den nuvarande noden och returnerar den nya noden. Om den nuvarande noden har no synlig tidigare syskon, returnerar null och behåller nuvarande nod. |
+| [FirstChild](../../aspose.svg.dom.traversal/itreewalker/firstchild/)() | Flyttar TreeWalker till den första synliga underordnade av den nuvarande noden och returnerar den nya noden. Om den aktuella noden har no synliga barn, returnerar null och behåller noden current . |
+| [LastChild](../../aspose.svg.dom.traversal/itreewalker/lastchild/)() | Flyttar TreeWalker till den sista synliga underordnade av den nuvarande noden och returnerar den nya noden. Om den aktuella noden har no synliga barn, returnerar null och behåller noden current . |
+| [NextNode](../../aspose.svg.dom.traversal/itreewalker/nextnode/)() | Flyttar TreeWalker till nästa synliga nod i document ordning i förhållande till den aktuella noden och returnerar den nya noden. Om den nuvarande noden inte har någon nästa nod, eller om sökningen efter nextNode försöker att kliva uppåt från TreeWalkers root nod, returnerar null och behåller den nuvarande noden. |
+| [NextSibling](../../aspose.svg.dom.traversal/itreewalker/nextsibling/)() | Flyttar TreeWalker till nästa syskon till noden current och returnerar den nya noden. Om den aktuella noden inte har någon visible nästa syskon, returnerar null och behåller den nuvarande noden. |
+| [ParentNode](../../aspose.svg.dom.traversal/itreewalker/parentnode/)() | Flyttar till och returnerar den närmast synliga förfadernoden för noden current . Om sökningen efter parentNode försöker stega uppåt från TreeWalkers rotnod, eller om den inte lyckas hitta en synlig förfadernod, behåller denna metod den nuvarande positionen och returnerar null. |
+| [PreviousNode](../../aspose.svg.dom.traversal/itreewalker/previousnode/)() | Flyttar TreeWalker till föregående synliga nod i dokumentordning i förhållande till den aktuella noden och returnerar noden new . Om den aktuella noden inte har någon tidigare nod, eller om sökningen efter previousNode försöker kliva uppåt från TreeWalkers rotnod, returnerar null och behåller den nuvarande noden. |
+| [PreviousSibling](../../aspose.svg.dom.traversal/itreewalker/previoussibling/)() | Flyttar TreeWalker till föregående syskon till den nuvarande noden och returnerar den nya noden. Om den nuvarande noden har no synlig tidigare syskon, returnerar null och behåller nuvarande nod. |
 
 ### Se även
 
-* interface [ITraversal](../itraversal)
-* namnutrymme [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal)
+* interface [ITraversal](../itraversal/)
+* namnutrymme [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
 * hopsättning [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

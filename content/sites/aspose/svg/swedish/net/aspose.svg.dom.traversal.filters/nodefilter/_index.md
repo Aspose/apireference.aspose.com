@@ -1,7 +1,7 @@
 ---
-title: NodeFilter
+title: Class NodeFilter
 second_title: Aspose.SVG för .NET API Referens
-description: Filter är objekt som vet hur man filtrerar bort noder.
+description: Aspose.Svg.Dom.Traversal.Filters.NodeFilter klass. Filter är objekt som vet hur man filtrerar bort noder.
 type: docs
 weight: 1210
 url: /sv/net/aspose.svg.dom.traversal.filters/nodefilter/
@@ -18,35 +18,35 @@ public abstract class NodeFilter : DOMObject, INodeFilter
 
 | namn | Beskrivning |
 | --- | --- |
-| abstract [AcceptNode](../../aspose.svg.dom.traversal.filters/nodefilter/acceptnode)(Node) | Testa om en angiven nod är synlig i den logiska vyn av a TreeWalker eller NodeIterator. Denna funktion kommer att anropas av implementeringen av TreeWalker och NodeIterator; den anropas normalt inte direkt from användarkod. (Även om du kan göra det om du vill använda same -filtret för att styra din egen applikationslogik.) |
-| override [GetPlatformType](../../aspose.svg.dom.traversal.filters/nodefilter/getplatformtype)() | Denna metod används för att hämta ECMAScript-objektType . |
+| abstract [AcceptNode](../../aspose.svg.dom.traversal.filters/nodefilter/acceptnode/)(Node) | Testa om en angiven nod är synlig i den logiska vyn av a TreeWalker eller NodeIterator. Denna funktion kommer att anropas av implementeringen av TreeWalker och NodeIterator; den anropas normalt inte direkt from användarkod. (Även om du kan göra det om du vill använda same -filtret för att styra din egen applikationslogik.) |
+| override [GetPlatformType](../../aspose.svg.dom.traversal.filters/nodefilter/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
 
 ## Fält
 
 | namn | Beskrivning |
 | --- | --- |
-| const [FILTER_ACCEPT](../../aspose.svg.dom.traversal.filters/nodefilter/filter_accept) | Acceptera noden. Navigationsmetoder definierade för NodeIterator eller TreeWalker kommer att returnera denna nod. |
-| const [FILTER_REJECT](../../aspose.svg.dom.traversal.filters/nodefilter/filter_reject) | Avvisa noden. Navigeringsmetoder definierade för NodeIterator eller TreeWalker kommer inte att returnera denna nod. För TreeWalker kommer även underordnade till denna nod att avvisas. NodeIterators behandlar detta som en synonym för FILTER_SKIP. |
-| const [FILTER_SKIP](../../aspose.svg.dom.traversal.filters/nodefilter/filter_skip) | Hoppa över denna enda nod. Navigeringsmetoder definierade för NodeIterator eller TreeWalker kommer inte att returnera denna nod. För både NodeIterator och TreeWalker kommer barnen till denna nod fortfarande att beaktas. |
-| const [SHOW_ALL](../../aspose.svg.dom.traversal.filters/nodefilter/show_all) | Visa alla noder. |
-| const [SHOW_ATTRIBUTE](../../aspose.svg.dom.traversal.filters/nodefilter/show_attribute) | Visa Attr-noder. Detta är endast meningsfullt när man skapar en iterator eller trädvandrare med en attributnod som sin rot; i detta fall betyder det att attributnoden kommer att visas i den första positionen av iterationen eller genomgången. Eftersom attribut aldrig är underordnade av andra noder, visas de inte när de går över dokumentträdet. |
-| const [SHOW_CDATA_SECTION](../../aspose.svg.dom.traversal.filters/nodefilter/show_cdata_section) | Visa CDATASection-noder. |
-| const [SHOW_COMMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_comment) | Visa kommentarsnoder. |
-| const [SHOW_DOCUMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_document) | Visa dokumentnoder. |
-| const [SHOW_DOCUMENT_FRAGMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_document_fragment) | Visa DocumentFragment-noder. |
-| const [SHOW_DOCUMENT_TYPE](../../aspose.svg.dom.traversal.filters/nodefilter/show_document_type) | Visa DocumentType-noder. |
-| const [SHOW_ELEMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_element) | Visa elementnoder. |
-| const [SHOW_ENTITY](../../aspose.svg.dom.traversal.filters/nodefilter/show_entity) | Visa enhetsnoder. Detta är endast meningsfullt när du skapar en iterator eller trädvandrare med en Entity-nod som dess -rot; i det här fallet betyder det att Entity -noden kommer att visas i den första positionen för genomgången. Eftersom entiteter inte är en del av dokumentträdet, visas de inte när går över dokumentträdet. |
-| const [SHOW_ENTITY_REFERENCE](../../aspose.svg.dom.traversal.filters/nodefilter/show_entity_reference) | Visa enhetsreferensnoder. |
-| const [SHOW_NOTATION](../../aspose.svg.dom.traversal.filters/nodefilter/show_notation) | Visa notationsnoder. Detta är endast meningsfullt när man skapar en iterator eller trädvandrare med en notationsnod som sin rot; i det här fallet betyder det att noden kommer att visas i den första positionen för -traversalen. Eftersom noteringar inte är en del av dokumentträdet, visas de inte när du går över dokumentträdet. |
-| const [SHOW_PROCESSING_INSTRUCTION](../../aspose.svg.dom.traversal.filters/nodefilter/show_processing_instruction) | Visa bearbetningsinstruktionsnoder. |
-| const [SHOW_TEXT](../../aspose.svg.dom.traversal.filters/nodefilter/show_text) | Visa textnoder. |
+| const [FILTER_ACCEPT](../../aspose.svg.dom.traversal.filters/nodefilter/filter_accept/) | Acceptera noden. Navigationsmetoder definierade för NodeIterator eller TreeWalker kommer att returnera denna nod. |
+| const [FILTER_REJECT](../../aspose.svg.dom.traversal.filters/nodefilter/filter_reject/) | Avvisa noden. Navigeringsmetoder definierade för NodeIterator eller TreeWalker kommer inte att returnera denna nod. För TreeWalker kommer även underordnade till denna nod att avvisas. NodeIterators behandlar detta som en synonym för FILTER_SKIP. |
+| const [FILTER_SKIP](../../aspose.svg.dom.traversal.filters/nodefilter/filter_skip/) | Hoppa över denna enda nod. Navigeringsmetoder definierade för NodeIterator eller TreeWalker kommer inte att returnera denna nod. För både NodeIterator och TreeWalker kommer barnen till denna nod fortfarande att beaktas. |
+| const [SHOW_ALL](../../aspose.svg.dom.traversal.filters/nodefilter/show_all/) | Visa alla noder. |
+| const [SHOW_ATTRIBUTE](../../aspose.svg.dom.traversal.filters/nodefilter/show_attribute/) | Visa Attr-noder. Detta är endast meningsfullt när man skapar en iterator eller trädvandrare med en attributnod som sin rot; i detta fall betyder det att attributnoden kommer att visas i den första positionen av iterationen eller genomgången. Eftersom attribut aldrig är underordnade av andra noder, visas de inte när de går över dokumentträdet. |
+| const [SHOW_CDATA_SECTION](../../aspose.svg.dom.traversal.filters/nodefilter/show_cdata_section/) | Visa CDATASection-noder. |
+| const [SHOW_COMMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_comment/) | Visa kommentarsnoder. |
+| const [SHOW_DOCUMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_document/) | Visa dokumentnoder. |
+| const [SHOW_DOCUMENT_FRAGMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_document_fragment/) | Visa DocumentFragment-noder. |
+| const [SHOW_DOCUMENT_TYPE](../../aspose.svg.dom.traversal.filters/nodefilter/show_document_type/) | Visa DocumentType-noder. |
+| const [SHOW_ELEMENT](../../aspose.svg.dom.traversal.filters/nodefilter/show_element/) | Visa elementnoder. |
+| const [SHOW_ENTITY](../../aspose.svg.dom.traversal.filters/nodefilter/show_entity/) | Visa enhetsnoder. Detta är endast meningsfullt när du skapar en iterator eller trädvandrare med en Entity-nod som dess -rot; i det här fallet betyder det att Entity -noden kommer att visas i den första positionen för genomgången. Eftersom entiteter inte är en del av dokumentträdet, visas de inte när går över dokumentträdet. |
+| const [SHOW_ENTITY_REFERENCE](../../aspose.svg.dom.traversal.filters/nodefilter/show_entity_reference/) | Visa enhetsreferensnoder. |
+| const [SHOW_NOTATION](../../aspose.svg.dom.traversal.filters/nodefilter/show_notation/) | Visa notationsnoder. Detta är endast meningsfullt när man skapar en iterator eller trädvandrare med en notationsnod som sin rot; i det här fallet betyder det att noden kommer att visas i den första positionen för -traversalen. Eftersom noteringar inte är en del av dokumentträdet, visas de inte när du går över dokumentträdet. |
+| const [SHOW_PROCESSING_INSTRUCTION](../../aspose.svg.dom.traversal.filters/nodefilter/show_processing_instruction/) | Visa bearbetningsinstruktionsnoder. |
+| const [SHOW_TEXT](../../aspose.svg.dom.traversal.filters/nodefilter/show_text/) | Visa textnoder. |
 
 ### Se även
 
-* class [DOMObject](../../aspose.svg.dom/domobject)
-* interface [INodeFilter](../../aspose.svg.dom.traversal/inodefilter)
-* namnutrymme [Aspose.Svg.Dom.Traversal.Filters](../../aspose.svg.dom.traversal.filters)
+* class [DOMObject](../../aspose.svg.dom/domobject/)
+* interface [INodeFilter](../../aspose.svg.dom.traversal/inodefilter/)
+* namnutrymme [Aspose.Svg.Dom.Traversal.Filters](../../aspose.svg.dom.traversal.filters/)
 * hopsättning [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

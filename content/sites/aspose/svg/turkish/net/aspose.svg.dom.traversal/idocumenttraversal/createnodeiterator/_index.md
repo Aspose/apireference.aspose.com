@@ -1,14 +1,14 @@
 ---
-title: CreateNodeIterator
+title: IDocumentTraversal.CreateNodeIterator
 second_title: Aspose.SVG for .NET API Referansı
-description: Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
+description: IDocumentTraversal yöntem. Belirtilen node. de köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
 type: docs
 weight: 10
 url: /tr/net/aspose.svg.dom.traversal/idocumenttraversal/createnodeiterator/
 ---
 ## CreateNodeIterator(Node) {#createnodeiterator}
 
-Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
+Belirtilen node. 'de köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root)
@@ -16,7 +16,7 @@ public INodeIterator CreateNodeIterator(Node root)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| root | Node | alt öğeleriyle birlikte yinelenecek düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konum ayarlanırken dikkate alınmaz. Kök, null olmamalıdır. |
+| root | Node | çocukları ile birlikte yinelenecek olan düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konumu ayarlarken not dikkate alınır. Kök, null olmamalıdır. |
 
 ### Geri dönüş değeri
 
@@ -26,21 +26,21 @@ Yeni oluşturulan NodeIterator.
 
 | istisna | şart |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR: Belirtilen kök, null ise tetiklenir. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Belirtilen kök is null ise yükseltilir. |
 
 ### Ayrıca bakınız
 
-* interface [INodeIterator](../../inodeiterator)
-* class [Node](../../../aspose.svg.dom/node)
-* interface [IDocumentTraversal](../../idocumenttraversal)
-* ad alanı [Aspose.Svg.Dom.Traversal](../../idocumenttraversal)
+* interface [INodeIterator](../../inodeiterator/)
+* class [Node](../../../aspose.svg.dom/node/)
+* interface [IDocumentTraversal](../)
+* ad alanı [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## CreateNodeIterator(Node, long) {#createnodeiterator_1}
 
-Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
+Belirtilen node. 'de köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow)
@@ -48,8 +48,8 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| root | Node | alt öğeleriyle birlikte yinelenecek düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konum ayarlanırken dikkate alınmaz. Kök, null olmamalıdır. |
-| whatToShow | Int64 | flag, yineleyici tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın.Bu bayraklar VEYA kullanılarak birleştirilebilir. |
+| root | Node | çocukları ile birlikte yinelenecek olan düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konumu ayarlarken not dikkate alınır. Kök, null olmamalıdır. |
+| whatToShow | Int64 | flag, yineleyici tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın. Bu bayraklar, OR kullanılarak birleştirilebilir. |
 
 ### Geri dönüş değeri
 
@@ -59,21 +59,21 @@ Yeni oluşturulan NodeIterator.
 
 | istisna | şart |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR: Belirtilen kök, null ise tetiklenir. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Belirtilen kök is null ise yükseltilir. |
 
 ### Ayrıca bakınız
 
-* interface [INodeIterator](../../inodeiterator)
-* class [Node](../../../aspose.svg.dom/node)
-* interface [IDocumentTraversal](../../idocumenttraversal)
-* ad alanı [Aspose.Svg.Dom.Traversal](../../idocumenttraversal)
+* interface [INodeIterator](../../inodeiterator/)
+* class [Node](../../../aspose.svg.dom/node/)
+* interface [IDocumentTraversal](../)
+* ad alanı [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## CreateNodeIterator(Node, long, INodeFilter) {#createnodeiterator_2}
 
-Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
+Belirtilen node. 'de köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter filter)
@@ -81,8 +81,8 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter 
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| root | Node | alt öğeleriyle birlikte yinelenecek düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konum ayarlanırken dikkate alınmaz. Kök, null olmamalıdır. |
-| whatToShow | Int64 | flag, yineleyici tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın.Bu bayraklar VEYA kullanılarak birleştirilebilir. |
+| root | Node | çocukları ile birlikte yinelenecek olan düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konumu ayarlarken not dikkate alınır. Kök, null olmamalıdır. |
+| whatToShow | Int64 | flag, yineleyici tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın. Bu bayraklar, OR kullanılarak birleştirilebilir. |
 | filter | INodeFilter | this TreeWalker ile kullanılacak NodeFilter veya filtre olmadığını belirtmek için null. |
 
 ### Geri dönüş değeri
@@ -93,15 +93,15 @@ Yeni oluşturulan NodeIterator.
 
 | istisna | şart |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR: Belirtilen kök, null ise tetiklenir. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Belirtilen kök is null ise yükseltilir. |
 
 ### Ayrıca bakınız
 
-* interface [INodeIterator](../../inodeiterator)
-* class [Node](../../../aspose.svg.dom/node)
-* interface [INodeFilter](../../inodefilter)
-* interface [IDocumentTraversal](../../idocumenttraversal)
-* ad alanı [Aspose.Svg.Dom.Traversal](../../idocumenttraversal)
+* interface [INodeIterator](../../inodeiterator/)
+* class [Node](../../../aspose.svg.dom/node/)
+* interface [INodeFilter](../../inodefilter/)
+* interface [IDocumentTraversal](../)
+* ad alanı [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
 * toplantı [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

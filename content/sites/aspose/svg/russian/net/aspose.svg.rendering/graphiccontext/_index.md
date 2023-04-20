@@ -1,9 +1,9 @@
 ---
-title: GraphicContext
+title: Class GraphicContext
 second_title: Справочник по Aspose.SVG для .NET API
-description: Содержит текущие параметры управления графикой. Эти параметры определяют глобальную структуру в которой выполняются графические операторы.
+description: Aspose.Svg.Rendering.GraphicContext сорт. Содержит текущие параметры управления графикой. Эти параметры определяют глобальную структуру в которой выполняются графические операторы.
 type: docs
-weight: 2760
+weight: 2800
 url: /ru/net/aspose.svg.rendering/graphiccontext/
 ---
 ## GraphicContext class
@@ -18,38 +18,38 @@ public class GraphicContext : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [GraphicContext](graphiccontext)() | Инициализирует новый экземпляр[`GraphicContext`](../graphiccontext) класс. |
+| [GraphicContext](graphiccontext/)() | Инициализирует новый экземпляр`GraphicContext` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing) { get; set; } | Устанавливает или получает межсимвольный интервал. |
-| virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush) { get; set; } | Устанавливает или получает объект кисти, который используется для заполнения внутренней части контуров. |
-| virtual [Font](../../aspose.svg.rendering/graphiccontext/font) { get; set; } | Задает или получает объект шрифта истинного типа, который используется для рендеринга текста. |
-| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize) { get; set; } | Задает или получает размер шрифта текста. |
-| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle) { get; set; } | Устанавливает или получает стиль шрифта текста. |
-| virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap) { get; set; } | Устанавливает или получает код, определяющий форму конечных точек для любого открытого пути, который обведен. |
-| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset) { get; set; } | Устанавливает или получает смещение фазы текущего шаблона пунктирной линии. |
-| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern) { get; set; } | Задает или получает описание шаблона пунктира, который будет использоваться при обводке контуров. |
-| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle) { get; set; } | Наборы стилей штриховых линий штрихового контура. |
-| virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin) { get; set; } | Устанавливает или получает код, определяющий форму стыков между соединенными сегментами заштрихованного пути. |
-| virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth) { get; set; } | Устанавливает или получает толщину обводимых контуров. |
-| virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit) { get; set; } | Устанавливает или получает максимальную длину соединения линий под углом для обведенных путей. Этот параметр ограничивает длину «выступов», возникающих при соединении сегментов под острыми углами. |
-| virtual [StrokeBrush](../../aspose.svg.rendering/graphiccontext/strokebrush) { get; set; } | Устанавливает или получает объект-кисть, который используется для обведенных контуров. |
-| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo) { get; } | Получает[`TextInfo`](../textinfo) объект, который содержит информацию о отображаемом тексте. |
-| virtual [TransformationMatrix](../../aspose.svg.rendering/graphiccontext/transformationmatrix) { get; set; } | Устанавливает или получает матрицу преобразования. |
+| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing/) { get; set; } | Устанавливает или получает межсимвольный интервал. |
+| virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush/) { get; set; } | Устанавливает или получает объект кисти, который используется для заполнения внутренней части контуров. |
+| virtual [Font](../../aspose.svg.rendering/graphiccontext/font/) { get; set; } | Задает или получает объект шрифта истинного типа, который используется для рендеринга текста. |
+| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize/) { get; set; } | Задает или получает размер шрифта текста. |
+| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle/) { get; set; } | Устанавливает или получает стиль шрифта текста. |
+| virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap/) { get; set; } | Устанавливает или получает код, определяющий форму конечных точек для любого открытого пути, который обведен. |
+| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset/) { get; set; } | Устанавливает или получает смещение фазы текущего шаблона пунктирной линии. |
+| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern/) { get; set; } | Задает или получает описание шаблона пунктира, который будет использоваться при обводке контуров. |
+| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle/) { get; set; } | Наборы стилей штриховых линий штрихового контура. |
+| virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin/) { get; set; } | Устанавливает или получает код, определяющий форму стыков между соединенными сегментами заштрихованного пути. |
+| virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth/) { get; set; } | Устанавливает или получает толщину обводимых контуров. |
+| virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit/) { get; set; } | Устанавливает или получает максимальную длину соединения линий под углом для обведенных путей. Этот параметр ограничивает длину «выступов», возникающих при соединении сегментов под острыми углами. |
+| virtual [StrokeBrush](../../aspose.svg.rendering/graphiccontext/strokebrush/) { get; set; } | Устанавливает или получает объект-кисть, который используется для обведенных контуров. |
+| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo/) { get; } | Получает[`TextInfo`](../textinfo/) объект, который содержит информацию о отображаемом тексте. |
+| virtual [TransformationMatrix](../../aspose.svg.rendering/graphiccontext/transformationmatrix/) { get; set; } | Устанавливает или получает матрицу преобразования. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Clone](../../aspose.svg.rendering/graphiccontext/clone)() | Создает новый экземпляр класса GraphicContext с теми же значениями свойств, что и существующий экземпляр. |
-| virtual [Transform](../../aspose.svg.rendering/graphiccontext/transform)(Matrix) | Изменить текущую матрицу преобразования, умножив указанную матрицу. |
+| virtual [Clone](../../aspose.svg.rendering/graphiccontext/clone/)() | Создает новый экземпляр класса GraphicContext с теми же значениями свойств, что и существующий экземпляр. |
+| virtual [Transform](../../aspose.svg.rendering/graphiccontext/transform/)(Matrix) | Изменить текущую матрицу преобразования, умножив указанную матрицу. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering)
+* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
 * сборка [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

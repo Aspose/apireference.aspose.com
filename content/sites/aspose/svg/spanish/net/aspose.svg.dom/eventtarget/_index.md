@@ -1,14 +1,14 @@
 ---
-title: EventTarget
+title: Class EventTarget
 second_title: Referencia de API de Aspose.SVG para .NET
-description: ElEventTarget./eventtarget Todos los nodos implementan la interfaz en una implementación que admite el modelo de eventos DOM. Por lo tanto esta interfaz se puede obtener utilizando métodos de conversión específicos de vinculación en una instancia de la interfaz de nodo. La interfaz permite el registro y la eliminación de escuchas de eventos en unEventTarget./eventtarget y envío de eventos a eseIEventTarget../aspose.svg.dom.events/ieventtarget .
+description: Aspose.Svg.Dom.EventTarget clase. ElEventTarget Todos los nodos implementan la interfaz en una implementación que admite el modelo de eventos DOM. Por lo tanto esta interfaz se puede obtener utilizando métodos de conversión específicos de vinculación en una instancia de la interfaz de nodo. La interfaz permite el registro y la eliminación de escuchas de eventos en unEventTarget y envío de eventos a eseIEventTarget .
 type: docs
 weight: 870
 url: /es/net/aspose.svg.dom/eventtarget/
 ---
 ## EventTarget class
 
-El[`EventTarget`](../eventtarget) Todos los nodos implementan la interfaz en una implementación que admite el modelo de eventos DOM. Por lo tanto, esta interfaz se puede obtener utilizando métodos de conversión específicos de vinculación en una instancia de la interfaz de nodo. La interfaz permite el registro y la eliminación de escuchas de eventos en un[`EventTarget`](../eventtarget) y envío de eventos a ese[`IEventTarget`](../../aspose.svg.dom.events/ieventtarget) .
+El`EventTarget` Todos los nodos implementan la interfaz en una implementación que admite el modelo de eventos DOM. Por lo tanto, esta interfaz se puede obtener utilizando métodos de conversión específicos de vinculación en una instancia de la interfaz de nodo. La interfaz permite el registro y la eliminación de escuchas de eventos en un`EventTarget` y envío de eventos a ese[`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/) .
 
 ```csharp
 public class EventTarget : DOMObject, IDisposable, IEventTarget
@@ -18,21 +18,21 @@ public class EventTarget : DOMObject, IDisposable, IEventTarget
 
 | Nombre | Descripción |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener_1)(string, IEventListener) | Este método permite el registro de detectores de eventos en el destino del evento. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener)(string, DOMEventHandler, bool) | Este método permite el registro de detectores de eventos en el destino del evento. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener_2)(string, IEventListener, bool) | Este método permite el registro de detectores de eventos en el destino del evento. |
-| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent)(Event) | Este método permite el envío de eventos al modelo de eventos de implementaciones. |
-| [Dispose](../../aspose.svg.dom/eventtarget/dispose)() | Realiza tareas definidas por la aplicación asociadas con liberar, liberar o restablecer recursos no administrados. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Este método se utiliza para recuperar el objeto ECMAScriptType . |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener_1)(string, IEventListener) | Este método permite eliminar detectores de eventos del destino del evento. Si[`IEventListener`](../../aspose.svg.dom.events/ieventlistener) se elimina de un[`EventTarget`](../eventtarget) mientras está procesando un evento, no será activado por las acciones actuales. Los detectores de eventos nunca se pueden invocar después de eliminarlos. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener)(string, DOMEventHandler, bool) | Este método permite eliminar detectores de eventos del destino del evento. Si[`IEventListener`](../../aspose.svg.dom.events/ieventlistener) se elimina de un[`EventTarget`](../eventtarget) mientras está procesando un evento, no será activado por las acciones actuales. Los detectores de eventos nunca se pueden invocar después de eliminarlos. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener_2)(string, IEventListener, bool) | Este método permite eliminar detectores de eventos del destino del evento. Si[`IEventListener`](../../aspose.svg.dom.events/ieventlistener) se elimina de un[`EventTarget`](../eventtarget) mientras está procesando un evento, no será activado por las acciones actuales. Los detectores de eventos nunca se pueden invocar después de eliminarlos. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener_1)(string, IEventListener) | Este método permite el registro de detectores de eventos en el destino del evento. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener)(string, DOMEventHandler, bool) | Este método permite el registro de detectores de eventos en el destino del evento. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener_2)(string, IEventListener, bool) | Este método permite el registro de detectores de eventos en el destino del evento. |
+| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | Este método permite el envío de eventos al modelo de eventos de implementaciones. |
+| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Realiza tareas definidas por la aplicación asociadas con liberar, liberar o restablecer recursos no administrados. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Este método se utiliza para recuperar el objeto ECMAScriptType . |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_1)(string, IEventListener) | Este método permite eliminar detectores de eventos del destino del evento. Si[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) se elimina de un`EventTarget` mientras está procesando un evento, no será activado por las acciones actuales. Los detectores de eventos nunca se pueden invocar después de eliminarlos. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener)(string, DOMEventHandler, bool) | Este método permite eliminar detectores de eventos del destino del evento. Si[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) se elimina de un`EventTarget` mientras está procesando un evento, no será activado por las acciones actuales. Los detectores de eventos nunca se pueden invocar después de eliminarlos. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_2)(string, IEventListener, bool) | Este método permite eliminar detectores de eventos del destino del evento. Si[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) se elimina de un`EventTarget` mientras está procesando un evento, no será activado por las acciones actuales. Los detectores de eventos nunca se pueden invocar después de eliminarlos. |
 
 ### Ver también
 
-* class [DOMObject](../domobject)
-* interface [IEventTarget](../../aspose.svg.dom.events/ieventtarget)
-* espacio de nombres [Aspose.Svg.Dom](../../aspose.svg.dom)
+* class [DOMObject](../domobject/)
+* interface [IEventTarget](../../aspose.svg.dom.events/ieventtarget/)
+* espacio de nombres [Aspose.Svg.Dom](../../aspose.svg.dom/)
 * asamblea [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: UnitType
+title: Class UnitType
 second_title: Aspose.SVG for .NET API Referansı
-description: Ölçü birimini belirtir.
+description: Aspose.Svg.Drawing.UnitType sınıf. Ölçü birimini belirtir.
 type: docs
 weight: 1610
 url: /tr/net/aspose.svg.drawing/unittype/
@@ -18,53 +18,53 @@ public sealed class UnitType : IEquatable<UnitType>
 
 | İsim | Tanım |
 | --- | --- |
-| override [Equals](../../aspose.svg.drawing/unittype/equals#equals_1)(object) | BelirtilenObject , bu örneğe eşittir. |
-| [Equals](../../aspose.svg.drawing/unittype/equals#equals)(UnitType) | Belirtilen[`UnitType`](../unittype) , bu örneğe eşittir. |
-| override [GetHashCode](../../aspose.svg.drawing/unittype/gethashcode)() | Bu örnek için bir karma kod döndürür. |
-| override [ToString](../../aspose.svg.drawing/unittype/tostring)() | Bir döndürürString bu, bu örneği temsil eder. |
-| [operator ==](../../aspose.svg.drawing/unittype/op_equality) | Belirtilen ikisinin[`UnitType`](../unittype) değerler eşittir. |
-| [explicit operator](../../aspose.svg.drawing/unittype/op_explicit) | Şundan açık bir dönüştürme gerçekleştirir:[`UnitType`](../unittype) ileString . |
-| [implicit operator](../../aspose.svg.drawing/unittype/op_implicit) | Şundan örtük bir dönüştürme gerçekleştirir:String ile[`UnitType`](../unittype) . |
-| [operator !=](../../aspose.svg.drawing/unittype/op_inequality) | Belirtilen ikisinin[`UnitType`](../unittype) değerler eşit değil. |
+| override [Equals](../../aspose.svg.drawing/unittype/equals/#equals_1)(object) | Belirtilenin olup olmadığını belirler.Object , bu örneğe eşittir. |
+| [Equals](../../aspose.svg.drawing/unittype/equals/#equals)(UnitType) | Belirtilenin olup olmadığını belirler.`UnitType` , bu örneğe eşittir. |
+| override [GetHashCode](../../aspose.svg.drawing/unittype/gethashcode/)() | Bu örnek için bir karma kod döndürür. |
+| override [ToString](../../aspose.svg.drawing/unittype/tostring/)() | a döndürürString bu örneği temsil eder. |
+| [operator ==](../../aspose.svg.drawing/unittype/op_equality/) | Belirtilen ikisinin olup olmadığını belirler`UnitType` değerler eşittir. |
+| [explicit operator](../../aspose.svg.drawing/unittype/op_explicit/) | Şuradan açık bir dönüştürme gerçekleştirir:`UnitType` ileString . |
+| [implicit operator](../../aspose.svg.drawing/unittype/op_implicit/) | Şuradan örtülü bir dönüştürme gerçekleştirir:String ile`UnitType` . |
+| [operator !=](../../aspose.svg.drawing/unittype/op_inequality/) | Belirtilen ikisinin olup olmadığını belirler`UnitType` değerler eşit değil. |
 
 ## Alanlar
 
 | İsim | Tanım |
 | --- | --- |
-| static readonly [Auto](../../aspose.svg.drawing/unittype/auto) | Ölçüm tanımlı değil. |
-| static readonly [Ch](../../aspose.svg.drawing/unittype/ch) | Ölçüm, "0" (sıfır) genişliğine göredir. |
-| static readonly [Cm](../../aspose.svg.drawing/unittype/cm) | Ölçüm santimetre cinsindendir |
-| static readonly [Deg](../../aspose.svg.drawing/unittype/deg) | Ölçüm derece cinsindendir. |
-| static readonly [Dpcm](../../aspose.svg.drawing/unittype/dpcm) | Ölçüm nokta/santimetre cinsindendir. |
-| static readonly [Dpi](../../aspose.svg.drawing/unittype/dpi) | Ölçüm, inç başına nokta cinsindendir. |
-| static readonly [Dppx](../../aspose.svg.drawing/unittype/dppx) | Ölçüm Nokta/piksel birimi cinsindendir. |
-| static readonly [Em](../../aspose.svg.drawing/unittype/em) | Ölçüm, üst öğenin yazı tipinin yüksekliğine göredir. |
-| static readonly [Ex](../../aspose.svg.drawing/unittype/ex) | Ölçüm, üst öğenin yazı tipinin küçük x harfinin yüksekliğine göredir. |
-| static readonly [Grad](../../aspose.svg.drawing/unittype/grad) | Ölçüm gradyan cinsindendir. |
-| static readonly [Hz](../../aspose.svg.drawing/unittype/hz) | Ölçüm hertz cinsindendir. |
-| static readonly [In](../../aspose.svg.drawing/unittype/in) | Ölçüm inç cinsindendir |
-| static readonly [Integer](../../aspose.svg.drawing/unittype/integer) | Ölçüm bir tam sayıdır. |
-| static readonly [KHz](../../aspose.svg.drawing/unittype/khz) | Ölçüm kiloHertz cinsindendir. |
-| static readonly [Mm](../../aspose.svg.drawing/unittype/mm) | Ölçüm milimetredir |
-| static readonly [Ms](../../aspose.svg.drawing/unittype/ms) | Ölçüm milisaniye cinsindendir. |
-| static readonly [Pc](../../aspose.svg.drawing/unittype/pc) | Ölçüm picas içinde |
-| static readonly [Percentage](../../aspose.svg.drawing/unittype/percentage) | Ölçüm yüzde cinsindendir. |
-| static readonly [Pt](../../aspose.svg.drawing/unittype/pt) | Ölçüm nokta cinsindendir |
-| static readonly [Px](../../aspose.svg.drawing/unittype/px) | Ölçüm piksel cinsindendir |
-| static readonly [Q](../../aspose.svg.drawing/unittype/q) | Ölçüm, çeyrek milimetre cinsindendir |
-| static readonly [Rad](../../aspose.svg.drawing/unittype/rad) | Ölçüm radyan cinsindendir. |
-| static readonly [Real](../../aspose.svg.drawing/unittype/real) | Ölçüm gerçek bir sayıdır. |
-| static readonly [Rem](../../aspose.svg.drawing/unittype/rem) | Ölçüm, kök öğenin yazı tipi boyutuna göredir. |
-| static readonly [S](../../aspose.svg.drawing/unittype/s) | Ölçüm saniye cinsindendir. |
-| static readonly [Turn](../../aspose.svg.drawing/unittype/turn) | Ölçüm sırayla yapılır. |
-| static readonly [Vh](../../aspose.svg.drawing/unittype/vh) | Ölçüm, görünümün yüksekliğinin %1'ine göredir* Deneyin |
-| static readonly [Vmax](../../aspose.svg.drawing/unittype/vmax) | Ölçüm, görünümün* daha büyük boyutunun %1'ine göredir Deneyin |
-| static readonly [Vmin](../../aspose.svg.drawing/unittype/vmin) | Ölçüm, görünümün* daha küçük boyutunun %1'ine göredir Deneyin |
-| static readonly [Vw](../../aspose.svg.drawing/unittype/vw) | Ölçüm, görünümün genişliğinin %1'ine göredir* |
+| static readonly [Auto](../../aspose.svg.drawing/unittype/auto/) | Ölçüm tanımlı değil. |
+| static readonly [Ch](../../aspose.svg.drawing/unittype/ch/) | Ölçüm, "0" (sıfır) genişliğine göredir. |
+| static readonly [Cm](../../aspose.svg.drawing/unittype/cm/) | Ölçüm santimetre cinsindendir |
+| static readonly [Deg](../../aspose.svg.drawing/unittype/deg/) | Ölçüm derece cinsindendir. |
+| static readonly [Dpcm](../../aspose.svg.drawing/unittype/dpcm/) | Ölçüm, santimetre başına nokta cinsindendir. |
+| static readonly [Dpi](../../aspose.svg.drawing/unittype/dpi/) | Ölçüm inç başına nokta cinsindendir. |
+| static readonly [Dppx](../../aspose.svg.drawing/unittype/dppx/) | Ölçüm, piksel birimi başına nokta cinsindendir. |
+| static readonly [Em](../../aspose.svg.drawing/unittype/em/) | Ölçüm, üst öğenin yazı tipinin yüksekliğine göredir. |
+| static readonly [Ex](../../aspose.svg.drawing/unittype/ex/) | Ölçüm, üst öğenin yazı tipindeki küçük x harfinin yüksekliğine göredir. |
+| static readonly [Grad](../../aspose.svg.drawing/unittype/grad/) | Ölçüm gradyan cinsindendir. |
+| static readonly [Hz](../../aspose.svg.drawing/unittype/hz/) | Ölçüm hertz cinsindendir. |
+| static readonly [In](../../aspose.svg.drawing/unittype/in/) | Ölçüm inç cinsindendir |
+| static readonly [Integer](../../aspose.svg.drawing/unittype/integer/) | Ölçüm bir tam sayıdır. |
+| static readonly [KHz](../../aspose.svg.drawing/unittype/khz/) | Ölçüm kiloHertz. cinsindendir |
+| static readonly [Mm](../../aspose.svg.drawing/unittype/mm/) | Ölçüm milimetre cinsindendir |
+| static readonly [Ms](../../aspose.svg.drawing/unittype/ms/) | Ölçüm milisaniye cinsindendir. |
+| static readonly [Pc](../../aspose.svg.drawing/unittype/pc/) | Ölçüm picas 'dedir |
+| static readonly [Percentage](../../aspose.svg.drawing/unittype/percentage/) | Ölçüm yüzde cinsindendir. |
+| static readonly [Pt](../../aspose.svg.drawing/unittype/pt/) | Ölçüm nokta cinsindendir |
+| static readonly [Px](../../aspose.svg.drawing/unittype/px/) | Ölçüm piksel cinsindendir |
+| static readonly [Q](../../aspose.svg.drawing/unittype/q/) | Ölçüm çeyrek milimetre cinsindendir |
+| static readonly [Rad](../../aspose.svg.drawing/unittype/rad/) | Ölçüm radyan cinsindendir. |
+| static readonly [Real](../../aspose.svg.drawing/unittype/real/) | Ölçüm gerçek bir sayıdır. |
+| static readonly [Rem](../../aspose.svg.drawing/unittype/rem/) | Ölçüm, kök öğenin yazı tipi boyutuna bağlıdır. |
+| static readonly [S](../../aspose.svg.drawing/unittype/s/) | Ölçüm saniye cinsindendir. |
+| static readonly [Turn](../../aspose.svg.drawing/unittype/turn/) | Sırayla ölçüm yapılıyor. |
+| static readonly [Vh](../../aspose.svg.drawing/unittype/vh/) | Ölçüm, görünümün yüksekliğinin %1'ine göredir* Deneyin |
+| static readonly [Vmax](../../aspose.svg.drawing/unittype/vmax/) | Ölçüm, görünümün* daha büyük boyutunun %1'ine göredir Deneyin |
+| static readonly [Vmin](../../aspose.svg.drawing/unittype/vmin/) | Ölçüm, görünümün* daha küçük boyutunun %1'ine göredir Deneyin |
+| static readonly [Vw](../../aspose.svg.drawing/unittype/vw/) | Ölçüm, görünümün genişliğinin %1'ine göredir* |
 
 ### Ayrıca bakınız
 
-* ad alanı [Aspose.Svg.Drawing](../../aspose.svg.drawing)
+* ad alanı [Aspose.Svg.Drawing](../../aspose.svg.drawing/)
 * toplantı [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

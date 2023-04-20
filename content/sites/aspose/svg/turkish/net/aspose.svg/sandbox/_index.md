@@ -1,14 +1,14 @@
 ---
-title: Sandbox
+title: Enum Sandbox
 second_title: Aspose.SVG for .NET API Referansı
-description: Korumalı alan bayrak kümesi potansiyel olarak güvenilmeyen kaynaklara yönelik yetenekleri kısıtlamak için kullanılan aşağıdaki işaretlerden sıfır veya daha fazlasından oluşan bir kümedir.
+description: Aspose.Svg.Sandbox Sıralama. Korumalı alan bayrak seti potansiyel olarak güvenilmeyen kaynakların yeteneklerini kısıtlamak için kullanılan sıfır veya aşağıdaki bayraklardan daha fazlasıdır.
 type: docs
-weight: 3560
+weight: 3610
 url: /tr/net/aspose.svg/sandbox/
 ---
 ## Sandbox enumeration
 
-Korumalı alan bayrak kümesi, potansiyel olarak güvenilmeyen kaynaklara yönelik yetenekleri kısıtlamak için kullanılan, aşağıdaki işaretlerden sıfır veya daha fazlasından oluşan bir kümedir.
+Korumalı alan bayrak seti, potansiyel olarak güvenilmeyen kaynakların yeteneklerini kısıtlamak için kullanılan sıfır veya aşağıdaki bayraklardan daha fazlasıdır.
 
 ```csharp
 [Flags]
@@ -19,23 +19,23 @@ public enum Sandbox
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| None | `0` | Bayrak ayarlanmadı, her korumalı alan özelliği kabul edildi |
-| Navigation | `1` | Bu işaret, içeriğin korumalı alana alınmış gözatma bağlamının kendisi (veya içinde daha fazla yuvalanmış bağlamlara gözatma), yardımcı göz atma bağlamları (daha sonra tanımlanan korumalı alanlı yardımcı gezinme gözatma bağlamı bayrağı tarafından korunan) dışındaki göz atma bağlamlarında gezinmesini engeller. tarama bağlamı (aşağıda tanımlanan korumalı alanlı üst düzey gezinme tarama bağlamı bayrağı tarafından korunur). Korumalı alanlı yardımcı gezinme tarama bağlam bayrağı ayarlanmamışsa, bazı durumlarda kısıtlamalar yine de açılır pencerelerin (yeni üst düzey tarama bağlamları) açılmasına izin verir. Bu tarama bağlamlarında her zaman izin verilen bir korumalı alan gezgini bulunur; bu, tarama bağlamı oluşturulduğunda ayarlanır ve bu, onları oluşturan tarama bağlamının gerçekte gezinmesine olanak tanır. (Aksi takdirde, korumalı alan gezinme tarama bağlamı bayrağı, açılmış olsalar bile gezinmelerini engeller. |
-| AuxiliaryNavigation | `2` | Bu işaret, içeriğin, örneğin hedef özniteliği veya window.open() yöntemini kullanarak yeni yardımcı tarama bağlamları oluşturmasını engeller. |
-| TopLevelNavigation | `4` | Bu işaret, içeriğin üst düzey tarama bağlamında gezinmesini ve içeriğin üst düzey tarama bağlamını kapatmasını engeller. Korumalı alan üst düzey gezinme tarama bağlamı bayrağı ayarlanmadığında, içerik en üst düzey tarama bağlamında gezinebilir, ancak diğer tarama bağlamları, korumalı alan gezinme tarama bağlam bayrağı ve muhtemelen korumalı alan yardımcı gezinme gezinme tarama bağlam bayrağı tarafından korunmaya devam eder. |
-| Plugins | `8` | Bu işaret, içeriğin, bu eklentiler güvenli hale getirilemediği sürece, gömme öğesi, nesne öğesi, uygulama öğesi veya iç içe gözatma bağlamında gezinme yoluyla eklentileri başlatmasını engeller. |
-| Origin | `10` | Bu işaret, içeriği benzersiz bir kaynağa zorlar, böylece aynı kaynaktan başka içeriğe erişmesini engeller. |
+| None | `0` | İşaret ayarlanmadı, her sanal alan özelliği kabul edildi |
+| Navigation | `1` | Bu bayrak, içeriğin, korumalı alan gözatma bağlamının kendisi (veya bunun içinde daha fazla yuvalanmış olan göz atma bağlamları), yardımcı göz atma bağlamları (bir sonraki adımda tanımlanan korumalı alan yardımcı gezinme göz atma bağlamı bayrağı tarafından korunan) ve üst seviye dışındaki göz atma bağlamlarında gezinmesini engeller. göz atma içeriği (aşağıda tanımlanan korumalı alanlı üst düzey gezinme göz atma bağlamı bayrağı tarafından korunur). Korumalı alan yardımcı navigasyon göz atma içeriği bayrağı ayarlanmamışsa, bazı durumlarda kısıtlamalar yine de açılır pencerelerin (yeni üst düzey göz atma bağlamları) açılmasına izin verir. Bu göz atma bağlamlarında her zaman, göz atma bağlamı oluşturulduğunda ayarlanan ve onları oluşturan göz atma bağlamının içlerinde gerçekten gezinmesine izin veren, izin verilen bir sanal alan gezgini vardır. (Aksi takdirde, sanal alan gezinti göz atma bağlamı bayrağı, açılmış olsalar bile bunların gezinmesini engeller. |
+| AuxiliaryNavigation | `2` | Bu bayrak, içeriğin yeni yardımcı göz atma bağlamları oluşturmasını engeller, örn. target özniteliği veya window.open() yöntemi. |
+| TopLevelNavigation | `4` | Bu bayrak, içeriğin üst düzey göz atma bağlamında gezinmesini ve içeriğin üst düzey göz atma bağlamını kapatmasını engeller. Korumalı alanda üst düzey gezinme göz atma bağlamı bayrağı ayarlanmadığında, içerik üst düzey göz atma bağlamında gezinebilir, ancak diğer göz atma bağlamları, korumalı alanlı gezinme göz atma bağlamı bayrağı ve muhtemelen korumalı alanlı yardımcı gezinme göz atma bağlamı bayrağı tarafından korunmaya devam eder. |
+| Plugins | `8` | Bu bayrak, eklentiler güvenli hale getirilmedikçe, içeriğin embed öğesi, object öğesi, applet öğesi kullanılarak veya iç içe geçmiş bir göz atma bağlamında gezinme yoluyla eklentileri başlatmasını engeller. |
+| Origin | `10` | Bu bayrak, içeriği benzersiz bir kaynağa zorlar, böylece aynı kaynaktan başka içeriğe erişmesini engeller. |
 | Forms | `20` | Bu işaret, form gönderimini engeller. |
-| PointerLock | `40` | Bu bayrak, İşaretçi Kilidi API'sini devre dışı bırakır. |
-| Scripts | `80` | Bu bayrak, komut dosyasının yürütülmesini engeller. |
-| AutomaticFeatures | `100` | Bu işaret, otomatik olarak video oynatma veya bir form denetimine otomatik olarak odaklanma gibi otomatik olarak tetiklenen özellikleri engeller. |
-| Fullscreen | `200` | Bu işaret, içeriğin requestFullscreen() yöntemini kullanmasını engeller. |
-| DocumentDomain | `400` | Bu işaret, içeriğin etkin komut dosyası kaynağını değiştirmek için Document.domain özelliğini kullanmasını engeller. |
-| Images | `800` | Bu bayrak, resim yüklemeyi devre dışı bırakır. |
+| PointerLock | `40` | Bu işaret, İşaretçi Kilidi API'sini devre dışı bırakır. |
+| Scripts | `80` | Bu işaret, komut dosyasının yürütülmesini engeller. |
+| AutomaticFeatures | `100` | Bu bayrak, bir videoyu otomatik olarak oynatmak veya bir form denetimine otomatik olarak odaklanmak gibi otomatik olarak tetiklenen özellikleri engeller. |
+| Fullscreen | `200` | Bu bayrak, içeriğin requestFullscreen() yöntemini kullanmasını engeller. |
+| DocumentDomain | `400` | Bu bayrak, içeriğin, etkili betik kaynağını değiştirmek için document.domain özelliğini kullanmasını engeller. |
+| Images | `800` | Bu işaret, resim yüklemeyi devre dışı bırakır. |
 
 ### Ayrıca bakınız
 
-* ad alanı [Aspose.Svg](../../aspose.svg)
+* ad alanı [Aspose.Svg](../../aspose.svg/)
 * toplantı [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

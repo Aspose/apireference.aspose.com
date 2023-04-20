@@ -1,14 +1,14 @@
 ---
-title: ImageRenderingOptions
+title: Class ImageRenderingOptions
 second_title: Aspose.SVG für .NET-API-Referenz
-description: Repräsentiert RenderingOptionen fürImageDevice./imagedevice . Diese Option wird verwendet um das Ausgabebildformat die Komprimierung die Auflösung usw. festzulegen.
+description: Aspose.Svg.Rendering.Image.ImageRenderingOptions klas. Repräsentiert RenderingOptionen fürImageDevice . Diese Option wird verwendet um das Ausgabebildformat die Komprimierung die Auflösung usw. festzulegen.
 type: docs
-weight: 2820
+weight: 2860
 url: /de/net/aspose.svg.rendering.image/imagerenderingoptions/
 ---
 ## ImageRenderingOptions class
 
-Repräsentiert Rendering-Optionen für[`ImageDevice`](../imagedevice) . Diese Option wird verwendet, um das Ausgabebildformat, die Komprimierung, die Auflösung usw. festzulegen.
+Repräsentiert Rendering-Optionen für[`ImageDevice`](../imagedevice/) . Diese Option wird verwendet, um das Ausgabebildformat, die Komprimierung, die Auflösung usw. festzulegen.
 
 ```csharp
 public class ImageRenderingOptions : RenderingOptions
@@ -18,27 +18,27 @@ public class ImageRenderingOptions : RenderingOptions
 
 | Name | Beschreibung |
 | --- | --- |
-| [ImageRenderingOptions](imagerenderingoptions#constructor)() | Initialisiert eine neue Instanz von[`ImageRenderingOptions`](../imagerenderingoptions) Klasse;Png wird als Standardbildformat verwendet. |
-| [ImageRenderingOptions](imagerenderingoptions#constructor_1)(ImageFormat) | Initialisiert eine neue Instanz von[`ImageRenderingOptions`](../imagerenderingoptions) Klasse mit angegebenem Bildformat. |
+| [ImageRenderingOptions](imagerenderingoptions/#constructor)() | Initialisiert eine neue Instanz von`ImageRenderingOptions` Klasse;Png wird als Standardbildformat verwendet. |
+| [ImageRenderingOptions](imagerenderingoptions/#constructor_1)(ImageFormat) | Initialisiert eine neue Instanz von`ImageRenderingOptions` Klasse mit angegebenem Bildformat. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor) { get; set; } | Holt oder setztColor die den Hintergrund jeder Seite füllen wird. Standardwert istTransparent . |
-| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression) { get; set; } | Legt fest oder erhält das Tagged Image File Format (TIFF)[`Compression`](../compression) . Standardmäßig ist diese EigenschaftLZW . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css) { get; } | erhält a[`CssOptions`](../../aspose.svg.rendering/cssoptions) Objekt, das für die Konfiguration der Verarbeitung von CSS-Eigenschaften verwendet wird. |
-| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format) { get; set; } | Setzt oder bekommt[`ImageFormat`](../imageformat) . Standardmäßig ist diese EigenschaftPng . |
-| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution) { get; set; } | Setzt oder erhält die horizontale Auflösung für ausgegebene und interne Bilder (die während der Filterverarbeitung verwendet werden) in Pixel pro Zoll. Standardmäßig ist diese Eigenschaft 300 dpi. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup) { get; } | Ruft ein Seiteneinrichtungsobjekt ab, das für die Konfigurationsausgabe des Seitensatzes verwendet wird. |
-| [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode) { get; set; } | Ruft die Wiedergabequalität für diese Grafik ab oder legt sie fest. |
-| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text) { get; } | erhält a[`TextOptions`](../textoptions) Objekt, das zur Konfiguration der Textwiedergabe verwendet wird. |
-| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution) { get; set; } | Setzt oder erhält die vertikale Auflösung für ausgegebene und interne Bilder (die während der Filterverarbeitung verwendet werden) in Pixel pro Zoll. Standardmäßig ist diese Eigenschaft 300 dpi. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Holt oder setztColor die den Hintergrund jeder Seite füllen wird. Standardwert istTransparent . |
+| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Legt fest oder erhält das Tagged Image File Format (TIFF)[`Compression`](../compression/) . Standardmäßig ist diese EigenschaftLZW . |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | erhält a[`CssOptions`](../../aspose.svg.rendering/cssoptions/) Objekt, das für die Konfiguration der Verarbeitung von CSS-Eigenschaften verwendet wird. |
+| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | Setzt oder bekommt[`ImageFormat`](../imageformat/) . Standardmäßig ist diese EigenschaftPng . |
+| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Setzt oder erhält die horizontale Auflösung für ausgegebene und interne Bilder (die während der Filterverarbeitung verwendet werden) in Pixel pro Zoll. Standardmäßig ist diese Eigenschaft 300 dpi. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Ruft ein Seiteneinrichtungsobjekt ab, das für die Konfigurationsausgabe des Seitensatzes verwendet wird. |
+| [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | Ruft die Wiedergabequalität für diese Grafik ab oder legt sie fest. |
+| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | erhält a[`TextOptions`](../textoptions/) Objekt, das zur Konfiguration der Textwiedergabe verwendet wird. |
+| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Setzt oder erhält die vertikale Auflösung für ausgegebene und interne Bilder (die während der Filterverarbeitung verwendet werden) in Pixel pro Zoll. Standardmäßig ist diese Eigenschaft 300 dpi. |
 
 ### Siehe auch
 
-* class [RenderingOptions](../../aspose.svg.rendering/renderingoptions)
-* namensraum [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image)
+* class [RenderingOptions](../../aspose.svg.rendering/renderingoptions/)
+* namensraum [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
 * Montage [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

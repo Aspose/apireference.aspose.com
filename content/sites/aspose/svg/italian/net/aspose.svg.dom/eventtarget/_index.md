@@ -1,14 +1,14 @@
 ---
-title: EventTarget
+title: Class EventTarget
 second_title: Riferimento API Aspose.SVG per .NET
-description: IlEventTarget./eventtarget linterfaccia è implementata da tutti i nodi in unimplementazione che supporta il modello di eventi DOM. Pertanto questa interfaccia può essere ottenuta utilizzando metodi di cast specifici per lassociazione su unistanza dellinterfaccia di nodi. Linterfaccia consente la registrazione e la rimozione di ascoltatori di eventi su unEventTarget./eventtarget e linvio di eventi a quelloIEventTarget../aspose.svg.dom.events/ieventtarget .
+description: Aspose.Svg.Dom.EventTarget classe. IlEventTarget linterfaccia è implementata da tutti i nodi in unimplementazione che supporta il modello di eventi DOM. Pertanto questa interfaccia può essere ottenuta utilizzando metodi di cast specifici dellassociazione su unistanza dellinterfaccia del nodo. Linterfaccia consente la registrazione e la rimozione di Event Listener su UNEventTarget e linvio di eventi a quelloIEventTarget .
 type: docs
 weight: 870
 url: /it/net/aspose.svg.dom/eventtarget/
 ---
 ## EventTarget class
 
-Il[`EventTarget`](../eventtarget) l'interfaccia è implementata da tutti i nodi in un'implementazione che supporta il modello di eventi DOM. Pertanto, questa interfaccia può essere ottenuta utilizzando metodi di cast specifici per l'associazione su un'istanza dell'interfaccia di nodi. L'interfaccia consente la registrazione e la rimozione di ascoltatori di eventi su un[`EventTarget`](../eventtarget) e l'invio di eventi a quello[`IEventTarget`](../../aspose.svg.dom.events/ieventtarget) .
+Il`EventTarget` l'interfaccia è implementata da tutti i nodi in un'implementazione che supporta il modello di eventi DOM. Pertanto, questa interfaccia può essere ottenuta utilizzando metodi di cast specifici dell'associazione su un'istanza dell'interfaccia del nodo. L'interfaccia consente la registrazione e la rimozione di Event Listener su UN`EventTarget` e l'invio di eventi a quello[`IEventTarget`](../../aspose.svg.dom.events/ieventtarget/) .
 
 ```csharp
 public class EventTarget : DOMObject, IDisposable, IEventTarget
@@ -18,21 +18,21 @@ public class EventTarget : DOMObject, IDisposable, IEventTarget
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener_1)(string, IEventListener) | Questo metodo consente la registrazione di listener di eventi sulla destinazione dell'evento. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener)(string, DOMEventHandler, bool) | Questo metodo consente la registrazione di listener di eventi sulla destinazione dell'evento. |
-| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener#addeventlistener_2)(string, IEventListener, bool) | Questo metodo consente la registrazione di listener di eventi sulla destinazione dell'evento. |
-| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent)(Event) | Questo metodo consente l'invio di eventi nel modello di eventi di implementazione. |
-| [Dispose](../../aspose.svg.dom/eventtarget/dispose)() | Esegue attività definite dall'applicazione associate alla liberazione, al rilascio o al ripristino di risorse non gestite. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Questo metodo viene utilizzato per recuperare l'oggetto ECMAScriptType . |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener_1)(string, IEventListener) | Questo metodo consente la rimozione di listener di eventi dalla destinazione dell'evento. Se un[`IEventListener`](../../aspose.svg.dom.events/ieventlistener) viene rimosso da un[`EventTarget`](../eventtarget) mentre sta elaborando un evento, non verrà attivato dalle azioni correnti. I listener di eventi non possono mai essere richiamati dopo essere stati rimossi. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener)(string, DOMEventHandler, bool) | Questo metodo consente la rimozione di listener di eventi dalla destinazione dell'evento. Se un[`IEventListener`](../../aspose.svg.dom.events/ieventlistener) viene rimosso da un[`EventTarget`](../eventtarget) mentre sta elaborando un evento, non verrà attivato dalle azioni correnti. I listener di eventi non possono mai essere richiamati dopo essere stati rimossi. |
-| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener#removeeventlistener_2)(string, IEventListener, bool) | Questo metodo consente la rimozione di listener di eventi dalla destinazione dell'evento. Se un[`IEventListener`](../../aspose.svg.dom.events/ieventlistener) viene rimosso da un[`EventTarget`](../eventtarget) mentre sta elaborando un evento, non verrà attivato dalle azioni correnti. I listener di eventi non possono mai essere richiamati dopo essere stati rimossi. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener_1)(string, IEventListener) | Questo metodo consente la registrazione dei listener di eventi sul target dell'evento. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener)(string, DOMEventHandler, bool) | Questo metodo consente la registrazione dei listener di eventi sul target dell'evento. |
+| [AddEventListener](../../aspose.svg.dom/eventtarget/addeventlistener/#addeventlistener_2)(string, IEventListener, bool) | Questo metodo consente la registrazione dei listener di eventi sul target dell'evento. |
+| [DispatchEvent](../../aspose.svg.dom/eventtarget/dispatchevent/)(Event) | Questo metodo consente l'invio di eventi nel modello di eventi delle implementazioni. |
+| [Dispose](../../aspose.svg.dom/eventtarget/dispose/)() | Esegue attività definite dall'applicazione associate alla liberazione, al rilascio o al ripristino di risorse non gestite. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Questo metodo viene utilizzato per recuperare l'oggetto ECMAScriptType . |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_1)(string, IEventListener) | Questo metodo consente la rimozione dei listener di eventi dalla destinazione dell'evento. Se un[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) viene rimosso da un`EventTarget` mentre sta elaborando un evento, non verrà attivato dalle azioni correnti. I listener di eventi non possono mai essere richiamati dopo essere stati rimossi. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener)(string, DOMEventHandler, bool) | Questo metodo consente la rimozione dei listener di eventi dalla destinazione dell'evento. Se un[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) viene rimosso da un`EventTarget` mentre sta elaborando un evento, non verrà attivato dalle azioni correnti. I listener di eventi non possono mai essere richiamati dopo essere stati rimossi. |
+| [RemoveEventListener](../../aspose.svg.dom/eventtarget/removeeventlistener/#removeeventlistener_2)(string, IEventListener, bool) | Questo metodo consente la rimozione dei listener di eventi dalla destinazione dell'evento. Se un[`IEventListener`](../../aspose.svg.dom.events/ieventlistener/) viene rimosso da un`EventTarget` mentre sta elaborando un evento, non verrà attivato dalle azioni correnti. I listener di eventi non possono mai essere richiamati dopo essere stati rimossi. |
 
 ### Guarda anche
 
-* class [DOMObject](../domobject)
-* interface [IEventTarget](../../aspose.svg.dom.events/ieventtarget)
-* spazio dei nomi [Aspose.Svg.Dom](../../aspose.svg.dom)
+* class [DOMObject](../domobject/)
+* interface [IEventTarget](../../aspose.svg.dom.events/ieventtarget/)
+* spazio dei nomi [Aspose.Svg.Dom](../../aspose.svg.dom/)
 * assemblea [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

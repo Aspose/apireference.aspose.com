@@ -1,14 +1,14 @@
 ---
-title: PdfDevice
+title: PdfDevice.PdfDevice
 second_title: Riferimento API Aspose.SVG per .NET
-description: Inizializza una nuova istanza diPdfDeviceaspose.svg.rendering.pdf/pdfdevice classe.
+description: PdfDevice costruttore. Inizializza una nuova istanza diPdfDevice classe.
 type: docs
 weight: 10
 url: /it/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(ICreateStreamProvider) {#constructor}
 
-Inizializza una nuova istanza di[`PdfDevice`](../../pdfdevice) classe.
+Inizializza una nuova istanza di[`PdfDevice`](../) classe.
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 ### Guarda anche
 
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Inizializza una nuova istanza di[`PdfDevice`](../../pdfdevice) classe per opzioni di rendering e provider di streaming.
+Inizializza una nuova istanza di[`PdfDevice`](../) class in base alle opzioni di rendering e allo stream provider.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | options | PdfRenderingOptions | Opzioni di rendering. |
-| streamProvider | ICreateStreamProvider | Oggetto che implementa il[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) interfaccia |
+| streamProvider | ICreateStreamProvider | Oggetto che implementa il[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interfaccia |
 
 ### Guarda anche
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(string) {#constructor_5}
 
-Inizializza una nuova istanza di[`PdfDevice`](../../pdfdevice) classe.
+Inizializza una nuova istanza di[`PdfDevice`](../) classe.
 
 ```csharp
 public PdfDevice(string file)
@@ -64,15 +64,15 @@ public PdfDevice(string file)
 
 ### Guarda anche
 
-* class [PdfDevice](../../pdfdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
 
-Inizializza una nuova istanza di[`PdfDevice`](../../pdfdevice) classe per opzioni di rendering e nome del file di output.
+Inizializza una nuova istanza di[`PdfDevice`](../) class in base alle opzioni di rendering e al nome del file di output.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 ### Guarda anche
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(Stream) {#constructor_4}
 
-Inizializza una nuova istanza di[`PdfDevice`](../../pdfdevice) classe.
+Inizializza una nuova istanza di[`PdfDevice`](../) classe.
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -106,15 +106,15 @@ public PdfDevice(Stream stream)
 
 ### Guarda anche
 
-* class [PdfDevice](../../pdfdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
 
-Inizializza una nuova istanza di[`PdfDevice`](../../pdfdevice) classe per opzioni di rendering e flusso di output.
+Inizializza una nuova istanza di[`PdfDevice`](../) classe tramite opzioni di rendering e flusso di output.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 ### Guarda anche
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * assemblea [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

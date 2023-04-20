@@ -1,14 +1,14 @@
 ---
-title: Color
+title: Color.Color
 second_title: Référence de l'API Aspose.SVG pour .NET
-description: Initialise une nouvelle instance duColoraspose.svg.drawing/color class. Par défaut la couleur est le noir.
+description: Color constructeur. Initialise une nouvelle instance duColor class. Par défaut la couleur est le noir.
 type: docs
 weight: 10
 url: /fr/net/aspose.svg.drawing/color/color/
 ---
 ## Color() {#constructor}
 
-Initialise une nouvelle instance du[`Color`](../../color) class. Par défaut, la couleur est le noir.
+Initialise une nouvelle instance du[`Color`](../) class. Par défaut, la couleur est le noir.
 
 ```csharp
 public Color()
@@ -16,15 +16,15 @@ public Color()
 
 ### Voir également
 
-* class [Color](../../color)
-* espace de noms [Aspose.Svg.Drawing](../../color)
+* class [Color](../)
+* espace de noms [Aspose.Svg.Drawing](../../color/)
 * Assemblée [Aspose.SVG](../../../)
 
 ---
 
 ## Color(float, float, float) {#constructor_5}
 
-Initialise une nouvelle instance du[`Color`](../../color) class. Toutes les composantes de couleur doivent être comprises entre 0 et 1.
+Initialise une nouvelle instance du[`Color`](../) class. Toutes les composantes de couleur doivent être comprises entre 0 et 1.
 
 ```csharp
 public Color(float red, float green, float blue)
@@ -38,15 +38,15 @@ public Color(float red, float green, float blue)
 
 ### Voir également
 
-* class [Color](../../color)
-* espace de noms [Aspose.Svg.Drawing](../../color)
+* class [Color](../)
+* espace de noms [Aspose.Svg.Drawing](../../color/)
 * Assemblée [Aspose.SVG](../../../)
 
 ---
 
 ## Color(float, float, float, float) {#constructor_6}
 
-Initialise une nouvelle instance du[`Color`](../../color) class. Toutes les composantes de couleur doivent être comprises entre 0 et 1.
+Initialise une nouvelle instance du[`Color`](../) class. Toutes les composantes de couleur doivent être comprises entre 0 et 1.
 
 ```csharp
 public Color(float red, float green, float blue, float alpha)
@@ -61,15 +61,15 @@ public Color(float red, float green, float blue, float alpha)
 
 ### Voir également
 
-* class [Color](../../color)
-* espace de noms [Aspose.Svg.Drawing](../../color)
+* class [Color](../)
+* espace de noms [Aspose.Svg.Drawing](../../color/)
 * Assemblée [Aspose.SVG](../../../)
 
 ---
 
 ## Color(byte, byte, byte) {#constructor_1}
 
-Initialise une nouvelle instance du[`Color`](../../color)class. Toutes les composantes de couleur doivent être comprises entre 0 et 255.
+Initialise une nouvelle instance du[`Color`](../)class. Toutes les composantes de couleur doivent être comprises entre 0 et 255.
 
 ```csharp
 public Color(byte red, byte green, byte blue)
@@ -83,15 +83,15 @@ public Color(byte red, byte green, byte blue)
 
 ### Voir également
 
-* class [Color](../../color)
-* espace de noms [Aspose.Svg.Drawing](../../color)
+* class [Color](../)
+* espace de noms [Aspose.Svg.Drawing](../../color/)
 * Assemblée [Aspose.SVG](../../../)
 
 ---
 
 ## Color(byte, byte, byte, byte) {#constructor_2}
 
-Initialise une nouvelle instance du[`Color`](../../color)class. Toutes les composantes de couleur doivent être comprises entre 0 et 255.
+Initialise une nouvelle instance du[`Color`](../)class. Toutes les composantes de couleur doivent être comprises entre 0 et 255.
 
 ```csharp
 public Color(byte red, byte green, byte blue, byte alpha)
@@ -106,15 +106,15 @@ public Color(byte red, byte green, byte blue, byte alpha)
 
 ### Voir également
 
-* class [Color](../../color)
-* espace de noms [Aspose.Svg.Drawing](../../color)
+* class [Color](../)
+* espace de noms [Aspose.Svg.Drawing](../../color/)
 * Assemblée [Aspose.SVG](../../../)
 
 ---
 
 ## Color(int, int, int) {#constructor_3}
 
-Initialise une nouvelle instance du[`Color`](../../color)class. Toutes les composantes de couleur doivent être comprises entre 0 et 255.
+Initialise une nouvelle instance du[`Color`](../)class. Toutes les composantes de couleur doivent être comprises entre 0 et 255.
 
 ```csharp
 public Color(int red, int green, int blue)
@@ -128,15 +128,15 @@ public Color(int red, int green, int blue)
 
 ### Voir également
 
-* class [Color](../../color)
-* espace de noms [Aspose.Svg.Drawing](../../color)
+* class [Color](../)
+* espace de noms [Aspose.Svg.Drawing](../../color/)
 * Assemblée [Aspose.SVG](../../../)
 
 ---
 
 ## Color(int, int, int, int) {#constructor_4}
 
-Initialise une nouvelle instance du[`Color`](../../color)class. Toutes les composantes de couleur doivent être comprises entre 0 et 255.
+Initialise une nouvelle instance du[`Color`](../)class. Toutes les composantes de couleur doivent être comprises entre 0 et 255.
 
 ```csharp
 public Color(int red, int green, int blue, int alpha)
@@ -151,8 +151,8 @@ public Color(int red, int green, int blue, int alpha)
 
 ### Voir également
 
-* class [Color](../../color)
-* espace de noms [Aspose.Svg.Drawing](../../color)
+* class [Color](../)
+* espace de noms [Aspose.Svg.Drawing](../../color/)
 * Assemblée [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

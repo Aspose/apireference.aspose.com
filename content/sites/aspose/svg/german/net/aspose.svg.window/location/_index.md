@@ -1,9 +1,9 @@
 ---
-title: Location
+title: Class Location
 second_title: Aspose.SVG für .NET-API-Referenz
-description: LocationObjekte bieten eine Darstellung der Adresse des aktiven Dokuments des BrowsingKontexts ihres Dokuments und ermöglichen dass der aktuelle Eintrag des Sitzungsverlaufs des BrowsingKontexts geändert wird indem Einträge im HistoryObjekt hinzugefügt oder ersetzt werden.
+description: Aspose.Svg.Window.Location klas. LocationObjekte bieten eine Darstellung der Adresse des aktiven Dokuments des BrowsingKontexts ihres Dokuments und ermöglichen dass der aktuelle Eintrag des Sitzungsverlaufs des BrowsingKontexts geändert wird indem Einträge im HistoryObjekt hinzugefügt oder ersetzt werden.
 type: docs
-weight: 3770
+weight: 3850
 url: /de/net/aspose.svg.window/location/
 ---
 ## Location class
@@ -18,36 +18,36 @@ public sealed class Location : Url
 
 | Name | Beschreibung |
 | --- | --- |
-| [Hash](../../aspose.svg/url/hash) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Hash-Segment ab oder legt sie fest. |
-| [Host](../../aspose.svg/url/host) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Host ab oder legt diese fest. |
-| [Hostname](../../aspose.svg/url/hostname) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Hostnamen ab oder legt diese fest. |
-| [Href](../../aspose.svg/url/href) { get; set; } | Ruft eine serialisierte Darstellung für die angegebene URL-Instanz ab oder legt sie fest. |
-| [Origin](../../aspose.svg/url/origin) { get; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Ursprung ab. |
-| [Password](../../aspose.svg/url/password) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Passwort ab oder legt sie fest. |
-| [Pathname](../../aspose.svg/url/pathname) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Pfad ab oder legt sie fest. |
-| [Port](../../aspose.svg/url/port) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Port ab oder legt diese fest. |
-| [Protocol](../../aspose.svg/url/protocol) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Schema ab oder legt sie fest. |
-| [Search](../../aspose.svg/url/search) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Suchsegment ab oder legt sie fest. |
-| [SearchParams](../../aspose.svg/url/searchparams) { get; } | Ruft eine zugeordnete ab[`IUrlSearchParams`](../../aspose.svg/iurlsearchparams) Objekt. |
-| [Username](../../aspose.svg/url/username) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Benutzernamen ab oder legt diese fest. |
+| [Hash](../../aspose.svg/url/hash/) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Hash-Segment ab oder legt sie fest. |
+| [Host](../../aspose.svg/url/host/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Host ab oder legt diese fest. |
+| [Hostname](../../aspose.svg/url/hostname/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Hostnamen ab oder legt diese fest. |
+| [Href](../../aspose.svg/url/href/) { get; set; } | Ruft eine serialisierte Darstellung für die angegebene URL-Instanz ab oder legt sie fest. |
+| [Origin](../../aspose.svg/url/origin/) { get; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Ursprung ab. |
+| [Password](../../aspose.svg/url/password/) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Passwort ab oder legt sie fest. |
+| [Pathname](../../aspose.svg/url/pathname/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Pfad ab oder legt sie fest. |
+| [Port](../../aspose.svg/url/port/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Port ab oder legt diese fest. |
+| [Protocol](../../aspose.svg/url/protocol/) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Schema ab oder legt sie fest. |
+| [Search](../../aspose.svg/url/search/) { get; set; } | Ruft eine Zeichenfolgendarstellung für das angegebene URL-Suchsegment ab oder legt sie fest. |
+| [SearchParams](../../aspose.svg/url/searchparams/) { get; } | Ruft eine zugeordnete ab[`IUrlSearchParams`](../../aspose.svg/iurlsearchparams/) Objekt. |
+| [Username](../../aspose.svg/url/username/) { get; set; } | Ruft eine Zeichenfolgendarstellung für den angegebenen URL-Benutzernamen ab oder legt diese fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Assign](../../aspose.svg.window/location/assign)(string) | Navigiert zur angegebenen Seite. |
-| override [Equals](../../aspose.svg/url/equals)(object) | Bestimmt, ob die angegebeneObject , entspricht dieser Instanz. |
-| override [GetHashCode](../../aspose.svg/url/gethashcode)() | Gibt einen Hash-Code für diese Instanz zurück. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
-| [Reload](../../aspose.svg.window/location/reload)() | Lädt die aktuelle Seite neu. |
-| [Replace](../../aspose.svg.window/location/replace)(string) | Entfernt die aktuelle Seite aus dem Sitzungsverlauf und navigiert zur angegebenen Seite. |
-| [ToJson](../../aspose.svg/url/tojson)() | Gibt a zurückString die diese Instanz darstellt. |
-| override [ToString](../../aspose.svg/url/tostring)() | Gibt a zurückString die diese Instanz darstellt. |
+| [Assign](../../aspose.svg.window/location/assign/)(string) | Navigiert zur angegebenen Seite. |
+| override [Equals](../../aspose.svg/url/equals/)(object) | Bestimmt, ob die angegebeneObject , entspricht dieser Instanz. |
+| override [GetHashCode](../../aspose.svg/url/gethashcode/)() | Gibt einen Hash-Code für diese Instanz zurück. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
+| [Reload](../../aspose.svg.window/location/reload/)() | Lädt die aktuelle Seite neu. |
+| [Replace](../../aspose.svg.window/location/replace/)(string) | Entfernt die aktuelle Seite aus dem Sitzungsverlauf und navigiert zur angegebenen Seite. |
+| [ToJson](../../aspose.svg/url/tojson/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [ToString](../../aspose.svg/url/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
 
 ### Siehe auch
 
-* class [Url](../../aspose.svg/url)
-* namensraum [Aspose.Svg.Window](../../aspose.svg.window)
+* class [Url](../../aspose.svg/url/)
+* namensraum [Aspose.Svg.Window](../../aspose.svg.window/)
 * Montage [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

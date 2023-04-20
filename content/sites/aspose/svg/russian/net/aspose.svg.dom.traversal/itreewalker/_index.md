@@ -1,7 +1,7 @@
 ---
-title: ITreeWalker
+title: Interface ITreeWalker
 second_title: Справочник по Aspose.SVG для .NET API
-description: Объекты TreeWalker используются для навигации по дереву документа или поддереву  используя представление документа определяемое их флагами whatToShow и фильтром если есть. Любая функция которая выполняет навигацию с использованием TreeWalker будет автоматически поддерживать любое представление определенное TreeWalker.
+description: Aspose.Svg.Dom.Traversal.ITreeWalker интерфейс. Объекты TreeWalker используются для навигации по дереву документа или поддереву  используя представление документа определяемое их флагами whatToShow и фильтром если есть. Любая функция которая выполняет навигацию с использованием TreeWalker будет автоматически поддерживать любое представление определенное TreeWalker.
 type: docs
 weight: 1270
 url: /ru/net/aspose.svg.dom.traversal/itreewalker/
@@ -22,24 +22,24 @@ public interface ITreeWalker : ITraversal
 
 | Имя | Описание |
 | --- | --- |
-| [CurrentNode](../../aspose.svg.dom.traversal/itreewalker/currentnode) { get; set; } | Узел, в котором в данный момент расположен TreeWalker. Изменения в дереве DOM могут привести к тому, что текущий узел больше не будет приниматься фильтром, связанным с TreeWalker. currentNode также может быть явно установлен на любой узел, независимо от того, внутри поддерева, заданного корневым узлом , или будет принят фильтром и флагами whatToShow. Дальнейший обход происходит относительно currentNode, даже если он не является частью текущего представления, путем применения фильтров в запрошенном направлении; если обход невозможен, currentNode не изменяется. |
+| [CurrentNode](../../aspose.svg.dom.traversal/itreewalker/currentnode/) { get; set; } | Узел, в котором в данный момент расположен TreeWalker. Изменения в дереве DOM могут привести к тому, что текущий узел больше не будет приниматься фильтром, связанным с TreeWalker. currentNode также может быть явно установлен на любой узел, независимо от того, внутри поддерева, заданного корневым узлом , или будет принят фильтром и флагами whatToShow. Дальнейший обход происходит относительно currentNode, даже если он не является частью текущего представления, путем применения фильтров в запрошенном направлении; если обход невозможен, currentNode не изменяется. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [FirstChild](../../aspose.svg.dom.traversal/itreewalker/firstchild)() | Перемещает TreeWalker к первому видимому дочернему элементу текущего узла и возвращает новый узел. Если текущий узел не имеет видимых потомков no , возвращает значение null и сохраняет узел current . |
-| [LastChild](../../aspose.svg.dom.traversal/itreewalker/lastchild)() | Перемещает TreeWalker к последнему видимому дочернему элементу текущего узла и возвращает новый узел. Если текущий узел не имеет видимых потомков no , возвращает значение null и сохраняет узел current . |
-| [NextNode](../../aspose.svg.dom.traversal/itreewalker/nextnode)() | Перемещает TreeWalker на следующий видимый узел в порядке document относительно текущего узла и возвращает новый узел. Если текущий узел не имеет следующего узла или если поиск nextNode пытается сделать шаг вверх от узла root TreeWalker, возвращает значение null и сохраняет текущий узел. |
-| [NextSibling](../../aspose.svg.dom.traversal/itreewalker/nextsibling)() | Перемещает TreeWalker к следующему одноуровневому узлу current и возвращает новый узел. Если текущий узел не имеет следующего узла visible , возвращает значение null и сохраняет текущий узел. |
-| [ParentNode](../../aspose.svg.dom.traversal/itreewalker/parentnode)() | Перемещает и возвращает ближайший видимый узел-предок узла current . Если поиск parentNode пытается выполнить шаг вверх от корневого узла TreeWalker или , если ему не удается найти видимый узел-предок, этот метод сохраняет текущую позицию и возвращает null. |
-| [PreviousNode](../../aspose.svg.dom.traversal/itreewalker/previousnode)() | Перемещает TreeWalker на предыдущий видимый узел в порядке документа относительно текущего узла и возвращает узел new . Если текущий узел не имеет предыдущего узла или если поиск предыдущего узла пытается перейти вверх от корневого узла TreeWalker, возвращает null и сохраняет текущий узел. |
-| [PreviousSibling](../../aspose.svg.dom.traversal/itreewalker/previoussibling)() | Перемещает TreeWalker к предыдущему брату текущего узла и возвращает новый узел. Если у текущего узла нет видимого предыдущего брата, возвращается null и сохраняется текущий узел . |
+| [FirstChild](../../aspose.svg.dom.traversal/itreewalker/firstchild/)() | Перемещает TreeWalker к первому видимому дочернему элементу текущего узла и возвращает новый узел. Если текущий узел не имеет видимых потомков no , возвращает значение null и сохраняет узел current . |
+| [LastChild](../../aspose.svg.dom.traversal/itreewalker/lastchild/)() | Перемещает TreeWalker к последнему видимому дочернему элементу текущего узла и возвращает новый узел. Если текущий узел не имеет видимых потомков no , возвращает значение null и сохраняет узел current . |
+| [NextNode](../../aspose.svg.dom.traversal/itreewalker/nextnode/)() | Перемещает TreeWalker на следующий видимый узел в порядке document относительно текущего узла и возвращает новый узел. Если текущий узел не имеет следующего узла или если поиск nextNode пытается сделать шаг вверх от узла root TreeWalker, возвращает значение null и сохраняет текущий узел. |
+| [NextSibling](../../aspose.svg.dom.traversal/itreewalker/nextsibling/)() | Перемещает TreeWalker к следующему одноуровневому узлу current и возвращает новый узел. Если текущий узел не имеет следующего узла visible , возвращает значение null и сохраняет текущий узел. |
+| [ParentNode](../../aspose.svg.dom.traversal/itreewalker/parentnode/)() | Перемещает и возвращает ближайший видимый узел-предок узла current . Если поиск parentNode пытается выполнить шаг вверх от корневого узла TreeWalker или , если ему не удается найти видимый узел-предок, этот метод сохраняет текущую позицию и возвращает null. |
+| [PreviousNode](../../aspose.svg.dom.traversal/itreewalker/previousnode/)() | Перемещает TreeWalker на предыдущий видимый узел в порядке документа относительно текущего узла и возвращает узел new . Если текущий узел не имеет предыдущего узла или если поиск предыдущего узла пытается перейти вверх от корневого узла TreeWalker, возвращает null и сохраняет текущий узел. |
+| [PreviousSibling](../../aspose.svg.dom.traversal/itreewalker/previoussibling/)() | Перемещает TreeWalker к предыдущему брату текущего узла и возвращает новый узел. Если у текущего узла нет видимого предыдущего брата, возвращается null и сохраняется текущий узел . |
 
 ### Смотрите также
 
-* interface [ITraversal](../itraversal)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal)
+* interface [ITraversal](../itraversal/)
+* пространство имен [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
 * сборка [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

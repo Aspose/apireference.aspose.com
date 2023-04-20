@@ -1,39 +1,39 @@
 ---
 title: Aspose.Svg.Net
 second_title: Riferimento API Aspose.SVG per .NET
-description: Il Aspose.Svg.Netlo spazio dei nomi è presentato da classi e interfacce che sono responsabili dellagevole elaborazione della rete.
+description: Il Aspose.Svg.Netlo spazio dei nomi è presentato da classi e interfacce che sono responsabili di facilitare lelaborazione della rete.
 type: docs
 weight: 190
 url: /it/net/aspose.svg.net/
 ---
-Il **Aspose.Svg.Net**lo spazio dei nomi è presentato da classi e interfacce che sono responsabili dell'agevole elaborazione della rete.
+Il **Aspose.Svg.Net**lo spazio dei nomi è presentato da classi e interfacce che sono responsabili di facilitare l'elaborazione della rete.
 
 ## Classi
 
 | Classe | Descrizione |
 | --- | --- |
-| [ByteArrayContent](./bytearraycontent) | Rappresenta il contenuto in base a un array di byte. |
-| [Content](./content) | Rappresenta una classe base per un corpo di entità HTTP e intestazioni di contenuto. |
-| [ContentHeaders](./contentheaders) | Contiene le intestazioni associate a un contenuto. |
-| [FormUrlEncodedContent](./formurlencodedcontent) | Un contenitore per tuple nome/valore codificate utilizzando application/x-www-form-urlencoded tipo MIME. |
-| [HttpMethod](./httpmethod) | Rappresenta la classe di utilità per il recupero e il confronto dei metodi HTTP standard. |
-| [MessageFilter](./messagefilter) | Rappresenta la classe base astratta per diverse classi di filtri utilizzati per interrogare i messaggi |
-| [MessageHandler](./messagehandler) | Rappresenta un tipo di base per i gestori di messaggi. |
-| [MessageHandlerCollection](./messagehandlercollection) | Rappresenta la raccolta di[`MessageHandler`](../aspose.svg.net/messagehandler) . |
-| [MultipartContent](./multipartcontent) | Rappresenta un contenuto multiparte/*. |
-| [MultipartFormDataContent](./multipartformdatacontent) | Rappresenta il contenuto per l'algoritmo di codifica multipart/form-data |
-| [RequestHeaders](./requestheaders) | Contiene le intestazioni di protocollo associate a una richiesta. |
-| [RequestMessage](./requestmessage) | Rappresenta un messaggio di richiesta. |
-| [ResponseHeaders](./responseheaders) | Contiene le intestazioni di protocollo associate a una risposta. |
-| [ResponseMessage](./responsemessage) | Rappresenta un messaggio di risposta. |
-| [StreamContent](./streamcontent) | Rappresenta il contenuto in base a uno stream. |
-| [StringContent](./stringcontent) | Rappresenta il contenuto in base a una stringa. |
-| [UrlResolver](./urlresolver) | Rappresenta la classe di utilità per la risoluzione dell'URL assoluto tramite un URI (Uniform Resource Identifier). |
+| [ByteArrayContent](./bytearraycontent/) | Rappresenta il contenuto basato su un array di byte. |
+| [Content](./content/) | Rappresenta una classe base per il corpo di un'entità HTTP e le intestazioni del contenuto. |
+| [ContentHeaders](./contentheaders/) | Contiene le intestazioni associate a un contenuto. |
+| [FormUrlEncodedContent](./formurlencodedcontent/) | Un contenitore per tuple nome/valore codificate utilizzando il tipo MIME application/x-www-form-urlencoded. |
+| [HttpMethod](./httpmethod/) | Rappresenta la classe di utilità per il recupero e il confronto di metodi HTTP standard. |
+| [MessageFilter](./messagefilter/) | Rappresenta la classe base astratta per diverse classi di filtri utilizzati per interrogare i messaggi |
+| [MessageHandler](./messagehandler/) | Rappresenta un tipo di base per i gestori di messaggi. |
+| [MessageHandlerCollection](./messagehandlercollection/) | Rappresenta la raccolta di[`MessageHandler`](../aspose.svg.net/messagehandler/) . |
+| [MultipartContent](./multipartcontent/) | Rappresenta un contenuto multipart/*. |
+| [MultipartFormDataContent](./multipartformdatacontent/) | Rappresenta il contenuto per l'algoritmo di codifica multipart/form-data |
+| [RequestHeaders](./requestheaders/) | Contiene intestazioni di protocollo associate a una richiesta. |
+| [RequestMessage](./requestmessage/) | Rappresenta un messaggio di richiesta. |
+| [ResponseHeaders](./responseheaders/) | Contiene intestazioni di protocollo associate a una risposta. |
+| [ResponseMessage](./responsemessage/) | Rappresenta un messaggio di risposta. |
+| [StreamContent](./streamcontent/) | Rappresenta il contenuto basato su uno stream. |
+| [StringContent](./stringcontent/) | Rappresenta il contenuto basato su una stringa. |
+| [UrlResolver](./urlresolver/) | Rappresenta la classe di utilità per la risoluzione dell'URL assoluto mediante un URI (Uniform Resource Identifier). |
 ## Interfacce
 
 | Interfaccia | Descrizione |
 | --- | --- |
-| [INetwork](./inetwork) | Fornisce un'interfaccia per i servizi di rete. |
-| [INetworkOperationContext](./inetworkoperationcontext) | Fornisce informazioni contestuali per i servizi di rete. |
+| [INetwork](./inetwork/) | Fornisce un'interfaccia per i servizi di rete. |
+| [INetworkOperationContext](./inetworkoperationcontext/) | Fornisce informazioni contestuali per i servizi di rete. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

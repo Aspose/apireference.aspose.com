@@ -1,14 +1,14 @@
 ---
-title: CreateNodeIterator
+title: Document.CreateNodeIterator
 second_title: Aspose.SVG for .NET API Referansı
-description: Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
+description: Document yöntem. Belirtilen node. de köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
 type: docs
 weight: 900
 url: /tr/net/aspose.svg.dom/document/createnodeiterator/
 ---
 ## CreateNodeIterator(Node) {#createnodeiterator}
 
-Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
+Belirtilen node. 'de köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root)
@@ -16,7 +16,7 @@ public INodeIterator CreateNodeIterator(Node root)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| root | Node | alt öğeleriyle birlikte yinelenecek düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konum ayarlanırken dikkate alınmaz. Kök, null olmamalıdır. |
+| root | Node | çocukları ile birlikte yinelenecek olan düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konumu ayarlarken not dikkate alınır. Kök, null olmamalıdır. |
 
 ### Geri dönüş değeri
 
@@ -26,21 +26,21 @@ Yeni oluşturulan NodeIterator.
 
 | istisna | şart |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Belirtilen kök, null ise tetiklenir. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Belirtilen kök is null ise yükseltilir. |
 
 ### Ayrıca bakınız
 
-* interface [INodeIterator](../../../aspose.svg.dom.traversal/inodeiterator)
-* class [Node](../../node)
-* class [Document](../../document)
-* ad alanı [Aspose.Svg.Dom](../../document)
+* interface [INodeIterator](../../../aspose.svg.dom.traversal/inodeiterator/)
+* class [Node](../../node/)
+* class [Document](../)
+* ad alanı [Aspose.Svg.Dom](../../document/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## CreateNodeIterator(Node, long) {#createnodeiterator_1}
 
-Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
+Belirtilen node. 'de köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow)
@@ -48,8 +48,8 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| root | Node | alt öğeleriyle birlikte yinelenecek düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konum ayarlanırken dikkate alınmaz. Kök, null olmamalıdır. |
-| whatToShow | Int64 | flag, yineleyici tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın.Bu bayraklar VEYA kullanılarak birleştirilebilir. |
+| root | Node | çocukları ile birlikte yinelenecek olan düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konumu ayarlarken not dikkate alınır. Kök, null olmamalıdır. |
+| whatToShow | Int64 | flag, yineleyici tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın. Bu bayraklar, OR kullanılarak birleştirilebilir. |
 
 ### Geri dönüş değeri
 
@@ -59,21 +59,21 @@ Yeni oluşturulan NodeIterator.
 
 | istisna | şart |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Belirtilen kök, null ise tetiklenir. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Belirtilen kök is null ise yükseltilir. |
 
 ### Ayrıca bakınız
 
-* interface [INodeIterator](../../../aspose.svg.dom.traversal/inodeiterator)
-* class [Node](../../node)
-* class [Document](../../document)
-* ad alanı [Aspose.Svg.Dom](../../document)
+* interface [INodeIterator](../../../aspose.svg.dom.traversal/inodeiterator/)
+* class [Node](../../node/)
+* class [Document](../)
+* ad alanı [Aspose.Svg.Dom](../../document/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## CreateNodeIterator(Node, long, INodeFilter) {#createnodeiterator_2}
 
-Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
+Belirtilen node. 'de köklenen alt ağaç üzerinde yeni bir NodeIterator oluşturun.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter filter)
@@ -81,8 +81,8 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter 
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| root | Node | alt öğeleriyle birlikte yinelenecek düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konum ayarlanırken dikkate alınmaz. Kök, null olmamalıdır. |
-| whatToShow | Int64 | flag, yineleyici tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın.Bu bayraklar VEYA kullanılarak birleştirilebilir. |
+| root | Node | çocukları ile birlikte yinelenecek olan düğüm. Yineleyici başlangıçta bu düğümden hemen önce konumlandırılır. The whatToShow bayrakları ve varsa filtre, bu konumu ayarlarken not dikkate alınır. Kök, null olmamalıdır. |
+| whatToShow | Int64 | flag, yineleyici tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın. Bu bayraklar, OR kullanılarak birleştirilebilir. |
 | filter | INodeFilter | this TreeWalker ile kullanılacak NodeFilter veya filtre olmadığını belirtmek için null. |
 
 ### Geri dönüş değeri
@@ -93,15 +93,15 @@ Yeni oluşturulan NodeIterator.
 
 | istisna | şart |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Belirtilen kök, null ise tetiklenir. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Belirtilen kök is null ise yükseltilir. |
 
 ### Ayrıca bakınız
 
-* interface [INodeIterator](../../../aspose.svg.dom.traversal/inodeiterator)
-* class [Node](../../node)
-* interface [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter)
-* class [Document](../../document)
-* ad alanı [Aspose.Svg.Dom](../../document)
+* interface [INodeIterator](../../../aspose.svg.dom.traversal/inodeiterator/)
+* class [Node](../../node/)
+* interface [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter/)
+* class [Document](../)
+* ad alanı [Aspose.Svg.Dom](../../document/)
 * toplantı [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

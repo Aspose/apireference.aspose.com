@@ -1,18 +1,18 @@
 ---
-title: ITreeWalker
+title: Interface ITreeWalker
 second_title: Aspose.SVG for .NET API Referansı
-description: TreeWalker nesneleri whatToShow bayrakları ve filtresi varsa tarafından tanımlanan belgenin görünümünü kullanarak bir belge ağacında veya alt ağacında gezinmek için kullanılır. nin bir TreeWalker kullanarak gezinme gerçekleştiren herhangi bir işlev otomatik olarak bir TreeWalker tarafından tanımlanan herhangi bir görünümü destekleyecektir.
+description: Aspose.Svg.Dom.Traversal.ITreeWalker arayüz. TreeWalker nesneleri whatToShow bayrakları ve varsa filtresi tarafından tanımlanan belgenin görünümünü kullanarak bir belge ağacında veya alt ağacında gezinmek için kullanılır. nin bir TreeWalker kullanarak gezinme gerçekleştirdiği herhangi bir işlev bir TreeWalker. tarafından tanımlanan herhangi bir görünümü otomatik olarak destekleyecektir.
 type: docs
 weight: 1270
 url: /tr/net/aspose.svg.dom.traversal/itreewalker/
 ---
 ## ITreeWalker interface
 
-TreeWalker nesneleri, whatToShow bayrakları ve filtresi (varsa) tarafından tanımlanan belgenin görünümünü kullanarak bir belge ağacında veya alt ağacında gezinmek için kullanılır. 'nin bir TreeWalker kullanarak gezinme gerçekleştiren herhangi bir işlev, otomatik olarak bir TreeWalker tarafından tanımlanan herhangi bir görünümü destekleyecektir.
+TreeWalker nesneleri, whatToShow bayrakları ve (varsa) filtresi tarafından tanımlanan belgenin görünümünü kullanarak bir belge ağacında veya alt ağacında gezinmek için kullanılır. 'nin bir TreeWalker kullanarak gezinme gerçekleştirdiği herhangi bir işlev, bir TreeWalker. tarafından tanımlanan herhangi bir görünümü otomatik olarak destekleyecektir.
 
-Bir alt ağacın mantıksal görünümünden düğümleri çıkarmak, tamamlanmış, filtrelenmemiş belgedeki aynı alt ağaçtan önemli ölçüde farklı bir yapısıyla sonuçlanabilir. TreeWalker görünümünde kardeş olan düğümler, orijinal görünümde farklı, geniş ölçüde ayrılmış düğümlerin çocukları olabilir. Örneğin, Metin düğümleri ve bir belgenin kök düğümü dışındaki tüm düğümleri atlayan bir NodeFilter düşünün. Ortaya çıkan mantıksal görünümde, tüm metin düğümleri kardeş olacak ve kök düğümün doğrudan çocukları olarak görünecek, orijinal belgenin yapısı ne kadar iç içe geçmiş olursa olsun.
+Bir alt ağacın mantıksal görünümünden düğümlerin atlanması, eksiksiz, filtrelenmemiş belgedeki aynı alt ağaçtan büyük ölçüde farklı olan bir yapısına neden olabilir. TreeWalker görünümünde kardeş olan düğümler, orijinal görünümde farklı, geniş ölçüde ayrılmış düğümlerin çocukları olabilir. Örneğin, bir belgenin kök düğümü olan Metin düğümleri ve dışındaki tüm düğümleri atlayan bir NodeFilter düşünün. Ortaya çıkan mantıksal görünümde, tüm metin düğümleri kardeş olacak ve orijinal belgenin yapısı ne kadar derine yuvalanmış olursa olsun hiçbir şey kardeş olacak ve kök düğümün doğrudan çocukları olarak görünecektir.
 
-Ayrıca bkz.[Belge nesnesi Modeli (DOM) Düzey 2 Geçiş ve Aralık Belirtimi](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM Düzey 2
+Ayrıca bkz.[Belge nesnesi Modeli (DOM) Düzey 2 Geçiş ve Aralık Spesifikasyonu](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @dOM Düzey 2 beri
 
 ```csharp
 public interface ITreeWalker : ITraversal
@@ -22,24 +22,24 @@ public interface ITreeWalker : ITraversal
 
 | İsim | Tanım |
 | --- | --- |
-| [CurrentNode](../../aspose.svg.dom.traversal/itreewalker/currentnode) { get; set; } | TreeWalker'ın şu anda konumlandığı düğüm. DOM ağacında yapılan değişiklikler, geçerli düğümün artık TreeWalker'ın ilişkili filtresi tarafından kabul edilmemesine neden olabilir. currentNode ayrıca, olsun veya olmasın herhangi bir düğüme açıkça ayarlanabilir. the kök düğümü tarafından belirtilen alt ağaç içinde veya filtre ve whatToShow bayrakları tarafından kabul edilir. Geçerli görünümün bir parçası olmasa bile currentNode'a göre daha fazla geçiş gerçekleşir, filtreleri istenen yönde uygulayarak; traversal mümkün değilse, currentNode değiştirilmez. |
+| [CurrentNode](../../aspose.svg.dom.traversal/itreewalker/currentnode/) { get; set; } | TreeWalker'ın şu anda konumlandırıldığı düğüm. DOM ağacındaki değişiklikler, geçerli düğümün artık TreeWalker'ın ilişkili filtresi tarafından kabul edilmemesine neden olabilir . the kök düğümü tarafından belirtilen alt ağaç içinde veya and whatToShow bayrakları tarafından kabul edilir. Geçerli görünümün parçası olmasa bile currentNode'a göre daha fazla geçiş gerçekleşir, filtreleri istenen yönde uygulayarak; traversal mümkün değilse, currentNode değişmez. |
 
 ## yöntemler
 
 | İsim | Tanım |
 | --- | --- |
-| [FirstChild](../../aspose.svg.dom.traversal/itreewalker/firstchild)() | TreeWalker'ı geçerli düğümün ilk görünür alt öğesine taşır ve yeni düğümü döndürür. Geçerli düğümün görünür hiçbir alt öğesi yoksa, null değerini döndürür ve current düğümünü korur. |
-| [LastChild](../../aspose.svg.dom.traversal/itreewalker/lastchild)() | TreeWalker'ı geçerli düğümün son görünen alt öğesine taşır ve yeni düğümü döndürür. Geçerli düğümün görünür hiçbir alt öğesi yoksa, null değerini döndürür ve current düğümünü korur. |
-| [NextNode](../../aspose.svg.dom.traversal/itreewalker/nextnode)() | TreeWalker'ı geçerli düğüme göre document sırasındaki bir sonraki görünür düğüme taşır ve yeni düğümü döndürür. Geçerli düğümde bir sonraki düğüm yoksa veya nextNode araması, TreeWalker'ın root düğümünden yukarı çıkmaya çalışırsa, null değerini döndürür ve geçerli düğümü korur. |
-| [NextSibling](../../aspose.svg.dom.traversal/itreewalker/nextsibling)() | TreeWalker'ı mevcut düğümünün bir sonraki kardeşine taşır ve yeni düğümü döndürür. Geçerli düğümün bir sonraki kardeşi yoksa, null değerini döndürür ve geçerli düğümü korur. |
-| [ParentNode](../../aspose.svg.dom.traversal/itreewalker/parentnode)() | Current düğümünün en yakın görünür üst düğümüne gider ve onu döndürür. parentNode araması TreeWalker'ın kök düğümünden yukarı adım veya görünür bir üst düğüm bulamazsa girişiminde bulunursa, bu yöntem geçerli konumunu korur ve null. değerini döndürür. |
-| [PreviousNode](../../aspose.svg.dom.traversal/itreewalker/previousnode)() | TreeWalker'ı, geçerli düğüme göre belge sırasındaki önceki görünür düğüme taşır ve new düğümünü döndürür. Geçerli düğümün önceki bir düğümü yoksa veya önceki Düğüm araması, the TreeWalker'ın kök düğümünden yukarı çıkmaya çalışırsa, null değerini döndürür ve geçerli düğümü korur. |
-| [PreviousSibling](../../aspose.svg.dom.traversal/itreewalker/previoussibling)() | TreeWalker'ı mevcut düğümünün önceki kardeşine taşır ve yeni düğümü döndürür. Geçerli düğümde görünür bir önceki kardeş yok varsa, null değerini döndürür ve geçerli düğümünü korur. |
+| [FirstChild](../../aspose.svg.dom.traversal/itreewalker/firstchild/)() | TreeWalker'ı geçerli düğümünün ilk görünür alt öğesine taşır ve yeni düğümü döndürür. Geçerli düğümün no görünür alt öğesi yoksa, boş değer döndürür ve current düğümünü korur. |
+| [LastChild](../../aspose.svg.dom.traversal/itreewalker/lastchild/)() | TreeWalker'ı geçerli düğümünün son görünür alt öğesine taşır ve yeni düğümü döndürür. Geçerli düğümün no görünür alt öğesi yoksa, boş değer döndürür ve current düğümünü korur. |
+| [NextNode](../../aspose.svg.dom.traversal/itreewalker/nextnode/)() | TreeWalker'ı geçerli düğüme göre document sırasına göre bir sonraki görünür düğüme taşır ve yeni düğümü döndürür. Geçerli düğümünün bir sonraki düğümü yoksa veya nextNode araması, TreeWalker'ın root düğümünden yukarı doğru adım atmaya girişiminde bulunursa, null değerini döndürür ve geçerli düğümü korur. |
+| [NextSibling](../../aspose.svg.dom.traversal/itreewalker/nextsibling/)() | TreeWalker'ı current düğümünün bir sonraki kardeşine taşır ve yeni düğümü döndürür. Geçerli düğümün bir sonraki kardeş görünür 'si yoksa, null değerini döndürür ve geçerli düğümü korur. |
+| [ParentNode](../../aspose.svg.dom.traversal/itreewalker/parentnode/)() | Geçerli düğümünün en yakın görünen ata düğümüne gider ve onu döndürür. parentNode araması, TreeWalker'ın kök düğümünden yukarı adımını atmaya çalışırsa veya görünür bir ata düğümü bulamazsa 'yi denerse, bu yöntem, geçerli konumunu korur ve null. değerini döndürür. |
+| [PreviousNode](../../aspose.svg.dom.traversal/itreewalker/previousnode/)() | Geçerli düğüme göre belge sırasında TreeWalker'ı önceki görünür düğüme taşır ve new düğümünü döndürür. Geçerli düğümün önceki düğümü yoksa veya for öncekiNode araması, TreeWalker'ın kök düğümünden yukarı doğru adım atmaya çalışırsa, null değerini döndürür ve geçerli düğümü korur. |
+| [PreviousSibling](../../aspose.svg.dom.traversal/itreewalker/previoussibling/)() | TreeWalker'ı geçerli düğümün önceki kardeşine taşır ve yeni düğümü döndürür. Geçerli düğümde görünür önceki kardeş yok varsa, null değerini döndürür ve geçerli düğümünü korur. |
 
 ### Ayrıca bakınız
 
-* interface [ITraversal](../itraversal)
-* ad alanı [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal)
+* interface [ITraversal](../itraversal/)
+* ad alanı [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
 * toplantı [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

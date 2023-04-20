@@ -1,14 +1,14 @@
 ---
-title: PdfDevice
+title: PdfDevice.PdfDevice
 second_title: Aspose.SVG for .NET API Referansı
-description: Yeni bir örneğini başlatırPdfDeviceaspose.svg.rendering.pdf/pdfdevice sınıf.
+description: PdfDevice inşaatçı. Yeni bir örneğini başlatır.PdfDevice sınıf.
 type: docs
 weight: 10
 url: /tr/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(ICreateStreamProvider) {#constructor}
 
-Yeni bir örneğini başlatır[`PdfDevice`](../../pdfdevice) sınıf.
+Yeni bir örneğini başlatır.[`PdfDevice`](../) sınıf.
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 ### Ayrıca bakınız
 
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Yeni bir örneğini başlatır[`PdfDevice`](../../pdfdevice) seçenekleri ve akış sağlayıcısını oluşturarak sınıf.
+Yeni bir örneğini başlatır.[`PdfDevice`](../) oluşturma seçeneklerine ve akış sağlayıcısına göre sınıf.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| options | PdfRenderingOptions | İşleme seçenekleri. |
-| streamProvider | ICreateStreamProvider | Uygulayan nesne[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) arayüz |
+| options | PdfRenderingOptions | Oluşturma seçenekleri. |
+| streamProvider | ICreateStreamProvider | uygulayan nesne[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) arayüz |
 
 ### Ayrıca bakınız
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(string) {#constructor_5}
 
-Yeni bir örneğini başlatır[`PdfDevice`](../../pdfdevice) sınıf.
+Yeni bir örneğini başlatır.[`PdfDevice`](../) sınıf.
 
 ```csharp
 public PdfDevice(string file)
@@ -64,15 +64,15 @@ public PdfDevice(string file)
 
 ### Ayrıca bakınız
 
-* class [PdfDevice](../../pdfdevice)
-* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
 
-Yeni bir örneğini başlatır[`PdfDevice`](../../pdfdevice) seçenekleri ve çıktı dosyası adını oluşturarak sınıf.
+Yeni bir örneğini başlatır.[`PdfDevice`](../) işleme seçeneklerine ve çıktı dosyası adına göre sınıf.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| options | PdfRenderingOptions | İşleme seçenekleri. |
+| options | PdfRenderingOptions | Oluşturma seçenekleri. |
 | file | String | Çıktı dosyası adı. |
 
 ### Ayrıca bakınız
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(Stream) {#constructor_4}
 
-Yeni bir örneğini başlatır[`PdfDevice`](../../pdfdevice) sınıf.
+Yeni bir örneğini başlatır.[`PdfDevice`](../) sınıf.
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -106,15 +106,15 @@ public PdfDevice(Stream stream)
 
 ### Ayrıca bakınız
 
-* class [PdfDevice](../../pdfdevice)
-* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
 
-Yeni bir örneğini başlatır[`PdfDevice`](../../pdfdevice) seçenekleri ve çıktı akışını oluşturarak sınıflandırın.
+Yeni bir örneğini başlatır.[`PdfDevice`](../) işleme seçeneklerine ve çıktı akışına göre sınıf.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -122,14 +122,14 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| options | PdfRenderingOptions | İşleme seçenekleri. |
+| options | PdfRenderingOptions | Oluşturma seçenekleri. |
 | stream | Stream | Çıkış akışı. |
 
 ### Ayrıca bakınız
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * toplantı [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

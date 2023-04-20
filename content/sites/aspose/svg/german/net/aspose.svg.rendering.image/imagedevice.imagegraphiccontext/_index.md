@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.ImageGraphicContext
+title: Class ImageDevice.ImageGraphicContext
 second_title: Aspose.SVG für .NET-API-Referenz
-description: Enthält aktuelle Grafiksteuerungsparameter für dieImageDevice./imagedevice . Diese Parameter definieren den globalen Rahmen innerhalb dessen die Grafikoperatoren ausgeführt werden.
+description: Aspose.Svg.Rendering.Image.ImageDeviceImageGraphicContext klas. Enthält aktuelle Grafiksteuerungsparameter für dieImageDevice. Diese Parameter definieren den globalen Rahmen innerhalb dessen die Grafikoperatoren ausgeführt werden.
 type: docs
-weight: 2800
+weight: 2840
 url: /de/net/aspose.svg.rendering.image/imagedevice.imagegraphiccontext/
 ---
 ## ImageDevice.ImageGraphicContext class
 
-Enthält aktuelle Grafiksteuerungsparameter für die[`ImageDevice`](../imagedevice) . Diese Parameter definieren den globalen Rahmen, innerhalb dessen die Grafikoperatoren ausgeführt werden.
+Enthält aktuelle Grafiksteuerungsparameter für die[`ImageDevice`](../imagedevice/). Diese Parameter definieren den globalen Rahmen, innerhalb dessen die Grafikoperatoren ausgeführt werden.
 
 ```csharp
 public class ImageGraphicContext : GraphicContext
@@ -18,40 +18,40 @@ public class ImageGraphicContext : GraphicContext
 
 | Name | Beschreibung |
 | --- | --- |
-| [ImageGraphicContext](imagegraphiccontext)() | Default_Constructor |
+| [ImageGraphicContext](imagegraphiccontext/)() | Default_Constructor |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing) { get; set; } | Setzt oder erhält Zeichenabstand. |
-| virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush) { get; set; } | Legt das Pinselobjekt fest oder ruft es ab, das verwendet wird, um das Innere von Pfaden zu füllen. |
-| virtual [Font](../../aspose.svg.rendering/graphiccontext/font) { get; set; } | Legt das TrueType-Schriftartobjekt fest oder ruft es ab, das zum Rendern von Text verwendet wird. |
-| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize) { get; set; } | Legt die Textschriftgröße fest oder erhält sie. |
-| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle) { get; set; } | Legt den Textschriftstil fest oder ruft ihn ab. |
-| virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap) { get; set; } | Legt den Code fest oder ruft ihn ab, der die Form der Endpunkte für jeden offenen Pfad angibt, der mit Strichen versehen ist. |
-| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset) { get; set; } | Legt den Phasenoffset des aktuellen Linienstrichmusters fest oder ruft ihn ab. |
-| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern) { get; set; } | Setzt oder ruft die Beschreibung des Strichmusters ab, das verwendet werden soll, wenn Pfade gestrichen werden. |
-| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle) { get; set; } | Sets von erhält den Stil von gestrichelten Linien eines gestrichenen Pfads. |
-| virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin) { get; set; } | Legt den Code fest oder ruft ihn ab, der die Form der Verbindungen zwischen verbundenen Segmenten eines gezeichneten Pfads angibt. |
-| virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth) { get; set; } | Setzt oder erhält die Dicke der zu streichenden Pfade. |
-| virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit) { get; set; } | Setzt oder ermittelt die maximale Länge von gegehrten Linienverbindungen für gestrichene Pfade. Dieser Parameter begrenzt die Länge der "Spitzen", die entstehen, wenn Liniensegmente in scharfen Winkeln zusammenlaufen. |
-| virtual [StrokeBrush](../../aspose.svg.rendering/graphiccontext/strokebrush) { get; set; } | Legt das Pinselobjekt fest oder ruft es ab, das für Strichpfade verwendet wird. |
-| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo) { get; } | erhält a[`TextInfo`](../../aspose.svg.rendering/textinfo) Objekt, das Informationen über gerenderten Text enthält. |
-| override [TransformationMatrix](../../aspose.svg.rendering.image/imagegraphiccontext/transformationmatrix) { get; set; } | Legt Transformationsmatrix fest oder ruft diese ab. |
+| virtual [CharacterSpacing](../../aspose.svg.rendering/graphiccontext/characterspacing/) { get; set; } | Setzt oder erhält Zeichenabstand. |
+| virtual [FillBrush](../../aspose.svg.rendering/graphiccontext/fillbrush/) { get; set; } | Legt das Pinselobjekt fest oder ruft es ab, das verwendet wird, um das Innere von Pfaden zu füllen. |
+| virtual [Font](../../aspose.svg.rendering/graphiccontext/font/) { get; set; } | Legt das TrueType-Schriftartobjekt fest oder ruft es ab, das zum Rendern von Text verwendet wird. |
+| virtual [FontSize](../../aspose.svg.rendering/graphiccontext/fontsize/) { get; set; } | Legt die Textschriftgröße fest oder erhält sie. |
+| virtual [FontStyle](../../aspose.svg.rendering/graphiccontext/fontstyle/) { get; set; } | Legt den Textschriftstil fest oder ruft ihn ab. |
+| virtual [LineCap](../../aspose.svg.rendering/graphiccontext/linecap/) { get; set; } | Legt den Code fest oder ruft ihn ab, der die Form der Endpunkte für jeden offenen Pfad angibt, der mit Strichen versehen ist. |
+| virtual [LineDashOffset](../../aspose.svg.rendering/graphiccontext/linedashoffset/) { get; set; } | Legt den Phasenoffset des aktuellen Linienstrichmusters fest oder ruft ihn ab. |
+| virtual [LineDashPattern](../../aspose.svg.rendering/graphiccontext/linedashpattern/) { get; set; } | Setzt oder ruft die Beschreibung des Strichmusters ab, das verwendet werden soll, wenn Pfade gestrichen werden. |
+| virtual [LineDashStyle](../../aspose.svg.rendering/graphiccontext/linedashstyle/) { get; set; } | Sets von erhält den Stil von gestrichelten Linien eines gestrichenen Pfads. |
+| virtual [LineJoin](../../aspose.svg.rendering/graphiccontext/linejoin/) { get; set; } | Legt den Code fest oder ruft ihn ab, der die Form der Verbindungen zwischen verbundenen Segmenten eines gezeichneten Pfads angibt. |
+| virtual [LineWidth](../../aspose.svg.rendering/graphiccontext/linewidth/) { get; set; } | Setzt oder erhält die Dicke der zu streichenden Pfade. |
+| virtual [MiterLimit](../../aspose.svg.rendering/graphiccontext/miterlimit/) { get; set; } | Setzt oder ermittelt die maximale Länge von gegehrten Linienverbindungen für gestrichene Pfade. Dieser Parameter begrenzt die Länge der "Spitzen", die entstehen, wenn Liniensegmente in scharfen Winkeln zusammenlaufen. |
+| virtual [StrokeBrush](../../aspose.svg.rendering/graphiccontext/strokebrush/) { get; set; } | Legt das Pinselobjekt fest oder ruft es ab, das für Strichpfade verwendet wird. |
+| virtual [TextInfo](../../aspose.svg.rendering/graphiccontext/textinfo/) { get; } | erhält a[`TextInfo`](../../aspose.svg.rendering/textinfo/) Objekt, das Informationen über gerenderten Text enthält. |
+| override [TransformationMatrix](../../aspose.svg.rendering.image/imagegraphiccontext/transformationmatrix/) { get; set; } | Legt Transformationsmatrix fest oder ruft diese ab. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Clone](../../aspose.svg.rendering.image/imagegraphiccontext/clone)() | Erstellt eine neue Instanz einer GdiGraphicContext-Klasse mit denselben Eigenschaftswerten wie eine vorhandene Instanz. |
-| override [Transform](../../aspose.svg.rendering.image/imagegraphiccontext/transform)(Matrix) | Ändern Sie die aktuelle Transformationsmatrix, indem Sie die angegebene Matrix multiplizieren. |
+| override [Clone](../../aspose.svg.rendering.image/imagegraphiccontext/clone/)() | Erstellt eine neue Instanz einer GdiGraphicContext-Klasse mit denselben Eigenschaftswerten wie eine vorhandene Instanz. |
+| override [Transform](../../aspose.svg.rendering.image/imagegraphiccontext/transform/)(Matrix) | Ändern Sie die aktuelle Transformationsmatrix, indem Sie die angegebene Matrix multiplizieren. |
 
 ### Siehe auch
 
-* class [GraphicContext](../../aspose.svg.rendering/graphiccontext)
-* class [ImageDevice](../imagedevice)
-* namensraum [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image)
+* class [GraphicContext](../../aspose.svg.rendering/graphiccontext/)
+* class [ImageDevice](../imagedevice/)
+* namensraum [Aspose.Svg.Rendering.Image](../../aspose.svg.rendering.image/)
 * Montage [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

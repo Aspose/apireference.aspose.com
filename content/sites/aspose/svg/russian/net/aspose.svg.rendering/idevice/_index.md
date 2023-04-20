@@ -1,9 +1,9 @@
 ---
-title: IDevice
+title: Interface IDevice
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет методы и свойства поддерживающие пользовательскую визуализацию графических элементов таких как контуры текст и изображения.
+description: Aspose.Svg.Rendering.IDevice интерфейс. Определяет методы и свойства поддерживающие пользовательскую визуализацию графических элементов таких как контуры текст и изображения.
 type: docs
-weight: 2770
+weight: 2810
 url: /ru/net/aspose.svg.rendering/idevice/
 ---
 ## IDevice interface
@@ -18,38 +18,38 @@ public interface IDevice : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [GraphicContext](../../aspose.svg.rendering/idevice/graphiccontext) { get; } | Получает графический контекст. |
-| [Options](../../aspose.svg.rendering/idevice/options) { get; } | Получает параметры рендеринга. |
+| [GraphicContext](../../aspose.svg.rendering/idevice/graphiccontext/) { get; } | Получает графический контекст. |
+| [Options](../../aspose.svg.rendering/idevice/options/) { get; } | Получает параметры рендеринга. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddRect](../../aspose.svg.rendering/idevice/addrect)(RectangleF) | Добавляет прямоугольник к текущему пути в качестве полного подпути. |
-| [BeginDocument](../../aspose.svg.rendering/idevice/begindocument)(Document) | Начинает визуализацию документа. |
-| [BeginElement](../../aspose.svg.rendering/idevice/beginelement)(Element, RectangleF) | Начинает визуализацию элемента. |
-| [BeginPage](../../aspose.svg.rendering/idevice/beginpage)(SizeF) | Начинает рендеринг новой страницы. |
-| [Clip](../../aspose.svg.rendering/idevice/clip)(FillMode) | Изменяет текущий путь отсечения, пересекая его с текущим путем, используя правило FillMode для определения области для заполнения. Этот метод завершает текущий путь. |
-| [ClosePath](../../aspose.svg.rendering/idevice/closepath)() | Закрывает текущий подконтур, добавляя отрезок прямой линии от текущей точки до начальной точки подконтура. Если текущий подпуть уже закрыт, "ClosePath" ничего не делает. Этот оператор завершает текущий подпуть. При добавлении другого сегмента к текущему пути начинается новый подпуть, , даже если новый сегмент начинается в конечной точке, достигнутой методом ClosePath. |
-| [CubicBezierTo](../../aspose.svg.rendering/idevice/cubicbezierto)(PointF, PointF, PointF) | Добавляет кубическую кривую Безье к текущему пути. Кривая продолжается от текущей точки до точки pt3, , используя pt1 и pt2 в качестве контрольных точек Безье. Новая текущая точка - pt3. |
-| [DrawImage](../../aspose.svg.rendering/idevice/drawimage)(byte[], ImageType, RectangleF) | Рисует указанное изображение. |
-| [EndDocument](../../aspose.svg.rendering/idevice/enddocument)() | Завершает визуализацию документа. |
-| [EndElement](../../aspose.svg.rendering/idevice/endelement)(Element) | Завершает визуализацию элемента. |
-| [EndPage](../../aspose.svg.rendering/idevice/endpage)() | Завершает визуализацию текущей страницы. |
-| [Fill](../../aspose.svg.rendering/idevice/fill)(FillMode) | Заполняет всю область, ограниченную текущим путем. Если путь состоит из нескольких несвязанных подпутей, он заполняет внутренности всех подпутей, рассматриваемых вместе. Этот метод завершает текущий путь. |
-| [FillText](../../aspose.svg.rendering/idevice/filltext)(string, PointF) | Заполняет указанную текстовую строку в указанном месте. |
-| [Flush](../../aspose.svg.rendering/idevice/flush)() | Сбрасывает все данные в выходной поток. |
-| [LineTo](../../aspose.svg.rendering/idevice/lineto)(PointF) | Добавляет отрезок прямой от текущей точки до точки (pt). Новая текущая точка - pt. |
-| [MoveTo](../../aspose.svg.rendering/idevice/moveto)(PointF) | Начинает новый подпуть, перемещая текущую точку в координаты параметра pt, опуская любой соединительный отрезок. Если предыдущий метод построения пути в текущем пути также был "MoveTo", новый "MoveTo" переопределяет его; в пути не осталось следов предыдущей операции "MoveTo". |
-| [RestoreGraphicContext](../../aspose.svg.rendering/idevice/restoregraphiccontext)() | Восстанавливает весь графический контекст до его прежнего значения, извлекая его из стека. |
-| [SaveGraphicContext](../../aspose.svg.rendering/idevice/savegraphiccontext)() | Помещает копию всего графического контекста в стек. |
-| [Stroke](../../aspose.svg.rendering/idevice/stroke)() | Проводит линию по текущему пути. Заштрихованная линия следует за каждым прямым или изогнутым сегментом пути, центрируется на сегменте со сторонами, параллельными ему. Каждый из подпутей пути обрабатывается отдельно. Этот метод завершает текущий путь. |
-| [StrokeAndFill](../../aspose.svg.rendering/idevice/strokeandfill)(FillMode) | Штрихует и заполняет текущий путь. Этот метод завершает текущий путь. |
-| [StrokeText](../../aspose.svg.rendering/idevice/stroketext)(string, PointF) | Перемещает указанную текстовую строку в указанном месте. |
+| [AddRect](../../aspose.svg.rendering/idevice/addrect/)(RectangleF) | Добавляет прямоугольник к текущему пути в качестве полного подпути. |
+| [BeginDocument](../../aspose.svg.rendering/idevice/begindocument/)(Document) | Начинает визуализацию документа. |
+| [BeginElement](../../aspose.svg.rendering/idevice/beginelement/)(Element, RectangleF) | Начинает визуализацию элемента. |
+| [BeginPage](../../aspose.svg.rendering/idevice/beginpage/)(SizeF) | Начинает рендеринг новой страницы. |
+| [Clip](../../aspose.svg.rendering/idevice/clip/)(FillMode) | Изменяет текущий путь отсечения, пересекая его с текущим путем, используя правило FillMode для определения области для заполнения. Этот метод завершает текущий путь. |
+| [ClosePath](../../aspose.svg.rendering/idevice/closepath/)() | Закрывает текущий подконтур, добавляя отрезок прямой линии от текущей точки до начальной точки подконтура. Если текущий подпуть уже закрыт, "ClosePath" ничего не делает. Этот оператор завершает текущий подпуть. При добавлении другого сегмента к текущему пути начинается новый подпуть, , даже если новый сегмент начинается в конечной точке, достигнутой методом ClosePath. |
+| [CubicBezierTo](../../aspose.svg.rendering/idevice/cubicbezierto/)(PointF, PointF, PointF) | Добавляет кубическую кривую Безье к текущему пути. Кривая продолжается от текущей точки до точки pt3, , используя pt1 и pt2 в качестве контрольных точек Безье. Новая текущая точка - pt3. |
+| [DrawImage](../../aspose.svg.rendering/idevice/drawimage/)(byte[], ImageType, RectangleF) | Рисует указанное изображение. |
+| [EndDocument](../../aspose.svg.rendering/idevice/enddocument/)() | Завершает визуализацию документа. |
+| [EndElement](../../aspose.svg.rendering/idevice/endelement/)(Element) | Завершает визуализацию элемента. |
+| [EndPage](../../aspose.svg.rendering/idevice/endpage/)() | Завершает визуализацию текущей страницы. |
+| [Fill](../../aspose.svg.rendering/idevice/fill/)(FillMode) | Заполняет всю область, ограниченную текущим путем. Если путь состоит из нескольких несвязанных подпутей, он заполняет внутренности всех подпутей, рассматриваемых вместе. Этот метод завершает текущий путь. |
+| [FillText](../../aspose.svg.rendering/idevice/filltext/)(string, PointF) | Заполняет указанную текстовую строку в указанном месте. |
+| [Flush](../../aspose.svg.rendering/idevice/flush/)() | Сбрасывает все данные в выходной поток. |
+| [LineTo](../../aspose.svg.rendering/idevice/lineto/)(PointF) | Добавляет отрезок прямой от текущей точки до точки (pt). Новая текущая точка - pt. |
+| [MoveTo](../../aspose.svg.rendering/idevice/moveto/)(PointF) | Начинает новый подпуть, перемещая текущую точку в координаты параметра pt, опуская любой соединительный отрезок. Если предыдущий метод построения пути в текущем пути также был "MoveTo", новый "MoveTo" переопределяет его; в пути не осталось следов предыдущей операции "MoveTo". |
+| [RestoreGraphicContext](../../aspose.svg.rendering/idevice/restoregraphiccontext/)() | Восстанавливает весь графический контекст до его прежнего значения, извлекая его из стека. |
+| [SaveGraphicContext](../../aspose.svg.rendering/idevice/savegraphiccontext/)() | Помещает копию всего графического контекста в стек. |
+| [Stroke](../../aspose.svg.rendering/idevice/stroke/)() | Проводит линию по текущему пути. Заштрихованная линия следует за каждым прямым или изогнутым сегментом пути, центрируется на сегменте со сторонами, параллельными ему. Каждый из подпутей пути обрабатывается отдельно. Этот метод завершает текущий путь. |
+| [StrokeAndFill](../../aspose.svg.rendering/idevice/strokeandfill/)(FillMode) | Штрихует и заполняет текущий путь. Этот метод завершает текущий путь. |
+| [StrokeText](../../aspose.svg.rendering/idevice/stroketext/)(string, PointF) | Перемещает указанную текстовую строку в указанном месте. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering)
+* пространство имен [Aspose.Svg.Rendering](../../aspose.svg.rendering/)
 * сборка [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

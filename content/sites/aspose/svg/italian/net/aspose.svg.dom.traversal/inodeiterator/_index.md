@@ -1,16 +1,16 @@
 ---
-title: INodeIterator
+title: Interface INodeIterator
 second_title: Riferimento API Aspose.SVG per .NET
-description: Gli iteratori vengono utilizzati per scorrere un insieme di nodi ad esempio linsieme di nodi in una NodeList il sottoalbero del documento governato da un particolare Nodo i risultati di una query o qualsiasi altro insieme di nodi. Linsieme di nodi da iterare è determinato dallimplementazione di NodeIterator. DOM Level 2 specifica unimplementazione di singolo NodeIterator per lattraversamento dellordine dei documenti di un sottoalbero di documenti. Le istanze di questi iteratori vengono create chiamando DocumentTraversal .createNodeIterator.
+description: Aspose.Svg.Dom.Traversal.INodeIterator interfaccia. Gli iteratori vengono utilizzati per scorrere un insieme di nodi ad esempio linsieme di nodi in una NodeList il sottoalbero del documento governato da un particolare nodo i risultati di una query o qualsiasi altro insieme di nodi. Il set di nodi da iterare è determinato dallimplementazione di NodeIterator. DOM Level 2 specifica unimplementazione single NodeIterator per lattraversamento dellordine dei documenti di una sottostruttura del documento. Le istanze di questi iteratori vengono create chiamando DocumentTraversal .createNodeIterator.
 type: docs
 weight: 1250
 url: /it/net/aspose.svg.dom.traversal/inodeiterator/
 ---
 ## INodeIterator interface
 
-Gli iteratori vengono utilizzati per scorrere un insieme di nodi, ad esempio l'insieme di nodi in una NodeList, il sottoalbero del documento governato da un particolare Nodo, i risultati di una query o qualsiasi altro insieme di nodi. L'insieme di nodi da iterare è determinato dall'implementazione di NodeIterator. DOM Level 2 specifica un'implementazione di singolo NodeIterator per l'attraversamento dell'ordine dei documenti di un sottoalbero di documenti. Le istanze di questi iteratori vengono create chiamando DocumentTraversal .createNodeIterator().
+Gli iteratori vengono utilizzati per scorrere un insieme di nodi, ad esempio l'insieme di nodi in una NodeList, il sottoalbero del documento governato da un particolare nodo, i risultati di una query o qualsiasi altro insieme di nodi. Il set di nodi da iterare è determinato dall'implementazione di NodeIterator. DOM Level 2 specifica un'implementazione single NodeIterator per l'attraversamento dell'ordine dei documenti di una sottostruttura del documento. Le istanze di questi iteratori vengono create chiamando DocumentTraversal .createNodeIterator().
 
-Vedi anche il[Document Object Model (DOM) Livello 2 Traversal and Range Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @dal livello DOM 2
+Vedi anche il[Document object Model (DOM) Livello 2 Traversal e Range Specification](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113). @since DOM Level 2
 
 ```csharp
 public interface INodeIterator : ITraversal
@@ -20,21 +20,21 @@ public interface INodeIterator : ITraversal
 
 | Nome | Descrizione |
 | --- | --- |
-| [PointerBeforeReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode) { get; } | Il valore di questo flag determina se i figli dei nodi di riferimento entity sono visibili all'iteratore. Se false, loro e i loro discendenti saranno rifiutati. Nota che questo rifiuto ha la precedenza su whatToShow e il filtro. Nota inoltre che questa è attualmente l'unica situazione in cui NodeIterators può rifiutare un sottoalbero completo invece di saltare i singoli nodi. Per produrre una vista del documento che ha riferimenti a entità espansi e non espone il nodo di riferimento a entità stesso, usa i flag whatToShow a nascondere il riferimento all'entità node e impostare expandEntityReferences su true durante la creazione dell'iteratore . Per produrre una vista del documento che ha nodi entità reference ma nessuna espansione entità, usa whatToShow flags per mostrare il nodo di riferimento entità e imposta expandEntityReferences su false. |
-| [ReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/referencenode) { get; } | Il nodo di riferimento corrente. |
+| [PointerBeforeReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode/) { get; } | Il valore di questo flag determina se i figli dei nodi di riferimento entity sono visibili all'iteratore. Se false, loro e i loro discendenti saranno respinti. Tieni presente che questo rifiuto ha la precedenza su whatToShow e sul filtro. Si noti inoltre che questa è attualmente l'unica situazione in cui NodeIterator può rifiutare un sottoalbero completo piuttosto che saltare singoli nodi. Per produrre una vista del documento con i riferimenti dell'entità espansi e non esporre il nodo di riferimento dell'entità stesso, utilizzare i flag whatToShow per nascondere il riferimento all'entità node e impostare expandEntityReferences su true durante la creazione dell'iteratore . Per produrre una vista del documento che abbia i nodi di riferimento dell'entità ma nessuna espansione dell'entità, usa whatToShow flags per mostrare il nodo del riferimento all'entità e set expandEntityReferences su false. |
+| [ReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/referencenode/) { get; } | Il nodo di riferimento corrente. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Detach](../../aspose.svg.dom.traversal/inodeiterator/detach)() | Stacca il NodeIterator dal set su cui ha ripetuto , rilasciando tutte le risorse di calcolo e ponendo l'iteratore nello stato INVALID. Dopo che il distacco è stato richiamato, chiama nextNode o previousNode solleverà l'eccezione INVALID_STATE_ERR. |
-| [NextNode](../../aspose.svg.dom.traversal/inodeiterator/nextnode)() | Restituisce il nodo successivo nel set e fa avanzare la posizione dell'iteratore nel set. Dopo aver creato un NodeIterator, la prima chiamata a nextNode() restituisce il primo nodo in il set. |
-| [PreviousNode](../../aspose.svg.dom.traversal/inodeiterator/previousnode)() | Restituisce il nodo precedente nel set e sposta la posizione del NodeIterator all'indietro nel set. |
+| [Detach](../../aspose.svg.dom.traversal/inodeiterator/detach/)() | Stacca NodeIterator dal set su cui ha iterato , rilasciando tutte le risorse computazionali e ponendo iterator nello stato INVALID. Dopo che il distacco è stato invocato, le chiamate a nextNode o previousNode solleveranno l'eccezione INVALID_STATE_ERR. |
+| [NextNode](../../aspose.svg.dom.traversal/inodeiterator/nextnode/)() | Restituisce il nodo successivo nell'insieme e fa avanzare la posizione dell' iteratore nell'insieme. Dopo la creazione di un NodeIterator, la prima chiamata a nextNode() restituisce il primo nodo in l'insieme. |
+| [PreviousNode](../../aspose.svg.dom.traversal/inodeiterator/previousnode/)() | Restituisce il nodo precedente nel set e sposta la posizione del NodeIterator all'indietro nel set. |
 
 ### Guarda anche
 
-* interface [ITraversal](../itraversal)
-* spazio dei nomi [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal)
+* interface [ITraversal](../itraversal/)
+* spazio dei nomi [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
 * assemblea [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

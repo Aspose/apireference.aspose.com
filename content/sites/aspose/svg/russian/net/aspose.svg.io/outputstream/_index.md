@@ -1,14 +1,14 @@
 ---
-title: OutputStream
+title: Class OutputStream
 second_title: Справочник по Aspose.SVG для .NET API
-description: Суррогатный поток обертывает реальный выходной поток и контролирует доступ к нему. OutputStream./outputstream содержит данные URI описывающие расположение выходного потока.
+description: Aspose.Svg.IO.OutputStream сорт. Суррогатный поток обертывает реальный выходной поток и контролирует доступ к нему. OutputStream содержит данные URI описывающие расположение выходного потока.
 type: docs
 weight: 1980
 url: /ru/net/aspose.svg.io/outputstream/
 ---
 ## OutputStream class
 
-Суррогатный поток обертывает реальный выходной поток и контролирует доступ к нему. [`OutputStream`](../outputstream) содержит данные URI, описывающие расположение выходного потока.
+Суррогатный поток обертывает реальный выходной поток и контролирует доступ к нему. `OutputStream` содержит данные URI, описывающие расположение выходного потока.
 
 ```csharp
 public class OutputStream : Stream
@@ -18,33 +18,33 @@ public class OutputStream : Stream
 
 | Имя | Описание |
 | --- | --- |
-| [OutputStream](outputstream)(Stream, string) | Инициализирует новый экземпляр[`OutputStream`](../outputstream) класс. |
+| [OutputStream](outputstream/)(Stream, string) | Инициализирует новый экземпляр`OutputStream` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| override [CanRead](../../aspose.svg.io/outputstream/canread) { get; } | Получает значение, указывающее, поддерживает ли обернутый поток вывода чтение. |
-| override [CanSeek](../../aspose.svg.io/outputstream/canseek) { get; } | Получает значение, указывающее, поддерживает ли обернутый выходной поток поиск. |
-| override [CanWrite](../../aspose.svg.io/outputstream/canwrite) { get; } | Получает значение, указывающее, поддерживает ли обернутый выходной поток запись. |
-| override [Length](../../aspose.svg.io/outputstream/length) { get; } | Получает длину в байтах упакованного выходного потока. |
-| override [Position](../../aspose.svg.io/outputstream/position) { get; set; } | Получает или задает позицию в обернутом потоке вывода. |
-| [Uri](../../aspose.svg.io/outputstream/uri) { get; } | Получает URI местоположения потока. |
+| override [CanRead](../../aspose.svg.io/outputstream/canread/) { get; } | Получает значение, указывающее, поддерживает ли обернутый поток вывода чтение. |
+| override [CanSeek](../../aspose.svg.io/outputstream/canseek/) { get; } | Получает значение, указывающее, поддерживает ли обернутый выходной поток поиск. |
+| override [CanWrite](../../aspose.svg.io/outputstream/canwrite/) { get; } | Получает значение, указывающее, поддерживает ли обернутый выходной поток запись. |
+| override [Length](../../aspose.svg.io/outputstream/length/) { get; } | Получает длину в байтах упакованного выходного потока. |
+| override [Position](../../aspose.svg.io/outputstream/position/) { get; set; } | Получает или задает позицию в обернутом потоке вывода. |
+| [Uri](../../aspose.svg.io/outputstream/uri/) { get; } | Получает URI местоположения потока. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Close](../../aspose.svg.io/outputstream/close)() | Закрывает обернутый поток вывода и текущий поток. |
-| override [Flush](../../aspose.svg.io/outputstream/flush)() | Очищает все буферы для обернутого выходного потока и вызывает запись всех буферизованных данных на базовое устройство. |
-| override [Read](../../aspose.svg.io/outputstream/read)(byte[], int, int) | Считывает последовательность байтов из упакованного выходного потока и перемещает позицию в потоке на количество прочитанных байтов. |
-| override [Seek](../../aspose.svg.io/outputstream/seek)(long, SeekOrigin) | Устанавливает позицию в обернутом потоке вывода. |
-| override [SetLength](../../aspose.svg.io/outputstream/setlength)(long) | Устанавливает длину обернутого выходного потока. |
-| override [Write](../../aspose.svg.io/outputstream/write)(byte[], int, int) | Записывает последовательность байтов в обернутый поток output и продвигает текущую позицию в этом потоке на количество записанных байтов . |
+| override [Close](../../aspose.svg.io/outputstream/close/)() | Закрывает обернутый поток вывода и текущий поток. |
+| override [Flush](../../aspose.svg.io/outputstream/flush/)() | Очищает все буферы для обернутого выходного потока и вызывает запись всех буферизованных данных на базовое устройство. |
+| override [Read](../../aspose.svg.io/outputstream/read/)(byte[], int, int) | Считывает последовательность байтов из упакованного выходного потока и перемещает позицию в потоке на количество прочитанных байтов. |
+| override [Seek](../../aspose.svg.io/outputstream/seek/)(long, SeekOrigin) | Устанавливает позицию в обернутом потоке вывода. |
+| override [SetLength](../../aspose.svg.io/outputstream/setlength/)(long) | Устанавливает длину обернутого выходного потока. |
+| override [Write](../../aspose.svg.io/outputstream/write/)(byte[], int, int) | Записывает последовательность байтов в обернутый поток output и продвигает текущую позицию в этом потоке на количество записанных байтов . |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Svg.IO](../../aspose.svg.io)
+* пространство имен [Aspose.Svg.IO](../../aspose.svg.io/)
 * сборка [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: SVGPreserveAspectRatio
+title: Class SVGPreserveAspectRatio
 second_title: Referencia de API de Aspose.SVG para .NET
-description: La interfaz SVGPreserveAspectRatio corresponde al atributo preserveAspectRatio que está disponible para algunos de los elementos de SVG.
+description: Aspose.Svg.DataTypes.SVGPreserveAspectRatio clase. La interfaz SVGPreserveAspectRatio corresponde al atributo preserveAspectRatio que está disponible para algunos de los elementos de SVG.
 type: docs
 weight: 290
 url: /es/net/aspose.svg.datatypes/svgpreserveaspectratio/
@@ -18,40 +18,40 @@ public class SVGPreserveAspectRatio : SVGValueType
 
 | Nombre | Descripción |
 | --- | --- |
-| [Align](../../aspose.svg.datatypes/svgpreserveaspectratio/align) { get; set; } | El tipo del valor de alineación especificado por una de las constantes SVG_PRESERVEASPECTRATIO_* definidas en esta interfaz. |
-| [MeetOrSlice](../../aspose.svg.datatypes/svgpreserveaspectratio/meetorslice) { get; set; } | El tipo del valor de reunión o división especificado por una de las constantes SVG_MEETORSLICE_* definidas en esta interfaz. |
+| [Align](../../aspose.svg.datatypes/svgpreserveaspectratio/align/) { get; set; } | El tipo del valor de alineación especificado por una de las constantes SVG_PRESERVEASPECTRATIO_* definidas en esta interfaz. |
+| [MeetOrSlice](../../aspose.svg.datatypes/svgpreserveaspectratio/meetorslice/) { get; set; } | El tipo del valor de reunión o división especificado por una de las constantes SVG_MEETORSLICE_* definidas en esta interfaz. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Libera recursos no administrados y, opcionalmente, administrados. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Este método se utiliza para recuperar el objeto ECMAScriptType . |
-| override [ToString](../../aspose.svg.datatypes/svgpreserveaspectratio/tostring)() | Devuelve unString que representa esta instancia. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Libera recursos no administrados y, opcionalmente, administrados. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Este método se utiliza para recuperar el objeto ECMAScriptType . |
+| override [ToString](../../aspose.svg.datatypes/svgpreserveaspectratio/tostring/)() | Devuelve unString que representa esta instancia. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| const [SVG_MEETORSLICE_MEET](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_meet) | Corresponde al valor 'cumplir' para el atributo 'preserveAspectRatio'. |
-| const [SVG_MEETORSLICE_SLICE](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_slice) | Corresponde al valor 'slice' para el atributo 'preserveAspectRatio'. |
-| const [SVG_MEETORSLICE_UNKNOWN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_unknown) | La enumeración se estableció en un valor que no es uno de los tipos predefinidos. No es válido intentar definir un nuevo valor de este tipo o intentar cambiar un valor existente a este tipo. |
-| const [SVG_PRESERVEASPECTRATIO_NONE](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_none) | Corresponde al valor 'ninguno' para el atributo 'preserveAspectRatio'. |
-| const [SVG_PRESERVEASPECTRATIO_UNKNOWN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_unknown) | La enumeración se estableció en un valor que no es uno de los tipos predefinidos. No es válido intentar definir un nuevo valor de este tipo o intentar cambiar un valor existente a este tipo. |
-| const [SVG_PRESERVEASPECTRATIO_XMAXYMAX](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymax) | Corresponde al valor 'xMaxYMax' para el atributo 'preserveAspectRatio'. |
-| const [SVG_PRESERVEASPECTRATIO_XMAXYMID](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymid) | Corresponde al valor 'xMaxYMid' para el atributo 'preserveAspectRatio'. |
-| const [SVG_PRESERVEASPECTRATIO_XMAXYMIN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymin) | Corresponde al valor 'xMaxYMin' para el atributo 'preserveAspectRatio'. |
-| const [SVG_PRESERVEASPECTRATIO_XMIDYMAX](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymax) | Corresponde al valor 'xMidYMax' para el atributo 'preserveAspectRatio'. |
-| const [SVG_PRESERVEASPECTRATIO_XMIDYMID](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymid) | Corresponde al valor 'xMidYMid' para el atributo 'preserveAspectRatio'. |
-| const [SVG_PRESERVEASPECTRATIO_XMIDYMIN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymin) | Corresponde al valor 'xMidYMin' para el atributo 'preserveAspectRatio'. |
-| const [SVG_PRESERVEASPECTRATIO_XMINYMAX](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xminymax) | Corresponde al valor 'xMinYMax' para el atributo 'preserveAspectRatio'. |
-| const [SVG_PRESERVEASPECTRATIO_XMINYMID](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xminymid) | Corresponde al valor 'XMinYMid' para el atributo 'preserveAspectRatio'. |
-| const [SVG_PRESERVEASPECTRATIO_XMINYMIN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xminymin) | Corresponde al valor 'xMinYMin' para el atributo 'preserveAspectRatio'. |
+| const [SVG_MEETORSLICE_MEET](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_meet/) | Corresponde al valor 'cumplir' para el atributo 'preserveAspectRatio'. |
+| const [SVG_MEETORSLICE_SLICE](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_slice/) | Corresponde al valor 'slice' para el atributo 'preserveAspectRatio'. |
+| const [SVG_MEETORSLICE_UNKNOWN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_unknown/) | La enumeración se estableció en un valor que no es uno de los tipos predefinidos. No es válido intentar definir un nuevo valor de este tipo o intentar cambiar un valor existente a este tipo. |
+| const [SVG_PRESERVEASPECTRATIO_NONE](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_none/) | Corresponde al valor 'ninguno' para el atributo 'preserveAspectRatio'. |
+| const [SVG_PRESERVEASPECTRATIO_UNKNOWN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_unknown/) | La enumeración se estableció en un valor que no es uno de los tipos predefinidos. No es válido intentar definir un nuevo valor de este tipo o intentar cambiar un valor existente a este tipo. |
+| const [SVG_PRESERVEASPECTRATIO_XMAXYMAX](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymax/) | Corresponde al valor 'xMaxYMax' para el atributo 'preserveAspectRatio'. |
+| const [SVG_PRESERVEASPECTRATIO_XMAXYMID](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymid/) | Corresponde al valor 'xMaxYMid' para el atributo 'preserveAspectRatio'. |
+| const [SVG_PRESERVEASPECTRATIO_XMAXYMIN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymin/) | Corresponde al valor 'xMaxYMin' para el atributo 'preserveAspectRatio'. |
+| const [SVG_PRESERVEASPECTRATIO_XMIDYMAX](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymax/) | Corresponde al valor 'xMidYMax' para el atributo 'preserveAspectRatio'. |
+| const [SVG_PRESERVEASPECTRATIO_XMIDYMID](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymid/) | Corresponde al valor 'xMidYMid' para el atributo 'preserveAspectRatio'. |
+| const [SVG_PRESERVEASPECTRATIO_XMIDYMIN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymin/) | Corresponde al valor 'xMidYMin' para el atributo 'preserveAspectRatio'. |
+| const [SVG_PRESERVEASPECTRATIO_XMINYMAX](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xminymax/) | Corresponde al valor 'xMinYMax' para el atributo 'preserveAspectRatio'. |
+| const [SVG_PRESERVEASPECTRATIO_XMINYMID](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xminymid/) | Corresponde al valor 'XMinYMid' para el atributo 'preserveAspectRatio'. |
+| const [SVG_PRESERVEASPECTRATIO_XMINYMIN](../../aspose.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xminymin/) | Corresponde al valor 'xMinYMin' para el atributo 'preserveAspectRatio'. |
 
 ### Ver también
 
-* class [SVGValueType](../svgvaluetype)
-* espacio de nombres [Aspose.Svg.DataTypes](../../aspose.svg.datatypes)
+* class [SVGValueType](../svgvaluetype/)
+* espacio de nombres [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
 * asamblea [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: ImageSaveOptions
+title: Class ImageSaveOptions
 second_title: Справочник по Aspose.SVG для .NET API
-description: Класс данных конкретных опций.
+description: Aspose.Svg.Saving.ImageSaveOptions сорт. Класс данных конкретных опций.
 type: docs
-weight: 3570
+weight: 3620
 url: /ru/net/aspose.svg.saving/imagesaveoptions/
 ---
 ## ImageSaveOptions class
@@ -18,27 +18,27 @@ public class ImageSaveOptions : ImageRenderingOptions
 
 | Имя | Описание |
 | --- | --- |
-| [ImageSaveOptions](imagesaveoptions#constructor)() | Инициализирует новый экземпляр[`ImageSaveOptions`](../imagesaveoptions) учебный класс;Png будет использоваться как формат изображения по умолчанию. |
-| [ImageSaveOptions](imagesaveoptions#constructor_1)(ImageFormat) | Формат изображения[`ImageFormat`](../../aspose.svg.rendering.image/imageformat) на основе initialization |
+| [ImageSaveOptions](imagesaveoptions/#constructor)() | Инициализирует новый экземпляр`ImageSaveOptions` сорт;Png будет использоваться как формат изображения по умолчанию. |
+| [ImageSaveOptions](imagesaveoptions/#constructor_1)(ImageFormat) | Формат изображения[`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) на основе initialization |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor) { get; set; } | Получает или устанавливаетColor который заполнит фон каждой страницы. Значение по умолчаниюTransparent . |
-| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression) { get; set; } | Устанавливает или получает формат файла изображения с тегами (TIFF)[`Compression`](../../aspose.svg.rendering.image/compression) . По умолчанию это свойствоLZW . |
-| [Css](../../aspose.svg.rendering/renderingoptions/css) { get; } | Получает[`CssOptions`](../../aspose.svg.rendering/cssoptions) объект, который используется для настройки обработки свойств css. |
-| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format) { get; set; } | Устанавливает или получает[`ImageFormat`](../../aspose.svg.rendering.image/imageformat) . По умолчанию это свойствоPng . |
-| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution) { get; set; } | Задает или получает разрешение по горизонтали для вывода и внутреннего (используемого при обработке фильтрами) изображения в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
-| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup) { get; } | Получает объект настройки страницы, который используется для вывода конфигурации набора страниц. |
-| [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode) { get; set; } | Получает или задает качество рендеринга для этой графики. |
-| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text) { get; } | Получает[`TextOptions`](../../aspose.svg.rendering.image/textoptions) объект, который используется для настройки рендеринга текста. |
-| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution) { get; set; } | Задает или получает разрешение по вертикали для выходного и внутреннего (используемого при обработке фильтрами) изображения в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
+| [BackgroundColor](../../aspose.svg.rendering/renderingoptions/backgroundcolor/) { get; set; } | Получает или устанавливаетColor который заполнит фон каждой страницы. Значение по умолчаниюTransparent . |
+| [Compression](../../aspose.svg.rendering.image/imagerenderingoptions/compression/) { get; set; } | Устанавливает или получает формат файла изображения с тегами (TIFF)[`Compression`](../../aspose.svg.rendering.image/compression/) . По умолчанию это свойствоLZW . |
+| [Css](../../aspose.svg.rendering/renderingoptions/css/) { get; } | Получает[`CssOptions`](../../aspose.svg.rendering/cssoptions/) объект, который используется для настройки обработки свойств css. |
+| [Format](../../aspose.svg.rendering.image/imagerenderingoptions/format/) { get; set; } | Устанавливает или получает[`ImageFormat`](../../aspose.svg.rendering.image/imageformat/) . По умолчанию это свойствоPng . |
+| override [HorizontalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Задает или получает разрешение по горизонтали для вывода и внутреннего (используемого при обработке фильтрами) изображения в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
+| [PageSetup](../../aspose.svg.rendering/renderingoptions/pagesetup/) { get; } | Получает объект настройки страницы, который используется для вывода конфигурации набора страниц. |
+| [SmoothingMode](../../aspose.svg.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | Получает или задает качество рендеринга для этой графики. |
+| [Text](../../aspose.svg.rendering.image/imagerenderingoptions/text/) { get; } | Получает[`TextOptions`](../../aspose.svg.rendering.image/textoptions/) объект, который используется для настройки рендеринга текста. |
+| override [VerticalResolution](../../aspose.svg.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Задает или получает разрешение по вертикали для выходного и внутреннего (используемого при обработке фильтрами) изображения в пикселях на дюйм. По умолчанию это свойство равно 300 dpi. |
 
 ### Смотрите также
 
-* class [ImageRenderingOptions](../../aspose.svg.rendering.image/imagerenderingoptions)
-* пространство имен [Aspose.Svg.Saving](../../aspose.svg.saving)
+* class [ImageRenderingOptions](../../aspose.svg.rendering.image/imagerenderingoptions/)
+* пространство имен [Aspose.Svg.Saving](../../aspose.svg.saving/)
 * сборка [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

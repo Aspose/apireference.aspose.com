@@ -1,9 +1,9 @@
 ---
-title: IWindow
+title: Interface IWindow
 second_title: Aspose.SVG لمرجع .NET API
-description: يمثل كائن النافذة نافذة تحتوي على مستند DOM.
+description: Aspose.Svg.Window.IWindow واجهه المستخدم. يمثل كائن النافذة نافذة تحتوي على مستند DOM.
 type: docs
-weight: 3740
+weight: 3820
 url: /ar/net/aspose.svg.window/iwindow/
 ---
 ## IWindow interface
@@ -19,32 +19,32 @@ public interface IWindow : IDisposable, IDocumentView, IEventTarget, IGlobalEven
 
 | اسم | وصف |
 | --- | --- |
-| [Document](../../aspose.svg.window/iwindow/document) { get; } | يجب أن تقوم سمة المستند بإرجاع أحدث كائن مستند لكائن Window. |
-| [FrameElement](../../aspose.svg.window/iwindow/frameelement) { get; } | كائن frameElement لمستند . |
-| [Location](../../aspose.svg.window/iwindow/location) { get; } | يجب أن تقوم سمة الموقع لواجهة Window بإرجاع كائن الموقع لمستند كائن النافذة هذا. |
-| [Name](../../aspose.svg.window/iwindow/name) { get; set; } | يجب أن تعيد سمة الاسم الخاصة بكائن النافذة ، عند الحصول عليها ، الاسم الحالي لسياق الاستعراض ، وعند الإعداد ، قم بتعيين اسم سياق الاستعراض على القيمة الجديدة. |
-| [Opener](../../aspose.svg.window/iwindow/opener) { get; } | سمة Opener IDL على كائن Window ، عند الحصول عليها ، يجب أن تعيد كائن WindowProxy لسياق التصفح الذي تم إنشاء سياق التصفح الحالي منه (سياق تصفح الفتح الخاص به) ، إذا كان هناك واحد ، إذا كان لا يزال متاحًا ، وإذا سياق التصفح الحالي لم يتبرأ من افتتاحيته ؛ خلاف ذلك ، يجب أن ترجع فارغة. عند الإعداد ، إذا كانت القيمة الجديدة فارغة ، فيجب أن يتخلى سياق التصفح الحالي عن افتتاحية قيمته ؛ إذا كانت القيمة الجديدة هي أي شيء آخر ، فيجب على وكيل المستخدم استدعاء الأسلوب الداخلي [[DefineOwnProperty]] لكائن Window ، وتمرير اسم الخاصية "opener" باعتباره مفتاح الخاصية ، وواصف الخاصية {[[القيمة]]: القيمة ، [[قابل للكتابة]]: صحيح ، [[Enumerable]]: صحيح ، [[قابل للتكوين]]: صحيح} باعتباره واصف الخاصية ، حيث تكون القيمة هي القيمة الجديدة. |
-| [Parent](../../aspose.svg.window/iwindow/parent) { get; } | يجب أن تُرجع سمة IDL الأصل على كائن Window لمستند في سياق استعراض b كائن WindowProxy لسياق التصفح الأصلي ، إذا كان هناك واحد (على سبيل المثال ، إذا كان b هو سياق تصفح فرعي) ، أو كائن WindowProxy في الاستعراض السياق ب نفسه ، بخلاف ذلك (على سبيل المثال ، إذا كان سياق تصفح عالي المستوى أو سياق تصفح متداخل منفصل) . |
-| [Self](../../aspose.svg.window/iwindow/self) { get; } | إرجاع كائن WindowProxy الخاص بسياق الاستعراض الخاص بكائن Window. |
-| [Top](../../aspose.svg.window/iwindow/top) { get; } | يجب أن تُرجع سمة IDL العلوية في كائن Window لمستند ما في سياق استعراض b كائن WindowProxy لسياق التصفح ذي المستوى الأعلى (والذي سيكون كائن WindowProxy الخاص به إذا كان هو سياق تصفح عالي المستوى بحد ذاته) ، إذا يحتوي على كائن WindowProxy واحد أو خاص به بخلاف ذلك (على سبيل المثال ، إذا كان سياق تصفح متداخلاً منفصلًا) . |
-| [Window](../../aspose.svg.window/iwindow/window) { get; } | إرجاع كائن WindowProxy الخاص بسياق الاستعراض الخاص بكائن Window. |
+| [Document](../../aspose.svg.window/iwindow/document/) { get; } | يجب أن تقوم سمة المستند بإرجاع أحدث كائن مستند لكائن Window. |
+| [FrameElement](../../aspose.svg.window/iwindow/frameelement/) { get; } | كائن frameElement لمستند . |
+| [Location](../../aspose.svg.window/iwindow/location/) { get; } | يجب أن تقوم سمة الموقع لواجهة Window بإرجاع كائن الموقع لمستند كائن النافذة هذا. |
+| [Name](../../aspose.svg.window/iwindow/name/) { get; set; } | يجب أن تعيد سمة الاسم الخاصة بكائن النافذة ، عند الحصول عليها ، الاسم الحالي لسياق الاستعراض ، وعند الإعداد ، قم بتعيين اسم سياق الاستعراض على القيمة الجديدة. |
+| [Opener](../../aspose.svg.window/iwindow/opener/) { get; } | سمة Opener IDL على كائن Window ، عند الحصول عليها ، يجب أن تعيد كائن WindowProxy لسياق التصفح الذي تم إنشاء سياق التصفح الحالي منه (سياق تصفح الفتح الخاص به) ، إذا كان هناك واحد ، إذا كان لا يزال متاحًا ، وإذا سياق التصفح الحالي لم يتبرأ من افتتاحيته ؛ خلاف ذلك ، يجب أن ترجع فارغة. عند الإعداد ، إذا كانت القيمة الجديدة فارغة ، فيجب أن يتخلى سياق التصفح الحالي عن افتتاحية قيمته ؛ إذا كانت القيمة الجديدة هي أي شيء آخر ، فيجب على وكيل المستخدم استدعاء الأسلوب الداخلي [[DefineOwnProperty]] لكائن Window ، وتمرير اسم الخاصية "opener" باعتباره مفتاح الخاصية ، وواصف الخاصية {[[القيمة]]: القيمة ، [[قابل للكتابة]]: صحيح ، [[Enumerable]]: صحيح ، [[قابل للتكوين]]: صحيح} باعتباره واصف الخاصية ، حيث تكون القيمة هي القيمة الجديدة. |
+| [Parent](../../aspose.svg.window/iwindow/parent/) { get; } | يجب أن تُرجع سمة IDL الأصل على كائن Window لمستند في سياق استعراض b كائن WindowProxy لسياق التصفح الأصلي ، إذا كان هناك واحد (على سبيل المثال ، إذا كان b هو سياق تصفح فرعي) ، أو كائن WindowProxy في الاستعراض السياق ب نفسه ، بخلاف ذلك (على سبيل المثال ، إذا كان سياق تصفح عالي المستوى أو سياق تصفح متداخل منفصل) . |
+| [Self](../../aspose.svg.window/iwindow/self/) { get; } | إرجاع كائن WindowProxy الخاص بسياق الاستعراض الخاص بكائن Window. |
+| [Top](../../aspose.svg.window/iwindow/top/) { get; } | يجب أن تُرجع سمة IDL العلوية في كائن Window لمستند ما في سياق استعراض b كائن WindowProxy لسياق التصفح ذي المستوى الأعلى (والذي سيكون كائن WindowProxy الخاص به إذا كان هو سياق تصفح عالي المستوى بحد ذاته) ، إذا يحتوي على كائن WindowProxy واحد أو خاص به بخلاف ذلك (على سبيل المثال ، إذا كان سياق تصفح متداخلاً منفصلًا) . |
+| [Window](../../aspose.svg.window/iwindow/window/) { get; } | إرجاع كائن WindowProxy الخاص بسياق الاستعراض الخاص بكائن Window. |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| [Alert](../../aspose.svg.window/iwindow/alert)(string) | يعرض تنبيهًا مشروطًا بالرسالة المحددة ، وينتظر حتى يقوم المستخدم بإغلاقها |
-| [Confirm](../../aspose.svg.window/iwindow/confirm)(string) | يعرض موجه موافق / إلغاء مشروط بالرسالة المحددة ، وينتظر أن يقوم المستخدم برفضها ، ويعيد صحيحًا إذا نقر المستخدم على "موافق" و "خطأ" إذا نقر المستخدم فوق "إلغاء". |
-| [Prompt](../../aspose.svg.window/iwindow/prompt)(string, string) | يعرض موجه حقل نصي مع الرسالة المحددة ، وينتظر أن يقوم المستخدم برفضها ، ويعيد القيمة التي أدخلها المستخدم. إذا ألغى المستخدم الموجه ، فسيعيد القيمة فارغة بدلاً من ذلك. إذا كانت الوسيطة الثانية موجودة ، فسيتم استخدام القيمة المحددة كقيمة افتراضية. |
+| [Alert](../../aspose.svg.window/iwindow/alert/)(string) | يعرض تنبيهًا مشروطًا بالرسالة المحددة ، وينتظر حتى يقوم المستخدم بإغلاقها |
+| [Confirm](../../aspose.svg.window/iwindow/confirm/)(string) | يعرض موجه موافق / إلغاء مشروط بالرسالة المحددة ، وينتظر أن يقوم المستخدم برفضها ، ويعيد صحيحًا إذا نقر المستخدم على "موافق" و "خطأ" إذا نقر المستخدم فوق "إلغاء". |
+| [Prompt](../../aspose.svg.window/iwindow/prompt/)(string, string) | يعرض موجه حقل نصي مع الرسالة المحددة ، وينتظر أن يقوم المستخدم برفضها ، ويعيد القيمة التي أدخلها المستخدم. إذا ألغى المستخدم الموجه ، فسيعيد القيمة فارغة بدلاً من ذلك. إذا كانت الوسيطة الثانية موجودة ، فسيتم استخدام القيمة المحددة كقيمة افتراضية. |
 
 ### أنظر أيضا
 
-* interface [IDocumentView](../../aspose.svg.dom.views/idocumentview)
-* interface [IEventTarget](../../aspose.svg.dom.events/ieventtarget)
-* interface [IGlobalEventHandlers](../../aspose.svg.dom/iglobaleventhandlers)
-* interface [IWindowEventHandlers](../iwindoweventhandlers)
-* interface [IWindowTimers](../iwindowtimers)
-* مساحة الاسم [Aspose.Svg.Window](../../aspose.svg.window)
+* interface [IDocumentView](../../aspose.svg.dom.views/idocumentview/)
+* interface [IEventTarget](../../aspose.svg.dom.events/ieventtarget/)
+* interface [IGlobalEventHandlers](../../aspose.svg.dom/iglobaleventhandlers/)
+* interface [IWindowEventHandlers](../iwindoweventhandlers/)
+* interface [IWindowTimers](../iwindowtimers/)
+* مساحة الاسم [Aspose.Svg.Window](../../aspose.svg.window/)
 * المجسم [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

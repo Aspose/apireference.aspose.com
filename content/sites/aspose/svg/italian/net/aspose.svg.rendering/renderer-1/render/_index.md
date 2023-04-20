@@ -1,14 +1,14 @@
 ---
-title: Render
+title: Renderer1.Render
 second_title: Riferimento API Aspose.SVG per .NET
-description: Definisce il metodo per il renderingTDocumentin specificatoIDeviceaspose.svg.rendering/idevice .
+description: Renderer metodo. Definisce il metodo per il renderingTDocument in specificatoIDevice .
 type: docs
 weight: 10
 url: /it/net/aspose.svg.rendering/renderer-1/render/
 ---
-## Render(IDevice, TDocument) {#render_2}
+## Render(IDevice, TDocument) {#render_3}
 
-Definisce il metodo per il rendering!:TDocumentin specificato[`IDevice`](../../idevice) .
+Definisce il metodo per il rendering!:TDocument in specificato[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document)
@@ -21,16 +21,16 @@ public void Render(IDevice device, TDocument document)
 
 ### Guarda anche
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, TimeSpan) {#render_4}
+## Render(IDevice, TDocument, TimeSpan) {#render_5}
 
-Definisce il metodo per il rendering!:TDocumentin specificato[`IDevice`](../../idevice) . Il rendering verrà eseguito quando non ci sono operazioni di rete per il caricamento di risorse, timer attivi, attività di animazione o quando è trascorso il timeout specificato.
+Definisce il metodo per il rendering!:TDocument in specificato[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
@@ -40,20 +40,20 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 | --- | --- | --- |
 | device | IDevice | Il dispositivo di uscita. |
 | document | TDocument | Il documento. |
-| timeout | TimeSpan | UNTimeSpan che rappresenta il numero di millisecondi di attesa, oppure aTimeSpan che rappresenta -1 millisecondo di attesa indefinitamente. |
+| timeout | TimeSpan | UNTimeSpan che rappresenta il numero di millisecondi di attesa, oppure aTimeSpan che rappresenta -1 millisecondo per attendere indefinitamente. |
 
 ### Guarda anche
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, int) {#render_3}
+## Render(IDevice, TDocument, int) {#render_4}
 
-Definisce il metodo per il rendering!:TDocumentin specificato[`IDevice`](../../idevice) . Il rendering verrà eseguito quando non ci sono operazioni di rete per il caricamento di risorse, timer attivi, attività di animazione o quando è trascorso il timeout specificato.
+Definisce il metodo per il rendering!:TDocument in specificato[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
@@ -63,20 +63,20 @@ public void Render(IDevice device, TDocument document, int timeout)
 | --- | --- | --- |
 | device | IDevice | Il dispositivo di uscita. |
 | document | TDocument | Il documento. |
-| timeout | Int32 | Numero di millisecondi che rappresenta il numero di millisecondi di attesa o -1 millisecondo di attesa a tempo indeterminato. |
+| timeout | Int32 | Un numero di millisecondi che rappresenta il numero di millisecondi di attesa o -1 millisecondi di attesa a tempo indeterminato. |
 
 ### Guarda anche
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, params TDocument[]) {#render_5}
+## Render(IDevice, params TDocument[]) {#render_6}
 
-Definisce il metodo per il rendering multiplo!:TDocument s nello specifico[`IDevice`](../../idevice) .
+Definisce il metodo per il rendering multiplo!:TDocument s in specifico[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -89,16 +89,16 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ### Guarda anche
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## Render(IDevice, int, params TDocument[]) {#render}
 
-Definisce il metodo per il rendering multiplo!:TDocument s nello specifico[`IDevice`](../../idevice) . Il rendering verrà eseguito quando non ci sono operazioni di rete per il caricamento di risorse, timer attivi, attività di animazione o quando è trascorso il timeout specificato.
+Definisce il metodo per il rendering multiplo!:TDocument s in specifico[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -107,21 +107,21 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | device | IDevice | Il dispositivo di uscita. |
-| timeout | Int32 | Numero di millisecondi che rappresenta il numero di millisecondi di attesa o -1 millisecondo di attesa a tempo indeterminato. |
+| timeout | Int32 | Un numero di millisecondi che rappresenta il numero di millisecondi di attesa o -1 millisecondi di attesa a tempo indeterminato. |
 | documents | TDocument[] | I documenti da rendere. |
 
 ### Guarda anche
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
+## Render(IDevice, TimeSpan, params TDocument[]) {#render_2}
 
-Definisce il metodo per il rendering multiplo!:TDocument s nello specifico[`IDevice`](../../idevice) . Il rendering verrà eseguito quando non ci sono operazioni di rete per il caricamento di risorse, timer attivi, attività di animazione o quando è trascorso il timeout specificato.
+Definisce il metodo per il rendering multiplo!:TDocument s in specifico[`IDevice`](../../idevice/) .
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
@@ -130,14 +130,38 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | device | IDevice | Il dispositivo di uscita. |
-| timeout | TimeSpan | UNTimeSpan che rappresenta il numero di millisecondi di attesa, oppure aTimeSpan che rappresenta -1 millisecondo di attesa indefinitamente. |
+| timeout | TimeSpan | UNTimeSpan che rappresenta il numero di millisecondi di attesa, oppure aTimeSpan che rappresenta -1 millisecondo per attendere indefinitamente. |
 | documents | TDocument[] | I documenti da rendere. |
 
 ### Guarda anche
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1/)
 * assemblea [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+---
+
+## Render(IDevice, CancellationToken, params TDocument[]) {#render_1}
+
+Definisce un metodo per il rendering multiplo!:TDocument s in uno specifico[`IDevice`](../../idevice/) , utilizzando un token di annullamento per richiedere l'annullamento dell'operazione.
+
+```csharp
+public abstract void Render(IDevice device, CancellationToken cancellationToken, 
+    params TDocument[] documents)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| device | IDevice | Il dispositivo di uscita. |
+| cancellationToken | CancellationToken | UNCancellationToken osservare mentre si attende il completamento dell'attività. |
+| documents | TDocument[] | I documenti da rendere. |
+
+### Guarda anche
+
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* spazio dei nomi [Aspose.Svg.Rendering](../../renderer-1/)
+* assemblea [Aspose.SVG](../../../)
+
+

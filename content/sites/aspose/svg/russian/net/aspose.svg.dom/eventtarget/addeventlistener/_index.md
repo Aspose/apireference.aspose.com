@@ -1,7 +1,7 @@
 ---
-title: AddEventListener
+title: EventTarget.AddEventListener
 second_title: Справочник по Aspose.SVG для .NET API
-description: Этот метод позволяет регистрировать прослушиватели событий в цели события.
+description: EventTarget метод. Этот метод позволяет регистрировать прослушиватели событий в цели события.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.dom/eventtarget/addeventlistener/
@@ -17,20 +17,20 @@ public void AddEventListener(string type, DOMEventHandler handler, bool useCaptu
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | type | String | Тип события, на которое регистрируется пользователь |
-| handler | DOMEventHandler | Принимает[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler) вызываться при возникновении события. |
-| useCapture | Boolean | Если значение true, useCapture указывает, что пользователь хочет инициировать захват.[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) до того, как они будут отправлены на любые цели событий, находящиеся под ними в дереве. События, которые всплывают вверх по дереву, не вызовут[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) предназначены для использования захвата. |
+| handler | DOMEventHandler | Принимает[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) вызываться при возникновении события. |
+| useCapture | Boolean | Если значение true, useCapture указывает, что пользователь хочет инициировать захват.[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) до того, как они будут отправлены на любые цели событий, находящиеся под ними в дереве. События, которые всплывают вверх по дереву, не вызовут[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) предназначены для использования захвата. |
 
 ### Примечания
 
-Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) добавляется к[`EventTarget`](../../eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
+Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) добавляется к[`EventTarget`](../) пока он обрабатывает событие, он не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
 
-Если несколько идентичных прослушивателей событий зарегистрированы на одном[`EventTarget`](../../eventtarget)с теми же параметрами повторяющиеся экземпляры отбрасываются. Они не вызывают[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) вызываться дважды, и поскольку они отбрасываются, их не нужно удалять с помощью the [`RemoveEventListener`](../removeeventlistener) метод.
+Если несколько идентичных прослушивателей событий зарегистрированы на одном[`EventTarget`](../)с теми же параметрами повторяющиеся экземпляры отбрасываются. Они не вызывают[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) вызываться дважды, и поскольку они отбрасываются, их не нужно удалять с помощью the [`RemoveEventListener`](../removeeventlistener/) метод.
 
 ### Смотрите также
 
-* delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler)
-* class [EventTarget](../../eventtarget)
-* пространство имен [Aspose.Svg.Dom](../../eventtarget)
+* delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
+* class [EventTarget](../)
+* пространство имен [Aspose.Svg.Dom](../../eventtarget/)
 * сборка [Aspose.SVG](../../../)
 
 ---
@@ -50,15 +50,15 @@ public void AddEventListener(string type, IEventListener listener)
 
 ### Примечания
 
-Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) добавляется к[`EventTarget`](../../eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
+Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) добавляется к[`EventTarget`](../) пока он обрабатывает событие, он не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
 
-Если несколько идентичных прослушивателей событий зарегистрированы на одном[`EventTarget`](../../eventtarget)с теми же параметрами повторяющиеся экземпляры отбрасываются. Они не вызывают[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) вызываться дважды, и поскольку они отбрасываются, их не нужно удалять с помощью the [`RemoveEventListener`](../removeeventlistener) метод.
+Если несколько идентичных прослушивателей событий зарегистрированы на одном[`EventTarget`](../)с теми же параметрами повторяющиеся экземпляры отбрасываются. Они не вызывают[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) вызываться дважды, и поскольку они отбрасываются, их не нужно удалять с помощью the [`RemoveEventListener`](../removeeventlistener/) метод.
 
 ### Смотрите также
 
-* interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener)
-* class [EventTarget](../../eventtarget)
-* пространство имен [Aspose.Svg.Dom](../../eventtarget)
+* interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
+* class [EventTarget](../)
+* пространство имен [Aspose.Svg.Dom](../../eventtarget/)
 * сборка [Aspose.SVG](../../../)
 
 ---
@@ -75,19 +75,19 @@ public void AddEventListener(string type, IEventListener listener, bool useCaptu
 | --- | --- | --- |
 | type | String | Тип события, на которое регистрируется пользователь |
 | listener | IEventListener | Принимает реализованный пользователем интерфейс, который содержит методы, вызываемые при возникновении события. |
-| useCapture | Boolean | Если значение true, useCapture указывает, что пользователь хочет инициировать захват.[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) до того, как они будут отправлены на любые цели событий, находящиеся под ними в дереве. События, которые всплывают вверх по дереву, не вызовут[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) предназначены для использования захвата. |
+| useCapture | Boolean | Если значение true, useCapture указывает, что пользователь хочет инициировать захват.[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) до того, как они будут отправлены на любые цели событий, находящиеся под ними в дереве. События, которые всплывают вверх по дереву, не вызовут[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) предназначены для использования захвата. |
 
 ### Примечания
 
-Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) добавляется к[`EventTarget`](../../eventtarget) пока он обрабатывает событие, он не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
+Если[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) добавляется к[`EventTarget`](../) пока он обрабатывает событие, он не будет запущен текущими действиями, но может быть запущен на более позднем этапе потока событий, например, на этапе всплытия.
 
-Если несколько идентичных прослушивателей событий зарегистрированы на одном[`EventTarget`](../../eventtarget)с теми же параметрами повторяющиеся экземпляры отбрасываются. Они не вызывают[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) вызываться дважды, и поскольку они отбрасываются, их не нужно удалять с помощью the [`RemoveEventListener`](../removeeventlistener) метод.
+Если несколько идентичных прослушивателей событий зарегистрированы на одном[`EventTarget`](../)с теми же параметрами повторяющиеся экземпляры отбрасываются. Они не вызывают[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) вызываться дважды, и поскольку они отбрасываются, их не нужно удалять с помощью the [`RemoveEventListener`](../removeeventlistener/) метод.
 
 ### Смотрите также
 
-* interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener)
-* class [EventTarget](../../eventtarget)
-* пространство имен [Aspose.Svg.Dom](../../eventtarget)
+* interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
+* class [EventTarget](../)
+* пространство имен [Aspose.Svg.Dom](../../eventtarget/)
 * сборка [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

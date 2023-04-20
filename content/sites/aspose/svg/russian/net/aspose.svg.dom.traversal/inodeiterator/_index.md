@@ -1,7 +1,7 @@
 ---
-title: INodeIterator
+title: Interface INodeIterator
 second_title: Справочник по Aspose.SVG для .NET API
-description: Итераторы используются для перехода через набор узлов например набор узлов в списке узлов поддерево документа управляемое конкретным узлом результаты запроса или любой другой набор узлов . Набор итерируемых узлов определяется реализацией NodeIterator. DOM уровня 2 определяет одиночную реализацию NodeIterator для обхода поддерева документа в порядке документа. Экземпляры этих итераторов создаются путем вызова DocumentTraversal .createNodeIterator.
+description: Aspose.Svg.Dom.Traversal.INodeIterator интерфейс. Итераторы используются для перехода через набор узлов например набор узлов в списке узлов поддерево документа управляемое конкретным узлом результаты запроса или любой другой набор узлов . Набор итерируемых узлов определяется реализацией NodeIterator. DOM уровня 2 определяет одиночную реализацию NodeIterator для обхода поддерева документа в порядке документа. Экземпляры этих итераторов создаются путем вызова DocumentTraversal .createNodeIterator.
 type: docs
 weight: 1250
 url: /ru/net/aspose.svg.dom.traversal/inodeiterator/
@@ -20,21 +20,21 @@ public interface INodeIterator : ITraversal
 
 | Имя | Описание |
 | --- | --- |
-| [PointerBeforeReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode) { get; } | Значение этого флага определяет, видны ли итератору потомки ссылочных узлов entity . Если false, они и их потомки будут отклонены. Обратите внимание, что это отклонение имеет приоритет над whatToShow и фильтром. Также обратите внимание на то, что в настоящее время это единственная ситуация, когда NodeIterators может отклонить полное поддерево, а не пропустить отдельные узлы. скройте ссылку на сущность node и установите для параметра expandEntityReferences значение true при создании итератора . Чтобы создать представление документа с узлами ссылки на сущность , но без расширения сущности, используйте флаги whatToShow для отображения узла ссылки на сущность и установите для свойства expandEntityReferences значение false. |
-| [ReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/referencenode) { get; } | Текущий опорный узел. |
+| [PointerBeforeReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/pointerbeforereferencenode/) { get; } | Значение этого флага определяет, видны ли итератору потомки ссылочных узлов entity . Если false, они и их потомки будут отклонены. Обратите внимание, что это отклонение имеет приоритет над whatToShow и фильтром. Также обратите внимание на то, что в настоящее время это единственная ситуация, когда NodeIterators может отклонить полное поддерево, а не пропустить отдельные узлы. скройте ссылку на сущность node и установите для параметра expandEntityReferences значение true при создании итератора . Чтобы создать представление документа с узлами ссылки на сущность , но без расширения сущности, используйте флаги whatToShow для отображения узла ссылки на сущность и установите для свойства expandEntityReferences значение false. |
+| [ReferenceNode](../../aspose.svg.dom.traversal/inodeiterator/referencenode/) { get; } | Текущий опорный узел. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Detach](../../aspose.svg.dom.traversal/inodeiterator/detach)() | Отсоединяет NodeIterator от набора, по которому он выполнял итерацию , освобождая все вычислительные ресурсы и переводя итератор в состояние INVALID. После вызова detach вызовы nextNode или previousNode будут вызывать исключение INVALID_STATE_ERR. |
-| [NextNode](../../aspose.svg.dom.traversal/inodeiterator/nextnode)() | Возвращает следующий узел в наборе и продвигает позицию итератора в наборе. После создания NodeIterator первый вызов nextNode() возвращает первый узел в наборе. |
-| [PreviousNode](../../aspose.svg.dom.traversal/inodeiterator/previousnode)() | Возвращает предыдущий узел в наборе и перемещает позицию NodeIterator назад в наборе. |
+| [Detach](../../aspose.svg.dom.traversal/inodeiterator/detach/)() | Отсоединяет NodeIterator от набора, по которому он выполнял итерацию , освобождая все вычислительные ресурсы и переводя итератор в состояние INVALID. После вызова detach вызовы nextNode или previousNode будут вызывать исключение INVALID_STATE_ERR. |
+| [NextNode](../../aspose.svg.dom.traversal/inodeiterator/nextnode/)() | Возвращает следующий узел в наборе и продвигает позицию итератора в наборе. После создания NodeIterator первый вызов nextNode() возвращает первый узел в наборе. |
+| [PreviousNode](../../aspose.svg.dom.traversal/inodeiterator/previousnode/)() | Возвращает предыдущий узел в наборе и перемещает позицию NodeIterator назад в наборе. |
 
 ### Смотрите также
 
-* interface [ITraversal](../itraversal)
-* пространство имен [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal)
+* interface [ITraversal](../itraversal/)
+* пространство имен [Aspose.Svg.Dom.Traversal](../../aspose.svg.dom.traversal/)
 * сборка [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

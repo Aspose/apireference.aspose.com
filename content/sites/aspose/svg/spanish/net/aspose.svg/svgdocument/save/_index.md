@@ -1,7 +1,7 @@
 ---
-title: Save
+title: SVGDocument.Save
 second_title: Referencia de API de Aspose.SVG para .NET
-description: Guarda el documento en el archivo local especificado porURL . Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente cuyo nombre se construirá como nombre_archivo_salida  _archivos.
+description: SVGDocument método. Guarda el documento en el archivo local especificado porURL . Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente cuyo nombre se construirá como nombre_archivo_salida  _archivos.
 type: docs
 weight: 90
 url: /es/net/aspose.svg/svgdocument/save/
@@ -26,16 +26,16 @@ public void Save(Url url)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [SVGDocument](../../svgdocument)
-* espacio de nombres [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGDocument](../)
+* espacio de nombres [Aspose.Svg](../../svgdocument/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
 
 ## Save(string) {#save_6}
 
-Guarda el documento en el archivo local especificado por`sendero` . Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
+Guarda el documento en el archivo local especificado por`camino` . Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
 
 ```csharp
 public void Save(string path)
@@ -49,12 +49,12 @@ public void Save(string path)
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | Aumentado si el especificado`sendero` no es una ruta de archivo local válida. |
+| ArgumentException | Aumentado si el especificado`camino` no es una ruta de archivo local válida. |
 
 ### Ver también
 
-* class [SVGDocument](../../svgdocument)
-* espacio de nombres [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* espacio de nombres [Aspose.Svg](../../svgdocument/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
@@ -69,20 +69,20 @@ public void Save(IOutputStorage outputStorage)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage). |
+| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
 
 ### Ver también
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage)
-* class [SVGDocument](../../svgdocument)
-* espacio de nombres [Aspose.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [SVGDocument](../)
+* espacio de nombres [Aspose.Svg](../../svgdocument/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
 
 ## Save(string, SVGSaveFormat) {#save_7}
 
-Guarda el documento en el archivo local especificado por`sendero` . Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
+Guarda el documento en el archivo local especificado por`camino` . Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
 
 ```csharp
 public void Save(string path, SVGSaveFormat saveFormat)
@@ -97,13 +97,13 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | Aumentado si el especificado`sendero` no es una ruta de archivo local válida. |
+| ArgumentException | Aumentado si el especificado`camino` no es una ruta de archivo local válida. |
 
 ### Ver también
 
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* espacio de nombres [Aspose.Svg](../../svgdocument)
+* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* espacio de nombres [Aspose.Svg](../../svgdocument/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
@@ -118,22 +118,22 @@ public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage). |
+| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
 | saveFormat | SVGSaveFormat | Formato en el que se guarda el documento. |
 
 ### Ver también
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage)
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* espacio de nombres [Aspose.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* espacio de nombres [Aspose.Svg](../../svgdocument/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
 
 ## Save(string, SVGSaveOptions) {#save_8}
 
-Guarda el documento en el archivo local especificado por`sendero` . Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
+Guarda el documento en el archivo local especificado por`camino` . Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
 
 ```csharp
 public void Save(string path, SVGSaveOptions saveOptions)
@@ -148,13 +148,13 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | Aumentado si el especificado`sendero` no es una ruta de archivo local válida. |
+| ArgumentException | Aumentado si el especificado`camino` no es una ruta de archivo local válida. |
 
 ### Ver también
 
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* espacio de nombres [Aspose.Svg](../../svgdocument)
+* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* espacio de nombres [Aspose.Svg](../../svgdocument/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
@@ -169,15 +169,15 @@ public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage). |
+| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
 | saveOptions | SVGSaveOptions | Opciones de guardado de SVG. |
 
 ### Ver también
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage)
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* espacio de nombres [Aspose.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* espacio de nombres [Aspose.Svg](../../svgdocument/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
@@ -203,10 +203,10 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 ### Ver también
 
-* class [Url](../../url)
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* espacio de nombres [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* espacio de nombres [Aspose.Svg](../../svgdocument/)
 * asamblea [Aspose.SVG](../../../)
 
 ---
@@ -232,10 +232,10 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* espacio de nombres [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* espacio de nombres [Aspose.Svg](../../svgdocument/)
 * asamblea [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

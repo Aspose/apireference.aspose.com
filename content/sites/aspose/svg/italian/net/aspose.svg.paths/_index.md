@@ -1,42 +1,42 @@
 ---
 title: Aspose.Svg.Paths
 second_title: Riferimento API Aspose.SVG per .NET
-description: Il Aspose.Svg.Dom.Svg.Percorsi namespace descrive le classi per la rappresentazione del contorno di una forma che può essere riempita o accarezzata. Un tracciato può anche essere usato come tracciato di ritaglio per descrivere lanimazione o posizionare il testo.
+description: Il Aspose.Svg.Dom.Svg.Paths namespace descrive le classi per rappresentazione del contorno di una forma che può essere riempita o accarezzata. Un tracciato può essere utilizzato anche come tracciato di ritaglio per descrivere lanimazione o posizionare il testo.
 type: docs
 weight: 230
 url: /it/net/aspose.svg.paths/
 ---
-Il **Aspose.Svg.Dom.Svg.Percorsi** namespace descrive le classi per la rappresentazione del contorno di una forma che può essere riempita o accarezzata. Un tracciato può anche essere usato come tracciato di ritaglio, per descrivere l'animazione, o posizionare il testo.
+Il **Aspose.Svg.Dom.Svg.Paths** namespace descrive le classi per rappresentazione del contorno di una forma che può essere riempita o accarezzata. Un tracciato può essere utilizzato anche come tracciato di ritaglio, per descrivere l'animazione, o posizionare il testo.
 
 ## Classi
 
 | Classe | Descrizione |
 | --- | --- |
-| [SVGPathSeg](./svgpathseg) | L'interfaccia SVGPathSeg è un'interfaccia di base che corrisponde a un singolo comando all'interno di una specifica di dati di percorso. |
-| [SVGPathSegArcAbs](./svgpathsegarcabs) | L'interfaccia SVGPathSegArcAbs corrisponde a un comando di dati di percorso "absolute arcto" (A). |
-| [SVGPathSegArcRel](./svgpathsegarcrel) | L'interfaccia SVGPathSegArcRel corrisponde a un comando di dati di percorso "arco relativo" (a). |
-| [SVGPathSegClosePath](./svgpathsegclosepath) | l'interfaccia SVGPathSegClosePath corrisponde a un comando di dati del percorso "closepath" (z). |
-| [SVGPathSegCurvetoCubicAbs](./svgpathsegcurvetocubicabs) | L'interfaccia SVGPathSegCurvetoCubicAbs corrisponde a un comando di dati di percorso "absolute cubic Bézier curveto" (C). |
-| [SVGPathSegCurvetoCubicRel](./svgpathsegcurvetocubicrel) | L'interfaccia SVGPathSegCurvetoCubicRel corrisponde a un comando di dati di percorso "relativa curva di Bézier cubica" (c). |
-| [SVGPathSegCurvetoCubicSmoothAbs](./svgpathsegcurvetocubicsmoothabs) | L'interfaccia SVGPathSegCurvetoCubicSmoothAbs corrisponde a un comando di dati di percorso "absolute smooth cubic curveto" (S). |
-| [SVGPathSegCurvetoCubicSmoothRel](./svgpathsegcurvetocubicsmoothrel) | L'interfaccia SVGPathSegCurvetoCubicSmoothRel corrisponde a un comando di dati di percorso "curva cubica liscia relativa" (s). |
-| [SVGPathSegCurvetoQuadraticAbs](./svgpathsegcurvetoquadraticabs) | L'interfaccia SVGPathSegCurvetoQuadraticAbs corrisponde a un comando di dati di percorso "absolute quadratic Bézier curveto" (Q). |
-| [SVGPathSegCurvetoQuadraticRel](./svgpathsegcurvetoquadraticrel) | L'interfaccia SVGPathSegCurvetoQuadraticRel corrisponde a un comando di dati di percorso "relativo quadratico Bézier curveto" (q). |
-| [SVGPathSegCurvetoQuadraticSmoothAbs](./svgpathsegcurvetoquadraticsmoothabs) | L'interfaccia SVGPathSegCurvetoQuadraticSmoothAbs corrisponde a un comando di dati di percorso "absolute smooth cubic curveto" (T). |
-| [SVGPathSegCurvetoQuadraticSmoothRel](./svgpathsegcurvetoquadraticsmoothrel) | L'interfaccia SVGPathSegCurvetoQuadraticSmoothRel corrisponde a un comando di dati di percorso "curva cubica liscia relativa" (t). |
-| [SVGPathSegLinetoAbs](./svgpathseglinetoabs) | L'interfaccia SVGPathSegLinetoAbs corrisponde a un comando di dati percorso "absolute lineto" (L). |
-| [SVGPathSegLinetoHorizontalAbs](./svgpathseglinetohorizontalabs) | L'interfaccia SVGPathSegLinetoHorizontalAbs corrisponde a un comando di dati percorso "linea orizzontale assoluta" (H). |
-| [SVGPathSegLinetoHorizontalRel](./svgpathseglinetohorizontalrel) | L'interfaccia SVGPathSegLinetoHorizontalRel corrisponde a un comando di dati di percorso "relativo da linea orizzontale a" (h). |
-| [SVGPathSegLinetoRel](./svgpathseglinetorel) | L'interfaccia SVGPathSegLinetoRel corrisponde a un comando di dati di percorso "relativo lineto" (l). |
-| [SVGPathSegLinetoVerticalAbs](./svgpathseglinetoverticalabs) | L'interfaccia SVGPathSegLinetoVerticalAbs corrisponde a un comando di dati percorso "linea verticale assoluta" (V). |
-| [SVGPathSegLinetoVerticalRel](./svgpathseglinetoverticalrel) | L'interfaccia SVGPathSegLinetoVerticalRel corrisponde a un comando di dati di percorso "relativo vertical lineto" (v). |
-| [SVGPathSegList](./svgpathseglist) | Questa interfaccia definisce un elenco di oggetti SVGPathSeg. |
-| [SVGPathSegMovetoAbs](./svgpathsegmovetoabs) | L'interfaccia SVGPathSegMovetoAbs corrisponde a un comando di dati percorso "Absolute moveto" (M). |
-| [SVGPathSegMovetoRel](./svgpathsegmovetorel) | L'interfaccia SVGPathSegMovetoRel corrisponde a un comando di dati di percorso "movimento relativo" (m). |
+| [SVGPathSeg](./svgpathseg/) | L'interfaccia SVGPathSeg è un'interfaccia di base che corrisponde a un singolo comando all'interno di una specifica dei dati del percorso. |
+| [SVGPathSegArcAbs](./svgpathsegarcabs/) | L'interfaccia SVGPathSegArcAbs corrisponde a un comando di dati di percorso "absolute arcto" (A). |
+| [SVGPathSegArcRel](./svgpathsegarcrel/) | L'interfaccia SVGPathSegArcRel corrisponde a un comando di dati di percorso "arco relativo" (a). |
+| [SVGPathSegClosePath](./svgpathsegclosepath/) | l'interfaccia SVGPathSegClosePath corrisponde a un comando di dati di percorso "closepath" (z). |
+| [SVGPathSegCurvetoCubicAbs](./svgpathsegcurvetocubicabs/) | L'interfaccia SVGPathSegCurvetoCubicAbs corrisponde a un comando di dati di percorso "absolute cubic Bézier curveto" (C). |
+| [SVGPathSegCurvetoCubicRel](./svgpathsegcurvetocubicrel/) | L'interfaccia SVGPathSegCurvetoCubicRel corrisponde a un comando di dati di percorso "relative cubic Bézier curveto" (c). |
+| [SVGPathSegCurvetoCubicSmoothAbs](./svgpathsegcurvetocubicsmoothabs/) | L'interfaccia SVGPathSegCurvetoCubicSmoothAbs corrisponde a un comando di dati di percorso "absolute smooth cubic curveto" (S). |
+| [SVGPathSegCurvetoCubicSmoothRel](./svgpathsegcurvetocubicsmoothrel/) | L'interfaccia SVGPathSegCurvetoCubicSmoothRel corrisponde a un comando di dati di percorso "curva cubica uniforme relativato" (s). |
+| [SVGPathSegCurvetoQuadraticAbs](./svgpathsegcurvetoquadraticabs/) | L'interfaccia SVGPathSegCurvetoQuadraticAbs corrisponde a un comando di dati di percorso "assoluto quadratico Bézier curveto" (Q). |
+| [SVGPathSegCurvetoQuadraticRel](./svgpathsegcurvetoquadraticrel/) | L'interfaccia SVGPathSegCurvetoQuadraticRel corrisponde a un comando di dati del percorso "Curveto di Bézier quadratico relativo" (q). |
+| [SVGPathSegCurvetoQuadraticSmoothAbs](./svgpathsegcurvetoquadraticsmoothabs/) | L'interfaccia SVGPathSegCurvetoQuadraticSmoothAbs corrisponde a un comando di dati di percorso "absolute smooth cubic curveto" (T). |
+| [SVGPathSegCurvetoQuadraticSmoothRel](./svgpathsegcurvetoquadraticsmoothrel/) | L'interfaccia SVGPathSegCurvetoQuadraticSmoothRel corrisponde a un comando di dati di percorso "curva cubica liscia relativato" (t). |
+| [SVGPathSegLinetoAbs](./svgpathseglinetoabs/) | L'interfaccia SVGPathSegLinetoAbs corrisponde a un comando di dati di percorso "absolute lineto" (L). |
+| [SVGPathSegLinetoHorizontalAbs](./svgpathseglinetohorizontalabs/) | L'interfaccia SVGPathSegLinetoHorizontalAbs corrisponde a un comando di dati di percorso "linea orizzontale assoluta" (H). |
+| [SVGPathSegLinetoHorizontalRel](./svgpathseglinetohorizontalrel/) | L'interfaccia SVGPathSegLinetoHorizontalRel corrisponde a un comando di dati di percorso "riga orizzontale relativa" (h). |
+| [SVGPathSegLinetoRel](./svgpathseglinetorel/) | L'interfaccia SVGPathSegLinetoRel corrisponde a un comando di dati di percorso "lineto relativo" (l). |
+| [SVGPathSegLinetoVerticalAbs](./svgpathseglinetoverticalabs/) | L'interfaccia SVGPathSegLinetoVerticalAbs corrisponde a un comando di dati di percorso "linea verticale assoluta" (V). |
+| [SVGPathSegLinetoVerticalRel](./svgpathseglinetoverticalrel/) | L'interfaccia SVGPathSegLinetoVerticalRel corrisponde a un comando di dati di percorso "riga verticale relativa" (v). |
+| [SVGPathSegList](./svgpathseglist/) | Questa interfaccia definisce un elenco di oggetti SVGPathSeg. |
+| [SVGPathSegMovetoAbs](./svgpathsegmovetoabs/) | L'interfaccia SVGPathSegMovetoAbs corrisponde a un comando di dati di percorso "absolute moveto" (M). |
+| [SVGPathSegMovetoRel](./svgpathsegmovetorel/) | L'interfaccia SVGPathSegMovetoRel corrisponde a un comando di dati di percorso "relative moveto" (m). |
 ## Interfacce
 
 | Interfaccia | Descrizione |
 | --- | --- |
-| [ISVGAnimatedPathData](./isvganimatedpathdata) | l'interfaccia SVGAnimatedPathData supporta elementi che hanno un attributo 'd' che contiene i dati del percorso SVG e supporta la capacità di animare quell'attributo. |
+| [ISVGAnimatedPathData](./isvganimatedpathdata/) | L'interfaccia SVGAnimatedPathData supporta gli elementi che hanno un attributo 'd' che contiene i dati del percorso SVG e supporta la possibilità di animare tale attributo. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

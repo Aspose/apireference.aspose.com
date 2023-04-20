@@ -1,14 +1,14 @@
 ---
-title: AddEventListener
+title: IEventTarget.AddEventListener
 second_title: Aspose.SVG for .NET API Referansı
-description: Bu yöntem olay dinleyicilerinin olay hedefine kaydedilmesine olanak tanır.
+description: IEventTarget yöntem. Bu yöntem olay dinleyicilerinin olay hedefine kaydedilmesine izin verir.
 type: docs
 weight: 10
 url: /tr/net/aspose.svg.dom.events/ieventtarget/addeventlistener/
 ---
 ## AddEventListener(string, IEventListener) {#addeventlistener}
 
-Bu yöntem, olay dinleyicilerinin olay hedefine kaydedilmesine olanak tanır.
+Bu yöntem, olay dinleyicilerinin olay hedefine kaydedilmesine izin verir.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener)
@@ -17,26 +17,26 @@ public void AddEventListener(string type, IEventListener listener)
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | type | String | Kullanıcının kaydolduğu olay türü |
-| listener | IEventListener | Olay gerçekleştiğinde çağrılacak yöntemleri içeren kullanıcı tarafından uygulanan bir arabirimi alır. |
+| listener | IEventListener | Olay gerçekleştiğinde çağrılacak yöntemleri içeren, kullanıcı tarafından uygulanan bir arabirim alır. |
 
 ### Notlar
 
-Eğer bir[`IEventListener`](../../ieventlistener) bir eklenir[`EventTarget`](../../../aspose.svg.dom/eventtarget) bir olayı işlerken, mevcut eylemler tarafından tetiklenmez ancak köpürme aşaması gibi olay akışının sonraki bir aşamasında tetiklenebilir.
+Eğer bir[`IEventListener`](../../ieventlistener/) bir eklenir[`EventTarget`](../../../aspose.svg.dom/eventtarget/) bir olayı işlerken, mevcut eylemler tarafından tetiklenmeyecektir ancak köpürme aşaması gibi olay akışının sonraki bir aşamasında tetiklenebilir.
 
-Birden çok özdeş Olay Dinleyicisi aynı[`EventTarget`](../../../aspose.svg.dom/eventtarget)aynı parametrelerle yinelenen örnekler atılır. [`IEventListener`](../../ieventlistener) iki kez çağrılırlar ve atıldıkları için the ile kaldırılmaları gerekmez.[`RemoveEventListener`](../removeeventlistener) yöntemi.
+Birden fazla aynı Olay Dinleyici aynı üzerinde kayıtlıysa[`EventTarget`](../../../aspose.svg.dom/eventtarget/)aynı parametrelerle yinelenen örnekler atılır. [`IEventListener`](../../ieventlistener/) iki kez çağrılacak ve atıldıkları için the ile çıkarılmalarına gerek yok[`RemoveEventListener`](../removeeventlistener/) yöntemi.
 
 ### Ayrıca bakınız
 
-* interface [IEventListener](../../ieventlistener)
-* interface [IEventTarget](../../ieventtarget)
-* ad alanı [Aspose.Svg.Dom.Events](../../ieventtarget)
+* interface [IEventListener](../../ieventlistener/)
+* interface [IEventTarget](../)
+* ad alanı [Aspose.Svg.Dom.Events](../../ieventtarget/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## AddEventListener(string, IEventListener, bool) {#addeventlistener_1}
 
-Bu yöntem, olay dinleyicilerinin olay hedefine kaydedilmesine olanak tanır.
+Bu yöntem, olay dinleyicilerinin olay hedefine kaydedilmesine izin verir.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener, bool useCapture)
@@ -45,20 +45,20 @@ public void AddEventListener(string type, IEventListener listener, bool useCaptu
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | type | String | Kullanıcının kaydolduğu olay türü |
-| listener | IEventListener | Olay gerçekleştiğinde çağrılacak yöntemleri içeren kullanıcı tarafından uygulanan bir arabirimi alır. |
-| useCapture | Boolean | Doğruysa useCapture, kullanıcının yakalamayı başlatmak istediğini belirtir. Yakalamayı başlattıktan sonra, belirtilen türdeki tüm olaylar kayıtlı öğesine gönderilir.[`IEventListener`](../../ieventlistener) ağaçta altlarında bulunan herhangi bir Olay Hedefine gönderilmeden önce. Ağaçta yukarı doğru köpüren olaylar, bir[`IEventListener`](../../ieventlistener) yakalamayı kullanmak için tasarlanmıştır. |
+| listener | IEventListener | Olay gerçekleştiğinde çağrılacak yöntemleri içeren, kullanıcı tarafından uygulanan bir arabirim alır. |
+| useCapture | Boolean | true ise, useCapture, kullanıcının yakalamayı başlatmak istediğini belirtir. Yakalamayı başlattıktan sonra, belirtilen türdeki tüm olaylar kayıtlı öğesine gönderilir.[`IEventListener`](../../ieventlistener/) Ağaçta altlarındaki herhangi bir Etkinlik Hedefine gönderilmeden önce . Ağaçta yukarı doğru fışkıran olaylar bir[`IEventListener`](../../ieventlistener/) yakalamayı kullanmak üzere belirlenmiştir. |
 
 ### Notlar
 
-Eğer bir[`IEventListener`](../../ieventlistener) bir eklenir[`EventTarget`](../../../aspose.svg.dom/eventtarget) bir olayı işlerken, mevcut eylemler tarafından tetiklenmez ancak köpürme aşaması gibi olay akışının sonraki bir aşamasında tetiklenebilir.
+Eğer bir[`IEventListener`](../../ieventlistener/) bir eklenir[`EventTarget`](../../../aspose.svg.dom/eventtarget/) bir olayı işlerken, mevcut eylemler tarafından tetiklenmeyecektir ancak köpürme aşaması gibi olay akışının sonraki bir aşamasında tetiklenebilir.
 
-Birden çok özdeş Olay Dinleyicisi aynı[`EventTarget`](../../../aspose.svg.dom/eventtarget)aynı parametrelerle yinelenen örnekler atılır. [`IEventListener`](../../ieventlistener) iki kez çağrılırlar ve atıldıkları için the ile kaldırılmaları gerekmez.[`RemoveEventListener`](../removeeventlistener) yöntemi.
+Birden fazla aynı Olay Dinleyici aynı üzerinde kayıtlıysa[`EventTarget`](../../../aspose.svg.dom/eventtarget/)aynı parametrelerle yinelenen örnekler atılır. [`IEventListener`](../../ieventlistener/) iki kez çağrılacak ve atıldıkları için the ile çıkarılmalarına gerek yok[`RemoveEventListener`](../removeeventlistener/) yöntemi.
 
 ### Ayrıca bakınız
 
-* interface [IEventListener](../../ieventlistener)
-* interface [IEventTarget](../../ieventtarget)
-* ad alanı [Aspose.Svg.Dom.Events](../../ieventtarget)
+* interface [IEventListener](../../ieventlistener/)
+* interface [IEventTarget](../)
+* ad alanı [Aspose.Svg.Dom.Events](../../ieventtarget/)
 * toplantı [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

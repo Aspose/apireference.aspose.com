@@ -1,14 +1,14 @@
 ---
-title: Render
+title: Renderer1.Render
 second_title: Справочник по Aspose.SVG для .NET API
-description: Определяет метод рендерингаTDocumentв указанныеIDeviceaspose.svg.rendering/idevice .
+description: Renderer метод. Определяет метод рендерингаTDocument в указанныеIDevice .
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering/renderer-1/render/
 ---
-## Render(IDevice, TDocument) {#render_2}
+## Render(IDevice, TDocument) {#render_3}
 
-Определяет метод рендеринга!:TDocumentв указанные[`IDevice`](../../idevice) .
+Определяет метод рендеринга!:TDocument в указанные[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document)
@@ -21,16 +21,16 @@ public void Render(IDevice device, TDocument document)
 
 ### Смотрите также
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, TimeSpan) {#render_4}
+## Render(IDevice, TDocument, TimeSpan) {#render_5}
 
-Определяет метод рендеринга!:TDocumentв указанные[`IDevice`](../../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания.
+Определяет метод рендеринга!:TDocument в указанные[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
@@ -44,16 +44,16 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ### Смотрите также
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TDocument, int) {#render_3}
+## Render(IDevice, TDocument, int) {#render_4}
 
-Определяет метод рендеринга!:TDocumentв указанные[`IDevice`](../../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания.
+Определяет метод рендеринга!:TDocument в указанные[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
@@ -67,16 +67,16 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ### Смотрите также
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, params TDocument[]) {#render_5}
+## Render(IDevice, params TDocument[]) {#render_6}
 
-Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice) .
+Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -89,16 +89,16 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ### Смотрите также
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## Render(IDevice, int, params TDocument[]) {#render}
 
-Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания.
+Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -112,16 +112,16 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ### Смотрите также
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
-## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
+## Render(IDevice, TimeSpan, params TDocument[]) {#render_2}
 
-Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice) . Рендеринг будет выполнен после того, как не будет никаких сетевых операций для загрузки ресурсов, активных таймеров, задач анимации или истечет указанное время ожидания.
+Определяет метод для рендеринга нескольких!:TDocument в конкретные[`IDevice`](../../idevice/) .
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
@@ -135,9 +135,33 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 
 ### Смотрите также
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* пространство имен [Aspose.Svg.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
 * сборка [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+---
+
+## Render(IDevice, CancellationToken, params TDocument[]) {#render_1}
+
+Определяет метод рендеринга нескольких!:TDocument в конкретный[`IDevice`](../../idevice/) , используя токен отмены для запроса отмены операции.
+
+```csharp
+public abstract void Render(IDevice device, CancellationToken cancellationToken, 
+    params TDocument[] documents)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| device | IDevice | Выходное устройство. |
+| cancellationToken | CancellationToken | АCancellationToken наблюдать, ожидая завершения задачи. |
+| documents | TDocument[] | Документы для оформления. |
+
+### Смотрите также
+
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* пространство имен [Aspose.Svg.Rendering](../../renderer-1/)
+* сборка [Aspose.SVG](../../../)
+
+

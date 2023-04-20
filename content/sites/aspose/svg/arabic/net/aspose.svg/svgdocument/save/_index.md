@@ -1,7 +1,7 @@
 ---
-title: Save
+title: SVGDocument.Save
 second_title: Aspose.SVG لمرجع .NET API
-description: يحفظ المستند في الملف المحلي المحدد بواسطةعنوان url . سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور  والذي سيتم إنشاء اسمه على النحو التالي output_file_name  _files .
+description: SVGDocument طريقة. يحفظ المستند في الملف المحلي المحدد بواسطةعنوان url . سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور  والذي سيتم إنشاء اسمه على النحو التالي output_file_name  _files .
 type: docs
 weight: 90
 url: /ar/net/aspose.svg/svgdocument/save/
@@ -26,9 +26,9 @@ public void Save(Url url)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
@@ -53,8 +53,8 @@ public void Save(string path)
 
 ### أنظر أيضا
 
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
@@ -69,13 +69,13 @@ public void Save(IOutputStorage outputStorage)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage). |
+| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
 
 ### أنظر أيضا
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
@@ -101,9 +101,9 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 ### أنظر أيضا
 
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
@@ -118,15 +118,15 @@ public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage). |
+| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
 | saveFormat | SVGSaveFormat | التنسيق الذي يتم حفظ المستند به. |
 
 ### أنظر أيضا
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage)
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
@@ -152,9 +152,9 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 ### أنظر أيضا
 
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
@@ -169,15 +169,15 @@ public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage). |
+| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.svg.io/ioutputstorage/). |
 | saveOptions | SVGSaveOptions | خيارات حفظ SVG. |
 
 ### أنظر أيضا
 
-* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage)
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.svg.io/ioutputstorage/)
+* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
@@ -203,10 +203,10 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* enum [SVGSaveFormat](../../../aspose.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
@@ -232,10 +232,10 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGSaveOptions](../../../aspose.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

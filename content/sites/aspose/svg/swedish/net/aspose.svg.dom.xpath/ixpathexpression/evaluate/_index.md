@@ -1,7 +1,7 @@
 ---
-title: Evaluate
+title: IXPathExpression.Evaluate
 second_title: Aspose.SVG för .NET API Referens
-description: Utvärderar detta XPathuttryck och returnerar ett resultat.
+description: IXPathExpression metod. Utvärderar detta XPathuttryck och returnerar ett resultat.
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.xpath/ixpathexpression/evaluate/
@@ -16,29 +16,29 @@ public IXPathResult Evaluate(Node contextNode, XPathResultType type, object resu
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| contextNode | Node | De`sammanhang` är kontextnod för utvärderingen av detta XPath-uttryck. Om[`IXPathEvaluator`](../../ixpathevaluator) erhölls genom gjutning av[`Document`](../../../aspose.svg.dom/document) då måste detta ägas av samma dokument och måste vara en[`Document`](../../../aspose.svg.dom/document) ,[`Element`](../../../aspose.svg.dom/element) ,[`Attr`](../../../aspose.svg.dom/attr) , [`Text`](../../../aspose.svg.dom/text) ,[`CDATASection`](../../../aspose.svg.dom/cdatasection) ,[`Comment`](../../../aspose.svg.dom/comment) ,[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction) , ellerXPathNamespace nod. Om kontextnoden är en[`Text`](../../../aspose.svg.dom/text) eller a[`CDATASection`](../../../aspose.svg.dom/cdatasection), då tolkas kontexten som hela den logiska textnoden som den ses av XPath, om inte noden är tom i vilket fall den kanske inte fungerar som XPath-kontext. |
-| type | XPathResultType | Om en specifik`typ` anges, kommer resultatet att tvingas att returnera den specificerade typen som förlitar sig på XPath-konverteringar och misslyckas om det önskade tvånget inte är möjligt. Detta måste vara ett av värdena för[`XPathResultType`](../../xpathresulttype). |
-| result | Object | De`resultat` anger ett specifikt resultatobjekt som kan återanvändas och returneras med den här metoden. Om detta anges som`null`eller att implementeringen inte återanvänder det angivna -resultatet, kommer ett nytt resultatobjekt att konstrueras och returneras. För XPath 1.0-resultat kommer detta objekt att vara av typen[`IXPathResult`](../../ixpathresult). |
+| contextNode | Node | De`sammanhang` är kontextnod för utvärderingen av detta XPath-uttryck. Om[`IXPathEvaluator`](../../ixpathevaluator/) erhölls genom gjutning av[`Document`](../../../aspose.svg.dom/document/) då måste detta ägas av samma dokument och måste vara en[`Document`](../../../aspose.svg.dom/document/) ,[`Element`](../../../aspose.svg.dom/element/) ,[`Attr`](../../../aspose.svg.dom/attr/) , [`Text`](../../../aspose.svg.dom/text/) ,[`CDATASection`](../../../aspose.svg.dom/cdatasection/) ,[`Comment`](../../../aspose.svg.dom/comment/) ,[`ProcessingInstruction`](../../../aspose.svg.dom/processinginstruction/) , ellerXPathNamespace nod. Om kontextnoden är en[`Text`](../../../aspose.svg.dom/text/) eller a[`CDATASection`](../../../aspose.svg.dom/cdatasection/), då tolkas kontexten som hela den logiska textnoden som den ses av XPath, om inte noden är tom i vilket fall den kanske inte fungerar som XPath-kontext. |
+| type | XPathResultType | Om en specifik`typ` anges, kommer resultatet att tvingas att returnera den specificerade typen som förlitar sig på XPath-konverteringar och misslyckas om det önskade tvånget inte är möjligt. Detta måste vara ett av värdena för[`XPathResultType`](../../xpathresulttype/). |
+| result | Object | De`resultat` anger ett specifikt resultatobjekt som kan återanvändas och returneras med den här metoden. Om detta anges som`null`eller att implementeringen inte återanvänder det angivna -resultatet, kommer ett nytt resultatobjekt att konstrueras och returneras. För XPath 1.0-resultat kommer detta objekt att vara av typen[`IXPathResult`](../../ixpathresult/). |
 
 ### Returvärde
 
-Resultatet av utvärderingen av XPath-uttrycket. För XPath 1.0-resultat kommer detta objekt att vara av typen[`IXPathResult`](../../ixpathresult).
+Resultatet av utvärderingen av XPath-uttrycket. För XPath 1.0-resultat kommer detta objekt att vara av typen[`IXPathResult`](../../ixpathresult/).
 
 ### Undantag
 
 | undantag | skick |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | TYPE_ERR: Ökas om resultatet inte kan konverteras för att returnera den angivna typen. |
-| [DOMException](../../../aspose.svg.dom/domexception) | WRONG_DOCUMENT_ERR: Noden är från ett dokument som inte stöds av [`IXPathEvaluator`](../../ixpathevaluator) som skapade detta[`IXPathExpression`](../../ixpathexpression). |
-| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR: Noden är inte en typ som är tillåten som en XPath-kontextnod eller så är begäranstypen inte tillåten av detta[`IXPathExpression`](../../ixpathexpression). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | TYPE_ERR: Ökas om resultatet inte kan konverteras för att returnera den angivna typen. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | WRONG_DOCUMENT_ERR: Noden är från ett dokument som inte stöds av [`IXPathEvaluator`](../../ixpathevaluator/) som skapade detta[`IXPathExpression`](../). |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: Noden är inte en typ som är tillåten som en XPath-kontextnod eller så är begäranstypen inte tillåten av detta[`IXPathExpression`](../). |
 
 ### Se även
 
-* interface [IXPathResult](../../ixpathresult)
-* class [Node](../../../aspose.svg.dom/node)
-* enum [XPathResultType](../../xpathresulttype)
-* interface [IXPathExpression](../../ixpathexpression)
-* namnutrymme [Aspose.Svg.Dom.XPath](../../ixpathexpression)
+* interface [IXPathResult](../../ixpathresult/)
+* class [Node](../../../aspose.svg.dom/node/)
+* enum [XPathResultType](../../xpathresulttype/)
+* interface [IXPathExpression](../)
+* namnutrymme [Aspose.Svg.Dom.XPath](../../ixpathexpression/)
 * hopsättning [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

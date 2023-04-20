@@ -1,14 +1,14 @@
 ---
-title: RemoveEventListener
+title: EventTarget.RemoveEventListener
 second_title: Aspose.SVG for .NET API Referansı
-description: Bu yöntem olay dinleyicilerinin olay hedefinden kaldırılmasına izin verir. IEventListeneraspose.svg.dom.events/ieventlistener birinden kaldırılırEventTargetaspose.svg.dom/eventtarget bir olayı işlerken mevcut eylemler tarafından tetiklenmeyecektir. Olay Dinleyicileri kaldırıldıktan sonra asla çağrılamaz.
+description: EventTarget yöntem. Bu yöntem olay dinleyicilerinin olay hedefinden kaldırılmasına izin verir. Eğer birIEventListener bir yerden kaldırılırEventTarget bir olayı işlerken mevcut eylemler tarafından tetiklenmeyecektir. Olay Dinleyiciler kaldırıldıktan sonra asla çağrılamaz.
 type: docs
 weight: 40
 url: /tr/net/aspose.svg.dom/eventtarget/removeeventlistener/
 ---
 ## RemoveEventListener(string, DOMEventHandler, bool) {#removeeventlistener}
 
-Bu yöntem, olay dinleyicilerinin olay hedefinden kaldırılmasına izin verir. [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) birinden kaldırılır[`EventTarget`](../../eventtarget) bir olayı işlerken, mevcut eylemler tarafından tetiklenmeyecektir. Olay Dinleyicileri, kaldırıldıktan sonra asla çağrılamaz.
+Bu yöntem, olay dinleyicilerinin olay hedefinden kaldırılmasına izin verir. Eğer bir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) bir yerden kaldırılır[`EventTarget`](../) bir olayı işlerken, mevcut eylemler tarafından tetiklenmeyecektir. Olay Dinleyiciler, kaldırıldıktan sonra asla çağrılamaz.
 
 ```csharp
 public void RemoveEventListener(string type, DOMEventHandler handler, bool useCapture)
@@ -16,22 +16,22 @@ public void RemoveEventListener(string type, DOMEventHandler handler, bool useCa
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| type | String | olay türünü belirtir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) kaldırılıyor. |
-| handler | DOMEventHandler | bu[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler) parametre gösterir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) kaldırılacak. |
-| useCapture | Boolean | Kaldırılmakta olan EventListener'ın bir yakalama dinleyicisi olarak kaydedilip kaydedilmediğini belirtir. Bir dinleyici, biri yakalamalı ve diğeri yakalamasız olmak üzere iki kez kaydedildiyse, her birinin ayrı ayrı kaldırılması gerekir. Yakalayan bir dinleyicinin kaldırılması, yakalamayan bir sürümü etkilemez aynı dinleyicinin ve tam tersi. |
+| type | String | olay tipini belirtir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) kaldırılıyor. |
+| handler | DOMEventHandler | bu[`DOMEventHandler`](../../../aspose.svg.dom.events/domeventhandler/) parametre şunu gösterir:[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) kaldırılacak. |
+| useCapture | Boolean | Kaldırılan EventListener'ın yakalama dinleyicisi olarak kaydedilip kaydedilmediğini belirtir. Bir dinleyici, biri yakalamalı ve diğeri yakalamasız olmak üzere iki kez kaydedildiyse, her biri ayrı ayrı kaldırılmalıdır. Yakalayan bir dinleyicinin kaldırılması, yakalamayan bir sürümü etkilemez aynı dinleyicinin ve tersi. |
 
 ### Ayrıca bakınız
 
-* delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler)
-* class [EventTarget](../../eventtarget)
-* ad alanı [Aspose.Svg.Dom](../../eventtarget)
+* delegate [DOMEventHandler](../../../aspose.svg.dom.events/domeventhandler/)
+* class [EventTarget](../)
+* ad alanı [Aspose.Svg.Dom](../../eventtarget/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## RemoveEventListener(string, IEventListener) {#removeeventlistener_1}
 
-Bu yöntem, olay dinleyicilerinin olay hedefinden kaldırılmasına izin verir. [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) birinden kaldırılır[`EventTarget`](../../eventtarget) bir olayı işlerken, mevcut eylemler tarafından tetiklenmeyecektir. Olay Dinleyicileri, kaldırıldıktan sonra asla çağrılamaz.
+Bu yöntem, olay dinleyicilerinin olay hedefinden kaldırılmasına izin verir. Eğer bir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) bir yerden kaldırılır[`EventTarget`](../) bir olayı işlerken, mevcut eylemler tarafından tetiklenmeyecektir. Olay Dinleyiciler, kaldırıldıktan sonra asla çağrılamaz.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener)
@@ -39,21 +39,21 @@ public void RemoveEventListener(string type, IEventListener listener)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| type | String | olay türünü belirtir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) kaldırılıyor. |
-| listener | IEventListener | bu[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) parametre gösterir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) kaldırılacak. |
+| type | String | olay tipini belirtir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) kaldırılıyor. |
+| listener | IEventListener | bu[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) parametre şunu gösterir:[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) kaldırılacak. |
 
 ### Ayrıca bakınız
 
-* interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener)
-* class [EventTarget](../../eventtarget)
-* ad alanı [Aspose.Svg.Dom](../../eventtarget)
+* interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
+* class [EventTarget](../)
+* ad alanı [Aspose.Svg.Dom](../../eventtarget/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## RemoveEventListener(string, IEventListener, bool) {#removeeventlistener_2}
 
-Bu yöntem, olay dinleyicilerinin olay hedefinden kaldırılmasına izin verir. [`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) birinden kaldırılır[`EventTarget`](../../eventtarget) bir olayı işlerken, mevcut eylemler tarafından tetiklenmeyecektir. Olay Dinleyicileri, kaldırıldıktan sonra asla çağrılamaz.
+Bu yöntem, olay dinleyicilerinin olay hedefinden kaldırılmasına izin verir. Eğer bir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) bir yerden kaldırılır[`EventTarget`](../) bir olayı işlerken, mevcut eylemler tarafından tetiklenmeyecektir. Olay Dinleyiciler, kaldırıldıktan sonra asla çağrılamaz.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener, bool useCapture)
@@ -61,15 +61,15 @@ public void RemoveEventListener(string type, IEventListener listener, bool useCa
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| type | String | olay türünü belirtir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) kaldırılıyor. |
-| listener | IEventListener | bu[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) parametre gösterir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener) kaldırılacak. |
-| useCapture | Boolean | Kaldırılmakta olan EventListener'ın bir yakalama dinleyicisi olarak kaydedilip kaydedilmediğini belirtir. Bir dinleyici, biri yakalamalı ve diğeri yakalamasız olmak üzere iki kez kaydedildiyse, her birinin ayrı ayrı kaldırılması gerekir. Yakalayan bir dinleyicinin kaldırılması, yakalamayan bir sürümü etkilemez aynı dinleyicinin ve tam tersi. |
+| type | String | olay tipini belirtir[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) kaldırılıyor. |
+| listener | IEventListener | bu[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) parametre şunu gösterir:[`IEventListener`](../../../aspose.svg.dom.events/ieventlistener/) kaldırılacak. |
+| useCapture | Boolean | Kaldırılan EventListener'ın yakalama dinleyicisi olarak kaydedilip kaydedilmediğini belirtir. Bir dinleyici, biri yakalamalı ve diğeri yakalamasız olmak üzere iki kez kaydedildiyse, her biri ayrı ayrı kaldırılmalıdır. Yakalayan bir dinleyicinin kaldırılması, yakalamayan bir sürümü etkilemez aynı dinleyicinin ve tersi. |
 
 ### Ayrıca bakınız
 
-* interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener)
-* class [EventTarget](../../eventtarget)
-* ad alanı [Aspose.Svg.Dom](../../eventtarget)
+* interface [IEventListener](../../../aspose.svg.dom.events/ieventlistener/)
+* class [EventTarget](../)
+* ad alanı [Aspose.Svg.Dom](../../eventtarget/)
 * toplantı [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: PdfDevice
+title: PdfDevice.PdfDevice
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземплярPdfDeviceaspose.svg.rendering.pdf/pdfdevice класс.
+description: PdfDevice строитель. Инициализирует новый экземплярPdfDevice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.pdf/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(ICreateStreamProvider) {#constructor}
 
-Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс.
+Инициализирует новый экземпляр[`PdfDevice`](../) класс.
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 ### Смотрите также
 
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс по параметрам рендеринга и потоковому провайдеру.
+Инициализирует новый экземпляр[`PdfDevice`](../) класс по параметрам рендеринга и потоковому провайдеру.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | options | PdfRenderingOptions | Варианты рендеринга. |
-| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) интерфейс |
+| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) интерфейс |
 
 ### Смотрите также
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(string) {#constructor_5}
 
-Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс.
+Инициализирует новый экземпляр[`PdfDevice`](../) класс.
 
 ```csharp
 public PdfDevice(string file)
@@ -64,15 +64,15 @@ public PdfDevice(string file)
 
 ### Смотрите также
 
-* class [PdfDevice](../../pdfdevice)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
 
-Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс по параметрам рендеринга и имени выходного файла.
+Инициализирует новый экземпляр[`PdfDevice`](../) класс по параметрам рендеринга и имени выходного файла.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 ### Смотрите также
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(Stream) {#constructor_4}
 
-Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс.
+Инициализирует новый экземпляр[`PdfDevice`](../) класс.
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -106,15 +106,15 @@ public PdfDevice(Stream stream)
 
 ### Смотрите также
 
-* class [PdfDevice](../../pdfdevice)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
 
-Инициализирует новый экземпляр[`PdfDevice`](../../pdfdevice) класс по параметрам рендеринга и выходному потоку.
+Инициализирует новый экземпляр[`PdfDevice`](../) класс по параметрам рендеринга и выходному потоку.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 ### Смотрите также
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Pdf](../../pdfdevice/)
 * сборка [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

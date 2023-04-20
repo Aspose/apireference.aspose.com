@@ -1,14 +1,14 @@
 ---
-title: ErrorEvent
+title: Class ErrorEvent
 second_title: Aspose.SVG لمرجع .NET API
-description: ملفErrorEvent./errorevent يوفر معلومات سياقية حول الأخطاء التي حدثت أثناء وقت التشغيل.
+description: Aspose.Svg.Dom.Events.ErrorEvent فصل. ملفErrorEvent يوفر معلومات سياقية حول الأخطاء التي حدثت أثناء وقت التشغيل.
 type: docs
 weight: 910
 url: /ar/net/aspose.svg.dom.events/errorevent/
 ---
 ## ErrorEvent class
 
-ملف[`ErrorEvent`](../errorevent) يوفر معلومات سياقية حول الأخطاء التي حدثت أثناء وقت التشغيل.
+ملف`ErrorEvent` يوفر معلومات سياقية حول الأخطاء التي حدثت أثناء وقت التشغيل.
 
 ```csharp
 public class ErrorEvent : Event
@@ -18,42 +18,42 @@ public class ErrorEvent : Event
 
 | اسم | وصف |
 | --- | --- |
-| [ErrorEvent](errorevent#constructor_1)(Exception) | يقوم بتهيئة مثيل جديد لملف[`ErrorEvent`](../errorevent) فئة . |
-| [ErrorEvent](errorevent#constructor)(IDictionary&lt;string, object&gt;) | يقوم بتهيئة مثيل جديد لملف[`ErrorEvent`](../errorevent) فئة . |
+| [ErrorEvent](errorevent/#constructor_1)(Exception) | يقوم بتهيئة مثيل جديد لملف`ErrorEvent` فئة . |
+| [ErrorEvent](errorevent/#constructor)(IDictionary&lt;string, object&gt;) | يقوم بتهيئة مثيل جديد لملف`ErrorEvent` فئة . |
 
 ## الخصائص
 
 | اسم | وصف |
 | --- | --- |
-| [Bubbles](../../aspose.svg.dom.events/event/bubbles) { get; } | يُستخدم للإشارة إلى ما إذا كان الحدث عبارة عن حدث فقاعات أم لا. إذا كان الحدث يمكن أن ينفجر ، تكون القيمة صحيحة ، وإلا تكون القيمة خاطئة. |
-| [Cancelable](../../aspose.svg.dom.events/event/cancelable) { get; } | يُستخدم للإشارة إلى ما إذا كان يمكن منع إجراء افتراضي لحدث أم لا. إذا كان من الممكن منع الإجراء الافتراضي ، كانت القيمة صحيحة ، وإلا تكون القيمة خاطئة. |
-| [ColNo](../../aspose.svg.dom.events/errorevent/colno) { get; } | يجب أن ترجع سمة colno القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى الصفر. يمثل رقم العمود حيث حدث الخطأ في البرنامج النصي. |
-| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget) { get; } | يُستخدم للإشارة إلى ملف[`IEventTarget`](../ieventtarget) ملك من[`IEventListener`](../ieventlistener) يتم حاليًا معالجة الصورة . هذا مفيد بشكل خاص أثناء الالتقاط والفقاعات. |
-| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented) { get; } | إرجاع صحيح إذا تم استدعاء PreventionDefault () بينما تكون قيمة السمة القابلة للإلغاء صحيحة ، والخطأ في الحالات الأخرى. |
-| [Error](../../aspose.svg.dom.events/errorevent/error) { get; } | يجب أن ترجع سمة الخطأ القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة لتصبح خالية. حيثما كان ذلك مناسبًا ، يتم تعيينه على الكائن الذي يمثل الخطأ (على سبيل المثال ، كائن الاستثناء في حالة استثناء DOM غير معلوم) . |
-| [EventPhase](../../aspose.svg.dom.events/event/eventphase) { get; } | يُستخدم للإشارة إلى أي مرحلة من مراحل تدفق الأحداث يتم تقييمها حاليًا. |
-| [FileName](../../aspose.svg.dom.events/errorevent/filename) { get; } | يجب أن ترجع سمة اسم الملف القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى سلسلة فارغة. إنه يمثل عنوان URL المطلق للبرنامج النصي الذي حدث فيه الخطأ في الأصل. |
-| [IsTrusted](../../aspose.svg.dom.events/event/istrusted) { get; } | يجب أن ترجع السمة isTrusted القيمة التي تمت تهيئتها إليها. عند إنشاء حدث ، يجب تهيئة السمة إلى false . |
-| [LineNo](../../aspose.svg.dom.events/errorevent/lineno) { get; } | يجب أن ترجع سمة lineno القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى الصفر. يمثل رقم السطر حيث حدث الخطأ في البرنامج النصي. |
-| [Message](../../aspose.svg.dom.events/errorevent/message) { get; } | يجب أن ترجع سمة الرسالة القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى سلسلة فارغة. يمثل رسالة الخطأ. |
-| [Target](../../aspose.svg.dom.events/event/target) { get; } | يُستخدم للإشارة إلى ملف[`IEventTarget`](../ieventtarget) الذي تم إرسال الحدث إليه في الأصل. |
-| [TimeStamp](../../aspose.svg.dom.events/event/timestamp) { get; } | يُستخدم لتحديد الوقت (بالملي ثانية بالنسبة للعصر) الذي تم فيه إنشاء الحدث . نظرًا لأن بعض الأنظمة قد لا توفر هذه المعلومات ، فقد لا يكون الطابع الزمني متاحًا لجميع الأحداث. ، سيتم إرجاع القيمة 0. أمثلة على وقت الحقبة هي وقت بدء النظام أو 0: 0: 0 UTC 1 يناير 1970. |
-| [Type](../../aspose.svg.dom.events/event/type) { get; } | اسم الحدث (غير حساس لحالة الأحرف). يجب أن يكون الاسم اسم XML . |
+| [Bubbles](../../aspose.svg.dom.events/event/bubbles/) { get; } | يُستخدم للإشارة إلى ما إذا كان الحدث عبارة عن حدث فقاعات أم لا. إذا كان الحدث يمكن أن ينفجر ، تكون القيمة صحيحة ، وإلا تكون القيمة خاطئة. |
+| [Cancelable](../../aspose.svg.dom.events/event/cancelable/) { get; } | يُستخدم للإشارة إلى ما إذا كان يمكن منع إجراء افتراضي لحدث أم لا. إذا كان من الممكن منع الإجراء الافتراضي ، كانت القيمة صحيحة ، وإلا تكون القيمة خاطئة. |
+| [ColNo](../../aspose.svg.dom.events/errorevent/colno/) { get; } | يجب أن ترجع سمة colno القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى الصفر. يمثل رقم العمود حيث حدث الخطأ في البرنامج النصي. |
+| [CurrentTarget](../../aspose.svg.dom.events/event/currenttarget/) { get; } | يُستخدم للإشارة إلى ملف[`IEventTarget`](../ieventtarget/) لمن[`IEventListener`](../ieventlistener/) يتم حاليًا معالجة الصورة . هذا مفيد بشكل خاص أثناء الالتقاط والفقاعات. |
+| [DefaultPrevented](../../aspose.svg.dom.events/event/defaultprevented/) { get; } | إرجاع صحيح إذا تم استدعاء PreventionDefault () بينما تكون قيمة السمة القابلة للإلغاء صحيحة ، والخطأ في الحالات الأخرى. |
+| [Error](../../aspose.svg.dom.events/errorevent/error/) { get; } | يجب أن ترجع سمة الخطأ القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة لتصبح خالية. حيثما كان ذلك مناسبًا ، يتم تعيينه على الكائن الذي يمثل الخطأ (على سبيل المثال ، كائن الاستثناء في حالة استثناء DOM غير معلوم) . |
+| [EventPhase](../../aspose.svg.dom.events/event/eventphase/) { get; } | يُستخدم للإشارة إلى أي مرحلة من مراحل تدفق الأحداث يتم تقييمها حاليًا. |
+| [FileName](../../aspose.svg.dom.events/errorevent/filename/) { get; } | يجب أن ترجع سمة اسم الملف القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى سلسلة فارغة. إنه يمثل عنوان URL المطلق للبرنامج النصي الذي حدث فيه الخطأ في الأصل. |
+| [IsTrusted](../../aspose.svg.dom.events/event/istrusted/) { get; } | يجب أن ترجع السمة isTrusted القيمة التي تمت تهيئتها إليها. عند إنشاء حدث ، يجب تهيئة السمة إلى false . |
+| [LineNo](../../aspose.svg.dom.events/errorevent/lineno/) { get; } | يجب أن ترجع سمة lineno القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى الصفر. يمثل رقم السطر حيث حدث الخطأ في البرنامج النصي. |
+| [Message](../../aspose.svg.dom.events/errorevent/message/) { get; } | يجب أن ترجع سمة الرسالة القيمة التي تمت تهيئتها إليها. عند إنشاء الكائن ، يجب تهيئة هذه السمة إلى سلسلة فارغة. يمثل رسالة الخطأ. |
+| [Target](../../aspose.svg.dom.events/event/target/) { get; } | يُستخدم للإشارة إلى ملف[`IEventTarget`](../ieventtarget/) الذي تم إرسال الحدث إليه في الأصل. |
+| [TimeStamp](../../aspose.svg.dom.events/event/timestamp/) { get; } | يُستخدم لتحديد الوقت (بالملي ثانية بالنسبة للعصر) الذي تم فيه إنشاء الحدث . نظرًا لأن بعض الأنظمة قد لا توفر هذه المعلومات ، فقد لا يكون الطابع الزمني متاحًا لجميع الأحداث. ، سيتم إرجاع القيمة 0. أمثلة على وقت الحقبة هي وقت بدء النظام أو 0: 0: 0 UTC 1 يناير 1970. |
+| [Type](../../aspose.svg.dom.events/event/type/) { get; } | اسم الحدث (غير حساس لحالة الأحرف). يجب أن يكون الاسم اسم XML . |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [InitEvent](../../aspose.svg.dom.events/event/initevent)(string, bool, bool) | ملف[`InitEvent`](../event/initevent) يتم استخدام طريقة لتهيئة قيمة[`Event`](../event) تم إنشاؤه من خلال [`IDocumentEvent`](../idocumentevent) الواجهة . |
-| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault)() | إذا كان الحدث قابلاً للإلغاء ، فإن ملف[`PreventDefault`](../event/preventdefault) يتم استخدام الطريقة للدلالة على أن الحدث سيتم إلغاؤه ، مما يعني أن أي إجراء افتراضي يتم اتخاذه عادةً بواسطة التنفيذ نتيجة للحدث لن يحدث. |
-| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation)() | استدعاء هذه الطريقة يمنع الحدث من الوصول إلى أي مستمعين للأحداث مسجل بعد الحدث الحالي وعندما يتم إرساله في شجرة يمنع أيضًا الحدث من الوصول إلى أي كائنات أخرى. |
-| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation)() | ملف[`StopPropagation`](../event/stoppropagation) الطريقة المستخدمة لمنع المزيد من الانتشار لحدث ما أثناء تدفق الحدث. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| [InitEvent](../../aspose.svg.dom.events/event/initevent/)(string, bool, bool) | ملف[`InitEvent`](../event/initevent/) يتم استخدام طريقة لتهيئة قيمة[`Event`](../event/) تم إنشاؤه من خلال [`IDocumentEvent`](../idocumentevent/) الواجهة . |
+| [PreventDefault](../../aspose.svg.dom.events/event/preventdefault/)() | إذا كان الحدث قابلاً للإلغاء ، فإن ملف[`PreventDefault`](../event/preventdefault/) يتم استخدام الطريقة للدلالة على أن الحدث سيتم إلغاؤه ، مما يعني أن أي إجراء افتراضي يتم اتخاذه عادةً بواسطة التنفيذ نتيجة للحدث لن يحدث. |
+| [StopImmediatePropagation](../../aspose.svg.dom.events/event/stopimmediatepropagation/)() | استدعاء هذه الطريقة يمنع الحدث من الوصول إلى أي مستمعين للأحداث مسجل بعد الحدث الحالي وعندما يتم إرساله في شجرة يمنع أيضًا الحدث من الوصول إلى أي كائنات أخرى. |
+| [StopPropagation](../../aspose.svg.dom.events/event/stoppropagation/)() | ملف[`StopPropagation`](../event/stoppropagation/) الطريقة المستخدمة لمنع المزيد من الانتشار لحدث ما أثناء تدفق الحدث. |
 
 ### أنظر أيضا
 
-* class [Event](../event)
-* مساحة الاسم [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events)
+* class [Event](../event/)
+* مساحة الاسم [Aspose.Svg.Dom.Events](../../aspose.svg.dom.events/)
 * المجسم [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

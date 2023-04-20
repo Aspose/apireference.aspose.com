@@ -1,9 +1,9 @@
 ---
-title: SVGPathSeg
+title: Class SVGPathSeg
 second_title: Aspose.SVG för .NET API Referens
-description: SVGPathSeggränssnittet är ett basgränssnitt som motsvarar ett enda kommando inom en sökvägsdataspecifikation.
+description: Aspose.Svg.Paths.SVGPathSeg klass. SVGPathSeggränssnittet är ett basgränssnitt som motsvarar ett enda kommando inom en sökvägsdataspecifikation.
 type: docs
-weight: 2460
+weight: 2490
 url: /sv/net/aspose.svg.paths/svgpathseg/
 ---
 ## SVGPathSeg class
@@ -18,45 +18,45 @@ public abstract class SVGPathSeg : SVGValueType
 
 | namn | Beskrivning |
 | --- | --- |
-| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype) { get; } | Typen av sökvägssegmentet som specificeras av en av konstanterna som definieras i detta gränssnitt. |
-| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | Typen av sökvägssegmentet, specificerad av motsvarande ett teckens kommandonamn. |
+| [PathSegType](../../aspose.svg.paths/svgpathseg/pathsegtype/) { get; } | Typen av sökvägssegmentet som specificeras av en av konstanterna som definieras i detta gränssnitt. |
+| [PathSegTypeAsLetter](../../aspose.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | Typen av sökvägssegmentet, specificerad av motsvarande ett teckens kommandonamn. |
 
 ## Metoder
 
 | namn | Beskrivning |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Frigör ohanterade och - valfritt - hanterade resurser. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Denna metod används för att hämta ECMAScript-objektType . |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Frigör ohanterade och - valfritt - hanterade resurser. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektType . |
 
 ## Fält
 
 | namn | Beskrivning |
 | --- | --- |
-| const [PATHSEG_ARC_ABS](../../aspose.svg.paths/svgpathseg/pathseg_arc_abs) | Motsvarar ett "absolute arcto" (A) sökvägsdatakommando. |
-| const [PATHSEG_ARC_REL](../../aspose.svg.paths/svgpathseg/pathseg_arc_rel) | Motsvarar ett "relativ arcto" (a) sökvägsdatakommando. |
-| const [PATHSEG_CLOSEPATH](../../aspose.svg.paths/svgpathseg/pathseg_closepath) | Motsvarar ett "closepath" (z) sökvägsdatakommando. |
-| const [PATHSEG_CURVETO_CUBIC_ABS](../../aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_abs) | Motsvarar ett "absolut kubisk Bézier curveto" (C) sökvägsdatakommando. |
-| const [PATHSEG_CURVETO_CUBIC_REL](../../aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_rel) | Motsvarar ett "relativ kubisk Bézier curveto" (c) sökvägsdatakommando. |
-| const [PATHSEG_CURVETO_CUBIC_SMOOTH_ABS](../../aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_smooth_abs) | Motsvarar ett "absolut smooth cubic curveto" (S) sökvägsdatakommando. |
-| const [PATHSEG_CURVETO_CUBIC_SMOOTH_REL](../../aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_smooth_rel) | Motsvarar ett "relativ jämn kubisk kurva" (s) sökvägsdatakommando. |
-| const [PATHSEG_CURVETO_QUADRATIC_ABS](../../aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_abs) | Motsvarar ett "absolut kvadratisk Bézier curveto" (Q) sökvägsdatakommando. |
-| const [PATHSEG_CURVETO_QUADRATIC_REL](../../aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_rel) | Motsvarar ett "relativ kvadratisk Bézier curveto" (q) sökvägsdatakommando. |
-| const [PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS](../../aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_smooth_abs) | Motsvarar ett "absolut jämn kvadratisk kurva" (T) vägdatakommando. |
-| const [PATHSEG_CURVETO_QUADRATIC_SMOOTH_REL](../../aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_smooth_rel) | Motsvarar ett "relativ jämn kvadratisk kurva" (t) sökvägsdatakommando. |
-| const [PATHSEG_LINETO_ABS](../../aspose.svg.paths/svgpathseg/pathseg_lineto_abs) | Motsvarar ett "absolut lineto" (L) sökvägsdatakommando. |
-| const [PATHSEG_LINETO_HORIZONTAL_ABS](../../aspose.svg.paths/svgpathseg/pathseg_lineto_horizontal_abs) | Motsvarar ett "absolut horisontell linje till" (H) sökvägsdatakommando. |
-| const [PATHSEG_LINETO_HORIZONTAL_REL](../../aspose.svg.paths/svgpathseg/pathseg_lineto_horizontal_rel) | Motsvarar ett "relativ horisontell linje till" (h) sökvägsdatakommando. |
-| const [PATHSEG_LINETO_REL](../../aspose.svg.paths/svgpathseg/pathseg_lineto_rel) | Motsvarar ett "relativ lineto" (l) sökvägsdatakommando. |
-| const [PATHSEG_LINETO_VERTICAL_ABS](../../aspose.svg.paths/svgpathseg/pathseg_lineto_vertical_abs) | Motsvarar ett "absolut vertikal lineto" (V) sökvägsdatakommando. |
-| const [PATHSEG_LINETO_VERTICAL_REL](../../aspose.svg.paths/svgpathseg/pathseg_lineto_vertical_rel) | Motsvarar ett "relativ vertikal linjeto" (v) sökvägsdatakommando. |
-| const [PATHSEG_MOVETO_ABS](../../aspose.svg.paths/svgpathseg/pathseg_moveto_abs) | Motsvarar ett "absolute moveto" (M) sökvägsdatakommando. |
-| const [PATHSEG_MOVETO_REL](../../aspose.svg.paths/svgpathseg/pathseg_moveto_rel) | Motsvarar ett "relativ moveto" (m) sökvägsdatakommando. |
-| const [PATHSEG_UNKNOWN](../../aspose.svg.paths/svgpathseg/pathseg_unknown) | Enhetstypen är inte en av fördefinierade typer. Det är ogiltigt att försöka definiera ett nytt värde av denna typ eller att försöka ändra ett befintligt värde till denna typ. |
+| const [PATHSEG_ARC_ABS](../../aspose.svg.paths/svgpathseg/pathseg_arc_abs/) | Motsvarar ett "absolute arcto" (A) sökvägsdatakommando. |
+| const [PATHSEG_ARC_REL](../../aspose.svg.paths/svgpathseg/pathseg_arc_rel/) | Motsvarar ett "relativ arcto" (a) sökvägsdatakommando. |
+| const [PATHSEG_CLOSEPATH](../../aspose.svg.paths/svgpathseg/pathseg_closepath/) | Motsvarar ett "closepath" (z) sökvägsdatakommando. |
+| const [PATHSEG_CURVETO_CUBIC_ABS](../../aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_abs/) | Motsvarar ett "absolut kubisk Bézier curveto" (C) sökvägsdatakommando. |
+| const [PATHSEG_CURVETO_CUBIC_REL](../../aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_rel/) | Motsvarar ett "relativ kubisk Bézier curveto" (c) sökvägsdatakommando. |
+| const [PATHSEG_CURVETO_CUBIC_SMOOTH_ABS](../../aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_smooth_abs/) | Motsvarar ett "absolut smooth cubic curveto" (S) sökvägsdatakommando. |
+| const [PATHSEG_CURVETO_CUBIC_SMOOTH_REL](../../aspose.svg.paths/svgpathseg/pathseg_curveto_cubic_smooth_rel/) | Motsvarar ett "relativ jämn kubisk kurva" (s) sökvägsdatakommando. |
+| const [PATHSEG_CURVETO_QUADRATIC_ABS](../../aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_abs/) | Motsvarar ett "absolut kvadratisk Bézier curveto" (Q) sökvägsdatakommando. |
+| const [PATHSEG_CURVETO_QUADRATIC_REL](../../aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_rel/) | Motsvarar ett "relativ kvadratisk Bézier curveto" (q) sökvägsdatakommando. |
+| const [PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS](../../aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_smooth_abs/) | Motsvarar ett "absolut jämn kvadratisk kurva" (T) vägdatakommando. |
+| const [PATHSEG_CURVETO_QUADRATIC_SMOOTH_REL](../../aspose.svg.paths/svgpathseg/pathseg_curveto_quadratic_smooth_rel/) | Motsvarar ett "relativ jämn kvadratisk kurva" (t) sökvägsdatakommando. |
+| const [PATHSEG_LINETO_ABS](../../aspose.svg.paths/svgpathseg/pathseg_lineto_abs/) | Motsvarar ett "absolut lineto" (L) sökvägsdatakommando. |
+| const [PATHSEG_LINETO_HORIZONTAL_ABS](../../aspose.svg.paths/svgpathseg/pathseg_lineto_horizontal_abs/) | Motsvarar ett "absolut horisontell linje till" (H) sökvägsdatakommando. |
+| const [PATHSEG_LINETO_HORIZONTAL_REL](../../aspose.svg.paths/svgpathseg/pathseg_lineto_horizontal_rel/) | Motsvarar ett "relativ horisontell linje till" (h) sökvägsdatakommando. |
+| const [PATHSEG_LINETO_REL](../../aspose.svg.paths/svgpathseg/pathseg_lineto_rel/) | Motsvarar ett "relativ lineto" (l) sökvägsdatakommando. |
+| const [PATHSEG_LINETO_VERTICAL_ABS](../../aspose.svg.paths/svgpathseg/pathseg_lineto_vertical_abs/) | Motsvarar ett "absolut vertikal lineto" (V) sökvägsdatakommando. |
+| const [PATHSEG_LINETO_VERTICAL_REL](../../aspose.svg.paths/svgpathseg/pathseg_lineto_vertical_rel/) | Motsvarar ett "relativ vertikal linjeto" (v) sökvägsdatakommando. |
+| const [PATHSEG_MOVETO_ABS](../../aspose.svg.paths/svgpathseg/pathseg_moveto_abs/) | Motsvarar ett "absolute moveto" (M) sökvägsdatakommando. |
+| const [PATHSEG_MOVETO_REL](../../aspose.svg.paths/svgpathseg/pathseg_moveto_rel/) | Motsvarar ett "relativ moveto" (m) sökvägsdatakommando. |
+| const [PATHSEG_UNKNOWN](../../aspose.svg.paths/svgpathseg/pathseg_unknown/) | Enhetstypen är inte en av fördefinierade typer. Det är ogiltigt att försöka definiera ett nytt värde av denna typ eller att försöka ändra ett befintligt värde till denna typ. |
 
 ### Se även
 
-* class [SVGValueType](../../aspose.svg.datatypes/svgvaluetype)
-* namnutrymme [Aspose.Svg.Paths](../../aspose.svg.paths)
+* class [SVGValueType](../../aspose.svg.datatypes/svgvaluetype/)
+* namnutrymme [Aspose.Svg.Paths](../../aspose.svg.paths/)
 * hopsättning [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

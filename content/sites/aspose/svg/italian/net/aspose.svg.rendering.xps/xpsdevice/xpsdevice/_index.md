@@ -1,14 +1,14 @@
 ---
-title: XpsDevice
+title: XpsDevice.XpsDevice
 second_title: Riferimento API Aspose.SVG per .NET
-description: Inizializza una nuova istanza diXpsDeviceaspose.svg.rendering.xps/xpsdevice classe.
+description: XpsDevice costruttore. Inizializza una nuova istanza diXpsDevice classe.
 type: docs
 weight: 10
 url: /it/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 
-Inizializza una nuova istanza di[`XpsDevice`](../../xpsdevice) classe.
+Inizializza una nuova istanza di[`XpsDevice`](../) classe.
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 ### Guarda anche
 
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Inizializza una nuova istanza di[`XpsDevice`](../../xpsdevice) classe per opzioni di rendering e provider di streaming.
+Inizializza una nuova istanza di[`XpsDevice`](../) class in base alle opzioni di rendering e allo stream provider.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | options | XpsRenderingOptions | Opzioni di rendering. |
-| streamProvider | ICreateStreamProvider | Oggetto che implementa il[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) interfaccia |
+| streamProvider | ICreateStreamProvider | Oggetto che implementa il[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) interfaccia |
 
 ### Guarda anche
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(string) {#constructor_5}
 
-Inizializza una nuova istanza di[`XpsDevice`](../../xpsdevice) classe.
+Inizializza una nuova istanza di[`XpsDevice`](../) classe.
 
 ```csharp
 public XpsDevice(string file)
@@ -64,15 +64,15 @@ public XpsDevice(string file)
 
 ### Guarda anche
 
-* class [XpsDevice](../../xpsdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
-Inizializza una nuova istanza di[`XpsDevice`](../../xpsdevice) classe per opzioni di rendering e nome del file di output.
+Inizializza una nuova istanza di[`XpsDevice`](../) class in base alle opzioni di rendering e al nome del file di output.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 ### Guarda anche
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(Stream) {#constructor_4}
 
-Inizializza una nuova istanza di[`XpsDevice`](../../xpsdevice) classe.
+Inizializza una nuova istanza di[`XpsDevice`](../) classe.
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -106,15 +106,15 @@ public XpsDevice(Stream stream)
 
 ### Guarda anche
 
-* class [XpsDevice](../../xpsdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
-Inizializza una nuova istanza di[`XpsDevice`](../../xpsdevice) classe per opzioni di rendering e flusso di output.
+Inizializza una nuova istanza di[`XpsDevice`](../) classe tramite opzioni di rendering e flusso di output.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 ### Guarda anche
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* spazio dei nomi [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * assemblea [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

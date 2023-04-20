@@ -1,7 +1,7 @@
 ---
-title: CreateTreeWalker
+title: Document.CreateTreeWalker
 second_title: Aspose.SVG for .NET API Referansı
-description: Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir TreeWalker oluşturun.
+description: Document yöntem. Belirtilen düğümde köklenen alt ağaç üzerinde yeni bir TreeWalker oluşturun.
 type: docs
 weight: 940
 url: /tr/net/aspose.svg.dom/document/createtreewalker/
@@ -16,7 +16,7 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| root | Node | the TreeWalker için kök görevi görecek düğüm. whatToShow bayrakları ve the NodeFilter bu değer ayarlanırken dikkate alınmaz; herhangi bir düğüm türü kök olarak kabul edilir. TreeWalker'ın currentNode'u, görünür olsun ya da olmasın, bu düğüme başlatıldı is . kökü, parentNode ve nextNode gibi belge yapısında yukarı doğru bakan traversal yöntemleri için bir durma noktası işlevi görür. Kök, boş olmamalıdır. |
+| root | Node | the TreeWalker için kök görevi görecek düğüm. Bu değer ayarlanırken whatToShow bayrakları ve the NodeFilter dikkate alınmaz; herhangi bir düğüm türü kök olarak kabul edilir. TreeWalker'ın currentNode is , görünür olsun ya da olmasın bu düğüme başlatıldı. kökü, parentNode ve nextNode gibi belge yapısında yukarı bakan traversal yöntemleri için bir durma noktası işlevi görür. Kök must boş olmamalıdır. |
 
 ### Geri dönüş değeri
 
@@ -26,14 +26,14 @@ Yeni oluşturulan TreeWalker.
 
 | istisna | şart |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Belirtilen kök, null ise tetiklenir. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Belirtilen kök is null ise yükseltilir. |
 
 ### Ayrıca bakınız
 
-* interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker)
-* class [Node](../../node)
-* class [Document](../../document)
-* ad alanı [Aspose.Svg.Dom](../../document)
+* interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker/)
+* class [Node](../../node/)
+* class [Document](../)
+* ad alanı [Aspose.Svg.Dom](../../document/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
@@ -48,8 +48,8 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| root | Node | the TreeWalker için kök görevi görecek düğüm. whatToShow bayrakları ve the NodeFilter bu değer ayarlanırken dikkate alınmaz; herhangi bir düğüm türü kök olarak kabul edilir. TreeWalker'ın currentNode'u, görünür olsun ya da olmasın, bu düğüme başlatıldı is . kökü, parentNode ve nextNode gibi belge yapısında yukarı doğru bakan traversal yöntemleri için bir durma noktası işlevi görür. Kök, boş olmamalıdır. |
-| whatToShow | Int64 | flag, ağaç yürütücüsü tarafından sunulan ağacın mantıksal görünümünde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın. Bu bayraklar VEYA kullanılarak birleştirilebilir. |
+| root | Node | the TreeWalker için kök görevi görecek düğüm. Bu değer ayarlanırken whatToShow bayrakları ve the NodeFilter dikkate alınmaz; herhangi bir düğüm türü kök olarak kabul edilir. TreeWalker'ın currentNode is , görünür olsun ya da olmasın bu düğüme başlatıldı. kökü, parentNode ve nextNode gibi belge yapısında yukarı bakan traversal yöntemleri için bir durma noktası işlevi görür. Kök must boş olmamalıdır. |
+| whatToShow | Int64 | bayrak, ağaç gezgini tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın. Bu bayraklar OR kullanılarak birleştirilebilir. |
 
 ### Geri dönüş değeri
 
@@ -59,14 +59,14 @@ Yeni oluşturulan TreeWalker.
 
 | istisna | şart |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Belirtilen kök, null ise tetiklenir. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Belirtilen kök is null ise yükseltilir. |
 
 ### Ayrıca bakınız
 
-* interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker)
-* class [Node](../../node)
-* class [Document](../../document)
-* ad alanı [Aspose.Svg.Dom](../../document)
+* interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker/)
+* class [Node](../../node/)
+* class [Document](../)
+* ad alanı [Aspose.Svg.Dom](../../document/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
@@ -81,8 +81,8 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| root | Node | the TreeWalker için kök görevi görecek düğüm. whatToShow bayrakları ve the NodeFilter bu değer ayarlanırken dikkate alınmaz; herhangi bir düğüm türü kök olarak kabul edilir. TreeWalker'ın currentNode'u, görünür olsun ya da olmasın, bu düğüme başlatıldı is . kökü, parentNode ve nextNode gibi belge yapısında yukarı doğru bakan traversal yöntemleri için bir durma noktası işlevi görür. Kök, boş olmamalıdır. |
-| whatToShow | Int64 | flag, ağaç yürütücüsü tarafından sunulan ağacın mantıksal görünümünde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın. Bu bayraklar VEYA kullanılarak birleştirilebilir. |
+| root | Node | the TreeWalker için kök görevi görecek düğüm. Bu değer ayarlanırken whatToShow bayrakları ve the NodeFilter dikkate alınmaz; herhangi bir düğüm türü kök olarak kabul edilir. TreeWalker'ın currentNode is , görünür olsun ya da olmasın bu düğüme başlatıldı. kökü, parentNode ve nextNode gibi belge yapısında yukarı bakan traversal yöntemleri için bir durma noktası işlevi görür. Kök must boş olmamalıdır. |
+| whatToShow | Int64 | bayrak, ağaç gezgini tarafından sunulan ağacın mantıksal görünümünde içinde hangi düğüm türlerinin görünebileceğini belirtir. Olası SHOW_ değerleri kümesi için NodeFilter'ın açıklamasına bakın. Bu bayraklar OR kullanılarak birleştirilebilir. |
 | filter | INodeFilter | this TreeWalker ile kullanılacak NodeFilter veya filtre olmadığını belirtmek için null. |
 
 ### Geri dönüş değeri
@@ -93,15 +93,15 @@ Yeni oluşturulan TreeWalker.
 
 | istisna | şart |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR: Belirtilen kök, null ise tetiklenir. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Belirtilen kök is null ise yükseltilir. |
 
 ### Ayrıca bakınız
 
-* interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker)
-* class [Node](../../node)
-* interface [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter)
-* class [Document](../../document)
-* ad alanı [Aspose.Svg.Dom](../../document)
+* interface [ITreeWalker](../../../aspose.svg.dom.traversal/itreewalker/)
+* class [Node](../../node/)
+* interface [INodeFilter](../../../aspose.svg.dom.traversal/inodefilter/)
+* class [Document](../)
+* ad alanı [Aspose.Svg.Dom](../../document/)
 * toplantı [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

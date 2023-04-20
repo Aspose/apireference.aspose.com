@@ -1,14 +1,14 @@
 ---
-title: XpsDevice
+title: XpsDevice.XpsDevice
 second_title: Справочник по Aspose.SVG для .NET API
-description: Инициализирует новый экземплярXpsDeviceaspose.svg.rendering.xps/xpsdevice класс.
+description: XpsDevice строитель. Инициализирует новый экземплярXpsDevice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.svg.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 
-Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс.
+Инициализирует новый экземпляр[`XpsDevice`](../) класс.
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 ### Смотрите также
 
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс по параметрам рендеринга и потоковому провайдеру.
+Инициализирует новый экземпляр[`XpsDevice`](../) класс по параметрам рендеринга и потоковому провайдеру.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | options | XpsRenderingOptions | Варианты рендеринга. |
-| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) интерфейс |
+| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) интерфейс |
 
 ### Смотрите также
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(string) {#constructor_5}
 
-Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс.
+Инициализирует новый экземпляр[`XpsDevice`](../) класс.
 
 ```csharp
 public XpsDevice(string file)
@@ -64,15 +64,15 @@ public XpsDevice(string file)
 
 ### Смотрите также
 
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
-Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс по параметрам рендеринга и имени выходного файла.
+Инициализирует новый экземпляр[`XpsDevice`](../) класс по параметрам рендеринга и имени выходного файла.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 ### Смотрите также
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(Stream) {#constructor_4}
 
-Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс.
+Инициализирует новый экземпляр[`XpsDevice`](../) класс.
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -106,15 +106,15 @@ public XpsDevice(Stream stream)
 
 ### Смотрите также
 
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.SVG](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
-Инициализирует новый экземпляр[`XpsDevice`](../../xpsdevice) класс по параметрам рендеринга и выходному потоку.
+Инициализирует новый экземпляр[`XpsDevice`](../) класс по параметрам рендеринга и выходному потоку.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 ### Смотрите также
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Svg.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

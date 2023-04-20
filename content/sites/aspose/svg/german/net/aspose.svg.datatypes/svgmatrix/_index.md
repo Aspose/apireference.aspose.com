@@ -1,7 +1,7 @@
 ---
-title: SVGMatrix
+title: Class SVGMatrix
 second_title: Aspose.SVG für .NET-API-Referenz
-description: Viele der Grafikoperationen von SVG verwenden 2x3Matrizen der Form ace bdf  die wenn sie für die Zwecke der Matrixarithmetik in eine 3x3Matrix erweitert werden zu ace bdf 0 0 1
+description: Aspose.Svg.DataTypes.SVGMatrix klas. Viele der Grafikoperationen von SVG verwenden 2x3Matrizen der Form ace bdf  die wenn sie für die Zwecke der Matrixarithmetik in eine 3x3Matrix erweitert werden zu ace bdf 0 0 1
 type: docs
 weight: 240
 url: /de/net/aspose.svg.datatypes/svgmatrix/
@@ -18,32 +18,32 @@ public class SVGMatrix : SVGValueType
 
 | Name | Beschreibung |
 | --- | --- |
-| [A](../../aspose.svg.datatypes/svgmatrix/a) { get; set; } | Die A-Komponente der Matrix. |
-| [B](../../aspose.svg.datatypes/svgmatrix/b) { get; set; } | Die B-Komponente der Matrix. |
-| [C](../../aspose.svg.datatypes/svgmatrix/c) { get; set; } | Die C-Komponente der Matrix. |
-| [D](../../aspose.svg.datatypes/svgmatrix/d) { get; set; } | Die D-Komponente der Matrix. |
-| [E](../../aspose.svg.datatypes/svgmatrix/e) { get; set; } | Die E-Komponente der Matrix. |
-| [F](../../aspose.svg.datatypes/svgmatrix/f) { get; set; } | Die F-Komponente der Matrix. |
+| [A](../../aspose.svg.datatypes/svgmatrix/a/) { get; set; } | Die A-Komponente der Matrix. |
+| [B](../../aspose.svg.datatypes/svgmatrix/b/) { get; set; } | Die B-Komponente der Matrix. |
+| [C](../../aspose.svg.datatypes/svgmatrix/c/) { get; set; } | Die C-Komponente der Matrix. |
+| [D](../../aspose.svg.datatypes/svgmatrix/d/) { get; set; } | Die D-Komponente der Matrix. |
+| [E](../../aspose.svg.datatypes/svgmatrix/e/) { get; set; } | Die E-Komponente der Matrix. |
+| [F](../../aspose.svg.datatypes/svgmatrix/f/) { get; set; } | Die F-Komponente der Matrix. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose)() | Gibt nicht verwaltete und – optional – verwaltete Ressourcen frei. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
-| [Multiply](../../aspose.svg.datatypes/svgmatrix/multiply)(SVGMatrix) | Führt eine Matrixmultiplikation durch. Diese Matrix wird nachträglich mit einer anderen Matrix multipliziert, wodurch die resultierende neue Matrix zurückgegeben wird. |
-| [Rotate](../../aspose.svg.datatypes/svgmatrix/rotate)(float) | Multipliziert eine Rotationstransformation auf der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
-| [Scale](../../aspose.svg.datatypes/svgmatrix/scale)(float) | Multipliziert eine einheitliche Skalierungstransformation auf der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
-| [ScaleNonUniform](../../aspose.svg.datatypes/svgmatrix/scalenonuniform)(float, float) | Multipliziert eine ungleichmäßige Skalierungstransformation auf der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
-| [SkewX](../../aspose.svg.datatypes/svgmatrix/skewx)(float) | Multipliziert eine skewX-Transformation mit der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
-| [SkewY](../../aspose.svg.datatypes/svgmatrix/skewy)(float) | Multipliziert eine skewY-Transformation mit der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
-| override [ToString](../../aspose.svg.datatypes/svgmatrix/tostring)() | Gibt a zurückString die diese Instanz darstellt. |
-| [Translate](../../aspose.svg.datatypes/svgmatrix/translate)(float, float) | Multipliziert eine Translationstransformation mit der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
+| [Dispose](../../aspose.svg.datatypes/svgvaluetype/dispose/)() | Gibt nicht verwaltete und – optional – verwaltete Ressourcen frei. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
+| [Multiply](../../aspose.svg.datatypes/svgmatrix/multiply/)(SVGMatrix) | Führt eine Matrixmultiplikation durch. Diese Matrix wird nachträglich mit einer anderen Matrix multipliziert, wodurch die resultierende neue Matrix zurückgegeben wird. |
+| [Rotate](../../aspose.svg.datatypes/svgmatrix/rotate/)(float) | Multipliziert eine Rotationstransformation auf der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
+| [Scale](../../aspose.svg.datatypes/svgmatrix/scale/)(float) | Multipliziert eine einheitliche Skalierungstransformation auf der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
+| [ScaleNonUniform](../../aspose.svg.datatypes/svgmatrix/scalenonuniform/)(float, float) | Multipliziert eine ungleichmäßige Skalierungstransformation auf der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
+| [SkewX](../../aspose.svg.datatypes/svgmatrix/skewx/)(float) | Multipliziert eine skewX-Transformation mit der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
+| [SkewY](../../aspose.svg.datatypes/svgmatrix/skewy/)(float) | Multipliziert eine skewY-Transformation mit der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
+| override [ToString](../../aspose.svg.datatypes/svgmatrix/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| [Translate](../../aspose.svg.datatypes/svgmatrix/translate/)(float, float) | Multipliziert eine Translationstransformation mit der aktuellen Matrix nach und gibt die resultierende Matrix zurück. |
 
 ### Siehe auch
 
-* class [SVGValueType](../svgvaluetype)
-* namensraum [Aspose.Svg.DataTypes](../../aspose.svg.datatypes)
+* class [SVGValueType](../svgvaluetype/)
+* namensraum [Aspose.Svg.DataTypes](../../aspose.svg.datatypes/)
 * Montage [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

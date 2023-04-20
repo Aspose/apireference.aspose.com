@@ -1,7 +1,7 @@
 ---
-title: AddEventListener
+title: IEventTarget.AddEventListener
 second_title: Aspose.SVG för .NET API Referens
-description: Denna metod tillåter registrering av händelseavlyssnare på händelsemålet.
+description: IEventTarget metod. Denna metod tillåter registrering av händelseavlyssnare på händelsemålet.
 type: docs
 weight: 10
 url: /sv/net/aspose.svg.dom.events/ieventtarget/addeventlistener/
@@ -21,15 +21,15 @@ public void AddEventListener(string type, IEventListener listener)
 
 ### Anmärkningar
 
-Om en[`IEventListener`](../../ieventlistener) läggs till en[`EventTarget`](../../../aspose.svg.dom/eventtarget) medan den bearbetar en händelse triggers den inte av de aktuella åtgärderna utan kan triggas under ett senare skede av händelseflödet, såsom bubblingsfasen.
+Om en[`IEventListener`](../../ieventlistener/) läggs till en[`EventTarget`](../../../aspose.svg.dom/eventtarget/) medan den bearbetar en händelse triggers den inte av de aktuella åtgärderna utan kan triggas under ett senare skede av händelseflödet, såsom bubblingsfasen.
 
-Om flera identiska händelseavlyssnare är registrerade på samma[`EventTarget`](../../../aspose.svg.dom/eventtarget)med samma parametrar kasseras dubblettinstanserna. De orsakar inte[`IEventListener`](../../ieventlistener) ska anropas två gånger och eftersom de kasseras behöver de inte tas bort med the [`RemoveEventListener`](../removeeventlistener) metod.
+Om flera identiska händelseavlyssnare är registrerade på samma[`EventTarget`](../../../aspose.svg.dom/eventtarget/)med samma parametrar kasseras dubblettinstanserna. De orsakar inte[`IEventListener`](../../ieventlistener/) ska anropas två gånger och eftersom de kasseras behöver de inte tas bort med the [`RemoveEventListener`](../removeeventlistener/) metod.
 
 ### Se även
 
-* interface [IEventListener](../../ieventlistener)
-* interface [IEventTarget](../../ieventtarget)
-* namnutrymme [Aspose.Svg.Dom.Events](../../ieventtarget)
+* interface [IEventListener](../../ieventlistener/)
+* interface [IEventTarget](../)
+* namnutrymme [Aspose.Svg.Dom.Events](../../ieventtarget/)
 * hopsättning [Aspose.SVG](../../../)
 
 ---
@@ -46,19 +46,19 @@ public void AddEventListener(string type, IEventListener listener, bool useCaptu
 | --- | --- | --- |
 | type | String | Händelsetypen som användaren registrerar sig för |
 | listener | IEventListener | Tar ett gränssnitt implementerat av användaren som innehåller metoderna som ska anropas när händelsen inträffar. |
-| useCapture | Boolean | Om sant, anger useCapture att användaren vill initiera infångning. Efter att ha initierat infångning kommer alla händelser av den angivna typen att skickas till registered [`IEventListener`](../../ieventlistener) innan de skickas till några händelsemål under dem i trädet. Händelser som bubblar uppåt genom trädet kommer inte att utlösa en[`IEventListener`](../../ieventlistener) avsedd att använda infångning. |
+| useCapture | Boolean | Om sant, anger useCapture att användaren vill initiera infångning. Efter att ha initierat infångning kommer alla händelser av den angivna typen att skickas till registered [`IEventListener`](../../ieventlistener/) innan de skickas till några händelsemål under dem i trädet. Händelser som bubblar uppåt genom trädet kommer inte att utlösa en[`IEventListener`](../../ieventlistener/) avsedd att använda infångning. |
 
 ### Anmärkningar
 
-Om en[`IEventListener`](../../ieventlistener) läggs till en[`EventTarget`](../../../aspose.svg.dom/eventtarget) medan den bearbetar en händelse triggers den inte av de aktuella åtgärderna utan kan triggas under ett senare skede av händelseflödet, såsom bubblingsfasen.
+Om en[`IEventListener`](../../ieventlistener/) läggs till en[`EventTarget`](../../../aspose.svg.dom/eventtarget/) medan den bearbetar en händelse triggers den inte av de aktuella åtgärderna utan kan triggas under ett senare skede av händelseflödet, såsom bubblingsfasen.
 
-Om flera identiska händelseavlyssnare är registrerade på samma[`EventTarget`](../../../aspose.svg.dom/eventtarget)med samma parametrar kasseras dubblettinstanserna. De orsakar inte[`IEventListener`](../../ieventlistener) ska anropas två gånger och eftersom de kasseras behöver de inte tas bort med the [`RemoveEventListener`](../removeeventlistener) metod.
+Om flera identiska händelseavlyssnare är registrerade på samma[`EventTarget`](../../../aspose.svg.dom/eventtarget/)med samma parametrar kasseras dubblettinstanserna. De orsakar inte[`IEventListener`](../../ieventlistener/) ska anropas två gånger och eftersom de kasseras behöver de inte tas bort med the [`RemoveEventListener`](../removeeventlistener/) metod.
 
 ### Se även
 
-* interface [IEventListener](../../ieventlistener)
-* interface [IEventTarget](../../ieventtarget)
-* namnutrymme [Aspose.Svg.Dom.Events](../../ieventtarget)
+* interface [IEventListener](../../ieventlistener/)
+* interface [IEventTarget](../)
+* namnutrymme [Aspose.Svg.Dom.Events](../../ieventtarget/)
 * hopsättning [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

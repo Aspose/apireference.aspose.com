@@ -1,14 +1,14 @@
 ---
-title: SVGDocument
+title: SVGDocument.SVGDocument
 second_title: Aspose.SVG لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفSVGDocumentaspose.svg/svgdocument فئة .
+description: SVGDocument البناء. يقوم بتهيئة مثيل جديد لملفSVGDocument فئة .
 type: docs
 weight: 10
 url: /ar/net/aspose.svg/svgdocument/svgdocument/
 ---
 ## SVGDocument() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument) فئة .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../) فئة .
 
 ```csharp
 public SVGDocument()
@@ -16,15 +16,15 @@ public SVGDocument()
 
 ### أنظر أيضا
 
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Configuration) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument) فئة .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../) فئة .
 
 ```csharp
 public SVGDocument(Configuration configuration)
@@ -36,16 +36,16 @@ public SVGDocument(Configuration configuration)
 
 ### أنظر أيضا
 
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string) {#constructor_10}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string address)
@@ -57,15 +57,15 @@ public SVGDocument(string address)
 
 ### أنظر أيضا
 
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Url) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(Url url)
@@ -77,16 +77,16 @@ public SVGDocument(Url url)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, Configuration) {#constructor_11}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string address, Configuration configuration)
@@ -99,16 +99,16 @@ public SVGDocument(string address, Configuration configuration)
 
 ### أنظر أيضا
 
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Url, Configuration) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(Url url, Configuration configuration)
@@ -121,17 +121,17 @@ public SVGDocument(Url url, Configuration configuration)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Stream, string) {#constructor_8}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . يبدأ تحميل المستند من الموضع الحالي في الدفق.
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . يبدأ تحميل المستند من الموضع الحالي في الدفق.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri)
@@ -146,19 +146,19 @@ public SVGDocument(Stream content, string baseUri)
 
 | استثناء | حالة |
 | --- | --- |
-| ArgumentNullException | `قاعدة أوري` هو`لا شيء`. |
+| ArgumentNullException | `قاعدة أوري` يكون`باطل`. |
 
 ### أنظر أيضا
 
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Stream, string, Configuration) {#constructor_9}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . يبدأ تحميل المستند من الموضع الحالي في الدفق.
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . يبدأ تحميل المستند من الموضع الحالي في الدفق.
 
 ```csharp
 public SVGDocument(Stream content, string baseUri, Configuration configuration)
@@ -174,20 +174,20 @@ public SVGDocument(Stream content, string baseUri, Configuration configuration)
 
 | استثناء | حالة |
 | --- | --- |
-| ArgumentNullException | `قاعدة أوري` هو`لا شيء`. |
+| ArgumentNullException | `قاعدة أوري` يكون`باطل`. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Stream, Url) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . يبدأ تحميل المستند من الموضع الحالي في الدفق.
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . يبدأ تحميل المستند من الموضع الحالي في الدفق.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri)
@@ -202,20 +202,20 @@ public SVGDocument(Stream content, Url baseUri)
 
 | استثناء | حالة |
 | --- | --- |
-| ArgumentNullException | `قاعدة أوري` هو`لا شيء`. |
+| ArgumentNullException | `قاعدة أوري` يكون`باطل`. |
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(Stream, Url, Configuration) {#constructor_7}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) . يبدأ تحميل المستند من الموضع الحالي في الدفق.
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) . يبدأ تحميل المستند من الموضع الحالي في الدفق.
 
 ```csharp
 public SVGDocument(Stream content, Url baseUri, Configuration configuration)
@@ -231,21 +231,21 @@ public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 
 | استثناء | حالة |
 | --- | --- |
-| ArgumentNullException | `قاعدة أوري` هو`لا شيء`. |
+| ArgumentNullException | `قاعدة أوري` يكون`باطل`. |
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, string) {#constructor_14}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string content, string baseUri)
@@ -260,19 +260,19 @@ public SVGDocument(string content, string baseUri)
 
 | استثناء | حالة |
 | --- | --- |
-| ArgumentNullException | `قاعدة أوري` هو`لا شيء`. |
+| ArgumentNullException | `قاعدة أوري` يكون`باطل`. |
 
 ### أنظر أيضا
 
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, string, Configuration) {#constructor_15}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string content, string baseUri, Configuration configuration)
@@ -288,20 +288,20 @@ public SVGDocument(string content, string baseUri, Configuration configuration)
 
 | استثناء | حالة |
 | --- | --- |
-| ArgumentNullException | `قاعدة أوري` هو`لا شيء`. |
+| ArgumentNullException | `قاعدة أوري` يكون`باطل`. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, Url) {#constructor_12}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string content, Url baseUri)
@@ -316,20 +316,20 @@ public SVGDocument(string content, Url baseUri)
 
 | استثناء | حالة |
 | --- | --- |
-| ArgumentNullException | `قاعدة أوري` هو`لا شيء`. |
+| ArgumentNullException | `قاعدة أوري` يكون`باطل`. |
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(string, Url, Configuration) {#constructor_13}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(string content, Url baseUri, Configuration configuration)
@@ -345,21 +345,21 @@ public SVGDocument(string content, Url baseUri, Configuration configuration)
 
 | استثناء | حالة |
 | --- | --- |
-| ArgumentNullException | `قاعدة أوري` هو`لا شيء`. |
+| ArgumentNullException | `قاعدة أوري` يكون`باطل`. |
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(RequestMessage) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(RequestMessage request)
@@ -371,16 +371,16 @@ public SVGDocument(RequestMessage request)
 
 ### أنظر أيضا
 
-* class [RequestMessage](../../../aspose.svg.net/requestmessage)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [RequestMessage](../../../aspose.svg.net/requestmessage/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
 ---
 
 ## SVGDocument(RequestMessage, Configuration) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../../svgdocument)صف دراسي. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security) .
+يقوم بتهيئة مثيل جديد لملف[`SVGDocument`](../)فصل. يعمل المُنشئ بشكل متزامن ، وينتظر تحميل جميع الموارد الخارجية (الصور ، البرامج النصية ، إلخ.) . لتحميل المستند بطريقة غير متزامنة ، استخدم الطريقة[`Navigate`](../../../aspose.svg.dom/document/navigate/) أو overloads. أو يمكنك تعطيل تحميل بعض الموارد الخارجية عن طريق تعيين العلامات المناسبة في[`Security`](../../../aspose.svg.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public SVGDocument(RequestMessage request, Configuration configuration)
@@ -393,10 +393,10 @@ public SVGDocument(RequestMessage request, Configuration configuration)
 
 ### أنظر أيضا
 
-* class [RequestMessage](../../../aspose.svg.net/requestmessage)
-* class [Configuration](../../configuration)
-* class [SVGDocument](../../svgdocument)
-* مساحة الاسم [Aspose.Svg](../../svgdocument)
+* class [RequestMessage](../../../aspose.svg.net/requestmessage/)
+* class [Configuration](../../configuration/)
+* class [SVGDocument](../)
+* مساحة الاسم [Aspose.Svg](../../svgdocument/)
 * المجسم [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

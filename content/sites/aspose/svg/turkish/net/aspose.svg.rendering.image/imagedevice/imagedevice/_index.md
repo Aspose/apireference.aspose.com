@@ -1,14 +1,14 @@
 ---
-title: ImageDevice
+title: ImageDevice.ImageDevice
 second_title: Aspose.SVG for .NET API Referansı
-description: Yeni bir örneğini başlatırImageDeviceaspose.svg.rendering.image/imagedevice sınıf.
+description: ImageDevice inşaatçı. Yeni bir örneğini başlatır.ImageDevice sınıf.
 type: docs
 weight: 10
 url: /tr/net/aspose.svg.rendering.image/imagedevice/imagedevice/
 ---
 ## ImageDevice(ICreateStreamProvider) {#constructor}
 
-Yeni bir örneğini başlatır[`ImageDevice`](../../imagedevice) sınıf.
+Yeni bir örneğini başlatır.[`ImageDevice`](../) sınıf.
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 ### Ayrıca bakınız
 
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [ImageDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Yeni bir örneğini başlatır[`ImageDevice`](../../imagedevice) seçenekleri ve akış sağlayıcısını oluşturarak sınıf.
+Yeni bir örneğini başlatır.[`ImageDevice`](../) oluşturma seçeneklerine ve akış sağlayıcısına göre sınıf.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| options | ImageRenderingOptions | İşleme seçenekleri. |
-| streamProvider | ICreateStreamProvider | Uygulayan nesne[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider) arayüz |
+| options | ImageRenderingOptions | Oluşturma seçenekleri. |
+| streamProvider | ICreateStreamProvider | uygulayan nesne[`ICreateStreamProvider`](../../../aspose.svg.io/icreatestreamprovider/) arayüz |
 
 ### Ayrıca bakınız
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider)
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.svg.io/icreatestreamprovider/)
+* class [ImageDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(string) {#constructor_5}
 
-Yeni bir örneğini başlatır[`ImageDevice`](../../imagedevice) sınıf.
+Yeni bir örneğini başlatır.[`ImageDevice`](../) sınıf.
 
 ```csharp
 public ImageDevice(string file)
@@ -64,15 +64,15 @@ public ImageDevice(string file)
 
 ### Ayrıca bakınız
 
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
 
-Yeni bir örneğini başlatır[`ImageDevice`](../../imagedevice) seçenekleri ve çıktı dosyası adını oluşturarak sınıf.
+Yeni bir örneğini başlatır.[`ImageDevice`](../) işleme seçeneklerine ve çıktı dosyası adına göre sınıf.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| options | ImageRenderingOptions | İşleme seçenekleri. |
+| options | ImageRenderingOptions | Oluşturma seçenekleri. |
 | file | String | Çıktı dosyası adı. |
 
 ### Ayrıca bakınız
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* class [ImageDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(Stream) {#constructor_4}
 
-Yeni bir örneğini başlatır[`ImageDevice`](../../imagedevice) sınıf.
+Yeni bir örneğini başlatır.[`ImageDevice`](../) sınıf.
 
 ```csharp
 public ImageDevice(Stream stream)
@@ -106,15 +106,15 @@ public ImageDevice(Stream stream)
 
 ### Ayrıca bakınız
 
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * toplantı [Aspose.SVG](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
 
-Yeni bir örneğini başlatır[`ImageDevice`](../../imagedevice) seçenekleri ve çıktı akışını oluşturarak sınıflandırın.
+Yeni bir örneğini başlatır.[`ImageDevice`](../) işleme seçeneklerine ve çıktı akışına göre sınıf.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
@@ -122,14 +122,14 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| options | ImageRenderingOptions | İşleme seçenekleri. |
+| options | ImageRenderingOptions | Oluşturma seçenekleri. |
 | stream | Stream | Çıkış akışı. |
 
 ### Ayrıca bakınız
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* class [ImageDevice](../)
+* ad alanı [Aspose.Svg.Rendering.Image](../../imagedevice/)
 * toplantı [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: CreateNodeIterator
+title: IDocumentTraversal.CreateNodeIterator
 second_title: Riferimento API Aspose.SVG per .NET
-description: Crea un nuovo NodeIterator sulla sottostruttura radicata nel nodo specificato .
+description: IDocumentTraversal metodo. Crea un nuovo NodeIterator sulla sottostruttura radicata nel nodo specificato.
 type: docs
 weight: 10
 url: /it/net/aspose.svg.dom.traversal/idocumenttraversal/createnodeiterator/
 ---
 ## CreateNodeIterator(Node) {#createnodeiterator}
 
-Crea un nuovo NodeIterator sulla sottostruttura radicata nel nodo specificato .
+Crea un nuovo NodeIterator sulla sottostruttura radicata nel nodo specificato.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root)
@@ -16,7 +16,7 @@ public INodeIterator CreateNodeIterator(Node root)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| root | Node | nodo che verrà ripetuto insieme ai suoi figli. L'iteratore è inizialmente posizionato appena prima di questo nodo. I flag whatToShow e il filtro, se presente, non vengono considerati quando si imposta questa posizione. La radice non deve essere null. |
+| root | Node | nodo che verrà iterato insieme ai suoi figli. L'iteratore è inizialmente posizionato appena prima di questo nodo. I flag whatToShow e il filtro, se presenti, non vengono considerati durante l'impostazione di questa posizione. La radice non deve essere null. |
 
 ### Valore di ritorno
 
@@ -26,21 +26,21 @@ Il NodeIterator appena creato.
 
 | eccezione | condizione |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR: sollevato se la radice specificata è null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: sollevato se la radice specificata è null. |
 
 ### Guarda anche
 
-* interface [INodeIterator](../../inodeiterator)
-* class [Node](../../../aspose.svg.dom/node)
-* interface [IDocumentTraversal](../../idocumenttraversal)
-* spazio dei nomi [Aspose.Svg.Dom.Traversal](../../idocumenttraversal)
+* interface [INodeIterator](../../inodeiterator/)
+* class [Node](../../../aspose.svg.dom/node/)
+* interface [IDocumentTraversal](../)
+* spazio dei nomi [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## CreateNodeIterator(Node, long) {#createnodeiterator_1}
 
-Crea un nuovo NodeIterator sulla sottostruttura radicata nel nodo specificato .
+Crea un nuovo NodeIterator sulla sottostruttura radicata nel nodo specificato.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow)
@@ -48,8 +48,8 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| root | Node | nodo che verrà ripetuto insieme ai suoi figli. L'iteratore è inizialmente posizionato appena prima di questo nodo. I flag whatToShow e il filtro, se presente, non vengono considerati quando si imposta questa posizione. La radice non deve essere null. |
-| whatToShow | Int64 | flag specifica quali tipi di nodi possono apparire in la vista logica dell'albero presentata dall'iteratore. Vedere la descrizione di NodeFilter per l'insieme dei possibili valori SHOW_. Questi flag possono essere combinati usando OR. |
+| root | Node | nodo che verrà iterato insieme ai suoi figli. L'iteratore è inizialmente posizionato appena prima di questo nodo. I flag whatToShow e il filtro, se presenti, non vengono considerati durante l'impostazione di questa posizione. La radice non deve essere null. |
+| whatToShow | Int64 | flag specifica quali tipi di nodo possono apparire in la vista logica dell'albero presentato dall'iteratore. Vedere la descrizione di NodeFilter per l'insieme di possibili SHOW_ valori. Questi flag possono essere combinati utilizzando OR. |
 
 ### Valore di ritorno
 
@@ -59,21 +59,21 @@ Il NodeIterator appena creato.
 
 | eccezione | condizione |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR: sollevato se la radice specificata è null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: sollevato se la radice specificata è null. |
 
 ### Guarda anche
 
-* interface [INodeIterator](../../inodeiterator)
-* class [Node](../../../aspose.svg.dom/node)
-* interface [IDocumentTraversal](../../idocumenttraversal)
-* spazio dei nomi [Aspose.Svg.Dom.Traversal](../../idocumenttraversal)
+* interface [INodeIterator](../../inodeiterator/)
+* class [Node](../../../aspose.svg.dom/node/)
+* interface [IDocumentTraversal](../)
+* spazio dei nomi [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
 * assemblea [Aspose.SVG](../../../)
 
 ---
 
 ## CreateNodeIterator(Node, long, INodeFilter) {#createnodeiterator_2}
 
-Crea un nuovo NodeIterator sulla sottostruttura radicata nel nodo specificato .
+Crea un nuovo NodeIterator sulla sottostruttura radicata nel nodo specificato.
 
 ```csharp
 public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter filter)
@@ -81,8 +81,8 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter 
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| root | Node | nodo che verrà ripetuto insieme ai suoi figli. L'iteratore è inizialmente posizionato appena prima di questo nodo. I flag whatToShow e il filtro, se presente, non vengono considerati quando si imposta questa posizione. La radice non deve essere null. |
-| whatToShow | Int64 | flag specifica quali tipi di nodi possono apparire in la vista logica dell'albero presentata dall'iteratore. Vedere la descrizione di NodeFilter per l'insieme dei possibili valori SHOW_. Questi flag possono essere combinati usando OR. |
+| root | Node | nodo che verrà iterato insieme ai suoi figli. L'iteratore è inizialmente posizionato appena prima di questo nodo. I flag whatToShow e il filtro, se presenti, non vengono considerati durante l'impostazione di questa posizione. La radice non deve essere null. |
+| whatToShow | Int64 | flag specifica quali tipi di nodo possono apparire in la vista logica dell'albero presentato dall'iteratore. Vedere la descrizione di NodeFilter per l'insieme di possibili SHOW_ valori. Questi flag possono essere combinati utilizzando OR. |
 | filter | INodeFilter | NodeFilter da utilizzare con this TreeWalker o null per indicare nessun filtro. |
 
 ### Valore di ritorno
@@ -93,15 +93,15 @@ Il NodeIterator appena creato.
 
 | eccezione | condizione |
 | --- | --- |
-| [DOMException](../../../aspose.svg.dom/domexception) | NOT_SUPPORTED_ERR: sollevato se la radice specificata è null. |
+| [DOMException](../../../aspose.svg.dom/domexception/) | NOT_SUPPORTED_ERR: sollevato se la radice specificata è null. |
 
 ### Guarda anche
 
-* interface [INodeIterator](../../inodeiterator)
-* class [Node](../../../aspose.svg.dom/node)
-* interface [INodeFilter](../../inodefilter)
-* interface [IDocumentTraversal](../../idocumenttraversal)
-* spazio dei nomi [Aspose.Svg.Dom.Traversal](../../idocumenttraversal)
+* interface [INodeIterator](../../inodeiterator/)
+* class [Node](../../../aspose.svg.dom/node/)
+* interface [INodeFilter](../../inodefilter/)
+* interface [IDocumentTraversal](../)
+* spazio dei nomi [Aspose.Svg.Dom.Traversal](../../idocumenttraversal/)
 * assemblea [Aspose.SVG](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+

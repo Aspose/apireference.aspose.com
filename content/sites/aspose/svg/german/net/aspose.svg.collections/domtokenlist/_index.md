@@ -1,7 +1,7 @@
 ---
-title: DOMTokenList
+title: Class DOMTokenList
 second_title: Aspose.SVG für .NET-API-Referenz
-description: Die Klasse DOMTokenList repräsentiert einen Satz von durch Leerzeichen getrennten Token. Es wird wie bei JavaScriptArrayObjekten beginnend mit 0 indiziert. Bei DOMTokenList wird immer zwischen Groß und Kleinschreibung unterschieden.
+description: Aspose.Svg.Collections.DOMTokenList klas. Die Klasse DOMTokenList repräsentiert einen Satz von durch Leerzeichen getrennten Token. Es wird wie bei JavaScriptArrayObjekten beginnend mit 0 indiziert. Bei DOMTokenList wird immer zwischen Groß und Kleinschreibung unterschieden.
 type: docs
 weight: 10
 url: /de/net/aspose.svg.collections/domtokenlist/
@@ -18,28 +18,28 @@ public class DOMTokenList : DOMObject, IEnumerable<string>
 
 | Name | Beschreibung |
 | --- | --- |
-| [Item](../../aspose.svg.collections/domtokenlist/item) { get; } | Gibt das Element in der Liste nach seinem Index zurück oder null, wenn der Index größer oder gleich der Länge der Liste ist. |
-| [Length](../../aspose.svg.collections/domtokenlist/length) { get; } | Gibt ein ulong zurück, das die Anzahl der in dieser Liste gespeicherten Token darstellt. |
-| [Value](../../aspose.svg.collections/domtokenlist/value) { get; set; } | Ruft den Wert eines entsprechenden Attributs ab oder setzt ihn. |
+| [Item](../../aspose.svg.collections/domtokenlist/item/) { get; } | Gibt das Element in der Liste nach seinem Index zurück oder null, wenn der Index größer oder gleich der Länge der Liste ist. |
+| [Length](../../aspose.svg.collections/domtokenlist/length/) { get; } | Gibt ein ulong zurück, das die Anzahl der in dieser Liste gespeicherten Token darstellt. |
+| [Value](../../aspose.svg.collections/domtokenlist/value/) { get; set; } | Ruft den Wert eines entsprechenden Attributs ab oder setzt ihn. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Add](../../aspose.svg.collections/domtokenlist/add)(params string[]) | Fügt die angegebenen Token der Liste hinzu. |
-| [Contains](../../aspose.svg.collections/domtokenlist/contains)(string) | Gibt wahr zurück, wenn die Liste das angegebene Token enthält, andernfalls falsch. |
-| [GetEnumerator](../../aspose.svg.collections/domtokenlist/getenumerator)() | Gibt einen Enumerator zurück, der die Sammlung durchläuft. |
-| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
-| [Remove](../../aspose.svg.collections/domtokenlist/remove)(params string[]) | Entfernt die angegebenen Token aus der Liste. |
-| [Replace](../../aspose.svg.collections/domtokenlist/replace)(string, string) | Ersetzt einen vorhandenen Token durch einen neuen Token. Tut nichts, wenn das erste Token nicht existiert. |
-| [Supports](../../aspose.svg.collections/domtokenlist/supports)(string) | Gibt „true“ zurück, wenn ein gegebenes Token in den unterstützten Token des zugeordneten Attributs enthalten ist. |
-| [Toggle](../../aspose.svg.collections/domtokenlist/toggle#toggle)(string) | Entfernt das Token aus der Liste, falls vorhanden, oder fügt das Token zur Liste hinzu, falls nicht vorhanden. |
-| [Toggle](../../aspose.svg.collections/domtokenlist/toggle#toggle_1)(string, bool?) | Entfernt das Token aus der Liste, falls vorhanden, oder fügt das Token zur Liste hinzu, falls nicht vorhanden. |
+| [Add](../../aspose.svg.collections/domtokenlist/add/)(params string[]) | Fügt die angegebenen Token der Liste hinzu. |
+| [Contains](../../aspose.svg.collections/domtokenlist/contains/)(string) | Gibt wahr zurück, wenn die Liste das angegebene Token enthält, andernfalls falsch. |
+| [GetEnumerator](../../aspose.svg.collections/domtokenlist/getenumerator/)() | Gibt einen Enumerator zurück, der die Sammlung durchläuft. |
+| virtual [GetPlatformType](../../aspose.svg.dom/domobject/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
+| [Remove](../../aspose.svg.collections/domtokenlist/remove/)(params string[]) | Entfernt die angegebenen Token aus der Liste. |
+| [Replace](../../aspose.svg.collections/domtokenlist/replace/)(string, string) | Ersetzt einen vorhandenen Token durch einen neuen Token. Tut nichts, wenn das erste Token nicht existiert. |
+| [Supports](../../aspose.svg.collections/domtokenlist/supports/)(string) | Gibt „true“ zurück, wenn ein gegebenes Token in den unterstützten Token des zugeordneten Attributs enthalten ist. |
+| [Toggle](../../aspose.svg.collections/domtokenlist/toggle/#toggle)(string) | Entfernt das Token aus der Liste, falls vorhanden, oder fügt das Token zur Liste hinzu, falls nicht vorhanden. |
+| [Toggle](../../aspose.svg.collections/domtokenlist/toggle/#toggle_1)(string, bool?) | Entfernt das Token aus der Liste, falls vorhanden, oder fügt das Token zur Liste hinzu, falls nicht vorhanden. |
 
 ### Siehe auch
 
-* class [DOMObject](../../aspose.svg.dom/domobject)
-* namensraum [Aspose.Svg.Collections](../../aspose.svg.collections)
+* class [DOMObject](../../aspose.svg.dom/domobject/)
+* namensraum [Aspose.Svg.Collections](../../aspose.svg.collections/)
 * Montage [Aspose.SVG](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.SVG.dll -->
+
