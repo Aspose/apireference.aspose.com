@@ -30,6 +30,7 @@ public class GlobalPageSettings
 | [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize) | The size of the text font |
 | [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle) | The style of the text |
 | [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | Full paths to the images used in generation |
+| [LongWordHandling](../../aspose.omr.generation/globalpagesettings/longwordhandling) | Describes behaviour for all cases of a single word dimensions overflowing parent. |
 | [Orientation](../../aspose.omr.generation/globalpagesettings/orientation) | Orientation of the page |
 | [Overflow](../../aspose.omr.generation/globalpagesettings/overflow) | Set overflow action for each element on this page. OverflowAction control parent-child relations when child element size overflows allocated parent element size. |
 | [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | Left margin of the page on pixels |

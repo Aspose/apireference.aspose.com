@@ -3,7 +3,7 @@ title: AnswerSheetConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents AnswerSheet element. It allows adding choice boxes grouped in columns and rows. Use the answer sheet if you want to fit a lot of questions on a page since they are located close to each other.
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.omr.generation.config.elements/answersheetconfig/
 ---
 ## AnswerSheetConfig class

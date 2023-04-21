@@ -3,7 +3,7 @@ title: WritingSystem
 second_title: Aspose.OMR for .NET API Reference
 description: Preset of template generation settings. Include directionality LeftToRight or RightToLeft and digits usage
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.omr.generation/globalpagesettings/writingsystem/
 ---
 ## GlobalPageSettings.WritingSystem field

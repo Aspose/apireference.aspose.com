@@ -3,7 +3,7 @@ title: GridConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represent table of bubbles. Question identifier and multiple answers to choose Line of answers can be horizontal or vertical
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.omr.generation.config.elements/gridconfig/
 ---
 ## GridConfig class

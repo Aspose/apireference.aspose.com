@@ -3,7 +3,7 @@ title: TableHeaderConfig
 second_title: Aspose.OMR for .NET API Reference
 description: Represents TableHeader element
 type: docs
-weight: 600
+weight: 610
 url: /net/aspose.omr.generation.config.elements.table/tableheaderconfig/
 ---
 ## TableHeaderConfig class

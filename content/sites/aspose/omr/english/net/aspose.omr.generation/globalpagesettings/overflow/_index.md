@@ -3,7 +3,7 @@ title: Overflow
 second_title: Aspose.OMR for .NET API Reference
 description: Set overflow action for each element on this page. OverflowAction control parent-child relations when child element size overflows allocated parent element size.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.omr.generation/globalpagesettings/overflow/
 ---
 ## GlobalPageSettings.Overflow field
