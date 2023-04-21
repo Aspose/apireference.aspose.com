@@ -3,7 +3,7 @@ title: JobName
 second_title: Aspose.Page for .NET API Reference
 description: Specifies a descriptive name for the job. https//docs.microsoft.com/enus/windows/win32/printdocs/jobname
 type: docs
-weight: 1390
+weight: 1400
 url: /net/aspose.page.xps.xpsmetadata/jobname/
 ---
 ## JobName class

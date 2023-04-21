@@ -3,7 +3,7 @@ title: DocumentBinding
 second_title: Aspose.Page for .NET API Reference
 description: Describes the method of binding. Each document is bound separately. DocumentBinding and JobBindAllDocuments are mutually exclusive. It is up to the driver to determine constraint handling between keywords. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbinding
 type: docs
-weight: 560
+weight: 570
 url: /net/aspose.page.xps.xpsmetadata/documentbinding/
 ---
 ## DocumentBinding class

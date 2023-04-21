@@ -3,7 +3,7 @@ title: PageConstants
 second_title: Aspose.Page for Java API Reference
 description: This class defines a set of constants which describe a page.
 type: docs
-weight: 12
+weight: 13
 url: /java/com.aspose.eps/pageconstants/
 ---
 **Inheritance:**

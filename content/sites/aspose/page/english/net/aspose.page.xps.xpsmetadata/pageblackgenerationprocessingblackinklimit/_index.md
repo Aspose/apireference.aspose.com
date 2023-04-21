@@ -3,7 +3,7 @@ title: PageBlackGenerationProcessingBlackInkLimit
 second_title: Aspose.Page for .NET API Reference
 description: Application content labeled with the specified named color MUST appear on all color separations. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingblackinklimit
 type: docs
-weight: 1730
+weight: 1740
 url: /net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingblackinklimit/
 ---
 ## PageBlackGenerationProcessingBlackInkLimit class

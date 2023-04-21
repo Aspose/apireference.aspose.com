@@ -3,7 +3,7 @@ title: PageOutputQuality
 second_title: Aspose.Page for .NET API Reference
 description: Describes the negative setting of the output. https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputquality
 type: docs
-weight: 2370
+weight: 2380
 url: /net/aspose.page.xps.xpsmetadata/pageoutputquality/
 ---
 ## PageOutputQuality class

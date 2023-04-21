@@ -3,7 +3,7 @@ title: DocumentBannerSheetSource
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the source for a custom banner sheet. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheetsource
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.page.xps.xpsmetadata/documentbannersheetsource/
 ---
 ## DocumentBannerSheetSource class

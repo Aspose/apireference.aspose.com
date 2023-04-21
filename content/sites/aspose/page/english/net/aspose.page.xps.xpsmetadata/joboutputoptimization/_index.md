@@ -3,7 +3,7 @@ title: JobOutputOptimization
 second_title: Aspose.Page for .NET API Reference
 description: Describes the job processing intended to optimize the output for particular use scenarios as indicated by the option specified. https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputoptimization
 type: docs
-weight: 1430
+weight: 1440
 url: /net/aspose.page.xps.xpsmetadata/joboutputoptimization/
 ---
 ## JobOutputOptimization class

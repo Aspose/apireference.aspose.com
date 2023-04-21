@@ -3,7 +3,7 @@ title: Draw
 second_title: Aspose.Page for .NET API Reference
 description: Draw an arbitrary path.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument.Draw method

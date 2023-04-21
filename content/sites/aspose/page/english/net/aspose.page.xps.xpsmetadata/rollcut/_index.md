@@ -3,7 +3,7 @@ title: RollCut
 second_title: Aspose.Page for .NET API Reference
 description: The base class for JobRollCutAtEndOfJob./jobrollcutatendofjob and DocumentRollCut./documentrollcut features classes.
 type: docs
-weight: 2830
+weight: 2840
 url: /net/aspose.page.xps.xpsmetadata/rollcut/
 ---
 ## RollCut class

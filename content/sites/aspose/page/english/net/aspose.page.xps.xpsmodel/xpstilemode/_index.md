@@ -3,7 +3,7 @@ title: XpsTileMode
 second_title: Aspose.Page for .NET API Reference
 description: Valid values of tiling brushes TileMode property.
 type: docs
-weight: 3390
+weight: 3400
 url: /net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

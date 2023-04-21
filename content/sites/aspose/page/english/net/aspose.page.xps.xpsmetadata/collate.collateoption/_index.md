@@ -3,7 +3,7 @@ title: Collate.CollateOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the DocumentCollate./documentcollate and JobCollateAllDocuments./jobcollatealldocuments features options.
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.page.xps.xpsmetadata/collate.collateoption/
 ---
 ## Collate.CollateOption class

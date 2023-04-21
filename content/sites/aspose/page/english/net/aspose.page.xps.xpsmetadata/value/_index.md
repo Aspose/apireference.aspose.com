@@ -3,7 +3,7 @@ title: Value
 second_title: Aspose.Page for .NET API Reference
 description: The base class that incapsulates a Property./property or a ScoredProperty./scoredproperty value in a PrintTicket document. A Value element associates a literal with a type. https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 2930
+weight: 2940
 url: /net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class

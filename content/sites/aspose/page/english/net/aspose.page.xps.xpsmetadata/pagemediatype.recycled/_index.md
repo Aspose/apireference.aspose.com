@@ -3,7 +3,7 @@ title: PageMediaType.Recycled
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 2250
+weight: 2260
 url: /net/aspose.page.xps.xpsmetadata/pagemediatype.recycled/
 ---
 ## PageMediaType.Recycled class

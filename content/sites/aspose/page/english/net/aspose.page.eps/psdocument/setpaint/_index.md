@@ -3,7 +3,7 @@ title: SetPaint
 second_title: Aspose.Page for .NET API Reference
 description: Sets paint in current graphics state.
 type: docs
-weight: 240
+weight: 260
 url: /net/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument.SetPaint method

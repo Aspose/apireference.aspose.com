@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation
 second_title: Aspose.Page for .NET API Reference
 description: The Aspose.Page.Xps.Presentation namespace provides base classes for rendering XPS document to other formats.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.page.xps.presentation/
 ---
 The **Aspose.Page.Xps.Presentation** namespace provides base classes for rendering XPS document to other formats.

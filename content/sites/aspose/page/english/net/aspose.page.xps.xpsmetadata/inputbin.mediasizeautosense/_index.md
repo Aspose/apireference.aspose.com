@@ -3,7 +3,7 @@ title: InputBin.MediaSizeAutoSense
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 1090
+weight: 1100
 url: /net/aspose.page.xps.xpsmetadata/inputbin.mediasizeautosense/
 ---
 ## InputBin.MediaSizeAutoSense class

@@ -3,7 +3,7 @@ title: PageResolution.QualitativeResolution
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 2470
+weight: 2480
 url: /net/aspose.page.xps.xpsmetadata/pageresolution.qualitativeresolution/
 ---
 ## PageResolution.QualitativeResolution class

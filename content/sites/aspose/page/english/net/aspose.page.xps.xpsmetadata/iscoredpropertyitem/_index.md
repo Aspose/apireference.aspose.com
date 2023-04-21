@@ -3,7 +3,7 @@ title: IScoredPropertyItem
 second_title: Aspose.Page for .NET API Reference
 description: The base interface for classes that may be PrintTicket ScoredProperty./scoredproperty items.
 type: docs
-weight: 990
+weight: 1000
 url: /net/aspose.page.xps.xpsmetadata/iscoredpropertyitem/
 ---
 ## IScoredPropertyItem interface

@@ -3,7 +3,7 @@ title: PsLoadOptions
 second_title: Aspose.Page for Java API Reference
 description: PS document loading options.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.aspose.eps/psloadoptions/
 ---
 **Inheritance:**

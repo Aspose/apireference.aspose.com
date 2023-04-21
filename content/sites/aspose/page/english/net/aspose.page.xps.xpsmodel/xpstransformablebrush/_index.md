@@ -3,7 +3,7 @@ title: XpsTransformableBrush
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating common features of transformable brushes elements all except SolidColorBrush.
 type: docs
-weight: 3410
+weight: 3420
 url: /net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

@@ -3,7 +3,7 @@ title: SetStroke
 second_title: Aspose.Page for .NET API Reference
 description: Sets stroke in current graphics state.
 type: docs
-weight: 250
+weight: 270
 url: /net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

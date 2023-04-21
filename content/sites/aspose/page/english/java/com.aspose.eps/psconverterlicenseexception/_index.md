@@ -3,7 +3,7 @@ title: PsConverterLicenseException
 second_title: Aspose.Page for Java API Reference
 description: This class contains information about an error connected with licensing of Aspose.Page product.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.aspose.eps/psconverterlicenseexception/
 ---
 **Inheritance:**

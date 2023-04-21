@@ -3,7 +3,7 @@ title: PageWatermark.PageWatermarkOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the PageWatermark./pagewatermark features options.
 type: docs
-weight: 2690
+weight: 2700
 url: /net/aspose.page.xps.xpsmetadata/pagewatermark.pagewatermarkoption/
 ---
 ## PageWatermark.PageWatermarkOption class

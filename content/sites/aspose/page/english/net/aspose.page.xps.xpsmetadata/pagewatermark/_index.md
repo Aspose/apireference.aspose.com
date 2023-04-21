@@ -3,7 +3,7 @@ title: PageWatermark
 second_title: Aspose.Page for .NET API Reference
 description: Describes the watermark setting of the output and the watermark characteristics. Watermarks apply to the logical page not the physical page. For example if DocumentDuplex./documentduplex is enabled a watermark will appear on each
 type: docs
-weight: 2640
+weight: 2650
 url: /net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

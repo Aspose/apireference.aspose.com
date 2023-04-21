@@ -3,7 +3,7 @@ title: PageICMRenderingIntent.PageICMRenderingIntentOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the PageICMRenderingIntent./pageicmrenderingintent feature options.
 type: docs
-weight: 2000
+weight: 2010
 url: /net/aspose.page.xps.xpsmetadata/pageicmrenderingintent.pageicmrenderingintentoption/
 ---
 ## PageICMRenderingIntent.PageICMRenderingIntentOption class

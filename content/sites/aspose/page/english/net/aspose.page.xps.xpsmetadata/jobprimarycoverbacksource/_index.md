@@ -3,7 +3,7 @@ title: JobPrimaryCoverBackSource
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the source for a custom backcover primary sheet for the job. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverbacksource
 type: docs
-weight: 1520
+weight: 1530
 url: /net/aspose.page.xps.xpsmetadata/jobprimarycoverbacksource/
 ---
 ## JobPrimaryCoverBackSource class

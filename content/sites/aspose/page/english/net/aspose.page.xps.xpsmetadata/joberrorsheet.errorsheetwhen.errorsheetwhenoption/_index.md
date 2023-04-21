@@ -3,7 +3,7 @@ title: JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the ErrorSheetWhen./joberrorsheet.errorsheetwhen feature options.
 type: docs
-weight: 1320
+weight: 1330
 url: /net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetwhen.errorsheetwhenoption/
 ---
 ## JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption class

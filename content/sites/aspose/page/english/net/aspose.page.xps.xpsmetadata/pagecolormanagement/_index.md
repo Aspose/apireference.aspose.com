@@ -3,7 +3,7 @@ title: PageColorManagement
 second_title: Aspose.Page for .NET API Reference
 description: Configures color management for the current page. This is considered automatic in SHIM  DM_ICMMethod Add System. Describes what component should perform color management i.e. Driver. https//docs.microsoft.com/enus/windows/win32/printdocs/pagecolormanagement
 type: docs
-weight: 1850
+weight: 1860
 url: /net/aspose.page.xps.xpsmetadata/pagecolormanagement/
 ---
 ## PageColorManagement class

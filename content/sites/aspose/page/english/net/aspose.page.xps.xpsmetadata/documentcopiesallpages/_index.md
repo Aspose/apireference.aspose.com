@@ -3,7 +3,7 @@ title: DocumentCopiesAllPages
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the number of copies of a document. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcopiesallpages
 type: docs
-weight: 620
+weight: 630
 url: /net/aspose.page.xps.xpsmetadata/documentcopiesallpages/
 ---
 ## DocumentCopiesAllPages class

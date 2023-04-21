@@ -3,7 +3,7 @@ title: XpsMatrix
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating MatrixTransform property element features. This element defines an arbitrary affine matrix transformation used to manipulate the coordinate systems of elements.
 type: docs
-weight: 3210
+weight: 3220
 url: /net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

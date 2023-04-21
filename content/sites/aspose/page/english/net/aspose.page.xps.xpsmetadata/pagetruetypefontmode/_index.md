@@ -3,7 +3,7 @@ title: PageTrueTypeFontMode
 second_title: Aspose.Page for .NET API Reference
 description: Describes the method of TrueType font handling to be used. https//docs.microsoft.com/enus/windows/win32/printdocs/pagetruetypefontmode
 type: docs
-weight: 2620
+weight: 2630
 url: /net/aspose.page.xps.xpsmetadata/pagetruetypefontmode/
 ---
 ## PageTrueTypeFontMode class

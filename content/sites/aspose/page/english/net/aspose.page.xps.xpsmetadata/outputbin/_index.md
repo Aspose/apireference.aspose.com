@@ -3,7 +3,7 @@ title: OutputBin
 second_title: Aspose.Page for .NET API Reference
 description: The base class for JobOutputBin./joboutputbin DocumentOutputBin./documentoutputbin and PageOutputBin./pageoutputbin features classes.
 type: docs
-weight: 1660
+weight: 1670
 url: /net/aspose.page.xps.xpsmetadata/outputbin/
 ---
 ## OutputBin class

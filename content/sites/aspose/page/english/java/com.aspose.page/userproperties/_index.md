@@ -25,6 +25,7 @@ Special property class which allows typed properties to be set and returned. It 
 | Method | Description |
 | --- | --- |
 | [propertyNames()](#propertyNames--) | Returns properties names. |
+| [printProperties()](#printProperties--) | Prints all set properties. |
 | [setProperties(Properties properties)](#setProperties-java.util.Properties-) | Copies properties, including its defaults into this UserProperties |
 | [setProperty(String key, String value)](#setProperty-java.lang.String-java.lang.String-) | Sets string property value. |
 | [setProperty(String key, String[] value)](#setProperty-java.lang.String-java.lang.String---) | Sets string array property value. |
@@ -110,6 +111,14 @@ Returns properties names.
 
 **Returns:**
 java.util.Enumeration - Enumeration of properties names.
+### printProperties() {#printProperties--}
+```
+public void printProperties()
+```
+
+
+Prints all set properties.
+
 ### setProperties(Properties properties) {#setProperties-java.util.Properties-}
 ```
 public void setProperties(Properties properties)

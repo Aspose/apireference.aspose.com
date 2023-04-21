@@ -3,7 +3,7 @@ title: JobPrimaryBannerSheetSource
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the source for a primary custom banner sheet for the job. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarybannersheetsource
 type: docs
-weight: 1490
+weight: 1500
 url: /net/aspose.page.xps.xpsmetadata/jobprimarybannersheetsource/
 ---
 ## JobPrimaryBannerSheetSource class

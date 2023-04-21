@@ -3,7 +3,7 @@ title: IPagePrintTicketItem
 second_title: Aspose.Page for .NET API Reference
 description: The interface of pageprefixed print ticket items.
 type: docs
-weight: 950
+weight: 960
 url: /net/aspose.page.xps.xpsmetadata/ipageprintticketitem/
 ---
 ## IPagePrintTicketItem interface

@@ -3,7 +3,7 @@ title: XpsLinearGradientBrush
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating LinearGradientBrush property element features. This element is used to specify a linear gradient brush along a vector.
 type: docs
-weight: 3200
+weight: 3210
 url: /net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

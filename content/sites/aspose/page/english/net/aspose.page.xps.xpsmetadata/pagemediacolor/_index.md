@@ -3,7 +3,7 @@ title: PageMediaColor
 second_title: Aspose.Page for .NET API Reference
 description: Describes the Media Color options and the characteristics of each option. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediacolor
 type: docs
-weight: 2030
+weight: 2040
 url: /net/aspose.page.xps.xpsmetadata/pagemediacolor/
 ---
 ## PageMediaColor class

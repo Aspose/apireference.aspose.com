@@ -3,7 +3,7 @@ title: JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page for .NET API Reference
 description: Describes the duplex characteristics of the output. The duplex feature allows for printing on both sides of the media. All Documents in the job are duplexed together contiguously. JobDuplexAllDocumentsContiguously./jobduplexalldocumentscontiguously and DocumentDuplex./documentduplex are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

@@ -3,7 +3,7 @@ title: JpegSaveOptions
 second_title: Aspose.Page for .NET API Reference
 description: Class for XPSasJPEG saving options.
 type: docs
-weight: 370
+weight: 380
 url: /net/aspose.page.xps.presentation.image/jpegsaveoptions/
 ---
 ## JpegSaveOptions class

@@ -3,7 +3,7 @@ title: PsConverterException
 second_title: Aspose.Page for Java API Reference
 description: This class contains information about an error that is thrown while PS file is converted to PDF document.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.eps/psconverterexception/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: PagePrintTicket
 second_title: Aspose.Page for .NET API Reference
 description: The class that incapsulates a pagelevel print ticket.
 type: docs
-weight: 2420
+weight: 2430
 url: /net/aspose.page.xps.xpsmetadata/pageprintticket/
 ---
 ## PagePrintTicket class

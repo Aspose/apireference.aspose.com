@@ -3,7 +3,7 @@ title: DocumentOutputBin
 second_title: Aspose.Page for .NET API Reference
 description: Describes the full list of supported bins for the device. Allows specification of output bin on a per document basis. The JobOutputBin./joboutputbin DocumentOutputBin./documentoutputbin and PageOutputBin./pageoutputbin keywords are mutually exclusive only one should be specified in a PrintTicket or Print Capabilities document. https//docs.microsoft.com/enus/windows/win32/printdocs/documentoutputbin
 type: docs
-weight: 760
+weight: 770
 url: /net/aspose.page.xps.xpsmetadata/documentoutputbin/
 ---
 ## DocumentOutputBin class

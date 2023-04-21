@@ -3,7 +3,7 @@ title: XpsPath
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating Path element features. This element is the sole means of adding vector graphics and images to a fixed page. It defines a single vector graphic to be rendered on a page.
 type: docs
-weight: 3250
+weight: 3260
 url: /net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

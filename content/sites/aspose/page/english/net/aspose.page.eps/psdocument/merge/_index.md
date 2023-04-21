@@ -3,7 +3,7 @@ title: Merge
 second_title: Aspose.Page for .NET API Reference
 description: Merges PS/EPS files to a device.
 type: docs
-weight: 160
+weight: 180
 url: /net/aspose.page.eps/psdocument/merge/
 ---
 ## PsDocument.Merge method

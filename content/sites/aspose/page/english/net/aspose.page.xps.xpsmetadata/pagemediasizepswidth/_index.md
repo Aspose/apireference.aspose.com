@@ -3,7 +3,7 @@ title: PageMediaSizePSWidth
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the width of the page perpendicular to the feedorientation direction. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepswidth
 type: docs
-weight: 2140
+weight: 2150
 url: /net/aspose.page.xps.xpsmetadata/pagemediasizepswidth/
 ---
 ## PageMediaSizePSWidth class

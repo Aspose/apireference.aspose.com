@@ -3,7 +3,7 @@ title: SetPageDevice
 second_title: Aspose.Page for .NET API Reference
 description: Sets page device parameters see operator setpagedevice PostScript spesification. Among these can be page size and color etc.
 type: docs
-weight: 220
+weight: 240
 url: /net/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument.SetPageDevice method

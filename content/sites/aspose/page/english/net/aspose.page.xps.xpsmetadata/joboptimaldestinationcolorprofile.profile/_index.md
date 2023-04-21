@@ -3,7 +3,7 @@ title: JobOptimalDestinationColorProfile.Profile
 second_title: Aspose.Page for .NET API Reference
 description: Describes available color profiles.
 type: docs
-weight: 1410
+weight: 1420
 url: /net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile.profile/
 ---
 ## JobOptimalDestinationColorProfile.Profile class

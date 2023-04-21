@@ -3,7 +3,7 @@ title: GetPaint
 second_title: Aspose.Page for .NET API Reference
 description: Gets paint of current graphics state.
 type: docs
-weight: 130
+weight: 150
 url: /net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method

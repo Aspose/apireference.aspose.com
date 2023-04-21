@@ -3,16 +3,15 @@ title: FillAndStrokeText
 second_title: Aspose.Page for .NET API Reference
 description: Adds a text string by filling interrior of glyphs and drawing glyphs contours.
 type: docs
-weight: 110
+weight: 130
 url: /net/aspose.page.eps/psdocument/fillandstroketext/
 ---
-## FillAndStrokeText(string, Font, float, float, Brush, Brush, Pen) {#fillandstroketext_1}
+## FillAndStrokeText(string, Font, float, float, Brush, Pen) {#fillandstroketext_3}
 
 Adds a text string by filling interrior of glyphs and drawing glyphs contours.
 
 ```csharp
-public void FillAndStrokeText(string text, Font font, float x, float y, Brush fillPaint, 
-    Brush strokePaint, Pen stroke)
+public void FillAndStrokeText(string text, Font font, float x, float y, Brush fillPaint, Pen stroke)
 ```
 
 | Parameter | Type | Description |
@@ -22,7 +21,6 @@ public void FillAndStrokeText(string text, Font font, float x, float y, Brush fi
 | x | Single | X coordinate for text origin. |
 | y | Single | Y coordinate for text origin. |
 | fillPaint | Brush | The fill used for painting glyphs interior. |
-| strokePaint | Brush | The Brush used for painting glyphs contours. Can be any subclass of Brush class in .NET platform. |
 | stroke | Pen | The stroke used for drawing glyphs contours. |
 
 ### See Also
@@ -33,13 +31,13 @@ public void FillAndStrokeText(string text, Font font, float x, float y, Brush fi
 
 ---
 
-## FillAndStrokeText(string, float[], Font, float, float, Brush, Brush, Pen) {#fillandstroketext}
+## FillAndStrokeText(string, float[], Font, float, float, Brush, Pen) {#fillandstroketext_2}
 
 Adds a text string by filling interrior of glyphs and drawing glyphs contours.
 
 ```csharp
 public void FillAndStrokeText(string text, float[] advances, Font font, float x, float y, 
-    Brush fillPaint, Brush strokePaint, Pen stroke)
+    Brush fillPaint, Pen stroke)
 ```
 
 | Parameter | Type | Description |
@@ -50,11 +48,65 @@ public void FillAndStrokeText(string text, float[] advances, Font font, float x,
 | x | Single | X coordinate for text origin. |
 | y | Single | Y coordinate for text origin. |
 | fillPaint | Brush | The fill used for painting glyphs interior. |
-| strokePaint | Brush | The Brush used for painting glyphs contours. Can be any subclass of Brush class in .NET platform. |
 | stroke | Pen | The stroke used for drawing glyphs contours. |
 
 ### See Also
 
+* class [PsDocument](../../psdocument)
+* namespace [Aspose.Page.EPS](../../psdocument)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## FillAndStrokeText(string, DrFont, float, float, Brush, Pen) {#fillandstroketext}
+
+Adds a text string by filling interrior of glyphs and drawing glyphs contours.
+
+```csharp
+public void FillAndStrokeText(string text, DrFont drFont, float x, float y, Brush fillPaint, 
+    Pen stroke)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String | The text to add. |
+| drFont | DrFont | DrFont that will be used to draw text. It can be used with custom font that is located in custom folder. |
+| x | Single | X coordinate for text origin. |
+| y | Single | Y coordinate for text origin. |
+| fillPaint | Brush | The fill used for painting glyphs interior. |
+| stroke | Pen | The stroke used for drawing glyphs contours. |
+
+### See Also
+
+* class [DrFont](../../../aspose.page.font/drfont)
+* class [PsDocument](../../psdocument)
+* namespace [Aspose.Page.EPS](../../psdocument)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## FillAndStrokeText(string, float[], DrFont, float, float, Brush, Pen) {#fillandstroketext_1}
+
+Adds a text string by filling interrior of glyphs and drawing glyphs contours.
+
+```csharp
+public void FillAndStrokeText(string text, float[] advances, DrFont drFont, float x, float y, 
+    Brush fillPaint, Pen stroke)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String | The text to add. |
+| advances | Single[] | An array of glyphs width. It's length must comply with the number of glyphs in the string. |
+| drFont | DrFont | DrFont that will be used to draw text. It can be used with custom font that is located in custom folder. |
+| x | Single | X coordinate for text origin. |
+| y | Single | Y coordinate for text origin. |
+| fillPaint | Brush | The fill used for painting glyphs interior. |
+| stroke | Pen | The stroke used for drawing glyphs contours. |
+
+### See Also
+
+* class [DrFont](../../../aspose.page.font/drfont)
 * class [PsDocument](../../psdocument)
 * namespace [Aspose.Page.EPS](../../psdocument)
 * assembly [Aspose.Page](../../../)

@@ -3,7 +3,7 @@ title: PageMediaType.IPageMediaTypeItem
 second_title: Aspose.Page for .NET API Reference
 description: The interface of any PageMediaType./pagemediatype feature item.
 type: docs
-weight: 2190
+weight: 2200
 url: /net/aspose.page.xps.xpsmetadata/pagemediatype.ipagemediatypeitem/
 ---
 ## PageMediaType.IPageMediaTypeItem interface

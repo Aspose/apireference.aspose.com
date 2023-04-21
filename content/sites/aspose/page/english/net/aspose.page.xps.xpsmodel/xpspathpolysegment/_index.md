@@ -3,7 +3,7 @@ title: XpsPathPolySegment
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating common features of PolyLineSegment PolyBézierSegment and PolyQuadraticBézierSegment elements.
 type: docs
-weight: 3280
+weight: 3290
 url: /net/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class

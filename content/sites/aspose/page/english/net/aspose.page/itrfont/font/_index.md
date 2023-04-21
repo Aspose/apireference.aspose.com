@@ -11,7 +11,7 @@ url: /net/aspose.page/itrfont/font/
 Returns DrFont corresponding to this font.
 
 ```csharp
-public #=z1XtgjdP7_NjPPOoBkY6E2XnKPVHH Font { get; }
+public #=z64$qu8hhrIbpju9X7LjRm6eM5SZe Font { get; }
 ```
 
 ### See Also

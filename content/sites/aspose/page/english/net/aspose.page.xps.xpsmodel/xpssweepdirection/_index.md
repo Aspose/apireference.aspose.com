@@ -3,7 +3,7 @@ title: XpsSweepDirection
 second_title: Aspose.Page for .NET API Reference
 description: Valid values of ArcSegment elements SweepDirection property.
 type: docs
-weight: 3380
+weight: 3390
 url: /net/aspose.page.xps.xpsmodel/xpssweepdirection/
 ---
 ## XpsSweepDirection enumeration

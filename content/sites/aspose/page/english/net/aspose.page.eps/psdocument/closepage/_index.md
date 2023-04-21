@@ -3,7 +3,7 @@ title: ClosePage
 second_title: Aspose.Page for .NET API Reference
 description: Complete current page.
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.page.eps/psdocument/closepage/
 ---
 ## PsDocument.ClosePage method

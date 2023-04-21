@@ -3,7 +3,7 @@ title: Option
 second_title: Aspose.Page for .NET API Reference
 description: The class that implements a common PrintTicket
 type: docs
-weight: 1650
+weight: 1660
 url: /net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

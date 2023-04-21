@@ -3,7 +3,7 @@ title: PageBlackGenerationProcessingUnderColorAdditionLevel
 second_title: Aspose.Page for .NET API Reference
 description: Describes the amount chromatic ink in gray component ratios to add to areas where GCR/UCR has generated BlackInkLimit or UCAStart if specified in the dark neutrals and nearneutral areas. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingundercoloradditionlevel
 type: docs
-weight: 1780
+weight: 1790
 url: /net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionlevel/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionLevel class

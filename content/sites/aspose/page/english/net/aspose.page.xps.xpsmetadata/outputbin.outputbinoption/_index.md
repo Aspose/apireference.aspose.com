@@ -3,7 +3,7 @@ title: OutputBin.OutputBinOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the JobOutputBin./joboutputbin DocumentOutputBin./documentoutputbin and PageOutputBin./pageoutputbin features options.
 type: docs
-weight: 1700
+weight: 1710
 url: /net/aspose.page.xps.xpsmetadata/outputbin.outputbinoption/
 ---
 ## OutputBin.OutputBinOption class

@@ -3,7 +3,7 @@ title: PageMediaSizeMediaSizeWidth
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the dimension
 type: docs
-weight: 2100
+weight: 2110
 url: /net/aspose.page.xps.xpsmetadata/pagemediasizemediasizewidth/
 ---
 ## PageMediaSizeMediaSizeWidth class

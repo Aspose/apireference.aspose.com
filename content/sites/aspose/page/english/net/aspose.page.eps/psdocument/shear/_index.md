@@ -3,7 +3,7 @@ title: Shear
 second_title: Aspose.Page for .NET API Reference
 description: Adds shear transformation to current graphics state shear current matrix.
 type: docs
-weight: 260
+weight: 290
 url: /net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

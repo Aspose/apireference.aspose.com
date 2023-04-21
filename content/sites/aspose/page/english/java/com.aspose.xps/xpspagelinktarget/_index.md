@@ -18,6 +18,11 @@ Class incapsulating the page hyperlink target.
 | Constructor | Description |
 | --- | --- |
 | [XpsPageLinkTarget(int targetPageNumber)](#XpsPageLinkTarget-int-) | Creates the new instance. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [getTargetPageNumber()](#getTargetPageNumber--) | Gets the page number that the parent XPS element refers to. |
 ### XpsPageLinkTarget(int targetPageNumber) {#XpsPageLinkTarget-int-}
 ```
 public XpsPageLinkTarget(int targetPageNumber)
@@ -31,3 +36,13 @@ Creates the new instance.
 | --- | --- | --- |
 | targetPageNumber | int | The absolute page number within the whole XPS document (fixed document sequence). |
 
+### getTargetPageNumber() {#getTargetPageNumber--}
+```
+public int getTargetPageNumber()
+```
+
+
+Gets the page number that the parent XPS element refers to.
+
+**Returns:**
+int - The page number that the parent XPS element refers to.
