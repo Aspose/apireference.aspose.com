@@ -3,7 +3,7 @@ title: Orientation
 second_title: Aspose.OMR for .NET API Reference
 description: Orientation of the page
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.omr.generation/globalpagesettings/orientation/
 ---
 ## GlobalPageSettings.Orientation field

@@ -22,6 +22,7 @@ The **Aspose.OMR.Generation.Config.Enums** contains enumerations required to gen
 | [ContentType](./contenttype) | Type of content display |
 | [Directionality](./directionality) | Direction of drawing elements and text. |
 | [GridHeaderTypeEnum](./gridheadertypeenum) | The type of grid header |
+| [LongWordHandling](./longwordhandling) | Describes behaviour of template generation when encounter a word which dimensions a bigger than parent container. In this case word cannot be properly displayed inside parent container and cannot be wrapped. |
 | [ParagraphTypeEnum](./paragraphtypeenum) | Type of [`ParagraphConfig`](../aspose.omr.generation.config.elements.parents/paragraphconfig) |
 | [QRVersion](./qrversion) | Type of QR that will be used for [`BarcodeConfig`](../aspose.omr.generation.config.elements/barcodeconfig) Responsible for maximum amount of bytes encoded by QR. If unsure - use Auto. Library will select appropriate size automatically |
 | [ScoreDisplay](./scoredisplay) | Control displaying of score value. |

@@ -3,7 +3,7 @@ title: PaperSize
 second_title: Aspose.OMR for .NET API Reference
 description: Paper size
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.omr.generation/globalpagesettings/papersize/
 ---
 ## GlobalPageSettings.PaperSize field
