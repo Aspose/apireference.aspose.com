@@ -15,6 +15,8 @@ The **Aspose.OCR** contains tools for image recognition, skew correction, text a
 | [AsposeOcr](./asposeocr) | Main API for Aspose OCR library |
 | [BaseRecognitionSettings](./baserecognitionsettings) | Settings for the image recognition. Contains elements that allow customizing the recognition process. |
 | [CarPlateRecognitionSettings](./carplaterecognitionsettings) | Settings for the car number recognition. Contains elements that allow customizing the recognition process. |
+| [Character](./character) | Data about detected character. |
+| [CharacterRecognitionResult](./characterrecognitionresult) | Pages with detected characters data. |
 | [IDCardRecognitionSettings](./idcardrecognitionsettings) | Settings for the ID Card recognition. Contains elements that allow customizing the recognition process. |
 | [ImageData](./imagedata) | Information about processed / recognized image. |
 | [ImageProcessing](./imageprocessing) | Helper class for Aspose OCR library. Allows to preprocess and save images. |
