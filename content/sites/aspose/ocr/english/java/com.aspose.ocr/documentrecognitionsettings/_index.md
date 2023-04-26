@@ -3,7 +3,7 @@ title: DocumentRecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the pdf recognition.
 type: docs
-weight: 12
+weight: 14
 url: /java/com.aspose.ocr/documentrecognitionsettings/
 ---
 

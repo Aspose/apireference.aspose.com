@@ -3,7 +3,7 @@ title: Language
 second_title: Aspose.OCR for Java API Reference
 description: 
 type: docs
-weight: 33
+weight: 35
 url: /java/com.aspose.ocr/language/
 ---
 

@@ -1,24 +1,24 @@
 ---
-title: SkewOutput
+title: CharacterRecognitionResult
 second_title: Aspose.OCR for Java API Reference
-description: Data about skew angle in degrees and name of the file.
+description: Pages with detected characters data.
 type: docs
-weight: 28
-url: /java/com.aspose.ocr/skewoutput/
+weight: 13
+url: /java/com.aspose.ocr/characterrecognitionresult/
 ---
 
 **Inheritance:**
 java.lang.Object
 ```
-public class SkewOutput
+public class CharacterRecognitionResult
 ```
 
-Data about skew angle in degrees and name of the file.
+Pages with detected characters data.
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [SkewOutput()](#SkewOutput--) |  |
+| [CharacterRecognitionResult()](#CharacterRecognitionResult--) |  |
 ## Fields
 
 | Field | Description |
@@ -26,10 +26,10 @@ Data about skew angle in degrees and name of the file.
 | [Source](#Source) | The full path to the file or URL, if any. |
 | [Page](#Page) | Page number. |
 | [ImageIndex](#ImageIndex) | Sequence number of the image on the page. |
-| [Angle](#Angle) | Skew angle in degrees. |
-### SkewOutput() {#SkewOutput--}
+| [Characters](#Characters) | Data about detected characters on the page. |
+### CharacterRecognitionResult() {#CharacterRecognitionResult--}
 ```
-public SkewOutput()
+public CharacterRecognitionResult()
 ```
 
 
@@ -57,11 +57,11 @@ public int ImageIndex
 
 Sequence number of the image on the page.
 
-### Angle {#Angle}
+### Characters {#Characters}
 ```
-public double Angle
+public ArrayList<Character> Characters
 ```
 
 
-Skew angle in degrees.
+Data about detected characters on the page.
 

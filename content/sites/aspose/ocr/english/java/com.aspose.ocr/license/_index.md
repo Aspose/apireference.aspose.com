@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.OCR for Java API Reference
 description: License class for set and check license.
 type: docs
-weight: 17
+weight: 19
 url: /java/com.aspose.ocr/license/
 ---
 
