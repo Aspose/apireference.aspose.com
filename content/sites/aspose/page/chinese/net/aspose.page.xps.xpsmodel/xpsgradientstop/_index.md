@@ -3,7 +3,7 @@ title: Class XpsGradientStop
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsGradientStop 班级. 封装 GradientStop 元素特性的类 LinearGradientBrush 和 RadialGradientBrush 元素使用此元素来定义 渲染渐变的颜色渐变的位置和范围
 type: docs
-weight: 3110
+weight: 3120
 url: /zh/net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class

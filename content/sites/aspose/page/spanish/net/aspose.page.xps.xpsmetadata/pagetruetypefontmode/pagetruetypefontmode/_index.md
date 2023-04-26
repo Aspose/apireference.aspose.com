@@ -16,7 +16,7 @@ public PageTrueTypeFontMode(params PageTrueTypeFontModeOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageTrueTypeFontModeOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageTrueTypeFontModeOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

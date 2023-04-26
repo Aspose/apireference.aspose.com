@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet kelas. Menjelaskan lembar spanduk yang akan ditampilkan untuk dokumen tertentu. Lembar spanduk harus ditampilkan pada default PageMediaSize dan menggunakan defaultPageMediaType . Lembar spanduk harus juga diisolasi dari sisa pekerjaan. Ini berarti bahwa opsi penyelesaian atau pemrosesan apa pun seperti DocumentDuplex DocumentStaple  atauDocumentBinding tidak boleh menyertakan lembar spanduk. Lembar spanduk mungkin atau mungkin tidak diisolasi dari sisa pekerjaan. Ini berarti bahwa opsi penyelesaian atau pemrosesan pekerjaan apa pun dapat menyertakan lembar spanduk dokumen. Lembar spanduk harus muncul sebagai lembar pertama dokumen. https //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 530
+weight: 540
 url: /id/net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class

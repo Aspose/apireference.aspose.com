@@ -3,7 +3,7 @@ title: Class DocumentCoverBackSource
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBackSource クラス. カスタム裏表紙のソースを指定します https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverbacksource
 type: docs
-weight: 650
+weight: 660
 url: /ja/net/aspose.page.xps.xpsmetadata/documentcoverbacksource/
 ---
 ## DocumentCoverBackSource class

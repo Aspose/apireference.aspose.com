@@ -3,7 +3,7 @@ title: Class XpsPolyBezierSegment
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsPolyBezierSegment clase. Clase que encapsula las características del elemento PolyBezierSegment. Este elemento describe un conjunto de curvas Bézier cúbicas.
 type: docs
-weight: 3300
+weight: 3310
 url: /es/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class

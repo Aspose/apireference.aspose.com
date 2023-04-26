@@ -3,7 +3,7 @@ title: Class PageMediaType.FrontCoating
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeFrontCoating classe. Definisce le costanti per il valore della proprietà con punteggio.
 type: docs
-weight: 2180
+weight: 2190
 url: /it/net/aspose.page.xps.xpsmetadata/pagemediatype.frontcoating/
 ---
 ## PageMediaType.FrontCoating class

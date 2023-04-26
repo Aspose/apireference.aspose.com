@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceProfileURI
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceProfileURI クラス. XPS ドキュメントに含まれる ICC プロファイルへのパッケージ ルートへの相対 URI を指定します このオプションの処理はPageDeviceColorSpaceUsage 機能の設定によって異なります そのプロファイルを使用するすべての要素は既に適切なデバイス カラーであると見なされますスペース でありドライバーまたはデバイスで色が管理されません.
 type: docs
-weight: 1920
+weight: 1930
 url: /ja/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceprofileuri/
 ---
 ## PageDeviceColorSpaceProfileURI class

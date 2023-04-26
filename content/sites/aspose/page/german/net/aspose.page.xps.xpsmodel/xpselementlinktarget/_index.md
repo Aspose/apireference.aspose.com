@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget klas. Klasse die das HyperlinkZiel für relative benannte Adressen kapselt.
 type: docs
-weight: 3040
+weight: 3050
 url: /de/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

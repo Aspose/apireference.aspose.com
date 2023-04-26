@@ -3,7 +3,7 @@ title: Class XpsHyperlinkElement
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkElement فصل. يتضمن الميزات المشتركة لعناصر XPS التي يمكن أن تكون ارتباطًا تشعبيًا.
 type: docs
-weight: 3120
+weight: 3130
 url: /ar/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

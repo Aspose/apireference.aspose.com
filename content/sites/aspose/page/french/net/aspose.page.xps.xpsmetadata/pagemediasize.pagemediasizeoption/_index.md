@@ -3,7 +3,7 @@ title: Class PageMediaSize.PageMediaSizeOption
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePageMediaSizeOption classe. Décrit lePageMediaSize options de fonctionnalité.
 type: docs
-weight: 2080
+weight: 2090
 url: /fr/net/aspose.page.xps.xpsmetadata/pagemediasize.pagemediasizeoption/
 ---
 ## PageMediaSize.PageMediaSizeOption class
@@ -49,13 +49,13 @@ public sealed class PageMediaSizeOption : Option
 | static [ISOA10](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa10/) | ISOA10 |
 | static [ISOA2](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa2/) | ISOA2 |
 | static [ISOA3](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa3/) | ISOA3 |
-| static [ISOA3Extra](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa3extra/) | ISOA3 extra |
+| static [ISOA3Extra](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa3extra/) | ISOA3 supplémentaire |
 | static [ISOA3Rotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa3rotated/) | ISOA3 tourné |
 | static [ISOA4](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa4/) | ISOA4 |
 | static [ISOA4Extra](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa4extra/) | ISOA4 supplémentaire |
 | static [ISOA4Rotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa4rotated/) | ISOA4 tourné |
 | static [ISOA5](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa5/) | ISOA5 |
-| static [ISOA5Extra](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa5extra/) | ISOA5 supplémentaire |
+| static [ISOA5Extra](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa5extra/) | ISOA5 extra |
 | static [ISOA5Rotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa5rotated/) | ISOA5 tourné |
 | static [ISOA6](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa6/) | ISOA6 |
 | static [ISOA6Rotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/isoa6rotated/) | ISOA6 tourné |

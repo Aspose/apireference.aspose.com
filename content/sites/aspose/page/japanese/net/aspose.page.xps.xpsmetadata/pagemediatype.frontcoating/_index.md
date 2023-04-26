@@ -3,7 +3,7 @@ title: Class PageMediaType.FrontCoating
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeFrontCoating クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 2180
+weight: 2190
 url: /ja/net/aspose.page.xps.xpsmetadata/pagemediatype.frontcoating/
 ---
 ## PageMediaType.FrontCoating class

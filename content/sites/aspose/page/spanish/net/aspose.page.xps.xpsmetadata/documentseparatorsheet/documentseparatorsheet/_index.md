@@ -16,7 +16,7 @@ public DocumentSeparatorSheet(params DocumentSeparatorSheetOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | DocumentSeparatorSheetOption[] | Una matriz de opciones específicas para la característica. |
+| options | DocumentSeparatorSheetOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePunched
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePunched kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 2240
+weight: 2250
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediatype.prepunched/
 ---
 ## PageMediaType.PrePunched class

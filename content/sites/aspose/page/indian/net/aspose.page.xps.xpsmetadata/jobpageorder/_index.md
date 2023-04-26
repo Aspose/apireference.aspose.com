@@ -3,7 +3,7 @@ title: Class JobPageOrder
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrder कक्ष. आउटपुट के लए भतक पृष्ठं के क्रम क परभषत करत है https//docs.microsoft.com/enus/windows/win32/printdocs/jobpageorder
 type: docs
-weight: 1450
+weight: 1460
 url: /hi/net/aspose.page.xps.xpsmetadata/jobpageorder/
 ---
 ## JobPageOrder class

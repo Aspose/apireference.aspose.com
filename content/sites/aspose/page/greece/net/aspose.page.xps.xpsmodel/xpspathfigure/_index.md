@@ -3,7 +3,7 @@ title: Class XpsPathFigure
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPathFigure τάξη. Χαρακτηριστικά στοιχείου PathFigure που ενσωματώνει κλάση. Αυτό το στοιχείο αποτελείται από ένα σύνολο μιας ή περισσότερων τμημάτων γραμμής ή καμπύλης.
 type: docs
-weight: 3260
+weight: 3270
 url: /el/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

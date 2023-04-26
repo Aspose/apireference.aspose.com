@@ -3,7 +3,7 @@ title: Class XpsObject
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsObject clase. Clase que encapsula características comunes del objeto del modelo XPS.
 type: docs
-weight: 3220
+weight: 3230
 url: /es/net/aspose.page.xps.xpsmodel/xpsobject/
 ---
 ## XpsObject class

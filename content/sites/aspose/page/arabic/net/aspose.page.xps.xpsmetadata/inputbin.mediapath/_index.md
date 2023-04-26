@@ -3,7 +3,7 @@ title: Class InputBin.MediaPath
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath فصل. يعرف الثوابت لملف قيمة الممتلكات المسجلة.
 type: docs
-weight: 1080
+weight: 1090
 url: /ar/net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class

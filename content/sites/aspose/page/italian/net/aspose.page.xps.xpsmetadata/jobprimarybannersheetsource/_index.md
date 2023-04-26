@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheetSource
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheetSource classe. Specifica lorigine per un foglio banner personalizzato principale per il lavoro. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarybannersheetsource
 type: docs
-weight: 1490
+weight: 1500
 url: /it/net/aspose.page.xps.xpsmetadata/jobprimarybannersheetsource/
 ---
 ## JobPrimaryBannerSheetSource class

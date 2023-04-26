@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Referencia de la API de Aspose.Page para .NET
 description: El Aspose.Page.Xps.XpsModelEl espacio de nombres proporciona clases que describen elementos del documento XPS.
 type: docs
-weight: 110
+weight: 120
 url: /es/net/aspose.page.xps.xpsmodel/
 ---
 El **Aspose.Page.Xps.XpsModel**El espacio de nombres proporciona clases que describen elementos del documento XPS.

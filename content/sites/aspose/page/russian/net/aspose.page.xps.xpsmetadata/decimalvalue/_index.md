@@ -3,7 +3,7 @@ title: Class DecimalValue
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DecimalValue сорт. Класс который инкапсулирует десятичное значение в документе PrintTicket.
 type: docs
-weight: 520
+weight: 530
 url: /ru/net/aspose.page.xps.xpsmetadata/decimalvalue/
 ---
 ## DecimalValue class

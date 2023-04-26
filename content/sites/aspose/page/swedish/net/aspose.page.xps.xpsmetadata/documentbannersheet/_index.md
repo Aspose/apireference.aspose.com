@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet klass. Beskriver bannerarket som ska matas ut för ett visst dokument. Bannerbladet ska matas ut på default PageMediaSize och använder standardPageMediaType . Bannerarket bör också isoleras från resten av jobbet. Detta innebär att eventuella efterbehandlings eller bearbetningsalternativ som DocumentDuplex DocumentStaple  ellerDocumentBinding ska inte inkludera bannerbladet. Bannerarket kan eller kanske inte är isolerat från resten av jobbet. Detta betyder att alla efterbehandlings eller bearbetningsalternativ för jobb kan inkludera dokumentbannerbladet. Bannerarket bör förekomma som det första arket i dokumentet. https //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 530
+weight: 540
 url: /sv/net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class

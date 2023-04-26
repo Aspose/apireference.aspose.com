@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: Справочник по Aspose.Page для .NET API
 description: UserProperties метод. Задает значение строкового свойства.
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

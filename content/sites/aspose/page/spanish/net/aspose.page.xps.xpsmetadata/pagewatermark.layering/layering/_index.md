@@ -16,7 +16,7 @@ public Layering(params LayeringOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | LayeringOption[] | Una matriz de opciones específicas para la característica. |
+| options | LayeringOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

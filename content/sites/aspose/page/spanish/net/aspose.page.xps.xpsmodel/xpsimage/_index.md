@@ -3,7 +3,7 @@ title: Class XpsImage
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsImage clase. Clase que encapsula un recurso de imagen.
 type: docs
-weight: 3160
+weight: 3170
 url: /es/net/aspose.page.xps.xpsmodel/xpsimage/
 ---
 ## XpsImage class

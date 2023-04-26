@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush kelas. Kelas merangkum fiturfitur umum elemen kuas ubin VisualBrush dan ImageBrush.
 type: docs
-weight: 3400
+weight: 3410
 url: /id/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

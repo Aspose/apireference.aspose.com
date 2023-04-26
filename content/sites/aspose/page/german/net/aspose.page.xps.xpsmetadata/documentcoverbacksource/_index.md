@@ -3,7 +3,7 @@ title: Class DocumentCoverBackSource
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBackSource klas. Gibt die Quelle für ein benutzerdefiniertes hinteres Deckblatt an. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverbacksource
 type: docs
-weight: 650
+weight: 660
 url: /de/net/aspose.page.xps.xpsmetadata/documentcoverbacksource/
 ---
 ## DocumentCoverBackSource class

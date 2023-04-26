@@ -3,7 +3,7 @@ title: Class PageScalingOffsetHeight
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetHeight クラス. のスケーリング オフセットを指定しますカスタム スケーリングの方向 https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetheight
 type: docs
-weight: 2530
+weight: 2540
 url: /ja/net/aspose.page.xps.xpsmetadata/pagescalingoffsetheight/
 ---
 ## PageScalingOffsetHeight class

@@ -3,7 +3,7 @@ title: Class ParameterInit
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.ParameterInit klas. Die Klasse die einen gemeinsamen PrintTicketParameterinitialisierer implementiert. Die Basisklasse für alle schemadefinierten Parameterinitialisierer. Definiert einen Wert für eine Instanz von aElement. A element ist das Ziel der Referenz von aParameterRef element. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterinit
 type: docs
-weight: 2770
+weight: 2780
 url: /de/net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class

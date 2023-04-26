@@ -3,7 +3,7 @@ title: Class PageWatermark.PageWatermarkOption
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkPageWatermarkOption clase. Describe elPageWatermark características opciones.
 type: docs
-weight: 2690
+weight: 2700
 url: /es/net/aspose.page.xps.xpsmetadata/pagewatermark.pagewatermarkoption/
 ---
 ## PageWatermark.PageWatermarkOption class

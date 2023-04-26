@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheetSource
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheetSource sınıf. İş için birincil özel başlık sayfasının kaynağını belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarybannersheetsource
 type: docs
-weight: 1490
+weight: 1500
 url: /tr/net/aspose.page.xps.xpsmetadata/jobprimarybannersheetsource/
 ---
 ## JobPrimaryBannerSheetSource class

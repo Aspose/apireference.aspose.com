@@ -3,7 +3,7 @@ title: Class PageMirrorImage.PageMirrorImageOption
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMirrorImagePageMirrorImageOption kelas. MendefinisikanPageMirrorImage opsi fitur.
 type: docs
-weight: 2270
+weight: 2280
 url: /id/net/aspose.page.xps.xpsmetadata/pagemirrorimage.pagemirrorimageoption/
 ---
 ## PageMirrorImage.PageMirrorImageOption class

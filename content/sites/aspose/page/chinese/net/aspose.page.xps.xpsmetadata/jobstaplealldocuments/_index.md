@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments 班级. 描述了输出的装订特性作业中的所有文件都装订在一起了 JobStapleAllDocuments和DocumentStaple关键字是互斥的 由驱动程序确定这些关键字之间的约束处理 https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /zh/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

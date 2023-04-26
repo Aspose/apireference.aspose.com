@@ -3,7 +3,7 @@ title: Class DocumentCoverBackSource
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBackSource فصل. يحدد المصدر لورقة الغلاف الخلفي المخصصة. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverbacksource
 type: docs
-weight: 650
+weight: 660
 url: /ar/net/aspose.page.xps.xpsmetadata/documentcoverbacksource/
 ---
 ## DocumentCoverBackSource class

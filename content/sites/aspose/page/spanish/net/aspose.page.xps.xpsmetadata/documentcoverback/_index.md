@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack clase. Describe la portada posterior final. Cada documento tendrá una hoja separada. La portada debe estar impresa en elPageMediaSize yPageMediaType utilizado para la página final del documento. La portada debe integrarse en las opciones de procesamiento comoDocumentDuplex DocumentNUp  como lo indica la opción especificada. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /es/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

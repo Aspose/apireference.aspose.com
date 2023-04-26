@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode enum. Valori validi della proprietà ColorInterpolationMode dei pennelli sfumatura.
 type: docs
-weight: 2990
+weight: 3000
 url: /it/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

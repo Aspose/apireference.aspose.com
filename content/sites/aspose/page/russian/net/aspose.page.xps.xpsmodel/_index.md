@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.Xps.XpsModelпространство имен предоставляет классы описывающие элементы документа XPS.
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.page.xps.xpsmodel/
 ---
 **Aspose.Page.Xps.XpsModel**пространство имен предоставляет классы, описывающие элементы документа XPS.

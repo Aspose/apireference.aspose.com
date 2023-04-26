@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod opsomming. Gültige Werte der SpreadMethodEigenschaft von Verlaufspinseln.
 type: docs
-weight: 3360
+weight: 3370
 url: /de/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

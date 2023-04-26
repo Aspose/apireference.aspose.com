@@ -3,7 +3,7 @@ title: Class XpsPathPolySegment
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPathPolySegment कक्ष. PolyLineSegment PolyBézierSegment और PolyQuadraticBézierSegment तत्वं क समन्य वशेषतओं क समहत करने वल वर्ग
 type: docs
-weight: 3280
+weight: 3290
 url: /hi/net/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class

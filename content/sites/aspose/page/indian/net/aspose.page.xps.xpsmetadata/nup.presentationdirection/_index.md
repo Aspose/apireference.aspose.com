@@ -3,7 +3,7 @@ title: Class NUp.PresentationDirection
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.NUpPresentationDirection कक्ष. आंतरक वर्णन करत है सुवध.
 type: docs
-weight: 1620
+weight: 1630
 url: /hi/net/aspose.page.xps.xpsmetadata/nup.presentationdirection/
 ---
 ## NUp.PresentationDirection class

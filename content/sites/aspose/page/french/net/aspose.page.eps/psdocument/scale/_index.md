@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: Aspose.Page pour la référence de l'API .NET
 description: PsDocument méthode. Ajoute une échelle à létat graphique actuel mise à léchelle de la matrice actuelle.
 type: docs
-weight: 210
+weight: 230
 url: /fr/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

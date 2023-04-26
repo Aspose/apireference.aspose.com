@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark 班级. 描述输出的水印设置和水印特征水印 apply 到逻辑页面而不是物理页面例如如果DocumentDuplex已启用 水印将出现在每个每张纸上的页面如果DocumentDuplex 2则每张纸会有2个水印 https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /zh/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

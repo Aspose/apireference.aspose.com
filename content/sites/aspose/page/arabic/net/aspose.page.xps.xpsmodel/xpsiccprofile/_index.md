@@ -3,7 +3,7 @@ title: Class XpsIccProfile
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsIccProfile فصل. فئة تتضمن مورد ملف تعريف ICC .
 type: docs
-weight: 3150
+weight: 3160
 url: /ar/net/aspose.page.xps.xpsmodel/xpsiccprofile/
 ---
 ## XpsIccProfile class

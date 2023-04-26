@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocuments сорт. Описывает метод привязки. Все документы в задании связаны вместе. JobBindAllDocuments иDocumentBinding являются взаимоисключающими. Драйвер должен определить обработку ограничений между этими ключевыми словами. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocuments
 type: docs
-weight: 1150
+weight: 1160
 url: /ru/net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

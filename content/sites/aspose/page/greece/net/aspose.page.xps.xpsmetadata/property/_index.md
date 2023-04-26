@@ -3,7 +3,7 @@ title: Class Property
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.Property τάξη. Η κλάση που υλοποιεί ένα κοινό PrintTicket . Η βασική κλάση για όλες τις ιδιότητες που ορίζονται από σχήμα. A Το στοιχείο δηλώνει μια συσκευή μορφοποίηση εργασίας ή άλλη σχετική ιδιότητα του οποίου το όνομα δίνεται από το χαρακτηριστικό του ονόματος. ΕΝΑValue Το στοιχείο χρησιμοποιείται για να εκχωρήσει μια τιμή στο. Α μπορεί να είναι σύνθετη πιθανώς να περιέχει πολλαπλές υποιδιότητες. Οι υποιδιότητες αντιπροσωπεύονται επίσης από στοιχεία. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 2810
+weight: 2820
 url: /el/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

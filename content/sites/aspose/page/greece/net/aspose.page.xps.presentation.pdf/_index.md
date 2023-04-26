@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page για Αναφορά API .NET
 description: Το Aspose.Page.Xps.Presentation.Pdf Το namespace παρέχει κλάσεις για απόδοση εγγράφου XPS σε έγγραφο PDF.
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.page.xps.presentation.pdf/
 ---
 Το **Aspose.Page.Xps.Presentation.Pdf** Το namespace παρέχει κλάσεις για απόδοση εγγράφου XPS σε έγγραφο PDF.

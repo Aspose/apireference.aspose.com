@@ -3,7 +3,7 @@ title: Enum PdfTextCompression
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.Presentation.Pdf.PdfTextCompression 枚举. 指定应用于 PDF 文件中除图像之外的所有内容的压缩类型
 type: docs
-weight: 450
+weight: 460
 url: /zh/net/aspose.page.xps.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enumeration

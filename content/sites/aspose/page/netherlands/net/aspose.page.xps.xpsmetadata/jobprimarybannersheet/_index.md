@@ -1,14 +1,14 @@
 ---
 title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page voor .NET API-referentie
-description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet klas. Beschrijft het voorblad dat voor de opdracht moet worden uitgevoerd. Het voorblad moet worden uitgevoerd op de default PageMediaSize en de standaard gebruikenPageMediaType . Het voorblad moet worden geïsoleerd van de rest van de opdracht. Dit betekent dat eventuele afwerkings of verwerkingsopties zoals JobDuplexAllDocumentsContiguously JobStapleAllDocuments  ofJobBindAllDocuments  mag het voorblad niet bevatten. Het voorblad moet voorkomen als het eerste vel van de taak.
+description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet klas. Beschrijft het voorblad dat voor de opdracht moet worden uitgevoerd. Het voorblad moet worden uitgevoerd op de default PageMediaSize en de standaard gebruikenPageMediaType . Het voorblad moet worden geïsoleerd van de rest van de taak. Dit betekent dat eventuele afwerkings of verwerkingsopties zoals JobDuplexAllDocumentsContiguously JobStapleAllDocuments  ofJobBindAllDocuments  mag het voorblad niet bevatten. Het voorblad moet voorkomen als het eerste vel van de taak.
 type: docs
-weight: 1470
+weight: 1480
 url: /nl/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class
 
-Beschrijft het voorblad dat voor de opdracht moet worden uitgevoerd. Het voorblad moet worden uitgevoerd op de default [`PageMediaSize`](../pagemediasize/) en de standaard gebruiken[`PageMediaType`](../pagemediatype/) . Het voorblad moet worden geïsoleerd van de rest van de opdracht. Dit betekent dat eventuele afwerkings- of verwerkingsopties (zoals [`JobDuplexAllDocumentsContiguously`](../jobduplexalldocumentscontiguously/) ,[`JobStapleAllDocuments`](../jobstaplealldocuments/) , of[`JobBindAllDocuments`](../jobbindalldocuments/) ) mag het voorblad niet bevatten. Het voorblad moet voorkomen als het eerste vel van de taak.
+Beschrijft het voorblad dat voor de opdracht moet worden uitgevoerd. Het voorblad moet worden uitgevoerd op de default [`PageMediaSize`](../pagemediasize/) en de standaard gebruiken[`PageMediaType`](../pagemediatype/) . Het voorblad moet worden geïsoleerd van de rest van de taak. Dit betekent dat eventuele afwerkings- of verwerkingsopties (zoals [`JobDuplexAllDocumentsContiguously`](../jobduplexalldocumentscontiguously/) ,[`JobStapleAllDocuments`](../jobstaplealldocuments/) , of[`JobBindAllDocuments`](../jobbindalldocuments/) ) mag het voorblad niet bevatten. Het voorblad moet voorkomen als het eerste vel van de taak.
 
 ```csharp
 public sealed class JobPrimaryBannerSheet : Feature, IJobPrintTicketItem

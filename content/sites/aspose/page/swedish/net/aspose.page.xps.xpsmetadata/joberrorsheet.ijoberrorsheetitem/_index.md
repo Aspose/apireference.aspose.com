@@ -3,7 +3,7 @@ title: Interface JobErrorSheet.IJobErrorSheetItem
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetIJobErrorSheetItem gränssnitt. Gränssnittet för någonJobErrorSheet feature item.
 type: docs
-weight: 1330
+weight: 1340
 url: /sv/net/aspose.page.xps.xpsmetadata/joberrorsheet.ijoberrorsheetitem/
 ---
 ## JobErrorSheet.IJobErrorSheetItem interface

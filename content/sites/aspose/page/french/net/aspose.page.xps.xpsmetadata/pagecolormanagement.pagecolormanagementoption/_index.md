@@ -3,7 +3,7 @@ title: Class PageColorManagement.PageColorManagementOption
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageColorManagementPageColorManagementOption classe. Décrit lePageColorManagement options de fonctionnalité.
 type: docs
-weight: 1860
+weight: 1870
 url: /fr/net/aspose.page.xps.xpsmetadata/pagecolormanagement.pagecolormanagementoption/
 ---
 ## PageColorManagement.PageColorManagementOption class

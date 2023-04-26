@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.Xps.Presentation.Image名前空間はXPS ドキュメントを image. にレンダリングするためのクラスを提供します
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.page.xps.presentation.image/
 ---
 **Aspose.Page.Xps.Presentation.Image**名前空間は、XPS ドキュメントを image. にレンダリングするためのクラスを提供します。

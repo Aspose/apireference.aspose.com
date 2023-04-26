@@ -3,7 +3,7 @@ title: Class XpsIccBasedColor
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsIccBasedColor 班级. 封装基于 ICC 的颜色
 type: docs
-weight: 3140
+weight: 3150
 url: /zh/net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/
 ---
 ## XpsIccBasedColor class

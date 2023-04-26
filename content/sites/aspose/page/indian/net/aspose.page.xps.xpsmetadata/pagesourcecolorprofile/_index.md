@@ -3,7 +3,7 @@ title: Class PageSourceColorProfile
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfile कक्ष. स्रत रंग प्रफ़इल क वशेषतओं क परभषत करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagesourcecolorprofile
 type: docs
-weight: 2580
+weight: 2590
 url: /hi/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofile/
 ---
 ## PageSourceColorProfile class

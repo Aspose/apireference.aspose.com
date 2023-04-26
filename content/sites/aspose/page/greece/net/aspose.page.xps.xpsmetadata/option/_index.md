@@ -3,7 +3,7 @@ title: Class Option
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.Option τάξη. Η κλάση που υλοποιεί ένα κοινό PrintTicket . Η βασική κλάση για όλες τις επιλογές που καθορίζονται από το σχήμα. Ένα στοιχείο Option περιέχει όλα ταProperty και ScoredProperty στοιχεία που σχετίζονται με αυτήν την επιλογή. https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 1650
+weight: 1660
 url: /el/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

@@ -3,7 +3,7 @@ title: Class XpsPathGeometry
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsPathGeometry 班级. 封装 PathGeometry 属性元素特征的类 此元素包含一组路径图这些路径图使用 Figures 属性指定或者 带有子 PathFigure 元素
 type: docs
-weight: 3270
+weight: 3280
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class
@@ -22,7 +22,7 @@ public sealed class XpsPathGeometry : XpsArray<XpsPathFigure>
 | [FillRule](../../aspose.page.xps.xpsmodel/xpspathgeometry/fillrule/) { get; set; } | 返回/设置指定几何 形状的交叉区域如何组合形成区域的值。 |
 | [Item](../../aspose.page.xps.xpsmodel/xpsarray-1/item/) { get; } |  |
 | [PathFigures](../../aspose.page.xps.xpsmodel/xpspathgeometry/pathfigures/) { get; } | 返回子路径图形列表。 |
-| [Transform](../../aspose.page.xps.xpsmodel/xpspathgeometry/transform/) { get; set; } | 返回/设置仿射变换矩阵建立局部矩阵 transformation 在使用 用于填充、裁剪或描边之前应用于路径几何的所有子元素和后代元素。 |
+| [Transform](../../aspose.page.xps.xpsmodel/xpspathgeometry/transform/) { get; set; } | 返回/设置仿射变换矩阵建立局部矩阵 transformation 在使用 用于填充、剪裁或描边之前应用于路径几何的所有子元素和后代元素。 |
 
 ## 方法
 

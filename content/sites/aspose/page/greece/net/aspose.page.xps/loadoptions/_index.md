@@ -3,7 +3,7 @@ title: Class LoadOptions
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.LoadOptions τάξη. Βασική κλάση για επιλογές φόρτωσης εγγράφων.
 type: docs
-weight: 330
+weight: 340
 url: /el/net/aspose.page.xps/loadoptions/
 ---
 ## LoadOptions class

@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementStart
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementStart clase. Describe el punto en el rango de resaltar a sombrear donde debería comenzar GCR sombra 100  más oscura. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementstart
 type: docs
-weight: 1760
+weight: 1770
 url: /es/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementstart/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementStart class

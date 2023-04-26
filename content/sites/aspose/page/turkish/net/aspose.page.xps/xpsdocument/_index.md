@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsDocument sınıf. Herhangi bir XPS öğesi için manipülasyon yöntemleri sağlayan XPS belgesinin ana varlığını kapsayan sınıf.
 type: docs
-weight: 470
+weight: 480
 url: /tr/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class
@@ -29,7 +29,7 @@ public sealed class XpsDocument : Document, IDisposable
 | --- | --- |
 | [ActiveDocument](../../aspose.page.xps/xpsdocument/activedocument/) { get; } | Etkin belge numarasını alır. |
 | [ActivePage](../../aspose.page.xps/xpsdocument/activepage/) { get; } | Aktif belgedeki aktif sayfa numarasını alır. |
-| [DocumentCount](../../aspose.page.xps/xpsdocument/documentcount/) { get; } | XPS paketi içindeki belgelerin sayısını döndürür. |
+| [DocumentCount](../../aspose.page.xps/xpsdocument/documentcount/) { get; } | XPS paketi içindeki belgelerin sayısını verir. |
 | [JobPrintTicket](../../aspose.page.xps/xpsdocument/jobprintticket/) { get; set; } | Belgenin iş yazdırma biletini döndürür/ayarlar |
 | [Page](../../aspose.page.xps/xpsdocument/page/) { get; } | bir döndürür[`XpsPage`](../../aspose.page.xps.xpsmodel/xpspage/) aktif sayfa örneği. |
 | [PageCount](../../aspose.page.xps/xpsdocument/pagecount/) { get; } | Etkin belgedeki sayfa sayısını döndürür. |

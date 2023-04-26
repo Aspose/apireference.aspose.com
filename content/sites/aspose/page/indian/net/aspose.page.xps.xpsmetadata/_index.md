@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsMetadata
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: द Aspose.Page.Xps.XpsMetadata नमस्थन XPS दस्तवेज़ के मेटडेट क वर्णन करने वल कक्षएं प्रदन करत है
 type: docs
-weight: 100
+weight: 110
 url: /hi/net/aspose.page.xps.xpsmetadata/
 ---
 द **Aspose.Page.Xps.XpsMetadata** नामस्थान XPS दस्तावेज़ के मेटाडेटा का वर्णन करने वाली कक्षाएं प्रदान करता है।

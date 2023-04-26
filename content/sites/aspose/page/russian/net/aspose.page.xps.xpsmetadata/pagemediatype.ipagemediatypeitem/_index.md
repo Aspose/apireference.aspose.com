@@ -3,7 +3,7 @@ title: Interface PageMediaType.IPageMediaTypeItem
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeIPageMediaTypeItem интерфейс. Интерфейс любойPageMediaType элемент функции.
 type: docs
-weight: 2190
+weight: 2200
 url: /ru/net/aspose.page.xps.xpsmetadata/pagemediatype.ipagemediatypeitem/
 ---
 ## PageMediaType.IPageMediaTypeItem interface

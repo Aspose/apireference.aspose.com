@@ -3,7 +3,7 @@ title: Class JobHolePunch
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobHolePunch فصل. يصف خصائص الخرج للتثقيب. جميع المستندات مثقوبة معًاJobHolePunch وDocumentHolePunchالكلمات الرئيسية متعارضة.
 type: docs
-weight: 1350
+weight: 1360
 url: /ar/net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class

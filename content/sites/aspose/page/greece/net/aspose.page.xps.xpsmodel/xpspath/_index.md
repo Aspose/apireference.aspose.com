@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPath τάξη. Χαρακτηριστικά στοιχείου διαδρομής που ενσωματώνει κλάση. Αυτό το στοιχείο είναι το μοναδικό μέσο για την προσθήκη διανυσματικών γραφικών και εικόνων σε μια σταθερή σελίδα. Καθορίζει ένα ενιαίο διανυσματικό γραφικό που θα αποδοθεί σε μια σελίδα.
 type: docs
-weight: 3250
+weight: 3260
 url: /el/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

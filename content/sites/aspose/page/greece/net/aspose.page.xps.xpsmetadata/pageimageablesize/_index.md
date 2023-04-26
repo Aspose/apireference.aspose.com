@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize τάξη. Περιγράφει τον εικονιζόμενο καμβά για διάταξη και απόδοση. Αυτό θα αναφερθεί με βάση PageMediaSize καιPageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /el/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

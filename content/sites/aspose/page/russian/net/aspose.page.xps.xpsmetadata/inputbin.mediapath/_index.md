@@ -3,7 +3,7 @@ title: Class InputBin.MediaPath
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 1080
+weight: 1090
 url: /ru/net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class

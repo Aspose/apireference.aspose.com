@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page untuk Referensi .NET API
 description: Itu Aspose.Page.Xps.Presentation.Pdf namespace menyediakan kelas untuk merender dokumen XPS ke dokumen PDF.
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.page.xps.presentation.pdf/
 ---
 Itu **Aspose.Page.Xps.Presentation.Pdf** namespace menyediakan kelas untuk merender dokumen XPS ke dokumen PDF.

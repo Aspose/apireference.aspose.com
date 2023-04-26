@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation
 second_title: Aspose.Page för .NET API-referens
 description: Den Aspose.Page.Xps.Presentationnamnutrymme tillhandahåller basklasser för att rendera XPS dokument till andra format.
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.page.xps.presentation/
 ---
 Den **Aspose.Page.Xps.Presentation**namnutrymme tillhandahåller basklasser för att rendera XPS dokument till andra format.

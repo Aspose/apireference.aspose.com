@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobComment 班级. 指定与作业关联的注释示例完成后请送至 1234 房间 https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /zh/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

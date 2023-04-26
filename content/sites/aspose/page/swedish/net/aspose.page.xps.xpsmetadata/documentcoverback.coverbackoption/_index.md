@@ -3,7 +3,7 @@ title: Class DocumentCoverBack.CoverBackOption
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBackCoverBackOption klass. BeskriverDocumentCoverBack funktionsalternativ.
 type: docs
-weight: 640
+weight: 650
 url: /sv/net/aspose.page.xps.xpsmetadata/documentcoverback.coverbackoption/
 ---
 ## DocumentCoverBack.CoverBackOption class

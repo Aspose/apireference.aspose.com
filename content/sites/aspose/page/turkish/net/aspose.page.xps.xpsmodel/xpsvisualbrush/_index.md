@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush sınıf. VisualBrush özellik öğesi özelliklerini içeren sınıf. Bu öğe bir bölgeyi çizimle doldurmak için kullanılır.
 type: docs
-weight: 3420
+weight: 3430
 url: /tr/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

@@ -3,7 +3,7 @@ title: UserProperties.PropertyNames
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: UserProperties तरक. गुणं के नम लटत है
 type: docs
-weight: 130
+weight: 140
 url: /hi/net/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties.PropertyNames method

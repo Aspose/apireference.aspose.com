@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment klas. Klasse die kenmerken van ArcSegmentelementen inkapselt. Dit element beschrijft een elliptische boog.
 type: docs
-weight: 2940
+weight: 2950
 url: /nl/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

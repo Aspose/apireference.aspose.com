@@ -3,7 +3,7 @@ title: Class Property
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Property कक्ष. वह वर्ग ज एक समन्य प्रंट टकट क लगू करत है . सभ स्कमपरभषत गुणं के लए आधर वर्ग ए तत्व एक उपकरण नकर स्वरूपण य अन्य प्रसंगक संपत्त क घषण करत है जसक नम इसके नम वशेषत द्वर दय गय है एValue तत्व क उपयग क एक मन असइन करने के लए कय जत है. ए जटल ह सकत है संभवत इसमें कई सबप्रपर्ट ह सकत हैं सबप्रपर्ट क भ इसके द्वर दर्शय जत है एलमेंट्स. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 2810
+weight: 2820
 url: /hi/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

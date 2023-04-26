@@ -15,6 +15,7 @@ The **com.aspose.eps** is a root package for all classes that deal with PS/EPS f
 | Class | Description |
 | --- | --- |
 | [FontConstants](../com.aspose.eps/fontconstants) | This class defines a set of constants for saving fonts. |
+| [HatchPaintLibrary](../com.aspose.eps/hatchpaintlibrary) | Converts GDI+ hatch brushes into images suitable for writing to XPS and PDF. |
 | [LoadOptions](../com.aspose.eps/loadoptions) | Basic class for document loading options. |
 | [PageConstants](../com.aspose.eps/pageconstants) | This class defines a set of constants which describe a page. |
 | [PsConverterException](../com.aspose.eps/psconverterexception) | This class contains information about an error that is thrown while PS file is converted to PDF document. |
@@ -27,4 +28,5 @@ The **com.aspose.eps** is a root package for all classes that deal with PS/EPS f
 
 | Enum | Description |
 | --- | --- |
+| [HatchStyle](../com.aspose.eps/hatchstyle) | Stores naming for hatch styles used in .NET |
 | [ImageFormat](../com.aspose.eps/imageformat) | This enumeration contains possible names of image formats that supported by PS/EPS to Image conversion. |

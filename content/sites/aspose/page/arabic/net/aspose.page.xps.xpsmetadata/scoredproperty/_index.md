@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty فصل. الفئة التي تقوم بتنفيذ PrintTicket مشترك . الفئة الأساسية لجميع الخصائص التي تم تحديدها من قبل المخطط . A يعلن عنصر عن خاصية جوهرية لـ an Option تعريف. يجب مقارنة هذه الخصائص عند تقييم مدى قرب طلبOption يطابق الجهاز المدعومOption . https//docs.microsoft.com/enus/windows/win32/printdocs/scoredproperty
 type: docs
-weight: 2850
+weight: 2860
 url: /ar/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

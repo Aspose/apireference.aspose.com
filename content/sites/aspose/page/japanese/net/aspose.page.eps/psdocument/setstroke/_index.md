@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Aspose.Page for .NET API リファレンス
 description: PsDocument 方法. 現在のグラフィック状態でストロークを設定します
 type: docs
-weight: 250
+weight: 270
 url: /ja/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

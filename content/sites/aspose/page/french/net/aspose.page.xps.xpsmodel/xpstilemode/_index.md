@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsTileMode énumération. Valeurs valides de la propriété TileMode des pinceaux de mosaïque.
 type: docs
-weight: 3390
+weight: 3400
 url: /fr/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

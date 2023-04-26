@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-Menginisialisasi instance baru[`PdfDevice`](../)dengan aliran keluaran dan ukuran halaman yang ditentukan.
+Menginisialisasi instance baru[`PdfDevice`](../) dengan aliran keluaran dan ukuran halaman yang ditentukan.
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

@@ -3,7 +3,7 @@ title: Class JobOutputOptimization
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobOutputOptimization sınıf. Belirtilen seçenek tarafından belirtilen şekilde belirli kullanım senaryoları için çıktıyı optimize etmeyi amaçlayan iş işlemeyi açıklar. https//docs.Microsoft.com/enus/windows/win32/printdocs/joboutputoptimization
 type: docs
-weight: 1430
+weight: 1440
 url: /tr/net/aspose.page.xps.xpsmetadata/joboutputoptimization/
 ---
 ## JobOutputOptimization class

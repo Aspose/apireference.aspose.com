@@ -3,7 +3,7 @@ title: Class PageCopies
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageCopies فصل. يحدد عدد نسخ الصفحة. https//docs.microsoft.com/enus/windows/win32/printdocs/pagecopies
 type: docs
-weight: 1870
+weight: 1880
 url: /ar/net/aspose.page.xps.xpsmetadata/pagecopies/
 ---
 ## PageCopies class

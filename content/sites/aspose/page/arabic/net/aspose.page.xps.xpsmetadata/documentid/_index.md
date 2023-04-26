@@ -3,7 +3,7 @@ title: Class DocumentID
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentID فصل. يحدد معرفًا فريدًا للمستند . https//docs.microsoft.com/enus/windows/win32/printdocs/documentid
 type: docs
-weight: 710
+weight: 720
 url: /ar/net/aspose.page.xps.xpsmetadata/documentid/
 ---
 ## DocumentID class

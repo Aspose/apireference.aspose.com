@@ -3,7 +3,7 @@ title: Class PageMirrorImage
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMirrorImage कक्ष. आउटपुट क मररंग सेटंग क वर्णन करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagemirrorimage
 type: docs
-weight: 2260
+weight: 2270
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemirrorimage/
 ---
 ## PageMirrorImage class

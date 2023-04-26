@@ -3,7 +3,7 @@ title: Class IDProperty
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.IDProperty clase. La clase base paraJobID yDocumentIDclases de propiedades.
 type: docs
-weight: 900
+weight: 910
 url: /es/net/aspose.page.xps.xpsmetadata/idproperty/
 ---
 ## IDProperty class

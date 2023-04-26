@@ -3,7 +3,7 @@ title: Class InputBin.MediaPath
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath 班级. 定义常量得分属性值.
 type: docs
-weight: 1080
+weight: 1090
 url: /zh/net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class

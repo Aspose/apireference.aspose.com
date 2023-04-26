@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Aspose.Page pour la référence de l'API .NET
 description: PsDocument méthode. Définit le trait dans létat graphique actuel.
 type: docs
-weight: 250
+weight: 270
 url: /fr/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

@@ -3,7 +3,7 @@ title: Class XpsPageLinkTarget
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsPageLinkTarget クラス. ページのハイパーリンク ターゲットをカプセル化するクラス
 type: docs
-weight: 3240
+weight: 3250
 url: /ja/net/aspose.page.xps.xpsmodel/xpspagelinktarget/
 ---
 ## XpsPageLinkTarget class
@@ -19,6 +19,12 @@ public sealed class XpsPageLinkTarget : XpsHyperlinkTarget
 | 名前 | 説明 |
 | --- | --- |
 | [XpsPageLinkTarget](xpspagelinktarget/)(int) | 新しいインスタンスを作成します。 |
+
+## プロパティ
+
+| 名前 | 説明 |
+| --- | --- |
+| [TargetPageNumber](../../aspose.page.xps.xpsmodel/xpspagelinktarget/targetpagenumber/) { get; } | 親 XPS 要素が参照するページ番号を取得します。 |
 
 ### 関連項目
 

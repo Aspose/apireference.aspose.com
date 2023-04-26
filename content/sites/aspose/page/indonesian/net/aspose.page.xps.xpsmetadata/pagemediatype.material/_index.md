@@ -3,7 +3,7 @@ title: Class PageMediaType.Material
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeMaterial kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 2210
+weight: 2220
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediatype.material/
 ---
 ## PageMediaType.Material class

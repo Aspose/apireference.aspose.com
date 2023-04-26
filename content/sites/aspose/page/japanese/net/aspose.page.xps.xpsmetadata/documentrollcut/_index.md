@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut クラス. ロール紙のカット方法について説明します各ドキュメントは個別に処理されます 指定されたオプションはロール カットのさまざまな方法を記述します https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 790
+weight: 800
 url: /ja/net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

@@ -3,7 +3,7 @@ title: Class XpsColor
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsColor 班级. 封装常见颜色特征的基类
 type: docs
-weight: 2980
+weight: 2990
 url: /zh/net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

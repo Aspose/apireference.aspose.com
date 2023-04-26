@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobComment कक्ष. कर्य से संबंधत एक टप्पण नर्दष्ट करत है उदहरण कृपय पूर हने पर कमर 1234 पर पहुंचएं https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /hi/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

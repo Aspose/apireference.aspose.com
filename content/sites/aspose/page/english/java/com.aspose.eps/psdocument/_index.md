@@ -3,7 +3,7 @@ title: PsDocument
 second_title: Aspose.Page for Java API Reference
 description: This class encapsulates PS/EPS documents.
 type: docs
-weight: 15
+weight: 16
 url: /java/com.aspose.eps/psdocument/
 ---
 **Inheritance:**
@@ -38,15 +38,19 @@ This class encapsulates PS/EPS documents.
 | [setPageSize(float width, float height)](#setPageSize-float-float-) | Sets page size. |
 | [setPageDevice(Map<String,Object> pageParams)](#setPageDevice-java.util.Map-java.lang.String-java.lang.Object--) | Sets page device parameters (see operator "setpagedevice" PostScript spesification). |
 | [openPage(float width, float height)](#openPage-float-float-) | Creates new page and make it current one. |
+| [openPage(String pageName)](#openPage-java.lang.String-) | Creates new page with document's size and make it current one. |
 | [closePage()](#closePage--) | Complete current page. |
 | [writeGraphicsSave()](#writeGraphicsSave--) | Writes saving of the current graphics state (see PostScript specification on operator "gsave"). |
 | [writeGraphicsRestore()](#writeGraphicsRestore--) | Writes restoring of the current graphics state (see PostScript specification on operator "grestore"). |
+| [setTransform(AffineTransform matrix)](#setTransform-java.awt.geom.AffineTransform-) | Set current transformation to this one. |
 | [transform(AffineTransform matrix)](#transform-java.awt.geom.AffineTransform-) | Adds transformation to current graphics state (concatenates this matrix with current one). |
 | [translate(float x, float y)](#translate-float-float-) | Adds translation to current graphics state (translates current matrix). |
 | [scale(float xScale, float yScale)](#scale-float-float-) | Adds scale to current graphics state (scale current matrix). |
-| [rotate(float angleRadians)](#rotate-float-) | Adds rotation to current graphics state (rotate current matrix). |
+| [rotate(float angleRadians)](#rotate-float-) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
+| [rotate(int angleDegrees)](#rotate-int-) | Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix). |
 | [shear(float shx, float shy)](#shear-float-float-) | Adds shear transformation to current graphics state (shear current matrix). |
 | [clip(Shape s)](#clip-java.awt.Shape-) | Adds clip to current graphics state. |
+| [clipText(String text, Font font, float x, float y)](#clipText-java.lang.String-java.awt.Font-float-float-) | Adds clip from an outline of given text in given font. |
 | [clipRectangle(Rectangle2D.Float rect)](#clipRectangle-java.awt.geom.Rectangle2D.Float-) | Adds clipping rectangle to current graphics state. |
 | [clipAndNewPath(Shape s)](#clipAndNewPath-java.awt.Shape-) | Adds clip to current graphics state and than writes "newpath" operator. |
 | [setPaint(Paint paint)](#setPaint-java.awt.Paint-) | Sets paint in current graphics state. |
@@ -57,12 +61,16 @@ This class encapsulates PS/EPS documents.
 | [fillText(String text, float[] advances, Font font, float x, float y)](#fillText-java.lang.String-float---java.awt.Font-float-float-) | Adds a text string by filling interior of glyphs. |
 | [fillText(String text, DrFont drFont, float x, float y)](#fillText-java.lang.String-com.aspose.foundation.drawing.DrFont-float-float-) | Adds a text string by filling interior of glyphs. |
 | [fillText(String text, float[] advances, DrFont drFont, float x, float y)](#fillText-java.lang.String-float---com.aspose.foundation.drawing.DrFont-float-float-) | Adds a text string by filling interior of glyphs. |
+| [fillText(String text, Font font, float x, float y, Paint fill)](#fillText-java.lang.String-java.awt.Font-float-float-java.awt.Paint-) | Adds a text string by filling interior of glyphs. |
+| [fillText(String text, float[] advances, Font font, float x, float y, Paint fill)](#fillText-java.lang.String-float---java.awt.Font-float-float-java.awt.Paint-) | Adds a text string by filling interior of glyphs. |
 | [fillText(String text, DrFont drFont, float x, float y, Paint fill)](#fillText-java.lang.String-com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-) | Adds a text string by filling interior of glyphs. |
 | [fillText(String text, float[] advances, DrFont drFont, float x, float y, Paint fill)](#fillText-java.lang.String-float---com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-) | Adds a text string by filling interior of glyphs. |
 | [outlineText(String text, Font font, float x, float y)](#outlineText-java.lang.String-java.awt.Font-float-float-) | Adds a text string by drawing glyphs contours. |
 | [outlineText(String text, float[] advances, Font font, float x, float y)](#outlineText-java.lang.String-float---java.awt.Font-float-float-) | Adds a text string by drawing glyphs contours. |
 | [outlineText(String text, DrFont drFont, float x, float y)](#outlineText-java.lang.String-com.aspose.foundation.drawing.DrFont-float-float-) | Adds a text string by drawing glyphs contours. |
 | [outlineText(String text, float[] advances, DrFont drFont, float x, float y)](#outlineText-java.lang.String-float---com.aspose.foundation.drawing.DrFont-float-float-) | Adds a text string by drawing glyphs contours. |
+| [outlineText(String text, Font font, float x, float y, Paint outlinePaint, Stroke stroke)](#outlineText-java.lang.String-java.awt.Font-float-float-java.awt.Paint-java.awt.Stroke-) | Adds a text string by drawing glyphs contours. |
+| [outlineText(String text, float[] advances, Font font, float x, float y, Paint outlinePaint, Stroke stroke)](#outlineText-java.lang.String-float---java.awt.Font-float-float-java.awt.Paint-java.awt.Stroke-) | Adds a text string by drawing glyphs contours. |
 | [outlineText(String text, DrFont drFont, float x, float y, Paint outlinePaint, Stroke stroke)](#outlineText-java.lang.String-com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-java.awt.Stroke-) | Adds a text string by drawing glyphs contours. |
 | [outlineText(String text, float[] advances, DrFont drFont, float x, float y, Paint outlinePaint, Stroke stroke)](#outlineText-java.lang.String-float---com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-java.awt.Stroke-) | Adds a text string by drawing glyphs contours. |
 | [fillAndStrokeText(String text, Font font, float x, float y, Paint fillPaint, Paint strokePaint, Stroke stroke)](#fillAndStrokeText-java.lang.String-java.awt.Font-float-float-java.awt.Paint-java.awt.Paint-java.awt.Stroke-) | Adds a text string by filling interior of glyphs and drawing glyphs contours. |
@@ -70,10 +78,11 @@ This class encapsulates PS/EPS documents.
 | [fillAndStrokeText(String text, DrFont drFont, float x, float y, Paint fillPaint, Paint strokePaint, Stroke stroke)](#fillAndStrokeText-java.lang.String-com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-java.awt.Paint-java.awt.Stroke-) | Adds a text string by filling interior of glyphs and drawing glyphs contours. |
 | [fillAndStrokeText(String text, float[] advances, DrFont drFont, float x, float y, Paint fillPaint, Paint strokePaint, Stroke stroke)](#fillAndStrokeText-java.lang.String-float---com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-java.awt.Paint-java.awt.Stroke-) | Adds a text string by filling interior of glyphs and drawing glyphs contours. |
 | [fill(Shape shape)](#fill-java.awt.Shape-) | Fill an arbitrary path. |
-| [draw(Shape shape)](#draw-java.awt.Shape-) |  |
-| [drawImage(BufferedImage image)](#drawImage-java.awt.image.BufferedImage-) |  |
-| [drawImage(BufferedImage image, AffineTransform transform, Color bkg)](#drawImage-java.awt.image.BufferedImage-java.awt.geom.AffineTransform-java.awt.Color-) |  |
-| [drawExplicitImageMask(BufferedImage image24bpp, BufferedImage alphaMask1bpp, AffineTransform transform)](#drawExplicitImageMask-java.awt.image.BufferedImage-java.awt.image.BufferedImage-java.awt.geom.AffineTransform-) |  |
+| [draw(Shape shape)](#draw-java.awt.Shape-) | Draw an arbitrary path. |
+| [drawImage(BufferedImage image)](#drawImage-java.awt.image.BufferedImage-) | Draw an image. |
+| [drawImage(BufferedImage image, AffineTransform transform, Color bkg)](#drawImage-java.awt.image.BufferedImage-java.awt.geom.AffineTransform-java.awt.Color-) | Draw transformed image with background. |
+| [drawTransparentImage(BufferedImage image, AffineTransform transform, int transparencyThreshold)](#drawTransparentImage-java.awt.image.BufferedImage-java.awt.geom.AffineTransform-int-) | Draw transformed transparent image with background. |
+| [drawExplicitImageMask(BufferedImage image24bpp, BufferedImage alphaMask1bpp, AffineTransform transform)](#drawExplicitImageMask-java.awt.image.BufferedImage-java.awt.image.BufferedImage-java.awt.geom.AffineTransform-) | Draw masked image. |
 | [getNumberOfPages()](#getNumberOfPages--) | Gets a quantity of pages in resulting PDF document. |
 | [merge(String[] filesForMerge, Device device, SaveOptions options)](#merge-java.lang.String---com.aspose.page.Device-com.aspose.page.SaveOptions-) | Merges PS/EPS files to a device. |
 ### PsDocument(OutputStream psStream, PsSaveOptions options) {#PsDocument-java.io.OutputStream-com.aspose.eps.device.PsSaveOptions-}
@@ -306,6 +315,19 @@ Creates new page and make it current one.
 | width | float | The width of new page. |
 | height | float | The height of new page. |
 
+### openPage(String pageName) {#openPage-java.lang.String-}
+```
+public void openPage(String pageName)
+```
+
+
+Creates new page with document's size and make it current one.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageName | java.lang.String | The name of new page. If it is null the name o the page will be an order number of the page. |
+
 ### closePage() {#closePage--}
 ```
 public void closePage()
@@ -329,6 +351,19 @@ public void writeGraphicsRestore()
 
 
 Writes restoring of the current graphics state (see PostScript specification on operator "grestore").
+
+### setTransform(AffineTransform matrix) {#setTransform-java.awt.geom.AffineTransform-}
+```
+public void setTransform(AffineTransform matrix)
+```
+
+
+Set current transformation to this one.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| matrix | java.awt.geom.AffineTransform | The transformation. |
 
 ### transform(AffineTransform matrix) {#transform-java.awt.geom.AffineTransform-}
 ```
@@ -377,12 +412,25 @@ public void rotate(float angleRadians)
 ```
 
 
-Adds rotation to current graphics state (rotate current matrix).
+Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | angleRadians | float | The angle of rotation in radians. |
+
+### rotate(int angleDegrees) {#rotate-int-}
+```
+public void rotate(int angleDegrees)
+```
+
+
+Adds rotation counterclockwise about the origin to current graphics state (rotate current matrix).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| angleDegrees | int | The angle of rotation in degrees. |
 
 ### shear(float shx, float shy) {#shear-float-float-}
 ```
@@ -410,6 +458,22 @@ Adds clip to current graphics state.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | java.awt.Shape | The clipping path. |
+
+### clipText(String text, Font font, float x, float y) {#clipText-java.lang.String-java.awt.Font-float-float-}
+```
+public void clipText(String text, Font font, float x, float y)
+```
+
+
+Adds clip from an outline of given text in given font.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | java.lang.String | The text. |
+| font | java.awt.Font | The font. |
+| x | float | An X coordinate of the text position. |
+| y | float |  |
 
 ### clipRectangle(Rectangle2D.Float rect) {#clipRectangle-java.awt.geom.Rectangle2D.Float-}
 ```
@@ -549,6 +613,41 @@ Adds a text string by filling interior of glyphs.
 | x | float | X coordinate for text origin. |
 | y | float | Y coordinate for text origin. |
 
+### fillText(String text, Font font, float x, float y, Paint fill) {#fillText-java.lang.String-java.awt.Font-float-float-java.awt.Paint-}
+```
+public void fillText(String text, Font font, float x, float y, Paint fill)
+```
+
+
+Adds a text string by filling interior of glyphs.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | java.lang.String | The text to add. |
+| font | java.awt.Font | The font that will be used to draw text. |
+| x | float | X coordinate for text origin. |
+| y | float | Y coordinate for text origin. |
+| fill | java.awt.Paint | The fill used for painting glyphs. |
+
+### fillText(String text, float[] advances, Font font, float x, float y, Paint fill) {#fillText-java.lang.String-float---java.awt.Font-float-float-java.awt.Paint-}
+```
+public void fillText(String text, float[] advances, Font font, float x, float y, Paint fill)
+```
+
+
+Adds a text string by filling interior of glyphs.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | java.lang.String | The text to add. |
+| advances | float[] | An array of glyphs width. It's length must comply with the number of glyphs in the string. |
+| font | java.awt.Font | The font that will be used to draw text. |
+| x | float | X coordinate for text origin. |
+| y | float | Y coordinate for text origin. |
+| fill | java.awt.Paint | The fill used for painting glyphs. |
+
 ### fillText(String text, DrFont drFont, float x, float y, Paint fill) {#fillText-java.lang.String-com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-}
 ```
 public void fillText(String text, DrFont drFont, float x, float y, Paint fill)
@@ -649,6 +748,43 @@ Adds a text string by drawing glyphs contours.
 | drFont | com.aspose.foundation.drawing.DrFont |  DrFont  that will be used to draw text. It can be used with custom font that is located in custom folder. |
 | x | float | X coordinate for text origin. |
 | y | float | Y coordinate for text origin. |
+
+### outlineText(String text, Font font, float x, float y, Paint outlinePaint, Stroke stroke) {#outlineText-java.lang.String-java.awt.Font-float-float-java.awt.Paint-java.awt.Stroke-}
+```
+public void outlineText(String text, Font font, float x, float y, Paint outlinePaint, Stroke stroke)
+```
+
+
+Adds a text string by drawing glyphs contours.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | java.lang.String | The text to add. |
+| font | java.awt.Font | The font that will be used to draw text. |
+| x | float | X coordinate for text origin. |
+| y | float | Y coordinate for text origin. |
+| outlinePaint | java.awt.Paint | The  java.awt.Paint  used for painting glyphs outlines. Can be any subclass of  java.awt.Paint  class in JDK. |
+| stroke | java.awt.Stroke | The stroke used for drawing glyphs contours. |
+
+### outlineText(String text, float[] advances, Font font, float x, float y, Paint outlinePaint, Stroke stroke) {#outlineText-java.lang.String-float---java.awt.Font-float-float-java.awt.Paint-java.awt.Stroke-}
+```
+public void outlineText(String text, float[] advances, Font font, float x, float y, Paint outlinePaint, Stroke stroke)
+```
+
+
+Adds a text string by drawing glyphs contours.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | java.lang.String | The text to add. |
+| advances | float[] | An array of glyphs width. It's length must comply with the number of glyphs in the string. |
+| font | java.awt.Font | The font that will be used to draw text. |
+| x | float | X coordinate for text origin. |
+| y | float | Y coordinate for text origin. |
+| outlinePaint | java.awt.Paint | The  java.awt.Paint  used for painting glyphs outlines. Can be any subclass of  java.awt.Paint  class in JDK. |
+| stroke | java.awt.Stroke | The stroke used for drawing glyphs contours. |
 
 ### outlineText(String text, DrFont drFont, float x, float y, Paint outlinePaint, Stroke stroke) {#outlineText-java.lang.String-com.aspose.foundation.drawing.DrFont-float-float-java.awt.Paint-java.awt.Stroke-}
 ```
@@ -784,12 +920,12 @@ public void draw(Shape shape)
 ```
 
 
-
+Draw an arbitrary path.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shape | java.awt.Shape |  |
+| shape | java.awt.Shape | The path to fill. |
 
 ### drawImage(BufferedImage image) {#drawImage-java.awt.image.BufferedImage-}
 ```
@@ -797,12 +933,12 @@ public void drawImage(BufferedImage image)
 ```
 
 
-
+Draw an image.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | java.awt.image.BufferedImage |  |
+| image | java.awt.image.BufferedImage | The image to draw. |
 
 ### drawImage(BufferedImage image, AffineTransform transform, Color bkg) {#drawImage-java.awt.image.BufferedImage-java.awt.geom.AffineTransform-java.awt.Color-}
 ```
@@ -810,14 +946,29 @@ public void drawImage(BufferedImage image, AffineTransform transform, Color bkg)
 ```
 
 
-
+Draw transformed image with background.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | java.awt.image.BufferedImage |  |
-| transform | java.awt.geom.AffineTransform |  |
-| bkg | java.awt.Color |  |
+| image | java.awt.image.BufferedImage | The image to draw. |
+| transform | java.awt.geom.AffineTransform | The matrix to transform image. |
+| bkg | java.awt.Color | The background for the image. |
+
+### drawTransparentImage(BufferedImage image, AffineTransform transform, int transparencyThreshold) {#drawTransparentImage-java.awt.image.BufferedImage-java.awt.geom.AffineTransform-int-}
+```
+public void drawTransparentImage(BufferedImage image, AffineTransform transform, int transparencyThreshold)
+```
+
+
+Draw transformed transparent image with background. If image doesn't have Alpha channel it will be drawn as opaque image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | java.awt.image.BufferedImage | The image to draw. |
+| transform | java.awt.geom.AffineTransform | The matrix to transform image. |
+| transparencyThreshold | int | A threshold that defines from which value of transparency pixel will be interpreted as fully transparent. All values below this threshold will be interpreted as fully opaque. |
 
 ### drawExplicitImageMask(BufferedImage image24bpp, BufferedImage alphaMask1bpp, AffineTransform transform) {#drawExplicitImageMask-java.awt.image.BufferedImage-java.awt.image.BufferedImage-java.awt.geom.AffineTransform-}
 ```
@@ -825,14 +976,14 @@ public void drawExplicitImageMask(BufferedImage image24bpp, BufferedImage alphaM
 ```
 
 
-
+Draw masked image.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image24bpp | java.awt.image.BufferedImage |  |
-| alphaMask1bpp | java.awt.image.BufferedImage |  |
-| transform | java.awt.geom.AffineTransform |  |
+| image24bpp | java.awt.image.BufferedImage | The image to draw. Must be in 24bpp RGB image format |
+| alphaMask1bpp | java.awt.image.BufferedImage | The image mask. Must be in 1bpp image format. |
+| transform | java.awt.geom.AffineTransform | The matrix to transform image. |
 
 ### getNumberOfPages() {#getNumberOfPages--}
 ```

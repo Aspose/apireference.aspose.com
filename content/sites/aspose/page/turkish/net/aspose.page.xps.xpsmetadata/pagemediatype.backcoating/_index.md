@@ -3,7 +3,7 @@ title: Class PageMediaType.BackCoating
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeBackCoating sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 2170
+weight: 2180
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediatype.backcoating/
 ---
 ## PageMediaType.BackCoating class

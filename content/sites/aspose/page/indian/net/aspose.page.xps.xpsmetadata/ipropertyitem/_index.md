@@ -3,7 +3,7 @@ title: Interface IPropertyItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IPropertyItem इंटरफेस. उन कक्षओं के लए आधर इंटरफ़ेस ज प्रंट टकट ह सकते हैंProperty आइटम.
 type: docs
-weight: 980
+weight: 990
 url: /hi/net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

@@ -3,7 +3,7 @@ title: PageScaling
 second_title: Aspose.Page for .NET API Reference
 description: Describes the scaling characteristics of the output. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescaling
 type: docs
-weight: 2480
+weight: 2490
 url: /net/aspose.page.xps.xpsmetadata/pagescaling/
 ---
 ## PageScaling class

@@ -3,7 +3,7 @@ title: Class PageMirrorImage
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMirrorImage clase. Describe la configuración de duplicación de la salida. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemirrorimage
 type: docs
-weight: 2260
+weight: 2270
 url: /es/net/aspose.page.xps.xpsmetadata/pagemirrorimage/
 ---
 ## PageMirrorImage class

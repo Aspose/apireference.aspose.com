@@ -3,7 +3,7 @@ title: Interface IScoredPropertyItem
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.IScoredPropertyItem διεπαφή. Η βασική διεπαφή για κλάσεις που μπορεί να είναι PrintTicketScoredProperty αντικείμενα.
 type: docs
-weight: 990
+weight: 1000
 url: /el/net/aspose.page.xps.xpsmetadata/iscoredpropertyitem/
 ---
 ## IScoredPropertyItem interface

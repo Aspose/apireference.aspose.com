@@ -3,7 +3,7 @@ title: Class PageMediaType.Material
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeMaterial クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 2210
+weight: 2220
 url: /ja/net/aspose.page.xps.xpsmetadata/pagemediatype.material/
 ---
 ## PageMediaType.Material class

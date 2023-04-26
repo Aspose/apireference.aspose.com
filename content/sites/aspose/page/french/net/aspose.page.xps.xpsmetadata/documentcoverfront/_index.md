@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront classe. Décrit la première page de couverture. Chaque document aura une feuille séparée. La page de garde doit être imprimée sur lePageMediaSize etPageMediaType utilisé pour la première page du document. La page de garde doit être intégrée dans les options de traitement telles queDocumentDuplex DocumentNUp  comme indiqué par loption spécifiée. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /fr/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

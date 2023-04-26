@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFrontSource
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontSource klas. Specificeert de bron voor een aangepast voorblad voor de taak. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfrontsource
 type: docs
-weight: 1550
+weight: 1560
 url: /nl/net/aspose.page.xps.xpsmetadata/jobprimarycoverfrontsource/
 ---
 ## JobPrimaryCoverFrontSource class

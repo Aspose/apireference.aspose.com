@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark сорт. Описывает настройку водяного знака вывода и характеристики водяного знака. Водяные знаки применяются к логической странице а не к физической странице. Например еслиDocumentDuplex включен водяной знак появится на каждом страницы на каждом листе. ЕслиDocumentDuplex  2 то на каждом листе будет 2 водяных знака. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /ru/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

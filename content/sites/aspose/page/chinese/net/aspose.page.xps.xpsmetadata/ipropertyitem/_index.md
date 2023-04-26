@@ -3,7 +3,7 @@ title: Interface IPropertyItem
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.IPropertyItem 界面. 可能是 PrintTicket 的类的基本接口Property项目.
 type: docs
-weight: 980
+weight: 990
 url: /zh/net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

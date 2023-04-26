@@ -3,7 +3,7 @@ title: Class JobAccountingSheet.JobAccountingSheetOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheetJobAccountingSheetOption 수업. 설명JobAccountingSheet 기능 옵션.
 type: docs
-weight: 1140
+weight: 1150
 url: /ko/net/aspose.page.xps.xpsmetadata/jobaccountingsheet.jobaccountingsheetoption/
 ---
 ## JobAccountingSheet.JobAccountingSheetOption class

@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | Obtient la valeur de la propriété du tableau de chaînes. Si la propriété demandée est absente, renvoie la valeur par défaut fournie. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | Obtient la valeur de la propriété booléenne. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | Obtient la valeur de la propriété booléenne. Si la propriété demandée est absente, renvoie la valeur par défaut fournie. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | Renvoie les noms des propriétés. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | Définit la valeur de la propriété booléenne. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | Définit la valeur de la propriété de couleur. |

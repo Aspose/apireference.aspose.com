@@ -3,7 +3,7 @@ title: Class PagePoster
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PagePoster クラス. 複数の物理メディア シートへの単一ページの出力について説明します https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 2410
+weight: 2420
 url: /ja/net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

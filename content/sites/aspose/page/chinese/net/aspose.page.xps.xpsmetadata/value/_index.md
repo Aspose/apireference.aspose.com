@@ -3,7 +3,7 @@ title: Class Value
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.Value 班级. 封装了一个的基类Property或ScoredProperty PrintTicket 文档中的值 值元素将文字与类型相关联 https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 2930
+weight: 2940
 url: /zh/net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class

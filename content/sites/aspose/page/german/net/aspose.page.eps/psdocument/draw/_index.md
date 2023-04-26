@@ -3,7 +3,7 @@ title: PsDocument.Draw
 second_title: Aspose.Page für .NET-API-Referenz
 description: PsDocument methode. Zeichne einen beliebigen Pfad.
 type: docs
-weight: 70
+weight: 80
 url: /de/net/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument.Draw method

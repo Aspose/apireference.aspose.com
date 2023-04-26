@@ -3,7 +3,7 @@ title: Class JobURI
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobURI فصل. يحدد معرف مورد موحد URI للمستند. https//docs.microsoft.com/enus/windows/win32/printdocs/joburi
 type: docs
-weight: 1590
+weight: 1600
 url: /ar/net/aspose.page.xps.xpsmetadata/joburi/
 ---
 ## JobURI class

@@ -3,7 +3,7 @@ title: Class NameProperty
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.NameProperty 수업. 의 기본 클래스JobName 그리고DocumentName속성 클래스.
 type: docs
-weight: 1640
+weight: 1650
 url: /ko/net/aspose.page.xps.xpsmetadata/nameproperty/
 ---
 ## NameProperty class

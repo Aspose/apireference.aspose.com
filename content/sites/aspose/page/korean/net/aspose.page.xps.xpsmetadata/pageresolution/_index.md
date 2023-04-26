@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageResolution 수업. 인쇄 출력의 페이지 해상도를 질적 값이나 인치당 도트 수 또는 둘 다로 정의합니다.
 type: docs
-weight: 2430
+weight: 2440
 url: /ko/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

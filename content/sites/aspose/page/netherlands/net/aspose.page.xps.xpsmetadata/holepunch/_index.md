@@ -3,7 +3,7 @@ title: Class HolePunch
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.HolePunch klas. De basisklasse voorJobHolePunch EnDocumentHolePunch beschikt over klassen.
 type: docs
-weight: 880
+weight: 890
 url: /nl/net/aspose.page.xps.xpsmetadata/holepunch/
 ---
 ## HolePunch class

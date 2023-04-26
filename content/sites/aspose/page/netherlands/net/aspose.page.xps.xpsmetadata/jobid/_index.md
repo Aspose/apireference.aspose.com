@@ -3,7 +3,7 @@ title: Class JobID
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobID klas. Specificeert een uniek ID voor de taak. https//docs.microsoft.com/enus/windows/win32/printdocs/jobid
 type: docs
-weight: 1360
+weight: 1370
 url: /nl/net/aspose.page.xps.xpsmetadata/jobid/
 ---
 ## JobID class

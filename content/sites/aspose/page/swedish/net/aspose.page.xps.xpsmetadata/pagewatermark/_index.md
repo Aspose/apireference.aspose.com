@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark klass. Beskriver vattenstämpelinställningen för utdata och vattenstämpelns egenskaper. Vattenstämplar gäller på den logiska sidan inte den fysiska sidan. Till exempel omDocumentDuplex är aktiverat kommer en vattenstämpel att visas på varje sida på varje blad. OmDocumentDuplex  2 då kommer varje ark att ha 2 vattenstämplar. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /sv/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

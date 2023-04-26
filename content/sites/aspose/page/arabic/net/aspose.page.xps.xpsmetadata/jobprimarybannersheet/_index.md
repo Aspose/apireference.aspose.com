@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet فصل. يصف ورقة الشعارات ليتم إخراجها للمهمة. يجب إخراج ورقة الشعار على default PageMediaSize واستخدام الافتراضيPageMediaType . يجب عزل ورقة الشعار عن باقي المهمة. هذا يعني أن أي خيارات إنهاء أو معالجة مثل JobDuplexAllDocumentsContiguously وJobStapleAllDocuments  أوJobBindAllDocuments  يجب ألا تتضمن ورقة الشعار. يجب أن تظهر ورقة الشعار كالورقة الأولى من الوظيفة.
 type: docs
-weight: 1470
+weight: 1480
 url: /ar/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

@@ -3,7 +3,7 @@ title: Class InputBin.FeedDirection
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedDirection クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 1020
+weight: 1030
 url: /ja/net/aspose.page.xps.xpsmetadata/inputbin.feeddirection/
 ---
 ## InputBin.FeedDirection class

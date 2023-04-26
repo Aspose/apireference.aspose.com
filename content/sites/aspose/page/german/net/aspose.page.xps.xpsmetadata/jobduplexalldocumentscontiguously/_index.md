@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously klas. Beschreibt die DuplexEigenschaften der Ausgabe. Die Duplexfunktion ermöglicht das Drucken auf beiden Seiten des Mediums. Alle Dokumente im Auftrag werden fortlaufend dupliziert. JobDuplexAllDocumentsContiguously UndDocumentDuplexschließen sich gegenseitig aus. Es ist Sache des Treibers die Behandlung von Einschränkungen zwischen diesen Schlüsselwörtern zu bestimmen. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /de/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

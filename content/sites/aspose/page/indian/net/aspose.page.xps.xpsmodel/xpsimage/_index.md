@@ -3,7 +3,7 @@ title: Class XpsImage
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsImage कक्ष. छव संसधन क समहत करने वल वर्ग
 type: docs
-weight: 3160
+weight: 3170
 url: /hi/net/aspose.page.xps.xpsmodel/xpsimage/
 ---
 ## XpsImage class

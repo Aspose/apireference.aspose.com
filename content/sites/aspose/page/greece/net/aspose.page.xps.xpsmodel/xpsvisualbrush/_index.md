@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush τάξη. Χαρακτηριστικά στοιχείου ιδιότητας VisualBrush incapsulating Class. Αυτό το στοιχείο χρησιμοποιείται για να γεμίσει μια περιοχή με ένα σχέδιο.
 type: docs
-weight: 3420
+weight: 3430
 url: /el/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

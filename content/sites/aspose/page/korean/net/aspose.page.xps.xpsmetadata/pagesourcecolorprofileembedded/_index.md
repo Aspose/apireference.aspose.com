@@ -3,7 +3,7 @@ title: Class PageSourceColorProfileEmbedded
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfileEmbedded 수업. 포함된 소스 색상 프로필을 지정합니다.
 type: docs
-weight: 2600
+weight: 2610
 url: /ko/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofileembedded/
 ---
 ## PageSourceColorProfileEmbedded class

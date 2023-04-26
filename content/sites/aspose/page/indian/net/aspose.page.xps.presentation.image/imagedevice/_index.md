@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice कक्ष. क्लस इनकैप्सुलेटंग इमेज कंपज़ंग डवइस
 type: docs
-weight: 350
+weight: 360
 url: /hi/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

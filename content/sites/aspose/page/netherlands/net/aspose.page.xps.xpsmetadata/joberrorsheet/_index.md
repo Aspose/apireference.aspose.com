@@ -1,14 +1,14 @@
 ---
 title: Class JobErrorSheet
 second_title: Aspose.Page voor .NET API-referentie
-description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet klas. Beschrijft de uitvoer van het foutblad. De hele taak heeft één foutenblad. Het foutblad moet standaard worden uitgevoerdPageMediaSize en de standaard gebruikenPageMediaType . Het foutenblad moet worden geïsoleerd van de rest van de taak. Dit betekent dat alle afwerkings of verwerkingsopties zoals   of  mag het foutblad niet bevatten. Het foutenblad moet verschijnen als het laatste blad van de taak. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
+description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet klas. Beschrijft de uitvoer van het foutenblad. De hele taak heeft één foutenblad. Het foutblad moet standaard worden uitgevoerdPageMediaSize en de standaard gebruikenPageMediaType . Het foutenblad moet worden geïsoleerd van de rest van de taak. Dit betekent dat alle afwerkings of verwerkingsopties zoals   of  mag het foutblad niet bevatten. Het foutenblad moet verschijnen als het laatste blad van de taak. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /nl/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class
 
-Beschrijft de uitvoer van het foutblad. De hele taak heeft één foutenblad. Het foutblad moet standaard worden uitgevoerd[`PageMediaSize`](../pagemediasize/) en de standaard gebruiken[`PageMediaType`](../pagemediatype/) . Het foutenblad moet worden geïsoleerd van de rest van de taak. Dit betekent dat alle afwerkings- of verwerkingsopties (zoals , , of ) mag het foutblad niet bevatten. Het foutenblad moet verschijnen als het laatste blad van de taak. https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet
+Beschrijft de uitvoer van het foutenblad. De hele taak heeft één foutenblad. Het foutblad moet standaard worden uitgevoerd[`PageMediaSize`](../pagemediasize/) en de standaard gebruiken[`PageMediaType`](../pagemediatype/) . Het foutenblad moet worden geïsoleerd van de rest van de taak. Dit betekent dat alle afwerkings- of verwerkingsopties (zoals , , of ) mag het foutblad niet bevatten. Het foutenblad moet verschijnen als het laatste blad van de taak. https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet
 
 ```csharp
 JobDuplex

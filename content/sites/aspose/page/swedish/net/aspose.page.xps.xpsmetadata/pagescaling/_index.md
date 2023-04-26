@@ -3,7 +3,7 @@ title: Class PageScaling
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageScaling klass. Beskriver skalningsegenskaperna för utdata. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescaling
 type: docs
-weight: 2480
+weight: 2490
 url: /sv/net/aspose.page.xps.xpsmetadata/pagescaling/
 ---
 ## PageScaling class

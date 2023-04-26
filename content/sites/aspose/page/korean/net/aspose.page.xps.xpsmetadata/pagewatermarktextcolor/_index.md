@@ -3,7 +3,7 @@ title: Class PageWatermarkTextColor
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextColor 수업. 워터마크 텍스트의 sRGB 색상을 정의합니다. 형식은 ARGB AARRGGBB. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextcolor
 type: docs
-weight: 2730
+weight: 2740
 url: /ko/net/aspose.page.xps.xpsmetadata/pagewatermarktextcolor/
 ---
 ## PageWatermarkTextColor class

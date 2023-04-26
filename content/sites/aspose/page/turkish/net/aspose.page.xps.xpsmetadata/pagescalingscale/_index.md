@@ -3,7 +3,7 @@ title: Class PageScalingScale
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScale sınıf. Özel kare ölçeklendirme için ölçeklendirme faktörünü belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscale
 type: docs
-weight: 2550
+weight: 2560
 url: /tr/net/aspose.page.xps.xpsmetadata/pagescalingscale/
 ---
 ## PageScalingScale class

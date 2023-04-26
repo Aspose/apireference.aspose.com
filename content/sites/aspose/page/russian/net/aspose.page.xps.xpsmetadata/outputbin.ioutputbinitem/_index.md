@@ -3,7 +3,7 @@ title: Interface OutputBin.IOutputBinItem
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.OutputBinIOutputBinItem интерфейс. Интерфейс любойJobOutputBin DocumentOutputBin и PageOutputBin элемент функции.
 type: docs
-weight: 1680
+weight: 1690
 url: /ru/net/aspose.page.xps.xpsmetadata/outputbin.ioutputbinitem/
 ---
 ## OutputBin.IOutputBinItem interface

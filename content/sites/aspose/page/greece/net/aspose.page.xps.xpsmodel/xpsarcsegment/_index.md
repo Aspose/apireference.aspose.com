@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment τάξη. Χαρακτηριστικά στοιχείου ArcSegment που ενσωματώνει κλάση. Αυτό το στοιχείο περιγράφει ένα ελλειπτικό τόξο.
 type: docs
-weight: 2940
+weight: 2950
 url: /el/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

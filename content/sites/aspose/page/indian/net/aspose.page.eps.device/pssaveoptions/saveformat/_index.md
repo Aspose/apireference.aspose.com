@@ -11,7 +11,7 @@ url: /hi/net/aspose.page.eps.device/pssaveoptions/saveformat/
 परिणामी फ़ाइल का सहेजें प्रारूप।
 
 ```csharp
-public #=zVeDKvb93yYvf1v5gLIr7_ZY$TrodRiVPyQ== SaveFormat { get; set; }
+public #=zdi79JyoaG5rAbaLozfXqNxrwlXEFTebakg== SaveFormat { get; set; }
 ```
 
 ### यह सभी देखें

@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet فصل. يصف ورقة المحاسبة المراد إخراجها للوظيفة. يجب إخراج ورقة المحاسبة على default PageMediaSize واستخدام الافتراضيPageMediaType . يجب عزل ورقة المحاسبة to عن باقي الوظيفة. هذا يعني أن أي خيارات تشطيب أو معالجة مثل و  أو  يجب ألا تتضمن ورقة المحاسبة . قد تحدث ورقة المحاسبة كالصفحة الأولى أو الأخيرة من المهمة وفقًا لتقدير المنفذ . https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /ar/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

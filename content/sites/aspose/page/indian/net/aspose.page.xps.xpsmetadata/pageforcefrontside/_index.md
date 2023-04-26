@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide कक्ष. आउटपुट क मडय शट के समने प्रदर्शत हने के लए बध्य करत है हर तरफ अलगअलग सतहं वल मडय शट के लए प्रसंगक ऐसे ममलं में जहं यह सुवध संसधन वकल्पं में हस्तक्षेप करत है जैसे DocumentDuplex  उस वशष्ट पृष्ठ के लए प्रथमकत लेत है जस पर सुवध लगू हत है.
 type: docs
-weight: 1970
+weight: 1980
 url: /hi/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

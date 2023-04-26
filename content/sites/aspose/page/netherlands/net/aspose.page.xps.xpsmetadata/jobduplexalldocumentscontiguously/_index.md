@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously klas. Beschrijft de duplexkarakteristieken van de uitvoer. Met de duplexfunctie kan op beide zijden van de media worden afgedrukt. Alle documenten in de taak worden aaneengesloten dubbelzijdig afgedrukt. JobDuplexAllDocumentsContiguously EnDocumentDuplexsluiten elkaar wederzijds uit. Het is aan de driver om de beperkingsafhandeling tussen deze sleutelwoorden te bepalen. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /nl/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

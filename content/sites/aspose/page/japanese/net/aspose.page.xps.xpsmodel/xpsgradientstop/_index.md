@@ -3,7 +3,7 @@ title: Class XpsGradientStop
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsGradientStop クラス. GradientStop 要素の機能をカプセル化するクラス. この要素はLinearGradientBrush 要素と RadialGradientBrush 要素の両方で使用され グラデーションをレンダリングするための色の進行の位置と範囲を定義します.
 type: docs
-weight: 3110
+weight: 3120
 url: /ja/net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class

@@ -16,7 +16,7 @@ public JobHolePunch(params HolePunchOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | HolePunchOption[] | Una matriz de opciones específicas para la característica. |
+| options | HolePunchOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobComment sınıf. İşle ilişkili bir yorumu belirtir. Örnek Lütfen tamamlandığında 1234 numaralı odaya teslim edin. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /tr/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

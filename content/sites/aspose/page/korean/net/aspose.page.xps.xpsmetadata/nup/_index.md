@@ -3,7 +3,7 @@ title: Class NUp
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.NUp 수업. 의 기본 클래스JobNUpAllDocumentsContiguously 그리고DocumentNUp 기능 클래스.
 type: docs
-weight: 1600
+weight: 1610
 url: /ko/net/aspose.page.xps.xpsmetadata/nup/
 ---
 ## NUp class

@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack.CoverBackOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBackCoverBackOption 수업. 설명JobPrimaryCoverBack 기능 옵션.
 type: docs
-weight: 1510
+weight: 1520
 url: /ko/net/aspose.page.xps.xpsmetadata/jobprimarycoverback.coverbackoption/
 ---
 ## JobPrimaryCoverBack.CoverBackOption class

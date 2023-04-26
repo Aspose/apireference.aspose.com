@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsSave
 second_title: Aspose.Page for .NET API リファレンス
 description: PsDocument 方法. 現在のグラフィック状態の保存を書き込みます オペレーターgsaveの PostScript 仕様を参照
 type: docs
-weight: 300
+weight: 330
 url: /ja/net/aspose.page.eps/psdocument/writegraphicssave/
 ---
 ## PsDocument.WriteGraphicsSave method

@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment 수업. PolyLineSegment 요소 기능을 캡슐화하는 클래스. 이 요소는 임의 개수의 개별 정점을 포함하는 다각형 드로잉을 설명합니다.
 type: docs
-weight: 3310
+weight: 3320
 url: /ko/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

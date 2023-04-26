@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 1670
+weight: 1680
 url: /id/net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

@@ -3,7 +3,7 @@ title: PsDocument.DrawExplicitImageMask
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. नकबपश चत्र बनएं.
 type: docs
-weight: 80
+weight: 90
 url: /hi/net/aspose.page.eps/psdocument/drawexplicitimagemask/
 ---
 ## PsDocument.DrawExplicitImageMask method

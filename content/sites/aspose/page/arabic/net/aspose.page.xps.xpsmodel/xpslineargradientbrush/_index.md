@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush فصل. فئة تتضمن ميزات عنصر خاصية LinearGradientBrush . يستخدم هذا العنصر لتحديد فرشاة التدرج الخطي على طول متجه .
 type: docs
-weight: 3200
+weight: 3210
 url: /ar/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

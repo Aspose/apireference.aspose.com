@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor klas. Applicatieinhoud gelabeld met de gespecificeerde benoemde kleur MOET verschijnen op alle kleurscheidingen. https//docs.microsoft.com/enus/windows/win32/printdocs/documentimpositioncolor
 type: docs
-weight: 720
+weight: 730
 url: /nl/net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

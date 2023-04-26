@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsCanvas kelas. Kelas yang merangkum fitur elemen Kanvas. Elemen ini mengelompokkan elemen menjadi satu. Misalnya elemen Glyphs dan Path dapat dikelompokkan dalam kanvas untuk diidentifikasi sebagai unit sebagai tujuan hyperlink atau untuk menerapkan nilai properti gabungan ke setiap elemen anak dan leluhur.
 type: docs
-weight: 2970
+weight: 2980
 url: /id/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: .NET API 참조용 Aspose.Page
 description: PsDocument 방법. 현재 그래픽 상태에 스케일을 추가합니다스케일 현재 매트릭스.
 type: docs
-weight: 210
+weight: 230
 url: /ko/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

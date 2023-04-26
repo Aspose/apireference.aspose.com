@@ -3,7 +3,7 @@ title: Class PageMirrorImage
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMirrorImage sınıf. Çıktının ikizleme ayarını açıklar. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemirrorimage
 type: docs
-weight: 2260
+weight: 2270
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemirrorimage/
 ---
 ## PageMirrorImage class

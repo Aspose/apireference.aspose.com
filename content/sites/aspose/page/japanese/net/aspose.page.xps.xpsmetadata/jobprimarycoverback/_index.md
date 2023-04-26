@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack クラス. 裏エンディング表紙を記述します各ジョブには個別のプライマリ シートがあります カバー シートはPageMediaSizeとPageMediaType はジョブの最終ページに使用されますカバー シートは処理 options に統合する必要があります JobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  指定されたオプションで示される. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /ja/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

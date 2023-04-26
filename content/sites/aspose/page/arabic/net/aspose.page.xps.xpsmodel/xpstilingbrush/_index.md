@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush فصل. فئة تتضمن السمات المشتركة لعناصر فرش التبليط VisualBrush و ImageBrush .
 type: docs
-weight: 3400
+weight: 3410
 url: /ar/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

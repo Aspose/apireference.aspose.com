@@ -3,7 +3,7 @@ title: Class XpsPathFigure
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPathFigure कक्ष. क्लस इनकैप्सुलेटंग पथफगर एलमेंट फचर्स यह एलमेंट एक य अधक लइन य कर्व सेगमेंट के सेट से बन है
 type: docs
-weight: 3260
+weight: 3270
 url: /hi/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

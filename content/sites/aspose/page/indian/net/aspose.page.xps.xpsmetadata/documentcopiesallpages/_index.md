@@ -3,7 +3,7 @@ title: Class DocumentCopiesAllPages
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCopiesAllPages कक्ष. दस्तवेज़ क प्रतयं क संख्य नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/documentcopiesallpages
 type: docs
-weight: 620
+weight: 630
 url: /hi/net/aspose.page.xps.xpsmetadata/documentcopiesallpages/
 ---
 ## DocumentCopiesAllPages class

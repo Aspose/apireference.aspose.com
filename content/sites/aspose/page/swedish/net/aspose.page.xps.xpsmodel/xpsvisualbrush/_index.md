@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush klass. Klass inkapslar VisualBrushegenskapselementegenskaper. Detta element används för att fylla ett område med en ritning.
 type: docs
-weight: 3420
+weight: 3430
 url: /sv/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

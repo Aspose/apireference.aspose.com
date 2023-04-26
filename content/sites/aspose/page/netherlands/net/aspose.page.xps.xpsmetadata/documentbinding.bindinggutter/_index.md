@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingGutter
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingGutter klas. Beschrijft de manier om het gescoorde eigenschapswaarde hetzij door een geheel getal of door de verwijzing naar de parameter.
 type: docs
-weight: 570
+weight: 580
 url: /nl/net/aspose.page.xps.xpsmetadata/documentbinding.bindinggutter/
 ---
 ## DocumentBinding.BindingGutter class

@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsCanvas कक्ष. कैनवस तत्व सुवधओं क समहत करने वल वर्ग यह तत्व तत्वं क एक सथ समूहत करत है उदहरण के लए ग्लफ़ और पथ तत्व क एक इकई हइपरलंक गंतव्य के रूप में के रूप में पहचने जने के लए एक कैनवस में समूहकृत कय ज सकत है य प्रत्येक बच्चे और पूर्वज तत्व के लए एक रचत गुण मन लगू करने के लए
 type: docs
-weight: 2970
+weight: 2980
 url: /hi/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

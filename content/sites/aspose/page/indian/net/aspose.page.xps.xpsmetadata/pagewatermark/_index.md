@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark कक्ष. आउटपुट क वटरमर्क सेटंग और वटरमर्क वशेषतओं क वर्णन करत है वटरमर्क तर्कक पृष्ठ पर लगू  भतक पृष्ठ पर नहं उदहरण के लए यदDocumentDuplex सक्षम है प्रत्येक पर एक वटरमर्क दखई देग प्रत्येक शट पर पेज अगरDocumentDuplex  2 त प्रत्येक शट में 2 वटरमर्क हंगे https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

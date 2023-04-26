@@ -3,7 +3,7 @@ title: Class PngSaveOptions
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.Presentation.Image.PngSaveOptions 수업. XPS를 PNG로 저장하는 클래스입니다.
 type: docs
-weight: 380
+weight: 390
 url: /ko/net/aspose.page.xps.presentation.image/pngsaveoptions/
 ---
 ## PngSaveOptions class

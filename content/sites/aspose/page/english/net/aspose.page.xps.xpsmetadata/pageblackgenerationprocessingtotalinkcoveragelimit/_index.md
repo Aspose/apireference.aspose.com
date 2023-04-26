@@ -3,7 +3,7 @@ title: PageBlackGenerationProcessingTotalInkCoverageLimit
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the maximum allowed sum of the four ink coverage anywhere in an image. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingtotalinkcoveragelimit
 type: docs
-weight: 1770
+weight: 1780
 url: /net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingtotalinkcoveragelimit/
 ---
 ## PageBlackGenerationProcessingTotalInkCoverageLimit class

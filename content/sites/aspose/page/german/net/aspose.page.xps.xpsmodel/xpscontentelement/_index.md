@@ -3,7 +3,7 @@ title: Class XpsContentElement
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsContentElement klas. Kapselt Funktionen von XPSInhaltselementen ein Leinwand Pfad und Glyphen.
 type: docs
-weight: 3000
+weight: 3010
 url: /de/net/aspose.page.xps.xpsmodel/xpscontentelement/
 ---
 ## XpsContentElement class

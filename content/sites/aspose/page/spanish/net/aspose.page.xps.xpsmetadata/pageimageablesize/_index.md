@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize clase. Describe el lienzo de la imagen para el diseño y la representación. Esto se informará en base a PageMediaSize yPageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /es/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

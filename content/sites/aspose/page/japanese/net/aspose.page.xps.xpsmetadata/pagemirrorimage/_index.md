@@ -3,7 +3,7 @@ title: Class PageMirrorImage
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageMirrorImage クラス. 出力のミラーリング設定について説明します https//docs.microsoft.com/enus/windows/win32/printdocs/pagemirrorimage
 type: docs
-weight: 2260
+weight: 2270
 url: /ja/net/aspose.page.xps.xpsmetadata/pagemirrorimage/
 ---
 ## PageMirrorImage class

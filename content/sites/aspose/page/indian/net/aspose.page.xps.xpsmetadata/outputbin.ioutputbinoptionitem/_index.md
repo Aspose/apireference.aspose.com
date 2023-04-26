@@ -3,7 +3,7 @@ title: Interface OutputBin.IOutputBinOptionItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.OutputBinIOutputBinOptionItem इंटरफेस. कस क इंटरफ़ेसOutputBinOption मद.
 type: docs
-weight: 1690
+weight: 1700
 url: /hi/net/aspose.page.xps.xpsmetadata/outputbin.ioutputbinoptionitem/
 ---
 ## OutputBin.IOutputBinOptionItem interface

@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice sınıf. Sınıf kapsüllü görüntü oluşturma cihazı.
 type: docs
-weight: 350
+weight: 360
 url: /tr/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class
@@ -92,7 +92,7 @@ public class ImageDevice : Device, IMultiPageDevice
 | virtual [Rotate](../../aspose.page/device/rotate/)(double, double, double) | Geçerli dönüşüm matrisini bir nokta etrafında döndürün. |
 | override [Scale](../../aspose.page.xps.presentation.image/imagedevice/scale/)(double, double) | Belirtilen ölçek vektörünü geçerli dönüştürme matrisine uygular. |
 | override [SetClip](../../aspose.page.xps.presentation.image/imagedevice/setclip/)(GraphicsPath) | Belirtilen yolu geçerli klip yoluna ekler. |
-| override [SetTransform](../../aspose.page.xps.presentation.image/imagedevice/settransform/)(Matrix) | Geçerli dönüşüm matrisini ayarlar. |
+| override [SetTransform](../../aspose.page.xps.presentation.image/imagedevice/settransform/)(Matrix) | Geçerli dönüştürme matrisini ayarlar. |
 | override [Shear](../../aspose.page.xps.presentation.image/imagedevice/shear/)(double, double) | Belirtilen kesme vektörünü mevcut dönüşüm matrisine uygular. |
 | override [StartDocument](../../aspose.page.xps.presentation.image/imagedevice/startdocument/)() | Belgeyi başlatır. |
 | override [ToString](../../aspose.page/device/tostring/)() | Aygıt türünün adını döndürür. |

@@ -3,7 +3,7 @@ title: Interface IPropertyItem
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IPropertyItem واجهه المستخدم. الواجهة الأساسية للفئات التي قد تكون بطاقة طباعةProperty العناصر .
 type: docs
-weight: 980
+weight: 990
 url: /ar/net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

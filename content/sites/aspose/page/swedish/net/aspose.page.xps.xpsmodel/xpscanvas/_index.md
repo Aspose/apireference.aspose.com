@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsCanvas klass. Klassinkapslande Canvas elementfunktioner. Detta element grupperar element tillsammans. Till exempel kan Glyphs and Path elements grupperas i en arbetsyta för att identifieras som en enhet som en hyperlänkdestination eller för att tillämpa ett sammansatt egenskapsvärde på varje underordnat och förfaderelement.
 type: docs
-weight: 2970
+weight: 2980
 url: /sv/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

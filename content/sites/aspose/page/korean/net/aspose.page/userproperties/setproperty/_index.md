@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: .NET API 참조용 Aspose.Page
 description: UserProperties 방법. 문자열 속성 값을 설정합니다.
 type: docs
-weight: 140
+weight: 150
 url: /ko/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

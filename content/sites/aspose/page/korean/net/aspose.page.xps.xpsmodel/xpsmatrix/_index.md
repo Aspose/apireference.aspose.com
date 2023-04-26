@@ -3,7 +3,7 @@ title: Class XpsMatrix
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsMatrix 수업. MatrixTransform 속성 요소 기능을 캡슐화하는 클래스입니다. 이 요소는 요소의 좌표 시스템을 조작하는 데 사용되는 임의의 아핀 매트릭스 변환을 정의합니다.
 type: docs
-weight: 3210
+weight: 3220
 url: /ko/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

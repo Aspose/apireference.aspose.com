@@ -3,7 +3,7 @@ title: Class IDProperty
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IDProperty 수업. 의 기본 클래스JobID 그리고DocumentID속성 클래스.
 type: docs
-weight: 900
+weight: 910
 url: /ko/net/aspose.page.xps.xpsmetadata/idproperty/
 ---
 ## IDProperty class

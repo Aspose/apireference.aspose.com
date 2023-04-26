@@ -3,7 +3,7 @@ title: Enum XpsEdgeMode
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsEdgeMode एनुम. कैनवस तत्व के RenderOptions.EdgeMode गुण के मन्य मन.
 type: docs
-weight: 3020
+weight: 3030
 url: /hi/net/aspose.page.xps.xpsmodel/xpsedgemode/
 ---
 ## XpsEdgeMode enumeration

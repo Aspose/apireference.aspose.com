@@ -3,7 +3,7 @@ title: Class JobRollCutAtEndOfJob
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobRollCutAtEndOfJob τάξη. Περιγράφει τη μέθοδο κοπής για χαρτί σε ρολό. Το ρολό πρέπει να κοπεί στο τέλος της εργασίας. https//docs.microsoft.com/enus/windows/win32/printdocs/jobrollcutatendofjob
 type: docs
-weight: 1570
+weight: 1580
 url: /el/net/aspose.page.xps.xpsmetadata/jobrollcutatendofjob/
 ---
 ## JobRollCutAtEndOfJob class

@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut 수업. 롤 용지 절단 방법을 설명합니다. 각 문서는 개별적으로 처리됩니다. 지정된 옵션은 롤 컷의 다양한 방법을 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 790
+weight: 800
 url: /ko/net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

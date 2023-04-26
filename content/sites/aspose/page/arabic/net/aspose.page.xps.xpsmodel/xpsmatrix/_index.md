@@ -3,7 +3,7 @@ title: Class XpsMatrix
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsMatrix فصل. فئة تتضمن ميزات عنصر خاصية تحويل المصفوفة . يعرّف هذا العنصر تحويل المصفوفة التبادلي التعسفي المستخدم للتعامل مع أنظمة الإحداثيات للعناصر .
 type: docs
-weight: 3210
+weight: 3220
 url: /ar/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

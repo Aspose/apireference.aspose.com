@@ -3,7 +3,7 @@ title: Class JobHolePunch
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobHolePunch klas. Beschreibt die Lochungseigenschaften der Ausgabe. Alle Belege sind zusammengelocht. DieJobHolePunch UndDocumentHolePunchSchlüsselwörter schließen sich gegenseitig aus. Beide sollten nicht gleichzeitig in einem PrintTicket oder Print CapabilitiesDokument angegeben werden. https//docs.microsoft.com/enus/windows/win32/printdocs/jobholepunch
 type: docs
-weight: 1350
+weight: 1360
 url: /de/net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class

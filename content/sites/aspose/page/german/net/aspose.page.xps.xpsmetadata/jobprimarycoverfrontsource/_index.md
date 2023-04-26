@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFrontSource
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontSource klas. Gibt die Quelle für ein benutzerdefiniertes primäres Deckblatt für den Auftrag an. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfrontsource
 type: docs
-weight: 1550
+weight: 1560
 url: /de/net/aspose.page.xps.xpsmetadata/jobprimarycoverfrontsource/
 ---
 ## JobPrimaryCoverFrontSource class

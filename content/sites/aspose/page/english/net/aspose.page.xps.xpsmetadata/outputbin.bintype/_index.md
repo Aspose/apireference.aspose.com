@@ -3,7 +3,7 @@ title: OutputBin.BinType
 second_title: Aspose.Page for .NET API Reference
 description: Defines constants for the
 type: docs
-weight: 1670
+weight: 1680
 url: /net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

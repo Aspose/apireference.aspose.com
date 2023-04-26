@@ -3,7 +3,7 @@ title: Class PageCopies
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageCopies τάξη. Καθορίζει τον αριθμό των αντιγράφων μιας σελίδας. https//docs.microsoft.com/enus/windows/win32/printdocs/pagecopies
 type: docs
-weight: 1870
+weight: 1880
 url: /el/net/aspose.page.xps.xpsmetadata/pagecopies/
 ---
 ## PageCopies class

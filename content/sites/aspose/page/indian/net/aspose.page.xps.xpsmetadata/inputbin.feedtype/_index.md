@@ -3,7 +3,7 @@ title: Class InputBin.FeedType
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedType कक्ष. के लए स्थरंक परभषत करत है अर्जत संपत्त मूल्य.
 type: docs
-weight: 1040
+weight: 1050
 url: /hi/net/aspose.page.xps.xpsmetadata/inputbin.feedtype/
 ---
 ## InputBin.FeedType class

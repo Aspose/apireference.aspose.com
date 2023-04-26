@@ -3,7 +3,7 @@ title: Class JobPrintTicket
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobPrintTicket クラス. ジョブ レベルの印刷チケットをカプセル化するクラス
 type: docs
-weight: 1560
+weight: 1570
 url: /ja/net/aspose.page.xps.xpsmetadata/jobprintticket/
 ---
 ## JobPrintTicket class

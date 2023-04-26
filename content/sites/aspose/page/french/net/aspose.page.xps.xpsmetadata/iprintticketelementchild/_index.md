@@ -3,7 +3,7 @@ title: Interface IPrintTicketElementChild
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketElementChild interface. Linterface de base dun élément enfant de tout élément Print Schema.
 type: docs
-weight: 960
+weight: 970
 url: /fr/net/aspose.page.xps.xpsmetadata/iprintticketelementchild/
 ---
 ## IPrintTicketElementChild interface

@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack classe. Décrit la couverture arrière de fin. Chaque travail aura une feuille principale distincte. La page de garde doit être imprimée sur lePageMediaSize etPageMediaType utilisé pour la dernière page du travail. La page de garde doit être intégrée dans les options de traitement telles queJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  comme indiqué par loption spécifiée. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /fr/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

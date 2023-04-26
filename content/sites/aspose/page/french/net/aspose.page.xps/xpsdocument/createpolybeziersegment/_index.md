@@ -17,7 +17,7 @@ public XpsPolyBezierSegment CreatePolyBezierSegment(PointF[] points, bool isStro
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | points | PointF[] | Points de contrôle pour plusieurs segments de Bézier. |
-| isStroked | Boolean | Spécifie si le trait de ce segment du chemin est dessiné. |
+| isStroked | Boolean | Spécifie si le trait de ce segment du chemin est tracé. |
 
 ### Return_Value
 

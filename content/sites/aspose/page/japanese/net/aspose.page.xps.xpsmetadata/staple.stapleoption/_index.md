@@ -3,7 +3,7 @@ title: Class Staple.StapleOption
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.StapleStapleOption クラス. はJobStapleAllDocumentsとDocumentStaple機能 options.
 type: docs
-weight: 2890
+weight: 2900
 url: /ja/net/aspose.page.xps.xpsmetadata/staple.stapleoption/
 ---
 ## Staple.StapleOption class

@@ -3,7 +3,7 @@ title: Scale
 second_title: Aspose.Page for .NET API Reference
 description: Adds scale to current graphics state scale current matrix.
 type: docs
-weight: 210
+weight: 230
 url: /net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

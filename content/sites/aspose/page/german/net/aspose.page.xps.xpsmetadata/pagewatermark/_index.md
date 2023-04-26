@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark klas. Beschreibt die Wasserzeicheneinstellung der Ausgabe und die Wasserzeicheneigenschaften. Wasserzeichen gelten für die logische Seite nicht für die physische Seite. Zum Beispiel wennDocumentDuplex aktiviert ist erscheint auf jedem ein Wasserzeichen Seite auf jedem Blatt. WennDocumentDuplex  2 dann hat jedes Blatt 2 Wasserzeichen. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /de/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

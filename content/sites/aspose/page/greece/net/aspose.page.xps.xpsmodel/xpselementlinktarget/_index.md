@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget τάξη. Κλάση που ενσωματώνει τον σχετικό στόχο υπερσύνδεσης με όνομα διεύθυνση.
 type: docs
-weight: 3040
+weight: 3050
 url: /el/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

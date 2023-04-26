@@ -3,7 +3,7 @@ title: Class LoadOptions
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.LoadOptions فصل. فئة أساسية لخيارات تحميل المستندات.
 type: docs
-weight: 330
+weight: 340
 url: /ar/net/aspose.page.xps/loadoptions/
 ---
 ## LoadOptions class

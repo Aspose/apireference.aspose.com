@@ -3,7 +3,7 @@ title: Class PageInputBin
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageInputBin klas. Beschreibt das installierte Eingabefach in einem Gerät oder die vollständige Liste der unterstützten Fächer für ein Gerät. Ermöglicht die Angabe des Eingabefachs pro Seite. DerJobInputBin DocumentInputBin and PageInputBin Schlüsselwörter schließen sich gegenseitig aus. Beide sollten nicht gleichzeitig in einem PrintTicket oder Print CapabilitiesDokument angegeben werden. https//docs.microsoft.com/enus/windows/win32/printdocs/pageinputbin
 type: docs
-weight: 2020
+weight: 2030
 url: /de/net/aspose.page.xps.xpsmetadata/pageinputbin/
 ---
 ## PageInputBin class

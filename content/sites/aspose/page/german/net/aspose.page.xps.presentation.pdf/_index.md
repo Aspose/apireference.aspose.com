@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page für .NET-API-Referenz
 description: Die Aspose.Page.Xps.Präsentation.Pdf Namespace bietet Klassen zum Rendern von XPS Dokumenten in PDFDokumente.
 type: docs
-weight: 90
+weight: 100
 url: /de/net/aspose.page.xps.presentation.pdf/
 ---
 Die **Aspose.Page.Xps.Präsentation.Pdf** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in PDF-Dokumente.

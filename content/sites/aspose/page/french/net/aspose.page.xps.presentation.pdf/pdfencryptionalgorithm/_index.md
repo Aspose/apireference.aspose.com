@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm énumération. Énumération du mode de chiffrement. Décrivez en utilisant lalgorithme et la longueur de la clé. Cette énumération est étendue afin de pouvoir encore augmenter les fonctionnalités. Cette énumération implémente le modèle BasetoCore.
 type: docs
-weight: 410
+weight: 420
 url: /fr/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

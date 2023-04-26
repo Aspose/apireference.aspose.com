@@ -3,7 +3,7 @@ title: PsDocument.GetStroke
 second_title: Справочник по Aspose.Page для .NET API
 description: PsDocument метод. Получает обводку текущего состояния графики.
 type: docs
-weight: 140
+weight: 160
 url: /ru/net/aspose.page.eps/psdocument/getstroke/
 ---
 ## PsDocument.GetStroke method

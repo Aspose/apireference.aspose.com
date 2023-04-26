@@ -3,7 +3,7 @@ title: Class Feature
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.Feature クラス. 共通の印刷スキーマ機能をカプセル化するクラス すべてのスキーマ定義機能の基本クラス A要素にはOptionとProperty デバイス属性ジョブの書式設定またはその他の関連する特性を完全に記述する要素
 type: docs
-weight: 870
+weight: 880
 url: /ja/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

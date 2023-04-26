@@ -3,7 +3,7 @@ title: Class XpsGradientStop
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsGradientStop 수업. GradientStop 요소 기능을 캡슐화하는 클래스입니다. 이 요소는 LinearGradientBrush 및 RadialGradientBrush 요소 모두에서 그라데이션을 렌더링하기 위한 색상 진행의 위치와 범위를 정의하기 위해 사용됩니다.
 type: docs
-weight: 3110
+weight: 3120
 url: /ko/net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class

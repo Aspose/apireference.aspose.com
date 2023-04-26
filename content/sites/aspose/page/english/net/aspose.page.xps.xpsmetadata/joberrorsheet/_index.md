@@ -3,7 +3,7 @@ title: JobErrorSheet
 second_title: Aspose.Page for .NET API Reference
 description: Describes the error sheet output. The entire job will have a single error sheet. The error sheet should be output on the default PageMediaSize./pagemediasize and using the default PageMediaType./pagemediatype. The error sheet should to be isolated from the remainder of the job. This means that any finishing or processing options such as
 type: docs
-weight: 1290
+weight: 1300
 url: /net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

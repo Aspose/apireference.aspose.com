@@ -3,7 +3,7 @@ title: PsDocument.Merge
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Voegt PS/EPSbestanden samen op een apparaat.
 type: docs
-weight: 160
+weight: 180
 url: /nl/net/aspose.page.eps/psdocument/merge/
 ---
 ## PsDocument.Merge method

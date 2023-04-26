@@ -3,7 +3,7 @@ title: Class JobName
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobName فصل. يحدد اسمًا وصفيًا للوظيفة . https//docs.microsoft.com/enus/windows/win32/printdocs/jobname
 type: docs
-weight: 1390
+weight: 1400
 url: /ar/net/aspose.page.xps.xpsmetadata/jobname/
 ---
 ## JobName class

@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePrinted
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePrinted сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 2230
+weight: 2240
 url: /ru/net/aspose.page.xps.xpsmetadata/pagemediatype.preprinted/
 ---
 ## PageMediaType.PrePrinted class

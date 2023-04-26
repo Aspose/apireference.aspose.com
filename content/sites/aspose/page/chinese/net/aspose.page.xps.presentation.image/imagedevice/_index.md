@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice 班级. 类封装图像合成器.
 type: docs
-weight: 350
+weight: 360
 url: /zh/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class
@@ -42,7 +42,7 @@ public class ImageDevice : Device, IMultiPageDevice
 | override [Size](../../aspose.page.xps.presentation.image/imagedevice/size/) { get; set; } | 获取/设置设备媒体大小。 |
 | override [Stroke](../../aspose.page.xps.presentation.image/imagedevice/stroke/) { get; set; } | 获取/设置绘制路径的笔划。 |
 | virtual [TextRenderingMode](../../aspose.page/device/textrenderingmode/) { get; set; } | 返回或指定当前文本呈现模式。 |
-| virtual [TextStrokeWidth](../../aspose.page/device/textstrokewidth/) { get; set; } | 返回或指定当前文本笔划宽度。 |
+| virtual [TextStrokeWidth](../../aspose.page/device/textstrokewidth/) { get; set; } | 返回或指定当前文本笔画宽度。 |
 
 ## 方法
 

@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page
 second_title: Aspose.Page für .NET-API-Referenz
-description: Die Aspose.Page ist ein RootNamespace für alle Klassen der Aspose.PageBibliothek die entweder direkt darin enthalten sind Gerät oder indirekt über mehrere Unternamensräume.
+description: Die Aspose.Pageist ein RootNamespace für alle Klassen der Aspose.PageBibliothek die entweder direkt darin enthalten sind Gerät oder indirekt über mehrere Unternamensräume.
 type: docs
 weight: 10
 url: /de/net/aspose.page/
 ---
-Die **Aspose.Page** ist ein Root-Namespace für alle Klassen der Aspose.Page-Bibliothek, die entweder direkt darin enthalten sind **Gerät** oder indirekt über mehrere Unternamensräume.
+Die **Aspose.Page**ist ein Root-Namespace für alle Klassen der Aspose.Page-Bibliothek, die entweder direkt darin enthalten sind **Gerät** oder indirekt über mehrere Unternamensräume.
 
 ## Klassen
 

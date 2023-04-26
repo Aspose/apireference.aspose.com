@@ -3,7 +3,7 @@ title: Class JobHolePunch
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobHolePunch 수업. 출력의 홀 펀칭 특성을 설명합니다. 모든 문서가 함께 펀칭됩니다. TheJobHolePunch 그리고DocumentHolePunch키워드는 상호 배타적입니다. PrintTicket 또는 인쇄 기능 문서에서 둘 다 동시에 지정하면 안 됩니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobholepunch
 type: docs
-weight: 1350
+weight: 1360
 url: /ko/net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class

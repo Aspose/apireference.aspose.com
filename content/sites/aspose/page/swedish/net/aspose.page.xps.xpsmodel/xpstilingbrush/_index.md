@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush klass. Klass som inkapslar vanliga egenskaper hos plattsättningsborstar VisualBrush och ImageBrush.
 type: docs
-weight: 3400
+weight: 3410
 url: /sv/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

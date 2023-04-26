@@ -3,7 +3,7 @@ title: PsDocument.Merge
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 将 PS/EPS 文件合并到设备中
 type: docs
-weight: 160
+weight: 180
 url: /zh/net/aspose.page.eps/psdocument/merge/
 ---
 ## PsDocument.Merge method

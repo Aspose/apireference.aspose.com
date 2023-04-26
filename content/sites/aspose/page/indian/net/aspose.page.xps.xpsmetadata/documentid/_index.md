@@ -3,7 +3,7 @@ title: Class DocumentID
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentID कक्ष. दस्तवेज़ के लए एक अद्वतय आईड नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/documentid
 type: docs
-weight: 710
+weight: 720
 url: /hi/net/aspose.page.xps.xpsmetadata/documentid/
 ---
 ## DocumentID class

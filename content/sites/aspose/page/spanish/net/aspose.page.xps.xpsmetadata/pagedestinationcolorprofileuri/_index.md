@@ -1,14 +1,14 @@
 ---
 title: Class PageDestinationColorProfileURI
 second_title: Referencia de la API de Aspose.Page para .NET
-description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfileURI clase. Especifica una referencia de URI relativa a un perfil ICC contenido en un documento XPS. El procesamiento de esta opción depende de la configuración de la función PageDeviceColorSpaceUsage. Se supone que todos los elementos que usan ese perfil ya están en el espacio de color de dispositivo adecuado y no se administrará el color en el controlador o dispositivo. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofileuri
+description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfileURI clase. Especifica una referencia de URI relativa a un perfil ICC contenido en un documento XPS. El procesamiento de esta opción depende de la configuración de la función PageDeviceColorSpaceUsage. Se supone que todos los elementos que usan ese perfil ya están en el espacio de color de dispositivo apropiado y no se administrará el color en el controlador o dispositivo. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofileuri
 type: docs
-weight: 1910
+weight: 1920
 url: /es/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileuri/
 ---
 ## PageDestinationColorProfileURI class
 
-Especifica una referencia de URI relativa a un perfil ICC contenido en un documento XPS. El procesamiento de esta opción depende de la configuración de la función PageDeviceColorSpaceUsage. Se supone que todos los elementos que usan ese perfil ya están en el espacio de color de dispositivo adecuado, y no se administrará el color en el controlador o dispositivo. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagedestinationcolorprofileuri
+Especifica una referencia de URI relativa a un perfil ICC contenido en un documento XPS. El procesamiento de esta opción depende de la configuración de la función PageDeviceColorSpaceUsage. Se supone que todos los elementos que usan ese perfil ya están en el espacio de color de dispositivo apropiado, y no se administrará el color en el controlador o dispositivo. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagedestinationcolorprofileuri
 
 ```csharp
 public sealed class PageDestinationColorProfileURI : StringParameterInit, IDocumentPrintTicketItem, 

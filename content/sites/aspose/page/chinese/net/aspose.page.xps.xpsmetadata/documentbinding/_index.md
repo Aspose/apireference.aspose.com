@@ -3,7 +3,7 @@ title: Class DocumentBinding
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentBinding 班级. 描述了绑定的方法每个文档单独绑定 DocumentBinding 和 JobBindAllDocuments 是互斥的 由驱动程序确定关键字之间的约束处理 https//docs.microsoft.com/enus/windows/win32/printdocs/documentbinding
 type: docs
-weight: 560
+weight: 570
 url: /zh/net/aspose.page.xps.xpsmetadata/documentbinding/
 ---
 ## DocumentBinding class

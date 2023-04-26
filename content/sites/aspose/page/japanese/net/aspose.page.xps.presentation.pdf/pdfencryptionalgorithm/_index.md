@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm 列挙. 暗号化モード列挙アルゴリズムとキーの長さを使用して記述します この列挙型は機能をさらに増やすことができるように拡張されています この列挙型はベースからコアパターンを実装します
 type: docs
-weight: 410
+weight: 420
 url: /ja/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

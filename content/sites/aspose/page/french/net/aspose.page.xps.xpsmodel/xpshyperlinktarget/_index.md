@@ -3,7 +3,7 @@ title: Class XpsHyperlinkTarget
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkTarget classe. Classe de base pour une cible de lien hypertexte.
 type: docs
-weight: 3130
+weight: 3140
 url: /fr/net/aspose.page.xps.xpsmodel/xpshyperlinktarget/
 ---
 ## XpsHyperlinkTarget class

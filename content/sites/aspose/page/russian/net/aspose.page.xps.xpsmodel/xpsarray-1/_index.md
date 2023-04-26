@@ -3,7 +3,7 @@ title: Class XpsArrayT
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsArray1T сорт. Класс инкапсулирующий общие функции объекта массива модели XPS.
 type: docs
-weight: 2950
+weight: 2960
 url: /ru/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

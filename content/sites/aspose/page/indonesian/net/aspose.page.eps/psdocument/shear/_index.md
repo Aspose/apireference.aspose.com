@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page untuk Referensi .NET API
 description: PsDocument metode. Menambahkan transformasi geser ke status grafik saat ini geser matriks saat ini.
 type: docs
-weight: 260
+weight: 290
 url: /id/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

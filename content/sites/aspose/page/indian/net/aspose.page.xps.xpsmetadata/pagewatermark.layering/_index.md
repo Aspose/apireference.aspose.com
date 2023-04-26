@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering कक्ष. आंतरक वर्णन करत है वशेषत वटरमर्क के लेयरंग व्यवहर क परभषत करत है
 type: docs
-weight: 2670
+weight: 2680
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

@@ -1,14 +1,14 @@
 ---
 title: XpsVisualBrush.Visual
 second_title: Aspose.Page untuk Referensi .NET API
-description: XpsVisualBrush Properti. Mengembalikan/mengatur elemen Path Glyphs atau Canvas yang digunakan untuk menggambar konten sumber brush.
+description: XpsVisualBrush Properti. Mengembalikan/mengatur elemen Path Glyphs atau Canvas yang digunakan untuk menggambar konten sumber kuas.
 type: docs
 weight: 10
 url: /id/net/aspose.page.xps.xpsmodel/xpsvisualbrush/visual/
 ---
 ## XpsVisualBrush.Visual property
 
-Mengembalikan/mengatur elemen Path, Glyphs, atau Canvas yang digunakan untuk menggambar konten sumber brush.
+Mengembalikan/mengatur elemen Path, Glyphs, atau Canvas yang digunakan untuk menggambar konten sumber kuas.
 
 ```csharp
 public XpsContentElement Visual { get; }

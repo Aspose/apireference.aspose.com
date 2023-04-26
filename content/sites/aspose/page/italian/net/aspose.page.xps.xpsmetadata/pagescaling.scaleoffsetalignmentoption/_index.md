@@ -3,7 +3,7 @@ title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption classe. Descrive ilScaleOffsetAlignment features options. Specifica lallineamento del contenuto in scala.
 type: docs
-weight: 2520
+weight: 2530
 url: /it/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class

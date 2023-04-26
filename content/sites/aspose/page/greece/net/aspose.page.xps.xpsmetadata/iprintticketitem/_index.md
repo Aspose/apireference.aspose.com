@@ -3,7 +3,7 @@ title: Interface IPrintTicketItem
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketItem διεπαφή. Η βασική διεπαφή για κλάσεις που μπορεί να είναιPrintTicket στοιχεία ριζικού στοιχείου. Είναι επίσης η βασική διεπαφή για διεπαφές που ορίζουν ένα πρόθεμα εύρους.
 type: docs
-weight: 970
+weight: 980
 url: /el/net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface

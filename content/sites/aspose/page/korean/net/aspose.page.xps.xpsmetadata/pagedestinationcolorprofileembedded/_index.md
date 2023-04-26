@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfileEmbedded
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfileEmbedded 수업. 포함된 대상 색상 프로필을 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofileembedded
 type: docs
-weight: 1900
+weight: 1910
 url: /ko/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/
 ---
 ## PageDestinationColorProfileEmbedded class

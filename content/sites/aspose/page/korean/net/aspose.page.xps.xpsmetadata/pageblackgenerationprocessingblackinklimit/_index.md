@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingBlackInkLimit
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingBlackInkLimit 수업. 지정된 명명된 색상으로 레이블이 지정된 응용 프로그램 콘텐츠는 모든 색상 분판에 나타나야 합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingblackinklimit
 type: docs
-weight: 1730
+weight: 1740
 url: /ko/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingblackinklimit/
 ---
 ## PageBlackGenerationProcessingBlackInkLimit class

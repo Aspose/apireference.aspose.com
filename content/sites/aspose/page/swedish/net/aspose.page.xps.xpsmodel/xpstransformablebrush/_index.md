@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush klass. Klass som inkapslar vanliga egenskaper hos transformerbara borstelement alla utom SolidColorBrush.
 type: docs
-weight: 3410
+weight: 3420
 url: /sv/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginWidth
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginWidth 班级. 指定水印相对于原点的原点 . https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginwidth
 type: docs
-weight: 2710
+weight: 2720
 url: /zh/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginwidth/
 ---
 ## PageWatermarkOriginWidth class

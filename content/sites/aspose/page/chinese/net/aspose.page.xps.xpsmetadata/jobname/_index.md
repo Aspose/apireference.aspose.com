@@ -3,7 +3,7 @@ title: Class JobName
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobName 班级. 指定作业的描述性名称 https//docs.microsoft.com/enus/windows/win32/printdocs/jobname
 type: docs
-weight: 1390
+weight: 1400
 url: /zh/net/aspose.page.xps.xpsmetadata/jobname/
 ---
 ## JobName class

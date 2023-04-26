@@ -3,7 +3,7 @@ title: Class DocumentOutputBin
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentOutputBin कक्ष. डवइस के लए समर्थत डब्बे क पूर सूच क वर्णन करत है प्रत दस्तवेज़ के आधर पर Output बन के वनर्देश क अनुमत देत हैJobOutputBin DocumentOutputBin और PageOutputBin कवर्ड परस्पर अनन्य हैं केवल एक क प्रंट टकट य प्रंट क्षमत दस्तवेज़ में नर्दष्ट कय जन चहए https//docs.microsoft.com/enus/windows/win32/printdocs/documentoutputbin
 type: docs
-weight: 760
+weight: 770
 url: /hi/net/aspose.page.xps.xpsmetadata/documentoutputbin/
 ---
 ## DocumentOutputBin class

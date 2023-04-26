@@ -3,7 +3,7 @@ title: Class XpsPolyQuadraticBezierSegment
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsPolyQuadraticBezierSegment sınıf. PolyQuadraticBezierSegment öğe özelliklerini kapsayan sınıf. Bu öğe belirtilen kontrol noktalarını kullanarak bir dizi köşeden geçen yol şekli olan deki önceki noktadan bir ikinci dereceden Bézier eğrileri kümesini açıklar.
 type: docs
-weight: 3320
+weight: 3330
 url: /tr/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

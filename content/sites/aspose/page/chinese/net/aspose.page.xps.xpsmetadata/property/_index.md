@@ -3,7 +3,7 @@ title: Class Property
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.Property 班级. 实现通用 PrintTicket 的类 . 所有模式定义属性的基类 A元素声明设备作业格式或其他相关属性 其名称由其名称属性指定 AValue元素用于将 值分配给. 一个可以很复杂可能包含多个子属性 子属性也由元素. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 2810
+weight: 2820
 url: /zh/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

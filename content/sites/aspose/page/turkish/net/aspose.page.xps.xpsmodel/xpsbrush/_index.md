@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsBrush sınıf. Tüm fırça öğelerinin ortak özelliklerini kapsayan sınıf.
 type: docs
-weight: 2960
+weight: 2970
 url: /tr/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

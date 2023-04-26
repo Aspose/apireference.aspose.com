@@ -3,7 +3,7 @@ title: Class XpsPolyBezierSegment
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPolyBezierSegment فصل. فئة تتضمن ميزات عنصر PolyBezierSegment . يصف هذا العنصر مجموعة من منحنيات بيزير المكعبة.
 type: docs
-weight: 3300
+weight: 3310
 url: /ar/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class

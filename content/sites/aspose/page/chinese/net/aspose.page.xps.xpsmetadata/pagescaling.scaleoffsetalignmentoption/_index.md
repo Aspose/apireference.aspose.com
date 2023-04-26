@@ -3,7 +3,7 @@ title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption 班级. 描述了ScaleOffsetAlignment features options. 指定缩放内容的对齐方式
 type: docs
-weight: 2520
+weight: 2530
 url: /zh/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class

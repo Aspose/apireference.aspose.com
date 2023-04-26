@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering 수업. 내부 설명 특징. 워터마크의 레이어링 동작을 정의합니다.
 type: docs
-weight: 2670
+weight: 2680
 url: /ko/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

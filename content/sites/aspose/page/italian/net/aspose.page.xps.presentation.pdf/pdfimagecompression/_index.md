@@ -3,7 +3,7 @@ title: Enum PdfImageCompression
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.Presentation.Pdf.PdfImageCompression enum. Specifica il tipo di compressione applicato alle immagini nel file PDF.
 type: docs
-weight: 430
+weight: 440
 url: /it/net/aspose.page.xps.presentation.pdf/pdfimagecompression/
 ---
 ## PdfImageCompression enumeration

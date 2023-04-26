@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush クラス. 変換可能なブラシ要素 SolidColorBrush を除くすべて の共通機能をカプセル化するクラス
 type: docs
-weight: 3410
+weight: 3420
 url: /ja/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

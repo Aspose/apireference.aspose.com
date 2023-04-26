@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush فصل. فئة تتضمن ميزات عنصر خاصية ImageBrush . يُستخدم هذا العنصر لملء منطقة بصورة.
 type: docs
-weight: 3170
+weight: 3180
 url: /ar/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

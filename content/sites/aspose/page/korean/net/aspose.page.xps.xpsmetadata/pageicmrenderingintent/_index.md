@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntent 수업. ICC v2 사양에 정의된 렌더링 의도를 설명합니다. 이미지 또는 그래픽 요소에 렌더링 의도를 지정하는 내장된 프로필 가 있는 경우 이 값을 무시해야 합니다. https//docs.microsoft.com/enus/ windows/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1990
+weight: 2000
 url: /ko/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

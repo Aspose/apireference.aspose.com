@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page voor .NET API-referentie
 description: De Aspose.Page.Xps.XpsModelnaamruimte biedt klassen die elementen van XPSdocument beschrijven.
 type: docs
-weight: 110
+weight: 120
 url: /nl/net/aspose.page.xps.xpsmodel/
 ---
 De **Aspose.Page.Xps.XpsModel**naamruimte biedt klassen die elementen van XPS-document beschrijven.

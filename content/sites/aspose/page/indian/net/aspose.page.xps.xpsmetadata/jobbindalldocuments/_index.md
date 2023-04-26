@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocuments कक्ष. बइंडंग क वध क वर्णन करत है नकर में सभ दस्तवेज़ एक सथ बंधे हैं. JobBindAllDocuments औरDocumentBinding परस्पर अनन्य हैं यह ड्रइवर पर नर्भर है क वह इन कवर्ड्स के बच बध से नपटने क नर्धरण करे https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocuments
 type: docs
-weight: 1150
+weight: 1160
 url: /hi/net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

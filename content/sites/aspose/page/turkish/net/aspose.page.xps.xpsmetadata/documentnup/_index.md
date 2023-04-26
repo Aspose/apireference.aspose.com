@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp sınıf. Birden çok mantıksal sayfanın çıktısını ve biçimini tek bir fiziksel sayfaya açıklar. Her belge ayrı ayrı derlenir. VeJobNUpAllDocumentsContiguously birbirini dışlar. Bu anahtar kelimeler arasındaki kısıtlama işlemeyi belirlemek sürücüye bağlıdır. https//docs.Microsoft.com/enus/windows/win32/printdocs/documentnup
 type: docs
-weight: 740
+weight: 750
 url: /tr/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

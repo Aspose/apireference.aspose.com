@@ -47,7 +47,7 @@ public DrFont FetchDrFont(string familyName, float sizePoints, FontStyle style,
 | familyName | String | Nombre de la familia de fuentes. |
 | sizePoints | Single | Tamaño de fuente en puntos (un punto es 1/72 de pulgada). |
 | style | FontStyle | Estilo de fuente. |
-| altFamilyName | String | Nombre de familia de fuente alternativa. |
+| altFamilyName | String | Nombre de familia de fuente alternativo. |
 
 ### Valor_devuelto
 

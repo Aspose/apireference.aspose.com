@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem 界面. 可能是打印模式的类的基接口Feature项目.
 type: docs
-weight: 920
+weight: 930
 url: /zh/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

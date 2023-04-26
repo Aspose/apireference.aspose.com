@@ -3,7 +3,7 @@ title: Interface InputBin.IInputBinItem
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.InputBinIInputBinItem interfaccia. Linterfaccia di qualsiasiJobInputBin DocumentInputBin ePageInputBin elemento caratteristica.
 type: docs
-weight: 1050
+weight: 1060
 url: /it/net/aspose.page.xps.xpsmetadata/inputbin.iinputbinitem/
 ---
 ## InputBin.IInputBinItem interface

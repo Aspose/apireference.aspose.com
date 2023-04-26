@@ -3,7 +3,7 @@ title: PsDocument.DrawExplicitImageMask
 second_title: Aspose.Page untuk Referensi .NET API
 description: PsDocument metode. Menggambar gambar bertopeng.
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.page.eps/psdocument/drawexplicitimagemask/
 ---
 ## PsDocument.DrawExplicitImageMask method

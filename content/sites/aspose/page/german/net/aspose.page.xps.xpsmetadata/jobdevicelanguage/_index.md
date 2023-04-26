@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage klas. Beschreibt die Gerätesprachen die zum Senden von Daten vom Treiber zum physischen Gerät unterstützt werden. Dies wird oft als Seitenbeschreibungssprache bezeichnet. Dieses Schlüsselwort definiert welche Seitenbeschreibungssprache vom Treiber und physischen Gerät unterstützt wird. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /de/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

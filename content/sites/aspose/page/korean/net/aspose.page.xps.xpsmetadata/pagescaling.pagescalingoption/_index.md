@@ -3,7 +3,7 @@ title: Class PageScaling.PageScalingOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingPageScalingOption 수업. 설명PageScaling 기능 옵션.
 type: docs
-weight: 2500
+weight: 2510
 url: /ko/net/aspose.page.xps.xpsmetadata/pagescaling.pagescalingoption/
 ---
 ## PageScaling.PageScalingOption class

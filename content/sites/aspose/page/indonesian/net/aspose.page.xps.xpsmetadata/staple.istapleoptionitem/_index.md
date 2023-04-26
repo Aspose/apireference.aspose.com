@@ -3,7 +3,7 @@ title: Interface Staple.IStapleOptionItem
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.StapleIStapleOptionItem antarmuka. Antarmuka apa sajaStapleOption barang.
 type: docs
-weight: 2880
+weight: 2890
 url: /id/net/aspose.page.xps.xpsmetadata/staple.istapleoptionitem/
 ---
 ## Staple.IStapleOptionItem interface

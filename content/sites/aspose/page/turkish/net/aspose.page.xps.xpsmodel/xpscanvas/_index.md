@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsCanvas sınıf. Canvas öğesi özelliklerini içeren sınıf. Bu öğe öğeleri bir arada gruplar. Örneğin Glifler ve Yol öğeleri  bir birim köprü hedefi olarak olarak tanımlanmak üzere bir tuvalde gruplandırılabilir veya her bir alt ve üst öğeye birleştirilmiş bir özellik değeri uygulamak için olarak gruplandırılabilir.
 type: docs
-weight: 2970
+weight: 2980
 url: /tr/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class
@@ -20,7 +20,7 @@ public sealed class XpsCanvas : XpsContentElement
 | --- | --- |
 | [Clip](../../aspose.page.xps.xpsmodel/xpscontentelement/clip/) { get; set; } | Öğenin işlenmiş bölgesini sınırlayan yol geometri örneğini döndürür/ayarlar. |
 | [Count](../../aspose.page.xps.xpsmodel/xpselement/count/) { get; } | Alt öğelerin sayısını döndürür. |
-| [EdgeMode](../../aspose.page.xps.xpsmodel/xpscanvas/edgemode/) { get; set; } | Tuval içindeki yolların kenarlarının nasıl oluşturulduğunu kontrol eden değeri döndürür/ayarlar. |
+| [EdgeMode](../../aspose.page.xps.xpsmodel/xpscanvas/edgemode/) { get; set; } | Tuval içindeki yolların kenarlarının nasıl işlendiğini kontrol eden değeri döndürür/ayarlar. |
 | [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget/) { get; set; } | Köprü hedef nesnesini döndürür/ayarlar. |
 | [Item](../../aspose.page.xps.xpsmodel/xpselement/item/) { get; } | Dizine göre öğenin çocuklarına erişim sağlar*i* . |
 | [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity/) { get; set; } | Öğenin tek tip şeffaflığını tanımlayan değeri döndürür/ayarlar. |

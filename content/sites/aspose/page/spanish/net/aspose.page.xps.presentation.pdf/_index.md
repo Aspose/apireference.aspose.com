@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Referencia de la API de Aspose.Page para .NET
 description: El Aspose.Page.Xps.Presentation.Pdf El espacio de nombres proporciona clases para representar un documento XPS en un documento PDF.
 type: docs
-weight: 90
+weight: 100
 url: /es/net/aspose.page.xps.presentation.pdf/
 ---
 El **Aspose.Page.Xps.Presentation.Pdf** El espacio de nombres proporciona clases para representar un documento XPS en un documento PDF.

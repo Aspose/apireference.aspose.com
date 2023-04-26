@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment クラス. PolyLineSegment 要素の機能をカプセル化するクラス. この要素は任意の数の個々の頂点を含む多角形の描画を記述します.
 type: docs
-weight: 3310
+weight: 3320
 url: /ja/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

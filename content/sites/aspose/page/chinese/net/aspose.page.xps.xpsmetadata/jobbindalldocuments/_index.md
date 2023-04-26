@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocuments 班级. 描述了绑定的方法作业中的所有文档都绑定在一起 JobBindAllDocuments和DocumentBinding是互斥的 由驱动程序确定这些关键字之间的约束处理 https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocuments
 type: docs
-weight: 1150
+weight: 1160
 url: /zh/net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

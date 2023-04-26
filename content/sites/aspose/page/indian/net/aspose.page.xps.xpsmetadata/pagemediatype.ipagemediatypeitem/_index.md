@@ -3,7 +3,7 @@ title: Interface PageMediaType.IPageMediaTypeItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeIPageMediaTypeItem इंटरफेस. कस क इंटरफ़ेसPageMediaType फचर आइटम.
 type: docs
-weight: 2190
+weight: 2200
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediatype.ipagemediatypeitem/
 ---
 ## PageMediaType.IPageMediaTypeItem interface

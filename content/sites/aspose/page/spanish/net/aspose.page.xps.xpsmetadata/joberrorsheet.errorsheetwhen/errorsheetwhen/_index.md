@@ -16,7 +16,7 @@ public ErrorSheetWhen(params ErrorSheetWhenOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | ErrorSheetWhenOption[] | Una matriz de opciones específicas para la característica. |
+| options | ErrorSheetWhenOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

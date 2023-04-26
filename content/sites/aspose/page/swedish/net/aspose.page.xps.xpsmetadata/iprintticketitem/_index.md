@@ -3,7 +3,7 @@ title: Interface IPrintTicketItem
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketItem gränssnitt. Basgränssnittet för klasser som kan varaPrintTicket rotelementobjekt. Det är också basgränssnittet för gränssnitt som definierar ett omfångsprefix.
 type: docs
-weight: 970
+weight: 980
 url: /sv/net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface

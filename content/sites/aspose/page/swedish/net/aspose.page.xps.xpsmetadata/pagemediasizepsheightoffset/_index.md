@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeightOffset
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeightOffset klass. Anger offset parallellt med matningsriktningen. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheightoffset
 type: docs
-weight: 2120
+weight: 2130
 url: /sv/net/aspose.page.xps.xpsmetadata/pagemediasizepsheightoffset/
 ---
 ## PageMediaSizePSHeightOffset class

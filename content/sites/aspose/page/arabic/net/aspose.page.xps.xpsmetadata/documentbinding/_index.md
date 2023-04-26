@@ -3,7 +3,7 @@ title: Class DocumentBinding
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentBinding فصل. يصف طريقة الربط. يتم ربط كل مستند بشكل منفصل. ربط المستندات و JobBindAllDocuments هما حصريان.
 type: docs
-weight: 560
+weight: 570
 url: /ar/net/aspose.page.xps.xpsmetadata/documentbinding/
 ---
 ## DocumentBinding class

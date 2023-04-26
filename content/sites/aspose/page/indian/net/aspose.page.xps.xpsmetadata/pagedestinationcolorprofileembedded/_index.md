@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfileEmbedded
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfileEmbedded कक्ष. एम्बेडेड गंतव्य रंग प्रफ़इल नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofileembedded
 type: docs
-weight: 1900
+weight: 1910
 url: /hi/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/
 ---
 ## PageDestinationColorProfileEmbedded class

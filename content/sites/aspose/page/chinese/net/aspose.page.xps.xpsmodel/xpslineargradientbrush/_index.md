@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush 班级. 类封装了LinearGradientBrush属性元素features. 该元素用于指定沿向量的线性渐变画笔
 type: docs
-weight: 3200
+weight: 3210
 url: /zh/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

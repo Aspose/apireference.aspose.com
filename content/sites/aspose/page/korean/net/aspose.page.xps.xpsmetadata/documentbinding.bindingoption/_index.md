@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingOption 수업. 의 옵션을 나타냅니다.DocumentBinding 기능.
 type: docs
-weight: 580
+weight: 590
 url: /ko/net/aspose.page.xps.xpsmetadata/documentbinding.bindingoption/
 ---
 ## DocumentBinding.BindingOption class

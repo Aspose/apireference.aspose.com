@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsSave
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. Geçerli grafik durumunun kaydedilmesini yazar gsave işlecindeki PostScript belirtimine bakın.
 type: docs
-weight: 300
+weight: 330
 url: /tr/net/aspose.page.eps/psdocument/writegraphicssave/
 ---
 ## PsDocument.WriteGraphicsSave method

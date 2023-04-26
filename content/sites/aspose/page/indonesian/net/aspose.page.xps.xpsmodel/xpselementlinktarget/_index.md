@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget kelas. Kelas yang merangkum target hyperlink alamat bernama relatif.
 type: docs
-weight: 3040
+weight: 3050
 url: /id/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

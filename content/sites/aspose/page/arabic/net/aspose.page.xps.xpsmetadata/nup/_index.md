@@ -3,7 +3,7 @@ title: Class NUp
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.NUp فصل. الفئة الأساسية لـJobNUpAllDocumentsContiguously وDocumentNUp فئات الميزات .
 type: docs
-weight: 1600
+weight: 1610
 url: /ar/net/aspose.page.xps.xpsmetadata/nup/
 ---
 ## NUp class

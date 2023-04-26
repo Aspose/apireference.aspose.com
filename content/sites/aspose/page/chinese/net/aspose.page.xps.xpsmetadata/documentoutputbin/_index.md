@@ -3,7 +3,7 @@ title: Class DocumentOutputBin
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentOutputBin 班级. 描述设备支持的 bin 的完整列表允许在每个文档的基础上指定 output bin这JobOutputBinDocumentOutputBinand PageOutputBin关键字是互斥的只有一个应该在 PrintTicket 或 Print Capabilities 文档中指定 https//docs.microsoft.com/enus/windows/win32/printdocs/documentoutputbin
 type: docs
-weight: 760
+weight: 770
 url: /zh/net/aspose.page.xps.xpsmetadata/documentoutputbin/
 ---
 ## DocumentOutputBin class

@@ -3,7 +3,7 @@ title: Class IDProperty
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.IDProperty 班级. 的基类JobID和DocumentID属性类.
 type: docs
-weight: 900
+weight: 910
 url: /zh/net/aspose.page.xps.xpsmetadata/idproperty/
 ---
 ## IDProperty class

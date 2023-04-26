@@ -3,7 +3,7 @@ title: Interface OutputBin.IOutputBinOptionItem
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.OutputBinIOutputBinOptionItem 상호 작용. 인터페이스OutputBinOption 항목.
 type: docs
-weight: 1690
+weight: 1700
 url: /ko/net/aspose.page.xps.xpsmetadata/outputbin.ioutputbinoptionitem/
 ---
 ## OutputBin.IOutputBinOptionItem interface

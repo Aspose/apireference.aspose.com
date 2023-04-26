@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode 枚举. 渐变画笔的 ColorInterpolationMode 属性的有效值
 type: docs
-weight: 2990
+weight: 3000
 url: /zh/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

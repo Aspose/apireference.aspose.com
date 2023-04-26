@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush clase. Clase que encapsula características del elemento de propiedad de VisualBrush. Este elemento se utiliza para rellenar una región con un dibujo.
 type: docs
-weight: 3420
+weight: 3430
 url: /es/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

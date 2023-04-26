@@ -3,7 +3,7 @@ title: Class CompositePrintTicketElement
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.CompositePrintTicketElement klas. Die Basisklasse für Klassen die zusammengesetzte DruckschemaElemente sein können dh andere Elemente enthalten.
 type: docs
-weight: 510
+weight: 520
 url: /de/net/aspose.page.xps.xpsmetadata/compositeprintticketelement/
 ---
 ## CompositePrintTicketElement class

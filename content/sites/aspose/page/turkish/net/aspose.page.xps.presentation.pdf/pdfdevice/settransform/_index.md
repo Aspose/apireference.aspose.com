@@ -1,14 +1,14 @@
 ---
 title: PdfDevice.SetTransform
 second_title: Aspose.Page for .NET API Referansı
-description: PdfDevice yöntem. Geçerli dönüşüm matrisini ayarlar.
+description: PdfDevice yöntem. Geçerli dönüştürme matrisini ayarlar.
 type: docs
 weight: 310
 url: /tr/net/aspose.page.xps.presentation.pdf/pdfdevice/settransform/
 ---
 ## PdfDevice.SetTransform method
 
-Geçerli dönüşüm matrisini ayarlar.
+Geçerli dönüştürme matrisini ayarlar.
 
 ```csharp
 public override void SetTransform(Matrix transform)

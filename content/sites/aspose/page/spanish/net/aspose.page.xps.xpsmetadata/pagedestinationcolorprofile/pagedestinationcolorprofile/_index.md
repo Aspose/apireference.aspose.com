@@ -16,7 +16,7 @@ public PageDestinationColorProfile(params PageDestinationColorProfileOption[] op
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageDestinationColorProfileOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageDestinationColorProfileOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

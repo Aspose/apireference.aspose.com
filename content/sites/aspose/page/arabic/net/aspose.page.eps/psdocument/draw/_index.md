@@ -3,7 +3,7 @@ title: PsDocument.Draw
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. ارسم مسارًا عشوائيًا .
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument.Draw method

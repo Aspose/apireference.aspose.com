@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBackSource
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBackSource 수업. 작업에 대한 사용자 정의 뒷표지 기본 시트의 소스를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverbacksource
 type: docs
-weight: 1520
+weight: 1530
 url: /ko/net/aspose.page.xps.xpsmetadata/jobprimarycoverbacksource/
 ---
 ## JobPrimaryCoverBackSource class

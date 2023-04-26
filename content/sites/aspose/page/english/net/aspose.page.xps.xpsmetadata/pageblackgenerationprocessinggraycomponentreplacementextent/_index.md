@@ -3,7 +3,7 @@ title: PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: Aspose.Page for .NET API Reference
 description: Describes the extented beyond neutrals into chromatic colors that GCR applies. 0  Uniform component replacement 100  Gray component replacement. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementextent
 type: docs
-weight: 1740
+weight: 1750
 url: /net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

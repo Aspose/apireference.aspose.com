@@ -3,7 +3,7 @@ title: Class DocumentHolePunch
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentHolePunch فصل. يصف خصائص الخرج للتثقيب. يتم تثقيب كل مستند بشكل منفصلJobHolePunch وDocumentHolePunch الكلمات الرئيسية متعارضة.
 type: docs
-weight: 700
+weight: 710
 url: /ar/net/aspose.page.xps.xpsmetadata/documentholepunch/
 ---
 ## DocumentHolePunch class

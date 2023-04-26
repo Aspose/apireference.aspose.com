@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice कक्ष. क्लस इनकैप्सुलेटंग इमेज कंपज़ंग डवइस
 type: docs
-weight: 400
+weight: 410
 url: /hi/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

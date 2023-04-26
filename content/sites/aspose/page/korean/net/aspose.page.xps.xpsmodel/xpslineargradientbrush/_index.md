@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush 수업. LinearGradientBrush 속성 요소 기능을 캡슐화하는 클래스. 이 요소는 벡터를 따라 선형 그래디언트 브러시를 지정하는 데 사용됩니다.
 type: docs
-weight: 3200
+weight: 3210
 url: /ko/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

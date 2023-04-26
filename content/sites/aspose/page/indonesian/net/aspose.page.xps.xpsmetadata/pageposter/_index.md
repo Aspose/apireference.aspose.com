@@ -3,7 +3,7 @@ title: Class PagePoster
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PagePoster kelas. Menjelaskan output dari satu halaman ke beberapa lembar media fisik. https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 2410
+weight: 2420
 url: /id/net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

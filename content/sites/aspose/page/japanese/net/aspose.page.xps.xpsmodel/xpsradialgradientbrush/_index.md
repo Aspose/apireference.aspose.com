@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush クラス. RadialGradientBrush プロパティ要素の機能をカプセル化するクラス. この要素は放射状グラデーション ブラシを指定するために使用されます.
 type: docs
-weight: 3330
+weight: 3340
 url: /ja/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

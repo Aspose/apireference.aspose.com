@@ -3,7 +3,7 @@ title: Class JobRollCutAtEndOfJob
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobRollCutAtEndOfJob 수업. 롤 용지 절단 방법을 설명합니다. 작업이 끝나면 롤을 절단해야 합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobrollcutatendofjob
 type: docs
-weight: 1570
+weight: 1580
 url: /ko/net/aspose.page.xps.xpsmetadata/jobrollcutatendofjob/
 ---
 ## JobRollCutAtEndOfJob class

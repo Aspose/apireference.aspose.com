@@ -3,7 +3,7 @@ title: Class XpsSolidColorBrush
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsSolidColorBrush فصل. فئة تتضمن ميزات عنصر خاصية SolidColorBrush . يُستخدم هذا العنصر لملء المناطق الهندسية المحددة بلون خالص .
 type: docs
-weight: 3350
+weight: 3360
 url: /ar/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

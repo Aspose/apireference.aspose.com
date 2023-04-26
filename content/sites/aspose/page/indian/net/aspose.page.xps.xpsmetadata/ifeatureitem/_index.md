@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem इंटरफेस. प्रंट स्कम ह सकने वल कक्षओं के लए आधर इंटरफ़ेसFeature आइटम.
 type: docs
-weight: 920
+weight: 930
 url: /hi/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

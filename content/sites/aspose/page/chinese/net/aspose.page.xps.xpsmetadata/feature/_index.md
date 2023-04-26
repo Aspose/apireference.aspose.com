@@ -3,7 +3,7 @@ title: Class Feature
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.Feature 班级. 封装通用打印模式功能的类 所有模式定义功能的基类 A元素包含的完整列表Option和Property 完整描述设备属性作业格式设置或其他相关特征的元素 https//docs.microsoft.com/enus/windows/win32/printdocs/feature
 type: docs
-weight: 870
+weight: 880
 url: /zh/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

@@ -3,7 +3,7 @@ title: Class PageSourceColorProfileEmbedded
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfileEmbedded τάξη. Καθορίζει το προφίλ χρώματος της ενσωματωμένης πηγής.
 type: docs
-weight: 2600
+weight: 2610
 url: /el/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofileembedded/
 ---
 ## PageSourceColorProfileEmbedded class

@@ -3,7 +3,7 @@ title: Class BmpSaveOptions
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.Presentation.Image.BmpSaveOptions 수업. XPSasBMP 저장 옵션 클래스.
 type: docs
-weight: 340
+weight: 350
 url: /ko/net/aspose.page.xps.presentation.image/bmpsaveoptions/
 ---
 ## BmpSaveOptions class

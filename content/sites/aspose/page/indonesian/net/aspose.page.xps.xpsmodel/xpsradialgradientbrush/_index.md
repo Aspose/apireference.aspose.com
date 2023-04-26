@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush kelas. Kelas yang merangkum fitur elemen properti RadialGradientBrush. Elemen ini digunakan untuk menentukan kuas gradien radial.
 type: docs
-weight: 3330
+weight: 3340
 url: /id/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

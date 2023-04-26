@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage कक्ष. ड्रइवर से भतक डवइस पर डेट भेजने के लए समर्थत डवइस भषओं क वर्णन करत है इसे अक्सर पृष्ठ ववरण भष कह जत है यह कवर्ड परभषत करत है क कन स पृष्ठ ववरण भष ड्रइवर और भतक उपकरण द्वर समर्थत है https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /hi/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

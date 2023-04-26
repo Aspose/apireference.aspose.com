@@ -3,7 +3,7 @@ title: Class InputBin
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.InputBin 班级. 的基类JobInputBinDocumentInputBin 和PageInputBin特征类.
 type: docs
-weight: 1000
+weight: 1010
 url: /zh/net/aspose.page.xps.xpsmetadata/inputbin/
 ---
 ## InputBin class

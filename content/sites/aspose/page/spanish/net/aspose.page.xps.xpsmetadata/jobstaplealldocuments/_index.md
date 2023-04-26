@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments clase. Describe las características de grapado de la salida. Todos los documentos del trabajo se grapan juntos. ElJobStapleAllDocuments yDocumentStaple las palabras clave son mutuamente excluyentes. Depende del controlador determinar el manejo de restricciones entre estas palabras clave. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /es/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

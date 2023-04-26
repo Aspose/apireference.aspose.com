@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageResolution sınıf. Yazdırılan çıktının sayfa çözünürlüğünü nitel bir değer veya inç başına nokta sayısı veya her ikisi olarak tanımlar.
 type: docs
-weight: 2430
+weight: 2440
 url: /tr/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

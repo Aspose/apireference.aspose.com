@@ -3,7 +3,7 @@ title: Class PageMediaSize
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSize klass. Beskriver de fysiska mediadimensionerna som används för utdata. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasize
 type: docs
-weight: 2050
+weight: 2060
 url: /sv/net/aspose.page.xps.xpsmetadata/pagemediasize/
 ---
 ## PageMediaSize class

@@ -3,7 +3,7 @@ title: Class XpsArrayT
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsArray1T classe. Classe encapsulant les caractéristiques communes des objets de tableau de modèle XPS.
 type: docs
-weight: 2950
+weight: 2960
 url: /fr/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

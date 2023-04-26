@@ -3,7 +3,7 @@ title: Class XpsPolyBezierSegment
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsPolyBezierSegment クラス. PolyBezierSegment 要素の機能をカプセル化するクラス. この要素は3 次ベジエ曲線のセットを記述します.
 type: docs
-weight: 3300
+weight: 3310
 url: /ja/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class

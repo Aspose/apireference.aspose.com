@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.Xps.Presentation.Pdf пространство имен предоставляет классы для преобразования документа XPS в документ PDF.
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.page.xps.presentation.pdf/
 ---
 **Aspose.Page.Xps.Presentation.Pdf** пространство имен предоставляет классы для преобразования документа XPS в документ PDF.

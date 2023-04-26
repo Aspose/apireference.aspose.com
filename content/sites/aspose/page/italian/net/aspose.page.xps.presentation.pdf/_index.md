@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page per riferimento all'API .NET
 description: Il Aspose.Page.Xps.Presentation.Pdf namespace fornisce classi per il rendering di documenti XPS in documenti PDF.
 type: docs
-weight: 90
+weight: 100
 url: /it/net/aspose.page.xps.presentation.pdf/
 ---
 Il **Aspose.Page.Xps.Presentation.Pdf** namespace fornisce classi per il rendering di documenti XPS in documenti PDF.

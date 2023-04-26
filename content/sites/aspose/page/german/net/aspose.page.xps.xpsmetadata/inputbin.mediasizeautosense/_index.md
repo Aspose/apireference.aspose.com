@@ -3,7 +3,7 @@ title: Class InputBin.MediaSizeAutoSense
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaSizeAutoSense klas. Definiert Konstanten für die Bewerteter Eigenschaftswert.
 type: docs
-weight: 1090
+weight: 1100
 url: /de/net/aspose.page.xps.xpsmetadata/inputbin.mediasizeautosense/
 ---
 ## InputBin.MediaSizeAutoSense class

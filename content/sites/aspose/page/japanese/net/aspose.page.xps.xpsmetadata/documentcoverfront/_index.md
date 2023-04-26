@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront クラス. 表紙冒頭の表紙を記述します各ドキュメントには個別のシートがあります カバー シートはPageMediaSizeとPageMediaTypeドキュメントの最初のページに使用される カバー シートは処理 options に統合する必要があります DocumentDuplex DocumentNUp  指定されたオプションで示される. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /ja/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

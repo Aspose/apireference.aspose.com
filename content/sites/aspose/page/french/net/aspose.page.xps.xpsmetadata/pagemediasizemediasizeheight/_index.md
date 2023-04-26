@@ -3,7 +3,7 @@ title: Class PageMediaSizeMediaSizeHeight
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeMediaSizeHeight classe. Spécifie la dimension direction pour la coutume option. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizemediasizeheight
 type: docs
-weight: 2090
+weight: 2100
 url: /fr/net/aspose.page.xps.xpsmetadata/pagemediasizemediasizeheight/
 ---
 ## PageMediaSizeMediaSizeHeight class

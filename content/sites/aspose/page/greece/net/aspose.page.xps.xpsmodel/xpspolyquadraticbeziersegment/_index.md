@@ -3,7 +3,7 @@ title: Class XpsPolyQuadraticBezierSegment
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPolyQuadraticBezierSegment τάξη. Χαρακτηριστικά στοιχείου PolyQuadraticBezierSegment που ενσωματώνει κλάση. Αυτό το στοιχείο περιγράφει ένα σύνολο τετραγωνικών καμπυλών Bézier από το προηγούμενο σημείο in το σχήμα διαδρομής μέσα από ένα σύνολο κορυφών χρησιμοποιώντας καθορισμένα σημεία ελέγχου.
 type: docs
-weight: 3320
+weight: 3330
 url: /el/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

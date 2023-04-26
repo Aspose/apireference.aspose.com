@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | 文字列配列のプロパティ値を取得します。要求されたプロパティが存在しない場合は、提供されたデフォルト値を返します. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | ブール値のプロパティ値を取得します. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | ブール値のプロパティ値を取得します。要求されたプロパティが存在しない場合は、提供されたデフォルト値を返します. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | プロパティ名を返します。 |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | ブール値のプロパティ値を設定します。 |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | 色のプロパティ値を設定します。 |

@@ -3,7 +3,7 @@ title: Enum XpsLineJoin
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsLineJoin एनुम. पथ तत्व के StrokeLineJoin गुण के मन्य मन.
 type: docs
-weight: 3190
+weight: 3200
 url: /hi/net/aspose.page.xps.xpsmodel/xpslinejoin/
 ---
 ## XpsLineJoin enumeration

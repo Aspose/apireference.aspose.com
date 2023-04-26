@@ -3,7 +3,7 @@ title: Class WdpNet20NotSupportedException
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.Presentation.WdpNet20NotSupportedException 班级. 在 .NET 2.0. 的库版本中转换包含 WDP 图像的 XPS 文档时引发的异常
 type: docs
-weight: 460
+weight: 470
 url: /zh/net/aspose.page.xps.presentation/wdpnet20notsupportedexception/
 ---
 ## WdpNet20NotSupportedException class

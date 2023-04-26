@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePrinted
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePrinted sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 2230
+weight: 2240
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediatype.preprinted/
 ---
 ## PageMediaType.PrePrinted class

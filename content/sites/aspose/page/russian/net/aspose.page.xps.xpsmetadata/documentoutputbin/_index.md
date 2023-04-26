@@ -3,7 +3,7 @@ title: Class DocumentOutputBin
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentOutputBin сорт. Описывает полный список поддерживаемых бинов для устройства. Позволяет указать output bin для каждого документа.JobOutputBin DocumentOutputBin и PageOutputBin ключевые слова являются взаимоисключающими только одно должно быть указано в документе PrintTicket или Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/documentoutputbin
 type: docs
-weight: 760
+weight: 770
 url: /ru/net/aspose.page.xps.xpsmetadata/documentoutputbin/
 ---
 ## DocumentOutputBin class

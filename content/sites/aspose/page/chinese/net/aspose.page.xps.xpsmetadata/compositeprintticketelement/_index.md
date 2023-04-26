@@ -3,7 +3,7 @@ title: Class CompositePrintTicketElement
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.CompositePrintTicketElement 班级. 可能是复合打印模式元素即包含其他元素的类的基类
 type: docs
-weight: 510
+weight: 520
 url: /zh/net/aspose.page.xps.xpsmetadata/compositeprintticketelement/
 ---
 ## CompositePrintTicketElement class

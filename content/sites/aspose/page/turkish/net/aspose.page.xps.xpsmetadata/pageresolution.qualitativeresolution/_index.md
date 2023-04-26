@@ -3,7 +3,7 @@ title: Class PageResolution.QualitativeResolution
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionQualitativeResolution sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 2470
+weight: 2480
 url: /tr/net/aspose.page.xps.xpsmetadata/pageresolution.qualitativeresolution/
 ---
 ## PageResolution.QualitativeResolution class

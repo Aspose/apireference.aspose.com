@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet kelas. Menjelaskan lembar akuntansi yang akan dihasilkan untuk pekerjaan itu. Lembar akuntansi harus ditampilkan pada default PageMediaSize dan menggunakan defaultPageMediaType . Lembar akuntansi harus diisolasi dari sisa pekerjaan. Ini berarti opsi penyelesaian atau pemrosesan apa pun seperti   atau  tidak boleh menyertakan lembar akuntansi. Lembar akuntansi dapat muncul sebagai halaman pertama atau terakhir dari pekerjaan atas kebijaksanaan pelaksana. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /id/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

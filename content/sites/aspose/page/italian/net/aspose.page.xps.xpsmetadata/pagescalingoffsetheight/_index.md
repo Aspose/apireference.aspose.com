@@ -3,7 +3,7 @@ title: Class PageScalingOffsetHeight
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetHeight classe. Specifica loffset di ridimensionamento in direzione per il ridimensionamento personalizzato. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetheight
 type: docs
-weight: 2530
+weight: 2540
 url: /it/net/aspose.page.xps.xpsmetadata/pagescalingoffsetheight/
 ---
 ## PageScalingOffsetHeight class

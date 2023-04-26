@@ -3,7 +3,7 @@ title: Save
 second_title: Aspose.Page for .NET API Reference
 description: Saves PS/EPS file to a device.
 type: docs
-weight: 200
+weight: 220
 url: /net/aspose.page.eps/psdocument/save/
 ---
 ## Save(Device, SaveOptions) {#save_1}

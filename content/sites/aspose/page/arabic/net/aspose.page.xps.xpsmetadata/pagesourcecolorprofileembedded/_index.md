@@ -3,7 +3,7 @@ title: Class PageSourceColorProfileEmbedded
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfileEmbedded فصل. يحدد ملف تعريف لون المصدر المضمن.
 type: docs
-weight: 2600
+weight: 2610
 url: /ar/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofileembedded/
 ---
 ## PageSourceColorProfileEmbedded class

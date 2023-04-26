@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget clase. Clase que encapsula el destino de hipervínculo de dirección con nombre relativo.
 type: docs
-weight: 3040
+weight: 3050
 url: /es/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

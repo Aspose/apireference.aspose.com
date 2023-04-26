@@ -3,7 +3,7 @@ title: Class JobName
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobName 수업. 작업에 대한 설명 이름을 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobname
 type: docs
-weight: 1390
+weight: 1400
 url: /ko/net/aspose.page.xps.xpsmetadata/jobname/
 ---
 ## JobName class

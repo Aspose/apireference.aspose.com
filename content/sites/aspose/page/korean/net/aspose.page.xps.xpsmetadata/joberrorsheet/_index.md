@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet 수업. 오류 시트 출력을 설명합니다. 전체 작업에는 단일 오류 시트가 있습니다. 오류 sheet 가 기본값으로 출력되어야 합니다.PageMediaSize 그리고 기본값을 사용하여PageMediaType . 오류 시트는 작업의 나머지 부분과 분리되어야 합니다. 즉 마무리 또는 처리 옵션예   또는  는 오류 시트를 포함하지 않아야 합니다. 오류 시트는 작업의 최종 시트로 발생해야 합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /ko/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

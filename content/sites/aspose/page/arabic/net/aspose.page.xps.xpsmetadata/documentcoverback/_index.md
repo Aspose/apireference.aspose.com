@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack فصل. يصف ورقة الغلاف الخلفية النهائية. سيكون لكل وثيقة ورقة منفصلة. يجب طباعة ورقة الغلاف على ملفPageMediaSize وPageMediaType تستخدم للصفحة الأخيرة من المستند. يجب دمج ورقة الغلاف في خيارات المعالجة مثلDocumentDuplex وDocumentNUp  كما يتضح من الخيار المحدد . https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /ar/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

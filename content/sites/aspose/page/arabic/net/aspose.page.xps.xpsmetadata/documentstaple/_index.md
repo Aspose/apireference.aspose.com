@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple فصل. يصف خصائص التدبيس الخاصة بالمخرجات. يتم تدبيس كل مستند على حدةJobStapleAllDocuments وDocumentStapleالكلمات الرئيسية حصرية بشكل متبادل . الأمر متروك للسائق لتحديد معالجة القيد بين هذه الكلمات الرئيسية.
 type: docs
-weight: 820
+weight: 830
 url: /ar/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

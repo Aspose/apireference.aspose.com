@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously klass. Beskriver duplexegenskaperna för utgången. Duplexfunktionen gör det möjligt att skriva ut på båda sidor av materialet. Alla dokument i jobbet är dubbelsidiga tillsammans. JobDuplexAllDocumentsContiguously ochDocumentDuplexär ömsesidigt uteslutande. Det är upp till föraren att bestämma hantering av restriktioner mellan dessa nyckelord. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /sv/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsMetadata
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.Xps.Xps메타데이터 네임스페이스는 XPS 문서의 메타데이터를 설명하는 클래스를 제공합니다.
 type: docs
-weight: 100
+weight: 110
 url: /ko/net/aspose.page.xps.xpsmetadata/
 ---
 **Aspose.Page.Xps.Xps메타데이터** 네임스페이스는 XPS 문서의 메타데이터를 설명하는 클래스를 제공합니다.
@@ -102,7 +102,7 @@ url: /ko/net/aspose.page.xps.xpsmetadata/
 | [PageForceFrontSide](./pageforcefrontside/) | 출력이 미디어 시트의 전면에 나타나도록 합니다. 각 면에 서로 다른 표면이 있는 미디어 시트와 관련이 있습니다. 이 기능이 처리 옵션(예: [`DocumentDuplex`](../aspose.page.xps.xpsmetadata/documentduplex/) ), 기능이 적용되는 specific 페이지에 우선합니다. |
 | [PageICMRenderingIntent](./pageicmrenderingintent/) | ICC v2 사양에 정의된 렌더링 의도를 설명합니다. 이미지 또는 그래픽 요소에 렌더링 의도를 지정하는 내장된 프로필 가 있는 경우 이 값을 무시해야 합니다. https://docs.microsoft.com/en-us/ windows/win32/printdocs/pageicmrenderingintent |
 | [PageImageableSize](./pageimageablesize/) | 레이아웃 및 렌더링을 위한 이미지 캔버스를 설명합니다. 이것은 on 를 기준으로 보고됩니다.[`PageMediaSize`](../aspose.page.xps.xpsmetadata/pagemediasize/) 그리고[`PageOrientation`](../aspose.page.xps.xpsmetadata/pageorientation/) . https://docs.microsoft.com/en-us/windows/win32/printdocs/pageimageablesize |
-| [PageInputBin](./pageinputbin/) | 장치에 설치된 입력함 또는 장치에 대해 지원되는 빈의 전체 목록을 설명합니다. 페이지별로 입력함을 지정할 수 있습니다. 그만큼[`JobInputBin`](../aspose.page.xps.xpsmetadata/jobinputbin/) ,[`DocumentInputBin`](../aspose.page.xps.xpsmetadata/documentinputbin/) and [`PageInputBin`](../aspose.page.xps.xpsmetadata/pageinputbin/) 키워드는 상호 배타적입니다. 둘 다 PrintTicket 또는 인쇄 기능 문서에서 동시에 지정하면 안 됩니다. https://docs.microsoft.com/en-us/windows/win32/printdocs/pageinputbin |
+| [PageInputBin](./pageinputbin/) | 장치에 설치된 입력함 또는 장치에 대해 지원되는 빈의 전체 목록을 설명합니다. 페이지별로 입력함을 지정할 수 있습니다. 그만큼[`JobInputBin`](../aspose.page.xps.xpsmetadata/jobinputbin/) ,[`DocumentInputBin`](../aspose.page.xps.xpsmetadata/documentinputbin/) and [`PageInputBin`](../aspose.page.xps.xpsmetadata/pageinputbin/) 키워드는 상호 배타적입니다. PrintTicket 또는 인쇄 기능 문서에서 동시에 를 지정하면 안 됩니다. https://docs.microsoft.com/en-us/windows/win32/printdocs/pageinputbin |
 | [PageMediaColor](./pagemediacolor/) | 미디어 색상 옵션 및 각 옵션의 특성을 설명합니다. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediacolor |
 | [PageMediaSize](./pagemediasize/) | 출력에 사용되는 물리적 미디어 크기를 설명합니다. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasize |
 | [PageMediaSizeMediaSizeHeight](./pagemediasizemediasizeheight/) | 치수를 지정합니다. 사용자 정의 방향 option. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizemediasizeheight |

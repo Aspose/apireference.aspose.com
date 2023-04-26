@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut klass. Beskriver skärmetoden för rullpapper. Varje dokument hanteras separat. De angivna alternativen beskriver de olika metoderna för roll cut. https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 790
+weight: 800
 url: /sv/net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

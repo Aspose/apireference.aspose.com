@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsBrush kelas. Kelas merangkum fitur umum dari semua elemen kuas.
 type: docs
-weight: 2960
+weight: 2970
 url: /id/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

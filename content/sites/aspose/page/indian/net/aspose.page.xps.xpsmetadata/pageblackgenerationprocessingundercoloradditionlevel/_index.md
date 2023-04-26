@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingUnderColorAdditionLevel
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingUnderColorAdditionLevel कक्ष. उन क्षेत्रं में जड़ने के लए रंगन स्यह ग्रे घटक अनुपत में क मत्र क वर्णन करत है जहं GCR/UCR ने डर्क न्यूट्रल और नकटतटस्थ क्षेत्रं में ब्लैकइंकलमट य UCAStart यद नर्दष्ट कय गय है उत्पन्न कय है https//docs.microsoft .com/enus/windows/win32/printdocs/pageblackgenerationprocessingundercoloradditionlevel
 type: docs
-weight: 1780
+weight: 1790
 url: /hi/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionlevel/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionLevel class

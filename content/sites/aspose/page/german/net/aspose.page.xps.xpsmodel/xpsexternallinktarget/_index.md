@@ -3,7 +3,7 @@ title: Class XpsExternalLinkTarget
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsExternalLinkTarget klas. Klasse die das externe Hyperlinkziel einkapselt.
 type: docs
-weight: 3050
+weight: 3060
 url: /de/net/aspose.page.xps.xpsmodel/xpsexternallinktarget/
 ---
 ## XpsExternalLinkTarget class
@@ -19,6 +19,12 @@ public sealed class XpsExternalLinkTarget : XpsHyperlinkTarget
 | Name | Beschreibung |
 | --- | --- |
 | [XpsExternalLinkTarget](xpsexternallinktarget/)(string) | Erstellt die neue Instanz. |
+
+## Eigenschaften
+
+| Name | Beschreibung |
+| --- | --- |
+| [TargetUri](../../aspose.page.xps.xpsmodel/xpsexternallinktarget/targeturi/) { get; } | Ruft den Ziel-URI ab. |
 
 ### Siehe auch
 

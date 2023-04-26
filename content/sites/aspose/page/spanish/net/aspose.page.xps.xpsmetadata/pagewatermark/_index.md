@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark clase. Describe la configuración de la marca de agua de la salida y las características de la marca de agua. Las marcas de agua se aplican a la página lógica no a la página física. Por ejemplo siDocumentDuplex está habilitado aparecerá una marca de agua en cada página en cada hoja. SiDocumentDuplex  2 cada hoja tendrá 2 marcas de agua. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /es/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

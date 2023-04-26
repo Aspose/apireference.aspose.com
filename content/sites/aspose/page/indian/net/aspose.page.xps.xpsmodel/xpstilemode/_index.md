@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsTileMode एनुम. टइलंग ब्रश के टइलमड गुण के मन्य मन.
 type: docs
-weight: 3390
+weight: 3400
 url: /hi/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

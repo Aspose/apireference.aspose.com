@@ -3,7 +3,7 @@ title: Class XpsHyperlinkElement
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkElement 수업. 하이퍼링크가 될 수 있는 XPS 요소의 일반적인 기능을 캡슐화합니다.
 type: docs
-weight: 3120
+weight: 3130
 url: /ko/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

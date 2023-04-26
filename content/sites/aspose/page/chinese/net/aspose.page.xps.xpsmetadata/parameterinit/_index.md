@@ -3,7 +3,7 @@ title: Class ParameterInit
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.ParameterInit 班级. 实现通用 PrintTicket 参数初始值设定项的类 所有模式定义的参数初始值设定项的基类 为一个实例定义一个值元素. A元素是一个引用的目标ParameterRefelement. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterinit
 type: docs
-weight: 2770
+weight: 2780
 url: /zh/net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class

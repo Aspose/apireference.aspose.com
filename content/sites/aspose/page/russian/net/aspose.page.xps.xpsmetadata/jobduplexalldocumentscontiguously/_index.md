@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously сорт. Описывает дуплексные характеристики вывода. Функция двусторонней печати позволяет печатать на обеих сторонах носителя. Все документы в задании дублируются непрерывно. JobDuplexAllDocumentsContiguously иDocumentDuplexявляются взаимоисключающими. Драйвер должен определить обработку ограничений между этими ключевыми словами. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /ru/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

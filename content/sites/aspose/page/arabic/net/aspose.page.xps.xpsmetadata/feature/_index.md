@@ -3,7 +3,7 @@ title: Class Feature
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.Feature فصل. الفئة التي تتضمن ميزة مخطط الطباعة الشائعة . الفئة الأساسية لجميع الميزات المعرفة من قبل المخطط . A يحتوي العنصر على قائمة كاملة بـOption وProperty العناصر التي تصف بشكل كامل سمة الجهاز أو إعداد تنسيق الوظيفة أو أي خصائص أخرى ذات صلة . https//docs.microsoft.com/enus/windows/win32/printdocs/feature
 type: docs
-weight: 870
+weight: 880
 url: /ar/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

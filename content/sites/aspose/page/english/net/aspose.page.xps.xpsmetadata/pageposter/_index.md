@@ -3,7 +3,7 @@ title: PagePoster
 second_title: Aspose.Page for .NET API Reference
 description: Describes the output of a single page to multiple physical media sheets. https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 2410
+weight: 2420
 url: /net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

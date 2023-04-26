@@ -16,7 +16,7 @@ public PageBlendColorSpace(params PageBlendColorSpaceOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageBlendColorSpaceOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageBlendColorSpaceOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

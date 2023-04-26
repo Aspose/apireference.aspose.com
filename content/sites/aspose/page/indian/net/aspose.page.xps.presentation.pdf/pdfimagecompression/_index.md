@@ -3,7 +3,7 @@ title: Enum PdfImageCompression
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Pdf.PdfImageCompression एनुम. पडएफ फइल में छवयं पर लगू संपड़न के प्रकर क नर्दष्ट करत है
 type: docs
-weight: 430
+weight: 440
 url: /hi/net/aspose.page.xps.presentation.pdf/pdfimagecompression/
 ---
 ## PdfImageCompression enumeration

@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | 获取字符串数组属性值。如果请求的属性不存在，则返回提供的默认值。 |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | 获取布尔属性值。 |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | 获取布尔属性值。如果请求的属性不存在，则返回提供的默认值。 |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | 返回属性名称。 |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | 设置布尔属性值。 |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | 设置颜色属性值。 |

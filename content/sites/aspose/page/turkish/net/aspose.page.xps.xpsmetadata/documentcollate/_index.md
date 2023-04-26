@@ -3,7 +3,7 @@ title: Class DocumentCollate
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentCollate sınıf. Çıktının harmanlama özelliklerini açıklar. Her bir belgedeki tüm sayfalar harmanlanır. DocumentCollate ve JobCollateAlldocuments birbirini dışlar. Bu anahtar sözcüklerden ikisinin mi yoksa yalnızca birinin mi uygulandığının davranışı ve uygulanması sürücüye bırakılmıştır. https//docs.Microsoft.com/enus/windows/win32/printdocs/documentcollate
 type: docs
-weight: 610
+weight: 620
 url: /tr/net/aspose.page.xps.xpsmetadata/documentcollate/
 ---
 ## DocumentCollate class

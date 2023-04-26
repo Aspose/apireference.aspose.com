@@ -3,7 +3,7 @@ title: Class InputBin.FeedFace
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedFace сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 1030
+weight: 1040
 url: /ru/net/aspose.page.xps.xpsmetadata/inputbin.feedface/
 ---
 ## InputBin.FeedFace class

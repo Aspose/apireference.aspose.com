@@ -3,7 +3,7 @@ title: Class PageInputBin
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageInputBin kelas. Menjelaskan tempat masukan yang dipasang di perangkat atau daftar lengkap tempat sampah yang didukung untuk suatu perangkat. Memungkinkan spesifikasi tempat masukan per halaman. ItuJobInputBin DocumentInputBin dan PageInputBin kata kunci saling eksklusif. Keduanya tidak boleh ditentukan secara bersamaan dalam dokumen PrintTicket atau Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/pageinputbin
 type: docs
-weight: 2020
+weight: 2030
 url: /id/net/aspose.page.xps.xpsmetadata/pageinputbin/
 ---
 ## PageInputBin class

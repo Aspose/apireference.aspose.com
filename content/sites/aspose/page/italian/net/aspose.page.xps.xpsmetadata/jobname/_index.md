@@ -3,7 +3,7 @@ title: Class JobName
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobName classe. Specifica un nome descrittivo per il processo. https//docs.microsoft.com/enus/windows/win32/printdocs/jobname
 type: docs
-weight: 1390
+weight: 1400
 url: /it/net/aspose.page.xps.xpsmetadata/jobname/
 ---
 ## JobName class

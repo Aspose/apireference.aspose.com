@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsBrush klas. Klasse die gemeinsame Merkmale aller Pinselelemente enthält.
 type: docs
-weight: 2960
+weight: 2970
 url: /de/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

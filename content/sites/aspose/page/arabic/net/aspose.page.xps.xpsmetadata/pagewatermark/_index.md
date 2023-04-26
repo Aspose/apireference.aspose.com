@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark فصل. يصف إعداد العلامة المائية للإخراج وخصائص العلامة المائية. تنطبق العلامات المائية على الصفحة المنطقية  وليس على الصفحة الفعلية. على سبيل المثال  إذاDocumentDuplex ممكّن  ستظهر علامة مائية على كل منهما صفحة على كل ورقة. لوDocumentDuplex  2  سيكون لكل ورقة علامتين مائيتين . https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /ar/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

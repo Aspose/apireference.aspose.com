@@ -3,7 +3,7 @@ title: Class PageWatermarkTransparency
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTransparency sınıf. Filigranın saydamlığını belirtir. Tamamen opak 0. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktransparency değerine sahip olacaktır.
 type: docs
-weight: 2760
+weight: 2770
 url: /tr/net/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

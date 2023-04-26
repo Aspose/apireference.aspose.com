@@ -3,7 +3,7 @@ title: Class DocumentHolePunch
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentHolePunch 班级. 描述了输出的打孔特性每个文件单独打孔 的JobHolePunch和DocumentHolePunch关键字是互斥的 不应在 PrintTicket 或 Print Capabilities 文档中同时指定两者 https//docs.microsoft.com/enus/windows/win32/printdocs/documentholepunch
 type: docs
-weight: 700
+weight: 710
 url: /zh/net/aspose.page.xps.xpsmetadata/documentholepunch/
 ---
 ## DocumentHolePunch class

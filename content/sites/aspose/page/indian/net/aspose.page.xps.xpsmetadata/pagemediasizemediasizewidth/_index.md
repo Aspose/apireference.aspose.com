@@ -3,7 +3,7 @@ title: Class PageMediaSizeMediaSizeWidth
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeMediaSizeWidth कक्ष. आयम नर्दष्ट करत है कस्टम के लए दश वकल्प. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizemediasizewidth
 type: docs
-weight: 2100
+weight: 2110
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediasizemediasizewidth/
 ---
 ## PageMediaSizeMediaSizeWidth class

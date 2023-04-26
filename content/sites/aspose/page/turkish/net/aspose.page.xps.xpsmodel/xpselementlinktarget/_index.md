@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget sınıf. İlgili adlandırılmış adres köprü hedefini kapsayan sınıf.
 type: docs
-weight: 3040
+weight: 3050
 url: /tr/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

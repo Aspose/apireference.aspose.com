@@ -3,7 +3,7 @@ title: Class JobName
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobName sınıf. İş için tanımlayıcı bir ad belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/jobname
 type: docs
-weight: 1390
+weight: 1400
 url: /tr/net/aspose.page.xps.xpsmetadata/jobname/
 ---
 ## JobName class

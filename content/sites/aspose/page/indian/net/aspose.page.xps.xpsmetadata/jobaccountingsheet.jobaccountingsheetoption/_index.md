@@ -3,7 +3,7 @@ title: Class JobAccountingSheet.JobAccountingSheetOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheetJobAccountingSheetOption कक्ष. क वर्णन करत हैJobAccountingSheet सुवध वकल्प.
 type: docs
-weight: 1140
+weight: 1150
 url: /hi/net/aspose.page.xps.xpsmetadata/jobaccountingsheet.jobaccountingsheetoption/
 ---
 ## JobAccountingSheet.JobAccountingSheetOption class

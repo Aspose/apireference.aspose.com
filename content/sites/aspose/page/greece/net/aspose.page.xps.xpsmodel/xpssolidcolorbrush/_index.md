@@ -3,7 +3,7 @@ title: Class XpsSolidColorBrush
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsSolidColorBrush τάξη. Χαρακτηριστικά στοιχείου ιδιότητας SolidColorBrush που ενσωματώνει κλάση. Αυτό το στοιχείο χρησιμοποιείται για την πλήρωση καθορισμένων γεωμετρικών περιοχών με συμπαγές χρώμα.
 type: docs
-weight: 3350
+weight: 3360
 url: /el/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

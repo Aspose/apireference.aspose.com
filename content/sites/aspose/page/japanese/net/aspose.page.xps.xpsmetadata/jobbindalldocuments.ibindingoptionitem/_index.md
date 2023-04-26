@@ -3,7 +3,7 @@ title: Interface JobBindAllDocuments.IBindingOptionItem
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsIBindingOptionItem インターフェース. 任意のインターフェイスBindingOptionitem.
 type: docs
-weight: 1180
+weight: 1190
 url: /ja/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.ibindingoptionitem/
 ---
 ## JobBindAllDocuments.IBindingOptionItem interface

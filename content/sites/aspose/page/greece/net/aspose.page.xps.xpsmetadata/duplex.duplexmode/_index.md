@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode τάξη. Ορίζει πιθανές τιμές τουDuplexOption μικρό βαθμολογημένη ιδιότητα.
 type: docs
-weight: 850
+weight: 860
 url: /el/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

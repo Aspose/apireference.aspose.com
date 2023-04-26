@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsPath klas. Klasse die Eigenschaften von PathElementen enthält. Dieses Element ist das einzige Mittel zum Hinzufügen von Vektorgrafiken und Bildern zu einer festen Seite. Es definiert eine einzelne Vektorgrafik die auf einer Seite gerendert werden soll.
 type: docs
-weight: 3250
+weight: 3260
 url: /de/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

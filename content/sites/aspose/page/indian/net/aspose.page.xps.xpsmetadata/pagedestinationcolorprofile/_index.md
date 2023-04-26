@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfile कक्ष. डेस्टनेशन कलर प्रफइल क वशेषतओं क परभषत करत है बतत है क एप्लकेशन य ड्रइवर उपयग कए जने वले डेस्टनेशन कलर प्रफइल क चयन करत है य नहं https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofile
 type: docs
-weight: 1880
+weight: 1890
 url: /hi/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

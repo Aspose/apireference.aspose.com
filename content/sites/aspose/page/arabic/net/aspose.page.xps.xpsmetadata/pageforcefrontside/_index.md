@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide فصل. يفرض ظهور الإخراج في مقدمة ورقة الوسائط. ذات صلة بأوراق الوسائط ذات الأسطح المختلفة على كل جانب. في الحالات التي تتداخل فيها هذه الميزة مع خيارات المعالجة مثل DocumentDuplex   الأسبقية للصفحة المحددة التي تنطبق عليها الميزة.
 type: docs
-weight: 1970
+weight: 1980
 url: /ar/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

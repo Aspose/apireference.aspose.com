@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | Λαμβάνει τιμή ιδιότητας πίνακα συμβολοσειρών. Εάν η ιδιότητα που ζητήθηκε απουσιάζει, επιστρέφει την προεπιλεγμένη τιμή. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | Λαμβάνει τιμή boolean ιδιότητας. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | Λαμβάνει τιμή boolean ιδιότητας. Εάν η ιδιότητα που ζητήθηκε απουσιάζει, επιστρέφει την προεπιλεγμένη τιμή. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | Επιστρέφει ονόματα ιδιοτήτων. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | Ορίζει την τιμή boolean ιδιότητας. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | Ορίζει την τιμή της ιδιότητας χρώματος. |

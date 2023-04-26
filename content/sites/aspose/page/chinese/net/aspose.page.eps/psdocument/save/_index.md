@@ -3,7 +3,7 @@ title: PsDocument.Save
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 将 PS/EPS 文件保存到设备
 type: docs
-weight: 200
+weight: 220
 url: /zh/net/aspose.page.eps/psdocument/save/
 ---
 ## Save(Device, SaveOptions) {#save_1}

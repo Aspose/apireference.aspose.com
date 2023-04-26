@@ -3,7 +3,7 @@ title: Class XpsPathSegment
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsPathSegment clase. Clase que encapsula características comunes de todos los elementos del segmento de ruta.
 type: docs
-weight: 3290
+weight: 3300
 url: /es/net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

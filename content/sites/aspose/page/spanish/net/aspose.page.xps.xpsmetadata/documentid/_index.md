@@ -3,7 +3,7 @@ title: Class DocumentID
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentID clase. Especifica una ID única para el documento. https//docs.microsoft.com/enus/windows/win32/printdocs/documentid
 type: docs
-weight: 710
+weight: 720
 url: /es/net/aspose.page.xps.xpsmetadata/documentid/
 ---
 ## DocumentID class

@@ -3,7 +3,7 @@ title: Class IntegerParameterInit
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IntegerParameterInit कक्ष. सभ पूर्णंक पैरमटर इनशयलइज़र के लए बेस क्लस
 type: docs
-weight: 1110
+weight: 1120
 url: /hi/net/aspose.page.xps.xpsmetadata/integerparameterinit/
 ---
 ## IntegerParameterInit class

@@ -3,7 +3,7 @@ title: Class PageOutputQuality.PageOutputQualityOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOutputQualityPageOutputQualityOption 수업. 정의PageOutputQuality 기능 옵션.
 type: docs
-weight: 2380
+weight: 2390
 url: /ko/net/aspose.page.xps.xpsmetadata/pageoutputquality.pageoutputqualityoption/
 ---
 ## PageOutputQuality.PageOutputQualityOption class

@@ -3,7 +3,7 @@ title: Class PageWatermark.PageWatermarkOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkPageWatermarkOption 수업. 설명PageWatermark 기능 옵션.
 type: docs
-weight: 2690
+weight: 2700
 url: /ko/net/aspose.page.xps.xpsmetadata/pagewatermark.pagewatermarkoption/
 ---
 ## PageWatermark.PageWatermarkOption class

@@ -3,7 +3,7 @@ title: Interface IJobPrintTicketItem
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IJobPrintTicketItem 상호 작용. 작업 접두사 인쇄 티켓 항목의 인터페이스입니다.
 type: docs
-weight: 930
+weight: 940
 url: /ko/net/aspose.page.xps.xpsmetadata/ijobprintticketitem/
 ---
 ## IJobPrintTicketItem interface

@@ -3,7 +3,7 @@ title: DocumentCoverFrontSource
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the source for a custom frontcover sheet. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfrontsource
 type: docs
-weight: 680
+weight: 690
 url: /net/aspose.page.xps.xpsmetadata/documentcoverfrontsource/
 ---
 ## DocumentCoverFrontSource class

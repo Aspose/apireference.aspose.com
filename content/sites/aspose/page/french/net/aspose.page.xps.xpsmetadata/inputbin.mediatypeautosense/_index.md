@@ -3,7 +3,7 @@ title: Class InputBin.MediaTypeAutoSense
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaTypeAutoSense classe. Définit les constantes pour le valeur de propriété notée.
 type: docs
-weight: 1100
+weight: 1110
 url: /fr/net/aspose.page.xps.xpsmetadata/inputbin.mediatypeautosense/
 ---
 ## InputBin.MediaTypeAutoSense class

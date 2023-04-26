@@ -1,14 +1,14 @@
 ---
 title: Class XpsMatrix
 second_title: Aspose.Page for .NET API Referansı
-description: Aspose.Page.XPS.XpsModel.XpsMatrix sınıf. Sınıf MatrixTransform özellik öğesi özelliklerini içerir. Bu öğe öğelerin koordinat sistemlerini değiştirmek için kullanılan gelişigüzel bir afin matris dönüşümünü tanımlar.
+description: Aspose.Page.XPS.XpsModel.XpsMatrix sınıf. Sınıf MatrixTransform özellik öğesi özelliklerini içerir. Bu öğe koordinat öğe sistemlerini değiştirmek için kullanılan gelişigüzel bir afin matris dönüşümünü tanımlar.
 type: docs
-weight: 3210
+weight: 3220
 url: /tr/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class
 
-Sınıf, MatrixTransform özellik öğesi özelliklerini içerir. Bu öğe, öğelerin koordinat sistemlerini değiştirmek için kullanılan gelişigüzel bir afin matris dönüşümünü tanımlar.
+Sınıf, MatrixTransform özellik öğesi özelliklerini içerir. Bu öğe, koordinat öğe sistemlerini değiştirmek için kullanılan gelişigüzel bir afin matris dönüşümünü tanımlar.
 
 ```csharp
 public sealed class XpsMatrix : XpsObject

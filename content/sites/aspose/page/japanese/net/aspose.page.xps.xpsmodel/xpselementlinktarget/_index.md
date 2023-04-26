@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget クラス. 相対名前付きアドレス ハイパーリンク ターゲットをカプセル化するクラス
 type: docs
-weight: 3040
+weight: 3050
 url: /ja/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

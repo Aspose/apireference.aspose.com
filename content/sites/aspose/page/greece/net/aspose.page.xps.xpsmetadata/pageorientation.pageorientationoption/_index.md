@@ -3,7 +3,7 @@ title: Class PageOrientation.PageOrientationOption
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageOrientationPageOrientationOption τάξη. Περιγράφει τοPageOrientation επιλογές χαρακτηριστικών.
 type: docs
-weight: 2310
+weight: 2320
 url: /el/net/aspose.page.xps.xpsmetadata/pageorientation.pageorientationoption/
 ---
 ## PageOrientation.PageOrientationOption class

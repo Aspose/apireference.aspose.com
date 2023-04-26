@@ -3,7 +3,7 @@ title: Class JobHolePunch
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobHolePunch klas. Beschrijft de perforatiekarakteristieken van de uitvoer. Alle documenten zijn in elkaar geperforeerd. DeJobHolePunch EnDocumentHolePunchtrefwoorden sluiten elkaar uit. Beide mogen niet tegelijkertijd worden opgegeven in een PrintTicket of Print Capabilitiesdocument. https//docs.microsoft.com/enus/windows/win32/printdocs/jobholepunch
 type: docs
-weight: 1350
+weight: 1360
 url: /nl/net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class

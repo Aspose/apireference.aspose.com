@@ -3,7 +3,7 @@ title: Interface IPagePrintTicketItem
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IPagePrintTicketItem واجهه المستخدم. واجهة عناصر بطاقة الطباعة مسبوقة بالصفحة.
 type: docs
-weight: 950
+weight: 960
 url: /ar/net/aspose.page.xps.xpsmetadata/ipageprintticketitem/
 ---
 ## IPagePrintTicketItem interface

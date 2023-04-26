@@ -3,7 +3,7 @@ title: Class PageMirrorImage
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMirrorImage τάξη. Περιγράφει τη ρύθμιση κατοπτρισμού της εξόδου. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemirrorimage
 type: docs
-weight: 2260
+weight: 2270
 url: /el/net/aspose.page.xps.xpsmetadata/pagemirrorimage/
 ---
 ## PageMirrorImage class

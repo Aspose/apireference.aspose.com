@@ -3,7 +3,7 @@ title: Class XpsPolyBezierSegment
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsPolyBezierSegment klas. Klasse inkapselende PolyBezierSegmentelementkenmerken. Dit element beschrijft een reeks kubische Bézierkrommen.
 type: docs
-weight: 3300
+weight: 3310
 url: /nl/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class

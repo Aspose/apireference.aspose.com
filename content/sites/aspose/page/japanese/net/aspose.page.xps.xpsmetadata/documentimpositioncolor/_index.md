@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor クラス. 指定された名前付きの色でラベル付けされたアプリケーション コンテンツはすべての色分解で表示する必要があります
 type: docs
-weight: 720
+weight: 730
 url: /ja/net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

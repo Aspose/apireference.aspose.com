@@ -3,7 +3,7 @@ title: Duplex.DuplexMode
 second_title: Aspose.Page for .NET API Reference
 description: Defines possible values of the DuplexOption./duplex.duplexoptions
 type: docs
-weight: 850
+weight: 860
 url: /net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

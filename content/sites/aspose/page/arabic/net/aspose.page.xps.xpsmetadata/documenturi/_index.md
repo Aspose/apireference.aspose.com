@@ -3,7 +3,7 @@ title: Class DocumentURI
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentURI فصل. يحدد معرف مورد موحد URI للمستند. https//docs.microsoft.com/enus/windows/win32/printdocs/documenturi
 type: docs
-weight: 830
+weight: 840
 url: /ar/net/aspose.page.xps.xpsmetadata/documenturi/
 ---
 ## DocumentURI class

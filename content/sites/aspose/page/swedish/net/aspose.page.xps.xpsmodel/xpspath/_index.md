@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsPath klass. Klassinkapslande vägelementfunktioner. Detta element är det enda sättet att lägga till vektorgrafik och bilder på en fast sida. Det definierar en enda vektorgrafik som ska renderas på en sida.
 type: docs
-weight: 3250
+weight: 3260
 url: /sv/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page για Αναφορά API .NET
 description: Το Aspose.Page.Xps.XpsModelΤο namespace παρέχει κλάσεις που περιγράφουν στοιχεία του εγγράφου XPS.
 type: docs
-weight: 110
+weight: 120
 url: /el/net/aspose.page.xps.xpsmodel/
 ---
 Το **Aspose.Page.Xps.XpsModel**Το namespace παρέχει κλάσεις που περιγράφουν στοιχεία του εγγράφου XPS.

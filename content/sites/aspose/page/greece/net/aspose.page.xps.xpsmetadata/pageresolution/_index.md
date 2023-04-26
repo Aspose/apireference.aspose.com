@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageResolution τάξη. Ορίζει την ανάλυση σελίδας του εκτυπωμένου προϊόντος είτε ως ποιοτική τιμή είτε ως κουκκίδες ανά ίντσα ή και στα δύο. https//docs.microsoft.com/enus/windows/win32/printdocs/pageresolution
 type: docs
-weight: 2430
+weight: 2440
 url: /el/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

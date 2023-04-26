@@ -3,7 +3,7 @@ title: Class InputBin.MediaTypeAutoSense
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaTypeAutoSense kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 1100
+weight: 1110
 url: /id/net/aspose.page.xps.xpsmetadata/inputbin.mediatypeautosense/
 ---
 ## InputBin.MediaTypeAutoSense class

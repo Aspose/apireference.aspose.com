@@ -3,7 +3,7 @@ title: Class CompositePrintTicketElement
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.CompositePrintTicketElement クラス. 複合印刷スキーマ要素 つまり他の要素を含む である可能性があるクラスの基本クラス
 type: docs
-weight: 510
+weight: 520
 url: /ja/net/aspose.page.xps.xpsmetadata/compositeprintticketelement/
 ---
 ## CompositePrintTicketElement class

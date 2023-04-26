@@ -3,7 +3,7 @@ title: Class XpsFont
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsFont कक्ष. ट्रू टइप फ़न्ट संसधन क समहत करने वल वर्ग
 type: docs
-weight: 3080
+weight: 3090
 url: /hi/net/aspose.page.xps.xpsmodel/xpsfont/
 ---
 ## XpsFont class

@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark 수업. 출력의 워터마크 설정 및 워터마크 특성을 설명합니다. watermarks apply 는 물리적 페이지가 아닌 논리적 페이지에 적용됩니다. 예를 들어DocumentDuplex 활성화되면 각각에 워터마크가 나타납니다. 각 시트의 페이지. 만약에DocumentDuplex  2이면 각 시트에 2개의 워터마크가 있습니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /ko/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

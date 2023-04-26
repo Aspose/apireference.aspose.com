@@ -3,7 +3,7 @@ title: PageMediaType.PageMediaTypeOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the PageMediaType./pagemediatype feature options.
 type: docs
-weight: 2220
+weight: 2230
 url: /net/aspose.page.xps.xpsmetadata/pagemediatype.pagemediatypeoption/
 ---
 ## PageMediaType.PageMediaTypeOption class

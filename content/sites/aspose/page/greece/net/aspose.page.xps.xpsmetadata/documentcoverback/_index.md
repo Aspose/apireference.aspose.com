@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack τάξη. Περιγράφει το πίσω τελικό φύλλο εξωφύλλου. Κάθε έγγραφο θα έχει ξεχωριστό φύλλο. Το εξώφυλλο θα πρέπει να τυπωθεί στοPageMediaSize καιPageMediaType χρησιμοποιείται για την τελευταία σελίδα του εγγράφου. Το εξώφυλλο θα πρέπει να ενσωματωθεί στο processing options όπως π.χDocumentDuplex DocumentNUp  όπως υποδεικνύεται από την καθορισμένη επιλογή. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /el/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

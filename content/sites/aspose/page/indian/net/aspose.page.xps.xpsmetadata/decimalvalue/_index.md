@@ -3,7 +3,7 @@ title: Class DecimalValue
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DecimalValue कक्ष. वह वर्ग ज प्रंट टकट दस्तवेज़ में दशमलव मन समहत करत है
 type: docs
-weight: 520
+weight: 530
 url: /hi/net/aspose.page.xps.xpsmetadata/decimalvalue/
 ---
 ## DecimalValue class

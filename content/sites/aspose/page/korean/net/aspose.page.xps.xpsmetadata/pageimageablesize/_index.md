@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize 수업. 레이아웃 및 렌더링을 위한 이미지 캔버스를 설명합니다. 이것은 on 를 기준으로 보고됩니다.PageMediaSize 그리고PageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /ko/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

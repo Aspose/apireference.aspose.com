@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingOption
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingOption klas. Vertegenwoordigt opties van deDocumentBinding functie.
 type: docs
-weight: 580
+weight: 590
 url: /nl/net/aspose.page.xps.xpsmetadata/documentbinding.bindingoption/
 ---
 ## DocumentBinding.BindingOption class

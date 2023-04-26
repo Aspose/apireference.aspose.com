@@ -3,7 +3,7 @@ title: Class XpsPathFigure
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsPathFigure クラス. PathFigure 要素の機能をカプセル化するクラス. この要素は1 つまたは複数の直線または曲線セグメントのセットで構成されます.
 type: docs
-weight: 3260
+weight: 3270
 url: /ja/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

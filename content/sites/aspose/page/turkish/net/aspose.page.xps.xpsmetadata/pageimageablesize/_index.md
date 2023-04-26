@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize sınıf. Düzen ve işleme için görüntülü tuvali tanımlar. Bu temel alınarak raporlanacakPageMediaSize VePageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /tr/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

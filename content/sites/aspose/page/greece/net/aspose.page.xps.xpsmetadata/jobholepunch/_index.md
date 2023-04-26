@@ -3,7 +3,7 @@ title: Class JobHolePunch
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobHolePunch τάξη. Περιγράφει τα χαρακτηριστικά διάτρησης οπών της εξόδου. Όλα τα έγγραφα συνενώνονται. ΤοJobHolePunch καιDocumentHolePunchΟι λέξειςκλειδιά είναι αμοιβαία αποκλειόμενες. Και οι δύο δεν πρέπει να προσδιορίζονται ταυτόχρονα σε ένα έγγραφο PrintTicket ή Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/jobholepunch
 type: docs
-weight: 1350
+weight: 1360
 url: /el/net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class

@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType कक्ष. के लए स्थरंक परभषत करत है अर्जत संपत्त मूल्य.
 type: docs
-weight: 1670
+weight: 1680
 url: /hi/net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

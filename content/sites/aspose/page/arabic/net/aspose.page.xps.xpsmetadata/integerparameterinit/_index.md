@@ -3,7 +3,7 @@ title: Class IntegerParameterInit
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IntegerParameterInit فصل. الفئة الأساسية لجميع مُبدِّلات المعلمات الصحيحة .
 type: docs
-weight: 1110
+weight: 1120
 url: /ar/net/aspose.page.xps.xpsmetadata/integerparameterinit/
 ---
 ## IntegerParameterInit class

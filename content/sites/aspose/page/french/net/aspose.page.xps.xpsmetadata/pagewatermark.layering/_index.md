@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering classe. Décrit lintérieur fonctionnalité. Définit le comportement de superposition du filigrane.
 type: docs
-weight: 2670
+weight: 2680
 url: /fr/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

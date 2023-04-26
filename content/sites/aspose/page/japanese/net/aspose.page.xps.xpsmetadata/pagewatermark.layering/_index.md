@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering クラス. インナーを記述特徴透かしのレイヤー動作を定義します
 type: docs
-weight: 2670
+weight: 2680
 url: /ja/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

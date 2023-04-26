@@ -3,7 +3,7 @@ title: PsDocument.GetPaint
 second_title: Aspose.Page pour la référence de l'API .NET
 description: PsDocument méthode. Obtient la peinture de létat graphique actuel.
 type: docs
-weight: 130
+weight: 150
 url: /fr/net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method

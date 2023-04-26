@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPath कक्ष. क्लस इनकैप्सुलेटंग पथ एलमेंट फ़चर्स यह एलमेंट वेक्टर ग्रफक्स और छवयं क एक नश्चत पृष्ठ पर जड़ने क एकमत्र सधन है यह एक पेज पर प्रस्तुत कए जने वले एकल वेक्टर ग्रफ़क क परभषत करत है
 type: docs
-weight: 3250
+weight: 3260
 url: /hi/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

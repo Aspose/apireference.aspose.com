@@ -3,7 +3,7 @@ title: Class IDProperty
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.IDProperty klas. De basisklasse voorJobID EnDocumentIDeigenschappen klassen.
 type: docs
-weight: 900
+weight: 910
 url: /nl/net/aspose.page.xps.xpsmetadata/idproperty/
 ---
 ## IDProperty class

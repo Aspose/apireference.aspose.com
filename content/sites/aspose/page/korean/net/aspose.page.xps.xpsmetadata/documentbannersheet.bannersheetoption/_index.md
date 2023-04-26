@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet.BannerSheetOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheetBannerSheetOption 수업. 의 옵션을 나타냅니다.DocumentBannerSheet 기능.
 type: docs
-weight: 540
+weight: 550
 url: /ko/net/aspose.page.xps.xpsmetadata/documentbannersheet.bannersheetoption/
 ---
 ## DocumentBannerSheet.BannerSheetOption class

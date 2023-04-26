@@ -3,7 +3,7 @@ title: Class XpsPathFigure
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPathFigure فصل. فئة تتضمن ميزات عنصر PathFigure . يتكون هذا العنصر من مجموعة من مقطع خط أو منحنى واحد أو أكثر .
 type: docs
-weight: 3260
+weight: 3270
 url: /ar/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

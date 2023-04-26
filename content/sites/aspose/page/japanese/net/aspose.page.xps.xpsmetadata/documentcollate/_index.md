@@ -3,7 +3,7 @@ title: Class DocumentCollate
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentCollate クラス. 出力の照合特性を記述します個々のドキュメントのすべてのページが照合されます DocumentCollate と JobCollateAlldocuments は相互に排他的ですこれらのキーワードの の両方または 1 つだけが実装されているかどうかの動作と実装はドライバーに任されています
 type: docs
-weight: 610
+weight: 620
 url: /ja/net/aspose.page.xps.xpsmetadata/documentcollate/
 ---
 ## DocumentCollate class

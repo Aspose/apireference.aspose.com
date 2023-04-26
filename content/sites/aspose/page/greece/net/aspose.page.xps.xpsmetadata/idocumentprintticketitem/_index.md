@@ -3,7 +3,7 @@ title: Interface IDocumentPrintTicketItem
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.IDocumentPrintTicketItem διεπαφή. Η διεπαφή των ειδών εισιτηρίου εκτύπωσης με πρόθεμα εγγράφων.
 type: docs
-weight: 910
+weight: 920
 url: /el/net/aspose.page.xps.xpsmetadata/idocumentprintticketitem/
 ---
 ## IDocumentPrintTicketItem interface

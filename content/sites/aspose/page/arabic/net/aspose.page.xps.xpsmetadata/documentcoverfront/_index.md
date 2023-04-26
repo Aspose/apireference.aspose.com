@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront فصل. يصف ورقة الغلاف الأمامية البداية. سيكون لكل وثيقة ورقة منفصلة. يجب طباعة ورقة الغلاف على ملفPageMediaSize وPageMediaType المستخدمة للصفحة الأولى من المستند. يجب دمج ورقة الغلاف في خيارات المعالجة مثلDocumentDuplex وDocumentNUp  كما يتضح من الخيار المحدد . https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /ar/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

@@ -3,7 +3,7 @@ title: Class QNameValue
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.QNameValue 班级. 将 QName 值封装在 PrintTicket 文档中的类
 type: docs
-weight: 2820
+weight: 2830
 url: /zh/net/aspose.page.xps.xpsmetadata/qnamevalue/
 ---
 ## QNameValue class

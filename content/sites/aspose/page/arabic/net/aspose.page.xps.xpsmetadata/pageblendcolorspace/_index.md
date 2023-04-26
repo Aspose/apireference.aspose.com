@@ -3,7 +3,7 @@ title: Class PageBlendColorSpace
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlendColorSpace فصل. يصف مساحة اللون التي يجب استخدامها لعمليات المزج. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblendcolorspace
 type: docs
-weight: 1800
+weight: 1810
 url: /ar/net/aspose.page.xps.xpsmetadata/pageblendcolorspace/
 ---
 ## PageBlendColorSpace class

@@ -3,7 +3,7 @@ title: Class Property
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.Property classe. La classe qui implémente un PrintTicket commun . La classe de base pour toutes les propriétés définies par le schéma. A Lélément déclare un périphérique un formatage de travail ou une autre propriété pertinente dont le nom est donné par son attribut name. UNValue est utilisé pour assigner une valeur au. A peut être complexe contenant éventuellement plusieurs souspropriétés. Les souspropriétés sont également représentées par elements. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 2810
+weight: 2820
 url: /fr/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

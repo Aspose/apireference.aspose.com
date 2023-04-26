@@ -3,7 +3,7 @@ title: Class Feature
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.Feature kelas. Kelas yang merangkum fitur Skema Cetak umum. Kelas dasar untuk semua fitur yang ditentukan skema. A elemen berisi daftar lengkap dariOption DanProperty elemen yang sepenuhnya mendeskripsikan atribut perangkat pengaturan pemformatan tugas atau karakteristik relevan lainnya. https//docs.microsoft.com/enus/windows/win32/printdocs/feature
 type: docs
-weight: 870
+weight: 880
 url: /id/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

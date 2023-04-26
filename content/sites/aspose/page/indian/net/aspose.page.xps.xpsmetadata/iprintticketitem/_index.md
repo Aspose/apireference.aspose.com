@@ -3,7 +3,7 @@ title: Interface IPrintTicketItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketItem इंटरफेस. कक्षओं के लए आधर इंटरफ़ेस ज ह सकत हैPrintTicket रूट एलमेंट आइटम. यह उन इंटरफ़ेस के लए बेस इंटरफ़ेस भ है ज स्कपंग प्रफ़क्स क परभषत करते हैं.
 type: docs
-weight: 970
+weight: 980
 url: /hi/net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface

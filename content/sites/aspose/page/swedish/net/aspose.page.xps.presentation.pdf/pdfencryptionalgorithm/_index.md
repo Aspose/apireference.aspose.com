@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm uppräkning. Enum för krypteringsläge. Beskriv med hjälp av algoritm och nyckellängd. Denna enum är utökad för att ytterligare kunna öka funktionaliteten. Denna enum implementerar BasetoCoremönster.
 type: docs
-weight: 410
+weight: 420
 url: /sv/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

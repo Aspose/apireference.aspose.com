@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously فصل. يصف إخراج العديد من الصفحات المنطقية إلى ورقة فعلية واحدة. يتم تجميع كافة المستندات الموجودة في ملف job معًا بشكل متواصل.JobNUpAllDocumentsContiguously وDocumentNUp متنافيان. الأمر متروك للسائق لتحديد معالجة القيد بين هذه الكلمات الرئيسية . https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /ar/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

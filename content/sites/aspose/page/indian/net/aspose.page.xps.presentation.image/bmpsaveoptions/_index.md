@@ -3,7 +3,7 @@ title: Class BmpSaveOptions
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Image.BmpSaveOptions कक्ष. XPSasBMP बचत वकल्पं के लए वर्ग
 type: docs
-weight: 340
+weight: 350
 url: /hi/net/aspose.page.xps.presentation.image/bmpsaveoptions/
 ---
 ## BmpSaveOptions class

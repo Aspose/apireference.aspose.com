@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: Aspose.Page för .NET API-referens
 description: UserProperties metod. Anger strängegenskapsvärde.
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

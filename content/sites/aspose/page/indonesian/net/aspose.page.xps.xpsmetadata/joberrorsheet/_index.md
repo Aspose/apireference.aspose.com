@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet kelas. Menjelaskan keluaran lembar kesalahan. Seluruh pekerjaan akan memiliki satu lembar kesalahan. Lembar kesalahan harus ditampilkan secara defaultPageMediaSize dan menggunakan defaultPageMediaType . Lembar kesalahan harus diisolasi dari sisa pekerjaan. Ini berarti bahwa setiap opsi penyelesaian atau pemrosesan seperti   atau  tidak boleh menyertakan lembar kesalahan. Lembar kesalahan harus muncul sebagai lembar akhir pekerjaan. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /id/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

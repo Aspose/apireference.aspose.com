@@ -3,7 +3,7 @@ title: Class JobCollateAllDocuments
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobCollateAllDocuments klas. Beschreibt die Sortiereigenschaften der Ausgabe. Alle Dokumente in jedem einzelnen Job werden gesammelt. DocumentCollate UndJobCollateAllDocumentsschließen sich gegenseitig aus. Das Verhalten und die Implementierung ob beide oder nur eines dieser Schlüsselwörter implementiert wird bleibt dem Treiber überlassen. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcollatealldocuments
 type: docs
-weight: 1200
+weight: 1210
 url: /de/net/aspose.page.xps.xpsmetadata/jobcollatealldocuments/
 ---
 ## JobCollateAllDocuments class

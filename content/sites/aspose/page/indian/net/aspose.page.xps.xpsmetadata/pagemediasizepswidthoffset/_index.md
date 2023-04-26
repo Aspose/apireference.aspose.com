@@ -3,7 +3,7 @@ title: Class PageMediaSizePSWidthOffset
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSWidthOffset कक्ष. फडओरएंटेशन दश के लंबवत ऑफ़सेट नर्दष्ट करत है
 type: docs
-weight: 2150
+weight: 2160
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediasizepswidthoffset/
 ---
 ## PageMediaSizePSWidthOffset class

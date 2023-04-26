@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment klass. Klass inkapslande ArcSegment element egenskaper. Detta element beskriver en elliptisk båge.
 type: docs
-weight: 2940
+weight: 2950
 url: /sv/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

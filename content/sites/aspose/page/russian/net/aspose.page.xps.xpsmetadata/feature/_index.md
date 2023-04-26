@@ -3,7 +3,7 @@ title: Class Feature
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.Feature сорт. Класс инкапсулирующий общую функцию схемы печати. Базовый класс для всех функций определяемых схемой. A элемент содержит полный списокOption иProperty элементы которые полностью описывают атрибут устройства параметр форматирования задания или другую соответствующую характеристику.
 type: docs
-weight: 870
+weight: 880
 url: /ru/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

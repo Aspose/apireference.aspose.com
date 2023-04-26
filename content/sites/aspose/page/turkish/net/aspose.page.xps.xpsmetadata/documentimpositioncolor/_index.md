@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor sınıf. Belirtilen adlandırılmış renkle etiketlenmiş uygulama içeriği tüm renk ayrımlarında görünmelidir ZORUNLU. https//docs.microsoft.com/enus/windows/win32/printdocs/documentimpositioncolor
 type: docs
-weight: 720
+weight: 730
 url: /tr/net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageResolution कक्ष. मुद्रत आउटपुट के पृष्ठ रज़ल्यूशन क य त गुणत्मक मन य डट्स प्रत इंच य दनं के रूप में परभषत करत है
 type: docs
-weight: 2430
+weight: 2440
 url: /hi/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

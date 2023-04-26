@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Voegt afschuiftransformatie toe aan de huidige grafische status afschuifstroommatrix.
 type: docs
-weight: 260
+weight: 290
 url: /nl/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingGutter
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingGutter klass. Beskriver sättet att specificera poängsatt egenskapsvärde oavsett om det är ett heltalsvärde eller genom referensen till parameter.
 type: docs
-weight: 570
+weight: 580
 url: /sv/net/aspose.page.xps.xpsmetadata/documentbinding.bindinggutter/
 ---
 ## DocumentBinding.BindingGutter class

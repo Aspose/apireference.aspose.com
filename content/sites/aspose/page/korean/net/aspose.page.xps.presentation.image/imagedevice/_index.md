@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice 수업. 클래스 캡슐화 이미지 구성 장치.
 type: docs
-weight: 350
+weight: 360
 url: /ko/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

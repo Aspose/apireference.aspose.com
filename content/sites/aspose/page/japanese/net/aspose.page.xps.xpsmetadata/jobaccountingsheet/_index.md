@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet クラス. ジョブで出力する帳票を記述します default に会計帳票が出力されているはずですPageMediaSizeデフォルトを使用してPageMediaType .アカウンティング シートはジョブの残りの部分から 分離する必要がありますこれは仕上げまたは処理オプション  など   また  アカウンティング シートを含めないでください アカウンティング シートは実装者の裁量でジョブの最初または最後のページとして表示される場合があります
 type: docs
-weight: 1130
+weight: 1140
 url: /ja/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

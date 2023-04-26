@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsTileMode αρίθμηση. Έγκυρες τιμές της ιδιότητας TileMode των πινέλων πλακιδίων.
 type: docs
-weight: 3390
+weight: 3400
 url: /el/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

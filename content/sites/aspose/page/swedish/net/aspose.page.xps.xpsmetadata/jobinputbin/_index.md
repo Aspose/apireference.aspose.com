@@ -3,7 +3,7 @@ title: Class JobInputBin
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobInputBin klass. Beskriver det installerade inmatningsfacket i en enhet eller hela listan över fack som stöds för en enhet. Tillåter specificering av inmatningsfacket per jobb. DeJobInputBin DocumentInputBin  ochPageInputBin nyckelord utesluter varandra. Båda bör inte anges samtidigt i ett PrintTicket eller Print Capabilitiesdokument. https//docs.microsoft.com/enus/windows/win32/printdocs/jobinputbin
 type: docs
-weight: 1370
+weight: 1380
 url: /sv/net/aspose.page.xps.xpsmetadata/jobinputbin/
 ---
 ## JobInputBin class

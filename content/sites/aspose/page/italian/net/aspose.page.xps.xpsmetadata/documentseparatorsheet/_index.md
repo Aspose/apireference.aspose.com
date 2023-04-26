@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet classe. Descrive lutilizzo del foglio separatore per un documento. I fogli separatori dovrebbero apparire nelloutput come indicato dallopzione specificata di seguito. https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet
 type: docs
-weight: 800
+weight: 810
 url: /it/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

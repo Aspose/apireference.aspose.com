@@ -3,7 +3,7 @@ title: Class PdfEncryptionDetails
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionDetails kelas. Berisi detail untuk enkripsi pdf.
 type: docs
-weight: 420
+weight: 430
 url: /id/net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class

@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode 班级. 定义了可能的值DuplexOption秒得分属性.
 type: docs
-weight: 850
+weight: 860
 url: /zh/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

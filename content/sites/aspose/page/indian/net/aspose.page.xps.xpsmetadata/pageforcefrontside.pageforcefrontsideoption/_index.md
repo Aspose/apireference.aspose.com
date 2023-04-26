@@ -3,7 +3,7 @@ title: Class PageForceFrontSide.PageForceFrontSideOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSidePageForceFrontSideOption कक्ष. क वर्णन करत हैPageForceFrontSide सुवध वकल्प.
 type: docs
-weight: 1980
+weight: 1990
 url: /hi/net/aspose.page.xps.xpsmetadata/pageforcefrontside.pageforcefrontsideoption/
 ---
 ## PageForceFrontSide.PageForceFrontSideOption class

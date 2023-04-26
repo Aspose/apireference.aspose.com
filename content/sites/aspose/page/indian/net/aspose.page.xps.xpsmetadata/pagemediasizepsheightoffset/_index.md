@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeightOffset
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeightOffset कक्ष. फडओरएंटेशन दश के समनंतर ऑफसेट नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheightoffset
 type: docs
-weight: 2120
+weight: 2130
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediasizepsheightoffset/
 ---
 ## PageMediaSizePSHeightOffset class

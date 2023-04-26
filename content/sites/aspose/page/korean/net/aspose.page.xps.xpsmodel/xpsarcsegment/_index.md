@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment 수업. ArcSegment 요소 기능을 캡슐화하는 클래스. 이 요소는 타원형 호를 설명합니다.
 type: docs
-weight: 2940
+weight: 2950
 url: /ko/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

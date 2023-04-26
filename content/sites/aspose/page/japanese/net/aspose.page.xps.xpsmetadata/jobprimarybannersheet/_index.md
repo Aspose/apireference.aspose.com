@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet クラス. ジョブで出力するバナーシートを記述しますバナーシートはdefault に出力する必要がありますPageMediaSizeデフォルトを使用してPageMediaType.バナー シートは残りのジョブから分離する必要がありますこれは仕上げまたは処理オプション  などJobDuplexAllDocumentsContiguously JobStapleAllDocuments  またJobBindAllDocuments  にバナー シートを含めないでくださいバナー シートはジョブの最初のシートとして発生する必要があります
 type: docs
-weight: 1470
+weight: 1480
 url: /ja/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

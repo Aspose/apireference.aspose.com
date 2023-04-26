@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.Xps.XpsModel名前空間はXPS ドキュメントの要素を記述するクラスを提供します.
 type: docs
-weight: 110
+weight: 120
 url: /ja/net/aspose.page.xps.xpsmodel/
 ---
 **Aspose.Page.Xps.XpsModel**名前空間は、XPS ドキュメントの要素を記述するクラスを提供します.

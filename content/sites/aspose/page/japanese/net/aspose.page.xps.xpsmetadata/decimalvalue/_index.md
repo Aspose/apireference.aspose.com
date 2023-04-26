@@ -3,7 +3,7 @@ title: Class DecimalValue
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DecimalValue クラス. PrintTicket ドキュメントで Decimal 値をカプセル化するクラス
 type: docs
-weight: 520
+weight: 530
 url: /ja/net/aspose.page.xps.xpsmetadata/decimalvalue/
 ---
 ## DecimalValue class

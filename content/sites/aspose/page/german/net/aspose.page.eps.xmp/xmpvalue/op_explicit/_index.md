@@ -20,7 +20,7 @@ public static explicit operator XmpValue[](XmpValue value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 
@@ -44,7 +44,7 @@ public static explicit operator object[](XmpValue value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 
@@ -68,7 +68,7 @@ public static explicit operator string(XmpValue value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 
@@ -92,7 +92,7 @@ public static explicit operator KeyValuePair<string, XmpValue>(XmpValue value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 
@@ -116,7 +116,7 @@ public static explicit operator KeyValuePair<string, XmpValue>[](XmpValue value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 

@@ -3,7 +3,7 @@ title: Class PageForceFrontSide.PageForceFrontSideOption
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSidePageForceFrontSideOption kelas. MenjelaskanPageForceFrontSide opsi fitur.
 type: docs
-weight: 1980
+weight: 1990
 url: /id/net/aspose.page.xps.xpsmetadata/pageforcefrontside.pageforcefrontsideoption/
 ---
 ## PageForceFrontSide.PageForceFrontSideOption class

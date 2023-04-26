@@ -3,7 +3,7 @@ title: DrawImage
 second_title: Aspose.Page for .NET API Reference
 description: Draw image.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.page.eps/psdocument/drawimage/
 ---
 ## DrawImage(Bitmap) {#drawimage}

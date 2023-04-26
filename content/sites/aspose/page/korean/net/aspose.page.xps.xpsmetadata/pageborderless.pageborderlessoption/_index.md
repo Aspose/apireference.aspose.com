@@ -3,7 +3,7 @@ title: Class PageBorderless.PageBorderlessOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBorderlessPageBorderlessOption 수업. 설명PageBorderless 기능 옵션.
 type: docs
-weight: 1840
+weight: 1850
 url: /ko/net/aspose.page.xps.xpsmetadata/pageborderless.pageborderlessoption/
 ---
 ## PageBorderless.PageBorderlessOption class

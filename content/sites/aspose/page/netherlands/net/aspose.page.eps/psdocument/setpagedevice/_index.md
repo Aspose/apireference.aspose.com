@@ -3,7 +3,7 @@ title: PsDocument.SetPageDevice
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Stelt paginaapparaatparameters in zie operator setpagedevice PostScriptspecificatie. Hiertoe kunnen paginagrootte en kleur enz. behoren.
 type: docs
-weight: 220
+weight: 240
 url: /nl/net/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument.SetPageDevice method

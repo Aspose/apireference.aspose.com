@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. يضيف مقياسًا إلى حالة الرسومات الحالية مقياس المصفوفة الحالية .
 type: docs
-weight: 210
+weight: 230
 url: /ar/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

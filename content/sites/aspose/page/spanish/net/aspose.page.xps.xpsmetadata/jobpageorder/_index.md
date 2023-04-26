@@ -3,7 +3,7 @@ title: Class JobPageOrder
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrder clase. Define el orden de las páginas físicas para la salida. https//docs.microsoft.com/enus/windows/win32/printdocs/jobpageorder
 type: docs
-weight: 1450
+weight: 1460
 url: /es/net/aspose.page.xps.xpsmetadata/jobpageorder/
 ---
 ## JobPageOrder class

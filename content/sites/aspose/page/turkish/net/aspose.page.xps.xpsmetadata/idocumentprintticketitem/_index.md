@@ -3,7 +3,7 @@ title: Interface IDocumentPrintTicketItem
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.IDocumentPrintTicketItem arayüz. Belge ön ekli basılı bilet öğelerinin arayüzü.
 type: docs
-weight: 910
+weight: 920
 url: /tr/net/aspose.page.xps.xpsmetadata/idocumentprintticketitem/
 ---
 ## IDocumentPrintTicketItem interface

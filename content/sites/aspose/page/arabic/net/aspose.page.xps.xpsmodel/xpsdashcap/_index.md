@@ -3,7 +3,7 @@ title: Enum XpsDashCap
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsDashCap تعداد. القيم الصالحة لخاصية StrokeDashCap لعنصر المسار.
 type: docs
-weight: 3010
+weight: 3020
 url: /ar/net/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enumeration

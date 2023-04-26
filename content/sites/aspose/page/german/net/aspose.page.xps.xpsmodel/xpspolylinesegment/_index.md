@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment klas. Klasse die Eigenschaften von PolyLineSegmentElementen kapselt. Dieses Element beschreibt eine polygonale Zeichnung die eine beliebige Anzahl einzelner Scheitelpunkte enthält.
 type: docs
-weight: 3310
+weight: 3320
 url: /de/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush sınıf. LinearGradientBrush özellik öğesi özelliklerini kapsayan sınıf. Bu öğe bir vektör boyunca doğrusal bir degrade fırça belirtmek için kullanılır.
 type: docs
-weight: 3200
+weight: 3210
 url: /tr/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

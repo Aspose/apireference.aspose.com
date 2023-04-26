@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFrontSource
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontSource сорт. Указывает источник пользовательского основного листа передней обложки для задания. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfrontsource
 type: docs
-weight: 1550
+weight: 1560
 url: /ru/net/aspose.page.xps.xpsmetadata/jobprimarycoverfrontsource/
 ---
 ## JobPrimaryCoverFrontSource class

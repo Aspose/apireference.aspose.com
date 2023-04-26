@@ -3,7 +3,7 @@ title: Class JobID
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobID sınıf. İş için benzersiz bir kimlik belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/jobid
 type: docs
-weight: 1360
+weight: 1370
 url: /tr/net/aspose.page.xps.xpsmetadata/jobid/
 ---
 ## JobID class

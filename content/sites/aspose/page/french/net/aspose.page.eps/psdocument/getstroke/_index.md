@@ -3,7 +3,7 @@ title: PsDocument.GetStroke
 second_title: Aspose.Page pour la référence de l'API .NET
 description: PsDocument méthode. Obtient le trait de létat graphique actuel.
 type: docs
-weight: 140
+weight: 160
 url: /fr/net/aspose.page.eps/psdocument/getstroke/
 ---
 ## PsDocument.GetStroke method

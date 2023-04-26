@@ -3,7 +3,7 @@ title: PsDocument.Transform
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Προσθέτει μετασχηματισμό στην τρέχουσα κατάσταση γραφικών συνενώνει αυτόν τον πίνακα με τον τρέχοντα.
 type: docs
-weight: 270
+weight: 300
 url: /el/net/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument.Transform method

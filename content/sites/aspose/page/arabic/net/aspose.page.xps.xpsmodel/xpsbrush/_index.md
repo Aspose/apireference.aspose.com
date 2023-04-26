@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsBrush فصل. فئة تتضمن ميزات مشتركة لجميع عناصر الفرشاة.
 type: docs
-weight: 2960
+weight: 2970
 url: /ar/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

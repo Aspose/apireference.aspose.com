@@ -3,7 +3,7 @@ title: Class Feature
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Feature 수업. 일반적인 인쇄 스키마 기능을 캡슐화하는 클래스입니다. 모든 스키마 정의 기능의 기본 클래스입니다. A 요소에는 전체 목록이 포함되어 있습니다.Option 그리고Property 장치 속성 작업 형식 설정 또는 기타 관련 특성을 완전히 설명하는 요소. https//docs.microsoft.com/enus/windows/win32/printdocs/feature
 type: docs
-weight: 870
+weight: 880
 url: /ko/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBackSource
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBackSource clase. Especifica el origen de una hoja principal de contraportada personalizada para el trabajo. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverbacksource
 type: docs
-weight: 1520
+weight: 1530
 url: /es/net/aspose.page.xps.xpsmetadata/jobprimarycoverbacksource/
 ---
 ## JobPrimaryCoverBackSource class

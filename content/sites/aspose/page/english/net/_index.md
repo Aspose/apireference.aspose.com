@@ -17,6 +17,7 @@ is_root: true
 | [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp) | The **Aspose.Page.EPS.XMP** namespace provides classes for reading, changing XMP metadata in EPS files. |
 | [Aspose.Page.Font](./aspose.page.font) | The **Aspose.Page.Font** namespace contains classes for fonts manipulation. |
 | [Aspose.Page.XPS](./aspose.page.xps) | The **Aspose.Page.XPS** is a root namespace for all classes that deal with XPS document. |
+| [Aspose.Page.XPS.Features](./aspose.page.xps.features) | The **Aspose.Page.Xps.Features** namespace provides features beyond the XPS specification. |
 | [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation) | The **Aspose.Page.Xps.Presentation** namespace provides base classes for rendering XPS document to other formats. |
 | [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image) | The **Aspose.Page.Xps.Presentation.Image** namespace provides classes for rendering XPS document to an image. |
 | [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf) | The **Aspose.Page.Xps.Presentation.Pdf** namespace provides classes for rendering XPS document to PDF document. |

@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | स्ट्रिंग सरणी गुण मान प्राप्त करता है। यदि अनुरोधित संपत्ति अनुपस्थित है, तो डिफ़ॉल्ट मान दिया जाता है। |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | बूलियन गुण मान प्राप्त करता है। |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | बूलियन गुण मान प्राप्त करता है। यदि अनुरोधित संपत्ति अनुपस्थित है, तो डिफ़ॉल्ट मान दिया जाता है। |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | गुणों के नाम लौटाता है। |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | बूलियन गुण मान सेट करता है। |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | रंग गुण मान सेट करता है। |

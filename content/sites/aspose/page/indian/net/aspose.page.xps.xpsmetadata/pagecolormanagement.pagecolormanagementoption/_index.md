@@ -3,7 +3,7 @@ title: Class PageColorManagement.PageColorManagementOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageColorManagementPageColorManagementOption कक्ष. क वर्णन करत हैPageColorManagement सुवध वकल्प.
 type: docs
-weight: 1860
+weight: 1870
 url: /hi/net/aspose.page.xps.xpsmetadata/pagecolormanagement.pagecolormanagementoption/
 ---
 ## PageColorManagement.PageColorManagementOption class

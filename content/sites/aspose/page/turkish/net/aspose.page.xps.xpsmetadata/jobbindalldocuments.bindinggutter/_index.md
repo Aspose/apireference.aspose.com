@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter sınıf. Belirtmenin yolunu açıklar. puanlanmış özellik değeri bir tamsayı değeriyle veya parametre.
 type: docs
-weight: 1160
+weight: 1170
 url: /tr/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

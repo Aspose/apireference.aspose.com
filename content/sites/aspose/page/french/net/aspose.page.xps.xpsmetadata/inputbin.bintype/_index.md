@@ -3,7 +3,7 @@ title: Class InputBin.BinType
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.InputBinBinType classe. Définit les constantes pour le valeur de propriété notée.
 type: docs
-weight: 1010
+weight: 1020
 url: /fr/net/aspose.page.xps.xpsmetadata/inputbin.bintype/
 ---
 ## InputBin.BinType class

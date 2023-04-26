@@ -16,7 +16,7 @@ public JobDuplexAllDocumentsContiguously(params DuplexOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | DuplexOption[] | Una matriz de opciones específicas para la característica. |
+| options | DuplexOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

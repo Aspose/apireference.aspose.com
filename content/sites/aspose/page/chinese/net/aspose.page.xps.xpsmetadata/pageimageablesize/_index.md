@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize 班级. 描述用于布局和渲染的图像画布这将根据 进行报告PageMediaSize和PageOrientation. https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /zh/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

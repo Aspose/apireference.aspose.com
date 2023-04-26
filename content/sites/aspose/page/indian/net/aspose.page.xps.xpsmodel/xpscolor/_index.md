@@ -3,7 +3,7 @@ title: Class XpsColor
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsColor कक्ष. समन्य रंग सुवधओं क समहत करने वल आधर वर्ग
 type: docs
-weight: 2980
+weight: 2990
 url: /hi/net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

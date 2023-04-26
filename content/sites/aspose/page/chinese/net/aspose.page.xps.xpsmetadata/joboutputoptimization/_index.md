@@ -3,7 +3,7 @@ title: Class JobOutputOptimization
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobOutputOptimization 班级. 描述作业处理旨在优化特定使用场景的输出如指定选项所示 https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputoptimization
 type: docs
-weight: 1430
+weight: 1440
 url: /zh/net/aspose.page.xps.xpsmetadata/joboutputoptimization/
 ---
 ## JobOutputOptimization class

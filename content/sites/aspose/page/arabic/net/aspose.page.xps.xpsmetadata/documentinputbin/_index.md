@@ -3,7 +3,7 @@ title: Class DocumentInputBin
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentInputBin فصل. يصف حاوية الإدخال المثبتة في الجهاز أو القائمة الكاملة للحاويات المدعومة للجهاز.JobInputBin وDocumentInputBin  وPageInputBin الكلمات الرئيسية متنافية. لا يجب تحديد كليهما في وقت واحد في PrintTicket أو مستند إمكانيات الطباعة.
 type: docs
-weight: 730
+weight: 740
 url: /ar/net/aspose.page.xps.xpsmetadata/documentinputbin/
 ---
 ## DocumentInputBin class

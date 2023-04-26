@@ -3,7 +3,7 @@ title: Class DocumentDuplex
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentDuplex 班级. 描述了输出的双工特性双面功能允许在介质的两面进行 for 打印每个文档单独双面打印 DocumentDuplex 和 JobDuplexAllDocumentsContiguously 是互斥的 由驱动程序决定这些关键字之间的约束处理 https//docs.microsoft.com/enus/windows/win32/printdocs/ documentduplex
 type: docs
-weight: 690
+weight: 700
 url: /zh/net/aspose.page.xps.xpsmetadata/documentduplex/
 ---
 ## DocumentDuplex class

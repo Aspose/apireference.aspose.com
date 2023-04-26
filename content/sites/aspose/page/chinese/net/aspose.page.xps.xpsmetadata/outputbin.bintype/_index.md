@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType 班级. 定义常量得分属性值.
 type: docs
-weight: 1670
+weight: 1680
 url: /zh/net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

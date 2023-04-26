@@ -3,7 +3,7 @@ title: Class PagePhotoPrintingIntent
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PagePhotoPrintingIntent कक्ष. फट प्रंटंग सेटंग्स क आबद के लए ड्रइवर के लए एक उच्चस्तरय इरदे क संकेत देत है ये सेटंग्स अपेक्षत आउटपुट गुणवत्त से संबंधत हत हैं जसे उपयगकर्त फट प्रंट करते समय नर्दष्ट कर सकत है https//docs.microsoft.com/enus/windows /win32/printdocs/pagephotoprintingintent
 type: docs
-weight: 2390
+weight: 2400
 url: /hi/net/aspose.page.xps.xpsmetadata/pagephotoprintingintent/
 ---
 ## PagePhotoPrintingIntent class

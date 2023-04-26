@@ -1,14 +1,14 @@
 ---
 title: DocumentBinding.BindingOption.Bale
 second_title: Referencia de la API de Aspose.Page para .NET
-description: BindingOption campo. Especifica el atado de balas.
+description: BindingOption campo. Especifica el atado de fardos.
 type: docs
 weight: 20
 url: /es/net/aspose.page.xps.xpsmetadata/documentbinding.bindingoption/bale/
 ---
 ## DocumentBinding.BindingOption.Bale field
 
-Especifica el atado de balas.
+Especifica el atado de fardos.
 
 ```csharp
 public static BindingOption Bale;

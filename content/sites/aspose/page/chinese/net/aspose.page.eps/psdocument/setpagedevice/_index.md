@@ -3,7 +3,7 @@ title: PsDocument.SetPageDevice
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 设置页面设备参数参见操作符setpagedevicePostScript 规范 其中可以是页面大小和颜色等
 type: docs
-weight: 220
+weight: 240
 url: /zh/net/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument.SetPageDevice method

@@ -16,7 +16,7 @@ public PresentationDirection(params PresentationDirectionOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PresentationDirectionOption[] | Una matriz de opciones específicas para la característica. |
+| options | PresentationDirectionOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

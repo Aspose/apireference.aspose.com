@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush فصل. فئة تتضمن ميزات عنصر خاصية VisualBrush . يستخدم هذا العنصر لملء منطقة برسم .
 type: docs
-weight: 3420
+weight: 3430
 url: /ar/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

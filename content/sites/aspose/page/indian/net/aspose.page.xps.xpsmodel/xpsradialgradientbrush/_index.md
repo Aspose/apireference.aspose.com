@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush कक्ष. क्लस इनकैप्सुलेटंग रेडयलग्रेडएंटब्रश गुण तत्व वशेषतएं इस तत्व क उपयग रेडयल ग्रेडएंट ब्रश क नर्दष्ट करने के लए कय जत है
 type: docs
-weight: 3330
+weight: 3340
 url: /hi/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

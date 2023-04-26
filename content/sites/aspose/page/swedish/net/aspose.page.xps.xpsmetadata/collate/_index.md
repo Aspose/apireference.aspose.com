@@ -3,7 +3,7 @@ title: Class Collate
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.Collate klass. Basklassen förDocumentCollate ochJobCollateAllDocuments funktioner klasser.
 type: docs
-weight: 490
+weight: 500
 url: /sv/net/aspose.page.xps.xpsmetadata/collate/
 ---
 ## Collate class

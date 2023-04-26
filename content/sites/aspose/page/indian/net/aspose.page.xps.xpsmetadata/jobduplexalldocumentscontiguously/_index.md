@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously कक्ष. आउटपुट क डुप्लेक्स वशेषतओं क वर्णन करत है डुप्लेक्स सुवध मडय के दनं ओर पर प्रंट करने क अनुमत देत है कर्य के सभ दस्तवेज़ एक सथ जुड़े हुए हैं JobDuplexAllDocumentsContiguously औरDocumentDuplexपरस्पर अनन्य हैं इन कवर्ड के बच बध से नपटने क नर्धरण करन ड्रइवर पर नर्भर है
 type: docs
-weight: 1280
+weight: 1290
 url: /hi/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide クラス. 出力を強制的にメディア シートの前面に表示します両面に異なる 面を持つメディア シートに関連しますこの機能が処理オプション  など に干渉する場合DocumentDuplex機能が適用される特定の ページが優先されます.
 type: docs
-weight: 1970
+weight: 1980
 url: /ja/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

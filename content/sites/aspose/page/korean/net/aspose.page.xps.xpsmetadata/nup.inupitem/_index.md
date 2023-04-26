@@ -3,7 +3,7 @@ title: Interface NUp.INUpItem
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.NUpINUpItem 상호 작용. 인터페이스JobNUpAllDocumentsContiguously 또는DocumentNUp 기능 항목.
 type: docs
-weight: 1610
+weight: 1620
 url: /ko/net/aspose.page.xps.xpsmetadata/nup.inupitem/
 ---
 ## NUp.INUpItem interface

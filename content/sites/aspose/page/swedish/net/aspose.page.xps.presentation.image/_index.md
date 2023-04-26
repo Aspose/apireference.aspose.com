@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page för .NET API-referens
 description: Den Aspose.Page.Xps.Presentation.Image namnutrymme tillhandahåller klasser för att rendera XPS dokument till en bild.
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.page.xps.presentation.image/
 ---
 Den **Aspose.Page.Xps.Presentation.Image** namnutrymme tillhandahåller klasser för att rendera XPS -dokument till en bild.

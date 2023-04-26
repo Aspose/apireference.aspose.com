@@ -3,7 +3,7 @@ title: Class PageBorderless
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageBorderless クラス. イメージ コンテンツをメディアの物理的な端まで印刷する必要がある場合について説明します
 type: docs
-weight: 1830
+weight: 1840
 url: /ja/net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

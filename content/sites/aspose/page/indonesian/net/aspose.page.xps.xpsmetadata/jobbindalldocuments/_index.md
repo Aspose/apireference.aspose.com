@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocuments kelas. Menjelaskan metode pengikatan. Semua dokumen dalam pekerjaan dijilid menjadi satu. JobBindAllDocuments DanDocumentBinding saling eksklusif. Terserah driver untuk menentukan penanganan kendala antara kata kunci ini. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocuments
 type: docs
-weight: 1150
+weight: 1160
 url: /id/net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

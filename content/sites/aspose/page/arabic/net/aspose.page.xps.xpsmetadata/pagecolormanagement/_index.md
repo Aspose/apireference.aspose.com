@@ -3,7 +3,7 @@ title: Class PageColorManagement
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageColorManagement فصل. تكوين إدارة الألوان للصفحة الحالية. يعتبر هذا تلقائيًا في SHIM  DM_ICMM طريقة إضافة النظام. يصف المكون الذي يجب أن يقوم بإدارة الألوان مثل برنامج التشغيل. https//docs.microsoft.com/enus/windows / win32 / printdocs / pagecolormanagement
 type: docs
-weight: 1850
+weight: 1860
 url: /ar/net/aspose.page.xps.xpsmetadata/pagecolormanagement/
 ---
 ## PageColorManagement class

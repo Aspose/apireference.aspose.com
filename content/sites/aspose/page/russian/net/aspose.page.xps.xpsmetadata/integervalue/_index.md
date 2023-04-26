@@ -3,7 +3,7 @@ title: Class IntegerValue
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.IntegerValue сорт. Класс который инкапсулирует значение Integer в документе PrintTicket.
 type: docs
-weight: 1120
+weight: 1130
 url: /ru/net/aspose.page.xps.xpsmetadata/integervalue/
 ---
 ## IntegerValue class

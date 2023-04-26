@@ -3,7 +3,7 @@ title: PageWatermark.LayeringOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the Layering./pagewatermark.layering feature options.
 type: docs
-weight: 2680
+weight: 2690
 url: /net/aspose.page.xps.xpsmetadata/pagewatermark.layeringoption/
 ---
 ## PageWatermark.LayeringOption class

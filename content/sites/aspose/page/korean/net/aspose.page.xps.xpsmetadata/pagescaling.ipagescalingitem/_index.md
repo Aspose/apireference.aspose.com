@@ -3,7 +3,7 @@ title: Interface PageScaling.IPageScalingItem
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingIPageScalingItem 상호 작용. 인터페이스PageScaling 기능 항목.
 type: docs
-weight: 2490
+weight: 2500
 url: /ko/net/aspose.page.xps.xpsmetadata/pagescaling.ipagescalingitem/
 ---
 ## PageScaling.IPageScalingItem interface

@@ -3,7 +3,7 @@ title: Class DocumentPrintTicket
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentPrintTicket فصل. الفئة التي تتضمن بطاقة طباعة على مستوى المستند.
 type: docs
-weight: 780
+weight: 790
 url: /ar/net/aspose.page.xps.xpsmetadata/documentprintticket/
 ---
 ## DocumentPrintTicket class

@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode перечисление. Допустимые значения свойства ColorInterpolationMode кистей градиента.
 type: docs
-weight: 2990
+weight: 3000
 url: /ru/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

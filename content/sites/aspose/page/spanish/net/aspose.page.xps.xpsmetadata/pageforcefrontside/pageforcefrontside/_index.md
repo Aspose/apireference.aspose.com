@@ -16,7 +16,7 @@ public PageForceFrontSide(params PageForceFrontSideOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageForceFrontSideOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageForceFrontSideOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

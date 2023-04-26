@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter τάξη. Περιγράφει τον τρόπο καθορισμού του βαθμολογημένη τιμή ιδιότητας είτε με ακέραια τιμή είτε με αναφορά στο παράμετρος.
 type: docs
-weight: 1160
+weight: 1170
 url: /el/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

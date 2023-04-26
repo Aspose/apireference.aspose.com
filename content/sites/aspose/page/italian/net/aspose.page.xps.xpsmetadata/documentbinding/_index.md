@@ -3,7 +3,7 @@ title: Class DocumentBinding
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBinding classe. Descrive il metodo di associazione. Ogni documento è associato separatamente. DocumentBinding e JobBindAllDocuments si escludono a vicenda. Spetta al driver determinare la gestione dei vincoli tra le parole chiave. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbinding
 type: docs
-weight: 560
+weight: 570
 url: /it/net/aspose.page.xps.xpsmetadata/documentbinding/
 ---
 ## DocumentBinding class

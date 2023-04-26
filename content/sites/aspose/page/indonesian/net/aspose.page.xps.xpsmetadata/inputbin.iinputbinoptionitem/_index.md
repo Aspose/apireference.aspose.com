@@ -3,7 +3,7 @@ title: Interface InputBin.IInputBinOptionItem
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinIInputBinOptionItem antarmuka. Antarmuka apa sajaInputBinOption barang.
 type: docs
-weight: 1060
+weight: 1070
 url: /id/net/aspose.page.xps.xpsmetadata/inputbin.iinputbinoptionitem/
 ---
 ## InputBin.IInputBinOptionItem interface

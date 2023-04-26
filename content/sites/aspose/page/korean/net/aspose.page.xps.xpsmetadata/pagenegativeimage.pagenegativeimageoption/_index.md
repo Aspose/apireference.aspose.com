@@ -3,7 +3,7 @@ title: Class PageNegativeImage.PageNegativeImageOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageNegativeImagePageNegativeImageOption 수업. 정의PageNegativeImage 기능 옵션.
 type: docs
-weight: 2290
+weight: 2300
 url: /ko/net/aspose.page.xps.xpsmetadata/pagenegativeimage.pagenegativeimageoption/
 ---
 ## PageNegativeImage.PageNegativeImageOption class

@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsPath klas. Klasse die Pathelementfuncties inkapselt. Dit element is de enige manier om vectorafbeeldingen en afbeeldingen aan een vaste pagina toe te voegen. Het definieert een enkele vectorafbeelding die op een pagina moet worden weergegeven.
 type: docs
-weight: 3250
+weight: 3260
 url: /nl/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

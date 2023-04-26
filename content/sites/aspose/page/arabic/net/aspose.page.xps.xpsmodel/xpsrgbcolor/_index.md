@@ -3,7 +3,7 @@ title: Class XpsRgbColor
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsRgbColor فصل. يتضمن لون RGB لأي مساحة لونية sRGB أو scRGB .
 type: docs
-weight: 3340
+weight: 3350
 url: /ar/net/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class

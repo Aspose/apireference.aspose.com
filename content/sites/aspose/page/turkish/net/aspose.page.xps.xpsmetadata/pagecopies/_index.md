@@ -3,7 +3,7 @@ title: Class PageCopies
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageCopies sınıf. Bir sayfanın kopya sayısını belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/pagecopies
 type: docs
-weight: 1870
+weight: 1880
 url: /tr/net/aspose.page.xps.xpsmetadata/pagecopies/
 ---
 ## PageCopies class

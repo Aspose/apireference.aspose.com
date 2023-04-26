@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page untuk Referensi .NET API
 description: Itu Aspose.Page.Xps.XpsModelnamespace menyediakan kelas yang mendeskripsikan elemen dokumen XPS.
 type: docs
-weight: 110
+weight: 120
 url: /id/net/aspose.page.xps.xpsmodel/
 ---
 Itu **Aspose.Page.Xps.XpsModel**namespace menyediakan kelas yang mendeskripsikan elemen dokumen XPS.

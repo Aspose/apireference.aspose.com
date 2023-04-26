@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Aspose.Page för .NET API-referens
 description: PsDocument metod. Ställer in linje i aktuellt grafikläge.
 type: docs
-weight: 250
+weight: 270
 url: /sv/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

@@ -3,7 +3,7 @@ title: Class JobID
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobID 수업. 작업의 고유 ID를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobid
 type: docs
-weight: 1360
+weight: 1370
 url: /ko/net/aspose.page.xps.xpsmetadata/jobid/
 ---
 ## JobID class

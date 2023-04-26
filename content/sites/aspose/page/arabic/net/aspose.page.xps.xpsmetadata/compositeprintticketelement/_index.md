@@ -3,7 +3,7 @@ title: Class CompositePrintTicketElement
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.CompositePrintTicketElement فصل. الفئة الأساسية للفئات التي قد تكون عناصر مخطط طباعة مركبة أي تحتوي على عناصر أخرى .
 type: docs
-weight: 510
+weight: 520
 url: /ar/net/aspose.page.xps.xpsmetadata/compositeprintticketelement/
 ---
 ## CompositePrintTicketElement class

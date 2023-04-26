@@ -3,7 +3,7 @@ title: JobErrorSheetSource
 second_title: Aspose.Page for .NET API Reference
 description: Specifies the source for a custom error sheet. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheetsource
 type: docs
-weight: 1340
+weight: 1350
 url: /net/aspose.page.xps.xpsmetadata/joberrorsheetsource/
 ---
 ## JobErrorSheetSource class

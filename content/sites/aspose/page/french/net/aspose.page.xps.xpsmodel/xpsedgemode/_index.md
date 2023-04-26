@@ -3,7 +3,7 @@ title: Enum XpsEdgeMode
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsEdgeMode énumération. Valeurs valides de la propriété RenderOptions.EdgeMode de lélément Canvas.
 type: docs
-weight: 3020
+weight: 3030
 url: /fr/net/aspose.page.xps.xpsmodel/xpsedgemode/
 ---
 ## XpsEdgeMode enumeration

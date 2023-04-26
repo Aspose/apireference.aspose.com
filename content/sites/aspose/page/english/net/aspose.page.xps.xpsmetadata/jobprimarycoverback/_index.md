@@ -3,7 +3,7 @@ title: JobPrimaryCoverBack
 second_title: Aspose.Page for .NET API Reference
 description: Describes the back ending cover sheet. Each job will have a separate primary sheet. The cover sheet should be printed on the PageMediaSize./pagemediasize and PageMediaType./pagemediatype used for the final page of the job. The cover sheet should be integrated into processing options such as JobDuplexAllDocumentsContiguously./jobduplexalldocumentscontiguously JobNUpAllDocumentsContiguously./jobnupalldocumentscontiguously as indicated by the Option specified. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

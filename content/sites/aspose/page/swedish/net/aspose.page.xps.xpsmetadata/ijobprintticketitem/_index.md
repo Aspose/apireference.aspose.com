@@ -3,7 +3,7 @@ title: Interface IJobPrintTicketItem
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.IJobPrintTicketItem gränssnitt. Gränssnittet för utskriftsbiljettobjekt med jobbprefix.
 type: docs
-weight: 930
+weight: 940
 url: /sv/net/aspose.page.xps.xpsmetadata/ijobprintticketitem/
 ---
 ## IJobPrintTicketItem interface

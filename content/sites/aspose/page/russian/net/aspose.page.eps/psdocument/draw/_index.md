@@ -3,7 +3,7 @@ title: PsDocument.Draw
 second_title: Справочник по Aspose.Page для .NET API
 description: PsDocument метод. Нарисуйте произвольный путь.
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument.Draw method

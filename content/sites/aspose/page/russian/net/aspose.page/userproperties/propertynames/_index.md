@@ -3,7 +3,7 @@ title: UserProperties.PropertyNames
 second_title: Справочник по Aspose.Page для .NET API
 description: UserProperties метод. Возвращает имена свойств.
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties.PropertyNames method

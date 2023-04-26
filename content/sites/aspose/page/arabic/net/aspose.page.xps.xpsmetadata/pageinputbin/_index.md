@@ -3,7 +3,7 @@ title: Class PageInputBin
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageInputBin فصل. يصف حاوية الإدخال المثبتة في الجهاز أو القائمة الكاملة للحاويات المدعومة لجهاز . يسمح بمواصفات حاوية الإدخال على أساس كل صفحة. الJobInputBin وDocumentInputBin و PageInputBin الكلمات الرئيسية متنافية. لا يجب تحديد كليهما في نفس الوقت في مستند PrintTicket أو مستند إمكانيات الطباعة . https//docs.microsoft.com/enus/windows/win32/printdocs/pageinputbin
 type: docs
-weight: 2020
+weight: 2030
 url: /ar/net/aspose.page.xps.xpsmetadata/pageinputbin/
 ---
 ## PageInputBin class

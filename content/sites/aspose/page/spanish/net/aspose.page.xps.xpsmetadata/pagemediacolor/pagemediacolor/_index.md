@@ -16,7 +16,7 @@ public PageMediaColor(params PageMediaColorOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageMediaColorOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageMediaColorOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

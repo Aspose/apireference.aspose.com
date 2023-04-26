@@ -3,7 +3,7 @@ title: Class Value
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.Value klass. Basklassen som inkapslar enProperty eller aScoredProperty värde i ett PrintTicketdokument. Ett värdeelement associerar en literal med en typ. https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 2930
+weight: 2940
 url: /sv/net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class

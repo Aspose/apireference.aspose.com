@@ -3,7 +3,7 @@ title: XpsPageLinkTarget
 second_title: Aspose.Page for .NET API Reference
 description: Class incapsulating the page hyperlink target.
 type: docs
-weight: 3240
+weight: 3250
 url: /net/aspose.page.xps.xpsmodel/xpspagelinktarget/
 ---
 ## XpsPageLinkTarget class
@@ -19,6 +19,12 @@ public sealed class XpsPageLinkTarget : XpsHyperlinkTarget
 | Name | Description |
 | --- | --- |
 | [XpsPageLinkTarget](xpspagelinktarget)(int) | Creates the new instance. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [TargetPageNumber](../../aspose.page.xps.xpsmodel/xpspagelinktarget/targetpagenumber) { get; } | Gets the page number that the parent XPS element refers to. |
 
 ### See Also
 

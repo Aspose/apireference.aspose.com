@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Aspose.Page per riferimento all'API .NET
 description: PsDocument metodo. Imposta il tratto nello stato grafico corrente.
 type: docs
-weight: 250
+weight: 270
 url: /it/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

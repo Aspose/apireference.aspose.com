@@ -3,7 +3,7 @@ title: Class XpsColor
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsColor sınıf. Ortak renk özelliklerini içeren temel sınıf.
 type: docs
-weight: 2980
+weight: 2990
 url: /tr/net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

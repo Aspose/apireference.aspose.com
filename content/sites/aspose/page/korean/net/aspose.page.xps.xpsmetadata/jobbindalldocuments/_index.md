@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocuments 수업. 바인딩 방법을 설명합니다. 작업의 모든 문서가 함께 묶여 있습니다. JobBindAllDocuments 그리고DocumentBinding 상호 배타적입니다. 이러한 키워드 간의 제약 조건 처리를 결정하는 것은 드라이버에 달려 있습니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocuments
 type: docs
-weight: 1150
+weight: 1160
 url: /ko/net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

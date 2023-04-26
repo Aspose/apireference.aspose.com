@@ -3,7 +3,7 @@ title: Class Value
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.Value сорт. Базовый класс инкапсулирующийProperty илиScoredProperty значение в документе PrintTicket. Элемент Value связывает литерал с типом. https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 2930
+weight: 2940
 url: /ru/net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class

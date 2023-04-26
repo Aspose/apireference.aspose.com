@@ -3,7 +3,7 @@ title: Class PageMediaSize.PageMediaSizeOption
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePageMediaSizeOption klas. Beschrijft dePageMediaSize functieopties.
 type: docs
-weight: 2080
+weight: 2090
 url: /nl/net/aspose.page.xps.xpsmetadata/pagemediasize.pagemediasizeoption/
 ---
 ## PageMediaSize.PageMediaSizeOption class
@@ -191,7 +191,7 @@ public sealed class PageMediaSizeOption : Option
 | static [PRC3EnvelopeRotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/prc3enveloperotated/) | PRC3 envelop gedraaid |
 | static [PRC4Envelope](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/prc4envelope/) | PRC4 envelop |
 | static [PRC4EnvelopeRotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/prc4enveloperotated/) | PRC4 envelop gedraaid |
-| static [PRC5Envelope](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/prc5envelope/) | PRC-envelop |
+| static [PRC5Envelope](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/prc5envelope/) | VRC-envelop |
 | static [PRC5EnvelopeRotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/prc5enveloperotated/) | PRC5 envelop gedraaid |
 | static [PRC6Envelope](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/prc6envelope/) | PRC6 envelop |
 | static [PRC6EnvelopeRotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/prc6enveloperotated/) | PRC6 envelop gedraaid |

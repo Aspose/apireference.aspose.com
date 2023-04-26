@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice 班级. 类封装图像合成器.
 type: docs
-weight: 400
+weight: 410
 url: /zh/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class
@@ -41,7 +41,7 @@ public class PdfDevice : Device, IMultiPageDevice
 | override [Size](../../aspose.page.xps.presentation.pdf/pdfdevice/size/) { get; set; } | 获取/设置设备媒体大小。 |
 | override [Stroke](../../aspose.page.xps.presentation.pdf/pdfdevice/stroke/) { get; set; } | 获取/设置绘制路径的笔划。 |
 | virtual [TextRenderingMode](../../aspose.page/device/textrenderingmode/) { get; set; } | 返回或指定当前文本呈现模式。 |
-| virtual [TextStrokeWidth](../../aspose.page/device/textstrokewidth/) { get; set; } | 返回或指定当前文本笔划宽度。 |
+| virtual [TextStrokeWidth](../../aspose.page/device/textstrokewidth/) { get; set; } | 返回或指定当前文本笔画宽度。 |
 
 ## 方法
 

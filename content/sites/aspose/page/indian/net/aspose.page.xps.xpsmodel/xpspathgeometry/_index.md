@@ -3,7 +3,7 @@ title: Class XpsPathGeometry
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPathGeometry कक्ष. वर्ग incapsulating PathGeometry संपत्त तत्व वशेषतएं इस तत्व में आंकड़े वशेषत के सथ नर्दष्ट पथ आंकड़ं क एक सेट हत है य एक चइल्ड पथफगर तत्व के सथ
 type: docs
-weight: 3270
+weight: 3280
 url: /hi/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class

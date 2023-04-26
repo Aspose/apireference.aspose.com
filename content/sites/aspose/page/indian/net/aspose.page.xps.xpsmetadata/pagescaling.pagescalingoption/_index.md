@@ -3,7 +3,7 @@ title: Class PageScaling.PageScalingOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingPageScalingOption कक्ष. क वर्णन करत हैPageScaling सुवधएँ वकल्प.
 type: docs
-weight: 2500
+weight: 2510
 url: /hi/net/aspose.page.xps.xpsmetadata/pagescaling.pagescalingoption/
 ---
 ## PageScaling.PageScalingOption class

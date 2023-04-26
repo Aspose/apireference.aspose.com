@@ -3,7 +3,7 @@ title: PsDocument.SetPageDevice
 second_title: .NET API 참조용 Aspose.Page
 description: PsDocument 방법. 페이지 장치 매개변수를 설정합니다setpagedevice PostScript 사양 연산자 참조. 페이지 크기 및 색상 등이 있을 수 있습니다.
 type: docs
-weight: 220
+weight: 240
 url: /ko/net/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument.SetPageDevice method

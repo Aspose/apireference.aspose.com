@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginHeight
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginHeight कक्ष. वटरमर्क क उत्पत्त के सपेक्ष उसक उत्पत्त क नर्दष्ट करत है. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginheight
 type: docs
-weight: 2700
+weight: 2710
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/
 ---
 ## PageWatermarkOriginHeight class

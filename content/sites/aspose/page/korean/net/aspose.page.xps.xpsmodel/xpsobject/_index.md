@@ -3,7 +3,7 @@ title: Class XpsObject
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsObject 수업. 일반 XPS 모델 개체 기능을 캡슐화하는 클래스입니다.
 type: docs
-weight: 3220
+weight: 3230
 url: /ko/net/aspose.page.xps.xpsmodel/xpsobject/
 ---
 ## XpsObject class

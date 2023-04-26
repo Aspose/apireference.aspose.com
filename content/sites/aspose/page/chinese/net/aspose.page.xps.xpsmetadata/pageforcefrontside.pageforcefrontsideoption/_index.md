@@ -3,7 +3,7 @@ title: Class PageForceFrontSide.PageForceFrontSideOption
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSidePageForceFrontSideOption 班级. 描述了PageForceFrontSide功能选项.
 type: docs
-weight: 1980
+weight: 1990
 url: /zh/net/aspose.page.xps.xpsmetadata/pageforcefrontside.pageforcefrontsideoption/
 ---
 ## PageForceFrontSide.PageForceFrontSideOption class

@@ -3,7 +3,7 @@ title: Class XpsHyperlinkElement
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkElement sınıf. Bir köprü olabilecek XPS öğelerinin ortak özelliklerini içerir.
 type: docs
-weight: 3120
+weight: 3130
 url: /tr/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

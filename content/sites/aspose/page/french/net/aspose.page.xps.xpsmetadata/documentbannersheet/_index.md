@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet classe. Décrit la page de garde à produire pour un document particulier. La feuille de bannière doit être sortie sur le default PageMediaSize et en utilisant la valeur par défautPageMediaType . La feuille de bannière doit être également isolée du reste du travail. Cela signifie que toutes les options de finition ou de traitement telles que DocumentDuplex DocumentStaple  ouDocumentBinding ne doit pas inclure la feuille de bannière. La page de garde peut ou non être isolée du reste du travail. Cela signifie que toutes les options de finition ou de traitement du travail peuvent inclure la page de garde du document. La page de garde doit apparaître comme la première feuille du document. https //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 530
+weight: 540
 url: /fr/net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class

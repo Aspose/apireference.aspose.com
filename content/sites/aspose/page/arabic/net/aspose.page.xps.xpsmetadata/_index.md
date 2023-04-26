@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsMetadata
 second_title: Aspose.Page لمرجع NET API
 description: ملف Aspose.Page.Xps.XpsMetadata توفر مساحة الاسم الفئات التي تصف البيانات الوصفية لمستند XPS.
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.page.xps.xpsmetadata/
 ---
 ملف **Aspose.Page.Xps.XpsMetadata** توفر مساحة الاسم الفئات التي تصف البيانات الوصفية لمستند XPS.

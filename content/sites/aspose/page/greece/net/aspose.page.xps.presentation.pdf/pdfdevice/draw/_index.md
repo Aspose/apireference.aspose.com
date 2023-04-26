@@ -16,7 +16,7 @@ public override void Draw(GraphicsPath path)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| path | GraphicsPath | Το μονοπάτι για να σχεδιάσετε. |
+| path | GraphicsPath | Ο δρόμος για να σχεδιάσετε. |
 
 ### Δείτε επίσης
 

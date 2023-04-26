@@ -3,7 +3,7 @@ title: Class PageOutputQuality
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOutputQuality कक्ष. आउटपुट क नकरत्मक सेटंग क वर्णन करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputquality
 type: docs
-weight: 2370
+weight: 2380
 url: /hi/net/aspose.page.xps.xpsmetadata/pageoutputquality/
 ---
 ## PageOutputQuality class

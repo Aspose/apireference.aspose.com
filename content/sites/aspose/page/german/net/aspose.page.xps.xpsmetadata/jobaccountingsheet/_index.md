@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet klas. Beschreibt das für den Auftrag auszugebende Abrechnungsblatt. Das Buchungsblatt soll auf dem default ausgegeben werdenPageMediaSize und die Standardeinstellung verwendenPageMediaType . Das Buchungsblatt sollte vom Rest des Auftrags to isoliert werden. Das bedeutet dass alle Veredelungs oder Verarbeitungsoptionen z. B.   oder  sollte das Abrechnungsblatt nicht enthalten. Das Abrechnungsblatt kann nach Ermessen des Implementierers als erste oder letzte Seite des Auftrags erscheinen. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /de/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

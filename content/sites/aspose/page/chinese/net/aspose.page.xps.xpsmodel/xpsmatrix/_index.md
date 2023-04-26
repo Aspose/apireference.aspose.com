@@ -3,7 +3,7 @@ title: Class XpsMatrix
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsMatrix 班级. 封装 MatrixTransform 属性元素特征的类 该元素定义了一个任意仿射矩阵变换用于操纵元素的坐标 系统
 type: docs
-weight: 3210
+weight: 3220
 url: /zh/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

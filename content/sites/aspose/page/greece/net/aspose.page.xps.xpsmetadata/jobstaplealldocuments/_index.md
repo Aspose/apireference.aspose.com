@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments τάξη. Περιγράφει τα χαρακτηριστικά συρραφής της εξόδου. Όλα τα έγγραφα στην εργασία συρράπτονται μαζί. ΤοJobStapleAllDocuments καιDocumentStaple Οι λέξειςκλειδιά είναι αμοιβαία αποκλειόμενες. Εναπόκειται στον οδηγό να καθορίσει τον χειρισμό περιορισμών μεταξύ αυτών των λέξεωνκλειδιών. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /el/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

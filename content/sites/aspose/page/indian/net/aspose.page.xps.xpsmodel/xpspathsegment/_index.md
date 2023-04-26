@@ -3,7 +3,7 @@ title: Class XpsPathSegment
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPathSegment कक्ष. सभ पथ खंड तत्वं क समन्य सुवधओं क समहत करने वल वर्ग
 type: docs
-weight: 3290
+weight: 3300
 url: /hi/net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

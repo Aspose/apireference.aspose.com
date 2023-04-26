@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter klas. Beschreibt die Art der Angabe erzielter Eigenschaftswert  ob durch einen ganzzahligen Wert oder durch den Verweis auf die parameter.
 type: docs
-weight: 1160
+weight: 1170
 url: /de/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

@@ -3,7 +3,7 @@ title: Class StringParameterInit
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.StringParameterInit कक्ष. सभ स्ट्रंग पैरमटर प्ररंभकर्तओं के लए बेस क्लस
 type: docs
-weight: 2900
+weight: 2910
 url: /hi/net/aspose.page.xps.xpsmetadata/stringparameterinit/
 ---
 ## StringParameterInit class

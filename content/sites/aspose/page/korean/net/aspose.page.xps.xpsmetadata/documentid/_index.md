@@ -3,7 +3,7 @@ title: Class DocumentID
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentID 수업. 문서의 고유 ID를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documentid
 type: docs
-weight: 710
+weight: 720
 url: /ko/net/aspose.page.xps.xpsmetadata/documentid/
 ---
 ## DocumentID class

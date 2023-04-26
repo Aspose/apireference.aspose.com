@@ -3,7 +3,7 @@ title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption クラス. はScaleOffsetAlignment features options. スケーリングされたコンテンツの配置を指定します.
 type: docs
-weight: 2520
+weight: 2530
 url: /ja/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class

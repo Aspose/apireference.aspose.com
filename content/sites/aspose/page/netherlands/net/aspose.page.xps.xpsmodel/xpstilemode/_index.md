@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsTileMode opsomming. Geldige waarden van de eigenschap TileMode van tegelborstels.
 type: docs
-weight: 3390
+weight: 3400
 url: /nl/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

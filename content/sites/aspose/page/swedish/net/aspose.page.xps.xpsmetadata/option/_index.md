@@ -3,7 +3,7 @@ title: Class Option
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.Option klass. Klassen som implementerar en gemensam PrintTicket . Basklassen för alla schemadefinierade alternativ. Ett Optionelement innehåller allaProperty och ScoredProperty element associerade med detta alternativ. https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 1650
+weight: 1660
 url: /sv/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

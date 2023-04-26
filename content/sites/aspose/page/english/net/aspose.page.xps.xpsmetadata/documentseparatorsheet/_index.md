@@ -3,7 +3,7 @@ title: DocumentSeparatorSheet
 second_title: Aspose.Page for .NET API Reference
 description: Describes the separator sheet usage for a document. Separator sheets should appear in the output as indicated by the Option specified below. https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet
 type: docs
-weight: 800
+weight: 810
 url: /net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

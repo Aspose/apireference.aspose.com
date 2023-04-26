@@ -3,7 +3,7 @@ title: Class PageWatermark.LayeringOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayeringOption कक्ष. क वर्णन करत हैLayering सुवध वकल्प.
 type: docs
-weight: 2680
+weight: 2690
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermark.layeringoption/
 ---
 ## PageWatermark.LayeringOption class

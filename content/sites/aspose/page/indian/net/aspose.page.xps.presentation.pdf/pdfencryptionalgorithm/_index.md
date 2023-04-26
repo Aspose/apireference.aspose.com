@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm एनुम. एन्क्रप्शन मड एनम एल्गरदम और कुंज लंबई क उपयग करके वर्णन करें कर्यक्षमत क और बढ़ने में सक्षम हने के लए यह एनम बढ़य गय है यह एनम बेसटूकर पैटर्न क लगू करत है
 type: docs
-weight: 410
+weight: 420
 url: /hi/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

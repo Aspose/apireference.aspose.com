@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsBrush 수업. 모든 브러시 요소의 공통 기능을 캡슐화하는 클래스입니다.
 type: docs
-weight: 2960
+weight: 2970
 url: /ko/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

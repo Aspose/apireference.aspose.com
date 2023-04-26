@@ -3,7 +3,7 @@ title: Class XpsPathGeometry
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPathGeometry kelas. Kelas yang merangkum fitur elemen properti PathGeometry. Elemen ini berisi kumpulan gambar jalur yang ditentukan dengan atribut Figures atau dengan elemen PathFigure anak.
 type: docs
-weight: 3270
+weight: 3280
 url: /id/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class

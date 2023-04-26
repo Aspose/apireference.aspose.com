@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsDocument 수업. 모든 XPS 요소에 대해 조작 메서드를 제공하는 XPS 문서의 기본 엔터티를 캡슐화하는 클래스입니다.
 type: docs
-weight: 470
+weight: 480
 url: /ko/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class

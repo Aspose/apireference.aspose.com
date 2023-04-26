@@ -3,7 +3,7 @@ title: Class XpsGlyphs
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsGlyphs сорт. Класс инкапсулирующий функции элемента Glyphs. Этот элемент представляет собой серию однородно отформатированного текста из одного шрифта. Он предоставляет информацию необходимую для точного рендеринга и поддерживает функции поиска и выбора при просмотре потребителей.
 type: docs
-weight: 3090
+weight: 3100
 url: /ru/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

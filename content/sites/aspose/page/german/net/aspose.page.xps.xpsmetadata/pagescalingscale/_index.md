@@ -3,7 +3,7 @@ title: Class PageScalingScale
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScale klas. Gibt den Skalierungsfaktor für die benutzerdefinierte quadratische Skalierung an. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscale
 type: docs
-weight: 2550
+weight: 2560
 url: /de/net/aspose.page.xps.xpsmetadata/pagescalingscale/
 ---
 ## PageScalingScale class

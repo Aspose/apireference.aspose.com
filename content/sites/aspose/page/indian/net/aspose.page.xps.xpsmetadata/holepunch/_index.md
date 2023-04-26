@@ -3,7 +3,7 @@ title: Class HolePunch
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.HolePunch कक्ष. के लए आधर वर्गJobHolePunch औरDocumentHolePunch सुवधओं क कक्षएं.
 type: docs
-weight: 880
+weight: 890
 url: /hi/net/aspose.page.xps.xpsmetadata/holepunch/
 ---
 ## HolePunch class

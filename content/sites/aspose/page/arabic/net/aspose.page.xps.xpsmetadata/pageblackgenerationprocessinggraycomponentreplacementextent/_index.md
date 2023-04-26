@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementExtent فصل. يصف الامتداد الذي يتجاوز الألوان المحايدة إلى ألوان لونية التي يطبقها GCR . 0  استبدال مكون موحد  100  استبدال مكون رمادي . https//docs.microsoft.com/enus/windows/win32/printdocs / pageblackgenerationprocessinggraycomponentreplacementent
 type: docs
-weight: 1740
+weight: 1750
 url: /ar/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePrinted
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePrinted kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 2230
+weight: 2240
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediatype.preprinted/
 ---
 ## PageMediaType.PrePrinted class

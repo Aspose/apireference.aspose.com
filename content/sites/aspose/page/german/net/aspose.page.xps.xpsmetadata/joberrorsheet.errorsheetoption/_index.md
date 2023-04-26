@@ -3,7 +3,7 @@ title: Class JobErrorSheet.ErrorSheetOption
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetErrorSheetOption klas. Beschreibt dieJobErrorSheet Funktionsoptionen.
 type: docs
-weight: 1300
+weight: 1310
 url: /de/net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetoption/
 ---
 ## JobErrorSheet.ErrorSheetOption class

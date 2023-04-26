@@ -3,7 +3,7 @@ title: Class ParameterInit
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.ParameterInit فصل. الفئة التي تنفذ مُهيئ معلمة PrintTicket شائع . الفئة الأساسية لجميع مُهيئ المعلمات المعرفة من قبل المخطط.عنصر . أ العنصر هو هدف المرجع الذي قدمه أParameterRef element. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterinit
 type: docs
-weight: 2770
+weight: 2780
 url: /ar/net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class

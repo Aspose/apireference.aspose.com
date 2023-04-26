@@ -3,7 +3,7 @@ title: Class PageBorderless
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageBorderless klas. Beschrijft wanneer afbeeldingsinhoud moet worden afgedrukt tot aan de fysieke randen van de media. https//docs.microsoft.com/enus/windows/win32/printdocs/pageborderless
 type: docs
-weight: 1830
+weight: 1840
 url: /nl/net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

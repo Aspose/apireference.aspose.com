@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod énumération. Valeurs valides de la propriété SpreadMethod des pinceaux dégradés.
 type: docs
-weight: 3360
+weight: 3370
 url: /fr/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

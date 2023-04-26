@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront klas. Beschreibt das vordere AnfangsDeckblatt. Jedes Dokument hat ein separates Blatt. Das Deckblatt sollte aufgedruckt werdenPageMediaSize UndPageMediaType wird für die erste Seite des Dokuments verwendet. Das Deckblatt sollte in Verarbeitungsoptionen integriert werden wie zDocumentDuplex DocumentNUp  wie durch die angegebene Option angegeben. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /de/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

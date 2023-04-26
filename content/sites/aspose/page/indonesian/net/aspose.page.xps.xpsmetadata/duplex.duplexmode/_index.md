@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode kelas. Menentukan kemungkinan nilai dariDuplexOption S mencetak properti.
 type: docs
-weight: 850
+weight: 860
 url: /id/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet сорт. Описывает использование листаразделителя для документа. Листыразделители должны отображаться в выходных данных как указано в параметре указанном ниже.
 type: docs
-weight: 800
+weight: 810
 url: /ru/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

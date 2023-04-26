@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page für .NET-API-Referenz
 description: Die Aspose.Page.Xps.Präsentationsbild Namespace bietet Klassen zum Rendern von XPS Dokumenten in ein Bild.
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.page.xps.presentation.image/
 ---
 Die **Aspose.Page.Xps.Präsentationsbild** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in ein Bild.

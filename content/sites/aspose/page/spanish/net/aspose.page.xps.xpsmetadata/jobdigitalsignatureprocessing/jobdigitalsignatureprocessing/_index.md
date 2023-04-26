@@ -16,7 +16,7 @@ public JobDigitalSignatureProcessing(params JobDigitalSignatureProcessingOption[
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | JobDigitalSignatureProcessingOption[] | Una matriz de opciones específicas para la característica. |
+| options | JobDigitalSignatureProcessingOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

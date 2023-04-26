@@ -3,7 +3,7 @@ title: Enum XpsDashCap
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsDashCap एनुम. पथ तत्व के StrokeDashCap गुण के मन्य मन.
 type: docs
-weight: 3010
+weight: 3020
 url: /hi/net/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enumeration

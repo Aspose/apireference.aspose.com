@@ -3,7 +3,7 @@ title: Class XpsGradientStop
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsGradientStop कक्ष. क्लस इनकैप्सुलेटंग GradientStop एलमेंट फ़चर्स इस एलमेंट क इस्तेमल LinearGradientBrush और RadialGradientBrush एलमेंट्स दनं द्वर कय जत है तक ग्रेडएंट क रेंडर करने के लए लकेशन और कलर प्रग्रेस क रेंज क परभषत कय ज सके
 type: docs
-weight: 3110
+weight: 3120
 url: /hi/net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class

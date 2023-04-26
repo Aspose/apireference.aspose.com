@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize कक्ष. लेआउट और रेंडरंग के लए इमेज कए गए कैनवस क वर्णन करत है इसक रपर्ट के आधर पर क जएगPageMediaSize औरPageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /hi/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

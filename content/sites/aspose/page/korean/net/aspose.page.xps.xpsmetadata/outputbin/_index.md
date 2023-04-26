@@ -3,7 +3,7 @@ title: Class OutputBin
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.OutputBin 수업. 의 기본 클래스JobOutputBin DocumentOutputBin 그리고PageOutputBin 기능 클래스.
 type: docs
-weight: 1660
+weight: 1670
 url: /ko/net/aspose.page.xps.xpsmetadata/outputbin/
 ---
 ## OutputBin class

@@ -3,7 +3,7 @@ title: Class PageBorderless
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageBorderless sınıf. Görüntü içeriğinin ortamın fiziksel kenarlarına ne zaman yazdırılması gerektiğini açıklar. https//docs.Microsoft.com/enus/windows/win32/printdocs/pageborderless
 type: docs
-weight: 1830
+weight: 1840
 url: /tr/net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

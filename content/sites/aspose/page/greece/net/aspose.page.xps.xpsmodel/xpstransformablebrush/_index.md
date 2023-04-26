@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush τάξη. Κατηγορία ενθυλάκωσης κοινών χαρακτηριστικών στοιχείων μετασχηματιζόμενων βουρτσών όλα εκτός από το SolidColorBrush.
 type: docs
-weight: 3410
+weight: 3420
 url: /el/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

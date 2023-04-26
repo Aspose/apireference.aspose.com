@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment 班级. 封装 PolyLineSegment 元素特征的类 此元素描述包含任意数量的单个顶点的多边形图形
 type: docs
-weight: 3310
+weight: 3320
 url: /zh/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

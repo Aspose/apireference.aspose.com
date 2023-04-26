@@ -3,7 +3,7 @@ title: PsDocument.Transform
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. يضيف تحويلًا إلى حالة الرسومات الحالية يربط هذه المصفوفة بالمصفوفة الحالية .
 type: docs
-weight: 270
+weight: 300
 url: /ar/net/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument.Transform method

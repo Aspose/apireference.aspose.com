@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering τάξη. Περιγράφει το εσωτερικό χαρακτηριστικό. Καθορίζει τη συμπεριφορά στρώσης του υδατογραφήματος.
 type: docs
-weight: 2670
+weight: 2680
 url: /el/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

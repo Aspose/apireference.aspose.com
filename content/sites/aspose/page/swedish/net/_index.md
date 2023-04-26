@@ -12,12 +12,13 @@ is_root: true
 
 | Namnutrymme | Beskrivning |
 | --- | --- |
-| [Aspose.Page](./aspose.page/) | Den **Aspose.Page** är ett rotnamnområde för alla klasser av Aspose.Page-biblioteket som antingen finns direkt i det **Enhet** eller indirekt genom flera undernamnsutrymmen. |
+| [Aspose.Page](./aspose.page/) | Den **Aspose.Page**är ett rotnamnområde för alla klasser av Aspose.Page-biblioteket som antingen finns direkt i det **Enhet** eller indirekt genom flera undernamnsutrymmen. |
 | [Aspose.Page.EPS](./aspose.page.eps/) | Den **Aspose.Page.EPS** är ett rotnamnområde för alla klasser som hanterar PS/EPS-filer. |
 | [Aspose.Page.EPS.Device](./aspose.page.eps.device/) | Den **Aspose.Page.EPS.Device** namnutrymme ger klasser av möjliga enheter och spara alternativ som kan användas samtidigt som PS/EPS konverteras till andra format. |
 | [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp/) | Den **Aspose.Page.EPS.XMP** namnområdet tillhandahåller klasser för att läsa, ändra XMP-metadata i EPS-filer. |
 | [Aspose.Page.Font](./aspose.page.font/) | Den **Aspose.Page.Font** namnutrymmet innehåller klasser för teckensnittsmanipulering. |
 | [Aspose.Page.XPS](./aspose.page.xps/) | Den **Aspose.Page.XPS** är ett rotnamnområde för alla klasser som hanterar XPS-dokument. |
+| [Aspose.Page.XPS.Features](./aspose.page.xps.features/) | Den **Aspose.Page.Xps.Features** namnutrymme ger funktioner utöver XPS-specifikationen. |
 | [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | Den **Aspose.Page.Xps.Presentation**namnutrymme tillhandahåller basklasser för att rendera XPS dokument till andra format. |
 | [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | Den **Aspose.Page.Xps.Presentation.Image** namnutrymme tillhandahåller klasser för att rendera XPS -dokument till en bild. |
 | [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | Den **Aspose.Page.Xps.Presentation.Pdf** namnutrymme tillhandahåller klasser för att rendera XPS -dokument till PDF-dokument. |

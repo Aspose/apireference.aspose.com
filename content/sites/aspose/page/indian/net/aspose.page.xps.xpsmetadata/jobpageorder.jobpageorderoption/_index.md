@@ -3,7 +3,7 @@ title: Class JobPageOrder.JobPageOrderOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrderJobPageOrderOption कक्ष. क वर्णन करत हैJobPageOrder सुवध वकल्प.
 type: docs
-weight: 1460
+weight: 1470
 url: /hi/net/aspose.page.xps.xpsmetadata/jobpageorder.jobpageorderoption/
 ---
 ## JobPageOrder.JobPageOrderOption class

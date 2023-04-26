@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack kelas. Menjelaskan lembar sampul belakang akhir. Setiap pekerjaan akan memiliki lembar utama yang terpisah. Lembar sampul harus dicetak padaPageMediaSize DanPageMediaType digunakan untuk halaman terakhir pekerjaan. Lembar sampul harus diintegrasikan ke dalam opsi pemrosesan sepertiJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  seperti yang ditunjukkan oleh Opsi yang ditentukan. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /id/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment sınıf. Sınıf ArcSegment öğesi özelliklerini kapsar. Bu öğe eliptik bir yayı tanımlar.
 type: docs
-weight: 2940
+weight: 2950
 url: /tr/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

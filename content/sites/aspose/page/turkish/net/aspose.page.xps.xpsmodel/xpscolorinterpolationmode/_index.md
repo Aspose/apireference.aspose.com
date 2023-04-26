@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode Sıralama. Degrade fırçaların ColorInterpolationMode özelliğinin geçerli değerleri.
 type: docs
-weight: 2990
+weight: 3000
 url: /tr/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

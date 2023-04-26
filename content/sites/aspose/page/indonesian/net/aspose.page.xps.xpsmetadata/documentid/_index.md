@@ -3,7 +3,7 @@ title: Class DocumentID
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentID kelas. Menentukan ID unik untuk dokumen. https//docs.microsoft.com/enus/windows/win32/printdocs/documentid
 type: docs
-weight: 710
+weight: 720
 url: /id/net/aspose.page.xps.xpsmetadata/documentid/
 ---
 ## DocumentID class

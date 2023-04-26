@@ -3,7 +3,7 @@ title: Enum XpsSweepDirection
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsSweepDirection Sıralama. ArcSegment öğesinin SweepDirection özelliğinin geçerli değerleri.
 type: docs
-weight: 3380
+weight: 3390
 url: /tr/net/aspose.page.xps.xpsmodel/xpssweepdirection/
 ---
 ## XpsSweepDirection enumeration

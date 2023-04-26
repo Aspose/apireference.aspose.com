@@ -3,7 +3,7 @@ title: Class Property
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Property 수업. 공통 PrintTicket을 구현하는 클래스 . 모든 스키마 정의 속성의 기본 클래스. A 요소는 장치 작업 형식 또는 이름 속성에 의해 이름이 제공되는 기타 관련 property 를 선언합니다. ㅏValue 요소는 assign 값을. A 복잡할 수 있으며 여러 하위 속성을 포함할 수 있습니다. 하위 속성은 다음으로도 표시됩니다. elements. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 2810
+weight: 2820
 url: /ko/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

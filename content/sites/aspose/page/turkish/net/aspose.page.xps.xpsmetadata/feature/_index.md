@@ -1,14 +1,14 @@
 ---
 title: Class Feature
 second_title: Aspose.Page for .NET API Referansı
-description: Aspose.Page.XPS.XpsMetadata.Feature sınıf. Ortak bir Yazdırma Şeması özelliğini kapsayan sınıf. Tüm şema tanımlı özellikler için temel sınıf. A öğesinin tam bir listesini içerir.Option VeProperty bir cihaz özniteliğini iş biçimlendirme ayarını veya diğer ilgili özelliği tam olarak tanımlayan öğeler. https//docs.microsoft.com/enus/windows/win32/printdocs/feature
+description: Aspose.Page.XPS.XpsMetadata.Feature sınıf. Ortak bir Yazdırma Şeması özelliğini kapsayan sınıf. Tüm şema tanımlı özellikler için temel sınıf. A öğesinin tam bir listesini içerir.Option VeProperty bir cihaz özniteliğini iş biçimlendirme ayarını veya diğer ilgili özelliği tam olarak tanımlayan öğeler. https//docs.Microsoft.com/enus/windows/win32/printdocs/feature
 type: docs
-weight: 870
+weight: 880
 url: /tr/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class
 
-Ortak bir Yazdırma Şeması özelliğini kapsayan sınıf. Tüm şema tanımlı özellikler için temel sınıf. A öğesinin tam bir listesini içerir.[`Option`](../option/) Ve[`Property`](../property/) bir cihaz özniteliğini, iş biçimlendirme ayarını veya diğer ilgili özelliği tam olarak tanımlayan öğeler. https://docs.microsoft.com/en-us/windows/win32/printdocs/feature
+Ortak bir Yazdırma Şeması özelliğini kapsayan sınıf. Tüm şema tanımlı özellikler için temel sınıf. A öğesinin tam bir listesini içerir.[`Option`](../option/) Ve[`Property`](../property/) bir cihaz özniteliğini, iş biçimlendirme ayarını veya diğer ilgili özelliği tam olarak tanımlayan öğeler. https://docs.Microsoft.com/en-us/windows/win32/printdocs/feature
 
 ```csharp
 Feature

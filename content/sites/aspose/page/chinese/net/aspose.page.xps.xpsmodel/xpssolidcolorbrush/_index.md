@@ -3,7 +3,7 @@ title: Class XpsSolidColorBrush
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsSolidColorBrush 班级. 封装 SolidColorBrush 属性元素特征的类 该元素用于用纯色填充定义的几何区域
 type: docs
-weight: 3350
+weight: 3360
 url: /zh/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

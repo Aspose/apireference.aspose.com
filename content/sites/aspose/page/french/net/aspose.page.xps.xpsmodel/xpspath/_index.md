@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPath classe. Class incapsulating Path element features. Cet élément est le seul moyen dajouter des graphiques vectoriels et des images à une page fixe. Il définit un seul graphique vectoriel à rendre sur une page.
 type: docs
-weight: 3250
+weight: 3260
 url: /fr/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

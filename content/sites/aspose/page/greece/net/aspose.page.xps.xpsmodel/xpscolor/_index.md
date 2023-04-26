@@ -3,7 +3,7 @@ title: Class XpsColor
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsColor τάξη. Η βασική κλάση περιλαμβάνει κοινά χαρακτηριστικά χρώματος.
 type: docs
-weight: 2980
+weight: 2990
 url: /el/net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

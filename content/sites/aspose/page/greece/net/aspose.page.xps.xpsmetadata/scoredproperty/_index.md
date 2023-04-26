@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty τάξη. Η κλάση που υλοποιεί ένα κοινό PrintTicket . Η βασική κλάση για όλες τις ιδιότητες βαθμολογίας που ορίζονται από σχήμα. A Το στοιχείο δηλώνει μια ιδιότητα που είναι εγγενής στο an Option ορισμός. Τέτοιες ιδιότητες θα πρέπει να συγκρίνονται κατά την αξιολόγηση πόσο στενά ζητείται έναOption ταιριάζει με μια συσκευή που υποστηρίζεταιOption . https//docs.microsoft.com/enus/windows/win32/printdocs/scoredproperty
 type: docs
-weight: 2850
+weight: 2860
 url: /el/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

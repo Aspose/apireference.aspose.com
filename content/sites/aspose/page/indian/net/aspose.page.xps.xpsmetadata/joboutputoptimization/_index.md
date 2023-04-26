@@ -3,7 +3,7 @@ title: Class JobOutputOptimization
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobOutputOptimization कक्ष. जब प्रसेसंग क वर्णन करत है जसक उद्देश्य नर्दष्ट वकल्प द्वर इंगत वशेष उपयग परदृश्यं के लए आउटपुट क अनुकूलत करन है https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputoptimization
 type: docs
-weight: 1430
+weight: 1440
 url: /hi/net/aspose.page.xps.xpsmetadata/joboutputoptimization/
 ---
 ## JobOutputOptimization class

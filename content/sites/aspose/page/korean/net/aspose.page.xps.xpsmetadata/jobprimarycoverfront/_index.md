@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront 수업. 앞시작 표지를 설명합니다. 전체 작업에는 단일 기본 시트가 있습니다. 표지는PageMediaSize 그리고PageMediaType 는 작업의 첫 번째 페이지에 사용됩니다. 표지는 처리 옵션 예JobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  는 지정된 옵션으로 표시됩니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /ko/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

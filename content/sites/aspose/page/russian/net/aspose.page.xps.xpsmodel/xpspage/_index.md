@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPage сорт. Класс инкапсулирующий функции элемента FixedPage. Этот элемент содержит содержимое страницы и является корневым элементом части FixedPage.
 type: docs
-weight: 3230
+weight: 3240
 url: /ru/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

@@ -3,7 +3,7 @@ title: Class PageOutputQuality.PageOutputQualityOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOutputQualityPageOutputQualityOption कक्ष. परभषत करत हैPageOutputQuality सुवध वकल्प.
 type: docs
-weight: 2380
+weight: 2390
 url: /hi/net/aspose.page.xps.xpsmetadata/pageoutputquality.pageoutputqualityoption/
 ---
 ## PageOutputQuality.PageOutputQualityOption class

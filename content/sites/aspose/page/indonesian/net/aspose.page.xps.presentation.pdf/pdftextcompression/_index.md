@@ -3,7 +3,7 @@ title: Enum PdfTextCompression
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfTextCompression enum. Menentukan jenis kompresi yang diterapkan ke semua konten dalam file PDF kecuali gambar.
 type: docs
-weight: 450
+weight: 460
 url: /id/net/aspose.page.xps.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enumeration
@@ -20,7 +20,7 @@ public enum PdfTextCompression
 | --- | --- | --- |
 | None | `0` | Tidak ada jenis kompresi |
 | Rle | `1` | Tipe kompresi Rle |
-| Lzw | `2` | Jenis kompresi lzw |
+| Lzw | `2` | Jenis kompresi Lzw |
 | Flate | `3` | Jenis kompresi datar |
 
 ### Lihat juga

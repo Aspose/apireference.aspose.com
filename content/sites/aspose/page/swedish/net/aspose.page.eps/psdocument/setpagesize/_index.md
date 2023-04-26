@@ -3,7 +3,7 @@ title: PsDocument.SetPageSize
 second_title: Aspose.Page för .NET API-referens
 description: PsDocument metod. Anger sidstorlek. För att skapa sidor med olika storlekar i ett dokument användSetPageDevice metod strax efter denna metod.
 type: docs
-weight: 230
+weight: 250
 url: /sv/net/aspose.page.eps/psdocument/setpagesize/
 ---
 ## PsDocument.SetPageSize method

@@ -3,7 +3,7 @@ title: Class PageBorderless
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBorderless kelas. Menjelaskan kapan konten gambar harus dicetak ke tepi fisik media. https//docs.microsoft.com/enus/windows/win32/printdocs/pageborderless
 type: docs
-weight: 1830
+weight: 1840
 url: /id/net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

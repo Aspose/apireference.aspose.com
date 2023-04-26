@@ -3,7 +3,7 @@ title: Class IntegerParameterInit
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IntegerParameterInit 수업. 모든 정수 매개변수 이니셜라이저의 기본 클래스.
 type: docs
-weight: 1110
+weight: 1120
 url: /ko/net/aspose.page.xps.xpsmetadata/integerparameterinit/
 ---
 ## IntegerParameterInit class

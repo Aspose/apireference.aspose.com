@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush 班级. 封装可变形画笔元素除 SolidColorBrush 之外的所有元素的共同特征的类
 type: docs
-weight: 3410
+weight: 3420
 url: /zh/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

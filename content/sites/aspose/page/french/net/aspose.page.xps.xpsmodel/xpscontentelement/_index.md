@@ -3,7 +3,7 @@ title: Class XpsContentElement
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsContentElement classe. Incorpore les fonctionnalités des éléments de contenu XPS  canevas chemin et glyphes.
 type: docs
-weight: 3000
+weight: 3010
 url: /fr/net/aspose.page.xps.xpsmodel/xpscontentelement/
 ---
 ## XpsContentElement class

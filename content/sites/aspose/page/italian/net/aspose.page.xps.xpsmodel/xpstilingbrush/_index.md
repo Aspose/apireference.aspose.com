@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush classe. Classe che incapsula le caratteristiche comuni degli elementi dei pennelli di piastrellatura VisualBrush e ImageBrush.
 type: docs
-weight: 3400
+weight: 3410
 url: /it/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

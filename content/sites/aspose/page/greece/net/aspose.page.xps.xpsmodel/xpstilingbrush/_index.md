@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush τάξη. Κατηγορία ενθυλάκωσης κοινών χαρακτηριστικών των στοιχείων βούρτσας πλακιδίων VisualBrush και ImageBrush.
 type: docs
-weight: 3400
+weight: 3410
 url: /el/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

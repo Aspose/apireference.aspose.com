@@ -3,7 +3,7 @@ title: UserProperties.PropertyNames
 second_title: Aspose.Page voor .NET API-referentie
 description: UserProperties methode. Retourneert namen van eigenschappen.
 type: docs
-weight: 130
+weight: 140
 url: /nl/net/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties.PropertyNames method

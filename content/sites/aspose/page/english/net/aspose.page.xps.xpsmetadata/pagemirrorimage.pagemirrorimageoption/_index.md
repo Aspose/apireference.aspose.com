@@ -3,7 +3,7 @@ title: PageMirrorImage.PageMirrorImageOption
 second_title: Aspose.Page for .NET API Reference
 description: Defines PageMirrorImage./pagemirrorimage feature options.
 type: docs
-weight: 2270
+weight: 2280
 url: /net/aspose.page.xps.xpsmetadata/pagemirrorimage.pagemirrorimageoption/
 ---
 ## PageMirrorImage.PageMirrorImageOption class

@@ -16,7 +16,7 @@ public PageDeviceFontSubstitution(params PageDeviceFontSubstitutionOption[] opti
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageDeviceFontSubstitutionOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageDeviceFontSubstitutionOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

@@ -1,14 +1,14 @@
 ---
 title: XpsDocument.DocumentCount
 second_title: Aspose.Page for .NET API Referansı
-description: XpsDocument mülk. XPS paketi içindeki belgelerin sayısını döndürür.
+description: XpsDocument mülk. XPS paketi içindeki belgelerin sayısını verir.
 type: docs
 weight: 40
 url: /tr/net/aspose.page.xps/xpsdocument/documentcount/
 ---
 ## XpsDocument.DocumentCount property
 
-XPS paketi içindeki belgelerin sayısını döndürür.
+XPS paketi içindeki belgelerin sayısını verir.
 
 ```csharp
 public int DocumentCount { get; }

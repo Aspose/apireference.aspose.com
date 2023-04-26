@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush कक्ष. इमेजब्रश संपत्त तत्व सुवधओं क समहत करने वल वर्ग इस तत्व क उपयग एक छव के सथ एक क्षेत्र क भरने के लए कय जत है
 type: docs
-weight: 3170
+weight: 3180
 url: /hi/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

@@ -3,7 +3,7 @@ title: Class PageWatermarkTextAngle
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextAngle 수업. 워터마크 텍스트의 각도를 지정합니다. direction. 각도는 시계 반대 방향으로 측정됩니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextangle
 type: docs
-weight: 2720
+weight: 2730
 url: /ko/net/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

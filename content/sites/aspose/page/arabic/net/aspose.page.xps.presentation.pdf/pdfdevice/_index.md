@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice فصل. فئة جهاز تكوين الصورة.
 type: docs
-weight: 400
+weight: 410
 url: /ar/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

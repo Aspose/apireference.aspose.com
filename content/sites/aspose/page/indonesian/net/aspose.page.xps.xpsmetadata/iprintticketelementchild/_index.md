@@ -3,7 +3,7 @@ title: Interface IPrintTicketElementChild
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketElementChild antarmuka. Antarmuka dasar elemen turunan dari elemen Skema Cetak apa pun.
 type: docs
-weight: 960
+weight: 970
 url: /id/net/aspose.page.xps.xpsmetadata/iprintticketelementchild/
 ---
 ## IPrintTicketElementChild interface

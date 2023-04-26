@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin τάξη. Περιγράφει τον εγκατεστημένο κάδο εξόδου σε μια συσκευή ή την πλήρη λίστα των υποστηριζόμενων δοχείων για μια συσκευή. ΤοJobOutputBin DocumentOutputBin καιPageOutputBin Οι λέξειςκλειδιά είναι αμοιβαία αποκλειόμενες μόνο μία πρέπει να προσδιορίζεται σε ένα έγγραφο PrintTicket ή Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /el/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

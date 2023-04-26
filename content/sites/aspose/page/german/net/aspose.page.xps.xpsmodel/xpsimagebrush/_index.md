@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush klas. Klasse die Eigenschaften von ImageBrushEigenschaftselementen einkapselt. Dieses Element wird verwendet um einen Bereich mit einem Bild zu füllen.
 type: docs
-weight: 3170
+weight: 3180
 url: /de/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

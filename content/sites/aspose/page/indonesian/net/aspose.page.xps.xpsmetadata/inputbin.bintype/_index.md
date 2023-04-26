@@ -3,7 +3,7 @@ title: Class InputBin.BinType
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinBinType kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 1010
+weight: 1020
 url: /id/net/aspose.page.xps.xpsmetadata/inputbin.bintype/
 ---
 ## InputBin.BinType class

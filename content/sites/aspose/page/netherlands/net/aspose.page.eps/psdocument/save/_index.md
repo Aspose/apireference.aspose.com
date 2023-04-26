@@ -3,7 +3,7 @@ title: PsDocument.Save
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Slaat PS/EPSbestand op een apparaat op.
 type: docs
-weight: 200
+weight: 220
 url: /nl/net/aspose.page.eps/psdocument/save/
 ---
 ## Save(Device, SaveOptions) {#save_1}
@@ -51,7 +51,7 @@ public void Save(Stream epsStream)
 
 ## Save() {#save}
 
-Slaat opgegeven[`PsDocument`](../) als EPS-bestand. Deze methode wordt alleen gebruikt wanneer PsDocument helemaal opnieuw is gemaakt.
+Slaat opgegeven[`PsDocument`](../)als EPS-bestand. Deze methode wordt alleen gebruikt wanneer PsDocument helemaal opnieuw is gemaakt.
 
 ```csharp
 public void Save()

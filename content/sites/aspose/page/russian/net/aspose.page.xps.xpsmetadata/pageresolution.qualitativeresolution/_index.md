@@ -3,7 +3,7 @@ title: Class PageResolution.QualitativeResolution
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionQualitativeResolution сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 2470
+weight: 2480
 url: /ru/net/aspose.page.xps.xpsmetadata/pageresolution.qualitativeresolution/
 ---
 ## PageResolution.QualitativeResolution class

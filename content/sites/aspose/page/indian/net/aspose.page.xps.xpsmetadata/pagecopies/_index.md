@@ -3,7 +3,7 @@ title: Class PageCopies
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageCopies कक्ष. एक पृष्ठ क प्रतयं क संख्य नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagecopies
 type: docs
-weight: 1870
+weight: 1880
 url: /hi/net/aspose.page.xps.xpsmetadata/pagecopies/
 ---
 ## PageCopies class

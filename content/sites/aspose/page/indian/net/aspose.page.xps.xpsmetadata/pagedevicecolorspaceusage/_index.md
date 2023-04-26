@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceUsage
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceUsage कक्ष. के संयजन मेंPageDeviceColorSpaceProfileURI पैरमटर यह पैरमटर परभषत करत है डवइस रंग स्थन में प्रस्तुत तत्वं के लए प्रतपदन व्यवहर https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceusage
 type: docs
-weight: 1930
+weight: 1940
 url: /hi/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
 ---
 ## PageDeviceColorSpaceUsage class

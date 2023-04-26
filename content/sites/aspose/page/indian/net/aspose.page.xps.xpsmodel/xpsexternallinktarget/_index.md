@@ -3,7 +3,7 @@ title: Class XpsExternalLinkTarget
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsExternalLinkTarget कक्ष. बहर हइपरलंक लक्ष्य क समहत करने वल वर्ग
 type: docs
-weight: 3050
+weight: 3060
 url: /hi/net/aspose.page.xps.xpsmodel/xpsexternallinktarget/
 ---
 ## XpsExternalLinkTarget class
@@ -19,6 +19,12 @@ public sealed class XpsExternalLinkTarget : XpsHyperlinkTarget
 | नाम | विवरण |
 | --- | --- |
 | [XpsExternalLinkTarget](xpsexternallinktarget/)(string) | नया उदाहरण बनाता है। |
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [TargetUri](../../aspose.page.xps.xpsmodel/xpsexternallinktarget/targeturi/) { get; } | लक्ष्य URI प्राप्त करता है. |
 
 ### यह सभी देखें
 

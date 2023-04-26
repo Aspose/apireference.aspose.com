@@ -3,7 +3,7 @@ title: Class XpsPathSegment
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPathSegment τάξη. Κλάση που ενσωματώνει κοινά χαρακτηριστικά όλων των στοιχείων τμήματος διαδρομής.
 type: docs
-weight: 3290
+weight: 3300
 url: /el/net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

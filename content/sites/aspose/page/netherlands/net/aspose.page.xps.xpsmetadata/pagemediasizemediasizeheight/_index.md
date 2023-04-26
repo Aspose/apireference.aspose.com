@@ -1,14 +1,14 @@
 ---
 title: Class PageMediaSizeMediaSizeHeight
 second_title: Aspose.Page voor .NET API-referentie
-description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeMediaSizeHeight klas. Specificeert de dimensie richting voor de Custom optie. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizemediasizeheight
+description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeMediaSizeHeight klas. Specificeert de afmeting richting voor de Custom optie. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizemediasizeheight
 type: docs
-weight: 2090
+weight: 2100
 url: /nl/net/aspose.page.xps.xpsmetadata/pagemediasizemediasizeheight/
 ---
 ## PageMediaSizeMediaSizeHeight class
 
-Specificeert de dimensie richting voor de Custom optie. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizemediasizeheight
+Specificeert de afmeting richting voor de Custom optie. https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizemediasizeheight
 
 ```csharp
 MediaSizeWidth

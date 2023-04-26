@@ -3,7 +3,7 @@ title: Class XpsSolidColorBrush
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsSolidColorBrush sınıf. SolidColorBrush özellik öğesi özelliklerini içeren sınıf. Bu öğe tanımlanmış geometrik bölgeleri düz bir renkle doldurmak için kullanılır.
 type: docs
-weight: 3350
+weight: 3360
 url: /tr/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

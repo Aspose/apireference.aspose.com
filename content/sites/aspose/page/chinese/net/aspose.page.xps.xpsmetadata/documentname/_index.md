@@ -3,7 +3,7 @@ title: Class DocumentName
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentName 班级. 指定文档的描述性名称 https//docs.microsoft.com/enus/windows/win32/printdocs/documentname
 type: docs
-weight: 750
+weight: 760
 url: /zh/net/aspose.page.xps.xpsmetadata/documentname/
 ---
 ## DocumentName class

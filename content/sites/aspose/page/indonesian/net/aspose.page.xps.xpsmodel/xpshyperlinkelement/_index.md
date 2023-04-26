@@ -3,7 +3,7 @@ title: Class XpsHyperlinkElement
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkElement kelas. Merangkum fitur umum elemen XPS yang dapat berupa hyperlink.
 type: docs
-weight: 3120
+weight: 3130
 url: /id/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

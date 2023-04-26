@@ -3,7 +3,7 @@ title: Class PageResolution.QualitativeResolution
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionQualitativeResolution कक्ष. के लए स्थरंक परभषत करत है अर्जत संपत्त मूल्य.
 type: docs
-weight: 2470
+weight: 2480
 url: /hi/net/aspose.page.xps.xpsmetadata/pageresolution.qualitativeresolution/
 ---
 ## PageResolution.QualitativeResolution class

@@ -3,7 +3,7 @@ title: PsDocument.Translate
 second_title: Aspose.Page for .NET API リファレンス
 description: PsDocument 方法. 現在のグラフィックス状態に変換を追加します 現在のマトリックスを変換します.
 type: docs
-weight: 280
+weight: 310
 url: /ja/net/aspose.page.eps/psdocument/translate/
 ---
 ## PsDocument.Translate method

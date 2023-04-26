@@ -3,7 +3,7 @@ title: Interface IPropertyItem
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.IPropertyItem arayüz. PrintTicket olabilecek sınıflar için temel arabirimProperty öğeler.
 type: docs
-weight: 980
+weight: 990
 url: /tr/net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

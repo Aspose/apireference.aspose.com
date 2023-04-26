@@ -3,7 +3,7 @@ title: Class XpsMatrix
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsMatrix kelas. Kelas yang merangkum fitur elemen properti MatrixTransform. Elemen ini mendefinisikan transformasi matriks afin arbitrer yang digunakan untuk memanipulasi sistem koordinat elemen.
 type: docs
-weight: 3210
+weight: 3220
 url: /id/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

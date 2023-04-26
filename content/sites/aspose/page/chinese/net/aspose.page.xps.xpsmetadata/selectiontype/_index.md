@@ -3,7 +3,7 @@ title: Class SelectionType
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.SelectionType 班级. SelectionType PrintTicket 属性的便利类
 type: docs
-weight: 2860
+weight: 2870
 url: /zh/net/aspose.page.xps.xpsmetadata/selectiontype/
 ---
 ## SelectionType class

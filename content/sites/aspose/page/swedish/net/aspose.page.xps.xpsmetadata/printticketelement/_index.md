@@ -3,7 +3,7 @@ title: Class PrintTicketElement
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PrintTicketElement klass. Basklassen för klasser som kan vara Print Schemaelement.
 type: docs
-weight: 2800
+weight: 2810
 url: /sv/net/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

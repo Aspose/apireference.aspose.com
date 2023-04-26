@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementExtent कक्ष. जसआर लगू हने वले न्यूट्रल रंगन रंगं में से परे वस्तर क वर्णन करत है /पेजब्लैकजेनरेशनप्रसेसंगग्रेकंपनेंटरप्लेसमेंटसम
 type: docs
-weight: 1740
+weight: 1750
 url: /hi/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

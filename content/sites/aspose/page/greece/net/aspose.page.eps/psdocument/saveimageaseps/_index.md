@@ -3,7 +3,7 @@ title: PsDocument.SaveImageAsEps
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Αποθηκεύει εικόνα PNG/JPEG/TIFF/BMP/GIF/EMF από ροή εισόδου σε ροή εξόδου EPS.
 type: docs
-weight: 310
+weight: 340
 url: /el/net/aspose.page.eps/psdocument/saveimageaseps/
 ---
 ## SaveImageAsEps(Stream, Stream, PsSaveOptions) {#saveimageaseps_2}

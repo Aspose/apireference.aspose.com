@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut сорт. Описывает способ резки рулонной бумаги. Каждый документ обрабатывается отдельно. Указанные параметры описывают различные методы рулонной резки. https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 790
+weight: 800
 url: /ru/net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

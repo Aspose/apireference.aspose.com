@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation clase. Describe la orientación de la hoja de medios físicos. https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2300
+weight: 2310
 url: /es/net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

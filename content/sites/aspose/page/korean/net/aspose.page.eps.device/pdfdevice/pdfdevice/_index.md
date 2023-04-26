@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`PdfDevice`](../)출력 스트림 및 지정된 페이지 크기 포함.
+의 새 인스턴스를 초기화합니다.[`PdfDevice`](../) 출력 스트림 및 지정된 페이지 크기 포함.
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

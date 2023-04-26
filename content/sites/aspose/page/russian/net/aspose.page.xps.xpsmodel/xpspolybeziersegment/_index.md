@@ -3,7 +3,7 @@ title: Class XpsPolyBezierSegment
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPolyBezierSegment сорт. Класс инкапсулирующий свойства элемента PolyBezierSegment. Этот элемент описывает набор кубических кривых Безье.
 type: docs
-weight: 3300
+weight: 3310
 url: /ru/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class

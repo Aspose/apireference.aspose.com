@@ -3,7 +3,7 @@ title: Interface PageScaling.IPageScalingItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingIPageScalingItem इंटरफेस. कस क इंटरफ़ेसPageScaling फचर आइटम.
 type: docs
-weight: 2490
+weight: 2500
 url: /hi/net/aspose.page.xps.xpsmetadata/pagescaling.ipagescalingitem/
 ---
 ## PageScaling.IPageScalingItem interface

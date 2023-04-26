@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush clase. Clase que encapsula las características del elemento de propiedad RadialGradientBrush. Este elemento se utiliza para especificar un pincel de degradado radial.
 type: docs
-weight: 3330
+weight: 3340
 url: /es/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class
@@ -19,7 +19,7 @@ public sealed class XpsRadialGradientBrush : XpsGradientBrush
 | Nombre | Descripción |
 | --- | --- |
 | [Center](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/center/) { get; set; } | Devuelve/establece el punto central del gradiente radial (es decir, el centro de la elipse). |
-| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode/) { get; set; } | Devuelve/establece el valor que especifica la función gamma para la interpolación de colores. El ajuste gamma no debe aplicarse al componente alfa, si se especifica. |
+| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode/) { get; set; } | Devuelve/establece el valor que especifica la función gamma para la interpolación de color. El ajuste gamma no debe aplicarse al componente alfa, si se especifica. |
 | [GradientOrigin](../../aspose.page.xps.xpsmodel/xpsradialgradientbrush/gradientorigin/) { get; set; } | Devuelve/establece el punto de origen del degradado radial. |
 | [GradientStops](../../aspose.page.xps.xpsmodel/xpsgradientbrush/gradientstops/) { get; set; } | Devuelve/establece la lista de paradas de gradiente que componen el gradiente. |
 | [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity/) { get; set; } | Devuelve/establece el valor que define la transparencia uniforme del relleno de pincel. |

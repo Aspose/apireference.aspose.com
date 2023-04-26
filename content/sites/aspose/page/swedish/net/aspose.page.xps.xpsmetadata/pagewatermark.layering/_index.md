@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering klass. Beskriver inre funktion. Definierar lagerbeteendet för vattenstämpeln.
 type: docs
-weight: 2670
+weight: 2680
 url: /sv/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

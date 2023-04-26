@@ -1,14 +1,14 @@
 ---
 title: XpsPathGeometry.PathFigures
 second_title: Aspose.Page για Αναφορά API .NET
-description: XpsPathGeometry ιδιοκτησία. Επιστρέφει λίστα με ψηφία θυγατρικών μονοπατιών.
+description: XpsPathGeometry ιδιοκτησία. Επιστρέφει τη λίστα με τα θυγατρικά στοιχεία διαδρομής.
 type: docs
 weight: 20
 url: /el/net/aspose.page.xps.xpsmodel/xpspathgeometry/pathfigures/
 ---
 ## XpsPathGeometry.PathFigures property
 
-Επιστρέφει λίστα με ψηφία θυγατρικών μονοπατιών.
+Επιστρέφει τη λίστα με τα θυγατρικά στοιχεία διαδρομής.
 
 ```csharp
 public List<XpsPathFigure> PathFigures { get; }

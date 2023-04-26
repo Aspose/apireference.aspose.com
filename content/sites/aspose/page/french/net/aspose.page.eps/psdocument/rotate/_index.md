@@ -1,14 +1,14 @@
 ---
 title: PsDocument.Rotate
 second_title: Aspose.Page pour la référence de l'API .NET
-description: PsDocument méthode. Ajoute une rotation à létat graphique actuel faire pivoter la matrice actuelle.
+description: PsDocument méthode. Ajoute une rotation dans le sens antihoraire autour de lorigine à létat graphique actuel faire pivoter la matrice actuelle.
 type: docs
-weight: 190
+weight: 210
 url: /fr/net/aspose.page.eps/psdocument/rotate/
 ---
-## PsDocument.Rotate method
+## Rotate(float) {#rotate_1}
 
-Ajoute une rotation à l'état graphique actuel (faire pivoter la matrice actuelle).
+Ajoute une rotation dans le sens antihoraire autour de l'origine à l'état graphique actuel (faire pivoter la matrice actuelle).
 
 ```csharp
 public void Rotate(float angleRadians)
@@ -17,6 +17,26 @@ public void Rotate(float angleRadians)
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | angleRadians | Single | L'angle de rotation en radians. |
+
+### Voir également
+
+* class [PsDocument](../)
+* espace de noms [Aspose.Page.EPS](../../psdocument/)
+* Assemblée [Aspose.Page](../../../)
+
+---
+
+## Rotate(int) {#rotate}
+
+Ajoute une rotation dans le sens antihoraire autour de l'origine à l'état graphique actuel (faire pivoter la matrice actuelle).
+
+```csharp
+public void Rotate(int angleDegrees)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| angleDegrees | Int32 | L'angle de rotation en degrés. |
 
 ### Voir également
 

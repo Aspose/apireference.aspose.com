@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet कक्ष. एक दस्तवेज़ के लए वभजक पत्रक उपयग क वर्णन करत है वभजक पत्रक आउटपुट में दखई देने चहए जैस क नचे नर्दष्ट वकल्प द्वर इंगत कय गय है https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet
 type: docs
-weight: 800
+weight: 810
 url: /hi/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

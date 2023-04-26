@@ -3,7 +3,7 @@ title: PsDocument.SetPageDevice
 second_title: Справочник по Aspose.Page для .NET API
 description: PsDocument метод. Устанавливает параметры устройства страницы см. спецификацию PostScript оператора setpagedevice. Среди них могут быть размер страницы цвет и т. д.
 type: docs
-weight: 220
+weight: 240
 url: /ru/net/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument.SetPageDevice method

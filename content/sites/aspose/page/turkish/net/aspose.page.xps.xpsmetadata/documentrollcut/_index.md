@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut sınıf. Rulo kağıt için kesme yöntemini açıklar. Her belge ayrı ayrı işlenir. Belirtilen seçenekler rulo kesme için farklı yöntemleri açıklar. https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 790
+weight: 800
 url: /tr/net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

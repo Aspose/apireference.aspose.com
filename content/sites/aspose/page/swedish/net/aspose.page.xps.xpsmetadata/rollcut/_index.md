@@ -3,7 +3,7 @@ title: Class RollCut
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.RollCut klass. Basklassen förJobRollCutAtEndOfJob ochDocumentRollCut funktioner klasser.
 type: docs
-weight: 2830
+weight: 2840
 url: /sv/net/aspose.page.xps.xpsmetadata/rollcut/
 ---
 ## RollCut class

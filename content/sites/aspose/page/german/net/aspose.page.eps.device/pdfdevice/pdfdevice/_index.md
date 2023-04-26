@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../)mit Ausgabestrom und vorgegebener Größe einer Seite.
+Initialisiert eine neue Instanz von[`PdfDevice`](../) mit Ausgabestrom und vorgegebener Größe einer Seite.
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

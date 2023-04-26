@@ -3,7 +3,7 @@ title: Class ParameterRef
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.ParameterRef 班级. 实现通用 PrintTicket 参数引用的类 A元素定义对 a 的引用ParameterInit元素. AScoredProperty包含 ParameterRef 元素的元素没有 显式设置Value元素相反ScoredProperty element 从ParameterInit 引用的元素element. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterref
 type: docs
-weight: 2780
+weight: 2790
 url: /zh/net/aspose.page.xps.xpsmetadata/parameterref/
 ---
 ## ParameterRef class

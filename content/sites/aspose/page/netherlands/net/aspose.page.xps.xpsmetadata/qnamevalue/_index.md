@@ -3,7 +3,7 @@ title: Class QNameValue
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.QNameValue klas. De klasse die een QNamewaarde inkapselt in een PrintTicketdocument.
 type: docs
-weight: 2820
+weight: 2830
 url: /nl/net/aspose.page.xps.xpsmetadata/qnamevalue/
 ---
 ## QNameValue class

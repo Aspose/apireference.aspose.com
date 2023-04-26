@@ -3,7 +3,7 @@ title: Class PageSourceColorProfileURI
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfileURI 수업. 색상 프로파일의 소스를 지정합니다.
 type: docs
-weight: 2610
+weight: 2620
 url: /ko/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofileuri/
 ---
 ## PageSourceColorProfileURI class

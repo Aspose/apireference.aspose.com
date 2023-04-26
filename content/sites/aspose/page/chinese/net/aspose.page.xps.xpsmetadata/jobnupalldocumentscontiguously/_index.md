@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously 班级. 描述了多个逻辑页到单个物理页的输出 job 中的所有文档都是连续编译的JobNUpAllDocumentsContiguously和DocumentNUp 是互斥的由驱动程序确定这些关键字之间的约束处理 https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /zh/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

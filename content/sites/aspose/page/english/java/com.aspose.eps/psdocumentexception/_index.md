@@ -3,7 +3,7 @@ title: PsDocumentException
 second_title: Aspose.Page for Java API Reference
 description: This class contains information about an error that is thrown while PS file is created completed and saved.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.eps/psdocumentexception/
 ---
 **Inheritance:**

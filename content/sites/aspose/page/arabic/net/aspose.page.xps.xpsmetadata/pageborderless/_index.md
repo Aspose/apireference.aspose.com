@@ -3,7 +3,7 @@ title: Class PageBorderless
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBorderless فصل. يصف متى يجب طباعة محتوى الصورة إلى الحواف المادية للوسائط. https//docs.microsoft.com/enus/windows/win32/printdocs/pageborderless
 type: docs
-weight: 1830
+weight: 1840
 url: /ar/net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

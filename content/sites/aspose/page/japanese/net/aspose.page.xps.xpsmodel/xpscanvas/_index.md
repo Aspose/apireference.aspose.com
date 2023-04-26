@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsCanvas クラス. Canvas 要素の機能をカプセル化するクラス この要素は要素をグループ化しますたとえばGlyphs および Path 要素 をキャンバスでグループ化してハイパーリンク先として ユニットとして識別したり を構成したプロパティ値を各子および先祖要素に適用したりできます
 type: docs
-weight: 2970
+weight: 2980
 url: /ja/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront сорт. Описывает переднюю начало обложку. Все задание будет иметь один основной лист. Титульный лист должен быть напечатан наPageMediaSize иPageMediaType используется для первой страницы задания. Титульный лист должен быть интегрирован в обработку options напримерJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  в соответствии с указанным параметром. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /ru/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

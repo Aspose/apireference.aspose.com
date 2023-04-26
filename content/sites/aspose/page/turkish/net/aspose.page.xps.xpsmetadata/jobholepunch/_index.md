@@ -3,7 +3,7 @@ title: Class JobHolePunch
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobHolePunch sınıf. Çıktının delik delme özelliklerini açıklar. Tüm belgeler birlikte zımbalanır. JobHolePunch VeDocumentHolePunchanahtar sözcükler birbirini dışlar. Her ikisi de bir PrintTicket veya Print Capabilities belgesinde aynı anda belirtilmemelidir. https//docs.microsoft.com/enus/windows/win32/printdocs/jobholepunch
 type: docs
-weight: 1350
+weight: 1360
 url: /tr/net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class

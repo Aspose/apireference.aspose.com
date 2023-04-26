@@ -3,7 +3,7 @@ title: Class PageWatermarkTransparency
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTransparency クラス. 透かしの透明度を指定します完全に不透明な場合値は 0. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktransparency になります
 type: docs
-weight: 2760
+weight: 2770
 url: /ja/net/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

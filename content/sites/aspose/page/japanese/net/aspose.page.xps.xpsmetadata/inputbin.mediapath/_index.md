@@ -3,7 +3,7 @@ title: Class InputBin.MediaPath
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 1080
+weight: 1090
 url: /ja/net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class

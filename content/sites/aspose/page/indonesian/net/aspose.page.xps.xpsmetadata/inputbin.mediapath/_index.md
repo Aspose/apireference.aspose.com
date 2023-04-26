@@ -3,7 +3,7 @@ title: Class InputBin.MediaPath
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 1080
+weight: 1090
 url: /id/net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class

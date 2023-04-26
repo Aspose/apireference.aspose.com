@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide 수업. 출력이 미디어 시트의 전면에 나타나도록 합니다. 각 면에 서로 다른 표면이 있는 미디어 시트와 관련이 있습니다. 이 기능이 처리 옵션예 DocumentDuplex  기능이 적용되는 specific 페이지에 우선합니다.
 type: docs
-weight: 1970
+weight: 1980
 url: /ko/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

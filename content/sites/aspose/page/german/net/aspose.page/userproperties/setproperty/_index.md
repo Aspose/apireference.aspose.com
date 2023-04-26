@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: Aspose.Page für .NET-API-Referenz
 description: UserProperties methode. Legt den Eigenschaftswert der Zeichenfolge fest.
 type: docs
-weight: 140
+weight: 150
 url: /de/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

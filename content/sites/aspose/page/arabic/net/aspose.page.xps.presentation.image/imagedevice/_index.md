@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice فصل. فئة جهاز تكوين الصورة.
 type: docs
-weight: 350
+weight: 360
 url: /ar/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

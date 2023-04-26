@@ -3,7 +3,7 @@ title: PsDocument.Translate
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. Geçerli grafik durumuna çeviri ekler geçerli matrisi çevirir.
 type: docs
-weight: 280
+weight: 310
 url: /tr/net/aspose.page.eps/psdocument/translate/
 ---
 ## PsDocument.Translate method

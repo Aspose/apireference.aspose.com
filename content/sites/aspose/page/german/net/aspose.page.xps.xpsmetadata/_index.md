@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsMetadata
 second_title: Aspose.Page für .NET-API-Referenz
 description: Die Aspose.Page.Xps.XpsMetadata Namespace stellt Klassen bereit die Metadaten des XPSDokuments beschreiben.
 type: docs
-weight: 100
+weight: 110
 url: /de/net/aspose.page.xps.xpsmetadata/
 ---
 Die **Aspose.Page.Xps.XpsMetadata** Namespace stellt Klassen bereit, die Metadaten des XPS-Dokuments beschreiben.

@@ -3,7 +3,7 @@ title: Class XpsObject
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsObject فصل. فئة تتضمن ميزات كائن نموذج XPS الشائعة.
 type: docs
-weight: 3220
+weight: 3230
 url: /ar/net/aspose.page.xps.xpsmodel/xpsobject/
 ---
 ## XpsObject class

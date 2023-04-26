@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem interfaz. La interfaz base para las clases que pueden ser Print SchemaFeature artículos.
 type: docs
-weight: 920
+weight: 930
 url: /es/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

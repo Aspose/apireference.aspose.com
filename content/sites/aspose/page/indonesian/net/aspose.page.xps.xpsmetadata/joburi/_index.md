@@ -3,7 +3,7 @@ title: Class JobURI
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobURI kelas. Menentukan pengidentifikasi sumber daya seragam URI untuk dokumen. https//docs.microsoft.com/enus/windows/win32/printdocs/joburi
 type: docs
-weight: 1590
+weight: 1600
 url: /id/net/aspose.page.xps.xpsmetadata/joburi/
 ---
 ## JobURI class

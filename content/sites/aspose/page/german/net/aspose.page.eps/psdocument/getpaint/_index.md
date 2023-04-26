@@ -3,7 +3,7 @@ title: PsDocument.GetPaint
 second_title: Aspose.Page für .NET-API-Referenz
 description: PsDocument methode. Ruft Farbe des aktuellen Grafikstatus ab.
 type: docs
-weight: 130
+weight: 150
 url: /de/net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method

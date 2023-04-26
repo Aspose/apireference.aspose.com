@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessing
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessing कक्ष. सएमवईके अलगव के लए कल पढ़ के व्यवहर क नर्दष्ट करत है
 type: docs
-weight: 1710
+weight: 1720
 url: /hi/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing/
 ---
 ## PageBlackGenerationProcessing class

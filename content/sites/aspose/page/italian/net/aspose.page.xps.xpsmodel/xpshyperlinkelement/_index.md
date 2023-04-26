@@ -3,7 +3,7 @@ title: Class XpsHyperlinkElement
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkElement classe. Incapsula le caratteristiche comuni degli elementi XPS che possono essere un collegamento ipertestuale.
 type: docs
-weight: 3120
+weight: 3130
 url: /it/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

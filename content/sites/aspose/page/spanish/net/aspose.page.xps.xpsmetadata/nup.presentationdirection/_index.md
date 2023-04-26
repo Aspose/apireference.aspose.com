@@ -3,7 +3,7 @@ title: Class NUp.PresentationDirection
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.NUpPresentationDirection clase. Describe interior característica.
 type: docs
-weight: 1620
+weight: 1630
 url: /es/net/aspose.page.xps.xpsmetadata/nup.presentationdirection/
 ---
 ## NUp.PresentationDirection class

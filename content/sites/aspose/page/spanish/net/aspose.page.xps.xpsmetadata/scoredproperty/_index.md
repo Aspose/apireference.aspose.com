@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty clase. La clase que implementa un PrintTicket común . La clase base para todas las propiedades puntuadas definidas por el esquema. A elemento declara una propiedad que es intrínseca a an Option definición. Dichas propiedades deben compararse al evaluar qué tan cerca se solicita unaOption coincide con un dispositivo compatibleOption . https//docs.microsoft.com/enus/windows/win32/printdocs/scoredproperty
 type: docs
-weight: 2850
+weight: 2860
 url: /es/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

@@ -19,7 +19,7 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 | 이름 | 설명 |
 | --- | --- |
 | [PdfDevice](pdfdevice/#constructor)(Stream) | 의 새 인스턴스를 초기화합니다.`PdfDevice` 출력 스트림. |
-| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | 의 새 인스턴스를 초기화합니다.`PdfDevice`출력 스트림 및 지정된 페이지 크기 포함. |
+| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | 의 새 인스턴스를 초기화합니다.`PdfDevice` 출력 스트림 및 지정된 페이지 크기 포함. |
 
 ## 속성
 
@@ -89,7 +89,7 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 | virtual [Rotate](../../aspose.page/device/rotate/)(double, double, double) | 점을 중심으로 현재 변환 행렬을 회전합니다. |
 | override [Scale](../../aspose.page.eps.device/pdfdevice/scale/)(double, double) | 현재 변환 행렬의 크기를 조정합니다. writeTransform(Transform). 호출 |
 | override [SetClip](../../aspose.page.eps.device/pdfdevice/setclip/)(GraphicsPath) | 장치의 클립을 지정합니다. |
-| override [SetTransform](../../aspose.page.eps.device/pdfdevice/settransform/)(Matrix) | 현재 변환을 지정합니다. 대부분의 출력 형식이 이 기능을 구현하지 않기 때문에 currentTransform의 역 변환이 계산되고 설정될 변환으로 곱해집니다. 그런 다음 결과는 call 에 의해 writeTransform(Transform). 으로 전달됩니다. |
+| override [SetTransform](../../aspose.page.eps.device/pdfdevice/settransform/)(Matrix) | 현재 변환을 지정합니다. 대부분의 출력 형식이 이 기능을 구현하지 않기 때문에 currentTransform의 역 변환이 계산되고 설정될 변환으로 곱해집니다. 그런 다음 결과는 call 에서 writeTransform(Transform). 으로 전달됩니다 |
 | override [Shear](../../aspose.page.eps.device/pdfdevice/shear/)(double, double) | 현재 변환 매트릭스를 절단합니다. writeTransform(Transform). 호출 |
 | override [StartDocument](../../aspose.page.eps.device/pdfdevice/startdocument/)() | 문서 렌더링을 시작하기 전에 필요한 장치를 준비합니다. |
 | override [ToString](../../aspose.page.eps.device/pdfdevice/tostring/)() | 장치 유형의 이름을 반환합니다. |

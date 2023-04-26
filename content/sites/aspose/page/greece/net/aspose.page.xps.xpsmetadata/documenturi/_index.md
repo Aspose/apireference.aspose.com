@@ -3,7 +3,7 @@ title: Class DocumentURI
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentURI τάξη. Καθορίζει ένα ενιαίο αναγνωριστικό πόρου URI για το έγγραφο. https//docs.microsoft.com/enus/windows/win32/printdocs/documenturi
 type: docs
-weight: 830
+weight: 840
 url: /el/net/aspose.page.xps.xpsmetadata/documenturi/
 ---
 ## DocumentURI class

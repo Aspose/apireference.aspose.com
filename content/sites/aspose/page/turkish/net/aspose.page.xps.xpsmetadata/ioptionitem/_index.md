@@ -3,7 +3,7 @@ title: Interface IOptionItem
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.IOptionItem arayüz. Yazdırma Şeması olabilecek sınıfların arayüzüOption öğeler.
 type: docs
-weight: 940
+weight: 950
 url: /tr/net/aspose.page.xps.xpsmetadata/ioptionitem/
 ---
 ## IOptionItem interface

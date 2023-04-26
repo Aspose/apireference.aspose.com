@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush klass. Klass inkapslande RadialGradientBrush egenskapselementegenskaper. Detta element används för att specificera en radiell gradientborste.
 type: docs
-weight: 3330
+weight: 3340
 url: /sv/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

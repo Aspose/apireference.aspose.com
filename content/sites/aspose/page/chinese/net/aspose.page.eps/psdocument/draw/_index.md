@@ -3,7 +3,7 @@ title: PsDocument.Draw
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 绘制任意路径.
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument.Draw method

@@ -3,7 +3,7 @@ title: Class XpsPathGeometry
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPathGeometry فصل. فئة تتضمن ميزات عنصر خاصية PathGeometry . يحتوي هذا العنصر على مجموعة من أرقام المسار المحددة إما باستخدام سمة Figures أو مع عنصر PathFigure تابع.
 type: docs
-weight: 3270
+weight: 3280
 url: /ar/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class

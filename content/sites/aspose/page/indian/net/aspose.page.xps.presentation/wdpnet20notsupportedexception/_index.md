@@ -3,7 +3,7 @@ title: Class WdpNet20NotSupportedException
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.WdpNet20NotSupportedException कक्ष. जब भ कई XPS दस्तवेज़ युक्त WDP छवयं क .NET 2.0. के लए लइब्रेर संस्करण में परवर्तत कय ज रह है त अपवद फेंक दय जत है
 type: docs
-weight: 460
+weight: 470
 url: /hi/net/aspose.page.xps.presentation/wdpnet20notsupportedexception/
 ---
 ## WdpNet20NotSupportedException class

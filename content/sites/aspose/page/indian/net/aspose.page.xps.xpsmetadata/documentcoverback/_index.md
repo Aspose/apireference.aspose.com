@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack कक्ष. बैक एंडंग कवर शट क वर्णन करत है प्रत्येक दस्तवेज़ क एक अलग शट हग कवर शट पर प्रंट कय जन चहएPageMediaSize औरPageMediaType दस्तवेज़ के अंतम पृष्ठ के लए उपयग कय जत है कवर शट क प्रसेसंग वकल्प में एककृत कय जन चहए जैसेDocumentDuplex DocumentNUp  नर्दष्ट वकल्प के अनुसर https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /hi/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

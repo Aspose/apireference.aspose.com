@@ -3,7 +3,7 @@ title: Class StringParameterInit
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.StringParameterInit klass. Basklass för alla strängparameterinitierare.
 type: docs
-weight: 2900
+weight: 2910
 url: /sv/net/aspose.page.xps.xpsmetadata/stringparameterinit/
 ---
 ## StringParameterInit class

@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice klass. Klassinkapslande bildkomponerande enhet.
 type: docs
-weight: 350
+weight: 360
 url: /sv/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

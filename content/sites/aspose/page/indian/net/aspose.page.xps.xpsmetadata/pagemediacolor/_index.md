@@ -3,7 +3,7 @@ title: Class PageMediaColor
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaColor कक्ष. मडय रंग वकल्पं और प्रत्येक वकल्प क वशेषतओं क वर्णन करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediacolor
 type: docs
-weight: 2030
+weight: 2040
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediacolor/
 ---
 ## PageMediaColor class

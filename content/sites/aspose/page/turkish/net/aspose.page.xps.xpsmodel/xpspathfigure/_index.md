@@ -3,7 +3,7 @@ title: Class XpsPathFigure
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsPathFigure sınıf. Sınıf Path Figure öğesinin özelliklerini kapsar. Bu öğe bir veya daha fazla çizgi veya eğri parçasından oluşur.
 type: docs
-weight: 3260
+weight: 3270
 url: /tr/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

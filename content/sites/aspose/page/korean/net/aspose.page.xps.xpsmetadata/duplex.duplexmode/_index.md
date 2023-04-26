@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode 수업. 가능한 값을 정의합니다.DuplexOption 에스 득점 속성.
 type: docs
-weight: 850
+weight: 860
 url: /ko/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

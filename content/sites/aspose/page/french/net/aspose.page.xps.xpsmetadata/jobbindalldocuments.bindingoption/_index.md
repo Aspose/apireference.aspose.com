@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingOption
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingOption classe. Décrit leJobBindAllDocuments options de fonctionnalité.
 type: docs
-weight: 1170
+weight: 1180
 url: /fr/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/
 ---
 ## JobBindAllDocuments.BindingOption class
@@ -42,7 +42,7 @@ public sealed class BindingOption : Option
 | static [BindRight](../../aspose.page.xps.xpsmetadata/bindingoption/bindright/) | Spécifie la reliure le long du bord droit. |
 | static [BindTop](../../aspose.page.xps.xpsmetadata/bindingoption/bindtop/) | Spécifie la reliure le long du bord supérieur. |
 | static [Booklet](../../aspose.page.xps.xpsmetadata/bindingoption/booklet/) | Spécifie la reliure du livret. |
-| static [EdgeStitchBottom](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchbottom/) | Spécifie la couture de bord le long du bord inférieur. |
+| static [EdgeStitchBottom](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchbottom/) | Spécifie la couture de bordure le long du bord inférieur. |
 | static [EdgeStitchLeft](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchleft/) | Spécifie la couture de bord le long du bord gauche. |
 | static [EdgeStitchRight](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchright/) | Spécifie la couture de bord le long du bord droit. |
 | static [EdgeStitchTop](../../aspose.page.xps.xpsmetadata/bindingoption/edgestitchtop/) | Spécifie la couture de bord le long du bord supérieur. |

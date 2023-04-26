@@ -3,7 +3,7 @@ title: Class DocumentBinding
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBinding कक्ष. बइंडंग क वध क वर्णन करत है प्रत्येक दस्तवेज़ अलग से बध्य है DocumentBinding और JobBindAllDocuments परस्पर अनन्य हैं यह ड्रइवर पर नर्भर है क वह कवर्ड के बच बध से नपटने क नर्धरण करे https//docs.microsoft.com/enus/windows/win32/printdocs/documentbinding
 type: docs
-weight: 560
+weight: 570
 url: /hi/net/aspose.page.xps.xpsmetadata/documentbinding/
 ---
 ## DocumentBinding class

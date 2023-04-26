@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsCanvas فصل. فئة تتضمن ميزات عنصر Canvas . يجمع هذا العنصر العناصر معًا. على سبيل المثال  يمكن تجميع الحروف الرسومية وعناصر المسار في لوحة قماشية ليتم تحديدها كوحدة كوجهة ارتباط تشعبي أو لتطبيق قيمة خاصية مكونة على كل عنصر فرعي وعنصر سلف.
 type: docs
-weight: 2970
+weight: 2980
 url: /ar/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

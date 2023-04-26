@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation 수업. 물리적 미디어 시트의 방향을 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2300
+weight: 2310
 url: /ko/net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

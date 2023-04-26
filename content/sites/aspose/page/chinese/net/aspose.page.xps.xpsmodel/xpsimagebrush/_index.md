@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush 班级. 类封装ImageBrush属性元素特征 该元素用于用图像填充区域
 type: docs
-weight: 3170
+weight: 3180
 url: /zh/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

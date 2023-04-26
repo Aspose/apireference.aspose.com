@@ -3,7 +3,7 @@ title: Class ParameterRef
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.ParameterRef कक्ष. वह वर्ग ज एक समन्य PrintTicket पैरमटर संदर्भ लगू करत है A तत्व a के संदर्भ क परभषत करत हैParameterInitतत्व. एScoredProperty वह तत्व जसमें ParameterRef तत्व है स्पष्ट रूप से सेट नहं हैValue तत्व इसके बजयScoredProperty element से इसक मन प्रप्त करत हैParameterInit ए द्वर संदर्भत तत्व तत्व. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterref
 type: docs
-weight: 2780
+weight: 2790
 url: /hi/net/aspose.page.xps.xpsmetadata/parameterref/
 ---
 ## ParameterRef class

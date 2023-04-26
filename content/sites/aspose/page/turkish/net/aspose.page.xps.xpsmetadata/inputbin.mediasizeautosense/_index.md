@@ -3,7 +3,7 @@ title: Class InputBin.MediaSizeAutoSense
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaSizeAutoSense sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 1090
+weight: 1100
 url: /tr/net/aspose.page.xps.xpsmetadata/inputbin.mediasizeautosense/
 ---
 ## InputBin.MediaSizeAutoSense class

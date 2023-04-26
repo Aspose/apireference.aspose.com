@@ -3,7 +3,7 @@ title: Class BmpSaveOptions
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.Presentation.Image.BmpSaveOptions classe. Classe pour les options denregistrement XPSasBMP.
 type: docs
-weight: 340
+weight: 350
 url: /fr/net/aspose.page.xps.presentation.image/bmpsaveoptions/
 ---
 ## BmpSaveOptions class

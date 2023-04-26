@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntent sınıf. ICC v2 Belirtimi tarafından tanımlandığı şekliyle işleme amacını tanımlar. Bir görüntü veya grafik öğesi İşleme amacını belirten katıştırılmış bir profile sahipse bu değer göz ardı edilmelidir. https//docs.microsoft.com/enus/ windows/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1990
+weight: 2000
 url: /tr/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

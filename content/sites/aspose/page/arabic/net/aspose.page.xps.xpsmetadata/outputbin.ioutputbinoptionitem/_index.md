@@ -3,7 +3,7 @@ title: Interface OutputBin.IOutputBinOptionItem
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.OutputBinIOutputBinOptionItem واجهه المستخدم. واجهة أي ملفOutputBinOption item.
 type: docs
-weight: 1690
+weight: 1700
 url: /ar/net/aspose.page.xps.xpsmetadata/outputbin.ioutputbinoptionitem/
 ---
 ## OutputBin.IOutputBinOptionItem interface

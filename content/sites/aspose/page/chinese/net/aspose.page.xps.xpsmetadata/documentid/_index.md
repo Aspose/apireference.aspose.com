@@ -3,7 +3,7 @@ title: Class DocumentID
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentID 班级. 指定文档的唯一 ID https//docs.microsoft.com/enus/windows/win32/printdocs/documentid
 type: docs
-weight: 710
+weight: 720
 url: /zh/net/aspose.page.xps.xpsmetadata/documentid/
 ---
 ## DocumentID class

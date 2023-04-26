@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet klas. Beschrijft het boekhoudblad dat voor de taak moet worden uitgevoerd. Het boekhoudblad moet worden uitgevoerd op de default PageMediaSize en de standaard gebruikenPageMediaType . Het boekhoudblad moet to worden geïsoleerd van de rest van de taak. Dit betekent dat eventuele afwerkings of verwerkingsopties zoals   of  mag het boekhoudblad niet bevatten. Het boekhoudblad kan voorkomen als de eerste of laatste pagina van de taak naar goeddunken van de uitvoerder. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /nl/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

@@ -3,7 +3,7 @@ title: Enum XpsFillRule
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsFillRule एनुम. PathGeometry तत्व के FillRule गुण के मन्य मन.
 type: docs
-weight: 3070
+weight: 3080
 url: /hi/net/aspose.page.xps.xpsmodel/xpsfillrule/
 ---
 ## XpsFillRule enumeration

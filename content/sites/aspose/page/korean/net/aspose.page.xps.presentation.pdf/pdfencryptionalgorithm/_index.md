@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm 열거형. 암호화 모드 열거형. 알고리즘 및 키 길이를 사용하여 설명합니다. 이 열거형은 기능을 더 늘릴 수 있도록 확장되었습니다. 이 열거형은 베이스투코어 패턴을 구현합니다.
 type: docs
-weight: 410
+weight: 420
 url: /ko/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

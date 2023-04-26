@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide classe. Force la sortie à apparaître sur le devant dune feuille de support. Pertinent pour les feuilles de support avec différentes surfaces de chaque côté. Dans les cas où cette fonctionnalité interfère avec les options de traitement telles que DocumentDuplex  est prioritaire pour la page spécifique à laquelle la fonctionnalité sapplique.
 type: docs
-weight: 1970
+weight: 1980
 url: /fr/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

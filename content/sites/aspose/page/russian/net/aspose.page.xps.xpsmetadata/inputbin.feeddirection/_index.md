@@ -3,7 +3,7 @@ title: Class InputBin.FeedDirection
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedDirection сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 1020
+weight: 1030
 url: /ru/net/aspose.page.xps.xpsmetadata/inputbin.feeddirection/
 ---
 ## InputBin.FeedDirection class

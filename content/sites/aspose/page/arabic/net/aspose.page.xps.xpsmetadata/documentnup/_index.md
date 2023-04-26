@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp فصل. يصف إخراج وتنسيق الصفحات المنطقية المتعددة في ورقة فعلية واحدة. يتم تجميع كل مستند بشكل منفصل. وJobNUpAllDocumentsContiguously متنافيان. الأمر متروك للسائق لتحديد معالجة القيد بين هذه الكلمات الرئيسية . https//docs.microsoft.com/enus/windows/win32/printdocs/documentnup
 type: docs
-weight: 740
+weight: 750
 url: /ar/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

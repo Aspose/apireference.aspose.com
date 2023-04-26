@@ -3,7 +3,7 @@ title: PsDocument.Draw
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. एक मनमन रस्त बनएं
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument.Draw method

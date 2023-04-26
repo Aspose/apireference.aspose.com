@@ -3,7 +3,7 @@ title: Class XpsIccBasedColor
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsIccBasedColor कक्ष. आईसस आधरत रंग समहत करत है
 type: docs
-weight: 3140
+weight: 3150
 url: /hi/net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/
 ---
 ## XpsIccBasedColor class

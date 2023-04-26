@@ -3,7 +3,7 @@ title: PsDocument.Translate
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 将翻译添加到当前图形状态翻译当前矩阵
 type: docs
-weight: 280
+weight: 310
 url: /zh/net/aspose.page.eps/psdocument/translate/
 ---
 ## PsDocument.Translate method

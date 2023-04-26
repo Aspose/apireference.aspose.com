@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod 枚举. 渐变画笔的 SpreadMethod 属性的有效值
 type: docs
-weight: 3360
+weight: 3370
 url: /zh/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

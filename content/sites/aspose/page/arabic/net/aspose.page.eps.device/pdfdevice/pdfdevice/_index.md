@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-تهيئة مثيل جديد لـ[`PdfDevice`](../)مع تدفق الإخراج والحجم المحدد للصفحة.
+تهيئة مثيل جديد لـ[`PdfDevice`](../) مع تدفق الإخراج والحجم المحدد للصفحة.
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

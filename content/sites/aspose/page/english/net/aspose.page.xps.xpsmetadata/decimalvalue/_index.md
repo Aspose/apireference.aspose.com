@@ -3,7 +3,7 @@ title: DecimalValue
 second_title: Aspose.Page for .NET API Reference
 description: The class that incapsulates a Decimal value in a PrintTicket document.
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.page.xps.xpsmetadata/decimalvalue/
 ---
 ## DecimalValue class

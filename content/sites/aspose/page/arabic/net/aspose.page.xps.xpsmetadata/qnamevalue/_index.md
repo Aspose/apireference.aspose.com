@@ -3,7 +3,7 @@ title: Class QNameValue
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.QNameValue فصل. الفئة التي تتضمن قيمة QName في مستند PrintTicket.
 type: docs
-weight: 2820
+weight: 2830
 url: /ar/net/aspose.page.xps.xpsmetadata/qnamevalue/
 ---
 ## QNameValue class

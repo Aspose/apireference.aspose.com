@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsPage sınıf. Sınıf FixedPage öğesi özelliklerini kapsar. Bu öğe bir sayfanın içeriğini içerir ve bir FixedPage bölümünün kök öğesidir.
 type: docs
-weight: 3230
+weight: 3240
 url: /tr/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

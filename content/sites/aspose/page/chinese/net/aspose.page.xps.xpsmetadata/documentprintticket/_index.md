@@ -3,7 +3,7 @@ title: Class DocumentPrintTicket
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentPrintTicket 班级. 封装文档级打印票的类
 type: docs
-weight: 780
+weight: 790
 url: /zh/net/aspose.page.xps.xpsmetadata/documentprintticket/
 ---
 ## DocumentPrintTicket class

@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice τάξη. Συσκευή σύνθεσης εικόνας ενθυλάκωσης κατηγορίας.
 type: docs
-weight: 400
+weight: 410
 url: /el/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

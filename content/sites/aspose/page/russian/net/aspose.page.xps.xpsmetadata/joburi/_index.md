@@ -3,7 +3,7 @@ title: Class JobURI
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobURI сорт. Указывает универсальный идентификатор ресурса URI для документа. https//docs.microsoft.com/enus/windows/win32/printdocs/joburi
 type: docs
-weight: 1590
+weight: 1600
 url: /ru/net/aspose.page.xps.xpsmetadata/joburi/
 ---
 ## JobURI class

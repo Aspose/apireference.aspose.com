@@ -3,7 +3,7 @@ title: Class DocumentName
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentName कक्ष. दस्तवेज़ के लए एक वर्णनत्मक नम नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/documentname
 type: docs
-weight: 750
+weight: 760
 url: /hi/net/aspose.page.xps.xpsmetadata/documentname/
 ---
 ## DocumentName class

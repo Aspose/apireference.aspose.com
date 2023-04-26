@@ -3,7 +3,7 @@ title: PageBlendColorSpaceICCProfileURI
 second_title: Aspose.Page for .NET API Reference
 description: Specifies a relative URI reference to an ICC profile defining the color space that SHOULD be used for blending. The ltUrigt is an absolute part_name relative to the package root. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblendcolorspaceiccprofileuri
 type: docs
-weight: 1820
+weight: 1830
 url: /net/aspose.page.xps.xpsmetadata/pageblendcolorspaceiccprofileuri/
 ---
 ## PageBlendColorSpaceICCProfileURI class

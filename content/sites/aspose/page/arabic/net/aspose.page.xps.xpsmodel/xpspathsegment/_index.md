@@ -3,7 +3,7 @@ title: Class XpsPathSegment
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPathSegment فصل. فئة تتضمن السمات المشتركة لجميع عناصر مقطع المسار.
 type: docs
-weight: 3290
+weight: 3300
 url: /ar/net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

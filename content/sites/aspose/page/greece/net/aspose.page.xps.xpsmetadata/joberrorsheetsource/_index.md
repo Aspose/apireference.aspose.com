@@ -3,7 +3,7 @@ title: Class JobErrorSheetSource
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetSource τάξη. Καθορίζει την πηγή για ένα προσαρμοσμένο φύλλο σφαλμάτων. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheetsource
 type: docs
-weight: 1340
+weight: 1350
 url: /el/net/aspose.page.xps.xpsmetadata/joberrorsheetsource/
 ---
 ## JobErrorSheetSource class

@@ -3,7 +3,7 @@ title: Class XpsColor
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsColor فصل. الفئة الأساسية التي تتضمن ميزات اللون الشائعة.
 type: docs
-weight: 2980
+weight: 2990
 url: /ar/net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

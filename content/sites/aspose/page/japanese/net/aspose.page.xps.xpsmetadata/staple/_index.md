@@ -3,7 +3,7 @@ title: Class Staple
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.Staple クラス. の基本クラスJobStapleAllDocumentsとDocumentStaple機能クラス.
 type: docs
-weight: 2870
+weight: 2880
 url: /ja/net/aspose.page.xps.xpsmetadata/staple/
 ---
 ## Staple class

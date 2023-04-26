@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet クラス. 特定のドキュメントに対して出力するバナーシートを記述しますバナーシートはdefault に出力する必要がありますPageMediaSizeデフォルトを使用してPageMediaType.バナー シートは ジョブの残りの部分からも分離する必要がありますこれは仕上げまたは処理オプション  などDocumentDuplex DocumentStaple  またDocumentBinding にバナー シートを含めないでくださいバナー シートはジョブの残りの部分から分離されている場合と分離されていない場合があります これはジョブの仕上げまたは処理オプションにドキュメント バナー シートが含まれる可能性があることを意味します バナー シートはドキュメントの最初のシートとして発生する必要があります https //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 530
+weight: 540
 url: /ja/net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class

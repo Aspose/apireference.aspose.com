@@ -3,7 +3,7 @@ title: HolePunch.HolePunchOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the HolePunch./holepunch feature options.
 type: docs
-weight: 890
+weight: 900
 url: /net/aspose.page.xps.xpsmetadata/holepunch.holepunchoption/
 ---
 ## HolePunch.HolePunchOption class

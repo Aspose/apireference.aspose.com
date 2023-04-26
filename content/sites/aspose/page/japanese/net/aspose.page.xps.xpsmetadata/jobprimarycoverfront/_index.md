@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront クラス. 表紙冒頭の表紙を記述しますジョブ全体でプライマリ シートが 1 枚になります カバー シートはPageMediaSizeとPageMediaType はジョブの最初のページに使用されますカバー シートは処理 options に統合する必要があります JobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  指定されたオプションで示される. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /ja/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

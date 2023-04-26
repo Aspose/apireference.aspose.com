@@ -3,7 +3,7 @@ title: Class InputBin.FeedDirection
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedDirection sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 1020
+weight: 1030
 url: /tr/net/aspose.page.xps.xpsmetadata/inputbin.feeddirection/
 ---
 ## InputBin.FeedDirection class

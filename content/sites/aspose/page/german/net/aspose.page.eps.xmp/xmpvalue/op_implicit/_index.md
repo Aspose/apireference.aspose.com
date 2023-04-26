@@ -20,7 +20,7 @@ public static implicit operator XmpValue(string value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 
@@ -44,7 +44,7 @@ public static implicit operator XmpValue(int value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 
@@ -68,7 +68,7 @@ public static implicit operator XmpValue(double value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 
@@ -92,7 +92,7 @@ public static implicit operator XmpValue(DateTime value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 
@@ -116,7 +116,7 @@ public static implicit operator XmpValue(object[] value)
 
 ### Rückgabewert
 
-XmlWert.
+XmlValue.
 
 ### Siehe auch
 

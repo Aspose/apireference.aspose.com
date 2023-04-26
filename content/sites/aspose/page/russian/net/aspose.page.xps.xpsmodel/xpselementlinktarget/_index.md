@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget сорт. Класс инкапсулирующий относительную цель гиперссылки с именованным адресом.
 type: docs
-weight: 3040
+weight: 3050
 url: /ru/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

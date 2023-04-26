@@ -3,7 +3,7 @@ title: Class DocumentPrintTicket
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentPrintTicket 수업. 문서 수준 인쇄 티켓을 캡슐화하는 클래스입니다.
 type: docs
-weight: 780
+weight: 790
 url: /ko/net/aspose.page.xps.xpsmetadata/documentprintticket/
 ---
 ## DocumentPrintTicket class

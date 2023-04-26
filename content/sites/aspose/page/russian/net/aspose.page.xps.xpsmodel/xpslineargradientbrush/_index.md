@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush сорт. Класс инкапсулирующий функции элемента свойства LinearGradientBrush. Этот элемент используется для указания кисти с линейным градиентом вдоль вектора.
 type: docs
-weight: 3200
+weight: 3210
 url: /ru/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

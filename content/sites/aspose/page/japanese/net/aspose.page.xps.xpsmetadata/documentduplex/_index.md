@@ -3,7 +3,7 @@ title: Class DocumentDuplex
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentDuplex クラス. 出力のデュプレックス特性を記述します両面印刷機能によりメディアの両面に 印刷できます各ドキュメントは別々に二重化されます. DocumentDuplex と JobDuplexAllDocumentsContiguously は相互に排他的です. これらのキーワード間の制約処理を決定するのはドライバー次第です. https//docs.microsoft.com/enus/windows/win32/printdocs/ documentduplex
 type: docs
-weight: 690
+weight: 700
 url: /ja/net/aspose.page.xps.xpsmetadata/documentduplex/
 ---
 ## DocumentDuplex class

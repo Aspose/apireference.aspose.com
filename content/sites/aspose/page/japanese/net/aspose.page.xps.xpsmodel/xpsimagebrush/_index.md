@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush クラス. ImageBrush プロパティ要素の機能をカプセル化するクラス. この要素は領域を画像で塗りつぶすために使用されます.
 type: docs
-weight: 3170
+weight: 3180
 url: /ja/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

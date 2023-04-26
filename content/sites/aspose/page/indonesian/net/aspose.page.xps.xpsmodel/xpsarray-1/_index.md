@@ -3,7 +3,7 @@ title: Class XpsArrayT
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsArray1T kelas. Kelas yang merangkum fitur objek larik model XPS umum.
 type: docs
-weight: 2950
+weight: 2960
 url: /id/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

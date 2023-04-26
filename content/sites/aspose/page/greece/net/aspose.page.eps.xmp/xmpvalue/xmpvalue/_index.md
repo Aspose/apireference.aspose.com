@@ -76,7 +76,7 @@ public XmpValue(DateTime value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | DateTime | Τιμή ημερομηνίας ώρας. |
+| value | DateTime | Τιμή ώρας ημερομηνίας. |
 
 ### Δείτε επίσης
 

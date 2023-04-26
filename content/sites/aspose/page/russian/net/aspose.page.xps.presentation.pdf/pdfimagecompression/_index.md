@@ -3,7 +3,7 @@ title: Enum PdfImageCompression
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfImageCompression перечисление. Указывает тип сжатия применяемый к изображениям в файле PDF.
 type: docs
-weight: 430
+weight: 440
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfimagecompression/
 ---
 ## PdfImageCompression enumeration

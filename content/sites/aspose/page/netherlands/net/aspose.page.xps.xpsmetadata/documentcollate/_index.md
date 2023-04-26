@@ -3,7 +3,7 @@ title: Class DocumentCollate
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentCollate klas. Beschrijft de sorteerkenmerken van de uitvoer. Alle paginas in elk afzonderlijk document worden gesorteerd. DocumentCollate en JobCollateAlle documenten sluiten elkaar wederzijds uit. Het gedrag en de implementatie van of beide of slechts één van deze sleutelwoorden wordt geïmplementeerd wordt overgelaten aan de bestuurder. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcollate
 type: docs
-weight: 610
+weight: 620
 url: /nl/net/aspose.page.xps.xpsmetadata/documentcollate/
 ---
 ## DocumentCollate class

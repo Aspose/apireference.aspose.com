@@ -3,7 +3,7 @@ title: Class XpsGlyphs
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsGlyphs kelas. Kelas merangkum fitur elemen Glyphs. Elemen ini merepresentasikan rangkaian teks berformat seragam dari satu font. Ini memberikan informasi yang diperlukan untuk perenderan yang akurat dan mendukung fitur pencarian dan pemilihan dalam melihat konsumen.
 type: docs
-weight: 3090
+weight: 3100
 url: /id/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

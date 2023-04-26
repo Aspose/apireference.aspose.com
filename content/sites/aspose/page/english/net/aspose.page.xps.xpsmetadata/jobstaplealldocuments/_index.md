@@ -3,7 +3,7 @@ title: JobStapleAllDocuments
 second_title: Aspose.Page for .NET API Reference
 description: Describes the stapling characteristics of the output. All documents in the job are stapled together. The JobStapleAllDocuments./jobstaplealldocuments and DocumentStaple./documentstaple keywords are mutually exclusive. It is up to the driver to determine constraint handling between these keywords. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

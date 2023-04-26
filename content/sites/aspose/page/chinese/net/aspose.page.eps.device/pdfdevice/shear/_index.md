@@ -17,7 +17,7 @@ public override void Shear(double shx, double shy)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | shx | Double | X 轴上的剪切。 |
-| shy | Double | 轴上的剪切。 |
+| shy | Double | Y 轴上的剪切。 |
 
 ### 也可以看看
 

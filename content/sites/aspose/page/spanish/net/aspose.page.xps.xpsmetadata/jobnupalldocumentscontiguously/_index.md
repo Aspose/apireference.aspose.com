@@ -1,14 +1,14 @@
 ---
 title: Class JobNUpAllDocumentsContiguously
 second_title: Referencia de la API de Aspose.Page para .NET
-description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously clase. Describe la salida de varias páginas lógicas en una sola hoja física. Todos los documentos en job se compilan juntos de forma contigua.JobNUpAllDocumentsContiguously yDocumentNUp son mutuamente excluyentes. Depende del controlador determinar el manejo de restricciones entre estas palabras clave. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
+description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously clase. Describe la salida de varias páginas lógicas en una única hoja física. Todos los documentos en job se compilan juntos de forma contigua.JobNUpAllDocumentsContiguously yDocumentNUp son mutuamente excluyentes. Depende del controlador determinar el manejo de restricciones entre estas palabras clave. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /es/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class
 
-Describe la salida de varias páginas lógicas en una sola hoja física. Todos los documentos en job se compilan juntos de forma contigua.`JobNUpAllDocumentsContiguously` y[`DocumentNUp`](../documentnup/) son mutuamente excluyentes. Depende del controlador determinar el manejo de restricciones entre estas palabras clave. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobnupalldocumentscontiguously
+Describe la salida de varias páginas lógicas en una única hoja física. Todos los documentos en job se compilan juntos de forma contigua.`JobNUpAllDocumentsContiguously` y[`DocumentNUp`](../documentnup/) son mutuamente excluyentes. Depende del controlador determinar el manejo de restricciones entre estas palabras clave. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobnupalldocumentscontiguously
 
 ```csharp
 public sealed class JobNUpAllDocumentsContiguously : NUp, IJobPrintTicketItem

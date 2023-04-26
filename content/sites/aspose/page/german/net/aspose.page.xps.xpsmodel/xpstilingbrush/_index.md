@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush klas. Klasse die gemeinsame Merkmale von Kachelpinselelementen VisualBrush und ImageBrush kapselt.
 type: docs
-weight: 3400
+weight: 3410
 url: /de/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

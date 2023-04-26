@@ -3,7 +3,7 @@ title: Class DecimalValue
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DecimalValue 수업. PrintTicket 문서에서 Decimal 값을 캡슐화하는 클래스입니다.
 type: docs
-weight: 520
+weight: 530
 url: /ko/net/aspose.page.xps.xpsmetadata/decimalvalue/
 ---
 ## DecimalValue class

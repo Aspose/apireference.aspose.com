@@ -3,7 +3,7 @@ title: Class JobPrintTicket
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobPrintTicket 班级. 封装作业级打印票的类
 type: docs
-weight: 1560
+weight: 1570
 url: /zh/net/aspose.page.xps.xpsmetadata/jobprintticket/
 ---
 ## JobPrintTicket class

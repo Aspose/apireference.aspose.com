@@ -3,7 +3,7 @@ title: Class XpsGradientStop
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsGradientStop τάξη. Χαρακτηριστικά στοιχείου GradientStop που ενσωματώνει κλάση. Αυτό το στοιχείο χρησιμοποιείται τόσο από τα στοιχεία LinearGradientBrush όσο και από τα στοιχεία RadialGradientBrush για να ορίσουν τη θέση και το εύρος της εξέλιξης χρώματος για την απόδοση μιας διαβάθμισης.
 type: docs
-weight: 3110
+weight: 3120
 url: /el/net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class

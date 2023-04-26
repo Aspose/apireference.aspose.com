@@ -3,7 +3,7 @@ title: Class Property
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.Property sınıf. Ortak bir PrintTicket uygulayan sınıf . Tüm şema tanımlı özellikler için temel sınıf. A öğesi adı name özniteliği tarafından verilen bir aygıtı iş biçimlendirmesini veya diğer ilgili property yi bildirir. AValue öğe öğeye bir değer atamak için kullanılır. Bir karmaşık olabilir muhtemelen birden çok alt özellik içerir. Alt özellikler ayrıca şu şekilde gösterilir elements. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 2810
+weight: 2820
 url: /tr/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

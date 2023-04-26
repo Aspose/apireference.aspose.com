@@ -1,14 +1,14 @@
 ---
 title: Class DocumentStaple
 second_title: Aspose.Page voor .NET API-referentie
-description: Aspose.Page.XPS.XpsMetadata.DocumentStaple klas. Beschrijft de nieteigenschappen van de uitvoer. Elk document wordt apart geniet. DeJobStapleAllDocuments EnDocumentStapletrefwoorden sluiten elkaar wederzijds uit. Het is aan de driver om te bepalen hoe de beperkingen tussen deze trefwoorden moeten worden afgehandeld. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
+description: Aspose.Page.XPS.XpsMetadata.DocumentStaple klas. Beschrijft de nieteigenschappen van de uitvoer. Elk document wordt afzonderlijk geniet. DeJobStapleAllDocuments EnDocumentStapletrefwoorden sluiten elkaar wederzijds uit. Het is aan de driver om te bepalen hoe de beperkingen tussen deze trefwoorden moeten worden afgehandeld. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /nl/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class
 
-Beschrijft de nieteigenschappen van de uitvoer. Elk document wordt apart geniet. De[`JobStapleAllDocuments`](../jobstaplealldocuments/) En`DocumentStaple`trefwoorden sluiten elkaar wederzijds uit. Het is aan de driver om te bepalen hoe de beperkingen tussen deze trefwoorden moeten worden afgehandeld. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentstaple
+Beschrijft de nieteigenschappen van de uitvoer. Elk document wordt afzonderlijk geniet. De[`JobStapleAllDocuments`](../jobstaplealldocuments/) En`DocumentStaple`trefwoorden sluiten elkaar wederzijds uit. Het is aan de driver om te bepalen hoe de beperkingen tussen deze trefwoorden moeten worden afgehandeld. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentstaple
 
 ```csharp
 public sealed class DocumentStaple : Staple, IDocumentPrintTicketItem, IJobPrintTicketItem

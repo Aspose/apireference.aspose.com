@@ -3,7 +3,7 @@ title: Class PagePoster
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PagePoster sınıf. Tek bir sayfanın birden çok fiziksel ortam sayfasına çıktısını açıklar. https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 2410
+weight: 2420
 url: /tr/net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

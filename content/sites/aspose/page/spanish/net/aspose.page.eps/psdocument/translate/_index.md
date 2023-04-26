@@ -3,7 +3,7 @@ title: PsDocument.Translate
 second_title: Referencia de la API de Aspose.Page para .NET
 description: PsDocument método. Agrega traducción al estado gráfico actual traduce la matriz actual.
 type: docs
-weight: 280
+weight: 310
 url: /es/net/aspose.page.eps/psdocument/translate/
 ---
 ## PsDocument.Translate method

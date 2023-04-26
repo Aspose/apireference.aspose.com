@@ -3,7 +3,7 @@ title: Class PrintTicket
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PrintTicket クラス. 任意のスコープの共通の PrintTicket を実装するクラス ジョブドキュメントおよびページ レベルの印刷チケットの基本クラス Aelement はPrintTicket ドキュメントのルート要素です A要素にはジョブを出力するために必要なすべてのジョブ フォーマット情報が含まれています
 type: docs
-weight: 2790
+weight: 2800
 url: /ja/net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class

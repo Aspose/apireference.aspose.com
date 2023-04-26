@@ -16,7 +16,7 @@ public JobAccountingSheet(params JobAccountingSheetOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | JobAccountingSheetOption[] | Una matriz de opciones específicas para la característica. |
+| options | JobAccountingSheetOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

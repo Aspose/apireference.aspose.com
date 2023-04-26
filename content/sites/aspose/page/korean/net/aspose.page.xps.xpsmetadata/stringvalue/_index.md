@@ -3,7 +3,7 @@ title: Class StringValue
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.StringValue 수업. PrintTicket 문서에서 문자열 값을 캡슐화하는 클래스입니다.
 type: docs
-weight: 2910
+weight: 2920
 url: /ko/net/aspose.page.xps.xpsmetadata/stringvalue/
 ---
 ## StringValue class

@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: UserProperties तरक. स्ट्रंग गुण मन सेट करत है
 type: docs
-weight: 140
+weight: 150
 url: /hi/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

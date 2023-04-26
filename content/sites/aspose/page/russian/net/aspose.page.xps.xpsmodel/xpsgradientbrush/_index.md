@@ -3,7 +3,7 @@ title: Class XpsGradientBrush
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsGradientBrush сорт. Класс инкапсулирующий общие функции элементов LinerGradientBrush и RadialGradientBrush.
 type: docs
-weight: 3100
+weight: 3110
 url: /ru/net/aspose.page.xps.xpsmodel/xpsgradientbrush/
 ---
 ## XpsGradientBrush class

@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-Yeni örneğini başlatır[`PdfDevice`](../)çıktı akışı ve belirtilen sayfa boyutuyla.
+Yeni örneğini başlatır[`PdfDevice`](../) çıktı akışı ve belirtilen sayfa boyutuyla.
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

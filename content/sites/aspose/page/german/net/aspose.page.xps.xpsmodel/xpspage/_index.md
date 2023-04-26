@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsPage klas. Klasse die FixedPageElementfunktionen kapselt. Dieses Element enthält den Inhalt einer Seite und ist das Stammelement eines FixedPageTeils.
 type: docs
-weight: 3230
+weight: 3240
 url: /de/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

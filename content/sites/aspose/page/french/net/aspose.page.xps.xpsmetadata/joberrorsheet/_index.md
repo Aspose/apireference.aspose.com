@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet classe. Décrit la sortie de la feuille derreurs. Lensemble du travail aura une seule feuille derreur. Lerreur sheet doit être sortie sur la valeur par défautPageMediaSize et en utilisant la valeur par défautPageMediaType . La feuille derreurs doit être isolée du reste du travail. Cela signifie que toutes les options de finition ou de traitement telles que   ou  ne doit pas inclure la feuille derreur. La feuille derreurs doit apparaître comme dernière feuille du travail. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /fr/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

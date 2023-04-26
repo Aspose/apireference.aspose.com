@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment classe. Classe che incapsula le caratteristiche dellelemento PolyLineSegment. Questo elemento descrive un disegno poligonale contenente un numero arbitrario di singoli vertici.
 type: docs
-weight: 3310
+weight: 3320
 url: /it/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

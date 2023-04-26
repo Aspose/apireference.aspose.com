@@ -3,7 +3,7 @@ title: Interface IPrintTicketElementChild
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketElementChild इंटरफेस. कस भ प्रंट स्कम तत्व के बल तत्व क आधर इंटरफ़ेस
 type: docs
-weight: 960
+weight: 970
 url: /hi/net/aspose.page.xps.xpsmetadata/iprintticketelementchild/
 ---
 ## IPrintTicketElementChild interface

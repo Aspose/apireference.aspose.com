@@ -3,7 +3,7 @@ title: Class PageMediaType.Recycled
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeRecycled klass. Definierar konstanter för poängsatt egenskapsvärde.
 type: docs
-weight: 2250
+weight: 2260
 url: /sv/net/aspose.page.xps.xpsmetadata/pagemediatype.recycled/
 ---
 ## PageMediaType.Recycled class

@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page για Αναφορά API .NET
 description: Το Aspose.Page.Xps.Presentation.Image Ο χώρος ονομάτων παρέχει κλάσεις για την απόδοση του εγγράφου XPS σε μια εικόνα.
 type: docs
-weight: 80
+weight: 90
 url: /el/net/aspose.page.xps.presentation.image/
 ---
 Το **Aspose.Page.Xps.Presentation.Image** Ο χώρος ονομάτων παρέχει κλάσεις για την απόδοση του εγγράφου XPS σε μια εικόνα.

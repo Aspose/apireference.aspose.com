@@ -3,7 +3,7 @@ title: Class PageWatermark.PageWatermarkOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkPageWatermarkOption कक्ष. क वर्णन करत हैPageWatermark सुवधएँ वकल्प.
 type: docs
-weight: 2690
+weight: 2700
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermark.pagewatermarkoption/
 ---
 ## PageWatermark.PageWatermarkOption class

@@ -3,7 +3,7 @@ title: Class PageMediaType
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaType сорт. Описывает параметры и характеристики каждого параметра. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediatype
 type: docs
-weight: 2160
+weight: 2170
 url: /ru/net/aspose.page.xps.xpsmetadata/pagemediatype/
 ---
 ## PageMediaType class

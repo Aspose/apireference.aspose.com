@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation
 second_title: Aspose.Page για Αναφορά API .NET
 description: Το Aspose.Page.Xps.PresentationΤο namespace παρέχει βασικές κλάσεις για την απόδοση του εγγράφου XPS σε άλλες μορφές.
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.page.xps.presentation/
 ---
 Το **Aspose.Page.Xps.Presentation**Το namespace παρέχει βασικές κλάσεις για την απόδοση του εγγράφου XPS σε άλλες μορφές.

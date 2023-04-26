@@ -3,7 +3,7 @@ title: Class DocumentHolePunch
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentHolePunch τάξη. Περιγράφει τα χαρακτηριστικά διάτρησης οπών της εξόδου. Κάθε έγγραφο τρυπιέται χωριστά. ΤοJobHolePunch καιDocumentHolePunch Οι λέξειςκλειδιά είναι αμοιβαία αποκλειόμενες. Και οι δύο δεν πρέπει να καθορίζονται ταυτόχρονα σε ένα έγγραφο PrintTicket ή Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/documentholepunch
 type: docs
-weight: 700
+weight: 710
 url: /el/net/aspose.page.xps.xpsmetadata/documentholepunch/
 ---
 ## DocumentHolePunch class

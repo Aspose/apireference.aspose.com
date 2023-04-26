@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 将比例添加到当前图形状态缩放当前矩阵
 type: docs
-weight: 210
+weight: 230
 url: /zh/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

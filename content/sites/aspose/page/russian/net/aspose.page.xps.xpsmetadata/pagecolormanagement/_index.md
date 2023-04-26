@@ -3,7 +3,7 @@ title: Class PageColorManagement
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageColorManagement сорт. Настраивает управление цветом для текущей страницы. Это считается автоматическим в SHIM  DM_ICMmethod Add System. Описывает какой компонент должен выполнять управление цветом например драйвер. https//docs.microsoft.com/enus/windows /win32/printdocs/pagecolormanagement
 type: docs
-weight: 1850
+weight: 1860
 url: /ru/net/aspose.page.xps.xpsmetadata/pagecolormanagement/
 ---
 ## PageColorManagement class

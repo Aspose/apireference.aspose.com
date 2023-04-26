@@ -3,7 +3,7 @@ title: PsDocument.Merge
 second_title: .NET API 참조용 Aspose.Page
 description: PsDocument 방법. PS/EPS 파일을 장치에 병합합니다.
 type: docs
-weight: 160
+weight: 180
 url: /ko/net/aspose.page.eps/psdocument/merge/
 ---
 ## PsDocument.Merge method

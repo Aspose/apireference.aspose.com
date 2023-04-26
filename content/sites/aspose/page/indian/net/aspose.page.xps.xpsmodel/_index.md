@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: द Aspose.Page.Xps.XpsModelनमस्थन XPS दस्तवेज़ के तत्वं क वर्णन करने वल कक्षएं प्रदन करत है
 type: docs
-weight: 110
+weight: 120
 url: /hi/net/aspose.page.xps.xpsmodel/
 ---
 द **Aspose.Page.Xps.XpsModel**नामस्थान XPS दस्तावेज़ के तत्वों का वर्णन करने वाली कक्षाएं प्रदान करता है।

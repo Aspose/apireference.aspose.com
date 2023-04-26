@@ -3,7 +3,7 @@ title: Class PagePhotoPrintingIntent
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PagePhotoPrintingIntent сорт. Указывает высокоуровневое намерение драйвера для заполнения параметров печати фотографий. Эти параметры относятся к ожидаемому качеству вывода которое пользователь может указать при печати фотографий. https//docs.microsoft.com/enus/windows /win32/printdocs/pagephotoprintingintent
 type: docs
-weight: 2390
+weight: 2400
 url: /ru/net/aspose.page.xps.xpsmetadata/pagephotoprintingintent/
 ---
 ## PagePhotoPrintingIntent class

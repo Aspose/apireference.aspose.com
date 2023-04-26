@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntent कक्ष. रेंडरंग इंटेंट क वर्णन करत है जैस क ICC v2 वशष्टत द्वर परभषत कय गय है यद छव य ग्रफ़कल तत्व में एक एम्बेडेड प्रफ़इल है ज रेंडरंग इंटेंट नर्दष्ट करत है त इस मन क अनदेख कय जन चहए https//docs.microsoft.com/enus/ windows/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1990
+weight: 2000
 url: /hi/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

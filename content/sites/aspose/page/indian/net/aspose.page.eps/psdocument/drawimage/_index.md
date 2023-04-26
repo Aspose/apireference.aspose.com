@@ -3,7 +3,7 @@ title: PsDocument.DrawImage
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. छव बनएं
 type: docs
-weight: 90
+weight: 100
 url: /hi/net/aspose.page.eps/psdocument/drawimage/
 ---
 ## DrawImage(Bitmap) {#drawimage}

@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush कक्ष. रूपंतरण यग्य ब्रश तत्वं क समन्य वशेषतओं क समहत करने वल वर्ग सलडकलरब्रश क छड़कर सभ
 type: docs
-weight: 3410
+weight: 3420
 url: /hi/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

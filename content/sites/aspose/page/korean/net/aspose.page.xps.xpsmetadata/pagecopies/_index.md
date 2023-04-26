@@ -3,7 +3,7 @@ title: Class PageCopies
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageCopies 수업. 페이지의 복사본 수를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagecopies
 type: docs
-weight: 1870
+weight: 1880
 url: /ko/net/aspose.page.xps.xpsmetadata/pagecopies/
 ---
 ## PageCopies class

@@ -3,7 +3,7 @@ title: Class DocumentHolePunch
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentHolePunch сорт. Описывает характеристики перфорации выходных данных. Каждый документ перфорируется отдельно. JobHolePunch иDocumentHolePunch ключевые слова являются взаимоисключающими. Оба не должны быть указаны одновременно в документе PrintTicket или Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/documentholepunch
 type: docs
-weight: 700
+weight: 710
 url: /ru/net/aspose.page.xps.xpsmetadata/documentholepunch/
 ---
 ## DocumentHolePunch class

@@ -3,7 +3,7 @@ title: Interface PageWatermark.IPageWatermarkItem
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkIPageWatermarkItem antarmuka. Antarmuka apa sajaPageWatermark item fitur.
 type: docs
-weight: 2650
+weight: 2660
 url: /id/net/aspose.page.xps.xpsmetadata/pagewatermark.ipagewatermarkitem/
 ---
 ## PageWatermark.IPageWatermarkItem interface

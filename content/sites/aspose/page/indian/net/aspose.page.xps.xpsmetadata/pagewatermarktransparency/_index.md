@@ -3,7 +3,7 @@ title: Class PageWatermarkTransparency
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTransparency कक्ष. वटरमर्क के लए परदर्शत नर्दष्ट करत है पूर तरह से अपरदर्श क मन 0. हग https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktransparency
 type: docs
-weight: 2760
+weight: 2770
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

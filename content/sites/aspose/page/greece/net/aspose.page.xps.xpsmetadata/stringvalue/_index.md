@@ -3,7 +3,7 @@ title: Class StringValue
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.StringValue τάξη. Η κλάση που ενσωματώνει μια τιμή String σε ένα έγγραφο PrintTicket.
 type: docs
-weight: 2910
+weight: 2920
 url: /el/net/aspose.page.xps.xpsmetadata/stringvalue/
 ---
 ## StringValue class

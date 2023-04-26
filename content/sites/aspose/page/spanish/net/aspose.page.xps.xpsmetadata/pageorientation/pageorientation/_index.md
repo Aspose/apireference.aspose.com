@@ -16,7 +16,7 @@ public PageOrientation(params PageOrientationOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageOrientationOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageOrientationOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

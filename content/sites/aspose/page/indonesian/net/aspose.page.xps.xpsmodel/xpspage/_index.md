@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPage kelas. Kelas yang merangkum fitur elemen FixedPage. Elemen ini berisi konten halaman dan merupakan elemen akar dari bagian FixedPage.
 type: docs
-weight: 3230
+weight: 3240
 url: /id/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

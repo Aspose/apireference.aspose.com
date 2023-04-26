@@ -3,7 +3,7 @@ title: Class QNameValue
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.QNameValue कक्ष. वह वर्ग ज प्रंट टकट दस्तवेज़ में QName मन समहत करत है
 type: docs
-weight: 2820
+weight: 2830
 url: /hi/net/aspose.page.xps.xpsmetadata/qnamevalue/
 ---
 ## QNameValue class

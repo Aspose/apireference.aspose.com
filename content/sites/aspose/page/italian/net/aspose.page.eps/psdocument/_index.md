@@ -36,25 +36,43 @@ public sealed class PsDocument : Document
 | [Clip](../../aspose.page.eps/psdocument/clip/)(GraphicsPath) | Aggiunge clip allo stato grafico corrente. |
 | [ClipAndNewPath](../../aspose.page.eps/psdocument/clipandnewpath/)(GraphicsPath) | Aggiunge una clip allo stato grafico corrente e quindi scrive l'operatore "newpath". È necessario eseguire l'escape della confluenza di questo tracciato di ritaglio e di alcuni tracciati successivi come i glifi delineati con l'operatore "charpath". |
 | [ClipRectangle](../../aspose.page.eps/psdocument/cliprectangle/)(RectangleF) | Aggiunge un rettangolo di ritaglio allo stato grafico corrente. |
+| [ClipText](../../aspose.page.eps/psdocument/cliptext/)(string, Font, float, float) |  |
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | Completa la pagina corrente. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | Disegna un percorso arbitrario. |
 | [DrawExplicitImageMask](../../aspose.page.eps/psdocument/drawexplicitimagemask/)(Bitmap, Bitmap, Matrix) | Disegna un'immagine mascherata. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage)(Bitmap) | Disegna immagine. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage_1)(Bitmap, Matrix, Color) | Disegna un'immagine trasformata con sfondo. |
+| [DrawTransparentImage](../../aspose.page.eps/psdocument/drawtransparentimage/)(Bitmap, Matrix, int) | Disegna un'immagine trasparente trasformata. Se l'immagine non ha il canale alfa verrà disegnata come immagine opaca |
 | [Fill](../../aspose.page.eps/psdocument/fill/)(GraphicsPath) | Riempi un percorso arbitrario. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, Font, float, float, Brush, Brush, Pen) | Aggiunge una stringa di testo riempiendo l'interno dei glifi e disegnando i contorni dei glifi. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, float[], Font, float, float, Brush, Brush, Pen) | Aggiunge una stringa di testo riempiendo l'interno dei glifi e disegnando i contorni dei glifi. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, Font, float, float) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, float[], Font, float, float) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, DrFont, float, float, Brush, Pen) | Aggiunge una stringa di testo riempiendo l'interno dei glifi e disegnando i contorni dei glifi. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_3)(string, Font, float, float, Brush, Pen) | Aggiunge una stringa di testo riempiendo l'interno dei glifi e disegnando i contorni dei glifi. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, float[], DrFont, float, float, Brush, Pen) | Aggiunge una stringa di testo riempiendo l'interno dei glifi e disegnando i contorni dei glifi. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_2)(string, float[], Font, float, float, Brush, Pen) | Aggiunge una stringa di testo riempiendo l'interno dei glifi e disegnando i contorni dei glifi. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, DrFont, float, float) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_6)(string, Font, float, float) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, DrFont, float, float, Brush) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_2)(string, float[], DrFont, float, float) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_4)(string, float[], Font, float, float) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_7)(string, Font, float, float, Brush) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_3)(string, float[], DrFont, float, float, Brush) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_5)(string, float[], Font, float, float, Brush) | Aggiunge una stringa di testo riempiendo l'interno di glifi. |
 | [GetPaint](../../aspose.page.eps/psdocument/getpaint/)() | Ottiene il disegno dello stato grafico corrente. |
 | [GetStroke](../../aspose.page.eps/psdocument/getstroke/)() | Ottiene il tratto dello stato grafico corrente. |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata/)() | Legge il file PS/EPS ed estrae XmpMetdata se esiste già o ne aggiunge uno nuovo se non esiste. |
 | [Merge](../../aspose.page.eps/psdocument/merge/)(string[], Device, SaveOptions) | Unisce i file PS/EPS a un dispositivo. |
-| [OpenPage](../../aspose.page.eps/psdocument/openpage/)(float, float) | Crea una nuova pagina e la rende attuale. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, Font, float, float) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, float[], Font, float, float) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
-| [Rotate](../../aspose.page.eps/psdocument/rotate/)(float) | Aggiunge la rotazione allo stato grafico corrente (ruota matrice corrente). |
-| [Save](../../aspose.page.eps/psdocument/save/#save)() | Salvataggi dati`PsDocument` come file EPS. Questo metodo viene utilizzato solo quando PsDocument è stato creato da zero. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage_1)(string) | Crea una nuova pagina con le dimensioni del documento e la rende quella attuale. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage)(float, float) | Crea una nuova pagina e la rende attuale. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, DrFont, float, float) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_6)(string, Font, float, float) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, DrFont, float, float, Pen) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_2)(string, float[], DrFont, float, float) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_4)(string, float[], Font, float, float) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_7)(string, Font, float, float, Pen) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_3)(string, float[], DrFont, float, float, Pen) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_5)(string, float[], Font, float, float, Pen) | Aggiunge una stringa di testo disegnando i contorni dei glifi. |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate_1)(float) | Aggiunge la rotazione in senso antiorario rispetto all'origine allo stato grafico corrente (ruota matrice corrente). |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate)(int) | Aggiunge la rotazione in senso antiorario rispetto all'origine allo stato grafico corrente (ruota matrice corrente). |
+| [Save](../../aspose.page.eps/psdocument/save/#save)() | Salvataggi dati`PsDocument`come file EPS. Questo metodo viene utilizzato solo quando PsDocument è stato creato da zero. |
 | [Save](../../aspose.page.eps/psdocument/save/#save_2)(Stream) | Salvataggi dati`PsDocument` come file EPS. Questo metodo viene utilizzato solo dopo l'aggiornamento dei metadati XMP. Salva il file EPS iniziale con i metadati esistenti aggiornati o uno nuovo creato durante la chiamata al metodo GetMetadata. Nell'ultimo caso vengono aggiunti tutti i codici PostScript e i commenti EPS necessari. |
 | override [Save](../../aspose.page.eps/psdocument/save/#save_1)(Device, SaveOptions) | Salva il file PS/EPS su un dispositivo. |
 | [Scale](../../aspose.page.eps/psdocument/scale/)(float, float) | Aggiunge scala allo stato grafico corrente (scala matrice corrente). |
@@ -62,6 +80,7 @@ public sealed class PsDocument : Document
 | [SetPageSize](../../aspose.page.eps/psdocument/setpagesize/)(float, float) | Imposta le dimensioni della pagina. Per creare pagine con dimensioni diverse in un unico documento utilizzare[`SetPageDevice`](./setpagedevice/) metodo subito dopo questo metodo. |
 | [SetPaint](../../aspose.page.eps/psdocument/setpaint/)(Brush) | Imposta il disegno nello stato grafico corrente. |
 | [SetStroke](../../aspose.page.eps/psdocument/setstroke/)(Pen) | Imposta il tratto nello stato grafico corrente. |
+| [SetTransform](../../aspose.page.eps/psdocument/settransform/)(Matrix) | Imposta la trasformazione corrente su questa. |
 | [Shear](../../aspose.page.eps/psdocument/shear/)(float, float) | Aggiunge la trasformazione di taglio allo stato grafico corrente (matrice corrente di taglio). |
 | [Transform](../../aspose.page.eps/psdocument/transform/)(Matrix) | Aggiunge la trasformazione allo stato grafico corrente (concatena questa matrice con quella corrente). |
 | [Translate](../../aspose.page.eps/psdocument/translate/)(float, float) | Aggiunge la traduzione allo stato grafico corrente (traduce la matrice corrente). |

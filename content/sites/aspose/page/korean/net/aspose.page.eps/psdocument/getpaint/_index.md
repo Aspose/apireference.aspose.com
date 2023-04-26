@@ -3,7 +3,7 @@ title: PsDocument.GetPaint
 second_title: .NET API 참조용 Aspose.Page
 description: PsDocument 방법. 현재 그래픽 상태의 페인트를 가져옵니다.
 type: docs
-weight: 130
+weight: 150
 url: /ko/net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method

@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack klas. Beschreibt das hintere endliche Deckblatt. Jedes Dokument hat ein separates Blatt. Das Deckblatt sollte aufgedruckt werdenPageMediaSize UndPageMediaType wird für die letzte Seite des Dokuments verwendet. Das Deckblatt sollte in Verarbeitungsoptionen integriert werden wie zDocumentDuplex DocumentNUp  wie durch die angegebene Option angegeben. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /de/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

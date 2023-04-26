@@ -3,7 +3,7 @@ title: Class Collate.CollateOption
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.CollateCollateOption сорт. ОписываетDocumentCollate иJobCollateAllDocuments возможности вариантов.
 type: docs
-weight: 500
+weight: 510
 url: /ru/net/aspose.page.xps.xpsmetadata/collate.collateoption/
 ---
 ## Collate.CollateOption class

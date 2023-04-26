@@ -3,7 +3,7 @@ title: Class XpsIccProfile
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsIccProfile klas. Klasse die eine ICCProfilressource einkapselt.
 type: docs
-weight: 3150
+weight: 3160
 url: /de/net/aspose.page.xps.xpsmodel/xpsiccprofile/
 ---
 ## XpsIccProfile class

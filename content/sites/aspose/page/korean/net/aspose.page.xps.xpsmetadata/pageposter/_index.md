@@ -3,7 +3,7 @@ title: Class PagePoster
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PagePoster 수업. 단일 페이지의 출력을 여러 물리적 미디어 시트로 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 2410
+weight: 2420
 url: /ko/net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

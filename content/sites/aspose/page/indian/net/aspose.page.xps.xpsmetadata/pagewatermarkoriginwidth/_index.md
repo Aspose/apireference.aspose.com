@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginWidth
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginWidth कक्ष. वटरमर्क क उत्पत्त के सपेक्ष उसक उत्पत्त क नर्दष्ट करत है . https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginwidth
 type: docs
-weight: 2710
+weight: 2720
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginwidth/
 ---
 ## PageWatermarkOriginWidth class

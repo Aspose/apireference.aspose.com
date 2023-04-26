@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack klass. Beskriver det bakre avslutande försättsbladet. Varje jobb kommer att ha ett separat primärt ark. Försättsarket ska skrivas ut påPageMediaSize ochPageMediaType används för den sista sidan av jobbet. Försättsbladet bör integreras i processing options som t.exJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  som anges av det angivna alternativet. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /sv/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

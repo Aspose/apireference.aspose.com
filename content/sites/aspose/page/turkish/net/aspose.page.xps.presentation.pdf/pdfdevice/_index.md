@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice sınıf. Sınıf kapsüllü görüntü oluşturma cihazı.
 type: docs
-weight: 400
+weight: 410
 url: /tr/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class
@@ -95,7 +95,7 @@ public class PdfDevice : Device, IMultiPageDevice
 | override [SetClip](../../aspose.page.xps.presentation.pdf/pdfdevice/setclip/)(GraphicsPath) | Belirtilen yolu geçerli klip yoluna ekler. |
 | virtual [SetHyperlinkTarget](../../aspose.page.xps.presentation.pdf/pdfdevice/sethyperlinktarget/#sethyperlinktarget)(int) | Hedefi olarak bir sayfa numarasına sahip köprüyü ayarlar. |
 | virtual [SetHyperlinkTarget](../../aspose.page.xps.presentation.pdf/pdfdevice/sethyperlinktarget/#sethyperlinktarget_1)(string) | Hedefi olarak harici bir URI ile köprüyü ayarlar. |
-| override [SetTransform](../../aspose.page.xps.presentation.pdf/pdfdevice/settransform/)(Matrix) | Geçerli dönüşüm matrisini ayarlar. |
+| override [SetTransform](../../aspose.page.xps.presentation.pdf/pdfdevice/settransform/)(Matrix) | Geçerli dönüştürme matrisini ayarlar. |
 | override [Shear](../../aspose.page.xps.presentation.pdf/pdfdevice/shear/)(double, double) | Belirtilen kesme vektörünü mevcut dönüşüm matrisine uygular. |
 | override [StartDocument](../../aspose.page.xps.presentation.pdf/pdfdevice/startdocument/)() | Belgeyi başlatır. |
 | override [ToString](../../aspose.page/device/tostring/)() | Aygıt türünün adını döndürür. |

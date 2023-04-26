@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet sınıf. İş için çıktısı alınacak başlık sayfasını tanımlar. Afiş sayfası default üzerinde çıkarılmalıdır.PageMediaSize ve varsayılanı kullanarakPageMediaType . Afiş sayfası işin geri kalanından izole edilmelidir . Bu tüm bitirme veya işleme seçeneklerinin as gibiJobDuplexAllDocumentsContiguously JobStapleAllDocuments  veyaJobBindAllDocuments  başlık sayfasını içermemelidir. Afiş sayfası işin ilk sayfası olarak görünmelidir.
 type: docs
-weight: 1470
+weight: 1480
 url: /tr/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

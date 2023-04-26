@@ -3,7 +3,7 @@ title: Class XpsRgbColor
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsRgbColor classe. Incapsule la couleur RVB de nimporte quel espace colorimétrique sRGB ou scRGB.
 type: docs
-weight: 3340
+weight: 3350
 url: /fr/net/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class

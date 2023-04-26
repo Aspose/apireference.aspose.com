@@ -3,7 +3,7 @@ title: Class XpsRgbColor
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsRgbColor klas. Kapselt die RGBFarbe eines beliebigen Farbraums sRGB oder scRGB.
 type: docs
-weight: 3340
+weight: 3350
 url: /de/net/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class

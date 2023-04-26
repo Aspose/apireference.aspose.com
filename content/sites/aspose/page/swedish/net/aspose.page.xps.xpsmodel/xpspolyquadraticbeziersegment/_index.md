@@ -3,7 +3,7 @@ title: Class XpsPolyQuadraticBezierSegment
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsPolyQuadraticBezierSegment klass. Klass inkapslande PolyQuadraticBezierSegment elementegenskaper. Detta element beskriver en uppsättning kvadratiska Bézierkurvor från föregående punkt i vägfiguren genom en uppsättning hörn med hjälp av specificerade kontrollpunkter.
 type: docs
-weight: 3320
+weight: 3330
 url: /sv/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple 수업. 출력의 스테이플링 특성을 설명합니다. 각 문서는 별도로 스테이플됩니다. TheJobStapleAllDocuments 그리고DocumentStaple키워드는 상호 배타적입니다. 이러한 키워드 간의 제약 조건 처리를 결정하는 것은 드라이버에 달려 있습니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /ko/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

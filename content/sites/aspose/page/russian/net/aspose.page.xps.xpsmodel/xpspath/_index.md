@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPath сорт. Класс инкапсулирующий функции элемента Path. Этот элемент является единственным средством добавления векторной графики и изображений на фиксированную страницу. Он определяет одну векторную графику которая будет отображаться на странице.
 type: docs
-weight: 3250
+weight: 3260
 url: /ru/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

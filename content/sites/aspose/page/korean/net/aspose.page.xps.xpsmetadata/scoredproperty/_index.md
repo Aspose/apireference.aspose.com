@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty 수업. 공통 PrintTicket을 구현하는 클래스 . 모든 스키마 정의 채점 속성의 기본 클래스입니다. A 요소는 an 에 고유한 속성을 선언합니다.Option 정의. 이러한 속성은 평가 할 때 비교되어야 합니다.Option 장치 지원과 일치Option . https//docs.microsoft.com/enus/windows/win32/printdocs/scoredproperty
 type: docs
-weight: 2850
+weight: 2860
 url: /ko/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

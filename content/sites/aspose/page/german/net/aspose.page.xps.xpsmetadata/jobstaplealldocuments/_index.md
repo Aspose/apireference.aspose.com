@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments klas. Beschreibt die Hefteigenschaften der Ausgabe. Alle Dokumente im Auftrag werden zusammengeheftet. DieJobStapleAllDocuments UndDocumentStaple Schlüsselwörter schließen sich gegenseitig aus. Es ist Aufgabe des Treibers die Behandlung von Einschränkungen zwischen diesen Schlüsselwörtern zu bestimmen. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /de/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

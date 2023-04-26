@@ -3,7 +3,7 @@ title: Class RollCut.RollCutOption
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.RollCutRollCutOption klas. Beschreibt dieJobRollCutAtEndOfJob UndDocumentRollCut Funktionen Optionen.
 type: docs
-weight: 2840
+weight: 2850
 url: /de/net/aspose.page.xps.xpsmetadata/rollcut.rollcutoption/
 ---
 ## RollCut.RollCutOption class

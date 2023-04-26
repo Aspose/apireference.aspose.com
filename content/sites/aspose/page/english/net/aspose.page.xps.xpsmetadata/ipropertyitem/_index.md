@@ -3,7 +3,7 @@ title: IPropertyItem
 second_title: Aspose.Page for .NET API Reference
 description: The base interface for classes that may be a PrintTicket Property./property items.
 type: docs
-weight: 980
+weight: 990
 url: /net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

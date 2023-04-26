@@ -3,7 +3,7 @@ title: Class JobInputBin
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobInputBin فصل. يصف حاوية الإدخال المثبتة في الجهاز أو القائمة الكاملة للحاويات المدعومة لجهاز . يسمح بمواصفات حاوية الإدخال على أساس كل مهمة. الJobInputBin وDocumentInputBin و وPageInputBin الكلمات الرئيسية متنافية. لا يجب تحديد كليهما في نفس الوقت في مستند PrintTicket أو مستند إمكانيات الطباعة . https//docs.microsoft.com/enus/windows/win32/printdocs/jobinputbin
 type: docs
-weight: 1370
+weight: 1380
 url: /ar/net/aspose.page.xps.xpsmetadata/jobinputbin/
 ---
 ## JobInputBin class

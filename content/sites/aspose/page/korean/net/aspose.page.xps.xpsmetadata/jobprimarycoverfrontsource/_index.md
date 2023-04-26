@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFrontSource
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontSource 수업. 작업에 대한 사용자 정의 앞표지 기본 시트의 소스를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfrontsource
 type: docs
-weight: 1550
+weight: 1560
 url: /ko/net/aspose.page.xps.xpsmetadata/jobprimarycoverfrontsource/
 ---
 ## JobPrimaryCoverFrontSource class

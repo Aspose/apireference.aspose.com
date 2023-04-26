@@ -3,7 +3,7 @@ title: Class HolePunch.HolePunchOption
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.HolePunchHolePunchOption τάξη. Περιγράφει τοHolePunch επιλογές χαρακτηριστικών.
 type: docs
-weight: 890
+weight: 900
 url: /el/net/aspose.page.xps.xpsmetadata/holepunch.holepunchoption/
 ---
 ## HolePunch.HolePunchOption class

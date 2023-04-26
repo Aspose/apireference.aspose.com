@@ -3,7 +3,7 @@ title: Class PageResolution.PageResolutionOption
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionPageResolutionOption classe. Décrit lePageResolution options de fonctionnalités.
 type: docs
-weight: 2460
+weight: 2470
 url: /fr/net/aspose.page.xps.xpsmetadata/pageresolution.pageresolutionoption/
 ---
 ## PageResolution.PageResolutionOption class

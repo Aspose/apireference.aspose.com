@@ -1,14 +1,14 @@
 ---
 title: ImageDevice.SetTransform
 second_title: Aspose.Page for .NET API Referansı
-description: ImageDevice yöntem. Geçerli dönüşüm matrisini ayarlar.
+description: ImageDevice yöntem. Geçerli dönüştürme matrisini ayarlar.
 type: docs
 weight: 300
 url: /tr/net/aspose.page.xps.presentation.image/imagedevice/settransform/
 ---
 ## ImageDevice.SetTransform method
 
-Geçerli dönüşüm matrisini ayarlar.
+Geçerli dönüştürme matrisini ayarlar.
 
 ```csharp
 public override void SetTransform(Matrix transform)

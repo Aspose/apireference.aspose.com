@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter クラス. 指定方法について説明しますスコアリングされたプロパティ値 整数値またはパラメータ.
 type: docs
-weight: 1160
+weight: 1170
 url: /ja/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

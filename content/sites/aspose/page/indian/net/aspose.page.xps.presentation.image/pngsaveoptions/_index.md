@@ -3,7 +3,7 @@ title: Class PngSaveOptions
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Image.PngSaveOptions कक्ष. XPSasPNG बचत वकल्पं के लए वर्ग
 type: docs
-weight: 380
+weight: 390
 url: /hi/net/aspose.page.xps.presentation.image/pngsaveoptions/
 ---
 ## PngSaveOptions class

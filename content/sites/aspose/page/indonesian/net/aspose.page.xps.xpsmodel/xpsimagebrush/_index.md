@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush kelas. Kelas yang merangkum fitur elemen properti ImageBrush. Elemen ini digunakan untuk mengisi suatu wilayah dengan gambar.
 type: docs
-weight: 3170
+weight: 3180
 url: /id/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

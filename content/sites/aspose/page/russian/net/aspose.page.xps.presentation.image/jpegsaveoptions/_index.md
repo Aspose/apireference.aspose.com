@@ -3,7 +3,7 @@ title: Class JpegSaveOptions
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.Presentation.Image.JpegSaveOptions сорт. Класс для параметров сохранения XPSкакJPEG.
 type: docs
-weight: 370
+weight: 380
 url: /ru/net/aspose.page.xps.presentation.image/jpegsaveoptions/
 ---
 ## JpegSaveOptions class

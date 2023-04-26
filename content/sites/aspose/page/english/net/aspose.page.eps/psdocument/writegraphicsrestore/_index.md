@@ -3,7 +3,7 @@ title: WriteGraphicsRestore
 second_title: Aspose.Page for .NET API Reference
 description: Writes restoring of the current graphics state See PostScript specification on operator grestore.
 type: docs
-weight: 290
+weight: 320
 url: /net/aspose.page.eps/psdocument/writegraphicsrestore/
 ---
 ## PsDocument.WriteGraphicsRestore method

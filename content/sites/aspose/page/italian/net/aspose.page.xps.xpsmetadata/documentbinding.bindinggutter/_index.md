@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingGutter
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingGutter classe. Descrive il modo per specificare il file valore della proprietà segnato se da un valore intero o dal riferimento a parametro.
 type: docs
-weight: 570
+weight: 580
 url: /it/net/aspose.page.xps.xpsmetadata/documentbinding.bindinggutter/
 ---
 ## DocumentBinding.BindingGutter class

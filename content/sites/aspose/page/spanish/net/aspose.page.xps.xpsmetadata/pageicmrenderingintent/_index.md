@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntent clase. Describe el intento de reproducción según lo define la especificación ICC v2. Este valor debe ignorarse si una imagen o elemento gráfico tiene un perfil incrustado que especifica el intento de reproducción. https//docs.microsoft.com/enus/ ventanas/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1990
+weight: 2000
 url: /es/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

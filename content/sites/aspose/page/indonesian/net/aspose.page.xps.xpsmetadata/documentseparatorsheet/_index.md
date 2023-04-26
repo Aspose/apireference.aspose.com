@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet kelas. Menjelaskan penggunaan lembar pemisah untuk dokumen. Lembar pemisah akan muncul di keluaran seperti yang ditunjukkan oleh Opsi yang ditentukan di bawah. https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet
 type: docs
-weight: 800
+weight: 810
 url: /id/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

@@ -3,7 +3,7 @@ title: Class XpsIccProfile
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsIccProfile сорт. Класс инкапсулирующий ресурс профиля ICC.
 type: docs
-weight: 3150
+weight: 3160
 url: /ru/net/aspose.page.xps.xpsmodel/xpsiccprofile/
 ---
 ## XpsIccProfile class

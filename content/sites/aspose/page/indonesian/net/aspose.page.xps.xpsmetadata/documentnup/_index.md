@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp kelas. Menjelaskan keluaran dan format beberapa halaman logis ke satu lembar fisik. Setiap dokumen dikompilasi secara terpisah. DanJobNUpAllDocumentsContiguously saling eksklusif. Terserah pengemudi untuk menentukan penanganan kendala antara kata kunci ini. https//docs.microsoft.com/enus/windows/win32/printdocs/documentnup
 type: docs
-weight: 740
+weight: 750
 url: /id/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

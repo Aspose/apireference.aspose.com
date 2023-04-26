@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter कक्ष. नर्दष्ट करने के तरके क वर्णन करत है अर्जत गुण मन चहे पूर्णंक मन द्वर य संदर्भ द्वर पैरमटर.
 type: docs
-weight: 1160
+weight: 1170
 url: /hi/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

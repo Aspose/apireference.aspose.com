@@ -3,7 +3,7 @@ title: Class PrintTicketElement
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PrintTicketElement クラス. 印刷スキーマ要素である可能性があるクラスの基本クラス
 type: docs
-weight: 2800
+weight: 2810
 url: /ja/net/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

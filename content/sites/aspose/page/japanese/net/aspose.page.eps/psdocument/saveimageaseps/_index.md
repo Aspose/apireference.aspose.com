@@ -3,7 +3,7 @@ title: PsDocument.SaveImageAsEps
 second_title: Aspose.Page for .NET API リファレンス
 description: PsDocument 方法. PNG/JPEG/TIFF/BMP/GIF/EMF 画像を入力ストリームから EPS 出力ストリームに保存します
 type: docs
-weight: 310
+weight: 340
 url: /ja/net/aspose.page.eps/psdocument/saveimageaseps/
 ---
 ## SaveImageAsEps(Stream, Stream, PsSaveOptions) {#saveimageaseps_2}

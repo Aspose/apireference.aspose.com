@@ -3,7 +3,7 @@ title: Interface IScoredPropertyItem
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.IScoredPropertyItem arayüz. PrintTicket olabilecek sınıflar için temel arabirimScoredProperty öğeler.
 type: docs
-weight: 990
+weight: 1000
 url: /tr/net/aspose.page.xps.xpsmetadata/iscoredpropertyitem/
 ---
 ## IScoredPropertyItem interface

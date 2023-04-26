@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Ορίζει το stroke στην τρέχουσα κατάσταση γραφικών.
 type: docs
-weight: 250
+weight: 270
 url: /el/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

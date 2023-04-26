@@ -3,7 +3,7 @@ title: Class XpsHyperlinkElement
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkElement कक्ष. XPS तत्वं क समन्य वशेषतओं क सम्मलत करत है ज एक हइपरलंक ह सकत है
 type: docs
-weight: 3120
+weight: 3130
 url: /hi/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

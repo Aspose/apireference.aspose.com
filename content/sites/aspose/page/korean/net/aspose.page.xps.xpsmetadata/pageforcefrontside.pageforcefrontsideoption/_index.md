@@ -3,7 +3,7 @@ title: Class PageForceFrontSide.PageForceFrontSideOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSidePageForceFrontSideOption 수업. 설명PageForceFrontSide 기능 옵션.
 type: docs
-weight: 1980
+weight: 1990
 url: /ko/net/aspose.page.xps.xpsmetadata/pageforcefrontside.pageforcefrontsideoption/
 ---
 ## PageForceFrontSide.PageForceFrontSideOption class

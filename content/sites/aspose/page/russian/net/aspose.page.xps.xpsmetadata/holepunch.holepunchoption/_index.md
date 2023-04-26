@@ -3,7 +3,7 @@ title: Class HolePunch.HolePunchOption
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.HolePunchHolePunchOption сорт. ОписываетHolePunch параметры функции.
 type: docs
-weight: 890
+weight: 900
 url: /ru/net/aspose.page.xps.xpsmetadata/holepunch.holepunchoption/
 ---
 ## HolePunch.HolePunchOption class

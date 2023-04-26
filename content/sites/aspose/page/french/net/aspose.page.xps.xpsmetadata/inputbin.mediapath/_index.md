@@ -3,7 +3,7 @@ title: Class InputBin.MediaPath
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath classe. Définit les constantes pour le valeur de propriété notée.
 type: docs
-weight: 1080
+weight: 1090
 url: /fr/net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class

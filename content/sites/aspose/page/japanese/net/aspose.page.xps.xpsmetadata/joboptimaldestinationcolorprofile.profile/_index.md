@@ -3,7 +3,7 @@ title: Class JobOptimalDestinationColorProfile.Profile
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobOptimalDestinationColorProfileProfile クラス. 利用可能なカラー プロファイルについて説明します
 type: docs
-weight: 1410
+weight: 1420
 url: /ja/net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile.profile/
 ---
 ## JobOptimalDestinationColorProfile.Profile class

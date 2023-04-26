@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsPath sınıf. Sınıf Yol öğesi özelliklerini kapsar. Bu öğe sabit bir sayfaya vektör grafikleri ve resimler eklemenin tek yoludur. Bir sayfada işlenecek tek bir vektör grafiğini tanımlar.
 type: docs
-weight: 3250
+weight: 3260
 url: /tr/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class
@@ -35,7 +35,7 @@ public sealed class XpsPath : XpsContentElement
 | [StrokeLineJoin](../../aspose.page.xps.xpsmodel/xpspath/strokelinejoin/) { get; set; } | Konturdaki ilk çizginin başlangıcının şeklini tanımlayan değeri döndürür/ayarlar. |
 | [StrokeMiterLimit](../../aspose.page.xps.xpsmodel/xpspath/strokemiterlimit/) { get; set; } | Maksimum gönye uzunluğu ile darbe kalınlığının yarısı arasındaki oranı verir/ayarlar. Bu değer yalnızca`StrokeLineJoin` öznitelik belirtir`Gönye` . |
 | [StrokeStartLineCap](../../aspose.page.xps.xpsmodel/xpspath/strokestartlinecap/) { get; set; } | Konturdaki ilk çizginin başlangıcının şeklini tanımlayan değeri döndürür/ayarlar. |
-| [StrokeThickness](../../aspose.page.xps.xpsmodel/xpspath/strokethickness/) { get; set; } | Etkili koordinat uzayının birimlerinde bir konturun kalınlığını döndürür/ayarlar (yolun render dönüşümünü içerir). Kontur, Path öğesinin Data özelliği tarafından belirtilen geometrisinin sınırının üstüne çizilir. StrokeThickness öğesinin yarısı, Data özelliği tarafından belirtilen geometrinin dışına uzanır ve diğer yarısı , geometrinin içine uzanır. |
+| [StrokeThickness](../../aspose.page.xps.xpsmodel/xpspath/strokethickness/) { get; set; } | Etkili koordinat alanı (yolun oluşturma dönüşümünü içerir) of birimleri cinsinden bir konturun kalınlığını döndürür/ayarlar. Kontur, Path öğesinin Data özelliği tarafından belirtilen geometrisinin sınırının üzerine çizilir. StrokeThickness öğesinin yarısı, Data özelliği tarafından belirtilen geometrinin dışına uzanır ve diğer yarısı , geometrinin içine uzanır. |
 
 ## yöntemler
 

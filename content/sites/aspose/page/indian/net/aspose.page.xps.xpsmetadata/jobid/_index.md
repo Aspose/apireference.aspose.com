@@ -3,7 +3,7 @@ title: Class JobID
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobID कक्ष. नकर के लए एक अद्वतय आईड नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/jobid
 type: docs
-weight: 1360
+weight: 1370
 url: /hi/net/aspose.page.xps.xpsmetadata/jobid/
 ---
 ## JobID class

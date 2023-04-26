@@ -3,7 +3,7 @@ title: Class SelectionType
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.SelectionType kelas. Kelas kemudahan untuk properti SelectionType PrintTicket.
 type: docs
-weight: 2860
+weight: 2870
 url: /id/net/aspose.page.xps.xpsmetadata/selectiontype/
 ---
 ## SelectionType class

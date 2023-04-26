@@ -3,7 +3,7 @@ title: Class Collate
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Collate 수업. 의 기본 클래스DocumentCollate 그리고JobCollateAllDocuments 기능 클래스.
 type: docs
-weight: 490
+weight: 500
 url: /ko/net/aspose.page.xps.xpsmetadata/collate/
 ---
 ## Collate class

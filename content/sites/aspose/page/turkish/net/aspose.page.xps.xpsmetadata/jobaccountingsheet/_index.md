@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet sınıf. İş için çıktısı alınacak hesap tablosunu tanımlar. Muhasebe sayfası default üzerinde çıkarılmalıdır.PageMediaSize ve varsayılanı kullanarakPageMediaType . Muhasebe sayfası to işin geri kalanından izole edilmelidir. Bu tüm bitirme veya işleme seçeneklerinin  gibi   veya  muhasebe tablosunu içermemelidir. Hesap tablosu uygulayıcının takdirine bağlı olarak işin ilk veya son sayfası olarak ortaya çıkabilir. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /tr/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

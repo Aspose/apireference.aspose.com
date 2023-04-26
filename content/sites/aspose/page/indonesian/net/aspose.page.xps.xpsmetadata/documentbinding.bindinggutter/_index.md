@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingGutter
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingGutter kelas. Menjelaskan cara menentukan mencetak nilai properti apakah dengan nilai integer atau referensi ke parameter.
 type: docs
-weight: 570
+weight: 580
 url: /id/net/aspose.page.xps.xpsmetadata/documentbinding.bindinggutter/
 ---
 ## DocumentBinding.BindingGutter class

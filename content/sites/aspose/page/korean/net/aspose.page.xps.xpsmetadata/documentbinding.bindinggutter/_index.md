@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingGutter
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingGutter 수업. 를 지정하는 방법을 설명합니다. 점수가 매겨진 속성 값 정수 값 또는 매개변수.
 type: docs
-weight: 570
+weight: 580
 url: /ko/net/aspose.page.xps.xpsmetadata/documentbinding.bindinggutter/
 ---
 ## DocumentBinding.BindingGutter class

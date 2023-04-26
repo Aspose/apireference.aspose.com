@@ -3,7 +3,7 @@ title: PsDocument.Draw
 second_title: .NET API 참조용 Aspose.Page
 description: PsDocument 방법. 임의의 경로를 그립니다.
 type: docs
-weight: 70
+weight: 80
 url: /ko/net/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument.Draw method

@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem 상호 작용. 인쇄 스키마일 수 있는 클래스의 기본 인터페이스Feature 항목.
 type: docs
-weight: 920
+weight: 930
 url: /ko/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

@@ -3,7 +3,7 @@ title: Class JobURI
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobURI sınıf. Belge için tek tip bir kaynak tanımlayıcısı URI belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/joburi
 type: docs
-weight: 1590
+weight: 1600
 url: /tr/net/aspose.page.xps.xpsmetadata/joburi/
 ---
 ## JobURI class

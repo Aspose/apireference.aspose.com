@@ -3,7 +3,7 @@ title: UserProperties.PropertyNames
 second_title: .NET API 참조용 Aspose.Page
 description: UserProperties 방법. 속성 이름을 반환합니다.
 type: docs
-weight: 130
+weight: 140
 url: /ko/net/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties.PropertyNames method

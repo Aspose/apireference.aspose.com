@@ -3,7 +3,7 @@ title: PsDocument.ClosePage
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. إكمال الصفحة الحالية .
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.page.eps/psdocument/closepage/
 ---
 ## PsDocument.ClosePage method

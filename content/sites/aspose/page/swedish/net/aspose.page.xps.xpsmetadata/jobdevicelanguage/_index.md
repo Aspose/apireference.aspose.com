@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage klass. Beskriver enhetsspråken som stöds för att skicka data från drivrutinen till fysisk enhet. Detta kallas ofta Sidbeskrivningsspråk. Detta nyckelord definierar vilket sidbeskrivningsspråk som stöds av drivrutinen och den fysiska enheten. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /sv/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

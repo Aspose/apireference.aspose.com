@@ -3,7 +3,7 @@ title: Class PageDeviceFontSubstitution
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceFontSubstitution कक्ष. डवइस फ़न्ट प्रतस्थपन क सक्षम/अक्षम स्थत क वर्णन करत है
 type: docs
-weight: 1950
+weight: 1960
 url: /hi/net/aspose.page.xps.xpsmetadata/pagedevicefontsubstitution/
 ---
 ## PageDeviceFontSubstitution class

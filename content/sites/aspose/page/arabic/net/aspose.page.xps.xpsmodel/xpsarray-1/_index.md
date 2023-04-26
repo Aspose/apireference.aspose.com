@@ -3,7 +3,7 @@ title: Class XpsArrayT
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsArray1T فصل. فئة تتضمن ميزات كائن مصفوفة نموذج XPS الشائعة.
 type: docs
-weight: 2950
+weight: 2960
 url: /ar/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

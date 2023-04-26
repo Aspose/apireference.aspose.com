@@ -3,7 +3,7 @@ title: Class XpsPathPolySegment
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPathPolySegment 수업. PolyLineSegment PolyBézierSegment 및 PolyQuadraticBézierSegment 요소의 공통 기능을 캡슐화하는 클래스입니다.
 type: docs
-weight: 3280
+weight: 3290
 url: /ko/net/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class

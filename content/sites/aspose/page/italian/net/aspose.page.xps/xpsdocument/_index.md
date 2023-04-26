@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsDocument classe. Classe che incapsula lentità principale del documento XPS che fornisce metodi di manipolazione per qualsiasi elemento XPS.
 type: docs
-weight: 470
+weight: 480
 url: /it/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class
@@ -60,7 +60,7 @@ public sealed class XpsDocument : Document, IDisposable
 | [CreateColor](../../aspose.page.xps/xpsdocument/createcolor/#createcolor_4)(float, float, float, float) | Crea un nuovo colore nello spazio colore scRGB. |
 | [CreateColor](../../aspose.page.xps/xpsdocument/createcolor/#createcolor_2)(int, int, int, int) | Crea un nuovo colore nello spazio colore sRGB. |
 | [CreateFont](../../aspose.page.xps/xpsdocument/createfont/#createfont)(Stream) | Crea una nuova risorsa font TrueType fuori dallo stream. |
-| [CreateFont](../../aspose.page.xps/xpsdocument/createfont/#createfont_1)(string, FontStyle) | Crea una nuova risorsa carattere TrueType. |
+| [CreateFont](../../aspose.page.xps/xpsdocument/createfont/#createfont_1)(string, FontStyle) | Crea una nuova risorsa font TrueType. |
 | [CreateGlyphs](../../aspose.page.xps/xpsdocument/createglyphs/#createglyphs)(XpsFont, float, float, float, string) | Crea nuovi glifi. |
 | [CreateGlyphs](../../aspose.page.xps/xpsdocument/createglyphs/#createglyphs_1)(string, float, FontStyle, float, float, string) | Crea nuovi glifi. |
 | [CreateGradientStop](../../aspose.page.xps/xpsdocument/creategradientstop/#creategradientstop_1)(Color, float) | Crea una nuova interruzione del gradiente. |

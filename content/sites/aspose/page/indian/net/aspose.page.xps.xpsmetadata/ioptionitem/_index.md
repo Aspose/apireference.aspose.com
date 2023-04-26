@@ -3,7 +3,7 @@ title: Interface IOptionItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IOptionItem इंटरफेस. कक्षओं क इंटरफ़ेस ज प्रंट स्कम ह सकत हैOption आइटम.
 type: docs
-weight: 940
+weight: 950
 url: /hi/net/aspose.page.xps.xpsmetadata/ioptionitem/
 ---
 ## IOptionItem interface

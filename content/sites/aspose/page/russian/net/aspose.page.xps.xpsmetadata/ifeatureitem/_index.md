@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem интерфейс. Базовый интерфейс для классов которые могут быть схемой печати.Feature предметы.
 type: docs
-weight: 920
+weight: 930
 url: /ru/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

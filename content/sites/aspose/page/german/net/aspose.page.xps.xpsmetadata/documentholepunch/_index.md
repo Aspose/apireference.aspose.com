@@ -3,7 +3,7 @@ title: Class DocumentHolePunch
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentHolePunch klas. Beschreibt die Lochungseigenschaften der Ausgabe. Jedes Dokument wird separat gelocht. DieJobHolePunch UndDocumentHolePunch Schlüsselwörter schließen sich gegenseitig aus. Beide sollten nicht gleichzeitig in einem PrintTicket oder Print CapabilitiesDokument angegeben werden. https//docs.microsoft.com/enus/windows/win32/printdocs/documentholepunch
 type: docs
-weight: 700
+weight: 710
 url: /de/net/aspose.page.xps.xpsmetadata/documentholepunch/
 ---
 ## DocumentHolePunch class

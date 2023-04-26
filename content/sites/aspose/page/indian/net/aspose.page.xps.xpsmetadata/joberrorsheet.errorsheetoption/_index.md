@@ -3,7 +3,7 @@ title: Class JobErrorSheet.ErrorSheetOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetErrorSheetOption कक्ष. क वर्णन करत हैJobErrorSheet सुवध वकल्प.
 type: docs
-weight: 1300
+weight: 1310
 url: /hi/net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetoption/
 ---
 ## JobErrorSheet.ErrorSheetOption class

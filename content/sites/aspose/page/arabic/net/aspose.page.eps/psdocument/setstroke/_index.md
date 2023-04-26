@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. يضبط الشطب في حالة الرسومات الحالية.
 type: docs
-weight: 250
+weight: 270
 url: /ar/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

@@ -3,7 +3,7 @@ title: Class Option
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.Option فصل. الفئة التي تقوم بتنفيذ PrintTicket مشترك . الفئة الأساسية لجميع الخيارات المعرفة من قبل المخطط . يحتوي عنصر الخيار على كلProperty و ScoredProperty العناصر المرتبطة بهذا الخيار . https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 1650
+weight: 1660
 url: /ar/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page pour la référence de l'API .NET
 description: PsDocument méthode. Ajoute une transformation de cisaillement à létat graphique actuel matrice de courant de cisaillement.
 type: docs
-weight: 260
+weight: 290
 url: /fr/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

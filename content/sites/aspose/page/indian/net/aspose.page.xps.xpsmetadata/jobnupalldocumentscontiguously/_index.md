@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously कक्ष. एक भतक पत्रक के लए कई तर्कक पृष्ठं के आउटपुट क वर्णन करत है Job में सभ दस्तवेज़ एक सथ संकलत कए गए हैंJobNUpAllDocumentsContiguously औरDocumentNUp परस्पर अनन्य हैं इन कवर्ड्स के बच बध से नपटने क नर्धरण करन ड्रइवर पर नर्भर है
 type: docs
-weight: 1380
+weight: 1390
 url: /hi/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

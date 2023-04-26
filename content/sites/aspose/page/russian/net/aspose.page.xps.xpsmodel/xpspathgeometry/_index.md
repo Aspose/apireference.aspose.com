@@ -3,7 +3,7 @@ title: Class XpsPathGeometry
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPathGeometry сорт. Класс инкапсулирующий функции элемента свойства PathGeometry. Этот элемент содержит набор фигур пути указанных либо с помощью атрибута Figures либо с дочерним элементом PathFigure.
 type: docs
-weight: 3270
+weight: 3280
 url: /ru/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class

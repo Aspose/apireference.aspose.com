@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush 수업. VisualBrush 속성 요소 기능을 캡슐화하는 클래스. 이 요소는 그림으로 영역을 채우는 데 사용됩니다.
 type: docs
-weight: 3420
+weight: 3430
 url: /ko/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

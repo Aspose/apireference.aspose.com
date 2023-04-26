@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush classe. Classe che incapsula le caratteristiche dellelemento di proprietà LinearGradientBrush. Questo elemento viene utilizzato per specificare un pennello sfumato lineare lungo un vettore.
 type: docs
-weight: 3200
+weight: 3210
 url: /it/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

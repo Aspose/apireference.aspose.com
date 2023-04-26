@@ -3,7 +3,7 @@ title: JobPrimaryBannerSheet
 second_title: Aspose.Page for .NET API Reference
 description: Describes the banner sheet to be output for the job. The banner sheet should be output on the default PageMediaSize./pagemediasize and using the default PageMediaType./pagemediatype. The banner sheet should be isolated from the remainder of the job. This means that any finishing or processing options such as JobDuplexAllDocumentsContiguously./jobduplexalldocumentscontiguously JobStapleAllDocuments./jobstaplealldocuments or JobBindAllDocuments./jobbindalldocuments should not include the banner sheet. The banner sheet should occur as the first sheet of the job.
 type: docs
-weight: 1470
+weight: 1480
 url: /net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

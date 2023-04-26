@@ -3,7 +3,7 @@ title: Class PageCopies
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageCopies 班级. 指定页面的副本数 https//docs.microsoft.com/enus/windows/win32/printdocs/pagecopies
 type: docs
-weight: 1870
+weight: 1880
 url: /zh/net/aspose.page.xps.xpsmetadata/pagecopies/
 ---
 ## PageCopies class

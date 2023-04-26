@@ -3,7 +3,7 @@ title: Class PageScalingOffsetWidth
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetWidth сорт. Определяет смещение масштабирования в направление пользовательского масштабирования. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetwidth
 type: docs
-weight: 2540
+weight: 2550
 url: /ru/net/aspose.page.xps.xpsmetadata/pagescalingoffsetwidth/
 ---
 ## PageScalingOffsetWidth class

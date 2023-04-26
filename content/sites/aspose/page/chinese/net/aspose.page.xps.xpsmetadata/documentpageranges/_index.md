@@ -3,7 +3,7 @@ title: Class DocumentPageRanges
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentPageRanges 班级. 以页为单位描述文档的输出范围参数值必须符合以下结构  PageRangeTextPageRange或PageRangePageRange  PageRangePageNumber或PageNumberPageNumber  PageNumber1 到 N其中 N 是页数文档中的页数如果 PageNumber  N则 PageNumber  N. 应忽略字符串中的空格 https//docs.microsoft.com/enus/windows/win32/printdocs/documentpageranges
 type: docs
-weight: 770
+weight: 780
 url: /zh/net/aspose.page.xps.xpsmetadata/documentpageranges/
 ---
 ## DocumentPageRanges class

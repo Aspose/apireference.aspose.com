@@ -3,7 +3,7 @@ title: Class PageScalingScale
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScale कक्ष. कस्टम स्क्वयर स्केलंग के लए स्केलंग करक नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscale
 type: docs
-weight: 2550
+weight: 2560
 url: /hi/net/aspose.page.xps.xpsmetadata/pagescalingscale/
 ---
 ## PageScalingScale class

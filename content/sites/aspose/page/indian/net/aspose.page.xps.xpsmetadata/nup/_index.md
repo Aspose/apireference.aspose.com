@@ -3,7 +3,7 @@ title: Class NUp
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.NUp कक्ष. के लए आधर वर्गJobNUpAllDocumentsContiguously औरDocumentNUp में कक्षएं हैं
 type: docs
-weight: 1600
+weight: 1610
 url: /hi/net/aspose.page.xps.xpsmetadata/nup/
 ---
 ## NUp class

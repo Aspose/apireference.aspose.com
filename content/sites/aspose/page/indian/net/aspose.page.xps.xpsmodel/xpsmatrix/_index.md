@@ -3,7 +3,7 @@ title: Class XpsMatrix
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsMatrix कक्ष. क्लस इनकैप्सुलेटंग मैट्रक्सट्रंसफर्म प्रपर्ट एलमेंट फचर्स यह एलमेंट तत्वं के नर्देशंक सस्टम में हेरफेर करने के लए उपयग कए जने वले मनमने ढंग से एफ़न मैट्रक्स ट्रंसफ़र्मेशन क परभषत करत है
 type: docs
-weight: 3210
+weight: 3220
 url: /hi/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

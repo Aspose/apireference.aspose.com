@@ -3,7 +3,7 @@ title: Class DocumentPageRanges
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentPageRanges τάξη. Περιγράφει το εύρος εξόδου του εγγράφου σε σελίδες. Η τιμή της παραμέτρου πρέπει να συμμορφώνεται με την ακόλουθη δομή  PageRangeText PageRange ή PageRangePageRange PageRange PageNumber ή PageNumberPageNumber PageNumber όπου ο αριθμός Σελίδας N έως 1 σελίδες στο έγγραφο. Εάν Αριθμός Σελίδας  N τότε το Κενό διάστημα στη συμβολοσειρά θα πρέπει να αγνοηθεί. https//docs.microsoft.com/enus/windows/win32/printdocs/documentpageranges
 type: docs
-weight: 770
+weight: 780
 url: /el/net/aspose.page.xps.xpsmetadata/documentpageranges/
 ---
 ## DocumentPageRanges class

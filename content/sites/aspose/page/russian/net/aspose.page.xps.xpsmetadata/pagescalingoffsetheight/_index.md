@@ -3,7 +3,7 @@ title: Class PageScalingOffsetHeight
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetHeight сорт. Определяет смещение масштабирования в направление пользовательского масштабирования. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetheight
 type: docs
-weight: 2530
+weight: 2540
 url: /ru/net/aspose.page.xps.xpsmetadata/pagescalingoffsetheight/
 ---
 ## PageScalingOffsetHeight class

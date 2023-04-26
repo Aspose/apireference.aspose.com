@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor klass. Programinnehåll märkt med den angivna namngivna färgen MÅSTE visas på alla färgseparationer. https//docs.microsoft.com/enus/windows/win32/printdocs/documentimpositioncolor
 type: docs
-weight: 720
+weight: 730
 url: /sv/net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

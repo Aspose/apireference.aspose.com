@@ -3,7 +3,7 @@ title: Class DocumentName
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentName τάξη. Καθορίζει ένα περιγραφικό όνομα για το έγγραφο. https//docs.microsoft.com/enus/windows/win32/printdocs/documentname
 type: docs
-weight: 750
+weight: 760
 url: /el/net/aspose.page.xps.xpsmetadata/documentname/
 ---
 ## DocumentName class

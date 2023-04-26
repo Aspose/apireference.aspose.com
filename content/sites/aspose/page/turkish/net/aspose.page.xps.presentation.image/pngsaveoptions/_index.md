@@ -3,7 +3,7 @@ title: Class PngSaveOptions
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.Presentation.Image.PngSaveOptions sınıf. PNG olarak XPS kaydetme seçenekleri için sınıf.
 type: docs
-weight: 380
+weight: 390
 url: /tr/net/aspose.page.xps.presentation.image/pngsaveoptions/
 ---
 ## PngSaveOptions class

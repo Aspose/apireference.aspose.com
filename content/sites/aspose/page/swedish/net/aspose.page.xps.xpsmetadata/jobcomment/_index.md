@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobComment klass. Anger en kommentar som är kopplad till jobbet. Exempel Vänligen leverera till rum 1234 när det är färdigt. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /sv/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

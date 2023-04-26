@@ -3,7 +3,7 @@ title: PsDocument.Merge
 second_title: Aspose.Page for .NET API リファレンス
 description: PsDocument 方法. PS/EPS ファイルをデバイスにマージします
 type: docs
-weight: 160
+weight: 180
 url: /ja/net/aspose.page.eps/psdocument/merge/
 ---
 ## PsDocument.Merge method

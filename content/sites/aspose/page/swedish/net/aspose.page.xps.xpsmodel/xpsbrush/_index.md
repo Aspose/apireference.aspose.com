@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsBrush klass. Klass som inkapslar gemensamma egenskaper för alla borstelement.
 type: docs
-weight: 2960
+weight: 2970
 url: /sv/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

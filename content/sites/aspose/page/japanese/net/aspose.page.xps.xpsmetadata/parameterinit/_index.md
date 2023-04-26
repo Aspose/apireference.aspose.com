@@ -3,7 +3,7 @@ title: Class ParameterInit
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.ParameterInit クラス. 共通の PrintTicket パラメータ初期化子を実装するクラス すべてのスキーマ定義パラメータ初期化子の基本クラス のインスタンスの値を定義しますelement. A要素はによって作成された参照のターゲットですParameterRefelement. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterinit
 type: docs
-weight: 2770
+weight: 2780
 url: /ja/net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class

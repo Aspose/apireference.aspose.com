@@ -3,7 +3,7 @@ title: JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page for .NET API Reference
 description: Describes the way to specify the
 type: docs
-weight: 1160
+weight: 1170
 url: /net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

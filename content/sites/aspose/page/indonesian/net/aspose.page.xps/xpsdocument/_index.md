@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsDocument kelas. Kelas yang merangkum entitas utama dokumen XPS yang menyediakan metode manipulasi untuk setiap elemen XPS.
 type: docs
-weight: 470
+weight: 480
 url: /id/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class

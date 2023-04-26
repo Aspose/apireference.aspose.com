@@ -3,7 +3,7 @@ title: Class PagePoster
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PagePoster klas. Beschreibt die Ausgabe einer einzelnen Seite auf mehreren physischen Medienblättern. https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 2410
+weight: 2420
 url: /de/net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

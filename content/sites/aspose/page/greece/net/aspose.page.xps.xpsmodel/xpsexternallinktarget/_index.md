@@ -3,7 +3,7 @@ title: Class XpsExternalLinkTarget
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsExternalLinkTarget τάξη. Κατηγορία που ενσωματώνει τον εξωτερικό στόχο υπερσύνδεσης.
 type: docs
-weight: 3050
+weight: 3060
 url: /el/net/aspose.page.xps.xpsmodel/xpsexternallinktarget/
 ---
 ## XpsExternalLinkTarget class
@@ -19,6 +19,12 @@ public sealed class XpsExternalLinkTarget : XpsHyperlinkTarget
 | Ονομα | Περιγραφή |
 | --- | --- |
 | [XpsExternalLinkTarget](xpsexternallinktarget/)(string) | Δημιουργεί το νέο στιγμιότυπο. |
+
+## Ιδιότητες
+
+| Ονομα | Περιγραφή |
+| --- | --- |
+| [TargetUri](../../aspose.page.xps.xpsmodel/xpsexternallinktarget/targeturi/) { get; } | Λαμβάνει το URI-στόχο. |
 
 ### Δείτε επίσης
 

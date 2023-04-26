@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet 수업. 작업에 대해 출력할 배너 시트를 설명합니다. 배너 시트는 default 에 출력되어야 합니다.PageMediaSize 그리고 기본값을 사용하여PageMediaType . 배너 시트는 작업의 나머지 부분과 분리되어야 합니다. 이는 마무리 또는 처리 옵션예 JobDuplexAllDocumentsContiguously JobStapleAllDocuments  또는JobBindAllDocuments  는 배너 시트를 포함하지 않아야 합니다. 배너 시트는 작업의 첫 번째 시트로 나타나야 합니다.
 type: docs
-weight: 1470
+weight: 1480
 url: /ko/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Referencia de la API de Aspose.Page para .NET
 description: El Aspose.Page.Xps.Presentación.Imagen El espacio de nombres proporciona clases para representar el documento XPS en una imagen.
 type: docs
-weight: 80
+weight: 90
 url: /es/net/aspose.page.xps.presentation.image/
 ---
 El **Aspose.Page.Xps.Presentación.Imagen** El espacio de nombres proporciona clases para representar el documento XPS en una imagen.

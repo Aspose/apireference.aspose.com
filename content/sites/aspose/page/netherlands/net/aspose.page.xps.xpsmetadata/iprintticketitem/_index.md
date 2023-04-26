@@ -3,7 +3,7 @@ title: Interface IPrintTicketItem
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketItem koppel. De basisinterface voor mogelijk klassenPrintTicket hoofdelementitems. Het is ook de basisinterface voor interfaces die een scopingprefix definiëren.
 type: docs
-weight: 970
+weight: 980
 url: /nl/net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface

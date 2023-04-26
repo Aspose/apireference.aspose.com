@@ -3,7 +3,7 @@ title: PsDocument.Save
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. पएस/ईपएस फइल क डवइस में सेव करत है
 type: docs
-weight: 200
+weight: 220
 url: /hi/net/aspose.page.eps/psdocument/save/
 ---
 ## Save(Device, SaveOptions) {#save_1}
@@ -51,7 +51,7 @@ public void Save(Stream epsStream)
 
 ## Save() {#save}
 
-बचत दी गई[`PsDocument`](../) ईपीएस फ़ाइल के रूप में। इस विधि का उपयोग केवल तभी किया जाता है जब PsDocument स्क्रैच से बनाया गया हो।
+बचत दी गई[`PsDocument`](../)ईपीएस फ़ाइल के रूप में। इस विधि का उपयोग केवल तभी किया जाता है जब PsDocument स्क्रैच से बनाया गया हो।
 
 ```csharp
 public void Save()

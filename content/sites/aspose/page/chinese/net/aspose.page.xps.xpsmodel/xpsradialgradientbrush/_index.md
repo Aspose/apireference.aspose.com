@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush 班级. 类封装RadialGradientBrush属性元素features. 该元素用于指定径向渐变画笔.
 type: docs
-weight: 3330
+weight: 3340
 url: /zh/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

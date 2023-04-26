@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice сорт. Класс инкапсулирующий устройство для создания изображений.
 type: docs
-weight: 400
+weight: 410
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

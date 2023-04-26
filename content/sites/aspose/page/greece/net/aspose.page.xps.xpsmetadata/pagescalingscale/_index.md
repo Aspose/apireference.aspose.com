@@ -3,7 +3,7 @@ title: Class PageScalingScale
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScale τάξη. Καθορίζει τον παράγοντα κλιμάκωσης για προσαρμοσμένη τετραγωνική κλίμακα. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscale
 type: docs
-weight: 2550
+weight: 2560
 url: /el/net/aspose.page.xps.xpsmetadata/pagescalingscale/
 ---
 ## PageScalingScale class

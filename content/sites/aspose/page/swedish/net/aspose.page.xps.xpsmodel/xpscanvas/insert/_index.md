@@ -23,7 +23,7 @@ public T Insert<T>(int index, T element)
 
 ### Returvärde
 
-Insatt element.
+Infogat element.
 
 ### Se även
 

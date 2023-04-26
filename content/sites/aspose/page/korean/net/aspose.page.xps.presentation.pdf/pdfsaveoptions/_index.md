@@ -3,7 +3,7 @@ title: Class PdfSaveOptions
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.Presentation.Pdf.PdfSaveOptions 수업. XPSasPDF 저장 옵션 클래스.
 type: docs
-weight: 440
+weight: 450
 url: /ko/net/aspose.page.xps.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

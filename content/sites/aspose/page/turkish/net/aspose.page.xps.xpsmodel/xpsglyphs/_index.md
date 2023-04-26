@@ -1,14 +1,14 @@
 ---
 title: Class XpsGlyphs
 second_title: Aspose.Page for .NET API Referansı
-description: Aspose.Page.XPS.XpsModel.XpsGlyphs sınıf. Glif öğesi özelliklerini içeren sınıf. Bu öğe tek bir yazı tipinden tek tip biçimlendirilmiş bir metin dizisini temsil eder. Doğru işleme için gerekli bilgileri sağlar ve tüketicileri görüntülemede search ve seçim özelliklerini destekler.
+description: Aspose.Page.XPS.XpsModel.XpsGlyphs sınıf. Sınıfı Glifler öğesi özelliklerini kapsar. Bu öğe tek bir yazı tipinden tek biçimli biçimlendirilmiş bir metin dizisini temsil eder. Doğru işleme için gerekli bilgileri sağlar ve tüketicileri görüntülemede search ve seçim özelliklerini destekler.
 type: docs
-weight: 3090
+weight: 3100
 url: /tr/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class
 
-Glif öğesi özelliklerini içeren sınıf. Bu öğe, tek bir yazı tipinden tek tip biçimlendirilmiş bir metin dizisini temsil eder. Doğru işleme için gerekli bilgileri sağlar ve tüketicileri görüntülemede search ve seçim özelliklerini destekler.
+Sınıfı, Glifler öğesi özelliklerini kapsar. Bu öğe, tek bir yazı tipinden tek biçimli biçimlendirilmiş bir metin dizisini temsil eder. Doğru işleme için gerekli bilgileri sağlar ve tüketicileri görüntülemede search ve seçim özelliklerini destekler.
 
 ```csharp
 public sealed class XpsGlyphs : XpsContentElement

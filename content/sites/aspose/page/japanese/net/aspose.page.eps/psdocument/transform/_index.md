@@ -3,7 +3,7 @@ title: PsDocument.Transform
 second_title: Aspose.Page for .NET API リファレンス
 description: PsDocument 方法. 現在のグラフィックス状態に変換を追加します このマトリックスを現在のマトリックスと連結します.
 type: docs
-weight: 270
+weight: 300
 url: /ja/net/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument.Transform method

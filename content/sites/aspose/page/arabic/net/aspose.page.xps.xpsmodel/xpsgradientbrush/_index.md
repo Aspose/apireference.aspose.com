@@ -3,7 +3,7 @@ title: Class XpsGradientBrush
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsGradientBrush فصل. فئة تتضمن السمات المشتركة لعناصر فرشاة LinerGradientBush و RadialGradientBush.
 type: docs
-weight: 3100
+weight: 3110
 url: /ar/net/aspose.page.xps.xpsmodel/xpsgradientbrush/
 ---
 ## XpsGradientBrush class

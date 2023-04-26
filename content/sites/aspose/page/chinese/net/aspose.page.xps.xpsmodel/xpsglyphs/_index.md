@@ -3,7 +3,7 @@ title: Class XpsGlyphs
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsGlyphs 班级. 封装 Glyphs 元素特性的类 此元素表示来自单一字体的一系列统一格式的文本 它提供准确呈现所需的信息并支持 search 和查看消费者中的选择功能
 type: docs
-weight: 3090
+weight: 3100
 url: /zh/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsDocument τάξη. Κλάση που ενσωματώνει την κύρια οντότητα του εγγράφου XPS που παρέχει μεθόδους χειρισμού για οποιοδήποτε στοιχείο XPS.
 type: docs
-weight: 470
+weight: 480
 url: /el/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class

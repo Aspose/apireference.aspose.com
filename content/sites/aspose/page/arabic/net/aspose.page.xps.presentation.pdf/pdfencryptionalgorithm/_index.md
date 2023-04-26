@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm تعداد. تعداد وضع التشفير. صِف باستخدام الخوارزمية وطول المفتاح. تم تمديد هذا التعداد للتمكن من زيادة الوظائف بشكل أكبر.
 type: docs
-weight: 410
+weight: 420
 url: /ar/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

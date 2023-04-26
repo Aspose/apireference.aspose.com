@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush klas. Klasse die eigenschappen van het eigenschapselement LinearGradientBrush inkapselt. Dit element wordt gebruikt om een lineair verlooppenseel langs een vector te specificeren.
 type: docs
-weight: 3200
+weight: 3210
 url: /nl/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

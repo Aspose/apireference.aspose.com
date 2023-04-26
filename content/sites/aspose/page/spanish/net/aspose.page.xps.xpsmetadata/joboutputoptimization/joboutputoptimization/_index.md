@@ -16,7 +16,7 @@ public JobOutputOptimization(params JobOutputOptimizationOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | JobOutputOptimizationOption[] | Una matriz de opciones específicas para la característica. |
+| options | JobOutputOptimizationOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

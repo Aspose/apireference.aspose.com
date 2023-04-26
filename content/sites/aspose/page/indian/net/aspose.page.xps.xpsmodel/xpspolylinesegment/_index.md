@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment कक्ष. क्लस इनकैप्सुलेटंग पललइन सेगमेंट एलमेंट फचर्स यह एलमेंट एक पलगनल ड्रइंग क वर्णन करत है जसमें अलगअलग वर्टकल क मनमन संख्य हत है
 type: docs
-weight: 3310
+weight: 3320
 url: /hi/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

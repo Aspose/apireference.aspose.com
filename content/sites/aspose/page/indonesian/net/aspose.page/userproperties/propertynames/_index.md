@@ -3,7 +3,7 @@ title: UserProperties.PropertyNames
 second_title: Aspose.Page untuk Referensi .NET API
 description: UserProperties metode. Mengembalikan nama properti.
 type: docs
-weight: 130
+weight: 140
 url: /id/net/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties.PropertyNames method

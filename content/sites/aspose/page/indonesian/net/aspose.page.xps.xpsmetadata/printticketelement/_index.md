@@ -3,7 +3,7 @@ title: Class PrintTicketElement
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PrintTicketElement kelas. Kelas dasar untuk kelas yang mungkin merupakan elemen Skema Cetak.
 type: docs
-weight: 2800
+weight: 2810
 url: /id/net/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush τάξη. Χαρακτηριστικά στοιχεία ιδιότητας LinearGradientBrush κλάσης.
 type: docs
-weight: 3200
+weight: 3210
 url: /el/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

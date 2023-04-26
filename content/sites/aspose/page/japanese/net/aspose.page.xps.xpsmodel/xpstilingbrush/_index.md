@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush クラス. タイリング ブラシ要素 VisualBrush および ImageBrush の共通機能をカプセル化するクラス
 type: docs
-weight: 3400
+weight: 3410
 url: /ja/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

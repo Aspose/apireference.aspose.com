@@ -3,10 +3,10 @@ title: PsDocument.OpenPage
 second_title: Справочник по Aspose.Page для .NET API
 description: PsDocument метод. Создает новую страницу и делает ее текущей.
 type: docs
-weight: 170
+weight: 190
 url: /ru/net/aspose.page.eps/psdocument/openpage/
 ---
-## PsDocument.OpenPage method
+## OpenPage(float, float) {#openpage}
 
 Создает новую страницу и делает ее текущей.
 
@@ -18,6 +18,26 @@ public void OpenPage(float width, float height)
 | --- | --- | --- |
 | width | Single | Ширина новой страницы. |
 | height | Single | Высота новой страницы. |
+
+### Смотрите также
+
+* class [PsDocument](../)
+* пространство имен [Aspose.Page.EPS](../../psdocument/)
+* сборка [Aspose.Page](../../../)
+
+---
+
+## OpenPage(string) {#openpage_1}
+
+Создает новую страницу с размером документа и делает ее текущей.
+
+```csharp
+public void OpenPage(string pageName = null)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| pageName | String | Имя новой страницы. Если он равен нулю, имя страницы будет порядковым номером страницы. |
 
 ### Смотрите также
 

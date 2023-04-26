@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront τάξη. Περιγράφει το μπροστινό αρχικό φύλλο εξωφύλλου. Ολόκληρη η εργασία θα έχει ένα μόνο κύριο φύλλο. Το εξώφυλλο πρέπει να τυπωθεί στοPageMediaSize καιPageMediaType χρησιμοποιείται για την πρώτη σελίδα της εργασίας. Το εξώφυλλο θα πρέπει να ενσωματωθεί στο processing options όπως π.χJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  όπως υποδεικνύεται από την καθορισμένη επιλογή. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /el/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

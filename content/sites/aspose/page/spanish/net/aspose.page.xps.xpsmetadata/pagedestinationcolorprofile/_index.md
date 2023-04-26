@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfile clase. Define las características del perfil de color de destino. Describe si la aplicación o el controlador seleccionan el perfil de color de destino que se utilizará. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofile
 type: docs
-weight: 1880
+weight: 1890
 url: /es/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

@@ -3,7 +3,7 @@ title: Class XpsPathGeometry
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPathGeometry classe. Classe incorporant les caractéristiques de lélément de propriété PathGeometry. Cet élément contient un ensemble de figures de chemin spécifiées soit avec lattribut Figures soit avec un élément enfant PathFigure.
 type: docs
-weight: 3270
+weight: 3280
 url: /fr/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class

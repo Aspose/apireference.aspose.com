@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page لمرجع NET API
 description: ملف Aspose.Page.Xps.Presentation.Pdf توفر مساحة الاسم فئات لتقديم مستند XPS إلى مستند PDF.
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.page.xps.presentation.pdf/
 ---
 ملف **Aspose.Page.Xps.Presentation.Pdf** توفر مساحة الاسم فئات لتقديم مستند XPS إلى مستند PDF.

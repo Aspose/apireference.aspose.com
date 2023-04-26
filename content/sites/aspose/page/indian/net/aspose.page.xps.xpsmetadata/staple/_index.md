@@ -3,7 +3,7 @@ title: Class Staple
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Staple कक्ष. के लए आधर वर्गJobStapleAllDocuments औरDocumentStaple सुवधओं क कक्षएं.
 type: docs
-weight: 2870
+weight: 2880
 url: /hi/net/aspose.page.xps.xpsmetadata/staple/
 ---
 ## Staple class

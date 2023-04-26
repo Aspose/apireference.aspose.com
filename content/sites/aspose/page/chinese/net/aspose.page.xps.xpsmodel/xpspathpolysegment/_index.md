@@ -3,7 +3,7 @@ title: Class XpsPathPolySegment
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsPathPolySegment 班级. 类封装了 PolyLineSegmentPolyBézierSegment 和 PolyQuadraticBézierSegment 元素的共同特征
 type: docs
-weight: 3280
+weight: 3290
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class

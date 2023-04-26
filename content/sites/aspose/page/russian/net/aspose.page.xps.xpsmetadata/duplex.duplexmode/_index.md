@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode сорт. Определяет возможные значенияDuplexOption с забитое свойство.
 type: docs
-weight: 850
+weight: 860
 url: /ru/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

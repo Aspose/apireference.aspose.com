@@ -3,7 +3,7 @@ title: Class DocumentPageRanges
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentPageRanges 수업. 문서의 출력 범위를 페이지 단위로 설명합니다. 매개변수 값은 다음 구조를 따라야 합니다.  PageRangeText PageRange 또는 PageRangePageRange  PageRange PageNumber 또는 PageNumberPageNumber  PageNumber 1N 여기서 N은 PageNumber  N이면 PageNumber  N입니다. 문자열의 공백은 무시해야 합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documentpageranges
 type: docs
-weight: 770
+weight: 780
 url: /ko/net/aspose.page.xps.xpsmetadata/documentpageranges/
 ---
 ## DocumentPageRanges class

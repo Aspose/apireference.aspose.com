@@ -3,7 +3,7 @@ title: Duplex.DuplexOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the JobDuplexAllDocumentsContiguously./jobduplexalldocumentscontiguously and DocumentDuplex./documentduplex features options.
 type: docs
-weight: 860
+weight: 870
 url: /net/aspose.page.xps.xpsmetadata/duplex.duplexoption/
 ---
 ## Duplex.DuplexOption class

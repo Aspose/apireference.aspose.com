@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Справочник по Aspose.Page для .NET API
 description: PsDocument метод. Устанавливает обводку в текущем графическом состоянии.
 type: docs
-weight: 250
+weight: 270
 url: /ru/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

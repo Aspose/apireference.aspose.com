@@ -3,7 +3,7 @@ title: Class CompositePrintTicketElement
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.CompositePrintTicketElement sınıf. Bileşik Baskı Şeması öğeleri yani diğer öğeleri içeren olabilen sınıflar için temel sınıf.
 type: docs
-weight: 510
+weight: 520
 url: /tr/net/aspose.page.xps.xpsmetadata/compositeprintticketelement/
 ---
 ## CompositePrintTicketElement class

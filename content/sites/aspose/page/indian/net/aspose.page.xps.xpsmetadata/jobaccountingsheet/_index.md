@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet कक्ष. जब के लए आउटपुट हने के लए अकउंटंग शट क वर्णन करत है लेख पत्रक डफ़ल्ट पर आउटपुट हन चहएPageMediaSize और डफ़ल्ट क उपयग करनPageMediaType . अकउंटंग शट क शेष नकर से अलग कय जन चहए इसक मतलब है क कई भ फनशंग य प्रसेसंग वकल्प जैसे   य  लेख पत्रक शमल नहं हन चहए कर्यन्वयनकर्त के ववेक पर लेख पत्र कर्य के पहले य अंतम पृष्ठ के रूप में ह सकत है https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /hi/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

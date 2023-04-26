@@ -16,7 +16,7 @@ public PageBorderless(params PageBorderlessOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageBorderlessOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageBorderlessOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

@@ -3,7 +3,7 @@ title: Class ImageSaveOptions
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.Presentation.Image.ImageSaveOptions klas. Basisklasse voor opslagopties voor XPSasimage.
 type: docs
-weight: 360
+weight: 370
 url: /nl/net/aspose.page.xps.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class

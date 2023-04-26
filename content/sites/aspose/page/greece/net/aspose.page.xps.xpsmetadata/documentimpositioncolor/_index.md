@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor τάξη. Το περιεχόμενο της εφαρμογής με ετικέτα με το καθορισμένο όνομα χρώματος ΠΡΕΠΕΙ να εμφανίζεται σε όλους τους χρωματικούς διαχωρισμούς. https//docs.microsoft.com/enus/windows/win32/printdocs/documentimpositioncolor
 type: docs
-weight: 720
+weight: 730
 url: /el/net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

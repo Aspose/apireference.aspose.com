@@ -3,7 +3,7 @@ title: Class InputBin.FeedType
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedType sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 1040
+weight: 1050
 url: /tr/net/aspose.page.xps.xpsmetadata/inputbin.feedtype/
 ---
 ## InputBin.FeedType class

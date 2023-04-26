@@ -3,7 +3,7 @@ title: Class PageScaling
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScaling कक्ष. आउटपुट क स्केलंग वशेषतओं क वर्णन करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagescaling
 type: docs
-weight: 2480
+weight: 2490
 url: /hi/net/aspose.page.xps.xpsmetadata/pagescaling/
 ---
 ## PageScaling class

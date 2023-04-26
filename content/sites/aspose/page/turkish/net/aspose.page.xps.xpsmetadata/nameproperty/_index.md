@@ -3,7 +3,7 @@ title: Class NameProperty
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.NameProperty sınıf. için temel sınıfJobName VeDocumentNameözellikler sınıfları.
 type: docs
-weight: 1640
+weight: 1650
 url: /tr/net/aspose.page.xps.xpsmetadata/nameproperty/
 ---
 ## NameProperty class

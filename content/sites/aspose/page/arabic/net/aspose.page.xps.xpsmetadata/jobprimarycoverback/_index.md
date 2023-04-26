@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack فصل. يصف ورقة الغلاف الخلفية النهائية. سيكون لكل مهمة ورقة أساسية منفصلة. يجب طباعة ورقة الغلاف على ملفPageMediaSize وPageMediaType تستخدم للصفحة الأخيرة من الوظيفة. يجب دمج ورقة الغلاف في خيارات المعالجة مثلJobDuplexAllDocumentsContiguously وJobNUpAllDocumentsContiguously  كما يتضح من الخيار المحدد . https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /ar/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm перечисление. Перечисление режима шифрования. Опишите с помощью алгоритма и длины ключа. Это перечисление расширено чтобы можно было еще больше расширить функциональность. Это перечисление реализует шаблон BasetoCore.
 type: docs
-weight: 410
+weight: 420
 url: /ru/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

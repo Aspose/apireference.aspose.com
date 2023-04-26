@@ -1,14 +1,14 @@
 ---
 title: Class DocumentCoverBack
 second_title: Aspose.Page for .NET API Referansı
-description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack sınıf. Arka bitiş kapak sayfasını tanımlar. Her belgenin ayrı bir sayfası olacaktır. Kapak sayfasıPageMediaSize VePageMediaType belgenin son sayfası için kullanılır. Kapak sayfası process options örneğinDocumentDuplex DocumentNUp  belirtilen Seçenek ile belirtildiği şekilde. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
+description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack sınıf. Arka bitiş kapak sayfasını açıklar. Her belgenin ayrı bir sayfası olacaktır. Kapak sayfasıPageMediaSize VePageMediaType belgenin son sayfası için kullanılır. Kapak sayfası process options örneğinDocumentDuplex DocumentNUp  belirtilen Seçenek ile belirtildiği şekilde. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /tr/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class
 
-Arka (bitiş) kapak sayfasını tanımlar. Her belgenin ayrı bir sayfası olacaktır. Kapak sayfası,[`PageMediaSize`](../pagemediasize/) Ve[`PageMediaType`](../pagemediatype/) belgenin son sayfası için kullanılır. Kapak sayfası, process options (örneğin,[`DocumentDuplex`](../documentduplex/) ,[`DocumentNUp`](../documentnup/) ) belirtilen Seçenek ile belirtildiği şekilde. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentcoverback
+Arka (bitiş) kapak sayfasını açıklar. Her belgenin ayrı bir sayfası olacaktır. Kapak sayfası,[`PageMediaSize`](../pagemediasize/) Ve[`PageMediaType`](../pagemediatype/) belgenin son sayfası için kullanılır. Kapak sayfası, process options (örneğin,[`DocumentDuplex`](../documentduplex/) ,[`DocumentNUp`](../documentnup/) ) belirtilen Seçenek ile belirtildiği şekilde. https://docs.microsoft.com/en-us/windows/win32/printdocs/documentcoverback
 
 ```csharp
 public sealed class DocumentCoverBack : Feature, IDocumentPrintTicketItem, IJobPrintTicketItem

@@ -3,7 +3,7 @@ title: Class XpsGradientStop
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsGradientStop klass. Klassinkapslande GradientStopelementfunktioner. Detta element används av både LinearGradientBrush och RadialGradientBrushelementen för att definiera platsen och intervallet för färgförloppet för att återge en gradient.
 type: docs
-weight: 3110
+weight: 3120
 url: /sv/net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class

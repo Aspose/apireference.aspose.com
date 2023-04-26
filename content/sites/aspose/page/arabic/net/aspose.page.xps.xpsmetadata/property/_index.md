@@ -3,7 +3,7 @@ title: Class Property
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.Property فصل. الفئة التي تقوم بتنفيذ PrintTicket مشترك . الفئة الأساسية لجميع الخصائص المعرفة من قبل المخطط . A يصرح عنصر عن جهاز أو تنسيق وظيفة أو خاصية أخرى ذات صلة يتم إعطاء اسمه من خلال سمة اسمه. أValue يستخدم العنصر لتعيين قيمة إلى. أ يمكن أن يكون معقدًا  وربما يحتوي على خصائص فرعية متعددة. يتم أيضًا تمثيل الخصائص الفرعية بواسطة العناصر . https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 2810
+weight: 2820
 url: /ar/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

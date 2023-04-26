@@ -3,7 +3,7 @@ title: Class XpsElement
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsElement 수업. 일반 XPS 요소 기능을 캡슐화하는 클래스입니다.
 type: docs
-weight: 3030
+weight: 3040
 url: /ko/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class

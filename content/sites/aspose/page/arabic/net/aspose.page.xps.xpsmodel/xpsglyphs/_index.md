@@ -3,7 +3,7 @@ title: Class XpsGlyphs
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsGlyphs فصل. فئة تتضمن ميزات عنصر Glyphs. يمثل هذا العنصر تشغيلًا لنص منسق بشكل موحد من خط واحد. يوفر المعلومات اللازمة لتقديم دقيق ويدعم search وميزات التحديد في عرض المستهلكين.
 type: docs
-weight: 3090
+weight: 3100
 url: /ar/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

@@ -3,7 +3,7 @@ title: PsDocument.GetXmpMetadata
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Leest PS/EPSbestand en extraheert XmpMetdata als het al bestaat of voegt een nieuw toe als het niet bestaat.
 type: docs
-weight: 150
+weight: 170
 url: /nl/net/aspose.page.eps/psdocument/getxmpmetadata/
 ---
 ## PsDocument.GetXmpMetadata method

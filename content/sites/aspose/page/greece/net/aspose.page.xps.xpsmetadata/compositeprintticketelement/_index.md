@@ -3,7 +3,7 @@ title: Class CompositePrintTicketElement
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.CompositePrintTicketElement τάξη. Η βασική κλάση για κλάσεις που μπορεί να είναι σύνθετα στοιχεία Print Schema δηλαδή που περιέχουν άλλα στοιχεία.
 type: docs
-weight: 510
+weight: 520
 url: /el/net/aspose.page.xps.xpsmetadata/compositeprintticketelement/
 ---
 ## CompositePrintTicketElement class

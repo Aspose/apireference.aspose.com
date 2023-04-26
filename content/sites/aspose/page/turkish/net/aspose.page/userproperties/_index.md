@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | Dizi dizisi özellik değerini alır. İstenen özellik yoksa, sağlanan varsayılan değeri döndürür. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | Boole özellik değerini alır. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | Boole özellik değerini alır. İstenen özellik yoksa, sağlanan varsayılan değeri döndürür. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | Özellik adlarını döndürür. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | Boole özellik değerini ayarlar. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | Renk özelliği değerini ayarlar. |

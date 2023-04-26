@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront сорт. Описывает переднюю начало обложку. Каждый документ будет иметь отдельный лист. Титульный лист должен быть напечатан наPageMediaSize иPageMediaType используется для первой страницы документа. Титульный лист должен быть интегрирован в обработку options напримерDocumentDuplex DocumentNUp  как указано в указанной опции. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /ru/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

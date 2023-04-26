@@ -3,7 +3,7 @@ title: Interface PageOutputColor.IPageOutputColorItem
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageOutputColorIPageOutputColorItem インターフェース. 任意のインターフェイスPageOutputColor機能アイテム.
 type: docs
-weight: 2340
+weight: 2350
 url: /ja/net/aspose.page.xps.xpsmetadata/pageoutputcolor.ipageoutputcoloritem/
 ---
 ## PageOutputColor.IPageOutputColorItem interface

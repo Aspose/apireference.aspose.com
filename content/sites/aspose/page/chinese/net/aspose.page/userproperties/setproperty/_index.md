@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: Aspose.Page for .NET API 参考
 description: UserProperties 方法. 设置字符串属性值
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

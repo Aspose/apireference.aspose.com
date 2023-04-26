@@ -3,7 +3,7 @@ title: Class XpsSolidColorBrush
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsSolidColorBrush classe. Classe incorporant les fonctionnalités de lélément de propriété SolidColorBrush. Cet élément est utilisé pour remplir des régions géométriques définies avec une couleur unie.
 type: docs
-weight: 3350
+weight: 3360
 url: /fr/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

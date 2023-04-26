@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocuments klass. Beskriver metoden för bindning. Alla dokument i jobbet är sammanbundna. JobBindAllDocuments ochDocumentBinding är ömsesidigt uteslutande. Det är upp till föraren att bestämma hantering av restriktioner mellan dessa nyckelord. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocuments
 type: docs
-weight: 1150
+weight: 1160
 url: /sv/net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

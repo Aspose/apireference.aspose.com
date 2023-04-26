@@ -3,7 +3,7 @@ title: Class ImageSaveOptions
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.Presentation.Image.ImageSaveOptions فصل. فئة أساسية لخيارات حفظ XPS كصورة.
 type: docs
-weight: 360
+weight: 370
 url: /ar/net/aspose.page.xps.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class

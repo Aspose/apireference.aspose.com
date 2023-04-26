@@ -3,7 +3,7 @@ title: Class SelectionType
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.SelectionType 수업. SelectionType PrintTicket 속성에 대한 편의 클래스입니다.
 type: docs
-weight: 2860
+weight: 2870
 url: /ko/net/aspose.page.xps.xpsmetadata/selectiontype/
 ---
 ## SelectionType class

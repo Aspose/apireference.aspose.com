@@ -3,7 +3,7 @@ title: Class HolePunch
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.HolePunch 수업. 의 기본 클래스JobHolePunch 그리고DocumentHolePunch 기능 클래스.
 type: docs
-weight: 880
+weight: 890
 url: /ko/net/aspose.page.xps.xpsmetadata/holepunch/
 ---
 ## HolePunch class

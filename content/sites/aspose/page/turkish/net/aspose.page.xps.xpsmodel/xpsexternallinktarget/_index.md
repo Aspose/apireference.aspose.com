@@ -3,7 +3,7 @@ title: Class XpsExternalLinkTarget
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsExternalLinkTarget sınıf. Harici köprü hedefini kapsayan sınıf.
 type: docs
-weight: 3050
+weight: 3060
 url: /tr/net/aspose.page.xps.xpsmodel/xpsexternallinktarget/
 ---
 ## XpsExternalLinkTarget class
@@ -19,6 +19,12 @@ public sealed class XpsExternalLinkTarget : XpsHyperlinkTarget
 | İsim | Tanım |
 | --- | --- |
 | [XpsExternalLinkTarget](xpsexternallinktarget/)(string) | Yeni örneği oluşturur. |
+
+## Özellikleri
+
+| İsim | Tanım |
+| --- | --- |
+| [TargetUri](../../aspose.page.xps.xpsmodel/xpsexternallinktarget/targeturi/) { get; } | Hedef URI'yi alır. |
 
 ### Ayrıca bakınız
 

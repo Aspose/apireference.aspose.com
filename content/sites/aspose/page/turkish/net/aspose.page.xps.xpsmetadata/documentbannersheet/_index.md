@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet sınıf. Belirli bir belge için çıktısı alınacak başlık sayfasını tanımlar. Afiş sayfası default üzerinde çıkarılmalıdır.PageMediaSize ve varsayılanı kullanarakPageMediaType . Afiş sayfası da işin geri kalanından izole edilmelidir . Bu tüm bitirme veya işleme seçeneklerinin as gibiDocumentDuplex DocumentStaple  veyaDocumentBinding başlık sayfasını içermemelidir. Başlık sayfası işin geri kalanından izole edilebilir veya edilmeyebilir. Bu herhangi bir iş bitirme veya işleme seçeneğinin belge başlık sayfasını içerebileceği anlamına gelir. Başlık sayfası belgenin ilk sayfası olarak görünmelidir. https //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 530
+weight: 540
 url: /tr/net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class

@@ -3,7 +3,7 @@ title: Class PagePrintTicket
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PagePrintTicket クラス. ページ レベルの印刷チケットをカプセル化するクラス
 type: docs
-weight: 2420
+weight: 2430
 url: /ja/net/aspose.page.xps.xpsmetadata/pageprintticket/
 ---
 ## PagePrintTicket class

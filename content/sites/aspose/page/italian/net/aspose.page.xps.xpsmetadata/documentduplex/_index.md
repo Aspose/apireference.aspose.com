@@ -3,7 +3,7 @@ title: Class DocumentDuplex
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentDuplex classe. Descrive le caratteristiche duplex delloutput. La funzione fronte/retro consente la stampa su entrambi i lati del supporto. Ogni documento viene stampato in fronte/retro separatamente. DocumentDuplex e JobDuplexAllDocumentsContiguously si escludono a vicenda. Spetta al driver determinare la gestione dei vincoli tra queste parole chiave. https//docs.microsoft.com/enus/windows/win32/printdocs/ documentoduplex
 type: docs
-weight: 690
+weight: 700
 url: /it/net/aspose.page.xps.xpsmetadata/documentduplex/
 ---
 ## DocumentDuplex class

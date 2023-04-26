@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple classe. Décrit les caractéristiques dagrafage de la sortie. Chaque document est agrafé séparément. LeJobStapleAllDocuments etDocumentStapleles motsclés sexcluent mutuellement. Il appartient au pilote de déterminer la gestion des contraintes entre ces motsclés. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /fr/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

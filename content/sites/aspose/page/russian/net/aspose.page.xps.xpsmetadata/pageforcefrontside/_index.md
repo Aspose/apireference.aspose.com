@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide сорт. Заставляет вывод отображаться на лицевой стороне листа мультимедиа. Актуально для листов с разными поверхностями с каждой стороны. В случаях когда эта функция мешает параметрам обработки например DocumentDuplex  имеет приоритет для конкретной страницы к которой применяется функция.
 type: docs
-weight: 1970
+weight: 1980
 url: /ru/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

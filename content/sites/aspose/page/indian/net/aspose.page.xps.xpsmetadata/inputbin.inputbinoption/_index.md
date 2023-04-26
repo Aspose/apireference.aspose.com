@@ -3,7 +3,7 @@ title: Class InputBin.InputBinOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.InputBinInputBinOption कक्ष. क वर्णन करत हैJobInputBin DocumentInputBin औरPageInputBin सुवधएँ वकल्प.
 type: docs
-weight: 1070
+weight: 1080
 url: /hi/net/aspose.page.xps.xpsmetadata/inputbin.inputbinoption/
 ---
 ## InputBin.InputBinOption class

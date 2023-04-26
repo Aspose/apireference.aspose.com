@@ -3,7 +3,7 @@ title: Class XpsPolyBezierSegment
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsPolyBezierSegment 班级. 类封装了PolyBezierSegment元素特征 这个元素描述了一组三次贝塞尔曲线
 type: docs
-weight: 3300
+weight: 3310
 url: /zh/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class

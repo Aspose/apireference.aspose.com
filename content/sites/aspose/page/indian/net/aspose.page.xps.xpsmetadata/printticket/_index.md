@@ -3,7 +3,7 @@ title: Class PrintTicket
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PrintTicket कक्ष. वह वर्ग ज कस भ दयरे क एक समन्य प्रंट टकट लगू करत है जब दस्तवेज़ और पृष्ठस्तरय प्रंट टकट के लए आधर वर्ग एतत्व PrintTicket दस्तवेज़ क मूल तत्व है ए एलमेंट में जब क आउटपुट करने के लए आवश्यक सभ जब फर्मेटंग जनकर शमल है https//docs.microsoft.com/enus/windows/win32/printdocs/printticket
 type: docs
-weight: 2790
+weight: 2800
 url: /hi/net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class

@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush klas. Klasse die gemeinsame Merkmale transformierbarer Pinselelemente enthält alle außer SolidColorBrush.
 type: docs
-weight: 3410
+weight: 3420
 url: /de/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

@@ -3,7 +3,7 @@ title: Interface InputBin.IInputBinItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.InputBinIInputBinItem इंटरफेस. कस क इंटरफ़ेसJobInputBin DocumentInputBin औरPageInputBin फचर आइटम.
 type: docs
-weight: 1050
+weight: 1060
 url: /hi/net/aspose.page.xps.xpsmetadata/inputbin.iinputbinitem/
 ---
 ## InputBin.IInputBinItem interface

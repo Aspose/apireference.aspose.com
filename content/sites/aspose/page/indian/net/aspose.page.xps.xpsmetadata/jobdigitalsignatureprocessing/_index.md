@@ -3,7 +3,7 @@ title: Class JobDigitalSignatureProcessing
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobDigitalSignatureProcessing कक्ष. संपूर्ण कर्य के लए डजटल हस्तक्षर प्रसंस्करण क कन्फ़गर करने क वर्णन करत है केवल उस समग्र पर लगू हत है जसमें डजटल हस्तक्षर हते हैं https//docs.microsoft.com/enus/windows/win32/printdocs/jobdigitalsignatureprocessing
 type: docs
-weight: 1260
+weight: 1270
 url: /hi/net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing/
 ---
 ## JobDigitalSignatureProcessing class

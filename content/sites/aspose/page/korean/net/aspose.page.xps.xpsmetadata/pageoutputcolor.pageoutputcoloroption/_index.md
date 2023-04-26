@@ -3,7 +3,7 @@ title: Class PageOutputColor.PageOutputColorOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOutputColorPageOutputColorOption 수업. 설명PageOutputColor 기능 옵션.
 type: docs
-weight: 2360
+weight: 2370
 url: /ko/net/aspose.page.xps.xpsmetadata/pageoutputcolor.pageoutputcoloroption/
 ---
 ## PageOutputColor.PageOutputColorOption class

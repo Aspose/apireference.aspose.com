@@ -3,7 +3,7 @@ title: Class XpsPolyQuadraticBezierSegment
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPolyQuadraticBezierSegment فصل. فئة تتضمن ميزات عنصر PolyQuadraticBezierSegment . يصف هذا العنصر مجموعة من منحنيات بيزير التربيعية من النقطة السابقة في شكل المسار من خلال مجموعة من الرؤوس  باستخدام نقاط تحكم محددة.
 type: docs
-weight: 3320
+weight: 3330
 url: /ar/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush clase. Clase que encapsula las características del elemento de propiedad LinearGradientBrush. Este elemento se utiliza para especificar un pincel de degradado lineal a lo largo de un vector.
 type: docs
-weight: 3200
+weight: 3210
 url: /es/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class
@@ -18,7 +18,7 @@ public sealed class XpsLinearGradientBrush : XpsGradientBrush
 
 | Nombre | Descripción |
 | --- | --- |
-| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode/) { get; set; } | Devuelve/establece el valor que especifica la función gamma para la interpolación de colores. El ajuste gamma no debe aplicarse al componente alfa, si se especifica. |
+| [ColorInterpolationMode](../../aspose.page.xps.xpsmodel/xpsgradientbrush/colorinterpolationmode/) { get; set; } | Devuelve/establece el valor que especifica la función gamma para la interpolación de color. El ajuste gamma no debe aplicarse al componente alfa, si se especifica. |
 | [EndPoint](../../aspose.page.xps.xpsmodel/xpslineargradientbrush/endpoint/) { get; set; } | Devuelve/establece el punto final del degradado lineal. |
 | [GradientStops](../../aspose.page.xps.xpsmodel/xpsgradientbrush/gradientstops/) { get; set; } | Devuelve/establece la lista de paradas de gradiente que componen el gradiente. |
 | [Opacity](../../aspose.page.xps.xpsmodel/xpsbrush/opacity/) { get; set; } | Devuelve/establece el valor que define la transparencia uniforme del relleno de pincel. |

@@ -3,7 +3,7 @@ title: PageBlackGenerationProcessing.PageBlackGenerationProcessingOption
 second_title: Aspose.Page for .NET API Reference
 description: Describes the PageBlackGenerationProcessing./pageblackgenerationprocessing feature options.
 type: docs
-weight: 1720
+weight: 1730
 url: /net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing.pageblackgenerationprocessingoption/
 ---
 ## PageBlackGenerationProcessing.PageBlackGenerationProcessingOption class

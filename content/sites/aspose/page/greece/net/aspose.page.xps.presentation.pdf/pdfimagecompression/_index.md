@@ -3,7 +3,7 @@ title: Enum PdfImageCompression
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.Presentation.Pdf.PdfImageCompression αρίθμηση. Καθορίζει τον τύπο συμπίεσης που εφαρμόζεται στις εικόνες στο αρχείο PDF.
 type: docs
-weight: 430
+weight: 440
 url: /el/net/aspose.page.xps.presentation.pdf/pdfimagecompression/
 ---
 ## PdfImageCompression enumeration

@@ -3,7 +3,7 @@ title: Class JobPageOrder
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrder kelas. Menentukan urutan halaman fisik untuk keluaran. https//docs.microsoft.com/enus/windows/win32/printdocs/jobpageorder
 type: docs
-weight: 1450
+weight: 1460
 url: /id/net/aspose.page.xps.xpsmetadata/jobpageorder/
 ---
 ## JobPageOrder class

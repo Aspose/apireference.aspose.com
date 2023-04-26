@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush कक्ष. Class incapsulating LinearGradientBrush गुण तत्व वशेषतएं इस तत्व क उपयग वेक्टर के सथ एक रैखक ढल ब्रश नर्दष्ट करने के लए कय जत है
 type: docs
-weight: 3200
+weight: 3210
 url: /hi/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

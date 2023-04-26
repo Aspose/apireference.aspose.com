@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice klas. Klasse inkapselend apparaat voor het samenstellen van afbeeldingen.
 type: docs
-weight: 400
+weight: 410
 url: /nl/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

@@ -3,7 +3,7 @@ title: Class DocumentHolePunch
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentHolePunch kelas. Menjelaskan karakteristik pelubang kertas keluaran. Setiap dokumen dilubangi secara terpisah. TheJobHolePunch DanDocumentHolePunch kata kunci saling eksklusif. Keduanya tidak boleh ditentukan secara bersamaan dalam dokumen PrintTicket atau Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/documentholepunch
 type: docs
-weight: 700
+weight: 710
 url: /id/net/aspose.page.xps.xpsmetadata/documentholepunch/
 ---
 ## DocumentHolePunch class

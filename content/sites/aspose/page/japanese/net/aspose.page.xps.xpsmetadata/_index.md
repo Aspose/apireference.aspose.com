@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsMetadata
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.Xps.XpsMetadata名前空間はXPS ドキュメントのメタデータを記述するクラスを提供します
 type: docs
-weight: 100
+weight: 110
 url: /ja/net/aspose.page.xps.xpsmetadata/
 ---
 **Aspose.Page.Xps.XpsMetadata**名前空間は、XPS ドキュメントのメタデータを記述するクラスを提供します。
@@ -55,7 +55,7 @@ url: /ja/net/aspose.page.xps.xpsmetadata/
 | [JobDeviceLanguage](./jobdevicelanguage/) | ドライバーから物理デバイスにデータを送信するためにサポートされているデバイス言語について説明します。 これは「ページ記述言語」と呼ばれることがよくあります。このキーワードは、ドライバーと物理デバイスでサポートされているページ記述 言語を定義します。 |
 | [JobDigitalSignatureProcessing](./jobdigitalsignatureprocessing/) | ジョブ全体のデジタル署名処理の構成について説明します。 デジタル署名を含むコンテンツにのみ適用されます。 https://docs.microsoft.com/en-us/windows/win32/printdocs/jobdigitalsignatureprocessing |
 | [JobDuplexAllDocumentsContiguously](./jobduplexalldocumentscontiguously/) | 出力のデュプレックス特性を記述します。両面印刷機能により、メディアの両面に on 印刷できます。ジョブ内のすべてのドキュメントが連続して両面印刷されます. [`JobDuplexAllDocumentsContiguously`](../aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/)と[`DocumentDuplex`](../aspose.page.xps.xpsmetadata/documentduplex/)相互に排他的です. これらのキーワード間の制約処理を決定するのはドライバー次第です. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobduplexalldocumentscontiguously |
-| [JobErrorSheet](./joberrorsheet/) | エラーシート出力について説明します。ジョブ全体で 1 つのエラー シートが作成されます。エラー sheet はデフォルトで出力されるはずです[`PageMediaSize`](../aspose.page.xps.xpsmetadata/pagemediasize/)デフォルトを使用して[`PageMediaType`](../aspose.page.xps.xpsmetadata/pagemediatype/). エラー シートは、ジョブの残りの部分から分離する必要があります。これは、すべての仕上げ or 処理オプション ( 、 、 また) にはエラー シートを含めないでください。エラー シートは、ジョブの最終シートとして表示されます。 https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet |
+| [JobErrorSheet](./joberrorsheet/) | エラーシート出力について説明します。ジョブ全体で 1 つのエラー シートが作成されます。エラー sheet はデフォルトで出力されるはずです[`PageMediaSize`](../aspose.page.xps.xpsmetadata/pagemediasize/)デフォルトを使用して[`PageMediaType`](../aspose.page.xps.xpsmetadata/pagemediatype/). エラー シートは、ジョブの残りの部分から分離する必要があります。これは、すべての仕上げ or 処理オプション ( 、 、 また) にエラー シートを含めないでください。エラー シートは、ジョブの最終シートとして表示されます。 https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet |
 | [JobErrorSheetSource](./joberrorsheetsource/) | カスタム エラー シートのソースを指定します。 https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheetsource |
 | [JobHolePunch](./jobholepunch/) | 出力の穴あけ特性を記述します。すべてのドキュメントが一緒にパンチされます. [`JobHolePunch`](../aspose.page.xps.xpsmetadata/jobholepunch/)と[`DocumentHolePunch`](../aspose.page.xps.xpsmetadata/documentholepunch/)キーワードは相互に排他的です. PrintTicket または Print Capabilities ドキュメントで両方を同時に指定しないでください. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobholepunch |
 | [JobID](./jobid/) | ジョブの一意の ID を指定します。 https://docs.microsoft.com/en-us/windows/win32/printdocs/jobid |

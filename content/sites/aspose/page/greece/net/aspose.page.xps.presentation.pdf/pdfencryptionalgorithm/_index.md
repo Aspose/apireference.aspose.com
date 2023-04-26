@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm αρίθμηση. Αριθμός λειτουργίας κρυπτογράφησης. Περιγράψτε χρησιμοποιώντας αλγόριθμο και μήκος κλειδιού. Αυτός ο αριθμός επεκτείνεται για να μπορέσει να αυξήσει περαιτέρω τη λειτουργικότητα. Αυτός ο αριθμός υλοποιεί το μοτίβο BasetoCore.
 type: docs
-weight: 410
+weight: 420
 url: /el/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

@@ -36,25 +36,43 @@ public sealed class PsDocument : Document
 | [Clip](../../aspose.page.eps/psdocument/clip/)(GraphicsPath) | Добавляет клип в текущее состояние графики. |
 | [ClipAndNewPath](../../aspose.page.eps/psdocument/clipandnewpath/)(GraphicsPath) | Добавляет клип в текущее графическое состояние, а затем записывает оператор "newpath". Это необходимо сделать, чтобы избежать слияния этого пути отсечения и некоторых последующих путей, таких как глифы, обведенные оператором "charpath". |
 | [ClipRectangle](../../aspose.page.eps/psdocument/cliprectangle/)(RectangleF) | Добавляет прямоугольник обрезки к текущему графическому состоянию. |
+| [ClipText](../../aspose.page.eps/psdocument/cliptext/)(string, Font, float, float) |  |
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | Завершить текущую страницу. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | Нарисуйте произвольный путь. |
 | [DrawExplicitImageMask](../../aspose.page.eps/psdocument/drawexplicitimagemask/)(Bitmap, Bitmap, Matrix) | Нарисовать замаскированное изображение. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage)(Bitmap) | Нарисовать изображение. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage_1)(Bitmap, Matrix, Color) | Нарисуйте преобразованное изображение с фоном. |
+| [DrawTransparentImage](../../aspose.page.eps/psdocument/drawtransparentimage/)(Bitmap, Matrix, int) | Нарисовать трансформированное прозрачное изображение. Если изображение не имеет альфа-канала, оно будет отображаться как непрозрачное image |
 | [Fill](../../aspose.page.eps/psdocument/fill/)(GraphicsPath) | Заполнить произвольный путь. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, Font, float, float, Brush, Brush, Pen) | Добавляет текстовую строку, заполняя внутреннюю часть глифов и рисуя контуры глифов. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, float[], Font, float, float, Brush, Brush, Pen) | Добавляет текстовую строку, заполняя внутреннюю часть глифов и рисуя контуры глифов. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, Font, float, float) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, float[], Font, float, float) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, DrFont, float, float, Brush, Pen) | Добавляет текстовую строку, заполняя внутреннюю часть глифов и рисуя контуры глифов. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_3)(string, Font, float, float, Brush, Pen) | Добавляет текстовую строку, заполняя внутреннюю часть глифов и рисуя контуры глифов. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, float[], DrFont, float, float, Brush, Pen) | Добавляет текстовую строку, заполняя внутреннюю часть глифов и рисуя контуры глифов. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_2)(string, float[], Font, float, float, Brush, Pen) | Добавляет текстовую строку, заполняя внутреннюю часть глифов и рисуя контуры глифов. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, DrFont, float, float) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_6)(string, Font, float, float) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, DrFont, float, float, Brush) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_2)(string, float[], DrFont, float, float) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_4)(string, float[], Font, float, float) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_7)(string, Font, float, float, Brush) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_3)(string, float[], DrFont, float, float, Brush) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_5)(string, float[], Font, float, float, Brush) | Добавляет текстовую строку, заполняя внутреннюю часть глифов. |
 | [GetPaint](../../aspose.page.eps/psdocument/getpaint/)() | Получает отрисовку текущего состояния графики. |
 | [GetStroke](../../aspose.page.eps/psdocument/getstroke/)() | Получает обводку текущего состояния графики. |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata/)() | Читает файл PS/EPS и извлекает XmpMetdata, если он уже существует, или добавляет новый, если он не существует. |
 | [Merge](../../aspose.page.eps/psdocument/merge/)(string[], Device, SaveOptions) | Слияние файлов PS/EPS на устройство. |
-| [OpenPage](../../aspose.page.eps/psdocument/openpage/)(float, float) | Создает новую страницу и делает ее текущей. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, Font, float, float) | Добавляет текстовую строку, рисуя контуры глифов. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, float[], Font, float, float) | Добавляет текстовую строку, рисуя контуры глифов. |
-| [Rotate](../../aspose.page.eps/psdocument/rotate/)(float) | Добавляет вращение к текущему состоянию графики (повернуть текущую матрицу). |
-| [Save](../../aspose.page.eps/psdocument/save/#save)() | сохранено`PsDocument` как EPS-файл. Этот метод используется только в том случае, если PsDocument был создан с нуля. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage_1)(string) | Создает новую страницу с размером документа и делает ее текущей. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage)(float, float) | Создает новую страницу и делает ее текущей. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, DrFont, float, float) | Добавляет текстовую строку, рисуя контуры глифов. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_6)(string, Font, float, float) | Добавляет текстовую строку, рисуя контуры глифов. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, DrFont, float, float, Pen) | Добавляет текстовую строку, рисуя контуры глифов. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_2)(string, float[], DrFont, float, float) | Добавляет текстовую строку, рисуя контуры глифов. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_4)(string, float[], Font, float, float) | Добавляет текстовую строку, рисуя контуры глифов. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_7)(string, Font, float, float, Pen) | Добавляет текстовую строку, рисуя контуры глифов. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_3)(string, float[], DrFont, float, float, Pen) | Добавляет текстовую строку, рисуя контуры глифов. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_5)(string, float[], Font, float, float, Pen) | Добавляет текстовую строку, рисуя контуры глифов. |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate_1)(float) | Добавляет вращение против часовой стрелки относительно начала координат к текущему состоянию графики (повернуть текущую матрицу). |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate)(int) | Добавляет вращение против часовой стрелки относительно начала координат к текущему состоянию графики (повернуть текущую матрицу). |
+| [Save](../../aspose.page.eps/psdocument/save/#save)() | сохранено`PsDocument`как EPS-файл. Этот метод используется только в том случае, если PsDocument был создан с нуля. |
 | [Save](../../aspose.page.eps/psdocument/save/#save_2)(Stream) | сохранено`PsDocument` как EPS-файл. Этот метод используется только после обновления метаданных XMP. Он сохраняет исходный файл EPS с обновленными существующими метаданными или новым, созданным при вызове метода GetMetadata. В последнем случае добавляется весь необходимый код PostScript и комментарии EPS. |
 | override [Save](../../aspose.page.eps/psdocument/save/#save_1)(Device, SaveOptions) | Сохраняет файл PS/EPS на устройство. |
 | [Scale](../../aspose.page.eps/psdocument/scale/)(float, float) | Добавляет масштаб к текущему состоянию графики (масштабировать текущую матрицу). |
@@ -62,6 +80,7 @@ public sealed class PsDocument : Document
 | [SetPageSize](../../aspose.page.eps/psdocument/setpagesize/)(float, float) | Устанавливает размер страницы. Для создания страниц разного размера в одном документе используйте[`SetPageDevice`](./setpagedevice/) сразу после этого метода. |
 | [SetPaint](../../aspose.page.eps/psdocument/setpaint/)(Brush) | Устанавливает рисование в текущем графическом состоянии. |
 | [SetStroke](../../aspose.page.eps/psdocument/setstroke/)(Pen) | Устанавливает обводку в текущем графическом состоянии. |
+| [SetTransform](../../aspose.page.eps/psdocument/settransform/)(Matrix) | Установить текущую трансформацию на эту. |
 | [Shear](../../aspose.page.eps/psdocument/shear/)(float, float) | Добавляет преобразование сдвига к текущему состоянию графики (матрица текущего сдвига). |
 | [Transform](../../aspose.page.eps/psdocument/transform/)(Matrix) | Добавляет преобразование к текущему состоянию графики (объединяет эту матрицу с текущей). |
 | [Translate](../../aspose.page.eps/psdocument/translate/)(float, float) | Добавляет перевод в текущее состояние графики (переводит текущую матрицу). |

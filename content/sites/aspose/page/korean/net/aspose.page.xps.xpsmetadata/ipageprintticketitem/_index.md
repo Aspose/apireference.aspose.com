@@ -3,7 +3,7 @@ title: Interface IPagePrintTicketItem
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IPagePrintTicketItem 상호 작용. 페이지 접두사 인쇄 티켓 항목의 인터페이스입니다.
 type: docs
-weight: 950
+weight: 960
 url: /ko/net/aspose.page.xps.xpsmetadata/ipageprintticketitem/
 ---
 ## IPagePrintTicketItem interface

@@ -3,7 +3,7 @@ title: Class DocumentCoverFrontSource
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFrontSource कक्ष. कस्टम फ्रंटकवर शट के लए स्रत नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfrontsource
 type: docs
-weight: 680
+weight: 690
 url: /hi/net/aspose.page.xps.xpsmetadata/documentcoverfrontsource/
 ---
 ## DocumentCoverFrontSource class

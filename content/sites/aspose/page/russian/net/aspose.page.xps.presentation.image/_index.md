@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.Xps.Presentation.Image пространство имен предоставляет классы для преобразования документа XPS в изображение.
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.page.xps.presentation.image/
 ---
 **Aspose.Page.Xps.Presentation.Image** пространство имен предоставляет классы для преобразования документа XPS в изображение.

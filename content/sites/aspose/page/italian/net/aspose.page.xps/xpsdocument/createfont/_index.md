@@ -1,14 +1,14 @@
 ---
 title: XpsDocument.CreateFont
 second_title: Aspose.Page per riferimento all'API .NET
-description: XpsDocument metodo. Crea una nuova risorsa carattere TrueType.
+description: XpsDocument metodo. Crea una nuova risorsa font TrueType.
 type: docs
 weight: 190
 url: /it/net/aspose.page.xps/xpsdocument/createfont/
 ---
 ## CreateFont(string, FontStyle) {#createfont_1}
 
-Crea una nuova risorsa carattere TrueType.
+Crea una nuova risorsa font TrueType.
 
 ```csharp
 public XpsFont CreateFont(string fontFamily, FontStyle fontStyle)

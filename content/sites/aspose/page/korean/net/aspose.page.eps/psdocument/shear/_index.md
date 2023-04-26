@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: .NET API 참조용 Aspose.Page
 description: PsDocument 방법. 현재 그래픽 상태전단 전류 매트릭스에 전단 변환을 추가합니다.
 type: docs
-weight: 260
+weight: 290
 url: /ko/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

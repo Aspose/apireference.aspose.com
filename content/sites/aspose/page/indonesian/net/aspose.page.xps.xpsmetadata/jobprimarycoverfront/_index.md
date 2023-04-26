@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront kelas. Menjelaskan lembar sampul depan awal. Seluruh pekerjaan akan memiliki satu lembar utama. Lembar sampul harus dicetak padaPageMediaSize DanPageMediaType digunakan untuk halaman pertama pekerjaan. Lembar sampul harus diintegrasikan ke dalam opsi pemrosesan sepertiJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  seperti yang ditunjukkan oleh Opsi yang ditentukan. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /id/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

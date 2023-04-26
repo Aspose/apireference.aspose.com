@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment klas. Klasse die kenmerken van PolyLineSegmentelementen inkapselt. Dit element beschrijft een veelhoekige tekening met een willekeurig aantal individuele hoekpunten.
 type: docs
-weight: 3310
+weight: 3320
 url: /nl/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

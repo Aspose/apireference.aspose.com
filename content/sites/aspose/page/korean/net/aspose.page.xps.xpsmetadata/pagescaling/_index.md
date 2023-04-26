@@ -3,7 +3,7 @@ title: Class PageScaling
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScaling 수업. 출력의 크기 조정 특성을 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescaling
 type: docs
-weight: 2480
+weight: 2490
 url: /ko/net/aspose.page.xps.xpsmetadata/pagescaling/
 ---
 ## PageScaling class

@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceUsage
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceUsage クラス. と組み合わせてPageDeviceColorSpaceProfileURIこのパラメーターは デバイスの色空間で表示される要素のレンダリング動作を定義します
 type: docs
-weight: 1930
+weight: 1940
 url: /ja/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
 ---
 ## PageDeviceColorSpaceUsage class

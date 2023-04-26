@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntent τάξη. Περιγράφει την πρόθεση απόδοσης όπως ορίζεται από την Προδιαγραφή ICC v2. Αυτή η τιμή θα πρέπει να αγνοηθεί εάν μια εικόνα ή ένα στοιχείο γραφικών έχει ενσωματωμένο προφίλ που καθορίζει την πρόθεση απόδοσης. https//docs.com/microsoft.en windows/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1990
+weight: 2000
 url: /el/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

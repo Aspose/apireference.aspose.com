@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsPage クラス. FixedPage 要素の機能をカプセル化するクラス. この要素にはページのコンテンツが含まれFixedPage パーツのルート要素です.
 type: docs
-weight: 3230
+weight: 3240
 url: /ja/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

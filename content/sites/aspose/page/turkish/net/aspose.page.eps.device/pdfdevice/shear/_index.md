@@ -17,7 +17,7 @@ public override void Shear(double shx, double shy)
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | shx | Double | X ekseninde bir kayma. |
-| shy | Double | ekseninde bir kayma. |
+| shy | Double | Y ekseninde bir kayma. |
 
 ### Ayrıca bakınız
 

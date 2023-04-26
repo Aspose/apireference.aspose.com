@@ -3,7 +3,7 @@ title: Interface IPropertyItem
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.IPropertyItem antarmuka. Antarmuka dasar untuk kelas yang mungkin berupa PrintTicketProperty item.
 type: docs
-weight: 980
+weight: 990
 url: /id/net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

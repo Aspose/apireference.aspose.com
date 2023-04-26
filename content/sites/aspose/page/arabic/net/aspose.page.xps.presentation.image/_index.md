@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page لمرجع NET API
 description: ملف Aspose.Page.Xps.Presentation.mage توفر مساحة الاسم فئات لعرض مستند XPS إلى صورة.
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.page.xps.presentation.image/
 ---
 ملف **Aspose.Page.Xps.Presentation.mage** توفر مساحة الاسم فئات لعرض مستند XPS إلى صورة.

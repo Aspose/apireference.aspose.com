@@ -3,7 +3,7 @@ title: Class IntegerValue
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.IntegerValue 班级. 在 PrintTicket 文档中封装 Integer 值的类
 type: docs
-weight: 1120
+weight: 1130
 url: /zh/net/aspose.page.xps.xpsmetadata/integervalue/
 ---
 ## IntegerValue class

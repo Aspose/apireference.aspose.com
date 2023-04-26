@@ -1,14 +1,14 @@
 ---
 title: PsDocument.SetPageSize
 second_title: Aspose.Page untuk Referensi .NET API
-description: PsDocument metode. Mengatur ukuran halaman. Untuk membuat halaman dengan ukuran berbeda dalam satu dokumen gunakanSetPageDevice metode tepat setelah metode ini.
+description: PsDocument metode. Mengatur ukuran halaman. Untuk membuat halaman dengan ukuran berbeda dalam satu dokumen gunakanSetPageDevicemetode tepat setelah metode ini.
 type: docs
-weight: 230
+weight: 250
 url: /id/net/aspose.page.eps/psdocument/setpagesize/
 ---
 ## PsDocument.SetPageSize method
 
-Mengatur ukuran halaman. Untuk membuat halaman dengan ukuran berbeda dalam satu dokumen gunakan[`SetPageDevice`](../setpagedevice/) metode tepat setelah metode ini.
+Mengatur ukuran halaman. Untuk membuat halaman dengan ukuran berbeda dalam satu dokumen gunakan[`SetPageDevice`](../setpagedevice/)metode tepat setelah metode ini.
 
 ```csharp
 public void SetPageSize(float width, float height)

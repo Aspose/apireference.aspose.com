@@ -3,7 +3,7 @@ title: Class PageMediaType
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaType 수업. 설명 옵션 및 각 옵션의 특성. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediatype
 type: docs
-weight: 2160
+weight: 2170
 url: /ko/net/aspose.page.xps.xpsmetadata/pagemediatype/
 ---
 ## PageMediaType class

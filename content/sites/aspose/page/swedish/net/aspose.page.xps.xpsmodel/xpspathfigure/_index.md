@@ -3,7 +3,7 @@ title: Class XpsPathFigure
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsPathFigure klass. Klassinkapslande PathFigure elementegenskaper. Detta element är sammansatt av en uppsättning av en eller flera linje eller kurvsegment.
 type: docs
-weight: 3260
+weight: 3270
 url: /sv/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

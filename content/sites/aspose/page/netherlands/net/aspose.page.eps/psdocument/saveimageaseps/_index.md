@@ -3,7 +3,7 @@ title: PsDocument.SaveImageAsEps
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Slaat PNG/JPEG/TIFF/BMP/GIF/EMFafbeelding op van invoerstroom naar EPSuitvoerstroom.
 type: docs
-weight: 310
+weight: 340
 url: /nl/net/aspose.page.eps/psdocument/saveimageaseps/
 ---
 ## SaveImageAsEps(Stream, Stream, PsSaveOptions) {#saveimageaseps_2}

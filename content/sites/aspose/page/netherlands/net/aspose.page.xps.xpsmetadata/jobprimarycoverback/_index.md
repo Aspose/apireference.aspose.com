@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack klas. Beschrijft het achterblad eindblad. Elke taak heeft een apart primair vel. Het voorblad moet worden afgedrukt op dePageMediaSize EnPageMediaType gebruikt voor de laatste pagina van de opdracht. Het voorblad moet worden geïntegreerd in processing options zoalsJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  zoals aangegeven door de opgegeven optie. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /nl/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

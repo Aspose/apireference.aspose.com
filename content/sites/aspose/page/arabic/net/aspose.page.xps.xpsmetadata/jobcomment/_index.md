@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobComment فصل. يحدد تعليقًا مرتبطًا بالوظيفة. مثال يرجى التسليم إلى الغرفة 1234 عند الانتهاء . https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /ar/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

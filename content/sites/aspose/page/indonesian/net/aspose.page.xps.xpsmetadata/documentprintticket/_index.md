@@ -3,7 +3,7 @@ title: Class DocumentPrintTicket
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentPrintTicket kelas. Kelas yang merangkum tiket cetak tingkat dokumen.
 type: docs
-weight: 780
+weight: 790
 url: /id/net/aspose.page.xps.xpsmetadata/documentprintticket/
 ---
 ## DocumentPrintTicket class

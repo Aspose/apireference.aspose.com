@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment sınıf. PolyLineSegment öğe özelliklerini kapsayan sınıf. Bu öğe isteğe bağlı sayıda bireysel köşe içeren çokgen bir çizimi tanımlar.
 type: docs
-weight: 3310
+weight: 3320
 url: /tr/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

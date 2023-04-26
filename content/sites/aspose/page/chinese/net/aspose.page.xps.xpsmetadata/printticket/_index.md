@@ -3,7 +3,7 @@ title: Class PrintTicket
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PrintTicket 班级. 实现任何范围的通用 PrintTicket 的类 作业级文档级和页面级打印票证的基类 Aelement 是 PrintTicket 文档的根元素 A元素包含输出作业所需的所有作业格式信息 https//docs.microsoft.com/enus/windows/win32/printdocs/printticket
 type: docs
-weight: 2790
+weight: 2800
 url: /zh/net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class

@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfile klas. Definieert de kenmerken van het bestemmingskleurprofiel. Beschrijft of de toepassing of het stuurprogramma het bestemmingskleurprofiel selecteert dat moet worden gebruikt. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofile
 type: docs
-weight: 1880
+weight: 1890
 url: /nl/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

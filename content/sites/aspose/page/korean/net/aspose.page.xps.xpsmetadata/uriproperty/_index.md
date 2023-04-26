@@ -3,7 +3,7 @@ title: Class URIProperty
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.URIProperty 수업. 의 기본 클래스JobURI 그리고DocumentURI속성 클래스.
 type: docs
-weight: 2920
+weight: 2930
 url: /ko/net/aspose.page.xps.xpsmetadata/uriproperty/
 ---
 ## URIProperty class

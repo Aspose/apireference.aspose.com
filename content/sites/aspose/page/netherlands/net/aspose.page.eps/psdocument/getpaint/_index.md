@@ -3,7 +3,7 @@ title: PsDocument.GetPaint
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Krijgt verf van de huidige grafische status.
 type: docs
-weight: 130
+weight: 150
 url: /nl/net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method

@@ -3,10 +3,10 @@ title: OpenPage
 second_title: Aspose.Page for .NET API Reference
 description: Creates new page and make it current one.
 type: docs
-weight: 170
+weight: 190
 url: /net/aspose.page.eps/psdocument/openpage/
 ---
-## PsDocument.OpenPage method
+## OpenPage(float, float) {#openpage}
 
 Creates new page and make it current one.
 
@@ -18,6 +18,26 @@ public void OpenPage(float width, float height)
 | --- | --- | --- |
 | width | Single | The width of new page. |
 | height | Single | The height of new page. |
+
+### See Also
+
+* class [PsDocument](../../psdocument)
+* namespace [Aspose.Page.EPS](../../psdocument)
+* assembly [Aspose.Page](../../../)
+
+---
+
+## OpenPage(string) {#openpage_1}
+
+Creates new page with document's size and make it current one.
+
+```csharp
+public void OpenPage(string pageName = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageName | String | The name of new page. If it is null the name o the page will be an order number of the page. |
 
 ### See Also
 

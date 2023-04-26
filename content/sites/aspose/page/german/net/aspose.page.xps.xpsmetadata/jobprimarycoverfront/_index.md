@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront klas. Beschreibt das vordere AnfangsDeckblatt. Der gesamte Auftrag hat ein einziges Primärblatt. Das Deckblatt sollte auf dem gedruckt werdenPageMediaSize UndPageMediaType wird für die erste Seite des Jobs verwendet. Das Deckblatt sollte in Verarbeitungsoptionen integriert werden wie zJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  wie durch die angegebene Option angegeben. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /de/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

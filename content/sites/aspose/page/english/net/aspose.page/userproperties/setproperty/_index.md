@@ -3,7 +3,7 @@ title: SetProperty
 second_title: Aspose.Page for .NET API Reference
 description: Sets string property value.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

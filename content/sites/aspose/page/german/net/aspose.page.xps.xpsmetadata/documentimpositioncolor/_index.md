@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor klas. Anwendungsinhalte die mit der angegebenen benannten Farbe gekennzeichnet sind MÜSSEN auf allen Farbauszügen erscheinen. https//docs.microsoft.com/enus/windows/win32/printdocs/documentimpositioncolor
 type: docs
-weight: 720
+weight: 730
 url: /de/net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

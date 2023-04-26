@@ -3,7 +3,7 @@ title: Class DocumentDuplex
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentDuplex τάξη. Περιγράφει τα χαρακτηριστικά διπλής όψης της εξόδου. Η δυνατότητα διπλής όψης επιτρέπει την εκτύπωση και στις δύο πλευρές του μέσου. Κάθε έγγραφο είναι διπλής όψης ξεχωριστά. DocumentDuplex και JobDuplexAllDocumentsContiguously αλληλοαποκλείονται. Εναπόκειται στο πρόγραμμα οδήγησης να καθορίσει τον χειρισμό περιορισμών μεταξύ αυτών των λέξεωνκλειδιών. documentduplex
 type: docs
-weight: 690
+weight: 700
 url: /el/net/aspose.page.xps.xpsmetadata/documentduplex/
 ---
 ## DocumentDuplex class

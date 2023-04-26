@@ -3,7 +3,7 @@ title: Class XpsRgbColor
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsRgbColor 수업. 모든 색 공간sRGB 또는 scRGB의 RGB 색상을 캡슐화합니다.
 type: docs
-weight: 3340
+weight: 3350
 url: /ko/net/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class

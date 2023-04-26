@@ -3,7 +3,7 @@ title: Class NUp
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.NUp sınıf. için temel sınıfJobNUpAllDocumentsContiguously VeDocumentNUp özellikler sınıfları.
 type: docs
-weight: 1600
+weight: 1610
 url: /tr/net/aspose.page.xps.xpsmetadata/nup/
 ---
 ## NUp class

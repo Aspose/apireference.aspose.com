@@ -3,7 +3,7 @@ title: Class XpsArrayT
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsArray1T 班级. 类封装了常用的XPS模型数组对象特性
 type: docs
-weight: 2950
+weight: 2960
 url: /zh/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

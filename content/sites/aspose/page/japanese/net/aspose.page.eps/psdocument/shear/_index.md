@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page for .NET API リファレンス
 description: PsDocument 方法. 現在のグラフィックス状態にせん断変換を追加します 現在の行列をせん断します.
 type: docs
-weight: 260
+weight: 290
 url: /ja/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

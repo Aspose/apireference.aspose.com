@@ -3,7 +3,7 @@ title: Class ImageSaveOptions
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.Presentation.Image.ImageSaveOptions 수업. XPSasimage 저장 옵션의 기본 클래스.
 type: docs
-weight: 360
+weight: 370
 url: /ko/net/aspose.page.xps.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class

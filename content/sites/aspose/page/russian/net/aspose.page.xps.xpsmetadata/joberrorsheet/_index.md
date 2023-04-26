@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet сорт. Описывает вывод листа ошибок. Вся работа будет иметь один лист ошибок. Лист ошибок должен выводиться по умолчаниюPageMediaSize и используя значение по умолчаниюPageMediaType . Лист ошибок должен быть изолирован от остальной части задания. Это означает что любые варианты отделки или обработки например   или  не должен включать лист ошибок. Лист ошибок должен быть последним листом задания. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /ru/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

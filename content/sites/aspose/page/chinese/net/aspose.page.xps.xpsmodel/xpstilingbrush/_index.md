@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush 班级. 类封装平铺画笔元素VisualBrush 和 ImageBrush的共同特征
 type: docs
-weight: 3400
+weight: 3410
 url: /zh/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

@@ -18,6 +18,11 @@ Class incapsulating the external hyperlink target.
 | Constructor | Description |
 | --- | --- |
 | [XpsExternalLinkTarget(String targetUri)](#XpsExternalLinkTarget-java.lang.String-) | Creates the new instance. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [getTargetUri()](#getTargetUri--) | Gets the target URI. |
 ### XpsExternalLinkTarget(String targetUri) {#XpsExternalLinkTarget-java.lang.String-}
 ```
 public XpsExternalLinkTarget(String targetUri)
@@ -31,3 +36,13 @@ Creates the new instance.
 | --- | --- | --- |
 | targetUri | java.lang.String | The external target URI. |
 
+### getTargetUri() {#getTargetUri--}
+```
+public String getTargetUri()
+```
+
+
+Gets the target URI.
+
+**Returns:**
+java.lang.String - The target URI.

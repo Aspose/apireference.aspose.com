@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront kelas. Menjelaskan lembar sampul depan awal. Setiap dokumen akan memiliki lembar terpisah. Lembar sampul harus dicetak padaPageMediaSize DanPageMediaType digunakan untuk halaman pertama dokumen. Lembar sampul harus diintegrasikan ke dalam opsi pemrosesan sepertiDocumentDuplex DocumentNUp  seperti yang ditunjukkan oleh Opsi yang ditentukan. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /id/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

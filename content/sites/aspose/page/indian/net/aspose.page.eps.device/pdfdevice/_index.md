@@ -19,7 +19,7 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 | नाम | विवरण |
 | --- | --- |
 | [PdfDevice](pdfdevice/#constructor)(Stream) | का नया उदाहरण शुरू करता है`PdfDevice` आउटपुट स्ट्रीम के साथ. |
-| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | का नया उदाहरण शुरू करता है`PdfDevice`आउटपुट स्ट्रीम और पृष्ठ के निर्दिष्ट आकार के साथ। |
+| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | का नया उदाहरण शुरू करता है`PdfDevice` आउटपुट स्ट्रीम और पृष्ठ के निर्दिष्ट आकार के साथ। |
 
 ## गुण
 

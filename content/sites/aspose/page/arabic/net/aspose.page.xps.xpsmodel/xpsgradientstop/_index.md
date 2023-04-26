@@ -3,7 +3,7 @@ title: Class XpsGradientStop
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsGradientStop فصل. فئة تتضمن ميزات عنصر GradientStop . يتم استخدام هذا العنصر بواسطة كل من عناصر LinearGradientBrush و RadialGradientBrush لتحديد موقع ونطاق تقدم اللون لتقديم التدرج .
 type: docs
-weight: 3110
+weight: 3120
 url: /ar/net/aspose.page.xps.xpsmodel/xpsgradientstop/
 ---
 ## XpsGradientStop class

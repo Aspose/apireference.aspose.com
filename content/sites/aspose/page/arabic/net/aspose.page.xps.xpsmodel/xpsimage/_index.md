@@ -3,7 +3,7 @@ title: Class XpsImage
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsImage فصل. فئة تتضمن مورد صورة .
 type: docs
-weight: 3160
+weight: 3170
 url: /ar/net/aspose.page.xps.xpsmodel/xpsimage/
 ---
 ## XpsImage class

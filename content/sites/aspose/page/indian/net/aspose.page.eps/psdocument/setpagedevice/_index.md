@@ -3,7 +3,7 @@ title: PsDocument.SetPageDevice
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. पेज डवइस पैरमटर सेट करत है ऑपरेटर सेटपेजडवइस पस्टस्क्रप्ट स्पेसफकेशन देखें इनमें पेज सइज और कलर आद ह सकते हैं
 type: docs
-weight: 220
+weight: 240
 url: /hi/net/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument.SetPageDevice method

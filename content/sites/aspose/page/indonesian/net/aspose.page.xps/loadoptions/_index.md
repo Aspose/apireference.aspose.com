@@ -3,7 +3,7 @@ title: Class LoadOptions
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.LoadOptions kelas. Kelas dasar untuk opsi pemuatan dokumen.
 type: docs
-weight: 330
+weight: 340
 url: /id/net/aspose.page.xps/loadoptions/
 ---
 ## LoadOptions class

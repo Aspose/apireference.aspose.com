@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty kelas. Kelas yang mengimplementasikan PrintTicket umum . Kelas dasar untuk semua properti skor yang ditentukan skema. A elemen mendeklarasikan properti yang intrinsik ke an Option definisi. Properti tersebut harus dibandingkan saat mengevaluasi seberapa dekat permintaanOption cocok dengan perangkat yang didukungOption . https//docs.microsoft.com/enus/windows/win32/printdocs/scoredproperty
 type: docs
-weight: 2850
+weight: 2860
 url: /id/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

@@ -3,7 +3,7 @@ title: Enum XpsFillRule
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsFillRule 枚举. PathGeometry 元素的 FillRule 属性的有效值
 type: docs
-weight: 3070
+weight: 3080
 url: /zh/net/aspose.page.xps.xpsmodel/xpsfillrule/
 ---
 ## XpsFillRule enumeration

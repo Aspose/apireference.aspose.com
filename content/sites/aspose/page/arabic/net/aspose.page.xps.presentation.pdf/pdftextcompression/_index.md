@@ -3,7 +3,7 @@ title: Enum PdfTextCompression
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfTextCompression تعداد. يحدد نوع الضغط المطبق على كل محتويات ملف PDF باستثناء الصور.
 type: docs
-weight: 450
+weight: 460
 url: /ar/net/aspose.page.xps.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enumeration

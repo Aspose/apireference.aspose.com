@@ -3,7 +3,7 @@ title: Class XpsElement
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsElement kelas. Kelas yang merangkum fitur elemen umum XPS.
 type: docs
-weight: 3030
+weight: 3040
 url: /id/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class

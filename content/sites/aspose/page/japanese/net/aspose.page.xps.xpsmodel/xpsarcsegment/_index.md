@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment クラス. ArcSegment 要素の機能をカプセル化するクラス. この要素は楕円弧を記述します.
 type: docs
-weight: 2940
+weight: 2950
 url: /ja/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

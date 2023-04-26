@@ -3,7 +3,7 @@ title: Class PdfEncryptionDetails
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionDetails कक्ष. में पडएफ एन्क्रप्शन के लए ववरण शमल है
 type: docs
-weight: 420
+weight: 430
 url: /hi/net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class

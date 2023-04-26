@@ -3,7 +3,7 @@ title: Class PageOrientation.PageOrientationOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOrientationPageOrientationOption कक्ष. क वर्णन करत हैPageOrientation सुवध वकल्प.
 type: docs
-weight: 2310
+weight: 2320
 url: /hi/net/aspose.page.xps.xpsmetadata/pageorientation.pageorientationoption/
 ---
 ## PageOrientation.PageOrientationOption class

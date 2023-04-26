@@ -3,7 +3,7 @@ title: Class XpsGlyphs
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsGlyphs τάξη. Χαρακτηριστικά στοιχείου Glyphs incapsulating Class. Αυτό το στοιχείο αντιπροσωπεύει μια σειρά ομοιόμορφου μορφοποιημένου κειμένου από μία μόνο γραμματοσειρά. Παρέχει πληροφορίες που είναι απαραίτητες για ακριβή απόδοση και υποστηρίζει λειτουργίες search και επιλογής στην προβολή των καταναλωτών.
 type: docs
-weight: 3090
+weight: 3100
 url: /el/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

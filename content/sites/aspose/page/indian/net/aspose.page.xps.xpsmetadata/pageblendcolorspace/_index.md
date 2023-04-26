@@ -3,7 +3,7 @@ title: Class PageBlendColorSpace
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlendColorSpace कक्ष. रंग स्थन क वर्णन करत है जसक उपयग सम्मश्रण कर्यं के लए कय जन चहए https//docs.microsoft.com/enus/windows/win32/printdocs/pageblendcolorspace
 type: docs
-weight: 1800
+weight: 1810
 url: /hi/net/aspose.page.xps.xpsmetadata/pageblendcolorspace/
 ---
 ## PageBlendColorSpace class

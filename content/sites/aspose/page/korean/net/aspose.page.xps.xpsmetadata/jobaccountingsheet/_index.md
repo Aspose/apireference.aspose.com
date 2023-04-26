@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet 수업. 작업에 대해 출력할 회계 시트를 설명합니다. 회계 시트는 default 에 출력되어야 합니다.PageMediaSize 그리고 기본값을 사용하여PageMediaType . 회계 시트는 작업의 나머지 부분에서 to 격리되어야 합니다. 즉 마무리 또는 처리 옵션예   또는  회계 시트를 포함해서는 안 됩니다. 회계 시트는 구현자의 재량에 따라 작업의 첫 페이지 또는 마지막 페이지로 나타날 수 있습니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /ko/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

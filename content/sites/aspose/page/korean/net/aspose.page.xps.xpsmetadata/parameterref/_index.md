@@ -3,7 +3,7 @@ title: Class ParameterRef
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.ParameterRef 수업. 공통 PrintTicket 매개변수 참조를 구현하는 클래스입니다. A 요소는 a에 대한 참조를 정의합니다.ParameterInit요소. AScoredProperty ParameterRef 요소를 포함하는 요소는 명시적으로 설정되지 않은 Value 요소. 대신ScoredProperty element 는ParameterInit 참조하는 요소 element. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterref
 type: docs
-weight: 2780
+weight: 2790
 url: /ko/net/aspose.page.xps.xpsmetadata/parameterref/
 ---
 ## ParameterRef class

@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor فصل. يجب أن يظهر محتوى التطبيق المسمى باللون المسمى المحدد على كل فواصل الألوان . https//docs.microsoft.com/enus/windows/win32/printdocs/documentimpositioncolor
 type: docs
-weight: 720
+weight: 730
 url: /ar/net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

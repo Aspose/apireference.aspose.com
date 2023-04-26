@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation कक्ष. भतक मडय शट के अभवन्यस क वर्णन करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2300
+weight: 2310
 url: /hi/net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

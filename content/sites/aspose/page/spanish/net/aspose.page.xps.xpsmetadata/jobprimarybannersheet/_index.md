@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet clase. Describe la portada que se imprimirá para el trabajo. La portada debe salir en default PageMediaSize y usando el valor predeterminadoPageMediaType . La portada debe estar aislada del resto del trabajo. Esto significa que cualquier opción de acabado o procesamiento como JobDuplexAllDocumentsContiguously JobStapleAllDocuments  oJobBindAllDocuments  no debe incluir la portada. La portada debe aparecer como la primera hoja del trabajo.
 type: docs
-weight: 1470
+weight: 1480
 url: /es/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

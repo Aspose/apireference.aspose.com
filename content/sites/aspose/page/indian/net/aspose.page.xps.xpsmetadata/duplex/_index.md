@@ -3,7 +3,7 @@ title: Class Duplex
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Duplex कक्ष. के लए आधर वर्गJobDuplexAllDocumentsContiguously औरDocumentDuplex सुवधओं क कक्षएं.
 type: docs
-weight: 840
+weight: 850
 url: /hi/net/aspose.page.xps.xpsmetadata/duplex/
 ---
 ## Duplex class
