@@ -3,7 +3,7 @@ title: RecognizePassport
 second_title: Aspose.OCR for .NET API Reference
 description: Recognizes text on passports.
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.ocr/asposeocr/recognizepassport/
 ---
 ## RecognizePassport(string, PassportRecognitionSettings) {#recognizepassport_1}

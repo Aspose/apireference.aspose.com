@@ -34,6 +34,7 @@ public class AsposeOcr
 | [Recognize](../../aspose.ocr/asposeocr/recognize)(OcrInput, RecognitionSettings) | Recognizes text on images / documents. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, directory, arrays, archives. |
 | [RecognizeCarPlate](../../aspose.ocr/asposeocr/recognizecarplate#recognizecarplate)(MemoryStream, CarPlateRecognitionSettings) | Recognizes car plate. |
 | [RecognizeCarPlate](../../aspose.ocr/asposeocr/recognizecarplate#recognizecarplate_1)(string, CarPlateRecognitionSettings) | Recognizes car plate. |
+| [RecognizeCharacters](../../aspose.ocr/asposeocr/recognizecharacters)(OcrInput, DetectAreasMode, Language) | Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives. |
 | [RecognizeIDCard](../../aspose.ocr/asposeocr/recognizeidcard#recognizeidcard)(MemoryStream, IDCardRecognitionSettings) | Recognizes text on ID Card. |
 | [RecognizeIDCard](../../aspose.ocr/asposeocr/recognizeidcard#recognizeidcard_1)(string, IDCardRecognitionSettings) | Recognizes text on ID Card. |
 | [RecognizeImageFast](../../aspose.ocr/asposeocr/recognizeimagefast#recognizeimagefast)(MemoryStream) | Recognize text on the image with good quality. Doesn't use skew correction and areas detection. Works in fast mode. |

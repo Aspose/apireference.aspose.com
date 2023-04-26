@@ -3,7 +3,7 @@ title: SpellCheckError
 second_title: Aspose.OCR for .NET API Reference
 description: Representing misspelled word with additional data.
 type: docs
-weight: 270
+weight: 290
 url: /net/aspose.ocr.spellchecker/spellcheckerror/
 ---
 ## SpellCheckError structure
