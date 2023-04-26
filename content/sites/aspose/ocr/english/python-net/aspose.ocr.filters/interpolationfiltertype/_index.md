@@ -1,6 +1,6 @@
 ---
 title: InterpolationFilterType
-second_title: Aspose.Sildes for Python via .NET API Reference
+second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
@@ -31,5 +31,5 @@ Interpolations, used for scale images.
 ### See Also
 
 * namespace [aspose.ocr.filters](/ocr/python-net/aspose.ocr.filters/)
-* assembly [Aspose.ocr](/ocr/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

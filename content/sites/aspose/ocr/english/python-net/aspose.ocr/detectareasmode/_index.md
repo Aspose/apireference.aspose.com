@@ -1,6 +1,6 @@
 ---
 title: DetectAreasMode
-second_title: Aspose.Sildes for Python via .NET API Reference
+second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 290
@@ -24,5 +24,5 @@ Determines the type of neural network used for areas detection.
 ### See Also
 
 * namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
-* assembly [Aspose.ocr](/ocr/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

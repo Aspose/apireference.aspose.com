@@ -1,6 +1,6 @@
 ---
 title: aspose.ocr.models.preprocessingfilters
-second_title: Aspose.Sildes for Python via .NET API Reference
+second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 40
@@ -8,7 +8,7 @@ url: /ocr/python-net/aspose.ocr.models.preprocessingfilters/
 ---
 
 
-
+Contains base class for image processing commands..
 
 ## Classes
 | Class | Description |

@@ -1,6 +1,6 @@
 ---
 title: aspose.ocr
-second_title: Aspose.Sildes for Python via .NET API Reference
+second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
@@ -8,7 +8,7 @@ url: /ocr/python-net/aspose.ocr/
 ---
 
 
-Contains classes for work with Microsoft PowerPoint presentations without utilizing Microsoft PowerPoint.
+Contains tools for image recognition, skew correction, text areas detection and spell check.
 
 ## Classes
 | Class | Description |

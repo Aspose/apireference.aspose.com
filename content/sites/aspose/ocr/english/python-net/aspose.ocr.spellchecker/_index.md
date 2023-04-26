@@ -1,6 +1,6 @@
 ---
 title: aspose.ocr.spellchecker
-second_title: Aspose.Sildes for Python via .NET API Reference
+second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 20
@@ -8,7 +8,7 @@ url: /ocr/python-net/aspose.ocr.spellchecker/
 ---
 
 
-
+Contains classes for misspelled text correction.
 
 ## Classes
 | Class | Description |

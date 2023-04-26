@@ -1,6 +1,6 @@
 ---
 title: Language
-second_title: Aspose.Sildes for Python via .NET API Reference
+second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 300
@@ -49,5 +49,5 @@ Languages used for OCR.<br/>            ISO 639-2 Code
 ### See Also
 
 * namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
-* assembly [Aspose.ocr](/ocr/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

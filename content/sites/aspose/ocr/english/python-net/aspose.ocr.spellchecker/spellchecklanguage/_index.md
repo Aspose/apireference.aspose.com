@@ -1,6 +1,6 @@
 ---
 title: SpellCheckLanguage
-second_title: Aspose.Sildes for Python via .NET API Reference
+second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 30
@@ -36,5 +36,5 @@ Languages used for SpellCheck (existing dictionaries).
 ### See Also
 
 * namespace [aspose.ocr.spellchecker](/ocr/python-net/aspose.ocr.spellchecker/)
-* assembly [Aspose.ocr](/ocr/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

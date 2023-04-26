@@ -1,6 +1,6 @@
 ---
 title: PixelType
-second_title: Aspose.Sildes for Python via .NET API Reference
+second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 310
@@ -22,5 +22,5 @@ Determines the type of the pixel data for image recognition.
 ### See Also
 
 * namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
-* assembly [Aspose.ocr](/ocr/python-net/)
+* assembly [Aspose.OCR](/ocr/python-net/)
 

@@ -10,9 +10,9 @@ url: /ocr/python-net/
 ## Namespaces
 | Namespace | Description |
 | :- | :- |
-|[aspose.ocr](/ocr/python-net/aspose.ocr/)|Contains classes for work with Microsoft PowerPoint presentations without utilizing Microsoft PowerPoint.|
-|[aspose.ocr.spellchecker](/ocr/python-net/aspose.ocr.spellchecker/)||
+|[aspose.ocr](/ocr/python-net/aspose.ocr/)|Contains tools for image recognition, skew correction, text areas detection and spell check.|
+|[aspose.ocr.spellchecker](/ocr/python-net/aspose.ocr.spellchecker/)|Contains classes for misspelled text correction.|
 |[aspose.ocr.models](/ocr/python-net/aspose.ocr.models/)||
-|[aspose.ocr.models.preprocessingfilters](/ocr/python-net/aspose.ocr.models.preprocessingfilters/)||
+|[aspose.ocr.models.preprocessingfilters](/ocr/python-net/aspose.ocr.models.preprocessingfilters/)|Contains base class for image processing commands..|
 |[aspose.ocr.models.events](/ocr/python-net/aspose.ocr.models.events/)||
-|[aspose.ocr.filters](/ocr/python-net/aspose.ocr.filters/)||
+|[aspose.ocr.filters](/ocr/python-net/aspose.ocr.filters/)|Contains interpolations, used forscale images.|
