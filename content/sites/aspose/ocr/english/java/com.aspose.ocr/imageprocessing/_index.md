@@ -3,7 +3,7 @@ title: ImageProcessing
 second_title: Aspose.OCR for Java API Reference
 description: Helper class for Aspose OCR library.
 type: docs
-weight: 15
+weight: 17
 url: /java/com.aspose.ocr/imageprocessing/
 ---
 

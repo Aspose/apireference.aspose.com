@@ -78,6 +78,8 @@ Main class for recognize text from images.
 | [Recognize(OcrInput input, RecognitionSettings settings)](#Recognize-com.aspose.ocr.OcrInput-com.aspose.ocr.RecognitionSettings-) | Recognizes image with the ability to specify |
 | [CalculateSkew(OcrInput input)](#CalculateSkew-com.aspose.ocr.OcrInput-) | Calculates the skew angles of an images. |
 | [DetectRectangles(OcrInput input, AreasType areasType, boolean isDetectAreas)](#DetectRectangles-com.aspose.ocr.OcrInput-com.aspose.ocr.AreasType-boolean-) | Detects text areas on images. |
+| [RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language)](#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.DetectAreasMode-com.aspose.ocr.Language-) | Detects symbols on images. |
+| [RecognizeCharacters(OcrInput input)](#RecognizeCharacters-com.aspose.ocr.OcrInput-) | Detects symbols on images. |
 ### AsposeOCR() {#AsposeOCR--}
 ```
 public AsposeOCR()
@@ -969,3 +971,35 @@ Detects text areas on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, 
 
 **Returns:**
 java.util.ArrayList<com.aspose.ocr.RectangleOutput> - ArrayList of [RectangleOutput](../../com.aspose.ocr/rectangleoutput) with detected text areas or lines.
+### RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language) {#RecognizeCharacters-com.aspose.ocr.OcrInput-com.aspose.ocr.DetectAreasMode-com.aspose.ocr.Language-}
+```
+public ArrayList<CharacterRecognitionResult> RecognizeCharacters(OcrInput input, DetectAreasMode detectAreasMode, Language language)
+```
+
+
+Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput) |
+| detectAreasMode | [DetectAreasMode](../../com.aspose.ocr/detectareasmode) | Determines the type of neural network used for areas detection. |
+| language | [Language](../../com.aspose.ocr/language) | Language used for OCR. |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.CharacterRecognitionResult> - ArrayList of [Character](../../com.aspose.ocr/character) with detected symbols data.
+### RecognizeCharacters(OcrInput input) {#RecognizeCharacters-com.aspose.ocr.OcrInput-}
+```
+public ArrayList<CharacterRecognitionResult> RecognizeCharacters(OcrInput input)
+```
+
+
+Detects symbols on images. Supports GIF, PNG, JPEG, BMP, TIFF, JFIF, stream, folder, arrays, archives.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | [OcrInput](../../com.aspose.ocr/ocrinput) | The container with sources.[OcrInput](../../com.aspose.ocr/ocrinput) |
+
+**Returns:**
+java.util.ArrayList<com.aspose.ocr.CharacterRecognitionResult> - ArrayList of [Character](../../com.aspose.ocr/character) with detected symbols data for each image.

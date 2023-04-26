@@ -3,7 +3,7 @@ title: InvoiceRecognitionSettings
 second_title: Aspose.OCR for Java API Reference
 description: Settings for the invoice recognition Contains elements that allow customizing the recognition process
 type: docs
-weight: 16
+weight: 18
 url: /java/com.aspose.ocr/invoicerecognitionsettings/
 ---
 
