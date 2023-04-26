@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet classe. Décrit la feuille comptable à sortir pour le travail. La feuille comptable doit être sortie sur le default PageMediaSize et en utilisant la valeur par défautPageMediaType . La feuille comptable doit to être isolée du reste du travail. Cela signifie que toutes les options de finition ou de traitement telles que   ou  ne doit pas inclure la feuille comptable. La feuille comptable peut apparaître comme première ou dernière page du travail à la discrétion de limplémenteur. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /fr/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

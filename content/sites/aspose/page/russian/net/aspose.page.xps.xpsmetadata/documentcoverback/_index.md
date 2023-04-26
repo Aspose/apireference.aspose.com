@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack сорт. Описывает заднюю конечную обложку. Каждый документ будет иметь отдельный лист. Титульный лист должен быть напечатан наPageMediaSize иPageMediaType используется для последней страницы документа. Титульный лист должен быть интегрирован в обработку options напримерDocumentDuplex DocumentNUp  как указано в указанной опции. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /ru/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

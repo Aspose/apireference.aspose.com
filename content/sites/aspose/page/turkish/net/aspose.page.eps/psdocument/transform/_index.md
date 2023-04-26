@@ -3,7 +3,7 @@ title: PsDocument.Transform
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. Geçerli grafik durumuna dönüşüm ekler bu matrisi geçerli olanla birleştirir.
 type: docs
-weight: 270
+weight: 300
 url: /tr/net/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument.Transform method

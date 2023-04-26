@@ -3,7 +3,7 @@ title: Class XpsMatrix
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsMatrix klass. Klass inkapslande MatrixTransform egenskapselement egenskaper. Detta element definierar en godtycklig affin matristransformation som används för att manipulera koordinat system av element.
 type: docs
-weight: 3210
+weight: 3220
 url: /sv/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

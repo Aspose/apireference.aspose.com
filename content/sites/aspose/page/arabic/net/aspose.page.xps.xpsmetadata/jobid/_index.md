@@ -3,7 +3,7 @@ title: Class JobID
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobID فصل. يحدد معرفًا فريدًا للوظيفة . https//docs.microsoft.com/enus/windows/win32/printdocs/jobid
 type: docs
-weight: 1360
+weight: 1370
 url: /ar/net/aspose.page.xps.xpsmetadata/jobid/
 ---
 ## JobID class

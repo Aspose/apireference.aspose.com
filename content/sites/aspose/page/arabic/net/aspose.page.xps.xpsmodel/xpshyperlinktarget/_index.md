@@ -3,7 +3,7 @@ title: Class XpsHyperlinkTarget
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkTarget فصل. الفئة الأساسية لهدف الارتباط التشعبي .
 type: docs
-weight: 3130
+weight: 3140
 url: /ar/net/aspose.page.xps.xpsmodel/xpshyperlinktarget/
 ---
 ## XpsHyperlinkTarget class

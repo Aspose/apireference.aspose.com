@@ -3,7 +3,7 @@ title: Class PageMediaSizePSWidthOffset
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSWidthOffset klass. Anger förskjutningen vinkelrätt mot matningsriktningen. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepswidthoffset
 type: docs
-weight: 2150
+weight: 2160
 url: /sv/net/aspose.page.xps.xpsmetadata/pagemediasizepswidthoffset/
 ---
 ## PageMediaSizePSWidthOffset class

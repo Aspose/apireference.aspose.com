@@ -11,7 +11,7 @@ url: /ja/net/aspose.page.eps.device/pssaveoptions/saveformat/
 結果ファイルの保存形式.
 
 ```csharp
-public #=zVeDKvb93yYvf1v5gLIr7_ZY$TrodRiVPyQ== SaveFormat { get; set; }
+public #=zdi79JyoaG5rAbaLozfXqNxrwlXEFTebakg== SaveFormat { get; set; }
 ```
 
 ### 関連項目

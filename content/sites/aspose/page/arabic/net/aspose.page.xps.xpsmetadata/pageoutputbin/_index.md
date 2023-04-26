@@ -3,7 +3,7 @@ title: Class PageOutputBin
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageOutputBin فصل. يصف القائمة الكاملة للحاويات المدعومة للجهاز. يسمح بمواصفات حاوية الإخراج على أساس كل صفحةJobOutputBin وDocumentOutputBin وPageOutputBin الكلمات الرئيسية هي متنافية يجب تحديد واحدة فقط في بطاقة PrintTicket أو مستند إمكانيات الطباعة . https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputbin
 type: docs
-weight: 2320
+weight: 2330
 url: /ar/net/aspose.page.xps.xpsmetadata/pageoutputbin/
 ---
 ## PageOutputBin class

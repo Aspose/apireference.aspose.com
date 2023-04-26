@@ -3,7 +3,7 @@ title: Class InputBin.FeedDirection
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedDirection فصل. يعرف الثوابت لملف قيمة الممتلكات المسجلة.
 type: docs
-weight: 1020
+weight: 1030
 url: /ar/net/aspose.page.xps.xpsmetadata/inputbin.feeddirection/
 ---
 ## InputBin.FeedDirection class

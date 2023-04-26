@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: Aspose.Page für .NET-API-Referenz
 description: PsDocument methode. Fügt dem aktuellen Grafikstatus eine Skalierung hinzu aktuelle Matrix skalieren.
 type: docs
-weight: 210
+weight: 230
 url: /de/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

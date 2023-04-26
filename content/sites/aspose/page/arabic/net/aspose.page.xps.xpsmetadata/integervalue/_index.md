@@ -3,7 +3,7 @@ title: Class IntegerValue
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IntegerValue فصل. الفئة التي تتضمن قيمة عدد صحيح في مستند PrintTicket.
 type: docs
-weight: 1120
+weight: 1130
 url: /ar/net/aspose.page.xps.xpsmetadata/integervalue/
 ---
 ## IntegerValue class

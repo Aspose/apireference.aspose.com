@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePrinted
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePrinted クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 2230
+weight: 2240
 url: /ja/net/aspose.page.xps.xpsmetadata/pagemediatype.preprinted/
 ---
 ## PageMediaType.PrePrinted class

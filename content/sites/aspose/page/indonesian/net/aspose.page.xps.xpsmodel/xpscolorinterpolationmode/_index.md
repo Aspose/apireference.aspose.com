@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode enum. Nilai yang valid dari properti ColorInterpolationMode sikat gradien.
 type: docs
-weight: 2990
+weight: 3000
 url: /id/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

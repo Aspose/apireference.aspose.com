@@ -1,14 +1,14 @@
 ---
 title: Class UserProperties
 second_title: Справочник по Aspose.Page для .NET API
-description: Aspose.Page.UserProperties сорт. Специальный класс свойств который позволяет устанавливать типизированные свойства и возвращать . Это также позволяет искать соединение двух объектов свойства по умолчанию  если этот объект свойства не содержит свойство.
+description: Aspose.Page.UserProperties сорт. Специальный класс свойств который позволяет устанавливать типизированные свойства и возвращать . Это также позволяет искать соединение двух объектов свойства по умолчанию  если этот объект свойства не содержит свойства.
 type: docs
 weight: 320
 url: /ru/net/aspose.page/userproperties/
 ---
 ## UserProperties class
 
-Специальный класс свойств, который позволяет устанавливать типизированные свойства и возвращать . Это также позволяет искать соединение двух объектов свойства по умолчанию , если этот объект свойства не содержит свойство.
+Специальный класс свойств, который позволяет устанавливать типизированные свойства и возвращать . Это также позволяет искать соединение двух объектов свойства по умолчанию , если этот объект свойства не содержит свойства.
 
 ```csharp
 public class UserProperties : Dictionary<string, object>
@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | Получает значение свойства строкового массива. Если запрошенное свойство отсутствует, возвращает предоставленное значение по умолчанию. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | Получает логическое значение свойства. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | Получает логическое значение свойства. Если запрошенное свойство отсутствует, возвращает предоставленное значение по умолчанию. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | Возвращает имена свойств. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | Устанавливает логическое значение свойства. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | Устанавливает значение свойства цвета. |

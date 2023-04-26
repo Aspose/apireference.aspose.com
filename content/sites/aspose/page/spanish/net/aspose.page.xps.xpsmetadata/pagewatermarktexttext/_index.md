@@ -3,7 +3,7 @@ title: Class PageWatermarkTextText
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextText clase. Especifica el texto de la marca de agua. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktexttext
 type: docs
-weight: 2750
+weight: 2760
 url: /es/net/aspose.page.xps.xpsmetadata/pagewatermarktexttext/
 ---
 ## PageWatermarkTextText class

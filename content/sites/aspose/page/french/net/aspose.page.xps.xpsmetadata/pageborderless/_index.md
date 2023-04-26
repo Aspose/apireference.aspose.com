@@ -3,7 +3,7 @@ title: Class PageBorderless
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBorderless classe. Décrit quand le contenu de limage doit être imprimé sur les bords physiques du support. https//docs.microsoft.com/enus/windows/win32/printdocs/pageborderless
 type: docs
-weight: 1830
+weight: 1840
 url: /fr/net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

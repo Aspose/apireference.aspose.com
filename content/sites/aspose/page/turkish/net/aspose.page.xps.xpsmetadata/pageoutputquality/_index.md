@@ -3,7 +3,7 @@ title: Class PageOutputQuality
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageOutputQuality sınıf. Çıktının negatif ayarını açıklar. https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputquality
 type: docs
-weight: 2370
+weight: 2380
 url: /tr/net/aspose.page.xps.xpsmetadata/pageoutputquality/
 ---
 ## PageOutputQuality class

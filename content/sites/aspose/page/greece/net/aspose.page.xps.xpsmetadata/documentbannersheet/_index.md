@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet τάξη. Περιγράφει το φύλλο banner που θα εξάγεται για ένα συγκεκριμένο έγγραφο. Το φύλλο banner θα πρέπει να βγαίνει στο default PageMediaSize και χρησιμοποιώντας την προεπιλογήPageMediaType . Το φύλλο banner θα πρέπει να είναι επίσης απομονωμένο από το υπόλοιπο της εργασίας. Αυτό σημαίνει ότι τυχόν επιλογές φινιρίσματος ή επεξεργασίας όπως DocumentDuplex DocumentStaple  ήDocumentBinding δεν πρέπει να περιλαμβάνει το φύλλο banner. Το φύλλο banner μπορεί να είναι ή να μην είναι απομονωμένο από την υπόλοιπη εργασία. Αυτό σημαίνει ότι οποιαδήποτε επιλογή ολοκλήρωσης ή επεξεργασίας εργασίας μπορεί να περιλαμβάνει το φύλλο banner εγγράφου. Το φύλλο banner πρέπει να εμφανίζεται ως το πρώτο φύλλο του εγγράφου. https //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 530
+weight: 540
 url: /el/net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class

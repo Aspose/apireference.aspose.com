@@ -3,7 +3,7 @@ title: Class PageMediaType.Material
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeMaterial сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 2210
+weight: 2220
 url: /ru/net/aspose.page.xps.xpsmetadata/pagemediatype.material/
 ---
 ## PageMediaType.Material class

@@ -19,7 +19,7 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 | اسم | وصف |
 | --- | --- |
 | [PdfDevice](pdfdevice/#constructor)(Stream) | تهيئة مثيل جديد لـ`PdfDevice` مع تيار الإخراج. |
-| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | تهيئة مثيل جديد لـ`PdfDevice`مع تدفق الإخراج والحجم المحدد للصفحة. |
+| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | تهيئة مثيل جديد لـ`PdfDevice` مع تدفق الإخراج والحجم المحدد للصفحة. |
 
 ## الخصائص
 

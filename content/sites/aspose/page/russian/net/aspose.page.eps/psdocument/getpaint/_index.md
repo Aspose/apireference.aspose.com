@@ -3,7 +3,7 @@ title: PsDocument.GetPaint
 second_title: Справочник по Aspose.Page для .NET API
 description: PsDocument метод. Получает отрисовку текущего состояния графики.
 type: docs
-weight: 130
+weight: 150
 url: /ru/net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method

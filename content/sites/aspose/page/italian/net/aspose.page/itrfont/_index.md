@@ -34,7 +34,7 @@ public interface ITrFont
 
 | Nome | Descrizione |
 | --- | --- |
-| [Clone](../../aspose.page/itrfont/clone/)() | Clona il carattere. |
+| [Clone](../../aspose.page/itrfont/clone/)() | Clona il font. |
 | [DeriveFont](../../aspose.page/itrfont/derivefont/#derivefont)(float) | Crea l'equivalente di questo carattere con una nuova dimensione. |
 | [DeriveFont](../../aspose.page/itrfont/derivefont/#derivefont_3)(FontStyle) | Crea l'equivalente di questo font con un nuovo stile. |
 | [DeriveFont](../../aspose.page/itrfont/derivefont/#derivefont_2)(Matrix) | f character Crea l'equivalente di questo font con new transform. |

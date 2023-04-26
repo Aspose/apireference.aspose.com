@@ -3,7 +3,7 @@ title: Class NameProperty
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.NameProperty сорт. Базовый класс дляJobName иDocumentNameклассы свойств.
 type: docs
-weight: 1640
+weight: 1650
 url: /ru/net/aspose.page.xps.xpsmetadata/nameproperty/
 ---
 ## NameProperty class

@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp classe. Décrit la sortie et le format de plusieurs pages logiques sur une seule feuille physique. Chaque document est compilé séparément. etJobNUpAllDocumentsContiguously sexcluent mutuellement. Il appartient au pilote de déterminer la gestion des contraintes entre ces mots clés. https//docs.microsoft.com/enus/windows/win32/printdocs/documentnup
 type: docs
-weight: 740
+weight: 750
 url: /fr/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFrontSource
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontSource فصل. يحدد مصدر الورقة الأولية المخصصة للغلاف الأمامي للمهمة. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfrontsource
 type: docs
-weight: 1550
+weight: 1560
 url: /ar/net/aspose.page.xps.xpsmetadata/jobprimarycoverfrontsource/
 ---
 ## JobPrimaryCoverFrontSource class

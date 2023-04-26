@@ -3,7 +3,7 @@ title: Class PageNegativeImage
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageNegativeImage τάξη. Περιγράφει την αρνητική ρύθμιση της εξόδου. https//docs.microsoft.com/enus/windows/win32/printdocs/pagenegativeimage
 type: docs
-weight: 2280
+weight: 2290
 url: /el/net/aspose.page.xps.xpsmetadata/pagenegativeimage/
 ---
 ## PageNegativeImage class

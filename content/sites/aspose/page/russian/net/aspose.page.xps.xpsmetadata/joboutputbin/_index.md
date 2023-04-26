@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin сорт. Описывает установленный выходной лоток на устройстве или полный список поддерживаемых лотков для устройства. JobOutputBin DocumentOutputBin иPageOutputBin ключевые слова являются взаимоисключающими только одно должно быть указано в документе PrintTicket или Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /ru/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

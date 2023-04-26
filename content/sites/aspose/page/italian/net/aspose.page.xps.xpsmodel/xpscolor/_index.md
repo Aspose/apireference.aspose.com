@@ -3,7 +3,7 @@ title: Class XpsColor
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsColor classe. La classe base che incapsula caratteristiche di colore comuni.
 type: docs
-weight: 2980
+weight: 2990
 url: /it/net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

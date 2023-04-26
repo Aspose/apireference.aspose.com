@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice kelas. Perangkat pembuat gambar yang merangkum kelas.
 type: docs
-weight: 350
+weight: 360
 url: /id/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront sınıf. Ön başlangıç kapak sayfasını tanımlar. İşin tamamı tek bir birincil sayfaya sahip olacaktır. Kapak sayfası yazıcıya yazdırılmalıdır.PageMediaSize VePageMediaType işin ilk sayfası için kullanılır. Kapak sayfası process options örneğinJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  belirtilen Seçenek tarafından belirtildiği şekilde. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /tr/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

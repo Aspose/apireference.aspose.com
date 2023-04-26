@@ -3,7 +3,7 @@ title: PsDocument.Fill
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Συμπληρώστε μια αυθαίρετη διαδρομή.
 type: docs
-weight: 100
+weight: 120
 url: /el/net/aspose.page.eps/psdocument/fill/
 ---
 ## PsDocument.Fill method

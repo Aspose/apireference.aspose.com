@@ -3,7 +3,7 @@ title: Class PageDeviceFontSubstitution
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceFontSubstitution classe. Décrit létat activé/désactivé de la substitution de polices de périphérique. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicefontsubstitution
 type: docs
-weight: 1950
+weight: 1960
 url: /fr/net/aspose.page.xps.xpsmetadata/pagedevicefontsubstitution/
 ---
 ## PageDeviceFontSubstitution class

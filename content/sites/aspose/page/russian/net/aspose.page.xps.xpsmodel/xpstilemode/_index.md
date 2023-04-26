@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsTileMode перечисление. Допустимые значения свойства TileMode мозаичных кистей.
 type: docs
-weight: 3390
+weight: 3400
 url: /ru/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

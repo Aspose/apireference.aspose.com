@@ -3,7 +3,7 @@ title: Class DocumentCollate
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCollate कक्ष. आउटपुट क कलेटंग वशेषतओं क वर्णन करत है प्रत्येक व्यक्तगत दस्तवेज़ में सभ पृष्ठं क मलन कय जत है DocumentCollate और JobCollateAlldocuments परस्पर अनन्य हैं चहे दनं य इनमें से केवल एक कवर्ड क व्यवहर और कर्यन्वयन ड्रइवर पर छड़ दय गय है https//docs.microsoft.com/enus/windows/win32/printdocs/documentcollate
 type: docs
-weight: 610
+weight: 620
 url: /hi/net/aspose.page.xps.xpsmetadata/documentcollate/
 ---
 ## DocumentCollate class

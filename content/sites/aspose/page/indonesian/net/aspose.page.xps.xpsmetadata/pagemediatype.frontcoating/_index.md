@@ -3,7 +3,7 @@ title: Class PageMediaType.FrontCoating
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeFrontCoating kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 2180
+weight: 2190
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediatype.frontcoating/
 ---
 ## PageMediaType.FrontCoating class

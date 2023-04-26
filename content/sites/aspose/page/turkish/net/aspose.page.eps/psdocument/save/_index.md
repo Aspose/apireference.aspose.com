@@ -3,7 +3,7 @@ title: PsDocument.Save
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. PS/EPS dosyasını bir cihaza kaydeder.
 type: docs
-weight: 200
+weight: 220
 url: /tr/net/aspose.page.eps/psdocument/save/
 ---
 ## Save(Device, SaveOptions) {#save_1}
@@ -51,7 +51,7 @@ public void Save(Stream epsStream)
 
 ## Save() {#save}
 
-Kayıt verildi[`PsDocument`](../) EPS dosyası olarak. Bu yöntem yalnızca PsDocument sıfırdan oluşturulduğunda kullanılır.
+Kayıt verildi[`PsDocument`](../)EPS dosyası olarak. Bu yöntem yalnızca PsDocument sıfırdan oluşturulduğunda kullanılır.
 
 ```csharp
 public void Save()

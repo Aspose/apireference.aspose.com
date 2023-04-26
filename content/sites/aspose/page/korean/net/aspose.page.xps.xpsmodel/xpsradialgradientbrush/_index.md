@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush 수업. RadialGradientBrush 속성 요소 기능을 캡슐화하는 클래스입니다. 이 요소는 방사형 그래디언트 브러시를 지정하는 데 사용됩니다.
 type: docs
-weight: 3330
+weight: 3340
 url: /ko/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

@@ -3,7 +3,7 @@ title: Class DocumentBindingGutter
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingGutter klass. Anger bredden på bindningsrännan. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbindinggutter
 type: docs
-weight: 600
+weight: 610
 url: /sv/net/aspose.page.xps.xpsmetadata/documentbindinggutter/
 ---
 ## DocumentBindingGutter class

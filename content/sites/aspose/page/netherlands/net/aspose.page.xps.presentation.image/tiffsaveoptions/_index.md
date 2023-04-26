@@ -3,7 +3,7 @@ title: Class TiffSaveOptions
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.Presentation.Image.TiffSaveOptions klas. Klasse voor XPSasTIFFopslagopties.
 type: docs
-weight: 390
+weight: 400
 url: /nl/net/aspose.page.xps.presentation.image/tiffsaveoptions/
 ---
 ## TiffSaveOptions class

@@ -3,7 +3,7 @@ title: Class InputBin.InputBinOption
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.InputBinInputBinOption 班级. 描述了JobInputBinDocumentInputBin 和PageInputBin功能选项.
 type: docs
-weight: 1070
+weight: 1080
 url: /zh/net/aspose.page.xps.xpsmetadata/inputbin.inputbinoption/
 ---
 ## InputBin.InputBinOption class

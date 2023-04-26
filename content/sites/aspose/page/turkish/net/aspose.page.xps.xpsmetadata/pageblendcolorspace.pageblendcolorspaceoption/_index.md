@@ -3,7 +3,7 @@ title: Class PageBlendColorSpace.PageBlendColorSpaceOption
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageBlendColorSpacePageBlendColorSpaceOption sınıf. PageBlendColorSpace özellik seçenekleri.
 type: docs
-weight: 1810
+weight: 1820
 url: /tr/net/aspose.page.xps.xpsmetadata/pageblendcolorspace.pageblendcolorspaceoption/
 ---
 ## PageBlendColorSpace.PageBlendColorSpaceOption class

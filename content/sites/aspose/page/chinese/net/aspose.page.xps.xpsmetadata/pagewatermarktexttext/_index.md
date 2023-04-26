@@ -3,7 +3,7 @@ title: Class PageWatermarkTextText
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextText 班级. 指定水印的文本 https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktexttext
 type: docs
-weight: 2750
+weight: 2760
 url: /zh/net/aspose.page.xps.xpsmetadata/pagewatermarktexttext/
 ---
 ## PageWatermarkTextText class

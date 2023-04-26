@@ -3,7 +3,7 @@ title: Class PageBlendColorSpaceICCProfileURI
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageBlendColorSpaceICCProfileURI クラス. ブレンディングに使用する必要がある色空間を定義する ICC プロファイルへの相対 URI 参照を指定します Uri はパッケージ ルートに対する絶対 part_name です /windows/win32/printdocs/pageblendcolorspaceiccprofileuri
 type: docs
-weight: 1820
+weight: 1830
 url: /ja/net/aspose.page.xps.xpsmetadata/pageblendcolorspaceiccprofileuri/
 ---
 ## PageBlendColorSpaceICCProfileURI class

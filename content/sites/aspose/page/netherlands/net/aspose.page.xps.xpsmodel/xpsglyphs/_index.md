@@ -3,7 +3,7 @@ title: Class XpsGlyphs
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsGlyphs klas. Klasse die kenmerken van Glyphselementen bevat. Dit element vertegenwoordigt een reeks uniform opgemaakte tekst uit een enkel lettertype. Het biedt informatie die nodig is voor nauwkeurige weergave en ondersteunt zoek en selectiefuncties bij het bekijken van consumenten.
 type: docs
-weight: 3090
+weight: 3100
 url: /nl/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

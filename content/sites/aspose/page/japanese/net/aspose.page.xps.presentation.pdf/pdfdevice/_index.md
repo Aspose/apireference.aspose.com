@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice クラス. クラス内包画像合成装置.
 type: docs
-weight: 400
+weight: 410
 url: /ja/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

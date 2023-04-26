@@ -3,7 +3,7 @@ title: Enum XpsLineJoin
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsLineJoin 열거형. 경로 요소의 StrokeLineJoin 속성의 유효한 값입니다.
 type: docs
-weight: 3190
+weight: 3200
 url: /ko/net/aspose.page.xps.xpsmodel/xpslinejoin/
 ---
 ## XpsLineJoin enumeration

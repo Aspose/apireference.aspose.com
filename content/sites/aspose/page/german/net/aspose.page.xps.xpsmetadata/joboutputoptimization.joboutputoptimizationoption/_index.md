@@ -3,7 +3,7 @@ title: Class JobOutputOptimization.JobOutputOptimizationOption
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobOutputOptimizationJobOutputOptimizationOption klas. Beschreibt dieJobOutputOptimization Funktionsoptionen.
 type: docs
-weight: 1440
+weight: 1450
 url: /de/net/aspose.page.xps.xpsmetadata/joboutputoptimization.joboutputoptimizationoption/
 ---
 ## JobOutputOptimization.JobOutputOptimizationOption class

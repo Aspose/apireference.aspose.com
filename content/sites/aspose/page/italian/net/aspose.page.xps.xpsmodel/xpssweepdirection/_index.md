@@ -3,7 +3,7 @@ title: Enum XpsSweepDirection
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsSweepDirection enum. Valori validi della proprietà SweepDirection dellelemento ArcSegment.
 type: docs
-weight: 3380
+weight: 3390
 url: /it/net/aspose.page.xps.xpsmodel/xpssweepdirection/
 ---
 ## XpsSweepDirection enumeration

@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPage 수업. FixedPage 요소 기능을 캡슐화하는 클래스입니다. 이 요소는 페이지의 내용을 포함하며 FixedPage 부분의 루트 요소입니다.
 type: docs
-weight: 3230
+weight: 3240
 url: /ko/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

@@ -1,14 +1,14 @@
 ---
 title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page for .NET API Referansı
-description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously sınıf. Çıktının çift yönlü özelliklerini açıklar. Dubleks özelliği ortamın her iki tarafına da yazdırmaya izin verir. İşteki tüm Belgeler bitişik olarak birlikte duplekslenir. JobDuplexAllDocumentsContiguously VeDocumentDuplexbirbirini dışlar. Bu anahtar kelimeler arasındaki kısıtlama işlemeyi belirlemek sürücüye bağlıdır. https//docs.Microsoft.com/enus/windows/win32/printdocs/jobduplexaldocumentscontiguously
+description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously sınıf. Çıktının çift yönlü özelliklerini açıklar. Dubleks özelliği ortamın her iki tarafına da yazdırmaya izin verir. İşteki tüm Belgeler bitişik olarak birlikte duplekslenir. JobDuplexAllDocumentsContiguously VeDocumentDuplexbirbirini dışlar. Bu anahtar kelimeler arasındaki kısıtlama işlemeyi belirlemek sürücüye bağlıdır. https//docs.Microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /tr/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class
 
-Çıktının çift yönlü özelliklerini açıklar. Dubleks özelliği, ortamın her iki tarafına da yazdırmaya izin verir. İşteki tüm Belgeler, bitişik olarak birlikte duplekslenir. `JobDuplexAllDocumentsContiguously` Ve[`DocumentDuplex`](../documentduplex/)birbirini dışlar. Bu anahtar kelimeler arasındaki kısıtlama işlemeyi belirlemek sürücüye bağlıdır. https://docs.Microsoft.com/en-us/windows/win32/printdocs/jobduplexaldocumentscontiguously
+Çıktının çift yönlü özelliklerini açıklar. Dubleks özelliği, ortamın her iki tarafına da yazdırmaya izin verir. İşteki tüm Belgeler, bitişik olarak birlikte duplekslenir. `JobDuplexAllDocumentsContiguously` Ve[`DocumentDuplex`](../documentduplex/)birbirini dışlar. Bu anahtar kelimeler arasındaki kısıtlama işlemeyi belirlemek sürücüye bağlıdır. https://docs.Microsoft.com/en-us/windows/win32/printdocs/jobduplexalldocumentscontiguously
 
 ```csharp
 public sealed class JobDuplexAllDocumentsContiguously : Duplex, IJobPrintTicketItem

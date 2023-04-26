@@ -3,7 +3,7 @@ title: Class JobDigitalSignatureProcessing
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobDigitalSignatureProcessing 수업. 전체 작업에 대한 디지털 서명 처리 구성을 설명합니다. 디지털 서명이 포함된 콘텐츠에만 적용됩니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdigitalsignatureprocessing
 type: docs
-weight: 1260
+weight: 1270
 url: /ko/net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing/
 ---
 ## JobDigitalSignatureProcessing class

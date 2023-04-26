@@ -3,7 +3,7 @@ title: Class PageTrueTypeFontMode
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageTrueTypeFontMode 수업. 사용할 TrueType 글꼴 처리 방법을 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagetruetypefontmode
 type: docs
-weight: 2620
+weight: 2630
 url: /ko/net/aspose.page.xps.xpsmetadata/pagetruetypefontmode/
 ---
 ## PageTrueTypeFontMode class

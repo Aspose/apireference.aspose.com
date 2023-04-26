@@ -3,7 +3,7 @@ title: Class PageScalingOffsetWidth
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetWidth 수업. 에서 스케일링 오프셋을 지정합니다. 사용자 지정 크기 조정 방향. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetwidth
 type: docs
-weight: 2540
+weight: 2550
 url: /ko/net/aspose.page.xps.xpsmetadata/pagescalingoffsetwidth/
 ---
 ## PageScalingOffsetWidth class

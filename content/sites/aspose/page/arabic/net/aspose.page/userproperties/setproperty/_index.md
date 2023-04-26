@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: Aspose.Page لمرجع NET API
 description: UserProperties طريقة. تعيين قيمة خاصية السلسلة .
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

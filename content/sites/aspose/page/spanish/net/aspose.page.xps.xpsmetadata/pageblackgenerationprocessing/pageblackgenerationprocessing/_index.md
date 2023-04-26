@@ -16,7 +16,7 @@ public PageBlackGenerationProcessing(params PageBlackGenerationProcessingOption[
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageBlackGenerationProcessingOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageBlackGenerationProcessingOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

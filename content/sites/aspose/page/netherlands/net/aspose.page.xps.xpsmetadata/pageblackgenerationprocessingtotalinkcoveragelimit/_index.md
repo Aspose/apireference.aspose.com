@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingTotalInkCoverageLimit
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingTotalInkCoverageLimit klas. Specificeert de maximaal toegestane som van de vier inktdekking overal in een afbeelding. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingtotalinkcoveragelimit
 type: docs
-weight: 1770
+weight: 1780
 url: /nl/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingtotalinkcoveragelimit/
 ---
 ## PageBlackGenerationProcessingTotalInkCoverageLimit class

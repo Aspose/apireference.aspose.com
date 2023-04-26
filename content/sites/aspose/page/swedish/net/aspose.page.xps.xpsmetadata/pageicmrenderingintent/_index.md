@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntent klass. Beskriver renderingsavsikten som definieras av ICC v2specifikationen. Detta värde bör ignoreras om en bild eller ett grafiskt element har en inbäddad profil som anger renderingsavsikten. https//docs.microsoft.com/enus windows/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1990
+weight: 2000
 url: /sv/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

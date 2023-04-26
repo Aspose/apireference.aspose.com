@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty сорт. Класс реализующий общий PrintTicket . Базовый класс для всех оцениваемых свойств определенных схемой. A element объявляет свойство присущее an Option определение. Такие свойства следует сравнивать при оценке того насколько близко запрошенныйOption соответствует поддерживаемому устройствомOption . https//docs.microsoft.com/enus/windows/win32/printdocs/scoredproperty
 type: docs
-weight: 2850
+weight: 2860
 url: /ru/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

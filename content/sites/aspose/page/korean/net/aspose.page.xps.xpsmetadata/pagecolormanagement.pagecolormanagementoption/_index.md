@@ -3,7 +3,7 @@ title: Class PageColorManagement.PageColorManagementOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageColorManagementPageColorManagementOption 수업. 설명PageColorManagement 기능 옵션.
 type: docs
-weight: 1860
+weight: 1870
 url: /ko/net/aspose.page.xps.xpsmetadata/pagecolormanagement.pagecolormanagementoption/
 ---
 ## PageColorManagement.PageColorManagementOption class

@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple クラス. 出力のステープル特性を記述します各ドキュメントは個別にステープルされます JobStapleAllDocumentsとDocumentStapleキーワードは相互に排他的です. これらのキーワード間の制約処理を決定するのはドライバー次第です. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /ja/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

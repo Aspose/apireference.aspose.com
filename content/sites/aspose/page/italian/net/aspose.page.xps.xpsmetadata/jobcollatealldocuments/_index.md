@@ -3,7 +3,7 @@ title: Class JobCollateAllDocuments
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobCollateAllDocuments classe. Descrive le caratteristiche di fascicolazione delloutput. Tutti i documenti in ogni singolo lavoro vengono fascicolati. DocumentCollate EJobCollateAllDocumentssi escludono a vicenda. Il comportamento e limplementazione dellimplementazione di entrambe o di una sola di queste parole chiave sono lasciati al driver. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcollatealldocuments
 type: docs
-weight: 1200
+weight: 1210
 url: /it/net/aspose.page.xps.xpsmetadata/jobcollatealldocuments/
 ---
 ## JobCollateAllDocuments class

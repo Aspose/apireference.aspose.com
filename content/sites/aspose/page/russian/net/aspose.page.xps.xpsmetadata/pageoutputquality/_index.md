@@ -3,7 +3,7 @@ title: Class PageOutputQuality
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageOutputQuality сорт. Описывает отрицательную настройку вывода. https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputquality
 type: docs
-weight: 2370
+weight: 2380
 url: /ru/net/aspose.page.xps.xpsmetadata/pageoutputquality/
 ---
 ## PageOutputQuality class

@@ -3,7 +3,7 @@ title: Class PageSourceColorProfileEmbedded
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfileEmbedded कक्ष. एम्बेडेड स्रत रंग प्रफ़इल नर्दष्ट करत है
 type: docs
-weight: 2600
+weight: 2610
 url: /hi/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofileembedded/
 ---
 ## PageSourceColorProfileEmbedded class

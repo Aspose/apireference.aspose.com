@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementLevel
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementLevel τάξη. Καθορίζει το ποσοστό αντικατάστασης γκρι εξαρτημάτων που θα εκτελεστεί. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementlevel
 type: docs
-weight: 1750
+weight: 1760
 url: /el/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementlevel/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementLevel class

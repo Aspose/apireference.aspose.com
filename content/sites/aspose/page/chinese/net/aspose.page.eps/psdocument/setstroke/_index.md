@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 在当前图形状态下设置笔划
 type: docs
-weight: 250
+weight: 270
 url: /zh/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

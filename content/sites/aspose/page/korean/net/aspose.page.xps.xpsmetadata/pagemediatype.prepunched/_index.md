@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePunched
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePunched 수업. 에 대한 상수를 정의합니다. 스코어링된 속성 값.
 type: docs
-weight: 2240
+weight: 2250
 url: /ko/net/aspose.page.xps.xpsmetadata/pagemediatype.prepunched/
 ---
 ## PageMediaType.PrePunched class

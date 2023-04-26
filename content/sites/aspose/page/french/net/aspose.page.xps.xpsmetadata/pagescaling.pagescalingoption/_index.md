@@ -3,7 +3,7 @@ title: Class PageScaling.PageScalingOption
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageScalingPageScalingOption classe. Décrit lePageScaling options de fonctionnalités.
 type: docs
-weight: 2500
+weight: 2510
 url: /fr/net/aspose.page.xps.xpsmetadata/pagescaling.pagescalingoption/
 ---
 ## PageScaling.PageScalingOption class

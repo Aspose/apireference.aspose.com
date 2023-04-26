@@ -3,7 +3,7 @@ title: Class PageScalingScale
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScale classe. Spécifie le facteur déchelle pour la mise à léchelle carrée personnalisée. https//docs.microsoft.com/enus/windows/win32/printdocs/pagesscalingscale
 type: docs
-weight: 2550
+weight: 2560
 url: /fr/net/aspose.page.xps.xpsmetadata/pagescalingscale/
 ---
 ## PageScalingScale class

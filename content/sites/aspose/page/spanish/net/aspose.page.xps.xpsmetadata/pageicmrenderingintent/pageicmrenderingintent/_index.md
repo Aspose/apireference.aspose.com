@@ -16,7 +16,7 @@ public PageICMRenderingIntent(params PageICMRenderingIntentOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageICMRenderingIntentOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageICMRenderingIntentOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

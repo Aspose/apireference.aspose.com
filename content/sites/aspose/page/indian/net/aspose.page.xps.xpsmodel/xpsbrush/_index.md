@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsBrush कक्ष. सभ ब्रश तत्वं क समन्य वशेषतओं क समहत करने वल वर्ग
 type: docs
-weight: 2960
+weight: 2970
 url: /hi/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

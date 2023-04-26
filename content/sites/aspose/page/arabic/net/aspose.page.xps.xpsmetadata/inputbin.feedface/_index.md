@@ -3,7 +3,7 @@ title: Class InputBin.FeedFace
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedFace فصل. يعرف الثوابت لملف قيمة الممتلكات المسجلة.
 type: docs
-weight: 1030
+weight: 1040
 url: /ar/net/aspose.page.xps.xpsmetadata/inputbin.feedface/
 ---
 ## InputBin.FeedFace class

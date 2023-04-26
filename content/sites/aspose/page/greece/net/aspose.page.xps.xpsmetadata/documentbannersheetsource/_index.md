@@ -3,7 +3,7 @@ title: Class DocumentBannerSheetSource
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheetSource τάξη. Καθορίζει την πηγή για ένα προσαρμοσμένο φύλλο banner. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheetsource
 type: docs
-weight: 550
+weight: 560
 url: /el/net/aspose.page.xps.xpsmetadata/documentbannersheetsource/
 ---
 ## DocumentBannerSheetSource class

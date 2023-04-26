@@ -44,7 +44,7 @@ public class ImageDevice : Device, IMultiPageDevice
 | override [Size](../../aspose.page.eps.device/imagedevice/size/) { get; set; } | 返回或指定页面的大小。 |
 | override [Stroke](../../aspose.page.eps.device/imagedevice/stroke/) { get; set; } | 返回或指定当前笔划。 |
 | override [TextRenderingMode](../../aspose.page.eps.device/imagedevice/textrenderingmode/) { get; set; } | 返回或指定当前文本呈现模式。 |
-| override [TextStrokeWidth](../../aspose.page.eps.device/imagedevice/textstrokewidth/) { get; set; } | 返回或指定当前文本笔划宽度。 |
+| override [TextStrokeWidth](../../aspose.page.eps.device/imagedevice/textstrokewidth/) { get; set; } | 返回或指定当前文本笔画宽度。 |
 
 ## 方法
 

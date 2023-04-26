@@ -3,7 +3,7 @@ title: Class JobDigitalSignatureProcessing
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobDigitalSignatureProcessing τάξη. Περιγράφει τη διαμόρφωση της επεξεργασίας ψηφιακής υπογραφής για ολόκληρη την εργασία. Ισχύει μόνο για περιεχόμενο που περιέχει ψηφιακές υπογραφές. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdigitalsignatureprocessing
 type: docs
-weight: 1260
+weight: 1270
 url: /el/net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing/
 ---
 ## JobDigitalSignatureProcessing class

@@ -3,7 +3,7 @@ title: Class PageBlendColorSpace
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlendColorSpace 수업. 혼합 작업에 사용해야 하는 색상 공간을 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblendcolorspace
 type: docs
-weight: 1800
+weight: 1810
 url: /ko/net/aspose.page.xps.xpsmetadata/pageblendcolorspace/
 ---
 ## PageBlendColorSpace class

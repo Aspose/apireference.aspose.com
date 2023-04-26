@@ -3,7 +3,7 @@ title: Interface IPagePrintTicketItem
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.IPagePrintTicketItem antarmuka. Antarmuka item tiket cetak dengan awalan halaman.
 type: docs
-weight: 950
+weight: 960
 url: /id/net/aspose.page.xps.xpsmetadata/ipageprintticketitem/
 ---
 ## IPagePrintTicketItem interface

@@ -3,7 +3,7 @@ title: Class PageWatermarkTextFontSize
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextFontSize कक्ष. वटरमर्क टेक्स्ट के लए उपलब्ध फ़न्ट आकर क परभषत करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextfontsize
 type: docs
-weight: 2740
+weight: 2750
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermarktextfontsize/
 ---
 ## PageWatermarkTextFontSize class

@@ -18,7 +18,7 @@ public interface IStreamable
 
 | Nama | Keterangan |
 | --- | --- |
-| [OutputStream](../../aspose.page/istreamable/outputstream/) { get; set; } | Mendapat atau menentukan aliran keluaran. |
+| [OutputStream](../../aspose.page/istreamable/outputstream/) { get; set; } | Mendapat atau menentukan aliran output. |
 
 ### Lihat juga
 

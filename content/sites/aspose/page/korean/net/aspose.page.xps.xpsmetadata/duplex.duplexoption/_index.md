@@ -3,7 +3,7 @@ title: Class Duplex.DuplexOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexOption 수업. 설명JobDuplexAllDocumentsContiguously 그리고DocumentDuplex 기능 옵션.
 type: docs
-weight: 860
+weight: 870
 url: /ko/net/aspose.page.xps.xpsmetadata/duplex.duplexoption/
 ---
 ## Duplex.DuplexOption class

@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin classe. Descrive il raccoglitore di uscita installato in un dispositivo o lelenco completo dei raccoglitori supportati per un dispositivo. IlJobOutputBin DocumentOutputBin EPageOutputBin keywords si escludono a vicenda solo una deve essere specificata in un documento PrintTicket o Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /it/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

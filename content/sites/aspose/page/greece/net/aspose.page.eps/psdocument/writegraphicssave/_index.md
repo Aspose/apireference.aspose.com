@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsSave
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Γράφει αποθήκευση της τρέχουσας κατάστασης γραφικών Δείτε την προδιαγραφή PostScript στον τελεστή gsave.
 type: docs
-weight: 300
+weight: 330
 url: /el/net/aspose.page.eps/psdocument/writegraphicssave/
 ---
 ## PsDocument.WriteGraphicsSave method

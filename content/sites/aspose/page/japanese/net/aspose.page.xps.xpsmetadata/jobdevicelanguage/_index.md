@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage クラス. ドライバーから物理デバイスにデータを送信するためにサポートされているデバイス言語について説明します これはページ記述言語と呼ばれることがよくありますこのキーワードはドライバーと物理デバイスでサポートされているページ記述 言語を定義します
 type: docs
-weight: 1230
+weight: 1240
 url: /ja/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

@@ -3,7 +3,7 @@ title: Class JobCollateAllDocuments
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobCollateAllDocuments 수업. 출력의 조합 특성을 설명합니다. 각 개별 작업의 모든 문서가 정렬됩니다. DocumentCollate 그리고JobCollateAllDocuments상호 배타적입니다. 이러한 키워드 중 하나만 구현되는지 여부의 동작 및 구현은 드라이버에 맡겨집니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcollatealldocuments
 type: docs
-weight: 1200
+weight: 1210
 url: /ko/net/aspose.page.xps.xpsmetadata/jobcollatealldocuments/
 ---
 ## JobCollateAllDocuments class

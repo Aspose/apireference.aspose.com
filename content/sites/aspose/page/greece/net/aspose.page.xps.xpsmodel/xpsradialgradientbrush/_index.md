@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush τάξη. Χαρακτηριστικά στοιχεία ιδιότητας RadialGradientBrush κλάσης.
 type: docs
-weight: 3330
+weight: 3340
 url: /el/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

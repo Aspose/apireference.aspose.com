@@ -3,7 +3,7 @@ title: Class IntegerValue
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IntegerValue 수업. PrintTicket 문서에서 Integer 값을 캡슐화하는 클래스입니다.
 type: docs
-weight: 1120
+weight: 1130
 url: /ko/net/aspose.page.xps.xpsmetadata/integervalue/
 ---
 ## IntegerValue class

@@ -3,7 +3,7 @@ title: Interface IPrintTicketItem
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketItem interfaccia. Linterfaccia di base per le classi che potrebbero esserePrintTicket elementi dellelemento radice. È anche linterfaccia di base per le interfacce che definiscono un prefisso di ambito.
 type: docs
-weight: 970
+weight: 980
 url: /it/net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface

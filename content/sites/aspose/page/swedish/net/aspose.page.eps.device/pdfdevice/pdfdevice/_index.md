@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-Initierar ny instans av[`PdfDevice`](../)med utdataström och angiven storlek på en sida.
+Initierar ny instans av[`PdfDevice`](../) med utdataström och angiven storlek på en sida.
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

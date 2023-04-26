@@ -38,7 +38,7 @@ public abstract class Device
 | virtual [Size](../../aspose.page/device/size/) { get; set; } | 返回或指定页面的大小。 |
 | virtual [Stroke](../../aspose.page/device/stroke/) { get; set; } | 返回或指定当前笔划。 |
 | virtual [TextRenderingMode](../../aspose.page/device/textrenderingmode/) { get; set; } | 返回或指定当前文本呈现模式。 |
-| virtual [TextStrokeWidth](../../aspose.page/device/textstrokewidth/) { get; set; } | 返回或指定当前文本笔划宽度。 |
+| virtual [TextStrokeWidth](../../aspose.page/device/textstrokewidth/) { get; set; } | 返回或指定当前文本笔画宽度。 |
 
 ## 方法
 

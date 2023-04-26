@@ -3,7 +3,7 @@ title: Class JobPrintTicket
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrintTicket कक्ष. वह क्लस ज जबलेवल प्रंट टकट क समहत करत है
 type: docs
-weight: 1560
+weight: 1570
 url: /hi/net/aspose.page.xps.xpsmetadata/jobprintticket/
 ---
 ## JobPrintTicket class

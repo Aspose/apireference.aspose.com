@@ -3,7 +3,7 @@ title: Class XpsFont
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsFont 수업. 트루타입 글꼴 리소스를 캡슐화하는 클래스입니다.
 type: docs
-weight: 3080
+weight: 3090
 url: /ko/net/aspose.page.xps.xpsmodel/xpsfont/
 ---
 ## XpsFont class

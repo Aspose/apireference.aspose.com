@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsSave
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 写入当前图形状态的保存请参阅运算符gsave的 PostScript 规范
 type: docs
-weight: 300
+weight: 330
 url: /zh/net/aspose.page.eps/psdocument/writegraphicssave/
 ---
 ## PsDocument.WriteGraphicsSave method

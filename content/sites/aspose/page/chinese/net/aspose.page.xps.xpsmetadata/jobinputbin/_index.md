@@ -3,7 +3,7 @@ title: Class JobInputBin
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobInputBin 班级. 描述设备中已安装的输入仓或设备支持的仓的完整列表 允许在每个作业的基础上指定输入仓这JobInputBinDocumentInputBin 和PageInputBin关键字是互斥的不应在 PrintTicket 或 Print Capabilities 文档中同时指定两者  https//docs.microsoft.com/enus/windows/win32/printdocs/jobinputbin
 type: docs
-weight: 1370
+weight: 1380
 url: /zh/net/aspose.page.xps.xpsmetadata/jobinputbin/
 ---
 ## JobInputBin class

@@ -3,7 +3,7 @@ title: PsDocument.GetStroke
 second_title: Aspose.Page för .NET API-referens
 description: PsDocument metod. Får ett slag av aktuellt grafikläge.
 type: docs
-weight: 140
+weight: 160
 url: /sv/net/aspose.page.eps/psdocument/getstroke/
 ---
 ## PsDocument.GetStroke method

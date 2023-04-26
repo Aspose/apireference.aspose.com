@@ -19,7 +19,7 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 | Nom | La description |
 | --- | --- |
 | [PdfDevice](pdfdevice/#constructor)(Stream) | Initialise la nouvelle instance de`PdfDevice` avec flux de sortie. |
-| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | Initialise la nouvelle instance de`PdfDevice`avec flux de sortie et taille spécifiée d'une page. |
+| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | Initialise la nouvelle instance de`PdfDevice` avec flux de sortie et taille spécifiée d'une page. |
 
 ## Propriétés
 

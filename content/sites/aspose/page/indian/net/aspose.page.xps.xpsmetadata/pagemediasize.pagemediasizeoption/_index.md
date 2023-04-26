@@ -3,7 +3,7 @@ title: Class PageMediaSize.PageMediaSizeOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePageMediaSizeOption कक्ष. क वर्णन करत हैPageMediaSize सुवध वकल्प.
 type: docs
-weight: 2080
+weight: 2090
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediasize.pagemediasizeoption/
 ---
 ## PageMediaSize.PageMediaSizeOption class

@@ -3,7 +3,7 @@ title: Class PageScalingOffsetHeight
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetHeight classe. Spécifie le décalage déchelle dans le direction pour la mise à léchelle personnalisée. https//docs.microsoft.com/enus/windows/win32/printdocs/pagesscalingoffsetheight
 type: docs
-weight: 2530
+weight: 2540
 url: /fr/net/aspose.page.xps.xpsmetadata/pagescalingoffsetheight/
 ---
 ## PageScalingOffsetHeight class

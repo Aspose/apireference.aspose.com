@@ -3,7 +3,7 @@ title: Class XpsImage
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsImage kelas. Kelas yang merangkum sumber daya gambar.
 type: docs
-weight: 3160
+weight: 3170
 url: /id/net/aspose.page.xps.xpsmodel/xpsimage/
 ---
 ## XpsImage class

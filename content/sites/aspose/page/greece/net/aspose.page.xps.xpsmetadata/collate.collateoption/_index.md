@@ -3,7 +3,7 @@ title: Class Collate.CollateOption
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.CollateCollateOption τάξη. Περιγράφει τοDocumentCollate καιJobCollateAllDocuments δυνατότητες επιλογές.
 type: docs
-weight: 500
+weight: 510
 url: /el/net/aspose.page.xps.xpsmetadata/collate.collateoption/
 ---
 ## Collate.CollateOption class

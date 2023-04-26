@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingTotalInkCoverageLimit
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingTotalInkCoverageLimit τάξη. Καθορίζει το μέγιστο επιτρεπόμενο άθροισμα της κάλυψης τεσσάρων μελανιών οπουδήποτε σε μια εικόνα. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingtotalinkcoveragelimit
 type: docs
-weight: 1770
+weight: 1780
 url: /el/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingtotalinkcoveragelimit/
 ---
 ## PageBlackGenerationProcessingTotalInkCoverageLimit class

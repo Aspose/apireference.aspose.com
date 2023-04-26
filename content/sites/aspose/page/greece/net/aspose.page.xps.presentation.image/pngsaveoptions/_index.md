@@ -3,7 +3,7 @@ title: Class PngSaveOptions
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.Presentation.Image.PngSaveOptions τάξη. Κατηγορία για επιλογές αποθήκευσης XPSasPNG.
 type: docs
-weight: 380
+weight: 390
 url: /el/net/aspose.page.xps.presentation.image/pngsaveoptions/
 ---
 ## PngSaveOptions class

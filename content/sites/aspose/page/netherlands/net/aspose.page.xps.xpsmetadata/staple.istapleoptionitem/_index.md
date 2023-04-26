@@ -3,7 +3,7 @@ title: Interface Staple.IStapleOptionItem
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.StapleIStapleOptionItem koppel. De interface van elkStapleOption item.
 type: docs
-weight: 2880
+weight: 2890
 url: /nl/net/aspose.page.xps.xpsmetadata/staple.istapleoptionitem/
 ---
 ## Staple.IStapleOptionItem interface

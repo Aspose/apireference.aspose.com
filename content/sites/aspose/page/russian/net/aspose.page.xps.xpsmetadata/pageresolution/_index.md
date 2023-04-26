@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageResolution сорт. Определяет разрешение страницы печатного вывода либо как качественное значение либо как количество точек на дюйм либо и то и другое.
 type: docs
-weight: 2430
+weight: 2440
 url: /ru/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

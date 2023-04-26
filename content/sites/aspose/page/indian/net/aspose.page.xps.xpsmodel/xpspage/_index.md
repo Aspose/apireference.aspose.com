@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPage कक्ष. क्लस इनकैप्सुलेटंग फक्स्डपेज एलमेंट फचर्स इस एलमेंट में पेज क समग्र हत है और यह फक्स्डपेज पर्ट क रूट एलमेंट है
 type: docs
-weight: 3230
+weight: 3240
 url: /hi/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingTotalInkCoverageLimit
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingTotalInkCoverageLimit クラス. 画像内の任意の場所にある 4 つのインク適用範囲の最大許容合計を指定します
 type: docs
-weight: 1770
+weight: 1780
 url: /ja/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingtotalinkcoveragelimit/
 ---
 ## PageBlackGenerationProcessingTotalInkCoverageLimit class

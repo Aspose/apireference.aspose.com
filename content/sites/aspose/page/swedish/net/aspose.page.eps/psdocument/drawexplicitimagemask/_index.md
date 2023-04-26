@@ -3,7 +3,7 @@ title: PsDocument.DrawExplicitImageMask
 second_title: Aspose.Page för .NET API-referens
 description: PsDocument metod. Rita maskerad bild.
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.page.eps/psdocument/drawexplicitimagemask/
 ---
 ## PsDocument.DrawExplicitImageMask method

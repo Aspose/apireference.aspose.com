@@ -3,7 +3,7 @@ title: Class InputBin.BinType
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinBinType сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 1010
+weight: 1020
 url: /ru/net/aspose.page.xps.xpsmetadata/inputbin.bintype/
 ---
 ## InputBin.BinType class

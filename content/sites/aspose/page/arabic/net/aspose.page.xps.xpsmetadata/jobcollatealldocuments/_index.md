@@ -3,7 +3,7 @@ title: Class JobCollateAllDocuments
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobCollateAllDocuments فصل. يصف خصائص المقارنة للإخراج. يتم ترتيب جميع المستندات في كل وظيفة على حدة.DocumentCollate وJobCollateAllDocumentsيتم استبعاد بعضهما البعض.
 type: docs
-weight: 1200
+weight: 1210
 url: /ar/net/aspose.page.xps.xpsmetadata/jobcollatealldocuments/
 ---
 ## JobCollateAllDocuments class

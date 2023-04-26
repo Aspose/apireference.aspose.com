@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush فصل. فئة تتضمن السمات المشتركة لعناصر الفرش القابلة للتحويل جميعها باستثناء SolidColorBrush .
 type: docs
-weight: 3410
+weight: 3420
 url: /ar/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

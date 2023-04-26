@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously 班级. 描述了输出的双工特性双面打印功能允许在介质的两面打印 作业中的所有文档连续双面打印在一起 JobDuplexAllDocumentsContiguously和DocumentDuplex是互斥的 由驱动程序确定这些关键字之间的约束处理 https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /zh/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

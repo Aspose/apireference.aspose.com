@@ -20,7 +20,7 @@ public static PageMediaColorOption Custom(string mediaColorsRGB)
 
 ### Nilai Pengembalian
 
-Elemen opsi untuk warna kustom.
+Elemen opsi untuk warna khusus.
 
 ### Lihat juga
 

@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode تعداد. القيم الصالحة لخاصية ColorInterpolationMode لفرش التدرج.
 type: docs
-weight: 2990
+weight: 3000
 url: /ar/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

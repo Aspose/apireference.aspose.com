@@ -1,14 +1,14 @@
 ---
 title: ITrFont.Clone
 second_title: Aspose.Page per riferimento all'API .NET
-description: ITrFont metodo. Clona il carattere.
+description: ITrFont metodo. Clona il font.
 type: docs
 weight: 120
 url: /it/net/aspose.page/itrfont/clone/
 ---
 ## ITrFont.Clone method
 
-Clona il carattere.
+Clona il font.
 
 ```csharp
 public ITrFont Clone()

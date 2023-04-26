@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. वर्तमन ग्रफ़क्स स्थत में स्केल जड़त है स्केल करेंट मैट्रक्स.
 type: docs
-weight: 210
+weight: 230
 url: /hi/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

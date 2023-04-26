@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments classe. Descrive le caratteristiche di pinzatura delloutput. Tutti i documenti nel lavoro vengono pinzati insieme. TheJobStapleAllDocuments EDocumentStaple le parole chiave si escludono a vicenda. Spetta al driver determinare la gestione dei vincoli tra queste parole chiave. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /it/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

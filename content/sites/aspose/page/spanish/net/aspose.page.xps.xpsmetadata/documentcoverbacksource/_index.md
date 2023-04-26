@@ -3,7 +3,7 @@ title: Class DocumentCoverBackSource
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBackSource clase. Especifica el origen de una contraportada personalizada. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverbacksource
 type: docs
-weight: 650
+weight: 660
 url: /es/net/aspose.page.xps.xpsmetadata/documentcoverbacksource/
 ---
 ## DocumentCoverBackSource class

@@ -3,7 +3,7 @@ title: Interface IOptionItem
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.IOptionItem インターフェース. Print Schema の可能性があるクラスのインターフェースOptionitems.
 type: docs
-weight: 940
+weight: 950
 url: /ja/net/aspose.page.xps.xpsmetadata/ioptionitem/
 ---
 ## IOptionItem interface

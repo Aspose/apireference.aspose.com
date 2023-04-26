@@ -3,7 +3,7 @@ title: Class PageWatermarkTextFontSize
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextFontSize فصل. يحدد أحجام الخطوط المتاحة لنص العلامة المائية. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextfontsize
 type: docs
-weight: 2740
+weight: 2750
 url: /ar/net/aspose.page.xps.xpsmetadata/pagewatermarktextfontsize/
 ---
 ## PageWatermarkTextFontSize class

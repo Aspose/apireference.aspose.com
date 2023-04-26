@@ -3,7 +3,7 @@ title: Class JobAccountingSheet.JobAccountingSheetOption
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheetJobAccountingSheetOption sınıf. JobAccountingSheet özellik seçenekleri.
 type: docs
-weight: 1140
+weight: 1150
 url: /tr/net/aspose.page.xps.xpsmetadata/jobaccountingsheet.jobaccountingsheetoption/
 ---
 ## JobAccountingSheet.JobAccountingSheetOption class

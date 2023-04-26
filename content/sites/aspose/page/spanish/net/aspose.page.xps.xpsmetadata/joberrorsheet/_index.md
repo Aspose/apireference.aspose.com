@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet clase. Describe la salida de la hoja de errores. Todo el trabajo tendrá una sola hoja de error. El error sheet debería salir por defectoPageMediaSize y usando el valor predeterminadoPageMediaType . La hoja de errores debe aislarse del resto del trabajo. Esto significa que cualquier opción de procesamiento de acabado o como   o  no debe incluir la hoja de error. La hoja de error debe aparecer como hoja final del trabajo. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /es/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

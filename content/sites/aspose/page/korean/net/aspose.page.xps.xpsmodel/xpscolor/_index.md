@@ -3,7 +3,7 @@ title: Class XpsColor
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsColor 수업. 일반적인 색상 기능을 캡슐화하는 기본 클래스입니다.
 type: docs
-weight: 2980
+weight: 2990
 url: /ko/net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

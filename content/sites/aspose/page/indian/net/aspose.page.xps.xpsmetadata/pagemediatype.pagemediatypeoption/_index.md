@@ -3,7 +3,7 @@ title: Class PageMediaType.PageMediaTypeOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePageMediaTypeOption कक्ष. क वर्णन करत हैPageMediaType सुवध वकल्प.
 type: docs
-weight: 2220
+weight: 2230
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediatype.pagemediatypeoption/
 ---
 ## PageMediaType.PageMediaTypeOption class

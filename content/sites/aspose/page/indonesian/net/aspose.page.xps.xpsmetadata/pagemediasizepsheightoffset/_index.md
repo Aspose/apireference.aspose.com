@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeightOffset
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeightOffset kelas. Menentukan offset sejajar dengan arah orientasi feed. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheightoffset
 type: docs
-weight: 2120
+weight: 2130
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediasizepsheightoffset/
 ---
 ## PageMediaSizePSHeightOffset class

@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page för .NET API-referens
 description: Den Aspose.Page.Xps.Presentation.Pdf namnutrymme tillhandahåller klasser för att rendera XPS dokument till PDFdokument.
 type: docs
-weight: 90
+weight: 100
 url: /sv/net/aspose.page.xps.presentation.pdf/
 ---
 Den **Aspose.Page.Xps.Presentation.Pdf** namnutrymme tillhandahåller klasser för att rendera XPS -dokument till PDF-dokument.

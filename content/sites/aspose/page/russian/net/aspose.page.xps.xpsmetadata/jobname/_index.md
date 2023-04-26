@@ -3,7 +3,7 @@ title: Class JobName
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobName сорт. Указывает описательное имя задания. https//docs.microsoft.com/enus/windows/win32/printdocs/jobname
 type: docs
-weight: 1390
+weight: 1400
 url: /ru/net/aspose.page.xps.xpsmetadata/jobname/
 ---
 ## JobName class

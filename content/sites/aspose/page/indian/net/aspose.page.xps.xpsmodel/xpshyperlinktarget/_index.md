@@ -3,7 +3,7 @@ title: Class XpsHyperlinkTarget
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkTarget कक्ष. हइपरलंक लक्ष्य के लए बेस क्लस.
 type: docs
-weight: 3130
+weight: 3140
 url: /hi/net/aspose.page.xps.xpsmodel/xpshyperlinktarget/
 ---
 ## XpsHyperlinkTarget class

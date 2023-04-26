@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments сорт. Описывает характеристики сшивания вывода. Все документы в задании скреплены вместе. JobStapleAllDocuments иDocumentStaple ключевые слова являются взаимоисключающими. Драйвер должен определить обработку ограничений между этими ключевыми словами. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /ru/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

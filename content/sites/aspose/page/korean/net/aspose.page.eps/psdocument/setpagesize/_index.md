@@ -3,7 +3,7 @@ title: PsDocument.SetPageSize
 second_title: .NET API 참조용 Aspose.Page
 description: PsDocument 방법. 페이지 크기를 설정합니다. 한 문서에서 크기가 다른 페이지를 만들려면SetPageDevice 이 메서드 바로 뒤에 있는 메서드.
 type: docs
-weight: 230
+weight: 250
 url: /ko/net/aspose.page.eps/psdocument/setpagesize/
 ---
 ## PsDocument.SetPageSize method

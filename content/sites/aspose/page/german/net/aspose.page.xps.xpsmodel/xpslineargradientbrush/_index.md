@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush klas. Klasse die LinearGradientBrushEigenschaftselementfunktionen kapselt. Dieses Element wird verwendet um einen linearen Gradientenpinsel entlang eines Vektors anzugeben.
 type: docs
-weight: 3200
+weight: 3210
 url: /de/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

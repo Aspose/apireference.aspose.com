@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessing
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessing τάξη. Καθορίζει συμπεριφορά μαύρης γενιάς για διαχωρισμούς CMYK. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessing
 type: docs
-weight: 1710
+weight: 1720
 url: /el/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing/
 ---
 ## PageBlackGenerationProcessing class

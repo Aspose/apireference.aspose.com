@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePunched
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePunched τάξη. Ορίζει σταθερές για το βαθμολογία ιδιότητας.
 type: docs
-weight: 2240
+weight: 2250
 url: /el/net/aspose.page.xps.xpsmetadata/pagemediatype.prepunched/
 ---
 ## PageMediaType.PrePunched class

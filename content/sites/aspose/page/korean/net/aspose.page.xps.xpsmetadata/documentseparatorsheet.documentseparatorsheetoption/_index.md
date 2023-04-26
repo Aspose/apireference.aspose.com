@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet.DocumentSeparatorSheetOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheetDocumentSeparatorSheetOption 수업. 설명DocumentSeparatorSheet 기능 옵션.
 type: docs
-weight: 810
+weight: 820
 url: /ko/net/aspose.page.xps.xpsmetadata/documentseparatorsheet.documentseparatorsheetoption/
 ---
 ## DocumentSeparatorSheet.DocumentSeparatorSheetOption class

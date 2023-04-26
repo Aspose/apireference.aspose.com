@@ -3,7 +3,7 @@ title: Class IntegerValue
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IntegerValue कक्ष. वह वर्ग ज प्रंट टकट दस्तवेज़ में पूर्णंक मन समहत करत है
 type: docs
-weight: 1120
+weight: 1130
 url: /hi/net/aspose.page.xps.xpsmetadata/integervalue/
 ---
 ## IntegerValue class

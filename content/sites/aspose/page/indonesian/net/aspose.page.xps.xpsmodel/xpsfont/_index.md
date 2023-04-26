@@ -3,7 +3,7 @@ title: Class XpsFont
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsFont kelas. Kelas yang merangkum sumber daya font TrueType.
 type: docs
-weight: 3080
+weight: 3090
 url: /id/net/aspose.page.xps.xpsmodel/xpsfont/
 ---
 ## XpsFont class

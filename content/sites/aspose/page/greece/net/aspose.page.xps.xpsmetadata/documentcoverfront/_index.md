@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront τάξη. Περιγράφει το μπροστινό αρχικό φύλλο εξωφύλλου. Κάθε έγγραφο θα έχει ξεχωριστό φύλλο. Το εξώφυλλο θα πρέπει να τυπωθεί στοPageMediaSize καιPageMediaType χρησιμοποιείται για την πρώτη σελίδα του εγγράφου. Το εξώφυλλο θα πρέπει να ενσωματωθεί στο processing options όπως π.χDocumentDuplex DocumentNUp  όπως υποδεικνύεται από την καθορισμένη επιλογή. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /el/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

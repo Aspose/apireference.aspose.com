@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginHeight
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginHeight сорт. Определяет происхождение водяного знака относительно происхождения. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginheight
 type: docs
-weight: 2700
+weight: 2710
 url: /ru/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/
 ---
 ## PageWatermarkOriginHeight class

@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering sınıf. içini tanımlar özellik. Filigranın katmanlama davranışını tanımlar.
 type: docs
-weight: 2670
+weight: 2680
 url: /tr/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

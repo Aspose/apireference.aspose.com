@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod αρίθμηση. Έγκυρες τιμές της ιδιότητας SpreadMethod των πινέλων gradient.
 type: docs
-weight: 3360
+weight: 3370
 url: /el/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

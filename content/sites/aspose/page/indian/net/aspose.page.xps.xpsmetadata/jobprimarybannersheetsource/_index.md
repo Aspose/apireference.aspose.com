@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheetSource
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheetSource कक्ष. कर्य के लए प्रथमक कस्टम बैनर शट के लए स्रत नर्दष्ट करत है. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarybannersheetsource
 type: docs
-weight: 1490
+weight: 1500
 url: /hi/net/aspose.page.xps.xpsmetadata/jobprimarybannersheetsource/
 ---
 ## JobPrimaryBannerSheetSource class

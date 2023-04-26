@@ -3,7 +3,7 @@ title: Class PageResolution.QualitativeResolution
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionQualitativeResolution classe. Définit les constantes pour le valeur de propriété notée.
 type: docs
-weight: 2470
+weight: 2480
 url: /fr/net/aspose.page.xps.xpsmetadata/pageresolution.qualitativeresolution/
 ---
 ## PageResolution.QualitativeResolution class

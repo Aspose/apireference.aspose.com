@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront classe. Descrive la copertina anteriore iniziale. Lintero lavoro avrà un unico foglio principale. Il foglio di copertina deve essere stampato sulPageMediaSize EPageMediaType utilizzato per la prima pagina del lavoro. La copertina dovrebbe essere integrata nelle opzioni di elaborazione come ad esempioJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  come indicato dallopzione specificata. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /it/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

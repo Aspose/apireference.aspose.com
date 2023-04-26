@@ -3,7 +3,7 @@ title: Class ParameterInit
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.ParameterInit कक्ष. वह वर्ग ज एक समन्य PrintTicket पैरमटर इनशयलइज़र क लगू करत है सभ स्कमपरभषत पैरमटर इनशयलइज़र के लए आधर वर्ग एक उदहरण के लए एक मन परभषत करत हैतत्व. ए तत्व ए द्वर कए गए संदर्भ क लक्ष्य हैParameterRef तत्व. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterinit
 type: docs
-weight: 2770
+weight: 2780
 url: /hi/net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class

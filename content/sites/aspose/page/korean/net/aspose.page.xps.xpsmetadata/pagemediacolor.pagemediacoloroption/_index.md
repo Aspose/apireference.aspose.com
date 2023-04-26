@@ -3,7 +3,7 @@ title: Class PageMediaColor.PageMediaColorOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaColorPageMediaColorOption 수업. 설명PageMediaColor 기능 옵션.
 type: docs
-weight: 2040
+weight: 2050
 url: /ko/net/aspose.page.xps.xpsmetadata/pagemediacolor.pagemediacoloroption/
 ---
 ## PageMediaColor.PageMediaColorOption class

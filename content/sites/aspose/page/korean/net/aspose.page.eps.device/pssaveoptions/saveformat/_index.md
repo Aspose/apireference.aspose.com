@@ -11,7 +11,7 @@ url: /ko/net/aspose.page.eps.device/pssaveoptions/saveformat/
 결과 파일의 저장 형식입니다.
 
 ```csharp
-public #=zVeDKvb93yYvf1v5gLIr7_ZY$TrodRiVPyQ== SaveFormat { get; set; }
+public #=zdi79JyoaG5rAbaLozfXqNxrwlXEFTebakg== SaveFormat { get; set; }
 ```
 
 ### 또한보십시오

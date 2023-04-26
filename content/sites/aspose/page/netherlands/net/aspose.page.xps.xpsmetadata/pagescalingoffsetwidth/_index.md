@@ -3,7 +3,7 @@ title: Class PageScalingOffsetWidth
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetWidth klas. Specificeert de schaaloffset in het richting voor aangepast schalen. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetwidth
 type: docs
-weight: 2540
+weight: 2550
 url: /nl/net/aspose.page.xps.xpsmetadata/pagescalingoffsetwidth/
 ---
 ## PageScalingOffsetWidth class

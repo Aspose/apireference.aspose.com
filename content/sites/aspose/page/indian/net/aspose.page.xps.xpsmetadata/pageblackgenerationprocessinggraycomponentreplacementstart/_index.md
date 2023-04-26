@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementStart
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementStart कक्ष. हइलइट टू शैड रेंज में उस बंदु क वर्णन करत है जहं जसआर शुरू हन चहए 100 सबसे डर्क शैड
 type: docs
-weight: 1760
+weight: 1770
 url: /hi/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementstart/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementStart class

@@ -1,14 +1,14 @@
 ---
 title: Class XpsRadialGradientBrush
 second_title: Aspose.Page per riferimento all'API .NET
-description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush classe. Classe che incapsula le caratteristiche dellelemento di proprietà RadialGradientBrush. Questo elemento viene utilizzato per specificare un pennello sfumato radiale.
+description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush classe. Classe che incapsula le caratteristiche dellelemento proprietà RadialGradientBrush. Questo elemento viene utilizzato per specificare un pennello sfumato radiale.
 type: docs
-weight: 3330
+weight: 3340
 url: /it/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class
 
-Classe che incapsula le caratteristiche dell'elemento di proprietà RadialGradientBrush. Questo elemento viene utilizzato per specificare un pennello sfumato radiale.
+Classe che incapsula le caratteristiche dell'elemento proprietà RadialGradientBrush. Questo elemento viene utilizzato per specificare un pennello sfumato radiale.
 
 ```csharp
 public sealed class XpsRadialGradientBrush : XpsGradientBrush

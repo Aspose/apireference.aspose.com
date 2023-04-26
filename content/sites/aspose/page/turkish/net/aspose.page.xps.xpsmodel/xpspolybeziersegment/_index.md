@@ -3,7 +3,7 @@ title: Class XpsPolyBezierSegment
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsPolyBezierSegment sınıf. PolyBezierSegment öğesi özelliklerini içeren sınıf. Bu öğe bir kübik Bézier eğrileri kümesini tanımlar.
 type: docs
-weight: 3300
+weight: 3310
 url: /tr/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class

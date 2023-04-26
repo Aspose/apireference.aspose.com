@@ -3,7 +3,7 @@ title: Interface PageResolution.IPageResolutionOptionItem
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionIPageResolutionOptionItem koppel. De interface van elkPageResolutionOption item.
 type: docs
-weight: 2450
+weight: 2460
 url: /nl/net/aspose.page.xps.xpsmetadata/pageresolution.ipageresolutionoptionitem/
 ---
 ## PageResolution.IPageResolutionOptionItem interface

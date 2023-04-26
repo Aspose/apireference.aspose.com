@@ -3,7 +3,7 @@ title: Class StringValue
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.StringValue sınıf. Bir PrintTicket belgesinde bir String değeri içeren sınıf.
 type: docs
-weight: 2910
+weight: 2920
 url: /tr/net/aspose.page.xps.xpsmetadata/stringvalue/
 ---
 ## StringValue class

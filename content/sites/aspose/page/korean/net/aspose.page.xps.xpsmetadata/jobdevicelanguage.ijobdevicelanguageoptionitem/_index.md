@@ -3,7 +3,7 @@ title: Interface JobDeviceLanguage.IJobDeviceLanguageOptionItem
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguageIJobDeviceLanguageOptionItem 상호 작용. 인터페이스JobDeviceLanguageOption 항목.
 type: docs
-weight: 1240
+weight: 1250
 url: /ko/net/aspose.page.xps.xpsmetadata/jobdevicelanguage.ijobdevicelanguageoptionitem/
 ---
 ## JobDeviceLanguage.IJobDeviceLanguageOptionItem interface

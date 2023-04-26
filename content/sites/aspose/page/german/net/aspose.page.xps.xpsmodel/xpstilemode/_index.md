@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsTileMode opsomming. Gültige Werte der TileModeEigenschaft von Kachelpinseln.
 type: docs
-weight: 3390
+weight: 3400
 url: /de/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

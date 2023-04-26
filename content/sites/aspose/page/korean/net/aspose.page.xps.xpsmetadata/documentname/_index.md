@@ -3,7 +3,7 @@ title: Class DocumentName
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentName 수업. 문서를 설명하는 이름을 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documentname
 type: docs
-weight: 750
+weight: 760
 url: /ko/net/aspose.page.xps.xpsmetadata/documentname/
 ---
 ## DocumentName class

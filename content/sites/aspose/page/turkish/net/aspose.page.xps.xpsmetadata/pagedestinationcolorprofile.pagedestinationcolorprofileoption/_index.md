@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile.PageDestinationColorProfileOption
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfilePageDestinationColorProfileOption sınıf. PageDestinationColorProfile özellik seçenekleri.
 type: docs
-weight: 1890
+weight: 1900
 url: /tr/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile.pagedestinationcolorprofileoption/
 ---
 ## PageDestinationColorProfile.PageDestinationColorProfileOption class
@@ -31,7 +31,7 @@ public sealed class PageDestinationColorProfileOption : Option
 | İsim | Tanım |
 | --- | --- |
 | static [Application](../../aspose.page.xps.xpsmetadata/pagedestinationcolorprofileoption/application/) | Uygulama, kullanılacak hedef profili belirtir. |
-| static [DriverConfiguration](../../aspose.page.xps.xpsmetadata/pagedestinationcolorprofileoption/driverconfiguration/) | Renk yönetimini gerçekleştirmek için kullanılan hedef profil. |
+| static [DriverConfiguration](../../aspose.page.xps.xpsmetadata/pagedestinationcolorprofileoption/driverconfiguration/) | Renk yönetimini gerçekleştirmek için kullanılan hedef profili. |
 
 ### Ayrıca bakınız
 

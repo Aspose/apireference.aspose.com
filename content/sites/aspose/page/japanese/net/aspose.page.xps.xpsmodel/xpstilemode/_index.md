@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsTileMode 列挙. タイリング ブラシの TileMode プロパティの有効な値
 type: docs
-weight: 3390
+weight: 3400
 url: /ja/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

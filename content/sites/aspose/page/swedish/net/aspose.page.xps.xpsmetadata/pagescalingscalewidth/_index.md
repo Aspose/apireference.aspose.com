@@ -3,7 +3,7 @@ title: Class PageScalingScaleWidth
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleWidth klass. Anger skalningsfaktorn i riktning för anpassad skalning. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscalewidth
 type: docs
-weight: 2570
+weight: 2580
 url: /sv/net/aspose.page.xps.xpsmetadata/pagescalingscalewidth/
 ---
 ## PageScalingScaleWidth class

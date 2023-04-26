@@ -3,7 +3,7 @@ title: Class ParameterInit
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.ParameterInit 수업. 공통 PrintTicket 매개변수 이니셜라이저를 구현하는 클래스입니다. 모든 스키마 정의 매개변수 이니셜라이저의 기본 클래스입니다. 요소. A 요소는 a에 의해 만들어진 참조의 대상입니다.ParameterRef element. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterinit
 type: docs
-weight: 2770
+weight: 2780
 url: /ko/net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class

@@ -3,7 +3,7 @@ title: Class DocumentCoverFrontSource
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFrontSource sınıf. Özel ön kapak sayfası için kaynağı belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfrontsource
 type: docs
-weight: 680
+weight: 690
 url: /tr/net/aspose.page.xps.xpsmetadata/documentcoverfrontsource/
 ---
 ## DocumentCoverFrontSource class

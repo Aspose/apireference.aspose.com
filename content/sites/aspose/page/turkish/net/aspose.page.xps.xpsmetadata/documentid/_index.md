@@ -3,7 +3,7 @@ title: Class DocumentID
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentID sınıf. Belge için benzersiz bir kimlik belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/documentid
 type: docs
-weight: 710
+weight: 720
 url: /tr/net/aspose.page.xps.xpsmetadata/documentid/
 ---
 ## DocumentID class

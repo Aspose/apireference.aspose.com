@@ -3,7 +3,7 @@ title: Class PageWatermarkTextText
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextText 수업. 워터마크의 텍스트를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktexttext
 type: docs
-weight: 2750
+weight: 2760
 url: /ko/net/aspose.page.xps.xpsmetadata/pagewatermarktexttext/
 ---
 ## PageWatermarkTextText class

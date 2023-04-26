@@ -3,7 +3,7 @@ title: Class Option
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Option कक्ष. वह वर्ग ज एक समन्य प्रंट टकट क लगू करत है . सभ स्कमपरभषत वकल्पं के लए आधर वर्ग एक वकल्प तत्व में सभ शमल हैंProperty और ScoredProperty इस वकल्प से जुड़े तत्व. https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 1650
+weight: 1660
 url: /hi/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

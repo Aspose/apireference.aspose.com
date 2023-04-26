@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush сорт. Класс инкапсулирующий функции элемента свойства VisualBrush. Этот элемент используется для заполнения области рисунком.
 type: docs
-weight: 3420
+weight: 3430
 url: /ru/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

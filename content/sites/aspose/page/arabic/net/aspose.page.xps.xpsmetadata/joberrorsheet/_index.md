@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet فصل. يصف إخراج ورقة الخطأ. سيكون للمهمة بأكملها ورقة خطأ واحدة. يجب أن يتم إخراج الخطأ sheet على الإعداد الافتراضيPageMediaSize واستخدام الافتراضيPageMediaType . يجب عزل ورقة الخطأ عن باقي المهمة. هذا يعني أن أي خيارات معالجة نهائية أو مثل و  أو  يجب ألا يتضمن ورقة الخطأ. يجب أن تظهر ورقة الخطأ كالورقة النهائية للوظيفة . https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /ar/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

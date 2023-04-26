@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: Aspose.Page per riferimento all'API .NET
 description: UserProperties metodo. Imposta il valore della proprietà della stringa.
 type: docs
-weight: 140
+weight: 150
 url: /it/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

@@ -3,7 +3,7 @@ title: Class DocumentDuplex
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentDuplex classe. Décrit les caractéristiques duplex de la sortie. La fonction recto verso permet limpression for sur les deux faces du support. Chaque document est recto verso séparément. DocumentDuplex et JobDuplexAllDocumentsContigously sexcluent mutuellement. Il appartient au pilote de déterminer la gestion des contraintes entre ces motsclés. https//docs.microsoft.com/enus/windows/win32/printdocs/ documentduplex
 type: docs
-weight: 690
+weight: 700
 url: /fr/net/aspose.page.xps.xpsmetadata/documentduplex/
 ---
 ## DocumentDuplex class

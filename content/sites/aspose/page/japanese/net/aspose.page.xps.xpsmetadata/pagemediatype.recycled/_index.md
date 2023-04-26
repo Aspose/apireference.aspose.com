@@ -3,7 +3,7 @@ title: Class PageMediaType.Recycled
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeRecycled クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 2250
+weight: 2260
 url: /ja/net/aspose.page.xps.xpsmetadata/pagemediatype.recycled/
 ---
 ## PageMediaType.Recycled class

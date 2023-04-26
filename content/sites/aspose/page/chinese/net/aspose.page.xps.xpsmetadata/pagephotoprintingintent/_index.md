@@ -3,7 +3,7 @@ title: Class PagePhotoPrintingIntent
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PagePhotoPrintingIntent 班级. 指示驱动程序用于填充照片打印设置的高级意图 这些设置处理用户在打印照片时可能指定的预期输出质量 https//docs.microsoft.com/enus/windows /win32/printdocs/pagephotoprintingintent
 type: docs
-weight: 2390
+weight: 2400
 url: /zh/net/aspose.page.xps.xpsmetadata/pagephotoprintingintent/
 ---
 ## PagePhotoPrintingIntent class

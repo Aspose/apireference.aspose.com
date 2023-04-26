@@ -3,7 +3,7 @@ title: UserProperties.PropertyNames
 second_title: Aspose.Page for .NET API Referansı
 description: UserProperties yöntem. Özellik adlarını döndürür.
 type: docs
-weight: 130
+weight: 140
 url: /tr/net/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties.PropertyNames method

@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment فصل. فئة تتضمن ميزات عنصر ArcSegment . يصف هذا العنصر قوسًا بيضاويًا.
 type: docs
-weight: 2940
+weight: 2950
 url: /ar/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

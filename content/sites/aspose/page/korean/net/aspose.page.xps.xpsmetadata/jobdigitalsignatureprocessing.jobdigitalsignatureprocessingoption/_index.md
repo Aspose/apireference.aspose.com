@@ -3,7 +3,7 @@ title: Class JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobDigitalSignatureProcessingJobDigitalSignatureProcessingOption 수업. 설명JobDigitalSignatureProcessing 기능 옵션.
 type: docs
-weight: 1270
+weight: 1280
 url: /ko/net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing.jobdigitalsignatureprocessingoption/
 ---
 ## JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption class

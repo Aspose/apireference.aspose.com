@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin sınıf. Bir aygıtta kurulu çıkış bölmesini veya bir aygıt için desteklenen bölmelerin tam listesini açıklar. JobOutputBin DocumentOutputBin VePageOutputBin anahtar kelimeler birbirini dışlar yalnızca bir tanesi PrintTicket veya Print Capabilities belgesinde belirtilmelidir. https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /tr/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

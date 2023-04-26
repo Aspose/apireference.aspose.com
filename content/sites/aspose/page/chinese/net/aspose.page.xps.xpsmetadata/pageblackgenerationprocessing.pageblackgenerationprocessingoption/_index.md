@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessing.PageBlackGenerationProcessingOption
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingPageBlackGenerationProcessingOption 班级. 描述了PageBlackGenerationProcessing功能选项.
 type: docs
-weight: 1720
+weight: 1730
 url: /zh/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing.pageblackgenerationprocessingoption/
 ---
 ## PageBlackGenerationProcessing.PageBlackGenerationProcessingOption class

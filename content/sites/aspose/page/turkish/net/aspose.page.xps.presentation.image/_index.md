@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.Xps.Presentation.Image ad alanı XPS belgesini bir görüntüye dönüştürmek için sınıflar sağlar.
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.page.xps.presentation.image/
 ---
 **Aspose.Page.Xps.Presentation.Image** ad alanı, XPS belgesini bir görüntüye dönüştürmek için sınıflar sağlar.

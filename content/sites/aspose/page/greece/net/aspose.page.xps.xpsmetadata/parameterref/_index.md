@@ -3,7 +3,7 @@ title: Class ParameterRef
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.ParameterRef τάξη. Η κλάση που υλοποιεί μια κοινή αναφορά παραμέτρου PrintTicket. A Το στοιχείο ορίζει μια αναφορά σε αParameterInitστοιχείο. ΑScoredProperty Το στοιχείο που περιέχει ένα στοιχείο ParameterRef δεν έχει ρητή ρύθμισηValue στοιχείο. Αντίθετα τοScoredProperty Το στοιχείο λαμβάνει την τιμή του από τοParameterInit στοιχείο που αναφέρεται από α στοιχείο. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterref
 type: docs
-weight: 2780
+weight: 2790
 url: /el/net/aspose.page.xps.xpsmetadata/parameterref/
 ---
 ## ParameterRef class

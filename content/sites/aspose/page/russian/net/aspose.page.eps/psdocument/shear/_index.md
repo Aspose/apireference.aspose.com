@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Справочник по Aspose.Page для .NET API
 description: PsDocument метод. Добавляет преобразование сдвига к текущему состоянию графики матрица текущего сдвига.
 type: docs
-weight: 260
+weight: 290
 url: /ru/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

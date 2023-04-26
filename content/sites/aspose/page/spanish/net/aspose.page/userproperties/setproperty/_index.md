@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: Referencia de la API de Aspose.Page para .NET
 description: UserProperties método. Establece el valor de la propiedad de cadena.
 type: docs
-weight: 140
+weight: 150
 url: /es/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

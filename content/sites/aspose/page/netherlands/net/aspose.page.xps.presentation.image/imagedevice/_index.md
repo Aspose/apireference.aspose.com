@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice klas. Klasse inkapselend apparaat voor het samenstellen van afbeeldingen.
 type: docs
-weight: 350
+weight: 360
 url: /nl/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

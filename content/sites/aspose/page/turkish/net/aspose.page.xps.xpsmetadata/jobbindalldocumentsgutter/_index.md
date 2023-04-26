@@ -3,7 +3,7 @@ title: Class JobBindAllDocumentsGutter
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsGutter sınıf. Bağlama cilt payının genişliğini belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocumentsgutter
 type: docs
-weight: 1190
+weight: 1200
 url: /tr/net/aspose.page.xps.xpsmetadata/jobbindalldocumentsgutter/
 ---
 ## JobBindAllDocumentsGutter class

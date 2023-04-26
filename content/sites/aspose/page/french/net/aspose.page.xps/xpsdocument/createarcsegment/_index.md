@@ -22,7 +22,7 @@ public XpsArcSegment CreateArcSegment(PointF point, SizeF size, float rotationAn
 | rotationAngle | Single | Indique comment l'ellipse est tournée par rapport au système de coordonnées actuel. |
 | isLargeArc | Boolean | Détermine si l'arc est dessiné avec un balayage de 180 ou plus. |
 | sweepDirection | XpsSweepDirection | Direction dans laquelle l'arc est tracé. |
-| isStroked | Boolean | Spécifie si le trait de ce segment du chemin est dessiné. |
+| isStroked | Boolean | Spécifie si le trait de ce segment du chemin est tracé. |
 
 ### Return_Value
 

@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode कक्ष. के संभवत मनं क परभषत करत हैDuplexOption एस अर्जत संपत्त.
 type: docs
-weight: 850
+weight: 860
 url: /hi/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

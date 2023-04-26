@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide classe. Forza la visualizzazione delloutput sulla parte anteriore di un foglio multimediale. Rilevante per fogli multimediali con diverse superfici su ciascun lato. Nei casi in cui questa funzione interferisce con le opzioni di elaborazione come DocumentDuplex  ha la precedenza per la pagina specifica a cui si applica la funzione.
 type: docs
-weight: 1970
+weight: 1980
 url: /it/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

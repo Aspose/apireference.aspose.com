@@ -3,7 +3,7 @@ title: Class LoadOptions
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.LoadOptions сорт. Базовый класс для параметров загрузки документов.
 type: docs
-weight: 330
+weight: 340
 url: /ru/net/aspose.page.xps/loadoptions/
 ---
 ## LoadOptions class

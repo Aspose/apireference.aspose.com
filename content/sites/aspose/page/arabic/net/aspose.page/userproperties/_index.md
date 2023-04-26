@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | يحصل على قيمة خاصية مصفوفة السلسلة. إذا كانت الخاصية المطلوبة غير موجودة ، فإن المرتجعات تقدم القيمة الافتراضية. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | يحصل على قيمة الخاصية المنطقية . |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | يحصل على قيمة الخاصية المنطقية. إذا كانت الخاصية المطلوبة غير موجودة ، فإن المرتجعات تقدم القيمة الافتراضية. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | إرجاع أسماء الخصائص . |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | تعيين قيمة الخاصية المنطقية . |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | يعين قيمة خاصية اللون. |

@@ -3,7 +3,7 @@ title: Class XpsLoadOptions
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsLoadOptions сорт. Параметры загрузки документов XPS.
 type: docs
-weight: 480
+weight: 490
 url: /ru/net/aspose.page.xps/xpsloadoptions/
 ---
 ## XpsLoadOptions class

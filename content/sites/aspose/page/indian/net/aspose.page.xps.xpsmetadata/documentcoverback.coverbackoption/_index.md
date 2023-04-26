@@ -3,7 +3,7 @@ title: Class DocumentCoverBack.CoverBackOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBackCoverBackOption कक्ष. क वर्णन करत हैDocumentCoverBack सुवध वकल्प.
 type: docs
-weight: 640
+weight: 650
 url: /hi/net/aspose.page.xps.xpsmetadata/documentcoverback.coverbackoption/
 ---
 ## DocumentCoverBack.CoverBackOption class

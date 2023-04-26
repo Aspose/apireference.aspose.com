@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | Ruft den Eigenschaftswert des String-Arrays ab. Wenn die angeforderte Eigenschaft fehlt, wird der bereitgestellte Standardwert zurückgegeben. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | Ruft den booleschen Eigenschaftswert ab. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | Ruft den booleschen Eigenschaftswert ab. Wenn die angeforderte Eigenschaft fehlt, wird der bereitgestellte Standardwert zurückgegeben. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | Gibt Eigenschaftsnamen zurück. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | Legt den booleschen Eigenschaftswert fest. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | Legt den Farbeigenschaftswert fest. |

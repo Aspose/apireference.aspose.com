@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode klas. Definieert mogelijke waarden van deDuplexOption S gescoorde eigenschap.
 type: docs
-weight: 850
+weight: 860
 url: /nl/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

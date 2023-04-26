@@ -3,7 +3,7 @@ title: Class DocumentCoverBack.CoverBackOption
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBackCoverBackOption τάξη. Περιγράφει τοDocumentCoverBack επιλογές χαρακτηριστικών.
 type: docs
-weight: 640
+weight: 650
 url: /el/net/aspose.page.xps.xpsmetadata/documentcoverback.coverbackoption/
 ---
 ## DocumentCoverBack.CoverBackOption class

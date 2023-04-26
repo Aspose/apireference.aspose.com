@@ -3,7 +3,7 @@ title: Interface PageMediaSize.IPageMediaSizeOptionItem
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeIPageMediaSizeOptionItem antarmuka. Antarmuka apa sajaPageMediaSizeOption barang.
 type: docs
-weight: 2070
+weight: 2080
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediasize.ipagemediasizeoptionitem/
 ---
 ## PageMediaSize.IPageMediaSizeOptionItem interface

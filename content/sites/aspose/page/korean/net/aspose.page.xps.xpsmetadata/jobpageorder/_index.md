@@ -3,7 +3,7 @@ title: Class JobPageOrder
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrder 수업. 출력에 대한 물리적 페이지의 순서를 정의합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobpageorder
 type: docs
-weight: 1450
+weight: 1460
 url: /ko/net/aspose.page.xps.xpsmetadata/jobpageorder/
 ---
 ## JobPageOrder class

@@ -3,7 +3,7 @@ title: Class PageWatermarkTextAngle
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextAngle 班级. 指定水印文本相对于direction. 角度是按逆时针方向测量的 https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextangle
 type: docs
-weight: 2720
+weight: 2730
 url: /zh/net/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

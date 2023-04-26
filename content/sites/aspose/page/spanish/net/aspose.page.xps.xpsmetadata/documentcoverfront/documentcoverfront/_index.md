@@ -16,7 +16,7 @@ public DocumentCoverFront(params CoverFrontOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | CoverFrontOption[] | Una matriz de opciones específicas para la característica. |
+| options | CoverFrontOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

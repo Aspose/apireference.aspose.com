@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFrontSource
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontSource τάξη. Καθορίζει την πηγή για ένα προσαρμοσμένο κύριο φύλλο μπροστινού εξωφύλλου για την εργασία. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfrontsource
 type: docs
-weight: 1550
+weight: 1560
 url: /el/net/aspose.page.xps.xpsmetadata/jobprimarycoverfrontsource/
 ---
 ## JobPrimaryCoverFrontSource class

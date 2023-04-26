@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering clase. Describe interior característica. Define el comportamiento de capas de la marca de agua.
 type: docs
-weight: 2670
+weight: 2680
 url: /es/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

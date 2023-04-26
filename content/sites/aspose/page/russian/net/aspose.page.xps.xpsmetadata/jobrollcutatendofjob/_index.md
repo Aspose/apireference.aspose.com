@@ -3,7 +3,7 @@ title: Class JobRollCutAtEndOfJob
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobRollCutAtEndOfJob сорт. Описывает способ резки рулонной бумаги. Рулон должен быть обрезан в конце задания. https//docs.microsoft.com/enus/windows/win32/printdocs/jobrollcutatendofjob
 type: docs
-weight: 1570
+weight: 1580
 url: /ru/net/aspose.page.xps.xpsmetadata/jobrollcutatendofjob/
 ---
 ## JobRollCutAtEndOfJob class

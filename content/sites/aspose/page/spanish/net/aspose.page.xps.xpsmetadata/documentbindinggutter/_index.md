@@ -3,7 +3,7 @@ title: Class DocumentBindingGutter
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingGutter clase. Especifica el ancho del medianil de encuadernación. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbindinggutter
 type: docs
-weight: 600
+weight: 610
 url: /es/net/aspose.page.xps.xpsmetadata/documentbindinggutter/
 ---
 ## DocumentBindingGutter class

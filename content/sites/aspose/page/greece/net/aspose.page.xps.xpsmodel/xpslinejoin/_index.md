@@ -3,7 +3,7 @@ title: Enum XpsLineJoin
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsLineJoin αρίθμηση. Έγκυρες τιμές της ιδιότητας StrokeLineJoin του στοιχείου διαδρομής.
 type: docs
-weight: 3190
+weight: 3200
 url: /el/net/aspose.page.xps.xpsmodel/xpslinejoin/
 ---
 ## XpsLineJoin enumeration

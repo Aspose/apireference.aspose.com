@@ -3,7 +3,7 @@ title: Interface JobDeviceLanguage.IJobDeviceLanguageOptionItem
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguageIJobDeviceLanguageOptionItem gränssnitt. Gränssnittet för någonJobDeviceLanguageOption item.
 type: docs
-weight: 1240
+weight: 1250
 url: /sv/net/aspose.page.xps.xpsmetadata/jobdevicelanguage.ijobdevicelanguageoptionitem/
 ---
 ## JobDeviceLanguage.IJobDeviceLanguageOptionItem interface

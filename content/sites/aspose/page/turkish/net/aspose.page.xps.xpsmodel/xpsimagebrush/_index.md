@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush sınıf. ImageBrush özellik öğesi özelliklerini içeren sınıf. Bu öğe bir bölgeyi bir görüntü ile doldurmak için kullanılır.
 type: docs
-weight: 3170
+weight: 3180
 url: /tr/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

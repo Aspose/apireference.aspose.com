@@ -3,7 +3,7 @@ title: Class PageDeviceFontSubstitution
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceFontSubstitution sınıf. Aygıt yazı tipi değiştirmenin etkin/devre dışı durumunu açıklar. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicefontsubstitution
 type: docs
-weight: 1950
+weight: 1960
 url: /tr/net/aspose.page.xps.xpsmetadata/pagedevicefontsubstitution/
 ---
 ## PageDeviceFontSubstitution class

@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePrinted
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePrinted klass. Definierar konstanter för poängsatt egenskapsvärde.
 type: docs
-weight: 2230
+weight: 2240
 url: /sv/net/aspose.page.xps.xpsmetadata/pagemediatype.preprinted/
 ---
 ## PageMediaType.PrePrinted class

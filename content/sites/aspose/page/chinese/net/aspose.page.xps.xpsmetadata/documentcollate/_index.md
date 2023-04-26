@@ -3,7 +3,7 @@ title: Class DocumentCollate
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentCollate 班级. 描述输出的整理特性每个文档中的所有页面都会进行整理 DocumentCollate 和 JobCollateAlldocuments 是互斥的 是否同时实现或仅实现这些关键字之一的行为和实现留给驱动程序 https//docs.microsoft.com/enus/windows/win32/printdocs/documentcollate
 type: docs
-weight: 610
+weight: 620
 url: /zh/net/aspose.page.xps.xpsmetadata/documentcollate/
 ---
 ## DocumentCollate class

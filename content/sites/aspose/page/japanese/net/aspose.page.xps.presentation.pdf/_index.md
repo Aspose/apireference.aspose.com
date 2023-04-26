@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.Xps.Presentation.Pdf名前空間はXPS ドキュメントを PDF ドキュメント. にレンダリングするためのクラスを提供します
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.page.xps.presentation.pdf/
 ---
 **Aspose.Page.Xps.Presentation.Pdf**名前空間は、XPS ドキュメントを PDF ドキュメント. にレンダリングするためのクラスを提供します。

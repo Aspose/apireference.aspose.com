@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.Xps.XpsModel네임스페이스는 XPS 문서의 요소를 설명하는 클래스를 제공합니다.
 type: docs
-weight: 110
+weight: 120
 url: /ko/net/aspose.page.xps.xpsmodel/
 ---
 **Aspose.Page.Xps.XpsModel**네임스페이스는 XPS 문서의 요소를 설명하는 클래스를 제공합니다.

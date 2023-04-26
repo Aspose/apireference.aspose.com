@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageResolution klass. Definierar sidupplösningen för utskriven utskrift som antingen ett kvalitativt värde eller som punkter per tum eller båda. https//docs.microsoft.com/enus/windows/win32/printdocs/pageresolution
 type: docs
-weight: 2430
+weight: 2440
 url: /sv/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

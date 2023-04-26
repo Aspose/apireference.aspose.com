@@ -3,7 +3,7 @@ title: Class PageSourceColorProfile.PageSourceColorProfileOption
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfilePageSourceColorProfileOption 班级. 描述了PageSourceColorProfile功能选项.
 type: docs
-weight: 2590
+weight: 2600
 url: /zh/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofile.pagesourcecolorprofileoption/
 ---
 ## PageSourceColorProfile.PageSourceColorProfileOption class

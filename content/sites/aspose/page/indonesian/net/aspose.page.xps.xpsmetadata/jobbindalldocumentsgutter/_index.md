@@ -3,7 +3,7 @@ title: Class JobBindAllDocumentsGutter
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsGutter kelas. Menentukan lebar selokan yang mengikat. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocumentsgutter
 type: docs
-weight: 1190
+weight: 1200
 url: /id/net/aspose.page.xps.xpsmetadata/jobbindalldocumentsgutter/
 ---
 ## JobBindAllDocumentsGutter class

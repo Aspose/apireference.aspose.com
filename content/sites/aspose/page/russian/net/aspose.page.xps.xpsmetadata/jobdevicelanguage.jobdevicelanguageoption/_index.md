@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage.JobDeviceLanguageOption
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguageJobDeviceLanguageOption сорт. ОписываетJobDeviceLanguage параметры функции.
 type: docs
-weight: 1250
+weight: 1260
 url: /ru/net/aspose.page.xps.xpsmetadata/jobdevicelanguage.jobdevicelanguageoption/
 ---
 ## JobDeviceLanguage.JobDeviceLanguageOption class

@@ -3,7 +3,7 @@ title: Class XpsArrayT
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsArray1T 수업. 일반 XPS 모델 어레이 개체 기능을 캡슐화하는 클래스입니다.
 type: docs
-weight: 2950
+weight: 2960
 url: /ko/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

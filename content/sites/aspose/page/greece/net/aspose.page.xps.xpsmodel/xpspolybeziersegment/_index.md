@@ -3,7 +3,7 @@ title: Class XpsPolyBezierSegment
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPolyBezierSegment τάξη. Χαρακτηριστικά στοιχείου PolyBezierSegment που ενσωματώνει κλάση. Αυτό το στοιχείο περιγράφει ένα σύνολο κυβικών καμπυλών Bézier.
 type: docs
-weight: 3300
+weight: 3310
 url: /el/net/aspose.page.xps.xpsmodel/xpspolybeziersegment/
 ---
 ## XpsPolyBezierSegment class

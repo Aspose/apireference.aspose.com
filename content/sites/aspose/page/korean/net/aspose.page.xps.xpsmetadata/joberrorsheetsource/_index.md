@@ -3,7 +3,7 @@ title: Class JobErrorSheetSource
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetSource 수업. 사용자 지정 오류 시트의 소스를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheetsource
 type: docs
-weight: 1340
+weight: 1350
 url: /ko/net/aspose.page.xps.xpsmetadata/joberrorsheetsource/
 ---
 ## JobErrorSheetSource class

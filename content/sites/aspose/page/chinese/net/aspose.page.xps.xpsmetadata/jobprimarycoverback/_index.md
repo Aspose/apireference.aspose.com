@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack 班级. 描述背面结尾封面每个作业都有单独的主页 封面页应打印在PageMediaSize和PageMediaType 用于作业的最后一页封面应集成到处理选项 例如JobDuplexAllDocumentsContiguouslyJobNUpAllDocumentsContiguously 由指定的选项指示 https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /zh/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

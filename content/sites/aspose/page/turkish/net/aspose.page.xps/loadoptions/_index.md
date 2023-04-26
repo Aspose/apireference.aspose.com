@@ -3,7 +3,7 @@ title: Class LoadOptions
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.LoadOptions sınıf. Belge yükleme seçenekleri için temel sınıf.
 type: docs
-weight: 330
+weight: 340
 url: /tr/net/aspose.page.xps/loadoptions/
 ---
 ## LoadOptions class

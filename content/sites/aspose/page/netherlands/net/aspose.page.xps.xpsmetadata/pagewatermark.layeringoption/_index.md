@@ -3,7 +3,7 @@ title: Class PageWatermark.LayeringOption
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayeringOption klas. Beschrijft deLayering functieopties.
 type: docs
-weight: 2680
+weight: 2690
 url: /nl/net/aspose.page.xps.xpsmetadata/pagewatermark.layeringoption/
 ---
 ## PageWatermark.LayeringOption class

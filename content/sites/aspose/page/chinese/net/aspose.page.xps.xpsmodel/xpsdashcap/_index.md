@@ -3,7 +3,7 @@ title: Enum XpsDashCap
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsDashCap 枚举. Path 元素的 StrokeDashCap 属性的有效值
 type: docs
-weight: 3010
+weight: 3020
 url: /zh/net/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enumeration

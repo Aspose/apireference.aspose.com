@@ -3,7 +3,7 @@ title: Class JobCopiesAllDocuments
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobCopiesAllDocuments 수업. 작업 사본 수를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcopiesalldocuments
 type: docs
-weight: 1220
+weight: 1230
 url: /ko/net/aspose.page.xps.xpsmetadata/jobcopiesalldocuments/
 ---
 ## JobCopiesAllDocuments class

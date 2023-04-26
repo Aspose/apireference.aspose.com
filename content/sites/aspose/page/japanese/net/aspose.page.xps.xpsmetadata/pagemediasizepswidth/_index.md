@@ -3,7 +3,7 @@ title: Class PageMediaSizePSWidth
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSWidth クラス. 送り方向に垂直なページの幅を指定します https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepswidth
 type: docs
-weight: 2140
+weight: 2150
 url: /ja/net/aspose.page.xps.xpsmetadata/pagemediasizepswidth/
 ---
 ## PageMediaSizePSWidth class

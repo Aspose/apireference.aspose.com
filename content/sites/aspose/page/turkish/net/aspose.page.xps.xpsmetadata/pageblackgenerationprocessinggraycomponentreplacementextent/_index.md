@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementExtent sınıf. GCRnin uyguladığı genişletilmiş nötr ötesini kromatik renklere açıklar. /pageblackgenerationprocessinggraycomponentreplacementextent
 type: docs
-weight: 1740
+weight: 1750
 url: /tr/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

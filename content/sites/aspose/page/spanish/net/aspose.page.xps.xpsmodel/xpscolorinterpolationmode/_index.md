@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode enumeración. Valores válidos de la propiedad ColorInterpolationMode de los pinceles de degradado.
 type: docs
-weight: 2990
+weight: 3000
 url: /es/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

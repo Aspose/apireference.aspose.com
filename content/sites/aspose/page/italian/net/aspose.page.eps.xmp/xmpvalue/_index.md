@@ -37,7 +37,7 @@ public class XmpValue
 | [IsNamedValues](../../aspose.page.eps.xmp/xmpvalue/isnamedvalues/) { get; } | Restituisce vero se XmpValue rappresenta i valori denominati. |
 | [IsRaw](../../aspose.page.eps.xmp/xmpvalue/israw/) { get; } | Il valore non è supportato/sconosciuto e viene fornito codice XML non elaborato. |
 | [IsString](../../aspose.page.eps.xmp/xmpvalue/isstring/) { get; } | Restituisce vero se il valore è una stringa. |
-| [IsStructure](../../aspose.page.eps.xmp/xmpvalue/isstructure/) { get; } | Restituisce true se XmpValue rappresenta la struttura. |
+| [IsStructure](../../aspose.page.eps.xmp/xmpvalue/isstructure/) { get; } | Restituisce vero se XmpValue rappresenta la struttura. |
 
 ## Metodi
 

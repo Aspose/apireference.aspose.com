@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments klas. Beschrijft de nieteigenschappen van de uitvoer. Alle documenten in de opdracht worden aan elkaar geniet. DeJobStapleAllDocuments EnDocumentStaple trefwoorden sluiten elkaar wederzijds uit. Het is aan de bestuurder om te bepalen hoe de beperkingen tussen deze trefwoorden moeten worden afgehandeld. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /nl/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

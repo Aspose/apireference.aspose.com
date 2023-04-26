@@ -3,7 +3,7 @@ title: Interface PageMediaSize.IPageMediaSizeOptionItem
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeIPageMediaSizeOptionItem интерфейс. Интерфейс любойPageMediaSizeOption пункт.
 type: docs
-weight: 2070
+weight: 2080
 url: /ru/net/aspose.page.xps.xpsmetadata/pagemediasize.ipagemediasizeoptionitem/
 ---
 ## PageMediaSize.IPageMediaSizeOptionItem interface

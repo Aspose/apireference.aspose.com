@@ -3,7 +3,7 @@ title: PsDocument.Transform
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 将转换添加到当前图形状态将此矩阵与当前矩阵连接
 type: docs
-weight: 270
+weight: 300
 url: /zh/net/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument.Transform method

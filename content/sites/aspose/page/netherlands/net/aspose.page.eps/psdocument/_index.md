@@ -36,25 +36,43 @@ public sealed class PsDocument : Document
 | [Clip](../../aspose.page.eps/psdocument/clip/)(GraphicsPath) | Voegt clip toe aan huidige grafische status. |
 | [ClipAndNewPath](../../aspose.page.eps/psdocument/clipandnewpath/)(GraphicsPath) | Voegt een clip toe aan de huidige grafische status en schrijft vervolgens de "newpath"-operator. Het is noodzakelijk om te ontsnappen aan de samenvloeiing van dit uitknippad en enkele daaropvolgende paden, zoals glyphs omlijnd met de "charpath"-operator. |
 | [ClipRectangle](../../aspose.page.eps/psdocument/cliprectangle/)(RectangleF) | Voegt een uitkniprechthoek toe aan de huidige grafische status. |
+| [ClipText](../../aspose.page.eps/psdocument/cliptext/)(string, Font, float, float) |  |
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | Volledige huidige pagina. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | Teken een willekeurig pad. |
 | [DrawExplicitImageMask](../../aspose.page.eps/psdocument/drawexplicitimagemask/)(Bitmap, Bitmap, Matrix) | Gemaskerde afbeelding tekenen. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage)(Bitmap) | Afbeelding tekenen. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage_1)(Bitmap, Matrix, Color) | Teken getransformeerde afbeelding met achtergrond. |
+| [DrawTransparentImage](../../aspose.page.eps/psdocument/drawtransparentimage/)(Bitmap, Matrix, int) | Teken getransformeerde transparante afbeelding. Als de afbeelding geen alfakanaal heeft, wordt deze getekend als dekkende afbeelding |
 | [Fill](../../aspose.page.eps/psdocument/fill/)(GraphicsPath) | Vul een willekeurig pad in. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, Font, float, float, Brush, Brush, Pen) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen en contouren van glyphs te tekenen. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, float[], Font, float, float, Brush, Brush, Pen) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen en contouren van glyphs te tekenen. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, Font, float, float) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, float[], Font, float, float) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, DrFont, float, float, Brush, Pen) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen en contouren van glyphs te tekenen. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_3)(string, Font, float, float, Brush, Pen) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen en contouren van glyphs te tekenen. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, float[], DrFont, float, float, Brush, Pen) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen en contouren van glyphs te tekenen. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_2)(string, float[], Font, float, float, Brush, Pen) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen en contouren van glyphs te tekenen. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, DrFont, float, float) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_6)(string, Font, float, float) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, DrFont, float, float, Brush) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_2)(string, float[], DrFont, float, float) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_4)(string, float[], Font, float, float) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_7)(string, Font, float, float, Brush) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_3)(string, float[], DrFont, float, float, Brush) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_5)(string, float[], Font, float, float, Brush) | Voegt een tekenreeks toe door de binnenkant van glyphs te vullen. |
 | [GetPaint](../../aspose.page.eps/psdocument/getpaint/)() | Krijgt verf van de huidige grafische status. |
 | [GetStroke](../../aspose.page.eps/psdocument/getstroke/)() | Haalt de huidige grafische status op. |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata/)() | Leest PS/EPS-bestand en extraheert XmpMetdata als het al bestaat of voegt een nieuw toe als het niet bestaat. |
 | [Merge](../../aspose.page.eps/psdocument/merge/)(string[], Device, SaveOptions) | Voegt PS/EPS-bestanden samen op een apparaat. |
-| [OpenPage](../../aspose.page.eps/psdocument/openpage/)(float, float) | Maakt een nieuwe pagina aan en maakt deze de huidige. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, Font, float, float) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, float[], Font, float, float) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
-| [Rotate](../../aspose.page.eps/psdocument/rotate/)(float) | Voegt rotatie toe aan huidige grafische status (roteer huidige matrix). |
-| [Save](../../aspose.page.eps/psdocument/save/#save)() | Slaat opgegeven`PsDocument` als EPS-bestand. Deze methode wordt alleen gebruikt wanneer PsDocument helemaal opnieuw is gemaakt. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage_1)(string) | Maakt een nieuwe pagina met de grootte van het document en maakt deze de huidige. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage)(float, float) | Maakt een nieuwe pagina aan en maakt deze de huidige. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, DrFont, float, float) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_6)(string, Font, float, float) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, DrFont, float, float, Pen) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_2)(string, float[], DrFont, float, float) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_4)(string, float[], Font, float, float) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_7)(string, Font, float, float, Pen) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_3)(string, float[], DrFont, float, float, Pen) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_5)(string, float[], Font, float, float, Pen) | Voegt een tekenreeks toe door glyphs-contouren te tekenen. |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate_1)(float) | Voegt rotatie tegen de klok in rond de oorsprong toe aan de huidige grafische status (roteer huidige matrix). |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate)(int) | Voegt rotatie tegen de klok in rond de oorsprong toe aan de huidige grafische status (roteer huidige matrix). |
+| [Save](../../aspose.page.eps/psdocument/save/#save)() | Slaat opgegeven`PsDocument`als EPS-bestand. Deze methode wordt alleen gebruikt wanneer PsDocument helemaal opnieuw is gemaakt. |
 | [Save](../../aspose.page.eps/psdocument/save/#save_2)(Stream) | Slaat opgegeven`PsDocument` als EPS-bestand. Deze methode wordt alleen gebruikt na het bijwerken van de XMP-metadata. Het slaat het initiële EPS-bestand op met bijgewerkte bestaande metadata of een nieuw aangemaakt bestand tijdens het aanroepen van de GetMetadata-methode. In het laatste geval worden alle benodigde PostScript-code en EPS-opmerkingen toegevoegd. |
 | override [Save](../../aspose.page.eps/psdocument/save/#save_1)(Device, SaveOptions) | Slaat PS/EPS-bestand op een apparaat op. |
 | [Scale](../../aspose.page.eps/psdocument/scale/)(float, float) | Voegt schaal toe aan de huidige grafische status (schaal huidige matrix). |
@@ -62,6 +80,7 @@ public sealed class PsDocument : Document
 | [SetPageSize](../../aspose.page.eps/psdocument/setpagesize/)(float, float) | Stelt het paginaformaat in. Gebruik om pagina's met verschillende formaten in één document te maken[`SetPageDevice`](./setpagedevice/) methode net na deze methode. |
 | [SetPaint](../../aspose.page.eps/psdocument/setpaint/)(Brush) | Stelt verf in huidige grafische status in. |
 | [SetStroke](../../aspose.page.eps/psdocument/setstroke/)(Pen) | Stelt lijn in huidige grafische status in. |
+| [SetTransform](../../aspose.page.eps/psdocument/settransform/)(Matrix) | Stel de huidige transformatie in op deze. |
 | [Shear](../../aspose.page.eps/psdocument/shear/)(float, float) | Voegt afschuiftransformatie toe aan de huidige grafische status (afschuifstroommatrix). |
 | [Transform](../../aspose.page.eps/psdocument/transform/)(Matrix) | Voegt transformatie toe aan de huidige grafische staat (voegt deze matrix samen met de huidige). |
 | [Translate](../../aspose.page.eps/psdocument/translate/)(float, float) | Voegt vertaling toe aan huidige grafische staat (vertaalt huidige matrix). |

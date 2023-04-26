@@ -3,7 +3,7 @@ title: Class PageWatermarkTransparency
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTransparency kelas. Menentukan transparansi untuk watermark. Sepenuhnya buram akan memiliki nilai 0. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktransparency
 type: docs
-weight: 2760
+weight: 2770
 url: /id/net/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

@@ -3,7 +3,7 @@ title: Class NUp.PresentationDirection.PresentationDirectionOption
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.NUpPresentationDirectionPresentationDirectionOption klas. Beschrijft dePresentationDirection functieopties.
 type: docs
-weight: 1630
+weight: 1640
 url: /nl/net/aspose.page.xps.xpsmetadata/nup.presentationdirection.presentationdirectionoption/
 ---
 ## NUp.PresentationDirection.PresentationDirectionOption class

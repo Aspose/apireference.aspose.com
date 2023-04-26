@@ -3,7 +3,7 @@ title: Class PageMediaSizePSWidthOffset
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSWidthOffset فصل. يحدد الإزاحة عموديًا على اتجاه اتجاه التغذية. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepswidthoffset
 type: docs
-weight: 2150
+weight: 2160
 url: /ar/net/aspose.page.xps.xpsmetadata/pagemediasizepswidthoffset/
 ---
 ## PageMediaSizePSWidthOffset class

@@ -3,7 +3,7 @@ title: Class PageScalingScaleHeight
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleHeight сорт. Определяет коэффициент масштабирования в направление пользовательского масштабирования. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscaleheight
 type: docs
-weight: 2560
+weight: 2570
 url: /ru/net/aspose.page.xps.xpsmetadata/pagescalingscaleheight/
 ---
 ## PageScalingScaleHeight class

@@ -3,7 +3,7 @@ title: Interface InputBin.IInputBinOptionItem
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.InputBinIInputBinOptionItem διεπαφή. Η διεπαφή οποιουδήποτεInputBinOption στοιχείο.
 type: docs
-weight: 1060
+weight: 1070
 url: /el/net/aspose.page.xps.xpsmetadata/inputbin.iinputbinoptionitem/
 ---
 ## InputBin.IInputBinOptionItem interface

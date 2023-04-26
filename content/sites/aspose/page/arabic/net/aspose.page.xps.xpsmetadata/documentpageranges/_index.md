@@ -3,7 +3,7 @@ title: Class DocumentPageRanges
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentPageRanges فصل. يصف نطاق مخرجات الوثيقة بالصفحات. يجب أن تتوافق قيمة المعلمة مع البنية التالية  PageRangeText PageRange أو PageRange PageRange  PageRange PageNumber أو PageNumberPageNumber  PageNumber 1 to N  حيث N هو رقم الصفحات في المستند. إذا كان رقم الصفحة N  فيجب تجاهل PageNumber  N. المسافة البيضاء في السلسلة . https//docs.microsoft.com/enus/windows/win32/printdocs/documentpageranges
 type: docs
-weight: 770
+weight: 780
 url: /ar/net/aspose.page.xps.xpsmetadata/documentpageranges/
 ---
 ## DocumentPageRanges class

@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize kelas. Menjelaskan kanvas gambar untuk tata letak dan rendering. Ini akan dilaporkan berdasarkan PageMediaSize DanPageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /id/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

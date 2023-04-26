@@ -3,7 +3,7 @@ title: Class Feature
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.Feature τάξη. Η κλάση που ενσωματώνει ένα κοινό χαρακτηριστικό Print Schema. Η βασική κλάση για όλα τα χαρακτηριστικά που καθορίζονται από το σχήμα. A στοιχείο περιέχει μια πλήρη λίστα τωνOption καιProperty στοιχεία που περιγράφουν πλήρως ένα χαρακτηριστικό συσκευής ρύθμιση μορφοποίησης εργασίας ή άλλο σχετικό χαρακτηριστικό. https//docs.microsoft.com/enus/windows/win32/printdocs/feature
 type: docs
-weight: 870
+weight: 880
 url: /el/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

@@ -3,7 +3,7 @@ title: Class DecimalValue
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DecimalValue sınıf. Bir PrintTicket belgesinde Decimal değeri içeren sınıf.
 type: docs
-weight: 520
+weight: 530
 url: /tr/net/aspose.page.xps.xpsmetadata/decimalvalue/
 ---
 ## DecimalValue class

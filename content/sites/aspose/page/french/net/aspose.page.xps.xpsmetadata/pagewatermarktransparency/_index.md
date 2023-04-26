@@ -3,7 +3,7 @@ title: Class PageWatermarkTransparency
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTransparency classe. Spécifie la transparence du filigrane. Entièrement opaque aurait une valeur de 0. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktransparency
 type: docs
-weight: 2760
+weight: 2770
 url: /fr/net/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

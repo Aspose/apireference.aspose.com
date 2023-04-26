@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation сорт. Описывает ориентацию листа физического носителя. https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2300
+weight: 2310
 url: /ru/net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

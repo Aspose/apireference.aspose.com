@@ -3,7 +3,7 @@ title: Class PageScalingScaleHeight
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleHeight 수업. 에서 배율 인수를 지정합니다. 사용자 정의 배율 방향. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscaleheight
 type: docs
-weight: 2560
+weight: 2570
 url: /ko/net/aspose.page.xps.xpsmetadata/pagescalingscaleheight/
 ---
 ## PageScalingScaleHeight class

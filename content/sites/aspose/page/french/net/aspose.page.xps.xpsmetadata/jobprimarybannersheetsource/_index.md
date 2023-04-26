@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheetSource
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheetSource classe. Spécifie la source dune feuille de bannière personnalisée principale pour le travail. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarybannersheetsource
 type: docs
-weight: 1490
+weight: 1500
 url: /fr/net/aspose.page.xps.xpsmetadata/jobprimarybannersheetsource/
 ---
 ## JobPrimaryBannerSheetSource class

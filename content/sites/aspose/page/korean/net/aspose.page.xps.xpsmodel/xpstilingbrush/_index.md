@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush 수업. 타일링 브러시 요소VisualBrush 및 ImageBrush의 일반적인 기능을 캡슐화하는 클래스입니다.
 type: docs
-weight: 3400
+weight: 3410
 url: /ko/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

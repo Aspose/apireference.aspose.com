@@ -3,7 +3,7 @@ title: Class XpsElement
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsElement कक्ष. क्लस इनकैप्सुलेटंग कमन एक्सपएस एलमेंट फचर्स
 type: docs
-weight: 3030
+weight: 3040
 url: /hi/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class

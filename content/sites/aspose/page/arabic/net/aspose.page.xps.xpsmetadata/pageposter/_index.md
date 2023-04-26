@@ -3,7 +3,7 @@ title: Class PagePoster
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PagePoster فصل. يصف إخراج صفحة واحدة لعدة أوراق وسائط فعلية . https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 2410
+weight: 2420
 url: /ar/net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

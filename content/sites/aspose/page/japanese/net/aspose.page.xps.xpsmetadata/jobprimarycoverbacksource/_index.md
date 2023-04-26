@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBackSource
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBackSource クラス. ジョブのカスタム裏表紙プライマリ シートのソースを指定します https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverbacksource
 type: docs
-weight: 1520
+weight: 1530
 url: /ja/net/aspose.page.xps.xpsmetadata/jobprimarycoverbacksource/
 ---
 ## JobPrimaryCoverBackSource class

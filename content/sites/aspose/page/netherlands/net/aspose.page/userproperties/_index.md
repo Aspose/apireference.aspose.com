@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | Haalt de eigenschapswaarde van de stringarray op. Als de gevraagde eigenschap afwezig is, wordt de opgegeven standaardwaarde geretourneerd. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | Krijgt booleaanse eigenschapswaarde. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | Krijgt booleaanse eigenschapswaarde. Als de gevraagde eigenschap afwezig is, wordt de opgegeven standaardwaarde geretourneerd. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | Retourneert namen van eigenschappen. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | Stelt booleaanse eigenschapswaarde in. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | Stelt de waarde van de kleureigenschap in. |

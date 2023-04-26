@@ -3,7 +3,7 @@ title: Class PagePhotoPrintingIntent.PagePhotoPrintingIntentOption
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PagePhotoPrintingIntentPagePhotoPrintingIntentOption τάξη. ΟρίζειPagePhotoPrintingIntent επιλογές χαρακτηριστικών.
 type: docs
-weight: 2400
+weight: 2410
 url: /el/net/aspose.page.xps.xpsmetadata/pagephotoprintingintent.pagephotoprintingintentoption/
 ---
 ## PagePhotoPrintingIntent.PagePhotoPrintingIntentOption class

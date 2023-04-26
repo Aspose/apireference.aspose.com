@@ -3,7 +3,7 @@ title: Class DocumentHolePunch
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentHolePunch sınıf. Çıktının delik delme özelliklerini açıklar. Her belge ayrı ayrı delinir. JobHolePunch VeDocumentHolePunch anahtar kelimeler birbirini dışlar. Her ikisi de bir PrintTicket veya Print Capabilities belgesinde aynı anda belirtilmemelidir. https//docs.microsoft.com/enus/windows/win32/printdocs/documentholepunch
 type: docs
-weight: 700
+weight: 710
 url: /tr/net/aspose.page.xps.xpsmetadata/documentholepunch/
 ---
 ## DocumentHolePunch class

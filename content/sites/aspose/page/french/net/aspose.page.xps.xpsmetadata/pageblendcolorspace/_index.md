@@ -3,7 +3,7 @@ title: Class PageBlendColorSpace
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBlendColorSpace classe. Décrit lespace colorimétrique à utiliser pour les opérations de fusion. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblendcolorspace
 type: docs
-weight: 1800
+weight: 1810
 url: /fr/net/aspose.page.xps.xpsmetadata/pageblendcolorspace/
 ---
 ## PageBlendColorSpace class

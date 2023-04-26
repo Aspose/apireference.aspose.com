@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingBlackInkLimit
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingBlackInkLimit 班级. 标有指定命名颜色的应用程序内容必须出现在所有分色上 https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingblackinklimit
 type: docs
-weight: 1730
+weight: 1740
 url: /zh/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingblackinklimit/
 ---
 ## PageBlackGenerationProcessingBlackInkLimit class

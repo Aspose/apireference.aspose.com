@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingTotalInkCoverageLimit
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingTotalInkCoverageLimit classe. Specifica la somma massima consentita della copertura di quattro inchiostri ovunque in unimmagine. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingtotalinkcoveragelimit
 type: docs
-weight: 1770
+weight: 1780
 url: /it/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingtotalinkcoveragelimit/
 ---
 ## PageBlackGenerationProcessingTotalInkCoverageLimit class

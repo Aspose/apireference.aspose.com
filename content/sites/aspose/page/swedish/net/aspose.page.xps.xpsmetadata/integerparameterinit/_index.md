@@ -3,7 +3,7 @@ title: Class IntegerParameterInit
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.IntegerParameterInit klass. Basklass för alla heltalsparameterinitierare.
 type: docs
-weight: 1110
+weight: 1120
 url: /sv/net/aspose.page.xps.xpsmetadata/integerparameterinit/
 ---
 ## IntegerParameterInit class

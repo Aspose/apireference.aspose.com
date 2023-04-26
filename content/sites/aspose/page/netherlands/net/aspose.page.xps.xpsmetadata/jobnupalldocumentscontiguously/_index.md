@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously klas. Beschrijft de uitvoer van meerdere logische paginas naar een enkel fysiek blad. Alle documenten in de job zijn aaneengesloten samengevoegd.JobNUpAllDocumentsContiguously EnDocumentNUp sluiten elkaar wederzijds uit. Het is aan de driver om de beperkingsafhandeling tussen deze sleutelwoorden te bepalen. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /nl/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

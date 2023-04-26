@@ -3,7 +3,7 @@ title: Class JobPageOrder.JobPageOrderOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrderJobPageOrderOption 수업. 설명JobPageOrder 기능 옵션.
 type: docs
-weight: 1460
+weight: 1470
 url: /ko/net/aspose.page.xps.xpsmetadata/jobpageorder.jobpageorderoption/
 ---
 ## JobPageOrder.JobPageOrderOption class

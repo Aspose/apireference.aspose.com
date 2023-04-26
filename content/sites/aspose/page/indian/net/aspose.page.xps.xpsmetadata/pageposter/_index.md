@@ -3,7 +3,7 @@ title: Class PagePoster
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PagePoster कक्ष. एकधक भतक मडय शट के लए एक पृष्ठ के आउटपुट क वर्णन करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 2410
+weight: 2420
 url: /hi/net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

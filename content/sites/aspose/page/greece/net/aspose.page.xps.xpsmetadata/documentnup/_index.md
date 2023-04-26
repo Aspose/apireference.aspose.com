@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp τάξη. Περιγράφει την έξοδο και τη μορφή πολλαπλών λογικών σελίδων σε ένα ενιαίο φυσικό φύλλο. Κάθε έγγραφο συντάσσεται ξεχωριστά. καιJobNUpAllDocumentsContiguouslyΟι αποκλείονται αμοιβαία. Εναπόκειται στο πρόγραμμα οδήγησης να καθορίσει τον χειρισμό περιορισμών μεταξύ αυτών των λέξεωνκλειδιών. https//docs.microsoft.com/enus/windows/win32/printdocs/documentnup
 type: docs
-weight: 740
+weight: 750
 url: /el/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

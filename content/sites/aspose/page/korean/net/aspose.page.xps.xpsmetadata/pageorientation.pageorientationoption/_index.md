@@ -3,7 +3,7 @@ title: Class PageOrientation.PageOrientationOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOrientationPageOrientationOption 수업. 설명PageOrientation 기능 옵션.
 type: docs
-weight: 2310
+weight: 2320
 url: /ko/net/aspose.page.xps.xpsmetadata/pageorientation.pageorientationoption/
 ---
 ## PageOrientation.PageOrientationOption class
@@ -30,7 +30,7 @@ public sealed class PageOrientationOption : Option
 
 | 이름 | 설명 |
 | --- | --- |
-| static [Landscape](../../aspose.page.xps.xpsmetadata/pageorientationoption/landscape/) | 콘텐츠는 표준(세로) 방향을 기준으로 페이지에서 CCW로 90도 회전합니다. |
+| static [Landscape](../../aspose.page.xps.xpsmetadata/pageorientationoption/landscape/) | 콘텐츠는 표준(세로) 방향을 기준으로 페이지에서 CCW로 90도 회전됩니다. |
 | static [Portrait](../../aspose.page.xps.xpsmetadata/pageorientationoption/portrait/) | 표준 방향. |
 | static [ReverseLandscape](../../aspose.page.xps.xpsmetadata/pageorientationoption/reverselandscape/) | 표준(세로) 방향을 기준으로 페이지에서 콘텐츠가 CCW로 270도 회전됩니다. |
 | static [ReversePortrait](../../aspose.page.xps.xpsmetadata/pageorientationoption/reverseportrait/) | 표준(세로) 방향을 기준으로 페이지에서 콘텐츠가 180도 회전됩니다. |

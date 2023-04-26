@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment कक्ष. क्लस इनकैप्सुलेटंग आर्कसेगमेंट तत्व वशेषतएँ यह तत्व एक अण्डकर चप क वर्णन करत है
 type: docs
-weight: 2940
+weight: 2950
 url: /hi/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

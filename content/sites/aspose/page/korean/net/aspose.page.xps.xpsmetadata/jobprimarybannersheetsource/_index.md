@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheetSource
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheetSource 수업. 작업에 대한 기본 사용자 정의 배너 시트의 소스를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarybannersheetsource
 type: docs
-weight: 1490
+weight: 1500
 url: /ko/net/aspose.page.xps.xpsmetadata/jobprimarybannersheetsource/
 ---
 ## JobPrimaryBannerSheetSource class

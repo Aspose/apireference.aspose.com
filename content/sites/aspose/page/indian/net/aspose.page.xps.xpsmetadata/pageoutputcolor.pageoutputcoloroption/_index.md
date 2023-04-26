@@ -3,7 +3,7 @@ title: Class PageOutputColor.PageOutputColorOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOutputColorPageOutputColorOption कक्ष. क वर्णन करत हैPageOutputColor सुवध वकल्प.
 type: docs
-weight: 2360
+weight: 2370
 url: /hi/net/aspose.page.xps.xpsmetadata/pageoutputcolor.pageoutputcoloroption/
 ---
 ## PageOutputColor.PageOutputColorOption class

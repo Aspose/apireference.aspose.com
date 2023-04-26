@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceUsage.PageDeviceColorSpaceUsageOption
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceUsagePageDeviceColorSpaceUsageOption сорт. ОписываетPageDeviceColorSpaceUsage параметры функции.
 type: docs
-weight: 1940
+weight: 1950
 url: /ru/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage.pagedevicecolorspaceusageoption/
 ---
 ## PageDeviceColorSpaceUsage.PageDeviceColorSpaceUsageOption class

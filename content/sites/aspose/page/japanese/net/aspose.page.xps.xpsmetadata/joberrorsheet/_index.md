@@ -1,14 +1,14 @@
 ---
 title: Class JobErrorSheet
 second_title: Aspose.Page for .NET API リファレンス
-description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet クラス. エラーシート出力について説明しますジョブ全体で 1 つのエラー シートが作成されますエラー sheet はデフォルトで出力されるはずですPageMediaSizeデフォルトを使用してPageMediaType. エラー シートはジョブの残りの部分から分離する必要がありますこれはすべての仕上げ or 処理オプション    また にはエラー シートを含めないでくださいエラー シートはジョブの最終シートとして表示されます https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
+description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet クラス. エラーシート出力について説明しますジョブ全体で 1 つのエラー シートが作成されますエラー sheet はデフォルトで出力されるはずですPageMediaSizeデフォルトを使用してPageMediaType. エラー シートはジョブの残りの部分から分離する必要がありますこれはすべての仕上げ or 処理オプション    また にエラー シートを含めないでくださいエラー シートはジョブの最終シートとして表示されます https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /ja/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class
 
-エラーシート出力について説明します。ジョブ全体で 1 つのエラー シートが作成されます。エラー sheet はデフォルトで出力されるはずです[`PageMediaSize`](../pagemediasize/)デフォルトを使用して[`PageMediaType`](../pagemediatype/). エラー シートは、ジョブの残りの部分から分離する必要があります。これは、すべての仕上げ or 処理オプション ( 、 、 また) にはエラー シートを含めないでください。エラー シートは、ジョブの最終シートとして表示されます。 https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet
+エラーシート出力について説明します。ジョブ全体で 1 つのエラー シートが作成されます。エラー sheet はデフォルトで出力されるはずです[`PageMediaSize`](../pagemediasize/)デフォルトを使用して[`PageMediaType`](../pagemediatype/). エラー シートは、ジョブの残りの部分から分離する必要があります。これは、すべての仕上げ or 処理オプション ( 、 、 また) にエラー シートを含めないでください。エラー シートは、ジョブの最終シートとして表示されます。 https://docs.microsoft.com/en-us/windows/win32/printdocs/joberrorsheet
 
 ```csharp
 JobDuplex

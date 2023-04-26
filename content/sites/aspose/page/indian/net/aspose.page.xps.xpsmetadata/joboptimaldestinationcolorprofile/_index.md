@@ -3,7 +3,7 @@ title: Class JobOptimalDestinationColorProfile
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobOptimalDestinationColorProfile कक्ष. वर्तमन डवइस कन्फ़गरेशन क देखते हुए इष्टतम रंग प्रफ़इल नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/joboptimaldestinationcolorprofile
 type: docs
-weight: 1400
+weight: 1410
 url: /hi/net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile/
 ---
 ## JobOptimalDestinationColorProfile class

@@ -3,7 +3,7 @@ title: Class DocumentID
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentID сорт. Указывает уникальный идентификатор документа. https//docs.microsoft.com/enus/windows/win32/printdocs/documentid
 type: docs
-weight: 710
+weight: 720
 url: /ru/net/aspose.page.xps.xpsmetadata/documentid/
 ---
 ## DocumentID class

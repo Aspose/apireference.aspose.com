@@ -3,7 +3,7 @@ title: Class DocumentBannerSheetSource
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheetSource 수업. 사용자 정의 배너 시트의 소스를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheetsource
 type: docs
-weight: 550
+weight: 560
 url: /ko/net/aspose.page.xps.xpsmetadata/documentbannersheetsource/
 ---
 ## DocumentBannerSheetSource class

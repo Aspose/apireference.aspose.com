@@ -3,7 +3,7 @@ title: PsDocument.Fill
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 填充任意路径.
 type: docs
-weight: 100
+weight: 120
 url: /zh/net/aspose.page.eps/psdocument/fill/
 ---
 ## PsDocument.Fill method

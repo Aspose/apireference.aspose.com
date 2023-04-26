@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | Mendapat nilai properti array string. Jika properti yang diminta tidak ada, kembalikan nilai default yang diberikan. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | Mendapat nilai properti boolean. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | Mendapat nilai properti boolean. Jika properti yang diminta tidak ada, kembalikan nilai default yang diberikan. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | Mengembalikan nama properti. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | Menetapkan nilai properti boolean. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | Menetapkan nilai properti warna. |

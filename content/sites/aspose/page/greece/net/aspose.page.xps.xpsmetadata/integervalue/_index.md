@@ -3,7 +3,7 @@ title: Class IntegerValue
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.IntegerValue τάξη. Η κλάση που ενσωματώνει μια τιμή Integer σε ένα έγγραφο PrintTicket.
 type: docs
-weight: 1120
+weight: 1130
 url: /el/net/aspose.page.xps.xpsmetadata/integervalue/
 ---
 ## IntegerValue class

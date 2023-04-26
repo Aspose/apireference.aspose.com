@@ -3,7 +3,7 @@ title: Interface IDocumentPrintTicketItem
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IDocumentPrintTicketItem واجهه المستخدم. واجهة عناصر بطاقة الطباعة مسبوقة بالمستند.
 type: docs
-weight: 910
+weight: 920
 url: /ar/net/aspose.page.xps.xpsmetadata/idocumentprintticketitem/
 ---
 ## IDocumentPrintTicketItem interface

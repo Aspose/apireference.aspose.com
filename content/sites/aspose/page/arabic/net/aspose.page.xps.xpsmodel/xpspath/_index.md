@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPath فصل. فئة تتضمن ميزات عنصر المسار . هذا العنصر هو الوسيلة الوحيدة لإضافة الرسومات المتجهة والصور إلى صفحة ثابتة.
 type: docs
-weight: 3250
+weight: 3260
 url: /ar/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

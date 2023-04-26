@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet 班级. 描述文档的分隔页用法 分隔页应出现在输出中如下面指定的选项所示 https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet
 type: docs
-weight: 800
+weight: 810
 url: /zh/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

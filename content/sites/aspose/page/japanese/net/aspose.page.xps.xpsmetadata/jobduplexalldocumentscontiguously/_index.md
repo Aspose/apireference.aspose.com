@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously クラス. 出力のデュプレックス特性を記述します両面印刷機能によりメディアの両面に on 印刷できますジョブ内のすべてのドキュメントが連続して両面印刷されます. JobDuplexAllDocumentsContiguouslyとDocumentDuplex相互に排他的です. これらのキーワード間の制約処理を決定するのはドライバー次第です. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /ja/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

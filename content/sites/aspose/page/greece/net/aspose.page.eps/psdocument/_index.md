@@ -36,32 +36,51 @@ public sealed class PsDocument : Document
 | [Clip](../../aspose.page.eps/psdocument/clip/)(GraphicsPath) | Προσθέτει κλιπ στην τρέχουσα κατάσταση γραφικών. |
 | [ClipAndNewPath](../../aspose.page.eps/psdocument/clipandnewpath/)(GraphicsPath) | Προσθέτει κλιπ στην τρέχουσα κατάσταση γραφικών και στη συνέχεια γράφει τον τελεστή "newpath". Είναι απαραίτητο να κάνετε για να διαφύγετε της συμβολής αυτής της διαδρομής αποκοπής και ορισμένων επακόλουθων μονοπατιών, όπως οι γλύφοι που περιγράφονται με τον τελεστή "charpath". |
 | [ClipRectangle](../../aspose.page.eps/psdocument/cliprectangle/)(RectangleF) | Προσθέτει ορθογώνιο αποκοπής στην τρέχουσα κατάσταση γραφικών. |
+| [ClipText](../../aspose.page.eps/psdocument/cliptext/)(string, Font, float, float) |  |
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | Ολοκληρώστε την τρέχουσα σελίδα. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | Σχεδιάστε μια αυθαίρετη διαδρομή. |
 | [DrawExplicitImageMask](../../aspose.page.eps/psdocument/drawexplicitimagemask/)(Bitmap, Bitmap, Matrix) | Σχεδιάστε μια καλυμμένη εικόνα. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage)(Bitmap) | Σχεδίαση εικόνας. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage_1)(Bitmap, Matrix, Color) | Σχεδιάστε μετασχηματισμένη εικόνα με φόντο. |
+| [DrawTransparentImage](../../aspose.page.eps/psdocument/drawtransparentimage/)(Bitmap, Matrix, int) | Σχεδιάστε μετασχηματισμένη διαφανή εικόνα. Εάν η εικόνα δεν έχει κανάλι Alpha, θα σχεδιαστεί ως αδιαφανές image |
 | [Fill](../../aspose.page.eps/psdocument/fill/)(GraphicsPath) | Συμπληρώστε μια αυθαίρετη διαδρομή. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, Font, float, float, Brush, Brush, Pen) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών και σχεδιάζοντας περιγράμματα γλυφών. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, float[], Font, float, float, Brush, Brush, Pen) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών και σχεδιάζοντας περιγράμματα γλυφών. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, Font, float, float) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, float[], Font, float, float) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, DrFont, float, float, Brush, Pen) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών και σχεδιάζοντας περιγράμματα γλυφών. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_3)(string, Font, float, float, Brush, Pen) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών και σχεδιάζοντας περιγράμματα γλυφών. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, float[], DrFont, float, float, Brush, Pen) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών και σχεδιάζοντας περιγράμματα γλυφών. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_2)(string, float[], Font, float, float, Brush, Pen) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών και σχεδιάζοντας περιγράμματα γλυφών. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, DrFont, float, float) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_6)(string, Font, float, float) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, DrFont, float, float, Brush) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_2)(string, float[], DrFont, float, float) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_4)(string, float[], Font, float, float) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_7)(string, Font, float, float, Brush) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_3)(string, float[], DrFont, float, float, Brush) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_5)(string, float[], Font, float, float, Brush) | Προσθέτει μια συμβολοσειρά κειμένου συμπληρώνοντας το εσωτερικό των γλυφών. |
 | [GetPaint](../../aspose.page.eps/psdocument/getpaint/)() | Παίρνει χρώμα της τρέχουσας κατάστασης γραφικών. |
 | [GetStroke](../../aspose.page.eps/psdocument/getstroke/)() | Παίρνει διαδρομή της τρέχουσας κατάστασης γραφικών. |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata/)() | Διαβάζει αρχείο PS/EPS και εξάγει τα XmpMetdata εάν υπάρχουν ήδη ή προσθέτει νέο εάν δεν υπάρχει. |
 | [Merge](../../aspose.page.eps/psdocument/merge/)(string[], Device, SaveOptions) | Συγχωνεύει αρχεία PS/EPS σε μια συσκευή. |
-| [OpenPage](../../aspose.page.eps/psdocument/openpage/)(float, float) | Δημιουργεί νέα σελίδα και κάνει την τρέχουσα. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, Font, float, float) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, float[], Font, float, float) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
-| [Rotate](../../aspose.page.eps/psdocument/rotate/)(float) | Προσθέτει περιστροφή στην τρέχουσα κατάσταση γραφικών (περιστροφή τρέχοντος πίνακα). |
-| [Save](../../aspose.page.eps/psdocument/save/#save)() | Αποθηκεύσεις δίνονται`PsDocument` ως αρχείο EPS. Αυτή η μέθοδος χρησιμοποιείται μόνο όταν το PsDocument δημιουργήθηκε από την αρχή. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage_1)(string) | Δημιουργεί νέα σελίδα με το μέγεθος του εγγράφου και κάνει την τρέχουσα. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage)(float, float) | Δημιουργεί νέα σελίδα και κάνει την τρέχουσα. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, DrFont, float, float) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_6)(string, Font, float, float) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, DrFont, float, float, Pen) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_2)(string, float[], DrFont, float, float) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_4)(string, float[], Font, float, float) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_7)(string, Font, float, float, Pen) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_3)(string, float[], DrFont, float, float, Pen) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_5)(string, float[], Font, float, float, Pen) | Προσθέτει μια συμβολοσειρά κειμένου σχεδιάζοντας περιγράμματα γλυφών. |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate_1)(float) | Προσθέτει περιστροφή αριστερόστροφα ως προς την αρχή στην τρέχουσα κατάσταση γραφικών (περιστροφή τρέχοντος πίνακα). |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate)(int) | Προσθέτει περιστροφή αριστερόστροφα ως προς την αρχή στην τρέχουσα κατάσταση γραφικών (περιστροφή τρέχοντος πίνακα). |
+| [Save](../../aspose.page.eps/psdocument/save/#save)() | Αποθηκεύσεις δίνονται`PsDocument`ως αρχείο EPS. Αυτή η μέθοδος χρησιμοποιείται μόνο όταν το PsDocument δημιουργήθηκε από την αρχή. |
 | [Save](../../aspose.page.eps/psdocument/save/#save_2)(Stream) | Αποθηκεύσεις δίνονται`PsDocument` ως αρχείο EPS. Αυτή η μέθοδος χρησιμοποιείται μόνο μετά την ενημέρωση των μεταδεδομένων XMP. Αποθηκεύει το αρχικό αρχείο EPS με ενημερωμένα υπάρχοντα μεταδεδομένα ή ένα νέο που δημιουργήθηκε κατά την κλήση της μεθόδου GetMetadata. Στην τελευταία περίπτωση προστίθενται όλοι οι απαραίτητοι κώδικας PostScript και σχόλια EPS. |
 | override [Save](../../aspose.page.eps/psdocument/save/#save_1)(Device, SaveOptions) | Αποθηκεύει το αρχείο PS/EPS σε μια συσκευή. |
 | [Scale](../../aspose.page.eps/psdocument/scale/)(float, float) | Προσθέτει κλίμακα στην τρέχουσα κατάσταση γραφικών (κλιμακωτή τρέχουσα μήτρα). |
 | [SetPageDevice](../../aspose.page.eps/psdocument/setpagedevice/)(Dictionary&lt;string, object&gt;) | Ορίζει τις παραμέτρους της συσκευής σελίδας (βλ. τελεστή "setpagedevice" PostScript specification). Μεταξύ αυτών μπορεί να είναι το μέγεθος και το χρώμα σελίδας κ.λπ. |
-| [SetPageSize](../../aspose.page.eps/psdocument/setpagesize/)(float, float) | Ορίζει το μέγεθος σελίδας. Για να δημιουργήσετε σελίδες με διαφορετικά μεγέθη σε ένα έγγραφο χρησιμοποιήστε[`SetPageDevice`](./setpagedevice/) Μέθοδος αμέσως μετά από αυτήν τη μέθοδο. |
+| [SetPageSize](../../aspose.page.eps/psdocument/setpagesize/)(float, float) | Ορίζει το μέγεθος σελίδας. Για να δημιουργήσετε σελίδες με διαφορετικά μεγέθη σε ένα έγγραφο χρησιμοποιήστε[`SetPageDevice`](./setpagedevice/)Μέθοδος αμέσως μετά από αυτήν τη μέθοδο. |
 | [SetPaint](../../aspose.page.eps/psdocument/setpaint/)(Brush) | Ορίζει τη βαφή στην τρέχουσα κατάσταση γραφικών. |
 | [SetStroke](../../aspose.page.eps/psdocument/setstroke/)(Pen) | Ορίζει το stroke στην τρέχουσα κατάσταση γραφικών. |
+| [SetTransform](../../aspose.page.eps/psdocument/settransform/)(Matrix) | Ορίστε τον τρέχοντα μετασχηματισμό σε αυτόν. |
 | [Shear](../../aspose.page.eps/psdocument/shear/)(float, float) | Προσθέτει μετασχηματισμό διάτμησης στην τρέχουσα κατάσταση γραφικών (μήτρα διάτμησης ρεύματος). |
 | [Transform](../../aspose.page.eps/psdocument/transform/)(Matrix) | Προσθέτει μετασχηματισμό στην τρέχουσα κατάσταση γραφικών (συνενώνει αυτόν τον πίνακα με τον τρέχοντα). |
 | [Translate](../../aspose.page.eps/psdocument/translate/)(float, float) | Προσθέτει μετάφραση στην τρέχουσα κατάσταση γραφικών (μεταφράζει την τρέχουσα μήτρα). |

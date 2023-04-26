@@ -3,7 +3,7 @@ title: Class NameProperty
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.NameProperty कक्ष. के लए आधर वर्गJobName औरDocumentNameगुण वर्ग.
 type: docs
-weight: 1640
+weight: 1650
 url: /hi/net/aspose.page.xps.xpsmetadata/nameproperty/
 ---
 ## NameProperty class

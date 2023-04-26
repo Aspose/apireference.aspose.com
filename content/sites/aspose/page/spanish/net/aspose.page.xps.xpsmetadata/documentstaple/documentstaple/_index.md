@@ -16,7 +16,7 @@ public DocumentStaple(params StapleOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | StapleOption[] | Una matriz de opciones específicas para la característica. |
+| options | StapleOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

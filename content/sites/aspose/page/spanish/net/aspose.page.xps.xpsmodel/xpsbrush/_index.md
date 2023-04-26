@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsBrush clase. Clase que encapsula características comunes de todos los elementos del pincel.
 type: docs
-weight: 2960
+weight: 2970
 url: /es/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

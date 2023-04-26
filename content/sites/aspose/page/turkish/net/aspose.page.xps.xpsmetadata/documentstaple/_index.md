@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple sınıf. Çıktının zımbalama özelliklerini açıklar. Her belge ayrı ayrı zımbalanır. JobStapleAllDocuments VeDocumentStapleanahtar kelimeler karşılıklı olarak birbirini dışlar. Bu anahtar kelimeler arasındaki kısıtlama işlemeyi belirlemek sürücüye bağlıdır. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /tr/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsCanvas klas. Klasse die CanvasElementfunktionen einkapselt. Dieses Element gruppiert Elemente zusammen. Beispielsweise können Glyphen und Pfadelemente in einer Zeichenfläche gruppiert werden um als Einheit als Hyperlinkziel identifiziert zu werden oder  um einen zusammengesetzten Eigenschaftswert auf jedes untergeordnete und übergeordnete Element anzuwenden.
 type: docs
-weight: 2970
+weight: 2980
 url: /de/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

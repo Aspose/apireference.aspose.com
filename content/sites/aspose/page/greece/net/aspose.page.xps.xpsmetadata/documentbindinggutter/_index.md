@@ -3,7 +3,7 @@ title: Class DocumentBindingGutter
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingGutter τάξη. Καθορίζει το πλάτος της υδρορροής δεσίματος. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbindinggutter
 type: docs
-weight: 600
+weight: 610
 url: /el/net/aspose.page.xps.xpsmetadata/documentbindinggutter/
 ---
 ## DocumentBindingGutter class

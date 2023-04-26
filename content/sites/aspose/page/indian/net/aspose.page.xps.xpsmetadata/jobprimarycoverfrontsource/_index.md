@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFrontSource
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontSource कक्ष. कर्य के लए कस्टम फ़्रंटकवर प्रथमक शट के लए स्रत नर्दष्ट करत है. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfrontsource
 type: docs
-weight: 1550
+weight: 1560
 url: /hi/net/aspose.page.xps.xpsmetadata/jobprimarycoverfrontsource/
 ---
 ## JobPrimaryCoverFrontSource class

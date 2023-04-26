@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingUnderColorAdditionStart
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingUnderColorAdditionStart klas. Beschrijft het schaduwniveau waaronder UCA wordt toegepast. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingundercoloradditionstart
 type: docs
-weight: 1790
+weight: 1800
 url: /nl/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionstart/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionStart class

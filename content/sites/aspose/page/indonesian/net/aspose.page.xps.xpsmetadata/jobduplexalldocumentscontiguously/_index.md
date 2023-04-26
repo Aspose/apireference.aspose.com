@@ -1,14 +1,14 @@
 ---
 title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page untuk Referensi .NET API
-description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously kelas. Menjelaskan karakteristik dupleks dari keluaran. Fitur dupleks memungkinkan untuk mencetak pada kedua sisi media. Semua Dokumen dalam pekerjaan digandakan secara bersamaan. JobDuplexAllDocumentsContiguously DanDocumentDuplexsaling eksklusif. Terserah driver untuk menentukan penanganan kendala antara kata kunci ini. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
+description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously kelas. Menjelaskan karakteristik dupleks dari output. Fitur dupleks memungkinkan untuk mencetak pada kedua sisi media. Semua Dokumen dalam pekerjaan digandakan secara bersamaan. JobDuplexAllDocumentsContiguously DanDocumentDuplexsaling eksklusif. Terserah driver untuk menentukan penanganan kendala antara kata kunci ini. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /id/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class
 
-Menjelaskan karakteristik dupleks dari keluaran. Fitur dupleks memungkinkan untuk mencetak pada kedua sisi media. Semua Dokumen dalam pekerjaan digandakan secara bersamaan. `JobDuplexAllDocumentsContiguously` Dan[`DocumentDuplex`](../documentduplex/)saling eksklusif. Terserah driver untuk menentukan penanganan kendala antara kata kunci ini. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobduplexalldocumentscontiguously
+Menjelaskan karakteristik dupleks dari output. Fitur dupleks memungkinkan untuk mencetak pada kedua sisi media. Semua Dokumen dalam pekerjaan digandakan secara bersamaan. `JobDuplexAllDocumentsContiguously` Dan[`DocumentDuplex`](../documentduplex/)saling eksklusif. Terserah driver untuk menentukan penanganan kendala antara kata kunci ini. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobduplexalldocumentscontiguously
 
 ```csharp
 public sealed class JobDuplexAllDocumentsContiguously : Duplex, IJobPrintTicketItem

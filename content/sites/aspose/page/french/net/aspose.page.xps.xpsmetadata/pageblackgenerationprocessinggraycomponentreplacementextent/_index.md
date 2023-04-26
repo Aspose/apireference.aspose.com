@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementExtent classe. Décrit létendue audelà des neutres en couleurs chromatiques que GCR applique. 0   Remplacement de composant uniforme 100   Remplacement de composant gris. https//docs.microsoft.com/enus/windows/win32/printdocs /pageblackgenerationprocessinggraycomponentreplacementextent
 type: docs
-weight: 1740
+weight: 1750
 url: /fr/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

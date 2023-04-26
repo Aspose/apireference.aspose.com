@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page
 second_title: Aspose.Page för .NET API-referens
-description: Den Aspose.Page är ett rotnamnområde för alla klasser av Aspose.Pagebiblioteket som antingen finns direkt i det Enhet eller indirekt genom flera undernamnsutrymmen.
+description: Den Aspose.Pageär ett rotnamnområde för alla klasser av Aspose.Pagebiblioteket som antingen finns direkt i det Enhet eller indirekt genom flera undernamnsutrymmen.
 type: docs
 weight: 10
 url: /sv/net/aspose.page/
 ---
-Den **Aspose.Page** är ett rotnamnområde för alla klasser av Aspose.Page-biblioteket som antingen finns direkt i det **Enhet** eller indirekt genom flera undernamnsutrymmen.
+Den **Aspose.Page**är ett rotnamnområde för alla klasser av Aspose.Page-biblioteket som antingen finns direkt i det **Enhet** eller indirekt genom flera undernamnsutrymmen.
 
 ## Klasser
 

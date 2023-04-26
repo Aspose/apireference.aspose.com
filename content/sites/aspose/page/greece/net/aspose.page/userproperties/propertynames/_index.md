@@ -3,7 +3,7 @@ title: UserProperties.PropertyNames
 second_title: Aspose.Page για Αναφορά API .NET
 description: UserProperties μέθοδος. Επιστρέφει ονόματα ιδιοτήτων.
 type: docs
-weight: 130
+weight: 140
 url: /el/net/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties.PropertyNames method

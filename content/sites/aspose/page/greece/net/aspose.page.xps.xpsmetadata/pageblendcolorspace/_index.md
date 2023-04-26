@@ -3,7 +3,7 @@ title: Class PageBlendColorSpace
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBlendColorSpace τάξη. Περιγράφει τον χρωματικό χώρο που πρέπει να χρησιμοποιείται για τις λειτουργίες ανάμειξης. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblendcolorspace
 type: docs
-weight: 1800
+weight: 1810
 url: /el/net/aspose.page.xps.xpsmetadata/pageblendcolorspace/
 ---
 ## PageBlendColorSpace class

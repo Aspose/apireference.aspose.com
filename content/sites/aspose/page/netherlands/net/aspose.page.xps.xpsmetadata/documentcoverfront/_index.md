@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront klas. Beschrijft het voorblad beginblad. Elk document heeft een apart vel. Het voorblad moet worden afgedrukt op dePageMediaSize EnPageMediaType gebruikt voor de eerste pagina van het document. Het voorblad moet worden geïntegreerd in processing options zoalsDocumentDuplex DocumentNUp  zoals aangegeven door de opgegeven optie. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /nl/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

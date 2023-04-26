@@ -3,7 +3,7 @@ title: Class QNameValue
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.QNameValue τάξη. Η κλάση που ενσωματώνει μια τιμή QName σε ένα έγγραφο PrintTicket.
 type: docs
-weight: 2820
+weight: 2830
 url: /el/net/aspose.page.xps.xpsmetadata/qnamevalue/
 ---
 ## QNameValue class

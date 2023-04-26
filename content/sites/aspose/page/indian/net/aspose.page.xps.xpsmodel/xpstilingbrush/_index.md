@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush कक्ष. टइलंग ब्रश तत्वं वजुअलब्रश और इमेजब्रश क समन्य वशेषतओं क समहत करने वल वर्ग
 type: docs
-weight: 3400
+weight: 3410
 url: /hi/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

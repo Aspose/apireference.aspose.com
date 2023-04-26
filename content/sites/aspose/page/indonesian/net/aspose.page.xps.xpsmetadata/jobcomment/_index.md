@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobComment kelas. Menentukan komentar yang terkait dengan pekerjaan. Contoh Harap antar ke kamar 1234 jika sudah selesai. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /id/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class
@@ -24,7 +24,7 @@ public sealed class JobComment : StringParameterInit, IJobPrintTicketItem
 
 | Nama | Keterangan |
 | --- | --- |
-| virtual [MaxLength](../../aspose.page.xps.xpsmetadata/stringparameterinit/maxlength/) { get; } | Untuk nilai string, tentukan string terpanjang yang diperbolehkan. |
+| virtual [MaxLength](../../aspose.page.xps.xpsmetadata/stringparameterinit/maxlength/) { get; } | Untuk nilai string, tentukan string terpanjang yang diizinkan. |
 | virtual [MinLength](../../aspose.page.xps.xpsmetadata/stringparameterinit/minlength/) { get; } | Untuk nilai string, tentukan string terpendek yang diizinkan. |
 | [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Mendapat nama elemen. |
 

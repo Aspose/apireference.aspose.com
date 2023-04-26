@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent.PageICMRenderingIntentOption
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntentPageICMRenderingIntentOption clase. Describe elPageICMRenderingIntent opciones de funciones.
 type: docs
-weight: 2000
+weight: 2010
 url: /es/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent.pageicmrenderingintentoption/
 ---
 ## PageICMRenderingIntent.PageICMRenderingIntentOption class

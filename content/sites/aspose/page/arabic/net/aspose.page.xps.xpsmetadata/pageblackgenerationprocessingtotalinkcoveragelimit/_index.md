@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingTotalInkCoverageLimit
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingTotalInkCoverageLimit فصل. يحدد أقصى مجموع مسموح به لتغطية الحبر الأربعة في أي مكان في الصورة . https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingtotalinkcoveragelimit
 type: docs
-weight: 1770
+weight: 1780
 url: /ar/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingtotalinkcoveragelimit/
 ---
 ## PageBlackGenerationProcessingTotalInkCoverageLimit class

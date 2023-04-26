@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously 수업. 단일 물리적 시트에 대한 여러 논리적 페이지의 출력을 설명합니다. job 의 모든 문서는 연속적으로 함께 컴파일됩니다.JobNUpAllDocumentsContiguously 그리고DocumentNUp 는 상호 배타적입니다. 이러한 키워드 간의 제약 조건 처리를 결정하는 것은 드라이버에 달려 있습니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /ko/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

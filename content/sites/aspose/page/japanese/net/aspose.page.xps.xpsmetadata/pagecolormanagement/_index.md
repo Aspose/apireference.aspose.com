@@ -3,7 +3,7 @@ title: Class PageColorManagement
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageColorManagement クラス. 現在のページのカラー管理を構成します これは SHIM で自動と見なされます  DM_ICMMethod Add System. カラー管理を実行する必要があるコンポーネント つまりドライバー を説明します /win32/printdocs/pagecolormanagement
 type: docs
-weight: 1850
+weight: 1860
 url: /ja/net/aspose.page.xps.xpsmetadata/pagecolormanagement/
 ---
 ## PageColorManagement class

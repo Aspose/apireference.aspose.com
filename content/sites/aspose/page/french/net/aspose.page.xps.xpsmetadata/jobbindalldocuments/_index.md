@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocuments classe. Décrit la méthode de liaison. Tous les documents du travail sont liés ensemble. JobBindAllDocuments etDocumentBinding sont mutuellement exclusifs. Il appartient au pilote de déterminer la gestion des contraintes entre ces mots clés. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocuments
 type: docs
-weight: 1150
+weight: 1160
 url: /fr/net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

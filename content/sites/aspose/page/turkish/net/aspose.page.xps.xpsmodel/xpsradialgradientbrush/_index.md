@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush sınıf. Sınıf RadialGradientBrush özellik öğesi özelliklerini kapsayan sınıf. Bu öğe bir radyal degrade fırça belirtmek için kullanılır.
 type: docs
-weight: 3330
+weight: 3340
 url: /tr/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

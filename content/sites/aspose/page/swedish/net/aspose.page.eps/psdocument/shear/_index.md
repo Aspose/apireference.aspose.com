@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page för .NET API-referens
 description: PsDocument metod. Lägger till skjuvtransformation till aktuellt grafiktillstånd skjuvströmmatris.
 type: docs
-weight: 260
+weight: 290
 url: /sv/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

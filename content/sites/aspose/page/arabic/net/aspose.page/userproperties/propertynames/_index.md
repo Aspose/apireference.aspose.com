@@ -3,7 +3,7 @@ title: UserProperties.PropertyNames
 second_title: Aspose.Page لمرجع NET API
 description: UserProperties طريقة. إرجاع أسماء الخصائص .
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties.PropertyNames method

@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingOption
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingOption τάξη. Περιγράφει τοJobBindAllDocuments επιλογές χαρακτηριστικών.
 type: docs
-weight: 1170
+weight: 1180
 url: /el/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/
 ---
 ## JobBindAllDocuments.BindingOption class

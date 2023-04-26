@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously classe. Décrit les caractéristiques duplex de la sortie. La fonction recto verso permet dimprimer on des deux côtés du support. Tous les documents de la tâche sont recto verso ensemble de manière contiguë. JobDuplexAllDocumentsContiguously etDocumentDuplexsont mutuellement exclusifs. Il appartient au pilote de déterminer la gestion des contraintes entre ces mots clés. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /fr/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

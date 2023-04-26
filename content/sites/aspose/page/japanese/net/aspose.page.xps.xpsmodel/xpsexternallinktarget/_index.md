@@ -3,7 +3,7 @@ title: Class XpsExternalLinkTarget
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsExternalLinkTarget クラス. 外部ハイパーリンク ターゲットをカプセル化するクラス
 type: docs
-weight: 3050
+weight: 3060
 url: /ja/net/aspose.page.xps.xpsmodel/xpsexternallinktarget/
 ---
 ## XpsExternalLinkTarget class
@@ -19,6 +19,12 @@ public sealed class XpsExternalLinkTarget : XpsHyperlinkTarget
 | 名前 | 説明 |
 | --- | --- |
 | [XpsExternalLinkTarget](xpsexternallinktarget/)(string) | 新しいインスタンスを作成します。 |
+
+## プロパティ
+
+| 名前 | 説明 |
+| --- | --- |
+| [TargetUri](../../aspose.page.xps.xpsmodel/xpsexternallinktarget/targeturi/) { get; } | ターゲット URI を取得します。 |
 
 ### 関連項目
 

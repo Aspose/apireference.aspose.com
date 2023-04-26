@@ -3,7 +3,7 @@ title: Class DocumentCoverFront.CoverFrontOption
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFrontCoverFrontOption klas. Beschrijft deDocumentCoverFront functieopties.
 type: docs
-weight: 670
+weight: 680
 url: /nl/net/aspose.page.xps.xpsmetadata/documentcoverfront.coverfrontoption/
 ---
 ## DocumentCoverFront.CoverFrontOption class

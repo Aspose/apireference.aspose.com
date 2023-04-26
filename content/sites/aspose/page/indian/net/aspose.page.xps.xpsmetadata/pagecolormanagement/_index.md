@@ -3,7 +3,7 @@ title: Class PageColorManagement
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageColorManagement कक्ष. वर्तमन पृष्ठ के लए रंग प्रबंधन क कन्फ़गर करत है इसे SHIM  DM_ICMMedod Add System में स्वचलत मन जत है वर्णन करत है क कस घटक क रंग प्रबंधन करन चहए अर्थत ड्रइवर https//docs.microsoft.com/enus/windows /win32/printdocs/pagecolormanagement
 type: docs
-weight: 1850
+weight: 1860
 url: /hi/net/aspose.page.xps.xpsmetadata/pagecolormanagement/
 ---
 ## PageColorManagement class

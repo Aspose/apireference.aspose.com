@@ -3,7 +3,7 @@ title: Class PageScalingScaleWidth
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleWidth クラス. の倍率を指定しますカスタム スケーリングの方向 https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscalewidth
 type: docs
-weight: 2570
+weight: 2580
 url: /ja/net/aspose.page.xps.xpsmetadata/pagescalingscalewidth/
 ---
 ## PageScalingScaleWidth class

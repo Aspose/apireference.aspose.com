@@ -3,7 +3,7 @@ title: Class CompositePrintTicketElement
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.CompositePrintTicketElement kelas. Kelas dasar untuk kelas yang mungkin merupakan gabungan elemen Skema Cetak yaitu mengandung elemen lain.
 type: docs
-weight: 510
+weight: 520
 url: /id/net/aspose.page.xps.xpsmetadata/compositeprintticketelement/
 ---
 ## CompositePrintTicketElement class

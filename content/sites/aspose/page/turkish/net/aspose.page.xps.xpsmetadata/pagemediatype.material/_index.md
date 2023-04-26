@@ -3,7 +3,7 @@ title: Class PageMediaType.Material
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeMaterial sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 2210
+weight: 2220
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediatype.material/
 ---
 ## PageMediaType.Material class

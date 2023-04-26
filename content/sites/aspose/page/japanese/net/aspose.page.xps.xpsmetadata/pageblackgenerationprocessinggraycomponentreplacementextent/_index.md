@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementExtent クラス. GCR が適用する 有彩色への ニュートラルを超えた範囲について説明します 0  均一なコンポーネントの置き換え100  グレー コンポーネントの置き換え https//docs.microsoft.com/enus/windows/win32/printdocs /pageblackgenerationprocessinggreycomponentreplacementextent
 type: docs
-weight: 1740
+weight: 1750
 url: /ja/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

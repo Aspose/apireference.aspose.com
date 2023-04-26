@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice сорт. Класс инкапсулирующий устройство для создания изображений.
 type: docs
-weight: 350
+weight: 360
 url: /ru/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

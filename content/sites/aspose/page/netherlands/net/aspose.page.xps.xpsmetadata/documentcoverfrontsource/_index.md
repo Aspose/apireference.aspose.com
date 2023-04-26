@@ -3,7 +3,7 @@ title: Class DocumentCoverFrontSource
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFrontSource klas. Specificeert de bron voor een aangepast voorblad. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfrontsource
 type: docs
-weight: 680
+weight: 690
 url: /nl/net/aspose.page.xps.xpsmetadata/documentcoverfrontsource/
 ---
 ## DocumentCoverFrontSource class

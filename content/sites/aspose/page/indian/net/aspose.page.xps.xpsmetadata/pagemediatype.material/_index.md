@@ -3,7 +3,7 @@ title: Class PageMediaType.Material
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeMaterial कक्ष. के लए स्थरंक परभषत करत है अर्जत संपत्त मूल्य.
 type: docs
-weight: 2210
+weight: 2220
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediatype.material/
 ---
 ## PageMediaType.Material class

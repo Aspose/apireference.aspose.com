@@ -3,7 +3,7 @@ title: Class PageSourceColorProfileEmbedded
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfileEmbedded сорт. Указывает встроенный исходный цветовой профиль.
 type: docs
-weight: 2600
+weight: 2610
 url: /ru/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofileembedded/
 ---
 ## PageSourceColorProfileEmbedded class

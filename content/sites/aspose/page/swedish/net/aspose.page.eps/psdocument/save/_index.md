@@ -3,7 +3,7 @@ title: PsDocument.Save
 second_title: Aspose.Page för .NET API-referens
 description: PsDocument metod. Sparar PS/EPSfil på en enhet.
 type: docs
-weight: 200
+weight: 220
 url: /sv/net/aspose.page.eps/psdocument/save/
 ---
 ## Save(Device, SaveOptions) {#save_1}
@@ -51,7 +51,7 @@ public void Save(Stream epsStream)
 
 ## Save() {#save}
 
-Sparningar ges[`PsDocument`](../) som EPS-fil. Denna metod används endast när PsDocument skapades från början.
+Sparningar ges[`PsDocument`](../)som EPS-fil. Denna metod används endast när PsDocument skapades från början.
 
 ```csharp
 public void Save()

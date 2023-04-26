@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobComment 수업. 작업과 관련된 설명을 지정합니다. 예 완료되면 1234호로 배달해 주십시오.. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /ko/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

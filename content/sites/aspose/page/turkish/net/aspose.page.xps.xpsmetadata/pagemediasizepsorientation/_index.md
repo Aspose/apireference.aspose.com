@@ -3,7 +3,7 @@ title: Class PageMediaSizePSOrientation
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSOrientation sınıf. Besleme yönü yönüne göre yönü belirtir https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsorientation
 type: docs
-weight: 2130
+weight: 2140
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediasizepsorientation/
 ---
 ## PageMediaSizePSOrientation class

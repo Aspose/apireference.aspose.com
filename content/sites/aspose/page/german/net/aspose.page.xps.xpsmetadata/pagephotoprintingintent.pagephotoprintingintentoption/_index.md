@@ -3,7 +3,7 @@ title: Class PagePhotoPrintingIntent.PagePhotoPrintingIntentOption
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PagePhotoPrintingIntentPagePhotoPrintingIntentOption klas. definiertPagePhotoPrintingIntent Funktionsoptionen.
 type: docs
-weight: 2400
+weight: 2410
 url: /de/net/aspose.page.xps.xpsmetadata/pagephotoprintingintent.pagephotoprintingintentoption/
 ---
 ## PagePhotoPrintingIntent.PagePhotoPrintingIntentOption class

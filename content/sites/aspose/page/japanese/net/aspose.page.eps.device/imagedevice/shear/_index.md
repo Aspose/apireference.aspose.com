@@ -17,7 +17,7 @@ public override void Shear(double shx, double shy)
 | パラメータ | タイプ | 説明 |
 | --- | --- | --- |
 | shx | Double | X 軸のせん断。 |
-| shy | Double | 軸のせん断。 |
+| shy | Double | Y 軸のせん断。 |
 
 ### 関連項目
 

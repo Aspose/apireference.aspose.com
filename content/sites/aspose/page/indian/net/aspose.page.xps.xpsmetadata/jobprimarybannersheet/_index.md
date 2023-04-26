@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet कक्ष. कर्य के लए आउटपुट हने के लए बैनर शट क वर्णन करत है बैनर शट क डफ़ल्ट पर आउटपुट हन चहएPageMediaSize और डफ़ल्ट क उपयग करनPageMediaType . बैनर शट क शेष कर्य से अलग कय जन चहए इसक मतलब है क कई भ फनशंग य प्रसेसंग वकल्प जैसे JobDuplexAllDocumentsContiguously JobStapleAllDocuments  यJobBindAllDocuments  में बैनर शट शमल नहं हन चहए बैनर शट जब क पहल शट के रूप में हन चहए
 type: docs
-weight: 1470
+weight: 1480
 url: /hi/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

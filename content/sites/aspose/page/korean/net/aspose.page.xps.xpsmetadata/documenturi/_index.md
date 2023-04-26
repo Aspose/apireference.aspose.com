@@ -3,7 +3,7 @@ title: Class DocumentURI
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentURI 수업. 문서에 대한 URIUniform Resource Identifier를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documenturi
 type: docs
-weight: 830
+weight: 840
 url: /ko/net/aspose.page.xps.xpsmetadata/documenturi/
 ---
 ## DocumentURI class

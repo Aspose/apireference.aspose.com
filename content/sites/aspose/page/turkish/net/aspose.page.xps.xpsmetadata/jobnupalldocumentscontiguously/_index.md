@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously sınıf. Birden çok mantıksal sayfanın çıktısını tek bir fiziksel sayfaya açıklar. job içindeki tüm belgeler bitişik olarak birlikte derlenir.JobNUpAllDocumentsContiguously VeDocumentNUp birbirini dışlar. Bu anahtar kelimeler arasındaki kısıtlama işlemeyi belirlemek sürücüye bağlıdır. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupaldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /tr/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

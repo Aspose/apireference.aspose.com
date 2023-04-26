@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront klass. Beskriver det främre början försättsbladet. Hela jobbet kommer att ha ett enda primärt ark. Försättsbladet ska skrivas ut påPageMediaSize ochPageMediaType används för jobbets första sida. Försättsbladet bör integreras i processing options som t.exJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  som anges av det angivna alternativet. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /sv/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

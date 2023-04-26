@@ -3,7 +3,7 @@ title: Class JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetErrorSheetWhenErrorSheetWhenOption classe. Décrit leErrorSheetWhen options de fonctionnalité.
 type: docs
-weight: 1320
+weight: 1330
 url: /fr/net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetwhen.errorsheetwhenoption/
 ---
 ## JobErrorSheet.ErrorSheetWhen.ErrorSheetWhenOption class

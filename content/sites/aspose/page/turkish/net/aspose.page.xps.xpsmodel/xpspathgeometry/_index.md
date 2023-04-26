@@ -1,14 +1,14 @@
 ---
 title: Class XpsPathGeometry
 second_title: Aspose.Page for .NET API Referansı
-description: Aspose.Page.XPS.XpsModel.XpsPathGeometry sınıf. Sınıf PathGeometry özellik öğesi özelliklerini içerir. Bu öğe Figures özniteliğiyle veya bir alt Path Figure öğesiyle belirtilen bir dizi yol figürü içerir.
+description: Aspose.Page.XPS.XpsModel.XpsPathGeometry sınıf. Sınıfı PathGeometry özellik öğesi özelliklerini içerir. Bu öğe Figures özniteliğiyle veya bir alt Path Figure öğesiyle belirtilen bir dizi yol figürü içerir.
 type: docs
-weight: 3270
+weight: 3280
 url: /tr/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class
 
-Sınıf, PathGeometry özellik öğesi özelliklerini içerir. Bu öğe, Figures özniteliğiyle veya bir alt Path Figure öğesiyle belirtilen bir dizi yol figürü içerir.
+Sınıfı, PathGeometry özellik öğesi özelliklerini içerir. Bu öğe, Figures özniteliğiyle veya bir alt Path Figure öğesiyle belirtilen bir dizi yol figürü içerir.
 
 ```csharp
 public sealed class XpsPathGeometry : XpsArray<XpsPathFigure>
@@ -30,7 +30,7 @@ public sealed class XpsPathGeometry : XpsArray<XpsPathFigure>
 | --- | --- |
 | [Add](../../aspose.page.xps.xpsmodel/xpsarray-1/add/)(XpsPathFigure) |  |
 | [AddSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/addsegment/)(XpsPathSegment) | Son pah rakamının alt segmentleri listesine bir yol segmenti ekler. |
-| [Clone](../../aspose.page.xps.xpsmodel/xpspathgeometry/clone/)() | Bu yol geometrisini klonlar. |
+| [Clone](../../aspose.page.xps.xpsmodel/xpspathgeometry/clone/)() | Bu yol geometrisini kopyalar. |
 | [Insert](../../aspose.page.xps.xpsmodel/xpsarray-1/insert/)(int, XpsPathFigure) |  |
 | [InsertSegment](../../aspose.page.xps.xpsmodel/xpspathgeometry/insertsegment/)(int, XpsPathSegment) | adresindeki son yol rakamının alt segmentleri listesine bir yol segmenti ekler.*index* pozisyon. |
 | [Remove](../../aspose.page.xps.xpsmodel/xpsarray-1/remove/)(XpsPathFigure) |  |

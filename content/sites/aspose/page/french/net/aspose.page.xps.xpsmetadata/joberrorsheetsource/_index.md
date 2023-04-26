@@ -3,7 +3,7 @@ title: Class JobErrorSheetSource
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetSource classe. Spécifie la source dune feuille derreur personnalisée. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheetsource
 type: docs
-weight: 1340
+weight: 1350
 url: /fr/net/aspose.page.xps.xpsmetadata/joberrorsheetsource/
 ---
 ## JobErrorSheetSource class

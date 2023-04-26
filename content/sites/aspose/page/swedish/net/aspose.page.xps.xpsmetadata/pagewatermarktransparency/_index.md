@@ -3,7 +3,7 @@ title: Class PageWatermarkTransparency
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTransparency klass. Anger genomskinligheten för vattenstämpeln. Helt ogenomskinlig skulle ha värdet 0. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktransparency
 type: docs
-weight: 2760
+weight: 2770
 url: /sv/net/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

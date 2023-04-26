@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. Mevcut grafik durumuna mevcut matrisi kesme kesme dönüşümü ekler.
 type: docs
-weight: 260
+weight: 290
 url: /tr/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

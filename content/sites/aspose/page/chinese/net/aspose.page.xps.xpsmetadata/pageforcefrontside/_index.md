@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide 班级. 强制输出出现在介质页的正面与每侧具有不同 表面的介质页相关如果此功能干扰处理选项例如 DocumentDuplex 优先于应用该功能的 specific 页面
 type: docs
-weight: 1970
+weight: 1980
 url: /zh/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

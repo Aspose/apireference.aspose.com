@@ -3,7 +3,7 @@ title: Class PageScalingOffsetHeight
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetHeight 班级. 指定缩放偏移量自定义缩放的方向 https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetheight
 type: docs
-weight: 2530
+weight: 2540
 url: /zh/net/aspose.page.xps.xpsmetadata/pagescalingoffsetheight/
 ---
 ## PageScalingOffsetHeight class

@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush clase. Clase que encapsula características comunes de elementos de pinceles de mosaico VisualBrush e ImageBrush.
 type: docs
-weight: 3400
+weight: 3410
 url: /es/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

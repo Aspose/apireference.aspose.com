@@ -3,7 +3,7 @@ title: Enum XpsEdgeMode
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsEdgeMode uppräkning. Giltiga värden för Canvaselementets RenderOptions.EdgeModeegenskap.
 type: docs
-weight: 3020
+weight: 3030
 url: /sv/net/aspose.page.xps.xpsmodel/xpsedgemode/
 ---
 ## XpsEdgeMode enumeration

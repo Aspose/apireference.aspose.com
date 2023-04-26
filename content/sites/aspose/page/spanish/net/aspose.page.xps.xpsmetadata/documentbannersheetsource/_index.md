@@ -3,7 +3,7 @@ title: Class DocumentBannerSheetSource
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheetSource clase. Especifica el origen de una portada personalizada. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheetsource
 type: docs
-weight: 550
+weight: 560
 url: /es/net/aspose.page.xps.xpsmetadata/documentbannersheetsource/
 ---
 ## DocumentBannerSheetSource class

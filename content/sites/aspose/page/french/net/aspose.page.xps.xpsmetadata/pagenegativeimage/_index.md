@@ -3,7 +3,7 @@ title: Class PageNegativeImage
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageNegativeImage classe. Décrit le paramètre négatif de la sortie. https//docs.microsoft.com/enus/windows/win32/printdocs/pagenegativeimage
 type: docs
-weight: 2280
+weight: 2290
 url: /fr/net/aspose.page.xps.xpsmetadata/pagenegativeimage/
 ---
 ## PageNegativeImage class

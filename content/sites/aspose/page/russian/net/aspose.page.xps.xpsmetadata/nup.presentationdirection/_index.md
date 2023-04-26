@@ -3,7 +3,7 @@ title: Class NUp.PresentationDirection
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.NUpPresentationDirection сорт. Описывает внутренний особенность.
 type: docs
-weight: 1620
+weight: 1630
 url: /ru/net/aspose.page.xps.xpsmetadata/nup.presentationdirection/
 ---
 ## NUp.PresentationDirection class

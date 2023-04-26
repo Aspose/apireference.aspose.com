@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementExtent 수업. GCR이 적용하는 중간색유채색을 넘어서는 범위를 설명합니다. 0  균일한 구성 요소 교체 100  회색 구성 요소 교체. https//docs.microsoft.com/enus/windows/win32/printdocs /pageblackgenerationprocessinggraycomponentreplacementextent
 type: docs
-weight: 1740
+weight: 1750
 url: /ko/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

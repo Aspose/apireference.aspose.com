@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter classe. Décrit la façon de spécifier le valeur de propriété notée que ce soit par une valeur entière ou par la référence à la paramètre.
 type: docs
-weight: 1160
+weight: 1170
 url: /fr/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

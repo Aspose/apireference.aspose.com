@@ -3,7 +3,7 @@ title: PsDocument.GetPaint
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. Mevcut grafik durumunun boyasını alır.
 type: docs
-weight: 130
+weight: 150
 url: /tr/net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method

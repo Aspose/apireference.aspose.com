@@ -3,7 +3,7 @@ title: Class JobPageOrder.JobPageOrderOption
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrderJobPageOrderOption 班级. 描述了JobPageOrder功能选项.
 type: docs
-weight: 1460
+weight: 1470
 url: /zh/net/aspose.page.xps.xpsmetadata/jobpageorder.jobpageorderoption/
 ---
 ## JobPageOrder.JobPageOrderOption class

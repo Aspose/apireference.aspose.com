@@ -3,7 +3,7 @@ title: Class XpsSolidColorBrush
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsSolidColorBrush klas. Klasse die eigenschappen van het SolidColorBrusheigenschapselement inkapselt. Dit element wordt gebruikt om gedefinieerde geometrische gebieden te vullen met een effen kleur.
 type: docs
-weight: 3350
+weight: 3360
 url: /nl/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

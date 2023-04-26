@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack classe. Décrit la couverture arrière de fin. Chaque document aura une feuille séparée. La page de garde doit être imprimée sur lePageMediaSize etPageMediaType utilisé pour la dernière page du document. La page de garde doit être intégrée dans les options de traitement telles queDocumentDuplex DocumentNUp  comme indiqué par loption spécifiée. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /fr/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

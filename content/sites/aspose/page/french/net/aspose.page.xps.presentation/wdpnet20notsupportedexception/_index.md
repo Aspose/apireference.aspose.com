@@ -3,7 +3,7 @@ title: Class WdpNet20NotSupportedException
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.Presentation.WdpNet20NotSupportedException classe. Lexception qui est levée chaque fois quun document XPS contenant des images WDP est converti en version de bibliothèque pour .NET 2.0.
 type: docs
-weight: 460
+weight: 470
 url: /fr/net/aspose.page.xps.presentation/wdpnet20notsupportedexception/
 ---
 ## WdpNet20NotSupportedException class

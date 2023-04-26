@@ -3,7 +3,7 @@ title: Class PageMediaType.BackCoating
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeBackCoating kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 2170
+weight: 2180
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediatype.backcoating/
 ---
 ## PageMediaType.BackCoating class

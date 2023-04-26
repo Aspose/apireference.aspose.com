@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBackSource
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBackSource klas. Gibt die Quelle für ein benutzerdefiniertes Primärblatt für die Rückseite des Auftrags an. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverbacksource
 type: docs
-weight: 1520
+weight: 1530
 url: /de/net/aspose.page.xps.xpsmetadata/jobprimarycoverbacksource/
 ---
 ## JobPrimaryCoverBackSource class

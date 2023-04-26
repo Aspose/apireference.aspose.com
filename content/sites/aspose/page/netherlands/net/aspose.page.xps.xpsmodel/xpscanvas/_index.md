@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsCanvas klas. Klasse die kenmerken van Canvaselementen omvat. Dit element groepeert elementen samen. Glyphs en Pathelementen kunnen bijvoorbeeld worden gegroepeerd in een canvas om te worden geïdentificeerd als een eenheid als een hyperlinkbestemming of om een samengestelde eigenschapswaarde toe te passen op elk onderliggend en voorliggend element.
 type: docs
-weight: 2970
+weight: 2980
 url: /nl/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

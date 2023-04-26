@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp klas. Beschreibt die Ausgabe und das Format mehrerer logischer Seiten auf einem einzigen physischen Blatt. Jedes Dokument wird separat zusammengestellt. UndJobNUpAllDocumentsContiguously schließen sich gegenseitig aus. Es ist Sache des Treibers die Behandlung von Einschränkungen zwischen diesen Schlüsselwörtern zu bestimmen. https//docs.microsoft.com/enus/windows/win32/printdocs/documentnup
 type: docs
-weight: 740
+weight: 750
 url: /de/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

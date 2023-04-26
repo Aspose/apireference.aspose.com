@@ -3,7 +3,7 @@ title: Class DocumentBindingGutter
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingGutter 수업. 바인딩 여백의 너비를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbindinggutter
 type: docs
-weight: 600
+weight: 610
 url: /ko/net/aspose.page.xps.xpsmetadata/documentbindinggutter/
 ---
 ## DocumentBindingGutter class

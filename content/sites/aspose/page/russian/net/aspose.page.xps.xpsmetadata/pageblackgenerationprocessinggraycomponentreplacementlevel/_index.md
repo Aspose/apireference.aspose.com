@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementLevel
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementLevel сорт. Указывает процент замены серого компонента который необходимо выполнить.
 type: docs
-weight: 1750
+weight: 1760
 url: /ru/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementlevel/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementLevel class

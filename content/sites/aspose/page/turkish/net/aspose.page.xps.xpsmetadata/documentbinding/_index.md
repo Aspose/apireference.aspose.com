@@ -3,7 +3,7 @@ title: Class DocumentBinding
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentBinding sınıf. Bağlama yöntemini açıklar. Her belge ayrı ayrı ciltlenir. DocumentBinding ve JobBindAllDocuments karşılıklı olarak özeldir. Anahtar sözcükler arasındaki kısıtlama işlemeyi belirlemek sürücüye bağlıdır. https//docs.Microsoft.com/enus/windows/win32/printdocs/documentbinding
 type: docs
-weight: 560
+weight: 570
 url: /tr/net/aspose.page.xps.xpsmetadata/documentbinding/
 ---
 ## DocumentBinding class

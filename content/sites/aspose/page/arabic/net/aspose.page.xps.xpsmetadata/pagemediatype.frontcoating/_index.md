@@ -3,7 +3,7 @@ title: Class PageMediaType.FrontCoating
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeFrontCoating فصل. يعرف الثوابت لملف قيمة الممتلكات المسجلة.
 type: docs
-weight: 2180
+weight: 2190
 url: /ar/net/aspose.page.xps.xpsmetadata/pagemediatype.frontcoating/
 ---
 ## PageMediaType.FrontCoating class

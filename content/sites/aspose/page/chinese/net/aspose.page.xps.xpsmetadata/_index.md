@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsMetadata
 second_title: Aspose.Page for .NET API 参考
 description: 的 Aspose.Page.Xps.XpsMetadata命名空间提供描述 XPS 文档元数据的类
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.page.xps.xpsmetadata/
 ---
 的 **Aspose.Page.Xps.XpsMetadata**命名空间提供描述 XPS 文档元数据的类。

@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page for .NET API 参考
 description: 的 Aspose.Page.Xps.Presentation.Pdf命名空间提供用于将 XPS 文档呈现为 PDF 文档的类
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.page.xps.presentation.pdf/
 ---
 的 **Aspose.Page.Xps.Presentation.Pdf**命名空间提供用于将 XPS 文档呈现为 PDF 文档的类。

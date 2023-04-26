@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush сорт. Класс инкапсулирующий функции элемента свойства ImageBrush. Этот элемент используется для заполнения области изображением.
 type: docs
-weight: 3170
+weight: 3180
 url: /ru/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

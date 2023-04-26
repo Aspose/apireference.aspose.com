@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget कक्ष. संबंधत नमपत हइपरलंक लक्ष्य क समहत करने वल वर्ग
 type: docs
-weight: 3040
+weight: 3050
 url: /hi/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

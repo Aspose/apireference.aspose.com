@@ -3,7 +3,7 @@ title: Class DocumentPageRanges
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentPageRanges クラス. 文書の出力範囲をページ単位で記述しますパラメータ値は次の構造に準拠する必要があります  PageRangeText PageRange または PageRangePageRange  PageRange PageNumber または PageNumberPageNumber  PageNumber 1 から N N はページの数 If PageNumber  N then PageNumber  N. 文字列内の空白は無視する必要があります. https//docs.microsoft.com/enus/windows/win32/printdocs/documentpageranges
 type: docs
-weight: 770
+weight: 780
 url: /ja/net/aspose.page.xps.xpsmetadata/documentpageranges/
 ---
 ## DocumentPageRanges class

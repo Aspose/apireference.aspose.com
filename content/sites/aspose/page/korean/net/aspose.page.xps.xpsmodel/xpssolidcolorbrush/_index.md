@@ -3,7 +3,7 @@ title: Class XpsSolidColorBrush
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsSolidColorBrush 수업. SolidColorBrush 속성 요소 기능을 캡슐화하는 클래스입니다. 이 요소는 정의된 기하학적 영역을 단색으로 채우는 데 사용됩니다.
 type: docs
-weight: 3350
+weight: 3360
 url: /ko/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

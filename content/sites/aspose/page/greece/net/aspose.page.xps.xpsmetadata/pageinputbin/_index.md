@@ -3,7 +3,7 @@ title: Class PageInputBin
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageInputBin τάξη. Περιγράφει την εγκατεστημένη θήκη εισόδου σε μια συσκευή ή την πλήρη λίστα των υποστηριζόμενων δοχείων για μια συσκευή. Επιτρέπει την προδιαγραφή της θήκης εισόδου ανά σελίδα. οJobInputBin DocumentInputBin και PageInputBin οι λέξειςκλειδιά είναι αμοιβαία αποκλειόμενες. Και τα δύο δεν θα πρέπει να καθορίζονται ταυτόχρονα σε ένα έγγραφο PrintTicket ή Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/pageinputbin
 type: docs
-weight: 2020
+weight: 2030
 url: /el/net/aspose.page.xps.xpsmetadata/pageinputbin/
 ---
 ## PageInputBin class

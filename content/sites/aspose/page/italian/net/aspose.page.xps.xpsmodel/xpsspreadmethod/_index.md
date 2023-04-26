@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod enum. Valori validi della proprietà SpreadMethod dei pennelli sfumatura.
 type: docs
-weight: 3360
+weight: 3370
 url: /it/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

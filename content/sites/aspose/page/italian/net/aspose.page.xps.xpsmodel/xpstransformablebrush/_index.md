@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush classe. Classe che incapsula le caratteristiche comuni degli elementi pennelli trasformabili tutti tranne SolidColorBrush.
 type: docs
-weight: 3410
+weight: 3420
 url: /it/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

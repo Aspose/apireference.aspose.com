@@ -3,7 +3,7 @@ title: Class PageWatermarkTextAngle
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextAngle classe. Specifica langolo del testo della filigrana rispetto a direction. Langolo viene misurato in senso antiorario. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextangle
 type: docs
-weight: 2720
+weight: 2730
 url: /it/net/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

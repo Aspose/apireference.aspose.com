@@ -3,7 +3,7 @@ title: Class JobURI
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobURI कक्ष. दस्तवेज़ के लए एक समन संसधन पहचनकर्त यूआरआई नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/joburi
 type: docs
-weight: 1590
+weight: 1600
 url: /hi/net/aspose.page.xps.xpsmetadata/joburi/
 ---
 ## JobURI class

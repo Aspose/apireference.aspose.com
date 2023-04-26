@@ -3,7 +3,7 @@ title: Class PageMediaSizePSWidth
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSWidth فصل. يحدد عرض الصفحة بشكل عمودي على اتجاه اتجاه التغذية. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepswidth
 type: docs
-weight: 2140
+weight: 2150
 url: /ar/net/aspose.page.xps.xpsmetadata/pagemediasizepswidth/
 ---
 ## PageMediaSizePSWidth class

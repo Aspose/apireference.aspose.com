@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsCanvas 班级. Class incapsulating Canvas element features. 该元素将元素组合在一起例如字形和路径元素 可以在画布中分组以便被识别为一个单元作为超链接目标或 以将组合属性值应用于每个子元素和祖先元素
 type: docs
-weight: 2970
+weight: 2980
 url: /zh/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

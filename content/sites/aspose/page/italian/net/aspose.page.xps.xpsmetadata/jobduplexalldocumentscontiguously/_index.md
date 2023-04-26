@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously classe. Descrive le caratteristiche duplex delloutput. La funzione duplex consente di stampare su entrambi i lati del supporto. Tutti i documenti nel lavoro vengono stampati in fronte/retro in modo contiguo. JobDuplexAllDocumentsContiguously EDocumentDuplexsi escludono a vicenda. Spetta al driver determinare la gestione dei vincoli tra queste parole chiave. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /it/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

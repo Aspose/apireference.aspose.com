@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice classe. Classe che incapsula il dispositivo di composizione dellimmagine.
 type: docs
-weight: 350
+weight: 360
 url: /it/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

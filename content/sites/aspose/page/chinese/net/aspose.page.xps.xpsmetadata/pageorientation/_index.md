@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation 班级. 描述物理介质表的方向 https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2300
+weight: 2310
 url: /zh/net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

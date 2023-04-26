@@ -3,7 +3,7 @@ title: Class XpsPathSegment
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsPathSegment クラス. すべてのパス セグメント要素の共通機能をカプセル化するクラス
 type: docs
-weight: 3290
+weight: 3300
 url: /ja/net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

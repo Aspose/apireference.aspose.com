@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfileEmbedded
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfileEmbedded klass. Anger den inbäddade målfärgprofilen. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofileembedded
 type: docs
-weight: 1900
+weight: 1910
 url: /sv/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/
 ---
 ## PageDestinationColorProfileEmbedded class

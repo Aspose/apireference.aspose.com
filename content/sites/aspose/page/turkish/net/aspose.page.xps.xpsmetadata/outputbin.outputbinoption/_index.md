@@ -3,7 +3,7 @@ title: Class OutputBin.OutputBinOption
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.OutputBinOutputBinOption sınıf. JobOutputBin DocumentOutputBin and PageOutputBin özellik seçenekleri.
 type: docs
-weight: 1700
+weight: 1710
 url: /tr/net/aspose.page.xps.xpsmetadata/outputbin.outputbinoption/
 ---
 ## OutputBin.OutputBinOption class

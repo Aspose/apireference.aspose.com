@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin clase. Describe la bandeja de salida instalada en un dispositivo o la lista completa de bandejas admitidas para un dispositivo. LaJobOutputBin DocumentOutputBin yPageOutputBin Las palabras clave son mutuamente excluyentes solo una debe especificarse en un documento PrintTicket o Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/jooutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /es/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

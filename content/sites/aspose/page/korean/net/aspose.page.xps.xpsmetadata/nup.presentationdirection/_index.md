@@ -3,7 +3,7 @@ title: Class NUp.PresentationDirection
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.NUpPresentationDirection 수업. 내부 설명 기능.
 type: docs
-weight: 1620
+weight: 1630
 url: /ko/net/aspose.page.xps.xpsmetadata/nup.presentationdirection/
 ---
 ## NUp.PresentationDirection class

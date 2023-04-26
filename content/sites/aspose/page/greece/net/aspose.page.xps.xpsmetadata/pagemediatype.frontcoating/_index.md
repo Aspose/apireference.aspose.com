@@ -3,7 +3,7 @@ title: Class PageMediaType.FrontCoating
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeFrontCoating τάξη. Ορίζει σταθερές για το βαθμολογία ιδιότητας.
 type: docs
-weight: 2180
+weight: 2190
 url: /el/net/aspose.page.xps.xpsmetadata/pagemediatype.frontcoating/
 ---
 ## PageMediaType.FrontCoating class

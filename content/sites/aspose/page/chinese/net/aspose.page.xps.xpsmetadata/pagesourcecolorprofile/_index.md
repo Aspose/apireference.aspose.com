@@ -3,7 +3,7 @@ title: Class PageSourceColorProfile
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfile 班级. 定义源颜色配置文件的特征 https//docs.microsoft.com/enus/windows/win32/printdocs/pagesourcecolorprofile
 type: docs
-weight: 2580
+weight: 2590
 url: /zh/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofile/
 ---
 ## PageSourceColorProfile class

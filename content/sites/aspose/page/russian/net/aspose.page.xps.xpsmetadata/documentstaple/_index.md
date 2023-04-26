@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple сорт. Описывает характеристики сшивания вывода. Каждый документ сшивается отдельно. JobStapleAllDocuments иDocumentStapleключевые слова являются взаимоисключающими. Драйвер должен определить обработку ограничений между этими ключевыми словами. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /ru/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

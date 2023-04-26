@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceProfileURI
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceProfileURI 수업. XPS 문서에 포함된 ICC 프로필에 대한 패키지 루트에 대한 상대 URI를 지정합니다. 이 옵션의 처리는 PageDeviceColorSpaceUsage 기능의 설정에 따라 다릅니다. 해당 프로필을 사용하는 모든 요소는 이미 적절한 장치 색상에 있는 것으로 간주됩니다. space 및 드라이버 또는 장치에서 색상을 관리하지 않습니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceprofileuri
 type: docs
-weight: 1920
+weight: 1930
 url: /ko/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceprofileuri/
 ---
 ## PageDeviceColorSpaceProfileURI class

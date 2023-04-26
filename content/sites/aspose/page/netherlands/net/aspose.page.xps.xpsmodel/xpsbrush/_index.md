@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsBrush klas. Klasse die gemeenschappelijke kenmerken van alle borstelelementen omvat.
 type: docs
-weight: 2960
+weight: 2970
 url: /nl/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

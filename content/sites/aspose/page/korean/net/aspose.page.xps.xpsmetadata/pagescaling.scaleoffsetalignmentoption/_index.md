@@ -3,7 +3,7 @@ title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption 수업. 설명ScaleOffsetAlignment 기능 옵션. 크기 조정된 콘텐츠의 정렬을 지정합니다.
 type: docs
-weight: 2520
+weight: 2530
 url: /ko/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class

@@ -3,7 +3,7 @@ title: Class JobInputBin
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobInputBin classe. Décrit le bac dentrée installé dans un périphérique ou la liste complète des bacs pris en charge pour un périphérique. Permet la spécification du bac dentrée par tâche. LeJobInputBin DocumentInputBin  etPageInputBin les motsclés sont mutuellement exclusifs. Les deux ne doivent pas être spécifiés simultanément dans un document PrintTicket ou Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/jobinputbin
 type: docs
-weight: 1370
+weight: 1380
 url: /fr/net/aspose.page.xps.xpsmetadata/jobinputbin/
 ---
 ## JobInputBin class

@@ -3,7 +3,7 @@ title: Class DocumentName
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentName classe. Specifica un nome descrittivo per il documento. https//docs.microsoft.com/enus/windows/win32/printdocs/documentname
 type: docs
-weight: 750
+weight: 760
 url: /it/net/aspose.page.xps.xpsmetadata/documentname/
 ---
 ## DocumentName class

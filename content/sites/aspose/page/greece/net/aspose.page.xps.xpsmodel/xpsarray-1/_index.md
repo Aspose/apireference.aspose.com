@@ -3,7 +3,7 @@ title: Class XpsArrayT
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsArray1T τάξη. Κλάση που ενσωματώνει κοινά χαρακτηριστικά αντικειμένων συστοιχίας μοντέλων XPS.
 type: docs
-weight: 2950
+weight: 2960
 url: /el/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

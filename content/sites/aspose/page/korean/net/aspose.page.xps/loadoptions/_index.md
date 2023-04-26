@@ -3,7 +3,7 @@ title: Class LoadOptions
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.LoadOptions 수업. 문서 로딩 옵션의 기본 클래스.
 type: docs
-weight: 330
+weight: 340
 url: /ko/net/aspose.page.xps/loadoptions/
 ---
 ## LoadOptions class

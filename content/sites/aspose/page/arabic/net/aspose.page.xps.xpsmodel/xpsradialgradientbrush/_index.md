@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush فصل. فئة تتضمن ميزات عنصر خاصية RadialGradientBrush . يستخدم هذا العنصر لتحديد فرشاة التدرج الشعاعي .
 type: docs
-weight: 3330
+weight: 3340
 url: /ar/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

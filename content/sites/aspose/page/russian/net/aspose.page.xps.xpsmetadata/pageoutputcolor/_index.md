@@ -3,7 +3,7 @@ title: Class PageOutputColor
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageOutputColor сорт. Описывает характеристики настроек цвета для вывода. https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputcolor
 type: docs
-weight: 2330
+weight: 2340
 url: /ru/net/aspose.page.xps.xpsmetadata/pageoutputcolor/
 ---
 ## PageOutputColor class

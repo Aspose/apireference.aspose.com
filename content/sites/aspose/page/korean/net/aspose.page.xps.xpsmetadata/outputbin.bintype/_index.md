@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType 수업. 에 대한 상수를 정의합니다. 스코어링된 속성 값.
 type: docs
-weight: 1670
+weight: 1680
 url: /ko/net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageResolution kelas. Menentukan resolusi halaman hasil cetak sebagai nilai kualitatif atau titik per inci atau keduanya. https//docs.microsoft.com/enus/windows/win32/printdocs/pageresolution
 type: docs
-weight: 2430
+weight: 2440
 url: /id/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

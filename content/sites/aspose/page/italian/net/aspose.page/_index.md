@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page
 second_title: Aspose.Page per riferimento all'API .NET
-description: Il Aspose.Page è uno spazio dei nomi radice per tutte le classi della libreria Aspose.Page che si trovano direttamente al suo interno Dispositivo o indirettamente attraverso diversi sottospazi dei nomi.
+description: Il Aspose.Pageè uno spazio dei nomi radice per tutte le classi della libreria Aspose.Page che si trovano direttamente al suo interno Dispositivo o indirettamente attraverso diversi sottospazi dei nomi.
 type: docs
 weight: 10
 url: /it/net/aspose.page/
 ---
-Il **Aspose.Page** è uno spazio dei nomi radice per tutte le classi della libreria Aspose.Page che si trovano direttamente al suo interno **Dispositivo** o indirettamente attraverso diversi sottospazi dei nomi.
+Il **Aspose.Page**è uno spazio dei nomi radice per tutte le classi della libreria Aspose.Page che si trovano direttamente al suo interno **Dispositivo** o indirettamente attraverso diversi sottospazi dei nomi.
 
 ## Classi
 

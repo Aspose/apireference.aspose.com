@@ -3,7 +3,7 @@ title: Class XpsPageLinkTarget
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPageLinkTarget فصل. فئة تتضمن هدف الارتباط التشعبي للصفحة.
 type: docs
-weight: 3240
+weight: 3250
 url: /ar/net/aspose.page.xps.xpsmodel/xpspagelinktarget/
 ---
 ## XpsPageLinkTarget class
@@ -19,6 +19,12 @@ public sealed class XpsPageLinkTarget : XpsHyperlinkTarget
 | اسم | وصف |
 | --- | --- |
 | [XpsPageLinkTarget](xpspagelinktarget/)(int) | إنشاء مثيل جديد . |
+
+## الخصائص
+
+| اسم | وصف |
+| --- | --- |
+| [TargetPageNumber](../../aspose.page.xps.xpsmodel/xpspagelinktarget/targetpagenumber/) { get; } | الحصول على رقم الصفحة الذي يشير إليه عنصر XPS الأصلي. |
 
 ### أنظر أيضا
 

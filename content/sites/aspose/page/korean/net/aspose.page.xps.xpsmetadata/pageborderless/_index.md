@@ -3,7 +3,7 @@ title: Class PageBorderless
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBorderless 수업. 이미지 콘텐츠를 미디어의 물리적 가장자리에 인쇄해야 하는 경우를 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pageborderless
 type: docs
-weight: 1830
+weight: 1840
 url: /ko/net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

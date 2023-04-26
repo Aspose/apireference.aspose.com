@@ -3,7 +3,7 @@ title: Class JobCollateAllDocuments
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobCollateAllDocuments klass. Beskriver sammanställningsegenskaperna för utgången. Alla dokument i varje enskilt jobb är samlade. DocumentCollate ochJobCollateAllDocumentsär ömsesidigt uteslutande. Beteendet och implementeringen av huruvida båda eller bara ett av dessa nyckelord är implementerade överlåts till föraren. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcollatealldocuments
 type: docs
-weight: 1200
+weight: 1210
 url: /sv/net/aspose.page.xps.xpsmetadata/jobcollatealldocuments/
 ---
 ## JobCollateAllDocuments class

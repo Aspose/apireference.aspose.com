@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginHeight
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginHeight クラス. 透かしの原点を基準にして透かしの原点を指定します. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginheight
 type: docs
-weight: 2700
+weight: 2710
 url: /ja/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/
 ---
 ## PageWatermarkOriginHeight class

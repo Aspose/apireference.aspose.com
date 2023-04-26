@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice クラス. クラス内包画像合成装置.
 type: docs
-weight: 350
+weight: 360
 url: /ja/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

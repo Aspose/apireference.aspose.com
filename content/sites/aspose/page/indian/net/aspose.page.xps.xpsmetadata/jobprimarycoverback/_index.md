@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack कक्ष. बैक एंडंग कवर शट क वर्णन करत है प्रत्येक कर्य क एक अलग प्रथमक शट हग कवर शट पर मुद्रत हन चहएPageMediaSize औरPageMediaType कर्य के अंतम पृष्ठ के लए उपयग कय जत है कवर शट क प्रसेसंग वकल्प में एककृत कय जन चहए जैसेJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  जैस क नर्दष्ट वकल्प द्वर दर्शय गय है https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /hi/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

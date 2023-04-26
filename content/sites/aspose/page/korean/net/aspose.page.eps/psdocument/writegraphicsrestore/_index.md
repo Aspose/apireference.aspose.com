@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsRestore
 second_title: .NET API 참조용 Aspose.Page
 description: PsDocument 방법. 현재 그래픽 상태의 복원을 씁니다연산자 grestore에 대한 PostScript 사양 참조.
 type: docs
-weight: 290
+weight: 320
 url: /ko/net/aspose.page.eps/psdocument/writegraphicsrestore/
 ---
 ## PsDocument.WriteGraphicsRestore method

@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile.PageDestinationColorProfileOption
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfilePageDestinationColorProfileOption 班级. 描述了PageDestinationColorProfile功能选项.
 type: docs
-weight: 1890
+weight: 1900
 url: /zh/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile.pagedestinationcolorprofileoption/
 ---
 ## PageDestinationColorProfile.PageDestinationColorProfileOption class

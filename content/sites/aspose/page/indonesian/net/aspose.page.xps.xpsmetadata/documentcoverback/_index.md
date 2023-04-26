@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack kelas. Menjelaskan lembar sampul belakang akhir. Setiap dokumen akan memiliki lembar terpisah. Lembar sampul harus dicetak padaPageMediaSize DanPageMediaType digunakan untuk halaman akhir dokumen. Lembar sampul harus diintegrasikan ke dalam opsi pemrosesan sepertiDocumentDuplex DocumentNUp  seperti yang ditunjukkan oleh Opsi yang ditentukan. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /id/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

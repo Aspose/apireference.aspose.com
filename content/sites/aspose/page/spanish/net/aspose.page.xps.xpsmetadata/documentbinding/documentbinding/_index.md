@@ -16,7 +16,7 @@ public DocumentBinding(params BindingOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | BindingOption[] | Una matriz de opciones específicas para la característica. |
+| options | BindingOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

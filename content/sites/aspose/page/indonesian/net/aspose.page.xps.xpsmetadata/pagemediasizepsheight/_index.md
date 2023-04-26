@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeight
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeight kelas. Menentukan tinggi halaman sejajar dengan arah orientasi feed. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheight
 type: docs
-weight: 2110
+weight: 2120
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediasizepsheight/
 ---
 ## PageMediaSizePSHeight class

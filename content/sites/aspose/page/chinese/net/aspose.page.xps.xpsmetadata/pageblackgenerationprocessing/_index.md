@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessing
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessing 班级. 指定 CMYK 分色的黑色生成行为 https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessing
 type: docs
-weight: 1710
+weight: 1720
 url: /zh/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing/
 ---
 ## PageBlackGenerationProcessing class

@@ -3,7 +3,7 @@ title: Class Value
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.Value kelas. Kelas dasar yang merangkum aProperty atau aScoredProperty nilai dalam dokumen PrintTicket. Elemen Nilai mengaitkan literal dengan tipe. https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 2930
+weight: 2940
 url: /id/net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class

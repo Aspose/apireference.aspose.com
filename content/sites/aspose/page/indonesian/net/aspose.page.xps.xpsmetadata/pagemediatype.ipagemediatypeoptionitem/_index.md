@@ -3,7 +3,7 @@ title: Interface PageMediaType.IPageMediaTypeOptionItem
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeIPageMediaTypeOptionItem antarmuka. Antarmuka apa sajaPageMediaType barang.
 type: docs
-weight: 2200
+weight: 2210
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediatype.ipagemediatypeoptionitem/
 ---
 ## PageMediaType.IPageMediaTypeOptionItem interface

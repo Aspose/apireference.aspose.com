@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsBrush τάξη. Κατηγορία που ενσωματώνει κοινά χαρακτηριστικά όλων των στοιχείων βούρτσας.
 type: docs
-weight: 2960
+weight: 2970
 url: /el/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

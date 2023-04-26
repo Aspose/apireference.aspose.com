@@ -1,14 +1,14 @@
 ---
 title: Class PageForceFrontSide
 second_title: Aspose.Page voor .NET API-referentie
-description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide klas. Forceert dat de uitvoer op de voorkant van een mediavel verschijnt. Relevant voor mediavellen met verschillende oppervlakken aan elke kant. In gevallen waarin deze functie de verwerkingsopties verstoort zoals DocumentDuplex  heeft voorrang voor de specifieke pagina waarop de functie van toepassing is.
+description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide klas. Forceert dat de uitvoer op de voorkant van een mediavel verschijnt. Relevant voor mediavellen met verschillende oppervlakken aan elke zijde. In gevallen waarin deze functie de verwerkingsopties verstoort zoals DocumentDuplex  heeft voorrang voor de specifieke pagina waarop de functie van toepassing is.
 type: docs
-weight: 1970
+weight: 1980
 url: /nl/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class
 
-Forceert dat de uitvoer op de voorkant van een mediavel verschijnt. Relevant voor mediavellen met verschillende oppervlakken aan elke kant. In gevallen waarin deze functie de verwerkingsopties verstoort (zoals [`DocumentDuplex`](../documentduplex/) ), heeft voorrang voor de specifieke pagina waarop de functie van toepassing is.
+Forceert dat de uitvoer op de voorkant van een mediavel verschijnt. Relevant voor mediavellen met verschillende oppervlakken aan elke zijde. In gevallen waarin deze functie de verwerkingsopties verstoort (zoals [`DocumentDuplex`](../documentduplex/) ), heeft voorrang voor de specifieke pagina waarop de functie van toepassing is.
 
 ```csharp
 PageForceFrontSide

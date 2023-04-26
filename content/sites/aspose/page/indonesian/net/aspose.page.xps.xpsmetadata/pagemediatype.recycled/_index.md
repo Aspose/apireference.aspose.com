@@ -3,7 +3,7 @@ title: Class PageMediaType.Recycled
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeRecycled kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 2250
+weight: 2260
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediatype.recycled/
 ---
 ## PageMediaType.Recycled class

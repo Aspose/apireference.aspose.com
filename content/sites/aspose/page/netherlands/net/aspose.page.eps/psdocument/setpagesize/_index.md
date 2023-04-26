@@ -3,7 +3,7 @@ title: PsDocument.SetPageSize
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Stelt het paginaformaat in. Gebruik om paginas met verschillende formaten in één document te makenSetPageDevice methode net na deze methode.
 type: docs
-weight: 230
+weight: 250
 url: /nl/net/aspose.page.eps/psdocument/setpagesize/
 ---
 ## PsDocument.SetPageSize method

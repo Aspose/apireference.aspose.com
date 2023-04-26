@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment klas. Klasse die ArcSegmentElementfunktionen einkapselt. Dieses Element beschreibt einen elliptischen Bogen.
 type: docs
-weight: 2940
+weight: 2950
 url: /de/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

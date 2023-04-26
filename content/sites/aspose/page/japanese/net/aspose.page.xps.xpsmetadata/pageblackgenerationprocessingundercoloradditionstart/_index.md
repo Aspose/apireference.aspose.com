@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingUnderColorAdditionStart
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingUnderColorAdditionStart クラス. UCA が適用されるシャドー レベルを記述します
 type: docs
-weight: 1790
+weight: 1800
 url: /ja/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionstart/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionStart class

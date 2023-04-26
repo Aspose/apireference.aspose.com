@@ -3,7 +3,7 @@ title: Class JobErrorSheetSource
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetSource сорт. Указывает источник пользовательского листа ошибок. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheetsource
 type: docs
-weight: 1340
+weight: 1350
 url: /ru/net/aspose.page.xps.xpsmetadata/joberrorsheetsource/
 ---
 ## JobErrorSheetSource class

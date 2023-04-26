@@ -3,7 +3,7 @@ title: Class XpsIccBasedColor
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsIccBasedColor klas. Kapselt ICCbasierte Farbe.
 type: docs
-weight: 3140
+weight: 3150
 url: /de/net/aspose.page.xps.xpsmodel/xpsiccbasedcolor/
 ---
 ## XpsIccBasedColor class

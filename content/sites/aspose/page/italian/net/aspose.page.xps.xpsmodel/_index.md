@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page per riferimento all'API .NET
 description: Il Aspose.Page.Xps.XpsModelnamespace fornisce classi che descrivono gli elementi del documento XPS.
 type: docs
-weight: 110
+weight: 120
 url: /it/net/aspose.page.xps.xpsmodel/
 ---
 Il **Aspose.Page.Xps.XpsModel**namespace fornisce classi che descrivono gli elementi del documento XPS.
@@ -39,13 +39,13 @@ Il **Aspose.Page.Xps.XpsModel**namespace fornisce classi che descrivono gli elem
 | [XpsPageLinkTarget](./xpspagelinktarget/) | Classe che incapsula la destinazione del collegamento ipertestuale della pagina. |
 | [XpsPath](./xpspath/) | Classe che incapsula le caratteristiche dell'elemento Path. Questo elemento è l'unico mezzo per aggiungere grafica vettoriale e immagini a una pagina fissa. Definisce una singola grafica vettoriale da visualizzare su una pagina. |
 | [XpsPathFigure](./xpspathfigure/) | Classe che incapsula le caratteristiche dell'elemento PathFigure. Questo elemento è composto da un insieme di uno o più segmenti di linea o di curva. |
-| [XpsPathGeometry](./xpspathgeometry/) | Classe che incapsula le caratteristiche dell'elemento di proprietà PathGeometry. Questo elemento contiene un insieme di figure di percorso specificate con l'attributo Figures o con un elemento PathFigure figlio. |
+| [XpsPathGeometry](./xpspathgeometry/) | Classe che incapsula le caratteristiche dell'elemento di proprietà PathGeometry. Questo elemento contiene una serie di figure di percorso specificate con l'attributo Figures o con un elemento PathFigure figlio. |
 | [XpsPathPolySegment](./xpspathpolysegment/) | Classe che incapsula le caratteristiche comuni degli elementi PolyLineSegment, PolyBézierSegment e PolyQuadraticBézierSegment. |
 | [XpsPathSegment](./xpspathsegment/) | Classe che incapsula le caratteristiche comuni di tutti gli elementi del segmento di percorso. |
 | [XpsPolyBezierSegment](./xpspolybeziersegment/) | Classe che incapsula le caratteristiche dell'elemento PolyBezierSegment. Questo elemento descrive un insieme di curve di Bézier cubiche. |
 | [XpsPolyLineSegment](./xpspolylinesegment/) | Classe che incapsula le caratteristiche dell'elemento PolyLineSegment. Questo elemento descrive un disegno poligonale contenente un numero arbitrario di singoli vertici. |
 | [XpsPolyQuadraticBezierSegment](./xpspolyquadraticbeziersegment/) | Classe che incapsula le caratteristiche dell'elemento PolyQuadraticBezierSegment. Questo elemento descrive un insieme di curve di Bézier quadratiche dal punto precedente in la figura del percorso attraverso un insieme di vertici, utilizzando punti di controllo specificati. |
-| [XpsRadialGradientBrush](./xpsradialgradientbrush/) | Classe che incapsula le caratteristiche dell'elemento di proprietà RadialGradientBrush. Questo elemento viene utilizzato per specificare un pennello sfumato radiale. |
+| [XpsRadialGradientBrush](./xpsradialgradientbrush/) | Classe che incapsula le caratteristiche dell'elemento proprietà RadialGradientBrush. Questo elemento viene utilizzato per specificare un pennello sfumato radiale. |
 | [XpsRgbColor](./xpsrgbcolor/) | Incapsula il colore RGB di qualsiasi spazio colore (sRGB o scRGB). |
 | [XpsSolidColorBrush](./xpssolidcolorbrush/) | Classe che incapsula le caratteristiche dell'elemento di proprietà SolidColorBrush. Questo elemento viene utilizzato per riempire aree geometriche definite con un colore a tinta unita. |
 | [XpsTilingBrush](./xpstilingbrush/) | Classe che incapsula le caratteristiche comuni degli elementi dei pennelli di piastrellatura (VisualBrush e ImageBrush). |

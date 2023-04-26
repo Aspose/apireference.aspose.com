@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin klas. Beschrijft de geïnstalleerde uitvoerbak in een apparaat of de volledige lijst met ondersteunde bakken voor een apparaat. DeJobOutputBin DocumentOutputBin EnPageOutputBin trefwoorden sluiten elkaar uit er moet er één worden opgegeven in een PrintTicket of Print Capabilitiesdocument. https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /nl/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

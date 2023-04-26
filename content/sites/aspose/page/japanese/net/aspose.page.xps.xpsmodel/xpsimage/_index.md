@@ -3,7 +3,7 @@ title: Class XpsImage
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsImage クラス. 画像リソースをカプセル化するクラス.
 type: docs
-weight: 3160
+weight: 3170
 url: /ja/net/aspose.page.xps.xpsmodel/xpsimage/
 ---
 ## XpsImage class

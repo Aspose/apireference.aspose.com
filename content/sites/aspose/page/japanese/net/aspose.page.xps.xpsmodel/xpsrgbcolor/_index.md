@@ -3,7 +3,7 @@ title: Class XpsRgbColor
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsRgbColor クラス. 任意の色空間 sRGB または scRGB の RGB 色をカプセル化します
 type: docs
-weight: 3340
+weight: 3350
 url: /ja/net/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class

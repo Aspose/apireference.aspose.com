@@ -3,7 +3,7 @@ title: Class ParameterInit
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.ParameterInit sınıf. Ortak bir PrintTicket parametresi başlatıcıyı uygulayan sınıf. Tüm şema tanımlı parametre başlatıcıları için temel sınıf. Bir örnek için bir değer tanımlaröğe. A eleman bir tarafından yapılan referansın hedefidir.ParameterRef element. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterinit
 type: docs
-weight: 2770
+weight: 2780
 url: /tr/net/aspose.page.xps.xpsmetadata/parameterinit/
 ---
 ## ParameterInit class

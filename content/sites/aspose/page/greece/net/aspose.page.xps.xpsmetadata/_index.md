@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsMetadata
 second_title: Aspose.Page για Αναφορά API .NET
 description: Το Aspose.Page.Xps.XpsΜεταδεδομένα Το namespace παρέχει κλάσεις που περιγράφουν μεταδεδομένα του εγγράφου XPS.
 type: docs
-weight: 100
+weight: 110
 url: /el/net/aspose.page.xps.xpsmetadata/
 ---
 Το **Aspose.Page.Xps.XpsΜεταδεδομένα** Το namespace παρέχει κλάσεις που περιγράφουν μεταδεδομένα του εγγράφου XPS.

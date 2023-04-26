@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | 문자열 배열 속성 값을 가져옵니다. 요청된 속성이 없으면 제공된 기본값을 반환합니다. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | 부울 속성 값을 가져옵니다. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | 부울 속성 값을 가져옵니다. 요청된 속성이 없으면 제공된 기본값을 반환합니다. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | 속성 이름을 반환합니다. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | 부울 속성 값을 설정합니다. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | 색상 속성 값을 설정합니다. |

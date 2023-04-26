@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm enum. enum mode enkripsi. Jelaskan menggunakan algoritme dan panjang kunci. Enum ini diperluas agar dapat lebih meningkatkan fungsionalitas. Enum ini menerapkan pola BasetoCore.
 type: docs
-weight: 410
+weight: 420
 url: /id/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

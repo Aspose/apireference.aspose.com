@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously klas. Beschreibt die Ausgabe mehrerer logischer Seiten auf einem einzigen physischen Blatt. Alle Dokumente im Job werden zusammenhängend zusammengestellt.JobNUpAllDocumentsContiguously UndDocumentNUp schließen sich gegenseitig aus. Es ist Sache des Treibers die Behandlung von Einschränkungen zwischen diesen Schlüsselwörtern zu bestimmen. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /de/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

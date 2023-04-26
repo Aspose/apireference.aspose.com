@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingUnderColorAdditionStart
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingUnderColorAdditionStart فصل. يصف مستوى الظل الذي سيتم تطبيق UCA تحته. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingundercoloradditionstart
 type: docs
-weight: 1790
+weight: 1800
 url: /ar/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionstart/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionStart class

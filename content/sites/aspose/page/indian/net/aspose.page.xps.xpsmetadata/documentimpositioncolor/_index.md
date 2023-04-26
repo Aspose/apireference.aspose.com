@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor कक्ष. नर्दष्ट नमत रंग के सथ लेबल क गई एप्लकेशन समग्र सभ रंग पृथक्करणं पर दखई देन चहए https//docs.microsoft.com/enus/windows/win32/printdocs/documentimpositioncolor
 type: docs
-weight: 720
+weight: 730
 url: /hi/net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

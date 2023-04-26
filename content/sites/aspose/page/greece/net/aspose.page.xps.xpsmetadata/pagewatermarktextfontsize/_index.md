@@ -3,7 +3,7 @@ title: Class PageWatermarkTextFontSize
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextFontSize τάξη. Καθορίζει τα διαθέσιμα μεγέθη γραμματοσειράς για το κείμενο του υδατογραφήματος. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextfontsize
 type: docs
-weight: 2740
+weight: 2750
 url: /el/net/aspose.page.xps.xpsmetadata/pagewatermarktextfontsize/
 ---
 ## PageWatermarkTextFontSize class

@@ -3,7 +3,7 @@ title: Class DocumentCollate
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCollate 수업. 출력의 조합 특성을 설명합니다. 각 개별 문서의 모든 페이지가 정렬됩니다. DocumentCollate 및 JobCollateAlldocuments는 상호 배타적입니다. 이 두 키워드 중 하나만 구현되는지 여부의 동작 및 구현은 드라이버에 맡겨져 있습니다.
 type: docs
-weight: 610
+weight: 620
 url: /ko/net/aspose.page.xps.xpsmetadata/documentcollate/
 ---
 ## DocumentCollate class

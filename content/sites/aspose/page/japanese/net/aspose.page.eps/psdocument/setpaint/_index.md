@@ -3,7 +3,7 @@ title: PsDocument.SetPaint
 second_title: Aspose.Page for .NET API リファレンス
 description: PsDocument 方法. ペイントを現在のグラフィック状態に設定します
 type: docs
-weight: 240
+weight: 260
 url: /ja/net/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument.SetPaint method

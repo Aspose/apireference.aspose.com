@@ -3,7 +3,7 @@ title: Interface IPrintTicketElementChild
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketElementChild 界面. 任何打印架构元素的子元素的基本接口
 type: docs
-weight: 960
+weight: 970
 url: /zh/net/aspose.page.xps.xpsmetadata/iprintticketelementchild/
 ---
 ## IPrintTicketElementChild interface

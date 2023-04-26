@@ -3,7 +3,7 @@ title: PsDocument.SetPaint
 second_title: Aspose.Page per riferimento all'API .NET
 description: PsDocument metodo. Imposta il disegno nello stato grafico corrente.
 type: docs
-weight: 240
+weight: 260
 url: /it/net/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument.SetPaint method

@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginHeight
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginHeight classe. Spécifie lorigine dun filigrane par rapport à lorigine du. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginheight
 type: docs
-weight: 2700
+weight: 2710
 url: /fr/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/
 ---
 ## PageWatermarkOriginHeight class

@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet.BannerSheetOption
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheetBannerSheetOption τάξη. Αντιπροσωπεύει επιλογές τουJobPrimaryBannerSheet χαρακτηριστικό.
 type: docs
-weight: 1480
+weight: 1490
 url: /el/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet.bannersheetoption/
 ---
 ## JobPrimaryBannerSheet.BannerSheetOption class

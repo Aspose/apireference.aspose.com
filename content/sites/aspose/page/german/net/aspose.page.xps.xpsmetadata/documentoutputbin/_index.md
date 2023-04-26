@@ -3,7 +3,7 @@ title: Class DocumentOutputBin
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentOutputBin klas. Beschreibt die vollständige Liste der unterstützten Bins für das Gerät. Ermöglicht die Angabe von output bin auf Dokumentbasis. DerJobOutputBin DocumentOutputBin and PageOutputBin Schlüsselwörter schließen sich gegenseitig aus nur eines sollte in einem PrintTicket oder Druckfunktionsdokument angegeben werden. https//docs.microsoft.com/enus/windows/win32/printdocs/documentoutputbin
 type: docs
-weight: 760
+weight: 770
 url: /de/net/aspose.page.xps.xpsmetadata/documentoutputbin/
 ---
 ## DocumentOutputBin class

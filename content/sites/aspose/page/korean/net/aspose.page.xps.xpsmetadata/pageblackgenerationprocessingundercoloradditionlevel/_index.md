@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingUnderColorAdditionLevel
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingUnderColorAdditionLevel 수업. GCR/UCR이 생성한 영역에 추가할 유채색 잉크의 양회색 구성 요소 비율을 설명합니다. .com/enus/windows/win32/printdocs/pageblackgenerationprocessingundercoloradditionlevel
 type: docs
-weight: 1780
+weight: 1790
 url: /ko/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionlevel/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionLevel class

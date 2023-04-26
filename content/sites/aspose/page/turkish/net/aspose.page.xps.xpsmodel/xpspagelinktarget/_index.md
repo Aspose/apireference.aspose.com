@@ -3,7 +3,7 @@ title: Class XpsPageLinkTarget
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsPageLinkTarget sınıf. Sayfa köprü hedefini kapsayan sınıf.
 type: docs
-weight: 3240
+weight: 3250
 url: /tr/net/aspose.page.xps.xpsmodel/xpspagelinktarget/
 ---
 ## XpsPageLinkTarget class
@@ -19,6 +19,12 @@ public sealed class XpsPageLinkTarget : XpsHyperlinkTarget
 | İsim | Tanım |
 | --- | --- |
 | [XpsPageLinkTarget](xpspagelinktarget/)(int) | Yeni örneği oluşturur. |
+
+## Özellikleri
+
+| İsim | Tanım |
+| --- | --- |
+| [TargetPageNumber](../../aspose.page.xps.xpsmodel/xpspagelinktarget/targetpagenumber/) { get; } | Üst XPS öğesinin başvurduğu sayfa numarasını alır. |
 
 ### Ayrıca bakınız
 

@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin kelas. Menjelaskan tempat keluaran yang dipasang di perangkat atau daftar lengkap tempat sampah yang didukung untuk suatu perangkat. JobOutputBin DocumentOutputBin DanPageOutputBin kata kunci saling eksklusif hanya satu yang harus ditentukan dalam dokumen PrintTicket atau Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /id/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

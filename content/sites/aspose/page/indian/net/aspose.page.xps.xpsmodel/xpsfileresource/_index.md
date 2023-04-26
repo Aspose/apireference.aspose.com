@@ -3,7 +3,7 @@ title: Class XpsFileResource
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsFileResource कक्ष. सभ फ़इल संसधनं क समन्य सुवधओं क समहत करने वल वर्ग
 type: docs
-weight: 3060
+weight: 3070
 url: /hi/net/aspose.page.xps.xpsmodel/xpsfileresource/
 ---
 ## XpsFileResource class

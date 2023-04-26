@@ -3,7 +3,7 @@ title: Class DocumentBindingGutter
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingGutter classe. Spécifie la largeur de la gouttière de reliure. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbindinggutter
 type: docs
-weight: 600
+weight: 610
 url: /fr/net/aspose.page.xps.xpsmetadata/documentbindinggutter/
 ---
 ## DocumentBindingGutter class

@@ -3,7 +3,7 @@ title: Class PagePoster
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PagePoster 班级. 描述单个页面到多个物理介质表的输出 https//docs.microsoft.com/enus/windows/win32/printdocs/pageposter
 type: docs
-weight: 2410
+weight: 2420
 url: /zh/net/aspose.page.xps.xpsmetadata/pageposter/
 ---
 ## PagePoster class

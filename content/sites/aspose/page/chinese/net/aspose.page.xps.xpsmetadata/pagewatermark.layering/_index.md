@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering 班级. 描述内部特征定义水印的分层行为
 type: docs
-weight: 2670
+weight: 2680
 url: /zh/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

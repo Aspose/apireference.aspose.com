@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPage τάξη. Χαρακτηριστικά στοιχείου FixedPage που ενσωματώνει κλάση. Αυτό το στοιχείο περιέχει τα περιεχόμενα μιας σελίδας και είναι το ριζικό στοιχείο ενός τμήματος FixedPage.
 type: docs
-weight: 3230
+weight: 3240
 url: /el/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

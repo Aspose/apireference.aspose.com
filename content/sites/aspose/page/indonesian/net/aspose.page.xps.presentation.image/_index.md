@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page untuk Referensi .NET API
 description: Itu Aspose.Page.Xps.Presentation.Image namespace menyediakan kelas untuk merender dokumen XPS ke gambar.
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.page.xps.presentation.image/
 ---
 Itu **Aspose.Page.Xps.Presentation.Image** namespace menyediakan kelas untuk merender dokumen XPS ke gambar.

@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront sınıf. Ön başlangıç kapak sayfasını tanımlar. Her belgenin ayrı bir sayfası olacaktır. Kapak sayfasıPageMediaSize VePageMediaType belgenin ilk sayfası için kullanılır. Kapak sayfası process options örneğinDocumentDuplex DocumentNUp  belirtilen Seçenek ile belirtildiği şekilde. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /tr/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

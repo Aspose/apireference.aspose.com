@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Le Aspose.Page.Xps.Presentationlespace de noms fournit des classes de base pour le rendu du document XPS dans dautres formats.
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/aspose.page.xps.presentation/
 ---
 Le **Aspose.Page.Xps.Presentation**l'espace de noms fournit des classes de base pour le rendu du document XPS dans d'autres formats.

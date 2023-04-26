@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginHeight
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginHeight فصل. يحدد أصل العلامة المائية بالنسبة إلى أصل. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginheight
 type: docs
-weight: 2700
+weight: 2710
 url: /ar/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/
 ---
 ## PageWatermarkOriginHeight class

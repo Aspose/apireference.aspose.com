@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage classe. Décrit les langages de périphérique pris en charge pour lenvoi de données du pilote vers le périphérique physique. Ceci est souvent appelé Langage de description de page. Ce motclé définit la langue de description de page prise en charge par le pilote et le périphérique physique. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /fr/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

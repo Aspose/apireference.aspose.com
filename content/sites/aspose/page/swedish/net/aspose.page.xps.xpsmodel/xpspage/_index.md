@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsPage klass. Klass inkapslar funktioner i FixedPageelement. Detta element innehåller innehållet på en sida och är rotelementet i en FixedPagedel.
 type: docs
-weight: 3230
+weight: 3240
 url: /sv/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

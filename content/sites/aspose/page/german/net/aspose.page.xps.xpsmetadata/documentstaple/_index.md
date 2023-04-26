@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple klas. Beschreibt die Hefteigenschaften der Ausgabe. Jedes Dokument wird separat geheftet. DieJobStapleAllDocuments UndDocumentStapleSchlüsselwörter schließen sich gegenseitig aus. Es ist Sache des Treibers die Behandlung von Einschränkungen zwischen diesen Schlüsselwörtern zu bestimmen. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /de/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

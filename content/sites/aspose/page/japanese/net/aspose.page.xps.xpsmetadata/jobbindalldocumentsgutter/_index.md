@@ -3,7 +3,7 @@ title: Class JobBindAllDocumentsGutter
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsGutter クラス. とじしろの幅を指定します https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocumentsgutter
 type: docs
-weight: 1190
+weight: 1200
 url: /ja/net/aspose.page.xps.xpsmetadata/jobbindalldocumentsgutter/
 ---
 ## JobBindAllDocumentsGutter class

@@ -3,7 +3,7 @@ title: Class PageWatermarkTransparency
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTransparency klas. Specificeert de transparantie voor het watermerk. Volledig ondoorzichtig zou een waarde hebben van 0. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktransparency
 type: docs
-weight: 2760
+weight: 2770
 url: /nl/net/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

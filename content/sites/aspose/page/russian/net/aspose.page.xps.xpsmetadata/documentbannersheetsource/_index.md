@@ -3,7 +3,7 @@ title: Class DocumentBannerSheetSource
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheetSource сорт. Указывает источник пользовательского титульного листа. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheetsource
 type: docs
-weight: 550
+weight: 560
 url: /ru/net/aspose.page.xps.xpsmetadata/documentbannersheetsource/
 ---
 ## DocumentBannerSheetSource class

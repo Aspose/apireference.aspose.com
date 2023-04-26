@@ -3,7 +3,7 @@ title: Class PageMediaType.PageMediaTypeOption
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePageMediaTypeOption クラス. はPageMediaType機能オプション.
 type: docs
-weight: 2220
+weight: 2230
 url: /ja/net/aspose.page.xps.xpsmetadata/pagemediatype.pagemediatypeoption/
 ---
 ## PageMediaType.PageMediaTypeOption class

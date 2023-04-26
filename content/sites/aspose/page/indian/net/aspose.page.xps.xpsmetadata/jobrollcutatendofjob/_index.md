@@ -3,7 +3,7 @@ title: Class JobRollCutAtEndOfJob
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobRollCutAtEndOfJob कक्ष. रल पेपर के लए कटंग वध क वर्णन करत है जब के अंत में रल क कट दय जन चहए
 type: docs
-weight: 1570
+weight: 1580
 url: /hi/net/aspose.page.xps.xpsmetadata/jobrollcutatendofjob/
 ---
 ## JobRollCutAtEndOfJob class

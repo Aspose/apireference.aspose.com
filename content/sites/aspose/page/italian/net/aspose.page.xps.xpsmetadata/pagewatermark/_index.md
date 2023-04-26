@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark classe. Descrive limpostazione della filigrana delloutput e le caratteristiche della filigrana. Le filigrane si applicano alla pagina logica non alla pagina fisica. Ad esempio seDocumentDuplex è abilitato verrà visualizzata una filigrana su ciascuno pagina su ogni foglio. SeDocumentDuplex  2 ogni foglio avrà 2 filigrane. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /it/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

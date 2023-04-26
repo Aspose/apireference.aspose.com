@@ -16,7 +16,7 @@ public PageMediaSize(params IPageMediaSizeItem[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | IPageMediaSizeItem[] | Una matriz de opciones específicas para la característica. |
+| options | IPageMediaSizeItem[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

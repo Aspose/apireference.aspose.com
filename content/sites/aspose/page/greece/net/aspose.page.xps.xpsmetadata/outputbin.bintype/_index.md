@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType τάξη. Ορίζει σταθερές για το βαθμολογία ιδιότητας.
 type: docs
-weight: 1670
+weight: 1680
 url: /el/net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

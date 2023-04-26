@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeightOffset
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeightOffset sınıf. Besleme yönü yönüne paralel ofseti belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheightoffset
 type: docs
-weight: 2120
+weight: 2130
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediasizepsheightoffset/
 ---
 ## PageMediaSizePSHeightOffset class

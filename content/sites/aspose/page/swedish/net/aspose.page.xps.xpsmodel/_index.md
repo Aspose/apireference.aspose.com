@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page för .NET API-referens
 description: Den Aspose.Page.Xps.XpsModelnamnutrymme tillhandahåller klasser som beskriver element i XPSdokument.
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.page.xps.xpsmodel/
 ---
 Den **Aspose.Page.Xps.XpsModel**namnutrymme tillhandahåller klasser som beskriver element i XPS-dokument.

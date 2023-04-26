@@ -3,7 +3,7 @@ title: Class JobRollCutAtEndOfJob
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobRollCutAtEndOfJob クラス. ロール紙のカット方法について説明しますジョブの最後にロールをカットする必要があります
 type: docs
-weight: 1570
+weight: 1580
 url: /ja/net/aspose.page.xps.xpsmetadata/jobrollcutatendofjob/
 ---
 ## JobRollCutAtEndOfJob class

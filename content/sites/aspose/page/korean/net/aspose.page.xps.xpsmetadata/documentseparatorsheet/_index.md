@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet 수업. 문서의 구분 시트 사용을 설명합니다. 구분 시트는 아래 지정된 옵션에 표시된 대로 출력에 나타나야 합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet
 type: docs
-weight: 800
+weight: 810
 url: /ko/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

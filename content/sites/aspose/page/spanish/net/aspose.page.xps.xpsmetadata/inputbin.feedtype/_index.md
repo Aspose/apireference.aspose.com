@@ -3,7 +3,7 @@ title: Class InputBin.FeedType
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedType clase. Define constantes para el valor de propiedad puntuado.
 type: docs
-weight: 1040
+weight: 1050
 url: /es/net/aspose.page.xps.xpsmetadata/inputbin.feedtype/
 ---
 ## InputBin.FeedType class

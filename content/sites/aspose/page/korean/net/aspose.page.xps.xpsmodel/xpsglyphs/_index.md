@@ -3,7 +3,7 @@ title: Class XpsGlyphs
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsGlyphs 수업. Glyphs 요소 기능을 캡슐화하는 클래스입니다. 이 요소는 단일 글꼴에서 균일한 형식의 텍스트 실행을 나타냅니다. 정확한 렌더링에 필요한 정보를 제공하고 소비자 보기에서 search 및 선택 기능을 지원합니다.
 type: docs
-weight: 3090
+weight: 3100
 url: /ko/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class
@@ -25,10 +25,10 @@ public sealed class XpsGlyphs : XpsContentElement
 | [Font](../../aspose.page.xps.xpsmodel/xpsglyphs/font/) { get; } | 요소 텍스트를 조판하는 데 사용되는 트루타입 글꼴에 대한 글꼴 리소스를 반환합니다. |
 | [FontRenderingEmSize](../../aspose.page.xps.xpsmodel/xpsglyphs/fontrenderingemsize/) { get; set; } | 유효 좌표 공간 단위의 float 로 표시되는 도면 표면 단위의 글꼴 크기를 반환/설정합니다. |
 | [HyperlinkTarget](../../aspose.page.xps.xpsmodel/xpshyperlinkelement/hyperlinktarget/) { get; set; } | 하이퍼링크 대상 개체를 반환/설정합니다. |
-| [IsSideways](../../aspose.page.xps.xpsmodel/xpsglyphs/issideways/) { get; set; } | 는 회전하지 않은 글리프의 상단 중심을 원점으로 하여 글리프가 옆으로 눕혀져 있음을 나타내는 값을 반환/설정합니다. |
+| [IsSideways](../../aspose.page.xps.xpsmodel/xpsglyphs/issideways/) { get; set; } | 는 회전하지 않은 글리프의 상단 중심을 원점으로 하여 글리프가 측면으로 회전했음을 나타내는 값을 반환/설정합니다. |
 | [Item](../../aspose.page.xps.xpsmodel/xpselement/item/) { get; } | 인덱스로 요소의 자식에 대한 액세스를 제공합니다.*i* . |
 | [Opacity](../../aspose.page.xps.xpsmodel/xpscontentelement/opacity/) { get; set; } | 요소의 균일한 투명도를 정의하는 값을 반환/설정합니다. |
-| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask/) { get; set; } | 불투명도 속성 와 동일한 방식으로 요소에 적용되지만 요소의 다른 영역에 대해 다른 알파 값을 허용하는 알파 값 의 마스크를 지정하는 브러시를 반환/설정합니다. |
+| [OpacityMask](../../aspose.page.xps.xpsmodel/xpscontentelement/opacitymask/) { get; set; } | 불투명도 속성인 와 동일한 방식으로 요소에 적용되지만 요소의 다른 영역에 대해 다른 알파 값을 허용하는 알파 값 의 마스크를 지정하는 브러시를 반환/설정합니다. |
 | [OriginX](../../aspose.page.xps.xpsmodel/xpsglyphs/originx/) { get; set; } | 유효 좌표 공간의 단위로 런 의 첫 번째 글리프의 x 좌표를 반환/설정합니다. |
 | [OriginY](../../aspose.page.xps.xpsmodel/xpsglyphs/originy/) { get; set; } | 실행에서 첫 번째 글리프의 y 좌표인 를 유효 좌표 공간 단위로 반환/설정합니다. |
 | [RenderTransform](../../aspose.page.xps.xpsmodel/xpscontentelement/rendertransform/) { get; set; } | 요소의 모든 속성과 모든 하위 요소(있는 경우)에 대해 새 좌표 프레임 을 설정하는 아핀 변환 매트릭스를 반환/설정합니다. |

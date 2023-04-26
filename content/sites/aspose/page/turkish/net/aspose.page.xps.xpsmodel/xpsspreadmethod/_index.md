@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod Sıralama. Degrade fırçaların SpreadMethod özelliğinin geçerli değerleri.
 type: docs
-weight: 3360
+weight: 3370
 url: /tr/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

@@ -3,7 +3,7 @@ title: UserProperties.PropertyNames
 second_title: Aspose.Page för .NET API-referens
 description: UserProperties metod. Returnerar egenskapsnamn.
 type: docs
-weight: 130
+weight: 140
 url: /sv/net/aspose.page/userproperties/propertynames/
 ---
 ## UserProperties.PropertyNames method

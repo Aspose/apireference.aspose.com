@@ -3,7 +3,7 @@ title: Class PrintTicketElement
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PrintTicketElement कक्ष. उन वर्गं के लए आधर वर्ग ज प्रंट स्कम तत्व ह सकते हैं
 type: docs
-weight: 2800
+weight: 2810
 url: /hi/net/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

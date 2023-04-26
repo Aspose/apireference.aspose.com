@@ -3,7 +3,7 @@ title: Class StringParameterInit
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.StringParameterInit τάξη. Βασική κλάση για όλους τους αρχικοποιητές παραμέτρων συμβολοσειράς.
 type: docs
-weight: 2900
+weight: 2910
 url: /el/net/aspose.page.xps.xpsmetadata/stringparameterinit/
 ---
 ## StringParameterInit class

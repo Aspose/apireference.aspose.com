@@ -3,7 +3,7 @@ title: Class DocumentCollate
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCollate classe. Descrive le caratteristiche di fascicolazione delloutput. Tutte le pagine di ogni singolo documento vengono fascicolate. DocumentCollate e JobCollateAlldocuments si escludono a vicenda. Il comportamento e limplementazione dellimplementazione di entrambe o solo di una di queste parole chiave è lasciata al driver. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcollate
 type: docs
-weight: 610
+weight: 620
 url: /it/net/aspose.page.xps.xpsmetadata/documentcollate/
 ---
 ## DocumentCollate class

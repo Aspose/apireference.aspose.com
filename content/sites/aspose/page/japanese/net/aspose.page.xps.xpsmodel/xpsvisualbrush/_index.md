@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush クラス. VisualBrush プロパティ要素の機能をカプセル化するクラス. この要素は領域を描画で塗りつぶすために使用されます.
 type: docs
-weight: 3420
+weight: 3430
 url: /ja/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

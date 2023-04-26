@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet klass. Beskriver redovisningsbladet som ska matas ut för jobbet. Bokföringsbladet ska matas ut på default PageMediaSize och använder standardPageMediaType . Bokföringsbladet ska to vara isolerat från resten av jobbet. Detta innebär att eventuella efterbehandlings eller bearbetningsalternativ som   eller  bör inte inkludera redovisningsbladet. Bokföringsbladet kan förekomma som första eller sista sidan i jobbet efter implementerarens gottfinnande. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /sv/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

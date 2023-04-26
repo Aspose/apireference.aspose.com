@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush τάξη. Χαρακτηριστικά στοιχείου ιδιότητας ImageBrush incapsulating κλάσης. Αυτό το στοιχείο χρησιμοποιείται για να γεμίσει μια περιοχή με μια εικόνα.
 type: docs
-weight: 3170
+weight: 3180
 url: /el/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

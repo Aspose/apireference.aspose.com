@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsRestore
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 写入当前图形状态的恢复请参阅关于运算符grestore的 PostScript 规范
 type: docs
-weight: 290
+weight: 320
 url: /zh/net/aspose.page.eps/psdocument/writegraphicsrestore/
 ---
 ## PsDocument.WriteGraphicsRestore method

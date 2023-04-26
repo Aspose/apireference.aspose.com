@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageResolution 班级. 将打印输出的页面分辨率定义为定性值或每英寸点数或两者 https//docs.microsoft.com/enus/windows/win32/printdocs/pageresolution
 type: docs
-weight: 2430
+weight: 2440
 url: /zh/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

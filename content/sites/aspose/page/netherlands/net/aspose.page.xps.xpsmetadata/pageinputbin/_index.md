@@ -3,7 +3,7 @@ title: Class PageInputBin
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageInputBin klas. Beschrijft de geïnstalleerde invoerbak in een apparaat of de volledige lijst met ondersteunde bakken voor een apparaat. Maakt specificatie van de invoerbak per pagina mogelijk. DeJobInputBin DocumentInputBin and PageInputBin trefwoorden sluiten elkaar uit. Beide mogen niet tegelijkertijd worden opgegeven in een PrintTicket of Print Capabilitiesdocument. https//docs.microsoft.com/enus/windows/win32/printdocs/pageinputbin
 type: docs
-weight: 2020
+weight: 2030
 url: /nl/net/aspose.page.xps.xpsmetadata/pageinputbin/
 ---
 ## PageInputBin class

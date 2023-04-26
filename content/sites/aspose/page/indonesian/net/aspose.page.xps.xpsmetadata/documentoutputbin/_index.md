@@ -3,7 +3,7 @@ title: Class DocumentOutputBin
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentOutputBin kelas. Menjelaskan daftar lengkap tempat sampah yang didukung untuk perangkat. Mengizinkan spesifikasi bin output berdasarkan basis per dokumen. ItuJobOutputBin DocumentOutputBin dan PageOutputBin kata kunci saling eksklusif hanya satu yang harus ditentukan dalam dokumen PrintTicket atau Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/documentoutputbin
 type: docs
-weight: 760
+weight: 770
 url: /id/net/aspose.page.xps.xpsmetadata/documentoutputbin/
 ---
 ## DocumentOutputBin class

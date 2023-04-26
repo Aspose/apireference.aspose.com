@@ -3,7 +3,7 @@ title: Class PageScaling
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageScaling clase. Describe las características de escalado de la salida. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescaling
 type: docs
-weight: 2480
+weight: 2490
 url: /es/net/aspose.page.xps.xpsmetadata/pagescaling/
 ---
 ## PageScaling class

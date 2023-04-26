@@ -3,7 +3,7 @@ title: Class DocumentCoverFront.CoverFrontOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFrontCoverFrontOption कक्ष. क वर्णन करत हैDocumentCoverFront सुवध वकल्प.
 type: docs
-weight: 670
+weight: 680
 url: /hi/net/aspose.page.xps.xpsmetadata/documentcoverfront.coverfrontoption/
 ---
 ## DocumentCoverFront.CoverFrontOption class

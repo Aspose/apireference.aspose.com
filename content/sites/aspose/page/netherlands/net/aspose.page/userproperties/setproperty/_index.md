@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: Aspose.Page voor .NET API-referentie
 description: UserProperties methode. Stelt de waarde van de tekenreeks in.
 type: docs
-weight: 140
+weight: 150
 url: /nl/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

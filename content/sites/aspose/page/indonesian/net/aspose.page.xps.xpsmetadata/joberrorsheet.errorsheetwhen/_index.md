@@ -3,7 +3,7 @@ title: Class JobErrorSheet.ErrorSheetWhen
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetErrorSheetWhen kelas. Menjelaskan bagian dalam fitur.
 type: docs
-weight: 1310
+weight: 1320
 url: /id/net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetwhen/
 ---
 ## JobErrorSheet.ErrorSheetWhen class

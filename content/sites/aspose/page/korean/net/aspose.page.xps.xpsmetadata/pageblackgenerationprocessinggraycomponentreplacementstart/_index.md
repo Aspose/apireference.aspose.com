@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementStart
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementStart 수업. GCR이 시작되어야 하는 하이라이트에서 섀도우 범위의 지점을 설명합니다가장 어두운 100. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementstart
 type: docs
-weight: 1760
+weight: 1770
 url: /ko/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementstart/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementStart class

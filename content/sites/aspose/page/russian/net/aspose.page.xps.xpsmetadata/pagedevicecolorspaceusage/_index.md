@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceUsage
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceUsage сорт. В сочетании сPageDeviceColorSpaceProfileURI параметр этот параметр определяет поведение рендеринга для элементов представленных в цветовом пространстве устройства. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceusage
 type: docs
-weight: 1930
+weight: 1940
 url: /ru/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
 ---
 ## PageDeviceColorSpaceUsage class

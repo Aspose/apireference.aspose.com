@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsTileMode uppräkning. Giltiga värden för kakelborstars TileModeegenskap.
 type: docs
-weight: 3390
+weight: 3400
 url: /sv/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

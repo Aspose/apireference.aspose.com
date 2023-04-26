@@ -3,7 +3,7 @@ title: Class DocumentCoverBack.CoverBackOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBackCoverBackOption 수업. 설명DocumentCoverBack 기능 옵션.
 type: docs
-weight: 640
+weight: 650
 url: /ko/net/aspose.page.xps.xpsmetadata/documentcoverback.coverbackoption/
 ---
 ## DocumentCoverBack.CoverBackOption class

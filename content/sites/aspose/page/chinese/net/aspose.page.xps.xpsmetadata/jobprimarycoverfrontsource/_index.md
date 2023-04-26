@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFrontSource
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontSource 班级. 指定作业的自定义封面主页面的来源 https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfrontsource
 type: docs
-weight: 1550
+weight: 1560
 url: /zh/net/aspose.page.xps.xpsmetadata/jobprimarycoverfrontsource/
 ---
 ## JobPrimaryCoverFrontSource class

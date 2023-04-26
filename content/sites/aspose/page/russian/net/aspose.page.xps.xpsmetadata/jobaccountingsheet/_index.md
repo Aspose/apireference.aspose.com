@@ -1,14 +1,14 @@
 ---
 title: Class JobAccountingSheet
 second_title: Справочник по Aspose.Page для .NET API
-description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet сорт. Описывает учетную ведомость которая будет выводиться для задания. Бухгалтерский лист должен выводиться на default PageMediaSize и используя значение по умолчаниюPageMediaType . Бухгалтерский лист должен быть to изолирован от остальной части работы. Это означает что любые варианты отделки или обработки например   или  не должен включать бухгалтерский лист. Бухгалтерский лист может быть первой или последней страницей задания по усмотрению исполнителя. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
+description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet сорт. Описывает учетную ведомость которая будет выводиться для задания. Бухгалтерский лист должен выводиться на default PageMediaSize и используя значение по умолчаниюPageMediaType . Бухгалтерский лист должен быть to изолирован от остальной части задания. Это означает что любые варианты отделки или обработки например   или  не должен включать бухгалтерский лист. Бухгалтерский лист может быть первой или последней страницей задания по усмотрению исполнителя. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /ru/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class
 
-Описывает учетную ведомость, которая будет выводиться для задания. Бухгалтерский лист должен выводиться на default [`PageMediaSize`](../pagemediasize/) и используя значение по умолчанию[`PageMediaType`](../pagemediatype/) . Бухгалтерский лист должен быть to изолирован от остальной части работы. Это означает, что любые варианты отделки или обработки (например, , , или ) не должен включать бухгалтерский лист. Бухгалтерский лист может быть первой или последней страницей задания по усмотрению исполнителя. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobaccountingsheet
+Описывает учетную ведомость, которая будет выводиться для задания. Бухгалтерский лист должен выводиться на default [`PageMediaSize`](../pagemediasize/) и используя значение по умолчанию[`PageMediaType`](../pagemediatype/) . Бухгалтерский лист должен быть to изолирован от остальной части задания. Это означает, что любые варианты отделки или обработки (например, , , или ) не должен включать бухгалтерский лист. Бухгалтерский лист может быть первой или последней страницей задания по усмотрению исполнителя. https://docs.microsoft.com/en-us/windows/win32/printdocs/jobaccountingsheet
 
 ```csharp
 JobDuplex

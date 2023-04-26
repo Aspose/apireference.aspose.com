@@ -3,7 +3,7 @@ title: Class JobBindAllDocumentsGutter
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsGutter klass. Anger bredden på bindningsrännan. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocumentsgutter
 type: docs
-weight: 1190
+weight: 1200
 url: /sv/net/aspose.page.xps.xpsmetadata/jobbindalldocumentsgutter/
 ---
 ## JobBindAllDocumentsGutter class

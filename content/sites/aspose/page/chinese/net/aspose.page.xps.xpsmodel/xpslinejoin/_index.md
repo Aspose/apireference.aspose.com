@@ -3,7 +3,7 @@ title: Enum XpsLineJoin
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsLineJoin 枚举. Path 元素的 StrokeLineJoin 属性的有效值
 type: docs
-weight: 3190
+weight: 3200
 url: /zh/net/aspose.page.xps.xpsmodel/xpslinejoin/
 ---
 ## XpsLineJoin enumeration

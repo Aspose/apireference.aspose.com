@@ -3,7 +3,7 @@ title: Class XpsGradientBrush
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsGradientBrush कक्ष. लइनरग्रेडएंटब्रश और रेडयलग्रेडएंटब्रश तत्वं क समन्य वशेषतओं क समहत करने वल वर्ग
 type: docs
-weight: 3100
+weight: 3110
 url: /hi/net/aspose.page.xps.xpsmodel/xpsgradientbrush/
 ---
 ## XpsGradientBrush class

@@ -3,7 +3,7 @@ title: Class PageOutputBin
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageOutputBin klas. Beschreibt die vollständige Liste der unterstützten Bins für das Gerät. Ermöglicht die Angabe des Ausgabefachs pro Seite. DieJobOutputBin DocumentOutputBin UndPageOutputBin Schlüsselwörter sind schließen sich gegenseitig aus nur eines sollte in einem PrintTicket oder Druckfunktionsdokument angegeben werden. https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputbin
 type: docs
-weight: 2320
+weight: 2330
 url: /de/net/aspose.page.xps.xpsmetadata/pageoutputbin/
 ---
 ## PageOutputBin class

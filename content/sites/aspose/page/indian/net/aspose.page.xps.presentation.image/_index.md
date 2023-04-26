@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: द Aspose.Page.Xps.Presentation.Image नेमस्पेस एक छव के लए XPS दस्तवेज़ प्रस्तुत करने के लए कक्षएं प्रदन करत है
 type: docs
-weight: 80
+weight: 90
 url: /hi/net/aspose.page.xps.presentation.image/
 ---
 द **Aspose.Page.Xps.Presentation.Image** नेमस्पेस एक छवि के लिए XPS दस्तावेज़ प्रस्तुत करने के लिए कक्षाएं प्रदान करता है।

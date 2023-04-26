@@ -3,7 +3,7 @@ title: Interface PageOutputColor.IPageOutputColorOptionItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOutputColorIPageOutputColorOptionItem इंटरफेस. कस क इंटरफ़ेसPageOutputColorOption मद.
 type: docs
-weight: 2350
+weight: 2360
 url: /hi/net/aspose.page.xps.xpsmetadata/pageoutputcolor.ipageoutputcoloroptionitem/
 ---
 ## PageOutputColor.IPageOutputColorOptionItem interface

@@ -3,7 +3,7 @@ title: Class JobErrorSheetSource
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetSource فصل. يحدد مصدر ورقة الخطأ المخصصة . https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheetsource
 type: docs
-weight: 1340
+weight: 1350
 url: /ar/net/aspose.page.xps.xpsmetadata/joberrorsheetsource/
 ---
 ## JobErrorSheetSource class

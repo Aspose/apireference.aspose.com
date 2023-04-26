@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsDocument कक्ष. XPS दस्तवेज़ क मुख्य इकई क समहत करने वल वर्ग ज कस भ XPS तत्व के लए हेरफेर वधयँ प्रदन करत है
 type: docs
-weight: 470
+weight: 480
 url: /hi/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class

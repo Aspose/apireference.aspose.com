@@ -3,7 +3,7 @@ title: Class PageMediaType.Recycled
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeRecycled сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 2250
+weight: 2260
 url: /ru/net/aspose.page.xps.xpsmetadata/pagemediatype.recycled/
 ---
 ## PageMediaType.Recycled class

@@ -3,7 +3,7 @@ title: Class XpsLoadOptions
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsLoadOptions فصل. خيارات تحميل مستندات XPS .
 type: docs
-weight: 480
+weight: 490
 url: /ar/net/aspose.page.xps/xpsloadoptions/
 ---
 ## XpsLoadOptions class

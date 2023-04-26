@@ -3,7 +3,7 @@ title: Class DocumentCoverFrontSource
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFrontSource classe. Spécifie la source dune feuille de couverture personnalisée. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfrontsource
 type: docs
-weight: 680
+weight: 690
 url: /fr/net/aspose.page.xps.xpsmetadata/documentcoverfrontsource/
 ---
 ## DocumentCoverFrontSource class

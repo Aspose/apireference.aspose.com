@@ -3,7 +3,7 @@ title: Class PageBlendColorSpaceICCProfileURI
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlendColorSpaceICCProfileURI فصل. يحدد مرجع URI نسبيًا لملف تعريف ICC الذي يحدد مساحة اللون التي يجب استخدامها للمزج. / windows / win32 / printdocs / pageblendcolorspaceiccprofileuri
 type: docs
-weight: 1820
+weight: 1830
 url: /ar/net/aspose.page.xps.xpsmetadata/pageblendcolorspaceiccprofileuri/
 ---
 ## PageBlendColorSpaceICCProfileURI class

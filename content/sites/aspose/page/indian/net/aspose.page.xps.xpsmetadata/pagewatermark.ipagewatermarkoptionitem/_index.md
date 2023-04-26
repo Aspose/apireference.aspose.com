@@ -3,7 +3,7 @@ title: Interface PageWatermark.IPageWatermarkOptionItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkIPageWatermarkOptionItem इंटरफेस. कस क इंटरफ़ेसPageWatermarkOption मद.
 type: docs
-weight: 2660
+weight: 2670
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermark.ipagewatermarkoptionitem/
 ---
 ## PageWatermark.IPageWatermarkOptionItem interface

@@ -3,7 +3,7 @@ title: Enum XpsDashCap
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsDashCap αρίθμηση. Έγκυρες τιμές της ιδιότητας StrokeDashCap του στοιχείου διαδρομής.
 type: docs
-weight: 3010
+weight: 3020
 url: /el/net/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enumeration

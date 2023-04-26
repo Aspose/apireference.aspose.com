@@ -3,7 +3,7 @@ title: PsDocument.Translate
 second_title: .NET API 참조용 Aspose.Page
 description: PsDocument 방법. 현재 그래픽 상태에 변환을 추가합니다현재 매트릭스 변환.
 type: docs
-weight: 280
+weight: 310
 url: /ko/net/aspose.page.eps/psdocument/translate/
 ---
 ## PsDocument.Translate method

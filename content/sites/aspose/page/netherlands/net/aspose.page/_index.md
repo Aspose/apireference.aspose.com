@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page
 second_title: Aspose.Page voor .NET API-referentie
-description: De Aspose.Pagina is een rootnaamruimte voor alle klassen van de Aspose.Pagebibliotheek die er direct in staan Apparaat of indirect via verschillende subnaamruimten.
+description: De Aspose.Paginais een rootnaamruimte voor alle klassen van de Aspose.Pagebibliotheek die er direct in staan Apparaat of indirect via verschillende subnaamruimten.
 type: docs
 weight: 10
 url: /nl/net/aspose.page/
 ---
-De **Aspose.Pagina** is een root-naamruimte voor alle klassen van de Aspose.Page-bibliotheek die er direct in staan **Apparaat** of indirect via verschillende subnaamruimten.
+De **Aspose.Pagina**is een root-naamruimte voor alle klassen van de Aspose.Page-bibliotheek die er direct in staan **Apparaat** of indirect via verschillende subnaamruimten.
 
 ## Klassen
 

@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp 班级. 描述了多个逻辑页面到单个物理表的输出和格式 每个文件都是单独编译的和JobNUpAllDocumentsContiguously 是互斥的由驱动程序决定这些关键字之间的约束处理 https//docs.microsoft.com/enus/windows/win32/printdocs/documentnup
 type: docs
-weight: 740
+weight: 750
 url: /zh/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

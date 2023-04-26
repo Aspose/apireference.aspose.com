@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark kelas. Menjelaskan pengaturan tanda air keluaran dan karakteristik tanda air. Tanda air apply ke halaman logis bukan halaman fisik. Misalnya jikaDocumentDuplex diaktifkan tanda air akan muncul di masingmasing halaman pada setiap lembar. JikaDocumentDuplex  2 maka setiap lembar akan memiliki 2 tanda air. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /id/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

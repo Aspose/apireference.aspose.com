@@ -3,7 +3,7 @@ title: Class PagePhotoPrintingIntent.PagePhotoPrintingIntentOption
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PagePhotoPrintingIntentPagePhotoPrintingIntentOption 班级. 定义PagePhotoPrintingIntent功能选项.
 type: docs
-weight: 2400
+weight: 2410
 url: /zh/net/aspose.page.xps.xpsmetadata/pagephotoprintingintent.pagephotoprintingintentoption/
 ---
 ## PagePhotoPrintingIntent.PagePhotoPrintingIntentOption class
@@ -30,7 +30,7 @@ public sealed class PagePhotoPrintingIntentOption : Option
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [None](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/none/) | No Photoprinting Intent（允许应用程序指定无意图分辨率。 PrintTicket 设置不应更改） |
+| static [None](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/none/) | 无照片打印意图（允许应用程序指定无意图分辨率。 不应更改 PrintTicket 设置） |
 | static [PhotoBest](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/photobest/) | 最佳质量照片打印（主要出于营销原因提供；利用设备的最高功能） |
 | static [PhotoDraft](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/photodraft/) | 草稿质量照片打印（用于打样的快速、低墨水量打印） |
 | static [PhotoStandard](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/photostandard/) | 标准质量照片打印（OEM 建议的标准照片打印设置） |

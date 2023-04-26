@@ -3,7 +3,7 @@ title: Interface PageResolution.IPageResolutionOptionItem
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionIPageResolutionOptionItem antarmuka. Antarmuka apa sajaPageResolutionOption barang.
 type: docs
-weight: 2450
+weight: 2460
 url: /id/net/aspose.page.xps.xpsmetadata/pageresolution.ipageresolutionoptionitem/
 ---
 ## PageResolution.IPageResolutionOptionItem interface

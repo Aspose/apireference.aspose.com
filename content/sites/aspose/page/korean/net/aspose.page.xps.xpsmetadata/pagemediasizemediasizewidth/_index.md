@@ -3,7 +3,7 @@ title: Class PageMediaSizeMediaSizeWidth
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeMediaSizeWidth 수업. 치수를 지정합니다. 사용자 정의 방향 option. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizemediasizewidth
 type: docs
-weight: 2100
+weight: 2110
 url: /ko/net/aspose.page.xps.xpsmetadata/pagemediasizemediasizewidth/
 ---
 ## PageMediaSizeMediaSizeWidth class

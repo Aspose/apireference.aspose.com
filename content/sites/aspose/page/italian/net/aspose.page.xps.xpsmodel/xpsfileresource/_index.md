@@ -3,7 +3,7 @@ title: Class XpsFileResource
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsFileResource classe. Classe che incapsula le caratteristiche comuni di tutte le risorse file.
 type: docs
-weight: 3060
+weight: 3070
 url: /it/net/aspose.page.xps.xpsmodel/xpsfileresource/
 ---
 ## XpsFileResource class

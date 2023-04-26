@@ -12,12 +12,13 @@ is_root: true
 
 | Spazio dei nomi | Descrizione |
 | --- | --- |
-| [Aspose.Page](./aspose.page/) | Il **Aspose.Page** è uno spazio dei nomi radice per tutte le classi della libreria Aspose.Page che si trovano direttamente al suo interno **Dispositivo** o indirettamente attraverso diversi sottospazi dei nomi. |
+| [Aspose.Page](./aspose.page/) | Il **Aspose.Page**è uno spazio dei nomi radice per tutte le classi della libreria Aspose.Page che si trovano direttamente al suo interno **Dispositivo** o indirettamente attraverso diversi sottospazi dei nomi. |
 | [Aspose.Page.EPS](./aspose.page.eps/) | Il **Aspose.Page.EPS** è uno spazio dei nomi radice per tutte le classi che gestiscono file PS/EPS. |
 | [Aspose.Page.EPS.Device](./aspose.page.eps.device/) | Il **Aspose.Page.EPS.Device** namespace fornisce classi di possibili dispositivi e opzioni di salvataggio che possono essere utilizzate durante la conversione di PS/EPS in altri formati. |
 | [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp/) | Il **Aspose.Page.EPS.XMP** namespace fornisce classi per la lettura e la modifica dei metadati XMP nei file EPS. |
 | [Aspose.Page.Font](./aspose.page.font/) | Il **Aspose.Page.Font** namespace contiene classi per la manipolazione dei caratteri. |
 | [Aspose.Page.XPS](./aspose.page.xps/) | Il **Aspose.Page.XPS** è uno spazio dei nomi radice per tutte le classi che si occupano di documenti XPS. |
+| [Aspose.Page.XPS.Features](./aspose.page.xps.features/) | Il **Aspose.Page.Xps.Features** lo spazio dei nomi fornisce funzionalità oltre la specifica XPS. |
 | [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | Il **Aspose.Page.Xps.Presentation**namespace fornisce classi di base per il rendering del documento XPS in altri formati. |
 | [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | Il **Aspose.Page.Xps.Presentation.Image** namespace fornisce classi per il rendering del documento XPS in un'immagine. |
 | [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | Il **Aspose.Page.Xps.Presentation.Pdf** namespace fornisce classi per il rendering di documenti XPS in documenti PDF. |

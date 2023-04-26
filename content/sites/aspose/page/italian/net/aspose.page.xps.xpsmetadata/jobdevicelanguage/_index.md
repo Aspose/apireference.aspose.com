@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage classe. Descrive le lingue del dispositivo supportate per linvio di dati dal driver al dispositivo fisico. Questo è spesso chiamato Lingua di descrizione della pagina. Questa parola chiave definisce la lingua della descrizione della pagina supportata dal driver e dal dispositivo fisico. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /it/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

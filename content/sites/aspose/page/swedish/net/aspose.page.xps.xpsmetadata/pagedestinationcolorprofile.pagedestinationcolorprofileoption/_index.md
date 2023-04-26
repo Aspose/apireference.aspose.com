@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile.PageDestinationColorProfileOption
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfilePageDestinationColorProfileOption klass. BeskriverPageDestinationColorProfile funktionsalternativ.
 type: docs
-weight: 1890
+weight: 1900
 url: /sv/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile.pagedestinationcolorprofileoption/
 ---
 ## PageDestinationColorProfile.PageDestinationColorProfileOption class

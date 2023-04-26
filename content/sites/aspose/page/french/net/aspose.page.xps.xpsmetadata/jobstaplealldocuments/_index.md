@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments classe. Décrit les caractéristiques dagrafage de la sortie. Tous les documents du travail sont agrafés ensemble. LeJobStapleAllDocuments etDocumentStaple les motsclés sexcluent mutuellement. Il appartient au pilote de déterminer la gestion des contraintes entre ces motsclés. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /fr/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

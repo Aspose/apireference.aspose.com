@@ -3,7 +3,7 @@ title: Class PageWatermarkTextColor
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextColor فصل. يحدد لون sRGB لنص العلامة المائية. التنسيق هو ARGB  AARRGGBB. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextcolor
 type: docs
-weight: 2730
+weight: 2740
 url: /ar/net/aspose.page.xps.xpsmetadata/pagewatermarktextcolor/
 ---
 ## PageWatermarkTextColor class

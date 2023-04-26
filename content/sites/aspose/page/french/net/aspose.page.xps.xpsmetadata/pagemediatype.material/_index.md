@@ -3,7 +3,7 @@ title: Class PageMediaType.Material
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeMaterial classe. Définit les constantes pour le valeur de propriété notée.
 type: docs
-weight: 2210
+weight: 2220
 url: /fr/net/aspose.page.xps.xpsmetadata/pagemediatype.material/
 ---
 ## PageMediaType.Material class

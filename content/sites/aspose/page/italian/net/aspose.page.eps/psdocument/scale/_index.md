@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: Aspose.Page per riferimento all'API .NET
 description: PsDocument metodo. Aggiunge scala allo stato grafico corrente scala matrice corrente.
 type: docs
-weight: 210
+weight: 230
 url: /it/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

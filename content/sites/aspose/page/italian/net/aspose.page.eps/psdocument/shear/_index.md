@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page per riferimento all'API .NET
 description: PsDocument metodo. Aggiunge la trasformazione di taglio allo stato grafico corrente matrice corrente di taglio.
 type: docs
-weight: 260
+weight: 290
 url: /it/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

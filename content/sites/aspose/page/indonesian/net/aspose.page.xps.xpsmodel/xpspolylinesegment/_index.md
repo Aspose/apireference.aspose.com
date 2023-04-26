@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment kelas. Kelas yang merangkum fitur elemen PolyLineSegment. Elemen ini mendeskripsikan gambar poligonal yang berisi jumlah sembarang simpul individu.
 type: docs
-weight: 3310
+weight: 3320
 url: /id/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

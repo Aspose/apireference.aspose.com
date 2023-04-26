@@ -3,7 +3,7 @@ title: Class DocumentInputBin
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentInputBin classe. Décrit le bac dentrée installé dans un périphérique ou la liste complète des bacs pris en charge pour un périphérique. LeJobInputBin DocumentInputBin  etPageInputBin Les motsclés sexcluent mutuellement. Les deux ne doivent pas être spécifiés simultanément dans un document PrintTicket ou Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/documentinputbin
 type: docs
-weight: 730
+weight: 740
 url: /fr/net/aspose.page.xps.xpsmetadata/documentinputbin/
 ---
 ## DocumentInputBin class

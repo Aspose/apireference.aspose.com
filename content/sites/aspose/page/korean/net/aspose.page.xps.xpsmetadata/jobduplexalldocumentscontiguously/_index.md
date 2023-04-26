@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously 수업. 출력의 이중 특성을 설명합니다. 양면 인쇄 기능을 사용하면 용지 양면에 인쇄할 수 있습니다. 작업의 모든 문서가 연속적으로 함께 양면 인쇄됩니다. JobDuplexAllDocumentsContiguously 그리고DocumentDuplex상호 배타적입니다. 이러한 키워드 간의 제약 조건 처리를 결정하는 것은 드라이버에 달려 있습니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /ko/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

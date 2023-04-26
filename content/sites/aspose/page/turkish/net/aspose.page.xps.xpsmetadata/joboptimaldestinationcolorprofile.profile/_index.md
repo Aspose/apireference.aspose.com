@@ -3,7 +3,7 @@ title: Class JobOptimalDestinationColorProfile.Profile
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobOptimalDestinationColorProfileProfile sınıf. Mevcut renk profillerini açıklar.
 type: docs
-weight: 1410
+weight: 1420
 url: /tr/net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile.profile/
 ---
 ## JobOptimalDestinationColorProfile.Profile class

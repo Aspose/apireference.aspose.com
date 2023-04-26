@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront clase. Describe la portada principio delantera. Cada documento tendrá una hoja separada. La portada debe estar impresa en elPageMediaSize yPageMediaType utilizado para la primera página del documento. La portada debe integrarse en las opciones de procesamiento comoDocumentDuplex DocumentNUp  como lo indica la opción especificada. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /es/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

@@ -1,14 +1,14 @@
 ---
 title: PsDocument.SetPageSize
 second_title: Aspose.Page για Αναφορά API .NET
-description: PsDocument μέθοδος. Ορίζει το μέγεθος σελίδας. Για να δημιουργήσετε σελίδες με διαφορετικά μεγέθη σε ένα έγγραφο χρησιμοποιήστεSetPageDevice Μέθοδος αμέσως μετά από αυτήν τη μέθοδο.
+description: PsDocument μέθοδος. Ορίζει το μέγεθος σελίδας. Για να δημιουργήσετε σελίδες με διαφορετικά μεγέθη σε ένα έγγραφο χρησιμοποιήστεSetPageDeviceΜέθοδος αμέσως μετά από αυτήν τη μέθοδο.
 type: docs
-weight: 230
+weight: 250
 url: /el/net/aspose.page.eps/psdocument/setpagesize/
 ---
 ## PsDocument.SetPageSize method
 
-Ορίζει το μέγεθος σελίδας. Για να δημιουργήσετε σελίδες με διαφορετικά μεγέθη σε ένα έγγραφο χρησιμοποιήστε[`SetPageDevice`](../setpagedevice/) Μέθοδος αμέσως μετά από αυτήν τη μέθοδο.
+Ορίζει το μέγεθος σελίδας. Για να δημιουργήσετε σελίδες με διαφορετικά μεγέθη σε ένα έγγραφο χρησιμοποιήστε[`SetPageDevice`](../setpagedevice/)Μέθοδος αμέσως μετά από αυτήν τη μέθοδο.
 
 ```csharp
 public void SetPageSize(float width, float height)

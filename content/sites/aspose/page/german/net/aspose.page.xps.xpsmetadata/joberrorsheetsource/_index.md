@@ -3,7 +3,7 @@ title: Class JobErrorSheetSource
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetSource klas. Gibt die Quelle für ein benutzerdefiniertes Fehlerblatt an. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheetsource
 type: docs
-weight: 1340
+weight: 1350
 url: /de/net/aspose.page.xps.xpsmetadata/joberrorsheetsource/
 ---
 ## JobErrorSheetSource class

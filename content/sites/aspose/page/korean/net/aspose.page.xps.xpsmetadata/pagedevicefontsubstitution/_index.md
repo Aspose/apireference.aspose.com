@@ -3,7 +3,7 @@ title: Class PageDeviceFontSubstitution
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceFontSubstitution 수업. 장치 글꼴 대체의 활성화/비활성화 상태를 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicefontsubstitution
 type: docs
-weight: 1950
+weight: 1960
 url: /ko/net/aspose.page.xps.xpsmetadata/pagedevicefontsubstitution/
 ---
 ## PageDeviceFontSubstitution class

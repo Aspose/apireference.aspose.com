@@ -3,7 +3,7 @@ title: Class DocumentImpositionColor
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentImpositionColor сорт. Содержимое приложения помеченное указанным цветом ДОЛЖНО отображаться во всех цветоделениях. https//docs.microsoft.com/enus/windows/win32/printdocs/documentimpositioncolor
 type: docs
-weight: 720
+weight: 730
 url: /ru/net/aspose.page.xps.xpsmetadata/documentimpositioncolor/
 ---
 ## DocumentImpositionColor class

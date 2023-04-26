@@ -3,7 +3,7 @@ title: Class JobPrintTicket
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobPrintTicket sınıf. İş düzeyinde bir basılı bileti kapsayan sınıf.
 type: docs
-weight: 1560
+weight: 1570
 url: /tr/net/aspose.page.xps.xpsmetadata/jobprintticket/
 ---
 ## JobPrintTicket class

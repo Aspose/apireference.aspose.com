@@ -3,7 +3,7 @@ title: Class XpsPolyQuadraticBezierSegment
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsPolyQuadraticBezierSegment 班级. 封装 PolyQuadraticBezierSegment 元素特征的类 该元素描述了一组二次贝塞尔曲线从上一个点 in 路径图形通过一组顶点使用指定的控制点
 type: docs
-weight: 3320
+weight: 3330
 url: /zh/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

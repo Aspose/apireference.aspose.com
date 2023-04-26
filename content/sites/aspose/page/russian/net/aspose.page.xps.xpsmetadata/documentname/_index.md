@@ -3,7 +3,7 @@ title: Class DocumentName
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentName сорт. Указывает описательное имя для документа. https//docs.microsoft.com/enus/windows/win32/printdocs/documentname
 type: docs
-weight: 750
+weight: 760
 url: /ru/net/aspose.page.xps.xpsmetadata/documentname/
 ---
 ## DocumentName class

@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeight
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeight klas. Specificeert de hoogte van de pagina parallel aan de invoerrichting. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheight
 type: docs
-weight: 2110
+weight: 2120
 url: /nl/net/aspose.page.xps.xpsmetadata/pagemediasizepsheight/
 ---
 ## PageMediaSizePSHeight class

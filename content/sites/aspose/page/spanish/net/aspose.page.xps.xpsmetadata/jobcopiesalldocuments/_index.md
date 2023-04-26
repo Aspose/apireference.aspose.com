@@ -3,7 +3,7 @@ title: Class JobCopiesAllDocuments
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobCopiesAllDocuments clase. Especifica el número de copias de un trabajo. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcopiesalldocuments
 type: docs
-weight: 1220
+weight: 1230
 url: /es/net/aspose.page.xps.xpsmetadata/jobcopiesalldocuments/
 ---
 ## JobCopiesAllDocuments class

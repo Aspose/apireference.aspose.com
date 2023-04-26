@@ -3,7 +3,7 @@ title: Class PageMediaType.Material
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeMaterial 班级. 定义常量得分属性值.
 type: docs
-weight: 2210
+weight: 2220
 url: /zh/net/aspose.page.xps.xpsmetadata/pagemediatype.material/
 ---
 ## PageMediaType.Material class

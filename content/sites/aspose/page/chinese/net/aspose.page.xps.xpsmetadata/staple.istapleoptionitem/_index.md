@@ -3,7 +3,7 @@ title: Interface Staple.IStapleOptionItem
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.StapleIStapleOptionItem 界面. 任何接口StapleOption项目.
 type: docs
-weight: 2880
+weight: 2890
 url: /zh/net/aspose.page.xps.xpsmetadata/staple.istapleoptionitem/
 ---
 ## Staple.IStapleOptionItem interface

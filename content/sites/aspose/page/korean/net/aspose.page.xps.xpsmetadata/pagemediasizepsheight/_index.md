@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeight
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeight 수업. 피드 방향과 평행한 페이지 높이를 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheight
 type: docs
-weight: 2110
+weight: 2120
 url: /ko/net/aspose.page.xps.xpsmetadata/pagemediasizepsheight/
 ---
 ## PageMediaSizePSHeight class

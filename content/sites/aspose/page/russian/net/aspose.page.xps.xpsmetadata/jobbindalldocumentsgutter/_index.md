@@ -3,7 +3,7 @@ title: Class JobBindAllDocumentsGutter
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsGutter сорт. Задает ширину переплета. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocumentsgutter
 type: docs
-weight: 1190
+weight: 1200
 url: /ru/net/aspose.page.xps.xpsmetadata/jobbindalldocumentsgutter/
 ---
 ## JobBindAllDocumentsGutter class

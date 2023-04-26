@@ -3,7 +3,7 @@ title: Class PdfSaveOptions
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfSaveOptions فصل. فئة لخيارات حفظ XPS بصيغة PDF .
 type: docs
-weight: 440
+weight: 450
 url: /ar/net/aspose.page.xps.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

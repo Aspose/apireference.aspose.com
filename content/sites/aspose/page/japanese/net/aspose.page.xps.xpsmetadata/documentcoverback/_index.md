@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack クラス. 裏エンディング表紙を記述します各ドキュメントには個別のシートがあります カバー シートはPageMediaSizeとPageMediaType はドキュメントの最終ページに使用されますカバー シートは処理 options に統合する必要があります DocumentDuplex DocumentNUp  指定されたオプションで示される. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /ja/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

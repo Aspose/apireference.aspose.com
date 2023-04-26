@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page für .NET-API-Referenz
 description: PsDocument methode. Fügt dem aktuellen Grafikzustand eine Schertransformation hinzu Scherstrommatrix.
 type: docs
-weight: 260
+weight: 290
 url: /de/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

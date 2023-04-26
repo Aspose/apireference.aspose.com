@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage сорт. Описывает языки устройства поддерживаемые для отправки данных от драйвера на физическое устройство. Часто его называют языком описания страницы. Это ключевое слово определяет какой язык описания страницы поддерживается драйвером и физическим устройством. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /ru/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

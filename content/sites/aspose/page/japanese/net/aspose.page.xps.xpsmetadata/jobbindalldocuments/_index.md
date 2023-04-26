@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocuments クラス. バインド方法を記述しますジョブ内のすべての文書が製本されます. JobBindAllDocumentsとDocumentBinding相互に排他的です. これらのキーワード間の制約処理を決定するのはドライバー次第です. https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocuments
 type: docs
-weight: 1150
+weight: 1160
 url: /ja/net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

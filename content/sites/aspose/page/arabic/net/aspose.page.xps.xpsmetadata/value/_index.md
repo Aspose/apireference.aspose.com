@@ -3,7 +3,7 @@ title: Class Value
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.Value فصل. الفئة الأساسية التي تتضمن ملفProperty أو أScoredProperty قيمة في مستند PrintTicket . يربط عنصر القيمة حرفيًا بالنوع . https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 2930
+weight: 2940
 url: /ar/net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class

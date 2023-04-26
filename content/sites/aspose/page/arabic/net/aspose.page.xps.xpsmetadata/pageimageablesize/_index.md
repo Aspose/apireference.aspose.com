@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize فصل. يصف اللوحة المصورة للتخطيط والعرض. سيتم الإبلاغ عن هذا بناءً على PageMediaSize وPageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /ar/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

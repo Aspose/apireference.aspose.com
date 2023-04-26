@@ -3,7 +3,7 @@ title: Enum XpsDashCap
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsDashCap Sıralama. Yol öğesinin StrokeDashCap özelliğinin geçerli değerleri.
 type: docs
-weight: 3010
+weight: 3020
 url: /tr/net/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enumeration

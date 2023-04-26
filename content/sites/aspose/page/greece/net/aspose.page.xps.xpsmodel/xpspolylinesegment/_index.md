@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment τάξη. Χαρακτηριστικά στοιχείου PolyLineSegment που ενσωματώνει κλάση. Αυτό το στοιχείο περιγράφει ένα πολυγωνικό σχέδιο που περιέχει έναν αυθαίρετο αριθμό μεμονωμένων κορυφών.
 type: docs
-weight: 3310
+weight: 3320
 url: /el/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

@@ -3,7 +3,7 @@ title: Class JobInputBin
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobInputBin τάξη. Περιγράφει τον εγκατεστημένο κάδο εισόδου σε μια συσκευή ή την πλήρη λίστα των υποστηριζόμενων δοχείων για μια συσκευή. Επιτρέπει την προδιαγραφή του δοχείου εισόδου ανά εργασία. οJobInputBin DocumentInputBin  καιPageInputBin οι λέξειςκλειδιά είναι αμοιβαία αποκλειόμενες. Και τα δύο δεν πρέπει να προσδιορίζονται ταυτόχρονα σε ένα έγγραφο PrintTicket ή Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/jobinputbin
 type: docs
-weight: 1370
+weight: 1380
 url: /el/net/aspose.page.xps.xpsmetadata/jobinputbin/
 ---
 ## JobInputBin class

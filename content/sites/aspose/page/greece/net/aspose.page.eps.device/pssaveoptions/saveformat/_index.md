@@ -11,7 +11,7 @@ url: /el/net/aspose.page.eps.device/pssaveoptions/saveformat/
 Η μορφή αποθήκευσης του αρχείου που προκύπτει.
 
 ```csharp
-public #=zVeDKvb93yYvf1v5gLIr7_ZY$TrodRiVPyQ== SaveFormat { get; set; }
+public #=zdi79JyoaG5rAbaLozfXqNxrwlXEFTebakg== SaveFormat { get; set; }
 ```
 
 ### Δείτε επίσης

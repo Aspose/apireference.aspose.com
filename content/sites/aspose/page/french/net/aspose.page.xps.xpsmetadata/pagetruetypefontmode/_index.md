@@ -3,7 +3,7 @@ title: Class PageTrueTypeFontMode
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageTrueTypeFontMode classe. Décrit la méthode de gestion des polices TrueType à utiliser. https//docs.microsoft.com/enus/windows/win32/printdocs/pagetruetypefontmode
 type: docs
-weight: 2620
+weight: 2630
 url: /fr/net/aspose.page.xps.xpsmetadata/pagetruetypefontmode/
 ---
 ## PageTrueTypeFontMode class

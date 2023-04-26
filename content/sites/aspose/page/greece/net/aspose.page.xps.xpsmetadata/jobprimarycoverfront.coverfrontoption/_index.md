@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront.CoverFrontOption
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontCoverFrontOption τάξη. Περιγράφει τοJobPrimaryCoverFront επιλογές χαρακτηριστικών.
 type: docs
-weight: 1540
+weight: 1550
 url: /el/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront.coverfrontoption/
 ---
 ## JobPrimaryCoverFront.CoverFrontOption class

@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceUsage
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceUsage klas. In Verbindung mit derPageDeviceColorSpaceProfileURI Parameter dieser Parameter definiert das Wiedergabeverhalten für Elemente die in einem Gerätefarbraum dargestellt werden. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceusage
 type: docs
-weight: 1930
+weight: 1940
 url: /de/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
 ---
 ## PageDeviceColorSpaceUsage class

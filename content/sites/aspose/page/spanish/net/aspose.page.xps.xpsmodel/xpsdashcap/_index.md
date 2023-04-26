@@ -3,7 +3,7 @@ title: Enum XpsDashCap
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsModel.XpsDashCap enumeración. Valores válidos de la propiedad StrokeDashCap del elemento Path.
 type: docs
-weight: 3010
+weight: 3020
 url: /es/net/aspose.page.xps.xpsmodel/xpsdashcap/
 ---
 ## XpsDashCap enumeration

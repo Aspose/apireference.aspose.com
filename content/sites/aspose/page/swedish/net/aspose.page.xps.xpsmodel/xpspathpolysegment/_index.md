@@ -3,7 +3,7 @@ title: Class XpsPathPolySegment
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsPathPolySegment klass. Klass som inkapslar vanliga egenskaper hos PolyLineSegment PolyBézierSegment och PolyQuadraticBézierSegment element.
 type: docs
-weight: 3280
+weight: 3290
 url: /sv/net/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class

@@ -3,7 +3,7 @@ title: Class PageMediaSizeMediaSizeWidth
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeMediaSizeWidth τάξη. Καθορίζει τη διάσταση κατεύθυνση για το έθιμο επιλογή. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizemediasizewidth
 type: docs
-weight: 2100
+weight: 2110
 url: /el/net/aspose.page.xps.xpsmetadata/pagemediasizemediasizewidth/
 ---
 ## PageMediaSizeMediaSizeWidth class

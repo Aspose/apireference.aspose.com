@@ -3,7 +3,7 @@ title: Class JobOutputOptimization
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobOutputOptimization クラス. 指定されたオプションで示されるように特定の使用シナリオに合わせて出力を最適化することを目的としたジョブ処理について説明します
 type: docs
-weight: 1430
+weight: 1440
 url: /ja/net/aspose.page.xps.xpsmetadata/joboutputoptimization/
 ---
 ## JobOutputOptimization class

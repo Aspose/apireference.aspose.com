@@ -3,7 +3,7 @@ title: PsDocument.Transform
 second_title: Aspose.Page pour la référence de l'API .NET
 description: PsDocument méthode. Ajoute une transformation à létat graphique actuel concatène cette matrice avec celle actuelle.
 type: docs
-weight: 270
+weight: 300
 url: /fr/net/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument.Transform method

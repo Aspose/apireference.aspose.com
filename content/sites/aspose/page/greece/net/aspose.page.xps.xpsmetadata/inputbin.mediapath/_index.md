@@ -3,7 +3,7 @@ title: Class InputBin.MediaPath
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath τάξη. Ορίζει σταθερές για το βαθμολογία ιδιότητας.
 type: docs
-weight: 1080
+weight: 1090
 url: /el/net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class

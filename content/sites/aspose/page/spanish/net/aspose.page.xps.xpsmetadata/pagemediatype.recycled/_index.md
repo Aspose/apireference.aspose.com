@@ -3,7 +3,7 @@ title: Class PageMediaType.Recycled
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeRecycled clase. Define constantes para el valor de propiedad puntuado.
 type: docs
-weight: 2250
+weight: 2260
 url: /es/net/aspose.page.xps.xpsmetadata/pagemediatype.recycled/
 ---
 ## PageMediaType.Recycled class

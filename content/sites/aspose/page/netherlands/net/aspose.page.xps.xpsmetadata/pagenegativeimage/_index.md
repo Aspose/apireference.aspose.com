@@ -3,7 +3,7 @@ title: Class PageNegativeImage
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageNegativeImage klas. Beschrijft de negatieve instelling van de uitvoer. https//docs.microsoft.com/enus/windows/win32/printdocs/pagenegativeimage
 type: docs
-weight: 2280
+weight: 2290
 url: /nl/net/aspose.page.xps.xpsmetadata/pagenegativeimage/
 ---
 ## PageNegativeImage class

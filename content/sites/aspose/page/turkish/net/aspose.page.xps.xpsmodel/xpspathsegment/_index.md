@@ -3,7 +3,7 @@ title: Class XpsPathSegment
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsPathSegment sınıf. Tüm yol parçası öğelerinin ortak özelliklerini kapsayan sınıf.
 type: docs
-weight: 3290
+weight: 3300
 url: /tr/net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

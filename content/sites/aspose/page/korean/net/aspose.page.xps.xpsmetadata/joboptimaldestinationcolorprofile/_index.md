@@ -3,7 +3,7 @@ title: Class JobOptimalDestinationColorProfile
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobOptimalDestinationColorProfile 수업. 주어진 현재 장치 구성에 따라 최적의 색상 프로필을 지정합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/joboptimaldestinationcolorprofile
 type: docs
-weight: 1400
+weight: 1410
 url: /ko/net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile/
 ---
 ## JobOptimalDestinationColorProfile class

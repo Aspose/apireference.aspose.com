@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack klas. Beschreibt das hintere endliche Deckblatt. Jeder Auftrag hat ein separates Primärblatt. Das Deckblatt sollte auf dem gedruckt werdenPageMediaSize UndPageMediaType wird für die letzte Seite des Auftrags verwendet. Das Deckblatt sollte in Verarbeitungsoptionen integriert werden wie zJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  wie durch die angegebene Option angegeben. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /de/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

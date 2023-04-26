@@ -3,7 +3,7 @@ title: Class PageWatermarkTextAngle
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextAngle сорт. Указывает угол текста водяного знака относительно direction. Угол измеряется против часовой стрелки. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextangle
 type: docs
-weight: 2720
+weight: 2730
 url: /ru/net/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

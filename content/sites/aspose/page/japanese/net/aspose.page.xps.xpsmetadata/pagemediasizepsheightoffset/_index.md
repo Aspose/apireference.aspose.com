@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeightOffset
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeightOffset クラス. 送り方向に平行なオフセットを指定します
 type: docs
-weight: 2120
+weight: 2130
 url: /ja/net/aspose.page.xps.xpsmetadata/pagemediasizepsheightoffset/
 ---
 ## PageMediaSizePSHeightOffset class

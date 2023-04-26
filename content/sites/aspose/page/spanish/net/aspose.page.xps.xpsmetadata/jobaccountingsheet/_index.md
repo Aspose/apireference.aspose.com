@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet clase. Describe la hoja de contabilidad que se generará para el trabajo. La hoja de contabilidad debe salir en default PageMediaSize y usando el valor predeterminadoPageMediaType . La hoja de contabilidad debe estar aislada del resto del trabajo. Esto significa que cualquier opción de acabado o procesamiento como   o  no debe incluir la hoja de contabilidad. La hoja de contabilidad puede aparecer como la primera o la última página del trabajo a discreción del implementador. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /es/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

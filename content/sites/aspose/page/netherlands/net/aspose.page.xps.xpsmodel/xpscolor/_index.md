@@ -3,7 +3,7 @@ title: Class XpsColor
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsColor klas. De basisklasse die gemeenschappelijke kleurkenmerken bevat.
 type: docs
-weight: 2980
+weight: 2990
 url: /nl/net/aspose.page.xps.xpsmodel/xpscolor/
 ---
 ## XpsColor class

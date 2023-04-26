@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsDocument 班级. 类封装 XPS 文档的主要实体为任何 XPS 元素提供操作 方法
 type: docs
-weight: 470
+weight: 480
 url: /zh/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class

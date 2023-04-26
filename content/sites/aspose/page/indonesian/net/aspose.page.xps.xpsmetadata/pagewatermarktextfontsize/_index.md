@@ -3,7 +3,7 @@ title: Class PageWatermarkTextFontSize
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextFontSize kelas. Menentukan ukuran font yang tersedia untuk teks watermark. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextfontsize
 type: docs
-weight: 2740
+weight: 2750
 url: /id/net/aspose.page.xps.xpsmetadata/pagewatermarktextfontsize/
 ---
 ## PageWatermarkTextFontSize class

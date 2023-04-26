@@ -3,7 +3,7 @@ title: Class JobCollateAllDocuments
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobCollateAllDocuments classe. Décrit les caractéristiques dassemblage de la sortie. Tous les documents de chaque travail individuel sont assemblés. DocumentCollate etJobCollateAllDocumentssont mutuellement exclusifs. Le comportement et la mise en œuvre de limplémentation de ces deux mots clés ou dun seul sont laissés au pilote. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcollatealldocuments
 type: docs
-weight: 1200
+weight: 1210
 url: /fr/net/aspose.page.xps.xpsmetadata/jobcollatealldocuments/
 ---
 ## JobCollateAllDocuments class

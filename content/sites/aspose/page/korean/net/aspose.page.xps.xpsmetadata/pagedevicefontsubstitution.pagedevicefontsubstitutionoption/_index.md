@@ -3,7 +3,7 @@ title: Class PageDeviceFontSubstitution.PageDeviceFontSubstitutionOption
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceFontSubstitutionPageDeviceFontSubstitutionOption 수업. 설명PageDeviceFontSubstitution 기능 옵션.
 type: docs
-weight: 1960
+weight: 1970
 url: /ko/net/aspose.page.xps.xpsmetadata/pagedevicefontsubstitution.pagedevicefontsubstitutionoption/
 ---
 ## PageDeviceFontSubstitution.PageDeviceFontSubstitutionOption class

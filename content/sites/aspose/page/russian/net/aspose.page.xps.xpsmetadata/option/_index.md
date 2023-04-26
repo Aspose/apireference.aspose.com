@@ -3,7 +3,7 @@ title: Class Option
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.Option сорт. Класс реализующий общий PrintTicket . Базовый класс для всех опций определенных схемой. Элемент Option содержит всеProperty и ScoredProperty элементы связанные с этой опцией. https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 1650
+weight: 1660
 url: /ru/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

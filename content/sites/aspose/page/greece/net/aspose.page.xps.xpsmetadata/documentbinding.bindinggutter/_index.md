@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingGutter
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingGutter τάξη. Περιγράφει τον τρόπο καθορισμού του βαθμολογημένη τιμή ιδιότητας είτε με ακέραια τιμή είτε με αναφορά στο παράμετρος.
 type: docs
-weight: 570
+weight: 580
 url: /el/net/aspose.page.xps.xpsmetadata/documentbinding.bindinggutter/
 ---
 ## DocumentBinding.BindingGutter class

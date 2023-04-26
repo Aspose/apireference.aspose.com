@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfile 수업. 대상 색상 프로필의 특성을 정의합니다. 응용 프로그램 또는 드라이버가 사용할 대상 색상 프로필을 선택하는지 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofile
 type: docs
-weight: 1880
+weight: 1890
 url: /ko/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

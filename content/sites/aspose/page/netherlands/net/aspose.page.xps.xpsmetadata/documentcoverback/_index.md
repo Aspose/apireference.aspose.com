@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack klas. Beschrijft het achterblad eindblad. Elk document heeft een apart vel. Het voorblad moet worden afgedrukt op dePageMediaSize EnPageMediaType gebruikt voor de laatste pagina van het document. Het voorblad moet worden geïntegreerd in processing options zoalsDocumentDuplex DocumentNUp  zoals aangegeven door de opgegeven optie. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /nl/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

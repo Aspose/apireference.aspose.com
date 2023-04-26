@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget 班级. 封装相对命名地址超链接目标的类
 type: docs
-weight: 3040
+weight: 3050
 url: /zh/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

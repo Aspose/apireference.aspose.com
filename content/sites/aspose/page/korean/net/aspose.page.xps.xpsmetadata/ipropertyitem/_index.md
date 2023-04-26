@@ -3,7 +3,7 @@ title: Interface IPropertyItem
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IPropertyItem 상호 작용. PrintTicket일 수 있는 클래스의 기본 인터페이스Property 항목.
 type: docs
-weight: 980
+weight: 990
 url: /ko/net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

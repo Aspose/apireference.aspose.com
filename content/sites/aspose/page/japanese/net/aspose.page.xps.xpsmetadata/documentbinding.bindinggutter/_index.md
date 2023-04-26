@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingGutter
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingGutter クラス. 指定方法について説明しますスコアリングされたプロパティ値 整数値またはパラメータ.
 type: docs
-weight: 570
+weight: 580
 url: /ja/net/aspose.page.xps.xpsmetadata/documentbinding.bindinggutter/
 ---
 ## DocumentBinding.BindingGutter class

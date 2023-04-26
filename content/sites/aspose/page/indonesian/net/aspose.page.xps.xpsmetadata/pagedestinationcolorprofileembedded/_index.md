@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfileEmbedded
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfileEmbedded kelas. Menentukan profil warna tujuan tersemat. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofileembedded
 type: docs
-weight: 1900
+weight: 1910
 url: /id/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileembedded/
 ---
 ## PageDestinationColorProfileEmbedded class
@@ -25,7 +25,7 @@ public sealed class PageDestinationColorProfileEmbedded : StringParameterInit,
 
 | Nama | Keterangan |
 | --- | --- |
-| virtual [MaxLength](../../aspose.page.xps.xpsmetadata/stringparameterinit/maxlength/) { get; } | Untuk nilai string, tentukan string terpanjang yang diperbolehkan. |
+| virtual [MaxLength](../../aspose.page.xps.xpsmetadata/stringparameterinit/maxlength/) { get; } | Untuk nilai string, tentukan string terpanjang yang diizinkan. |
 | virtual [MinLength](../../aspose.page.xps.xpsmetadata/stringparameterinit/minlength/) { get; } | Untuk nilai string, tentukan string terpendek yang diizinkan. |
 | [Name](../../aspose.page.xps.xpsmetadata/printticketelement/name/) { get; } | Mendapat nama elemen. |
 

@@ -3,7 +3,7 @@ title: Class InputBin
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.InputBin klas. Die Basisklasse fürJobInputBin DocumentInputBin undPageInputBin FeaturesKlassen.
 type: docs
-weight: 1000
+weight: 1010
 url: /de/net/aspose.page.xps.xpsmetadata/inputbin/
 ---
 ## InputBin class

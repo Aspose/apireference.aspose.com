@@ -3,7 +3,7 @@ title: Class JobInputBin
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobInputBin कक्ष. डवइस में स्थपत इनपुट बन य डवइस के लए समर्थत बन क पूर सूच क वर्णन करत है प्रत कर्य के आधर पर इनपुट बन के वनर्देशन क अनुमत देत हैJobInputBin DocumentInputBin  औरPageInputBin कवर्ड परस्पर अनन्य हैं दनं क PrintTicket य Print Capabilities दस्तवेज़ में एक सथ नर्दष्ट नहं कय जन चहए https//docs.microsoft.com/enus/windows/win32/printdocs/jobinputbin
 type: docs
-weight: 1370
+weight: 1380
 url: /hi/net/aspose.page.xps.xpsmetadata/jobinputbin/
 ---
 ## JobInputBin class

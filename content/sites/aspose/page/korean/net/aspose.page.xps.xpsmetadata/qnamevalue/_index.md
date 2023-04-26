@@ -3,7 +3,7 @@ title: Class QNameValue
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.QNameValue 수업. PrintTicket 문서에서 QName 값을 캡슐화하는 클래스입니다.
 type: docs
-weight: 2820
+weight: 2830
 url: /ko/net/aspose.page.xps.xpsmetadata/qnamevalue/
 ---
 ## QNameValue class

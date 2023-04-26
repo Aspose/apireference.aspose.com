@@ -3,7 +3,7 @@ title: Class PageMediaType.Recycled
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeRecycled sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 2250
+weight: 2260
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediatype.recycled/
 ---
 ## PageMediaType.Recycled class

@@ -3,7 +3,7 @@ title: Class PagePrintTicket
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PagePrintTicket klass. Klassen som inkapslar en utskriftsbiljett på sidnivå.
 type: docs
-weight: 2420
+weight: 2430
 url: /sv/net/aspose.page.xps.xpsmetadata/pageprintticket/
 ---
 ## PagePrintTicket class

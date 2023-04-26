@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet klas. Beschreibt die Ausgabe des Fehlerblatts. Der gesamte Job hat ein einziges Fehlerblatt. Standardmäßig sollte der Fehler sheet ausgegeben werdenPageMediaSize und die Standardeinstellung verwendenPageMediaType . Das Fehlerblatt sollte vom Rest des Jobs isoliert werden. Das bedeutet dass alle Endbearbeitungs oder Verarbeitungsoptionen wie z   oder  sollte das Fehlerblatt nicht enthalten. Das Fehlerblatt sollte als letztes Blatt des Auftrags erscheinen. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /de/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

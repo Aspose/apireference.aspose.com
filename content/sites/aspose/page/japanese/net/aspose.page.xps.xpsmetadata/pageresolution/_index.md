@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageResolution クラス. 印刷出力のページ解像度を定性値または 1 インチあたりのドット数またはその両方として定義します
 type: docs
-weight: 2430
+weight: 2440
 url: /ja/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

@@ -3,7 +3,7 @@ title: Interface InputBin.IInputBinItem
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.InputBinIInputBinItem koppel. De interface van elkJobInputBin DocumentInputBin enPageInputBin functieitem.
 type: docs
-weight: 1050
+weight: 1060
 url: /nl/net/aspose.page.xps.xpsmetadata/inputbin.iinputbinitem/
 ---
 ## InputBin.IInputBinItem interface

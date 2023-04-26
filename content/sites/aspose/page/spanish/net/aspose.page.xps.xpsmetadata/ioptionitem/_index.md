@@ -3,7 +3,7 @@ title: Interface IOptionItem
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.IOptionItem interfaz. La interfaz de clases que pueden ser Print SchemaOption artículos.
 type: docs
-weight: 940
+weight: 950
 url: /es/net/aspose.page.xps.xpsmetadata/ioptionitem/
 ---
 ## IOptionItem interface

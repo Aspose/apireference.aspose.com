@@ -3,7 +3,7 @@ title: Class ParameterRef
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.ParameterRef فصل. الفئة التي تنفذ مرجع معلمة PrintTicket شائع . A عنصر يحدد إشارة إلىParameterInitعنصر . أScoredProperty العنصر الذي يحتوي على عنصر ParameterRef لا يحتوي على مجموعة محددة بشكل صريحValue عنصر. بدلا من ذلك  فإنScoredProperty يتلقى element قيمته من ملفParameterInit عنصر مشار إليه من قبل أ element. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterref
 type: docs
-weight: 2780
+weight: 2790
 url: /ar/net/aspose.page.xps.xpsmetadata/parameterref/
 ---
 ## ParameterRef class

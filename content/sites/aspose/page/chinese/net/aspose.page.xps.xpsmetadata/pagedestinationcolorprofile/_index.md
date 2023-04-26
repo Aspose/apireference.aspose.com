@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfile 班级. 定义目标颜色配置文件的特征 描述应用程序或驱动程序是否选择要使用的目标颜色配置文件 https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofile
 type: docs
-weight: 1880
+weight: 1890
 url: /zh/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

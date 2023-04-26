@@ -3,7 +3,7 @@ title: Class PageScaling.ScaleOffsetAlignment
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignment klass. Beskriver inre feature.
 type: docs
-weight: 2510
+weight: 2520
 url: /sv/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignment/
 ---
 ## PageScaling.ScaleOffsetAlignment class

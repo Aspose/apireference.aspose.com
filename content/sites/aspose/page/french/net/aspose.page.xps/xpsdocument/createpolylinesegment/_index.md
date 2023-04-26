@@ -17,7 +17,7 @@ public XpsPolyLineSegment CreatePolyLineSegment(PointF[] points, bool isStroked 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | points | PointF[] | Ensemble de coordonnées pour les multiples segments qui définissent le segment de polyligne. |
-| isStroked | Boolean | Spécifie si le trait de ce segment du chemin est dessiné. |
+| isStroked | Boolean | Spécifie si le trait de ce segment du chemin est tracé. |
 
 ### Return_Value
 

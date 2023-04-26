@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode klass. Definierar möjliga värden förDuplexOption s poängsatt egenskap.
 type: docs
-weight: 850
+weight: 860
 url: /sv/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

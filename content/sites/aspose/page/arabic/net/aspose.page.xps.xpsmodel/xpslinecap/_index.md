@@ -3,7 +3,7 @@ title: Enum XpsLineCap
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsLineCap تعداد. القيم الصالحة لخصائص StrokeStartLineCap و StrokeEndLineCap لعنصر المسار.
 type: docs
-weight: 3180
+weight: 3190
 url: /ar/net/aspose.page.xps.xpsmodel/xpslinecap/
 ---
 ## XpsLineCap enumeration

@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsDocument فصل. فئة تتضمن الكيان الرئيسي لمستند XPS الذي يوفر طرق manipulation لأي عنصر XPS .
 type: docs
-weight: 470
+weight: 480
 url: /ar/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class

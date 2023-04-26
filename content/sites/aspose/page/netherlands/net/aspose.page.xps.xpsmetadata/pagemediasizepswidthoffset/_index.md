@@ -3,7 +3,7 @@ title: Class PageMediaSizePSWidthOffset
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSWidthOffset klas. Specificeert de offset loodrecht op de invoerrichting. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepswidthoffset
 type: docs
-weight: 2150
+weight: 2160
 url: /nl/net/aspose.page.xps.xpsmetadata/pagemediasizepswidthoffset/
 ---
 ## PageMediaSizePSWidthOffset class

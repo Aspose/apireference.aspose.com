@@ -3,7 +3,7 @@ title: Class DocumentDuplex
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentDuplex فصل. يصف خصائص الإرسال على الوجهين. تتيح ميزة الطباعة على الوجهين طباعة على كلا وجهي الوسائط. يتم طباعة كل مستند على الوجهين على حدة. documentduplex
 type: docs
-weight: 690
+weight: 700
 url: /ar/net/aspose.page.xps.xpsmetadata/documentduplex/
 ---
 ## DocumentDuplex class

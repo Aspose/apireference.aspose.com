@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut فصل. يصف طريقة قص بكرة الورق. يتم التعامل مع كل مستند بشكل منفصل. الخيارات المحددة تصف الطرق المختلفة لقص اللف.
 type: docs
-weight: 790
+weight: 800
 url: /ar/net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

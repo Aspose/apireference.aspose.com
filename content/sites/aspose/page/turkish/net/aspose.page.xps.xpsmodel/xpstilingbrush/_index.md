@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush sınıf. Döşeme fırçası öğelerinin VisualBrush ve ImageBrush ortak özelliklerini kapsayan sınıf.
 type: docs
-weight: 3400
+weight: 3410
 url: /tr/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

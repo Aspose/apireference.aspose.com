@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush 班级. 封装 VisualBrush 属性元素特性的类 该元素用于用绘图填充区域
 type: docs
-weight: 3420
+weight: 3430
 url: /zh/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

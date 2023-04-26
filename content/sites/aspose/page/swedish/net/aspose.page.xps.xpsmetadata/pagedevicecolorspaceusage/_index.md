@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceUsage
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceUsage klass. I samband medPageDeviceColorSpaceProfileURI parametern definierar denna parameter renderingsbeteendet för element som presenteras i en enhetsfärgrymd. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceusage
 type: docs
-weight: 1930
+weight: 1940
 url: /sv/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
 ---
 ## PageDeviceColorSpaceUsage class

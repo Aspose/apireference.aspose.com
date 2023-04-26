@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet.DocumentSeparatorSheetOption
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheetDocumentSeparatorSheetOption klas. Beschrijft deDocumentSeparatorSheet functieopties.
 type: docs
-weight: 810
+weight: 820
 url: /nl/net/aspose.page.xps.xpsmetadata/documentseparatorsheet.documentseparatorsheetoption/
 ---
 ## DocumentSeparatorSheet.DocumentSeparatorSheetOption class

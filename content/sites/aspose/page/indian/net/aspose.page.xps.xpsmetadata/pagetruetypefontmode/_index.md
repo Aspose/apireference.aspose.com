@@ -3,7 +3,7 @@ title: Class PageTrueTypeFontMode
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageTrueTypeFontMode कक्ष. उपयग कए जने वले ट्रू टइप फ़न्ट प्रबंधन क वध क वर्णन करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagetruetypefontmode
 type: docs
-weight: 2620
+weight: 2630
 url: /hi/net/aspose.page.xps.xpsmetadata/pagetruetypefontmode/
 ---
 ## PageTrueTypeFontMode class

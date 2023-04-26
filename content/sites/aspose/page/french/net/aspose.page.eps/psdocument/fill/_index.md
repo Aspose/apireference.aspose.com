@@ -3,7 +3,7 @@ title: PsDocument.Fill
 second_title: Aspose.Page pour la référence de l'API .NET
 description: PsDocument méthode. Remplissez un chemin arbitraire.
 type: docs
-weight: 100
+weight: 120
 url: /fr/net/aspose.page.eps/psdocument/fill/
 ---
 ## PsDocument.Fill method
@@ -16,7 +16,7 @@ public void Fill(GraphicsPath shape)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| shape | GraphicsPath | Le chemin à remplir. |
+| shape | GraphicsPath | Le chemin à combler. |
 
 ### Voir également
 

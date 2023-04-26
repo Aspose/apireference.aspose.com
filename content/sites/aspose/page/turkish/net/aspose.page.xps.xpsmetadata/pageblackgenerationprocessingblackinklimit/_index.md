@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingBlackInkLimit
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingBlackInkLimit sınıf. Belirtilen adlandırılmış renkle etiketlenmiş uygulama içeriği tüm renk ayrımlarında görünmelidir ZORUNLU.
 type: docs
-weight: 1730
+weight: 1740
 url: /tr/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingblackinklimit/
 ---
 ## PageBlackGenerationProcessingBlackInkLimit class

@@ -18,7 +18,7 @@ public XpsPolyQuadraticBezierSegment CreatePolyQuadraticBezierSegment(PointF[] p
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | points | PointF[] | Points de contrôle pour plusieurs segments de Bézier quadratiques. |
-| isStroked | Boolean | Spécifie si le trait de ce segment du chemin est dessiné. |
+| isStroked | Boolean | Spécifie si le trait de ce segment du chemin est tracé. |
 
 ### Return_Value
 

@@ -16,7 +16,7 @@ public XpsPolyLineSegment CreatePolyLineSegment(PointF[] points, bool isStroked 
 
 | 모수 | 유형 | 설명 |
 | --- | --- | --- |
-| points | PointF[] | 폴리 라인 세그먼트를 정의하는 여러 세그먼트에 대한 좌표 세트입니다. |
+| points | PointF[] | 폴리선 세그먼트를 정의하는 여러 세그먼트에 대한 좌표 세트입니다. |
 | isStroked | Boolean | 경로의 이 세그먼트에 대한 획을 그릴지 여부를 지정합니다. |
 
 ### 반환 값

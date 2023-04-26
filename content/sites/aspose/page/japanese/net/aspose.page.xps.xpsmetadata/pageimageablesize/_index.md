@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize クラス. レイアウトとレンダリング用にイメージ化されたキャンバスを記述しますこれは on に基づいて報告されますPageMediaSizeとPageOrientation. https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /ja/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

@@ -3,7 +3,7 @@ title: Class DocumentBinding
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBinding τάξη. Περιγράφει τη μέθοδο δεσίματος. Κάθε έγγραφο δεσμεύεται ξεχωριστά. DocumentBinding και JobBindAllDocuments αλληλοαποκλείονται. Εναπόκειται στο πρόγραμμα οδήγησης να καθορίσει τον χειρισμό περιορισμών μεταξύ λέξεωνκλειδιών. https//docs.microsoft.com/enus/windows/win32/documentdocdings/
 type: docs
-weight: 560
+weight: 570
 url: /el/net/aspose.page.xps.xpsmetadata/documentbinding/
 ---
 ## DocumentBinding class

@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPath kelas. Kelas yang merangkum fitur elemen Path. Elemen ini adalah satusatunya cara untuk menambahkan grafik vektor dan gambar ke halaman tetap. Mendefinisikan satu grafik vektor untuk dirender pada halaman.
 type: docs
-weight: 3250
+weight: 3260
 url: /id/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

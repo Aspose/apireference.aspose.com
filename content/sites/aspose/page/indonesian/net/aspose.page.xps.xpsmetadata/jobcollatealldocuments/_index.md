@@ -3,7 +3,7 @@ title: Class JobCollateAllDocuments
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobCollateAllDocuments kelas. Menjelaskan karakteristik penyusunan output. Semua dokumen di setiap pekerjaan dikumpulkan. DocumentCollate DanJobCollateAllDocumentssaling eksklusif. Perilaku dan implementasi apakah kedua atau hanya salah satu dari kata kunci ini diterapkan diserahkan kepada driver. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcollatealldocuments
 type: docs
-weight: 1200
+weight: 1210
 url: /id/net/aspose.page.xps.xpsmetadata/jobcollatealldocuments/
 ---
 ## JobCollateAllDocuments class

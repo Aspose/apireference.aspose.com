@@ -3,7 +3,7 @@ title: Class PageDeviceFontSubstitution.PageDeviceFontSubstitutionOption
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceFontSubstitutionPageDeviceFontSubstitutionOption sınıf. PageDeviceFontSubstitution özellik seçenekleri.
 type: docs
-weight: 1960
+weight: 1970
 url: /tr/net/aspose.page.xps.xpsmetadata/pagedevicefontsubstitution.pagedevicefontsubstitutionoption/
 ---
 ## PageDeviceFontSubstitution.PageDeviceFontSubstitutionOption class

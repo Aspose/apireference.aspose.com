@@ -3,7 +3,7 @@ title: Class JobOptimalDestinationColorProfile
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobOptimalDestinationColorProfile classe. Specifica il profilo colore ottimale in base alla configurazione corrente del dispositivo. https//docs.microsoft.com/enus/windows/win32/printdocs/joboptimaldestinationcolorprofile
 type: docs
-weight: 1400
+weight: 1410
 url: /it/net/aspose.page.xps.xpsmetadata/joboptimaldestinationcolorprofile/
 ---
 ## JobOptimalDestinationColorProfile class

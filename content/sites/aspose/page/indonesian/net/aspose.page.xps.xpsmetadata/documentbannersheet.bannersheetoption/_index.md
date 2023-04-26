@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet.BannerSheetOption
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheetBannerSheetOption kelas. Merupakan pilihan dariDocumentBannerSheet fitur.
 type: docs
-weight: 540
+weight: 550
 url: /id/net/aspose.page.xps.xpsmetadata/documentbannersheet.bannersheetoption/
 ---
 ## DocumentBannerSheet.BannerSheetOption class

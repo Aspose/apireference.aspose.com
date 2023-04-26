@@ -3,7 +3,7 @@ title: Class PageMediaSizePSWidthOffset
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSWidthOffset klas. Gibt den Versatz senkrecht zur Ausrichtungsrichtung des Einzugs an. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepswidthoffset
 type: docs
-weight: 2150
+weight: 2160
 url: /de/net/aspose.page.xps.xpsmetadata/pagemediasizepswidthoffset/
 ---
 ## PageMediaSizePSWidthOffset class

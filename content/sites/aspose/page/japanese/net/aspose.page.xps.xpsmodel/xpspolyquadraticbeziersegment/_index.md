@@ -3,7 +3,7 @@ title: Class XpsPolyQuadraticBezierSegment
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsPolyQuadraticBezierSegment クラス. PolyQuadraticBezierSegment 要素の機能をカプセル化するクラス. この要素は指定された制御点を使用して頂点のセットを通るパス図の の前の点からの二次ベジエ曲線のセットを記述します.
 type: docs
-weight: 3320
+weight: 3330
 url: /ja/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

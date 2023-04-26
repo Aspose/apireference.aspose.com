@@ -3,7 +3,7 @@ title: Class DocumentCopiesAllPages
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentCopiesAllPages klas. Specificeert het aantal exemplaren van een document. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcopiesallpages
 type: docs
-weight: 620
+weight: 630
 url: /nl/net/aspose.page.xps.xpsmetadata/documentcopiesallpages/
 ---
 ## DocumentCopiesAllPages class

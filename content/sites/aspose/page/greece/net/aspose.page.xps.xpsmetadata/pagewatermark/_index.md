@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark τάξη. Περιγράφει τη ρύθμιση υδατογραφήματος της εξόδου και τα χαρακτηριστικά του υδατογραφήματος. Τα υδατογραφήματα apply στη λογική σελίδα όχι στη φυσική σελίδα. Για παράδειγμα εάνDocumentDuplex είναι ενεργοποιημένο θα εμφανιστεί ένα υδατογράφημα σε καθένα σελίδα σε κάθε φύλλο. ΑνDocumentDuplex  2 τότε κάθε φύλλο θα έχει 2 υδατογραφήματα. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /el/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

@@ -3,7 +3,7 @@ title: PsDocument.GetStroke
 second_title: Aspose.Page per riferimento all'API .NET
 description: PsDocument metodo. Ottiene il tratto dello stato grafico corrente.
 type: docs
-weight: 140
+weight: 160
 url: /it/net/aspose.page.eps/psdocument/getstroke/
 ---
 ## PsDocument.GetStroke method

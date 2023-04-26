@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin klass. Beskriver det installerade utmatningsfacket i en enhet eller hela listan över stödda fack för en enhet. JobOutputBin DocumentOutputBin ochPageOutputBin nyckelord är ömsesidigt uteslutande endast ett bör anges i ett PrintTicket eller Print Capabilitiesdokument. https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /sv/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

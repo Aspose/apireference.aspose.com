@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode فصل. يحدد القيم المحتملة لملفDuplexOption س الملكية المسجلة .
 type: docs
-weight: 850
+weight: 860
 url: /ar/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

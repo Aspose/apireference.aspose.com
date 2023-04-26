@@ -3,7 +3,7 @@ title: Class PrintTicketElement
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PrintTicketElement sınıf. Yazdırma Şeması öğeleri olabilecek sınıflar için temel sınıf.
 type: docs
-weight: 2800
+weight: 2810
 url: /tr/net/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

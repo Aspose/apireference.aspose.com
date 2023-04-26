@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessing.PageBlackGenerationProcessingOption
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingPageBlackGenerationProcessingOption klass. BeskriverPageBlackGenerationProcessing funktionsalternativ.
 type: docs
-weight: 1720
+weight: 1730
 url: /sv/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing.pageblackgenerationprocessingoption/
 ---
 ## PageBlackGenerationProcessing.PageBlackGenerationProcessingOption class

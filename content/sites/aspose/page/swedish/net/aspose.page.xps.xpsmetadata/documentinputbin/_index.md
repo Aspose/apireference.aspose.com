@@ -3,7 +3,7 @@ title: Class DocumentInputBin
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentInputBin klass. Beskriver det installerade inmatningsfacket i en enhet eller hela listan över stödda lager för en enhet. JobInputBin DocumentInputBin  ochPageInputBin nyckelord utesluter varandra. Båda bör inte anges samtidigt i ett PrintTicket eller Print Capabilitiesdokument. https//docs.microsoft.com/enus/windows/win32/printdocs/documentinputbin
 type: docs
-weight: 730
+weight: 740
 url: /sv/net/aspose.page.xps.xpsmetadata/documentinputbin/
 ---
 ## DocumentInputBin class

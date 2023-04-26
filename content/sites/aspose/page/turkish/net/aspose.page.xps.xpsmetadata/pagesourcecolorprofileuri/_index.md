@@ -3,7 +3,7 @@ title: Class PageSourceColorProfileURI
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfileURI sınıf. Renk profili için kaynak belirtir.
 type: docs
-weight: 2610
+weight: 2620
 url: /tr/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofileuri/
 ---
 ## PageSourceColorProfileURI class

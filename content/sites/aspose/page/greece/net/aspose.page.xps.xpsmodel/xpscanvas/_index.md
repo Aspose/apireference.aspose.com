@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsCanvas τάξη. Χαρακτηριστικά στοιχείου καμβά που ενσωματώνει κλάση. Αυτό το στοιχείο ομαδοποιεί στοιχεία. Για παράδειγμα τα γλυφά και τα στοιχεία διαδρομής μπορούν να ομαδοποιηθούν σε έναν καμβά προκειμένου να προσδιοριστούν ως ενότητα ως προορισμός υπερσύνδεσης ή για να εφαρμοστεί μια τιμή σύνθεσης ιδιότητας σε κάθε στοιχείο θυγατρικού και προγονικού στοιχείου.
 type: docs
-weight: 2970
+weight: 2980
 url: /el/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

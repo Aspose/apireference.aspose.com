@@ -3,7 +3,7 @@ title: Class PageSourceColorProfile
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfile classe. Définit les caractéristiques du profil de couleur source. https//docs.microsoft.com/enus/windows/win32/printdocs/pagesourcecolorprofile
 type: docs
-weight: 2580
+weight: 2590
 url: /fr/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofile/
 ---
 ## PageSourceColorProfile class

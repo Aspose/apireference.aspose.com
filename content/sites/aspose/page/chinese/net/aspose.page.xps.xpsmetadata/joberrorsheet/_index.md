@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet 班级. 描述错误表输出整个作业将有一个错误表 error sheet 应该在默认输出PageMediaSize并使用默认值PageMediaType. 错误表应该与作业的其余部分分开这意味着任何整理 or 处理选项例如 或者 不应包含错误表错误表应作为作业的最后一张出现 https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /zh/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

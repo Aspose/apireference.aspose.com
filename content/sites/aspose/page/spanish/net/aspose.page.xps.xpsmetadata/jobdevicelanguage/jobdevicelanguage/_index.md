@@ -16,7 +16,7 @@ public JobDeviceLanguage(params JobDeviceLanguageOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | JobDeviceLanguageOption[] | Una matriz de opciones específicas para la característica. |
+| options | JobDeviceLanguageOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

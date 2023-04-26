@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin कक्ष. डवइस में स्थपत आउटपुट बन य डवइस के लए समर्थत डब्बे क पूर सूच क वर्णन करत है JobOutputBin DocumentOutputBin औरPageOutputBin keywords परस्पर अनन्य हैं केवल एक PrintTicket य Print Capabilities दस्तवेज़ में नर्दष्ट कय जन चहए https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /hi/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

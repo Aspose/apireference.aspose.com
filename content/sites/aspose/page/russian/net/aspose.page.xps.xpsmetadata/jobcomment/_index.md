@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobComment сорт. Указывает комментарий связанный с заданием. Пример По завершении доставьте в комнату 1234. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /ru/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

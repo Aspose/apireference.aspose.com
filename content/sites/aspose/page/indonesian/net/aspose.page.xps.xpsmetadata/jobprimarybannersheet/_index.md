@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet kelas. Mendeskripsikan lembar spanduk yang akan dicetak untuk pekerjaan itu. Lembar spanduk harus ditampilkan pada default PageMediaSize dan menggunakan defaultPageMediaType . Lembar spanduk harus dipisahkan dari sisa pekerjaan. Ini berarti bahwa opsi penyelesaian atau pemrosesan apa pun seperti JobDuplexAllDocumentsContiguously JobStapleAllDocuments  atauJobBindAllDocuments  tidak boleh menyertakan lembar spanduk. Lembar spanduk harus muncul sebagai lembar pertama pekerjaan.
 type: docs
-weight: 1470
+weight: 1480
 url: /id/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

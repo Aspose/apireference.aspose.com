@@ -3,7 +3,7 @@ title: Class PageScalingOffsetHeight
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetHeight klass. Anger skalförskjutningen i riktning för anpassad skalning. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetheight
 type: docs
-weight: 2530
+weight: 2540
 url: /sv/net/aspose.page.xps.xpsmetadata/pagescalingoffsetheight/
 ---
 ## PageScalingOffsetHeight class

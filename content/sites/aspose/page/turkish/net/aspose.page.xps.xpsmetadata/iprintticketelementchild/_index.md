@@ -3,7 +3,7 @@ title: Interface IPrintTicketElementChild
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketElementChild arayüz. Herhangi bir Yazdırma Şeması öğesinin alt öğesinin temel arabirimi.
 type: docs
-weight: 960
+weight: 970
 url: /tr/net/aspose.page.xps.xpsmetadata/iprintticketelementchild/
 ---
 ## IPrintTicketElementChild interface

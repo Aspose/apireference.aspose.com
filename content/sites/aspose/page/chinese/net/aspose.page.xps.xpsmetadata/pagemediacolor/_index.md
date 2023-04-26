@@ -3,7 +3,7 @@ title: Class PageMediaColor
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageMediaColor 班级. 描述了媒体颜色选项和每个选项的特性 https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediacolor
 type: docs
-weight: 2030
+weight: 2040
 url: /zh/net/aspose.page.xps.xpsmetadata/pagemediacolor/
 ---
 ## PageMediaColor class

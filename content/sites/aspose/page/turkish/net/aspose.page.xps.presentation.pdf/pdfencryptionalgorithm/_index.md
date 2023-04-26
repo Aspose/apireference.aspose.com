@@ -3,7 +3,7 @@ title: Enum PdfEncryptionAlgorithm
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionAlgorithm Sıralama. Şifreleme modu sıralaması. Algoritmayı ve anahtar uzunluğunu kullanmayı açıklayın. Bu sıralama işlevselliği daha da artırabilmek için genişletildi. Bu numaralandırma Tabandan Çekirdeğe modelini uygular.
 type: docs
-weight: 410
+weight: 420
 url: /tr/net/aspose.page.xps.presentation.pdf/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

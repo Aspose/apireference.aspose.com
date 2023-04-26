@@ -3,7 +3,7 @@ title: Class PageMediaType.BackCoating
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeBackCoating klas. Definieert constanten voor de gescoorde eigenschapswaarde.
 type: docs
-weight: 2170
+weight: 2180
 url: /nl/net/aspose.page.xps.xpsmetadata/pagemediatype.backcoating/
 ---
 ## PageMediaType.BackCoating class

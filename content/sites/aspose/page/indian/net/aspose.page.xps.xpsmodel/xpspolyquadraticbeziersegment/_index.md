@@ -3,7 +3,7 @@ title: Class XpsPolyQuadraticBezierSegment
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPolyQuadraticBezierSegment कक्ष. क्लस इनकैप्सुलेटंग PolyQuadraticBezierSegment तत्व सुवधएँ यह तत्व नर्दष्ट नयंत्रण बंदुओं क उपयग करते हुए में पछले बंदु से द्वघत बेज़यर वक्रं के एक सेट क वर्णन करत है
 type: docs
-weight: 3320
+weight: 3330
 url: /hi/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

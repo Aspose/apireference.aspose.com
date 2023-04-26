@@ -3,7 +3,7 @@ title: Class XpsSolidColorBrush
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsSolidColorBrush クラス. SolidColorBrush プロパティ要素の機能をカプセル化するクラス. この要素は定義された幾何学的領域を単色で塗りつぶすために使用されます.
 type: docs
-weight: 3350
+weight: 3360
 url: /ja/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

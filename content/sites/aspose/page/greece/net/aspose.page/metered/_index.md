@@ -1,14 +1,14 @@
 ---
 title: Class Metered
 second_title: Aspose.Page για Αναφορά API .NET
-description: Aspose.Page.Metered τάξη. Παρέχει μεθόδους για τον ορισμό μετρημένου κλειδιού.
+description: Aspose.Page.Metered τάξη. Παρέχει μεθόδους για να ορίσετε μετρημένο κλειδί.
 type: docs
 weight: 290
 url: /el/net/aspose.page/metered/
 ---
 ## Metered class
 
-Παρέχει μεθόδους για τον ορισμό μετρημένου κλειδιού.
+Παρέχει μεθόδους για να ορίσετε μετρημένο κλειδί.
 
 ```csharp
 public class Metered

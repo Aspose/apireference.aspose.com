@@ -3,7 +3,7 @@ title: Class Value
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.Value クラス. をカプセル化する基本クラスPropertyまたはScoredProperty PrintTicket ドキュメントの値 Value 要素はリテラルを型に関連付けます https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 2930
+weight: 2940
 url: /ja/net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class

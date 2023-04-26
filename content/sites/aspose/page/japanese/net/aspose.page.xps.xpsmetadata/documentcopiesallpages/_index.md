@@ -3,7 +3,7 @@ title: Class DocumentCopiesAllPages
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentCopiesAllPages クラス. ドキュメントの部数を指定します https//docs.microsoft.com/enus/windows/win32/printdocs/documentcopiesallpages
 type: docs
-weight: 620
+weight: 630
 url: /ja/net/aspose.page.xps.xpsmetadata/documentcopiesallpages/
 ---
 ## DocumentCopiesAllPages class

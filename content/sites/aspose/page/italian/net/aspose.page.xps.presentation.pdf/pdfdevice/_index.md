@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice classe. Classe che incapsula il dispositivo di composizione dellimmagine.
 type: docs
-weight: 400
+weight: 410
 url: /it/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

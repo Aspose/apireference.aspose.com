@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsTileMode 枚举. 平铺画笔的 TileMode 属性的有效值
 type: docs
-weight: 3390
+weight: 3400
 url: /zh/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

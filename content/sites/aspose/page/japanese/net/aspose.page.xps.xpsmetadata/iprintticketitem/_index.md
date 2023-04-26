@@ -3,7 +3,7 @@ title: Interface IPrintTicketItem
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketItem インターフェース. 可能性のあるクラスの基本インターフェイスPrintTicketルート要素 items. スコープ プレフィックスを定義するインターフェイスの基本インターフェイスでもあります
 type: docs
-weight: 970
+weight: 980
 url: /ja/net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface

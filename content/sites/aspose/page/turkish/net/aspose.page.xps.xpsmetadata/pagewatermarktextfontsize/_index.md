@@ -3,7 +3,7 @@ title: Class PageWatermarkTextFontSize
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextFontSize sınıf. Filigran metni için kullanılabilir yazı tipi boyutlarını tanımlar. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextfontsize
 type: docs
-weight: 2740
+weight: 2750
 url: /tr/net/aspose.page.xps.xpsmetadata/pagewatermarktextfontsize/
 ---
 ## PageWatermarkTextFontSize class

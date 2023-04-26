@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod перечисление. Допустимые значения свойства SpreadMethod кистей градиента.
 type: docs
-weight: 3360
+weight: 3370
 url: /ru/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

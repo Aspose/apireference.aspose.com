@@ -20,7 +20,7 @@ public float GetCharWidthPoints(char c)
 
 ### 반환 값
 
-반환 너비
+반환 폭
 
 ### 또한보십시오
 

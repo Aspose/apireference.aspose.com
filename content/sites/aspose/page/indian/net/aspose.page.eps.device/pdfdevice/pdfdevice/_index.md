@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-का नया उदाहरण शुरू करता है[`PdfDevice`](../)आउटपुट स्ट्रीम और पृष्ठ के निर्दिष्ट आकार के साथ।
+का नया उदाहरण शुरू करता है[`PdfDevice`](../) आउटपुट स्ट्रीम और पृष्ठ के निर्दिष्ट आकार के साथ।
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

@@ -3,7 +3,7 @@ title: Class PageCopies
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageCopies classe. Specifica il numero di copie di una pagina. https//docs.microsoft.com/enus/windows/win32/printdocs/pagecopies
 type: docs
-weight: 1870
+weight: 1880
 url: /it/net/aspose.page.xps.xpsmetadata/pagecopies/
 ---
 ## PageCopies class

@@ -3,7 +3,7 @@ title: Class PageBorderless
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageBorderless 班级. 描述何时应将图像内容打印到介质的物理边缘 https//docs.microsoft.com/enus/windows/win32/printdocs/pageborderless
 type: docs
-weight: 1830
+weight: 1840
 url: /zh/net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

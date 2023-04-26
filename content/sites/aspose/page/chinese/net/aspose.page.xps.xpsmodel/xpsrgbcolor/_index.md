@@ -3,7 +3,7 @@ title: Class XpsRgbColor
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsRgbColor 班级. 封装任何颜色空间sRGB 或 scRGB的 RGB 颜色
 type: docs
-weight: 3340
+weight: 3350
 url: /zh/net/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class

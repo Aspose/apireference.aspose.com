@@ -36,25 +36,43 @@ public sealed class PsDocument : Document
 | [Clip](../../aspose.page.eps/psdocument/clip/)(GraphicsPath) | वर्तमान ग्राफ़िक्स स्थिति में क्लिप जोड़ता है. |
 | [ClipAndNewPath](../../aspose.page.eps/psdocument/clipandnewpath/)(GraphicsPath) | वर्तमान ग्राफिक्स स्थिति में क्लिप जोड़ता है और "न्यूपाथ" ऑपरेटर लिखता है। इस क्लिपिंग पथ के संगम के से बचने के लिए करना आवश्यक है और कुछ बाद के पथ जैसे कि "चारपाथ" ऑपरेटर के साथ उल्लिखित ग्लिफ़। |
 | [ClipRectangle](../../aspose.page.eps/psdocument/cliprectangle/)(RectangleF) | क्लिपिंग आयत को वर्तमान ग्राफ़िक्स स्थिति में जोड़ता है. |
+| [ClipText](../../aspose.page.eps/psdocument/cliptext/)(string, Font, float, float) |  |
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | वर्तमान पृष्ठ पूर्ण करें. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | एक मनमाना रास्ता बनाएं। |
 | [DrawExplicitImageMask](../../aspose.page.eps/psdocument/drawexplicitimagemask/)(Bitmap, Bitmap, Matrix) | नकाबपोश चित्र बनाएं. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage)(Bitmap) | छवि बनाएं। |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage_1)(Bitmap, Matrix, Color) | पृष्ठभूमि के साथ रूपांतरित छवि बनाएं। |
+| [DrawTransparentImage](../../aspose.page.eps/psdocument/drawtransparentimage/)(Bitmap, Matrix, int) | रूपांतरित पारदर्शी छवि बनाएं। अगर छवि में अल्फा चैनल नहीं है तो इसे अपारदर्शी छवि के रूप में तैयार किया जाएगा |
 | [Fill](../../aspose.page.eps/psdocument/fill/)(GraphicsPath) | मनमाना पथ भरें. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, Font, float, float, Brush, Brush, Pen) | ग्लिफ़ के अंदरूनी हिस्से को भरकर और ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, float[], Font, float, float, Brush, Brush, Pen) | ग्लिफ़ के अंदरूनी हिस्से को भरकर और ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, Font, float, float) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, float[], Font, float, float) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, DrFont, float, float, Brush, Pen) | ग्लिफ़ के अंदरूनी हिस्से को भरकर और ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_3)(string, Font, float, float, Brush, Pen) | ग्लिफ़ के अंदरूनी हिस्से को भरकर और ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, float[], DrFont, float, float, Brush, Pen) | ग्लिफ़ के अंदरूनी हिस्से को भरकर और ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_2)(string, float[], Font, float, float, Brush, Pen) | ग्लिफ़ के अंदरूनी हिस्से को भरकर और ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, DrFont, float, float) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_6)(string, Font, float, float) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, DrFont, float, float, Brush) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_2)(string, float[], DrFont, float, float) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_4)(string, float[], Font, float, float) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_7)(string, Font, float, float, Brush) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_3)(string, float[], DrFont, float, float, Brush) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_5)(string, float[], Font, float, float, Brush) | ग्लिफ़ के अंदरूनी हिस्से को भरकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
 | [GetPaint](../../aspose.page.eps/psdocument/getpaint/)() | वर्तमान ग्राफिक्स स्थिति का पेंट प्राप्त करता है। |
 | [GetStroke](../../aspose.page.eps/psdocument/getstroke/)() | वर्तमान ग्राफिक्स स्थिति का स्ट्रोक प्राप्त करता है। |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata/)() | PS/EPS फ़ाइल पढ़ता है और XmpMetdata निकालता है यदि यह पहले से मौजूद है या यदि यह मौजूद नहीं है तो नया जोड़ें। |
 | [Merge](../../aspose.page.eps/psdocument/merge/)(string[], Device, SaveOptions) | पीएस/ईपीएस फाइलों को डिवाइस में मर्ज करता है। |
-| [OpenPage](../../aspose.page.eps/psdocument/openpage/)(float, float) | नया पृष्ठ बनाता है और इसे वर्तमान पृष्ठ बनाता है. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, Font, float, float) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, float[], Font, float, float) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
-| [Rotate](../../aspose.page.eps/psdocument/rotate/)(float) | वर्तमान ग्राफ़िक्स स्थिति में रोटेशन जोड़ता है (वर्तमान मैट्रिक्स को घुमाएं) |
-| [Save](../../aspose.page.eps/psdocument/save/#save)() | बचत दी गई`PsDocument` ईपीएस फ़ाइल के रूप में। इस विधि का उपयोग केवल तभी किया जाता है जब PsDocument स्क्रैच से बनाया गया हो। |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage_1)(string) | दस्तावेज़ के आकार के साथ नया पृष्ठ बनाता है और इसे वर्तमान पृष्ठ बनाता है. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage)(float, float) | नया पृष्ठ बनाता है और इसे वर्तमान पृष्ठ बनाता है. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, DrFont, float, float) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_6)(string, Font, float, float) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, DrFont, float, float, Pen) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_2)(string, float[], DrFont, float, float) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_4)(string, float[], Font, float, float) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_7)(string, Font, float, float, Pen) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_3)(string, float[], DrFont, float, float, Pen) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_5)(string, float[], Font, float, float, Pen) | ग्लिफ़ की रूपरेखा बनाकर एक टेक्स्ट स्ट्रिंग जोड़ता है। |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate_1)(float) | वर्तमान ग्राफिक्स स्थिति में मूल के बारे में वामावर्त रोटेशन जोड़ता है (वर्तमान मैट्रिक्स को घुमाएं)। |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate)(int) | वर्तमान ग्राफिक्स स्थिति में मूल के बारे में वामावर्त रोटेशन जोड़ता है (वर्तमान मैट्रिक्स को घुमाएं)। |
+| [Save](../../aspose.page.eps/psdocument/save/#save)() | बचत दी गई`PsDocument`ईपीएस फ़ाइल के रूप में। इस विधि का उपयोग केवल तभी किया जाता है जब PsDocument स्क्रैच से बनाया गया हो। |
 | [Save](../../aspose.page.eps/psdocument/save/#save_2)(Stream) | बचत दी गई`PsDocument` ईपीएस फ़ाइल के रूप में। इस विधि का उपयोग केवल XMP मेटाडेटा को अपडेट करने के बाद किया जाता है। यह प्रारंभिक EPS फ़ाइल को अपडेट किए गए मौजूदा मेटाडेटा या GetMetadata विधि को कॉल करते समय बनाए गए नए के साथ सहेजता है। अंतिम मामले में सभी आवश्यक पोस्टस्क्रिप्ट कोड और EPS टिप्पणियाँ जोड़ी जाती हैं। |
 | override [Save](../../aspose.page.eps/psdocument/save/#save_1)(Device, SaveOptions) | पीएस/ईपीएस फाइल को डिवाइस में सेव करता है। |
 | [Scale](../../aspose.page.eps/psdocument/scale/)(float, float) | वर्तमान ग्राफ़िक्स स्थिति में स्केल जोड़ता है (स्केल करेंट मैट्रिक्स). |
@@ -62,6 +80,7 @@ public sealed class PsDocument : Document
 | [SetPageSize](../../aspose.page.eps/psdocument/setpagesize/)(float, float) | पृष्ठ आकार सेट करता है। एक दस्तावेज़ में विभिन्न आकारों वाले पृष्ठ बनाने के लिए उपयोग करें[`SetPageDevice`](./setpagedevice/) विधि इस विधि के बाद। |
 | [SetPaint](../../aspose.page.eps/psdocument/setpaint/)(Brush) | पेंट को वर्तमान ग्राफिक्स स्थिति में सेट करता है। |
 | [SetStroke](../../aspose.page.eps/psdocument/setstroke/)(Pen) | वर्तमान ग्राफिक्स स्थिति में स्ट्रोक सेट करता है। |
+| [SetTransform](../../aspose.page.eps/psdocument/settransform/)(Matrix) | वर्तमान रूपांतरण को इस पर सेट करें. |
 | [Shear](../../aspose.page.eps/psdocument/shear/)(float, float) | वर्तमान ग्राफिक्स स्थिति में कतरनी परिवर्तन जोड़ता है (वर्तमान मैट्रिक्स कतरनी)। |
 | [Transform](../../aspose.page.eps/psdocument/transform/)(Matrix) | वर्तमान ग्राफिक्स स्थिति में परिवर्तन जोड़ता है (इस मैट्रिक्स को वर्तमान के साथ जोड़ता है)। |
 | [Translate](../../aspose.page.eps/psdocument/translate/)(float, float) | वर्तमान ग्राफिक्स स्थिति में अनुवाद जोड़ता है (वर्तमान मैट्रिक्स का अनुवाद करता है) . |

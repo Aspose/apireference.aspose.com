@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush сорт. Класс инкапсулирующий функции элемента свойства RadialGradientBrush. Этот элемент используется для указания кисти с радиальным градиентом.
 type: docs
-weight: 3330
+weight: 3340
 url: /ru/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

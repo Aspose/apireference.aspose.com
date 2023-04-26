@@ -3,7 +3,7 @@ title: PsDocument.Transform
 second_title: Aspose.Page für .NET-API-Referenz
 description: PsDocument methode. Fügt dem aktuellen Grafikstatus eine Transformation hinzu verkettet diese Matrix mit der aktuellen.
 type: docs
-weight: 270
+weight: 300
 url: /de/net/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument.Transform method

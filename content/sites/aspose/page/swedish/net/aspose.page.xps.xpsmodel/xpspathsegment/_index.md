@@ -3,7 +3,7 @@ title: Class XpsPathSegment
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsPathSegment klass. Klass som inkapslar gemensamma egenskaper för alla bansegmentelement.
 type: docs
-weight: 3290
+weight: 3300
 url: /sv/net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

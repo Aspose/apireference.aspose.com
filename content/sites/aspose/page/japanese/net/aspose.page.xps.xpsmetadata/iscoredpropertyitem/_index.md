@@ -3,7 +3,7 @@ title: Interface IScoredPropertyItem
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.IScoredPropertyItem インターフェース. PrintTicket の可能性があるクラスの基本インターフェイスScoredPropertyitems.
 type: docs
-weight: 990
+weight: 1000
 url: /ja/net/aspose.page.xps.xpsmetadata/iscoredpropertyitem/
 ---
 ## IScoredPropertyItem interface

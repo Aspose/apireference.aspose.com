@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 1670
+weight: 1680
 url: /ja/net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

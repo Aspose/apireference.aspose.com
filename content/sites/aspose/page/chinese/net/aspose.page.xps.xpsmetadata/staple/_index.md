@@ -3,7 +3,7 @@ title: Class Staple
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.Staple 班级. 的基类JobStapleAllDocuments和DocumentStaple特征类.
 type: docs
-weight: 2870
+weight: 2880
 url: /zh/net/aspose.page.xps.xpsmetadata/staple/
 ---
 ## Staple class

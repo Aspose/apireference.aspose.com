@@ -3,7 +3,7 @@ title: PsDocument.SetPaint
 second_title: Aspose.Page för .NET API-referens
 description: PsDocument metod. Ställer in färg i aktuellt grafikläge.
 type: docs
-weight: 240
+weight: 260
 url: /sv/net/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument.SetPaint method

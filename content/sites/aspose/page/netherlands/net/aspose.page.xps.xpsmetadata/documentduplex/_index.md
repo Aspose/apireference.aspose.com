@@ -3,7 +3,7 @@ title: Class DocumentDuplex
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentDuplex klas. Beschrijft de duplexkarakteristieken van de uitvoer. De dubbelzijdige functie maakt printen op beide zijden van de media mogelijk. Elk document wordt afzonderlijk dubbelzijdig afgedrukt. DocumentDuplex en JobDuplexAllDocumentsContiguous sluiten elkaar wederzijds uit. Het is aan de driver om te bepalen hoe de beperkingen tussen deze trefwoorden moeten worden verwerkt. https//docs.microsoft.com/enus/windows/win32/printdocs/ documentduplex
 type: docs
-weight: 690
+weight: 700
 url: /nl/net/aspose.page.xps.xpsmetadata/documentduplex/
 ---
 ## DocumentDuplex class

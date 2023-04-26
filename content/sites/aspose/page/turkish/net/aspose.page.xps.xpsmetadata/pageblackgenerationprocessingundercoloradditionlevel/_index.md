@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingUnderColorAdditionLevel
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingUnderColorAdditionLevel sınıf. Koyu nötrlerde ve nötre yakın alanlarda GCR/UCRnin BlackInkLimit veya belirtilmişse UCAStart oluşturduğu alanlara eklenecek kromatik mürekkep miktarını gri bileşen oranlarında açıklar. https//docs.microsoft .com/enus/windows/win32/printdocs/pageblackgenerationprocessingundercoloradditionlevel
 type: docs
-weight: 1780
+weight: 1790
 url: /tr/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionlevel/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionLevel class

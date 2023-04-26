@@ -3,7 +3,7 @@ title: PsDocument.GetXmpMetadata
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. PS/EPS फ़इल पढ़त है और XmpMetdata नकलत है यद यह पहले से मजूद है य यद यह मजूद नहं है त नय जड़ें
 type: docs
-weight: 150
+weight: 170
 url: /hi/net/aspose.page.eps/psdocument/getxmpmetadata/
 ---
 ## PsDocument.GetXmpMetadata method

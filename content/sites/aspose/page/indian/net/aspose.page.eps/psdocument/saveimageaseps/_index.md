@@ -3,7 +3,7 @@ title: PsDocument.SaveImageAsEps
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. इनपुट स्ट्रम से EPS आउटपुट स्ट्रम में PNG/JPEG/TIFF/BMP/GIF/EMF इमेज सेव करत है
 type: docs
-weight: 310
+weight: 340
 url: /hi/net/aspose.page.eps/psdocument/saveimageaseps/
 ---
 ## SaveImageAsEps(Stream, Stream, PsSaveOptions) {#saveimageaseps_2}

@@ -3,7 +3,7 @@ title: Class DocumentURI
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentURI klass. Anger en enhetlig resursidentifierare URI för dokumentet. https//docs.microsoft.com/enus/windows/win32/printdocs/documenturi
 type: docs
-weight: 830
+weight: 840
 url: /sv/net/aspose.page.xps.xpsmetadata/documenturi/
 ---
 ## DocumentURI class

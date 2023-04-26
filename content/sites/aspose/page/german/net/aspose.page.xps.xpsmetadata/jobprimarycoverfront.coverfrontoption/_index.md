@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront.CoverFrontOption
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFrontCoverFrontOption klas. Beschreibt dieJobPrimaryCoverFront Funktionsoptionen.
 type: docs
-weight: 1540
+weight: 1550
 url: /de/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront.coverfrontoption/
 ---
 ## JobPrimaryCoverFront.CoverFrontOption class

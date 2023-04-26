@@ -3,7 +3,7 @@ title: Class XpsPolyQuadraticBezierSegment
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPolyQuadraticBezierSegment сорт. Класс инкапсулирующий свойства элемента PolyQuadraticBezierSegment. Этот элемент описывает набор квадратичных кривых Безье от предыдущей точки in фигура пути через набор вершин с использованием заданных контрольных точек.
 type: docs
-weight: 3320
+weight: 3330
 url: /ru/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

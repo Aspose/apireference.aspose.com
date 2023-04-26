@@ -3,7 +3,7 @@ title: Interface IPrintTicketItem
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketItem واجهه المستخدم. الواجهة الأساسية للفئات التي قد تكونPrintTicket عناصر عنصر الجذر. إنها أيضًا الواجهة الأساسية للواجهات التي تحدد بادئة تحديد النطاق.
 type: docs
-weight: 970
+weight: 980
 url: /ar/net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface

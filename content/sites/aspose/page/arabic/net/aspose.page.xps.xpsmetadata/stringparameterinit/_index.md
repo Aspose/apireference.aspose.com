@@ -3,7 +3,7 @@ title: Class StringParameterInit
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.StringParameterInit فصل. الفئة الأساسية لجميع مُهيئ معلمات السلسلة.
 type: docs
-weight: 2900
+weight: 2910
 url: /ar/net/aspose.page.xps.xpsmetadata/stringparameterinit/
 ---
 ## StringParameterInit class

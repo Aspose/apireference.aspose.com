@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingBlackInkLimit
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingBlackInkLimit kelas. Konten aplikasi yang diberi label dengan warna bernama yang ditentukan HARUS muncul di semua pemisahan warna. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingblackinklimit
 type: docs
-weight: 1730
+weight: 1740
 url: /id/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingblackinklimit/
 ---
 ## PageBlackGenerationProcessingBlackInkLimit class

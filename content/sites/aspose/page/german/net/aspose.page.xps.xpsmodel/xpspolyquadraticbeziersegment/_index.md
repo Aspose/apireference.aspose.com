@@ -3,7 +3,7 @@ title: Class XpsPolyQuadraticBezierSegment
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsPolyQuadraticBezierSegment klas. Klasse die Eigenschaften des PolyQuadraticBezierSegmentElements einkapselt. Dieses Element beschreibt einen Satz quadratischer BézierKurven vom vorherigen Punkt in der Pfadfigur durch einen Satz von Scheitelpunkten wobei festgelegte Kontrollpunkte verwendet werden.
 type: docs
-weight: 3320
+weight: 3330
 url: /de/net/aspose.page.xps.xpsmodel/xpspolyquadraticbeziersegment/
 ---
 ## XpsPolyQuadraticBezierSegment class

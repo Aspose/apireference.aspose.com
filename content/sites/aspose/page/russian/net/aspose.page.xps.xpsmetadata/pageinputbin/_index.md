@@ -3,7 +3,7 @@ title: Class PageInputBin
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageInputBin сорт. Описывает установленный входной лоток в устройстве или полный список поддерживаемых лотков для устройства. Позволяет указать входной лоток для каждой страницы.JobInputBin DocumentInputBin и PageInputBin ключевые слова взаимоисключающие. Оба не должны быть указаны одновременно в документе PrintTicket или Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/pageinputbin
 type: docs
-weight: 2020
+weight: 2030
 url: /ru/net/aspose.page.xps.xpsmetadata/pageinputbin/
 ---
 ## PageInputBin class

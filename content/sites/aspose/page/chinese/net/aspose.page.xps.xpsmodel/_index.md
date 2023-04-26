@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page for .NET API 参考
 description: 的 Aspose.Page.Xps.XpsModel命名空间提供描述 XPS 文档元素的类
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.page.xps.xpsmodel/
 ---
 的 **Aspose.Page.Xps.XpsModel**命名空间提供描述 XPS 文档元素的类。

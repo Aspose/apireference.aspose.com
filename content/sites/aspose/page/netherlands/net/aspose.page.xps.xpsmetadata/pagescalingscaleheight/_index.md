@@ -3,7 +3,7 @@ title: Class PageScalingScaleHeight
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleHeight klas. Specificeert de schaalfactor in het richting voor aangepast schalen. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscaleheight
 type: docs
-weight: 2560
+weight: 2570
 url: /nl/net/aspose.page.xps.xpsmetadata/pagescalingscaleheight/
 ---
 ## PageScalingScaleHeight class

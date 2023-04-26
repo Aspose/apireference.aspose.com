@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet 班级. 描述要为作业输出的会计表核算表应该输出到 default PageMediaSize并使用默认值PageMediaType .会计表应该与工作的其余部分隔离开来这意味着任何整理或处理选项例如  或者  不应包括会计表 会计表可能会出现在作业的第一页或最后一页由实施者自行决定 https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /zh/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

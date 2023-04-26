@@ -3,7 +3,7 @@ title: UserProperties.SetProperty
 second_title: Aspose.Page for .NET API Referansı
 description: UserProperties yöntem. Dizi özellik değerini ayarlar.
 type: docs
-weight: 140
+weight: 150
 url: /tr/net/aspose.page/userproperties/setproperty/
 ---
 ## SetProperty(string, string) {#setproperty_8}

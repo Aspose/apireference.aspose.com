@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod opsomming. Geldige waarden van de eigenschap SpreadMethod van verlooppenselen.
 type: docs
-weight: 3360
+weight: 3370
 url: /nl/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

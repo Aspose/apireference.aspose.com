@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront فصل. يصف ورقة الغلاف الأمامية البداية. سيكون للمهمة بأكملها ورقة أساسية واحدة. يجب طباعة ورقة الغلاف على ملفPageMediaSize وPageMediaType تستخدم للصفحة الأولى من الوظيفة. يجب دمج ورقة الغلاف في خيارات المعالجة مثلJobDuplexAllDocumentsContiguously وJobNUpAllDocumentsContiguously  كما يتضح من الخيار المحدد . https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /ar/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

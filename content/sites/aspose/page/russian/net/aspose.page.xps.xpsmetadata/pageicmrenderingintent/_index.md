@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntent сорт. Описывает цель рендеринга в соответствии со спецификацией ICC v2. Это значение следует игнорировать если изображение или графический элемент имеет встроенный профиль  указывающий цель рендеринга. https//docs.microsoft.com/enus/ windows/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1990
+weight: 2000
 url: /ru/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

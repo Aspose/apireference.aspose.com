@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize сорт. Описывает отображаемый холст для компоновки и рендеринга. Об этом будет сообщено на основе PageMediaSize иPageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /ru/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

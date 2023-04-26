@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingBlackInkLimit
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingBlackInkLimit कक्ष. नर्दष्ट नमत रंग के सथ लेबल क गई एप्लकेशन समग्र सभ रंग पृथक्करणं पर दखई देन चहए
 type: docs
-weight: 1730
+weight: 1740
 url: /hi/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingblackinklimit/
 ---
 ## PageBlackGenerationProcessingBlackInkLimit class

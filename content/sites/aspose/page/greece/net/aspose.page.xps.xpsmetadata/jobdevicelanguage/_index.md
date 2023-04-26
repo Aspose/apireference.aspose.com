@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage τάξη. Περιγράφει τις γλώσσες της συσκευής που υποστηρίζονται για την αποστολή δεδομένων από το πρόγραμμα οδήγησης σε φυσική συσκευή. Αυτό ονομάζεται συχνά Γλώσσα περιγραφής σελίδας. Αυτή η λέξηκλειδί καθορίζει ποια γλώσσα της σελίδας description υποστηρίζεται από το πρόγραμμα οδήγησης και τη φυσική συσκευή. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /el/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

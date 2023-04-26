@@ -20,7 +20,7 @@ public PageMediaSizeOption Add(params IPageMediaSizeOptionItem[] items)
 
 ### Nilai Pengembalian
 
-Pilihan ini.
+Opsi ini.
 
 ### Lihat juga
 

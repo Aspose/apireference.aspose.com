@@ -3,7 +3,7 @@ title: Class JobHolePunch
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobHolePunch कक्ष. आउटपुट क हल पंचंग वशेषतओं क वर्णन करत है सभ दस्तवेज़ एक सथ पंच कए गए हैं दJobHolePunch औरDocumentHolePunchकवर्ड परस्पर अनन्य हैं दनं क प्रंट टकट य प्रंट क्षमत दस्तवेज़ में एक सथ नर्दष्ट नहं कय जन चहए https//docs.microsoft.com/enus/windows/win32/printdocs/jobholepunch
 type: docs
-weight: 1350
+weight: 1360
 url: /hi/net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class

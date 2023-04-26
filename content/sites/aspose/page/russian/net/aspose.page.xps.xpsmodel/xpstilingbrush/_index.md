@@ -3,7 +3,7 @@ title: Class XpsTilingBrush
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsTilingBrush сорт. Класс инкапсулирующий общие свойства элементов мозаичных кистей VisualBrush и ImageBrush.
 type: docs
-weight: 3400
+weight: 3410
 url: /ru/net/aspose.page.xps.xpsmodel/xpstilingbrush/
 ---
 ## XpsTilingBrush class

@@ -3,7 +3,7 @@ title: Class JobBindAllDocumentsGutter
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsGutter कक्ष. बइंडंग गटर क चड़ई नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/jobbindalldocumentsgutter
 type: docs
-weight: 1190
+weight: 1200
 url: /hi/net/aspose.page.xps.xpsmetadata/jobbindalldocumentsgutter/
 ---
 ## JobBindAllDocumentsGutter class

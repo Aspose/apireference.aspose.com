@@ -3,7 +3,7 @@ title: Class PageMediaSize.PageMediaSizeOption
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePageMediaSizeOption clase. Describe elPageMediaSize opciones de funciones.
 type: docs
-weight: 2080
+weight: 2090
 url: /es/net/aspose.page.xps.xpsmetadata/pagemediasize.pagemediasizeoption/
 ---
 ## PageMediaSize.PageMediaSizeOption class
@@ -101,7 +101,7 @@ public sealed class PageMediaSizeOption : Option
 | static [JapanDoubleHagakiPostcard](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/japandoublehagakipostcard/) | Postal japonesa doble Hagaki |
 | static [JapanDoubleHagakiPostcardRotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/japandoublehagakipostcardrotated/) | Postal japonesa doble Hagaki girada |
 | static [JapanHagakiPostcard](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/japanhagakipostcard/) | Postal japonesa Hagaki |
-| static [JapanHagakiPostcardRotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/japanhagakipostcardrotated/) | Postal japonesa Hagaki girada |
+| static [JapanHagakiPostcardRotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/japanhagakipostcardrotated/) | Postal japonesa Hagaki rotada |
 | static [JapanKaku2Envelope](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/japankaku2envelope/) | Japón Kaku2 sobre |
 | static [JapanKaku2EnvelopeRotated](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/japankaku2enveloperotated/) | Sobre japonés Kaku2 girado |
 | static [JapanKaku3Envelope](../../aspose.page.xps.xpsmetadata/pagemediasizeoption/japankaku3envelope/) | Japón Kaku3 sobre |

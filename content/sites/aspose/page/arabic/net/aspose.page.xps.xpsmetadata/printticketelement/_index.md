@@ -3,7 +3,7 @@ title: Class PrintTicketElement
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PrintTicketElement فصل. الفئة الأساسية للفئات التي قد تكون عناصر مخطط الطباعة.
 type: docs
-weight: 2800
+weight: 2810
 url: /ar/net/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

@@ -16,7 +16,7 @@ public PageColorManagement(params PageColorManagementOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageColorManagementOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageColorManagementOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

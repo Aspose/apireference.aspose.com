@@ -3,7 +3,7 @@ title: Class PageScalingScaleHeight
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleHeight 班级. 指定比例因子自定义缩放的方向 https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscaleheight
 type: docs
-weight: 2560
+weight: 2570
 url: /zh/net/aspose.page.xps.xpsmetadata/pagescalingscaleheight/
 ---
 ## PageScalingScaleHeight class

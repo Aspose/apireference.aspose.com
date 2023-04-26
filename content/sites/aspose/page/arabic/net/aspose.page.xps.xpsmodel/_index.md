@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page لمرجع NET API
 description: ملف Aspose.Page.Xps.XpsModelتوفر مساحة الاسم فئات تصف عناصر مستند XPS.
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.page.xps.xpsmodel/
 ---
 ملف **Aspose.Page.Xps.XpsModel**توفر مساحة الاسم فئات تصف عناصر مستند XPS.

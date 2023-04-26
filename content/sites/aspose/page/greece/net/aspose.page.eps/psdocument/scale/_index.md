@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Προσθέτει κλίμακα στην τρέχουσα κατάσταση γραφικών κλιμακωτή τρέχουσα μήτρα.
 type: docs
-weight: 210
+weight: 230
 url: /el/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

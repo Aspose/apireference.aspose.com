@@ -3,7 +3,7 @@ title: Class JobID
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobID クラス. ジョブの一意の ID を指定します https//docs.microsoft.com/enus/windows/win32/printdocs/jobid
 type: docs
-weight: 1360
+weight: 1370
 url: /ja/net/aspose.page.xps.xpsmetadata/jobid/
 ---
 ## JobID class

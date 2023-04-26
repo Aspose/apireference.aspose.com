@@ -3,7 +3,7 @@ title: PsDocument.SetPageDevice
 second_title: Aspose.Page för .NET API-referens
 description: PsDocument metod. Ställer in sidenhetsparametrar se operatör setpagedevice PostScriptspecifikation. Bland dessa kan vara sidstorlek och färg etc.
 type: docs
-weight: 220
+weight: 240
 url: /sv/net/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument.SetPageDevice method

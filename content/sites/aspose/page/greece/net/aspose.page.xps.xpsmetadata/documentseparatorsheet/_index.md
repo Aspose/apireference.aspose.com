@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet τάξη. Περιγράφει τη χρήση του διαχωριστικού φύλλου για ένα έγγραφο. Τα διαχωριστικά φύλλα θα πρέπει να εμφανίζονται στην έξοδο όπως υποδεικνύεται από την Επιλογή που καθορίζεται παρακάτω. https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet_x
 type: docs
-weight: 800
+weight: 810
 url: /el/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

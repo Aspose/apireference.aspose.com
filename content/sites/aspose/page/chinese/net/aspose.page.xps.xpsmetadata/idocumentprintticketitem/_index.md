@@ -3,7 +3,7 @@ title: Interface IDocumentPrintTicketItem
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.IDocumentPrintTicketItem 界面. 单据打印票项接口
 type: docs
-weight: 910
+weight: 920
 url: /zh/net/aspose.page.xps.xpsmetadata/idocumentprintticketitem/
 ---
 ## IDocumentPrintTicketItem interface

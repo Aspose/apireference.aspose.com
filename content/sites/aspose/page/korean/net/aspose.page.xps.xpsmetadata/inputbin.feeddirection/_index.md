@@ -3,7 +3,7 @@ title: Class InputBin.FeedDirection
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedDirection 수업. 에 대한 상수를 정의합니다. 스코어링된 속성 값.
 type: docs
-weight: 1020
+weight: 1030
 url: /ko/net/aspose.page.xps.xpsmetadata/inputbin.feeddirection/
 ---
 ## InputBin.FeedDirection class

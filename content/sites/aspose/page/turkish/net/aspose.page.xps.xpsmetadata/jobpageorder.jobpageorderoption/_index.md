@@ -3,7 +3,7 @@ title: Class JobPageOrder.JobPageOrderOption
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrderJobPageOrderOption sınıf. JobPageOrder özellik seçenekleri.
 type: docs
-weight: 1460
+weight: 1470
 url: /tr/net/aspose.page.xps.xpsmetadata/jobpageorder.jobpageorderoption/
 ---
 ## JobPageOrder.JobPageOrderOption class

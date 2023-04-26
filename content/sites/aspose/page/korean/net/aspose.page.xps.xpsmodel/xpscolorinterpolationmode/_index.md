@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode 열거형. 그라디언트 브러시의 ColorInterpolationMode 속성의 유효한 값입니다.
 type: docs
-weight: 2990
+weight: 3000
 url: /ko/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

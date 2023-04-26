@@ -3,7 +3,7 @@ title: Class PrintTicket
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PrintTicket sınıf. Herhangi bir kapsamda ortak bir PrintTicket uygulayan sınıf. İş belge ve sayfa düzeyinde baskı biletleri için temel sınıf. Aöğesi PrintTicket belgesinin kök öğesidir. A öğesi bir işin çıktısını almak için gereken tüm iş biçimlendirme bilgilerini içerir. https//docs.Microsoft.com/enus/windows/win32/printdocs/printticket
 type: docs
-weight: 2790
+weight: 2800
 url: /tr/net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class

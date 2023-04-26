@@ -16,7 +16,7 @@ public JobCollateAllDocuments(params CollateOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | CollateOption[] | Una matriz de opciones específicas para la característica. |
+| options | CollateOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

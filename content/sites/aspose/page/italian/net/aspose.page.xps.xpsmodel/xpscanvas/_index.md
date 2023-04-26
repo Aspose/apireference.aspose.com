@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsCanvas classe. Classe che incapsula le caratteristiche dellelemento Canvas. Questo elemento raggruppa gli elementi insieme. Ad esempio Glyphs e Path elements possono essere raggruppati in una tela per essere identificati come ununità come destinazione del collegamento ipertestuale o per applicare un valore di proprietà composto a ciascun elemento figlio e antenato.
 type: docs
-weight: 2970
+weight: 2980
 url: /it/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

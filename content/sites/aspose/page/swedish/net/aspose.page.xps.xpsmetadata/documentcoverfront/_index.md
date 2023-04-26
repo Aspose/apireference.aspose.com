@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront klass. Beskriver det främre början försättsbladet. Varje dokument kommer att ha ett separat ark. Försättsbladet ska skrivas ut påPageMediaSize ochPageMediaType används för första sidan i dokumentet. Försättsbladet bör integreras i processing options som t.exDocumentDuplex DocumentNUp  som anges av det angivna alternativet. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /sv/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

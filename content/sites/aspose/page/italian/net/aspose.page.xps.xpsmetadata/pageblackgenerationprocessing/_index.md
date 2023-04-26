@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessing
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessing classe. Specifica il comportamento di generazione del nero per le separazioni CMYK. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessing
 type: docs
-weight: 1710
+weight: 1720
 url: /it/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing/
 ---
 ## PageBlackGenerationProcessing class

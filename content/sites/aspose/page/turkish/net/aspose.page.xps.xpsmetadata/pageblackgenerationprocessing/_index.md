@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessing
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessing sınıf. CMYK ayrımları için siyah oluşturma davranışını belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessing
 type: docs
-weight: 1710
+weight: 1720
 url: /tr/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessing/
 ---
 ## PageBlackGenerationProcessing class

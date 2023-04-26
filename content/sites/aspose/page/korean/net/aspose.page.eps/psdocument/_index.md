@@ -34,27 +34,45 @@ public sealed class PsDocument : Document
 | 이름 | 설명 |
 | --- | --- |
 | [Clip](../../aspose.page.eps/psdocument/clip/)(GraphicsPath) | 현재 그래픽 상태에 클립을 추가합니다. |
-| [ClipAndNewPath](../../aspose.page.eps/psdocument/clipandnewpath/)(GraphicsPath) | 클립을 현재 그래픽 상태에 추가하고 "newpath" 연산자를 작성합니다. 이 클리핑 경로와 "charpath" 연산자로 윤곽이 표시된 글리프와 같은 일부 후속 경로의 합류점을 탈출 해야 합니다. |
+| [ClipAndNewPath](../../aspose.page.eps/psdocument/clipandnewpath/)(GraphicsPath) | 클립을 현재 그래픽 상태에 추가하고 "newpath" 연산자를 작성합니다. 이 클리핑 경로와 "charpath" 연산자로 윤곽선이 표시된 글리프와 같은 일부 후속 경로의 합류점을 탈출 해야 합니다. |
 | [ClipRectangle](../../aspose.page.eps/psdocument/cliprectangle/)(RectangleF) | 현재 그래픽 상태에 클리핑 사각형을 추가합니다. |
+| [ClipText](../../aspose.page.eps/psdocument/cliptext/)(string, Font, float, float) |  |
 | [ClosePage](../../aspose.page.eps/psdocument/closepage/)() | 현재 페이지 완료. |
 | [Draw](../../aspose.page.eps/psdocument/draw/)(GraphicsPath) | 임의의 경로를 그립니다. |
 | [DrawExplicitImageMask](../../aspose.page.eps/psdocument/drawexplicitimagemask/)(Bitmap, Bitmap, Matrix) | 마스크된 이미지를 그립니다. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage)(Bitmap) | 이미지 그리기. |
 | [DrawImage](../../aspose.page.eps/psdocument/drawimage/#drawimage_1)(Bitmap, Matrix, Color) | 배경으로 변환된 이미지를 그립니다. |
+| [DrawTransparentImage](../../aspose.page.eps/psdocument/drawtransparentimage/)(Bitmap, Matrix, int) | 변형된 투명 이미지를 그립니다. 이미지에 알파 채널이 없으면 불투명한 image 로 그려집니다. |
 | [Fill](../../aspose.page.eps/psdocument/fill/)(GraphicsPath) | 임의의 경로를 채웁니다. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, Font, float, float, Brush, Brush, Pen) | 글리프 내부를 채우고 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
-| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, float[], Font, float, float, Brush, Brush, Pen) | 글리프 내부를 채우고 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, Font, float, float) | 글리프 내부를 채워 문자열을 추가합니다. |
-| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, float[], Font, float, float) | 글리프 내부를 채워 문자열을 추가합니다. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext)(string, DrFont, float, float, Brush, Pen) | 글리프 내부를 채우고 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_3)(string, Font, float, float, Brush, Pen) | 글리프 내부를 채우고 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_1)(string, float[], DrFont, float, float, Brush, Pen) | 글리프 내부를 채우고 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [FillAndStrokeText](../../aspose.page.eps/psdocument/fillandstroketext/#fillandstroketext_2)(string, float[], Font, float, float, Brush, Pen) | 글리프 내부를 채우고 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext)(string, DrFont, float, float) | 글리프 내부를 채워 문자열을 추가합니다. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_6)(string, Font, float, float) | 글리프 내부를 채워 문자열을 추가합니다. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_1)(string, DrFont, float, float, Brush) | 글리프 내부를 채워 문자열을 추가합니다. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_2)(string, float[], DrFont, float, float) | 글리프 내부를 채워 문자열을 추가합니다. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_4)(string, float[], Font, float, float) | 글리프 내부를 채워 문자열을 추가합니다. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_7)(string, Font, float, float, Brush) | 글리프 내부를 채워 문자열을 추가합니다. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_3)(string, float[], DrFont, float, float, Brush) | 글리프 내부를 채워 문자열을 추가합니다. |
+| [FillText](../../aspose.page.eps/psdocument/filltext/#filltext_5)(string, float[], Font, float, float, Brush) | 글리프 내부를 채워 문자열을 추가합니다. |
 | [GetPaint](../../aspose.page.eps/psdocument/getpaint/)() | 현재 그래픽 상태의 페인트를 가져옵니다. |
 | [GetStroke](../../aspose.page.eps/psdocument/getstroke/)() | 현재 그래픽 상태의 스트로크를 가져옵니다. |
 | [GetXmpMetadata](../../aspose.page.eps/psdocument/getxmpmetadata/)() | PS/EPS 파일을 읽고 XmpMetdata가 이미 있으면 추출하고 없으면 새로 추가합니다. |
 | [Merge](../../aspose.page.eps/psdocument/merge/)(string[], Device, SaveOptions) | PS/EPS 파일을 장치에 병합합니다. |
-| [OpenPage](../../aspose.page.eps/psdocument/openpage/)(float, float) | 새 페이지를 만들고 현재 페이지로 만듭니다. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, Font, float, float) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
-| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, float[], Font, float, float) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
-| [Rotate](../../aspose.page.eps/psdocument/rotate/)(float) | 현재 그래픽 상태에 회전을 추가합니다(현재 매트릭스 회전). |
-| [Save](../../aspose.page.eps/psdocument/save/#save)() | 주어진 세이브`PsDocument` EPS 파일로. 이 메서드는 PsDocument가 처음부터 생성된 경우에만 사용됩니다. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage_1)(string) | 문서 크기로 새 페이지를 만들고 현재 페이지로 만듭니다. |
+| [OpenPage](../../aspose.page.eps/psdocument/openpage/#openpage)(float, float) | 새 페이지를 만들고 현재 페이지로 만듭니다. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext)(string, DrFont, float, float) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_6)(string, Font, float, float) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_1)(string, DrFont, float, float, Pen) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_2)(string, float[], DrFont, float, float) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_4)(string, float[], Font, float, float) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_7)(string, Font, float, float, Pen) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_3)(string, float[], DrFont, float, float, Pen) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [OutlineText](../../aspose.page.eps/psdocument/outlinetext/#outlinetext_5)(string, float[], Font, float, float, Pen) | 글리프 윤곽선을 그려 텍스트 문자열을 추가합니다. |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate_1)(float) | 현재 그래픽 상태에 원점을 기준으로 시계 반대 방향으로 회전을 추가합니다(현재 행렬 회전). |
+| [Rotate](../../aspose.page.eps/psdocument/rotate/#rotate)(int) | 현재 그래픽 상태에 원점을 기준으로 시계 반대 방향으로 회전을 추가합니다(현재 행렬 회전). |
+| [Save](../../aspose.page.eps/psdocument/save/#save)() | 주어진 세이브`PsDocument`EPS 파일로. 이 메서드는 PsDocument가 처음부터 생성된 경우에만 사용됩니다. |
 | [Save](../../aspose.page.eps/psdocument/save/#save_2)(Stream) | 주어진 세이브`PsDocument` EPS 파일로. 이 메서드는 XMP 메타데이터를 업데이트한 후에만 사용됩니다. 업데이트된 기존 메타데이터 또는 GetMetadata 메서드를 호출하는 동안 생성된 새 메타데이터로 초기 EPS 파일을 저장합니다. 마지막 경우 필요한 모든 PostScript 코드와 EPS 주석이 추가됩니다. |
 | override [Save](../../aspose.page.eps/psdocument/save/#save_1)(Device, SaveOptions) | 장치에 PS/EPS 파일을 저장합니다. |
 | [Scale](../../aspose.page.eps/psdocument/scale/)(float, float) | 현재 그래픽 상태에 스케일을 추가합니다(스케일 현재 매트릭스). |
@@ -62,6 +80,7 @@ public sealed class PsDocument : Document
 | [SetPageSize](../../aspose.page.eps/psdocument/setpagesize/)(float, float) | 페이지 크기를 설정합니다. 한 문서에서 크기가 다른 페이지를 만들려면[`SetPageDevice`](./setpagedevice/) 이 메서드 바로 뒤에 있는 메서드. |
 | [SetPaint](../../aspose.page.eps/psdocument/setpaint/)(Brush) | 현재 그래픽 상태에서 페인트를 설정합니다. |
 | [SetStroke](../../aspose.page.eps/psdocument/setstroke/)(Pen) | 현재 그래픽 상태에서 스트로크를 설정합니다. |
+| [SetTransform](../../aspose.page.eps/psdocument/settransform/)(Matrix) | 현재 변환을 이것으로 설정합니다. |
 | [Shear](../../aspose.page.eps/psdocument/shear/)(float, float) | 현재 그래픽 상태(전단 전류 매트릭스)에 전단 변환을 추가합니다. |
 | [Transform](../../aspose.page.eps/psdocument/transform/)(Matrix) | 현재 그래픽 상태에 변환을 추가합니다(이 행렬을 현재 상태와 연결). |
 | [Translate](../../aspose.page.eps/psdocument/translate/)(float, float) | 현재 그래픽 상태에 변환을 추가합니다(현재 매트릭스 변환). |

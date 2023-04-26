@@ -3,7 +3,7 @@ title: Class InputBin.FeedType
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedType τάξη. Ορίζει σταθερές για το βαθμολογία ιδιότητας.
 type: docs
-weight: 1040
+weight: 1050
 url: /el/net/aspose.page.xps.xpsmetadata/inputbin.feedtype/
 ---
 ## InputBin.FeedType class

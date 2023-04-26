@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeightOffset
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeightOffset сорт. Указывает смещение параллельное направлению подачи.
 type: docs
-weight: 2120
+weight: 2130
 url: /ru/net/aspose.page.xps.xpsmetadata/pagemediasizepsheightoffset/
 ---
 ## PageMediaSizePSHeightOffset class

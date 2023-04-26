@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet τάξη. Περιγράφει την έξοδο του φύλλου σφάλματος. Ολόκληρη η εργασία θα έχει ένα μόνο φύλλο σφαλμάτων. Το φύλλο σφάλματος θα πρέπει να βγαίνει στην προεπιλογήPageMediaSize και χρησιμοποιώντας την προεπιλογήPageMediaType . Το φύλλο σφάλματος πρέπει να απομονωθεί από την υπόλοιπη εργασία. Αυτό σημαίνει ότι τυχόν επιλογές επεξεργασίας φινιρίσματος ή όπως   ή  δεν πρέπει να περιλαμβάνει το φύλλο σφαλμάτων. Το φύλλο σφάλματος θα πρέπει να εμφανίζεται ως το τελικό φύλλο της εργασίας. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /el/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

@@ -3,7 +3,7 @@ title: Class PageScalingOffsetWidth
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetWidth kelas. Menentukan offset penskalaan di arah untuk penskalaan khusus. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetwidth
 type: docs
-weight: 2540
+weight: 2550
 url: /id/net/aspose.page.xps.xpsmetadata/pagescalingoffsetwidth/
 ---
 ## PageScalingOffsetWidth class

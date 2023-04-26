@@ -3,7 +3,7 @@ title: Class DocumentCopiesAllPages
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCopiesAllPages τάξη. Καθορίζει τον αριθμό των αντιγράφων ενός εγγράφου. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcopiesallpages
 type: docs
-weight: 620
+weight: 630
 url: /el/net/aspose.page.xps.xpsmetadata/documentcopiesallpages/
 ---
 ## DocumentCopiesAllPages class

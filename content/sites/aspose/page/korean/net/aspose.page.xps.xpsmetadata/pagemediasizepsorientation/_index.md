@@ -3,7 +3,7 @@ title: Class PageMediaSizePSOrientation
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSOrientation 수업. 피드 방향 방향에 상대적인 방향을 지정합니다 https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsorientation
 type: docs
-weight: 2130
+weight: 2140
 url: /ko/net/aspose.page.xps.xpsmetadata/pagemediasizepsorientation/
 ---
 ## PageMediaSizePSOrientation class

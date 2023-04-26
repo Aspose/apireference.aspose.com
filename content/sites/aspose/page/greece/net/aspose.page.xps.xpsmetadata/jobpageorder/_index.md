@@ -3,7 +3,7 @@ title: Class JobPageOrder
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrder τάξη. Καθορίζει τη σειρά των φυσικών σελίδων για την έξοδο. https//docs.microsoft.com/enus/windows/win32/printdocs/jobpageorder
 type: docs
-weight: 1450
+weight: 1460
 url: /el/net/aspose.page.xps.xpsmetadata/jobpageorder/
 ---
 ## JobPageOrder class

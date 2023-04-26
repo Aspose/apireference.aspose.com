@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront classe. Décrit la première page de couverture. Lensemble du travail aura une seule feuille principale. La page de couverture doit être imprimée sur lePageMediaSize etPageMediaType utilisé pour la première page du travail. La page de garde doit être intégrée dans les options de traitement telles queJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  comme indiqué par loption spécifiée. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /fr/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

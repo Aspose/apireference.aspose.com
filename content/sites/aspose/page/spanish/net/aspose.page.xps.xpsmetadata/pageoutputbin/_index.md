@@ -3,7 +3,7 @@ title: Class PageOutputBin
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageOutputBin clase. Describe la lista completa de contenedores admitidos para el dispositivo. Permite la especificación de la bandeja de salida por página. ElJobOutputBin DocumentOutputBin yPageOutputBin las palabras clave son mutuamente excluyentes solo una debe especificarse en un documento PrintTicket o Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputbin
 type: docs
-weight: 2320
+weight: 2330
 url: /es/net/aspose.page.xps.xpsmetadata/pageoutputbin/
 ---
 ## PageOutputBin class

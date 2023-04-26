@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide τάξη. Αναγκάζει την έξοδο να εμφανίζεται στο μπροστινό μέρος ενός φύλλου μέσων. Σχετικό με φύλλα μέσων με διαφορετικές επιφάνειες σε κάθε πλευρά. Σε περιπτώσεις όπου αυτή η δυνατότητα παρεμβαίνει στις επιλογές επεξεργασίας όπως DocumentDuplex  έχει προτεραιότητα για τη συγκεκριμένη σελίδα στην οποία ισχύει η δυνατότητα.
 type: docs
-weight: 1970
+weight: 1980
 url: /el/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

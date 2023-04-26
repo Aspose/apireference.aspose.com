@@ -3,7 +3,7 @@ title: Class InputBin.MediaTypeAutoSense
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaTypeAutoSense クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 1100
+weight: 1110
 url: /ja/net/aspose.page.xps.xpsmetadata/inputbin.mediatypeautosense/
 ---
 ## InputBin.MediaTypeAutoSense class

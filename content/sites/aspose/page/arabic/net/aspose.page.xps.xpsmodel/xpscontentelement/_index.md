@@ -3,7 +3,7 @@ title: Class XpsContentElement
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsContentElement فصل. يدمج ميزات عناصر محتوى XPS Canvas  Path و Glyphs.
 type: docs
-weight: 3000
+weight: 3010
 url: /ar/net/aspose.page.xps.xpsmodel/xpscontentelement/
 ---
 ## XpsContentElement class

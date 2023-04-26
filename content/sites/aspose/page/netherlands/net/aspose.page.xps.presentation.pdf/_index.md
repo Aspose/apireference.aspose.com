@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page voor .NET API-referentie
 description: De Aspose.Page.Xps.Presentation.Pdf naamruimte biedt klassen voor het weergeven van XPS document naar PDFdocument.
 type: docs
-weight: 90
+weight: 100
 url: /nl/net/aspose.page.xps.presentation.pdf/
 ---
 De **Aspose.Page.Xps.Presentation.Pdf** naamruimte biedt klassen voor het weergeven van XPS -document naar PDF-document.

@@ -3,7 +3,7 @@ title: PsDocument.Translate
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Προσθέτει μετάφραση στην τρέχουσα κατάσταση γραφικών μεταφράζει την τρέχουσα μήτρα.
 type: docs
-weight: 280
+weight: 310
 url: /el/net/aspose.page.eps/psdocument/translate/
 ---
 ## PsDocument.Translate method

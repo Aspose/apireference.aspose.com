@@ -3,7 +3,7 @@ title: Class StringParameterInit
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.StringParameterInit 수업. 모든 문자열 매개변수 이니셜라이저의 기본 클래스.
 type: docs
-weight: 2900
+weight: 2910
 url: /ko/net/aspose.page.xps.xpsmetadata/stringparameterinit/
 ---
 ## StringParameterInit class

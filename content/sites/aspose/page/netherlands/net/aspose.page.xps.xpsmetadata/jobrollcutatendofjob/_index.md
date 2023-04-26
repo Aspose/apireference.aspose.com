@@ -3,7 +3,7 @@ title: Class JobRollCutAtEndOfJob
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobRollCutAtEndOfJob klas. Beschrijft de snijmethode voor rolpapier. De rol moet aan het einde van de taak worden afgesneden. https//docs.microsoft.com/enus/windows/win32/printdocs/jobrollcutatendofjob
 type: docs
-weight: 1570
+weight: 1580
 url: /nl/net/aspose.page.xps.xpsmetadata/jobrollcutatendofjob/
 ---
 ## JobRollCutAtEndOfJob class

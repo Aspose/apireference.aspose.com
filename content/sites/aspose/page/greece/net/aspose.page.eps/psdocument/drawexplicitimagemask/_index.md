@@ -3,7 +3,7 @@ title: PsDocument.DrawExplicitImageMask
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Σχεδιάστε μια καλυμμένη εικόνα.
 type: docs
-weight: 80
+weight: 90
 url: /el/net/aspose.page.eps/psdocument/drawexplicitimagemask/
 ---
 ## PsDocument.DrawExplicitImageMask method

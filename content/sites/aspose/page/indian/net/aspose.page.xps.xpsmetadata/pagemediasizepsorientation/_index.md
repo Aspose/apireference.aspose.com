@@ -3,7 +3,7 @@ title: Class PageMediaSizePSOrientation
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSOrientation कक्ष. फ़डअभवन्यस दश https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsorientation के सपेक्ष ओरएंटेशन नर्दष्ट करत है
 type: docs
-weight: 2130
+weight: 2140
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediasizepsorientation/
 ---
 ## PageMediaSizePSOrientation class

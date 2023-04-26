@@ -3,7 +3,7 @@ title: Class PageInputBin
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageInputBin classe. Descrive il raccoglitore di input installato in un dispositivo o lelenco completo dei raccoglitori supportati per un dispositivo. Consente di specificare il raccoglitore di input in base alla pagina. ILJobInputBin DocumentInputBin e PageInputBin parole chiave si escludono a vicenda. Entrambi non devono essere specificati contemporaneamente in un documento PrintTicket o Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/pageinputbin
 type: docs
-weight: 2020
+weight: 2030
 url: /it/net/aspose.page.xps.xpsmetadata/pageinputbin/
 ---
 ## PageInputBin class

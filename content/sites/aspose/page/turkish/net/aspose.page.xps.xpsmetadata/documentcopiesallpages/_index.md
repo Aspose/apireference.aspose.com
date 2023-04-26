@@ -3,7 +3,7 @@ title: Class DocumentCopiesAllPages
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentCopiesAllPages sınıf. Bir belgenin kopya sayısını belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcopiesallpages
 type: docs
-weight: 620
+weight: 630
 url: /tr/net/aspose.page.xps.xpsmetadata/documentcopiesallpages/
 ---
 ## DocumentCopiesAllPages class

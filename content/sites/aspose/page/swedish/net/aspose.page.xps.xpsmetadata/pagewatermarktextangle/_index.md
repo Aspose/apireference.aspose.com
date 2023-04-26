@@ -3,7 +3,7 @@ title: Class PageWatermarkTextAngle
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextAngle klass. Anger vinkeln för vattenstämpeltexten i förhållande till riktning. Vinkeln mäts moturs. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextangle
 type: docs
-weight: 2720
+weight: 2730
 url: /sv/net/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: द Aspose.Page.Xps.Presentation.Pdf नमस्थन XPS दस्तवेज़ क PDF दस्तवेज़ में प्रस्तुत करने के लए कक्षएं प्रदन करत है
 type: docs
-weight: 90
+weight: 100
 url: /hi/net/aspose.page.xps.presentation.pdf/
 ---
 द **Aspose.Page.Xps.Presentation.Pdf** नामस्थान XPS दस्तावेज़ को PDF दस्तावेज़ में प्रस्तुत करने के लिए कक्षाएं प्रदान करता है।

@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsRestore
 second_title: Aspose.Page pour la référence de l'API .NET
 description: PsDocument méthode. Ecrit la restauration de létat graphique actuel Voir spécification PostScript sur lopérateur grestore.
 type: docs
-weight: 290
+weight: 320
 url: /fr/net/aspose.page.eps/psdocument/writegraphicsrestore/
 ---
 ## PsDocument.WriteGraphicsRestore method

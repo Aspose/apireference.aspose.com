@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty कक्ष. वह वर्ग ज एक समन्य प्रंट टकट क लगू करत है . सभ स्कमपरभषत स्कर गुणं के लए आधर वर्ग ए तत्व एक संपत्त क घषण करत है ज an के लए आंतरक हैOption परभष ऐसे गुणं क तुलन क मूल्यंकन करते समय क जन चहए क अनुरध कतन बरक से कय गय हैOption डवइससमर्थत से मेल खत हैOption . https//docs.microsoft.com/enus/windows/win32/printdocs/scoreproperty
 type: docs
-weight: 2850
+weight: 2860
 url: /hi/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

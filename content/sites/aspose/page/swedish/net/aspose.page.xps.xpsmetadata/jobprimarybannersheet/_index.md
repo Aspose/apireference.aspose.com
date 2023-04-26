@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet klass. Beskriver bannerbladet som ska matas ut för jobbet. Bannerbladet ska matas ut på default PageMediaSize och använder standardPageMediaType . Bannerarket bör vara isolerat från resten av jobbet. Detta innebär att eventuella efterbehandlings eller bearbetningsalternativ som JobDuplexAllDocumentsContiguously JobStapleAllDocuments  ellerJobBindAllDocuments  ska inte inkludera bannerbladet. Bannerbladet ska vara det första arket i jobbet.
 type: docs
-weight: 1470
+weight: 1480
 url: /sv/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

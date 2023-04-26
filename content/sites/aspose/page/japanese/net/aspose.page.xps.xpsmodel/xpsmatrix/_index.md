@@ -3,7 +3,7 @@ title: Class XpsMatrix
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsMatrix クラス. MatrixTransform プロパティ要素の機能をカプセル化するクラス. この要素は要素の座標 システムを操作するために使用される任意のアフィン行列変換を定義します.
 type: docs
-weight: 3210
+weight: 3220
 url: /ja/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

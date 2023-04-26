@@ -3,7 +3,7 @@ title: Class PagePhotoPrintingIntent.PagePhotoPrintingIntentOption
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PagePhotoPrintingIntentPagePhotoPrintingIntentOption فصل. يحددPagePhotoPrintingIntent خيارات الميزة.
 type: docs
-weight: 2400
+weight: 2410
 url: /ar/net/aspose.page.xps.xpsmetadata/pagephotoprintingintent.pagephotoprintingintentoption/
 ---
 ## PagePhotoPrintingIntent.PagePhotoPrintingIntentOption class
@@ -33,7 +33,7 @@ public sealed class PagePhotoPrintingIntentOption : Option
 | static [None](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/none/) | No Photoprinting Intent (للسماح للتطبيق بتحديد عدم دقة النية . يجب عدم تغيير إعدادات PrintTicket) |
 | static [PhotoBest](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/photobest/) | أفضل جودة لطباعة الصور (يتم تقديمها غالبًا لأسباب تسويقية ؛ تستخدم أعلى إمكانيات الجهاز) |
 | static [PhotoDraft](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/photodraft/) | طباعة الصور بجودة المسودة (طباعة سريعة ، بكمية حبر منخفضة لأغراض التدقيق) |
-| static [PhotoStandard](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/photostandard/) | طباعة الصور بجودة قياسية (إعدادات OEM المقترحة لطباعة الصور القياسية) |
+| static [PhotoStandard](../../aspose.page.xps.xpsmetadata/pagephotoprintingintentoption/photostandard/) | جودة طباعة الصور القياسية (إعدادات OEM المقترحة لطباعة الصور القياسية) |
 
 ### أنظر أيضا
 

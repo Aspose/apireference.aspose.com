@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously klass. Beskriver utmatningen av flera logiska sidor till ett enda fysiskt ark. Alla dokument i jobbet sammanställs kontinuerligt.JobNUpAllDocumentsContiguously ochDocumentNUp utesluter varandra. Det är upp till föraren att avgöra hantering av restriktioner mellan dessa nyckelord. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /sv/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

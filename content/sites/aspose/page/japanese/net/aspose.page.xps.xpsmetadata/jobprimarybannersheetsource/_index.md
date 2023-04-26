@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheetSource
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheetSource クラス. ジョブのプライマリ カスタム バナー シートのソースを指定します https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarybannersheetsource
 type: docs
-weight: 1490
+weight: 1500
 url: /ja/net/aspose.page.xps.xpsmetadata/jobprimarybannersheetsource/
 ---
 ## JobPrimaryBannerSheetSource class

@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem koppel. Die Basisschnittstelle für Klassen die Druckschema sein könnenFeature Artikel.
 type: docs
-weight: 920
+weight: 930
 url: /de/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

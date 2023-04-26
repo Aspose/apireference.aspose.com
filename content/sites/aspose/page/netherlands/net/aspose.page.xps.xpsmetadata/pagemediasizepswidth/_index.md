@@ -3,7 +3,7 @@ title: Class PageMediaSizePSWidth
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSWidth klas. Specificeert de breedte van de pagina loodrecht op de invoerrichting. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepswidth
 type: docs
-weight: 2140
+weight: 2150
 url: /nl/net/aspose.page.xps.xpsmetadata/pagemediasizepswidth/
 ---
 ## PageMediaSizePSWidth class

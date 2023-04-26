@@ -3,7 +3,7 @@ title: Class JobDuplexAllDocumentsContiguously
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobDuplexAllDocumentsContiguously τάξη. Περιγράφει τα χαρακτηριστικά διπλής όψης της εξόδου. Η δυνατότητα διπλής όψης επιτρέπει την εκτύπωση σε και στις δύο πλευρές του μέσου. Όλα τα έγγραφα στην εργασία είναι διπλής όψης μεταξύ τους συνεχόμενα. JobDuplexAllDocumentsContiguously καιDocumentDuplexείναι αμοιβαία αποκλειόμενες. Εναπόκειται στο πρόγραμμα οδήγησης να καθορίσει τον χειρισμό περιορισμών μεταξύ αυτών των λέξεωνκλειδιών. https//docs.microsoft.com/enus/windows/win32/printdocs/jobduplexalldocumentscontiguously
 type: docs
-weight: 1280
+weight: 1290
 url: /el/net/aspose.page.xps.xpsmetadata/jobduplexalldocumentscontiguously/
 ---
 ## JobDuplexAllDocumentsContiguously class

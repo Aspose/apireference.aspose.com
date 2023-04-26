@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page
 second_title: .NET API 참조용 Aspose.Page
-description: Aspose.Page 다음과 같은 Aspose.Page 라이브러리의 모든 클래스에 대한 루트 네임스페이스입니다. 장치 또는 여러 하위 네임스페이스를 통해 간접적으로.
+description: Aspose.Page다음과 같은 Aspose.Page 라이브러리의 모든 클래스에 대한 루트 네임스페이스입니다. 장치 또는 여러 하위 네임스페이스를 통해 간접적으로.
 type: docs
 weight: 10
 url: /ko/net/aspose.page/
 ---
-**Aspose.Page** 다음과 같은 Aspose.Page 라이브러리의 모든 클래스에 대한 루트 네임스페이스입니다. **장치** 또는 여러 하위 네임스페이스를 통해 간접적으로.
+**Aspose.Page**다음과 같은 Aspose.Page 라이브러리의 모든 클래스에 대한 루트 네임스페이스입니다. **장치** 또는 여러 하위 네임스페이스를 통해 간접적으로.
 
 ## 클래스
 

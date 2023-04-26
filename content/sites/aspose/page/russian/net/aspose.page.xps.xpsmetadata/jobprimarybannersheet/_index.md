@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet сорт. Описывает титульный лист который будет выводиться для задания. Баннерный лист должен выводиться на default PageMediaSize и используя значение по умолчаниюPageMediaType . Титульный лист должен быть изолирован от остальной части задания. Это означает что любые варианты отделки или обработки например JobDuplexAllDocumentsContiguously JobStapleAllDocuments  илиJobBindAllDocuments  не должен включать титульный лист. Титульный лист должен быть первым листом задания.
 type: docs
-weight: 1470
+weight: 1480
 url: /ru/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

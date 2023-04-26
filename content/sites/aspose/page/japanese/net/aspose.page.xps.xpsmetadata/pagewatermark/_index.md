@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark クラス. 出力の透かし設定と透かし特性を記述します透かしは物理ページではなく論理ページに を適用しますたとえばDocumentDuplex有効にすると 透かしがそれぞれに表示されます各シートのページもしもDocumentDuplex 2 の場合各シートには 2 つの透かしがあります https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /ja/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

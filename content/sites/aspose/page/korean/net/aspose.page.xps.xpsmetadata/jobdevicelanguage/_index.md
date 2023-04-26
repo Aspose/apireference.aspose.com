@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage 수업. 드라이버에서 물리적 장치로 데이터를 보내는 데 지원되는 장치 언어를 설명합니다. 이것은 종종 페이지 설명 언어라고 합니다. 이 키워드는 드라이버 및 물리적 장치에서 지원하는 페이지 description 언어를 정의합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /ko/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

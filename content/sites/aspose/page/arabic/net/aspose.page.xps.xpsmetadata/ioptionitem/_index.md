@@ -3,7 +3,7 @@ title: Interface IOptionItem
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IOptionItem واجهه المستخدم. واجهة الفئات التي قد تكون طباعة مخططOption العناصر .
 type: docs
-weight: 940
+weight: 950
 url: /ar/net/aspose.page.xps.xpsmetadata/ioptionitem/
 ---
 ## IOptionItem interface

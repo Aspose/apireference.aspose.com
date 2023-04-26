@@ -3,7 +3,7 @@ title: Interface JobBindAllDocuments.IBindingOptionItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsIBindingOptionItem इंटरफेस. कस क इंटरफ़ेसBindingOption मद.
 type: docs
-weight: 1180
+weight: 1190
 url: /hi/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.ibindingoptionitem/
 ---
 ## JobBindAllDocuments.IBindingOptionItem interface

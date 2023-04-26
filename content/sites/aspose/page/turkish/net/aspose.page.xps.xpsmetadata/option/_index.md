@@ -3,7 +3,7 @@ title: Class Option
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.Option sınıf. Ortak bir PrintTicket uygulayan sınıf . Tüm şema tanımlı seçenekler için temel sınıf. Bir Seçenek öğesi tüm şema tanımlı seçenekleri içerir.Property and ScoredProperty bu seçenekle ilişkili öğeler. https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 1650
+weight: 1660
 url: /tr/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

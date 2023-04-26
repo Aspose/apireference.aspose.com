@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePunched
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePunched сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 2240
+weight: 2250
 url: /ru/net/aspose.page.xps.xpsmetadata/pagemediatype.prepunched/
 ---
 ## PageMediaType.PrePunched class

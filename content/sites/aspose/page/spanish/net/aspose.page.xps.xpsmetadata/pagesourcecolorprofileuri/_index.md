@@ -3,7 +3,7 @@ title: Class PageSourceColorProfileURI
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfileURI clase. Especifica el origen del perfil de color.
 type: docs
-weight: 2610
+weight: 2620
 url: /es/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofileuri/
 ---
 ## PageSourceColorProfileURI class

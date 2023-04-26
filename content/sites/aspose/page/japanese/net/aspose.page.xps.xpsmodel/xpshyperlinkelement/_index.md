@@ -3,7 +3,7 @@ title: Class XpsHyperlinkElement
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkElement クラス. ハイパーリンクにできる XPS 要素の共通機能をカプセル化します
 type: docs
-weight: 3120
+weight: 3130
 url: /ja/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

@@ -3,7 +3,7 @@ title: Class InputBin.BinType
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinBinType فصل. يعرف الثوابت لملف قيمة الممتلكات المسجلة.
 type: docs
-weight: 1010
+weight: 1020
 url: /ar/net/aspose.page.xps.xpsmetadata/inputbin.bintype/
 ---
 ## InputBin.BinType class

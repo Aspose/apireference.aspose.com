@@ -3,7 +3,7 @@ title: Class XpsRgbColor
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsRgbColor τάξη. Ενσωματώνει χρώμα RGB οποιουδήποτε χρωματικού χώρου sRGB ή scRGB.
 type: docs
-weight: 3340
+weight: 3350
 url: /el/net/aspose.page.xps.xpsmodel/xpsrgbcolor/
 ---
 ## XpsRgbColor class

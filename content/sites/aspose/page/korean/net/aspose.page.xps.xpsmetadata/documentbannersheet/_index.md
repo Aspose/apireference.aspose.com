@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet 수업. 특정 문서에 대해 출력할 배너 시트를 설명합니다. 배너 시트는 default 에 출력되어야 합니다.PageMediaSize 그리고 기본값을 사용하여PageMediaType . 배너 시트는 작업의 나머지 부분과도 분리되어야 합니다. 이는 마무리 또는 처리 옵션예 DocumentDuplex DocumentStaple  또는DocumentBinding 는 배너 시트를 포함하지 않아야 합니다. 배너 시트는 작업의 나머지 부분과 분리될 수도 있고 분리되지 않을 수도 있습니다. 이는 모든 작업 완료 또는 처리 옵션에 문서 배너 시트가 포함될 수 있음을 의미합니다. 배너 시트는 문서의 첫 번째 시트로 나타나야 합니다. https //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 530
+weight: 540
 url: /ko/net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class

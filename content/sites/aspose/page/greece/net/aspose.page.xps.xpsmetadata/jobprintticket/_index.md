@@ -3,7 +3,7 @@ title: Class JobPrintTicket
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrintTicket τάξη. Η κλάση που περιλαμβάνει ένα εισιτήριο εκτύπωσης σε επίπεδο εργασίας.
 type: docs
-weight: 1560
+weight: 1570
 url: /el/net/aspose.page.xps.xpsmetadata/jobprintticket/
 ---
 ## JobPrintTicket class

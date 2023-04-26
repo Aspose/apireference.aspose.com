@@ -3,7 +3,7 @@ title: PsDocument.DrawExplicitImageMask
 second_title: Aspose.Page für .NET-API-Referenz
 description: PsDocument methode. Maskiertes Bild zeichnen.
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.page.eps/psdocument/drawexplicitimagemask/
 ---
 ## PsDocument.DrawExplicitImageMask method

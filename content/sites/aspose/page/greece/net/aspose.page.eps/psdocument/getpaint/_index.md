@@ -3,7 +3,7 @@ title: PsDocument.GetPaint
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Παίρνει χρώμα της τρέχουσας κατάστασης γραφικών.
 type: docs
-weight: 130
+weight: 150
 url: /el/net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method

@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet classe. Décrit la page de garde à imprimer pour le travail. La feuille de bannière doit être sortie sur le default PageMediaSize et en utilisant la valeur par défautPageMediaType . La page de garde doit être isolée du reste du travail. Cela signifie que toutes les options de finition ou de traitement telles que JobDuplexAllDocumentsContiguously JobStapleAllDocuments  ouJobBindAllDocuments  ne doit pas inclure la feuille de bannière. La page de garde doit apparaître comme la première feuille du travail.
 type: docs
-weight: 1470
+weight: 1480
 url: /fr/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

@@ -3,7 +3,7 @@ title: Class PageBorderless
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBorderless कक्ष. वर्णन करत है क छव समग्र क मडय के भतक कनरं पर कब प्रंट कय जन चहए. https//docs.microsoft.com/enus/windows/win32/printdocs/pageborderless
 type: docs
-weight: 1830
+weight: 1840
 url: /hi/net/aspose.page.xps.xpsmetadata/pageborderless/
 ---
 ## PageBorderless class

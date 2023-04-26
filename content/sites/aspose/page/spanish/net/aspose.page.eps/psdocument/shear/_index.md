@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Referencia de la API de Aspose.Page para .NET
 description: PsDocument método. Agrega transformación de corte al estado gráfico actual matriz de corriente de corte.
 type: docs
-weight: 260
+weight: 290
 url: /es/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

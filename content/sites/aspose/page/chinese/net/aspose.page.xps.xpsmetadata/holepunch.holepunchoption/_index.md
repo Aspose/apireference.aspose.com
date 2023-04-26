@@ -3,7 +3,7 @@ title: Class HolePunch.HolePunchOption
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.HolePunchHolePunchOption 班级. 描述了HolePunch功能选项.
 type: docs
-weight: 890
+weight: 900
 url: /zh/net/aspose.page.xps.xpsmetadata/holepunch.holepunchoption/
 ---
 ## HolePunch.HolePunchOption class

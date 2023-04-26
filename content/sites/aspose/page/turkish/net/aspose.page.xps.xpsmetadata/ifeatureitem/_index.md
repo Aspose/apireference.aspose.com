@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem arayüz. Baskı Şeması olabilecek sınıflar için temel arayüzFeature öğeler.
 type: docs
-weight: 920
+weight: 930
 url: /tr/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

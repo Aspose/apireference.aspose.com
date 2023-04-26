@@ -3,7 +3,7 @@ title: Class PageWatermarkTextColor
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextColor klas. Definieert de sRGBkleur voor de watermerktekst. Formaat is ARGB AARRGGBB. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextcolor
 type: docs
-weight: 2730
+weight: 2740
 url: /nl/net/aspose.page.xps.xpsmetadata/pagewatermarktextcolor/
 ---
 ## PageWatermarkTextColor class

@@ -3,7 +3,7 @@ title: Class PageWatermarkTextAngle
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextAngle clase. Especifica el ángulo del texto de la marca de agua en relación con el dirección. El ángulo se mide en sentido antihorario. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextangle
 type: docs
-weight: 2720
+weight: 2730
 url: /es/net/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

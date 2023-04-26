@@ -3,7 +3,7 @@ title: Class PageMediaSizeMediaSizeWidth
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeMediaSizeWidth 班级. 指定维度海关的方向 option. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizemediasizewidth
 type: docs
-weight: 2100
+weight: 2110
 url: /zh/net/aspose.page.xps.xpsmetadata/pagemediasizemediasizewidth/
 ---
 ## PageMediaSizeMediaSizeWidth class

@@ -3,7 +3,7 @@ title: Class PageResolution
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageResolution فصل. يحدد دقة الصفحة للمخرجات المطبوعة كقيمة نوعية أو كنقاط في البوصة أو كليهما . https//docs.microsoft.com/enus/windows/win32/printdocs/pageresolution
 type: docs
-weight: 2430
+weight: 2440
 url: /ar/net/aspose.page.xps.xpsmetadata/pageresolution/
 ---
 ## PageResolution class

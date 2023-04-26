@@ -3,7 +3,7 @@ title: PsDocument.Fill
 second_title: Aspose.Page untuk Referensi .NET API
 description: PsDocument metode. Isi jalur arbitrer.
 type: docs
-weight: 100
+weight: 120
 url: /id/net/aspose.page.eps/psdocument/fill/
 ---
 ## PsDocument.Fill method

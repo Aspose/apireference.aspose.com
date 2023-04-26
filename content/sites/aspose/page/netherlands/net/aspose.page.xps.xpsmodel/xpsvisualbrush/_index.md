@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush klas. Klasse die kenmerken van VisualBrusheigenschapselementen inkapselt. Dit element wordt gebruikt om een gebied te vullen met een tekening.
 type: docs
-weight: 3420
+weight: 3430
 url: /nl/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

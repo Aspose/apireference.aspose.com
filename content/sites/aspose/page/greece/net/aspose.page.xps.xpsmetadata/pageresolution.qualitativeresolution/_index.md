@@ -3,7 +3,7 @@ title: Class PageResolution.QualitativeResolution
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionQualitativeResolution τάξη. Ορίζει σταθερές για το βαθμολογία ιδιότητας.
 type: docs
-weight: 2470
+weight: 2480
 url: /el/net/aspose.page.xps.xpsmetadata/pageresolution.qualitativeresolution/
 ---
 ## PageResolution.QualitativeResolution class

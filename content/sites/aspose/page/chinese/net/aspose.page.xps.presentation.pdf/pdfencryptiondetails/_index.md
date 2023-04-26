@@ -3,7 +3,7 @@ title: Class PdfEncryptionDetails
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.Presentation.Pdf.PdfEncryptionDetails 班级. 包含 pdf 加密的详细信息
 type: docs
-weight: 420
+weight: 430
 url: /zh/net/aspose.page.xps.presentation.pdf/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class

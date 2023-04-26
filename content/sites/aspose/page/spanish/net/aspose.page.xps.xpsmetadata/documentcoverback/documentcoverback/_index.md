@@ -16,7 +16,7 @@ public DocumentCoverBack(params CoverBackOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | CoverBackOption[] | Una matriz de opciones específicas para la característica. |
+| options | CoverBackOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

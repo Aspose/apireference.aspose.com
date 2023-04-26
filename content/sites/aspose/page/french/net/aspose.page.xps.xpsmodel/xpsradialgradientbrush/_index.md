@@ -3,7 +3,7 @@ title: Class XpsRadialGradientBrush
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsRadialGradientBrush classe. Classe incorporant les fonctionnalités de lélément de propriété RadialGradientBrush. Cet élément est utilisé pour spécifier un pinceau dégradé radial.
 type: docs
-weight: 3330
+weight: 3340
 url: /fr/net/aspose.page.xps.xpsmodel/xpsradialgradientbrush/
 ---
 ## XpsRadialGradientBrush class

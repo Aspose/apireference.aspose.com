@@ -3,7 +3,7 @@ title: Class PageOutputBin
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageOutputBin クラス. デバイスでサポートされているビンの完全なリストについて説明しますページ単位で出力ビンを指定できます JobOutputBin DocumentOutputBinとPageOutputBinキーワードは相互に排他的です PrintTicket または Print Capabilities ドキュメントで指定する必要があるのは 1 つだけです.
 type: docs
-weight: 2320
+weight: 2330
 url: /ja/net/aspose.page.xps.xpsmetadata/pageoutputbin/
 ---
 ## PageOutputBin class

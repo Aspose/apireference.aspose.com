@@ -3,7 +3,7 @@ title: Class JobErrorSheet.ErrorSheetWhen
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetErrorSheetWhen 수업. 내부 설명 기능.
 type: docs
-weight: 1310
+weight: 1320
 url: /ko/net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetwhen/
 ---
 ## JobErrorSheet.ErrorSheetWhen class

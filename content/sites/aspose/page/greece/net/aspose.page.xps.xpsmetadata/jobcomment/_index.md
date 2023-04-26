@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobComment τάξη. Καθορίζει ένα σχόλιο που σχετίζεται με την εργασία. Παράδειγμα Παρακαλώ παραδώστε στο δωμάτιο 1234 όταν ολοκληρωθεί. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /el/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

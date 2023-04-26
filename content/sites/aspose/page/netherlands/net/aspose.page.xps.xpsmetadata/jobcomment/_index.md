@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.JobComment klas. Geeft een opmerking aan die aan de taak is gekoppeld. Voorbeeld Gelieve te bezorgen in kamer 1234 wanneer voltooid. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /nl/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

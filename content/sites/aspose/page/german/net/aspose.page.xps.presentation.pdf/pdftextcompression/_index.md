@@ -3,7 +3,7 @@ title: Enum PdfTextCompression
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.Presentation.Pdf.PdfTextCompression opsomming. Gibt einen Komprimierungstyp an der auf alle Inhalte in der PDFDatei mit Ausnahme von Bildern angewendet wird.
 type: docs
-weight: 450
+weight: 460
 url: /de/net/aspose.page.xps.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enumeration

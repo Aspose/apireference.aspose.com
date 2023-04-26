@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Προσθέτει μετασχηματισμό διάτμησης στην τρέχουσα κατάσταση γραφικών μήτρα διάτμησης ρεύματος.
 type: docs
-weight: 260
+weight: 290
 url: /el/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

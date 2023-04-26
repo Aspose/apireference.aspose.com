@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice 수업. 클래스 캡슐화 이미지 구성 장치.
 type: docs
-weight: 400
+weight: 410
 url: /ko/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class

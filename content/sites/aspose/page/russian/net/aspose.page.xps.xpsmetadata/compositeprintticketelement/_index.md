@@ -3,7 +3,7 @@ title: Class CompositePrintTicketElement
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.CompositePrintTicketElement сорт. Базовый класс для классов которые могут быть составными элементами схемы печати т.е. содержать другие элементы.
 type: docs
-weight: 510
+weight: 520
 url: /ru/net/aspose.page.xps.xpsmetadata/compositeprintticketelement/
 ---
 ## CompositePrintTicketElement class

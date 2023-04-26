@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingBlackInkLimit
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingBlackInkLimit сорт. Содержимое приложения помеченное указанным именованным цветом ДОЛЖНО отображаться во всех цветоделениях. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessingblackinklimit
 type: docs
-weight: 1730
+weight: 1740
 url: /ru/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingblackinklimit/
 ---
 ## PageBlackGenerationProcessingBlackInkLimit class

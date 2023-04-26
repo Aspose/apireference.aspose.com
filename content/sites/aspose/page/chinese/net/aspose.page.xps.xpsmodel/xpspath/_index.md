@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsPath 班级. 类封装 Path 元素特性 该元素是将矢量图形和图像添加到固定页面的唯一方法 它定义了要在页面上呈现的单个矢量图形
 type: docs
-weight: 3250
+weight: 3260
 url: /zh/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

@@ -3,7 +3,7 @@ title: PsDocument.GetStroke
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. Mevcut grafik durumunun vuruşunu alır.
 type: docs
-weight: 140
+weight: 160
 url: /tr/net/aspose.page.eps/psdocument/getstroke/
 ---
 ## PsDocument.GetStroke method

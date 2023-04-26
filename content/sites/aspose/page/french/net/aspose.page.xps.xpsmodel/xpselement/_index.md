@@ -3,7 +3,7 @@ title: Class XpsElement
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsElement classe. Classe encapsulant les fonctionnalités communes des éléments XPS.
 type: docs
-weight: 3030
+weight: 3040
 url: /fr/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class

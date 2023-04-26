@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack сорт. Описывает заднюю конечную обложку. Каждое задание будет иметь отдельный основной лист. Титульный лист должен быть напечатан наPageMediaSize иPageMediaType используется для последней страницы задания. Титульный лист должен быть интегрирован в обработку options напримерJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  в соответствии с указанным параметром. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /ru/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

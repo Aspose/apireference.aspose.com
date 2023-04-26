@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. Konturu mevcut grafik durumunda ayarlar.
 type: docs
-weight: 250
+weight: 270
 url: /tr/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

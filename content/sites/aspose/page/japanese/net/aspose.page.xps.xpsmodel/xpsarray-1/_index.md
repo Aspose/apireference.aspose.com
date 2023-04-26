@@ -3,7 +3,7 @@ title: Class XpsArrayT
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsArray1T クラス. 一般的な XPS モデル配列オブジェクト機能をカプセル化するクラス
 type: docs
-weight: 2950
+weight: 2960
 url: /ja/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

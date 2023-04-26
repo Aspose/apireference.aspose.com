@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginWidth
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginWidth сорт. Определяет происхождение водяного знака относительно происхождения . https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginwidth
 type: docs
-weight: 2710
+weight: 2720
 url: /ru/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginwidth/
 ---
 ## PageWatermarkOriginWidth class

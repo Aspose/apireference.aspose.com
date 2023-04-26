@@ -3,7 +3,7 @@ title: Class XpsPathGeometry
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPathGeometry 수업. PathGeometry 속성 요소 기능을 캡슐화하는 클래스. 이 요소에는 Figures 특성 또는 하위 PathFigure 요소가 있는 로 지정된 경로 그림 집합이 포함됩니다.
 type: docs
-weight: 3270
+weight: 3280
 url: /ko/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class

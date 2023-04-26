@@ -3,7 +3,7 @@ title: Enum XpsLineCap
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsLineCap αρίθμηση. Έγκυρες τιμές των ιδιοτήτων StrokeStartLineCap και StrokeEndLineCap του στοιχείου διαδρομής.
 type: docs
-weight: 3180
+weight: 3190
 url: /el/net/aspose.page.xps.xpsmodel/xpslinecap/
 ---
 ## XpsLineCap enumeration

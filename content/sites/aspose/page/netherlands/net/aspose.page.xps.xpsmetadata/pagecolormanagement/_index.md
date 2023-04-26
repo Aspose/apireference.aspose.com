@@ -3,7 +3,7 @@ title: Class PageColorManagement
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageColorManagement klas. Configureert kleurbeheer voor de huidige pagina. Dit wordt als automatisch beschouwd in SHIM  DM_ICMMethod Add System. Beschrijft welk onderdeel kleurbeheer moet uitvoeren dwz stuurprogramma. https//docs.microsoft.com/enus/windows /win32/printdocs/pagecolormanagement
 type: docs
-weight: 1850
+weight: 1860
 url: /nl/net/aspose.page.xps.xpsmetadata/pagecolormanagement/
 ---
 ## PageColorManagement class

@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation クラス. 物理メディア シートの向きを記述します https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2300
+weight: 2310
 url: /ja/net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

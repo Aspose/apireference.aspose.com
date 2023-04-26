@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet klas. Beschreibt das Bannerblatt das für den Job ausgegeben werden soll. Das Bannerblatt soll auf dem default ausgegeben werdenPageMediaSize und die Standardeinstellung verwendenPageMediaType . Das Bannerblatt sollte vom Rest des Jobs isoliert sein. Das bedeutet dass alle Veredelungs oder Verarbeitungsoptionen wie JobDuplexAllDocumentsContiguously JobStapleAllDocuments  oderJobBindAllDocuments  sollte das Bannerblatt nicht enthalten. Der Bannerbogen sollte als erster Bogen des Auftrags erscheinen.
 type: docs
-weight: 1470
+weight: 1480
 url: /de/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

@@ -3,7 +3,7 @@ title: PsDocument.SetPageSize
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. पृष्ठ आकर सेट करत है एक दस्तवेज़ में वभन्न आकरं वले पृष्ठ बनने के लए उपयग करेंSetPageDevice वध इस वध के बद
 type: docs
-weight: 230
+weight: 250
 url: /hi/net/aspose.page.eps/psdocument/setpagesize/
 ---
 ## PsDocument.SetPageSize method

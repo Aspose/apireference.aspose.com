@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation
 second_title: Aspose.Page لمرجع NET API
 description: ملف Aspose.Page.Xps.Presentationتوفر مساحة الاسم فئات أساسية لعرض مستند XPS إلى تنسيقات أخرى.
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.page.xps.presentation/
 ---
 ملف **Aspose.Page.Xps.Presentation**توفر مساحة الاسم فئات أساسية لعرض مستند XPS إلى تنسيقات أخرى.

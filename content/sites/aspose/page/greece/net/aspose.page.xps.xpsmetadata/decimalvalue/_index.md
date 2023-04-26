@@ -3,7 +3,7 @@ title: Class DecimalValue
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DecimalValue τάξη. Η κλάση που ενσωματώνει μια δεκαδική τιμή σε ένα έγγραφο PrintTicket.
 type: docs
-weight: 520
+weight: 530
 url: /el/net/aspose.page.xps.xpsmetadata/decimalvalue/
 ---
 ## DecimalValue class

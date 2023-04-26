@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page
 second_title: Aspose.Page untuk Referensi .NET API
-description: Itu Aspose.Halaman adalah root namespace untuk semua kelas perpustakaan Aspose.Page yang langsung ada di dalamnya Perangkat atau secara tidak langsung melalui beberapa subnamespaces.
+description: Itu Aspose.Halamanadalah root namespace untuk semua kelas perpustakaan Aspose.Page yang langsung ada di dalamnya Perangkat atau secara tidak langsung melalui beberapa subnamespaces.
 type: docs
 weight: 10
 url: /id/net/aspose.page/
 ---
-Itu **Aspose.Halaman** adalah root namespace untuk semua kelas perpustakaan Aspose.Page yang langsung ada di dalamnya **Perangkat** atau secara tidak langsung melalui beberapa subnamespaces.
+Itu **Aspose.Halaman**adalah root namespace untuk semua kelas perpustakaan Aspose.Page yang langsung ada di dalamnya **Perangkat** atau secara tidak langsung melalui beberapa subnamespaces.
 
 ## Kelas
 

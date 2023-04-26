@@ -3,7 +3,7 @@ title: Class DocumentBannerSheetSource
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheetSource कक्ष. एक कस्टम बैनर शट के लए स्रत नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheetsource
 type: docs
-weight: 550
+weight: 560
 url: /hi/net/aspose.page.xps.xpsmetadata/documentbannersheetsource/
 ---
 ## DocumentBannerSheetSource class

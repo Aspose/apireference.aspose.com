@@ -3,7 +3,7 @@ title: Class PageMediaType.BackCoating
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeBackCoating klass. Definierar konstanter för poängsatt egenskapsvärde.
 type: docs
-weight: 2170
+weight: 2180
 url: /sv/net/aspose.page.xps.xpsmetadata/pagemediatype.backcoating/
 ---
 ## PageMediaType.BackCoating class

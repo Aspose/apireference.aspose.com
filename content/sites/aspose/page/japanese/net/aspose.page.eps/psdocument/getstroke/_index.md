@@ -3,7 +3,7 @@ title: PsDocument.GetStroke
 second_title: Aspose.Page for .NET API リファレンス
 description: PsDocument 方法. 現在のグラフィック状態のストロークを取得します.
 type: docs
-weight: 140
+weight: 160
 url: /ja/net/aspose.page.eps/psdocument/getstroke/
 ---
 ## PsDocument.GetStroke method

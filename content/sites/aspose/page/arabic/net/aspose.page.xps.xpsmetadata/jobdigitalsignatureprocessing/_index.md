@@ -3,7 +3,7 @@ title: Class JobDigitalSignatureProcessing
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobDigitalSignatureProcessing فصل. يصف تكوين معالجة التوقيع الرقمي للمهمة بأكملها. ينطبق فقط على المحتوى الذي يحتوي على توقيعات رقمية . https//docs.microsoft.com/enus/windows/win32/printdocs/jobdigitalsignatureprocessing
 type: docs
-weight: 1260
+weight: 1270
 url: /ar/net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing/
 ---
 ## JobDigitalSignatureProcessing class

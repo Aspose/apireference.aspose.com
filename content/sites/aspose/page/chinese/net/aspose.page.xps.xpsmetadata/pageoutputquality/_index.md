@@ -3,7 +3,7 @@ title: Class PageOutputQuality
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageOutputQuality 班级. 描述输出的负设置 https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputquality
 type: docs
-weight: 2370
+weight: 2380
 url: /zh/net/aspose.page.xps.xpsmetadata/pageoutputquality/
 ---
 ## PageOutputQuality class

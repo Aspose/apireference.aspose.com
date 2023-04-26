@@ -3,7 +3,7 @@ title: Class Duplex
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.Duplex τάξη. Η βασική κλάση γιαJobDuplexAllDocumentsContiguously καιDocumentDuplex χαρακτηριστικών τάξεων.
 type: docs
-weight: 840
+weight: 850
 url: /el/net/aspose.page.xps.xpsmetadata/duplex/
 ---
 ## Duplex class

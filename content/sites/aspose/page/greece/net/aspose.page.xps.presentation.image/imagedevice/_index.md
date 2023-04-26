@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.Presentation.Image.ImageDevice τάξη. Συσκευή σύνθεσης εικόνας ενθυλάκωσης κατηγορίας.
 type: docs
-weight: 350
+weight: 360
 url: /el/net/aspose.page.xps.presentation.image/imagedevice/
 ---
 ## ImageDevice class

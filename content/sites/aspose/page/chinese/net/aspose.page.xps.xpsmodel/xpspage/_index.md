@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsPage 班级. 封装固定页面元素特性的类 该元素包含页面的内容是固定页面部分的根元素
 type: docs
-weight: 3230
+weight: 3240
 url: /zh/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

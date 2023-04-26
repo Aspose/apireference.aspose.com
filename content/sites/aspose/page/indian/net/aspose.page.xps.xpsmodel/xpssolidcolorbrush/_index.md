@@ -3,7 +3,7 @@ title: Class XpsSolidColorBrush
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsSolidColorBrush कक्ष. क्लस इनकैप्सुलेटंग सलडकलरब्रश प्रपर्ट एलमेंट फचर्स इस एलमेंट क इस्तेमल परभषत ज्यमतय क्षेत्रं क ठस रंग से भरने के लए कय जत है
 type: docs
-weight: 3350
+weight: 3360
 url: /hi/net/aspose.page.xps.xpsmodel/xpssolidcolorbrush/
 ---
 ## XpsSolidColorBrush class

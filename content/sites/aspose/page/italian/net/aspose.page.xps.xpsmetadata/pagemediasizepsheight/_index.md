@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeight
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeight classe. Specifica laltezza della pagina parallela alla direzione dellorientamento del feed. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheight
 type: docs
-weight: 2110
+weight: 2120
 url: /it/net/aspose.page.xps.xpsmetadata/pagemediasizepsheight/
 ---
 ## PageMediaSizePSHeight class

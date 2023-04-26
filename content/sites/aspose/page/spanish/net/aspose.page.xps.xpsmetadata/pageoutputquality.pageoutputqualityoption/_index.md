@@ -3,7 +3,7 @@ title: Class PageOutputQuality.PageOutputQualityOption
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageOutputQualityPageOutputQualityOption clase. DefinePageOutputQuality opciones de funciones.
 type: docs
-weight: 2380
+weight: 2390
 url: /es/net/aspose.page.xps.xpsmetadata/pageoutputquality.pageoutputqualityoption/
 ---
 ## PageOutputQuality.PageOutputQualityOption class

@@ -20,7 +20,7 @@ public float GetTextWidthPoints(string text)
 
 ### 반환 값
 
-반환 너비
+반환 폭
 
 ### 또한보십시오
 
@@ -46,7 +46,7 @@ public float GetTextWidthPoints(string text, int startIndex, int charCount)
 
 ### 반환 값
 
-반환 너비
+반환 폭
 
 ### 또한보십시오
 

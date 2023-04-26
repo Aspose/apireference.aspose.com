@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem واجهه المستخدم. الواجهة الأساسية للفئات التي قد تكون مخطط الطباعةFeature العناصر .
 type: docs
-weight: 920
+weight: 930
 url: /ar/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

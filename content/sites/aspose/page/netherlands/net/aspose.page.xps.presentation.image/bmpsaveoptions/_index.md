@@ -3,7 +3,7 @@ title: Class BmpSaveOptions
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.Presentation.Image.BmpSaveOptions klas. Klasse voor XPSasBMPopslagopties.
 type: docs
-weight: 340
+weight: 350
 url: /nl/net/aspose.page.xps.presentation.image/bmpsaveoptions/
 ---
 ## BmpSaveOptions class

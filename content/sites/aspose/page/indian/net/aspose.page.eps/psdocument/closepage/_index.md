@@ -3,7 +3,7 @@ title: PsDocument.ClosePage
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. वर्तमन पृष्ठ पूर्ण करें.
 type: docs
-weight: 60
+weight: 70
 url: /hi/net/aspose.page.eps/psdocument/closepage/
 ---
 ## PsDocument.ClosePage method

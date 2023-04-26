@@ -3,7 +3,7 @@ title: Class PageOrientation.PageOrientationOption
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageOrientationPageOrientationOption сорт. ОписываетPageOrientation параметры функции.
 type: docs
-weight: 2310
+weight: 2320
 url: /ru/net/aspose.page.xps.xpsmetadata/pageorientation.pageorientationoption/
 ---
 ## PageOrientation.PageOrientationOption class

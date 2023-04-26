@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront 班级. 描述前开始封面每个文档都有单独的页 封面页应打印在PageMediaSize和PageMediaType 用于文档的第一页封面应集成到处理选项 例如DocumentDuplexDocumentNUp  如指定的选项所示 https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /zh/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

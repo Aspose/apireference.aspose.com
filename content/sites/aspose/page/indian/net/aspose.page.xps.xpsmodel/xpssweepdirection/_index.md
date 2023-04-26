@@ -3,7 +3,7 @@ title: Enum XpsSweepDirection
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsSweepDirection एनुम. आर्कसेगमेंट तत्व के स्वपडयरेक्शन गुण के मन्य मन.
 type: docs
-weight: 3380
+weight: 3390
 url: /hi/net/aspose.page.xps.xpsmodel/xpssweepdirection/
 ---
 ## XpsSweepDirection enumeration

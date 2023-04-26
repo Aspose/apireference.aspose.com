@@ -3,7 +3,7 @@ title: Class DocumentPageRanges
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentPageRanges klass. Beskriver utdataområdet för dokumentet i sidor. Parametervärdet måste överensstämma med följande struktur  PageRangeText PageRange eller PageRangePageRange  PageRange PageNumber eller PageNumberPageNumber  PageNumber där N1 är numret till sidor i dokumentet.Om PageNumber  N då PageNumber  N. Whitespace i strängen ska ignoreras. https//docs.microsoft.com/enus/windows/win32/printdocs/documentpageranges
 type: docs
-weight: 770
+weight: 780
 url: /sv/net/aspose.page.xps.xpsmetadata/documentpageranges/
 ---
 ## DocumentPageRanges class

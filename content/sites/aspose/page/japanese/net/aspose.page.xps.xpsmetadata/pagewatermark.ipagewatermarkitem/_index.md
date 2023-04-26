@@ -3,7 +3,7 @@ title: Interface PageWatermark.IPageWatermarkItem
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkIPageWatermarkItem インターフェース. 任意のインターフェイスPageWatermark機能アイテム.
 type: docs
-weight: 2650
+weight: 2660
 url: /ja/net/aspose.page.xps.xpsmetadata/pagewatermark.ipagewatermarkitem/
 ---
 ## PageWatermark.IPageWatermarkItem interface

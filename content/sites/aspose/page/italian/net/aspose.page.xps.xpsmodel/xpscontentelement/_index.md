@@ -3,7 +3,7 @@ title: Class XpsContentElement
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsContentElement classe. Incapsula le caratteristiche degli elementi di contenuto XPS Canvas Path e Glyphs.
 type: docs
-weight: 3000
+weight: 3010
 url: /it/net/aspose.page.xps.xpsmodel/xpscontentelement/
 ---
 ## XpsContentElement class

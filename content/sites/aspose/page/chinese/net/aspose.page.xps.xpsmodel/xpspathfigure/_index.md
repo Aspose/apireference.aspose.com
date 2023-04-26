@@ -3,7 +3,7 @@ title: Class XpsPathFigure
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsPathFigure 班级. 封装PathFigure元素特征的类 该元素由一组一条或多条直线或曲线段组成
 type: docs
-weight: 3260
+weight: 3270
 url: /zh/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

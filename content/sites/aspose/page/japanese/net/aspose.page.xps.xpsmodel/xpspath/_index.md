@@ -3,7 +3,7 @@ title: Class XpsPath
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsPath クラス. パス要素の機能をカプセル化するクラス. この要素は固定ページにベクトル グラフィックと画像を追加する唯一の手段です. ページにレンダリングされる単一のベクトル グラフィックを定義します.
 type: docs
-weight: 3250
+weight: 3260
 url: /ja/net/aspose.page.xps.xpsmodel/xpspath/
 ---
 ## XpsPath class

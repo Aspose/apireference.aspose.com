@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark sınıf. Çıktının filigran ayarını ve filigran özelliklerini açıklar. Filigranlar fiziksel sayfaya değil mantıksal sayfaya uygulanır . Örneğin eğerDocumentDuplex etkinleştirildiğinde her birinde bir filigran görünecektir her sayfadaki sayfa. EğerDocumentDuplex  2 o zaman her sayfada 2 filigran olacaktır. https//docs.Microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /tr/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

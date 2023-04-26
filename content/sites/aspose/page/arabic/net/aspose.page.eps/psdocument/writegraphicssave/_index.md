@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsSave
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. يكتب حفظ حالة الرسومات الحالية راجع مواصفات PostScript على عامل التشغيل gsave .
 type: docs
-weight: 300
+weight: 330
 url: /ar/net/aspose.page.eps/psdocument/writegraphicssave/
 ---
 ## PsDocument.WriteGraphicsSave method

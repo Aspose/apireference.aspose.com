@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments sınıf. Çıktının zımbalama özelliklerini açıklar. İşteki tüm belgeler birlikte zımbalanır. JobStapleAllDocuments VeDocumentStaple anahtar kelimeler karşılıklı olarak birbirini dışlar. Bu anahtar kelimeler arasındaki kısıtlama işlemeyi belirlemek sürücüye bağlıdır. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealdocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /tr/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

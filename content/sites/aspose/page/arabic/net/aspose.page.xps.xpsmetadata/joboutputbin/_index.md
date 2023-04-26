@@ -3,7 +3,7 @@ title: Class JobOutputBin
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobOutputBin فصل. يصف حاوية الإخراج المثبتة في الجهاز أو القائمة الكاملة للحاويات المدعومة للجهاز.JobOutputBin وDocumentOutputBin وPageOutputBin الكلمات الرئيسية هي حصرية بشكل متبادل يجب تحديد واحدة فقط في بطاقة PrintTicket أو مستند إمكانيات الطباعة . https//docs.microsoft.com/enus/windows/win32/printdocs/joboutputbin
 type: docs
-weight: 1420
+weight: 1430
 url: /ar/net/aspose.page.xps.xpsmetadata/joboutputbin/
 ---
 ## JobOutputBin class

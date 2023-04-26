@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously kelas. Menjelaskan output dari beberapa halaman logis ke satu lembar fisik. Semua dokumen di job dikompilasi bersama secara berurutan.JobNUpAllDocumentsContiguously DanDocumentNUp saling eksklusif. Terserah pengemudi untuk menentukan penanganan kendala antara kata kunci ini. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /id/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

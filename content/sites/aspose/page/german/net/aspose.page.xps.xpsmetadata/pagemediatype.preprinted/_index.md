@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePrinted
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePrinted klas. Definiert Konstanten für die Bewerteter Eigenschaftswert.
 type: docs
-weight: 2230
+weight: 2240
 url: /de/net/aspose.page.xps.xpsmetadata/pagemediatype.preprinted/
 ---
 ## PageMediaType.PrePrinted class

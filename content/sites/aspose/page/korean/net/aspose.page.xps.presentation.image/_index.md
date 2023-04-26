@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.Xps.Presentation.Image 네임스페이스는 XPS 문서를 이미지로 렌더링하기 위한 클래스를 제공합니다.
 type: docs
-weight: 80
+weight: 90
 url: /ko/net/aspose.page.xps.presentation.image/
 ---
 **Aspose.Page.Xps.Presentation.Image** 네임스페이스는 XPS 문서를 이미지로 렌더링하기 위한 클래스를 제공합니다.

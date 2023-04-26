@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple τάξη. Περιγράφει τα χαρακτηριστικά συρραφής της εξόδου. Κάθε έγγραφο συρράπτεται χωριστά. ΤοJobStapleAllDocuments καιDocumentStapleΟι λέξειςκλειδιά είναι αμοιβαία αποκλειόμενες. Εναπόκειται στον οδηγό να καθορίσει τον χειρισμό περιορισμών μεταξύ αυτών των λέξεωνκλειδιών. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /el/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

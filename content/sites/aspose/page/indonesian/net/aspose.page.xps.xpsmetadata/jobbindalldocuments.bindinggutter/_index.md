@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter kelas. Menjelaskan cara menentukan mencetak nilai properti apakah dengan nilai integer atau referensi ke parameter.
 type: docs
-weight: 1160
+weight: 1170
 url: /id/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

@@ -3,7 +3,7 @@ title: Class PageNegativeImage.PageNegativeImageOption
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageNegativeImagePageNegativeImageOption klas. definiertPageNegativeImage Funktionsoptionen.
 type: docs
-weight: 2290
+weight: 2300
 url: /de/net/aspose.page.xps.xpsmetadata/pagenegativeimage.pagenegativeimageoption/
 ---
 ## PageNegativeImage.PageNegativeImageOption class

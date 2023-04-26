@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | Hämtar egenskapsvärde för strängmatris. Om den begärda egenskapen saknas, returnerar det angivna standardvärdet. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | Får booleskt egenskapsvärde. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | Får booleskt egenskapsvärde. Om den begärda egenskapen saknas, returnerar det angivna standardvärdet. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | Returnerar egenskapsnamn. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | Ställer in booleskt egenskapsvärde. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | Anger färgegenskapsvärde. |

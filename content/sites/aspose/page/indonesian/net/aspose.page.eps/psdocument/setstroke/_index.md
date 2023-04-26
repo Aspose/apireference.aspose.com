@@ -3,7 +3,7 @@ title: PsDocument.SetStroke
 second_title: Aspose.Page untuk Referensi .NET API
 description: PsDocument metode. Menyetel coretan pada status grafik saat ini.
 type: docs
-weight: 250
+weight: 270
 url: /id/net/aspose.page.eps/psdocument/setstroke/
 ---
 ## PsDocument.SetStroke method

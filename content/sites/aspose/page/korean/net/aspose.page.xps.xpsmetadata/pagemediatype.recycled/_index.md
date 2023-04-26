@@ -3,7 +3,7 @@ title: Class PageMediaType.Recycled
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeRecycled 수업. 에 대한 상수를 정의합니다. 스코어링된 속성 값.
 type: docs
-weight: 2250
+weight: 2260
 url: /ko/net/aspose.page.xps.xpsmetadata/pagemediatype.recycled/
 ---
 ## PageMediaType.Recycled class

@@ -3,7 +3,7 @@ title: Class PageMediaType.FrontCoating
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeFrontCoating sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 2180
+weight: 2190
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediatype.frontcoating/
 ---
 ## PageMediaType.FrontCoating class

@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBack clase. Describe la portada posterior final. Cada trabajo tendrá una hoja principal separada. La hoja de portada debe imprimirse en elPageMediaSize yPageMediaType utilizado para la página final del trabajo. La portada debe integrarse en las opciones de procesamiento comoJobDuplexAllDocumentsContiguously JobNUpAllDocumentsContiguously  como lo indica la opción especificada. https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverback
 type: docs
-weight: 1500
+weight: 1510
 url: /es/net/aspose.page.xps.xpsmetadata/jobprimarycoverback/
 ---
 ## JobPrimaryCoverBack class

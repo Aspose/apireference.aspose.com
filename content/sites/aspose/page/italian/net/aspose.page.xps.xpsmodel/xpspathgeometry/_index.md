@@ -1,14 +1,14 @@
 ---
 title: Class XpsPathGeometry
 second_title: Aspose.Page per riferimento all'API .NET
-description: Aspose.Page.XPS.XpsModel.XpsPathGeometry classe. Classe che incapsula le caratteristiche dellelemento di proprietà PathGeometry. Questo elemento contiene un insieme di figure di percorso specificate con lattributo Figures o con un elemento PathFigure figlio.
+description: Aspose.Page.XPS.XpsModel.XpsPathGeometry classe. Classe che incapsula le caratteristiche dellelemento di proprietà PathGeometry. Questo elemento contiene una serie di figure di percorso specificate con lattributo Figures o con un elemento PathFigure figlio.
 type: docs
-weight: 3270
+weight: 3280
 url: /it/net/aspose.page.xps.xpsmodel/xpspathgeometry/
 ---
 ## XpsPathGeometry class
 
-Classe che incapsula le caratteristiche dell'elemento di proprietà PathGeometry. Questo elemento contiene un insieme di figure di percorso specificate con l'attributo Figures o con un elemento PathFigure figlio.
+Classe che incapsula le caratteristiche dell'elemento di proprietà PathGeometry. Questo elemento contiene una serie di figure di percorso specificate con l'attributo Figures o con un elemento PathFigure figlio.
 
 ```csharp
 public sealed class XpsPathGeometry : XpsArray<XpsPathFigure>

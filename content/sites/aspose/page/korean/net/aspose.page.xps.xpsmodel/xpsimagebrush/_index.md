@@ -3,7 +3,7 @@ title: Class XpsImageBrush
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsImageBrush 수업. ImageBrush 속성 요소 기능을 캡슐화하는 클래스입니다. 이 요소는 이미지로 영역을 채우는 데 사용됩니다.
 type: docs
-weight: 3170
+weight: 3180
 url: /ko/net/aspose.page.xps.xpsmodel/xpsimagebrush/
 ---
 ## XpsImageBrush class

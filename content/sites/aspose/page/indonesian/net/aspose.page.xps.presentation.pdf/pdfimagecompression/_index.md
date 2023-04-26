@@ -3,7 +3,7 @@ title: Enum PdfImageCompression
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfImageCompression enum. Menentukan jenis kompresi yang diterapkan pada gambar dalam file PDF.
 type: docs
-weight: 430
+weight: 440
 url: /id/net/aspose.page.xps.presentation.pdf/pdfimagecompression/
 ---
 ## PdfImageCompression enumeration

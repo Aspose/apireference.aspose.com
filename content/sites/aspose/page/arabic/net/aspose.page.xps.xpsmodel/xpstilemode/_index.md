@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsTileMode تعداد. القيم الصالحة لخاصية TileMode للفرش.
 type: docs
-weight: 3390
+weight: 3400
 url: /ar/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

@@ -16,7 +16,7 @@ public DocumentBannerSheet(params BannerSheetOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | BannerSheetOption[] | Una matriz de opciones específicas para la característica. |
+| options | BannerSheetOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

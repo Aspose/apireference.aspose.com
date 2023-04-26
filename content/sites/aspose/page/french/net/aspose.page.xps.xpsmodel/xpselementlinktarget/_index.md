@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget classe. Classe encapsulant la cible relative du lien hypertexte de ladresse nommée.
 type: docs
-weight: 3040
+weight: 3050
 url: /fr/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

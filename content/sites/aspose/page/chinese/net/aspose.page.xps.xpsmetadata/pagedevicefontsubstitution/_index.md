@@ -3,7 +3,7 @@ title: Class PageDeviceFontSubstitution
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceFontSubstitution 班级. 描述设备字体替换的启用/禁用状态 https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicefontsubstitution
 type: docs
-weight: 1950
+weight: 1960
 url: /zh/net/aspose.page.xps.xpsmetadata/pagedevicefontsubstitution/
 ---
 ## PageDeviceFontSubstitution class

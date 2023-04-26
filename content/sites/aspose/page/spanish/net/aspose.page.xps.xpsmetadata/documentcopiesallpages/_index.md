@@ -3,7 +3,7 @@ title: Class DocumentCopiesAllPages
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentCopiesAllPages clase. Especifica el número de copias de un documento. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcopiesallpages
 type: docs
-weight: 620
+weight: 630
 url: /es/net/aspose.page.xps.xpsmetadata/documentcopiesallpages/
 ---
 ## DocumentCopiesAllPages class

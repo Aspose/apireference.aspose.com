@@ -3,7 +3,7 @@ title: Class PageWatermark
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageWatermark klas. Beschrijft de watermerkinstelling van de uitvoer en de watermerkkenmerken. Watermerken passen toe op de logische pagina niet op de fysieke pagina. Als bijvoorbeeldDocumentDuplex is ingeschakeld verschijnt er een watermerk op elk pagina op elk blad. AlsDocumentDuplex  2 dan heeft elk blad 2 watermerken. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermark
 type: docs
-weight: 2640
+weight: 2650
 url: /nl/net/aspose.page.xps.xpsmetadata/pagewatermark/
 ---
 ## PageWatermark class

@@ -3,7 +3,7 @@ title: Class InputBin.FeedDirection
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedDirection klass. Definierar konstanter för poängsatt egenskapsvärde.
 type: docs
-weight: 1020
+weight: 1030
 url: /sv/net/aspose.page.xps.xpsmetadata/inputbin.feeddirection/
 ---
 ## InputBin.FeedDirection class

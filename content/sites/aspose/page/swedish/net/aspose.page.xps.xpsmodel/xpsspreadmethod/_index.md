@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod uppräkning. Giltiga värden för gradientborstars SpreadMethodegenskap.
 type: docs
-weight: 3360
+weight: 3370
 url: /sv/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

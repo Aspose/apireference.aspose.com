@@ -3,7 +3,7 @@ title: Class XpsElement
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsElement 班级. 封装通用 XPS 元素功能的类
 type: docs
-weight: 3030
+weight: 3040
 url: /zh/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class

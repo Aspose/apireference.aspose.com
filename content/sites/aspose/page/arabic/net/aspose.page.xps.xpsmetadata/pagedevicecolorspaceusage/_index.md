@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceUsage
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceUsage فصل. بالتزامن مع ملفPageDeviceColorSpaceProfileURI المعلمة  تحدد هذه المعلمة سلوك العرض للعناصر المعروضة في مساحة لون الجهاز . https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceusage
 type: docs
-weight: 1930
+weight: 1940
 url: /ar/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
 ---
 ## PageDeviceColorSpaceUsage class

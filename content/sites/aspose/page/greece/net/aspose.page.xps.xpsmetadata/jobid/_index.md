@@ -3,7 +3,7 @@ title: Class JobID
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobID τάξη. Καθορίζει ένα μοναδικό αναγνωριστικό για την εργασία. https//docs.microsoft.com/enus/windows/win32/printdocs/jobid
 type: docs
-weight: 1360
+weight: 1370
 url: /el/net/aspose.page.xps.xpsmetadata/jobid/
 ---
 ## JobID class

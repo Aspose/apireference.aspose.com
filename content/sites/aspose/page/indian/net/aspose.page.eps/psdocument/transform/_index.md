@@ -3,7 +3,7 @@ title: PsDocument.Transform
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. वर्तमन ग्रफक्स स्थत में परवर्तन जड़त है इस मैट्रक्स क वर्तमन के सथ जड़त है
 type: docs
-weight: 270
+weight: 300
 url: /hi/net/aspose.page.eps/psdocument/transform/
 ---
 ## PsDocument.Transform method

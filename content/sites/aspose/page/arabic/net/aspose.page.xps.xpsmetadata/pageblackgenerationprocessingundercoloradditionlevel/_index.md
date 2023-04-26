@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingUnderColorAdditionLevel
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingUnderColorAdditionLevel فصل. يصف كمية الحبر اللوني بنسب المكونات الرمادية لإضافتها إلى المناطق التي تم فيها إنشاء GCR / UCR BlackInkLimit أو UCAStart  إذا تم تحديده في المناطق المحايدة الداكنة والمناطق شبه المحايدة . https//docs.microsoft .com / enus / windows / win32 / printdocs / pageblackgenerationprocessingundercoloradditionlevel
 type: docs
-weight: 1780
+weight: 1790
 url: /ar/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessingundercoloradditionlevel/
 ---
 ## PageBlackGenerationProcessingUnderColorAdditionLevel class

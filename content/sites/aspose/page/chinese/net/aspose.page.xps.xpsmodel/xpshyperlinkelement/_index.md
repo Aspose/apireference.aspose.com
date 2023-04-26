@@ -3,7 +3,7 @@ title: Class XpsHyperlinkElement
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkElement 班级. 封装了可以是超链接的 XPS 元素的共同特征
 type: docs
-weight: 3120
+weight: 3130
 url: /zh/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

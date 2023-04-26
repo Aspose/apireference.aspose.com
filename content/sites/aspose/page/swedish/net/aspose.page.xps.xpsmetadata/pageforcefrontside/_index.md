@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide klass. Tvingar utdata att visas på framsidan av ett mediaark. Relevant för mediablad med olika ytor på varje sida. I fall där den här funktionen stör bearbetningsalternativen som DocumentDuplex  har företräde för den specifika sida som funktionen gäller.
 type: docs
-weight: 1970
+weight: 1980
 url: /sv/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

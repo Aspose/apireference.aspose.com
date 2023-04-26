@@ -3,7 +3,7 @@ title: PsDocument.Draw
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. İsteğe bağlı bir yol çizin.
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument.Draw method

@@ -3,7 +3,7 @@ title: Class PageWatermarkTransparency
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTransparency сорт. Определяет прозрачность водяного знака. Полностью непрозрачный будет иметь значение 0. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktransparency
 type: docs
-weight: 2760
+weight: 2770
 url: /ru/net/aspose.page.xps.xpsmetadata/pagewatermarktransparency/
 ---
 ## PageWatermarkTransparency class

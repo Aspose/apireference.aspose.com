@@ -3,7 +3,7 @@ title: Class PageBlendColorSpace
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageBlendColorSpace sınıf. Karıştırma işlemleri için kullanılması gereken renk uzayını tanımlar. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblendcolorspace
 type: docs
-weight: 1800
+weight: 1810
 url: /tr/net/aspose.page.xps.xpsmetadata/pageblendcolorspace/
 ---
 ## PageBlendColorSpace class

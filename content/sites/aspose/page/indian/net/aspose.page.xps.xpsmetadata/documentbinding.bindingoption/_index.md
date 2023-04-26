@@ -3,7 +3,7 @@ title: Class DocumentBinding.BindingOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingBindingOption कक्ष. के वकल्पं क प्रतनधत्व करत हैDocumentBinding सुवध.
 type: docs
-weight: 580
+weight: 590
 url: /hi/net/aspose.page.xps.xpsmetadata/documentbinding.bindingoption/
 ---
 ## DocumentBinding.BindingOption class

@@ -3,7 +3,7 @@ title: Class PageCopies
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageCopies сорт. Указывает количество копий страницы. https//docs.microsoft.com/enus/windows/win32/printdocs/pagecopies
 type: docs
-weight: 1870
+weight: 1880
 url: /ru/net/aspose.page.xps.xpsmetadata/pagecopies/
 ---
 ## PageCopies class

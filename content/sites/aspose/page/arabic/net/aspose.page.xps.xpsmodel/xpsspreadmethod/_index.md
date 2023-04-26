@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod تعداد. القيم الصالحة لخاصية SpreadMethod لفرش التدرج.
 type: docs
-weight: 3360
+weight: 3370
 url: /ar/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

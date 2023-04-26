@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide kelas. Memaksa output muncul di bagian depan lembar media. Relevan dengan lembar media dengan permukaan berbeda di setiap sisi. Jika fitur ini mengganggu opsi pemrosesan seperti DocumentDuplex  didahulukan untuk halaman spesifik tempat fitur berlaku.
 type: docs
-weight: 1970
+weight: 1980
 url: /id/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

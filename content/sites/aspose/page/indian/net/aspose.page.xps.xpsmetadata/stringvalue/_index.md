@@ -3,7 +3,7 @@ title: Class StringValue
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.StringValue कक्ष. वह वर्ग ज एक PrintTicket दस्तवेज़ में एक स्ट्रंग मन समहत करत है
 type: docs
-weight: 2910
+weight: 2920
 url: /hi/net/aspose.page.xps.xpsmetadata/stringvalue/
 ---
 ## StringValue class

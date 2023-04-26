@@ -16,7 +16,7 @@ public PageDeviceColorSpaceUsage(params PageDeviceColorSpaceUsageOption[] option
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageDeviceColorSpaceUsageOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageDeviceColorSpaceUsageOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

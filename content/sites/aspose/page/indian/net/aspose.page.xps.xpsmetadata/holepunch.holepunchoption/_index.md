@@ -3,7 +3,7 @@ title: Class HolePunch.HolePunchOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.HolePunchHolePunchOption कक्ष. क वर्णन करत हैHolePunch सुवध वकल्प.
 type: docs
-weight: 890
+weight: 900
 url: /hi/net/aspose.page.xps.xpsmetadata/holepunch.holepunchoption/
 ---
 ## HolePunch.HolePunchOption class

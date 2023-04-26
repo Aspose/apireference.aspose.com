@@ -19,7 +19,7 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 | Nama | Keterangan |
 | --- | --- |
 | [PdfDevice](pdfdevice/#constructor)(Stream) | Menginisialisasi instance baru`PdfDevice` dengan aliran keluaran. |
-| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | Menginisialisasi instance baru`PdfDevice`dengan aliran keluaran dan ukuran halaman yang ditentukan. |
+| [PdfDevice](pdfdevice/#constructor_1)(Stream, Size) | Menginisialisasi instance baru`PdfDevice` dengan aliran keluaran dan ukuran halaman yang ditentukan. |
 
 ## Properti
 
@@ -111,7 +111,7 @@ public class PdfDevice : Device, IMultiPageDevice, IStreamable
 | static readonly [EMIT_ERRORS](../../aspose.page.eps.device/pdfdevice/emit_errors/) | Nilai properti "Emit error". |
 | static readonly [EMIT_WARNINGS](../../aspose.page.eps.device/pdfdevice/emit_warnings/) | Nilai properti "Emit warnings". |
 | static readonly [FIT_TO_PAGE](../../aspose.page.eps.device/pdfdevice/fit_to_page/) | Kunci properti "Sesuaikan konten dengan halaman". |
-| static readonly [KEYWORDS](../../aspose.page.eps.device/pdfdevice/keywords/) | Nilai properti "Kata kunci". |
+| static readonly [KEYWORDS](../../aspose.page.eps.device/pdfdevice/keywords/) | Nilai properti "Kata Kunci". |
 | static readonly [ORIENTATION](../../aspose.page.eps.device/pdfdevice/orientation/) | Kunci properti "Orientasi". |
 | static readonly [PAGE_MARGINS](../../aspose.page.eps.device/pdfdevice/page_margins/) | Kunci properti "Margin halaman". |
 | static readonly [PAGE_SIZE](../../aspose.page.eps.device/pdfdevice/page_size/) | Kunci properti "Ukuran halaman". |

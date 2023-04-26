@@ -3,7 +3,7 @@ title: Class StringParameterInit
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.StringParameterInit sınıf. Tüm dize parametresi başlatıcıları için temel sınıf.
 type: docs
-weight: 2900
+weight: 2910
 url: /tr/net/aspose.page.xps.xpsmetadata/stringparameterinit/
 ---
 ## StringParameterInit class

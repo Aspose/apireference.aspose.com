@@ -3,7 +3,7 @@ title: Class InputBin.FeedFace
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedFace 班级. 定义常量得分属性值.
 type: docs
-weight: 1030
+weight: 1040
 url: /zh/net/aspose.page.xps.xpsmetadata/inputbin.feedface/
 ---
 ## InputBin.FeedFace class

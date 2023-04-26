@@ -3,7 +3,7 @@ title: Class Option
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.Option 班级. 实现通用 PrintTicket 的类. 所有模式定义选项的基类 Option 元素包含所有Propertyand ScoredProperty与此选项关联的元素 https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 1650
+weight: 1660
 url: /zh/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

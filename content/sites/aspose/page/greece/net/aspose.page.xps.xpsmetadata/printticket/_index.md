@@ -3,7 +3,7 @@ title: Class PrintTicket
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PrintTicket τάξη. Η κλάση που εφαρμόζει ένα κοινό PrintTicket οποιουδήποτε πεδίου. Η βασική κλάση για εισιτήρια εκτύπωσης σε επίπεδο εργασίας εγγράφου και σελίδας. AΤο στοιχείο είναι το ριζικό στοιχείο του εγγράφου PrintTicket. A Το στοιχείο περιέχει όλες τις πληροφορίες μορφοποίησης εργασίας που απαιτούνται για την έξοδο μιας εργασίας. https//docs.microsoft.com/enus/windows/win32/printdocs/printticket
 type: docs
-weight: 2790
+weight: 2800
 url: /el/net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class

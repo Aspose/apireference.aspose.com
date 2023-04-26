@@ -3,7 +3,7 @@ title: Interface Staple.IStapleOptionItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.StapleIStapleOptionItem इंटरफेस. कस क इंटरफ़ेसStapleOption मद.
 type: docs
-weight: 2880
+weight: 2890
 url: /hi/net/aspose.page.xps.xpsmetadata/staple.istapleoptionitem/
 ---
 ## Staple.IStapleOptionItem interface

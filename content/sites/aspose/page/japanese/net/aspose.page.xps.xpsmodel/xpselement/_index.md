@@ -3,7 +3,7 @@ title: Class XpsElement
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsElement クラス. 一般的な XPS 要素の機能をカプセル化するクラス
 type: docs
-weight: 3030
+weight: 3040
 url: /ja/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class

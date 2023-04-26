@@ -3,7 +3,7 @@ title: Class PageResolution.QualitativeResolution
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionQualitativeResolution فصل. يعرف الثوابت لملف قيمة الممتلكات المسجلة.
 type: docs
-weight: 2470
+weight: 2480
 url: /ar/net/aspose.page.xps.xpsmetadata/pageresolution.qualitativeresolution/
 ---
 ## PageResolution.QualitativeResolution class

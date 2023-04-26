@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocuments فصل. يصف طريقة الربط. جميع المستندات في الوظيفة مرتبطة ببعضها البعض.JobBindAllDocuments وDocumentBinding بشكل متبادل. الأمر متروك للسائق لتحديد معالجة القيد بين هذه الكلمات الرئيسية.
 type: docs
-weight: 1150
+weight: 1160
 url: /ar/net/aspose.page.xps.xpsmetadata/jobbindalldocuments/
 ---
 ## JobBindAllDocuments class

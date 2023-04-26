@@ -3,7 +3,7 @@ title: Class XpsMatrix
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsMatrix τάξη. Χαρακτηριστικά στοιχεία ιδιότητας MatrixTransform που ενσωματώνει κλάση. Αυτό το στοιχείο ορίζει έναν αυθαίρετο μετασχηματισμό συγγενούς πίνακα που χρησιμοποιείται για τον χειρισμό των συστημάτων συντεταγμένων των στοιχείων.
 type: docs
-weight: 3210
+weight: 3220
 url: /el/net/aspose.page.xps.xpsmodel/xpsmatrix/
 ---
 ## XpsMatrix class

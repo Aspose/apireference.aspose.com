@@ -3,7 +3,7 @@ title: Class ImageSaveOptions
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Image.ImageSaveOptions कक्ष. एक्सपएसएज़इमेज सेवंग वकल्पं के लए बेसक क्लस
 type: docs
-weight: 360
+weight: 370
 url: /hi/net/aspose.page.xps.presentation.image/imagesaveoptions/
 ---
 ## ImageSaveOptions class

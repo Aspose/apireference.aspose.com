@@ -3,7 +3,7 @@ title: Class XpsGlyphs
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsGlyphs कक्ष. क्लस इनकैप्सुलेटंग ग्लफ़ एलमेंट फ़चर्स यह एलमेंट एक ह फन्ट से समन रूप से फ़र्मेट कए गए टेक्स्ट क दखत है यह सटक रेंडरंग के लए आवश्यक जनकर प्रदन करत है और उपभक्तओं क देखने में search और चयन सुवधओं क समर्थन करत है
 type: docs
-weight: 3090
+weight: 3100
 url: /hi/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

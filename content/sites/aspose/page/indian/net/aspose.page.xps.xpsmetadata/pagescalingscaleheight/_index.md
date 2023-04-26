@@ -3,7 +3,7 @@ title: Class PageScalingScaleHeight
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleHeight कक्ष. में स्केलंग करक नर्दष्ट करत है कस्टम स्केलंग के लए दश. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscaleheight
 type: docs
-weight: 2560
+weight: 2570
 url: /hi/net/aspose.page.xps.xpsmetadata/pagescalingscaleheight/
 ---
 ## PageScalingScaleHeight class

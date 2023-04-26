@@ -3,7 +3,7 @@ title: Interface DocumentBinding.IBindingOptionItem
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingIBindingOptionItem interface. Linterface de toutBindingOption article.
 type: docs
-weight: 590
+weight: 600
 url: /fr/net/aspose.page.xps.xpsmetadata/documentbinding.ibindingoptionitem/
 ---
 ## DocumentBinding.IBindingOptionItem interface

@@ -3,7 +3,7 @@ title: Class ParameterRef
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.ParameterRef sınıf. Ortak bir PrintTicket parametre referansı uygulayan sınıf. A eleman bir referansı tanımlarParameterInitöğe. AScoredProperty ParameterRef öğesi içeren öğe açıkça ayarlanmış bir dosyasına sahip değilValue eleman. Bunun yerineScoredProperty element değerini şuradan alırParameterInit tarafından başvurulan öğe element. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterref
 type: docs
-weight: 2780
+weight: 2790
 url: /tr/net/aspose.page.xps.xpsmetadata/parameterref/
 ---
 ## ParameterRef class

@@ -3,7 +3,7 @@ title: Class Value
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.Value classe. La classe base che incapsula aProperty o unScoredProperty valore in un documento PrintTicket. Un elemento Value associa un valore letterale a un tipo. https//docs.microsoft.com/enus/windows/win32/printdocs/value
 type: docs
-weight: 2930
+weight: 2940
 url: /it/net/aspose.page.xps.xpsmetadata/value/
 ---
 ## Value class

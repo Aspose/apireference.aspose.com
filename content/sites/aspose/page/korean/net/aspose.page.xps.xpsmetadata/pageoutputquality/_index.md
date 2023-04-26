@@ -3,7 +3,7 @@ title: Class PageOutputQuality
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageOutputQuality 수업. 출력의 음수 설정을 설명합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputquality
 type: docs
-weight: 2370
+weight: 2380
 url: /ko/net/aspose.page.xps.xpsmetadata/pageoutputquality/
 ---
 ## PageOutputQuality class

@@ -3,7 +3,7 @@ title: Class Duplex.DuplexMode
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexMode sınıf. Olası değerleri tanımlarDuplexOption S puanlanan özellik.
 type: docs
-weight: 850
+weight: 860
 url: /tr/net/aspose.page.xps.xpsmetadata/duplex.duplexmode/
 ---
 ## Duplex.DuplexMode class

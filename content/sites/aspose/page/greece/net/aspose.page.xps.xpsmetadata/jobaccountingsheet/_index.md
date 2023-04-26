@@ -3,7 +3,7 @@ title: Class JobAccountingSheet
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobAccountingSheet τάξη. Περιγράφει το λογιστικό φύλλο που θα εκδοθεί για την εργασία. Το λογιστικό φύλλο θα πρέπει να βγαίνει στο default PageMediaSize και χρησιμοποιώντας την προεπιλογήPageMediaType . Το λογιστικό φύλλο θα πρέπει να να απομονωθεί από την υπόλοιπη εργασία. Αυτό σημαίνει ότι τυχόν επιλογές φινιρίσματος ή επεξεργασίας όπως   ή  δεν πρέπει να περιλαμβάνει το λογιστικό φύλλο. Το λογιστικό φύλλο μπορεί να εμφανίζεται ως η πρώτη ή η τελευταία σελίδα της εργασίας κατά την κρίση του υλοποιητή. https//docs.microsoft.com/enus/windows/win32/printdocs/jobaccountingsheet
 type: docs
-weight: 1130
+weight: 1140
 url: /el/net/aspose.page.xps.xpsmetadata/jobaccountingsheet/
 ---
 ## JobAccountingSheet class

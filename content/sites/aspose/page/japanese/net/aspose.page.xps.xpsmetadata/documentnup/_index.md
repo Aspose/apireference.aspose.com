@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp クラス. 複数の論理ページの出力とフォーマットを 1 つの物理シートに記述します 各ドキュメントは個別にコンパイルされますとJobNUpAllDocumentsContiguously は相互に排他的ですこれらのキーワード間の制約処理を決定するのはドライバー次第です
 type: docs
-weight: 740
+weight: 750
 url: /ja/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

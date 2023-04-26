@@ -3,7 +3,7 @@ title: Enum XpsLineCap
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsLineCap 열거형. 경로 요소의 StrokeStartLineCap 및 StrokeEndLineCap 속성의 유효한 값.
 type: docs
-weight: 3180
+weight: 3190
 url: /ko/net/aspose.page.xps.xpsmodel/xpslinecap/
 ---
 ## XpsLineCap enumeration

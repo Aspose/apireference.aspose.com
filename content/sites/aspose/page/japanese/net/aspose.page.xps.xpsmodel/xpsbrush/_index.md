@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsBrush クラス. すべてのブラシ要素の共通機能をカプセル化したクラス.
 type: docs
-weight: 2960
+weight: 2970
 url: /ja/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

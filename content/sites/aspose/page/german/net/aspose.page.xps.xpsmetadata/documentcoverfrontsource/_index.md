@@ -3,7 +3,7 @@ title: Class DocumentCoverFrontSource
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFrontSource klas. Gibt die Quelle für ein benutzerdefiniertes vorderes Deckblatt an. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfrontsource
 type: docs
-weight: 680
+weight: 690
 url: /de/net/aspose.page.xps.xpsmetadata/documentcoverfrontsource/
 ---
 ## DocumentCoverFrontSource class

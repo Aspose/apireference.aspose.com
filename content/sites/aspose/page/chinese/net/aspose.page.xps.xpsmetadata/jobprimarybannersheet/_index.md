@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet 班级. 描述要为作业输出的标题页标题页应在 default 上输出PageMediaSize并使用默认值PageMediaType.标题页应该 与作业的其余部分隔离开来这意味着任何整理或处理选项如 JobDuplexAllDocumentsContiguouslyJobStapleAllDocuments 或者JobBindAllDocuments  不应包括标题页标题页应作为作业的第一页出现
 type: docs
-weight: 1470
+weight: 1480
 url: /zh/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

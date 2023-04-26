@@ -3,7 +3,7 @@ title: Interface PageMediaSize.IPageMediaSizeItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeIPageMediaSizeItem इंटरफेस. कस क इंटरफ़ेसPageMediaSize मद.
 type: docs
-weight: 2060
+weight: 2070
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediasize.ipagemediasizeitem/
 ---
 ## PageMediaSize.IPageMediaSizeItem interface

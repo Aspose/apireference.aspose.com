@@ -3,7 +3,7 @@ title: Class JpegSaveOptions
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Image.JpegSaveOptions कक्ष. XPSasJPEG बचत वकल्पं के लए वर्ग
 type: docs
-weight: 370
+weight: 380
 url: /hi/net/aspose.page.xps.presentation.image/jpegsaveoptions/
 ---
 ## JpegSaveOptions class

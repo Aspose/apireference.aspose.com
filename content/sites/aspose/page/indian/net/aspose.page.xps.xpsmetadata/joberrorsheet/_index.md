@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet कक्ष. एरर शट आउटपुट क वर्णन करत है पूरे जब में एक संगल एरर शट हग त्रुट पत्र डफ़ल्ट पर आउटपुट हन चहएPageMediaSize और डफ़ल्ट क उपयग करनPageMediaType . त्रुट पत्रक क शेष कर्य से अलग कय जन चहए इसक मतलब है क कई भ फनशंग or प्रसेसंग वकल्प जैसे   य  में त्रुट पत्र शमल नहं हन चहए त्रुट पत्रक कर्य क अंतम पत्रक के रूप में हन चहए https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /hi/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

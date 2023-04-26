@@ -3,7 +3,7 @@ title: Class PageInputBin
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageInputBin sınıf. Bir aygıtta kurulu giriş bölmesini veya bir aygıt için desteklenen bölmelerin tam listesini açıklar. Giriş bölmesinin sayfa bazında belirtilmesine izin verir. buJobInputBin DocumentInputBin and PageInputBin anahtar kelimeler birbirini dışlar. Her ikisi de bir PrintTicket veya Print Capabilities belgesinde aynı anda belirtilmemelidir . https//docs.microsoft.com/enus/windows/win32/printdocs/pageinputbin
 type: docs
-weight: 2020
+weight: 2030
 url: /tr/net/aspose.page.xps.xpsmetadata/pageinputbin/
 ---
 ## PageInputBin class

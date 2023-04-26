@@ -3,7 +3,7 @@ title: Class Collate
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.Collate τάξη. Η βασική κλάση γιαDocumentCollate καιJobCollateAllDocuments χαρακτηριστικών τάξεων.
 type: docs
-weight: 490
+weight: 500
 url: /el/net/aspose.page.xps.xpsmetadata/collate/
 ---
 ## Collate class

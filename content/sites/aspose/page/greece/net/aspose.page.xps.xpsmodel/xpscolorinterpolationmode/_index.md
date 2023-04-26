@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode αρίθμηση. Έγκυρες τιμές της ιδιότητας ColorInterpolationMode των πινέλων gradient.
 type: docs
-weight: 2990
+weight: 3000
 url: /el/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

@@ -3,7 +3,7 @@ title: Class PageScalingOffsetWidth
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageScalingOffsetWidth τάξη. Καθορίζει τη μετατόπιση κλιμάκωσης στο κατεύθυνση για προσαρμοσμένη κλιμάκωση. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingoffsetwidth
 type: docs
-weight: 2540
+weight: 2550
 url: /el/net/aspose.page.xps.xpsmetadata/pagescalingoffsetwidth/
 ---
 ## PageScalingOffsetWidth class

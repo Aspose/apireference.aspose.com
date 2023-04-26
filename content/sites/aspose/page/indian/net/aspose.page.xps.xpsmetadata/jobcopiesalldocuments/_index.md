@@ -3,7 +3,7 @@ title: Class JobCopiesAllDocuments
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobCopiesAllDocuments कक्ष. कस कर्य क प्रतयं क संख्य नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/jobcopiesalldocuments
 type: docs
-weight: 1220
+weight: 1230
 url: /hi/net/aspose.page.xps.xpsmetadata/jobcopiesalldocuments/
 ---
 ## JobCopiesAllDocuments class

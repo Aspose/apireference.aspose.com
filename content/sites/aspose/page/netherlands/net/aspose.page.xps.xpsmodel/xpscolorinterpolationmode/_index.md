@@ -3,7 +3,7 @@ title: Enum XpsColorInterpolationMode
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsColorInterpolationMode opsomming. Geldige waarden van de eigenschap ColorInterpolationMode van verlooppenselen.
 type: docs
-weight: 2990
+weight: 3000
 url: /nl/net/aspose.page.xps.xpsmodel/xpscolorinterpolationmode/
 ---
 ## XpsColorInterpolationMode enumeration

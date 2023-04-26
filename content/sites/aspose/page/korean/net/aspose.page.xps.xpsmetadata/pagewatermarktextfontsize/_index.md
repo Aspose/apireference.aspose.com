@@ -3,7 +3,7 @@ title: Class PageWatermarkTextFontSize
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextFontSize 수업. 워터마크 텍스트에 사용 가능한 글꼴 크기를 정의합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextfontsize
 type: docs
-weight: 2740
+weight: 2750
 url: /ko/net/aspose.page.xps.xpsmetadata/pagewatermarktextfontsize/
 ---
 ## PageWatermarkTextFontSize class

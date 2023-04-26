@@ -3,7 +3,7 @@ title: Class DocumentCoverFront
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFront 수업. 앞시작 표지를 설명합니다. 각 문서에는 별도의 시트가 있습니다. 표지는 용지에 인쇄해야 합니다.PageMediaSize 그리고PageMediaType 는 문서의 첫 페이지에 사용됩니다. 표지는 처리 옵션 예DocumentDuplex DocumentNUp  지정된 옵션으로 표시됩니다. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfront
 type: docs
-weight: 660
+weight: 670
 url: /ko/net/aspose.page.xps.xpsmetadata/documentcoverfront/
 ---
 ## DocumentCoverFront class

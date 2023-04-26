@@ -3,7 +3,7 @@ title: Enum XpsStyleSimulations
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsStyleSimulations 枚举. Glyphs 元素的 StyleSimulations 属性的有效值
 type: docs
-weight: 3370
+weight: 3380
 url: /zh/net/aspose.page.xps.xpsmodel/xpsstylesimulations/
 ---
 ## XpsStyleSimulations enumeration

@@ -3,7 +3,7 @@ title: Class PageMediaSizePSHeightOffset
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSHeightOffset classe. Spécifie le décalage parallèle à la direction dorientation de lalimentation. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsheightoffset
 type: docs
-weight: 2120
+weight: 2130
 url: /fr/net/aspose.page.xps.xpsmetadata/pagemediasizepsheightoffset/
 ---
 ## PageMediaSizePSHeightOffset class

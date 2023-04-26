@@ -3,7 +3,7 @@ title: Class Duplex
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.Duplex clase. La clase base paraJobDuplexAllDocumentsContiguously yDocumentDuplex clases de características.
 type: docs
-weight: 840
+weight: 850
 url: /es/net/aspose.page.xps.xpsmetadata/duplex/
 ---
 ## Duplex class

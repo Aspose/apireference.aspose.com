@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsMetadata
 second_title: Aspose.Page för .NET API-referens
 description: Den Aspose.Page.Xps.XpsMetadata namnutrymme tillhandahåller klasser som beskriver metadata för XPSdokument.
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.page.xps.xpsmetadata/
 ---
 Den **Aspose.Page.Xps.XpsMetadata** namnutrymme tillhandahåller klasser som beskriver metadata för XPS-dokument.

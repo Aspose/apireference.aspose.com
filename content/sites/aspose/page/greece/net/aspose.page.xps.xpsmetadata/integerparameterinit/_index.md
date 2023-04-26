@@ -3,7 +3,7 @@ title: Class IntegerParameterInit
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.IntegerParameterInit τάξη. Βασική κλάση για όλους τους αρχικοποιητές παραμέτρων ακεραίων.
 type: docs
-weight: 1110
+weight: 1120
 url: /el/net/aspose.page.xps.xpsmetadata/integerparameterinit/
 ---
 ## IntegerParameterInit class

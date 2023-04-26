@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment kelas. Kelas yang merangkum fitur elemen ArcSegment. Elemen ini mendeskripsikan busur elips.
 type: docs
-weight: 2940
+weight: 2950
 url: /id/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

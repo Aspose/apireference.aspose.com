@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget klass. Klass som inkapslar det relativa hyperlänkmålet med namngiven adress.
 type: docs
-weight: 3040
+weight: 3050
 url: /sv/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

@@ -3,7 +3,7 @@ title: Class Option
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Option 수업. 공통 PrintTicket을 구현하는 클래스 . 모든 스키마 정의 옵션의 기본 클래스입니다. Option 요소에는Property and ScoredProperty 이 옵션과 관련된 요소. https//docs.microsoft.com/enus/windows/win32/printdocs/option
 type: docs
-weight: 1650
+weight: 1660
 url: /ko/net/aspose.page.xps.xpsmetadata/option/
 ---
 ## Option class

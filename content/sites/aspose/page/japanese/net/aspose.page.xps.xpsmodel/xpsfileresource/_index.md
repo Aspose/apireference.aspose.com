@@ -3,7 +3,7 @@ title: Class XpsFileResource
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsFileResource クラス. すべてのファイル リソースの共通機能をカプセル化したクラス
 type: docs
-weight: 3060
+weight: 3070
 url: /ja/net/aspose.page.xps.xpsmodel/xpsfileresource/
 ---
 ## XpsFileResource class

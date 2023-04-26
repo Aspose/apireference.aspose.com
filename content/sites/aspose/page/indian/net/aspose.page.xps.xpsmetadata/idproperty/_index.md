@@ -3,7 +3,7 @@ title: Class IDProperty
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.IDProperty कक्ष. के लए आधर वर्गJobID औरDocumentIDगुण वर्ग.
 type: docs
-weight: 900
+weight: 910
 url: /hi/net/aspose.page.xps.xpsmetadata/idproperty/
 ---
 ## IDProperty class

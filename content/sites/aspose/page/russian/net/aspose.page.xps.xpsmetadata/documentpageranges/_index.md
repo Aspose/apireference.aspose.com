@@ -3,7 +3,7 @@ title: Class DocumentPageRanges
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentPageRanges сорт. Описывает диапазон вывода документа в страницах. Значение параметра должно соответствовать следующей структуре  PageRangeText PageRange или PageRangePageRange  PageRange PageNumber или PageNumberPageNumber  PageRange от 1 до N где N  количество страниц в документе. Если PageNumber  N тогда PageNumber  N. Пробелы в строке следует игнорировать. https//docs.microsoft.com/enus/windows/win32/printdocs/documentpageranges
 type: docs
-weight: 770
+weight: 780
 url: /ru/net/aspose.page.xps.xpsmetadata/documentpageranges/
 ---
 ## DocumentPageRanges class

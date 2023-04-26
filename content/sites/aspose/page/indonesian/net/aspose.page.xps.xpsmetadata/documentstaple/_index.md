@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple kelas. Menjelaskan karakteristik stapel keluaran. Setiap dokumen dijilid secara terpisah. TheJobStapleAllDocuments DanDocumentStaplekata kunci saling eksklusif. Terserah driver untuk menentukan penanganan kendala antara kata kunci ini. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /id/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

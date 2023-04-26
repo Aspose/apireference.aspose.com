@@ -3,7 +3,7 @@ title: Class DecimalValue
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DecimalValue فصل. الفئة التي تتضمن قيمة عشرية في مستند PrintTicket.
 type: docs
-weight: 520
+weight: 530
 url: /ar/net/aspose.page.xps.xpsmetadata/decimalvalue/
 ---
 ## DecimalValue class

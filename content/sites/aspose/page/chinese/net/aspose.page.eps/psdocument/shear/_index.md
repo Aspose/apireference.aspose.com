@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page for .NET API 参考
 description: PsDocument 方法. 将剪切变换添加到当前图形状态剪切电流矩阵
 type: docs
-weight: 260
+weight: 290
 url: /zh/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

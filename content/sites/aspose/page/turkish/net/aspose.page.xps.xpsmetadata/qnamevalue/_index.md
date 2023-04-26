@@ -3,7 +3,7 @@ title: Class QNameValue
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.QNameValue sınıf. Bir PrintTicket belgesinde bir NitelikliAd değeri içeren sınıf.
 type: docs
-weight: 2820
+weight: 2830
 url: /tr/net/aspose.page.xps.xpsmetadata/qnamevalue/
 ---
 ## QNameValue class

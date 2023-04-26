@@ -3,7 +3,7 @@ title: Class PageMediaColor
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaColor sınıf. Ortam Rengi seçeneklerini ve her seçeneğin özelliklerini açıklar. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediacolor
 type: docs
-weight: 2030
+weight: 2040
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediacolor/
 ---
 ## PageMediaColor class

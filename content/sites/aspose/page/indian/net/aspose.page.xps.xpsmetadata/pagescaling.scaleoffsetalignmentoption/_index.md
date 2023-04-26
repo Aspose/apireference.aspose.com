@@ -3,7 +3,7 @@ title: Class PageScaling.ScaleOffsetAlignmentOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScaleOffsetAlignmentOption कक्ष. क वर्णन करत हैScaleOffsetAlignment सुवधओं के वकल्प स्केल क गई समग्र के संरेखण क नर्दष्ट करत है
 type: docs
-weight: 2520
+weight: 2530
 url: /hi/net/aspose.page.xps.xpsmetadata/pagescaling.scaleoffsetalignmentoption/
 ---
 ## PageScaling.ScaleOffsetAlignmentOption class

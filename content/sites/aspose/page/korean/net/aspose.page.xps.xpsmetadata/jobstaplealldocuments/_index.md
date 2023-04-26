@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments 수업. 출력의 스테이플링 특성을 설명합니다. 작업의 모든 문서가 함께 스테이플됩니다. TheJobStapleAllDocuments 그리고DocumentStaple 키워드는 상호 배타적입니다. 이러한 키워드 간의 제약 조건 처리를 결정하는 것은 드라이버에 달려 있습니다. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /ko/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

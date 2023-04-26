@@ -3,7 +3,7 @@ title: Class PageWatermarkTextColor
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextColor klas. Definiert die sRGBFarbe für den Wasserzeichentext. Format ist ARGB AARRGGBB. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextcolor
 type: docs
-weight: 2730
+weight: 2740
 url: /de/net/aspose.page.xps.xpsmetadata/pagewatermarktextcolor/
 ---
 ## PageWatermarkTextColor class

@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page
 second_title: Aspose.Page for .NET API Referansı
-description: Aspose.Sayfa Aspose.Page kitaplığının tüm sınıfları için bir kök ad alanıdır Cihaz veya birkaç alt ad alanı aracılığıyla dolaylı olarak.
+description: Aspose.SayfaAspose.Page kitaplığının tüm sınıfları için bir kök ad alanıdır Cihaz veya birkaç alt ad alanı aracılığıyla dolaylı olarak.
 type: docs
 weight: 10
 url: /tr/net/aspose.page/
 ---
-**Aspose.Sayfa** Aspose.Page kitaplığının tüm sınıfları için bir kök ad alanıdır; **Cihaz** veya birkaç alt ad alanı aracılığıyla dolaylı olarak.
+**Aspose.Sayfa**Aspose.Page kitaplığının tüm sınıfları için bir kök ad alanıdır; **Cihaz** veya birkaç alt ad alanı aracılığıyla dolaylı olarak.
 
 ## sınıflar
 

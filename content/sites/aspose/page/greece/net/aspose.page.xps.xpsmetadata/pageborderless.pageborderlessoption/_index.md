@@ -3,7 +3,7 @@ title: Class PageBorderless.PageBorderlessOption
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageBorderlessPageBorderlessOption τάξη. Περιγράφει τοPageBorderless επιλογές χαρακτηριστικών.
 type: docs
-weight: 1840
+weight: 1850
 url: /el/net/aspose.page.xps.xpsmetadata/pageborderless.pageborderlessoption/
 ---
 ## PageBorderless.PageBorderlessOption class

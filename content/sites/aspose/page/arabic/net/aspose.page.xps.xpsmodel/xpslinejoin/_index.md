@@ -3,7 +3,7 @@ title: Enum XpsLineJoin
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsLineJoin تعداد. القيم الصالحة لخاصية StrokeLineJoin لعنصر المسار.
 type: docs
-weight: 3190
+weight: 3200
 url: /ar/net/aspose.page.xps.xpsmodel/xpslinejoin/
 ---
 ## XpsLineJoin enumeration

@@ -3,7 +3,7 @@ title: Class XpsBrush
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsBrush сорт. Класс объединяющий общие черты всех элементов кисти.
 type: docs
-weight: 2960
+weight: 2970
 url: /ru/net/aspose.page.xps.xpsmodel/xpsbrush/
 ---
 ## XpsBrush class

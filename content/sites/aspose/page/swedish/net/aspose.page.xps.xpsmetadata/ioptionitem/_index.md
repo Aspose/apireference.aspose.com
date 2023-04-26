@@ -3,7 +3,7 @@ title: Interface IOptionItem
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.IOptionItem gränssnitt. Gränssnittet för klasser som kan vara Print SchemaOption items.
 type: docs
-weight: 940
+weight: 950
 url: /sv/net/aspose.page.xps.xpsmetadata/ioptionitem/
 ---
 ## IOptionItem interface

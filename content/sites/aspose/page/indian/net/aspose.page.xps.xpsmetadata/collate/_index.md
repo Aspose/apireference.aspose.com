@@ -3,7 +3,7 @@ title: Class Collate
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Collate कक्ष. के लए आधर वर्गDocumentCollate औरJobCollateAllDocuments सुवधओं क कक्षएं.
 type: docs
-weight: 490
+weight: 500
 url: /hi/net/aspose.page.xps.xpsmetadata/collate/
 ---
 ## Collate class

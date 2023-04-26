@@ -3,7 +3,7 @@ title: Class XpsLoadOptions
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsLoadOptions sınıf. XPS belge yükleme seçenekleri.
 type: docs
-weight: 480
+weight: 490
 url: /tr/net/aspose.page.xps/xpsloadoptions/
 ---
 ## XpsLoadOptions class

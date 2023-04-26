@@ -3,7 +3,7 @@ title: Class XpsPathFigure
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsModel.XpsPathFigure klas. Klasse die de functies van het PathFiguurelement inkapselt. Dit element bestaat uit een set van een of meer lijn of krommesegmenten.
 type: docs
-weight: 3260
+weight: 3270
 url: /nl/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

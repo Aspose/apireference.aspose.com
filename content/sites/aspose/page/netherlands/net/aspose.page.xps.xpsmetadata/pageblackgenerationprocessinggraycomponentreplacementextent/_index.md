@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementExtent klas. Beschrijft de uitbreiding voorbij neutrale kleuren in chromatische kleuren die GCR toepast. 0  uniforme vervanging van componenten 100  vervanging van grijze componenten. https//docs.microsoft.com/enus/windows/win32/printdocs /paginazwartgeneratieverwerkinggrijscomponentvervangingextent
 type: docs
-weight: 1740
+weight: 1750
 url: /nl/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

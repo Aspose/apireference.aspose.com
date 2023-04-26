@@ -3,7 +3,7 @@ title: Class InputBin.FeedType
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedType kelas. Mendefinisikan konstanta untuk mencetak nilai properti.
 type: docs
-weight: 1040
+weight: 1050
 url: /id/net/aspose.page.xps.xpsmetadata/inputbin.feedtype/
 ---
 ## InputBin.FeedType class

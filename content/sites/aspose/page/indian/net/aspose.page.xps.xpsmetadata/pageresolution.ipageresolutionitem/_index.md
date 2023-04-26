@@ -3,7 +3,7 @@ title: Interface PageResolution.IPageResolutionItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionIPageResolutionItem इंटरफेस. कस क इंटरफ़ेसPageResolution फचर आइटम.
 type: docs
-weight: 2440
+weight: 2450
 url: /hi/net/aspose.page.xps.xpsmetadata/pageresolution.ipageresolutionitem/
 ---
 ## PageResolution.IPageResolutionItem interface

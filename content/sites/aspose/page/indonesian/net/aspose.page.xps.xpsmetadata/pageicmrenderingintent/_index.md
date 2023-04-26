@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntent kelas. Menjelaskan maksud rendering seperti yang ditentukan oleh Spesifikasi ICC v2. Nilai ini harus diabaikan jika gambar atau elemen grafis memiliki profil tersemat yang menentukan maksud Rendering. https//docs.microsoft.com/enus/ windows/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1990
+weight: 2000
 url: /id/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

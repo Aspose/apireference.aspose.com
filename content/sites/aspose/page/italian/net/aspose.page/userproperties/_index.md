@@ -52,6 +52,7 @@ public class UserProperties : Dictionary<string, object>
 | virtual [GetPropertyStringArray](../../aspose.page/userproperties/getpropertystringarray/#getpropertystringarray_1)(string, string[]) | Ottiene il valore della proprietà della matrice di stringhe. Se la proprietà richiesta è assente, restituisce il valore predefinito fornito. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty)(string) | Ottiene il valore della proprietà booleana. |
 | virtual [IsProperty](../../aspose.page/userproperties/isproperty/#isproperty_1)(string, bool) | Ottiene il valore della proprietà booleana. Se la proprietà richiesta è assente, restituisce il valore predefinito fornito. |
+| virtual [PrintProperties](../../aspose.page/userproperties/printproperties/)() |  |
 | virtual [PropertyNames](../../aspose.page/userproperties/propertynames/)() | Restituisce i nomi delle proprietà. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_1)(string, bool) | Imposta il valore della proprietà booleana. |
 | virtual [SetProperty](../../aspose.page/userproperties/setproperty/#setproperty_5)(string, Color) | Imposta il valore della proprietà del colore. |

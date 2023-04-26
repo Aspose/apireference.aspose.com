@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfile klass. Definierar egenskaperna för målfärgprofilen. Beskriver om programmet eller drivrutinen väljer målfärgprofilen som ska användas. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofile
 type: docs
-weight: 1880
+weight: 1890
 url: /sv/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

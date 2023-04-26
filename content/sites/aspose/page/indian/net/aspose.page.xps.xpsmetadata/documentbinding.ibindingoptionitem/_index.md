@@ -3,7 +3,7 @@ title: Interface DocumentBinding.IBindingOptionItem
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentBindingIBindingOptionItem इंटरफेस. कस क इंटरफ़ेसBindingOption मद.
 type: docs
-weight: 590
+weight: 600
 url: /hi/net/aspose.page.xps.xpsmetadata/documentbinding.ibindingoptionitem/
 ---
 ## DocumentBinding.IBindingOptionItem interface

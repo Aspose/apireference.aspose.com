@@ -3,7 +3,7 @@ title: Class JobPrintTicket
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrintTicket clase. La clase que encapsula un ticket de impresión a nivel de trabajo.
 type: docs
-weight: 1560
+weight: 1570
 url: /es/net/aspose.page.xps.xpsmetadata/jobprintticket/
 ---
 ## JobPrintTicket class

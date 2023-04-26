@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering сорт. Описывает внутренний особенность. Определяет поведение водяного знака по слоям.
 type: docs
-weight: 2670
+weight: 2680
 url: /ru/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

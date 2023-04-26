@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush kelas. Kelas yang merangkum fitur elemen properti LinearGradientBrush. Elemen ini digunakan untuk menentukan kuas gradien linier di sepanjang vektor.
 type: docs
-weight: 3200
+weight: 3210
 url: /id/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush sınıf. Dönüştürülebilir fırça öğelerinin ortak özelliklerini içeren sınıf SolidColorBrush hariç tümü.
 type: docs
-weight: 3410
+weight: 3420
 url: /tr/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

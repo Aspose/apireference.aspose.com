@@ -3,7 +3,7 @@ title: Class Feature
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.Feature classe. La classe che incapsula una funzionalità Print Schema comune. La classe base per tutte le funzionalità definite dallo schema. A Lelemento contiene un elenco completo diOption EProperty elementi che descrivono in modo completo un attributo del dispositivo unimpostazione di formattazione del processo o altre caratteristiche pertinenti. https//docs.microsoft.com/enus/windows/win32/printdocs/feature
 type: docs
-weight: 870
+weight: 880
 url: /it/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

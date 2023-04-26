@@ -3,7 +3,7 @@ title: PsDocument.Translate
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. वर्तमन ग्रफक्स स्थत में अनुवद जड़त है वर्तमन मैट्रक्स क अनुवद करत है .
 type: docs
-weight: 280
+weight: 310
 url: /hi/net/aspose.page.eps/psdocument/translate/
 ---
 ## PsDocument.Translate method

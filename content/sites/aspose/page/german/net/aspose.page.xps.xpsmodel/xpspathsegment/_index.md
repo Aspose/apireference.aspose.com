@@ -3,7 +3,7 @@ title: Class XpsPathSegment
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsModel.XpsPathSegment klas. Klasse die gemeinsame Merkmale aller Pfadsegmentelemente enthält.
 type: docs
-weight: 3290
+weight: 3300
 url: /de/net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

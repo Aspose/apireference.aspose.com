@@ -3,7 +3,7 @@ title: Class PrintTicket
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PrintTicket classe. La classe qui implémente un PrintTicket commun de nimporte quelle portée. La classe de base pour les tickets dimpression au niveau du travail du document et de la page. Aest lélément racine du document PrintTicket. A Lélément contient toutes les informations de formatage de travail requises pour générer un travail. https//docs.microsoft.com/enus/windows/win32/printdocs/printticket
 type: docs
-weight: 2790
+weight: 2800
 url: /fr/net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class

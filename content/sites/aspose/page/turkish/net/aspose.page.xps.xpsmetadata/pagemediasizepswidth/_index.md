@@ -3,7 +3,7 @@ title: Class PageMediaSizePSWidth
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSWidth sınıf. Besleme yönü yönüne dik sayfanın genişliğini belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepswidth
 type: docs
-weight: 2140
+weight: 2150
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediasizepswidth/
 ---
 ## PageMediaSizePSWidth class

@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack klass. Beskriver det bakre avslutande försättsbladet. Varje dokument kommer att ha ett separat ark. Försättsbladet ska skrivas ut påPageMediaSize ochPageMediaType används för den sista sidan av dokumentet. Försättsbladet bör integreras i processing options som t.exDocumentDuplex DocumentNUp  som anges av det angivna alternativet. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /sv/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

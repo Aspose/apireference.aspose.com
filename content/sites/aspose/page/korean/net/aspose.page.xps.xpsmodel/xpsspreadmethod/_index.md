@@ -3,7 +3,7 @@ title: Enum XpsSpreadMethod
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsSpreadMethod 열거형. 그라디언트 브러시의 SpreadMethod 속성의 유효한 값입니다.
 type: docs
-weight: 3360
+weight: 3370
 url: /ko/net/aspose.page.xps.xpsmodel/xpsspreadmethod/
 ---
 ## XpsSpreadMethod enumeration

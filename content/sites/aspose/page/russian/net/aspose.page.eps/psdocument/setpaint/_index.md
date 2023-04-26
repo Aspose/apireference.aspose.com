@@ -3,7 +3,7 @@ title: PsDocument.SetPaint
 second_title: Справочник по Aspose.Page для .NET API
 description: PsDocument метод. Устанавливает рисование в текущем графическом состоянии.
 type: docs
-weight: 240
+weight: 260
 url: /ru/net/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument.SetPaint method

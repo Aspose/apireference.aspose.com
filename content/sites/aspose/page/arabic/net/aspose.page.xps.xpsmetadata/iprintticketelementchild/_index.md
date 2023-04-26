@@ -3,7 +3,7 @@ title: Interface IPrintTicketElementChild
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketElementChild واجهه المستخدم. الواجهة الأساسية لعنصر فرعي لأي عنصر مخطط طباعة.
 type: docs
-weight: 960
+weight: 970
 url: /ar/net/aspose.page.xps.xpsmetadata/iprintticketelementchild/
 ---
 ## IPrintTicketElementChild interface

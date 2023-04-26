@@ -76,7 +76,7 @@ public PsDocument(Stream outPsStream, PsSaveOptions options, int numberOfPages)
 
 ## PsDocument(Stream) {#constructor}
 
-初期化[`PsDocument`](../) PS/EPS ファイルのストリーム付き.
+初期化[`PsDocument`](../)PS/EPS ファイルのストリーム付き.
 
 ```csharp
 public PsDocument(Stream inPsStream)

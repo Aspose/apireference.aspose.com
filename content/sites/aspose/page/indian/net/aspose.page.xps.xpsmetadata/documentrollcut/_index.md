@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut कक्ष. रल पेपर के लए कटंग वध क वर्णन करत है प्रत्येक दस्तवेज़ क अलग से संभल जत है नर्दष्ट वकल्प रल कट के लए वभन्न वधयं क वर्णन करते हैं https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 790
+weight: 800
 url: /hi/net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

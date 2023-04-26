@@ -3,7 +3,7 @@ title: Class RollCut
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.RollCut 수업. 의 기본 클래스JobRollCutAtEndOfJob 그리고DocumentRollCut 기능 클래스.
 type: docs
-weight: 2830
+weight: 2840
 url: /ko/net/aspose.page.xps.xpsmetadata/rollcut/
 ---
 ## RollCut class

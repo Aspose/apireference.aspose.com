@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize klass. Beskriver den avbildade duken för layout och rendering. Detta kommer att rapporteras baserat på PageMediaSize ochPageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /sv/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

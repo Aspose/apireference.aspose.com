@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple कक्ष. आउटपुट क स्टेपलंग वशेषतओं क वर्णन करत है प्रत्येक दस्तवेज़ क अलग से स्टेपल कय जत है दJobStapleAllDocuments औरDocumentStapleकवर्ड परस्पर अनन्य हैं यह ड्रइवर पर नर्भर है क वह इन कवर्ड्स के बच बध से नपटने क नर्धरण करे https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /hi/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

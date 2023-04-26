@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty 班级. 实现通用 PrintTicket 的类. 所有模式定义的评分属性的基类 A元素声明了 an 固有的属性Option定义在评估 请求的紧密程度时应比较此类属性Option匹配设备支持的Option. https//docs.microsoft.com/enus/windows/win32/printdocs/scoredproperty
 type: docs
-weight: 2850
+weight: 2860
 url: /zh/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

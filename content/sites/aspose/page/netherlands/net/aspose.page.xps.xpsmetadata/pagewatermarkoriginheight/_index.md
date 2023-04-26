@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginHeight
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginHeight klas. Specificeert de oorsprong van een watermerk ten opzichte van de oorsprong van het. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginheight
 type: docs
-weight: 2700
+weight: 2710
 url: /nl/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginheight/
 ---
 ## PageWatermarkOriginHeight class

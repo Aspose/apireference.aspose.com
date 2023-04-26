@@ -3,7 +3,7 @@ title: Class StringValue
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.StringValue 班级. 将 String 值封装在 PrintTicket 文档中的类
 type: docs
-weight: 2910
+weight: 2920
 url: /zh/net/aspose.page.xps.xpsmetadata/stringvalue/
 ---
 ## StringValue class

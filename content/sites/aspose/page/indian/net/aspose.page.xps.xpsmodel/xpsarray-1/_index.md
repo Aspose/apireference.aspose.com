@@ -3,7 +3,7 @@ title: Class XpsArrayT
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsArray1T कक्ष. क्लस इनकैप्सुलेटंग कमन XPS मडल ऐरे ऑब्जेक्ट फचर्स
 type: docs
-weight: 2950
+weight: 2960
 url: /hi/net/aspose.page.xps.xpsmodel/xpsarray-1/
 ---
 ## XpsArray&lt;T&gt; class

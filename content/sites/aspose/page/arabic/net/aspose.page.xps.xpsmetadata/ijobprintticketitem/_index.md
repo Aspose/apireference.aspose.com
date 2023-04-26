@@ -3,7 +3,7 @@ title: Interface IJobPrintTicketItem
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.IJobPrintTicketItem واجهه المستخدم. واجهة عناصر بطاقة الطباعة مسبوقة بالمهمة.
 type: docs
-weight: 930
+weight: 940
 url: /ar/net/aspose.page.xps.xpsmetadata/ijobprintticketitem/
 ---
 ## IJobPrintTicketItem interface

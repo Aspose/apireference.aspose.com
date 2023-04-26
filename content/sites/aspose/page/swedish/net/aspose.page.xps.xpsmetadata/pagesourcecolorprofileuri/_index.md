@@ -3,7 +3,7 @@ title: Class PageSourceColorProfileURI
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfileURI klass. Anger källan för färgprofilen.
 type: docs
-weight: 2610
+weight: 2620
 url: /sv/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofileuri/
 ---
 ## PageSourceColorProfileURI class

@@ -3,7 +3,7 @@ title: Class PrintTicketElement
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PrintTicketElement classe. La classe de base pour les classes qui peuvent être des éléments de schéma dimpression.
 type: docs
-weight: 2800
+weight: 2810
 url: /fr/net/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

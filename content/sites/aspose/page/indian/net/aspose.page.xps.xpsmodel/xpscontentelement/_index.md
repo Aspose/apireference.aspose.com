@@ -3,7 +3,7 @@ title: Class XpsContentElement
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsContentElement कक्ष. XPS समग्र तत्वं क सुवधओं क समहत करत है कैनवस पथ और ग्लफ़.
 type: docs
-weight: 3000
+weight: 3010
 url: /hi/net/aspose.page.xps.xpsmodel/xpscontentelement/
 ---
 ## XpsContentElement class

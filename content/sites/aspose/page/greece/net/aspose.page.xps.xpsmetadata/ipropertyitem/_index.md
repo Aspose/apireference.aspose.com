@@ -3,7 +3,7 @@ title: Interface IPropertyItem
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.IPropertyItem διεπαφή. Η βασική διεπαφή για κλάσεις που μπορεί να είναι PrintTicketProperty αντικείμενα.
 type: docs
-weight: 980
+weight: 990
 url: /el/net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

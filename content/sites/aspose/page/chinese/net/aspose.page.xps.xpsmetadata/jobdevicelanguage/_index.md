@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage 班级. 描述支持从驱动程序向物理设备发送数据的设备语言 这通常称为页面描述语言该关键字定义了驱动程序和物理设备支持的页面描述 语言 https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /zh/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

@@ -28,7 +28,7 @@ public PdfDevice(Stream ros)
 
 ## PdfDevice(Stream, Size) {#constructor_1}
 
-Αρχικοποιεί νέα παρουσία του[`PdfDevice`](../)με ροή εξόδου και καθορισμένο μέγεθος σελίδας.
+Αρχικοποιεί νέα παρουσία του[`PdfDevice`](../) με ροή εξόδου και καθορισμένο μέγεθος σελίδας.
 
 ```csharp
 public PdfDevice(Stream ros, Size size)

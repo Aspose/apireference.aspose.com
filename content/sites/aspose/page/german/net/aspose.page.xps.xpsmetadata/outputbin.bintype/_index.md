@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType klas. Definiert Konstanten für die Bewerteter Eigenschaftswert.
 type: docs
-weight: 1670
+weight: 1680
 url: /de/net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

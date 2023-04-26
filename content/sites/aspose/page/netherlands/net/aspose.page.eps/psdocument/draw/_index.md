@@ -3,7 +3,7 @@ title: PsDocument.Draw
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Teken een willekeurig pad.
 type: docs
-weight: 70
+weight: 80
 url: /nl/net/aspose.page.eps/psdocument/draw/
 ---
 ## PsDocument.Draw method

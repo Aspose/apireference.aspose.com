@@ -3,7 +3,7 @@ title: Enum XpsEdgeMode
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsEdgeMode 列挙. Canvas 要素の RenderOptions.EdgeMode プロパティの有効な値.
 type: docs
-weight: 3020
+weight: 3030
 url: /ja/net/aspose.page.xps.xpsmodel/xpsedgemode/
 ---
 ## XpsEdgeMode enumeration

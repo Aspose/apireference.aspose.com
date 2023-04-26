@@ -3,7 +3,7 @@ title: Class PageMediaSize.PageMediaSizeOption
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePageMediaSizeOption klass. BeskriverPageMediaSize funktionsalternativ.
 type: docs
-weight: 2080
+weight: 2090
 url: /sv/net/aspose.page.xps.xpsmetadata/pagemediasize.pagemediasizeoption/
 ---
 ## PageMediaSize.PageMediaSizeOption class

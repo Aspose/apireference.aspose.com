@@ -3,7 +3,7 @@ title: Class XpsElement
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsElement فصل. فئة تتضمن ميزات عنصر XPS المشتركة.
 type: docs
-weight: 3030
+weight: 3040
 url: /ar/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class

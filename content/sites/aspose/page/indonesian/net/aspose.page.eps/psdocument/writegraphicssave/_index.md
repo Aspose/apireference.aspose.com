@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsSave
 second_title: Aspose.Page untuk Referensi .NET API
 description: PsDocument metode. Menulis penyimpanan status grafik saat ini Lihat spesifikasi PostScript pada operator gsave.
 type: docs
-weight: 300
+weight: 330
 url: /id/net/aspose.page.eps/psdocument/writegraphicssave/
 ---
 ## PsDocument.WriteGraphicsSave method

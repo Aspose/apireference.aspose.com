@@ -3,7 +3,7 @@ title: Class PageNegativeImage
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageNegativeImage कक्ष. आउटपुट क नकरत्मक सेटंग क वर्णन करत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagenegativeimage
 type: docs
-weight: 2280
+weight: 2290
 url: /hi/net/aspose.page.xps.xpsmetadata/pagenegativeimage/
 ---
 ## PageNegativeImage class

@@ -3,7 +3,7 @@ title: Class NUp
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.NUp τάξη. Η βασική κλάση γιαJobNUpAllDocumentsContiguously καιDocumentNUp διαθέτει κλάσεις.
 type: docs
-weight: 1600
+weight: 1610
 url: /el/net/aspose.page.xps.xpsmetadata/nup/
 ---
 ## NUp class

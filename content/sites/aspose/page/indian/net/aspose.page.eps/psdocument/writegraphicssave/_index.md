@@ -3,7 +3,7 @@ title: PsDocument.WriteGraphicsSave
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. वर्तमन ग्रफक्स स्थत क बचत लखत है ऑपरेटर जएसएव पर पस्टस्क्रप्ट वनर्देश देखें
 type: docs
-weight: 300
+weight: 330
 url: /hi/net/aspose.page.eps/psdocument/writegraphicssave/
 ---
 ## PsDocument.WriteGraphicsSave method

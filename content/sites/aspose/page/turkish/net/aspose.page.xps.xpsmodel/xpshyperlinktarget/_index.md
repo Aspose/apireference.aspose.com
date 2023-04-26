@@ -3,7 +3,7 @@ title: Class XpsHyperlinkTarget
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkTarget sınıf. Köprü hedefi için temel sınıf.
 type: docs
-weight: 3130
+weight: 3140
 url: /tr/net/aspose.page.xps.xpsmodel/xpshyperlinktarget/
 ---
 ## XpsHyperlinkTarget class

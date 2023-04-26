@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment 班级. 封装ArcSegment元素特征的类 这个元素描述了一个椭圆弧
 type: docs
-weight: 2940
+weight: 2950
 url: /zh/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

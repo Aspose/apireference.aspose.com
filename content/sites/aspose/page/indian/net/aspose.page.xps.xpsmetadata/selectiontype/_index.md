@@ -3,7 +3,7 @@ title: Class SelectionType
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.SelectionType कक्ष. SelectionType PrintTicket संपत्त के लए सुवध वर्ग
 type: docs
-weight: 2860
+weight: 2870
 url: /hi/net/aspose.page.xps.xpsmetadata/selectiontype/
 ---
 ## SelectionType class

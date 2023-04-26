@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsTileMode enum. Nilai yang valid dari properti TileMode sikat ubin.
 type: docs
-weight: 3390
+weight: 3400
 url: /id/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

@@ -3,7 +3,7 @@ title: PsDocument.Merge
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: PsDocument तरक. पएस/ईपएस फइलं क डवइस में मर्ज करत है
 type: docs
-weight: 160
+weight: 180
 url: /hi/net/aspose.page.eps/psdocument/merge/
 ---
 ## PsDocument.Merge method

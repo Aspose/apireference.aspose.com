@@ -3,7 +3,7 @@ title: Enum PdfImageCompression
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.Presentation.Pdf.PdfImageCompression Sıralama. PDF dosyasındaki görüntülere uygulanan sıkıştırma türünü belirtir.
 type: docs
-weight: 430
+weight: 440
 url: /tr/net/aspose.page.xps.presentation.pdf/pdfimagecompression/
 ---
 ## PdfImageCompression enumeration

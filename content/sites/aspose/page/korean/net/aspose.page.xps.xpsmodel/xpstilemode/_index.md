@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsTileMode 열거형. 타일링 브러시의 TileMode 속성의 유효한 값입니다.
 type: docs
-weight: 3390
+weight: 3400
 url: /ko/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

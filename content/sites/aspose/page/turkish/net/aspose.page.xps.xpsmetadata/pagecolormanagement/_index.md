@@ -3,7 +3,7 @@ title: Class PageColorManagement
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageColorManagement sınıf. Geçerli sayfa için renk yönetimini yapılandırır. Bu SHIM  DM_ICMMod Add Systemda otomatik olarak kabul edilir. Hangi bileşenin renk yönetimi gerçekleştirmesi gerektiğini açıklar örn. Sürücü. https//docs.microsoft.com/enus/windows /win32/printdocs/pagecolormanagement
 type: docs
-weight: 1850
+weight: 1860
 url: /tr/net/aspose.page.xps.xpsmetadata/pagecolormanagement/
 ---
 ## PageColorManagement class

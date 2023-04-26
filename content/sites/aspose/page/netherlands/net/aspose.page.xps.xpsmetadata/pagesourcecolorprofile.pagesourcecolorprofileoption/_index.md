@@ -3,7 +3,7 @@ title: Class PageSourceColorProfile.PageSourceColorProfileOption
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageSourceColorProfilePageSourceColorProfileOption klas. Beschrijft dePageSourceColorProfile functieopties.
 type: docs
-weight: 2590
+weight: 2600
 url: /nl/net/aspose.page.xps.xpsmetadata/pagesourcecolorprofile.pagesourcecolorprofileoption/
 ---
 ## PageSourceColorProfile.PageSourceColorProfileOption class

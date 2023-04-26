@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet sınıf. Hata sayfası çıktısını açıklar. Tüm işin tek bir hata sayfası olacaktır. Hata sayfası varsayılan olarak çıkarılmalıdır.PageMediaSize ve varsayılanı kullanarakPageMediaType . Hata sayfası işin geri kalanından izole edilmelidir. Bu herhangi bir bitirme or işleme seçeneğinin örneğin   veya  hata sayfasını içermemelidir. Hata sayfası işin son sayfası olarak görünmelidir. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /tr/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

@@ -3,7 +3,7 @@ title: Interface IJobPrintTicketItem
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.IJobPrintTicketItem arayüz. İş ön ekli basılı bilet öğelerinin arayüzü.
 type: docs
-weight: 930
+weight: 940
 url: /tr/net/aspose.page.xps.xpsmetadata/ijobprintticketitem/
 ---
 ## IJobPrintTicketItem interface

@@ -3,7 +3,7 @@ title: PsDocument.DrawExplicitImageMask
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. ارسم صورة مقنعة .
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.page.eps/psdocument/drawexplicitimagemask/
 ---
 ## PsDocument.DrawExplicitImageMask method

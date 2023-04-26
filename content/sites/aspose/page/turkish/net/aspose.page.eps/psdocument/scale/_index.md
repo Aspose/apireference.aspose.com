@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. Geçerli grafik durumuna ölçek ekler geçerli matrisi ölçeklendir.
 type: docs
-weight: 210
+weight: 230
 url: /tr/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

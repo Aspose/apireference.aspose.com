@@ -3,7 +3,7 @@ title: Class JobRollCutAtEndOfJob
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.JobRollCutAtEndOfJob sınıf. Rulo kağıt için kesme yöntemini açıklar. Rulo işin sonunda kesilmelidir. https//docs.Microsoft.com/enus/windows/win32/printdocs/jobrollcutatendofjob
 type: docs
-weight: 1570
+weight: 1580
 url: /tr/net/aspose.page.xps.xpsmetadata/jobrollcutatendofjob/
 ---
 ## JobRollCutAtEndOfJob class

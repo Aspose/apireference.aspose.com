@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceUsage
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceUsage 수업. 와 함께PageDeviceColorSpaceProfileURI 매개변수 이 매개변수는 장치 색상 공간에 표시되는 요소의 렌더링 동작을 정의합니다. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceusage
 type: docs
-weight: 1930
+weight: 1940
 url: /ko/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
 ---
 ## PageDeviceColorSpaceUsage class

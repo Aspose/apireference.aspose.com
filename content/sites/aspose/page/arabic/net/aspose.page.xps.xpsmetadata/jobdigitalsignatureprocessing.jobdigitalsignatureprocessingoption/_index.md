@@ -3,7 +3,7 @@ title: Class JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobDigitalSignatureProcessingJobDigitalSignatureProcessingOption فصل. يصف ملفJobDigitalSignatureProcessing خيارات الميزة.
 type: docs
-weight: 1270
+weight: 1280
 url: /ar/net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing.jobdigitalsignatureprocessingoption/
 ---
 ## JobDigitalSignatureProcessing.JobDigitalSignatureProcessingOption class

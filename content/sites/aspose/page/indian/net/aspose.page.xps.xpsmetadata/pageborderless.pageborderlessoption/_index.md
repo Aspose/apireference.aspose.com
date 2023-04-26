@@ -3,7 +3,7 @@ title: Class PageBorderless.PageBorderlessOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageBorderlessPageBorderlessOption कक्ष. क वर्णन करत हैPageBorderless सुवध वकल्प.
 type: docs
-weight: 1840
+weight: 1850
 url: /hi/net/aspose.page.xps.xpsmetadata/pageborderless.pageborderlessoption/
 ---
 ## PageBorderless.PageBorderlessOption class

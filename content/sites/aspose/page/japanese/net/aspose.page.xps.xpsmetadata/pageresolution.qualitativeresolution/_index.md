@@ -3,7 +3,7 @@ title: Class PageResolution.QualitativeResolution
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageResolutionQualitativeResolution クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 2470
+weight: 2480
 url: /ja/net/aspose.page.xps.xpsmetadata/pageresolution.qualitativeresolution/
 ---
 ## PageResolution.QualitativeResolution class

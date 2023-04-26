@@ -3,7 +3,7 @@ title: Class XpsHyperlinkTarget
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkTarget сорт. Базовый класс для цели гиперссылки.
 type: docs
-weight: 3130
+weight: 3140
 url: /ru/net/aspose.page.xps.xpsmodel/xpshyperlinktarget/
 ---
 ## XpsHyperlinkTarget class

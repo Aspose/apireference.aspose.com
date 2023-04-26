@@ -16,7 +16,7 @@ public ScaleOffsetAlignment(params ScaleOffsetAlignmentOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | ScaleOffsetAlignmentOption[] | Una matriz de opciones específicas para la característica. |
+| options | ScaleOffsetAlignmentOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

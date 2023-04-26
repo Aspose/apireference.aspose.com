@@ -3,7 +3,7 @@ title: Class ScoredProperty
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.ScoredProperty クラス. 共通の PrintTicket を実装するクラス. すべてのスキーマ定義のスコア付きプロパティの基本クラス A要素はan に固有のプロパティを宣言しますOption意味このようなプロパティは要求されたデータがどれだけ近いかを 評価するときに比較する必要がありますOptionサポートされているデバイスに一致しますOption. https//docs.microsoft.com/enus/windows/win32/printdocs/scoredproperty
 type: docs
-weight: 2850
+weight: 2860
 url: /ja/net/aspose.page.xps.xpsmetadata/scoredproperty/
 ---
 ## ScoredProperty class

@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously クラス. 1 つの物理シートへの複数の論理ページの出力について説明します job 内のすべてのドキュメントは連続して一緒にコンパイルされますJobNUpAllDocumentsContiguouslyとDocumentNUp は相互に排他的ですこれらのキーワード間の制約の処理を決定するのはドライバー次第です
 type: docs
-weight: 1380
+weight: 1390
 url: /ja/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

@@ -3,7 +3,7 @@ title: Class XpsFileResource
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsFileResource τάξη. Κλάση που ενσωματώνει κοινά χαρακτηριστικά όλων των πόρων αρχείων.
 type: docs
-weight: 3060
+weight: 3070
 url: /el/net/aspose.page.xps.xpsmodel/xpsfileresource/
 ---
 ## XpsFileResource class

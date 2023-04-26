@@ -3,7 +3,7 @@ title: Class PageWatermarkTextFontSize
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextFontSize クラス. 透かしテキストに使用できるフォント サイズを定義します https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextfontsize
 type: docs
-weight: 2740
+weight: 2750
 url: /ja/net/aspose.page.xps.xpsmetadata/pagewatermarktextfontsize/
 ---
 ## PageWatermarkTextFontSize class

@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.XpsModel
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.Xps.XpsModelad alanı XPS belgesinin öğelerini açıklayan sınıflar sağlar.
 type: docs
-weight: 110
+weight: 120
 url: /tr/net/aspose.page.xps.xpsmodel/
 ---
 **Aspose.Page.Xps.XpsModel**ad alanı, XPS belgesinin öğelerini açıklayan sınıflar sağlar.
@@ -23,7 +23,7 @@ url: /tr/net/aspose.page.xps.xpsmodel/
 | [XpsExternalLinkTarget](./xpsexternallinktarget/) | Harici köprü hedefini kapsayan sınıf. |
 | [XpsFileResource](./xpsfileresource/) | Tüm dosya kaynaklarının ortak özelliklerini içeren sınıf. |
 | [XpsFont](./xpsfont/) | TrueType yazı tipi kaynağını kapsayan sınıf. |
-| [XpsGlyphs](./xpsglyphs/) | Glif öğesi özelliklerini içeren sınıf. Bu öğe, tek bir yazı tipinden tek tip biçimlendirilmiş bir metin dizisini temsil eder. Doğru işleme için gerekli bilgileri sağlar ve tüketicileri görüntülemede search ve seçim özelliklerini destekler. |
+| [XpsGlyphs](./xpsglyphs/) | Sınıfı, Glifler öğesi özelliklerini kapsar. Bu öğe, tek bir yazı tipinden tek biçimli biçimlendirilmiş bir metin dizisini temsil eder. Doğru işleme için gerekli bilgileri sağlar ve tüketicileri görüntülemede search ve seçim özelliklerini destekler. |
 | [XpsGradientBrush](./xpsgradientbrush/) | LinerGradientBrush ve RadialGradientBrush öğelerinin ortak özelliklerini kapsayan sınıf. |
 | [XpsGradientStop](./xpsgradientstop/) | Sınıfı, GradientStop öğesinin özelliklerini içine alır. Bu öğe, hem LinearGradientBrush hem de RadialGradientBrush öğeleri tarafından, degrade oluşturmak için renk ilerlemesinin konumunu ve aralığını tanımlamak için kullanılır. |
 | [XpsHyperlinkElement](./xpshyperlinkelement/) | Bir köprü olabilecek XPS öğelerinin ortak özelliklerini içerir. |
@@ -33,13 +33,13 @@ url: /tr/net/aspose.page.xps.xpsmodel/
 | [XpsImage](./xpsimage/) | Bir görüntü kaynağı içeren sınıf. |
 | [XpsImageBrush](./xpsimagebrush/) | ImageBrush özellik öğesi özelliklerini içeren sınıf. Bu öğe, bir bölgeyi bir görüntü ile doldurmak için kullanılır. |
 | [XpsLinearGradientBrush](./xpslineargradientbrush/) | LinearGradientBrush özellik öğesi özelliklerini kapsayan sınıf. Bu öğe, bir vektör boyunca doğrusal bir degrade fırça belirtmek için kullanılır. |
-| [XpsMatrix](./xpsmatrix/) | Sınıf, MatrixTransform özellik öğesi özelliklerini içerir. Bu öğe, öğelerin koordinat sistemlerini değiştirmek için kullanılan gelişigüzel bir afin matris dönüşümünü tanımlar. |
+| [XpsMatrix](./xpsmatrix/) | Sınıf, MatrixTransform özellik öğesi özelliklerini içerir. Bu öğe, koordinat öğe sistemlerini değiştirmek için kullanılan gelişigüzel bir afin matris dönüşümünü tanımlar. |
 | [XpsObject](./xpsobject/) | Ortak XPS modeli nesne özelliklerini kapsayan sınıf. |
 | [XpsPage](./xpspage/) | Sınıf, FixedPage öğesi özelliklerini kapsar. Bu öğe, bir sayfanın içeriğini içerir ve bir FixedPage bölümünün kök öğesidir. |
 | [XpsPageLinkTarget](./xpspagelinktarget/) | Sayfa köprü hedefini kapsayan sınıf. |
 | [XpsPath](./xpspath/) | Sınıf, Yol öğesi özelliklerini kapsar. Bu öğe, sabit bir sayfaya vektör grafikleri ve resimler eklemenin tek yoludur. Bir sayfada işlenecek tek bir vektör grafiğini tanımlar. |
 | [XpsPathFigure](./xpspathfigure/) | Sınıf, Path Figure öğesinin özelliklerini kapsar. Bu öğe, bir veya daha fazla çizgi veya eğri parçasından oluşur. |
-| [XpsPathGeometry](./xpspathgeometry/) | Sınıf, PathGeometry özellik öğesi özelliklerini içerir. Bu öğe, Figures özniteliğiyle veya bir alt Path Figure öğesiyle belirtilen bir dizi yol figürü içerir. |
+| [XpsPathGeometry](./xpspathgeometry/) | Sınıfı, PathGeometry özellik öğesi özelliklerini içerir. Bu öğe, Figures özniteliğiyle veya bir alt Path Figure öğesiyle belirtilen bir dizi yol figürü içerir. |
 | [XpsPathPolySegment](./xpspathpolysegment/) | PolyLineSegment, PolyBézierSegment ve PolyQuadraticBézierSegment öğelerinin ortak özelliklerini içeren sınıf. |
 | [XpsPathSegment](./xpspathsegment/) | Tüm yol parçası öğelerinin ortak özelliklerini kapsayan sınıf. |
 | [XpsPolyBezierSegment](./xpspolybeziersegment/) | PolyBezierSegment öğesi özelliklerini içeren sınıf. Bu öğe, bir kübik Bézier eğrileri kümesini tanımlar. |

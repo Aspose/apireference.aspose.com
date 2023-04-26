@@ -3,7 +3,7 @@ title: Class XpsTransformableBrush
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsTransformableBrush сорт. Класс инкапсулирующий общие свойства трансформируемых элементов кисти все кроме SolidColorBrush.
 type: docs
-weight: 3410
+weight: 3420
 url: /ru/net/aspose.page.xps.xpsmodel/xpstransformablebrush/
 ---
 ## XpsTransformableBrush class

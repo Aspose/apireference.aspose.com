@@ -3,7 +3,7 @@ title: Class PageWatermarkTextAngle
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextAngle कक्ष. के सपेक्ष वटरमर्क टेक्स्ट क कण नर्दष्ट करत है दश. कण क वमवर्त दश में मप जत है https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextangle
 type: docs
-weight: 2720
+weight: 2730
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

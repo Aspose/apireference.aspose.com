@@ -3,7 +3,7 @@ title: Class JobPageOrder
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrder 班级. 定义输出的物理页面顺序 https//docs.microsoft.com/enus/windows/win32/printdocs/jobpageorder
 type: docs
-weight: 1450
+weight: 1460
 url: /zh/net/aspose.page.xps.xpsmetadata/jobpageorder/
 ---
 ## JobPageOrder class

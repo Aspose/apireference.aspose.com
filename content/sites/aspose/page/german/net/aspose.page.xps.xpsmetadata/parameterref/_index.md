@@ -3,7 +3,7 @@ title: Class ParameterRef
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.ParameterRef klas. Die Klasse die eine gemeinsame PrintTicketParameterreferenz implementiert. A element definiert einen Verweis auf aParameterInitElement. AScoredProperty Element das ein ParameterRefElement enthält hat kein explizit festgelegtes ElementValue Element. Stattdessen dieScoredProperty element erhält seinen Wert von derParameterInit Element auf das von a verwiesen wird element. https//docs.microsoft.com/enus/windows/win32/printdocs/parameterref
 type: docs
-weight: 2780
+weight: 2790
 url: /de/net/aspose.page.xps.xpsmetadata/parameterref/
 ---
 ## ParameterRef class

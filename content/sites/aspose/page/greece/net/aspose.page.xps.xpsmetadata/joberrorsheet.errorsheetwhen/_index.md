@@ -3,7 +3,7 @@ title: Class JobErrorSheet.ErrorSheetWhen
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheetErrorSheetWhen τάξη. Περιγράφει το εσωτερικό χαρακτηριστικό.
 type: docs
-weight: 1310
+weight: 1320
 url: /el/net/aspose.page.xps.xpsmetadata/joberrorsheet.errorsheetwhen/
 ---
 ## JobErrorSheet.ErrorSheetWhen class

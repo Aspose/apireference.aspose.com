@@ -3,7 +3,7 @@ title: Class JpegSaveOptions
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.Presentation.Image.JpegSaveOptions sınıf. JPEG olarak XPS kaydetme seçenekleri için Sınıf.
 type: docs
-weight: 370
+weight: 380
 url: /tr/net/aspose.page.xps.presentation.image/jpegsaveoptions/
 ---
 ## JpegSaveOptions class

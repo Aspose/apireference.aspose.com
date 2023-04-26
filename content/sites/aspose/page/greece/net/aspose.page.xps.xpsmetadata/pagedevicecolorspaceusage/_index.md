@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceUsage
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceUsage τάξη. Σε συνδυασμό με τοPageDeviceColorSpaceProfileURI παράμετρος αυτή η παράμετρος ορίζει τη συμπεριφορά απόδοσης για στοιχεία που παρουσιάζονται σε έναν χρωματικό χώρο συσκευής. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceusage
 type: docs
-weight: 1930
+weight: 1940
 url: /el/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceusage/
 ---
 ## PageDeviceColorSpaceUsage class

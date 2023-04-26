@@ -20,7 +20,7 @@ public XpsArcSegment CreateArcSegment(PointF point, SizeF size, float rotationAn
 | point | PointF | Het eindpunt van de elliptische boog. |
 | size | SizeF | De x- en y-straal van de elliptische boog als een x,y-paar. |
 | rotationAngle | Single | Geeft aan hoe de ellips wordt geroteerd ten opzichte van het huidige coördinatensysteem. |
-| isLargeArc | Boolean | Bepaalt of de boog wordt getekend met een bereik van 180 of groter. |
+| isLargeArc | Boolean | Bepaalt of de boog wordt getekend met een bereik van 180 of meer. |
 | sweepDirection | XpsSweepDirection | De richting waarin de boog wordt getekend. |
 | isStroked | Boolean | Specificeert of de streek voor dit segment van het pad wordt getekend. |
 

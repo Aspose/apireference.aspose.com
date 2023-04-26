@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePunched
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePunched कक्ष. के लए स्थरंक परभषत करत है अर्जत संपत्त मूल्य.
 type: docs
-weight: 2240
+weight: 2250
 url: /hi/net/aspose.page.xps.xpsmetadata/pagemediatype.prepunched/
 ---
 ## PageMediaType.PrePunched class

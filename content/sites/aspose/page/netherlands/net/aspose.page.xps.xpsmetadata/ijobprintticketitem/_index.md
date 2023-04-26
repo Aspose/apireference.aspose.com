@@ -3,7 +3,7 @@ title: Interface IJobPrintTicketItem
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.IJobPrintTicketItem koppel. De interface van afdrukticketitems met opdrachtvoorvoegsels.
 type: docs
-weight: 930
+weight: 940
 url: /nl/net/aspose.page.xps.xpsmetadata/ijobprintticketitem/
 ---
 ## IJobPrintTicketItem interface

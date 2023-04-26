@@ -3,7 +3,7 @@ title: Class XpsLinearGradientBrush
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsLinearGradientBrush classe. Classe incorporant les fonctionnalités de lélément de propriété LinearGradientBrush. Cet élément est utilisé pour spécifier un pinceau dégradé linéaire le long dun vecteur.
 type: docs
-weight: 3200
+weight: 3210
 url: /fr/net/aspose.page.xps.xpsmodel/xpslineargradientbrush/
 ---
 ## XpsLinearGradientBrush class

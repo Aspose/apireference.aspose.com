@@ -3,7 +3,7 @@ title: Class DocumentInputBin
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.DocumentInputBin クラス. デバイスにインストールされている入力ビンまたはデバイスでサポートされているビンの完全なリストについて説明しますJobInputBin DocumentInputBin  とPageInputBin キーワードは相互に排他的です PrintTicket または印刷機能ドキュメントで両方を同時に指定しないでください https//docs.microsoft.com/enus/windows/win32/printdocs/documentinputbin
 type: docs
-weight: 730
+weight: 740
 url: /ja/net/aspose.page.xps.xpsmetadata/documentinputbin/
 ---
 ## DocumentInputBin class

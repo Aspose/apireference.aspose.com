@@ -3,7 +3,7 @@ title: Class DocumentBannerSheet
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentBannerSheet فصل. يصف ورقة الشعارات ليتم إخراجها لمستند معين. يجب إخراج ورقة الشعار على default PageMediaSize واستخدام الافتراضيPageMediaType . يجب أيضًا عزل ورقة البانر عن باقي الوظيفة. هذا يعني أن أي خيارات إنهاء أو معالجة مثل DocumentDuplex وDocumentStaple  أوDocumentBinding يجب ألا تتضمن ورقة الشعار. قد يتم عزل ورقة الشعارات عن باقي المهمة أو قد لا يتم عزلها. وهذا يعني أن أي وظيفة إنهاء أو خيارات معالجة قد تتضمن ورقة شعار المستند.  //docs.microsoft.com/enus/windows/win32/printdocs/documentbannersheet
 type: docs
-weight: 530
+weight: 540
 url: /ar/net/aspose.page.xps.xpsmetadata/documentbannersheet/
 ---
 ## DocumentBannerSheet class

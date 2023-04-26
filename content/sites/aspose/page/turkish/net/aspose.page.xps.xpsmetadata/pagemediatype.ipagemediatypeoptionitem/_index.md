@@ -3,7 +3,7 @@ title: Interface PageMediaType.IPageMediaTypeOptionItem
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeIPageMediaTypeOptionItem arayüz. Herhangi birinin arayüzüPageMediaType öğe.
 type: docs
-weight: 2200
+weight: 2210
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediatype.ipagemediatypeoptionitem/
 ---
 ## PageMediaType.IPageMediaTypeOptionItem interface

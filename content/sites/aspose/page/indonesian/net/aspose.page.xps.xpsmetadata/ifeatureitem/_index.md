@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem antarmuka. Antarmuka dasar untuk kelas yang mungkin merupakan Skema CetakFeature item.
 type: docs
-weight: 920
+weight: 930
 url: /id/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

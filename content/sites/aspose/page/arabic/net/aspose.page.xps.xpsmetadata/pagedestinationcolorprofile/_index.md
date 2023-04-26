@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfile فصل. يحدد خصائص ملف تعريف اللون الوجهة. يوضح ما إذا كان التطبيق أو برنامج التشغيل يحدد ملف تعريف اللون الوجهة لاستخدامه. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofile
 type: docs
-weight: 1880
+weight: 1890
 url: /ar/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

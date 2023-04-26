@@ -3,7 +3,7 @@ title: Interface IDocumentPrintTicketItem
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.IDocumentPrintTicketItem interfaz. La interfaz de elementos de ticket de impresión con prefijo de documento.
 type: docs
-weight: 910
+weight: 920
 url: /es/net/aspose.page.xps.xpsmetadata/idocumentprintticketitem/
 ---
 ## IDocumentPrintTicketItem interface

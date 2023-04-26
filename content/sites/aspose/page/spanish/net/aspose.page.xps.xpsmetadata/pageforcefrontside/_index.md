@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide clase. Hace que la salida aparezca en el anverso de una hoja de papel. Relevante para hojas de medios con superficies different en cada lado. En los casos en que esta característica interfiere con las opciones de procesamiento como DocumentDuplex  tiene prioridad para la página específica a la que se aplica la característica.
 type: docs
-weight: 1970
+weight: 1980
 url: /es/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

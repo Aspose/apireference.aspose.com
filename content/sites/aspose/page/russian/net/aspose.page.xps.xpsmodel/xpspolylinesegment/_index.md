@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment сорт. Класс инкапсулирующий свойства элемента PolyLineSegment. Этот элемент описывает многоугольный рисунок содержащий произвольное количество отдельных вершин.
 type: docs
-weight: 3310
+weight: 3320
 url: /ru/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

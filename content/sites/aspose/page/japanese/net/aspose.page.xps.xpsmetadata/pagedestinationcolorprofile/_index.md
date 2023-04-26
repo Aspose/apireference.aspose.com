@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfile
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfile クラス. 宛先カラー プロファイルの特性を定義します アプリケーションまたはドライバーが使用する宛先カラー プロファイルを選択するかどうかを記述します https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofile
 type: docs
-weight: 1880
+weight: 1890
 url: /ja/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofile/
 ---
 ## PageDestinationColorProfile class

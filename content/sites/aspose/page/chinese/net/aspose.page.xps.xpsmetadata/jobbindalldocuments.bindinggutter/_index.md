@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter 班级. 描述指定的方式得分属性值 是通过整数值还是通过对参数.
 type: docs
-weight: 1160
+weight: 1170
 url: /zh/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

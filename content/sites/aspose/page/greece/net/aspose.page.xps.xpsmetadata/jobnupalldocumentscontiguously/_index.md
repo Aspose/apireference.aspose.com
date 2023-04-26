@@ -3,7 +3,7 @@ title: Class JobNUpAllDocumentsContiguously
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobNUpAllDocumentsContiguously τάξη. Περιγράφει την έξοδο πολλαπλών λογικών σελίδων σε ένα ενιαίο φυσικό φύλλο. Όλα τα έγγραφα στο job συγκεντρώνονται μαζί συνεχόμενα.JobNUpAllDocumentsContiguously καιDocumentNUp Οι αποκλείονται αμοιβαία. Εναπόκειται στο πρόγραμμα οδήγησης να καθορίσει τον χειρισμό περιορισμών μεταξύ αυτών των λέξεωνκλειδιών. https//docs.microsoft.com/enus/windows/win32/printdocs/jobnupalldocumentscontiguously
 type: docs
-weight: 1380
+weight: 1390
 url: /el/net/aspose.page.xps.xpsmetadata/jobnupalldocumentscontiguously/
 ---
 ## JobNUpAllDocumentsContiguously class

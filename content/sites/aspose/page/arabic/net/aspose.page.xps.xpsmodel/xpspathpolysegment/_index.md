@@ -3,7 +3,7 @@ title: Class XpsPathPolySegment
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPathPolySegment فصل. فئة تتضمن السمات المشتركة لعناصر PolyLineSegment و PolyBézierSegment و PolyQuadraticBézierSegment.
 type: docs
-weight: 3280
+weight: 3290
 url: /ar/net/aspose.page.xps.xpsmodel/xpspathpolysegment/
 ---
 ## XpsPathPolySegment class

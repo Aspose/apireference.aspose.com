@@ -3,7 +3,7 @@ title: Class JobDeviceLanguage
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobDeviceLanguage فصل. يصف لغات الجهاز المدعومة لإرسال البيانات من برنامج التشغيل إلى جهاز مادي . يطلق على هذا غالبًا لغة وصف الصفحة. تحدد هذه الكلمة الأساسية وصف الصفحة اللغة التي يدعمها برنامج التشغيل والجهاز الفعلي . https//docs.microsoft.com/enus/windows/win32/printdocs/jobdevicelanguage
 type: docs
-weight: 1230
+weight: 1240
 url: /ar/net/aspose.page.xps.xpsmetadata/jobdevicelanguage/
 ---
 ## JobDeviceLanguage class

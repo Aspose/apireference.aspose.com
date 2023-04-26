@@ -3,7 +3,7 @@ title: PsDocument.SetPageDevice
 second_title: Aspose.Page untuk Referensi .NET API
 description: PsDocument metode. Mengatur parameter perangkat halaman lihat spesifikasi PostScript operator setpagedevice. Di antaranya dapat berupa ukuran dan warna halaman dll.
 type: docs
-weight: 220
+weight: 240
 url: /id/net/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument.SetPageDevice method

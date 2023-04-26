@@ -3,7 +3,7 @@ title: PsDocument.GetPaint
 second_title: Aspose.Page för .NET API-referens
 description: PsDocument metod. Får målning av aktuell grafikstatus.
 type: docs
-weight: 130
+weight: 150
 url: /sv/net/aspose.page.eps/psdocument/getpaint/
 ---
 ## PsDocument.GetPaint method

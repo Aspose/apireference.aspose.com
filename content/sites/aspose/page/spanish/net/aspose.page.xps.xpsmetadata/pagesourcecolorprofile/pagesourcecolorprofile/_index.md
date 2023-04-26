@@ -16,7 +16,7 @@ public PageSourceColorProfile(params PageSourceColorProfileOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | PageSourceColorProfileOption[] | Una matriz de opciones específicas para la característica. |
+| options | PageSourceColorProfileOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

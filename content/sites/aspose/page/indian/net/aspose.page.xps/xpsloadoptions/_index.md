@@ -3,7 +3,7 @@ title: Class XpsLoadOptions
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsLoadOptions कक्ष. XPS दस्तवेज़ लड करने के वकल्प.
 type: docs
-weight: 480
+weight: 490
 url: /hi/net/aspose.page.xps/xpsloadoptions/
 ---
 ## XpsLoadOptions class

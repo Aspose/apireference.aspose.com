@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page
 second_title: Aspose.Page for .NET API リファレンス
-description: Aspose.Page Aspose.Page ライブラリのすべてのクラスのルート ネームスペースです デバイスまたはいくつかのサブネームスペースを介して間接的に.
+description: Aspose.PageAspose.Page ライブラリのすべてのクラスのルート ネームスペースです デバイスまたはいくつかのサブネームスペースを介して間接的に.
 type: docs
 weight: 10
 url: /ja/net/aspose.page/
 ---
-**Aspose.Page** Aspose.Page ライブラリのすべてのクラスのルート ネームスペースです。 **デバイス**またはいくつかのサブネームスペースを介して間接的に.
+**Aspose.Page**Aspose.Page ライブラリのすべてのクラスのルート ネームスペースです。 **デバイス**またはいくつかのサブネームスペースを介して間接的に.
 
 ## クラス
 

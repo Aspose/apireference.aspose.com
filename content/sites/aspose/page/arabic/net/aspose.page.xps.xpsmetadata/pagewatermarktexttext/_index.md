@@ -3,7 +3,7 @@ title: Class PageWatermarkTextText
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextText فصل. يحدد نص العلامة المائية. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktexttext
 type: docs
-weight: 2750
+weight: 2760
 url: /ar/net/aspose.page.xps.xpsmetadata/pagewatermarktexttext/
 ---
 ## PageWatermarkTextText class

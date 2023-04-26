@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp klas. Beschrijft de uitvoer en indeling van meerdere logische paginas op één enkel fysiek blad. Elk document wordt afzonderlijk samengesteld. EnJobNUpAllDocumentsContiguously sluiten elkaar wederzijds uit. Het is aan het stuurprogramma om de beperkingsafhandeling tussen deze sleutelwoorden te bepalen. https//docs.microsoft.com/enus/windows/win32/printdocs/documentnup
 type: docs
-weight: 740
+weight: 750
 url: /nl/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

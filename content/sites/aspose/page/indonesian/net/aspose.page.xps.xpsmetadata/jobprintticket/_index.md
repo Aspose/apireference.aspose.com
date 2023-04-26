@@ -3,7 +3,7 @@ title: Class JobPrintTicket
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrintTicket kelas. Kelas yang menggabungkan tiket cetak tingkat pekerjaan.
 type: docs
-weight: 1560
+weight: 1570
 url: /id/net/aspose.page.xps.xpsmetadata/jobprintticket/
 ---
 ## JobPrintTicket class

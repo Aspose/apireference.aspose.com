@@ -3,7 +3,7 @@ title: Class DocumentCoverBackSource
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBackSource कक्ष. कस्टम बैककवर शट के लए स्रत नर्दष्ट करत है https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverbacksource
 type: docs
-weight: 650
+weight: 660
 url: /hi/net/aspose.page.xps.xpsmetadata/documentcoverbacksource/
 ---
 ## DocumentCoverBackSource class

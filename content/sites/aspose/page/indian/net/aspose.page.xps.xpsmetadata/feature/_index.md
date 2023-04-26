@@ -3,7 +3,7 @@ title: Class Feature
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.Feature कक्ष. वह वर्ग ज एक समन्य प्रंट स्कम सुवध क सम्मलत करत है सभ स्कमपरभषत सुवधओं के लए आधर वर्ग ए तत्व क पूर सूच हैOption औरProperty तत्व ज पूर तरह से एक उपकरण वशेषत कर्य स्वरूपण सेटंग य अन्य प्रसंगक वशेषत क वर्णन करते हैं https//docs.microsoft.com/enus/windows/win32/printdocs/feature
 type: docs
-weight: 870
+weight: 880
 url: /hi/net/aspose.page.xps.xpsmetadata/feature/
 ---
 ## Feature class

@@ -3,7 +3,7 @@ title: Class DocumentDuplex
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentDuplex कक्ष. आउटपुट क डुप्लेक्स वशेषतओं क वर्णन करत है डुप्लेक्स सुवध मडय के दनं तरफ for प्रंट करने क अनुमत देत है प्रत्येक दस्तवेज़ क अलग से डुप्लेक्स कय गय है DocumentDuplex और JobDuplexAllDocumentsContiguously परस्पर अनन्य हैं यह ड्रइवर पर नर्भर है क वह इन कवर्ड के बच बध से नपटने क नर्धरण करे https//docs.microsoft.com/enus/windows/win32/printdocs/ दस्तवेज़डुप्लेक्स
 type: docs
-weight: 690
+weight: 700
 url: /hi/net/aspose.page.xps.xpsmetadata/documentduplex/
 ---
 ## DocumentDuplex class

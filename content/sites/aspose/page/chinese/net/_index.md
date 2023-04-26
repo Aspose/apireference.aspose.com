@@ -17,6 +17,7 @@ is_root: true
 | [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp/) | 的 **Aspose.页面.EPS.XMP**命名空间提供用于读取、更改 EPS 文件中的 XMP 元数据的类。 |
 | [Aspose.Page.Font](./aspose.page.font/) | 的 **Aspose.Page.Font**命名空间包含用于字体操作的类。 |
 | [Aspose.Page.XPS](./aspose.page.xps/) | 的 **Aspose.页面.XPS**是所有处理 XPS 文档的类的根命名空间。 |
+| [Aspose.Page.XPS.Features](./aspose.page.xps.features/) | 的 **Aspose.Page.Xps.Features**命名空间提供超出 XPS 规范的功能。 |
 | [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | 的 **Aspose.Page.Xps.Presentation 演示文稿**命名空间提供用于将 XPS 文档呈现为其他格式的基类。 |
 | [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | 的 **Aspose.Page.Xps.Presentation.Image**命名空间提供用于将 XPS 文档渲染为图像的类。 |
 | [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | 的 **Aspose.Page.Xps.Presentation.Pdf**命名空间提供用于将 XPS 文档呈现为 PDF 文档的类。 |

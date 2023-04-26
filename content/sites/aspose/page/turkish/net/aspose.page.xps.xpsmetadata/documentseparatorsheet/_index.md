@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet sınıf. Bir belge için ayırma sayfası kullanımını açıklar. Ayırma sayfaları aşağıda belirtilen Seçenek tarafından belirtildiği gibi çıktıda görünmelidir. https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet
 type: docs
-weight: 800
+weight: 810
 url: /tr/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

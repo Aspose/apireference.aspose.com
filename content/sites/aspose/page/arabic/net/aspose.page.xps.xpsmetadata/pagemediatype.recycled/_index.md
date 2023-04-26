@@ -3,7 +3,7 @@ title: Class PageMediaType.Recycled
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeRecycled فصل. يعرف الثوابت لملف قيمة الممتلكات المسجلة.
 type: docs
-weight: 2250
+weight: 2260
 url: /ar/net/aspose.page.xps.xpsmetadata/pagemediatype.recycled/
 ---
 ## PageMediaType.Recycled class

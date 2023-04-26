@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment classe. Classe incorporant les caractéristiques de lélément ArcSegment. Cet élément décrit un arc elliptique.
 type: docs
-weight: 2940
+weight: 2950
 url: /fr/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

@@ -3,7 +3,7 @@ title: PsDocument.Fill
 second_title: Aspose.Page per riferimento all'API .NET
 description: PsDocument metodo. Riempi un percorso arbitrario.
 type: docs
-weight: 100
+weight: 120
 url: /it/net/aspose.page.eps/psdocument/fill/
 ---
 ## PsDocument.Fill method

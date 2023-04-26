@@ -3,7 +3,7 @@ title: Class DocumentURI
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentURI 班级. 指定文档的统一资源标识符 URI https//docs.microsoft.com/enus/windows/win32/printdocs/documenturi
 type: docs
-weight: 830
+weight: 840
 url: /zh/net/aspose.page.xps.xpsmetadata/documenturi/
 ---
 ## DocumentURI class

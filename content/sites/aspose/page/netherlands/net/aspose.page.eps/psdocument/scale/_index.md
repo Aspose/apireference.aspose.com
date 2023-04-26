@@ -3,7 +3,7 @@ title: PsDocument.Scale
 second_title: Aspose.Page voor .NET API-referentie
 description: PsDocument methode. Voegt schaal toe aan de huidige grafische status schaal huidige matrix.
 type: docs
-weight: 210
+weight: 230
 url: /nl/net/aspose.page.eps/psdocument/scale/
 ---
 ## PsDocument.Scale method

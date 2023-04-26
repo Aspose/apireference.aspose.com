@@ -3,7 +3,7 @@ title: Interface PageWatermark.IPageWatermarkOptionItem
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkIPageWatermarkOptionItem gränssnitt. Gränssnittet för någonPageWatermarkOption item.
 type: docs
-weight: 2660
+weight: 2670
 url: /sv/net/aspose.page.xps.xpsmetadata/pagewatermark.ipagewatermarkoptionitem/
 ---
 ## PageWatermark.IPageWatermarkOptionItem interface

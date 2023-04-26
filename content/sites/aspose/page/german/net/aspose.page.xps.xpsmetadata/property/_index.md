@@ -3,7 +3,7 @@ title: Class Property
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.Property klas. Die Klasse die ein allgemeines PrintTicket implementiert . Die Basisklasse für alle schemadefinierten Eigenschaften. A Element deklariert ein Gerät eine Auftragsformatierung oder eine andere relevante Eigenschaft  deren Name durch sein nameAttribut angegeben wird. AValue Element wird verwendet um dem einen Wert zuzuweisen. A kann komplex sein und möglicherweise mehrere Untereigenschaften enthalten. Untereigenschaften werden auch dargestellt durch elements. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 2810
+weight: 2820
 url: /de/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

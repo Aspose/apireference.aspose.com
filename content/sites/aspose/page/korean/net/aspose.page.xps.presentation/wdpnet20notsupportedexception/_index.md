@@ -3,7 +3,7 @@ title: Class WdpNet20NotSupportedException
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.Presentation.WdpNet20NotSupportedException 수업. WDP 이미지가 포함된 XPS 문서가 .NET 2.0용 라이브러리 버전에서 변환될 때마다 발생하는 예외입니다.
 type: docs
-weight: 460
+weight: 470
 url: /ko/net/aspose.page.xps.presentation/wdpnet20notsupportedexception/
 ---
 ## WdpNet20NotSupportedException class

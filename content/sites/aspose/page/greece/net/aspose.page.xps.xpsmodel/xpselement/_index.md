@@ -3,7 +3,7 @@ title: Class XpsElement
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsElement τάξη. Κατηγορία που ενσωματώνει κοινά χαρακτηριστικά στοιχείων XPS.
 type: docs
-weight: 3030
+weight: 3040
 url: /el/net/aspose.page.xps.xpsmodel/xpselement/
 ---
 ## XpsElement class

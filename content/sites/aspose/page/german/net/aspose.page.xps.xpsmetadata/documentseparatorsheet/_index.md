@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet klas. Beschreibt die Verwendung von Trennblättern für ein Dokument. Trennblätter sollten in der Ausgabe erscheinen wie durch die unten angegebene Option angegeben. https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet
 type: docs
-weight: 800
+weight: 810
 url: /de/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

@@ -3,7 +3,7 @@ title: Class XpsPolyLineSegment
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPolyLineSegment فصل. فئة تتضمن ميزات عنصر PolyLineSegment . يصف هذا العنصر رسمًا متعدد الأضلاع يحتوي على عدد عشوائي من الرؤوس الفردية.
 type: docs
-weight: 3310
+weight: 3320
 url: /ar/net/aspose.page.xps.xpsmodel/xpspolylinesegment/
 ---
 ## XpsPolyLineSegment class

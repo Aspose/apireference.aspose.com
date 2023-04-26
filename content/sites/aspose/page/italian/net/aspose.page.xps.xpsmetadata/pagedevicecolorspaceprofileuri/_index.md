@@ -3,7 +3,7 @@ title: Class PageDeviceColorSpaceProfileURI
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageDeviceColorSpaceProfileURI classe. Specifica un URI relativo alla radice del pacchetto di un profilo ICC contenuto in un documento XPS. Lelaborazione di questa opzione dipende dallimpostazione della funzione PageDeviceColorSpaceUsage. Si presuppone che tutti gli elementi che utilizzano quel profilo siano già nel colore del dispositivo appropriato space e non verrà gestito il colore nel driver o nel dispositivo. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedevicecolorspaceprofileuri
 type: docs
-weight: 1920
+weight: 1930
 url: /it/net/aspose.page.xps.xpsmetadata/pagedevicecolorspaceprofileuri/
 ---
 ## PageDeviceColorSpaceProfileURI class

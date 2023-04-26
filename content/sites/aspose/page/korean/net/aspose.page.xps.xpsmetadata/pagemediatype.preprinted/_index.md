@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePrinted
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePrinted 수업. 에 대한 상수를 정의합니다. 스코어링된 속성 값.
 type: docs
-weight: 2230
+weight: 2240
 url: /ko/net/aspose.page.xps.xpsmetadata/pagemediatype.preprinted/
 ---
 ## PageMediaType.PrePrinted class

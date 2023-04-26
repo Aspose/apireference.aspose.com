@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation τάξη. Περιγράφει τον προσανατολισμό του φυσικού φύλλου μέσων. https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2300
+weight: 2310
 url: /el/net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

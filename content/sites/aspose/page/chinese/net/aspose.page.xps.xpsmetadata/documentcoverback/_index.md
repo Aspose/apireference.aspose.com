@@ -3,7 +3,7 @@ title: Class DocumentCoverBack
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverBack 班级. 描述背面结尾封面每个文档都有单独的页 封面页应打印在PageMediaSize和PageMediaType 用于文档的最后一页封面应集成到处理选项 例如DocumentDuplexDocumentNUp 如指定的选项所示 https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverback
 type: docs
-weight: 630
+weight: 640
 url: /zh/net/aspose.page.xps.xpsmetadata/documentcoverback/
 ---
 ## DocumentCoverBack class

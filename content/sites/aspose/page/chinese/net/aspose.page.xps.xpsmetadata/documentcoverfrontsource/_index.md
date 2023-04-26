@@ -3,7 +3,7 @@ title: Class DocumentCoverFrontSource
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.DocumentCoverFrontSource 班级. 指定自定义封面的来源 https//docs.microsoft.com/enus/windows/win32/printdocs/documentcoverfrontsource
 type: docs
-weight: 680
+weight: 690
 url: /zh/net/aspose.page.xps.xpsmetadata/documentcoverfrontsource/
 ---
 ## DocumentCoverFrontSource class

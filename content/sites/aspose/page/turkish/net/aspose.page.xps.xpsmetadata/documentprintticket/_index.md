@@ -3,7 +3,7 @@ title: Class DocumentPrintTicket
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentPrintTicket sınıf. Belge düzeyinde bir baskı bileti içeren sınıf.
 type: docs
-weight: 780
+weight: 790
 url: /tr/net/aspose.page.xps.xpsmetadata/documentprintticket/
 ---
 ## DocumentPrintTicket class

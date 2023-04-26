@@ -3,7 +3,7 @@ title: Class DocumentSeparatorSheet
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentSeparatorSheet clase. Describe el uso de hojas de separación para un documento. Las hojas de separación deben aparecer en la salida como lo indica la opción especificada a continuación. https//docs.microsoft.com/enus/windows/win32/printdocs/documentseparatorsheet
 type: docs
-weight: 800
+weight: 810
 url: /es/net/aspose.page.xps.xpsmetadata/documentseparatorsheet/
 ---
 ## DocumentSeparatorSheet class

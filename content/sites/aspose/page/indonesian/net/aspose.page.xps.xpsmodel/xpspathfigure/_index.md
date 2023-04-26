@@ -3,7 +3,7 @@ title: Class XpsPathFigure
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsModel.XpsPathFigure kelas. Kelas yang merangkum fitur elemen PathFigure. Elemen ini terdiri dari sekumpulan satu atau lebih segmen garis atau kurva.
 type: docs
-weight: 3260
+weight: 3270
 url: /id/net/aspose.page.xps.xpsmodel/xpspathfigure/
 ---
 ## XpsPathFigure class

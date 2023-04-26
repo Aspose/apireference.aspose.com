@@ -3,7 +3,7 @@ title: Class InputBin.BinType
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.InputBinBinType sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 1010
+weight: 1020
 url: /tr/net/aspose.page.xps.xpsmetadata/inputbin.bintype/
 ---
 ## InputBin.BinType class

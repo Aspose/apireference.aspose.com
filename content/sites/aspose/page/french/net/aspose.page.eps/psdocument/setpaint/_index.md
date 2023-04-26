@@ -3,7 +3,7 @@ title: PsDocument.SetPaint
 second_title: Aspose.Page pour la référence de l'API .NET
 description: PsDocument méthode. Définit la peinture dans létat graphique actuel.
 type: docs
-weight: 240
+weight: 260
 url: /fr/net/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument.SetPaint method

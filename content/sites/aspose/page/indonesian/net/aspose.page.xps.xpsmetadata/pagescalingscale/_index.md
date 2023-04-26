@@ -3,7 +3,7 @@ title: Class PageScalingScale
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageScalingScale kelas. Menentukan faktor penskalaan untuk penskalaan persegi kustom. https//docs.microsoft.com/enus/windows/win32/printdocs/pagescalingscale
 type: docs
-weight: 2550
+weight: 2560
 url: /id/net/aspose.page.xps.xpsmetadata/pagescalingscale/
 ---
 ## PageScalingScale class

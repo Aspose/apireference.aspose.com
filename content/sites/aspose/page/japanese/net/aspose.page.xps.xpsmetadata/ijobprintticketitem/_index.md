@@ -3,7 +3,7 @@ title: Interface IJobPrintTicketItem
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.IJobPrintTicketItem インターフェース. ジョブ接頭辞付き印刷チケット項目のインターフェース
 type: docs
-weight: 930
+weight: 940
 url: /ja/net/aspose.page.xps.xpsmetadata/ijobprintticketitem/
 ---
 ## IJobPrintTicketItem interface

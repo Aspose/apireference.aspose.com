@@ -3,7 +3,7 @@ title: Class PageMediaType.PrePunched
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypePrePunched klass. Definierar konstanter för poängsatt egenskapsvärde.
 type: docs
-weight: 2240
+weight: 2250
 url: /sv/net/aspose.page.xps.xpsmetadata/pagemediatype.prepunched/
 ---
 ## PageMediaType.PrePunched class

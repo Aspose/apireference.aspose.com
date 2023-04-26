@@ -3,7 +3,7 @@ title: PsDocument.Shear
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. يضيف تحويل القص إلى حالة الرسومات الحالية مصفوفة القص الحالية.
 type: docs
-weight: 260
+weight: 290
 url: /ar/net/aspose.page.eps/psdocument/shear/
 ---
 ## PsDocument.Shear method

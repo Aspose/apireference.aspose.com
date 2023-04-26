@@ -3,7 +3,7 @@ title: Class JobDigitalSignatureProcessing
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobDigitalSignatureProcessing kelas. Menjelaskan konfigurasi pemrosesan tanda tangan digital untuk seluruh pekerjaan. Hanya berlaku untuk konten yang berisi tanda tangan digital. https//docs.microsoft.com/enus/windows/win32/printdocs/jobdigitalsignatureprocessing
 type: docs
-weight: 1260
+weight: 1270
 url: /id/net/aspose.page.xps.xpsmetadata/jobdigitalsignatureprocessing/
 ---
 ## JobDigitalSignatureProcessing class

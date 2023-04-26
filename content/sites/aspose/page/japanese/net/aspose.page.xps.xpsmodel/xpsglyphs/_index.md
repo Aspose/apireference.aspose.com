@@ -3,7 +3,7 @@ title: Class XpsGlyphs
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsModel.XpsGlyphs クラス. Glyphs 要素の機能をカプセル化するクラス この要素は単一のフォントから一様にフォーマットされた一連のテキストを表します 正確なレンダリングに必要な情報を提供しコンシューマーを表示する際の search および選択機能をサポートします
 type: docs
-weight: 3090
+weight: 3100
 url: /ja/net/aspose.page.xps.xpsmodel/xpsglyphs/
 ---
 ## XpsGlyphs class

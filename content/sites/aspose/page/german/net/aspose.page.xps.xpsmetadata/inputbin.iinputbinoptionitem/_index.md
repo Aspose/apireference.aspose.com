@@ -3,7 +3,7 @@ title: Interface InputBin.IInputBinOptionItem
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.InputBinIInputBinOptionItem koppel. Die Schnittstelle von jedemInputBinOption Artikel.
 type: docs
-weight: 1060
+weight: 1070
 url: /de/net/aspose.page.xps.xpsmetadata/inputbin.iinputbinoptionitem/
 ---
 ## InputBin.IInputBinOptionItem interface

@@ -3,7 +3,7 @@ title: Class DocumentBinding
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.DocumentBinding klass. Beskriver metoden för bindning. Varje dokument är bundet separat. DocumentBinding och JobBindAllDocuments är ömsesidigt uteslutande. Det är upp till föraren att bestämma begränsningshantering mellan nyckelord. https//docs.microsoft.com/enus/windows/win32/printdocs/documentbinding_x000
 type: docs
-weight: 560
+weight: 570
 url: /sv/net/aspose.page.xps.xpsmetadata/documentbinding/
 ---
 ## DocumentBinding class

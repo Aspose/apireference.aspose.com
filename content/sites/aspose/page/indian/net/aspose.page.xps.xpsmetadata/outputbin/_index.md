@@ -3,7 +3,7 @@ title: Class OutputBin
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.OutputBin कक्ष. के लए आधर वर्गJobOutputBin DocumentOutputBin औरPageOutputBin में कक्षएं हैं
 type: docs
-weight: 1660
+weight: 1670
 url: /hi/net/aspose.page.xps.xpsmetadata/outputbin/
 ---
 ## OutputBin class

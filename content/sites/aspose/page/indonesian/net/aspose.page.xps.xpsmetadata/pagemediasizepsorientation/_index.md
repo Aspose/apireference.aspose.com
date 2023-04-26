@@ -1,14 +1,14 @@
 ---
 title: Class PageMediaSizePSOrientation
 second_title: Aspose.Page untuk Referensi .NET API
-description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSOrientation kelas. Menentukan orientasi relatif terhadap arah orientasi umpan https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsorientation
+description: Aspose.Page.XPS.XpsMetadata.PageMediaSizePSOrientation kelas. Menentukan orientasi relatif terhadap arah orientasi feed https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizepsorientation
 type: docs
-weight: 2130
+weight: 2140
 url: /id/net/aspose.page.xps.xpsmetadata/pagemediasizepsorientation/
 ---
 ## PageMediaSizePSOrientation class
 
-Menentukan orientasi relatif terhadap arah orientasi umpan https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizepsorientation
+Menentukan orientasi relatif terhadap arah orientasi feed https://docs.microsoft.com/en-us/windows/win32/printdocs/pagemediasizepsorientation
 
 ```csharp
 public sealed class PageMediaSizePSOrientation : IntegerParameterInit, IDocumentPrintTicketItem, 

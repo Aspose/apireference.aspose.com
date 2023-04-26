@@ -3,7 +3,7 @@ title: Class DocumentPageRanges
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentPageRanges कक्ष. पृष्ठं में दस्तवेज़ क आउटपुट श्रेण क वर्णन करत है पैरमटर मन नम्न संरचन के अनुरूप हन चहए  PageRangeText PageRange य PageRangePageRange  PageRange PageNumber य PageNumberPageNumber  PageNumber 1 to N जहँ N क संख्य है दस्तवेज़ में पृष्ठ यद पेजनंबर एन त पेजनंबर  एन. स्ट्रंग में व्हइटस्पेस क अनदेख कय जन चहए https//docs.microsoft.com/enus/windows/win32/printdocs/documentpageranges
 type: docs
-weight: 770
+weight: 780
 url: /hi/net/aspose.page.xps.xpsmetadata/documentpageranges/
 ---
 ## DocumentPageRanges class

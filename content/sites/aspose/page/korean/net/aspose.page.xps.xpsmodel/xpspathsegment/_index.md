@@ -3,7 +3,7 @@ title: Class XpsPathSegment
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsPathSegment 수업. 모든 경로 세그먼트 요소의 공통 기능을 캡슐화하는 클래스.
 type: docs
-weight: 3290
+weight: 3300
 url: /ko/net/aspose.page.xps.xpsmodel/xpspathsegment/
 ---
 ## XpsPathSegment class

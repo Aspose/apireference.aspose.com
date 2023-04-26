@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple classe. Descrive le caratteristiche di pinzatura delloutput. Ogni documento viene pinzato separatamente. TheJobStapleAllDocuments EDocumentStaplele parole chiave si escludono a vicenda. Spetta al driver determinare la gestione dei vincoli tra queste parole chiave. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /it/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

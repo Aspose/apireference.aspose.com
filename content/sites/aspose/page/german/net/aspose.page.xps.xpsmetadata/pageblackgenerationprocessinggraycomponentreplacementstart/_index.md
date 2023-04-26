@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementStart
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementStart klas. Beschreibt den Punkt im Bereich Hervorhebung bis Schatten an dem GCR beginnen sollte 100  dunkelster Schatten. https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementstart
 type: docs
-weight: 1760
+weight: 1770
 url: /de/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementstart/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementStart class

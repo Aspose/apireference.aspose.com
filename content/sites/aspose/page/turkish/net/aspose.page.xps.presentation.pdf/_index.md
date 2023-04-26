@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.Xps.Presentation.Pdf ad alanı XPS belgesini PDF belgesine dönüştürmek için sınıflar sağlar.
 type: docs
-weight: 90
+weight: 100
 url: /tr/net/aspose.page.xps.presentation.pdf/
 ---
 **Aspose.Page.Xps.Presentation.Pdf** ad alanı, XPS belgesini PDF belgesine dönüştürmek için sınıflar sağlar.

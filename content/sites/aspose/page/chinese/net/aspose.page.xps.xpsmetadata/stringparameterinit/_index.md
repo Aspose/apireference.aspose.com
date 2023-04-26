@@ -3,7 +3,7 @@ title: Class StringParameterInit
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.StringParameterInit 班级. 所有字符串参数初始值设定项的基类
 type: docs
-weight: 2900
+weight: 2910
 url: /zh/net/aspose.page.xps.xpsmetadata/stringparameterinit/
 ---
 ## StringParameterInit class

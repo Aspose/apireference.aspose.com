@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType сорт. Определяет константы для оцененное значение свойства.
 type: docs
-weight: 1670
+weight: 1680
 url: /ru/net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

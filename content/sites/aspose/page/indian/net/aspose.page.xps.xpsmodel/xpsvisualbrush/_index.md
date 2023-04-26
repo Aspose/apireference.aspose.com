@@ -3,7 +3,7 @@ title: Class XpsVisualBrush
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsVisualBrush कक्ष. क्लस इनकैप्सुलेटंग वज़ुअलब्रश प्रपर्ट एलमेंट फ़चर्स इस एलमेंट क इस्तेमल कस क्षेत्र क ड्रइंग से भरने के लए कय जत है
 type: docs
-weight: 3420
+weight: 3430
 url: /hi/net/aspose.page.xps.xpsmodel/xpsvisualbrush/
 ---
 ## XpsVisualBrush class

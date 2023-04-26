@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverBack.CoverBackOption
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverBackCoverBackOption classe. Décrit leJobPrimaryCoverBack options de fonctionnalité.
 type: docs
-weight: 1510
+weight: 1520
 url: /fr/net/aspose.page.xps.xpsmetadata/jobprimarycoverback.coverbackoption/
 ---
 ## JobPrimaryCoverBack.CoverBackOption class

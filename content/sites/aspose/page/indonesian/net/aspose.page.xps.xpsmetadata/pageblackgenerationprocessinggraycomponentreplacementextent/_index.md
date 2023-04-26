@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementExtent
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementExtent kelas. Menjelaskan perluasan di luar netral menjadi warna kromatik yang diterapkan GCR. 0  Penggantian komponen seragam 100  Penggantian komponen abuabu. https//docs.microsoft.com/enus/windows/win32/printdocs /halamanblackgenerationprocessinggraycomponentreplacementtextent
 type: docs
-weight: 1740
+weight: 1750
 url: /id/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementextent/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementExtent class

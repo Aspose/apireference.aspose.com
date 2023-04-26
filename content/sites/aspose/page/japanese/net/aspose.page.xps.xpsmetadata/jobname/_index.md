@@ -3,7 +3,7 @@ title: Class JobName
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobName クラス. ジョブのわかりやすい名前を指定します https//docs.microsoft.com/enus/windows/win32/printdocs/jobname
 type: docs
-weight: 1390
+weight: 1400
 url: /ja/net/aspose.page.xps.xpsmetadata/jobname/
 ---
 ## JobName class

@@ -3,7 +3,7 @@ title: Class Duplex.DuplexOption
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DuplexDuplexOption clase. Describe elJobDuplexAllDocumentsContiguously yDocumentDuplex características opciones.
 type: docs
-weight: 860
+weight: 870
 url: /es/net/aspose.page.xps.xpsmetadata/duplex.duplexoption/
 ---
 ## Duplex.DuplexOption class

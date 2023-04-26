@@ -1,12 +1,12 @@
 ---
 title: Aspose.Page
 second_title: Aspose.Page pour la référence de l'API .NET
-description: Le Aspose.Page est un espace de noms racine pour toutes les classes de la bibliothèque Aspose.Page qui y sont soit directement comme Appareil ou indirectement via plusieurs sousespaces de noms.
+description: Le Aspose.Pageest un espace de noms racine pour toutes les classes de la bibliothèque Aspose.Page qui y sont soit directement comme Appareil ou indirectement via plusieurs sousespaces de noms.
 type: docs
 weight: 10
 url: /fr/net/aspose.page/
 ---
-Le **Aspose.Page** est un espace de noms racine pour toutes les classes de la bibliothèque Aspose.Page qui y sont soit directement comme **Appareil** ou indirectement via plusieurs sous-espaces de noms.
+Le **Aspose.Page**est un espace de noms racine pour toutes les classes de la bibliothèque Aspose.Page qui y sont soit directement comme **Appareil** ou indirectement via plusieurs sous-espaces de noms.
 
 ## Des classes
 

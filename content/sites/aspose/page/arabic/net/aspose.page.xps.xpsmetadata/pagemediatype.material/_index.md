@@ -3,7 +3,7 @@ title: Class PageMediaType.Material
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMediaTypeMaterial فصل. يعرف الثوابت لملف قيمة الممتلكات المسجلة.
 type: docs
-weight: 2210
+weight: 2220
 url: /ar/net/aspose.page.xps.xpsmetadata/pagemediatype.material/
 ---
 ## PageMediaType.Material class

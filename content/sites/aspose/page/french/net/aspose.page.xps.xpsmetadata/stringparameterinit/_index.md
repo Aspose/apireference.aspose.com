@@ -3,7 +3,7 @@ title: Class StringParameterInit
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.StringParameterInit classe. Classe de base pour tous les initialiseurs de paramètres de chaîne.
 type: docs
-weight: 2900
+weight: 2910
 url: /fr/net/aspose.page.xps.xpsmetadata/stringparameterinit/
 ---
 ## StringParameterInit class

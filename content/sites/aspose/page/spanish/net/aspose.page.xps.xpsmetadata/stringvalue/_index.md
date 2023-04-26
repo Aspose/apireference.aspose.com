@@ -3,7 +3,7 @@ title: Class StringValue
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.StringValue clase. La clase que encapsula un valor de cadena en un documento PrintTicket.
 type: docs
-weight: 2910
+weight: 2920
 url: /es/net/aspose.page.xps.xpsmetadata/stringvalue/
 ---
 ## StringValue class

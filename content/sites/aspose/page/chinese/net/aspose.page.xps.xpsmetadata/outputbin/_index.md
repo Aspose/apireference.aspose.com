@@ -3,7 +3,7 @@ title: Class OutputBin
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.OutputBin 班级. 的基类JobOutputBinDocumentOutputBin和PageOutputBin 特征类.
 type: docs
-weight: 1660
+weight: 1670
 url: /zh/net/aspose.page.xps.xpsmetadata/outputbin/
 ---
 ## OutputBin class

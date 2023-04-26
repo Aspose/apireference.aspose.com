@@ -3,7 +3,7 @@ title: Class PageWatermarkOriginWidth
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkOriginWidth classe. Spécifie lorigine dun filigrane par rapport à lorigine du . https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarkoriginwidth
 type: docs
-weight: 2710
+weight: 2720
 url: /fr/net/aspose.page.xps.xpsmetadata/pagewatermarkoriginwidth/
 ---
 ## PageWatermarkOriginWidth class

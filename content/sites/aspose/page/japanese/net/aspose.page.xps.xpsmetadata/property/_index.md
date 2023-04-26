@@ -3,7 +3,7 @@ title: Class Property
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.Property クラス. 共通の PrintTicket を実装するクラス . すべてのスキーマ定義プロパティの基本クラス A要素は名前が name 属性によって与えられるデバイスジョブのフォーマットまたはその他の関連する property を宣言しますあValue要素は に値を割り当てるために使用されます. A複雑で複数のサブプロパティを含む可能性があります サブプロパティは elements. https//docs.microsoft.com/enus/windows/win32/printdocs/property
 type: docs
-weight: 2810
+weight: 2820
 url: /ja/net/aspose.page.xps.xpsmetadata/property/
 ---
 ## Property class

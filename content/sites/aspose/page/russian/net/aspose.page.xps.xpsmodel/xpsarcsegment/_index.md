@@ -3,7 +3,7 @@ title: Class XpsArcSegment
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsArcSegment сорт. Класс инкапсулирующий функции элемента ArcSegment. Этот элемент описывает эллиптическую дугу.
 type: docs
-weight: 2940
+weight: 2950
 url: /ru/net/aspose.page.xps.xpsmodel/xpsarcsegment/
 ---
 ## XpsArcSegment class

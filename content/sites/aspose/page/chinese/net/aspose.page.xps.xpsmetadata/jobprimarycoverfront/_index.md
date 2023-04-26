@@ -3,7 +3,7 @@ title: Class JobPrimaryCoverFront
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryCoverFront 班级. 描述前开始封面整个作业将有一个主页面 封面应打印在PageMediaSize和PageMediaType 用于作业的第一页封面应集成到处理选项 例如JobDuplexAllDocumentsContiguouslyJobNUpAllDocumentsContiguously 由指定的选项指示 https//docs.microsoft.com/enus/windows/win32/printdocs/jobprimarycoverfront
 type: docs
-weight: 1530
+weight: 1540
 url: /zh/net/aspose.page.xps.xpsmetadata/jobprimarycoverfront/
 ---
 ## JobPrimaryCoverFront class

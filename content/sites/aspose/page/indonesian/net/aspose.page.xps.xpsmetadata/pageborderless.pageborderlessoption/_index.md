@@ -3,7 +3,7 @@ title: Class PageBorderless.PageBorderlessOption
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBorderlessPageBorderlessOption kelas. MenjelaskanPageBorderless opsi fitur.
 type: docs
-weight: 1840
+weight: 1850
 url: /id/net/aspose.page.xps.xpsmetadata/pageborderless.pageborderlessoption/
 ---
 ## PageBorderless.PageBorderlessOption class

@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingOption
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingOption कक्ष. क वर्णन करत हैJobBindAllDocuments सुवध वकल्प.
 type: docs
-weight: 1170
+weight: 1180
 url: /hi/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/
 ---
 ## JobBindAllDocuments.BindingOption class

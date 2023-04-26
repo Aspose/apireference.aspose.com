@@ -3,7 +3,7 @@ title: Class PageBlackGenerationProcessingGrayComponentReplacementStart
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageBlackGenerationProcessingGrayComponentReplacementStart فصل. يصف النقطة في نطاق التظليل إلى الظل حيث يجب أن يبدأ GCR ظل مظلم بنسبة 100 . https//docs.microsoft.com/enus/windows/win32/printdocs/pageblackgenerationprocessinggraycomponentreplacementstart
 type: docs
-weight: 1760
+weight: 1770
 url: /ar/net/aspose.page.xps.xpsmetadata/pageblackgenerationprocessinggraycomponentreplacementstart/
 ---
 ## PageBlackGenerationProcessingGrayComponentReplacementStart class

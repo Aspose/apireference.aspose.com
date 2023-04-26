@@ -3,7 +3,7 @@ title: Class JobPrintTicket
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPrintTicket فصل. الفئة التي تتضمن بطاقة طباعة على مستوى المهمة.
 type: docs
-weight: 1560
+weight: 1570
 url: /ar/net/aspose.page.xps.xpsmetadata/jobprintticket/
 ---
 ## JobPrintTicket class

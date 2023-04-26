@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut classe. Décrit la méthode de découpe du papier rouleau. Chaque document est traité séparément. Les options spécifiées décrivent les différentes méthodes de coupe au rouleau. https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 790
+weight: 800
 url: /fr/net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

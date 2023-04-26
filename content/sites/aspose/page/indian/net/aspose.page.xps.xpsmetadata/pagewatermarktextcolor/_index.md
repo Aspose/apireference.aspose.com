@@ -3,7 +3,7 @@ title: Class PageWatermarkTextColor
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextColor कक्ष. वटरमर्क टेक्स्ट के लए sRGB रंग परभषत करत है प्ररूप ARGB है AARRGGBB. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextcolor
 type: docs
-weight: 2730
+weight: 2740
 url: /hi/net/aspose.page.xps.xpsmetadata/pagewatermarktextcolor/
 ---
 ## PageWatermarkTextColor class

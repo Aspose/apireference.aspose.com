@@ -3,7 +3,7 @@ title: Interface IPrintTicketItem
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.IPrintTicketItem 界面. 可能是类的基接口PrintTicket根元素项 它也是定义作用域前缀的接口的基接口
 type: docs
-weight: 970
+weight: 980
 url: /zh/net/aspose.page.xps.xpsmetadata/iprintticketitem/
 ---
 ## IPrintTicketItem interface

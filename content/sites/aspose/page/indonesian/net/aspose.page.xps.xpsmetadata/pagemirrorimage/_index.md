@@ -3,7 +3,7 @@ title: Class PageMirrorImage
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageMirrorImage kelas. Menjelaskan pengaturan pencerminan keluaran. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemirrorimage
 type: docs
-weight: 2260
+weight: 2270
 url: /id/net/aspose.page.xps.xpsmetadata/pagemirrorimage/
 ---
 ## PageMirrorImage class

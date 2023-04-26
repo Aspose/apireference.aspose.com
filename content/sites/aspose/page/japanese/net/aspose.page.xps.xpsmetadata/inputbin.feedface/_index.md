@@ -3,7 +3,7 @@ title: Class InputBin.FeedFace
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.InputBinFeedFace クラス. の定数を定義しますスコアリングされたプロパティ値.
 type: docs
-weight: 1030
+weight: 1040
 url: /ja/net/aspose.page.xps.xpsmetadata/inputbin.feedface/
 ---
 ## InputBin.FeedFace class

@@ -3,7 +3,7 @@ title: Class DocumentPageRanges
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentPageRanges sınıf. Belgenin çıktı aralığını sayfa olarak tanımlar. Parametre değeri şu yapıya uygun olmalıdır  PageRangeText PageRange veya PageRangePageRange  PageRange PageNumber veya PageNumberPageNumber  PageNumber 1 ila N burada N sayfa sayısıdır belgedeki sayfalar.SayfaNumarası  N ise SayfaNumarası  N. Dizedeki boşluk yoksayılmalıdır. https//docs.microsoft.com/enus/windows/win32/printdocs/documentpageranges
 type: docs
-weight: 770
+weight: 780
 url: /tr/net/aspose.page.xps.xpsmetadata/documentpageranges/
 ---
 ## DocumentPageRanges class

@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingGutter
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingGutter فصل. يصف طريقة تحديد ملف قيمة الخاصية المسجلة  سواء بقيمة عددية أو بالإشارة إلى المعلمة .
 type: docs
-weight: 1160
+weight: 1170
 url: /ar/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindinggutter/
 ---
 ## JobBindAllDocuments.BindingGutter class

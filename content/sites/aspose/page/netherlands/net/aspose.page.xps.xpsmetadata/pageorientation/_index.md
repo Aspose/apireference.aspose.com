@@ -3,7 +3,7 @@ title: Class PageOrientation
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.PageOrientation klas. Beschrijft de oriëntatie van het fysieke mediablad. https//docs.microsoft.com/enus/windows/win32/printdocs/pageorientation
 type: docs
-weight: 2300
+weight: 2310
 url: /nl/net/aspose.page.xps.xpsmetadata/pageorientation/
 ---
 ## PageOrientation class

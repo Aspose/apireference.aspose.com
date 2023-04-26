@@ -3,7 +3,7 @@ title: Enum XpsTileMode
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsTileMode Sıralama. Döşeme fırçalarının TileMode özelliğinin geçerli değerleri.
 type: docs
-weight: 3390
+weight: 3400
 url: /tr/net/aspose.page.xps.xpsmodel/xpstilemode/
 ---
 ## XpsTileMode enumeration

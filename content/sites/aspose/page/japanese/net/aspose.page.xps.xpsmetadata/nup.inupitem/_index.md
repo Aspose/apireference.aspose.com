@@ -3,7 +3,7 @@ title: Interface NUp.INUpItem
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.NUpINUpItem インターフェース. 任意のインターフェイスJobNUpAllDocumentsContiguouslyまたDocumentNUp機能アイテム.
 type: docs
-weight: 1610
+weight: 1620
 url: /ja/net/aspose.page.xps.xpsmetadata/nup.inupitem/
 ---
 ## NUp.INUpItem interface

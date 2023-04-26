@@ -3,7 +3,7 @@ title: Class PageWatermark.Layering
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayering فصل. يصف الداخلية ميزة. يحدد سلوك طبقات العلامة المائية.
 type: docs
-weight: 2670
+weight: 2680
 url: /ar/net/aspose.page.xps.xpsmetadata/pagewatermark.layering/
 ---
 ## PageWatermark.Layering class

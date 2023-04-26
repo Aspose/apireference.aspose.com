@@ -3,7 +3,7 @@ title: Class PagePhotoPrintingIntent
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PagePhotoPrintingIntent sınıf. Fotoğraf yazdırma ayarlarının doldurulması için sürücünün üst düzey niyetini belirtir. Bu ayarlar bir kullanıcının fotoğrafları yazdırırken belirtebileceği beklenen çıktı kalitesiyle ilgilidir. https//docs.microsoft.com/enus/windows /win32/printdocs/pagephotoprintingintent
 type: docs
-weight: 2390
+weight: 2400
 url: /tr/net/aspose.page.xps.xpsmetadata/pagephotoprintingintent/
 ---
 ## PagePhotoPrintingIntent class

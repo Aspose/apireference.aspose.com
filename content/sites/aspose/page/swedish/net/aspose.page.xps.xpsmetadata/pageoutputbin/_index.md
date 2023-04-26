@@ -3,7 +3,7 @@ title: Class PageOutputBin
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PageOutputBin klass. Beskriver hela listan över fack som stöds för enheten. Tillåter specifikation av utmatningsfacket per sida. TheJobOutputBin DocumentOutputBin ochPageOutputBin nyckelord är ömsesidigt uteslutande endast ett bör anges i ett PrintTicket eller Print Capabilitiesdokument. https//docs.microsoft.com/enus/windows/win32/printdocs/pageoutputbin
 type: docs
-weight: 2320
+weight: 2330
 url: /sv/net/aspose.page.xps.xpsmetadata/pageoutputbin/
 ---
 ## PageOutputBin class

@@ -3,7 +3,7 @@ title: Class StringValue
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsMetadata.StringValue فصل. الفئة التي تتضمن قيمة سلسلة في مستند PrintTicket .
 type: docs
-weight: 2910
+weight: 2920
 url: /ar/net/aspose.page.xps.xpsmetadata/stringvalue/
 ---
 ## StringValue class

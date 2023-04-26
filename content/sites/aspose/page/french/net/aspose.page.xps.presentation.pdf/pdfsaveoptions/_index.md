@@ -3,7 +3,7 @@ title: Class PdfSaveOptions
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.Presentation.Pdf.PdfSaveOptions classe. Classe pour les options denregistrement XPSasPDF.
 type: docs
-weight: 440
+weight: 450
 url: /fr/net/aspose.page.xps.presentation.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

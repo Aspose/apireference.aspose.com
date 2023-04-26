@@ -3,7 +3,7 @@ title: Class JpegSaveOptions
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.Presentation.Image.JpegSaveOptions 班级. XPSasJPEG 保存选项的类
 type: docs
-weight: 370
+weight: 380
 url: /zh/net/aspose.page.xps.presentation.image/jpegsaveoptions/
 ---
 ## JpegSaveOptions class

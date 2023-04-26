@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.Xps.Sunumad alanı XPS belgesini diğer biçimlere işlemek için temel sınıflar sağlar.
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.page.xps.presentation/
 ---
 **Aspose.Page.Xps.Sunum**ad alanı, XPS belgesini diğer biçimlere işlemek için temel sınıflar sağlar.

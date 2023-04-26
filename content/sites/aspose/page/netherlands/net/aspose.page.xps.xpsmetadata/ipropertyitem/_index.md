@@ -3,7 +3,7 @@ title: Interface IPropertyItem
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.IPropertyItem koppel. De basisinterface voor klassen die een PrintTicket kunnen zijnProperty artikelen.
 type: docs
-weight: 980
+weight: 990
 url: /nl/net/aspose.page.xps.xpsmetadata/ipropertyitem/
 ---
 ## IPropertyItem interface

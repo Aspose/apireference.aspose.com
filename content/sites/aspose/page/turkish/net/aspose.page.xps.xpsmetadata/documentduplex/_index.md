@@ -3,7 +3,7 @@ title: Class DocumentDuplex
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentDuplex sınıf. Çıktının çift yönlü özelliklerini açıklar. Dubleks özelliği for ortamın her iki tarafına yazdırmaya izin verir. Her belge ayrı olarak duplekslenir. DocumentDuplex ve JobDuplexAllDocumentsContiguously birbirini dışlar. Bu anahtar kelimeler arasındaki kısıtlama yönetimini belirlemek sürücüye bağlıdır. https//docs.microsoft.com/enus/windows/win32/printdocs/ Documentduplex
 type: docs
-weight: 690
+weight: 700
 url: /tr/net/aspose.page.xps.xpsmetadata/documentduplex/
 ---
 ## DocumentDuplex class

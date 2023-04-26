@@ -3,7 +3,7 @@ title: Enum PdfTextCompression
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.Presentation.Pdf.PdfTextCompression एनुम. छवयं क छड़कर पडएफ फइल में सभ समग्रयं पर लगू संपड़न के प्रकर क नर्दष्ट करत है
 type: docs
-weight: 450
+weight: 460
 url: /hi/net/aspose.page.xps.presentation.pdf/pdftextcompression/
 ---
 ## PdfTextCompression enumeration

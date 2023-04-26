@@ -3,7 +3,7 @@ title: PsDocument.SetPaint
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. تعيين الطلاء في حالة الرسومات الحالية.
 type: docs
-weight: 240
+weight: 260
 url: /ar/net/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument.SetPaint method

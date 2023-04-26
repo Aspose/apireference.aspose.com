@@ -3,7 +3,7 @@ title: PsDocument.SetPaint
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Ορίζει τη βαφή στην τρέχουσα κατάσταση γραφικών.
 type: docs
-weight: 240
+weight: 260
 url: /el/net/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument.SetPaint method

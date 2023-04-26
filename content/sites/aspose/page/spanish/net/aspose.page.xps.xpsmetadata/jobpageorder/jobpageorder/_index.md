@@ -16,7 +16,7 @@ public JobPageOrder(params JobPageOrderOption[] options)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| options | JobPageOrderOption[] | Una matriz de opciones específicas para la característica. |
+| options | JobPageOrderOption[] | Una matriz de opciones específicas para la función. |
 
 ### Ver también
 

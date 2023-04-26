@@ -3,7 +3,7 @@ title: Class XpsHyperlinkElement
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsModel.XpsHyperlinkElement τάξη. Ενσωματώνει κοινά χαρακτηριστικά των στοιχείων XPS που μπορεί να είναι υπερσύνδεσμος.
 type: docs
-weight: 3120
+weight: 3130
 url: /el/net/aspose.page.xps.xpsmodel/xpshyperlinkelement/
 ---
 ## XpsHyperlinkElement class

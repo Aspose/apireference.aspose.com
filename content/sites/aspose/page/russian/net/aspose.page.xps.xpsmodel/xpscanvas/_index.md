@@ -3,7 +3,7 @@ title: Class XpsCanvas
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsModel.XpsCanvas сорт. Класс инкапсулирующий функции элемента Canvas. Этот элемент группирует элементы вместе. Например элементы Glyphs и Path могут быть сгруппированы на холсте чтобы их можно было идентифицировать как единое целое как место назначения гиперссылки или для применения составного значения свойства к каждому дочернему элементу и элементупредку.
 type: docs
-weight: 2970
+weight: 2980
 url: /ru/net/aspose.page.xps.xpsmodel/xpscanvas/
 ---
 ## XpsCanvas class

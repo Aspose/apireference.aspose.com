@@ -3,7 +3,7 @@ title: Class DocumentRollCut
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentRollCut τάξη. Περιγράφει τη μέθοδο κοπής για χαρτί σε ρολό. Κάθε έγγραφο αντιμετωπίζεται χωριστά. Οι καθορισμένες επιλογές περιγράφουν τις διαφορετικές μεθόδους για την κοπή σε ρολό. https//docs.microsoft.com/enus/windows/win32/printdocs/documentrollcut
 type: docs
-weight: 790
+weight: 800
 url: /el/net/aspose.page.xps.xpsmetadata/documentrollcut/
 ---
 ## DocumentRollCut class

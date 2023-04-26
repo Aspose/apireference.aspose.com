@@ -3,7 +3,7 @@ title: Enum XpsLineCap
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsModel.XpsLineCap Sıralama. Yol öğesinin StrokeStartLineCap ve StrokeEndLineCap özelliklerinin geçerli değerleri.
 type: docs
-weight: 3180
+weight: 3190
 url: /tr/net/aspose.page.xps.xpsmodel/xpslinecap/
 ---
 ## XpsLineCap enumeration

@@ -3,7 +3,7 @@ title: Class DocumentCollate
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.DocumentCollate сорт. Описывает характеристики сортировки выходных данных. Все страницы в каждом отдельном документе сортируются. DocumentCollate и JobCollateAlldocuments являются взаимоисключающими. Поведение и реализация того реализованы ли оба или только одно из этих ключевых слов оставлены драйверу. https//docs.microsoft.com/enus/windows/win32/printdocs/documentcollate
 type: docs
-weight: 610
+weight: 620
 url: /ru/net/aspose.page.xps.xpsmetadata/documentcollate/
 ---
 ## DocumentCollate class

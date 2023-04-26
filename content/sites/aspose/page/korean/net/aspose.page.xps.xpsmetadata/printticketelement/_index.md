@@ -3,7 +3,7 @@ title: Class PrintTicketElement
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PrintTicketElement 수업. 인쇄 스키마 요소일 수 있는 클래스의 기본 클래스입니다.
 type: docs
-weight: 2800
+weight: 2810
 url: /ko/net/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

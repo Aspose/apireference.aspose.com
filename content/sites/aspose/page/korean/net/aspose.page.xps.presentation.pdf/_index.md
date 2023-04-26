@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Pdf
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.Xps.Presentation.Pdf 네임스페이스는 XPS 문서를 PDF 문서로 렌더링하기 위한 클래스를 제공합니다.
 type: docs
-weight: 90
+weight: 100
 url: /ko/net/aspose.page.xps.presentation.pdf/
 ---
 **Aspose.Page.Xps.Presentation.Pdf** 네임스페이스는 XPS 문서를 PDF 문서로 렌더링하기 위한 클래스를 제공합니다.

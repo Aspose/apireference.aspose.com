@@ -3,7 +3,7 @@ title: Class PageDestinationColorProfileURI
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageDestinationColorProfileURI classe. Specifica un riferimento URI relativo a un profilo ICC contenuto in un documento XPS. Lelaborazione di questa opzione dipende dallimpostazione della funzione PageDeviceColorSpaceUsage. Si presuppone che tutti gli elementi che utilizzano quel profilo siano già nello spazio colore del dispositivo appropriato e non sarà gestito il colore nel driver o nel dispositivo. https//docs.microsoft.com/enus/windows/win32/printdocs/pagedestinationcolorprofileuri
 type: docs
-weight: 1910
+weight: 1920
 url: /it/net/aspose.page.xps.xpsmetadata/pagedestinationcolorprofileuri/
 ---
 ## PageDestinationColorProfileURI class

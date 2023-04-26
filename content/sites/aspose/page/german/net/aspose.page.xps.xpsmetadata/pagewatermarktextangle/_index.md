@@ -3,7 +3,7 @@ title: Class PageWatermarkTextAngle
 second_title: Aspose.Page für .NET-API-Referenz
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkTextAngle klas. Gibt den Winkel des Wasserzeichentextes relativ zum Richtung. Der Winkel wird gegen den Uhrzeigersinn gemessen. https//docs.microsoft.com/enus/windows/win32/printdocs/pagewatermarktextangle
 type: docs
-weight: 2720
+weight: 2730
 url: /de/net/aspose.page.xps.xpsmetadata/pagewatermarktextangle/
 ---
 ## PageWatermarkTextAngle class

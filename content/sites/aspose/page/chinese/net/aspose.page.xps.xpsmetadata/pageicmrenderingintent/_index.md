@@ -3,7 +3,7 @@ title: Class PageICMRenderingIntent
 second_title: Aspose.Page for .NET API 参考
 description: Aspose.Page.XPS.XpsMetadata.PageICMRenderingIntent 班级. 描述 ICC v2 规范定义的渲染意图 如果图像或图形元素具有指定渲染意图的嵌入配置文件 则应忽略此值 https//docs.microsoft.com/enus/窗户/win32/printdocs/pageicmrenderingintent
 type: docs
-weight: 1990
+weight: 2000
 url: /zh/net/aspose.page.xps.xpsmetadata/pageicmrenderingintent/
 ---
 ## PageICMRenderingIntent class

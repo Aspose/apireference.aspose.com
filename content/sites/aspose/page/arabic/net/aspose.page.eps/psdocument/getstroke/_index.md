@@ -3,7 +3,7 @@ title: PsDocument.GetStroke
 second_title: Aspose.Page لمرجع NET API
 description: PsDocument طريقة. يحصل على ضربة حالة الرسومات الحالية .
 type: docs
-weight: 140
+weight: 160
 url: /ar/net/aspose.page.eps/psdocument/getstroke/
 ---
 ## PsDocument.GetStroke method

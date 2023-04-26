@@ -3,7 +3,7 @@ title: Class DocumentInputBin
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentInputBin clase. Describe el contenedor de entrada instalado en un dispositivo o la lista completa de contenedores admitidos para un dispositivo. ElJobInputBin DocumentInputBin  yPageInputBin Las palabras clave se excluyen mutuamente. Ambos no deben especificarse simultáneamente en un documento PrintTicket o Print Capabilities. https//docs.microsoft.com/enus/windows/win32/printdocs/documentinputbin
 type: docs
-weight: 730
+weight: 740
 url: /es/net/aspose.page.xps.xpsmetadata/documentinputbin/
 ---
 ## DocumentInputBin class

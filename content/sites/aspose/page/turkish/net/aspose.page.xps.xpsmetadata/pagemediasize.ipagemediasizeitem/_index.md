@@ -3,7 +3,7 @@ title: Interface PageMediaSize.IPageMediaSizeItem
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeIPageMediaSizeItem arayüz. Herhangi birinin arayüzüPageMediaSize öğe.
 type: docs
-weight: 2060
+weight: 2070
 url: /tr/net/aspose.page.xps.xpsmetadata/pagemediasize.ipagemediasizeitem/
 ---
 ## PageMediaSize.IPageMediaSizeItem interface

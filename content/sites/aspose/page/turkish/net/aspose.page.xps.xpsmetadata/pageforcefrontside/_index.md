@@ -3,7 +3,7 @@ title: Class PageForceFrontSide
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.PageForceFrontSide sınıf. Çıktının bir ortam sayfasının önünde görünmesini sağlar. Her iki tarafında farklı yüzeyleri olan ortam sayfaları ile ilgili. Bu özelliğin işleme seçeneklerine müdahale ettiği durumlarda örneğin DocumentDuplex  özelliğin uygulandığı belirli sayfası için öncelik taşır.
 type: docs
-weight: 1970
+weight: 1980
 url: /tr/net/aspose.page.xps.xpsmetadata/pageforcefrontside/
 ---
 ## PageForceFrontSide class

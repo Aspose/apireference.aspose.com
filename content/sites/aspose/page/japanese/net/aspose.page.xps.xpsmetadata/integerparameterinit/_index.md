@@ -3,7 +3,7 @@ title: Class IntegerParameterInit
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.IntegerParameterInit クラス. すべての整数パラメーター初期化子の基本クラス
 type: docs
-weight: 1110
+weight: 1120
 url: /ja/net/aspose.page.xps.xpsmetadata/integerparameterinit/
 ---
 ## IntegerParameterInit class

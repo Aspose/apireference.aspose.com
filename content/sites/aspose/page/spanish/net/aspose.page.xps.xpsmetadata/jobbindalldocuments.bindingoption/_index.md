@@ -3,7 +3,7 @@ title: Class JobBindAllDocuments.BindingOption
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.JobBindAllDocumentsBindingOption clase. Describe elJobBindAllDocuments opciones de funciones.
 type: docs
-weight: 1170
+weight: 1180
 url: /es/net/aspose.page.xps.xpsmetadata/jobbindalldocuments.bindingoption/
 ---
 ## JobBindAllDocuments.BindingOption class
@@ -36,7 +36,7 @@ public sealed class BindingOption : Option
 
 | Nombre | Descripción |
 | --- | --- |
-| static [Bale](../../aspose.page.xps.xpsmetadata/bindingoption/bale/) | Especifica el atado de balas. |
+| static [Bale](../../aspose.page.xps.xpsmetadata/bindingoption/bale/) | Especifica el atado de fardos. |
 | static [BindBottom](../../aspose.page.xps.xpsmetadata/bindingoption/bindbottom/) | Especifica la unión a lo largo del borde inferior. |
 | static [BindLeft](../../aspose.page.xps.xpsmetadata/bindingoption/bindleft/) | Especifica la unión a lo largo del borde izquierdo. |
 | static [BindRight](../../aspose.page.xps.xpsmetadata/bindingoption/bindright/) | Especifica la unión a lo largo del borde derecho. |

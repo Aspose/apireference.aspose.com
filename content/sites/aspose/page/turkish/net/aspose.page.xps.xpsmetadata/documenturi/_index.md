@@ -3,7 +3,7 @@ title: Class DocumentURI
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.DocumentURI sınıf. Belge için tek tip bir kaynak tanımlayıcısı URI belirtir. https//docs.microsoft.com/enus/windows/win32/printdocs/documenturi
 type: docs
-weight: 830
+weight: 840
 url: /tr/net/aspose.page.xps.xpsmetadata/documenturi/
 ---
 ## DocumentURI class

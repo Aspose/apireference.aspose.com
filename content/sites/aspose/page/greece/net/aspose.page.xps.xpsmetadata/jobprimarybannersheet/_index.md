@@ -3,7 +3,7 @@ title: Class JobPrimaryBannerSheet
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.JobPrimaryBannerSheet τάξη. Περιγράφει το φύλλο banner που θα βγει για την εργασία. Το φύλλο banner θα πρέπει να βγαίνει στο default PageMediaSize και χρησιμοποιώντας την προεπιλογήPageMediaType . Το φύλλο banner θα πρέπει να απομονωθεί από την υπόλοιπη εργασία. Αυτό σημαίνει ότι τυχόν επιλογές φινιρίσματος ή επεξεργασίας όπως JobDuplexAllDocumentsContiguously JobStapleAllDocuments  ήJobBindAllDocuments  δεν πρέπει να περιλαμβάνει το φύλλο banner. Το φύλλο banner πρέπει να εμφανίζεται ως το πρώτο φύλλο της εργασίας.
 type: docs
-weight: 1470
+weight: 1480
 url: /el/net/aspose.page.xps.xpsmetadata/jobprimarybannersheet/
 ---
 ## JobPrimaryBannerSheet class

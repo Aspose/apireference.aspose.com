@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsDocument クラス. XPS ドキュメントのメイン エンティティをカプセル化するクラスで任意の XPS 要素の操作 メソッドを提供します
 type: docs
-weight: 470
+weight: 480
 url: /ja/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class

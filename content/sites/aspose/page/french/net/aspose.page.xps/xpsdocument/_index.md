@@ -3,7 +3,7 @@ title: Class XpsDocument
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsDocument classe. Classe encapsulant lentité principale du document XPS qui fournit des méthodes de manipulation pour tout élément XPS.
 type: docs
-weight: 470
+weight: 480
 url: /fr/net/aspose.page.xps/xpsdocument/
 ---
 ## XpsDocument class

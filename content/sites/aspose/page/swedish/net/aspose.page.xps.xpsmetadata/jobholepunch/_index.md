@@ -3,7 +3,7 @@ title: Class JobHolePunch
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobHolePunch klass. Beskriver håltagningsegenskaperna för utgången. Alla dokument är stansade tillsammans. TheJobHolePunch ochDocumentHolePunchnyckelord utesluter varandra. Båda bör inte anges samtidigt i ett PrintTicket eller Print Capabilitiesdokument. https//docs.microsoft.com/enus/windows/win32/printdocs/jobholepunch
 type: docs
-weight: 1350
+weight: 1360
 url: /sv/net/aspose.page.xps.xpsmetadata/jobholepunch/
 ---
 ## JobHolePunch class

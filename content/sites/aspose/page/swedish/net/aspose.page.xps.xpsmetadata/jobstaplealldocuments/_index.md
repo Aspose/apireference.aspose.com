@@ -3,7 +3,7 @@ title: Class JobStapleAllDocuments
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobStapleAllDocuments klass. Beskriver utdatas häftningsegenskaper. Alla dokument i jobbet häftas ihop. DenJobStapleAllDocuments ochDocumentStaple nyckelord är ömsesidigt uteslutande. Det är upp till föraren att bestämma hantering av restriktioner mellan dessa nyckelord. https//docs.microsoft.com/enus/windows/win32/printdocs/jobstaplealldocuments
 type: docs
-weight: 1580
+weight: 1590
 url: /sv/net/aspose.page.xps.xpsmetadata/jobstaplealldocuments/
 ---
 ## JobStapleAllDocuments class

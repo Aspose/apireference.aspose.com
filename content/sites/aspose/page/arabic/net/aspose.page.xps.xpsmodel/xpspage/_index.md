@@ -3,7 +3,7 @@ title: Class XpsPage
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsPage فصل. فئة تتضمن ميزات عنصر FixedPage . يحتوي هذا العنصر على محتويات الصفحة وهو العنصر الجذر لجزء FixedPage .
 type: docs
-weight: 3230
+weight: 3240
 url: /ar/net/aspose.page.xps.xpsmodel/xpspage/
 ---
 ## XpsPage class

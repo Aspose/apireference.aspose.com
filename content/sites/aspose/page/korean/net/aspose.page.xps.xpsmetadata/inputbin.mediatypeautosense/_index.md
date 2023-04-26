@@ -3,7 +3,7 @@ title: Class InputBin.MediaTypeAutoSense
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaTypeAutoSense 수업. 에 대한 상수를 정의합니다. 스코어링된 속성 값.
 type: docs
-weight: 1100
+weight: 1110
 url: /ko/net/aspose.page.xps.xpsmetadata/inputbin.mediatypeautosense/
 ---
 ## InputBin.MediaTypeAutoSense class

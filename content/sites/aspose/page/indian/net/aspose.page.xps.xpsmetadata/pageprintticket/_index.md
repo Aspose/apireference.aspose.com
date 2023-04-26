@@ -3,7 +3,7 @@ title: Class PagePrintTicket
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.PagePrintTicket कक्ष. वह वर्ग ज पृष्ठस्तरय प्रंट टकट समहत करत है
 type: docs
-weight: 2420
+weight: 2430
 url: /hi/net/aspose.page.xps.xpsmetadata/pageprintticket/
 ---
 ## PagePrintTicket class

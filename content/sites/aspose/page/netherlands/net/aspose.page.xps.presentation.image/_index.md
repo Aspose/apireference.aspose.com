@@ -3,7 +3,7 @@ title: Aspose.Page.XPS.Presentation.Image
 second_title: Aspose.Page voor .NET API-referentie
 description: De Aspose.Page.Xps.Presentation.Image naamruimte biedt klassen voor het weergeven van XPS document naar een afbeelding.
 type: docs
-weight: 80
+weight: 90
 url: /nl/net/aspose.page.xps.presentation.image/
 ---
 De **Aspose.Page.Xps.Presentation.Image** naamruimte biedt klassen voor het weergeven van XPS -document naar een afbeelding.

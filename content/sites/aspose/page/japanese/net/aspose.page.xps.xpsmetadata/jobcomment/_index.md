@@ -3,7 +3,7 @@ title: Class JobComment
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.JobComment クラス. ジョブに関連付けられたコメントを指定します例完成したら1234号室に届けてください. https//docs.microsoft.com/enus/windows/win32/printdocs/jobcomment
 type: docs
-weight: 1210
+weight: 1220
 url: /ja/net/aspose.page.xps.xpsmetadata/jobcomment/
 ---
 ## JobComment class

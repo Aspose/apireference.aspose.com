@@ -3,7 +3,7 @@ title: Class PrintTicket
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.PrintTicket klass. Klassen som implementerar en gemensam PrintTicket oavsett omfattning. Basklassen för utskriftsbiljetter på jobb dokument och sidnivå. Aelement är rotelementet i PrintTicketdokumentet. A elementet innehåller all jobbformateringsinformation som krävs för att mata ut ett jobb. https//docs.microsoft.com/enus/windows/win32/printdocs/printticket
 type: docs
-weight: 2790
+weight: 2800
 url: /sv/net/aspose.page.xps.xpsmetadata/printticket/
 ---
 ## PrintTicket class

@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: Aspose.Page لمرجع NET API
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget فصل. فئة تتضمن هدف الارتباط التشعبي ذي العنوان المسمى النسبي.
 type: docs
-weight: 3040
+weight: 3050
 url: /ar/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

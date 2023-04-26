@@ -3,7 +3,7 @@ title: Class IntegerValue
 second_title: Aspose.Page for .NET API リファレンス
 description: Aspose.Page.XPS.XpsMetadata.IntegerValue クラス. PrintTicket ドキュメントで整数値をカプセル化するクラス
 type: docs
-weight: 1120
+weight: 1130
 url: /ja/net/aspose.page.xps.xpsmetadata/integervalue/
 ---
 ## IntegerValue class

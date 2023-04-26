@@ -3,7 +3,7 @@ title: Class DocumentStaple
 second_title: Referencia de la API de Aspose.Page para .NET
 description: Aspose.Page.XPS.XpsMetadata.DocumentStaple clase. Describe las características de grapado de la salida. Cada documento se grapa por separado. ElJobStapleAllDocuments yDocumentStaplelas palabras clave son mutuamente excluyentes. Depende del controlador determinar el manejo de restricciones entre estas palabras clave. https//docs.microsoft.com/enus/windows/win32/printdocs/documentstaple
 type: docs
-weight: 820
+weight: 830
 url: /es/net/aspose.page.xps.xpsmetadata/documentstaple/
 ---
 ## DocumentStaple class

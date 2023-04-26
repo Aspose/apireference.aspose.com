@@ -3,7 +3,7 @@ title: Class PageWatermark.LayeringOption
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.XpsMetadata.PageWatermarkLayeringOption kelas. MenjelaskanLayering opsi fitur.
 type: docs
-weight: 2680
+weight: 2690
 url: /id/net/aspose.page.xps.xpsmetadata/pagewatermark.layeringoption/
 ---
 ## PageWatermark.LayeringOption class

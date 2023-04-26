@@ -3,7 +3,7 @@ title: Class JobErrorSheet
 second_title: Aspose.Page för .NET API-referens
 description: Aspose.Page.XPS.XpsMetadata.JobErrorSheet klass. Beskriver felbladets utdata. Hela jobbet kommer att ha ett enda felark. Felet sheet bör matas ut som standardPageMediaSize och använder standardPageMediaType . Felarket bör isoleras från resten av jobbet. Detta innebär att eventuella efterbehandlings eller bearbetningsalternativ som t.ex   eller  bör inte inkludera felbladet. Felarket bör visas som det sista arket för jobbet. https//docs.microsoft.com/enus/windows/win32/printdocs/joberrorsheet
 type: docs
-weight: 1290
+weight: 1300
 url: /sv/net/aspose.page.xps.xpsmetadata/joberrorsheet/
 ---
 ## JobErrorSheet class

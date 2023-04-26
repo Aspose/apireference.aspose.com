@@ -3,7 +3,7 @@ title: Class PageImageableSize
 second_title: Aspose.Page per riferimento all'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageImageableSize classe. Descrive la tela con immagini per il layout e il rendering. Questo verrà segnalato in base a PageMediaSize EPageOrientation . https//docs.microsoft.com/enus/windows/win32/printdocs/pageimageablesize
 type: docs
-weight: 2010
+weight: 2020
 url: /it/net/aspose.page.xps.xpsmetadata/pageimageablesize/
 ---
 ## PageImageableSize class

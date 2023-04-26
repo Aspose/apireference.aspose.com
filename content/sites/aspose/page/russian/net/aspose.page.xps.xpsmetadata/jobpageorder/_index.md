@@ -3,7 +3,7 @@ title: Class JobPageOrder
 second_title: Справочник по Aspose.Page для .NET API
 description: Aspose.Page.XPS.XpsMetadata.JobPageOrder сорт. Определяет порядок физических страниц для вывода. https//docs.microsoft.com/enus/windows/win32/printdocs/jobpageorder
 type: docs
-weight: 1450
+weight: 1460
 url: /ru/net/aspose.page.xps.xpsmetadata/jobpageorder/
 ---
 ## JobPageOrder class

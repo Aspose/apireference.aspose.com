@@ -3,7 +3,7 @@ title: PsDocument.ClosePage
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Ολοκληρώστε την τρέχουσα σελίδα.
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.page.eps/psdocument/closepage/
 ---
 ## PsDocument.ClosePage method

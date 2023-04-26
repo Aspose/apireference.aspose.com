@@ -3,7 +3,7 @@ title: Class OutputBin.BinType
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.OutputBinBinType sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 1670
+weight: 1680
 url: /tr/net/aspose.page.xps.xpsmetadata/outputbin.bintype/
 ---
 ## OutputBin.BinType class

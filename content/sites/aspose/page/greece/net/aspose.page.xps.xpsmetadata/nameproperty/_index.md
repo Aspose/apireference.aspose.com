@@ -3,7 +3,7 @@ title: Class NameProperty
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.NameProperty τάξη. Η βασική κλάση γιαJobName καιDocumentNameκλάσεις ιδιοτήτων.
 type: docs
-weight: 1640
+weight: 1650
 url: /el/net/aspose.page.xps.xpsmetadata/nameproperty/
 ---
 ## NameProperty class

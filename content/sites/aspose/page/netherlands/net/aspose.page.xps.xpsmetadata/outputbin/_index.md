@@ -3,7 +3,7 @@ title: Class OutputBin
 second_title: Aspose.Page voor .NET API-referentie
 description: Aspose.Page.XPS.XpsMetadata.OutputBin klas. De basisklasse voorJobOutputBin DocumentOutputBin EnPageOutputBin beschikt over klassen.
 type: docs
-weight: 1660
+weight: 1670
 url: /nl/net/aspose.page.xps.xpsmetadata/outputbin/
 ---
 ## OutputBin class

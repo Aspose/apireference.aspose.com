@@ -3,7 +3,7 @@ title: Interface IFeatureItem
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.IFeatureItem διεπαφή. Η βασική διεπαφή για κλάσεις που μπορεί να είναι Print SchemaFeature αντικείμενα.
 type: docs
-weight: 920
+weight: 930
 url: /el/net/aspose.page.xps.xpsmetadata/ifeatureitem/
 ---
 ## IFeatureItem interface

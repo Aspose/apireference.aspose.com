@@ -3,7 +3,7 @@ title: Class PrintTicketElement
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PrintTicketElement τάξη. Η βασική κλάση για κλάσεις που μπορεί να είναι στοιχεία Print Schema.
 type: docs
-weight: 2800
+weight: 2810
 url: /el/net/aspose.page.xps.xpsmetadata/printticketelement/
 ---
 ## PrintTicketElement class

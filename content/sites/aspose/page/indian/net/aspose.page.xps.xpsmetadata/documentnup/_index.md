@@ -3,7 +3,7 @@ title: Class DocumentNUp
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.DocumentNUp कक्ष. एक भतक शट में कई तर्कक पृष्ठं के आउटपुट और प्ररूप क वर्णन करत है प्रत्येक दस्तवेज़ क अलग से संकलत कय जत है औरJobNUpAllDocumentsContiguously परस्पर अनन्य हैं यह ड्रइवर पर नर्भर है क वह इन कवर्ड्स के बच बध से नपटने क नर्धरण करे
 type: docs
-weight: 740
+weight: 750
 url: /hi/net/aspose.page.xps.xpsmetadata/documentnup/
 ---
 ## DocumentNUp class

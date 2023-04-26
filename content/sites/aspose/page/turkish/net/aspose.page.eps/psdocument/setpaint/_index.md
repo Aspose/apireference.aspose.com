@@ -3,7 +3,7 @@ title: PsDocument.SetPaint
 second_title: Aspose.Page for .NET API Referansı
 description: PsDocument yöntem. Geçerli grafik durumunda boyamayı ayarlar.
 type: docs
-weight: 240
+weight: 260
 url: /tr/net/aspose.page.eps/psdocument/setpaint/
 ---
 ## PsDocument.SetPaint method

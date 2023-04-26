@@ -3,7 +3,7 @@ title: Class XpsElementLinkTarget
 second_title: .NET API 참조용 Aspose.Page
 description: Aspose.Page.XPS.XpsModel.XpsElementLinkTarget 수업. 상대 명명된 주소 하이퍼링크 대상을 캡슐화하는 클래스입니다.
 type: docs
-weight: 3040
+weight: 3050
 url: /ko/net/aspose.page.xps.xpsmodel/xpselementlinktarget/
 ---
 ## XpsElementLinkTarget class

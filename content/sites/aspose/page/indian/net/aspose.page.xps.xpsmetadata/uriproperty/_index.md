@@ -3,7 +3,7 @@ title: Class URIProperty
 second_title: .NET API संदर्भ के लिए Aspose.Page
 description: Aspose.Page.XPS.XpsMetadata.URIProperty कक्ष. के लए आधर वर्गJobURI औरDocumentURIगुण वर्ग.
 type: docs
-weight: 2920
+weight: 2930
 url: /hi/net/aspose.page.xps.xpsmetadata/uriproperty/
 ---
 ## URIProperty class

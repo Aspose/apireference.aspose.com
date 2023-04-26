@@ -3,7 +3,7 @@ title: Class InputBin.MediaPath
 second_title: Aspose.Page for .NET API Referansı
 description: Aspose.Page.XPS.XpsMetadata.InputBinMediaPath sınıf. için sabitleri tanımlar. puanlanan özellik değeri.
 type: docs
-weight: 1080
+weight: 1090
 url: /tr/net/aspose.page.xps.xpsmetadata/inputbin.mediapath/
 ---
 ## InputBin.MediaPath class

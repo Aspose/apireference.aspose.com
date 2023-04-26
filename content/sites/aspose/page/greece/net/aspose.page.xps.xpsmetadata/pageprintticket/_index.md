@@ -3,7 +3,7 @@ title: Class PagePrintTicket
 second_title: Aspose.Page για Αναφορά API .NET
 description: Aspose.Page.XPS.XpsMetadata.PagePrintTicket τάξη. Η κλάση που ενσωματώνει ένα εισιτήριο εκτύπωσης σε επίπεδο σελίδας.
 type: docs
-weight: 2420
+weight: 2430
 url: /el/net/aspose.page.xps.xpsmetadata/pageprintticket/
 ---
 ## PagePrintTicket class

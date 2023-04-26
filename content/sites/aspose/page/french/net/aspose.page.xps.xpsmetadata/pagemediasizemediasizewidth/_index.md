@@ -3,7 +3,7 @@ title: Class PageMediaSizeMediaSizeWidth
 second_title: Aspose.Page pour la référence de l'API .NET
 description: Aspose.Page.XPS.XpsMetadata.PageMediaSizeMediaSizeWidth classe. Spécifie la dimension direction pour la coutume option. https//docs.microsoft.com/enus/windows/win32/printdocs/pagemediasizemediasizewidth
 type: docs
-weight: 2100
+weight: 2110
 url: /fr/net/aspose.page.xps.xpsmetadata/pagemediasizemediasizewidth/
 ---
 ## PageMediaSizeMediaSizeWidth class

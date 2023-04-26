@@ -3,7 +3,7 @@ title: PsDocument.SetPageDevice
 second_title: Aspose.Page για Αναφορά API .NET
 description: PsDocument μέθοδος. Ορίζει τις παραμέτρους της συσκευής σελίδας βλ. τελεστή setpagedevice PostScript specification. Μεταξύ αυτών μπορεί να είναι το μέγεθος και το χρώμα σελίδας κ.λπ.
 type: docs
-weight: 220
+weight: 240
 url: /el/net/aspose.page.eps/psdocument/setpagedevice/
 ---
 ## PsDocument.SetPageDevice method

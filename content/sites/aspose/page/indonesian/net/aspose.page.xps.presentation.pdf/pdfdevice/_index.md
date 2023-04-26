@@ -3,7 +3,7 @@ title: Class PdfDevice
 second_title: Aspose.Page untuk Referensi .NET API
 description: Aspose.Page.XPS.Presentation.Pdf.PdfDevice kelas. Perangkat pembuat gambar yang merangkum kelas.
 type: docs
-weight: 400
+weight: 410
 url: /id/net/aspose.page.xps.presentation.pdf/pdfdevice/
 ---
 ## PdfDevice class
