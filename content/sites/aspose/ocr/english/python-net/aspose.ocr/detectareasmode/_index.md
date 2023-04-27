@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 290
-url: /ocr/python-net/aspose.ocr/detectareasmode/
+url: /python-net/aspose.ocr/detectareasmode/
 ---
 
 ## DetectAreasMode enumeration
@@ -23,6 +23,6 @@ Determines the type of neural network used for areas detection.
 
 ### See Also
 
-* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
-* assembly [Aspose.OCR](/ocr/python-net/)
+* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* assembly [Aspose.OCR](/python-net/)
 

@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /ocr/python-net/aspose.ocr.filters/interpolationfiltertype/
+url: /python-net/aspose.ocr.filters/interpolationfiltertype/
 ---
 
 ## InterpolationFilterType enumeration
@@ -30,6 +30,6 @@ Interpolations, used for scale images.
 
 ### See Also
 
-* namespace [aspose.ocr.filters](/ocr/python-net/aspose.ocr.filters/)
-* assembly [Aspose.OCR](/ocr/python-net/)
+* namespace [aspose.ocr.filters](/python-net/aspose.ocr.filters/)
+* assembly [Aspose.OCR](/python-net/)
 

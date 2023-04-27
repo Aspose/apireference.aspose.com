@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 10
-url: /ocr/python-net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/
+url: /python-net/aspose.ocr.models.preprocessingfilters/preprocessingfilter/
 ---
 
 ## PreprocessingFilter class
@@ -43,6 +43,6 @@ The PreprocessingFilter type exposes the following members:
 
 ### See Also
 
-* namespace [aspose.ocr.models.preprocessingfilters](/ocr/python-net/aspose.ocr.models.preprocessingfilters/)
-* assembly [Aspose.ocr](/ocr/python-net/)
+* namespace [aspose.ocr.models.preprocessingfilters](/python-net/aspose.ocr.models.preprocessingfilters/)
+* assembly [Aspose.ocr](/python-net/)
 

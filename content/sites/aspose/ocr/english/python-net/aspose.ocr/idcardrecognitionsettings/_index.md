@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 90
-url: /ocr/python-net/aspose.ocr/idcardrecognitionsettings/
+url: /python-net/aspose.ocr/idcardrecognitionsettings/
 ---
 
 ## IDCardRecognitionSettings class
@@ -26,6 +26,6 @@ The IDCardRecognitionSettings type exposes the following members:
 
 ### See Also
 
-* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
-* assembly [Aspose.ocr](/ocr/python-net/)
+* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* assembly [Aspose.ocr](/python-net/)
 

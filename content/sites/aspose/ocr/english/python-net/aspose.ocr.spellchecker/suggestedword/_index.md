@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 20
-url: /ocr/python-net/aspose.ocr.spellchecker/suggestedword/
+url: /python-net/aspose.ocr.spellchecker/suggestedword/
 ---
 
 ## SuggestedWord class
@@ -24,6 +24,6 @@ The SuggestedWord type exposes the following members:
 
 ### See Also
 
-* namespace [aspose.ocr.spellchecker](/ocr/python-net/aspose.ocr.spellchecker/)
-* assembly [Aspose.ocr](/ocr/python-net/)
+* namespace [aspose.ocr.spellchecker](/python-net/aspose.ocr.spellchecker/)
+* assembly [Aspose.ocr](/python-net/)
 

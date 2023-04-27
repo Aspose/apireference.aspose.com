@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 140
-url: /ocr/python-net/aspose.ocr/recognitionsettings/
+url: /python-net/aspose.ocr/recognitionsettings/
 ---
 
 ## RecognitionSettings class
@@ -15,7 +15,7 @@ The RecognitionSettings type exposes the following members:
 ## Constructors
 | Name | Description |
 | :- | :- |
-|RecognitionSettings()|Initializes a new instance of the [RecognitionSettings](/ocr/python-net/aspose.ocr/recognitionsettings/) class with auto skew = true.|
+|RecognitionSettings()|Initializes a new instance of the [RecognitionSettings](/python-net/aspose.ocr/recognitionsettings/) class with auto skew = true.|
 |RecognitionSettings(auto_skew)|Initializes a new instance of the RecognitionSettings class|
 ## Properties
 | Name | Description |
@@ -33,6 +33,6 @@ The RecognitionSettings type exposes the following members:
 
 ### See Also
 
-* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
-* assembly [Aspose.ocr](/ocr/python-net/)
+* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* assembly [Aspose.ocr](/python-net/)
 

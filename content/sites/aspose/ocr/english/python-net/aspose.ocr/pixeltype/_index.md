@@ -4,7 +4,7 @@ second_title: Aspose.OCR for Python via .NET API Reference
 description: 
 type: docs
 weight: 310
-url: /ocr/python-net/aspose.ocr/pixeltype/
+url: /python-net/aspose.ocr/pixeltype/
 ---
 
 ## PixelType enumeration
@@ -21,6 +21,6 @@ Determines the type of the pixel data for image recognition.
 
 ### See Also
 
-* namespace [aspose.ocr](/ocr/python-net/aspose.ocr/)
-* assembly [Aspose.OCR](/ocr/python-net/)
+* namespace [aspose.ocr](/python-net/aspose.ocr/)
+* assembly [Aspose.OCR](/python-net/)
 
