@@ -60,6 +60,7 @@ These are links to some useful resources:
 
 {{% alert color="primary" %}}
 
+![Aspose.OCR for Python via .NET Product Logo](home_4.png)
 
 Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise Python via .NET API.
 
