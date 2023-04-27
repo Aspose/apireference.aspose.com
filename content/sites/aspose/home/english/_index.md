@@ -144,6 +144,7 @@ Perform OCR for English, French, Spanish and Portuguese languages in your applic
 {{< blocks/product-item title=".NET" href="/ocr/net/" class="btn-net" >}}
 {{< blocks/product-item title="JAVA" href="/ocr/java/" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="/ocr/cpp/" class="btn-c" >}}
+{{< blocks/product-item title="PYTHON via .NET" href="/ocr/python-net/" class="btn-python" >}}
 
 {{< /blocks/product-card >}}
 
