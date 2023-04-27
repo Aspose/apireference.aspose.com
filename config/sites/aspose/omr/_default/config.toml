@@ -3,6 +3,7 @@ title = "Aspose API References"
 #publishdir = 'public/sites/aspose/html/omr'
 staticdir = 'content/sites/aspose/omr/static'
 enableRobotsTXT = true
+enableGitInfo = true
 disableKinds = ["taxonomy", "taxonomyTerm", "page", "RSS"]
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["api-theme"]
