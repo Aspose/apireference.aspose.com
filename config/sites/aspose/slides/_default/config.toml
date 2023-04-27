@@ -3,6 +3,8 @@ title = "Aspose API References"
 #publishdir = 'public/sites/aspose/html/slides'
 staticdir = 'content/sites/aspose/slides/static'
 enableRobotsTXT = true
+enableGitInfo = true
+disableKinds = ["taxonomy", "taxonomyTerm", "page", "RSS"]
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["api-theme"]
@@ -70,7 +72,6 @@ defaultContentLang = 'en'
     flag = "flag-es"
     weight = 15
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 
 # Image processing configuration.
@@ -157,7 +158,7 @@ footer_about_disable = false
   disableJSON = false
   disableSVG = false
   disableXML = false
-  minifyOutput = false
+  minifyOutput = true
   [minify.tdewolff]
     [minify.tdewolff.css]
       decimals = -1
