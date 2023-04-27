@@ -3,7 +3,7 @@ title = "Aspose API References"
 #publishdir = 'public/sites/aspose/html/omr'
 staticdir = 'content/sites/aspose/omr/static'
 enableRobotsTXT = true
-
+disableKinds = ["taxonomy", "taxonomyTerm", "page", "RSS"]
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["api-theme"]
 
@@ -132,7 +132,7 @@ defaultContentLang = 'en'
     weight = 25
 
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 
 # Image processing configuration.
@@ -219,7 +219,7 @@ footer_about_disable = false
   disableJSON = false
   disableSVG = false
   disableXML = false
-  minifyOutput = false
+  minifyOutput = true
   [minify.tdewolff]
     [minify.tdewolff.css]
       decimals = -1
