@@ -6,7 +6,7 @@ type: docs
 weight: 90
 url: /de/net/aspose.page.xps.presentation.image/
 ---
-Die **Aspose.Page.Xps.Präsentationsbild** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in ein Bild.
+Die **Aspose.Page.Xps.Presentation.Image** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in ein Bild.
 
 ## Klassen
 

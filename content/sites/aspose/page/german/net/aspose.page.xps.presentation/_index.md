@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /de/net/aspose.page.xps.presentation/
 ---
-Die **Aspose.Page.Xps.Präsentation**Namespace bietet Basisklassen zum Rendern von XPS -Dokumenten in andere Formate.
+Die **Aspose.Page.Xps.Presentation**Namespace bietet Basisklassen zum Rendern von XPS -Dokumenten in andere Formate.
 
 ## Klassen
 

@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /zh/net/aspose.page.eps/
 ---
-的 **Aspose.页面.EPS**是所有处理 PS/EPS 文件的类的根命名空间。
+的 **Aspose.Page.EPS** 是所有处理 PS/EPS 文件的类的根命名空间。
 
 ## 课程
 
