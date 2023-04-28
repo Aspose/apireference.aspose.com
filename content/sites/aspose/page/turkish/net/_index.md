@@ -12,14 +12,14 @@ is_root: true
 
 | ad alanı | Tanım |
 | --- | --- |
-| [Aspose.Page](./aspose.page/) | **Aspose.Sayfa**Aspose.Page kitaplığının tüm sınıfları için bir kök ad alanıdır; **Cihaz** veya birkaç alt ad alanı aracılığıyla dolaylı olarak. |
+| [Aspose.Page](./aspose.page/) | **Aspose.Page** Aspose.Page kitaplığının tüm sınıfları için bir kök ad alanıdır; **Cihaz** veya birkaç alt ad alanı aracılığıyla dolaylı olarak. |
 | [Aspose.Page.EPS](./aspose.page.eps/) | **Aspose.Page.EPS** PS/EPS dosyalarıyla ilgilenen tüm sınıflar için bir kök ad alanıdır. |
 | [Aspose.Page.EPS.Device](./aspose.page.eps.device/) | **Aspose.Page.EPS.Device** ad alanı, PS/EPS'yi diğer biçimlere dönüştürürken kullanılabilecek olası aygıt sınıfları ve kaydetme seçenekleri sağlar. |
 | [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp/) | **Aspose.Page.EPS.XMP** ad alanı, EPS dosyalarındaki XMP meta verilerini okumak ve değiştirmek için sınıflar sağlar. |
 | [Aspose.Page.Font](./aspose.page.font/) | **Aspose.Page.Font** ad alanı, yazı tiplerini işlemek için sınıflar içerir. |
 | [Aspose.Page.XPS](./aspose.page.xps/) | **Aspose.Page.XPS** XPS belgesiyle ilgilenen tüm sınıflar için bir kök ad alanıdır. |
-| [Aspose.Page.XPS.Features](./aspose.page.xps.features/) | **Aspose.Page.Xps.Özellikler** ad alanı, XPS spesifikasyonunun ötesinde özellikler sağlar. |
-| [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | **Aspose.Page.Xps.Sunum**ad alanı, XPS belgesini diğer biçimlere işlemek için temel sınıflar sağlar. |
+| [Aspose.Page.XPS.Features](./aspose.page.xps.features/) | **Aspose.Page.Xps.Features** ad alanı, XPS spesifikasyonunun ötesinde özellikler sağlar. |
+| [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | **Aspose.Page.Xps.Presentation**ad alanı, XPS belgesini diğer biçimlere işlemek için temel sınıflar sağlar. |
 | [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | **Aspose.Page.Xps.Presentation.Image** ad alanı, XPS belgesini bir görüntüye dönüştürmek için sınıflar sağlar. |
 | [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | **Aspose.Page.Xps.Presentation.Pdf** ad alanı, XPS belgesini PDF belgesine dönüştürmek için sınıflar sağlar. |
 | [Aspose.Page.XPS.XpsMetadata](./aspose.page.xps.xpsmetadata/) | **Aspose.Page.Xps.XpsMetadata** ad alanı, XPS belgesinin meta verilerini açıklayan sınıflar sağlar. |

@@ -6,7 +6,7 @@ type: docs
 weight: 60
 url: /nl/net/aspose.page.xps/
 ---
-De **Aspose.Pagina.XPS** is een root-naamruimte voor alle klassen die te maken hebben met XPS-document.
+De **Aspose.Page.XPS** is een root-naamruimte voor alle klassen die te maken hebben met XPS-document.
 
 ## Klassen
 

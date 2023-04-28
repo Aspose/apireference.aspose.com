@@ -6,7 +6,7 @@ type: docs
 weight: 110
 url: /ru/net/aspose.page.xps.xpsmetadata/
 ---
-**Aspose.Page.Xps.XpsМетаданные** пространство имен предоставляет классы, описывающие метаданные документа XPS.
+**Aspose.Page.Xps.XpsMetadata** пространство имен предоставляет классы, описывающие метаданные документа XPS.
 
 ## Классы
 

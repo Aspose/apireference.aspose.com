@@ -19,9 +19,9 @@ is_root: true
 | [Aspose.Page.Font](./aspose.page.font/) | Die **Aspose.Page.Font** Namespace enthält Klassen für die Bearbeitung von Schriftarten. |
 | [Aspose.Page.XPS](./aspose.page.xps/) | Die **Aspose.Page.XPS** ist ein Root-Namespace für alle Klassen, die sich mit XPS-Dokumenten befassen. |
 | [Aspose.Page.XPS.Features](./aspose.page.xps.features/) | Die **Aspose.Page.Xps.Features** Namespace bietet Funktionen, die über die XPS-Spezifikation hinausgehen. |
-| [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | Die **Aspose.Page.Xps.Präsentation**Namespace bietet Basisklassen zum Rendern von XPS -Dokumenten in andere Formate. |
-| [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | Die **Aspose.Page.Xps.Präsentationsbild** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in ein Bild. |
-| [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | Die **Aspose.Page.Xps.Präsentation.Pdf** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in PDF-Dokumente. |
+| [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | Die **Aspose.Page.Xps.Presentation**Namespace bietet Basisklassen zum Rendern von XPS -Dokumenten in andere Formate. |
+| [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | Die **Aspose.Page.Xps.Presentation.Image** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in ein Bild. |
+| [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | Die **Aspose.Page.Xps.Presentation.Pdf** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in PDF-Dokumente. |
 | [Aspose.Page.XPS.XpsMetadata](./aspose.page.xps.xpsmetadata/) | Die **Aspose.Page.Xps.XpsMetadata** Namespace stellt Klassen bereit, die Metadaten des XPS-Dokuments beschreiben. |
 | [Aspose.Page.XPS.XpsModel](./aspose.page.xps.xpsmodel/) | Die **Aspose.Page.Xps.XpsModel**Namespace stellt Klassen bereit, die Elemente des XPS-Dokuments beschreiben. |
 

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /zh/net/aspose.page/
 ---
-的 **Aspose.页面**是 Aspose.Page 库的所有类的根命名空间，这些类直接位于其中，例如 **设备**或间接通过几个子命名空间.
+的 **Aspose.Page** 是 Aspose.Page 库的所有类的根命名空间，这些类直接位于其中，例如 **设备**或间接通过几个子命名空间.
 
 ## 课程
 

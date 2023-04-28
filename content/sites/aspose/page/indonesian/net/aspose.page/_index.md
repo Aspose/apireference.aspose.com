@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /id/net/aspose.page/
 ---
-Itu **Aspose.Halaman**adalah root namespace untuk semua kelas perpustakaan Aspose.Page yang langsung ada di dalamnya **Perangkat** atau secara tidak langsung melalui beberapa subnamespaces.
+Itu **Aspose.Page** adalah root namespace untuk semua kelas perpustakaan Aspose.Page yang langsung ada di dalamnya **Perangkat** atau secara tidak langsung melalui beberapa subnamespaces.
 
 ## Kelas
 

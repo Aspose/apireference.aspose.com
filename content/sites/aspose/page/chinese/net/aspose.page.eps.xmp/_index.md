@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /zh/net/aspose.page.eps.xmp/
 ---
-的 **Aspose.页面.EPS.XMP**命名空间提供用于读取、更改 EPS 文件中的 XMP 元数据的类。
+的 **Aspose.Page.EPS.XMP**命名空间提供用于读取、更改 EPS 文件中的 XMP 元数据的类。
 
 ## 课程
 

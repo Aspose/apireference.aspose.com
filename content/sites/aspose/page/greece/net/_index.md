@@ -22,7 +22,7 @@ is_root: true
 | [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | Το **Aspose.Page.Xps.Presentation**Το namespace παρέχει βασικές κλάσεις για την απόδοση του εγγράφου XPS σε άλλες μορφές. |
 | [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | Το **Aspose.Page.Xps.Presentation.Image** Ο χώρος ονομάτων παρέχει κλάσεις για την απόδοση του εγγράφου XPS σε μια εικόνα. |
 | [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | Το **Aspose.Page.Xps.Presentation.Pdf** Το namespace παρέχει κλάσεις για απόδοση εγγράφου XPS σε έγγραφο PDF. |
-| [Aspose.Page.XPS.XpsMetadata](./aspose.page.xps.xpsmetadata/) | Το **Aspose.Page.Xps.XpsΜεταδεδομένα** Το namespace παρέχει κλάσεις που περιγράφουν μεταδεδομένα του εγγράφου XPS. |
+| [Aspose.Page.XPS.XpsMetadata](./aspose.page.xps.xpsmetadata/) | Το **Aspose.Page.Xps.XpsMetadata** Το namespace παρέχει κλάσεις που περιγράφουν μεταδεδομένα του εγγράφου XPS. |
 | [Aspose.Page.XPS.XpsModel](./aspose.page.xps.xpsmodel/) | Το **Aspose.Page.Xps.XpsModel**Το namespace παρέχει κλάσεις που περιγράφουν στοιχεία του εγγράφου XPS. |
 
 

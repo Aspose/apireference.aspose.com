@@ -12,17 +12,17 @@ is_root: true
 
 | espacio de nombres | Descripción |
 | --- | --- |
-| [Aspose.Page](./aspose.page/) | El **Aspose.Página**es un espacio de nombres raíz para todas las clases de la biblioteca Aspose.Page que están directamente en ella como **Dispositivo** o indirectamente a través de varios subnamespaces. |
-| [Aspose.Page.EPS](./aspose.page.eps/) | El **Aspose.Página.EPS** es un espacio de nombres raíz para todas las clases que tratan con archivos PS/EPS. |
-| [Aspose.Page.EPS.Device](./aspose.page.eps.device/) | El **Aspose.Page.EPS.Dispositivo** El espacio de nombres proporciona clases de posibles dispositivos y opciones de guardado que se pueden usar al convertir PS/EPS a otros formatos. |
+| [Aspose.Page](./aspose.page/) | El **Aspose.Page** es un espacio de nombres raíz para todas las clases de la biblioteca Aspose.Page que están directamente en ella como **Dispositivo** o indirectamente a través de varios subnamespaces. |
+| [Aspose.Page.EPS](./aspose.page.eps/) | El **Aspose.Page.EPS** es un espacio de nombres raíz para todas las clases que tratan con archivos PS/EPS. |
+| [Aspose.Page.EPS.Device](./aspose.page.eps.device/) | El **Aspose.Page.EPS.Device** El espacio de nombres proporciona clases de posibles dispositivos y opciones de guardado que se pueden usar al convertir PS/EPS a otros formatos. |
 | [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp/) | El **Aspose.Page.EPS.XMP** El espacio de nombres proporciona clases para leer, cambiar metadatos XMP en archivos EPS. |
-| [Aspose.Page.Font](./aspose.page.font/) | El **Aspose.Page.Fuente** el espacio de nombres contiene clases para la manipulación de fuentes. |
-| [Aspose.Page.XPS](./aspose.page.xps/) | El **Aspose.Página.XPS** es un espacio de nombres raíz para todas las clases que se ocupan del documento XPS. |
-| [Aspose.Page.XPS.Features](./aspose.page.xps.features/) | El **Aspose.Page.Xps.Características** El espacio de nombres proporciona características más allá de la especificación XPS. |
-| [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | El **Aspose.Page.Xps.Presentación**El espacio de nombres proporciona clases base para representar documentos XPS en otros formatos. |
-| [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | El **Aspose.Page.Xps.Presentación.Imagen** El espacio de nombres proporciona clases para representar el documento XPS en una imagen. |
+| [Aspose.Page.Font](./aspose.page.font/) | El **Aspose.Page.Font** el espacio de nombres contiene clases para la manipulación de fuentes. |
+| [Aspose.Page.XPS](./aspose.page.xps/) | El **Aspose.Page.XPS** es un espacio de nombres raíz para todas las clases que se ocupan del documento XPS. |
+| [Aspose.Page.XPS.Features](./aspose.page.xps.features/) | El **Aspose.Page.Xps.Features** El espacio de nombres proporciona características más allá de la especificación XPS. |
+| [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | El **Aspose.Page.Xps.Presentation** El espacio de nombres proporciona clases base para representar documentos XPS en otros formatos. |
+| [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | El **Aspose.Page.Xps.Presentation.Image** El espacio de nombres proporciona clases para representar el documento XPS en una imagen. |
 | [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | El **Aspose.Page.Xps.Presentation.Pdf** El espacio de nombres proporciona clases para representar un documento XPS en un documento PDF. |
 | [Aspose.Page.XPS.XpsMetadata](./aspose.page.xps.xpsmetadata/) | El **Aspose.Page.Xps.XpsMetadata** El espacio de nombres proporciona clases que describen los metadatos del documento XPS. |
-| [Aspose.Page.XPS.XpsModel](./aspose.page.xps.xpsmodel/) | El **Aspose.Page.Xps.XpsModel**El espacio de nombres proporciona clases que describen elementos del documento XPS. |
+| [Aspose.Page.XPS.XpsModel](./aspose.page.xps.xpsmodel/) | El **Aspose.Page.Xps.XpsModel** El espacio de nombres proporciona clases que describen elementos del documento XPS. |
 
 

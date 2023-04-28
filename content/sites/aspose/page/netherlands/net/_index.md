@@ -12,12 +12,12 @@ is_root: true
 
 | Naamruimte | Beschrijving |
 | --- | --- |
-| [Aspose.Page](./aspose.page/) | De **Aspose.Pagina**is een root-naamruimte voor alle klassen van de Aspose.Page-bibliotheek die er direct in staan **Apparaat** of indirect via verschillende subnaamruimten. |
-| [Aspose.Page.EPS](./aspose.page.eps/) | De **Aspose.Pagina.EPS** is een hoofdnaamruimte voor alle klassen die te maken hebben met PS/EPS-bestanden. |
+| [Aspose.Page](./aspose.page/) | De **Aspose.Page**is een root-naamruimte voor alle klassen van de Aspose.Page-bibliotheek die er direct in staan **Apparaat** of indirect via verschillende subnaamruimten. |
+| [Aspose.Page.EPS](./aspose.page.eps/) | De **Aspose.Page.EPS** is een hoofdnaamruimte voor alle klassen die te maken hebben met PS/EPS-bestanden. |
 | [Aspose.Page.EPS.Device](./aspose.page.eps.device/) | De **Aspose.Page.EPS.Device** naamruimte biedt klassen van mogelijke apparaten en opslagopties die kunnen worden gebruikt tijdens het converteren van PS/EPS naar andere formaten. |
-| [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp/) | De **Aspose.Pagina.EPS.XMP** naamruimte biedt klassen voor het lezen en wijzigen van XMP-metagegevens in EPS-bestanden. |
+| [Aspose.Page.EPS.XMP](./aspose.page.eps.xmp/) | De **Aspose.Page.EPS.XMP** naamruimte biedt klassen voor het lezen en wijzigen van XMP-metagegevens in EPS-bestanden. |
 | [Aspose.Page.Font](./aspose.page.font/) | De **Aspose.Page.Font** naamruimte bevat klassen voor het manipuleren van lettertypen. |
-| [Aspose.Page.XPS](./aspose.page.xps/) | De **Aspose.Pagina.XPS** is een root-naamruimte voor alle klassen die te maken hebben met XPS-document. |
+| [Aspose.Page.XPS](./aspose.page.xps/) | De **Aspose.Page.XPS** is een root-naamruimte voor alle klassen die te maken hebben met XPS-document. |
 | [Aspose.Page.XPS.Features](./aspose.page.xps.features/) | De **Aspose.Page.Xps.Features** naamruimte biedt functies die verder gaan dan de XPS-specificatie. |
 | [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | De **Aspose.Page.Xps.Presentation**naamruimte biedt basisklassen voor het weergeven van XPS -documenten naar andere indelingen. |
 | [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | De **Aspose.Page.Xps.Presentation.Image** naamruimte biedt klassen voor het weergeven van XPS -document naar een afbeelding. |

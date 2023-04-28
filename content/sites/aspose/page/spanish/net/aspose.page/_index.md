@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /es/net/aspose.page/
 ---
-El **Aspose.Página**es un espacio de nombres raíz para todas las clases de la biblioteca Aspose.Page que están directamente en ella como **Dispositivo** o indirectamente a través de varios subnamespaces.
+El **Aspose.Page** es un espacio de nombres raíz para todas las clases de la biblioteca Aspose.Page que están directamente en ella como **Dispositivo** o indirectamente a través de varios subnamespaces.
 
 ## Clases
 

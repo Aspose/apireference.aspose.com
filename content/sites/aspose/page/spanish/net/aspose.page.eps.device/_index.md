@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /es/net/aspose.page.eps.device/
 ---
-El **Aspose.Page.EPS.Dispositivo** El espacio de nombres proporciona clases de posibles dispositivos y opciones de guardado que se pueden usar al convertir PS/EPS a otros formatos.
+El **Aspose.Page.EPS.Device** El espacio de nombres proporciona clases de posibles dispositivos y opciones de guardado que se pueden usar al convertir PS/EPS a otros formatos.
 
 ## Clases
 

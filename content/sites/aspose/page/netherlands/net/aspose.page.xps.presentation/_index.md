@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /nl/net/aspose.page.xps.presentation/
 ---
-De **Aspose.Page.Xps.Presentation**naamruimte biedt basisklassen voor het weergeven van XPS -documenten naar andere indelingen.
+De **Aspose.Page.Xps.Presentation** naamruimte biedt basisklassen voor het weergeven van XPS -documenten naar andere indelingen.
 
 ## Klassen
 

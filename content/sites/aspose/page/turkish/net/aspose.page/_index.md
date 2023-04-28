@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /tr/net/aspose.page/
 ---
-**Aspose.Sayfa**Aspose.Page kitaplığının tüm sınıfları için bir kök ad alanıdır; **Cihaz** veya birkaç alt ad alanı aracılığıyla dolaylı olarak.
+**Aspose.Page** Aspose.Page kitaplığının tüm sınıfları için bir kök ad alanıdır; **Cihaz** veya birkaç alt ad alanı aracılığıyla dolaylı olarak.
 
 ## sınıflar
 

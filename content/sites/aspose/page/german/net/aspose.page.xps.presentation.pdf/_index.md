@@ -6,7 +6,7 @@ type: docs
 weight: 100
 url: /de/net/aspose.page.xps.presentation.pdf/
 ---
-Die **Aspose.Page.Xps.Präsentation.Pdf** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in PDF-Dokumente.
+Die **Aspose.Page.Xps.Presentation.Pdf** Namespace bietet Klassen zum Rendern von XPS -Dokumenten in PDF-Dokumente.
 
 ## Klassen
 

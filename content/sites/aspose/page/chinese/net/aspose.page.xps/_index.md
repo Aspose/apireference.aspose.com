@@ -6,7 +6,7 @@ type: docs
 weight: 60
 url: /zh/net/aspose.page.xps/
 ---
-的 **Aspose.页面.XPS**是所有处理 XPS 文档的类的根命名空间。
+的 **Aspose.Page.XPS**是所有处理 XPS 文档的类的根命名空间。
 
 ## 课程
 

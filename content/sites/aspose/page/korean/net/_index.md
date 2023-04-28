@@ -22,7 +22,7 @@ is_root: true
 | [Aspose.Page.XPS.Presentation](./aspose.page.xps.presentation/) | **Aspose.Page.Xps.Presentation**네임스페이스는 XPS 문서를 다른 형식으로 렌더링하기 위한 기본 클래스를 제공합니다. |
 | [Aspose.Page.XPS.Presentation.Image](./aspose.page.xps.presentation.image/) | **Aspose.Page.Xps.Presentation.Image** 네임스페이스는 XPS 문서를 이미지로 렌더링하기 위한 클래스를 제공합니다. |
 | [Aspose.Page.XPS.Presentation.Pdf](./aspose.page.xps.presentation.pdf/) | **Aspose.Page.Xps.Presentation.Pdf** 네임스페이스는 XPS 문서를 PDF 문서로 렌더링하기 위한 클래스를 제공합니다. |
-| [Aspose.Page.XPS.XpsMetadata](./aspose.page.xps.xpsmetadata/) | **Aspose.Page.Xps.Xps메타데이터** 네임스페이스는 XPS 문서의 메타데이터를 설명하는 클래스를 제공합니다. |
+| [Aspose.Page.XPS.XpsMetadata](./aspose.page.xps.xpsmetadata/) | **Aspose.Page.Xps.XpsMetadata** 네임스페이스는 XPS 문서의 메타데이터를 설명하는 클래스를 제공합니다. |
 | [Aspose.Page.XPS.XpsModel](./aspose.page.xps.xpsmodel/) | **Aspose.Page.Xps.XpsModel**네임스페이스는 XPS 문서의 요소를 설명하는 클래스를 제공합니다. |
 
 

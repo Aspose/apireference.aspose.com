@@ -6,7 +6,7 @@ type: docs
 weight: 50
 url: /es/net/aspose.page.font/
 ---
-El **Aspose.Page.Fuente** el espacio de nombres contiene clases para la manipulación de fuentes.
+El **Aspose.Page.Font** el espacio de nombres contiene clases para la manipulación de fuentes.
 
 ## Clases
 

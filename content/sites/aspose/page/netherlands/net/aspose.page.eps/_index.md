@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /nl/net/aspose.page.eps/
 ---
-De **Aspose.Pagina.EPS** is een hoofdnaamruimte voor alle klassen die te maken hebben met PS/EPS-bestanden.
+De **Aspose.Page.EPS** is een hoofdnaamruimte voor alle klassen die te maken hebben met PS/EPS-bestanden.
 
 ## Klassen
 

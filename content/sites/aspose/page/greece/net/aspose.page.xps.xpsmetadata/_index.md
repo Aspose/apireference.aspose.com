@@ -6,7 +6,7 @@ type: docs
 weight: 110
 url: /el/net/aspose.page.xps.xpsmetadata/
 ---
-Το **Aspose.Page.Xps.XpsΜεταδεδομένα** Το namespace παρέχει κλάσεις που περιγράφουν μεταδεδομένα του εγγράφου XPS.
+Το **Aspose.Page.Xps.XpsMetadata** Το namespace παρέχει κλάσεις που περιγράφουν μεταδεδομένα του εγγράφου XPS.
 
 ## Τάξεις
 

@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /es/net/aspose.page.xps.presentation/
 ---
-El **Aspose.Page.Xps.Presentación**El espacio de nombres proporciona clases base para representar documentos XPS en otros formatos.
+El **Aspose.Page.Xps.Presentation** El espacio de nombres proporciona clases base para representar documentos XPS en otros formatos.
 
 ## Clases
 

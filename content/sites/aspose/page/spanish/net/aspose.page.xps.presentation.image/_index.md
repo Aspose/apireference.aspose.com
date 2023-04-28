@@ -6,7 +6,7 @@ type: docs
 weight: 90
 url: /es/net/aspose.page.xps.presentation.image/
 ---
-El **Aspose.Page.Xps.Presentación.Imagen** El espacio de nombres proporciona clases para representar el documento XPS en una imagen.
+El **Aspose.Page.Xps.Presentation.Image** El espacio de nombres proporciona clases para representar el documento XPS en una imagen.
 
 ## Clases
 
