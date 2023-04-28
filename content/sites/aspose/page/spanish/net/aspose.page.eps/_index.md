@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /es/net/aspose.page.eps/
 ---
-El **Aspose.Página.EPS** es un espacio de nombres raíz para todas las clases que tratan con archivos PS/EPS.
+El **Aspose.Page.EPS** es un espacio de nombres raíz para todas las clases que tratan con archivos PS/EPS.
 
 ## Clases
 

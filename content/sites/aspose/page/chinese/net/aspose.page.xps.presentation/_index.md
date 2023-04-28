@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /zh/net/aspose.page.xps.presentation/
 ---
-的 **Aspose.Page.Xps.Presentation 演示文稿**命名空间提供用于将 XPS 文档呈现为其他格式的基类。
+的 **Aspose.Page.Xps.Presentation** 命名空间提供用于将 XPS 文档呈现为其他格式的基类。
 
 ## 课程
 

@@ -6,7 +6,7 @@ type: docs
 weight: 60
 url: /es/net/aspose.page.xps/
 ---
-El **Aspose.Página.XPS** es un espacio de nombres raíz para todas las clases que se ocupan del documento XPS.
+El **Aspose.Page.XPS** es un espacio de nombres raíz para todas las clases que se ocupan del documento XPS.
 
 ## Clases
 

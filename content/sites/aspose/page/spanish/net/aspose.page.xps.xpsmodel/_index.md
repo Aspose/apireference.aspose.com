@@ -6,7 +6,7 @@ type: docs
 weight: 120
 url: /es/net/aspose.page.xps.xpsmodel/
 ---
-El **Aspose.Page.Xps.XpsModel**El espacio de nombres proporciona clases que describen elementos del documento XPS.
+El **Aspose.Page.Xps.XpsModel** El espacio de nombres proporciona clases que describen elementos del documento XPS.
 
 ## Clases
 

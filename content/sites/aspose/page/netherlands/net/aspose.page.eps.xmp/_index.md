@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /nl/net/aspose.page.eps.xmp/
 ---
-De **Aspose.Pagina.EPS.XMP** naamruimte biedt klassen voor het lezen en wijzigen van XMP-metagegevens in EPS-bestanden.
+De **Aspose.Page.EPS.XMP** naamruimte biedt klassen voor het lezen en wijzigen van XMP-metagegevens in EPS-bestanden.
 
 ## Klassen
 

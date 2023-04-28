@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /ru/net/aspose.page.xps.presentation/
 ---
-**Aspose.Page.Xps.Презентация**namespace предоставляет базовые классы для преобразования документа XPS в другие форматы.
+**Aspose.Page.Xps.Presentation** namespace предоставляет базовые классы для преобразования документа XPS в другие форматы.
 
 ## Классы
 

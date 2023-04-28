@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /tr/net/aspose.page.xps.presentation/
 ---
-**Aspose.Page.Xps.Sunum**ad alanı, XPS belgesini diğer biçimlere işlemek için temel sınıflar sağlar.
+**Aspose.Page.Xps.Presentation** ad alanı, XPS belgesini diğer biçimlere işlemek için temel sınıflar sağlar.
 
 ## sınıflar
 

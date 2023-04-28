@@ -6,7 +6,7 @@ type: docs
 weight: 70
 url: /hi/net/aspose.page.xps.features/
 ---
-द **Aspose.Page.Xps.विशेषताएं** नेमस्पेस XPS विनिर्देशन से परे सुविधाएं प्रदान करता है.
+द **Aspose.Page.Xps.Features** नेमस्पेस XPS विनिर्देशन से परे सुविधाएं प्रदान करता है.
 
 ## कक्षाओं
 

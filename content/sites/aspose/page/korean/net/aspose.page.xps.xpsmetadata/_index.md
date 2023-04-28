@@ -6,7 +6,7 @@ type: docs
 weight: 110
 url: /ko/net/aspose.page.xps.xpsmetadata/
 ---
-**Aspose.Page.Xps.Xps메타데이터** 네임스페이스는 XPS 문서의 메타데이터를 설명하는 클래스를 제공합니다.
+**Aspose.Page.Xps.XpsMetadata** 네임스페이스는 XPS 문서의 메타데이터를 설명하는 클래스를 제공합니다.
 
 ## 클래스
 

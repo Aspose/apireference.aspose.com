@@ -6,7 +6,7 @@ type: docs
 weight: 70
 url: /tr/net/aspose.page.xps.features/
 ---
-**Aspose.Page.Xps.Özellikler** ad alanı, XPS spesifikasyonunun ötesinde özellikler sağlar.
+**Aspose.Page.Xps.Features** ad alanı, XPS spesifikasyonunun ötesinde özellikler sağlar.
 
 ## sınıflar
 

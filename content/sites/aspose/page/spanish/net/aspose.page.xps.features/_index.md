@@ -6,7 +6,7 @@ type: docs
 weight: 70
 url: /es/net/aspose.page.xps.features/
 ---
-El **Aspose.Page.Xps.Características** El espacio de nombres proporciona características más allá de la especificación XPS.
+El **Aspose.Page.Xps.Features** El espacio de nombres proporciona características más allá de la especificación XPS.
 
 ## Clases
 
