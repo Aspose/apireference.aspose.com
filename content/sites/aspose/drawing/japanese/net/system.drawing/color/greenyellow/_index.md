@@ -1,0 +1,27 @@
+---
+title: Color.GreenYellow
+second_title: Aspose.Drawing for .NET API リファレンス
+description: Color 財産. FFADFF2F の ARGB 値を持つシステム定義の色を取得します
+type: docs
+weight: 530
+url: /ja/net/system.drawing/color/greenyellow/
+---
+## Color.GreenYellow property
+
+#FFADFF2F の ARGB 値を持つシステム定義の色を取得します。
+
+```csharp
+public static Color GreenYellow { get; }
+```
+
+### 戻り値
+
+あColorシステム定義の色を表します。
+
+### 関連項目
+
+* struct [Color](../)
+* 名前空間 [System.Drawing](../../color/)
+* 組み立て [Aspose.Drawing](../../../)
+
+
