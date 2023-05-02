@@ -100,7 +100,6 @@ rewrite words/java/IPageSavingCallback https://reference.aspose.com/words/java/c
 rewrite words/java/IFieldMergingCallback https://reference.aspose.com/words/java/com.aspose.words/ifieldmergingcallback/ permanent;
 rewrite words/java/LayoutCollector https://reference.aspose.com/words/java/com.aspose.words/layoutcollector/ permanent;
 rewrite ^/(net|java|cpp|php|nodejs|androidjava|python)/(words|pdf|cells|email|slides|imaging|barcode|diagram|tasks|ocr|note|cad|3d|html|gis|zip|psd|omr|page|pub|svg)(.*) https://reference.aspose.com/$2/$1$3 permanent;
-rewrite (net|java)/(viewer|annotation|conversion|comparison|signature|assembly|metadata|search|parser|watermark|editor|merger|redaction|classification)(.*) https://reference.aspose.com/$2/$1$3 permanent;
 rewrite diagram/nodejs/aspose.diagram/(.*) https://reference.aspose.com/diagram/nodejs/$1 permanent;
 rewrite ^/(.*)/package-summary https://reference.aspose.com/$1/ permanent;
 rewrite ^/(.*)/package-frame https://reference.aspose.com/$1/ permanent;
