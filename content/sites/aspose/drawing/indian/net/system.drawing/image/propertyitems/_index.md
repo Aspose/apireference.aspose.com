@@ -1,0 +1,28 @@
+---
+title: Image.PropertyItems
+second_title: .NET API संदर्भ के लिए Aspose.Drawing
+description: Image संपत्त. इसमें संग्रहत सभ संपत्त आइटम मेटडेट के टुकड़े प्रप्त करत हैImage .
+type: docs
+weight: 120
+url: /hi/net/system.drawing/image/propertyitems/
+---
+## Image.PropertyItems property
+
+इसमें संग्रहीत सभी संपत्ति आइटम (मेटाडेटा के टुकड़े) प्राप्त करता हैImage .
+
+```csharp
+public abstract PropertyItem[] PropertyItems { get; }
+```
+
+### प्रतिलाभ की मात्रा
+
+की एक सरणी[`PropertyItem`](../../../system.drawing.imaging/propertyitem/) ऑब्जेक्ट्स, छवि में संग्रहीत प्रत्येक संपत्ति आइटम के लिए एक।
+
+### यह सभी देखें
+
+* class [PropertyItem](../../../system.drawing.imaging/propertyitem/)
+* class [Image](../)
+* नाम स्थान [System.Drawing](../../image/)
+* सभा [Aspose.Drawing](../../../)
+
+

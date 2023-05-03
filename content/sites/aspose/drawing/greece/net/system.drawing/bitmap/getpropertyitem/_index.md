@@ -1,0 +1,32 @@
+---
+title: Bitmap.GetPropertyItem
+second_title: Aspose.Drawing for .NET API Reference
+description: Bitmap μέθοδος. Λαμβάνει το καθορισμένο στοιχείο ιδιότητας από αυτόImage .
+type: docs
+weight: 120
+url: /el/net/system.drawing/bitmap/getpropertyitem/
+---
+## Bitmap.GetPropertyItem method
+
+Λαμβάνει το καθορισμένο στοιχείο ιδιότητας από αυτόImage .
+
+```csharp
+public override PropertyItem GetPropertyItem(int propid)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| propid | Int32 | Το αναγνωριστικό του στοιχείου ιδιοκτησίας που πρέπει να αποκτήσετε. |
+
+### Επιστρεφόμενη Αξία
+
+ο[`PropertyItem`](../../../system.drawing.imaging/propertyitem/) αυτή η μέθοδος παίρνει.
+
+### Δείτε επίσης
+
+* class [PropertyItem](../../../system.drawing.imaging/propertyitem/)
+* class [Bitmap](../)
+* χώρος ονομάτων [System.Drawing](../../bitmap/)
+* συνέλευση [Aspose.Drawing](../../../)
+
+
